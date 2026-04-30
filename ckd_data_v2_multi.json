@@ -1,0 +1,307 @@
+{
+  "name": "Bệnh thận mạn — Bộ mở rộng (multi-select)",
+  "description": "5 case lâm sàng BTM, mỗi case 4 câu, có câu chọn nhiều đáp án",
+  "level": "Thi nội trú",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 68 tuổi khó thở khi nằm và phù 2 chân tăng dần",
+      "body": "<b>BN nam 68 tuổi</b>, nội trợ, đến khám vì khó thở tăng dần 1 tuần.<br><br><b>Bệnh sử:</b> 1 tuần nay khó thở khi gắng sức nhẹ, 3 ngày nay phải kê 2 gối khi ngủ, đêm thức giấc vì khó thở. Phù 2 chân tăng dần. Tiểu ít hơn. Không đau ngực, không ho ra máu.<br><br><b>Tiền sử:</b> Tăng huyết áp 20 năm, ĐTĐ type 2 12 năm, BTM giai đoạn 4 (Cre nền 280 µmol/L, eGFR ~22 mL/ph/1.73m²) đang theo dõi ngoại trú. Không có tiền sử nhồi máu cơ tim.<br><br><b>Đang dùng:</b> Lisinopril 20 mg, Amlodipine 10 mg, Metformin 500 mg × 2, Atorvastatin 20 mg.<br><br><b>Khám:</b> Tỉnh, vẻ mệt. M 102 lần/phút, <b>HA 168/95 mmHg</b>, NT 24 lần/phút, SpO₂ 91% khí trời. <b>Tĩnh mạch cổ nổi 8 cm</b> ở tư thế 45°, có phản hồi gan-tĩnh mạch cổ dương tính. <b>Phổi ran ẩm 1/2 dưới 2 bên</b>. Tim đều, có tiếng <b>T3</b>. Bụng mềm, gan to 2 cm dưới bờ sườn. <b>Phù mềm 2 chi dưới đến đầu gối</b>.<br><br><b>Cận lâm sàng:</b> Cre 380 µmol/L (eGFR ~16), Urê 22 mmol/L, K⁺ 5.2 mmol/L, Na⁺ 134, HCO₃⁻ 19 mmol/L. Hb 9.5 g/dL. <b>NT-proBNP 4500 pg/mL</b>. Troponin I bình thường. ECG: nhịp xoang, phì đại thất trái, không thiếu máu cấp. <b>Siêu âm tim:</b> EF 58%, dày thất trái đồng tâm, dấu hiệu rối loạn chức năng tâm trương, áp lực đổ đầy thất trái tăng, không bệnh van tim.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp NHẤT cho tình trạng cấp tính của bệnh nhân là gì?",
+          "options": [
+            "Đợt cấp suy tim với phân suất tống máu giảm trên nền BTM",
+            "Đợt cấp suy tim với phân suất tống máu bảo tồn (HFpEF) trên nền BTM — hội chứng tim-thận type 2",
+            "Phù phổi cấp do hẹp động mạch thận hai bên",
+            "Hội chứng thận hư có tràn dịch đa màng",
+            "Đợt cấp BTM đơn thuần do tiến triển tự nhiên"
+          ],
+          "answer": 1,
+          "explain": "BN có đầy đủ <b>dấu hiệu suy tim sung huyết</b> (TM cổ nổi, T3, ran ẩm phổi, phù, NT-proBNP tăng cao) trên nền BTM. EF bảo tồn 58% với rối loạn chức năng tâm trương → <b>HFpEF</b>. Mối quan hệ BTM mạn → suy tim mạn được gọi là <b>hội chứng tim-thận type 2</b>. Type 1: AKI cấp gây suy tim cấp; Type 2: BTM mạn gây suy tim mạn; Type 3: AKI cấp gây tổn thương tim cấp; Type 4: BTM mạn gây tổn thương tim mạn; Type 5: bệnh hệ thống gây tổn thương cả tim và thận."
+        },
+        {
+          "q": "Các cơ chế nào sau đây giải thích mối liên hệ giữa BTM và suy tim ở bệnh nhân này? (Chọn tất cả các đáp án đúng)",
+          "type": "multi",
+          "options": [
+            "Quá tải thể tích mạn do giảm khả năng thải muối-nước của thận",
+            "Tăng huyết áp kéo dài gây phì đại và xơ hóa thất trái",
+            "Thiếu máu mạn làm tăng cung lượng tim bù trừ",
+            "Vôi hóa mạch máu và cơ tim do rối loạn chuyển hóa Ca-P",
+            "Giảm thể tích tuần hoàn do mất muối qua thận"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explain": "<b>Hội chứng tim-thận</b> có cơ chế đa yếu tố. Đáp án A, B, C, D đều đúng:<br>• <b>Quá tải thể tích</b> do giảm thải muối-nước → tăng tiền tải.<br>• <b>THA mạn</b> → phì đại thất trái đồng tâm → rối loạn chức năng tâm trương (như BN này).<br>• <b>Thiếu máu</b> mạn → tim phải tăng cung lượng → quá tải lâu dài.<br>• <b>Vôi hóa mạch máu và van tim</b> do CKD-MBD → cứng động mạch, rối loạn chức năng cơ tim.<br>Ngoài ra còn có viêm hệ thống, độc tố urê máu, hoạt hóa RAAS và hệ giao cảm. Đáp án E sai vì BTM thường gây giữ muối-nước, không gây mất muối."
+        },
+        {
+          "q": "Ngoài lợi tiểu quai để giảm sung huyết, thuốc nào sau đây ĐÃ CHỨNG MINH cải thiện tiên lượng (giảm tử vong và nhập viện) ở BN HFpEF có kèm BTM?",
+          "options": [
+            "Ức chế SGLT2 (Empagliflozin/Dapagliflozin)",
+            "Digoxin liều thấp",
+            "Ivabradine",
+            "Hydralazine kết hợp Isosorbide dinitrate",
+            "Sacubitril/Valsartan (ARNI) — chỉ được khuyến cáo cho HFrEF"
+          ],
+          "answer": 0,
+          "explain": "Các thử nghiệm <b>EMPEROR-Preserved</b> (Empagliflozin) và <b>DELIVER</b> (Dapagliflozin) đã chứng minh <b>SGLT2i giảm có ý nghĩa biến cố tim mạch và nhập viện vì suy tim ở HFpEF</b>, kể cả ở BN có BTM. Đây là một trong số ít nhóm thuốc có chứng cứ rõ ràng cho HFpEF. KDIGO 2024 khuyến cáo SGLT2i cho BTM với eGFR ≥ 20 mL/ph. Digoxin và Ivabradine chỉ có chỉ định trong HFrEF. Sacubitril/Valsartan có hiệu quả mạnh ở HFrEF, nhưng chứng cứ ở HFpEF kém rõ ràng (PARAGON-HF không đạt endpoint chính)."
+        },
+        {
+          "q": "Tại sao lợi tiểu Thiazide (Hydrochlorothiazide) thường KÉM HIỆU QUẢ ở bệnh nhân này so với lợi tiểu quai?",
+          "options": [
+            "Thiazide gây tăng acid uric máu nên không nên dùng",
+            "Thiazide làm tăng kali máu, chống chỉ định ở BTM",
+            "Thiazide tác dụng ở ống lượn xa, hiệu quả giảm rõ khi eGFR < 30 mL/ph do giảm bài tiết thuốc vào lòng ống thận",
+            "Thiazide gây co tiểu ĐM đến, giảm tưới máu thận",
+            "Thiazide làm tăng đường huyết, không phù hợp BN ĐTĐ"
+          ],
+          "answer": 2,
+          "explain": "Thiazide tác động ở <b>đoạn đầu ống lượn xa</b>. Để đến vị trí này, thuốc phải được <b>bài tiết tích cực vào lòng ống thận</b> ở ống lượn gần qua chất vận chuyển anion hữu cơ. Khi eGFR < 30 mL/ph, khả năng bài tiết giảm → nồng độ thuốc tại vị trí tác dụng không đủ → mất hiệu quả. <b>Lợi tiểu quai (Furosemide)</b> tác dụng ở nhánh lên quai Henle, vẫn giữ hiệu quả ở eGFR thấp. Lưu ý: Thiazide gây <b>HẠ</b> kali máu (không phải tăng), và gây co tiểu ĐM đến không phải cơ chế chính làm giảm hiệu quả."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 56 tuổi đau bụng âm ỉ 2 ngày kèm dịch lọc đục",
+      "body": "<b>BN nữ 56 tuổi</b>, BTM giai đoạn 5 do bệnh thận IgA, đang <b>thẩm phân phúc mạc liên tục tại nhà (CAPD) 4 lần/ngày</b> được 3 năm, nhập viện vì đau bụng và dịch lọc đục.<br><br><b>Bệnh sử:</b> 2 ngày nay đau bụng âm ỉ khắp bụng, không lan, không sốt, không buồn nôn. Sáng nay khi xả dịch ra, BN thấy dịch <b>màu trắng đục như nước vo gạo</b>. BN khẳng định tuân thủ kỹ thuật vô khuẩn khi thay dịch.<br><br><b>Tiền sử:</b> BTM G5 do bệnh thận IgA 8 năm, đặt catheter Tenckhoff CAPD 3 năm. Tăng huyết áp. Không tiền sử viêm phúc mạc trước đây.<br><br><b>Khám:</b> Tỉnh, vẻ lo lắng. M 92 lần/phút, HA 130/82 mmHg, T 37.6°C, NT 18. Bụng mềm, <b>ấn đau lan tỏa</b>, không có phản ứng thành bụng rõ. Da quanh chân ống catheter (exit-site) <b>không sưng, không đỏ, không có dịch tiết</b>. Đường hầm catheter sờ không đau.<br><br><b>Cận lâm sàng:</b> BC máu 13 G/L (Neu 80%), CRP 95 mg/L. <b>Phân tích dịch lọc</b>: BC 480 tế bào/mm³ (>50% BCĐNTT). Nhuộm Gram và cấy dịch lọc đang chờ kết quả.",
+      "questions": [
+        {
+          "q": "Theo tiêu chuẩn của Hiệp hội Thận học Quốc tế (ISPD), chẩn đoán viêm phúc mạc ở BN CAPD được xác lập khi có ÍT NHẤT 2 trong 3 tiêu chuẩn nào sau đây?",
+          "options": [
+            "Sốt > 38°C; dịch lọc đục đại thể; cấy dịch dương tính",
+            "Triệu chứng lâm sàng (đau bụng và/hoặc dịch đục); BC dịch lọc > 100/mm³ với >50% BCĐNTT; cấy dịch lọc dương tính",
+            "Đau bụng; CRP > 50 mg/L; siêu âm có dịch ổ bụng",
+            "Sốt; bụng chướng; X-quang có liềm hơi dưới hoành",
+            "Đau bụng cấp; bạch cầu máu tăng; cấy máu dương tính"
+          ],
+          "answer": 1,
+          "explain": "Tiêu chuẩn <b>ISPD 2022</b> chẩn đoán viêm phúc mạc ở BN PD: có ít nhất <b>2/3</b>:<br>(1) <b>Triệu chứng lâm sàng</b> phù hợp (đau bụng và/hoặc dịch đục)<br>(2) <b>BC dịch lọc > 100 tế bào/mm³</b> (sau ít nhất 2 giờ lưu) với <b>> 50% BCĐNTT</b><br>(3) <b>Cấy dịch lọc dương tính</b><br>BN này đã có (1) đau bụng + dịch đục và (2) BC dịch 480 với >50% BCĐNTT → đã đủ 2/3 tiêu chuẩn để chẩn đoán, không cần chờ kết quả cấy. Việc chờ cấy sẽ làm trễ điều trị."
+        },
+        {
+          "q": "Đường lây nhiễm THƯỜNG GẶP NHẤT của vi khuẩn gây viêm phúc mạc ở BN CAPD là gì?",
+          "options": [
+            "Đường máu (vãng khuẩn huyết từ ổ nhiễm trùng xa)",
+            "Vi khuẩn từ ruột xuyên qua thành ruột vào khoang phúc mạc",
+            "Lan từ chân ống catheter qua đường hầm vào ổ bụng",
+            "Nhiễm khuẩn ngoại lai do lỗi kỹ thuật khi thao tác đầu nối catheter",
+            "Đường tình dục lan ngược lên ổ bụng qua vòi trứng"
+          ],
+          "answer": 3,
+          "explain": "<b>Nhiễm khuẩn ngoại lai (touch contamination)</b> là đường lây phổ biến nhất, xảy ra khi BN/người nhà vô tình làm nhiễm bẩn đầu nối catheter hoặc túi dịch trong quá trình thao tác — đưa vi khuẩn từ tay/môi trường vào khoang phúc mạc. Tác nhân thường gặp tương ứng: <b>Staphylococcus aureus, Staphylococcus coagulase-negative, Streptococcus</b> (vi khuẩn da). Đường ruột (vi khuẩn Gram âm như E. coli) ít gặp hơn, thường liên quan tổn thương ruột. Lan từ exit-site vào trong cũng gặp nhưng BN này có exit-site bình thường."
+        },
+        {
+          "q": "Phác đồ kháng sinh KINH NGHIỆM BAN ĐẦU phù hợp nhất theo khuyến cáo ISPD 2022 cho bệnh nhân này là gì?",
+          "options": [
+            "Bơm trực tiếp Cefazolin (hoặc Vancomycin) kết hợp Ceftazidime (hoặc Aminoglycoside) vào túi dịch lọc — bao phủ Gram dương và Gram âm",
+            "Vancomycin tĩnh mạch + Gentamicin tĩnh mạch toàn thân",
+            "Ciprofloxacin uống đơn trị, theo dõi 48 giờ",
+            "Chờ kết quả cấy và nhuộm Gram rồi mới quyết định kháng sinh",
+            "Meropenem tĩnh mạch đơn trị"
+          ],
+          "answer": 0,
+          "explain": "Khuyến cáo <b>ISPD 2022</b>: ưu tiên <b>kháng sinh đường trong phúc mạc (IP)</b> — bơm trực tiếp vào túi dịch lọc, đạt nồng độ cao tại chỗ. Phác đồ kinh nghiệm phải bao phủ cả Gram dương và Gram âm:<br>• <b>Gram dương</b>: Cefazolin (vùng tỷ lệ MRSA thấp) HOẶC Vancomycin (vùng MRSA cao)<br>• <b>Gram âm</b>: Cephalosporin thế hệ 3–4 (Ceftazidime, Cefepime) HOẶC Aminoglycoside<br>Kháng sinh đường tĩnh mạch không đạt nồng độ tốt trong khoang phúc mạc. Việc chờ cấy sẽ làm trễ điều trị và tăng tỷ lệ thất bại."
+        },
+        {
+          "q": "Tình huống nào sau đây là chỉ định BẮT BUỘC tháo bỏ catheter Tenckhoff trong viêm phúc mạc CAPD? (Chọn tất cả đáp án đúng)",
+          "type": "multi",
+          "options": [
+            "Viêm phúc mạc kháng trị — không cải thiện sau 5 ngày kháng sinh thích hợp",
+            "Viêm phúc mạc tái phát (cùng tác nhân trong vòng 4 tuần sau khi kết thúc đợt điều trị trước)",
+            "Bất kỳ trường hợp viêm phúc mạc nào ngay từ đầu",
+            "Viêm phúc mạc do nấm",
+            "Viêm phúc mạc kèm nhiễm trùng đường hầm catheter cùng tác nhân"
+          ],
+          "answer": [
+            0,
+            1,
+            3,
+            4
+          ],
+          "explain": "Theo <b>ISPD 2022</b>, các chỉ định <b>tháo bỏ catheter</b>:<br>• <b>Kháng trị</b>: không cải thiện sau 5 ngày KS thích hợp (đáp án A) — đây là chỉ định quan trọng nhất.<br>• <b>Tái phát</b> (relapsing peritonitis): cùng vi khuẩn trong 4 tuần (đáp án B).<br>• <b>Nấm</b>: viêm phúc mạc do nấm có tỷ lệ tử vong cao, phải tháo catheter ngay (đáp án D).<br>• <b>Đường hầm/exit-site cùng tác nhân</b>: nhiễm trùng catheter không thể tiệt trừ chỉ bằng KS (đáp án E).<br>• Viêm phúc mạc do mycobacteria.<br>Đáp án C sai: phần lớn viêm phúc mạc CAPD đáp ứng tốt với KS và GIỮ ĐƯỢC catheter."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi mệt mỏi và da xanh xao ở bệnh nhân BTM",
+      "body": "<b>BN nam 60 tuổi</b>, BTM giai đoạn 4 do tăng huyết áp, đến khám định kỳ và than phiền mệt mỏi tăng dần 3 tháng nay.<br><br><b>Bệnh sử:</b> Mệt mỏi khi làm việc nhẹ, hoa mắt khi đứng dậy, khó tập trung. Không đau ngực, không khó thở khi nằm. Không đi cầu phân đen, không tiểu máu. Ăn uống bình thường, không sụt cân.<br><br><b>Tiền sử:</b> Tăng huyết áp 18 năm. BTM G4 (Cre nền 320 µmol/L, eGFR ~20). Không tiền sử bệnh dạ dày, không dùng NSAID hoặc kháng đông.<br><br><b>Khám:</b> Tỉnh, da niêm <b>nhợt rõ</b>. M 90 lần/phút, HA 138/85 mmHg, NT 18, BMI 22. Tim đều, có tiếng thổi tâm thu nhẹ ở ổ van ĐMC (do thiếu máu). Phổi không ran. Bụng mềm, không gan-lách to. Không phù.<br><br><b>Cận lâm sàng:</b> <b>Hb 8.2 g/dL</b>, MCV 88 fL, MCH 28 pg (đẳng sắc, đẳng bào). Hồng cầu lưới 1.2% (chưa được hiệu chỉnh). Cre 350 µmol/L (eGFR 18). <b>Ferritin 65 ng/mL</b>, <b>TSAT (độ bão hòa transferrin) 18%</b>. Vitamin B12 và folate trong giới hạn bình thường. CRP 8 mg/L. Nội soi tiêu hóa trên-dưới: bình thường. Tế bào nguồn không thấy bất thường.",
+      "questions": [
+        {
+          "q": "Đặc điểm của thiếu máu trong BTM thường gặp NHẤT là gì?",
+          "options": [
+            "Thiếu máu hồng cầu nhỏ, nhược sắc, do thiếu sắt",
+            "Thiếu máu hồng cầu to, đẳng sắc, do thiếu B12/folate",
+            "Thiếu máu bất sản tủy xương lan tỏa",
+            "Thiếu máu tan máu với hồng cầu lưới rất cao",
+            "Thiếu máu đẳng sắc đẳng bào với hồng cầu lưới thấp/bình thường, do giảm sản xuất erythropoietin"
+          ],
+          "answer": 4,
+          "explain": "Thiếu máu trong BTM điển hình là <b>đẳng sắc đẳng bào (normochromic normocytic)</b> với hồng cầu lưới <b>không tăng tương xứng</b> với mức độ thiếu máu. Cơ chế chính là <b>giảm sản xuất erythropoietin (EPO)</b> tại tế bào quanh ống thận do thận suy. Các cơ chế phụ: rút ngắn đời sống hồng cầu do urê máu, ức chế tủy xương bởi độc tố urê máu, viêm mạn tính, thiếu sắt chức năng do hepcidin tăng. BN này có Hb 8.2 với MCV 88 (đẳng bào) và hồng cầu lưới 1.2% (không tăng) → phù hợp."
+        },
+        {
+          "q": "Theo KDIGO, mục tiêu điều trị thiếu máu ở BN BTM khi sử dụng tác nhân kích thích tạo hồng cầu (ESA) là gì?",
+          "options": [
+            "Đưa Hb về mức bình thường (13–15 g/dL) để cải thiện chất lượng cuộc sống tối đa",
+            "Đưa Hb về 12.5–13.5 g/dL ở mọi BN BTM",
+            "Duy trì Hb 10–11.5 g/dL — tránh vượt quá 11.5 g/dL vì tăng nguy cơ tim mạch",
+            "Chỉ điều trị khi Hb < 7 g/dL, mục tiêu là Hb ≥ 8 g/dL",
+            "Mục tiêu Hb tùy thuộc tuổi và giới, > 12 g/dL ở nam"
+          ],
+          "answer": 2,
+          "explain": "<b>KDIGO khuyến cáo Hb mục tiêu 10–11.5 g/dL</b> khi dùng ESA. Các thử nghiệm lớn (<b>CHOIR, CREATE, TREAT</b>) cho thấy đưa Hb lên mức bình thường (>13 g/dL) làm <b>TĂNG nguy cơ đột quỵ, biến cố tim mạch và tử vong</b>, không cải thiện được tiên lượng. Khởi đầu ESA khi Hb < 10 g/dL, ngưng/giảm liều khi Hb > 11.5 g/dL. Trước khi bắt đầu ESA phải <b>tối ưu hóa dự trữ sắt</b> (TSAT > 30%, Ferritin > 100 ng/mL ở BN không lọc máu, > 200 ng/mL ở BN HD)."
+        },
+        {
+          "q": "Trước khi khởi đầu ESA cho bệnh nhân này, bước nào sau đây CẦN ƯU TIÊN làm trước?",
+          "options": [
+            "Truyền hồng cầu khối ngay vì Hb 8.2 g/dL là nguy hiểm",
+            "Bù vitamin B12 và folate liều cao",
+            "Chỉ định khẩn cấp sinh thiết tủy xương để loại trừ bệnh máu",
+            "Bổ sung sắt (đường tĩnh mạch hoặc uống) vì TSAT 18% và Ferritin 65 — chưa tối ưu dự trữ sắt",
+            "Khởi đầu ESA ngay vì đã có chỉ định rõ"
+          ],
+          "answer": 3,
+          "explain": "BN có <b>thiếu sắt chức năng/tuyệt đối</b>: TSAT 18% (< 20%) và Ferritin 65 ng/mL (< 100 ng/mL ở BN BTM không lọc máu). KDIGO khuyến cáo <b>BỔ SUNG SẮT TRƯỚC</b> khi khởi đầu ESA — nếu không, ESA sẽ kém hiệu quả vì thiếu nguyên liệu tạo hồng cầu. Mục tiêu: TSAT > 30%, Ferritin > 100 ng/mL (không lọc) hoặc > 200 ng/mL (HD). Ở BN không lọc máu, có thể dùng sắt uống thử trước; nếu kém dung nạp/không hiệu quả thì chuyển sắt TM. Truyền hồng cầu chỉ chỉ định khi có triệu chứng nặng cấp tính (Hb 8.2 không có triệu chứng cấp → chưa cần truyền)."
+        },
+        {
+          "q": "Các tác dụng phụ NGHIÊM TRỌNG cần theo dõi khi dùng ESA ở bệnh nhân BTM là gì? (Chọn tất cả đáp án đúng)",
+          "type": "multi",
+          "options": [
+            "Tăng huyết áp khó kiểm soát hoặc đợt cấp tăng huyết áp",
+            "Tăng nguy cơ huyết khối tĩnh mạch và động mạch (đột quỵ, NMCT)",
+            "Bất sản dòng hồng cầu thuần (PRCA) do kháng thể chống EPO",
+            "Tiến triển nhanh ung thư ở BN có khối u đang điều trị",
+            "Hạ kali máu cấp gây loạn nhịp"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explain": "ESA có nhiều tác dụng phụ cần theo dõi:<br>• <b>Tăng huyết áp</b> (A): rất thường gặp, cần kiểm soát HA trước khi bắt đầu và theo dõi sát.<br>• <b>Huyết khối</b> (B): tăng độ nhớt máu, đặc biệt nếu Hb tăng quá nhanh hoặc > 11.5 g/dL — tăng nguy cơ đột quỵ, NMCT, huyết khối AVF.<br>• <b>PRCA</b> (C): biến chứng hiếm nhưng nặng, do kháng thể trung hòa cả EPO nội sinh — Hb giảm nhanh, hồng cầu lưới rất thấp.<br>• <b>Ung thư</b> (D): cảnh báo của FDA — ESA có thể thúc đẩy tiến triển một số khối u (vú, đầu-cổ, phổi, thận) khi dùng cho BN ung thư đang điều trị.<br>Hạ kali máu (E) KHÔNG phải tác dụng phụ của ESA."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 65 tuổi tăng huyết áp khó kiểm soát dù đã dùng 3 thuốc",
+      "body": "<b>BN nữ 65 tuổi</b>, BTM giai đoạn 3b do bệnh thận đái tháo đường, đến khám vì huyết áp khó kiểm soát.<br><br><b>Bệnh sử:</b> 6 tháng nay HA tại nhà luôn 150–165/90–100 mmHg dù tuân thủ thuốc đầy đủ. BN không nhức đầu, không hồi hộp, không mất ngủ. Không khó thở. Đo HA bằng máy điện tử đã hiệu chuẩn, đúng kỹ thuật.<br><br><b>Tiền sử:</b> ĐTĐ type 2 15 năm, THA 12 năm, BTM G3b (eGFR ~38). Không hút thuốc, BMI 30.<br><br><b>Đang dùng (tuân thủ tốt theo BN và sổ thuốc):</b> Lisinopril 40 mg/ngày, Amlodipine 10 mg/ngày, Hydrochlorothiazide 25 mg/ngày. Metformin, Atorvastatin.<br><br><b>Khám:</b> Tỉnh. M 78 lần/phút, <b>HA 158/96 mmHg</b> (đo chuẩn hóa, trung bình 3 lần ở phòng khám). HA tay đối diện chênh < 5 mmHg. BMI 30. Tim đều, không tiếng thổi vùng cổ, vùng bụng. Không phù.<br><br><b>Cận lâm sàng:</b> Cre 145 µmol/L (eGFR 38), <b>K⁺ 3.4 mmol/L</b>, Na⁺ 142, HCO₃⁻ 28 mmol/L. Đường máu đói 7.8 mmol/L. ACR 380 mg/g. <b>Holter HA 24 giờ:</b> HA trung bình ngày 162/95, trung bình đêm 155/92, <b>không có hạ HA về đêm (non-dipper)</b>.",
+      "questions": [
+        {
+          "q": "Tình trạng tăng huyết áp ở bệnh nhân này được phân loại chính xác nhất là gì?",
+          "options": [
+            "Tăng huyết áp giả tạo do hiệu ứng áo trắng",
+            "Tăng huyết áp kháng trị thực sự (true resistant hypertension)",
+            "Tăng huyết áp thai kỳ muộn",
+            "Tăng huyết áp giả kháng trị do không tuân thủ thuốc",
+            "Tăng huyết áp kịch phát do u tủy thượng thận"
+          ],
+          "answer": 1,
+          "explain": "<b>Tăng huyết áp kháng trị (resistant HTN)</b> được định nghĩa: HA vẫn không đạt mục tiêu mặc dù dùng đủ liều dung nạp tối đa của <b>≥ 3 thuốc khác nhóm</b>, trong đó <b>phải có 1 lợi tiểu</b>. BN này: Lisinopril (ACEI) + Amlodipine (CCB) + HCTZ (lợi tiểu) — đầy đủ tiêu chuẩn về thuốc. HA tại nhà và phòng khám đều cao + Holter 24h xác nhận → loại trừ hiệu ứng áo trắng → <b>kháng trị thực sự</b>. Đặc điểm <b>non-dipper</b> (không hạ HA về đêm) thường gặp ở BTM, gợi ý nguyên nhân thứ phát hoặc cường aldosterone."
+        },
+        {
+          "q": "Bệnh nhân có K⁺ máu thấp (3.4 mmol/L) dù đang dùng ACEI (thường gây tăng K⁺). Nguyên nhân thứ phát của THA cần ƯU TIÊN tầm soát ở BN này là gì?",
+          "options": [
+            "U tủy thượng thận (Pheochromocytoma)",
+            "Cường giáp",
+            "Hẹp động mạch thận do xơ vữa",
+            "Hội chứng Cushing",
+            "Cường aldosterone nguyên phát (hội chứng Conn)"
+          ],
+          "answer": 4,
+          "explain": "Manh mối quan trọng nhất là <b>hạ kali máu</b> (3.4 mmol/L) ở BN đang dùng <b>ACEI</b> — điều bình thường thì ACEI sẽ làm TĂNG K⁺. Hạ K⁺ ngược chiều dự đoán này gợi ý mạnh <b>cường aldosterone nguyên phát</b> — aldosterone thải K⁺ qua ống lượn xa. Tỷ lệ cường aldosterone ở BN THA kháng trị lên đến <b>15–20%</b>. Tầm soát: tỷ lệ <b>Aldosterone/Renin (ARR)</b> > 20–30 với aldosterone tuyệt đối > 15 ng/dL — cần ngưng các thuốc gây nhiễu (MRA, lợi tiểu) trước. U tủy thượng thận thường có HA kịch phát kèm tam chứng (hồi hộp, nhức đầu, vã mồ hôi) — không phù hợp."
+        },
+        {
+          "q": "Các thăm dò nào sau đây cần được xem xét để tìm nguyên nhân thứ phát của THA kháng trị ở bệnh nhân này? (Chọn tất cả đáp án đúng)",
+          "type": "multi",
+          "options": [
+            "Tỷ lệ aldosterone/renin máu (ARR) để tầm soát cường aldosterone",
+            "Siêu âm Doppler động mạch thận để tầm soát hẹp ĐM thận",
+            "Đa ký giấc ngủ (polysomnography) để tầm soát ngưng thở khi ngủ tắc nghẽn",
+            "Định lượng metanephrine/normetanephrine huyết tương hoặc nước tiểu 24 giờ",
+            "Sinh thiết thận để xác định loại bệnh thận"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explain": "Khảo sát nguyên nhân thứ phát của THA kháng trị bao gồm:<br>• <b>Cường aldosterone</b> (A): ARR — đặc biệt khi có hạ K⁺.<br>• <b>Hẹp động mạch thận</b> (B): siêu âm Doppler ĐM thận, MRA hoặc CTA — gợi ý khi có tiếng thổi vùng bụng, eGFR giảm > 30% sau ACEI/ARB, phù phổi tái đi tái lại.<br>• <b>Ngưng thở khi ngủ tắc nghẽn (OSA)</b> (C): rất phổ biến ở BN THA kháng trị có béo phì (BN này BMI 30) và non-dipper; điều trị CPAP cải thiện HA.<br>• <b>U tủy thượng thận</b> (D): metanephrine.<br>Sinh thiết thận (E) <b>KHÔNG</b> được chỉ định để tìm nguyên nhân THA kháng trị — đã có chẩn đoán bệnh thận ĐTĐ rõ trên lâm sàng."
+        },
+        {
+          "q": "Theo các khuyến cáo hiện hành, thuốc THỨ TƯ nào nên được thêm vào phác đồ của bệnh nhân này (sau ACEI + CCB + lợi tiểu)?",
+          "options": [
+            "Spironolactone (đối kháng thụ thể mineralocorticoid)",
+            "Bisoprolol (chẹn beta) liều cao",
+            "Methyldopa",
+            "Hydralazine kết hợp Isosorbide dinitrate",
+            "Tăng gấp đôi liều Amlodipine lên 20 mg"
+          ],
+          "answer": 0,
+          "explain": "Theo các khuyến cáo (<b>ESC/ESH 2023, AHA 2017</b>), thuốc thứ tư cho THA kháng trị là <b>Spironolactone 25–50 mg/ngày</b> (MRA — kháng aldosterone). Cơ sở từ thử nghiệm <b>PATHWAY-2</b> cho thấy Spironolactone vượt trội hơn Bisoprolol và Doxazosin. Spironolactone đặc biệt phù hợp với BN này vì có khả năng cường aldosterone và đang hạ K⁺. <b>Cẩn trọng</b>: theo dõi K⁺ và Cre — ở BTM G3b dễ gây tăng K⁺ khi phối hợp với ACEI. <b>Finerenone</b> (MRA không steroid) là lựa chọn thay thế ở BN ĐTĐ + albumin niệu, ít gây tăng K⁺ hơn. Beta-blocker và Methyldopa là lựa chọn sau, không phải hàng đầu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi nhập viện vì viêm phổi cần điều chỉnh thuốc",
+      "body": "<b>BN nam 72 tuổi</b>, BTM giai đoạn 3b (eGFR nền 35 mL/ph/1.73m²), THA, ĐTĐ type 2, gout mạn, vừa nhập viện vì viêm phổi cộng đồng.<br><br><b>Tình huống:</b> BN sốt 38.5°C, ho khạc đờm vàng đặc 3 ngày, NT 22 lần/phút, SpO₂ 93% khí trời. XQ ngực: thâm nhiễm thùy dưới phổi phải. CURB-65 = 2 điểm.<br><br><b>Đang dùng tại nhà:</b><br>• <b>Metformin 1000 mg × 2 lần/ngày</b><br>• Glimepirid 4 mg/ngày<br>• <b>Ramipril 10 mg/ngày</b><br>• Amlodipine 10 mg/ngày<br>• <b>Allopurinol 300 mg/ngày</b> (đã dùng 5 năm, không có cơn gout cấp)<br>• Atorvastatin 20 mg<br>• <b>Aspirin 100 mg</b>.<br><br><b>Bác sĩ trực dự định kê:</b><br>• <b>Levofloxacin 750 mg TMC mỗi 24 giờ</b> (cho viêm phổi)<br>• Paracetamol 1g × 3 lần/ngày<br>• Truyền NaCl 0.9% 1500 mL/ngày<br><br><b>Cận lâm sàng vào viện:</b> Cre 195 µmol/L (eGFR 32), K⁺ 4.5, Na⁺ 138, HCO₃⁻ 22, Glucose 9 mmol/L, lactate 1.8 mmol/L. WBC 14 G/L (Neu 85%), CRP 180 mg/L. HbA1c 7.5%.",
+      "questions": [
+        {
+          "q": "Bác sĩ nên ngừng/tạm ngừng thuốc nào sau đây trong tình huống cấp tính này?",
+          "options": [
+            "Atorvastatin và Amlodipine",
+            "Allopurinol (vì có thể gây dị ứng nặng)",
+            "Metformin (vì nguy cơ nhiễm toan lactic) và xem xét tạm ngừng Ramipril (vì nguy cơ AKI khi nhiễm trùng)",
+            "Aspirin và Glimepirid",
+            "Tất cả các thuốc cần ngừng vì BN có nhiễm trùng"
+          ],
+          "answer": 2,
+          "explain": "Trong tình huống nhiễm trùng cấp ở BN BTM:<br>• <b>Metformin</b> nên tạm ngừng khi có nguy cơ giảm tưới máu thận cấp (nhiễm trùng nặng, suy tuần hoàn, dùng thuốc cản quang) — vì nguy cơ <b>nhiễm toan lactic</b>. Chống chỉ định tuyệt đối khi eGFR < 30. Có thể khởi dùng lại sau khi tình trạng ổn định.<br>• <b>ACEI/ARB</b> (Ramipril) tạm ngừng khi có khả năng giảm thể tích/tưới máu thận cấp — phối hợp với nhiễm trùng + KS độc thận có thể gây <b>AKI nặng</b> (nguyên tắc 'sick day rules'). Có thể khởi lại khi BN ổn.<br>Atorvastatin, Amlodipine, Allopurinol, Aspirin không cần ngừng cấp tính."
+        },
+        {
+          "q": "Vấn đề LỚN NHẤT với phác đồ Levofloxacin 750 mg/24h ở bệnh nhân này là gì?",
+          "options": [
+            "Levofloxacin không có hoạt phổ chống Streptococcus pneumoniae",
+            "Không có vấn đề gì, đây là liều chuẩn",
+            "Levofloxacin gây tăng đường huyết nặng ở BN ĐTĐ",
+            "Levofloxacin chống chỉ định hoàn toàn ở BTM",
+            "Liều cần được điều chỉnh theo eGFR — Levofloxacin tích lũy gây độc thần kinh trung ương (sảng, co giật) ở BN suy thận"
+          ],
+          "answer": 4,
+          "explain": "<b>Levofloxacin thải qua thận</b> (~85%), cần điều chỉnh liều theo eGFR. Với eGFR 32 (20–49): liều khuyến cáo là <b>750 mg liều nạp, sau đó 750 mg mỗi 48 giờ</b> HOẶC 500 mg/24h. Liều 750 mg/24h ở BN này sẽ tích lũy → nồng độ cao trong dịch não tủy → đối kháng thụ thể GABA-A → <b>sảng, co giật, ảo giác, kích động</b> (đặc biệt ở người cao tuổi). Đây là tình huống lâm sàng kinh điển. Levofloxacin có hoạt phổ tốt với S. pneumoniae (không phải A). Có thể dùng được ở BTM nếu chỉnh liều đúng (không phải D)."
+        },
+        {
+          "q": "Các nhóm thuốc nào sau đây CŨNG cần điều chỉnh liều theo chức năng thận và cần đặc biệt chú ý ở BN BTM? (Chọn tất cả đáp án đúng)",
+          "type": "multi",
+          "options": [
+            "Allopurinol — giảm liều khi eGFR thấp để tránh hội chứng quá mẫn (AHS) nặng",
+            "Gabapentin/Pregabalin — tích lũy gây an thần, lú lẫn, suy hô hấp",
+            "Digoxin — cửa sổ điều trị hẹp, dễ ngộ độc",
+            "Heparin trọng lượng phân tử thấp (Enoxaparin) — tích lũy gây xuất huyết",
+            "Atorvastatin — chuyển hóa qua gan, không cần chỉnh liều ở BTM"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explain": "Các nhóm thuốc cần chỉnh liều ở BTM:<br>• <b>Allopurinol</b> (A): liều khởi đầu phải dựa eGFR (50 mg/ngày khi eGFR 15–30); liều cao gây <b>hội chứng quá mẫn Allopurinol (AHS)</b> với tỷ lệ tử vong cao — đặc biệt ở người mang HLA-B*5801.<br>• <b>Gabapentin/Pregabalin</b> (B): thải hoàn toàn qua thận, tích lũy gây độc thần kinh.<br>• <b>Digoxin</b> (C): cửa sổ trị liệu hẹp, thải qua thận — dễ gây loạn nhịp.<br>• <b>LMWH</b> (D): Enoxaparin tích lũy ở eGFR < 30 → tăng nguy cơ xuất huyết; cần dùng heparin không phân đoạn hoặc giảm liều LMWH 50%.<br>• <b>Atorvastatin</b> (E) <b>ĐÚNG</b> là không cần chỉnh liều — chuyển hóa chủ yếu qua gan. Đây là đáp án 'sai' của câu hỏi → KHÔNG chọn."
+        },
+        {
+          "q": "Sau 4 ngày điều trị, bệnh nhân đột ngột lú lẫn, kích động, có cơn co giật ngắn. Đường máu 8 mmol/L, ECG bình thường, không sốt. Cre tăng từ 195 lên 240 µmol/L. Bước xử trí ƯU TIÊN ĐẦU TIÊN là gì?",
+          "options": [
+            "Ngừng ngay Levofloxacin và đổi sang kháng sinh khác phù hợp với chức năng thận",
+            "Cho thuốc an thần (Diazepam) để kiểm soát kích động",
+            "Chỉ định lọc máu cấp cứu để loại trừ Levofloxacin",
+            "Chụp CT sọ não khẩn để loại trừ tai biến mạch máu não",
+            "Tăng liều Levofloxacin vì có thể nhiễm trùng chưa kiểm soát"
+          ],
+          "answer": 0,
+          "explain": "Bệnh cảnh <b>lú lẫn + kích động + co giật</b> xuất hiện sau khi dùng Fluoroquinolone không chỉnh liều ở BN BTM là tình huống kinh điển của <b>độc tính thần kinh do tích lũy Levofloxacin</b>. Bước đầu tiên và quan trọng nhất: <b>NGỪNG NGAY tác nhân gây bệnh</b> và đổi sang KS thay thế phù hợp (vd Ceftriaxone — không cần chỉnh liều ở BTM, hoặc Amoxicillin-clavulanate đã chỉnh liều). Sau khi loại bỏ thuốc, các triệu chứng thường cải thiện trong 24–48 giờ. CT sọ là hợp lý để loại trừ TBMMN nhưng KHÔNG ưu tiên trước việc ngừng thuốc gây độc. Lọc máu cấp cứu chỉ cần khi có chỉ định AEIOU."
+        }
+      ]
+    }
+  ]
+}
