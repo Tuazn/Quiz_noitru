@@ -1,0 +1,1595 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>Quiz lâm sàng — Client v5.1</title>
+<style>
+:root {
+  --bg-page: #FAFAF7;
+  --bg-primary: #FFFFFF;
+  --bg-secondary: #EFEDE5;
+  --text-primary: #1A1A18;
+  --text-secondary: #4A4A45;
+  --text-tertiary: #6E6D68;
+  --border-tertiary: rgba(0,0,0,0.14);
+  --border-secondary: rgba(0,0,0,0.28);
+  --info: #185FA5;
+  --info-bg: #D6E7F7;
+  --info-text: #042C53;
+  --success: #1D7A5C;
+  --success-bg: #C8E6B0;
+  --success-border: #3B6D11;
+  --success-text: #173404;
+  --danger: #C62828;
+  --danger-bg: #F7C1C1;
+  --danger-border: #A32D2D;
+  --danger-text: #501313;
+  --warning: #BA7517;
+  --warning-bg: #FAE0B8;
+  --warning-text: #633806;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-page: #1A1A18;
+    --bg-primary: #242422;
+    --bg-secondary: #2E2E2B;
+    --text-primary: #F1EFE8;
+    --text-secondary: #B4B2A9;
+    --text-tertiary: #888780;
+    --border-tertiary: rgba(255,255,255,0.14);
+    --border-secondary: rgba(255,255,255,0.28);
+    --info: #85B7EB;
+    --info-bg: rgba(55,138,221,0.22);
+    --info-text: #B5D4F4;
+    --success: #97C459;
+    --success-bg: rgba(99,153,34,0.28);
+    --success-border: #97C459;
+    --success-text: #C0DD97;
+    --danger: #F09595;
+    --danger-bg: rgba(226,75,74,0.25);
+    --danger-border: #F09595;
+    --danger-text: #F7C1C1;
+    --warning: #EF9F27;
+    --warning-bg: rgba(239,159,39,0.22);
+    --warning-text: #FAC775;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  background: var(--bg-page);
+  color: var(--text-primary);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+.container { max-width: 800px; margin: 0 auto; padding: 1.5rem 1rem; }
+.app-header { margin-bottom: 1.25rem; padding-bottom: 1rem; border-bottom: 1px solid var(--border-tertiary); display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
+.app-title { font-size: 20px; font-weight: 600; margin: 0; }
+.header-actions { display: flex; gap: 8px; }
+button.btn { padding: 8px 16px; border: 1px solid var(--border-secondary); border-radius: var(--radius-md); background: var(--bg-primary); color: var(--text-primary); font-size: 14px; font-family: inherit; cursor: pointer; font-weight: 500; transition: background 0.15s; }
+button.btn:hover { background: var(--bg-secondary); }
+button.btn-primary { background: var(--info); color: white; border-color: var(--info); }
+button.btn-primary:hover { opacity: 0.92; background: var(--info); }
+button.btn-danger { color: var(--danger); border-color: var(--danger); }
+button.btn-sm { padding: 4px 10px; font-size: 12px; }
+
+/* Library view */
+.library-empty { text-align: center; padding: 3rem 1rem; color: var(--text-secondary); }
+.library-empty-icon { font-size: 48px; margin-bottom: 1rem; }
+.deck-list { display: flex; flex-direction: column; gap: 10px; margin-bottom: 1.5rem; }
+.deck-card { background: var(--bg-primary); border: 1px solid var(--border-tertiary); border-radius: var(--radius-lg); padding: 14px 16px; cursor: pointer; transition: border-color 0.15s; }
+.deck-card:hover { border-color: var(--border-secondary); }
+.deck-card-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; margin-bottom: 6px; }
+.deck-name { font-size: 16px; font-weight: 600; margin: 0; flex: 1; }
+.deck-meta { font-size: 12px; color: var(--text-tertiary); }
+.deck-desc { font-size: 13px; color: var(--text-secondary); margin: 0 0 10px 0; }
+.deck-actions { display: flex; gap: 6px; align-items: center; }
+.deck-stats-mini { font-size: 12px; color: var(--text-tertiary); }
+
+/* Import zone */
+.import-zone { background: var(--bg-secondary); border: 2px dashed var(--border-secondary); border-radius: var(--radius-lg); padding: 1.5rem; text-align: center; margin-bottom: 1.5rem; transition: border-color 0.15s; }
+.import-zone.drag-over { border-color: var(--info); background: var(--info-bg); }
+.import-zone-title { font-weight: 600; margin-bottom: 6px; }
+.import-zone-hint { font-size: 13px; color: var(--text-secondary); margin-bottom: 12px; }
+.import-buttons { display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; }
+#file-input { display: none; }
+
+/* Quiz view */
+.stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin-bottom: 1rem; }
+.stat { background: var(--bg-secondary); border-radius: var(--radius-md); padding: 10px 12px; text-align: center; }
+.stat-label { font-size: 11px; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.04em; }
+.stat-value { font-size: 22px; font-weight: 600; margin-top: 2px; }
+.progress-wrap { height: 6px; background: var(--bg-secondary); border-radius: 999px; overflow: hidden; margin-bottom: 1.25rem; }
+.progress-bar { height: 100%; background: var(--info); transition: width 0.4s ease; }
+.case-meta { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; font-size: 13px; color: var(--text-secondary); }
+.case-body { background: var(--warning-bg); border-left: 4px solid var(--warning); border-radius: 0 var(--radius-md) var(--radius-md) 0; padding: 14px 16px; margin-bottom: 1rem; font-size: 14px; line-height: 1.65; color: var(--text-primary); }
+.case-title { font-weight: 600; margin-bottom: 6px; color: var(--warning-text); font-size: 14px; }
+.dots { display: flex; gap: 8px; align-items: center; margin-bottom: 1rem; }
+.dot { width: 26px; height: 26px; border-radius: 50%; border: 1px solid var(--border-secondary); display: flex; align-items: center; justify-content: center; font-size: 11px; color: var(--text-secondary); background: var(--bg-primary); font-weight: 600; }
+.dot.active { background: var(--info); color: white; border-color: var(--info); }
+.dot.done-correct { background: var(--success); color: white; border-color: var(--success); }
+.dot.done-wrong { background: var(--danger); color: white; border-color: var(--danger); }
+.dot-line { flex: 1; height: 1px; background: var(--border-tertiary); }
+.question { font-size: 15px; line-height: 1.6; margin-bottom: 14px; font-weight: 600; }
+.options { display: flex; flex-direction: column; gap: 8px; margin-bottom: 1rem; }
+.option { display: flex; gap: 10px; align-items: flex-start; padding: 12px 14px; border: 1px solid var(--border-tertiary); border-radius: var(--radius-md); background: var(--bg-primary); cursor: pointer; text-align: left; font-size: 14px; line-height: 1.5; color: var(--text-primary); transition: all 0.15s; font-family: inherit; width: 100%; }
+.option:hover:not(:disabled) { background: var(--bg-secondary); border-color: var(--border-secondary); }
+.option:disabled { cursor: default; }
+.option-letter { font-weight: 600; min-width: 18px; }
+.option.correct { background: var(--success-bg); border: 2px solid var(--success-border); color: var(--success-text); font-weight: 500; }
+.option.wrong { background: var(--danger-bg); border: 2px solid var(--danger-border); color: var(--danger-text); font-weight: 500; }
+.option.selected { background: var(--info-bg); border: 2px solid var(--info); color: var(--info-text); }
+.option.dim { opacity: 0.7; }
+.explain { border-left: 4px solid var(--info); background: var(--info-bg); color: var(--info-text); padding: 12px 14px; border-radius: 0 var(--radius-md) var(--radius-md) 0; font-size: 13.5px; line-height: 1.6; margin-bottom: 1rem; }
+.explain-title { font-weight: 600; font-size: 13px; margin-bottom: 4px; color: var(--info); }
+.actions { display: flex; gap: 8px; justify-content: flex-end; margin-bottom: 1rem; }
+.final { text-align: center; padding: 2rem 1rem; }
+.final-score { font-size: 56px; font-weight: 600; margin: 0.5rem 0; }
+.final-label { font-size: 14px; color: var(--text-secondary); margin-bottom: 1rem; }
+.final-msg { font-size: 15px; line-height: 1.6; max-width: 480px; margin: 0 auto 1.5rem; }
+.final-buttons { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
+
+/* Modal */
+.modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.5); display: none; align-items: center; justify-content: center; z-index: 100; padding: 1rem; }
+.modal-overlay.show { display: flex; }
+.modal { background: var(--bg-primary); border-radius: var(--radius-lg); max-width: 500px; width: 100%; padding: 1.25rem 1.5rem; max-height: 80vh; overflow-y: auto; }
+.modal-title { font-size: 17px; font-weight: 600; margin: 0 0 8px 0; }
+.modal-body { font-size: 14px; color: var(--text-secondary); margin-bottom: 1rem; line-height: 1.6; }
+.modal-actions { display: flex; gap: 8px; justify-content: flex-end; }
+.modal pre { background: var(--bg-secondary); padding: 10px; border-radius: var(--radius-md); font-size: 11.5px; overflow-x: auto; line-height: 1.5; }
+.modal-textarea { width: 100%; min-height: 200px; padding: 10px; border: 1px solid var(--border-secondary); border-radius: var(--radius-md); background: var(--bg-page); color: var(--text-primary); font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: 12px; line-height: 1.5; resize: vertical; }
+
+/* Toast */
+.toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: var(--text-primary); color: var(--bg-primary); padding: 10px 18px; border-radius: var(--radius-md); font-size: 13px; opacity: 0; transition: opacity 0.3s; pointer-events: none; z-index: 200; max-width: 90%; }
+.toast.show { opacity: 0.95; }
+.toast.error { background: var(--danger); color: white; }
+.toast.success { background: var(--success); color: white; }
+
+@media (max-width: 540px) {
+  .container { padding: 1rem 0.75rem; }
+  .stats { gap: 6px; } .stat { padding: 8px 6px; } .stat-value { font-size: 18px; }
+  .app-title { font-size: 17px; }
+}
+
+/* Manage view */
+.manage-section { background: var(--bg-primary); border: 1px solid var(--border-tertiary); border-radius: var(--radius-lg); padding: 1rem 1.25rem; margin-bottom: 1rem; }
+.manage-section-title { font-size: 14px; font-weight: 600; margin: 0 0 12px 0; color: var(--text-primary); }
+.form-row { margin-bottom: 12px; }
+.form-label { display: block; font-size: 12px; color: var(--text-secondary); margin-bottom: 4px; font-weight: 500; }
+.form-input { width: 100%; padding: 8px 10px; border: 1px solid var(--border-secondary); border-radius: var(--radius-md); background: var(--bg-page); color: var(--text-primary); font-size: 14px; font-family: inherit; }
+.form-input:focus { outline: 2px solid var(--info); outline-offset: -1px; }
+.case-item { display: flex; align-items: center; gap: 10px; padding: 10px 12px; background: var(--bg-page); border: 1px solid var(--border-tertiary); border-radius: var(--radius-md); margin-bottom: 6px; }
+.case-item-num { font-size: 12px; color: var(--text-tertiary); min-width: 28px; font-weight: 600; }
+.case-item-title { flex: 1; font-size: 13px; line-height: 1.4; }
+.case-item-meta { font-size: 11px; color: var(--text-tertiary); white-space: nowrap; }
+.case-item-actions { display: flex; gap: 4px; }
+.icon-btn { padding: 4px 8px; border: 1px solid var(--border-tertiary); border-radius: 6px; background: var(--bg-primary); color: var(--text-secondary); cursor: pointer; font-size: 13px; font-family: inherit; }
+.icon-btn:hover:not(:disabled) { background: var(--bg-secondary); color: var(--text-primary); }
+.icon-btn:disabled { opacity: 0.35; cursor: not-allowed; }
+.icon-btn.danger:hover:not(:disabled) { color: var(--danger); border-color: var(--danger); }
+.shuffle-toggle { display: inline-flex; align-items: center; gap: 5px; font-size: 12px; color: var(--text-secondary); cursor: pointer; user-select: none; padding: 4px 8px; border: 1px solid var(--border-tertiary); border-radius: 6px; }
+.shuffle-toggle input { margin: 0; cursor: pointer; }
+.shuffle-toggle:hover { color: var(--text-primary); border-color: var(--border-secondary); }
+
+/* Tabs */
+.tabs { display: flex; gap: 4px; margin-bottom: 1rem; border-bottom: 1px solid var(--border-tertiary); }
+.tab { padding: 10px 16px; font-size: 14px; font-weight: 500; color: var(--text-secondary); background: transparent; border: none; cursor: pointer; border-bottom: 2px solid transparent; margin-bottom: -1px; font-family: inherit; }
+.tab:hover { color: var(--text-primary); }
+.tab.active { color: var(--info); border-bottom-color: var(--info); }
+.tab .badge { display: inline-block; background: var(--bg-secondary); color: var(--text-secondary); font-size: 11px; padding: 1px 6px; border-radius: 999px; margin-left: 6px; font-weight: 500; }
+.tab.active .badge { background: var(--info); color: white; }
+
+/* Search bar */
+.search-bar { display: flex; gap: 8px; margin-bottom: 1rem; align-items: center; }
+.search-input { flex: 1; padding: 8px 12px; border: 1px solid var(--border-secondary); border-radius: var(--radius-md); background: var(--bg-page); color: var(--text-primary); font-size: 14px; font-family: inherit; }
+.search-input:focus { outline: 2px solid var(--info); outline-offset: -1px; }
+.search-clear { padding: 6px 10px; font-size: 12px; }
+
+/* Breadcrumb */
+.breadcrumb { display: flex; align-items: center; gap: 8px; margin-bottom: 1rem; font-size: 13px; color: var(--text-secondary); }
+.breadcrumb a { color: var(--info); cursor: pointer; text-decoration: none; }
+.breadcrumb a:hover { text-decoration: underline; }
+.breadcrumb-sep { color: var(--text-tertiary); }
+.breadcrumb-current { color: var(--text-primary); font-weight: 500; }
+
+/* Category grid */
+.category-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; margin-bottom: 1.5rem; }
+.category-card { background: var(--bg-primary); border: 1px solid var(--border-tertiary); border-radius: var(--radius-lg); padding: 18px 16px; cursor: pointer; transition: all 0.15s; text-align: center; }
+.category-card:hover { border-color: var(--info); transform: translateY(-1px); }
+.category-icon { font-size: 32px; margin-bottom: 8px; }
+.category-name { font-size: 15px; font-weight: 600; margin-bottom: 4px; }
+.category-count { font-size: 12px; color: var(--text-secondary); }
+
+/* Search results header */
+.search-results-info { font-size: 13px; color: var(--text-secondary); margin-bottom: 1rem; }
+
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="app-header">
+    <h1 class="app-title" id="header-title">Thư viện bộ câu hỏi</h1>
+    <div class="header-actions" id="header-actions"></div>
+  </div>
+  <div id="main"></div>
+</div>
+
+<input type="file" id="file-input" accept=".json,application/json">
+
+<div class="modal-overlay" id="modal">
+  <div class="modal" id="modal-content"></div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+(function(){
+  'use strict';
+
+  const STORAGE_KEY = 'quiz_client_decks_v1';
+  const CLOUD_URL_KEY = 'quiz_client_cloud_url';
+  let decks = [];
+  let view = 'library';
+  let activeTab = 'cases';      // 'cases' | 'mcq'
+  let activeCategory = null;     // null = show category list; string = inside that category
+  let searchQuery = '';
+  let activeDeckId = null;
+  let qstate = null;
+
+  // ─── Storage ──────────────────────────────────────────────────────
+  function loadDecks() {
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      decks = raw ? JSON.parse(raw) : [];
+    } catch(e) { decks = []; }
+  }
+  function saveDecks() {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(decks)); }
+    catch(e) { toast('Không lưu được — bộ nhớ trình duyệt đầy?', 'error'); }
+  }
+
+  // ─── Toast & Modal ─────────────────────────────────────────────────
+  const toastEl = document.getElementById('toast');
+  let toastTimer;
+  function toast(msg, type) {
+    toastEl.textContent = msg;
+    toastEl.className = 'toast show' + (type ? ' '+type : '');
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => toastEl.className = 'toast', 2400);
+  }
+  const modal = document.getElementById('modal');
+  const modalContent = document.getElementById('modal-content');
+  function openModal(html) {
+    modalContent.innerHTML = html;
+    modal.classList.add('show');
+  }
+  function closeModal() { modal.classList.remove('show'); }
+  modal.addEventListener('click', e => { if (e.target === modal) closeModal(); });
+
+  // ─── Deck validation ──────────────────────────────────────────────
+  function validateQuestion(q, ctx) {
+    if (!q.q) throw new Error(ctx+' thiếu "q".');
+    if (!Array.isArray(q.options) || q.options.length < 2) throw new Error(ctx+' thiếu "options" (cần ≥ 2).');
+    if (!q.explain) throw new Error(ctx+' thiếu "explain".');
+    const isMulti = q.type === 'multi';
+    if (isMulti) {
+      if (!Array.isArray(q.answer) || q.answer.length === 0) throw new Error(ctx+' "answer" phải là mảng các chỉ số (không rỗng) cho câu multi.');
+      const seen = new Set();
+      q.answer.forEach(a => {
+        if (typeof a !== 'number' || a < 0 || a >= q.options.length) throw new Error(ctx+' "answer" chứa chỉ số không hợp lệ: '+a);
+        if (seen.has(a)) throw new Error(ctx+' "answer" có chỉ số trùng: '+a);
+        seen.add(a);
+      });
+    } else {
+      if (typeof q.answer !== 'number' || q.answer < 0 || q.answer >= q.options.length) throw new Error(ctx+' "answer" không hợp lệ.');
+    }
+  }
+  function validateDeck(d) {
+    if (!d || typeof d !== 'object') throw new Error('File không hợp lệ — phải là object JSON.');
+    if (!d.name || typeof d.name !== 'string') throw new Error('Thiếu trường "name" (tên bộ đề).');
+    // Determine deck type — default to 'cases' for backward compatibility
+    const deckType = d.type || (Array.isArray(d.questions) ? 'mcq' : 'cases');
+    if (deckType === 'mcq') {
+      if (!Array.isArray(d.questions) || d.questions.length === 0) {
+        throw new Error('Bộ MCQ phải có mảng "questions" (không rỗng) ở cấp đầu.');
+      }
+      d.questions.forEach((q, qi) => validateQuestion(q, 'Câu '+(qi+1)));
+    } else if (deckType === 'cases') {
+      if (!Array.isArray(d.cases) || d.cases.length === 0) throw new Error('Thiếu mảng "cases" hoặc rỗng.');
+      d.cases.forEach((c, ci) => {
+        if (!c.title) throw new Error('Case '+(ci+1)+' thiếu "title".');
+        if (!c.body) throw new Error('Case '+(ci+1)+' thiếu "body".');
+        if (!Array.isArray(c.questions) || c.questions.length === 0) throw new Error('Case '+(ci+1)+' thiếu "questions".');
+        c.questions.forEach((q, qi) => validateQuestion(q, 'Case '+(ci+1)+' câu '+(qi+1)));
+      });
+    } else {
+      throw new Error('Trường "type" không hợp lệ: phải là "cases" hoặc "mcq".');
+    }
+    return true;
+  }
+
+  function importDeckObj(obj, categoryOverride) {
+    validateDeck(obj);
+    const id = 'd_' + Date.now() + '_' + Math.random().toString(36).slice(2,7);
+    const deckType = obj.type || (Array.isArray(obj.questions) ? 'mcq' : 'cases');
+    let totalQ;
+    if (deckType === 'mcq') {
+      totalQ = obj.questions.length;
+    } else {
+      totalQ = obj.cases.reduce((s,c)=>s+c.questions.length,0);
+    }
+    const category = (categoryOverride || obj.category || '').trim() || 'Chưa phân loại';
+    const deck = {
+      id,
+      name: obj.name,
+      description: obj.description || '',
+      level: obj.level || '',
+      type: deckType,
+      category: category,
+      totalQuestions: totalQ,
+      addedAt: Date.now(),
+      bestScore: null
+    };
+    if (deckType === 'mcq') deck.questions = obj.questions;
+    else deck.cases = obj.cases;
+    // Check duplicate name
+    const existing = decks.findIndex(d => d.name === deck.name);
+    if (existing >= 0) {
+      if (confirm('Bộ đề "'+deck.name+'" đã tồn tại. Ghi đè?')) {
+        // preserve category if not overridden
+        if (!categoryOverride && !obj.category) deck.category = decks[existing].category || category;
+        decks[existing] = deck;
+      } else return;
+    } else {
+      decks.push(deck);
+    }
+    saveDecks();
+    toast('Đã thêm bộ đề: '+deck.name, 'success');
+    renderLibrary();
+  }
+
+  function importFromText(text, categoryOverride) {
+    let obj;
+    try { obj = JSON.parse(text); }
+    catch(e) { toast('JSON không hợp lệ: '+e.message, 'error'); return; }
+    try { importDeckObj(obj, categoryOverride); }
+    catch(e) { toast('Lỗi: '+e.message, 'error'); }
+  }
+
+  function importFromFile(file, categoryOverride) {
+    const reader = new FileReader();
+    reader.onload = e => importFromText(e.target.result, categoryOverride);
+    reader.onerror = () => toast('Không đọc được file', 'error');
+    reader.readAsText(file);
+  }
+
+  // ─── Cloud Sync ───────────────────────────────────────────────────
+  function openCloudSyncModal() {
+    const savedUrl = localStorage.getItem(CLOUD_URL_KEY) || '';
+    openModal(`
+      <h2 class="modal-title">☁ Đồng bộ từ cloud</h2>
+      <div class="modal-body">
+        Nhập URL của file <b>manifest.json</b> chứa danh sách bộ đề. App sẽ tự tải về tất cả các bộ trong manifest.<br><br>
+        Manifest có dạng:
+        <pre style="margin: 6px 0;">{
+  "decks": [
+    {"name": "Bệnh thận mạn", "url": "ckd_data.json"},
+    {"name": "Suy tim", "url": "heart_failure.json"}
+  ]
+}</pre>
+        URL trong <code>url</code> có thể là tương đối (cùng folder với manifest) hoặc tuyệt đối.
+      </div>
+      <div class="form-row">
+        <label class="form-label">URL manifest</label>
+        <input type="text" class="form-input" id="cloud-url" value="${escapeHtml(savedUrl)}" placeholder="https://yourname.github.io/quiz-data/manifest.json">
+      </div>
+      <div class="form-row" style="display: flex; align-items: center; gap: 8px; font-size: 13px; color: var(--text-secondary);">
+        <input type="checkbox" id="cloud-replace" style="cursor:pointer;">
+        <label for="cloud-replace" style="cursor:pointer;">Ghi đè bộ đề trùng tên (mặc định: bỏ qua nếu đã có)</label>
+      </div>
+      <div id="cloud-progress" style="font-size: 13px; color: var(--text-secondary); margin: 10px 0; min-height: 20px;"></div>
+      <div class="modal-actions">
+        <button class="btn" id="cloud-cancel">Đóng</button>
+        <button class="btn btn-primary" id="cloud-go">Đồng bộ</button>
+      </div>
+    `);
+    document.getElementById('cloud-cancel').onclick = closeModal;
+    document.getElementById('cloud-go').onclick = async () => {
+      const url = document.getElementById('cloud-url').value.trim();
+      const replace = document.getElementById('cloud-replace').checked;
+      if (!url) { toast('Chưa nhập URL', 'error'); return; }
+      const goBtn = document.getElementById('cloud-go');
+      const progressEl = document.getElementById('cloud-progress');
+      goBtn.disabled = true;
+      try {
+        await syncFromCloud(url, replace, msg => progressEl.textContent = msg);
+        localStorage.setItem(CLOUD_URL_KEY, url);
+        progressEl.textContent = '✓ Hoàn tất';
+        setTimeout(() => { closeModal(); renderLibrary(); }, 800);
+      } catch(e) {
+        progressEl.textContent = '✗ ' + e.message;
+        progressEl.style.color = 'var(--danger)';
+      } finally {
+        goBtn.disabled = false;
+      }
+    };
+  }
+
+  async function syncFromCloud(manifestUrl, replace, progress) {
+    progress('Đang tải manifest...');
+    let manifest;
+    try {
+      const res = await fetch(manifestUrl, { cache: 'no-cache' });
+      if (!res.ok) throw new Error('HTTP '+res.status);
+      manifest = await res.json();
+    } catch(e) {
+      throw new Error('Không tải được manifest: ' + e.message);
+    }
+    if (!manifest || !Array.isArray(manifest.decks) || manifest.decks.length === 0) {
+      throw new Error('Manifest không hợp lệ — phải có mảng "decks"');
+    }
+    const baseUrl = new URL(manifestUrl, window.location.href);
+    const manifestNames = new Set(manifest.decks.map(d => d.name));
+    let added = 0, updated = 0, skipped = 0, failed = 0, removed = 0;
+    for (let i = 0; i < manifest.decks.length; i++) {
+      const item = manifest.decks[i];
+      progress(`Đang tải ${i+1}/${manifest.decks.length}: ${item.name || item.url}...`);
+      try {
+        const deckUrl = new URL(item.url, baseUrl).href;
+        const res = await fetch(deckUrl, { cache: 'no-cache' });
+        if (!res.ok) throw new Error('HTTP '+res.status);
+        const deckObj = await res.json();
+        validateDeck(deckObj);
+        const existingIdx = decks.findIndex(d => d.name === deckObj.name);
+        if (existingIdx >= 0 && !replace) { skipped++; continue; }
+        const id = existingIdx >= 0 ? decks[existingIdx].id : ('d_' + Date.now() + '_' + Math.random().toString(36).slice(2,7));
+        const deckType = deckObj.type || (Array.isArray(deckObj.questions) ? 'mcq' : 'cases');
+        const totalQ = deckType === 'mcq'
+          ? deckObj.questions.length
+          : deckObj.cases.reduce((s,c)=>s+c.questions.length,0);
+        // Preserve user's existing category if cloud deck doesn't specify one
+        const cloudCategory = (deckObj.category || '').trim();
+        const preservedCategory = existingIdx >= 0 ? decks[existingIdx].category : null;
+        const finalCategory = cloudCategory || preservedCategory || 'Chưa phân loại';
+        const newDeck = {
+          id, name: deckObj.name,
+          description: deckObj.description || '',
+          level: deckObj.level || '',
+          type: deckType,
+          category: finalCategory,
+          totalQuestions: totalQ,
+          addedAt: existingIdx >= 0 ? decks[existingIdx].addedAt : Date.now(),
+          bestScore: existingIdx >= 0 ? decks[existingIdx].bestScore : null,
+          source: 'cloud'
+        };
+        if (deckType === 'mcq') newDeck.questions = deckObj.questions;
+        else newDeck.cases = deckObj.cases;
+        if (existingIdx >= 0) { decks[existingIdx] = newDeck; updated++; }
+        else { decks.push(newDeck); added++; }
+      } catch(e) {
+        failed++;
+        console.error('Failed to load', item, e);
+      }
+    }
+    // Remove cloud-sourced decks no longer in manifest (cloud is the source of truth)
+    // Only when replace=true (full sync); skip when user is just adding new ones
+    if (replace) {
+      const before = decks.length;
+      decks = decks.filter(d => {
+        // Keep decks not from cloud (manually added / kept locally)
+        if (d.source !== 'cloud') return true;
+        // Keep cloud decks still in manifest
+        return manifestNames.has(d.name);
+      });
+      removed = before - decks.length;
+    }
+    saveDecks();
+    const summary = [];
+    if (added) summary.push(added+' bộ mới');
+    if (updated) summary.push(updated+' cập nhật');
+    if (skipped) summary.push(skipped+' đã có (bỏ qua)');
+    if (removed) summary.push(removed+' đã xoá (không còn trên cloud)');
+    if (failed) summary.push(failed+' lỗi');
+    progress(summary.join(' · ') || 'Không có thay đổi');
+  }
+
+  // ─── Cloud Push (GitHub API) ──────────────────────────────────────
+  function getPushConfig() {
+    try {
+      const raw = localStorage.getItem(PUSH_CONFIG_KEY);
+      return raw ? JSON.parse(raw) : null;
+    } catch(e) { return null; }
+  }
+  function savePushConfig(cfg) {
+    localStorage.setItem(PUSH_CONFIG_KEY, JSON.stringify(cfg));
+  }
+
+  function openPushModal() {
+    const cfg = getPushConfig() || { token: '', owner: '', repo: '', branch: 'main', folder: '' };
+    openModal(`
+      <h2 class="modal-title">📤 Đẩy lên GitHub</h2>
+      <div class="modal-body">
+        Đẩy tất cả các bộ đề (kèm <code>manifest.json</code>) lên repo GitHub đã cấu hình.
+        Cần <b>Personal Access Token</b> với quyền <code>Contents: Read and write</code> cho repo cụ thể.
+        <a href="https://github.com/settings/tokens?type=beta" target="_blank" style="color: var(--info);">Tạo token tại đây →</a>
+      </div>
+      <div class="form-row">
+        <label class="form-label">GitHub Personal Access Token</label>
+        <input type="password" class="form-input" id="cfg-token" value="${escapeHtml(cfg.token)}" placeholder="github_pat_...">
+      </div>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">
+        <div class="form-row">
+          <label class="form-label">Owner (username)</label>
+          <input type="text" class="form-input" id="cfg-owner" value="${escapeHtml(cfg.owner)}" placeholder="yourusername">
+        </div>
+        <div class="form-row">
+          <label class="form-label">Repo</label>
+          <input type="text" class="form-input" id="cfg-repo" value="${escapeHtml(cfg.repo)}" placeholder="quiz-data">
+        </div>
+      </div>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">
+        <div class="form-row">
+          <label class="form-label">Branch</label>
+          <input type="text" class="form-input" id="cfg-branch" value="${escapeHtml(cfg.branch)}" placeholder="main">
+        </div>
+        <div class="form-row">
+          <label class="form-label">Folder (tuỳ chọn)</label>
+          <input type="text" class="form-input" id="cfg-folder" value="${escapeHtml(cfg.folder)}" placeholder="(để trống = root)">
+        </div>
+      </div>
+      <div id="push-progress" style="font-size: 13px; color: var(--text-secondary); margin: 10px 0; min-height: 20px; line-height: 1.5;"></div>
+      <div class="modal-actions">
+        <button class="btn" id="push-cancel">Đóng</button>
+        <button class="btn btn-primary" id="push-go">📤 Đẩy lên</button>
+      </div>
+    `);
+    document.getElementById('push-cancel').onclick = closeModal;
+    document.getElementById('push-go').onclick = async () => {
+      const newCfg = {
+        token: document.getElementById('cfg-token').value.trim(),
+        owner: document.getElementById('cfg-owner').value.trim(),
+        repo: document.getElementById('cfg-repo').value.trim(),
+        branch: document.getElementById('cfg-branch').value.trim() || 'main',
+        folder: document.getElementById('cfg-folder').value.trim().replace(/^\/+|\/+$/g, '')
+      };
+      if (!newCfg.token || !newCfg.owner || !newCfg.repo) {
+        toast('Cần đủ token, owner, repo', 'error'); return;
+      }
+      if (decks.length === 0) {
+        toast('Chưa có bộ đề nào để đẩy', 'error'); return;
+      }
+      savePushConfig(newCfg);
+      const goBtn = document.getElementById('push-go');
+      const progressEl = document.getElementById('push-progress');
+      goBtn.disabled = true;
+      try {
+        await pushToGitHub(newCfg, msg => {
+          progressEl.innerHTML += msg + '<br>';
+          progressEl.scrollTop = progressEl.scrollHeight;
+        });
+        progressEl.innerHTML += '<b style="color: var(--success);">✓ Hoàn tất! Truy cập tại:</b><br>';
+        const pagesUrl = `https://${newCfg.owner}.github.io/${newCfg.repo}/${newCfg.folder ? newCfg.folder + '/' : ''}manifest.json`;
+        progressEl.innerHTML += `<a href="${pagesUrl}" target="_blank" style="color: var(--info); font-size: 12px;">${pagesUrl}</a>`;
+      } catch(e) {
+        progressEl.innerHTML += '<b style="color: var(--danger);">✗ ' + escapeHtml(e.message) + '</b>';
+      } finally {
+        goBtn.disabled = false;
+      }
+    };
+  }
+
+  function slugify(s) {
+    return String(s)
+      .normalize('NFD').replace(/[\u0300-\u036f]/g, '')   // remove diacritics
+      .replace(/đ/g, 'd').replace(/Đ/g, 'D')
+      .replace(/[^\w\s-]/g, '')
+      .trim().replace(/\s+/g, '_').toLowerCase()
+      .substring(0, 60) || 'deck';
+  }
+
+  async function ghRequest(cfg, path, method, body) {
+    const url = `https://api.github.com/repos/${cfg.owner}/${cfg.repo}/contents/${path}`;
+    const headers = {
+      'Authorization': 'Bearer ' + cfg.token,
+      'Accept': 'application/vnd.github+json',
+      'X-GitHub-Api-Version': '2022-11-28'
+    };
+    const opts = { method, headers };
+    if (body) {
+      opts.body = JSON.stringify(body);
+      headers['Content-Type'] = 'application/json';
+    }
+    const res = await fetch(url, opts);
+    if (res.status === 404 && method === 'GET') return null; // file doesn't exist yet
+    if (!res.ok) {
+      const errBody = await res.text();
+      throw new Error(`GitHub API ${res.status}: ${errBody.substring(0, 200)}`);
+    }
+    return res.json();
+  }
+
+  // Base64-encode a UTF-8 string (handles unicode correctly)
+  function b64encode(str) {
+    return btoa(unescape(encodeURIComponent(str)));
+  }
+
+  async function pushFile(cfg, path, content, commitMsg, progress) {
+    // Get existing SHA if file exists (required for updates)
+    progress(`  → Kiểm tra ${path}...`);
+    const existing = await ghRequest(cfg, path + '?ref=' + cfg.branch, 'GET');
+    const body = {
+      message: commitMsg,
+      content: b64encode(content),
+      branch: cfg.branch
+    };
+    if (existing && existing.sha) body.sha = existing.sha;
+    progress(`  → ${existing ? 'Cập nhật' : 'Tạo mới'} ${path}...`);
+    await ghRequest(cfg, path, 'PUT', body);
+  }
+
+  async function pushToGitHub(cfg, progress) {
+    progress('Bắt đầu đẩy lên GitHub...');
+    const folderPrefix = cfg.folder ? cfg.folder + '/' : '';
+    const usedSlugs = new Set();
+    const manifest = { decks: [] };
+
+    // Generate unique slug filenames for each deck
+    const deckFiles = decks.map(d => {
+      let slug = slugify(d.name);
+      let candidate = slug;
+      let n = 2;
+      while (usedSlugs.has(candidate)) candidate = slug + '_' + (n++);
+      usedSlugs.add(candidate);
+      return { deck: d, filename: candidate + '.json' };
+    });
+
+    // Push each deck as its own JSON file
+    for (let i = 0; i < deckFiles.length; i++) {
+      const { deck, filename } = deckFiles[i];
+      progress(`<b>${i+1}/${deckFiles.length}</b> ${escapeHtml(deck.name)}`);
+      const isMcq = (deck.type || 'cases') === 'mcq';
+      const exportObj = {
+        name: deck.name,
+        description: deck.description,
+        level: deck.level,
+        type: deck.type || 'cases',
+        category: deck.category || 'Chưa phân loại'
+      };
+      if (isMcq) exportObj.questions = deck.questions;
+      else exportObj.cases = deck.cases;
+      await pushFile(cfg, folderPrefix + filename, JSON.stringify(exportObj, null, 2), `Update ${deck.name}`, progress);
+      manifest.decks.push({ name: deck.name, url: filename });
+    }
+
+    // Push manifest last
+    progress(`<b>Manifest</b>`);
+    await pushFile(cfg, folderPrefix + 'manifest.json', JSON.stringify(manifest, null, 2), 'Update manifest', progress);
+  }
+
+  // ─── Library View ─────────────────────────────────────────────────
+  function getCategoryIcon(cat) {
+    const lower = cat.toLowerCase();
+    if (lower.includes('nội')) return '🩺';
+    if (lower.includes('ngoại')) return '🔬';
+    if (lower.includes('sản') || lower.includes('phụ khoa')) return '🤰';
+    if (lower.includes('nhi')) return '👶';
+    if (lower.includes('cơ sở') || lower.includes('sinh lý') || lower.includes('giải phẫu')) return '📚';
+    if (lower.includes('cấp cứu') || lower.includes('hồi sức')) return '🚑';
+    if (lower.includes('da') || lower.includes('liễu')) return '🧴';
+    if (lower.includes('tâm thần')) return '🧠';
+    if (lower.includes('mắt')) return '👁️';
+    if (lower.includes('tai mũi họng') || lower.includes('tmh')) return '👂';
+    if (lower.includes('răng')) return '🦷';
+    if (lower.includes('truyền nhiễm')) return '🦠';
+    if (lower.includes('chưa phân loại')) return '📂';
+    return '📁';
+  }
+
+  function getDecksForTab(tab) {
+    return decks.filter(d => (d.type || 'cases') === tab);
+  }
+
+  function getCategoriesForTab(tab) {
+    const tabDecks = getDecksForTab(tab);
+    const map = new Map();
+    tabDecks.forEach(d => {
+      const cat = d.category || 'Chưa phân loại';
+      if (!map.has(cat)) map.set(cat, 0);
+      map.set(cat, map.get(cat) + 1);
+    });
+    return Array.from(map.entries()).map(([name, count]) => ({ name, count }))
+      .sort((a, b) => {
+        if (a.name === 'Chưa phân loại') return 1;
+        if (b.name === 'Chưa phân loại') return -1;
+        return a.name.localeCompare(b.name, 'vi');
+      });
+  }
+
+  function matchesSearch(d, q) {
+    if (!q) return true;
+    const lower = q.toLowerCase();
+    return (d.name || '').toLowerCase().includes(lower)
+        || (d.description || '').toLowerCase().includes(lower)
+        || (d.category || '').toLowerCase().includes(lower);
+  }
+
+  function renderLibrary() {
+    view = 'library';
+    document.getElementById('header-title').textContent = 'Thư viện bộ câu hỏi';
+    document.getElementById('header-actions').innerHTML = `
+      <button class="btn btn-primary btn-sm" id="cloud-sync">☁ Đồng bộ</button>
+    `;
+    document.getElementById('cloud-sync').onclick = openCloudSyncModal;
+
+    const main = document.getElementById('main');
+    const casesCount = getDecksForTab('cases').length;
+    const mcqCount = getDecksForTab('mcq').length;
+
+    // Tabs (always visible)
+    let html = `
+      <div class="tabs">
+        <button class="tab ${activeTab === 'cases' ? 'active' : ''}" data-tab="cases">
+          📋 Case lâm sàng <span class="badge">${casesCount}</span>
+        </button>
+        <button class="tab ${activeTab === 'mcq' ? 'active' : ''}" data-tab="mcq">
+          ❓ MCQ <span class="badge">${mcqCount}</span>
+        </button>
+      </div>
+    `;
+
+    // Search bar
+    html += `
+      <div class="search-bar">
+        <input type="text" class="search-input" id="search-input" placeholder="🔍 Tìm kiếm theo tên bộ đề, mô tả, danh mục..." value="${escapeHtml(searchQuery)}">
+        ${searchQuery ? '<button class="btn btn-sm search-clear" id="search-clear">✕</button>' : ''}
+      </div>
+    `;
+
+    if (searchQuery) {
+      // SEARCH MODE: show all matching decks across categories
+      html += renderSearchResults();
+    } else if (activeCategory === null) {
+      // CATEGORY LIST MODE
+      html += renderCategoryList();
+    } else {
+      // INSIDE A CATEGORY
+      html += renderCategoryContents();
+    }
+
+    main.innerHTML = html;
+    bindLibraryEvents();
+  }
+
+  function renderCategoryList() {
+    const categories = getCategoriesForTab(activeTab);
+    if (categories.length === 0) {
+      return `
+        <div class="library-empty">
+          <div class="library-empty-icon">${activeTab === 'cases' ? '📋' : '❓'}</div>
+          <div style="font-size: 15px; font-weight: 600; margin-bottom: 8px;">
+            Chưa có bộ ${activeTab === 'cases' ? 'case lâm sàng' : 'MCQ'} nào
+          </div>
+          <div style="font-size: 13px; color: var(--text-secondary);">
+            Nhấn nút <b>☁ Đồng bộ</b> ở góc trên để tải bộ đề từ cloud về.
+          </div>
+        </div>
+      `;
+    }
+    let html = '<div class="category-grid">';
+    categories.forEach(c => {
+      html += `
+        <div class="category-card" data-category="${escapeHtml(c.name)}">
+          <div class="category-icon">${getCategoryIcon(c.name)}</div>
+          <div class="category-name">${escapeHtml(c.name)}</div>
+          <div class="category-count">${c.count} bộ đề</div>
+        </div>
+      `;
+    });
+    html += '</div>';
+    return html;
+  }
+
+  function renderCategoryContents() {
+    const tabDecks = getDecksForTab(activeTab);
+    const categoryDecks = tabDecks.filter(d => (d.category || 'Chưa phân loại') === activeCategory);
+
+    let html = `
+      <div class="breadcrumb">
+        <a id="back-to-categories">← Tất cả danh mục</a>
+        <span class="breadcrumb-sep">/</span>
+        <span class="breadcrumb-current">${getCategoryIcon(activeCategory)} ${escapeHtml(activeCategory)}</span>
+      </div>
+    `;
+
+    if (categoryDecks.length === 0) {
+      html += `
+        <div class="library-empty">
+          <div style="font-size: 13px;">Danh mục này chưa có bộ đề nào.</div>
+        </div>
+      `;
+    } else {
+      html += '<div class="deck-list">';
+      categoryDecks.sort((a,b) => b.addedAt - a.addedAt).forEach(d => {
+        html += renderDeckCard(d);
+      });
+      html += '</div>';
+    }
+    return html;
+  }
+
+  function renderSearchResults() {
+    const tabDecks = getDecksForTab(activeTab);
+    const matches = tabDecks.filter(d => matchesSearch(d, searchQuery))
+      .sort((a,b) => b.addedAt - a.addedAt);
+    let html = `<div class="search-results-info">Tìm thấy <b>${matches.length}</b> kết quả cho "${escapeHtml(searchQuery)}" trong tab ${activeTab === 'cases' ? 'Case lâm sàng' : 'MCQ'}</div>`;
+    if (matches.length === 0) {
+      html += `<div class="library-empty"><div style="font-size: 13px;">Không có kết quả phù hợp.</div></div>`;
+    } else {
+      html += '<div class="deck-list">';
+      matches.forEach(d => { html += renderDeckCard(d, true); });
+      html += '</div>';
+    }
+    return html;
+  }
+
+  function renderDeckCard(d, showCategory) {
+    const isCases = (d.type || 'cases') === 'cases';
+    const countLabel = isCases
+      ? `${d.cases.length} case · ${d.totalQuestions} câu`
+      : `${d.totalQuestions} câu`;
+    const score = d.bestScore != null ? `Điểm cao nhất: ${d.bestScore}%` : 'Chưa làm';
+    const catBadge = showCategory && d.category
+      ? `<span style="font-size: 11px; color: var(--text-tertiary); margin-right: 8px;">${getCategoryIcon(d.category)} ${escapeHtml(d.category)}</span>`
+      : '';
+    return `
+      <div class="deck-card" data-id="${d.id}">
+        <div class="deck-card-top">
+          <h3 class="deck-name">${escapeHtml(d.name)}</h3>
+          <div class="deck-meta">${catBadge}${countLabel}</div>
+        </div>
+        ${d.description ? `<p class="deck-desc">${escapeHtml(d.description)}</p>` : ''}
+        <div class="deck-actions">
+          <button class="btn btn-primary btn-sm act-start" data-id="${d.id}">Bắt đầu</button>
+          <label class="shuffle-toggle" title="Xáo ngẫu nhiên thứ tự và đáp án">
+            <input type="checkbox" class="shuffle-cb" data-id="${d.id}"> 🔀 Xáo
+          </label>
+          <button class="btn btn-sm btn-danger act-delete" data-id="${d.id}" title="Xoá khỏi thiết bị này">Xoá</button>
+          <span class="deck-stats-mini" style="margin-left:auto;">${score}</span>
+        </div>
+      </div>
+    `;
+  }
+
+  function bindLibraryEvents() {
+    const main = document.getElementById('main');
+
+    // Tabs
+    main.querySelectorAll('.tab').forEach(t => t.onclick = () => {
+      activeTab = t.dataset.tab;
+      activeCategory = null;
+      searchQuery = '';
+      renderLibrary();
+    });
+
+    // Search
+    const searchInput = document.getElementById('search-input');
+    if (searchInput) {
+      let searchTimer;
+      searchInput.oninput = (e) => {
+        clearTimeout(searchTimer);
+        searchTimer = setTimeout(() => {
+          searchQuery = e.target.value.trim();
+          renderLibrary();
+          const newInput = document.getElementById('search-input');
+          if (newInput) {
+            newInput.focus();
+            newInput.setSelectionRange(newInput.value.length, newInput.value.length);
+          }
+        }, 200);
+      };
+    }
+    const searchClear = document.getElementById('search-clear');
+    if (searchClear) searchClear.onclick = () => { searchQuery = ''; renderLibrary(); };
+
+    // Category cards
+    main.querySelectorAll('.category-card').forEach(c => c.onclick = () => {
+      activeCategory = c.dataset.category;
+      renderLibrary();
+    });
+
+    // Back to category list
+    const backCat = document.getElementById('back-to-categories');
+    if (backCat) backCat.onclick = () => { activeCategory = null; renderLibrary(); };
+
+    // Deck cards (start + delete)
+    main.querySelectorAll('.act-start').forEach(b => b.onclick = e => {
+      e.stopPropagation();
+      const cb = main.querySelector('.shuffle-cb[data-id="'+b.dataset.id+'"]');
+      const shuffle = cb && cb.checked;
+      startDeck(b.dataset.id, shuffle);
+    });
+    main.querySelectorAll('.act-delete').forEach(b => b.onclick = e => {
+      e.stopPropagation();
+      deleteDeck(b.dataset.id);
+    });
+    main.querySelectorAll('.shuffle-toggle').forEach(l => l.onclick = e => e.stopPropagation());
+    main.querySelectorAll('.deck-card').forEach(c => c.onclick = (e) => {
+      // Don't trigger start when clicking on delete button
+      if (e.target.closest('.act-delete')) return;
+      const cb = c.querySelector('.shuffle-cb');
+      const shuffle = cb && cb.checked;
+      startDeck(c.dataset.id, shuffle);
+    });
+  }
+
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
+  }
+
+  function deleteDeck(id) {
+    const d = decks.find(x => x.id === id);
+    if (!d) return;
+    const isFromCloud = d.source === 'cloud';
+    const msg = isFromCloud
+      ? `Xoá bộ "${d.name}" khỏi thiết bị này?\n\nLưu ý: bộ đề này được tải từ cloud — nó vẫn còn trên cloud và sẽ tự động tải lại khi đồng bộ.\nĐể xoá hoàn toàn, hãy xoá trên app host rồi đẩy lên cloud.`
+      : `Xoá bộ đề "${d.name}"?`;
+    if (!confirm(msg)) return;
+    decks = decks.filter(x => x.id !== id);
+    saveDecks();
+    toast('Đã xoá khỏi thiết bị', 'success');
+    renderLibrary();
+  }
+
+  function exportDeck(id) {
+    const d = decks.find(x => x.id === id);
+    if (!d) return;
+    const isMcq = (d.type || 'cases') === 'mcq';
+    const obj = {
+      name: d.name,
+      description: d.description,
+      level: d.level,
+      type: d.type || 'cases',
+      category: d.category || 'Chưa phân loại'
+    };
+    if (isMcq) obj.questions = d.questions;
+    else obj.cases = d.cases;
+    const blob = new Blob([JSON.stringify(obj, null, 2)], {type: 'application/json'});
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = d.name.replace(/[^\w\s-]/g,'').replace(/\s+/g,'_').toLowerCase() + '.json';
+    a.click();
+    URL.revokeObjectURL(url);
+  }
+
+  function openPasteModal(categoryOverride) {
+    const catLabel = categoryOverride ? `<div style="font-size: 12px; color: var(--text-secondary); margin-bottom: 8px;">Sẽ thêm vào danh mục: <b>${escapeHtml(categoryOverride)}</b></div>` : '';
+    openModal(`
+      <h2 class="modal-title">Dán JSON</h2>
+      <div class="modal-body">Dán nội dung JSON vào ô bên dưới rồi nhấn "Nhập".</div>
+      ${catLabel}
+      <textarea class="modal-textarea" id="paste-area" placeholder='{"name":"...","cases":[...]}'></textarea>
+      <div class="modal-actions" style="margin-top: 12px;">
+        <button class="btn" id="paste-cancel">Huỷ</button>
+        <button class="btn btn-primary" id="paste-import">Nhập</button>
+      </div>
+    `);
+    document.getElementById('paste-cancel').onclick = closeModal;
+    document.getElementById('paste-import').onclick = () => {
+      const text = document.getElementById('paste-area').value.trim();
+      if (!text) { toast('Chưa có nội dung', 'error'); return; }
+      closeModal();
+      importFromText(text, categoryOverride);
+    };
+  }
+
+  function showFormatHelp() {
+    const sample = {
+      "name": "Tên bộ đề",
+      "description": "Mô tả ngắn (tuỳ chọn)",
+      "level": "Mức độ (tuỳ chọn)",
+      "cases": [
+        {
+          "title": "Case 1 — Tiêu đề case",
+          "body": "Mô tả bệnh nhân (HTML cơ bản: <b>, <br> được hỗ trợ)",
+          "questions": [
+            {
+              "q": "Nội dung câu hỏi?",
+              "options": ["Đáp án A", "Đáp án B", "Đáp án C", "Đáp án D"],
+              "answer": 0,
+              "explain": "Giải thích đáp án đúng"
+            }
+          ]
+        }
+      ]
+    };
+    openModal(`
+      <h2 class="modal-title">Định dạng file JSON</h2>
+      <div class="modal-body">
+        Mỗi bộ đề là một file JSON với cấu trúc:
+        <ul style="margin: 8px 0 8px 20px; padding: 0;">
+          <li><code>name</code>: tên bộ đề (bắt buộc)</li>
+          <li><code>cases</code>: mảng các case</li>
+          <li>Mỗi case có <code>title</code>, <code>body</code>, <code>questions</code></li>
+          <li>Mỗi câu hỏi có <code>q</code>, <code>options</code>, <code>answer</code> (số thứ tự, bắt đầu từ 0), <code>explain</code></li>
+        </ul>
+      </div>
+      <pre>${escapeHtml(JSON.stringify(sample, null, 2))}</pre>
+      <div class="modal-actions" style="margin-top: 12px;">
+        <button class="btn btn-primary" id="format-close">Đóng</button>
+        <button class="btn" id="format-copy">Copy mẫu</button>
+      </div>
+    `);
+    document.getElementById('format-close').onclick = closeModal;
+    document.getElementById('format-copy').onclick = () => {
+      navigator.clipboard.writeText(JSON.stringify(sample, null, 2)).then(() => {
+        toast('Đã copy mẫu vào clipboard', 'success');
+      });
+    };
+  }
+
+  // ─── Manage View ──────────────────────────────────────────────────
+  function renderManage(deckId) {
+    const d = decks.find(x => x.id === deckId);
+    if (!d) { renderLibrary(); return; }
+    view = 'manage';
+    document.getElementById('header-title').textContent = 'Quản lý: ' + d.name;
+    document.getElementById('header-actions').innerHTML = `
+      <button class="btn btn-sm" id="back-lib">← Thư viện</button>
+    `;
+    document.getElementById('back-lib').onclick = renderLibrary;
+
+    const isMcq = (d.type || 'cases') === 'mcq';
+    const totalQ = isMcq ? d.questions.length : d.cases.reduce((s,c) => s + c.questions.length, 0);
+
+    // List of available categories from existing decks (for datalist autocomplete)
+    const allCats = Array.from(new Set(decks.map(x => x.category || 'Chưa phân loại'))).sort();
+    const catOptions = allCats.map(c => `<option value="${escapeHtml(c)}">`).join('');
+
+    let itemsHTML = '';
+    if (isMcq) {
+      d.questions.forEach((q, idx) => {
+        const preview = (q.q || '').substring(0, 80) + ((q.q || '').length > 80 ? '...' : '');
+        itemsHTML += `
+          <div class="case-item">
+            <span class="case-item-num">${idx + 1}.</span>
+            <span class="case-item-title">${escapeHtml(preview)}</span>
+            <span class="case-item-meta">${q.type === 'multi' ? 'multi' : 'single'}</span>
+            <span class="case-item-actions">
+              <button class="icon-btn act-up" data-idx="${idx}" ${idx === 0 ? 'disabled' : ''} title="Lên">↑</button>
+              <button class="icon-btn act-down" data-idx="${idx}" ${idx === d.questions.length - 1 ? 'disabled' : ''} title="Xuống">↓</button>
+              <button class="icon-btn danger act-remove-item" data-idx="${idx}" title="Xoá câu">✕</button>
+            </span>
+          </div>
+        `;
+      });
+    } else {
+      d.cases.forEach((c, idx) => {
+        itemsHTML += `
+          <div class="case-item">
+            <span class="case-item-num">${idx + 1}.</span>
+            <span class="case-item-title">${escapeHtml(c.title)}</span>
+            <span class="case-item-meta">${c.questions.length} câu</span>
+            <span class="case-item-actions">
+              <button class="icon-btn act-up" data-idx="${idx}" ${idx === 0 ? 'disabled' : ''} title="Lên">↑</button>
+              <button class="icon-btn act-down" data-idx="${idx}" ${idx === d.cases.length - 1 ? 'disabled' : ''} title="Xuống">↓</button>
+              <button class="icon-btn danger act-remove-item" data-idx="${idx}" title="Xoá case">✕</button>
+            </span>
+          </div>
+        `;
+      });
+    }
+
+    const itemsLabel = isMcq
+      ? `Sắp xếp & xoá câu hỏi (${d.questions.length} câu)`
+      : `Sắp xếp & xoá case (${d.cases.length} case · ${totalQ} câu)`;
+    const addLabel = isMcq ? 'Thêm câu hỏi mới' : 'Thêm case mới';
+    const addHint = isMcq
+      ? `Nhập file JSON chứa câu hỏi mới — sẽ được nối vào cuối bộ đề.<br>Chấp nhận: mảng câu hỏi <code>[{...}]</code>, object <code>{"questions":[...]}</code>, hoặc 1 câu đơn <code>{"q":...}</code>.`
+      : `Nhập file JSON chứa case mới — sẽ được nối vào cuối bộ đề.<br>Chấp nhận: mảng case <code>[{...}]</code>, object <code>{"cases":[...]}</code>, hoặc 1 case đơn <code>{"title":...}</code>.`;
+
+    document.getElementById('main').innerHTML = `
+      <div class="manage-section">
+        <h3 class="manage-section-title">Thông tin bộ đề (${isMcq ? 'MCQ' : 'Case lâm sàng'})</h3>
+        <div class="form-row">
+          <label class="form-label">Tên bộ đề</label>
+          <input type="text" class="form-input" id="edit-name" value="${escapeHtml(d.name)}">
+        </div>
+        <div class="form-row">
+          <label class="form-label">Mô tả</label>
+          <input type="text" class="form-input" id="edit-desc" value="${escapeHtml(d.description || '')}" placeholder="Mô tả ngắn (tuỳ chọn)">
+        </div>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">
+          <div class="form-row">
+            <label class="form-label">Mức độ</label>
+            <input type="text" class="form-input" id="edit-level" value="${escapeHtml(d.level || '')}" placeholder="VD: Thi nội trú, Y6...">
+          </div>
+          <div class="form-row">
+            <label class="form-label">Danh mục</label>
+            <input type="text" class="form-input" id="edit-category" value="${escapeHtml(d.category || 'Chưa phân loại')}" placeholder="Nội, Ngoại, Sản, Nhi..." list="cat-list">
+            <datalist id="cat-list">${catOptions}</datalist>
+          </div>
+        </div>
+        <div style="display: flex; justify-content: flex-end;">
+          <button class="btn btn-primary" id="save-info">Lưu thông tin</button>
+        </div>
+      </div>
+
+      <div class="manage-section">
+        <h3 class="manage-section-title">${itemsLabel}</h3>
+        <div id="items-list">${itemsHTML}</div>
+      </div>
+
+      <div class="manage-section">
+        <h3 class="manage-section-title">${addLabel}</h3>
+        <div style="font-size: 13px; color: var(--text-secondary); margin-bottom: 10px; line-height: 1.5;">
+          ${addHint}
+        </div>
+        <div class="import-zone" id="add-drop-zone" style="margin-bottom: 0;">
+          <div class="import-zone-hint">Kéo-thả file <code>.json</code> vào đây, hoặc:</div>
+          <div class="import-buttons">
+            <button class="btn btn-primary" id="add-pick-file">Chọn file</button>
+          </div>
+        </div>
+        <input type="file" id="add-file-input" accept=".json,application/json" style="display: none;">
+      </div>
+    `;
+
+    // Bind events
+    document.getElementById('save-info').onclick = () => {
+      const newName = document.getElementById('edit-name').value.trim();
+      const newDesc = document.getElementById('edit-desc').value.trim();
+      const newLevel = document.getElementById('edit-level').value.trim();
+      const newCategory = document.getElementById('edit-category').value.trim() || 'Chưa phân loại';
+      if (!newName) { toast('Tên bộ đề không được rỗng', 'error'); return; }
+      if (decks.some(x => x.id !== d.id && x.name === newName)) {
+        toast('Đã có bộ đề khác trùng tên', 'error');
+        return;
+      }
+      d.name = newName;
+      d.description = newDesc;
+      d.level = newLevel;
+      d.category = newCategory;
+      saveDecks();
+      toast('Đã lưu thông tin', 'success');
+      document.getElementById('header-title').textContent = 'Quản lý: ' + d.name;
+    };
+
+    // Helper to get the items array based on deck type
+    const getItems = () => isMcq ? d.questions : d.cases;
+    const setItems = (arr) => { if (isMcq) d.questions = arr; else d.cases = arr; };
+    const recomputeTotal = () => {
+      d.totalQuestions = isMcq
+        ? d.questions.length
+        : d.cases.reduce((s,c)=>s+c.questions.length,0);
+    };
+
+    document.querySelectorAll('.act-up').forEach(b => b.onclick = () => {
+      const idx = parseInt(b.dataset.idx);
+      const items = getItems();
+      if (idx > 0) {
+        [items[idx-1], items[idx]] = [items[idx], items[idx-1]];
+        recomputeTotal();
+        saveDecks();
+        renderManage(deckId);
+      }
+    });
+    document.querySelectorAll('.act-down').forEach(b => b.onclick = () => {
+      const idx = parseInt(b.dataset.idx);
+      const items = getItems();
+      if (idx < items.length - 1) {
+        [items[idx], items[idx+1]] = [items[idx+1], items[idx]];
+        recomputeTotal();
+        saveDecks();
+        renderManage(deckId);
+      }
+    });
+    document.querySelectorAll('.act-remove-item').forEach(b => b.onclick = () => {
+      const idx = parseInt(b.dataset.idx);
+      const items = getItems();
+      if (items.length === 1) { toast('Không thể xoá ' + (isMcq ? 'câu' : 'case') + ' duy nhất', 'error'); return; }
+      const label = isMcq ? 'câu hỏi' : 'case "' + items[idx].title + '"';
+      if (!confirm('Xoá ' + label + '?')) return;
+      items.splice(idx, 1);
+      recomputeTotal();
+      saveDecks();
+      toast('Đã xoá', 'success');
+      renderManage(deckId);
+    });
+
+    // ─── Add items from file ──────────────────────────────────
+    function processAddText(text) {
+      let parsed;
+      try { parsed = JSON.parse(text); }
+      catch(e) { toast('JSON không hợp lệ: '+e.message, 'error'); return; }
+      let newItems;
+      if (isMcq) {
+        // Accept array of questions, or {questions:[]}, or single question
+        if (Array.isArray(parsed)) newItems = parsed;
+        else if (parsed && Array.isArray(parsed.questions)) newItems = parsed.questions;
+        else if (parsed && parsed.q && Array.isArray(parsed.options)) newItems = [parsed];
+        else { toast('Phải là mảng câu hỏi, object có "questions", hoặc 1 câu đơn lẻ', 'error'); return; }
+        try {
+          newItems.forEach((q, qi) => validateQuestion(q, 'Câu '+(qi+1)));
+        } catch(e) { toast('Lỗi: '+e.message, 'error'); return; }
+        d.questions = d.questions.concat(newItems);
+      } else {
+        // Accept array of cases, or {cases:[]}, or single case
+        if (Array.isArray(parsed)) newItems = parsed;
+        else if (parsed && Array.isArray(parsed.cases)) newItems = parsed.cases;
+        else if (parsed && parsed.title && parsed.body) newItems = [parsed];
+        else { toast('Phải là mảng cases, object có "cases", hoặc 1 case đơn lẻ', 'error'); return; }
+        try {
+          newItems.forEach((c, ci) => {
+            if (!c.title) throw new Error('Case '+(ci+1)+' thiếu "title"');
+            if (!c.body) throw new Error('Case '+(ci+1)+' thiếu "body"');
+            if (!Array.isArray(c.questions) || c.questions.length === 0) throw new Error('Case '+(ci+1)+' thiếu "questions"');
+            c.questions.forEach((q, qi) => validateQuestion(q, 'Case '+(ci+1)+' câu '+(qi+1)));
+          });
+        } catch(e) { toast('Lỗi: '+e.message, 'error'); return; }
+        d.cases = d.cases.concat(newItems);
+      }
+      recomputeTotal();
+      saveDecks();
+      const addedQ = isMcq
+        ? newItems.length
+        : newItems.reduce((s,c)=>s+c.questions.length,0);
+      toast(`Đã thêm ${newItems.length} ${isMcq ? 'câu' : 'case (' + addedQ + ' câu)'}`, 'success');
+      renderManage(deckId);
+    }
+    function processAddFile(file) {
+      const reader = new FileReader();
+      reader.onload = e => processAddText(e.target.result);
+      reader.onerror = () => toast('Không đọc được file', 'error');
+      reader.readAsText(file);
+    }
+    const addFileInput = document.getElementById('add-file-input');
+    document.getElementById('add-pick-file').onclick = () => addFileInput.click();
+    addFileInput.onchange = e => {
+      if (e.target.files.length) {
+        processAddFile(e.target.files[0]);
+        e.target.value = '';
+      }
+    };
+    const addDz = document.getElementById('add-drop-zone');
+    addDz.addEventListener('dragover', e => { e.preventDefault(); addDz.classList.add('drag-over'); });
+    addDz.addEventListener('dragleave', () => addDz.classList.remove('drag-over'));
+    addDz.addEventListener('drop', e => {
+      e.preventDefault(); addDz.classList.remove('drag-over');
+      if (e.dataTransfer.files.length) processAddFile(e.dataTransfer.files[0]);
+    });
+  }
+
+  // ─── Quiz View ────────────────────────────────────────────────────
+  function shuffleArray(arr) {
+    const a = arr.slice();
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  }
+
+  function buildRuntimeCases(srcCases, shuffle) {
+    let cases = srcCases.map(c => ({
+      title: c.title,
+      body: c.body,
+      questions: c.questions.map(q => {
+        const isMulti = q.type === 'multi';
+        if (shuffle) {
+          const perm = shuffleArray(q.options.map((_, i) => i));
+          const newOptions = perm.map(i => q.options[i]);
+          let newAnswer;
+          if (isMulti) {
+            newAnswer = q.answer.map(a => perm.indexOf(a)).sort((a,b)=>a-b);
+          } else {
+            newAnswer = perm.indexOf(q.answer);
+          }
+          return { q: q.q, type: isMulti ? 'multi' : 'single', options: newOptions, answer: newAnswer, explain: q.explain };
+        }
+        return {
+          q: q.q,
+          type: isMulti ? 'multi' : 'single',
+          options: q.options.slice(),
+          answer: isMulti ? q.answer.slice().sort((a,b)=>a-b) : q.answer,
+          explain: q.explain
+        };
+      })
+    }));
+    if (shuffle) cases = shuffleArray(cases);
+    return cases;
+  }
+
+  function startDeck(id, shuffle) {
+    const d = decks.find(x => x.id === id);
+    if (!d) return;
+    activeDeckId = id;
+    // Convert MCQ deck to a synthetic single-case structure
+    let srcCases;
+    if ((d.type || 'cases') === 'mcq') {
+      if (shuffle) {
+        // For MCQ, shuffle questions individually (one synthetic case)
+        const shuffledQuestions = shuffleArray(d.questions);
+        srcCases = [{ title: '', body: '', questions: shuffledQuestions }];
+      } else {
+        srcCases = [{ title: '', body: '', questions: d.questions }];
+      }
+    } else {
+      srcCases = d.cases;
+    }
+    const runtimeCases = buildRuntimeCases(srcCases, !!shuffle);
+    qstate = {
+      caseIdx: 0, qIdx: 0,
+      selected: null,
+      multiSelected: [],
+      submitted: false,
+      perCase: runtimeCases.map(c => c.questions.map(()=>null)),
+      done: 0, correct: 0, wrong: 0, finished: false,
+      totalQ: runtimeCases.reduce((s,c)=>s+c.questions.length,0),
+      runtimeCases: runtimeCases,
+      shuffle: !!shuffle,
+      isMcq: (d.type || 'cases') === 'mcq'
+    };
+    view = 'quiz';
+    renderQuiz();
+  }
+
+  function renderQuiz() {
+    const d = decks.find(x => x.id === activeDeckId);
+    if (!d) { renderLibrary(); return; }
+    document.getElementById('header-title').textContent = d.name;
+    document.getElementById('header-actions').innerHTML = `
+      <button class="btn btn-sm" id="back-lib">← Thư viện</button>
+    `;
+    document.getElementById('back-lib').onclick = () => {
+      if (qstate && !qstate.finished && qstate.done > 0) {
+        if (!confirm('Phiên đang làm sẽ bị mất. Quay lại thư viện?')) return;
+      }
+      renderLibrary();
+    };
+
+    if (qstate.finished) { renderFinal(); return; }
+
+    const cases = qstate.runtimeCases;
+    const c = cases[qstate.caseIdx];
+    const qIdx = qstate.qIdx;
+    const q = c.questions[qIdx];
+    const results = qstate.perCase[qstate.caseIdx];
+    const letters = ['A','B','C','D','E','F'];
+
+    // Stats
+    const pct = qstate.done === 0 ? '—' : Math.round(100*qstate.correct/qstate.done) + '%';
+    const progressPct = (100*qstate.done/qstate.totalQ);
+
+    // Dots
+    let dotsHTML = '<div class="dots">';
+    for (let i = 0; i < c.questions.length; i++) {
+      let cls = 'dot';
+      if (results[i] === true) cls += ' done-correct';
+      else if (results[i] === false) cls += ' done-wrong';
+      else if (i === qIdx) cls += ' active';
+      dotsHTML += `<div class="${cls}">${i+1}</div>`;
+      if (i < c.questions.length - 1) dotsHTML += '<div class="dot-line"></div>';
+    }
+    dotsHTML += '</div>';
+
+    // Question type
+    const isMulti = q.type === 'multi';
+    const correctSet = isMulti ? new Set(q.answer) : null;
+
+    // Options
+    let optsHTML = '<div class="options">';
+    q.options.forEach((opt, i) => {
+      let cls = 'option';
+      let disabled = '';
+      let prefix = letters[i] + '.';
+      if (qstate.submitted) {
+        // After submission — show correctness for everyone
+        disabled = 'disabled';
+        const isAnsCorrect = isMulti ? correctSet.has(i) : (i === q.answer);
+        const userPicked = isMulti ? qstate.multiSelected.includes(i) : (qstate.selected === i);
+        if (isAnsCorrect) cls += ' correct';
+        else if (userPicked) cls += ' wrong';
+        else cls += ' dim';
+        if (isMulti) {
+          const mark = userPicked ? '☑' : '☐';
+          prefix = mark + ' ' + letters[i] + '.';
+        }
+      } else if (isMulti) {
+        // Multi pre-submit — toggleable
+        const ticked = qstate.multiSelected.includes(i);
+        if (ticked) cls += ' selected';
+        prefix = (ticked ? '☑' : '☐') + ' ' + letters[i] + '.';
+      }
+      optsHTML += `<button class="${cls}" data-i="${i}" ${disabled}>
+        <span class="option-letter">${prefix}</span>
+        <span>${opt}</span>
+      </button>`;
+    });
+    optsHTML += '</div>';
+
+    // Explanation
+    let explainHTML = '';
+    if (qstate.submitted) {
+      let isCorrect, headerText;
+      if (isMulti) {
+        const userSet = new Set(qstate.multiSelected);
+        isCorrect = userSet.size === correctSet.size && [...correctSet].every(x => userSet.has(x));
+        const correctLetters = q.answer.slice().sort((a,b)=>a-b).map(i => letters[i]).join(', ');
+        headerText = isCorrect ? '✓ Chính xác' : '✗ Đáp án đúng: ' + correctLetters;
+      } else {
+        isCorrect = qstate.selected === q.answer;
+        headerText = isCorrect ? '✓ Chính xác' : '✗ Đáp án đúng: ' + letters[q.answer];
+      }
+      explainHTML = `<div class="explain">
+        <div class="explain-title">${headerText} — Giải thích</div>
+        <div>${q.explain}</div>
+      </div>`;
+    }
+
+    // Action buttons
+    let actionsHTML = '<div class="actions">';
+    if (qstate.submitted) {
+      const isLast = (qstate.caseIdx === cases.length - 1) && (qIdx === c.questions.length - 1);
+      actionsHTML += `<button class="btn btn-primary" id="next-q">${isLast ? 'Xem kết quả →' : 'Câu tiếp theo →'}</button>`;
+    } else if (isMulti) {
+      const hint = `<span style="font-size: 12px; color: var(--text-secondary); margin-right: auto; align-self: center;">⚠ Câu chọn nhiều đáp án — đã chọn ${qstate.multiSelected.length}</span>`;
+      actionsHTML = '<div class="actions" style="justify-content: space-between;">' + hint +
+        `<button class="btn btn-primary" id="submit-multi" ${qstate.multiSelected.length === 0 ? 'disabled' : ''}>Xác nhận →</button>`;
+    }
+    actionsHTML += '</div>';
+
+    document.getElementById('main').innerHTML = `
+      <div class="stats">
+        <div class="stat"><div class="stat-label">Đã làm</div><div class="stat-value">${qstate.done}</div></div>
+        <div class="stat"><div class="stat-label">Đúng</div><div class="stat-value" style="color:var(--success);">${qstate.correct}</div></div>
+        <div class="stat"><div class="stat-label">Sai</div><div class="stat-value" style="color:var(--danger);">${qstate.wrong}</div></div>
+        <div class="stat"><div class="stat-label">Tỉ lệ</div><div class="stat-value">${pct}</div></div>
+      </div>
+      <div class="progress-wrap"><div class="progress-bar" style="width:${progressPct}%"></div></div>
+      <div class="case-meta">
+        <span>${qstate.isMcq
+          ? `Câu ${qstate.done + (qstate.submitted ? 0 : 1)}/${qstate.totalQ}${qstate.shuffle ? ' · 🔀 Đã xáo' : ''}`
+          : `Case ${qstate.caseIdx+1}/${cases.length} · Câu ${qIdx+1}/${c.questions.length}${qstate.shuffle ? ' · 🔀 Đã xáo' : ''}`}</span>
+        ${d.level ? '<span>Mức độ: '+escapeHtml(d.level)+'</span>' : ''}
+      </div>
+      ${qstate.isMcq ? '' : `
+      <div class="case-body">
+        <div class="case-title">${escapeHtml(c.title)}</div>
+        <div>${c.body}</div>
+      </div>
+      ${dotsHTML}`}
+      <div class="question">${qstate.isMcq ? '' : (qIdx+1) + '. '}${escapeHtml(q.q)}</div>
+      ${optsHTML}
+      ${explainHTML}
+      ${actionsHTML}
+    `;
+
+    // Click handlers for options
+    document.querySelectorAll('.option').forEach(btn => {
+      btn.addEventListener('click', () => {
+        if (qstate.submitted) return;
+        const i = parseInt(btn.dataset.i);
+        if (isMulti) {
+          // Toggle
+          const idx = qstate.multiSelected.indexOf(i);
+          if (idx >= 0) qstate.multiSelected.splice(idx, 1);
+          else qstate.multiSelected.push(i);
+          renderQuiz();
+        } else {
+          // Single — submit immediately
+          qstate.selected = i;
+          qstate.submitted = true;
+          const isCorrect = (i === q.answer);
+          qstate.perCase[qstate.caseIdx][qIdx] = isCorrect;
+          qstate.done++;
+          if (isCorrect) qstate.correct++; else qstate.wrong++;
+          renderQuiz();
+        }
+      });
+    });
+
+    // Submit button for multi
+    const submitBtn = document.getElementById('submit-multi');
+    if (submitBtn) {
+      submitBtn.onclick = () => {
+        if (qstate.multiSelected.length === 0) return;
+        qstate.submitted = true;
+        const userSet = new Set(qstate.multiSelected);
+        const isCorrect = userSet.size === correctSet.size && [...correctSet].every(x => userSet.has(x));
+        qstate.perCase[qstate.caseIdx][qIdx] = isCorrect;
+        qstate.done++;
+        if (isCorrect) qstate.correct++; else qstate.wrong++;
+        renderQuiz();
+      };
+    }
+
+    const nextBtn = document.getElementById('next-q');
+    if (nextBtn) {
+      nextBtn.onclick = () => {
+        qstate.selected = null;
+        qstate.multiSelected = [];
+        qstate.submitted = false;
+        const cases = qstate.runtimeCases;
+        if (qstate.qIdx < cases[qstate.caseIdx].questions.length - 1) {
+          qstate.qIdx++;
+        } else if (qstate.caseIdx < cases.length - 1) {
+          qstate.caseIdx++;
+          qstate.qIdx = 0;
+        } else {
+          qstate.finished = true;
+          const finalPct = Math.round(100*qstate.correct/qstate.totalQ);
+          if (d.bestScore == null || finalPct > d.bestScore) {
+            d.bestScore = finalPct;
+            saveDecks();
+          }
+        }
+        renderQuiz();
+      };
+    }
+  }
+
+  function renderFinal() {
+    const d = decks.find(x => x.id === activeDeckId);
+    const pct = Math.round(100*qstate.correct/qstate.totalQ);
+    let msg, color;
+    if (pct >= 85) { msg = 'Xuất sắc — bạn đã nắm rất chắc bộ kiến thức này.'; color = 'var(--success)'; }
+    else if (pct >= 70) { msg = 'Khá tốt — phần lớn kiến thức đã vững. Hãy xem lại các câu sai để củng cố.'; color = 'var(--info)'; }
+    else if (pct >= 50) { msg = 'Trung bình — cần ôn lại các chủ đề còn yếu.'; color = 'var(--warning)'; }
+    else { msg = 'Cần ôn tập kỹ lưỡng. Hãy đọc lại tài liệu và làm lại sau.'; color = 'var(--danger)'; }
+
+    document.getElementById('main').innerHTML = `
+      <div class="final">
+        <div class="final-label">Kết quả tổng kết</div>
+        <div class="final-score" style="color:${color}">${pct}%</div>
+        <div class="final-label">${qstate.correct} / ${qstate.totalQ} câu đúng${d.bestScore === pct && qstate.correct === qstate.totalQ * pct/100 ? ' · Điểm cao mới!' : ''}</div>
+        <div class="final-msg">${msg}</div>
+        <div class="final-buttons">
+          <button class="btn btn-primary" id="retry">↻ Làm lại</button>
+          <button class="btn" id="back-to-lib">Về thư viện</button>
+        </div>
+      </div>
+    `;
+    document.getElementById('retry').onclick = () => startDeck(activeDeckId, qstate.shuffle);
+    document.getElementById('back-to-lib').onclick = renderLibrary;
+  }
+
+  // ─── File input ───────────────────────────────────────────────────
+  document.getElementById('file-input').addEventListener('change', e => {
+    if (e.target.files.length) {
+      const targetCategory = e.target.dataset.targetCategory || '';
+      importFromFile(e.target.files[0], targetCategory || null);
+      e.target.value = ''; // reset
+      e.target.dataset.targetCategory = '';
+    }
+  });
+
+  // ─── Init ─────────────────────────────────────────────────────────
+  loadDecks();
+  renderLibrary();
+  // Auto-sync from cloud if URL is saved
+  const savedCloudUrl = localStorage.getItem(CLOUD_URL_KEY);
+  if (savedCloudUrl) {
+    setTimeout(async () => {
+      try {
+        toast('Đang đồng bộ từ cloud...', '');
+        await syncFromCloud(savedCloudUrl, true, () => {});
+        toast('✓ Đã đồng bộ từ cloud', 'success');
+        renderLibrary();
+      } catch(e) {
+        toast('⚠ Không đồng bộ được: ' + e.message, 'error');
+      }
+    }, 100);
+  }
+})();
+</script>
+</body>
+</html>
