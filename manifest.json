@@ -2,23 +2,39 @@
   "decks": [
     {
       "name": "Viêm khớp dạng thấp",
-      "url": "viem_khop_dang_thap.json"
+      "url": "viem_khop_dang_thap.json",
+      "type": "cases",
+      "category": "Nội"
     },
     {
       "name": "Gout",
-      "url": "gout.json"
+      "url": "gout.json",
+      "type": "cases",
+      "category": "Nội"
     },
     {
       "name": "Bệnh thận mạn",
-      "url": "benh_than_man.json"
+      "url": "benh_than_man.json",
+      "type": "cases",
+      "category": "Nội"
     },
     {
       "name": "Viêm khớp dạng thấp_MCQ",
-      "url": "viem_khop_dang_thap_mcq.json"
+      "url": "viem_khop_dang_thap_mcq.json",
+      "type": "mcq",
+      "category": "Nội"
     },
     {
       "name": "GOUT_MCQ",
-      "url": "gout_mcq.json"
+      "url": "gout_mcq.json",
+      "type": "mcq",
+      "category": "Nội"
+    },
+    {
+      "name": "Loãng xương_MCQ",
+      "url": "loang_xuong_mcq.json",
+      "type": "mcq",
+      "category": "Nội"
     }
   ]
 }
