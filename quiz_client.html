@@ -210,6 +210,23 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
 /* Search results header */
 .search-results-info { font-size: 13px; color: var(--text-secondary); margin-bottom: 1rem; }
 
+/* Progress badges on deck card */
+.progress-badge { display: inline-block; font-size: 11px; padding: 3px 8px; border-radius: 999px; background: var(--info-bg, #DBEAFE); color: var(--info, #1D4ED8); font-weight: 500; }
+.best-score-badge { display: inline-block; font-size: 11px; padding: 3px 8px; border-radius: 999px; background: var(--bg-secondary); color: var(--text-secondary); font-weight: 500; }
+.deck-card.has-progress { border-left: 3px solid var(--info, #1D4ED8); }
+
+/* Stats panel */
+.stats-panel { background: var(--bg-primary); border: 1px solid var(--border-tertiary); border-radius: var(--radius-lg); padding: 12px 14px; margin-bottom: 1rem; cursor: pointer; transition: border-color 0.15s; max-width: 400px; }
+.stats-panel:hover { border-color: var(--border-secondary); }
+.stats-username { font-size: 14px; font-weight: 600; margin-bottom: 8px; display: flex; align-items: center; gap: 6px; }
+.stats-edit-hint { font-size: 11px; color: var(--text-tertiary); margin-left: auto; font-weight: 400; }
+.stats-row { display: flex; flex-wrap: wrap; gap: 12px 18px; font-size: 13px; color: var(--text-secondary); }
+.stats-item { display: flex; align-items: center; gap: 4px; }
+.stats-item b { color: var(--text-primary); font-weight: 600; }
+.stats-streak { color: #F97316; }
+.stats-streak b { color: #F97316; }
+.stats-empty { font-size: 12px; color: var(--text-tertiary); font-style: italic; }
+
 </style>
 </head>
 <body>
@@ -235,6 +252,8 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
   'use strict';
 
   const STORAGE_KEY = 'quiz_client_decks_v1';
+  const USERNAME_KEY = 'quiz_client_username';
+  const SESSIONS_KEY = 'quiz_client_sessions';
   const CLOUD_URL_KEY = 'quiz_client_cloud_url';
   let decks = [];
   let view = 'library';
@@ -254,6 +273,67 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
   function saveDecks() {
     try { localStorage.setItem(STORAGE_KEY, JSON.stringify(decks)); }
     catch(e) { toast('Không lưu được — bộ nhớ trình duyệt đầy?', 'error'); }
+  }
+
+  // ─── User & Sessions ──────────────────────────────────────────────
+  function getUsername() {
+    return localStorage.getItem(USERNAME_KEY) || '';
+  }
+  function setUsername(name) {
+    localStorage.setItem(USERNAME_KEY, name);
+  }
+  function loadSessions() {
+    try {
+      const raw = localStorage.getItem(SESSIONS_KEY);
+      return raw ? JSON.parse(raw) : [];
+    } catch(e) { return []; }
+  }
+  function saveSession(deckId, deckName, score, totalQ, correct) {
+    const sessions = loadSessions();
+    sessions.push({
+      deckId, deckName, score, totalQ, correct,
+      finishedAt: Date.now()
+    });
+    const cutoff = Date.now() - 365 * 24 * 60 * 60 * 1000;
+    const trimmed = sessions.filter(s => s.finishedAt > cutoff);
+    try { localStorage.setItem(SESSIONS_KEY, JSON.stringify(trimmed)); } catch(e) {}
+  }
+
+  function dateKey(timestamp) {
+    const d = new Date(timestamp);
+    const y = d.getFullYear();
+    const m = String(d.getMonth() + 1).padStart(2, '0');
+    const day = String(d.getDate()).padStart(2, '0');
+    return `${y}-${m}-${day}`;
+  }
+
+  function computeStats() {
+    const sessions = loadSessions();
+    const today = dateKey(Date.now());
+    const todaySessions = sessions.filter(s => dateKey(s.finishedAt) === today);
+    const todayDecks = todaySessions.length;
+    const todayQuestions = todaySessions.reduce((sum, s) => sum + s.totalQ, 0);
+
+    const dayHasSession = new Set(sessions.map(s => dateKey(s.finishedAt)));
+    let streak = 0;
+    let cursor = new Date();
+    cursor.setHours(0, 0, 0, 0);
+    if (!dayHasSession.has(dateKey(cursor.getTime()))) {
+      cursor.setDate(cursor.getDate() - 1);
+    }
+    while (dayHasSession.has(dateKey(cursor.getTime()))) {
+      streak++;
+      cursor.setDate(cursor.getDate() - 1);
+    }
+
+    const weekCutoff = Date.now() - 7 * 24 * 60 * 60 * 1000;
+    const weekSessions = sessions.filter(s => s.finishedAt > weekCutoff);
+    const weekDecks = weekSessions.length;
+    const weekAvgScore = weekSessions.length > 0
+      ? Math.round(weekSessions.reduce((sum, s) => sum + s.score, 0) / weekSessions.length)
+      : null;
+
+    return { todayDecks, todayQuestions, streak, weekDecks, weekAvgScore };
   }
 
   // ─── Toast & Modal ─────────────────────────────────────────────────
@@ -472,6 +552,15 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
         };
         if (deckType === 'mcq') newDeck.questions = deckObj.questions;
         else newDeck.cases = deckObj.cases;
+        // Preserve in-progress session unless the deck content actually changed
+        if (existingIdx >= 0 && decks[existingIdx].progress) {
+          // If content (questions/cases) changed → progress is invalid
+          const oldContent = JSON.stringify(decks[existingIdx].type === 'mcq' ? decks[existingIdx].questions : decks[existingIdx].cases);
+          const newContent = JSON.stringify(deckType === 'mcq' ? newDeck.questions : newDeck.cases);
+          if (oldContent === newContent) {
+            newDeck.progress = decks[existingIdx].progress;
+          }
+        }
         if (existingIdx >= 0) { decks[existingIdx] = newDeck; updated++; }
         else { decks.push(newDeck); added++; }
       } catch(e) {
@@ -721,6 +810,69 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
         || (d.category || '').toLowerCase().includes(lower);
   }
 
+  function renderStatsPanel() {
+    const username = getUsername();
+    if (!username) return '';
+    const stats = computeStats();
+    const todayLine = stats.todayDecks > 0
+      ? `<div class="stats-item">📅 Hôm nay: <b>${stats.todayDecks}</b> bộ · <b>${stats.todayQuestions}</b> câu</div>`
+      : `<div class="stats-item"><span class="stats-empty">📅 Hôm nay chưa làm bộ nào</span></div>`;
+    const streakLine = stats.streak > 0
+      ? `<div class="stats-item stats-streak">🔥 Streak: <b>${stats.streak}</b> ngày</div>`
+      : '';
+    const weekLine = stats.weekDecks > 0
+      ? `<div class="stats-item">📊 Tuần này: <b>${stats.weekDecks}</b> bộ · <b>${stats.weekAvgScore}%</b></div>`
+      : '';
+    return `
+      <div class="stats-panel" id="stats-panel" title="Nhấn để đổi tên">
+        <div class="stats-username">
+          👤 ${escapeHtml(username)}
+          <span class="stats-edit-hint">(nhấn để đổi tên)</span>
+        </div>
+        <div class="stats-row">
+          ${todayLine}
+          ${streakLine}
+          ${weekLine}
+        </div>
+      </div>
+    `;
+  }
+
+  function openUsernameModal(isFirstTime) {
+    const current = getUsername();
+    openModal(`
+      <h2 class="modal-title">${isFirstTime ? '👋 Chào mừng!' : '✏️ Đổi tên'}</h2>
+      <div class="modal-body">
+        ${isFirstTime
+          ? 'Nhập tên của bạn để bắt đầu. Tên này chỉ lưu trên thiết bị này.'
+          : 'Tên này chỉ lưu trên thiết bị này.'}
+      </div>
+      <div class="form-row">
+        <input type="text" class="form-input" id="username-input" value="${escapeHtml(current)}" placeholder="Tên của bạn..." maxlength="40">
+      </div>
+      <div class="modal-actions">
+        ${isFirstTime ? '' : '<button class="btn" id="username-cancel">Huỷ</button>'}
+        <button class="btn btn-primary" id="username-save">Lưu</button>
+      </div>
+    `);
+    const input = document.getElementById('username-input');
+    input.focus();
+    input.select();
+    input.addEventListener('keydown', e => {
+      if (e.key === 'Enter') document.getElementById('username-save').click();
+    });
+    if (!isFirstTime) {
+      document.getElementById('username-cancel').onclick = closeModal;
+    }
+    document.getElementById('username-save').onclick = () => {
+      const name = input.value.trim();
+      if (!name) { toast('Tên không được rỗng', 'error'); return; }
+      setUsername(name);
+      closeModal();
+      if (view === 'library') renderLibrary();
+    };
+  }
+
   function renderLibrary() {
     view = 'library';
     document.getElementById('header-title').textContent = 'Thư viện bộ câu hỏi';
@@ -733,8 +885,11 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
     const casesCount = getDecksForTab('cases').length;
     const mcqCount = getDecksForTab('mcq').length;
 
+    // Stats panel (only if username is set)
+    let html = renderStatsPanel();
+
     // Tabs (always visible)
-    let html = `
+    html += `
       <div class="tabs">
         <button class="tab ${activeTab === 'cases' ? 'active' : ''}" data-tab="cases">
           📋 Case lâm sàng <span class="badge">${casesCount}</span>
@@ -845,24 +1000,42 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
     const countLabel = isCases
       ? `${d.cases.length} case · ${d.totalQuestions} câu`
       : `${d.totalQuestions} câu`;
-    const score = d.bestScore != null ? `Điểm cao nhất: ${d.bestScore}%` : 'Chưa làm';
+
+    let statsHTML = '';
+    const hasProgress = d.progress && !d.progress.finished
+      && d.progress.runtimeCases && d.progress.done > 0;
+    if (hasProgress) {
+      const totalQ = d.progress.runtimeCases.reduce((s,c)=>s+c.questions.length, 0);
+      const pct = Math.round(100 * d.progress.done / totalQ);
+      statsHTML += `<span class="progress-badge" title="Đang làm dở">📍 Đang làm: ${pct}%</span>`;
+    }
+    if (d.bestScore != null) {
+      statsHTML += `<span class="best-score-badge">Điểm cao: ${d.bestScore}%</span>`;
+    }
+    if (!hasProgress && d.bestScore == null) {
+      statsHTML = '<span class="deck-stats-mini">Chưa làm</span>';
+    }
+
     const catBadge = showCategory && d.category
       ? `<span style="font-size: 11px; color: var(--text-tertiary); margin-right: 8px;">${getCategoryIcon(d.category)} ${escapeHtml(d.category)}</span>`
       : '';
+    const shuffleChecked = hasProgress ? (d.progress.shuffle ? 'checked' : '') : 'checked';
+    const startLabel = hasProgress ? '▶ Tiếp tục' : 'Bắt đầu';
+
     return `
-      <div class="deck-card" data-id="${d.id}">
+      <div class="deck-card${hasProgress ? ' has-progress' : ''}" data-id="${d.id}">
         <div class="deck-card-top">
           <h3 class="deck-name">${escapeHtml(d.name)}</h3>
           <div class="deck-meta">${catBadge}${countLabel}</div>
         </div>
         ${d.description ? `<p class="deck-desc">${escapeHtml(d.description)}</p>` : ''}
         <div class="deck-actions">
-          <button class="btn btn-primary btn-sm act-start" data-id="${d.id}">Bắt đầu</button>
+          <button class="btn btn-primary btn-sm act-start" data-id="${d.id}">${startLabel}</button>
           <label class="shuffle-toggle" title="Xáo ngẫu nhiên thứ tự và đáp án">
-            <input type="checkbox" class="shuffle-cb" data-id="${d.id}"> 🔀 Xáo
+            <input type="checkbox" class="shuffle-cb" data-id="${d.id}" ${shuffleChecked}> 🔀 Xáo
           </label>
           <button class="btn btn-sm btn-danger act-delete" data-id="${d.id}" title="Xoá khỏi thiết bị này">Xoá</button>
-          <span class="deck-stats-mini" style="margin-left:auto;">${score}</span>
+          <span style="margin-left:auto; display: flex; gap: 6px; align-items: center;">${statsHTML}</span>
         </div>
       </div>
     `;
@@ -870,6 +1043,10 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
 
   function bindLibraryEvents() {
     const main = document.getElementById('main');
+
+    // Stats panel click — open username editor
+    const statsPanel = document.getElementById('stats-panel');
+    if (statsPanel) statsPanel.onclick = () => openUsernameModal(false);
 
     // Tabs
     main.querySelectorAll('.tab').forEach(t => t.onclick = () => {
@@ -914,7 +1091,7 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
       e.stopPropagation();
       const cb = main.querySelector('.shuffle-cb[data-id="'+b.dataset.id+'"]');
       const shuffle = cb && cb.checked;
-      startDeck(b.dataset.id, shuffle);
+      startDeckWithPrompt(b.dataset.id, shuffle);
     });
     main.querySelectorAll('.act-delete').forEach(b => b.onclick = e => {
       e.stopPropagation();
@@ -926,7 +1103,7 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
       if (e.target.closest('.act-delete')) return;
       const cb = c.querySelector('.shuffle-cb');
       const shuffle = cb && cb.checked;
-      startDeck(c.dataset.id, shuffle);
+      startDeckWithPrompt(c.dataset.id, shuffle);
     });
   }
 
@@ -1308,15 +1485,80 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
     return cases;
   }
 
-  function startDeck(id, shuffle) {
+  function startDeck(id, shuffle, resumeFromProgress) {
     const d = decks.find(x => x.id === id);
     if (!d) return;
     activeDeckId = id;
+
+    // Resume from saved progress
+    if (resumeFromProgress && d.progress && !d.progress.finished) {
+      let runtimeCases = d.progress.runtimeCases;
+      let perCase = d.progress.perCase;
+
+      // Re-shuffle unanswered questions if shuffle is on
+      if (d.progress.shuffle) {
+        for (let ci = 0; ci < runtimeCases.length; ci++) {
+          const c = runtimeCases[ci];
+          const unansweredIdx = [];
+          for (let qi = 0; qi < c.questions.length; qi++) {
+            if (perCase[ci][qi] === null) unansweredIdx.push(qi);
+          }
+          if (unansweredIdx.length <= 1) continue;
+          const unansweredQs = unansweredIdx.map(i => c.questions[i]);
+          const shuffled = shuffleArray(unansweredQs);
+          unansweredIdx.forEach((origIdx, k) => {
+            c.questions[origIdx] = shuffled[k];
+          });
+        }
+      }
+
+      qstate = {
+        caseIdx: d.progress.caseIdx,
+        qIdx: d.progress.qIdx,
+        selected: null,
+        multiSelected: [],
+        submitted: false,
+        perCase: perCase,
+        done: d.progress.done,
+        correct: d.progress.correct,
+        wrong: d.progress.wrong,
+        finished: false,
+        totalQ: runtimeCases.reduce((s,c)=>s+c.questions.length,0),
+        runtimeCases: runtimeCases,
+        shuffle: d.progress.shuffle,
+        isMcq: (d.type || 'cases') === 'mcq'
+      };
+      while (qstate.caseIdx < qstate.runtimeCases.length) {
+        const cQs = qstate.perCase[qstate.caseIdx];
+        if (qstate.qIdx < cQs.length && cQs[qstate.qIdx] !== null) {
+          qstate.qIdx++;
+          if (qstate.qIdx >= cQs.length) {
+            qstate.caseIdx++;
+            qstate.qIdx = 0;
+          }
+        } else {
+          break;
+        }
+      }
+      if (qstate.caseIdx >= qstate.runtimeCases.length) {
+        qstate.finished = true;
+      }
+      if (d.progress.shuffle) saveProgress();
+      view = 'quiz';
+      renderQuiz();
+      return;
+    }
+
+    // Fresh start: clear any old progress
+    if (d.progress) {
+      delete d.progress;
+      saveDecks();
+    }
+
     // Convert MCQ deck to a synthetic single-case structure
     let srcCases;
     if ((d.type || 'cases') === 'mcq') {
       if (shuffle) {
-        // For MCQ, shuffle questions individually (one synthetic case)
         const shuffledQuestions = shuffleArray(d.questions);
         srcCases = [{ title: '', body: '', questions: shuffledQuestions }];
       } else {
@@ -1342,6 +1584,70 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
     renderQuiz();
   }
 
+  function saveProgress() {
+    if (!qstate || qstate.finished || qstate.done === 0) return;
+    const d = decks.find(x => x.id === activeDeckId);
+    if (!d) return;
+    d.progress = {
+      runtimeCases: qstate.runtimeCases,
+      perCase: qstate.perCase,
+      caseIdx: qstate.caseIdx,
+      qIdx: qstate.qIdx,
+      done: qstate.done,
+      correct: qstate.correct,
+      wrong: qstate.wrong,
+      shuffle: qstate.shuffle,
+      savedAt: Date.now()
+    };
+    saveDecks();
+  }
+
+  function clearProgress(deckId) {
+    const d = decks.find(x => x.id === deckId);
+    if (!d) return;
+    if (d.progress) {
+      delete d.progress;
+      saveDecks();
+    }
+  }
+
+  function startDeckWithPrompt(id, shuffle) {
+    const d = decks.find(x => x.id === id);
+    if (!d) return;
+    if (d.progress && !d.progress.finished) {
+      const totalQ = d.progress.runtimeCases.reduce((s,c)=>s+c.questions.length, 0);
+      const pct = Math.round(100 * d.progress.done / totalQ);
+      const savedAtStr = new Date(d.progress.savedAt).toLocaleString('vi-VN');
+      if (d.progress.shuffle !== !!shuffle) {
+        if (confirm(
+          `Bộ này đang có tiến trình dở (${pct}%, lưu lúc ${savedAtStr}, ${d.progress.shuffle ? 'có' : 'không'} xáo).\n\n` +
+          `Bạn vừa ${shuffle ? 'bật' : 'tắt'} toggle 🔀 Xáo — không khớp với tiến trình cũ.\n\n` +
+          `OK = Bỏ tiến trình cũ và làm lại từ đầu với cài đặt mới\n` +
+          `Cancel = Quay lại`
+        )) {
+          clearProgress(id);
+          startDeck(id, shuffle, false);
+        }
+        return;
+      }
+      const choice = confirm(
+        `Bộ này đang có tiến trình dở: ${pct}% (lưu lúc ${savedAtStr}).\n\n` +
+        `OK = Làm tiếp tiến trình cũ\n` +
+        `Cancel = Làm lại từ đầu`
+      );
+      if (choice) {
+        startDeck(id, shuffle, true);
+      } else {
+        if (confirm('Tiến trình cũ sẽ bị xoá. Tiếp tục?')) {
+          clearProgress(id);
+          startDeck(id, shuffle, false);
+        }
+      }
+    } else {
+      startDeck(id, shuffle, false);
+    }
+  }
+
   function renderQuiz() {
     const d = decks.find(x => x.id === activeDeckId);
     if (!d) { renderLibrary(); return; }
@@ -1351,7 +1657,7 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
     `;
     document.getElementById('back-lib').onclick = () => {
       if (qstate && !qstate.finished && qstate.done > 0) {
-        if (!confirm('Phiên đang làm sẽ bị mất. Quay lại thư viện?')) return;
+        saveProgress();
       }
       renderLibrary();
     };
@@ -1492,6 +1798,7 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
           qstate.perCase[qstate.caseIdx][qIdx] = isCorrect;
           qstate.done++;
           if (isCorrect) qstate.correct++; else qstate.wrong++;
+          saveProgress();
           renderQuiz();
         }
       });
@@ -1508,6 +1815,7 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
         qstate.perCase[qstate.caseIdx][qIdx] = isCorrect;
         qstate.done++;
         if (isCorrect) qstate.correct++; else qstate.wrong++;
+        saveProgress();
         renderQuiz();
       };
     }
@@ -1529,9 +1837,12 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
           const finalPct = Math.round(100*qstate.correct/qstate.totalQ);
           if (d.bestScore == null || finalPct > d.bestScore) {
             d.bestScore = finalPct;
-            saveDecks();
           }
+          saveSession(d.id, d.name, finalPct, qstate.totalQ, qstate.correct);
+          if (d.progress) delete d.progress;
+          saveDecks();
         }
+        if (!qstate.finished) saveProgress();
         renderQuiz();
       };
     }
@@ -1575,19 +1886,24 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
   // ─── Init ─────────────────────────────────────────────────────────
   loadDecks();
   renderLibrary();
-  // Auto-sync from cloud if URL is saved
-  const savedCloudUrl = localStorage.getItem(CLOUD_URL_KEY);
-  if (savedCloudUrl) {
-    setTimeout(async () => {
-      try {
-        toast('Đang đồng bộ từ cloud...', '');
-        await syncFromCloud(savedCloudUrl, true, () => {});
-        toast('✓ Đã đồng bộ từ cloud', 'success');
-        renderLibrary();
-      } catch(e) {
-        toast('⚠ Không đồng bộ được: ' + e.message, 'error');
-      }
-    }, 100);
+  // Prompt for username on first launch (before auto-sync to avoid stacking modals)
+  if (!getUsername()) {
+    setTimeout(() => openUsernameModal(true), 100);
+  } else {
+    // Auto-sync from cloud if URL is saved
+    const savedCloudUrl = localStorage.getItem(CLOUD_URL_KEY);
+    if (savedCloudUrl) {
+      setTimeout(async () => {
+        try {
+          toast('Đang đồng bộ từ cloud...', '');
+          await syncFromCloud(savedCloudUrl, true, () => {});
+          toast('✓ Đã đồng bộ từ cloud', 'success');
+          renderLibrary();
+        } catch(e) {
+          toast('⚠ Không đồng bộ được: ' + e.message, 'error');
+        }
+      }, 100);
+    }
   }
 })();
 </script>
