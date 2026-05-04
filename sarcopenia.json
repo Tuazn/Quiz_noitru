@@ -1,0 +1,619 @@
+{
+  "name": "Sarcopenia",
+  "description": "Bộ đề lâm sàng về Sarcopenia – chẩn đoán, cơ chế sinh bệnh, phân loại và điều trị theo EWGSOP2",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 78 tuổi sống một mình, yếu cơ tăng dần, té ngã tái diễn",
+      "body": "Bệnh nhân <b>nữ 78 tuổi</b>, sống một mình, đến khám vì lý do <i>\"cảm thấy yếu đi nhiều\"</i>. Khoảng một năm nay, bà gặp khó khăn khi thực hiện các công việc hàng ngày như xách giỏ đi chợ, mở nắp chai lọ và phải vịn vào tay ghế để đứng dậy. Bà có tiền sử <b>2 lần té ngã</b> trong 6 tháng qua nhưng không gây ra chấn thương nghiêm trọng.<br><br><b>Tiền sử:</b> Tăng huyết áp, đang điều trị ổn định với Amlodipine 5mg/ngày.<br><b>Chế độ ăn:</b> Đơn giản, chủ yếu là cơm, rau luộc, đôi khi có cá kho, ít ăn thịt vì \"ngán\".<br><br><b>Khám tổng quát:</b> Ý thức tỉnh táo, mạch 80 lần/phút, huyết áp 130/70 mmHg, SpO₂ 97%, BMI 21 kg/m². Da và cơ có vẻ nhão, <b>teo cơ rõ ở vùng gian cốt bàn tay và cơ tứ đầu đùi hai bên</b>. Khám thần kinh không ghi nhận dấu hiệu yếu liệt khu trú.<br><br><b>Xét nghiệm:</b> Chức năng thận, điện giải, đường huyết trong giới hạn bình thường.<br><b>Đánh giá chức năng:</b> Sức co cơ tay (handgrip strength) = <b>14 kg</b>; Thời gian nghiệm pháp đứng dậy khỏi ghế 5 lần (chair stand test) = <b>17 giây</b>.",
+      "questions": [
+        {
+          "q": "Dựa vào hướng dẫn của EWGSOP2, chẩn đoán nào là phù hợp nhất với tình trạng của bệnh nhân?",
+          "options": [
+            "Suy nhược tuổi già",
+            "Sarcopenia thể nặng",
+            "Loãng xương",
+            "Có thể có Sarcopenia (Probable sarcopenia)"
+          ],
+          "answer": 3,
+          "explain": "Theo thuật toán của EWGSOP2, chẩn đoán bắt đầu bằng việc đánh giá sức mạnh cơ. Bệnh nhân có sức co cơ tay (14 kg) thấp hơn ngưỡng chẩn đoán cho nữ (< 16 kg). Khi có bằng chứng về giảm sức mạnh cơ, chẩn đoán <b>\"Có thể có Sarcopenia\"</b> được thiết lập. Để xác định chẩn đoán (confirmed sarcopenia), cần thêm bằng chứng về khối lượng cơ thấp."
+        },
+        {
+          "q": "Yếu tố nào sau đây được xem là chỉ điểm tốt nhất để sàng lọc Sarcopenia trong thực hành lâm sàng theo EWGSOP2?",
+          "options": [
+            "Chỉ số khối cơ thể (BMI) thấp",
+            "Tốc độ đi bộ chậm",
+            "Sức co cơ tay thấp",
+            "Nồng độ Albumin máu giảm"
+          ],
+          "answer": 2,
+          "explain": "Sức mạnh cơ (đo bằng sức co cơ tay hoặc nghiệm pháp đứng dậy khỏi ghế) là thông số chính quyết định chức năng cơ và là yếu tố dự báo kết quả bất lợi tốt nhất. Do đó, <b>EWGSOP2 nhấn mạnh việc sử dụng đánh giá sức mạnh cơ làm điểm khởi đầu</b> trong quy trình chẩn đoán."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh nào là trung tâm của quá trình mất cơ liên quan đến tuổi tác (sarcopenia nguyên phát)?",
+          "options": [
+            "Tăng tổng hợp protein cơ và giảm quá trình thoái giáng",
+            "Giảm số lượng và chức năng của các đơn vị vận động (motor units) và tế bào vệ tinh (satellite cells)",
+            "Tăng nồng độ các hormone đồng hóa như testosterone và GH",
+            "Giảm tình trạng viêm hệ thống mức độ thấp (inflammaging)"
+          ],
+          "answer": 1,
+          "explain": "Quá trình lão hóa tự nhiên dẫn đến sự thoái hóa của hệ thần kinh-cơ, bao gồm chết theo chương trình của các <b>neuron vận động alpha ở tủy sống</b>, dẫn đến mất các đơn vị vận động. Đồng thời, số lượng và khả năng tái tạo của các <b>tế bào vệ tinh</b> (tế bào gốc của cơ) bị suy giảm, làm hạn chế khả năng sửa chữa và tăng trưởng cơ bắp."
+        },
+        {
+          "q": "Thăm dò cận lâm sàng nào sau đây được coi là tiêu chuẩn vàng để xác định khối lượng cơ thấp?",
+          "options": [
+            "Siêu âm cơ tứ đầu đùi",
+            "Đo mật độ xương (DXA - Dual-energy X-ray absorptiometry)",
+            "Đo trở kháng điện sinh học (BIA - Bioelectrical impedance analysis)",
+            "Chụp cộng hưởng từ (MRI) toàn thân"
+          ],
+          "answer": 1,
+          "explain": "<b>DXA</b> là phương pháp được khuyến nghị rộng rãi nhất để đánh giá thành phần cơ thể, bao gồm khối lượng cơ xương chi (Appendicular Skeletal Muscle mass - ASM). Đây là phương pháp không xâm lấn, phơi nhiễm bức xạ thấp và có độ chính xác cao, được coi là tiêu chuẩn tham chiếu trong nghiên cứu và thực hành lâm sàng."
+        },
+        {
+          "q": "Can thiệp nào sau đây đã được chứng minh là hiệu quả nhất trong việc điều trị Sarcopenia?",
+          "options": [
+            "Bổ sung testosterone liều cao",
+            "Chế độ ăn giàu protein kết hợp với tập luyện kháng lực",
+            "Bổ sung Vitamin E và Vitamin C liều cao",
+            "Nghỉ ngơi tại giường và hạn chế vận động"
+          ],
+          "answer": 1,
+          "explain": "Nền tảng của điều trị sarcopenia là can thiệp dinh dưỡng và tập luyện. Chế độ ăn đảm bảo đủ năng lượng và <b>giàu protein (1.2–1.5 g/kg/ngày)</b> cung cấp nguyên liệu cho tổng hợp cơ, kết hợp với các <b>bài tập kháng lực 2–3 lần/tuần</b> để kích thích tăng trưởng cơ bắp là can thiệp hiệu quả nhất."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi COPD giai đoạn III nhập viện vì đợt cấp, yếu cơ nặng sau điều trị",
+      "body": "Bệnh nhân <b>nam 72 tuổi</b>, tiền sử <b>bệnh phổi tắc nghẽn mạn tính (COPD) giai đoạn III</b>, nhập viện vì một đợt cấp. Sau 10 ngày điều trị với kháng sinh, corticoid đường toàn thân và thuốc giãn phế quản, tình trạng hô hấp cải thiện nhưng gia đình nhận thấy ông <b>đi lại rất khó khăn, gần như phải có người dìu</b>. Trước đợt bệnh này, ông vẫn tự đi lại được trong nhà dù chậm.<br><br><b>Tiền sử dinh dưỡng:</b> Ăn ít do khó thở khi ăn.<br><br><b>Khám lúc gần ra viện:</b> Ý thức tỉnh, thể trạng gầy, BMI 17.5 kg/m². Mạch 90 lần/phút, huyết áp 110/70 mmHg. <b>Teo cơ rõ ở các chi và cơ liên sườn</b>. Không có phù hay dấu hiệu thần kinh khu trú.<br><br><b>Kết quả đánh giá chức năng:</b> Sức co cơ tay = <b>22 kg</b>; Tốc độ đi bộ 4 mét = <b>0.6 m/giây</b>.<br><b>Xét nghiệm:</b> CRP 25 mg/L, Albumin 30 g/L.",
+      "questions": [
+        {
+          "q": "Tình trạng mất cơ ở bệnh nhân này được phân loại là gì?",
+          "options": [
+            "Sarcopenia nguyên phát",
+            "Sarcopenia thứ phát",
+            "Suy mòn (Cachexia)",
+            "Bất động do bệnh"
+          ],
+          "answer": 1,
+          "explain": "<b>Sarcopenia thứ phát</b> là tình trạng mất cơ xảy ra do một bệnh lý nền. Trong trường hợp này, COPD là nguyên nhân chính gây ra sarcopenia thông qua viêm hệ thống mạn tính, dinh dưỡng kém, giảm hoạt động và tác dụng của thuốc (corticoid)."
+        },
+        {
+          "q": "Cơ chế nào sau đây đóng vai trò quan trọng nhất trong việc thúc đẩy mất cơ nhanh ở bệnh nhân trong đợt cấp COPD?",
+          "options": [
+            "Tình trạng viêm hệ thống cấp tính và tăng các cytokine tiền viêm (TNF-α, IL-6)",
+            "Giảm hoạt động thể chất đơn thuần do nằm viện",
+            "Tác dụng phụ của thuốc giãn phế quản nhóm cường beta-2",
+            "Giảm nồng độ testosterone trong máu"
+          ],
+          "answer": 0,
+          "explain": "Đợt cấp của bệnh mạn tính như COPD gây ra một <b>\"cơn bão cytokine\"</b>, đặc biệt là TNF-α và IL-6. Các chất này kích hoạt con đường <b>ubiquitin-proteasome</b> trong tế bào cơ, dẫn đến tăng cường thoái giáng protein cơ, gây mất cơ nhanh chóng. Việc sử dụng corticoid liều cao cũng góp phần vào quá trình này."
+        },
+        {
+          "q": "Ngoài Sarcopenia, bệnh nhân này có nguy cơ cao bị tình trạng nào đi kèm, tạo thành một \"bộ đôi\" nguy hiểm?",
+          "options": [
+            "Bệnh gút",
+            "Loãng xương (Osteoporosis)",
+            "Thoái hóa khớp",
+            "Viêm đa cơ"
+          ],
+          "answer": 1,
+          "explain": "<b>Loãng xương và sarcopenia</b> thường đi kèm với nhau (gọi là <b>Osteosarcopenia</b>). Cả hai đều có chung các yếu tố nguy cơ (tuổi tác, viêm, dinh dưỡng kém, ít vận động) và cơ chế sinh bệnh học (tương tác giữa cơ và xương). Sự kết hợp này làm tăng đáng kể nguy cơ té ngã và gãy xương."
+        },
+        {
+          "q": "Theo tiêu chuẩn chẩn đoán của EWGSOP2, tình trạng của bệnh nhân này được xếp vào mức độ nào?",
+          "options": [
+            "Tiền Sarcopenia",
+            "Có thể có Sarcopenia",
+            "Sarcopenia thể nặng",
+            "Chưa đủ tiêu chuẩn chẩn đoán"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có sức co cơ tay thấp (22 kg < 27 kg ở nam), tốc độ đi bộ chậm (0.6 m/s ≤ 0.8 m/s). Theo EWGSOP2, khi có cả 3 tiêu chí: <b>sức mạnh cơ thấp, khối lượng/chất lượng cơ thấp</b> (suy ra từ tình trạng lâm sàng và BMI rất thấp), và <b>hiệu suất thể chất kém</b> (tốc độ đi bộ chậm), bệnh nhân được chẩn đoán là <b>Sarcopenia thể nặng</b>."
+        },
+        {
+          "q": "Biện pháp phục hồi chức năng nào cần được bắt đầu sớm ngay khi tình trạng hô hấp của bệnh nhân ổn định?",
+          "options": [
+            "Cho bệnh nhân nằm nghỉ hoàn toàn để bảo tồn năng lượng",
+            "Các bài tập vận động thụ động tại giường",
+            "Chương trình phục hồi chức năng hô hấp bao gồm các bài tập kháng lực chi dưới và chi trên",
+            "Chỉ tập trung vào các bài tập hít thở sâu"
+          ],
+          "answer": 2,
+          "explain": "Phục hồi chức năng sớm là cực kỳ quan trọng để chống lại tác động của việc nằm viện và bệnh tật. Một <b>chương trình toàn diện kết hợp tập sức bền (đi bộ) và tập kháng lực</b> (ngay cả với mức độ nhẹ ban đầu) đã được chứng minh là cải thiện sức mạnh cơ, chức năng thể chất và chất lượng cuộc sống ở bệnh nhân COPD."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 68 tuổi béo phì, đái tháo đường type 2, đau lưng mạn tính và yếu cơ",
+      "body": "Bệnh nhân <b>nữ 68 tuổi</b>, nghề nghiệp nội trợ, đến khám vì <b>đau lưng mạn tính</b>.<br><br><b>Tiền sử:</b> Đái tháo đường type 2 được 10 năm, kiểm soát đường huyết không tốt (HbA1c gần nhất 8.5%), tăng huyết áp và rối loạn lipid máu.<br><br><b>Khám:</b> Ý thức tỉnh, <b>BMI 32 kg/m²</b>, vòng eo 95 cm. Mặc dù có thể trạng béo, nhưng bắp chân và cánh tay trông khá nhỏ và yếu. Bà cho biết gần đây cảm thấy đi lại chậm chạp hơn và rất mỏi khi leo cầu thang. Khám cột sống không phát hiện điểm đau khu trú hay biến dạng.<br><br><b>Kết quả đánh giá:</b><br>– Sức co cơ tay: <b>15 kg</b><br>– Đo thành phần cơ thể (BIA): Tỷ lệ mỡ cơ thể 42%, chỉ số khối cơ xương (SMI) = <b>5.2 kg/m²</b>",
+      "questions": [
+        {
+          "q": "Tình trạng của bệnh nhân được mô tả chính xác nhất là gì?",
+          "options": [
+            "Béo phì đơn thuần",
+            "Suy dinh dưỡng thể Kwashiorkor",
+            "Béo phì kèm Sarcopenia (Sarcopenic Obesity)",
+            "Loạn dưỡng cơ"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có BMI cao (>30) cho thấy béo phì, đồng thời có sức co cơ tay thấp (15 kg < 16 kg) và khối lượng cơ thấp (SMI 5.2 kg/m² < 5.5 kg/m² theo tiêu chuẩn DXA/BIA cho nữ), xác nhận chẩn đoán <b>béo phì kèm sarcopenia (Sarcopenic Obesity)</b>. Đây là một tình trạng ngày càng phổ biến, đặc trưng bởi sự dư thừa mỡ và thiếu hụt cơ."
+        },
+        {
+          "q": "Cơ chế nào giải thích mối liên quan giữa tình trạng kháng insulin (ở bệnh nhân đái tháo đường) và sự phát triển của Sarcopenia?",
+          "options": [
+            "Insulin là một hormone đồng hóa, tình trạng kháng insulin làm giảm khả năng kích thích tổng hợp protein ở cơ",
+            "Nồng độ đường huyết cao gây độc trực tiếp, làm chết tế bào cơ",
+            "Kháng insulin làm tăng sản xuất hormone tăng trưởng (GH)",
+            "Tăng đường huyết làm tăng nhạy cảm của cơ với các tín hiệu đồng hóa"
+          ],
+          "answer": 0,
+          "explain": "Insulin không chỉ điều hòa đường huyết mà còn là một <b>hormone đồng hóa mạnh</b>, kích thích sự tổng hợp protein cơ. Ở trạng thái kháng insulin, các tế bào cơ không đáp ứng hiệu quả với tín hiệu của insulin, dẫn đến <b>giảm tổng hợp protein và tăng thoái giáng protein</b>, góp phần gây mất cơ."
+        },
+        {
+          "q": "Sự hiện diện đồng thời của béo phì và sarcopenia làm tăng nguy cơ biến cố nào sau đây nhiều hơn so với từng tình trạng riêng lẻ?",
+          "options": [
+            "Sỏi mật",
+            "Rối loạn chức năng thể chất và tàn tật",
+            "Bệnh trào ngược dạ dày thực quản",
+            "Hen phế quản"
+          ],
+          "answer": 1,
+          "explain": "Sự kết hợp giữa <b>khối lượng cơ thấp</b> (ảnh hưởng đến sức mạnh và thăng bằng) và <b>khối lượng mỡ cao</b> (tăng tải trọng lên khớp và hệ cơ xương) tạo ra một vòng xoắn bệnh lý, làm suy giảm chức năng thể chất và tăng nguy cơ tàn tật, té ngã nặng hơn nhiều so với chỉ có béo phì hoặc chỉ có sarcopenia."
+        },
+        {
+          "q": "Trong béo phì kèm sarcopenia, chỉ số BMI có thể:",
+          "options": [
+            "Luôn luôn thấp hơn bình thường",
+            "Là một chỉ số đáng tin cậy để đánh giá khối lượng cơ",
+            "Che giấu tình trạng mất cơ, khiến chẩn đoán bị bỏ sót",
+            "Không liên quan đến lượng mỡ cơ thể"
+          ],
+          "answer": 2,
+          "explain": "BMI (cân nặng/chiều cao²) <b>không phân biệt được giữa khối lượng cơ và khối lượng mỡ</b>. Ở người béo phì kèm sarcopenia, cân nặng và BMI có thể bình thường hoặc cao do lượng mỡ thừa, điều này che lấp sự mất mát đáng kể của khối lượng cơ, làm cho việc chẩn đoán sarcopenia nếu chỉ dựa vào BMI rất dễ bị bỏ sót."
+        },
+        {
+          "q": "Mục tiêu chính trong quản lý dinh dưỡng cho bệnh nhân này là gì?",
+          "options": [
+            "Giảm cân càng nhanh càng tốt bằng chế độ ăn rất ít calo",
+            "Tăng cân để tăng khối lượng cơ",
+            "Giảm khối lượng mỡ trong khi duy trì hoặc tăng khối lượng cơ, bằng chế độ ăn giảm calo vừa phải và giàu protein",
+            "Chỉ tập trung vào việc kiểm soát đường huyết bằng thuốc"
+          ],
+          "answer": 2,
+          "explain": "Cách tiếp cận tối ưu là <b>giảm cân có chủ đích để giảm mỡ, nhưng phải bảo tồn khối lượng cơ</b>. Điều này đạt được bằng cách kết hợp chế độ ăn giảm calo không quá nghiêm ngặt (thâm hụt khoảng 500 kcal/ngày) với lượng protein cao (≥ 1.2 g/kg cân nặng lý tưởng/ngày) và tập luyện kháng lực. Giảm cân quá nhanh sẽ gây mất cả cơ và mỡ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 82 tuổi gãy cổ xương đùi sau ngã, hậu phẫu thay khớp háng kèm sảng",
+      "body": "Bệnh nhân <b>nam 82 tuổi</b>, được đưa vào viện sau khi <b>trượt ngã và gãy cổ xương đùi</b>.<br><br><b>Tiền sử:</b> Suy tim sung huyết NYHA II, rung nhĩ đang dùng thuốc chống đông, bệnh thận mạn giai đoạn 3b (eGFR 40 mL/phút/1.73m²). Bệnh nhân được phẫu thuật thay khớp háng.<br><br><b>Diễn biến hậu phẫu:</b> Bị <b>sảng</b>, ăn uống kém và gần như nằm bất động trên giường. Trước khi ngã, ông có thể tự đi lại với gậy.<br><br><b>Đánh giá:</b><br>– Điểm MNA-SF: <b>6</b> (nguy cơ suy dinh dưỡng cao)<br>– Sức co cơ tay bên không mổ: <b>20 kg</b><br>– Không thể thực hiện các bài kiểm tra chức năng chi dưới<br><br><b>Xét nghiệm:</b> Albumin máu 28 g/L; 25(OH)Vitamin D = <b>25 nmol/L</b>",
+      "questions": [
+        {
+          "q": "Tình trạng mất cơ của bệnh nhân sau phẫu thuật và nằm bất động được gọi là gì?",
+          "options": [
+            "Sarcopenia cấp tính",
+            "Sarcopenia mạn tính",
+            "Loạn dưỡng cơ Duchenne",
+            "Bệnh nhược cơ"
+          ],
+          "answer": 0,
+          "explain": "EWGSOP2 đã đưa ra khái niệm <b>\"sarcopenia cấp tính\"</b> để mô tả tình trạng mất cơ xảy ra trong vòng chưa đầy 6 tháng, thường liên quan đến một biến cố cấp tính như nhập viện, phẫu thuật, hoặc một bệnh nặng. Tình trạng này có khả năng phục hồi nếu được can thiệp kịp thời."
+        },
+        {
+          "q": "Cơ chế chính của mất cơ do bất động là gì?",
+          "options": [
+            "Tăng tổng hợp protein cơ để bù đắp cho chấn thương",
+            "Sự mất cân bằng giữa tổng hợp và thoái giáng protein cơ, với sự chiếm ưu thế của quá trình thoái giáng",
+            "Tăng nhạy cảm của cơ với insulin",
+            "Tăng số lượng tế bào vệ tinh cơ"
+          ],
+          "answer": 1,
+          "explain": "Khi cơ bắp không được sử dụng, các tín hiệu cơ học kích thích tổng hợp protein sẽ mất đi. Đồng thời, các con đường tín hiệu gây teo cơ (<b>ubiquitin-proteasome và autophagy</b>) được kích hoạt. Kết quả là quá trình <b>thoái giáng protein vượt xa quá trình tổng hợp</b>, dẫn đến mất cơ nhanh chóng."
+        },
+        {
+          "q": "Nồng độ 25(OH)Vitamin D của bệnh nhân cho thấy tình trạng gì?",
+          "options": [
+            "Bình thường",
+            "Thiếu hụt (Deficiency)",
+            "Không đủ (Insufficiency)",
+            "Ngộ độc"
+          ],
+          "answer": 1,
+          "explain": "Theo hầu hết các hướng dẫn, nồng độ 25(OH)Vitamin D <b>< 30 nmol/L</b> (hoặc 12 ng/mL) được định nghĩa là <b>thiếu hụt (deficiency)</b>, một tình trạng cần được điều trị bổ sung. Mức 30–50 nmol/L được coi là không đủ (insufficiency). Bệnh nhân có 25 nmol/L nên thuộc nhóm thiếu hụt."
+        },
+        {
+          "q": "Vai trò của Vitamin D đối với sức khỏe cơ xương là gì?",
+          "options": [
+            "Nó chỉ có vai trò trong việc hấp thu canxi cho xương",
+            "Các thụ thể Vitamin D (VDR) có mặt trên tế bào cơ, và Vitamin D ảnh hưởng đến sự biệt hóa và co cơ",
+            "Vitamin D làm tăng quá trình thoái giáng protein cơ",
+            "Vitamin D không có vai trò gì đối với chức năng cơ"
+          ],
+          "answer": 1,
+          "explain": "Vitamin D có <b>vai trò kép</b>. Ngoài vai trò cổ điển trong chuyển hóa canxi và sức khỏe xương, Vitamin D còn tác động trực tiếp lên cơ. Các tế bào cơ có <b>thụ thể của Vitamin D (VDR)</b>, và việc gắn kết này ảnh hưởng đến phiên mã gen, điều hòa canxi nội bào và chức năng ty thể, tất cả đều quan trọng cho sức mạnh và chức năng co cơ."
+        },
+        {
+          "q": "Ngoài dinh dưỡng và phục hồi chức năng, việc kiểm soát yếu tố nào là rất quan trọng để cải thiện tiên lượng cho bệnh nhân này?",
+          "options": [
+            "Điều trị tình trạng sảng (delirium) một cách tích cực",
+            "Ngừng tất cả các thuốc tim mạch",
+            "Cho bệnh nhân sử dụng thuốc an thần mạnh để ngủ nhiều hơn",
+            "Hạn chế người nhà vào thăm để tránh nhiễm trùng"
+          ],
+          "answer": 0,
+          "explain": "<b>Sảng</b> là một yếu tố tiên lượng xấu, cản trở đáng kể quá trình phục hồi chức năng và dinh dưỡng. Bệnh nhân bị sảng thường kích động hoặc lơ mơ, không hợp tác với các bài tập, có nguy cơ té ngã cao và ăn uống kém. Do đó, việc <b>xác định và điều trị nguyên nhân gây sảng là một ưu tiên hàng đầu</b>."
+        }
+      ]
+    },
+    {
+      "title": "Cụ ông 80 tuổi sụt cân không chủ ý, đi lại chậm, cần loại trừ bệnh ác tính",
+      "body": "Bệnh nhân <b>nam 80 tuổi</b>, được đưa đến phòng khám lão khoa bởi con gái vì lo ngại về tình trạng <b>sụt cân không chủ ý khoảng 5 kg trong 4 tháng qua</b>. Không có triệu chứng gì khác như sốt, ho, đau bụng hay thay đổi thói quen đi tiêu. Tiền sử khỏe mạnh. Ông vẫn sinh hoạt bình thường nhưng con gái nhận thấy <b>ông đi lại chậm hơn trước</b>.<br><br><b>Khám lâm sàng:</b> Không phát hiện bất thường đáng kể, không sờ thấy hạch hay khối u. BMI hiện tại 22 kg/m².<br><br><b>Bác sĩ nghi ngờ sarcopenia nhưng cũng cần loại trừ các nguyên nhân ác tính.</b><br><br><b>Kết quả đánh giá:</b><br>– Thang điểm sàng lọc <b>SARC-F: 5 điểm</b><br>– Sức co cơ tay: <b>25 kg</b><br>– Tốc độ đi bộ: <b>0.7 m/s</b>",
+      "questions": [
+        {
+          "q": "Kết quả thang điểm SARC-F 5 điểm có ý nghĩa gì?",
+          "options": [
+            "Chắc chắn bệnh nhân bị sarcopenia nặng",
+            "Gợi ý nguy cơ cao bị sarcopenia và cần đánh giá thêm",
+            "Bệnh nhân có nguy cơ té ngã thấp",
+            "Không có ý nghĩa lâm sàng"
+          ],
+          "answer": 1,
+          "explain": "SARC-F là bảng câu hỏi sàng lọc nhanh gồm 5 mục (Sức mạnh, Hỗ trợ đi lại, Đứng dậy khỏi ghế, Leo cầu thang, Ngã). Điểm số <b>≥ 4 cho thấy nguy cơ cao bị sarcopenia</b> và cần được đánh giá sâu hơn bằng các phương pháp đo lường khách quan."
+        },
+        {
+          "q": "Dựa trên các kết quả đo lường (sức co cơ tay, tốc độ đi bộ), tình trạng của bệnh nhân theo phân loại EWGSOP2 là gì?",
+          "options": [
+            "Bình thường",
+            "Có thể có Sarcopenia",
+            "Sarcopenia đã xác định",
+            "Sarcopenia thể nặng"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân có sức co cơ tay thấp (25 kg < 27 kg ở nam) và hiệu suất thể chất kém (tốc độ đi bộ 0.7 m/s ≤ 0.8 m/s). Khi có cả 3 yếu tố (suy giảm sức mạnh, suy giảm khối lượng cơ — được suy luận từ sụt cân và yếu đi — và suy giảm hiệu suất thể chất), bệnh nhân được phân loại là <b>Sarcopenia thể nặng</b>."
+        },
+        {
+          "q": "Cơ chế nào sau đây phân biệt rõ nhất giữa Suy mòn (Cachexia) do ung thư và Sarcopenia nguyên phát?",
+          "options": [
+            "Cả hai đều không có tình trạng viêm hệ thống",
+            "Suy mòn đặc trưng bởi tình trạng viêm hệ thống rõ rệt và kháng lại các can thiệp dinh dưỡng đơn thuần",
+            "Sarcopenia luôn đi kèm với giảm cảm giác thèm ăn, trong khi suy mòn thì không",
+            "Mất cơ trong sarcopenia chỉ ảnh hưởng đến các sợi cơ type I"
+          ],
+          "answer": 1,
+          "explain": "Điểm khác biệt cốt lõi là cơ chế sinh bệnh. <b>Suy mòn</b> là một hội chứng chuyển hóa phức tạp do bệnh lý nền (như ung thư, suy tim giai đoạn cuối), được thúc đẩy bởi <b>phản ứng viêm hệ thống mạnh mẽ</b>, dẫn đến dị hóa cơ và mỡ không thể đảo ngược hoàn toàn chỉ bằng dinh dưỡng. Sarcopenia nguyên phát là quá trình thoái hóa do lão hóa với mức độ viêm thấp hơn."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây ít hữu ích nhất trong việc sàng lọc ban đầu các nguyên nhân ác tính gây sụt cân ở bệnh nhân này?",
+          "options": [
+            "Công thức máu toàn bộ, tốc độ máu lắng (VS)",
+            "Chụp X-quang ngực",
+            "Xét nghiệm dấu ấn ung thư (tumor markers) CEA, CA 19-9",
+            "Siêu âm ổ bụng tổng quát"
+          ],
+          "answer": 2,
+          "explain": "Các <b>dấu ấn ung thư không được khuyến cáo để sàng lọc ung thư</b> ở dân số chung hoặc ở bệnh nhân sụt cân không rõ nguyên nhân vì độ nhạy và độ đặc hiệu thấp, có thể dẫn đến kết quả dương tính giả hoặc âm tính giả gây hoang mang và các xét nghiệm xâm lấn không cần thiết. Việc tầm soát nên bắt đầu bằng hỏi bệnh, khám kỹ và các xét nghiệm cơ bản."
+        },
+        {
+          "q": "Lời khuyên nào về dinh dưỡng là phù hợp nhất cho bệnh nhân trong khi chờ đợi kết quả cận lâm sàng?",
+          "options": [
+            "Nhịn ăn để làm sạch cơ thể",
+            "Tăng cường bữa ăn với các thực phẩm giàu năng lượng và protein như thịt, cá, trứng, sữa",
+            "Chỉ uống các loại nước ép trái cây",
+            "Ăn chế độ ít chất béo và ít protein"
+          ],
+          "answer": 1,
+          "explain": "Sụt cân không chủ ý ở người lớn tuổi là một dấu hiệu báo động. Trong khi chờ chẩn đoán, việc <b>tối ưu hóa dinh dưỡng</b> là rất quan trọng. Cần khuyến khích bệnh nhân ăn các bữa nhỏ, thường xuyên, <b>giàu năng lượng và đặc biệt là giàu protein chất lượng cao</b> để chống lại quá trình dị hóa cơ bắp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 75 tuổi viêm khớp dạng thấp mạn tính, yếu cơ gốc chi tăng dần",
+      "body": "Bệnh nhân <b>nữ 75 tuổi</b>, tiền sử <b>viêm khớp dạng thấp (RA) 15 năm</b>, đang điều trị với Methotrexate và Prednisolone 5mg/ngày.<br><br><b>Triệu chứng:</b> Yếu cơ tăng dần, đặc biệt khó khăn khi chải đầu và giơ tay lấy đồ vật trên cao. Đau khớp gối và hông, hạn chế đi lại.<br><br><b>Khám:</b> Teo cơ vùng vai và đùi. Sức mạnh cơ gốc chi giảm (4/5).<br><br><b>Kết quả đánh giá:</b><br>– Sức co cơ tay: <b>13 kg</b><br>– Đo tốc độ đi bộ: <b>không thực hiện được do đau</b><br><br><b>Xét nghiệm:</b> CRP 30 mg/L, VS 55 mm/giờ.<br><br><i>Bác sĩ chẩn đoán Sarcopenia thứ phát do viêm khớp dạng thấp.</i>",
+      "questions": [
+        {
+          "q": "Tình trạng mất cơ và yếu cơ ở bệnh nhân RA này còn được gọi là gì?",
+          "options": [
+            "Suy mòn do thấp khớp (Rheumatoid cachexia)",
+            "Bệnh cơ do steroid",
+            "Loạn dưỡng cơ thể vành đai",
+            "Viêm đa cơ"
+          ],
+          "answer": 0,
+          "explain": "Mất cơ trong bối cảnh bệnh viêm mạn tính như RA được gọi là <b>\"suy mòn do thấp khớp\" (Rheumatoid cachexia)</b>. Nó có nhiều đặc điểm chồng chéo với sarcopenia thứ phát và cachexia, đặc trưng bởi sự mất khối lượng cơ thể không mỡ do tình trạng dị hóa tăng cao."
+        },
+        {
+          "q": "Cơ chế nào sau đây KHÔNG góp phần vào việc gây mất cơ ở bệnh nhân viêm khớp dạng thấp?",
+          "options": [
+            "Tăng nồng độ các cytokine tiền viêm như TNF-α và IL-6",
+            "Giảm hoạt động thể chất do đau và cứng khớp",
+            "Sử dụng corticosteroid kéo dài",
+            "Tăng nồng độ hormone đồng hóa DHEA-S"
+          ],
+          "answer": 3,
+          "explain": "Ở bệnh nhân RA, viêm mạn tính làm tăng các cytokine gây dị hóa, đau và bất động làm giảm tín hiệu đồng hóa, và việc sử dụng corticoid gây độc cho cơ. Ngược lại, nồng độ các hormone đồng hóa như <b>DHEA-S thường bị suy giảm</b> trong các bệnh viêm mạn tính — không tăng — nên đây là cơ chế KHÔNG góp phần gây mất cơ."
+        },
+        {
+          "q": "Việc sử dụng Prednisolone 5mg/ngày kéo dài có thể gây ra tác dụng phụ nào trên cơ?",
+          "options": [
+            "Gây phì đại các sợi cơ type II",
+            "Gây teo chọn lọc các sợi cơ type II (sợi cơ co giật nhanh), dẫn đến yếu cơ gốc chi",
+            "Tăng cường tổng hợp protein cơ",
+            "Cải thiện chức năng ty thể trong cơ"
+          ],
+          "answer": 1,
+          "explain": "Corticosteroid gây ra <b>bệnh cơ do steroid</b> (steroid myopathy), đặc trưng bởi sự <b>teo rõ rệt của các sợi cơ type II</b>, là những sợi cơ chịu trách nhiệm cho các chuyển động nhanh và mạnh. Điều này giải thích tại sao bệnh nhân thường yếu cơ gốc chi (vai, hông) và gặp khó khăn với các hoạt động đòi hỏi sức mạnh như đứng dậy, leo thang, giơ tay."
+        },
+        {
+          "q": "Phương pháp tập luyện nào được khuyến nghị cho bệnh nhân RA bị sarcopenia, có tính đến tình trạng đau khớp?",
+          "options": [
+            "Các bài tập cường độ cao, tác động mạnh như nhảy dây",
+            "Chỉ tập các bài tập kéo giãn",
+            "Các bài tập dưới nước (thủy trị liệu) và các bài tập kháng lực với cường độ tùy chỉnh",
+            "Ngừng mọi hoạt động thể chất để bảo vệ khớp"
+          ],
+          "answer": 2,
+          "explain": "Tập luyện cho bệnh nhân RA cần cân bằng giữa lợi ích và nguy cơ làm tổn thương khớp. <b>Thủy trị liệu</b> rất tốt vì nước làm giảm tải trọng lên khớp. Các <b>bài tập kháng lực</b> nên được điều chỉnh cường độ, tránh gây đau, tập trung vào việc tăng cường sức mạnh các cơ xung quanh khớp để cải thiện sự ổn định và chức năng."
+        },
+        {
+          "q": "Mục tiêu điều trị chính đối với tình trạng mất cơ ở bệnh nhân này là gì?",
+          "options": [
+            "Ngừng hoàn toàn thuốc điều trị RA",
+            "Kiểm soát tốt tình trạng viêm của bệnh nền (RA)",
+            "Tăng liều Prednisolone để giảm đau",
+            "Chỉ tập trung vào dinh dưỡng"
+          ],
+          "answer": 1,
+          "explain": "Nền tảng của việc điều trị sarcopenia thứ phát là phải <b>kiểm soát tốt bệnh lý nền</b>. Bằng cách sử dụng các thuốc DMARDs hiệu quả để ức chế quá trình viêm của RA, nồng độ các cytokine gây dị hóa sẽ giảm, từ đó tạo điều kiện thuận lợi cho các can thiệp dinh dưỡng và tập luyện phát huy tác dụng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi bệnh thận mạn giai đoạn 4, yếu cơ và sụt cân sau chế độ ăn giảm protein",
+      "body": "Bệnh nhân <b>nam 65 tuổi</b>, tiền sử đái tháo đường type 2, <b>bệnh thận mạn giai đoạn 4</b> (eGFR 25 mL/phút/1.73m²). Ông được khuyên nên theo một <b>chế độ ăn giảm protein</b> để làm chậm tiến triển của bệnh thận.<br><br><b>Diễn biến:</b> Trong 1 năm qua, ông cảm thấy yếu đi rõ rệt, bắp cơ teo nhỏ và sụt 4 kg.<br><br><b>Khám:</b> Da khô, niêm mạc nhợt, BMI 20 kg/m².<br><br><b>Kết quả đánh giá:</b><br>– Sức co cơ tay: <b>24 kg</b><br>– DXA: Chỉ số khối cơ xương chi (ASMI) = <b>6.8 kg/m²</b><br><br><b>Xét nghiệm:</b> Ure 28 mmol/L, Creatinin 250 µmol/L, Albumin 32 g/L.",
+      "questions": [
+        {
+          "q": "Tình trạng mất cơ và suy dinh dưỡng ở bệnh nhân bệnh thận mạn được gọi là hội chứng gì?",
+          "options": [
+            "Hội chứng gan-thận",
+            "Hội chứng suy kiệt-viêm-suy dinh dưỡng (MIA syndrome)",
+            "Suy mòn do tim (Cardiac cachexia)",
+            "Bệnh não do urê huyết cao"
+          ],
+          "answer": 1,
+          "explain": "<b>Hội chứng MIA (Malnutrition-Inflammation-Atherosclerosis)</b> mô tả mối liên quan phức tạp giữa suy dinh dưỡng, viêm mạn tính và xơ vữa động mạch ở bệnh nhân bệnh thận mạn, tất cả đều góp phần vào tình trạng suy kiệt protein-năng lượng (protein-energy wasting) và mất cơ."
+        },
+        {
+          "q": "Cơ chế chính gây mất cơ ở bệnh nhân bệnh thận mạn là gì?",
+          "options": [
+            "Tình trạng toan chuyển hóa mạn tính kích hoạt hệ thống ubiquitin-proteasome",
+            "Giảm nồng độ của các độc tố urê huyết",
+            "Tăng nhạy cảm với insulin",
+            "Tăng sản xuất Erythropoietin (EPO)"
+          ],
+          "answer": 0,
+          "explain": "Bệnh thận mạn thường gây ra <b>toan chuyển hóa</b>. Môi trường toan này kích thích sự biểu hiện của các gen liên quan đến quá trình dị hóa cơ, đặc biệt là <b>hệ thống ubiquitin-proteasome</b>, dẫn đến tăng cường phân giải protein cơ. Các yếu tố khác bao gồm viêm, kháng insulin và các độc tố urê huyết."
+        },
+        {
+          "q": "Dựa vào kết quả sức co cơ tay và ASMI, chẩn đoán sarcopenia của bệnh nhân được xác định là:",
+          "options": [
+            "Không có sarcopenia",
+            "Có thể có sarcopenia",
+            "Sarcopenia đã xác định",
+            "Sarcopenia thể nặng"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có sức co cơ tay thấp (24 kg < 27 kg ở nam) và khối lượng cơ thấp được xác định bằng DXA (ASMI 6.8 kg/m² < 7.0 kg/m² ở nam). Theo EWGSOP2, khi có cả hai tiêu chí này, chẩn đoán <b>\"Sarcopenia đã xác định\" (Confirmed Sarcopenia)</b> được đưa ra."
+        },
+        {
+          "q": "Thách thức lớn nhất trong quản lý dinh dưỡng cho bệnh nhân này là gì?",
+          "options": [
+            "Cân bằng giữa việc hạn chế protein để bảo vệ thận và cung cấp đủ protein để chống mất cơ",
+            "Bệnh nhân thường có cảm giác ngon miệng",
+            "Nguy cơ hạ kali máu",
+            "Không có thách thức nào đặc biệt"
+          ],
+          "answer": 0,
+          "explain": "Đây là một tình huống lâm sàng khó. Chế độ ăn quá ít protein (<0.8 g/kg/ngày) có thể làm chậm tiến triển bệnh thận nhưng lại làm trầm trọng thêm tình trạng mất cơ và suy dinh dưỡng. Ngược lại, chế độ ăn quá nhiều protein sẽ tạo gánh nặng cho thận. Do đó, <b>việc tìm ra một lượng protein tối ưu là một thách thức</b>."
+        },
+        {
+          "q": "Đối với bệnh nhân bệnh thận mạn giai đoạn 4 chưa lọc máu bị sarcopenia, khuyến nghị về lượng protein hàng ngày là bao nhiêu?",
+          "options": [
+            "0.6 – 0.8 g/kg/ngày",
+            "1.0 – 1.2 g/kg/ngày, ưu tiên protein có giá trị sinh học cao",
+            "> 1.5 g/kg/ngày",
+            "Không cần quan tâm đến lượng protein"
+          ],
+          "answer": 1,
+          "explain": "Các hướng dẫn dinh dưỡng gần đây cho bệnh thận (KDOQI) đã thay đổi. Đối với bệnh nhân có nguy cơ suy dinh dưỡng và sarcopenia, lượng protein có thể cần cao hơn (<b>khoảng 1.0–1.2 g/kg/ngày</b>) so với khuyến nghị tiêu chuẩn (0.8 g/kg/ngày), với điều kiện bệnh nhân được theo dõi chặt chẽ và ưu tiên các nguồn <b>protein có giá trị sinh học cao</b> (trứng, sữa, thịt, cá)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 77 tuổi suy tim EF giảm nặng, mệt mỏi cực độ và sụt cân",
+      "body": "Bệnh nhân <b>nam 77 tuổi</b>, tiền sử <b>suy tim EF 35%</b>, đang được điều trị nội khoa tối ưu. Gần đây, ông nhập viện nhiều lần vì ứ dịch.<br><br><b>Triệu chứng:</b> Cực kỳ mệt mỏi, khó thở ngay cả khi đi lại trong phòng, chán ăn. Trong 6 tháng, ông <b>sụt 7% trọng lượng cơ thể</b>.<br><br><b>Khám:</b> Phù hai chi dưới, tĩnh mạch cổ nổi, <b>teo cơ thái dương và cơ gian cốt</b>. BMI 19 kg/m².<br><br><b>Xét nghiệm:</b> Nồng độ BNP tăng cao.<br><br><i>Bác sĩ đánh giá bệnh nhân có tình trạng suy mòn do tim (cardiac cachexia).</i>",
+      "questions": [
+        {
+          "q": "Đặc điểm nào sau đây là cốt lõi của suy mòn do tim (cardiac cachexia)?",
+          "options": [
+            "Sụt cân không chủ ý, chủ yếu là mất khối lượng mô không mỡ",
+            "Tăng khối lượng cơ tim",
+            "Giảm nồng độ các cytokine tiền viêm",
+            "Cải thiện khả năng gắng sức"
+          ],
+          "answer": 0,
+          "explain": "Suy mòn do tim được định nghĩa là tình trạng <b>sụt cân không chủ ý</b> (thường >5% trọng lượng khô trong 6–12 tháng) ở bệnh nhân suy tim, trong đó sự sụt giảm này chủ yếu là do mất <b>khối lượng cơ và mỡ</b>, chứ không chỉ do mất dịch."
+        },
+        {
+          "q": "Cơ chế nào được cho là đóng vai trò trung tâm trong sinh bệnh học của suy mòn do tim?",
+          "options": [
+            "Giảm hoạt hóa hệ thần kinh giao cảm và hệ Renin-Angiotensin-Aldosterone",
+            "Tình trạng hoạt hóa miễn dịch và viêm mạn tính, cùng với sung huyết đường tiêu hóa gây chán ăn",
+            "Tăng cung cấp oxy và chất dinh dưỡng cho các mô ngoại vi",
+            "Cải thiện chức năng của ruột"
+          ],
+          "answer": 1,
+          "explain": "Suy tim mạn tính là một trạng thái viêm hệ thống. Các <b>cytokine như TNF-α tăng cao</b>, thúc đẩy quá trình dị hóa. Đồng thời, cung lượng tim giảm và <b>sung huyết tĩnh mạch hệ thống</b> làm giảm tưới máu ruột và gan, gây kém hấp thu và chán ăn, tạo thành một vòng xoắn bệnh lý."
+        },
+        {
+          "q": "Tại sao bệnh nhân suy tim bị suy mòn lại có tiên lượng xấu hơn?",
+          "options": [
+            "Mất cơ hoành và các cơ hô hấp phụ làm nặng thêm tình trạng khó thở",
+            "Tình trạng dinh dưỡng tốt hơn",
+            "Giảm nguy cơ rối loạn nhịp tim",
+            "Tăng đáp ứng với thuốc lợi tiểu"
+          ],
+          "answer": 0,
+          "explain": "Sarcopenia không chỉ ảnh hưởng đến cơ xương mà còn ảnh hưởng đến cả <b>cơ hô hấp, bao gồm cơ hoành</b>. Khi các cơ này yếu đi, công thở của bệnh nhân tăng lên, làm họ dễ mệt và khó thở hơn, góp phần làm nặng thêm các triệu chứng của suy tim."
+        },
+        {
+          "q": "Can thiệp nào có thể giúp cải thiện tình trạng dị hóa ở bệnh nhân suy mòn do tim?",
+          "options": [
+            "Hạn chế hoàn toàn hoạt động thể chất",
+            "Chế độ ăn ít calo, ít protein",
+            "Sử dụng thuốc ức chế men chuyển (ACEI) hoặc chẹn thụ thể Angiotensin (ARB)",
+            "Ngừng thuốc chẹn beta"
+          ],
+          "answer": 2,
+          "explain": "Các thuốc <b>ACEI và ARB</b>, ngoài tác dụng trên tim mạch, còn có thể có <b>tác dụng chống dị hóa</b>. Angiotensin II có thể thúc đẩy quá trình viêm và stress oxy hóa trong cơ. Việc ức chế hệ thống này có thể giúp làm giảm quá trình thoái giáng protein cơ."
+        },
+        {
+          "q": "Ngoài việc tối ưu hóa điều trị suy tim, lời khuyên nào là quan trọng cho bệnh nhân?",
+          "options": [
+            "Ăn các bữa ăn lớn, ba lần một ngày",
+            "Ăn nhiều bữa nhỏ, giàu năng lượng, giàu protein và xem xét bổ sung dinh dưỡng đường uống (ONS)",
+            "Hạn chế uống nước hoàn toàn",
+            "Chỉ ăn thức ăn lỏng"
+          ],
+          "answer": 1,
+          "explain": "Do chán ăn và mệt mỏi, bệnh nhân thường không thể ăn các bữa lớn. <b>Chia nhỏ bữa ăn (5–6 bữa/ngày)</b>, làm giàu thực phẩm (thêm dầu, bơ, phô mai) và sử dụng các sản phẩm <b>bổ sung dinh dưỡng y học (ONS)</b> giàu calo và protein có thể giúp bệnh nhân đạt được mục tiêu dinh dưỡng dễ dàng hơn."
+        }
+      ]
+    },
+    {
+      "title": "Cụ bà 85 tuổi sa sút trí tuệ trung bình, không hợp tác đo lường chức năng cơ",
+      "body": "Bệnh nhân <b>nữ 85 tuổi</b>, sống trong viện dưỡng lão, có tiền sử <b>sa sút trí tuệ mức độ trung bình</b>, đi lại phải dùng khung tập đi. Bà bị sụt cân dần và ngày càng phụ thuộc vào người chăm sóc.<br><br><b>Vấn đề đánh giá:</b> Nhân viên y tế muốn đánh giá nguy cơ sarcopenia nhưng bệnh nhân <b>không thể hợp tác</b> để đo sức co cơ tay hay thực hiện các bài test chức năng.<br><br><b>Chỉ số đo được:</b> Vòng bắp chân = <b>29 cm</b>",
+      "questions": [
+        {
+          "q": "Trong bối cảnh không thể thực hiện các phép đo chức năng, chỉ số nhân trắc nào có thể được sử dụng như một công cụ sàng lọc hữu ích cho khối lượng cơ thấp?",
+          "options": [
+            "Vòng đầu",
+            "Chiều dài sải tay",
+            "Chu vi vòng bắp chân (Calf circumference)",
+            "Bề dày nếp gấp da cơ tam đầu"
+          ],
+          "answer": 2,
+          "explain": "<b>Chu vi vòng bắp chân</b> là một phép đo đơn giản, rẻ tiền và có tương quan tốt với khối lượng cơ toàn thân. Nó đặc biệt hữu ích để sàng lọc sarcopenia ở những bệnh nhân không thể thực hiện các bài kiểm tra khác."
+        },
+        {
+          "q": "Một ngưỡng chu vi vòng bắp chân thường được sử dụng để gợi ý nguy cơ sarcopenia ở người lớn tuổi là:",
+          "options": [
+            "< 45 cm",
+            "< 31 cm",
+            "> 40 cm",
+            "> 50 cm"
+          ],
+          "answer": 1,
+          "explain": "Nhiều nghiên cứu và một số hướng dẫn (ví dụ, của Hội Lão khoa Châu Á) đã đề xuất ngưỡng chu vi vòng bắp chân là <b>< 31 cm</b> như một chỉ báo về khối lượng cơ thấp và cần đánh giá thêm. Kết quả 29 cm của bệnh nhân nằm dưới ngưỡng này."
+        },
+        {
+          "q": "Cơ chế nào giải thích tại sao sa sút trí tuệ là một yếu tố nguy cơ của sarcopenia?",
+          "options": [
+            "Bệnh nhân thường quên ăn, gặp khó khăn trong việc tự ăn uống và giảm hoạt động thể chất",
+            "Bệnh Alzheimer làm tăng sản xuất protein cơ",
+            "Bệnh nhân sa sút trí tuệ thường tập thể dục nhiều hơn",
+            "Não bộ không có vai trò gì trong việc điều hòa khối lượng cơ"
+          ],
+          "answer": 0,
+          "explain": "Sa sút trí tuệ ảnh hưởng đến sarcopenia qua nhiều con đường. Các vấn đề về nhận thức và hành vi (<b>quên, trầm cảm, rối loạn nuốt</b>) dẫn đến ăn uống không đủ. Bệnh nhân cũng có xu hướng <b>ít vận động và đi lại</b>, dẫn đến teo cơ do không sử dụng."
+        },
+        {
+          "q": "Can thiệp nào sau đây là phù hợp nhất để cải thiện tình trạng dinh dưỡng cho bệnh nhân này?",
+          "options": [
+            "Đặt sonde dạ dày ngay lập tức",
+            "Trợ giúp khi ăn, sử dụng dụng cụ thích ứng, và làm giàu thực phẩm",
+            "Để bệnh nhân tự xoay sở",
+            "Chỉ cho bệnh nhân ăn khi họ đòi"
+          ],
+          "answer": 1,
+          "explain": "Can thiệp dinh dưỡng cần được cá thể hóa. Trước khi cân nhắc các biện pháp xâm lấn như đặt sonde, cần tối ưu hóa việc cho ăn bằng miệng: tạo môi trường ăn uống yên tĩnh, <b>trợ giúp, kiên nhẫn</b>, sử dụng các món ăn bệnh nhân yêu thích, và <b>làm giàu dinh dưỡng cho thực phẩm</b> (thêm bột protein, kem...)."
+        },
+        {
+          "q": "Mục tiêu thực tế của việc chăm sóc cho bệnh nhân sarcopenia kèm sa sút trí tuệ nặng là gì?",
+          "options": [
+            "Chữa khỏi hoàn toàn sarcopenia",
+            "Duy trì chức năng hiện tại, ngăn ngừa các biến chứng (loét do tì đè, nhiễm trùng), và cải thiện chất lượng cuộc sống",
+            "Huấn luyện bệnh nhân để chạy marathon",
+            "Đưa bệnh nhân trở lại sống độc lập"
+          ],
+          "answer": 1,
+          "explain": "Ở giai đoạn muộn của sa sút trí tuệ và sarcopenia, mục tiêu điều trị chuyển từ \"chữa trị\" sang <b>\"chăm sóc\"</b>. Trọng tâm là duy trì sự thoải mái, phòng ngừa các biến chứng do nằm lâu và suy dinh dưỡng, và bảo tồn tối đa phẩm giá cũng như chất lượng cuộc sống cho bệnh nhân."
+        }
+      ]
+    },
+    {
+      "title": "Chương trình phòng ngừa sarcopenia dựa trên bằng chứng cho người cao tuổi cộng đồng",
+      "body": "Một nhóm các bác sĩ đang thiết kế một <b>chương trình phòng ngừa sarcopenia cho người cao tuổi trong cộng đồng</b>. Họ muốn tập trung vào các can thiệp dựa trên bằng chứng hiệu quả nhất.\n\n<i>Các câu hỏi dưới đây kiểm tra kiến thức về nguyên tắc phòng ngừa sarcopenia nguyên phát.</i>",
+      "questions": [
+        {
+          "q": "Trụ cột chính trong phòng ngừa sarcopenia nguyên phát là gì?",
+          "options": [
+            "Duy trì hoạt động thể chất suốt đời và chế độ ăn uống lành mạnh",
+            "Tầm soát ung thư định kỳ",
+            "Sử dụng các liệu pháp hormone thay thế",
+            "Tránh hoàn toàn ánh nắng mặt trời"
+          ],
+          "answer": 0,
+          "explain": "Sarcopenia là một quá trình diễn ra trong nhiều năm. Việc xây dựng một <b>\"quỹ dự trữ\" cơ bắp tốt khi còn trẻ và trung niên</b>, sau đó duy trì nó thông qua hoạt động thể chất đều đặn và dinh dưỡng hợp lý là chiến lược phòng ngừa hiệu quả nhất."
+        },
+        {
+          "q": "Loại bài tập nào được coi là \"viên đá tảng\" trong việc xây dựng và duy trì khối lượng cũng như sức mạnh cơ bắp?",
+          "options": [
+            "Tập kéo giãn (Stretching)",
+            "Tập aerobic (đi bộ, đạp xe)",
+            "Tập kháng lực (Resistance training)",
+            "Tập thăng bằng (Balance training)"
+          ],
+          "answer": 2,
+          "explain": "<b>Tập kháng lực</b> (nâng tạ, dùng dây đàn hồi, các bài tập dùng trọng lượng cơ thể) tạo ra các kích thích cơ học trực tiếp lên sợi cơ, kích hoạt các con đường tín hiệu (như <b>mTOR</b>) dẫn đến tăng tổng hợp protein và phì đại cơ. Mặc dù các loại bài tập khác cũng quan trọng, tập kháng lực có tác động mạnh nhất lên khối lượng và sức mạnh cơ."
+        },
+        {
+          "q": "Đối với người lớn tuổi, khuyến nghị về lượng protein hàng ngày để tối ưu hóa sức khỏe cơ bắp là:",
+          "options": [
+            "0.8 g/kg cân nặng/ngày",
+            "1.2 – 1.5 g/kg cân nặng/ngày",
+            "< 0.6 g/kg cân nặng/ngày",
+            "> 2.5 g/kg cân nặng/ngày"
+          ],
+          "answer": 1,
+          "explain": "Các hiệp hội lão khoa và dinh dưỡng quốc tế (PROT-AGE, ESPEN) khuyến nghị người lớn tuổi khỏe mạnh nên tiêu thụ <b>1.0–1.2 g protein/kg/ngày</b>, và những người có bệnh mạn tính hoặc suy dinh dưỡng nên tiêu thụ <b>1.2–1.5 g/kg/ngày</b> để duy trì khối lượng cơ. Mức 0.8 g/kg/ngày hiện được cho là không đủ cho người lớn tuổi."
+        },
+        {
+          "q": "Axit amin nào đóng vai trò như một \"công tắc\" khởi động quá trình tổng hợp protein cơ, đặc biệt quan trọng sau khi tập luyện?",
+          "options": [
+            "Glycine",
+            "Alanine",
+            "Leucine",
+            "Proline"
+          ],
+          "answer": 2,
+          "explain": "<b>Leucine</b>, một trong ba axit amin chuỗi nhánh (BCAA), có vai trò đặc biệt trong việc kích hoạt trực tiếp phức hợp <b>mTORC1</b>, là con đường tín hiệu chính khởi động quá trình tổng hợp protein cơ. Do đó, việc tiêu thụ các bữa ăn giàu leucine (có nhiều trong váng sữa – whey protein, thịt, cá, trứng) sau khi tập luyện là rất quan trọng."
+        },
+        {
+          "q": "Ngoài protein, chất dinh dưỡng nào khác thường được khuyến nghị bổ sung cùng với tập luyện để cải thiện chức năng cơ ở người lớn tuổi, đặc biệt ở những người có nguy cơ thiếu hụt?",
+          "options": [
+            "Vitamin C",
+            "Sắt",
+            "Vitamin D",
+            "Chất xơ"
+          ],
+          "answer": 2,
+          "explain": "<b>Vitamin D</b> có vai trò quan trọng trong chức năng cơ. Thiếu hụt Vitamin D rất phổ biến ở người lớn tuổi. Bổ sung Vitamin D (thường là <b>800–1000 IU/ngày</b>) cho những người bị thiếu hụt đã được chứng minh là cải thiện sức mạnh cơ và giảm nguy cơ té ngã, đặc biệt khi kết hợp với can thiệp tập luyện và protein."
+        }
+      ]
+    }
+  ]
+}
