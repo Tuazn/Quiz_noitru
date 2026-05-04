@@ -1,0 +1,619 @@
+{
+  "name": "Loãng xương",
+  "description": "Bộ đề lâm sàng về loãng xương, bao gồm chẩn đoán, cơ chế bệnh sinh, điều trị và biến chứng.",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 68 tuổi gãy cổ tay sau ngã trượt trong nhà tắm",
+      "body": "Bệnh nhân nữ 68 tuổi, là giáo viên đã về hưu, đến phòng khám sau khi bị ngã trượt chân trong nhà tắm và bị gãy cổ tay phải. Bệnh nhân không bị mất ý thức, chỉ chống tay phải xuống sàn để đỡ. Đây là lần gãy xương đầu tiên của bà. Bà đã mãn kinh được 18 năm và không sử dụng liệu pháp hormone thay thế. Chế độ ăn của bà khá ít sữa và các sản phẩm từ sữa. Bà không hút thuốc, thỉnh thoảng uống một ly rượu vang. Mẹ của bệnh nhân cũng từng bị gãy cổ xương đùi ở tuổi 80.<br><br><b>Khám lúc vào viện:</b> ý thức tỉnh táo, than đau nhiều vùng cổ tay phải, mạch 82 lần/phút, huyết áp 130/80 mmHg, SpO₂ 98% khí trời, BMI 19 kg/m², chiều cao có giảm 3 cm so với lúc trẻ. Khám cột sống không có điểm đau khu trú, không gù vẹo. Khám các khớp khác không sưng đau, không có dấu hiệu viêm khớp dạng thấp.<br><br><b>Kết quả:</b> T-score cổ xương đùi <b>-2.8</b>, cột sống thắt lưng <b>-2.5</b>. Canxi, Phosphat, ALP và chức năng thận trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào là đầy đủ nhất cho bệnh nhân này?",
+          "options": [
+            "Loãng xương sau mãn kinh.",
+            "Gãy xương do chấn thương.",
+            "Loãng xương nặng có gãy xương.",
+            "Thiếu xương."
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có T-score ≤ -2.5 (định nghĩa loãng xương) VÀ đã có gãy xương do chấn thương nhẹ (gãy cổ tay sau ngã trượt). Sự kết hợp này định nghĩa tình trạng \"loãng xương nặng\" theo WHO, cho thấy nguy cơ gãy xương trong tương lai rất cao."
+        },
+        {
+          "q": "Cơ chế chính gây mất xương nhanh trong những năm đầu sau mãn kinh là gì?",
+          "options": [
+            "Sự suy giảm nồng độ Estrogen dẫn đến tăng hoạt động của các tế bào hủy xương (osteoclasts).",
+            "Sự giảm hấp thu Canxi ở ruột do tuổi tác.",
+            "Tình trạng bất động và giảm hoạt động thể chất.",
+            "Chế độ ăn thiếu hụt protein."
+          ],
+          "answer": 0,
+          "explain": "Estrogen có vai trò quan trọng trong việc ức chế hoạt động và thúc đẩy quá trình chết theo chương trình của các tế bào hủy xương. Khi nồng độ Estrogen sụt giảm sau mãn kinh, sự \"kìm hãm\" này mất đi, dẫn đến các tế bào hủy xương hoạt động mạnh mẽ hơn, gây ra một giai đoạn mất xương nhanh."
+        },
+        {
+          "q": "Theo định nghĩa của WHO, chẩn đoán loãng xương được xác định khi nào?",
+          "options": [
+            "Khi có một lần gãy xương do chấn thương nhẹ.",
+            "Khi T-score ≤ -2.5 ở cổ xương đùi, toàn bộ xương đùi hoặc cột sống thắt lưng.",
+            "Khi T-score từ -1.0 đến -2.5.",
+            "Khi có giảm chiều cao trên 2 cm."
+          ],
+          "answer": 1,
+          "explain": "Theo WHO, chẩn đoán loãng xương dựa trên đo mật độ xương (DXA) được xác định khi chỉ số T-score tại một trong các vị trí (cổ xương đùi, tổng số xương đùi, cột sống thắt lưng) từ -2.5 trở xuống."
+        },
+        {
+          "q": "Can thiệp điều trị nào sau đây là lựa chọn hàng đầu để giảm nguy cơ gãy xương trong tương lai cho bệnh nhân?",
+          "options": [
+            "Bổ sung Canxi và Vitamin D đơn thuần.",
+            "Bắt đầu một thuốc nhóm Bisphosphonate (ví dụ: Alendronate) cùng với Canxi và Vitamin D.",
+            "Liệu pháp hormone thay thế.",
+            "Chỉ cần tập thể dục và thay đổi lối sống."
+          ],
+          "answer": 1,
+          "explain": "Với chẩn đoán loãng xương nặng, việc sử dụng các thuốc chống hủy xương là bắt buộc để giảm nguy cơ gãy xương. Nhóm Bisphosphonate đường uống là liệu pháp đầu tay được khuyến cáo rộng rãi do hiệu quả đã được chứng minh, chi phí hợp lý và dữ liệu an toàn lâu dài. Việc bổ sung Canxi và Vitamin D là cần thiết nhưng không đủ nếu dùng đơn độc."
+        },
+        {
+          "q": "Mục tiêu chính của việc bổ sung Vitamin D ở bệnh nhân loãng xương là gì?",
+          "options": [
+            "Tăng cường sức mạnh cơ bắp để giảm nguy cơ té ngã.",
+            "Tăng cường sự hấp thu Canxi từ ruột.",
+            "Giảm đau do gãy xương.",
+            "Cả A và B đều đúng."
+          ],
+          "answer": 3,
+          "explain": "Vitamin D có vai trò kép trong phòng chống gãy xương: (1) Vai trò kinh điển là tăng cường hấp thu Canxi và Phosphat ở ruột, cần thiết cho quá trình khoáng hóa xương; và (2) Vai trò trên cơ, giúp cải thiện sức mạnh cơ và chức năng thần kinh-cơ, từ đó làm giảm nguy cơ té ngã."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi đau lưng âm ỉ nhiều tháng, tiền sử dùng Glucocorticoid kéo dài",
+      "body": "Bệnh nhân nam 65 tuổi, đến khám vì đau lưng âm ỉ kéo dài nhiều tháng. Cơn đau tăng khi vận động, đứng lâu. Bệnh nhân không có chấn thương, không sốt, không sụt cân.<br><br><b>Tiền sử:</b> hút thuốc lá 30 bao.năm, uống rượu nhiều năm (khoảng 4–5 đơn vị cồn/ngày), bị hen phế quản phải dùng Prednisolone đường uống nhiều đợt kéo dài. Thói quen ăn uống ít vận động.<br><br><b>Khám:</b> ý thức tỉnh, sinh hiệu ổn, BMI 20 kg/m². Cột sống có gù nhẹ ở vùng lưng-ngực, ấn các gai sau đốt sống vùng T10–T12 gây đau tức. Chiều cao đo được giảm 4 cm so với hồ sơ sức khỏe 5 năm trước. Không có dấu thần kinh khu trú.<br><br><b>Cận lâm sàng:</b> X-quang cột sống ngực nghiêng cho thấy hình ảnh xẹp lún thân đốt sống T11 và T12 dạng hình chêm. T-score cột sống <b>-2.9</b>.",
+      "questions": [
+        {
+          "q": "Tình trạng loãng xương ở bệnh nhân này được phân loại là gì?",
+          "options": [
+            "Loãng xương nguyên phát type 1.",
+            "Loãng xương nguyên phát type 2.",
+            "Loãng xương thứ phát.",
+            "Loãng xương vô căn ở người trẻ."
+          ],
+          "answer": 2,
+          "explain": "Loãng xương thứ phát là tình trạng loãng xương gây ra bởi một bệnh lý hoặc một loại thuốc cụ thể. Ở bệnh nhân này, việc sử dụng Glucocorticoid kéo dài là nguyên nhân rõ ràng, bên cạnh các yếu tố nguy cơ khác như uống rượu và hút thuốc."
+        },
+        {
+          "q": "Yếu tố nguy cơ nào sau đây là nguyên nhân quan trọng nhất gây loãng xương cho bệnh nhân này?",
+          "options": [
+            "Hút thuốc lá.",
+            "Uống rượu nhiều.",
+            "Sử dụng Glucocorticoid kéo dài.",
+            "Giới tính nam."
+          ],
+          "answer": 2,
+          "explain": "Glucocorticoid là nguyên nhân gây loãng xương do thuốc phổ biến nhất. Tác động có hại của nó lên xương rất mạnh mẽ và đa cơ chế, khiến nó trở thành yếu tố nguy cơ quan trọng nhất trong bệnh cảnh này."
+        },
+        {
+          "q": "Cơ chế chính gây mất xương do Glucocorticoid là gì?",
+          "options": [
+            "Ức chế trực tiếp hoạt động của tế bào tạo xương (osteoblasts) và thúc đẩy chúng chết theo chương trình.",
+            "Tăng cường hoạt động của tế bào hủy xương (osteoclasts).",
+            "Giảm hấp thu Canxi ở ruột và tăng thải Canxi qua thận.",
+            "Tất cả các cơ chế trên."
+          ],
+          "answer": 3,
+          "explain": "Glucocorticoid gây mất xương một cách nhanh chóng và nghiêm trọng thông qua việc tác động lên cả hai quá trình tạo xương và hủy xương: chúng trực tiếp ức chế sự biệt hóa và hoạt động của tạo cốt bào, đồng thời kéo dài đời sống của hủy cốt bào. Thêm vào đó, chúng còn gây ra tình trạng cường cận giáp thứ phát do giảm hấp thu và tăng thải Canxi."
+        },
+        {
+          "q": "Biến chứng nào của gãy lún đốt sống có thể gây ra các triệu chứng hô hấp và tiêu hóa?",
+          "options": [
+            "Chèn ép rễ thần kinh.",
+            "Gù vẹo cột sống nặng làm giảm thể tích lồng ngực và chèn ép các tạng trong ổ bụng.",
+            "Tắc mạch phổi.",
+            "Hẹp ống sống."
+          ],
+          "answer": 1,
+          "explain": "Khi nhiều đốt sống bị xẹp lún, chiều cao của thân mình sẽ giảm, cột sống sẽ bị gù ra trước. Tình trạng gù nặng sẽ làm biến dạng lồng ngực, hạn chế sự giãn nở của phổi gây khó thở, và làm giảm không gian của ổ bụng, gây ra các triệu chứng như đầy bụng, mau no và trào ngược."
+        },
+        {
+          "q": "Ngoài các thuốc điều trị loãng xương, biện pháp nào cần được ưu tiên để kiểm soát đau lưng cấp do gãy lún đốt sống?",
+          "options": [
+            "Bất động tại giường hoàn toàn.",
+            "Phẫu thuật cố định cột sống.",
+            "Thuốc giảm đau theo bậc thang của WHO và nghỉ ngơi tương đối, tránh các hoạt động gây tải trọng lên cột sống.",
+            "Tiêm xi măng sinh học vào thân đốt sống ngay lập tức."
+          ],
+          "answer": 2,
+          "explain": "Trong giai đoạn cấp, mục tiêu là kiểm soát đau và ngăn ngừa biến chứng. Thuốc giảm đau (bắt đầu từ Paracetamol, NSAID đến Opioid yếu nếu cần) kết hợp với nghỉ ngơi ngắn ngày và tránh các tư thế gây đau là nền tảng. Phẫu thuật tạo hình thân đốt sống (tiêm xi măng) có thể được cân nhắc cho các trường hợp đau nặng, không đáp ứng với điều trị nội khoa."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 75 tuổi ung thư tuyến tiền liệt đang điều trị ADT, lo nguy cơ loãng xương",
+      "body": "Bệnh nhân nam 75 tuổi, có tiền sử ung thư tuyến tiền liệt đang điều trị bằng liệu pháp loại bỏ androgen (ADT). Ông đến khám sức khỏe định kỳ và lo lắng về nguy cơ loãng xương. Bệnh nhân không có tiền sử gãy xương, không hút thuốc, uống rượu ít. Chiều cao 170 cm, cân nặng 65 kg (BMI 22.5 kg/m²).<br><br><b>Kết quả:</b> T-score cổ xương đùi <b>-1.8</b>. Bác sĩ sử dụng mô hình FRAX để đánh giá nguy cơ gãy xương trong 10 năm tới.",
+      "questions": [
+        {
+          "q": "Tại sao liệu pháp loại bỏ androgen (ADT) lại là một yếu tố nguy cơ gây loãng xương ở nam giới?",
+          "options": [
+            "ADT gây độc trực tiếp cho tế bào xương.",
+            "Testosterone và Estrogen (được chuyển đổi từ Testosterone) đều có vai trò quan trọng trong việc duy trì khối lượng xương ở nam giới; việc ức chế chúng sẽ làm tăng tốc độ mất xương.",
+            "ADT làm tăng nồng độ hormone cận giáp (PTH).",
+            "ADT làm giảm hấp thu Canxi ở ruột."
+          ],
+          "answer": 1,
+          "explain": "Ở nam giới, một phần Testosterone được enzyme aromatase chuyển đổi thành Estrogen. Cả hai hormone này đều có tác dụng chống hủy xương. Liệu pháp ADT làm giảm mạnh nồng độ Testosterone, từ đó cũng làm giảm Estrogen, gây ra tình trạng mất xương nhanh tương tự như phụ nữ sau mãn kinh."
+        },
+        {
+          "q": "Mô hình FRAX (Fracture Risk Assessment Tool) được sử dụng để làm gì?",
+          "options": [
+            "Chẩn đoán xác định loãng xương.",
+            "Ước tính xác suất gãy xương chính do loãng xương và gãy cổ xương đùi trong 10 năm tới.",
+            "Theo dõi đáp ứng điều trị.",
+            "Xác định nguyên nhân gây loãng xương."
+          ],
+          "answer": 1,
+          "explain": "FRAX là một công cụ được WHO phát triển để tích hợp các yếu tố nguy cơ lâm sàng (tuổi, giới, BMI, tiền sử gãy xương, sử dụng corticoid...) cùng với mật độ xương (hoặc không) để tính toán xác suất gãy xương trong 10 năm, giúp cá thể hóa quyết định điều trị."
+        },
+        {
+          "q": "Dựa trên thông tin của bệnh nhân, tình trạng xương của ông được chẩn đoán là gì theo tiêu chuẩn của WHO?",
+          "options": [
+            "Bình thường.",
+            "Thiếu xương (Osteopenia).",
+            "Loãng xương.",
+            "Loãng xương nặng."
+          ],
+          "answer": 1,
+          "explain": "Theo WHO, T-score từ -1.0 đến -2.5 được định nghĩa là thiếu xương hay mật độ xương thấp. Đây là tình trạng trung gian giữa bình thường và loãng xương."
+        },
+        {
+          "q": "Giả sử kết quả FRAX của bệnh nhân cho thấy nguy cơ gãy xương chính trong 10 năm là 22% và gãy cổ xương đùi là 4.5%. Theo nhiều hướng dẫn (ví dụ của Mỹ), thái độ xử trí nào là phù hợp?",
+          "options": [
+            "Chỉ cần theo dõi và đo lại mật độ xương sau 2 năm.",
+            "Bắt đầu điều trị bằng thuốc chống loãng xương do nguy cơ đã vượt ngưỡng can thiệp.",
+            "Chỉ cần bổ sung Canxi và Vitamin D.",
+            "Khuyên bệnh nhân ngừng điều trị ung thư tuyến tiền liệt."
+          ],
+          "answer": 1,
+          "explain": "Nhiều quốc gia đã đưa ra ngưỡng can thiệp dựa trên FRAX. Ví dụ, ở Mỹ, điều trị được khuyến cáo khi nguy cơ gãy xương chính ≥ 20% hoặc nguy cơ gãy cổ xương đùi ≥ 3%. Bệnh nhân này đã vượt cả hai ngưỡng đó, do đó có chỉ định bắt đầu điều trị bằng thuốc."
+        },
+        {
+          "q": "Cơ chế nào giải thích tại sao nguy cơ gãy xương có thể cao ngay cả khi mật độ xương chỉ ở mức thiếu xương?",
+          "options": [
+            "Mật độ xương (BMD) chỉ phản ánh một phần của sức mạnh xương; các yếu tố khác như vi cấu trúc, chất lượng xương và nguy cơ té ngã cũng rất quan trọng.",
+            "Mô hình FRAX tính toán sai.",
+            "T-score ở mức thiếu xương luôn luôn an toàn.",
+            "Chỉ có T-score ở mức loãng xương mới gây gãy xương."
+          ],
+          "answer": 0,
+          "explain": "Gãy xương là kết quả của sự tương tác giữa sức mạnh xương và lực chấn thương (ngã). Sức mạnh xương không chỉ phụ thuộc vào khối lượng (đo bằng BMD) mà còn phụ thuộc vào chất lượng (vi kiến trúc, độ khoáng hóa, chu chuyển xương). FRAX tích hợp các yếu tố lâm sàng phản ánh cả chất lượng xương và nguy cơ ngã, do đó có thể xác định được những bệnh nhân có nguy cơ cao cần điều trị ngay cả khi BMD chưa đến ngưỡng loãng xương."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 78 tuổi đang điều trị Alendronate 4 năm, cân nhắc kỳ nghỉ thuốc",
+      "body": "Bệnh nhân nữ 78 tuổi, sống một mình, có tiền sử gãy cổ tay cách đây 5 năm. Bệnh nhân được chẩn đoán loãng xương và đang điều trị với <b>Alendronate 70 mg mỗi tuần</b>, cùng với bổ sung Canxi và Vitamin D trong 4 năm qua. Bà đến khám định kỳ. Bệnh nhân không có gãy xương mới, tuân thủ điều trị tốt.<br><br><b>Kết quả DXA:</b> T-score cổ xương đùi cải thiện từ -2.7 → <b>-2.4</b>; cột sống từ -2.6 → <b>-2.3</b>. Bác sĩ đang cân nhắc về việc tiếp tục hay tạm ngưng điều trị Bisphosphonate.",
+      "questions": [
+        {
+          "q": "Mục tiêu chính của việc theo dõi mật độ xương trong quá trình điều trị là gì?",
+          "options": [
+            "Để xem bệnh nhân có được chữa khỏi loãng xương hay không.",
+            "Để đánh giá sự tuân thủ điều trị và đáp ứng với thuốc.",
+            "Để quyết định khi nào cần phẫu thuật.",
+            "Để tầm soát ung thư xương."
+          ],
+          "answer": 1,
+          "explain": "Sự ổn định hoặc tăng mật độ xương (BMD) trên DXA cho thấy bệnh nhân đang đáp ứng tốt với liệu pháp chống hủy xương. Ngược lại, nếu BMD tiếp tục giảm đáng kể, cần phải xem xét các vấn đề về tuân thủ, hấp thu thuốc, hoặc các nguyên nhân thứ phát khác."
+        },
+        {
+          "q": "Khái niệm \"kỳ nghỉ thuốc\" (drug holiday) đối với Bisphosphonate được đề ra dựa trên cơ sở nào?",
+          "options": [
+            "Thuốc không còn hiệu quả sau một thời gian sử dụng.",
+            "Thuốc có khả năng tích lũy trong xương và tiếp tục có tác dụng bảo vệ trong một thời gian sau khi ngưng, đồng thời việc tạm ngưng có thể làm giảm nguy cơ các tác dụng phụ hiếm gặp.",
+            "Chi phí điều trị quá cao.",
+            "Bệnh nhân không muốn tiếp tục điều trị."
+          ],
+          "answer": 1,
+          "explain": "Bisphosphonate có ái lực rất cao với xương và có thời gian bán thải sinh học rất dài (nhiều năm). Sau 3–5 năm điều trị, một lượng thuốc đáng kể đã tích lũy trong bộ xương và tiếp tục phát huy tác dụng. Việc tạm ngưng thuốc (\"drug holiday\") được cân nhắc ở những bệnh nhân có nguy cơ thấp–trung bình để giảm thiểu nguy cơ các biến chứng hiếm gặp do ức chế chu chuyển xương kéo dài."
+        },
+        {
+          "q": "Một biến chứng hiếm gặp nhưng nghiêm trọng liên quan đến việc sử dụng Bisphosphonate dài hạn là gì?",
+          "options": [
+            "Suy gan cấp.",
+            "Gãy xương đùi không điển hình và hoại tử xương hàm.",
+            "Tăng huyết áp.",
+            "Sỏi thận."
+          ],
+          "answer": 1,
+          "explain": "Gãy xương đùi không điển hình (ở thân xương hoặc dưới mấu chuyển) và hoại tử xương hàm (ONJ) là hai biến chứng hiếm gặp nhưng đã được ghi nhận, liên quan đến việc sử dụng Bisphosphonate (và Denosumab) kéo dài, đặc biệt là trên 5 năm."
+        },
+        {
+          "q": "Ở bệnh nhân này, với việc đã điều trị 4 năm, mật độ xương đã cải thiện và không có gãy xương mới, thái độ xử trí nào là hợp lý?",
+          "options": [
+            "Ngừng ngay lập tức tất cả các loại thuốc.",
+            "Tiếp tục Alendronate thêm 1 năm nữa, sau đó đánh giá lại để xem xét một \"kỳ nghỉ thuốc\".",
+            "Đổi sang một loại Bisphosphonate khác.",
+            "Tăng liều Alendronate."
+          ],
+          "answer": 1,
+          "explain": "Theo hầu hết các hướng dẫn, sau 5 năm điều trị bằng Bisphosphonate đường uống, cần đánh giá lại nguy cơ của bệnh nhân. Nếu nguy cơ vẫn còn cao (ví dụ: T-score vẫn < -2.5, có gãy xương mới), nên tiếp tục điều trị. Nếu nguy cơ đã giảm xuống mức trung bình, có thể xem xét một kỳ nghỉ thuốc. Bệnh nhân này mới điều trị 4 năm, do đó việc tiếp tục thêm 1 năm nữa là hợp lý."
+        },
+        {
+          "q": "Cơ chế nào giải thích hiện tượng gãy xương đùi không điển hình?",
+          "options": [
+            "Bisphosphonate gây ra tình trạng xương quá giòn.",
+            "Việc ức chế chu chuyển xương quá mức và kéo dài có thể làm giảm khả năng sửa chữa các vi tổn thương, dẫn đến sự tích tụ các vết nứt do mỏi.",
+            "Thuốc làm yếu vỏ xương.",
+            "Do tình trạng cường cận giáp thứ phát."
+          ],
+          "answer": 1,
+          "explain": "Chu chuyển xương là một quá trình sinh lý bình thường giúp sửa chữa các vi tổn thương tích tụ trong quá trình hoạt động hàng ngày. Bisphosphonate ức chế mạnh quá trình này. Giả thuyết cho rằng việc ức chế quá mức và kéo dài có thể làm suy giảm khả năng tự sửa chữa của xương, dẫn đến sự tích tụ các vết nứt vi thể và cuối cùng gây ra một gãy xương do mỏi (stress fracture) ở vỏ xương đùi, nơi chịu lực căng lớn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi bệnh Crohn, đau lưng sau nâng vật nặng",
+      "body": "Bệnh nhân nam 45 tuổi, đến khám vì đau lưng sau khi nâng một vật nặng. Bệnh nhân bị <b>bệnh Crohn (bệnh viêm ruột)</b> và đã phải dùng Prednisolone liều cao nhiều đợt trong 10 năm qua. Bệnh nhân cũng có thói quen hút thuốc lá và uống rượu.<br><br><b>Khám:</b> đau chói khi ấn vào gai sau đốt sống L1. Sức cơ và cảm giác hai chân bình thường. Bác sĩ nghi ngờ bệnh nhân bị gãy lún đốt sống do loãng xương thứ phát.",
+      "questions": [
+        {
+          "q": "Ngoài việc sử dụng Glucocorticoid, cơ chế nào khác liên quan đến bệnh Crohn có thể góp phần gây loãng xương?",
+          "options": [
+            "Tình trạng viêm hệ thống mạn tính và sự tăng các cytokine tiền viêm (TNF-α, IL-6).",
+            "Kém hấp thu Canxi và Vitamin D do viêm ruột.",
+            "Suy dinh dưỡng và cân nặng thấp.",
+            "Tất cả các cơ chế trên."
+          ],
+          "answer": 3,
+          "explain": "Bệnh viêm ruột mạn tính (IBD) gây loãng xương qua nhiều cơ chế: (1) Viêm mạn tính làm tăng các cytokine gây hủy xương; (2) Kém hấp thu các chất dinh dưỡng cần thiết cho xương; (3) Suy dinh dưỡng, thể trạng gầy; và (4) Việc thường xuyên phải sử dụng Corticosteroid."
+        },
+        {
+          "q": "Các cytokine như TNF-α và IL-6 thúc đẩy quá trình mất xương bằng cách nào?",
+          "options": [
+            "Chúng trực tiếp kích thích sự biệt hóa và hoạt động của các tế bào hủy xương (osteoclasts).",
+            "Chúng ức chế hoạt động của các tế bào tạo xương.",
+            "Chúng làm giảm sản xuất hormone sinh dục.",
+            "Cả A và B đều đúng."
+          ],
+          "answer": 3,
+          "explain": "Các cytokine tiền viêm, đặc biệt là TNF-α, IL-1 và IL-6, đóng vai trò trung tâm trong bệnh sinh của \"viêm gây mất xương\" (inflammation-induced bone loss). Chúng kích hoạt con đường RANKL/RANK, thúc đẩy tạo hủy cốt bào, đồng thời ức chế con đường Wnt/β-catenin, làm giảm sự hình thành và hoạt động của tạo cốt bào."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây được dùng để đánh giá tình trạng chu chuyển xương và có thể tăng trong các tình trạng mất xương nhanh?",
+          "options": [
+            "Nồng độ Canxi máu.",
+            "Nồng độ 25(OH)Vitamin D.",
+            "Các dấu ấn chu chuyển xương (bone turnover markers) như CTX và P1NP.",
+            "Nồng độ hormone cận giáp (PTH)."
+          ],
+          "answer": 2,
+          "explain": "Các dấu ấn chu chuyển xương là các sản phẩm được giải phóng vào máu hoặc nước tiểu trong quá trình tạo xương và hủy xương. CTX (C-terminal telopeptide of type I collagen) là dấu ấn của quá trình hủy xương, trong khi P1NP (Procollagen type 1 N-terminal propeptide) là dấu ấn của quá trình tạo xương. Nồng độ CTX tăng cao cho thấy tình trạng hủy xương đang hoạt động mạnh."
+        },
+        {
+          "q": "Đối với một bệnh nhân nam dưới 50 tuổi bị loãng xương thứ phát, việc tầm soát nguyên nhân nào khác cũng rất quan trọng?",
+          "options": [
+            "Suy sinh dục (hypogonadism).",
+            "Bệnh lý tuyến giáp.",
+            "Cường cận giáp.",
+            "Tất cả các nguyên nhân trên."
+          ],
+          "answer": 3,
+          "explain": "Loãng xương ở nam giới trẻ tuổi thường là thứ phát. Do đó, việc tìm kiếm và điều trị các nguyên nhân tiềm ẩn là bắt buộc, bao gồm suy giảm testosterone, các bệnh nội tiết khác (cường giáp, cường cận giáp, hội chứng Cushing), bệnh lý tiêu hóa và lạm dụng rượu."
+        },
+        {
+          "q": "Ngoài điều trị loãng xương, việc kiểm soát tốt bệnh Crohn có ý nghĩa gì đối với sức khỏe xương?",
+          "options": [
+            "Không có ý nghĩa gì.",
+            "Giúp giảm tình trạng viêm hệ thống, cải thiện hấp thu dinh dưỡng và giảm nhu cầu sử dụng Corticosteroid, từ đó làm chậm quá trình mất xương.",
+            "Chỉ giúp cải thiện triệu chứng tiêu hóa.",
+            "Làm tăng nguy cơ gãy xương."
+          ],
+          "answer": 1,
+          "explain": "Việc kiểm soát tốt bệnh nền là một phần không thể thiếu trong điều trị loãng xương thứ phát. Khi bệnh Crohn được kiểm soát tốt, tình trạng viêm giảm, hấp thu dinh dưỡng được cải thiện và quan trọng nhất là giảm được liều lượng hoặc ngừng sử dụng Corticosteroid, giúp bảo vệ khối lượng xương."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 80 tuổi loãng xương nặng kèm bệnh thận mạn giai đoạn 4, không dung nạp Bisphosphonate",
+      "body": "Bệnh nhân nữ 80 tuổi, bị <b>loãng xương nặng</b> với T-score cổ xương đùi <b>-3.2</b> và đã bị gãy nhiều đốt sống. Bệnh nhân có <b>bệnh thận mạn giai đoạn 4</b> (eGFR ước tính 25 mL/phút/1.73m²). Bệnh nhân không thể dung nạp Bisphosphonate đường uống do bị trào ngược dạ dày thực quản nặng. Bác sĩ đang cân nhắc lựa chọn điều trị tiếp theo.",
+      "questions": [
+        {
+          "q": "Tại sao hầu hết các thuốc Bisphosphonate đường uống và đường tĩnh mạch đều chống chỉ định hoặc cần thận trọng ở bệnh nhân có eGFR < 30–35 mL/phút?",
+          "options": [
+            "Vì thuốc có thể gây tăng huyết áp ở những bệnh nhân này.",
+            "Vì Bisphosphonate được thải trừ chủ yếu qua thận, suy thận nặng làm tăng nguy cơ tích lũy thuốc và độc tính.",
+            "Vì thuốc làm giảm nồng độ Canxi máu.",
+            "Vì thuốc không còn hiệu quả khi chức năng thận suy giảm."
+          ],
+          "answer": 1,
+          "explain": "Do Bisphosphonate được thải trừ gần như hoàn toàn qua thận, việc sử dụng chúng ở bệnh nhân suy thận nặng sẽ làm nồng độ thuốc trong máu tăng cao và kéo dài, làm tăng nguy cơ tích lũy trong xương, ức chế chu chuyển xương quá mức và có thể gây độc cho thận."
+        },
+        {
+          "q": "Thuốc nào sau đây là một lựa chọn điều trị loãng xương hiệu quả và tương đối an toàn ở bệnh nhân suy thận nặng?",
+          "options": [
+            "Alendronate.",
+            "Zoledronic acid.",
+            "Denosumab.",
+            "Raloxifene."
+          ],
+          "answer": 2,
+          "explain": "Denosumab là một kháng thể đơn dòng, không được thải trừ qua thận mà được thanh thải qua hệ thống võng nội mô. Do đó, dược động học của nó không bị ảnh hưởng bởi tình trạng suy thận. Nhiều nghiên cứu đã chứng minh Denosumab an toàn và hiệu quả ở bệnh nhân suy thận mạn, kể cả giai đoạn cuối lọc máu."
+        },
+        {
+          "q": "Denosumab có cơ chế tác dụng như thế nào?",
+          "options": [
+            "Nó là một kháng thể đơn dòng gắn và ức chế RANKL, từ đó ngăn chặn sự hình thành và hoạt động của tế bào hủy xương.",
+            "Nó gắn trực tiếp vào bề mặt xương và ức chế tế bào hủy xương.",
+            "Nó kích thích hoạt động của tế bào tạo xương.",
+            "Nó điều hòa chuyển hóa Canxi tại thận."
+          ],
+          "answer": 0,
+          "explain": "RANKL (Receptor Activator of Nuclear factor Kappa-B Ligand) là một cytokine thiết yếu cho quá trình biệt hóa, hoạt hóa và sống còn của tế bào hủy xương. Denosumab hoạt động như một chất ức chế RANKL sinh lý, ngăn không cho RANKL gắn vào thụ thể RANK trên bề mặt tế bào hủy xương, từ đó ức chế mạnh mẽ quá trình hủy xương."
+        },
+        {
+          "q": "Một nguy cơ cần được theo dõi chặt chẽ khi sử dụng Denosumab, đặc biệt ở bệnh nhân suy thận mạn, là gì?",
+          "options": [
+            "Tăng Canxi máu.",
+            "Hạ Canxi máu.",
+            "Tăng Kali máu.",
+            "Toan chuyển hóa."
+          ],
+          "answer": 1,
+          "explain": "Denosumab ức chế hủy xương rất mạnh, làm giảm dòng Canxi từ xương vào máu. Ở bệnh nhân suy thận mạn, khả năng huy động Canxi và sản xuất Vitamin D hoạt tính đã suy giảm, do đó nguy cơ bị hạ Canxi máu nặng sau khi tiêm Denosumab là rất cao. Cần phải đảm bảo bệnh nhân đủ Vitamin D và Canxi trước và trong quá trình điều trị."
+        },
+        {
+          "q": "Sau khi ngưng điều trị Denosumab, điều gì có thể xảy ra nếu không có liệu pháp kế tiếp?",
+          "options": [
+            "Mật độ xương tiếp tục tăng.",
+            "Có một hiện tượng \"dội ngược\" (rebound effect) với sự gia tăng nhanh chóng chu chuyển xương và mất xương, làm tăng nguy cơ gãy xương, đặc biệt là gãy nhiều đốt sống.",
+            "Không có gì thay đổi.",
+            "Nguy cơ hoại tử xương hàm giảm về không."
+          ],
+          "answer": 1,
+          "explain": "Tác dụng của Denosumab là có thể đảo ngược. Khi ngưng thuốc, sự ức chế RANKL kết thúc, dẫn đến một làn sóng các tế bào hủy xương mới được hình thành và hoạt động mạnh mẽ, gây mất nhanh chóng khối lượng xương đã đạt được và làm tăng nguy cơ gãy xương. Do đó, sau khi ngưng Denosumab, bắt buộc phải có một liệu pháp khác (thường là Bisphosphonate) để bảo tồn khối lượng xương."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 60 tuổi loãng xương sau mãn kinh, tư vấn dùng Alendronate",
+      "body": "Bệnh nhân nữ 60 tuổi, được chẩn đoán loãng xương sau mãn kinh (T-score <b>-2.6</b>). Bệnh nhân được bắt đầu điều trị bằng <b>Alendronate 70 mg uống mỗi tuần</b>. Bác sĩ tư vấn rất kỹ về cách uống thuốc.",
+      "questions": [
+        {
+          "q": "Hướng dẫn nào sau đây là đúng về cách uống Alendronate?",
+          "options": [
+            "Uống thuốc ngay sau bữa ăn tối.",
+            "Uống thuốc vào buổi sáng, lúc bụng đói hoàn toàn, với một ly nước đầy, và phải giữ tư thế thẳng đứng (ngồi hoặc đứng) ít nhất 30 phút.",
+            "Uống thuốc cùng với sữa hoặc nước trái cây để giảm kích ứng dạ dày.",
+            "Nhai viên thuốc trước khi nuốt."
+          ],
+          "answer": 1,
+          "explain": "Đây là hướng dẫn chuẩn và bắt buộc khi dùng các Bisphosphonate đường uống (trừ Risedronate tác dụng chậm)."
+        },
+        {
+          "q": "Tại sao phải tuân thủ nghiêm ngặt các hướng dẫn về cách uống Bisphosphonate đường uống?",
+          "options": [
+            "Để tăng cường tác dụng phụ của thuốc.",
+            "Bisphosphonate đường uống có sinh khả dụng rất thấp (< 1%) và có nguy cơ gây kích ứng, loét thực quản.",
+            "Để thuốc có vị ngon hơn.",
+            "Để giảm chi phí điều trị."
+          ],
+          "answer": 1,
+          "explain": "Các hướng dẫn này nhằm giải quyết hai vấn đề chính: (1) Tối đa hóa sự hấp thu: thuốc phải được uống lúc đói vì thức ăn, đồ uống (đặc biệt là sữa, canxi) có thể làm giảm hấp thu gần như hoàn toàn; và (2) Giảm thiểu nguy cơ loét thực quản: uống với nhiều nước và giữ tư thế thẳng giúp viên thuốc trôi qua thực quản nhanh chóng và không bị mắc kẹt lại."
+        },
+        {
+          "q": "Cơ chế gây kích ứng thực quản của Bisphosphonate đường uống là gì?",
+          "options": [
+            "Thuốc có tính acid mạnh.",
+            "Thuốc gây độc trực tiếp cho các tế bào biểu mô thực quản nếu tiếp xúc kéo dài.",
+            "Thuốc làm tăng tiết acid dạ dày.",
+            "Thuốc làm giãn cơ thắt thực quản dưới."
+          ],
+          "answer": 1,
+          "explain": "Nếu viên thuốc Bisphosphonate bị kẹt lại và tiếp xúc trực tiếp với niêm mạc thực quản trong thời gian dài, nó có thể gây ra một phản ứng viêm tại chỗ nghiêm trọng, dẫn đến viêm, trợt và loét thực quản."
+        },
+        {
+          "q": "Chống chỉ định chính của việc sử dụng Bisphosphonate đường uống là gì?",
+          "options": [
+            "Tăng huyết áp.",
+            "Các bệnh lý thực quản (co thắt tâm vị, hẹp thực quản) hoặc bệnh nhân không thể giữ tư thế thẳng đứng trong 30 phút.",
+            "Đái tháo đường.",
+            "Béo phì."
+          ],
+          "answer": 1,
+          "explain": "Do nguy cơ gây tổn thương thực quản, các thuốc này bị chống chỉ định ở những bệnh nhân có bất thường về giải phẫu hoặc chức năng của thực quản làm chậm quá trình làm rỗng, hoặc những người không có khả năng tuân thủ hướng dẫn về tư thế sau khi uống."
+        },
+        {
+          "q": "Nếu bệnh nhân không dung nạp với Alendronate đường uống, lựa chọn nào sau đây có thể được xem xét?",
+          "options": [
+            "Chuyển sang một Bisphosphonate đường uống khác.",
+            "Chuyển sang một Bisphosphonate đường tĩnh mạch (ví dụ: Zoledronic acid).",
+            "Thử các công thức bào chế khác nhau (viên sủi).",
+            "Cả B và C đều có thể là lựa chọn."
+          ],
+          "answer": 3,
+          "explain": "Nếu bệnh nhân gặp tác dụng phụ đường tiêu hóa trên không thể khắc phục, các lựa chọn bao gồm thử một loại BP đường uống khác (dung nạp có thể khác nhau), hoặc chuyển sang đường tiêm tĩnh mạch (Zoledronic acid truyền 1 lần/năm) để bỏ qua hoàn toàn đường tiêu hóa."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 82 tuổi sống trong viện dưỡng lão, thiếu hụt Vitamin D nặng",
+      "body": "Bệnh nhân nữ 82 tuổi, sống trong viện dưỡng lão, đi lại rất khó khăn, phải dùng xe lăn. Bà có tiền sử <b>sa sút trí tuệ, gãy cổ xương đùi đã phẫu thuật</b>, và loãng xương nặng. Bệnh nhân ăn uống kém, ít tiếp xúc với ánh nắng mặt trời.<br><br><b>Xét nghiệm:</b> 25(OH)Vitamin D = <b>15 nmol/L</b>.",
+      "questions": [
+        {
+          "q": "Nồng độ 25(OH)Vitamin D của bệnh nhân cho thấy tình trạng gì?",
+          "options": [
+            "Bình thường.",
+            "Không đủ (Insufficiency).",
+            "Thiếu hụt (Deficiency).",
+            "Ngộ độc."
+          ],
+          "answer": 2,
+          "explain": "Theo hầu hết các hướng dẫn, nồng độ 25(OH)D < 30 nmol/L (< 12 ng/mL) được coi là thiếu hụt, một tình trạng cần được điều trị tích cực. Người lớn tuổi, sống trong nhà và ít ra ngoài là nhóm có nguy cơ rất cao."
+        },
+        {
+          "q": "Hậu quả chính của tình trạng thiếu hụt Vitamin D nặng và kéo dài ở người lớn là gì?",
+          "options": [
+            "Bệnh còi xương (Rickets).",
+            "Nhuyễn xương (Osteomalacia).",
+            "Bệnh Paget xương.",
+            "Loạn sản xơ xương."
+          ],
+          "answer": 1,
+          "explain": "Nhuyễn xương là \"phiên bản người lớn\" của bệnh còi xương ở trẻ em. Cả hai đều do thiếu Vitamin D gây ra."
+        },
+        {
+          "q": "Cơ chế sinh bệnh của nhuyễn xương là gì?",
+          "options": [
+            "Sự gia tăng quá mức hoạt động của tế bào hủy xương.",
+            "Sự khiếm khuyết trong quá trình khoáng hóa chất nền xương mới được tạo ra, dẫn đến xương mềm và yếu.",
+            "Sự phá hủy cấu trúc bè xương.",
+            "Sự hình thành các gai xương lớn."
+          ],
+          "answer": 1,
+          "explain": "Vitamin D cần thiết cho việc hấp thu Canxi và Phosphat. Khi thiếu Vitamin D, nồng độ Canxi và Phosphat trong máu giảm, không đủ để quá trình khoáng hóa (lắng đọng hydroxyapatite) vào chất nền collagen của xương (osteoid) diễn ra bình thường. Kết quả là chất nền xương không được cứng hóa, làm xương trở nên mềm."
+        },
+        {
+          "q": "Ngoài yếu cơ và đau xương lan tỏa, triệu chứng nào khác có thể gặp trong hạ Canxi máu do thiếu Vitamin D?",
+          "options": [
+            "Táo bón.",
+            "Tê bì quanh miệng và đầu chi, dấu Chvostek và Trousseau dương tính.",
+            "Tăng phản xạ gân xương.",
+            "Sỏi thận."
+          ],
+          "answer": 1,
+          "explain": "Hạ Canxi máu làm tăng tính kích thích của màng tế bào thần kinh-cơ. Điều này gây ra các triệu chứng co cứng cơ (tetany), biểu hiện bằng cảm giác tê bì, dị cảm, và có thể gây ra các dấu hiệu đặc trưng như dấu Chvostek (co cơ mặt khi gõ vào dây VII) và Trousseau (co cơ bàn tay khi bơm căng băng đo huyết áp)."
+        },
+        {
+          "q": "Phác đồ điều trị ban đầu cho tình trạng thiếu hụt Vitamin D nặng ở bệnh nhân này là gì?",
+          "options": [
+            "Khuyên bệnh nhân ra ngoài phơi nắng nhiều hơn.",
+            "Bổ sung Canxi liều cao đơn thuần.",
+            "Bổ sung Vitamin D liều nạp (loading dose) trong vài tuần, sau đó duy trì liều hàng ngày.",
+            "Chỉ cần chế độ ăn giàu Vitamin D."
+          ],
+          "answer": 2,
+          "explain": "Đối với thiếu hụt nặng, cần phải có một giai đoạn điều trị tấn công (liều nạp) để nhanh chóng phục hồi kho dự trữ Vitamin D của cơ thể, thường dùng liều cao hàng tuần trong 6–8 tuần. Sau đó, chuyển sang liều duy trì (thường là 800–2000 IU/ngày) để ngăn ngừa tái phát."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 70 tuổi loãng xương nặng, gãy nhiều đốt sống, cân nhắc thuốc tạo xương",
+      "body": "Bệnh nhân nữ 70 tuổi, bị <b>loãng xương nặng</b> (T-score <b>-3.5</b>) và đã bị gãy nhiều đốt sống gây đau lưng mạn tính. Bệnh nhân có nguy cơ gãy xương trong tương lai được đánh giá là rất cao. Bác sĩ quyết định sử dụng một loại thuốc có <b>tác dụng đồng hóa (tạo xương)</b>.",
+      "questions": [
+        {
+          "q": "Thuốc nào sau đây thuộc nhóm thuốc đồng hóa, có tác dụng kích thích trực tiếp các tế bào tạo xương?",
+          "options": [
+            "Alendronate.",
+            "Denosumab.",
+            "Teriparatide.",
+            "Raloxifene."
+          ],
+          "answer": 2,
+          "explain": "Teriparatide (và Abaloparatide) là các thuốc thuộc nhóm đồng hóa. Không giống như các thuốc chống hủy xương, chúng trực tiếp kích thích sự hình thành xương mới, làm tăng cả mật độ và cải thiện vi cấu trúc xương."
+        },
+        {
+          "q": "Teriparatide là một dạng tái tổ hợp của phần hoạt động của hormone nào?",
+          "options": [
+            "Calcitonin.",
+            "Hormone cận giáp (PTH).",
+            "Estrogen.",
+            "Hormone tăng trưởng (GH)."
+          ],
+          "answer": 1,
+          "explain": "Teriparatide là đoạn peptide 1–34 của hormone cận giáp người, là phần có hoạt tính sinh học chính của hormone này."
+        },
+        {
+          "q": "Cơ chế \"nghịch lý\" nào giải thích tại sao việc tiêm PTH từng đợt lại có tác dụng tạo xương, trong khi tình trạng cường cận giáp mạn tính lại gây mất xương?",
+          "options": [
+            "Việc tiêm từng đợt ưu tiên kích thích hoạt động của tế bào tạo xương, trong khi nồng độ PTH tăng cao liên tục lại ưu tiên kích thích tế bào hủy xương.",
+            "Teriparatide có cấu trúc khác với PTH nội sinh.",
+            "Cơ chế này vẫn chưa được hiểu rõ.",
+            "Do sự khác biệt về đường dùng thuốc."
+          ],
+          "answer": 0,
+          "explain": "Đây là một hiệu ứng phụ thuộc vào thời gian. Nồng độ PTH tăng cao liên tục (như trong bệnh cường cận giáp) sẽ kích thích RANKL, thúc đẩy hủy xương. Ngược lại, việc tiêm PTH dưới da một lần mỗi ngày tạo ra một đỉnh nồng độ ngắn, được chứng minh là có tác dụng ưu tiên lên các tế bào tạo xương, kích thích chúng hoạt động và sống lâu hơn, trong khi ít ảnh hưởng đến tế bào hủy xương."
+        },
+        {
+          "q": "Thời gian điều trị tối đa được khuyến cáo cho Teriparatide là bao lâu?",
+          "options": [
+            "6 tháng.",
+            "1 năm.",
+            "2 năm.",
+            "Không giới hạn."
+          ],
+          "answer": 2,
+          "explain": "Do các nghiên cứu trên động vật cho thấy nguy cơ (mặc dù rất thấp) phát triển ung thư xương (osteosarcoma) khi dùng kéo dài, thời gian điều trị bằng Teriparatide và các thuốc tương tự hiện được giới hạn ở mức tối đa là 24 tháng trong suốt cuộc đời của một người."
+        },
+        {
+          "q": "Sau khi kết thúc một liệu trình điều trị bằng thuốc tạo xương, cần phải làm gì để bảo tồn khối lượng xương đã đạt được?",
+          "options": [
+            "Không cần làm gì thêm.",
+            "Bắt đầu ngay sau đó một liệu pháp chống hủy xương (ví dụ: Bisphosphonate hoặc Denosumab).",
+            "Chỉ cần bổ sung Canxi và Vitamin D.",
+            "Lặp lại một liệu trình Teriparatide khác ngay lập tức."
+          ],
+          "answer": 1,
+          "explain": "Tác dụng tạo xương của Teriparatide sẽ mất đi nhanh chóng sau khi ngưng thuốc nếu không có liệu pháp kế tiếp. Do đó, việc \"khóa lại\" khối lượng xương mới tạo ra bằng cách bắt đầu ngay một thuốc chống hủy xương là một phần bắt buộc của phác đồ điều trị tuần tự."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 80 tuổi ngã tại nhà, đau nhiều vùng háng trái, không thể đứng dậy",
+      "body": "Bệnh nhân nam 80 tuổi, được đưa vào viện sau khi trượt chân ngã tại nhà và không thể đứng dậy được. Bệnh nhân than đau nhiều vùng háng bên trái.<br><br><b>Khám:</b> ý thức tỉnh, đau đớn. <b>Chân trái ngắn hơn chân phải và xoay ngoài.</b> Ấn và vận động khớp háng trái gây đau chói. Mạch mu chân trái bắt rõ.<br><br><b>Tiền sử:</b> loãng xương nhưng không điều trị.",
+      "questions": [
+        {
+          "q": "Dựa vào triệu chứng lâm sàng, chẩn đoán có khả năng cao nhất là gì?",
+          "options": [
+            "Trật khớp háng.",
+            "Gãy cổ xương đùi.",
+            "Bong gân khớp háng.",
+            "Đụng dập phần mềm."
+          ],
+          "answer": 1,
+          "explain": "Tư thế chi ngắn lại và xoay ngoài là dấu hiệu lâm sàng kinh điển của gãy cổ xương đùi do sự co kéo của các cơ và tác dụng của trọng lực lên đoạn chi bị gãy."
+        },
+        {
+          "q": "\"Gãy xương do loãng xương\" (fragility fracture) được định nghĩa là gì?",
+          "options": [
+            "Gãy xương xảy ra sau một chấn thương rất nặng như tai nạn xe cộ.",
+            "Gãy xương xảy ra do một lực chấn thương nhẹ, tương đương hoặc thấp hơn lực khi ngã từ tư thế đứng.",
+            "Chỉ bao gồm gãy xương cột sống.",
+            "Bất kỳ gãy xương nào ở người trên 50 tuổi."
+          ],
+          "answer": 1,
+          "explain": "Đây là định nghĩa chuẩn của gãy xương do loãng xương (hay gãy xương do chấn thương nhẹ). Nó cho thấy bộ xương đã trở nên yếu đến mức không thể chịu được những lực tác động mà một bộ xương khỏe mạnh bình thường có thể chịu được."
+        },
+        {
+          "q": "Tại sao gãy cổ xương đùi lại là một biến cố nghiêm trọng ở người lớn tuổi?",
+          "options": [
+            "Nó thường dẫn đến phẫu thuật lớn, mất khả năng vận động, và tăng đáng kể nguy cơ biến chứng (nhiễm trùng, huyết khối) cũng như tỷ lệ tử vong.",
+            "Nó luôn luôn lành tốt mà không cần phẫu thuật.",
+            "Nó không gây đau.",
+            "Nó hiếm khi xảy ra."
+          ],
+          "answer": 0,
+          "explain": "Gãy cổ xương đùi là một biến cố thảm họa. Tỷ lệ tử vong trong năm đầu tiên sau gãy xương có thể lên tới 20–30%. Phần lớn những người sống sót sẽ bị mất khả năng đi lại độc lập, cần sự trợ giúp lâu dài và có chất lượng cuộc sống suy giảm nghiêm trọng."
+        },
+        {
+          "q": "Cơ chế nào giải thích tại sao loãng xương làm tăng nguy cơ gãy cổ xương đùi?",
+          "options": [
+            "Loãng xương làm thay đổi hình dạng của chỏm xương đùi.",
+            "Loãng xương làm giảm khối lượng và làm mỏng vỏ xương, phá hủy vi cấu trúc của các bè xương chịu lực ở vùng cổ xương đùi, làm cho nó không chịu được lực tác động khi ngã.",
+            "Loãng xương gây ra tình trạng viêm tại khớp háng.",
+            "Loãng xương làm yếu các cơ xung quanh khớp háng."
+          ],
+          "answer": 1,
+          "explain": "Cổ xương đùi là một vị trí chịu lực phức tạp. Loãng xương làm giảm số lượng và độ dày của các bè xương, phá vỡ các kết nối ngang, tạo ra một cấu trúc vi thể yếu ớt. Khi một người lớn tuổi ngã và tác động lực trực tiếp lên vùng mấu chuyển lớn, một cấu trúc xương yếu như vậy sẽ không thể hấp thụ được năng lượng và bị gãy."
+        },
+        {
+          "q": "Sau khi bệnh nhân được phẫu thuật và ổn định, chiến lược nào là quan trọng nhất để ngăn ngừa gãy xương lần thứ hai?",
+          "options": [
+            "Bất động bệnh nhân tại giường càng lâu càng tốt.",
+            "Bắt đầu một chương trình phục hồi chức năng toàn diện và điều trị loãng xương một cách tích cực.",
+            "Chỉ cần cho bệnh nhân về nhà và tự theo dõi.",
+            "Khuyên bệnh nhân tránh đi lại hoàn toàn."
+          ],
+          "answer": 1,
+          "explain": "Một lần gãy xương do loãng xương là yếu tố dự báo mạnh mẽ nhất cho một lần gãy xương tiếp theo (nguy cơ gãy xương tái phát). Do đó, việc xác định và điều trị loãng xương một cách tích cực sau lần gãy xương đầu tiên, kết hợp với các biện pháp phòng chống té ngã và phục hồi chức năng, là cực kỳ quan trọng để phá vỡ \"dòng thác gãy xương\"."
+        }
+      ]
+    }
+  ]
+}
