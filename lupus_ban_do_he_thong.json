@@ -1,0 +1,333 @@
+{
+  "name": "Lupus ban đỏ hệ thống",
+  "description": "Bộ case lâm sàng ôn thi nội trú về Lupus ban đỏ hệ thống (SLE): chẩn đoán, phân loại, đánh giá hoạt động bệnh và điều trị theo EULAR/ACR",
+  "level": "Ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "cases": [
+    {
+      "title": "Phụ nữ 26 tuổi sốt kéo dài, đau khớp và ban đỏ ở mặt",
+      "body": "<b>Hành chính:</b> Nữ, 26 tuổi, giáo viên tiểu học.<br><br><b>Lý do vào viện:</b> Sốt 3 tuần, đau khớp và nổi ban đỏ ở mặt.<br><br><b>Bệnh sử:</b> 3 tuần nay bệnh nhân sốt dao động 38–38,5°C, không có đỉnh rõ, kháng sinh uống không giảm. Kèm đau nhức các khớp nhỏ bàn tay hai bên, cứng khớp buổi sáng khoảng 30 phút. Xuất hiện ban đỏ vùng hai má lan qua sống mũi sau khi đi ngoài nắng. Mệt mỏi, sụt 3 kg trong 1 tháng. Không có ho, khó thở, tiểu buốt.<br><br><b>Tiền sử:</b> Khỏe mạnh. Kinh nguyệt đều. Chưa có thai. Không dùng thuốc thường xuyên.<br><br><b>Khám lâm sàng:</b> Sinh hiệu: M 96 l/ph, HA 115/75 mmHg, T° 38,2°C, SpO₂ 98%. Ban đỏ phẳng, màu hồng vùng hai má và sống mũi, <b>không lan vào rãnh mũi-miệng</b>. Khớp bàn ngón tay 2–4 hai bên: sưng nhẹ, ấn đau. Không phù, không hạch to rõ.<br><br><b>Cận lâm sàng:</b> CBC: BC 2,8 G/L (lympho 0,9 G/L), HC bình sắc kích thước bình thường, Hb 10,2 g/dL, TC 98 G/L. CRP 12 mg/L, TML 65 mm/h. Creatinine 82 µmol/L. <b>Tổng phân tích nước tiểu: bình thường.</b> XQ bàn tay: không bào mòn, không hẹp khe khớp.",
+      "questions": [
+        {
+          "q": "Đặc điểm nào của ban đỏ trên bệnh nhân này CÓ GIÁ TRỊ NHẤT để hướng đến chẩn đoán Lupus ban đỏ hệ thống?",
+          "options": [
+            "Ban xuất hiện sau tiếp xúc ánh nắng, phẳng, màu hồng, không lan vào rãnh mũi-miệng",
+            "Ban có hình tròn, viền nhô lên, tâm teo, xuất hiện ở mặt và da đầu",
+            "Ban đỏ khu trú một vùng, bong vảy, vị trí tai và cổ",
+            "Ban nổi đột ngột toàn thân sau sốt, kèm hạch to"
+          ],
+          "answer": 0,
+          "explain": "<b>Ban cánh bướm (malar rash)</b> là tổn thương da đặc trưng của thể cấp tính SLE: ban phẳng màu hồng, xuất hiện sau tiếp xúc UV, bắc qua hai má và sống mũi nhưng <b>không lan vào rãnh mũi-miệng</b> — đây là điểm phân biệt quan trọng với rosacea. Đáp án B mô tả ban dạng đĩa (discoid) — thể bán cấp/mạn tính, có tâm teo và viền gờ. Đáp án C mô tả lupus da mạn khu trú. Đáp án D gợi ý ban do virus hoặc bệnh lý khác."
+        },
+        {
+          "q": "Áp dụng tiêu chuẩn ACR 1997, bệnh nhân hiện thỏa mãn những tiêu chuẩn nào? Chọn TẤT CẢ các đáp án đúng:",
+          "type": "multi",
+          "options": [
+            "Ban đỏ hình cánh bướm",
+            "Nhạy cảm với ánh nắng",
+            "Viêm đa khớp không có bào mòn trên Xquang",
+            "Rối loạn về máu (giảm BC lympho và giảm tiểu cầu)",
+            "Tổn thương thận (protein niệu > 0,5g/24h)"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explain": "<b>A (Ban cánh bướm):</b> Đúng — ban hồng sau UV, không lan vào rãnh mũi-miệng. <b>B (Nhạy cảm ánh nắng):</b> Đúng — ban xuất hiện sau tiếp xúc ánh nắng. <b>C (Viêm đa khớp không bào mòn):</b> Đúng — khớp bàn ngón 2–4 hai bên sưng đau, XQ không có bào mòn/hẹp khe. <b>D (Rối loạn máu):</b> Đúng — lympho 0,9 G/L < 1,5 G/L VÀ TC 98 G/L < 100 G/L, cả hai đều thỏa tiêu chuẩn 9. <b>E:</b> Sai — nước tiểu bình thường, chưa thỏa tiêu chuẩn thận. Bệnh nhân đã có 4 tiêu chuẩn ACR 1997 → đủ điều kiện chẩn đoán xác định."
+        },
+        {
+          "q": "Xét nghiệm nào cần ưu tiên chỉ định TIẾP THEO để vừa xác nhận chẩn đoán vừa đánh giá mức độ hoạt động bệnh?",
+          "options": [
+            "ANA, anti-dsDNA, anti-Sm, C3, C4 và protein niệu 24 giờ",
+            "RF, anti-CCP, siêu âm khớp bàn tay hai bên",
+            "Cấy máu, cấy nước tiểu, procalcitonin, X-quang ngực",
+            "Anti-Ro, anti-La, sinh thiết tuyến nước bọt, Schirmer test"
+          ],
+          "answer": 0,
+          "explain": "<b>ANA</b> là xét nghiệm sàng lọc (nhạy 95–99%); <b>anti-dsDNA</b> liên quan trực tiếp đến hoạt động bệnh và tổn thương thận; <b>anti-Sm</b> đặc hiệu nhất cho SLE (~99%); <b>C3, C4 giảm</b> trong đợt cấp (đặc biệt khi có VTL); <b>protein niệu 24h</b> sàng lọc tổn thương thận sớm. Bộ xét nghiệm này vừa xác nhận chẩn đoán vừa phân tầng nguy cơ. Đáp án B phù hợp hơn cho VKDT. Đáp án C ưu tiên khi nghi NK gây sốt nhưng không đặc hiệu cho SLE. Đáp án D hướng đến HC Sjögren nguyên phát."
+        },
+        {
+          "q": "Kết quả trả về: ANA 1/320 (+), anti-dsDNA 450 IU/mL (tăng cao), anti-Sm (+), C3 62 mg/dL (giảm), C4 8 mg/dL (giảm), protein niệu 24h = 0,3 g/ngày. Điều trị ban đầu phù hợp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Hydroxychloroquine 200 mg/ngày + Prednisolone 10 mg/ngày",
+            "Hydroxychloroquine 200 mg/ngày đơn trị, chưa cần thêm thuốc",
+            "Methylprednisolone bolus 500 mg/ngày × 3 ngày sau đó Mycophenolate mofetil",
+            "Cyclophosphamide 0,75 g/m² IV ngay lập tức kết hợp Prednisolone 1 mg/kg/ngày"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có biểu hiện da, khớp, rối loạn máu và protein niệu < 0,5g/24h — phù hợp <b>thể nhẹ đến trung bình không có tổn thương nội tạng đe dọa tính mạng</b>. Theo EULAR: <b>HCQ là thuốc nền tảng cho mọi BN SLE</b> (không CCĐ); kết hợp GC liều thấp (< 20 mg/ngày) cho đợt tiến triển nhẹ-trung bình. Đáp án B thiếu GC trong khi bệnh đang tiến triển với C3/C4 giảm và anti-dsDNA cao. Đáp án C và D dành cho thể nặng có tổn thương nội tạng đe dọa tính mạng (VTL type III/IV, tổn thương TK, chảy máu phổi) — không phù hợp ở đây."
+        },
+        {
+          "q": "Sau 4 tuần điều trị, bệnh nhân hết sốt, ban da cải thiện. Bác sĩ dặn bệnh nhân về chế độ sinh hoạt. Những khuyến cáo nào sau đây là ĐÚNG? Chọn TẤT CẢ các đáp án đúng:",
+          "type": "multi",
+          "options": [
+            "Dùng kem chống nắng SPF ≥ 30 hàng ngày, tránh ra nắng giờ cao điểm",
+            "Tiêm phòng cúm hàng năm và phế cầu để phòng nhiễm khuẩn cơ hội",
+            "Ngừng hydroxychloroquine ngay khi bệnh lui vì thuốc gây độc võng mạc",
+            "Tránh thai trong giai đoạn bệnh chưa ổn định ít nhất 6–12 tháng",
+            "Tập thể dục đều đặn (aerobic, bơi lội) giúp cải thiện mệt mỏi và chất lượng sống"
+          ],
+          "answer": [
+            0,
+            1,
+            3,
+            4
+          ],
+          "explain": "<b>A (Chống nắng):</b> Đúng — UV là yếu tố khởi phát đợt cấp, tránh nắng và dùng SPF ≥ 30 là khuyến cáo bắt buộc. <b>B (Tiêm phòng):</b> Đúng — BN dùng UCMD tăng nguy cơ NK; cúm hàng năm và phế cầu 5 năm/lần được khuyến cáo (tránh vacxin sống khi UCMD mạnh). <b>C:</b> Sai — <b>HCQ là thuốc nền tảng dùng lâu dài</b>; không ngừng khi bệnh lui. Nguy cơ độc võng mạc chỉ xảy ra sau > 5 năm ở liều cao → theo dõi bằng soi đáy mắt hàng năm sau 5 năm, không ngừng thuốc. <b>D (Tránh thai):</b> Đúng — chỉ khuyên có thai khi không có TC lâm sàng và xét nghiệm ổn định ít nhất 6–12 tháng. <b>E (Tập thể dục):</b> Đúng — vận động phù hợp cải thiện mệt mỏi, loãng xương và chất lượng sống."
+        }
+      ]
+    },
+    {
+      "title": "Phụ nữ 31 tuổi phù toàn thân, tiểu ít sau đợt ban da tái phát",
+      "body": "<b>Hành chính:</b> Nữ, 31 tuổi, kế toán. Được chẩn đoán Lupus ban đỏ hệ thống 2 năm trước, đang uống Hydroxychloroquine 200 mg/ngày + Prednisolone 5 mg/ngày.<br><br><b>Lý do vào viện:</b> Phù mặt và hai chân tăng dần 2 tuần, tiểu ít, bọt nhiều.<br><br><b>Bệnh sử:</b> 3 tuần trước bệnh nhân tự ý ngừng thuốc vì cảm thấy ổn. 2 tuần nay phù mặt buổi sáng, phù mắt cá chân tăng dần, tiểu bọt nhiều. Sốt nhẹ 37,8°C. Không đau ngực, không khó thở khi nằm.<br><br><b>Tiền sử:</b> SLE chẩn đoán 2 năm trước. Không tiền sử đái tháo đường, không THA trước đây.<br><br><b>Khám lâm sàng:</b> Sinh hiệu: M 88 l/ph, HA 148/95 mmHg, T° 37,8°C. Phù mặt (+++), phù hai chi dưới (++), không phù phổi. Loét miệng nhỏ không đau ở niêm mạc má phải. Ban đỏ mờ hai má. Không cổ chướng.<br><br><b>Cận lâm sàng:</b> CBC: Hb 9,8 g/dL, BC 3,1 G/L, lympho 0,8 G/L, TC 82 G/L. Creatinine 186 µmol/L (nền 78 µmol/L). Albumin máu 21 g/L. C3 42 mg/dL (giảm), C4 5 mg/dL (giảm). Anti-dsDNA 1.240 IU/mL (tăng rất cao). <b>Protein niệu 24h: 5,8 g/ngày.</b> Tổng phân tích nước tiểu: protein (+++), hồng cầu (+), trụ hồng cầu (+).",
+      "questions": [
+        {
+          "q": "Biểu hiện lâm sàng và xét nghiệm của bệnh nhân phù hợp nhất với hội chứng nào?",
+          "options": [
+            "Hội chứng thận hư trong đợt bùng phát lupus",
+            "Viêm cầu thận cấp hậu nhiễm liên cầu",
+            "Suy tim mất bù do viêm cơ tim lupus",
+            "Tổn thương thận cấp do thuốc NSAIDs"
+          ],
+          "answer": 0,
+          "explain": "<b>Hội chứng thận hư</b> được đặc trưng bởi: protein niệu > 3,5g/24h, albumin < 30 g/L, phù, tăng lipid máu. Bệnh nhân có protein niệu 5,8g/24h + albumin 21 g/L + phù toàn thân trong bối cảnh SLE bùng phát (anti-dsDNA tăng rất cao, C3/C4 giảm, tự ngừng thuốc) → HCTH trong VTL. Trụ hồng cầu gợi ý tổn thương cầu thận tích cực. Đáp án B thường sau nhiễm khuẩn họng 1–3 tuần, không có bối cảnh SLE. Đáp án C cần CK, CK-MB tăng và siêu âm tim bất thường. Đáp án D không giải thích được anti-dsDNA và bổ thể giảm."
+        },
+        {
+          "q": "Bước xử trí THIẾT YẾU nhất cần thực hiện TRƯỚC KHI quyết định phác đồ ức chế miễn dịch mạnh cho bệnh nhân này là gì?",
+          "options": [
+            "Sinh thiết thận để phân loại type viêm thận lupus",
+            "Siêu âm tim để loại trừ tràn dịch màng ngoài tim",
+            "Đo lọc cầu thận (eGFR/MLCT) để điều chỉnh liều thuốc",
+            "Chụp CT bụng để loại trừ huyết khối tĩnh mạch thận"
+          ],
+          "answer": 0,
+          "explain": "<b>Sinh thiết thận là bắt buộc</b> trước khi chỉ định UCMD mạnh trong VTL vì: (1) Phân loại type I–VI theo WHO/ISN-RPS → quyết định hoàn toàn phác đồ điều trị; (2) <b>Type III/IV</b> (tăng sinh ổ/lan tỏa — nặng nhất) cần CYC/MMF + GC liều cao; <b>Type V</b> (màng) có thể chỉ cần MMF + GC; <b>Type II</b> (gian mạch) nhẹ hơn. Bỏ qua sinh thiết có thể dẫn đến điều trị không đủ hoặc quá mức. Đáp án B, C, D có ích nhưng không thay đổi quyết định chọn phác đồ UCMD."
+        },
+        {
+          "q": "Sinh thiết thận kết quả: Viêm cầu thận tăng sinh lan tỏa (type IV), có hoạt động và xơ hóa. Phác đồ tấn công nào phù hợp nhất theo EULAR/ACR?",
+          "options": [
+            "Methylprednisolone pulse 500 mg IV × 3 ngày, sau đó Prednisolone 0,5 mg/kg/ngày + Mycophenolate mofetil 3 g/ngày",
+            "Prednisolone 0,5 mg/kg/ngày đơn trị kết hợp tăng liều Hydroxychloroquine",
+            "Mycophenolate mofetil 3 g/ngày đơn trị, không cần corticoid vì nguy cơ tác dụng phụ",
+            "Azathioprine 2 mg/kg/ngày kết hợp Prednisolone 0,5 mg/kg/ngày"
+          ],
+          "answer": 0,
+          "explain": "<b>VTL type IV (tăng sinh lan tỏa) là thể nặng nhất</b>, có nguy cơ tiến triển suy thận cao nếu không điều trị đủ mạnh. Theo EULAR 2023: <b>GC pulse/liều cao + MMF 2–3g/ngày là lựa chọn đầu tiên</b> trong giai đoạn tấn công. Methylprednisolone pulse IV dành cho đợt nặng/cấp tính. Đáp án B thiếu UCMD đặc hiệu — không đủ mạnh cho type IV. Đáp án C: MMF đơn trị không đủ — cần GC để kiểm soát viêm cấp. Đáp án D: AZA là thuốc <b>duy trì</b>, không dùng trong tấn công type IV; AZA kém hiệu quả hơn MMF/CYC cho VTL nặng."
+        },
+        {
+          "q": "Sau 6 tháng điều trị tấn công, bệnh nhân đáp ứng tốt (protein niệu giảm còn 0,6 g/ngày, creatinine về 95 µmol/L). Phác đồ DUY TRÌ tiếp theo phù hợp nhất là gì?",
+          "options": [
+            "Hydroxychloroquine + Mycophenolate mofetil 1,5–2 g/ngày + Prednisolone liều thấp (≤ 7,5 mg/ngày)",
+            "Ngừng tất cả thuốc vì bệnh nhân đã lui bệnh hoàn toàn sau tấn công",
+            "Cyclophosphamide IV liều thấp 3g/3 tháng tiếp tục duy trì dài hạn",
+            "Hydroxychloroquine đơn trị liều 400 mg/ngày, ngừng corticoid và MMF"
+          ],
+          "answer": 0,
+          "explain": "Giai đoạn duy trì VTL sau tấn công thành công: <b>HCQ (nền tảng không ngừng) + MMF 1,5–2g/ngày (hoặc AZA) + GC liều thấp nhất có thể (mục tiêu ≤ 5–7,5 mg/ngày)</b>. Thời gian duy trì thường ≥ 3 năm sau lui bệnh hoàn toàn. Đáp án B nguy hiểm — ngừng thuốc sớm là nguyên nhân chính tái phát và tiến triển suy thận (đây là lý do bệnh nhân bùng phát lần này). Đáp án C: CYC dài hạn tích lũy độc tính (suy buồng trứng, viêm bàng quang xuất huyết, ung thư bàng quang). Đáp án D: thiếu UCMD đặc hiệu — HCQ đơn trị không đủ để ngăn tái phát VTL."
+        },
+        {
+          "q": "Bệnh nhân hỏi về khả năng mang thai. Các điều kiện nào cần ĐÁP ỨNG trước khi tư vấn cho phép mang thai? Chọn TẤT CẢ các đáp án đúng:",
+          "type": "multi",
+          "options": [
+            "Không có triệu chứng lâm sàng và xét nghiệm ổn định liên tục 6–12 tháng",
+            "Sinh thiết thận xác nhận không còn VTL tăng sinh hoạt động",
+            "Chuyển sang Azathioprine thay thế Mycophenolate mofetil trước khi mang thai",
+            "Ngừng Hydroxychloroquine vì có nguy cơ độc tính cho thai nhi",
+            "MLCT (eGFR) > 50 mL/phút và huyết áp kiểm soát tốt < 140/90 mmHg"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "explain": "<b>A:</b> Đúng — chỉ khuyên có thai khi bệnh ổn định ít nhất 6–12 tháng. <b>B:</b> Đúng — sinh thiết xác nhận không còn VTL tăng sinh là yêu cầu trước khi mang thai với BN có tiền sử VTL. <b>C:</b> Đúng — <b>MMF TUYỆT ĐỐI KHÔNG dùng khi có thai</b> (gây dị tật thai: tai nhỏ, hở hàm ếch, khuyết tật tim); cần chuyển sang AZA ít nhất 3 tháng trước khi thử thai. <b>D:</b> Sai — <b>HCQ AN TOÀN và được khuyến cáo tiếp tục khi mang thai</b>; có tác dụng bảo vệ ngăn bùng phát và lupus sơ sinh. <b>E:</b> Đúng — MLCT < 50 mL/phút và THA nặng là CCĐ mang thai trong lupus."
+        }
+      ]
+    },
+    {
+      "title": "Phụ nữ 34 tuổi đau đầu dữ dội và co giật tại nhà",
+      "body": "<b>Hành chính:</b> Nữ, 34 tuổi, nhân viên văn phòng. Tiền sử SLE 3 năm, đang điều trị Hydroxychloroquine 200 mg/ngày + Prednisolone 10 mg/ngày.<br><br><b>Lý do vào viện:</b> Co giật toàn thể 1 lần tại nhà, đau đầu dữ dội 3 ngày trước đó.<br><br><b>Bệnh sử:</b> 3 ngày nay đau đầu dữ dội vùng trán và thái dương hai bên, không đáp ứng Paracetamol và Ibuprofen. Sáng nay co giật toàn thể 1 lần khoảng 2 phút, sau đó hồi tỉnh. Gia đình phủ nhận tiền sử động kinh. Không sốt, không rối loạn ý thức trước đó. Trong 2 tuần trước: mệt mỏi tăng, ban đỏ mặt tái phát.<br><br><b>Tiền sử:</b> SLE 3 năm. Không tiền sử động kinh, không THA. Xét nghiệm 3 tháng trước: anti-dsDNA 280 IU/mL, C3 bình thường.<br><br><b>Khám lâm sàng:</b> Sinh hiệu: M 102 l/ph, HA 158/98 mmHg, T° 37,4°C, GCS 15/15. Ban đỏ hai má. Cứng gáy âm tính. Dấu thần kinh khu trú: không có. Đáy mắt: phù gai thị nhẹ hai bên.<br><br><b>Cận lâm sàng:</b> CBC: BC 3,2 G/L, Hb 10,5 g/dL, TC 78 G/L. Creatinine 95 µmol/L, Protein niệu 24h: 0,4 g/ngày. <b>Anti-dsDNA: 920 IU/mL (tăng cao).</b> C3: 38 mg/dL (giảm). C4: 6 mg/dL (giảm). MRI não: không dấu hiệu tổn thương cấu trúc, không nhồi máu, không chảy máu.",
+      "questions": [
+        {
+          "q": "Tình trạng của bệnh nhân phù hợp nhất với chẩn đoán nào?",
+          "options": [
+            "Tổn thương thần kinh – tâm thần do Lupus (NPSLE) — co giật",
+            "Viêm màng não do nhiễm khuẩn biến chứng từ điều trị UCMD",
+            "Tai biến mạch máu não thiếu máu cục bộ do hội chứng kháng phospholipid",
+            "Động kinh nguyên phát khởi phát muộn không liên quan SLE"
+          ],
+          "answer": 0,
+          "explain": "<b>NPSLE — co giật</b> là chẩn đoán phù hợp nhất: (1) SLE đang bùng phát (anti-dsDNA tăng 3× so với 3 tháng trước, C3/C4 giảm sâu, ban mặt tái phát); (2) Đau đầu lupus (SLEDAI 8đ): đau đầu dữ dội, không đáp ứng thuốc giảm đau thông thường; (3) Co giật mới xuất hiện không tìm thấy nguyên nhân khác sau MRI âm tính; (4) Loại trừ nhiễm khuẩn (cứng gáy âm tính, không sốt). Đáp án B có thể nhưng ít khả năng hơn — cứng gáy âm tính, không sốt cao. Đáp án C cần MRI thấy tổn thương nhồi máu; thường có anti-phospholipid (+). Đáp án D không giải thích được bối cảnh bùng phát SLE."
+        },
+        {
+          "q": "Điểm SLEDAI-2K hiện tại của bệnh nhân ước tính gần nhất là bao nhiêu?",
+          "options": [
+            "Khoảng 19–21 điểm (hoạt động nặng)",
+            "Khoảng 8–10 điểm (hoạt động trung bình)",
+            "Khoảng 4–6 điểm (hoạt động nhẹ)",
+            "Khoảng 25–28 điểm (hoạt động cực nặng)"
+          ],
+          "answer": 0,
+          "explain": "Tính SLEDAI-2K: <b>Co giật (8đ) + Đau đầu lupus (8đ) + Ban mới (2đ) + Giảm bổ thể C3/C4 (2đ) + Tăng anti-dsDNA (2đ) + Giảm TC < 100 (1đ) + Giảm BC (1đ).</b> Tổng ước tính: 8 + 8 + 2 + 2 + 2 + 1 + 1 = <b>khoảng 24 điểm</b> → hoạt động rất nặng (> 12). Đáp án A (19–21) là xấp xỉ hợp lý nếu không tính một số mục không rõ ràng. Điểm > 12 = hoạt động nặng → cần điều trị tích cực."
+        },
+        {
+          "q": "Xử trí ban đầu tại cấp cứu cho bệnh nhân này bao gồm những bước nào? Chọn TẤT CẢ các đáp án đúng:",
+          "type": "multi",
+          "options": [
+            "Methylprednisolone pulse 500–1000 mg IV × 3 ngày liên tiếp",
+            "Thuốc chống co giật (benzodiazepine/valproate/levetiracetam) để kiểm soát co giật",
+            "Chọc dịch não tủy để loại trừ viêm màng não nhiễm khuẩn hoặc lao",
+            "Ngừng Hydroxychloroquine vì nghi ngờ gây co giật",
+            "Kiểm soát huyết áp (HA hiện 158/98) bằng thuốc hạ áp phù hợp"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "explain": "<b>A (GC pulse):</b> Đúng — NPSLE thể nặng (co giật, bùng phát mạnh) cần GC liều rất cao. <b>B (Chống co giật):</b> Đúng — kiểm soát co giật cấp tính là ưu tiên an toàn. <b>C (Chọc DNT):</b> Đúng — dù cứng gáy âm tính, cần loại trừ NK trong bối cảnh BN dùng GC mạn (ức chế dấu hiệu viêm); nhiều trung tâm thực hiện trước khi khởi động GC pulse. <b>D:</b> Sai — <b>HCQ không gây co giật; HCQ là thuốc nền tảng cần duy trì</b>, ngừng HCQ có thể làm nặng bệnh hơn. <b>E (Hạ áp):</b> Đúng — THA ở BN lupus thần kinh làm tăng nguy cơ TBMMN; mục tiêu HA < 130/80 mmHg."
+        },
+        {
+          "q": "Sau ổn định cấp cứu, phác đồ ức chế miễn dịch nào phù hợp nhất để điều trị NPSLE dài hạn?",
+          "options": [
+            "Hydroxychloroquine + Glucocorticoid uống + Azathioprine hoặc Cyclophosphamide",
+            "Hydroxychloroquine + Glucocorticoid uống đơn trị, không cần thêm UCMD",
+            "Methotrexate tuần + Hydroxychloroquine, không cần Glucocorticoid dài hạn",
+            "Mycophenolate mofetil đơn trị liều 2g/ngày, không cần Glucocorticoid"
+          ],
+          "answer": 0,
+          "explain": "Theo hướng dẫn điều trị NPSLE: <b>Glucocorticoid + Cyclophosphamide hoặc Azathioprine + Hydroxychloroquine</b> là nền tảng. CYC được ưu tiên cho NPSLE nặng (co giật tái phát, loạn thần, viêm tủy). AZA là lựa chọn nhẹ hơn hoặc dùng duy trì sau CYC. Khi không đáp ứng: Rituximab, Cyclosporin A, IVIG, lọc huyết tương. Đáp án B thiếu UCMD — không đủ mạnh cho NPSLE. Đáp án C: MTX ít bằng chứng cho NPSLE và không có GC là thiếu sót. Đáp án D: MMF chủ yếu dùng cho VTL, ít bằng chứng cho NPSLE nặng."
+        }
+      ]
+    },
+    {
+      "title": "Phụ nữ 29 tuổi sảy thai lần thứ hai, giảm tiểu cầu",
+      "body": "<b>Hành chính:</b> Nữ, 29 tuổi, nội trợ. Tiền sử SLE 4 năm, đang ổn định trên Hydroxychloroquine 200 mg/ngày.<br><br><b>Lý do vào viện:</b> Sảy thai lần 2 ở tuần thai 10, phát hiện giảm tiểu cầu nặng.<br><br><b>Bệnh sử:</b> Lần 1: sảy thai tự nhiên tuần 8 (2 năm trước), không rõ nguyên nhân. Lần 2 (hiện tại): có thai tự nhiên, siêu âm tim thai bình thường đến tuần 9, tuần 10 sảy thai. Trong thai kỳ: chân trái sưng đau 1 tuần trước sảy thai (không được chú ý). Không sốt, không ban da đợt này.<br><br><b>Tiền sử:</b> SLE 4 năm (chủ yếu biểu hiện da, khớp, đang lui bệnh). Không THA, không hút thuốc. SLEDAI gần nhất: 2 điểm.<br><br><b>Khám lâm sàng:</b> Sinh hiệu ổn. Chi dưới trái: sưng đau từ đùi đến cẳng chân, ấm, đỏ. Không ban da hoạt động. Không dấu hiệu chảy máu niêm mạc dù TC thấp.<br><br><b>Cận lâm sàng:</b> TC 44 G/L (giảm nặng), PT/INR bình thường. <b>aPTT kéo dài: 58 giây</b> (bình thường 28–40 giây). Fibrinogen bình thường. Creatinine bình thường. <b>Anti-cardiolipin IgG: 85 GPL (dương tính cao).</b> Anti-β2GP1 IgG: dương tính. Xét nghiệm kháng đông lupus: dương tính. Siêu âm Doppler chi dưới trái: <b>huyết khối tĩnh mạch đùi trái.</b>",
+      "questions": [
+        {
+          "q": "Bộ xét nghiệm kháng đông lupus (LA), anti-cardiolipin và anti-β2GP1 đều dương tính trên bệnh nhân này. Điều này giải thích nghịch lý lâm sàng nào?",
+          "options": [
+            "aPTT kéo dài trong xét nghiệm nhưng bệnh nhân lại có xu hướng đông máu (huyết khối) trên lâm sàng",
+            "Tiểu cầu giảm nhưng bệnh nhân không có biểu hiện chảy máu",
+            "Anti-dsDNA dương tính nhưng bệnh nhân không có tổn thương thận",
+            "CRP bình thường nhưng bệnh nhân vẫn có huyết khối tĩnh mạch"
+          ],
+          "answer": 0,
+          "explain": "<b>Nghịch lý trong HC kháng phospholipid:</b> Kháng thể kháng phospholipid (đặc biệt kháng đông lupus) bất hoạt prothrombinase <i>in vitro</i>, làm <b>kéo dài aPTT trong ống nghiệm</b>. Tuy nhiên <i>in vivo</i>, chúng hoạt hóa con đường đông máu, bất hoạt protein C/S, kích hoạt tiểu cầu và tế bào nội mô → <b>ưu thế TĂNG ĐÔNG, gây huyết khối</b>. Đây là cơ chế đặc trưng của HC kháng phospholipid. Đáp án B cũng có ý nghĩa lâm sàng nhưng không phải nghịch lý xét nghiệm/lâm sàng đặc trưng được hỏi ở đây. Đáp án C và D là các nhận xét khác, không liên quan nghịch lý kháng phospholipid."
+        },
+        {
+          "q": "Dựa vào tiêu chuẩn phân loại, bệnh nhân này được chẩn đoán hội chứng kháng phospholipid (APS). Những tiêu chuẩn nào bệnh nhân đã thỏa mãn? Chọn TẤT CẢ đáp án đúng:",
+          "type": "multi",
+          "options": [
+            "Huyết khối tĩnh mạch (DVT đùi trái) — tiêu chuẩn lâm sàng",
+            "Sảy thai liên tiếp ≥ 2 lần trước tuần thai 10 không rõ nguyên nhân khác — tiêu chuẩn lâm sàng",
+            "Kháng thể kháng phospholipid dương tính cao (≥ 2 loại) — tiêu chuẩn xét nghiệm",
+            "Giảm tiểu cầu < 50 G/L do cơ chế miễn dịch — tiêu chuẩn lâm sàng",
+            "aPTT kéo dài — tiêu chuẩn xét nghiệm bổ sung"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explain": "<b>A (DVT):</b> Đúng — huyết khối TM là tiêu chuẩn lâm sàng chính của APS (Sydney criteria 2006). <b>B (Sảy thai liên tiếp):</b> Đúng — ≥ 2 lần sảy thai < 10 tuần không rõ nguyên nhân là tiêu chuẩn sản khoa của APS. <b>C (KT kháng phospholipid cao, ≥ 2 loại dương tính):</b> Đúng — anti-cardiolipin IgG cao + anti-β2GP1 + kháng đông lupus đều (+), cần xác nhận lại sau 12 tuần. <b>D:</b> Sai — giảm TC tuy gặp trong APS nhưng <b>không phải tiêu chuẩn phân loại</b> trong Sydney criteria 2006/ISTH 2023. <b>E:</b> Sai — aPTT kéo dài là <i>phương tiện phát hiện</i> kháng đông lupus, không phải tiêu chuẩn phân loại độc lập."
+        },
+        {
+          "q": "Điều trị huyết khối tĩnh mạch cấp tính và dự phòng thứ phát cho bệnh nhân APS thứ phát sau SLE này là gì?",
+          "options": [
+            "Heparin không phân đoạn hoặc LMWH cấp tính, sau đó chuyển Warfarin duy trì dài hạn (INR mục tiêu 2–3)",
+            "Aspirin 81 mg/ngày đơn trị cho cả giai đoạn cấp và dự phòng dài hạn",
+            "Rivaroxaban (NOAC) dài hạn thay Warfarin vì tiện dùng và không cần theo dõi INR",
+            "Heparin cấp tính trong 5 ngày sau đó ngừng hoàn toàn khi huyết khối tan"
+          ],
+          "answer": 0,
+          "explain": "<b>APS với huyết khối TM:</b> Giai đoạn cấp dùng heparin (UFH hoặc LMWH); sau đó <b>Warfarin dài hạn INR 2–3</b>. Đây là khuyến cáo ưu tiên vì: (1) APS có nguy cơ tái phát huyết khối rất cao khi ngừng kháng đông; (2) Thời gian điều trị thường <b>không xác định (suốt đời)</b> sau huyết khối đầu tiên trong APS ba dương tính. Đáp án B: aspirin đơn trị không đủ để dự phòng huyết khối TM trong APS. Đáp án C: <b>NOAC (rivaroxaban, dabigatran) KHÔNG được khuyến cáo</b> cho APS nguy cơ cao (ba dương tính) — nghiên cứu TRAPS và RAPS cho thấy tái phát huyết khối cao hơn Warfarin. Đáp án D: ngừng kháng đông sau khi huyết khối tan sẽ tái phát."
+        },
+        {
+          "q": "Bệnh nhân muốn có thai lần 3. Tư vấn và điều trị dự phòng nào phù hợp nhất trong thai kỳ tiếp theo?",
+          "options": [
+            "Aspirin liều thấp (75–100 mg/ngày) + LMWH dự phòng suốt thai kỳ và 6 tuần sau sinh",
+            "Warfarin duy trì liều thông thường suốt thai kỳ và cho đến khi sinh",
+            "Ngừng tất cả thuốc kháng đông vì nguy cơ chảy máu cho thai nhi và mẹ",
+            "Rivaroxaban thay Warfarin để tránh nguy cơ chảy máu qua rau thai"
+          ],
+          "answer": 0,
+          "explain": "<b>APS sản khoa:</b> Phác đồ chuẩn để dự phòng sảy thai và huyết khối trong thai kỳ là <b>Aspirin liều thấp (bắt đầu trước khi thụ thai hoặc ngay khi có thai) + LMWH liều dự phòng</b> suốt thai kỳ và 6 tuần sau sinh. Kết hợp này giảm đáng kể tỷ lệ sảy thai và huyết khối. Ngoài ra, tiếp tục Hydroxychloroquine (an toàn và bảo vệ trong thai kỳ lupus). Đáp án B: Warfarin <b>KHÔNG dùng trong thai kỳ</b> (đặc biệt quý I và gần sinh) — gây bệnh não Warfarin thai nhi, chảy máu và sảy thai. Đáp án C: ngừng kháng đông là sai — tăng nguy cơ huyết khối và sảy thai. Đáp án D: NOAC chống chỉ định trong thai kỳ."
+        }
+      ]
+    },
+    {
+      "title": "Phụ nữ 42 tuổi đau khớp, mệt mỏi và tăng huyết áp mới phát hiện",
+      "body": "<b>Hành chính:</b> Nữ, 42 tuổi, kỹ sư, đã mãn kinh sớm (40 tuổi). SLE được chẩn đoán 8 năm trước, đang điều trị duy trì Hydroxychloroquine 200 mg/ngày + Prednisolone 7,5 mg/ngày.<br><br><b>Lý do vào viện:</b> Tái khám định kỳ. Đau khớp vai hai bên tăng 2 tháng nay, đo HA tại nhà 150–160/95–100 mmHg.<br><br><b>Bệnh sử:</b> 8 năm điều trị, SLEDAI ổn định (2–4 điểm). 2 tháng nay đau khớp vai hai bên tăng, cử động hạn chế, không sốt, không ban da mới. Phát hiện THA lần đầu tại trạm y tế 1 tháng trước.<br><br><b>Tiền sử:</b> Tiền sử viêm thận lupus type II (8 năm trước, đã ổn định). Tổng cộng 8 năm dùng Prednisolone (tích lũy liều cao trong 2 năm đầu). Không hút thuốc lá.<br><br><b>Khám lâm sàng:</b> BMI 27 kg/m². HA 155/98 mmHg. Dáng đi tập tễnh nhẹ phải. Khớp vai hai bên: đau khi dạng và xoay ngoài. <b>Háng phải: đau khi tỳ đè và nội xoay.</b> Da: không ban hoạt động, vết rạn da bụng.<br><br><b>Cận lâm sàng:</b> CBC bình thường. Creatinine 95 µmol/L, albumin 38 g/L, protein niệu 24h: 0,2 g/ngày. SLEDAI-2K: 2 điểm (chỉ đau khớp). <b>Chụp MRI háng phải: hoại tử vô mạch (AVN) chỏm xương đùi phải giai đoạn II.</b> Đo mật độ xương (DXA): T-score cột sống L2-L4 = −2,6 SD (loãng xương). T-score cổ xương đùi = −2,3 SD.",
+      "questions": [
+        {
+          "q": "Hoại tử vô mạch chỏm xương đùi phải và loãng xương ở bệnh nhân này liên quan chủ yếu đến yếu tố nguy cơ nào?",
+          "options": [
+            "Sử dụng glucocorticoid dài hạn tích lũy kết hợp với yếu tố nguy cơ của bản thân bệnh SLE",
+            "Hội chứng kháng phospholipid gây tắc mạch nuôi chỏm xương đùi",
+            "Thiếu vitamin D do lupus da gây hạn chế tiếp xúc ánh nắng nghiêm trọng",
+            "Tăng huyết áp không kiểm soát gây xơ vữa vi mạch nuôi xương"
+          ],
+          "answer": 0,
+          "explain": "<b>Hoại tử vô mạch (AVN)</b> là biến chứng nặng, gặp khoảng 10% BN SLE. Nguyên nhân: <b>(1) Glucocorticoid liều cao/tích lũy dài hạn</b> (nguyên nhân chính): gây tắc vi mạch nuôi xương, ức chế tạo xương; <b>(2) Bản thân bệnh lupus</b>: viêm mạch, tình trạng tăng đông. <b>Loãng xương</b> cũng chủ yếu do: GC liều cao kéo dài + bệnh lupus viêm mạn + mãn kinh sớm (giảm estrogen) + ít vận động + thiếu vitamin D. Tổng hợp 8 năm dùng GC + mãn kinh sớm 40 tuổi giải thích T-score −2,6. Đáp án B có thể gặp trong APS nhưng không phải đặc trưng của trường hợp này. C và D là yếu tố phụ, ít chủ đạo hơn."
+        },
+        {
+          "q": "Điều trị tăng huyết áp cho bệnh nhân này: thuốc nào được ưu tiên và vì sao?",
+          "options": [
+            "Thuốc ức chế men chuyển (ACEI) hoặc chẹn thụ thể AT1 (ARB) vì có protein niệu và tiền sử VTL",
+            "Chẹn beta giao cảm đơn trị vì không có CCĐ và hiệu quả trong THA do GC",
+            "Thuốc lợi tiểu thiazide liều cao để giảm nhanh huyết áp và phù nề",
+            "Amlodipine đơn trị vì tác dụng phụ ít nhất trong nhóm thuốc hạ áp"
+          ],
+          "answer": 0,
+          "explain": "Theo EULAR, <b>ACEI hoặc ARB là thuốc ưu tiên</b> trong THA liên quan lupus khi có protein niệu ≥ 0,5g/24h — tác dụng kép: hạ áp + giảm protein niệu + bảo vệ thận dài hạn. Bệnh nhân có protein niệu 0,2g/24h (ngưỡng thấp) và tiền sử VTL type II → ACEI/ARB vừa kiểm soát HA vừa bảo vệ thận. Mục tiêu HA < 130/80 mmHg trong lupus. Đáp án B: chẹn beta ít tác dụng bảo vệ thận, không phải lựa chọn đầu tay trong THA lupus có protein niệu. Đáp án C: thiazide ít bảo vệ thận và không ưu tiên. Đáp án D: amlodipine có thể dùng nhưng không phải ưu tiên khi có protein niệu."
+        },
+        {
+          "q": "Điều trị loãng xương cho bệnh nhân này: phác đồ nào phù hợp nhất?",
+          "options": [
+            "Bisphosphonate (alendronate hoặc risedronate) + Calcium 1000–1200 mg/ngày + Vitamin D 800–1000 IU/ngày",
+            "Calcium và Vitamin D bổ sung đơn thuần, chờ DXA năm sau kiểm tra lại",
+            "Hormone thay thế estrogen vì bệnh nhân mãn kinh sớm và đây là nguyên nhân chính",
+            "Denosumab tiêm dưới da 6 tháng/lần vì hiệu quả cao nhất trong loãng xương do corticoid"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có T-score = −2,6 SD → <b>loãng xương thực sự</b> (T-score ≤ −2,5). Theo khuyến cáo EULAR về loãng xương trong lupus: <b>Bisphosphonate là lựa chọn đầu tiên</b> cho BN lupus sau mãn kinh có MĐX giảm, kết hợp Calcium + Vitamin D. Alendronate 70 mg/tuần hoặc risedronate 35 mg/tuần. Cần đánh giá nguy cơ gãy xương 10 năm theo FRAX. Đáp án B: Calcium/VitD đơn thuần không đủ khi đã loãng xương. Đáp án C: Estrogen tăng nguy cơ huyết khối (lo ngại trong lupus, đặc biệt khi có anti-phospholipid) và tăng hoạt động lupus → không ưu tiên. Đáp án D: Denosumab là lựa chọn thay thế khi CCĐ bisphosphonate, không phải đầu tiên."
+        },
+        {
+          "q": "Đánh giá toàn diện về chiến lược giảm tác dụng phụ corticoid dài hạn cho bệnh nhân này: các biện pháp nào phù hợp? Chọn TẤT CẢ đáp án đúng:",
+          "type": "multi",
+          "options": [
+            "Cố gắng giảm dần Prednisolone xuống ≤ 5 mg/ngày hoặc ngừng nếu SLEDAI ổn định, thay bằng UCMD khác",
+            "Theo dõi glucose máu định kỳ và tầm soát đái tháo đường do corticoid mỗi 6 tháng",
+            "Tăng Prednisolone lên 15–20 mg/ngày để điều trị AVN chỏm xương đùi",
+            "Chỉ định ức chế bơm proton (PPI) dài hạn để bảo vệ niêm mạc dạ dày khi dùng GC",
+            "Tập thể dục chịu lực phù hợp (đi bộ, tập đề kháng nhẹ) để cải thiện mật độ xương"
+          ],
+          "answer": [
+            0,
+            1,
+            3,
+            4
+          ],
+          "explain": "<b>A (Giảm GC):</b> Đúng — EULAR 2023 nhấn mạnh giảm GC xuống liều thấp nhất/ngừng khi ổn định, dùng UCMD thay thế (HCQ, AZA, MTX) để kiểm soát bệnh mà ít tác dụng phụ hơn. <b>B (Theo dõi ĐTĐ):</b> Đúng — ĐTĐ do GC hay gặp, cần sàng lọc mỗi 6–12 tháng đặc biệt BN có nguy cơ. <b>C:</b> Sai — <b>tăng GC sẽ LÀM NẶNG THÊM AVN và loãng xương</b>; AVN đã được chẩn đoán cần hội chẩn chỉnh hình, không phải tăng liều GC. <b>D (PPI):</b> Đúng — GC kết hợp NSAIDs hoặc đơn trị kéo dài tăng nguy cơ loét dạ dày; PPI được khuyến cáo. <b>E (Tập thể dục):</b> Đúng — vận động chịu lực là can thiệp không dùng thuốc quan trọng để cải thiện mật độ xương và mệt mỏi trong lupus."
+        },
+        {
+          "q": "Bệnh nhân hỏi: 'Bác sĩ ơi, tôi dùng thuốc chống sốt rét (Hydroxychloroquine) đã 8 năm rồi, có cần lo lắng gì không?' Tư vấn nào sau đây là ĐÚNG nhất?",
+          "options": [
+            "Nguy cơ độc tính võng mạc tăng sau > 5 năm dùng; cần soi đáy mắt định kỳ hàng năm từ năm thứ 5, dùng liều ≤ 5 mg/kg cân nặng thực/ngày",
+            "HCQ hoàn toàn vô hại sau 8 năm, không cần theo dõi thêm gì",
+            "Nên ngừng HCQ ngay vì đã dùng đủ 5 năm và tiếp tục dùng sẽ gây mù không hồi phục",
+            "Nguy cơ mù mắt rất cao sau 8 năm dùng, cần ngừng ngay và chuyển sang thuốc khác"
+          ],
+          "answer": 0,
+          "explain": "<b>Hydroxychloroquine và võng mạc:</b> Độc tính võng mạc (maculopathy) là tác dụng phụ nghiêm trọng nhất của HCQ, nguy cơ tăng khi: (1) Dùng > 5 năm; (2) Liều > 5 mg/kg cân nặng thực/ngày; (3) Có bệnh thận hoặc bệnh võng mạc từ trước. Tuy nhiên, nguy cơ thực tế <b>thấp khi dùng đúng liều</b> (< 5 mg/kg/ngày). Khuyến cáo: <b>soi đáy mắt bằng OCT/visual field định kỳ hàng năm từ năm thứ 5</b>. KHÔNG ngừng HCQ vì lợi ích vượt trội nguy cơ (giảm đợt bùng phát, bảo vệ thận, tim mạch, cải thiện tiên lượng). Đáp án B, C, D đều sai: B quá an tâm không theo dõi; C và D sai về khuyến cáo ngừng thuốc."
+        }
+      ]
+    }
+  ]
+}
