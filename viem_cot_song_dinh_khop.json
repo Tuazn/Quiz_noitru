@@ -1,0 +1,327 @@
+{
+  "name": "Viêm cột sống dính khớp",
+  "description": "Bộ case lâm sàng VCSDK từ chẩn đoán, đánh giá hoạt động bệnh, điều trị theo ASAS-EULAR 2022 đến xử trí biến chứng ngoài khớp – ôn thi bác sĩ nội trú.",
+  "level": "Ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "cases": [
+    {
+      "title": "Nam 26 tuổi đau vùng thắt lưng và mông âm ỉ 8 tháng",
+      "body": "Bệnh nhân nam 26 tuổi, kỹ sư phần mềm, đến khám vì <b>đau vùng thắt lưng và mông hai bên âm ỉ kéo dài 8 tháng</b>. Đau khởi phát từ từ, không liên quan chấn thương. Đau tăng rõ vào <b>nửa đêm về sáng</b>, thường khiến bệnh nhân phải thức giấc; <b>cứng cột sống buổi sáng kéo dài khoảng 90 phút</b>. Triệu chứng <b>cải thiện rõ sau khi vận động hoặc tắm nước nóng</b> nhưng <b>không cải thiện khi nghỉ ngơi</b>. Không sốt, không sụt cân, không chấn thương.<br><b>Tiền sử:</b> Không có bệnh nội khoa. Anh trai từng có đau lưng mạn tính.<br><b>Khám lâm sàng:</b> Sinh hiệu ổn. Mất đường cong sinh lý cột sống thắt lưng, co cứng cơ cạnh sống hai bên. Hạn chế tầm vận động cột sống thắt lưng mọi tư thế, đặc biệt cúi. <b>Chỉ số Schober: 10/13,5 cm</b>. Ấn đau khớp cùng chậu hai bên. Không sưng khớp ngoại vi, không tổn thương da, mắt.<br><b>Cận lâm sàng:</b> CRP 32 mg/L, VS 48 mm/giờ, RF âm tính. <b>HLA-B27 dương tính</b>. <b>X-quang khung chậu thẳng: bào mòn và xơ xương dưới sụn cả hai bên khớp cùng chậu, bờ khớp không đều (hình ảnh 'tem thư')</b>, khe khớp mờ một phần.",
+      "questions": [
+        {
+          "q": "Theo tiêu chuẩn ASAS, đau lưng của bệnh nhân được phân loại là loại nào và đáp ứng đủ tiêu chuẩn khi có bao nhiêu đặc điểm?",
+          "options": [
+            "Đau lưng cơ học – chẩn đoán khi có ≥ 3 trong 5 tiêu chuẩn ASAS",
+            "Đau lưng kiểu viêm – chẩn đoán khi có ≥ 4 trong 5 tiêu chuẩn ASAS",
+            "Đau lưng hỗn hợp – chẩn đoán khi có ≥ 3 trong 5 tiêu chuẩn ASAS",
+            "Đau lưng kiểu rễ thần kinh – chẩn đoán khi có ≥ 4 trong 5 tiêu chuẩn ASAS"
+          ],
+          "answer": 1,
+          "explain": "Tiêu chuẩn ASAS cho đau lưng kiểu viêm (Inflammatory Back Pain – IBP) gồm 5 điều kiện: (1) Khởi phát trước 40 tuổi; (2) Khởi phát từ từ; (3) Đau về đêm/sáng sớm; (4) Cải thiện khi luyện tập; (5) Không cải thiện khi nghỉ ngơi. <b>Chẩn đoán IBP khi có ≥ 4/5 tiêu chuẩn</b> (độ nhạy 79,6%; độ đặc hiệu 72,4%). Bệnh nhân này thỏa cả 5 tiêu chuẩn. Đau cơ học giảm khi nghỉ ngơi và tăng khi vận động – ngược với đau kiểu viêm. Đau rễ thần kinh lan theo đường đi dây thần kinh, có dấu Lasègue dương tính."
+        },
+        {
+          "q": "Chọn TẤT CẢ các đáp án đúng: Những đặc điểm nào sau đây giúp phân biệt đau lưng kiểu SpA với đau lưng cơ học thông thường ở bệnh nhân này?",
+          "type": "multi",
+          "options": [
+            "Khởi phát trước 40 tuổi, diễn tiến từ từ",
+            "Đau tăng khi ngồi lâu và nghỉ ngơi, cải thiện sau khi vận động",
+            "Cứng cột sống buổi sáng kéo dài hơn 30 phút",
+            "Đau tăng khi gắng sức và giảm hoàn toàn sau khi nghỉ ngơi",
+            "Đau cải thiện rõ rệt sau dùng NSAIDs trong 24–48 giờ"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "explain": "Theo tiêu chuẩn ASAS 2009, các 'dấu hiệu SpA' bao gồm đau lưng kiểu viêm (IBP), HLA-B27 dương tính, CRP tăng, tiền sử gia đình SpA, đáp ứng tốt với NSAIDs... <b>A đúng</b>: Khởi phát trước 40 tuổi và từ từ là tiêu chuẩn IBP #1 và #2. <b>B đúng</b>: Tăng khi nghỉ, giảm khi vận động là đặc trưng của IBP (ngược với đau cơ học). <b>C đúng</b>: Cứng khớp buổi sáng > 30 phút là đặc điểm viêm, không gặp trong đau cơ học thông thường. <b>D sai</b>: 'Giảm hoàn toàn khi nghỉ ngơi' mô tả đau cơ học, không phải SpA. <b>E đúng</b>: Đáp ứng tốt với NSAIDs trong 24–48 giờ là một trong các SpA features được ASAS công nhận."
+        },
+        {
+          "q": "Dựa vào hình ảnh X-quang khớp cùng chậu được mô tả, bệnh nhân đang ở giai đoạn nào và có đủ tiêu chuẩn X-quang theo Tiêu chuẩn New York sửa đổi 1984 để chẩn đoán xác định không?",
+          "options": [
+            "Giai đoạn 1 hai bên – chưa đủ tiêu chuẩn X-quang",
+            "Giai đoạn 2 hai bên – đủ tiêu chuẩn X-quang",
+            "Giai đoạn 3 một bên – đủ tiêu chuẩn X-quang",
+            "Giai đoạn 4 hai bên – không cần tiêu chuẩn lâm sàng kèm"
+          ],
+          "answer": 1,
+          "explain": "X-quang mô tả 'bào mòn, xơ xương dưới sụn, bờ khớp không đều – hình tem thư, khe khớp mờ một phần' ở cả hai bên = <b>Giai đoạn 2 hai bên</b>. Giai đoạn 1: nghi ngờ (khe khớp rộng, mờ). Giai đoạn 2: bào mòn. Giai đoạn 3: đặc xương, dính một phần. Giai đoạn 4: dính toàn bộ. Tiêu chuẩn New York 1984 yêu cầu <b>viêm khớp cùng chậu ≥ giai đoạn 2 ở hai bên HOẶC giai đoạn 3–4 ở một bên</b>. Kết hợp với ≥ 1 tiêu chuẩn lâm sàng → <b>Chẩn đoán xác định VCSDK</b>. Giai đoạn 1 chưa đủ tiêu chuẩn dù có đủ lâm sàng."
+        },
+        {
+          "q": "Điều trị dược lý đầu tiên được khuyến cáo cho bệnh nhân VCSDK có triệu chứng đau và cứng khớp hoạt động là gì?",
+          "options": [
+            "Corticoid đường uống liều thấp liên tục để duy trì chống viêm lâu dài",
+            "Sulfasalazine uống ngay vì có tác dụng trên cả thể trục và thể ngoại vi",
+            "NSAIDs liều tối đa dùng liên tục, ưu tiên ức chế COX-2 chọn lọc nếu nguy cơ tiêu hóa",
+            "Methotrexate phối hợp với giảm đau paracetamol để kiểm soát viêm hệ thống"
+          ],
+          "answer": 2,
+          "explain": "Theo ASAS-EULAR 2022, <b>NSAIDs là điều trị dược lý hàng đầu</b> cho VCSDK có hoạt động bệnh. Dùng liên tục (không chỉ khi đau) giúp kiểm soát chặt hơn và có thể làm chậm quá trình dính khớp. Ưu tiên ức chế COX-2 (Etoricoxib, Celecoxib) ở BN có nguy cơ tiêu hóa. <b>Corticoid toàn thân bị hạn chế tối đa</b> trong VCSDK. <b>Sulfasalazine và Methotrexate chỉ có hiệu quả với thể ngoại vi</b>, không tác dụng với thể trục thuần túy – đây là điểm khác biệt quan trọng so với viêm khớp dạng thấp."
+        },
+        {
+          "q": "Sau 6 tuần dùng Etoricoxib 90 mg/ngày (liều tối đa), bệnh nhân không cải thiện. Theo khuyến cáo ASAS-EULAR 2022, bước tiếp theo hợp lý nhất trước khi chỉ định thuốc sinh học là gì?",
+          "options": [
+            "Thử thêm ít nhất một loại NSAID khác ở liều tối đa trong ≥ 1 tháng trước khi cân nhắc sinh học",
+            "Bắt đầu ngay thuốc ức chế TNF-α vì đã thất bại với NSAID thứ nhất là đủ điều kiện",
+            "Bổ sung Methotrexate 15 mg/tuần để tăng cường ức chế viêm hệ thống",
+            "Chuyển sang corticoid liều vừa trong 3 tháng rồi đánh giá lại hiệu quả"
+          ],
+          "answer": 0,
+          "explain": "ASAS-EULAR 2022 yêu cầu BN <b>thất bại với ≥ 2 loại NSAIDs khác nhau ở liều tối đa</b> (kết hợp với ASDAS ≥ 2,1 và ≥ 1 yếu tố khách quan) trước khi chỉ định sinh học. Bệnh nhân mới thất bại 1 loại → cần thử ít nhất 1 loại NSAID khác trong ≥ 1 tháng. Đổi NSAID sau khoảng 1 tháng không đáp ứng là hợp lý vì các NSAID khác nhau có hiệu quả khác nhau với từng BN. <b>Methotrexate và Corticoid toàn thân không được khuyến cáo cho thể trục thuần túy</b>."
+        }
+      ]
+    },
+    {
+      "title": "Nam 40 tuổi VCSDK, đau lưng nặng dai dẳng dù đã điều trị hai loại NSAID",
+      "body": "Bệnh nhân nam 40 tuổi, viên chức, được chẩn đoán VCSDK 5 năm trước. <b>Đã điều trị: Meloxicam 15 mg/ngày trong 6 tuần → Etoricoxib 90 mg/ngày trong 8 tuần</b>, cả hai ở liều tối đa và dùng liên tục. Bệnh nhân vẫn còn đau lưng và cứng khớp buổi sáng nặng, ảnh hưởng rõ đến sinh hoạt và công việc.<br><b>Tiền sử:</b> Không có lao, viêm gan virus, suy tim, IBD, vảy nến. Không tiếp xúc với nguồn lây lao.<br><b>Khám:</b> Sinh hiệu ổn. Hạn chế vận động cột sống rõ ở mọi tư thế, Schober 10/12 cm, khoảng cách chẩm-tường 4 cm. Đau ấn khớp cùng chậu. Không sưng khớp ngoại vi, không tổn thương da, mắt.<br><b>Cận lâm sàng:</b> CRP 48 mg/L, VS 62 mm/giờ. HLA-B27 dương tính. X-quang: viêm khớp cùng chậu <b>giai đoạn 3 hai bên</b>. <b>Thang điểm ASDAS-CRP: 3,6</b>.",
+      "questions": [
+        {
+          "q": "Theo thang điểm ASDAS, giá trị 3,6 tương ứng với mức độ hoạt động bệnh nào?",
+          "options": [
+            "Bệnh không hoạt động (Inactive Disease – ASDAS < 1,3)",
+            "Hoạt động thấp (Low Disease Activity – ASDAS 1,3 đến < 2,1)",
+            "Hoạt động rất cao (Very High Disease Activity – ASDAS > 3,5)",
+            "Hoạt động cao (High Disease Activity – ASDAS 2,1 đến ≤ 3,5)"
+          ],
+          "answer": 2,
+          "explain": "Thang điểm ASDAS phân loại 4 mức: <b>Không hoạt động < 1,3 | Thấp 1,3 – < 2,1 | Cao 2,1 – ≤ 3,5 | Rất cao > 3,5</b>. ASDAS 3,6 > 3,5 → <b>Hoạt động rất cao</b>. ASDAS ưu việt hơn BASDAI vì: (1) phân loại được 4 mức độ, (2) tích hợp chỉ số viêm khách quan (CRP hoặc VS), (3) được dùng làm ngưỡng chỉ định (ASDAS ≥ 2,1) và theo dõi đáp ứng thuốc sinh học theo ASAS-EULAR 2022."
+        },
+        {
+          "q": "Theo khuyến cáo ASAS-EULAR 2022, điều kiện cần đủ để chỉ định thuốc sinh học (bDMARD/tsDMARD) cho bệnh nhân VCSDK thể trục là gì?",
+          "options": [
+            "ASDAS ≥ 2,1 VÀ thất bại với ≥ 1 NSAID liều tối đa VÀ có bằng chứng CRP tăng",
+            "ASDAS ≥ 2,1 VÀ thất bại với ≥ 2 NSAIDs liều tối đa VÀ ≥ 1 trong: CRP tăng, MRI(+), hoặc XQ viêm KCC(+)",
+            "BASDAI ≥ 4 VÀ thất bại với ≥ 2 NSAIDs liều tối đa VÀ không có chống chỉ định sinh học",
+            "Thất bại với ≥ 2 NSAIDs liều tối đa là đủ, không yêu cầu ngưỡng hoạt động bệnh cụ thể"
+          ],
+          "answer": 1,
+          "explain": "Theo cập nhật ASAS-EULAR 2022 (khuyến cáo #9), chỉ định bDMARD/tsDMARD khi hội đủ: <b>(1) ASDAS ≥ 2,1; (2) Thất bại với ≥ 2 NSAIDs khác nhau ở liều tối đa; (3) Có ≥ 1 yếu tố khách quan: CRP tăng, MRI viêm KCC dương tính, hoặc X-quang viêm KCC dương tính</b>. Đây là cập nhật quan trọng so với khuyến cáo 2016 – ngưỡng ASDAS ≥ 2,1 là ngưỡng chính thức (không phải chỉ dựa vào BASDAI ≥ 4). Bệnh nhân này thỏa cả 3 điều kiện (ASDAS 3,6, thất bại 2 NSAID, XQ giai đoạn 3 và CRP 48)."
+        },
+        {
+          "q": "Chọn TẤT CẢ các đáp án đúng: Trước khi bắt đầu điều trị bằng thuốc sinh học, những sàng lọc nào là bắt buộc phải thực hiện?",
+          "type": "multi",
+          "options": [
+            "Sàng lọc lao tiềm ẩn bằng IGRA (Quantiferon-TB Gold) và/hoặc Mantoux",
+            "Sàng lọc viêm gan B và C (HBsAg, anti-HBc, anti-HCV)",
+            "Sàng lọc HIV",
+            "Xét nghiệm nước tiểu để loại trừ nhiễm khuẩn tiết niệu đang hoạt động",
+            "Đo mật độ xương (DXA scan) để đánh giá loãng xương trước điều trị",
+            "Nội soi đại tràng để loại trừ viêm ruột tiềm ẩn"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explain": "Trước khi dùng thuốc sinh học, các xét nghiệm bắt buộc gồm: <b>(1) Sàng lọc lao</b> bằng IGRA (± Mantoux, X-quang phổi) – nếu dương tính cần điều trị lao tiềm ẩn trước; <b>(2) Viêm gan B, C và (3) HIV</b> – để có hướng dự phòng hoặc điều trị trước; <b>(4) Xét nghiệm nước tiểu</b> – loại trừ nhiễm khuẩn tiết niệu trước khi ức chế miễn dịch. Sàng lọc này phải <b>lặp lại hàng năm</b> trong suốt quá trình dùng thuốc. <b>DXA scan</b> nên được thực hiện nhưng không phải điều kiện bắt buộc trước khi khởi trị sinh học. <b>Nội soi đại tràng</b> không được yêu cầu thường quy, chỉ chỉ định khi có triệu chứng tiêu hóa gợi ý IBD."
+        },
+        {
+          "q": "Bác sĩ quyết định dùng thuốc sinh học. Theo ASAS-EULAR 2022, lựa chọn nào phù hợp nhất cho bệnh nhân VCSDK thể trục này không có bệnh lý kèm đặc biệt?",
+          "options": [
+            "Secukinumab (kháng IL-17A) vì thuộc thế hệ mới nhất với bằng chứng hiệu quả mạnh nhất",
+            "Infliximab hoặc Adalimumab (kháng TNF monoclonal) vì hiệu quả vượt trội hơn các nhóm thuốc khác trong thể trục",
+            "Thuốc kháng TNF bất kỳ hoặc kháng IL-17 đều là lựa chọn đầu tay tương đương, không ưu tiên loại cụ thể nào",
+            "Upadacitinib (JAK inhibitor) được khuyến cáo như lựa chọn ưu tiên vì là thuốc uống và hiệu quả mạnh"
+          ],
+          "answer": 2,
+          "explain": "Theo ASAS-EULAR 2022, <b>không có khuyến cáo ưu tiên một loại thuốc sinh học cụ thể</b> cho BN VCSDK thể trục không có bệnh lý kèm đặc biệt – TNFi (Etanercept, Adalimumab, Golimumab...) hoặc IL-17i (Secukinumab, Ixekizumab) đều là lựa chọn đầu tay tương đương. JAK inhibitors (Tofacitinib, Upadacitinib) được bổ sung vào khuyến cáo 2022 nhưng là lựa chọn khi có chống chỉ định với bDMARD hoặc sau thất bại bDMARD, chưa phải ưu tiên đầu tiên. Chỉ khi có bệnh lý kèm (IBD/uveitis tái phát → TNFi monoclonal; vảy nến da → IL-17i) mới có chỉ dẫn cụ thể."
+        },
+        {
+          "q": "Sau 3 tháng dùng thuốc sinh học, ASDAS-CRP giảm từ 3,6 xuống 2,6. Cách đánh giá kết quả điều trị nào dưới đây là chính xác nhất?",
+          "options": [
+            "Không đạt ngưỡng đáp ứng điều trị vì ΔASDAS = 1,0 thấp hơn ngưỡng cắt 1,1",
+            "Đạt lui bệnh hoàn toàn vì ASDAS sau điều trị đã giảm xuống dưới ngưỡng 'hoạt động rất cao'",
+            "Đạt cải thiện lâm sàng quan trọng vì ΔASDAS = 1,0 đủ ngưỡng yêu cầu",
+            "Đạt cải thiện lớn vì ASDAS đã giảm hơn 25% so với trước điều trị"
+          ],
+          "answer": 0,
+          "explain": "ΔASDAS = 3,6 – 2,6 = 1,0. Ngưỡng đánh giá đáp ứng: <b>ΔASDAS ≥ 1,1 = cải thiện lâm sàng quan trọng (Clinically Important Improvement); ΔASDAS ≥ 2,0 = cải thiện lớn (Major Improvement)</b>. ΔASDAS = 1,0 < 1,1 → <b>Không đạt ngưỡng đáp ứng điều trị</b>. ASDAS 2,6 vẫn thuộc mức 'hoạt động cao' (không phải lui bệnh < 1,3). Đây là điểm kỹ thuật quan trọng: không nhầm lẫn giữa 'bệnh không còn rất cao' với 'có đáp ứng điều trị'. Bác sĩ cần xem xét đây là không đáp ứng nguyên phát (đổi cơ chế) hay thứ phát (đổi cùng cơ chế) tùy thời điểm."
+        }
+      ]
+    },
+    {
+      "title": "Nữ 28 tuổi, mắt trái đau đỏ và nhìn mờ đột ngột, tái phát lần 2",
+      "body": "Bệnh nhân nữ 28 tuổi, giáo viên, đến khoa Mắt vì <b>mắt trái đau, đỏ, sợ ánh sáng và nhìn mờ đột ngột từ 3 ngày</b>. Đây là <b>lần thứ hai trong 2 năm</b> qua bị tình trạng tương tự. Khi được khai thác kỹ, bệnh nhân cho biết có <b>đau vùng thắt lưng và mông kéo dài 3 năm</b>, đặc biệt về đêm và sáng sớm, kèm cứng khớp buổi sáng khoảng 60 phút, cải thiện khi vận động. Trước đây chỉ được chẩn đoán 'đau lưng nghề nghiệp'.<br><b>Tiền sử:</b> Không có bệnh da, ruột, khớp. Không có tiền sử gia đình.<br><b>Khám mắt:</b> Kết mạc cương tụ rìa, đồng tử co nhỏ, tế bào và flare trong tiền phòng trên đèn khe. <b>Chẩn đoán: Viêm màng bồ đào trước cấp (Acute Anterior Uveitis)</b>.<br><b>Khám cơ xương khớp:</b> Ấn đau khớp cùng chậu hai bên, Schober 10/13,5 cm, hạn chế nhẹ vận động cột sống. Không sưng khớp ngoại vi.<br><b>Cận lâm sàng:</b> CRP 22 mg/L. <b>HLA-B27 dương tính</b>. X-quang khớp cùng chậu: mờ khe và bờ khớp không đều hai bên (giai đoạn 1–2).",
+      "questions": [
+        {
+          "q": "Viêm màng bồ đào trước cấp tái phát của bệnh nhân liên quan đến bệnh lý hệ thống nào?",
+          "options": [
+            "Viêm khớp dạng thấp – biểu hiện viêm mắt thường gặp ở nữ trẻ tuổi có RF dương tính",
+            "Viêm cột sống thể huyết thanh âm tính (SpA) – viêm màng bồ đào trước cấp là biểu hiện ngoài khớp thường gặp nhất",
+            "Lupus ban đỏ hệ thống – viêm mắt kèm đau lưng và tăng CRP nhẹ ở nữ trẻ",
+            "Bệnh sarcoidosis – gây viêm màng bồ đào hai bên và tổn thương toàn thân"
+          ],
+          "answer": 1,
+          "explain": "Viêm màng bồ đào trước cấp (AAU), <b>đặc biệt thể tái phát, đơn bên, ở BN HLA-B27 dương tính</b>, là biểu hiện ngoài khớp <b>thường gặp nhất</b> của SpA, xảy ra ở 25–33% BN VCSDK. Khoảng 50% BN AAU có HLA-B27 (+). Đây thường là triệu chứng đầu tiên khiến BN phát hiện bệnh SpA nền. Viêm khớp dạng thấp gây viêm màng bồ đào sau hoặc màng bồ đào toàn bộ, ít tái phát đơn bên như vậy. Lupus gây viêm mắt kèm ANA (+), bổ thể giảm, tổn thương đa cơ quan. Sarcoidosis gây viêm màng bồ đào hai bên và thường kèm hạch, tổn thương phổi."
+        },
+        {
+          "q": "Cơ chế bệnh sinh nào giải thích mối liên hệ giữa viêm màng bồ đào và bệnh cột sống ở bệnh nhân?",
+          "options": [
+            "Tắc nghẽn vi mạch máu cùng nuôi dưỡng màng bồ đào và các điểm bám gân cột sống",
+            "HLA-B27 trình diện bất thường các peptide kháng nguyên, kích hoạt phản ứng miễn dịch chéo với kháng nguyên vi khuẩn đường ruột tại cả mắt và cột sống",
+            "Lắng đọng phức hợp miễn dịch trong màng bồ đào do mất cân bằng protein huyết thanh",
+            "Vi khuẩn từ ruột di chuyển trực tiếp qua đường máu đến nhãn cầu và các đốt sống"
+          ],
+          "answer": 1,
+          "explain": "Giả thuyết 'bắt chước phân tử' (molecular mimicry) được chấp nhận rộng rãi: <b>Vi khuẩn đường ruột (Klebsiella, Chlamydia...) có peptide tương đồng cấu trúc với tự kháng nguyên ở mắt và điểm bám gân. HLA-B27 trình diện bất thường các peptide này → Lympho T tấn công nhầm mô tự thân</b>. 'Trục ruột-khớp-mắt' giải thích tại sao ba cơ quan này thường bị ảnh hưởng đồng thời trong SpA. Phức hợp miễn dịch đặc trưng hơn cho lupus và viêm khớp dạng thấp. Vi khuẩn trực tiếp đến mắt là cơ chế của viêm nội nhãn nhiễm khuẩn, không phải viêm màng bồ đào trong SpA."
+        },
+        {
+          "q": "Nếu bệnh nhân cần thuốc sinh học để kiểm soát VCSDK và phòng ngừa tái phát viêm màng bồ đào, loại thuốc nào được ưu tiên theo ASAS-EULAR 2022?",
+          "options": [
+            "Etanercept (kháng TNF thụ thể hòa tan) vì ức chế TNF-α hiệu quả trên cả khớp và mắt",
+            "Secukinumab (kháng IL-17A) vì tác dụng chống viêm mạnh và không có nguy cơ bùng phát bệnh mắt",
+            "Adalimumab hoặc Infliximab (kháng thể đơn dòng kháng TNF) vì có bằng chứng làm giảm tần suất tái phát AAU",
+            "Upadacitinib (JAK inhibitor) vì có cơ chế ức chế nhiều cytokine gây viêm tại mắt hơn"
+          ],
+          "answer": 2,
+          "explain": "Theo ASAS-EULAR 2022, khi BN VCSDK có <b>viêm màng bồ đào tái phát</b>, nên ưu tiên <b>kháng thể đơn dòng kháng TNF-α (Adalimumab, Infliximab)</b> vì có bằng chứng làm giảm tần suất tái phát AAU. <b>Etanercept</b> (thụ thể hòa tan) kém hiệu quả hơn trên viêm màng bồ đào do không gây apoptosis tế bào viêm mang TNF-α trên bề mặt màng tế bào – cơ chế được cho là cần thiết để kiểm soát viêm trong buồng mắt. <b>IL-17i</b> (Secukinumab) không có bằng chứng phòng ngừa AAU và không được khuyến cáo ưu tiên trong tình huống này. JAK inhibitors chưa có đủ dữ liệu về mắt dài hạn."
+        },
+        {
+          "q": "Chọn TẤT CẢ các đáp án đúng: Nếu viêm màng bồ đào trước không được điều trị kịp thời, những biến chứng nào có thể xảy ra tại mắt?",
+          "type": "multi",
+          "options": [
+            "Dính đồng tử sau (posterior synechiae) do fibrin viêm dính bờ đồng tử vào mặt trước thủy tinh thể",
+            "Tăng nhãn áp và glôcôm thứ phát do cản trở lưu thông thủy dịch",
+            "Đục thủy tinh thể do phản ứng viêm kéo dài và tác dụng phụ của corticoid nhỏ mắt",
+            "Teo nhãn cầu (phthisis bulbi) trong trường hợp viêm nặng không kiểm soát được",
+            "Bong võng mạc nguyên phát do kéo căng từ dịch viêm tiền phòng"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explain": "<b>A đúng</b>: Fibrin và tế bào viêm dính bờ đồng tử vào mặt trước thủy tinh thể (posterior synechiae) gây đồng tử méo, giảm khả năng giãn. <b>B đúng</b>: Dính đồng tử hoàn toàn → nghẽn lưu thông thủy dịch → tăng nhãn áp → glôcôm thứ phát. <b>C đúng</b>: Viêm mạn tính kết hợp với corticoid nhỏ mắt kéo dài có thể đẩy nhanh đục thủy tinh thể. <b>D đúng</b>: Teo nhãn cầu là giai đoạn cuối khi viêm không kiểm soát được – mắt xơ hóa, teo lại và mất chức năng hoàn toàn. <b>E sai</b>: Bong võng mạc nguyên phát không phải biến chứng trực tiếp của viêm màng bồ đào TRƯỚC; bong võng mạc thường liên quan đến viêm màng bồ đào SAU hoặc toàn bộ, không phải thể trước đơn thuần."
+        }
+      ]
+    },
+    {
+      "title": "Nam 44 tuổi VCSDK đang dùng Etanercept, mới xuất hiện tiêu chảy máu kéo dài",
+      "body": "Bệnh nhân nam 44 tuổi, được chẩn đoán VCSDK 14 năm. Sau khi thất bại với nhiều NSAIDs, bệnh nhân được điều trị bằng <b>Etanercept 50 mg/tuần trong 2 năm với đáp ứng tốt</b> về các triệu chứng cột sống (ASDAS-CRP 1,4 – thấp). Bệnh nhân đến khám vì <b>tiêu chảy phân lỏng nhiều lần/ngày, có nhầy máu, đau quặn bụng kéo dài 6 tuần</b>, sụt 4 kg. Không sốt. Đau lưng đang kiểm soát tốt.<br><b>Tiền sử:</b> Không có tiền sử bệnh tiêu hóa. Đã sàng lọc lao và viêm gan B/C âm tính trước khi dùng Etanercept.<br><b>Khám:</b> Bệnh nhân tỉnh, da niêm hơi nhợt. Bụng mềm, ấn đau dọc khung đại tràng. Sinh hiệu ổn.<br><b>Cận lâm sàng:</b> Hb 10,5 g/dL, CRP 38 mg/L. Cấy phân âm tính với vi khuẩn gây bệnh. <b>Nội soi đại tràng: niêm mạc xung huyết, phù nề, loét nông liên tục dọc đại tràng sigma. Mô bệnh học: viêm mạn tính không đặc hiệu, không có hạt, phù hợp bệnh viêm ruột (IBD)</b>.",
+      "questions": [
+        {
+          "q": "Tình trạng tiêu hóa của bệnh nhân được phân loại là biểu hiện ngoài khớp nào của VCSDK và tỷ lệ gặp tương ứng là bao nhiêu?",
+          "options": [
+            "Hội chứng ruột kích thích – gặp 20-30% BN VCSDK do căng thẳng tâm lý mạn tính",
+            "Bệnh viêm ruột mạn tính (IBD) có biểu hiện lâm sàng – gặp 5-10% BN VCSDK",
+            "Amyloidosis đường tiêu hóa – gặp 10-15% BN VCSDK lâu năm không điều trị",
+            "Nhiễm trùng cơ hội đường ruột do ức chế miễn dịch – gặp 15-20% BN dùng sinh học"
+          ],
+          "answer": 1,
+          "explain": "IBD có biểu hiện lâm sàng (Crohn hoặc Viêm loét đại tràng) gặp ở <b>5-10% BN VCSDK</b>. Tuy nhiên, nếu nội soi thường quy ở BN VCSDK không triệu chứng tiêu hóa, có thể phát hiện viêm niêm mạc dưới lâm sàng ở tỷ lệ cao hơn nhiều (25-49%). <b>Cả VCSDK và IBD có chung cơ địa di truyền (gen IL-23, IL-17) và rối loạn trục ruột-khớp</b> – vi khuẩn đường ruột kích hoạt đáp ứng miễn dịch bất thường tại cả ruột và các điểm bám gân. Phân biệt với nhiễm khuẩn: cấy phân âm tính; với hội chứng ruột kích thích: không có viêm thực sự trên nội soi và mô bệnh học."
+        },
+        {
+          "q": "Tại sao Etanercept – một thuốc ức chế TNF-α – lại không hiệu quả trong điều trị IBD và có thể làm nặng thêm bệnh?",
+          "options": [
+            "Etanercept không thể đi qua hàng rào mạch máu ruột nên không có tác dụng tại niêm mạc đại tràng",
+            "Etanercept là thụ thể hòa tan 'bẫy' TNF-α tự do nhưng không gây apoptosis tế bào viêm biểu hiện TNF trên màng, không trung hòa hiệu quả TNF dạng màng như kháng thể đơn dòng",
+            "Etanercept gây ức chế miễn dịch quá mức, tạo điều kiện cho vi khuẩn kháng thuốc phát triển trong lòng ruột",
+            "Etanercept có protein chuột (25%) gây phản ứng miễn dịch trong đường tiêu hóa"
+          ],
+          "answer": 1,
+          "explain": "Etanercept là <b>protein dung hợp (thụ thể TNF hòa tan)</b> – 'bẫy' TNF-α tự do trong máu nhưng <b>không có khả năng gây ly giải hoặc apoptosis các tế bào viêm biểu hiện TNF-α dạng màng (mTNF) trên bề mặt</b>. Ngược lại, kháng thể đơn dòng (Infliximab, Adalimumab) gắn vào cả TNF tự do và mTNF → kích hoạt ADCC và caspase → apoptosis tế bào viêm niêm mạc ruột. Cơ chế này được cho là thiết yếu trong kiểm soát IBD. Do đó Etanercept không những không hiệu quả mà <b>có thể khởi phát hoặc làm nặng thêm bệnh Crohn</b> – đây là điểm chống chỉ định thực tế quan trọng khi lựa chọn TNFi. Protein chuột trong Infliximab (25%), không phải Etanercept (0%)."
+        },
+        {
+          "q": "Chọn TẤT CẢ các đáp án đúng: Các phát biểu nào sau đây là đúng về lựa chọn thuốc sinh học khi bệnh nhân VCSDK có kèm IBD hoạt động?",
+          "type": "multi",
+          "options": [
+            "Kháng thể đơn dòng kháng TNF-α (Infliximab, Adalimumab) được ưu tiên vì có hiệu quả trên cả VCSDK lẫn IBD",
+            "Có thể tiếp tục Etanercept và thêm Mesalazine để kiểm soát thành phần IBD",
+            "Secukinumab (kháng IL-17A) nên tránh khi IBD đang hoạt động vì có thể làm nặng thêm bệnh ruột",
+            "Upadacitinib (JAK inhibitor) là lựa chọn phù hợp khi cả TNFi lẫn IL-17i đều thất bại hoặc chống chỉ định, do có dữ liệu dương tính trong viêm loét đại tràng",
+            "Không cần thay đổi phác đồ vì IBD trong VCSDK là biểu hiện tự giới hạn"
+          ],
+          "answer": [
+            0,
+            2,
+            3
+          ],
+          "explain": "<b>A đúng</b>: Infliximab và Adalimumab được FDA/EMA phê duyệt cho cả VCSDK lẫn IBD, là lựa chọn ưu tiên trong tình huống này. <b>B sai</b>: Etanercept không hiệu quả trong IBD (cơ chế không gây apoptosis tế bào viêm niêm mạc); không nên tiếp tục. Mesalazine không đủ cho IBD đang hoạt động trung bình-nặng. <b>C đúng</b>: IL-17 có vai trò bảo vệ hàng rào niêm mạc ruột; ức chế IL-17A có thể làm khởi phát hoặc nặng thêm IBD → chống chỉ định tương đối trong IBD đang hoạt động. <b>D đúng</b>: Upadacitinib (JAKi) có dữ liệu dương tính trong viêm loét đại tràng và AS từ các thử nghiệm SELECT; được bổ sung vào khuyến cáo ASAS-EULAR 2022 như lựa chọn sau thất bại bDMARD. <b>E sai</b>: IBD trong VCSDK có thể tiến triển mạn tính và nặng nếu không điều trị."
+        },
+        {
+          "q": "Sau khi chuyển sang Infliximab, thang điểm nào được dùng để đánh giá đáp ứng điều trị cho phần bệnh cột sống sau 3 tháng?",
+          "options": [
+            "ΔASDAS ≥ 1,1 = cải thiện lâm sàng quan trọng; ΔBASDAI ≥ 2 (hoặc giảm ≥ 50%) = có đáp ứng",
+            "Nồng độ TNF-α huyết thanh trước và sau điều trị phản ánh mức độ ức chế sinh học",
+            "Khoảng cách chẩm-tường và chỉ số Schober là đủ để đánh giá đáp ứng điều trị ngắn hạn",
+            "X-quang cột sống mỗi 3 tháng để theo dõi tiến triển cầu xương và dính đốt sống"
+          ],
+          "answer": 0,
+          "explain": "Theo hướng dẫn ASAS-EULAR, đánh giá đáp ứng thuốc sinh học sau 3 tháng dựa vào: <b>ΔASDAS ≥ 1,1 = cải thiện lâm sàng quan trọng (Clinically Important Improvement); HOẶC ΔBASDAI ≥ 2 hoặc giảm ≥ 50% so với ban đầu = có đáp ứng điều trị</b>. ASDAS và BASDAI là hai công cụ song song được dùng để quyết định tiếp tục hay thay đổi thuốc. <b>Nồng độ TNF-α</b> huyết thanh không được dùng để theo dõi đáp ứng lâm sàng thường quy. <b>X-quang cột sống</b> và chỉ số Schober phản ánh tổn thương cấu trúc tích lũy dài hạn, không đánh giá được đáp ứng điều trị trong 3 tháng."
+        }
+      ]
+    },
+    {
+      "title": "Nam 33 tuổi đau lưng kiểu viêm, sưng toàn bộ ngón chân và mảng da bong vảy",
+      "body": "Bệnh nhân nam 33 tuổi, thợ sửa chữa điện lạnh, đến khám vì <b>đau lưng kiểu viêm 2 năm</b> và trong 3 tuần nay có <b>sưng đau toàn bộ ngón chân số 3 bàn chân phải</b> – ngón sưng to lan tỏa từ gốc đến đầu ngón, đỏ tím, đi lại khó. Đồng thời, bệnh nhân có <b>mảng da bong vảy trắng dày ở da đầu và mặt duỗi khuỷu tay</b> từ khoảng 4 năm nay nhưng chưa từng được khám da liễu.<br><b>Tiền sử:</b> Không có tiền sử khớp, mắt, ruột. Không có tiền sử gia đình rõ ràng.<br><b>Khám:</b> Sinh hiệu ổn. Ngón chân 3 bàn phải sưng nề toàn bộ, da đỏ tím, ấn đau lan tỏa (hình 'khúc dồi'). Vùng da đầu và mặt duỗi khuỷu tay có <b>mảng hồng ban giới hạn rõ, vảy bạc dày, dấu hiệu 'nến' dương tính, dấu Auspitz dương tính</b>. Ấn đau khớp cùng chậu hai bên. Hạn chế nhẹ vận động cột sống thắt lưng. Không sưng khớp ngoại vi khác.<br><b>Cận lâm sàng:</b> CRP 30 mg/L, VS 42 mm/giờ. RF âm tính. Acid uric 5,8 mg/dL (bình thường). <b>HLA-B27 dương tính</b>. X-quang khớp cùng chậu: mờ khe và không đều bờ khớp hai bên (giai đoạn 2).",
+      "questions": [
+        {
+          "q": "Dựa vào toàn bộ bệnh cảnh lâm sàng, bệnh nhân này được xếp vào thể SpA nào là phù hợp nhất?",
+          "options": [
+            "Viêm cột sống dính khớp vô căn thể trục đơn thuần với viêm ngón phản ứng",
+            "Viêm khớp phản ứng (Reactive arthritis) sau nhiễm khuẩn tiêu hóa hoặc tiết niệu",
+            "Viêm khớp vảy nến có tổn thương trục và ngoại vi (Psoriatic Arthritis – PsA axial/peripheral)",
+            "Viêm khớp gút đa khớp kết hợp đau lưng mạn tính do nghề nghiệp"
+          ],
+          "answer": 2,
+          "explain": "Bộ ba: <b>đau lưng kiểu viêm (axial SpA) + viêm ngón hình khúc dồi (dactylitis) + tổn thương da vảy nến điển hình</b> (hồng ban giới hạn rõ, vảy bạc, Auspitz +) → <b>Viêm khớp vảy nến (PsA) có tổn thương trục và ngoại vi</b>. VCSDK vô căn không có tổn thương da vảy nến. Viêm khớp phản ứng thường có tiền sử nhiễm khuẩn tiêu hóa/tiết niệu gần đây, không có vảy nến. Gout điển hình có acid uric tăng, viêm ngón chân cái đơn độc, không có viêm khớp cùng chậu hay vảy nến da."
+        },
+        {
+          "q": "Chọn TẤT CẢ các đáp án đúng: Những đặc điểm nào sau đây giúp phân biệt Viêm khớp vảy nến (PsA) với Viêm cột sống dính khớp vô căn (AS)?",
+          "type": "multi",
+          "options": [
+            "PsA có tổn thương da và/hoặc móng vảy nến là đặc điểm bắt buộc",
+            "Viêm ngón hình khúc dồi (dactylitis) đặc trưng hơn trong PsA so với AS",
+            "Tỷ lệ HLA-B27 trong PsA thấp hơn nhiều so với AS (30-40% vs ~90%)",
+            "Cầu xương trong PsA thường to, thô, không đối xứng; trong AS thường mảnh mai, đối xứng",
+            "AS hoàn toàn không bao giờ có biểu hiện viêm khớp ngoại vi"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explain": "<b>A đúng</b>: Tổn thương da hoặc móng vảy nến là tiêu chuẩn bắt buộc để chẩn đoán PsA. <b>B đúng</b>: Dactylitis đặc trưng hơn trong PsA (viêm lan tỏa toàn bộ cấu trúc một ngón: khớp, bao gân, phần mềm) so với AS thuần túy. <b>C đúng</b>: HLA-B27 trong PsA chỉ 30-40%, không liên quan chặt với bệnh như trong AS (~90%). <b>D đúng</b>: Syndesmophytes trong PsA thô, không đều, không đối xứng; trong AS mảnh, đối xứng hai bên – đây là phân biệt quan trọng trên X-quang cột sống. <b>E sai</b>: AS có thể có viêm khớp ngoại vi (30-50% BN), đặc biệt khớp háng, gối, cổ chân; chỉ là biểu hiện trục thường chiếm ưu thế hơn trong AS thuần túy."
+        },
+        {
+          "q": "Khi NSAIDs không kiểm soát đủ viêm khớp ngoại vi (dactylitis) trong PsA, nhóm thuốc DMARD nào được khuyến cáo đầu tiên?",
+          "options": [
+            "Hydroxychloroquine vì ít tác dụng phụ nhất trong nhóm DMARD cổ điển",
+            "Methotrexate hoặc Sulfasalazine vì có hiệu quả trên viêm khớp ngoại vi và cải thiện tổn thương da",
+            "Colchicine liều thấp dài hạn để kiểm soát đợt viêm khớp ngoại vi cấp tính",
+            "Allopurinol vì cần loại trừ thành phần tăng acid uric đồng thời điều trị"
+          ],
+          "answer": 1,
+          "explain": "Trong PsA thể ngoại vi (dactylitis, viêm đa khớp nhỏ), <b>Methotrexate (MTX) được ưu tiên đầu tiên</b>: hiệu quả trên cả viêm khớp và tổn thương da vảy nến. Sulfasalazine là lựa chọn thứ hai (hiệu quả trên khớp ngoại vi, ít tác dụng trên da hơn). <b>Hydroxychloroquine nên tránh trong PsA</b> do nguy cơ bùng phát tổn thương da và có thể làm nặng thêm vảy nến. Colchicine dùng đặc hiệu cho gout. Allopurinol điều trị tăng acid uric, không phải DMARD cho PsA. Lưu ý quan trọng: MTX và Sulfasalazine <b>không hiệu quả với thể trục</b> của PsA/AS – nếu có tổn thương trục hoạt động nặng vẫn cần thuốc sinh học."
+        },
+        {
+          "q": "Khi PsA thể trục và ngoại vi không đáp ứng với MTX và NSAIDs, giữa kháng TNF và kháng IL-17, loại nào được ưu tiên hơn trong trường hợp này?",
+          "options": [
+            "Kháng TNF ưu tiên hơn vì có hiệu quả vượt trội hơn kháng IL-17 trên tổn thương da vảy nến",
+            "Kháng IL-17A (Secukinumab, Ixekizumab) được ưu tiên vì có bằng chứng hiệu quả tốt trên cả da vảy nến, khớp ngoại vi và thể trục trong PsA",
+            "Upadacitinib (JAK inhibitor) là lựa chọn ưu tiên hàng đầu vì tác dụng mạnh nhất và là thuốc uống",
+            "Không có sự khác biệt về hiệu quả giữa các nhóm, quyết định chỉ dựa trên đường dùng thuốc"
+          ],
+          "answer": 1,
+          "explain": "Trong PsA với <b>vảy nến da hoạt động</b>, theo ASAS-EULAR 2022 và các hướng dẫn PsA (GRAPPA, EULAR): <b>IL-17i (Secukinumab, Ixekizumab) được ưu tiên</b> vì có bằng chứng mạnh về hiệu quả trên tổn thương da vảy nến (vượt trội hơn kháng TNF về đáp ứng da PASI 90/100), khớp ngoại vi và thể trục. Kháng TNF monoclonal cũng là lựa chọn tốt nhưng hiệu quả trên da kém hơn. Tuy nhiên <b>nếu BN có IBD đồng thời, phải tránh IL-17i</b> và ưu tiên kháng TNF monoclonal. JAK inhibitors (Tofacitinib, Upadacitinib) là lựa chọn khi thất bại với bDMARD trước đó."
+        },
+        {
+          "q": "Khi theo dõi dài hạn bệnh nhân SpA sử dụng thuốc sinh học, đặc điểm nào sau đây tiên lượng đáp ứng tốt hơn với thuốc sinh học?",
+          "options": [
+            "Tuổi trẻ < 40, giới nam, thời gian mắc bệnh ngắn, ASDAS/BASDAI cao, CRP/VS tăng cao, điểm BASFI thấp",
+            "Tuổi cao > 55, giới nữ, thời gian mắc bệnh > 20 năm, đã có dính cột sống hoàn toàn trên X-quang",
+            "Có tổn thương da vảy nến diện rộng vì thuốc sinh học tập trung vào da trước khi tác dụng lên khớp",
+            "HLA-B27 âm tính vì phản ứng miễn dịch yếu hơn nên đáp ứng thuốc sinh học tốt hơn"
+          ],
+          "answer": 0,
+          "explain": "Các yếu tố tiên đoán đáp ứng tốt với thuốc sinh học trong SpA: <b>Tuổi trẻ (< 40), giới nam, thời gian mắc bệnh ngắn, điểm ASDAS/BASDAI cao (bệnh đang viêm nhiều = còn nhiều khả năng cải thiện), CRP/VS tăng cao (viêm hệ thống rõ ràng = thuốc sinh học có đích tác dụng), điểm BASFI thấp (chức năng còn tốt = chưa có tổn thương cấu trúc không hồi phục)</b>. BN đã có dính cột sống hoàn toàn thì tổn thương xương đã cố định – thuốc sinh học kiểm soát được viêm nhưng không phục hồi được cấu trúc đã dính. Đây là lý do điều trị sớm khi bệnh còn ở giai đoạn viêm (không có hoặc ít cấu trúc bị dính) là rất quan trọng."
+        }
+      ]
+    }
+  ]
+}
