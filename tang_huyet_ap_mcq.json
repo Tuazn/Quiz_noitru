@@ -1,0 +1,559 @@
+{
+  "name": "Tăng huyết áp_MCQ",
+  "description": "50 câu MCQ lý thuyết chuyên đề tăng huyết áp: phân loại, cơ chế bệnh sinh, chẩn đoán, cận lâm sàng và điều trị theo VNHA/ESC",
+  "level": "Ôn thi nội trú",
+  "type": "mcq",
+  "category": "Nội",
+  "questions": [
+    {
+      "q": "Theo Hội Tim mạch Việt Nam (VNHA) và Châu Âu (ESC), ngưỡng huyết áp đo tại phòng khám được chẩn đoán là tăng huyết áp khi:",
+      "options": [
+        "≥ 130/80 mmHg",
+        "≥ 140/90 mmHg",
+        "≥ 135/85 mmHg",
+        "≥ 120/80 mmHg"
+      ],
+      "answer": 1,
+      "explain": "Theo VNHA/ESC, chẩn đoán tăng huyết áp khi huyết áp tâm thu ≥ 140 mmHg và/hoặc huyết áp tâm trương ≥ 90 mmHg. Nguồn: Bệnh học nội khoa YHN. Ý cần nhớ: Mốc 130/80 là theo ACC/AHA 2017, sinh viên rất dễ nhầm lẫn hai trường phái này."
+    },
+    {
+      "q": "Theo Hiệp hội Tim mạch Hoa Kỳ (ACC/AHA 2017), một bệnh nhân có mức huyết áp đo tại phòng khám là 132/82 mmHg được phân loại là:",
+      "options": [
+        "Huyết áp bình thường",
+        "Tiền tăng huyết áp",
+        "Tăng huyết áp giai đoạn 1",
+        "Tăng huyết áp giai đoạn 2"
+      ],
+      "answer": 2,
+      "explain": "Theo ACC/AHA 2017, huyết áp từ 130-139/80-89 mmHg được phân loại là Tăng huyết áp giai đoạn 1. Sự hạ thấp tiêu chuẩn này nhằm mục đích can thiệp và cảnh báo sớm biến chứng tim mạch."
+    },
+    {
+      "q": "Tăng huyết áp tâm thu đơn độc thường gặp nhất ở đối tượng nào dưới đây?",
+      "options": [
+        "Phụ nữ có thai",
+        "Trẻ vị thành niên béo phì",
+        "Người cao tuổi",
+        "Bệnh nhân đái tháo đường type 1"
+      ],
+      "answer": 2,
+      "explain": "Tăng huyết áp tâm thu đơn độc là đặc trưng ở người cao tuổi. Cơ chế chính là do giảm độ đàn hồi (xơ cứng) của hệ thống động mạch lớn theo tuổi tác."
+    },
+    {
+      "q": "Khái niệm \"Tăng huyết áp áo choàng trắng\" được định nghĩa là tình trạng:",
+      "options": [
+        "Huyết áp phòng khám tăng nhưng huyết áp đo ngoài cơ sở y tế bình thường",
+        "Huyết áp phòng khám bình thường nhưng huyết áp đo ngoài cơ sở y tế tăng",
+        "Huyết áp tăng từng cơn liên quan đến stress tâm lý",
+        "Huyết áp kháng trị với ít nhất 3 loại thuốc điều trị"
+      ],
+      "answer": 0,
+      "explain": "Tăng huyết áp áo choàng trắng xảy ra khi bệnh nhân lo lắng lúc đo tại cơ sở y tế, dẫn đến HA phòng khám ≥ 140/90 nhưng HA trung bình ban ngày qua Holter 24h hoặc tự đo tại nhà lại bình thường."
+    },
+    {
+      "q": "Tình trạng \"Tăng huyết áp ẩn giấu\" mang đặc điểm nào sau đây?",
+      "options": [
+        "Dễ chẩn đoán bằng cách đo nhiều lần tại phòng khám",
+        "Có nguy cơ biến chứng tim mạch tương đương người huyết áp bình thường",
+        "Huyết áp phòng khám bình thường nhưng tăng khi đo ngoại trú",
+        "Chỉ gặp ở bệnh nhân đang dùng thuốc hạ áp"
+      ],
+      "answer": 2,
+      "explain": "Tăng huyết áp ẩn giấu rất nguy hiểm vì dễ bị bỏ sót. Bệnh nhân có nguy cơ tổn thương cơ quan đích và biến chứng tim mạch cao tương đương hoặc hơn cả tăng huyết áp thực sự."
+    },
+    {
+      "q": "Bệnh nhân có mức huyết áp phòng khám là 165/105 mmHg được phân độ tăng huyết áp thế nào theo VNHA/ESC?",
+      "options": [
+        "Tăng huyết áp độ 1",
+        "Tăng huyết áp độ 2",
+        "Tăng huyết áp độ 3",
+        "Tăng huyết áp tâm thu đơn độc"
+      ],
+      "answer": 1,
+      "explain": "Theo VNHA/ESC, THA độ 2 là khi HA tâm thu 160-179 mmHg và/hoặc HA tâm trương 100-109 mmHg. Nguồn: Bệnh học nội khoa YHN. Cần nhớ mốc phân độ để quyết định chiến lược dùng thuốc."
+    },
+    {
+      "q": "Huyết áp động mạch là kết quả của tích số giữa hai yếu tố sinh lý chính nào?",
+      "options": [
+        "Tần số tim và thể tích nhát bóp",
+        "Cung lượng tim và sức cản ngoại vi",
+        "Độ đàn hồi thành mạch và độ nhớt của máu",
+        "Lưu lượng tuần hoàn và áp lực tĩnh mạch trung tâm"
+      ],
+      "answer": 1,
+      "explain": "Công thức kinh điển cơ bản: HA = Cung lượng tim (CO) x Sức cản ngoại vi (PR). Mọi cơ chế bệnh sinh của THA đều tác động qua việc làm tăng CO, tăng PR hoặc cả hai."
+    },
+    {
+      "q": "Trong hệ Renin-Angiotensin-Aldosteron (RAAS), Renin được tiết ra từ đâu?",
+      "options": [
+        "Tế bào nội mô mao mạch phổi",
+        "Tế bào gan",
+        "Phức hợp cận tiểu cầu của thận",
+        "Vỏ thượng thận"
+      ],
+      "answer": 2,
+      "explain": "Renin được giải phóng từ phức hợp cận tiểu cầu khi có tín hiệu giảm tưới máu thận, giảm nồng độ Na+ tới ống lượn xa hoặc do kích thích giao cảm. Đây là bẫy giải phẫu sinh lý kinh điển."
+    },
+    {
+      "q": "Vai trò trực tiếp gây tăng huyết áp mạnh nhất của Angiotensin II là:",
+      "options": [
+        "Gây co mạch mạnh và kích thích tiết Aldosteron",
+        "Gây nhịp tim nhanh và tăng co bóp cơ tim",
+        "Ức chế hệ thần kinh giao cảm",
+        "Kích thích tuyến yên tiết ADH để giữ nước"
+      ],
+      "answer": 0,
+      "explain": "Angiotensin II là một chất co mạch cực mạnh (tăng sức cản ngoại vi) và kích thích vỏ thượng thận tiết Aldosteron gây giữ Na+ và nước (tăng cung lượng tim)."
+    },
+    {
+      "q": "Hormone Aldosteron làm tăng huyết áp chủ yếu thông qua cơ chế nào?",
+      "options": [
+        "Tăng tái hấp thu Kali, thải Natri tại ống lượn xa",
+        "Tăng tái hấp thu Natri và nước, tăng thải Kali tại ống lượn xa",
+        "Co trực tiếp các tiểu động mạch ngoại vi",
+        "Kích thích tủy thượng thận tiết Catecholamine"
+      ],
+      "answer": 1,
+      "explain": "Aldosteron tác động lên ống lượn xa và ống góp, làm tăng tái hấp thu Na+ (kéo theo nước) và tăng bài tiết K+, H+. Nhớ kỹ cơ chế này để hiểu tác dụng của nhóm thuốc kháng Aldosteron và triệu chứng hạ K+ máu."
+    },
+    {
+      "q": "Sự rối loạn chức năng nội mô trong tăng huyết áp nguyên phát đặc trưng bởi sự mất cân bằng giữa các chất nào?",
+      "options": [
+        "Tăng Nitric oxide (NO) và giảm Endothelin",
+        "Tăng Prostaglandin và giảm Angiotensin II",
+        "Giảm Nitric oxide (NO) và tăng Endothelin-1",
+        "Giảm Bradykinin và giảm Renin"
+      ],
+      "answer": 2,
+      "explain": "Nội mô mạch máu bình thường tiết NO (giãn mạch) và Endothelin (co mạch). Khi rối loạn, nội mô giảm sản xuất NO và tăng sản xuất Endothelin-1, dẫn đến tăng co thắt mạch, mạn tính gây tái cấu trúc thành mạch."
+    },
+    {
+      "q": "Cơ chế bệnh sinh chính gây Tăng huyết áp ở bệnh nhân hẹp động mạch thận là do:",
+      "options": [
+        "Phì đại thất trái bù trừ",
+        "Cường giao cảm quá mức do đau đớn",
+        "Tăng tiết Renin do giảm tưới máu thận",
+        "Rối loạn chuyển hóa mỡ máu làm xơ vữa toàn phát"
+      ],
+      "answer": 2,
+      "explain": "Hẹp động mạch thận làm giảm áp lực tưới máu đến phức hợp cận tiểu cầu, đánh lừa thận rằng cơ thể đang thiếu dịch/huyết áp thấp, dẫn đến kích hoạt hệ RAAS ồ ạt không kiểm soát."
+    },
+    {
+      "q": "Hệ thần kinh giao cảm gây tăng huyết áp chủ yếu thông qua thụ thể nào trên tim và mạch máu?",
+      "options": [
+        "Beta-1 ở tim và Alpha-1 ở mạch máu",
+        "Beta-2 ở tim và Alpha-2 ở mạch máu",
+        "Alpha-1 ở tim và Beta-1 ở mạch máu",
+        "Alpha-2 ở tim và Beta-2 ở mạch máu"
+      ],
+      "answer": 0,
+      "explain": "Kích thích thụ thể Beta-1 làm tăng nhịp tim, tăng sức co bóp (tăng cung lượng tim). Kích thích thụ thể Alpha-1 làm co cơ trơn mạch máu (tăng sức cản ngoại vi). Đây là nền tảng cho việc sử dụng thuốc chẹn beta và chẹn alpha."
+    },
+    {
+      "q": "Sự tái cấu trúc thất trái (phì đại thất trái) trong tăng huyết áp là do:",
+      "options": [
+        "Quá tải thể tích tâm trương mạn tính",
+        "Quá tải áp lực tâm thu mạn tính",
+        "Tình trạng thiếu máu cục bộ cơ tim",
+        "Xơ hóa tổ chức kẽ cơ tim nguyên phát"
+      ],
+      "answer": 1,
+      "explain": "Tăng huyết áp tạo ra hậu gánh (afterload) cao. Để thắng được sức cản này, thất trái phải tăng sức co bóp mạn tính, dẫn đến quá tải áp lực và phì đại đồng tâm cơ thất trái."
+    },
+    {
+      "q": "Triệu chứng cơ năng lâm sàng phổ biến nhất của bệnh nhân tăng huyết áp nguyên phát là gì?",
+      "options": [
+        "Đau đầu vùng chẩm vào buổi sáng",
+        "Chảy máu mũi tự phát",
+        "Hoảng hốt, đánh trống ngực",
+        "Không có triệu chứng"
+      ],
+      "answer": 3,
+      "explain": "Tăng huyết áp được mệnh danh là \"kẻ giết người thầm lặng\" vì đa số bệnh nhân hoàn toàn không có triệu chứng cho đến khi xuất hiện biến chứng cơ quan đích. Các triệu chứng như nhức đầu, chảy máu mũi chỉ xuất hiện khi HA rất cao."
+    },
+    {
+      "q": "Bệnh nhân nam 25 tuổi, tiền sử khỏe mạnh, đi khám sức khỏe định kỳ phát hiện huyết áp 170/100 mmHg. Đặc điểm nào sau đây gợi ý nhiều nhất đây là tăng huyết áp thứ phát?",
+      "options": [
+        "Giới tính nam",
+        "Mức huyết áp độ 2",
+        "Tuổi khởi phát trẻ (< 30 tuổi)",
+        "Không có triệu chứng cơ năng"
+      ],
+      "answer": 2,
+      "explain": "Tăng huyết áp khởi phát ở người rất trẻ (< 30 tuổi) hoặc rất già (> 65 tuổi mới xuất hiện) là bẫy lâm sàng kinh điển buộc bác sĩ phải tầm soát các nguyên nhân thứ phát (hẹp eo ĐMC, hẹp ĐM thận, nội tiết...)."
+    },
+    {
+      "q": "Tam chứng lâm sàng kinh điển gợi ý nguyên nhân tăng huyết áp do U tủy thượng thận (Pheochromocytoma) là:",
+      "options": [
+        "Đau đầu, vã mồ hôi, hồi hộp đánh trống ngực",
+        "Yếu cơ, chuột rút, tiểu nhiều",
+        "Béo trung tâm, rạn da, mặt tròn đỏ",
+        "Phù ngoại vi, nhịp tim chậm, sợ lạnh"
+      ],
+      "answer": 0,
+      "explain": "U tủy thượng thận tiết từng đợt catecholamine sinh ra các cơn THA kịch phát kèm theo tam chứng: đau đầu dữ dội, vã mồ hôi đầm đìa và nhịp tim nhanh/đánh trống ngực."
+    },
+    {
+      "q": "Tăng huyết áp đi kèm với triệu chứng yếu cơ, liệt chu kỳ và hạ Kali máu dai dẳng gợi ý bệnh lý nào?",
+      "options": [
+        "Bệnh Basedow",
+        "Hội chứng Cushing",
+        "Cường Aldosteron tiên phát (Hội chứng Conn)",
+        "Hẹp động mạch thận"
+      ],
+      "answer": 2,
+      "explain": "Hội chứng Conn do tăng tiết Aldosteron quá mức dẫn đến tái hấp thu mạnh Na+ (gây THA) và đào thải mạnh K+ (gây hạ Kali máu, dẫn đến yếu cơ, liệt chu kỳ)."
+    },
+    {
+      "q": "Trong thăm khám lâm sàng bệnh nhân tăng huyết áp, nghe thấy tiếng thổi tâm thu rõ ở vùng cạnh rốn lệch sang một bên gợi ý nguyên nhân nào?",
+      "options": [
+        "Hẹp van động mạch chủ",
+        "Hẹp eo động mạch chủ",
+        "Hẹp động mạch thận",
+        "Phình bóc tách động mạch chủ ngực"
+      ],
+      "answer": 2,
+      "explain": "Âm thổi tâm thu ở bụng (vùng quanh rốn/mạng sườn) là dấu hiệu thực thể rất có giá trị gợi ý hẹp động mạch thận. Nguồn: Bệnh học nội khoa YHN."
+    },
+    {
+      "q": "Bệnh nhân nam 18 tuổi, khám nghĩa vụ quân sự thấy HA tay phải 160/90 mmHg, nhưng mạch bẹn hai bên đập rất yếu và HA đo ở chân là 100/60 mmHg. Chẩn đoán phân biệt nào cần nghĩ đến hàng đầu?",
+      "options": [
+        "Hẹp động mạch thận 2 bên",
+        "Bệnh Takayasu",
+        "Hẹp eo động mạch chủ",
+        "Huyết khối tĩnh mạch sâu"
+      ],
+      "answer": 2,
+      "explain": "Chênh lệch huyết áp lớn giữa chi trên (cao) và chi dưới (thấp, mạch bẹn bắt kém) ở người trẻ là dấu hiệu chỉ điểm kinh điển của bệnh lý hẹp eo động mạch chủ."
+    },
+    {
+      "q": "Đặc điểm cốt lõi để phân biệt \"Cơn tăng huyết áp cấp cứu\" (Hypertensive emergency) và \"Cơn tăng huyết áp khẩn trương\" (Hypertensive urgency) là:",
+      "options": [
+        "Mức độ tăng của huyết áp tâm thu (>200 vs >180 mmHg)",
+        "Sự hiện diện của tổn thương cơ quan đích đang tiến triển cấp tính",
+        "Mức độ đáp ứng với thuốc hạ áp đường uống",
+        "Tiền sử tăng huyết áp lâu năm của bệnh nhân"
+      ],
+      "answer": 1,
+      "explain": "Cơn THA cấp cứu không chỉ dựa vào con số HA (thường >180/120) mà yếu tố quyết định là phải có tổn thương cơ quan đích mới xuất hiện hoặc tiến triển (nhồi máu cơ tim, đột quỵ, phù phổi cấp...)."
+    },
+    {
+      "q": "Theo phân độ tổn thương đáy mắt của Keith-Wagener-Barker, sự xuất hiện của xuất huyết và xuất tiết tương ứng với giai đoạn nào?",
+      "options": [
+        "Giai đoạn I",
+        "Giai đoạn II",
+        "Giai đoạn III",
+        "Giai đoạn IV"
+      ],
+      "answer": 2,
+      "explain": "Phân độ kinh điển: I (hẹp động mạch nhẹ), II (dấu hiệu bắt chéo động-tĩnh mạch/Gunn), III (xuất huyết, xuất tiết võng mạc), IV (phù gai thị). Tổn thương giai đoạn III, IV có ý nghĩa tiên lượng rất xấu."
+    },
+    {
+      "q": "Bệnh nhân có tăng huyết áp và soi đáy mắt thấy \"phù gai thị\", tình trạng này cho biết:",
+      "options": [
+        "Bệnh nhân mắc hội chứng ngưng thở khi ngủ",
+        "Bệnh nhân bị tăng huyết áp ác tính (độ IV theo K-W-B)",
+        "Bệnh nhân đang bị viêm màng não do lao",
+        "Đây là biến chứng bình thường của THA ở người già"
+      ],
+      "answer": 1,
+      "explain": "Phù gai thị (Papilledema) là tiêu chuẩn vàng của tổn thương đáy mắt giai đoạn IV, đặc trưng cho Tăng huyết áp ác tính, đòi hỏi phải can thiệp cấp cứu."
+    },
+    {
+      "q": "Trong tiếp cận chẩn đoán, một bệnh nhân THA có biểu hiện béo phì thân, mặt tròn như mặt trăng, có các vết rạn da màu tím ở bụng. Bệnh cảnh này hướng tới:",
+      "options": [
+        "Suy giáp",
+        "Hội chứng Cushing",
+        "U tủy thượng thận",
+        "To đầu chi (Acromegaly)"
+      ],
+      "answer": 1,
+      "explain": "Các triệu chứng mô tả là đặc trưng của hội chứng Cushing (tăng Glucocorticoid quá mức). Glucocorticoid có tác dụng giữ muối nước nhẹ và làm tăng nhạy cảm mạch máu với catecholamine gây THA."
+    },
+    {
+      "q": "Trong hỏi bệnh bệnh nhân THA, khai thác tiền sử ngủ ngáy to, hay buồn ngủ ban ngày là để tầm soát nguyên nhân thứ phát nào?",
+      "options": [
+        "Cường giáp",
+        "Hội chứng ngưng thở khi ngủ tắc nghẽn (OSA)",
+        "Trào ngược dạ dày thực quản",
+        "Cường Aldosteron"
+      ],
+      "answer": 1,
+      "explain": "Hội chứng ngưng thở khi ngủ (OSA) là một nguyên nhân gây THA thứ phát hoặc làm THA trở nên kháng trị do tình trạng thiếu oxy ngắt quãng gây cường giao cảm liên tục về đêm."
+    },
+    {
+      "q": "Khám thực thể tim mạch ở bệnh nhân THA lâu năm, dấu hiệu nào sau đây phản ánh biến chứng phì đại thất trái?",
+      "options": [
+        "Tiếng T1 đanh, rung tâm trương",
+        "Mỏm tim đập lệch sang trái và xuống dưới, diện đập rộng",
+        "Tiếng cọ màng ngoài tim",
+        "Nhịp tim không đều hoàn toàn"
+      ],
+      "answer": 1,
+      "explain": "Khi thất trái phì đại và giãn do quá tải áp lực lâu ngày, mỏm tim sẽ dịch chuyển ra ngoài đường trung đòn trái và xuống khoang liên sườn 6, diện đập dội mạnh."
+    },
+    {
+      "q": "Theo VNHA/ESC, tiêu chuẩn chẩn đoán tăng huyết áp dựa vào máy theo dõi huyết áp lưu động 24 giờ (Holter HA) là:",
+      "options": [
+        "Huyết áp trung bình 24 giờ ≥ 130/80 mmHg",
+        "Huyết áp trung bình ban ngày ≥ 130/80 mmHg",
+        "Huyết áp trung bình 24 giờ ≥ 135/85 mmHg",
+        "Huyết áp trung bình ban đêm ≥ 120/80 mmHg"
+      ],
+      "answer": 0,
+      "explain": "Tiêu chuẩn Holter 24h chẩn đoán THA là HA trung bình 24h ≥ 130/80 mmHg. (HA trung bình ban ngày ≥ 135/85; ban đêm ≥ 120/70). Rất dễ bị bẫy với số đo tại phòng khám."
+    },
+    {
+      "q": "Bệnh nhân tự đo huyết áp tại nhà bằng máy điện tử đúng quy chuẩn. Ngưỡng chẩn đoán tăng huyết áp tại nhà là:",
+      "options": [
+        "≥ 130/80 mmHg",
+        "≥ 135/85 mmHg",
+        "≥ 140/90 mmHg",
+        "≥ 145/95 mmHg"
+      ],
+      "answer": 1,
+      "explain": "Ngưỡng đo tại nhà thấp hơn đo tại phòng khám (do loại trừ được yếu tố tâm lý). Mốc ≥ 135/85 mmHg trung bình nhiều lần được công nhận là tiêu chuẩn chẩn đoán theo hướng dẫn của VNHA/ESC."
+    },
+    {
+      "q": "Xét nghiệm thường quy (cơ bản) nào sau đây KHÔNG thuộc danh mục bắt buộc để đánh giá ban đầu bệnh nhân tăng huyết áp?",
+      "options": [
+        "Điện tâm đồ 12 chuyển đạo",
+        "Sinh hóa máu (Creatinin, điện giải đồ, mỡ máu, glucose)",
+        "Tổng phân tích nước tiểu",
+        "Chụp cộng hưởng từ (MRI) sọ não"
+      ],
+      "answer": 3,
+      "explain": "MRI sọ não là xét nghiệm chuyên sâu, chỉ chỉ định khi có dấu hiệu thần kinh khu trú gợi ý đột quỵ não. Các xét nghiệm còn lại là bắt buộc để tầm soát yếu tố nguy cơ và tổn thương cơ quan đích."
+    },
+    {
+      "q": "Trên điện tâm đồ, chỉ số Sokolow-Lyon được dùng để chẩn đoán phì đại thất trái khi:",
+      "options": [
+        "RaVL + SV3 ≥ 28 mm ở nam",
+        "SV1 + RV5 hoặc RV6 ≥ 35 mm",
+        "RV1 + SV5 ≥ 35 mm",
+        "Trục điện tim lệch phải > +90 độ"
+      ],
+      "answer": 1,
+      "explain": "Chỉ số Sokolow-Lyon là tổng biên độ sóng S ở V1 và sóng R ở V5 (hoặc V6, lấy sóng cao hơn). Khi tổng ≥ 35 mm (7 ô lớn), gợi ý phì đại thất trái. Phương án A là chỉ số Cornell."
+    },
+    {
+      "q": "Xét nghiệm phát hiện tổn thương cơ quan đích ở thận sớm nhất trong tăng huyết áp là:",
+      "options": [
+        "Siêu âm ổ bụng đánh giá kích thước thận",
+        "Định lượng Ure, Creatinin máu",
+        "Tỉ số Albumin/Creatinin niệu (Microalbumin niệu)",
+        "Chụp UIV (Niệu đồ tĩnh mạch)"
+      ],
+      "answer": 2,
+      "explain": "Microalbumin niệu (tỉ số ACR từ 30-300 mg/g) phản ánh tổn thương nội mô mao mạch cầu thận ở giai đoạn rất sớm, trước khi chức năng lọc cầu thận (đại diện qua Creatinin) bị suy giảm."
+    },
+    {
+      "q": "Cận lâm sàng hình ảnh học nào được coi là tiêu chuẩn vàng và thường dùng để chẩn đoán xác định hẹp động mạch thận?",
+      "options": [
+        "Siêu âm Doppler động mạch thận",
+        "Chụp X-quang bụng không chuẩn bị",
+        "Chụp cắt lớp vi tính mạch máu (CTA) hoặc MRI mạch máu động mạch thận",
+        "Xạ hình thận với Captopril"
+      ],
+      "answer": 2,
+      "explain": "Siêu âm Doppler là bước tầm soát ban đầu (phụ thuộc người làm). Chụp CTA hoặc MRA động mạch thận có độ nhạy/đặc hiệu rất cao và đánh giá chính xác vị trí, mức độ hẹp để can thiệp."
+    },
+    {
+      "q": "Chỉ định nào sau đây là phù hợp nhất để cho bệnh nhân đeo máy Holter huyết áp 24 giờ?",
+      "options": [
+        "Đánh giá tổn thương đáy mắt",
+        "Tầm soát tăng huyết áp ở toàn bộ cộng đồng",
+        "Nghi ngờ tăng huyết áp áo choàng trắng hoặc tăng huyết áp ẩn giấu",
+        "Cấp cứu bệnh nhân đang bị nhồi máu cơ tim cấp"
+      ],
+      "answer": 2,
+      "explain": "Holter HA 24h đặc biệt hữu ích để loại trừ yếu tố tâm lý (áo choàng trắng), phát hiện THA ban đêm (non-dipper), hoặc THA ẩn giấu (bình thường tại viện nhưng cao ở nhà)."
+    },
+    {
+      "q": "Để chẩn đoán xác định nguyên nhân tăng huyết áp do U tủy thượng thận, xét nghiệm nào có giá trị cao nhất?",
+      "options": [
+        "Định lượng Cortisol máu 8h sáng",
+        "Định lượng Metanephrine tự do trong huyết tương hoặc niệu 24h",
+        "Siêu âm tuyến giáp",
+        "Định lượng Aldosteron máu"
+      ],
+      "answer": 1,
+      "explain": "Metanephrine là sản phẩm chuyển hóa liên tục của catecholamine. Nồng độ của chất này ít bị dao động theo cơn so với việc đo trực tiếp Adrenalin/Noradrenalin, mang lại độ nhạy và đặc hiệu rất cao."
+    },
+    {
+      "q": "Trên siêu âm tim ở bệnh nhân tăng huyết áp, thông số nào phản ánh cấu trúc tổn thương đích mạn tính?",
+      "options": [
+        "Áp lực động mạch phổi tâm thu (PAPs)",
+        "Chỉ số khối lượng cơ thất trái (LVMI)",
+        "Mức độ hở van ba lá",
+        "Vận tốc dòng máu qua van động mạch chủ"
+      ],
+      "answer": 1,
+      "explain": "LVMI (Left Ventricular Mass Index) là thước đo định lượng chính xác sự phì đại cơ thất trái. Siêu âm tim nhạy hơn điện tâm đồ rất nhiều trong việc phát hiện tổn thương cơ quan đích này."
+    },
+    {
+      "q": "Theo hướng dẫn, bệnh nhân được chẩn đoán là \"Tăng huyết áp kháng trị\" (Resistant hypertension) khi không đạt huyết áp mục tiêu dù:",
+      "options": [
+        "Đã dùng 2 loại thuốc hạ áp tối đa liều",
+        "Đã dùng 3 loại thuốc hạ áp phối hợp (trong đó có 1 lợi tiểu) ở liều tối ưu dung nạp",
+        "Đã dùng 1 loại thuốc chẹn beta kết hợp thay đổi lối sống",
+        "Có tổn thương cơ quan đích trầm trọng"
+      ],
+      "answer": 1,
+      "explain": "Tiêu chuẩn kinh điển của THA kháng trị: HA vẫn trên mục tiêu dù dùng đủ 3 nhóm thuốc cơ bản (thường là UCMC/CTT + Chẹn kênh canxi + Lợi tiểu) ở liều tối ưu và bệnh nhân tuân thủ điều trị tốt."
+    },
+    {
+      "q": "Theo ESC/VNHA, mục tiêu huyết áp phòng khám cần đạt ở đa số bệnh nhân tăng huyết áp từ 18-65 tuổi (nếu dung nạp được) là:",
+      "options": [
+        "< 140/90 mmHg",
+        "130-139 / 80-89 mmHg",
+        "120-129 / 70-79 mmHg",
+        "< 110/70 mmHg"
+      ],
+      "answer": 2,
+      "explain": "Guideline ESC/VNHA mới nhấn mạnh mục tiêu kiểm soát tích cực. Ở người trẻ/trung niên (< 65 tuổi), nếu dung nạp tốt, đích HA tâm thu nên hạ xuống mức 120-129 mmHg và HA tâm trương 70-79 mmHg."
+    },
+    {
+      "q": "Chống chỉ định tuyệt đối của nhóm thuốc Ức chế men chuyển (ACEi) và Chẹn thụ thể Angiotensin II (ARB) là:",
+      "options": [
+        "Bệnh nhân đái tháo đường",
+        "Phụ nữ có thai",
+        "Bệnh nhân suy tim tâm thu",
+        "Bệnh nhân có tiền sử nhồi máu cơ tim"
+      ],
+      "answer": 1,
+      "explain": "ACEi và ARB gây độc cho thai nhi (gây dị tật bẩm sinh, suy thận thai nhi), do đó CHỐNG CHỈ ĐỊNH tuyệt đối trong thai kỳ. Đây là bẫy kê đơn rất nghiêm trọng trên lâm sàng."
+    },
+    {
+      "q": "Tác dụng phụ gây \"ho khan\" của nhóm thuốc Ức chế men chuyển (ACEi) chủ yếu liên quan đến cơ chế nào?",
+      "options": [
+        "Kích ứng niêm mạc phế quản do hạ huyết áp quá nhanh",
+        "Tích lũy Bradykinin và chất P ở đường hô hấp",
+        "Co thắt cơ trơn phế quản tương tự chẹn Beta",
+        "Giảm bài tiết dịch nhầy đường hô hấp do mất nước"
+      ],
+      "answer": 1,
+      "explain": "Men chuyển Angiotensin (ACE) không chỉ chuyển Angiotensin I thành II mà còn có nhiệm vụ giáng hóa Bradykinin. Khi ức chế men này, Bradykinin tích tụ gây ho khan và phù mạch."
+    },
+    {
+      "q": "Bệnh nhân nam 55 tuổi, Tăng huyết áp có kèm Đái tháo đường type 2 và có microalbumin niệu. Nhóm thuốc ưu tiên lựa chọn hàng đầu cho bệnh nhân này là:",
+      "options": [
+        "Chẹn beta giao cảm",
+        "Lợi tiểu quai",
+        "Ức chế men chuyển (ACEi) hoặc Chẹn thụ thể (ARB)",
+        "Chẹn alpha giao cảm"
+      ],
+      "answer": 2,
+      "explain": "ACEi và ARB ngoài tác dụng hạ áp còn có đặc tính bảo vệ thận, giãn tiểu động mạch đi của cầu thận, giúp giảm áp lực lọc và giảm bài tiết protein niệu, làm chậm tiến triển bệnh thận mạn ở bệnh nhân ĐTĐ."
+    },
+    {
+      "q": "Thuốc chẹn beta giao cảm (như Bisoprolol, Metoprolol) có chống chỉ định tuyệt đối trong trường hợp nào sau đây?",
+      "options": [
+        "Tăng huyết áp kèm nhịp tim nhanh",
+        "Tăng huyết áp ở phụ nữ có thai",
+        "Hen phế quản hoặc Block nhĩ thất độ 2, độ 3",
+        "Suy tim có phân suất tống máu giảm đã ổn định"
+      ],
+      "answer": 2,
+      "explain": "Thuốc chẹn beta làm co thắt phế quản (do ức chế beta-2) có thể kích phát cơn hen ác tính. Đồng thời thuốc ức chế dẫn truyền nhĩ thất, làm nặng thêm tình trạng Block AV độ 2, 3."
+    },
+    {
+      "q": "Cơ chế tác dụng chính của nhóm thuốc lợi tiểu Thiazide trong điều trị tăng huyết áp là:",
+      "options": [
+        "Ức chế đồng vận chuyển Na+/K+/2Cl- ở nhánh lên quai Henle",
+        "Đối kháng cạnh tranh với Aldosteron ở ống góp",
+        "Ức chế đồng vận chuyển Na+/Cl- ở phần đầu ống lượn xa",
+        "Ức chế men CA (Carbonic Anhydrase) ở ống lượn gần"
+      ],
+      "answer": 2,
+      "explain": "Thiazide ức chế kênh Na+/Cl- ở ống lượn xa, làm tăng thải Na+ và nước. Về lâu dài, nó còn có tác dụng giãn tĩnh mạch nhẹ làm giảm sức cản ngoại vi. Lựa chọn A là của lợi tiểu quai."
+    },
+    {
+      "q": "Một bệnh nhân nam có tiền sử bệnh Gout cấp nhiều lần đang điều trị tăng huyết áp. Nhóm thuốc hạ áp nào sau đây có thể làm khởi phát cơn Gout cấp và cần thận trọng/chống chỉ định?",
+      "options": [
+        "Lợi tiểu Thiazide",
+        "Chẹn kênh canxi (Amlodipine)",
+        "Ức chế men chuyển (Enalapril)",
+        "Chẹn thụ thể (Losartan)"
+      ],
+      "answer": 0,
+      "explain": "Lợi tiểu Thiazide làm giảm bài tiết acid uric tại ống thận, dẫn đến tăng acid uric trong máu, dễ khởi phát cơn Gout cấp. Ngược lại, Losartan là thuốc có đặc tính giúp tăng thải acid uric nhẹ."
+    },
+    {
+      "q": "Chiến lược khởi trị bằng thuốc ở đa số bệnh nhân tăng huyết áp theo các khuyến cáo hiện hành (ESC/VNHA) là:",
+      "options": [
+        "Khởi trị bằng 1 thuốc liều thấp, tăng dần liều tối đa",
+        "Luôn khởi trị bằng chẹn beta giao cảm đơn độc",
+        "Khởi trị bằng viên phối hợp 2 thuốc (UCMC/CTT + CCB hoặc Lợi tiểu) liều thấp",
+        "Khởi trị bằng 3 thuốc ngay từ đầu"
+      ],
+      "answer": 2,
+      "explain": "Guideline hiện đại khuyến cáo khởi trị ngay bằng viên thuốc phối hợp 2 thành phần (pill-in-pill) ở liều thấp để tăng hiệu quả hạ áp, giảm tác dụng phụ và tăng độ tuân thủ của bệnh nhân."
+    },
+    {
+      "q": "Bệnh nhân vào cấp cứu với HA 220/120 mmHg, lú lẫn, phù gai thị. Chiến lược kiểm soát huyết áp trong giờ đầu tiên đối với cơn THA cấp cứu này (bệnh não do THA) là:",
+      "options": [
+        "Hạ HA về mức bình thường 120/80 mmHg càng nhanh càng tốt",
+        "Hạ huyết áp trung bình (MAP) không quá 25% trong giờ đầu tiên",
+        "Cho uống Captopril dưới lưỡi và cho về theo dõi",
+        "Chờ 24 giờ xem huyết áp có tự hạ không mới dùng thuốc tĩnh mạch"
+      ],
+      "answer": 1,
+      "explain": "Nguyên tắc sống còn trong THA cấp cứu (trừ bóc tách ĐMC, đột quỵ nhồi máu, tiền sản giật) là không hạ HA quá nhanh. Hạ tối đa 25% HA trung bình trong giờ đầu để tránh nguy cơ thiếu máu cục bộ cơ quan não/tim/thận."
+    },
+    {
+      "q": "Tác dụng không mong muốn thường gặp nhất của nhóm thuốc Chẹn kênh Canxi Dihydropyridine (như Amlodipine) khiến bệnh nhân hay than phiền là:",
+      "options": [
+        "Nhịp tim chậm",
+        "Ho khan",
+        "Phù ngoại vi (phù mắt cá chân)",
+        "Suy thận cấp"
+      ],
+      "answer": 2,
+      "explain": "CCB nhóm DHP có tác dụng giãn tiểu động mạch trước mao mạch mạnh hơn tiểu tĩnh mạch sau mao mạch, làm tăng áp lực thủy tĩnh mao mạch gây rò rỉ dịch ra khoảng kẽ, dẫn đến phù cẳng chân/mắt cá chân (không liên quan đến suy tim hay thận)."
+    },
+    {
+      "q": "Trong quá trình theo dõi, biến chứng cấp tính và là nguyên nhân tử vong/tàn phế hàng đầu ở bệnh nhân Tăng huyết áp không kiểm soát là:",
+      "options": [
+        "Cơn Gout cấp",
+        "Suy thận cấp",
+        "Tai biến mạch máu não (Đột quỵ)",
+        "Xuất huyết tiêu hóa"
+      ],
+      "answer": 2,
+      "explain": "Tăng huyết áp là yếu tố nguy cơ lớn nhất, trực tiếp nhất gây đột quỵ (cả xuất huyết não do vỡ vi phình mạch Charcot-Bouchard và nhồi máu não). Đây là biến chứng cần phòng ngừa tích cực nhất."
+    },
+    {
+      "q": "Sinh lý bệnh của bệnh não do tăng huyết áp (Hypertensive encephalopathy) chủ yếu là do:",
+      "options": [
+        "Nhồi máu động mạch não giữa diện rộng",
+        "Vỡ phình động mạch thông trước",
+        "Mất cơ chế tự điều hòa lưu lượng máu não, phá vỡ hàng rào máu não gây phù não",
+        "Huyết khối xoang tĩnh mạch màng cứng"
+      ],
+      "answer": 2,
+      "explain": "Khi HA tăng quá cao, vượt qua giới hạn tự điều hòa của mạch máu não, các vi mạch bị giãn cưỡng bức, phá vỡ hàng rào máu não dẫn đến thoát dịch ra kẽ gây phù não toàn thể."
+    },
+    {
+      "q": "Để quyết định ngưỡng bắt đầu điều trị thuốc ở bệnh nhân tăng huyết áp độ 1, bác sĩ cần kết hợp đánh giá:",
+      "options": [
+        "Điểm nguy cơ tim mạch tổng thể trong 10 năm (như SCORE/SCORE2)",
+        "Yếu tố di truyền bằng giải trình tự gen",
+        "Xét nghiệm đông máu toàn bộ",
+        "Chụp mạch vành thường quy cho mọi bệnh nhân"
+      ],
+      "answer": 0,
+      "explain": "Đối với THA độ 1, nếu nguy cơ tim mạch tổng thể (tính theo thang điểm SCORE) cao hoặc có tổn thương cơ quan đích, bệnh nhân phải dùng thuốc ngay. Nếu nguy cơ thấp, có thể theo dõi thay đổi lối sống một thời gian."
+    },
+    {
+      "q": "Tổn thương thận mạn do tăng huyết áp diễn tiến âm thầm, đặc trưng mô bệnh học sớm là:",
+      "options": [
+        "Viêm cầu thận bán cấp có liềm tế bào",
+        "Viêm đài bể thận kẽ mạn tính",
+        "Hoại tử ống thận cấp",
+        "Xơ cứng thành tiểu động mạch vào và xơ hóa cuộn mao mạch cầu thận"
+      ],
+      "answer": 3,
+      "explain": "Tăng huyết áp mạn tính gây ra tổn thương vi mạch (Nephrosclerosis - xơ cứng thận), làm dày xơ các tiểu động mạch đến và xơ hóa các cuộn mao mạch cầu thận, cuối cùng làm cầu thận xơ teo và mất chức năng vĩnh viễn."
+    }
+  ]
+}
