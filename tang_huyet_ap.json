@@ -1,0 +1,509 @@
+{
+  "name": "Tăng huyết áp",
+  "description": "Bộ đề case lâm sàng tăng huyết áp dùng cho ôn thi nội trú",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 62 tuổi đau ngực dữ dội lan ra sau lưng, khởi phát đột ngột",
+      "body": "<b>Bệnh nhân nam 62 tuổi</b>, làm nghề xây dựng, vào viện vì <b>đau ngực trái dữ dội</b>.<br>Bệnh khởi phát đột ngột cách đây 2 giờ khi đang nghỉ ngơi, đau như dao đâm sau xương ức lan ra sau lưng, cường độ 9/10, không giảm khi nghỉ.<br><b>Tiền sử:</b> tăng huyết áp 10 năm, đang điều trị bằng Amlodipin 5mg/ngày nhưng không tuân thủ, huyết áp thường xuyên 160–170 mmHg. Hút thuốc lá 40 bao.năm, không uống rượu.<br><b>Khám lúc vào viện:</b> bệnh nhân tỉnh, hốt hoảng, vã mồ hôi, da lạnh ẩm. Mạch 110 lần/phút. Huyết áp tay phải 190/100 mmHg, huyết áp tay trái 160/95 mmHg. Nhiệt độ 37°C, SpO₂ 96% khí trời, BMI 26 kg/m².<br>Tim nhịp nhanh đều, có tiếng thổi tâm trương 3/6 ở ổ van động mạch chủ. Phổi thông khí rõ hai bên, không ran. Bụng mềm. Mạch mu chân hai bên bắt rõ, đều nhau.<br><b>Cận lâm sàng:</b> Troponin T hs 15 ng/L, D-dimer 1.2 mg/L, Creatinin 110 µmol/L. ECG: nhịp nhanh xoang, dày thất trái. X-quang ngực thẳng tại giường: trung thất trên rộng.",
+      "questions": [
+        {
+          "q": "Chẩn đoán có khả năng nhất là gì?",
+          "options": [
+            "Nhồi máu cơ tim cấp có ST chênh lên",
+            "Bóc tách động mạch chủ ngực cấp",
+            "Thuyên tắc phổi cấp",
+            "Cơn tăng huyết áp khẩn cấp"
+          ],
+          "answer": 1,
+          "explain": "Chẩn đoán phù hợp nhất là bóc tách động mạch chủ ngực cấp dựa trên các dấu hiệu kinh điển: đau ngực dữ dội lan ra sau lưng, huyết áp hai tay chênh lệch > 20 mmHg, và X-quang có trung thất rộng. Tăng huyết áp không kiểm soát là yếu tố nguy cơ hàng đầu."
+        },
+        {
+          "q": "Cơ chế nào giải thích cho tiếng thổi tâm trương mới xuất hiện ở bệnh nhân này?",
+          "options": [
+            "Dãn vòng van hai lá do tăng gánh thể tích",
+            "Rối loạn chức năng cơ nhú do thiếu máu cục bộ",
+            "Dòng máu bóc tách lan ngược gây hở van động mạch chủ cấp",
+            "Hẹp động mạch chủ do vữa xơ"
+          ],
+          "answer": 2,
+          "explain": "Cơ chế gây ra tiếng thổi tâm trương mới xuất hiện là do dòng máu bóc tách lan ngược về gốc động mạch chủ, gây hở van động mạch chủ cấp. Đây là một biến chứng nguy hiểm, có thể dẫn đến suy tim cấp và sốc tim."
+        },
+        {
+          "q": "Cận lâm sàng nào sau đây có giá trị nhất để xác định chẩn đoán?",
+          "options": [
+            "CT-scan ngực có tiêm thuốc cản quang",
+            "Siêu âm tim qua thành ngực",
+            "Chụp động mạch vành",
+            "MRI tim"
+          ],
+          "answer": 0,
+          "explain": "CT-scan ngực có tiêm thuốc cản quang là tiêu chuẩn vàng để chẩn đoán xác định, phân loại (Stanford A hay B) và đánh giá mức độ lan rộng của bóc tách động mạch chủ. Siêu âm tim qua thành ngực có thể hữu ích nhưng không đủ để loại trừ hoàn toàn."
+        },
+        {
+          "q": "Mục tiêu xử trí huyết động ban đầu quan trọng nhất là gì?",
+          "options": [
+            "Hạ huyết áp tâm thu xuống dưới 140 mmHg trong giờ đầu",
+            "Hạ nhịp tim < 60 lần/phút và huyết áp tâm thu 100–120 mmHg",
+            "Duy trì huyết áp trung bình > 80 mmHg",
+            "Chuẩn bị đặt stent graft nội mạch khẩn cấp"
+          ],
+          "answer": 1,
+          "explain": "Mục tiêu xử trí ban đầu là kiểm soát \"lực xé\" (shearing force) lên thành động mạch. Điều này đạt được bằng cách hạ nhịp tim xuống < 60 lần/phút (bằng chẹn beta giao cảm như Labetalol) và sau đó hạ huyết áp tâm thu xuống 100–120 mmHg (bằng thuốc giãn mạch như Nicardipine). Đặt stent graft nội mạch là phương pháp điều trị cho bóc tách type B có biến chứng, không phải xử trí ban đầu cho mọi trường hợp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 45 tuổi đau đầu, mệt mỏi kéo dài, huyết áp không kiểm soát với 3 thuốc",
+      "body": "<b>Bệnh nhân nữ 45 tuổi</b>, nhân viên văn phòng, đến khám vì <b>đau đầu và mệt mỏi kéo dài</b>.<br>Bệnh nhân mới được chẩn đoán tăng huyết áp 3 tháng trước với huyết áp cao nhất 170/100 mmHg, đã được kê đơn phối hợp 3 loại thuốc (Amlodipin 10mg, Valsartan 160mg, Hydrochlorothiazide 25mg) nhưng huyết áp tại nhà vẫn dao động quanh mức 150/95 mmHg. Bệnh nhân không có tiền sử bệnh thận, đái tháo đường.<br><b>Khám:</b> thể trạng trung bình (BMI 24 kg/m²), tỉnh táo, tiếp xúc tốt. Huyết áp phòng khám 165/102 mmHg, mạch 80 lần/phút. Tim nhịp đều, phổi không ran. Bụng mềm, không nghe thấy tiếng thổi động mạch thận. Bệnh nhân không có phù, không có các dấu hiệu của hội chứng Cushing hay cường giáp.<br><b>Xét nghiệm:</b> Na⁺ 142 mmol/L, K⁺ 3.1 mmol/L, Creatinin 75 µmol/L, Glucose 5.2 mmol/L. Hoạt độ Renin huyết tương (PRA) thấp, nồng độ Aldosteron huyết tương tăng.",
+      "questions": [
+        {
+          "q": "Tình trạng huyết áp của bệnh nhân được gọi là gì?",
+          "options": [
+            "Tăng huyết áp thứ phát",
+            "Tăng huyết áp áo choàng trắng",
+            "Tăng huyết áp kháng trị",
+            "Tăng huyết áp dao động"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân được định nghĩa là tăng huyết áp kháng trị vì huyết áp không đạt mục tiêu (< 140/90 mmHg) dù đã sử dụng phác đồ 3 thuốc hạ áp tối ưu (bao gồm một thuốc lợi tiểu)."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh nào có khả năng nhất gây ra tình trạng của bệnh nhân?",
+          "options": [
+            "Tăng hoạt tính hệ thần kinh giao cảm",
+            "Tăng sản xuất Aldosteron tự phát từ tuyến thượng thận",
+            "Hẹp động mạch thận gây tăng tiết Renin thứ phát",
+            "Tăng tiết Cortisol từ tuyến thượng thận"
+          ],
+          "answer": 1,
+          "explain": "Hạ kali máu không giải thích được trên bệnh nhân đang dùng lợi tiểu thiazide, kết hợp với tăng huyết áp kháng trị, là dấu hiệu gợi ý kinh điển của cường aldosteron nguyên phát. Aldosteron gây giữ muối, nước (gây tăng huyết áp) và tăng thải kali qua nước tiểu (gây hạ kali máu)."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây cần được chỉ định tiếp theo để sàng lọc nguyên nhân?",
+          "options": [
+            "Siêu âm Doppler động mạch thận",
+            "Định lượng Metanephrine nước tiểu 24 giờ",
+            "Chụp CT scan tuyến thượng thận",
+            "Tỷ lệ Aldosteron/Renin huyết tương (ARR)"
+          ],
+          "answer": 3,
+          "explain": "Tỷ lệ Aldosteron/Renin (ARR) là xét nghiệm sàng lọc đầu tay và nhạy nhất để chẩn đoán cường aldosteron nguyên phát. Tỷ lệ này tăng cao (thường > 20–30 ng/dL trên ng/mL/h) sẽ gợi ý chẩn đoán. Cần lưu ý ngưng các thuốc ảnh hưởng đến hệ RAA trước khi làm xét nghiệm."
+        },
+        {
+          "q": "Nếu chẩn đoán được xác định, nhóm thuốc nào sau đây là lựa chọn điều trị đầu tay?",
+          "options": [
+            "Thuốc kháng thụ thể Mineralocorticoid (MRA)",
+            "Thuốc chẹn beta giao cảm",
+            "Thuốc ức chế men chuyển (ACEi)",
+            "Thuốc lợi tiểu quai"
+          ],
+          "answer": 0,
+          "explain": "Thuốc kháng thụ thể Mineralocorticoid (MRA) như Spironolactone hoặc Eplerenone là thuốc điều trị đặc hiệu cho cường aldosteron nguyên phát. Chúng đối kháng trực tiếp tác dụng của Aldosteron tại ống lượn xa, giúp kiểm soát huyết áp và điều chỉnh hạ kali máu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi nhìn mờ và đau đầu dữ dội, tiền sử tự ngưng thuốc huyết áp",
+      "body": "<b>Bệnh nhân nam 55 tuổi</b>, tài xế, vào viện cấp cứu vì <b>nhìn mờ và đau đầu dữ dội</b>.<br><b>Tiền sử:</b> đái tháo đường type 2 được 5 năm, điều trị với Metformin 2000mg/ngày và Gliclazide 60mg/ngày. Được chẩn đoán tăng huyết áp nhưng tự ý ngưng thuốc 1 năm nay.<br><b>Khám lúc vào viện:</b> bệnh nhân tỉnh nhưng lơ mơ, GCS 14 điểm. Huyết áp 230/140 mmHg, mạch 100 lần/phút, nhịp thở 20 lần/phút, SpO₂ 97%. Soi đáy mắt có xuất huyết võng mạc và phù gai thị. Tim nhịp nhanh đều, T1/T2 rõ. Phổi không ran. Không có dấu thần kinh khu trú, không có dấu màng não.<br><b>Cận lâm sàng:</b> Glucose mao mạch 15.6 mmol/L, Na⁺ 136 mmol/L, K⁺ 4.0 mmol/L, Creatinin 180 µmol/L (mức nền 3 tháng trước là 90 µmol/L), Troponin T hs 25 ng/L. ECG: dày thất trái, không có biến đổi ST-T cấp.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào mô tả đầy đủ nhất tình trạng của bệnh nhân?",
+          "options": [
+            "Tăng áp lực thẩm thấu do tăng đường huyết",
+            "Cơn tăng huyết áp khẩn cấp",
+            "Đột quỵ thiếu máu não cấp",
+            "Cơn tăng huyết áp cấp cứu với tổn thương não, mắt và thận"
+          ],
+          "answer": 3,
+          "explain": "Đây là một cơn tăng huyết áp cấp cứu, định nghĩa là huyết áp tăng rất cao (thường > 180/120 mmHg) kèm theo bằng chứng tổn thương cơ quan đích cấp tính. Ở bệnh nhân này, có 3 tổn thương: (1) Bệnh não do tăng huyết áp (lơ mơ, đau đầu), (2) Bệnh võng mạc độ IV (phù gai thị), và (3) Tổn thương thận cấp (Creatinin tăng gấp đôi)."
+        },
+        {
+          "q": "Cơ chế chính gây ra tình trạng lơ mơ của bệnh nhân là gì?",
+          "options": [
+            "Phù não do nhiễm độc tế bào (cytotoxic edema) vì đường huyết cao",
+            "Co thắt mạch máu não nghiêm trọng gây thiếu máu lan tỏa",
+            "Rối loạn chức năng hàng rào máu não gây phù não vận mạch (vasogenic edema)",
+            "Tăng áp lực thẩm thấu huyết tương làm co tế bào não"
+          ],
+          "answer": 2,
+          "explain": "Tăng huyết áp mức độ nặng làm phá vỡ hàng rào máu não và vượt quá khả năng tự điều hòa của mạch máu não. Điều này dẫn đến sự thoát dịch từ lòng mạch vào nhu mô não, gây ra phù não vận mạch (vasogenic edema), biểu hiện lâm sàng là bệnh não do tăng huyết áp."
+        },
+        {
+          "q": "Mục tiêu điều trị huyết áp trong giờ đầu tiên là gì?",
+          "options": [
+            "Hạ huyết áp tâm thu xuống dưới 140 mmHg",
+            "Hạ huyết áp trung bình không quá 25%",
+            "Đưa huyết áp về mức bình thường càng nhanh càng tốt",
+            "Hạ huyết áp tâm thu xuống 180 mmHg"
+          ],
+          "answer": 1,
+          "explain": "Mục tiêu trong cơn tăng huyết áp cấp cứu (ngoại trừ đột quỵ cấp và bóc tách ĐMC) là hạ huyết áp trung bình khoảng 10–20% trong giờ đầu tiên, và thêm 5–15% trong 23 giờ tiếp theo. Hạ huyết áp quá nhanh và quá sâu có thể gây thiếu máu cục bộ các cơ quan đích (não, tim, thận)."
+        },
+        {
+          "q": "Biện pháp can thiệp nào là phù hợp nhất ngay lúc này?",
+          "options": [
+            "Bắt đầu truyền tĩnh mạch Labetalol hoặc Nicardipine",
+            "Cho bệnh nhân uống một liều Captopril 25mg",
+            "Ngậm dưới lưỡi Nifedipine 10mg",
+            "Tiêm tĩnh mạch Furosemide liều cao"
+          ],
+          "answer": 0,
+          "explain": "Thuốc hạ áp đường tĩnh mạch là bắt buộc trong cơn tăng huyết áp cấp cứu để có thể điều chỉnh liều chính xác và đạt hiệu quả nhanh. Labetalol (chẹn cả alpha và beta) và Nicardipine (chẹn kênh canxi) là hai lựa chọn hàng đầu vì hiệu quả, an toàn và dễ dàng chuẩn độ liều. Dùng thuốc uống như Nifedipine ngậm dưới lưỡi là chống chỉ định vì gây tụt huyết áp không kiểm soát được."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi COPD giai đoạn III, suy tim, khó thở tăng và ho khạc đờm mủ",
+      "body": "<b>Bệnh nhân nam 70 tuổi</b>, có tiền sử bệnh phổi tắc nghẽn mạn tính (COPD) giai đoạn III, tăng huyết áp và suy tim sung huyết (EF 40%). Ông được đưa vào viện vì <b>khó thở tăng lên và ho khạc đờm mủ 3 ngày nay</b>.<br><b>Khám lúc vào viện:</b> bệnh nhân tỉnh, khó thở phải ngồi, tần số thở 28 lần/phút, co kéo cơ hô hấp phụ. Mạch 115 lần/phút (không đều), huyết áp 170/95 mmHg, SpO₂ 88% khi đang thở oxy gọng kính 2 L/phút.<br>Phổi có nhiều ran rít, ran ngáy và ran ẩm hai đáy. Tim nhịp nhanh không đều, có tiếng T3. Phù hai chi dưới, tĩnh mạch cổ nổi.<br><b>Khí máu động mạch (thở oxy 2L/p):</b> pH 7.30, PaCO₂ 60 mmHg, PaO₂ 55 mmHg, HCO₃⁻ 28 mmol/L.<br><b>ECG:</b> rung nhĩ đáp ứng thất nhanh, tần số 120 chu kỳ/phút, có dấu hiệu tăng gánh thất phải.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào giải thích toàn diện nhất các vấn đề của bệnh nhân?",
+          "options": [
+            "Đợt cấp COPD nhiễm trùng gây suy hô hấp cấp, làm mất bù suy tim, biến chứng rung nhĩ nhanh",
+            "Suy tim cấp mất bù do cơn tăng huyết áp",
+            "Thuyên tắc phổi trên nền COPD",
+            "Viêm phổi mắc phải tại cộng đồng gây sốc nhiễm khuẩn"
+          ],
+          "answer": 0,
+          "explain": "Tình trạng của bệnh nhân là đợt cấp COPD do nhiễm trùng, gây ra suy hô hấp cấp mất bù trên nền mạn tính (toan hô hấp), dẫn đến làm nặng tình trạng suy tim phải (tâm phế mạn) và gây ra rung nhĩ đáp ứng thất nhanh, làm trầm trọng thêm suy tim toàn bộ. Tăng huyết áp trong bối cảnh này là do tăng hoạt tính giao cảm thứ phát sau thiếu oxy và gắng sức hô hấp."
+        },
+        {
+          "q": "Cơ chế chính gây ra suy tim ở bệnh nhân này là gì?",
+          "options": [
+            "Rối loạn chức năng tâm trương thất trái do tăng huyết áp",
+            "Bệnh cơ tim thiếu máu cục bộ do bệnh mạch vành",
+            "Tăng áp động mạch phổi thứ phát do thiếu oxy mạn tính",
+            "Quá tải thể tích do suy thận"
+          ],
+          "answer": 2,
+          "explain": "Thiếu oxy mạn tính ở bệnh nhân COPD gây co mạch máu phổi, dẫn đến tăng áp lực động mạch phổi. Tình trạng này kéo dài làm thất phải phì đại và suy chức năng (tâm phế mạn), đây là cơ chế chính gây suy tim ở bệnh nhân này."
+        },
+        {
+          "q": "Loại thuốc nào sau đây cần hết sức thận trọng hoặc chống chỉ định trong giai đoạn cấp này?",
+          "options": [
+            "Thuốc lợi tiểu Furosemide",
+            "Thuốc giãn phế quản Ipratropium",
+            "Kháng sinh phổ rộng",
+            "Thuốc chẹn beta giao cảm Metoprolol"
+          ],
+          "answer": 3,
+          "explain": "Thuốc chẹn beta giao cảm (như Metoprolol, Bisoprolol) là chống chỉ định tương đối trong đợt cấp COPD có co thắt phế quản nặng. Mặc dù cần kiểm soát tần số thất trong rung nhĩ, việc sử dụng chẹn beta lúc này có thể làm tình trạng co thắt phế quản tồi tệ hơn. Các lựa chọn khác như chẹn kênh canxi non-dihydropyridine (Verapamil, Diltiazem) cũng cần thận trọng vì có thể làm giảm co bóp cơ tim. Digoxin có thể được xem xét."
+        },
+        {
+          "q": "Bước xử trí ưu tiên hàng đầu cho bệnh nhân này là gì?",
+          "options": [
+            "Tiêm tĩnh mạch Nicardipine để hạ huyết áp khẩn cấp",
+            "Tối ưu hóa điều trị suy hô hấp (oxy liệu pháp, giãn phế quản, corticoid)",
+            "Sốc điện chuyển nhịp để điều trị rung nhĩ",
+            "Đặt nội khí quản và thở máy xâm nhập"
+          ],
+          "answer": 1,
+          "explain": "Xử trí toàn diện bao gồm: (1) Thở oxy để duy trì SpO₂ 88–92%, (2) Thuốc giãn phế quản tác dụng ngắn (Salbutamol/Ipratropium), (3) Corticoid toàn thân, (4) Kháng sinh. Kiểm soát huyết áp và tần số tim sẽ được cải thiện khi tình trạng hô hấp ổn định. Thông khí không xâm nhập (NIV) cần được xem xét nếu bệnh nhân không đáp ứng với điều trị ban đầu."
+        }
+      ]
+    },
+    {
+      "title": "Cụ bà 78 tuổi đột ngột nói khó và yếu nửa người phải, tiền sử rung nhĩ",
+      "body": "<b>Cụ bà 78 tuổi</b>, sống một mình, được người nhà phát hiện <b>nói khó và yếu nửa người phải</b>. Thời điểm bình thường cuối cùng được biết là 6 giờ trước.<br><b>Tiền sử:</b> tăng huyết áp đang điều trị với Perindopril 5mg/ngày và rung nhĩ không do bệnh van tim đang dùng Dabigatran 110mg x 2 lần/ngày.<br><b>Khám tại phòng cấp cứu:</b> bệnh nhân tỉnh, GCS 15 điểm. Huyết áp 195/105 mmHg, mạch 90 lần/phút không đều. Thang điểm NIHSS 12 (liệt mặt trung ương phải, thất ngôn, liệt hoàn toàn tay phải và liệt nhẹ chân phải). Khám tim có loạn nhịp hoàn toàn, phổi không ran. Không có dấu hiệu chấn thương đầu.<br><b>Cận lâm sàng:</b> CT-scan sọ não không tiêm cản quang không thấy hình ảnh xuất huyết nội sọ hoặc dấu hiệu thiếu máu não rõ rệt. Glucose mao mạch 6.8 mmol/L, công thức máu và đông máu cơ bản trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất là gì?",
+          "options": [
+            "Đột quỵ thiếu máu não cấp giờ thứ 6",
+            "Đột quỵ xuất huyết não",
+            "Cơn thiếu máu não thoáng qua (TIA)",
+            "Bệnh não do tăng huyết áp"
+          ],
+          "answer": 0,
+          "explain": "Bệnh cảnh khởi phát đột ngột với dấu hiệu thần kinh khu trú (yếu nửa người phải, nói khó) trên nền bệnh nhân có yếu tố nguy cơ tim mạch cao (rung nhĩ, tăng huyết áp) gợi ý mạnh mẽ đột quỵ thiếu máu não cấp. CT không xuất huyết đã loại trừ đột quỵ xuất huyết."
+        },
+        {
+          "q": "Tại sao huyết áp của bệnh nhân lại tăng cao trong giai đoạn này?",
+          "options": [
+            "Do tác dụng phụ của thuốc chống đông Dabigatran",
+            "Do lo lắng và đau đớn",
+            "Do một cơn tăng huyết áp nguyên phát trùng hợp",
+            "Do phản ứng của cơ thể để duy trì tưới máu cho vùng não bị tổn thương"
+          ],
+          "answer": 3,
+          "explain": "Tăng huyết áp là một phản ứng sinh lý thường gặp trong giai đoạn cấp của đột quỵ thiếu máu não, nhằm duy trì tưới máu cho vùng tranh tối tranh sáng (penumbra) xung quanh lõi nhồi máu. Việc hạ huyết áp quá mức có thể làm giảm tưới máu vùng này và mở rộng tổn thương não."
+        },
+        {
+          "q": "Bệnh nhân có chỉ định điều trị tiêu sợi huyết đường tĩnh mạch (rt-PA) không?",
+          "options": [
+            "Có, vì CT-scan không có xuất huyết",
+            "Có, nhưng cần đảo ngược tác dụng của Dabigatran trước",
+            "Không, vì đã quá cửa sổ thời gian điều trị",
+            "Không, vì huyết áp quá cao"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân nhập viện ở giờ thứ 6, đã qua \"cửa sổ vàng\" (thường là 4.5 giờ) để điều trị tiêu sợi huyết đường tĩnh mạch (rt-PA). Do đó, lựa chọn này không còn phù hợp."
+        },
+        {
+          "q": "Thái độ xử trí huyết áp phù hợp nhất lúc này là gì?",
+          "options": [
+            "Truyền Nicardipine tĩnh mạch để hạ HA tâm thu xuống < 180 mmHg",
+            "Tạm thời theo dõi, chỉ hạ áp khi HA ≥ 220/120 mmHg",
+            "Cho uống Perindopril liều cao hơn",
+            "Tiêm Furosemide tĩnh mạch"
+          ],
+          "answer": 1,
+          "explain": "Theo hướng dẫn của AHA/ASA 2019, ở những bệnh nhân đột quỵ thiếu máu não cấp không có chỉ định tái tưới máu (tiêu sợi huyết hoặc lấy huyết khối), chỉ bắt đầu điều trị hạ áp khi huyết áp ≥ 220/120 mmHg. Nếu cần điều trị, mục tiêu là hạ huyết áp 15% trong 24 giờ đầu. Do huyết áp bệnh nhân là 195/105 mmHg, biện pháp phù hợp là theo dõi sát và chưa can thiệp hạ áp ngay."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 35 tuổi bệnh thận mạn giai đoạn IV, mệt mỏi và xanh xao ngày càng tăng",
+      "body": "<b>Bệnh nhân nữ 35 tuổi</b>, đến khám vì <b>mệt mỏi và xanh xao ngày càng tăng</b>.<br><b>Tiền sử:</b> bệnh thận mạn giai đoạn IV do bệnh thận IgA, chưa lọc máu. Tăng huyết áp đang điều trị với Telmisartan 80mg và Amlodipine 10mg.<br><b>Khám:</b> da niêm mạc nhợt, không phù, không xuất huyết. Lòng bàn tay nhợt. Huyết áp 155/95 mmHg, mạch 85 lần/phút. Tim nhịp đều, có tiếng thổi tâm thu 2/6 ở mỏm. Phổi trong. Bụng mềm.<br><b>Cận lâm sàng:</b> Hb 82 g/L, MCV 85 fL, MCH 28 pg. Sắt huyết thanh 12 µmol/L, Ferritin 30 ng/mL. eGFR 25 mL/phút/1.73m². Xét nghiệm PTH và vitamin D trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Nguyên nhân chính gây thiếu máu ở bệnh nhân này là gì?",
+          "options": [
+            "Thiếu sắt tuyệt đối",
+            "Giảm sản xuất Erythropoietin (EPO) tại thận",
+            "Mất máu mạn tính qua đường tiêu hóa",
+            "Tan máu tự miễn"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có bệnh thận mạn giai đoạn IV (eGFR < 30) và thiếu máu đẳng bào đẳng sắc (MCV, MCH bình thường), không có bằng chứng thiếu sắt tuyệt đối (Ferritin > 30). Đây là hình ảnh điển hình của thiếu máu do thiếu Erythropoietin (EPO), một hormon do thận sản xuất để kích thích tủy xương tạo hồng cầu."
+        },
+        {
+          "q": "Mối liên quan nào giữa tăng huyết áp và bệnh thận mạn là quan trọng nhất về mặt sinh lý bệnh?",
+          "options": [
+            "Tăng huyết áp không kiểm soát làm tăng tốc độ xơ hóa cầu thận và mất chức năng thận",
+            "Bệnh thận mạn gây giảm thải trừ các thuốc hạ huyết áp",
+            "Thiếu máu do suy thận gây tăng cung lượng tim và tăng huyết áp thứ phát",
+            "Tăng huyết áp là nguyên nhân duy nhất gây ra bệnh thận IgA"
+          ],
+          "answer": 0,
+          "explain": "Ở bệnh nhân bệnh thận mạn, tăng huyết áp là một trong những yếu tố chính thúc đẩy sự tiến triển của bệnh thận đến giai đoạn cuối. Cơ chế bao gồm gây tăng áp lực nội cầu thận, xơ hóa cầu thận và tổn thương vi mạch thận. Kiểm soát huyết áp chặt chẽ là nền tảng để làm chậm quá trình này."
+        },
+        {
+          "q": "Mục tiêu huyết áp và chiến lược điều trị tiếp theo cho bệnh nhân này là gì?",
+          "options": [
+            "Mục tiêu HA < 140/90 mmHg, tăng liều Telmisartan",
+            "Mục tiêu HA < 140/90 mmHg, thêm thuốc chẹn beta",
+            "Mục tiêu HA < 130/80 mmHg, thêm thuốc lợi tiểu",
+            "Mục tiêu HA < 120/80 mmHg, không cần thay đổi thuốc"
+          ],
+          "answer": 2,
+          "explain": "Theo hướng dẫn của KDIGO, mục tiêu huyết áp ở hầu hết bệnh nhân bệnh thận mạn là < 130/80 mmHg. Thuốc ức chế hệ RAA (ƯCMC/ARB) là lựa chọn hàng đầu do tác dụng bảo vệ thận. Vì bệnh nhân đã dùng ARB và CCB mà huyết áp chưa đạt mục tiêu, việc thêm một thuốc lợi tiểu (thiazide-like hoặc lợi tiểu quai tùy mức lọc cầu thận) là bước tiếp theo hợp lý."
+        },
+        {
+          "q": "Biện pháp điều trị thiếu máu nào có thể làm nặng thêm tình trạng tăng huyết áp của bệnh nhân?",
+          "options": [
+            "Truyền khối hồng cầu",
+            "Bổ sung sắt đường uống",
+            "Bổ sung acid folic",
+            "Sử dụng thuốc kích thích tạo hồng cầu (ESA)"
+          ],
+          "answer": 3,
+          "explain": "Điều trị đặc hiệu cho thiếu máu do bệnh thận mạn là sử dụng các thuốc kích thích tạo hồng cầu (Erythropoiesis-Stimulating Agents - ESAs) như Erythropoietin alpha hoặc Darbepoetin alfa, thường được chỉ định khi Hb < 100 g/L. Một tác dụng phụ cần lưu ý của ESAs là có thể gây ra hoặc làm nặng thêm tình trạng tăng huyết áp, do đó cần theo dõi huyết áp chặt chẽ khi bắt đầu điều trị."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 48 tuổi lơ mơ, tụt huyết áp, nhịp chậm sau uống quá liều Amlodipin",
+      "body": "<b>Bệnh nhân nam 48 tuổi</b>, được đưa đến cấp cứu sau khi uống khoảng 20 viên Amlodipin 5mg (tổng liều 100mg) để tự tử. Thời điểm uống thuốc cách lúc vào viện 4 giờ.<br><b>Khám:</b> bệnh nhân lơ mơ, da lạnh, ẩm. Mạch 45 lần/phút, khó bắt. Huyết áp không đo được. SpO₂ 95% với mặt nạ oxy 10 L/phút. Tim nhịp rất chậm và đều. Phổi thông khí rõ. Bụng mềm.<br><b>Cận lâm sàng tại giường:</b> Glucose 18.2 mmol/L.<br><b>ECG:</b> nhịp bộ nối chậm, tần số 40 lần/phút, không có sóng P rõ, QRS hẹp.",
+      "questions": [
+        {
+          "q": "Chẩn đoán có khả năng nhất là gì?",
+          "options": [
+            "Sốc tim do nhồi máu cơ tim cấp",
+            "Sốc phân phối do ngộ độc thuốc chẹn kênh canxi",
+            "Sốc giảm thể tích do nôn ói",
+            "Block nhĩ thất cấp III không rõ nguyên nhân"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh tụt huyết áp nặng, nhịp tim chậm và tăng đường huyết sau khi uống một lượng lớn thuốc chẹn kênh canxi (Amlodipin) là điển hình của ngộ độc thuốc chẹn kênh canxi. Tăng đường huyết xảy ra do thuốc ức chế sự giải phóng insulin từ tế bào beta tụy (một quá trình phụ thuộc canxi)."
+        },
+        {
+          "q": "Cơ chế chính gây tụt huyết áp ở bệnh nhân này là gì?",
+          "options": [
+            "Mất nước và điện giải",
+            "Phản ứng phản vệ với thuốc",
+            "Giãn mạch hệ thống và giảm co bóp cơ tim",
+            "Ức chế hệ thần kinh trung ương"
+          ],
+          "answer": 2,
+          "explain": "Tụt huyết áp trong ngộ độc chẹn kênh canxi chủ yếu do giãn mạch hệ thống nghiêm trọng (do ức chế kênh canxi type L trên cơ trơn thành mạch) và ức chế co bóp cơ tim (do ức chế kênh canxi trong tế bào cơ tim)."
+        },
+        {
+          "q": "Thuốc giải độc đặc hiệu đầu tay cần được sử dụng ngay lập tức là gì?",
+          "options": [
+            "Natri Bicarbonate",
+            "Glucagon",
+            "Atropine",
+            "Canxi tĩnh mạch liều cao"
+          ],
+          "answer": 3,
+          "explain": "Điều trị đặc hiệu và đầu tay cho ngộ độc nặng thuốc chẹn kênh canxi là truyền tĩnh mạch Canxi liều cao (Canxi gluconat hoặc Canxi clorid). Canxi ngoại bào giúp tăng nồng độ canxi để cạnh tranh với thuốc tại các kênh canxi, cải thiện tình trạng co bóp cơ tim và trương lực mạch máu."
+        },
+        {
+          "q": "Liệu pháp nào sau đây có vai trò cải thiện chức năng co bóp cơ tim bằng cách tăng cường sử dụng năng lượng của tế bào cơ tim?",
+          "options": [
+            "Liệu pháp Insulin-Glucose liều cao (HIET)",
+            "Đặt máy tạo nhịp tạm thời",
+            "Truyền tĩnh mạch Noradrenalin",
+            "Truyền nhũ tương lipid (Lipid emulsion therapy)"
+          ],
+          "answer": 0,
+          "explain": "Liệu pháp Insulin-Glucose liều cao (High-dose insulin euglycemic therapy - HIET) là một biện pháp cứu cánh quan trọng. Ở trạng thái sốc, cơ tim chuyển sang sử dụng glucose làm nguồn năng lượng chính. Insulin liều cao giúp tăng cường sự hấp thu và sử dụng glucose của tế bào cơ tim, qua đó cải thiện chức năng co bóp. Cần theo dõi đường huyết và kali máu chặt chẽ khi sử dụng liệu pháp này."
+        }
+      ]
+    },
+    {
+      "title": "Phụ nữ 32 tuổi mang thai 28 tuần phù mặt, phù chân và đau đầu nhẹ",
+      "body": "<b>Phụ nữ 32 tuổi</b>, mang thai lần đầu, thai 28 tuần, đến khám vì <b>sưng phù ở chân và mặt trong tuần qua, kèm theo đau đầu nhẹ</b>. Trước khi mang thai, bệnh nhân hoàn toàn khỏe mạnh, huyết áp luôn ở mức 110/70 mmHg.<br><b>Khám:</b> bệnh nhân tỉnh táo, vẻ mặt lo lắng. Huyết áp 165/110 mmHg. Mạch 90 lần/phút. Có phù mềm ấn lõm ++ ở hai chi dưới. Phản xạ gân xương tăng ++, không có rung giật bàn chân (clonus). Khám sản khoa thấy tim thai bình thường.<br><b>Cận lâm sàng:</b> Tổng phân tích nước tiểu có Protein niệu 3+. Số lượng tiểu cầu 120 G/L. Chức năng gan và thận trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Tăng huyết áp thai kỳ",
+            "Tăng huyết áp mạn tính",
+            "Tiền sản giật có dấu hiệu nặng",
+            "Hội chứng HELLP"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có tăng huyết áp khởi phát sau tuần thứ 20 của thai kỳ (HA ≥ 140/90 mmHg) và protein niệu đáng kể (≥ 1+), đủ tiêu chuẩn chẩn đoán tiền sản giật. Vì huyết áp ≥ 160/110 mmHg và có dấu hiệu nặng (giảm tiểu cầu), đây là trường hợp tiền sản giật có dấu hiệu nặng."
+        },
+        {
+          "q": "Yếu tố khởi đầu trong cơ chế bệnh sinh của tiền sản giật được cho là gì?",
+          "options": [
+            "Rối loạn miễn dịch của người mẹ",
+            "Xâm nhập bất thường của nguyên bào nuôi vào động mạch xoắn",
+            "Tăng nhạy cảm với Angiotensin II",
+            "Bất thường di truyền của thai nhi"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế bệnh sinh của tiền sản giật rất phức tạp, nhưng giả thuyết được chấp nhận rộng rãi nhất là do sự hình thành bất thường của các mạch máu bánh rau (xâm nhập nông của nguyên bào nuôi). Điều này dẫn đến thiếu máu cục bộ bánh rau, giải phóng các yếu tố kháng tạo mạch (như sFlt-1) vào tuần hoàn mẹ, gây rối loạn chức năng nội mô toàn thân, dẫn đến co mạch (tăng huyết áp), tăng tính thấm thành mạch (phù, protein niệu) và hoạt hóa tiểu cầu."
+        },
+        {
+          "q": "Loại thuốc hạ huyết áp nào sau đây là CHỐNG CHỈ ĐỊNH ở bệnh nhân này?",
+          "options": [
+            "Labetalol",
+            "Nifedipine SR",
+            "Methyldopa",
+            "Lisinopril"
+          ],
+          "answer": 3,
+          "explain": "Methyldopa, Labetalol và Nifedipine (dạng tác dụng kéo dài) là các thuốc hạ áp được coi là an toàn và được ưu tiên sử dụng trong thai kỳ. Thuốc ức chế men chuyển (ACEi) và chẹn thụ thể Angiotensin II (ARB) là CHỐNG CHỈ ĐỊNH tuyệt đối vì có thể gây dị tật thai nhi và suy thận ở thai nhi."
+        },
+        {
+          "q": "Ngoài việc kiểm soát huyết áp, biện pháp điều trị nào là cần thiết để dự phòng biến chứng thần kinh nguy hiểm nhất?",
+          "options": [
+            "Magnesium sulfate tĩnh mạch",
+            "Diazepam tĩnh mạch",
+            "Phenytoin đường uống",
+            "Truyền Mannitol"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân tiền sản giật có nguy cơ cao bị co giật (sản giật). Magnesium sulfate (MgSO₄) là thuốc được lựa chọn hàng đầu để dự phòng và điều trị co giật trong tiền sản giật nặng và sản giật. Thuốc có tác dụng ổn định màng tế bào thần kinh và làm giãn mạch máu não."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi tiền sử bệnh mạch vành, đái tháo đường, ho khan kéo dài 2 tháng",
+      "body": "<b>Bệnh nhân nam 68 tuổi</b>, tiền sử tăng huyết áp, đái tháo đường type 2, bệnh mạch vành đã đặt stent 3 năm trước.<br><b>Thuốc đang dùng:</b> Aspirin 81mg, Atorvastatin 40mg, Metoprolol succinate 50mg, và Perindopril 10mg.<br>Bệnh nhân đến khám định kỳ, không có triệu chứng gì đặc biệt ngoài <b>ho khan kéo dài khoảng 2 tháng nay</b>, ho nhiều hơn khi nằm.<br><b>Khám:</b> thể trạng tốt, BMI 25 kg/m². Huyết áp 125/75 mmHg, mạch 65 lần/phút. Tim nhịp đều, phổi không ran. Không phù. Bệnh nhân không sốt, không khó thở, không có triệu chứng của trào ngược dạ dày thực quản.",
+      "questions": [
+        {
+          "q": "Nguyên nhân có khả năng nhất gây ra triệu chứng ho khan của bệnh nhân là gì?",
+          "options": [
+            "Nhiễm trùng đường hô hấp trên",
+            "Hen phế quản khởi phát muộn",
+            "Suy tim sung huyết",
+            "Tác dụng phụ của Perindopril"
+          ],
+          "answer": 3,
+          "explain": "Ho khan kéo dài, không kèm theo các triệu chứng nhiễm trùng hay bệnh lý phổi khác, ở bệnh nhân đang sử dụng thuốc ức chế men chuyển (Perindopril) là một tác dụng phụ rất kinh điển và cần được nghĩ đến đầu tiên."
+        },
+        {
+          "q": "Cơ chế nào giải thích cho tác dụng phụ này?",
+          "options": [
+            "Tích tụ Bradykinin trong đường hô hấp",
+            "Co thắt phế quản do chẹn thụ thể beta-2",
+            "Kích thích trực tiếp trung tâm ho ở hành não",
+            "Tăng sản xuất prostaglandin gây viêm"
+          ],
+          "answer": 0,
+          "explain": "Thuốc ức chế men chuyển (ACEi) ức chế sự chuyển Angiotensin I thành Angiotensin II. Men chuyển (ACE) cũng có vai trò trong việc thoái giáng Bradykinin. Khi ACE bị ức chế, nồng độ Bradykinin tích tụ trong đường hô hấp, gây kích thích các sợi thần kinh cảm giác và dẫn đến phản xạ ho."
+        },
+        {
+          "q": "Theo các khuyến cáo hiện hành, mục tiêu điều trị LDL-Cholesterol cho bệnh nhân này là gì?",
+          "options": [
+            "< 2.6 mmol/L",
+            "< 1.8 mmol/L",
+            "< 1.4 mmol/L",
+            "< 1.0 mmol/L"
+          ],
+          "answer": 2,
+          "explain": "Mục tiêu LDL-C theo hướng dẫn của ESC 2019 cho bệnh nhân có nguy cơ tim mạch rất cao (đã có bệnh mạch vành) là < 1.4 mmol/L."
+        },
+        {
+          "q": "Hướng xử trí phù hợp nhất cho vấn đề ho của bệnh nhân là gì?",
+          "options": [
+            "Thêm thuốc giảm ho Codein",
+            "Chuyển Perindopril sang một thuốc chẹn thụ thể Angiotensin II (ARB)",
+            "Giảm liều Perindopril xuống 5mg",
+            "Ngừng Metoprolol"
+          ],
+          "answer": 1,
+          "explain": "Khi bệnh nhân bị ho do ACEi, lựa chọn thay thế hợp lý nhất là chuyển sang một thuốc thuộc nhóm chẹn thụ thể Angiotensin II (ARB) như Valsartan, Telmisartan... Nhóm ARB có hiệu quả hạ áp và bảo vệ tim mạch tương đương ACEi nhưng không gây ho vì chúng không ảnh hưởng đến chuyển hóa Bradykinin."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi suy tim, bệnh thận mạn G3a, yếu cơ và tê bì sau thêm Spironolactone",
+      "body": "<b>Bệnh nhân nam 65 tuổi</b>, tiền sử tăng huyết áp, suy tim EF 35%, bệnh thận mạn giai đoạn G3a. Bệnh nhân vừa được thêm <b>Spironolactone 25mg/ngày</b> vào phác đồ điều trị suy tim (bao gồm Furosemide, Bisoprolol, và Ramipril).<br>Sau 1 tuần, bệnh nhân vào viện vì <b>mệt mỏi, yếu cơ và cảm giác tê bì quanh miệng</b>.<br><b>Khám:</b> bệnh nhân tỉnh, tiếp xúc chậm. Huyết áp 110/70 mmHg, mạch 50 lần/phút. Tim nhịp chậm, đều. Phổi không ran. Yếu cơ tứ chi, sức cơ 4/5.<br><b>Cận lâm sàng:</b> Na⁺ 138 mmol/L, <b>K⁺ 6.8 mmol/L</b>, Creatinin 160 µmol/L (nền 130 µmol/L).<br><b>ECG:</b> sóng T cao nhọn, đối xứng, và khoảng PR kéo dài.",
+      "questions": [
+        {
+          "q": "Vấn đề cấp cứu chính của bệnh nhân hiện tại là gì?",
+          "options": [
+            "Ngộ độc Digoxin",
+            "Đợt cấp mất bù suy tim",
+            "Tổn thương thận cấp",
+            "Tăng kali máu nặng có biến đổi ECG"
+          ],
+          "answer": 3,
+          "explain": "Tăng kali máu nặng (K⁺ > 6.5 mmol/L) với các biểu hiện lâm sàng (yếu cơ, tê bì) và biến đổi trên ECG (sóng T cao nhọn, PR kéo dài) là một cấp cứu nội khoa."
+        },
+        {
+          "q": "Cơ chế chính gây ra tình trạng này là gì?",
+          "options": [
+            "Chế độ ăn quá nhiều kali",
+            "Tan máu cấp",
+            "Tác dụng hiệp đồng giữ kali của Ramipril và Spironolactone trên nền suy thận",
+            "Tình trạng toan chuyển hóa"
+          ],
+          "answer": 2,
+          "explain": "Tăng kali máu ở bệnh nhân này là hậu quả của sự tương tác thuốc trên một cơ địa có nguy cơ cao (bệnh thận mạn). Bệnh nhân đang dùng 3 loại thuốc cùng có tác dụng giữ kali: (1) Ramipril (ACEi), (2) Spironolactone (kháng Aldosteron), và (3) Bisoprolol (chẹn beta). Việc phối hợp các thuốc này, đặc biệt trên nền suy giảm chức năng thận, làm tăng đáng kể nguy cơ tăng kali máu."
+        },
+        {
+          "q": "Can thiệp nào cần được thực hiện NGAY LẬP TỨC để bảo vệ bệnh nhân khỏi rối loạn nhịp tim gây tử vong?",
+          "options": [
+            "Truyền dung dịch Glucose và Insulin",
+            "Tiêm tĩnh mạch Canxi gluconat",
+            "Dùng nhựa trao đổi ion (Kayexalate)",
+            "Tăng liều Furosemide"
+          ],
+          "answer": 1,
+          "explain": "Với sự hiện diện của các biến đổi trên ECG, biện pháp can thiệp khẩn cấp và quan trọng nhất là tiêm tĩnh mạch Canxi (Canxi gluconat hoặc Canxi clorid). Canxi không làm hạ kali máu, nhưng nó có tác dụng đối kháng trực tiếp với ảnh hưởng của kali lên màng tế bào cơ tim, giúp ổn định điện thế màng và ngăn ngừa các rối loạn nhịp tim gây tử vong."
+        },
+        {
+          "q": "Phương pháp nào sau đây giúp loại bỏ kali ra khỏi cơ thể một cách hiệu quả nhất ở bệnh nhân này?",
+          "options": [
+            "Lọc máu cấp cứu",
+            "Khí dung Salbutamol liều cao",
+            "Truyền Natri Bicarbonate",
+            "Uống nhiều nước"
+          ],
+          "answer": 0,
+          "explain": "Sau khi ổn định màng tế bào cơ tim bằng canxi, các biện pháp tiếp theo nhằm mục đích di chuyển kali vào trong tế bào (insulin + glucose, salbutamol) và thải kali ra khỏi cơ thể (lợi tiểu quai, nhựa trao đổi ion, lọc máu). Lọc máu là phương pháp hiệu quả và triệt để nhất để loại bỏ kali khỏi cơ thể, đặc biệt chỉ định ở bệnh nhân có tăng kali máu nặng, đe dọa tính mạng, hoặc không đáp ứng với các biện pháp điều trị nội khoa, nhất là khi có kèm suy thận."
+        }
+      ]
+    }
+  ]
+}
