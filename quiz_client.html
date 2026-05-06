@@ -227,6 +227,29 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
 .stats-streak b { color: #F97316; }
 .stats-empty { font-size: 12px; color: var(--text-tertiary); font-style: italic; }
 
+/* Leaderboard */
+.lb-section { background: var(--bg-primary); border: 1px solid var(--border-tertiary); border-radius: var(--radius-lg); padding: 12px 14px; margin-bottom: 1rem; max-width: 600px; }
+.lb-header { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
+.lb-title { font-size: 14px; font-weight: 600; }
+.lb-updated { font-size: 11px; color: var(--text-tertiary); margin-left: auto; }
+.lb-refresh { padding: 2px 8px !important; }
+.lb-empty { padding: 6px 0; font-size: 13px; color: var(--text-secondary); display: flex; align-items: center; flex-wrap: wrap; }
+.lb-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+.lb-table th { text-align: left; padding: 6px 8px; color: var(--text-tertiary); font-weight: 500; font-size: 12px; border-bottom: 1px solid var(--border-tertiary); }
+.lb-table td { padding: 6px 8px; border-bottom: 1px solid var(--border-tertiary); }
+.lb-table tr:last-child td { border-bottom: none; }
+.lb-table tr.lb-me { background: rgba(29, 78, 216, 0.06); font-weight: 600; }
+.lb-rank { width: 36px; text-align: center; }
+.lb-name { max-width: 180px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.lb-streak { color: #F97316; white-space: nowrap; }
+.lb-week, .lb-today { color: var(--text-secondary); white-space: nowrap; }
+.lb-mgmt-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+.lb-mgmt-table th { text-align: left; padding: 6px 8px; color: var(--text-tertiary); font-size: 12px; }
+.lb-mgmt-table td { padding: 6px 8px; border-bottom: 1px solid var(--border-tertiary); }
+.lb-mgmt-table code { background: var(--bg-secondary); padding: 2px 6px; border-radius: 4px; font-size: 12px; }
+
+
+
 </style>
 </head>
 <body>
@@ -254,6 +277,7 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
   const STORAGE_KEY = 'quiz_client_decks_v1';
   const USERNAME_KEY = 'quiz_client_username';
   const SESSIONS_KEY = 'quiz_client_sessions';
+  const LB_CONFIG_KEY = 'quiz_client_lb_config';
   const CLOUD_URL_KEY = 'quiz_client_cloud_url';
   let decks = [];
   let view = 'library';
@@ -337,6 +361,630 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
   }
 
   // ─── Toast & Modal ─────────────────────────────────────────────────
+  // ─── Leaderboard ──────────────────────────────────────────────────
+  // Owner can export a customized client with embedded config (token/owner/repo)
+  // baked in. When EMBEDDED_LB_CONFIG exists, members only need to enter a 6-char
+  // join code + their display name to join the leaderboard.
+  // EMBEDDED_LB_CONFIG_PLACEHOLDER — replaced by exporter
+  const EMBEDDED_LB_CONFIG = null;
+  // Config: { token, owner, repo, displayName, isOwner, joinedAt }
+  // Repo files: leaderboard.json (all users' stats) + invites.json (join codes)
+  // Push triggered: on deck finish + every 5min while in library
+  function loadLBConfig() {
+    try {
+      const raw = localStorage.getItem(LB_CONFIG_KEY);
+      return raw ? JSON.parse(raw) : null;
+    } catch(e) { return null; }
+  }
+  function saveLBConfig(cfg) {
+    if (cfg) localStorage.setItem(LB_CONFIG_KEY, JSON.stringify(cfg));
+    else localStorage.removeItem(LB_CONFIG_KEY);
+  }
+
+  // GitHub helpers (return { content, sha } for read; { sha } for write)
+  async function lbReadFile(cfg, path) {
+    const url = `https://api.github.com/repos/${cfg.owner}/${cfg.repo}/contents/${path}`;
+    const headers = {
+      'Authorization': 'Bearer ' + cfg.token,
+      'Accept': 'application/vnd.github+json',
+      'X-GitHub-Api-Version': '2022-11-28'
+    };
+    let res;
+    try {
+      res = await fetch(url + '?ref=main&t=' + Date.now(), { headers, cache: 'no-store' });
+    } catch(e) {
+      // Network-level failure (DNS, CORS, offline, etc.)
+      throw new Error('Không kết nối được GitHub. Kiểm tra mạng / extension chặn? Chi tiết: ' + e.message);
+    }
+    if (res.status === 404) return { content: null, sha: null };
+    if (res.status === 401) throw new Error('Token không hợp lệ hoặc hết hạn (401). Tạo token mới và thử lại.');
+    if (res.status === 403) {
+      const body = await res.text();
+      if (body.includes('rate limit')) throw new Error('GitHub rate limit (403). Đợi 1 giờ rồi thử lại.');
+      throw new Error('Không có quyền truy cập (403). Kiểm tra: token có scope "Contents: Read+Write" cho repo này không?');
+    }
+    if (!res.ok) {
+      const body = await res.text();
+      throw new Error('GitHub API ' + res.status + ': ' + body.substring(0, 200));
+    }
+    const data = await res.json();
+    const decoded = decodeURIComponent(escape(atob(data.content.replace(/\n/g, ''))));
+    return { content: JSON.parse(decoded), sha: data.sha };
+  }
+
+  async function lbWriteFile(cfg, path, content, sha, message) {
+    const url = `https://api.github.com/repos/${cfg.owner}/${cfg.repo}/contents/${path}`;
+    const headers = {
+      'Authorization': 'Bearer ' + cfg.token,
+      'Accept': 'application/vnd.github+json',
+      'X-GitHub-Api-Version': '2022-11-28',
+      'Content-Type': 'application/json'
+    };
+    const body = JSON.stringify({
+      message: message,
+      content: btoa(unescape(encodeURIComponent(JSON.stringify(content, null, 2)))),
+      sha: sha || undefined,
+      branch: 'main'
+    });
+    let res;
+    try {
+      res = await fetch(url, { method: 'PUT', headers, body });
+    } catch(e) {
+      throw new Error('Không kết nối được GitHub. Kiểm tra mạng. Chi tiết: ' + e.message);
+    }
+    if (res.status === 409 || res.status === 422) {
+      const err = new Error('CONFLICT');
+      err.code = 'CONFLICT';
+      throw err;
+    }
+    if (res.status === 401) throw new Error('Token không hợp lệ hoặc hết hạn (401).');
+    if (res.status === 403) throw new Error('Không có quyền ghi (403). Token cần scope "Contents: Read+Write".');
+    if (res.status === 404) throw new Error('Repo hoặc branch không tồn tại (404). Kiểm tra owner/repo có đúng không, repo có branch "main" không.');
+    if (!res.ok) {
+      const body = await res.text();
+      throw new Error('GitHub API ' + res.status + ': ' + body.substring(0, 200));
+    }
+    return await res.json();
+  }
+
+  // Atomic update with optimistic locking and retry
+  async function lbAtomicUpdate(cfg, path, mutator, message, maxRetries = 3) {
+    let lastErr;
+    for (let attempt = 0; attempt < maxRetries; attempt++) {
+      try {
+        const { content, sha } = await lbReadFile(cfg, path);
+        const newContent = mutator(content);
+        await lbWriteFile(cfg, path, newContent, sha, message);
+        return newContent;
+      } catch(e) {
+        lastErr = e;
+        if (e.code !== 'CONFLICT') throw e;
+        // Wait a bit then retry
+        await new Promise(r => setTimeout(r, 300 + Math.random() * 500));
+      }
+    }
+    throw lastErr;
+  }
+
+  // Generate a 6-char join code
+  function genJoinCode() {
+    const alphabet = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789'; // exclude confusing chars
+    let code = '';
+    for (let i = 0; i < 6; i++) {
+      code += alphabet[Math.floor(Math.random() * alphabet.length)];
+    }
+    return code;
+  }
+
+  // Push our stats to leaderboard
+  async function lbPushStats() {
+    const cfg = loadLBConfig();
+    if (!cfg) return;
+    const username = getUsername();
+    if (!username) return;
+    const stats = computeStats();
+    const userKey = (cfg.displayName || username).toLowerCase().replace(/[^\w]/g, '_');
+    try {
+      await lbAtomicUpdate(cfg, 'leaderboard.json', (lb) => {
+        if (!lb) lb = { version: 1, updatedAt: 0, users: {} };
+        if (!lb.users) lb.users = {};
+        lb.users[userKey] = {
+          displayName: cfg.displayName || username,
+          lastActive: Date.now(),
+          stats: {
+            streak: stats.streak,
+            weekDecks: stats.weekDecks,
+            weekAvgScore: stats.weekAvgScore || 0,
+            todayDecks: stats.todayDecks,
+            todayQuestions: stats.todayQuestions
+          }
+        };
+        lb.updatedAt = Date.now();
+        return lb;
+      }, `Update stats: ${cfg.displayName || username}`);
+      return true;
+    } catch(e) {
+      console.error('Leaderboard push failed:', e);
+      return false;
+    }
+  }
+
+  // Owner: create new invite code
+  async function lbCreateInvite(label) {
+    const cfg = loadLBConfig();
+    if (!cfg || !cfg.isOwner) throw new Error('Chỉ owner mới có thể tạo mã mời');
+    const code = genJoinCode();
+    await lbAtomicUpdate(cfg, 'invites.json', (inv) => {
+      if (!inv) inv = { version: 1, codes: [] };
+      if (!inv.codes) inv.codes = [];
+      inv.codes.push({
+        code: code,
+        label: label || '',
+        createdAt: Date.now(),
+        usedBy: null
+      });
+      return inv;
+    }, `Add invite code: ${code}`);
+    return code;
+  }
+
+  // Verify a join code (read-only for member during join, then mark used)
+  // Member uses owner's token (provided by owner via separate channel) to verify and mark used
+  async function lbVerifyAndUseCode(token, owner, repo, code, displayName) {
+    const tempCfg = { token, owner, repo };
+    let inv;
+    try {
+      const result = await lbReadFile(tempCfg, 'invites.json');
+      inv = result.content;
+    } catch(e) {
+      throw new Error('Không đọc được file invites: ' + e.message);
+    }
+    if (!inv || !Array.isArray(inv.codes)) throw new Error('File invites không hợp lệ');
+    const entry = inv.codes.find(c => c.code === code.toUpperCase());
+    if (!entry) throw new Error('Mã mời không hợp lệ');
+    if (entry.usedBy) throw new Error('Mã đã được dùng bởi: ' + entry.usedBy);
+    // Mark code as used
+    try {
+      await lbAtomicUpdate(tempCfg, 'invites.json', (inv2) => {
+        const e2 = inv2.codes.find(c => c.code === code.toUpperCase());
+        if (e2 && !e2.usedBy) {
+          e2.usedBy = displayName;
+          e2.usedAt = Date.now();
+        }
+        return inv2;
+      }, `Code ${code} used by ${displayName}`);
+    } catch(e) {
+      throw new Error('Không cập nhật được invites: ' + e.message);
+    }
+    return true;
+  }
+
+  // Fetch leaderboard.json (no auth needed if repo public)
+  async function lbFetchLeaderboard() {
+    const cfg = loadLBConfig();
+    if (!cfg) return null;
+    try {
+      const url = `https://${cfg.owner}.github.io/${cfg.repo}/leaderboard.json?t=${Date.now()}`;
+      const res = await fetch(url, { cache: 'no-cache' });
+      if (!res.ok) {
+        // Fallback: use API (works for private repo too)
+        const api = await lbReadFile(cfg, 'leaderboard.json');
+        return api.content;
+      }
+      return await res.json();
+    } catch(e) {
+      console.error('Fetch leaderboard failed:', e);
+      return null;
+    }
+  }
+
+  // Render leaderboard panel in library
+  function renderLeaderboardSection(lbData) {
+    const cfg = loadLBConfig();
+    if (!cfg) {
+      // Not joined yet — show invite prompt
+      return `
+        <div class="lb-section">
+          <div class="lb-empty">
+            <span style="font-size: 13px; color: var(--text-secondary);">🏆 Chưa tham gia bảng học tập</span>
+            <button class="btn btn-sm" id="lb-join-btn" style="margin-left: 8px;">Tham gia</button>
+            <button class="btn btn-sm" id="lb-create-btn" style="margin-left: 4px;">Tạo bảng</button>
+          </div>
+        </div>
+      `;
+    }
+
+    if (!lbData || !lbData.users || Object.keys(lbData.users).length === 0) {
+      return `
+        <div class="lb-section">
+          <div class="lb-header">
+            <span class="lb-title">🏆 Bảng học tập</span>
+            <button class="btn btn-sm lb-refresh" id="lb-refresh-btn" title="Làm mới">↻</button>
+            ${cfg.isOwner ? '<button class="btn btn-sm" id="lb-manage-btn" title="Quản lý">⚙</button>' : ''}
+          </div>
+          <div class="lb-empty"><i style="font-size: 12px; color: var(--text-tertiary);">Chưa có ai tham gia</i></div>
+        </div>
+      `;
+    }
+
+    // Sort users: streak desc, weekDecks desc, then displayName
+    const users = Object.values(lbData.users);
+    users.sort((a, b) => {
+      const sa = (a.stats && a.stats.streak) || 0;
+      const sb = (b.stats && b.stats.streak) || 0;
+      if (sa !== sb) return sb - sa;
+      const wa = (a.stats && a.stats.weekDecks) || 0;
+      const wb = (b.stats && b.stats.weekDecks) || 0;
+      if (wa !== wb) return wb - wa;
+      return (a.displayName || '').localeCompare(b.displayName || '');
+    });
+
+    const myKey = (cfg.displayName || getUsername() || '').toLowerCase().replace(/[^\w]/g, '_');
+    const updatedAgo = lbData.updatedAt
+      ? formatTimeAgo(Date.now() - lbData.updatedAt)
+      : '';
+
+    let rows = '';
+    users.forEach((u, idx) => {
+      const rank = idx + 1;
+      const medal = rank === 1 ? '🥇' : rank === 2 ? '🥈' : rank === 3 ? '🥉' : ` ${rank}`;
+      const userKey = (u.displayName || '').toLowerCase().replace(/[^\w]/g, '_');
+      const isMe = userKey === myKey;
+      const stats = u.stats || {};
+      const streakStr = stats.streak > 0 ? `🔥 ${stats.streak}` : '—';
+      const weekStr = stats.weekDecks > 0 ? `${stats.weekDecks}` : '—';
+      const todayStr = stats.todayDecks > 0
+        ? `✓ ${stats.todayDecks}`
+        : (u.lastActive ? formatTimeAgo(Date.now() - u.lastActive) : '—');
+      rows += `
+        <tr class="${isMe ? 'lb-me' : ''}">
+          <td class="lb-rank">${medal}</td>
+          <td class="lb-name">${escapeHtml(u.displayName || '?')}${isMe ? ' (tôi)' : ''}</td>
+          <td class="lb-streak">${streakStr}</td>
+          <td class="lb-week">${weekStr}</td>
+          <td class="lb-today">${todayStr}</td>
+        </tr>
+      `;
+    });
+
+    return `
+      <div class="lb-section">
+        <div class="lb-header">
+          <span class="lb-title">🏆 Bảng học tập</span>
+          <span class="lb-updated" title="Cập nhật cuối">${updatedAgo}</span>
+          <button class="btn btn-sm lb-refresh" id="lb-refresh-btn" title="Làm mới">↻</button>
+          ${cfg.isOwner ? '<button class="btn btn-sm" id="lb-manage-btn" title="Quản lý">⚙</button>' : ''}
+        </div>
+        <table class="lb-table">
+          <thead>
+            <tr><th>#</th><th>Tên</th><th>Streak</th><th>Tuần</th><th>Hôm nay</th></tr>
+          </thead>
+          <tbody>${rows}</tbody>
+        </table>
+      </div>
+    `;
+  }
+
+  function formatTimeAgo(ms) {
+    if (ms < 60000) return 'vừa xong';
+    if (ms < 3600000) return Math.floor(ms / 60000) + 'p trước';
+    if (ms < 86400000) return Math.floor(ms / 3600000) + 'h trước';
+    return Math.floor(ms / 86400000) + 'd trước';
+  }
+
+  // Modals: create leaderboard (owner) / join (member) / manage (owner)
+  function openLBCreateModal() {
+    openModal(`
+      <h2 class="modal-title">🏆 Tạo bảng học tập</h2>
+      <div class="modal-body">
+        Bạn sẽ là <b>owner</b> của bảng này. Tạo mã mời để bạn bè cùng tham gia.
+        <br><br>
+        Cần repo GitHub <code>quiz_leaderboard</code> đã được tạo (public, có Pages bật). Cần <b>Personal Access Token</b> với quyền <code>Contents: Read+Write</code> trên repo này.
+      </div>
+      <div class="form-row">
+        <label class="form-label">GitHub username (owner của repo)</label>
+        <input type="text" class="form-input" id="lb-owner" placeholder="vd: tuazn">
+      </div>
+      <div class="form-row">
+        <label class="form-label">Tên repo</label>
+        <input type="text" class="form-input" id="lb-repo" value="quiz_leaderboard">
+      </div>
+      <div class="form-row">
+        <label class="form-label">Personal Access Token</label>
+        <input type="password" class="form-input" id="lb-token" placeholder="github_pat_...">
+      </div>
+      <div class="form-row">
+        <label class="form-label">Tên hiển thị của bạn trên bảng</label>
+        <input type="text" class="form-input" id="lb-displayname" value="${escapeHtml(getUsername() || '')}" placeholder="Mai">
+      </div>
+      <div id="lb-create-progress" style="font-size: 13px; color: var(--text-secondary); margin: 8px 0;"></div>
+      <div class="modal-actions">
+        <button class="btn" id="lb-create-cancel">Huỷ</button>
+        <button class="btn btn-primary" id="lb-create-go">Tạo</button>
+      </div>
+    `);
+    document.getElementById('lb-create-cancel').onclick = closeModal;
+    document.getElementById('lb-create-go').onclick = async () => {
+      const owner = document.getElementById('lb-owner').value.trim();
+      const repo = document.getElementById('lb-repo').value.trim();
+      const token = document.getElementById('lb-token').value.trim();
+      const displayName = document.getElementById('lb-displayname').value.trim();
+      if (!owner || !repo || !token || !displayName) {
+        toast('Cần đủ tất cả các trường', 'error');
+        return;
+      }
+      const progressEl = document.getElementById('lb-create-progress');
+      const goBtn = document.getElementById('lb-create-go');
+      goBtn.disabled = true;
+      progressEl.textContent = 'Đang xác minh repo...';
+      const tempCfg = { token, owner, repo };
+      try {
+        // Verify access by reading leaderboard.json (or initialize if missing)
+        progressEl.textContent = 'Đang đọc leaderboard.json...';
+        const lbResult = await lbReadFile(tempCfg, 'leaderboard.json');
+        if (lbResult.content === null) {
+          progressEl.textContent = 'Tạo file leaderboard.json...';
+          await lbWriteFile(tempCfg, 'leaderboard.json',
+            { version: 1, updatedAt: 0, users: {} },
+            null, 'Init leaderboard');
+        }
+        progressEl.textContent = 'Đang đọc invites.json...';
+        const invResult = await lbReadFile(tempCfg, 'invites.json');
+        if (invResult.content === null) {
+          progressEl.textContent = 'Tạo file invites.json...';
+          await lbWriteFile(tempCfg, 'invites.json',
+            { version: 1, codes: [] },
+            null, 'Init invites');
+        }
+        // Save config
+        saveLBConfig({ token, owner, repo, displayName, isOwner: true, joinedAt: Date.now() });
+        progressEl.textContent = 'Đang đẩy stats lần đầu...';
+        await lbPushStats();
+        closeModal();
+        toast('✓ Đã tạo bảng học tập', 'success');
+        renderLibrary();
+      } catch(e) {
+        progressEl.innerHTML = '<b style="color: var(--danger);">✗ ' + escapeHtml(e.message) + '</b>';
+        goBtn.disabled = false;
+      }
+    };
+  }
+
+  function openLBJoinModal() {
+    // If owner embedded config in this file, member only needs code + name
+    if (EMBEDDED_LB_CONFIG) {
+      openModal(`
+        <h2 class="modal-title">🏆 Tham gia bảng học tập</h2>
+        <div class="modal-body">
+          Nhập <b>mã mời</b> (do owner cung cấp) và tên hiển thị của bạn.
+        </div>
+        <div class="form-row">
+          <label class="form-label">Mã mời (6 ký tự)</label>
+          <input type="text" class="form-input" id="lb-j-code" placeholder="A3K7BX" style="text-transform: uppercase;" maxlength="6">
+        </div>
+        <div class="form-row">
+          <label class="form-label">Tên hiển thị của bạn</label>
+          <input type="text" class="form-input" id="lb-j-displayname" value="${escapeHtml(getUsername() || '')}">
+        </div>
+        <div id="lb-j-progress" style="font-size: 13px; color: var(--text-secondary); margin: 8px 0;"></div>
+        <div class="modal-actions">
+          <button class="btn" id="lb-j-cancel">Huỷ</button>
+          <button class="btn btn-primary" id="lb-j-go">Tham gia</button>
+        </div>
+      `);
+      document.getElementById('lb-j-cancel').onclick = closeModal;
+      document.getElementById('lb-j-go').onclick = async () => {
+        const code = document.getElementById('lb-j-code').value.trim().toUpperCase();
+        const displayName = document.getElementById('lb-j-displayname').value.trim();
+        if (!code || !displayName) { toast('Cần đủ mã mời và tên', 'error'); return; }
+        const { owner, repo, token } = EMBEDDED_LB_CONFIG;
+        const progressEl = document.getElementById('lb-j-progress');
+        const goBtn = document.getElementById('lb-j-go');
+        goBtn.disabled = true;
+        progressEl.textContent = 'Đang xác minh mã...';
+        try {
+          await lbVerifyAndUseCode(token, owner, repo, code, displayName);
+          saveLBConfig({ token, owner, repo, displayName, isOwner: false, joinedAt: Date.now() });
+          await lbPushStats();
+          closeModal();
+          toast('✓ Đã tham gia bảng', 'success');
+          renderLibrary();
+        } catch(e) {
+          progressEl.innerHTML = '<b style="color: var(--danger);">✗ ' + escapeHtml(e.message) + '</b>';
+          goBtn.disabled = false;
+        }
+      };
+      return;
+    }
+
+    // Fallback: full form (when no embedded config — eg user opened raw quiz_client.html)
+    openModal(`
+      <h2 class="modal-title">🏆 Tham gia bảng học tập</h2>
+      <div class="modal-body">
+        File client này chưa được nhúng cấu hình. Owner sẽ gửi cho bạn <b>4 thông tin</b>: username, repo, token, và mã mời.
+        <br><br>
+        <b style="color: var(--warning-text);">Mẹo:</b> nếu owner gửi link riêng (file đã tùy chỉnh sẵn), bạn chỉ cần nhập mã + tên.
+      </div>
+      <div class="form-row">
+        <label class="form-label">GitHub username của owner</label>
+        <input type="text" class="form-input" id="lb-j-owner" placeholder="vd: tuazn">
+      </div>
+      <div class="form-row">
+        <label class="form-label">Tên repo</label>
+        <input type="text" class="form-input" id="lb-j-repo" value="quiz_leaderboard">
+      </div>
+      <div class="form-row">
+        <label class="form-label">Token (do owner cung cấp)</label>
+        <input type="password" class="form-input" id="lb-j-token" placeholder="github_pat_...">
+      </div>
+      <div class="form-row">
+        <label class="form-label">Mã mời (6 ký tự)</label>
+        <input type="text" class="form-input" id="lb-j-code" placeholder="A3K7BX" style="text-transform: uppercase;" maxlength="6">
+      </div>
+      <div class="form-row">
+        <label class="form-label">Tên hiển thị của bạn</label>
+        <input type="text" class="form-input" id="lb-j-displayname" value="${escapeHtml(getUsername() || '')}">
+      </div>
+      <div id="lb-j-progress" style="font-size: 13px; color: var(--text-secondary); margin: 8px 0;"></div>
+      <div class="modal-actions">
+        <button class="btn" id="lb-j-cancel">Huỷ</button>
+        <button class="btn btn-primary" id="lb-j-go">Tham gia</button>
+      </div>
+    `);
+    document.getElementById('lb-j-cancel').onclick = closeModal;
+    document.getElementById('lb-j-go').onclick = async () => {
+      const owner = document.getElementById('lb-j-owner').value.trim();
+      const repo = document.getElementById('lb-j-repo').value.trim();
+      const token = document.getElementById('lb-j-token').value.trim();
+      const code = document.getElementById('lb-j-code').value.trim().toUpperCase();
+      const displayName = document.getElementById('lb-j-displayname').value.trim();
+      if (!owner || !repo || !token || !code || !displayName) {
+        toast('Cần đủ tất cả các trường', 'error'); return;
+      }
+      const progressEl = document.getElementById('lb-j-progress');
+      const goBtn = document.getElementById('lb-j-go');
+      goBtn.disabled = true;
+      progressEl.textContent = 'Đang xác minh mã...';
+      try {
+        await lbVerifyAndUseCode(token, owner, repo, code, displayName);
+        saveLBConfig({ token, owner, repo, displayName, isOwner: false, joinedAt: Date.now() });
+        await lbPushStats();
+        closeModal();
+        toast('✓ Đã tham gia bảng', 'success');
+        renderLibrary();
+      } catch(e) {
+        progressEl.innerHTML = '<b style="color: var(--danger);">✗ ' + escapeHtml(e.message) + '</b>';
+        goBtn.disabled = false;
+      }
+    };
+  }
+
+  async function openLBManageModal() {
+    const cfg = loadLBConfig();
+    if (!cfg || !cfg.isOwner) return;
+    openModal(`
+      <h2 class="modal-title">⚙ Quản lý bảng học tập</h2>
+      <div id="lb-mgmt-content">Đang tải...</div>
+      <div class="modal-actions">
+        <button class="btn" id="lb-mgmt-leave" style="color: var(--danger);">Rời khỏi bảng</button>
+        <button class="btn btn-primary" id="lb-mgmt-close">Đóng</button>
+      </div>
+    `);
+    document.getElementById('lb-mgmt-close').onclick = closeModal;
+    document.getElementById('lb-mgmt-leave').onclick = () => {
+      if (confirm('Rời khỏi bảng? Stats của bạn vẫn còn trên cloud cho đến khi owner xoá.\n\nLưu ý: bạn vẫn có quyền owner — chỉ disconnect khỏi máy này.')) {
+        saveLBConfig(null);
+        closeModal();
+        renderLibrary();
+      }
+    };
+
+    // Load invites + render
+    async function refresh() {
+      const content = document.getElementById('lb-mgmt-content');
+      content.innerHTML = 'Đang tải...';
+      try {
+        const { content: inv } = await lbReadFile(cfg, 'invites.json');
+        const codes = (inv && inv.codes) || [];
+        let invHTML = '';
+        if (codes.length === 0) {
+          invHTML = '<i style="color: var(--text-tertiary); font-size: 13px;">Chưa có mã nào</i>';
+        } else {
+          invHTML = '<table class="lb-mgmt-table"><thead><tr><th>Mã</th><th>Ghi chú</th><th>Trạng thái</th></tr></thead><tbody>';
+          codes.slice().reverse().forEach(c => {
+            const status = c.usedBy
+              ? `Dùng bởi <b>${escapeHtml(c.usedBy)}</b>`
+              : '<span style="color: var(--success);">Chưa dùng</span>';
+            invHTML += `<tr><td><code>${c.code}</code></td><td>${escapeHtml(c.label || '')}</td><td>${status}</td></tr>`;
+          });
+          invHTML += '</tbody></table>';
+        }
+        content.innerHTML = `
+          <h3 style="margin: 0 0 8px 0; font-size: 14px;">Tạo mã mời mới</h3>
+          <div style="display: flex; gap: 8px; align-items: center; margin-bottom: 16px;">
+            <input type="text" class="form-input" id="lb-new-label" placeholder="Ghi chú (vd: Mai)" style="flex: 1;" maxlength="40">
+            <button class="btn btn-primary btn-sm" id="lb-new-btn">+ Tạo mã</button>
+          </div>
+          <h3 style="margin: 0 0 8px 0; font-size: 14px;">Danh sách mã (${codes.length})</h3>
+          ${invHTML}
+        `;
+        document.getElementById('lb-new-btn').onclick = async () => {
+          const label = document.getElementById('lb-new-label').value.trim();
+          const btn = document.getElementById('lb-new-btn');
+          btn.disabled = true;
+          try {
+            const newCode = await lbCreateInvite(label);
+            toast(`✓ Mã mới: ${newCode}`, 'success');
+            await refresh();
+          } catch(e) {
+            toast('Lỗi: ' + e.message, 'error');
+            btn.disabled = false;
+          }
+        };
+      } catch(e) {
+        content.innerHTML = '<b style="color: var(--danger);">Lỗi: ' + escapeHtml(e.message) + '</b>';
+      }
+    }
+    refresh();
+  }
+
+  // Cache for leaderboard data + auto-refresh
+  let lbCache = null;
+  let lbPollTimer = null;
+  let lbLastPushAt = 0;
+
+  async function refreshLeaderboardData() {
+    lbCache = await lbFetchLeaderboard();
+    if (view === 'library') {
+      // Re-render only the leaderboard section to avoid full reflow
+      const sec = document.querySelector('.lb-section');
+      if (sec) {
+        const wrapper = document.createElement('div');
+        wrapper.innerHTML = renderLeaderboardSection(lbCache);
+        sec.replaceWith(wrapper.firstElementChild);
+        bindLeaderboardEvents();
+      }
+    }
+  }
+
+  function bindLeaderboardEvents() {
+    const joinBtn = document.getElementById('lb-join-btn');
+    if (joinBtn) joinBtn.onclick = openLBJoinModal;
+    const createBtn = document.getElementById('lb-create-btn');
+    if (createBtn) createBtn.onclick = openLBCreateModal;
+    const refreshBtn = document.getElementById('lb-refresh-btn');
+    if (refreshBtn) refreshBtn.onclick = async () => {
+      refreshBtn.disabled = true;
+      await lbPushStats();
+      await refreshLeaderboardData();
+      refreshBtn.disabled = false;
+    };
+    const manageBtn = document.getElementById('lb-manage-btn');
+    if (manageBtn) manageBtn.onclick = openLBManageModal;
+  }
+
+  // Auto-push when finishing a deck (called from finish flow)
+  async function lbAutoPush() {
+    const now = Date.now();
+    // Throttle: max once per 30s
+    if (now - lbLastPushAt < 30000) return;
+    lbLastPushAt = now;
+    if (loadLBConfig()) {
+      await lbPushStats();
+    }
+  }
+
+  // Start polling timer when in library view
+  function startLBPolling() {
+    if (lbPollTimer) return;
+    if (!loadLBConfig()) return;
+    lbPollTimer = setInterval(refreshLeaderboardData, 5 * 60 * 1000); // 5min
+  }
+  function stopLBPolling() {
+    if (lbPollTimer) { clearInterval(lbPollTimer); lbPollTimer = null; }
+  }
+
+
   const toastEl = document.getElementById('toast');
   let toastTimer;
   function toast(msg, type) {
@@ -888,6 +1536,9 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
     // Stats panel (only if username is set)
     let html = renderStatsPanel();
 
+    // Leaderboard section
+    html += renderLeaderboardSection(lbCache);
+
     // Tabs (always visible)
     html += `
       <div class="tabs">
@@ -1047,6 +1698,10 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
     // Stats panel click — open username editor
     const statsPanel = document.getElementById('stats-panel');
     if (statsPanel) statsPanel.onclick = () => openUsernameModal(false);
+
+    // Leaderboard buttons
+    bindLeaderboardEvents();
+    startLBPolling();
 
     // Tabs
     main.querySelectorAll('.tab').forEach(t => t.onclick = () => {
@@ -1545,6 +2200,7 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
       }
       if (d.progress.shuffle) saveProgress();
       view = 'quiz';
+      stopLBPolling();
       renderQuiz();
       return;
     }
@@ -1581,6 +2237,7 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
       isMcq: (d.type || 'cases') === 'mcq'
     };
     view = 'quiz';
+    stopLBPolling();
     renderQuiz();
   }
 
@@ -1839,6 +2496,7 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
             d.bestScore = finalPct;
           }
           saveSession(d.id, d.name, finalPct, qstate.totalQ, qstate.correct);
+          lbAutoPush();
           if (d.progress) delete d.progress;
           saveDecks();
         }
@@ -1903,6 +2561,10 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
           toast('⚠ Không đồng bộ được: ' + e.message, 'error');
         }
       }, 100);
+    }
+    // Fetch leaderboard if joined
+    if (loadLBConfig()) {
+      setTimeout(() => refreshLeaderboardData(), 200);
     }
   }
 })();
