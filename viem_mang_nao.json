@@ -1,0 +1,617 @@
+{
+  "name": "Viêm màng não",
+  "description": "Bộ case lâm sàng ôn thi nội trú về viêm màng não mủ: chẩn đoán, phân biệt, xử trí và phòng bệnh",
+  "level": "Ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "cases": [
+    {
+      "title": "Nam 24 tuổi sốt cao, đau đầu dữ dội khởi phát đột ngột",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 24 tuổi, sinh viên, vào viện vì sốt cao 39,5°C và đau đầu dữ dội khởi phát từ 12 giờ trước. Người nhà cho biết buổi sáng bệnh nhân còn khỏe, chiều đột ngột sốt, đau đầu vùng thái dương-chẩm, sau đó nôn vọt 2 lần và trở nên li bì.<br><b>Tiền sử:</b> Khỏe mạnh, đang sống trong ký túc xá 6 người/phòng. Chưa tiêm vaccine não mô cầu.<br><b>Khám:</b> Nhiệt độ 39,5°C, mạch 118 l/p, HA 95/60 mmHg, SpO₂ 97%. Glasgow 13 điểm. <b>Cứng gáy (+), Kernig (+), Brudzinski (+)</b>. Trên da thân mình và chi dưới có nhiều <b>ban xuất huyết hình sao, không mất màu khi ấn</b>, to nhỏ không đều.<br><b>Cận lâm sàng:</b> BC 22 G/L (TT 92%), CRP 185 mg/L, PCT 18 ng/mL. Tiểu cầu 68 G/L. PT 52%, APTT kéo dài.",
+      "questions": [
+        {
+          "q": "Đặc điểm lâm sàng nào QUAN TRỌNG NHẤT cần nhận diện ngay ở bệnh nhân này?",
+          "options": [
+            "Ban xuất huyết không mất màu khi ấn kết hợp sốc nhiễm khuẩn và hội chứng màng não",
+            "Sốt cao đột ngột kết hợp với nôn vọt và đau đầu dữ dội",
+            "Rối loạn tri giác (GCS 13) kết hợp với sốt cao trên 39°C",
+            "Hội chứng màng não đầy đủ (cứng gáy, Kernig, Brudzinski) trên người trẻ"
+          ],
+          "answer": 0,
+          "explain": "<b>Ban xuất huyết không mất màu khi ấn (non-blanching purpura) là dấu hiệu cảnh báo nhiễm khuẩn huyết não mô cầu</b>, nguy cơ cao tiến triển thành hội chứng Waterhouse-Friderichsen (xuất huyết tuyến thượng thận, DIC, sốc). Kết hợp với huyết động không ổn định (HA 95/60, mạch 118) và giảm tiểu cầu, kéo dài PT/APTT gợi ý DIC — đây là tổ hợp đe dọa tính mạng ngay lập tức cần nhận diện và xử trí khẩn cấp, ưu tiên hơn các dấu hiệu màng não đơn thuần."
+        },
+        {
+          "q": "Căn nguyên vi khuẩn nhiều khả năng nhất gây bệnh cảnh này là gì?",
+          "options": [
+            "Neisseria meningitidis",
+            "Streptococcus pneumoniae",
+            "Streptococcus suis",
+            "Haemophilus influenzae"
+          ],
+          "answer": 0,
+          "explain": "<b>Neisseria meningitidis (não mô cầu)</b> là căn nguyên điển hình nhất trong bệnh cảnh này vì: (1) tuổi 18–25 là nhóm nguy cơ cao nhất (đỉnh thứ 2 của não mô cầu), (2) sống tập thể trong ký túc xá là yếu tố nguy cơ kinh điển, (3) ban xuất huyết hoại tử hình sao không mất màu khi ấn là dấu hiệu ĐẶC TRƯNG của nhiễm não mô cầu. S. pneumoniae ít gây ban xuất huyết dạng này. S. suis thường liên quan tiếp xúc lợn. H. influenzae hiếm ở người lớn đã tiêm vaccine."
+        },
+        {
+          "q": "Thứ tự xử trí phù hợp nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Cấy máu → kháng sinh + dexamethasone ngay → chụp CT → chọc dịch não tủy",
+            "Chọc dịch não tủy → cấy máu → kháng sinh → chụp CT nếu không đáp ứng",
+            "Chụp CT sọ não → chọc dịch não tủy → cấy máu → kháng sinh",
+            "Kháng sinh → chọc dịch não tủy → cấy máu → chụp CT nếu cần"
+          ],
+          "answer": 0,
+          "explain": "<b>Bệnh nhân có huyết động không ổn định và dấu hiệu sốc</b> — đây là chống chỉ định chọc dịch não tủy ngay. Theo khuyến cáo: Cấy máu (2 bộ) → bắt đầu kháng sinh + dexamethasone NGAY LẬP TỨC → ổn định huyết động → sau đó xem xét chụp CT (loại trừ tăng ICP) → mới chọc DNT. <b>Không được trì hoãn kháng sinh chờ kết quả DNT khi bệnh nhân không ổn định</b>. Mỗi giờ trì hoãn kháng sinh làm tăng đáng kể tỷ lệ tử vong."
+        },
+        {
+          "q": "Kháng sinh kinh nghiệm phù hợp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Ceftriaxone 4g/24h TMC chia 2 lần",
+            "Ampicillin 12g/24h TMC chia 6 lần",
+            "Vancomycin 45–60 mg/kg/24h TMC chia 2 lần",
+            "Meropenem 6g/24h TMC chia 3 lần"
+          ],
+          "answer": 0,
+          "explain": "<b>Ceftriaxone (cephalosporin thế hệ 3)</b> là kháng sinh đầu tay cho não mô cầu ở người lớn trẻ khỏe mạnh. Với định hướng N. meningitidis (người trẻ, ban xuất huyết đặc trưng), C3G đơn độc là đủ và là lựa chọn ưu tiên theo hướng dẫn IDSA. Ampicillin chủ yếu bổ sung khi cần phủ Listeria (người > 50 tuổi hoặc suy giảm miễn dịch). Vancomycin bổ sung khi nghi phế cầu kháng thuốc. Meropenem là lựa chọn thứ 2 khi dị ứng beta-lactam."
+        },
+        {
+          "q": "Ngoài bệnh nhân, những ai cần dùng thuốc dự phòng và phác đồ nào phù hợp nhất?",
+          "options": [
+            "Người sống cùng ký túc xá trong 7 ngày qua; ciprofloxacin 500mg uống liều duy nhất",
+            "Toàn bộ sinh viên trong tòa nhà ký túc xá; rifampicin 600mg × 2 lần/ngày × 7 ngày",
+            "Chỉ nhân viên y tế tiếp xúc trực tiếp; azithromycin 500mg uống liều duy nhất",
+            "Bạn cùng phòng ký túc xá; amoxicillin 500mg × 3 lần/ngày × 5 ngày"
+          ],
+          "answer": 0,
+          "explain": "<b>Hóa dự phòng sau phơi nhiễm não mô cầu</b> chỉ định cho người tiếp xúc gần trong vòng 7 ngày (sống cùng phòng, tiếp xúc dịch tiết đường hô hấp). Ciprofloxacin 500mg liều duy nhất là phác đồ đầu tay ở người lớn không mang thai — hiệu quả, tiện dùng. Rifampicin 600mg × 2 lần/ngày chỉ dùng trong <b>2 ngày</b> (không phải 7 ngày). Azithromycin dùng cho phụ nữ có thai. Amoxicillin không có trong phác đồ dự phòng não mô cầu. Thời gian dùng dự phòng: càng sớm càng tốt, tốt nhất trong 24h sau chẩn đoán ca bệnh."
+        }
+      ]
+    },
+    {
+      "title": "Phụ nữ 52 tuổi sốt, đau đầu sau bữa tiệc tiết canh lợn",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 52 tuổi, nông dân, vào viện ngày 3 của bệnh với sốt cao 39,8°C, đau đầu dữ dội vùng chẩm-thái dương tăng dần, nôn 3–4 lần/ngày, không đi ngoài 2 ngày. Trước khi bệnh 5 ngày có dự tiệc mổ lợn, ăn tiết canh và lòng lợn chưa chín kỹ.<br><b>Tiền sử:</b> Tăng huyết áp điều trị amlodipine. Không có tiền sử suy giảm miễn dịch.<br><b>Khám:</b> T 39,8°C, M 108 l/p, HA 110/70 mmHg. <b>Cứng gáy (+), Kernig (+)</b>. Da có nhiều mảng xuất huyết rải rác ở thân và chi. GCS 14. Nghe phổi bình thường.<br><b>Cận lâm sàng:</b> BC 18,5 G/L (TT 90%), CRP 145 mg/L. <b>DNT: đục, áp lực 280 mmH₂O, BC 2.400/mm³ (TT 96%), Protein 2,1 g/L, Glucose 0,6 mmol/L</b> (đường máu 7,2 mmol/L). Soi DNT: cầu khuẩn gram dương, xếp đôi/chuỗi ngắn.",
+      "questions": [
+        {
+          "q": "Căn nguyên vi khuẩn nhiều khả năng nhất là gì?",
+          "options": [
+            "Streptococcus suis (liên cầu lợn)",
+            "Streptococcus pneumoniae (phế cầu)",
+            "Neisseria meningitidis (não mô cầu)",
+            "Listeria monocytogenes"
+          ],
+          "answer": 0,
+          "explain": "<b>Streptococcus suis</b> là căn nguyên điển hình nhất vì hội tụ đủ các yếu tố đặc trưng: (1) tiền sử ăn tiết canh/lòng lợn chưa chín kỹ — đường lây quan trọng nhất; (2) ủ bệnh ~5 ngày phù hợp; (3) ban xuất huyết dạng mảng là đặc trưng của S. suis; (4) cầu khuẩn gram dương xếp đôi/chuỗi ngắn; (5) nhóm tuổi 18–50 người lớn Việt Nam. S. pneumoniae thường có viêm phổi/viêm xoang kèm theo. N. meningitidis gây ban hình sao, không mảng. Listeria thường ở người > 50 và suy giảm miễn dịch."
+        },
+        {
+          "q": "Tỉ lệ glucose DNT/máu của bệnh nhân này là bao nhiêu và ý nghĩa lâm sàng là gì?",
+          "options": [
+            "0,08 — giảm nặng, rất đặc trưng viêm màng não mủ",
+            "0,08 — giảm nhẹ, có thể gặp trong viêm màng não virus",
+            "0,33 — giảm vừa, phù hợp cả VMN mủ và VMN lao",
+            "0,33 — bình thường, không hỗ trợ chẩn đoán VMNM"
+          ],
+          "answer": 0,
+          "explain": "Tỉ lệ = 0,6 / 7,2 ≈ <b>0,08</b>. Bình thường tỉ lệ này > 2/3 (≈ 0,67). Trong VMNM, tỉ lệ < 1/2 (< 0,5) là bất thường; < 1/3 là giảm nặng. Tỉ lệ 0,08 cực kỳ thấp, <b>đặc trưng của VMNM mủ do vi khuẩn sinh sôi tiêu thụ glucose</b> và gây viêm dữ dội. VMN lao tỉ lệ thường giảm nhẹ hoặc bình thường. VMN virus thường > 2/3 đường máu. Đây là một trong những chỉ số phân biệt quan trọng nhất."
+        },
+        {
+          "q": "Chọn TẤT CẢ các đáp án đúng về đặc điểm DNT trong ca này:",
+          "type": "multi",
+          "options": [
+            "Áp lực 280 mmH₂O vượt ngưỡng bình thường (5–18 cmH₂O)",
+            "BC 2.400/mm³ với 96% TT là điển hình VMNM mủ",
+            "Protein 2,1 g/L tăng đáng kể so với bình thường (0,15–0,45 g/L)",
+            "DNT đục tương ứng với khoảng > 200 BC/mm³",
+            "Glucose DNT 0,6 mmol/L nằm trong giới hạn bình thường (2,8–3,3 mmol/L)"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explain": "<b>A đúng:</b> 280 mmH₂O = 28 cmH₂O, vượt ngưỡng bình thường (5–18 cmH₂O), > 40 cmH₂O mới nguy cơ hôn mê cao. <b>B đúng:</b> BC > 1000/mm³ với BCĐNTT ưu thế (> 80%) là tiêu chuẩn điển hình VMNM. <b>C đúng:</b> Protein bình thường 0,15–0,45 g/L; 2,1 g/L tăng gấp ~5–14 lần. <b>D đúng:</b> DNT đục khi BC > 200/mm³. <b>E sai:</b> Glucose DNT 0,6 mmol/L thấp hơn nhiều so với bình thường (2,8–3,3 mmol/L), đây là dấu hiệu bệnh lý quan trọng."
+        },
+        {
+          "q": "Kháng sinh và thời gian điều trị phù hợp nhất cho ca này là gì?",
+          "options": [
+            "Ceftriaxone TMC, dùng 21–30 ngày",
+            "Ceftriaxone TMC, dùng 7–10 ngày",
+            "Ampicillin + Ceftriaxone TMC, dùng 14 ngày",
+            "Vancomycin + Ceftriaxone TMC, dùng 10–14 ngày"
+          ],
+          "answer": 0,
+          "explain": "<b>S. suis</b> nhạy với cephalosporin thế hệ 3 (Ceftriaxone hoặc Cefotaxime) — đây là kháng sinh lựa chọn. Điểm quan trọng: thời gian điều trị S. suis kéo dài <b>21–30 ngày</b> do nguy cơ tái phát cao và để phòng di chứng giảm thính lực. 7–10 ngày là thời gian cho N. meningitidis/H. influenzae. 10–14 ngày cho S. pneumoniae. Vancomycin + C3G dùng khi nghi phế cầu kháng thuốc, không cần thiết ở đây. Ampicillin bổ sung khi cần phủ Listeria."
+        },
+        {
+          "q": "Di chứng đặc trưng và thường gặp nhất sau khi khỏi bệnh ở bệnh nhân nhiễm S. suis là gì?",
+          "options": [
+            "Giảm thính lực không hồi phục và rối loạn điều hợp vận động-tư thế",
+            "Liệt nửa người do nhồi máu não thứ phát",
+            "Động kinh tái phát do sẹo màng não",
+            "Suy nhận thức và thay đổi tính cách kéo dài"
+          ],
+          "answer": 0,
+          "explain": "<b>Giảm thính lực không hồi phục</b> là di chứng ĐẶC TRƯNG và phổ biến nhất của nhiễm S. suis — do viêm mê đạo và tổn thương dây thần kinh VIII. Đây là điểm khác biệt quan trọng so với các căn nguyên VMNM khác. Rối loạn điều hợp vận động-tư thế (mất thăng bằng, đi loạng choạng) cũng thường gặp. Cần đánh giá thính lực trước khi xuất viện. Liệt nửa người, động kinh, suy nhận thức là biến chứng chung của VMNM, không đặc trưng cho S. suis."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ 8 tháng tuổi sốt cao, bú kém, thóp phồng",
+      "body": "<b>Bệnh sử:</b> Trẻ trai 8 tháng tuổi được đưa đến cấp cứu vì sốt cao 39,2°C 2 ngày, bú kém, quấy khóc nhiều. Hôm nay trẻ li bì hơn, nôn 2 lần sau bú, mẹ nhận thấy thóp phồng.<br><b>Tiền sử:</b> Đẻ thường đủ tháng. Tiêm chủng: đã tiêm 3 mũi 5 trong 1 (có Hib). Không tiêm vaccine phế cầu.<br><b>Khám:</b> T 39,2°C, M 140 l/p, HA 80/50 mmHg. Cân nặng 8 kg. <b>Li bì, kích thích khi chạm vào, khóc thét. Thóp phồng, căng.</b> Cứng gáy khó đánh giá. Không ban xuất huyết.<br><b>Cận lâm sàng:</b> BC 21 G/L (TT 88%), CRP 168 mg/L, PCT 12 ng/mL. Đường máu 4,2 mmol/L.",
+      "questions": [
+        {
+          "q": "Ở trẻ 8 tháng, dấu hiệu nào THAY THẾ cho dấu Kernig và Brudzinski trong chẩn đoán hội chứng màng não?",
+          "options": [
+            "Thóp phồng, căng + kích thích khi chạm + khóc thét",
+            "Sốt cao trên 38,5°C kéo dài trên 2 ngày",
+            "Nôn vọt nhiều lần không liên quan bữa ăn",
+            "Li bì, bú kém, giảm phản xạ mút"
+          ],
+          "answer": 0,
+          "explain": "Ở trẻ nhỏ (< 18 tháng), dấu Kernig và Brudzinski <b>thường âm tính hoặc khó đánh giá</b> do trương lực cơ chưa hoàn thiện. Thay vào đó, <b>thóp phồng, căng</b> là dấu hiệu tăng áp lực nội sọ đặc trưng ở lứa tuổi này. Kích thích khi chạm (hyperesthesia) và khóc thét là biểu hiện tăng nhạy cảm đau — tương đương hội chứng màng não. Trẻ càng nhỏ, triệu chứng càng không đặc hiệu; cần có ngưỡng nghi ngờ thấp để chỉ định chọc DNT."
+        },
+        {
+          "q": "Căn nguyên vi khuẩn nhiều khả năng nhất ở trẻ 8 tháng chưa tiêm vaccine phế cầu là gì?",
+          "options": [
+            "Streptococcus pneumoniae",
+            "Haemophilus influenzae type b",
+            "Neisseria meningitidis",
+            "Streptococcus agalactiae (Group B Strep)"
+          ],
+          "answer": 0,
+          "explain": "<b>S. pneumoniae (phế cầu)</b> là căn nguyên hàng đầu ở nhóm tuổi 1–23 tháng và bệnh nhân chưa tiêm vaccine phế cầu. H. influenzae type b (Hib) ít khả năng hơn vì trẻ đã tiêm đủ 3 mũi 5 trong 1 (có Hib) — vaccine Hib rất hiệu quả. N. meningitidis có 2 đỉnh: < 2 tuổi và 16–20 tuổi, nhưng kém khả năng hơn phế cầu khi chưa tiêm vaccine phế cầu. Group B Strep (S. agalactiae) thường gặp ở sơ sinh < 3 tháng, trẻ 8 tháng ít gặp hơn."
+        },
+        {
+          "q": "Phác đồ kháng sinh kinh nghiệm phù hợp nhất cho trẻ này là gì?",
+          "options": [
+            "Ceftriaxone 80–100 mg/kg/24h + Vancomycin 40–60 mg/kg/24h TMC",
+            "Ceftriaxone 80–100 mg/kg/24h đơn trị TMC",
+            "Ampicillin 300 mg/kg/24h + Ceftriaxone 80–100 mg/kg/24h TMC",
+            "Cefotaxime 225–300 mg/kg/24h + Ampicillin 300 mg/kg/24h TMC"
+          ],
+          "answer": 0,
+          "explain": "<b>C3G + Vancomycin</b> là phác đồ chuẩn khi nghi phế cầu ở trẻ em, vì S. pneumoniae kháng penicillin và kháng cephalosporin ngày càng phổ biến. C3G đơn độc không đủ khi có nguy cơ phế cầu kháng thuốc. Ceftriaxone ở trẻ nhũ nhi cần thận trọng (nguy cơ vàng da nhân não), nhưng trẻ 8 tháng đã ngoài nguy cơ này — Cefotaxime ưu tiên hơn chỉ ở sơ sinh. Ampicillin + C3G dùng khi cần phủ Listeria (< 3 tháng hoặc > 50 tuổi)."
+        },
+        {
+          "q": "Dexamethasone có nên dùng cho trẻ này không, và liều lượng là bao nhiêu?",
+          "options": [
+            "Có; 0,15 mg/kg mỗi 6 giờ × 4 ngày, dùng trước liều kháng sinh đầu tiên 15 phút",
+            "Có; 10 mg/lần × 4 lần/ngày × 4 ngày, dùng cùng lúc với kháng sinh",
+            "Không; corticoid chống chỉ định ở trẻ dưới 12 tháng do ức chế miễn dịch",
+            "Chỉ dùng nếu trẻ có co giật hoặc GCS < 8; liều 0,5 mg/kg bolus TMC"
+          ],
+          "answer": 0,
+          "explain": "<b>Dexamethasone được khuyến cáo cho trẻ ≥ 6 tuần tuổi</b> khi nghi phế cầu hoặc H. influenzae, nhằm giảm phản ứng viêm, cải thiện kết cục thần kinh — đặc biệt giảm nguy cơ điếc. Liều trẻ em: <b>0,15 mg/kg mỗi 6h × 4 ngày</b>. Liều 10 mg × 4 lần là liều người lớn. Thời điểm dùng: trước hoặc cùng lúc liều KS đầu tiên (lý tưởng là trước 15 phút) để ức chế phản ứng viêm ngay khi vi khuẩn bị tiêu diệt. Không có chống chỉ định tuyệt đối ở trẻ nhũ nhi khi có chỉ định đúng."
+        }
+      ]
+    },
+    {
+      "title": "Nam 67 tuổi sốt nhẹ, lú lẫn tiến triển 4 ngày",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 67 tuổi, tiền sử đái tháo đường type 2 và nghiện rượu mạn tính, được đưa đến viện vì lú lẫn tăng dần 4 ngày, sốt nhẹ 37,8–38,5°C và đau đầu liên tục. Vợ cho biết bệnh nhân ngày càng hay quên, nói nhảm từ 2 ngày nay.<br><b>Tiền sử:</b> ĐTĐ type 2 (metformin), nghiện rượu 20 năm. Chưa tiêm vaccine phế cầu.<br><b>Khám:</b> T 38,2°C, M 98 l/p, HA 130/80 mmHg. GCS 12 (mở mắt 3, lời 4, vận động 5). <b>Cứng gáy (+), Kernig (+)</b>. Không liệt khu trú, không ban xuất huyết. Nghe phổi: giảm thông khí thùy dưới phải.<br><b>Cận lâm sàng:</b> BC 15 G/L (TT 82%), CRP 98 mg/L. Đường máu 14 mmol/L. X-quang phổi: đám mờ thùy dưới phải.",
+      "questions": [
+        {
+          "q": "Căn nguyên vi khuẩn nào CẦN PHẢI được phủ kháng sinh ở bệnh nhân > 60 tuổi nghiện rượu mà không phải bỏ qua ở người trẻ khỏe mạnh?",
+          "options": [
+            "Listeria monocytogenes",
+            "Haemophilus influenzae",
+            "Neisseria meningitidis",
+            "Streptococcus suis"
+          ],
+          "answer": 0,
+          "explain": "<b>Listeria monocytogenes</b> là vi khuẩn nội bào sống, cần miễn dịch tế bào lành mạnh để kiểm soát. Người > 50 tuổi, nghiện rượu, ĐTĐ là các yếu tố nguy cơ kinh điển cho nhiễm Listeria. Quan trọng: <b>C3G (ceftriaxone, cefotaxime) KHÔNG có tác dụng với Listeria</b> — phải thêm Ampicillin hoặc Cotrimoxazole vào phác đồ. H. influenzae và N. meningitidis hiếm gặp ở người cao tuổi. S. suis liên quan tiếp xúc lợn. Bỏ sót Listeria ở người cao tuổi là sai lầm điều trị nguy hiểm."
+        },
+        {
+          "q": "Kết quả X-quang phổi đám mờ thùy dưới phải gợi ý điều gì trong bối cảnh lâm sàng này?",
+          "options": [
+            "Viêm phổi là ổ nhiễm khuẩn khởi điểm, gợi ý S. pneumoniae là căn nguyên",
+            "Viêm phổi hít do rối loạn ý thức, không liên quan căn nguyên VMN",
+            "Cần chụp CT phổi khẩn để loại trừ áp xe phổi trước khi điều trị",
+            "Gợi ý Klebsiella pneumoniae là căn nguyên, cần thêm aminoglycoside"
+          ],
+          "answer": 0,
+          "explain": "<b>S. pneumoniae (phế cầu) có xu hướng gây viêm phổi và viêm màng não đồng thời</b> — viêm phổi là một trong những đặc điểm lâm sàng gợi ý phế cầu theo tài liệu học. Bệnh nhân cao tuổi, ĐTĐ, nghiện rượu là nhóm nguy cơ cao nhất của phế cầu. Đám mờ thùy dưới phải kết hợp với hội chứng màng não mủ khởi phát dưới cấp ở người cao tuổi → phế cầu phải đứng đầu danh sách. Điều này ảnh hưởng trực tiếp đến quyết định dùng Vancomycin + C3G (không chỉ C3G đơn độc)."
+        },
+        {
+          "q": "Phác đồ kháng sinh kinh nghiệm tối ưu cho bệnh nhân này là gì?",
+          "options": [
+            "Vancomycin + Ampicillin + Ceftriaxone TMC",
+            "Ceftriaxone + Vancomycin TMC",
+            "Ampicillin + Gentamicin TMC",
+            "Meropenem + Vancomycin TMC"
+          ],
+          "answer": 0,
+          "explain": "<b>Vancomycin + Ampicillin + Ceftriaxone</b> là phác đồ chuẩn cho người > 50 tuổi có nguy cơ cao. Lý do: Vancomycin phủ S. pneumoniae kháng thuốc; Ceftriaxone phủ phế cầu nhạy cảm, N. meningitidis, H. influenzae; <b>Ampicillin là bắt buộc để phủ Listeria</b> (C3G không có tác dụng với Listeria). Phác đồ Ceftriaxone + Vancomycin thiếu Ampicillin — bỏ sót Listeria. Ampicillin + Gentamicin không đủ phủ phế cầu kháng penicillin. Meropenem + Vancomycin là lựa chọn thay thế khi dị ứng beta-lactam."
+        },
+        {
+          "q": "Chọn TẤT CẢ các phát biểu đúng về xét nghiệm cần làm trước khi điều trị ở bệnh nhân này:",
+          "type": "multi",
+          "options": [
+            "Cấy máu 2 bộ trước khi dùng kháng sinh",
+            "Chụp CT sọ não trước chọc DNT do bệnh nhân rối loạn ý thức (GCS 12)",
+            "Chọc DNT ngay không cần chờ CT vì không có dấu thần kinh khu trú",
+            "Xét nghiệm đông máu do nghi ngờ DIC",
+            "Điện giải đồ để phát hiện hạ natri máu (SIADH)"
+          ],
+          "answer": [
+            0,
+            1,
+            4
+          ],
+          "explain": "<b>A đúng:</b> Cấy máu 2 bộ luôn phải lấy trước KS — tiêu chuẩn bắt buộc. <b>B đúng:</b> GCS 12 (rối loạn ý thức) là một trong các tiêu chí 'LP FAILS' — cần CT trước chọc DNT để loại trừ tăng ICP, khối choán chỗ. <b>C sai:</b> Không thể bỏ qua CT chỉ vì không có liệt khu trú — rối loạn ý thức đơn độc đã là chỉ định CT. <b>D không bắt buộc ngay:</b> Không có ban xuất huyết hay dấu hiệu DIC lâm sàng. <b>E đúng:</b> Hạ natri máu (SIADH) thường gặp trong VMNM, ảnh hưởng điều trị, cần theo dõi và điều chỉnh."
+        }
+      ]
+    },
+    {
+      "title": "Phụ nữ 34 tuổi có HIV sốt bán cấp, đau đầu 3 tuần",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 34 tuổi, được chẩn đoán HIV/AIDS 2 năm, chưa điều trị ARV. Đến viện vì đau đầu âm ỉ tăng dần 3 tuần, sốt nhẹ 37,5–38°C, mệt mỏi. Không nôn nhiều. Không có tiền sử tiếp xúc lợn hay ăn thức ăn lạ.<br><b>Tiền sử:</b> HIV/AIDS, CD4 = 38 tế bào/μL (đo 1 tháng trước). Không dùng thuốc dự phòng cơ hội.<br><b>Khám:</b> T 37,8°C, M 94 l/p, HA 110/70 mmHg. GCS 14. Cứng gáy nhẹ (+/-). Kernig (-), Brudzinski (-). Không ban xuất huyết, không liệt khu trú.<br><b>Cận lâm sàng:</b> BC 3,2 G/L, CRP 42 mg/L. <b>DNT: trong, áp lực 340 mmH₂O (chảy vọt), BC 85/mm³ (lympho 90%), Protein 0,8 g/L, Glucose 1,9 mmol/L</b> (đường máu 5,1 mmol/L). Soi Gram: âm tính.",
+      "questions": [
+        {
+          "q": "Đặc điểm DNT nào NHẤT trong ca này giúp định hướng chẩn đoán căn nguyên?",
+          "options": [
+            "DNT trong, áp lực tăng rất cao (340 mmH₂O), tế bào thấp với lympho ưu thế",
+            "Glucose DNT giảm (1,9 mmol/L) với protein tăng nhẹ",
+            "BC lympho ưu thế 90% gợi ý căn nguyên virus",
+            "Soi Gram âm tính loại trừ được viêm màng não mủ"
+          ],
+          "answer": 0,
+          "explain": "Tổ hợp đặc trưng nhất của <b>VMN do Cryptococcus neoformans</b>: (1) <b>DNT trong</b>; (2) <b>áp lực mở tăng rất cao</b> (> 250 mmH₂O, có thể chảy vọt thành tia); (3) <b>tế bào thấp (< 200 TB/μL)</b> với lympho ưu thế — phản ánh suy giảm miễn dịch tế bào nặng (CD4 = 38); (4) glucose giảm, protein tăng. Diễn biến bán cấp 3 tuần trên cơ địa AIDS cũng điển hình. BC lympho gặp trong nhiều căn nguyên (lao, virus, nấm) nên không đặc hiệu. Soi Gram âm tính không loại trừ VMN mủ mất đầu sau KS."
+        },
+        {
+          "q": "Xét nghiệm chẩn đoán xác định nào nên ưu tiên thực hiện trước tiên?",
+          "options": [
+            "Kháng nguyên Cryptococcus trong máu và DNT (Cryptococcal antigen test)",
+            "Nhuộm mực tàu DNT (India ink stain)",
+            "Cấy DNT trên môi trường Sabouraud",
+            "PCR Cryptococcus trong DNT"
+          ],
+          "answer": 0,
+          "explain": "<b>Xét nghiệm kháng nguyên Cryptococcus (CrAg)</b> — thực hiện trên cả máu và DNT — có độ nhạy và độ đặc hiệu > 95%, cho kết quả nhanh (30 phút bằng test lateral flow). Đây là xét nghiệm ưu tiên hàng đầu theo khuyến cáo WHO 2022 cho người nhiễm HIV có CD4 < 100. Nhuộm mực tàu (India ink) đơn giản, rẻ, thấy tế bào nấm có quầng sáng bao quanh nhưng độ nhạy thấp hơn CrAg. Cấy nấm là tiêu chuẩn vàng nhưng cần 2–5 ngày. PCR ít dùng thường quy hơn CrAg."
+        },
+        {
+          "q": "Phác đồ điều trị đặc hiệu VMN do Cryptococcus neoformans gồm mấy giai đoạn, và giai đoạn tấn công là gì?",
+          "options": [
+            "3 giai đoạn; tấn công: Amphotericin B + Flucytosine ≥ 2 tuần",
+            "2 giai đoạn; tấn công: Fluconazole 400 mg/ngày × 8 tuần",
+            "3 giai đoạn; tấn công: Voriconazole + Flucytosine × 4 tuần",
+            "2 giai đoạn; tấn công: Amphotericin B đơn trị × 4 tuần"
+          ],
+          "answer": 0,
+          "explain": "Điều trị VMN Cryptococcus gồm <b>3 giai đoạn</b>: (1) <b>Tấn công</b>: Amphotericin B + Flucytosine ≥ 2 tuần (tiêu diệt nấm nhanh nhất); (2) <b>Củng cố</b>: Fluconazole ≥ 8 tuần (duy trì kiểm soát sau tiệt trùng CSF); (3) <b>Duy trì</b>: Fluconazole ≥ 1 năm (phòng tái phát). Fluconazole đơn độc giai đoạn tấn công kém hiệu quả hơn phác đồ phối hợp. Amphotericin B đơn trị thiếu Flucytosine làm giảm tốc độ thanh thải nấm. Lưu ý: trì hoãn bắt đầu ARV 4–6 tuần để tránh IRIS (hội chứng phục hồi miễn dịch)."
+        },
+        {
+          "q": "Áp lực DNT 340 mmH₂O đòi hỏi xử trí đặc biệt nào?",
+          "options": [
+            "Chọc tháo dịch não tủy từng đợt đến khi áp lực xuống < 200 mmH₂O",
+            "Dùng Manitol TMC 0,5–1 g/kg để giảm áp lực ngay lập tức",
+            "Đặt dẫn lưu não thất (EVD) khẩn cấp",
+            "Nằm đầu cao 30° và hạn chế dịch để giảm sản xuất DNT"
+          ],
+          "answer": 0,
+          "explain": "Tăng áp lực nội sọ trong VMN Cryptococcus không đáp ứng với Manitol hay corticoid (khác với VMNM do vi khuẩn). <b>Chọc tháo dịch não tủy (therapeutic lumbar puncture)</b> là phương pháp kiểm soát ALNS chính: rút 20–30 mL DNT mỗi lần, lặp lại hằng ngày cho đến khi áp lực mở < 200 mmH₂O và triệu chứng cải thiện. Đây là khuyến cáo của WHO và IDSA cho VMN Cryptococcus kháng trị với tăng ALNS. Manitol không hiệu quả trong bối cảnh này. EVD là bước leo thang khi chọc tháo không đủ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 38 tuổi sau phẫu thuật u màng não 10 ngày",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 38 tuổi, được phẫu thuật cắt u màng não 10 ngày trước, hiện đang điều trị tại khoa Ngoại thần kinh. Từ ngày thứ 7 sau mổ, bệnh nhân sốt tăng dần 38–39°C, đau đầu, vết mổ không có dấu hiệu nhiễm trùng bên ngoài. Ngày thứ 9 xuất hiện lú lẫn.<br><b>Tiền sử:</b> U màng não vừa được phẫu thuật, không tiền sử dị ứng.<br><b>Khám:</b> T 38,8°C, M 106 l/p, HA 120/75 mmHg. GCS 13. Cứng gáy (+). Vết mổ khô, không đỏ-chảy mủ. Không ban xuất huyết.<br><b>Cận lâm sàng:</b> BC 18 G/L (TT 88%), CRP 122 mg/L. DNT qua dẫn lưu: đục, BC 4.800/mm³ (TT 94%), Protein 3,2 g/L, Glucose 0,4 mmol/L. Soi Gram: trực khuẩn gram âm.",
+      "questions": [
+        {
+          "q": "Soi Gram DNT thấy trực khuẩn gram âm sau phẫu thuật thần kinh — căn nguyên nào cần được ưu tiên phủ kháng sinh?",
+          "options": [
+            "Pseudomonas aeruginosa và Enterobacteriaceae đa kháng",
+            "Streptococcus pneumoniae và Haemophilus influenzae",
+            "Staphylococcus aureus và Coagulase-negative staphylococci",
+            "Listeria monocytogenes và E. coli"
+          ],
+          "answer": 0,
+          "explain": "Theo bảng căn nguyên theo cơ địa: sau phẫu thuật thần kinh, vi khuẩn hay gặp nhất là <b>trực khuẩn gram âm hiếu khí (bao gồm P. aeruginosa)</b>, S. aureus, Coagulase-negative staphylococci. Soi Gram thấy trực khuẩn gram âm → ưu tiên phủ gram âm kháng thuốc, đặc biệt P. aeruginosa. S. pneumoniae và H. influenzae là cầu khuẩn (không phải trực khuẩn), không phù hợp kết quả Gram. S. aureus và CoNS là cầu khuẩn gram dương. Listeria là trực khuẩn gram dương."
+        },
+        {
+          "q": "Kháng sinh kinh nghiệm phù hợp nhất cho VMNM liên quan phẫu thuật thần kinh với tác nhân gram âm là gì?",
+          "options": [
+            "Vancomycin + Cefepime hoặc Meropenem TMC",
+            "Ceftriaxone + Vancomycin TMC",
+            "Ampicillin + Ceftriaxone TMC",
+            "Vancomycin + Gentamicin TMC"
+          ],
+          "answer": 0,
+          "explain": "<b>Vancomycin + Cefepime (hoặc Meropenem)</b> là phác đồ chuẩn cho VMNM liên quan phẫu thuật/chấn thương. Vancomycin phủ gram dương (S. aureus, CoNS, kể cả MRSA). Cefepime hoặc Meropenem phủ gram âm đa kháng <b>bao gồm P. aeruginosa</b> — Ceftriaxone không phủ được P. aeruginosa. Gentamicin ngấm kém qua hàng rào máu-não, không dùng đơn độc trong VMNM. Ampicillin + C3G là phác đồ cộng đồng, không phù hợp khi nghi gram âm bệnh viện kháng thuốc."
+        },
+        {
+          "q": "Thời gian điều trị kháng sinh cho VMNM do trực khuẩn gram âm hiếu khí là bao lâu?",
+          "options": [
+            "21 ngày",
+            "7–10 ngày",
+            "10–14 ngày",
+            "14 ngày"
+          ],
+          "answer": 0,
+          "explain": "Theo khuyến cáo, thời gian điều trị VMNM do <b>trực khuẩn gram âm hiếu khí</b> (bao gồm P. aeruginosa, Klebsiella, E. coli) là <b>21 ngày</b> — dài hơn so với não mô cầu (7 ngày) và phế cầu (10–14 ngày). Lý do: gram âm khó xâm nhập hàng rào máu-não, nồng độ thuốc trong DNT đạt mức thấp, và nguy cơ tái phát cao nếu điều trị ngắn. 7–10 ngày cho não mô cầu. 10–14 ngày cho phế cầu. 21–30 ngày cho S. suis."
+        },
+        {
+          "q": "Chọn TẤT CẢ các yếu tố nguy cơ VMNM mắc phải bệnh viện liên quan chăm sóc y tế:",
+          "type": "multi",
+          "options": [
+            "Phẫu thuật thần kinh hoặc chấn thương đầu xuyên thấu",
+            "Dẫn lưu não thất (EVD) hoặc shunt não thất-phúc mạc",
+            "Vỡ nền sọ với rò dịch não tủy",
+            "Tiêm vaccine não mô cầu không đủ liều",
+            "Sống trong ký túc xá hoặc cơ sở tập thể"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explain": "<b>A đúng:</b> Phẫu thuật thần kinh và chấn thương đầu xuyên thấu là yếu tố nguy cơ kinh điển cho VMNM bệnh viện (vi khuẩn gram âm, S. aureus). <b>B đúng:</b> Dẫn lưu não thất và shunt là đường vào trực tiếp cho vi khuẩn vào DNT — CoNS, S. aureus, P. aeruginosa. <b>C đúng:</b> Vỡ nền sọ tạo thông thương giữa khoang dưới nhện với xoang mũi/tai — S. pneumoniae, H. influenzae xâm nhập. <b>D sai:</b> Không tiêm vaccine tạo nguy cơ VMNM cộng đồng (não mô cầu, phế cầu), không phải VMNM bệnh viện. <b>E sai:</b> Ký túc xá là yếu tố nguy cơ VMNM cộng đồng do não mô cầu."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ 2 tuổi sốt, cứng gáy, DNT trong sau 2 ngày dùng kháng sinh ngoại trú",
+      "body": "<b>Bệnh sử:</b> Trẻ gái 2 tuổi, vào viện do sốt cao 38,9°C, cứng gáy, quấy khóc 1 ngày. Trước đó 2 ngày trẻ có sốt, ho, chảy mũi — được bác sĩ tư chẩn đoán viêm họng và kê amoxicillin. Bố mẹ cho trẻ uống 2 ngày trước khi nhập viện.<br><b>Tiền sử:</b> Tiêm chủng đầy đủ (có Hib và PCV13). Không tiếp xúc người bệnh màng não.<br><b>Khám:</b> T 38,9°C, M 130 l/p, HA 85/55 mmHg. GCS 14. Cứng gáy (+), Kernig (+). Không ban xuất huyết. Họng đỏ.<br><b>Cận lâm sàng:</b> BC 14 G/L (TT 82%), CRP 88 mg/L. <b>DNT: TRONG, áp lực 220 mmH₂O, BC 480/mm³ (TT 68%, Lympho 32%), Protein 1,2 g/L, Glucose 2,0 mmol/L</b> (đường máu 5,8 mmol/L). Soi Gram: âm tính. Cấy DNT: đang chờ.",
+      "questions": [
+        {
+          "q": "Tại sao DNT trong dù lâm sàng vẫn nghi ngờ VMNM mủ?",
+          "options": [
+            "Điều trị kháng sinh trước nhập viện làm DNT mất đục nhưng chưa điều trị khỏi",
+            "DNT trong loại trừ hoàn toàn VMNM mủ, cần nghĩ đến VMN lao hoặc virus",
+            "Trẻ tiêm vaccine đầy đủ nên không thể bị VMNM mủ điển hình",
+            "DNT trong là bình thường ở giai đoạn sớm 24h đầu, chưa có ý nghĩa chẩn đoán"
+          ],
+          "answer": 0,
+          "explain": "Theo tài liệu học: <b>\"Dịch có thể trong ở những giờ đầu mắc bệnh HOẶC được điều trị bằng kháng sinh thích hợp.\"</b> Trẻ đã uống amoxicillin 2 ngày → kháng sinh làm giảm số lượng vi khuẩn, DNT hóa trong nhưng các dấu ấn viêm (BC, protein tăng; glucose giảm) vẫn còn. Đây là \"VMNM mất đầu\" (decapitated meningitis). Không thể loại trừ VMNM mủ chỉ vì DNT trong khi có kháng sinh trước. Vaccine PCV13 và Hib giảm nguy cơ nhưng không loại trừ hoàn toàn, và vẫn còn các căn nguyên khác."
+        },
+        {
+          "q": "Phân tích DNT: tỉ lệ glucose DNT/máu và ý nghĩa phân biệt?",
+          "options": [
+            "0,34 — giảm nặng (< 1/2), nghiêng về VMNM mủ hơn VMN virus",
+            "0,34 — bình thường (> 2/3), không hỗ trợ chẩn đoán VMNM mủ",
+            "0,57 — giảm nhẹ (1/3 đến 1/2), không phân biệt được mủ hay lao",
+            "0,57 — bình thường (> 1/2), gợi ý VMN virus nhiều hơn"
+          ],
+          "answer": 0,
+          "explain": "Tỉ lệ = 2,0 / 5,8 ≈ <b>0,34</b>. Ngưỡng: > 2/3 (0,67) = bình thường; 1/2–2/3 = giảm nhẹ; <b>< 1/2 (0,5) = bất thường trong VMNM</b>. Tỉ lệ 0,34 < 1/2 → giảm rõ, hướng về VMNM mủ/lao hơn VMN virus (VMN virus thường tỉ lệ > 2/3). Kết hợp với protein 1,2 g/L (> 1 g/L điển hình VMNM), BC 480/mm³ với TT 68% (mủ thường TT > 80% nhưng KS trước làm giảm), bức tranh toàn cảnh vẫn nghiêng về VMNM mủ mất đầu."
+        },
+        {
+          "q": "Xét nghiệm nào có thể xác định căn nguyên dù đã dùng kháng sinh trước?",
+          "options": [
+            "PCR đa mồi (multiplex PCR) trong DNT",
+            "Cấy DNT trên môi trường thường",
+            "Nhuộm Gram soi trực tiếp DNT",
+            "Cấy máu nếu lấy trước khi dùng kháng sinh hôm nay"
+          ],
+          "answer": 0,
+          "explain": "<b>PCR đa mồi (multiplex PCR)</b> phát hiện vật chất di truyền (DNA/RNA) của vi khuẩn trong DNT — không bị ảnh hưởng bởi kháng sinh (vi khuẩn chết vẫn còn DNA). Đây là ưu điểm vượt trội so với cấy vi khuẩn (cần vi khuẩn sống). PCR có thể phát hiện S. pneumoniae, N. meningitidis, H. influenzae, L. monocytogenes đồng thời. Nhuộm Gram âm tính khi vi khuẩn đã chết. Cấy DNT thường âm tính sau 2 ngày KS. Theo schema chẩn đoán xác định: \"Soi, cấy, <b>hoặc PCR DNT</b> xác định được vi khuẩn/vật chất di truyền của vi khuẩn.\""
+        },
+        {
+          "q": "Chọn TẤT CẢ các đặc điểm phân biệt VMN virus với VMNM mủ trong ca này:",
+          "type": "multi",
+          "options": [
+            "DNT trong gợi ý virus nhưng không đặc hiệu khi đã dùng kháng sinh trước",
+            "Glucose DNT < 1/2 đường máu nghiêng về VMNM mủ hơn VMN virus",
+            "Protein DNT 1,2 g/L (> 1 g/L) gặp trong VMNM mủ, VMN virus thường < 1 g/L",
+            "BC TT 68% ưu thế là đặc trưng tuyệt đối của VMNM mủ, loại trừ VMN virus",
+            "Lactate DNT tăng gợi ý vi khuẩn, bình thường gợi ý virus"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "explain": "<b>A đúng:</b> DNT trong gặp trong VMN virus nhưng cũng gặp trong VMNM mủ mất đầu sau KS — không phân biệt tuyệt đối. <b>B đúng:</b> Glucose DNT/máu < 1/2 đường máu là tiêu chí phân biệt quan trọng — VMN virus thường glucose bình thường (> 2/3). <b>C đúng:</b> Protein > 1 g/L đặc trưng VMNM mủ; VMN virus thường tăng nhẹ < 1 g/L. <b>D sai:</b> BC TT 68% ưu thế gợi ý vi khuẩn nhưng KHÔNG loại trừ tuyệt đối virus (đầu đợt viêm não-màng não virus có thể có TT ưu thế thoáng qua). <b>E đúng:</b> Lactate DNT > 3,2 mmol/L là dấu ấn mạnh của VMNM vi khuẩn, bình thường trong VMN virus."
+        }
+      ]
+    },
+    {
+      "title": "Nam 45 tuổi tiền sử cắt lách, sốt rét, hội chứng màng não",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 45 tuổi vào viện cấp cứu vì sốt cao 40°C, rét run, đau đầu dữ dội khởi phát 6 giờ trước. Không có triệu chứng hô hấp trên trước đó.<br><b>Tiền sử:</b> Cắt lách do chấn thương 5 năm trước. Không tiêm vaccine sau cắt lách. Không có bệnh mạn tính khác.<br><b>Khám:</b> T 40,1°C, M 124 l/p, HA 88/56 mmHg. GCS 12. <b>Cứng gáy (+), Kernig (+), Brudzinski (+)</b>. Không ban xuất huyết. Không viêm phổi.<br><b>Cận lâm sàng:</b> BC 22 G/L (TT 94%), CRP 210 mg/L, PCT 25 ng/mL. DNT: đục, BC 3.100/mm³ (TT 98%), Protein 2,8 g/L, Glucose 0,3 mmol/L (đường máu 6,2 mmol/L). Soi Gram DNT: song cầu gram dương.",
+      "questions": [
+        {
+          "q": "Cơ địa cắt lách làm tăng nguy cơ đặc biệt với nhóm vi khuẩn nào và vì sao?",
+          "options": [
+            "Vi khuẩn có vỏ polysaccharide (phế cầu, não mô cầu, Hib) do mất vai trò lọc và opsonin hóa của lách",
+            "Vi khuẩn nội bào (Listeria, Mycobacterium) do suy giảm miễn dịch tế bào sau cắt lách",
+            "Trực khuẩn gram âm (P. aeruginosa, Klebsiella) do giảm bổ thể sau phẫu thuật",
+            "Tụ cầu vàng (S. aureus) do giảm bạch cầu đa nhân sau cắt lách"
+          ],
+          "answer": 0,
+          "explain": "Lách là cơ quan quan trọng trong miễn dịch chống vi khuẩn có vỏ: (1) lọc vi khuẩn có vỏ khỏi máu; (2) sản xuất kháng thể IgM đặc hiệu vỏ; (3) opsonin hóa vi khuẩn cho thực bào. Sau cắt lách, bệnh nhân mất khả năng kiểm soát <b>vi khuẩn có vỏ polysaccharide</b>: S. pneumoniae (phổ biến nhất), N. meningitidis, H. influenzae type b. Đây gọi là OPSI (Overwhelming Post-Splenectomy Infection) — nhiễm khuẩn huyết tối cấp với tỷ lệ tử vong 50–70% nếu không xử trí kịp. Listeria cần miễn dịch tế bào (T-cell), không đặc hiệu với cắt lách."
+        },
+        {
+          "q": "Song cầu gram dương trên soi DNT trong bối cảnh cắt lách — chẩn đoán căn nguyên là gì?",
+          "options": [
+            "Streptococcus pneumoniae",
+            "Streptococcus suis",
+            "Neisseria meningitidis",
+            "Staphylococcus aureus"
+          ],
+          "answer": 0,
+          "explain": "<b>Song cầu gram dương = S. pneumoniae (phế cầu)</b>. Đây là hình ảnh Gram stain đặc trưng: \"Song cầu Gram dương\" (diplococci gram-positive). Phế cầu là căn nguyên phổ biến nhất trong OPSI sau cắt lách. S. suis cũng là cầu khuẩn gram dương nhưng thường xếp thành chuỗi ngắn và liên quan tiếp xúc lợn (không có trong ca này). N. meningitidis là song cầu gram ÂM. S. aureus là tụ cầu gram dương, thường gặp cụm 4, không phải đôi."
+        },
+        {
+          "q": "Ngoài kháng sinh và dexamethasone, biện pháp phòng ngừa dài hạn nào QUAN TRỌNG NHẤT cần tư vấn sau khi bệnh nhân xuất viện?",
+          "options": [
+            "Tiêm vaccine phế cầu (PCV13 và/hoặc PPSV23), não mô cầu và Hib",
+            "Uống penicillin V dự phòng hằng ngày suốt đời",
+            "Tái khám hằng năm để đo nồng độ kháng thể kháng phế cầu trong máu",
+            "Tránh tiếp xúc nơi đông người và đeo khẩu trang thường xuyên"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân cắt lách 5 năm trước <b>chưa tiêm vaccine</b> — đây là sai sót cần khắc phục ngay. Theo khuyến cáo: sau cắt lách phải tiêm vaccine phòng vi khuẩn có vỏ: <b>PPSV23</b> (23 type phế cầu — cho người > 2 tuổi, cắt lách), <b>vaccine não mô cầu MenACWY</b>, và <b>Hib</b>. Tốt nhất tiêm ≥ 2 tuần trước phẫu thuật hoặc ≥ 2 tuần sau cắt lách cấp cứu khi bệnh nhân ổn định. Penicillin V dự phòng có thể dùng trong 2–5 năm đầu sau cắt lách ở trẻ em nhưng không phải biện pháp chính ở người lớn. Vaccine là can thiệp hiệu quả và bằng chứng mạnh nhất."
+        },
+        {
+          "q": "Phác đồ kháng sinh và thời gian điều trị phù hợp nhất cho ca này là gì?",
+          "options": [
+            "Vancomycin + Ceftriaxone TMC, 10–14 ngày",
+            "Ceftriaxone TMC đơn trị, 10–14 ngày",
+            "Ampicillin + Ceftriaxone TMC, 21 ngày",
+            "Vancomycin + Meropenem TMC, 21 ngày"
+          ],
+          "answer": 0,
+          "explain": "Song cầu gram dương gợi ý phế cầu → phác đồ chuẩn: <b>Vancomycin + Ceftriaxone</b> để phủ cả phế cầu nhạy cảm và phế cầu kháng penicillin/cephalosporin (ngày càng phổ biến). Không dùng C3G đơn độc khi nghi phế cầu vì nguy cơ kháng thuốc. Thời gian điều trị S. pneumoniae: <b>10–14 ngày</b>. Ampicillin bổ sung không cần thiết (cơ địa 45 tuổi không phải > 50 và không suy giảm miễn dịch tế bào điển hình cần phủ Listeria). Meropenem là thay thế khi dị ứng cephalosporin, không phải lựa chọn đầu tay."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 28 tuổi sau sinh 7 ngày, sốt, đau đầu",
+      "body": "<b>Bệnh sử:</b> Sản phụ 28 tuổi, sinh thường tại nhà hộ sinh 7 ngày trước, con đầu lòng, hiện đang cho con bú. Vào viện vì sốt 38,8°C, đau đầu 2 ngày, không đáp ứng paracetamol. Hôm nay thêm cứng gáy và nôn vọt.<br><b>Tiền sử:</b> Khỏe mạnh. Không tiền sử suy giảm miễn dịch. Không tiếp xúc thịt lợn sống.<br><b>Khám:</b> T 38,8°C, M 110 l/p, HA 100/65 mmHg. GCS 14. Cứng gáy (+), Kernig (+). Không ban xuất huyết. Sản dịch bình thường.<br><b>Cận lâm sàng:</b> BC 19 G/L (TT 91%), CRP 135 mg/L. DNT: đục nhẹ, BC 1.800/mm³ (TT 95%), Protein 1,6 g/L, Glucose 1,4 mmol/L (đường máu 5,6 mmol/L). Soi Gram: trực khuẩn gram dương nhỏ.",
+      "questions": [
+        {
+          "q": "Trực khuẩn gram dương nhỏ trên soi DNT ở sản phụ sau sinh gợi ý căn nguyên nào nhất?",
+          "options": [
+            "Listeria monocytogenes",
+            "Streptococcus agalactiae (Group B Strep)",
+            "Clostridium perfringens",
+            "Corynebacterium diphtheriae"
+          ],
+          "answer": 0,
+          "explain": "<b>Listeria monocytogenes</b> là trực khuẩn gram dương nhỏ, kị khí tùy ý, sống ký sinh nội bào. Thai kỳ và giai đoạn hậu sản là yếu tố nguy cơ đặc biệt của Listeria do thay đổi miễn dịch trong thai kỳ (giảm miễn dịch tế bào sinh lý). S. agalactiae (Group B Strep) là cầu khuẩn gram dương (không phải trực khuẩn), thường gây bệnh cho trẻ sơ sinh khi lây từ mẹ lúc sinh, ít gây VMN cho mẹ sau sinh. Clostridium là vi khuẩn kị khí bắt buộc, không phải căn nguyên VMN thông thường. Corynebacterium rất hiếm gây VMN."
+        },
+        {
+          "q": "Kháng sinh nào là LỰA CHỌN ĐẦU TAY cho VMNM do Listeria monocytogenes?",
+          "options": [
+            "Ampicillin TMC (hoặc Penicillin G) đơn trị hoặc kết hợp Gentamicin",
+            "Ceftriaxone TMC đơn trị",
+            "Vancomycin TMC đơn trị",
+            "Meropenem TMC đơn trị"
+          ],
+          "answer": 0,
+          "explain": "Điểm CỰC KỲ QUAN TRỌNG cần nhớ: <b>Listeria KHÁNG với tất cả cephalosporin (C3G, C4G)</b> — cơ chế do thiếu PBP đích của cephalosporin. Do đó Ceftriaxone hoàn toàn không có tác dụng. Lựa chọn đầu tay là <b>Ampicillin</b> (hoặc Penicillin G), có thể phối hợp Gentamicin để tăng diệt khuẩn. Thay thế khi dị ứng penicillin: Cotrimoxazole (TMP-SMX). Vancomycin kém tác dụng vì không xâm nhập tốt vào tế bào. Meropenem là lựa chọn thứ 2 theo một số khuyến cáo."
+        },
+        {
+          "q": "Thuốc dự phòng não mô cầu nào phù hợp cho bệnh nhân đang cho con bú nếu cần dự phòng tiếp xúc?",
+          "options": [
+            "Azithromycin 500 mg uống liều duy nhất",
+            "Ciprofloxacin 500 mg uống liều duy nhất",
+            "Rifampicin 600 mg × 2 lần/ngày × 2 ngày",
+            "Ceftriaxone 250 mg tiêm bắp liều duy nhất"
+          ],
+          "answer": 0,
+          "explain": "Theo tài liệu học: <b>Azithromycin 500 mg liều duy nhất</b> là lựa chọn phù hợp cho <b>phụ nữ có thai và đang cho con bú</b>. Ciprofloxacin (fluoroquinolone) và Rifampicin không khuyến cáo ở phụ nữ cho con bú do ảnh hưởng đến trẻ bú mẹ. Ceftriaxone 250 mg tiêm bắp là lựa chọn cho phụ nữ CÓ THAI (không phải cho con bú). Mỗi thuốc trong phác đồ dự phòng có chỉ định riêng theo đối tượng cụ thể — cần ghi nhớ sự khác biệt này."
+        },
+        {
+          "q": "Thời gian điều trị kháng sinh phù hợp nhất cho Listeria monocytogenes là bao lâu?",
+          "options": [
+            "≥ 21 ngày",
+            "7–10 ngày",
+            "10–14 ngày",
+            "14 ngày"
+          ],
+          "answer": 0,
+          "explain": "Listeria monocytogenes là vi khuẩn nội bào — kháng sinh khó tiếp cận được vi khuẩn bên trong tế bào. Do đó thời gian điều trị kéo dài <b>≥ 21 ngày</b> để đảm bảo tiệt trừ hoàn toàn và tránh tái phát. Đây là thời gian dài tương đương với gram âm hiếu khí (21 ngày) và S. suis (21–30 ngày) — dài hơn nhiều so với não mô cầu (7 ngày), H. influenzae (7–10 ngày), phế cầu (10–14 ngày). Kết thúc điều trị khi DNT trở về bình thường VÀ đủ thời gian tối thiểu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 19 tuổi sốt, đau đầu sau mũi tiêm kháng sinh tuyến dưới",
+      "body": "<b>Bệnh sử:</b> Nam 19 tuổi, học sinh, vào viện vì sốt cao 39,5°C, đau đầu, cứng gáy 1 ngày. Bệnh nhân cho biết trước nhập viện đã được tiêm 1 mũi ceftriaxone 1g tại trạm y tế với chẩn đoán \"viêm họng cấp\".<br><b>Tiền sử:</b> Khỏe mạnh. Tiêm vaccine não mô cầu lúc 5 tuổi (nhắc lại chưa rõ).<br><b>Khám:</b> T 39,5°C, M 116 l/p, HA 105/65 mmHg. GCS 13. <b>Cứng gáy (+), Kernig (+), Brudzinski (+)</b>. Không ban xuất huyết.<br><b>Cận lâm sàng:</b> BC 20 G/L (TT 91%), CRP 160 mg/L, PCT 9 ng/mL. <b>DNT: trong, áp lực 260 mmH₂O, BC 620/mm³ (TT 72%, Lympho 28%), Protein 1,4 g/L, Glucose 1,6 mmol/L</b> (đường máu 6,0 mmol/L). Soi Gram: âm tính. Kháng nguyên hoà tan não mô cầu: dương tính.",
+      "questions": [
+        {
+          "q": "Xét nghiệm nào cho phép xác định được căn nguyên dù bệnh nhân đã dùng kháng sinh trước?",
+          "options": [
+            "Kháng nguyên hoà tan (latex agglutination) trong DNT",
+            "Nhuộm Gram và cấy DNT",
+            "Cấy máu (nếu lấy trước khi dùng kháng sinh)",
+            "Đo nồng độ ceftriaxone trong DNT"
+          ],
+          "answer": 0,
+          "explain": "<b>Kháng nguyên hoà tan (Latex agglutination)</b> phát hiện kháng nguyên vỏ polysaccharide của vi khuẩn (không phải vi khuẩn sống) — do đó không bị ảnh hưởng bởi kháng sinh đã dùng. Có thể phát hiện phế cầu, não mô cầu, Hib, Group B Strep trong DNT và nước tiểu. Trong ca này, xét nghiệm dương tính với não mô cầu → xác định được căn nguyên. Nhuộm Gram âm tính khi vi khuẩn đã chết. Cấy máu chỉ có giá trị nếu lấy trước KS. PCR cũng có thể làm được nhưng trong ca này kháng nguyên hoà tan đã cho kết quả."
+        },
+        {
+          "q": "DNT trong nhưng vẫn chẩn đoán VMNM mủ — các chỉ số DNT nào HỖ TRỢ chẩn đoán VMNM mủ trong ca này (dù DNT trong)?",
+          "options": [
+            "Tỉ lệ glucose DNT/máu 0,27 và protein 1,4 g/L và BC 620/mm³",
+            "BC 620/mm³ với lympho 28% và DNT trong",
+            "Áp lực 260 mmH₂O và DNT trong",
+            "CRP 160 mg/L và PCT 9 ng/mL trong máu"
+          ],
+          "answer": 0,
+          "explain": "Tỉ lệ glucose = 1,6/6,0 ≈ <b>0,27 << 0,5</b> → giảm nặng, rất đặc trưng VMNM mủ. Protein 1,4 g/L > 1 g/L → tăng đặc trưng VMNM. BC 620/mm³ > 1000 không đạt, nhưng > 100 với TT 72% ưu thế vẫn gợi ý vi khuẩn mạnh. Tổ hợp <b>ba chỉ số DNT</b> (glucose giảm nặng + protein tăng + TT ưu thế) hỗ trợ mạnh VMNM mủ dù DNT trong sau KS. CRP/PCT là marker máu, hỗ trợ gián tiếp nhưng không đặc hiệu cho DNT. Áp lực tăng và DNT trong gặp cả trong VMN virus/nấm."
+        },
+        {
+          "q": "Điều trị kháng sinh cần điều chỉnh như thế nào khi xác định căn nguyên là N. meningitidis?",
+          "options": [
+            "Tiếp tục Ceftriaxone đủ liều (4g/24h TMC chia 2 lần) trong 7 ngày",
+            "Chuyển sang Vancomycin vì não mô cầu ngày càng kháng cephalosporin",
+            "Thêm Ampicillin vào phác đồ vì cần phủ rộng hơn",
+            "Chuyển sang Penicillin G liều cao vì nhạy cảm hơn ceftriaxone với não mô cầu"
+          ],
+          "answer": 0,
+          "explain": "<b>N. meningitidis còn nhạy với Ceftriaxone</b> — đây là kháng sinh đầu tay và duy trì điều trị. Liều chuẩn người lớn: <b>4g/24h chia 2 lần TMC, trong 7 ngày</b>. Não mô cầu ít kháng cephalosporin hơn phế cầu nên không cần thêm Vancomycin. Ampicillin chỉ thêm khi cần phủ Listeria. Penicillin G cũng hiệu quả nhưng Ceftriaxone tiện hơn (chia 2 lần thay vì 6 lần/ngày), không cần chuyển. Thời gian 7 ngày là đủ cho N. meningitidis."
+        },
+        {
+          "q": "Chọn TẤT CẢ các biện pháp phòng bệnh đúng trong ca viêm màng não não mô cầu:",
+          "type": "multi",
+          "options": [
+            "Cách ly phòng ngừa giọt bắn trong 24h đầu sau khi bắt đầu kháng sinh",
+            "Dự phòng cho người sống cùng phòng trong 7 ngày qua bằng ciprofloxacin hoặc rifampicin",
+            "Dự phòng cho toàn bộ lớp học và trường học nơi bệnh nhân học",
+            "Báo cáo ca bệnh cho cơ quan y tế vì là bệnh truyền nhiễm nhóm A tại Việt Nam",
+            "Nhắc tiêm nhắc vaccine não mô cầu cho người tiếp xúc gần sau khi dùng thuốc dự phòng"
+          ],
+          "answer": [
+            0,
+            1,
+            4
+          ],
+          "explain": "<b>A đúng:</b> Cách ly droplet precaution trong 24h đầu sau KS hiệu quả — sau đó không còn lây. <b>B đúng:</b> Dự phòng cho người sống cùng phòng/tiếp xúc gần trong 7 ngày trước — ciprofloxacin hoặc rifampicin, dùng sớm nhất có thể trong 24h. <b>C sai:</b> Không cần dự phòng cho toàn trường — chỉ áp dụng cho người tiếp xúc gần (sống cùng, tiếp xúc dịch tiết), không phải tiếp xúc thông thường trong lớp học. <b>D sai:</b> Não mô cầu thuộc nhóm B tại Việt Nam (không phải nhóm A). <b>E đúng:</b> Thuốc dự phòng tiêu diệt vi khuẩn ký sinh tạm thời, vaccine tạo miễn dịch dài hạn — cần cả hai để bảo vệ đầy đủ."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ sơ sinh 18 ngày tuổi sốt, bú kém, li bì",
+      "body": "<b>Bệnh sử:</b> Trẻ trai 18 ngày tuổi được đưa đến cấp cứu vì bú kém 1 ngày, li bì tăng dần và sốt 38,3°C. Mẹ sinh thường tại bệnh viện, không có biến chứng sản khoa. Thai đủ tháng, APGAR 8–9.<br><b>Tiền sử:</b> Mẹ không xét nghiệm GBS (Group B Strep) khi mang thai. Không dùng kháng sinh trong chuyển dạ.<br><b>Khám:</b> T 38,3°C, M 168 l/p, HA 55/35 mmHg. Cân nặng 3,2 kg. <b>Li bì, phản xạ Moro giảm, khóc yếu. Thóp phồng, căng.</b> Không cứng gáy (khó đánh giá). Không ban xuất huyết.<br><b>Cận lâm sàng:</b> BC 3,8 G/L (giảm!), TT 78%, CRP 145 mg/L, PCT 20 ng/mL. Đường máu 2,1 mmol/L (hạ đường!). DNT: đục nhẹ, BC 890/mm³ (TT 85%), Protein 1,8 g/L, Glucose 0,8 mmol/L (đường máu 5,0 mmol/L sau truyền).",
+      "questions": [
+        {
+          "q": "Căn nguyên vi khuẩn hàng đầu ở trẻ sơ sinh < 4 tuần với DNT đục là gì?",
+          "options": [
+            "Streptococcus agalactiae (Group B Strep) và E. coli K1",
+            "Streptococcus pneumoniae và Haemophilus influenzae",
+            "Neisseria meningitidis và Listeria monocytogenes",
+            "Staphylococcus aureus và Klebsiella pneumoniae"
+          ],
+          "answer": 0,
+          "explain": "Ở trẻ sơ sinh 0–4 tuần, căn nguyên VMNM theo bảng phân tầng gồm: <b>S. agalactiae (Group B Strep) — thường gặp nhất trong VMN khởi phát sớm</b>, E. coli K1, và Listeria monocytogenes. S. agalactiae cư trú ở đường sinh dục dưới người mẹ và lây sang trẻ khi chuyển dạ — mẹ không được xét nghiệm/điều trị dự phòng GBS là yếu tố nguy cơ. E. coli K1 có vỏ kháng nguyên K1, rất độc lực. S. pneumoniae và N. meningitidis ít gặp hơn ở lứa tuổi này. S. aureus thường gặp hơn trong nhiễm khuẩn bệnh viện."
+        },
+        {
+          "q": "Phác đồ kháng sinh phù hợp nhất cho VMNM sơ sinh < 4 tuần là gì?",
+          "options": [
+            "Ampicillin 150 mg/kg/24h + Cefotaxime 100–150 mg/kg/24h TMC",
+            "Ceftriaxone 80–100 mg/kg/24h đơn trị TMC",
+            "Vancomycin 20–30 mg/kg/24h + Ceftriaxone TMC",
+            "Ampicillin + Gentamicin TMC"
+          ],
+          "answer": 0,
+          "explain": "<b>Ampicillin + Cefotaxime</b> là phác đồ chuẩn cho sơ sinh: Ampicillin phủ GBS, Listeria, Enterococcus; Cefotaxime phủ gram âm (E. coli K1, Klebsiella). Lưu ý quan trọng: <b>KHÔNG dùng Ceftriaxone ở sơ sinh</b> — ceftriaxone gắn mạnh với albumin, cạnh tranh với bilirubin → nguy cơ vàng da nhân não (kernicterus). Dùng Cefotaxime thay thế Ceftriaxone ở sơ sinh. Vancomycin + Ceftriaxone là phác đồ cho trẻ > 1 tháng khi nghi phế cầu. Gentamicin ngấm kém qua hàng rào máu-não."
+        },
+        {
+          "q": "Hạ đường huyết (2,1 mmol/L) và giảm bạch cầu (BC 3,8 G/L) ở trẻ sơ sinh này có ý nghĩa lâm sàng gì?",
+          "options": [
+            "Gợi ý nhiễm khuẩn nặng/sepsis sơ sinh — giảm BC và hạ đường là dấu hiệu tiên lượng xấu",
+            "Giảm BC là bình thường ở sơ sinh < 1 tháng do tủy xương chưa trưởng thành",
+            "Hạ đường huyết là nguyên nhân gây li bì, điều trị glucose sẽ phục hồi ý thức",
+            "Giảm BC gợi ý nguyên nhân virus, không phải vi khuẩn"
+          ],
+          "answer": 0,
+          "explain": "Trong nhiễm khuẩn nặng ở sơ sinh, <b>giảm bạch cầu (< 5 G/L) là dấu hiệu tiên lượng XẤU</b> — tủy xương bị \"vắt kiệt\" hoặc bị ức chế bởi nội độc tố. Khác với người lớn (nhiễm khuẩn → BC tăng), sơ sinh non yếu có thể BC giảm khi bị nhiễm khuẩn nặng. Hạ đường huyết ở sơ sinh cần điều trị ngay (truyền glucose) nhưng chỉ là hậu quả của nhiễm khuẩn, không phải nguyên nhân chính. Tổng hợp: <b>giảm BC + hạ đường + PCT 20 ng/mL + DNT đục ở sơ sinh = sepsis sơ sinh + VMNM nghiêm trọng, cần xử trí tích cực ngay</b>."
+        },
+        {
+          "q": "Chọn TẤT CẢ các biện pháp dự phòng ĐÚNG để tránh VMN sơ sinh do GBS:",
+          "type": "multi",
+          "options": [
+            "Xét nghiệm tầm soát GBS âm đạo-trực tràng ở thai phụ 35–37 tuần thai",
+            "Dùng kháng sinh dự phòng intrapartum (ampicillin hoặc penicillin G IV) cho thai phụ GBS dương tính",
+            "Tiêm vaccine GBS cho trẻ sơ sinh ngay sau sinh để phòng VMN khởi phát muộn",
+            "Tiêm vaccine GBS cho phụ nữ có kế hoạch mang thai để tạo kháng thể thụ động cho thai nhi"
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explain": "<b>A đúng:</b> Tầm soát GBS ở tuần 35–37 là tiêu chuẩn bắt buộc theo khuyến cáo quốc tế (CDC, ACOG) để xác định thai phụ cần dự phòng kháng sinh. <b>B đúng:</b> Kháng sinh intrapartum (penicillin G hoặc ampicillin IV trong chuyển dạ) cho thai phụ GBS (+) là biện pháp hiệu quả nhất phòng VMN GBS khởi phát sớm — giảm 80% nguy cơ. <b>C sai:</b> Hiện chưa có vaccine GBS được cấp phép lưu hành cho trẻ sơ sinh. <b>D sai:</b> Vaccine GBS cho phụ nữ mang thai/trước mang thai đang trong giai đoạn nghiên cứu thử nghiệm lâm sàng, chưa được khuyến cáo thực hành lâm sàng hiện tại."
+        }
+      ]
+    }
+  ]
+}
