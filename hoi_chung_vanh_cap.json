@@ -1,0 +1,509 @@
+{
+  "name": "Hội chứng vành cấp",
+  "description": "Bộ case lâm sàng về các thể bệnh trong hội chứng vành cấp: STEMI, NSTEMI, Prinzmetal, biến chứng cơ học",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 62 tuổi, đau ngực dữ dội sau xương ức",
+      "body": "Bệnh nhân nam 62 tuổi, là giám đốc công ty, vào viện lúc 8 giờ sáng vì <b>đau ngực dữ dội sau xương ức</b>, cảm giác như bị bóp nghẹt, lan lên vai trái và cằm. Cơn đau xuất hiện <b>đột ngột lúc 6 giờ sáng</b> khi đang chuẩn bị đi làm, <b>kéo dài liên tục không giảm khi nghỉ ngơi</b>. Vã mồ hôi, khó thở.<br><br><b>Tiền sử:</b> Tăng huyết áp 10 năm, đái tháo đường type 2, hút thuốc lá 40 bao.năm.<br><br><b>Khám toàn thân:</b> Tỉnh, lo lắng, da tái lạnh. <b>Sinh hiệu:</b> Mạch 100 lần/phút, HA 140/90 mmHg, nhịp thở 22 lần/phút, SpO₂ 96% khí trời.<br><br><b>Khám tim:</b> Mỏm tim ở V đường trung đòn, nhịp tim nhanh đều, T1 T2 mờ, không tiếng thổi bất thường, không có tiếng cọ màng ngoài tim. <b>Phổi:</b> Có ít ran ẩm ở đáy phổi trái.<br><br><b>ECG:</b> Nhịp xoang 100 chu kỳ/phút, <b>ST chênh lên 3-4 mm ở V1-V6, aVL, I</b> kèm hình ảnh soi gương ST chênh xuống ở DII, DIII, aVF.<br><br><b>Cận lâm sàng:</b> hs-cTnT lần 1 là 1500 ng/L (N < 14 ng/L), Creatinin 90 µmol/L, Glucose 12 mmol/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất với bệnh nhân là gì?",
+          "options": [
+            "Nhồi máu cơ tim cấp ST chênh lên thành trước rộng giờ thứ 2, Killip I",
+            "Nhồi máu cơ tim cấp ST chênh lên thành trước rộng giờ thứ 2, Killip II",
+            "Viêm cơ tim cấp",
+            "Phình bóc tách động mạch chủ ngực"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có đau ngực điển hình của hội chứng vành cấp, ECG có ST chênh lên ở V1-V6, I, aVL là hình ảnh NMCT thành trước rộng. Cơn đau khởi phát lúc 6h, vào viện lúc 8h = giờ thứ 2. Khám phổi có ran ẩm (< 50% phế trường) = suy tim trái, phân độ Killip II."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây ra tình trạng ST chênh lên trên điện tâm đồ ở bệnh nhân này là gì?",
+          "options": [
+            "Hoại tử toàn bộ bề dày lớp cơ tim",
+            "Dòng điện tổn thương tâm trương chảy từ vùng thiếu máu sang vùng lành",
+            "Dòng điện tổn thương tâm thu chảy từ vùng lành sang vùng thiếu máu toàn bộ bề dày",
+            "Rối loạn tái cực muộn ở vùng thượng tâm mạc"
+          ],
+          "answer": 2,
+          "explain": "ST chênh lên trong NMCT cấp là biểu hiện của tổn thương xuyên thành. Cơ chế là mất điện thế màng lúc nghỉ của tế bào cơ tim thiếu máu nặng, tạo gradient điện thế giữa vùng lành và tổn thương. Trong thì tâm thu, dòng điện tổn thương chảy từ vùng lành (điện thế dương) sang vùng tổn thương (điện thế âm), ghi nhận trên ECG là ST chênh lên."
+        },
+        {
+          "q": "Biện pháp điều trị tái tưới máu nào là tối ưu nhất cho bệnh nhân này nếu bệnh viện có khả năng can thiệp mạch vành qua da (PCI)?",
+          "options": [
+            "Dùng thuốc tiêu sợi huyết đường tĩnh mạch ngay lập tức",
+            "Can thiệp động mạch vành qua da thì đầu trong vòng 90 phút kể từ khi tiếp xúc y tế lần đầu",
+            "Chờ 12 giờ để Troponin đạt đỉnh rồi mới can thiệp",
+            "Phẫu thuật bắc cầu nối chủ vành cấp cứu"
+          ],
+          "answer": 1,
+          "explain": "Theo khuyến cáo ESC và ACC/AHA, đối với STEMI đến trong vòng 12 giờ từ khi khởi phát, PCI thì đầu là chiến lược tái tưới máu được ưu tiên hàng đầu, với mục tiêu door-to-balloon < 90 phút."
+        },
+        {
+          "q": "Thuốc nào sau đây, ngoài Aspirin, cần được sử dụng ngay với liều nạp trước khi can thiệp mạch vành?",
+          "options": [
+            "Một thuốc kháng kết tập tiểu cầu mạnh ức chế thụ thể P2Y12 (Clopidogrel, Ticagrelor, hoặc Prasugrel)",
+            "Thuốc chẹn beta giao cảm đường uống",
+            "Statin cường độ cao",
+            "Heparin không phân đoạn"
+          ],
+          "answer": 0,
+          "explain": "Liệu pháp kháng kết tập tiểu cầu kép (DAPT) là nền tảng trong điều trị STEMI. Bệnh nhân cần Aspirin liều nạp kết hợp với thuốc ức chế P2Y12 mạnh (Ticagrelor hoặc Prasugrel) với liều nạp càng sớm càng tốt, lý tưởng trước khi chụp mạch vành để đạt hiệu quả ức chế tiểu cầu nhanh mạnh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 70 tuổi, đau sau xương ức kèm vã mồ hôi",
+      "body": "Bệnh nhân nữ 70 tuổi, <b>tiền sử đái tháo đường type 2 và bệnh thận mạn giai đoạn 3</b> (eGFR 45 ml/phút/1.73m²). Nhập viện vì <b>đau sau xương ức âm ỉ khoảng 1 giờ, kèm vã mồ hôi</b>. Cơn đau xuất hiện <b>khi bệnh nhân đang nghỉ ngơi</b>.<br><br><b>Khám toàn thân:</b> Không có gì đặc biệt. <b>Sinh hiệu:</b> Mạch 80 lần/phút, HA 150/80 mmHg, nhịp thở 18 lần/phút, SpO₂ 98% khí trời. Khám tim và phổi bình thường.<br><br><b>ECG:</b> Nhịp xoang, <b>ST chênh xuống 1.5 mm ở V4-V6 và T âm ở aVL</b>.<br><br><b>Xét nghiệm máu:</b> <br>- hs-cTnT lần 1 (lúc vào viện) = 65 ng/L <br>- hs-cTnT lần 2 (sau 1 giờ) = 180 ng/L<br>- Công thức máu và các xét nghiệm sinh hóa khác bình thường<br><br><b>Thang điểm GRACE:</b> 155",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào là chính xác nhất?",
+          "options": [
+            "Đau thắt ngực ổn định",
+            "Đau thắt ngực không ổn định",
+            "Nhồi máu cơ tim cấp không ST chênh lên (NSTEMI)",
+            "Nhồi máu cơ tim cấp ST chênh lên đã tái tưới máu"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có đau ngực khi nghỉ, ECG có ST chênh xuống và quan trọng nhất có động học men tim (hs-cTnT tăng có ý nghĩa sau 1 giờ), đủ tiêu chuẩn chẩn đoán NSTEMI. Nếu Troponin âm tính sẽ là đau thắt ngực không ổn định."
+        },
+        {
+          "q": "Cơ chế chính gây ra hội chứng vành cấp không ST chênh lên là gì?",
+          "options": [
+            "Tắc nghẽn hoàn toàn và đột ngột động mạch vành do huyết khối",
+            "Co thắt thoáng qua của động mạch vành",
+            "Nứt vỡ mảng xơ vữa gây hình thành huyết khối làm tắc nghẽn không hoàn toàn lòng mạch",
+            "Tăng nhu cầu oxy cơ tim vượt quá khả năng cung cấp"
+          ],
+          "answer": 2,
+          "explain": "Cơ chế chủ yếu của NSTE-ACS là sự nứt vỡ mảng xơ vữa không ổn định, khởi phát quá trình đông máu và hình thành cục huyết khối giàu tiểu cầu. Cục này gây tắc nghẽn một phần lòng động mạch vành, làm giảm lưu lượng máu, gây thiếu máu cục bộ hoặc hoại tử dưới nội mạc, nhưng không hoàn toàn tắc."
+        },
+        {
+          "q": "Với điểm GRACE là 155, chiến lược can thiệp nào là phù hợp nhất cho bệnh nhân này?",
+          "options": [
+            "Chiến lược can thiệp xâm lấn sớm (chụp và can thiệp ĐMV trong vòng 24 giờ)",
+            "Chiến lược can thiệp xâm lấn khẩn cấp (chụp và can thiệp ĐMV trong vòng 2 giờ)",
+            "Điều trị nội khoa bảo tồn và chỉ can thiệp nếu có biến chứng",
+            "Dùng thuốc tiêu sợi huyết và theo dõi"
+          ],
+          "answer": 0,
+          "explain": "Thang điểm GRACE > 140 phân loại bệnh nhân vào nhóm nguy cơ cao. Theo khuyến cáo, những bệnh nhân NSTE-ACS nguy cơ cao cần chiến lược can thiệp xâm lấn sớm: chụp và can thiệp ĐMV trong vòng 24 giờ để cải thiện tiên lượng."
+        },
+        {
+          "q": "Do bệnh nhân có bệnh thận mạn, cần lưu ý gì khi lựa chọn thuốc chống đông?",
+          "options": [
+            "Chống chỉ định hoàn toàn với Heparin trọng lượng phân tử thấp (LMWH)",
+            "Fondaparinux là lựa chọn an toàn và ưu tiên hơn Enoxaparin",
+            "Phải dùng liều gấp đôi Bivalirudin",
+            "Không cần dùng thuốc chống đông"
+          ],
+          "answer": 1,
+          "explain": "Ở bệnh nhân suy thận (eGFR < 60), Fondaparinux theo các nghiên cứu như OASIS-5 đã chứng tỏ hiệu quả tương đương và an toàn hơn (ít biến cố chảy máu nặng) so với Enoxaparin ở bệnh nhân NSTE-ACS, đặc biệt ở nhóm nguy cơ chảy máu cao."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi, đau thượng vị, nhịp chậm, huyết áp thấp",
+      "body": "Bệnh nhân nam 55 tuổi, nông dân, vào viện vì <b>đau thượng vị và buồn nôn dữ dội trong 2 giờ</b>. <b>Không có tiền sử bệnh tim mạch rõ ràng</b>, thỉnh thoảng hút thuốc lào.<br><br><b>Khám lúc vào viện:</b> Da lạnh, vã mồ hôi, <b>tĩnh mạch cổ nổi rõ</b>. <b>Sinh hiệu:</b> <b>Mạch chậm 50 lần/phút, HA 85/50 mmHg</b>, nhịp thở 20 lần/phút, SpO₂ 95% khí trời.<br><br><b>Khám tim:</b> Nhịp chậm đều, không tiếng thổi. <b>Phổi:</b> Thông khí rõ, không ran.<br><br><b>ECG 12 chuyển đạo:</b> Nhịp chậm xoang, <b>block nhĩ thất cấp I, ST chênh lên 2-3 mm ở DII, DIII, aVF</b> và ST chênh xuống ở DI, aVL. <b>Chuyển đạo phải:</b> <b>ST chênh lên 1.5 mm ở V3R và V4R</b>.<br><br><b>Siêu âm tại giường:</b> Giảm động nặng thành dưới và thành tự do thất phải, chức năng tâm thu thất trái bảo tồn.",
+      "questions": [
+        {
+          "q": "Chẩn đoán đầy đủ nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Nhồi máu cơ tim cấp thành dưới có lan ra thất phải, biến chứng sốc tim",
+            "Nhồi máu cơ tim cấp thành dưới có lan ra thất phải, biến chứng block nhĩ thất và tụt huyết áp",
+            "Viêm tụy cấp thể nặng",
+            "Thuyên tắc phổi cấp"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có ECG điển hình của NMCT thành dưới (ST chênh lên ở DII, DIII, aVF) và bằng chứng NMCT thất phải (ST chênh lên ở V4R, tụt HA, tĩnh mạch cổ nổi, phổi không ran). Biến chứng đi kèm: nhịp chậm và block nhĩ thất (do tổn thương nút nhĩ thất), tụt huyết áp. Chưa đủ tiêu chuẩn sốc tim."
+        },
+        {
+          "q": "Cơ chế gây tụt huyết áp ở bệnh nhân nhồi máu cơ tim thất phải là gì?",
+          "options": [
+            "Suy giảm chức năng co bóp thất trái do thiếu máu cục bộ",
+            "Phản xạ phế vị (phản xạ Bezold-Jarisch) gây nhịp chậm và giãn mạch",
+            "Suy chức năng thất phải cấp tính, làm giảm tiền gánh cho thất trái",
+            "Cả B và C đều đúng"
+          ],
+          "answer": 3,
+          "explain": "NMCT thất phải có hai cơ chế chính gây tụt HA. Thứ nhất, thất phải bị suy cấp, không bơm đủ máu lên phổi dẫn đến giảm lượng máu về nhĩ trái và thất trái (giảm tiền gánh), làm giảm cung lượng tim. Thứ hai, vùng thành dưới giàu đầu mút thần kinh phế vị, khi thiếu máu kích hoạt phản xạ Bezold-Jarisch gây nhịp chậm, giãn mạch và tụt HA."
+        },
+        {
+          "q": "Xử trí ban đầu nào là quan trọng và phù hợp nhất cho tình trạng huyết động của bệnh nhân?",
+          "options": [
+            "Dùng thuốc vận mạch Norepinephrine ngay lập tức",
+            "Truyền đủ dịch tinh thể (NaCl 0.9%) để đảm bảo tiền gánh",
+            "Dùng Nitroglycerin ngậm dưới lưỡi để giảm đau ngực",
+            "Dùng Furosemide tĩnh mạch để giảm áp lực tĩnh mạch cổ"
+          ],
+          "answer": 1,
+          "explain": "Trong NMCT thất phải, cung lượng tim phụ thuộc rất nhiều vào tiền gánh. Do đó, biện pháp xử trí đầu tiên và quan trọng nhất để cải thiện HA là truyền dịch (NaCl 0.9% hoặc Ringer Lactate) để nâng cao áp lực đổ đầy thất phải. Dùng Nitrates hay lợi tiểu là chống chỉ định vì có thể làm tụt HA nặng hơn."
+        },
+        {
+          "q": "Thủ phạm động mạch vành có khả năng bị tắc nghẽn cao nhất ở bệnh nhân này là?",
+          "options": [
+            "Động mạch liên thất trước (LAD)",
+            "Động mạch mũ (LCx)",
+            "Đoạn gần của động mạch vành phải (RCA)",
+            "Thân chung động mạch vành trái (Left Main)"
+          ],
+          "answer": 2,
+          "explain": "Động mạch vành phải (RCA) cấp máu cho thành dưới, thành tự do thất phải và trong đa số trường hợp là nút nhĩ thất và nút xoang. Tắc nghẽn ở đoạn gần của RCA (trước khi chia nhánh cho thất phải) gây ra bệnh cảnh lâm sàng điển hình như trên."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi, đau thắt ngực tăng nặng, Troponin âm tính",
+      "body": "Bệnh nhân nam 58 tuổi, <b>tiền sử hút thuốc lá, rối loạn lipid máu</b>. Có <b>cơn đau thắt ngực ổn định từ 1 năm nay</b> (đau khi đi bộ nhanh > 500m, giảm khi nghỉ).<br><br><b>Hai ngày gần đây:</b> Xuất hiện các cơn đau tương tự nhưng với <b>ngưỡng gắng sức thấp hơn nhiều</b> (chỉ cần đi lại trong nhà), và <b>đêm qua có một cơn đau kéo dài 20 phút lúc đang nằm xem TV</b>. <br><br><b>Lúc khám:</b> Không còn đau ngực. Sinh hiệu, khám tim phổi bình thường.<br><br><b>ECG lúc vào viện và sau 3 giờ:</b> Không có biến đổi đặc hiệu (chỉ có T dẹt ở một vài chuyển đạo).<br><br><b>Xét nghiệm hs-cTnT:</b> Tại thời điểm 0h và 1h đều < 5 ng/L.",
+      "questions": [
+        {
+          "q": "Dựa vào các thông tin trên, chẩn đoán nào là phù hợp nhất?",
+          "options": [
+            "Nhồi máu cơ tim không ST chênh lên",
+            "Đau thắt ngực ổn định",
+            "Đau thắt ngực không ổn định",
+            "Co thắt động mạch vành (đau thắt ngực Prinzmetal)"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân được chẩn đoán là Đau thắt ngực không ổn định (ĐTNKÔĐ) vì có ít nhất một trong ba đặc điểm: đau khi nghỉ, đau mới xuất hiện, hoặc đau tăng nặng lên (ngưỡng gắng sức thấp hơn, cơn đau kéo dài hơn). Quan trọng là Troponin không tăng, giúp phân biệt với NSTEMI."
+        },
+        {
+          "q": "Sự thay đổi đặc điểm cơn đau thắt ngực của bệnh nhân (ngưỡng gắng sức thấp hơn, xuất hiện khi nghỉ) phản ánh cơ chế bệnh sinh nào?",
+          "options": [
+            "Mảng xơ vữa ổn định, tiến triển hẹp dần theo thời gian",
+            "Sự mất ổn định của mảng xơ vữa (ví dụ nứt, loét nhỏ) gây hoạt hóa tiểu cầu và co mạch tại chỗ",
+            "Tăng nhu cầu oxy cơ tim do các bệnh lý đi kèm",
+            "Rối loạn chức năng vi mạch vành"
+          ],
+          "answer": 1,
+          "explain": "Sự chuyển từ đau thắt ngực ổn định sang không ổn định thường do sự thay đổi hình thái mảng xơ vữa. Mảng trước đây ổn định nay trở nên không ổn định (vỏ mỏng bị nứt, loét), bộc lộ lõi lipid, gây kích hoạt tiểu cầu, hình thành vi huyết khối và co mạch tại chỗ. Điều này làm giảm nguồn cung oxy một cách đột ngột và không đoán trước được."
+        },
+        {
+          "q": "Điều trị ban đầu cho bệnh nhân này bao gồm tất cả các thuốc sau, NGOẠI TRỪ?",
+          "options": [
+            "Aspirin liều nạp 300 mg",
+            "Clopidogrel liều nạp 300-600 mg",
+            "Thuốc tiêu sợi huyết (ví dụ: Alteplase)",
+            "Heparin không phân đoạn hoặc trọng lượng phân tử thấp"
+          ],
+          "answer": 2,
+          "explain": "Điều trị nền tảng của ĐTNKÔĐ là chống huyết khối (Aspirin + P2Y12 inhibitor), chống đông (Heparin), và chống thiếu máu cục bộ (chẹn beta, nitrat). <b>Thuốc tiêu sợi huyết chống chỉ định</b> trong NSTE-ACS vì các nghiên cứu cho thấy nó không có lợi và có thể làm tăng nguy cơ tử vong."
+        },
+        {
+          "q": "Hướng xử trí tiếp theo nào là hợp lý nhất cho bệnh nhân này?",
+          "options": [
+            "Cho bệnh nhân ra viện và hẹn tái khám sau 1 tháng",
+            "Giữ bệnh nhân lại theo dõi, điều trị nội khoa tối ưu và xem xét thực hiện nghiệm pháp gắng sức hoặc chụp động mạch vành",
+            "Cho bệnh nhân dùng thử Nitroglycerin, nếu hết đau thì có thể cho về",
+            "Chuyển thẳng đến phòng thông tim can thiệp cấp cứu"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân ĐTNKÔĐ cần được nhập viện để theo dõi, điều trị nội khoa tích cực. Dựa trên phân tầng nguy cơ (thang điểm TIMI, GRACE), bác sĩ quyết định chiến lược tiếp theo. Thông thường tiến hành các thăm dò không xâm lấn (nghiệm pháp gắng sức) hoặc xâm lấn (chụp ĐMV) để đánh giá giải phẫu ĐMV."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi, đau ngực sau lưng, ST chênh xuống V1-V3",
+      "body": "Bệnh nhân nam 68 tuổi, vào viện vì <b>đau ngực sau lưng và khó thở</b>. <br><br><b>ECG 12 chuyển đạo:</b> <b>ST chênh xuống rõ rệt 3mm và sóng R cao ưu thế ở V1-V3</b>. <b>Không có ST chênh lên ở bất kỳ chuyển đạo nào</b>. Bác sĩ trực nghi ngờ NMCT thành sau và cho mắc thêm các chuyển đạo sau (V7, V8, V9). <br><br><b>ECG 15 chuyển đạo:</b> <b>ST chênh lên 2mm ở V8 và V9</b>.<br><br><b>Men tim hs-cTnT:</b> Tăng cao.",
+      "questions": [
+        {
+          "q": "Chẩn đoán chính xác nhất là gì?",
+          "options": [
+            "Hội chứng vành cấp không ST chênh lên",
+            "Thuyên tắc phổi cấp",
+            "Nhồi máu cơ tim cấp thành sau thực sự",
+            "Bệnh cơ tim phì đại"
+          ],
+          "answer": 2,
+          "explain": "Mặc dù ECG 12 chuyển đạo không có ST chênh lên, nhưng hình ảnh ST chênh xuống ở V1-V3 cùng với việc xác nhận có ST chênh lên ở các chuyển đạo sau (V7-V9) là tiêu chuẩn chẩn đoán Nhồi máu cơ tim cấp ST chênh lên ở thành sau thực sự."
+        },
+        {
+          "q": "Tại sao nhồi máu cơ tim thành sau lại có biểu hiện ST chênh xuống và sóng R cao ở V1-V3?",
+          "options": [
+            "Đây là hình ảnh tổn thương trực tiếp của thành trước vách",
+            "Đây là hình ảnh \"soi gương\" của tổn thương ST chênh lên và sóng Q ở thành sau",
+            "Do rối loạn dẫn truyền trong thất",
+            "Do thất phải giãn lớn"
+          ],
+          "answer": 1,
+          "explain": "Các chuyển đạo trước tim (V1-V3) nằm ở phía đối diện với thành sau. Do đó, các biến đổi điện học ở thành sau được ghi nhận một cách đảo ngược ở các chuyển đạo này. ST chênh lên ở thành sau biểu hiện là ST chênh xuống ở V1-V3, và sóng Q hoại tử ở thành sau biểu hiện là sóng R cao và rộng ở V1-V3. Đây là hình ảnh \"soi gương\" kinh điển."
+        },
+        {
+          "q": "Thái độ xử trí đối với bệnh nhân này nên được xem như thế nào?",
+          "options": [
+            "Tương tự như một trường hợp đau thắt ngực không ổn định, điều trị nội khoa",
+            "Tương tự như một trường hợp NSTEMI, can thiệp trì hoãn trong 24-48 giờ",
+            "Tương tự như một trường hợp STEMI, cần tái tưới máu khẩn cấp (PCI hoặc tiêu sợi huyết)",
+            "Chỉ cần theo dõi và dùng thuốc giảm đau"
+          ],
+          "answer": 2,
+          "explain": "Nhồi máu cơ tim thành sau thực sự (có ST chênh lên ở V7-V9) được coi là một thể tương đương với STEMI (STEMI-equivalent). Bệnh nhân này cần được xử trí khẩn cấp với chiến lược tái tưới máu thì đầu (can thiệp PCI hoặc tiêu sợi huyết) giống như các trường hợp STEMI khác để cứu vớt vùng cơ tim nguy cơ hoại tử."
+        },
+        {
+          "q": "Động mạch vành thủ phạm thường gặp nhất gây nhồi máu cơ tim thành sau đơn độc là?",
+          "options": [
+            "Nhánh chéo (Diagonal branch) của LAD",
+            "Nhánh bờ tù (Obtuse marginal branch) của LCx",
+            "Động mạch mũ (LCx) hoặc nhánh sau thất của động mạch vành phải (RCA)",
+            "Đoạn xa của động mạch liên thất trước (LAD)"
+          ],
+          "answer": 2,
+          "explain": "Thành sau của thất trái thường được cấp máu bởi động mạch mũ (LCx) hoặc nhánh sau thất (PDA). Tùy thuộc vào hệ động mạch ưu thế (phải, trái hay đồng ưu), PDA có thể xuất phát từ RCA hoặc LCx. Do đó, thủ phạm thường là tắc nghẽn LCx hoặc RCA."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 75 tuổi, STEMI thành trước, khó thở đột ngột, ran phổi",
+      "body": "Bệnh nhân nữ 75 tuổi, <b>tiền sử tăng huyết áp</b>, vào cấp cứu vì <b>đau ngực dữ dội và khó thở đột ngột</b>. <br><br><b>Lúc vào viện:</b> Bệnh nhân <b>kích thích, vật vã, phải ngồi dậy để thở, ho khạc ra bọt hồng</b>. Da tái lạnh, đầu chi tím. <br><br><b>Sinh hiệu:</b> <b>Mạch 115 lần/phút, HA 170/100 mmHg, nhịp thở 35 lần/phút, SpO₂ 80% với oxy mask 10L/phút</b>.<br><br><b>Phổi:</b> <b>Đầy ran ẩm, ran nổ lan lên đến đỉnh hai phổi</b>. <br><br><b>Tim:</b> Nhịp nhanh, có tiếng ngựa phi T3.<br><br><b>ECG:</b> STEMI thành trước rộng.",
+      "questions": [
+        {
+          "q": "Theo phân loại Killip, tình trạng của bệnh nhân này thuộc nhóm nào?",
+          "options": [
+            "Killip I",
+            "Killip II",
+            "Killip III",
+            "Killip IV"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có biểu hiện lâm sàng của phù phổi cấp (ran ẩm lan rộng > 50% hai phế trường), tương ứng với phân loại Killip III. <br>- Killip I: không có dấu hiệu suy tim<br>- Killip II: ran ẩm ở đáy phổi, T3 hoặc tĩnh mạch cổ nổi<br>- Killip III: phù phổi cấp (ran ẩm rộng)<br>- Killip IV: sốc tim"
+        },
+        {
+          "q": "Cơ chế chính gây ra phù phổi cấp ở bệnh nhân này là gì?",
+          "options": [
+            "Tăng tính thấm thành mạch phế nang do phản ứng viêm hệ thống",
+            "Hoại tử một vùng cơ tim lớn làm giảm sức co bóp thất trái, gây tăng vọt áp lực cuối tâm trương thất trái và áp lực mao mạch phổi",
+            "Hở van hai lá cấp do đứt cơ nhú",
+            "Quá tải dịch do suy thận cấp"
+          ],
+          "answer": 1,
+          "explain": "Trong STEMI thành trước rộng, một vùng lớn cơ thất trái bị hoại tử, làm giảm đột ngột khả năng co bóp và giãn nở của thất. Điều này làm tăng áp lực cuối kỳ tâm trương thất trái, áp lực này truyền ngược lên nhĩ trái rồi đến các tĩnh mạch và mao mạch phổi. Khi áp lực thủy tĩnh vượt quá áp lực keo của huyết tương, dịch thoát ồ ạt vào mô kẽ và phế nang, gây phù phổi cấp."
+        },
+        {
+          "q": "Biện pháp điều trị nào sau đây là ưu tiên hàng đầu để cải thiện triệu chứng suy hô hấp và tình trạng huyết động của bệnh nhân (trong khi chờ đợi tái tưới máu)?",
+          "options": [
+            "Morphin tĩnh mạch",
+            "Thông khí không xâm nhập (NIV) và dùng thuốc giãn mạch (Nitroglycerin) đường tĩnh mạch",
+            "Đặt nội khí quản và dùng thuốc vận mạch (Norepinephrine)",
+            "Dùng thuốc chẹn beta giao cảm liều cao để giảm nhịp tim"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân đang bị suy hô hấp và quá tải thể tích với huyết áp cao. Ưu tiên hàng đầu là cải thiện oxy hóa và giảm gánh cho tim. Thông khí không xâm nhập (NIV) giúp cải thiện trao đổi khí và giảm công hô hấp. Nitroglycerin tĩnh mạch giảm cả tiền gánh (giãn tĩnh mạch) và hậu gánh (giãn động mạch), làm giảm ứ huyết phổi và cải thiện chức năng tim."
+        },
+        {
+          "q": "Ngoài việc tái tưới máu động mạch vành, thuốc nào sau đây cần được sử dụng để giảm tiền gánh và cải thiện tình trạng ứ huyết phổi?",
+          "options": [
+            "Thuốc lợi tiểu quai (Furosemide) đường tĩnh mạch",
+            "Aspirin",
+            "Statin",
+            "Thuốc ức chế men chuyển"
+          ],
+          "answer": 0,
+          "explain": "Thuốc lợi tiểu quai (Furosemide) tác động lên nhánh lên của quai Henle, gây thải muối và nước nhanh chóng, từ đó làm giảm thể tích tuần hoàn (giảm tiền gánh). Đây là biện pháp điều trị nền tảng và hiệu quả để làm giảm sung huyết phổi trong suy tim cấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi, đái tháo đường, NMCT thành dưới \"thầm lặng\"",
+      "body": "Bệnh nhân nam 65 tuổi, <b>tiền sử đái tháo đường type 2 > 10 năm, kiểm soát đường kém (HbA1c gần nhất 9.5%)</b>, có <b>biến chứng thần kinh ngoại biên</b>. Vào viện vì <b>cảm thấy mệt lả và khó thở tăng lên trong 3 giờ</b>, <b>không mô tả đau ngực rõ ràng, chỉ cảm thấy \"nặng nặng\" ở ngực</b>. <br><br><b>Khám lâm sàng:</b> Không có gì đặc biệt ngoài da lạnh, ẩm. Sinh hiệu ổn định.<br><br><b>ECG:</b> <b>Sóng Q bệnh lý và T âm sâu ở DII, DIII, aVF</b>.<br><br><b>Xét nghiệm:</b><br>- <b>hs-cTnT tăng rất cao: 2500 ng/L</b><br>- Glucose máu 18 mmol/L",
+      "questions": [
+        {
+          "q": "Biểu hiện lâm sàng không điển hình (không đau ngực) ở bệnh nhân này có thể được giải thích bởi cơ chế nào?",
+          "options": [
+            "Ngưỡng chịu đau của bệnh nhân cao hơn người bình thường",
+            "Biến chứng thần kinh tự chủ do đái tháo đường làm tổn thương các sợi thần kinh cảm giác của tim",
+            "Tình trạng tăng đường huyết làm thay đổi nhận cảm đau",
+            "NMCT ở bệnh nhân đái tháo đường thường ít nghiêm trọng hơn"
+          ],
+          "answer": 1,
+          "explain": "Bệnh đái tháo đường lâu năm gây biến chứng thần kinh, bao gồm hệ thần kinh tự chủ. Tổn thương các sợi thần kinh hướng tâm dẫn truyền cảm giác đau từ tim về não là nguyên nhân chính khiến bệnh nhân đái tháo đường có thể bị NMCT mà không có triệu chứng đau ngực điển hình (NMCT \"thầm lặng\") hoặc chỉ có triệu chứng tương đương như khó thở, mệt lả."
+        },
+        {
+          "q": "Chẩn đoán phù hợp nhất dựa trên ECG và men tim là gì?",
+          "options": [
+            "NMCT cấp thành dưới, đến muộn (có sóng Q)",
+            "Đau thắt ngực không ổn định",
+            "Viêm cơ tim",
+            "Thuyên tắc phổi"
+          ],
+          "answer": 0,
+          "explain": "ECG có sóng Q bệnh lý ở các chuyển đạo thành dưới (DII, DIII, aVF) chứng tỏ đã có một vùng hoại tử xuyên thành. Kết hợp với men tim (hs-cTnT) tăng rất cao, chẩn đoán là NMCT cấp thành dưới. Sự hiện diện của sóng Q gợi ý bệnh nhân đến muộn (vài giờ sau khi động mạch vành bị tắc hoàn toàn)."
+        },
+        {
+          "q": "Mục tiêu kiểm soát đường huyết trong giai đoạn cấp của nhồi máu cơ tim ở bệnh nhân này là gì?",
+          "options": [
+            "Đưa đường huyết về mức bình thường (< 6.0 mmol/L) càng nhanh càng tốt",
+            "Duy trì đường huyết trong khoảng 7.8 - 10.0 mmol/L",
+            "Không cần kiểm soát đường huyết, tập trung vào vấn đề tim mạch",
+            "Bắt đầu ngay liệu pháp insulin tích cực để đạt HbA1c < 7.0%"
+          ],
+          "answer": 1,
+          "explain": "Tăng đường huyết nặng trong giai đoạn cấp của NMCT làm tăng tỷ lệ biến chứng và tử vong. Tuy nhiên, việc hạ đường huyết quá cũng có hại. Các khuyến cáo hiện nay đồng thuận về việc kiểm soát đường huyết ở bệnh nhân nặng, bao gồm NMCT cấp, với mục tiêu duy trì trong khoảng 7.8 - 10.0 mmol/L (140-180 mg/dL), thường bằng insulin truyền tĩnh mạch, tránh cả tăng và hạ đường huyết quá mức."
+        },
+        {
+          "q": "Tiên lượng của bệnh nhân nhồi máu cơ tim có kèm đái tháo đường so với người không có đái tháo đường thường như thế nào?",
+          "options": [
+            "Tốt hơn do có tuần hoàn bàng hệ phát triển",
+            "Tương đương nhau",
+            "Xấu hơn, với tỷ lệ biến chứng (suy tim, sốc tim) và tử vong cao hơn",
+            "Phụ thuộc hoàn toàn vào mức độ tổn thương động mạch vành"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân đái tháo đường có tiên lượng xấu hơn đáng kể sau NMCT. Nguyên nhân là họ thường có bệnh động mạch vành lan tỏa hơn, nhiều nhánh hơn, chức năng thất trái kém hơn từ trước. Tình trạng tăng đường huyết, kháng insulin, viêm mạn tính đều góp phần làm tăng kích thước ổ nhồi máu, thúc đẩy tái cấu trúc thất trái và tăng nguy cơ suy tim, rối loạn nhịp và tử vong."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi, STEMI sau 10 ngày đặt stent, ngừng Ticagrelor",
+      "body": "Bệnh nhân nam 50 tuổi, <b>đã được can thiệp đặt stent phủ thuốc (DES) vào LAD cách đây 10 ngày do NSTEMI</b>. Ra viện với đơn thuốc: <b>Aspirin 81mg/ngày và Ticagrelor 90mg x 2 lần/ngày</b>.<br><br><b>Tuy nhiên, do lo ngại về chi phí, bệnh nhân đã tự ý ngừng Ticagrelor từ 3 ngày nay</b>.<br><br><b>Sáng nay:</b> Bệnh nhân <b>đột ngột tái phát cơn đau ngực dữ dội giống hệt lần trước</b>. <br><br><b>ECG cấp cứu:</b> <b>ST chênh lên cao ở V1-V4</b>.",
+      "questions": [
+        {
+          "q": "Biến cố cấp tính có khả năng xảy ra nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Tái hẹp trong stent",
+            "Huyết khối cấp trong stent (Stent thrombosis)",
+            "Co thắt động mạch vành tại vị trí đặt stent",
+            "Dị ứng với vật liệu làm stent"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh đau ngực dữ dội tái phát và ECG có ST chênh lên ở vùng động mạch đã được đặt stent, đặc biệt sau khi ngừng thuốc chống ngưng tập tiểu cầu, là hình ảnh kinh điển của huyết khối cấp trong stent. Tái hẹp là quá trình mạn tính, thường gây triệu chứng đau thắt ngực tăng dần sau vài tháng đến vài năm."
+        },
+        {
+          "q": "Cơ chế chính dẫn đến biến cố này là gì?",
+          "options": [
+            "Sự tăng sinh quá mức của lớp nội mạc trong lòng stent",
+            "Việc ngừng thuốc kháng kết tập tiểu cầu P2Y12 đột ngột làm tăng phản ứng tiểu cầu, gây hình thành huyết khối cấp tính trên bề mặt stent kim loại chưa được nội mạc hóa hoàn toàn",
+            "Phản ứng viêm của thành mạch với thuốc được phủ trên stent",
+            "Stent bị đặt không áp sát vào thành mạch"
+          ],
+          "answer": 1,
+          "explain": "Sau khi đặt, stent kim loại là vật lạ có khả năng sinh huyết khối rất cao. Cần một thời gian (vài tuần đến vài tháng) để lớp nội mạc phát triển che phủ hoàn toàn bề mặt stent. Trong giai đoạn này, DAPT (Aspirin + ức chế P2Y12) cực kỳ quan trọng để ngăn chặn tiểu cầu bám dính, hình thành huyết khối gây tắc stent. Ngừng thuốc sớm là yếu tố nguy cơ lớn nhất gây huyết khối stent."
+        },
+        {
+          "q": "Xử trí cấp cứu tối ưu cho bệnh nhân này là gì?",
+          "options": [
+            "Dùng thuốc tiêu sợi huyết liều cao",
+            "Phẫu thuật bắc cầu nối chủ vành cấp cứu",
+            "Chụp và can thiệp động mạch vành cấp cứu để tái thông stent bị tắc",
+            "Tăng liều Aspirin và theo dõi"
+          ],
+          "answer": 2,
+          "explain": "Huyết khối trong stent là tối cấp cứu, tương đương STEMI mới. Chiến lược điều trị tốt nhất là can thiệp mạch vành qua da cấp cứu. Bác sĩ can thiệp cố gắng hút huyết khối và tái thông lòng stent, có thể cần đặt lại stent khác. Tiêu sợi huyết ít hiệu quả hơn và có thể không lọt qua mắt lưới stent."
+        },
+        {
+          "q": "Yếu tố nào là quan trọng nhất để phòng ngừa biến cố này?",
+          "options": [
+            "Dùng statin cường độ cao",
+            "Kiểm soát tốt huyết áp",
+            "Tuân thủ nghiêm ngặt liệu pháp kháng kết tập tiểu cầu kép (DAPT)",
+            "Tập thể dục đều đặn"
+          ],
+          "answer": 2,
+          "explain": "Tuân thủ điều trị, đặc biệt là không tự ý ngừng DAPT trong thời gian được chỉ định (thường 6-12 tháng sau ACS), là biện pháp quan trọng nhất để phòng ngừa huyết khối stent sớm - một biến chứng có tỷ lệ tử vong rất cao. Tất cả các biện pháp khác đều quan trọng trong quản lý lâu dài, nhưng không có vai trò trực tiếp, cấp thiết bằng DAPT."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi, STEMI thành dưới, ngày thứ 3 khó thở, tiếng thổi mới",
+      "body": "Bệnh nhân nam 60 tuổi, vào viện vì <b>STEMI thành dưới đã được can thiệp PCI thì đầu vào RCA</b> thành công.<br><br><b>Ngày thứ 3 sau can thiệp:</b> Bệnh nhân <b>đột ngột khó thở dữ dội, tụt huyết áp (HA 80/50 mmHg)</b>.<br><br><b>Khám lâm sàng:</b> Suy hô hấp, phổi đầy ran ẩm, <b>xuất hiện một tiếng thổi tâm thu mới, cường độ 3/6, dạng phụt, nghe rõ ở mỏm</b>.<br><br><b>Siêu âm tim tại giường:</b> <b>Đứt đầu sau của cơ nhú</b>, gây <b>hở van hai lá nặng với dòng hở lệch tâm</b>, chức năng tâm thu thất trái giảm nhẹ.",
+      "questions": [
+        {
+          "q": "Biến chứng cơ học nào đã xảy ra ở bệnh nhân này?",
+          "options": [
+            "Thủng vách liên thất",
+            "Vỡ thành tự do thất trái",
+            "Đứt cơ nhú gây hở van hai lá cấp",
+            "Giả phình thất trái"
+          ],
+          "answer": 2,
+          "explain": "Sự xuất hiện đột ngột suy tim cấp, tụt HA và tiếng thổi tâm thu mới ở mỏm sau một ca NMCT là dấu hiệu kinh điển của biến chứng cơ học. Siêu âm xác nhận đứt cơ nhú gây hở hai lá cấp. Thủng vách liên thất nghe rõ ở bờ trái xương ức. Vỡ thành tự do gây chèn ép tim cấp."
+        },
+        {
+          "q": "Cơ chế nào giải thích tại sao biến chứng này thường xảy ra với nhồi máu cơ tim thành dưới?",
+          "options": [
+            "Thành dưới mỏng và dễ bị tổn thương hơn",
+            "Cơ nhú sau trong thường chỉ được cấp máu bởi một nguồn duy nhất từ nhánh sau thất của RCA hoặc LCx",
+            "Dòng máu trong RCA có áp lực cao hơn",
+            "Cơ nhú sau trong có cấu trúc yếu hơn cơ nhú trước ngoài"
+          ],
+          "answer": 1,
+          "explain": "Bộ máy van hai lá có hai cơ nhú: trước-ngoài và sau-trong. Cơ nhú trước-ngoài thường được cấp máu từ hai nguồn (LAD và LCx) nên ít bị hoại tử hoàn toàn. Cơ nhú sau-trong trong đa số trường hợp chỉ được cấp máu từ một nguồn duy nhất là PDA, thường từ RCA. Khi RCA tắc, cơ nhú sau-trong dễ bị thiếu máu, hoại tử và đứt."
+        },
+        {
+          "q": "Xử trí nào là cần thiết và cấp bách nhất để cứu sống bệnh nhân?",
+          "options": [
+            "Điều trị nội khoa tích cực với thuốc lợi tiểu và vận mạch",
+            "Đặt bóng đối xung nội động mạch chủ (IABP) để ổn định huyết động và hội chẩn phẫu thuật tim cấp cứu",
+            "Tăng liều thuốc kháng kết tập tiểu cầu",
+            "Chọc dịch màng ngoài tim giải áp"
+          ],
+          "answer": 1,
+          "explain": "Đứt cơ nhú là tối cấp cứu ngoại khoa. Sốc tim do quá tải thể tích và áp lực đột ngột không thể cải thiện bằng thuốc. Bệnh nhân cần hỗ trợ huyết động bằng IABP để giảm hậu gánh, tăng tưới máu vành, sau đó chuyển phẫu thuật cấp cứu để sửa hoặc thay van hai lá. Tiên lượng nếu không can thiệp phẫu thuật rất xấu."
+        },
+        {
+          "q": "Tiên lượng của biến chứng này nếu không được can thiệp phẫu thuật là gì?",
+          "options": [
+            "Tốt, hầu hết bệnh nhân sẽ ổn định với điều trị nội khoa",
+            "Trung bình, khoảng 50% tử vong",
+            "Cực kỳ xấu, tỷ lệ tử vong rất cao (>80%) trong thời gian ngắn",
+            "Không thể đoán trước được"
+          ],
+          "answer": 2,
+          "explain": "Tiên lượng của đứt cơ nhú nếu chỉ điều trị nội khoa là cực kỳ xấu. Phù phổi cấp và sốc tim tiến triển nhanh chóng. Nếu không có can thiệp phẫu thuật kịp thời, tỷ lệ tử vong trong bệnh viện rất cao, có thể lên đến hơn 80-90%."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 45 tuổi, đau ngực khi ngủ, ST chênh lên thoáng qua, ĐMV bình thường",
+      "body": "Bệnh nhân nữ 45 tuổi, <b>không có các yếu tố nguy cơ tim mạch truyền thống</b>, nhưng <b>có hút thuốc lá</b>. Nhập viện vì <b>nhiều lần có cơn đau ngực dữ dội sau xương ức, xảy ra vào lúc nửa đêm về sáng, kéo dài khoảng 15 phút rồi tự hết</b>.<br><br><b>Trong cơn đau:</b> ECG ghi nhận <b>ST chênh lên 3mm ở DII, DIII, aVF</b>.<br><br><b>Sau khi hết đau:</b> <b>Đoạn ST trở về hoàn toàn bình thường</b>.<br><br><b>Xét nghiệm men tim:</b> <b>Troponin T siêu nhạy nhiều lần đều âm tính</b>.<br><br><b>Chụp động mạch vành:</b> <b>Hệ động mạch vành không có hẹp đáng kể</b>.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào là phù hợp nhất cho bệnh nhân này?",
+          "options": [
+            "Đau thắt ngực ổn định",
+            "Nhồi máu cơ tim cấp ST chênh lên",
+            "Đau thắt ngực do co thắt động mạch vành (Prinzmetal's Angina)",
+            "Bệnh cơ tim do stress (Takotsubo)"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh đặc trưng bằng các cơn đau ngực khi nghỉ, thường vào ban đêm, có ST chênh lên thoáng qua trên ECG trong cơn đau và trở về bình thường sau đó, men tim không tăng, ĐMV không hẹp là hình ảnh kinh điển của đau thắt ngực Prinzmetal."
+        },
+        {
+          "q": "Cơ chế chính gây ra ST chênh lên thoáng qua trong bệnh lý này là gì?",
+          "options": [
+            "Sự hình thành và tự ly giải của huyết khối trong lòng mạch",
+            "Sự co thắt khu trú, dữ dội và tạm thời của một đoạn động mạch vành, gây tắc nghẽn hoàn toàn dòng chảy",
+            "Rối loạn chức năng vi tuần hoàn vành",
+            "Tăng đột ngột nhu cầu oxy của cơ tim"
+          ],
+          "answer": 1,
+          "explain": "Nguyên nhân của Prinzmetal là sự co thắt bất thường, khu trú, dữ dội của lớp cơ trơn thành động mạch vành. Co thắt đủ mạnh gây tắc nghẽn hoàn toàn hoặc gần hoàn toàn lòng mạch tạm thời, dẫn đến thiếu máu cục bộ xuyên thành và ST chênh lên trên ECG. Khi cơn co thắt qua đi, lòng mạch tái thông và ST trở về đẳng điện."
+        },
+        {
+          "q": "Yếu tố nguy cơ quan trọng nhất liên quan đến bệnh lý này là gì?",
+          "options": [
+            "Đái tháo đường",
+            "Tăng huyết áp",
+            "Hút thuốc lá",
+            "Rối loạn lipid máu"
+          ],
+          "answer": 2,
+          "explain": "Hút thuốc lá là yếu tố nguy cơ mạnh và phổ biến nhất của Prinzmetal. Các chất trong khói thuốc có thể gây rối loạn chức năng nội mạc, tăng tính phản ứng của cơ trơn thành mạch và làm mất cân bằng hệ thần kinh tự chủ, từ đó thúc đẩy co thắt ĐMV."
+        },
+        {
+          "q": "Nhóm thuốc nào là lựa chọn điều trị đầu tay và hiệu quả nhất để phòng ngừa các cơn đau thắt ngực ở bệnh nhân này?",
+          "options": [
+            "Thuốc chẹn beta giao cảm",
+            "Thuốc ức chế men chuyển",
+            "Thuốc chẹn kênh canxi (ví dụ: Diltiazem, Nifedipine)",
+            "Thuốc kháng kết tập tiểu cầu kép"
+          ],
+          "answer": 2,
+          "explain": "Thuốc chẹn kênh canxi là nền tảng điều trị Prinzmetal. Chúng làm giãn cơ trơn thành mạch, bao gồm ĐMV, do đó ngăn ngừa và giảm tần suất co thắt. Nitrat tác dụng kéo dài cũng hiệu quả. Ngược lại, chẹn beta (đặc biệt loại không chọn lọc) có thể làm nặng tình trạng co thắt và là chống chỉ định tương đối."
+        }
+      ]
+    }
+  ]
+}
