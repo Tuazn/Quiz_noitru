@@ -1,0 +1,647 @@
+{
+  "name": "Hội chứng mạch vành mạn",
+  "description": "Case lâm sàng ôn thi nội trú về chẩn đoán và điều trị hội chứng mạch vành mạn theo ESC 2024 và khuyến cáo VNHA 2022.",
+  "level": "Ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 58 tuổi đau tức ngực khi leo cầu thang",
+      "body": "<b>Bệnh nhân:</b> Nam, 58 tuổi, kế toán.<br><b>Bệnh sử:</b> Trong 4 tháng gần đây xuất hiện cảm giác tức nặng sau xương ức khi leo cầu thang 2 tầng, giảm khi nghỉ sau 3–4 phút. Không đau lúc nghỉ ngơi. Các cơn đau tương đương nhau về mức độ và thời gian.<br><b>Tiền sử:</b> THA 5 năm; hút thuốc lá 30 gói-năm (mới ngừng 3 tháng).<br><b>Khám:</b> Mạch 78 lần/phút đều, HA 145/90 mmHg, BMI 27 kg/m². Tim đều, phổi trong.<br><b>Cận lâm sàng:</b> ECG bình thường. LDL-C 3,1 mmol/L, HDL 1,0 mmol/L, TG 2,1 mmol/L. Glucose đói 5,6 mmol/L. Troponin I hs: 8 ng/L (ngưỡng: 16 ng/L). Siêu âm tim: LVEF 60%, không rối loạn vận động vùng.",
+      "questions": [
+        {
+          "q": "Dựa vào đặc điểm cơn đau, phân loại đau thắt ngực và phân độ CCS của bệnh nhân này là gì?",
+          "options": [
+            "Đau thắt ngực điển hình, CCS I",
+            "Đau thắt ngực điển hình, CCS II",
+            "Đau thắt ngực không điển hình, CCS II",
+            "Đau thắt ngực điển hình, CCS III"
+          ],
+          "answer": 1,
+          "explain": "Đau thắt ngực điển hình cần đủ 3 tiêu chí: (1) tức nặng sau xương ức ✓, (2) xuất hiện khi gắng sức ✓, (3) giảm khi nghỉ trong 3–4 phút ✓ → điển hình. <b>CCS II</b>: 'hạn chế nhẹ hoạt động thể lực thường ngày' — đau khi leo hơn 1 tầng cầu thang, tương ứng mô tả leo 2 tầng. CCS I: chỉ đau khi gắng sức rất mạnh. CCS III: đau khi leo đúng 1 tầng hoặc đi bộ 1–2 dãy nhà. CCS IV: đau khi gắng sức nhẹ hoặc khi nghỉ."
+        },
+        {
+          "q": "Troponin I hs = 8 ng/L, thấp hơn ngưỡng bình thường 16 ng/L. Nhận định nào phù hợp nhất với kết quả này?",
+          "options": [
+            "Troponin bình thường loại trừ hoàn toàn bệnh mạch vành",
+            "Troponin trong giới hạn bình thường, phù hợp với hội chứng mạch vành mạn hơn là nhồi máu cơ tim cấp",
+            "Cần làm lại troponin sau 3 giờ để loại trừ ACS trước khi điều trị bất kỳ",
+            "Troponin bình thường chứng tỏ không có thiếu máu cơ tim trên lâm sàng"
+          ],
+          "answer": 1,
+          "explain": "Trong HCMVM, troponin <b>không tăng quá ngưỡng chẩn đoán NMCT</b> (99th percentile). Kết quả 8 ng/L &lt; 16 ng/L → không đạt ngưỡng NMCT type 1, phù hợp HCMVM. Tuy nhiên troponin bình thường không loại trừ bệnh mạch vành hay thiếu máu cơ tim — nó chỉ xác nhận không có hoại tử cơ tim đang tiến triển. Làm lại troponin sau 3h chỉ cần thiết khi nghi ngờ ACS thực sự: cơn đau ≥ 20 phút, đau khi nghỉ, hoặc không đáp ứng nitrate."
+        },
+        {
+          "q": "Với RF-CL (xác suất tiền nghiệm có trọng số yếu tố nguy cơ) ở mức thấp đến trung bình, xét nghiệm hình ảnh nào được ưu tiên đầu tiên?",
+          "options": [
+            "SPECT tưới máu cơ tim với adenosine",
+            "Điện tâm đồ gắng sức đơn độc",
+            "Chụp CT mạch vành (CCTA)",
+            "Chụp động mạch vành xâm lấn ngay"
+          ],
+          "answer": 2,
+          "explain": "Theo ESC 2024 (Class I A), ở BN nghi ngờ HCMVM với RF-CL <b>5–50%</b> (thấp đến trung bình), CCTA được ưu tiên vì có độ nhạy cao để loại trừ bệnh ĐMV và cung cấp thông tin về cả giải phẫu lẫn mảng xơ vữa. Stress ECG đơn độc có độ nhạy thấp (~69%) và không tối ưu khi CCTA sẵn có. SPECT/siêu âm gắng sức ưu tiên khi RF-CL trung bình-cao (15–85%). Chụp mạch vành xâm lấn dành cho RF-CL rất cao (&gt;85%) hoặc nguy cơ lâm sàng cao."
+        },
+        {
+          "q": "Quyết định điều trị nội khoa ban đầu nào phù hợp nhất ngay khi đang chờ kết quả CCTA?",
+          "options": [
+            "Nitrat ngậm dưới lưỡi khi có cơn đau, chờ xác nhận chẩn đoán trước khi dùng thuốc dài hạn",
+            "Aspirin 75–100mg/ngày, statin liều cao và thuốc chẹn beta để kiểm soát triệu chứng và huyết áp",
+            "Ưu tiên điều trị tăng huyết áp trước, hoãn statin cho đến khi có kết quả hình ảnh",
+            "Clopidogrel 75mg thay aspirin vì bệnh nhân có tiền sử hút thuốc lá nhiều năm"
+          ],
+          "answer": 1,
+          "explain": "<b>Không cần đợi kết quả hình ảnh mới điều trị</b> ở BN có nghi ngờ lâm sàng HCMVM. Điều trị ban đầu gồm: (1) <b>Aspirin 75–100mg/ngày</b> — có lợi ích ngay khi nghi ngờ bệnh ĐMV; (2) <b>Statin liều cao</b> — mục tiêu LDL-C &lt; 1,4 mmol/L và giảm ≥50% từ baseline; (3) <b>Chẹn beta</b> — kiểm soát cả đau thắt ngực lẫn huyết áp. Nitrat ngắn dùng khi cần, không phải đơn trị liệu ban đầu. Clopidogrel thay aspirin chỉ khi có chống chỉ định aspirin, không phải do tiền sử hút thuốc."
+        },
+        {
+          "q": "Chọn TẤT CẢ các mục tiêu điều trị đúng theo khuyến cáo hiện hành cho bệnh nhân này:",
+          "type": "multi",
+          "options": [
+            "LDL-C mục tiêu &lt; 1,4 mmol/L và giảm ≥ 50% so với giá trị ban đầu",
+            "Huyết áp mục tiêu &lt; 130/80 mmHg",
+            "Ngừng statin khi LDL-C đã đạt mục tiêu để tránh tác dụng phụ lâu dài",
+            "Aspirin suốt đời khi xác nhận có bệnh ĐMV tắc nghẽn",
+            "Hoạt động thể lực ≥ 150 phút/tuần cường độ vừa phải"
+          ],
+          "answer": [
+            0,
+            1,
+            3,
+            4
+          ],
+          "explain": "<b>A đúng</b> — mục tiêu LDL-C &lt; 1,4 mmol/L và giảm ≥50% cho BN nguy cơ rất cao (bệnh ĐMV xác nhận). <b>B đúng</b> — HA &lt; 130/80 mmHg theo ESC 2024 cho BN tim mạch có THA. <b>C sai</b> — statin dùng suốt đời trong HCMVM; không được ngừng khi đạt mục tiêu vì lợi ích ổn định hóa mảng xơ vữa. <b>D đúng</b> — aspirin 75–100mg/ngày dùng suốt đời (Class I B, ESC 2024) khi xác nhận bệnh ĐMV tắc nghẽn. <b>E đúng</b> — ≥150–300 phút/tuần cường độ vừa phải hoặc 75–150 phút cường độ mạnh (Class I B, ESC 2024)."
+        }
+      ]
+    },
+    {
+      "title": "Phụ nữ 55 tuổi khó thở khi gắng sức, chưa rõ nguyên nhân",
+      "body": "<b>Bệnh nhân:</b> Nữ, 55 tuổi, giáo viên.<br><b>Bệnh sử:</b> Khó thở khi gắng sức 3 tháng nay, xuất hiện khi đi bộ nhanh khoảng 500m trên đường bằng, giảm khi nghỉ sau 2–3 phút. Không đau ngực, không khó thở khi nằm.<br><b>Tiền sử:</b> THA 8 năm (amlodipine 5mg). Không hút thuốc. Cha mất do nhồi máu cơ tim năm 60 tuổi.<br><b>Khám:</b> Mạch 82 lần/phút, HA 138/86 mmHg, SpO₂ 97%, BMI 28 kg/m². Tim đều, phổi trong, không ran.<br><b>Cận lâm sàng:</b> ECG nghỉ bình thường. X-quang ngực bình thường. Siêu âm tim: LVEF 63%, không rối loạn vận động vùng, chức năng tâm trương bình thường. LDL-C 3,6 mmol/L. HbA1c 5,9%.",
+      "questions": [
+        {
+          "q": "Triệu chứng khó thở khi gắng sức giảm khi nghỉ của bệnh nhân này nên được đánh giá như thế nào khi nghi ngờ bệnh mạch vành?",
+          "options": [
+            "Không liên quan đến bệnh mạch vành vì không có đau ngực điển hình",
+            "Là triệu chứng tương đương đau thắt ngực, cần được đánh giá như đau thắt ngực điển hình",
+            "Chỉ gợi ý tim mạch khi kèm phù chân và khó thở khi nằm đầu thấp",
+            "Là biểu hiện đặc hiệu của suy tim, cần định lượng BNP trước các xét nghiệm khác"
+          ],
+          "answer": 1,
+          "explain": "Theo ESC 2024 (Class IIa B), <b>khó thở khi gắng sức giảm khi nghỉ</b> được coi là 'tương đương đau thắt ngực' (anginal equivalent) và cần được đánh giá tương tự đau thắt ngực. Phụ nữ thường biểu hiện HCMVM không điển hình — không đau ngực nhưng vẫn có bệnh ĐMV có ý nghĩa. Bệnh nhân có tiền sử gia đình (cha NMCT &lt; 65 tuổi), THA và rối loạn lipid máu nặng — đây là các yếu tố nguy cơ đáng kể cần đánh giá thêm."
+        },
+        {
+          "q": "Đánh giá RF-CL của bệnh nhân và xét nghiệm hình ảnh nào được ưu tiên?",
+          "options": [
+            "RF-CL rất thấp (≤ 5%) — theo dõi định kỳ, không cần thăm dò thêm",
+            "RF-CL thấp đến trung bình (5–50%) — ưu tiên CT mạch vành (CCTA)",
+            "RF-CL trung bình đến cao (&gt; 50%) — ưu tiên SPECT hoặc siêu âm tim gắng sức",
+            "RF-CL rất cao (&gt; 85%) — chụp mạch vành xâm lấn ngay"
+          ],
+          "answer": 1,
+          "explain": "Nữ 55 tuổi, khó thở khi gắng sức (2 điểm triệu chứng), 2 yếu tố nguy cơ (THA + rối loạn lipid) và tiền sử gia đình → RF-CL ở mức <b>thấp đến trung bình (~15–30%)</b>. Theo ESC 2024 (Class I A), với RF-CL 5–50%, <b>CCTA là xét nghiệm hình ảnh ưu tiên</b> vì có thể loại trừ hoặc xác nhận bệnh ĐMV và đánh giá mảng xơ vữa đồng thời. SPECT/siêu âm gắng sức ưu tiên khi RF-CL trung bình-cao (15–85%). Chụp mạch xâm lấn không phải bước đầu khi RF-CL chưa rất cao."
+        },
+        {
+          "q": "CCTA kết quả: hẹp 65% LAD đoạn gần (mức độ trung bình). Bước xử trí tiếp theo phù hợp nhất là gì?",
+          "options": [
+            "Chụp mạch vành xâm lấn ngay để can thiệp đặt stent vì hẹp &gt; 50%",
+            "Bắt đầu điều trị nội khoa tối ưu và cân nhắc thăm dò chức năng để đánh giá thiếu máu cơ tim",
+            "Không cần thêm thăm dò vì hẹp &lt; 70% không bao giờ có ý nghĩa huyết động",
+            "Phẫu thuật bắc cầu nối chủ vành ngay vì tổn thương ở đoạn gần LAD"
+          ],
+          "answer": 1,
+          "explain": "Hẹp 65% LAD là mức <b>trung bình — chưa đủ tiêu chí nguy cơ cao tuyệt đối</b> (cần ≥70% đoạn gần LAD hoặc ≥50% thân chung). Khi CCTA phát hiện hẹp mức vừa chưa kết luận được ý nghĩa chức năng: (1) <b>Bắt đầu điều trị nội khoa tối ưu ngay</b> (aspirin, statin liều cao, điều trị HA), và (2) <b>Cân nhắc thăm dò chức năng</b> (SPECT, siêu âm gắng sức, CT-FFR) để đánh giá mức độ thiếu máu. Chụp mạch xâm lấn/PCI chỉ nếu triệu chứng không kiểm soát hoặc thiếu máu diện rộng."
+        },
+        {
+          "q": "Điều trị nội khoa nào sau đây là BẮT BUỘC phải bắt đầu ngay khi xác nhận có bệnh ĐMV tắc nghẽn?",
+          "options": [
+            "Aspirin 75–100mg/ngày và statin liều cao",
+            "Clopidogrel 75mg/ngày và fibrate",
+            "Warfarin và thuốc chẹn beta liều cao",
+            "Ezetimibe đơn độc và ức chế men chuyển"
+          ],
+          "answer": 0,
+          "explain": "Khi xác nhận bệnh ĐMV, điều trị bắt buộc gồm: (1) <b>Aspirin 75–100mg/ngày</b> — kháng tiểu cầu dự phòng thứ phát (Class I B); (2) <b>Statin liều cao</b> — mục tiêu LDL-C &lt; 1,4 mmol/L và giảm ≥50% từ baseline (hiện LDL 3,6 mmol/L — rất cao, cần rosuvastatin 40mg hoặc atorvastatin 80mg). Clopidogrel thay aspirin chỉ khi có chống chỉ định aspirin. Warfarin không có chỉ định ở BN HCMVM không rung nhĩ. Ezetimibe và ƯCMC có thể thêm vào nhưng không phải ưu tiên đầu tiên trong tình huống này."
+        },
+        {
+          "q": "Sau 3 tháng điều trị với atorvastatin 40mg, LDL-C giảm xuống còn 2,2 mmol/L, vẫn chưa đạt mục tiêu &lt; 1,4 mmol/L. Bước điều trị lipid tiếp theo là gì?",
+          "options": [
+            "Ngừng statin và thay bằng ezetimibe đơn độc để tránh tác dụng phụ lâu dài",
+            "Tăng liều atorvastatin lên 80mg và/hoặc thêm ezetimibe 10mg",
+            "Chấp nhận kết quả vì LDL-C đã giảm 39% so với ban đầu",
+            "Thêm fibrate để tăng cường hạ LDL-C"
+          ],
+          "answer": 1,
+          "explain": "LDL-C 2,2 mmol/L còn cách xa mục tiêu &lt; 1,4 mmol/L. Chiến lược hạ lipid theo bậc (ESC 2024): bước 1 — <b>tối ưu statin lên liều cao nhất dung nạp được</b> (atorvastatin 80mg); bước 2 — <b>thêm ezetimibe 10mg</b> nếu vẫn chưa đạt (giảm thêm ~15–20% LDL-C, Class I B). Không ngừng statin — dùng suốt đời trong HCMVM. Fibrate chủ yếu hạ TG và tăng HDL, không phải thuốc hạ LDL hiệu quả. Chấp nhận kết quả không đạt mục tiêu là sai — nguy cơ tim mạch vẫn cao."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi đau tức ngực khi gắng sức, tần suất tăng dần",
+      "body": "<b>Bệnh nhân:</b> Nam, 45 tuổi, kỹ sư xây dựng.<br><b>Bệnh sử:</b> Trong 6 tháng xuất hiện tức nặng sau xương ức khi leo cầu thang 1 tầng hoặc bê vật nặng, kéo dài 4–6 phút, giảm hoàn toàn khi nghỉ. Gần đây tần suất tăng, đau xuất hiện cả khi đi bộ nhanh 200m. <b>Đặc điểm cơn đau không thay đổi về tính chất.</b><br><b>Tiền sử:</b> ĐTĐ type 2 (metformin 1g x 2/ngày), hút thuốc lá 20 gói-năm (đang hút). Cha bị NMCT năm 52 tuổi.<br><b>Khám:</b> Mạch 80 lần/phút, HA 138/88 mmHg, BMI 29 kg/m². Tim phổi bình thường.<br><b>Cận lâm sàng:</b> ECG nghỉ bình thường. LDL-C 3,8 mmol/L, HbA1c 7,9%. Siêu âm tim: LVEF 58%, không rối loạn vận động vùng.",
+      "questions": [
+        {
+          "q": "Phân loại đau thắt ngực và phân độ CCS hiện tại của bệnh nhân là gì?",
+          "options": [
+            "Đau thắt ngực điển hình, ban đầu CCS II nay tiến triển lên CCS III, trong phạm vi HCMVM",
+            "Đau thắt ngực không điển hình, CCS II, cần phân biệt với nguyên nhân tiêu hóa",
+            "Đau thắt ngực điển hình, CCS IV — cần nhập viện cấp cứu ngay",
+            "Đau thắt ngực điển hình, CCS I vì không đau khi nghỉ ngơi hoàn toàn"
+          ],
+          "answer": 0,
+          "explain": "Đủ 3 tiêu chí điển hình (sau xương ức / khi gắng sức / giảm khi nghỉ). <b>CCS III</b>: đau khi leo 1 tầng cầu thang hoặc đi bộ 1–2 dãy nhà → phù hợp. Điểm mấu chốt: <b>đặc điểm cơn đau không thay đổi tính chất, không đau khi nghỉ</b> → vẫn trong phạm vi HCMVM tiến triển, không phải ACS. Phân biệt ACS: đau tăng đột ngột về tính chất, kéo dài &gt; 20 phút, đau khi nghỉ kèm troponin tăng. CCS IV khi ngay cả gắng sức nhẹ cũng gây đau."
+        },
+        {
+          "q": "Với 3–4 yếu tố nguy cơ tim mạch, RF-CL ở mức nào và xét nghiệm hình ảnh nào nên được ưu tiên?",
+          "options": [
+            "RF-CL rất thấp — theo dõi định kỳ, không cần thăm dò thêm",
+            "RF-CL rất cao (&gt; 85%) — chụp mạch vành xâm lấn ngay, bỏ qua thăm dò không xâm lấn",
+            "RF-CL trung bình đến cao — ưu tiên thăm dò hình ảnh chức năng (siêu âm gắng sức hoặc SPECT)",
+            "RF-CL thấp đến trung bình — ưu tiên CCTA để đánh giá giải phẫu"
+          ],
+          "answer": 2,
+          "explain": "Nam 45 tuổi, đau thắt ngực điển hình CCS III, 3–4 yếu tố nguy cơ (ĐTĐ, hút thuốc, tiền sử gia đình sớm, HA cận ngưỡng) → RF-CL <b>trung bình đến cao (&gt; 50%)</b>. Theo ESC 2024, với RF-CL 15–85%, <b>thăm dò hình ảnh chức năng</b> (SPECT/PET, siêu âm tim gắng sức, MRI tim) được ưu tiên — vừa xác nhận thiếu máu cơ tim, vừa đánh giá mức độ và phạm vi thiếu máu phục vụ quyết định tái tưới máu. CCTA ưu tiên hơn khi RF-CL thấp đến trung bình (5–50%)."
+        },
+        {
+          "q": "Siêu âm tim gắng sức: 4/16 vùng cơ tim giảm vận động khi đạt 85% nhịp tim tối đa; bệnh nhân không đau ngực trong test. Nhận định nào đúng nhất?",
+          "options": [
+            "Test âm tính vì bệnh nhân không xuất hiện đau ngực trong quá trình gắng sức",
+            "Kết quả ngưỡng nguy cơ cao — cần chuyển chuyên khoa tim mạch để đánh giá tái tưới máu",
+            "4/16 vùng là ngưỡng trung bình, chỉ cần theo dõi thêm 3–6 tháng",
+            "Test không có giá trị chẩn đoán vì bệnh nhân ĐTĐ type 2 ảnh hưởng đến độ đặc hiệu"
+          ],
+          "answer": 1,
+          "explain": "Tiêu chí nguy cơ <b>cao</b> trên siêu âm gắng sức: <b>≥ 3/16 vùng</b> cơ tim giảm hoặc vô động khi gắng sức (ESC 2024). Bệnh nhân có <b>4/16 vùng</b> → vượt ngưỡng nguy cơ cao. Thiếu máu cơ tim 'im lặng' (không đau ngực khi gắng sức) <b>đặc biệt thường gặp trong ĐTĐ</b> do rối loạn thần kinh tự chủ — không phủ nhận giá trị kết quả. Đây là chỉ định chuyển chuyên khoa tim mạch để đánh giá chụp mạch vành và cân nhắc tái tưới máu."
+        },
+        {
+          "q": "Chọn TẤT CẢ các thuốc cần khởi đầu hoặc tối ưu hóa ngay trong điều trị nội khoa:",
+          "type": "multi",
+          "options": [
+            "Aspirin 75–100mg/ngày",
+            "Statin liều cao (atorvastatin 40–80mg hoặc rosuvastatin 20–40mg)",
+            "Thay metformin bằng sulfonylurea để kiểm soát HbA1c 7,9% nhanh hơn",
+            "Thuốc chẹn beta hoặc chẹn kênh calci để kiểm soát đau thắt ngực",
+            "Tư vấn và hỗ trợ cai thuốc lá"
+          ],
+          "answer": [
+            0,
+            1,
+            3,
+            4
+          ],
+          "explain": "<b>A đúng</b> — aspirin bắt buộc khi nghi ngờ/xác nhận bệnh ĐMV. <b>B đúng</b> — statin liều cao bắt buộc; LDL 3,8 mmol/L rất cao, cần giảm ≥50%. <b>C sai</b> — không thay metformin bằng sulfonylurea; ESC 2024 khuyến cáo bổ sung <b>thuốc ức chế SGLT2</b> (lợi ích tim mạch rõ ràng) ở BN ĐTĐ type 2 có bệnh ĐMV, không phải chuyển sang sulfonylurea gây tăng nguy cơ hạ đường huyết. <b>D đúng</b> — chẹn beta là thuốc đầu tay chống đau thắt ngực (giảm nhu cầu O₂ cơ tim). <b>E đúng</b> — cai thuốc lá là biện pháp có bằng chứng giảm biến cố tim mạch mạnh nhất."
+        },
+        {
+          "q": "Sau 3 tháng điều trị nội khoa tối ưu, triệu chứng vẫn CCS III. Bước xử trí nào phù hợp nhất với trình độ bác sĩ đa khoa?",
+          "options": [
+            "Tăng liều aspirin lên 300mg/ngày để kiểm soát triệu chứng đau thắt ngực tốt hơn",
+            "Thêm nitrat tác dụng dài và chuyển chuyên khoa tim mạch để đánh giá tái tưới máu",
+            "Ngừng chẹn beta vì không hiệu quả, thay bằng thuốc lợi tiểu",
+            "Thêm ivabradine vì nhịp tim 80 lần/phút và LVEF 58%"
+          ],
+          "answer": 1,
+          "explain": "Khi triệu chứng không kiểm soát sau điều trị nội khoa tối ưu: (1) <b>Tối ưu thêm thuốc chống đau thắt ngực</b> — có thể thêm nitrat tác dụng dài; (2) <b>Chuyển chuyên khoa tim mạch</b> để đánh giá tái tưới máu. Aspirin không có tác dụng chống đau thắt ngực — tăng liều là sai. <b>Ivabradine KHÔNG có chỉ định</b> ở BN HCMVM với LVEF &gt; 40% (ESC 2024 Class III B — LVEF bệnh nhân 58%); không được dùng trong trường hợp này. Không ngừng chẹn beta — đây là thuốc cải thiện tiên lượng cần duy trì."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi tái khám định kỳ sau nhồi máu cơ tim",
+      "body": "<b>Bệnh nhân:</b> Nam, 65 tuổi, về hưu.<br><b>Bệnh sử:</b> NMCT thành trước cách đây 2,5 năm, đã can thiệp đặt stent LAD (DES). Hiện đến tái khám định kỳ, không có triệu chứng đau ngực hay khó thở.<br><b>Đang điều trị:</b> Aspirin 81mg, atorvastatin 40mg, metoprolol succinate 50mg, amlodipine 5mg.<br><b>Khám:</b> Mạch 62 lần/phút đều, HA 128/80 mmHg, BMI 24 kg/m². Không phù, phổi trong.<br><b>Cận lâm sàng:</b> <b>LDL-C 1,8 mmol/L</b> (mục tiêu &lt; 1,4 mmol/L). ECG: sóng Q cũ ở V1–V3. Siêu âm tim: <b>LVEF 48%</b>, giảm vận động vùng trước vách. Creatinin 102 μmol/L. Glucose đói 5,4 mmol/L.",
+      "questions": [
+        {
+          "q": "Bệnh nhân thuộc bệnh cảnh lâm sàng nào của HCMVM và mục tiêu LDL-C cần đạt là gì?",
+          "options": [
+            "Bệnh cảnh 3 — sau HCVC &lt; 1 năm — mục tiêu LDL-C &lt; 1,8 mmol/L",
+            "Bệnh cảnh 4 — sau HCVC/tái thông ĐMV trên 1 năm — mục tiêu LDL-C &lt; 1,4 mmol/L",
+            "Bệnh cảnh 2 — mới khởi phát suy tim nghi ngờ bệnh ĐMV — mục tiêu LDL-C &lt; 2,6 mmol/L",
+            "Bệnh cảnh 6 — không triệu chứng, phát hiện bệnh ĐMV tình cờ — mục tiêu LDL-C &lt; 1,8 mmol/L"
+          ],
+          "answer": 1,
+          "explain": "Can thiệp đặt stent cách 2,5 năm → <b>hơn 1 năm</b> → thuộc <b>bệnh cảnh 4</b>: 'chung sống với bệnh ĐMV'. Bệnh cảnh 3 chỉ áp dụng trong ≤ 12 tháng sau HCVC/tái thông. Bất kể bệnh cảnh nào, BN có NMCT cũ và stent → nhóm <b>nguy cơ rất cao</b> → mục tiêu LDL-C <b>&lt; 1,4 mmol/L</b> và giảm ≥50% từ baseline. LDL hiện 1,8 mmol/L vẫn chưa đạt — cần tối ưu hóa thêm."
+        },
+        {
+          "q": "LDL-C 1,8 mmol/L chưa đạt mục tiêu &lt; 1,4 mmol/L. Bước điều trị tiếp theo hợp lý nhất là gì?",
+          "options": [
+            "Tiếp tục atorvastatin 40mg và kiểm tra lại sau 6 tháng vì LDL-C đã gần đạt mục tiêu",
+            "Tăng liều atorvastatin lên 80mg và/hoặc thêm ezetimibe 10mg",
+            "Thay statin bằng fibrate vì đây là lựa chọn phù hợp khi statin chưa đủ hiệu quả",
+            "Ngừng statin và thay bằng ezetimibe đơn độc để giảm nguy cơ tác dụng phụ cơ"
+          ],
+          "answer": 1,
+          "explain": "Atorvastatin 40mg là liều trung bình. Theo chiến lược bậc thang (ESC 2024): (1) <b>Tối ưu statin lên liều cao nhất dung nạp</b> (atorvastatin 80mg); (2) <b>Thêm ezetimibe 10mg</b> nếu chưa đạt mục tiêu sau statin tối đa (giảm thêm ~15–20% LDL-C, Class I B). Fibrate không có bằng chứng giảm biến cố tim mạch đáng kể trong HCMVM và không phải thuốc hạ LDL hiệu quả. <b>Không ngừng statin</b> — statin là nền tảng điều trị suốt đời trong HCMVM."
+        },
+        {
+          "q": "LVEF 48%, bệnh nhân không có triệu chứng suy tim. Nhận định nào đúng về quản lý hiện tại?",
+          "options": [
+            "LVEF 48% hoàn toàn bình thường, không cần thay đổi gì trong phác đồ điều trị",
+            "Metoprolol succinate nên được tiếp tục và tối ưu liều vì lợi ích rõ ràng sau NMCT và suy tim EF giảm",
+            "Cần thêm digoxin ngay để cải thiện chức năng co bóp cơ tim",
+            "LVEF 48% là chỉ định bắt buộc phẫu thuật bắc cầu nối chủ vành"
+          ],
+          "answer": 1,
+          "explain": "LVEF 48% thuộc nhóm <b>suy tim EF giảm nhẹ (HFmrEF, 40–49%)</b> — không phải bình thường. <b>Chẹn beta</b> (metoprolol succinate — tác dụng kéo dài, chọn lọc β1) có lợi ích đã chứng minh trong suy tim EF giảm và sau NMCT (Class I A). Liều mục tiêu trong suy tim: metoprolol succinate lên đến 200mg/ngày nếu dung nạp. Digoxin không phải chỉ định thường quy và không cải thiện tỷ lệ sống. Không có chỉ định CABG ở BN không triệu chứng, stent còn tốt và LVEF tương đối bảo tồn."
+        },
+        {
+          "q": "Chọn TẤT CẢ các điểm tư vấn đúng về hoạt động thể lực và sinh hoạt cho bệnh nhân:",
+          "type": "multi",
+          "options": [
+            "Khuyến khích hoạt động thể lực đều đặn ≥ 150 phút/tuần cường độ vừa phải",
+            "Hoạt động tình dục nhìn chung an toàn ở BN HCMVM ổn định không triệu chứng khi leo cầu thang",
+            "Phải tuyệt đối tránh mọi gắng sức thể lực sau đặt stent ít nhất 1 năm",
+            "Chương trình phục hồi chức năng tim dựa trên tập luyện được khuyến cáo"
+          ],
+          "answer": [
+            0,
+            1,
+            3
+          ],
+          "explain": "<b>A đúng</b> — ESC 2024 khuyến cáo ≥150–300 phút/tuần cường độ vừa hoặc 75–150 phút cường độ mạnh (Class I B). <b>B đúng</b> — hoạt động tình dục tương đương leo 1–2 tầng cầu thang; BN HCMVM ổn định CCS I–II không triệu chứng ở mức gắng sức này có nguy cơ thấp. <b>C sai</b> — ngược lại, hoạt động thể lực được khuyến khích sớm sau giai đoạn hồi phục; kiêng tuyệt đối là không đúng. <b>D đúng</b> — phục hồi chức năng tim dựa trên tập luyện giảm tử vong tim mạch và cải thiện chất lượng cuộc sống (Class I A)."
+        },
+        {
+          "q": "Sau 6 tháng, bệnh nhân tái phát đau thắt ngực CCS II khi leo cầu thang. Xử trí nào KHÔNG phù hợp?",
+          "options": [
+            "Kiểm tra tuân thủ dùng thuốc và mức độ kiểm soát các yếu tố nguy cơ",
+            "Bổ sung hoặc tối ưu thuốc chống đau thắt ngực nếu còn thiếu",
+            "Ngừng cả aspirin và amlodipine vì đây là thuốc không cải thiện tiên lượng",
+            "Chuyển chuyên khoa tim mạch nếu triệu chứng không kiểm soát được"
+          ],
+          "answer": 2,
+          "explain": "<b>C không phù hợp:</b> Aspirin là kháng tiểu cầu bắt buộc suốt đời sau NMCT và đặt stent — ngừng aspirin tăng nguy cơ huyết khối trong stent và tái phát NMCT. Amlodipine vừa hạ áp vừa có tác dụng chống đau thắt ngực — không có lý do ngừng khi triệu chứng tái phát. Các bước A, B, D đều đúng khi triệu chứng tái phát ở BN HCMVM đang theo dõi."
+        }
+      ]
+    },
+    {
+      "title": "Phụ nữ 50 tuổi đau ngực và hồi hộp, nhịp tim nhanh",
+      "body": "<b>Bệnh nhân:</b> Nữ, 50 tuổi, kế toán.<br><b>Bệnh sử:</b> Đau tức ngực sau xương ức khi leo cầu thang 2 tầng và đi bộ nhanh &gt; 300m, kéo dài 3–5 phút, giảm khi nghỉ. Hay cảm giác hồi hộp, tim đập nhanh.<br><b>Tiền sử:</b> THA 3 năm (chưa dùng thuốc đều), rối loạn lipid máu phát hiện 1 năm (chưa điều trị). Không hút thuốc, không ĐTĐ.<br><b>Khám:</b> <b>Mạch 96 lần/phút</b> đều, HA 148/94 mmHg, BMI 26 kg/m². Tim đều nhanh, không tiếng bất thường.<br><b>Cận lâm sàng:</b> ECG nghỉ: nhịp xoang 96 lần/phút, không thay đổi ST-T. Siêu âm tim: <b>LVEF 62%</b>, không rối loạn vận động vùng. LDL-C 3,2 mmol/L. TSH bình thường. Troponin I hs: 6 ng/L (ngưỡng: 16 ng/L).",
+      "questions": [
+        {
+          "q": "Với nhịp tim 96 lần/phút và đau thắt ngực, thuốc chống đau thắt ngực nào được ưu tiên đầu tiên?",
+          "options": [
+            "Ivabradine vì làm giảm nhịp tim mà không ảnh hưởng đến huyết áp",
+            "Thuốc chẹn beta vì làm giảm nhịp tim, giảm nhu cầu O₂ cơ tim và kiểm soát huyết áp",
+            "Nitrat tác dụng dài vì là thuốc đầu tay cho mọi trường hợp đau thắt ngực",
+            "Diltiazem vì tác dụng làm chậm nhịp mạnh hơn nhóm chẹn beta"
+          ],
+          "answer": 1,
+          "explain": "<b>Chẹn beta là thuốc đầu tay</b> khi đau thắt ngực kèm nhịp tim nhanh: (1) giảm nhịp tim → tăng thời gian tâm trương → tăng tưới máu vành; (2) giảm sức co bóp → giảm nhu cầu O₂; (3) hạ huyết áp → giảm hậu gánh. <b>Ivabradine KHÔNG có chỉ định</b> ở BN HCMVM với LVEF &gt; 40% (ESC 2024 Class III B — LVEF 62%); tuyệt đối không dùng trong trường hợp này. Nitrat làm giảm tiền gánh và giãn ĐMV nhưng không làm chậm nhịp. Diltiazem cũng làm chậm nhịp nhưng chẹn beta là ưu tiên hơn khi có THA và nhịp nhanh."
+        },
+        {
+          "q": "Sau 4 tuần dùng metoprolol succinate 25mg/ngày: mạch 68 lần/phút, HA 132/84 mmHg, nhưng vẫn còn đau thắt ngực CCS II. Bước tiếp theo phù hợp nhất là gì?",
+          "options": [
+            "Thêm ivabradine 5mg x 2/ngày vì nhịp chưa đạt mục tiêu &lt; 60 lần/phút",
+            "Tăng liều metoprolol hoặc thêm amlodipine (nhóm dihydropyridine) phối hợp",
+            "Ngừng metoprolol và thay bằng verapamil để kiểm soát nhịp tim mạnh hơn",
+            "Thêm ranolazine và giảm liều metoprolol để tránh nguy cơ nhịp chậm"
+          ],
+          "answer": 1,
+          "explain": "Khi chẹn beta đơn độc chưa đủ kiểm soát triệu chứng, bước tiếp theo: (1) <b>Tăng liều metoprolol</b> nếu dung nạp; (2) <b>Phối hợp amlodipine</b> (DHP-CCB) — kết hợp chẹn beta + DHP-CCB được khuyến cáo và có bằng chứng tốt trong HCMVM. Ivabradine không có chỉ định ở LVEF &gt; 40% (ESC 2024 Class III B). <b>Verapamil (non-DHP-CCB) KHÔNG phối hợp với chẹn beta</b> — nguy cơ blốc nhĩ-thất nặng và nhịp chậm nguy hiểm. Ranolazine là thuốc tuyến 2, thêm vào khi các thuốc trên không đủ hiệu quả."
+        },
+        {
+          "q": "Chọn TẤT CẢ các yếu tố nguy cơ tim mạch CHÍNH hiện có ở bệnh nhân này:",
+          "type": "multi",
+          "options": [
+            "Tăng huyết áp chưa được kiểm soát tốt",
+            "Rối loạn lipid máu (LDL-C 3,2 mmol/L, chưa điều trị)",
+            "Giới nữ ở độ tuổi quanh mãn kinh",
+            "Nhịp tim nhanh 96 lần/phút",
+            "Thừa cân nhẹ (BMI 26 kg/m²)"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explain": "<b>A đúng</b> — THA là yếu tố nguy cơ ĐMV chính trong bảng RF-CL. <b>B đúng</b> — rối loạn lipid máu với LDL-C cao và chưa điều trị là yếu tố nguy cơ quan trọng. <b>C đúng</b> — phụ nữ quanh/sau mãn kinh mất tác dụng bảo vệ của estrogen; đây là yếu tố nguy cơ đặc thù được tính trong RF-CL. <b>D sai</b> — nhịp tim nhanh là triệu chứng/dấu hiệu (có thể do căng thẳng, thiếu máu…), không phải 1 trong 5 yếu tố nguy cơ chuẩn. <b>E sai</b> — BMI 26 kg/m² chỉ thừa cân nhẹ, không phải yếu tố nguy cơ chuẩn trong bảng RF-CL (tiền sử gia đình, hút thuốc, rối loạn lipid, THA, ĐTĐ)."
+        },
+        {
+          "q": "Ngoài điều trị thuốc, lời khuyên thay đổi lối sống nào phù hợp và quan trọng nhất cho bệnh nhân này?",
+          "options": [
+            "Tuyệt đối không tập thể dục vì gắng sức có thể kích phát cơn đau thắt ngực",
+            "Tập thể dục đều đặn ≥ 150 phút/tuần cường độ vừa, kiểm soát cân nặng và tuân thủ điều trị THA và lipid",
+            "Chỉ cần giảm muối ăn là đủ để kiểm soát huyết áp, không cần thuốc huyết áp lâu dài",
+            "Uống 1–2 ly rượu vang đỏ mỗi tối vì có lợi ích bảo vệ tim mạch đã được ghi nhận"
+          ],
+          "answer": 1,
+          "explain": "BN HCMVM ổn định được <b>khuyến khích vận động thể lực đều đặn</b> (Class I A, ESC 2024) — không phải kiêng gắng sức. ≥150–300 phút/tuần cường độ vừa giúp kiểm soát HA, lipid, cân nặng và cải thiện tiên lượng. Giảm muối (&lt;5g/ngày) có lợi nhưng không thay thế thuốc khi HA đang 148/94 mmHg. Rượu bia không có bằng chứng đủ mạnh để khuyến cáo nhằm bảo vệ tim mạch — ESC khuyến cáo hạn chế &lt;100g cồn/tuần, không khuyến khích uống để 'bảo vệ tim'."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 52 tuổi đái tháo đường, vừa phát hiện hẹp mạch vành cần can thiệp",
+      "body": "<b>Bệnh nhân:</b> Nam, 52 tuổi, lái xe tải. ĐTĐ type 2 phát hiện 5 năm (metformin 1g x 2/ngày + gliclazide MR 60mg/ngày).<br><b>Bệnh sử:</b> Trong 3 tháng hay mệt mỏi khi gắng sức, đôi khi tức ngực thoáng qua. CCTA phát hiện hẹp 80% LAD đoạn gần. Được xác nhận cần PCI đặt stent LAD.<br><b>Tiền sử:</b> Không THA, không hút thuốc.<br><b>Khám trước PCI:</b> Mạch 78 lần/phút, HA 134/88 mmHg, <b>HbA1c 8,2%</b>, <b>LDL-C 2,9 mmol/L</b>. Siêu âm tim: LVEF 55%.",
+      "questions": [
+        {
+          "q": "Bên cạnh aspirin và statin, thuốc nào nên bổ sung đặc thù cho BN ĐTĐ type 2 có bệnh ĐMV theo ESC 2024?",
+          "options": [
+            "Tăng liều gliclazide MR để đạt HbA1c &lt; 6,5% trước thủ thuật",
+            "Bổ sung thuốc ức chế SGLT2 (empagliflozin hoặc dapagliflozin) vì lợi ích tim mạch",
+            "Bổ sung acarbose để kiểm soát đường huyết sau ăn và giảm biến cố",
+            "Chuyển hoàn toàn sang insulin nền vì HbA1c &gt; 8%"
+          ],
+          "answer": 1,
+          "explain": "ESC 2024 (Class I A) khuyến cáo <b>thuốc ức chế SGLT2</b> ở BN HCMVM có ĐTĐ type 2 để giảm biến cố tim mạch — độc lập với tác dụng hạ đường huyết. Các thử nghiệm lớn (EMPA-REG OUTCOME, DAPA-HF) chứng minh giảm tử vong tim mạch và nhập viện do suy tim. Gliclazide (sulfonylurea) không có lợi ích tim mạch và tăng nguy cơ hạ đường huyết. Acarbose không có bằng chứng giảm biến cố tim mạch lớn. Insulin không ưu tiên chỉ vì HbA1c &gt;8% khi chưa thử đủ các thuốc uống."
+        },
+        {
+          "q": "Sau PCI đặt DES, bệnh nhân xuất viện với aspirin 81mg + clopidogrel 75mg. Thời gian DAPT phù hợp nhất cho bệnh nhân HCMVM này là bao lâu?",
+          "options": [
+            "1 tháng, sau đó ngừng cả hai thuốc vì DES thế hệ mới rất an toàn",
+            "Tối đa 6 tháng, sau đó chuyển sang đơn trị liệu aspirin hoặc clopidogrel suốt đời",
+            "12 tháng bắt buộc cho mọi bệnh nhân đặt DES bất kể chỉ định",
+            "Suốt đời duy trì cả aspirin lẫn clopidogrel để phòng tái phát"
+          ],
+          "answer": 1,
+          "explain": "Theo ESC 2024 (Class I A), sau PCI trong <b>HCMVM</b> (không phải ACS cấp): DAPT dùng <b>tối đa 6 tháng</b>. Nếu nguy cơ chảy máu cao và nguy cơ thiếu máu thấp: ngừng sớm sau 1–3 tháng (Class I A). Sau ngừng DAPT: <b>duy trì đơn trị liệu aspirin hoặc clopidogrel suốt đời</b>. '12 tháng bắt buộc' là khuyến cáo cũ áp dụng cho ACS, không cho HCMVM. DAPT suốt đời tăng nguy cơ chảy máu mà không có lợi ích tương xứng. Ngừng hoàn toàn kháng tiểu cầu sau PCI là sai."
+        },
+        {
+          "q": "LDL-C 2,9 mmol/L, mục tiêu &lt; 1,4 mmol/L. Chiến lược điều trị lipid nào hợp lý nhất?",
+          "options": [
+            "Atorvastatin 80mg đơn độc, kiểm tra lại sau 3 tháng trước khi quyết định thêm thuốc",
+            "Atorvastatin 80mg kết hợp ezetimibe 10mg ngay từ đầu để tăng khả năng đạt mục tiêu",
+            "Giảm liều statin và thêm omega-3 liều cao vì liều cao statin tăng nguy cơ đau cơ",
+            "Ngừng statin và thay bằng thuốc ức chế PCSK9 đơn độc vì hiệu quả hạ LDL mạnh hơn"
+          ],
+          "answer": 1,
+          "explain": "Atorvastatin 80mg giảm LDL-C ~50%, từ 2,9 mmol/L → ~1,45 mmol/L — vẫn chưa đạt mục tiêu &lt;1,4 mmol/L. <b>Thêm ezetimibe 10mg sớm</b> giảm thêm ~15–20% LDL-C, có thể đạt mục tiêu. Khởi đầu sớm cả statin + ezetimibe là chiến lược hợp lý ở BN nguy cơ rất cao với LDL xa mục tiêu. Omega-3 không hạ LDL-C. PCSK9i không phải bước đầu tiên — chỉ thêm khi statin tối đa + ezetimibe vẫn chưa đạt mục tiêu."
+        },
+        {
+          "q": "Chọn TẤT CẢ các tác dụng phụ đúng cần theo dõi khi bệnh nhân dùng atorvastatin 80mg:",
+          "type": "multi",
+          "options": [
+            "Đau cơ và yếu cơ — đo CK nếu triệu chứng đau cơ đáng kể",
+            "Tăng đường huyết nhẹ — theo dõi HbA1c và đường huyết định kỳ",
+            "Suy thận cấp — cần theo dõi creatinin thường xuyên vì statin gây độc thận",
+            "Tăng men gan (ALT/AST) — kiểm tra trước và khi có triệu chứng"
+          ],
+          "answer": [
+            0,
+            1,
+            3
+          ],
+          "explain": "<b>A đúng</b> — myopathy là tác dụng phụ quan trọng nhất của statin liều cao; rhabdomyolysis hiếm nhưng nặng, cần đo CK khi đau cơ đáng kể. <b>B đúng</b> — statin liều cao tăng nguy cơ ĐTĐ mới mắc ~10% và tăng nhẹ đường huyết, cần theo dõi đặc biệt ở BN đã có ĐTĐ. <b>C sai</b> — statin không gây độc thận trực tiếp; một số nghiên cứu cho thấy lợi ích bảo thận. Không cần theo dõi creatinin thường xuyên vì lý do statin. <b>D đúng</b> — tăng men gan xảy ra ~1–3% với statin liều cao; kiểm tra ALT/AST trước điều trị và khi có triệu chứng."
+        },
+        {
+          "q": "Bệnh nhân hỏi về lối sống sau PCI. Lời khuyên nào SAI?",
+          "options": [
+            "Nên ăn nhiều rau xanh, trái cây, ngũ cốc nguyên hạt và hạn chế chất béo bão hòa",
+            "Có thể tập thể dục nhẹ sau 1–2 tuần hồi phục nếu không còn triệu chứng",
+            "Uống 1–2 ly rượu vang mỗi tối để bảo vệ tim mạch và cải thiện cholesterol HDL",
+            "Không hút thuốc và tránh tiếp xúc với khói thuốc thụ động"
+          ],
+          "answer": 2,
+          "explain": "<b>C là lời khuyên sai</b>: Không có bằng chứng đủ mạnh để khuyến cáo uống rượu nhằm bảo vệ tim mạch. ESC 2024 khuyến cáo hạn chế cồn &lt;100g/tuần — không khuyến khích uống để 'bảo vệ tim'. Các điểm còn lại đúng: chế độ ăn Địa Trung Hải (A) có bằng chứng giảm biến cố tim mạch; hoạt động thể lực sớm sau PCI được khuyến khích (B); cai thuốc lá và tránh khói thuốc thụ động có lợi ích chứng minh mạnh nhất (D)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi kết quả điện tâm đồ gắng sức bất thường",
+      "body": "<b>Bệnh nhân:</b> Nam, 60 tuổi, giáo viên. Đau tức ngực khi leo cầu thang 2 tầng và đi bộ &gt; 200m trong 4 tháng gần đây.<br><b>Đang điều trị:</b> Aspirin 81mg, atorvastatin 40mg, metoprolol tartrate 25mg x 2/ngày (6 tuần). Losartan 50mg (THA 10 năm). Không hút thuốc, không ĐTĐ.<br><b>ECG gắng sức (Bruce protocol):</b> Đạt 78% tần số tim tối đa. <b>ST chênh xuống kiểu nằm ngang 2mm ở V4–V6, I, aVL khi gắng sức, kéo dài 4 phút sau nghỉ.</b> Đau ngực CCS II xuất hiện ở phút thứ 5. <b>Điểm Duke Treadmill Score (DTS) = -13.</b><br><b>Cận lâm sàng:</b> LDL-C 2,4 mmol/L, LVEF 54%, không rối loạn vận động vùng khi nghỉ.",
+      "questions": [
+        {
+          "q": "Điểm Duke Treadmill Score (DTS) = -13. Đây là mức nguy cơ nào và cần xử trí ra sao?",
+          "options": [
+            "Nguy cơ thấp (DTS &gt; 5) — tiếp tục điều trị nội khoa, không cần thêm thăm dò",
+            "Nguy cơ trung bình (-10 đến +4) — theo dõi thêm 3–6 tháng rồi đánh giá lại",
+            "Nguy cơ cao (DTS &lt; -10) — cần chuyển chuyên khoa tim mạch để đánh giá chụp mạch vành",
+            "Không thể xác định nguy cơ vì bệnh nhân không đạt 85% tần số tim mục tiêu"
+          ],
+          "answer": 2,
+          "explain": "<b>DTS &lt; -10 = nguy cơ cao</b>, tương ứng tử vong tim mạch &gt;3%/năm. Đây là tiêu chí nguy cơ cao trên stress ECG → cần <b>chuyển chuyên khoa tim mạch để đánh giá chụp mạch vành xâm lấn</b> và cân nhắc tái tưới máu. Thang DTS: &gt;5 = nguy cơ thấp; -10 đến +4 = trung bình; &lt;-10 = cao. DTS -13 rõ ràng vượt ngưỡng cao. Không cần đạt 85% tần số tim mục tiêu để có giá trị — ST thay đổi và triệu chứng xuất hiện sớm (phút 5) với DTS âm nhiều là đủ để kết luận."
+        },
+        {
+          "q": "Chụp mạch vành xâm lấn: hẹp 75% LAD đoạn gần (FFR = 0,74), hẹp 60% RCA đoạn giữa (FFR = 0,86). Quyết định nào phù hợp nhất?",
+          "options": [
+            "Can thiệp cả LAD lẫn RCA vì cả hai đều hẹp &gt; 50% về mặt giải phẫu",
+            "Can thiệp LAD vì FFR ≤ 0,80 (có ý nghĩa), không can thiệp RCA vì FFR &gt; 0,80",
+            "Không can thiệp nhánh nào vì hẹp chưa đạt 90%; tiếp tục điều trị nội khoa",
+            "Can thiệp RCA trước vì RCA có ít nguy cơ biến chứng thủ thuật hơn"
+          ],
+          "answer": 1,
+          "explain": "<b>FFR (Fractional Flow Reserve)</b> đánh giá ý nghĩa huyết động của hẹp. Ngưỡng can thiệp: <b>FFR ≤ 0,80</b>. LAD: FFR 0,74 ≤ 0,80 → có ý nghĩa huyết động → <b>chỉ định can thiệp</b>. RCA: FFR 0,86 &gt; 0,80 → không có ý nghĩa huyết động → <b>điều trị nội khoa</b>. Đây minh chứng nguyên tắc: <b>đánh giá chức năng huyết động quan trọng hơn đo % hẹp giải phẫu đơn thuần</b>. Hẹp 60% RCA với FFR tốt không cần can thiệp."
+        },
+        {
+          "q": "Sau PCI đặt DES vào LAD, xuất viện với DAPT. Sau bao lâu thì có thể ngừng clopidogrel (nguy cơ chảy máu bình thường, nguy cơ thiếu máu không cao)?",
+          "options": [
+            "1 tháng — luôn an toàn cho mọi loại DES thế hệ mới",
+            "3 tháng — đủ để tái nội mạc hóa hoàn toàn stent DES",
+            "1–6 tháng tùy nguy cơ cá thể, sau đó duy trì đơn trị liệu suốt đời",
+            "12 tháng — bắt buộc cho tất cả bệnh nhân đặt DES dù trong HCMVM hay ACS"
+          ],
+          "answer": 2,
+          "explain": "Theo ESC 2024 (Class I A), DAPT sau PCI trong HCMVM: <b>tối đa 6 tháng</b>, có thể ngừng sớm sau 1–3 tháng nếu nguy cơ chảy máu cao và nguy cơ thiếu máu thấp. Thời gian DAPT được <b>cá thể hóa</b> dựa trên cân bằng nguy cơ chảy máu (ARC-HBR) và nguy cơ thiếu máu. Sau ngừng DAPT: <b>đơn trị liệu aspirin hoặc clopidogrel suốt đời</b>. '12 tháng bắt buộc' áp dụng cho ACS, không phải HCMVM."
+        },
+        {
+          "q": "Chọn TẤT CẢ các biện pháp xử trí đúng khi LDL-C = 1,7 mmol/L sau 3 tháng, chưa đạt mục tiêu &lt; 1,4 mmol/L:",
+          "type": "multi",
+          "options": [
+            "Thêm ezetimibe 10mg vào atorvastatin 80mg hiện tại",
+            "Ngừng statin và thay bằng thuốc ức chế PCSK9 đơn độc",
+            "Đảm bảo bệnh nhân đang dùng đúng liều statin cao nhất có thể dung nạp",
+            "Kiểm tra tuân thủ dùng thuốc và các yếu tố ảnh hưởng hấp thu"
+          ],
+          "answer": [
+            0,
+            2,
+            3
+          ],
+          "explain": "<b>A đúng</b> — thêm ezetimibe là bước tiếp theo khi statin tối đa chưa đủ hiệu quả (Class I B, ESC 2024). <b>B sai</b> — không ngừng statin; PCSK9i được bổ sung vào statin + ezetimibe khi vẫn chưa đạt mục tiêu, không thay thế statin. <b>C đúng</b> — trước khi thêm thuốc, cần đảm bảo đã dùng statin liều tối đa dung nạp (atorvastatin 80mg là liều cao nhất). <b>D đúng</b> — kiểm tra tuân thủ là bước quan trọng; một số thực phẩm (bưởi) ức chế chuyển hóa statin qua CYP3A4 và một số tương tác thuốc có thể ảnh hưởng nồng độ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 47 tuổi đau ngực đột ngột khi đang nghỉ ngơi, vào cấp cứu",
+      "body": "<b>Bệnh nhân:</b> Nam, 47 tuổi, nhân viên văn phòng.<br><b>Bệnh sử:</b> Đau tức ngực sau xương ức đột ngột khi đang nghỉ ngơi, cách nhập viện 1,5 giờ, mức độ 7/10, liên tục không giảm, không rõ yếu tố kích phát. <b>Không có tiền sử đau thắt ngực trước đây.</b><br><b>Tiền sử:</b> THA 5 năm (amlodipine 5mg), rối loạn lipid (atorvastatin 20mg). Hút thuốc lá 15 bao-năm. Không ĐTĐ.<br><b>Khám:</b> Mạch 98 lần/phút đều, HA 155/95 mmHg, SpO₂ 98%. Phổi trong, không phù.<br><b>ECG:</b> ST chênh xuống 1,5mm ở V4–V6, I, aVL. Không ST chênh lên ở bất kỳ chuyển đạo nào.<br><b>Troponin I hs lúc nhập viện:</b> 185 ng/L (ngưỡng: 16 ng/L). <b>Troponin I hs sau 3 giờ:</b> 420 ng/L.",
+      "questions": [
+        {
+          "q": "Dựa vào bệnh cảnh lâm sàng, ECG và kết quả troponin, chẩn đoán phù hợp nhất là gì?",
+          "options": [
+            "Đau thắt ngực không ổn định (ĐTNKÔĐ) vì không có ST chênh lên và chưa đủ 2 giờ",
+            "Nhồi máu cơ tim không ST chênh lên (NSTEMI) — ACS cần xử trí cấp cứu ngay",
+            "Hội chứng mạch vành mạn CCS IV biểu hiện đau khi nghỉ",
+            "Viêm màng ngoài tim cấp vì đau khi nghỉ và ST thay đổi trên ECG"
+          ],
+          "answer": 1,
+          "explain": "Đây là <b>NSTEMI (ACS)</b>, KHÔNG phải HCMVM vì: (1) đau khi nghỉ, liên tục, không tự hết; (2) <b>troponin tăng cao rõ rệt</b> (185 ng/L ≫ ngưỡng 16 ng/L) và tiếp tục tăng (420 ng/L sau 3h) → kinetics dương tính, hoại tử cơ tim đang tiến triển; (3) ST chênh xuống là thiếu máu dưới nội mạc cấp tính. HCMVM: troponin không tăng quá ngưỡng, cơn đau &lt;20 phút và tự hết khi nghỉ. ĐTNKÔĐ là ACS nhưng troponin không tăng. Viêm màng ngoài tim thường có ST chênh lên yên ngựa."
+        },
+        {
+          "q": "Điểm phân biệt quan trọng nhất giữa HCMVM và ACS là gì?",
+          "options": [
+            "HCMVM CCS IV có thể có đau ngực khi nghỉ, nên không thể dùng đặc điểm đau để phân biệt",
+            "ACS bắt buộc phải có ST chênh lên trên ECG mới được chẩn đoán",
+            "Troponin không tăng quá ngưỡng chẩn đoán (99th percentile) là đặc trưng của HCMVM",
+            "Chỉ dựa vào tính chất và thời gian đau ngực là đủ để phân biệt HCMVM và ACS"
+          ],
+          "answer": 2,
+          "explain": "<b>C đúng và là điểm phân biệt quan trọng nhất</b>: Troponin KHÔNG tăng quá ngưỡng 99th percentile trong HCMVM. Troponin tăng có ý nghĩa → nghĩ ACS (hoặc nguyên nhân khác gây hoại tử type 2). A sai: HCMVM CCS IV có thể đau nhẹ khi nghỉ nhưng ngưỡng ổn định và troponin không tăng. B sai: NSTEMI không có ST chênh lên (chênh xuống hoặc T âm) nhưng vẫn là ACS với troponin tăng. D sai: cần ECG và troponin nối tiếp để phân biệt chắc chắn."
+        },
+        {
+          "q": "Chọn TẤT CẢ các biện pháp xử trí ban đầu đúng ngay khi xác định ACS (NSTEMI) tại cấp cứu:",
+          "type": "multi",
+          "options": [
+            "Aspirin 300mg nhai ngay (tải liều), sau đó 75–100mg/ngày",
+            "Clopidogrel 600mg nhai ngay (tải liều)",
+            "Cho bệnh nhân nằm tự do, không cần monitor ECG liên tục vì chưa rõ chẩn đoán",
+            "Nhập viện, monitor ECG liên tục để phát hiện rối loạn nhịp và theo dõi biến đổi ST",
+            "Liên hệ trung tâm tim mạch can thiệp — chụp mạch vành trong 24h ở NSTEMI nguy cơ cao"
+          ],
+          "answer": [
+            0,
+            1,
+            3,
+            4
+          ],
+          "explain": "<b>A đúng</b> — aspirin 300mg nhai (loading dose) là biện pháp đầu tay cho ACS. <b>B đúng</b> — clopidogrel 600mg nhai (loading dose) để kháng tiểu cầu nhanh trước can thiệp. <b>C sai</b> — BN ACS cần monitor ECG liên tục để phát hiện rối loạn nhịp (rung thất, nhanh thất) và theo dõi biến đổi ST; không để tự do không giám sát. <b>D đúng</b> — nhập viện và monitor là bắt buộc. <b>E đúng</b> — NSTEMI nguy cơ cao (troponin tăng, ST chênh xuống) cần chụp mạch vành trong 24h theo ESC 2024."
+        },
+        {
+          "q": "Sau PCI cấp cứu đặt stent LAD thành công, bệnh nhân ra viện. Thuộc bệnh cảnh nào của HCMVM và cần theo dõi thế nào?",
+          "options": [
+            "Bệnh cảnh 4 — theo dõi thông thường như mọi BN bệnh ĐMV ổn định",
+            "Bệnh cảnh 3 — theo dõi chặt trong 12 tháng đầu vì nguy cơ biến cố tái phát rất cao",
+            "Bệnh cảnh 6 — không cần theo dõi gắt vì đã được can thiệp triệt để",
+            "Bệnh cảnh 1 — tiếp tục tầm soát thêm bệnh mạch vành các nhánh khác"
+          ],
+          "answer": 1,
+          "explain": "Sau ACS/tái thông ĐMV ≤ 1 năm → <b>bệnh cảnh 3</b>: nguy cơ tái phát biến cố tim mạch rất cao trong 12 tháng đầu. Cần theo dõi chặt: tối ưu hóa toàn bộ thuốc (DAPT đủ liều, statin liều cao, chẹn beta, ƯCMC...), kiểm soát tích cực mọi yếu tố nguy cơ, phục hồi chức năng tim. Sau 12 tháng → chuyển sang bệnh cảnh 4 ('chung sống với bệnh ĐMV')."
+        },
+        {
+          "q": "Chọn TẤT CẢ các điểm đúng về quản lý bệnh nhân sau NSTEMI ra viện:",
+          "type": "multi",
+          "options": [
+            "Duy trì DAPT (aspirin + clopidogrel) trong 6–12 tháng sau ACS",
+            "Statin liều cao suốt đời, mục tiêu LDL-C &lt; 1,4 mmol/L và giảm ≥ 50% từ baseline",
+            "Chẹn beta được khuyến cáo mạnh ở BN có LVEF giảm sau NMCT",
+            "Có thể ngừng aspirin sau 1 tháng nếu không xuất hiện triệu chứng tái phát",
+            "Đăng ký chương trình phục hồi chức năng tim dựa trên tập luyện"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "explain": "<b>A đúng</b> — sau NSTEMI/ACS, DAPT thường 6–12 tháng tùy nguy cơ chảy máu và thiếu máu. <b>B đúng</b> — statin liều cao suốt đời, mục tiêu LDL &lt;1,4 mmol/L và giảm ≥50% baseline. <b>C đúng</b> — chẹn beta Class I A sau NMCT nếu LVEF giảm. <b>D sai</b> — KHÔNG ngừng aspirin sau 1 tháng; phải duy trì ít nhất một thuốc kháng tiểu cầu suốt đời sau ACS/PCI — ngừng aspirin tăng nguy cơ huyết khối trong stent và tái phát NMCT. <b>E đúng</b> — phục hồi chức năng tim Class I A, giảm tử vong và tái nhập viện."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi đau thắt ngực tăng tần suất và thời gian 3 tuần gần đây",
+      "body": "<b>Bệnh nhân:</b> Nam, 55 tuổi, bán hàng. Tiền sử HCMVM 2 năm (hẹp 60% LAD, điều trị nội khoa). Đang dùng: aspirin 81mg, atorvastatin 40mg, amlodipine 5mg, ISMN 20mg x 2/ngày.<br><b>Bệnh sử mới:</b> Trong 3 tuần: đau ngực khi leo 1 tầng cầu thang (trước phải leo 2 tầng mới đau), thời gian cơn đau 8–10 phút (trước 4–5 phút). <b>Không đau khi nghỉ. Đặc điểm cơn đau không thay đổi về tính chất.</b><br><b>Khám:</b> Mạch 84 lần/phút, HA 132/84 mmHg. Siêu âm tim kiểm tra: LVEF 52% (trước: 55%).<br><b>Cận lâm sàng:</b> <b>Troponin I hs: 10 ng/L</b> (ngưỡng 16 ng/L). LDL-C 1,6 mmol/L.",
+      "questions": [
+        {
+          "q": "Bệnh nhân hiện ở phân độ CCS bao nhiêu và đây là tình trạng gì của HCMVM?",
+          "options": [
+            "CCS II như trước — không có gì thay đổi đáng kể, tiếp tục theo dõi định kỳ",
+            "CCS III — tiến triển trong HCMVM, cần đánh giá lại và tối ưu điều trị",
+            "CCS IV biểu hiện của ACS — cần nhập viện cấp cứu và xử trí khẩn",
+            "Không thể phân độ CCS vì đang dùng thuốc chống đau thắt ngực"
+          ],
+          "answer": 1,
+          "explain": "Ban đầu đau khi leo 2 tầng → CCS II; nay đau khi leo 1 tầng → <b>CCS III</b>. Điểm quan trọng: vẫn có <b>ngưỡng khởi phát nhất định</b>, không đau khi nghỉ, tính chất cơn đau không đổi, <b>troponin bình thường</b> → đây là <b>tiến triển trong HCMVM</b>, không phải ACS. Phân biệt với ACS: đau xuất hiện khi nghỉ, tăng nặng đột ngột về tính chất hoặc troponin tăng. Trường hợp này cần đánh giá lại và tối ưu nội khoa, không phải cấp cứu ngay."
+        },
+        {
+          "q": "Đánh giá điều trị hiện tại và điều gì còn thiếu trong phác đồ?",
+          "options": [
+            "Điều trị đã đầy đủ, chỉ cần tăng liều ISMN để kiểm soát triệu chứng",
+            "LDL-C 1,6 mmol/L chưa đạt mục tiêu &lt; 1,4 mmol/L và thiếu thuốc chẹn beta trong phác đồ",
+            "Bệnh nhân đang dùng thừa thuốc, cần giảm bớt để tránh tương tác thuốc",
+            "Cần thêm heparin vì đây là biểu hiện sớm của ACS"
+          ],
+          "answer": 1,
+          "explain": "Hai vấn đề chính: (1) <b>LDL-C 1,6 mmol/L chưa đạt mục tiêu &lt;1,4 mmol/L</b> — cần tăng atorvastatin lên 80mg hoặc thêm ezetimibe; (2) <b>Thiếu thuốc chẹn beta trong phác đồ</b> — đây là thuốc đầu tay chống đau thắt ngực và cải thiện tiên lượng, đặc biệt quan trọng khi nhịp 84 lần/phút và LVEF giảm nhẹ (52%). Tăng ISMN đơn độc không đủ khi thiếu chẹn beta. Troponin bình thường → không phải ACS, không cần heparin."
+        },
+        {
+          "q": "Sau khi thêm metoprolol succinate 25mg/ngày, triệu chứng vẫn CCS III sau 8 tuần. Bước tiếp theo phù hợp nhất với bác sĩ đa khoa?",
+          "options": [
+            "Thêm ivabradine vì nhịp tim 78 lần/phút và LVEF 52%",
+            "Chuyển chuyên khoa tim mạch để đánh giá lại nguy cơ và khả năng tái tưới máu",
+            "Chuyển sang clopidogrel thay aspirin vì điều trị kháng tiểu cầu hiện tại thất bại",
+            "Tăng amlodipine lên 10mg và thêm một loại nitrat tác dụng dài thứ hai"
+          ],
+          "answer": 1,
+          "explain": "Sau tối ưu hóa nội khoa đầy đủ (aspirin, statin, chẹn beta, CCB, nitrat), nếu vẫn CCS III → <b>chuyển chuyên khoa tim mạch</b> để đánh giá lại nguy cơ và cân nhắc tái tưới máu. <b>Ivabradine không có chỉ định</b> ở BN HCMVM LVEF &gt; 40% (ESC 2024 Class III B — LVEF 52%). Thêm nitrat thứ hai không hợp lý, tăng nguy cơ dung nạp và tụt huyết áp. Thay aspirin bằng clopidogrel không cải thiện triệu chứng đau thắt ngực."
+        },
+        {
+          "q": "Chọn TẤT CẢ các tiêu chí nguy cơ CAO cần cân nhắc chuyển chuyên khoa để đánh giá tái tưới máu:",
+          "type": "multi",
+          "options": [
+            "Vùng thiếu máu ≥ 10% thất trái trên SPECT hoặc PET",
+            "Điểm Duke Treadmill Score &lt; -10 trên stress ECG",
+            "ST chênh xuống nhẹ 0,5mm khi nghỉ, không thay đổi khi gắng sức",
+            "≥ 3/16 vùng cơ tim giảm hoặc vô động trên siêu âm tim gắng sức"
+          ],
+          "answer": [
+            0,
+            1,
+            3
+          ],
+          "explain": "<b>A đúng</b> — thiếu máu ≥10% thất trái trên SPECT/PET là tiêu chí nguy cơ cao theo ESC 2024. <b>B đúng</b> — DTS &lt; -10 tương ứng tử vong tim mạch &gt;3%/năm — ngưỡng nguy cơ cao cần chuyển viện. <b>C sai</b> — ST chênh xuống nhẹ khi nghỉ không thay đổi là bất thường mạn tính (có thể do dày thất, digitalis, tái cực sớm...), không phải tiêu chí nguy cơ cao đặc hiệu để chỉ định tái tưới máu. <b>D đúng</b> — ≥3/16 vùng giảm/vô động trên siêu âm gắng sức là tiêu chí nguy cơ cao theo ESC 2024."
+        }
+      ]
+    },
+    {
+      "title": "Phụ nữ 58 tuổi đau ngực khi đi lạnh và sau bữa ăn no",
+      "body": "<b>Bệnh nhân:</b> Nữ, 58 tuổi, nội trợ.<br><b>Bệnh sử:</b> Trong 5 tháng hay xuất hiện tức nặng sau xương ức khi đi bộ buổi sáng trời lạnh và đôi khi sau bữa ăn no, kéo dài 5–7 phút, giảm khi vào trong nhà ấm hoặc nghỉ ngơi. <b>Với mức gắng sức tương đương vào buổi chiều ấm, không xuất hiện đau.</b><br><b>Tiền sử:</b> THA 7 năm (enalapril 10mg, kiểm soát tốt), mãn kinh 4 năm. Không hút thuốc, không ĐTĐ.<br><b>Khám:</b> Mạch 74 lần/phút, HA 126/78 mmHg, BMI 27 kg/m². Tim phổi bình thường.<br><b>Cận lâm sàng:</b> ECG nghỉ bình thường. LDL-C 2,8 mmol/L. Glucose đói 5,2 mmol/L. Troponin I hs: 5 ng/L (ngưỡng: 16 ng/L). Siêu âm tim: LVEF 64%.",
+      "questions": [
+        {
+          "q": "Đặc điểm nào trong bệnh sử gợi ý rõ nhất đây là hội chứng mạch vành mạn, không phải ACS hay nguyên nhân ngoài tim?",
+          "options": [
+            "Đau sau bữa ăn no gợi ý nhiều nguyên nhân tiêu hóa như trào ngược dạ dày-thực quản",
+            "Ngưỡng khởi phát ổn định, dưới 20 phút, giảm khi loại bỏ yếu tố kích phát, troponin bình thường",
+            "Cơn đau kéo dài 5–7 phút gợi ý nhiều ACS vì vượt quá 5 phút là bất thường",
+            "Mãn kinh 4 năm là nguyên nhân trực tiếp gây đau ngực qua cơ chế thiếu hụt hormone"
+          ],
+          "answer": 1,
+          "explain": "Các yếu tố gợi ý HCMVM: (1) <b>Ngưỡng khởi phát ổn định và dự đoán được</b> (trời lạnh/sau ăn — tăng hậu gánh tim và nhu cầu O₂); (2) <b>Thời gian ổn định &lt; 20 phút</b>; (3) <b>Giảm khi loại bỏ yếu tố kích phát</b>; (4) <b>Troponin bình thường</b>. Trời lạnh gây co mạch ngoại biên → tăng HA và hậu gánh → kích phát đau thắt ngực. Đây không phải ACS (không tự phát, không liên tục, troponin bình thường). Đau sau ăn có thể gặp trong HCMVM vì ăn no làm tăng nhu cầu cung lượng tim."
+        },
+        {
+          "q": "Với RF-CL thấp đến trung bình ở bệnh nhân này, xét nghiệm hình ảnh nào nên được chỉ định đầu tiên?",
+          "options": [
+            "Siêu âm tim gắng sức với dobutamine",
+            "Chụp CT mạch vành (CCTA)",
+            "Chụp mạch vành xâm lấn ngay vì bệnh nhân đã 58 tuổi và có THA",
+            "SPECT tưới máu cơ tim với adenosine"
+          ],
+          "answer": 1,
+          "explain": "Nữ 58 tuổi, THA, rối loạn lipid, triệu chứng điển hình theo gắng sức/nhiệt độ → RF-CL <b>thấp đến trung bình</b>. Theo ESC 2024 (Class I A), với RF-CL 5–50%: <b>CCTA ưu tiên hàng đầu</b> để loại trừ/xác nhận bệnh ĐMV và đánh giá mảng xơ vữa. Siêu âm gắng sức và SPECT ưu tiên hơn khi RF-CL trung bình-cao (15–85%). Chụp mạch xâm lấn không phải bước đầu tiên khi RF-CL chưa rất cao. Tuổi 58 và THA không phải chỉ định chụp mạch xâm lấn ngay."
+        },
+        {
+          "q": "CCTA: hẹp 55% LAD đoạn giữa, mảng xơ vữa vôi hóa một phần. Không tổn thương thân chung hay đoạn gần. Xử trí nội khoa ban đầu gồm những gì?",
+          "options": [
+            "Aspirin 75–100mg/ngày, statin liều cao và thuốc chẹn beta hoặc CCB để kiểm soát triệu chứng",
+            "Chỉ nitrat ngậm dưới lưỡi khi có cơn đau; hẹp &lt; 70% không cần điều trị nội khoa dài hạn",
+            "Clopidogrel + fibrate, không cần aspirin vì bệnh nhân nữ có nguy cơ chảy máu cao hơn",
+            "Chỉ tiếp tục enalapril; huyết áp đang kiểm soát tốt nên không cần thêm thuốc"
+          ],
+          "answer": 0,
+          "explain": "Khi CCTA xác nhận bệnh ĐMV (kể cả hẹp &lt;70%), bắt đầu ngay: (1) <b>Aspirin 75–100mg/ngày</b> (Class I B, ESC 2024) ở BN có bằng chứng bệnh ĐMV tắc nghẽn; (2) <b>Statin liều cao</b> — mục tiêu LDL &lt;1,4 mmol/L (hiện 2,8 mmol/L rất cao); (3) <b>Chẹn beta hoặc CCB</b> để kiểm soát triệu chứng và nhịp tim. Nitrat ngậm dưới lưỡi dùng khi cần cấp cứu cơn đau, không phải đơn trị liệu dài hạn. Không có cơ sở giới tính để thay aspirin bằng clopidogrel. Chỉ tiếp tục enalapril đơn độc là không đủ."
+        },
+        {
+          "q": "Chọn TẤT CẢ các lời khuyên thay đổi lối sống đúng cho bệnh nhân này:",
+          "type": "multi",
+          "options": [
+            "Tập thể dục vào buổi chiều hoặc trong nhà ấm để tránh kích phát cơn đau khi luyện tập",
+            "Ăn các bữa nhỏ hơn, ít béo để tránh kích phát đau thắt ngực sau bữa ăn no",
+            "Không cần tập thể dục vì đã có triệu chứng khi gắng sức; chỉ cần điều trị thuốc",
+            "Duy trì cân nặng lành mạnh (hướng đến BMI &lt; 25) qua chế độ ăn và vận động",
+            "Hạn chế rượu bia và giảm muối ăn để hỗ trợ kiểm soát huyết áp"
+          ],
+          "answer": [
+            0,
+            1,
+            3,
+            4
+          ],
+          "explain": "<b>A đúng</b> — lạnh là yếu tố kích phát; tập vào thời điểm ấm hơn và tránh thay đổi nhiệt độ đột ngột là điều chỉnh thực tế và phù hợp cho bệnh nhân này. <b>B đúng</b> — bữa ăn no làm tăng nhu cầu cung lượng tim → kích phát đau; ăn nhiều bữa nhỏ giúp giảm kích phát. <b>C sai</b> — hoạt động thể lực ≥150 phút/tuần được khuyến cáo (Class I B, ESC 2024); cần điều chỉnh thời điểm và điều kiện tập, không phải kiêng hoàn toàn. <b>D đúng</b> — BMI 27 kg/m², cần hướng về &lt;25. <b>E đúng</b> — hạn chế muối &lt;5g/ngày và cồn &lt;100g/tuần là khuyến cáo chung cho bệnh tim mạch."
+        },
+        {
+          "q": "Bệnh nhân hỏi có nên dùng liệu pháp hormon thay thế (HRT) để vừa giảm triệu chứng mãn kinh vừa bảo vệ tim mạch. Câu trả lời đúng nhất là gì?",
+          "options": [
+            "HRT được khuyến cáo cho phụ nữ mãn kinh mắc bệnh tim mạch vì estrogen bảo vệ mạch máu",
+            "HRT không được khuyến cáo để điều trị hoặc phòng ngừa bệnh tim mạch và có thể tăng nguy cơ biến cố huyết khối",
+            "HRT hoàn toàn an toàn nếu bắt đầu trong vòng 5 năm đầu sau mãn kinh ở mọi phụ nữ",
+            "HRT tuyệt đối chống chỉ định ở mọi phụ nữ trên 50 tuổi có bất kỳ bệnh lý tim mạch nào"
+          ],
+          "answer": 1,
+          "explain": "<b>HRT không được khuyến cáo</b> để điều trị hay phòng ngừa bệnh tim mạch. Các thử nghiệm lớn (WHI, HERS) cho thấy HRT có thể tăng nguy cơ huyết khối tĩnh mạch, đột quỵ và không cải thiện kết cục tim mạch ở phụ nữ đã có bệnh ĐMV. ESC 2024 không khuyến cáo HRT trong quản lý HCMVM. HRT có thể có vai trò trong kiểm soát triệu chứng mãn kinh ở phụ nữ <b>chưa có bệnh tim mạch đã xác định</b> và khởi đầu sớm sau mãn kinh — nhưng cần cân nhắc kỹ rủi ro cá thể, và không áp dụng cho bệnh nhân đã xác nhận có bệnh ĐMV."
+        }
+      ]
+    }
+  ]
+}
