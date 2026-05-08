@@ -833,7 +833,8 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
   function getDecksForTab(tab) {
     return decks.filter(d => {
       const dt = d.type || 'cases';
-      if (dt === 'mixed') return tab === 'cases';
+      if (d.mockExam) return tab === 'mock';
+      if (tab === 'mock') return false;
       return dt === tab;
     });
   }
@@ -938,6 +939,7 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
     const main = document.getElementById('main');
     const casesCount = getDecksForTab('cases').length;
     const mcqCount = getDecksForTab('mcq').length;
+    const mockCount = getDecksForTab('mock').length;
 
     // Stats panel (only if username is set)
     let html = renderStatsPanel();
@@ -950,6 +952,9 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
         </button>
         <button class="tab ${activeTab === 'mcq' ? 'active' : ''}" data-tab="mcq">
           ❓ MCQ <span class="badge">${mcqCount}</span>
+        </button>
+        <button class="tab ${activeTab === 'mock' ? 'active' : ''}" data-tab="mock">
+          📝 Đề thi thử <span class="badge">${mockCount}</span>
         </button>
       </div>
     `;
@@ -979,15 +984,20 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
 
   function renderCategoryList() {
     const categories = getCategoriesForTab(activeTab);
+    const tabIcon = activeTab === 'cases' ? '📋' : (activeTab === 'mcq' ? '❓' : '📝');
+    const tabLabel = activeTab === 'cases' ? 'case lâm sàng' : (activeTab === 'mcq' ? 'MCQ' : 'đề thi thử');
     if (categories.length === 0) {
+      const helperText = activeTab === 'mock'
+        ? 'Bấm "📝 Tạo đề thi thử" ở trên để tạo bộ đề ngẫu nhiên từ các bộ đã đồng bộ.'
+        : 'Nhấn nút <b>☁ Đồng bộ</b> ở góc trên để tải bộ đề từ cloud về.';
       return `
         <div class="library-empty">
-          <div class="library-empty-icon">${activeTab === 'cases' ? '📋' : '❓'}</div>
+          <div class="library-empty-icon">${tabIcon}</div>
           <div style="font-size: 15px; font-weight: 600; margin-bottom: 8px;">
-            Chưa có bộ ${activeTab === 'cases' ? 'case lâm sàng' : 'MCQ'} nào
+            Chưa có bộ ${tabLabel} nào
           </div>
           <div style="font-size: 13px; color: var(--text-secondary);">
-            Nhấn nút <b>☁ Đồng bộ</b> ở góc trên để tải bộ đề từ cloud về.
+            ${helperText}
           </div>
         </div>
       `;
@@ -1038,7 +1048,8 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
     const tabDecks = getDecksForTab(activeTab);
     const matches = tabDecks.filter(d => matchesSearch(d, searchQuery))
       .sort((a,b) => b.addedAt - a.addedAt);
-    let html = `<div class="search-results-info">Tìm thấy <b>${matches.length}</b> kết quả cho "${escapeHtml(searchQuery)}" trong tab ${activeTab === 'cases' ? 'Case lâm sàng' : 'MCQ'}</div>`;
+    const tabName = activeTab === 'cases' ? 'Case lâm sàng' : (activeTab === 'mcq' ? 'MCQ' : 'Đề thi thử');
+    let html = `<div class="search-results-info">Tìm thấy <b>${matches.length}</b> kết quả cho "${escapeHtml(searchQuery)}" trong tab ${tabName}</div>`;
     if (matches.length === 0) {
       html += `<div class="library-empty"><div style="font-size: 13px;">Không có kết quả phù hợp.</div></div>`;
     } else {
@@ -1051,9 +1062,18 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
 
   function renderDeckCard(d, showCategory) {
     const isCases = (d.type || 'cases') === 'cases';
-    const countLabel = isCases
-      ? `${d.cases.length} case · ${d.totalQuestions} câu`
-      : `${d.totalQuestions} câu`;
+    const isMock = !!d.mockExam;
+    let countLabel;
+    if (isMock) {
+      const caseCount = (d.cases && d.cases.length) || 0;
+      countLabel = caseCount > 0
+        ? `${caseCount} case · ${d.totalQuestions} câu`
+        : `${d.totalQuestions} câu`;
+    } else {
+      countLabel = isCases
+        ? `${d.cases.length} case · ${d.totalQuestions} câu`
+        : `${d.totalQuestions} câu`;
+    }
 
     let statsHTML = '';
     const hasProgress = d.progress && !d.progress.finished
@@ -2167,12 +2187,70 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
   }
 
   function renderCreateMockStep1() {
+    // Build the OUTER scaffold once. Body is updated separately so the
+    // search input element is never replaced — caret/selection stays put.
+    const tab = mockState.activeTab;
+
+    openModal(`
+      <h2 class="modal-title">📝 Tạo đề thi thử (Bước 1/2)</h2>
+      <div class="modal-body" style="margin-bottom: 8px;">
+        Chọn các bộ câu hỏi để rút câu vào đề thi thử.
+      </div>
+      <input type="text" class="form-input" id="mock-search" placeholder="Tìm bộ câu hỏi..." value="${escapeHtml(mockState.searchQ)}" style="margin-bottom: 8px;">
+      <div class="tabs" id="mock-tabs" style="margin-bottom: 12px;">
+        <button class="tab ${tab === 'cases' ? 'active' : ''}" data-mock-tab="cases">📋 Case lâm sàng</button>
+        <button class="tab ${tab === 'mcq' ? 'active' : ''}" data-mock-tab="mcq">❓ MCQ</button>
+      </div>
+      <div id="mock-list-container" style="max-height: 50vh; overflow-y: auto;"></div>
+      <div id="mock-selected-info" style="font-size: 12px; color: var(--text-secondary); margin: 8px 0;"></div>
+      <div class="modal-actions">
+        <button class="btn" id="mock-cancel">Huỷ</button>
+        <button class="btn btn-primary" id="mock-next">Tiếp theo →</button>
+      </div>
+    `);
+
+    // Bind scaffold events
+    document.getElementById('mock-cancel').onclick = closeModal;
+    document.getElementById('mock-next').onclick = () => {
+      if (Object.values(mockState.selectedDecks).filter(Boolean).length === 0) return;
+      mockState.step = 2;
+      renderCreateMockStep2();
+    };
+
+    // Search input — updates body only, NOT the whole modal, so caret stays
+    const searchEl = document.getElementById('mock-search');
+    let searchTimer;
+    searchEl.oninput = (e) => {
+      clearTimeout(searchTimer);
+      searchTimer = setTimeout(() => {
+        mockState.searchQ = e.target.value;
+        updateMockStep1Body();
+      }, 200);
+    };
+
+    // Tabs — also update body only
+    document.querySelectorAll('[data-mock-tab]').forEach(t => {
+      t.onclick = () => {
+        mockState.activeTab = t.dataset.mockTab;
+        document.querySelectorAll('[data-mock-tab]').forEach(x => {
+          x.classList.toggle('active', x.dataset.mockTab === mockState.activeTab);
+        });
+        updateMockStep1Body();
+      };
+    });
+
+    // First render of body
+    updateMockStep1Body();
+  }
+
+  function updateMockStep1Body() {
     // Filter decks by current modal tab + search
     const tab = mockState.activeTab;
     const visibleDecks = decks.filter(d => {
       const dt = d.type || 'cases';
       if (dt !== tab) return false;
-      if (d.category === '📝 Đề thi thử') return false; // don't include other mock exams
+      if (d.mockExam || d.localOnly) return false; // never include mock exams as source
+      if (d.category === '📝 Đề thi thử') return false;
       if (mockState.searchQ) {
         const q = mockState.searchQ.toLowerCase();
         if (!d.name.toLowerCase().includes(q) &&
@@ -2180,7 +2258,6 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
       }
       return true;
     });
-    // Group by category
     const byCat = {};
     visibleDecks.forEach(d => {
       const cat = d.category || 'Chưa phân loại';
@@ -2188,7 +2265,6 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
       byCat[cat].push(d);
     });
     const cats = Object.keys(byCat).sort();
-    // Count selected
     const selectedCount = Object.values(mockState.selectedDecks).filter(Boolean).length;
 
     let catsHTML = '';
@@ -2229,74 +2305,39 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
       </div>`;
     });
 
-    openModal(`
-      <h2 class="modal-title">📝 Tạo đề thi thử (Bước 1/2)</h2>
-      <div class="modal-body" style="margin-bottom: 8px;">
-        Chọn các bộ câu hỏi để rút câu vào đề thi thử.
-      </div>
-      <input type="text" class="form-input" id="mock-search" placeholder="Tìm bộ câu hỏi..." value="${escapeHtml(mockState.searchQ)}" style="margin-bottom: 8px;">
-      <div class="tabs" style="margin-bottom: 12px;">
-        <button class="tab ${tab === 'cases' ? 'active' : ''}" data-mock-tab="cases">📋 Case lâm sàng</button>
-        <button class="tab ${tab === 'mcq' ? 'active' : ''}" data-mock-tab="mcq">❓ MCQ</button>
-      </div>
-      <div style="max-height: 50vh; overflow-y: auto;">${catsHTML}</div>
-      <div style="font-size: 12px; color: var(--text-secondary); margin: 8px 0;">Đã chọn: <b>${selectedCount}</b> bộ</div>
-      <div class="modal-actions">
-        <button class="btn" id="mock-cancel">Huỷ</button>
-        <button class="btn btn-primary" id="mock-next" ${selectedCount === 0 ? 'disabled' : ''}>Tiếp theo →</button>
-      </div>
-    `);
+    const listContainer = document.getElementById('mock-list-container');
+    if (!listContainer) return;
+    listContainer.innerHTML = catsHTML;
+    document.getElementById('mock-selected-info').innerHTML = `Đã chọn: <b>${selectedCount}</b> bộ`;
+    const nextBtn = document.getElementById('mock-next');
+    if (nextBtn) nextBtn.disabled = selectedCount === 0;
 
-    // Bind events
-    document.getElementById('mock-cancel').onclick = closeModal;
-    document.getElementById('mock-next').onclick = () => {
-      if (Object.values(mockState.selectedDecks).filter(Boolean).length === 0) return;
-      mockState.step = 2;
-      renderCreateMockStep2();
-    };
-    const searchEl = document.getElementById('mock-search');
-    let searchTimer;
-    searchEl.oninput = (e) => {
-      clearTimeout(searchTimer);
-      searchTimer = setTimeout(() => {
-        mockState.searchQ = e.target.value;
-        renderCreateMockStep1();
-      }, 200);
-    };
-    // Tabs
-    document.querySelectorAll('[data-mock-tab]').forEach(t => {
-      t.onclick = () => { mockState.activeTab = t.dataset.mockTab; renderCreateMockStep1(); };
-    });
-    // Category headers — toggle expand
-    document.querySelectorAll('[data-toggle-cat]').forEach(h => {
+    // Re-bind events for the freshly rendered list
+    listContainer.querySelectorAll('[data-toggle-cat]').forEach(h => {
       h.onclick = () => {
         const cat = h.dataset.toggleCat;
         mockState.expandedCategories[cat] = !mockState.expandedCategories[cat];
-        renderCreateMockStep1();
+        updateMockStep1Body();
       };
     });
-    // Indeterminate checkboxes
-    document.querySelectorAll('input[data-indeterminate="1"]').forEach(cb => cb.indeterminate = true);
-    // Select-all checkboxes
-    document.querySelectorAll('[id^="mock-cat-all-"]').forEach(cb => {
+    listContainer.querySelectorAll('input[data-indeterminate="1"]').forEach(cb => cb.indeterminate = true);
+    listContainer.querySelectorAll('[id^="mock-cat-all-"]').forEach(cb => {
       cb.onclick = (e) => {
         e.stopPropagation();
-        // Find sibling deck checkboxes within this category body
         const body = cb.closest('.cat-select-body');
         const deckCbs = body.querySelectorAll('.mock-deck-cb');
         const targetState = cb.checked;
         deckCbs.forEach(d => {
           mockState.selectedDecks[d.dataset.id] = targetState;
         });
-        renderCreateMockStep1();
+        updateMockStep1Body();
       };
     });
-    // Individual deck checkboxes
-    document.querySelectorAll('.mock-deck-cb').forEach(cb => {
+    listContainer.querySelectorAll('.mock-deck-cb').forEach(cb => {
       cb.onclick = (e) => {
         e.stopPropagation();
         mockState.selectedDecks[cb.dataset.id] = cb.checked;
-        renderCreateMockStep1();
+        updateMockStep1Body();
       };
     });
   }
@@ -2396,8 +2437,8 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
       if (result) {
         closeModal();
         toast('✓ Đã tạo đề thi thử "' + result.name + '"', 'success');
-        // Switch to mock exam category
-        activeTab = result.type === 'mcq' ? 'mcq' : 'cases';
+        // Switch to mock exam tab
+        activeTab = 'mock';
         activeCategory = '📝 Đề thi thử';
         renderLibrary();
       }
