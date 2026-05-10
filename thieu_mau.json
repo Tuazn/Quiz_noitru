@@ -1,0 +1,620 @@
+{
+  "name": "Thiếu máu",
+  "description": "Bộ case lâm sàng về thiếu máu - ôn thi bác sĩ nội trú",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Huyết học",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 25 tuổi, nhân viên văn phòng, mệt mỏi và chóng mặt 3 tháng",
+      "body": "Bệnh nhân nữ 25 tuổi, nhân viên văn phòng, đến khám vì mệt mỏi và chóng mặt ngày càng tăng trong khoảng 3 tháng nay, đặc biệt khi đứng dậy hoặc leo cầu thang. Bệnh nhân cho biết gần đây cảm thấy khó tập trung vào công việc, da xanh xao hơn và thỉnh thoảng hồi hộp.<br><b>Tiền sử hiện tại:</b> Kinh nguyệt nhiều và kéo dài (rong kinh) trong khoảng 6 tháng qua, phải dùng 5-6 băng vệ sinh mỗi ngày trong 5 ngày đầu của chu kỳ. Tiền sử bản thân và gia đình không có bệnh lý đặc biệt, không dùng thuốc gì.<br><b>Khám lâm sàng:</b> Ý thức tỉnh táo, da niêm mạc nhợt, không vàng da, không phù, không xuất huyết. Sinh hiệu: Mạch 105 lần/phút, Huyết áp 100/60 mmHg, Nhịp thở 18 lần/phút, Nhiệt độ 37°C, SpO₂ 99% khí trời, BMI 19.5 kg/m². Tim nhịp nhanh đều, có tiếng thổi tâm thu 2/6 ở mỏm. Phổi thông khí rõ. Bụng mềm, gan lách không sờ thấy.<br><b>Cận lâm sàng:</b> Hemoglobin (Hb) 82 g/L, Thể tích trung bình hồng cầu (MCV) 71 fL, Nồng độ huyết sắc tố trung bình hồng cầu (MCHC) 290 g/L, Số lượng bạch cầu 6.5 G/L, Tiểu cầu 280 G/L. Sắt huyết thanh 4.5 µmol/L, Ferritin 8 ng/mL, Transferrin 4.2 g/L, Độ bão hòa transferrin 8%.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất với bệnh nhân này là gì?",
+          "options": [
+            "Thiếu máu do bệnh mạn tính",
+            "Thiếu máu do tan máu tự miễn",
+            "Thiếu máu thiếu sắt",
+            "Thalassemia thể nhẹ"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có thiếu máu hồng cầu nhỏ, nhược sắc (Hb 82 g/L, MCV 71 fL, MCHC 290 g/L) kèm theo bằng chứng cạn kiệt sắt dự trữ (Sắt huyết thanh giảm, Ferritin rất thấp < 12 ng/mL, độ bão hòa transferrin giảm). Bệnh cảnh rong kinh là nguyên nhân mất máu mạn tính rất điển hình gây thiếu sắt. Chẩn đoán thiếu máu thiếu sắt là phù hợp nhất."
+        },
+        {
+          "q": "Cơ chế chính gây ra các triệu chứng mệt mỏi, chóng mặt và da xanh ở bệnh nhân là gì?",
+          "options": [
+            "Giảm khả năng vận chuyển oxy của máu đến các mô",
+            "Giảm thể tích tuần hoàn do mất máu mạn tính",
+            "Tăng phá hủy hồng cầu tại lách",
+            "Suy giảm chức năng tổng hợp globin của tủy xương"
+          ],
+          "answer": 0,
+          "explain": "Cơ chế cốt lõi của thiếu máu là giảm nồng độ hemoglobin, protein chính vận chuyển oxy trong máu. Khi hemoglobin giảm, khả năng cung cấp oxy cho các mô (não, cơ...) bị suy giảm, dẫn đến các triệu chứng mệt mỏi, khó gắng sức, chóng mặt (thiếu oxy não), và da niêm mạc nhợt nhạt do giảm sắc tố đỏ của máu."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây có giá trị nhất để xác định nguyên nhân thiếu máu của bệnh nhân?",
+          "options": [
+            "Điện di huyết sắc tố",
+            "Nghiệm pháp Coombs trực tiếp",
+            "Tủy đồ",
+            "Nội soi tử cung-buồng trứng"
+          ],
+          "answer": 3,
+          "explain": "Nguyên nhân gây thiếu máu thiếu sắt ở đây rõ ràng là do rong kinh. Việc nội soi tử cung-buồng trứng hoặc siêu âm phụ khoa sẽ giúp xác định nguyên nhân cụ thể của rong kinh (u xơ tử cung, polyp...) để có hướng điều trị triệt để, tránh tái phát thiếu máu. Các xét nghiệm khác không phù hợp với bệnh cảnh này."
+        },
+        {
+          "q": "Mục tiêu điều trị chính trong giai đoạn đầu cho bệnh nhân này là gì?",
+          "options": [
+            "Nâng hemoglobin lên mức > 120 g/L ngay lập tức",
+            "Bù đắp lại lượng sắt dự trữ của cơ thể",
+            "Tìm và loại bỏ khối u ác tính",
+            "Truyền khối hồng cầu để cải thiện triệu chứng"
+          ],
+          "answer": 1,
+          "explain": "Trong thiếu máu thiếu sắt, mục tiêu không chỉ là nâng Hb (cải thiện triệu chứng) mà quan trọng hơn là phải phục hồi kho dự trữ sắt của cơ thể (đánh giá qua Ferritin). Nếu chỉ nâng Hb mà không bù đủ sắt dự trữ, bệnh sẽ nhanh chóng tái phát khi ngừng điều trị. Mục tiêu Ferritin thường là > 50 ng/mL."
+        },
+        {
+          "q": "Lựa chọn điều trị đầu tay phù hợp nhất cho bệnh nhân này?",
+          "options": [
+            "Truyền 2 đơn vị khối hồng cầu",
+            "Bổ sung sắt đường uống (sắt sulfat) và điều trị nguyên nhân rong kinh",
+            "Tiêm Erythropoietin (EPO) dưới da hàng tuần",
+            "Bổ sung Vitamin B12 và acid folic đường uống"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân huyết động ổn định, mức độ thiếu máu trung bình (Hb > 80 g/L), do đó ưu tiên điều trị là bổ sung sắt đường uống và giải quyết nguyên nhân gốc rễ là rong kinh. Truyền máu chỉ được chỉ định khi thiếu máu nặng (Hb < 70 g/L), huyết động không ổn định, hoặc có triệu chứng thiếu oxy cơ quan nặng. EPO dùng trong thiếu máu do suy thận, B12/folic dùng cho thiếu máu hồng cầu to."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi, về hưu, tê bì hai chân 6 tháng kèm rối loạn nhận thức",
+      "body": "Bệnh nhân nam 68 tuổi, về hưu, vào viện vì đi lại yếu và tê bì hai chân tăng dần trong 6 tháng. Bệnh nhân cảm thấy mệt mỏi, ăn uống kém, sụt 4 kg. Gần đây, ông hay quên và khó diễn đạt suy nghĩ.<br><b>Tiền sử:</b> Bị viêm teo dạ dày mạn tính phát hiện qua nội soi 5 năm trước nhưng không theo dõi. Ông không hút thuốc, không uống rượu, không đi ngoài phân đen.<br><b>Khám lâm sàng:</b> Ý thức tỉnh, tiếp xúc chậm, da niêm mạc nhợt nhẹ, có vàng da nhẹ ở củng mạc mắt, lưỡi đỏ, mất gai. Sinh hiệu ổn: Mạch 80 lần/phút, HA 120/70 mmHg, SpO₂ 98%. Khám thần kinh có dấu hiệu Romberg (+), giảm cảm giác rung âm thoa ở hai chi dưới. Gan lách không to.<br><b>Cận lâm sàng:</b> Hb 95 g/L, MCV 115 fL, Số lượng hồng cầu lưới 0.5%, Bạch cầu 3.8 G/L, Tiểu cầu 130 G/L. Phết máu ngoại vi thấy hồng cầu to, hình bầu dục, có một số bạch cầu đa nhân trung tính tăng đoạn và ghi nhận các mảnh vỡ hồng cầu. Bilirubin toàn phần 28 µmol/L (gián tiếp chiếm ưu thế), LDH 650 U/L. Nồng độ Vitamin B12 trong huyết thanh 90 pg/mL (mức bình thường > 200 pg/mL).",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào giải thích toàn diện nhất các biểu hiện của bệnh nhân?",
+          "options": [
+            "Thiếu máu do thiếu acid folic",
+            "Thiếu máu do tan máu tự miễn",
+            "Thiếu máu ác tính (thiếu Vitamin B12)",
+            "Hội chứng rối loạn sinh tủy"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh lâm sàng rất điển hình của thiếu Vitamin B12: thiếu máu hồng cầu to (MCV 115 fL), giảm 3 dòng tế bào máu mức độ nhẹ, triệu chứng thần kinh (tê bì, thất điều, suy giảm nhận thức), viêm lưỡi teo. Xét nghiệm nồng độ Vitamin B12 giảm nặng đã xác định chẩn đoán. Tiền sử viêm teo dạ dày là yếu tố nguy cơ chính do giảm tiết yếu tố nội tại, cần thiết cho việc hấp thu B12."
+        },
+        {
+          "q": "Cơ chế nào giải thích rõ nhất các triệu chứng thần kinh (tê bì, thất điều) ở bệnh nhân này?",
+          "options": [
+            "Thiếu oxy não mạn tính do thiếu máu",
+            "Sự phá hủy vỏ myelin của các sợi thần kinh do thiếu hụt Vitamin B12",
+            "Tích tụ bilirubin gián tiếp gây độc thần kinh",
+            "Chèn ép rễ thần kinh do biến đổi cột sống"
+          ],
+          "answer": 1,
+          "explain": "Vitamin B12 đóng vai trò then chốt trong quá trình tổng hợp và duy trì vỏ myelin, bao bọc các sợi trục thần kinh. Khi thiếu B12, quá trình này bị gián đoạn, dẫn đến thoái hóa myelin ở cả hệ thần kinh trung ương (tủy sống) và ngoại biên, gây ra các triệu chứng cảm giác (tê bì), vận động (yếu), và thăng bằng (thất điều)."
+        },
+        {
+          "q": "Kết quả xét nghiệm nào sau đây là hệ quả trực tiếp của tình trạng sinh máu không hiệu quả trong tủy xương?",
+          "options": [
+            "Tăng LDH và bilirubin gián tiếp",
+            "Giảm số lượng hồng cầu lưới",
+            "Giảm số lượng tiểu cầu",
+            "Tăng MCV"
+          ],
+          "answer": 0,
+          "explain": "Trong thiếu B12, tủy xương tăng sinh mạnh nhưng các tế bào tiền thân của hồng cầu bị chết sớm trước khi trưởng thành (sinh máu không hiệu quả) do rối loạn tổng hợp DNA. Sự phá hủy hàng loạt các tế bào này trong tủy xương giải phóng một lượng lớn enzyme LDH và bilirubin (sản phẩm thoái giáng của Hem), dẫn đến tăng LDH và bilirubin gián tiếp trong máu."
+        },
+        {
+          "q": "Chỉ định điều trị nào là cấp thiết và phù hợp nhất cho bệnh nhân?",
+          "options": [
+            "Truyền 1 đơn vị khối hồng cầu",
+            "Bổ sung acid folic đường uống 5 mg/ngày",
+            "Tiêm bắp Vitamin B12 (hydroxocobalamin) 1000 µg/ngày trong tuần đầu tiên",
+            "Nội soi dạ dày và sinh thiết ngay lập tức"
+          ],
+          "answer": 2,
+          "explain": "Điều trị thiếu Vitamin B12 có triệu chứng thần kinh phải được bắt đầu ngay lập tức bằng đường tiêm để nhanh chóng đưa B12 vào cơ thể mà không phụ thuộc vào đường tiêu hóa (vốn đang bị tổn thương). Phác đồ khởi đầu thường là tiêm bắp liều cao hàng ngày, sau đó duy trì hàng tuần và hàng tháng."
+        },
+        {
+          "q": "Tại sao việc bổ sung đơn độc acid folic mà không kèm Vitamin B12 lại nguy hiểm ở bệnh nhân này?",
+          "options": [
+            "Gây ra phản ứng dị ứng nghiêm trọng",
+            "Làm nặng thêm tình trạng thiếu máu",
+            "Có thể cải thiện tình trạng huyết học nhưng làm tổn thương thần kinh tiến triển không hồi phục",
+            "Gây quá tải sắt cấp tính"
+          ],
+          "answer": 2,
+          "explain": "Acid folic và Vitamin B12 đều tham gia vào quá trình tổng hợp DNA. Nếu chỉ bổ sung acid folic, nó có thể 'đánh lừa' cơ thể tạm thời khắc phục được quá trình tổng hợp DNA của hồng cầu, làm cải thiện các chỉ số huyết học. Tuy nhiên, việc này không giải quyết được tình trạng thiếu B12, vốn là nguyên nhân gây tổn thương thần kinh. Điều này sẽ che dấu chẩn đoán, trong khi các tổn thương thần kinh tiếp tục tiến triển âm thầm đến giai đoạn không hồi phục."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 62 tuổi, nông dân, đái tháo đường 10 năm, mệt mỏi và phù 4 tháng",
+      "body": "Bệnh nhân nữ 62 tuổi, làm nông, có tiền sử đái tháo đường type 2 10 năm và tăng huyết áp 8 năm, đang điều trị đều với metformin 1000 mg/ngày và perindopril 5 mg/ngày. Bệnh nhân nhập viện vì mệt mỏi, phù nhẹ hai chân và chán ăn. Tình trạng này đã kéo dài khoảng 4 tháng nhưng gần đây nặng hơn. Bệnh nhân không sốt, không khó thở, nước tiểu không có màu bất thường.<br><b>Khám lâm sàng:</b> Tỉnh táo, da niêm mạc nhợt, có phù mềm, ấn lõm ở mắt cá chân hai bên. Sinh hiệu: HA 150/90 mmHg, Mạch 85 lần/phút, Nhiệt độ 37.1°C, SpO₂ 97%. Tim đều, phổi không ran.<br><b>Cận lâm sàng:</b> Hb 88 g/L, MCV 92 fL, MCHC 330 g/L, hồng cầu lưới 1.0%. Creatinin huyết thanh 250 µmol/L, ure 15 mmol/L, Kali 5.2 mmol/L. Ước tính mức lọc cầu thận (eGFR) là 25 ml/phút/1.73m². Xét nghiệm sắt huyết thanh, ferritin, vitamin B12 và acid folic trong giới hạn bình thường. Tổng phân tích nước tiểu có protein niệu (+).",
+      "questions": [
+        {
+          "q": "Nguyên nhân gây thiếu máu khả năng cao nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Tác dụng phụ của metformin",
+            "Thiếu máu do suy thận mạn",
+            "Mất máu qua đường tiêu hóa do tăng huyết áp",
+            "Thiếu máu tan máu"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có bệnh thận mạn giai đoạn 4 (eGFR 25 ml/phút/1.73m²) do biến chứng của đái tháo đường và tăng huyết áp. Thiếu máu đẳng bào đẳng sắc (MCV 92 fL) là biểu hiện rất thường gặp ở giai đoạn này. Các nguyên nhân khác như thiếu sắt, B12, folic đã được loại trừ. Metformin có thể gây thiếu B12 nhưng ở đây B12 bình thường."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây ra tình trạng thiếu máu ở bệnh nhân này là?",
+          "options": [
+            "Giảm sản xuất erythropoietin (EPO) tại thận",
+            "Tủy xương bị ức chế do độc tố ure máu cao",
+            "Giảm đời sống hồng cầu trong môi trường ure máu cao",
+            "Tất cả các cơ chế trên"
+          ],
+          "answer": 3,
+          "explain": "Thiếu máu trong suy thận mạn là đa cơ chế. Cơ chế chính và sớm nhất là do các tế bào cạnh cầu thận bị xơ hóa, làm giảm sản xuất EPO - hormone thiết yếu kích thích tủy xương sinh hồng cầu. Ngoài ra, môi trường ure máu cao làm giảm đời sống hồng cầu và ức chế khả năng đáp ứng của tủy xương với EPO. Do đó, cả ba cơ chế đều đóng góp vào bệnh cảnh."
+        },
+        {
+          "q": "Hướng xử trí ban đầu nào là phù hợp nhất để điều trị thiếu máu cho bệnh nhân?",
+          "options": [
+            "Ngừng metformin và perindopril",
+            "Bổ sung sắt đường uống liều cao",
+            "Bắt đầu liệu pháp thay thế bằng Erythropoietin (ESA) tiêm dưới da",
+            "Lọc máu cấp cứu"
+          ],
+          "answer": 2,
+          "explain": "Khi thiếu máu do suy thận mạn có triệu chứng và Hb < 100 g/L, sau khi đã đảm bảo đủ dự trữ sắt (ferritin, TSAT), chỉ định điều trị bằng các tác nhân kích thích sinh hồng cầu (ErythropoiesisStimulating Agents - ESA) như EPO là lựa chọn đầu tay. Bổ sung sắt không hiệu quả vì nguyên nhân không phải do thiếu sắt. Lọc máu chưa cần thiết ở giai đoạn này nếu không có biến chứng cấp tính."
+        },
+        {
+          "q": "Mục tiêu hemoglobin (Hb) cần đạt được khi điều trị bằng ESA cho bệnh nhân này là bao nhiêu để tối ưu hóa lợi ích và giảm thiểu nguy cơ?",
+          "options": [
+            "90 – 100 g/L",
+            "100 – 115 g/L",
+            "120 – 130 g/L",
+            "> 130 g/L"
+          ],
+          "answer": 1,
+          "explain": "Các guideline (ví dụ: KDIGO) khuyến cáo mục tiêu Hb khi điều trị bằng ESA cho bệnh nhân suy thận mạn là trong khoảng 100 – 115 g/L. Việc duy trì Hb ở mức cao hơn (>130 g/L) không làm tăng thêm lợi ích mà còn làm tăng nguy cơ các biến cố tim mạch và huyết khối, đặc biệt là đột quỵ."
+        },
+        {
+          "q": "Ngoài việc điều trị thiếu máu, biện pháp nào sau đây quan trọng nhất để làm chậm tiến triển bệnh thận của bệnh nhân?",
+          "options": [
+            "Tăng liều metformin",
+            "Kiểm soát chặt chẽ huyết áp và đường huyết",
+            "Hạn chế hoàn toàn protein trong chế độ ăn",
+            "Sử dụng thuốc lợi tiểu quai liều cao"
+          ],
+          "answer": 1,
+          "explain": "Nền tảng của việc quản lý bệnh thận mạn do đái tháo đường là kiểm soát chặt chẽ các yếu tố thúc đẩy bệnh tiến triển, bao gồm huyết áp (mục tiêu thường < 130/80 mmHg) và đường huyết (mục tiêu HbA1c thường quanh 7.0%). Việc này giúp bảo tồn chức năng thận còn lại và làm chậm quá trình xơ hóa cầu thận."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi, tiền sử loét dạ dày, đi ngoài phân đen 3 ngày kèm hoa mắt",
+      "body": "Bệnh nhân nam 70 tuổi, tiền sử loét dạ dày và thoái hóa khớp gối, thường xuyên tự ý dùng thuốc giảm đau không rõ loại. Ông nhập viện vì đi ngoài phân đen, sệt như bã cà phê 3 ngày nay, kèm theo hoa mắt, chóng mặt và mệt lả. Sáng nay bệnh nhân thấy khó thở khi đi lại trong nhà. Ông không đau bụng, không nôn.<br><b>Khám lâm sàng:</b> Ý thức tỉnh, lơ mơ, da niêm mạc rất nhợt, vã mồ hôi, chân tay lạnh. Sinh hiệu: Mạch 120 lần/phút, nhỏ, khó bắt; Huyết áp 80/50 mmHg; Nhịp thở 24 lần/phút; SpO₂ 94% khí trời. Bụng mềm, ấn không đau. Thăm trực tràng có phân đen theo găng.<br><b>Cận lâm sàng tại phòng cấp cứu:</b> Hb 65 g/L, MCV 85 fL. Urê máu 12 mmol/L, Creatinin 110 µmol/L. Nhóm máu O, Rh+.",
+      "questions": [
+        {
+          "q": "Tình trạng của bệnh nhân được chẩn đoán là gì?",
+          "options": [
+            "Thiếu máu thiếu sắt mạn tính",
+            "Sốc mất máu do xuất huyết tiêu hóa cao",
+            "Đợt cấp suy thận mạn",
+            "Nhồi máu cơ tim cấp"
+          ],
+          "answer": 1,
+          "explain": "Sự sụt giảm Hb đột ngột từ 135 g/L xuống 85 g/L, cùng với bệnh cảnh lâm sàng nôn máu và đi ngoài phân đen, huyết động không ổn định là bằng chứng rõ ràng của một tình trạng mất máu cấp tính, cụ thể là xuất huyết tiêu hóa cao."
+        },
+        {
+          "q": "Cơ chế chính gây ra tình trạng tụt huyết áp và mạch nhanh ở bệnh nhân này là gì?",
+          "options": [
+            "Phản ứng viêm hệ thống do nhiễm khuẩn",
+            "Giảm khối lượng tuần hoàn hiệu quả do mất máu cấp",
+            "Giảm sức co bóp cơ tim do thiếu oxy",
+            "Dị ứng với thuốc giảm đau"
+          ],
+          "answer": 1,
+          "explain": "Mất một lượng máu lớn trong thời gian ngắn làm giảm đột ngột thể tích máu trong lòng mạch. Để bù trừ, hệ thần kinh giao cảm được kích hoạt, gây co mạch ngoại vi (tay chân lạnh) và tăng nhịp tim (mạch nhanh) nhằm cố gắng duy trì tưới máu cho các cơ quan quan trọng. Khi lượng máu mất quá nhiều, cơ chế bù trừ thất bại, dẫn đến tụt huyết áp (sốc)."
+        },
+        {
+          "q": "Can thiệp nào sau đây cần được thực hiện ngay lập tức, song song với nhau?",
+          "options": [
+            "Đặt sonde dạ dày và rửa dạ dày",
+            "Hồi sức tuần hoàn bằng truyền dịch, truyền máu và nội soi dạ dày cấp cứu",
+            "Chụp CT scan bụng có cản quang",
+            "Cho bệnh nhân uống thuốc ức chế bơm proton (PPI) liều cao và theo dõi"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc xử trí sốc mất máu là 'ABC' và song song. Phải hồi sức tuần hoàn ngay lập tức (đặt 2 đường truyền tĩnh mạch lớn, truyền dịch tinh thể, truyền khối hồng cầu khẩn cấp) để ổn định huyết động. Đồng thời, phải tiến hành nội soi dạ dày cấp cứu để xác định vị trí chảy máu và can thiệp cầm máu (kẹp clip, tiêm cầm máu, đốt điện). Các biện pháp khác là thứ yếu hoặc thực hiện sau."
+        },
+        {
+          "q": "Tại sao chỉ số Urê máu của bệnh nhân này tăng cao trong khi Creatinin gần như bình thường?",
+          "options": [
+            "Bệnh nhân có suy thận cấp trước thận",
+            "Máu trong lòng ống tiêu hóa bị phân hủy thành protein, sau đó được hấp thu và chuyển hóa thành urê tại gan",
+            "Cả A và B đều đúng",
+            "Đây là một kết quả xét nghiệm sai"
+          ],
+          "answer": 2,
+          "explain": "Urê máu tăng không tương xứng với creatinin là một dấu hiệu có giá trị gợi ý xuất huyết tiêu hóa cao. Có hai cơ chế đồng thời: (1) Giảm thể tích tuần hoàn gây giảm tưới máu thận (suy thận trước thận), làm tăng tái hấp thu urê ở ống thận. (2) Máu trong ruột non là một 'bữa ăn giàu protein', được vi khuẩn đường ruột phân hủy, giải phóng amoniac, sau đó được hấp thu và chuyển hóa thành urê tại gan."
+        },
+        {
+          "q": "Ngưỡng hemoglobin (Hb) mục tiêu sau khi truyền máu cho bệnh nhân xuất huyết tiêu hóa không do tăng áp lực tĩnh mạch cửa, có bệnh lý tim mạch nền là bao nhiêu?",
+          "options": [
+            "> 70 g/L",
+            "> 80 g/L",
+            "> 90 g/L",
+            "> 100 g/L"
+          ],
+          "answer": 1,
+          "explain": "Các guideline hiện nay khuyến cáo một chiến lược truyền máu hạn chế. Đối với hầu hết bệnh nhân xuất huyết tiêu hóa, mục tiêu Hb là > 70 g/L. Tuy nhiên, ở những bệnh nhân có bệnh tim mạch thiếu máu cục bộ (như bệnh mạch vành), một ngưỡng Hb cao hơn, > 80 g/L, được cân nhắc để đảm bảo đủ oxy cho cơ tim."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 35 tuổi, vàng da, mệt mỏi, nước tiểu sậm màu 1 tuần",
+      "body": "Bệnh nhân nữ 35 tuổi, đến khám vì vàng da, mệt mỏi và nước tiểu sậm màu như nước trà đậm từ 1 tuần nay. Bệnh nhân không sốt, không đau bụng, không dùng thuốc hay thảo dược gì lạ. Tiền sử khỏe mạnh.<br><b>Khám lâm sàng:</b> Da và củng mạc mắt vàng đậm, niêm mạc nhợt. Sinh hiệu ổn định. Bụng mềm, lách to độ II (mấp mé dưới bờ sườn.<br><b>Cận lâm sàng:</b> Hb 78 g/L, MCV 102 fL, Số lượng hồng cầu lưới 12% (tăng rất cao). Bilirubin toàn phần 85 µmol/L, chủ yếu là gián tiếp. LDH 900 U/L. Haptoglobin huyết thanh < 0.1 g/L (giảm nặng). Nghiệm pháp Coombs trực tiếp dương tính mạnh (+++) với anti-IgG.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất là gì?",
+          "options": [
+            "Viêm gan virus cấp",
+            "Tắc mật do sỏi",
+            "Thiếu máu tan máu tự miễn (AIHA) thể nóng",
+            "Bệnh lý hồng cầu di truyền (bệnh hồng cầu hình liềm)"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh tan máu cấp (thiếu máu, vàng da, nước tiểu sậm màu) được xác nhận bởi các xét nghiệm: tăng sản phẩm giáng hóa (bilirubin gián tiếp, LDH), tăng đáp ứng tủy xương (hồng cầu lưới tăng cao), và bằng chứng tiêu thụ các yếu tố liên quan (haptoglobin giảm). Nghiệm pháp Coombs trực tiếp dương tính với anti-IgG khẳng định sự hiện diện của tự kháng thể trên bề mặt hồng cầu, là tiêu chuẩn vàng để chẩn đoán thiếu máu tan máu tự miễn (AIHA) thể nóng."
+        },
+        {
+          "q": "Cơ chế nào giải thích tình trạng lách to ở bệnh nhân này?",
+          "options": [
+            "Lách tăng cường sản xuất hồng cầu để bù trừ cho tình trạng thiếu máu",
+            "Tăng áp lực tĩnh mạch cửa thứ phát sau tan máu",
+            "Các đại thực bào ở lách tăng hoạt động để bắt giữ và phá hủy các hồng cầu bị gắn kháng thể",
+            "Ức chế dòng chảy của mật gây ứ đọng tại lách"
+          ],
+          "answer": 2,
+          "explain": "Trong AIHA thể nóng, các tự kháng thể (thường là IgG) bao bọc bề mặt hồng cầu. Những hồng cầu này khi đi qua lách sẽ bị các đại thực bào (có thụ thể Fc cho IgG) nhận diện, bắt giữ và phá hủy (tan máu ngoài mạch). Sự tăng cường hoạt động và số lượng của các đại thực bào này làm cho lách to ra."
+        },
+        {
+          "q": "Ý nghĩa của xét nghiệm haptoglobin giảm trong bệnh cảnh này là gì?",
+          "options": [
+            "Haptoglobin bị tiêu thụ khi gắn với hemoglobin tự do được giải phóng từ hồng cầu vỡ",
+            "Gan suy giảm chức năng tổng hợp haptoglobin",
+            "Haptoglobin bị mất qua đường niệu",
+            "Đây là một dấu hiệu của nhiễm trùng nặng"
+          ],
+          "answer": 0,
+          "explain": "Haptoglobin là một protein do gan sản xuất, có chức năng dọn dẹp hemoglobin tự do trong huyết tương. Khi hồng cầu vỡ hàng loạt (tan máu), hemoglobin được giải phóng ồ ạt. Haptoglobin sẽ gắn với hemoglobin này tạo thành phức hợp, phức hợp này nhanh chóng bị hệ liên võng nội mô loại bỏ khỏi tuần hoàn. Do tốc độ tiêu thụ vượt quá khả năng sản xuất của gan, nồng độ haptoglobin trong máu giảm mạnh, là một chỉ điểm rất nhạy của tan máu."
+        },
+        {
+          "q": "Điều trị đầu tay cho bệnh nhân này là gì?",
+          "options": [
+            "Truyền khối hồng cầu",
+            "Cắt lách cấp cứu",
+            "Prednisolone liều cao (1-2 mg/kg/ngày)",
+            "Rituximab"
+          ],
+          "answer": 2,
+          "explain": "Corticosteroid liều cao (ví dụ: Prednisolone 1-2 mg/kg/ngày) là liệu pháp đầu tay cho AIHA thể nóng. Thuốc có tác dụng ức chế sản xuất tự kháng thể và làm giảm khả năng của đại thực bào trong việc phá hủy hồng cầu. Rituximab (kháng thể đơn dòng chống CD20) là lựa chọn hàng hai. Cắt lách được cân nhắc nếu các liệu pháp thuốc thất bại. Truyền máu cần rất thận trọng vì nguy cơ phản ứng tan máu."
+        },
+        {
+          "q": "Chỉ số nào phản ánh chính xác nhất sự đáp ứng của tủy xương với tình trạng tan máu?",
+          "options": [
+            "Nồng độ hemoglobin",
+            "MCV",
+            "Số lượng hồng cầu lưới",
+            "Nồng độ bilirubin"
+          ],
+          "answer": 2,
+          "explain": "Số lượng hồng cầu lưới (reticulocyte) là chỉ số đo lường số lượng hồng cầu non vừa được tủy xương giải phóng ra máu ngoại vi. Trong bối cảnh tan máu, tủy xương khỏe mạnh sẽ tăng cường sản xuất để bù đắp. Do đó, số lượng hồng cầu lưới tăng cao (>2%) là bằng chứng cho thấy tủy xương đang đáp ứng tốt với tình trạng thiếu máu, và là một đặc điểm quan trọng của thiếu máu do nguyên nhân ngoại vi (mất máu, tan máu)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi, thợ xây, nghiện rượu 15 năm, mệt mỏi và da nhợt",
+      "body": "Bệnh nhân nam 45 tuổi, thợ xây, đến khám vì mệt mỏi và da niêm mạc nhợt. Ông có tiền sử nghiện rượu nặng (uống khoảng 500ml rượu gạo mỗi ngày trong 15 năm), chế độ ăn uống rất kém. Khám toàn thân không có gì đặc biệt ngoài da niêm mạc nhợt.<br><b>Cận lâm sàng:</b> Hb 90 g/L, MCV 112 fL. Sắt huyết thanh và ferritin bình thường. Nồng độ Vitamin B12 bình thường. Nồng độ folate trong hồng cầu 150 nmol/L (Bình thường: > 305 nmol/L).",
+      "questions": [
+        {
+          "q": "Nguyên nhân thiếu máu của bệnh nhân là gì?",
+          "options": [
+            "Thiếu máu do ngộ độc chì",
+            "Thiếu máu do thiếu Vitamin B12",
+            "Thiếu máu do thiếu folate",
+            "Thiếu máu do bệnh gan mạn tính"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có thiếu máu hồng cầu to (MCV 112 fL). Các nguyên nhân thường gặp khác như thiếu B12 đã được loại trừ. Nồng độ folate trong hồng cầu giảm nặng xác nhận chẩn đoán thiếu folate. Tiền sử nghiện rượu nặng và chế độ ăn kém là yếu tố nguy cơ kinh điển."
+        },
+        {
+          "q": "Cơ chế nào sau đây giải thích tại sao nghiện rượu lại gây ra tình trạng thiếu máu này?",
+          "options": [
+            "Rượu trực tiếp ức chế tủy xương",
+            "Rượu làm giảm hấp thu và tăng đào thải folate qua thận",
+            "Chế độ ăn uống kém ở người nghiện rượu thường thiếu các thực phẩm giàu folate",
+            "Cả B và C đều đúng"
+          ],
+          "answer": 3,
+          "explain": "Người nghiện rượu có nguy cơ cao bị thiếu folate qua nhiều cơ chế: chế độ ăn nghèo nàn, ít rau xanh; rượu cản trở quá trình hấp thu folate ở ruột non; và rượu cũng làm tăng đào thải folate qua nước tiểu. Do đó cả hai yếu tố chế độ ăn và tác động trực tiếp của rượu đều quan trọng."
+        },
+        {
+          "q": "Đặc điểm nào trên phết máu ngoại vi thường gặp trong loại thiếu máu này?",
+          "options": [
+            "Hồng cầu hình bia",
+            "Bạch cầu đa nhân trung tính tăng đoạn và hồng cầu to hình bầu dục",
+            "Hồng cầu hình cầu",
+            "Tế bào blast"
+          ],
+          "answer": 1,
+          "explain": "Thiếu folate và thiếu Vitamin B12 đều là nguyên nhân gây thiếu máu hồng cầu to do rối loạn tổng hợp DNA. Do đó, hình ảnh trên phết máu ngoại vi của chúng rất giống nhau, đặc trưng bởi sự hiện diện của các hồng cầu to, không đều (macro-ovalocytes) và các bạch cầu đa nhân trung tính có nhiều thùy hơn bình thường (> 5 thùy)."
+        },
+        {
+          "q": "Điều trị nào là phù hợp nhất cho bệnh nhân?",
+          "options": [
+            "Bổ sung sắt đường tiêm",
+            "Bổ sung acid folic đường uống và tư vấn cai rượu",
+            "Tiêm Vitamin B12 hàng tháng",
+            "Truyền khối tiểu cầu"
+          ],
+          "answer": 1,
+          "explain": "Điều trị cốt lõi là giải quyết nguyên nhân thiếu hụt. Bệnh nhân cần được bổ sung acid folic bằng đường uống (thường là 5 mg/ngày) và quan trọng nhất là phải được tư vấn và hỗ trợ để cai rượu, đồng thời cải thiện chế độ ăn uống để ngăn ngừa tái phát."
+        },
+        {
+          "q": "Loại thực phẩm nào sau đây là nguồn cung cấp folate dồi dào nhất?",
+          "options": [
+            "Thịt đỏ",
+            "Các loại rau lá xanh đậm (rau bina, bông cải xanh)",
+            "Sữa và các sản phẩm từ sữa",
+            "Hải sản"
+          ],
+          "answer": 1,
+          "explain": "Folate (Vitamin B9) có nguồn gốc từ chữ Latin 'folium' nghĩa là 'lá cây'. Nguồn thực phẩm giàu folate nhất chính là các loại rau có lá màu xanh đậm như rau bina (cải bó xôi), bông cải xanh, măng tây, cũng như các loại đậu và ngũ cốc được bổ sung folate."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 28 tuổi, khám sức khỏe định kỳ, hemoglobin bình thường nhưng hồng cầu nhỏ",
+      "body": "Bệnh nhân nữ 28 tuổi, không có triệu chứng gì, đi khám sức khỏe định kỳ trước khi kết hôn. Cô không có tiền sử bệnh tật đáng chú ý. Khám lâm sàng hoàn toàn bình thường, da niêm mạc hồng.<br><b>Cận lâm sàng:</b> Hb 110 g/L, Số lượng hồng cầu (RBC) 5.8 T/L (tăng nhẹ), MCV 65 fL, MCH 22 pg, RDW 13% (bình thường). Sắt huyết thanh, ferritin, TIBC đều trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Tình trạng huyết học của bệnh nhân gợi ý nhiều nhất đến bệnh lý nào?",
+          "options": [
+            "Thiếu máu thiếu sắt giai đoạn sớm",
+            "Thiếu máu do bệnh mạn tính",
+            "Thalassemia thể ẩn (dị hợp tử)",
+            "Mất máu rỉ rả qua đường tiêu hóa"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có tình trạng thiếu máu rất nhẹ (hoặc chỉ là giới hạn thấp của bình thường), nhưng đặc điểm nổi bật là hồng cầu rất nhỏ (MCV 65 fL) trong khi số lượng hồng cầu lại bình thường hoặc tăng (RBC 5.8 T/L). Tình trạng sắt bình thường giúp loại trừ thiếu máu thiếu sắt. Đây là hình ảnh rất điển hình của người mang gen Thalassemia (thể ẩn/dị hợp tử), thường là beta-thalassemia."
+        },
+        {
+          "q": "Cơ chế bệnh sinh cơ bản của bệnh lý này là gì?",
+          "options": [
+            "Thiếu hụt nguyên liệu sắt để tổng hợp nhân hem",
+            "Rối loạn tổng hợp một hoặc nhiều chuỗi globin của phân tử hemoglobin",
+            "Tự kháng thể tấn công và phá hủy màng hồng cầu",
+            "Suy giảm khả năng sản xuất của tủy xương"
+          ],
+          "answer": 1,
+          "explain": "Thalassemia là một nhóm bệnh di truyền đặc trưng bởi sự giảm hoặc mất khả năng tổng hợp một chuỗi globin (alpha hoặc beta). Sự mất cân bằng trong sản xuất chuỗi globin dẫn đến việc tạo ra các phân tử hemoglobin bất thường, hồng cầu nhỏ, nhược sắc, dễ vỡ và sinh máu không hiệu quả."
+        },
+        {
+          "q": "Chỉ số nào sau đây thường được dùng để phân biệt nhanh giữa thiếu máu thiếu sắt và Thalassemia thể ẩn?",
+          "options": [
+            "Chỉ số Mentzer (MCV/RBC)",
+            "Nồng độ hemoglobin (Hb)",
+            "Số lượng bạch cầu",
+            "Nồng độ CRP"
+          ],
+          "answer": 0,
+          "explain": "Chỉ số Mentzer, được tính bằng cách lấy MCV (fL) chia cho số lượng hồng cầu (T/L), là một công cụ sàng lọc hữu ích. Nếu chỉ số này < 13, nó gợi ý nhiều đến Thalassemia. Nếu > 13, nó gợi ý nhiều đến thiếu máu thiếu sắt. Trong trường hợp này, 65 / 5.8 ≈ 11.2, gợi ý mạnh mẽ đến Thalassemia."
+        },
+        {
+          "q": "Xét nghiệm nào là 'tiêu chuẩn vàng' để xác định chẩn đoán cho bệnh nhân này?",
+          "options": [
+            "Tủy đồ",
+            "Xét nghiệm gen di truyền",
+            "Siêu âm ổ bụng",
+            "Nội soi đại tràng"
+          ],
+          "answer": 1,
+          "explain": "Chẩn đoán xác định Thalassemia và các bệnh hemoglobin khác dựa trên phân tích hemoglobin (điện di) và đặc biệt là xét nghiệm gen để phát hiện các đột biến trên gen globin. Tủy đồ không cần thiết và không đặc hiệu."
+        },
+        {
+          "q": "Tư vấn nào là quan trọng nhất cho bệnh nhân và chồng sắp cưới của cô ấy?",
+          "options": [
+            "Bổ sung sắt liều cao hàng ngày",
+            "Tránh các hoạt động thể lực gắng sức",
+            "Sàng lọc bệnh Thalassemia cho chồng sắp cưới và tư vấn di truyền trước khi mang thai",
+            "Theo dõi công thức máu mỗi 3 tháng"
+          ],
+          "answer": 2,
+          "explain": "Vì Thalassemia là bệnh di truyền lặn trên nhiễm sắc thể thường, vấn đề quan trọng nhất là tư vấn di truyền. Nếu cả hai vợ chồng đều mang gen bệnh, có 25% nguy cơ con của họ sẽ mắc bệnh Thalassemia thể nặng (một bệnh lý rất nghiêm trọng). Do đó, việc sàng lọc cho người chồng và tư vấn các lựa chọn sinh sản là cực kỳ quan trọng. Bổ sung sắt cho bệnh nhân Thalassemia mà không có bằng chứng thiếu sắt có thể gây quá tải sắt."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 22 tuổi, sinh viên, sốt cao 5 ngày kèm xuất huyết dưới da và mệt lả",
+      "body": "Bệnh nhân nam 22 tuổi, sinh viên, vào viện vì sốt cao, đau họng và xuất hiện nhiều chấm xuất huyết dưới da ở cẳng tay và cẳng chân 5 ngày nay. Bệnh nhân cảm thấy rất mệt mỏi, da xanh xao. Khám thấy bệnh nhân tỉnh, vẻ mặt nhiễm độc. Có nhiều mảng xuất huyết trên da và niêm mạc miệng. Hạch cổ không to, gan lách không sờ thấy.<br><b>Cận lâm sàng:</b> Hb 70 g/L, Bạch cầu 1.2 G/L (Neutrophil 0.2 G/L), Tiểu cầu 15 G/L. Hồng cầu lưới 0.1%. Xét nghiệm đông máu cơ bản, chức năng gan thận, vitamin B12, folate đều bình thường.",
+      "questions": [
+        {
+          "q": "Tình trạng huyết học của bệnh nhân được gọi là gì?",
+          "options": [
+            "Giảm bạch cầu đơn thuần",
+            "Giảm tiểu cầu miễn dịch",
+            "Giảm ba dòng tế bào máu (pancytopenia)",
+            "Rối loạn sinh tủy"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có sự sụt giảm nghiêm trọng của cả ba dòng tế bào máu nguồn gốc từ tủy xương: dòng hồng cầu (Hb 70 g/L), dòng bạch cầu (BC 1.2 G/L, đặc biệt là bạch cầu hạt), và dòng tiểu cầu (TC 15 G/L). Tình trạng này được định nghĩa là giảm ba dòng tế bào máu (pancytopenia)."
+        },
+        {
+          "q": "Chẩn đoán nghi ngờ hàng đầu là gì?",
+          "options": [
+            "Lơ-xê-mi cấp (Leukemia cấp)",
+            "Suy tủy xương (Aplastic Anemia)",
+            "Sốt xuất huyết Dengue nặng",
+            "Cường lách"
+          ],
+          "answer": 1,
+          "explain": "Giảm ba dòng tế bào máu ở người trẻ với hồng cầu lưới rất thấp (chứng tỏ tủy xương không sản xuất) gợi ý mạnh đến một bệnh lý suy giảm sản xuất tại tủy. Trong đó, suy tủy xương và lơ-xê-mi cấp là hai chẩn đoán phân biệt quan trọng nhất. Tuy nhiên, việc không có tế bào blast ở máu ngoại vi (thường thấy trong lơ-xê-mi) và không có gan lách hạch to làm nghiêng về chẩn đoán suy tủy xương hơn."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính trong bệnh suy tủy xương vô căn là gì?",
+          "options": [
+            "Sự xâm lấn của các tế bào ác tính vào tủy xương",
+            "Thiếu hụt các yếu tố vi lượng cần thiết cho quá trình tạo máu",
+            "Tế bào lympho T tự phản ứng tấn công và phá hủy các tế bào gốc tạo máu",
+            "Sự phá hủy tế bào máu ở ngoại vi do lách to"
+          ],
+          "answer": 2,
+          "explain": "Cơ chế bệnh sinh của suy tủy xương vô căn (chiếm đa số các trường hợp) được cho là qua trung gian miễn dịch. Một yếu tố khởi phát nào đó (virus, thuốc...) kích hoạt các tế bào lympho T của chính bệnh nhân, khiến chúng nhận diện sai và tấn công, tiêu diệt các tế bào gốc tạo máu trong tủy xương, dẫn đến tủy xương trở nên trống rỗng và không sản xuất được tế bào máu."
+        },
+        {
+          "q": "Xét nghiệm nào là cần thiết và có tính quyết định để xác định chẩn đoán?",
+          "options": [
+            "Sinh thiết tủy xương",
+            "Chọc dò tủy sống",
+            "Xét nghiệm tìm kháng thể kháng nhân (ANA)",
+            "Cấy máu"
+          ],
+          "answer": 0,
+          "explain": "Tiêu chuẩn vàng để chẩn đoán xác định suy tủy xương là sinh thiết tủy xương. Kết quả sẽ cho thấy một hình ảnh 'tủy nghèo tế bào' hay 'tủy mỡ hóa', tức là các khoang sinh máu bình thường được thay thế bằng các tế bào mỡ, với rất ít tế bào gốc tạo máu. Xét nghiệm này cũng giúp loại trừ các nguyên nhân khác như lơ-xê-mi hay ung thư di căn tủy."
+        },
+        {
+          "q": "Biến chứng nào là nguy hiểm và đe dọa tính mạng bệnh nhân nhất trong giai đoạn này?",
+          "options": [
+            "Thiếu máu nặng gây suy tim",
+            "Nhiễm trùng huyết do giảm bạch cầu hạt nặng",
+            "Xuất huyết não do giảm tiểu cầu nặng",
+            "Cả B và C đều đúng"
+          ],
+          "answer": 3,
+          "explain": "Với số lượng bạch cầu hạt gần như bằng không (0.2 G/L) và tiểu cầu rất thấp (15 G/L), bệnh nhân đang đối mặt với hai nguy cơ tử vong chính: (1) Nhiễm trùng nặng, nhiễm trùng huyết do không còn hàng rào miễn dịch bạch cầu hạt. (2) Chảy máu nghiêm trọng, đặc biệt là chảy máu ở các cơ quan trọng yếu như não hoặc đường tiêu hóa. Cả hai biến chứng này đều cần được xử trí và dự phòng khẩn cấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 75 tuổi, sống một mình, viêm khớp dạng thấp 15 năm, mệt mỏi dần",
+      "body": "Bệnh nhân nữ 75 tuổi, sống một mình, vào viện vì thấy mệt mỏi và da ngày càng xanh xao. Cô có tiền sử viêm khớp dạng thấp 15 năm, đang điều trị không thường xuyên với methotrexate và thỉnh thoảng dùng corticoid. Khám thấy da niêm mạc nhợt, không vàng da, không xuất huyết. Có biến dạng khớp bàn ngón tay hai bên. Gan lách không to.<br><b>Cận lâm sàng:</b> Hb 92 g/L, MCV 88 fL, MCHC 325 g/L. Số lượng hồng cầu lưới 1%. Sắt huyết thanh 6 µmol/L (giảm), Ferritin 150 ng/mL (tăng), TIBC 35 µmol/L (giảm). CRP 45 mg/L (tăng).",
+      "questions": [
+        {
+          "q": "Chẩn đoán thiếu máu của bệnh nhân là gì?",
+          "options": [
+            "Thiếu máu thiếu sắt",
+            "Thiếu máu trong bệnh mạn tính",
+            "Thiếu máu tan máu",
+            "Tác dụng phụ của methotrexate"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có thiếu máu đẳng bào (MCV 88 fL) trên nền một bệnh viêm mạn tính (viêm khớp dạng thấp). Bảng xét nghiệm sắt rất điển hình cho thiếu máu trong bệnh mạn tính: Sắt huyết thanh giảm nhưng dự trữ sắt (Ferritin) lại bình thường hoặc tăng, và khả năng gắn sắt toàn phần (TIBC) giảm. Điều này cho thấy sắt có đủ trong cơ thể nhưng không được huy động để tạo hồng cầu."
+        },
+        {
+          "q": "Cơ chế nào sau đây đóng vai trò trung tâm trong sinh lý bệnh của loại thiếu máu này?",
+          "options": [
+            "Giảm sản xuất erythropoietin",
+            "Tăng sản xuất hepcidin ở gan do các cytokine gây viêm",
+            "Mất máu mạn tính qua đường tiêu hóa",
+            "Thiếu hụt vitamin B12 do bệnh tự miễn"
+          ],
+          "answer": 1,
+          "explain": "Trong các bệnh viêm mạn tính, các cytokine gây viêm (đặc biệt là IL-6) kích thích gan tăng sản xuất hepcidin. Hepcidin là hormone chủ chốt điều hòa chuyển hóa sắt. Khi nồng độ hepcidin tăng cao, nó sẽ khóa kênh vận chuyển sắt (ferroportin) trên bề mặt đại thực bào và tế bào niêm mạc ruột, dẫn đến sắt bị 'giam giữ' trong kho dự trữ và không thể được tái sử dụng để sản xuất hồng cầu, gây ra thiếu máu."
+        },
+        {
+          "q": "Đặc điểm nào của xét nghiệm sắt giúp phân biệt rõ nhất giữa thiếu máu thiếu sắt và thiếu máu trong bệnh mạn tính?",
+          "options": [
+            "Nồng độ sắt huyết thanh",
+            "Nồng độ Ferritin",
+            "Độ bão hòa transferrin",
+            "Nồng độ TIBC"
+          ],
+          "answer": 1,
+          "explain": "Ferritin là chỉ số quan trọng nhất. Trong thiếu máu thiếu sắt, cơ thể cạn kiệt sắt nên Ferritin (phản ánh kho dự trữ sắt) sẽ rất thấp (< 30 ng/mL). Ngược lại, trong thiếu máu bệnh mạn tính, sắt bị giữ lại trong đại thực bào, nên Ferritin sẽ bình thường hoặc tăng (do Ferritin cũng là một protein phản ứng pha cấp)."
+        },
+        {
+          "q": "Hướng điều trị thiếu máu hiệu quả nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Bổ sung sắt liều cao đường uống",
+            "Truyền khối hồng cầu hàng tháng",
+            "Kiểm soát tốt tình trạng viêm của bệnh nền (viêm khớp dạng thấp)",
+            "Tiêm Vitamin B12 và acid folic"
+          ],
+          "answer": 2,
+          "explain": "Điều trị cơ bản của thiếu máu trong bệnh mạn tính là điều trị bệnh nền. Khi tình trạng viêm được kiểm soát tốt (ví dụ, dùng các thuốc DMARDs hiệu quả cho viêm khớp dạng thấp), nồng độ hepcidin sẽ giảm, sắt sẽ được giải phóng và tình trạng thiếu máu sẽ cải thiện. Bổ sung sắt đường uống thường không hiệu quả vì sắt không được hấp thu. Truyền sắt tĩnh mạch có thể được cân nhắc trong một số trường hợp."
+        },
+        {
+          "q": "Hepcidin gây thiếu máu thông qua cơ chế nào?",
+          "options": [
+            "Ức chế trực tiếp tế bào gốc dòng hồng cầu tại tủy xương",
+            "Tăng cường sự phá hủy hồng cầu tại lách",
+            "Ngăn chặn sự giải phóng sắt từ đại thực bào và giảm hấp thu sắt ở ruột",
+            "Gây tan máu nội mạch"
+          ],
+          "answer": 2,
+          "explain": "Hepcidin hoạt động bằng cách gắn vào và gây thoái giáng ferroportin - protein duy nhất có khả năng vận chuyển sắt ra khỏi tế bào. Bằng cách này, hepcidin (1) ngăn cản các đại thực bào (sau khi tiêu hóa hồng cầu già) giải phóng sắt trở lại tuần hoàn để tái sử dụng, và (2) ngăn cản tế bào niêm mạc tá tràng hấp thu sắt từ thức ăn vào máu. Kết quả là gây ra tình trạng 'thiếu sắt chức năng'."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi, đái tháo đường, sau can thiệp stent, đi ngoài phân đen 3 ngày",
+      "body": "Bệnh nhân nam 65 tuổi, tiền sử đái tháo đường type 2, nhập viện vì mệt và khó thở khi gắng sức. Bệnh nhân được chẩn đoán nhồi máu cơ tim cấp ST chênh lên thành trước, được can thiệp động mạch vành và đặt stent thành công. Sau can thiệp, bệnh nhân được điều trị với liệu pháp kháng tiểu cầu kép (aspirin, clopidogrel), statin, chẹn beta và ức chế men chuyển.<br><b>Công thức máu lúc nhập viện:</b> Hb 135 g/L. Ba ngày sau, bệnh nhân đột ngột đi ngoài phân đen, sệt và có một lần nôn ra máu đỏ tươi. Khám: da niêm mạc nhợt, vã mồ hôi. Mạch 110 l/p, HA 95/60 mmHg. <b>Công thức máu kiểm tra lại:</b> Hb 85 g/L.",
+      "questions": [
+        {
+          "q": "Nguyên nhân chính gây thiếu máu ở bệnh nhân này là gì?",
+          "options": [
+            "Chảy máu cấp tính từ đường tiêu hóa",
+            "Suy thận cấp do thuốc cản quang",
+            "Tan máu do thuốc",
+            "Suy tủy do tác dụng phụ của thuốc"
+          ],
+          "answer": 0,
+          "explain": "Sự sụt giảm Hb đột ngột từ 135 g/L xuống 85 g/L, cùng với bệnh cảnh lâm sàng nôn máu và đi ngoài phân đen, huyết động không ổn định là bằng chứng rõ ràng của một tình trạng mất máu cấp tính, cụ thể là xuất huyết tiêu hóa cao."
+        },
+        {
+          "q": "Yếu tố nào làm tăng nguy cơ chảy máu ở bệnh nhân này nhiều nhất?",
+          "options": [
+            "Tuổi cao",
+            "Bệnh đái tháo đường",
+            "Sử dụng liệu pháp kháng tiểu cầu kép",
+            "Tình trạng stress sau nhồi máu cơ tim"
+          ],
+          "answer": 2,
+          "explain": "Liệu pháp kháng tiểu cầu kép (aspirin + một thuốc ức chế P2Y12 như clopidogrel) là nền tảng trong điều trị hội chứng vành cấp, nhưng nó làm tăng đáng kể nguy cơ chảy máu, đặc biệt là chảy máu tiêu hóa, do ức chế mạnh chức năng ngưng tập của tiểu cầu."
+        },
+        {
+          "q": "Xử trí nào là ưu tiên hàng đầu ngay tại thời điểm này?",
+          "options": [
+            "Tạm ngừng ngay lập tức cả aspirin và clopidogrel",
+            "Truyền khối tiểu cầu",
+            "Hồi sức (truyền dịch, truyền máu nếu cần), dùng PPI tĩnh mạch và hội chẩn nội soi tiêu hóa khẩn",
+            "Bổ sung sắt đường uống"
+          ],
+          "answer": 2,
+          "explain": "Ưu tiên hàng đầu là ổn định bệnh nhân. Phải hồi sức chống sốc bằng truyền dịch và/hoặc truyền máu để nâng huyết áp. Đồng thời, dùng PPI đường tĩnh mạch liều cao để giảm tiết acid dạ dày và chuẩn bị cho nội soi tiêu hóa cấp cứu để chẩn đoán và cầm máu. Việc ngừng thuốc kháng tiểu cầu cần được cân nhắc rất kỹ lưỡng cùng bác sĩ tim mạch do nguy cơ huyết khối trong stent rất cao."
+        },
+        {
+          "q": "Cơ chế chính của tình trạng thiếu máu này là gì?",
+          "options": [
+            "Giảm sản xuất hồng cầu do tủy xương không đáp ứng",
+            "Mất khối lượng hồng cầu ra khỏi tuần hoàn một cách nhanh chóng",
+            "Tăng phá hủy hồng cầu trong lòng mạch",
+            "Pha loãng máu do truyền dịch quá nhiều"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế thiếu máu ở đây rất đơn giản là mất máu cấp. Máu (bao gồm hồng cầu) bị thoát ra khỏi lòng mạch với tốc độ nhanh hơn khả năng sản xuất bù trừ của tủy xương, dẫn đến giảm thể tích tuần hoàn và giảm nồng độ hemoglobin."
+        },
+        {
+          "q": "Về lâu dài, chiến lược nào giúp cân bằng giữa nguy cơ huyết khối và nguy cơ chảy máu cho bệnh nhân?",
+          "options": [
+            "Ngừng hoàn toàn thuốc kháng tiểu cầu",
+            "Dùng kháng tiểu cầu kép phối hợp với PPI dự phòng",
+            "Thay thế kháng tiểu cầu kép bằng thuốc chống đông đường uống",
+            "Chỉ dùng một mình aspirin"
+          ],
+          "answer": 1,
+          "explain": "Để giảm nguy cơ xuất huyết tiêu hóa do thuốc kháng tiểu cầu, các hướng dẫn khuyến cáo nên sử dụng đồng thời một thuốc ức chế bơm proton (PPI) để bảo vệ niêm mạc dạ dày, đặc biệt ở những bệnh nhân có nguy cơ cao (lớn tuổi, tiền sử loét, dùng nhiều thuốc...). Việc này giúp duy trì lợi ích phòng ngừa huyết khối của thuốc kháng tiểu cầu trong khi giảm thiểu biến cố chảy máu."
+        }
+      ]
+    }
+  ]
+}
