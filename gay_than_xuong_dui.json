@@ -1,0 +1,620 @@
+{
+  "name": "Gãy thân xương đùi",
+  "description": "Bộ case lâm sàng về gãy thân xương đùi với các tình huống khác nhau từ gãy đơn giản đến đa chấn thương, gãy bệnh lý, gãy hở, và các biến chứng",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Chấn thương",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 35 tuổi, công nhân xây dựng, ngã từ giàn giáo",
+      "body": "Bệnh nhân nam 35 tuổi, công nhân xây dựng, nhập viện giờ thứ 2 sau khi ngã từ giàn giáo cao 3m, đùi phải đập mạnh vào thanh sắt. Bệnh nhân tỉnh, kêu đau dữ dội vùng đùi phải, không khó thở. Tiền sử khỏe mạnh, hút thuốc 10 bao/năm.<br><br><b>Khám toàn thân:</b> Mạch 110 lần/phút, huyết áp 95/60 mmHg, SpO₂ 98%, da niêm mạc nhợt nhẹ.<br><br><b>Khám tại chỗ:</b> Đùi phải sưng nề lớn, biến dạng gập góc rõ rệt ở 1/3 giữa, ngắn chi 3cm, sờ thấy lạo xạo xương, mạch mu chân và chày sau bắt rõ, cảm giác bàn ngón chân bình thường. Bụng mềm, không có điểm đau khu trú.<br><br><b>X-quang tại giường:</b> Gãy chéo vát 1/3 giữa thân xương đùi phải, có mảnh rời nhỏ.<br><br><b>Xét nghiệm máu:</b> Hb 105 g/L, Hct 0.31, tiểu cầu 250 G/L, INR 1.1.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hiện tại phù hợp nhất là gì?",
+          "options": [
+            "Gãy kín 1/3 giữa xương đùi phải – Sốc chấn thương",
+            "Gãy kín 1/3 giữa xương đùi phải – Chưa có dấu hiệu sốc",
+            "Gãy hở 1/3 giữa xương đùi phải độ I – Sốc chấn thương",
+            "Chấn thương phần mềm đùi phải – Theo dõi chèn ép khoang"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có mạch nhanh (110), huyết áp tụt nhẹ (95/60), da nhợt → Có dấu hiệu sốc mất máu độ II (theo ATLS). X-quang xác định gãy xương (lạo xạo, biến dạng), và vì không có vết thương ngoài nên là gãy kín."
+        },
+        {
+          "q": "Theo phân loại Winquist-Hansen, dựa vào mô tả X-quang 'có mảnh rời nhỏ', tổn thương này có khả năng nhất thuộc độ mấy?",
+          "options": [
+            "Độ 0",
+            "Độ I hoặc II",
+            "Độ III",
+            "Độ IV"
+          ],
+          "answer": 1,
+          "explain": "Winquist I: mảnh rời nhỏ không đáng kể hoặc không có mảnh rời; Winquist II: mảnh rời <50% chu vi. Mô tả 'mảnh rời nhỏ' thường gợi ý độ I hoặc II."
+        },
+        {
+          "q": "Bước xử trí đầu tiên quan trọng nhất theo nguyên tắc ATLS là gì?",
+          "options": [
+            "Xuyên đinh kéo tạ ngay lập tức để bất động",
+            "Chụp CT scanner toàn thân tìm tổn thương phối hợp",
+            "Thiết lập 2 đường truyền tĩnh mạch lớn, bù dịch tinh thể ấm và giảm đau",
+            "Chuyển mổ kết hợp xương cấp cứu"
+          ],
+          "answer": 2,
+          "explain": "Theo ATLS, ưu tiên C (Circulation) sau A-B. Thiết lập đường truyền bù dịch chống sốc là tối quan trọng trước khi can thiệp chuyên khoa."
+        },
+        {
+          "q": "Phương pháp điều trị phẫu thuật tiêu chuẩn vàng (Gold standard) cho bệnh nhân này sau khi hồi sức ổn định là:",
+          "options": [
+            "Kết hợp xương bằng nẹp vít (Plate fixation)",
+            "Cố định ngoài (External fixation)",
+            "Đóng đinh nội tủy có chốt (Locked Intramedullary Nailing)",
+            "Bó bột Chậu – Lưng – Chân"
+          ],
+          "answer": 2,
+          "explain": "Đinh nội tủy có chốt (IM Nail) là tiêu chuẩn vàng cho gãy thân xương đùi người lớn (tỷ lệ liền xương cao, vận động sớm). Nẹp vít thường dùng cho gãy đầu xương hoặc gãy quanh khớp giả/nhân tạo."
+        },
+        {
+          "q": "Lượng máu mất trung bình dự kiến vào khoang đùi trong trường hợp gãy kín xương đùi ở người lớn là khoảng bao nhiêu?",
+          "options": [
+            "200 – 400 mL",
+            "500 – 1000 mL",
+            "1000 – 1500 mL",
+            "> 2000 mL"
+          ],
+          "answer": 1,
+          "explain": "Gãy kín xương đùi có thể gây mất 500 – 1000 mL máu (đôi khi tới 1.5L) vào khoang chứa cơ đùi, đủ để gây sốc giảm thể tích."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 22 tuổi, sinh viên, tai nạn xe máy đa chấn thương",
+      "body": "Bệnh nhân nữ 22 tuổi, sinh viên, được đưa vào cấp cứu sau tai nạn xe máy va chạm với ô tô tải. Bệnh nhân lơ mơ, GCS 10 điểm (E3V3M4), thở nhanh 30 lần/phút, SpO₂ 88% với khí phòng.<br><br><b>Khám lâm sàng:</b> Mạch 130 lần/phút, huyết áp 80/40 mmHg. Mảng sườn di động ngực trái, bụng chướng nhẹ, đùi phải biến dạng, sưng căng rất lớn.<br><br><b>Khí máu động mạch:</b> pH 7.20, Lactate 6.5 mmol/L, BE -10 mmol/L.<br><br><b>Siêu âm FAST:</b> Dương tính (+).<br><br><b>Chẩn đoán:</b> Đa chấn thương: Chấn thương sọ não / Chấn thương ngực kín / Chấn thương bụng kín / Gãy kín thân xương đùi phải.",
+      "questions": [
+        {
+          "q": "Tình trạng của bệnh nhân được xếp loại là:",
+          "options": [
+            "Ổn định (Stable)",
+            "Ổn định ranh giới (Borderline)",
+            "Không ổn định (Unstable)",
+            "Cận tử (Extremis)"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có tam chứng tử vong (toan chuyển hóa pH 7.2, khả năng rối loạn đông máu, sốc nặng Lactate 6.5) + đa chấn thương (sọ não, ngực, bụng). Đây là tình trạng KHÔNG ỔN ĐỊNH."
+        },
+        {
+          "q": "Chiến lược điều trị gãy xương đùi phù hợp nhất trong giai đoạn này là:",
+          "options": [
+            "Kết hợp xương nẹp vít ngay lập tức",
+            "Đóng đinh nội tủy có chốt (IM Nail) ngay lập tức (Early Total Care)",
+            "Kiểm soát thương tổn (Damage Control Orthopedics - DCO) bằng cố định ngoài",
+            "Kéo liên tục và chờ đợi 2 tuần"
+          ],
+          "answer": 2,
+          "explain": "Với bệnh nhân đa chấn thương không ổn định, phẫu thuật kéo dài (như đóng đinh nội tủy) làm tăng gánh nặng 'second hit' gây suy đa tạng. DCO (cố định ngoài nhanh gọn) là lựa chọn tối ưu."
+        },
+        {
+          "q": "Yếu tố nào sau đây KHÔNG phải là chỉ định của phẫu thuật DCO?",
+          "options": [
+            "pH < 7.24",
+            "Lactate > 2.5 mmol/L",
+            "Nhiệt độ < 35°C",
+            "Tiểu cầu > 150 G/L"
+          ],
+          "answer": 3,
+          "explain": "Các chỉ số gợi ý DCO: pH < 7.24, Nhiệt độ < 35°C, INR > 1.5, Lactate cao, Truyền máu khối lượng lớn. Tiểu cầu > 150 G/L là bình thường, không phải chỉ định DCO (Tiểu cầu thấp mới lo ngại)."
+        },
+        {
+          "q": "Nguy cơ biến chứng hô hấp nguy hiểm nào tăng cao nếu đóng đinh nội tủy thì đầu ở bệnh nhân này?",
+          "options": [
+            "Viêm phổi bệnh viện",
+            "ARDS và thuyên tắc mỡ",
+            "Tràn khí màng phổi tái phát",
+            "Hen phế quản"
+          ],
+          "answer": 1,
+          "explain": "Đóng đinh nội tủy (nhất là có ống tủy) làm tăng áp lực nội tủy, đẩy mỡ vào tuần hoàn, nguy cơ cao gây ARDS và thuyên tắc mỡ trên nền chấn thương ngực."
+        },
+        {
+          "q": "Sau khi tình trạng toàn thân ổn định (thường sau 5-7 ngày), bước tiếp theo là:",
+          "options": [
+            "Giữ nguyên cố định ngoài cho đến khi liền xương",
+            "Tháo cố định ngoài, bó bột",
+            "Chuyển đổi từ cố định ngoài sang đinh nội tủy (Conversion)",
+            "Tháo cố định ngoài, tập phục hồi chức năng không cần mổ lại"
+          ],
+          "answer": 2,
+          "explain": "Nguyên tắc DCO là cố định tạm thời → Hồi sức tích cực → Mổ kết hợp xương lần 2 (Conversion) khi 'cửa sổ sinh học' cho phép (thường ngày 5-10)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi, hưu trí, tiền sử K tiền liệt tuyến, ngã trong nhà tắm",
+      "body": "Bệnh nhân nam 70 tuổi, hưu trí, tiền sử đái tháo đường type 2, ung thư tuyến tiền liệt đã điều trị nội tiết 3 năm nay. Cách nhập viện 4 giờ, bệnh nhân trượt chân trong nhà tắm, ngã nhẹ đập mông và đùi trái xuống nền cứng. Sau ngã đau chói đùi trái, không đứng dậy được.<br><br><b>Khám:</b> Đùi trái biến dạng nhẹ, ấn đau chói 1/3 trên, vận động háng trái đau. Mạch 80 lần/phút, HA 130/80 mmHg.<br><br><b>X-quang:</b> Gãy chéo vát 1/3 trên xương đùi trái, vỏ xương mỏng, cấu trúc xương thưa, có hình ảnh tiêu xương dạng đặc (blastic lesion) lan tỏa vùng quanh ổ gãy.",
+      "questions": [
+        {
+          "q": "Chẩn đoán đầy đủ nhất cho bệnh nhân này là:",
+          "options": [
+            "Gãy xương đùi do loãng xương",
+            "Gãy xương bệnh lý nghi do di căn ung thư",
+            "Gãy xương đùi thông thường do tai nạn sinh hoạt",
+            "Viêm xương tủy xương mạn tính"
+          ],
+          "answer": 1,
+          "explain": "Tiền sử K tiền liệt tuyến + hình ảnh tiêu xương/đặc xương + gãy xương sau chấn thương nhẹ → Gãy xương bệnh lý (Pathological fracture) do di căn."
+        },
+        {
+          "q": "Cơ chế gãy xương ở bệnh nhân này được xếp loại là:",
+          "options": [
+            "Cơ chế năng lượng cao",
+            "Cơ chế năng lượng thấp trên nền xương yếu",
+            "Cơ chế gián tiếp do xoắn vặn",
+            "Gãy do mỏi (Stress fracture)"
+          ],
+          "answer": 1,
+          "explain": "Lực chấn thương nhẹ (ngã trong nhà) gây gãy xương là cơ chế năng lượng thấp."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây cần thiết nhất để đánh giá nguyên nhân gãy xương?",
+          "options": [
+            "Định lượng Calci, Phosphatase kiềm (ALP) và PSA máu",
+            "CRP và máu lắng",
+            "Axit Uric máu",
+            "Cortisol máu"
+          ],
+          "answer": 0,
+          "explain": "PSA (Prostate-Specific Antigen) để đánh giá K tiền liệt tuyến tái phát; ALP tăng trong hủy xương/tạo xương ác tính."
+        },
+        {
+          "q": "Phương pháp phẫu thuật tối ưu cho gãy xương bệnh lý vùng 1/3 trên/dưới mấu chuyển ở bệnh nhân này là:",
+          "options": [
+            "Kéo liên tục",
+            "Đóng đinh nội tủy có chốt (ưu tiên đinh Cephalo-medullary/PFN)",
+            "Nẹp vít đơn thuần",
+            "Bó bột"
+          ],
+          "answer": 1,
+          "explain": "Đinh nội tủy (đặc biệt là đinh chốt mấu chuyển - Cephalomedullary nail) giúp chịu lực toàn bộ chiều dài xương, cho phép bệnh nhân vận động sớm, bảo vệ toàn bộ xương khỏi gãy thêm. Nẹp vít dễ thất bại trên nền xương bệnh lý."
+        },
+        {
+          "q": "Mục tiêu điều trị chính ở bệnh nhân gãy xương bệnh lý ung thư giai đoạn cuối là gì?",
+          "options": [
+            "Liền xương hoàn toàn về giải phẫu",
+            "Giảm đau, chăm sóc giảm nhẹ, phục hồi vận động sớm nhất có thể",
+            "Phẫu thuật triệt căn cắt bỏ toàn bộ xương đùi",
+            "Xạ trị thay thế phẫu thuật"
+          ],
+          "answer": 1,
+          "explain": "Ở bệnh nhân ung thư di căn, mục tiêu là chất lượng cuộc sống: giảm đau và giúp ngồi dậy/đi lại được ngay (nursing care), không đặt nặng vấn đề liền xương hoàn hảo lâu dài."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 28 tuổi, lái xe tải, tai nạn giao thông, gãy 1/3 dưới đùi",
+      "body": "Bệnh nhân nam 28 tuổi, lái xe tải, vào viện vì đau đùi phải sau tai nạn giao thông (kẹt chân trong cabin). Bệnh nhân tỉnh, sinh hiệu ổn.<br><br><b>Khám:</b> Đùi phải sưng nề, ngắn chi, bàn chân phải đổ ngoài 15 độ. Không có vết thương hở. Mạch mu chân phải yếu hơn bên trái, nhưng chưa mất hẳn. Cảm giác tê bì nhẹ vùng mu chân phải, vận động gấp duỗi cổ chân bình thường (sức cơ 5/5).<br><br><b>X-quang:</b> Gãy 1/3 dưới xương đùi phải, đường gãy chéo xoắn, đầu dưới gãy gập ra sau (dạng recurvatum).",
+      "questions": [
+        {
+          "q": "Dựa vào giải phẫu bệnh, cơ nào chịu trách nhiệm chính kéo đầu dưới xương đùi gập ra sau trong gãy 1/3 dưới?",
+          "options": [
+            "Cơ tứ đầu đùi",
+            "Cơ thắt lưng chậu",
+            "Cơ bụng chân (Gastrocnemius)",
+            "Cơ khép lớn"
+          ],
+          "answer": 2,
+          "explain": "Trong gãy 1/3 dưới (trên lồi cầu), cơ bụng chân (Gastrocnemius) bám vào lồi cầu đùi sẽ co kéo làm đầu dưới gập ra sau (gây nguy hiểm cho bó mạch khoeo)."
+        },
+        {
+          "q": "Nguy cơ biến chứng mạch máu - thần kinh cao nhất ở vị trí gãy này liên quan đến cấu trúc nào?",
+          "options": [
+            "Động mạch đùi chung và thần kinh đùi",
+            "Động mạch khoeo và thần kinh hông to (thần kinh ngồi)",
+            "Động mạch chày sau",
+            "Thần kinh hiển"
+          ],
+          "answer": 1,
+          "explain": "Bó mạch khoeo nằm ngay phía sau đầu dưới xương đùi, bị đầu xương chọc vào khi gập góc ra sau."
+        },
+        {
+          "q": "Chỉ số ABI (Ankle-Brachial Index) đo được là 0.8. Thái độ xử trí phù hợp nhất?",
+          "options": [
+            "Mổ kết hợp xương ngay, không cần quan tâm mạch máu",
+            "Theo dõi sát, siêu âm Doppler mạch máu hoặc chụp CT mạch (CTA) nếu nghi ngờ",
+            "Mổ thám sát mạch máu ngay lập tức",
+            "Bất động bột và cho về"
+          ],
+          "answer": 1,
+          "explain": "ABI < 0.9 là bất thường. Dù mạch chưa mất hẳn nhưng yếu và ABI 0.8 gợi ý tổn thương lớp nội mạc hoặc chèn ép. Cần chẩn đoán hình ảnh mạch máu (CTA/Doppler) để xác định trước khi can thiệp xương."
+        },
+        {
+          "q": "Nếu cần xuyên đinh kéo tạ để bất động tạm thời cho vị trí gãy này, vị trí xuyên đinh an toàn và hiệu quả nhất là:",
+          "options": [
+            "Lồi cầu đùi",
+            "Đầu trên xương chày",
+            "Xương gót",
+            "Mấu chuyển lớn"
+          ],
+          "answer": 1,
+          "explain": "Với gãy 1/3 dưới thấp, xuyên đinh lồi cầu đùi dễ đưa vi khuẩn vào ổ gãy hoặc vướng víu khi mổ. Xuyên đinh đầu trên xương chày là lựa chọn tốt nhất để kéo nắn trục."
+        },
+        {
+          "q": "Trong phẫu thuật đóng đinh nội tủy cho gãy 1/3 dưới (gãy thấp), kỹ thuật nào giúp tăng độ vững?",
+          "options": [
+            "Chỉ chốt 1 vít ở đầu xa",
+            "Chốt tối thiểu 2 vít (đa chiều) ở đầu xa (Multi-planar locking)",
+            "Không cần chốt đầu xa",
+            "Dùng đinh đường kính nhỏ"
+          ],
+          "answer": 1,
+          "explain": "Gãy thấp 1/3 dưới có ống tủy rộng ('cái chuông'), đinh nội tủy dễ bị lỏng. Cần chốt tối thiểu 2 vít (thường là 3-4 vít) theo các hướng khác nhau để khóa vững."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi, đã được nẹp cố định, biến chứng thuyên tắc mỡ",
+      "body": "Bệnh nhân nam 40 tuổi, vào viện giờ thứ 24 sau tai nạn xe máy. Bệnh nhân đã được nẹp cố định đùi trái tại tuyến dưới và chuyển lên. Hiện tại bệnh nhân tỉnh táo nhưng bứt rứt, kích thích vật vã.<br><br><b>Khám:</b> Có các chấm xuất huyết (petechiae) ở kết mạc mắt, nách và vùng ngực trước. SpO₂ giảm còn 85% khi thở khí trời, nhịp thở 35 lần/phút.<br><br><b>X-quang phổi:</b> Hình ảnh thâm nhiễm lan tỏa 2 phế trường dạng 'bão tuyết'.<br><br><b>Xét nghiệm:</b> Tiểu cầu giảm nhẹ 120 G/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán biến chứng phù hợp nhất là gì?",
+          "options": [
+            "Sốc mất máu giai đoạn muộn",
+            "Chấn thương sọ não kín - Tụ máu dưới màng cứng",
+            "Hội chứng tắc mạch mỡ (Fat Embolism Syndrome - FES)",
+            "Viêm phổi do sặc"
+          ],
+          "answer": 2,
+          "explain": "Tam chứng cổ điển của FES: Suy hô hấp (SpO2 giảm, XQ bão tuyết) + Rối loạn tri giác (vật vã) + Ban xuất huyết (petechiae). Thời gian xuất hiện 24-72h sau gãy xương dài."
+        },
+        {
+          "q": "Theo tiêu chuẩn Gurd, dấu hiệu nào sau đây thuộc nhóm Tiêu chuẩn chính (Major criteria)?",
+          "options": [
+            "Sốt > 38.5°C",
+            "Nhịp tim nhanh > 120 l/p",
+            "Dấu hiệu thần kinh (lú lẫn, lơ mơ) và Ban xuất huyết",
+            "Giảm tiểu cầu"
+          ],
+          "answer": 2,
+          "explain": "Tiêu chuẩn Gurd chính: Suy hô hấp, Dấu hiệu thần kinh trung ương, Ban xuất huyết. (Sốt, mạch nhanh, giảm tiểu cầu là tiêu chuẩn phụ)."
+        },
+        {
+          "q": "Yếu tố nguy cơ cao gây hội chứng này bao gồm, TRỪ:",
+          "options": [
+            "Gãy xương dài (xương đùi) đóng kín",
+            "Đa chấn thương",
+            "Bất động xương gãy sớm và vững chắc",
+            "Vận chuyển bệnh nhân khi chưa cố định tốt"
+          ],
+          "answer": 2,
+          "explain": "Bất động xương gãy sớm (C) là yếu tố BẢO VỆ, làm GIẢM nguy cơ FES. Các phương án A, B, D làm tăng nguy cơ."
+        },
+        {
+          "q": "Xử trí quan trọng nhất đối với tình trạng hô hấp của bệnh nhân này là:",
+          "options": [
+            "Truyền Corticoid liều cao ngay lập tức",
+            "Hỗ trợ hô hấp (Oxy liệu pháp/CPAP/Đặt nội khí quản) để đảm bảo oxy máu",
+            "Dùng Heparin liều điều trị",
+            "Mổ kết hợp xương ngay để giải tỏa áp lực"
+          ],
+          "answer": 1,
+          "explain": "Điều trị FES chủ yếu là điều trị hỗ trợ (Supportive care). Quan trọng nhất là đảm bảo oxy (hô hấp hỗ trợ). Corticoid còn tranh cãi. Heparin không được khuyến cáo thường quy."
+        },
+        {
+          "q": "Tiên lượng của hội chứng này:",
+          "options": [
+            "Luôn luôn tử vong 100%",
+            "Thường tự thoái lui nếu được hỗ trợ hô hấp tốt, tỷ lệ tử vong khoảng 5-15%",
+            "Để lại di chứng thần kinh vĩnh viễn ở tất cả bệnh nhân",
+            "Không bao giờ tái phát"
+          ],
+          "answer": 1,
+          "explain": "FES là bệnh tự giới hạn (self-limiting). Nếu vượt qua giai đoạn cấp (suy hô hấp) nhờ hồi sức tốt, bệnh nhân thường hồi phục hoàn toàn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 30 tuổi, tai nạn ô tô, gãy thân xương đùi, bỏ sót gãy cổ",
+      "body": "Bệnh nhân nữ 30 tuổi, tai nạn ô tô (ngồi ghế phụ, đầu gối đập vào taplo - cơ chế Dashboard injury). Vào viện vì đau háng phải và đùi phải. Bệnh nhân tỉnh, mạch 90 l/p, HA 120/70 mmHg.<br><br><b>Khám:</b> Đùi phải sưng nề, biến dạng.<br><br><b>X-quang thân xương đùi:</b> Gãy ngang 1/3 giữa. Tuy nhiên, bác sĩ trực nghi ngờ có tổn thương phối hợp thường gặp với cơ chế chấn thương này.",
+      "questions": [
+        {
+          "q": "Với cơ chế chấn thương năng lượng cao dọc trục xương đùi, tổn thương phối hợp nào ở vùng háng dễ bị bỏ sót nhất (missed injury)?",
+          "options": [
+            "Gãy cổ xương đùi cùng bên",
+            "Vỡ xương chậu",
+            "Gãy mấu chuyển lớn",
+            "Gãy ngành ngồi mu"
+          ],
+          "answer": 0,
+          "explain": "Gãy thân xương đùi năng lượng cao thường kèm gãy cổ xương đùi cùng bên (Ipsilateral femoral neck fracture)."
+        },
+        {
+          "q": "Tỷ lệ bỏ sót tổn thương cổ xương đùi kèm theo gãy thân xương đùi là khoảng bao nhiêu (theo các nghiên cứu)?",
+          "options": [
+            "< 1%",
+            "5%",
+            "20 – 30%",
+            "90%"
+          ],
+          "answer": 2,
+          "explain": "Tỷ lệ bỏ sót lên tới 30% do đau ở đùi làm lu mờ triệu chứng tại háng và phim X-quang đùi thường không lấy hết khớp háng."
+        },
+        {
+          "q": "Để tránh bỏ sót tổn thương này, phim X-quang/CT cần đánh giá kỹ:",
+          "options": [
+            "Chỉ cần chụp X-quang đùi thẳng nghiêng",
+            "Chụp X-quang khung chậu và khớp háng (trước sau, chân ếch) hoặc CT háng mỏng",
+            "Chụp MRI toàn thân",
+            "Siêu âm khớp háng"
+          ],
+          "answer": 1,
+          "explain": "Bắt buộc chụp X-quang khớp háng quy ước hoặc CT cắt lớp để sàng lọc (protocol chuẩn)."
+        },
+        {
+          "q": "Nếu phát hiện gãy cổ xương đùi cùng bên gãy thân xương đùi, nguyên tắc xử trí ưu tiên là:",
+          "options": [
+            "Cố định cổ xương đùi trước (hoặc cùng lúc), ưu tiên nắn chỉnh giải phẫu cổ xương đùi",
+            "Cố định thân xương đùi trước, cổ xương đùi để sau 1 tuần",
+            "Chỉ cần bó bột",
+            "Thay khớp háng ngay lập tức"
+          ],
+          "answer": 0,
+          "explain": "Gãy cổ xương đùi là ưu tiên số 1 vì nguy cơ hoại tử chỏm (AVN). Cần nắn chỉnh và cố định tuyệt đối cổ xương đùi trước hoặc đồng thời."
+        },
+        {
+          "q": "Phương pháp kết hợp xương nào giải quyết được cả 2 tổn thương (gãy cổ và gãy thân) cùng lúc?",
+          "options": [
+            "Nẹp vít DHS",
+            "Đinh nội tủy tái tạo (Reconstruction Nail) hoặc Cephalomedullary Nail",
+            "Cố định ngoài",
+            "Nẹp khóa"
+          ],
+          "answer": 1,
+          "explain": "Đinh nội tủy tái tạo (Recon nail) có các vít chốt lên cổ xương đùi, cho phép cố định cả 2 vị trí gãy bằng một dụng cụ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi, gãy hở độ III do xe đè, dập nát cơ",
+      "body": "Bệnh nhân nam 50 tuổi, bị tai nạn giao thông xe máy đè lên chân. Vào viện với <b>vết thương mặt trước đùi phải kích thước 12cm</b>, lộ xương gãy, dập nát cơ tứ đầu đùi nhiều, dính nhiều đất cát.<br><br><b>Khám:</b> Mạch mu chân phải bắt được, SpO₂ ngón chân tốt. Bệnh nhân tỉnh, Mạch 100 l/p, HA 110/70 mmHg.<br><br><b>X-quang:</b> Gãy phức tạp 1/3 giữa xương đùi phải.",
+      "questions": [
+        {
+          "q": "Phân loại gãy hở theo Gustilo-Anderson phù hợp nhất:",
+          "options": [
+            "Độ I",
+            "Độ II",
+            "Độ IIIA",
+            "Độ IIIB"
+          ],
+          "answer": 2,
+          "explain": "Vết thương > 10cm, dập nát phần mềm nhiều nhưng còn che phủ được xương (chưa cần chuyển vạt) → Gustilo IIIA. (Nếu lộ xương diện rộng cần chuyển vạt → IIIB)."
+        },
+        {
+          "q": "Kháng sinh dự phòng/điều trị ban đầu tối ưu cho loại gãy hở này (theo hướng dẫn chung):",
+          "options": [
+            "Chỉ cần Cephalosporin thế hệ 1",
+            "Cephalosporin thế hệ 1 (hoặc 3) + Aminoglycoside (Gentamycin)",
+            "Vancomycin đơn thuần",
+            "Metronidazole đơn thuần"
+          ],
+          "answer": 1,
+          "explain": "Với Gustilo III: Phối hợp Cephalosporin (Gram +) và Aminoglycoside (Gram -)."
+        },
+        {
+          "q": "Nếu vết thương dính nhiều đất bẩn (nguy cơ nhiễm vi khuẩn kỵ khí/uốn ván), cần bổ sung thuốc nào?",
+          "options": [
+            "Penicillin liều cao hoặc Metronidazole",
+            "Quinolon",
+            "Macrolid",
+            "Sulfamid"
+          ],
+          "answer": 0,
+          "explain": "Vết thương bẩn/nông nghiệp/đất cát: Nguy cơ Clostridium (kỵ khí) → Thêm Penicillin hoặc Metronidazole."
+        },
+        {
+          "q": "Phương pháp cố định xương trong giai đoạn cấp cứu (khi vết thương bẩn, dập nát nhiều) nên là:",
+          "options": [
+            "Đóng đinh nội tủy có chốt ngay thì đầu",
+            "Kết hợp xương nẹp vít ngay",
+            "Cắt lọc sạch, Cố định ngoài (External Fixation)",
+            "Khâu vết thương và bó bột"
+          ],
+          "answer": 2,
+          "explain": "Với gãy hở độ III sớm, nguy cơ nhiễm trùng cao, cố định ngoài là lựa chọn an toàn để chăm sóc vết thương. Đinh nội tủy có thể cân nhắc ở độ I, II hoặc IIIA rất sạch, nhưng Ex-Fix an toàn hơn ở ca này."
+        },
+        {
+          "q": "Thời gian vàng để cắt lọc vết thương gãy hở tốt nhất là:",
+          "options": [
+            "< 6 giờ",
+            "12 – 24 giờ",
+            "> 24 giờ",
+            "Không quan trọng thời gian"
+          ],
+          "answer": 0,
+          "explain": "Quy tắc 6 giờ đầu là thời gian vàng để giảm tối đa nguy cơ nhiễm trùng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 20 tuổi, chơi bóng đá, gãy 1/3 giữa đùi, phẫu thuật IM Nail",
+      "body": "Bệnh nhân nam 20 tuổi, chơi bóng đá, bị đối phương đá mạnh vào mặt ngoài đùi phải. Đau chói, không đi lại được.<br><br><b>X-quang:</b> Gãy ngang 1/3 giữa xương đùi phải, đường gãy đơn giản. Không có bệnh lý nền.<br><br><b>Chỉ định:</b> Phẫu thuật đóng đinh nội tủy kín dưới màn tăng sáng (C-arm).",
+      "questions": [
+        {
+          "q": "Tư thế bệnh nhân trên bàn mổ chỉnh hình thường dùng là:",
+          "options": [
+            "Nằm sấp",
+            "Nằm ngửa trên bàn chỉnh hình (fracture table) có dụng cụ kéo nắn",
+            "Nằm nghiêng 90 độ",
+            "Tư thế sản khoa"
+          ],
+          "answer": 1,
+          "explain": "Tư thế chuẩn: Nằm ngửa trên bàn chỉnh hình để dễ dàng đối chiếu C-arm và kéo nắn trục."
+        },
+        {
+          "q": "Điểm vào (Entry point) của đinh nội tủy xương đùi xuôi dòng (antegrade) thông thường nằm ở:",
+          "options": [
+            "Đỉnh mấu chuyển lớn hoặc hố cơ hình lê (Piriformis fossa)",
+            "Mấu chuyển bé",
+            "Cổ xương đùi",
+            "Lồi cầu ngoài"
+          ],
+          "answer": 0,
+          "explain": "Điểm vào chuẩn: Đỉnh mấu chuyển lớn (Tip of GT) hoặc Hố cơ hình lê (Piriformis fossa) tùy thiết kế đinh."
+        },
+        {
+          "q": "Biến chứng thần kinh nào có thể gặp do chèn ép vùng tầng sinh môn khi nằm trên bàn chỉnh hình quá lâu?",
+          "options": [
+            "Liệt thần kinh đùi",
+            "Liệt thần kinh thẹn (Pudendal nerve palsy) gây tê bì bìu/dương vật",
+            "Liệt thần kinh ngồi",
+            "Liệt thần kinh bịt"
+          ],
+          "answer": 1,
+          "explain": "Trụ tỳ vào vùng tầng sinh môn (perineal post) trên bàn chỉnh hình có thể chèn ép thần kinh thẹn."
+        },
+        {
+          "q": "Sau mổ đóng đinh nội tủy có chốt vững chắc, bệnh nhân có thể tập vận động như thế nào?",
+          "options": [
+            "Bất động tuyệt đối tại giường 3 tháng",
+            "Tập vận động thụ động tại giường, đi nạng không tỳ chân trong 6 tuần đầu",
+            "Có thể tập vận động khớp háng/gối ngay và tập đi tỳ nén một phần trọng lượng sớm",
+            "Bó bột bổ sung thêm 1 tháng"
+          ],
+          "answer": 2,
+          "explain": "Ưu điểm lớn nhất của đinh nội tủy là cho phép vận động sớm (Early mobilization) để tránh teo cơ cứng khớp."
+        },
+        {
+          "q": "'Đinh nội tủy có chốt tĩnh' (Static locking) nghĩa là:",
+          "options": [
+            "Chỉ chốt vít ở đầu gần",
+            "Chỉ chốt vít ở đầu xa",
+            "Chốt vít ở cả đầu gần và đầu xa (lỗ tròn) để chống xoay và chống lún",
+            "Chốt vít vào lỗ bầu dục (lỗ động)"
+          ],
+          "answer": 2,
+          "explain": "Chốt tĩnh (Static): Khóa 2 đầu, giữ nguyên chiều dài xương. Chốt động (Dynamic): Cho phép xương trượt nén ép để liền xương."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi, mổ 6 tháng trước, khớp giả phì đại, không liền xương",
+      "body": "Bệnh nhân nam 45 tuổi, gãy kín 1/3 giữa xương đùi trái đã được mổ kết hợp xương bằng đinh nội tủy <b>cách đây 6 tháng</b>. Hiện tại bệnh nhân vẫn đau nơi gãy khi đi lại, không tỳ chân hoàn toàn được.<br><br><b>X-quang kiểm tra:</b> Khe gãy còn rõ, đầu xương bè to ra kiểu <b>'chân voi' (Elephant foot)</b>, vít chốt chưa gãy.<br><br><b>Xét nghiệm:</b> Bilan nhiễm trùng (CRP, VS) bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán tình trạng hiện tại:",
+          "options": [
+            "Khớp giả teo đét (Atrophic nonunion)",
+            "Khớp giả phì đại (Hypertrophic nonunion)",
+            "Viêm xương tủy xương",
+            "Liền xương bình thường"
+          ],
+          "answer": 1,
+          "explain": "Hình ảnh 'chân voi' (cal xương sù sì to) chứng tỏ phản ứng tạo xương tốt nhưng không liền được → Khớp giả phì đại."
+        },
+        {
+          "q": "Nguyên nhân chính gây ra loại khớp giả này là:",
+          "options": [
+            "Thiếu nuôi dưỡng mạch máu (sinh học kém)",
+            "Cố định không đủ vững (cơ học kém) nhưng nuôi dưỡng tốt",
+            "Nhiễm trùng tiềm tàng",
+            "Thiếu Canxi máu"
+          ],
+          "answer": 1,
+          "explain": "Khớp giả phì đại do ổ gãy cử động quá mức (bất động chưa vững). Mạch máu nuôi tốt nên xương cố gắng mọc ra để hàn gắn nhưng bị phá vỡ do rung động."
+        },
+        {
+          "q": "Hướng xử trí phù hợp nhất cho bệnh nhân này:",
+          "options": [
+            "Ghép xương xốp tự thân đơn thuần",
+            "Tháo đinh, bó bột",
+            "Tăng cường độ vững (Dynamization - tháo bớt vít chốt tĩnh hoặc thay đinh kích thước lớn hơn)",
+            "Cắt đoạn xương làm ngắn chi"
+          ],
+          "answer": 2,
+          "explain": "Vì sinh học tốt (máu tốt) nhưng cơ học kém → Cần tăng độ vững (ép 2 đầu xương lại bằng cách tháo vít chốt tĩnh để chuyển sang động/Dynamization hoặc thay đinh to hơn). Không cần ghép xương."
+        },
+        {
+          "q": "Nếu là khớp giả teo đét (đầu xương mòn vẹt, không có cal), nguyên nhân là gì?",
+          "options": [
+            "Cố định quá lỏng lẻo",
+            "Thiếu nuôi dưỡng mạch máu tại ổ gãy",
+            "Thừa canxi",
+            "Vận động quá sớm"
+          ],
+          "answer": 1,
+          "explain": "Khớp giả teo đét do thiếu máu nuôi → Cần ghép xương + cố định lại."
+        },
+        {
+          "q": "Yếu tố nào sau đây ảnh hưởng tiêu cực nhất đến quá trình liền xương?",
+          "options": [
+            "Hút thuốc lá",
+            "Uống sữa nhiều",
+            "Tập vật lý trị liệu sớm",
+            "Béo phì"
+          ],
+          "answer": 0,
+          "explain": "Nicotine trong thuốc lá gây co mạch, ức chế tạo cốt bào, làm tăng nguy cơ không liền xương gấp nhiều lần."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi, bệnh mạch vành, gãy phức tạp 1/3 giữa, chèn ép khoang",
+      "body": "Bệnh nhân nam 60 tuổi, tiền sử bệnh mạch vành (đang dùng Aspirin), vào viện vì tai nạn giao thông. Chẩn đoán <b>gãy nhiều mảnh 1/3 giữa xương đùi phải</b>. Bệnh nhân tỉnh, mạch 90 l/p, HA 130/80.<br><br><b>Khám:</b> Đùi phải <b>sưng to căng cứng</b>, đau dữ dội, đau tăng khi vận động thụ động ngón chân, cảm giác tê bì vùng bàn chân. Mạch mu chân bắt yếu.",
+      "questions": [
+        {
+          "q": "Bạn cần nghi ngờ biến chứng gì nguy hiểm nhất tại chỗ?",
+          "options": [
+            "Tắc mạch mỡ",
+            "Chèn ép khoang (Compartment Syndrome)",
+            "Huyết khối tĩnh mạch sâu",
+            "Tổn thương thần kinh tọa"
+          ],
+          "answer": 1,
+          "explain": "Đùi sưng căng cứng + Đau dữ dội không đáp ứng thuốc + Đau khi kéo thụ động → Chèn ép khoang."
+        },
+        {
+          "q": "Dấu hiệu lâm sàng sớm nhất và nhạy nhất của chèn ép khoang là:",
+          "options": [
+            "Mất mạch (Pulselessness)",
+            "Đau quá mức so với tổn thương, đau tăng khi kéo thụ động cơ (Pain with passive stretch)",
+            "Liệt vận động (Paralysis)",
+            "Tím tái đầu chi (Pallor)"
+          ],
+          "answer": 1,
+          "explain": "5P (Pain, Pallor, Paresthesia, Pulselessness, Paralysis). Trong đó Đau (Pain) là dấu hiệu sớm nhất. Mất mạch là dấu hiệu rất muộn."
+        },
+        {
+          "q": "Áp lực khoang bình thường là bao nhiêu và ngưỡng chỉ định mở cân (fasciotomy) là bao nhiêu?",
+          "options": [
+            "BT < 10 mmHg; Mổ khi > 30 mmHg (hoặc Delta P < 30 mmHg)",
+            "BT 20 mmHg; Mổ khi > 50 mmHg",
+            "BT 0 mmHg; Mổ khi > 100 mmHg",
+            "Không có chỉ số cụ thể"
+          ],
+          "answer": 0,
+          "explain": "Áp lực khoang > 30mmHg hoặc chênh lệch huyết áp tâm trương - áp lực khoang (Delta P) < 30mmHg là chỉ định mổ tuyệt đối."
+        },
+        {
+          "q": "Mặc dù hiếm gặp ở vùng đùi (do khoang đùi rộng) so với cẳng chân, chèn ép khoang đùi thường xảy ra trong hoàn cảnh nào?",
+          "options": [
+            "Gãy xương đơn giản",
+            "Đa chấn thương, sốc tụt huyết áp kéo dài, hoặc đụng dập cơ nặng (Crush injury)",
+            "Người già loãng xương",
+            "Trẻ em"
+          ],
+          "answer": 1,
+          "explain": "Khoang đùi thể tích lớn nên ít bị chèn ép hơn cẳng chân. Thường gặp khi có đụng dập nát cơ nặng (Crush) hoặc bệnh nhân sốc tụt áp (giảm tưới máu) rồi được bù dịch lượng lớn."
+        },
+        {
+          "q": "Xử trí cấp cứu chèn ép khoang:",
+          "options": [
+            "Kê cao chân, chườm lạnh",
+            "Dùng thuốc giảm đau liều cao và theo dõi",
+            "Phẫu thuật rạch rộng cân (Fasciotomy) giải áp ngay lập tức",
+            "Chọc hút máu tụ"
+          ],
+          "answer": 2,
+          "explain": "Rạch cân giải áp là biện pháp duy nhất cứu sống chi. Mọi biện pháp kê cao hay chườm lạnh đều làm tình trạng thiếu máu tồi tệ hơn."
+        }
+      ]
+    }
+  ]
+}
