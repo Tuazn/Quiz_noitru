@@ -1,0 +1,620 @@
+{
+  "name": "Hemophilia",
+  "description": "Bộ đề lâm sàng về bệnh Hemophilia - chẩn đoán, phân loại, cơ chế bệnh sinh, điều trị và biến chứng",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Huyết học",
+  "cases": [
+    {
+      "title": "Bé trai 5 tuổi sưng đau khớp gối sau va chạm nhẹ",
+      "body": "Bệnh nhân nam 5 tuổi, được mẹ đưa đến phòng cấp cứu vì <b>sưng đau khớp gối phải</b> đột ngột sau khi vấp ngã nhẹ lúc đang chơi đùa vào sáng cùng ngày. Bệnh nhi quấy khóc, không chịu đi lại.<br><br>Tiền sử: Bé <b>thường xuyên xuất hiện các mảng bầm tím lớn</b> trên da sau những va chạm rất nhẹ, và một lần <b>nhổ răng sữa chảy máu kéo dài</b> phải nhập viện. Trong gia đình, <b>ông ngoại của bé cũng có bệnh hay chảy máu</b> tương tự.<br><br>Khám: Khớp gối phải sưm to, căng bóng, nóng và rất đau khi cử động, hạn chế vận động hoàn toàn; không có vết thương ngoài da. Các khớp khác vận động bình thường. Không ghi nhận các mảng bầm tím khác hay dấu hiệu chảy máu niêm mạc. Sinh hiệu ổn, da niêm mạc hồng.<br><br>Cận lâm sàng: Số lượng tiểu cầu 250 G/L, PT 12 giây (INR 1.0), <b>aPTT 75 giây (chứng 30 giây)</b>, Hb 115 g/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán sơ bộ phù hợp nhất với bệnh nhân này là gì?",
+          "options": [
+            "Xuất huyết giảm tiểu cầu miễn dịch",
+            "Bệnh Von Willebrand",
+            "Hemophilia",
+            "Viêm khớp nhiễm trùng"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh một bé trai có tiền sử dễ bầm tím, chảy máu kéo dài sau thủ thuật và đặc trưng là <b>chảy máu trong khớp (tụ máu khớp)</b> sau chấn thương nhẹ, cùng với tiền sử gia đình (ông ngoại) là rất điển hình cho Hemophilia. Xét nghiệm cho thấy <b>aPTT kéo dài đơn độc</b> trong khi PT và số lượng tiểu cầu bình thường, củng cố chẩn đoán này."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây ra tình trạng chảy máu kéo dài ở bệnh nhân này là gì?",
+          "options": [
+            "Bất thường về số lượng hoặc chức năng của tiểu cầu",
+            "Thiếu hụt yếu tố Von Willebrand cần thiết cho sự kết dính tiểu cầu",
+            "Rối loạn con đường đông máu nội sinh do thiếu hụt yếu tố đông máu",
+            "Sự hoạt hóa quá mức của hệ thống tiêu sợi huyết"
+          ],
+          "answer": 2,
+          "explain": "Hemophilia là bệnh rối loạn đông máu di truyền do <b>thiếu hụt yếu tố VIII (Hemophilia A) hoặc yếu tố IX (Hemophilia B)</b>. Cả hai yếu tố này đều là thành phần thiết yếu của <b>con đường đông máu nội sinh</b>. Sự thiếu hụt chúng làm suy yếu quá trình tạo fibrin, khiến cục máu đông hình thành chậm và không bền vững, dẫn đến chảy máu kéo dài."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây là cần thiết nhất để xác định chẩn đoán chính xác và phân loại bệnh?",
+          "options": [
+            "Định lượng yếu tố VIII và yếu tố IX",
+            "Kháng thể kháng phospholipid",
+            "Tủy đồ",
+            "Nồng độ Fibrinogen"
+          ],
+          "answer": 0,
+          "explain": "Sau khi có kết quả aPTT kéo dài, bước tiếp theo để chẩn đoán xác định và phân biệt giữa hai thể bệnh phổ biến nhất là <b>định lượng nồng độ yếu tố VIII và IX</b> trong huyết tương. Nồng độ yếu tố <b>dưới 40% (0.4 IU/mL)</b> sẽ xác định chẩn đoán."
+        },
+        {
+          "q": "Can thiệp điều trị nào cần được tiến hành ngay lập tức cho bệnh nhân?",
+          "options": [
+            "Chọc hút dịch khớp gối để giảm áp lực",
+            "Băng ép, chườm lạnh, bất động khớp gối và truyền yếu tố đông máu cô đặc",
+            "Sử dụng thuốc giảm đau kháng viêm không steroid (NSAID)",
+            "Bắt đầu kháng sinh phổ rộng đường tĩnh mạch"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc xử trí chảy máu khớp cấp là <b>RICE (Nghỉ ngơi, Chườm lạnh, Băng ép, Nâng cao chi)</b> và <b>quan trọng nhất là phải thay thế yếu tố đông máu</b> bị thiếu hụt càng sớm càng tốt để cầm máu, giảm đau và bảo tồn chức năng khớp. Chọc hút khớp chỉ cân nhắc khi khớp quá căng. NSAID chống chỉ định vì làm tăng nguy cơ chảy máu."
+        },
+        {
+          "q": "Kiểu di truyền của bệnh lý này là gì?",
+          "options": [
+            "Di truyền lặn trên nhiễm sắc thể thường",
+            "Di truyền trội trên nhiễm sắc thể thường",
+            "Di truyền lặn liên kết nhiễm sắc thể X",
+            "Di truyền trội liên kết nhiễm sắc thể X"
+          ],
+          "answer": 2,
+          "explain": "Hemophilia A và B là các bệnh <b>di truyền lặn liên kết với nhiễm sắc thể giới tính X</b>. Gen sản xuất yếu tố VIII và IX nằm trên NST X. Do đó, bệnh chủ yếu biểu hiện ở nam giới (chỉ có một NST X). Phụ nữ thường là người mang gen và có thể truyền gen bệnh cho con trai của họ."
+        }
+      ]
+    },
+    {
+      "title": "Nam 20 tuổi chảy máu kéo dài sau nhổ răng khôn",
+      "body": "Bệnh nhân nam 20 tuổi, sinh viên, đến khám vì <b>chảy máu rỉ rả không ngừng</b> sau khi nhổ răng khôn cách đây 2 ngày. Bệnh nhân <b>chưa từng được chẩn đoán bệnh lý huyết học nào</b> trước đây, nhưng cho biết <b>thỉnh thoảng có những vết bầm lớn</b> sau khi chơi thể thao và <b>một lần bị chảy máu cam kéo dài</b>. Tiền sử gia đình không rõ bệnh lý đông máu.<br><br>Khám: Tại chỗ thấy có <b>cục máu đông nhỏ, không bền</b> ở vị trí nhổ răng, máu tươi vẫn rỉ ra. Toàn thân không có dấu hiệu chảy máu ở vị trí khác. Sinh hiệu ổn.<br><br>Cận lâm sàng: Số lượng tiểu cầu 300 G/L, PT 13 giây (INR 1.1), <b>aPTT 45 giây (chứng 31 giây)</b>, <b>Hoạt tính yếu tố VIII là 8% (0.08 IU/mL)</b>.",
+      "questions": [
+        {
+          "q": "Bệnh nhân này được phân loại mức độ Hemophilia nào?",
+          "options": [
+            "Nặng (< 1%)",
+            "Trung bình (1-5%)",
+            "Nhẹ (6-40%)",
+            "Không phải Hemophilia"
+          ],
+          "answer": 2,
+          "explain": "Phân loại mức độ nặng của Hemophilia dựa trên nồng độ yếu tố đông máu: <b>Nặng (<1%), Trung bình (1-5%), và Nhẹ (>5% đến <40%)</b>. Với hoạt tính yếu tố VIII là 8%, bệnh nhân được phân loại là <b>Hemophilia A thể nhẹ</b>."
+        },
+        {
+          "q": "Tại sao bệnh nhân đến 20 tuổi mới được chẩn đoán?",
+          "options": [
+            "Bệnh chỉ khởi phát ở tuổi trưởng thành",
+            "Triệu chứng chảy máu chỉ xuất hiện sau khi dùng một loại thuốc nào đó",
+            "Ở thể nhẹ, chảy máu tự nhiên hiếm gặp và thường chỉ biểu hiện sau chấn thương hoặc phẫu thuật",
+            "Do sai sót trong các lần khám sức khỏe trước đây"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân Hemophilia thể nhẹ có đủ yếu tố đông máu để <b>không bị chảy máu khớp hoặc cơ tự phát</b>. Các biểu hiện chảy máu thường chỉ xảy ra khi có một <b>thách thức cầm máu đáng kể, như chấn thương, nhổ răng, hoặc phẫu thuật</b>. Do đó, nhiều trường hợp không được phát hiện cho đến tuổi trưởng thành."
+        },
+        {
+          "q": "Cơ chế chính khiến aPTT kéo dài trong khi PT bình thường là gì?",
+          "options": [
+            "Con đường đông máu ngoại sinh (liên quan đến PT) không bị ảnh hưởng bởi sự thiếu hụt yếu tố VIII",
+            "Tiểu cầu vẫn hoạt động bình thường",
+            "Con đường chung của thác đông máu bị ức chế",
+            "Fibrinogen trong máu giảm"
+          ],
+          "answer": 0,
+          "explain": "Thác đông máu có hai con đường khởi đầu: <b>nội sinh (được đo bằng aPTT) và ngoại sinh (được đo bằng PT)</b>. Yếu tố VIII là một phần của con đường nội sinh. Khi thiếu yếu tố VIII, con đường nội sinh bị chậm lại, làm aPTT kéo dài. Con đường ngoại sinh, khởi đầu bằng yếu tố mô và yếu tố VII, <b>không cần yếu tố VIII, do đó PT vẫn bình thường</b>."
+        },
+        {
+          "q": "Ngoài việc bổ sung yếu tố VIII, thuốc nào sau đây có thể được sử dụng phối hợp để giúp kiểm soát chảy máu ở niêm mạc miệng cho bệnh nhân này?",
+          "options": [
+            "Heparin",
+            "Warfarin",
+            "Vitamin K",
+            "Acid Tranexamic"
+          ],
+          "answer": 3,
+          "explain": "<b>Acid Tranexamic</b> là một thuốc chống tiêu sợi huyết. Nó hoạt động bằng cách <b>ngăn chặn sự phân hủy của cục máu đông fibrin</b> đã hình thành, giúp cục máu đông bền vững hơn. Thuốc này đặc biệt hiệu quả đối với chảy máu ở các vùng giàu chất hoạt hóa plasminogen như <b>niêm mạc miệng, mũi và đường sinh dục</b>."
+        },
+        {
+          "q": "Lời khuyên nào là quan trọng nhất cho bệnh nhân này trong sinh hoạt hàng ngày?",
+          "options": [
+            "Nằm nghỉ trên giường tuyệt đối",
+            "Tránh các môn thể thao va chạm mạnh và thông báo cho nhân viên y tế về bệnh của mình trước bất kỳ thủ thuật nào",
+            "Bổ sung thực phẩm giàu sắt hàng ngày",
+            "Đeo vòng tay cảnh báo dị ứng"
+          ],
+          "answer": 1,
+          "explain": "<b>Giáo dục bệnh nhân</b> là một phần quan trọng trong quản lý Hemophilia. Bệnh nhân cần hiểu rõ tình trạng của mình, <b>tránh các hoạt động có nguy cơ chấn thương cao</b> và <b>luôn phải thông báo cho bác sĩ, nha sĩ về bệnh của mình</b> trước khi thực hiện bất kỳ can thiệp nào, dù là nhỏ nhất, để có kế hoạch dự phòng chảy máu phù hợp."
+        }
+      ]
+    },
+    {
+      "title": "Nam 15 tuổi Hemophilia A nặng không đáp ứng với điều trị yếu tố VIII",
+      "body": "Bệnh nhân nam 15 tuổi, đã được chẩn đoán <b>Hemophilia A thể nặng</b> từ nhỏ và đang điều trị dự phòng bằng <b>yếu tố VIII tái tổ hợp 3 lần/tuần</b>. Khoảng 1 tháng nay, bệnh nhân có một <b>đợt chảy máu ở khớp khuỷu tay trái</b> sau va chạm nhẹ, dù đã tiêm yếu tố VIII liều điều trị như thường lệ nhưng <b>khớp vẫn sưng đau kéo dài</b>.<br><br>Hiện tại, bệnh nhân <b>nhập viện vì đau dữ dội và sưng to vùng cơ đùi phải</b> sau khi tự ngã trong nhà tắm, không đáp ứng với 2 lần tiêm yếu tố VIII liều cao tại nhà.<br><br>Khám: Có <b>khối máu tụ lớn, căng cứng ở mặt trước đùi phải</b>, gây đau dữ dội. Mạch mu chân bên phải <b>bắt yếu hơn bên trái</b>.<br><br>Cận lâm sàng: aPTT kéo dài, <b>định lượng yếu tố VIII sau tiêm không tăng</b> như mong đợi. <b>Hiệu giá chất ức chế yếu tố VIII (xét nghiệm Bethesda) là 20 BU/mL</b>.",
+      "questions": [
+        {
+          "q": "Tình trạng hiện tại của bệnh nhân được gọi là gì?",
+          "options": [
+            "Không tuân thủ điều trị dự phòng",
+            "Nhiễm trùng khớp khuỷu",
+            "Hemophilia A có chất ức chế",
+            "Quá liều yếu tố VIII"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh một bệnh nhân Hemophilia A nặng có <b>đáp ứng kém hoặc không đáp ứng với điều trị thay thế yếu tố VIII chuẩn</b> là dấu hiệu nghi ngờ cao nhất về sự xuất hiện của chất ức chế. <b>Xét nghiệm hiệu giá chất ức chế (Bethesda) dương tính</b> đã xác nhận chẩn đoán này."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của \"chất ức chế\" trong Hemophilia là gì?",
+          "options": [
+            "Là các kháng thể (thường là IgG) do hệ miễn dịch của bệnh nhân tạo ra, nhận diện yếu tố VIII ngoại sinh là \"lạ\" và trung hòa nó",
+            "Là một loại protein làm tăng tốc độ thanh thải yếu tố VIII ra khỏi tuần hoàn",
+            "Là các tự kháng thể tấn công vào tiểu cầu của bệnh nhân",
+            "Là sự đột biến mới trên gen F8 làm cho yếu tố VIII không còn chức năng"
+          ],
+          "answer": 0,
+          "explain": "<b>Chất ức chế là biến chứng điều trị nghiêm trọng nhất</b> của Hemophilia. Hệ miễn dịch của khoảng 30% bệnh nhân Hemophilia A nặng <b>nhận diện protein yếu tố VIII được truyền vào như một kháng nguyên lạ</b> và <b>sản xuất ra các kháng thể (chất ức chế)</b> chống lại nó. Các kháng thể này vô hiệu hóa hoạt động của yếu tố VIII, làm cho việc điều trị thay thế trở nên vô hiệu."
+        },
+        {
+          "q": "Biến chứng nguy hiểm nhất của khối máu tụ lớn ở cơ đùi mà bệnh nhân đang gặp phải là gì?",
+          "options": [
+            "Thiếu máu cấp",
+            "Hủy cơ vân",
+            "Hội chứng khoang",
+            "Nhiễm trùng huyết"
+          ],
+          "answer": 2,
+          "explain": "Một <b>khối máu tụ lớn, căng cứng trong một khoang cơ kín</b> như ở đùi có thể làm <b>tăng áp lực trong khoang đó</b>. Áp lực này có thể <b>chèn ép các mạch máu và dây thần kinh</b> đi qua, gây <b>thiếu máu cục bộ và tổn thương thần kinh không hồi phục</b>, được gọi là <b>hội chứng khoang</b>. Đây là một cấp cứu ngoại khoa."
+        },
+        {
+          "q": "Lựa chọn điều trị cầm máu nào sau đây là phù hợp nhất cho bệnh nhân tại thời điểm này?",
+          "options": [
+            "Tăng gấp đôi liều yếu tố VIII tái tổ hợp",
+            "Truyền huyết tương tươi đông lạnh",
+            "Sử dụng tác nhân \"bypass\" như phức hợp prothrombin hoạt hóa (APCC/FEIBA) hoặc yếu tố VIIa tái tổ hợp (rFVIIa)",
+            "Truyền khối tiểu cầu"
+          ],
+          "answer": 2,
+          "explain": "Khi có chất ức chế, việc <b>truyền yếu tố VIII không còn hiệu quả</b>. Cần sử dụng các <b>\"tác nhân bypass\"</b>, tức là các thuốc có khả năng <b>hoạt hóa con đường đông máu mà không cần đến yếu tố VIII</b>. <b>Hai tác nhân chính là APCC (chứa các yếu tố đông máu đã hoạt hóa) và rFVIIa</b> (hoạt hóa trực tiếp yếu tố X)."
+        },
+        {
+          "q": "Mục tiêu điều trị lâu dài cho bệnh nhân có chất ức chế hiệu giá cao là gì?",
+          "options": [
+            "Chuyển sang điều trị Hemophilia",
+            "Cắt lách để giảm sản xuất kháng thể",
+            "Điều trị dung nạp miễn dịch (Immune Tolerance Induction - ITI)",
+            "Chỉ điều trị chảy máu khi xảy ra"
+          ],
+          "answer": 2,
+          "explain": "Đối với bệnh nhân có chất ức chế, <b>mục tiêu dài hạn là loại bỏ vĩnh viễn chất ức chế</b>. <b>Liệu pháp Dung nạp miễn dịch (ITI)</b> là phác đồ <b>truyền yếu tố VIII liều cao và thường xuyên trong một thời gian dài</b> (vài tháng đến vài năm) để <b>\"huấn luyện\" lại hệ miễn dịch</b> của bệnh nhân chấp nhận yếu tố VIII. <b>Tỷ lệ thành công của ITI khá cao</b>, đặc biệt khi hiệu giá chất ức chế không quá cao."
+        }
+      ]
+    },
+    {
+      "title": "Nam 45 tuổi đau và cứng khớp gối mạn tính",
+      "body": "Bệnh nhân nam 45 tuổi, chẩn đoán <b>Hemophilia A thể trung bình</b>, đến khám vì <b>đau và cứng khớp gối hai bên mạn tính, đi lại khó khăn</b>. Bệnh nhân cho biết từ thời niên thiếu đã có <b>nhiều đợt sưng đau, chảy máu ở hai khớp gối</b> nhưng <b>điều trị không thường xuyên</b>.<br><br>Hiện tại, khớp gối không sưng nóng đỏ cấp tính nhưng <b>vận động rất hạn chế, đặc biệt là duỗi thẳng</b>. Bệnh nhân không sốt, không có triệu chứng toàn thân khác.<br><br>Khám: Hai khớp gối <b>biến dạng, teo cơ tứ đầu đùi</b>. Tầm vận động khớp gối phải gập/duỗi là 90/20 độ (mất 20 độ duỗi), khớp gối trái là 100/15 độ. Không có dấu hiệu của chảy máu cấp.<br><br>X-quang khớp gối hai bên: <b>Hẹp khe khớp, xơ xương dưới sụn, các nang xương và gai xương lớn</b>.",
+      "questions": [
+        {
+          "q": "Tình trạng khớp của bệnh nhân được gọi là gì?",
+          "options": [
+            "Viêm khớp dạng thấp",
+            "Bệnh khớp do Hemophilia (Hemophilic arthropathy)",
+            "Thoái hóa khớp nguyên phát",
+            "Viêm cột sống dính khớp"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh <b>đau khớp mạn tính, hạn chế vận động, biến dạng khớp</b> trên một bệnh nhân Hemophilia có tiền sử <b>chảy máu khớp tái phát</b> là hình ảnh kinh điển của <b>bệnh khớp do Hemophilia</b>. Đây là <b>biến chứng gây tàn tật phổ biến và nghiêm trọng nhất</b> của bệnh."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính dẫn đến tổn thương khớp mạn tính trong Hemophilia là gì?",
+          "options": [
+            "Phản ứng viêm mạn tính do sự lắng đọng sắt (hemosiderin) trong màng hoạt dịch từ các đợt chảy máu tái phát",
+            "Sự tấn công trực tiếp của tự kháng thể vào sụn khớp",
+            "Sự lắng đọng của các tinh thể urat trong khớp",
+            "Nhiễm trùng khớp tái đi tái lại"
+          ],
+          "answer": 0,
+          "explain": "Mỗi khi chảy máu vào khớp, máu sẽ <b>thoái giáng và giải phóng sắt</b>. Sắt <b>lắng đọng trong màng hoạt dịch</b> (dưới dạng hemosiderin) gây ra một <b>phản ứng viêm mạn tính</b>, gọi là <b>viêm màng hoạt dịch do sắt</b>. Tình trạng viêm này dẫn đến <b>phì đại màng hoạt dịch, tăng sinh mạch máu</b> (dễ chảy máu hơn) và giải phóng các <b>enzyme tiêu hủy sụn khớp và xương dưới sụn</b>, cuối cùng dẫn đến phá hủy khớp không hồi phục."
+        },
+        {
+          "q": "Dấu hiệu nào trên hình ảnh X-quang là điển hình cho bệnh khớp do Hemophilia ở giai đoạn muộn?",
+          "options": [
+            "Hình ảnh bào mòn xương ở rìa khớp",
+            "Hẹp khe khớp, xơ xương dưới sụn và hình thành gai xương",
+            "Hình ảnh \"bút chì trong cốc\" (pencil-in-cup)",
+            "Dính và vôi hóa các dây chằng cột sống"
+          ],
+          "answer": 1,
+          "explain": "Các thay đổi trên X-quang của <b>bệnh khớp do Hemophilia ở giai đoạn muộn</b> rất giống với thoái hóa khớp nặng, bao gồm <b>hẹp khe khớp do mất sụn, xơ đặc xương dưới sụn, hình thành các nang (cyst) và gai xương</b>. Đây là hậu quả của quá trình phá hủy khớp mạn tính."
+        },
+        {
+          "q": "Biện pháp nào là quan trọng nhất để ngăn ngừa hoặc làm chậm tiến triển của bệnh khớp do Hemophilia?",
+          "options": [
+            "Sử dụng thường xuyên thuốc giảm đau opioid",
+            "Tiêm corticosteroid nội khớp định kỳ",
+            "Điều trị dự phòng bằng yếu tố đông máu từ sớm để ngăn chặn các đợt chảy máu khớp",
+            "Bất động khớp hoàn toàn"
+          ],
+          "answer": 2,
+          "explain": "\"<b>Chảy máu sinh ra chảy máu</b>\". Cách hiệu quả duy nhất để ngăn chặn <b>vòng xoắn bệnh lý</b> của bệnh khớp do Hemophilia là <b>ngăn ngừa chảy máu xảy ra ngay từ đầu</b>. <b>Điều trị dự phòng bằng cách tiêm yếu tố đông máu đều đặn</b> (2-3 lần/tuần) để duy trì nồng độ yếu tố tối thiểu trong máu đã được chứng minh là <b>làm giảm đáng kể tần suất chảy máu khớp</b> và ngăn ngừa tổn thương khớp lâu dài, đặc biệt khi bắt đầu từ thời thơ ấu."
+        },
+        {
+          "q": "Ngoài điều trị nội khoa, phương pháp nào sau đây có thể cải thiện chức năng vận động và chất lượng cuộc sống cho bệnh nhân ở giai đoạn này?",
+          "options": [
+            "Vật lý trị liệu và phục hồi chức năng",
+            "Lọc huyết tương",
+            "Hóa trị liệu",
+            "Chiếu xạ vào khớp"
+          ],
+          "answer": 0,
+          "explain": "Ở <b>giai đoạn khớp đã bị tổn thương</b>, <b>vật lý trị liệu đóng vai trò cực kỳ quan trọng</b>. Các bài tập được thiết kế phù hợp giúp <b>duy trì tầm vận động khớp, tăng cường sức mạnh các cơ xung quanh khớp</b> (để bảo vệ khớp), giảm đau và cải thiện chức năng tổng thể. Trong trường hợp nặng, phẫu thuật thay khớp có thể được xem xét."
+        }
+      ]
+    },
+    {
+      "title": "Nam 30 tuổi Hemophilia B chấn thương đầu",
+      "body": "Bệnh nhân nam 30 tuổi, đã biết bị <b>Hemophilia B thể nặng</b>, được đưa vào cấp cứu sau một <b>tai nạn giao thông</b> (bệnh nhân ngồi sau xe máy, bị ngã đập đầu xuống đường, có đội mũ bảo hiểm).<br><br>Lúc vào viện, bệnh nhân <b>tỉnh táo, chỉ than đau đầu nhẹ</b>, không nôn, không yếu liệt. Khám không thấy dấu hiệu thần kinh khu trú, không có vết thương da đầu rõ rệt. <b>Sinh hiệu: Mạch 80 lần/phút, HA 120/80 mmHg</b>. Các bác sĩ nghi ngờ có khả năng chảy máu nội sọ.<br><br>Cận lâm sàng: <b>aPTT rất dài, hoạt tính yếu tố IX < 1%</b>.",
+      "questions": [
+        {
+          "q": "Thái độ xử trí nào là đúng đắn và khẩn cấp nhất đối với bệnh nhân này?",
+          "options": [
+            "Theo dõi sát tri giác, nếu xấu đi mới chụp CT sọ não",
+            "Cho thuốc giảm đau paracetamol và cho về theo dõi tại nhà",
+            "Truyền yếu tố IX ngay lập tức để nâng hoạt tính lên gần 100% và chỉ định chụp CT sọ não khẩn cấp, không trì hoãn",
+            "Chọc dò tủy sống để kiểm tra có máu trong dịch não tủy không"
+          ],
+          "answer": 2,
+          "explain": "Chấn thương đầu ở bệnh nhân Hemophilia luôn được coi là một <b>cấp cứu y tế có khả năng đe dọa tính mạng</b>, ngay cả khi triệu chứng ban đầu rất nhẹ. <b>Chảy máu nội sọ có thể diễn tiến âm thầm</b> và gây hậu quả tàn khốc. Do đó, nguyên tắc là <b>phải điều trị (truyền yếu tố đông máu) trước, chẩn đoán (chụp CT) sau</b>. Bất kỳ sự trì hoãn nào cũng có thể làm tăng nguy cơ tử vong và tàn tật."
+        },
+        {
+          "q": "Tại sao chảy máu nội sọ lại là một biến cố cực kỳ nguy hiểm ở bệnh nhân Hemophilia?",
+          "options": [
+            "Gây thiếu máu cấp với số lượng lớn",
+            "Gây tăng áp lực nội sọ, chèn ép các cấu trúc não và có thể dẫn đến tử vong",
+            "Luôn luôn gây ra nhiễm trùng hệ thần kinh trung ương",
+            "Gây ra tình trạng đông máu rải rác nội mạch"
+          ],
+          "answer": 1,
+          "explain": "<b>Hộp sọ là một không gian kín và cứng</b>. Một lượng máu nhỏ chảy ra cũng có thể làm <b>tăng áp lực bên trong hộp sọ</b>. Áp lực này <b>chèn ép lên các mô não mỏng manh</b>, gây <b>tổn thương não, thoát vị não</b> và có thể dẫn đến <b>ngừng hô hấp, tuần hoàn và tử vong</b>. Đây là nguyên nhân gây tử vong liên quan đến chảy máu hàng đầu ở bệnh nhân Hemophilia."
+        },
+        {
+          "q": "Mục tiêu hoạt tính yếu tố IX cần đạt được và duy trì trong trường hợp chảy máu nội sọ là bao nhiêu?",
+          "options": [
+            "20 - 30%",
+            "40 - 50%",
+            "80 - 100%",
+            "Chỉ cần trên 5%"
+          ],
+          "answer": 2,
+          "explain": "<b>Chảy máu ở các vị trí đe dọa tính mạng hoặc chức năng</b> (như não, tủy sống, hầu họng) đòi hỏi phải <b>điều trị thay thế tích cực nhất</b>. Mục tiêu là <b>nâng và duy trì hoạt tính yếu tố đông máu ở mức gần như bình thường (80-100%)</b> để đảm bảo quá trình cầm máu diễn ra nhanh chóng và hiệu quả, ngăn chặn khối máu tụ lan rộng."
+        },
+        {
+          "q": "Cơ chế di truyền và thiếu hụt protein trong Hemophilia B khác Hemophilia A như thế nào?",
+          "options": [
+            "Hemophilia B di truyền trội trên NST thường và thiếu yếu tố VIII",
+            "Hemophilia B di truyền lặn liên kết X và thiếu yếu tố IX",
+            "Hemophilia B di truyền lặn trên NST thường và thiếu yếu tố IX",
+            "Hemophilia B di truyền lặn liên kết X và thiếu yếu tố XI"
+          ],
+          "answer": 1,
+          "explain": "Cả Hemophilia A và B đều <b>di truyền lặn liên kết X</b>, nhưng chúng là do đột biến trên các gen khác nhau. <b>Hemophilia A là do thiếu yếu tố VIII (gen F8)</b>, trong khi <b>Hemophilia B (còn gọi là bệnh Christmas) là do thiếu yếu tố IX (gen F9)</b>. Lâm sàng của hai bệnh này không thể phân biệt được, chỉ có thể chẩn đoán bằng xét nghiệm định lượng yếu tố."
+        },
+        {
+          "q": "Nếu bệnh nhân này không có yếu tố IX cô đặc để truyền, lựa chọn thay thế nào có thể được sử dụng trong tình huống khẩn cấp?",
+          "options": [
+            "Huyết tương tươi đông lạnh (FFP)",
+            "Khối tiểu cầu",
+            "Tủa lạnh (Cryoprecipitate)",
+            "Albumin"
+          ],
+          "answer": 0,
+          "explain": "<b>Huyết tương tươi đông lạnh (FFP) chứa tất cả các yếu tố đông máu</b>, bao gồm cả yếu tố IX. Mặc dù <b>yếu tố IX cô đặc là lựa chọn tối ưu</b> do thể tích nhỏ và nồng độ cao, nhưng khi không có sẵn, <b>FFP có thể được dùng như một biện pháp cứu cánh</b>. Tuy nhiên, cần truyền một thể tích rất lớn để đạt được nồng độ yếu tố mong muốn, có nguy cơ gây quá tải tuần hoàn. Tủa lạnh giàu yếu tố VIII và fibrinogen nhưng rất nghèo yếu tố IX."
+        }
+      ]
+    },
+    {
+      "title": "Nữ 72 tuổi chảy máu lan tỏa, aPTT kéo dài, yếu tố VIII thấp",
+      "body": "Bệnh nhân nữ 72 tuổi, tiền sử <b>đái tháo đường type 2, tăng huyết áp</b>. Bệnh nhân nhập viện vì <b>xuất hiện các mảng bầm tím rất lớn, lan tỏa ở thân mình và hai tay từ 2 tuần nay</b> mà <b>không do va chạm</b>. Kèm theo đó là một <b>khối sưng đau ở bắp chân phải</b>, nghi là khối máu tụ trong cơ.<br><br>Bệnh nhân <b>khẳng định bản thân và gia đình hoàn toàn không có tiền sử rối loạn chảy máu</b>.<br><br>Khám: <b>Nhiều mảng xuất huyết lớn, không sờ thấy bờ, ấn không đau</b>. Khối máu tụ ở bắp chân phải làm hạn chế vận động.<br><br>Cận lâm sàng: Số lượng tiểu cầu và PT bình thường, <b>aPTT kéo dài 90 giây</b>, <b>Định lượng yếu tố VIII hoạt tính < 1%</b>. <b>Xét nghiệm tìm chất ức chế yếu tố VIII dương tính với hiệu giá cao (40 BU/mL)</b>.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất với bệnh nhân là gì?",
+          "options": [
+            "Hemophilia A bẩm sinh thể nặng",
+            "Bệnh bạch cầu cấp",
+            "Hemophilia mắc phải (Acquired Hemophilia A)",
+            "Tác dụng phụ của thuốc chống đông"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh <b>một người lớn tuổi, không có tiền sử chảy máu</b>, đột ngột xuất hiện <b>chảy máu nặng</b> (thường là ở da và cơ) với <b>xét nghiệm aPTT kéo dài đơn độc, yếu tố VIII giảm rất thấp và có chất ức chế</b> là hình ảnh kinh điển của <b>Hemophilia mắc phải</b>. Đây là một bệnh tự miễn hiếm gặp nhưng nghiêm trọng."
+        },
+        {
+          "q": "Đặc điểm nào giúp phân biệt Hemophilia mắc phải với Hemophilia bẩm sinh?",
+          "options": [
+            "Bệnh nhân là nữ và khởi phát ở tuổi già, không có tiền sử cá nhân/gia đình về chảy máu",
+            "aPTT luôn luôn dài hơn so với thể bẩm sinh",
+            "Chỉ gây chảy máu ở da, không bao giờ chảy máu khớp",
+            "Luôn liên quan đến một bệnh ung thư tiềm ẩn"
+          ],
+          "answer": 0,
+          "explain": "<b>Sự khác biệt cốt lõi nằm ở dịch tễ học và tiền sử</b>. Hemophilia bẩm sinh là <b>bệnh di truyền, khởi phát từ thời thơ ấu, chủ yếu ở nam giới</b> và có tiền sử gia đình. Ngược lại, <b>Hemophilia mắc phải xảy ra ở cả hai giới</b> (thường ở người lớn tuổi), <b>không có tính di truyền, khởi phát đột ngột</b> và không có tiền sử chảy máu trước đó."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của Hemophilia mắc phải là gì?",
+          "options": [
+            "Đột biến gen F8 xảy ra trong quá trình sống",
+            "Hệ miễn dịch sản xuất tự kháng thể chống lại yếu tố VIII của chính cơ thể",
+            "Gan ngừng sản xuất yếu tố VIII do bệnh lý khác",
+            "Tăng tiêu thụ yếu tố VIII trong một bệnh lý ác tính"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế của Hemophilia mắc phải là do <b>hệ miễn dịch bị rối loạn</b> và <b>tạo ra các tự kháng thể (autoantibodies) chống lại yếu tố VIII nội sinh</b>. Các <b>tự kháng thể này trung hòa hoạt động của yếu tố VIII</b>, dẫn đến <b>tình trạng thiếu hụt chức năng yếu tố VIII nặng</b> và gây chảy máu."
+        },
+        {
+          "q": "Hướng điều trị cho bệnh nhân này bao gồm hai mục tiêu chính là gì?",
+          "options": [
+            "Truyền yếu tố VIII và Vitamin K",
+            "Cầm máu bằng tác nhân bypass và ức chế miễn dịch để loại bỏ tự kháng thể",
+            "Hóa trị và xạ trị",
+            "Bổ sung sắt và truyền khối hồng cầu"
+          ],
+          "answer": 1,
+          "explain": "<b>Điều trị Hemophilia mắc phải có hai nhánh song song:</b><br>(1) <b>Cầm máu cấp cứu:</b> vì yếu tố VIII truyền vào sẽ bị kháng thể trung hòa, phải dùng các <b>tác nhân bypass (rFVIIa, FEIBA)</b> để kiểm soát chảy máu.<br>(2) <b>Điều trị gốc bệnh:</b> dùng các <b>thuốc ức chế miễn dịch (corticosteroid, cyclophosphamide, rituximab...)</b> để tiêu diệt dòng tế bào lympho sản xuất ra tự kháng thể, nhằm loại bỏ chất ức chế vĩnh viễn."
+        },
+        {
+          "q": "Tình trạng nào sau đây không phải là một nguyên nhân hay yếu tố liên quan thường gặp của Hemophilia mắc phải?",
+          "options": [
+            "Tự miễn (không rõ nguyên nhân)",
+            "Các bệnh tự miễn khác như lupus, viêm khớp dạng thấp",
+            "Các bệnh ác tính (u đặc, bệnh lý tăng sinh lympho)",
+            "Di truyền từ cha mẹ"
+          ],
+          "answer": 3,
+          "explain": "<b>Hemophilia mắc phải là một bệnh tự miễn, không phải bệnh di truyền</b>. Khoảng 50% trường hợp là vô căn (tự phát). Trong số còn lại, nó có thể liên quan đến các tình trạng khác làm thay đổi hệ miễn dịch như <b>các bệnh tự miễn khác, ung thư, thuốc, hoặc tình trạng sau sinh</b>. Không có thành phần di truyền trong bệnh này."
+        }
+      ]
+    },
+    {
+      "title": "Bé 2 tuổi Hemophilia A nặng, bắt đầu điều trị dự phòng",
+      "body": "Bệnh nhi nam 2 tuổi, được chẩn đoán <b>Hemophilia A thể nặng</b>. Sau khi thảo luận với gia đình, các bác sĩ quyết định <b>bắt đầu chế độ điều trị dự phòng</b>.<br><br>Bệnh nhi <b>nặng 12 kg</b>. Mục tiêu là <b>duy trì nồng độ đáy của yếu tố VIII > 1%</b>.<br><br><b>Liều yếu tố VIII tái tổ hợp thường dùng cho điều trị dự phòng là 25-40 IU/kg, tiêm tĩnh mạch 3 lần/tuần</b>.",
+      "questions": [
+        {
+          "q": "Mục đích chính của điều trị dự phòng trong Hemophilia là gì?",
+          "options": [
+            "Chữa khỏi hoàn toàn bệnh Hemophilia",
+            "Ngăn ngừa các đợt chảy máu tự phát, đặc biệt là chảy máu khớp, để bảo vệ chức năng khớp",
+            "Điều trị các đợt chảy máu khi chúng đã xảy ra",
+            "Giảm chi phí điều trị cho bệnh nhân"
+          ],
+          "answer": 1,
+          "explain": "<b>Điều trị dự phòng được coi là tiêu chuẩn vàng</b> trong chăm sóc bệnh nhân Hemophilia nặng. <b>Mục tiêu cốt lõi</b> là <b>duy trì một nồng độ yếu tố đông máu tối thiểu trong máu để ngăn ngừa chảy máu xảy ra</b>, đặc biệt là chảy máu vào khớp. Việc này giúp trẻ có thể sống một cuộc sống gần như bình thường và tránh được biến chứng tàn tật do bệnh khớp."
+        },
+        {
+          "q": "Cơ chế tác dụng của liệu pháp này là gì?",
+          "options": [
+            "Kích thích tủy xương của bệnh nhân tự sản xuất yếu tố VIII",
+            "Chuyển đổi bệnh nhân từ thể nặng thành thể trung bình hoặc nhẹ về mặt kiểu hình lâm sàng",
+            "Cung cấp một loại gen thay thế cho gen bị lỗi",
+            "Trung hòa các chất ức chế có thể hình thành"
+          ],
+          "answer": 1,
+          "explain": "Bằng cách <b>tiêm yếu tố đông máu đều đặn</b>, chúng ta biến một bệnh nhân có nồng độ yếu tố <1% (thể nặng, hay bị chảy máu tự phát) thành một người có nồng độ đáy >1-2% (tương đương thể trung bình hoặc nhẹ). Ở mức độ này, <b>chảy máu tự phát rất hiếm khi xảy ra</b>, giúp bảo vệ các khớp khỏi tổn thương."
+        },
+        {
+          "q": "Liều yếu tố VIII (IU) mỗi lần tiêm cho bệnh nhi này nên được tính toán trong khoảng nào?",
+          "options": [
+            "100 - 200 IU",
+            "300 - 480 IU",
+            "600 - 800 IU",
+            "1000 - 1200 IU"
+          ],
+          "answer": 1,
+          "explain": "Liều dùng được <b>tính theo cân nặng:</b> 12 kg × 25 IU/kg = 300 IU và 12 kg × 40 IU/kg = 480 IU. Vậy, <b>liều mỗi lần tiêm cho bệnh nhi này sẽ nằm trong khoảng từ 300 đến 480 IU</b>."
+        },
+        {
+          "q": "Thách thức lớn nhất khi thực hiện điều trị dự phòng lâu dài ở trẻ nhỏ là gì?",
+          "options": [
+            "Nguy cơ quá liều thuốc",
+            "Khó khăn trong việc tiếp cận tĩnh mạch để tiêm thuốc thường xuyên",
+            "Tác dụng phụ gây tăng huyết áp của thuốc",
+            "Chi phí thuốc quá thấp"
+          ],
+          "answer": 1,
+          "explain": "Việc phải <b>tiêm tĩnh mạch 2-3 lần mỗi tuần, đôi khi là mỗi ngày, trong nhiều năm liền</b> là một gánh nặng lớn. Ở trẻ nhỏ, <b>hệ thống tĩnh mạch còn mỏng manh và khó lấy</b>, đòi hỏi kỹ thuật viên có kinh nghiệm hoặc phải đặt các thiết bị truy cập tĩnh mạch trung tâm (buồng tiêm truyền), vốn cũng có những nguy cơ riêng như nhiễm trùng, huyết khối."
+        },
+        {
+          "q": "Ngoài việc tiêm yếu tố VIII, biện pháp hỗ trợ nào cần được nhấn mạnh trong việc chăm sóc toàn diện cho trẻ?",
+          "options": [
+            "Hạn chế hoàn toàn vận động của trẻ",
+            "Chế độ ăn không có vitamin K",
+            "Chăm sóc răng miệng tốt để tránh các thủ thuật nha khoa và tiêm chủng đầy đủ (ưu tiên đường tiêm dưới da)",
+            "Tránh cho trẻ tiếp xúc với các trẻ khác"
+          ],
+          "answer": 2,
+          "explain": "<b>Chăm sóc toàn diện bao gồm nhiều khía cạnh</b>. <b>Chăm sóc răng miệng tốt</b> giúp ngăn ngừa sâu răng, viêm lợi, từ đó tránh được các thủ thuật nha khoa có nguy cơ chảy máu cao. <b>Tiêm chủng là cần thiết</b> để bảo vệ trẻ, nhưng nên <b>ưu tiên đường tiêm dưới da thay vì tiêm bắp</b> để giảm nguy cơ hình thành khối máu tụ trong cơ."
+        }
+      ]
+    },
+    {
+      "title": "Nam 25 tuổi Hemophilia A nặng cần phẫu thuật cắt ruột thừa",
+      "body": "Bệnh nhân nam 25 tuổi, bị <b>Hemophilia A thể nặng</b>, cần phải <b>phẫu thuật cắt ruột thừa viêm cấp</b>. Bệnh nhân <b>nặng 70kg</b>.<br><br>Cận lâm sàng trước mổ: <b>hoạt tính yếu tố VIII <1%</b> và <b>không có chất ức chế</b>.<br><br>Bác sĩ phẫu thuật và bác sĩ huyết học cần lập kế hoạch chu phẫu để đảm bảo an toàn cho bệnh nhân.",
+      "questions": [
+        {
+          "q": "Mục tiêu hoạt tính yếu tố VIII cần đạt được ngay trước khi phẫu thuật và duy trì trong giai đoạn hậu phẫu sớm là bao nhiêu?",
+          "options": [
+            "20-30%",
+            "40-60%",
+            "80-100%",
+            ">100%"
+          ],
+          "answer": 2,
+          "explain": "<b>Phẫu thuật lớn là một thách thức cầm máu nghiêm trọng</b>. Để đảm bảo quá trình đông máu diễn ra bình thường và an toàn trong suốt cuộc mổ, bệnh nhân Hemophilia cần được <b>nâng nồng độ yếu tố thiếu hụt lên mức của người bình thường (80-100%)</b> ngay trước khi phẫu thuật và <b>duy trì ở mức cao (>50%) trong vài ngày sau đó</b> cho đến khi vết mổ lành tốt."
+        },
+        {
+          "q": "Công thức thường được dùng để tính liều yếu tố VIII cần bù là: Liều (IU) = Cân nặng (kg) × (Mức yếu tố đích (%) - Mức yếu tố nền (%)) × 0.5. Giả sử mức nền là 0, liều yếu tố VIII cần tiêm trước mổ để đạt mức 100% là bao nhiêu?",
+          "options": [
+            "1500 IU",
+            "2500 IU",
+            "3500 IU",
+            "5000 IU"
+          ],
+          "answer": 2,
+          "explain": "Áp dụng công thức: Liều (IU) = 70 kg × (100% - 0%) × 0.5 = 70 × 100 × 0.5 = <b>3500 IU</b>. Bệnh nhân cần được tiêm một liều bolus 3500 IU yếu tố VIII ngay trước khi phẫu thuật."
+        },
+        {
+          "q": "Cơ chế nào giải thích hằng số 0.5 trong công thức tính liều yếu tố VIII?",
+          "options": [
+            "Là thời gian bán thải của yếu tố VIII tính bằng giờ",
+            "Là thể tích phân bố của yếu tố VIII, với 1 IU/kg yếu tố VIII tiêm vào sẽ làm tăng nồng độ trong huyết tương lên khoảng 2% (nghịch đảo của 0.5)",
+            "Là tỷ lệ yếu tố VIII bị phá hủy ngay sau khi tiêm",
+            "Là một hằng số an toàn được quy ước"
+          ],
+          "answer": 1,
+          "explain": "Hằng số trong công thức tính liều phản ánh <b>dược động học của yếu tố đông máu</b>. Với yếu tố VIII, người ta thấy rằng <b>việc tiêm 1 đơn vị quốc tế (IU) cho mỗi kg cân nặng sẽ làm tăng nồng độ yếu tố VIII</b> trong huyết tương của bệnh nhân lên khoảng <b>2% (hay 2 IU/dL)</b>. Do đó, để tính liều cần thiết để đạt một mức tăng cụ thể, ta nhân với nghịch đảo của 2, tức là 0.5."
+        },
+        {
+          "q": "Ngoài việc bù yếu tố VIII, biện pháp nào cần được thực hiện trong quá trình phẫu thuật để giảm thiểu chảy máu?",
+          "options": [
+            "Sử dụng kỹ thuật phẫu thuật tỉ mỉ, cầm máu tại chỗ tốt và có thể dùng keo fibrin sinh học",
+            "Tăng huyết áp của bệnh nhân",
+            "Giảm thân nhiệt của bệnh nhân",
+            "Truyền máu dự phòng trước mổ"
+          ],
+          "answer": 0,
+          "explain": "Việc <b>bù yếu tố đông máu là điều kiện cần nhưng chưa đủ</b>. <b>Phẫu thuật viên phải hết sức cẩn trọng</b>, sử dụng các kỹ thuật ít xâm lấn nếu có thể, <b>cầm máu kỹ lưỡng từng mạch máu nhỏ</b>. Các <b>tác nhân cầm máu tại chỗ như keo fibrin, surgicel...</b> có thể được sử dụng để hỗ trợ cầm máu bề mặt vết mổ."
+        },
+        {
+          "q": "Sau phẫu thuật, bệnh nhân cần được theo dõi sát xét nghiệm nào để điều chỉnh liều yếu tố VIII?",
+          "options": [
+            "Số lượng tiểu cầu",
+            "Thời gian prothrombin (PT)",
+            "Nồng độ/hoạt tính yếu tố VIII trong huyết tương",
+            "Công thức bạch cầu"
+          ],
+          "answer": 2,
+          "explain": "Việc <b>đáp ứng với liều yếu tố VIII thay thế có thể khác nhau</b> giữa các cá nhân. Do đó, sau khi tiêm liều ban đầu và trong suốt quá trình hậu phẫu, cần phải <b>theo dõi định kỳ nồng độ yếu tố VIII trong máu</b> để đảm bảo rằng bệnh nhân luôn đạt được mức đích mong muốn và điều chỉnh liều truyền duy trì cho phù hợp."
+        }
+      ]
+    },
+    {
+      "title": "Nữ 24 tuổi người mang gen Hemophilia A, rong kinh nặng",
+      "body": "Bệnh nhân nữ 24 tuổi, <b>là người mang gen Hemophilia A</b> (mẹ của một bé trai bị Hemophilia A nặng). Cô đến khám vì <b>tình trạng rong kinh nặng</b>, các kỳ kinh <b>kéo dài 10 ngày</b> và <b>lượng máu rất nhiều</b>. Cô cũng cho biết mình <b>dễ bị bầm tím hơn người bình thường</b>.<br><br>Khám phụ khoa: không phát hiện bất thường về cấu trúc.<br><br>Cận lâm sàng: Số lượng tiểu cầu bình thường, <b>aPTT ở giới hạn cao của bình thường (38 giây, chứng 30 giây)</b>, <b>Định lượng hoạt tính yếu tố VIII là 35% (0.35 IU/mL)</b>.",
+      "questions": [
+        {
+          "q": "Tại sao một người nữ mang gen Hemophilia lại có thể có triệu chứng chảy máu?",
+          "options": [
+            "Do hiện tượng bất hoạt ngẫu nhiên nhiễm sắc thể X (lyonization)",
+            "Do cô ấy thực sự là đồng hợp tử về gen bệnh",
+            "Do tất cả phụ nữ đều có yếu tố VIII thấp hơn nam giới",
+            "Do ảnh hưởng của hormone estrogen lên đông máu"
+          ],
+          "answer": 0,
+          "explain": "Phụ nữ có <b>hai nhiễm sắc thể X</b>. Trong mỗi tế bào, <b>một trong hai NST X sẽ bị bất hoạt một cách ngẫu nhiên</b> (hiện tượng lyonization). Nếu ở một phụ nữ mang gen Hemophilia, quá trình bất hoạt này <b>ưu tiên bất hoạt NST X bình thường</b> trong phần lớn các tế bào gan (nơi sản xuất yếu tố VIII), thì <b>NST X mang gen bệnh sẽ hoạt động chủ yếu</b>, dẫn đến <b>nồng độ yếu tố VIII thấp</b> và gây ra triệu chứng chảy máu."
+        },
+        {
+          "q": "Nồng độ yếu tố VIII 35% ở bệnh nhân này được xem là gì?",
+          "options": [
+            "Bình thường",
+            "Thiếu hụt nhẹ",
+            "Thiếu hụt trung bình",
+            "Thiếu hụt nặng"
+          ],
+          "answer": 1,
+          "explain": "Theo định nghĩa, <b>nồng độ yếu tố đông máu từ 6-40% được xếp vào mức độ nhẹ</b>. Bệnh nhân này có triệu chứng chảy máu tương ứng với <b>mức độ thiếu hụt nhẹ này</b>."
+        },
+        {
+          "q": "Cơ chế nào giải thích tại sao aPTT của bệnh nhân chỉ kéo dài không đáng kể?",
+          "options": [
+            "Nồng độ yếu tố VIII 35% vẫn đủ để duy trì thời gian aPTT gần mức bình thường",
+            "Xét nghiệm aPTT không nhạy với sự thiếu hụt yếu tố VIII",
+            "Có một yếu tố đông máu khác tăng bù trừ",
+            "Sai số của phòng xét nghiệm"
+          ],
+          "answer": 0,
+          "explain": "Xét nghiệm <b>aPTT chỉ bắt đầu kéo dài rõ rệt khi nồng độ yếu tố VIII</b> (hoặc IX, XI, XII) <b>giảm xuống dưới khoảng 30-40%</b>. Với nồng độ 35%, <b>aPTT có thể chỉ ở giới hạn cao của bình thường hoặc kéo dài rất nhẹ</b>, do đó có thể bỏ sót chẩn đoán nếu chỉ dựa vào xét nghiệm sàng lọc này."
+        },
+        {
+          "q": "Lựa chọn điều trị nào sau đây là phù hợp và là bước đầu tiên để xử trí rong kinh cho bệnh nhân này, sau khi đã loại trừ các nguyên nhân phụ khoa khác?",
+          "options": [
+            "Cắt bỏ tử cung",
+            "Truyền yếu tố VIII cô đặc hàng tháng",
+            "Sử dụng thuốc chống tiêu sợi huyết (acid tranexamic) hoặc thuốc tránh thai nội tiết",
+            "Truyền máu mỗi khi có kinh nguyệt"
+          ],
+          "answer": 2,
+          "explain": "Đối với <b>rong kinh ở phụ nữ có rối loạn đông máu nhẹ</b>, các biện pháp can thiệp đầu tay thường là không đặc hiệu. <b>Acid tranexamic</b> giúp làm bền cục máu đông ở nội mạc tử cung. <b>Thuốc tránh thai nội tiết phối hợp</b> giúp làm mỏng nội mạc tử cung và điều hòa chu kỳ kinh, giảm lượng máu mất. Bù yếu tố VIII chỉ dành cho trường hợp nặng hoặc trước thủ thuật."
+        },
+        {
+          "q": "Tư vấn nào là quan trọng nhất cho bệnh nhân này khi cô ấy dự định có thai lần nữa?",
+          "options": [
+            "Không nên có thai nữa",
+            "Cần tư vấn di truyền và chẩn đoán trước sinh, cũng như lập kế hoạch sinh tại một trung tâm có chuyên khoa huyết học và sản khoa",
+            "Cần tiêm yếu tố VIII dự phòng trong suốt thai kỳ",
+            "Cần sinh mổ tuyệt đối trong mọi trường hợp"
+          ],
+          "answer": 1,
+          "explain": "Việc <b>quản lý thai kỳ và sinh đẻ ở phụ nữ mang gen Hemophilia cần được lên kế hoạch cẩn thận</b>. <b>Tư vấn di truyền</b> giúp họ hiểu nguy cơ truyền bệnh cho con. <b>Chẩn đoán trước sinh</b> có thể xác định giới tính và tình trạng bệnh của thai nhi. <b>Việc sinh nở cần diễn ra tại một trung tâm chuyên sâu</b> để có sự phối hợp giữa các chuyên gia, quản lý chảy máu trong và sau sinh, cũng như tránh các can thiệp nguy cơ cho thai nhi nếu là bé trai bị bệnh (như forcep, giác hút)."
+        }
+      ]
+    },
+    {
+      "title": "Nam 32 tuổi Hemophilia A trung bình, đau bụng hố chậu",
+      "body": "Bệnh nhân nam 32 tuổi, bị <b>Hemophilia A thể trung bình (yếu tố VIII 3%)</b>, nhập viện vì <b>đau bụng vùng hố chậu phải</b>. Bệnh nhân <b>không có tiền sử chảy máu tự phát</b>, chỉ chảy máu sau chấn thương.<br><br>Cơn đau bụng <b>tương tự như mô tả của viêm ruột thừa, không có khối máu tụ rõ trên lâm sàng</b>. <br><br>Siêu âm bụng: cho thấy <b>hình ảnh tụ dịch nhỏ vùng hố chậu phải</b> nhưng <b>không loại trừ được khối máu tụ cơ thắt lưng chậu (psoas hematoma) giai đoạn sớm</b>. Bác sĩ đang phân vân giữa chẩn đoán phân biệt viêm ruột thừa cấp và chảy máu trong cơ.",
+      "questions": [
+        {
+          "q": "Tình trạng chảy máu nào sau đây là một đặc điểm của Hemophilia cần được chẩn đoán phân biệt với viêm ruột thừa cấp?",
+          "options": [
+            "Chảy máu khớp háng",
+            "Chảy máu trong cơ thành bụng",
+            "Khối máu tụ trong cơ thắt lưng chậu (iliopsoas hematoma)",
+            "Chảy máu trong ổ bụng tự phát"
+          ],
+          "answer": 2,
+          "explain": "<b>Cơ thắt lưng chậu (iliopsoas) là một vị trí chảy máu khá phổ biến</b> ở bệnh nhân Hemophilia. Do vị trí giải phẫu của nó <b>nằm sau phúc mạc, ở vùng hố chậu</b>, một khối máu tụ ở đây có thể gây đau và các triệu chứng kích thích phúc mạc, rất dễ nhầm lẫn với các bệnh lý ngoại khoa cấp tính trong ổ bụng như viêm ruột thừa."
+        },
+        {
+          "q": "Cơ chế nào khiến khối máu tụ trong cơ thắt lưng chậu có thể giả triệu chứng của viêm ruột thừa?",
+          "options": [
+            "Khối máu tụ gây kích thích phúc mạc thành ở hố chậu phải",
+            "Khối máu tụ gây chèn ép và kích thích dây thần kinh đùi",
+            "Cả A và B đều đúng",
+            "Khối máu tụ luôn gây sốt cao"
+          ],
+          "answer": 2,
+          "explain": "Khối máu tụ trong cơ thắt lưng chậu có thể <b>lan rộng, gây kích thích phúc mạc lân cận</b>, tạo ra các dấu hiệu như đau và phản ứng thành bụng ở hố chậu phải. Ngoài ra, nó có thể <b>chèn ép vào đám rối thần kinh thắt lưng, đặc biệt là dây thần kinh đùi</b> chạy qua cơ này, gây đau lan xuống mặt trước đùi, yếu cơ tứ đầu đùi và rối loạn cảm giác."
+        },
+        {
+          "q": "Bước xử trí đầu tiên và hợp lý nhất trong tình huống không rõ ràng này là gì?",
+          "options": [
+            "Phẫu thuật nội soi thăm dò ngay lập tức",
+            "Cho bệnh nhân dùng kháng sinh phổ rộng và theo dõi",
+            "Truyền yếu tố VIII liều điều trị và đánh giá lại đáp ứng lâm sàng của bệnh nhân",
+            "Cho bệnh nhân dùng thuốc giảm đau mạnh và chờ đợi"
+          ],
+          "answer": 2,
+          "explain": "Trong Hemophilia, nguyên tắc vàng là <b>\"khi nghi ngờ chảy máu, hãy điều trị\"</b>. Trong một tình huống chẩn đoán không chắc chắn giữa chảy máu và một bệnh lý khác, việc <b>truyền yếu tố đông máu là một biện pháp vừa điều trị vừa hỗ trợ chẩn đoán</b>. Nếu triệu chứng cải thiện, khả năng cao nguyên nhân là do chảy máu. Biện pháp này an toàn hơn nhiều so với việc phẫu thuật thăm dò một bệnh nhân đang có rối loạn đông máu."
+        },
+        {
+          "q": "Dấu hiệu lâm sàng nào có thể giúp gợi ý đến chẩn đoán khối máu tụ cơ thắt lưng chậu?",
+          "options": [
+            "Bệnh nhân có xu hướng nằm co chân bên đau vào bụng để giảm căng cơ",
+            "Bệnh nhân có thể bị yếu hoặc mất cảm giác ở mặt trước đùi",
+            "Cả A và B đều đúng",
+            "Bệnh nhân có dấu hiệu vàng da"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân thường tìm tư thế giảm đau bằng cách <b>gập háng và xoay ngoài để làm chùng cơ thắt lưng chậu</b>. <b>Dấu hiệu chèn ép thần kinh đùi</b> (đau, tê, yếu mặt trước đùi) là <b>một dấu hiệu rất đặc hiệu</b> cho khối máu tụ ở vị trí này."
+        },
+        {
+          "q": "Nếu cơn đau của bệnh nhân giảm rõ rệt sau khi truyền yếu tố VIII, điều này gợi ý chẩn đoán nào nhiều hơn?",
+          "options": [
+            "Viêm ruột thừa cấp",
+            "Chảy máu trong cơ thắt lưng chậu",
+            "Sỏi niệu quản",
+            "Viêm túi thừa Meckel"
+          ],
+          "answer": 1,
+          "explain": "Nếu <b>nguyên nhân gây đau là do chảy máu đang hoạt động</b>, việc truyền yếu tố đông máu sẽ giúp <b>cầm máu, ngăn khối máu tụ lớn thêm và giảm áp lực chèn ép</b>, từ đó làm giảm đau một cách <b>nhanh chóng và đáng kể</b>. Đây là một test điều trị hữu ích. <b>Cơn đau do viêm ruột thừa sẽ không thuyên giảm</b> khi truyền yếu tố đông máu."
+        }
+      ]
+    }
+  ]
+}
