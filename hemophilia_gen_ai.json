@@ -1,0 +1,613 @@
+{
+  "name": "Hemophilia (Gen AI)",
+  "description": "Case lâm sàng Hemophilia A và B - Ôn thi bác sĩ nội trú, bám sát BYT 2016 và WFH Guidelines 2021",
+  "level": "Ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Huyết học",
+  "cases": [
+    {
+      "title": "Bé trai 8 tuổi sưng đau khớp gối đột ngột, không có chấn thương",
+      "body": "<b>Hành chính:</b> Bé trai 8 tuổi, được mẹ đưa đến cấp cứu.<br><br><b>Bệnh sử:</b> Đau và sưng đột ngột khớp gối phải từ sáng nay, <b>không có chấn thương</b>. Đây là lần thứ 3 bé bị đau sưng khớp trong 2 năm qua (trước đó ở khuỷu tay và cổ chân). Vết thương nhỏ thường chảy máu lâu cầm hơn bình thường.<br><br><b>Tiền sử gia đình:</b> Anh trai của mẹ (cậu bé) có tiền sử chảy máu kéo dài bất thường.<br><br><b>Khám:</b> Khớp gối phải sưng căng, nóng, đau khi sờ nắn, vận động hạn chế. Không có ban xuất huyết. Nhiệt độ 37,2°C; Mạch 90 lần/phút; HA 100/65 mmHg.<br><br><b>Cận lâm sàng:</b> SLTC 230 G/L; PT 12s (chứng 12s); APTT 65s (chứng 32s); Fibrinogen 3,5 g/L; Thời gian máu chảy 2 phút (bt); Thời gian Howell 180s (bt <120s).",
+      "questions": [
+        {
+          "q": "Đặc điểm nào trong bệnh sử gợi ý bệnh lý di truyền liên kết NST X nhất?",
+          "options": [
+            "Chảy máu khớp tái phát tự nhiên từ nhỏ ở bé trai, tiền sử chảy máu bên họ mẹ",
+            "Sưng khớp đơn độc kết hợp sốt nhẹ và bạch cầu máu tăng cao",
+            "Đau khớp xuất hiện sau vận động mạnh, hết khi nghỉ ngơi hoàn toàn",
+            "Sưng khớp đối xứng hai bên kèm cứng khớp buổi sáng trên 30 phút"
+          ],
+          "answer": 0,
+          "explain": "Hemophilia là bệnh di truyền lặn liên kết NST X: biểu hiện ở <b>nam giới</b>, di truyền qua người mẹ mang gen (bên họ ngoại). Đặc trưng là <b>chảy máu khớp tự nhiên</b> (không cần chấn thương), <b>tái phát nhiều lần từ nhỏ</b> ở các khớp khác nhau. Sốt + tăng BC → nhiễm khuẩn khớp. Đau sau vận động → viêm khớp cơ học. Sưng đối xứng + cứng buổi sáng → viêm khớp tự miễn. Không bệnh nào ngoài hemophilia giải thích đủ cả ba yếu tố: tự nhiên, tái phát, họ mẹ."
+        },
+        {
+          "q": "Kết quả xét nghiệm của bé phù hợp nhất với bệnh nào?",
+          "options": [
+            "Hemophilia A hoặc B: APTT kéo dài đơn độc, PT và SLTC bình thường",
+            "Bệnh von Willebrand: APTT kéo dài, thời gian máu chảy kéo dài, vWF giảm",
+            "Xuất huyết giảm tiểu cầu miễn dịch: SLTC giảm, APTT và PT bình thường",
+            "DIC cấp: APTT và PT đều kéo dài, SLTC giảm, Fibrinogen giảm"
+          ],
+          "answer": 0,
+          "explain": "Kết quả: <b>APTT kéo dài đơn độc</b> (65s vs chứng 32s), PT bình thường, SLTC bình thường, thời gian máu chảy bình thường → tổn thương chọn lọc <b>con đường đông máu nội sinh</b> (FVIII hoặc FIX). Đây là đặc trưng của Hemophilia A hoặc B. vWD: thêm thời gian máu chảy kéo dài và vWF giảm. XHGTC miễn dịch: SLTC giảm là chính. DIC: tổn thương cả hai con đường, SLTC và Fibrinogen giảm."
+        },
+        {
+          "q": "Chọn TẤT CẢ các phát biểu đúng về kết quả xét nghiệm trong Hemophilia A thể nặng:",
+          "type": "multi",
+          "options": [
+            "APTT kéo dài, rAPTT thường > 1,25",
+            "Định lượng yếu tố VIII < 1% hoạt tính",
+            "Số lượng tiểu cầu giảm < 100 G/L",
+            "Thời gian Howell kéo dài",
+            "PT kéo dài, INR > 1,5"
+          ],
+          "answer": [
+            0,
+            1,
+            3
+          ],
+          "explain": "(A) ĐÚNG — APTT phản ánh con đường nội sinh gồm FVIII; rAPTT > 1,25 là ngưỡng kéo dài có ý nghĩa. (B) ĐÚNG — Hemophilia A thể nặng định nghĩa là FVIII < 1%. (C) SAI — Số lượng tiểu cầu <b>bình thường</b> trong hemophilia; giảm tiểu cầu gợi ý bệnh lý khác (DIC, XHGTC). (D) ĐÚNG — Thời gian Howell phản ánh con đường nội sinh + tiểu cầu, kéo dài khi thiếu FVIII/FIX. (E) SAI — PT (con đường ngoại sinh qua FVII) không bị ảnh hưởng, bình thường trong hemophilia."
+        },
+        {
+          "q": "Bé nặng 24 kg, FVIII nền = 0%, cần nâng FVIII lên 20% để xử trí chảy máu khớp. Liều FVIII cần dùng một lần là bao nhiêu?",
+          "options": [
+            "120 IU",
+            "240 IU",
+            "480 IU",
+            "960 IU"
+          ],
+          "answer": 1,
+          "explain": "Công thức: <b>FVIII (IU) = (FVIII đích% − FVIII nền%) × Cân nặng (kg) ÷ 2</b>. Thay số: (20 − 0) × 24 ÷ 2 = 20 × 12 = <b>240 IU</b>. Cơ sở: 1 IU FVIII/kg làm tăng nồng độ FVIII 2% (0,02 u/mL). Thời gian bán hủy FVIII 8–12 giờ → nếu chảy máu nặng hoặc vị trí nguy hiểm cần bổ sung mỗi 8–12h để duy trì nồng độ mục tiêu."
+        },
+        {
+          "q": "Theo WFH 2021, chiến lược điều trị dự phòng nào là tiêu chuẩn vàng cho Hemophilia A thể nặng ở trẻ em?",
+          "options": [
+            "Dự phòng nguyên phát: khởi đầu trước 3 tuổi và trước lần chảy máu khớp thứ 2",
+            "Dự phòng thứ phát: bắt đầu sau khi đã có ít nhất 2 lần chảy máu vào khớp",
+            "Điều trị theo yêu cầu: chỉ bổ sung yếu tố đông máu khi có đợt chảy máu cấp",
+            "Dự phòng tam cấp: bắt đầu khi bệnh nhân đã có bệnh khớp tiến triển rõ ràng"
+          ],
+          "answer": 0,
+          "explain": "WFH 2021 xếp <b>dự phòng nguyên phát</b> là tiêu chuẩn vàng: bắt đầu trước 3 tuổi, TRƯỚC lần chảy máu khớp thứ 2 — nhằm hoàn toàn ngăn ngừa tổn thương khớp. Mục tiêu: duy trì nồng độ yếu tố đáy > 1–2%. Dự phòng thứ phát: sau ≥2 lần chảy máu khớp hoặc đã có dấu hiệu tổn thương sớm. Điều trị theo yêu cầu không bảo vệ được khớp. Dự phòng tam cấp: khi bệnh khớp đã tiến triển — chỉ giảm tốc độ tổn thương thêm."
+        }
+      ]
+    },
+    {
+      "title": "Nam 35 tuổi chảy máu kéo dài 8 giờ sau nhổ răng",
+      "body": "<b>Hành chính:</b> Nam, 35 tuổi, nhân viên văn phòng.<br><br><b>Bệnh sử:</b> Đến cấp cứu vì <b>chảy máu kéo dài 8 giờ sau nhổ răng</b>, không cầm được dù đã cắn gạc liên tục. Vết thương nhỏ thường chảy máu lâu cầm hơn người khác nhưng chưa từng nhập viện. Không có tiền sử tự chảy máu vào khớp hay cơ.<br><br><b>Tiền sử gia đình:</b> Anh trai được chẩn đoán bệnh chảy máu từ nhỏ. Không dùng kháng đông hay kháng kết tập tiểu cầu.<br><br><b>Khám:</b> Ổ nhổ răng còn chảy máu rỉ rả. Không có ban xuất huyết. Không sưng khớp.<br><br><b>Cận lâm sàng:</b> SLTC 215 G/L; PT 12,5s (chứng 12s); APTT 52s (chứng 32s); Fibrinogen 3,8 g/L; Định lượng FVIII: 12%.",
+      "questions": [
+        {
+          "q": "Dựa vào nồng độ FVIII = 12%, bệnh nhân thuộc mức độ nào của Hemophilia A?",
+          "options": [
+            "Mức độ nhẹ (5–40%): thường chảy máu sau phẫu thuật lớn hoặc chấn thương nặng",
+            "Mức độ trung bình (1–5%): chảy máu sau chấn thương nhỏ, hiếm chảy máu tự nhiên",
+            "Mức độ nặng (< 1%): chảy máu tự phát vào khớp và cơ thường xuyên",
+            "Bình thường (40–150%): không có ý nghĩa bệnh lý trong bối cảnh này"
+          ],
+          "answer": 0,
+          "explain": "Phân loại mức độ theo BYT 2016: <b>Nặng < 1%, Trung bình 1–5%, Nhẹ 5–40%</b>. FVIII 12% → khoảng 5–40% → <b>thể nhẹ</b>. Đặc trưng thể nhẹ: chủ yếu chảy máu sau phẫu thuật hoặc chấn thương lớn; không hoặc hiếm chảy máu tự nhiên vào khớp — lý giải tại sao bệnh nhân 35 tuổi chưa bao giờ nhập viện dù mắc bệnh từ nhỏ. Thủ thuật nhổ răng dù nhỏ vẫn đủ khởi phát chảy máu ở thể nhẹ."
+        },
+        {
+          "q": "Chọn TẤT CẢ đặc điểm ĐÚNG khi phân biệt Hemophilia A với bệnh von Willebrand (vWD):",
+          "type": "multi",
+          "options": [
+            "Hemophilia A gặp chủ yếu ở nam; vWD gặp cả hai giới do di truyền NST thường",
+            "Hemophilia A chảy máu chủ yếu ở cơ và khớp; vWD chảy máu chủ yếu ở niêm mạc",
+            "Hemophilia A có thời gian máu chảy kéo dài; vWD có thời gian máu chảy bình thường",
+            "Hemophilia A có định lượng vWF:Ag bình thường; vWD có vWF:Ag giảm",
+            "Hemophilia A có PT kéo dài; vWD có PT bình thường"
+          ],
+          "answer": [
+            0,
+            1,
+            3
+          ],
+          "explain": "(A) ĐÚNG — HA: di truyền lặn liên NST X → chủ yếu nam. vWD: di truyền NST thường → cả 2 giới. (B) ĐÚNG — HA thiếu FVIII → gián đoạn đông máu thứ phát → XH cơ, khớp. vWD thiếu vWF (cầu nối tiểu cầu) → XH niêm mạc (kinh nguyệt nhiều, chảy máu chân răng, mũi). (C) SAI — Ngược chiều: trong HA, thời gian máu chảy <b>bình thường</b> (chức năng tiểu cầu bình thường); trong vWD, thời gian máu chảy <b>kéo dài</b>. (D) ĐÚNG — vWF:Ag và hoạt tính vWF giảm trong vWD; bình thường trong HA thuần túy. (E) SAI — PT không kéo dài trong cả hai bệnh vì con đường ngoại sinh (FVII) không bị ảnh hưởng."
+        },
+        {
+          "q": "Bước xử trí ưu tiên nhất để cầm máu sau nhổ răng ở bệnh nhân Hemophilia A thể nhẹ là gì?",
+          "options": [
+            "Bổ sung FVIII đủ liều kết hợp tranexamic acid tại chỗ để đạt FVIII ≥ 30%",
+            "Truyền huyết tương tươi đông lạnh liều lớn để bổ sung FVIII từ nguồn huyết tương",
+            "Chỉ định cầm máu tại chỗ bằng khâu vết thương, không cần bổ sung yếu tố đông máu",
+            "Chườm lạnh vùng má và băng ép chờ 24 giờ trước khi quyết định bổ sung yếu tố"
+          ],
+          "answer": 0,
+          "explain": "Chảy máu răng miệng cần đạt FVIII 15–30% (theo BYT 2016), duy trì 1–2 ngày. <b>Bổ sung FVIII cô đặc + tranexamic acid tại chỗ</b> là phác đồ chuẩn. Tranexamic acid ức chế tiêu fibrin — đặc biệt hiệu quả ở vị trí niêm mạc miệng nhiều plasminogen. HTTĐL chứa FVIII nồng độ thấp (0,6–0,8 IU/mL), thể tích lớn, kém hiệu quả hơn. Chỉ khâu và chờ không đủ khi FVIII thấp. Sau 8 giờ chảy máu không cầm, cần can thiệp ngay."
+        },
+        {
+          "q": "Thuốc nào sau đây CHỐNG CHỈ ĐỊNH dùng để giảm đau cho bệnh nhân Hemophilia?",
+          "options": [
+            "Paracetamol 500–1000 mg uống mỗi 6–8 giờ",
+            "Ibuprofen 400 mg uống mỗi 8 giờ sau ăn",
+            "Tramadol 50 mg uống khi đau mức độ vừa đến nặng",
+            "Paracetamol 500 mg kết hợp codeine 30 mg khi cần thiết"
+          ],
+          "answer": 1,
+          "explain": "<b>NSAIDs (ibuprofen, naproxen, aspirin...)</b> ức chế COX-1 → giảm tổng hợp thromboxane A2 → ức chế kết tập tiểu cầu → làm nặng thêm tình trạng chảy máu. Chống chỉ định tuyệt đối trong Hemophilia. Paracetamol (đơn độc hoặc kết hợp codeine) không ảnh hưởng tiểu cầu → giảm đau an toàn. Tramadol (opioid) cũng không ảnh hưởng chức năng tiểu cầu → được dùng khi cần. Quy tắc nhớ: <b>KHÔNG aspirin, KHÔNG NSAIDs</b> trong Hemophilia."
+        }
+      ]
+    },
+    {
+      "title": "Nam 16 tuổi phát hiện APTT kéo dài tình cờ khi làm xét nghiệm trường",
+      "body": "<b>Hành chính:</b> Nam, 16 tuổi, học sinh THPT.<br><br><b>Bệnh sử:</b> Phát hiện <b>APTT kéo dài tình cờ</b> khi làm xét nghiệm trước tiêm phòng tại trường. Không có triệu chứng chảy máu bất thường trong tiền sử, không chảy máu lâu sau vết thương nhỏ, chưa từng phẫu thuật. Không có tiền sử gia đình mắc bệnh chảy máu.<br><br><b>Khám:</b> Không phát hiện bất thường. Không sưng khớp, không ban xuất huyết.<br><br><b>Cận lâm sàng bước 1:</b> SLTC 198 G/L; PT 12s (chứng 12s); APTT 75s (chứng 32s); Fibrinogen 3,1 g/L; Thời gian máu chảy 2 phút; <b>Kháng đông nội sinh (KĐNS): âm tính.</b>",
+      "questions": [
+        {
+          "q": "KĐNS âm tính ở bệnh nhân APTT kéo dài, bước tiếp theo hợp lý nhất là gì?",
+          "options": [
+            "Định lượng yếu tố VIII và yếu tố IX để tìm Hemophilia A hoặc B",
+            "Xét nghiệm kháng thể kháng phospholipid (lupus anticoagulant) để tìm APS",
+            "Bổ sung ngay yếu tố VIII liều dự phòng 3 lần/tuần và theo dõi lâm sàng",
+            "Chụp CT ổ bụng để loại trừ nguyên nhân ngoại khoa gây rối loạn đông máu"
+          ],
+          "answer": 0,
+          "explain": "<b>KĐNS âm tính</b> loại trừ chất ức chế (kháng thể) → APTT kéo dài do <b>thiếu yếu tố đông máu nội sinh</b>. Lưu đồ chuẩn: APTT kéo dài + KĐNS (−) → <b>định lượng FVIII và FIX</b> đầu tiên (phổ biến nhất). Nếu FVIII/FIX bình thường → mới định lượng FXII, prekallikrein, HMWK (thiếu các yếu tố này không gây chảy máu lâm sàng). KĐNS dương tính mới nghĩ đến APS hoặc Hemophilia A mắc phải. Không bổ sung yếu tố khi chưa có chẩn đoán xác định."
+        },
+        {
+          "q": "Kết quả trả về: FVIII = 2%, FIX = 82%. Chẩn đoán và mức độ phù hợp nhất là gì?",
+          "options": [
+            "Hemophilia A thể trung bình (FVIII 1–5%)",
+            "Hemophilia A thể nhẹ (FVIII 5–40%)",
+            "Hemophilia A thể nặng (FVIII < 1%)",
+            "Hemophilia B thể trung bình (FIX 1–5%)"
+          ],
+          "answer": 0,
+          "explain": "FVIII = 2% nằm trong khoảng 1–5% → <b>Hemophilia A thể trung bình</b>. FIX = 82% → bình thường → không phải Hemophilia B. Thể trung bình chảy máu sau chấn thương nhỏ và phẫu thuật nhỏ, hiếm chảy máu tự nhiên — lý giải tại sao bệnh nhân 16 tuổi chưa có triệu chứng rõ ràng dù FVIII rất thấp. Nếu FVIII < 1% → thể nặng, thường có triệu chứng từ rất nhỏ."
+        },
+        {
+          "q": "Bệnh nhân Hemophilia A thể trung bình chưa có triệu chứng chảy máu lâm sàng. Xử trí nào phù hợp nhất hiện tại?",
+          "options": [
+            "Tư vấn tránh NSAIDs/aspirin, lên kế hoạch bổ sung FVIII trước mọi phẫu thuật/thủ thuật xâm lấn",
+            "Bắt đầu truyền FVIII dự phòng ngay lập tức 3 lần/tuần như phác đồ thể nặng",
+            "Không cần can thiệp gì vì FVIII 2% vẫn còn trên ngưỡng thể nặng",
+            "Chỉ theo dõi định kỳ mỗi 5 năm nếu không có triệu chứng chảy máu"
+          ],
+          "answer": 0,
+          "explain": "Hemophilia A thể trung bình (1–5%) thường không cần dự phòng thường xuyên như thể nặng, nhưng CẦN: <b>(1) tư vấn tránh NSAIDs, aspirin và tiêm bắp; (2) bổ sung FVIII trước mọi phẫu thuật/thủ thuật xâm lấn (kể cả nhổ răng, nội soi...); (3) điều trị ngay khi có đợt chảy máu cấp.</b> Dự phòng 3 lần/tuần ưu tiên cho thể nặng. Không can thiệp gì là nguy hiểm vì phẫu thuật bất kỳ có thể gây chảy máu nghiêm trọng."
+        },
+        {
+          "q": "Nếu KĐNS của bệnh nhân này trả về DƯƠNG TÍNH và không phụ thuộc thời gian/nhiệt độ, hướng chẩn đoán ưu tiên là gì?",
+          "options": [
+            "Hội chứng kháng phospholipid (APS): APTT kéo dài, kháng thể kháng phospholipid dương tính, nguy cơ tắc mạch",
+            "Hemophilia A mắc phải: KĐNS dương tính phụ thuộc thời gian/nhiệt độ, FVIII giảm",
+            "Thiếu FXII bẩm sinh: APTT kéo dài nhưng không có biểu hiện chảy máu lâm sàng",
+            "DIC mạn tính: APTT và PT đều kéo dài, D-dimer tăng cao, SLTC giảm"
+          ],
+          "answer": 0,
+          "explain": "<b>KĐNS dương tính KHÔNG phụ thuộc thời gian và nhiệt độ</b> → gợi ý kháng thể kháng phospholipid (lupus anticoagulant — LA). Đây là đặc trưng của APS (Antiphospholipid Syndrome): gây APTT kéo dài nhưng lâm sàng thường là <b>tắc mạch</b> (không chảy máu), sảy thai liên tiếp. Cần xét nghiệm: LA, anti-cardiolipin, anti-β2GPI. Hemophilia A mắc phải có KĐNS (+) <b>phụ thuộc</b> thời gian/nhiệt độ. Thiếu FXII: KĐNS âm tính. DIC: PT và SLTC đều bất thường."
+        }
+      ]
+    },
+    {
+      "title": "Nam 23 tuổi Hemophilia A nặng, đau vùng bẹn và không duỗi thẳng chân trái",
+      "body": "<b>Hành chính:</b> Nam, 23 tuổi, sinh viên, chẩn đoán Hemophilia A thể nặng từ nhỏ.<br><br><b>Bệnh sử:</b> <b>Đau vùng bẹn trái và không duỗi thẳng được chân trái</b> từ 2 ngày nay, không có chấn thương rõ ràng. Chưa dùng yếu tố đông máu trong 5 ngày gần đây do hết thuốc. Đang điều trị dự phòng không đều đặn.<br><br><b>Khám:</b> Bệnh nhân nằm tư thế <b>gập háng trái</b>; đau khi duỗi chủ động và thụ động; không sưng rõ vùng khớp; điểm đau vùng bẹn và mặt trong đùi trái; cơ bụng dưới trái căng nhẹ; không sốt.<br><br><b>Sinh hiệu:</b> Mạch 88 lần/phút; HA 110/70 mmHg; Nhiệt độ 37,1°C.<br><br><b>Cận lâm sàng:</b> SLTC 210 G/L; APTT 82s; Siêu âm ổ bụng: <b>tụ máu vùng cơ đái chậu trái, kích thước 5×4 cm.</b>",
+      "questions": [
+        {
+          "q": "Biến chứng nguy hiểm nào cần đặc biệt theo dõi ở bệnh nhân tụ máu cơ đái chậu?",
+          "options": [
+            "Chèn ép thần kinh đùi gây liệt hoặc tê bì mặt trong đùi và cơ tứ đầu đùi",
+            "Nhiễm khuẩn huyết từ ổ tụ máu do vi khuẩn kỵ khí phát triển",
+            "Tắc động mạch chậu do khối máu tụ chèn ép từ bên ngoài",
+            "Tràn dịch màng bụng thứ phát do vỡ khối tụ máu vào ổ bụng"
+          ],
+          "answer": 0,
+          "explain": "Cơ đái chậu (iliopsoas) nằm cạnh <b>thần kinh đùi (femoral nerve)</b>. Khi khối tụ máu lớn → <b>chèn ép thần kinh đùi</b> → mất cảm giác mặt trong đùi, yếu liệt cơ tứ đầu đùi (không duỗi gối). Biểu hiện lâm sàng điển hình: <b>gập háng + đau bẹn + không duỗi chân cùng bên</b>. Đây là biến chứng để lại di chứng vận động lâu dài nếu không xử trí kịp thời. Cần bổ sung yếu tố liều cao và theo dõi dấu hiệu thần kinh sát sao."
+        },
+        {
+          "q": "Theo BYT 2016, nồng độ FVIII cần đạt (tấn công) khi xử trí tụ máu cơ đái chậu có tổn thương thần kinh đi kèm là bao nhiêu?",
+          "options": [
+            "15–30% — mức xử trí chảy máu khớp và cơ thông thường",
+            "40–60% — mức tấn công cho cơ sâu có tổn thương thần kinh đi kèm",
+            "60–80% — mức dành cho chảy máu vùng đầu và thần kinh trung ương",
+            "80–100% — mức dành cho phẫu thuật lớn và chảy máu đe dọa tính mạng"
+          ],
+          "answer": 1,
+          "explain": "Theo phác đồ BYT 2016, cơ đái chậu/cơ sâu có tổn thương thần kinh đi kèm: <b>tấn công 40–60%</b> (1–2 ngày) → duy trì 20–30% (3–5 ngày, đến khi hồi phục chức năng). Mức 15–30% chỉ cho chảy máu khớp/cơ nông thông thường. Mức 60–80% dành cho chảy máu đầu/TW và vùng cổ-ngực. Mức 80–100% cho phẫu thuật lớn và chảy máu đe dọa tính mạng. Điều trị không đủ liều → khối máu tụ tiếp tục lớn → tổn thương thần kinh không hồi phục."
+        },
+        {
+          "q": "Bệnh nhân nặng 70 kg, FVIII nền = 0%, cần nâng lên 50% tấn công. Liều FVIII một lần là bao nhiêu IU?",
+          "options": [
+            "875 IU",
+            "1250 IU",
+            "1750 IU",
+            "3500 IU"
+          ],
+          "answer": 2,
+          "explain": "Công thức: FVIII (IU) = (FVIII đích% − FVIII nền%) × Cân nặng (kg) ÷ 2 = (50 − 0) × 70 ÷ 2 = 3500 ÷ 2 = <b>1750 IU</b>. Lưu ý: thời gian bán hủy FVIII 8–12 giờ → cần bổ sung mỗi 8–12 giờ trong giai đoạn tấn công. Sai lầm thường gặp: quên chia 2 (→ 3500 IU, gấp đôi liều cần) hoặc không tính nền (→ 875 IU khi dùng 50% × 70 / 2 × một cách sai)."
+        },
+        {
+          "q": "Chọn TẤT CẢ điều kiện cần có để bệnh nhân Hemophilia được điều trị tại nhà theo BYT 2016:",
+          "type": "multi",
+          "options": [
+            "Đã được tập huấn kỹ thuật tiêm yếu tố đông máu tĩnh mạch",
+            "Có máy xét nghiệm định lượng FVIII tại nhà để kiểm tra nồng độ trước mỗi lần tiêm",
+            "Có cam kết sử dụng yếu tố đông máu đúng chỉ định của bệnh nhân và gia đình",
+            "Có văn bản phối hợp giữa cơ sở điều trị Hemophilia và y tế cơ sở",
+            "Tuân thủ ghi nhật ký chảy máu và hoàn trả vỏ lọ thuốc đầy đủ"
+          ],
+          "answer": [
+            0,
+            2,
+            3,
+            4
+          ],
+          "explain": "(A) ĐÚNG — Phải được tập huấn kỹ thuật tiêm đúng để tự tiêm an toàn tại nhà. (B) SAI — Không yêu cầu có máy định lượng FVIII tại nhà; việc đánh giá nồng độ thực hiện định kỳ tại cơ sở y tế. (C) ĐÚNG — Cần cam kết sử dụng đúng hướng dẫn, không tự ý thay đổi liều. (D) ĐÚNG — Phải có văn bản phối hợp để đảm bảo liên tục chăm sóc khi có vấn đề. (E) ĐÚNG — Ghi nhật ký chảy máu giúp bác sĩ đánh giá hiệu quả điều trị; hoàn trả vỏ lọ để kiểm soát sử dụng thuốc. Lợi ích: giảm tải bệnh viện, cầm máu nhanh, không phải nghỉ học/nghỉ làm."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ nam 6 tuổi Hemophilia A nặng, chảy máu khớp không cầm dù đã truyền FVIII nhiều lần",
+      "body": "<b>Hành chính:</b> Bé trai 6 tuổi, 20 kg, chẩn đoán Hemophilia A thể nặng từ năm 2 tuổi.<br><br><b>Bệnh sử:</b> Chảy máu khớp gối phải <b>không cầm được</b> dù đã truyền FVIII tại nhà 3 lần trong 2 ngày qua (tổng cộng 3 × 500 IU). Thông thường 500 IU đủ để cầm chảy máu khớp cho bé. Trong 3 tháng gần đây, gia đình có cảm giác FVIII kém hiệu quả hơn trước.<br><br><b>Tiền sử:</b> Đã truyền FVIII khoảng <b>60–70 lần</b> kể từ khi chẩn đoán.<br><br><b>Khám:</b> Khớp gối phải vẫn sưng, căng, đau; sốt nhẹ 37,8°C.<br><br><b>Cận lâm sàng:</b> SLTC 205 G/L; APTT 68s (tăng so với APTT nền 55s khi đang điều trị dự phòng); <b>FVIII đo được 30 phút sau truyền: 8%</b> (thay vì dự kiến ~50% sau truyền 500 IU cho bé 20 kg).",
+      "questions": [
+        {
+          "q": "Biến chứng nào của điều trị Hemophilia giải thích tại sao FVIII không đạt nồng độ kỳ vọng sau truyền?",
+          "options": [
+            "Xuất hiện chất ức chế (inhibitor): kháng thể trung hòa yếu tố VIII được truyền vào",
+            "Sản phẩm FVIII bị phân hủy do bảo quản không đúng nhiệt độ trong thời gian dài",
+            "Liều FVIII không đủ do bé tăng cân nhanh mà chưa điều chỉnh liều kịp thời",
+            "Phản ứng dị ứng với tá dược làm FVIII bị phá hủy trước khi vào tuần hoàn"
+          ],
+          "answer": 0,
+          "explain": "Khi bệnh nhân được truyền FVIII nhiều lần (~50–60 lần), hệ miễn dịch có thể nhận diện FVIII là \"kháng nguyên lạ\" và sinh <b>kháng thể trung hòa (inhibitor)</b>. Inhibitor gắn và vô hiệu hóa FVIII ngay khi truyền vào → nồng độ FVIII sau truyền thấp hơn nhiều so với lý thuyết (8% thay vì ~50%). Biểu hiện: điều trị không hiệu quả, tiền sử truyền nhiều lần, FVIII recovery thấp bất thường. Đây là biến chứng <b>nghiêm trọng nhất</b> của điều trị hemophilia."
+        },
+        {
+          "q": "Chọn TẤT CẢ xét nghiệm cần thực hiện để xác nhận có chất ức chế và đánh giá mức độ:",
+          "type": "multi",
+          "options": [
+            "Kháng đông nội sinh (KĐNS) dương tính phụ thuộc thời gian và nhiệt độ",
+            "Định lượng chất ức chế theo đơn vị Bethesda (BU)",
+            "Tính FVIII recovery: so sánh FVIII đo được sau truyền với giá trị lý thuyết",
+            "Chụp MRI khớp để đánh giá mức độ tổn thương màng hoạt dịch hiện tại",
+            "Cấy máu để loại trừ nhiễm khuẩn huyết gây tình trạng kháng trị"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explain": "(A) ĐÚNG — KĐNS (+) phụ thuộc thời gian/nhiệt độ gợi ý kháng thể kháng FVIII đang hiện diện. (B) ĐÚNG — <b>Định lượng inhibitor (Bethesda Units)</b> là xét nghiệm xác định và phân loại mức độ: ≤5 BU (thấp) vs >5 BU (cao) — quyết định phác đồ điều trị khác nhau. (C) ĐÚNG — FVIII recovery thấp bất thường là bằng chứng gián tiếp quan trọng, thường xuất hiện trước khi xét nghiệm Bethesda. (D) SAI — MRI giá trị đánh giá bệnh khớp nhưng không chẩn đoán inhibitor. (E) SAI — Cấy máu loại trừ nhiễm khuẩn, không liên quan chẩn đoán inhibitor."
+        },
+        {
+          "q": "Định lượng inhibitor = 18 BU (hiệu giá cao). Thuốc cầm máu phù hợp nhất trong đợt cấp là gì?",
+          "options": [
+            "Tiếp tục tăng liều FVIII lên 200–300 IU/kg để bão hòa toàn bộ inhibitor",
+            "rFVIIa (NovoSeven) 90 µg/kg mỗi 2–4 giờ để bắc cầu qua con đường nội sinh",
+            "Truyền huyết tương tươi đông lạnh liều lớn để cung cấp FVIII từ nhiều nguồn",
+            "Desmopressin 0,3 µg/kg tĩnh mạch để kích thích giải phóng FVIII nội sinh"
+          ],
+          "answer": 1,
+          "explain": "Inhibitor >5 BU (hiệu giá cao) → FVIII truyền vào bị trung hòa nhanh → không hiệu quả dù tăng liều. Cần dùng <b>tác nhân bắc cầu (bypassing agents)</b>: <b>rFVIIa 90 µg/kg × 3 liều / 2–4h</b> hoặc aPCC 50–75 IU/kg. rFVIIa hoạt hóa FX trực tiếp qua con đường ngoại sinh, không cần FVIIIa. HTTĐL chứa FVIII nồng độ thấp → vẫn bị inhibitor trung hòa. Desmopressin chỉ hiệu quả ở thể nhẹ không có inhibitor."
+        },
+        {
+          "q": "Để loại bỏ inhibitor lâu dài, phương pháp đầu tiên được khuyến cáo là gì?",
+          "options": [
+            "Giải cảm ứng miễn dịch (ITI): truyền FVIII 25–30 IU/kg × 3 lần/tuần kéo dài",
+            "Rituximab 375 mg/m² × 4 tuần ngay lập tức để ức chế tế bào B sản xuất kháng thể",
+            "Trao đổi huyết tương hàng ngày trong 2 tuần để loại bỏ inhibitor khỏi tuần hoàn",
+            "Ngừng hoàn toàn FVIII vĩnh viễn và chuyển sang emicizumab dự phòng suốt đời"
+          ],
+          "answer": 0,
+          "explain": "<b>Immune Tolerance Induction (ITI)</b> — giải cảm ứng miễn dịch — là phương pháp ưu tiên: truyền FVIII liều cao và thường xuyên trong thời gian dài để \"dạy\" hệ miễn dịch dung nạp FVIII. Rituximab và trao đổi huyết tương là biện pháp hỗ trợ, không thay thế ITI. Emicizumab có thể dùng đồng thời để dự phòng chảy máu trong khi đang thực hiện ITI, nhưng không thay thế ITI trong mục tiêu loại bỏ inhibitor."
+        },
+        {
+          "q": "Emicizumab (Hemlibra) có cơ chế nào khiến nó không bị inhibitor kháng FVIII trung hòa?",
+          "options": [
+            "Là kháng thể đơn dòng 2 đặc hiệu bắt chước FVIIIa, kết nối FIXa và FX mà không phải là FVIII",
+            "Ức chế trực tiếp chất ức chế FVIII để khôi phục hiệu lực yếu tố đông máu truyền vào",
+            "Kích thích tủy xương sản xuất nhiều FVIII nội sinh hơn để bù đắp lượng bị trung hòa",
+            "Phong bế thụ thể von Willebrand để kéo dài thời gian bán hủy FVIII trong tuần hoàn"
+          ],
+          "answer": 0,
+          "explain": "Emicizumab là <b>kháng thể đơn dòng 2 đặc hiệu (bispecific antibody)</b>: gắn đồng thời vào <b>FIXa và FX</b>, bắt chước chức năng của FVIIIa trong phức hợp tenase → kích hoạt FX → tạo thrombin mà <b>không cần FVIII</b>. Inhibitor kháng FVIII không nhận diện được emicizumab (vì không phải FVIII) → không bị trung hòa. Đường dùng tiêm <b>dưới da</b>, 1–4 tuần/lần. Thuộc nhóm \"liệu pháp không thay thế\" (non-factor therapy) theo WFH 2021."
+        }
+      ]
+    },
+    {
+      "title": "Nam 58 tuổi xuất huyết dưới da tự phát, không có tiền sử chảy máu bất thường từ trước",
+      "body": "<b>Hành chính:</b> Nam, 58 tuổi, giáo viên về hưu.<br><br><b>Bệnh sử:</b> 3 tháng gần đây xuất hiện <b>các đám xuất huyết dưới da lớn</b> ở cẳng tay, đùi và thân mình, không có nguyên nhân rõ ràng. Có 1 đợt tụ máu tự phát vùng cơ nhị đầu tay trái. <b>Không có tiền sử chảy máu bất thường trong suốt 58 năm qua.</b><br><br><b>Tiền sử:</b> Đái tháo đường type 2 điều trị Metformin. Không dùng kháng đông hay kháng kết tập tiểu cầu.<br><br><b>Khám:</b> Nhiều đám xuất huyết dưới da ở nhiều giai đoạn; khối tụ máu vùng cơ nhị đầu tay trái đang thu nhỏ; không sưng khớp.<br><br><b>Cận lâm sàng:</b> SLTC 188 G/L; PT 12s (chứng 12s); APTT 71s (chứng 32s); Fibrinogen 3,2 g/L; <b>KĐNS: dương tính, phụ thuộc thời gian và nhiệt độ;</b> Định lượng FVIII: 4%.",
+      "questions": [
+        {
+          "q": "Đặc điểm nào phân biệt tình trạng này với Hemophilia A di truyền rõ ràng nhất?",
+          "options": [
+            "Khởi phát muộn ở người lớn tuổi, không có tiền sử chảy máu từ nhỏ và tiền sử gia đình âm tính",
+            "APTT kéo dài đơn độc với PT và SLTC trong giới hạn bình thường",
+            "Định lượng FVIII giảm dưới ngưỡng 40% xác định bệnh",
+            "Xuất huyết tập trung ở cơ và dưới da, không có xuất huyết vào khớp"
+          ],
+          "answer": 0,
+          "explain": "Hemophilia A <b>di truyền</b> biểu hiện từ nhỏ, có tiền sử gia đình bên họ mẹ. <b>Hemophilia A mắc phải</b> đặc trưng bởi: <b>khởi phát ở người lớn tuổi</b> không có tiền sử trước đó; thường gặp ở bệnh nhân bệnh tự miễn, ung thư, phụ nữ sau sinh. APTT kéo dài + FVIII giảm là chung cho cả hai, không phân biệt được. Xuất huyết dưới da cũng gặp ở cả hai. Chỉ <b>bối cảnh lâm sàng</b> (tuổi khởi phát, tiền sử) mới phân biệt rõ ràng nhất."
+        },
+        {
+          "q": "Chọn TẤT CẢ đặc điểm giúp xác nhận chẩn đoán Hemophilia A mắc phải (phân biệt với Hemophilia A di truyền):",
+          "type": "multi",
+          "options": [
+            "KĐNS dương tính phụ thuộc thời gian và nhiệt độ",
+            "Có chất ức chế FVIII (kháng thể kháng FVIII) định lượng được",
+            "Không có tiền sử chảy máu bất thường từ nhỏ và tiền sử gia đình âm tính",
+            "Định lượng FVIII dưới 40% hoạt tính",
+            "Xuất huyết chủ yếu dưới da và trong cơ, hiếm chảy máu khớp hơn thể di truyền"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "explain": "(A) ĐÚNG — KĐNS (+) phụ thuộc thời gian/nhiệt độ là đặc trưng của kháng thể kháng FVIII; HA di truyền không có inhibitor sẽ có KĐNS âm tính. (B) ĐÚNG — Định lượng inhibitor FVIII (Bethesda) dương tính xác nhận Hemophilia A mắc phải. (C) ĐÚNG — Không có tiền sử từ nhỏ là đặc điểm phân biệt quan trọng nhất về lâm sàng. (D) SAI — FVIII < 40% chung cho cả HA di truyền lẫn mắc phải, không phân biệt được. (E) ĐÚNG — Trong HA mắc phải, XH dưới da và tụ máu cơ phổ biến hơn; XH khớp (hemarthrosis) ít gặp hơn so với HA di truyền thể nặng."
+        },
+        {
+          "q": "Điều trị cầm máu cấp tính cho bệnh nhân Hemophilia A mắc phải có inhibitor cao là gì?",
+          "options": [
+            "rFVIIa (NovoSeven) hoặc aPCC để bắc cầu đông máu qua con đường không cần FVIII",
+            "Tăng liều FVIII cô đặc lên 200 IU/kg để bão hòa toàn bộ kháng thể trong máu",
+            "Truyền HTTĐL liều lớn để cung cấp FVIII từ nhiều nguồn huyết tương khác nhau",
+            "Desmopressin 0,3 µg/kg tĩnh mạch để kích thích giải phóng FVIII từ tế bào nội mạc"
+          ],
+          "answer": 0,
+          "explain": "Inhibitor hiệu giá cao → FVIII truyền vào bị trung hòa ngay → không hiệu quả dù tăng liều. Cần <b>tác nhân bắc cầu (bypassing agents)</b>: rFVIIa hoạt hóa FX trực tiếp qua TF; aPCC chứa FII, FVII, FIX, FX hoạt hóa một phần → tạo thrombin mà không cần FVIII. HTTĐL chứa FVIII nồng độ thấp cũng sẽ bị inhibitor trung hòa. Desmopressin hiệu quả chỉ ở HA thể nhẹ không có inhibitor."
+        },
+        {
+          "q": "Thuốc ức chế miễn dịch nào được ưu tiên dùng đầu tiên để loại bỏ inhibitor trong Hemophilia A mắc phải?",
+          "options": [
+            "Prednisolon 1–2 mg/kg/ngày đơn độc hoặc kết hợp Cyclophosphamid; chuyển Rituximab nếu không đáp ứng sau 3–5 tuần",
+            "Rituximab 375 mg/m² × 4 tuần ngay từ đầu mà không cần thử corticoid trước",
+            "Methotrexate liều thấp hàng tuần kết hợp acid folic trong 6 tháng liên tục",
+            "Methylprednisolone liều xung 1 g/ngày × 3 ngày, sau đó giảm liều nhanh"
+          ],
+          "answer": 0,
+          "explain": "Theo BYT 2016, ức chế miễn dịch trong HA mắc phải: <b>Prednisolon 1–2 mg/kg (± Cyclophosphamid 1–2 mg/kg) là bước đầu tiên</b>. Nếu sau 3–5 tuần không đáp ứng → chuyển <b>Rituximab 375 mg/m² × 1 lần/tuần × 4 tuần</b> (có thể kết hợp thêm Vincristin). Rituximab rất hiệu quả nhưng được dùng ở bước 2 sau khi thất bại với corticoid, không phải đầu tiên. Methotrexate và methylprednisolone xung không nằm trong phác đồ chuẩn."
+        }
+      ]
+    },
+    {
+      "title": "Nữ 24 tuổi kinh nguyệt kéo dài, chảy máu chân răng tái phát, mẹ cũng bị kinh nguyệt nhiều",
+      "body": "<b>Hành chính:</b> Nữ, 24 tuổi, giáo viên mầm non.<br><br><b>Bệnh sử:</b> Kinh nguyệt ra nhiều và <b>kéo dài 8–10 ngày</b> trong 2 năm gần đây; chảy máu chân răng tái phát khi đánh răng. Sau nhổ răng khôn 6 tháng trước phải quay lại nha sĩ 2 lần vì chảy máu kéo dài. Không có tiền sử tụ máu khớp hay cơ.<br><br><b>Tiền sử gia đình:</b> Mẹ bệnh nhân cũng có kinh nguyệt nhiều. Không có nam giới trong gia đình bị bệnh chảy máu.<br><br><b>Khám:</b> Niêm mạc nhợt nhẹ; không sưng khớp; không có ban xuất huyết dạng chấm.<br><br><b>Cận lâm sàng:</b> Hemoglobin 10,2 g/dL; SLTC 185 G/L; PT 12s (chứng 12s); APTT 48s (chứng 32s); <b>Thời gian máu chảy (Ivy) 11 phút</b> (bt < 7 phút); Ngưng tập tiểu cầu với Ristocetin: giảm; <b>vWF:Ag: 35%</b> (bt 50–150%).",
+      "questions": [
+        {
+          "q": "Hướng chẩn đoán phù hợp nhất với bệnh cảnh này là gì?",
+          "options": [
+            "Bệnh von Willebrand: XH niêm mạc ở cả hai giới, di truyền NST thường, vWF giảm",
+            "Hemophilia A thể nhẹ: thiếu FVIII, chủ yếu nam, chảy máu khớp và cơ là chính",
+            "Xuất huyết giảm tiểu cầu miễn dịch (ITP): SLTC giảm, ban xuất huyết dạng chấm",
+            "Hemophilia A mắc phải: người lớn tuổi, kháng thể kháng FVIII, tụ máu cơ là chủ yếu"
+          ],
+          "answer": 0,
+          "explain": "Bệnh cảnh: <b>nữ</b>, XH niêm mạc (kinh nguyệt nhiều, chảy máu chân răng, sau nhổ răng), tiền sử gia đình (mẹ), không chảy máu khớp/cơ → đặc trưng <b>bệnh von Willebrand (vWD)</b>. Kết quả xác nhận: APTT kéo dài nhẹ, <b>thời gian máu chảy kéo dài</b>, ngưng tập tiểu cầu với Ristocetin giảm, vWF:Ag = 35% (giảm). Hemophilia A: chủ yếu nam, chảy máu cơ khớp. ITP: SLTC giảm. HA mắc phải: người cao tuổi, không có tiền sử gia đình."
+        },
+        {
+          "q": "Chọn TẤT CẢ đặc điểm ĐÚNG khi phân biệt bệnh von Willebrand với Hemophilia A:",
+          "type": "multi",
+          "options": [
+            "vWD gặp cả hai giới do di truyền NST thường; HA chủ yếu gặp ở nam do NST X lặn",
+            "vWD chảy máu niêm mạc là chính; HA chảy máu cơ khớp là chính",
+            "vWD có thời gian máu chảy kéo dài; HA có thời gian máu chảy bình thường",
+            "vWD luôn có APTT bình thường; HA luôn có APTT kéo dài",
+            "vWD có vWF:Ag giảm và ngưng tập TC với Ristocetin giảm; HA hai chỉ số này bình thường"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "explain": "(A) ĐÚNG — vWD di truyền NST thường → cả 2 giới. HA di truyền NST X lặn → chủ yếu nam. (B) ĐÚNG — vWF là cầu nối tiểu cầu với thành mạch và bảo vệ FVIII; thiếu vWF → XH niêm mạc. Thiếu FVIII → gián đoạn đông máu thứ phát → XH cơ, khớp. (C) ĐÚNG — vWD: thời gian máu chảy kéo dài (giảm chức năng tiểu cầu do thiếu vWF). HA: thời gian máu chảy bình thường. (D) SAI — vWD CÓ THỂ có APTT kéo dài: vWF bảo vệ FVIII khỏi phân hủy; thiếu vWF → FVIII giảm → APTT kéo dài (như trong case này). (E) ĐÚNG — vWF:Ag và hoạt tính ristocetin cofactor giảm trong vWD; bình thường trong HA thuần túy."
+        },
+        {
+          "q": "Xét nghiệm nào KHÔNG cần thiết để phân biệt bệnh von Willebrand với Hemophilia A?",
+          "options": [
+            "Định lượng vWF:Ag và hoạt tính ristocetin cofactor (vWF:RCo)",
+            "Định lượng FVIII và FIX riêng biệt",
+            "D-dimer, nghiệm pháp rượu (ethanol gelation test)",
+            "Điện di vWF đa phân tử (vWF multimers) để phân loại thể vWD"
+          ],
+          "answer": 2,
+          "explain": "Trong phân biệt vWD và HA: (A) vWF:Ag và vWF:RCo là xét nghiệm đặc hiệu nhất cho vWD — cần thiết. (B) FVIII định lượng phân biệt HA A (FVIII giảm đơn độc) và vWD (FVIII giảm thứ phát do thiếu vWF); FIX để tìm HA B — cần thiết. (D) Điện di vWF multimer giúp phân loại thể vWD (1, 2A, 2B, 3) — cần thiết cho điều trị. (C) D-dimer và nghiệm pháp rượu là xét nghiệm tìm <b>DIC</b> — không có vai trò trong phân biệt vWD với HA khi không có bệnh cảnh DIC."
+        },
+        {
+          "q": "Loại thuốc nào đặc biệt hữu ích trong điều trị đợt chảy máu ở bệnh nhân von Willebrand type 1?",
+          "options": [
+            "Desmopressin (DDAVP) 0,3 µg/kg kích thích giải phóng vWF và FVIII từ tế bào nội mạc",
+            "FVIII cô đặc tái tổ hợp để bổ sung trực tiếp yếu tố đông máu bị thiếu hụt",
+            "Corticoid liều cao để ức chế kháng thể kháng vWF trong tuần hoàn",
+            "Heparin trọng lượng phân tử thấp để ngăn huyết khối vi mạch thứ phát"
+          ],
+          "answer": 0,
+          "explain": "Trong von Willebrand type 1 (thiếu số lượng vWF nhưng cấu trúc bình thường), <b>Desmopressin (DDAVP)</b> là thuốc ưu tiên: kích thích giải phóng vWF và FVIII từ thể Weibel-Palade của tế bào nội mạc → tăng nhanh nồng độ vWF và FVIII trong máu. FVIII tái tổ hợp không chứa vWF → không điều trị được gốc bệnh vWD. Corticoid không có vai trò trừ khi vWD do tự miễn (hiếm). Heparin chống chỉ định trong bệnh lý chảy máu."
+        }
+      ]
+    },
+    {
+      "title": "Bé trai 10 tuổi Hemophilia A nặng, ngã đập đầu khi đạp xe, đau đầu tăng dần",
+      "body": "<b>Hành chính:</b> Bé trai 10 tuổi, 30 kg, Hemophilia A thể nặng (FVIII nền = 0%), đang điều trị dự phòng FVIII.<br><br><b>Bệnh sử:</b> <b>Ngã từ xe đạp, đập đầu xuống đất</b> cách đây 45 phút. Hiện tại tỉnh, kêu đau đầu mức độ vừa tăng dần, chưa nôn. Đã tiêm FVIII dự phòng sáng hôm nay (khoảng 1 giờ trước khi ngã).<br><br><b>Khám:</b> Glasgow 15 điểm; đồng tử đều, phản xạ ánh sáng (+); không có liệt khu trú; vết thương da đầu nhỏ đã cầm máu. Mạch 92 lần/phút; HA 105/70 mmHg; Nhiệt độ 37°C.<br><br><b>Cận lâm sàng đang chờ:</b> APTT đang chờ kết quả. CT sọ não đang chuẩn bị chụp.",
+      "questions": [
+        {
+          "q": "Chọn TẤT CẢ các bước xử trí ĐÚNG cần thực hiện NGAY cho bệnh nhân Hemophilia A nặng bị chấn thương đầu:",
+          "type": "multi",
+          "options": [
+            "Bổ sung FVIII ngay lập tức để nâng nồng độ lên 60–80%, KHÔNG chờ kết quả CT sọ",
+            "Chờ kết quả CT sọ não và APTT xác nhận có chảy máu mới quyết định bổ sung yếu tố",
+            "Chụp CT sọ não khẩn cấp ngay sau khi đã bổ sung FVIII xong",
+            "Nhập viện theo dõi ít nhất 24–48 giờ dù CT sọ ban đầu bình thường",
+            "Thông báo ngay cho khoa Huyết học và đội chuyên khoa Hemophilia"
+          ],
+          "answer": [
+            0,
+            2,
+            3,
+            4
+          ],
+          "explain": "Nguyên tắc cốt lõi: <b>\"Nghi ngờ chảy máu → điều trị NGAY, không chờ xét nghiệm.\"</b> Với chấn thương đầu ở bệnh nhân HA nặng: (A) ĐÚNG — Bổ sung FVIII ĐẦU TIÊN (60–80%), KHÔNG chờ CT — XH nội sọ tiến triển từng phút. (B) SAI — Chờ CT khi nghi ngờ XH nội sọ ở hemophilia là trái nguyên tắc; bổ sung FVIII phải đi trước. (C) ĐÚNG — Sau khi bổ sung FVIII, chụp CT để xác định tổn thương và hướng dẫn điều trị tiếp. (D) ĐÚNG — XH nội sọ có thể xuất hiện muộn sau vài giờ dù CT ban đầu âm tính. (E) ĐÚNG — Cần hội chẩn chuyên khoa để quản lý toàn diện."
+        },
+        {
+          "q": "Theo BYT 2016, nồng độ FVIII tấn công cần đạt khi xử trí nghi ngờ xuất huyết vùng đầu và thần kinh trung ương là bao nhiêu?",
+          "options": [
+            "15–30% — mức điều trị chảy máu khớp và cơ thông thường",
+            "40–60% — mức điều trị cơ đái chậu và cơ sâu có tổn thương thần kinh",
+            "60–80% — mức tấn công cho chảy máu đầu và thần kinh trung ương",
+            "30–50% — mức duy trì giai đoạn 2 sau xuất huyết đầu ngày 6–10"
+          ],
+          "answer": 2,
+          "explain": "Theo BYT 2016, chảy máu vùng <b>đầu/thần kinh TW</b>: Tấn công <b>60–80%</b> (ngày 1–5) → Duy trì 30–50% (ngày 6–10) → Củng cố 20–30% (ngày 11–21). Đây là mức cao nhất cùng với vùng cổ-ngực và phẫu thuật lớn. Mức 15–30%: khớp/cơ thông thường. Mức 40–60%: cơ đái chậu. Sai lầm nguy hiểm nhất: dùng liều thấp cho XH nội sọ → máu tiếp tục chảy → tổn thương não không hồi phục."
+        },
+        {
+          "q": "CT sọ não phát hiện xuất huyết dưới màng nhện lượng nhỏ. Tổng thời gian tối thiểu cần duy trì phác đồ yếu tố đông máu cho xuất huyết nội sọ là bao lâu?",
+          "options": [
+            "3–5 ngày nếu bệnh nhân tỉnh táo và không có triệu chứng thần kinh mới",
+            "Ít nhất 21 ngày theo phác đồ 3 giai đoạn: tấn công → duy trì → củng cố",
+            "7–10 ngày rồi chuyển về phác đồ dự phòng thường quy",
+            "48–72 giờ nếu CT kiểm tra không thấy tiến triển của xuất huyết"
+          ],
+          "answer": 1,
+          "explain": "XH nội sọ cần phác đồ 3 giai đoạn theo BYT 2016: <b>Tấn công (60–80%) ngày 1–5 → Duy trì (30–50%) ngày 6–10 → Củng cố (20–30%) ngày 11–21</b>. Tổng tối thiểu <b>21 ngày</b>. Đây là biến chứng đe dọa tính mạng → phải điều trị triệt để, không được ngừng sớm dù CT kiểm tra không thấy tổn thương mới. Sau 21 ngày đánh giá lại và chuyển về phác đồ dự phòng thường quy."
+        },
+        {
+          "q": "Bé nặng 30 kg, FVIII nền = 0%, cần nâng FVIII lên 70% tấn công. Liều FVIII một lần là bao nhiêu?",
+          "options": [
+            "525 IU",
+            "1050 IU",
+            "2100 IU",
+            "4200 IU"
+          ],
+          "answer": 1,
+          "explain": "FVIII (IU) = (FVIII đích% − FVIII nền%) × Cân nặng (kg) ÷ 2 = (70 − 0) × 30 ÷ 2 = 70 × 15 = <b>1050 IU</b>. Thời gian bán hủy FVIII 8–12 giờ → trong giai đoạn tấn công XH nội sọ, cần bổ sung mỗi 8–12 giờ, không để nồng độ đáy xuống dưới 50% trong những ngày đầu. 525 IU là sai (chia 4 thay vì 2). 2100 IU là sai (không chia 2). 4200 IU là sai (dùng công thức FIX × 2)."
+        },
+        {
+          "q": "Sau hồi phục, biện pháp nào KHÔNG phù hợp để phòng ngừa tai nạn tái phát cho bệnh nhân Hemophilia?",
+          "options": [
+            "Tăng cường điều trị dự phòng FVIII thường xuyên theo lịch định kỳ",
+            "Khuyến khích tham gia môn thể thao đối kháng như đấu vật và bóng đá tiếp xúc",
+            "Đội mũ bảo hộ khi đạp xe, trượt patin và các hoạt động nguy cơ ngã cao",
+            "Tiêm vaccin dưới da (không phải tiêm bắp) và thông báo tình trạng hemophilia cho nhân viên y tế"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân Hemophilia được khuyến cáo tham gia các môn thể thao ÍT TIẾP XÚC: bơi lội, đạp xe (có bảo hộ), thể dục dưỡng sinh, đi bộ. <b>Các môn đối kháng trực tiếp</b> (đấu vật, boxing, bóng đá tiếp xúc...) → nguy cơ chấn thương và XH cao → <b>không khuyến cáo</b>. Dự phòng FVIII thường xuyên, đội mũ bảo hộ đều là biện pháp hợp lý. Tiêm vaccin dưới da (tránh tiêm bắp) là đúng nguyên tắc."
+        }
+      ]
+    },
+    {
+      "title": "Nam 28 tuổi Hemophilia B thể trung bình, đau bụng hố chậu phải cần phẫu thuật cấp",
+      "body": "<b>Hành chính:</b> Nam, 28 tuổi, 65 kg, Hemophilia B thể trung bình (FIX nền = 4%).<br><br><b>Bệnh sử:</b> Đến cấp cứu với <b>đau bụng hố chậu phải, sốt 38,5°C, buồn nôn</b> trong 12 giờ. Không có inhibitor FIX.<br><br><b>Khám:</b> Điểm McBurney (+); phản ứng thành bụng (+); Blumberg (+).<br><br><b>Hình ảnh học:</b> Siêu âm và CT ổ bụng: viêm ruột thừa cấp chưa vỡ.<br><br><b>Tiền sử:</b> Hemophilia B thể trung bình; chưa tiêm phòng viêm gan B; không có inhibitor.<br><br><b>Cận lâm sàng:</b> BC 14,5 G/L (trung tính 88%); SLTC 220 G/L; PT 12s (chứng 12s); APTT 68s (chứng 32s); FIX định lượng: 4%.",
+      "questions": [
+        {
+          "q": "Theo BYT 2016, nồng độ FIX cần đạt trước khi tiến hành phẫu thuật ruột thừa (phẫu thuật lớn) là bao nhiêu?",
+          "options": [
+            "15–30% — mức điều trị chảy máu khớp và cơ thông thường",
+            "40–60% — mức chuẩn bị cho phẫu thuật nhỏ",
+            "60–80% — mức cần đạt trước khi tiến hành phẫu thuật lớn",
+            "30–50% — mức duy trì sau phẫu thuật lớn ngày 4–6"
+          ],
+          "answer": 2,
+          "explain": "Phẫu thuật ruột thừa được xếp là <b>phẫu thuật lớn</b> → FIX cần đạt <b>60–80% trước mổ</b>. Sau mổ: 40–60% (ngày 1–3) → 30–50% (ngày 4–6) → 15–30% (ngày 7–14) cho đến khi lành thương. Phẫu thuật nhỏ (nhổ răng, nội soi chẩn đoán): chỉ cần 40–60% trước mổ. Thiếu FIX trước mổ → chảy máu không kiểm soát trong và sau phẫu thuật → đe dọa tính mạng."
+        },
+        {
+          "q": "Bệnh nhân nặng 65 kg, FIX nền = 4%, cần nâng FIX lên 70% trước mổ. Liều FIX một lần cần dùng là bao nhiêu?",
+          "options": [
+            "2145 IU (áp dụng công thức FVIII ÷ 2 cho FIX)",
+            "2860 IU",
+            "3380 IU",
+            "4290 IU"
+          ],
+          "answer": 3,
+          "explain": "Công thức FIX <b>khác với FVIII</b>: <b>FIX (IU) = (FIX đích% − FIX nền%) × Cân nặng (kg)</b> (KHÔNG chia 2). Thay số: (70 − 4) × 65 = 66 × 65 = <b>4290 IU</b>. Sai lầm thường gặp: áp dụng công thức FVIII (÷2) cho FIX → 4290 ÷ 2 = 2145 IU (chỉ bằng nửa liều cần). Lý do khác biệt: 1 IU FIX/kg chỉ tăng FIX 1% (thay vì 2% như FVIII) vì FIX có thể tích phân phối lớn hơn, phân bố vào cả khoang gian bào. Thời gian bán hủy FIX 18–24h → bổ sung mỗi 24h."
+        },
+        {
+          "q": "Chọn TẤT CẢ thuốc và biện pháp cần TRÁNH trong chu phẫu của bệnh nhân Hemophilia:",
+          "type": "multi",
+          "options": [
+            "Aspirin hoặc NSAIDs để kiểm soát đau sau phẫu thuật",
+            "Paracetamol 500–1000 mg uống mỗi 6–8 giờ để giảm đau",
+            "Tiêm kháng sinh bắp thay vì truyền tĩnh mạch để tiết kiệm đường truyền",
+            "Tranexamic acid đường tĩnh mạch để hỗ trợ cầm máu tại vị trí phẫu thuật",
+            "Heparin trọng lượng phân tử thấp dự phòng huyết khối tĩnh mạch sâu thường quy sau mổ"
+          ],
+          "answer": [
+            0,
+            2,
+            4
+          ],
+          "explain": "(A) CẦN TRÁNH — Aspirin/NSAIDs ức chế COX-1 → ức chế chức năng tiểu cầu → tăng nguy cơ chảy máu sau mổ. Chống chỉ định tuyệt đối trong hemophilia. (B) AN TOÀN — Paracetamol không ảnh hưởng tiểu cầu, là thuốc giảm đau ưu tiên. (C) CẦN TRÁNH — Tiêm bắp nguy cơ tụ máu cơ; ưu tiên đường tĩnh mạch hoặc đường uống. (D) AN TOÀN và CÓ LỢI — Tranexamic acid hỗ trợ cầm máu, có thể dùng trong phẫu thuật hemophilia. (E) CẦN TRÁNH — Heparin kháng đông làm tăng nguy cơ chảy máu nghiêm trọng ở hemophilia; dự phòng huyết khối cần cân nhắc cá thể hóa, không dùng thường quy."
+        },
+        {
+          "q": "Bệnh nhân chưa tiêm phòng viêm gan B. Hướng xử trí tiêm phòng nào phù hợp nhất?",
+          "options": [
+            "Tiêm bắp ngay trước mổ sau khi đã bổ sung FIX đủ liều để giảm nguy cơ tụ máu",
+            "Tiêm dưới da thay vì tiêm bắp, thực hiện bất cứ lúc nào thuận tiện và thông báo tình trạng hemophilia",
+            "Hoãn tiêm phòng đến khi hồi phục hoàn toàn sau mổ ít nhất 6 tháng",
+            "Không cần tiêm phòng viêm gan B vì bệnh nhân chỉ dùng FIX tái tổ hợp"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân Hemophilia có nguy cơ nhiễm virus qua đường truyền máu cao hơn → <b>tiêm phòng HBV và HAV là ưu tiên</b>. Về đường tiêm: phải dùng <b>tiêm dưới da hoặc tiêm trong da</b>, KHÔNG tiêm bắp (nguy cơ tụ máu cơ). Thông báo tình trạng hemophilia cho nhân viên y tế trước khi tiêm. Không cần đợi 6 tháng sau mổ. Dù dùng FIX tái tổ hợp (giảm nguy cơ), vẫn cần tiêm phòng vì có thể cần chế phẩm từ huyết tương trong tương lai."
+        }
+      ]
+    },
+    {
+      "title": "Nữ 30 tuổi đang mang thai, con trai đầu 3 tuổi vừa được chẩn đoán Hemophilia A nặng",
+      "body": "<b>Hành chính:</b> Nữ, 30 tuổi, đang mang thai 10 tuần.<br><br><b>Lý do đến khám:</b> Tư vấn di truyền sau khi <b>con trai đầu 3 tuổi vừa được chẩn đoán Hemophilia A thể nặng</b>.<br><br><b>Tiền sử gia đình:</b> Không ai trong gia đình bên nội và bên ngoại được biết có bệnh chảy máu. Chồng bệnh nhân hoàn toàn khỏe mạnh.<br><br><b>Xét nghiệm của người mẹ:</b> APTT 38s (chứng 32s); FVIII: 68%; <b>Xét nghiệm gen: phát hiện đột biến đảo đoạn intron 22 trên NST X của người mẹ (dị hợp tử).</b><br><br><b>Siêu âm thai:</b> Thai bé gái, phát triển bình thường theo tuổi thai.",
+      "questions": [
+        {
+          "q": "Dựa vào kết quả gen, người mẹ thuộc nhóm phân loại nào theo BYT 2016?",
+          "options": [
+            "Chắc chắn mang gen: xét nghiệm gen xác nhận đột biến dị hợp tử trên NST X",
+            "Có khả năng mang gen: có 1 con trai bị bệnh và không ai trong gia đình bị bệnh/mang gen",
+            "Không mang gen: FVIII của mẹ trong giới hạn bình thường (68%)",
+            "Chắc chắn mang gen: đã có ít nhất 2 con trai bị bệnh hemophilia"
+          ],
+          "answer": 0,
+          "explain": "Ban đầu, mẹ này chỉ xếp vào \"có khả năng mang gen\" (1 con trai bị bệnh, không ai khác trong gia đình). Tuy nhiên, <b>xét nghiệm gen xác nhận đột biến đảo đoạn intron 22 dị hợp tử</b> → <b>chắc chắn là người mang gen</b>. Xét nghiệm gen là tiêu chuẩn vàng. FVIII 68% bình thường ở người mang gen là điển hình — NST X bình thường còn lại bù đắp đủ → FVIII không giảm đáng kể ở hầu hết carrier. Không thể dùng FVIII bình thường để loại trừ mang gen."
+        },
+        {
+          "q": "Theo BYT 2016, người phụ nữ nào sau đây được xếp vào nhóm CHẮC CHẮN mang gen Hemophilia A? (Chọn TẤT CẢ đáp án đúng)",
+          "type": "multi",
+          "options": [
+            "Phụ nữ có bố bị Hemophilia A",
+            "Phụ nữ có 1 con trai bị Hemophilia và có anh trai của mẹ cũng bị Hemophilia",
+            "Phụ nữ có 1 con trai bị Hemophilia và không có ai trong gia đình bị bệnh hoặc mang gen",
+            "Phụ nữ đã sinh ít nhất 2 con trai cùng bị Hemophilia",
+            "Phụ nữ có 1 con trai bị Hemophilia và xét nghiệm gen xác nhận đột biến dị hợp tử"
+          ],
+          "answer": [
+            0,
+            1,
+            3,
+            4
+          ],
+          "explain": "BYT 2016 quy định 4 điều kiện CHẮC CHẮN mang gen: (A) ĐÚNG — Bố bị HA (XhY) → tất cả con gái nhận Xh từ bố → 100% mang gen. (B) ĐÚNG — Có con trai bị bệnh VÀ có đàn ông bên họ mẹ bị bệnh → chắc chắn. (C) SAI — Đây là tiêu chí nhóm <b>\"CÓ KHẢ NĂNG mang gen\"</b> (chỉ 1 con trai bị bệnh, gia đình không có ai). (D) ĐÚNG — ≥2 con trai bị bệnh → không thể giải thích bằng đột biến mới ở cả hai → mẹ chắc chắn mang gen. (E) ĐÚNG — Xét nghiệm gen xác nhận dị hợp tử là bằng chứng trực tiếp, tương tự trường hợp trong case này."
+        },
+        {
+          "q": "Thai nhi hiện tại là bé gái. Nguy cơ bé gái này mắc bệnh Hemophilia A là bao nhiêu?",
+          "options": [
+            "0% — bé gái không thể mắc Hemophilia khi bố bình thường",
+            "25% — bé gái có thể mắc nếu nhận gen bệnh từ cả hai phía",
+            "50% — nguy cơ bé gái mắc bệnh bằng với nguy cơ là người mang gen",
+            "100% — tất cả con gái của người mẹ mang gen đều bị bệnh"
+          ],
+          "answer": 0,
+          "explain": "HA di truyền lặn liên kết NST X. Mẹ mang gen (XhX) × Bố bình thường (XY): Con gái nhận X từ mẹ (Xh hoặc X bình thường) và X bình thường từ bố. Con gái <b>KHÔNG THỂ bị bệnh</b> khi bố không mang gen (không bao giờ đồng hợp XhXh). Tuy nhiên, <b>50% con gái là người mang gen</b> (nhận Xh từ mẹ — dị hợp tử); 50% hoàn toàn bình thường (nhận X bình thường từ mẹ). Con trai: 50% bị bệnh (nhận Xh từ mẹ), 50% bình thường."
+        },
+        {
+          "q": "Đối với thai nhi bé gái này, chẩn đoán trước sinh nên được thực hiện như thế nào?",
+          "options": [
+            "Chỉ cần siêu âm xác nhận giới tính, không cần chẩn đoán gen vì bé gái không bị bệnh",
+            "Nên thực hiện chẩn đoán gen trước sinh cho cả bé trai và bé gái để xác định tình trạng mang gen",
+            "Không cần chẩn đoán trước sinh vì bé gái sẽ không bị bệnh và FVIII bình thường khi lớn lên",
+            "Chỉ thực hiện sau tuần 28 thai kỳ bằng phương pháp chọc ối để đảm bảo an toàn tuyệt đối"
+          ],
+          "answer": 1,
+          "explain": "<b>Chẩn đoán trước sinh</b> được khuyến cáo cho CẢ bé trai (xác nhận bị bệnh không) VÀ <b>bé gái</b> (xác định có mang gen không — để tư vấn sức khỏe sinh sản khi trưởng thành). Kỹ thuật: sinh thiết gai nhau (CVS, tuần 10–12) hoặc chọc ối (tuần 15–20). Siêu âm xác định giới tính không đủ để quyết định. Bé gái mang gen có 50% con trai bị bệnh ở thế hệ sau → cần biết để lập kế hoạch gia đình. Không nên chờ đến tuần 28 — CVS sớm hơn, kết quả sớm hơn."
+        },
+        {
+          "q": "Mẹ hỏi về kế hoạch sinh nở nếu thai sau là bé trai bị Hemophilia A. Khuyến cáo nào phù hợp nhất?",
+          "options": [
+            "Mổ lấy thai theo lịch để tránh hoàn toàn nguy cơ chấn thương đầu trong khi sinh thường",
+            "Sinh thường, tránh sinh dụng cụ (forceps, giác hút), lấy máu cuống rốn ngay sau sinh để xét nghiệm FVIII",
+            "Sinh thường tại bất kỳ cơ sở sản khoa nào mà không cần chuẩn bị đặc biệt trước",
+            "Mổ lấy thai cấp cứu chỉ khi siêu âm trong chuyển dạ phát hiện nghi ngờ XH nội sọ thai"
+          ],
+          "answer": 1,
+          "explain": "Đối với thai nghi bị Hemophilia: (1) <b>Tránh sinh dụng cụ</b> (forceps, giác hút) — tăng nguy cơ chấn thương đầu và XH nội sọ; (2) <b>Lấy máu cuống rốn ngay sau sinh</b> — định lượng FVIII để xác nhận chẩn đoán và phân loại mức độ; (3) Thông báo trước cho khoa Huyết học chuẩn bị yếu tố đông máu dự phòng; (4) Sinh tại cơ sở có chuyên khoa hemophilia. Mổ lấy thai theo lịch không phải khuyến cáo bắt buộc cho mọi trường hợp — quyết định phải cá thể hóa."
+        }
+      ]
+    }
+  ]
+}
