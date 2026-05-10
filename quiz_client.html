@@ -78,6 +78,8 @@ button.btn:hover { background: var(--bg-secondary); }
 button.btn-primary { background: var(--info); color: white; border-color: var(--info); }
 button.btn-primary:hover { opacity: 0.92; background: var(--info); }
 button.btn-danger { color: var(--danger); border-color: var(--danger); }
+button.btn-skip { color: var(--text-tertiary); }
+button.btn-skip:hover { color: var(--danger); border-color: var(--danger); background: var(--bg-secondary); }
 button.btn-sm { padding: 4px 10px; font-size: 12px; }
 
 /* Library view */
@@ -196,15 +198,21 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
 
 /* Breadcrumb */
 .breadcrumb { display: flex; align-items: center; gap: 8px; margin-bottom: 1rem; font-size: 13px; color: var(--text-secondary); }
+.breadcrumb-with-action { justify-content: space-between; }
+.breadcrumb-with-action > div { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
 .breadcrumb a { color: var(--info); cursor: pointer; text-decoration: none; }
 .breadcrumb a:hover { text-decoration: underline; }
 .breadcrumb-sep { color: var(--text-tertiary); }
 .breadcrumb-current { color: var(--text-primary); font-weight: 500; }
+.subcategory-section-label { font-size: 12px; font-weight: 600; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.5px; margin: 1rem 0 0.5rem 0; }
 
 /* Category grid */
 .category-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; margin-bottom: 1.5rem; }
 .category-card { background: var(--bg-primary); border: 1px solid var(--border-tertiary); border-radius: var(--radius-lg); padding: 18px 16px; cursor: pointer; transition: all 0.15s; text-align: center; }
 .category-card:hover { border-color: var(--info); transform: translateY(-1px); }
+.subcategory-card { padding: 14px 12px; }
+.subcategory-card .category-icon { font-size: 24px; margin-bottom: 4px; }
+.subcategory-card .category-name { font-size: 13px; }
 .category-icon { font-size: 32px; margin-bottom: 8px; }
 .category-name { font-size: 15px; font-weight: 600; margin-bottom: 4px; }
 .category-count { font-size: 12px; color: var(--text-secondary); }
@@ -230,7 +238,7 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
 .cat-select-header:hover { background: var(--bg-secondary); }
 .cat-select-name { font-weight: 500; }
 .cat-select-count { font-size: 12px; color: var(--text-tertiary); margin-left: auto; }
-.cat-select-arrow { font-size: 11px; color: var(--text-tertiary); transition: transform 0.15s; }
+.cat-select-arrow { font-size: 11px; color: var(--text-tertiary); transition: transform 0.15s; cursor: pointer; }
 .cat-select-arrow.expanded { transform: rotate(90deg); }
 .cat-select-body { padding: 4px 12px 12px 12px; border-top: 1px solid var(--border-tertiary); display: none; }
 .cat-select-body.expanded { display: block; }
@@ -238,6 +246,16 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
 .cat-deck-row:last-child { border-bottom: none; }
 .cat-deck-row label { flex: 1; cursor: pointer; font-size: 13px; }
 .cat-select-all { font-weight: 600; padding: 6px 6px; border-bottom: 2px solid var(--border-tertiary); margin-bottom: 4px; }
+label.cat-deck-row { cursor: pointer; }
+label.cat-deck-row:hover { background: var(--bg-secondary); border-radius: 4px; }
+.deck-row-text { flex: 1; font-size: 13px; }
+.sub-select-row { margin: 4px 0 4px 12px; border: 1px solid var(--border-tertiary); border-radius: var(--radius-md); background: var(--bg-page); }
+.sub-select-header { display: flex; align-items: center; padding: 6px 10px; gap: 8px; }
+.sub-select-name { font-size: 13px; font-weight: 500; cursor: pointer; flex: 1; }
+.sub-select-name:hover { color: var(--info); }
+.sub-select-count { font-size: 11px; color: var(--text-tertiary); margin-left: auto; }
+.sub-select-body { padding: 4px 8px 8px 28px; border-top: 1px solid var(--border-tertiary); }
+.mock-nosub-label { font-size: 11px; font-weight: 600; color: var(--text-tertiary); text-transform: uppercase; letter-spacing: 0.4px; margin: 8px 0 4px 0; padding: 0 6px; }
 .struct-section { padding: 12px; border: 1px solid var(--border-tertiary); border-radius: var(--radius-md); margin-bottom: 12px; transition: opacity 0.15s; }
 .struct-section.dimmed { opacity: 0.55; background: var(--bg-secondary); }
 .struct-section.dimmed input[type="number"], .struct-section.dimmed label.form-label { opacity: 0.6; }
@@ -302,8 +320,9 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
   const CLOUD_URL_KEY = 'quiz_client_cloud_url';
   let decks = [];
   let view = 'library';
-  let activeTab = 'cases';      // 'cases' | 'mcq'
+  let activeTab = 'cases';      // 'cases' | 'mcq' | 'mock'
   let activeCategory = null;     // null = show category list; string = inside that category
+  let activeSubcategory = null;  // null = show subcategory grid + decks-without-sub; string = inside that subcategory
   let searchQuery = '';
   let activeDeckId = null;
   let qstate = null;
@@ -585,12 +604,17 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
         const cloudCategory = (deckObj.category || '').trim();
         const preservedCategory = existingIdx >= 0 ? decks[existingIdx].category : null;
         const finalCategory = cloudCategory || preservedCategory || 'Chưa phân loại';
+        // Same for subcategory — cloud value wins, else preserve existing
+        const cloudSub = (deckObj.subcategory || '').trim();
+        const preservedSub = existingIdx >= 0 ? (decks[existingIdx].subcategory || '') : '';
+        const finalSub = cloudSub || preservedSub;
         const newDeck = {
           id, name: deckObj.name,
           description: deckObj.description || '',
           level: deckObj.level || '',
           type: deckType,
           category: finalCategory,
+          subcategory: finalSub,
           totalQuestions: totalQ,
           addedAt: existingIdx >= 0 ? decks[existingIdx].addedAt : Date.now(),
           bestScore: existingIdx >= 0 ? decks[existingIdx].bestScore : null,
@@ -830,6 +854,26 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
     return '📁';
   }
 
+  function getSubcategoryIcon(sub) {
+    const lower = sub.toLowerCase();
+    if (lower.includes('tim') || lower.includes('mạch')) return '❤️';
+    if (lower.includes('thần kinh')) return '🧠';
+    if (lower.includes('tiêu hóa') || lower.includes('gan')) return '🍽️';
+    if (lower.includes('thận') || lower.includes('tiết niệu')) return '🫘';
+    if (lower.includes('hô hấp') || lower.includes('phổi')) return '🫁';
+    if (lower.includes('huyết học')) return '🩸';
+    if (lower.includes('nội tiết') || lower.includes('đái tháo')) return '⚗️';
+    if (lower.includes('xương') || lower.includes('khớp') || lower.includes('cơ xương')) return '🦴';
+    if (lower.includes('chấn thương')) return '🩹';
+    if (lower.includes('lồng ngực')) return '🫀';
+    if (lower.includes('ung thư') || lower.includes('ung bướu')) return '🎗️';
+    if (lower.includes('truyền nhiễm') || lower.includes('nhiễm trùng')) return '🦠';
+    if (lower.includes('hscc') || lower.includes('hồi sức') || lower.includes('cấp cứu')) return '🚑';
+    if (lower.includes('da') || lower.includes('liễu')) return '🧴';
+    if (lower.includes('miễn dịch') || lower.includes('dị ứng')) return '🛡️';
+    return '📁';
+  }
+
   function getDecksForTab(tab) {
     return decks.filter(d => {
       const dt = d.type || 'cases';
@@ -855,12 +899,38 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
       });
   }
 
+  function getDecksForCategory(tab, category) {
+    return getDecksForTab(tab).filter(d => (d.category || 'Chưa phân loại') === category);
+  }
+
+  function getSubcategoriesForCategory(tab, category) {
+    const catDecks = getDecksForCategory(tab, category);
+    const map = new Map();
+    catDecks.forEach(d => {
+      const sub = (d.subcategory || '').trim();
+      if (!sub) return;
+      if (!map.has(sub)) map.set(sub, 0);
+      map.set(sub, map.get(sub) + 1);
+    });
+    return Array.from(map.entries()).map(([name, count]) => ({ name, count }))
+      .sort((a, b) => a.name.localeCompare(b.name, 'vi'));
+  }
+
+  function getDecksWithoutSubcategory(tab, category) {
+    return getDecksForCategory(tab, category).filter(d => !(d.subcategory || '').trim());
+  }
+
+  function getDecksInSubcategory(tab, category, sub) {
+    return getDecksForCategory(tab, category).filter(d => (d.subcategory || '').trim() === sub);
+  }
+
   function matchesSearch(d, q) {
     if (!q) return true;
     const lower = q.toLowerCase();
     return (d.name || '').toLowerCase().includes(lower)
         || (d.description || '').toLowerCase().includes(lower)
-        || (d.category || '').toLowerCase().includes(lower);
+        || (d.category || '').toLowerCase().includes(lower)
+        || (d.subcategory || '').toLowerCase().includes(lower);
   }
 
   function renderStatsPanel() {
@@ -1017,6 +1087,19 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
   }
 
   function renderCategoryContents() {
+    // Mock category and "Chưa phân loại" don't use sub navigation — flat list
+    const isMockCat = activeCategory === '📝 Đề thi thử';
+    const isUncategorized = activeCategory === 'Chưa phân loại';
+    if (isMockCat || isUncategorized || activeTab === 'mock') {
+      return renderCategoryContentsFlat();
+    }
+    if (activeSubcategory === null) {
+      return renderSubcategoryGrid();
+    }
+    return renderSubcategoryContents();
+  }
+
+  function renderCategoryContentsFlat() {
     const tabDecks = getDecksForTab(activeTab);
     const categoryDecks = tabDecks.filter(d => (d.category || 'Chưa phân loại') === activeCategory);
 
@@ -1037,6 +1120,84 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
     } else {
       html += '<div class="deck-list">';
       categoryDecks.sort((a,b) => b.addedAt - a.addedAt).forEach(d => {
+        html += renderDeckCard(d);
+      });
+      html += '</div>';
+    }
+    return html;
+  }
+
+  // Level 2: subcategory grid + decks-without-sub. Client version has no "+ Thêm danh mục con" button.
+  function renderSubcategoryGrid() {
+    const subs = getSubcategoriesForCategory(activeTab, activeCategory);
+    const decksWithoutSub = getDecksWithoutSubcategory(activeTab, activeCategory);
+
+    let html = `
+      <div class="breadcrumb">
+        <a id="back-to-categories">← Tất cả danh mục</a>
+        <span class="breadcrumb-sep">/</span>
+        <span class="breadcrumb-current">${getCategoryIcon(activeCategory)} ${escapeHtml(activeCategory)}</span>
+      </div>
+    `;
+
+    if (subs.length > 0) {
+      html += '<div class="subcategory-section-label">Danh mục con</div>';
+      html += '<div class="category-grid">';
+      subs.forEach(s => {
+        html += `
+          <div class="category-card subcategory-card" data-subcategory="${escapeHtml(s.name)}">
+            <div class="category-icon">${getSubcategoryIcon(s.name)}</div>
+            <div class="category-name">${escapeHtml(s.name)}</div>
+            <div class="category-count">${s.count} bộ đề</div>
+          </div>
+        `;
+      });
+      html += '</div>';
+    }
+
+    if (decksWithoutSub.length > 0) {
+      if (subs.length > 0) {
+        html += '<div class="subcategory-section-label">Bộ đề chưa có danh mục con</div>';
+      }
+      html += '<div class="deck-list">';
+      decksWithoutSub.sort((a,b) => b.addedAt - a.addedAt).forEach(d => {
+        html += renderDeckCard(d);
+      });
+      html += '</div>';
+    }
+
+    if (subs.length === 0 && decksWithoutSub.length === 0) {
+      html += `
+        <div class="library-empty">
+          <div style="font-size: 13px;">Danh mục này chưa có bộ đề nào.</div>
+        </div>
+      `;
+    }
+    return html;
+  }
+
+  function renderSubcategoryContents() {
+    const subDecks = getDecksInSubcategory(activeTab, activeCategory, activeSubcategory);
+
+    let html = `
+      <div class="breadcrumb">
+        <a id="back-to-categories">← Tất cả danh mục</a>
+        <span class="breadcrumb-sep">/</span>
+        <a id="back-to-category">${getCategoryIcon(activeCategory)} ${escapeHtml(activeCategory)}</a>
+        <span class="breadcrumb-sep">/</span>
+        <span class="breadcrumb-current">${getSubcategoryIcon(activeSubcategory)} ${escapeHtml(activeSubcategory)}</span>
+      </div>
+    `;
+
+    if (subDecks.length === 0) {
+      html += `
+        <div class="library-empty">
+          <div style="font-size: 13px;">Danh mục con này chưa có bộ đề nào.</div>
+        </div>
+      `;
+    } else {
+      html += '<div class="deck-list">';
+      subDecks.sort((a,b) => b.addedAt - a.addedAt).forEach(d => {
         html += renderDeckCard(d);
       });
       html += '</div>';
@@ -1134,6 +1295,7 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
     main.querySelectorAll('.tab').forEach(t => t.onclick = () => {
       activeTab = t.dataset.tab;
       activeCategory = null;
+      activeSubcategory = null;
       searchQuery = '';
       renderLibrary();
     });
@@ -1158,15 +1320,24 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
     const searchClear = document.getElementById('search-clear');
     if (searchClear) searchClear.onclick = () => { searchQuery = ''; renderLibrary(); };
 
-    // Category cards
-    main.querySelectorAll('.category-card').forEach(c => c.onclick = () => {
+    // Subcategory cards (level 2 → level 3) — bind FIRST so their handler wins
+    main.querySelectorAll('.subcategory-card').forEach(c => c.onclick = () => {
+      activeSubcategory = c.dataset.subcategory;
+      renderLibrary();
+    });
+    // Top-level category cards (level 1 → level 2)
+    main.querySelectorAll('.category-card:not(.subcategory-card)').forEach(c => c.onclick = () => {
       activeCategory = c.dataset.category;
+      activeSubcategory = null;
       renderLibrary();
     });
 
-    // Back to category list
+    // Back to top-level category list
     const backCat = document.getElementById('back-to-categories');
-    if (backCat) backCat.onclick = () => { activeCategory = null; renderLibrary(); };
+    if (backCat) backCat.onclick = () => { activeCategory = null; activeSubcategory = null; renderLibrary(); };
+    // Back to subcategory grid (from inside a subcategory)
+    const backToCategory = document.getElementById('back-to-category');
+    if (backToCategory) backToCategory.onclick = () => { activeSubcategory = null; renderLibrary(); };
 
     // Deck cards (start + delete)
     main.querySelectorAll('.act-start').forEach(b => b.onclick = e => {
@@ -1893,14 +2064,30 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
 
     let actionsHTML = '<div class="actions" style="justify-content: space-between; flex-wrap: wrap; gap: 8px;">';
 
-    // Left: Back button
+    // LEFT cluster: Back + Skip — destructive/backward navigation, kept far from Next to avoid mis-clicks
     let leftBtns = '<div style="display: flex; gap: 6px;">';
     if (!isFirstQuestion) {
       leftBtns += `<button class="btn btn-sm" id="nav-back">← Quay lại</button>`;
     }
+    // Skip button — only available BEFORE answering, placed on the left so it's far from "Câu tiếp theo →"
+    if (!showFeedback) {
+      if (qstate.isMcq) {
+        if (!isLastCase || !isLastQuestionOfCase) {
+          leftBtns += `<button class="btn btn-sm btn-skip" id="nav-skip" title="Bỏ qua câu này">Skip ⇥</button>`;
+        }
+      } else if (qstate.isMockExam && c.questions.length === 1) {
+        if (!isLastCase) {
+          leftBtns += `<button class="btn btn-sm btn-skip" id="nav-skip-case" title="Bỏ qua câu này">Skip ⇥</button>`;
+        }
+      } else {
+        if (!isLastCase) {
+          leftBtns += `<button class="btn btn-sm btn-skip" id="nav-skip-case" title="Bỏ qua case này">Skip case ⇥</button>`;
+        }
+      }
+    }
     leftBtns += '</div>';
 
-    // Right: action buttons
+    // RIGHT cluster: forward action only — Submit (when answering multi) or Next/Finish (after answering)
     let rightBtns = '<div style="display: flex; gap: 6px; align-items: center;">';
 
     if (showFeedback) {
@@ -1911,27 +2098,12 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
         rightBtns += `<button class="btn btn-primary btn-sm" id="next-q">Câu tiếp theo →</button>`;
       }
     } else {
-      // Not answered yet
+      // Not answered yet — show submit button if applicable
       if (isMulti) {
         rightBtns += `<span style="font-size: 12px; color: var(--text-secondary); margin-right: 8px;">Đã chọn ${userMultiSelected.length}</span>`;
         rightBtns += `<button class="btn btn-sm" id="submit-multi" ${userMultiSelected.length === 0 ? 'disabled' : ''}>Trả lời</button>`;
       } else if (userSelected !== null) {
-        // Single but not yet submitted (only happens if we add explicit submit step)
         rightBtns += `<button class="btn btn-sm" id="submit-single">Trả lời</button>`;
-      }
-      // Skip button: skip current question/case without answering
-      if (qstate.isMcq) {
-        if (!isLastCase || !isLastQuestionOfCase) {
-          rightBtns += `<button class="btn btn-sm" id="nav-skip" title="Bỏ qua câu này">⇥ Skip</button>`;
-        }
-      } else if (qstate.isMockExam && c.questions.length === 1) {
-        if (!isLastCase) {
-          rightBtns += `<button class="btn btn-sm" id="nav-skip-case" title="Bỏ qua câu này">⇥ Skip</button>`;
-        }
-      } else {
-        if (!isLastCase) {
-          rightBtns += `<button class="btn btn-sm" id="nav-skip-case" title="Bỏ qua case này">⇥ Skip case</button>`;
-        }
       }
     }
     rightBtns += '</div>';
@@ -2166,8 +2338,9 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
     step: 1,
     activeTab: 'cases',  // separate tabs in modal (not the library tabs)
     searchQ: '',
-    expandedCategories: {},  // category name → bool
-    selectedDecks: {},       // deckId → bool
+    expandedCategories: {},      // category name → bool
+    expandedSubcategories: {},   // "Cat::Sub" key → bool
+    selectedDecks: {},           // deckId → bool
     name: '',
     structure: 'per-deck',   // 'per-deck' | 'total'
     perDeckCases: 1,         // 1 case (with all sub-questions)
@@ -2179,7 +2352,7 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
   function openCreateMockModal() {
     mockState = {
       step: 1, activeTab: 'cases', searchQ: '',
-      expandedCategories: {}, selectedDecks: {},
+      expandedCategories: {}, expandedSubcategories: {}, selectedDecks: {},
       name: '', structure: 'per-deck',
       perDeckCases: 1, perDeckMcq: 5, totalQuestions: 30, timeMinutes: 30
     };
@@ -2264,42 +2437,98 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
       if (!byCat[cat]) byCat[cat] = [];
       byCat[cat].push(d);
     });
-    const cats = Object.keys(byCat).sort();
+    const cats = Object.keys(byCat).sort((a, b) => {
+      if (a === 'Chưa phân loại') return 1;
+      if (b === 'Chưa phân loại') return -1;
+      return a.localeCompare(b, 'vi');
+    });
     const selectedCount = Object.values(mockState.selectedDecks).filter(Boolean).length;
 
     let catsHTML = '';
     if (cats.length === 0) {
       catsHTML = '<div style="padding: 24px; text-align: center; color: var(--text-tertiary);">Không có bộ đề nào phù hợp</div>';
     }
+
+    function deckRowHTML(d) {
+      const checked = mockState.selectedDecks[d.id] ? 'checked' : '';
+      const totalQ = (d.type || 'cases') === 'cases'
+        ? `${d.cases.length} case · ${d.totalQuestions} câu`
+        : `${d.totalQuestions} câu`;
+      return `<label class="cat-deck-row deck-row-label">
+        <input type="checkbox" class="mock-deck-cb" data-id="${d.id}" ${checked}>
+        <span class="deck-row-text">${escapeHtml(d.name)} <span style="color: var(--text-tertiary); font-size: 11px;">(${totalQ})</span></span>
+      </label>`;
+    }
+
     cats.forEach(cat => {
       const catDecks = byCat[cat];
-      const isExpanded = mockState.expandedCategories[cat];
-      const allSelected = catDecks.every(d => mockState.selectedDecks[d.id]);
-      const someSelected = catDecks.some(d => mockState.selectedDecks[d.id]);
-      const selectedHere = catDecks.filter(d => mockState.selectedDecks[d.id]).length;
+      const isCatExpanded = mockState.expandedCategories[cat];
+      const catSelectedCount = catDecks.filter(d => mockState.selectedDecks[d.id]).length;
+
+      const subBuckets = {};
+      const noSubDecks = [];
+      catDecks.forEach(d => {
+        const sub = (d.subcategory || '').trim();
+        if (!sub) noSubDecks.push(d);
+        else {
+          if (!subBuckets[sub]) subBuckets[sub] = [];
+          subBuckets[sub].push(d);
+        }
+      });
+      const subNames = Object.keys(subBuckets).sort((a, b) => a.localeCompare(b, 'vi'));
+
       let bodyHTML = '';
-      if (isExpanded) {
-        const selectAllId = `mock-cat-all-${cat.replace(/[^\w]/g,'_')}`;
+      if (isCatExpanded) {
+        const catSelectAllId = `mock-cat-all-${cat.replace(/[^\w]/g, '_')}`;
+        const allCatSelected = catDecks.every(d => mockState.selectedDecks[d.id]);
+        const someCatSelected = catSelectedCount > 0 && !allCatSelected;
         bodyHTML = `<div class="cat-select-body expanded">
-          <div class="cat-deck-row cat-select-all">
-            <input type="checkbox" id="${selectAllId}" ${allSelected ? 'checked' : ''} ${!allSelected && someSelected ? 'data-indeterminate="1"' : ''}>
-            <label for="${selectAllId}">Chọn tất cả (${catDecks.length})</label>
-          </div>`;
-        catDecks.forEach(d => {
-          const checked = mockState.selectedDecks[d.id] ? 'checked' : '';
-          const totalQ = (d.type || 'cases') === 'cases' ? `${d.cases.length} case · ${d.totalQuestions} câu` : `${d.totalQuestions} câu`;
-          bodyHTML += `<div class="cat-deck-row">
-            <input type="checkbox" class="mock-deck-cb" data-id="${d.id}" data-cat="${escapeHtml(cat)}" ${checked}>
-            <label>${escapeHtml(d.name)} <span style="color: var(--text-tertiary); font-size: 11px;">(${totalQ})</span></label>
+          <label class="cat-deck-row cat-select-all">
+            <input type="checkbox" id="${catSelectAllId}" class="mock-cat-all" data-cat="${escapeHtml(cat)}" ${allCatSelected ? 'checked' : ''} ${someCatSelected ? 'data-indeterminate="1"' : ''}>
+            <span class="deck-row-text"><b>Chọn tất cả</b> (${catDecks.length})</span>
+          </label>`;
+
+        subNames.forEach(sub => {
+          const subDecks = subBuckets[sub];
+          const subKey = cat + '::' + sub;
+          const isSubExpanded = mockState.expandedSubcategories[subKey];
+          const subSelectedCount = subDecks.filter(d => mockState.selectedDecks[d.id]).length;
+          const allSubSelected = subDecks.every(d => mockState.selectedDecks[d.id]);
+          const someSubSelected = subSelectedCount > 0 && !allSubSelected;
+
+          let subBodyHTML = '';
+          if (isSubExpanded) {
+            subBodyHTML = `<div class="sub-select-body">`;
+            subDecks.forEach(d => { subBodyHTML += deckRowHTML(d); });
+            subBodyHTML += `</div>`;
+          }
+
+          bodyHTML += `<div class="sub-select-row" data-sub-key="${escapeHtml(subKey)}">
+            <div class="sub-select-header">
+              <span class="cat-select-arrow${isSubExpanded ? ' expanded' : ''}" data-toggle-sub="${escapeHtml(subKey)}" title="Mở/đóng">▶</span>
+              <input type="checkbox" class="mock-sub-cb" data-cat="${escapeHtml(cat)}" data-sub="${escapeHtml(sub)}" ${allSubSelected ? 'checked' : ''} ${someSubSelected ? 'data-indeterminate="1"' : ''}>
+              <span class="sub-select-name" data-toggle-sub="${escapeHtml(subKey)}">${getSubcategoryIcon(sub)} ${escapeHtml(sub)}</span>
+              <span class="sub-select-count">${subSelectedCount > 0 ? subSelectedCount + '/' : ''}${subDecks.length}</span>
+            </div>
+            ${subBodyHTML}
           </div>`;
         });
+
+        if (noSubDecks.length > 0) {
+          if (subNames.length > 0) {
+            bodyHTML += '<div class="mock-nosub-label">Bộ đề chưa có danh mục con</div>';
+          }
+          noSubDecks.forEach(d => { bodyHTML += deckRowHTML(d); });
+        }
+
         bodyHTML += '</div>';
       }
+
       catsHTML += `<div class="cat-select-row" data-cat="${escapeHtml(cat)}">
         <div class="cat-select-header" data-toggle-cat="${escapeHtml(cat)}">
-          <span class="cat-select-arrow${isExpanded ? ' expanded' : ''}">▶</span>
+          <span class="cat-select-arrow${isCatExpanded ? ' expanded' : ''}">▶</span>
           <span class="cat-select-name">${getCategoryIcon(cat)} ${escapeHtml(cat)}</span>
-          <span class="cat-select-count">${selectedHere > 0 ? `${selectedHere}/` : ''}${catDecks.length}</span>
+          <span class="cat-select-count">${catSelectedCount > 0 ? catSelectedCount + '/' : ''}${catDecks.length}</span>
         </div>
         ${bodyHTML}
       </div>`;
@@ -2312,7 +2541,7 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
     const nextBtn = document.getElementById('mock-next');
     if (nextBtn) nextBtn.disabled = selectedCount === 0;
 
-    // Re-bind events for the freshly rendered list
+    // Re-bind events
     listContainer.querySelectorAll('[data-toggle-cat]').forEach(h => {
       h.onclick = () => {
         const cat = h.dataset.toggleCat;
@@ -2320,21 +2549,56 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
         updateMockStep1Body();
       };
     });
+    listContainer.querySelectorAll('[data-toggle-sub]').forEach(h => {
+      h.onclick = (e) => {
+        e.stopPropagation();
+        const subKey = h.dataset.toggleSub;
+        mockState.expandedSubcategories[subKey] = !mockState.expandedSubcategories[subKey];
+        updateMockStep1Body();
+      };
+    });
     listContainer.querySelectorAll('input[data-indeterminate="1"]').forEach(cb => cb.indeterminate = true);
-    listContainer.querySelectorAll('[id^="mock-cat-all-"]').forEach(cb => {
+    listContainer.querySelectorAll('.mock-cat-all').forEach(cb => {
       cb.onclick = (e) => {
         e.stopPropagation();
-        const body = cb.closest('.cat-select-body');
-        const deckCbs = body.querySelectorAll('.mock-deck-cb');
+        const cat = cb.dataset.cat;
         const targetState = cb.checked;
-        deckCbs.forEach(d => {
-          mockState.selectedDecks[d.dataset.id] = targetState;
+        decks.forEach(d => {
+          if ((d.category || 'Chưa phân loại') !== cat) return;
+          if (d.mockExam || d.localOnly) return;
+          if ((d.type || 'cases') !== mockState.activeTab) return;
+          if (mockState.searchQ) {
+            const q = mockState.searchQ.toLowerCase();
+            if (!d.name.toLowerCase().includes(q) && !(d.description||'').toLowerCase().includes(q)) return;
+          }
+          mockState.selectedDecks[d.id] = targetState;
+        });
+        updateMockStep1Body();
+      };
+    });
+    listContainer.querySelectorAll('.mock-sub-cb').forEach(cb => {
+      cb.onclick = (e) => {
+        e.stopPropagation();
+        const cat = cb.dataset.cat;
+        const sub = cb.dataset.sub;
+        const targetState = cb.checked;
+        decks.forEach(d => {
+          if ((d.category || 'Chưa phân loại') !== cat) return;
+          if ((d.subcategory || '').trim() !== sub) return;
+          if (d.mockExam || d.localOnly) return;
+          if ((d.type || 'cases') !== mockState.activeTab) return;
+          if (mockState.searchQ) {
+            const q = mockState.searchQ.toLowerCase();
+            if (!d.name.toLowerCase().includes(q) && !(d.description||'').toLowerCase().includes(q)) return;
+          }
+          mockState.selectedDecks[d.id] = targetState;
         });
         updateMockStep1Body();
       };
     });
     listContainer.querySelectorAll('.mock-deck-cb').forEach(cb => {
-      cb.onclick = (e) => {
+      cb.onclick = (e) => { e.stopPropagation(); };
+      cb.onchange = (e) => {
         e.stopPropagation();
         mockState.selectedDecks[cb.dataset.id] = cb.checked;
         updateMockStep1Body();
@@ -2440,6 +2704,7 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
         // Switch to mock exam tab
         activeTab = 'mock';
         activeCategory = '📝 Đề thi thử';
+        activeSubcategory = null;
         renderLibrary();
       }
     };
