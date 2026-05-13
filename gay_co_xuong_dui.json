@@ -1,0 +1,627 @@
+{
+  "name": "Gãy cổ xương đùi",
+  "description": "Bộ case lâm sàng gãy cổ xương đùi - ôn thi nội trú, bao gồm phân loại Garden/Pauwels, chiến lược điều trị theo tuổi và mức độ gãy, biến chứng và quản lý ngoại khoa",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Chấn thương",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 78 tuổi, trượt ngã trong nhà tắm, đau háng phải",
+      "body": "Bệnh nhân nữ, 78 tuổi, nội trợ, được đưa vào cấp cứu sau khi trượt ngã trong nhà tắm, đập vùng hông phải xuống nền cứng cách đây 3 giờ. Bệnh nhân than đau nhiều vùng háng phải, không thể tự đứng dậy và đi lại được.<br><br><b>Tiền sử:</b> Tăng huyết áp (Amlodipine 5 mg/ngày), đái tháo đường type 2 (Metformin), loãng xương chưa điều trị thường xuyên.<br><br><b>Khám toàn thân:</b> Tỉnh táo, BMI 19 kg/m², mạch 88 lần/phút, huyết áp 140/80 mmHg.<br><br><b>Khám cơ quan:</b> Chân phải ngắn hơn chân trái khoảng 2 cm, bàn chân đổ ngoài 45 độ, sờ thấy mấu chuyển lớn lên cao hơn so với bên đối diện. Ấn điểm giữa nếp bằn bẹn đau chói. Tam giác Bryant bên phải bị dẹt. Không thấy bầm tím lan rộng vùng mấu chuyển hay đùi. Mạch mu chân bắt rõ, vận động ngón chân bình thường.<br><br><b>CLS:</b> Hb 115 g/L, Glucose 7.8 mmol/L, Creatinin 75 μmol/L.<br><br><b>X-quang khung chậu thẳng:</b> Đường gãy qua cổ xương đùi, các bè xương vùng cổ chậu bị gãy rời, đầu chỏm xương đùi di lệch hoàn toàn so với cổ xương đùi nhưng chưa thấy dấu hiệu tiêu xương.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định và phân độ gãy xương theo Garden phù hợp nhất trên bệnh nhân này?",
+          "options": [
+            "Gãy liên mấu chuyển xương đùi",
+            "Gãy cổ xương đùi Garden II",
+            "Gãy cổ xương đùi Garden III",
+            "Gãy cổ xương đùi Garden IV"
+          ],
+          "answer": 3,
+          "explain": "Garden IV: X-quang mô tả 'đầu chỏm di lệch hoàn toàn', các bè xương gãy rời không còn liên hệ. Garden III là di lệch một phần (các bè xương còn dính nhau 1 phần), Garden IV là di lệch hoàn toàn."
+        },
+        {
+          "q": "Cơ chế biến dạng bàn chân đổ ngoài trong gãy cổ xương đùi chủ yếu do:",
+          "options": [
+            "Do cơ thắt lưng chậu co kéo xoay ngoài",
+            "Do trọng lượng của bàn chân tự đổ ra ngoài khi nằm",
+            "Do cơ tứ đầu đùi co rút",
+            "Do tổn thương dây thần kinh ngồi"
+          ],
+          "answer": 0,
+          "explain": "Trong gãy cổ xương đùi, chân đổ ngoài chủ yếu do trọng lượng chi VÀ quan trọng là lực co kéo của cơ thắt lưng chậu (Iliopsoas) và các cơ xoay ngoài ngắn. Độ đổ ngoài của gãy cổ xương đùi (45-60 độ) thường ít hơn gãy liên mấu chuyển (90 độ) do bao khớp còn giữ lại 1 phần."
+        },
+        {
+          "q": "Nguy cơ biến chứng xa đáng ngại nhất liên quan đến đặc điểm giải phẫu mạch máu nuôi chỏm ở bệnh nhân này là:",
+          "options": [
+            "Tắc mạch mỡ",
+            "Hoại tử vô khuẩn chỏm xương đùi (AVN)",
+            "Viêm phổi do nằm lâu",
+            "Chèn ép khoang"
+          ],
+          "answer": 1,
+          "explain": "Gãy cổ xương đùi (đặc biệt gãy dưới chỏm và xuyên cổ) làm tổn thương các nhánh mạch máu từ động mạch mũ đùi trong đi trong bao hoạt dịch nuôi chỏm. Nguy cơ AVN tỉ lệ thuận với mức độ di lệch (Garden III, IV nguy cơ rất cao)."
+        },
+        {
+          "q": "Phương pháp điều trị phẫu thuật tối ưu nhất cho bệnh nhân này, dựa trên tuổi và phân độ gãy:",
+          "options": [
+            "Kết hợp xương bằng 3 vít xốp (Cannulated screws)",
+            "Thay khớp háng bán phần (Hemiarthroplasty)",
+            "Bó bột Whitman",
+            "Kéo liên tục chờ liền xương"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân lớn tuổi (78t), gãy di lệch hoàn toàn (Garden IV), chất lượng xương kém => Nguy cơ AVN và không liền xương rất cao nếu kết hợp xương. Thay khớp giúp vận động sớm, tránh biến chứng nằm lâu. Thay khớp toàn phần thường dành cho người già còn rất khỏe mạnh (active) hoặc có thoái hóa khớp háng trước đó."
+        },
+        {
+          "q": "Nếu lựa chọn thay khớp háng, loại xi măng (cement) thường được chỉ định dựa trên yếu tố nào của bệnh nhân này?",
+          "options": [
+            "Bệnh nhân có tiền sử đái tháo đường nên không dùng xi măng",
+            "Chất lượng xương kém (loãng xương) nên ưu tiên dùng xi măng (cemented)",
+            "Tuổi cao luôn chống chỉ định dùng xi măng do nguy cơ thuyên tắc",
+            "Dùng loại nào cũng được, không phụ thuộc chất lượng xương"
+          ],
+          "answer": 1,
+          "explain": "Với bệnh nhân 78 tuổi, BMI thấp, tiền sử loãng xương, ống tủy thường rộng và vỏ xương mỏng (Dorr type C), việc sử dụng xi măng giúp cố định vững chắc ngay lập tức chuôi (stem) vào xương, cho phép đi lại sớm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 32 tuổi, công nhân xây dựng, ngã giàn giáo, đau háng trái",
+      "body": "Bệnh nhân nam, 32 tuổi, công nhân xây dựng, nhập viện giờ thứ 2 sau tai nạn ngã giàn giáo từ độ cao 3m, đập hông trái xuống nền cứng.<br><br><b>Tình trạng:</b> Bệnh nhân tỉnh, đau dữ dội háng trái.<br><br><b>Sinh hiệu:</b> Mạch 100 lần/phút, HA 110/70 mmHg.<br><br><b>Khám:</b> Háng trái sưng nề nhẹ, đau chói khi vận động thụ động, chi ngắn nhẹ, xoay ngoài. Không có dấu hiệu tổn thương thần kinh mạch máu ngoại biên.<br><br><b>X-quang:</b> Đường gãy sắc nét đi qua cổ chính danh xương đùi trái, góc tạo bởi đường gãy và đường ngang (Pauwels angle) khoảng 75 độ. Các bè xương vùng cổ di lệch ít.<br><br><b>Khác:</b> SpO₂ 98%. Các xét nghiệm tiền phẫu trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Nhận định nào sau đây ĐÚNG về phân loại gãy xương của bệnh nhân này?",
+          "options": [
+            "Gãy Pauwels I, tiên lượng liền xương tốt",
+            "Gãy Pauwels II, lực xé trung bình",
+            "Gãy Pauwels III, lực xé (shear force) lớn, gãy không vững",
+            "Gãy Garden I, gãy cài"
+          ],
+          "answer": 2,
+          "explain": "Phân loại Pauwels dựa trên góc giữa đường gãy và đường nằm ngang. Type I (<30 độ), Type II (30-50 độ), Type III (>50 độ). Góc 75 độ là Type III, chịu lực xé rất lớn, là gãy không vững."
+        },
+        {
+          "q": "Mục tiêu quan trọng nhất trong xử trí cấp cứu và lập kế hoạch mổ cho bệnh nhân <b>TRẺ TUỔI</b> này là:",
+          "options": [
+            "Thay khớp háng toàn phần để tránh hoại tử chỏm",
+            "Nắn chỉnh và kết hợp xương càng sớm càng tốt (ưu tiên < 24h) để bảo tồn chỏm",
+            "Kéo tạ 1 tuần để giãn cơ rồi mới mổ kết hợp xương",
+            "Điều trị bảo tồn bằng bột chống xoay"
+          ],
+          "answer": 1,
+          "explain": "Ở người trẻ, mục tiêu tối thượng là giữ lại khớp háng tự nhiên ('Save the hip'). Mổ sớm (tốt nhất là trong 6-12h đầu, hoặc <24h) giúp giải áp bao khớp (do tụ máu) và phục hồi tưới máu, giảm nguy cơ hoại tử chỏm. Thay khớp là lựa chọn đường cùng ở người trẻ."
+        },
+        {
+          "q": "Với góc Pauwels 75 độ, nếu kết hợp xương đơn thuần bằng vít xốp (CCS), nguy cơ thất bại cao nhất là do:",
+          "options": [
+            "Lực nén ép (compression force) quá lớn làm tiêu chỏm",
+            "Lực xé (shearing force) gây trượt diện gãy và không liền xương",
+            "Nhiễm trùng chân đinh",
+            "Gãy vít do xương quá cứng"
+          ],
+          "answer": 1,
+          "explain": "Góc Pauwels càng lớn thì lực xé càng chiếm ưu thế so với lực nén ép. Lực xé làm trượt hai mặt gãy lên nhau, gây mất vững và dẫn đến khớp giả (non-union). Trong trường hợp này, vít xốp đơn thuần có thể không đủ vững, cần cân nhắc DHS (Dynamic Hip Screw) hoặc vít có cấu hình chống trượt."
+        },
+        {
+          "q": "Cấu trúc giải phẫu nào quan trọng nhất cung cấp máu nuôi chỏm xương đùi cần được bảo vệ tối đa?",
+          "options": [
+            "Động mạch dây chằng tròn",
+            "Các nhánh retinacular của động mạch mũ đùi ngoài",
+            "Các nhánh retinacular của động mạch mũ đùi trong",
+            "Động mạch đùi sâu"
+          ],
+          "answer": 2,
+          "explain": "Động mạch mũ đùi trong là nguồn cấp máu chính cho chỏm xương đùi (cung cấp khoảng 80% lượng máu). Động mạch dây chằng tròn đóng vai trò không đáng kể ở người trưởng thành."
+        },
+        {
+          "q": "Giả sử bệnh nhân được mổ kết hợp xương. Sau 6 tháng, bệnh nhân đau lại vùng háng, chụp X-quang thấy dấu hiệu 'Crescent sign' (dấu hiệu liềm hơi dưới sụn). Chẩn đoán nghĩ đến nhiều nhất:",
+          "options": [
+            "Nhiễm trùng khớp háng",
+            "Thoái hóa khớp háng thứ phát",
+            "Hoại tử vô khuẩn chỏm xương đùi giai đoạn sớm",
+            "Khớp giả (Non-union)"
+          ],
+          "answer": 2,
+          "explain": "'Crescent sign' là dấu hiệu kinh điển trên X-quang của hoại tử vô khuẩn chỏm xương đùi (AVN), biểu hiện sự xẹp của xương dưới sụn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 85 tuổi, thể trạng gầy, ngã ngồi, lú lẫn nhẹ",
+      "body": "Bệnh nhân nữ, 85 tuổi, thể trạng gầy (BMI 18), vào viện vì đau háng trái sau ngã ngồi. Bệnh nhân lú lẫn nhẹ (Senile Dementia), điểm Parker trước ngã thấp (chỉ đi lại quanh giường).<br><br><b>Khám:</b> Chân trái ngắn ít, xoay ngoài nhẹ 20 độ.<br><br><b>X-quang:</b> Gãy cổ xương đùi Garden IV.<br><br><b>Tiền sử:</b> Hen phế quản đang dùng corticoid dạng hít nhiều năm. Xét nghiệm: Albumin máu 28 g/L (giảm), Hct 30%.",
+      "questions": [
+        {
+          "q": "Đặc điểm lâm sàng 'chân xoay ngoài nhẹ 20 độ' và 'ngắn ít' gợi ý điều gì về bao khớp?",
+          "options": [
+            "Bao khớp đã bị rách hoàn toàn",
+            "Bao khớp còn nguyên vẹn hoặc rách ít, giữ trục chi không bị đổ quá nhiều",
+            "Gãy ngoài bao khớp",
+            "Gãy mấu chuyển lớn kèm theo"
+          ],
+          "answer": 1,
+          "explain": "Trong gãy cổ xương đùi, nếu bao khớp (capsule) còn tương đối nguyên vẹn (dây chằng Y vẫn giữ), chân sẽ không đổ ngoài tối đa như gãy liên mấu chuyển (ngoài bao khớp)."
+        },
+        {
+          "q": "Phương pháp phẫu thuật phù hợp nhất cho bệnh nhân này?",
+          "options": [
+            "Thay khớp háng toàn phần (Total Hip Arthroplasty - THA)",
+            "Thay khớp háng bán phần loại lưỡng cực (Bipolar Hemiarthroplasty)",
+            "Thay khớp háng bán phần loại đơn cực (Unipolar/Moore) có xi măng",
+            "Kết hợp xương nẹp vít"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân quá già (85t), nhu cầu vận động thấp (Parker thấp), lú lẫn, loãng xương, tiên lượng sống không dài. Phẫu thuật cần nhanh, đơn giản, cho phép tỳ nén ngay. Loại đơn cực rẻ tiền, mổ nhanh, phù hợp nhu cầu thấp. Cần xi măng vì xương loãng."
+        },
+        {
+          "q": "Lý do KHÔNG chọn thay khớp háng toàn phần (THA) cho bệnh nhân này, NGOẠI TRỪ:",
+          "options": [
+            "Thời gian phẫu thuật dài hơn, mất máu nhiều hơn",
+            "Nguy cơ trật khớp cao hơn ở bệnh nhân lú lẫn/sa sút trí tuệ",
+            "Nhu cầu vận động của bệnh nhân thấp",
+            "THA có tuổi thọ khớp ngắn hơn Hemiarthroplasty"
+          ],
+          "answer": 3,
+          "explain": "THA thực tế có chức năng tốt hơn và bền hơn Hemiarthroplasty (ít mòn ổ cối hơn). Tuy nhiên, ta không chọn THA ở ca này vì A, B, C đều là lý do đúng để từ chối THA (nguy cơ trật khớp ở người lú lẫn là rất cao)."
+        },
+        {
+          "q": "Corticoid đường hít dùng lâu dài là yếu tố nguy cơ của:",
+          "options": [
+            "Tăng mật độ xương",
+            "Loãng xương và gãy xương bệnh lý",
+            "Tăng sức bền bao khớp",
+            "Giảm nguy cơ thuyên tắc mạch"
+          ],
+          "answer": 1,
+          "explain": "Sử dụng corticoid kéo dài ức chế tạo cốt bào, tăng hủy xương, dẫn đến loãng xương thứ phát."
+        },
+        {
+          "q": "Biến chứng nội khoa thường gặp nhất gây tử vong ở bệnh nhân già nằm lâu sau gãy xương đùi là:",
+          "options": [
+            "Nhiễm trùng đường tiểu",
+            "Viêm phổi và Thuyên tắc phổi (PE)",
+            "Loét tì đè vùng cùng cụt",
+            "Hạ đường huyết"
+          ],
+          "answer": 1,
+          "explain": "Viêm phổi/PE là nguyên nhân hàng đầu gây tử vong. Mục tiêu mổ là để dựng bệnh nhân dậy, tập hít thở, vỗ rung để tránh viêm phổi."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi, nghiện rượu, xơ gan, tai nạn xe máy",
+      "body": "Bệnh nhân nam, 60 tuổi, tiền sử nghiện rượu (uống 500ml/ngày trong 20 năm), xơ gan Child B. Vào viện vì đau háng phải sau tai nạn xe máy.<br><br><b>Khám:</b> Đau hạn chế vận động háng phải, mạch 90 l/p, da có nốt sao mạch.<br><br><b>X-quang:</b> Gãy cổ xương đùi phải Garden III, Pauwels II.<br><br><b>Xét nghiệm:</b> PT% 60%, INR 1.4, Tiểu cầu 90 G/L.",
+      "questions": [
+        {
+          "q": "Yếu tố nguy cơ hàng đầu gây hoại tử chỏm xương đùi (ngoài chấn thương) ở bệnh nhân này là:",
+          "options": [
+            "Xơ gan",
+            "Nghiện rượu",
+            "Giảm tiểu cầu",
+            "Tuổi 60"
+          ],
+          "answer": 1,
+          "explain": "Rượu là nguyên nhân nội khoa hàng đầu gây hoại tử vô khuẩn chỏm xương đùi (AVN) do rối loạn chuyển hóa lipid gây tắc vi mạch. Cộng hưởng với chấn thương, nguy cơ AVN ở ca này cực cao."
+        },
+        {
+          "q": "Trước khi phẫu thuật, cần chú ý điều chỉnh rối loạn đông máu. Chỉ số INR mục tiêu an toàn thường được khuyến cáo là:",
+          "options": [
+            "< 2.5",
+            "< 1.5",
+            "< 2.0",
+            "Không cần điều chỉnh"
+          ],
+          "answer": 1,
+          "explain": "Để đảm bảo an toàn phẫu thuật, đặc biệt vùng chậu hông nhiều mạch máu, INR thường được đưa về < 1.5. Có thể cần truyền Plasma tươi đông lạnh (FFP) hoặc Vitamin K."
+        },
+        {
+          "q": "Trong phân loại Garden, yếu tố chính để phân biệt Garden III và IV là:",
+          "options": [
+            "Mức độ di lệch của các bè xương (còn liên tục hay không)",
+            "Vị trí đường gãy so với bao khớp",
+            "Góc của đường gãy",
+            "Có mảnh rời thứ 3 hay không"
+          ],
+          "answer": 0,
+          "explain": "Garden III là gãy di lệch hoàn toàn nhưng các bè xương ở chỏm vẫn còn hướng về phía bè xương cổ (chưa mất liên lạc hoàn toàn, còn dính dây chằng sau). Garden IV là các bè xương song song nhau, đầu chỏm tự do, mất liên lạc hoàn toàn."
+        },
+        {
+          "q": "Với độ tuổi 60 ('tuổi sinh lý' có thể già hơn do rượu), phương án điều trị nào thường gây tranh cãi nhất (vùng xám chỉ định)?",
+          "options": [
+            "Thay khớp háng vs Kết hợp xương",
+            "Bó bột vs Kéo tạ",
+            "Mổ mở vs Mổ nội soi",
+            "Thay khớp háng đơn cực vs Bó bột"
+          ],
+          "answer": 0,
+          "explain": "Ở tuổi 50-65 (middle-aged), chỉ định rất khó. Kết hợp xương giúp giữ chỏm nhưng tỉ lệ mổ lại cao (do AVN/Non-union). Thay khớp giải quyết triệt để nhưng lại quá sớm cho tuổi thọ của khớp nhân tạo. Với bệnh nhân nghiện rượu (tiên lượng AVN cao), xu hướng nghiêng về Thay khớp toàn phần (THA) nhiều hơn."
+        },
+        {
+          "q": "Nếu quyết định kết hợp xương cho bệnh nhân này, tại sao tỉ lệ thất bại lại cao hơn người bình thường?",
+          "options": [
+            "Do rượu làm giảm khả năng liền xương và tăng nguy cơ không liền (non-union)",
+            "Do bệnh nhân không tuân thủ y lệnh",
+            "Do nguy cơ nhiễm trùng thấp hơn",
+            "Do mật độ xương ở người nghiện rượu thường rất cao"
+          ],
+          "answer": 0,
+          "explain": "Rượu ảnh hưởng xấu đến sự biệt hóa tạo cốt bào và quá trình can xương."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 72 tuổi, ngã, đau tăng khi chịu lực, chân không ngắn",
+      "body": "Bệnh nhân nữ, 72 tuổi, vào viện vì đau háng trái sau ngã. Bệnh nhân vẫn có thể đi lại tập tễnh được nhưng đau tăng khi chịu lực.<br><br><b>Khám:</b> Chân không ngắn, không đổ ngoài rõ rệt. Ấn diện tam giác Scarpa đau nhẹ.<br><br><b>X-quang khung chậu:</b> Đường gãy cổ xương đùi, các bè xương vùng cổ lún vào nhau dạng 'valgus impact', bè xương cong vòm ở cổ dưới liên tục với chỏm.",
+      "questions": [
+        {
+          "q": "Phân loại Garden cho trường hợp này:",
+          "options": [
+            "Garden I",
+            "Garden II",
+            "Garden III",
+            "Garden IV"
+          ],
+          "answer": 0,
+          "explain": "Garden I: Gãy không hoàn toàn hoặc gãy cài (impacted), thường ở tư thế Valgus. Các bè xương phía trong bị dồn nén, phá vỡ cấu trúc nhưng vẫn giữ được sự ổn định tương đối."
+        },
+        {
+          "q": "Thái độ xử trí tốt nhất cho gãy Garden I thực sự (True impacted fracture) là:",
+          "options": [
+            "Điều trị bảo tồn, không mổ, hạn chế tỳ đè",
+            "Cố định dự phòng (In situ fixation) bằng vít xốp",
+            "Thay khớp háng bán phần ngay lập tức",
+            "Nắn chỉnh mở và nẹp vít"
+          ],
+          "answer": 1,
+          "explain": "Mặc dù Garden I có thể điều trị bảo tồn, nhưng nguy cơ di lệch thứ phát ('rơi' ra thành gãy rời) là khoảng 20-30%. Khuyến cáo hiện nay là bắt vít xốp qua da (percutaneous screwing) để cố định chỏm, giúp bệnh nhân vận động sớm an toàn."
+        },
+        {
+          "q": "Nguy cơ lớn nhất nếu điều trị bảo tồn (không mổ) cho gãy Garden I là gì?",
+          "options": [
+            "Nhiễm trùng khớp",
+            "Di lệch thứ phát (Displacement) thành Garden III/IV",
+            "Tổn thương thần kinh đùi",
+            "Cứng khớp gối"
+          ],
+          "answer": 1,
+          "explain": "Di lệch thứ phát là biến chứng đáng sợ nhất của điều trị bảo tồn. Từ gãy ổn định thành gãy mất vững, lúc đó phải thay khớp."
+        },
+        {
+          "q": "Vị trí đặt vít xốp (Cannulated screws) lý tưởng theo cấu hình tam giác đảo ngược là:",
+          "options": [
+            "1 vít trên, 2 vít dưới",
+            "2 vít trên, 1 vít dưới",
+            "3 vít thẳng hàng dọc",
+            "3 vít thẳng hàng ngang"
+          ],
+          "answer": 0,
+          "explain": "Cấu hình tam giác đảo ngược (Inverted Triangle) với 1 vít ở vị trí trung tâm-trên, và 2 vít ở dưới (trước-dưới và sau-dưới) tì lên vùng calcar femorale (vùng xương đặc chịu lực) là cấu hình vững chắc sinh học nhất."
+        },
+        {
+          "q": "Trong gãy cổ xương đùi thể cài (valgus impact), trục chi thường:",
+          "options": [
+            "Ngắn nhiều",
+            "Bình thường hoặc ngắn rất ít, không xoay hoặc xoay ngoài rất nhẹ",
+            "Xoay trong",
+            "Dạng 90 độ"
+          ],
+          "answer": 1,
+          "explain": "Gãy Garden I thường ít biến dạng, bệnh nhân thậm chí còn đi lại được, dễ bị bỏ sót chẩn đoán nếu không chụp X-quang."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 28 tuổi, vận động viên, đau háng âm ỉ 3 tháng, tiền sử gãy 2 năm trước",
+      "body": "Bệnh nhân nam, 28 tuổi, vận động viên thể thao, bị đau háng phải âm ỉ 3 tháng nay.<br><br><b>Tiền sử:</b> Cách đây 2 năm bị ngã xe máy, chẩn đoán gãy cổ xương đùi Garden II, đã được phẫu thuật kết hợp xương bằng 3 vít xốp tại bệnh viện tuyến dưới.<br><br><b>Hiện tại:</b> Đi lại đau, dáng đi khập khiễng Trendelenburg (+).<br><br><b>X-quang kiểm tra:</b> Khe khớp háng hẹp, chỏm xương đùi biến dạng dẹt, có hình ảnh đặc xương và nang xương xen kẽ vùng chỏm. Vít xương còn nguyên, không gãy.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định tình trạng hiện tại:",
+          "options": [
+            "Khớp giả cổ xương đùi",
+            "Hoại tử vô khuẩn chỏm xương đùi (AVN) giai đoạn muộn",
+            "Nhiễm trùng khớp háng mạn tính",
+            "Gãy nứt lại cổ xương đùi"
+          ],
+          "answer": 1,
+          "explain": "Hình ảnh hẹp khe khớp, biến dạng chỏm, đặc xương xen kẽ nang xương là điển hình của AVN giai đoạn sập chỏm (Ficat IV hoặc Steinberg IV)."
+        },
+        {
+          "q": "Dấu hiệu Trendelenburg dương tính thể hiện sự yếu kém của nhóm cơ nào?",
+          "options": [
+            "Cơ tứ đầu đùi",
+            "Cơ mông lớn",
+            "Cơ mông nhỡ và mông bé (Nhóm cơ dạng)",
+            "Cơ thắt lưng chậu"
+          ],
+          "answer": 2,
+          "explain": "Dấu hiệu Trendelenburg (+) khi đứng 1 chân bên bệnh, khung chậu bên lành bị xệ xuống -> chứng tỏ cơ dạng bên bệnh yếu hoặc mất điểm bám/thay đổi cánh tay đòn."
+        },
+        {
+          "q": "Nguyên nhân gây AVN dù đã được kết hợp xương có thể do:",
+          "options": [
+            "Tổn thương mạch máu ngay tại thời điểm chấn thương ban đầu",
+            "Do vít chọc thủng chỏm vào ổ cối",
+            "Do bệnh nhân tập đi quá sớm",
+            "Do dị ứng kim loại"
+          ],
+          "answer": 0,
+          "explain": "AVN chủ yếu do mạch máu bị đứt/chèn ép ngay lúc tai nạn. Dù mổ tốt, máu vẫn không lên nuôi được chỏm."
+        },
+        {
+          "q": "Phương pháp điều trị tối ưu cho bệnh nhân này (trẻ tuổi, AVN giai đoạn sập chỏm, đau nhiều) là:",
+          "options": [
+            "Rút vít và điều trị nội khoa",
+            "Khoan giải áp chỏm (Core decompression)",
+            "Thay khớp háng toàn phần (THA) - loại gốm-gốm hoặc gốm-polyethylene",
+            "Hàn khớp háng"
+          ],
+          "answer": 2,
+          "explain": "Với chỏm đã sập/biến dạng, khoan giải áp không còn tác dụng. Hàn khớp gây tàn phế. THA với cặp ma sát tốt (Gốm-Gốm/Gốm-XGP) là lựa chọn vàng cho người trẻ để đảm bảo độ bền."
+        },
+        {
+          "q": "Để chẩn đoán sớm AVN khi X-quang thường quy chưa thấy hình ảnh rõ, phương tiện chẩn đoán hình ảnh nào có độ nhạy cao nhất?",
+          "options": [
+            "CT Scanner",
+            "MRI (Cộng hưởng từ)",
+            "Siêu âm khớp háng",
+            "Chụp mạch máu xoá nền"
+          ],
+          "answer": 1,
+          "explain": "MRI là tiêu chuẩn vàng chẩn đoán AVN sớm (giai đoạn tủy xương phù nề) khi X-quang còn bình thường."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 80 tuổi, ngã đập mông, sưng nề lớn, bầm tím",
+      "body": "Bệnh nhân nữ, 80 tuổi, vào viện vì ngã đập mông.<br><br><b>Khám:</b> Vùng hông sưng nề rất lớn, bầm tím lan xuống mặt sau đùi (Dấu hiệu Kirmisson).<br><br><b>X-quang:</b> Gãy liên mấu chuyển xương đùi (Intertrochanteric fracture). Tuy nhiên, cần phân biệt rõ với gãy cổ xương đùi để lập kế hoạch điều trị.",
+      "questions": [
+        {
+          "q": "Dấu hiệu bầm tím muộn vùng mấu chuyển (Ecchymosis) gợi ý gãy liên mấu chuyển (LMC) hơn là gãy cổ xương đùi vì:",
+          "options": [
+            "Gãy LMC là gãy ngoài bao khớp, máu chảy len lỏi ra mô mềm dưới da được",
+            "Gãy LMC tổn thương động mạch đùi",
+            "Gãy cổ xương đùi không chảy máu",
+            "Gãy cổ xương đùi máu chảy vào ổ bụng"
+          ],
+          "answer": 0,
+          "explain": "Gãy LMC nằm ngoài bao khớp háng -> máu chảy tràn ra các lớp cơ và dưới da -> bầm tím. Gãy cổ xương đùi nằm TRONG bao khớp -> máu tụ làm căng bao khớp, ít khi thấy bầm tím bên ngoài trừ khi rách bao khớp."
+        },
+        {
+          "q": "Về mặt liền xương, gãy cổ xương đùi khác gãy LMC ở điểm cơ bản nào?",
+          "options": [
+            "Gãy cổ xương đùi là gãy xương xốp, dễ liền hơn",
+            "Gãy cổ xương đùi là gãy nội khớp, không có màng xương, khó liền",
+            "Gãy LMC khó liền do cơ co kéo",
+            "Hai loại có tiên lượng liền xương như nhau"
+          ],
+          "answer": 1,
+          "explain": "Cổ xương đùi nằm trong khớp, không được bao phủ bởi màng xương (nguồn cung cấp tế bào sinh xương), chỉ liền xương kiểu 'nguyên phát' (nội tủy). LMC là xương xốp, có màng xương, tưới máu tốt -> rất dễ liền."
+        },
+        {
+          "q": "Một trong những phân loại gãy cổ xương đùi dựa trên vị trí giải phẫu (thay vì mức độ di lệch) là:",
+          "options": [
+            "Garden",
+            "Pauwels",
+            "Delbet-Colonna (dưới chỏm, qua cổ, chân cổ)",
+            "Evans"
+          ],
+          "answer": 2,
+          "explain": "Delbet-Colonna phân loại theo vị trí giải phẫu: Gãy dưới chỏm, gãy xuyên cổ (qua cổ chính danh), gãy chân cổ (nền cổ)."
+        },
+        {
+          "q": "Trong gãy cổ xương đùi sát chỏm (Subcapital), tiên lượng nuôi dưỡng chỏm so với gãy nền cổ (Basibervical) là:",
+          "options": [
+            "Tốt hơn",
+            "Tồi hơn (nguy cơ hoại tử cao nhất)",
+            "Như nhau",
+            "Không liên quan"
+          ],
+          "answer": 1,
+          "explain": "Gãy dưới chỏm (Subcapital): Vị trí này cắt đứt đường vào của mạch máu nuôi chỏm ngay tại chỗ -> Tiên lượng tồi nhất."
+        },
+        {
+          "q": "Chọn tập hợp các biến chứng sớm THƯỜNG GẶP của gãy xương vùng háng ở người già:",
+          "type": "multi",
+          "options": [
+            "Sốc mất máu (đặc biệt LMC)",
+            "Huyết khối tĩnh mạch sâu (DVT)",
+            "Viêm phổi",
+            "Nhiễm trùng đường tiểu",
+            "Hội chứng chèn ép khoang"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explain": "Biến chứng: (1) Sốc mất máu (đặc biệt LMC), (2) Huyết khối tĩnh mạch sâu (DVT), (3) Viêm phổi, (4) Nhiễm trùng đường tiểu đều thường gặp. (5) Hội chứng chèn ép khoang cực hiếm gặp ở vùng đùi/háng do khoang cơ rộng, thường gặp ở cẳng chân/cẳng tay."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 75 tuổi, nhồi máu cơ tim cũ, đặt stent, gãy cổ xương đùi Garden III",
+      "body": "Bệnh nhân nam, 75 tuổi, tiền sử nhồi máu cơ tim cũ đã đặt stent mạch vành 1 năm, đang dùng <b>Aspirin 81mg</b> và <b>Clopidogrel 75mg</b> hàng ngày.<br><br>Vào viện vì <b>gãy cổ xương đùi Garden III</b>. Tình trạng tim mạch ổn định. Bác sĩ dự kiến phẫu thuật <b>thay khớp háng</b>.",
+      "questions": [
+        {
+          "q": "Theo khuyến cáo chung (ví dụ ACC/AHA), quản lý thuốc kháng kết tập tiểu cầu kép trước phẫu thuật cho bệnh nhân này như thế nào?",
+          "options": [
+            "Ngừng cả 2 thuốc 30 ngày",
+            "Tiếp tục Aspirin, ngừng Clopidogrel 5-7 ngày trước mổ",
+            "Không được ngừng thuốc nào vì nguy cơ tắc stent",
+            "Ngừng Aspirin, tiếp tục Clopidogrel"
+          ],
+          "answer": 1,
+          "explain": "Với bệnh nhân đặt stent > 1 năm (ổn định), thường duy trì Aspirin để bảo vệ tim mạch, nhưng ngừng Clopidogrel 5-7 ngày để giảm nguy cơ chảy máu tủy sống (khi gây tê) và chảy máu vết mổ. Cần hội chẩn Tim mạch."
+        },
+        {
+          "q": "Phẫu thuật nên được tiến hành trong khoảng thời gian nào ('Golden window') để giảm tỉ lệ tử vong ở người cao tuổi?",
+          "options": [
+            "Trong vòng 6 giờ",
+            "Trong vòng 24-48 giờ sau khi ổn định nội khoa",
+            "Sau 1 tuần để theo dõi",
+            "Bất cứ lúc nào"
+          ],
+          "answer": 1,
+          "explain": "Mổ sớm giúp giảm đau, vận động sớm, giảm biến chứng phổi. Mổ sau 48h làm tăng tỉ lệ tử vong 1 năm."
+        },
+        {
+          "q": "Phương pháp vô cảm (gây mê/tê) ưu tiên cho bệnh nhân già, bệnh tim mạch mổ vùng chi dưới là:",
+          "options": [
+            "Gây mê nội khí quản",
+            "Gây tê tủy sống/ngoài màng cứng (Vô cảm trục thần kinh)",
+            "Gây tê tại chỗ",
+            "Tiền mê đơn thuần"
+          ],
+          "answer": 1,
+          "explain": "Gây tê tủy sống giảm nguy cơ suy hô hấp sau mổ, giảm huyết khối tĩnh mạch sâu, giảm rối loạn nhận thức sau mổ tốt hơn gây mê toàn thân ở người già."
+        },
+        {
+          "q": "Sau mổ thay khớp, bệnh nhân cần dự phòng huyết khối tĩnh mạch (DVT) bằng thuốc chống đông (như Enoxaparin) trong bao lâu (theo ACCP)?",
+          "options": [
+            "Chỉ dùng khi nằm viện",
+            "Tối thiểu 10-14 ngày, kéo dài đến 35 ngày",
+            "3 tháng",
+            "6 tháng"
+          ],
+          "answer": 1,
+          "explain": "Phẫu thuật khớp háng thuộc nhóm nguy cơ thuyên tắc mạch RẤT CAO. Khuyến cáo dự phòng mở rộng đến 28-35 ngày sau xuất viện."
+        },
+        {
+          "q": "Dấu hiệu nào sau đây cảnh báo sớm biến chứng trật khớp háng nhân tạo sau mổ?",
+          "options": [
+            "Chân ngắn, xoay trong (với đường mổ sau)",
+            "Chân dài ra",
+            "Sưng nề vết mổ",
+            "Tê bì bàn chân"
+          ],
+          "answer": 0,
+          "explain": "Chân ngắn, xoay trong là dấu hiệu điển hình của trật khớp háng ra sau (loại trật thường gặp nhất sau thay khớp háng đường mổ sau bên)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 55 tuổi, tai nạn giao thông, gãy cổ xương đùi Garden IV, đến muộn",
+      "body": "Bệnh nhân nữ, 55 tuổi, tai nạn giao thông, gãy cổ xương đùi trái <b>Garden IV</b>. Tiền sử khỏe mạnh.<br><br><b>Tình trạng:</b> Bệnh nhân đến muộn (ngày thứ 3). X-quang: gãy di lệch nhiều.<br><br><b>Kế hoạch:</b> Các bác sĩ quyết định phẫu thuật <b>thay khớp háng toàn phần (THA)</b>.",
+      "questions": [
+        {
+          "q": "Trong phẫu thuật THA, 'tam giác an toàn' của Lewinnek liên quan đến góc nghiêng của ổ cối (Cup inclination) là bao nhiêu để tránh trật khớp?",
+          "options": [
+            "40 ± 10 độ",
+            "20 ± 10 độ",
+            "60 ± 10 độ",
+            "90 độ"
+          ],
+          "answer": 0,
+          "explain": "Góc Anteversion (ngả trước) 15 ± 10 và Inclination (nghiêng) 40 ± 10 là vùng an toàn để khớp vận động không bị va chạm (impingement) gây trật."
+        },
+        {
+          "q": "Đường mổ lối sau (Posterior approach - Moore) có ưu điểm là phẫu trường rộng, dễ đặt khớp, nhưng nhược điểm lớn nhất so với đường mổ lối trước (Anterior approach) là:",
+          "options": [
+            "Tỉ lệ trật khớp ra sau cao hơn",
+            "Tổn thương thần kinh đùi",
+            "Khó bộc lộ xương đùi",
+            "Mất máu nhiều hơn gấp đôi"
+          ],
+          "answer": 0,
+          "explain": "Đường mổ sau cắt qua bao khớp sau và các cơ xoay ngoài ngắn. Nếu phục hồi cơ không tốt, nguy cơ trật khớp ra sau cao hơn đường mổ lối trước (Smith-Petersen) hoặc lối bên (Hardinge)."
+        },
+        {
+          "q": "Sau mổ đường sau, bệnh nhân cần tránh tư thế nào để không bị trật khớp?",
+          "options": [
+            "Dạng chân",
+            "Gấp háng > 90 độ, khép háng và xoay trong",
+            "Duỗi háng và xoay ngoài",
+            "Nằm ngửa"
+          ],
+          "answer": 1,
+          "explain": "Gấp + Khép + Xoay trong là tư thế đẩy chỏm khớp trật ra phía sau."
+        },
+        {
+          "q": "Một biến chứng thần kinh khu trú thường gặp nhất (dù tỉ lệ thấp) sau thay khớp háng là tổn thương dây thần kinh nào?",
+          "options": [
+            "Thần kinh ngồi (Sciatic nerve) nhánh mác chung",
+            "Thần kinh đùi",
+            "Thần kinh bịt",
+            "Thần kinh thẹn"
+          ],
+          "answer": 0,
+          "explain": "Thần kinh hông to (Ngồi): Đặc biệt là nhánh mác chung (peroneal division) nằm ngoài cùng dễ bị căng giãn hoặc chèn ép bởi dụng cụ vén, gây liệt nhóm cơ duỗi cổ chân (bàn chân rủ)."
+        },
+        {
+          "q": "Nếu bệnh nhân này được chọn làm phương pháp Kết hợp xương thay vì THA ngay từ đầu, nhược điểm lớn nhất là gì?",
+          "options": [
+            "Chi phí cao hơn",
+            "Cuộc mổ lớn hơn",
+            "Tỉ lệ mổ lại cao (do không liền xương hoặc AVN) trong vòng 2 năm",
+            "Mất máu nhiều hơn"
+          ],
+          "answer": 2,
+          "explain": "Đối với gãy di lệch ở người 55 tuổi (Garden IV), tỉ lệ thất bại của kết hợp xương lên tới 30-40%. Thay khớp giải quyết dứt điểm vấn đề này."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi, tai nạn lao động, gãy Pauwels III, sau mổ 9 tháng không liền",
+      "body": "Bệnh nhân nam, 40 tuổi, bị tai nạn lao động, gãy cổ xương đùi phải <b>Pauwels III</b>, đến bệnh viện huyện được mổ kết hợp xương nẹp vít <b>DHS (Dynamic Hip Screw)</b>.<br><br><b>Sau mổ 9 tháng:</b> Bệnh nhân đi lại vẫn đau chói tại ổ gãy, X-quang thấy <b>đường gãy toác rộng, vít trượt ra ngoài (cut-out), viền xương xơ hóa 2 đầu gãy</b>.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định:",
+          "options": [
+            "Can lệch cổ xương đùi",
+            "Khớp giả (Non-union) cổ xương đùi",
+            "Gãy dụng cụ kết hợp xương",
+            "Viêm xương tủy"
+          ],
+          "answer": 1,
+          "explain": "Quá 6 tháng không liền, khe gãy rộng, đầu xương xơ hóa là tiêu chuẩn chẩn đoán khớp giả (Non-union)."
+        },
+        {
+          "q": "Nguyên nhân cơ học chính dẫn đến thất bại của DHS trong trường hợp này (Pauwels III) là:",
+          "options": [
+            "DHS không chịu được lực xoắn vặn",
+            "DHS tạo lực ép quá mức",
+            "DHS không chống lại được lực xé (Shear force) của gãy dọc",
+            "DHS chỉ dùng cho gãy liên mấu chuyển"
+          ],
+          "answer": 2,
+          "explain": "Gãy Pauwels III (thẳng đứng) có lực trượt rất lớn. DHS là dụng cụ nén ép trượt (sliding), nếu đặt không tốt hoặc gãy quá dọc, lực trượt sẽ làm vít bị lỏng hoặc cắt ra ngoài (cut-out) trước khi xương kịp liền."
+        },
+        {
+          "q": "Phương pháp phẫu thuật 'cứu vãn' (salvage) nhằm bảo tồn khớp háng cho bệnh nhân trẻ này (nếu chỏm còn sống) là:",
+          "options": [
+            "Đục xương sửa trục Valgus (Valgus Osteotomy)",
+            "Thay lại vít khác to hơn",
+            "Bó bột chậu lưng chân",
+            "Ghép xương đơn thuần"
+          ],
+          "answer": 0,
+          "explain": "Đục xương sửa trục (Pauwels' osteotomy) là phẫu thuật kinh điển để sửa chữa khớp giả ở người trẻ. Cắt bớt một nêm xương ở mấu chuyển để dựng đứng trục xương đùi lên."
+        },
+        {
+          "q": "Nguyên lý của đục xương sửa trục Valgus trong điều trị khớp giả cổ xương đùi là:",
+          "options": [
+            "Làm dài chi",
+            "Chuyển lực xé (shearing force) thành lực nén ép (compression force) vuông góc mặt gãy",
+            "Tăng tưới máu cho chỏm",
+            "Giảm đau do cắt dây thần kinh"
+          ],
+          "answer": 1,
+          "explain": "Bằng cách làm valgus hóa cổ xương đùi, đường gãy từ thế thẳng đứng (chịu lực xé) chuyển sang thế nằm ngang hơn (chịu lực nén). Theo định luật Wolf, lực nén ép kích thích liền xương."
+        },
+        {
+          "q": "Nếu chỏm xương đùi đã bị hoại tử (AVN), giải pháp bắt buộc là:",
+          "options": [
+            "Đục xương sửa trục",
+            "Thay khớp háng toàn phần",
+            "Thay khớp háng bán phần",
+            "Tháo phương tiện kết hợp xương và để tự do"
+          ],
+          "answer": 1,
+          "explain": "Nếu chỏm chết, không có cách nào cứu vãn cấu trúc sinh học, phải thay khớp. Người 40 tuổi ưu tiên THA thay vì Hemi."
+        }
+      ]
+    }
+  ]
+}
