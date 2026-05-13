@@ -507,320 +507,612 @@
       ]
     },
     {
-      "title": "Nam 58 tuổi phát hiện huyết áp cao tại khám sức khỏe định kỳ",
-      "body": "<b>Hành chính:</b> Nam, 58 tuổi, kế toán, hút thuốc lá 1 gói/ngày × 25 năm, uống rượu ~3 ly/ngày.<br><br><b>Lý do đến khám:</b> Phát hiện huyết áp cao tại khám sức khỏe công ty, không có triệu chứng cơ năng rõ ràng, thỉnh thoảng đau đầu nhẹ buổi sáng.<br><br><b>Tiền sử:</b> Chưa được chẩn đoán THA trước đây. Cha mắc nhồi máu cơ tim lúc 52 tuổi. BMI 27.5 kg/m². Vòng bụng 96 cm.<br><br><b>Khám lâm sàng:</b> Tỉnh, tiếp xúc tốt. Sinh hiệu: Mạch 82 lần/phút, SpO₂ 98%. Huyết áp đo tại phòng khám lần 1: 158/96 mmHg (tay phải), lần 2 (sau 2 phút): 155/94 mmHg. Tim đều, không nghe tiếng thổi. Phổi trong. Bụng mềm, không u.<br><br><b>Cận lâm sàng:</b> Glucose đói 5.8 mmol/L. LDL-C 3.6 mmol/L, HDL-C 1.0 mmol/L. Creatinin 88 µmol/L, eGFR 74 ml/ph/1.73m². K⁺ 3.9 mmol/L. Tổng phân tích nước tiểu: protein (−), hồng cầu (−). Điện tâm đồ: nhịp xoang, chưa rõ dày thất trái.",
+      "title": "Bệnh nhân nam 65 tuổi, khó thở dữ dội, vã mồ hôi",
+      "body": "Bệnh nhân nam 65 tuổi, tiền sử <b>tăng huyết áp 10 năm không điều trị thường xuyên</b>, nhập viện vì khó thở dữ dội đột ngột khởi phát cách 2 giờ.<br><br><b>Khám lúc vào viện:</b> bệnh nhân vật vã, vã mồ hôi, <b>mạch 115 lần/phút, huyết áp 210/110 mmHg, nhịp thở 28 lần/phút, SpO₂ 88%</b> với khí phòng. Khám tim nhịp nhanh đều, không có tiếng thổi; phổi có <b>nhiều ran ẩm dâng lên từ hai đáy</b>. Bệnh nhân không ho ra máu, không đau ngực khu trú, không có dấu thần kinh khu trú.<br><br><b>Điện tâm đồ:</b> nhịp xoang nhanh, dày thất trái, không có biến đổi ST-T cấp tính.<br><b>X-quang ngực:</b> hình ảnh mờ rốn phổi hình cánh bướm.<br><b>Troponin Ths:</b> âm tính.",
       "questions": [
         {
-          "q": "Dựa vào hai lần đo huyết áp tại phòng khám, bệnh nhân này được phân loại ở mức nào theo VSH/VNHA 2022?",
+          "q": "Chẩn đoán lâm sàng phù hợp nhất ở bệnh nhân này là gì?",
           "options": [
-            "Huyết áp bình thường cao (Tiền THA): HATT 130–139 và/hoặc HATTr 85–89 mmHg",
-            "Tăng huyết áp Độ 1: HATT 140–159 và/hoặc HATTr 90–99 mmHg",
-            "Tăng huyết áp Độ 2: HATT 160–179 và/hoặc HATTr 100–109 mmHg",
-            "Tăng huyết áp Độ 3: HATT ≥ 180 và/hoặc HATTr ≥ 110 mmHg"
+            "Đợt cấp bệnh phổi tắc nghẽn mạn tính",
+            "Cơn tăng huyết áp cấp cứu có phù phổi cấp",
+            "Viêm phổi cộng đồng mức độ nặng",
+            "Nhồi máu cơ tim cấp có suy tim trái"
           ],
           "answer": 1,
-          "explain": "Trung bình hai lần đo: HATT = (158+155)/2 = 156.5 mmHg, HATTr = (96+94)/2 = 95 mmHg. <b>THA Độ 1: HATT 140–159 và/hoặc HATTr 90–99 mmHg</b> theo VSH/VNHA 2022. Khi HATT và HATTr không cùng phân loại, chọn mức HA cao hơn để phân loại. Cần đo ≥ 2 lần cách nhau 1–2 phút và lấy trung bình; nếu chênh nhau ≥ 10 mmHg thì đo lần 3. Chẩn đoán xác định THA cần ≥ 2 lần thăm khám riêng biệt."
+          "explain": "Bệnh nhân có huyết áp rất cao (210/110 mmHg) kèm dấu hiệu tổn thương cơ quan đích cấp tính là <b>phù phổi cấp</b> (khó thở dữ dội, ran ẩm dâng lên, X-quang hình cánh bướm), đây là cơn tăng huyết áp cấp cứu. Troponin âm tính và ECG không ST chênh giúp loại trừ nhồi máu cơ tim cấp. Không có sốt hay ho khạc đờm mủ giúp loại trừ viêm phổi."
         },
         {
-          "q": "Chọn TẤT CẢ các yếu tố nguy cơ tim mạch hiện diện ở bệnh nhân này:",
-          "type": "multi",
+          "q": "Cơ chế chính gây ra tổn thương cơ quan đích trong tình huống này là gì?",
           "options": [
-            "Tuổi nam ≥ 55 tuổi",
-            "Hút thuốc lá",
-            "Tiền sử gia đình bệnh tim mạch sớm (cha NMCT lúc 52 tuổi)",
-            "Rối loạn lipid máu (LDL-C 3.6 mmol/L)",
-            "Đái tháo đường týp 2",
-            "Uống rượu bia nhiều (> 2 ly/ngày)"
-          ],
-          "answer": [
-            0,
-            1,
-            2,
-            3,
-            5
-          ],
-          "explain": "<b>Đúng – Tuổi nam ≥ 55:</b> Đây là YTNC không thay đổi được theo VSH/VNHA. <b>Đúng – Hút thuốc lá:</b> YTNC tim mạch độc lập, thay đổi được. <b>Đúng – Tiền sử gia đình:</b> Cha mắc NMCT lúc 52 tuổi (nam trước 55 tuổi) = tiền sử gia đình bệnh tim mạch sớm. <b>Đúng – Rối loạn lipid:</b> LDL-C 3.6 mmol/L tăng so với bình thường. <b>Sai – ĐTĐ týp 2:</b> Glucose đói 5.8 mmol/L chỉ là tiền ĐTĐ (ngưỡng ĐTĐ ≥ 7.0 mmol/L), chưa đủ tiêu chuẩn chẩn đoán ĐTĐ. <b>Đúng – Uống rượu nhiều:</b> > 2 đơn vị/ngày ở nam là vượt ngưỡng khuyến cáo, là YTNC có thể thay đổi."
-        },
-        {
-          "q": "Dựa trên phân độ THA và số lượng YTNC, bệnh nhân này thuộc tầng nguy cơ tim mạch nào theo bảng phân tầng VSH/VNHA?",
-          "options": [
-            "Nguy cơ thấp",
-            "Nguy cơ trung bình",
-            "Nguy cơ cao",
-            "Nguy cơ rất cao"
-          ],
-          "answer": 2,
-          "explain": "BN có <b>THA Độ 1</b> (HATT 140–159) kết hợp với <b>≥ 3 YTNC</b> (tuổi, hút thuốc, tiền sử gia đình, rối loạn lipid, uống rượu nhiều). Theo bảng phân tầng VSH/VNHA: THA Độ 1 + ≥ 3 YTNC → <b>Nguy cơ cao</b>. Tỷ lệ biến cố tim mạch 10 năm ước tính 20–30%. Nếu BN có thêm tổn thương cơ quan đích hoặc ĐTĐ thì mới lên nguy cơ rất cao. Phân tầng này quyết định chiến lược điều trị: phải dùng thuốc hạ áp ngay kết hợp thay đổi lối sống."
-        },
-        {
-          "q": "Chiến lược điều trị ban đầu phù hợp nhất cho bệnh nhân này là gì?",
-          "options": [
-            "Thay đổi lối sống đơn thuần trong 3–6 tháng, sau đó tái đánh giá trước khi quyết định dùng thuốc",
-            "Thay đổi lối sống kết hợp khởi trị thuốc ngay bằng phối hợp 2 thuốc (SPC), ưu tiên ACEi/ARB + CCB hoặc Lợi tiểu",
-            "Thay đổi lối sống kết hợp đơn trị liệu bằng Chẹn Beta vì bệnh nhân có nhịp tim 82 lần/phút",
-            "Thay đổi lối sống kết hợp đơn trị liệu bằng lợi tiểu Thiazide đơn thuần vì nguy cơ trung bình"
-          ],
-          "answer": 1,
-          "explain": "BN có <b>THA Độ 1 + nguy cơ cao (≥ 3 YTNC)</b> → theo VSH/VNHA 2022 và AHA 2025: <b>khởi trị thuốc ngay</b> kết hợp thay đổi lối sống, không chờ đợi. Nguyên tắc vàng hiện đại: <b>ưu tiên khởi trị bằng phối hợp 2 thuốc (SPC)</b> cho hầu hết BN — phối hợp A+C (ACEi/ARB + CCB DHP) là tốt nhất. Đơn trị chỉ được xem xét khi THA Độ 1 nguy cơ thấp SBP < 150, người ≥ 80 tuổi hoặc lão suy. Chẹn Beta không phải thuốc hàng đầu đơn thuần trong THA; lợi tiểu Thiazide đơn trị không đủ cho nguy cơ cao."
-        },
-        {
-          "q": "Sau 3 tháng điều trị với Perindopril 5 mg + Amlodipine 5 mg/ngày và thay đổi lối sống, HA đo tại phòng khám vẫn 148/92 mmHg. Bước tiếp theo phù hợp nhất là gì?",
-          "options": [
-            "Chuyển sang đơn trị với Losartan 100 mg vì ACEi không hiệu quả",
-            "Tăng liều Perindopril lên 10 mg + Amlodipine lên 10 mg (tối ưu liều phối hợp 2 thuốc hiện tại)",
-            "Thêm Lợi tiểu Thiazide-like (Indapamide 1.25 mg) để tạo phối hợp 3 thuốc A+C+D",
-            "Thêm Spironolactone 25 mg vì bệnh nhân có khả năng kháng trị"
-          ],
-          "answer": 2,
-          "explain": "Khi HA chưa đạt đích với phối hợp 2 thuốc ở liều trung bình, bước tiếp theo theo phác đồ VSH/VNHA là <b>thêm thuốc thứ 3 để tạo phối hợp A+C+D</b> (ACEi/ARB + CCB + Lợi tiểu Thiazide-like). Indapamide được ưu tiên hơn HCTZ vì ít ảnh hưởng chuyển hóa. Chưa đủ tiêu chuẩn kháng trị (cần ≥ 3 thuốc đúng liều tối đa, trong đó có lợi tiểu). Không nên chuyển sang đơn trị — sẽ mất hiệu quả đã đạt được. Tăng liều 2 thuốc là lựa chọn chấp nhận được nhưng thêm loại thứ 3 hiệu quả hơn về cơ chế tác dụng bổ sung."
-        }
-      ]
-    },
-    {
-      "title": "Nữ 45 tuổi nhức đầu dữ dội, huyết áp rất cao, khám tại cấp cứu",
-      "body": "<b>Hành chính:</b> Nữ, 45 tuổi, giáo viên, đã biết THA 5 năm, tự bỏ thuốc 3 tháng nay vì 'thấy khỏe'.<br><br><b>Lý do vào cấp cứu:</b> Nhức đầu dữ dội vùng chẩm, buồn nôn, xuất hiện đột ngột cách đây 2 giờ. Không liệt, không rối loạn ngôn ngữ.<br><br><b>Tiền sử:</b> THA đã điều trị Amlodipine 5 mg/ngày. Không ĐTĐ, không bệnh thận. Không hút thuốc. BMI 24 kg/m².<br><br><b>Khám lâm sàng:</b> Tỉnh, tiếp xúc tốt, lo lắng. HA: 195/118 mmHg (đo 2 lần, cách nhau 5 phút). Mạch 96 lần/phút, đều. SpO₂ 98%. Tim đều, tiếng tim bình thường, không nghe tiếng thổi. Phổi trong. Thần kinh: không có dấu thần kinh khu trú, phản xạ gân xương bình thường hai bên, không cứng gáy. Đáy mắt: co thắt tiểu động mạch, xuất huyết ngọn lửa và xuất tiết võng mạc (Giai đoạn 3).<br><br><b>Cận lâm sàng:</b> Creatinin 105 µmol/L (so với baseline 82 µmol/L 6 tháng trước), eGFR 55 ml/ph/1.73m². Tổng phân tích nước tiểu: protein (++), hồng cầu (++). Troponin I: 0.02 ng/mL (bình thường < 0.04). ECG: nhịp xoang, không ST chênh. CT não không thuốc cản quang: không xuất huyết, không nhồi máu.",
-      "questions": [
-        {
-          "q": "Bệnh nhân này được phân loại vào thể nào của cơn tăng huyết áp?",
-          "options": [
-            "Tăng huyết áp nặng (Severe Hypertension – AHA 2025): HA rất cao nhưng không có bằng chứng tổn thương cơ quan đích cấp tính",
-            "Tăng huyết áp cấp cứu (Hypertensive Emergency): HA > 180/120 kèm tổn thương cơ quan đích tiến triển cấp tính",
-            "Tăng huyết áp Độ 3 chưa biến chứng: cần điều trị thuốc uống và theo dõi ngoại trú",
-            "Tiền sản giật nặng: HA > 160/110 kèm tổn thương thận cấp"
-          ],
-          "answer": 1,
-          "explain": "BN có <b>HA > 180/120 mmHg kèm bằng chứng tổn thương cơ quan đích cấp tính/tiến triển</b>: (1) Võng mạc Giai đoạn 3 (xuất huyết + xuất tiết), (2) Thận: creatinin tăng từ 82 lên 105 µmol/L + protein niệu và đái máu mới, dù Troponin âm tính và CT não bình thường. Đây là <b>THA Cấp cứu (Hypertensive Emergency)</b> — cần nhập viện, điều trị thuốc đường tĩnh mạch và theo dõi HA liên tục. Phân biệt với THA Nặng (Severe Hypertension – thuật ngữ AHA 2025 thay cho Hypertensive Urgency): HA rất cao nhưng KHÔNG có tổn thương cơ quan đích cấp tính → có thể điều trị thuốc uống và tái khám trong vài ngày. BN không mang thai nên không phải tiền sản giật."
-        },
-        {
-          "q": "Mục tiêu huyết áp trong 1 giờ đầu xử trí THA cấp cứu (không có bóc tách ĐMC) là gì?",
-          "options": [
-            "Hạ HA về bình thường (< 140/90 mmHg) trong 1 giờ đầu",
-            "Hạ MAP không quá 25% so với giá trị ban đầu trong 1 giờ đầu",
-            "Hạ HATT xuống dưới 160 mmHg trong 30 phút đầu",
-            "Hạ HA về 130/80 mmHg trong 2–6 giờ đầu"
-          ],
-          "answer": 1,
-          "explain": "Nguyên tắc cốt lõi trong THA cấp cứu (trừ ngoại lệ đặc biệt): <b>Hạ MAP không quá 25% trong 1 giờ đầu</b>. Sau đó nếu ổn định, có thể hạ xuống 160/100 mmHg trong 2–6 giờ tiếp theo. Hạ HA quá nhanh và quá nhiều gây thiếu máu não, cơ tim và thận do tụt dưới ngưỡng tự điều chỉnh. Ngoại lệ bắt buộc thuộc lòng: Bóc tách ĐMC cấp → SBP < 120 mmHg trong 20 phút đầu; Xuất huyết não → hạ SBP xuống 130–< 140 mmHg trong 7 ngày."
-        },
-        {
-          "q": "Thuốc đường tĩnh mạch nào phù hợp nhất để khởi đầu điều trị trong trường hợp này?",
-          "options": [
-            "Nitroglycerin truyền TM vì bệnh nhân có nhức đầu và lo ngại tổn thương tim",
-            "Labetalol hoặc Nicardipine truyền TM vì phù hợp với bệnh não THA và tổn thương thận cấp",
-            "Esmolol truyền TM vì kiểm soát nhịp tim hiệu quả khi mạch 96 lần/phút",
-            "Furosemide TM vì bệnh nhân có protein niệu và tăng creatinin do quá tải dịch"
-          ],
-          "answer": 1,
-          "explain": "BN có bệnh cảnh <b>bệnh não THA và tổn thương thận cấp</b>. <b>Labetalol</b> (chẹn alpha + beta) và <b>Nicardipine</b> (CCB DHP tác dụng nhanh) là các thuốc ưu tiên cho THA cấp cứu nói chung và bệnh não THA. Nicardipine có ưu điểm không có tác dụng inotrope âm tính. Nitroglycerin chỉ ưu tiên cho ACS và phù phổi cấp do tim — không phải lựa chọn đầu tay cho bệnh não THA. Esmolol phù hợp cho bóc tách ĐMC và ACS nhưng không phải lựa chọn ưu tiên ở đây. Furosemide không hạ HA cấp cứu; BN không có dấu hiệu quá tải dịch, creatinin tăng có thể do thiếu máu thận."
-        },
-        {
-          "q": "Chọn TẤT CẢ các biểu hiện tổn thương cơ quan đích hiện diện ở bệnh nhân này:",
-          "type": "multi",
-          "options": [
-            "Tổn thương võng mạc Giai đoạn 3 (xuất huyết + xuất tiết)",
-            "Suy thận cấp tiến triển trên nền thận mạn (creatinin tăng + protein niệu + đái máu)",
-            "Nhồi máu cơ tim không ST chênh dựa trên ECG bất thường",
-            "Tổn thương não (xuất huyết hoặc nhồi máu não)",
-            "Bệnh não do THA (nhức đầu dữ dội, buồn nôn trong bối cảnh HA rất cao)"
-          ],
-          "answer": [
-            0,
-            1,
-            4
-          ],
-          "explain": "<b>Đúng – Tổn thương võng mạc GĐ 3:</b> Xuất huyết ngọn lửa + xuất tiết = tổn thương cơ quan đích điển hình. <b>Đúng – Tổn thương thận:</b> Creatinin tăng cấp (82 → 105 µmol/L) + protein niệu (++) + đái máu mới → tổn thương thận cấp tiến triển. <b>Sai – NMCT:</b> ECG không ST chênh; Troponin 0.02 < 0.04 ng/mL (trong giới hạn bình thường). <b>Sai – Tổn thương não:</b> CT não không có xuất huyết hay nhồi máu. <b>Đúng – Bệnh não do THA:</b> Nhức đầu dữ dội + buồn nôn đột ngột trong bối cảnh HA > 180/120 → bệnh não THA là chẩn đoán lâm sàng, dù CT chưa thấy tổn thương cấu trúc."
-        },
-        {
-          "q": "Sau khi kiểm soát HA ổn định bằng đường tĩnh mạch trong 24 giờ, kế hoạch điều trị dài hạn nào phù hợp nhất cho bệnh nhân này?",
-          "options": [
-            "Tiếp tục Amlodipine 5 mg đơn trị — chỉ tăng liều thêm vì BN đã dùng thuốc này trước đây",
-            "Chuyển sang phối hợp ACEi/ARB + CCB ± Lợi tiểu, với mục tiêu HA < 130/80 mmHg do có tổn thương cơ quan đích",
-            "Chuyển sang Chẹn Beta đơn trị vì BN có tần số tim cao và đã thất bại với CCB",
-            "Chỉ thay đổi lối sống vì BN còn trẻ (45 tuổi) và triệu chứng sẽ cải thiện sau khi bỏ thuốc được tái lập"
-          ],
-          "answer": 1,
-          "explain": "BN có <b>THA có tổn thương cơ quan đích (võng mạc GĐ 3, thận)</b> → mục tiêu HA cần đạt <b>< 130/80 mmHg</b> theo VSH/VNHA và AHA. Cần phối hợp thuốc (không đơn trị): ưu tiên <b>ACEi hoặc ARB</b> (bảo vệ thận, giảm protein niệu) kết hợp với <b>CCB DHP</b> ± <b>Lợi tiểu Thiazide-like</b>. Thất bại trong quá khứ chủ yếu do BN tự bỏ thuốc, không phải Amlodipine không hiệu quả; tuy nhiên đơn trị không đủ. Chẹn Beta không phải thuốc đầu tay và không có chỉ định bắt buộc. Thay đổi lối sống là bắt buộc nhưng không đủ khi đã có tổn thương cơ quan đích."
-        }
-      ]
-    },
-    {
-      "title": "Nam 72 tuổi đái tháo đường, khám định kỳ, điều chỉnh thuốc huyết áp",
-      "body": "<b>Hành chính:</b> Nam, 72 tuổi, về hưu, đã biết THA 10 năm, ĐTĐ týp 2 từ 8 năm. Đang dùng: Metformin 1000 mg × 2, Glipizide 5 mg, Losartan 50 mg/ngày.<br><br><b>Lý do đến khám:</b> Tái khám định kỳ. Gần đây hay mệt, chóng mặt khi đứng dậy.<br><br><b>Tiền sử:</b> Không bệnh mạch vành, không suy tim, không đột quỵ. Không hút thuốc. Creatinin nền 6 tháng trước: 110 µmol/L, eGFR 58 ml/ph/1.73m².<br><br><b>Khám lâm sàng:</b> Tỉnh, vẻ mặt lo lắng. HA nằm: 145/86 mmHg; HA đứng sau 3 phút: 122/74 mmHg (giảm HATT 23 mmHg). Mạch 68 lần/phút. BMI 26 kg/m². Tim phổi bình thường. Bàn chân: không loét, phản xạ gân gót giảm nhẹ 2 bên.<br><br><b>Cận lâm sàng:</b> HbA1c 7.8%. Creatinin 118 µmol/L, eGFR 54 ml/ph/1.73m². K⁺ 4.5 mmol/L. Albumin niệu/Creatinin niệu (ACR): 85 mg/g (tăng, bình thường < 30 mg/g). LDL-C 2.2 mmol/L. Holter HA 24h: TB ban ngày 140/85 mmHg, TB ban đêm 128/76 mmHg, TB 24h: 136/83 mmHg.",
-      "questions": [
-        {
-          "q": "Kết quả Holter HA 24h xác nhận chẩn đoán nào?",
-          "options": [
-            "HA bình thường thật sự: TB 24h và TB ban ngày đều trong giới hạn bình thường theo ngưỡng Holter",
-            "THA áo choàng trắng: HA phòng khám cao nhưng Holter 24h và ban ngày bình thường",
-            "THA thật sự: cả HA phòng khám và TB ban ngày Holter đều vượt ngưỡng chẩn đoán",
-            "THA ẩn giấu: HA phòng khám bình thường nhưng Holter ban ngày tăng"
-          ],
-          "answer": 2,
-          "explain": "Ngưỡng chẩn đoán THA theo Holter: <b>TB ban ngày ≥ 135/85 mmHg; TB đêm ≥ 120/70 mmHg; TB 24h ≥ 130/80 mmHg</b>. BN có TB ban ngày 140/85 → ≥ 135/85 (đạt ngưỡng), TB 24h 136/83 → ≥ 130/80 (đạt ngưỡng). HA phòng khám 145/86 cũng cao. Như vậy <b>THA thật sự</b> (cả phòng khám lẫn Holter đều dương tính). THA áo choàng trắng: phòng khám cao nhưng Holter bình thường. THA ẩn giấu: phòng khám bình thường nhưng Holter cao. Lưu ý BN còn có hạ HA tư thế (HATT giảm 23 mmHg khi đứng) — có thể do biến chứng thần kinh tự chủ của ĐTĐ."
-        },
-        {
-          "q": "Mục tiêu huyết áp phù hợp nhất cho bệnh nhân này (72 tuổi, ĐTĐ týp 2, CKD eGFR 54, ACR 85 mg/g)?",
-          "options": [
-            "HATT < 150 mmHg vì bệnh nhân > 70 tuổi, không cần điều trị tích cực hơn",
-            "HATT 130–139 mmHg; HATTr 70–79 mmHg — có thể hạ hơn nếu dung nạp được",
-            "HATT < 120 mmHg để đạt lợi ích tối đa theo SPRINT Trial",
-            "HATT < 140 mmHg đơn thuần vì không có bệnh đồng mắc tim mạch"
-          ],
-          "answer": 1,
-          "explain": "BN 72 tuổi có ĐTĐ týp 2 + CKD (eGFR 54 + ACR 85 mg/g = microalbumin niệu). Theo VSH/VNHA 2022 và AHA: với nhóm 70–79 tuổi có bệnh đồng mắc, <b>đích HATT là 130–139 mmHg; HATTr 70–79 mmHg</b>. Không hạ HATT < 120 mmHg (nguy cơ thiếu máu cơ quan đích, tụt HA tư thế) và không hạ HATTr < 70 mmHg (nguy cơ thiếu máu cơ tim — hiệu ứng đường cong J). Ngưỡng 150 mmHg chỉ áp dụng cho người ≥ 80 tuổi. Mục tiêu phải tính đến cả bệnh thận (ACR 85 → cần ACEi/ARB) và nguy cơ hạ HA tư thế."
-        },
-        {
-          "q": "Cần bổ sung hoặc điều chỉnh thuốc hạ áp nào phù hợp nhất cho bệnh nhân này?",
-          "options": [
-            "Tăng Losartan lên 100 mg và thêm Amlodipine 5 mg, đồng thời theo dõi K⁺ và creatinin sau 2–4 tuần",
-            "Thêm ACEi (Enalapril) vào Losartan để tăng cường bảo vệ thận qua ức chế kép hệ RAAS",
-            "Thay Losartan bằng Chẹn Beta do BN có tần số tim chậm 68 lần/phút và hạ HA tư thế",
-            "Chỉ thêm Lợi tiểu quai (Furosemide) vì eGFR < 60 là chống chỉ định của Thiazide"
+            "Tăng áp lực thủy tĩnh mao mạch phổi do tăng hậu gánh",
+            "Tăng tính thấm mao mạch phổi do phản ứng viêm cấp",
+            "Giảm co bóp cơ tim do thiếu máu cục bộ cơ tim cấp",
+            "Tắc nghẽn vi tuần hoàn phổi do huyết khối kẹt lại"
           ],
           "answer": 0,
-          "explain": "BN có CKD + microalbumin niệu (ACR 85 mg/g) → <b>ARB (Losartan) là bắt buộc</b>: nên tối ưu liều lên 100 mg (liều tối đa). Thêm <b>Amlodipine (CCB DHP)</b> là bước hợp lý tiếp theo tạo phối hợp A+C. <b>Tuyệt đối không</b> phối hợp ACEi + ARB (tăng nguy cơ suy thận cấp, tăng K+, tử vong — bằng chứng ONTARGET và VA NEPHRON-D). Chẹn Beta không có chỉ định ưu tiên ở đây; hạ HA tư thế là lý do cần thận trọng thêm thuốc, không phải lý do đổi thuốc. Thiazide vẫn dùng được khi eGFR ≥ 30 ml/ph; lợi tiểu quai chỉ khi eGFR < 30. Cần theo dõi Cr và K+ sau 2–4 tuần khi điều chỉnh thuốc tác động RAAS."
+          "explain": "Huyết áp tăng quá cao làm tăng đột ngột hậu gánh, thất trái không thể tống máu hiệu quả dẫn đến ứ huyết nhĩ trái và tĩnh mạch phổi, làm <b>tăng áp lực thủy tĩnh mao mạch phổi</b> gây thoát dịch vào phế nang. Cơ chế không phải do viêm (tăng tính thấm) hay huyết khối."
         },
         {
-          "q": "Chọn TẤT CẢ các biện pháp phù hợp trong quản lý bệnh nhân này:",
-          "type": "multi",
+          "q": "Xét nghiệm nào sau đây cần ưu tiên thực hiện tiếp theo để hỗ trợ phân tầng và theo dõi?",
           "options": [
-            "Tư vấn đo HA tại nhà 2 lần/ngày (sáng trước uống thuốc, tối trước khi ngủ) trong 1–2 tuần",
-            "Thêm Statin cường độ vừa hoặc cao vì bệnh nhân ĐTĐ týp 2 + nguy cơ tim mạch cao",
-            "Bổ sung SGLT2 inhibitor (Empagliflozin hoặc Dapagliflozin) để bảo vệ tim-thận",
-            "Thêm Aspirin liều thấp dự phòng tiên phát để giảm nguy cơ tim mạch",
-            "Hướng dẫn BN đứng dậy từ từ, đo HA tư thế định kỳ do có hạ HA tư thế"
+            "Siêu âm Doppler động mạch thận",
+            "Chụp cắt lớp vi tính lồng ngực",
+            "Siêu âm tim qua thành ngực",
+            "Chụp động mạch vành qua da"
           ],
-          "answer": [
-            0,
-            1,
-            2,
-            4
-          ],
-          "explain": "<b>Đúng – Đo HA tại nhà:</b> Giúp theo dõi hiệu quả điều trị và phát hiện hạ HA tư thế; chẩn đoán khi HATT ≥ 135 mmHg tại nhà. <b>Đúng – Statin:</b> BN ĐTĐ týp 2 + CKD + THA = nguy cơ tim mạch cao, cần Statin (LDL-C 2.2 mmol/L cần hạ xuống < 1.8 mmol/L với nguy cơ cao). <b>Đúng – SGLT2i:</b> AHA/ACC 2025 khuyến cáo (COR 1) SGLT2i khi ĐTĐ + CKD (eGFR ≥ 30) vì lợi ích bảo vệ tim và thận độc lập với kiểm soát đường huyết. <b>Sai – Aspirin dự phòng tiên phát:</b> Aspirin liều thấp <b>không được khuyến cáo</b> dự phòng tiên phát ở THA không có biến cố tim mạch (tăng nguy cơ chảy máu mà không giảm được biến cố đủ). Chỉ dùng khi đã có biến cố tim mạch (dự phòng thứ phát). <b>Đúng – Hạ HA tư thế:</b> Giảm HATT 23 mmHg khi đứng (ngưỡng ≥ 20 mmHg) = hạ HA tư thế thật sự, cần hướng dẫn hành vi và theo dõi."
-        }
-      ]
-    },
-    {
-      "title": "Phụ nữ 32 tuổi mang thai 26 tuần, huyết áp tăng cao lần đầu",
-      "body": "<b>Hành chính:</b> Nữ, 32 tuổi, nhân viên văn phòng, mang thai lần 2 (con đầu sinh thường, khỏe mạnh). Không tiền sử THA trước mang thai.<br><br><b>Lý do đến khám:</b> Đau đầu vùng chẩm, nhìn mờ thoáng qua, phù mặt và tay xuất hiện trong 3 ngày nay.<br><br><b>Tiền sử:</b> Con đầu sinh thường không biến chứng. Không bệnh lý nền. Không dùng thuốc trường diễn. Không hút thuốc, không rượu.<br><br><b>Khám lâm sàng:</b> Tỉnh, lo lắng. HA: 165/108 mmHg (đo 2 lần cách nhau 5 phút). Mạch 88 lần/phút. Phù mặt (++), phù tay và mu bàn chân (++). Phản xạ gân bánh chè tăng 2 bên. Đáy mắt: co thắt tiểu động mạch nhẹ. Thai kỳ 26 tuần, tim thai đều 148 lần/phút.<br><br><b>Cận lâm sàng:</b> Tổng phân tích nước tiểu: protein (+++), khoảng 1.2 g/L. Protein niệu 24h: 650 mg/24h. Creatinin 88 µmol/L. Tiểu cầu 98 × 10⁹/L (giảm). AST 68 U/L, ALT 55 U/L (tăng nhẹ). LDH 420 U/L (tăng). Axit uric 420 µmol/L (tăng). Fibrinogen bình thường. Soi đáy mắt: thay đổi mạch máu giai đoạn 1–2.",
-      "questions": [
-        {
-          "q": "Chẩn đoán phù hợp nhất cho bệnh nhân này là gì?",
-          "options": [
-            "THA thai kỳ: HA > 140/90 mmHg xuất hiện sau 20 tuần, không có protein niệu",
-            "Tiền sản giật có đặc điểm nặng: HA ≥ 160/110 mmHg + protein niệu + tiểu cầu giảm + tăng men gan",
-            "THA mạn tính nặng lên khi mang thai: xuất hiện trước 20 tuần hoặc có tiền sử THA",
-            "Tiền sản giật không có đặc điểm nặng: HA 140–159/90–109 mmHg + protein niệu"
-          ],
-          "answer": 1,
-          "explain": "BN có: (1) <b>HA ≥ 165/108 mmHg</b> (> 160/110 = ngưỡng nặng); (2) <b>Thai > 20 tuần</b> (26 tuần) và không có THA trước mang thai → THA do thai kỳ (tiền sản giật); (3) <b>Protein niệu ≥ 300 mg/24h</b> (thực tế 650 mg); (4) <b>Đặc điểm nặng:</b> tiểu cầu < 100 × 10⁹/L (98 × 10⁹/L), tăng men gan (AST 68, ALT 55), LDH tăng gợi ý tán huyết vi mạch → dấu hiệu khởi đầu hội chứng HELLP. Chẩn đoán: <b>Tiền sản giật có đặc điểm nặng (severe features)</b>. Không phải THA thai kỳ đơn thuần (vì có protein niệu và tổn thương cơ quan) và không phải THA mạn tính (không có tiền sử)."
+          "answer": 2,
+          "explain": "Siêu âm tim qua thành ngực là xét nghiệm tại giường hữu ích giúp đánh giá <b>chức năng tâm thu/tâm trương thất trái, vận động vùng và cấu trúc van tim</b>, từ đó định hướng nguyên nhân và theo dõi đáp ứng điều trị. Các xét nghiệm khác không phải ưu tiên cấp cứu lúc này."
         },
         {
-          "q": "Theo AHA/ACC 2025, cần hạ huyết áp khẩn cấp trong bao lâu khi HA ≥ 160/110 mmHg trong thai kỳ?",
+          "q": "Lựa chọn thuốc hạ huyết áp đường tĩnh mạch ưu tiên nhất cho bệnh nhân này là gì?",
           "options": [
-            "Trong vòng 3 giờ — đây là tình huống bán khẩn, không cần quá khẩn trương",
-            "Trong vòng 30–60 phút — đây là khuyến cáo COR 1 của AHA 2025",
-            "Trong vòng 1–2 giờ — theo nguyên tắc chung của THA cấp cứu (hạ MAP ≤ 25% trong 1 giờ)",
-            "Không cần hạ khẩn cấp nếu không có triệu chứng thần kinh"
-          ],
-          "answer": 1,
-          "explain": "AHA/ACC 2025 (Cập nhật mới) quy định rõ: khi BN mang thai có <b>SBP ≥ 160 mmHg hoặc DBP ≥ 110 mmHg</b>, cần hạ HA bằng thuốc <b>trong vòng 30–60 phút (COR 1)</b> — đây là một trong những thay đổi thực hành lâm sàng quan trọng của hướng dẫn 2025. Trì hoãn hạ HA tăng nguy cơ đột quỵ, bóc tách ĐMC và tử vong mẹ. Mục tiêu HA mạn tính ở thai kỳ: < 140/90 mmHg (AHA 2025 COR 1). Nguyên tắc hạ 25% MAP/1h là cho THA cấp cứu nói chung, không áp dụng nguyên vẹn cho thai kỳ."
-        },
-        {
-          "q": "Thuốc hạ áp nào bị chống chỉ định tuyệt đối trong thai kỳ?",
-          "options": [
-            "Methyldopa uống",
-            "Labetalol tiêm tĩnh mạch",
-            "Nifedipine tác dụng chậm (LA) uống",
-            "Enalapril uống"
+            "Labetalol kết hợp truyền dịch",
+            "Nicardipin kết hợp thuốc chẹn beta",
+            "Hydralazin kết hợp lợi tiểu quai",
+            "Nitroglycerin kết hợp lợi tiểu quai"
           ],
           "answer": 3,
-          "explain": "Theo AHA/ACC 2025, các thuốc bị <b>chống chỉ định tuyệt đối (Harm)</b> trong thai kỳ bao gồm: <b>ACEi (Enalapril, Perindopril...), ARB, Aliskiren (ức chế renin trực tiếp), Nitroprusside, MRA (Spironolactone)</b> — tất cả gây độc tính trên thận thai nhi và quái thai. <b>Methyldopa</b> là thuốc an toàn nhất trong thai kỳ (tác dụng trung ương). <b>Labetalol TM</b> là lựa chọn ưu tiên hàng đầu trong tiền sản giật nặng. <b>Nifedipine LA</b> là CCB được dùng trong thai kỳ (không phải Nifedipine tác dụng nhanh). Magnesium sulfate dùng phòng và điều trị co giật sản giật, không phải hạ áp."
+          "explain": "Nitroglycerin tĩnh mạch giúp giãn tĩnh mạch làm giảm tiền gánh và giãn động mạch vành, kết hợp lợi tiểu quai (Furosemide) làm giảm thể tích tuần hoàn, đây là <b>phác đồ chuẩn cho phù phổi cấp do tăng huyết áp</b>. Chẹn beta (Labetalol) không ưu tiên trong suy tim cấp thể ẩm."
         },
         {
-          "q": "Chọn TẤT CẢ các phát biểu đúng về xử trí tiền sản giật nặng ở bệnh nhân này:",
-          "type": "multi",
+          "q": "Sau 2 giờ điều trị, huyết áp bệnh nhân giảm xuống 130/70 mmHg, bệnh nhân bắt đầu lơ mơ, SpO₂ 95%. Biến chứng nào sau đây có khả năng xảy ra nhất do quá trình điều trị?",
           "options": [
-            "Cần thêm Magnesium sulfate để dự phòng và điều trị co giật sản giật",
-            "Mục tiêu HA trong thai kỳ mạn tính là < 140/90 mmHg theo AHA 2025",
-            "Có thể dùng ACEi liều thấp để bảo vệ thận vì protein niệu nhiều (650 mg/24h)",
-            "Aspirin liều thấp được khuyến cáo sử dụng ngay từ thai kỳ này để dự phòng tiền sản giật",
-            "Nhập viện theo dõi sát, cân nhắc chấm dứt thai kỳ tùy tuổi thai và tình trạng mẹ-con"
+            "Phù não do giảm áp lực thẩm thấu",
+            "Nhồi máu não do tụt huyết áp quá nhanh",
+            "Xuất huyết não do vỡ phình mạch",
+            "Ngộ độc khí CO₂ do ức chế hô hấp"
           ],
-          "answer": [
-            0,
-            1,
-            4
-          ],
-          "explain": "<b>Đúng – Magnesium sulfate:</b> Là thuốc chuẩn để dự phòng và điều trị co giật sản giật; phản xạ gân bánh chè tăng là dấu hiệu tiền triệu co giật. <b>Đúng – Mục tiêu HA < 140/90:</b> AHA 2025 COR 1 khuyến cáo mục tiêu HA mạn tính ở thai kỳ là < 140/90 mmHg. <b>Sai – ACEi:</b> ACEi là <b>chống chỉ định tuyệt đối</b> trong thai kỳ (gây độc thận thai nhi, quái thai). <b>Sai – Aspirin dự phòng ngay hiện tại:</b> Aspirin liều thấp được khuyến cáo <b>dự phòng tiền sản giật từ tuần 12–16</b> của thai kỳ tiếp theo (hoặc trong thai kỳ này nếu chưa dùng); hiện BN đã 26 tuần với TSG nặng, dùng Aspirin lúc này không còn là biện pháp dự phòng mà là xử trí cấp cứu. <b>Đúng – Nhập viện và cân nhắc chấm dứt thai kỳ:</b> Tiền sản giật nặng ở 26 tuần cần theo dõi sát ICU; chấm dứt thai kỳ là điều trị căn nguyên, cân nhắc tùy độ trưởng thành phổi thai và tình trạng nặng."
+          "answer": 1,
+          "explain": "Trong cơn tăng huyết áp cấp cứu (trừ bóc tách động mạch chủ), mục tiêu hạ huyết áp chỉ khoảng <b>20-25% trong giờ đầu</b>. Tụt huyết áp quá nhanh (từ 210 xuống 130) làm mất cơ chế tự điều hòa dòng máu não ở bệnh nhân HTN mạn, dẫn đến <b>giảm tưới máu não và nguy cơ đột quỵ thiếu máu cục bộ</b>."
         }
       ]
     },
     {
-      "title": "Nam 65 tuổi THA, đau đầu và yếu nửa người phải xuất hiện đột ngột",
-      "body": "<b>Hành chính:</b> Nam, 65 tuổi, lái xe, THA đã điều trị 8 năm. Đang dùng: Perindopril 5 mg + Indapamide 1.25 mg (dạng phối hợp), Amlodipine 5 mg, Atorvastatin 20 mg.<br><br><b>Lý do cấp cứu:</b> Đột ngột yếu tay và chân phải, nói khó, kéo dài 45 phút, sau đó hồi phục hoàn toàn. Hiện tại không còn triệu chứng khi khám.<br><br><b>Tiền sử:</b> THA, không ĐTĐ, không rung nhĩ đã biết, không tiền sử đột quỵ. Hút thuốc lá 10 điếu/ngày × 20 năm. LDL-C đo 3 tháng trước: 2.8 mmol/L.<br><br><b>Khám lâm sàng (hiện tại):</b> Tỉnh, tiếp xúc tốt. HA: 172/96 mmHg. Mạch không đều, tần số 86–102 lần/phút. Tim: T1, T2 không đều, không nghe tiếng thổi rõ. Thần kinh: không liệt, không dấu hiệu thần kinh khu trú. Không cứng gáy.<br><br><b>Cận lâm sàng:</b> ECG 12 chuyển đạo: rung nhĩ tần số thất 90 lần/phút, không ST chênh. CT não không thuốc: không xuất huyết, không hình ảnh nhồi máu sớm. MRI não (DWI): không có vùng hạn chế khuếch tán. HbA1c 5.8%. Creatinin 95 µmol/L, eGFR 68 ml/ph. Siêu âm tim qua thành ngực: EF 58%, nhĩ trái dãn nhẹ 42 mm, không huyết khối buồng tim.",
+      "title": "Bệnh nhân nữ 45 tuổi, yếu mỏi hai chi dưới, hạ kali máu nặng",
+      "body": "Bệnh nhân nữ 45 tuổi, tiền sử <b>tăng huyết áp 3 năm</b>, nhập viện vì yếu mỏi hai chi dưới từ sáng nay. Bệnh nhân hiện đang dùng <b>Amlodipin 10mg, Perindopril 5mg và Indapamid 1.5mg</b> mỗi ngày nhưng huyết áp khám tại phòng khám vẫn là <b>165/95 mmHg</b>.<br><br>Bệnh nhân không sốt, không có cơn bốc hỏa, không đau đầu từng cơn, không sụt cân, không có các vết rạn da màu tím hay béo trung tâm.<br><br><b>Khám:</b> nhịp tim 75 lần/phút, không phù, mạch mu chân rõ, <b>sức cơ hai chi dưới 4/5, không có dấu thần kinh khu trú</b>.<br><br><b>Xét nghiệm cơ bản:</b> <b>Na⁺ 146 mmol/L, K⁺ 2.6 mmol/L, Cl⁻ 105 mmol/L</b>, Creatinin 75 µmol/L, Glucose đói 5.2 mmol/L.<br><b>Điện tâm đồ:</b> <b>sóng U rõ ở V2-V3</b>.",
       "questions": [
         {
-          "q": "Chẩn đoán phù hợp nhất cho đợt thiếu hụt thần kinh khu trú hồi phục hoàn toàn trong < 24 giờ ở bệnh nhân này là gì?",
+          "q": "Nguyên nhân nào sau đây nghi ngờ nhiều nhất gây ra tình trạng bệnh lý của bệnh nhân?",
           "options": [
-            "Đột quỵ nhồi máu não thoáng qua (TIA) do rung nhĩ mới phát hiện",
-            "Cơn thiếu máu não thoáng qua (TIA) do rung nhĩ là nguyên nhân thuyên tắc huyết khối khả năng nhất",
-            "Migraine có tiền triệu thần kinh khu trú",
-            "Cơn động kinh cục bộ với liệt Todd sau cơn"
+            "U tủy thượng thận",
+            "Hẹp động mạch thận",
+            "Hội chứng Cushing",
+            "Cường aldosterone nguyên phát"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân nữ trẻ, có <b>tăng huyết áp kháng trị</b> (không đạt mục tiêu dù dùng 3 thuốc) kèm <b>hạ kali máu nặng</b> (gây yếu cơ, sóng U trên ECG). Dấu hiệu âm tính giúp loại trừ Cushing (không béo, không rạn da) và U tủy thượng thận (không cơn bốc hỏa). <b>Cường aldosterone nguyên phát</b> là chẩn đoán phù hợp nhất."
+        },
+        {
+          "q": "Cơ chế chính gây bất thường điện giải đồ ở bệnh nhân này là gì?",
+          "options": [
+            "Tăng bài tiết kali ở ống lượn gần do thuốc",
+            "Tăng tái hấp thu natri và bài tiết kali ở ống lượn xa",
+            "Dịch chuyển kali từ ngoại bào vào nội bào",
+            "Giảm hấp thu kali tại niêm mạc đường tiêu hóa"
           ],
           "answer": 1,
-          "explain": "<b>Cơn thiếu máu não thoáng qua (TIA)</b>: thiếu hụt thần kinh khu trú hồi phục hoàn toàn trong < 24 giờ (thường < 1 giờ), MRI DWI không có tổn thương cấp. Nguyên nhân phổ biến nhất: thuyên tắc tim mạch do <b>rung nhĩ</b> (mới phát hiện trong ca này) — rung nhĩ gây đông máu trong nhĩ trái, dẫn đến thuyên tắc não. Đây không phải Migraine (không có đau đầu đặc trưng, không tiền sử, yếu thực sự chứ không chỉ cảm giác). Liệt Todd thường xảy ra sau cơn động kinh — không có bằng chứng co giật. Phân biệt TIA vs Đột quỵ nhỏ: MRI DWI âm tính → TIA (không có vùng nhồi máu). "
+          "explain": "Aldosterone tác động lên thụ thể mineralocorticoid ở ống lượn xa và ống góp, làm tăng hoạt động bơm Na⁺/K⁺ ATPase, <b>tăng tái hấp thu natri (giữ nước gây HTN) và tăng bài tiết kali, H⁺ vào nước tiểu</b> (gây hạ kali và kiềm chuyển hóa)."
         },
         {
-          "q": "Xử trí HA trong giai đoạn cấp (24 giờ đầu) của TIA này cần tuân theo nguyên tắc nào?",
+          "q": "Xét nghiệm sàng lọc nào sau đây phù hợp nhất để đánh giá chẩn đoán trên?",
           "options": [
-            "Hạ HA ngay xuống < 130/80 mmHg để giảm nguy cơ tái phát đột quỵ sớm",
-            "Dừng tất cả thuốc hạ áp và theo dõi HA tự nhiên trong 24–48 giờ đầu",
-            "Tiếp tục hoặc điều chỉnh thuốc hạ áp hướng đến HA < 140/90 mmHg, tránh hạ quá nhanh",
-            "Hạ HA cấp cứu bằng Labetalol TM vì HA hiện tại 172/96 mmHg"
+            "Định lượng catecholamine niệu 24 giờ",
+            "Tỷ số aldosterone/renin huyết tương",
+            "Nghiệm pháp ức chế dexamethasone",
+            "Chụp cắt lớp vi tính tuyến thượng thận"
+          ],
+          "answer": 1,
+          "explain": "<b>Tỷ số aldosterone/renin huyết tương (ARR)</b> là xét nghiệm sàng lọc đầu tay cho cường aldosterone nguyên phát. CT scan chỉ được dùng sau khi sinh hóa đã xác định có cường aldosterone để phân biệt u tuyến và tăng sản."
+        },
+        {
+          "q": "Trước khi thực hiện xét nghiệm sàng lọc, việc làm nào sau đây là cần thiết nhất?",
+          "options": [
+            "Ngừng ngay lập tức tất cả các thuốc hạ áp đang dùng",
+            "Bù kali máu lên mức bình thường và xem xét đổi thuốc hạ áp",
+            "Chỉ định siêu âm doppler động mạch thận để loại trừ",
+            "Bắt đầu dùng spironolactone để kiểm tra đáp ứng lâm sàng"
+          ],
+          "answer": 1,
+          "explain": "Hạ kali máu có thể làm giảm tiết aldosterone, gây kết quả âm tính giả cho xét nghiệm ARR. Đồng thời, một số thuốc hạ áp (nhất là lợi tiểu, ACEI/ARB) ảnh hưởng đến renin và aldosterone. <b>Cần bù K⁺ đủ và điều chỉnh thuốc</b> (thường chuyển sang CCB hoặc alpha-blocker) trước khi đo."
+        },
+        {
+          "q": "Nếu chẩn đoán là tăng sản thượng thận hai bên, thuốc hạ áp nào sau đây là lựa chọn ưu tiên nhất để bổ sung vào phác đồ?",
+          "options": [
+            "Labetalol đường uống",
+            "Doxazosin đường uống",
+            "Spironolactone đường uống",
+            "Hydralazine đường uống"
           ],
           "answer": 2,
-          "explain": "Trong TIA và đột quỵ thiếu máu cấp, não vùng tổn thương đã mất cơ chế tự điều chỉnh → dựa vào HA hệ thống để tưới máu. Theo khuyến cáo: <b>tiếp tục thuốc hạ áp (hoặc khởi trị khi HA > 140/90)</b>, hướng đến < 140/90 mmHg theo đường uống — <b>không hạ quá nhanh</b>. AHA 2025 có chống chỉ định rõ (COR 3: Harm) hạ SBP < 140 mmHg trong 24–72h đầu sau tái tưới máu thành công (lấy huyết khối). Với TIA (không có nhồi máu não), hạ HA từ từ theo đường uống là hợp lý. Dừng hoàn toàn thuốc hạ áp không có cơ sở và có hại. Labetalol TM chỉ dùng khi HA cần hạ khẩn cấp (> 220/120 hoặc có chỉ định tiêu sợi huyết)."
+          "explain": "Đối với cường aldosterone do tăng sản thượng thận hai bên (vô căn), điều trị nội khoa bằng <b>thuốc kháng thụ thể mineralocorticoid (Spironolactone hoặc Eplerenone)</b> là lựa chọn ưu tiên hàng đầu, giúp kiểm soát cả huyết áp và kali máu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi, huyết áp 200/110 mmHg, không triệu chứng",
+      "body": "Bệnh nhân nam 68 tuổi, tiền sử tăng huyết áp và đái tháo đường type 2, đi khám sức khỏe định kỳ. Bệnh nhân <b>tự ngưng thuốc huyết áp (Amlodipin 5mg) từ 2 tuần nay</b> do thấy người khỏe.<br><br><b>Khám lâm sàng:</b> bệnh nhân hoàn toàn <b>không có triệu chứng gì, không đau đầu, không khó thở, không đau ngực</b>. <b>Huyết áp đo tại phòng khám là 200/110 mmHg, đo lại sau 15 phút vẫn là 195/105 mmHg</b>. Nhịp tim 80 lần/phút.<br><br><b>Khám soi đáy mắt:</b> không thấy phù gai thị.<br><b>Nghe tim phổi:</b> bình thường. Không có dấu hiệu thần kinh khu trú.<br><b>Điện tâm đồ:</b> nhịp xoang, dày thất trái, không thiếu máu cơ tim cấp.<br><b>Creatinin máu:</b> 85 µmol/L.",
+      "questions": [
+        {
+          "q": "Tình trạng huyết áp của bệnh nhân hiện tại được phân loại là gì?",
+          "options": [
+            "Cơn tăng huyết áp cấp cứu",
+            "Cơn tăng huyết áp khẩn trương",
+            "Tăng huyết áp áo choàng trắng",
+            "Tăng huyết áp tâm thu đơn độc"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có huyết áp rất cao (≥180/110 mmHg) nhưng <b>không có triệu chứng, không có bằng chứng tổn thương cơ quan đích cấp tính</b> (soi đáy mắt không phù gai thị, ECG và chức năng thận ổn định). Tức là không có tổn thương cơ quan đích cấp tính. Đây là <b>cơn tăng huyết áp khẩn trương (Hypertensive urgency)</b>."
         },
         {
-          "q": "Ngoài kiểm soát huyết áp, thuốc nào cần thêm ngay để phòng ngừa đột quỵ tái phát do rung nhĩ?",
+          "q": "Đặc điểm lâm sàng nào sau đây giúp loại trừ phân loại ở mức độ nặng hơn (cấp cứu) trên bệnh nhân này?",
           "options": [
-            "Aspirin 100 mg/ngày đơn trị — chống ngưng tập tiểu cầu đủ cho dự phòng thuyên tắc do rung nhĩ",
-            "Clopidogrel 75 mg/ngày đơn trị — mạnh hơn Aspirin trong phòng ngừa đột quỵ do rung nhĩ",
-            "Kháng đông đường uống (NOAC: Rivaroxaban, Apixaban, hoặc Dabigatran, hoặc Warfarin) — phòng ngừa thuyên tắc huyết khối do rung nhĩ",
-            "Aspirin + Clopidogrel phối hợp — đủ hiệu quả và an toàn hơn kháng đông ở BN THA"
+            "Bệnh nhân đã từng dùng thuốc huyết áp",
+            "Mức huyết áp tâm thu chưa vượt quá 220 mmHg",
+            "Không có bằng chứng tổn thương cơ quan đích cấp tính",
+            "Không có nhịp tim nhanh hay rối loạn nhịp trên ECG"
           ],
           "answer": 2,
-          "explain": "Rung nhĩ là chỉ định kháng đông (không phải chống ngưng tập tiểu cầu) để phòng đột quỵ. <b>NOAC (Rivaroxaban, Apixaban, Dabigatran) hiện được ưu tiên hơn Warfarin</b> do hiệu quả tương đương, ít tương tác thuốc-thức ăn và ít nguy cơ xuất huyết nội sọ hơn. Aspirin đơn trị không đủ hiệu quả phòng thuyên tắc huyết khối trong rung nhĩ. Clopidogrel đơn trị tương tự — không phải lựa chọn đúng cơ chế. Phối hợp Aspirin + Clopidogrel không được khuyến cáo thay thế kháng đông trong rung nhĩ; chỉ tăng nguy cơ chảy máu mà không đủ phòng ngừa thuyên tắc tim mạch. Đánh giá nguy cơ thuyên tắc bằng thang CHA₂DS₂-VASc (BN này có điểm cao: THA, tuổi 65, đột quỵ/TIA = ≥ 2 điểm) → chỉ định kháng đông."
+          "explain": "Ranh giới giữa tăng huyết áp cấp cứu (emergency) và khẩn trương (urgency) <b>không nằm ở con số huyết áp tuyệt đối mà ở sự hiện diện của tổn thương cơ quan đích cấp tính</b> (nhồi máu cơ tim, đột quỵ, phù gai thị, suy thận cấp, phù phổi). Bệnh nhân này không có các dấu hiệu đó."
         },
         {
-          "q": "Điều chỉnh nào về thuốc hạ áp là phù hợp nhất cho bệnh nhân này sau giai đoạn cấp, với mục tiêu phòng ngừa đột quỵ tái phát?",
+          "q": "Xử trí ban đầu nào sau đây là phù hợp nhất cho bệnh nhân tại phòng khám?",
           "options": [
-            "Giữ nguyên phác đồ hiện tại (Perindopril/Indapamide + Amlodipine) và tăng Atorvastatin lên 40–80 mg",
-            "Thêm Chẹn Beta vào phác đồ hiện tại để kiểm soát nhịp tim rung nhĩ và hạ áp đồng thời",
-            "Ngừng Amlodipine, thay bằng Bisoprolol vì rung nhĩ là chỉ định bắt buộc của chẹn beta",
-            "Ngừng nhóm ACEi/lợi tiểu, chuyển sang Chẹn Beta + Kháng Aldosterone vì có rung nhĩ mới"
+            "Dùng Nifedipin nhỏ giọt dưới lưỡi để hạ áp nhanh",
+            "Truyền tĩnh mạch Labetalol để kiểm soát huyết động",
+            "Cấp lại thuốc hạ áp đường uống và theo dõi ngoại trú",
+            "Cho bệnh nhân nhập viện khoa Hồi sức cấp cứu ngay"
+          ],
+          "answer": 2,
+          "explain": "Tăng huyết áp khẩn trương <b>không cần hạ áp bằng đường tĩnh mạch hay nhập viện ICU</b>. Xử trí tốt nhất là cho bệnh nhân nằm nghỉ ngơi ở môi trường yên tĩnh, <b>dùng lại thuốc hạ áp đường uống</b> (có thể tăng liều hoặc thêm thuốc) và theo dõi ngoại trú."
+        },
+        {
+          "q": "Mục tiêu hạ huyết áp hợp lý nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Đưa huyết áp về dưới 130/80 mmHg trong vòng 1 giờ",
+            "Hạ huyết áp xuống 25% trong vòng 1 giờ đầu tiên",
+            "Hạ huyết áp dần về bình thường trong vòng 24 đến 48 giờ",
+            "Giữ nguyên mức huyết áp hiện tại để tránh tụt áp phản ứng"
+          ],
+          "answer": 2,
+          "explain": "Với tăng huyết áp khẩn trương, <b>việc hạ áp quá nhanh có thể gây giảm tưới máu não/tim</b>. Mục tiêu là <b>hạ huyết áp từ từ về mức an toàn (thường ≤160/100 mmHg) trong vài giờ đến vài ngày (24-48 giờ)</b> bằng thuốc uống."
+        },
+        {
+          "q": "Vì sao Nifedipin tác dụng nhanh (nhỏ giọt dưới lưỡi) bị chống chỉ định trong tình huống này?",
+          "options": [
+            "Gây co thắt động mạch vành dẫn đến nhồi máu cơ tim",
+            "Gây tụt huyết áp đột ngột không kiểm soát được",
+            "Gây tăng kali máu đe dọa tính mạng người bệnh",
+            "Gây nhịp tim chậm trầm trọng và block nhĩ thất"
+          ],
+          "answer": 1,
+          "explain": "Nifedipin tác dụng nhanh ngậm dưới lưỡi <b>hấp thu rất nhanh, làm giãn mạch ồ ạt, gây tụt huyết áp mạnh và không thể dự đoán được</b>, dẫn đến phản xạ nhịp nhanh và nguy cơ thiếu máu cục bộ não/tim. <b>Phương pháp này hiện đã bị chống chỉ định</b>."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi, creatinin tăng sau dùng ACEI, hẹp động mạch thận",
+      "body": "Bệnh nhân nam 72 tuổi, <b>nghiện thuốc lá 40 bao.năm, tiền sử bệnh động mạch chi dưới</b>. Bệnh nhân <b>mới phát hiện tăng huyết áp cách đây 2 tuần</b> với mức 170/95 mmHg và được bác sĩ kê đơn <b>Perindopril 5mg/ngày</b>.<br><br>Tái khám sau 2 tuần, bệnh nhân <b>không đau ngực, không phù, tiểu bình thường</b>. <b>Huyết áp hiện tại 145/85 mmHg</b>. Tuy nhiên, <b>xét nghiệm sinh hóa cho thấy Creatinin máu tăng từ 90 µmol/L (trước khi dùng thuốc) lên 210 µmol/L</b>. <b>Na⁺ 138 mmol/L, K⁺ 5.1 mmol/L</b>.<br><br><b>Siêu âm thận:</b> thận trái 8 cm, thận phải 11 cm, không ứ nước.",
+      "questions": [
+        {
+          "q": "Nguyên nhân nào giải thích hợp lý nhất tình trạng tăng Creatinin của bệnh nhân?",
+          "options": [
+            "Viêm cầu thận cấp tiến triển nhanh",
+            "Suy thận cấp chức năng do thuốc",
+            "Viêm ống kẽ thận cấp do dị ứng thuốc",
+            "Tắc nghẽn đường tiết niệu cấp tính"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân cao tuổi, hút thuốc, xơ vữa động mạch, có <b>thận teo một bên và tăng creatinin đột ngột sau dùng thuốc ức chế men chuyển (ACEI)</b>. Đây là biểu hiện của <b>suy thận cấp chức năng do giảm tưới máu thận</b> trên nền hẹp động mạch thận. Không có sốt/ban để nghĩ viêm kẽ thận, siêu âm không ứ nước loại trừ tắc nghẽn."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh gây suy thận cấp ở bệnh nhân này khi dùng Perindopril là gì?",
+          "options": [
+            "Thuốc làm co tiểu động mạch đến gây giảm tưới máu cầu thận",
+            "Thuốc làm giãn tiểu động mạch đi làm mất áp lực lọc cầu thận",
+            "Thuốc lắng đọng tạo thành tinh thể gây tắc nghẽn ống thận",
+            "Thuốc gây độc trực tiếp lên tế bào biểu mô ống lượn gần"
+          ],
+          "answer": 1,
+          "explain": "Trong điều kiện <b>hẹp động mạch thận (giảm tưới máu), áp lực lọc cầu thận được duy trì nhờ Angiotensin II gây co tiểu động mạch đi</b>. Thuốc ACEI (Perindopril) ức chế tạo Angiotensin II, làm <b>giãn tiểu động mạch đi, dẫn đến tụt áp lực lọc cầu thận và gây suy thận cấp chức năng</b>."
+        },
+        {
+          "q": "Bất thường trên siêu âm thận (kích thước thận trái nhỏ hơn thận phải rõ rệt) gợi ý bệnh lý gốc nào sau đây?",
+          "options": [
+            "Bệnh thận đa nang người lớn",
+            "Trào ngược bàng quang niệu quản",
+            "Hẹp động mạch thận trái mạn tính",
+            "Viêm đài bể thận cấp tính bên trái"
+          ],
+          "answer": 2,
+          "explain": "<b>Thận trái teo nhỏ (8 cm) so với thận phải bình thường (11 cm)</b> trên cơ địa xơ vữa động mạch mạnh mẽ gợi ý <b>hẹp động mạch thận trái mạn tính do xơ vữa, làm thiếu máu cục bộ mạn và teo nhu mô thận</b>."
+        },
+        {
+          "q": "Xử trí bước tiếp theo phù hợp nhất đối với thuốc huyết áp của bệnh nhân là gì?",
+          "options": [
+            "Giảm nửa liều Perindopril và theo dõi creatinin sau 1 tuần",
+            "Ngừng Perindopril và chuyển sang Amlodipin để kiểm soát huyết áp",
+            "Giữ nguyên Perindopril và thêm thuốc lợi tiểu Furosemide",
+            "Ngừng Perindopril và chuyển sang Valsartan để bảo vệ thận"
+          ],
+          "answer": 1,
+          "explain": "Do bệnh nhân có <b>tổn thương thận cấp tính rõ rệt (creatinin tăng >30% so với nền)</b> sau khi dùng ACEI, <b>bắt buộc phải ngừng Perindopril</b>. Chuyển sang một thuốc hạ áp nhóm khác không ảnh hưởng huyết động cầu thận như <b>chẹn kênh canxi (Amlodipin)</b> là lựa chọn an toàn và hợp lý. Không dùng ARB (Valsartan) vì cơ chế tương tự ACEI."
+        },
+        {
+          "q": "Bệnh nhân này có nguy cơ cao nhất xuất hiện biến chứng lâm sàng nào sau đây nếu tiếp tục không kiểm soát tốt bệnh lý mạch máu?",
+          "options": [
+            "Phù phổi cấp tổn thương do viêm",
+            "Cơn bốc hỏa và vã mồ hôi ban đêm",
+            "Cơn phù phổi cấp chớp nhoáng (Flash pulmonary edema)",
+            "Đột quỵ chảy máu não vùng thân não"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân <b>hẹp động mạch thận (có thể tiến triển thành hẹp hai bên)</b> rất dễ bị <b>quá tải thể tích và áp lực do giữ muối nước và kích hoạt RAAS quá mức</b>, dẫn đến biến chứng kinh điển là <b>cơn phù phổi cấp chớp nhoáng (Flash pulmonary edema) tái phát</b>."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 32 tuổi, mang thai 34 tuần, đau đầu, nhìn mờ",
+      "body": "Bệnh nhân nữ 32 tuổi, <b>mang thai con so tuần thứ 34</b>, đến khám thai định kỳ. Bệnh nhân <b>than phiền đau đầu âm ỉ vùng trán 2 ngày nay, thỉnh thoảng nhìn mờ</b>. <b>Không có tiền sử tăng huyết áp trước khi mang thai</b>.<br><br><b>Khám:</b> Mạch 85 lần/phút, <b>Huyết áp 165/110 mmHg</b>. <b>Phù chi dưới mức độ vừa</b>. Không có co giật. Thai nhi tim thai bình thường.<br><br><b>Xét nghiệm:</b> <b>Protein niệu 3.5 g/24h</b>. <b>AST 85 U/L, ALT 90 U/L</b>. <b>Tiểu cầu 90 G/L</b>. Creatinin 95 µmol/L. <b>LDH 650 U/L</b>.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất ở thai phụ này là gì?",
+          "options": [
+            "Tăng huyết áp mạn tính ghép thêm tiền sản giật",
+            "Tăng huyết áp thai kỳ đơn thuần",
+            "Tiền sản giật có dấu hiệu nặng",
+            "Sản giật"
+          ],
+          "answer": 2,
+          "explain": "Thai phụ > 20 tuần, <b>HTN mới mắc, có protein niệu và các dấu hiệu nặng</b> (đau đầu, nhìn mờ, giảm tiểu cầu, tăng men gan). Đây là <b>Tiền sản giật có dấu hiệu nặng (kèm hội chứng HELLP)</b>. Chưa có co giật nên chưa gọi là Sản giật. Không phải HTN mạn vì không có tiền sử trước mang thai."
+        },
+        {
+          "q": "Sinh lý bệnh cốt lõi gây ra hội chứng bệnh lý của bệnh nhân này là gì?",
+          "options": [
+            "Suy tim sung huyết do tăng gánh thể tích thai kỳ",
+            "Rối loạn chức năng nội mô do bất thường nguyên bào nuôi",
+            "Viêm cầu thận cấp do phức hợp miễn dịch sau nhiễm liên cầu",
+            "Tăng tiết catecholamine từ tủy thượng thận thai nhi"
+          ],
+          "answer": 1,
+          "explain": "Sinh lý bệnh cốt lõi của tiền sản giật là <b>sự xâm lấn bất thường của nguyên bào nuôi vào động mạch xoắn tử cung, gây thiếu máu cục bộ nhau thai</b>. Nhau thai tiết ra các yếu tố chống tạo mạch (như sFlt-1) vào tuần hoàn mẹ, dẫn đến <b>tổn thương và rối loạn chức năng tế bào nội mô toàn thân</b>."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây bất thường chứng tỏ bệnh nhân đang có biến chứng tán huyết?",
+          "options": [
+            "Tăng AST và ALT",
+            "Giảm số lượng tiểu cầu",
+            "Tăng nồng độ LDH máu",
+            "Tăng protein trong nước tiểu"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có <b>hội chứng HELLP (Hemolysis, Elevated Liver enzymes, Low Platelets)</b>. <b>LDH tăng cao (>600 U/L) là một dấu hiệu marker nhạy của tán huyết vi mạch</b> (cùng với bilirubin gián tiếp tăng và mảnh vỡ hồng cầu trên tiêu bản)."
+        },
+        {
+          "q": "Thuốc hạ huyết áp nào sau đây CHỐNG CHỈ ĐỊNH sử dụng cho thai phụ này?",
+          "options": [
+            "Methyldopa đường uống",
+            "Labetalol đường tĩnh mạch",
+            "Hydralazine đường tĩnh mạch",
+            "Enalapril đường uống"
+          ],
+          "answer": 3,
+          "explain": "Các thuốc <b>ức chế men chuyển (Enalapril) và chẹn thụ thể angiotensin (ARB)</b> bị <b>chống chỉ định tuyệt đối trong thai kỳ</b> do gây quái thai, suy thận thai nhi và thiểu ối. Labetalol, Methyldopa, Nifedipin và Hydralazine là các thuốc an toàn được dùng."
+        },
+        {
+          "q": "Bác sĩ quyết định dùng Magnesium Sulfate tĩnh mạch. Dấu hiệu lâm sàng nào sau đây cần theo dõi sát để phát hiện sớm ngộ độc thuốc này?",
+          "options": [
+            "Mất phản xạ gân xương",
+            "Tăng nhịp tim trên 120 lần/phút",
+            "Tăng co bóp cơ tử cung",
+            "Đồng tử giãn và không đáp ứng ánh sáng"
           ],
           "answer": 0,
-          "explain": "Với TIA sau đột quỵ, <b>ACEi (Perindopril) + Lợi tiểu (Indapamide)</b> là phối hợp được chứng minh giảm tái phát đột quỵ (nghiên cứu PROGRESS). <b>Amlodipine</b> vẫn phù hợp — CCB được khuyến cáo trong THA + rung nhĩ (giúp hạ áp, không ảnh hưởng xấu đến rung nhĩ). Quan trọng: <b>tăng Atorvastatin lên 40–80 mg</b> vì LDL-C 2.8 mmol/L chưa đạt đích (với nguy cơ rất cao — TIA + rung nhĩ — cần LDL < 1.8 mmol/L). Chẹn Beta có thể thêm nếu cần kiểm soát tần số thất trong rung nhĩ, nhưng không thay thế ACEi/lợi tiểu đã chứng minh hiệu quả. Phác đồ hiện tại (A+D+C) phù hợp — cần tối ưu thêm Statin và thêm kháng đông."
+          "explain": "Magnesium Sulfate được dùng để dự phòng co giật (sản giật). Tuy nhiên thuốc có phổ điều trị hẹp. <b>Dấu hiệu sớm nhất của ngộ độc Magnesium là mất phản xạ gân xương</b> (thường là phản xạ bánh chè), sau đó là ức chế hô hấp và ngừng tim. Cần theo dõi sát phản xạ gân xương, nhịp thở và lượng nước tiểu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi, cơn đánh trống ngực, vã mồ hôi, đau đầu dữ dội",
+      "body": "Bệnh nhân nam 35 tuổi, nhập viện vì <b>các cơn đánh trống ngực, vã mồ hôi và đau đầu dữ dội</b>. Bệnh nhân kể <b>các cơn này xuất hiện khoảng 1-2 lần/tuần, kéo dài 15-20 phút rồi tự hết</b>.<br><br><b>Khám tại lúc đang có cơn:</b> <b>mạch 120 lần/phút, huyết áp 195/110 mmHg</b>.<br><b>Khám lúc ngoài cơn:</b> <b>mạch 75 lần/phút, huyết áp 125/80 mmHg</b>. Bệnh nhân không sờ thấy tuyến giáp to, không lồi mắt, không phù.<br><br><b>Xét nghiệm cơ bản:</b> Glucose đói 6.8 mmol/L, Creatinin 80 µmol/L, K⁺ 4.0 mmol/L.<br><b>Điện tâm đồ:</b> ghi nhận nhịp nhanh xoang trong cơn.",
+      "questions": [
+        {
+          "q": "Đặc điểm lâm sàng \"tam chứng\" (đau đầu, vã mồ hôi, đánh trống ngực) kèm tăng huyết áp cơn ở bệnh nhân này hướng tới chẩn đoán nào nhất?",
+          "options": [
+            "Rối loạn lo âu lan tỏa",
+            "Cường giáp Basedow",
+            "U tủy thượng thận",
+            "Bệnh cơ tim phì đại"
+          ],
+          "answer": 2,
+          "explain": "<b>Tam chứng kinh điển gồm đau đầu từng cơn, vã mồ hôi và đánh trống ngực, kèm theo tăng huyết áp theo cơn</b> (huyết áp ngoài cơn bình thường) ở người trẻ <b>cực kỳ đặc trưng cho U tủy thượng thận (Pheochromocytoma)</b>. Không tuyến giáp to giúp loại trừ cường giáp."
         },
         {
-          "q": "Chọn TẤT CẢ các phát biểu đúng về quản lý rung nhĩ + THA ở bệnh nhân này:",
-          "type": "multi",
+          "q": "Cơ chế chính gây tăng glucose máu nhẹ ở bệnh nhân này là gì?",
           "options": [
-            "Mục tiêu HA sau TIA là < 130/80 mmHg để phòng ngừa đột quỵ tái phát",
-            "ARB/ACEi có thể giúp giảm tái phát rung nhĩ thông qua giảm dãn nhĩ trái",
-            "Không dùng Verapamil hay Diltiazem (Non-DHP CCB) nếu BN có EF giảm",
-            "Kháng đông có thể bắt đầu ngay sau TIA do rung nhĩ mà không cần chờ",
-            "LDL-C mục tiêu ở bệnh nhân này là < 2.6 mmol/L theo khuyến cáo cholesterol thông thường"
+            "Kháng insulin do dùng corticoid kéo dài",
+            "Kích thích thụ thể beta-adrenergic ở gan gây tăng tạo glucose",
+            "Tổn thương đảo tụy do kháng thể tự miễn",
+            "Giảm tưới máu tụy do co thắt mạch máu mạn tính"
           ],
-          "answer": [
-            0,
-            1,
-            2,
-            3
+          "answer": 1,
+          "explain": "<b>Catecholamine (Epinephrine/Norepinephrine) tiết ra từ khối u tác động lên thụ thể beta-2 ở gan</b> làm <b>tăng phân ly glycogen và tăng tân tạo glucose</b>, đồng thời tác động lên thụ thể alpha-2 ở tụy làm giảm tiết insulin, dẫn đến tăng đường huyết (thường nhẹ)."
+        },
+        {
+          "q": "Xét nghiệm sinh hóa nào sau đây nhạy nhất để chẩn đoán xác định bệnh lý trên?",
+          "options": [
+            "Metanephrine tự do trong huyết tương",
+            "Acid vanillylmandelic (VMA) trong nước tiểu",
+            "Cortisol máu lúc 8 giờ sáng",
+            "TSH và FT4 trong huyết thanh"
           ],
-          "explain": "<b>Đúng – Mục tiêu HA < 130/80:</b> Sau TIA/đột quỵ, mục tiêu HA là < 130/80 mmHg để giảm nguy cơ tái phát. <b>Đúng – ARB/ACEi và rung nhĩ:</b> ARB/ACEi giảm dãn nhĩ trái (do giảm áp lực đổ đầy thất trái) → có thể giảm tái phát rung nhĩ, đặc biệt trong rung nhĩ liên quan THA/HFpEF. <b>Đúng – Non-DHP CCB với EF giảm:</b> BN này EF 58% (bảo tồn) nên có thể dùng Verapamil/Diltiazem; tuy nhiên nguyên tắc đúng là CĐĐ Non-DHP CCB khi EF < 40% (HFrEF). <b>Đúng – Kháng đông sau TIA:</b> Sau TIA do rung nhĩ, kháng đông có thể bắt đầu ngay (khác với đột quỵ nhồi máu lớn cần chờ 3–14 ngày tùy kích thước). <b>Sai – LDL mục tiêu < 2.6 mmol/L:</b> Với nguy cơ rất cao (TIA + rung nhĩ + THA + hút thuốc), LDL mục tiêu là <b>< 1.8 mmol/L (< 70 mg/dL)</b>, không phải 2.6 mmol/L."
+          "answer": 0,
+          "explain": "<b>Xét nghiệm định lượng Metanephrine tự do trong huyết tương</b> (hoặc metanephrine phân đoạn niệu 24h) <b>có độ nhạy rất cao (>95%)</b> và là <b>xét nghiệm sàng lọc hàng đầu</b>. VMA nước tiểu hiện ít dùng vì độ nhạy thấp hơn."
+        },
+        {
+          "q": "Nếu bệnh nhân được chuẩn bị phẫu thuật, nguyên tắc dùng thuốc hạ áp nào sau đây là BẮT BUỘC để tránh cơn kịch phát nguy hiểm?",
+          "options": [
+            "Dùng thuốc chẹn beta trước, sau đó mới dùng chẹn alpha",
+            "Dùng thuốc chẹn alpha trước, sau đó mới dùng chẹn beta",
+            "Chỉ dùng đơn trị liệu thuốc chẹn kênh canxi liều cao",
+            "Chỉ dùng đơn trị liệu thuốc ức chế men chuyển"
+          ],
+          "answer": 1,
+          "explain": "Trước phẫu thuật cắt u tủy thượng thận, <b>bắt buộc phải phong bế thụ thể alpha trước</b> (bằng phenoxybenzamine hoặc doxazosin) để làm giãn mạch, giảm huyết áp. <b>Chỉ được dùng chẹn beta sau khi đã chẹn alpha đủ</b> để kiểm soát nhịp tim nhanh."
+        },
+        {
+          "q": "Nếu bác sĩ vô tình cho bệnh nhân dùng thuốc chẹn beta (như Propranolol) ngay từ đầu, điều gì sẽ xảy ra?",
+          "options": [
+            "Nhịp tim giảm đột ngột gây ngừng tim tâm thu",
+            "Huyết áp tụt nghiêm trọng do giãn mạch ngoại vi",
+            "Cơn tăng huyết áp kịch phát do tác dụng alpha không bị đối kháng",
+            "Bệnh nhân rơi vào hôn mê do hạ đường huyết nặng"
+          ],
+          "answer": 2,
+          "explain": "Nếu dùng <b>chẹn beta trước, các thụ thể beta-2 (có tác dụng giãn mạch) bị phong bế</b>, trong khi <b>các thụ thể alpha-1 (có tác dụng co mạch) vẫn tự do hoạt động</b> dưới lượng lớn catecholamine từ u. Hậu quả là hiện tượng <b>co mạch ngoại vi không bị đối kháng, gây ra cơn kịch phát tăng huyết áp đe dọa tính mạng</b>."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi, đái tháo đường, bệnh thận mạn giai đoạn 3, albumin niệu cao",
+      "body": "Bệnh nhân nam 62 tuổi, tiền sử <b>đái tháo đường type 2 đã 15 năm, bệnh thận mạn giai đoạn 3</b>. Bệnh nhân đang dùng <b>Metformin 1000mg/ngày, Insulin glargine 15 đơn vị/tối</b>.<br><br><b>Khám tại phòng khám:</b> <b>Huyết áp 150/90 mmHg</b>, Mạch 78 lần/phút. Không phù.<br><br><b>Xét nghiệm:</b> <b>Creatinin máu 140 µmol/L (eGFR 45 mL/phút/1.73m²), K⁺ 4.5 mmol/L</b>.<br><b>Xét nghiệm nước tiểu:</b> <b>tỷ số Albumin/Creatinin niệu (UACR) là 450 mg/g</b>. <br><b>Siêu âm thận:</b> bình thường.",
+      "questions": [
+        {
+          "q": "Theo các khuyến cáo hiện tại (KDIGO/ADA), mục tiêu huyết áp tối ưu cho bệnh nhân này nên là bao nhiêu?",
+          "options": [
+            "< 140/90 mmHg",
+            "< 130/80 mmHg",
+            "< 120/80 mmHg",
+            "< 150/90 mmHg"
+          ],
+          "answer": 2,
+          "explain": "Theo <b>KDIGO 2021/2024, mục tiêu huyết áp tâm thu cho bệnh nhân bệnh thận mạn</b> (có hoặc không có đái tháo đường) là <b>< 120 mmHg</b> (nếu dung nạp được). Theo ADA, với bệnh nhân ĐTĐ có albumin niệu cao, mục tiêu < 130/80 mmHg thường được áp dụng. Dù theo guideline nào, mức 150/90 hiện tại là chưa đạt."
+        },
+        {
+          "q": "Lựa chọn thuốc hạ huyết áp đầu tay nào sau đây mang lại lợi ích kép tốt nhất (hạ áp và bảo vệ thận) cho bệnh nhân?",
+          "options": [
+            "Amlodipin",
+            "Bisoprolol",
+            "Losartan",
+            "Furosemid"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có <b>ĐTĐ, bệnh thận mạn và albumin niệu vi thể/đại thể (UACR > 300)</b>. <b>Thuốc ức chế hệ RAAS (ACEI hoặc ARB - như Losartan)</b> là <b>chỉ định đầu tay bắt buộc</b> vì có bằng chứng làm chậm tiến triển bệnh thận mạn."
+        },
+        {
+          "q": "Cơ chế chính giúp nhóm thuốc được chọn ở câu 2 làm giảm albumin niệu là gì?",
+          "options": [
+            "Kích thích tái hấp thu albumin ở ống lượn gần",
+            "Giảm áp lực lọc cầu thận thông qua giãn tiểu động mạch đi",
+            "Giảm tính thấm màng đáy cầu thận qua việc chống viêm",
+            "Co tiểu động mạch đến làm giảm lưu lượng máu qua thận"
+          ],
+          "answer": 1,
+          "explain": "Thuốc <b>ACEI/ARB phong bế tác dụng của Angiotensin II</b> (vốn gây co tiểu động mạch đi mạnh hơn tiểu động mạch đến). Hậu quả là <b>làm giãn tiểu động mạch đi, làm giảm áp lực thủy tĩnh trong mao mạch cầu thận (áp lực lọc)</b>, từ đó <b>giảm sự đẩy albumin lọt qua màng đáy ra nước tiểu</b>."
+        },
+        {
+          "q": "Bác sĩ kê đơn thuốc hạ áp trên. Xét nghiệm nào sau đây cần được kiểm tra lại sau 2-4 tuần bắt đầu điều trị?",
+          "options": [
+            "AST, ALT và Bilirubin",
+            "Kali máu và Creatinin máu",
+            "HbA1c và Glucose máu đói",
+            "Công thức máu và tốc độ máu lắng"
+          ],
+          "answer": 1,
+          "explain": "Khi bắt đầu dùng ACEI hoặc ARB, <b>nguy cơ là làm giảm GFR (tăng creatinin) và giảm bài tiết kali (tăng kali máu)</b>. <b>Khuyến cáo cần kiểm tra lại Creatinin và Điện giải đồ (Kali) sau 2-4 tuần</b>."
+        },
+        {
+          "q": "Sau 2 tuần, bệnh nhân tái khám, huyết áp 135/80 mmHg. Xét nghiệm thấy Creatinin máu tăng lên 160 µmol/L, Kali máu 5.2 mmol/L. Quyết định điều trị tiếp theo hợp lý nhất là gì?",
+          "options": [
+            "Ngừng ngay thuốc hạ áp do suy thận tiến triển và tăng kali",
+            "Đổi sang Amlodipin để tránh làm tổn thương thận thêm",
+            "Giữ nguyên phác đồ vì mức tăng creatinin và kali vẫn trong ngưỡng chấp nhận",
+            "Chuyển bệnh nhân đi chạy thận nhân tạo cấp cứu do tăng kali máu"
+          ],
+          "answer": 2,
+          "explain": "Mức tăng creatinin từ 140 lên 160 (khoảng 14%) là sự sụt giảm GFR chức năng dự kiến do huyết động (giãn tiểu động mạch đi), thường cho phép tăng tối đa 30% so với nền. Kali máu 5.2 mmol/L chưa đạt mức nguy hiểm (>5.5 cần can thiệp). Do đó, <b>bác sĩ nên giữ nguyên phác đồ, khuyên chế độ ăn giảm kali và tiếp tục theo dõi</b>."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 76 tuổi, hạ huyết áp tư thế, tăng huyết áp tâm thu đơn độc",
+      "body": "Bệnh nhân nam 76 tuổi, tiền sử đái tháo đường type 2. Bệnh nhân đang được theo dõi huyết áp ngoại trú.<br><br><b>Đo huyết áp ở tư thế nằm:</b> <b>175/75 mmHg</b>. <br><b>Sau khi đứng dậy 3 phút:</b> bệnh nhân cảm thấy <b>hơi choáng váng, đo lại huyết áp tư thế đứng là 140/65 mmHg</b>. <br><b>Mạch:</b> đều, 70 lần/phút nằm và 85 lần/phút khi đứng.<br><br><b>Khám tim phổi:</b> bình thường, không có tiếng thổi động mạch cảnh.<br><b>Siêu âm tim:</b> phì đại đồng tâm thất trái.",
+      "questions": [
+        {
+          "q": "Chẩn đoán vấn đề huyết áp hiện tại của bệnh nhân là gì?",
+          "options": [
+            "Tăng huyết áp tâm trương đơn độc",
+            "Tăng huyết áp tâm thu đơn độc kèm hạ huyết áp tư thế",
+            "Cơn tăng huyết áp khẩn trương do nhồi máu não",
+            "Rối loạn thần kinh thực vật sau ăn"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân cao tuổi có <b>HA tâm thu >140 và tâm trương <90 (175/75), đây là tăng huyết áp tâm thu đơn độc</b>. Khi đứng, <b>HA giảm xuống 140/65 (tâm thu giảm 35 mmHg) kèm triệu chứng choáng váng, đây là hạ huyết áp tư thế</b> (thường gặp ở người già, ĐTĐ do tổn thương tự chủ)."
+        },
+        {
+          "q": "Nguyên nhân sinh lý bệnh chính gây ra kiểu tăng huyết áp của bệnh nhân này khi nằm là gì?",
+          "options": [
+            "Tăng cung lượng tim do nhịp tim nhanh",
+            "Tăng kháng lực mạch máu ngoại vi do co mạch",
+            "Giảm độ đàn hồi (tăng độ cứng) của các động mạch lớn",
+            "Giữ natri và nước quá mức ở ống thận"
+          ],
+          "answer": 2,
+          "explain": "Ở người cao tuổi, các sợi elastin trong thành động mạch lớn (như động mạch chủ) bị thoái hóa và thay thế bằng collagen, làm <b>giảm độ đàn hồi (compliance) thành mạch</b>. Khi tâm thu tống máu, mạch không giãn ra được làm HA tâm thu vọt lên cao; khi tâm trương, mạch không đàn hồi co lại làm HA tâm trương tụt thấp."
+        },
+        {
+          "q": "Tiêu chuẩn nào sau đây xác định chẩn đoán hạ huyết áp tư thế trên bệnh nhân này?",
+          "options": [
+            "Huyết áp tâm thu giảm ≥ 10 mmHg khi đứng",
+            "Huyết áp tâm thu giảm ≥ 20 mmHg hoặc tâm trương giảm ≥ 10 mmHg khi đứng",
+            "Nhịp tim tăng lên ≥ 15 chu kỳ/phút khi chuyển tư thế",
+            "Bệnh nhân có triệu chứng choáng váng khi đứng dậy"
+          ],
+          "answer": 1,
+          "explain": "Tiêu chuẩn chẩn đoán <b>hạ huyết áp tư thế đứng (Orthostatic hypotension)</b> là sự sụt giảm <b>HA tâm thu ≥ 20 mmHg HOẶC HA tâm trương ≥ 10 mmHg</b> trong vòng 3 phút sau khi chuyển từ tư thế nằm sang đứng."
+        },
+        {
+          "q": "Lựa chọn thuốc hạ áp nào sau đây là phù hợp và an toàn nhất để bắt đầu cho bệnh nhân này?",
+          "options": [
+            "Doxazosin (chẹn alpha-1)",
+            "Amlodipin liều thấp (chẹn kênh canxi)",
+            "Clonidin (chẹn giao cảm trung ương)",
+            "Furosemid liều cao (lợi tiểu quai)"
+          ],
+          "answer": 1,
+          "explain": "Với <b>THA tâm thu người già, chẹn kênh canxi (Amlodipin) hoặc lợi tiểu Thiazide liều thấp là ưu tiên</b>. Chẹn alpha (Doxazosin) hoặc thuốc tác dụng trung ương (Clonidin), hoặc lợi tiểu quai liều cao <b>làm tăng mạnh nguy cơ hạ huyết áp tư thế và té ngã</b>, chống chỉ định tương đối ở người có hạ áp tư thế."
+        },
+        {
+          "q": "Nếu bệnh nhân được sử dụng Amlodipin và sau 1 tháng xuất hiện phù quanh mắt cá chân hai bên (không khó thở, phổi không ran). Cơ chế gây phù này là gì?",
+          "options": [
+            "Tăng áp lực thủy tĩnh mao mạch do giãn tiểu động mạch trước mao mạch",
+            "Suy tim phải cấp tính do tác dụng ức chế cơ tim của thuốc",
+            "Phản ứng dị ứng muộn làm tăng tính thấm thành mạch mao mạch",
+            "Giảm albumin máu do thuốc gây độc tính lên gan"
+          ],
+          "answer": 0,
+          "explain": "Tác dụng phụ kinh điển của chẹn kênh canxi DHP (Amlodipin) là phù ngoại vi. Cơ chế là <b>thuốc làm giãn các tiểu động mạch (trước mao mạch) mạnh hơn nhiều so với tiểu tĩnh mạch (sau mao mạch)</b>. Sự mất cân bằng này làm <b>tăng mạnh áp lực thủy tĩnh bên trong giường mao mạch, đẩy dịch ra khoảng gian bào gây phù</b>. Không phải do suy tim hay dị ứng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi, béo phì, ngáy to, huyết áp khó kiểm soát sáng sớm",
+      "body": "Bệnh nhân nam 50 tuổi, <b>thể trạng béo phì (BMI 33 kg/m²)</b>, đến khám vì <b>buồn ngủ nhiều vào ban ngày và mệt mỏi</b>. <b>Vợ bệnh nhân than phiền ông ngáy rất to và thỉnh thoảng ngưng thở khi ngủ</b>.<br><br>Bệnh nhân đang điều trị tăng huyết áp bằng <b>Telmisartan 40mg và Amlodipin 5mg</b> nhưng <b>đo huyết áp buổi sáng thường xuyên ở mức 155/95 mmHg</b>. Đo chiều và tối HA khoảng 135/85 mmHg.<br><br><b>Xét nghiệm cơ bản:</b> Creatinin, K⁺, Na⁺, Glucose đói bình thường.<br><b>Siêu âm thận, siêu âm tuyến giáp:</b> bình thường.",
+      "questions": [
+        {
+          "q": "Bệnh lý nền nào sau đây là nguyên nhân khả dĩ nhất gây tình trạng huyết áp khó kiểm soát vào buổi sáng ở bệnh nhân này?",
+          "options": [
+            "Trào ngược dạ dày thực quản",
+            "Hội chứng ngưng thở khi ngủ tắc nghẽn (OSA)",
+            "U tủy thượng thận thể ẩn",
+            "Suy giáp cận lâm sàng"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân <b>béo phì, ngáy to, ngưng thở khi ngủ, buồn ngủ ban ngày và có huyết áp tăng chủ yếu vào buổi sáng</b> là hình ảnh kinh điển của <b>Hội chứng ngưng thở khi ngủ tắc nghẽn (OSA)</b> - một nguyên nhân gây tăng huyết áp thứ phát rất phổ biến."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính nối kết bệnh lý nền trên và sự gia tăng huyết áp là gì?",
+          "options": [
+            "Giảm oxy máu ngắt quãng gây cường giao cảm kéo dài",
+            "Tăng tiết cortisol do stress tâm lý ban ngày",
+            "Giữ natri do giảm tưới máu thận tư thế nằm",
+            "Kích thích phế vị quá mức làm tăng sức cản mạch máu"
+          ],
+          "answer": 0,
+          "explain": "Trong OSA, <b>sự xẹp đường thở lặp đi lặp lại gây tình trạng thiếu oxy máu ngắt quãng (intermittent hypoxia) và tăng CO₂</b>, kích thích các hóa thụ quan kích hoạt <b>hệ thần kinh giao cảm quá mức</b>. <b>Hoạt tính giao cảm này kéo dài cả vào ban ngày</b>, gây co mạch và tăng huyết áp."
+        },
+        {
+          "q": "Để xác định chẩn đoán nguyên nhân, chỉ định cận lâm sàng nào sau đây là tiêu chuẩn vàng?",
+          "options": [
+            "Đo Holter huyết áp 24 giờ",
+            "Đo đa ký giấc ngủ (Polysomnography)",
+            "Đo chức năng hô hấp (Hô hấp ký)",
+            "Chụp cắt lớp vi tính đường hô hấp trên"
+          ],
+          "answer": 1,
+          "explain": "<b>Đo đa ký giấc ngủ (Polysomnography) là tiêu chuẩn vàng</b> để chẩn đoán và đánh giá mức độ nặng của hội chứng ngưng thở khi ngủ (dựa vào chỉ số AHI - Apnea-Hypopnea Index)."
+        },
+        {
+          "q": "Đặc điểm kinh điển nhất trên biểu đồ Holter huyết áp 24 giờ ở nhóm bệnh nhân này là gì?",
+          "options": [
+            "Huyết áp tăng vọt ngay sau bữa ăn trưa",
+            "Huyết áp tâm trương giảm sâu vào ban đêm",
+            "Mất hiện tượng chùng huyết áp sinh lý về đêm (Non-dipper)",
+            "Huyết áp tăng cao liên tục không có dao động trong ngày"
+          ],
+          "answer": 2,
+          "explain": "Người bình thường huyết áp sẽ giảm 10-20% trong lúc ngủ (gọi là dipper). Ở bệnh nhân OSA, do các cơn ngưng thở kích thích giao cảm liên tục làm bệnh nhân thức giấc vi thể, <b>huyết áp không hạ xuống lúc ngủ, gọi là kiểu \"non-dipper\"</b> hoặc thậm chí tăng lúc ngủ (\"reverse dipper\")."
+        },
+        {
+          "q": "Xử trí nào sau đây đóng vai trò nền tảng nhất để cải thiện triệt để tình trạng tăng huyết áp ở bệnh nhân này?",
+          "options": [
+            "Đổi Telmisartan sang thuốc chẹn beta giao cảm",
+            "Tăng liều Amlodipin lên mức tối đa 10mg/ngày",
+            "Thở máy áp lực dương liên tục (CPAP) khi ngủ và giảm cân",
+            "Bổ sung thêm Spironolactone vào phác đồ hiện tại"
+          ],
+          "answer": 2,
+          "explain": "<b>Điều trị nguyên nhân gốc rễ</b> là dùng <b>máy thở áp lực dương liên tục (CPAP) để giữ đường thở mở, kết hợp giảm cân</b>. Việc này <b>giúp cải thiện oxy máu, giảm trương lực giao cảm và giúp hạ huyết áp đáng kể</b>, hơn là việc chỉ mù quáng tăng liều thuốc hạ áp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi, đau ngực xé rách, chênh lệch huyết áp hai tay",
+      "body": "Bệnh nhân nam 60 tuổi, tiền sử tăng huyết áp đang dùng Losartan 50mg/ngày, nhập viện cấp cứu vì <b>đau ngực dữ dội, cảm giác như xé rách lồng ngực lan ra sau lưng</b>.<br><br><b>Khám:</b> Bệnh nhân vã mồ hôi, nhăn nhó. Mạch 100 lần/phút. <b>Huyết áp đo tay phải là 210/110 mmHg, đo tay trái là 160/90 mmHg</b>. <b>Nghe tim có tiếng thổi tâm trương 3/6 ở bờ trái xương ức</b>. Phổi không ran.<br><br><b>Điện tâm đồ:</b> nhịp xoang, không có ST chênh lên hay sóng Q.<br><b>Troponin Ths:</b> âm tính.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào sau đây cần được nghĩ tới hàng đầu ở bệnh nhân này?",
+          "options": [
+            "Nhồi máu cơ tim cấp có ST chênh lên",
+            "Bóc tách động mạch chủ ngực cấp tính",
+            "Cơn đau thắt ngực không ổn định",
+            "Viêm màng ngoài tim cấp tính"
+          ],
+          "answer": 1,
+          "explain": "<b>Bệnh cảnh đau ngực xé lan ra lưng, huyết áp cực kỳ cao, chênh lệch huyết áp hai tay > 20 mmHg và tiếng thổi tâm trương mới xuất hiện (hở van chủ)</b> cực kỳ điển hình cho <b>bóc tách động mạch chủ ngực (type A)</b>. Troponin (-) và ECG bình thường giúp loại trừ nhồi máu cơ tim."
+        },
+        {
+          "q": "Cơ chế gây ra tiếng thổi tâm trương ở bệnh nhân này là gì?",
+          "options": [
+            "Tổn thương dây chằng van hai lá gây hở van hai lá cấp",
+            "Giãn gốc động mạch chủ hoặc rách lá van gây hở van chủ cấp",
+            "Âm thổi do máu cuộn xoáy trong lòng giả động mạch chủ",
+            "Viêm dính màng ngoài tim tạo tiếng cọ màng tim"
+          ],
+          "answer": 1,
+          "explain": "Trong bóc tách động mạch chủ type A (liên quan đến động mạch chủ lên), <b>vách bóc tách có thể lan xuống gốc động mạch chủ làm giãn vòng van hoặc phá vỡ cấu trúc treo các lá van</b>, dẫn đến <b>hở van động mạch chủ cấp tính, tạo tiếng thổi tâm trương</b>."
+        },
+        {
+          "q": "Xét nghiệm hình ảnh học nào sau đây là ưu tiên để chẩn đoán xác định nhanh chóng bệnh lý trên?",
+          "options": [
+            "Chụp cắt lớp vi tính động mạch chủ có cản quang",
+            "Chụp cộng hưởng từ (MRI) lồng ngực",
+            "X-quang ngực thẳng tại giường",
+            "Chụp động mạch vành qua da"
+          ],
+          "answer": 0,
+          "explain": "<b>Chụp CT scan động mạch chủ có cản quang (CT Angiography) là tiêu chuẩn vàng</b>, thực hiện nhanh chóng giúp <b>xác định có bóc tách, phân loại type A hay B, và đánh giá nhánh động mạch nào bị ảnh hưởng</b>. X-quang (trung thất rộng) có độ nhạy thấp, MRI quá chậm cho cấp cứu."
+        },
+        {
+          "q": "Thuốc đường tĩnh mạch nào sau đây là lựa chọn ĐẦU TIÊN trong phác đồ xử trí cấp cứu cho bệnh nhân?",
+          "options": [
+            "Nitroglycerin truyền tĩnh mạch",
+            "Nitroprusside truyền tĩnh mạch",
+            "Esmolol truyền tĩnh mạch",
+            "Nicardipin truyền tĩnh mạch"
+          ],
+          "answer": 2,
+          "explain": "Mục tiêu tối thượng là <b>giảm lực xé thành mạch (dP/dt) và giảm áp lực máu</b>. <b>BẮT BUỘC phải dùng chẹn beta đường tĩnh mạch (Esmolol, Labetalol) ĐẦU TIÊN</b> để giảm nhịp tim và sức co bóp. Nếu dùng thuốc giãn mạch (như Nitroprusside/Nicardipine) trước, phản xạ nhịp nhanh sẽ làm tăng dP/dt và xé toạc động mạch chủ nhanh hơn."
+        },
+        {
+          "q": "Một giờ sau, bệnh nhân đột ngột tụt huyết áp xuống 80/50 mmHg, tĩnh mạch cổ nổi to, tiếng tim mờ xa xăm. Biến chứng nào sau đây khả dĩ nhất vừa xảy ra?",
+          "options": [
+            "Nhồi máu cơ tim thất phải do tắc lỗ vào vành phải",
+            "Vỡ lòng giả động mạch chủ vào khoang màng ngoài tim gây chèn ép tim cấp",
+            "Tràn máu màng phổi trái số lượng lớn gây sốc mất máu",
+            "Sốc phản vệ do phản ứng với thuốc cản quang"
+          ],
+          "answer": 1,
+          "explain": "<b>Tam chứng Beck: Tụt huyết áp, tĩnh mạch cổ nổi, tiếng tim mờ</b> là dấu hiệu của <b>chèn ép tim cấp (Cardiac tamponade)</b>. Ở bệnh nhân bóc tách động mạch chủ lên (type A), <b>máu từ lòng giả rất dễ vỡ rỉ vào khoang màng ngoài tim, gây tràn máu màng tim cấp và sốc tim tử vong cực nhanh</b>."
         }
       ]
     }
