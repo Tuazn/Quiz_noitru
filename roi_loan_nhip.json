@@ -1,0 +1,510 @@
+{
+  "name": "Rối loạn nhịp",
+  "description": "Bộ đề case lâm sàng về rối loạn nhịp tim - Ôn thi nội trú",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Tim mạch",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 68 tuổi, hồi hộp, đánh trống ngực 3 ngày",
+      "body": "Bệnh nhân nam 68 tuổi, về hưu, vào viện vì hồi hộp, đánh trống ngực và khó thở tăng lên trong 3 ngày. Tiền sử: tăng huyết áp 10 năm, đái tháo đường type 2 năm năm, suy tim với EF 40%. Đang điều trị: Perindopril 5mg/ngày, Metoprolol succinate 50mg/ngày, Dapagliflozin 10mg/ngày, Rosuvastatin 10mg/ngày.<br><br><b>Khám lâm sàng:</b> Tỉnh, tiếp xúc tốt, BMI 24 kg/m², mạch quay không đều, tần số 130 lần/phút, HA 100/60 mmHg, nhịp thở 24 lần/phút, SpO₂ 94%. Tĩnh mạch cổ nổi rõ ở tư thế 45 độ, phù mềm ấn lõm hai chi dưới. Tim loạn nhịp hoàn toàn, có tiếng T3 ở mỏm. Phổi có ran ẩm rải rác hai đáy.<br><br><b>Cận lâm sàng:</b> NT-proBNP 4500 pg/mL, Troponin T hs 18 ng/L, Na⁺ 138 mmol/L, K⁺ 4.2 mmol/L, Creatinin 110 µmol/L. <b>ECG:</b> Nhịp không đều, không thấy sóng P rõ, sóng f lăn tăn, tần số thất 140 chu kỳ/phút, QRS hẹp.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất với bệnh nhân này là gì?",
+          "options": [
+            "Nhịp nhanh trên thất kịch phát",
+            "Rung nhĩ đáp ứng thất nhanh trên nền suy tim mạn mất bù cấp",
+            "Cuồng nhĩ đáp ứng thất thay đổi",
+            "Nhịp nhanh thất"
+          ],
+          "answer": 1,
+          "explain": "Dựa trên ECG (mất sóng P, sóng f lăn tăn, RR không đều, QRS hẹp, tần số thất nhanh) và lâm sàng (mạch không đều, tim loạn nhịp hoàn toàn), chẩn đoán rung nhĩ đáp ứng thất nhanh là rõ ràng. Tình trạng khó thở, ran ẩm ở phổi, tĩnh mạch cổ nổi và NT-proBNP tăng cao cho thấy đợt cấp mất bù của suy tim mạn."
+        },
+        {
+          "q": "Cơ chế chính gây ra tình trạng mất bù cấp của suy tim ở bệnh nhân này là gì?",
+          "options": [
+            "Tăng hậu gánh đột ngột do co mạch",
+            "Mất sự đồng bộ co bóp của nhĩ và thất, kèm theo tần số thất quá nhanh làm giảm thời gian đổ đầy thất",
+            "Thiếu máu cơ tim cấp do nhịp tim nhanh",
+            "Rối loạn chức năng tâm trương do tăng gánh thể tích"
+          ],
+          "answer": 1,
+          "explain": "Trong rung nhĩ, sự co bóp của tâm nhĩ không còn hiệu quả (mất 'nhĩ thu'), làm giảm 20-30% lượng máu đổ đầy thất cuối tâm trương. Khi tần số thất quá nhanh, thời gian tâm trương bị rút ngắn nghiêm trọng, làm giảm thêm cung lượng tim. Hai yếu tố này kết hợp lại là nguyên nhân chính gây suy tim mất bù."
+        },
+        {
+          "q": "Mục tiêu kiểm soát tần số tim trong giai đoạn cấp ở bệnh nhân này là gì?",
+          "options": [
+            "Dưới 80 lần/phút",
+            "Dưới 110 lần/phút",
+            "Dưới 100 lần/phút",
+            "Dưới 90 lần/phút"
+          ],
+          "answer": 1,
+          "explain": "Theo khuyến cáo của Hội Tim mạch Châu Âu (ESC), ở bệnh nhân rung nhĩ có triệu chứng, mục tiêu kiểm soát tần số thất ban đầu là đưa tần số xuống dưới 110 lần/phút (chiến lược kiểm soát tần số lỏng lẻo) để cải thiện triệu chứng và huyết động."
+        },
+        {
+          "q": "Can thiệp nào sau đây là ưu tiên hàng đầu để kiểm soát nhịp và cải thiện huyết động cho bệnh nhân?",
+          "options": [
+            "Sử dụng ngay Amiodarone đường tĩnh mạch",
+            "Sốc điện chuyển nhịp đồng bộ ngay lập tức",
+            "Sử dụng Digoxin đường tĩnh mạch để kiểm soát tần số thất",
+            "Tăng liều Metoprolol đường uống"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có huyết động không ổn định (HA 100/60 mmHg, có dấu hiệu suy tim cấp). Tuy nhiên, sốc điện ngay không được ưu tiên nếu bệnh nhân còn tỉnh táo. Digoxin đường tĩnh mạch là lựa chọn hợp lý để làm chậm dẫn truyền qua nút nhĩ thất, kiểm soát tần số thất nhanh chóng mà ít gây tụt huyết áp hơn so với chẹn beta hay chẹn kênh canxi."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 24 tuổi, sinh viên, hồi hộp đột ngột 1 giờ",
+      "body": "Bệnh nhân nữ 24 tuổi, sinh viên, được đưa vào khoa cấp cứu vì cảm giác hồi hộp, trống ngực dữ dội khởi phát đột ngột 1 giờ khi đang ngồi học. Mô tả: tim đập rất nhanh, đều, cảm giác 'như có con ngựa đang phi trong lồng ngực', kèm theo chóng mặt nhẹ và khó thở. Cơn khởi phát và kết thúc đột ngột. Chưa từng bị trước đây, không tiền sử bệnh tim mạch, không sử dụng chất kích thích, không đang trong chu kỳ kinh nguyệt.<br><br><b>Khám toàn thân:</b> Tỉnh táo, lo lắng, mạch quay đều, rất nhanh (khoảng 180 lần/phút), HA 100/70 mmHg, nhịp thở 22 lần/phút, SpO₂ 99%, BMI 20 kg/m². Tim rất nhanh và đều, không tiếng thổi. Phổi thông khí rõ, không ran. Bụng mềm.<br><br><b>Cận lâm sàng:</b> Troponin T hs < 5 ng/L, công thức máu bình thường, Na⁺ 140 mmol/L, K⁺ 4.0 mmol/L, chức năng tuyến giáp bình thường. <b>ECG:</b> Nhịp rất đều, tần số 185 chu kỳ/phút, QRS hẹp (0.08 giây), không thấy rõ sóng P đi trước mỗi QRS, trục điện tim trung gian.",
+      "questions": [
+        {
+          "q": "Chẩn đoán có khả năng nhất là gì?",
+          "options": [
+            "Rung nhĩ đáp ứng thất nhanh",
+            "Nhịp nhanh xoang không phù hợp",
+            "Nhịp nhanh trên thất kịch phát (AVNRT hoặc AVRT)",
+            "Nhịp nhanh thất"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh khởi phát và kết thúc đột ngột ở người trẻ, khỏe mạnh, cùng với ECG có nhịp nhanh, đều, QRS hẹp là điển hình của nhịp nhanh trên thất kịch phát (PSVT). Rung nhĩ thường có nhịp không đều. Nhịp nhanh xoang thường có sóng P đi trước và tần số hiếm khi > 160-170 lần/phút khi nghỉ. Nhịp nhanh thất thường có QRS giãn rộng."
+        },
+        {
+          "q": "Cơ chế điện sinh lý nào giải thích rõ nhất cho cơn nhịp nhanh của bệnh nhân?",
+          "options": [
+            "Tăng tính tự động của một ổ ngoại vị trong tâm nhĩ",
+            "Rối loạn chức năng nút xoang",
+            "Vòng vào lại tại nút nhĩ thất hoặc vòng vào lại nhĩ thất sử dụng đường dẫn truyền phụ",
+            "Tăng tính tự động của các tế bào Purkinje trong tâm thất"
+          ],
+          "answer": 2,
+          "explain": "Cơ chế phổ biến nhất của PSVT là do vòng vào lại. Có hai loại chính: nhịp nhanh vào lại tại nút nhĩ thất (AVNRT) do tồn tại hai đường dẫn truyền trong nút nhĩ thất (đường nhanh và đường chậm), và nhịp nhanh vào lại nhĩ thất (AVRT) do có một đường dẫn truyền phụ nối tắt giữa tâm nhĩ và tâm thất (hội chứng WPW)."
+        },
+        {
+          "q": "Biện pháp can thiệp đầu tay và ít xâm lấn nhất để cắt cơn nhịp nhanh này tại phòng cấp cứu là gì?",
+          "options": [
+            "Sốc điện chuyển nhịp",
+            "Tiêm Adenosine tĩnh mạch",
+            "Tiêm Amiodarone tĩnh mạch",
+            "Thực hiện các nghiệm pháp cường phế vị (Valsalva, xoa xoang cảnh)"
+          ],
+          "answer": 3,
+          "explain": "Đối với bệnh nhân có huyết động ổn định, các nghiệm pháp cường phế vị luôn là lựa chọn đầu tiên vì tính an toàn, không xâm lấn và có thể hiệu quả. Các nghiệm pháp này làm tăng trương lực phó giao cảm, làm chậm dẫn truyền qua nút nhĩ thất và có thể cắt được vòng vào lại."
+        },
+        {
+          "q": "Nếu các nghiệm pháp ban đầu thất bại, thuốc nào sau đây là lựa chọn ưu tiên để cắt cơn cho bệnh nhân có huyết động ổn định?",
+          "options": [
+            "Digoxin",
+            "Verapamil",
+            "Adenosine",
+            "Metoprolol"
+          ],
+          "answer": 2,
+          "explain": "Adenosine là thuốc được lựa chọn hàng đầu để cắt cơn PSVT khi các nghiệm pháp cường phế vị thất bại. Thuốc có thời gian bán hủy cực ngắn (vài giây), tác động bằng cách ức chế mạnh và tạm thời nút nhĩ thất, qua đó phá vỡ vòng vào lại. Verapamil và Metoprolol cũng có thể được sử dụng nhưng không phải là lựa chọn ưu tiên hàng đầu. Digoxin có tác dụng chậm hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 75 tuổi, ngất đột ngột, mạch chậm 35 lần/phút",
+      "body": "Bệnh nhân nam 75 tuổi, tiền sử tăng huyết áp và bệnh mạch vành đã đặt stent 5 năm trước, vào viện vì ngất đột ngột. Đang đi bộ trong nhà thì đột ngột thấy hoa mắt, chóng mặt, ngã xuống, bất tỉnh 30 giây, sau đó tự tỉnh lại, không co giật. Vài tuần nay: chóng mặt thoáng qua, đặc biệt khi thay đổi tư thế.<br><br><b>Thuốc:</b> Aspirin 81mg/ngày, Clopidogrel 75mg/ngày, Atorvastatin 40mg/ngày, Amlodipine 5mg/ngày, Bisoprolol 2.5mg/ngày.<br><br><b>Khám:</b> Tỉnh, tiếp xúc chậm, da xanh, niêm mạc nhợt. Mạch quay rất chậm, đều, tần số 35 lần/phút, HA 90/50 mmHg, nhịp thở 18 lần/phút. Nghe tim có tiếng 'đại bác' (cannon 'a' waves) không hằng định, nhịp tim đều, rất chậm. Phổi trong, không ran. Không có dấu thần kinh khu trú.<br><br><b>Cận lâm sàng:</b> K⁺ 4.1 mmol/L, Mg²⁺ 0.85 mmol/L, Troponin T hs 25 ng/L (tăng nhẹ). <b>ECG:</b> Sóng P xuất hiện đều đặn với tần số 80 lần/phút, QRS giãn rộng (0.14 giây), cũng xuất hiện đều đặn với tần số 36 lần/phút. Không có bất kỳ mối liên hệ giữa sóng P và QRS.",
+      "questions": [
+        {
+          "q": "Rối loạn nhịp tim trên ECG của bệnh nhân được gọi là gì?",
+          "options": [
+            "Block nhĩ thất cấp II Mobitz II",
+            "Block nhĩ thất cấp III (hoàn toàn)",
+            "Nhịp bộ nối thoát",
+            "Rối loạn chức năng nút xoang"
+          ],
+          "answer": 1,
+          "explain": "ECG mô tả sự phân ly hoàn toàn giữa hoạt động của nhĩ (sóng P) và hoạt động của thất (phức bộ QRS), đây là dấu hiệu kinh điển của block nhĩ thất cấp III. Nhịp thất là nhịp thoát có nguồn gốc từ dưới nút nhĩ thất (vì QRS giãn rộng), tần số rất chậm."
+        },
+        {
+          "q": "Nguyên nhân nào có khả năng nhất gây ra tình trạng block nhĩ thất hoàn toàn ở bệnh nhân này?",
+          "options": [
+            "Tác dụng phụ của Bisoprolol",
+            "Nhồi máu cơ tim cấp thành dưới",
+            "Thoái hóa hệ thống dẫn truyền liên quan đến tuổi",
+            "Tăng kali máu"
+          ],
+          "answer": 2,
+          "explain": "Mặc dù Bisoprolol có thể làm chậm nhịp tim, nguyên nhân phổ biến nhất gây block nhĩ thất hoàn toàn ở người lớn tuổi là do quá trình xơ hóa và thoái hóa tự phát của hệ thống dẫn truyền (bệnh Lenegre hoặc bệnh Lev). Nhồi máu cơ tim cấp cũng là nguyên nhân quan trọng nhưng bệnh nhân không có đau ngực điển hình. Kali máu bình thường."
+        },
+        {
+          "q": "Tiếng 'đại bác' nghe được ở tim bệnh nhân có cơ chế hình thành như thế nào?",
+          "options": [
+            "Do hở van động mạch chủ cấp",
+            "Do tâm nhĩ và tâm thất co bóp đồng thời một cách ngẫu nhiên khi van ba lá/hai lá đang đóng",
+            "Do rung các lá van nhân tạo",
+            "Do dòng máu chảy xiết qua van động mạch chủ bị hẹp"
+          ],
+          "answer": 1,
+          "explain": "Tiếng 'đại bác' là một dấu hiệu lâm sàng của block nhĩ thất hoàn toàn. Nó xảy ra khi tâm nhĩ co bóp (sóng P trên ECG) một cách tình cờ đúng vào lúc tâm thất đang co (phức bộ QRS), lúc này van hai lá và ba lá đang đóng kín. Việc nhĩ co bóp tống máu vào một van đã đóng tạo ra một tiếng T1 rất mạnh, gọi là tiếng 'đại bác'."
+        },
+        {
+          "q": "Xử trí cấp cứu ban đầu nào là quan trọng nhất và cần được thực hiện ngay lập tức?",
+          "options": [
+            "Ngừng ngay Bisoprolol và Amlodipine",
+            "Truyền Isoproterenol hoặc Atropine tĩnh mạch",
+            "Đặt máy tạo nhịp tạm thời qua da hoặc qua đường tĩnh mạch",
+            "Chuẩn bị sốc điện ngoài lồng ngực"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có triệu chứng nặng (ngất) và huyết động không ổn định (HA 90/50 mmHg) do nhịp tim quá chậm. Các thuốc như Atropine thường không hiệu quả với block nhĩ thất hoàn toàn có nhịp thoát thất (QRS rộng). Việc đặt máy tạo nhịp tạm thời là can thiệp cứu mạng, giúp nâng tần số tim và ổn định huyết động ngay lập tức, là cầu nối cho việc cấy máy tạo nhịp vĩnh viễn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 60 tuổi, chóng mặt, đánh trống ngực, co giật",
+      "body": "Bệnh nhân nữ 60 tuổi, vào viện vì nhiều cơn chóng mặt, đánh trống ngực và một cơn ngất ngắn. Tiền sử: tăng huyết áp điều trị bằng Hydrochlorothiazide 25mg/ngày, đái tháo đường type 2. 1 tuần nay: tiêu chảy nhiều lần trong ngày sau khi ăn thức ăn lạ. Vẫn uống thuốc huyết áp đều đặn.<br><br><b>Khám:</b> Tại khoa cấp cứu, bệnh nhân đột ngột lên cơn co giật toàn thân. Monitor ghi nhận chuỗi nhịp nhanh, QRS giãn rộng, hình dạng thay đổi liên tục, xoay quanh đường đẳng điện (giống hình xoắn). Cơn kéo dài 20 giây và tự kết thúc. Sau cơn: lơ mơ, da niêm mạc khô. Mạch 90 lần/phút, HA 110/70 mmHg, nhiệt độ 37°C. Tim nhịp xoang, không tiếng thổi. Phổi không ran. Bụng mềm.<br><br><b>Cận lâm sàng:</b> Na⁺ 135 mmol/L, K⁺ 2.5 mmol/L, Mg²⁺ 0.6 mmol/L, Creatinin 90 µmol/L. <b>ECG (lúc có nhịp xoang):</b> QTc kéo dài 560ms (bình thường < 460ms ở nữ).",
+      "questions": [
+        {
+          "q": "Rối loạn nhịp tim được ghi nhận trên monitor của bệnh nhân là gì?",
+          "options": [
+            "Rung thất",
+            "Nhịp nhanh thất đơn hình thái",
+            "Xoắn đỉnh (Torsades de Pointes)",
+            "Rung nhĩ đáp ứng thất nhanh dẫn truyền lệch hướng"
+          ],
+          "answer": 2,
+          "explain": "Mô tả nhịp nhanh, QRS rộng, hình thái thay đổi và xoay quanh đường đẳng điện là đặc điểm kinh điển của xoắn đỉnh, một dạng đặc biệt của nhịp nhanh thất đa hình thái."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây ra rối loạn nhịp này là gì?",
+          "options": [
+            "Tăng tính tự động của nút xoang",
+            "Vòng vào lại trong tâm thất do sẹo nhồi máu cơ tim cũ",
+            "Hoạt động khởi kích do hậu khử cực sớm (early afterdepolarizations) trong bối cảnh tái cực thất kéo dài",
+            "Dẫn truyền qua đường phụ có chu kỳ trơ ngắn"
+          ],
+          "answer": 2,
+          "explain": "Xoắn đỉnh xảy ra trên nền một khoảng QT kéo dài. Sự kéo dài giai đoạn tái cực (giai đoạn 2 và 3 của điện thế hoạt động) tạo điều kiện cho các kênh Canxi loại L tái hoạt động, gây ra các hậu khử cực sớm. Nếu các hậu khử cực này đạt đến ngưỡng, chúng sẽ khởi kích một chuỗi các nhịp nhanh thất."
+        },
+        {
+          "q": "Yếu tố nào sau đây là nguyên nhân trực tiếp gây ra tình trạng tái cực thất kéo dài (QTc dài) và khởi phát xoắn đỉnh ở bệnh nhân này?",
+          "options": [
+            "Tăng huyết áp",
+            "Tác dụng của Hydrochlorothiazide gây hạ Kali và Magie máu, nặng thêm do tiêu chảy",
+            "Bệnh đái tháo đường",
+            "Nhiễm toan ceton"
+          ],
+          "answer": 1,
+          "explain": "Thuốc lợi tiểu Thiazide (Hydrochlorothiazide) là một nguyên nhân phổ biến gây mất Kali và Magie qua nước tiểu. Tình trạng tiêu chảy cấp làm nặng thêm tình trạng mất điện giải này. Hạ Kali và Magie máu là những yếu tố nguy cơ hàng đầu gây kéo dài khoảng QT và khởi phát xoắn đỉnh."
+        },
+        {
+          "q": "Điều trị cấp cứu ưu tiên hàng đầu để chấm dứt cơn xoắn đỉnh và phòng ngừa tái phát là gì?",
+          "options": [
+            "Tiêm Amiodarone tĩnh mạch",
+            "Truyền Magnesium Sulfate tĩnh mạch",
+            "Sốc điện phá rung",
+            "Tiêm Lidocaine tĩnh mạch"
+          ],
+          "answer": 1,
+          "explain": "Magnesium Sulfate đường tĩnh mạch là điều trị được lựa chọn hàng đầu cho xoắn đỉnh, bất kể nồng độ Magie trong máu ban đầu là bao nhiêu. Magie giúp ổn định màng tế bào cơ tim và ức chế các hậu khử cực sớm. Bù Kali cũng rất quan trọng. Sốc điện chỉ được dùng nếu có rối loạn huyết động. Amiodarone và Lidocaine thường không hiệu quả."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi, nhồi máu cơ tim cũ, ICD, nhịp nhanh 160 lần/phút",
+      "body": "Bệnh nhân nam 65 tuổi, thợ xây, vào viện vì hồi hộp, trống ngực, khó thở và vã mồ hôi. Tiền sử: nhồi máu cơ tim thành trước rộng 2 năm trước, EF 35%, đã cấy ICD.<br><br><b>Bệnh sử:</b> 30 phút trước, đang xem TV thì đột ngột cảm thấy tim đập rất nhanh, mạnh, hụt hơi, choáng váng. Không cảm thấy máy ICD sốc điện.<br><br><b>Khám:</b> Tỉnh nhưng mệt, da tái lạnh, ẩm. Mạch quay nhanh, nhẹ, khó bắt, tần số 160 lần/phút, HA 85/55 mmHg, nhịp thở 26 lần/phút, SpO₂ 92%. Tim nhịp rất nhanh, đều, tiếng ngựa phi. Phổi có ít ran ẩm ở đáy.<br><br><b>Cận lâm sàng:</b> K⁺ 3.8 mmol/L, Mg²⁺ 0.8 mmol/L. <b>ECG:</b> Nhịp nhanh, đều, tần số 155 chu kỳ/phút, QRS giãn rộng (0.16 giây), block nhánh phải, trục vô định. Không thấy sóng P liên quan đến QRS. So với ECG cũ: hình dạng QRS hoàn toàn khác biệt.",
+      "questions": [
+        {
+          "q": "Chẩn đoán rối loạn nhịp của bệnh nhân này là gì?",
+          "options": [
+            "Nhịp nhanh trên thất dẫn truyền lệch hướng",
+            "Nhịp nhanh thất bền bỉ",
+            "Rung nhĩ đáp ứng thất nhanh trên nền có block nhánh từ trước",
+            "Nhịp nhanh do vòng vào lại bó nhánh"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có tiền sử bệnh tim cấu trúc (sẹo NMCT), lâm sàn có rối loạn huyết động và ECG cho thấy nhịp nhanh, đều, QRS rộng. Đây là bộ ba kinh điển của nhịp nhanh thất (VT). Cơn kéo dài > 30 giây nên được gọi là VT bền bỉ."
+        },
+        {
+          "q": "Cơ chế điện sinh lý khả dĩ nhất gây ra cơn nhịp nhanh này là gì?",
+          "options": [
+            "Tăng tính tự động của một ổ trong thất",
+            "Hoạt động khởi kích do hậu khử cực muộn",
+            "Một vòng vào lại hình thành quanh vùng sẹo nhồi máu cơ tim cũ",
+            "Rối loạn chức năng của máy tạo nhịp"
+          ],
+          "answer": 2,
+          "explain": "Trên nền bệnh tim cấu trúc, đặc biệt là sẹo nhồi máu cũ, cơ chế phổ biến nhất của VT là vòng vào lại. Vùng sẹo (mô chết) và vùng ranh giới (mô sống xen kẽ mô sẹo) tạo ra các đường dẫn truyền có tốc độ và chu kỳ trơ khác nhau, hình thành một vòng vào lại bền vững."
+        },
+        {
+          "q": "Tình trạng huyết động của bệnh nhân (HA 85/55 mmHg) cho thấy điều gì và hướng xử trí tiếp theo là gì?",
+          "options": [
+            "Huyết động ổn định, có thể dùng thuốc",
+            "Nhịp nhanh thất không ổn định về huyết động, cần sốc điện chuyển nhịp đồng bộ ngay",
+            "Sốc tim, cần đặt bóng đối xung nội động mạch chủ",
+            "Tụt huyết áp tư thế, cần truyền dịch"
+          ],
+          "answer": 1,
+          "explain": "Huyết áp tâm thu < 90 mmHg kèm theo các dấu hiệu giảm tưới máu (da lạnh, ẩm) là tiêu chuẩn của nhịp nhanh thất không ổn định về huyết động. Xử trí cấp cứu bắt buộc trong trường hợp này là sốc điện chuyển nhịp đồng bộ khẩn cấp, không trì hoãn bằng việc thử thuốc."
+        },
+        {
+          "q": "Ngoài việc cắt cơn cấp cứu, chiến lược điều trị lâu dài nào là quan trọng nhất để phòng ngừa đột tử do rối loạn nhịp ở bệnh nhân này?",
+          "options": [
+            "Dùng thuốc chống loạn nhịp nhóm I (Procainamide)",
+            "Triệt đốt ổ loạn nhịp bằng sóng cao tần (RFCA)",
+            "Tối ưu hóa điều trị suy tim và đảm bảo máy ICD hoạt động tốt",
+            "Phẫu thuật bắc cầu nối chủ vành"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân đã có ICD để phòng ngừa đột tử, đây là biện pháp quan trọng nhất. Việc cần làm là tối ưu hóa điều trị nội khoa suy tim (chẹn beta, ARNI/ACEI, MRA) để giảm gánh nặng cho tim và giảm tần suất xuất hiện VT. Triệt đốt RFCA có thể được cân nhắc nếu các cơn VT tái phát thường xuyên gây sốc ICD."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 80 tuổi, chóng mặt, rung nhĩ kịch phát, ngưng xoang dài",
+      "body": "Bệnh nhân nữ 80 tuổi, vào viện vì nhiều đợt chóng mặt và một lần suýt ngất trong tháng qua. Tiền sử: tăng huyết áp được kiểm soát tốt với Losartan 50mg/ngày.<br><br><b>Bệnh sử:</b> Cơn chóng mặt thường xảy ra đột ngột, kéo dài vài giây đến vài phút, không liên quan đến thay đổi tư thế. Có lúc tim đập rất nhanh/hồi hộp, sau đó đột ngột tim ngừng đập vài giây gây hẫng hụt, choáng váng. Không đau ngực, không khó thở thường xuyên.<br><br><b>Khám:</b> Tỉnh, gầy, BMI 19 kg/m². Mạch quay lúc khám rất chậm, khoảng 45 lần/phút, không đều. HA 130/70 mmHg. Tim, phổi, các cơ quan khác không bất thường.<br><br><b>ECG lúc vào viện:</b> Nhịp xoang chậm, tần số 48 chu kỳ/phút, ngưng xoang kéo dài 2.8 giây.<br><br><b>Holter ECG 24 giờ:</b> Nhịp xoang chậm, tần số TB 52 lần/phút (thấp nhất 35 lần/phút, cao nhất 95 lần/phút). Nhiều đoạn ngưng xoang dài nhất 4.2 giây gây triệu chứng. Một cơn rung nhĩ kịch phát kéo dài 15 phút, tần số thất 130-150 lần/phút. Sau khi rung nhĩ tự kết thúc là ngưng tim dài 5.1 giây.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất với tình trạng của bệnh nhân là gì?",
+          "options": [
+            "Block nhĩ thất cấp III",
+            "Phản xạ quá mẫn xoang cảnh",
+            "Hội chứng suy nút xoang, thể nhịp nhanh-nhịp chậm",
+            "Tác dụng phụ của Losartan"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh lâm sàn với các triệu chứng liên quan đến cả nhịp chậm (ngưng xoang, nhịp xoang chậm) và nhịp nhanh (rung nhĩ kịch phát) là điển hình của Hội chứng suy nút xoang, thể nhịp nhanh-nhịp chậm (tachy-brady syndrome)."
+        },
+        {
+          "q": "Cơ chế của các cơn nhịp nhanh kịch phát (rung nhĩ) xen kẽ với các khoảng ngưng xoang dài sau khi kết thúc cơn được giải thích như thế nào trong hội chứng này?",
+          "options": [
+            "Do thiếu máu cục bộ tại nút xoang",
+            "Do vòng vào lại tại nút nhĩ thất",
+            "Nút xoang bị thoái hóa và mất chức năng điều hòa; các ổ phát nhịp ngoại vị ở nhĩ tăng tính tự động gây nhịp nhanh; sau cơn nhịp nhanh, nút xoang bị 'ức chế quá mức' nên cần thời gian dài để hồi phục",
+            "Do cường phó giao cảm quá mức"
+          ],
+          "answer": 2,
+          "explain": "Cơ chế của thể bệnh này là sự thoái hóa của nút xoang, làm nó mất khả năng làm chủ nhịp. Điều này tạo điều kiện cho các ổ phát nhịp khác trong tâm nhĩ trỗi dậy, gây ra các cơn nhịp nhanh như rung nhĩ. Khi cơn nhịp nhanh kết thúc, nút xoang vốn đã bị bệnh lại bị ức chế thêm bởi tần số nhanh trước đó, dẫn đến một khoảng ngưng kéo dài trước khi nó có thể phát xung trở lại."
+        },
+        {
+          "q": "Tại sao việc chỉ định các thuốc chẹn beta giao cảm hoặc chẹn kênh canxi để kiểm soát tần số trong cơn rung nhĩ ở bệnh nhân này lại rất nguy hiểm?",
+          "options": [
+            "Vì các thuốc này có thể gây hạ huyết áp",
+            "Vì các thuốc này có thể gây kéo dài khoảng QT",
+            "Vì chúng sẽ làm ức chế thêm nút xoang và nút nhĩ thất, gây các khoảng ngưng tim dài hơn khi bệnh nhân hết cơn rung nhĩ",
+            "Vì bệnh nhân đã lớn tuổi, có nguy cơ cao bị tác dụng phụ"
+          ],
+          "answer": 2,
+          "explain": "Các thuốc làm chậm nhịp tim (chẹn beta, chẹn kênh canxi, digoxin) được dùng để kiểm soát tần số thất trong cơn rung nhĩ. Tuy nhiên, ở bệnh nhân có hội chứng nhịp nhanh-nhịp chậm, các thuốc này sẽ làm tình trạng nhịp chậm cơ bản trở nên tồi tệ hơn, có thể gây ngất hoặc thậm chí tử vong."
+        },
+        {
+          "q": "Phương pháp điều trị tối ưu và triệt để nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Sử dụng thuốc Atropine đường uống kéo dài",
+            "Triệt đốt rung nhĩ bằng sóng cao tần",
+            "Cấy máy tạo nhịp tim vĩnh viễn (hai buồng)",
+            "Theo dõi định kỳ và không can thiệp"
+          ],
+          "answer": 2,
+          "explain": "Điều trị tối ưu cho bệnh nhân có triệu chứng của hội chứng suy nút xoang là cấy máy tạo nhịp tim vĩnh viễn. Máy tạo nhịp sẽ 'bảo vệ' bệnh nhân khỏi các cơn nhịp chậm, đảm bảo một tần số tim tối thiểu. Sau khi đã cấy máy, bác sĩ có thể yên tâm sử dụng các thuốc chẹn beta hoặc chẹn kênh canxi để kiểm soát các cơn nhịp nhanh mà không sợ gây ra nhịp quá chậm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi, doanh nhân, cảm giác tim 'bỏ một nhịp' rồi đập mạnh",
+      "body": "Bệnh nhân nam 55 tuổi, doanh nhân, đến khám vì cảm giác 'hẫng hụt' và 'nhói' ở ngực vài tháng nay. Mô tả: thỉnh thoảng cảm giác tim 'bỏ một nhịp' rồi sau đó nhịp đập rất mạnh. Triệu chứng xuất hiện không liên quan đến gắng sức, có khi xảy ra lúc nghỉ, dường như tăng lên khi căng thẳng hoặc mất ngủ. Không tiền sử bệnh tim mạch, không đau ngực thực sự, không khó thở. Hút thuốc lá 20 gói.năm, uống rượu xã giao.<br><br><b>Khám:</b> Tỉnh, thể trạng tốt, BMI 25 kg/m². Mạch quay lúc đều lúc có nhát đến sớm, tần số TB 75 lần/phút, HA 130/80 mmHg. Tim nghe có nhát bóp đến sớm, sau đó khoảng nghỉ bù. Phổi trong. <b>ECG:</b> Nhịp xoang, xen kẽ phức bộ QRS đến sớm, giãn rộng (0.15 giây), biến dạng, không sóng P đi trước, ít nhất 3 hình dạng QRS của ngoại tâm thu khác nhau.<br><br><b>Holter ECG 24h:</b> Tổng PVC 18.000 nhát (18% tổng nhịp), nhiều cặp PVC, vài cơn nhịp nhanh thất ngắn (3-5 nhịp). <b>Siêu âm tim:</b> Chức năng tâm thu thất trái bình thường (EF 60%), không rối loạn vận động vùng, không bệnh van hay bệnh cơ tim.",
+      "questions": [
+        {
+          "q": "Mô tả phù hợp nhất cho rối loạn nhịp của bệnh nhân là gì?",
+          "options": [
+            "Ngoại tâm thu nhĩ",
+            "Ngoại tâm thu thất đa ổ, số lượng nhiều, có dạng phức tạp",
+            "Rung nhĩ cơn",
+            "Block nhĩ thất cấp II"
+          ],
+          "answer": 1,
+          "explain": "ECG và Holter mô tả các nhát bóp đến sớm có QRS rộng, biến dạng, đa hình thái, số lượng lớn và có dạng phức tạp (cặp, nhịp nhanh thất ngắn), đây là đặc điểm của ngoại tâm thu thất đa ổ, số lượng nhiều."
+        },
+        {
+          "q": "Cơ chế gây ra cảm giác 'tim bỏ một nhịp' theo sau bởi một 'nhịp đập mạnh' là gì?",
+          "options": [
+            "Do sự co bóp yếu của nhát ngoại tâm thu và sự đổ đầy thất nhiều hơn trong khoảng nghỉ bù sau đó",
+            "Do dòng máu trào ngược qua van hai lá",
+            "Do sự co thắt của động mạch vành",
+            "Do hệ thần kinh giao cảm bị kích thích"
+          ],
+          "answer": 0,
+          "explain": "Nhát bóp ngoại tâm thu thường không hiệu quả về mặt huyết động vì tâm thất chưa được đổ đầy đủ. Bệnh nhân cảm nhận khoảng nghỉ bù sau ngoại tâm thu như một 'nhịp bị bỏ lỡ'. Trong khoảng nghỉ bù kéo dài này, tâm thất có nhiều thời gian hơn để đổ đầy máu. Theo định luật Frank-Starling, nhát bóp ngay sau đó sẽ mạnh hơn nhiều, gây ra cảm giác 'tim đập mạnh'."
+        },
+        {
+          "q": "Yếu tố nào sau đây là quan trọng nhất để tiên lượng nguy cơ ở bệnh nhân có nhiều ngoại tâm thu thất?",
+          "options": [
+            "Tuổi của bệnh nhân",
+            "Số lượng ngoại tâm thu trong 24 giờ",
+            "Sự hiện diện hay không của bệnh tim cấu trúc (suy tim, bệnh mạch vành)",
+            "Mức độ triệu chứng cơ năng"
+          ],
+          "answer": 2,
+          "explain": "Tiên lượng của ngoại tâm thu thất phụ thuộc gần như hoàn toàn vào việc có bệnh tim cấu trúc nền hay không. Ở bệnh nhân không có bệnh tim cấu trúc (tim bình thường trên siêu âm), PVC nhiều thường là lành tính, dù có thể gây triệu chứng. Ngược lại, ở bệnh nhân có suy tim hoặc bệnh mạch vành, PVC nhiều là một yếu tố nguy cơ gây đột tử do rối loạn nhịp."
+        },
+        {
+          "q": "Hướng xử trí ban đầu phù hợp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Chỉ định triệt đốt ngoại tâm thu thất bằng sóng cao tần (RFCA) ngay lập tức",
+            "Khởi trị bằng thuốc Amiodarone",
+            "Thay đổi lối sống (ngừng hút thuốc, giảm stress), trấn an bệnh nhân và bắt đầu điều trị bằng thuốc chẹn beta giao cảm",
+            "Cấy máy phá rung tự động (ICD) để phòng ngừa đột tử"
+          ],
+          "answer": 2,
+          "explain": "Vì bệnh nhân không có bệnh tim cấu trúc, nguy cơ thấp. Hướng xử trí đầu tiên là các biện pháp không dùng thuốc như thay đổi lối sống. Thuốc chẹn beta giao cảm là lựa chọn đầu tay để giảm triệu chứng. Triệt đốt RFCA được cân nhắc nếu triệu chứng không cải thiện với thuốc. Amiodarone và ICD không phải là lựa chọn ban đầu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi, COPD, nhịp nhanh 150 lần/phút, sóng hình răng cưa",
+      "body": "Bệnh nhân nam 62 tuổi, COPD giai đoạn III, vào viện vì khó thở và hồi hộp tăng lên. 2 ngày nay: mệt hơn, tim đập nhanh và đều. Không sốt, không ho đàm tăng. Đang điều trị duy trì COPD bằng Tiotropium/Olodaterol hít.<br><br><b>Khám:</b> Tỉnh, môi hơi tím, đang thở oxy gọng kính 2 lít/phút. Mạch quay đều, tần số 150 lần/phút, HA 120/80 mmHg, nhịp thở 28 lần/phút, SpO₂ 91% (khi thở oxy). Tĩnh mạch cổ không nổi. Tim nhịp rất nhanh, đều. Phổi nghe rì rào phế nang giảm, có ran rít ngáy hai bên.<br><br><b>Cận lâm sàng (thở oxy 2L/p):</b> PaO₂ 65 mmHg, PaCO₂ 50 mmHg, pH 7.33. Điện giải bình thường. <b>ECG:</b> Nhịp thất rất đều, tần số đúng 150 chu kỳ/phút, QRS hẹp. Các sóng P được thay thế bằng sóng hình răng cưa đều đặn (tần số 300 lần/phút), cứ hai sóng răng cưa thì có một phức bộ QRS đi sau.",
+      "questions": [
+        {
+          "q": "Chẩn đoán điện tâm đồ của bệnh nhân là gì?",
+          "options": [
+            "Nhịp nhanh xoang",
+            "Nhịp nhanh trên thất kịch phát",
+            "Rung nhĩ đáp ứng thất nhanh",
+            "Cuồng nhĩ điển hình, dẫn truyền nhĩ thất 2:1"
+          ],
+          "answer": 3,
+          "explain": "ECG với sóng hình răng cưa (sóng F) ở các chuyển đạo dưới và tần số thất đều, đúng bằng một nửa tần số nhĩ (150 so với 300) là hình ảnh kinh điển của cuồng nhĩ với block 2:1. Đây là một chẩn đoán cần nghĩ đến mỗi khi gặp một nhịp nhanh QRS hẹp có tần số đúng 150 lần/phút."
+        },
+        {
+          "q": "Vòng vào lại gây ra cuồng nhĩ điển hình thường nằm ở đâu và phụ thuộc vào cấu trúc giải phẫu nào?",
+          "options": [
+            "Quanh các tĩnh mạch phổi ở nhĩ trái",
+            "Bên trong nút nhĩ thất",
+            "Một vòng vào lại lớn ở nhĩ phải, đi qua eo Cavo-tricuspid (eo van ba lá - tĩnh mạch chủ dưới)",
+            "Trong vách liên thất"
+          ],
+          "answer": 2,
+          "explain": "Cuồng nhĩ điển hình (loại phổ biến nhất) là một rối loạn nhịp do vòng vào lại lớn ở tâm nhĩ phải. Vòng vào lại này xoay quanh vòng van ba lá và bị giới hạn bởi một vùng dẫn truyền chậm gọi là eo Cavo-tricuspid (CTI). Đây chính là điểm yếu của vòng vào lại và là mục tiêu của can thiệp triệt đốt."
+        },
+        {
+          "q": "Tại sao tần số thất trong cuồng nhĩ thường là một ước số của tần số nhĩ (ví dụ: 150, 100, 75 lần/phút)?",
+          "options": [
+            "Do nút xoang chỉ phát xung theo các tần số đó",
+            "Do nút nhĩ thất có đặc tính sinh lý là giảm dần dẫn truyền; nó chỉ cho một phần các xung động từ nhĩ xuống thất theo một tỷ lệ nhất định (2:1, 3:1, 4:1...)",
+            "Do các thuốc bệnh nhân đang dùng",
+            "Đó là một sự trùng hợp ngẫu nhiên"
+          ],
+          "answer": 1,
+          "explain": "Nút nhĩ thất hoạt động như một 'bộ lọc' sinh lý, bảo vệ tâm thất khỏi tần số quá nhanh từ tâm nhĩ. Do chu kỳ trơ của mình, nút nhĩ thất không thể dẫn truyền tất cả các xung động từ nhĩ khi tần số nhĩ quá cao (ví dụ 300/phút). Nó sẽ block lại một cách có quy luật, tạo ra các tỷ lệ dẫn truyền 2:1, 3:1, 4:1, dẫn đến tần số thất là 150, 100, 75 lần/phút."
+        },
+        {
+          "q": "Ngoài việc kiểm soát tần số thất và dùng kháng đông, phương pháp điều trị nào được xem là triệt để và có tỷ lệ thành công cao nhất đối với cuồng nhĩ điển hình?",
+          "options": [
+            "Dùng thuốc chống loạn nhịp kéo dài (Amiodarone)",
+            "Triệt đốt vòng vào lại qua eo Cavo-tricuspid bằng năng lượng sóng cao tần (RFCA)",
+            "Cấy máy tạo nhịp tim",
+            "Phẫu thuật Maze"
+          ],
+          "answer": 1,
+          "explain": "Triệt đốt bằng sóng cao tần (RFCA) tại eo Cavo-tricuspid là phương pháp điều trị triệt để cho cuồng nhĩ điển hình. Thủ thuật này tạo ra một đường sẹo cắt ngang eo CTI, phá vỡ vòng vào lại. Tỷ lệ thành công của thủ thuật này rất cao (>95%) và tỷ lệ tái phát thấp, vượt trội so với việc dùng thuốc chống loạn nhịp lâu dài."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi, gục ngã tại siêu thị, sóng hỗn loạn, rung thất",
+      "body": "Người đàn ông 58 tuổi đột ngột gục ngã tại siêu thị. Người qua đường được đào tạo về CPR nhận thấy bệnh nhân không đáp ứng, không thở bình thường, không bắt được mạch cảnh. Ngay lập tức bắt đầu ép tim và gọi cấp cứu. Đội cấp cứu có mặt sau 5 phút, gắn monitor/defibrillator lên ngực. Monitor hiển thị sóng hỗn loạn, không đều, không xác định được phức bộ QRS. Tiến hành sốc điện không đồng bộ 200 Joules, tiếp tục CPR ngay sau đó. Sau 2 phút CPR, monitor vẫn cho hình ảnh tương tự. Liều Epinephrine 1mg được tiêm tĩnh mạch.",
+      "questions": [
+        {
+          "q": "Rối loạn nhịp được ghi nhận trên monitor là gì?",
+          "options": [
+            "Vô tâm thu (Asystole)",
+            "Hoạt động điện vô mạch (PEA)",
+            "Rung thất (Ventricular Fibrillation - VF)",
+            "Nhịp nhanh thất vô mạch"
+          ],
+          "answer": 2,
+          "explain": "Mô tả sóng điện tim hỗn loạn, không có hình dạng QRS rõ ràng, không có sự co bóp cơ học hiệu quả (mất mạch) là định nghĩa của rung thất. Đây là một trong hai loại nhịp 'sốc được' (shockable rhythm) trong ngừng tuần hoàn."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh của rung thất là gì?",
+          "options": [
+            "Hoạt động điện của tâm thất trở nên hỗn loạn, không đồng bộ do nhiều sóng vào lại nhỏ; tâm thất chỉ 'rung rinh' chứ không co bóp hiệu quả",
+            "Hệ thống dẫn truyền bị block hoàn toàn",
+            "Nút xoang ngừng phát xung",
+            "Có một ổ phát nhịp duy nhất trong thất với tần số cực nhanh"
+          ],
+          "answer": 0,
+          "explain": "Rung thất là tình trạng hỗn loạn điện học hoàn toàn của tâm thất. Nhiều sóng vào lại nhỏ, không ổn định, di chuyển ngẫu nhiên trong cơ thất, khiến các thớ cơ co một cách rời rạc, không đồng bộ. Hậu quả là tim không thể tống máu, gây ngừng tuần hoàn."
+        },
+        {
+          "q": "Tại sao sốc điện (phá rung) là can thiệp quan trọng nhất và phải được thực hiện sớm nhất có thể trong trường hợp này?",
+          "options": [
+            "Để kích thích nút xoang hoạt động trở lại",
+            "Để khử cực đồng thời một khối lượng lớn cơ tim, dập tắt các vòng vào lại hỗn loạn và cho phép chủ nhịp tự nhiên (nút xoang) có cơ hội hoạt động trở lại",
+            "Để làm tăng huyết áp của bệnh nhân",
+            "Để cung cấp năng lượng cho cơ tim co bóp"
+          ],
+          "answer": 1,
+          "explain": "Sốc điện là phương pháp duy nhất có thể chấm dứt rung thất. Dòng điện năng lượng cao khi đi qua tim sẽ khử cực đồng loạn tất cả các tế bào cơ tim, làm chúng trở nên trơ trong một khoảnh khắc. Điều này sẽ dập tắt mọi hoạt động điện hỗn loạn, tạo ra một 'khoảng lặng' cho phép các chủ nhịp sinh lý (như nút xoang) có cơ hội giành lại quyền kiểm soát. Mỗi phút trì hoãn phá rung sẽ làm giảm 7-10% khả năng sống sót."
+        },
+        {
+          "q": "Theo phác đồ Hồi sức tim phổi nâng cao (ACLS), sau khi sốc điện lần thứ hai không thành công và đã dùng Epinephrine, thuốc chống loạn nhịp nào nên được cân nhắc sử dụng?",
+          "options": [
+            "Atropine",
+            "Adenosine",
+            "Amiodarone hoặc Lidocaine",
+            "Diltiazem"
+          ],
+          "answer": 2,
+          "explain": "Theo guideline của AHA/ERC, đối với rung thất/nhịp nhanh thất vô mạch trơ với sốc điện và Epinephrine, thuốc chống loạn nhịp được chỉ định là Amiodarone (liều đầu 300mg IV/IO) hoặc Lidocaine (nếu không có Amiodarone). Các thuốc này giúp ổn định màng tế bào cơ tim và tăng khả năng thành công của lần sốc điện tiếp theo."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 35 tuổi, hậu phẫu thay van hai lá, nhịp nhanh 115 lần/phút, sóng P âm",
+      "body": "Bệnh nhân nữ 35 tuổi, nhập viện để phẫu thuật thay van hai lá do hẹp van hai lá nặng hậu thấp. Phẫu thuật thành công. Ngày hậu phẫu thứ hai: bệnh nhân bắt đầu có hồi hộp, đánh trống ngực. Monitor ghi nhận nhịp nhanh, đều, tần số 110 lần/phút, QRS hẹp. <br><br><b>ECG 12 chuyển đạo:</b> Nhịp đều, tần số 115 chu kỳ/phút, QRS hẹp (0.09 giây). Không thấy sóng P đi trước QRS; có thể thấy các sóng P âm, đảo ngược, xuất hiện ngay sau mỗi QRS ở DII, DIII, aVF (tạo sóng S giả ở DII, III và sóng R' giả ở V1). Huyết động ổn định, HA 110/75 mmHg. Không đáp ứng với nghiệm pháp xoa xoang cảnh. <br><br><b>Cận lâm sàng:</b> K⁺ 4.3 mmol/L, Mg²⁺ 0.9 mmol/L, Troponin T hs bình thường. Không sốt, không dấu hiệu nhiễm trùng.",
+      "questions": [
+        {
+          "q": "Dựa trên hình ảnh ECG, chẩn đoán rối loạn nhịp khả năng nhất là gì?",
+          "options": [
+            "Nhịp nhanh nhĩ",
+            "Nhịp nhanh vào lại nút nhĩ thất (AVNRT) không điển hình",
+            "Nhịp nhanh bộ nối (do tăng tính tự động)",
+            "Rung nhĩ đáp ứng thất nhanh"
+          ],
+          "answer": 2,
+          "explain": "Nhịp nhanh, đều, QRS hẹp, với sóng P đảo ngược đi ngay sau QRS là hình ảnh rất đặc trưng của nhịp nhanh bộ nối. Do không đáp ứng với nghiệm pháp cường phế vị, cơ chế tăng tính tự động được nghĩ đến nhiều hơn là vòng vào lại."
+        },
+        {
+          "q": "Vị trí của các sóng P (âm ở DII, III, aVF và đi ngay sau QRS) gợi ý điều gì về trình tự khử cực nhĩ-thất?",
+          "options": [
+            "Xung động phát ra từ nhĩ, khử cực nhĩ trước rồi mới xuống thất",
+            "Xung động phát ra từ một ổ ở thất rồi dẫn truyền ngược lên nhĩ",
+            "Xung động phát ra từ bộ nối nhĩ-thất, khử cực thất và nhĩ gần như đồng thời, với xung động lên nhĩ đi theo chiều từ dưới lên",
+            "Có sự phân ly nhĩ-thất hoàn toàn"
+          ],
+          "answer": 2,
+          "explain": "Sóng P âm ở các chuyển đạo dưới chứng tỏ tâm nhĩ được khử cực theo hướng từ dưới lên, ngược với chiều bình thường. Việc sóng P xuất hiện ngay sau QRS cho thấy tâm thất và tâm nhĩ được khử cực gần như cùng một lúc, với thất được khử cực trước một chút. Cả hai điều này đều chỉ ra nguồn gốc của xung động là từ bộ nối nhĩ-thất."
+        },
+        {
+          "q": "Bối cảnh lâm sàn nào sau đây là nguyên nhân thường gặp nhất gây ra nhịp nhanh bộ nối do tăng tính tự động?",
+          "options": [
+            "Hội chứng QT dài bẩm sinh",
+            "Sau phẫu thuật tim, đặc biệt là các phẫu thuật gần vách liên nhĩ",
+            "Ngộ độc Digoxin",
+            "Cường giáp"
+          ],
+          "answer": 1,
+          "explain": "Phẫu thuật tim hở, đặc biệt là các can thiệp gần khu vực vách liên nhĩ và tam giác Koch (nơi chứa nút và bộ nối nhĩ thất), có thể gây tổn thương, phù nề hoặc kích thích vùng này, dẫn đến tăng tính tự động và gây ra nhịp nhanh bộ nối. Đây là một rối loạn nhịp khá phổ biến trong giai đoạn hậu phẫu tim."
+        },
+        {
+          "q": "Nếu cần can thiệp dược lý, loại thuốc nào sau đây thường được ưu tiên để điều trị nhịp nhanh bộ nối sau mổ ở bệnh nhân có huyết động ổn định?",
+          "options": [
+            "Adenosine",
+            "Amiodarone hoặc một thuốc chẹn beta giao cảm",
+            "Digoxin",
+            "Verapamil"
+          ],
+          "answer": 1,
+          "explain": "Đối với nhịp nhanh bộ nối sau mổ, việc điều trị thường bắt đầu bằng cách tối ưu hóa điện giải và giảm các yếu tố kích thích. Nếu cần dùng thuốc, Amiodarone hoặc chẹn beta thường được sử dụng để làm giảm tính tự động của bộ nối. Adenosine thường không hiệu quả với nhịp nhanh do tăng tính tự động. Digoxin có thể làm tăng tính tự động của bộ nối và là chống chỉ định."
+        }
+      ]
+    }
+  ]
+}
