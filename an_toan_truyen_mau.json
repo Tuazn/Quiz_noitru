@@ -1,0 +1,620 @@
+{
+  "name": "An toàn truyền máu",
+  "description": "Bộ đề ôn thi nội trú về các biến chứng và xử trí liên quan đến truyền máu",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Huyết học",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 68 tuổi, thiếu máu có triệu chứng sau hóa trị ung thư đại tràng",
+      "body": "Bệnh nhân nam 68 tuổi, tiền sử ung thư đại tràng đang hóa trị, nhập viện vì thiếu máu có triệu chứng (Hb 68 g/L). Bệnh nhân có nhóm máu A, Rh+. Một đơn vị khối hồng cầu nhóm máu A, Rh+ được chỉ định truyền.<br><br>Khoảng 15 phút sau khi bắt đầu truyền máu, bệnh nhân đột ngột <b>rét run, sốt 39.5°C, đau dữ dội vùng thắt lưng</b> và cảm thấy tức ngực. Bệnh nhân lo lắng, hốt hoảng. Khám ý thức lơ mơ, da tái, vã mồ hôi. <br><br>Sinh hiệu: Mạch 125 lần/phút, Huyết áp 80/50 mmHg, Nhịp thở 28 lần/phút, SpO₂ 92% khí trời. <br><br><b>Nước tiểu lấy được tại giường có màu đỏ sậm</b>. Phổi và tim không có dấu hiệu bất thường trước khi truyền. Túi máu đã truyền được khoảng 50 mL.",
+      "questions": [
+        {
+          "q": "Tình trạng của bệnh nhân rất có thể là biến chứng gì?",
+          "options": [
+            "Phản ứng sốt không do tan máu",
+            "Phản ứng dị ứng, mề đay",
+            "Phản ứng tan máu cấp",
+            "Quá tải tuần hoàn liên quan đến truyền máu (TACO)"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh khởi phát đột ngột, rầm rộ ngay sau khi bắt đầu truyền máu với các triệu chứng kinh điển: sốt cao, rét run, đau lưng, tụt huyết áp và hemoglobin niệu (nước tiểu đỏ sậm) là hình ảnh điển hình của phản ứng tan máu cấp, một cấp cứu trong truyền máu."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây ra các triệu chứng nặng của bệnh nhân là gì?",
+          "options": [
+            "Sự hoạt hóa hệ thống bổ thể bởi phức hợp kháng nguyên-kháng thể, dẫn đến tan máu nội mạch và sốc",
+            "Các cytokine được giải phóng từ bạch cầu của người cho trong túi máu",
+            "Kháng thể IgE của bệnh nhân phản ứng với protein huyết tương của người cho, gây giải phóng histamin",
+            "Tăng thể tích tuần hoàn đột ngột vượt quá khả năng co bóp của tim"
+          ],
+          "answer": 0,
+          "explain": "Cơ chế của tan máu cấp (thường do bất đồng nhóm máu ABO) là các kháng thể tự nhiên (IgM) trong máu người nhận tấn công kháng nguyên tương ứng trên bề mặt hồng cầu người cho. Điều này hoạt hóa mạnh mẽ hệ thống bổ thể, gây vỡ hồng cầu hàng loạt trong lòng mạch (tan máu nội mạch), giải phóng cytokine gây sốc và các mảnh vỡ hồng cầu gây suy thận cấp."
+        },
+        {
+          "q": "Hành động nào sau đây là quan trọng và cần thực hiện ngay lập tức?",
+          "options": [
+            "Giảm tốc độ truyền máu và theo dõi thêm",
+            "Tiêm một liều thuốc hạ sốt paracetamol",
+            "Ngừng truyền máu ngay lập tức, giữ lại đường truyền tĩnh mạch bằng Natri Clorua 0.9%",
+            "Tiêm một liều thuốc lợi tiểu furosemide"
+          ],
+          "answer": 2,
+          "explain": "Nguyên tắc vàng khi nghi ngờ có phản ứng truyền máu nghiêm trọng là phải ngừng truyền ngay lập tức để ngăn chặn việc đưa thêm các yếu tố gây phản ứng vào cơ thể. Việc duy trì đường truyền tĩnh mạch bằng dung dịch muối đẳng trương là cần thiết để hồi sức chống sốc và dùng các thuốc cấp cứu khác."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây có giá trị nhất để xác nhận chẩn đoán?",
+          "options": [
+            "Cấy máu của bệnh nhân và túi máu",
+            "Định lượng nồng độ IgA trong máu bệnh nhân",
+            "Nghiệm pháp Coombs trực tiếp và định lượng hemoglobin tự do trong huyết tương",
+            "Chụp X-quang ngực tại giường"
+          ],
+          "answer": 2,
+          "explain": "Nghiệm pháp Coombs trực tiếp dương tính sẽ khẳng định có kháng thể gắn trên bề mặt hồng cầu của bệnh nhân. Nồng độ hemoglobin tự do trong huyết tương và nước tiểu tăng cao là bằng chứng của tan máu nội mạch. Đây là các xét nghiệm chủ chốt để xác nhận chẩn đoán."
+        },
+        {
+          "q": "Nguyên nhân nào là thường gặp nhất dẫn đến loại biến chứng này?",
+          "options": [
+            "Lỗi định nhóm máu của người nhận",
+            "Túi máu bị nhiễm khuẩn",
+            "Bất đồng hệ Rh",
+            "Lỗi hành chính (lấy nhầm túi máu, định danh sai bệnh nhân)"
+          ],
+          "answer": 3,
+          "explain": "Mặc dù các xét nghiệm miễn dịch ngày càng chính xác, nguyên nhân hàng đầu gây ra phản ứng tan máu cấp do bất đồng ABO vẫn là các lỗi hành chính, còn gọi là \"clerical error\". Các lỗi này bao gồm dán nhầm nhãn ống máu, lấy nhầm túi máu hoặc định danh sai bệnh nhân tại giường bệnh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 56 tuổi, sốt 38.8°C sau 60 phút truyền máu trong quá trình hóa trị",
+      "body": "Bệnh nhân nữ 56 tuổi, đang điều trị hóa chất do ung thư vú, được chỉ định truyền 1 đơn vị khối hồng cầu vì Hb 72 g/L. Bệnh nhân có tiền sử nhiều lần truyền máu trước đây.<br><br>Khoảng 60 phút sau khi bắt đầu truyền máu, bệnh nhân than phiền cảm thấy <b>ớn lạnh</b> và sau đó <b>sốt 38.8°C, kèm theo rét run và đau đầu nhẹ</b>. Khám không thấy nổi ban, không khó thở, không đau lưng, <b>không tiểu máu</b>.<br><br>Sinh hiệu lúc này: Mạch 95 lần/phút, Huyết áp 120/70 mmHg, Nhịp thở 18 lần/phút. Trước khi truyền, bệnh nhân không sốt, sinh hiệu ổn định.",
+      "questions": [
+        {
+          "q": "Phản ứng truyền máu nào có khả năng xảy ra nhất ở bệnh nhân này?",
+          "options": [
+            "Phản ứng tan máu cấp",
+            "Phản ứng sốt không do tan máu (FNHTR)",
+            "Nhiễm khuẩn huyết liên quan đến truyền máu",
+            "Tổn thương phổi cấp liên quan đến truyền máu (TRALI)"
+          ],
+          "answer": 1,
+          "explain": "Phản ứng sốt không do tan máu (Febrile Non-Hemolytic Transfusion Reaction - FNHTR) là loại phản ứng truyền máu thường gặp nhất. Nó được định nghĩa là sốt ≥ 38°C và tăng ≥ 1°C so với trước khi truyền, kèm hoặc không kèm rét run, mà không có bằng chứng của tan máu hay các nguyên nhân gây sốt khác."
+        },
+        {
+          "q": "Cơ chế chính gây ra phản ứng này là gì?",
+          "options": [
+            "Phản ứng của kháng thể người nhận với kháng nguyên ABO trên hồng cầu người cho",
+            "Các cytokine tiền viêm (IL-1, IL-6, TNF-α) tích tụ trong túi máu trong quá trình bảo quản",
+            "Vi khuẩn trong túi máu nhân lên và giải phóng nội độc tố",
+            "Kháng thể trong máu người cho phản ứng với bạch cầu của người nhận"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế được chấp nhận rộng rãi nhất của FNHTR là do các cytokine tiền viêm. Các cytokine này được tạo ra bởi các tế bào bạch cầu của người cho và tích tụ trong túi máu trong suốt quá trình bảo quản. Khi được truyền vào người nhận, chúng tác động lên trung tâm điều nhiệt ở vùng dưới đồi và gây sốt."
+        },
+        {
+          "q": "Xử trí ban đầu phù hợp nhất cho bệnh nhân là gì?",
+          "options": [
+            "Tiếp tục truyền máu nhưng với tốc độ chậm hơn",
+            "Ngừng truyền máu, cho thuốc hạ sốt, và sau khi loại trừ các phản ứng nguy hiểm khác, có thể xem xét truyền lại",
+            "Ngừng truyền máu và bắt đầu dùng kháng sinh phổ rộng ngay lập tức",
+            "Ngừng truyền máu, cho thuốc lợi tiểu và thở oxy"
+          ],
+          "answer": 1,
+          "explain": "Khi có phản ứng sốt, bước đầu tiên luôn là ngừng truyền máu để loại trừ các nguyên nhân nguy hiểm hơn như tan máu cấp hay nhiễm khuẩn. Sau khi thăm khám và xét nghiệm sơ bộ cho thấy không có dấu hiệu nguy hiểm, có thể dùng thuốc hạ sốt (paracetamol). Nếu triệu chứng cải thiện, bác sĩ có thể cân nhắc tiếp tục truyền đơn vị máu đó."
+        },
+        {
+          "q": "Biện pháp nào hiệu quả nhất để phòng ngừa tái phát phản ứng này ở những lần truyền máu sau?",
+          "options": [
+            "Sử dụng các chế phẩm máu đã được chiếu xạ",
+            "Sử dụng các chế phẩm máu đã được giảm bạch cầu",
+            "Chỉ truyền máu cùng nhóm Rh",
+            "Pha loãng túi máu với nước muối sinh lý trước khi truyền"
+          ],
+          "answer": 1,
+          "explain": "Vì bạch cầu của người cho là nguồn gốc của các cytokine gây sốt, việc sử dụng các chế phẩm máu đã được lọc bỏ bạch cầu (giảm bạch cầu) là biện pháp hiệu quả nhất để ngăn ngừa FNHTR tái diễn ở những bệnh nhân có tiền sử phản ứng này."
+        },
+        {
+          "q": "Đặc điểm nào giúp phân biệt FNHTR với phản ứng tan máu cấp trong giai đoạn sớm?",
+          "options": [
+            "Mức độ sốt",
+            "Sự hiện diện của rét run",
+            "Không có các dấu hiệu của tan máu (đau lưng, tiểu máu) và sốc",
+            "Thời gian khởi phát phản ứng"
+          ],
+          "answer": 2,
+          "explain": "Điểm khác biệt mấu chốt là FNHTR là một chẩn đoán loại trừ. Trong khi cả hai đều có thể có sốt và rét run, sự vắng mặt của các triệu chứng và dấu hiệu báo động khác như đau lưng dữ dội, nước tiểu đỏ, tụt huyết áp, và suy thận cấp giúp hướng tới chẩn đoán FNHTR lành tính hơn là một phản ứng tan máu cấp thảm khốc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 34 tuổi, ngứa ran và mề đay sau khi truyền huyết tương",
+      "body": "Bệnh nhân nam 34 tuổi, không có tiền sử dị ứng, đang được truyền một đơn vị huyết tương tươi đông lạnh để điều trị rối loạn đông máu.<br><br>Khoảng 20 phút sau khi bắt đầu truyền, bệnh nhân cảm thấy <b>ngứa ran toàn thân</b> và xuất hiện <b>các nốt mề đay, ban đỏ lan tỏa ở ngực và lưng</b>. Bệnh nhân không khó thở, không đau bụng, không chóng mặt. Khám không nghe thấy tiếng thở rít hay ran ở phổi.<br><br>Sinh hiệu hoàn toàn ổn định: Mạch 80 lần/phút, Huyết áp 125/80 mmHg, SpO₂ 99% khí trời.",
+      "questions": [
+        {
+          "q": "Bệnh nhân đang gặp phải loại phản ứng truyền máu nào?",
+          "options": [
+            "Phản ứng phản vệ",
+            "Phản ứng dị ứng - mề đay đơn thuần",
+            "Phản ứng sốt không do tan máu",
+            "Quá tải tuần hoàn liên quan đến truyền máu (TACO)"
+          ],
+          "answer": 1,
+          "explain": "Sự xuất hiện của các triệu chứng da và niêm mạc (ngứa, mề đay, ban đỏ) mà không có sự tham gia của hệ hô hấp hay tuần hoàn (không khó thở, huyết áp ổn) là đặc trưng của một phản ứng dị ứng đơn thuần. Đây là một trong những loại phản ứng truyền máu phổ biến và thường nhẹ."
+        },
+        {
+          "q": "Cơ chế gây ra phản ứng này là gì?",
+          "options": [
+            "Tương tác giữa kháng thể IgA của người cho và kháng thể anti-IgA của người nhận",
+            "Phản ứng qua trung gian IgE của người nhận với các protein hòa tan trong huyết tương của người cho",
+            "Các cytokine từ bạch cầu người cho gây ra phản ứng viêm da",
+            "Lượng citrate trong túi huyết tương gây hạ calci máu"
+          ],
+          "answer": 1,
+          "explain": "Phản ứng dị ứng là một phản ứng quá mẫn type I. Bệnh nhân đã mẫn cảm từ trước có các kháng thể IgE đặc hiệu. Khi các protein hòa tan trong huyết tương của người cho được truyền vào, chúng sẽ gắn vào các kháng thể IgE này trên bề mặt tế bào mast và bạch cầu ái kiềm, gây giải phóng histamin và các chất trung gian khác, dẫn đến các triệu chứng dị ứng."
+        },
+        {
+          "q": "Xử trí nào là phù hợp nhất cho bệnh nhân tại thời điểm này?",
+          "options": [
+            "Ngừng truyền vĩnh viễn và bắt đầu hồi sức chống sốc",
+            "Tiếp tục truyền máu và cho thêm corticoid đường tĩnh mạch",
+            "Tạm dừng truyền máu, tiêm thuốc kháng histamin (diphenhydramine) và theo dõi",
+            "Lấy mẫu máu làm xét nghiệm Coombs trực tiếp"
+          ],
+          "answer": 2,
+          "explain": "Đối với phản ứng dị ứng nhẹ, chỉ cần tạm dừng việc truyền máu và điều trị triệu chứng bằng thuốc kháng histamin. Không cần phải ngừng hoàn toàn ngay lập tức nếu không có dấu hiệu nặng lên. Theo dõi sát bệnh nhân là rất quan trọng."
+        },
+        {
+          "q": "Nếu các triệu chứng mề đay của bệnh nhân hết hoàn toàn sau khi dùng thuốc kháng histamin, hành động tiếp theo nên là gì?",
+          "options": [
+            "Hủy bỏ đơn vị huyết tương và yêu cầu một đơn vị khác",
+            "Tiếp tục truyền hết đơn vị huyết tương đó nhưng với tốc độ chậm hơn",
+            "Chuyển sang truyền một đơn vị khối hồng cầu",
+            "Lấy mẫu máu bệnh nhân để sàng lọc kháng thể bất thường"
+          ],
+          "answer": 1,
+          "explain": "Nếu các triệu chứng ban đầu nhẹ và đáp ứng hoàn toàn với điều trị, việc truyền máu có thể được bắt đầu lại một cách an toàn, thường với tốc độ chậm hơn và dưới sự theo dõi cẩn thận. Không cần thiết phải hủy bỏ đơn vị máu."
+        },
+        {
+          "q": "Triệu chứng nào sau đây nếu xuất hiện sẽ biến phản ứng này thành một cấp cứu phản vệ?",
+          "options": [
+            "Sốt nhẹ 38°C",
+            "Đau đầu",
+            "Khó thở, thở rít hoặc tụt huyết áp",
+            "Rét run"
+          ],
+          "answer": 2,
+          "explain": "Một phản ứng dị ứng trở thành phản vệ khi có sự tham gia của các hệ cơ quan quan trọng khác ngoài da. Sự xuất hiện của suy hô hấp (khó thở, co thắt phế quản, phù thanh quản gây thở rít) và/hoặc trụy tim mạch (tụt huyết áp) là các dấu hiệu báo động đỏ, cho thấy đây là phản ứng phản vệ đe dọa tính mạng và cần được xử trí cấp cứu bằng Adrenalin."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 82 tuổi, suy tim và suy thận, khó thở cấp sau truyền máu",
+      "body": "Bệnh nhân nữ 82 tuổi, tiền sử suy tim sung huyết (EF 35%) và suy thận mạn giai đoạn 3, nhập viện vì đi ngoài phân đen, Hb 65 g/L. Bệnh nhân được chỉ định truyền 2 đơn vị khối hồng cầu lắng. Đơn vị đầu tiên được truyền trong 2 giờ.<br><br>Ngay sau khi kết thúc đơn vị đầu tiên và bắt đầu đơn vị thứ hai, bệnh nhân đột ngột <b>khó thở dữ dội, phải ngồi dậy để thở, ho khạc ra bọt hồng</b>. Khám thấy bệnh nhân tỉnh, hốt hoảng, <b>tĩnh mạch cổ nổi rõ, phổi có nhiều ran ẩm</b> lan tỏa từ hai đáy lên.<br><br>Sinh hiệu: Mạch 110 lần/phút, Huyết áp 170/95 mmHg, Nhịp thở 30 lần/phút, SpO₂ 88% khí trời. Không sốt, không nổi ban.",
+      "questions": [
+        {
+          "q": "Chẩn đoán có khả năng nhất là gì?",
+          "options": [
+            "Tổn thương phổi cấp liên quan đến truyền máu (TRALI)",
+            "Phản ứng phản vệ",
+            "Quá tải tuần hoàn liên quan đến truyền máu (TACO)",
+            "Thuyên tắc phổi"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh một bệnh nhân lớn tuổi, có tiền sử bệnh tim, phát triển suy hô hấp cấp với bằng chứng rõ ràng của quá tải thể tích (tĩnh mạch cổ nổi, tăng huyết áp, ran ẩm ở phổi, bọt hồng) trong hoặc ngay sau khi truyền máu là hình ảnh kinh điển của TACO."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính của tình trạng này là gì?",
+          "options": [
+            "Phản ứng miễn dịch giữa kháng thể người cho và kháng nguyên bạch cầu người nhận gây tổn thương mao mạch phổi",
+            "Tăng áp lực thủy tĩnh trong mao mạch phổi do truyền một lượng dịch quá nhanh vượt khả năng xử lý của tim",
+            "Co thắt phế quản lan tỏa do giải phóng histamin",
+            "Cục máu đông từ tĩnh mạch sâu di chuyển lên phổi"
+          ],
+          "answer": 1,
+          "explain": "TACO là một dạng của phù phổi cấp huyết động. Việc truyền máu (đặc biệt là với tốc độ nhanh) làm tăng thể tích tuần hoàn một cách đột ngột. Ở những bệnh nhân có chức năng tim suy giảm, tim không thể bơm hết lượng máu tăng thêm này, dẫn đến ứ máu ở tuần hoàn phổi, làm tăng áp lực thủy tĩnh trong các mao mạch phổi và đẩy dịch vào phế nang, gây phù phổi."
+        },
+        {
+          "q": "Đặc điểm nào sau đây giúp phân biệt rõ nhất TACO với TRALI?",
+          "options": [
+            "Thời gian khởi phát sau khi truyền máu",
+            "Sự hiện diện của sốt",
+            "Dấu hiệu quá tải dịch (tĩnh mạch cổ nổi, huyết áp tăng) và đáp ứng với lợi tiểu",
+            "Mức độ giảm oxy máu"
+          ],
+          "answer": 2,
+          "explain": "Đây là điểm phân biệt quan trọng. TACO là tình trạng quá tải thể tích, do đó có các dấu hiệu kinh điển như tĩnh mạch cổ nổi, phản hồi gan tĩnh mạch cổ (+), huyết áp thường tăng và đáp ứng tốt với thuốc lợi tiểu. Ngược lại, TRALI là một dạng phù phổi tổn thương (do phản ứng miễn dịch), thường không có dấu hiệu quá tải dịch và huyết áp thường bình thường hoặc thấp."
+        },
+        {
+          "q": "Xử trí ngay lập tức cho bệnh nhân này nên bao gồm những gì?",
+          "options": [
+            "Ngừng truyền máu, cho bệnh nhân nằm đầu cao, thở oxy và tiêm furosemide tĩnh mạch",
+            "Ngừng truyền máu, tiêm Adrenalin bắp và truyền dịch nhanh",
+            "Tiếp tục truyền máu và cho thuốc an thần",
+            "Ngừng truyền máu và bắt đầu thông khí nhân tạo xâm nhập ngay"
+          ],
+          "answer": 0,
+          "explain": "Xử trí TACO tương tự như xử trí một đợt cấp mất bù của suy tim với phù phổi cấp. Cần ngừng ngay việc đưa thêm dịch vào (ngừng truyền máu), giảm tiền gánh (tư thế ngồi, dùng lợi tiểu furosemide) và hỗ trợ hô hấp (thở oxy)."
+        },
+        {
+          "q": "Biện pháp phòng ngừa TACO hiệu quả nhất ở bệnh nhân có nguy cơ cao là gì?",
+          "options": [
+            "Truyền máu với tốc độ chậm, chia nhỏ thể tích và cân nhắc dùng lợi tiểu dự phòng",
+            "Sử dụng khối hồng cầu đã rửa",
+            "Sử dụng khối hồng cầu đã giảm bạch cầu",
+            "Luôn chỉ truyền một đơn vị máu duy nhất"
+          ],
+          "answer": 0,
+          "explain": "Phòng ngừa là chìa khóa. Ở những bệnh nhân có nguy cơ (người già, có bệnh tim, thận), cần phải đánh giá cẩn thận nhu cầu truyền máu. Nếu cần thiết, nên truyền với tốc độ chậm nhất có thể (ví dụ, trên 3-4 giờ/đơn vị), có thể chia một đơn vị máu ra truyền nhiều lần, và xem xét cho một liều lợi tiểu trước hoặc giữa các lần truyền để giúp cơ thể thải bớt lượng dịch thừa."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi, thở máy do viêm phổi nặng, tình trạng hô hấp xấu đi sau truyền huyết tương",
+      "body": "Bệnh nhân nam 45 tuổi, đang điều trị tại khoa Hồi sức tích cực vì viêm phổi nặng, thở máy. Bệnh nhân được truyền một đơn vị huyết tương tươi đông lạnh.<br><br>Khoảng 2 giờ sau khi truyền, tình trạng hô hấp của bệnh nhân đột ngột xấu đi, SpO₂ tụt xuống 85% dù đang thở máy với FiO₂ 60%. Khám phổi nghe <b>nhiều ran ẩm, ran nổ hai bên</b>. Chụp X-quang ngực tại giường cho thấy <b>hình ảnh thâm nhiễm lan tỏa ở cả hai phế trường</b> mới xuất hiện.<br><br>Theo dõi áp lực tĩnh mạch trung tâm (CVP) không tăng (5 cmH₂O), huyết áp có xu hướng tụt (90/50 mmHg). Bệnh nhân không sốt, không nổi ban. Xét nghiệm pro-BNP không tăng so với trước đó.",
+      "questions": [
+        {
+          "q": "Biến chứng truyền máu nào có khả năng cao nhất?",
+          "options": [
+            "Quá tải tuần hoàn liên quan đến truyền máu (TACO)",
+            "Phản ứng tan máu cấp",
+            "Thuyên tắc khí",
+            "Tổn thương phổi cấp liên quan đến truyền máu (TRALI)"
+          ],
+          "answer": 3,
+          "explain": "Bệnh cảnh suy hô hấp cấp, giảm oxy máu nặng, và thâm nhiễm phổi lan tỏa hai bên xuất hiện trong vòng 6 giờ sau truyền máu, mà không có bằng chứng của quá tải tuần hoàn (CVP và pro-BNP không tăng, huyết áp tụt), là định nghĩa kinh điển của TRALI. Đây là nguyên nhân hàng đầu gây tử vong liên quan đến truyền máu."
+        },
+        {
+          "q": "Cơ chế được đề xuất phổ biến nhất của TRALI là gì?",
+          "options": [
+            "Tăng áp lực thủy tĩnh do truyền dịch quá nhanh",
+            "Phản ứng của kháng thể anti-leukocyte (kháng bạch cầu) trong máu người cho với bạch cầu của người nhận, gây tổn thương nội mô mao mạch phổi",
+            "Sự hình thành các vi huyết khối trong túi máu gây tắc các mao mạch phổi",
+            "Nhiễm toan chuyển hóa do chất bảo quản citrate"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế của TRALI được cho là một \"cú hích kép\". \"Cú hích thứ nhất\" là tình trạng bệnh lý nền của bệnh nhân (nhiễm trùng, phẫu thuật...) làm cho các bạch cầu trung tính bị \"mồi hóa\" và tích tụ trong mao mạch phổi. \"Cú hích thứ hai\" là các kháng thể kháng bạch cầu (anti-HLA, anti-HNA) hoặc các chất biến đổi sinh học trong chế phẩm máu của người cho, khi truyền vào sẽ hoạt hóa các bạch cầu này, gây giải phóng các chất trung gian làm tổn thương hàng rào nội mô mao mạch phổi, dẫn đến phù phổi tổn thương."
+        },
+        {
+          "q": "Đặc điểm nào sau đây KHÔNG phù hợp với chẩn đoán TRALI?",
+          "options": [
+            "Khởi phát cấp tính trong vòng 6 giờ sau truyền máu",
+            "Có bằng chứng của tổn thương phổi cấp (giảm oxy máu, thâm nhiễm hai bên trên X-quang)",
+            "Tĩnh mạch cổ nổi và áp lực tĩnh mạch trung tâm cao",
+            "Không có bằng chứng suy tim trái trước đó"
+          ],
+          "answer": 2,
+          "explain": "Dấu hiệu quá tải tuần hoàn như tĩnh mạch cổ nổi hay CVP cao là đặc trưng của TACO. Sự vắng mặt của các dấu hiệu này là một tiêu chí quan trọng để chẩn đoán phân biệt và hướng tới TRALI, một dạng phù phổi không do tim."
+        },
+        {
+          "q": "Yếu tố nguy cơ chính từ người cho máu có liên quan đến TRALI là gì?",
+          "options": [
+            "Người cho máu có nhóm máu O",
+            "Người cho máu là nam giới",
+            "Người cho máu là phụ nữ đã từng mang thai nhiều lần",
+            "Người cho máu trên 60 tuổi"
+          ],
+          "answer": 2,
+          "explain": "Phụ nữ đã mang thai nhiều lần có nguy cơ cao tạo ra các kháng thể kháng bạch cầu (anti-HLA) do tiếp xúc với các kháng nguyên bạch cầu từ thai nhi. Do đó, huyết tương từ những người hiến máu này có nguy cơ gây TRALI cao nhất. Nhiều ngân hàng máu đã thực hiện chính sách ưu tiên sử dụng huyết tương từ người hiến máu là nam giới hoặc phụ nữ chưa từng có thai."
+        },
+        {
+          "q": "Xử trí chính cho bệnh nhân TRALI là gì?",
+          "options": [
+            "Điều trị hỗ trợ hô hấp tích cực",
+            "Sử dụng thuốc lợi tiểu liều cao",
+            "Sử dụng corticosteroid liều cao",
+            "Trao đổi huyết tương"
+          ],
+          "answer": 0,
+          "explain": "Không có điều trị đặc hiệu cho TRALI. Xử trí chủ yếu là điều trị hỗ trợ, tương tự như hội chứng suy hô hấp cấp tiến triển (ARDS), bao gồm ngừng truyền máu, hỗ trợ oxy, và thông khí nhân tạo bảo vệ phổi nếu cần. Lợi tiểu không có vai trò và có thể gây hại do bệnh nhân thường có huyết áp thấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi, bệnh tan máu tự miễn, vàng da và tiểu máu sậm sau 10 ngày truyền máu",
+      "body": "Bệnh nhân nam 50 tuổi, có bệnh tan máu tự miễn, nhóm máu O Rh+, đã được truyền 2 đơn vị khối hồng cầu cách đây 10 ngày để điều trị đợt tan máu. Lần đó, xét nghiệm sàng lọc kháng thể bất thường âm tính.<br><br>Hôm nay, bệnh nhân tái khám vì cảm thấy <b>mệt mỏi trở lại, da vàng hơn và nước tiểu sậm màu</b> trong 2 ngày nay. Bệnh nhân không sốt, không đau bụng. Khám da, củng mạc mắt vàng nhẹ. Sinh hiệu ổn.<br><br>Xét nghiệm: Hb 75 g/L (giảm so với 90 g/L lúc ra viện), <b>Bilirubin toàn phần 55 µmol/L (chủ yếu là gián tiếp), LDH 450 U/L (tăng)</b>. <b>Nghiệm pháp Coombs trực tiếp dương tính</b>, và eluate từ hồng cầu bệnh nhân cho thấy có <b>kháng thể anti-Jkᵃ</b>.",
+      "questions": [
+        {
+          "q": "Bệnh nhân đang gặp phải biến chứng muộn nào của truyền máu?",
+          "options": [
+            "Nhiễm virus viêm gan C",
+            "Phản ứng tan máu muộn",
+            "Bệnh mảnh ghép chống chủ liên quan đến truyền máu (TA-GVHD)",
+            "Quá tải sắt"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh xuất hiện sau 5-10 ngày truyền máu với các triệu chứng thiếu máu, vàng da, và bằng chứng xét nghiệm của tan máu (Hb giảm, bilirubin gián tiếp tăng, LDH tăng) là điển hình của một phản ứng tan máu muộn (Delayed Hemolytic Transfusion Reaction - DHTR)."
+        },
+        {
+          "q": "Cơ chế của phản ứng tan máu muộn là gì?",
+          "options": [
+            "Đáp ứng miễn dịch thứ phát (anamnestic response), trong đó nồng độ kháng thể rất thấp lúc sàng lọc đã tăng vọt sau khi tái tiếp xúc với kháng nguyên",
+            "Các hồng cầu được truyền vào hết đời sống của chúng một cách tự nhiên",
+            "Phản ứng giữa kháng thể người cho và hồng cầu người nhận",
+            "Sự phá hủy hồng cầu do nguyên nhân cơ học"
+          ],
+          "answer": 0,
+          "explain": "DHTR xảy ra ở những bệnh nhân đã được mẫn cảm trước đó (qua truyền máu hoặc mang thai) với một kháng nguyên hồng cầu không thuộc hệ ABO. Theo thời gian, nồng độ kháng thể này giảm xuống rất thấp. Khi bệnh nhân được truyền máu có chứa kháng nguyên đó một lần nữa, hệ miễn dịch sẽ nhận diện và có một đáp ứng trí nhớ mạnh mẽ, sản xuất ra một lượng lớn kháng thể (thường là IgG) trong vài ngày."
+        },
+        {
+          "q": "Tại sao sàng lọc kháng thể bất thường lại âm tính ở lần truyền máu trước?",
+          "options": [
+            "Phòng xét nghiệm đã mắc sai lầm",
+            "Kháng thể gây phản ứng tan máu muộn thường có nồng độ rất thấp, dưới ngưỡng phát hiện của các xét nghiệm sàng lọc thường quy",
+            "Kháng thể này chỉ được tạo ra sau khi truyền máu",
+            "Xét nghiệm sàng lọc không thể phát hiện kháng thể hệ Kidd (Jk)"
+          ],
+          "answer": 1,
+          "explain": "Lý do chính khiến sàng lọc kháng thể âm tính là vì nồng độ kháng thể gây DHTR (như anti-Kidd, anti-Duffy) tại thời điểm trước truyền máu thường quá thấp để các kỹ thuật sàng lọc thông thường có thể phát hiện được."
+        },
+        {
+          "q": "Đặc điểm tan máu trong phản ứng tan máu muộn thường là gì?",
+          "options": [
+            "Chủ yếu là tan máu nội mạch",
+            "Chủ yếu là tan máu ngoại mạch (tại lách)",
+            "Luôn luôn dẫn đến suy thận cấp",
+            "Gây ra đông máu nội mạch lan tỏa"
+          ],
+          "answer": 1,
+          "explain": "Khác với tan máu cấp (thường do IgM, nội mạch), tan máu muộn thường do các kháng thể IgG. Các hồng cầu được bao bọc bởi IgG không hoạt hóa bổ thể mạnh mẽ, thay vào đó chúng bị các đại thực bào ở lách và gan nhận diện và phá hủy. Đây được gọi là tan máu ngoại mạch. Do đó, các triệu chứng thường nhẹ nhàng và âm thầm hơn."
+        },
+        {
+          "q": "Việc xác định được kháng thể anti-Jkᵃ có ý nghĩa gì cho tương lai của bệnh nhân?",
+          "options": [
+            "Bệnh nhân không bao giờ được truyền máu nữa",
+            "Bệnh nhân cần được thông báo và mang thẻ nhận dạng kháng thể; các lần truyền máu sau phải sử dụng máu không có kháng nguyên Jkᵃ",
+            "Bệnh nhân cần được điều trị bằng thuốc ức chế miễn dịch",
+            "Không có ý nghĩa đặc biệt"
+          ],
+          "answer": 1,
+          "explain": "Một khi đã xác định được một kháng thể bất thường có ý nghĩa lâm sàng, thông tin này là cực kỳ quan trọng. Bệnh nhân phải được cấp thẻ nhận dạng, và thông tin này phải được lưu trong hồ sơ y tế. Trong tất cả các lần truyền máu sau này, bệnh nhân phải nhận được các đơn vị máu đã được lựa chọn đặc biệt, không mang kháng nguyên tương ứng (trong trường hợp này là Jkᵃ) để tránh tái diễn phản ứng tan máu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi, xơ gan, sốt cao 40°C và sốc nặng sau 30 phút truyền tiểu cầu",
+      "body": "Bệnh nhân nam 60 tuổi bị xơ gan, đang được truyền một đơn vị tiểu cầu máy. Khoảng 30 phút sau khi bắt đầu truyền, bệnh nhân đột ngột <b>rét run dữ dội, nhiệt độ tăng vọt lên 40°C, huyết áp tụt xuống 70/40 mmHg</b>. Bệnh nhân lơ mơ, <b>da nổi vân tím, chân tay lạnh</b>. Tình trạng sốc diễn tiến rất nhanh và không đáp ứng với bù dịch ban đầu.",
+      "questions": [
+        {
+          "q": "Phản ứng nào là nguyên nhân có khả năng cao nhất gây ra tình trạng nguy kịch này?",
+          "options": [
+            "Phản ứng sốt không do tan máu (FNHTR) thể nặng",
+            "Phản ứng tan máu cấp",
+            "Sốc nhiễm khuẩn do túi máu bị nhiễm trùng",
+            "Phản ứng phản vệ"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh một phản ứng sốt cao, rét run dữ dội và sốc nặng, tiến triển nhanh ngay sau khi truyền máu phải luôn đặt ra nghi ngờ về sốc nhiễm khuẩn do túi máu bị nhiễm trùng. Mức độ nặng và diễn tiến nhanh của sốc giúp phân biệt với FNHTR thường lành tính hơn."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính của sốc nhiễm khuẩn trong truyền máu là gì?",
+          "options": [
+            "Phản ứng của kháng thể người nhận với bạch cầu người cho",
+            "Các nội độc tố (lipopolysaccharide) từ vi khuẩn gram âm trong túi máu gây ra đáp ứng viêm hệ thống và sốc giãn mạch",
+            "Hoạt hóa hệ thống bổ thể do bất đồng nhóm máu",
+            "Giải phóng histamin ồ ạt từ các tế bào mast"
+          ],
+          "answer": 1,
+          "explain": "Khi túi máu bị nhiễm vi khuẩn, đặc biệt là vi khuẩn gram âm, chúng sẽ nhân lên và giải phóng nội độc tố. Khi truyền vào bệnh nhân, lượng lớn nội độc tố này kích hoạt một cơn bão cytokine, gây ra đáp ứng viêm hệ thống toàn thân (SIRS) dẫn đến giãn mạch, tăng tính thấm thành mạch, và cuối cùng là sốc nhiễm khuẩn và suy đa tạng."
+        },
+        {
+          "q": "Chế phẩm máu nào có nguy cơ nhiễm khuẩn cao nhất?",
+          "options": [
+            "Khối hồng cầu",
+            "Khối tiểu cầu",
+            "Huyết tương tươi đông lạnh",
+            "Tủa lạnh (Cryoprecipitate)"
+          ],
+          "answer": 1,
+          "explain": "Khối tiểu cầu có nguy cơ nhiễm khuẩn cao nhất vì chúng phải được bảo quản ở nhiệt độ phòng (20-24°C), là điều kiện lý tưởng cho vi khuẩn phát triển. Ngược lại, khối hồng cầu và huyết tương được bảo quản ở nhiệt độ lạnh (2-6°C) hoặc đông lạnh, ức chế sự phát triển của hầu hết các loại vi khuẩn."
+        },
+        {
+          "q": "Xử trí ngay lập tức và quan trọng nhất bên cạnh việc ngừng truyền máu là gì?",
+          "options": [
+            "Cho thuốc hạ sốt và theo dõi",
+            "Hồi sức chống sốc (bù dịch, thuốc vận mạch) và cấy máu bệnh nhân, cấy túi máu, bắt đầu kháng sinh phổ rộng liều cao",
+            "Tiêm Adrenalin bắp",
+            "Làm nghiệm pháp Coombs trực tiếp"
+          ],
+          "answer": 1,
+          "explain": "Đây là một cấp cứu nội khoa. Song song với việc ngừng truyền, phải tiến hành hồi sức chống sốc tích cực. Việc cấy máu từ bệnh nhân và phần còn lại của túi máu là cực kỳ quan trọng để xác định tác nhân gây bệnh. Kháng sinh phổ rộng, bao phủ cả gram âm và gram dương, phải được bắt đầu ngay lập tức mà không chờ kết quả cấy máu."
+        },
+        {
+          "q": "Vi khuẩn nào thường là tác nhân gây nhiễm khuẩn trong các túi tiểu cầu?",
+          "options": [
+            "Các vi khuẩn gram dương thường trú trên da (ví dụ: Staphylococcus epidermidis)",
+            "Virus viêm gan B",
+            "Ký sinh trùng sốt rét",
+            "Các vi khuẩn kỵ khí"
+          ],
+          "answer": 0,
+          "explain": "Nguyên nhân phổ biến nhất của nhiễm khuẩn túi tiểu cầu là do sự lây nhiễm từ hệ vi khuẩn trên da của người hiến máu trong quá trình chọc tĩnh mạch lấy máu. Do đó, các vi khuẩn gram dương như tụ cầu (Staphylococcus) là tác nhân thường gặp. Tuy nhiên, vi khuẩn gram âm, dù ít gặp hơn, lại thường gây ra các phản ứng nghiêm trọng hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 65 tuổi, u lympho không Hodgkin, sốt cao, ban đỏ và tiêu chảy sau 12 ngày truyền máu từ người thân",
+      "body": "Bệnh nhân nữ 65 tuổi, có u lympho không Hodgkin, được truyền 2 đơn vị khối hồng cầu không được chiếu xạ từ người con trai ruột. Khoảng 12 ngày sau khi truyền máu, bệnh nhân bắt đầu <b>sốt cao, xuất hiện ban đỏ toàn thân, tiêu chảy nước ồ ạt và tăng men gan</b>.<br><br>Xét nghiệm công thức máu cho thấy <b>tình trạng giảm ba dòng tế bào máu rất nặng (Hb 60 g/L, Bạch cầu 0.5 G/L, Tiểu cầu 10 G/L)</b>. <b>Sinh thiết da cho thấy sự xâm nhập của các tế bào lympho</b>.",
+      "questions": [
+        {
+          "q": "Biến chứng muộn nào của truyền máu có khả năng xảy ra nhất?",
+          "options": [
+            "Phản ứng tan máu muộn",
+            "Nhiễm Cytomegalovirus (CMV)",
+            "Bệnh mảnh ghép chống chủ liên quan đến truyền máu (TA-GVHD)",
+            "Quá tải sắt"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh khởi phát sau 1-2 tuần truyền máu với bộ ba triệu chứng kinh điển: sốt, viêm da, và viêm ruột (tiêu chảy), cùng với suy tủy (giảm 3 dòng) và viêm gan là hình ảnh điển hình của TA-GVHD. Bệnh nhân có yếu tố nguy cơ là suy giảm miễn dịch (u lympho) và nhận máu từ người thân."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của TA-GVHD là gì?",
+          "options": [
+            "Các tế bào lympho T có khả năng miễn dịch của người cho trong túi máu tấn công các mô của người nhận bị suy giảm miễn dịch",
+            "Các kháng thể trong máu người nhận tấn công các tế bào gốc của tủy xương",
+            "Virus từ người cho tái hoạt động trong cơ thể người nhận",
+            "Các tế bào ung thư từ người cho di căn sang người nhận"
+          ],
+          "answer": 0,
+          "explain": "TA-GVHD xảy ra khi các tế bào lympho T sống, có thẩm quyền miễn dịch từ người cho được truyền vào một người nhận có hệ miễn dịch quá yếu để tiêu diệt chúng. Các lympho T \"lạ\" này sẽ nhận diện các mô của người nhận (da, gan, ruột, tủy xương) là \"vật lạ\" và tấn công, gây ra các tổn thương cơ quan nghiêm trọng."
+        },
+        {
+          "q": "Tại sao việc truyền máu từ người thân ruột thịt lại làm tăng nguy cơ của biến chứng này?",
+          "options": [
+            "Vì nhóm máu ABO thường giống nhau",
+            "Vì có sự tương đồng một phần về HLA, khiến hệ miễn dịch của người nhận không nhận diện và tiêu diệt được lympho T của người cho",
+            "Vì người thân có nhiều khả năng mang các bệnh nhiễm trùng tiềm ẩn",
+            "Vì túi máu từ người thân không được sàng lọc kỹ càng"
+          ],
+          "answer": 1,
+          "explain": "Nguy cơ TA-GVHD tăng lên khi người cho và người nhận có chung một haplotype HLA (thường gặp ở người thân ruột thịt). Trong trường hợp này, lympho T của người cho (ví dụ, haplotype A) sẽ không bị hệ miễn dịch của người nhận (haplotype A và B) tấn công vì nó không được xem là \"lạ\". Tuy nhiên, chính lympho T này sau đó sẽ tấn công các tế bào mang haplotype B của người nhận. Điều này được gọi là \"phản ứng một chiều\"."
+        },
+        {
+          "q": "Biện pháp nào là duy nhất và hiệu quả nhất để phòng ngừa TA-GVHD?",
+          "options": [
+            "Sử dụng các chế phẩm máu giảm bạch cầu",
+            "Chiếu xạ gamma các chế phẩm máu có chứa tế bào",
+            "Sàng lọc HIV cho người cho máu",
+            "Chỉ truyền máu cùng nhóm Rh"
+          ],
+          "answer": 1,
+          "explain": "Chiếu xạ gamma các chế phẩm máu (khối hồng cầu, khối tiểu cầu) trước khi truyền là biện pháp phòng ngừa tiêu chuẩn và hiệu quả duy nhất. Chiếu xạ làm bất hoạt khả năng phân chia của các tế bào lympho T trong túi máu, do đó chúng không thể tăng sinh và tấn công người nhận, trong khi vẫn không ảnh hưởng đến chức năng của hồng cầu và tiểu cầu. Việc giảm bạch cầu không loại bỏ hoàn toàn nguy cơ."
+        },
+        {
+          "q": "Tiên lượng của bệnh nhân bị TA-GVHD là gì?",
+          "options": [
+            "Thường tự khỏi sau vài tuần",
+            "Đáp ứng tốt với điều trị corticosteroid",
+            "Tỷ lệ tử vong rất cao (>90%), thường do nhiễm trùng hoặc chảy máu",
+            "Có thể được chữa khỏi bằng cách truyền lại máu từ người cho ban đầu"
+          ],
+          "answer": 2,
+          "explain": "TA-GVHD là một biến chứng cực kỳ nghiêm trọng và gần như luôn gây tử vong. Tình trạng suy tủy nặng không hồi phục dẫn đến tử vong do nhiễm trùng hoặc chảy máu. Các phương pháp điều trị ức chế miễn dịch hiện tại hầu như không hiệu quả. Do đó, việc xác định đúng đối tượng nguy cơ và chiếu xạ máu dự phòng là tối quan trọng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 42 tuổi, đã sinh 3 lần, bầm tím nhiều và chảy máu 7 ngày sau phẫu thuật cắt túi mật",
+      "body": "Bệnh nhân nữ 42 tuổi, đã sinh 3 lần, nhập viện để phẫu thuật cắt túi mật nội soi. Bệnh nhân có nhóm máu A, Rh+, không có tiền sử bệnh huyết học. Trong quá trình phẫu thuật, bệnh nhân được truyền 1 đơn vị khối hồng cầu. Cuộc mổ diễn ra thuận lợi.<br><br>Tuy nhiên, 7 ngày sau phẫu thuật, bệnh nhân đột ngột xuất hiện <b>nhiều mảng bầm tím lớn trên da, chảy máu chân răng và chảy máu cam</b>. Xét nghiệm công thức máu cho thấy <b>số lượng tiểu cầu giảm rất nặng: 5 G/L</b>. Nồng độ hemoglobin và số lượng bạch cầu bình thường. <b>Tủy đồ cho thấy tăng sinh dòng mẫu tiểu cầu</b>. Xét nghiệm miễn dịch phát hiện <b>kháng thể kháng tiểu cầu đặc hiệu HPA-1a</b> trong máu bệnh nhân.",
+      "questions": [
+        {
+          "q": "Biến chứng muộn của truyền máu mà bệnh nhân gặp phải là gì?",
+          "options": [
+            "Ban xuất huyết sau truyền máu (Post-transfusion purpura - PTP)",
+            "Xuất huyết giảm tiểu cầu miễn dịch (ITP) khởi phát ngẫu nhiên",
+            "Đông máu nội mạch lan tỏa (DIC)",
+            "Suy tủy xương"
+          ],
+          "answer": 0,
+          "explain": "PTP là một biến chứng hiếm gặp nhưng nghiêm trọng, đặc trưng bởi sự khởi phát đột ngột của tình trạng giảm tiểu cầu rất nặng, thường xảy ra khoảng 5-10 ngày sau khi truyền các chế phẩm máu có chứa tiểu cầu hoặc mảnh vỡ tiểu cầu (như khối hồng cầu)."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của PTP là gì?",
+          "options": [
+            "Tiểu cầu của người cho tấn công hệ miễn dịch của người nhận",
+            "Bệnh nhân (thường là HPA-1a âm tính) tạo ra kháng thể chống lại kháng nguyên HPA-1a trên tiểu cầu của người cho, và kháng thể này cũng phá hủy cả tiểu cầu của chính bệnh nhân",
+            "Vi khuẩn trong túi máu gây ức chế dòng mẫu tiểu cầu",
+            "Các mảnh vỡ hồng cầu từ túi máu gây kết tập tiểu cầu"
+          ],
+          "answer": 1,
+          "explain": "PTP xảy ra ở những bệnh nhân thiếu một kháng nguyên tiểu cầu phổ biến (ví dụ, HPA-1a âm tính). Khi tiếp xúc với kháng nguyên này qua truyền máu, họ tạo ra kháng thể (anti-HPA-1a). Điều phức tạp và chưa được hiểu rõ hoàn toàn là kháng thể này không chỉ phá hủy các tiểu cầu lạ mang kháng nguyên HPA-1a mà còn bằng cách nào đó gây ra sự phá hủy cả tiểu cầu tự thân (vốn không có kháng nguyên HPA-1a)."
+        },
+        {
+          "q": "Tại sao tình trạng này thường xảy ra ở phụ nữ đã sinh đẻ nhiều lần?",
+          "options": [
+            "Do thay đổi nội tiết tố sau sinh",
+            "Do họ đã được mẫn cảm với các kháng nguyên tiểu cầu lạ từ thai nhi trong các lần mang thai trước",
+            "Do phụ nữ có số lượng tiểu cầu thấp hơn nam giới",
+            "Do họ thường bị thiếu sắt"
+          ],
+          "answer": 1,
+          "explain": "Tương tự như việc hình thành kháng thể kháng bạch cầu, trong quá trình mang thai và sinh đẻ, một lượng nhỏ tế bào máu của thai nhi (có thể mang kháng nguyên HPA-1a từ người cha) có thể đi vào tuần hoàn của người mẹ. Nếu người mẹ là HPA-1a âm tính, hệ miễn dịch của họ có thể bị mẫn cảm và tạo ra kháng thể. Lần truyền máu sau này đóng vai trò như một lần tái tiếp xúc, gây ra đáp ứng miễn dịch mạnh mẽ."
+        },
+        {
+          "q": "Điều trị đầu tay cho tình trạng giảm tiểu cầu nặng trong PTP là gì?",
+          "options": [
+            "Truyền khối tiểu cầu",
+            "Globulin miễn dịch liều cao đường tĩnh mạch (IVIg)",
+            "Cắt lách",
+            "Yếu tố VIIa tái tổ hợp"
+          ],
+          "answer": 1,
+          "explain": "IVIg được coi là điều trị tiêu chuẩn cho PTP. Cơ chế của nó là điều hòa miễn dịch, có thể bao gồm việc phong tỏa các thụ thể Fc trên đại thực bào, ngăn chặn chúng phá hủy các tiểu cầu bị bao bọc bởi kháng thể, và trung hòa các tự kháng thể."
+        },
+        {
+          "q": "Tại sao việc truyền tiểu cầu ngẫu nhiên thường không hiệu quả và thậm chí có thể nguy hiểm trong PTP?",
+          "options": [
+            "Vì các tiểu cầu được truyền vào sẽ nhanh chóng bị kháng thể phá hủy và có thể làm nặng thêm phản ứng miễn dịch",
+            "Vì hầu hết các đơn vị tiểu cầu đều không tương hợp nhóm máu ABO",
+            "Vì sẽ gây quá tải tuần hoàn",
+            "Vì sẽ làm tăng nguy cơ nhiễm khuẩn huyết"
+          ],
+          "answer": 0,
+          "explain": "Việc truyền tiểu cầu từ những người cho ngẫu nhiên thường không có hiệu quả vì 98% dân số là HPA-1a dương tính. Do đó, các tiểu cầu được truyền vào sẽ tiếp tục cung cấp kháng nguyên, thúc đẩy phản ứng miễn dịch và bị phá hủy nhanh chóng. Thậm chí, nó có thể làm các triệu chứng toàn thân nặng hơn. Chỉ nên xem xét truyền tiểu cầu tương hợp HPA âm tính nếu bệnh nhân có chảy máu đe dọa tính mạng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi, Thalassemia, da sạm, gan to sau nhiều lần truyền máu",
+      "body": "Bệnh nhân nam 55 tuổi, bị Thalassemia, đã truyền máu rất nhiều lần trong đời (ước tính trên 150 đơn vị khối hồng cầu). Bệnh nhân đến khám vì <b>mệt mỏi, sạm da, đau khớp và giảm ham muốn tình dục</b>. Khám thấy <b>da sạm màu đồng, gan to, lách to</b>.<br><br>Xét nghiệm: Hb 80 g/L, <b>Glucose máu lúc đói 8.5 mmol/L, AST 80 U/L, ALT 95 U/L</b>. <b>Ferritin huyết thanh > 5000 ng/mL (rất cao)</b>. Chụp cộng hưởng từ (MRI) tim và gan cho thấy <b>sự lắng đọng sắt nặng</b>.",
+      "questions": [
+        {
+          "q": "Bệnh nhân đang bị biến chứng muộn nào của truyền máu mạn tính?",
+          "options": [
+            "Bệnh mảnh ghép chống chủ",
+            "Phản ứng tan máu muộn",
+            "Nhiễm virus viêm gan B mạn tính",
+            "Quá tải sắt do truyền máu (Transfusional iron overload)"
+          ],
+          "answer": 3,
+          "explain": "Bệnh cảnh một bệnh nhân phụ thuộc truyền máu có biểu hiện tổn thương đa cơ quan (gan, tụy, tim, tuyến nội tiết) và nồng độ ferritin rất cao là hình ảnh điển hình của quá tải sắt. Mỗi đơn vị khối hồng cầu chứa khoảng 200-250 mg sắt."
+        },
+        {
+          "q": "Cơ chế nào dẫn đến tình trạng này?",
+          "options": [
+            "Cơ thể không có cơ chế sinh lý để chủ động thải trừ lượng sắt dư thừa được đưa vào qua truyền máu",
+            "Mỗi đơn vị hồng cầu được truyền vào đều gây ra một phản ứng viêm mạn tính",
+            "Hệ miễn dịch của bệnh nhân bị suy yếu do truyền máu nhiều lần",
+            "Sắt từ hồng cầu được truyền vào có độc tính cao hơn sắt từ thức ăn"
+          ],
+          "answer": 0,
+          "explain": "Cơ thể con người chỉ có thể hấp thu sắt từ ruột một cách có kiểm soát nhưng lại thiếu một con đường hiệu quả để thải sắt thừa. Lượng sắt nhỏ mất đi hàng ngày qua da, mồ hôi... không thể bù lại lượng sắt khổng lồ được đưa vào qua các đơn vị máu. Do đó, sắt sẽ tích tụ dần trong cơ thể, lắng đọng tại các cơ quan và gây tổn thương do stress oxy hóa."
+        },
+        {
+          "q": "Sự lắng đọng sắt ở cơ quan nào sau đây là nguy hiểm và đe dọa tính mạng nhất?",
+          "options": [
+            "Da",
+            "Tuyến yên",
+            "Tim",
+            "Khớp"
+          ],
+          "answer": 2,
+          "explain": "Mặc dù sắt lắng đọng ở nhiều cơ quan, nhưng sự lắng đọng ở tim là nguy hiểm nhất. Nó gây ra bệnh cơ tim do sắt, dẫn đến suy tim sung huyết và các rối loạn nhịp tim chết người. Đây là nguyên nhân tử vong hàng đầu ở các bệnh nhân Thalassemia không được thải sắt đầy đủ."
+        },
+        {
+          "q": "Mục tiêu chính của điều trị cho biến chứng này là gì?",
+          "options": [
+            "Ngăn ngừa truyền máu thêm",
+            "Loại bỏ sắt dư thừa ra khỏi cơ thể bằng thuốc thải sắt",
+            "Điều trị đái tháo đường và suy gan",
+            "Cắt lách để giảm nhu cầu truyền máu"
+          ],
+          "answer": 1,
+          "explain": "Mục tiêu điều trị là duy trì gánh nặng sắt trong cơ thể ở mức an toàn để ngăn ngừa hoặc đảo ngược tổn thương cơ quan. Điều này đạt được bằng cách sử dụng các loại thuốc có khả năng gắn với sắt và đào thải phức hợp này qua nước tiểu hoặc phân. Việc điều trị các biến chứng như đái tháo đường là cần thiết nhưng không giải quyết được gốc rễ vấn đề."
+        },
+        {
+          "q": "Thuốc nào sau đây là một thuốc thải sắt đường uống thường được sử dụng?",
+          "options": [
+            "Deferoxamine",
+            "Deferasirox",
+            "Penicillamine",
+            "Dimercaprol"
+          ],
+          "answer": 1,
+          "explain": "Deferasirox và Deferiprone là các thuốc thải sắt thế hệ mới, có ưu điểm là dùng đường uống, giúp cải thiện sự tuân thủ điều trị của bệnh nhân. Deferoxamine là thuốc thải sắt kinh điển nhưng phải dùng qua đường truyền dưới da hoặc tĩnh mạch kéo dài nhiều giờ mỗi ngày, rất bất tiện."
+        }
+      ]
+    }
+  ]
+}
