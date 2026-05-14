@@ -1,0 +1,620 @@
+{
+  "name": "Tràn dịch màng phổi (Up)",
+  "description": "Bộ case lâm sàng về tràn dịch màng phổi - ôn thi nội trú",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Hô hấp",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 25 tuổi, ho khan và đau ngực kiểu màng phổi bên phải 3 tuần",
+      "body": "Bệnh nhân nam, 25 tuổi, tiền sử khỏe mạnh, vào viện vì <b>ho khan, sốt nhẹ về chiều và đau ngực kiểu màng phổi bên phải 3 tuần nay</b>. Không hút thuốc lá, không sụt cân.<br><br><b>Khám lâm sàng:</b> Mạch 90 lần/phút, HA 110/70 mmHg, T° 37.8°C, Nhịp thở 20 lần/phút. Phổi phải có <b>hội chứng ba giảm ở vùng đáy, không có ran</b>. Toàn thân không thấy ngón tay dùi trống, không sờ thấy hạch ngoại vi.<br><br><b>Chọc dịch màng phổi:</b> Dịch màu vàng chanh. Chẩn đoán ban đầu: dịch tiết ưu thế tế bào lympho.",
+      "questions": [
+        {
+          "q": "Định hướng chẩn đoán nguyên nhân cao nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Viêm màng phổi do vi khuẩn",
+            "Tràn dịch màng phổi ác tính",
+            "Lao màng phổi",
+            "Thuyên tắc động mạch phổi"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân trẻ tuổi, hội chứng nhiễm trùng-nhiễm độc mạn tính (sốt nhẹ về chiều, ho khan kéo dài 3 tuần) kèm dịch tiết ưu thế lympho rất điển hình cho lao màng phổi. Các nguyên nhân viêm phổi do vi khuẩn thường cấp tính và ưu thế bạch cầu đa nhân."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính gây hình thành tràn dịch trong bối cảnh này là gì?",
+          "options": [
+            "Tăng áp lực thủy tĩnh mao mạch",
+            "Giảm áp lực keo huyết tương",
+            "Suy giảm dẫn lưu bạch huyết",
+            "Tăng tính thấm mao mạch"
+          ],
+          "answer": 3,
+          "explain": "Lao màng phổi gây viêm màng phổi đặc hiệu, phản ứng viêm dẫn đến tăng tính thấm mao mạch màng phổi, làm rò rỉ protein và dịch vào khoang màng phổi tạo ra dịch tiết."
+        },
+        {
+          "q": "Xét nghiệm sinh hóa dịch màng phổi nào có giá trị cao nhất để củng cố chẩn đoán bệnh lý này?",
+          "options": [
+            "Định lượng LDH",
+            "Định lượng ADA",
+            "Định lượng Protein",
+            "Định lượng Amylase"
+          ],
+          "answer": 1,
+          "explain": "Men Adenosine Deaminase (ADA) trong dịch màng phổi tăng cao (thường > 40 U/L) có độ nhạy và độ đặc hiệu rất cao cho lao màng phổi ở vùng dịch tễ, giúp củng cố chẩn đoán khi chờ kết quả nuôi cấy."
+        },
+        {
+          "q": "Xử trí ban đầu ưu tiên nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Dẫn lưu màng phổi cấp cứu",
+            "Phác đồ thuốc kháng lao",
+            "Kháng sinh phổ rộng đường tĩnh mạch",
+            "Bơm bột Talc gây dính màng phổi"
+          ],
+          "answer": 1,
+          "explain": "Khi đã chẩn đoán lao màng phổi, điều trị nội khoa bằng phác đồ thuốc kháng lao là nguyên tắc cơ bản và quyết định nhất để giải quyết tình trạng viêm và tràn dịch."
+        },
+        {
+          "q": "Nếu không được chẩn đoán và điều trị sớm, biến chứng cơ học tại chỗ phổ biến nhất là gì?",
+          "options": [
+            "Tràn khí màng phổi áp lực",
+            "Sốc nhiễm khuẩn",
+            "Dày dính màng phổi",
+            "Nhồi máu nhu mô phổi"
+          ],
+          "answer": 2,
+          "explain": "Viêm màng phổi do lao chứa nhiều fibrin, nếu dịch màng phổi tồn lưu lâu không được hấp thu hoặc điều trị muộn sẽ dẫn đến tổ chức hóa, gây dày dính màng phổi, ảnh hưởng đến chức năng hô hấp sau này."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi, khó thở khi nằm, phù hai chi dưới tăng dần 1 tuần",
+      "body": "Bệnh nhân nam, 68 tuổi, tiền sử đái tháo đường và bệnh mạch vành, vào viện vì <b>khó thở khi nằm và phù hai chi dưới tăng dần 1 tuần nay</b>.<br><br><b>Khám:</b> Mạch 85 lần/phút, HA 140/90 mmHg, Nhịp thở 22 lần/phút, không sốt. <b>Phù ấn lõm hai cẳng chân, tĩnh mạch cổ nổi tư thế 45 độ</b>. Nghe tim có <b>tiếng ngựa phi T3</b>. Phổi <b>gõ đục và giảm rì rào phế nang ở 1/3 dưới hai bên</b>. Bệnh nhân không ho khạc đờm, không đau ngực.",
+      "questions": [
+        {
+          "q": "Nguyên nhân gây tràn dịch màng phổi phù hợp nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Viêm phổi mắc phải cộng đồng",
+            "Suy tim toàn bộ",
+            "Ung thư phế quản",
+            "Nhồi máu động mạch phổi"
+          ],
+          "answer": 1,
+          "explain": "Bối cảnh lâm sàng (khó thở khi nằm, phù ngoại vi, tĩnh mạch cổ nổi, tiếng T3, tràn dịch hai bên) hoàn toàn điển hình cho hội chứng suy tim toàn bộ sung huyết."
+        },
+        {
+          "q": "Đặc điểm dịch màng phổi mong đợi nhất ở bệnh nhân này theo tiêu chuẩn Light là gì?",
+          "options": [
+            "Tỷ lệ Protein DMP/HT > 0.5",
+            "Tỷ lệ LDH DMP/HT > 0.6",
+            "LDH DMP > 2/3 giới hạn trên bình thường",
+            "Tỷ lệ Protein DMP/HT < 0.5"
+          ],
+          "answer": 3,
+          "explain": "Tràn dịch màng phổi do suy tim là dịch thấm. Theo tiêu chuẩn Light, dịch thấm có tỷ lệ Protein dịch/máu < 0.5, tỷ lệ LDH dịch/máu < 0.6 và LDH dịch thấp."
+        },
+        {
+          "q": "Nếu bệnh nhân đã dùng lợi tiểu quai liều cao vài ngày trước khi chọc dịch, hiện tượng nào dễ xảy ra nhất khi phân tích dịch?",
+          "options": [
+            "Dịch màng phổi chuyển thành dịch tiết giả",
+            "Tăng tỷ lệ bạch cầu đa nhân trung tính",
+            "Nồng độ Glucose dịch màng phổi giảm sâu",
+            "Dịch chuyển màu thành đỏ máu"
+          ],
+          "answer": 0,
+          "explain": "Việc sử dụng lợi tiểu sẽ cô đặc dịch màng phổi do nước được tái hấp thu nhanh hơn protein và LDH, dẫn đến dịch thấm bị đọc nhầm thành dịch tiết giả (pseudoexudate) theo tiêu chuẩn Light. Khi đó cần dựa vào Gradient Albumin HT-DMP > 12 g/L để khẳng định dịch thấm."
+        },
+        {
+          "q": "Chỉ định chọc tháo dịch màng phổi chẩn đoán được đặt ra khi có các đặc điểm sau, TRỪ trường hợp nào?",
+          "options": [
+            "Sốt kèm đau ngực kiểu màng phổi",
+            "Tràn dịch màng phổi một bên",
+            "Tràn dịch hai bên lượng ít và đối xứng",
+            "Khó thở không đáp ứng với lợi tiểu"
+          ],
+          "answer": 2,
+          "explain": "Theo guideline, bệnh nhân suy tim có tràn dịch màng phổi lượng ít, hai bên đối xứng và không có dấu hiệu viêm (không sốt, không đau ngực) thì không cần chọc dịch chẩn đoán mà nên điều trị thử lợi tiểu trước."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính gây hình thành tràn dịch trong bệnh lý này là gì?",
+          "options": [
+            "Tăng tính thấm thành mạch",
+            "Tắc nghẽn hệ thống bạch huyết",
+            "Giảm áp lực keo huyết tương",
+            "Tăng áp lực thủy tĩnh hệ thống"
+          ],
+          "answer": 3,
+          "explain": "Suy tim trái và phải dẫn đến ứ trệ tuần hoàn tĩnh mạch phổi và tĩnh mạch hệ thống, làm tăng áp lực thủy tĩnh đẩy dịch từ lòng mạch vào khoảng kẽ và khoam màng phổi."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi, sốt cao 39.5°C, ho khạc đờm mủ đục, đau ngực phải 5 ngày",
+      "body": "Bệnh nhân nam, 55 tuổi, tiền sử đái tháo đường type 2 kiểm soát kém, vào viện vì <b>sốt cao 39.5°C, rét run, ho khạc đờm mủ đục và đau ngực phải dữ dội 5 ngày nay</b>.<br><br><b>Khám:</b> Mạch 115 lần/phút, HA 100/60 mmHg, Nhịp thở 26 lần/phút. Phổi phải có <b>hội chứng ba giảm ở 1/2 dưới</b>.<br><br><b>Siêu âm màng phổi:</b> Lớp dịch dày 40mm, có vách hóa.<br><br><b>Chọc hút dịch màng phổi:</b> Dịch mủ đục, <b>Bạch cầu 60.000/μL (95% Neutrophil)</b>, <b>pH 7.05</b>, <b>Glucose 1.2 mmol/L</b>, <b>LDH 1500 U/L</b>.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hiện tại phù hợp nhất là gì?",
+          "options": [
+            "Tràn dịch màng phổi dưỡng chấp",
+            "Tràn mủ màng phổi",
+            "Viêm phổi do virus",
+            "Tràn dịch màng phổi ác tính"
+          ],
+          "answer": 1,
+          "explain": "Sốt cao, đờm mủ, dịch màng phổi mủ đục có vách hóa, pH thấp và glucose thấp là tiêu chuẩn vàng chẩn đoán tràn dịch màng phổi phức tạp / tràn mủ màng phổi (Empyema)."
+        },
+        {
+          "q": "Thông số nào trong dịch màng phổi của bệnh nhân này là tiêu chuẩn chính để chỉ định dẫn lưu màng phổi cấp cứu?",
+          "options": [
+            "Mức độ bạch cầu đa nhân trung tính",
+            "Nồng độ Protein dịch màng phổi",
+            "Nồng độ pH dịch màng phổi < 7.20",
+            "Màu sắc dịch mủ đục đại thể"
+          ],
+          "answer": 2,
+          "explain": "Theo hướng dẫn của ACCP/BTS, chỉ định dẫn lưu ống màng phổi bắt buộc khi dịch có mủ đại thể, vi khuẩn soi nhuộm Gram (+) hoặc cấy (+), hoặc pH dịch màng phổi < 7.20."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh giải thích nồng độ Glucose dịch màng phổi thấp ở bệnh nhân này là gì?",
+          "options": [
+            "Rối loạn kênh chuyển glucose qua màng phổi",
+            "Vi khuẩn và bạch cầu tiêu thụ glucose",
+            "Tế bào ác tính chuyển hóa yếm khí",
+            "Phức hợp miễn dịch ức chế đường phân"
+          ],
+          "answer": 1,
+          "explain": "Trong nhiễm trùng khoang màng phổi, số lượng lớn vi khuẩn đang nhân lên và sự tập trung của bạch cầu đa nhân trung tính sẽ tiêu thụ lượng lớn glucose để chuyển hóa, làm glucose dịch màng phổi giảm sâu (< 3.3 mmol/L)."
+        },
+        {
+          "q": "Xử trí can thiệp ưu tiên nhất tại thời điểm này là gì?",
+          "options": [
+            "Chọc hút dịch màng phổi định kỳ mỗi ngày",
+            "Mở màng phổi đặt ống dẫn lưu dịch",
+            "Bơm thuốc tiêu sợi huyết ngay lập tức",
+            "Phẫu thuật bóc vỏ màng phổi cấp cứu"
+          ],
+          "answer": 1,
+          "explain": "Tràn mủ màng phổi (dịch đục, pH 7.05) bắt buộc phải giải áp và làm sạch khoang màng phổi bằng cách mở màng phổi đặt ống dẫn lưu dịch (Chest tube) song song với dùng kháng sinh."
+        },
+        {
+          "q": "Nếu sau khi can thiệp ban đầu 48 giờ, bệnh nhân vẫn sốt, siêu âm thấy dịch màng phổi tạo nhiều ổ khu trú không chảy qua ống, bước tiếp theo ưu tiên là gì?",
+          "options": [
+            "Rút ống dẫn lưu và đổi kháng sinh",
+            "Đặt thêm nhiều ống dẫn lưu nhỏ",
+            "Bơm thuốc tiêu sợi huyết màng phổi",
+            "Chọc hút kim nhỏ từng ổ dịch"
+          ],
+          "answer": 2,
+          "explain": "Khi tràn mủ màng phổi có vách hóa, tạo ổ khu trú khiến dẫn lưu kém hiệu quả, việc bơm thuốc tiêu sợi huyết (như Alteplase hoặc Urokinase) kết hợp DNase vào khoang màng phổi giúp phá vỡ các vách ngăn fibrin để dịch thoát ra dễ dàng hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi, hút thuốc 40 bao/năm, khó thở tăng 1 tháng, sụt 6kg",
+      "body": "Bệnh nhân nam, 72 tuổi, tiền sử hút thuốc lá 40 bao/năm, đến khám vì <b>khó thở tăng dần trong 1 tháng và sụt 6kg</b>.<br><br><b>Khám:</b> Mạch 95 lần/phút, HA 130/80 mmHg. <b>Lồng ngực trái vồng, hội chứng ba giảm toàn bộ phổi trái, đẩy lệch mỏm tim sang phải</b>.<br><br><b>Siêu âm:</b> Tràn dịch màng phổi trái lượng rất nhiều.<br><br><b>Chọc tháo:</b> 1500 mL dịch <b>màu đỏ máu, không đông</b>.",
+      "questions": [
+        {
+          "q": "Định hướng chẩn đoán nguyên nhân cao nhất là gì?",
+          "options": [
+            "Lao màng phổi",
+            "Tràn dịch màng phổi ác tính",
+            "Thuyên tắc động mạch phổi",
+            "Chấn thương ngực vỡ mạch máu"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân lớn tuổi, tiền sử hút thuốc lá nặng, sụt cân, tràn dịch màng phổi lượng lớn (đẩy lệch trung thất) có màu đỏ máu là dấu hiệu cảnh báo cao độ của tràn dịch màng phổi ác tính (ung thư phế quản hoặc u trung biểu mô)."
+        },
+        {
+          "q": "Dấu hiệu sinh lý bệnh nào đóng vai trò chính trong cơ chế tràn dịch ở bệnh lý này?",
+          "options": [
+            "Tăng áp lực thủy tĩnh mao mạch phổi",
+            "Tắc nghẽn hệ thống dẫn lưu bạch huyết",
+            "Giảm áp lực keo huyết tương",
+            "Vỡ hệ thống ống ngực trung thất"
+          ],
+          "answer": 1,
+          "explain": "Tế bào ung thư xâm lấn màng phổi gây tăng tính thấm, đồng thời khối u chèn ép hoặc các hạch di căn làm tắc nghẽn hệ thống dẫn lưu bạch huyết màng phổi khiến dịch không được tái hấp thu."
+        },
+        {
+          "q": "Vài giờ sau khi rút 1500 mL dịch màng phổi, bệnh nhân ho dữ dội, khó thở bứt rứt, SpO2 giảm, nghe phổi trái có ran ẩm dâng lên. Biến chứng nào vừa xảy ra?",
+          "options": [
+            "Phù phổi cấp do phổi nở lại",
+            "Tràn khí màng phổi áp lực",
+            "Phản xạ phế vị quá mức",
+            "Thuyên tắc động mạch phổi cấp"
+          ],
+          "answer": 0,
+          "explain": "Rút một lượng dịch lớn (>1-1.5 lít) trong thời gian ngắn làm áp lực âm khoang màng phổi thay đổi đột ngột, máu dồn về các mao mạch phổi tổn thương gây ra hội chứng phù phổi cấp do phổi nở lại (Re-expansion pulmonary edema)."
+        },
+        {
+          "q": "Một tuần sau, dịch màng phổi tái lập lượng nhiều gây khó thở trở lại. Phổi bệnh nhân được đánh giá có khả năng nở sát thành ngực. Biện pháp quản lý dài hạn ưu tiên là gì?",
+          "options": [
+            "Đặt catheter màng phổi lưu kéo dài",
+            "Gây dính màng phổi bằng hóa chất",
+            "Chọc tháo dịch màng phổi hàng tuần",
+            "Mở cửa sổ màng phổi ra da"
+          ],
+          "answer": 1,
+          "explain": "Đối với tràn dịch màng phổi ác tính tái phát nhanh, nếu nhu mô phổi còn đàn hồi và nở sát được thành ngực, gây dính màng phổi (Pleurodesis) bằng hóa chất (như bột Talc) là phương pháp quản lý triệu chứng tiêu chuẩn và hiệu quả."
+        },
+        {
+          "q": "Trong trường hợp X-quang kiểm tra thấy nhu mô phổi bị bọc cứng không thể nở sát thành ngực (Trapped lung), phương án xử trí dịch tái phát nào là phù hợp nhất?",
+          "options": [
+            "Gây dính màng phổi bằng bột Talc",
+            "Chọc hút kim nhỏ định kỳ hàng tháng",
+            "Đặt catheter màng phổi lưu (IPC)",
+            "Phẫu thuật cắt thùy phổi dưới"
+          ],
+          "answer": 2,
+          "explain": "Nếu có hội chứng phổi bị kẹt (Trapped lung) do u bao bọc, màng phổi lá tạng và lá thành không thể áp sát nhau, thủ thuật gây dính sẽ thất bại. Khi đó, đặt catheter màng phổi lưu (Indwelling Pleural Catheter - IPC) là phương án tối ưu để bệnh nhân tự tháo dịch giảm khó thở tại nhà."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi, xơ gan do rượu 5 năm, cổ trướng vừa, khó thở nhiều đột ngột",
+      "body": "Bệnh nhân nam, 50 tuổi, có tiền sử <b>xơ gan do rượu 5 năm</b>, đang có cổ trướng lượng vừa. <b>Đột ngột xuất hiện khó thở nhiều, không sốt, không ho, không đau ngực</b>.<br><br><b>Khám:</b> Mạch 100 lần/phút, HA 110/70 mmHg, SpO2 92% khí trời. <b>Khám phổi có hội chứng ba giảm ở 2/3 dưới phổi phải</b>. Siêu âm tim bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguyên nhân gây tràn dịch màng phổi nghĩ đến nhiều nhất là gì?",
+          "options": [
+            "Suy tim sung huyết toàn bộ",
+            "Hội chứng thận hư",
+            "Tràn dịch màng phổi do xơ gan",
+            "Nhồi máu động mạch phổi"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân xơ gan cổ trướng xuất hiện tràn dịch màng phổi (thường là bên phải) không kèm dấu hiệu nhiễm trùng hay suy tim, định hướng chẩn đoán là tràn dịch màng phổi do xơ gan (Hepatic hydrothorax)."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính dẫn đến tràn dịch màng phổi trong trường hợp này là gì?",
+          "options": [
+            "Giảm áp lực thẩm thấu máu",
+            "Tăng tính thấm thành mạch màng phổi",
+            "Dịch cổ trướng di chuyển qua lỗ khuyết cơ hoành",
+            "Tắc nghẽn tĩnh mạch chủ dưới do gan xơ"
+          ],
+          "answer": 2,
+          "explain": "Cơ chế chính của Hepatic hydrothorax là dịch cổ trướng do tăng áp lực tĩnh mạch cửa được hút qua các lỗ khuyết siêu nhỏ ở cơ hoành (thường bên phải) vào khoang màng phổi dưới tác dụng của áp lực âm trong lồng ngực."
+        },
+        {
+          "q": "Tiêu chuẩn chẩn đoán hóa sinh điển hình của dịch màng phổi nguyên nhân này là gì?",
+          "options": [
+            "Dịch tiết với Bạch cầu lympho ưu thế",
+            "Dịch thấm với Gradient Albumin HT-DMP > 11 g/L",
+            "Dịch thấm với Protein dịch > 30 g/L",
+            "Dịch tiết với Gradient Albumin HT-DMP < 11 g/L"
+          ],
+          "answer": 1,
+          "explain": "Do dịch màng phổi có nguồn gốc từ dịch cổ trướng trong xơ gan, nó có tính chất của dịch thấm (chênh lệch Albumin huyết thanh và dịch màng phổi SAAG > 1.1 g/dL hay > 11 g/L)."
+        },
+        {
+          "q": "Điều trị nội khoa ban đầu ưu tiên nhất cho tình trạng tràn dịch màng phổi này là gì?",
+          "options": [
+            "Bơm chất gây dính màng phổi",
+            "Dẫn lưu màng phổi liên tục",
+            "Thuốc lợi tiểu và hạn chế muối",
+            "Chọc hút tháo sạch dịch màng phổi"
+          ],
+          "answer": 2,
+          "explain": "Tràn dịch màng phổi do xơ gan thực chất là vấn đề giữ muối nước và cổ trướng. Điều trị nền tảng là hạn chế muối và sử dụng thuốc lợi tiểu (Spironolactone +/- Furosemide). Đặt dẫn lưu liên tục bị chống chỉ định vì gây mất protein, nước và rối loạn điện giải nghiêm trọng."
+        },
+        {
+          "q": "Biến chứng nguy hiểm nào có thể xảy ra âm thầm tại màng phổi trên bệnh nhân này, tương tự như biến chứng ổ bụng?",
+          "options": [
+            "Nhiễm khuẩn dịch màng phổi tự phát",
+            "Hình thành hội chứng kẹt phổi",
+            "Viêm màng phổi co thắt mạn tính",
+            "Rò phế quản - màng phổi"
+          ],
+          "answer": 0,
+          "explain": "Tương tự viêm phúc mạc nhiễm khuẩn tự phát (SBP), vi khuẩn từ ruột có thể theo dòng dịch xuyên hoành gây nhiễm khuẩn dịch màng phổi tự phát (SBEM) mà không có ổ nhiễm trùng lân cận rõ rệt."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 65 tuổi, 2 tuần sau phẫu thuật thay khớp háng, đau ngực kiểu màng phổi, D-dimer cao",
+      "body": "Bệnh nhân nữ, 65 tuổi, có tiền sử phẫu thuật thay khớp háng bên phải cách đây 2 tuần. <b>Đột ngột xuất hiện đau ngực kiểu màng phổi bên phải, ho khan và khó thở</b>.<br><br><b>Khám:</b> Mạch 115 lần/phút, HA 110/70 mmHg, Nhịp thở 24 lần/phút, SpO2 90%.<br><br><b>X-quang phổi:</b> Hình ảnh tràn dịch màng phổi phải lượng ít.<br><br><b>Định lượng D-dimer huyết thanh:</b> <b>4500 ng/mL</b>.",
+      "questions": [
+        {
+          "q": "Chẩn đoán định hướng ưu tiên nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Viêm phổi thùy dưới phải",
+            "Thuyên tắc động mạch phổi",
+            "Tràn dịch màng phổi ác tính",
+            "Viêm màng phổi do virus"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có yếu tố nguy cơ cao (phẫu thuật chỉnh hình lớn), khởi phát đột ngột đau ngực, khó thở, nhịp tim nhanh, giảm oxy máu và D-dimer tăng rất cao là bệnh cảnh điển hình của thuyên tắc động mạch phổi (PE)."
+        },
+        {
+          "q": "Đặc điểm đại thể và hóa sinh của dịch màng phổi trong bệnh lý này thường gặp nhất là gì?",
+          "options": [
+            "Dịch mủ đục có mùi hôi",
+            "Dịch thấm màu trắng dưỡng chấp",
+            "Dịch tiết ưu thế bạch cầu ái toan",
+            "Dịch tiết và thường lẫn máu"
+          ],
+          "answer": 3,
+          "explain": "Tràn dịch màng phổi do thuyên tắc phổi thường lượng ít, xuất tiết do viêm (dịch tiết) và rất hay có lẫn máu đại thể (dịch đỏ máu) do nhồi máu và xuất huyết nhu mô phổi lân cận."
+        },
+        {
+          "q": "Thăm dò cận lâm sàng nào là tiêu chuẩn để chẩn đoán xác định bệnh lý chính gây tràn dịch?",
+          "options": [
+            "Siêu âm màng phổi hai bên",
+            "Chụp cắt lớp vi tính động mạch phổi",
+            "Sinh thiết màng phổi qua da",
+            "Xạ hình xương toàn thân"
+          ],
+          "answer": 1,
+          "explain": "Chụp cắt lớp vi tính động mạch phổi (CTPA) có tiêm thuốc cản quang là tiêu chuẩn vàng trên lâm sàng để phát hiện huyết khối làm tắc nghẽn nhánh động mạch phổi."
+        },
+        {
+          "q": "Cơ chế trực tiếp gây tràn dịch màng phổi trong bệnh lý này là gì?",
+          "options": [
+            "Tăng tính thấm mao mạch do nhồi máu nhu mô",
+            "Tăng áp lực thủy tĩnh mao mạch hệ thống",
+            "Rách hệ thống ống ngực do áp lực",
+            "Phản ứng tự miễn lắng đọng phức hợp kháng thể"
+          ],
+          "answer": 0,
+          "explain": "Huyết khối gây thuyên tắc nhánh động mạch phổi ngoại vi dẫn đến thiếu máu cục bộ và nhồi máu nhu mô phổi. Quá trình này tạo ra phản ứng viêm tại chỗ, làm tăng tính thấm mao mạch màng phổi gây xuất tiết dịch."
+        },
+        {
+          "q": "Xử trí ban đầu có ý nghĩa sống còn nhất đối với bệnh nhân là gì?",
+          "options": [
+            "Chọc tháo toàn bộ dịch màng phổi",
+            "Liệu pháp thuốc chống đông máu",
+            "Kháng sinh phổ rộng liều cao",
+            "Phẫu thuật bóc vỏ màng phổi"
+          ],
+          "answer": 1,
+          "explain": "Thuyên tắc phổi là bệnh lý đe dọa tính mạng. Điều trị nền tảng và ưu tiên nhất ngay khi nghi ngờ/có chẩn đoán là sử dụng thuốc chống đông máu (Heparin, NOACs) để ngăn huyết khối lan rộng. Tràn dịch màng phổi lượng ít trong PE thường tự hấp thu và không cần chọc hút."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 50 tuổi, viêm khớp dạng thấp, dịch màng phổi glucose cực thấp",
+      "body": "Bệnh nhân nữ, 50 tuổi, tiền sử <b>viêm khớp dạng thấp 10 năm</b>, đang điều trị thuốc nhưng không tuân thủ. Vào viện vì <b>đau ngực trái âm ỉ và khó thở nhẹ</b>. Không sốt.<br><br><b>Chọc dịch màng phổi:</b> <b>Dịch vàng chanh, pH 7.00, Glucose 0.8 mmol/L, LDH 1100 U/L, Bạch cầu 1500/μL (ưu thế Lymphocyte)</b>. Nhuộm soi Gram và soi AFB âm tính.",
+      "questions": [
+        {
+          "q": "Nguyên nhân gây tràn dịch màng phổi nghĩ đến nhiều nhất là gì?",
+          "options": [
+            "Viêm màng phổi do vi khuẩn",
+            "Lao màng phổi",
+            "Tràn dịch do viêm khớp dạng thấp",
+            "Tràn dịch ác tính"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có tiền sử viêm khớp dạng thấp (RA), dịch màng phổi là dịch tiết với pH và glucose rất thấp nhưng vi sinh âm tính, phù hợp nhất với biểu hiện tại phổi của viêm khớp dạng thấp."
+        },
+        {
+          "q": "Đặc điểm hóa sinh nổi bật nhất gợi ý bệnh lý này ngoài nồng độ LDH cao là gì?",
+          "options": [
+            "Nồng độ Amylase dịch màng phổi cao",
+            "Nồng độ Glucose dịch màng phổi rất thấp",
+            "Tỷ lệ Protein dịch/máu cực kỳ thấp",
+            "Nồng độ ADA dịch màng phổi cao"
+          ],
+          "answer": 1,
+          "explain": "Tràn dịch màng phổi do RA đặc trưng bởi nồng độ Glucose cực kỳ thấp (thường < 1.6 mmol/L, thậm chí < 0.8 mmol/L) kết hợp với pH thấp và LDH rất cao do viêm mạn tính và yếu tố dạng thấp tại chỗ."
+        },
+        {
+          "q": "Nồng độ Glucose dịch màng phổi thấp (< 3.3 mmol/L) thường ĐƯỢC phát hiện trong các bệnh lý sau, TRỪ trường hợp nào?",
+          "options": [
+            "Viêm khớp dạng thấp",
+            "Tràn mủ màng phổi",
+            "Hội chứng thận hư",
+            "Tràn dịch màng phổi do lao"
+          ],
+          "answer": 2,
+          "explain": "Glucose dịch màng phổi thấp đặc trưng cho các nguyên nhân tăng chuyển hóa (mủ, lao, ung thư ác tính nhiều tế bào) hoặc cản trở vận chuyển (RA). Hội chứng thận hư gây tràn dịch thấm, nồng độ glucose dịch tương đương với glucose máu huyết thanh."
+        },
+        {
+          "q": "Cơ chế bệnh sinh làm giảm mức glucose dịch màng phổi trong bệnh lý này là gì?",
+          "options": [
+            "Vi khuẩn nhân lên tiêu thụ glucose nhanh chóng",
+            "Rối loạn kênh vận chuyển glucose qua màng phổi",
+            "Tế bào ung thư chuyển hóa mạnh mẽ",
+            "Thiếu hụt men phân giải glycogen tại chỗ"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế chính làm glucose dịch màng phổi thấp trong viêm khớp dạng thấp là do phản ứng viêm mạn tính làm hẹp/tắc các mạch máu nhỏ và làm rối loạn các kênh vận chuyển glucose qua lớp tế bào trung biểu mô vào khoang màng phổi, kèm theo sự chuyển hóa một phần của tế bào viêm."
+        },
+        {
+          "q": "Xử trí chủ yếu đối với tràn dịch màng phổi trong tình huống này là gì?",
+          "options": [
+            "Đặt ống dẫn lưu màng phổi cấp cứu",
+            "Bơm thuốc tiêu sợi huyết vào khoang màng phổi",
+            "Tối ưu hóa phác đồ ức chế miễn dịch",
+            "Khởi động phác đồ kháng lao"
+          ],
+          "answer": 2,
+          "explain": "Tràn dịch màng phổi do viêm khớp dạng thấp thường đáp ứng tốt với việc kiểm soát bệnh nền. Xử trí ưu tiên là điều chỉnh hoặc tăng cường phác đồ thuốc ức chế miễn dịch (Corticosteroid, DMARDs)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 22 tuổi, phù toàn thân, tiểu bọt 1 tháng, X-quang có mờ hai góc sườn",
+      "body": "Bệnh nhân nam, 22 tuổi, vào viện vì <b>phù toàn thân, tiểu bọt 1 tháng nay</b>.<br><br><b>Khám:</b> Mạch 85 lần/phút, HA 120/75 mmHg. <b>Phù mặt, bụng và hai chi dưới</b>.<br><br><b>Cận lâm sàn:</b> <b>Albumin máu 16 g/L, Protein niệu 7g/24h</b>.<br><br><b>X-quang ngực thẳng:</b> Hình ảnh mờ đồng đều hai góc sườn hoành, mức dịch dâng cao nhẹ hai bên, bóng tim không to.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguyên nhân gây tràn dịch màng phổi phù hợp nhất?",
+          "options": [
+            "Suy tim toàn bộ",
+            "Viêm phổi màng phổi hai bên",
+            "Hội chứng thận hư",
+            "Xơ gan giai đoạn cuối"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh người trẻ có phù toàn thân, tiểu bọt, protein niệu ngưỡng thận hư (> 3.5g/24h) và Albumin máu giảm nặng là đặc trưng của hội chứng thận hư, gây tràn dịch đa màng (trong đó có tràn dịch màng phổi 2 bên)."
+        },
+        {
+          "q": "Đặc điểm nào khẳng định bản chất dịch màng phổi do nguyên nhân này?",
+          "options": [
+            "Tiêu chuẩn Light phù hợp với dịch thấm",
+            "Nồng độ LDH dịch màng phổi tăng cao",
+            "Tỷ lệ Protein DMP/HT > 0.5",
+            "Số lượng tế bào bạch cầu tăng mạnh"
+          ],
+          "answer": 0,
+          "explain": "Tràn dịch do hội chứng thận hư là dịch thấm nguyên phát. Phân tích dịch sẽ thỏa mãn tiêu chuẩn dịch thấm của Light (Protein dịch/máu < 0.5, LDH dịch/máu < 0.6)."
+        },
+        {
+          "q": "Cơ chế bệnh sinh trực tiếp dẫn đến hình thành tràn dịch màng phổi ở bệnh nhân này là gì?",
+          "options": [
+            "Tăng áp lực thủy tĩnh mao mạch phổi",
+            "Giảm áp lực keo huyết tương",
+            "Tăng tính thấm thành mạch màng phổi",
+            "Tắc nghẽn tĩnh mạch chủ dưới"
+          ],
+          "answer": 1,
+          "explain": "Mất protein lượng lớn qua nước tiểu làm giảm Albumin máu nghiêm trọng, dẫn đến sụt giảm áp lực keo huyết tương. Nước không được giữ lại trong lòng mạch mà thoát ra khoảng kẽ và các khoam tự nhiên gây phù và tràn dịch màng phổi."
+        },
+        {
+          "q": "Nếu bệnh nhân đột ngột đau ngực trái dữ dội, ho ra máu và khó thở tăng nhanh, biến chứng nguy hiểm nào cần nghĩ tới ngay lập tức?",
+          "options": [
+            "Tràn khí màng phổi tự phát",
+            "Viêm mủ màng phổi thứ phát",
+            "Thuyên tắc động mạch phổi",
+            "Phù phổi cấp huyết động"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân hội chứng thận hư mất các protein chống đông (như Antithrombin III) qua nước tiểu, dẫn đến tình trạng tăng đông máu. Biểu hiện đau ngực đột ngột, khó thở và ho ra máu là dấu hiệu cảnh báo cao độ của huyết khối tĩnh mạch sâu lân cận bắn lên gây thuyên tắc động mạch phổi."
+        },
+        {
+          "q": "Quản lý nội khoa ban đầu tốt nhất để giảm tràn dịch màng phổi là gì?",
+          "options": [
+            "Chọc tháo dịch màng phổi toàn bộ",
+            "Đặt dẫn lưu màng phổi liên tục",
+            "Truyền Albumin và lợi tiểu quai",
+            "Dùng thuốc giãn phế quản đường hít"
+          ],
+          "answer": 2,
+          "explain": "Tràn dịch màng phổi dịch thấm trong hội chứng thận hư hiếm khi cần chọc hút trừ khi gây khó thở cấp tính. Điều trị triệu chứng hiệu quả là bù lại áp lực keo bằng truyền Albumin tĩnh mạch kết hợp lợi tiểu quai để rút nước vào lòng mạch và thải qua thận."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 45 tuổi, 1 tuần sau phẫu thuật bóc hạch cổ, khó thở, dịch trắng sữa",
+      "body": "Bệnh nhân nữ, 45 tuổi, vào viện vì khó thở tăng dần sau khi <b>phẫu thuật bóc tách hạch vùng cổ và trung thất cách đây 1 tuần</b>.<br><br><b>Khám:</b> Thấy <b>hội chứng ba giảm toàn bộ phổi trái, SpO2 93%</b>. <b>Chọc hút dịch màng phổi:</b> Thu được <b>dịch màu trắng sữa, đục, không mùi</b>. Bệnh nhân không sốt, xét nghiệm bạch cầu máu bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán bản chất dịch màng phổi nghi ngờ nhất là gì?",
+          "options": [
+            "Tràn mủ màng phổi",
+            "Tràn dịch màng phổi do lao",
+            "Tràn dịch màng phổi dưỡng chấp",
+            "Tràn dịch màng phổi giả dưỡng chấp"
+          ],
+          "answer": 2,
+          "explain": "Tiền sử can thiệp phẫu thuật vùng trung thất gần đây, hiện tại xuất hiện tràn dịch màu trắng sữa, không mùi (không phải mủ do nhiễm trùng) gợi ý rất cao tràn dịch màng phổi dưỡng chấp (Chylothorax)."
+        },
+        {
+          "q": "Tiêu chuẩn xét nghiệm dịch màng phổi nào chẩn đoán xác định bệnh lý này?",
+          "options": [
+            "Nồng độ Cholesterol > 5.18 mmol/L",
+            "Hiện diện nhiều tinh thể Cholesterol",
+            "Tỷ lệ Protein dịch/máu < 0.5",
+            "Nồng độ Triglyceride > 1.24 mmol/L"
+          ],
+          "answer": 3,
+          "explain": "Tiêu chuẩn vàng để chẩn đoán tràn dịch màng phổi dưỡng chấp là định lượng Triglyceride dịch màng phổi > 1.24 mmol/L (110 mg/dL). Nếu dịch trắng sữa nhưng có tinh thể cholesterol và Cholesterol > 5.18 mmol/L thì gọi là giả dưỡng chấp."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính dẫn đến sự tích tụ loại dịch này trong khoang màng phổi là gì?",
+          "options": [
+            "Nhiễm trùng kỵ khí tạo mủ",
+            "Tổn thương đứt rách ống ngực",
+            "Tổ chức hóa dịch tiết mạn tính",
+            "Tắc nghẽn tĩnh mạch đơn"
+          ],
+          "answer": 1,
+          "explain": "Ống ngực vận chuyển dưỡng chấp (lipid hấp thu từ ruột) đi lên trung thất đổ vào tĩnh mạch dưới đòn. Tổn thương thủng vỡ ống ngực do phẫu thuật, chấn thương hoặc u chèn ép sẽ làm rò rỉ dưỡng chấp vào khoang màng phổi."
+        },
+        {
+          "q": "Chọn tập hợp ĐÚNG về các nhóm nguyên nhân kinh điển có thể gây ra bệnh lý này: (1) Phẫu thuật lồng ngực; (2) Ung thư hệ bạch huyết (Lymphoma); (3) Viêm phổi phế cầu; (4) Chấn thương ngực kín.",
+          "options": [
+            "1, 2, 4",
+            "2, 3, 4",
+            "1, 3, 4",
+            "1, 2, 3"
+          ],
+          "answer": 0,
+          "explain": "Nguyên nhân gây chylothorax phổ biến nhất là do chấn thương/phẫu thuật (lồng ngực, trung thất) và không do chấn thương (phổ biến nhất là Lymphoma gây tắc nghẽn bạch huyết). Viêm phổi do phế cầu không gây vỡ ống ngực."
+        },
+        {
+          "q": "Biện pháp quản lý bảo tồn ban đầu ưu tiên nhằm giảm lưu lượng dịch ở bệnh nhân này là gì?",
+          "options": [
+            "Nuôi ăn đường tiêu hóa với mỡ động vật",
+            "Nhịn ăn hoàn toàn và nuôi ăn tĩnh mạch",
+            "Bơm ngay chất gây dính màng phổi",
+            "Phẫu thuật mở ngực thắt ống ngực"
+          ],
+          "answer": 1,
+          "explain": "Quản lý bảo tồn Chylothorax gồm đặt ống dẫn lưu giảm áp và giảm tối đa lưu lượng dịch qua ống ngực bằng cách cho nhịn ăn hoàn toàn (nuôi dưỡng tĩnh mạch - TPN) hoặc chế độ ăn kiêng lipid tuyệt đối thay bằng chuỗi acid béo trung bình (MCT). Phẫu thuật chỉ đặt ra khi điều trị nội khoa kéo dài thất bại."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 40 tuổi, ban cánh bướm, đau khớp, đau ngực kiểu màng phổi, LDH dịch cao",
+      "body": "Bệnh nhân nữ, 40 tuổi, tiền sử <b>ban cánh bướm ở mặt và đau khớp nhiều năm</b>, đang bỏ trị. Gần đây <b>đau ngực kiểu màng phổi bên trái và khó thở nhẹ</b>.<br><br><b>Chọc tháo 500 mL dịch màng phổi:</b> Màu vàng nhạt.<br><br><b>Kết quả sinh hóa:</b> <b>Protein huyết thanh 70 g/L, Protein dịch 45 g/L; LDH huyết thanh 200 U/L, LDH dịch 350 U/L</b>.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguyên nhân gây tràn dịch màng phổi phù hợp nhất với bệnh cảnh là gì?",
+          "options": [
+            "Lupus ban đỏ hệ thống",
+            "Viêm màng phổi do vi khuẩn",
+            "Tràn dịch màng phổi ác tính",
+            "Viêm màng phổi do lao"
+          ],
+          "answer": 0,
+          "explain": "Phụ nữ trẻ, tiền sử ban cánh bướm và viêm đa khớp có tổn thương viêm thanh mạc (viêm màng phổi sinh dịch) là những tiêu chuẩn lâm sàng điển hình của bệnh Lupus ban đỏ hệ thống (SLE)."
+        },
+        {
+          "q": "Dựa vào các thông số hóa sinh, kết luận nào sau đây ĐÚNG theo tiêu chuẩn Light?",
+          "options": [
+            "Dịch thấm do giảm áp lực keo",
+            "Dịch tiết do tăng tính thấm mao mạch",
+            "Dịch thấm do tăng áp lực thủy tĩnh",
+            "Dịch tiết do vỡ bạch huyết trung thất"
+          ],
+          "answer": 1,
+          "explain": "Áp dụng tiêu chuẩn Light: Tỷ lệ Protein dịch/máu = 45/70 = 0.64 (> 0.5); Tỷ lệ LDH dịch/máu = 350/200 = 1.75 (> 0.6); LDH dịch > 2/3 giới hạn trên bình thường. Do đó đây là dịch tiết, hậu quả của quá trình viêm tăng tính thấm."
+        },
+        {
+          "q": "Xét nghiệm nào trong dịch màng phổi đặc hiệu nhất để xác định nguyên nhân miễn dịch trong trường hợp này?",
+          "options": [
+            "Định lượng nồng độ ADA",
+            "Yếu tố dạng thấp (RF)",
+            "Kháng thể kháng nhân (ANA)",
+            "Nồng độ Glucose dịch màng phổi"
+          ],
+          "answer": 2,
+          "explain": "Tràn dịch màng phổi do Lupus đặc trưng bởi sự xuất hiện của tế bào LE hoặc kháng thể kháng nhân (ANA) dương tính trong dịch màng phổi với hiệu giá cao, giúp khẳng định tổn thương màng phổi do tự miễn."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây tràn dịch màng phổi trong bệnh lý này là gì?",
+          "options": [
+            "Vi khuẩn sinh mủ phá hủy nhu mô",
+            "Khối u xâm lấn màng phổi lá tạng",
+            "Tăng áp lực thủy tĩnh hệ thống",
+            "Lắng đọng phức hợp miễn dịch"
+          ],
+          "answer": 3,
+          "explain": "Trong SLE, sự hình thành tự kháng thể và phức hợp miễn dịch lưu hành sẽ lắng đọng tại màng thanh mạc (màng phổi, màng ngoài tim), hoạt hóa bổ thể và gây phản ứng viêm cục bộ, dẫn đến tràn dịch tiết."
+        },
+        {
+          "q": "Thuốc chống loạn nhịp/tim mạch nào sau đây có nguy cơ kinh điển gây hội chứng giả bệnh lý này kèm tràn dịch màng phổi?",
+          "options": [
+            "Amlodipine",
+            "Hydralazine",
+            "Metoprolol",
+            "Furosemide"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng Lupus ban đỏ do thuốc (Drug-induced lupus erythematosus) có thể gây viêm thanh mạc và tràn dịch màng phổi giống SLE kinh điển. Hydralazine, Procainamide và Isoniazid là những thuốc có nguy cơ cao nhất gây ra hội chứng này."
+        }
+      ]
+    }
+  ]
+}
