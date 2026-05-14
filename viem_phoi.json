@@ -1,0 +1,620 @@
+{
+  "name": "Viêm phổi",
+  "description": "Bộ case lâm sàng về viêm phổi - ôn thi nội trú",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Hô hấp",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 24 tuổi, sốt cao và đau ngực kéo dài 3 ngày",
+      "body": "Bệnh nhân nam, 24 tuổi, sinh viên, không có tiền sử bệnh lý, nhập viện vì sốt và đau ngực. Bệnh khởi phát đột ngột 3 ngày nay với <b>sốt cao 39.5°C, rét run, ho khạc đàm màu rỉ sét</b> và <b>đau nhói ngực phải tăng lên khi hít sâu và ho</b>. Bệnh nhân không khó thở nhưng cảm thấy rất mệt mỏi, ăn uống kém. Tiền sử: hút thuốc lá khoảng 5 bao/năm.<br><br><b>Khám toàn thân:</b> Tỉnh táo, vẻ mặt nhiễm trùng, môi khô. <b>Sinh hiệu:</b> Mạch 110 lần/phút, HA 120/80 mmHg, nhịp thở 22 lần/phút, T° 39.1°C, SpO₂ 96% khí trời.<br><br><b>Khám phổi phải:</b> Ran nổ khu trú ở 1/2 dưới, gõ đục, rung thanh tăng, rì rào phế nang giảm. Phổi trái thông khí bình thường. Tim và các cơ quan khác bình thường.<br><br><b>Cận lâm sàn:</b> Bạch cầu 16.5 G/L (Neutrophil 88%), CRP 150 mg/L. <b>X-quang ngực:</b> Đám mờ đậm hình tam giác, đỉnh ở rốn phổi, đáy ở ngoại vi, chiếm gần hết thùy dưới phổi phải.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Viêm phổi không điển hình",
+            "Viêm phổi thùy điển hình (Viêm phổi mắc phải tại cộng đồng)",
+            "Thuyên tắc phổi",
+            "Tràn dịch màng phổi"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh khởi phát cấp tính với sốt cao, rét run, ho khạc đàm rỉ sét, đau ngực kiểu màng phổi, kết hợp với hội chứng đông đặc trên lâm sàn (gõ đục, rung thanh tăng) và X-quang có đám mờ tam giác điển hình là rất phù hợp với viêm phổi thùy do vi khuẩn điển hình."
+        },
+        {
+          "q": "Cơ chế chính gây ra triệu chứng đau ngực kiểu màng phổi ở bệnh nhân là gì?",
+          "options": [
+            "Tổn thương nhu mô phổi gây kích thích các thụ thể đau",
+            "Tình trạng viêm từ nhu mô phổi lan đến và kích thích lá thành màng phổi",
+            "Co thắt các cơ hô hấp phụ do ho nhiều",
+            "Tăng áp lực động mạch phổi"
+          ],
+          "answer": 1,
+          "explain": "Nhu mô phổi và lá tạng màng phổi không có thụ thể cảm nhận đau. Cơn đau kiểu màng phổi xảy ra khi quá trình viêm lan đến lá thành màng phổi (được chi phối bởi dây thần kinh cảm giác). Sự cọ xát của hai lá màng phổi bị viêm khi hít thở gây ra cơn đau nhói."
+        },
+        {
+          "q": "Dựa vào thang điểm CURB-65, bệnh nhân này có bao nhiêu điểm và nên được điều trị ở đâu?",
+          "options": [
+            "0 điểm, có thể điều trị ngoại trú",
+            "1 điểm, xem xét nhập viện",
+            "2 điểm, bắt buộc nhập viện",
+            "3 điểm, xem xét nhập ICU"
+          ],
+          "answer": 0,
+          "explain": "CURB-65: Confusion (Lú lẫn) = 0; Urea > 7 mmol/L = chưa rõ; Respiratory rate ≥ 30 = 0; Blood pressure (HA tâm thu < 90 hoặc tâm trương ≤ 60) = 0; age ≥ 65 = 0. Bệnh nhân có 0 điểm, thuộc nhóm nguy cơ thấp và có thể được xem xét điều trị ngoại trú với sự theo dõi chặt chẽ."
+        },
+        {
+          "q": "Tác nhân vi khuẩn nào là nguyên nhân thường gặp nhất gây ra bệnh cảnh này?",
+          "options": [
+            "Mycoplasma pneumoniae",
+            "Haemophilus influenzae",
+            "Staphylococcus aureus",
+            "Streptococcus pneumoniae (Phế cầu)"
+          ],
+          "answer": 3,
+          "explain": "Streptococcus pneumoniae (Phế cầu) là tác nhân vi khuẩn gây viêm phổi mắc phải tại cộng đồng (CAP) điển hình và phổ biến nhất ở mọi lứa tuổi, đặc biệt ở những người không có bệnh nền."
+        },
+        {
+          "q": "Lựa chọn kháng sinh đầu tay theo kinh nghiệm cho bệnh nhân trẻ, khỏe mạnh, không có bệnh đồng mắc, điều trị ngoại trú là gì?",
+          "options": [
+            "Ceftriaxone",
+            "Amoxicillin hoặc một Macrolide",
+            "Vancomycin",
+            "Levofloxacin"
+          ],
+          "answer": 1,
+          "explain": "Đối với CAP mức độ nhẹ, điều trị ngoại trú ở người trẻ không có bệnh đồng mắc, lựa chọn đầu tay là Amoxicillin liều cao. Macrolide (như Azithromycin) hoặc Doxycycline là các lựa chọn thay thế."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 82 tuổi ở viện dưỡng lão, lú lẫn và ăn uống kém 2 ngày",
+      "body": "Bệnh nhân nữ, 82 tuổi, sống ở viện dưỡng lão, có tiền sử đái tháo đường type 2 và tai biến mạch máu não cũ, đi lại khó khăn. Bệnh nhân được đưa vào viện vì <b>lú lẫn và ăn uống kém từ 2 ngày nay</b>. Không sốt cao, không ho rõ, nhưng điều dưỡng ghi nhận <b>bệnh nhân thở nhanh hơn bình thường</b>.<br><br><b>Khám:</b> Lơ mơ, GCS 13 điểm. <b>Sinh hiệu:</b> Mạch 100 lần/phút, HA 120/80 mmHg, <b>nhịp thở 28 lần/phút</b>, T° 37.8°C, SpO₂ 90% khí trời.<br><br><b>Khám phổi:</b> Ran nổ và ran ẩm ở đáy phổi phải, rì rào phế nang giảm. Không đau ngực, không phù chân.<br><br><b>Cận lâm sàn:</b> Bạch cầu 12.0 G/L, CRP 180 mg/L, Glucose máu 15.2 mmol/L, Urê máu 8.5 mmol/L. <b>X-quang ngực:</b> Đám mờ không đồng nhất ở thùy dưới phổi phải.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất là gì?",
+          "options": [
+            "Đợt cấp suy tim sung huyết",
+            "Viêm phổi mắc phải tại cộng đồng ở người cao tuổi",
+            "Thuyên tắc phổi",
+            "Nhiễm toan ceton do đái tháo đường"
+          ],
+          "answer": 1,
+          "explain": "Ở người cao tuổi, viêm phổi thường có biểu hiện không điển hình như thay đổi tri giác (lú lẫn), ăn uống kém, thở nhanh mà không có sốt cao hay ho rõ. Khám phổi có ran và X-quang có tổn thương mới châm cứu chẩn đoán CAP."
+        },
+        {
+          "q": "Cơ chế nào giải thích tại sao người cao tuổi bị viêm phổi thường không có các triệu chứng điển hình như sốt cao, ho khạc đàm nhiều?",
+          "options": [
+            "Do vi khuẩn gây bệnh ít độc lực hơn",
+            "Do đáp ứng miễn dịch và phản ứng viêm của cơ thể bị suy giảm theo tuổi tác",
+            "Do bệnh nhân thường được dùng thuốc hạ sốt từ sớm",
+            "Do chức năng phổi đã suy giảm từ trước"
+          ],
+          "answer": 1,
+          "explain": "Lão hóa làm suy giảm cả miễn dịch bẩm sinh và miễn dịch thu được. Khả năng nhận diện và đáp ứng với tác nhân gây bệnh của cơ thể kém đi, dẫn đến các phản ứng toàn thân (như sốt) và tại chỗ (như ho) không còn rầm rộ như ở người trẻ."
+        },
+        {
+          "q": "Dựa vào thang điểm CURB-65, bệnh nhân này có bao nhiêu điểm?",
+          "options": [
+            "1 điểm",
+            "2 điểm",
+            "3 điểm",
+            "4 điểm"
+          ],
+          "answer": 2,
+          "explain": "CURB-65: Confusion = 1 (có); Urea > 7 mmol/L = 1 (8.5); Respiratory rate ≥ 30 = 0 (28 l/p); Blood pressure = 0; age ≥ 65 = 1. Tổng cộng 3 điểm, cho thấy đây là viêm phổi nặng, nguy cơ tử vong cao, cần nhập viện và xem xét nhập ICU."
+        },
+        {
+          "q": "Yếu tố nào sau đây là yếu tố nguy cơ chính gây viêm phổi ở bệnh nhân này?",
+          "options": [
+            "Lớn tuổi và sống trong viện dưỡng lão",
+            "Có bệnh đồng mắc (đái tháo đường, tai biến cũ)",
+            "Tình trạng nằm lâu, giảm khả năng ho khạc",
+            "Tất cả các yếu tố trên"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân này hội tụ đầy đủ các yếu tố nguy cơ: tuổi cao và môi trường sống tập thể làm tăng phơi nhiễm; bệnh nền làm suy giảm miễn dịch; nằm lâu và di chứng tai biến làm suy yếu phản xạ ho và khả năng làm sạch đường thở, dễ gây ứ đọng dịch tiết và hít sặc."
+        },
+        {
+          "q": "Lựa chọn kháng sinh ban đầu theo kinh nghiệm phù hợp cho bệnh nhân này khi nhập viện (khoa nội tổng quát) là gì?",
+          "options": [
+            "Amoxicillin đơn độc",
+            "Azithromycin đơn độc",
+            "Phối hợp một Beta-lactam (ví dụ: Ceftriaxone) với một Macrolide (ví dụ: Azithromycin)",
+            "Vancomycin"
+          ],
+          "answer": 2,
+          "explain": "Đối với CAP mức độ trung bình-nặng cần nhập viện, phác đồ được khuyến cáo là phối hợp một kháng sinh nhóm beta-lactam (như Ceftriaxone, Ampicillin-Sulbactam) để bao phủ các vi khuẩn điển hình, và một kháng sinh nhóm Macrolide để bao phủ các vi khuẩn không điển hình."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 28 tuổi, suy hô hấp cấp, tiền sử sử dụng thuốc lá điện tử",
+      "body": "Bệnh nhân nữ, 28 tuổi, nhân viên thiết kế đồ họa, nhập viện khoa Hô hấp từ khoa Cấp cứu vì <b>suy hô hấp cấp không rõ nguyên nhân</b>. Tiền sử khỏe mạnh, không hút thuốc lá, nhưng có <b>thói quen sử dụng thuốc lá điện tử (vape) trong khoảng 1 năm</b>.<br><br><b>Bệnh sử:</b> 1 tuần nay mệt mỏi, ho khan, sau đó khó thở tăng nhanh, kèm sốt và đau ngực.<br><br><b>Khám lúc vào viện:</b> Tỉnh, <b>khó thở dữ dội, tím môi, thở co kéo</b>. <b>Sinh hiệu:</b> Mạch 130 lần/phút, HA 100/60 mmHg, nhịp thở 35 lần/phút, SpO₂ 86% khi thở oxy mask 10L/phút.<br><br><b>Khám phổi:</b> Nhiều ran nổ lan tỏa hai bên.<br><br><b>Cận lâm sàn:</b> Công thức máu và marker viêm không tăng đáng kể. Cấy máu, cấy đàm âm tính. <b>X-quang và CT scan ngực:</b> Tổn thương kính mờ và đông đặc lan tỏa hai phế trường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán EVALI được đặt ra dựa trên yếu tố nào là quan trọng nhất?",
+          "options": [
+            "Tuổi của bệnh nhân",
+            "Khai thác được tiền sử sử dụng thuốc lá điện tử hoặc vaping trong vòng 90 ngày",
+            "Kết quả cấy đàm âm tính",
+            "Đáp ứng tốt với kháng sinh"
+          ],
+          "answer": 1,
+          "explain": "EVALI là một chẩn đoán loại trừ. Tiêu chuẩn chẩn đoán cốt lõi bao gồm: có tiền sử sử dụng thuốc lá điện tử/vaping trong vòng 90 ngày trước khi khởi phát triệu chứng, có hình ảnh tổn thương trên X-quang/CT ngực, và đã loại trừ các nguyên nhân khác như nhiễm trùng."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính xác của EVALI vẫn chưa được hiểu rõ hoàn toàn, nhưng giả thuyết được đưa ra nhiều nhất là gì?",
+          "options": [
+            "Do nhiễm một loại virus mới lây qua đường vaping",
+            "Do độc tính trực tiếp của Nicotine liều cao lên phổi",
+            "Do tổn thương phổi cấp tính bởi các hóa chất trong dung dịch tinh dầu, đặc biệt là Vitamin E acetate và các chất phụ gia khác",
+            "Do phản ứng dị ứng với kim loại nặng từ thiết bị đốt nóng"
+          ],
+          "answer": 2,
+          "explain": "Bằng chứng dịch tễ học và phân tích hóa học đã chỉ ra mối liên quan mạnh mẽ giữa EVALI và Vitamin E acetate, một chất thường được dùng làm chất làm đặc trong dung dịch vaping, đặc biệt là các sản phẩm chứa THC. Chất này khi được đốt nóng và hít vào có thể gây tổn thương hóa học nghiêm trọng cho phổi."
+        },
+        {
+          "q": "Biện pháp điều trị nào được xem là nền tảng và hiệu quả nhất cho các trường hợp EVALI nặng?",
+          "options": [
+            "Kháng sinh phổ rộng",
+            "Thuốc kháng virus",
+            "Glucocorticoid toàn thân (Corticoid)",
+            "Thuốc giãn phế quản"
+          ],
+          "answer": 2,
+          "explain": "Vì cơ chế bệnh sinh được cho là một phản ứng viêm hóa học dữ dội chứ không phải nhiễm trùng, kháng sinh và kháng virus không có tác dụng. Hầu hết các bệnh nhân, đặc biệt là các ca nặng, đều có đáp ứng rất tốt với liệu pháp corticoid toàn thân, giúp dập tắt phản ứng viêm."
+        },
+        {
+          "q": "Về mặt giải phẫu bệnh, tổn thương trong EVALI thường được mô tả là gì?",
+          "options": [
+            "Viêm phổi thùy điển hình",
+            "Tổn thương phế nang lan tỏa (giống ARDS)",
+            "Viêm phổi tổ chức hóa",
+            "Cả B và C đều là các hình thái thường gặp"
+          ],
+          "answer": 3,
+          "explain": "Các mẫu sinh thiết phổi từ bệnh nhân EVALI cho thấy nhiều hình thái tổn thương khác nhau, nhưng phổ biến nhất là các dạng của tổn thương phổi cấp tính như tổn thương phế nang lan tỏa (Diffuse Alveolar Damage - DAD), viêm phổi tổ chức hóa (Organizing Pneumonia), và viêm phổi tăng cảm (Hypersensitivity Pneumonitis)."
+        },
+        {
+          "q": "Lời khuyên quan trọng nhất dành cho cộng đồng để phòng ngừa EVALI là gì?",
+          "options": [
+            "Chỉ sử dụng các sản phẩm vaping có nguồn gốc rõ ràng",
+            "Tránh sử dụng các sản phẩm vaping có chứa THC hoặc Vitamin E acetate",
+            "Hạn chế tần suất vaping",
+            "Ngưng hoàn toàn việc sử dụng thuốc lá điện tử và các sản phẩm vaping"
+          ],
+          "answer": 3,
+          "explain": "Mặc dù việc tránh các chất cụ thể có thể làm giảm nguy cơ, cách duy nhất để đảm bảo an toàn tuyệt đối là không sử dụng bất kỳ sản phẩm thuốc lá điện tử hoặc vaping nào, vì thành phần và tác động lâu dài của nhiều hóa chất trong đó vẫn chưa được biết rõ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi, sốt cao, ho khạc đàm có mùi thối, nghi hít sặc",
+      "body": "Bệnh nhân nam, 65 tuổi, bị đái tháo đường và nghiện rượu, nhập viện trong tình trạng <b>lơ mơ, sốt cao và ho khạc đàm có mùi rất hôi thối</b>. Bệnh nhân được người nhà phát hiện nằm trên sàn nhà, nghi ngờ đã bị sặc thức ăn.<br><br><b>Khám:</b> Lơ mơ, GCS 12 điểm, <b>vệ sinh răng miệng rất kém</b>. <b>Sinh hiệu:</b> Mạch 120 lần/phút, HA 90/60 mmHg, nhịp thở 28 lần/phút, T° 39°C.<br><br><b>Khám phổi:</b> Ran nổ, ran ẩm khu trú ở phân thùy đỉnh của thùy dưới phổi phải.<br><br><b>X-quang ngực thẳng và nghiêng:</b> Một vùng đông đặc có hình ảnh mức nước-hơi bên trong, tạo thành một ổ áp xe ở vị trí trên.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất là gì?",
+          "options": [
+            "Ung thư phổi hoại tử",
+            "Viêm phổi do hít có biến chứng áp xe phổi",
+            "Lao phổi tạo hang",
+            "Giãn phế quản bội nhiễm"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh một bệnh nhân có yếu tố nguy cơ hít sặc, triệu chứng nhiễm trùng nặng, ho khạc đàm thối, và X-quang có hình ảnh hang chứa mức nước-hơi là rất điển hình cho một ổ áp xe phổi, là biến chứng của viêm phổi do hít."
+        },
+        {
+          "q": "Cơ chế chính gây ra viêm phổi do hít ở bệnh nhân này là gì?",
+          "options": [
+            "Tình trạng suy giảm ý thức (do rượu, bệnh nền) làm mất phản xạ bảo vệ đường thở, gây hít sặc các chất từ hầu họng vào phổi",
+            "Do vi khuẩn từ máu đi đến phổi",
+            "Do hít phải không khí ô nhiễm",
+            "Do suy tim gây phù phổi"
+          ],
+          "answer": 0,
+          "explain": "Phản xạ nuốt và phản xạ ho là những cơ chế quan trọng để bảo vệ đường hô hấp dưới. Khi ý thức suy giảm, các phản xạ này bị ức chế, cho phép các chất tiết từ miệng và hầu họng (chứa đầy vi khuẩn, đặc biệt là vi khuẩn kỵ khí) bị hít vào phổi một cách thụ động, gây ra nhiễm trùng."
+        },
+        {
+          "q": "Tại sao đàm và hơi thở của bệnh nhân lại có mùi hôi thối?",
+          "options": [
+            "Do vệ sinh răng miệng kém",
+            "Do sự hiện diện và chuyển hóa của các vi khuẩn kỵ khí trong ổ áp xe",
+            "Do hoại tử nhu mô phổi",
+            "Do tác dụng phụ của thuốc điều trị đái tháo đường"
+          ],
+          "answer": 1,
+          "explain": "Mùi hôi thối đặc trưng là do các sản phẩm chuyển hóa của vi khuẩn kỵ khí (như các acid béo chuỗi ngắn, các hợp chất lưu huỳnh). Sự hiện diện của mùi này là một dấu hiệu lâm sàng rất mạnh mẽ gợi ý sự tham gia của vi khuẩn kỵ khí."
+        },
+        {
+          "q": "Lựa chọn kháng sinh nào sau đây là phù hợp nhất để bao phủ các tác nhân gây bệnh trong áp xe phổi do hít?",
+          "options": [
+            "Azithromycin",
+            "Ceftriaxone",
+            "Clindamycin hoặc một kháng sinh Beta-lactam/Beta-lactamase inhibitor (ví dụ: Ampicillin-Sulbactam)",
+            "Vancomycin"
+          ],
+          "answer": 2,
+          "explain": "Điều trị áp xe phổi do hít đòi hỏi kháng sinh phải có phổ kháng khuẩn rộng, bao phủ cả vi khuẩn hiếu khí và đặc biệt là vi khuẩn kỵ khí. Clindamycin có hoạt tính rất tốt chống lại vi khuẩn kỵ khí đường hô hấp trên. Các thuốc phối hợp beta-lactam/ức chế beta-lactamase cũng là lựa chọn thay thế hiệu quả."
+        },
+        {
+          "q": "Vị trí giải phẫu nào của phổi thường bị ảnh hưởng nhất trong viêm phổi do hít ở tư thế nằm?",
+          "options": [
+            "Thùy lưỡi",
+            "Các phân thùy sau của thùy trên và các phân thùy đỉnh của thùy dưới",
+            "Thùy giữa",
+            "Đỉnh phổi"
+          ],
+          "answer": 1,
+          "explain": "Do trọng lực, các chất hít sặc có xu hướng đi vào các vùng phổi phụ thuộc nhất. Ở tư thế nằm ngửa, đó là các phân thùy sau của thùy trên và phân thùy đỉnh (phân thùy 6) của thùy dưới. Đây là các vị trí kinh điển của viêm phổi và áp xe phổi do hít."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi, gãy cổ xương đùi, sốt và khó thở sau 2 ngày nằm viện",
+      "body": "Bệnh nhân nam, 72 tuổi, nhập viện khoa Ngoại Chấn thương 1 tuần vì gãy cổ xương đùi. Bệnh nhân không được phẫu thuật ngay do có nhiều bệnh nền.<br><br><b>2 ngày nay:</b> Bệnh nhân bắt đầu <b>sốt 38.5°C, ho khạc đàm mủ đặc, khó thở hơn, SpO₂ tụt xuống 92%</b>. Bệnh nhân không được đặt nội khí quản.<br><br><b>Khám phổi:</b> Ran nổ ở đáy phổi trái, rì rào phế nang giảm.<br><br><b>X-quang ngực tại giường:</b> Xuất hiện đám mờ mới ở thùy dưới phổi trái so với phim lúc nhập viện.<br><br><b>Cận lâm sàn:</b> Bạch cầu 14.0 G/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán viêm phổi của bệnh nhân này được phân loại là gì?",
+          "options": [
+            "Viêm phổi mắc phải tại cộng đồng (CAP)",
+            "Viêm phổi bệnh viện (HAP)",
+            "Viêm phổi liên quan đến thở máy (VAP)",
+            "Viêm phổi do hít"
+          ],
+          "answer": 1,
+          "explain": "Viêm phổi của bệnh nhân khởi phát sau 1 tuần nằm viện, do đó được định nghĩa là viêm phổi bệnh viện (Hospital-Acquired Pneumonia - HAP)."
+        },
+        {
+          "q": "Viêm phổi bệnh viện được định nghĩa là viêm phổi xảy ra sau bao nhiêu giờ kể từ lúc nhập viện?",
+          "options": [
+            "12 giờ",
+            "24 giờ",
+            "48 giờ",
+            "72 giờ"
+          ],
+          "answer": 2,
+          "explain": "Theo định nghĩa của Hiệp hội Lồng ngực Hoa Kỳ (ATS) và Hiệp hội Bệnh truyền nhiễm Hoa Kỳ (IDSA), HAP là viêm phổi xảy ra từ 48 giờ trở lên sau khi nhập viện và không có dấu hiệu ủ bệnh tại thời điểm nhập viện."
+        },
+        {
+          "q": "So với viêm phổi cộng đồng, các tác nhân gây viêm phổi bệnh viện thường có đặc điểm gì?",
+          "options": [
+            "Thường là virus",
+            "Thường nhạy cảm với các kháng sinh thông thường",
+            "Thường là các vi khuẩn Gram âm đa kháng thuốc và tụ cầu vàng kháng Methicillin (MRSA)",
+            "Thường ít gây bệnh cảnh nặng"
+          ],
+          "answer": 2,
+          "explain": "Môi trường bệnh viện là nơi tập trung nhiều loại vi khuẩn đã tiếp xúc và đề kháng với kháng sinh. Do đó, các tác nhân gây HAP thường là những vi khuẩn khó điều trị như Pseudomonas aeruginosa, Acinetobacter baumannii, Klebsiella pneumoniae đa kháng, và MRSA."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính của viêm phổi bệnh viện là gì?",
+          "options": [
+            "Sự thay đổi hệ vi sinh vật ở hầu họng của bệnh nhân nằm viện và sự hít sặc các vi khuẩn này",
+            "Lây truyền qua đường không khí từ các bệnh nhân khác",
+            "Nhiễm khuẩn huyết từ một nguồn khác di căn đến phổi",
+            "Suy giảm miễn dịch do stress của bệnh tật"
+          ],
+          "answer": 0,
+          "explain": "Khi nằm viện, hệ vi sinh vật bình thường ở hầu họng bị thay thế bởi các vi khuẩn Gram âm từ môi trường bệnh viện hoặc từ đường tiêu hóa. Bệnh nhân nặng, nằm lâu, suy giảm ý thức thường có nguy cơ hít sặc (microaspiration) các chất tiết này vào đường hô hấp dưới, gây ra viêm phổi."
+        },
+        {
+          "q": "Lựa chọn kháng sinh theo kinh nghiệm cho HAP ở bệnh nhân không có nguy cơ đa kháng thuốc cao có thể là gì?",
+          "options": [
+            "Amoxicillin",
+            "Một Cephalosporin thế hệ 3 (ví dụ: Ceftriaxone) hoặc một Fluoroquinolone hô hấp",
+            "Piperacillin-Tazobactam hoặc một Carbapenem",
+            "Vancomycin + Meropenem"
+          ],
+          "answer": 1,
+          "explain": "Đối với HAP khởi phát sớm (< 5 ngày) ở bệnh nhân không có yếu tố nguy cơ (ví dụ: không dùng kháng sinh gần đây, không nằm ICU), các tác nhân có thể tương tự như CAP. Các hướng dẫn thường khuyến cáo sử dụng các kháng sinh có phổ rộng hơn một chút so với CAP thông thường, ví dụ như Ceftriaxone, Levofloxacin, hoặc Ertapenem."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 38 tuổi, AIDS (CD4 50), khó thở tăng dần 3 tuần, ho khan",
+      "body": "Bệnh nhân nam, 38 tuổi, nhiễm HIV giai đoạn AIDS, <b>CD4 là 50 tế bào/mm³</b>, bỏ điều trị ARV. Bệnh nhân nhập viện vì <b>khó thở tăng dần trong 3 tuần</b>. Ban đầu chỉ khó thở khi đi lại, nay khó thở cả khi nghỉ ngơi, kèm theo <b>ho khan và sốt nhẹ</b>. Không đau ngực.<br><br><b>Khám:</b> Tỉnh, gầy sút, khó thở nhanh nông. <b>Sinh hiệu:</b> Mạch 110 lần/phút, HA 110/70 mmHg, nhịp thở 30 lần/phút, T° 37.9°C, SpO₂ 88% khí trời.<br><br><b>Khám phổi:</b> Hai bên thông khí rõ, gần như không nghe thấy ran. <b>Test đi bộ 6 phút:</b> SpO₂ tụt xuống 75%.<br><br><b>Cận lâm sàn:</b> Công thức máu bình thường. <b>LDH huyết thanh tăng rất cao (800 U/L)</b>. <b>X-quang ngực:</b> Thâm nhiễm kẽ lan tỏa hai bên đối xứng từ rốn phổi (hình ảnh cánh bướm).",
+      "questions": [
+        {
+          "q": "Tác nhân gây viêm phổi cơ hội nào được nghĩ đến nhiều nhất ở bệnh nhân này?",
+          "options": [
+            "Lao phổi",
+            "Streptococcus pneumoniae",
+            "Pneumocystis jirovecii (PCP)",
+            "Nấm Aspergillus xâm lấn"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh bán cấp với khó thở tăng dần, ho khan, giảm oxy máu nặng khi gắng sức, trên nền bệnh nhân HIV có CD4 rất thấp, cùng với hình ảnh X-quang thâm nhiễm kẽ lan tỏa và LDH tăng cao là cực kỳ điển hình cho viêm phổi do Pneumocystis jirovecii (PCP)."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính của tình trạng giảm oxy máu nặng trong viêm phổi do Pneumocystis (PCP) là gì?",
+          "options": [
+            "Co thắt phế quản lan tỏa",
+            "Tắc nghẽn các mạch máu phổi lớn",
+            "Lấp đầy phế nang bằng một chất dịch dạng bọt giàu protein và mảnh vỡ của vi nấm, tạo ra một block phế nang-mao mạch",
+            "Hình thành các ổ áp xe lớn phá hủy nhu mô phổi"
+          ],
+          "answer": 2,
+          "explain": "P. jirovecii tăng sinh trong lòng phế nang, kích thích một phản ứng viêm và tạo ra một chất xuất tiết đặc trưng dạng bọt, giàu eosinophil. Chất này lấp đầy không gian phế nang, tạo ra một rào cản vật lý ngăn cản sự trao đổi oxy giữa phế nang và mao mạch, gây ra shunt trong phổi và giảm oxy máu nặng."
+        },
+        {
+          "q": "Đặc điểm lâm sàng nào là rất gợi ý cho PCP?",
+          "options": [
+            "Ho khạc đàm mủ",
+            "Đau ngực kiểu màng phổi",
+            "Sự tương phản giữa tình trạng khó thở, giảm oxy máu nặng và khám phổi nghèo nàn triệu chứng thực thể",
+            "Sốt cao rét run"
+          ],
+          "answer": 2,
+          "explain": "Sự nghèo nàn của các triệu chứng thực thể khi nghe phổi (thường chỉ nghe rì rào phế nang giảm nhẹ) tương phản một cách rõ rệt với mức độ khó thở và giảm oxy máu của bệnh nhân là một đặc điểm lâm sàng kinh điển của PCP."
+        },
+        {
+          "q": "Phương pháp nào có độ nhạy cao nhất để chẩn đoán xác định PCP?",
+          "options": [
+            "Cấy máu",
+            "Xét nghiệm kháng thể trong huyết thanh",
+            "Nhuộm tìm bào nang của P. jirovecii trong mẫu dịch rửa phế quản-phế nang (BAL)",
+            "X-quang ngực"
+          ],
+          "answer": 2,
+          "explain": "Do P. jirovecii không thể nuôi cấy được, chẩn đoán xác định dựa vào việc quan sát trực tiếp vi nấm dưới kính hiển vi. Mẫu bệnh phẩm tốt nhất là dịch rửa phế quản-phế nang (BAL) thu được qua nội soi phế quản, có độ nhạy > 90%. Nhuộm bằng các phương pháp như Giemsa, Gomori methenamine silver (GMS) sẽ cho thấy hình ảnh các bào nang đặc trưng."
+        },
+        {
+          "q": "Liệu pháp Corticoid hỗ trợ được chỉ định trong điều trị PCP khi nào?",
+          "options": [
+            "Luôn luôn được chỉ định",
+            "Khi có bằng chứng suy hô hấp nặng (PaO₂ khí trời < 70 mmHg hoặc chênh áp oxy phế nang-động mạch A-a > 35 mmHg)",
+            "Chỉ khi bệnh nhân có sốc nhiễm trùng",
+            "Không bao giờ được chỉ định vì gây suy giảm miễn dịch nặng hơn"
+          ],
+          "answer": 1,
+          "explain": "Liệu pháp Corticoid đã được chứng minh làm giảm tỷ lệ tử vong ở bệnh nhân PCP có suy hô hấp nặng. Cơ chế được cho là do corticoid làm giảm phản ứng viêm ở phổi xảy ra khi các vi nấm bị tiêu diệt bởi kháng sinh, từ đó cải thiện trao đổi khí."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi, nghiện rượu, ho ra máu và sốt kéo dài 2 tháng",
+      "body": "Bệnh nhân nam, 55 tuổi, nghiện rượu, được đưa vào viện vì <b>ho ra máu và sốt kéo dài</b>. Bệnh nhân khai bệnh 2 tháng nay với <b>sốt nhẹ, mệt mỏi, sụt 6kg</b>. Gần đây bệnh nhân <b>ho khạc đàm lẫn máu đỏ tươi, lượng ít</b>.<br><br><b>Khám:</b> Gầy, không khó thở. <b>Phổi:</b> Nghe có ran nổ và <b>tiếng thổi hang ở vùng đỉnh phổi phải</b>.<br><br><b>X-quang ngực:</b> Một <b>hang thành dày ở thùy trên phổi phải, không có mức nước-hơi</b>.<br><br><b>Xét nghiệm AFB đàm:</b> 3 mẫu đều dương tính.",
+      "questions": [
+        {
+          "q": "Chẩn đoán của bệnh nhân là gì?",
+          "options": [
+            "Áp xe phổi",
+            "Ung thư phổi hoại tử",
+            "Lao phổi có tạo hang",
+            "Giãn phế quản bội nhiễm"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh bán cấp với các triệu chứng toàn thân (sốt, sụt cân), ho ra máu, khám và X-quang có tổn thương hang ở đỉnh phổi, và đặc biệt là AFB đàm dương tính là tiêu chuẩn vàng để chẩn đoán lao phổi thể hang."
+        },
+        {
+          "q": "Cơ chế hình thành hang lao là gì?",
+          "options": [
+            "Do vi khuẩn lao tạo ra một lượng lớn khí",
+            "Do hoại tử bã đậu ở trung tâm của củ lao, sau đó chất bã đậu bị hóa lỏng và thoát ra ngoài qua phế quản thông, để lại một cái hang",
+            "Do co kéo của các dải xơ xung quanh",
+            "Do vỡ các kén khí có sẵn"
+          ],
+          "answer": 1,
+          "explain": "Vi khuẩn lao gây ra một phản ứng viêm u hạt. Trung tâm của các u hạt này bị hoại tử, tạo thành một chất đặc sệt như phô mai (hoại tử bã đậu). Khi hệ miễn dịch suy yếu, vi khuẩn nhân lên mạnh, các enzyme được giải phóng làm hóa lỏng chất bã đậu. Nếu hang này thông với một phế quản, chất bã đậu sẽ được ho khạc ra ngoài, để lại một cái hang trống."
+        },
+        {
+          "q": "Tại sao lao phổi thường ưu thế ở vùng đỉnh phổi?",
+          "options": [
+            "Vì vùng đỉnh phổi có áp lực oxy (PaO₂) cao nhất, là môi trường thuận lợi cho vi khuẩn lao phát triển",
+            "Vì vùng đỉnh phổi có tưới máu kém hơn, làm giảm khả năng tiếp cận của các tế bào miễn dịch",
+            "Cả A và B đều đúng",
+            "Do tư thế đứng của con người"
+          ],
+          "answer": 2,
+          "explain": "Vi khuẩn lao (Mycobacterium tuberculosis) là vi khuẩn hiếu khí bắt buộc. Vùng đỉnh phổi có tỷ lệ thông khí/tưới máu (V/Q) cao nhất, dẫn đến áp lực riêng phần của oxy ở phế nang cao nhất. Môi trường giàu oxy này rất lý tưởng cho vi khuẩn phát triển. Đồng thời, tưới máu kém cũng hạn chế sự di chuyển của các tế bào miễn dịch đến khu vực này."
+        },
+        {
+          "q": "\"Tiếng thổi hang\" nghe được khi khám phổi là một dấu hiệu của?",
+          "options": [
+            "Đông đặc phổi",
+            "Có một cái hang lớn thông với một phế quản",
+            "Tràn dịch màng phổi",
+            "Hẹp phế quản"
+          ],
+          "answer": 1,
+          "explain": "Tiếng thổi hang là một âm thanh có âm độ cao, rỗng, nghe được khi âm thanh từ phế quản lớn được truyền qua một cái hang có thành trơn nhẵn và đủ lớn, nằm gần thành ngực. Nó có âm sắc tương tự như khi thổi vào miệng một cái chai rỗng."
+        },
+        {
+          "q": "Biến chứng nguy hiểm nhất có thể xảy ra từ một hang lao là gì?",
+          "options": [
+            "Ho ra máu sét đánh do vỡ phình mạch Rasmussen",
+            "Tràn khí màng phổi do vỡ hang",
+            "Phát triển u nấm Aspergillus trong hang",
+            "Tất cả các biến chứng trên"
+          ],
+          "answer": 3,
+          "explain": "Hang lao có thể gây ra nhiều biến chứng nguy hiểm. Quá trình viêm có thể bào mòn thành một nhánh động mạch phế quản, tạo thành túi phình (phình mạch Rasmussen) và có thể vỡ gây ho ra máu ồ ạt. Hang cũng có thể vỡ vào khoang màng phổi gây tràn khí/tràn mủ, hoặc trở thành nơi trú ngụ lý tưởng cho nấm Aspergillus phát triển."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi, nông dân, sốt cao 40°C, khó thở, ho đàm bọt hồng, tiếp xúc gia cầm chết",
+      "body": "Bệnh nhân nam, 40 tuổi, nông dân, nhập viện vì <b>sốt cao, khó thở và ho ra đàm có bọt hồng</b>. Bệnh nhân có tiền sử <b>tiếp xúc với gia cầm (gà, vịt) bị bệnh và chết hàng loạt ở địa phương</b>.<br><br><b>Bệnh khởi phát đột ngột 4 ngày trước:</b> <b>Sốt cao 40°C, đau đầu, đau mỏi cơ toàn thân</b>, sau đó nhanh chóng diễn tiến đến ho, khó thở, tím tái.<br><br><b>Khám:</b> Tỉnh, <b>suy hô hấp nặng, SpO₂ 85% với oxy mask túi</b>. <b>Phổi:</b> Đầy ran ẩm, ran nổ hai bên.<br><br><b>Cận lâm sàn:</b> <b>Bạch cầu giảm, đặc biệt là lympho bào giảm nặng</b>. <b>X-quang ngực:</b> Thâm nhiễm lan tỏa hai phế trường, tiến triển nhanh thành hình ảnh ARDS.<br><br><b>Xét nghiệm PCR dịch tỵ hầu:</b> Dương tính với virus cúm A/H5N1.",
+      "questions": [
+        {
+          "q": "Bệnh cảnh của bệnh nhân gợi ý đến bệnh gì?",
+          "options": [
+            "Cúm mùa thông thường",
+            "Viêm phổi do phế cầu",
+            "Cúm gia cầm độc lực cao (Cúm A/H5N1)",
+            "Sốt xuất huyết Dengue"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh lâm sàng diễn tiến cực kỳ nhanh và nặng (sốt cao, suy hô hấp, ARDS) kết hợp với yếu tố dịch tễ rõ ràng (tiếp xúc gia cầm chết) là rất đặc trưng cho nhiễm virus cúm gia cầm có độc lực cao như H5N1."
+        },
+        {
+          "q": "Cơ chế chính gây tổn thương phổi nặng và ARDS trong cúm A/H5N1 là gì?",
+          "options": [
+            "Sự nhân lên không kiểm soát của virus và gây độc trực tiếp cho tế bào phế nang",
+            "Phản ứng viêm quá mức của cơ thể, giải phóng một lượng lớn cytokine gây tổn thương (cơn bão cytokine)",
+            "Bội nhiễm vi khuẩn thứ phát",
+            "Cả A và B đều đúng"
+          ],
+          "answer": 3,
+          "explain": "Cả hai cơ chế đều đóng vai trò then chốt. Virus H5N1 có khả năng nhân lên rất mạnh ở đường hô hấp dưới, gây phá hủy trực tiếp các tế bào biểu mô phế nang. Đồng thời, nó kích hoạt một phản ứng miễn dịch bẩm sinh không kiểm soát, giải phóng ồ ạt các cytokine tiền viêm (TNF-α, IL-6...), gây tổn thương lan tỏa màng phế nang-mao mạch và dẫn đến ARDS."
+        },
+        {
+          "q": "Khác với virus cúm mùa (thường chỉ gắn vào thụ thể ở đường hô hấp trên), virus cúm A/H5N1 có ái lực với loại thụ thể nào, giải thích cho tổn thương phổi nặng?",
+          "options": [
+            "Thụ thể Sialic acid-alpha-2,6-galactose ở đường hô hấp trên",
+            "Thụ thể Sialic acid-alpha-2,3-galactose, có nhiều ở phế nang và đường hô hấp dưới",
+            "Thụ thể ACE2",
+            "Thụ thể CD4"
+          ],
+          "answer": 1,
+          "explain": "Sự khác biệt về ái lực với thụ thể là yếu tố quyết định độc lực. Cúm mùa chủ yếu gắn vào thụ thể α-2,6 ở đường hô hấp trên, gây triệu chứng nhẹ. Cúm A/H5N1 lại ưu tiên gắn vào thụ thể α-2,3, vốn có nhiều ở các tế bào phế nang type II ở sâu trong phổi, gây ra viêm phổi nặng."
+        },
+        {
+          "q": "Thuốc kháng virus nào được khuyến cáo sử dụng càng sớm càng tốt cho các trường hợp nghi ngờ/xác định nhiễm cúm A/H5N1?",
+          "options": [
+            "Acyclovir",
+            "Ribavirin",
+            "Oseltamivir (Tamiflu)",
+            "Remdesivir"
+          ],
+          "answer": 2,
+          "explain": "Các thuốc ức chế Neuraminidase như Oseltamivir là liệu pháp kháng virus duy nhất được khuyến cáo. Việc điều trị sớm (lý tưởng trong vòng 48 giờ) có thể làm giảm mức độ nặng của bệnh và cải thiện tiên lượng, mặc dù hiệu quả có thể hạn chế trong các trường hợp bệnh đã tiến triển."
+        },
+        {
+          "q": "Ngoài tổn thương phổi, nhiễm cúm A/H5N1 còn có thể gây ra biểu hiện ở cơ quan nào khác?",
+          "options": [
+            "Viêm não",
+            "Suy đa tạng (suy gan, suy thận)",
+            "Rối loạn tiêu hóa (tiêu chảy)",
+            "Tất cả các biểu hiện trên"
+          ],
+          "answer": 3,
+          "explain": "Khác với cúm mùa, cúm A/H5N1 là một bệnh lý toàn thân. Virus có thể được phát hiện ở nhiều cơ quan ngoài phổi và gây ra các biểu hiện đa dạng như rối loạn tiêu hóa, viêm não, và cuối cùng là suy đa tạng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 25 tuổi, ho khan kéo dài 2 tháng, thâm nhiễm ngoại vi hai bên, tăng bạch cầu ái toan 35%",
+      "body": "Bệnh nhân nam, 25 tuổi, đến khám vì <b>ho khan kéo dài 2 tháng</b>. Không sốt, không khó thở, không sụt cân. Bệnh nhân đã đi khám nhiều nơi, được chẩn đoán là viêm phế quản và dùng nhiều đợt kháng sinh nhưng không đỡ.<br><br><b>Khám phổi:</b> Hoàn toàn <b>không nghe thấy ran</b>.<br><br><b>X-quang ngực:</b> Có <b>thâm nhiễm ở ngoại vi hai bên, đặc biệt ở các thùy trên</b>, được mô tả là <b>\"hình ảnh âm bản của phù phổi\"</b>.<br><br><b>Công thức máu:</b> <b>Bạch cầu ái toan tăng rất cao (Eosinophil 35%)</b>.",
+      "questions": [
+        {
+          "q": "Bệnh cảnh này gợi ý nhiều nhất đến bệnh lý nào?",
+          "options": [
+            "Hen phế quản",
+            "Lao phổi",
+            "Viêm phổi tăng bạch cầu ái toan mạn tính (Chronic Eosinophilic Pneumonia - CEP)",
+            "Ung thư phổi"
+          ],
+          "answer": 2,
+          "explain": "Sự kết hợp của các triệu chứng hô hấp mạn tính, tăng bạch cầu ái toan rõ rệt trong máu, và hình ảnh X-quang điển hình là những đặc điểm chính để chẩn đoán Viêm phổi tăng bạch cầu ái toan mạn tính."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của viêm phổi tăng bạch cầu ái toan là gì?",
+          "options": [
+            "Do nhiễm vi khuẩn sinh mủ",
+            "Do sự thâm nhiễm của một lượng lớn bạch cầu ái toan vào trong mô kẽ và phế nang của phổi, thường do một phản ứng quá mẫn",
+            "Do hít phải bụi amiăng",
+            "Do suy tim trái"
+          ],
+          "answer": 1,
+          "explain": "Đây là một nhóm bệnh đặc trưng bởi sự tích tụ bất thường của bạch cầu ái toan trong phổi. Quá trình này được cho là qua trung gian miễn dịch, có thể được kích hoạt bởi nhiều tác nhân khác nhau (thuốc, nhiễm trùng, dị nguyên) hoặc không rõ nguyên nhân (vô căn)."
+        },
+        {
+          "q": "Hình ảnh \"âm bản của phù phổi\" (photographic negative of pulmonary edema) trên X-quang có nghĩa là gì?",
+          "options": [
+            "Tổn thương đông đặc ở đỉnh phổi",
+            "Tổn thương dạng hang",
+            "Tổn thương thâm nhiễm ở ngoại vi phế trường, trong khi vùng trung tâm quanh rốn phổi lại trong",
+            "Tràn dịch màng phổi hai bên"
+          ],
+          "answer": 2,
+          "explain": "Trong phù phổi cấp do tim, tổn thương thường tập trung ở vùng trung tâm (rốn phổi), tạo hình ảnh \"cánh bướm\". Ngược lại, trong CEP, tổn thương lại ưu thế ở vùng ngoại vi, sát thành ngực, trong khi vùng trung tâm lại tương đối sáng. Hình ảnh này giống như một phim âm bản của phù phổi, là một dấu hiệu X-quang kinh điển."
+        },
+        {
+          "q": "Nguyên nhân gây ra viêm phổi tăng bạch cầu ái toan có thể là gì?",
+          "options": [
+            "Do thuốc",
+            "Do nhiễm ký sinh trùng (giun, sán)",
+            "Do nấm (ABPA)",
+            "Tất cả các nguyên nhân trên hoặc vô căn"
+          ],
+          "answer": 3,
+          "explain": "Có rất nhiều nguyên nhân có thể gây ra hội chứng thâm nhiễm phổi với tăng bạch cầu ái toan, từ các loại thuốc (NSAIDs, kháng sinh...), các bệnh nhiễm ký sinh trùng có chu kỳ phát triển qua phổi (như giun đũa, giun móc), đến các phản ứng dị ứng với nấm Aspergillus (bệnh ABPA). Khi không tìm thấy nguyên nhân, bệnh được gọi là vô căn."
+        },
+        {
+          "q": "Bệnh nhân bị viêm phổi tăng bạch cầu ái toan mạn tính vô căn thường có đáp ứng rất tốt và nhanh chóng với liệu pháp nào?",
+          "options": [
+            "Kháng sinh",
+            "Thuốc kháng nấm",
+            "Glucocorticoid (Corticoid)",
+            "Thuốc giãn phế quản"
+          ],
+          "answer": 2,
+          "explain": "Các bệnh viêm phổi tăng bạch cầu ái toan, đặc biệt là thể mạn tính vô căn, thường có đáp ứng rất \"ngoạn mục\" với corticoid. Các triệu chứng lâm sàng và tổn thương X-quang có thể cải thiện rõ rệt chỉ trong vòng vài ngày sau khi bắt đầu điều trị."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi, ghép thận 5 năm, sốt và ho khan 1 tuần, nốt mờ với vầng hào quang",
+      "body": "Bệnh nhân nam, 60 tuổi, tiền sử <b>ghép thận 5 năm</b>, đang dùng <b>thuốc ức chế miễn dịch (Tacrolimus, Mycophenolate)</b>. Bệnh nhân nhập viện vì <b>sốt và ho khan 1 tuần</b>.<br><br><b>CT scan ngực:</b> Có nhiều nốt mờ ở cả hai phổi, một trong số đó ở thùy trên phải có <b>hình ảnh \"vầng hào quang\" (halo sign)</b>.<br><br><b>Nội soi phế quản và rửa phế quản phế nang (BAL):</b> Được thực hiện.<br><br><b>Xét nghiệm Galactomannan trong dịch BAL:</b> Dương tính.",
+      "questions": [
+        {
+          "q": "Dấu hiệu \"vầng hào quang\" trên CT scan ngực là gì?",
+          "options": [
+            "Một nốt mờ được bao quanh bởi một vùng kính mờ",
+            "Một hang có thành dày",
+            "Hình ảnh đường ray xe lửa",
+            "Nhiều đường Kerley B"
+          ],
+          "answer": 0,
+          "explain": "Dấu hiệu \"halo\" trên CT scan là hình ảnh một nốt hoặc một khối mờ được bao quanh bởi một quầng kính mờ. Quầng kính mờ này tương ứng với tình trạng xuất huyết phế nang xung quanh một tổn thương trung tâm."
+        },
+        {
+          "q": "Dấu hiệu \"vầng hào quang\" và xét nghiệm Galactomannan dương tính ở bệnh nhân suy giảm miễn dịch này gợi ý mạnh mẽ đến tác nhân nào?",
+          "options": [
+            "Lao kê",
+            "Di căn ung thư",
+            "Nấm Aspergillus xâm lấn (Invasive Aspergillosis)",
+            "Viêm phổi do Cytomegalovirus (CMV)"
+          ],
+          "answer": 2,
+          "explain": "Ở bệnh nhân suy giảm miễn dịch nặng (ghép tạng, hóa trị liệu ung thư máu), dấu hiệu \"halo\" là một dấu hiệu sớm và rất gợi ý của bệnh nấm Aspergillus xâm lấn. Nó phản ánh bản chất xâm nhập mạch máu của nấm. Xét nghiệm Galactomannan (một kháng nguyên của nấm) dương tính càng củng cố thêm chẩn đoán."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của nấm Aspergillus xâm lấn là gì?",
+          "options": [
+            "Hít phải bào tử nấm, sau đó sợi nấm phát triển và xâm nhập vào các mạch máu phổi, gây huyết khối và nhồi máu hoại tử",
+            "Phản ứng dị ứng với kháng nguyên của nấm",
+            "Sự phát triển của một khối nấm trong một hang có sẵn",
+            "Nhiễm nấm huyết và di căn đến phổi"
+          ],
+          "answer": 0,
+          "explain": "Bệnh bắt đầu bằng việc hít phải bào tử nấm. Ở người suy giảm miễn dịch, bào tử sẽ nảy mầm thành sợi nấm. Các sợi nấm này có ái lực rất mạnh với mạch máu, chúng sẽ xâm nhập vào thành các tiểu động mạch phổi, gây viêm, huyết khối, dẫn đến nhồi máu và hoại tử nhu mô phổi."
+        },
+        {
+          "q": "Galactomannan là một thành phần của cấu trúc nào của nấm Aspergillus?",
+          "options": [
+            "Vách tế bào",
+            "Màng tế bào",
+            "Nhân tế bào",
+            "Ty thể"
+          ],
+          "answer": 0,
+          "explain": "Galactomannan là một Polysaccharide, một thành phần cấu trúc quan trọng của vách tế bào nấm Aspergillus. Khi nấm phát triển và xâm lấn, thành phần này sẽ được giải phóng vào các mô xung quanh và tuần hoàn, cho phép chúng ta phát hiện nó trong máu hoặc dịch BAL."
+        },
+        {
+          "q": "Lựa chọn thuốc kháng nấm đầu tay cho bệnh nấm Aspergillus xâm lấn là gì?",
+          "options": [
+            "Fluconazole",
+            "Amphotericin B",
+            "Voriconazole",
+            "Flucytosine"
+          ],
+          "answer": 2,
+          "explain": "Các thuốc nhóm Azole, đặc biệt là Voriconazole, đã được chứng minh là có hiệu quả cao hơn và ít độc tính hơn so với Amphotericin B kinh điển, và hiện được coi là liệu pháp đầu tay cho bệnh nấm Aspergillus xâm lấn."
+        }
+      ]
+    }
+  ]
+}
