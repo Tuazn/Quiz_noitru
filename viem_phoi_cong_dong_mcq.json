@@ -1,0 +1,560 @@
+{
+  "name": "Viêm phổi cộng đồng_MCQ",
+  "description": "MCQ về viêm phổi cộng đồng, bao gồm định nghĩa, tác nhân, sinh lý bệnh học, lâm sàng, chẩn đoán, điều trị và dự phòng",
+  "level": "ôn thi nội trú",
+  "type": "mcq",
+  "category": "Nội",
+  "subcategory": "Hô hấp",
+  "questions": [
+    {
+      "q": "Theo định nghĩa kinh điển, viêm phổi cộng đồng là tình trạng nhiễm trùng của nhu mô phổi xảy ra ở đối tượng nào sau đây?",
+      "options": [
+        "Bệnh nhân đang nằm điều trị tại bệnh viện trên 48 giờ",
+        "Người sống trong cộng đồng hoặc trong vòng 48 giờ đầu kể từ khi nhập viện",
+        "Bệnh nhân mới xuất viện trong vòng 2 ngày",
+        "Người bệnh đang được thông khí nhân tạo qua nội khí quản"
+      ],
+      "answer": 1,
+      "explain": "<b>Viêm phổi cộng đồng (VPCĐ)</b> xảy ra ngoài bệnh viện hoặc xuất hiện trong <b>vòng 48 giờ đầu sau nhập viện</b>. Điều này giúp phân biệt với viêm phổi bệnh viện (HAP)."
+    },
+    {
+      "q": "Tác nhân vi khuẩn hàng đầu gây viêm phổi cộng đồng điển hình ở mọi nhóm tuổi là gì?",
+      "options": [
+        "Haemophilus influenzae",
+        "Mycoplasma pneumoniae",
+        "Streptococcus pneumoniae",
+        "Chlamydia pneumoniae"
+      ],
+      "answer": 2,
+      "explain": "<b>Phế cầu (Streptococcus pneumoniae)</b> vẫn là căn nguyên phổ biến nhất chiếm khoảng <b>30-50%</b> các trường hợp VPCĐ có tìm được tác nhân."
+    },
+    {
+      "q": "Nhóm vi khuẩn nào sau đây được gọi là \"vi khuẩn không điển hình\" thường gây VPCĐ ở người trẻ?",
+      "options": [
+        "Staphylococcus aureus",
+        "Klebsiella pneumoniae",
+        "Mycoplasma pneumoniae",
+        "Pseudomonas aeruginosa"
+      ],
+      "answer": 2,
+      "explain": "<b>Vi khuẩn không điển hình (Mycoplasma, Chlamydia, Legionella)</b> không có vách tế bào hoặc sống nội bào, thường gây bệnh ở người trẻ và không nhạy cảm với kháng sinh nhóm Beta-lactam."
+    },
+    {
+      "q": "Đối tượng nào sau đây có nguy cơ cao nhất nhiễm vi khuẩn Gram âm (như Klebsiella pneumoniae) khi bị viêm phổi cộng đồng?",
+      "options": [
+        "Người trẻ khỏe mạnh, không bệnh nền",
+        "Người nghiện rượu mạn tính hoặc có bệnh phổi tắc nghẽn mạn tính",
+        "Trẻ em dưới 5 tuổi",
+        "Phụ nữ đang mang thai"
+      ],
+      "answer": 1,
+      "explain": "<b>Người nghiện rượu hoặc có bệnh phổi mạn tính (COPD)</b> thường có sự thay đổi hệ vi khuẩn vùng hầu họng, dễ bị nhiễm các trực khuẩn Gram âm đường ruột."
+    },
+    {
+      "q": "Virus chiếm tỷ lệ khoảng bao nhiêu trong các trường hợp viêm phổi cộng đồng ở người lớn?",
+      "options": [
+        "Dưới 5%",
+        "Khoảng 10 - 30%",
+        "Trên 70%",
+        "Gần 100%"
+      ],
+      "answer": 1,
+      "explain": "Mặc dù vi khuẩn là nguyên nhân chính, <b>virus (như Influenza, RSV, Rhinovirus) đóng vai trò trong khoảng 1/3</b> các trường hợp, đặc biệt vào mùa đông xuân."
+    },
+    {
+      "q": "Yếu tố nguy cơ quan trọng nhất làm tăng tỷ lệ tử vong ở bệnh nhân viêm phổi cộng đồng là gì?",
+      "options": [
+        "Giới tính nữ",
+        "Sống ở vùng nông thôn",
+        "Tuổi cao (trên 65 tuổi) và các bệnh lý đồng mắc",
+        "Tiền sử dị ứng thức ăn"
+      ],
+      "answer": 2,
+      "explain": "<b>Tuổi cao và các bệnh nền</b> (tim mạch, thận, tiểu đường) là các yếu tố tiên lượng nặng hàng đầu trong các thang điểm đánh giá như CURB-65 hay PSI."
+    },
+    {
+      "q": "Con đường xâm nhập phổ biến nhất của vi sinh vật gây viêm phổi vào nhu mô phổi là gì?",
+      "options": [
+        "Đường máu từ một ổ nhiễm trùng xa",
+        "Hít phải các hạt khí dung chứa vi khuẩn trong không khí",
+        "Vi hít phải (microaspiration) các dịch tiết hầu họng chứa vi khuẩn",
+        "Xâm nhập trực tiếp từ vết thương xuyên thấu ngực"
+      ],
+      "answer": 2,
+      "explain": "Hầu hết VPCĐ bắt nguồn từ việc <b>vi hít các vi khuẩn định cư ở vùng hầu họng</b> vào đường hô hấp dưới khi các cơ chế bảo vệ bị suy yếu."
+    },
+    {
+      "q": "Cơ chế bảo vệ quan trọng nhất của đường hô hấp giúp loại bỏ các hạt bụi và vi khuẩn có kích thước 2 - 10 micromet là gì?",
+      "options": [
+        "Phản xạ đóng nắp thanh quản",
+        "Hệ thống lông chuyển và lớp chất nhầy (thang máy nhầy - lông chuyển)",
+        "Đại thực bào phế nang",
+        "Các kháng thể IgE trong dịch tiết"
+      ],
+      "answer": 1,
+      "explain": "<b>Hệ thống nhầy - lông chuyển</b> đẩy các hạt bám dính lên phía hầu để khạc ra hoặc nuốt vào. Các hạt nhỏ hơn (<2 micromet) mới xuống đến phế nang để đại thực bào xử lý."
+    },
+    {
+      "q": "Trong giai đoạn \"Gan hóa đỏ\" của viêm phổi thùy do phế cầu, thành phần nào chiếm ưu thế trong lòng phế nang?",
+      "options": [
+        "Chỉ có không khí và dịch rỉ viêm",
+        "Hồng cầu, bạch cầu đa nhân và sợi fibrin",
+        "Các mô xơ và nguyên bào sợi",
+        "Tế bào biểu mô phế nang bong tróc"
+      ],
+      "answer": 1,
+      "explain": "Giai đoạn này phổi có mật độ chắc như gan, <b>màu đỏ do chứa nhiều hồng cầu thoát quản</b> cùng với phản ứng viêm cấp tính mạnh mẽ."
+    },
+    {
+      "q": "Hiện tượng \"Gan hóa xám\" trong quá trình tiến triển của viêm phổi thùy đặc trưng bởi sự kiện nào?",
+      "options": [
+        "Mạch máu phổi bị tắc nghẽn hoàn toàn",
+        "Hồng cầu bị tiêu hủy, sợi fibrin và bạch cầu chiếm ưu thế",
+        "Vi khuẩn bắt đầu nhân lên mạnh mẽ hơn",
+        "Nhu mô phổi bị hoại tử tạo thành hang"
+      ],
+      "answer": 1,
+      "explain": "<b>Màu xám</b> xuất hiện do sự lắng đọng mạnh mẽ của <b>fibrin</b> và sự thoái hóa của <b>hồng cầu</b> trong lòng phế nang."
+    },
+    {
+      "q": "Tại sao bệnh nhân viêm phổi nặng thường có biểu hiện hạ oxy máu (giảm PaO2)?",
+      "options": [
+        "Do vi khuẩn tiêu thụ hết oxy trong máu",
+        "Do tình trạng shunt (mất tương xứng V/Q) tại vùng phổi bị đông đặc",
+        "Do co thắt toàn bộ các tiểu phế quản",
+        "Do tim không bơm được máu lên phổi"
+      ],
+      "answer": 1,
+      "explain": "Vùng phổi viêm vẫn có máu tưới (Q) nhưng không được thông khí (V) do phế nang chứa đầy dịch rỉ viêm, tạo ra <b>hiện tượng shunt</b> làm máu tĩnh mạch không được trao đổi oxy."
+    },
+    {
+      "q": "Vai trò của đại thực bào phế nang trong sinh lý bệnh viêm phổi là gì?",
+      "options": [
+        "Sản xuất surfactant giúp phế nang không bị xẹp",
+        "Thực bào vi khuẩn và giải phóng các cytokine khởi phát phản ứng viêm hệ thống",
+        "Trực tiếp vận chuyển oxy vào mao mạch",
+        "Tạo ra lớp màng ngăn cách giữa khí và máu"
+      ],
+      "answer": 1,
+      "explain": "Đại thực bào là hàng rào bảo vệ cuối cùng tại phế nang. Khi số lượng vi khuẩn vượt quá khả năng xử lý, chúng <b>tiết cytokine</b> gây ra các triệu chứng toàn thân như sốt, mệt mỏi."
+    },
+    {
+      "q": "Sự khác biệt cơ bản về tổn thương giải phẫu bệnh giữa viêm phổi thùy và phế quản phế viêm là gì?",
+      "options": [
+        "Viêm phổi thùy chỉ gặp ở người già, phế quản phế viêm gặp ở người trẻ",
+        "Viêm phổi thùy tổn thương lan tỏa, phế quản phế viêm tổn thương khu trú",
+        "Viêm phổi thùy tổn thương đồng nhất một thùy, phế quản phế viêm tổn thương rải rác cả hai phổi quanh các phế quản",
+        "Chỉ có phế quản phế viêm mới gây ra sốt"
+      ],
+      "answer": 2,
+      "explain": "Viêm phổi thùy thường do phế cầu, gây <b>đông đặc đồng nhất</b>. Phế quản phế viêm <b>tổn thương hạt, rải rác</b> cả hai phổi quanh các phế quản và thường do các vi khuẩn có độc lực cao hơn."
+    },
+    {
+      "q": "Cơ chế gây đau ngực kiểu màng phổi ở bệnh nhân viêm phổi là do đâu?",
+      "options": [
+        "Vi khuẩn tấn công trực tiếp vào dây thần kinh liên sườn",
+        "Nhu mô phổi bị sưng nề gây đau",
+        "Phản ứng viêm lan ra và kích thích lá thành màng phổi",
+        "Do bệnh nhân ho quá nhiều gây rách cơ ngực"
+      ],
+      "answer": 2,
+      "explain": "Nhu mô phổi không có thần kinh cảm giác đau. Đau ngực xuất hiện khi <b>tổn thương viêm sát màng phổi xâm lấn hoặc kích thích lá thành</b> (nơi có nhiều thần kinh cảm giác)."
+    },
+    {
+      "q": "Triệu chứng lâm sàng nào thường xuất hiện đột ngột và điển hình nhất trong viêm phổi thùy do phế cầu?",
+      "options": [
+        "Ho khan kéo dài nhiều tháng",
+        "Rét run dữ dội, sốt cao và đau ngực một bên",
+        "Chảy máu mũi và đau khớp",
+        "Sụt cân nhanh và đổ mồ hôi trộm về đêm"
+      ],
+      "answer": 1,
+      "explain": "<b>VPCĐ điển hình (thường do phế cầu) khởi phát rất cấp tính</b> với cơn rét run đơn độc kéo dài khoảng 30 phút, sau đó sốt cao và đau ngực khu trú."
+    },
+    {
+      "q": "Đặc điểm màu sắc đờm nào sau đây được coi là kinh điển của nhiễm Streptococcus pneumoniae?",
+      "options": [
+        "Đờm màu xanh như mủ",
+        "Đờm trong, dính như lòng trắng trứng",
+        "Đờm màu rỉ sắt",
+        "Đờm có mùi thối khắm"
+      ],
+      "answer": 2,
+      "explain": "<b>Màu rỉ sắt</b> là kết quả của sự hiện diện của <b>hồng cầu và hemoglobin bị biến đổi</b> trong dịch rỉ viêm từ giai đoạn gan hóa đỏ."
+    },
+    {
+      "q": "Khi thăm khám thực thể, \"Hội chứng đông đặc\" nhu mô phổi bao gồm các triệu chứng nào?",
+      "options": [
+        "Rung thanh tăng, gõ đục, rì rào phế nang giảm, có tiếng thổi ống",
+        "Rung thanh giảm, gõ trong, rì rào phế nang tăng",
+        "Rung thanh mất, gõ đục, rì rào phế nang mất",
+        "Bụng chướng, gan to, phù chân"
+      ],
+      "answer": 0,
+      "explain": "<b>Hội chứng đông đặc</b> điển hình là bộ ba: <b>Rung thanh tăng</b> (môi trường đặc truyền âm tốt), <b>Gõ đục</b>, và <b>Rì rào phế nang giảm</b> kèm tiếng thổi ống/rale nổ."
+    },
+    {
+      "q": "Loại rale nào sau đây là triệu chứng đặc trưng cho sự hiện diện của dịch trong lòng phế nang ở bệnh nhân viêm phổi?",
+      "options": [
+        "Rale rít",
+        "Rale ngáy",
+        "Rale nổ (tập trung thành vùng)",
+        "Tiếng cọ màng phổi"
+      ],
+      "answer": 2,
+      "explain": "<b>Rale nổ</b> nghe được ở cuối thì hít vào, do sự bóc tách các thành phế nang bị dính bởi dịch rỉ viêm, là <b>dấu hiệu quan trọng</b> của tổn thương nhu mô phổi."
+    },
+    {
+      "q": "Ở người cao tuổi, viêm phổi cộng đồng thường biểu hiện lâm sàng như thế nào?",
+      "options": [
+        "Sốt rất cao kèm theo rét run liên tục",
+        "Triệu chứng thường âm thầm, có thể chỉ biểu hiện bằng lú lẫn, mệt mỏi hoặc té ngã",
+        "Luôn luôn có hội chứng đông đặc rõ rệt trên lâm sàng",
+        "Đau ngực dữ dội như dao đâm"
+      ],
+      "answer": 1,
+      "explain": "<b>Bẫy lâm sàng:</b> Người già thường không có sốt cao hoặc ho rõ rệt do phản ứng miễn dịch kém. <b>Rối loạn ý thức cấp tính là dấu hiệu báo động quan trọng</b> ở đối tượng này."
+    },
+    {
+      "q": "Viêm phổi do tác nhân không điển hình (như Mycoplasma) thường có đặc điểm lâm sàng nào khác biệt?",
+      "options": [
+        "Triệu chứng tại phổi rầm rộ nhưng X-quang bình thường",
+        "Triệu chứng toàn thân (đau đầu, đau cơ, ho khan) nổi bật hơn so với triệu chứng thực thể tại phổi",
+        "Luôn gây ra tràn dịch màng phổi số lượng nhiều",
+        "Chỉ xảy ra ở người suy giảm miễn dịch nặng"
+      ],
+      "answer": 1,
+      "explain": "\"<b>Viêm phổi đi bộ</b>\" (Walking pneumonia) là thuật ngữ chỉ bệnh nhân vẫn sinh hoạt được dù có tổn thương phổi, lâm sàng thường <b>nghèo nàn hơn</b> so với hình ảnh X-quang."
+    },
+    {
+      "q": "Dấu hiệu lâm sàng nào sau đây cho thấy bệnh nhân viêm phổi đang có tình trạng suy hô hấp cấp?",
+      "options": [
+        "Nhịp thở 18 lần/phút",
+        "Co kéo cơ hô hấp phụ và cánh mũi phập phồng",
+        "Nói được cả câu dài không cần nghỉ",
+        "Da niêm mạc hồng hào"
+      ],
+      "answer": 1,
+      "explain": "Sử dụng <b>cơ hô hấp phụ</b> là biểu hiện của tăng công thở nhằm bù trừ cho tình trạng thiếu oxy mô. <b>Nhịp thở > 30 lần/phút</b> là dấu hiệu tiên lượng nặng."
+    },
+    {
+      "q": "Trong chẩn đoán phân biệt, điểm nào sau đây giúp hướng tới nhồi máu phổi hơn là viêm phổi cộng đồng?",
+      "options": [
+        "Bệnh nhân có sốt và ho khạc đờm mủ",
+        "Đau ngực khởi phát đột ngột kèm theo các yếu tố nguy cơ như nằm lâu, phẫu thuật gần đây",
+        "X-quang phổi có hình ảnh đám mờ thuần nhất một thùy",
+        "Bạch cầu trong máu tăng rất cao"
+      ],
+      "answer": 1,
+      "explain": "Nhồi máu phổi thường gây <b>đau ngực và khó thở đột ngột</b>. <b>Yếu tố nguy cơ như bất động kéo dài</b> là chìa khóa để phân biệt với tình trạng nhiễm trùng."
+    },
+    {
+      "q": "Tiếng thổi ống (Bronchial breath sounds) nghe được ở vùng đông đặc nhu mô phổi có đặc điểm gì?",
+      "options": [
+        "Nghe như tiếng gió thổi qua khe cửa, cường độ mạnh, âm sắc cao",
+        "Chỉ nghe được ở thì thở ra, âm sắc rất trầm",
+        "Nghe êm dịu như tiếng lá rơi",
+        "Luôn kèm theo tiếng rít khu trú"
+      ],
+      "answer": 0,
+      "explain": "Tiếng thổi ống xuất hiện khi <b>nhu mô phổi đông đặc</b> dẫn truyền tốt âm thanh của luồng khí từ phế quản lớn ra thành ngực."
+    },
+    {
+      "q": "Triệu chứng ngoại phổi nào sau đây gợi ý nhiều nhất đến tác nhân Legionella pneumoniae?",
+      "options": [
+        "Đau khớp cổ tay và cổ chân",
+        "Tiêu chảy phân lỏng và các triệu chứng thần kinh (lú lẫn, hạ natri máu)",
+        "Phát ban dạng nốt ở chân",
+        "Viêm tai giữa cấp"
+      ],
+      "answer": 1,
+      "explain": "<b>Legionella</b> thường gây ra một bệnh cảnh <b>nặng nề</b>, kết hợp tổn thương phổi với <b>các triệu chứng tiêu hóa và rối loạn điện giải</b> đặc trưng."
+    },
+    {
+      "q": "Bệnh nhân viêm phổi có triệu chứng \"đau bụng cấp\" vùng hạ sườn phải có thể do nguyên nhân nào?",
+      "options": [
+        "Vi khuẩn di cư xuống gây viêm ruột thừa",
+        "Viêm phổi thùy dưới kích thích màng phổi hoành gây đau bụng giả ngoại khoa",
+        "Do tác dụng phụ của thuốc hạ sốt",
+        "Do bệnh nhân bị lồng ruột kèm theo"
+      ],
+      "answer": 1,
+      "explain": "Đây là một <b>bẫy lâm sàng</b> thường gặp ở trẻ em hoặc người trẻ, <b>tổn thương phổi thùy dưới</b> gây đau bụng có thể nhầm với viêm túi mật hoặc viêm ruột thừa."
+    },
+    {
+      "q": "Khám thực thể thấy lồng ngực một bên kém di động, rung thanh mất, gõ đục, rì rào phế nang mất ở vùng đáy phổi gợi ý biến chứng nào của viêm phổi?",
+      "options": [
+        "Xẹp phổi hoàn toàn",
+        "Tràn dịch màng phổi (thường là tràn dịch cạnh viêm)",
+        "Lung abscess (áp xe phổi)",
+        "Khí phế thũng"
+      ],
+      "answer": 1,
+      "explain": "Hội chứng \"<b>3 giảm</b>\" là dấu hiệu điển hình của dịch trong khoang màng phổi, một biến chứng thường gặp chiếm khoảng 40% các ca VPCĐ nhập viện."
+    },
+    {
+      "q": "Phương tiện chẩn đoán hình ảnh nào được coi là \"tiêu chuẩn vàng\" để xác nhận chẩn đoán viêm phổi cộng đồng?",
+      "options": [
+        "Siêu âm màng phổi",
+        "Chụp cắt lớp vi tính (CT scanner) ngực có thuốc",
+        "Chụp X-quang phổi thẳng (và nghiêng nếu cần)",
+        "Soi phế quản ống mềm"
+      ],
+      "answer": 2,
+      "explain": "Sự hiện diện của một <b>đám mờ mới trên X-quang ngực</b> là <b>bắt buộc</b> để chẩn đoán xác định viêm phổi theo hầu hết các hướng dẫn lâm sàng."
+    },
+    {
+      "q": "Hình ảnh X-quang điển hình của viêm phổi thùy do Streptococcus pneumoniae là gì?",
+      "options": [
+        "Đám mờ thuần nhất chiếm một thùy phổi, có hình ảnh \"phế quản hơi\" (air bronchogram)",
+        "Nhiều bóng mờ dạng nốt rải rác hai phổi",
+        "Hình ảnh mức nước - mức hơi tròn trịa",
+        "Phổi tăng sáng và cơ hoành hạ thấp"
+      ],
+      "answer": 0,
+      "explain": "Hình ảnh <b>phế quản hơi</b> (phế quản chứa khí nằm trong vùng nhu mô phổi đông đặc) là <b>dấu hiệu khẳng định</b> tổn thương nằm ở nhu mô phổi."
+    },
+    {
+      "q": "Một mẫu đờm được coi là đạt tiêu chuẩn để đem đi nuôi cấy tìm vi khuẩn khi soi dưới kính hiển vi thấy gì?",
+      "options": [
+        "Có rất nhiều tế bào biểu mô đường hô hấp trên",
+        "> 25 bạch cầu đa nhân và < 10 tế bào biểu mô trên một vi trường (với độ phóng đại 100x)",
+        "Chỉ cần thấy có vi khuẩn là đạt",
+        "Có nhiều tế bào hồng cầu"
+      ],
+      "answer": 1,
+      "explain": "Tiêu chuẩn <b>Murray và Washington</b> giúp loại bỏ các mẫu đờm bị lẫn nước bọt từ khoang miệng, đảm bảo kết quả cấy phản ánh đúng vi khuẩn ở đường hô hấp dưới."
+    },
+    {
+      "q": "Xét nghiệm nào sau đây có giá trị nhất để chẩn đoán nhanh sự hiện diện của phế cầu hoặc Legionella ở bệnh nhân nặng mà không cần chờ kết quả cấy?",
+      "options": [
+        "Tìm kháng thể trong máu",
+        "Tìm kháng nguyên hòa tan trong nước tiểu",
+        "Nhuộm soi dịch dạ dày",
+        "Định lượng nồng độ Amylase máu"
+      ],
+      "answer": 1,
+      "explain": "<b>Test kháng nguyên nước tiểu</b> (Urinary antigen test) có độ nhạy và đặc hiệu khá cao, không bị ảnh hưởng bởi việc đã dùng kháng sinh trước đó."
+    },
+    {
+      "q": "Chỉ số Procalcitonin (PCT) trong máu được sử dụng với mục đích chính là gì trong viêm phổi cộng đồng?",
+      "options": [
+        "Để chẩn đoán xác định là do virus hay vi khuẩn",
+        "Hỗ trợ quyết định bắt đầu hoặc ngừng kháng sinh và theo dõi đáp ứng điều trị",
+        "Để tìm tên chính xác của vi khuẩn gây bệnh",
+        "Để thay thế hoàn toàn cho chụp X-quang"
+      ],
+      "answer": 1,
+      "explain": "<b>PCT tăng mạnh</b> trong nhiễm khuẩn và <b>giảm nhanh</b> khi điều trị hiệu quả. Nó giúp cá thể hóa thời gian dùng kháng sinh, giảm lạm dụng thuốc."
+    },
+    {
+      "q": "Theo hướng dẫn của ATS/IDSA, cấy máu ở bệnh nhân viêm phổi cộng đồng nên được thực hiện cho đối tượng nào?",
+      "options": [
+        "Tất cả các bệnh nhân điều trị ngoại trú",
+        "Chỉ những bệnh nhân nặng phải nhập viện, điều trị tại ICU hoặc nghi ngờ nhiễm MRSA/P. aeruginosa",
+        "Bệnh nhân chỉ có ho nhẹ không sốt",
+        "Người trẻ không có bệnh nền"
+      ],
+      "answer": 1,
+      "explain": "Cấy máu thường quy cho mọi ca VPCĐ có hiệu suất thấp. Chỉ nên làm cho nhóm nguy cơ cao hoặc cần điều chỉnh kháng sinh đích ở bệnh nhân nặng."
+    },
+    {
+      "q": "Hình ảnh đám mờ X-quang phổi ở bệnh nhân viêm phổi thường bắt đầu thay đổi (xóa mờ) sau bao lâu kể từ khi điều trị có đáp ứng lâm sàng?",
+      "options": [
+        "Sau 24 giờ điều trị kháng sinh",
+        "Chậm hơn lâm sàng, thường sau 4 - 12 tuần tổn thương mới biến mất hoàn toàn",
+        "Ngay lập tức khi bệnh nhân hết sốt",
+        "Không bao giờ biến mất"
+      ],
+      "answer": 1,
+      "explain": "<b>Bẫy kinh điển:</b> Triệu chứng lâm sàng (sốt, ho) hết rất nhanh nhưng hình ảnh X-quang cần thời gian dài để phục hồi. Không nên chụp lại X-quang quá sớm nếu lâm sàng đang tốt lên."
+    },
+    {
+      "q": "Trong đánh giá mức độ nặng, chỉ số nồng độ Urê máu trong thang điểm CURB-65 được tính là điểm nặng khi vượt quá ngưỡng nào?",
+      "options": [
+        "> 3 mmol/L",
+        "> 7 mmol/L (hoặc 19 mg/dL)",
+        "> 15 mmol/L",
+        "> 30 mmol/L"
+      ],
+      "answer": 1,
+      "explain": "<b>U (Urea)</b> là một thành phần trong CURB-65. Mức <b>> 7 mmol/L</b> phản ánh tình trạng mất nước hoặc suy giảm chức năng thận do nhiễm trùng nặng."
+    },
+    {
+      "q": "Xét nghiệm khí máu động mạch được chỉ định khi nào ở bệnh nhân viêm phổi cộng đồng?",
+      "options": [
+        "Cho mọi bệnh nhân khi mới vào viện",
+        "Khi bệnh nhân có SpO2 < 92% hoặc có dấu hiệu suy hô hấp nặng, sốc",
+        "Chỉ làm khi nghi ngờ bệnh nhân bị đái tháo đường",
+        "Làm định kỳ mỗi 2 giờ một lần"
+      ],
+      "answer": 1,
+      "explain": "Khí máu giúp đánh giá chính xác phân áp oxy, CO₂ và tình trạng toan kiềm, hỗ trợ quyết định phương thức hỗ trợ hô hấp (thở oxy, HFNC hay thở máy)."
+    },
+    {
+      "q": "Vai trò của nội soi phế quản trong chẩn đoán viêm phổi cộng đồng là gì?",
+      "options": [
+        "Là xét nghiệm đầu tay để tìm vi khuẩn",
+        "Chỉ định khi viêm phổi nặng không đáp ứng điều trị, nghi ngờ tắc nghẽn do u/dị vật hoặc ở người suy giảm miễn dịch",
+        "Để bơm rửa toàn bộ phổi hàng ngày",
+        "Dùng để chụp ảnh nhu mô phổi rõ hơn X-quang"
+      ],
+      "answer": 1,
+      "explain": "Nội soi phế quản cho phép lấy dịch rửa phế quản phế nang (BAL) hoặc chải phế quản có bảo vệ để cấy vi khuẩn với độ tin cậy cao hơn đờm khạc."
+    },
+    {
+      "q": "Lựa chọn kháng sinh khởi đầu theo kinh nghiệm cho bệnh nhân VPCĐ ngoại trú, khỏe mạnh, không có yếu tố nguy cơ nhiễm vi khuẩn kháng thuốc là gì?",
+      "options": [
+        "Amoxicillin liều cao hoặc Doxycycline hoặc một Macrolide (nếu tỷ lệ kháng thuốc thấp)",
+        "Imipenem tiêm tĩnh mạch",
+        "Vancomycin phối hợp Amikacin",
+        "Ciprofloxacin đơn trị liệu"
+      ],
+      "answer": 0,
+      "explain": "<b>Kháng sinh đường uống phổ rộng</b> đánh vào phế cầu và vi khuẩn không điển hình là ưu tiên cho nhóm ngoại trú nguy cơ thấp."
+    },
+    {
+      "q": "Tại sao Ciprofloxacin KHÔNG được khuyến cáo sử dụng đơn trị liệu trong điều trị viêm phổi cộng đồng?",
+      "options": [
+        "Vì nó quá đắt tiền",
+        "Vì nó có phổ tác dụng rất yếu trên Streptococcus pneumoniae (phế cầu)",
+        "Vì nó gây buồn ngủ mạnh",
+        "Vì nó chỉ có dạng thuốc tiêm"
+      ],
+      "answer": 1,
+      "explain": "<b>Ciprofloxacin</b> là Quinolon thế hệ 2, tác dụng tốt trên Gram âm nhưng <b>yếu trên Gram dương</b>. Các Quinolon hô hấp (Levofloxacin, Moxifloxacin) mới là lựa chọn cho viêm phổi."
+    },
+    {
+      "q": "Phác đồ kháng sinh ưu tiên cho bệnh nhân VPCĐ nhập viện điều trị tại khoa Nội (không phải ICU) là gì?",
+      "options": [
+        "Chỉ dùng duy nhất một loại Beta-lactam (như Ceftriaxone)",
+        "Phối hợp Beta-lactam + Macrolide HOẶC dùng đơn trị liệu một Quinolon hô hấp",
+        "Chỉ dùng Gentamicin",
+        "Sử dụng Metronidazole đơn độc"
+      ],
+      "answer": 1,
+      "explain": "Phối hợp này đảm bảo <b>bao phủ được cả vi khuẩn điển hình và không điển hình</b>, cho thấy kết quả điều trị tốt hơn ở nhóm bệnh nhân nội trú."
+    },
+    {
+      "q": "Thời gian điều trị kháng sinh trung bình cho một trường hợp VPCĐ không có biến chứng, đáp ứng tốt với điều trị là bao lâu?",
+      "options": [
+        "Chỉ cần 2 ngày",
+        "Tối thiểu 5 ngày (và phải hết sốt ít nhất 48 giờ)",
+        "Bắt buộc phải đủ 21 ngày",
+        "Dùng cho đến khi X-quang phổi hết sạch tổn thương"
+      ],
+      "answer": 1,
+      "explain": "Đa số BN VPCĐ đáp ứng tốt chỉ cần điều trị từ <b>5-7 ngày</b>. Kéo dài kháng sinh không cần thiết làm tăng nguy cơ tác dụng phụ và kháng thuốc."
+    },
+    {
+      "q": "Cơ chế tác dụng của kháng sinh nhóm Beta-lactam (như Amoxicillin, Ceftriaxone) là gì?",
+      "options": [
+        "Ức chế tổng hợp protein tại ribosome 30S",
+        "Ức chế tổng hợp vách tế bào vi khuẩn (peptidoglycan)",
+        "Phá hủy màng tế bào chất của vi khuẩn",
+        "Ức chế enzyme nhân đôi DNA (Gyrase)"
+      ],
+      "answer": 1,
+      "explain": "<b>Beta-lactam</b> ngăn cản sự hình thành các liên kết chéo trong vách, làm vi khuẩn bị ly giải. Vi khuẩn không điển hình không có vách peptidoglycan nên Beta-lactam không có tác dụng."
+    },
+    {
+      "q": "Tác dụng phụ thường gặp và đáng ngại nhất của các kháng sinh nhóm Macrolide (như Clarithromycin, Azithromycin) trên tim mạch là gì?",
+      "options": [
+        "Gây tăng huyết áp kịch phát",
+        "Gây nhịp chậm xoang",
+        "Kéo dài khoảng QT trên điện tâm đồ, nguy cơ gây xoắn đỉnh",
+        "Gây hẹp van hai lá"
+      ],
+      "answer": 2,
+      "explain": "Cần thận trọng khi dùng Macrolide cho bệnh nhân có sẵn các yếu tố nguy cơ <b>kéo dài khoảng QT</b> hoặc đang dùng các thuốc khác có cùng tác dụng phụ này."
+    },
+    {
+      "q": "Khi nào bệnh nhân viêm phổi cộng đồng được cân nhắc chuyển từ kháng sinh đường tiêm sang đường uống?",
+      "options": [
+        "Khi bệnh nhân đã nằm viện đủ 5 ngày",
+        "Khi huyết động ổn định, lâm sàng cải thiện, có thể ăn uống được và chức năng tiêu hóa bình thường",
+        "Ngay khi có kết quả cấy đờm",
+        "Khi bệnh nhân yêu cầu ra viện"
+      ],
+      "answer": 1,
+      "explain": "Tiêu chuẩn chuyển đổi (Switch therapy) giúp <b>giảm biến chứng đường truyền, giảm chi phí</b> và cho phép bệnh nhân ra viện sớm."
+    },
+    {
+      "q": "Kháng sinh nào sau đây có phổ tác dụng bao phủ được cả trực khuẩn mủ xanh (Pseudomonas aeruginosa)?",
+      "options": [
+        "Ceftriaxone",
+        "Piperacillin-Tazobactam",
+        "Amoxicillin-Clavulanate",
+        "Azithromycin"
+      ],
+      "answer": 1,
+      "explain": "<b>Piperacillin-Tazobactam, Ceftazidime, Cefepime</b> hoặc <b>Carbapenem</b> là các Beta-lactam có hoạt tính trên trực khuẩn mủ xanh, thường dùng cho bệnh nhân có yếu tố nguy cơ đặc biệt."
+    },
+    {
+      "q": "Vai trò của Corticosteroid trong điều trị viêm phổi cộng đồng hiện nay được khuyến cáo như thế nào?",
+      "options": [
+        "Dùng đại trà cho tất cả các ca để giảm viêm nhanh",
+        "Chỉ cân nhắc dùng cho bệnh nhân VPCĐ nặng có sốc nhiễm khuẩn không đáp ứng vận mạch",
+        "Chống chỉ định hoàn toàn vì làm vi khuẩn phát triển mạnh hơn",
+        "Dùng để thay thế cho kháng sinh"
+      ],
+      "answer": 1,
+      "explain": "Dùng Corticosteroid liều thấp bổ trợ chỉ có <b>lợi ích rõ ràng nhất ở nhóm VPCĐ nặng</b> có biến chứng sốc nhiễm khuẩn."
+    },
+    {
+      "q": "Tác dụng không mong muốn \"đứt gân Achilles\" liên quan đến nhóm kháng sinh nào?",
+      "options": [
+        "Aminoglycoside",
+        "Quinolon (như Levofloxacin)",
+        "Lincosamid",
+        "Tetracycline"
+      ],
+      "answer": 1,
+      "explain": "<b>Quinolon</b> có thể gây tổn thương gân, đặc biệt ở người già, người dùng corticoid kèm theo hoặc người có bệnh thận mạn."
+    },
+    {
+      "q": "Theo thang điểm CURB-65, bệnh nhân có bao nhiêu điểm thì được khuyến cáo nên nhập viện điều trị?",
+      "options": [
+        "0 điểm",
+        "1 điểm",
+        "Từ 2 điểm trở lên",
+        "Chỉ khi đạt đủ 5 điểm"
+      ],
+      "answer": 2,
+      "explain": "0-1 điểm: Điều trị ngoại trú. <b>2 điểm: Nhập viện điều trị</b>. ≥ 3 điểm: Viêm phổi nặng, cân nhắc nằm ICU."
+    },
+    {
+      "q": "Biến chứng \"Áp xe phổi\" được nghi ngờ khi bệnh nhân viêm phổi có diễn biến lâm sàng như thế nào?",
+      "options": [
+        "Hết sốt nhanh chóng sau 1 ngày",
+        "Sốt dai dẳng, ho khạc nhiều đờm mủ thối, X-quang có hình ảnh mức nước - mức hơi trong nhu mô phổi",
+        "Đau ngực giảm đi khi nằm nghiêng sang bên lành",
+        "Nhịp tim chậm dần đều"
+      ],
+      "answer": 1,
+      "explain": "<b>Áp xe phổi</b> là tình trạng hoại tử nhu mô tạo hang chứa mủ. <b>Ho ra mủ (hộc mủ)</b> là triệu chứng cơ năng điển hình khi ổ áp xe thông với phế quản."
+    },
+    {
+      "q": "Đặc điểm dịch màng phổi trong \"Tràn mủ màng phổi\" (Empyema) do biến chứng viêm phổi là gì?",
+      "options": [
+        "Dịch trong suốt, protein thấp",
+        "Dịch đục như mủ, pH < 7.2, glucose thấp, nhuộm soi thấy vi khuẩn",
+        "Dịch màu hồng, nhiều hồng cầu",
+        "Dịch có màu vàng chanh, nhiều tế bào lympho"
+      ],
+      "answer": 1,
+      "explain": "<b>Tràn mủ màng phổi</b> là tình trạng <b>nhiễm trùng trực tiếp khoang màng phổi</b>, cần phải dẫn lưu lưu thông và điều trị kháng sinh mạnh, kéo dài."
+    },
+    {
+      "q": "Biện pháp dự phòng viêm phổi cộng đồng hiệu quả nhất được khuyến cáo cho người lớn tuổi và người có bệnh phổi mạn tính là gì?",
+      "options": [
+        "Uống kháng sinh dự phòng mỗi khi thời tiết thay đổi",
+        "Tiêm phòng vaccine cúm hàng năm và vaccine phế cầu theo lịch",
+        "Súc miệng bằng nước muối liều cao 10 lần mỗi ngày",
+        "Đeo khẩu trang kể cả khi đi ngủ"
+      ],
+      "answer": 1,
+      "explain": "Tiêm chủng giúp <b>giảm đáng kể tỷ lệ mắc và mức độ nặng</b> của viêm phổi do các tác nhân nguy hiểm nhất."
+    }
+  ]
+}
