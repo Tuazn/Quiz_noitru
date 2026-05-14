@@ -1,0 +1,620 @@
+{
+  "name": "Tràn dịch màng phổi",
+  "description": "Case lâm sàng về tràn dịch màng phổi với các nguyên nhân khác nhau: suy tim, viêm phổi, ung thư, lao, thuyên tắc phổi, viêm khớp, viêm tụy, chấn thương, xơ gan và bệnh thận",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Hô hấp",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 72 tuổi, suy tim sung huyết khó thở tăng",
+      "body": "<b>Tiền sử:</b> Suy tim sung huyết (EF 30%), bệnh thận mạn giai đoạn 3<br><b>Triệu chứng:</b> Khó thở tăng dần 1 tuần, cả hai thì, tăng lên khi nằm đầu thấp, phải kê 3 gối ngủ, ho khan, phù hai chi dưới. Ăn mặn hơn tuần qua.<br><b>Khám:</b> Mạch 105/phút, HA 140/85, nhịp thở 26/phút, SpO₂ 92%, tĩnh mạch cổ nổi. Rì rào phế nang giảm hai đáy, gõ đục hai bên. Tim nhịp nhanh đều, T3. Gan to 3cm, phù hai chi dưới.<br><b>Cận lâm sàng:</b> X-quang: bóng tim to, mờ lan tỏa 1/3 dưới với đường cong Damoiseau. Siêu âm tim: EF 30%. Dịch màng phổi: vàng chanh, trong; Protein 18 g/L (máu 65), LDH 100 U/L (máu 250).",
+      "questions": [
+        {
+          "q": "Dựa vào tiêu chuẩn Light, dịch màng phổi của bệnh nhân này được phân loại là gì?",
+          "options": [
+            "Dịch thấm",
+            "Dịch tiết",
+            "Dịch dưỡng chấp",
+            "Dịch mủ"
+          ],
+          "answer": 0,
+          "explain": "<b>Dịch thấm</b> vì thỏa mãn cả 3 tiêu chuẩn Light: (1) Protein dịch/máu = 18/65 ≈ 0.28 (<0.5); (2) LDH dịch/máu = 100/250 = 0.4 (<0.6); (3) LDH dịch = 100 U/L < 2/3 giới hạn trên bình thường."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính gây ra tràn dịch màng phổi ở bệnh nhân này là gì?",
+          "options": [
+            "Tăng tính thấm mao mạch do nhiễm trùng",
+            "Giảm áp lực keo do suy dinh dưỡng",
+            "Tăng áp lực thủy tĩnh do suy tim mất bù",
+            "Tắc nghẽn hệ thống bạch huyết do khối u"
+          ],
+          "answer": 2,
+          "explain": "Suy tim phải làm tăng áp lực cuối tâm trương, dẫn tới <b>tăng áp lực tĩnh mạch trung tâm</b>. Áp lực thủy tĩnh trong mao mạch lá thành màng phổi tăng, đẩy dịch vào khoang màng phổi."
+        },
+        {
+          "q": "Can thiệp điều trị nào sau đây là quan trọng và hiệu quả nhất?",
+          "options": [
+            "Dùng kháng sinh phổ rộng tĩnh mạch",
+            "Dùng lợi tiểu quai (Furosemide) tĩnh mạch",
+            "Đặt dẫn lưu màng phổi giải áp",
+            "Dùng Corticoid chống viêm"
+          ],
+          "answer": 1,
+          "explain": "Nguyên nhân do ứ muối và nước. <b>Lợi tiểu tĩnh mạch</b> là điều trị nền tảng để tăng thải dịch, giảm áp lực thủy tĩnh và giúp dịch được tái hấp thu."
+        },
+        {
+          "q": "Xét nghiệm nào trong huyết thanh có giá trị cao trong chẩn đoán suy tim mất bù?",
+          "options": [
+            "Troponin I",
+            "D-dimer",
+            "Pro-BNP (NT-proBNP)",
+            "CRP"
+          ],
+          "answer": 2,
+          "explain": "<b>Pro-BNP</b> được tâm thất tiết khi bị căng giãn. Nồng độ Pro-BNP tăng cao là dấu hiệu nhạy và đặc hiệu của suy tim mất bù, phân biệt với nguyên nhân khó thở khác."
+        },
+        {
+          "q": "Đặc điểm nào sau đây KHÔNG phải là dấu hiệu quá tải thể tích?",
+          "options": [
+            "Tĩnh mạch cổ nổi",
+            "Phù ngoại biên",
+            "Dấu véo da mất chậm",
+            "Gan to"
+          ],
+          "answer": 2,
+          "explain": "<b>Dấu véo da mất chậm</b> là biểu hiện của <b>mất nước, giảm thể tích tuần hoàn</b>. Các dấu hiệu còn lại là biểu hiện thừa dịch, sung huyết hệ thống."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 25 tuổi, viêm phổi có biến chứng mủ màng phổi",
+      "body": "<b>Tiền sử:</b> Không có bệnh lý đáng chú ý<br><b>Triệu chứng:</b> Sốt cao 39-40°C kéo dài 1 tuần, ho khạc đờm mủ xanh, đau ngực phải kiểu màng phổi tăng lên khi ho và hít sâu. Tự uống thuốc hạ sốt không đỡ.<br><b>Khám:</b> Mạch 115/phút, HA 110/70, nhịp thở 28/phút, SpO₂ 94%, nhiệt độ 39.2°C. Hội chứng ba giảm rõ ở 1/2 dưới phổi phải (gõ đục, rung thanh giảm, rì rào giảm). Phổi trái bình thường.<br><b>Cận lâm sàng:</b> X-quang: đông đặc thùy dưới phổi phải kèm mờ tù góc sườn hoành phải. Dịch màng phổi: vàng đục có mùi hôi; Protein 45 g/L (máu 70), LDH 800 U/L (máu 200), Glucose 2.5 mmol/L (máu 6.0), pH 7.10.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất là gì?",
+          "options": [
+            "Tràn dịch do lao",
+            "Tràn dịch ác tính",
+            "Tràn dịch cận viêm phổi có biến chứng (mủ màng phổi)",
+            "Tràn dịch do suy tim"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân trẻ, hội chứng nhiễm trùng rõ, tràn dịch <b>dịch tiết có tính chất mủ</b> (đục, pH thấp, glucose thấp). Đây là <b>tràn dịch cận viêm phổi có biến chứng</b>."
+        },
+        {
+          "q": "Cơ chế chính gây tràn dịch là gì?",
+          "options": [
+            "Sự lan tỏa phản ứng viêm và vi khuẩn từ nhu mô phổi, tăng tính thấm mao mạch",
+            "Tăng áp lực thủy tĩnh do sốt cao",
+            "Giảm áp lực keo do nhiễm trùng nặng",
+            "Tắc nghẽn hệ bạch huyết do viêm"
+          ],
+          "answer": 0,
+          "explain": "Viêm phổi gây phản ứng viêm mạnh mẽ. Mao mạch bị tổn thương, <b>tăng tính thấm</b>, cho phép dịch, protein, tế bào viêm thoát ra. Vi khuẩn xâm nhập vào khoang màng phổi gây phản ứng viêm dữ dội, hình thành mủ."
+        },
+        {
+          "q": "Dựa vào xét nghiệm dịch màng phổi, hướng xử trí tiếp theo nào là bắt buộc?",
+          "options": [
+            "Chỉ dùng kháng sinh và theo dõi",
+            "Đặt ống dẫn lưu để giải phóng mủ",
+            "Bơm rửa bằng dung dịch muối sinh lý",
+            "Dùng lợi tiểu để giảm dịch"
+          ],
+          "answer": 1,
+          "explain": "Dịch có pH <7.20, glucose <3.3 mmol/L là dấu hiệu biến chứng, vách hóa. <b>Đặt ống dẫn lưu là bắt buộc</b> để tháo mủ. Kháng sinh độc lập sẽ khó thấm vào ổ mủ."
+        },
+        {
+          "q": "Tiêu chuẩn nào KHÔNG phải là chỉ định dẫn lưu dịch màng phổi?",
+          "options": [
+            "Dịch có mủ đại thể",
+            "Nhuộm Gram hoặc cấy dương tính",
+            "pH dịch > 7.20",
+            "Glucose dịch < 3.3 mmol/L"
+          ],
+          "answer": 2,
+          "explain": "<b>pH > 7.20</b> là dấu hiệu tràn dịch <b>không biến chứng</b>, có khả năng tự hồi phục chỉ với kháng sinh, không cần dẫn lưu. Các tiêu chuẩn khác đều cần can thiệp."
+        },
+        {
+          "q": "Thang điểm nào đánh giá mức độ nặng của viêm phổi?",
+          "options": [
+            "CURB-65 hoặc PSI",
+            "Apache II",
+            "Wells",
+            "CHA₂DS₂-VASc"
+          ],
+          "answer": 0,
+          "explain": "<b>CURB-65 (Confusion, Urea, Respiratory rate, Blood pressure, age ≥65)</b> và <b>PSI</b> là công cụ đánh giá mức độ nặng của viêm phổi, quyết định nơi điều trị (ngoại trú, nội trú, ICU)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi, hút thuốc lá, tràn dịch màng phổi ác tính",
+      "body": "<b>Tiền sử:</b> Nghiện thuốc lá 40 bao.năm<br><b>Triệu chứng:</b> 3 tháng: mệt mỏi, chán ăn, sụt 8kg, ho khan kéo dài, khó thở tăng dần, gần đây khó thở cả khi nghỉ ngơi<br><b>Khám:</b> Thể trạng gầy, suy kiệt, ngón tay dùi trống. Mạch 95/phút, HA 120/80, nhịp thở 24/phút, SpO₂ 93%. Hội chứng ba giảm lan tỏa phổi phải, khí quản lệch trái. Không sờ hạch thượng đòn.<br><b>Cận lâm sàng:</b> X-quang: mờ đậm đồng nhất gần toàn bộ phế trường phải, đẩy lệch trung thất. Dịch màng phổi: 2 lít, màu đỏ máu không đông, <b>dịch tiết, tế bào học thấy tế bào ung thư biểu mô tuyến</b>.",
+      "questions": [
+        {
+          "q": "Nguyên nhân gây tràn dịch là gì?",
+          "options": [
+            "Lao màng phổi",
+            "Tràn dịch ác tính",
+            "Thuyên tắc phổi",
+            "Tràn máu do chấn thương"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân lớn tuổi, hút thuốc, hội chứng toàn thân, <b>tế bào ác tính trong dịch</b> là bằng chứng không thể chối cãi của <b>tràn dịch ác tính</b>, nhiều khả năng do ung thư phổi."
+        },
+        {
+          "q": "Cơ chế chính gây tràn dịch ác tính là gì?",
+          "options": [
+            "Tăng áp lực thủy tĩnh do chèn ép tĩnh mạch chủ trên",
+            "Giảm áp lực keo do hội chứng cận ung thư",
+            "Tăng tính thấm mao mạch và/hoặc tắc nghẽn bạch huyết do tế bào ung thư xâm lấn",
+            "Suy tim do di căn vào cơ tim"
+          ],
+          "answer": 2,
+          "explain": "Tế bào ung thư có thể <b>xâm lấn và tắc nghẽn các lỗ dẫn lưu bạch huyết</b> trên lá thành màng phổi, cản trở tái hấp thu dịch, dẫn đến tích tụ."
+        },
+        {
+          "q": "Xét nghiệm nào là tiêu chuẩn vàng chẩn đoán xác định?",
+          "options": [
+            "Nồng độ CEA trong dịch",
+            "Chụp CT scan ngực",
+            "Xét nghiệm tế bào học hoặc sinh thiết màng phổi",
+            "Nội soi phế quản"
+          ],
+          "answer": 2,
+          "explain": "Tìm thấy <b>tế bào ung thư trong dịch (xét nghiệm tế bào học) hoặc sinh thiết màng phổi là tiêu chuẩn vàng</b> để khẳng định chẩn đoán."
+        },
+        {
+          "q": "Biện pháp can thiệp tại chỗ phù hợp nhất là gì?",
+          "options": [
+            "Dùng lợi tiểu liều cao",
+            "Chọc tháo dịch ngắt quãng",
+            "Đặt catheter màng phổi lưu hoặc gây dính màng phổi",
+            "Hóa trị toàn thân"
+          ],
+          "answer": 2,
+          "explain": "Để kiểm soát triệu chứng lâu dài ở VPCĐ ác tính tái lập nhanh, các biện pháp lựa chọn là <b>gây dính màng phổi</b> hoặc <b>đặt catheter màng phổi lưu</b>."
+        },
+        {
+          "q": "Đặc điểm nào của dịch KHÔNG gợi ý nguyên nhân ác tính?",
+          "options": [
+            "Dịch màu đỏ máu",
+            "Dịch tái lập nhanh",
+            "pH > 7.30",
+            "Dịch lượng rất nhiều"
+          ],
+          "answer": 2,
+          "explain": "Tràn dịch ác tính thường có <b>pH thấp (<7.30)</b> do chuyển hóa yếm khí. Kết quả pH bình thường hoặc kiềm làm chẩn đoán ác tính ít khả năng hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 20 tuổi, sinh viên, sốt về chiều và tràn dịch màng phổi",
+      "body": "<b>Tiền sử:</b> Sống ở ký túc xá, không tiền sử bệnh tật, không hút thuốc, không yếu tố nguy cơ tim mạch<br><b>Triệu chứng:</b> 1 tháng: sốt nhẹ về chiều, mồ hôi trộm ban đêm, mệt mỏi, chán ăn, sụt 3kg. Gần đây: ho khan, đau ngực âm ỉ bên trái<br><b>Khám:</b> Thể trạng gầy, không hạch ngoại vi, sinh hiệu ổn định. Hội chứng ba giảm 1/2 dưới phổi trái<br><b>Cận lâm sàng:</b> X-quang: tràn dịch màng phổi trái lượng trung bình, nhu mô phổi không tổn thương rõ. Dịch màng phổi: vàng chanh, trong; <b>dịch tiết, tế bào chủ yếu Lympho (95%)</b>, <b>ADA = 75 U/L (cao)</b>.",
+      "questions": [
+        {
+          "q": "Nguyên nhân gây tràn dịch được nghĩ đến nhiều nhất là gì?",
+          "options": [
+            "Do virus",
+            "Do lao",
+            "Lymphoma màng phổi",
+            "Do bệnh hệ thống (Lupus)"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh bán cấp: sốt về chiều, mồ hôi trộm, sụt cân, tràn dịch <b>dịch tiết ưu thế lympho</b> và <b>ADA tăng cao</b> là rất điển hình cho <b>lao màng phổi</b>."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của tràn dịch do lao là gì?",
+          "options": [
+            "Xâm nhập và nhân lên trực tiếp của lượng lớn vi khuẩn lao",
+            "Phản ứng quá mẫn muộn (type IV) đối với kháng nguyên vi khuẩn lao từ ổ lao nhỏ cận màng phổi",
+            "Tắc nghẽn ống ngực do hạch lao",
+            "Suy dinh dưỡng do lao mạn tính"
+          ],
+          "answer": 1,
+          "explain": "Tràn dịch do lao không phải nhiễm trùng thực sự. <b>Ổ lao nhỏ (ổ Ghon) vỡ</b>, kháng nguyên vi khuẩn rò rỉ vào màng phổi, kích hoạt <b>phản ứng miễn dịch type IV</b> mạnh mẽ qua tế bào T."
+        },
+        {
+          "q": "Xét nghiệm ADA có vai trò gì?",
+          "options": [
+            "Là dấu ấn đặc hiệu cho ung thư",
+            "Enzyme từ tế bào Lympho T, ADA cao là dấu ấn cho chẩn đoán lao màng phổi",
+            "Là tiêu chuẩn trong bộ tiêu chuẩn Light",
+            "Giúp xác định tràn dịch có biến chứng"
+          ],
+          "answer": 1,
+          "explain": "ADA là enzyme liên quan đến sự biệt hóa Lympho T. <b>ADA dịch > 40 U/L</b> có độ nhạy và đặc hiệu cao cho chẩn đoán <b>lao màng phổi</b>, đặc biệt ở vùng dịch tễ cao."
+        },
+        {
+          "q": "Phương pháp chẩn đoán xác định là gì?",
+          "options": [
+            "Nhuộm soi AFB dịch",
+            "Nuôi cấy tìm vi khuẩn lao trong dịch hoặc sinh thiết màng phổi",
+            "Xét nghiệm Mantoux",
+            "Nồng độ ADA > 40 U/L"
+          ],
+          "answer": 1,
+          "explain": "Mặc dù ADA rất gợi ý, <b>tiêu chuẩn vàng là tìm thấy vi khuẩn lao</b> bằng <b>nuôi cấy</b> hoặc xét nghiệm sinh học phân tử trên dịch hoặc sinh thiết."
+        },
+        {
+          "q": "Phác đồ điều trị chuẩn là gì?",
+          "options": [
+            "Kháng sinh phổ rộng 14 ngày",
+            "Dẫn lưu và bơm rửa",
+            "Phác đồ 2RHZE/4RH (2 tháng tấn công, 4 tháng duy trì)",
+            "Corticoid liều cao 2 tuần"
+          ],
+          "answer": 2,
+          "explain": "Phác đồ chuẩn của WHO cho lao mới: <b>2 tháng tấn công</b> với Isoniazid, Rifampicin, Pyrazinamide, Ethambutol (RHZE) và <b>4 tháng duy trì</b> với Isoniazid, Rifampicin (RH)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 32 tuổi, béo phì, dùng thuốc tránh thai, thuyên tắc phổi cấp",
+      "body": "<b>Tiền sử:</b> Béo phì (BMI 34), đang dùng thuốc tránh thai đường uống<br><b>Triệu chứng:</b> Chuyến bay dài 2 ngày trước. Sáng nay đột ngột: khó thở dữ dội, đau ngực trái kiểu màng phổi<br><b>Khám:</b> Lo lắng, khó thở nhanh nông. Mạch 120/phút, HA 110/70, nhịp thở 30/phút, SpO₂ 91%. Rì rào phế nang giảm nhẹ đáy trái, tim nhịp nhanh đều<br><b>Cận lâm sàng:</b> <b>D-dimer tăng rất cao</b>. X-quang: xẹp phổi dạng dải đáy trái, ít dịch màng phổi trái. <b>CTPA xác nhận huyết khối động mạch phổi thùy dưới bên trái</b>.",
+      "questions": [
+        {
+          "q": "Chẩn đoán là gì?",
+          "options": [
+            "Nhồi máu cơ tim cấp",
+            "Tràn khí tự phát",
+            "Viêm phổi",
+            "Thuyên tắc phổi cấp"
+          ],
+          "answer": 3,
+          "explain": "Khởi phát đột ngột, khó thở, đau ngực, nhịp tim nhanh, giảm SpO₂ ở bệnh nhân có yếu tố nguy cơ (béo phì, dùng thuốc tránh thai, bất động sau bay) là rất điển hình cho <b>thuyên tắc phổi cấp</b>."
+        },
+        {
+          "q": "Cơ chế gây tràn dịch là gì?",
+          "options": [
+            "Tăng áp lực thủy tĩnh do tắc nghẽn",
+            "Tăng tính thấm do chất trung gian viêm từ nhồi máu",
+            "Cả A và B",
+            "Suy tim phải cấp"
+          ],
+          "answer": 2,
+          "explain": "Hai cơ chế: (1) Tắc nghẽn làm tăng áp lực trước chỗ tắc; (2) Nhồi máu phổi giải phóng cytokine viêm, <b>tăng tính thấm mao mạch</b>."
+        },
+        {
+          "q": "Đặc điểm dịch màng phổi do thuyên tắc thường là gì?",
+          "options": [
+            "Luôn là dịch thấm",
+            "Luôn là dịch tiết",
+            "Có thể là dịch thấm hoặc dịch tiết",
+            "Luôn là dịch mủ"
+          ],
+          "answer": 2,
+          "explain": "Tùy cơ chế ưu thế: Nếu áp lực chiếm ưu thế → dịch thấm; Nếu viêm chiếm ưu thế → dịch tiết. Dịch thường lượng ít, có thể có máu."
+        },
+        {
+          "q": "Yếu tố nào KHÔNG phải yếu tố nguy cơ của thuyên tắc huyết khối tĩnh mạch?",
+          "options": [
+            "Bất động kéo dài (bay dài)",
+            "Dùng thuốc tránh thai chứa estrogen",
+            "Béo phì",
+            "Hút thuốc lá"
+          ],
+          "answer": 3,
+          "explain": "<b>Hút thuốc lá</b> là yếu tố nguy cơ cho bệnh động mạch, không phải thuyên tắc huyết khối <b>tĩnh mạch</b>. Ba yếu tố còn lại đều là nguy cơ thuyên tắc tĩnh mạch."
+        },
+        {
+          "q": "Điều trị nền tảng là gì?",
+          "options": [
+            "Giãn phế quản",
+            "Chống đông ngay bằng heparin hoặc thuốc chống đông mới",
+            "Dẫn lưu màng phổi",
+            "Kháng sinh"
+          ],
+          "answer": 1,
+          "explain": "Điều trị nền tảng của thuyên tắc phổi là <b>chống đông ngay lập tức</b> để ngăn ngừa cục huyết khối lớn thêm, cho phép hệ tiêu sợi huyết tự tan cục hiện có."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 60 tuổi, viêm khớp dạng thấp, tràn dịch đặc trưng",
+      "body": "<b>Tiền sử:</b> Viêm khớp dạng thấp (RA) huyết thanh dương tính 15 năm, điều trị không đều<br><b>Triệu chứng:</b> Khó thở<br><b>Khám:</b> Biến dạng khớp bàn tay, ngón tay hình cổ thiên nga, nốt dạng thấp dưới da. Hội chứng ba giảm đáy phải<br><b>Cận lâm sàng:</b> Dịch màng phổi: vàng đục, hơi óng ánh; <b>dịch tiết, ưu thế lympho</b>; <b>Glucose < 1.0 mmol/L, pH 7.00, LDH > 1000 U/L</b> (rất đặc trưng).",
+      "questions": [
+        {
+          "q": "Nguyên nhân gây tràn dịch là gì?",
+          "options": [
+            "Do suy tim",
+            "Do tác dụng phụ thuốc điều trị RA",
+            "Biểu hiện ngoài khớp của viêm khớp dạng thấp",
+            "Do nhiễm trùng cơ hội"
+          ],
+          "answer": 2,
+          "explain": "Tràn dịch màng phổi là một trong những <b>biểu hiện ngoài khớp phổ biến</b> của viêm khớp dạng thấp, đặc biệt ở nam và bệnh hoạt động kéo dài."
+        },
+        {
+          "q": "Cơ chế gây đặc điểm sinh hóa (glucose rất thấp, pH thấp) là gì?",
+          "options": [
+            "Vi khuẩn kỵ khí tiêu glucose và tạo acid",
+            "Viêm màng phổi nặng, cản vận chuyển glucose từ máu vào và loại bỏ acid",
+            "Chuyển hóa yếm khí của tế bào ung thư",
+            "Nồng độ glucose máu thấp"
+          ],
+          "answer": 1,
+          "explain": "Phản ứng viêm miễn dịch tại màng phổi rất dữ dội, <b>cản vận chuyển glucose</b> từ máu vào dịch, đồng thời acid từ tế bào viêm không được loại bỏ hiệu quả."
+        },
+        {
+          "q": "Nốt dạng thấp có thể dẫn đến biến chứng nào?",
+          "options": [
+            "Vỡ vào khoang màng phổi → tràn khí",
+            "Vỡ vào phế quản → ho ra máu",
+            "Rò phế quản - màng phổi",
+            "Tất cả trên"
+          ],
+          "answer": 3,
+          "explain": "Nốt dạng thấp có thể bị hoại tử vỡ ra gây các biến chứng cơ học: <b>tràn khí, ho ra máu, hoặc tạo đường rò</b>."
+        },
+        {
+          "q": "Biểu hiện hô hấp khác thường gặp trong RA là gì?",
+          "options": [
+            "Bệnh phổi kẽ (UIP)",
+            "Tăng áp động mạch phổi",
+            "Viêm tiểu phế quản",
+            "Tất cả các biểu hiện trên"
+          ],
+          "answer": 3,
+          "explain": "RA là bệnh hệ thống ảnh hưởng tất cả cấu trúc hô hấp: màng phổi, nhu mô phổi (bệnh phổi kẽ - nguyên nhân tử vong liên quan phổi hàng đầu), đường thở, mạch máu."
+        },
+        {
+          "q": "Điều trị tràn dịch là gì?",
+          "options": [
+            "Chỉ chọc tháo dịch",
+            "Dùng kháng sinh",
+            "Kiểm soát viêm hệ thống bằng Corticoid và DMARDs",
+            "Phẫu thuật bóc vỏ màng phổi"
+          ],
+          "answer": 2,
+          "explain": "Tràn dịch là biểu hiện của viêm hệ thống. Điều trị nền tảng là <b>kiểm soát RA bằng Corticoid và DMARDs</b>. Chọc tháo chỉ giảm triệu chứng tạm thời."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi, nghiện rượu, viêm tụy cấp có biến chứng",
+      "body": "<b>Tiền sử:</b> Nghiện rượu nặng<br><b>Triệu chứng:</b> Đau bụng thượng vị dữ dội lan ra sau lưng, nôn ói nhiều. Chẩn đoán: viêm tụy cấp. Sau 3 ngày điều trị, xuất hiện khó thở, đau ngực trái<br><b>Cận lâm sàng:</b> X-quang: tràn dịch màng phổi trái lượng trung bình. Dịch màng phổi: dịch tiết, màu nâu sẫm; <b>Amylase dịch = 5000 U/L (Amylase máu = 1200)</b> (rất cao trong dịch).",
+      "questions": [
+        {
+          "q": "Nguyên nhân tràn dịch là gì?",
+          "options": [
+            "ARDS",
+            "Viêm phổi hít",
+            "Biến chứng của viêm tụy cấp",
+            "Xơ gan mất bù"
+          ],
+          "answer": 2,
+          "explain": "Tràn dịch màng phổi là <b>biến chứng ngoài ổ bụng</b> tương đối phổ biến của viêm tụy cấp, xảy ra ở khoảng 10-20% các trường hợp."
+        },
+        {
+          "q": "Cơ chế tại sao tràn dịch thường xảy ra ở bên trái là gì?",
+          "options": [
+            "Dịch tụy qua các khe hở cơ hoành hoặc đường bạch huyết",
+            "Đuôi tụy gần cơ hoành trái, phản ứng viêm lan trực tiếp",
+            "Cả A và B",
+            "Ngẫu nhiên"
+          ],
+          "answer": 2,
+          "explain": "Hai cơ chế: (1) Dịch viêm từ khoang sau phúc mạc đi theo bạch huyết xuyên cơ hoành; (2) <b>Đuôi tụy gần cơ hoành trái</b>, phản ứng viêm dữ dội lan trực tiếp."
+        },
+        {
+          "q": "Xét nghiệm sinh hóa nào là \"chìa khóa\" chẩn đoán?",
+          "options": [
+            "Protein cao",
+            "LDH cao",
+            "Amylase rất cao (thường cao hơn máu)",
+            "Glucose thấp"
+          ],
+          "answer": 2,
+          "explain": "Tìm thấy <b>Amylase dịch rất cao, đặc biệt cao hơn Amylase máu</b>, là dấu hiệu chẩn đoán xác định của tràn dịch do tụy."
+        },
+        {
+          "q": "Hướng xử trí tiếp theo là gì?",
+          "options": [
+            "Dẫn lưu màng phổi ngay",
+            "Điều trị bảo tồn, chọc tháo chỉ khi triệu chứng",
+            "Octreotide để giảm tiết tụy",
+            "A và C"
+          ],
+          "answer": 1,
+          "explain": "Hầu hết tràn dịch do viêm tụy cấp là <b>phản ứng, tự thoái lui</b> khi viêm tụy kiểm soát. Điều trị chủ yếu là điều trị bệnh nền. Chọc tháo chỉ nếu suy hô hấp."
+        },
+        {
+          "q": "Biến chứng hiếm gặp của tràn dịch do tụy mạn tính là gì?",
+          "options": [
+            "Đường rò tụy-màng phổi",
+            "Ung thư hóa",
+            "Dày dính khoang màng phổi",
+            "Tràn khí"
+          ],
+          "answer": 0,
+          "explain": "Trong viêm tụy mạn hoặc nang giả tụy, ống tụy có thể vỡ tạo <b>đường rò thông trực tiếp vào màng phổi</b>, gây tràn dịch dai dẳng, khó điều trị."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi, chấn thương ngực, tràn dưỡng chấp màng phổi",
+      "body": "<b>Tiền sử:</b> Tai nạn giao thông<br><b>Triệu chứng:</b> Đa chấn thương, chấn thương ngực kín, khó thở, đau ngực<br><b>Cận lâm sàng:</b> X-quang và siêu âm: tràn dịch màng phổi trái lượng nhiều. Dẫn lưu: hút ra ~1.5 lít dịch <b>màu trắng đục như sữa</b>. Dịch: <b>Triglyceride = 15 mmol/L (rất cao)</b>.",
+      "questions": [
+        {
+          "q": "Loại tràn dịch là gì?",
+          "options": [
+            "Mủ màng phổi",
+            "Giả dưỡng chấp",
+            "Dưỡng chấp (Chylothorax)",
+            "Tràn máu"
+          ],
+          "answer": 2,
+          "explain": "Dịch màu trắng sữa, Triglyceride rất cao là những đặc điểm kinh điển của <b>tràn dưỡng chấp màng phổi</b>."
+        },
+        {
+          "q": "Cơ chế gây tràn dưỡng chấp là gì?",
+          "options": [
+            "Vỡ phế quản",
+            "Vỡ ống ngực do chấn thương ngực",
+            "Rò rỉ thực quản",
+            "Vi khuẩn gây mủ"
+          ],
+          "answer": 1,
+          "explain": "<b>Ống ngực</b> là ống bạch huyết lớn chạy trong trung thất sau. Chấn thương ngực có thể làm <b>vỡ ống ngực</b>, khiến dưỡng chấp rò vào khoang màng phổi."
+        },
+        {
+          "q": "Tiêu chuẩn vàng chẩn đoán là gì?",
+          "options": [
+            "Màu trắng sữa",
+            "Tế bào lympho trong dịch",
+            "Triglyceride > 1.24 mmol/L và hạt chylomicron",
+            "Protein cao"
+          ],
+          "answer": 2,
+          "explain": "Mặc dù màu sắc gợi ý, tiêu chuẩn chẩn đoán xác định là <b>Triglyceride > 1.24 mmol/L</b> và tìm thấy <b>hạt chylomicron</b>."
+        },
+        {
+          "q": "Điều trị bảo tồn ban đầu bao gồm?",
+          "options": [
+            "Dẫn lưu để phổi nở",
+            "Chế độ ăn không chất béo + MCT",
+            "Somatostatin để giảm dưỡng chấp",
+            "Tất cả trên"
+          ],
+          "answer": 3,
+          "explain": "Điều trị đa mô thức: Dẫn lưu giúp phổi nở; <b>Chế độ ăn</b> (MCT thay chất béo dài chuỗi) giảm dưỡng chấp; <b>Octreotide</b> giảm tiết tụy."
+        },
+        {
+          "q": "Tại sao dùng MCT trong chế độ ăn?",
+          "options": [
+            "Cung cấp năng lượng hơn",
+            "Hấp thu trực tiếp vào tĩnh mạch cửa, không qua bạch huyết, giảm dưỡng chấp",
+            "Lành ống ngực nhanh",
+            "Vị ngon hơn"
+          ],
+          "answer": 1,
+          "explain": "<b>MCT được hấp thu trực tiếp vào tĩnh mạch cửa</b>, không đi qua bạch huyết, giảm sản xuất dưỡng chấp, làm giảm gánh nặng ống ngực."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 40 tuổi, xơ gan, hepatic hydrothorax",
+      "body": "<b>Tiền sử:</b> Xơ gan Child-Pugh C do virus viêm gan C, cổ trướng, giãn tĩnh mạch thực quản<br><b>Triệu chứng:</b> Khó thở tăng lên<br><b>Khám:</b> Bụng chướng căng, phù hai chân, hội chứng ba giảm phổi phải<br><b>Cận lâm sàng:</b> Dịch màng phổi: dịch thấm, tính chất tương tự dịch cổ trướng, cấy âm tính.",
+      "questions": [
+        {
+          "q": "Tình trạng này gọi là gì?",
+          "options": [
+            "Cận viêm phổi",
+            "Do tim",
+            "Hepatic hydrothorax (do gan)",
+            "Ác tính"
+          ],
+          "answer": 2,
+          "explain": "<b>Hepatic hydrothorax</b> là tràn dịch màng phổi ở bệnh nhân xơ gan có tăng áp tĩnh mạch cửa, không có bệnh lý tim, phổi nguyên phát."
+        },
+        {
+          "q": "Cơ chế chính gây tràn dịch là gì?",
+          "options": [
+            "Giảm albumin từ gan",
+            "Dịch cổ trướng di chuyển qua lỗ cơ hoành do chênh áp lực",
+            "Tăng áp tĩnh mạch cửa",
+            "Nhiễm trùng cổ trướng"
+          ],
+          "answer": 1,
+          "explain": "<b>Áp lực cao trong ổ bụng đẩy dịch qua các lỗ nhỏ ở cơ hoành</b> vào khoang màng phổi (áp lực âm). Cơ chế này giải thích tại sao dịch màng phổi giống dịch cổ trướng."
+        },
+        {
+          "q": "Tại sao thường xảy ra bên phải?",
+          "options": [
+            "Gan ở bên phải",
+            "Cơ hoành bên phải mỏng hơn, nhiều lỗ khuyết tật",
+            "Áp lực bên phải cao hơn",
+            "Tư thế ngủ"
+          ],
+          "answer": 1,
+          "explain": "Giải phẫu: <b>Cơ hoành bên phải yếu hơn, nhiều lỗ khuyết tật hơn</b>. Điều này giải thích tại sao 85% trường hợp xảy ra bên phải."
+        },
+        {
+          "q": "Biến chứng nguy hiểm là gì?",
+          "options": [
+            "Viêm phúc mạc nhiễm khuẩn tự phát (SBP)",
+            "Viêm màng phổi nhiễm khuẩn tự phát (SBEM)",
+            "Vỡ thực quản",
+            "Gan thận"
+          ],
+          "answer": 1,
+          "explain": "Tương tự SBP, dịch màng phổi có thể bị <b>nhiễm trùng tự phát (SBEM)</b> do vi khuẩn từ đường ruột, gây nhiễm trùng nặng."
+        },
+        {
+          "q": "Điều trị nền tảng là gì?",
+          "options": [
+            "Dẫn lưu màng phổi",
+            "Hạn chế muối + lợi tiểu (spironolactone, furosemide)",
+            "Gây dính màng phổi",
+            "Phẫu thuật vá cơ hoành"
+          ],
+          "answer": 1,
+          "explain": "Dẫn lưu chống chỉ định vì mất protein. Điều trị chính là <b>hạn chế muối và lợi tiểu</b>. TIPS hoặc ghép gan cho kháng trị."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi, suy thận mạn, chạy thận nhân tạo, viêm màng phổi",
+      "body": "<b>Tiền sử:</b> Bệnh thận mạn giai đoạn cuối, chạy thận nhân tạo 3 lần/tuần<br><b>Triệu chứng:</b> Sốt, đau ngực<br><b>Khám:</b> Tiếng cọ màng phổi<br><b>Cận lâm sàng:</b> X-quang/siêu âm: tràn dịch hai bên lượng ít. Dịch: dịch tiết, vàng rơm, đôi khi máu, ưu thế bạch cầu đa nhân trung tính, cấy âm tính.",
+      "questions": [
+        {
+          "q": "Nguyên nhân gây tràn dịch là gì?",
+          "options": [
+            "Quá tải dịch",
+            "Suy tim",
+            "Viêm màng phổi do urê máu cao (Uremic pleuritis)",
+            "Viêm phổi"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh suy thận, sốt, đau ngực kiểu màng phổi, nghe cọ, tràn dịch dịch tiết vô khuẩn là rất điển hình cho <b>viêm màng phổi do urê máu cao</b>."
+        },
+        {
+          "q": "Cơ chế bệnh sinh là gì?",
+          "options": [
+            "Vi khuẩn xâm nhập",
+            "Độc tố urê gây viêm hóa học vô khuẩn của các màng thanh mạc",
+            "Giảm áp lực keo",
+            "Tắc bạch huyết"
+          ],
+          "answer": 1,
+          "explain": "<b>Nồng độ urê rất cao</b> gây tổn thương trực tiếp tế bào trung biểu mô và mao mạch, dẫn đến phản ứng viêm và tăng tính thấm."
+        },
+        {
+          "q": "Tiếng cọ màng phổi do?",
+          "options": [
+            "Sự di chuyển dịch",
+            "Cọ xát hai lá màng phổi viêm, phủ fibrin, khi hô hấp",
+            "Phế quản hẹp",
+            "Tràn khí"
+          ],
+          "answer": 1,
+          "explain": "Khi màng phổi viêm, bề mặt thô ráp do fibrin, sự cọ xát của hai lá tạo ra âm thanh đặc trưng như tiếng da cọ vào nhau."
+        },
+        {
+          "q": "Điều trị hiệu quả nhất là gì?",
+          "options": [
+            "NSAID",
+            "Tăng cường hoặc bắt đầu lọc máu",
+            "Dẫn lưu",
+            "Corticoid"
+          ],
+          "answer": 1,
+          "explain": "Nguyên nhân do độc tố urê. Điều trị hiệu quả là <b>loại bỏ các độc tố</b> bằng tăng cường lọc máu (tăng thời gian, tần suất) hoặc bắt đầu lọc."
+        },
+        {
+          "q": "Ngoài màng phổi, viêm các màng thanh mạc ở vị trí nào?",
+          "options": [
+            "Màng bụng",
+            "Màng ngoài tim",
+            "Màng não",
+            "Bao khớp"
+          ],
+          "answer": 1,
+          "explain": "<b>Viêm các màng thanh mạc</b> là biểu hiện của hội chứng urê cao. <b>Màng ngoài tim</b> thường bị ảnh hưởng, gây viêm màng ngoài tim do urê, có nguy cơ ép tim cấp."
+        }
+      ]
+    }
+  ]
+}
