@@ -1,0 +1,620 @@
+{
+  "name": "Dọa sảy thai, sảy thai Up",
+  "description": "Bộ câu hỏi lâm sàng về dọa sảy thai và các thể sảy thai, dành cho ôn thi bác sĩ nội trú.",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Sản",
+  "subcategory": "Sản khoa",
+  "cases": [
+    {
+      "title": "Thai phụ 28 tuổi, PARA 1001, thai 7 tuần 2 ngày, ra máu âm đạo nhiều kèm đau quặn bụng",
+      "body": "Thai phụ 28 tuổi, PARA 1001, thai 7 tuần 2 ngày theo siêu âm sớm. Cách nhập viện 1 ngày, bệnh nhân ra máu âm đạo nhiều kèm đau quặn bụng từng cơn. Hiện tại, bệnh nhân hết đau bụng, máu ra ít.<br><br><b>Khám lâm sàng:</b> Mạch 80 lần/phút, HA 110/70 mmHg, nhiệt độ 37°C. Khám mỏ vịt: cổ tử cung đóng kín, có ít máu sẫm trong âm đạo, không có máu tươi đang chảy. Bụng mềm, không có dấu hiệu ngoại khoa.<br><br><b>Siêu âm ngả âm đạo:</b> Tử cung kích thước bình thường, nội mạc mỏng 4 mm, buồng tử cung trống, không thấy khối bất thường phần phụ hai bên.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất cho bệnh nhân này?",
+          "options": [
+            "Sảy thai hoàn toàn",
+            "Sảy thai không hoàn toàn",
+            "Doạ sảy thai sớm",
+            "Thai ngoài tử cung"
+          ],
+          "answer": 0,
+          "explain": "Bệnh sử ra máu nhiều có tống xuất mô, sau đó hết đau bụng và cổ tử cung đóng kín, kết hợp siêu âm buồng tử cung trống và nội mạc mỏng phù hợp với sảy thai hoàn toàn. Các chẩn đoán khác không phù hợp vì cổ tử cung đã đóng và không còn khối thai."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính dẫn đến hiện tượng chảy máu trong trường hợp này?",
+          "options": [
+            "Vỡ mạch máu màng rụng basalis",
+            "Phôi thai bị tống xuất hoàn toàn",
+            "Cổ tử cung mở rộng đột ngột",
+            "Cơ tử cung co thắt quá mức"
+          ],
+          "answer": 0,
+          "explain": "Sự xuất huyết trong sảy thai sớm bắt nguồn từ quá trình hoại tử và vỡ các mạch máu tại màng rụng (decidua basalis), dẫn đến bong tróc phôi thai. Đây là bước sinh lý bệnh đầu tiên kích hoạt co thắt tử cung."
+        },
+        {
+          "q": "Xét nghiệm ưu tiên tiếp theo để củng cố chẩn đoán?",
+          "options": [
+            "Định lượng nồng độ β-hCG máu",
+            "Siêu âm bơm nước buồng tử cung",
+            "Công thức máu toàn bộ chi tiết",
+            "Định lượng nồng độ progesterone máu"
+          ],
+          "answer": 0,
+          "explain": "Nồng độ β-hCG huyết thanh cần được theo dõi cho đến khi âm tính để xác nhận sảy thai hoàn toàn và loại trừ các biến chứng như thai ngoài tử cung hoặc bệnh lý nguyên bào nuôi. Mốc quan trọng là sự sụt giảm nhanh chóng của hormone này."
+        },
+        {
+          "q": "Hướng quản lý ban đầu phù hợp nhất?",
+          "options": [
+            "Theo dõi ngoại trú định kỳ",
+            "Nong nạo làm sạch buồng tử cung",
+            "Dùng thuốc misoprostol đặt âm đạo",
+            "Tiêm kháng sinh dự phòng phổ rộng"
+          ],
+          "answer": 0,
+          "explain": "Sảy thai hoàn toàn với huyết động ổn định và không có dấu hiệu nhiễm trùng chỉ cần theo dõi ngoại trú. Không có chỉ định can thiệp ngoại khoa hay nội khoa để làm sạch buồng tử cung lúc này."
+        },
+        {
+          "q": "Dấu hiệu nghi ngờ biến chứng sót thai hoặc sót nhau?",
+          "options": [
+            "Mức β-hCG giảm chậm hoặc bình nguyên",
+            "Đau trằn vùng bụng dưới mức độ nhẹ",
+            "Thân nhiệt cơ thể ở mức 37.2°C",
+            "Máu âm đạo ra ít và sẫm màu"
+          ],
+          "answer": 0,
+          "explain": "Nếu nồng độ β-hCG không giảm đúng động học (giảm chậm hoặc đi ngang), cần nghi ngờ còn sót mô nuôi hoặc có thai ngoài tử cung đồng mắc. Các triệu chứng khác như đau nhẹ hay ra ít máu sẫm là diễn tiến bình thường sau sảy thai.\n\nNguồn: Williams Obstetrics, 25th Edition."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ 24 tuổi, PARA 0000, thai 8 tuần, đau trằn bụng dưới nhẹ, ra dịch hồng nhạt",
+      "body": "Thai phụ 24 tuổi, PARA 0000, thai 8 tuần. Cách đây 1 tuần siêu âm ghi nhận một thai sống trong tử cung. Bệnh nhân nhập viện vì đau trằn bụng dưới nhẹ, ra ít dịch màu hồng nhạt.<br><br><b>Khám lâm sàng:</b> Sinh hiệu ổn định: mạch 85 lần/phút, HA 110/60 mmHg. Đặt mỏ vịt: cổ tử cung đóng kín, không có máu tươi chảy ra từ lỗ trong. Khám bằng tay: tử cung to tương đương tuổi thai, hai phần phụ không chạm khối, bụng mềm không phản ứng thành bụng.",
+      "questions": [
+        {
+          "q": "Định hướng chẩn đoán ban đầu?",
+          "options": [
+            "Doạ sảy thai",
+            "Sảy thai khó tránh",
+            "Sảy thai lưu",
+            "Thai ngoài tử cung"
+          ],
+          "answer": 0,
+          "explain": "Ra huyết âm đạo nhẹ, đau bụng ít và cổ tử cung đóng kín ở thai 8 tuần là các dấu hiệu điển hình của doạ sảy thai. Không có dấu hiệu dãn mở cổ tử cung để chẩn đoán sảy thai khó tránh."
+        },
+        {
+          "q": "Tiêu chuẩn trên siêu âm xác định thai đang phát triển?",
+          "options": [
+            "Có phôi và hoạt động tim thai",
+            "Chiều dài đầu mông kích thước lớn",
+            "Kích thước túi thai tăng liên tục",
+            "Túi noãn hoàng tròn đều rõ nét"
+          ],
+          "answer": 0,
+          "explain": "Sự hiện diện của phôi thai cùng với hoạt động tim thai (thường thấy rõ khi CRL ≥ 5-7 mm) là bằng chứng chắc chắn nhất xác định thai đang sống và phát triển. Các cấu trúc khác chỉ mang tính gợi ý."
+        },
+        {
+          "q": "Thăm dò ưu tiên tiếp theo trong bối cảnh này?",
+          "options": [
+            "Siêu âm đầu dò ngả âm đạo",
+            "Định lượng nồng độ β-hCG huyết thanh",
+            "Sinh thiết gai nhau để chẩn đoán",
+            "Tiến hành nội soi buồng tử cung"
+          ],
+          "answer": 0,
+          "explain": "Siêu âm đầu dò âm đạo là phương tiện ưu tiên để đánh giá lại vị trí, kích thước và hoạt động tim thai, từ đó tiên lượng khả năng giữ thai. Định lượng β-hCG không có nhiều giá trị khi đã thấy tim thai trước đó."
+        },
+        {
+          "q": "Lựa chọn tư vấn điều trị ban đầu?",
+          "options": [
+            "Nghỉ ngơi và hạn chế gắng sức",
+            "Nằm bất động tại giường tuyệt đối",
+            "Khâu vòng cổ tử cung dự phòng",
+            "Sử dụng thuốc co bóp tử cung"
+          ],
+          "answer": 0,
+          "explain": "Khuyến cáo bệnh nhân nghỉ ngơi hợp lý, kiêng giao hợp và tránh lao động nặng là biện pháp quản lý chuẩn. Nằm bất động tuyệt đối không chứng minh được hiệu quả ngăn ngừa sảy thai và làm tăng nguy cơ huyết khối."
+        },
+        {
+          "q": "Dấu hiệu cảnh báo diễn tiến bất lợi?",
+          "options": [
+            "Chảy máu đỏ tươi lượng nhiều",
+            "Buồn nôn và nôn mửa liên tục",
+            "Căng tức hai bầu ngực thường xuyên",
+            "Ra dịch âm đạo màu trắng đục"
+          ],
+          "answer": 0,
+          "explain": "Chảy máu đỏ tươi lượng nhiều kèm đau quặn bụng tăng lên là dấu hiệu cảnh báo tình trạng doạ sảy thai đang chuyển thành sảy thai khó tránh hoặc đang sảy. Các triệu chứng khác như buồn nôn hay căng ngực là sinh lý thai kỳ bình thường.\n\nNguồn: Phác đồ điều trị Sản phụ khoa, Bệnh viện Từ Dũ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân 32 tuổi, PARA 2012, thai 9 tuần 3 ngày, ra máu âm đạo ồ ạt, huyết động không ổn định",
+      "body": "Bệnh nhân 32 tuổi, PARA 2012, thai 9 tuần 3 ngày, nhập viện vì ra máu âm đạo ồ ạt và đau quặn bụng từng cơn. Tiền sử mổ lấy thai 2 lần.<br><br><b>Khám lâm sàng:</b> Mạch 110 lần/phút, HA 90/60 mmHg, da niêm nhợt nhạt. Khám mỏ vịt: cổ tử cung hé mở 2 cm, có khối mô kẹt ở lỗ ngoài, máu đỏ tươi chảy nhiều liên tục. Khám bụng: mềm, không có phản ứng dội, không sốt.",
+      "questions": [
+        {
+          "q": "Vấn đề ưu tiên xử trí trong cấp cứu?",
+          "options": [
+            "Hồi sức chống sốc giảm thể tích",
+            "Cắt tử cung cầm máu tức thì",
+            "Tiêm kháng sinh tĩnh mạch phổ rộng",
+            "Chụp cắt lớp vi tính vùng chậu"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân đang có tình trạng huyết động không ổn định (mạch nhanh, huyết áp tụt, da niêm nhợt) do mất máu cấp. Hồi sức chống sốc với dịch truyền tĩnh mạch và chuẩn bị máu là bước quan trọng số một trước mọi can thiệp khác."
+        },
+        {
+          "q": "Cơ chế bệnh sinh gây băng huyết ồ ạt?",
+          "options": [
+            "Khối mô thai kẹt giữ cổ tử cung",
+            "Rách cổ tử cung do sinh đẻ",
+            "Nhau tiền đạo bám thấp chảy máu",
+            "Thai làm tổ ở sẹo mổ cũ"
+          ],
+          "answer": 0,
+          "explain": "Khi mô thai bị kẹt ở ống cổ tử cung, cơ tử cung không thể co thắt hoàn toàn để xiết chặt các mạch máu hở tại vị trí nhau bám, dẫn đến tình trạng chảy máu ồ ạt kéo dài."
+        },
+        {
+          "q": "Lựa chọn tập hợp đúng về các bước xử trí tiếp theo: (1) Gắp khối mô tại cổ tử cung, (2) Lập đường truyền tĩnh mạch lớn, (3) Dùng thuốc tăng gò tử cung, (4) Theo dõi β-hCG mỗi 48 giờ.",
+          "options": [
+            "1, 2, 3",
+            "1, 3, 4",
+            "2, 3, 4",
+            "1, 2, 4"
+          ],
+          "answer": 0,
+          "explain": "Xử trí cấp cứu bao gồm lập đường truyền tĩnh mạch (2), gắp khối mô để tử cung co lại (1) và dùng thuốc tăng gò như oxytocin (3). Theo dõi β-hCG mỗi 48 giờ là không cần thiết trong bối cảnh cấp cứu sảy thai băng huyết."
+        },
+        {
+          "q": "Phương pháp lấy thai phù hợp nhất để cầm máu?",
+          "options": [
+            "Gắp mô và hút buồng tử cung",
+            "Dùng thuốc misoprostol ngậm dưới lưỡi",
+            "Phẫu thuật mở bụng bóc tách mô thai",
+            "Tiêm bắp thuốc methotrexate liều tiêu chuẩn"
+          ],
+          "answer": 0,
+          "explain": "Việc gắp mô kẹt ở cổ tử cung bằng forceps kết hợp hút buồng tử cung (MVA hoặc EVA) giúp làm sạch nhanh chóng, cho phép tử cung co hồi và cầm máu ngay lập tức. Điều trị nội khoa tác dụng chậm không phù hợp khi huyết động bất ổn."
+        },
+        {
+          "q": "Biến chứng lâu dài có nguy cơ cao nhất từ thủ thuật này?",
+          "options": [
+            "Hội chứng dính buồng tử cung",
+            "Vô kinh nguyên phát vô căn",
+            "Thai ngoài tử cung tái phát",
+            "Lạc nội mạc cơ tử cung"
+          ],
+          "answer": 0,
+          "explain": "Can thiệp nạo hút buồng tử cung có nguy cơ làm tổn thương lớp màng rụng đáy (basalis), dẫn đến dính buồng tử cung (Hội chứng Asherman) làm suy giảm khả năng sinh sản về sau. Tránh nạo bằng thìa sắc quá mức là yếu tố cốt lõi.\n\nNguồn: Williams Obstetrics, 25th Edition."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ 30 tuổi, PARA 1001, thai 10 tuần, phát hiện ngừng tim thai khi khám định kỳ",
+      "body": "Sản phụ 30 tuổi, PARA 1001, thai 10 tuần. Khám thai định kỳ, bệnh nhân không có triệu chứng cơ năng.<br><br><b>Khám lâm sàng:</b> Sinh hiệu bình thường, cổ tử cung đóng kín, không đau bụng, không ra máu âm đạo.<br><br><b>Siêu âm ngả âm đạo:</b> Phôi thai có chiều dài đầu mông (CRL) 15 mm nhưng không có hoạt động tim thai. Túi ối bờ đều, không có vùng xuất huyết dưới màng đệm.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định cho trường hợp này?",
+          "options": [
+            "Sảy thai lưu",
+            "Thai trứng bán phần",
+            "Doạ sảy thai sớm",
+            "Sảy thai không trọn"
+          ],
+          "answer": 0,
+          "explain": "Hình ảnh siêu âm phôi thai có CRL ≥ 7 mm (cụ thể là 15 mm) mà không có tim thai là tiêu chuẩn chẩn đoán chắc chắn thai ngừng phát triển (sảy thai lưu). Cổ tử cung đóng và không ra máu giúp loại trừ sảy thai đang tiến triển."
+        },
+        {
+          "q": "Cơ chế bệnh sinh phổ biến nhất của bệnh lý này?",
+          "options": [
+            "Bất thường nhiễm sắc thể phôi",
+            "Thiếu hụt progesterone hoàng thể thai kỳ",
+            "Viêm nhiễm mạn tính niêm mạc tử cung",
+            "Bất thường giải phẫu buồng tử cung"
+          ],
+          "answer": 0,
+          "explain": "Hơn 50% các trường hợp sảy thai sớm trong 3 tháng đầu có nguyên nhân từ bất thường nhiễm sắc thể của phôi thai (thường gặp nhất là Trisomy, Monosomy X, Đa bội thể). Đây là quá trình chọn lọc tự nhiên."
+        },
+        {
+          "q": "Cận lâm sàng quan trọng cần làm trước can thiệp?",
+          "options": [
+            "Định nhóm máu và yếu tố Rh",
+            "Định lượng nồng độ β-hCG trong huyết thanh",
+            "Chụp cộng hưởng từ vùng chậu",
+            "Định lượng nồng độ hormone progesterone"
+          ],
+          "answer": 0,
+          "explain": "Cần kiểm tra nhóm máu và yếu tố Rh trước bất kỳ can thiệp nội hoặc ngoại khoa nào để dự phòng nguy cơ alloimmunization bằng cách tiêm Anti-D immunoglobulin nếu bệnh nhân có Rh âm tính."
+        },
+        {
+          "q": "Phương pháp điều trị nội khoa ưu tiên theo phác đồ?",
+          "options": [
+            "Misoprostol ngậm dưới lưỡi",
+            "Mifepristone uống đơn thuần",
+            "Oxytocin truyền tĩnh mạch",
+            "Methotrexate tiêm bắp sâu"
+          ],
+          "answer": 0,
+          "explain": "Misoprostol (thường dùng liều 800 µg đặt âm đạo hoặc ngậm dưới lưỡi) là phương pháp điều trị nội khoa tiêu chuẩn, hiệu quả cao để tống xuất thai lưu trong 3 tháng đầu. Oxytocin không hiệu quả ở tuổi thai nhỏ do thiếu thụ thể."
+        },
+        {
+          "q": "Tư vấn tiên lượng cho thai kỳ tiếp theo?",
+          "options": [
+            "Nguy cơ sảy thai không tăng đáng kể",
+            "Cần khâu vòng cổ tử cung từ sớm",
+            "Bắt buộc thực hiện thụ tinh ống nghiệm",
+            "Cần điều trị thuốc kháng đông dự phòng"
+          ],
+          "answer": 0,
+          "explain": "Một lần sảy thai sớm đơn lẻ thường do bất thường di truyền ngẫu nhiên, không làm tăng đáng kể nguy cơ sảy thai ở lần mang thai tiếp theo. Bệnh nhân có thể chuẩn bị mang thai lại sau 1-2 chu kỳ kinh nguyệt bình thường.\n\nNguồn: ACOG Practice Bulletin No. 200 (Early Pregnancy Loss)."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ 26 tuổi, PARA 0010, thai 14 tuần, đau quặn bụng dưới từng cơn, cổ tử cung mở 3 cm",
+      "body": "Thai phụ 26 tuổi, PARA 0010, thai 14 tuần, nhập viện vì đau quặn bụng dưới từng cơn và ra dịch hồng.<br><br><b>Khám lâm sàng:</b> Mạch 80 lần/phút, HA 110/70 mmHg, không sốt, bụng mềm không điểm đau khu trú. Khám mỏ vịt: cổ tử cung mở 3 cm, màng ối căng phồng và thập thò ở lỗ ngoài cổ tử cung. Không thấy chảy máu sẫm màu hay dịch hôi.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất?",
+          "options": [
+            "Sảy thai khó tránh",
+            "Hở eo cổ tử cung",
+            "Doạ sảy thai sớm",
+            "Nhau bong non thể ẩn"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có đau quặn bụng từng cơn (có cơn gò tử cung) kết hợp với cổ tử cung đã mở 3 cm và màng ối sa ra ngoài là dấu hiệu chắc chắn của sảy thai khó tránh. Khác với hở eo cổ tử cung thường diễn tiến âm thầm không đau bụng."
+        },
+        {
+          "q": "Yếu tố sinh lý bệnh thúc đẩy quá trình này?",
+          "options": [
+            "Cơn gò tử cung tống xuất",
+            "Nhiễm trùng màng ối nguyên phát",
+            "Bong tróc gai nhau toàn phần",
+            "Suy giảm chức năng hoàng thể"
+          ],
+          "answer": 0,
+          "explain": "Quá trình sảy thai khó tránh ở 3 tháng giữa thường do cơ tử cung bị kích thích, tạo ra các cơn co thắt liên tục tống xuất túi thai ra ngoài ống cổ tử cung."
+        },
+        {
+          "q": "Bước thăm dò cần thiết tiếp theo?",
+          "options": [
+            "Siêu âm đánh giá tình trạng thai",
+            "Phết dịch âm đạo tìm vi khuẩn",
+            "Chụp X-quang vùng bụng đứng",
+            "Định lượng nồng độ hormone β-hCG máu"
+          ],
+          "answer": 0,
+          "explain": "Siêu âm giúp đánh giá thai còn sống hay đã lưu, vị trí của túi thai và nhau thai. Điều này giúp lên kế hoạch theo dõi sự tống xuất tự nhiên hoặc can thiệp nếu cần thiết."
+        },
+        {
+          "q": "Xử trí phù hợp nhất hiện tại?",
+          "options": [
+            "Chờ đợi sảy thai tự nhiên",
+            "Khâu vòng cổ tử cung cấp cứu",
+            "Truyền tĩnh mạch thuốc magnesium sulfate",
+            "Dùng thuốc progesterone đặt âm đạo"
+          ],
+          "answer": 0,
+          "explain": "Khi sảy thai đã không thể tránh khỏi (cổ tử cung mở rộng, ối phồng), thái độ xử trí đúng đắn nhất là theo dõi quá trình sảy thai tự nhiên và hỗ trợ giảm đau. Khâu vòng cổ tử cung chống chỉ định khi đang có cơn gò mạnh."
+        },
+        {
+          "q": "Đặc điểm KHÔNG ĐÚNG về diễn biến và tiên lượng của bệnh nhân này?",
+          "options": [
+            "Khả năng giữ thai rất cao",
+            "Nguy cơ băng huyết sau sảy",
+            "Sót thai cần hút buồng tử cung",
+            "Viêm nhiễm niêm mạc tử cung"
+          ],
+          "answer": 0,
+          "explain": "Khi cổ tử cung đã mở 3 cm kèm màng ối sa, khả năng giữ thai là gần như bằng không. Các nguy cơ như băng huyết, sót nhau/sót thai cần nạo hút và nhiễm trùng là những biến chứng thực tế cần dự phòng.\n\nNguồn: Williams Obstetrics, 25th Edition."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân 33 tuổi, PARA 0030, tiền sử sảy thai tự nhiên 3 lần liên tiếp, đến tư vấn tiền sản",
+      "body": "Bệnh nhân 33 tuổi, PARA 0030, tiền sử sảy thai tự nhiên 3 lần liên tiếp ở khoảng tuần thứ 7-8 của thai kỳ. Hiện tại bệnh nhân không có thai và đến khám tư vấn tiền sản. Kinh nguyệt đều đặn, không đau bụng kinh, không có tiền sử phẫu thuật vùng chậu.<br><br><b>Khám lâm sàng:</b> Bình thường, BMI 22. Siêu âm phụ khoa không thấy bất thường hình thái tử cung, buồng trứng hai bên bình thường.",
+      "questions": [
+        {
+          "q": "Định hướng chẩn đoán chính?",
+          "options": [
+            "Sảy thai liên tiếp",
+            "Vô sinh nguyên phát",
+            "Suy buồng trứng sớm",
+            "Lạc nội mạc tử cung"
+          ],
+          "answer": 0,
+          "explain": "Sảy thai liên tiếp (RPL) được định nghĩa là có từ 2 hoặc 3 lần sảy thai tự nhiên liên tiếp trở lên trước 20 tuần thai. Bệnh nhân này đã sảy thai 3 lần nên chẩn đoán RPL là hoàn toàn chính xác."
+        },
+        {
+          "q": "Tiêu chuẩn cận lâm sàng xác định hội chứng kháng phospholipid (APS)?",
+          "options": [
+            "Kháng thể kháng cardiolipin dương tính",
+            "Nồng độ hormone progesterone máu giảm",
+            "Hiện diện kháng thể kháng tinh trùng",
+            "Thời gian prothrombin kéo dài bất thường"
+          ],
+          "answer": 0,
+          "explain": "Hội chứng kháng phospholipid (APS) là một nguyên nhân quan trọng gây sảy thai liên tiếp. Tiêu chuẩn chẩn đoán bao gồm sự hiện diện của Lupus Anticoagulant, kháng thể kháng cardiolipin (IgG/IgM), hoặc Anti-β2 glycoprotein-I ở mức trung bình/cao trong ít nhất 2 lần xét nghiệm cách nhau 12 tuần."
+        },
+        {
+          "q": "Xét nghiệm KHÔNG CÓ VAI TRÒ trong bộ khảo sát nguyên nhân cho bệnh nhân này?",
+          "options": [
+            "Tầm soát hội chứng kháng phospholipid",
+            "Nhiễm sắc thể đồ của hai vợ chồng",
+            "Khảo sát hình thái buồng tử cung",
+            "Định lượng nồng độ β-hCG huyết thanh"
+          ],
+          "answer": 3,
+          "explain": "Định lượng β-hCG chỉ dùng để theo dõi sự phát triển hoặc suy giảm của một thai kỳ hiện tại. Nó không có vai trò trong việc tìm nguyên nhân gốc rễ của sảy thai liên tiếp khi bệnh nhân không mang thai."
+        },
+        {
+          "q": "Xử trí ưu tiên nếu phát hiện có vách ngăn tử cung hoàn toàn?",
+          "options": [
+            "Phẫu thuật nội soi cắt vách ngăn",
+            "Nong rộng cổ tử cung định kỳ",
+            "Cắt bỏ tử cung bán phần dưới",
+            "Sử dụng liệu pháp hormone estrogen liều cao"
+          ],
+          "answer": 0,
+          "explain": "Vách ngăn tử cung là dị tật bẩm sinh dễ gây sảy thai nhất. Phẫu thuật nội soi buồng tử cung cắt vách ngăn (hysteroscopic septal resection) là tiêu chuẩn vàng giúp cải thiện tỷ lệ thai sống đáng kể."
+        },
+        {
+          "q": "Tư vấn tiên lượng nếu tất cả các xét nghiệm đều bình thường?",
+          "options": [
+            "Tỷ lệ thai kỳ thành công tiếp theo cao",
+            "Cần phải nhờ người mang thai hộ ngay",
+            "Bắt buộc dùng corticoid suốt thai kỳ sau",
+            "Khó có khả năng sinh con khoẻ mạnh"
+          ],
+          "answer": 0,
+          "explain": "Gần 50% các trường hợp sảy thai liên tiếp là vô căn (không tìm thấy nguyên nhân sau khi khảo sát toàn diện). Tuy nhiên, tỷ lệ mang thai thành công ở lần tiếp theo đối với nhóm này vẫn rất cao (trên 50-60%) mà không cần can thiệp y khoa đặc hiệu.\n\nNguồn: ASRM Practice Committee. Evaluation and treatment of recurrent pregnancy loss."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ 22 tuổi, PARA 1001, thai 9 tuần, sốt cao sau tự uống thuốc phá thai tại nhà",
+      "body": "Sản phụ 22 tuổi, PARA 1001, thai 9 tuần. Cách nhập viện 3 ngày, bệnh nhân tự mua thuốc phá thai uống (mifepristone và misoprostol) tại nhà, có ra máu cục. Nay bệnh nhân sốt 39°C, lạnh run, đau hạ vị nhiều, máu âm đạo sẫm màu và có mùi hôi.<br><br><b>Khám lâm sàng:</b> Mạch 115 lần/phút, HA 100/60 mmHg. Khám bụng: ấn đau vùng hạ vị, không có khối phồng phần phụ, không rối loạn tiêu hoá. Khám trong: cổ tử cung hé mở, ấn tử cung và di động cổ tử cung rất đau.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguy hiểm nhất cần loại trừ đầu tiên?",
+          "options": [
+            "Sảy thai nhiễm trùng",
+            "Viêm ruột thừa cấp",
+            "Viêm phần phụ cấp",
+            "Thai ngoài tử cung vỡ"
+          ],
+          "answer": 0,
+          "explain": "Bệnh sử phá thai nội khoa không an toàn kèm theo sốt cao, lạnh run, dịch âm đạo hôi và tử cung ấn đau nhiều là dấu hiệu kinh điển của sảy thai nhiễm trùng. Đây là cấp cứu sản khoa cần can thiệp ngay."
+        },
+        {
+          "q": "Tác nhân vi sinh vật thường gặp nhất trong bệnh cảnh này?",
+          "options": [
+            "Hệ vi khuẩn đa bào âm đạo",
+            "Trực khuẩn lao họ Mycobacterium tuberculosis",
+            "Virus Herpes simplex tuýp hai",
+            "Vi nấm Candida albicans"
+          ],
+          "answer": 0,
+          "explain": "Sảy thai nhiễm trùng thường do nhiễm trùng ngược dòng từ âm đạo và cổ tử cung. Tác nhân gây bệnh phổ biến nhất là hệ vi khuẩn đa bào (polymicrobial) cư trú tự nhiên tại âm đạo (bao gồm cả hiếu khí và kỵ khí như E. coli, Bacteroides, Streptococci)."
+        },
+        {
+          "q": "Cận lâm sàng đầu tay giúp chẩn đoán sót thai?",
+          "options": [
+            "Siêu âm đầu dò âm đạo",
+            "Chụp cắt lớp vi tính vùng chậu",
+            "Định lượng nồng độ β-hCG",
+            "Chụp X-quang bụng không sửa soạn"
+          ],
+          "answer": 0,
+          "explain": "Siêu âm ngả âm đạo giúp xác định nhanh chóng sự hiện diện của mô thai hoặc nhau thai còn sót lại trong buồng tử cung, từ đó định hướng can thiệp làm sạch buồng tử cung sau khi đã dùng kháng sinh."
+        },
+        {
+          "q": "Nguyên tắc xử trí ban đầu ưu tiên nhất?",
+          "options": [
+            "Kháng sinh phổ rộng đường tĩnh mạch",
+            "Lập tức nạo hút buồng tử cung",
+            "Cho thuốc co bóp tử cung uống",
+            "Phẫu thuật cắt bỏ tử cung toàn phần"
+          ],
+          "answer": 0,
+          "explain": "Trước khi can thiệp ngoại khoa để làm sạch buồng tử cung, việc thiết lập đường truyền và tiêm kháng sinh phổ rộng tĩnh mạch là bắt buộc nhằm ngăn chặn sự phát tán của vi khuẩn vào máu (nhiễm trùng huyết) khi nong nạo."
+        },
+        {
+          "q": "Biến chứng đe doạ tính mạng cao nhất nếu chậm trễ?",
+          "options": [
+            "Sốc nhiễm trùng nhiễm độc",
+            "Rối loạn kinh nguyệt kéo dài",
+            "Dính buồng tử cung toàn phần",
+            "Tắc nghẽn vòi trứng hai bên"
+          ],
+          "answer": 0,
+          "explain": "Vi khuẩn từ buồng tử cung có thể xâm nhập nhanh vào tuần hoàn màng rụng và cơ tử cung, dẫn đến nhiễm trùng huyết và sốc nhiễm trùng. Tình trạng này có tỷ lệ tử vong cao nếu không được hồi sức và dùng kháng sinh kịp thời.\n\nNguồn: Williams Obstetrics, 25th Edition."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân 29 tuổi, PARA 0010, trễ kinh 6 tuần, β-hCG tăng chậm, không thấy túi thai trong tử cung",
+      "body": "Bệnh nhân 29 tuổi, PARA 0010, trễ kinh 6 tuần, ra máu âm đạo ít màu nâu đen, đau trằn hố chậu phải. Nồng độ β-hCG cách đây 48 giờ là 1200 mIU/mL, hiện tại là 1350 mIU/mL.<br><br><b>Khám lâm sàng:</b> Mạch 80 lần/phút, HA 110/70 mmHg, không sốt, không có phản ứng thành bụng.<br><br><b>Siêu âm ngả âm đạo:</b> Nội mạc tử cung 10 mm, không thấy túi thai trong tử cung, phần phụ phải có nang trống âm nhỏ 15 mm không điển hình, có ít dịch cùng đồ.",
+      "questions": [
+        {
+          "q": "Hội chứng lâm sàng nổi bật nhất?",
+          "options": [
+            "Thai vị trí không xác định",
+            "Sảy thai tự nhiên hoàn toàn",
+            "Khối thai ngoài tử cung vỡ",
+            "Quá trình sảy thai đang diễn tiến"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có β-hCG dương tính nhưng siêu âm không xác định được vị trí túi thai ở trong hay ngoài tử cung. Tình trạng này được gọi là Thai vị trí không xác định (Pregnancy of Unknown Location - PUL)."
+        },
+        {
+          "q": "Diễn giải sự thay đổi β-hCG trong 48 giờ qua?",
+          "options": [
+            "Tăng dưới mức bình thường của thai sống",
+            "Phù hợp với sảy thai trọn hoàn toàn",
+            "Đặc trưng của thai trứng toàn phần",
+            "Đạt tiêu chuẩn chẩn đoán thai trong tử cung"
+          ],
+          "answer": 0,
+          "explain": "Một thai kỳ khoẻ mạnh trong tử cung thường có mức tăng β-hCG tối thiểu 53-66% sau 48 giờ. Mức tăng từ 1200 lên 1350 mIU/mL (tăng khoảng 12%) là sự tăng bất thường, gợi ý thai trong tử cung ngừng phát triển (sảy thai) hoặc thai ngoài tử cung."
+        },
+        {
+          "q": "Lựa chọn tập hợp đúng về các chẩn đoán phân biệt khả dĩ: (1) Thai trong tử cung phát triển bất thường, (2) Thai ngoài tử cung chưa vỡ, (3) Thai trứng toàn phần, (4) Khối u buồng trứng xuất huyết.",
+          "options": [
+            "1, 2",
+            "2, 3",
+            "3, 4",
+            "1, 4"
+          ],
+          "answer": 0,
+          "explain": "Với β-hCG tăng chậm và không thấy túi thai, hai khả năng cao nhất là thai ngoài tử cung chưa vỡ (2) hoặc thai trong tử cung phát triển bất thường/đang sảy (1). Thai trứng thường có β-hCG tăng rất cao."
+        },
+        {
+          "q": "Xử trí tiếp theo an toàn nhất?",
+          "options": [
+            "Hút buồng tử cung kiểm tra gai nhau",
+            "Phẫu thuật nội soi cắt phần phụ phải",
+            "Sử dụng phác đồ misoprostol đường uống",
+            "Tiêm bắp thuốc methotrexate theo liều tiêu chuẩn"
+          ],
+          "answer": 0,
+          "explain": "Theo ACOG, khi β-hCG tăng dạng bình nguyên ở bệnh nhân PUL có huyết động ổn định, nạo hút buồng tử cung (MVA/D&C) giúp chẩn đoán phân biệt. Nếu giải phẫu bệnh có gai nhau là sảy thai; nếu không có gai nhau, chẩn đoán thai ngoài được xác lập và cần dùng methotrexate."
+        },
+        {
+          "q": "Lý do KHÔNG ĐÚNG để giải thích việc chưa dùng methotrexate?",
+          "options": [
+            "Nồng độ β-hCG huyết thanh quá cao",
+            "Chưa loại trừ hoàn toàn thai trong tử cung",
+            "Khối phần phụ chưa rõ ràng là thai",
+            "Nguy cơ đình chỉ một thai kỳ sống"
+          ],
+          "answer": 0,
+          "explain": "β-hCG ở mức 1350 mIU/mL không phải là quá cao (chống chỉ định tương đối của methotrexate thường ở mức > 5000 mIU/mL). Lý do chưa dùng thuốc là vì chưa có chẩn đoán xác định khối thai ngoài tử cung, dùng mù quáng có thể làm tổn thương một thai trong tử cung đang phát triển chậm.\n\nNguồn: ACOG Practice Bulletin No. 193 (Tubal Ectopic Pregnancy)."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ 27 tuổi, PARA 1001, thai 8 tuần, ra máu đỏ tươi đột ngột, phát hiện tụ máu dưới màng đệm",
+      "body": "Thai phụ 27 tuổi, PARA 1001, thai 8 tuần, tiền sử khoẻ mạnh. Bệnh nhân đột ngột ra máu đỏ tươi lượng vừa, không đau quặn bụng, không sốt.<br><br><b>Khám lâm sàng:</b> Sinh hiệu ổn định, cổ tử cung đóng.<br><br><b>Siêu âm ngả âm đạo:</b> Một thai sống với CRL 16 mm, nhịp tim thai 160 lần/phút. Cạnh túi thai có một vùng tụ máu dưới màng đệm kích thước 15×20 mm, chiếm khoảng 10% chu vi túi thai.",
+      "questions": [
+        {
+          "q": "Chẩn đoán tình trạng hiện tại?",
+          "options": [
+            "Tụ máu dưới màng đệm",
+            "Sảy thai không trọn",
+            "Sảy thai lưu",
+            "Thai trứng bán phần"
+          ],
+          "answer": 0,
+          "explain": "Xuất huyết âm đạo khi thai đang sống và siêu âm thấy dịch máu nằm giữa màng đệm (chorion) và cơ tử cung là hình ảnh điển hình của tụ máu dưới màng đệm (subchorionic hematoma), một nguyên nhân phổ biến gây doạ sảy thai."
+        },
+        {
+          "q": "Sinh lý bệnh của tổn thương này?",
+          "options": [
+            "Bong tróc một phần màng đệm",
+            "Rối loạn chức năng đông máu thai nhi",
+            "Tổn thương cổ tử cung do quan hệ",
+            "Gai nhau đâm xuyên vào cơ tử cung"
+          ],
+          "answer": 0,
+          "explain": "Tụ máu dưới màng đệm hình thành do sự bong tróc một phần của màng đệm khỏi lớp màng rụng (decidua) bên dưới, dẫn đến đứt gãy các mạch máu nhỏ và tích tụ máu."
+        },
+        {
+          "q": "Yếu tố dự báo tiên lượng tốt nhất?",
+          "options": [
+            "Hoạt động tim thai bình thường",
+            "Có xuất huyết đỏ tươi lượng nhiều",
+            "Tử cung ngả trước kích thước to",
+            "Khối máu tụ chiếm phần lớn túi thai"
+          ],
+          "answer": 0,
+          "explain": "Yếu tố tiên lượng quan trọng nhất đối với thai kỳ có tụ máu dưới màng đệm là hoạt động tim thai bình thường và kích thước khối tụ máu nhỏ (<20% chu vi túi thai). Đa số các trường hợp này sẽ tự hấp thu và tiếp tục thai kỳ khoẻ mạnh."
+        },
+        {
+          "q": "Lời khuyên sinh hoạt phù hợp nhất?",
+          "options": [
+            "Nghỉ ngơi và tránh giao hợp",
+            "Tập thể dục nhịp điệu mỗi ngày",
+            "Duy trì quan hệ tình dục bình thường",
+            "Massage bụng vùng tử cung thường xuyên"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có khối máu tụ đang hoạt động nên được khuyên nghỉ ngơi tương đối, tránh lao động nặng và kiêng quan hệ tình dục để giảm thiểu kích thích co thắt cơ tử cung, giúp khối máu tụ ổn định."
+        },
+        {
+          "q": "Biến chứng có thể xảy ra nếu diễn tiến xấu?",
+          "options": [
+            "Bong nhau thai và sảy thai",
+            "Vỡ tử cung tự phát đầu thai kỳ",
+            "Dính buồng tử cung không hồi phục",
+            "Khối máu tụ hoá ác tính"
+          ],
+          "answer": 0,
+          "explain": "Nếu khối máu tụ tiếp tục lan rộng, nó có thể bóc tách toàn bộ diện bám của nhau thai/màng đệm, cắt đứt nguồn cung cấp máu cho phôi thai và dẫn đến sảy thai thực sự.\n\nNguồn: Williams Obstetrics, 25th Edition."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ 31 tuổi, PARA 0020, tiền sử sảy thai to 2 lần, hiện thai 16 tuần cổ tử cung ngắn",
+      "body": "Thai phụ 31 tuổi, PARA 0020, cả hai lần mang thai trước đều sảy thai tự nhiên ở tuần 18 và 20 với đặc điểm vỡ ối đột ngột, thai sổ nhanh, không đau bụng trước đó. Hiện tại thai 16 tuần, khám không đau bụng, không ra máu âm đạo.<br><br><b>Siêu âm ngả âm đạo:</b> Chiều dài kênh cổ tử cung là 15 mm, lỗ trong có hình phễu (funneling).",
+      "questions": [
+        {
+          "q": "Nguyên nhân sảy thai phù hợp nhất?",
+          "options": [
+            "Hở eo cổ tử cung",
+            "Hội chứng kháng thể kháng phospholipid",
+            "U xơ tử cung dưới thanh mạc",
+            "Suy hoàng thể mạn tính"
+          ],
+          "answer": 0,
+          "explain": "Bệnh sử sảy thai to (tam cá nguyệt thứ hai) diễn tiến nhanh, vỡ ối đột ngột mà không có dấu hiệu chuyển dạ (không đau bụng) là đặc trưng kinh điển của suy yếu cổ tử cung (hở eo cổ tử cung)."
+        },
+        {
+          "q": "Tiêu chuẩn chẩn đoán bất thường này trên siêu âm?",
+          "options": [
+            "Chiều dài cổ tử cung ngắn",
+            "Cổ tử cung có nhiều nang Naboth",
+            "Động mạch tử cung tăng trở kháng",
+            "Có dịch túi cùng đồ lượng nhiều"
+          ],
+          "answer": 0,
+          "explain": "Trên siêu âm ngả âm đạo, chiều dài cổ tử cung < 25 mm trước 24 tuần ở thai phụ có tiền sử sảy thai to hoặc sinh non là một chỉ điểm quan trọng của hở eo cổ tử cung, thường kèm theo hiện tượng mở lỗ trong hình phễu (funneling)."
+        },
+        {
+          "q": "Bước can thiệp ưu tiên tiếp theo?",
+          "options": [
+            "Phẫu thuật khâu vòng cổ tử cung",
+            "Nong nạo làm sạch buồng tử cung",
+            "Truyền tĩnh mạch liên tục oxytocin",
+            "Bơm rửa buồng tử cung bằng kháng sinh"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có tiền sử sảy thai to điển hình và hiện tại có cổ tử cung ngắn 15 mm ở 16 tuần nên được chỉ định khâu vòng cổ tử cung (cerclage) để hỗ trợ cơ học, ngăn ngừa cổ tử cung mở thêm."
+        },
+        {
+          "q": "Chống chỉ định của thủ thuật can thiệp này?",
+          "options": [
+            "Đang có cơn gò tử cung",
+            "Có tiền sử sảy thai nhiều lần",
+            "Chiều dài cổ tử cung dưới mức bình thường",
+            "Bệnh nhân hoàn toàn không có triệu chứng"
+          ],
+          "answer": 0,
+          "explain": "Khâu vòng cổ tử cung chống chỉ định khi bệnh nhân đang có chuyển dạ thực sự (có cơn gò tử cung), ối đã vỡ, nhiễm trùng ối hoặc thai chết lưu, vì việc khâu lúc này sẽ gây rách nát cổ tử cung và nhiễm trùng huyết."
+        },
+        {
+          "q": "Tiên lượng nếu không được can thiệp kịp thời?",
+          "options": [
+            "Sinh non cực non hoặc sảy thai",
+            "Thai chậm tăng trưởng trong tử cung",
+            "Tiền sản giật khởi phát rất sớm",
+            "Đái tháo đường thai kỳ mức độ nặng"
+          ],
+          "answer": 0,
+          "explain": "Hở eo cổ tử cung nếu không được phát hiện và khâu vòng kịp thời sẽ dẫn đến việc màng ối sa ra ngoài, vỡ ối và tống xuất thai nhi ở tuổi thai cực non (thường từ 16 đến 24 tuần), không thể nuôi dưỡng được.\n\nNguồn: ACOG Practice Bulletin No. 142 (Cerclage for the Management of Cervical Insufficiency)."
+        }
+      ]
+    }
+  ]
+}
