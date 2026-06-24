@@ -1,0 +1,620 @@
+{
+  "name": "Nhiễm khuẩn tiết niệu",
+  "description": "Bộ 10 tình huống lâm sàng chi tiết về nhiễm khuẩn tiết niệu cho ôn thi nội trú",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Thận tiết niệu",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 24 tuổi, tiểu buốt nhẹ",
+      "body": "Bệnh nhân nữ <b>24 tuổi</b>, nhân viên văn phòng, đến khám vì <b>tiểu buốt và tiểu lắt nhắt 2 ngày</b>. Cảm giác nóng rát mỗi khi đi tiểu, nước tiểu đục và có mùi hôi hơn bình thường, phải đi tiểu liên tục nhưng mỗi lần chỉ được ít. Cô cảm thấy <b>đau nhẹ vùng trên xương mu</b>, không sốt, không đau hông lưng, không buồn nôn hay nôn.<br><br><b>Tiền sử:</b> Không có bệnh lý đáng chú ý, không mang thai, không mắc bệnh lây truyền qua đường tình dục.<br><br><b>Khám toàn thân:</b> Tỉnh táo, tiếp xúc tốt, sinh hiệu ổn định (mạch 80, HA 110/70, T 37.2°C, RR 16, SpO₂ 99%, BMI 21).<br><br><b>Khám bụng:</b> Mềm, ấn điểm trên xương mu tức nhẹ, không có điểm đau niệu quản và rung thận âm tính.<br><br><b>Cận lâm sàng:</b><br>- Tổng phân tích nước tiểu: LEU 3+, <b>Nitrit dương tính</b>, hồng cầu 10-15/HPF<br>- Công thức máu: Bạch cầu 8.5 G/L (Neutrophil 65%), CRP 5 mg/L",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Viêm bể thận cấp không biến chứng",
+            "Viêm bàng quang cấp không biến chứng",
+            "Nhiễm trùng tiểu có biến chứng",
+            "Viêm niệu đạo do lậu cầu"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có triệu chứng của nhiễm trùng đường tiểu dưới (tiểu buốt, tiểu lắt nhắt, đau trên xương mu) mà không có triệu chứng toàn thân (sốt) hay triệu chứng của nhiễm trùng đường tiểu trên (đau hông lưng), phù hợp nhất với chẩn đoán viêm bàng quang cấp không biến chứng."
+        },
+        {
+          "q": "Cơ chế chính gây ra triệu chứng tiểu lắt nhắt và tiểu gấp ở bệnh nhân này là gì?",
+          "options": [
+            "Tăng áp lực trong lòng bàng quang do vi khuẩn sinh hơi",
+            "Phù nề và kích thích niêm mạc bàng quang do độc tố vi khuẩn",
+            "Co thắt cơ trơn niệu quản lan xuống bàng quang",
+            "Tắc nghẽn đường ra bàng quang do mủ và xác bạch cầu"
+          ],
+          "answer": 1,
+          "explain": "Vi khuẩn (thường là E. coli) bám dính vào niêm mạc bàng quang, giải phóng độc tố gây ra phản ứng viêm tại chỗ. Tình trạng phù nề và viêm nhiễm này làm kích thích các thụ thể cảm nhận sự căng giãn của bàng quang, gây ra cảm giác muốn đi tiểu liên tục và thường xuyên."
+        },
+        {
+          "q": "Kháng sinh uống đầu tay nào sau đây là lựa chọn hợp lý nhất theo khuyến cáo hiện hành?",
+          "options": [
+            "Amoxicillin",
+            "Ciprofloxacin",
+            "Nitrofurantoin",
+            "Doxycycline"
+          ],
+          "answer": 2,
+          "explain": "Nitrofurantoin là một trong những lựa chọn hàng đầu cho viêm bàng quang cấp không biến chứng. Ciprofloxacin không được khuyến cáo là lựa chọn đầu tay để tránh gia tăng đề kháng. Amoxicillin có tỷ lệ đề kháng cao. Doxycycline không phải là lựa chọn ưu tiên."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây là không cần thiết trong lần khám đầu tiên ở bệnh nhân này?",
+          "options": [
+            "Tổng phân tích nước tiểu",
+            "Cấy nước tiểu và làm kháng sinh đồ",
+            "Thử thai nhanh qua nước tiểu",
+            "Công thức máu"
+          ],
+          "answer": 1,
+          "explain": "Đối với viêm bàng quang cấp không biến chứng ở phụ nữ trẻ, đáp ứng điều trị theo kinh nghiệm thường rất tốt. Cấy nước tiểu thường không cần thiết trừ khi điều trị ban đầu thất bại, triệu chứng không điển hình, hoặc nghi ngờ viêm bể thận."
+        },
+        {
+          "q": "Yếu tố nào sau đây là quan trọng nhất để phân loại đây là nhiễm trùng tiểu không biến chứng?",
+          "options": [
+            "Bệnh nhân không sốt",
+            "Bệnh nhân là nữ giới, trẻ tuổi, không mang thai và không có bất thường cấu trúc đường niệu",
+            "Tác nhân gây bệnh là E. coli",
+            "Bệnh nhân đáp ứng tốt với kháng sinh uống"
+          ],
+          "answer": 1,
+          "explain": "Nhiễm trùng tiểu không biến chứng được định nghĩa là nhiễm trùng tiểu ở phụ nữ khỏe mạnh, không mang thai, tiền mãn kinh và không có bất thường về cấu trúc hay chức năng đường tiết niệu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi, sốt cao và mệt mỏi",
+      "body": "Bệnh nhân nam <b>72 tuổi</b>, làm nông, nhập viện vì <b>sốt cao và mệt mỏi</b>.<br><br><b>Bệnh sử 4 ngày:</b> Tiểu khó, dòng tiểu yếu, phải rặn nhiều, kèm tiểu buốt. Tối hôm qua sốt cao 39.5°C, rét run, đau tức vùng hạ vị và <b>đau âm ỉ vùng hông lưng bên phải</b>, mệt lả.<br><br><b>Tiền sử:</b> Tăng sản lành tính tuyến tiền liệt (BPH) 5 năm không điều trị, đái tháo đường type 2 được 10 năm kiểm soát kém (HbA1c 8.5%).<br><br><b>Khám:</b> Tỉnh, vẻ mặt nhiễm trùng, môi khô lưỡi bẩn. Sinh hiệu: mạch 110, HA 95/60, RR 24, T 39.2°C, SpO₂ 96%, BMI 23.<br><br><b>Khám bụng:</b> Mềm, ấn đau hạ vị, <b>rung thận phải dương tính</b>, điểm đau niệu quản phải dương tính. Khám trực tràng: tuyến tiền liệt to, mật độ chắc, không có ổ áp xe.<br><br><b>Cận lâm sàng:</b><br>- Công thức máu: Bạch cầu 18.5 G/L (Neutrophil 88%), Procalcitonin 5.2 ng/mL<br>- Sinh hóa: Creatinin 150 µmol/L (mức nền 90), Glucose 15.2 mmol/L<br>- Tổng phân tích nước tiểu: LEU 3+, <b>Nitrit dương tính</b>, protein 1+<br>- Siêu âm: Thận phải bình thường, đài bể thận giãn nhẹ, tuyến tiền liệt to 60g, bàng quang có cặn, tồn lưu 120 mL",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào mô tả đầy đủ nhất tình trạng của bệnh nhân?",
+          "options": [
+            "Viêm bể thận cấp phải trên nền nhiễm trùng tiểu có biến chứng",
+            "Nhiễm khuẩn huyết từ đường niệu trên nền nhiễm trùng tiểu có biến chứng",
+            "Viêm tuyến tiền liệt cấp trên nền tăng sản lành tính tuyến tiền liệt",
+            "Suy thận cấp trước thận do sốt cao mất nước"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có đầy đủ bằng chứng của một nhiễm trùng đường niệu (tiểu buốt, LEU 3+, Nitrit+), kèm theo dấu hiệu toàn thân nặng (sốt cao rét run, tụt huyết áp, tăng bạch cầu, Procalcitonin tăng cao), đủ tiêu chuẩn chẩn đoán nhiễm khuẩn huyết. Nguồn gốc từ đường niệu, và đây là ca nhiễm trùng tiểu có biến chứng."
+        },
+        {
+          "q": "Cơ chế chính dẫn đến tình trạng nhiễm trùng nặng ở bệnh nhân này là gì?",
+          "options": [
+            "Sự suy giảm miễn dịch do tuổi cao và đái tháo đường",
+            "Sự trào ngược bàng quang - niệu quản do ứ trệ nước tiểu",
+            "Độc lực cao của vi khuẩn gây bệnh trong môi trường đường huyết cao",
+            "Tắc nghẽn đường tiểu dưới do BPH gây ứ trệ nước tiểu"
+          ],
+          "answer": 1,
+          "explain": "Tăng sản lành tính tuyến tiền liệt gây hẹp niệu đạo, dẫn đến bế tắc không hoàn toàn đường tiểu dưới. Ứ đọng nước tiểu trong bàng quang (tồn lưu 120 mL) tạo môi trường thuận lợi cho vi khuẩn phát triển. Sự ứ trệ kéo dài gây trào ngược nước tiểu lên niệu quản và thận, dẫn đến viêm bể thận và nhiễm khuẩn huyết."
+        },
+        {
+          "q": "Theo thang điểm qSOFA, bệnh nhân này có bao nhiêu điểm?",
+          "options": [
+            "0 điểm",
+            "1 điểm",
+            "2 điểm",
+            "3 điểm"
+          ],
+          "answer": 2,
+          "explain": "Thang điểm qSOFA gồm 3 tiêu chí: tần số thở ≥ 22 lần/phút, thay đổi tri giác (GCS < 15), và huyết áp tâm thu ≤ 100 mmHg. Bệnh nhân này có tần số thở 24 lần/phút (1 điểm) và huyết áp tâm thu 95 mmHg (1 điểm). Tổng điểm qSOFA là 2."
+        },
+        {
+          "q": "Can thiệp nào sau đây là cấp thiết nhất cần thực hiện ngay sau khi lấy mẫu cấy?",
+          "options": [
+            "Đặt sonde tiểu để giải quyết bế tắc",
+            "Bù dịch tích cực và sử dụng kháng sinh phổ rộng đường tĩnh mạch",
+            "Dùng thuốc hạ sốt và thuốc vận mạch",
+            "Hội chẩn ngoại khoa để dẫn lưu bể thận"
+          ],
+          "answer": 1,
+          "explain": "Trong bối cảnh nhiễm khuẩn huyết, hai việc cần làm ngay lập tức là bù dịch đủ để ổn định huyết động và dùng kháng sinh phổ rộng đường tĩnh mạch càng sớm càng tốt (trong giờ đầu). Đặt sonde tiểu cũng cần thiết để giải quyết bế tắc, nhưng ổn định huyết động và kiểm soát nhiễm trùng là ưu tiên hàng đầu."
+        },
+        {
+          "q": "Yếu tố nào sau đây được xem là yếu tố nguy cơ chính gây ra nhiễm trùng tiểu có biến chứng ở bệnh nhân này?",
+          "options": [
+            "Tuổi cao",
+            "Giới tính nam",
+            "Bệnh đái tháo đường type 2",
+            "Tắc nghẽn đường tiểu do tăng sản lành tính tuyến tiền liệt"
+          ],
+          "answer": 3,
+          "explain": "Mặc dù tuổi cao, giới tính nam và đái tháo đường đều là các yếu tố nguy cơ, nhưng nguyên nhân trực tiếp và quan trọng nhất khiến ca nhiễm trùng này trở nên \"có biến chứng\" là sự hiện diện của bất thường về giải phẫu/chức năng gây tắc nghẽn đường tiểu, cụ thể ở đây là BPH."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 30 tuổi, mang thai, tiểu buốt và đau hông lưng",
+      "body": "Bệnh nhân nữ <b>30 tuổi, mang thai tuần thứ 28</b>, đến khám tại phòng khám sản vì <b>tiểu buốt và đau hông lưng trái 1 ngày</b>.<br><br><b>Bệnh sử:</b> Tiểu buốt nhẹ không tiểu lắt nhắt, nhưng <b>đau nhiều vùng hông lưng trái, đau âm ỉ lan ra trước</b>, kèm sốt 38.5°C và buồn nôn. Tiền sử sản khoa bình thường, chưa từng bị nhiễm trùng tiểu. Không có sỏi thận hay bệnh lý tiết niệu khác.<br><br><b>Khám toàn thân:</b> Tỉnh, mệt, da niêm mạc hồng. Sinh hiệu: mạch 95, HA 115/75, T 38.3°C, RR 18.<br><br><b>Khám bụng:</b> Tử cung có chiều cao tương đương tuổi thai, tim thai 145/phút. Bụng mềm, ấn đau và có phản ứng thành bụng khu trú ở vùng hông lưng trái. <b>Rung thận trái dương tính</b>, bên phải âm tính.<br><br><b>Cận lâm sàng:</b><br>- Tổng phân tích nước tiểu: LEU 2+, Nitrit âm tính, Protein 1+, vi khuẩn (+)<br>- Công thức máu: Bạch cầu 14.2 G/L (Neutrophil 80%)<br>- Siêu âm: Thận trái hơi to, nhu mô dày, đài bể thận trái giãn độ I, không có sỏi",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào là phù hợp nhất?",
+          "options": [
+            "Viêm bàng quang cấp trên thai phụ",
+            "Viêm bể thận cấp trái trên thai phụ",
+            "Cơn đau quặn thận do sỏi niệu quản trái",
+            "Dọa sinh non"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có bộ ba triệu chứng kinh điển của viêm bể thận cấp: sốt, đau hông lưng và các triệu chứng đường tiểu dưới (dù nhẹ). Khám thực thể có rung thận (+) và siêu âm có hình ảnh thận phù nề, giãn nhẹ đài bể thận. Mọi trường hợp nhiễm trùng tiểu ở thai phụ đều được xem là có biến chứng."
+        },
+        {
+          "q": "Yếu tố sinh lý nào trong thai kỳ làm tăng nguy cơ viêm bể thận cấp ở bệnh nhân này?",
+          "options": [
+            "Sự gia tăng nồng độ estrogen làm giãn cơ trơn niệu quản",
+            "Tử cung to chèn ép vào niệu quản, gây ứ trệ nước tiểu",
+            "Sự thay đổi pH và thành phần hóa học của nước tiểu",
+            "Cả A, B và C"
+          ],
+          "answer": 3,
+          "explain": "Trong thai kỳ, nồng độ progesterone cao gây giãn cơ trơn, làm giảm nhu động niệu quản. Tử cung lớn dần chèn ép niệu quản. Sự thay đổi pH nước tiểu và tình trạng glucose niệu sinh lý cũng tạo điều kiện cho vi khuẩn phát triển. Tất cả các yếu tố này phối hợp làm tăng nguy cơ nhiễm trùng tiểu."
+        },
+        {
+          "q": "Lựa chọn kháng sinh nào sau đây là an toàn và phù hợp để bắt đầu điều trị?",
+          "options": [
+            "Ceftriaxone đường tĩnh mạch",
+            "Ciprofloxacin đường uống",
+            "Doxycycline đường tĩnh mạch",
+            "Trimethoprim-sulfamethoxazole đường uống"
+          ],
+          "answer": 0,
+          "explain": "Cephalosporin thế hệ 3 (như Ceftriaxone) là lựa chọn an toàn và hiệu quả cho viêm bể thận ở thai phụ. Fluoroquinolones và Tetracyclines chống chỉ định trong thai kỳ. Trimethoprim-sulfamethoxazole cũng nên tránh."
+        },
+        {
+          "q": "Biến chứng sản khoa nguy hiểm nhất có thể xảy ra nếu tình trạng này không được điều trị kịp thời là gì?",
+          "options": [
+            "Tăng huyết áp thai kỳ",
+            "Sinh non",
+            "Thai chậm tăng trưởng trong tử cung",
+            "Vỡ ối sớm"
+          ],
+          "answer": 1,
+          "explain": "Viêm bể thận cấp là một trong những nguyên nhân nội khoa hàng đầu gây nhập viện trong thai kỳ. Phản ứng viêm hệ thống và độc tố vi khuẩn có thể kích thích các cơn co tử cung, dẫn đến dọa sinh non và sinh non."
+        },
+        {
+          "q": "Tại sao kết quả Nitrit niệu có thể âm tính mặc dù bệnh nhân có nhiễm trùng tiểu?",
+          "options": [
+            "Bệnh nhân uống quá nhiều nước làm loãng nước tiểu",
+            "Vi khuẩn gây bệnh không có men khử nitrate (ví dụ: Enterococcus, Staphylococcus saprophyticus)",
+            "Thời gian nước tiểu lưu lại trong bàng quang không đủ lâu để quá trình chuyển hóa xảy ra",
+            "Cả A, B và C đều đúng"
+          ],
+          "answer": 3,
+          "explain": "Xét nghiệm Nitrit dựa trên khả năng của vi khuẩn Gram âm chuyển hóa nitrate thành nitrit. Kết quả âm tính giả có thể xảy ra khi nồng độ vi khuẩn thấp, bệnh nhân đi tiểu quá thường xuyên, do vi khuẩn không có men phù hợp, hoặc do chế độ ăn ít rau xanh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi, sốt sau mổ chấn thương sọ não",
+      "body": "Bệnh nhân nam <b>65 tuổi</b>, nhập viện khoa Hồi sức tích cực từ khoa Ngoại Thần kinh sau <b>mổ chấn thương sọ não ngày thứ 7</b>.<br><br><b>Tình trạng hiện tại:</b> Đang thở máy, an thần, <b>có đặt sonde tiểu lưu</b>. <b>Hai ngày nay sốt cao liên tục 38.5 - 39°C</b>. Khám lâm sàng không thấy ổ nhiễm trùng rõ ràng ở vết mổ hay đường hô hấp (phổi thông khí đều, không ran).<br><br>Bệnh nhân không có dấu hiệu màng não, bụng mềm. Điều dưỡng ghi nhận <b>nước tiểu trong túi sonde có màu vàng đục, lợn cợn</b>.<br><br><b>Sinh hiệu hiện tại:</b> Mạch 115, HA 100/60 mmHg (dùng Noradrenalin liều thấp), T 38.7°C, SpO₂ 97% (FiO₂ 40%).<br><br><b>Cận lâm sàng:</b><br>- Công thức máu: Bạch cầu 16.8 G/L (Neutrophil 85%), CRP 180 mg/L, Procalcitonin 4.5 ng/mL<br>- Cấy máu và cấy đàm đã được thực hiện<br>- Tổng phân tích nước tiểu (lấy qua cổng của sonde): Bạch cầu (LEU) 3+, <b>Nitrit dương tính</b>, nhiều vi khuẩn và nấm men",
+      "questions": [
+        {
+          "q": "Tình trạng nhiễm trùng của bệnh nhân nhiều khả năng nhất có nguồn gốc từ đâu?",
+          "options": [
+            "Viêm phổi liên quan đến thở máy",
+            "Nhiễm trùng vết mổ",
+            "Nhiễm trùng đường tiết niệu liên quan đến sonde tiểu (CAUTI)",
+            "Viêm màng não mủ"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân đang thở máy và có sonde tiểu, hai nguồn nhiễm trùng bệnh viện phổ biến. Tuy nhiên, khám phổi không có dấu hiệu đặc hiệu, trong khi nước tiểu đục và TPTNT cho thấy bằng chứng rõ ràng của nhiễm trùng đường tiểu. Do đó, CAUTI là chẩn đoán có khả năng nhất."
+        },
+        {
+          "q": "Yếu tố nào là quan trọng nhất trong cơ chế bệnh sinh của CAUTI?",
+          "options": [
+            "Sự suy giảm miễn dịch của bệnh nhân nặng",
+            "Sự hình thành màng sinh học (biofilm) của vi khuẩn trên bề mặt sonde",
+            "Kỹ thuật đặt sonde không đảm bảo vô khuẩn",
+            "Loại chất liệu của sonde tiểu"
+          ],
+          "answer": 1,
+          "explain": "Sonde tiểu là một vật lạ trong lòng bàng quang, vi khuẩn dễ dàng bám dính và tạo ra một lớp màng sinh học (biofilm). Lớp màng này bảo vệ vi khuẩn khỏi cơ chế phòng vệ của cơ thể và sự tác động của kháng sinh, cho phép chúng tồn tại và nhân lên, cuối cùng gây nhiễm trùng."
+        },
+        {
+          "q": "Bước xử trí đầu tiên và quan trọng nhất đối với tình trạng nhiễm trùng này là gì?",
+          "options": [
+            "Tăng liều thuốc an thần cho bệnh nhân",
+            "Thay sonde tiểu mới và gửi đầu sonde cũ đi cấy",
+            "Bắt đầu ngay kháng sinh phổ rộng theo kinh nghiệm nhắm vào vi khuẩn bệnh viện",
+            "Chụp CT scan bụng để tìm ổ áp xe"
+          ],
+          "answer": 2,
+          "explain": "Trong bối cảnh bệnh nhân nặng có dấu hiệu sốc nhiễm khuẩn, việc bắt đầu kháng sinh phổ rộng bao phủ các tác nhân bệnh viện là ưu tiên hàng đầu và phải được thực hiện trong giờ đầu. Việc thay sonde tiểu cũng quan trọng nhưng có thể thực hiện sau."
+        },
+        {
+          "q": "Tác nhân vi sinh vật nào sau đây ít có khả năng là nguyên nhân gây bệnh nhất trong bối cảnh này?",
+          "options": [
+            "Escherichia coli",
+            "Pseudomonas aeruginosa",
+            "Candida albicans",
+            "Staphylococcus saprophyticus"
+          ],
+          "answer": 3,
+          "explain": "S. saprophyticus là một nguyên nhân phổ biến gây viêm bàng quang cấp ở phụ nữ trẻ, khỏe mạnh và hoạt động tình dục, nhưng rất hiếm gặp trong nhiễm trùng bệnh viện và CAUTI. Các tác nhân như E. coli, P. aeruginosa, và nấm Candida là những vi sinh vật thường gặp."
+        },
+        {
+          "q": "Để phòng ngừa CAUTI, biện pháp nào sau đây đã được chứng minh là hiệu quả nhất?",
+          "options": [
+            "Sử dụng kháng sinh dự phòng trong suốt thời gian đặt sonde",
+            "Thay sonde tiểu định kỳ mỗi 3 ngày",
+            "Hạn chế chỉ định đặt sonde và rút sonde ngay khi không còn cần thiết",
+            "Rửa bàng quang bằng dung dịch sát khuẩn hàng ngày"
+          ],
+          "answer": 2,
+          "explain": "Các hướng dẫn đều nhấn mạnh rằng biện pháp quan trọng và hiệu quả nhất để phòng ngừa CAUTI là tránh đặt sonde tiểu khi không cần thiết và đánh giá lại chỉ định mỗi ngày để rút sonde ra sớm nhất có thể. Các biện pháp khác như dùng kháng sinh dự phòng hay rửa bàng quang không được khuyến cáo."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 68 tuổi, tiểu buốt tái phát",
+      "body": "Bệnh nhân nữ <b>68 tuổi</b>, đến khám vì <b>tiểu buốt tái phát nhiều lần</b>. Khai trong vòng <b>1 năm qua có 4 đợt tiểu buốt, tiểu lắt nhắt</b>, được chẩn đoán viêm bàng quang và điều trị khỏi bằng kháng sinh uống ngắn ngày. Tuy nhiên chỉ 1-2 tháng sau ngưng thuốc, triệu chứng lại tái phát.<br><br><b>Đợt này:</b> Triệu chứng tương tự, bắt đầu cách đây 3 ngày.<br><br><b>Tiền sử:</b> Đã mãn kinh được 15 năm, không sử dụng liệu pháp hormone thay thế. Không có sỏi thận, đái tháo đường, bệnh lý tự miễn.<br><br><b>Khám toàn thân và các cơ quan:</b> Không có gì đặc biệt. Sinh hiệu ổn định (T 37.1°C). Khám bụng mềm, không đau.<br><br><b>Cận lâm sàng:</b><br>- Tổng phân tích nước tiểu: LEU 2+, <b>Nitrit dương tính</b><br>- Cấy nước tiểu lần trước (2 tháng trước): E. coli nhạy với nhiều loại kháng sinh",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất cho bệnh nhân là gì?",
+          "options": [
+            "Viêm bàng quang cấp đơn thuần",
+            "Nhiễm trùng tiểu tái phát",
+            "Nhiễm trùng tiểu tồn tại (bacterial persistence)",
+            "Bàng quang tăng hoạt"
+          ],
+          "answer": 1,
+          "explain": "Theo định nghĩa, nhiễm trùng tiểu tái phát là tình trạng có ≥ 2 đợt nhiễm trùng trong 6 tháng hoặc ≥ 3 đợt trong 1 năm. Bệnh nhân này có 4 đợt trong 1 năm, hoàn toàn phù hợp với chẩn đoán này."
+        },
+        {
+          "q": "Cơ chế chính nào sau đây giải thích cho việc tăng nguy cơ nhiễm trùng tiểu tái phát ở phụ nữ sau mãn kinh?",
+          "options": [
+            "Giảm sản xuất estrogen dẫn đến teo niêm mạc niệu đạo và âm đạo, thay đổi hệ vi sinh vật",
+            "Yếu cơ sàn chậu gây sa bàng quang và ứ đọng nước tiểu",
+            "Suy giảm chức năng miễn dịch chung liên quan đến tuổi tác",
+            "Cả A và B"
+          ],
+          "answer": 3,
+          "explain": "Sau mãn kinh, sự sụt giảm estrogen gây teo niêm mạc đường sinh dục - tiết niệu, làm giảm Lactobacillus và tăng pH âm đạo. Đồng thời, sự yếu đi của cơ sàn chậu có thể dẫn đến sa các cơ quan vùng chậu, gây tiểu không hết và ứ đọng nước tiểu."
+        },
+        {
+          "q": "Ngoài việc điều trị đợt nhiễm trùng cấp hiện tại, biện pháp nào sau đây được khuyến cáo để dự phòng tái phát?",
+          "options": [
+            "Sử dụng kháng sinh liều thấp kéo dài trong 6 tháng",
+            "Sử dụng liệu pháp estrogen tại chỗ (dạng kem hoặc viên đặt âm đạo)",
+            "Uống nhiều nước ép nam việt quất (cranberry) mỗi ngày",
+            "Phẫu thuật nâng bàng quang"
+          ],
+          "answer": 1,
+          "explain": "Đối với phụ nữ sau mãn kinh bị nhiễm trùng tiểu tái phát, liệu pháp estrogen tại chỗ là một biện pháp dự phòng không dùng kháng sinh được khuyến cáo hàng đầu. Nó giúp phục hồi niêm mạc, ổn định hệ vi sinh vật và giảm nguy cơ nhiễm trùng."
+        },
+        {
+          "q": "Mục tiêu chính của việc cấy nước tiểu và làm kháng sinh đồ ở bệnh nhân này là gì?",
+          "options": [
+            "Xác định xem có phải là nhiễm trùng thật sự hay không",
+            "Hướng dẫn lựa chọn kháng sinh phù hợp cho đợt điều trị hiện tại và các lần sau",
+            "Phân biệt giữa tái nhiễm (reinfection) và tái phát (relapse)",
+            "Tìm các tác nhân vi khuẩn hiếm gặp"
+          ],
+          "answer": 1,
+          "explain": "Ở bệnh nhân có nhiễm trùng tiểu tái phát, việc cấy nước tiểu và làm kháng sinh đồ rất quan trọng. Nó giúp xác nhận chẩn đoán, xác định chính xác tác nhân gây bệnh và cung cấp thông tin về độ nhạy cảm của vi khuẩn."
+        },
+        {
+          "q": "Tình trạng nào sau đây không phải là một yếu tố nguy cơ đã được xác định cho nhiễm trùng tiểu tái phát ở phụ nữ?",
+          "options": [
+            "Quan hệ tình dục",
+            "Sử dụng chất diệt tinh trùng",
+            "Tiền sử nhiễm trùng tiểu ở mẹ",
+            "Tăng huyết áp"
+          ],
+          "answer": 3,
+          "explain": "Các yếu tố nguy cơ đã được chứng minh bao gồm hành vi (quan hệ tình dục, chất diệt tinh trùng), tiền sử (nhiễm trùng tiểu lần đầu ở tuổi trẻ, tiền sử gia đình) và các yếu tố sinh học. Tăng huyết áp không phải là một yếu tố nguy cơ trực tiếp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi, đau vùng tầng sinh môn và sốt",
+      "body": "Bệnh nhân nam <b>35 tuổi</b>, tài xế, vào viện vì <b>đau dữ dội vùng tầng sinh môn và sốt</b>.<br><br><b>Bệnh sử 5 ngày:</b> Bắt đầu có tiểu khó, tiểu rắt, sau đó xuất hiện <b>đau tức vùng sau bìu, lan lên xương mu, đau tăng khi ngồi</b>. Hai ngày nay sốt cao 39°C, rét run, đau nhiều đến mức không ngồi được, mệt mỏi, đau cơ toàn thân.<br><br><b>Tiền sử:</b> Không có bệnh lý tiết niệu trước đây.<br><br><b>Khám lúc vào viện:</b> Tỉnh, vẻ mặt đau đớn, mệt mỏi. Sinh hiệu: mạch 100, HA 120/80, T 38.8°C.<br><br><b>Khám bụng:</b> Mềm, không có cầu bàng quang, điểm đau chói vùng hạ vị. Khám bộ phận sinh dục ngoài: không sưng đỏ.<br><br><b>Thăm trực tràng:</b> <b>Tuyến tiền liệt sưng to, căng và đau dữ dội khi chạm vào</b>, không sờ thấy khối áp xe.<br><br><b>Cận lâm sàng:</b><br>- Công thức máu: Bạch cầu 15.0 G/L (Neutrophil 82%), CRP 120 mg/L<br>- Tổng phân tích nước tiểu: LEU 3+, <b>Nitrit dương tính</b><br>- PSA (Prostate-Specific Antigen) toàn phần: 15 ng/mL (bình thường < 4 ng/mL)",
+      "questions": [
+        {
+          "q": "Chẩn đoán có khả năng nhất là gì?",
+          "options": [
+            "Viêm bể thận cấp",
+            "Viêm mào tinh hoàn cấp",
+            "Viêm tuyến tiền liệt cấp do vi khuẩn",
+            "Áp xe tuyến tiền liệt"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh rất điển hình cho viêm tuyến tiền liệt cấp do vi khuẩn, bao gồm hội chứng nhiễm trùng toàn thân (sốt cao, rét run), triệu chứng kích thích đường tiểu (tiểu khó, rắt) và triệu chứng tại chỗ (đau tầng sinh môn). Thăm trực tràng thấy tuyến tiền liệt sưng to và cực kỳ đau là dấu hiệu then chốt."
+        },
+        {
+          "q": "Cơ chế bệnh sinh phổ biến nhất của bệnh này là gì?",
+          "options": [
+            "Vi khuẩn từ máu theo tuần hoàn đến khu trú tại tuyến tiền liệt",
+            "Vi khuẩn từ đường ruột lân cận xâm nhập trực tiếp",
+            "Sự trào ngược nước tiểu nhiễm khuẩn từ niệu đạo vào các ống tuyến tiền liệt",
+            "Lây truyền qua đường quan hệ tình dục không an toàn"
+          ],
+          "answer": 2,
+          "explain": "Cơ chế được chấp nhận rộng rãi nhất là do sự trào ngược của nước tiểu từ niệu đạo vào trong nhu mô tuyến tiền liệt qua các ống tuyến. Nếu nước tiểu này bị nhiễm khuẩn, vi khuẩn sẽ gây ra phản ứng viêm cấp tính tại tuyến."
+        },
+        {
+          "q": "Chống chỉ định tương đối trong thăm khám bệnh nhân này là gì?",
+          "options": [
+            "Cho bệnh nhân uống nhiều nước",
+            "Đặt sonde tiểu qua niệu đạo",
+            "Xoa bóp mạnh tuyến tiền liệt để lấy dịch xét nghiệm",
+            "Cả B và C"
+          ],
+          "answer": 3,
+          "explain": "Trong viêm tuyến tiền liệt cấp, việc xoa bóp mạnh tuyến tiền liệt là chống chỉ định vì có thể gây đau đớn dữ dội và làm vi khuẩn bị đẩy vào máu. Đặt sonde tiểu qua niệu đạo cũng cần hết sức thận trọng."
+        },
+        {
+          "q": "Lựa chọn kháng sinh nào sau đây là phù hợp nhất để điều trị ban đầu?",
+          "options": [
+            "Nitrofurantoin đường uống",
+            "Một Cephalosporin thế hệ 3 hoặc Fluoroquinolone đường tĩnh mạch",
+            "Amoxicillin đường uống",
+            "Doxycycline đường uống"
+          ],
+          "answer": 1,
+          "explain": "Viêm tuyến tiền liệt cấp là một nhiễm trùng mô sâu, cần kháng sinh có khả năng thâm nhập tốt vào mô tuyến tiền liệt. Fluoroquinolones và Cephalosporins thế hệ 3 là những lựa chọn hàng đầu, thường cần dùng đường tĩnh mạch khi bệnh nhân có biểu hiện toàn thân."
+        },
+        {
+          "q": "Biến chứng cấp tính nguy hiểm nhất cần theo dõi ở bệnh nhân này là gì?",
+          "options": [
+            "Bí tiểu cấp",
+            "Hình thành áp xe tuyến tiền liệt",
+            "Viêm mào tinh hoàn - tinh hoàn",
+            "Nhiễm khuẩn huyết và sốc nhiễm khuẩn"
+          ],
+          "answer": 3,
+          "explain": "Giống như các nhiễm trùng đường niệu trên khác, viêm tuyến tiền liệt cấp có thể nhanh chóng dẫn đến nhiễm khuẩn huyết và sốc nhiễm khuẩn do tuyến tiền liệt có hệ thống mạch máu phong phú. Đây là biến chứng cấp tính nguy hiểm nhất."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 55 tuổi, sốt, đau hông lưng, lơ mơ",
+      "body": "Bệnh nhân nữ <b>55 tuổi</b>, bị <b>đái tháo đường type 2 và béo phì</b> (BMI 32 kg/m²), được đưa vào cấp cứu vì <b>sốt, đau hông lưng trái và lơ mơ</b>.<br><br><b>Tiền sử:</b> Tiền sử nhiễm trùng tiểu tái đi tái lại, đang tự uống một loại thuốc nam không rõ loại.<br><br><b>Bệnh sử 3 ngày:</b> Sốt cao 39-40°C, đau dữ dội vùng hông lưng trái, nôn nhiều. Hôm nay bắt đầu lơ mơ, gọi hỏi đáp ứng chậm.<br><br><b>Khám:</b> Lơ mơ (GCS 13 điểm), da nóng, môi khô, lưỡi bẩn. Sinh hiệu: mạch 120, <b>HA 85/50</b>, <b>RR 28</b>, T 39.5°C, SpO₂ 94%.<br><br><b>Khám bụng:</b> Chướng nhẹ, ấn đau và co cứng vùng hông lưng trái. <b>Rung thận trái dương tính mạnh</b>.<br><br><b>Cận lâm sàng:</b><br>- Công thức máu: Bạch cầu 22.5 G/L, Tiểu cầu 90 G/L<br>- Sinh hóa: Creatinin 210 µmol/L, Glucose 25.1 mmol/L, Lactate 3.5 mmol/L<br>- Khí máu động mạch: pH 7.28, PaCO₂ 32 mmHg, HCO₃⁻ 15 mmol/L<br>- <b>X-quang bụng cho thấy có hình ảnh các bóng khí liềm hơi quanh thận trái</b><br>- Siêu âm: Thận trái sưong to, mất phân biệt vỏ tủy, có nhiều bóng khí trong nhu mô và khoang quanh thận",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào là chính xác nhất?",
+          "options": [
+            "Viêm bể thận cấp có biến chứng áp xe",
+            "Viêm bể thận sinh hơi (Emphysematous Pyelonephritis)",
+            "Sốc nhiễm khuẩn từ đường niệu",
+            "Hoại tử nhú thận do đái tháo đường"
+          ],
+          "answer": 1,
+          "explain": "Sự hiện diện của khí trong nhu mô thận trên hình ảnh học (X-quang, siêu âm) là tiêu chuẩn vàng để chẩn đoán Viêm bể thận sinh hơi. Đây là một thể nhiễm trùng hoại tử nặng."
+        },
+        {
+          "q": "Cơ chế chính gây ra tình trạng sinh hơi trong nhu mô thận ở bệnh này là gì?",
+          "options": [
+            "Sự lên men glucose bởi các vi khuẩn Gram âm trong môi trường mô bị thiếu máu và đường huyết cao",
+            "Vi khuẩn kỵ khí từ đường ruột di chuyển đến thận gây nhiễm trùng",
+            "Sự phân hủy protein của nhu mô thận bị hoại tử",
+            "Phản ứng viêm quá mức của cơ thể tạo ra các gốc tự do oxy"
+          ],
+          "answer": 0,
+          "explain": "Viêm bể thận sinh hơi xảy ra chủ yếu ở bệnh nhân đái tháo đường. Các vi khuẩn (thường là E. coli, Klebsiella) lên men glucose để tạo ra khí (chủ yếu CO₂, H₂, N₂), gây phá hủy và hoại tử mô thận."
+        },
+        {
+          "q": "Yếu tố nguy cơ quan trọng nhất dẫn đến biến chứng này là gì?",
+          "options": [
+            "Giới tính nữ",
+            "Tắc nghẽn đường tiết niệu",
+            "Đái tháo đường kiểm soát kém",
+            "Sử dụng thuốc nam không rõ nguồn gốc"
+          ],
+          "answer": 2,
+          "explain": "Có đến 90% các trường hợp viêm bể thận sinh hơi xảy ra trên bệnh nhân đái tháo đường, đặc biệt là những người có đường huyết kiểm soát rất kém. Đây được xem là yếu tố nguy cơ gần như hằng định."
+        },
+        {
+          "q": "Ngoài hồi sức tích cực (bù dịch, vận mạch, kháng sinh), xử trí nào sau đây cần được xem xét thực hiện khẩn cấp?",
+          "options": [
+            "Lọc máu liên tục để thải trừ độc tố",
+            "Dẫn lưu qua da hoặc cắt bỏ thận",
+            "Nội soi tán sỏi niệu quản cấp cứu",
+            "Dùng Insulin liều cao để kiểm soát đường huyết"
+          ],
+          "answer": 1,
+          "explain": "Viêm bể thận sinh hơi là một cấp cứu ngoại khoa. Điều trị bao gồm hồi sức tích cực và kiểm soát nguồn nhiễm trùng. Bệnh nhân cần được dẫn lưu mủ và khí qua da hoặc trong trường hợp nặng, cần cắt bỏ thận khẩn cấp."
+        },
+        {
+          "q": "Dựa trên các yếu tố lâm sàng và cận lâm sàng, tình trạng của bệnh nhân này được phân loại là gì?",
+          "options": [
+            "Nhiễm trùng tiểu dưới",
+            "Viêm bể thận cấp không biến chứng",
+            "Sốc nhiễm khuẩn và rối loạn chức năng đa cơ quan",
+            "Toan ceton do đái tháo đường"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có bằng chứng của nhiễm trùng (sốt, bạch cầu tăng), tụt huyết áp không đáp ứng (cần vận mạch), và rối loạn chức năng của nhiều cơ quan: thần kinh (lơ mơ), hô hấp (thở nhanh), thận (creatinin tăng), huyết học (tiểu cầu giảm), chuyển hóa (toan). Đây là bệnh cảnh điển hình của sốc nhiễm khuẩn với suy đa cơ quan."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 28 tuổi, nước tiểu có màu đỏ",
+      "body": "Bệnh nhân nam <b>28 tuổi</b>, đến khám vì <b>nước tiểu có màu đỏ và đau nhẹ hông lưng phải</b>.<br><br><b>Bệnh sử 1 tuần:</b> Thỉnh thoảng có tiểu buốt, tiểu rắt nhưng không sốt. <b>Sáng nay sau khi đi tiểu thấy nước tiểu có màu như nước rửa thịt</b>.<br><br><b>Tiền sử:</b> Hoàn toàn khỏe mạnh, không bệnh lý sỏi thận hay chấn thương vùng bụng lưng.<br><br><b>Khám lâm sàng:</b> Tỉnh táo, sinh hiệu ổn. Bụng mềm, ấn tức nhẹ vùng hông lưng phải.<br><br><b>Cận lâm sàng:</b><br>- Tổng phân tích nước tiểu: <b>pH 8.5</b>, LEU 1+, <b>hồng cầu rất nhiều</b>, <b>tinh thể struvite (magnesium ammonium phosphate) dương tính</b><br>- Cấy nước tiểu: <b>Proteus mirabilis</b><br>- Siêu âm: <b>Một viên sỏi san hô kích thước 3x4 cm ở bể thận phải</b>",
+      "questions": [
+        {
+          "q": "Loại sỏi mà bệnh nhân này có khả năng mắc phải nhất là gì?",
+          "options": [
+            "Sỏi Calci Oxalat",
+            "Sỏi Acid Uric",
+            "Sỏi Struvite (sỏi nhiễm trùng)",
+            "Sỏi Cystin"
+          ],
+          "answer": 2,
+          "explain": "Sự hiện diện của vi khuẩn Proteus mirabilis, pH nước tiểu kiềm, và tinh thể struvite là những bằng chứng rất mạnh mẽ cho thấy đây là sỏi struvite, hay còn gọi là sỏi nhiễm trùng. Hình ảnh sỏi san hô cũng rất đặc trưng."
+        },
+        {
+          "q": "Cơ chế chính hình thành loại sỏi này liên quan đến vi khuẩn Proteus mirabilis là gì?",
+          "options": [
+            "Vi khuẩn tạo ra một lớp màng sinh học làm nhân cho sỏi phát triển",
+            "Vi khuẩn sản xuất enzyme urease, phân hủy ure thành amoniac, làm kiềm hóa nước tiểu và kết tủa tinh thể",
+            "Vi khuẩn làm tổn thương niêm mạc đường niệu, tạo điều kiện cho tinh thể lắng đọng",
+            "Vi khuẩn tiêu thụ citrate, một chất ức chế tạo sỏi tự nhiên"
+          ],
+          "answer": 1,
+          "explain": "Các vi khuẩn như Proteus, Klebsiella sản xuất enzyme urease. Enzyme này thủy phân ure thành amoniac (NH₃) và CO₂, làm tăng pH nước tiểu (kiềm hóa). Trong môi trường kiềm, các ion magie, amoni và phosphate kết tủa thành struvite."
+        },
+        {
+          "q": "Hướng xử trí tiếp theo phù hợp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Chỉ dùng kháng sinh kéo dài để làm tan sỏi",
+            "Uống nhiều nước và dùng thuốc lợi tiểu để tống sỏi ra ngoài",
+            "Điều trị kháng sinh và sau đó can thiệp ngoại khoa để lấy sỏi",
+            "Theo dõi định kỳ, không cần can thiệp vì sỏi không gây tắc nghẽn"
+          ],
+          "answer": 2,
+          "explain": "Sỏi nhiễm trùng không thể tan bằng thuốc. Điều trị cần phối hợp cả hai: dùng kháng sinh để kiểm soát nhiễm trùng và can thiệp ngoại khoa (tán sỏi qua da) để loại bỏ hoàn toàn."
+        },
+        {
+          "q": "Đặc điểm nào của nước tiểu là gợi ý mạnh mẽ nhất đến sỏi nhiễm trùng?",
+          "options": [
+            "Có nhiều hồng cầu",
+            "pH kiềm (>7.5)",
+            "Có trụ bạch cầu",
+            "Tỷ trọng nước tiểu cao"
+          ],
+          "answer": 1,
+          "explain": "pH nước tiểu kiềm kéo dài, đặc biệt là pH > 7.5-8.0, là một dấu hiệu rất đặc trưng và gợi ý mạnh mẽ đến sự hiện diện của vi khuẩn có men urease."
+        },
+        {
+          "q": "Về lâu dài, nếu không được điều trị triệt để, biến chứng nguy hiểm nhất của sỏi san hô là gì?",
+          "options": [
+            "Gây ra các cơn đau quặn thận kịch phát",
+            "Suy giảm chức năng thận mạn tính và mất chức năng thận bên có sỏi",
+            "Gây tiểu máu đại thể tái phát",
+            "Tăng nguy cơ ung thư biểu mô đường niệu"
+          ],
+          "answer": 1,
+          "explain": "Sỏi san hô là một khối sỏi lớn chiếm toàn bộ đài bể thận, hoạt động như một ổ nhiễm trùng mạn tính và gây tắc nghẽn, viêm nhiễm kéo dài. Theo thời gian, điều này dẫn đến tổn thương nhu mô thận không hồi phục, xơ hóa và mất hoàn toàn chức năng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 45 tuổi, khám sức khỏe, vi khuẩn niệu không triệu chứng",
+      "body": "Bệnh nhân nữ <b>45 tuổi</b>, đến khám sức khỏe định kỳ. <b>Hoàn toàn không có triệu chứng gì</b> về đường tiết niệu như tiểu buốt, tiểu rắt, đau hông lưng hay sốt.<br><br><b>Tiền sử:</b> Đái tháo đường type 2 được 5 năm, đang dùng Metformin, đường huyết tương đối ổn định (HbA1c 7.0%).<br><br><b>Cận lâm sàng:</b> Xét nghiệm tổng phân tích nước tiểu trong gói khám sức khỏe cho thấy <b>LEU 1+, Nitrit dương tính</b>. Do kết quả bất thường, bệnh nhân được chỉ định <b>cấy nước tiểu giữa dòng</b>. Kết quả cấy sau 2 ngày cho thấy <b>vi khuẩn E. coli mọc với số lượng >10⁵ CFU/mL</b>.",
+      "questions": [
+        {
+          "q": "Tình trạng của bệnh nhân được gọi là gì?",
+          "options": [
+            "Viêm bàng quang cấp không triệu chứng",
+            "Nhiễm trùng tiểu có biến chứng",
+            "Vi khuẩn niệu không triệu chứng (Asymptomatic Bacteriuria - ASB)",
+            "Kết quả cấy nước tiểu bị ngoại nhiễm"
+          ],
+          "answer": 2,
+          "explain": "Vi khuẩn niệu không triệu chứng được định nghĩa là có sự hiện diện của vi khuẩn với số lượng đáng kể (>10⁵ CFU/mL) mà không có bất kỳ triệu chứng lâm sàng nào của nhiễm trùng đường tiểu."
+        },
+        {
+          "q": "Cơ chế nào giải thích tại sao bệnh nhân đái tháo đường có nguy cơ cao bị vi khuẩn niệu?",
+          "options": [
+            "Đường trong nước tiểu (glucose niệu) tạo môi trường thuận lợi cho vi khuẩn phát triển",
+            "Tổn thương thần kinh tự chủ gây rối loạn chức năng co bóp bàng quang",
+            "Suy giảm chức năng của bạch cầu và hệ miễn dịch",
+            "Cả A, B và C"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân đái tháo đường có nhiều yếu tố nguy cơ: glucose niệu là 'nguồn thức ăn' cho vi khuẩn, biến chứng thần kinh gây ứ đọng nước tiểu, và suy giảm chức năng miễn dịch."
+        },
+        {
+          "q": "Xử trí nào sau đây là phù hợp nhất với bệnh nhân này theo các khuyến cáo hiện hành?",
+          "options": [
+            "Điều trị bằng một đợt kháng sinh uống trong 7 ngày",
+            "Không cần điều trị kháng sinh, chỉ cần theo dõi",
+            "Yêu cầu bệnh nhân cấy lại nước tiểu để xác nhận",
+            "Bắt đầu kháng sinh dự phòng liều thấp kéo dài"
+          ],
+          "answer": 1,
+          "explain": "Theo hướng dẫn IDSA, không khuyến cáo tầm soát và điều trị ASB ở bệnh nhân đái tháo đường. Việc điều trị không cho thấy lợi ích mà còn làm tăng nguy cơ kháng kháng sinh."
+        },
+        {
+          "q": "Nhóm đối tượng nào sau đây là chỉ định bắt buộc phải tầm soát và điều trị vi khuẩn niệu không triệu chứng?",
+          "options": [
+            "Bệnh nhân đái tháo đường",
+            "Phụ nữ sau mãn kinh",
+            "Bệnh nhân đặt sonde tiểu lưu",
+            "Phụ nữ mang thai"
+          ],
+          "answer": 3,
+          "explain": "Hai nhóm chính mà việc tầm soát và điều trị ASB được chứng minh là có lợi là: phụ nữ mang thai (để giảm nguy cơ viêm bể thận và sinh non) và những bệnh nhân chuẩn bị trải qua các thủ thuật tiết niệu có nguy cơ chảy máu."
+        },
+        {
+          "q": "Việc điều trị vi khuẩn niệu không triệu chứng ở những nhóm không được khuyến cáo có thể dẫn đến hậu quả gì?",
+          "options": [
+            "Giảm nguy cơ viêm bể thận trong tương lai",
+            "Cải thiện kiểm soát đường huyết",
+            "Tăng nguy cơ nhiễm các chủng vi khuẩn đa kháng thuốc",
+            "Không có hậu quả gì đáng kể"
+          ],
+          "answer": 2,
+          "explain": "Việc lạm dụng kháng sinh cho ASB sẽ tiêu diệt các chủng vi khuẩn nhạy cảm, tạo điều kiện cho các chủng vi khuẩn kháng thuốc phát triển. Khi bệnh nhân thực sự bị nhiễm trùng có triệu chứng, điều trị sẽ trở nên khó khăn hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 82 tuổi, sống trong viện dưỡng lão, lú lẫn cấp",
+      "body": "Bệnh nhân nữ <b>82 tuổi</b>, sống trong viện dưỡng lão, được đưa vào viện vì <b>lú lẫn cấp</b>.<br><br><b>Tiền sử:</b> Sa sút trí tuệ, tăng huyết áp, bệnh thận mạn giai đoạn 3.<br><br><b>Bệnh sử 2 ngày:</b> Các điều dưỡng nhận thấy bệnh nhân trở nên lú lẫn hơn, không nhận ra người quen, ăn uống kém và <b>tiểu không tự chủ nhiều hơn</b>. Bệnh nhân <b>không sốt, không than đau bụng hay tiểu buốt</b> (khó khai thác do sa sút trí tuệ).<br><br><b>Khám:</b> Lơ mơ, kích thích, không định hướng không gian và thời gian. Sinh hiệu: mạch 90, HA 130/80, RR 20, T 37.3°C. Khám bụng mềm, không ấn đau. Các cơ quan khác chưa phát hiện bất thường.<br><br><b>Cận lâm sàng:</b><br>- Tổng phân tích nước tiểu: LEU 2+, Nitrit âm tính<br>- Công thức máu và CRP: Trong giới hạn bình thường<br>- Creatinin: 130 µmol/L (tương đương mức nền)",
+      "questions": [
+        {
+          "q": "Nguyên nhân có khả năng nhất gây ra tình trạng lú lẫn cấp (sảng) ở bệnh nhân này là gì?",
+          "options": [
+            "Đợt cấp của sa sút trí tuệ",
+            "Tai biến mạch máu não mới",
+            "Nhiễm trùng tiểu",
+            "Rối loạn điện giải"
+          ],
+          "answer": 2,
+          "explain": "Ở người cao tuổi, đặc biệt là những người có bệnh nền sa sút trí tuệ, nhiễm trùng (phổ biến nhất là nhiễm trùng tiểu và viêm phổi) là nguyên nhân hàng đầu gây sảng. Cần luôn nghĩ đến nguyên nhân này đầu tiên."
+        },
+        {
+          "q": "Biểu hiện lâm sàng nào sau đây là dấu hiệu không đặc hiệu nhưng thường là triệu chứng duy nhất của nhiễm trùng tiểu ở người cao tuổi?",
+          "options": [
+            "Sốt cao rét run",
+            "Tiểu máu đại thể",
+            "Thay đổi tình trạng tri giác hoặc chức năng (sảng, té ngã, ăn uống kém)",
+            "Đau hông lưng dữ dội"
+          ],
+          "answer": 2,
+          "explain": "Người cao tuổi thường không có các triệu chứng kinh điển của nhiễm trùng. Thay vào đó, họ có thể biểu hiện bằng thay đổi tri giác đột ngột, lú lẫn, té ngã hoặc ăn uống kém. Đây có thể là dấu hiệu chỉ điểm duy nhất."
+        },
+        {
+          "q": "Cơ chế nào giải thích cho mối liên hệ giữa nhiễm trùng và tình trạng sảng ở người cao tuổi?",
+          "options": [
+            "Độc tố vi khuẩn trực tiếp gây tổn thương tế bào não",
+            "Phản ứng viêm hệ thống (cytokine, interleukin) gây rối loạn hàng rào máu não và chất dẫn truyền thần kinh",
+            "Tụt huyết áp do nhiễm trùng làm giảm tưới máu não",
+            "Sốt cao gây mất nước và rối loạn điện giải"
+          ],
+          "answer": 1,
+          "explain": "Não bộ của người cao tuổi, đặc biệt là người sa sút trí tuệ, có 'dự trữ nhận thức' thấp. Phản ứng viêm hệ thống sẽ giải phóng cytokines có thể vượt qua hàng rào máu não (suy yếu do tuổi), gây viêm thần kinh và làm rối loạn chất dẫn truyền."
+        },
+        {
+          "q": "Trong trường hợp này, việc chỉ dựa vào tổng phân tích nước tiểu để chẩn đoán nhiễm trùng tiểu có thể không chính xác vì sao?",
+          "options": [
+            "Bệnh nhân có bệnh thận mạn",
+            "Vi khuẩn niệu không triệu chứng rất phổ biến ở người cao tuổi và có thể cho kết quả dương tính giả",
+            "Nitrit thường âm tính ở người cao tuổi",
+            "Que thử nước tiểu không nhạy ở người lớn tuổi"
+          ],
+          "answer": 1,
+          "explain": "ASB có tỷ lệ rất cao ở người cao tuổi sống trong viện dưỡng lão (có thể lên đến 50%). Một kết quả TPTNT có bạch cầu không đồng nghĩa với nhiễm trùng tiểu gây triệu chứng."
+        },
+        {
+          "q": "Cách tiếp cận chẩn đoán và điều trị phù hợp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Chẩn đoán xác định nhiễm trùng tiểu và bắt đầu kháng sinh ngay",
+            "Chụp MRI sọ não để loại trừ đột quỵ trước tiên",
+            "Coi tình trạng lú lẫn là do nhiễm trùng tiểu, nhưng cần tìm kiếm và loại trừ các nguyên nhân khác, chỉ điều trị kháng sinh nếu có bằng chứng rõ ràng",
+            "Cho bệnh nhân dùng thuốc an thần để kiểm soát hành vi"
+          ],
+          "answer": 2,
+          "explain": "Tiếp cận đúng là coi nhiễm trùng tiểu là chẩn đoán nghi ngờ cao, nhưng phải tìm kiếm các nguyên nhân khác gây sảng (rối loạn điện giải, tác dụng phụ thuốc, táo bón, bí tiểu...). Quyết định điều trị kháng sinh phải dựa trên sự tổng hợp của nhiều yếu tố, tránh điều trị quá mức cho ASB."
+        }
+      ]
+    }
+  ]
+}
