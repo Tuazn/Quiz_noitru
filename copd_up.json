@@ -1,0 +1,620 @@
+{
+  "name": "COPD (Up)",
+  "description": "Bộ case lâm sàng COPD giai đoạn cấp tính, ổn định, và các biến chứng tim-hô hấp. Ôn thi nội trú theo tiêu chuẩn GOLD.",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Hô hấp",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 68 tuổi khó thở cấp tính 3 ngày",
+      "body": "<b>Tình huống:</b> Bệnh nhân nam 68 tuổi, tiền sử COPD 10 năm, nhập viện vì khó thở tăng dần và ho khạc đờm mủ đục 3 ngày nay.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, vã mồ hôi, co kéo cơ hô hấp phụ, mạch 110 lần/phút, HA 130/80 mmHg, nhịp thở 28 lần/phút, SpO₂ 88% với khí trời, nhiệt độ 38.5°C. Lồng ngực hình thùng, gõ vang, rì rào phế nang giảm, có nhiều ran ngáy và ran rít hai bên phổi. Chân không phù, tĩnh mạch cổ không nổi.<br><br><b>Cận lâm sàng:</b> X-quang phổi có hình ảnh tăng sáng hai phế trường, không có thâm nhiễm mới. Khí máu động mạch: pH 7.25, PaCO₂ 65 mmHg, PaO₂ 55 mmHg, HCO₃⁻ 28 mmol/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất với tình trạng hiện tại là gì?",
+          "options": [
+            "Viêm phổi mắc phải cộng đồng",
+            "Đợt cấp COPD mức độ nhẹ",
+            "Đợt cấp COPD mức độ trung bình",
+            "Đợt cấp COPD mức độ nặng"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân có suy hô hấp cấp tính (thở nhanh, co kéo cơ hô hấp) và khí máu có toan hô hấp (pH 7.25, PaCO₂ 65). Theo GOLD đây là đợt cấp COPD mức độ nặng cần nhập viện cấp cứu/ICU."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính gây ra tình trạng toan hô hấp cấp tính ở bệnh nhân này là gì?",
+          "options": [
+            "Tăng khoảng chết sinh lý và mệt mỏi cơ hô hấp",
+            "Giảm khuếch tán khí qua màng phế nang mao mạch",
+            "Tăng sản xuất CO₂ từ phản ứng viêm toàn thân",
+            "Shunt nội phổi do xẹp các phế nang thùy dưới"
+          ],
+          "answer": 0,
+          "explain": "Đợt cấp làm trầm trọng tình trạng tắc nghẽn đường thở, tạo ra bẫy khí làm căng phồng phổi. Cơ hô hấp hoạt động quá sức dẫn đến mệt mỏi. Kết hợp với sự gia tăng khoảng chết sinh lý (V/Q bất tương xứng) gây suy giảm thông khí phế nang và ứ đọng CO₂."
+        },
+        {
+          "q": "Chỉ định can thiệp hỗ trợ hô hấp ban đầu ưu tiên nhất lúc này là gì?",
+          "options": [
+            "Thở oxy qua mask có túi dự trữ",
+            "Thông khí nhân tạo không xâm nhập",
+            "Đặt nội khí quản thở máy xâm nhập",
+            "Thở oxy lưu lượng cao qua canula mũi"
+          ],
+          "answer": 1,
+          "explain": "Chỉ định kinh điển của thông khí nhân tạo không xâm nhập (NIV/BiPAP) trong đợt cấp COPD là khi bệnh nhân có toan hô hấp cấp (pH ≤ 7.35 và PaCO₂ ≥ 45 mmHg) và chưa có rối loạn tri giác nặng hay ngừng thở."
+        },
+        {
+          "q": "Chọn tập hợp đúng về các nhóm thuốc cần sử dụng ngay trong phác đồ: (1) Kháng sinh toàn thân; (2) Corticosteroid toàn thân; (3) SABA/SAMA khí dung; (4) Theophylline truyền tĩnh mạch",
+          "options": [
+            "1, 2, 4",
+            "2, 3, 4",
+            "1, 2, 3",
+            "1, 3, 4"
+          ],
+          "answer": 2,
+          "explain": "Phác đồ cốt lõi cho đợt cấp COPD có dấu hiệu nhiễm khuẩn (đờm mủ) gồm thuốc giãn phế quản tác dụng ngắn khí dung (3), Corticosteroid toàn thân (2) và Kháng sinh (1). Theophylline không được khuyến cáo thường quy do độc tính hẹp."
+        },
+        {
+          "q": "Sau 2 giờ can thiệp hô hấp trên, bệnh nhân lơ mơ dần, nhịp thở 35 lần/phút, PaCO₂ tăng lên 85 mmHg. Bước xử trí tiếp theo là gì?",
+          "options": [
+            "Tăng áp lực IPAP và EPAP",
+            "Đặt nội khí quản thở máy xâm nhập",
+            "Truyền tĩnh mạch Doxapram",
+            "Tiêm tĩnh mạch Natri Bicarbonat"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân suy giảm tri giác (lơ mơ) và PaCO₂ tiếp tục tăng kèm thở nhanh mệt mỏi là bằng chứng của thất bại với NIV. Bắt buộc phải đặt nội khí quản và thở máy xâm nhập cấp cứu để cứu sống người bệnh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi khó thở tiến triển từ từ 2 năm",
+      "body": "<b>Tình huống:</b> Bệnh nhân nam 55 tuổi, thợ xây, hút thuốc lá 30 bao.năm, đến khám vì ho khạc đờm trắng đục mỗi sáng và khó thở khi leo dốc khoảng 2 năm nay.<br><br><b>Khám lâm sàng:</b> Mạch 80 lần/phút, huyết áp 120/70 mmHg, nhịp thở 18 lần/phút, SpO₂ 96% khí trời, BMI 22 kg/m². Phổi âm phế bào giảm nhẹ hai đáy, không có ran. Bệnh nhân không có tiền sử hen phế quản hay lao phổi.<br><br><b>Cận lâm sàng:</b> Hô hấp ký sau test phục hồi phế quản bằng Salbutamol 400 μg ghi nhận FEV1/FVC = 0.65, FEV1 = 60% giá trị dự đoán.",
+      "questions": [
+        {
+          "q": "Phân loại mức độ tắc nghẽn luồng khí theo tiêu chuẩn GOLD hiện hành?",
+          "options": [
+            "GOLD 1",
+            "GOLD 2",
+            "GOLD 3",
+            "GOLD 4"
+          ],
+          "answer": 1,
+          "explain": "Theo phân loại tắc nghẽn GOLD, với FEV1/FVC < 0.70, mức độ được đánh giá dựa vào FEV1 sau test. FEV1 từ 50% đến < 80% dự đoán tương ứng với GOLD 2 (mức độ trung bình)."
+        },
+        {
+          "q": "Đặc điểm sinh lý bệnh cốt lõi gây ra tình trạng tắc nghẽn luồng khí ở bệnh nhân này là gì?",
+          "options": [
+            "Phì đại cơ trơn phế quản vĩnh viễn",
+            "Tái cấu trúc đường thở và mất đàn hồi nhu mô",
+            "Tăng nhạy cảm quá mức của đường dẫn khí",
+            "Phù nề cấp tính niêm mạc phế quản"
+          ],
+          "answer": 1,
+          "explain": "Ở bệnh nhân COPD, sự tắc nghẽn không hồi phục là hậu quả của phản ứng viêm mạn tính gây xơ hóa, hẹp đường thở nhỏ (tái cấu trúc) và phá hủy phế nang làm mất các vách đàn hồi giữ cho đường thở mở (khí phế thũng)."
+        },
+        {
+          "q": "Tiêu chuẩn nào trên hô hấp ký xác nhận chẩn đoán bệnh lý này?",
+          "options": [
+            "FEV1/FVC < 0.70 sau test giãn phế quản",
+            "FEV1/FVC < 0.70 trước test giãn phế quản",
+            "FEV1 < 80% dự đoán sau test giãn phế quản",
+            "FVC < 80% dự đoán sau test giãn phế quản"
+          ],
+          "answer": 0,
+          "explain": "Tiêu chuẩn vàng bắt buộc để chẩn đoán xác định COPD là sự hiện diện của giới hạn luồng khí không hồi phục hoàn toàn, thể hiện qua chỉ số FEV1/FVC < 0.70 sau khi đã dùng thuốc giãn phế quản (postbronchodilator)."
+        },
+        {
+          "q": "Nhóm thuốc ưu tiên hàng đầu để kiểm soát triệu chứng lâu dài cho bệnh nhân?",
+          "options": [
+            "Thuốc giãn phế quản tác dụng ngắn khi cần",
+            "Corticosteroid dạng hít liều trung bình",
+            "Thuốc giãn phế quản tác dụng kéo dài đơn trị",
+            "Nhóm Methylxanthine đường uống"
+          ],
+          "answer": 2,
+          "explain": "Đối với bệnh nhân COPD giai đoạn ổn định, thuốc nền tảng để giảm triệu chứng và giảm đợt cấp là các thuốc giãn phế quản tác dụng kéo dài đường hít (LABA hoặc LAMA)."
+        },
+        {
+          "q": "Biến chứng mạn tính nào sau đây KHÔNG ĐÚNG với diễn biến tự nhiên của COPD?",
+          "options": [
+            "Tâm phế mạn tính",
+            "Hội chứng suy mòn cơ",
+            "Tăng áp lực động mạch phổi",
+            "Xơ hóa phổi kẽ lan tỏa"
+          ],
+          "answer": 3,
+          "explain": "Xơ hóa phổi kẽ lan tỏa là bệnh lý thuộc nhóm bệnh phổi mô kẽ (restrictive pattern), không phải là biến chứng của COPD. Các biến chứng kinh điển của COPD bao gồm tâm phế mạn, đa hồng cầu và suy mòn cơ do viêm toàn thân."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi phù chi dưới và khó thở tăng dần",
+      "body": "<b>Tình huống:</b> Bệnh nhân nam 72 tuổi, tiền sử COPD 15 năm, không tuân thủ điều trị duy trì, nhập viện vì phù hai chi dưới và khó thở tăng dần.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, khó thở cả khi nằm, nhịp thở 24 lần/phút, SpO₂ 89% với khí trời, mạch 105 lần/phút, huyết áp 110/70 mmHg. Tĩnh mạch cổ nổi tự nhiên, gan to dưới bờ sườn 3 cm, ấn tức, phản hồi gan tĩnh mạch cổ dương tính. Phổi có ran ngáy hai bên, giảm rì rào phế nang. Tim nhịp đều, có tiếng T2 đanh ở ổ van động mạch phổi và tiếng thổi toàn tâm thu ở khoang liên sườn 4 cạnh ức trái, tăng lên khi hít vào sâu. Điện tâm đồ thấy trục phải, R cao ở V1, S sâu ở V5-V6.",
+      "questions": [
+        {
+          "q": "Biến chứng tim mạch nào đang biểu hiện rõ nhất trên lâm sàng?",
+          "options": [
+            "Suy tim trái cấp tính",
+            "Suy tim toàn bộ",
+            "Tâm phế mạn",
+            "Nhồi máu cơ tim thất phải"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân COPD lâu năm có dấu hiệu suy tim phải rõ rệt (tĩnh mạch cổ nổi, gan to, phù chi dưới, T2 đanh, hở van ba lá, điện tâm đồ dày thất phải) là bệnh cảnh điển hình của Tâm phế mạn (Cor Pulmonale)."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính dẫn đến biến chứng này ở bệnh nhân COPD là gì?",
+          "options": [
+            "Co mạch phổi do tình trạng thiếu oxy phế nang mạn tính",
+            "Tăng thể tích tuần hoàn do ứ đọng natri và nước ngoại vi",
+            "Tái cấu trúc thất trái do tăng công hô hấp kéo dài",
+            "Tắc nghẽn vi mạch phổi do tăng hồng cầu thứ phát"
+          ],
+          "answer": 0,
+          "explain": "Tình trạng thiếu oxy phế nang mạn tính ở bệnh nhân COPD kích hoạt phản xạ co thắt các tiểu động mạch phổi (cơ chế Euler-Liljestrand) nhằm điều chỉnh V/Q. Khi co mạch lan tỏa và kéo dài sẽ gây tăng áp lực động mạch phổi, dẫn đến phì đại và suy thất phải."
+        },
+        {
+          "q": "Thăm dò hình ảnh nào có giá trị tốt nhất và không xâm lấn để đánh giá cấu trúc tim?",
+          "options": [
+            "X-quang lồng ngực thẳng",
+            "Chụp cắt lớp vi tính lồng ngực",
+            "Siêu âm tim qua thành ngực",
+            "Chụp cộng hưởng từ tim mạch"
+          ],
+          "answer": 2,
+          "explain": "Siêu âm tim Doppler qua thành ngực là phương pháp không xâm lấn tối ưu để ước lượng áp lực động mạch phổi tâm thu (sPAP), đánh giá kích thước buồng thất phải và tình trạng van ba lá."
+        },
+        {
+          "q": "Lựa chọn điều trị nội khoa ưu tiên giúp giảm triệu chứng ứ huyết ngoại vi?",
+          "options": [
+            "Thuốc chẹn beta giao cảm",
+            "Thuốc lợi tiểu quai tĩnh mạch",
+            "Thuốc ức chế men chuyển",
+            "Thuốc chẹn kênh calci"
+          ],
+          "answer": 1,
+          "explain": "Để giải quyết tình trạng quá tải thể tích và ứ huyết ngoại vi (phù, gan to) trong suy tim phải cấp bù, việc sử dụng thuốc lợi tiểu quai (như Furosemide) là biện pháp điều trị triệu chứng nền tảng."
+        },
+        {
+          "q": "Nếu tình trạng thiếu oxy mạn tính không được cải thiện, biến chứng huyết học nào chắc chắn sẽ xuất hiện?",
+          "options": [
+            "Thiếu máu hồng cầu to",
+            "Đa hồng cầu thứ phát",
+            "Giảm tiểu cầu miễn dịch",
+            "Tăng bạch cầu phản ứng"
+          ],
+          "answer": 1,
+          "explain": "Thiếu oxy mạn tính kích thích thận tăng tiết Erythropoietin (EPO), dẫn đến tăng sinh hồng cầu bù trừ (đa hồng cầu thứ phát) nhằm tăng khả năng vận chuyển oxy, làm tăng độ quánh của máu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 65 tuổi lơ mơ sau thở oxy liều cao",
+      "body": "<b>Tình huống:</b> Bệnh nhân nữ 65 tuổi, tiền sử COPD mức độ nặng, được người nhà đưa vào cấp cứu vì khó thở nhiều. Tại trạm y tế tuyến trước, bệnh nhân được cho thở oxy qua canula mũi lưu lượng 6 L/phút liên tục.<br><br><b>Khám cấp cứu:</b> Bệnh nhân lơ mơ, da niêm mạc hồng hào. Mạch 95 lần/phút, huyết áp 130/80 mmHg, nhịp thở chậm 12 lần/phút, SpO₂ 99%. Phổi nghe có nhiều ran rít và ran ngáy.<br><br><b>Cận lâm sàng:</b> Khí máu động mạch: pH 7.21, PaCO₂ 85 mmHg, PaO₂ 140 mmHg, HCO₃⁻ 32 mmol/L.",
+      "questions": [
+        {
+          "q": "Hội chứng chính dẫn đến rối loạn tri giác hiện tại là gì?",
+          "options": [
+            "Ngộ độc oxy thần kinh trung ương",
+            "Bệnh não do toan hô hấp tăng CO₂",
+            "Xuất huyết não do tăng huyết áp",
+            "Hội chứng ngưng thở khi ngủ"
+          ],
+          "answer": 1,
+          "explain": "Khí máu có PaCO₂ 85 mmHg và pH 7.21, kèm SpO₂ 99%, chứng tỏ bệnh nhân đang bị toan hô hấp nặng do tăng CO₂ máu (Hypercapnic encephalopathy), hậu quả của việc cho thở oxy lưu lượng quá cao ở bệnh nhân COPD."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh cốt lõi gây ra tình trạng ứ đọng khí trên khi cung cấp oxy liều cao?",
+          "options": [
+            "Xóa bỏ phản xạ co mạch phổi thiếu oxy",
+            "Phá hủy chất surfactant phế nang",
+            "Xơ hóa màng phế nang mao mạch",
+            "Tăng tính thấm mao mạch tuần hoàn phổi"
+          ],
+          "answer": 0,
+          "explain": "Ở bệnh nhân COPD, vùng phổi thông khí kém sẽ có phản xạ co mạch (để đưa máu đến vùng thông khí tốt). Thở oxy liều cao làm mất phản xạ co mạch thiếu oxy này, máu dồn về vùng thông khí kém làm tăng bất tương xứng V/Q, gây tăng vọt PaCO₂ máu."
+        },
+        {
+          "q": "Mục tiêu SpO₂ tối ưu cần duy trì ở bệnh nhân COPD trong đợt cấp là bao nhiêu?",
+          "options": [
+            "85 - 88%",
+            "88 - 92%",
+            "94 - 98%",
+            "98 - 100%"
+          ],
+          "answer": 1,
+          "explain": "Theo hướng dẫn GOLD, mục tiêu oxy liệu pháp trong đợt cấp COPD là duy trì SpO₂ ở mức 88 - 92% (hoặc PaO₂ 60-65 mmHg) nhằm đảm bảo đủ oxy mô mà không kích hoạt cơ chế ứ đọng CO₂."
+        },
+        {
+          "q": "Xử trí cấp cứu đầu tiên cần thực hiện ngay tại giường bệnh là gì?",
+          "options": [
+            "Điều chỉnh giảm lưu lượng oxy",
+            "Tiêm tĩnh mạch Natri Bicarbonat",
+            "Khí dung Corticosteroid liều cao",
+            "Truyền tĩnh mạch Aminophylline"
+          ],
+          "answer": 0,
+          "explain": "Hành động ngay lập tức là phải điều chỉnh giảm lưu lượng oxy xuống mức an toàn (ví dụ: chuyển sang canula 1-2 L/phút hoặc Venturi mask 24-28%) để tránh ức chế hô hấp thêm, đồng thời chuẩn bị thở máy nếu tình trạng không cải thiện."
+        },
+        {
+          "q": "Nếu sau khi xử trí bước đầu, bệnh nhân đi vào hôn mê và nhịp thở giảm còn 6 lần/phút, can thiệp nào là bắt buộc?",
+          "options": [
+            "Sốc điện chuyển nhịp cấp cứu",
+            "Thông khí nhân tạo không xâm nhập",
+            "Đặt nội khí quản thở máy xâm nhập",
+            "Ép tim ngoài lồng ngực liên tục"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân hôn mê và nhịp thở quá chậm (nguy cơ ngừng thở) là chống chỉ định của thông khí không xâm nhập (NIV). Giải pháp sống còn lúc này là đặt nội khí quản và thở máy xâm nhập."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi thường xuyên đợt cấp và Eosinophil máu cao",
+      "body": "<b>Tình huống:</b> Bệnh nhân nam 60 tuổi, tiền sử hút thuốc lá 40 bao.năm, được chẩn đoán COPD 3 năm trước. Bệnh nhân tuân thủ điều trị bằng Tiotropium (LAMA) hàng ngày nhưng vẫn thường xuyên xuất hiện đợt cấp phải tiêm Corticoid tuyến dưới (3 đợt trong năm qua).<br><br><b>Khám lâm sàng trong giai đoạn ổn định:</b> Mạch 85 lần/phút, HA 120/75 mmHg, nhịp thở 18 lần/phút, SpO₂ 96%. Phổi thông khí giảm nhẹ hai bên.<br><br><b>Cận lâm sàng:</b> Xét nghiệm công thức máu có bạch cầu ái toan (Eosinophil) ở mức 450 tế bào/μL. Hô hấp ký có FEV1/FVC = 0.55, FEV1 = 50% dự đoán.",
+      "questions": [
+        {
+          "q": "Yếu tố nào ở bệnh nhân này định hướng bắt buộc cần thay đổi phác đồ kiểm soát nền?",
+          "options": [
+            "Tiền sử hút thuốc lá nhiều năm",
+            "Tần suất đợt cấp và Eosinophil máu cao",
+            "Chức năng thông khí FEV1 giảm nặng",
+            "Triệu chứng lâm sàng trong giai đoạn ổn định"
+          ],
+          "answer": 1,
+          "explain": "Mặc dù đã dùng LAMA, bệnh nhân vẫn có đợt cấp thường xuyên (≥ 2 đợt/năm) và có chỉ số Eosinophil máu tăng cao. Đây là hai đặc điểm quan trọng nhất chỉ điểm cần nâng bậc điều trị bổ sung Corticoid hít (ICS)."
+        },
+        {
+          "q": "Tiêu chuẩn bạch cầu ái toan máu nào ủng hộ mạnh mẽ việc bổ sung ICS ở bệnh nhân COPD?",
+          "options": [
+            "Lớn hơn hoặc bằng 100 tế bào/μL",
+            "Lớn hơn hoặc bằng 200 tế bào/μL",
+            "Lớn hơn hoặc bằng 300 tế bào/μL",
+            "Lớn hơn hoặc bằng 500 tế bào/μL"
+          ],
+          "answer": 2,
+          "explain": "Hướng dẫn GOLD khuyến cáo ủng hộ mạnh mẽ việc sử dụng dạng phối hợp có chứa ICS cho bệnh nhân COPD có tiền sử đợt cấp khi số lượng bạch cầu ái toan (Eosinophil) trong máu ≥ 300 tế bào/μL."
+        },
+        {
+          "q": "Cơ chế tác dụng chính của ICS mang lại lợi ích trên nhóm bệnh nhân này là gì?",
+          "options": [
+            "Giãn cơ trơn phế quản trực tiếp",
+            "Ức chế phản ứng viêm type 2 đường thở",
+            "Tăng độ nhạy của thụ thể muscarinic",
+            "Tiêu hủy các nút nhày trong lòng phế quản"
+          ],
+          "answer": 1,
+          "explain": "Khác với viêm neutrophil thông thường trong COPD, lượng Eosinophil cao phản ánh sự hiện diện của phản ứng viêm type 2 (tương tự hen phế quản). ICS tác động bằng cách ức chế trực tiếp con đường viêm này, giúp giảm đợt cấp hiệu quả."
+        },
+        {
+          "q": "Phác đồ điều trị duy trì phù hợp nhất tiếp theo cho bệnh nhân là gì?",
+          "options": [
+            "Giữ nguyên LAMA và thêm SABA",
+            "Phối hợp LAMA và LABA",
+            "Chuyển sang dùng ICS đơn độc",
+            "Phối hợp bộ ba ICS/LABA/LAMA"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân thuộc nhóm E (nhiều đợt cấp) với Eosinophil > 300, lựa chọn tối ưu và mạnh mẽ nhất theo GOLD là chuyển sang liệu pháp bộ ba (Triple therapy): ICS + LABA + LAMA."
+        },
+        {
+          "q": "Nguy cơ tác dụng phụ đáng ngại nhất khi sử dụng thuốc hít chứa ICS lâu dài ở bệnh nhân COPD?",
+          "options": [
+            "Viêm phổi mắc phải cộng đồng",
+            "Ung thư phổi tế bào nhỏ",
+            "Xơ hóa phổi kẽ tự phát",
+            "Tăng áp động mạch phổi vô căn"
+          ],
+          "answer": 0,
+          "explain": "Corticosteroid dạng hít ức chế miễn dịch tại chỗ ở đường hô hấp, làm tăng đáng kể nguy cơ nhiễm khuẩn tại phổi, đặc biệt là viêm phổi mắc phải tại cộng đồng, dù nó giúp giảm các đợt co thắt cấp tính."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi khó thở khi vận động cơ, không có đợt cấp",
+      "body": "<b>Tình huống:</b> Bệnh nhân nam 58 tuổi, đến tái khám COPD định kỳ. Bệnh nhân than phiền triệu chứng khó thở tăng lên rất nhiều mỗi khi đi bộ nhanh hoặc leo cầu thang, buộc phải dừng lại để thở (mMRC độ 2).<br><br><b>Khám:</b> Nhịp thở 20 lần/phút, SpO₂ 95% lúc nghỉ. Nghe phổi có rì rào phế nang giảm nhẹ, không ran. Không có đợt cấp nào phải nhập viện hoặc dùng thuốc thêm trong 2 năm qua. Hiện bệnh nhân chỉ dùng Salbutamol dạng xịt khi cần thiết nhưng không đỡ khó thở khi vận động.",
+      "questions": [
+        {
+          "q": "Theo phân nhóm ABCD/E của GOLD, bệnh nhân này thuộc nhóm nào?",
+          "options": [
+            "Nhóm A",
+            "Nhóm B",
+            "Nhóm E",
+            "Nhóm C"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có triệu chứng khó thở nhiều (mMRC ≥ 2) và không có tiền sử đợt cấp (0 đợt cấp trong năm qua). Theo sơ đồ đánh giá khởi đầu của GOLD, bệnh nhân này được xếp vào Nhóm B (nhiều triệu chứng, ít nguy cơ đợt cấp)."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính gây khó thở khi gắng sức ở bệnh nhân COPD là gì?",
+          "options": [
+            "Co thắt phế quản dị ứng đột ngột",
+            "Căng phồng phổi động do bẫy khí",
+            "Tràn dịch màng phổi hai bên",
+            "Nhồi máu động mạch phổi cấp"
+          ],
+          "answer": 1,
+          "explain": "Khi gắng sức, nhịp thở tăng lên khiến thời gian thở ra bị rút ngắn. Ở người COPD có giới hạn luồng khí, khí không kịp thoát ra ngoài, tích tụ lại sau mỗi nhịp thở gây ra hiện tượng \"căng phồng phổi động\" (Dynamic hyperinflation) hay bẫy khí, làm phẳng cơ hoành và gây khó thở nghiêm trọng."
+        },
+        {
+          "q": "Thang điểm nào sau đây được sử dụng phổ biến nhất để phân loại triệu chứng lâm sàng COPD?",
+          "options": [
+            "Thang điểm mMRC và CAT",
+            "Thang điểm Wells và Geneva",
+            "Thang điểm CURB-65",
+            "Thang điểm Child-Pugh"
+          ],
+          "answer": 0,
+          "explain": "Thang điểm mMRC (đánh giá mức độ khó thở) và thang điểm CAT (đánh giá tác động toàn diện của bệnh) là hai công cụ chuẩn được GOLD khuyến cáo để đánh giá nhóm triệu chứng."
+        },
+        {
+          "q": "Lựa chọn điều trị duy trì khởi đầu tối ưu nhất cho bệnh nhân hiện tại?",
+          "options": [
+            "Corticosteroid dạng uống kéo dài",
+            "Thuốc chẹn beta giao cảm chọn lọc",
+            "Thuốc LABA hoặc LAMA tác dụng kéo dài",
+            "Kháng sinh Macrolide liều thấp dự phòng"
+          ],
+          "answer": 2,
+          "explain": "Đối với bệnh nhân nhóm B (triệu chứng nhiều), khuyến cáo điều trị khởi đầu là sử dụng một thuốc giãn phế quản tác dụng kéo dài (LABA hoặc LAMA) hoặc phối hợp cả hai ngay từ đầu, thay vì chỉ dùng SABA khi cần."
+        },
+        {
+          "q": "Nếu bệnh nhân dùng phối hợp LAMA/LABA nhưng xuất hiện bí tiểu cấp, nguyên nhân là do tác dụng phụ của nhóm thuốc nào?",
+          "options": [
+            "Thuốc kháng cholinergic LAMA",
+            "Thuốc cường beta-2 LABA",
+            "Cả hai thuốc đều gây co thắt niệu đạo",
+            "Không liên quan đến thuốc đường hít"
+          ],
+          "answer": 0,
+          "explain": "Các thuốc LAMA (như Tiotropium, Umeclidinium) là chất đối kháng thụ thể Muscarinic (kháng cholinergic). Tác dụng phụ toàn thân dù hiếm qua đường hít nhưng có thể gây giãn cơ chóp bàng quang và co thắt cơ vòng, dẫn đến bí tiểu ở nam giới có phì đại tiền liệt tuyến."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi khó thở đột ngột, nghi ngờ thuyên tắc phổi",
+      "body": "<b>Tình huống:</b> Bệnh nhân nam 65 tuổi, tiền sử COPD GOLD 2, béo phì (BMI 31 kg/m²), nhập viện vì khó thở đột ngột, đau tức ngực phải và ho khan 1 ngày nay. Gần đây bệnh nhân hạn chế đi lại trong 2 tuần do viêm khớp gối cấp.<br><br><b>Khám:</b> Mạch 120 lần/phút, huyết áp 100/65 mmHg, nhịp thở 28 lần/phút, SpO₂ 85% khí trời. Khám phổi thông khí đều hai bên, không có ran rít hay ran ngáy, không có sốt hay khạc đờm mủ.<br><br><b>Cận lâm sàng:</b> X-quang lồng ngực thẳng bình thường, không có thâm nhiễm hay bóng khí vỡ. Điện tâm đồ nhịp nhanh xoang, S1Q3T3 âm tính.",
+      "questions": [
+        {
+          "q": "Định hướng chẩn đoán phân biệt nào cần được ưu tiên loại trừ ngay lập tức?",
+          "options": [
+            "Đợt cấp COPD do vi khuẩn",
+            "Thuyên tắc động mạch phổi",
+            "Tràn khí màng phổi tự phát",
+            "Nhồi máu cơ tim cấp thành trước"
+          ],
+          "answer": 1,
+          "explain": "Khó thở và đau ngực khởi phát đột ngột ở bệnh nhân có yếu tố nguy cơ huyết khối (béo phì, bất động do đau khớp), phổi không có ran đợt cấp, X-quang phổi bình thường nhưng SpO₂ giảm nặng rất gợi ý đến Thuyên tắc động mạch phổi."
+        },
+        {
+          "q": "Cơ chế gây giảm oxy máu nghiêm trọng trong bệnh lý nghi ngờ trên là gì?",
+          "options": [
+            "Giảm thông khí phế nang toàn thể",
+            "Bất tương xứng thông khí tưới máu",
+            "Dày màng phế nang mao mạch lan tỏa",
+            "Shunt phải-trái trong buồng tim nội tại"
+          ],
+          "answer": 1,
+          "explain": "Cục máu đông làm tắc nghẽn động mạch phổi, vùng phổi phía sau đó vẫn được thông khí (V bình thường) nhưng không có máu tưới (Q = 0). Điều này tạo ra khoảng chết phế nang lớn (V/Q = vô cực), làm máu tĩnh mạch trộn đi qua các vùng khác bị shunt tương đối, dẫn đến giảm oxy máu nặng."
+        },
+        {
+          "q": "Xét nghiệm máu nào có độ nhạy rất cao dùng để sàng lọc loại trừ ban đầu?",
+          "options": [
+            "Định lượng D-dimer huyết thanh",
+            "Men tim Troponin I siêu nhạy",
+            "Nồng độ Procalcitonin máu",
+            "Khí máu động mạch tĩnh"
+          ],
+          "answer": 0,
+          "explain": "D-dimer là sản phẩm thoái giáng của Fibrin. Nó có độ nhạy rất cao; nếu D-dimer âm tính ở bệnh nhân có nguy cơ lâm sàng thấp hoặc trung bình, có thể loại trừ an toàn chẩn đoán thuyên tắc phổi."
+        },
+        {
+          "q": "Thăm dò hình ảnh nào là tiêu chuẩn vàng hiện nay để chẩn đoán xác định bệnh lý này?",
+          "options": [
+            "Chụp X-quang lồng ngực kỹ thuật số",
+            "Chụp cắt lớp vi tính động mạch phổi",
+            "Siêu âm tim qua thành ngực",
+            "Xạ hình thông khí và tưới máu phổi"
+          ],
+          "answer": 1,
+          "explain": "Chụp cắt lớp vi tính động mạch phổi có tiêm thuốc cản quang (CTPA) là tiêu chuẩn vàng và phương tiện đầu tay hiện nay để chẩn đoán xác định huyết khối trong lòng động mạch phổi."
+        },
+        {
+          "q": "Xử trí nội khoa ưu tiên nếu chẩn đoán trên được xác định và huyết động bệnh nhân duy trì ổn định?",
+          "options": [
+            "Thuốc tiêu sợi huyết truyền tĩnh mạch",
+            "Thuốc chống đông máu điều trị",
+            "Thuốc kháng tiểu cầu kép đường uống",
+            "Thuốc vận mạch nâng huyết áp"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có huyết áp ổn định (100/65 mmHg) thuộc nhóm thuyên tắc phổi nguy cơ không cao. Chỉ định bắt buộc và nền tảng là sử dụng ngay thuốc chống đông máu (Heparin trọng lượng phân tử thấp hoặc DOAC) để ngăn huyết khối lan rộng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 38 tuổi khó thở tiến triển từ từ, nghi ngờ thiếu Alpha-1 Antitrypsin",
+      "body": "<b>Tình huống:</b> Bệnh nhân nam 38 tuổi, làm nhân viên văn phòng, hút thuốc lá 15 bao.năm, đến khám vì khó thở tiến triển từ từ khoảng 1 năm nay, không ho khạc đờm. Tiền sử gia đình có bố mất sớm ở tuổi 45 do bệnh gan xơ hóa không rõ nguyên nhân.<br><br><b>Khám lâm sàng:</b> Nhịp thở 22 lần/phút, SpO₂ 94% khí trời, lồng ngực hình thùng, phổi giảm rì rào phế nang ưu thế ở hai vùng đáy phổi. X-quang phổi cho thấy hình ảnh quá sáng và bẹp vòm hoành tập trung ở thùy dưới hai bên. Hô hấp ký có rối loạn thông khí tắc nghẽn không hồi phục nặng với FEV1 45% giá trị dự đoán.",
+      "questions": [
+        {
+          "q": "Nguyên nhân cốt lõi gây ra bệnh cảnh COPD khởi phát sớm ở bệnh nhân này là gì?",
+          "options": [
+            "Bệnh bụi phổi nghề nghiệp silic",
+            "Thiếu hụt men Alpha-1 Antitrypsin",
+            "Hội chứng Kartagener bẩm sinh",
+            "Di chứng lao xơ hang thùy dưới"
+          ],
+          "answer": 1,
+          "explain": "COPD khởi phát sớm (dưới 45 tuổi) ở người hút thuốc ít, kèm tiền sử gia đình bệnh gan bí ẩn, và tổn thương ưu thế thùy dưới là dấu hiệu kinh điển của bệnh di truyền Thiếu hụt Alpha-1 Antitrypsin (AATD)."
+        },
+        {
+          "q": "Cơ chế tổn thương cấu trúc phổi đặc trưng trong bệnh lý di truyền này là gì?",
+          "options": [
+            "Mất cân bằng hệ thống protease và antiprotease",
+            "Tăng sinh quá mức nguyên bào sợi mô kẽ",
+            "Lắng đọng phức hợp miễn dịch tại màng đáy",
+            "Tắc nghẽn vi mạch phổi do huyết khối lặp lại"
+          ],
+          "answer": 0,
+          "explain": "Men Alpha-1 Antitrypsin là một chất ức chế enzyme (antiprotease) bảo vệ nhu mô phổi khỏi sự phân hủy của men Elastase (một protease) do bạch cầu trung tính tiết ra. Thiếu hụt men này làm mất cân bằng, dẫn đến nhu mô phổi bị phá hủy vĩnh viễn."
+        },
+        {
+          "q": "Đặc điểm tổn thương giải phẫu bệnh điển hình nhất trên phim cắt lớp vi tính là gì?",
+          "options": [
+            "Giãn phế nang trung tâm tiểu thùy ở đỉnh phổi",
+            "Giãn phế nang toàn tiểu thùy ở đáy phổi",
+            "Giãn phế quản hình túi lan tỏa hai phổi",
+            "Hình ảnh kính luống và tổ ong ngoại vi"
+          ],
+          "answer": 1,
+          "explain": "Trái ngược với giãn phế nang do khói thuốc đơn thuần (trung tâm tiểu thùy, ưu thế đỉnh phổi), giãn phế nang do thiếu AATD có đặc trưng là giãn phế nang toàn tiểu thùy (panacinar emphysema) và xuất hiện nặng nhất ở vùng đáy phổi."
+        },
+        {
+          "q": "Ngoài hệ hô hấp, cơ quan nào thường bị ảnh hưởng do tích tụ protein bất thường và cần tầm soát?",
+          "options": [
+            "Tụy ngoại tiết",
+            "Thận vành tiểu cầu",
+            "Nhu mô gan",
+            "Cơ tim thất trái"
+          ],
+          "answer": 2,
+          "explain": "Các protein AAT đột biến (đặc biệt là kiểu gen PiZZ) cuộn gập sai cấu trúc và không thể thoát ra khỏi tế bào gan (nơi tổng hợp chúng). Sự tích tụ này gây độc tố, dẫn đến viêm gan, xơ gan và thậm chí ung thư biểu mô tế bào gan."
+        },
+        {
+          "q": "Phương pháp điều trị đặc hiệu có thể cân nhắc cho bệnh nhân này để làm chậm tiến triển bệnh?",
+          "options": [
+            "Ghép tủy xương tự thân định kỳ",
+            "Truyền bù Alpha-1 Antitrypsin tĩnh mạch",
+            "Phẫu thuật cắt bỏ thùy dưới hai phổi",
+            "Dùng thuốc ức chế miễn dịch liều cao"
+          ],
+          "answer": 1,
+          "explain": "Liệu pháp đặc hiệu nhất cho người bệnh thiếu AATD có biểu hiện khí phế thũng là liệu pháp thay thế: truyền tĩnh mạch định kỳ chế phẩm Alpha-1 Antitrypsin tinh chế từ huyết tương người hiến máu để duy trì nồng độ bảo vệ ở phổi."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi COPD giai đoạn cuối, đa hồng cầu thứ phát",
+      "body": "<b>Tình huống:</b> Bệnh nhân nam 68 tuổi, chẩn đoán COPD giai đoạn cuối, đang điều trị nội trú vì đợt cấp thứ 3 trong năm. Bệnh nhân có biểu hiện môi tím đen, ngón tay dùi trống, da đỏ bầm.<br><br><b>Cận lâm sàng:</b> SpO₂ 86% khi thở khí trời lúc nghỉ, PaO₂ 52 mmHg. Xét nghiệm công thức máu có Hemoglobin 195 g/L, Hematocrit 60%. Siêu âm tim Doppler có áp lực động mạch phổi tâm thu (sPAP) 55 mmHg chỉ điểm tăng áp động mạch phổi.",
+      "questions": [
+        {
+          "q": "Hội chứng huyết học nào đang xảy ra ở bệnh nhân này?",
+          "options": [
+            "Bệnh bạch cầu cấp dòng tủy",
+            "Đa hồng cầu thứ phát",
+            "Rối loạn sinh tủy nguyên phát",
+            "Thiếu máu hồng cầu to"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có Hemoglobin và Hematocrit tăng rất cao trong bối cảnh bệnh phổi thiếu oxy mạn tính, đây là tình trạng Đa hồng cầu thứ phát (Secondary Polycythemia) nhằm bù trừ lượng oxy mô."
+        },
+        {
+          "q": "Tiêu chuẩn chẩn đoán nào là chỉ định bắt buộc của liệu pháp oxy dài hạn tại nhà (LTOT)?",
+          "options": [
+            "PaO₂ dưới 60 mmHg không kèm biến chứng tim",
+            "PaO₂ nhỏ hơn hoặc bằng 55 mmHg lúc nghỉ ngơi",
+            "PaO₂ nhỏ hơn hoặc bằng 65 mmHg sau test gắng sức",
+            "SpO₂ dưới 95% trong giấc ngủ ban đêm"
+          ],
+          "answer": 1,
+          "explain": "Theo hướng dẫn, chỉ định oxy dài hạn (LTOT) là bắt buộc khi PaO₂ ≤ 55 mmHg hoặc SpO₂ ≤ 88% lúc nghỉ. (Nếu PaO₂ từ 56-59 mmHg, chỉ định đặt ra khi đã có biến chứng suy tim phải hoặc đa hồng cầu với Hct > 55%)."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh gây ra tình trạng bất thường công thức máu trên?",
+          "options": [
+            "Giảm tưới máu thận kích thích tiết Renin",
+            "Thiếu oxy mạn kích thích thận tiết Erythropoietin",
+            "Đột biến gen JAK2 ở tế bào gốc tạo máu",
+            "Tăng nồng độ Cortisol máu mạn tính"
+          ],
+          "answer": 1,
+          "explain": "Khi PaO₂ máu giảm mạn tính, các tế bào cận tiểu cầu ở thận sẽ cảm nhận được và phản ứng bằng cách tăng sản xuất hoocmon Erythropoietin (EPO), kích thích tủy xương tăng sinh dòng hồng cầu."
+        },
+        {
+          "q": "Mục tiêu thời gian thở oxy tối thiểu mỗi ngày khi sử dụng LTOT để kéo dài tuổi thọ là bao nhiêu?",
+          "options": [
+            "Lớn hơn hoặc bằng 8 giờ mỗi ngày",
+            "Lớn hơn hoặc bằng 12 giờ mỗi ngày",
+            "Lớn hơn hoặc bằng 15 giờ mỗi ngày",
+            "Bắt buộc 24 giờ mỗi ngày liên tục"
+          ],
+          "answer": 2,
+          "explain": "Các thử nghiệm lâm sàng kinh điển (NOTT, MRC) đã chứng minh liệu pháp oxy dài hạn tại nhà chỉ cải thiện tỷ lệ sống còn ở bệnh nhân COPD thiếu oxy mạn tính khi bệnh nhân thở oxy ít nhất 15 giờ/ngày."
+        },
+        {
+          "q": "Biến chứng nguy hiểm nhất của tình trạng tăng Hematocrit lên đến 60% nếu không được kiểm soát?",
+          "options": [
+            "Chảy máu tiêu hóa ồ ạt",
+            "Tăng nguy cơ huyết khối tắc mạch",
+            "Suy thận cấp do hoại tử ống thận",
+            "Xuất huyết giảm tiểu cầu mao mạch"
+          ],
+          "answer": 1,
+          "explain": "Hematocrit > 55-60% làm tăng đáng kể độ quánh của máu, làm chậm dòng chảy vi tuần hoàn. Biến chứng nguy hiểm nhất là sự hình thành huyết khối (huyết khối tĩnh mạch sâu, thuyên tắc phổi, đột quỵ não)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi đau ngực phải sau ho, nghi ngờ tràn khí màng phổi",
+      "body": "<b>Tình huống:</b> Bệnh nhân nam 62 tuổi, tiền sử COPD nhiều năm, đang điều trị ổn định tại nhà. Sau một cơn ho dữ dội, bệnh nhân đột ngột xuất hiện đau chói ngực phải, kèm theo khó thở dữ dội, vã mồ hôi.<br><br><b>Khám cấp cứu:</b> Mạch 115 lần/phút, huyết áp 110/70 mmHg, nhịp thở 32 lần/phút, SpO₂ 84% khí trời. Khám lồng ngực thấy nửa ngực phải vồng cao, di động kém, gõ vang như trống, rung thanh mất và không nghe thấy rì rào phế nang. Khí quản lệch nhẹ sang trái.",
+      "questions": [
+        {
+          "q": "Biến chứng cấp tính nào khả dĩ nhất vừa xảy ra ở bệnh nhân?",
+          "options": [
+            "Đợt cấp COPD do nhiễm khuẩn nặng",
+            "Nhồi máu động mạch phổi cấp tính",
+            "Tràn dịch màng phổi phải lượng nhiều",
+            "Tràn khí màng phổi tự phát thứ phát"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân COPD đột ngột đau chói ngực, khó thở, lồng ngực vồng kèm \"tam chứng Galliard\" (gõ vang, rung thanh mất, rì rào mất) là dấu hiệu kinh điển của Tràn khí màng phổi tự phát. Vì xảy ra trên nền phổi có bệnh lý, đây gọi là tự phát thứ phát."
+        },
+        {
+          "q": "Đặc điểm cơ chế bệnh sinh nào ĐÚNG với tình trạng này ở bệnh nhân COPD?",
+          "options": [
+            "Tràn khí do hoại tử nhu mô do vi khuẩn",
+            "Vỡ các kén khí hoặc bóng khí dưới màng phổi",
+            "Tràn khí do thủng màng phổi từ vết thương hở",
+            "Vỡ áp xe phổi mạn tính vào khoang màng phổi"
+          ],
+          "answer": 1,
+          "explain": "Nhu mô phổi ở người COPD bị phá hủy tạo thành các bóng khí (bullae) hoặc kén khí nằm sát dưới màng phổi tạng. Các động tác làm tăng áp lực lồng ngực đột ngột (như ho mạnh) có thể làm vỡ các bóng khí này, khiến khí tràn vào khoang màng phổi."
+        },
+        {
+          "q": "Các dấu hiệu lâm sàng \"gõ vang, rung thanh mất, rì rào phế nang mất\" tạo thành hội chứng gì?",
+          "options": [
+            "Hội chứng đông đặc nhu mô phổi",
+            "Tam chứng Galliard kinh điển",
+            "Hội chứng ba giảm màng phổi",
+            "Hội chứng chèn ép trung thất cấp"
+          ],
+          "answer": 1,
+          "explain": "Tam chứng Galliard bao gồm 3 triệu chứng thực thể: Rung thanh giảm/mất, Gõ vang, Rì rào phế nang giảm/mất. Đây là hội chứng đặc trưng nhất cho sự hiện diện của khí trong khoang màng phổi."
+        },
+        {
+          "q": "Cận lâm sàng hình ảnh ưu tiên và sẵn có nhất để chẩn đoán xác định tại giường?",
+          "options": [
+            "Chụp X-quang lồng ngực thẳng",
+            "Chụp cắt lớp vi tính lồng ngực",
+            "Xạ hình tưới máu động mạch phổi",
+            "Siêu âm tim qua thành ngực"
+          ],
+          "answer": 0,
+          "explain": "Chụp X-quang lồng ngực thẳng tại giường (hoặc siêu âm màng phổi cấp cứu) là phương tiện nhanh nhất, rẻ tiền và nhạy cảm để xác định có tràn khí màng phổi và đánh giá mức độ đè đẩy trung thất."
+        },
+        {
+          "q": "Xử trí can thiệp nào là bắt buộc và cấp thiết nếu bệnh nhân bắt đầu tụt huyết áp?",
+          "options": [
+            "Đặt nội khí quản thở máy áp lực dương",
+            "Chọc kim lớn giải áp khoang màng phổi",
+            "Dùng thuốc vận mạch truyền tĩnh mạch",
+            "Khí dung thuốc giãn phế quản liều cao"
+          ],
+          "answer": 1,
+          "explain": "Khi bệnh nhân bắt đầu tụt huyết áp và có đè đẩy khí quản, đây là biểu hiện của Tràn khí màng phổi áp lực (Tension pneumothorax), một cấp cứu đe dọa tính mạng. Bắt buộc phải dùng kim lớn chọc giải áp ngay lập tức (thường ở khoang liên sườn 2 đường giữa đòn hoặc khoang liên sườn 4-5 đường nách giữa) trước khi tiến hành đặt ống dẫn lưu."
+        }
+      ]
+    }
+  ]
+}
