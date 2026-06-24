@@ -1,0 +1,620 @@
+{
+  "name": "COPD",
+  "description": "Case lâm sàng về COPD từ Bệnh học nội khoa - ôn thi nội trú",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Hô hấp",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 65 tuổi, khó thở gắng sức tăng dần, tiền sử hút thuốc",
+      "body": "Bệnh nhân nam, 65 tuổi, làm nghề thợ mộc đã nghỉ hưu, đến khám vì khó thở khi gắng sức ngày càng tăng. Bệnh nhân có tiền sử hút thuốc lá 40 bao.năm, đã bỏ được 5 năm. Khoảng 5 năm nay, bệnh nhân bắt đầu có ho khạc đàm trắng, trong vào buổi sáng, kéo dài hơn 3 tháng mỗi năm. Tình trạng khó thở xuất hiện từ 2 năm trước, ban đầu chỉ khi đi nhanh hoặc lên dốc, nay khó thở cả khi đi bộ trong nhà (mMRC 3). Bệnh nhân không có tiền sử hen phế quản, không có đợt cấp nào phải nhập viện trong năm qua. Khám toàn thân ghi nhận bệnh nhân tỉnh, thể trạng trung bình, không tím, không phù. Sinh hiệu: mạch 88 lần/phút, huyết áp 130/80 mmHg, nhịp thở 20 lần/phút, SpO₂ 94% khí trời. Khám lồng ngực hình thùng, gõ trong vang, rì rào phế nang giảm lan tỏa hai bên, không nghe ran. Đo chức năng hô hấp cho thấy: FEV1/FVC sau test hồi phục phế quản là 65%, FEV1 sau test là 55% so với giá trị dự đoán. Bệnh nhân có điểm CAT là 18 điểm.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Hen phế quản",
+            "Bệnh phổi tắc nghẽn mạn tính (COPD)",
+            "Giãn phế quản",
+            "Bệnh phổi kẽ"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có yếu tố nguy cơ (hút thuốc lá), triệu chứng lâm sàng phù hợp (ho mạn, khó thở gắng sức) và tiêu chuẩn vàng về chức năng hô hấp (FEV1/FVC sau test < 0.70). Đây là chẩn đoán xác định COPD."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây ra tình trạng giới hạn luồng khí thở ra không hồi phục hoàn toàn ở bệnh nhân COPD là gì?",
+          "options": [
+            "Co thắt cơ trơn phế quản cấp tính",
+            "Tăng đáp ứng đường thở với các dị nguyên",
+            "Viêm đường thở mạn tính, phá hủy nhu mô phổi (khí phế thũng) và tái cấu trúc đường thở (viêm phế quản mạn)",
+            "Sự hình thành các nút nhầy gây tắc nghẽn phế quản"
+          ],
+          "answer": 2,
+          "explain": "Khói thuốc lá và các chất độc khác gây ra một phản ứng viêm bất thường trong phổi. Quá trình viêm này dẫn đến hai tổn thương chính: (1) Viêm phế quản mạn: làm dày thành phế quản, tăng sản xuất nhầy. (2) Khí phế thũng: phá hủy các vách phế nang, làm giảm sức co kéo đàn hồi của phổi và bẫy khí. Cả hai cùng gây tắc nghẽn đường thở dai dẳng."
+        },
+        {
+          "q": "Theo phân loại GOLD 2023, bệnh nhân này được xếp vào nhóm nào?",
+          "options": [
+            "Nhóm A",
+            "Nhóm B",
+            "Nhóm C",
+            "Nhóm D"
+          ],
+          "answer": 1,
+          "explain": "Phân loại GOLD dựa trên triệu chứng và tiền sử đợt cấp. Bệnh nhân có nhiều triệu chứng (mMRC ≥ 2 hoặc CAT ≥ 10) nhưng không có đợt cấp nào phải nhập viện trong năm qua (≤ 1 đợt cấp trung bình). Do đó, bệnh nhân được xếp vào nhóm B."
+        },
+        {
+          "q": "Lựa chọn điều trị khởi đầu bằng thuốc giãn phế quản dạng hít nào là phù hợp nhất cho bệnh nhân này?",
+          "options": [
+            "Chỉ cần SABA (thuốc chủ vận beta-2 tác dụng ngắn) khi khó thở",
+            "LAMA (thuốc kháng muscarinic tác dụng dài)",
+            "Phối hợp LABA/LAMA (thuốc chủ vận beta-2 tác dụng dài/kháng muscarinic tác dụng dài)",
+            "ICS/LABA (Corticoid dạng hít/thuốc chủ vận beta-2 tác dụng dài)"
+          ],
+          "answer": 2,
+          "explain": "Theo GOLD 2023, điều trị khởi đầu cho bệnh nhân nhóm B được khuyến cáo là phối hợp thuốc giãn phế quản tác dụng dài (LABA/LAMA) để tối ưu hóa hiệu quả giãn phế quản và cải thiện triệu chứng."
+        },
+        {
+          "q": "Can thiệp nào sau đây là quan trọng nhất giúp làm chậm sự suy giảm chức năng phổi ở bệnh nhân COPD?",
+          "options": [
+            "Dùng thuốc giãn phế quản đều đặn",
+            "Cai thuốc lá",
+            "Phục hồi chức năng hô hấp",
+            "Tiêm vaccine phòng cúm và phế cầu"
+          ],
+          "answer": 1,
+          "explain": "Mặc dù các biện pháp khác rất quan trọng trong việc quản lý bệnh, cai thuốc lá là biện pháp duy nhất được chứng minh có thể làm thay đổi diễn biến tự nhiên của bệnh, làm chậm đáng kể tốc độ suy giảm FEV1 hàng năm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi, đợt cấp COPD với sốt, khạc đàm mủ",
+      "body": "Bệnh nhân nam, 70 tuổi, có tiền sử COPD GOLD D, đang điều trị tại nhà với Tiotropium/Olodaterol và thở oxy dài hạn. Bệnh nhân được người nhà đưa vào viện vì khó thở tăng lên 3 ngày nay. Bệnh nhân khai khó thở nhiều hơn, phải ngồi để thở, ho khạc đàm tăng từ màu trắng sang màu vàng đặc, và cảm thấy mệt mỏi rã rời. Khám: bệnh nhân tỉnh, môi hơi tím, thở co kéo cơ hô hấp phụ. Sinh hiệu: mạch 110 lần/phút, huyết áp 130/85 mmHg, nhịp thở 28 lần/phút, nhiệt độ 38.2°C, SpO₂ 86% khi đang thở oxy gọng kính 2L/phút. Phổi nghe ran ngáy, ran rít lan tỏa hai bên, rì rào phế nang giảm. Không có dấu hiệu suy tim phải. Cận lâm sàng: Công thức máu có bạch cầu 13.5 G/L (Neutrophil 85%), CRP 120 mg/L.",
+      "questions": [
+        {
+          "q": "Tình trạng của bệnh nhân được chẩn đoán là gì?",
+          "options": [
+            "Hen phế quản cấp",
+            "Đợt cấp Bệnh phổi tắc nghẽn mạn tính (AECOPD)",
+            "Suy tim mất bù",
+            "Thuyên tắc phổi"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân COPD có sự gia tăng cấp tính các triệu chứng hô hấp (khó thở, ho, khạc đàm) so với nền, đòi hỏi phải thay đổi điều trị. Đây là định nghĩa của một đợt cấp COPD."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính khởi phát đợt cấp ở bệnh nhân này là gì?",
+          "options": [
+            "Phản ứng dị ứng với một dị nguyên đường thở",
+            "Nhiễm trùng đường hô hấp (virus hoặc vi khuẩn) gây tăng phản ứng viêm tại chỗ và toàn thân",
+            "Ngưng đột ngột thuốc giãn phế quản",
+            "Hít phải không khí lạnh"
+          ],
+          "answer": 1,
+          "explain": "Nhiễm trùng đường hô hấp là nguyên nhân phổ biến nhất, chiếm khoảng 50-70% các đợt cấp. Virus (như Rhinovirus, Influenza) và vi khuẩn (như H. influenzae, S. pneumoniae, M. catarrhalis) làm trầm trọng thêm tình trạng viêm đường thở sẵn có, gây co thắt phế quản, phù nề và tăng tiết nhầy."
+        },
+        {
+          "q": "Dựa vào tiêu chuẩn Anthonisen, bệnh nhân này thuộc type nào và có chỉ định dùng kháng sinh không?",
+          "options": [
+            "Type I, có chỉ định kháng sinh",
+            "Type II, có chỉ định kháng sinh",
+            "Type III, không cần kháng sinh",
+            "Không đủ tiêu chuẩn"
+          ],
+          "answer": 0,
+          "explain": "Tiêu chuẩn Anthonisen: (1) Khó thở tăng, (2) Lượng đàm tăng, (3) Đàm chuyển sang màu mủ. Bệnh nhân có cả 3 triệu chứng, do đó thuộc Type I. Bệnh nhân Type I và Type II (có 2/3 triệu chứng, trong đó có tăng đàm mủ) đều có chỉ định dùng kháng sinh."
+        },
+        {
+          "q": "Xử trí dược lý ban đầu tại khoa cấp cứu nên bao gồm những gì?",
+          "options": [
+            "Tăng liều thuốc giãn phế quản hít tác dụng dài",
+            "Thuốc giãn phế quản tác dụng ngắn (SABA +/- SAMA), Corticoid toàn thân và Kháng sinh",
+            "Chỉ cần dùng kháng sinh và thuốc long đàm",
+            "Morphin để giảm khó thở và lo lắng"
+          ],
+          "answer": 1,
+          "explain": "Xử trí nền tảng của đợt cấp bao gồm: (1) Tăng cường giãn phế quản bằng các thuốc tác dụng ngắn; (2) Dùng Corticoid toàn thân (uống hoặc tiêm) trong 5-7 ngày để kiểm soát viêm; (3) Dùng kháng sinh nếu có bằng chứng nhiễm khuẩn."
+        },
+        {
+          "q": "Chỉ định thở oxy cho bệnh nhân này cần tuân thủ nguyên tắc nào?",
+          "options": [
+            "Cho thở oxy liều cao nhất có thể để đạt SpO₂ 100%",
+            "Duy trì liều oxy thấp để giữ SpO₂ trong khoảng mục tiêu 88-92%",
+            "Chỉ cho thở oxy khi bệnh nhân tím tái rõ",
+            "Ngưng thở oxy vì có thể gây ngộ độc CO₂"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân COPD nặng có thể bị suy hô hấp mạn tính với tăng CO₂ máu. Việc cung cấp oxy liều cao không kiểm soát có thể làm giảm đáp ứng của trung tâm hô hấp với tình trạng thiếu oxy, gây giảm thông khí và làm ứ đọng CO₂ nặng hơn. Do đó, mục tiêu oxy là duy trì SpO₂ ở mức an toàn (88-92%)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 75 tuổi, đợt cấp COPD với suy hô hấp cấp, toan hô hấp",
+      "body": "Bệnh nhân nam, 75 tuổi, tiền sử COPD giai đoạn rất nặng, đang thở oxy tại nhà, được đưa vào cấp cứu vì khó thở và lơ mơ. Bệnh nhân đang trong đợt cấp 2 ngày nay. Khám: bệnh nhân lơ mơ, GCS 13 điểm, không thể nói, thở gắng sức, co kéo cơ liên sườn và hõm ức, có kiểu thở bụng nghịch. Sinh hiệu: mạch 120 lần/phút, huyết áp 100/70 mmHg, nhịp thở 32 lần/phút. SpO₂ 85% khi đang thở mask có túi dự trữ 10 L/phút. Khí máu động mạch: pH 7.25, PaCO₂ 75 mmHg, PaO₂ 55 mmHg, HCO₃⁻ 32 mmol/L.",
+      "questions": [
+        {
+          "q": "Tình trạng của bệnh nhân được chẩn đoán là gì?",
+          "options": [
+            "Đợt cấp COPD có suy hô hấp cấp trên nền suy hô hấp mạn, có toan hô hấp mất bù",
+            "Sốc nhiễm trùng",
+            "Tràn khí màng phổi áp lực",
+            "Phù phổi cấp do tim"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có bệnh cảnh đợt cấp, có bằng chứng suy hô hấp cấp (khó thở nặng, giảm oxy máu) và toan hô hấp (pH < 7.35, PaCO₂ > 45 mmHg) trên nền suy hô hấp mạn (bằng chứng là HCO₃⁻ đã tăng để bù trừ)."
+        },
+        {
+          "q": "Cơ chế chính gây ra tình trạng ứ đọng CO₂ (tăng CO₂ máu) trong đợt cấp COPD là gì?",
+          "options": [
+            "Tăng sản xuất CO₂ do sốt",
+            "Rối loạn khuếch tán khí qua màng phế nang-mao mạch",
+            "Mất cân xứng thông khí-tưới máu (V/Q mismatch) trầm trọng và suy kiệt cơ hô hấp dẫn đến giảm thông khí phế nang",
+            "Do dùng quá nhiều thuốc giãn phế quản"
+          ],
+          "answer": 2,
+          "explain": "Trong đợt cấp, tình trạng viêm và co thắt phế quản làm tắc nghẽn đường thở nặng hơn, gây ra các vùng phổi được tưới máu tốt nhưng thông khí kém (V/Q thấp). Đồng thời, việc phải gắng sức để thở trong thời gian dài làm các cơ hô hấp bị mỏi và kiệt sức, không còn khả năng duy trì thông khí phút đầy đủ, dẫn đến giảm thông khí toàn bộ và ứ đọng CO₂."
+        },
+        {
+          "q": "Can thiệp hô hấp nào là phù hợp nhất và cần được chỉ định ngay cho bệnh nhân này?",
+          "options": [
+            "Tăng liều oxy qua mask lên 15 L/phút",
+            "Đặt ống dẫn lưu màng phổi",
+            "Bắt đầu thông khí không xâm nhập (NIV/BiPAP)",
+            "Cho bệnh nhân dùng thuốc an thần để giảm gắng sức"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có chỉ định rõ ràng cho NIV: đợt cấp COPD có toan hô hấp (pH 7.25-7.35), có tăng CO₂, có khó thở nặng với co kéo cơ hô hấp phụ. NIV là lựa chọn hàng đầu để tránh phải đặt nội khí quản."
+        },
+        {
+          "q": "Lợi ích chính của thông khí không xâm nhập (NIV) trong trường hợp này là gì?",
+          "options": [
+            "Cải thiện oxy hóa máu",
+            "Hỗ trợ công thở cho bệnh nhân, giảm mệt cơ hô hấp và cải thiện thông khí phế nang để thải trừ CO₂",
+            "Làm loãng đàm",
+            "Giảm nguy cơ nhiễm trùng"
+          ],
+          "answer": 1,
+          "explain": "NIV cung cấp hai mức áp lực dương: IPAP (áp lực dương hít vào) giúp làm giảm công thở của bệnh nhân, tăng thể tích khí lưu thông và cải thiện thải trừ CO₂; EPAP (áp lực dương thở ra) giúp giữ cho các phế nang không bị xẹp và cải thiện oxy hóa. Lợi ích chính trong trường hợp này là hỗ trợ thông khí."
+        },
+        {
+          "q": "Thở bụng nghịch (paradoxical abdominal breathing) là một dấu hiệu của?",
+          "options": [
+            "Tắc nghẽn đường thở trên",
+            "Tràn dịch màng phổi lượng nhiều",
+            "Suy kiệt cơ hoành",
+            "Tăng áp lực trong ổ bụng"
+          ],
+          "answer": 2,
+          "explain": "Bình thường, khi hít vào, cơ hoành hạ xuống và bụng phồng ra. Trong thở bụng nghịch, khi hít vào, lồng ngực nở ra nhưng bụng lại hóp vào. Đây là một dấu hiệu cho thấy cơ hoành đã bị mỏi, yếu hoặc liệt, không còn tham gia hiệu quả vào động tác hít vào; thay vào đó nó bị kéo thụ động lên trên do áp lực âm trong lồng ngực."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi, COPD rất nặng, phù hai chân, dấu hiệu tâm phế mạn",
+      "body": "Bệnh nhân nam, 72 tuổi, tiền sử COPD rất nặng (FEV1 < 30%), phải thở oxy dài hạn tại nhà. Bệnh nhân nhập viện vì khó thở tăng và phù hai chân. Khám: bệnh nhân tím môi, khó thở khi nghỉ, SpO₂ 85% khi đang thở oxy gọng kính 2L/phút. Tĩnh mạch cổ nổi, phản hồi gan-tĩnh mạch cổ dương tính. Tim có tiếng T2 mạnh ở ổ van động mạch phổi. Phổi rì rào phế nang giảm, có ít ran ẩm ở đáy. Bụng có gan to 4cm dưới bờ sườn, chắc, bờ tù. Phù mềm, ấn lõm rõ ở hai chi dưới. Khí máu động mạch (thở oxy 2L/p) cho thấy PaO₂ là 52 mmHg.",
+      "questions": [
+        {
+          "q": "Biến chứng tim mạch mà bệnh nhân đang gặp phải là gì?",
+          "options": [
+            "Nhồi máu cơ tim",
+            "Suy tim trái",
+            "Tâm phế mạn (Cor pulmonale) mất bù",
+            "Rung nhĩ"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có bệnh phổi mạn tính nặng, kèm theo các dấu hiệu lâm sàng rõ ràng của suy tim phải (phù, gan to, tĩnh mạch cổ nổi). Đây là bệnh cảnh điển hình của tâm phế mạn (suy thất phải thứ phát do bệnh lý của phổi)."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây ra tâm phế mạn ở bệnh nhân COPD là gì?",
+          "options": [
+            "Tình trạng viêm hệ thống từ phổi lan đến tim",
+            "Tình trạng thiếu oxy máu mạn tính gây co thắt các tiểu động mạch phổi và tái cấu trúc mạch máu phổi, dẫn đến tăng áp lực động mạch phổi",
+            "Tăng cung lượng tim kéo dài do thiếu máu",
+            "Do các thuốc điều trị COPD gây độc cho tim"
+          ],
+          "answer": 1,
+          "explain": "Thiếu oxy phế nang mạn tính là kích thích chính gây ra hiện tượng co mạch phổi để chuyển hướng dòng máu đến các vùng được thông khí tốt hơn (phản xạ co mạch do thiếu oxy). Tình trạng này kéo dài, cùng với tác động của viêm, sẽ gây tái cấu trúc thành mạch máu phổi, làm tăng vĩnh viễn sức cản mạch máu phổi và gây tăng áp động mạch phổi, buộc thất phải phải làm việc gắng sức và cuối cùng bị suy."
+        },
+        {
+          "q": "Chỉ định điều trị nào là duy nhất được chứng minh giúp cải thiện tỷ lệ sống còn ở bệnh nhân COPD có suy hô hấp mạn và tâm phế mạn?",
+          "options": [
+            "Thuốc giãn phế quản tác dụng kéo dài",
+            "Corticoid dạng hít",
+            "Thuốc lợi tiểu",
+            "Thở oxy dài hạn tại nhà (LTOT)"
+          ],
+          "answer": 3,
+          "explain": "Các nghiên cứu lớn (NOTT, MRC) đã cho thấy việc thở oxy dài hạn tại nhà (ít nhất 15 giờ/ngày) ở những bệnh nhân COPD có giảm oxy máu nặng giúp làm giảm áp lực động mạch phổi, cải thiện chức năng tim và là liệu pháp duy nhất kéo dài sự sống."
+        },
+        {
+          "q": "Tiêu chuẩn để chỉ định thở oxy dài hạn tại nhà cho bệnh nhân COPD là gì?",
+          "options": [
+            "PaO₂ ≤ 55 mmHg hoặc SpO₂ ≤ 88% khi thở khí trời, lúc nghỉ ngơi",
+            "PaO₂ từ 56-59 mmHg kèm theo bằng chứng của tâm phế mạn hoặc đa hồng cầu",
+            "Cả A và B đều đúng",
+            "Bất kỳ bệnh nhân COPD nào có khó thở"
+          ],
+          "answer": 2,
+          "explain": "Các tiêu chuẩn trên được chấp nhận rộng rãi để chỉ định LTOT, dựa trên bằng chứng từ các thử nghiệm lâm sàng đã chứng minh lợi ích sống còn ở nhóm bệnh nhân này."
+        },
+        {
+          "q": "Việc điều trị lợi tiểu ở bệnh nhân tâm phế mạn cần lưu ý điều gì?",
+          "options": [
+            "Cần dùng liều rất cao để thải dịch nhanh",
+            "Cần dùng một cách thận trọng để tránh làm giảm quá mức tiền gánh và gây tụt huyết áp",
+            "Nên ưu tiên lợi tiểu kháng aldosterone",
+            "Cả B và C đều đúng"
+          ],
+          "answer": 3,
+          "explain": "Việc dùng lợi tiểu là cần thiết để giảm các triệu chứng sung huyết do suy tim phải. Tuy nhiên, cung lượng tim của những bệnh nhân này thường phụ thuộc vào tiền gánh. Dùng lợi tiểu quá mạnh có thể làm giảm thể tích tuần hoàn, giảm tiền gánh và gây tụt huyết áp. Lợi tiểu kháng aldosterone (Spironolactone) thường được ưa thích vì nó còn có tác dụng chống lại các ảnh hưởng xấu của aldosterone lên tim và mạch máu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi, COPD trẻ không hút thuốc, khí phế thũng thùy dưới, tiền sử gia đình",
+      "body": "Bệnh nhân nam, 45 tuổi, không hút thuốc lá, được chẩn đoán COPD với biểu hiện khí phế thũng toàn tiểu thùy, ưu thế ở thùy dưới hai phổi. Bệnh nhân có tiền sử gia đình có chị gái cũng bị bệnh phổi nặng từ khi còn trẻ. Bác sĩ nghi ngờ bệnh nhân bị một bệnh lý di truyền.",
+      "questions": [
+        {
+          "q": "Bệnh lý di truyền nào là nguyên nhân có khả năng nhất gây ra COPD ở bệnh nhân này?",
+          "options": [
+            "Bệnh xơ nang (Cystic Fibrosis)",
+            "Thiếu hụt Alpha-1 Antitrypsin (AATD)",
+            "Hội chứng Marfan",
+            "Hội chứng Kartagener"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh COPD/khí phế thũng ở người trẻ (<50 tuổi), không hoặc ít hút thuốc lá, có tổn thương ưu thế thùy dưới và có tiền sử gia đình là những dấu hiệu báo động, cần phải tầm soát thiếu hụt AAT."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của khí phế thũng trong bệnh AATD là gì?",
+          "options": [
+            "Do sự phá hủy phổi bởi một quá trình viêm tự miễn",
+            "Do AAT là một protein bảo vệ phổi khỏi tác động phá hủy của enzyme neutrophil elastase. Sự thiếu hụt AAT làm cho elastase hoạt động không bị kiểm soát, gây phá hủy vách phế nang",
+            "Do sự bất thường trong cấu trúc của mô liên kết phổi",
+            "Do rối loạn chức năng của các lông chuyển đường hô hấp"
+          ],
+          "answer": 1,
+          "explain": "Alpha-1 antitrypsin là một protein được sản xuất ở gan, có vai trò chính là ức chế các enzyme protease, đặc biệt là neutrophil elastase được giải phóng từ bạch cầu trung tính trong quá trình viêm. Khi AAT bị thiếu hụt, elastase sẽ tự do phá hủy elastin, một thành phần cấu trúc quan trọng của vách phế nang, dẫn đến khí phế thũng."
+        },
+        {
+          "q": "Đặc điểm nào sau đây là gợi ý của khí phế thũng do AATD, khác với khí phế thũng do hút thuốc lá?",
+          "options": [
+            "Khí phế thũng trung tâm tiểu thùy, ưu thế thùy trên",
+            "Khí phế thũng toàn tiểu thùy, ưu thế thùy dưới",
+            "Luôn đi kèm với giãn phế quản",
+            "Không bao giờ gây tắc nghẽn đường thở"
+          ],
+          "answer": 1,
+          "explain": "Khí phế thũng do hút thuốc lá thường là dạng trung tâm tiểu thùy và ưu thế ở các thùy trên của phổi. Ngược lại, khí phế thũng trong AATD có đặc điểm kinh điển là dạng toàn tiểu thùy (ảnh hưởng đến toàn bộ tiểu thùy thứ cấp) và phân bố ưu thế ở các thùy dưới, do tưới máu ở vùng đáy phổi nhiều hơn."
+        },
+        {
+          "q": "Ngoài bệnh phổi, AATD còn có thể gây ra tổn thương ở cơ quan nào khác?",
+          "options": [
+            "Thận",
+            "Tim",
+            "Gan",
+            "Não"
+          ],
+          "answer": 2,
+          "explain": "Do đột biến gen, protein AAT bất thường không được bài tiết ra khỏi tế bào gan mà bị kẹt lại và polymer hóa bên trong tế bào. Sự tích tụ này gây độc cho tế bào gan, có thể dẫn đến viêm gan, xơ gan và ung thư gan ở một số bệnh nhân."
+        },
+        {
+          "q": "Liệu pháp điều trị đặc hiệu cho bệnh phổi do AATD là gì?",
+          "options": [
+            "Liệu pháp thay thế enzyme (truyền tĩnh mạch Alpha-1 Antitrypsin tinh chế)",
+            "Ghép phổi",
+            "Dùng Corticoid liều cao",
+            "Dùng thuốc ức chế neutrophil elastase"
+          ],
+          "answer": 0,
+          "explain": "Liệu pháp thay thế (augmentation therapy) là việc truyền tĩnh mạch AAT được tinh chế từ huyết tương người, nhằm mục đích nâng nồng độ AAT trong máu và phổi lên trên ngưỡng bảo vệ, từ đó làm chậm quá trình phá hủy phổi."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi, COPD nặng, 3 đợt cấp trong năm, bạch cầu ái toan tăng",
+      "body": "Bệnh nhân nam, 62 tuổi, bị COPD nặng, có tiền sử 3 đợt cấp phải nhập viện trong năm qua. Bệnh nhân đang được điều trị với LABA/LAMA. Xét nghiệm công thức máu cho thấy số lượng bạch cầu ái toan là 350 tế bào/µL. Bác sĩ quyết định điều chỉnh lại phác đồ điều trị dự phòng cho bệnh nhân.",
+      "questions": [
+        {
+          "q": "Bệnh nhân này được xếp vào kiểu hình (phenotype) COPD nào?",
+          "options": [
+            "Kiểu hình khí phế thũng",
+            "Kiểu hình viêm phế quản mạn",
+            "Kiểu hình có thành phần giống hen (eosinophilic phenotype)",
+            "Kiểu hình giãn phế quản"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có tiền sử nhiều đợt cấp và có tăng bạch cầu ái toan trong máu (>300 tế bào/µL). Đây là những đặc điểm chính của kiểu hình COPD có viêm tăng bạch cầu ái toan."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của kiểu hình này có đặc điểm gì?",
+          "options": [
+            "Chủ yếu là viêm do bạch cầu trung tính và đại thực bào",
+            "Có sự tham gia đáng kể của con đường viêm type 2, tương tự như trong hen phế quản, với vai trò của bạch cầu ái toan và các cytokine liên quan (IL-5, IL-13)",
+            "Do thiếu hụt Alpha-1 antitrypsin",
+            "Do nhiễm trùng mạn tính với Pseudomonas aeruginosa"
+          ],
+          "answer": 1,
+          "explain": "Một phân nhóm bệnh nhân COPD (khoảng 20-40%) có một cơ chế viêm chồng lấp với hen, được gọi là viêm type 2. Ở những bệnh nhân này, bạch cầu ái toan đóng vai trò quan trọng trong các đợt cấp và đáp ứng với điều trị corticoid."
+        },
+        {
+          "q": "Theo hướng dẫn của GOLD 2023, phác đồ điều trị tiếp theo được ưu tiên lựa chọn cho bệnh nhân này là gì?",
+          "options": [
+            "Thêm Theophylline",
+            "Thêm Roflumilast",
+            "Chuyển sang phác đồ bộ ba LABA/LAMA/ICS",
+            "Dùng kháng sinh Macrolide kéo dài"
+          ],
+          "answer": 2,
+          "explain": "GOLD 2023 khuyến cáo mạnh mẽ việc thêm ICS vào phác đồ (tạo thành bộ ba LABA/LAMA/ICS) cho những bệnh nhân COPD có nhiều đợt cấp (≥2 đợt cấp trung bình hoặc ≥1 đợt cấp nặng) VÀ có bạch cầu ái toan máu ≥ 300 tế bào/µL."
+        },
+        {
+          "q": "Tác dụng chính của Corticoid dạng hít (ICS) ở nhóm bệnh nhân này là gì?",
+          "options": [
+            "Gây giãn phế quản",
+            "Giảm tình trạng viêm do bạch cầu ái toan và làm giảm tỷ lệ các đợt cấp",
+            "Tăng cường chức năng cơ hoành",
+            "Làm loãng đàm"
+          ],
+          "answer": 1,
+          "explain": "ICS có tác dụng kháng viêm mạnh, đặc biệt là trên bạch cầu ái toan. Bằng cách ức chế quá trình viêm này, ICS giúp làm giảm tần suất và mức độ nặng của các đợt cấp ở những bệnh nhân được lựa chọn phù hợp."
+        },
+        {
+          "q": "Việc sử dụng ICS kéo dài ở bệnh nhân COPD có liên quan đến nguy cơ tăng tác dụng phụ nào?",
+          "options": [
+            "Suy thượng thận",
+            "Loãng xương",
+            "Viêm phổi",
+            "Đái tháo đường"
+          ],
+          "answer": 2,
+          "explain": "Nhiều phân tích gộp lớn đã cho thấy việc sử dụng ICS ở bệnh nhân COPD, đặc biệt là liều cao, có liên quan đến việc tăng một cách có ý nghĩa nguy cơ bị viêm phổi so với nhóm không dùng ICS. Tuy nhiên, lợi ích trong việc giảm đợt cấp ở nhóm bệnh nhân phù hợp thường vượt trội hơn nguy cơ này."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 67 tuổi, COPD rất nặng, suy dinh dưỡng, khó thở liên tục",
+      "body": "Bệnh nhân nam, 67 tuổi, bị COPD rất nặng, phải nằm tại giường, suy dinh dưỡng nặng (BMI 17 kg/m²). Bệnh nhân khó thở liên tục (mMRC 4) mặc dù đã được điều trị tối ưu bằng thuốc giãn phế quản và thở oxy tại nhà. Bệnh nhân được chỉ định tham gia một chương trình phục hồi chức năng hô hấp.",
+      "questions": [
+        {
+          "q": "Mục tiêu chính của phục hồi chức năng hô hấp (PHCNHH) là gì?",
+          "options": [
+            "Cải thiện FEV1 và chức năng phổi",
+            "Chữa khỏi bệnh COPD",
+            "Giảm triệu chứng (đặc biệt là khó thở), cải thiện khả năng gắng sức và chất lượng cuộc sống",
+            "Tăng cân"
+          ],
+          "answer": 2,
+          "explain": "PHCNHH không làm thay đổi tổn thương cấu trúc của phổi hay cải thiện FEV1. Mục tiêu của nó là phá vỡ vòng luẩn quẩn \"khó thở - giảm hoạt động - suy giảm thể chất - khó thở nhiều hơn\", giúp bệnh nhân có thể sống chung với bệnh một cách năng động hơn và có chất lượng cuộc sống tốt hơn."
+        },
+        {
+          "q": "Cơ chế nào giải thích tại sao tập luyện vận động lại giúp giảm khó thở ở bệnh nhân COPD?",
+          "options": [
+            "Nó làm tăng FEV1",
+            "Nó giúp cải thiện hiệu quả sử dụng oxy của cơ xương, giảm sản xuất lactate và CO₂, từ đó giảm nhu cầu thông khí khi gắng sức",
+            "Nó làm tăng số lượng phế nang",
+            "Nó giúp loại bỏ các vi khuẩn trong đường thở"
+          ],
+          "answer": 1,
+          "explain": "Tập luyện giúp cải thiện chức năng của các cơ xương ngoại vi, làm chúng hoạt động hiệu quả hơn, cần ít oxy hơn và tạo ra ít sản phẩm chuyển hóa hơn cho cùng một mức độ vận động. Điều này làm giảm gánh nặng lên hệ hô hấp, giúp bệnh nhân cảm thấy ít khó thở hơn."
+        },
+        {
+          "q": "Ngoài tập luyện vận động, chương trình PHCNHH toàn diện còn bao gồm những thành phần nào?",
+          "options": [
+            "Giáo dục bệnh nhân về bệnh và cách tự quản lý",
+            "Tư vấn dinh dưỡng",
+            "Hỗ trợ tâm lý",
+            "Tất cả các thành phần trên"
+          ],
+          "answer": 3,
+          "explain": "PHCNHH là một can thiệp đa chiều. Giáo dục giúp bệnh nhân hiểu về bệnh, biết cách sử dụng thuốc đúng cách và xử trí khi có đợt cấp. Tư vấn dinh dưỡng và tâm lý cũng đóng vai trò quan trọng trong việc cải thiện kết quả toàn diện."
+        },
+        {
+          "q": "Tình trạng suy dinh dưỡng và sụt cân ở bệnh nhân COPD nặng là do?",
+          "options": [
+            "Tăng tiêu hao năng lượng do tăng công thở",
+            "Giảm nhập năng lượng do khó thở khi ăn, chán ăn",
+            "Tình trạng viêm hệ thống và tác dụng dị hóa của các cytokine",
+            "Tất cả các nguyên nhân trên"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân COPD nặng ở trong một trạng thái dị hóa mạn tính. Công thở tăng lên rất nhiều, tiêu tốn một lượng lớn calo. Đồng thời, các triệu chứng như khó thở, đầy bụng sớm làm họ không thể ăn đủ. Tình trạng viêm hệ thống cũng góp phần gây teo cơ và sụt cân."
+        },
+        {
+          "q": "Lời khuyên nào về dinh dưỡng là phù hợp cho bệnh nhân này?",
+          "options": [
+            "Ăn chế độ nhiều carbohydrate để cung cấp năng lượng nhanh",
+            "Chia nhỏ bữa ăn trong ngày, ăn các bữa ăn giàu năng lượng và protein, hạn chế carbohydrate để giảm sản xuất CO₂",
+            "Chỉ uống sữa dinh dưỡng",
+            "Ăn chay hoàn toàn"
+          ],
+          "answer": 1,
+          "explain": "Chế độ ăn cho bệnh nhân COPD cần giàu calo và protein để chống lại tình trạng suy mòn. Việc chia nhỏ bữa ăn giúp tránh cảm giác quá no và khó thở sau ăn. Hạn chế lượng carbohydrate có thể giúp giảm gánh nặng thông khí, vì chuyển hóa carbohydrate tạo ra nhiều CO₂ nhất so với protein và chất béo."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 66 tuổi, COPD GOLD B, tư vấn vaccine",
+      "body": "Bệnh nhân nam, 66 tuổi, bị COPD GOLD B, đến khám định kỳ. Bác sĩ tư vấn cho bệnh nhân về việc tiêm phòng vaccine. Bệnh nhân hỏi tại sao ông cần phải tiêm vaccine cúm hàng năm và vaccine phế cầu.",
+      "questions": [
+        {
+          "q": "Lý do chính để khuyến cáo tiêm vaccine cúm hàng năm cho bệnh nhân COPD là gì?",
+          "options": [
+            "Để ngăn ngừa bệnh cúm hoàn toàn",
+            "Để giảm mức độ nặng của bệnh cúm và quan trọng hơn là để giảm nguy cơ bị đợt cấp COPD do cúm gây ra",
+            "Vì vaccine cúm cũng có tác dụng chống lại các vi khuẩn khác",
+            "Vì đây là yêu cầu của bảo hiểm y tế"
+          ],
+          "answer": 1,
+          "explain": "Nhiễm virus cúm là một trong những nguyên nhân hàng đầu gây ra các đợt cấp COPD nặng, phải nhập viện và thậm chí tử vong. Tiêm vaccine cúm hàng năm đã được chứng minh làm giảm đáng kể tần suất và mức độ nặng của các đợt cấp này."
+        },
+        {
+          "q": "Cơ chế nào giải thích tại sao nhiễm virus cúm lại thường dẫn đến bội nhiễm vi khuẩn (như phế cầu)?",
+          "options": [
+            "Virus cúm làm tổn thương biểu mô đường hô hấp, làm suy yếu hàng rào bảo vệ và bộc lộ các thụ thể cho vi khuẩn bám dính",
+            "Virus cúm làm giảm số lượng bạch cầu trong máu",
+            "Virus cúm tạo ra một môi trường pH thuận lợi cho vi khuẩn phát triển",
+            "Cả hai đều không liên quan"
+          ],
+          "answer": 0,
+          "explain": "Virus cúm phá hủy các tế bào biểu mô có lông chuyển, làm tê liệt hệ thống làm sạch của đường hô hấp. Nó cũng làm tăng biểu hiện của các phân tử mà vi khuẩn (đặc biệt là phế cầu và H. influenzae) có thể bám vào, tạo điều kiện cho một đợt bội nhiễm vi khuẩn thứ phát."
+        },
+        {
+          "q": "Có hai loại vaccine phế cầu chính được khuyến cáo cho người lớn tuổi và người có bệnh mạn tính. Đó là?",
+          "options": [
+            "PCV13 và PCV20",
+            "PPSV23 và PCV15/PCV20",
+            "BCG và Menactra",
+            "MMR và Varivax"
+          ],
+          "answer": 1,
+          "explain": "Hai loại chính là: vaccine polysaccharide phế cầu 23-valent (PPSV23) và vaccine liên hợp phế cầu (PCV), hiện có các loại 15-valent (PCV15) và 20-valent (PCV20). Vaccine liên hợp tạo ra một đáp ứng miễn dịch mạnh mẽ hơn."
+        },
+        {
+          "q": "Theo khuyến cáo của CDC (Hoa Kỳ), một người lớn > 65 tuổi chưa từng tiêm vaccine phế cầu trước đây nên được tiêm như thế nào?",
+          "options": [
+            "Chỉ cần tiêm 1 liều PPSV23",
+            "Chỉ cần tiêm 1 liều PCV20",
+            "Tiêm 1 liều PCV15 sau đó 1 năm tiêm 1 liều PPSV23",
+            "Cả B và C đều là các lựa chọn hợp lý"
+          ],
+          "answer": 3,
+          "explain": "Các khuyến cáo mới nhất của ACIP (CDC) đưa ra hai lựa chọn cho người lớn ≥ 65 tuổi: hoặc tiêm một liều PCV20 duy nhất, hoặc tiêm một liều PCV15 sau đó cách ít nhất 1 năm tiêm một liều PPSV23."
+        },
+        {
+          "q": "Ngoài cúm và phế cầu, bệnh nhân COPD còn được khuyến cáo tiêm vaccine nào khác?",
+          "options": [
+            "Vaccine phòng COVID-19",
+            "Vaccine phòng ho gà-bạch hầu-uốn ván (Tdap)",
+            "Vaccine phòng Herpes Zoster (bệnh zona)",
+            "Tất cả các vaccine trên"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân COPD được coi là nhóm nguy cơ cao và cần được tiêm phòng đầy đủ tất cả các vaccine được khuyến cáo cho người lớn, bao gồm COVID-19, Tdap (đặc biệt để phòng ho gà), và vaccine zona (vì nguy cơ mắc zona tăng ở người có bệnh phổi mạn tính)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi, COPD rất nặng, giảm oxy máu mạn tính, đa hồng cầu",
+      "body": "Bệnh nhân nam, 70 tuổi, bị COPD rất nặng, nhập viện vì đợt cấp. Sau khi điều trị ổn định, bệnh nhân được đánh giá lại toàn diện. Bệnh nhân khó thở nhiều khi đi lại, phải dừng lại sau khoảng 50m. Đo SpO₂ lúc nghỉ, thở khí trời là 87%. Bệnh nhân được chỉ định đo khí máu động mạch.",
+      "questions": [
+        {
+          "q": "Tình trạng giảm oxy máu mạn tính ở bệnh nhân này được gọi là gì?",
+          "options": [
+            "Suy hô hấp cấp",
+            "Suy hô hấp mạn tính",
+            "Hội chứng ngưng thở khi ngủ",
+            "Tăng áp động mạch phổi"
+          ],
+          "answer": 1,
+          "explain": "Suy hô hấp mạn được định nghĩa bởi sự bất thường của khí máu động mạch kéo dài, thường là giảm PaO₂ có hoặc không có tăng PaCO₂."
+        },
+        {
+          "q": "Cơ chế chính gây giảm oxy máu ở bệnh nhân COPD là gì?",
+          "options": [
+            "Giảm thông khí phế nang do yếu cơ hô hấp",
+            "Rối loạn khuếch tán khí do màng phế nang-mao mạch dày lên",
+            "Mất cân xứng thông khí - tưới máu (V/Q mismatch)",
+            "Shunt trong phổi"
+          ],
+          "answer": 2,
+          "explain": "Đây là cơ chế quan trọng nhất. Trong COPD, có những vùng phổi được tưới máu tốt nhưng thông khí kém (do tắc nghẽn đường thở) và những vùng được thông khí tốt nhưng tưới máu kém (do phá hủy giường mao mạch trong khí phế thũng). Sự không phù hợp này làm cho quá trình trao đổi khí không hiệu quả và dẫn đến giảm oxy máu."
+        },
+        {
+          "q": "Hậu quả huyết học lâu dài của tình trạng thiếu oxy mạn tính là gì?",
+          "options": [
+            "Thiếu máu đẳng sắc đẳng bào",
+            "Đa hồng cầu thứ phát",
+            "Giảm tiểu cầu",
+            "Tăng bạch cầu ái toan"
+          ],
+          "answer": 1,
+          "explain": "Đa hồng cầu thứ phát, biểu hiện bằng tăng Hemoglobin và Hematocrit, là một cơ chế bù trừ của cơ thể đối với tình trạng thiếu oxy mạn tính."
+        },
+        {
+          "q": "Cơ chế gây ra đa hồng cầu thứ phát là gì?",
+          "options": [
+            "Do tình trạng viêm mạn tính kích thích tủy xương",
+            "Do thiếu oxy mạn tính kích thích thận tăng sản xuất erythropoietin (EPO), EPO kích thích tủy xương tăng sản xuất hồng cầu",
+            "Do mất nước mạn tính gây cô đặc máu",
+            "Do đột biến gen JAK2"
+          ],
+          "answer": 1,
+          "explain": "Thận là cơ quan cảm nhận tình trạng thiếu oxy của cơ thể. Khi thiếu oxy kéo dài, thận sẽ tăng tiết EPO. EPO là hormone chính có tác dụng kích thích dòng hồng cầu trong tủy xương tăng sinh và biệt hóa, nhằm mục đích tạo ra nhiều hồng cầu hơn để tăng khả năng vận chuyển oxy của máu."
+        },
+        {
+          "q": "Đa hồng cầu thứ phát có thể dẫn đến biến chứng nào?",
+          "options": [
+            "Tăng độ quánh của máu, làm tăng nguy cơ các biến cố huyết khối (đột quỵ, nhồi máu cơ tim)",
+            "Giảm huyết áp",
+            "Dễ bị chảy máu",
+            "Không có biến chứng nào đáng kể"
+          ],
+          "answer": 0,
+          "explain": "Mặc dù là một cơ chế bù trừ, tình trạng đa hồng cầu quá mức lại gây hại. Số lượng hồng cầu tăng cao làm máu trở nên \"đặc\" hơn, tăng độ quánh, làm cản trở dòng chảy trong các vi mạch và làm tăng nguy cơ hình thành các cục máu đông."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 68 tuổi, COPD giai đoạn cuối, không muốn điều trị hồi sức",
+      "body": "Bệnh nhân nữ, 68 tuổi, bị COPD giai đoạn cuối, phụ thuộc oxy. Bệnh nhân bị khó thở liên tục ngay cả khi nghỉ ngơi, mệt mỏi, chán ăn và trầm cảm. Bệnh nhân đã nhập viện 4 lần trong 6 tháng qua và bày tỏ nguyện vọng không muốn đặt nội khí quản hay điều trị hồi sức tích cực nữa. Bác sĩ hội chẩn với đội chăm sóc giảm nhẹ.",
+      "questions": [
+        {
+          "q": "Mục tiêu chính của chăm sóc giảm nhẹ cho bệnh nhân này là gì?",
+          "options": [
+            "Chữa khỏi bệnh COPD",
+            "Kéo dài sự sống bằng mọi giá",
+            "Cải thiện chất lượng cuộc sống bằng cách kiểm soát tối ưu các triệu chứng và hỗ trợ tâm lý, tinh thần cho bệnh nhân và gia đình",
+            "Chỉ tập trung vào việc giảm đau"
+          ],
+          "answer": 2,
+          "explain": "Chăm sóc giảm nhẹ không nhằm mục đích chữa khỏi bệnh mà là cải thiện chất lượng sống cho bệnh nhân và gia đình khi đối mặt với một bệnh lý đe dọa tính mạng, thông qua việc phòng ngừa và làm giảm các gánh nặng về thể chất, tâm lý và tinh thần."
+        },
+        {
+          "q": "Đối với triệu chứng khó thở dai dẳng, kháng trị ở giai đoạn cuối, loại thuốc nào có thể được sử dụng với liều thấp để làm giảm cảm giác khó thở?",
+          "options": [
+            "Thuốc giãn phế quản liều cao",
+            "Thuốc lợi tiểu",
+            "Opioid (ví dụ: Morphin)",
+            "Thuốc kháng sinh"
+          ],
+          "answer": 2,
+          "explain": "Opioid liều thấp đường uống hoặc tiêm dưới da là liệu pháp đã được chứng minh có hiệu quả trong việc làm giảm cảm giác khó thở dai dẳng ở bệnh nhân COPD và các bệnh lý mạn tính giai đoạn cuối khác."
+        },
+        {
+          "q": "Cơ chế tác dụng của Morphin trong việc giảm cảm giác khó thở là gì?",
+          "options": [
+            "Gây giãn phế quản",
+            "Tăng cường sức co bóp của cơ hoành",
+            "Tác động lên các thụ thể opioid ở não, làm giảm nhận thức và đáp ứng lo âu với tình trạng khó thở, giảm nhạy cảm của trung tâm hô hấp",
+            "Cải thiện oxy hóa máu"
+          ],
+          "answer": 2,
+          "explain": "Morphin không cải thiện chức năng phổi, nhưng nó tác động lên hệ thần kinh trung ương, làm thay đổi cảm nhận của não bộ về \"cơn đói không khí\". Nó cũng có tác dụng giải lo âu, giúp phá vỡ vòng xoắn \"khó thở - lo lắng - khó thở hơn\"."
+        },
+        {
+          "q": "Việc thảo luận và lập một kế hoạch chăm sóc trước (Advance Care Planning) cho bệnh nhân có ý nghĩa gì?",
+          "options": [
+            "Giúp tôn trọng mong muốn và giá trị của bệnh nhân về việc chăm sóc y tế ở giai đoạn cuối đời",
+            "Giúp gia đình và nhân viên y tế có một định hướng rõ ràng khi bệnh nhân không còn khả năng tự quyết định",
+            "Giúp tránh các can thiệp y tế không mong muốn và không phù hợp",
+            "Tất cả các ý nghĩa trên"
+          ],
+          "answer": 3,
+          "explain": "ACP là một quá trình thảo luận giúp bệnh nhân suy nghĩ và nói ra những mong muốn của mình về điều trị y tế trong tương lai. Nó đảm bảo quyền tự quyết của bệnh nhân và giúp tránh những xung đột hoặc sự không chắc chắn trong việc đưa ra quyết định ở những thời điểm khó khăn."
+        },
+        {
+          "q": "Tình trạng lo âu và trầm cảm ở bệnh nhân COPD giai đoạn cuối nên được xử trí như thế nào?",
+          "options": [
+            "Được xem là một phản ứng bình thường và không cần can thiệp",
+            "Cần được sàng lọc và điều trị tích cực bằng các biện pháp tâm lý và/hoặc thuốc chống trầm cảm, giải lo âu",
+            "Chỉ cần dùng thuốc an thần khi bệnh nhân kích động",
+            "Tập trung hoàn toàn vào các triệu chứng thể chất"
+          ],
+          "answer": 1,
+          "explain": "Lo âu và trầm cảm là những bệnh đồng mắc rất phổ biến và ảnh hưởng nghiêm trọng đến chất lượng cuộc sống, tuân thủ điều trị và tiên lượng của bệnh nhân COPD. Chúng cần được coi là một vấn đề y khoa thực sự và được điều trị tích cực bằng các liệu pháp phù hợp."
+        }
+      ]
+    }
+  ]
+}
