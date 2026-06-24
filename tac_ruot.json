@@ -1,0 +1,620 @@
+{
+  "name": "Tắc ruột",
+  "description": "8 case lâm sàng về tắc ruột với các nguyên nhân khác nhau (dính, thoát vị, xoắn sigma, tắc nghẹt, xoắn manh tràng, sỏi mật, hội chứng Ogilvie, bã thức ăn, lồng ruột)",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Tiêu hóa",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 45 tuổi, đau bụng cơn sau mổ 10 năm",
+      "body": "Bệnh nhân nam 45 tuổi, tiền sử mổ viêm phúc mạc ruột thừa cách 10 năm. Vào viện vì <b>đau bụng cơn, nôn và bí trung đại tiện</b> ngày thứ 2. <br><br><b>Bệnh sử:</b> Đau bụng từng cơn vùng quanh rốn, mỗi cơn kéo dài 30 giây đến 1 phút, ngoài cơn dịu, kèm nôn ra thức ăn và dịch xanh rêu. <br><br><b>Khám:</b> Sẹo mổ cũ đường trắng bên phải, bụng mềm, gõ vang, nghe thấy tiếng nhu động ruột tăng âm sắc (kim khí). Dấu hiệu rắn bò (+). Huyết động ổn định, không sốt. <br><br><b>X-quang bụng:</b> Có nhiều mức nước hơi tập trung giữa bụng, chân rộng vòm thấp, xếp thành bậc thang.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng chính xác nhất:",
+          "options": [
+            "A. Tắc ruột non cơ học do dính",
+            "B. Tắc đại tràng do u",
+            "C. Liệt ruột cơ năng",
+            "D. Viêm tụy cấp"
+          ],
+          "answer": 0,
+          "explain": "Tiền sử mổ cũ + Tam chứng tắc ruột (Đau, Nôn, Bí) + Rắn bò/Tiếng kim khí → <b>Tắc ruột cơ học</b>. Mức nước hơi tập trung giữa bụng → Tắc ruột non. Nguyên nhân hàng đầu là <b>Dính (Adhesions)</b>."
+        },
+        {
+          "q": "Đặc điểm hình ảnh X-quang \"chân rộng vòm thấp, xếp bậc thang từ TB hạ sườn trái xuống hố chậu phải\" là điển hình của:",
+          "options": [
+            "A. Tắc hỗng tràng",
+            "B. Tắc hồi tràng",
+            "C. Tắc đại tràng",
+            "D. Xoắn đại tràng sigma"
+          ],
+          "answer": 0,
+          "explain": "<b>Quy luật:</b> Tắc càng cao (Hỗng tràng) thì chân mức nước hơi càng rộng, vòm càng thấp. Tắc thấp (Hồi tràng/Đại tràng) thì chân hẹp vòm cao."
+        },
+        {
+          "q": "Bước xử trí đầu tiên (Initial Management) quan trọng nhất tại cấp cứu:",
+          "options": [
+            "A. Mổ cấp cứu gỡ dính ngay",
+            "B. Đặt sonde dạ dày (NGT) hút dịch + Bù nước điện giải",
+            "C. Cho thuốc tăng nhu động ruột",
+            "D. Thụt tháo đại tràng"
+          ],
+          "answer": 1,
+          "explain": "\"<b>Drip and Suck</b>\" (Truyền dịch và Hút): Đặt sonde giải áp dạ dày giúp giảm nôn, giảm nguy cơ viêm phổi hít và giảm áp lực ruột. Bù điện giải là bắt buộc do nôn mất dịch."
+        },
+        {
+          "q": "Tiêu chuẩn để chỉ định điều trị bảo tồn (Conservative treatment) thành công ở bệnh nhân tắc ruột dính sau mổ là:",
+          "options": [
+            "A. Bệnh nhân hết đau, có trung tiện, bụng xẹp, X-quang hết mức nước hơi",
+            "B. Chỉ cần hết nôn",
+            "C. Chỉ cần giảm đau",
+            "D. Bạch cầu giảm"
+          ],
+          "answer": 0,
+          "explain": "Dấu hiệu <b>thông ruột (Resolution)</b>: Có trung tiện (Flatus) là dấu hiệu quan trọng nhất đánh giá lưu thông tái lập."
+        },
+        {
+          "q": "Thời gian điều trị bảo tồn tối đa (theo Guideline Bologna) trước khi quyết định chuyển mổ nếu không đỡ là:",
+          "options": [
+            "A. 6 giờ",
+            "B. 12 – 24 giờ (tối đa 48-72 giờ nếu dùng thuốc cản quang tan trong nước)",
+            "C. 1 tuần",
+            "D. 30 phút"
+          ],
+          "answer": 1,
+          "explain": "Nếu bảo tồn 24h (hoặc tối đa 72h theo một số quan điểm cũ) không cải thiện → <b>Mổ</b> để tránh nguy cơ <b>nghẹt/hoại tử</b> ruột."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 80 tuổi, khối phồng vùng bẹn đùi phải",
+      "body": "Bệnh nhân nữ 80 tuổi, thể trạng gầy, vào viện vì <b>đau vùng bẹn đùi phải và nôn mửa</b>. <br><br><b>Bệnh sử:</b> Bệnh nhân thấy đau đột ngột vùng bẹn phải, sờ thấy khối phồng, đau cứng, không đẩy lên được. Đau bụng lan toả, bí trung đại tiện. <br><br><b>Khám:</b> Khối phồng vùng dưới nếp lằn bẹn phải, kích thước 3cm, cứng chắc, ấn đau chói, da vùng khối phồng nề đỏ. Bụng chướng nhẹ. <br><br><b>Xét nghiệm:</b> WBC 16 G/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng:",
+          "options": [
+            "A. Thoát vị bẹn nghẹt",
+            "B. Thoát vị đùi nghẹt",
+            "C. Viêm hạch bẹn",
+            "D. Áp xe cơ thắt lưng chậu"
+          ],
+          "answer": 1,
+          "explain": "Vị trí <b>dưới nếp lằn bẹn</b>, ở <b>nữ giới già</b> → Gợi ý <b>Thoát vị đùi</b>. Khối cứng đau, da đỏ → <b>Nghẹt</b>."
+        },
+        {
+          "q": "Đặc điểm giải phẫu nào khiến Thoát vị đùi (Femoral Hernia) có tỷ lệ nghẹt (Strangulation) cao nhất?",
+          "options": [
+            "A. Do ống đùi dài",
+            "B. Do cổ túi thoát vị hẹp và dây chằng Gimbernat sắc bén chèn ép",
+            "C. Do thường gặp ở nam giới",
+            "D. Do tạng thoát vị là đại tràng"
+          ],
+          "answer": 1,
+          "explain": "Vòng đùi (Femoral ring) rất hẹp và cứng, giới hạn bởi dây chằng bẹn (trước), xương mu (sau), tĩnh mạch đùi (ngoài) và <b>dây chằng Gimbernat (trong)</b> → Nguy cơ nghẹt <b>cực cao (40-50%)</b>."
+        },
+        {
+          "q": "Thái độ xử trí ĐÚNG NHẤT trong trường hợp này:",
+          "options": [
+            "A. Cố gắng đẩy khối thoát vị lên (Taxis maneuver) rồi mổ phiên",
+            "B. Dùng thuốc giảm đau, giãn cơ rồi đẩy lên",
+            "C. Mổ cấp cứu ngay lập tức, tuyệt đối KHÔNG cố đẩy lên",
+            "D. Theo dõi 24 giờ"
+          ],
+          "answer": 2,
+          "explain": "Khi đã <b>nghẹt</b> (đau, đỏ, sưng), cố đẩy lên (Taxis) có thể đẩy cả khối ruột <b>hoại tử vào bụng</b> (\"Reduction en masse\") hoặc làm vỡ ruột → <b>Mổ cấp cứu là bắt buộc</b>."
+        },
+        {
+          "q": "Trong khi mổ thoát vị đùi nghẹt, nếu thấy quai ruột tím đen nhưng sau khi đắp nước ấm 15 phút hồng trở lại, có nhu động, mạch mạc treo đập tốt. Xử trí:",
+          "options": [
+            "A. Cắt đoạn ruột",
+            "B. Bảo tồn ruột, đẩy vào ổ bụng và khâu phục hồi thành bụng",
+            "C. Làm hậu môn nhân tạo",
+            "D. Cắt toàn bộ ruột non"
+          ],
+          "answer": 1,
+          "explain": "Tiêu chuẩn đánh giá <b>ruột sống (Viability)</b>: <b>Màu sắc hồng trở lại, có nhu động, mạch mạc treo đập</b> → Nếu đạt → <b>Bảo tồn</b>."
+        },
+        {
+          "q": "Đường mổ thường dùng để xử lý thoát vị đùi nghẹt:",
+          "options": [
+            "A. Đường McBurney",
+            "B. Đường chéo bẹn hoặc đường dọc đùi (Lockwood) hoặc đường Lotheissen",
+            "C. Đường trắng giữa trên rốn",
+            "D. Đường Pfannenstiel"
+          ],
+          "answer": 1,
+          "explain": "<b>Cần đường mổ tiếp cận được cổ túi thoát vị</b> để giải phóng tạng nghẹt."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi, bụng chướng căng to, X-quang hình hạt cà phê",
+      "body": "Bệnh nhân nam 70 tuổi, tiền sử <b>táo bón mạn tính</b>, bệnh Parkinson nằm tại giường. Vào viện vì <b>bụng chướng căng rất to nhưng đau ít</b>. <br><br><b>X-quang bụng:</b> Hình ảnh quai ruột giãn rất lớn hình chữ U ngược, chân quay xuống tiểu khung, đỉnh lên tới vòm hoành trái, dấu hiệu \"<b>hạt cà phê</b>\" (Coffee bean sign).",
+      "questions": [
+        {
+          "q": "Chẩn đoán hình ảnh đặc trưng này gợi ý:",
+          "options": [
+            "A. Xoắn manh tràng (Cecal volvulus)",
+            "B. Xoắn đại tràng sigma (Sigmoid volvulus)",
+            "C. Tắc ruột non",
+            "D. Giãn dạ dày cấp"
+          ],
+          "answer": 1,
+          "explain": "Dấu hiệu <b>Hạt cà phê (Coffee bean)</b> hoặc <b>Ống săm xe (Inner tube)</b> hướng về phía hoành trái là <b>điển hình của Xoắn Sigma</b>."
+        },
+        {
+          "q": "Yếu tố thuận lợi gây xoắn đại tràng sigma:",
+          "options": [
+            "A. Đại tràng sigma ngắn, mạc treo rộng",
+            "B. Đại tràng sigma dài (Dolichosigmoid), mạc treo hẹp chân, táo bón mạn tính",
+            "C. Tiền sử mổ đẻ",
+            "D. Tiêu chảy kéo dài"
+          ],
+          "answer": 1,
+          "explain": "<b>Sigma dài cuộn lại trên một chân mạc treo ngắn</b> dễ gây xoắn trục."
+        },
+        {
+          "q": "Bước xử trí ĐẦU TIÊN (Non-operative) được khuyến cáo cho xoắn sigma KHÔNG có dấu hiệu hoại tử/viêm phúc mạc:",
+          "options": [
+            "A. Mổ cấp cứu tháo xoắn",
+            "B. Tháo xoắn bằng nội soi đại tràng ống mềm (Flexible Sigmoidoscopy) và đặt ống thông hậu môn (Rectal tube)",
+            "C. Thụt tháo bằng nước",
+            "D. Cho thuốc nhuận tràng"
+          ],
+          "answer": 1,
+          "explain": "<b>Tháo xoắn nội soi (Endoscopic decompression) thành công ở 70-80%</b> trường hợp, giúp chuyển một cuộc mổ cấp cứu (nguy cơ cao) thành mổ phiên."
+        },
+        {
+          "q": "Nếu tháo xoắn qua nội soi thành công, thái độ tiếp theo là gì?",
+          "options": [
+            "A. Cho bệnh nhân xuất viện ngay",
+            "B. Lên kế hoạch mổ cắt đại tràng sigma bán cấp (trong cùng đợt nằm viện hoặc sau vài ngày) vì tỷ lệ tái phát rất cao",
+            "C. Không cần làm gì thêm",
+            "D. Chỉ cần uống thuốc chống táo bón"
+          ],
+          "answer": 1,
+          "explain": "<b>Tỷ lệ tái xoắn (Recurrence) lên tới 40-90%</b> nếu không phẫu thuật cắt bỏ đoạn ruột dài."
+        },
+        {
+          "q": "Dấu hiệu nào gợi ý xoắn đã gây hoại tử ruột (Strangulation), cần chuyển mổ mở ngay?",
+          "options": [
+            "A. Nội soi thấy niêm mạc tím đen/loét, dịch máu chảy ra",
+            "B. Bụng chướng to",
+            "C. Bệnh nhân không trung tiện được",
+            "D. X-quang có hạt cà phê"
+          ],
+          "answer": 0,
+          "explain": "Nếu soi thấy <b>hoại tử (Gangrene)</b> → Dừng thủ thuật, chuyển mổ cắt đoạn đại tràng (thường làm Hartmann) <b>ngay lập tức</b>."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 60 tuổi, đau bụng cơn, quai ruột giãn, Lactate tăng, thành ruột ngấm thuốc kém",
+      "body": "Bệnh nhân nữ 60 tuổi, vào viện vì <b>đau bụng cơn quanh rốn, nôn nhiều dịch vàng</b>. Bụng chướng, không có phản ứng thành bụng. <br><br><b>Tiền sử:</b> Mổ cắt tử cung toàn bộ. <br><br><b>Xét nghiệm:</b> WBC 18 G/L, <b>Lactate máu 4.5 mmol/L</b>. <br><br><b>CT scan:</b> Quai ruột non giãn, <b>thành ruột dày, ngấm thuốc kém (reduced enhancement)</b>, có dịch tự do ổ bụng, hình ảnh \"mỏ chim\" tại điểm chuyển tiếp.",
+      "questions": [
+        {
+          "q": "Dấu hiệu Lactate tăng cao và thành ruột ngấm thuốc kém gợi ý thể lâm sàng nào của tắc ruột?",
+          "options": [
+            "A. Tắc ruột đơn thuần (Simple obstruction)",
+            "B. Tắc ruột nghẹt (Strangulated obstruction) gây thiếu máu ruột",
+            "C. Tắc ruột do bã thức ăn",
+            "D. Liệt ruột"
+          ],
+          "answer": 1,
+          "explain": "<b>Lactate là marker của chuyển hóa kỵ khí</b> (thiếu máu mô). Thành ruột không ngấm thuốc cản quang = <b>Máu không tới được → Hoại tử/Nghẹt</b>."
+        },
+        {
+          "q": "Cơ chế chính gây hoại tử ruột trong tắc ruột nghẹt:",
+          "options": [
+            "A. Tăng áp lực trong lòng ruột làm ngưng trệ tuần hoàn tĩnh mạch, sau đó là động mạch",
+            "B. Do vi khuẩn ăn mòn thành ruột",
+            "C. Do dịch vị acid ăn mòn",
+            "D. Do ruột bị kéo dài ra"
+          ],
+          "answer": 0,
+          "explain": "<b>Áp lực tĩnh mạch thấp bị chèn ép trước</b> → Ứ huyết, phù nề → Tăng áp lực mô → <b>Chèn ép động mạch → Thiếu máu hoại tử</b>."
+        },
+        {
+          "q": "Thái độ xử trí với trường hợp này (Tắc ruột nghẹt):",
+          "options": [
+            "A. Đặt sonde dạ dày hút và theo dõi 24h (Bảo tồn)",
+            "B. Bơm Gastrografin để chẩn đoán",
+            "C. Hồi sức tích cực ngắn và Mổ cấp cứu NGAY LẬP TỨC",
+            "D. Chụp mạch"
+          ],
+          "answer": 2,
+          "explain": "<b>Tắc ruột nghẹt/nghi ngờ hoại tử là CHỐNG CHỈ ĐỊNH</b> của điều trị bảo tồn. <b>Mổ chậm trễ làm tăng tỷ lệ tử vong</b> và độ dài đoạn ruột phải cắt."
+        },
+        {
+          "q": "Hình ảnh \"quai ruột đóng kín\" (Closed-loop obstruction) trên CT scan có hình dáng gì đặc trưng?",
+          "options": [
+            "A. Hình chữ C hoặc chữ U, mạch máu mạc treo hội tụ về một điểm (Whirl sign)",
+            "B. Hình mức nước hơi",
+            "C. Hình chuỗi tràng hạt",
+            "D. Hình bia bắn"
+          ],
+          "answer": 0,
+          "explain": "<b>Closed-loop (Quai kín):</b> Ruột bị tắc ở 2 đầu (ví dụ xoắn, dây chằng chẹn). Hình ảnh <b>chữ U/C hoặc xoáy nước (Whirl sign)</b> trên CT."
+        },
+        {
+          "q": "Trong mổ, nếu cắt bỏ đoạn ruột non hoại tử dài (> 200cm), bệnh nhân có nguy cơ mắc hội chứng gì sau này?",
+          "options": [
+            "A. Hội chứng ruột ngắn (Short Bowel Syndrome)",
+            "B. Hội chứng Dumping",
+            "C. Hội chứng Mallory-Weiss",
+            "D. Hội chứng Ogilvie"
+          ],
+          "answer": 0,
+          "explain": "Ruột non còn lại < 200cm (hoặc ít hơn tuỳ đoạn) dẫn đến không hấp thu đủ dinh dưỡng/nước → <b>Hội chứng ruột ngắn</b>."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi, thay đổi thói quen đại tiện, sụt cân, u đại tràng sigma",
+      "body": "Bệnh nhân nam 65 tuổi, <b>thay đổi thói quen đại tiện 3 tháng nay</b> (táo bón xen kẽ lỏng), <b>sụt 5kg</b>. Nay vào viện vì <b>đau bụng chướng căng, bí trung đại tiện</b>. <br><br><b>X-quang:</b> Khung đại tràng giãn to chứa đầy hơi, <b>Manh tràng giãn 10cm</b>. Không có hơi trong trực tràng. <br><br><b>CT scan:</b> Khối u sùi gây hẹp lòng đại tràng Sigma.",
+      "questions": [
+        {
+          "q": "Cơ chế gây giãn to manh tràng trong khi u nằm ở đại tràng Sigma là gì?",
+          "options": [
+            "A. Do van hồi - manh tràng đóng kín (Competent ileocecal valve)",
+            "B. Do van hồi - manh tràng mở",
+            "C. Do ruột non đẩy hơi xuống",
+            "D. Do u di căn manh tràng"
+          ],
+          "answer": 0,
+          "explain": "<b>Tắc quai kín (Closed-loop):</b> U tắc phía dưới, van hồi manh tràng đóng phía trên (hơi không trào ngược lên ruột non được) → <b>Áp lực tăng nhanh trong khung đại tràng</b>."
+        },
+        {
+          "q": "Định luật Laplace áp dụng trong tắc đại tràng giải thích tại sao Manh tràng dễ vỡ nhất:",
+          "options": [
+            "A. Sức căng thành ruột tỷ lệ thuận với Đường kính (T = P x r). Manh tràng có đường kính lớn nhất nên chịu sức căng lớn nhất",
+            "B. Manh tràng có thành mỏng nhất",
+            "C. Manh tràng nằm thấp nhất",
+            "D. Manh tràng chứa nhiều vi khuẩn nhất"
+          ],
+          "answer": 0,
+          "explain": "<b>Định luật Laplace: Tension = Pressure x Radius.</b> Cùng một áp lực, đoạn nào bán kính lớn (Manh tràng) sẽ chịu sức căng lớn nhất → <b>Vỡ đầu tiên</b> (Dù tắc ở sigma)."
+        },
+        {
+          "q": "Ngưỡng đường kính manh tràng trên phim chụp cảnh báo nguy cơ vỡ sắp xảy ra (Impending perforation):",
+          "options": [
+            "A. > 6 cm",
+            "B. > 9 cm (hoặc > 10-12 cm tùy tài liệu, nhưng >9cm là mốc báo động)",
+            "C. > 3 cm",
+            "D. > 20 cm"
+          ],
+          "answer": 1,
+          "explain": "Guideline thường lấy mốc <b>10-12cm</b>, nhưng <b>>9cm là dấu hiệu nguy hiểm cần can thiệp</b>."
+        },
+        {
+          "q": "Phẫu thuật Hartmann (thường dùng cho u đại tràng trái tắc ruột cấp cứu) bao gồm:",
+          "options": [
+            "A. Cắt đoạn đại tràng chứa u, đóng mỏm trực tràng, đưa đầu trên ra làm hậu môn nhân tạo",
+            "B. Cắt đoạn đại tràng và nối ngay",
+            "C. Làm hậu môn nhân tạo trên dòng (đại tràng ngang) mà không cắt u",
+            "D. Cắt toàn bộ đại tràng"
+          ],
+          "answer": 0,
+          "explain": "<b>Hartmann's procedure:</b> Phẫu thuật kinh điển cho cấp cứu đại tràng trái (tránh nối trong môi trường bẩn)."
+        },
+        {
+          "q": "Tại sao trong mổ cấp cứu tắc ruột đại tràng trái do u (ruột chưa chuẩn bị, giãn to, bẩn), người ta hạn chế nối ngay (Primary anastomosis)?",
+          "options": [
+            "A. Vì nguy cơ bục miệng nối (Anastomotic leak) cao",
+            "B. Vì tốn thời gian",
+            "C. Vì thiếu chỉ khâu",
+            "D. Vì không tìm thấy u"
+          ],
+          "answer": 0,
+          "explain": "Ruột giãn, phù nề, chứa nhiều phân → Nối ngay dễ bục. Tuy nhiên, gần đây có thể Lavage (rửa ruột trên bàn mổ) và nối ngay ở bệnh nhân chọn lọc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 85 tuổi, đau bụng nôn mửa, X-quang có khí đường mật",
+      "body": "Bệnh nhân nữ 85 tuổi, <b>đau bụng nôn mửa 3 ngày</b>. Bệnh nhân lú lẫn. Khám bụng chướng. <br><br><b>X-quang bụng:</b> Có <b>tắc ruột non (Mức nước hơi chân rộng)</b>. Đặc biệt thấy <b>hình ảnh khí trong đường mật (Aerobilia)</b>.",
+      "questions": [
+        {
+          "q": "Tam chứng Rigler trên X-quang gợi ý chẩn đoán gì?",
+          "options": [
+            "A. Tắc ruột do sỏi mật (Gallstone Ileus)",
+            "B. Tắc ruột do bã thức ăn",
+            "C. Viêm túi mật khí sinh",
+            "D. Giun chui ống mật"
+          ],
+          "answer": 0,
+          "explain": "Tam chứng Rigler gợi ý <b>Tắc ruột do sỏi mật (Gallstone Ileus)</b>."
+        },
+        {
+          "q": "Tam chứng Rigler bao gồm:",
+          "options": [
+            "A. Tắc ruột non cơ học + Khí đường mật + Hình ảnh sỏi cản quang lạc chỗ (thường ở hố chậu phải)",
+            "B. Tắc ruột + Sốt + Vàng da",
+            "C. Đau + Nôn + Bí trung tiện",
+            "D. Khí đường mật + Khí tĩnh mạch cửa + Khí tự do"
+          ],
+          "answer": 0,
+          "explain": "<b>Tam chứng Rigler (Pneumobilia, Bowel obstruction, Ectopic gallstone)</b> đặc hiệu cho Gallstone Ileus."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của Tắc ruột do sỏi mật:",
+          "options": [
+            "A. Sỏi hình thành trong ruột",
+            "B. Sỏi từ túi mật qua lỗ rò túi mật - tá tràng (Cholecystoduodenal fistula) rơi vào ruột và kẹt lại ở đoạn ruột hẹp (thường là hồi tràng)",
+            "C. Sỏi từ ống mật chủ rơi xuống",
+            "D. Sỏi qua lỗ rò đại tràng"
+          ],
+          "answer": 1,
+          "explain": "<b>Viêm túi mật mạn tính</b> gây dính và loét thủng vào tá tràng tạo đường rò. Sỏi lớn (>2.5cm) chui qua rò xuống ruột."
+        },
+        {
+          "q": "Xử trí phẫu thuật tiêu chuẩn cho bệnh nhân già yếu, nhiều bệnh nền bị tắc ruột do sỏi mật:",
+          "options": [
+            "A. Mở ruột lấy sỏi (Enterolithotomy) đơn thuần",
+            "B. Mở ruột lấy sỏi + Cắt túi mật + Đóng lỗ rò ngay thì đầu",
+            "C. Cắt đoạn ruột",
+            "D. Tán sỏi qua nội soi"
+          ],
+          "answer": 0,
+          "explain": "<b>Mục tiêu chính là giải quyết tắc ruột cứu sống bệnh nhân</b> (Relieve obstruction). Phẫu thuật \"One-stage\" (lấy sỏi + cắt túi mật + đóng rò) quá nặng nề cho người già → Tử vong cao. Chỉ nên <b>Mở ruột lấy sỏi</b> (Enterolithotomy), lỗ rò thường tự bít hoặc xử lý thì 2 nếu có triệu chứng."
+        },
+        {
+          "q": "Vị trí sỏi thường bị kẹt nhất gây tắc ruột:",
+          "options": [
+            "A. Tá tràng",
+            "B. Hỗng tràng",
+            "C. Đoạn cuối hồi tràng (cách van Bauhin 60cm)",
+            "D. Đại tràng"
+          ],
+          "answer": 2,
+          "explain": "Đoạn cuối hồi tràng là <b>nơi hẹp nhất của ruột non</b> và nhu động kém hơn hỗng tràng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi, sau phẫu thuật thay khớp háng 3 ngày, bụng chướng không đau",
+      "body": "Bệnh nhân nam 60 tuổi, vừa phẫu thuật <b>thay khớp háng 3 ngày</b>. Hiện tại <b>bụng chướng căng dần, không đau quặn, vẫn trung tiện được ít</b>. <br><br><b>X-quang:</b> <b>Giãn to toàn bộ khung đại tràng và manh tràng</b>, không thấy điểm tắc cơ học (bơm hơi trực tràng thấy thuốc lên hết khung đại tràng).",
+      "questions": [
+        {
+          "q": "Chẩn đoán:",
+          "options": [
+            "A. Hội chứng Ogilvie (Giả tắc đại tràng cấp tính)",
+            "B. Tắc ruột cơ học",
+            "C. Xoắn manh tràng",
+            "D. Viêm phúc mạc"
+          ],
+          "answer": 0,
+          "explain": "Bối cảnh <b>sau mổ chấn thương chỉnh hình/người già</b> + <b>Giãn đại tràng không có tắc cơ học</b> (non-mechanical) → <b>Ogilvie Syndrome</b>."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của Hội chứng Ogilvie:",
+          "options": [
+            "A. Mất cân bằng hệ thần kinh tự chủ (Giao cảm cường tính ức chế nhu động, Phó giao cảm suy yếu)",
+            "B. Tắc mạch mạc treo",
+            "C. Do dính ruột",
+            "D. Do u chèn ép"
+          ],
+          "answer": 0,
+          "explain": "<b>Rối loạn thần kinh tự chủ (Autonomic imbalance)</b>."
+        },
+        {
+          "q": "Thuốc (Pharmacologic agent) đặc hiệu thường dùng để điều trị Ogilvie khi điều trị bảo tồn thất bại:",
+          "options": [
+            "A. Atropine",
+            "B. Neostigmine (Ức chế men Acetylcholinesterase)",
+            "C. Morphine",
+            "D. Adrenaline"
+          ],
+          "answer": 1,
+          "explain": "<b>Neostigmine kích thích hệ phó giao cảm</b> tăng co bóp đẩy hơi ra. Hiệu quả cao."
+        },
+        {
+          "q": "Tác dụng phụ nguy hiểm cần theo dõi trên Monitor khi tiêm Neostigmine:",
+          "options": [
+            "A. Nhịp nhanh",
+            "B. Nhịp chậm (Bradycardia) hoặc Ngừng tim",
+            "C. Tăng huyết áp",
+            "D. Sốt cao"
+          ],
+          "answer": 1,
+          "explain": "<b>Kích thích phó giao cảm quá mức gây nhịp tim chậm (Bradycardia)</b>. Luôn chuẩn bị sẵn Atropine để giải độc."
+        },
+        {
+          "q": "Nếu dùng thuốc thất bại, biện pháp can thiệp tiếp theo là:",
+          "options": [
+            "A. Tháo hơi bằng nội soi đại tràng (Colonoscopic decompression)",
+            "B. Mổ cắt đại tràng ngay",
+            "C. Chọc hút khí qua da",
+            "D. Thụt tháo"
+          ],
+          "answer": 0,
+          "explain": "Nội soi hút hơi giải áp là bước tiếp theo. Phẫu thuật (Mở manh tràng/Cắt ruột) chỉ khi có biến chứng vỡ/hoại tử."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 35 tuổi, tắc ruột do dính, đặt sonde 24h, chỉ định Gastrografin Challenge",
+      "body": "Bệnh nhân nữ 35 tuổi, vào viện vì <b>đau bụng, nôn</b>. Chẩn đoán <b>tắc ruột non do dính</b> (tiền sử mổ lấy thai). <br><br><b>Quá trình:</b> Đã đặt sonde dạ dày 24h nhưng <b>dịch ra vẫn nhiều (1000ml/24h), bụng chưa xẹp</b>. Bụng mềm, không sốt, bạch cầu 9 G/L. <br><br><b>Chỉ định:</b> Bác sĩ chỉ định làm \"<b>Gastrografin Challenge</b>\".",
+      "questions": [
+        {
+          "q": "Gastrografin là chất cản quang loại gì?",
+          "options": [
+            "A. Tan trong nước (Water-soluble), áp lực thẩm thấu cao",
+            "B. Barium sulfate (không tan)",
+            "C. Khí",
+            "D. Thuốc nhuộm màu"
+          ],
+          "answer": 0,
+          "explain": "<b>Gastrografin (Meglumine diatrizoate)</b> là chất cản quang tan trong nước ưu trương."
+        },
+        {
+          "q": "Tác dụng của Gastrografin trong tắc ruột dính:",
+          "options": [
+            "A. Chỉ để chẩn đoán vị trí tắc",
+            "B. Vừa chẩn đoán (tiên lượng khả năng thành công của điều trị bảo tồn) vừa điều trị (giảm phù nề thành ruột, kích thích nhu động do áp lực thẩm thấu cao)",
+            "C. Để diệt khuẩn",
+            "D. Để gây dính thêm"
+          ],
+          "answer": 1,
+          "explain": "Áp lực thẩm thấu cao (Hyperosmolar) kéo nước từ thành ruột phù nề vào lòng ruột → <b>Giảm phù nề + Tăng lượng dịch làm loãng phân/kích thích nhu động</b> → Giải quyết tắc ruột dính (Therapeutic effect)."
+        },
+        {
+          "q": "Tiêu chuẩn đánh giá Gastrografin Challenge dương tính (tức là ruột đã thông hoặc sẽ thông):",
+          "options": [
+            "A. Thuốc xuống đến Đại tràng sau 4-24 giờ trên phim X-quang",
+            "B. Thuốc vẫn nằm ở dạ dày",
+            "C. Thuốc nằm ở ruột non",
+            "D. Bệnh nhân nôn ra thuốc"
+          ],
+          "answer": 0,
+          "explain": "Theo <b>Guideline Bologna:</b> Nếu thuốc xuống đại tràng sau 4-24h → <b>Tiên lượng >90% khỏi không cần mổ</b>."
+        },
+        {
+          "q": "Nếu sau 24h thuốc KHÔNG xuống được đại tràng (Gastrografin thất bại), thái độ xử trí:",
+          "options": [
+            "A. Tiếp tục theo dõi thêm 24h nữa",
+            "B. Chỉ định phẫu thuật",
+            "C. Bơm thêm thuốc",
+            "D. Thụt tháo"
+          ],
+          "answer": 1,
+          "explain": "Nếu thuốc không qua được → <b>Tắc hoàn toàn/chặt → Nên mổ sớm</b> thay vì chờ đợi vô ích."
+        },
+        {
+          "q": "Chống chỉ định của uống Gastrografin:",
+          "options": [
+            "A. Bệnh nhân đang mất nước nặng (do thuốc gây kéo nước vào lòng ruột làm giảm thể tích tuần hoàn thêm) hoặc Nghi ngờ thủng ruột/nghẹt ruột",
+            "B. Tắc ruột non do dính đơn thuần",
+            "C. Sau mổ 10 năm",
+            "D. Bệnh nhân trẻ tuổi"
+          ],
+          "answer": 0,
+          "explain": "Do tính ưu trương cao, nó có thể gây sốc giảm thể tích nếu bệnh nhân chưa được bù dịch đủ. Tuy nhiên, an toàn hơn Baryt nếu có thủng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi, ăn nhiều quả hồng ngâm và măng khô, khối rắn bò nổi hằn",
+      "body": "Bệnh nhân nam 50 tuổi, vào viện vì <b>đau bụng từng cơn dữ dội, nôn nhiều</b>. Khám bụng thấy <b>khối rắn bò nổi hằn lên thành bụng</b>. <br><br><b>Tiền sử:</b> Ăn nhiều <b>quả hồng ngâm và măng khô</b>.",
+      "questions": [
+        {
+          "q": "Nguyên nhân tắc ruột nghĩ đến nhiều nhất:",
+          "options": [
+            "A. Tắc ruột do bã thức ăn (Phytobezoar)",
+            "B. Dính ruột",
+            "C. U ruột non",
+            "D. Lồng ruột"
+          ],
+          "answer": 0,
+          "explain": "Tiền sử ăn thức ăn nhiều xơ/nhựa (hồng, măng, ổi) → <b>Phytobezoar</b>. Tannin trong quả hồng kết tủa với acid dạ dày tạo khối cứng."
+        },
+        {
+          "q": "Vị trí tắc thường gặp của bã thức ăn:",
+          "options": [
+            "A. Tá tràng",
+            "B. Đoạn cuối hồi tràng (cách van Bauhin 60-70cm)",
+            "C. Đại tràng",
+            "D. Dạ dày"
+          ],
+          "answer": 1,
+          "explain": "Đoạn cuối hồi tràng là <b>nơi hẹp nhất</b> của ruột non."
+        },
+        {
+          "q": "Trên phim X-quang hoặc CT scan, dấu hiệu gợi ý tắc do bã thức ăn:",
+          "options": [
+            "A. Hình ảnh khối lốm đốm khí (mottled gas pattern) trong lòng ruột non nơi tắc nghẽn",
+            "B. Mức nước hơi",
+            "C. Liềm hơi",
+            "D. Dịch ổ bụng"
+          ],
+          "answer": 0,
+          "explain": "Khối bã chứa khí len lỏi trong chất xơ tạo <b>hình ảnh lốm đốm (Mottled gas)</b> đặc trưng."
+        },
+        {
+          "q": "Trong phẫu thuật mở ruột lấy bã thức ăn, động tác quan trọng để tránh tái phát tắc ruột sau mổ ngay lập tức là:",
+          "options": [
+            "A. Cắt đoạn ruột chứa bã",
+            "B. Kiểm tra toàn bộ ruột non và dạ dày để tìm các khối bã còn sót lại",
+            "C. Nối vị tràng",
+            "D. Làm hậu môn nhân tạo"
+          ],
+          "answer": 1,
+          "explain": "Bã thức ăn thường có <b>nhiều cục</b>. Nếu chỉ lấy cục gây tắc mà bỏ sót cục trong dạ dày/ruột trên → <b>Nó trôi xuống gây tắc lại</b> (Missed bezoar)."
+        },
+        {
+          "q": "Nếu khối bã mềm, chưa gây hoại tử ruột, có thể xử lý bằng cách:",
+          "options": [
+            "A. Bóp nát khối bã (Milking/Fragmenting) đẩy xuống đại tràng mà không cần mở ruột",
+            "B. Mở ruột lấy ra",
+            "C. Cắt ruột",
+            "D. Để nguyên"
+          ],
+          "answer": 0,
+          "explain": "<b>Bóp vụn (Fragmentation)</b> giúp tránh việc mở ruột (Enterotomy) → <b>Giảm nguy cơ bục chỉ/rò rỉ/nhiễm trùng</b> vết mổ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 40 tuổi, đau bụng cơn, khối u vùng mạn sườn phải, ỉa máu mũi",
+      "body": "Bệnh nhân nữ 40 tuổi, vào viện vì <b>đau bụng cơn, nôn, có khối u vùng mạn sườn phải, đi ngoài ra máu mũi (jelly stool)</b>. <br><br><b>CT scan:</b> Hình ảnh \"<b>Bia bắn</b>\" (Target sign) và \"<b>Lồng ruột</b>\" (Sausage-shaped mass).",
+      "questions": [
+        {
+          "q": "Chẩn đoán:",
+          "options": [
+            "A. Lồng ruột (Intussusception)",
+            "B. U đại tràng",
+            "C. Xoắn ruột",
+            "D. Viêm ruột thừa"
+          ],
+          "answer": 0,
+          "explain": "Hình ảnh <b>Bia bắn/Bánh Donut</b> trên cắt ngang và <b>Giả thận/Bánh Sandwich</b> trên cắt dọc là điển hình của <b>lồng ruột</b>."
+        },
+        {
+          "q": "Khác biệt cơ bản về nguyên nhân lồng ruột ở Người lớn (Adult) so với Trẻ em (Pediatric):",
+          "options": [
+            "A. Trẻ em thường có nguyên nhân thực thể (u), người lớn thường vô căn",
+            "B. Người lớn > 90% có nguyên nhân thực thể (Lead point) như polyp, u lành, ung thư; Trẻ em chủ yếu vô căn (do viêm hạch mạc treo)",
+            "C. Giống hệt nhau",
+            "D. Người lớn hay lồng hồi-hồi tràng, trẻ em hay lồng hồi-manh tràng"
+          ],
+          "answer": 1,
+          "explain": "Ở <b>người lớn</b>, khối lồng (intussusceptum) bị kéo vào trong thường do một <b>khối u (polyp, GIST, ung thư...)</b> dẫn đường (Lead point)."
+        },
+        {
+          "q": "Vì lý do trên, thái độ xử trí lồng ruột ở Người lớn khác Trẻ em như thế nào?",
+          "options": [
+            "A. Người lớn ưu tiên tháo lồng bằng hơi/nước",
+            "B. Người lớn ưu tiên Phẫu thuật cắt đoạn ruột (Resection) mà KHÔNG tháo lồng (để tránh làm vỡ u/gieo rắc tế bào ung thư)",
+            "C. Người lớn theo dõi tự tháo",
+            "D. Dùng thuốc giãn cơ"
+          ],
+          "answer": 1,
+          "explain": "<b>Nguyên tắc ung thư học:</b> Không tháo lồng (Reduction) trước khi cắt vì nguy cơ <b>làm vỡ khối u, gieo rắc tế bào ung thư</b> vào tĩnh mạch, hoặc thủng ruột đang hoại tử. Phải <b>cắt đoạn ruột chứa khối lồng (En-bloc resection)</b>."
+        },
+        {
+          "q": "Tam chứng lồng ruột kinh điển (thường gặp ở trẻ em, hiếm gặp đầy đủ ở người lớn):",
+          "options": [
+            "A. Đau bụng cơn + Khối lồng + Ỉa máu",
+            "B. Sốt + Vàng da + Đau bụng",
+            "C. Nôn + Bí + Chướng",
+            "D. Đau + Sốt + Bạch cầu tăng"
+          ],
+          "answer": 0,
+          "explain": "<b>Tam chứng:</b> Đau - Khối u - Ỉa máu."
+        },
+        {
+          "q": "Hình ảnh siêu âm cắt ngang khối lồng:",
+          "options": [
+            "A. Hình bia bắn (Target sign / Doughnut sign)",
+            "B. Hình giả thận (Pseudokidney) - trên lắt cắt dọc",
+            "C. Cả A và B đều đúng",
+            "D. Hình rèm cửa"
+          ],
+          "answer": 2,
+          "explain": "Cả hai hình ảnh đều <b>điển hình của lồng ruột</b> trên các mặt cắt khác nhau."
+        }
+      ]
+    }
+  ]
+}
