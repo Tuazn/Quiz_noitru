@@ -1,0 +1,626 @@
+{
+  "name": "Tắc ruột Up",
+  "description": "Bộ đề case lâm sàng ôn tập về tắc ruột - chẩn đoán, cơ chế bệnh sinh, xử trí",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Tiêu hóa",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 52 tuổi đau bụng quặn, nôn ói sau mổ tử cung 3 năm",
+      "body": "Bệnh nhân nữ, 52 tuổi, kế toán, vào viện vì đau bụng từng cơn và nôn ói nhiều ngày thứ 2. Cách 3 năm bệnh nhân có mổ mở cắt tử cung toàn phần. Bệnh nhân đau quặn quanh rốn, sau nôn không giảm đau, bí trung đại tiện 24 giờ nay.<br><br><b>Khám thực thể:</b> Mạch 105 l/p, HA 110/70 mmHg, t 37.5 độ C, nhịp thở 20 l/p, SpO₂ 97%, BMI 22. Bụng chướng nhẹ quanh rốn, sẹo đường trắng giữa dưới rốn liền tốt, ấn tức quanh rốn, không có phản ứng thành bụng, dấu hiệu rắn bò âm tính. Gõ vang, nhu động ruột tăng âm sắc.<br><br><b>Cận lâm sàng:</b> Bạch cầu 11.2 K/μL, CRP 15 mg/L, Lactate 1.8 mmol/L, Kali 3.0 mmol/L.",
+      "questions": [
+        {
+          "q": "Định hướng chẩn đoán ưu tiên nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Tắc đại tràng do khối u",
+            "Tắc ruột non cơ học",
+            "Liệt ruột cơ năng sau mổ",
+            "Nhồi máu mạc treo cấp"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh đau quặn từng cơn, nôn nhiều, bí trung đại tiện trên bệnh nhân có tiền sử mổ mở vùng chậu rất điển hình cho tắc ruột non do dính. Dấu hiệu âm tính (không có phản ứng thành bụng) loại trừ các cấp cứu ngoại khoa thủng tạng rỗng."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính gây ra tình trạng hạ Kali máu ở bệnh nhân này?",
+          "options": [
+            "Suy thận cấp tính trước thận",
+            "Toan chuyển hóa tăng clo máu",
+            "Mất dịch dạ dày do nôn nhiều",
+            "Tăng áp lực trong ổ bụng cấp"
+          ],
+          "answer": 2,
+          "explain": "Nôn nhiều làm mất dịch chứa acid HCl và Kali, dẫn đến kiềm chuyển hóa kèm hạ Kali máu."
+        },
+        {
+          "q": "Thăm dò hình ảnh nào sau đây có giá trị cao nhất để chẩn đoán xác định và tìm nguyên nhân?",
+          "options": [
+            "CT scan bụng có cản quang",
+            "X-quang bụng đứng không cản quang",
+            "Siêu âm ổ bụng qua thành bụng",
+            "Chụp cộng hưởng từ vùng chậu"
+          ],
+          "answer": 0,
+          "explain": "CT scan bụng có cản quang có độ nhạy và độ đặc hiệu > 90% trong đánh giá vị trí, nguyên nhân và biến chứng thiếu máu ruột. X-quang chỉ là bước sàng lọc ban đầu."
+        },
+        {
+          "q": "Chọn tập hợp đúng về các bước xử trí ban đầu ưu tiên: (1) Đặt sonde dạ dày, (2) Bù dịch tĩnh mạch, (3) Mổ cấp cứu tức thì, (4) Bồi phụ điện giải",
+          "type": "multi",
+          "options": [
+            "1, 2, 4",
+            "1, 3, 4",
+            "2, 3, 4",
+            "1, 2, 3"
+          ],
+          "answer": [
+            0
+          ],
+          "explain": "Khởi đầu điều trị tắc ruột non do dính chưa có biến chứng nghẹt là hồi sức nội khoa: nhịn ăn, sonde dạ dày giảm áp, bù dịch AND điện giải. Mổ cấp cứu không chỉ định lúc này."
+        },
+        {
+          "q": "Dấu hiệu lâm sàng nào xuất hiện cho thấy bệnh nhân cần được chuyển mổ cấp cứu?",
+          "options": [
+            "Nhu động ruột giảm hoặc mất hẳn",
+            "Đau bụng liên tục và phản ứng thành bụng",
+            "Nôn ra dịch mật số lượng nhiều hơn",
+            "Bụng chướng căng gõ vang vùng rốn"
+          ],
+          "answer": 1,
+          "explain": "Sự chuyển tính chất từ đau từng cơn sang đau liên tục dữ dội kèm phản ứng thành bụng là dấu hiệu báo động đỏ của tắc ruột thắt nghẹt (strangulation), cần mổ tối khẩn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi chướng bụng, bí đại tiện 4 ngày",
+      "body": "Bệnh nhân nam, 68 tuổi, hưu trí, vào viện vì chướng bụng và bí đại tiện 4 ngày. Tiền sử tăng huyết áp đang dùng Amlodipine 5 mg, hút thuốc 20 bao.năm. Bệnh nhân than đau tức dọc khung đại tràng, không nôn, đi cầu ra máu cục lẫn nhầy cách đây 1 tháng nhưng không đi khám.<br><br><b>Khám:</b> Mạch 90 l/p, HA 130/80 mmHg, t 37 độ C, SpO₂ 98%. Bụng chướng căng toàn bộ, tuần hoàn bàng hệ âm tính, ấn đau tức nhẹ hố chậu phải. Thăm trực tràng bóng rỗng, không có u cục, rút găng không có máu.<br><br><b>Cận lâm sàng:</b> X-quang bụng có nhiều mức nước hơi đại tràng, manh tràng giãn đường kính 9 cm.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất với bệnh cảnh trên là gì?",
+          "options": [
+            "Tắc ruột non đoạn cuối do u",
+            "Tắc ruột thấp do u đại tràng",
+            "Tắc đại tràng do phân vón cục",
+            "Xoắn đại tràng sigma cấp tính"
+          ],
+          "answer": 1,
+          "explain": "Tuổi cao, tiền sử tiêu máu, chướng bụng dần, thăm trực tràng bóng rỗng là dấu hiệu của tắc đại tràng cơ học, thường gặp nhất là ung thư đại trực tràng."
+        },
+        {
+          "q": "Cơ chế bệnh sinh làm manh tràng giãn to và có nguy cơ vỡ cao nhất trong trường hợp này là gì?",
+          "options": [
+            "Tăng sinh vi khuẩn đường ruột cấp",
+            "Nhu động đại tràng đảo ngược lên",
+            "Van hồi manh tràng đóng kín hoàn toàn",
+            "Khối u chèn ép tĩnh mạch mạc treo"
+          ],
+          "answer": 2,
+          "explain": "Theo định luật Laplace, manh tràng có khẩu kính lớn nhất nên chịu sức căng thành lớn nhất. Nếu van hồi manh tràng đóng kín (khoảng 10-20% trường hợp), sẽ tạo thành tắc ruột quai kín với áp lực tăng nhanh và nguy cơ vỡ manh tràng cao."
+        },
+        {
+          "q": "Phương pháp cận lâm sàng nào tiếp theo giúp lập kế hoạch can thiệp ngoại khoa tốt nhất?",
+          "options": [
+            "Nội soi đại tràng ống mềm toàn bộ",
+            "Chụp khung đại tràng có cản quang",
+            "Siêu âm doppler mạch máu ổ bụng",
+            "CT scan bụng chậu có thuốc cản quang"
+          ],
+          "answer": 3,
+          "explain": "CT scan bụng chậu có cản quang giúp đánh giá chính xác vị trí tắc, kích thước u, hạch mạc treo, và di căn xa (đáp ứng tiêu chuẩn phân giai đoạn TNM ban đầu)."
+        },
+        {
+          "q": "Hướng xử trí ưu tiên nếu CT scan xác định u đại tràng trái gây tắc hoàn toàn và không có di căn?",
+          "options": [
+            "Mổ cắt đại tràng trái và nối kỳ đầu",
+            "Đặt stent đại tràng qua nội soi giải áp",
+            "Nội soi cắt u qua đường hậu môn",
+            "Xạ trị tân bổ trợ trước khi phẫu thuật"
+          ],
+          "answer": 1,
+          "explain": "Đặt stent kim loại tự nong (SEMS) qua nội soi là phương pháp 'bridge to surgery' hiệu quả cho u đại tràng trái tắc nghẽn, giúp biến phẫu thuật cấp cứu thành phẫu thuật chương trình."
+        },
+        {
+          "q": "Biến chứng nào sau đây là nguy hiểm và cần theo dõi sát nhất nếu chọn điều trị bảo tồn tạm thời?",
+          "options": [
+            "Chảy máu tiêu hóa ồ ạt vùng thấp",
+            "Viêm phúc mạc toàn thể do vỡ manh tràng",
+            "Áp xe túi cùng Douglas kích thước lớn",
+            "Rò rỉ tiêu hóa ra ngoài da thành bụng"
+          ],
+          "answer": 1,
+          "explain": "Giãn manh tràng > 9 cm là nguy cơ vỡ rất cao. Nếu manh tràng vỡ, phân tràn vào ổ bụng, gây viêm phúc mạc phân cấp cứu với tỷ lệ tử vong rất cao."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi khối phồng đau chói bẹn phải",
+      "body": "Bệnh nhân nam, 72 tuổi, nông dân, vào viện vì khối phồng đau chói ở bẹn phải ngày thứ nhất. Tiền sử COPD mức độ vừa, phì đại tuyến tiền liệt lành tính. Khối phồng xuất hiện từ 2 năm nay, trước đây thường tự xẹp khi nằm. Cùng ngày, bệnh nhân đau quặn từng cơn quanh rốn, kèm nôn dịch dạ dày 2 lần.<br><br><b>Khám:</b> Mạch 100 l/p, HA 140/90 mmHg, t 37.8 độ C. Bụng trướng nhẹ. Vùng bẹn bìu phải có khối kích thước 5x4 cm, căng chắc, ấn đau chói, không đẩy lên được, da phía trên viêm đỏ nhẹ. Mất nếp nhăn bẹn phải.<br><br><b>Siêu âm tại giường:</b> Một quai ruột non nằm trong ống bẹn, không có nhu động, thành ruột dày 5 mm.",
+      "questions": [
+        {
+          "q": "Tình trạng bệnh lý hiện tại của bệnh nhân là gì?",
+          "options": [
+            "Viêm tinh hoàn và mào tinh hoàn",
+            "Xoắn thừng tinh bên phải cấp tính",
+            "Thoát vị đùi bên phải nghẹt",
+            "Thoát vị bẹn phải có biến chứng nghẹt"
+          ],
+          "answer": 3,
+          "explain": "Khối phồng vùng bẹn có từ trước, nay kẹt lại, đau chói, kèm hội chứng tắc ruột non và hình ảnh siêu âm quai ruột trong ống bẹn khẳng định chẩn đoán thoát vị bẹn nghẹt."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh gây ra tình trạng ấn đau chói và da viêm đỏ tại khối phồng?",
+          "options": [
+            "Kéo căng rễ thần kinh chậu bẹn",
+            "Thiếu máu cục bộ và hoại tử thành ruột",
+            "Tắc nghẽn hoàn toàn lưu thông tiêu hóa",
+            "Viêm mủ màng tinh hoàn thứ phát"
+          ],
+          "answer": 1,
+          "explain": "Áp lực tại cổ bao thoát vị tăng cao, chèn ép tĩnh mạch trước, sau đó chèn ép động mạch, dẫn đến thiếu máu cục bộ xuyên thành, hoại tử ruột và phản ứng viêm lan ra tổ chức xung quanh."
+        },
+        {
+          "q": "Hành động nào sau đây bị CHỐNG CHỈ ĐỊNH tuyệt đối trong bước xử trí tiếp theo?",
+          "options": [
+            "Dùng tay cố gắng đẩy khối thoát vị lên",
+            "Đặt đường truyền tĩnh mạch và lấy máu",
+            "Chuẩn bị phòng mổ và mời hội chẩn",
+            "Đặt ống thông dạ dày giải áp ngắt quãng"
+          ],
+          "answer": 0,
+          "explain": "Nắn đẩy khối thoát vị mù (taxis) khi đã có dấu hiệu nghẹt bị chống chỉ định tuyệt đối vì có nguy cơ đẩy đoạn ruột hoại tử hoặc vỡ vào trong ổ bụng gây viêm phúc mạc."
+        },
+        {
+          "q": "Nếu khi mở bao thoát vị phát hiện đoạn ruột non đã hoại tử đen, thái độ phẫu thuật chuẩn mực là gì?",
+          "options": [
+            "Khâu phục hồi thành bẹn bằng lưới nhân tạo",
+            "Bơm rửa ổ bụng liên tục qua lỗ bẹn sâu",
+            "Cắt đoạn ruột hoại tử và nối ruột kỳ đầu",
+            "Đưa hai đầu ruột ra da làm hậu môn nhân tạo"
+          ],
+          "answer": 2,
+          "explain": "Ruột hoại tử cần được cắt bỏ. Việc nối kỳ đầu thường an toàn nếu ổ bụng chưa viêm phúc mạc toàn thể. Đặt lưới nhân tạo bị chống chỉ định trong trường mổ sạch-nhiễm vì nguy cơ nhiễm trùng lưới cao."
+        },
+        {
+          "q": "Các yếu tố sau đây làm tăng nguy cơ tái phát thoát vị ở bệnh nhân này sau mổ, TRỪ:",
+          "options": [
+            "Tăng áp lực ổ bụng mạn tính do ho",
+            "Đặt mảnh ghép nhân tạo gia cố thành bẹn",
+            "Bệnh phổi tắc nghẽn mạn tính diễn tiến",
+            "Phì đại tuyến tiền liệt chưa được điều trị"
+          ],
+          "answer": 1,
+          "explain": "Đặt mảnh ghép nhân tạo (phẫu thuật Lichtenstein) là phương pháp giảm tỷ lệ tái phát tốt nhất hiện nay. Các phương án sai đều là nguyên nhân gây tăng áp lực ổ bụng mạn tính, dẫn đến tái phát thoát vị."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 80 tuổi nôn mửa liên tục, nôn dịch giống phân",
+      "body": "Bệnh nhân nữ, 80 tuổi, vào viện vì nôn mửa liên tục và nôn ra dịch giống phân 3 ngày nay. Tiền sử đái tháo đường type 2, sỏi túi mật phát hiện 5 năm không điều trị. Bệnh nhân đau quặn bụng quanh rốn, không sốt, không đi cầu được.<br><br><b>Khám:</b> Mạch 110 l/p, HA 100/60 mmHg, t 37.2 độ C, niêm mạc rất khô. Bụng chướng vừa, mềm, ấn không có phản ứng thành bụng.<br><br><b>Cận lâm sàng:</b> X-quang bụng đứng không chuẩn bị có nhiều mức nước hơi ở giữa bụng, hình ảnh phân bố khí bất thường ở vùng gan. Bạch cầu 12 K/μL, Creatinin 150 μmol/L.",
+      "questions": [
+        {
+          "q": "Dựa vào bệnh cảnh và hình ảnh X-quang, chẩn đoán có khả năng nhất là gì?",
+          "options": [
+            "Tắc ruột do bã thức ăn ở hồi tràng",
+            "Viêm đường mật cấp tính do sỏi",
+            "Viêm túi mật cấp thể hoại tử",
+            "Tắc ruột cơ học do sỏi mật"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân nữ lớn tuổi, tiền sử sỏi mật, biểu hiện tắc ruột non cơ học (nôn dịch phân) kèm khí vùng gan trên X-quang gợi ý tắc ruột do sỏi mật (Gallstone ileus)."
+        },
+        {
+          "q": "Tiêu chuẩn chẩn đoán kinh điển (Tam chứng Rigler) trên hình ảnh X-quang đối với bệnh lý này bao gồm:",
+          "type": "multi",
+          "options": [
+            "Khí đường mật, tắc ruột non, sỏi cản quang lạc chỗ",
+            "Khí tĩnh mạch cửa, giãn đại tràng, sỏi mật",
+            "Giãn đường mật trong gan, sỏi ống mật, vàng da",
+            "Mức nước hơi đại tràng, rò mật ruột, sỏi phân"
+          ],
+          "answer": [
+            0
+          ],
+          "explain": "Tam chứng Rigler trên X-quang bụng gồm: (1) Tắc ruột non, (2) Khí trong đường mật (Pneumobilia), (3) Sỏi cản quang nằm ngoài vùng túi mật. Dấu hiệu này rất đặc hiệu."
+        },
+        {
+          "q": "Vị trí tắc nghẽn giải phẫu thường gặp nhất của viên sỏi trong bệnh lý này nằm ở đâu?",
+          "options": [
+            "Đoạn D2 của tá tràng",
+            "Góc tá hổng tràng (góc Treitz)",
+            "Đoạn hồi tràng đoạn cuối",
+            "Van hồi manh tràng đại tràng"
+          ],
+          "answer": 2,
+          "explain": "Viên sỏi mật lớn (> 2.5 cm) rò qua tá tràng sẽ trôi dọc theo ống tiêu hóa và thường kẹt lại ở đoạn hẹp nhất của ruột non, đó là đoạn hồi tràng cuối (cách van hồi manh tràng khoảng 60 cm)."
+        },
+        {
+          "q": "Can thiệp phẫu thuật ưu tiên và an toàn nhất cho bệnh nhân lớn tuổi có nhiều bệnh nền này là gì?",
+          "options": [
+            "Cắt túi mật nội soi và mở ống mật chủ lấy sỏi",
+            "Mở ruột non lấy sỏi và để nguyên đường rò mật",
+            "Cắt đoạn ruột non chứa sỏi và đóng đường rò",
+            "Tán sỏi ngoài cơ thể bằng sóng xung kích điện từ"
+          ],
+          "answer": 1,
+          "explain": "Ở bệnh nhân già yếu nhiều bệnh nền, mục tiêu sống còn là giải quyết tình trạng tắc ruột. Phẫu thuật mở ruột lấy sỏi đơn thuần có tỷ lệ tử vong thấp nhất. Việc cắt túi mật và đóng rò kéo dài thời gian mổ và tăng biến chứng."
+        },
+        {
+          "q": "Nếu phẫu thuật viên quyết định chỉ mở ruột lấy sỏi mà không can thiệp đường rò mật - ruột, biến chứng lâu dài nào có thể xảy ra?",
+          "options": [
+            "Viêm tụy cấp thể hoại tử chảy máu",
+            "Tắc mạch máu mạc treo tràng trên",
+            "Viêm đường mật ngược dòng mạn tính",
+            "Trào ngược dịch dạ dày thực quản nặng"
+          ],
+          "answer": 2,
+          "explain": "Để lại đường rò túi mật - tá tràng có nguy cơ gây viêm túi mật/đường mật ngược dòng do vi khuẩn từ ruột đi lên, nhưng lợi ích cứu sống cấp bách vượt trội hơn rủi ro này."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 30 tuổi mang thai 24 tuần đau bụng dữ dội",
+      "body": "Bệnh nhân nữ, 30 tuổi, giáo viên, mang thai con so tuần thứ 24. Vào viện vì đau bụng dữ dội, liên tục vùng hố chậu phải khởi phát đột ngột cách 12 giờ, kèm buồn nôn nhiều và hoàn toàn bí trung đại tiện.<br><br><b>Khám:</b> Mạch 115 l/p, HA 100/65 mmHg, t 37.5 độ C. Tử cung to tương đương tuổi thai, sờ thấy một khối căng tức, ấn rất đau nằm lệch sang bên phải trên tử cung, có phản ứng thành bụng khu trú vùng khối này.<br><br><b>Cận lâm sàng:</b> Siêu âm nghi ngờ quai ruột giãn to chứa dịch, mất hoàn toàn nhu động. Bạch cầu 15 K/μL, CRP 45 mg/L.",
+      "questions": [
+        {
+          "q": "Định hướng chẩn đoán ngoại khoa nào cần được nghĩ tới đầu tiên?",
+          "options": [
+            "Viêm ruột thừa cấp tính thai kỳ",
+            "Xoắn manh tràng cấp tính",
+            "U nang buồng trứng phải xoắn",
+            "Bong nhau non thể ẩn chảy máu"
+          ],
+          "answer": 1,
+          "explain": "Phụ nữ có thai đau đột ngột dữ dội, có khối căng tức hố chậu phải kèm hội chứng tắc ruột cấp tính rất gợi ý xoắn manh tràng."
+        },
+        {
+          "q": "Yếu tố giải phẫu nào là cơ chế bệnh sinh thuận lợi gây ra tình trạng này?",
+          "options": [
+            "Viêm dính mạc treo sau phẫu thuật cũ vùng bụng",
+            "Sự chèn ép tĩnh mạch chủ dưới do tử cung lớn",
+            "Mạc treo đại tràng phải dài và di động bất thường",
+            "Tăng áp lực tĩnh mạch rốn và tuần hoàn bàng hệ"
+          ],
+          "answer": 2,
+          "explain": "Xoắn manh tràng xảy ra khi có sự cố định dở dang của mạc treo đại tràng phải trong thời kỳ phôi thai. Khi tử cung to lên sẽ đẩy manh tràng lên trên tạo trục xoắn."
+        },
+        {
+          "q": "Chỉ định hình ảnh học nào là an toàn và mang lại giá trị chẩn đoán xác định cao nhất lúc này?",
+          "options": [
+            "Chụp X-quang bụng đứng không cản quang",
+            "Nội soi đại tràng ống mềm toàn bộ",
+            "Chụp cắt lớp vi tính bụng không cản quang",
+            "Chụp cộng hưởng từ ổ bụng không tiêm thuốc"
+          ],
+          "answer": 3,
+          "explain": "MRI ổ bụng không tiêm thuốc đối quang từ là tiêu chuẩn vàng chẩn đoán các bệnh lý bụng cấp ở phụ nữ có thai khi siêu âm không rõ ràng, do không tia X bức xạ."
+        },
+        {
+          "q": "Thái độ phẫu thuật đúng đắn nhất để cứu sống bệnh nhân và giảm tối đa rủi ro cho thai nhi?",
+          "options": [
+            "Dùng thuốc giảm co bóp tử cung và theo dõi",
+            "Nội soi đại tràng tháo xoắn và đặt ống thông",
+            "Phẫu thuật mổ mở cấp cứu cắt đại tràng phải",
+            "Chọc hút khối phồng qua da dưới hướng dẫn siêu âm"
+          ],
+          "answer": 2,
+          "explain": "Xoắn manh tràng hiếm khi tháo xoắn nội soi thành công và tỷ lệ hoại tử rất cao. Tiêu chuẩn điều trị là mở bụng cấp cứu, cắt đại tràng phải và nối hồi - đại tràng ngang để ngăn tái phát."
+        },
+        {
+          "q": "Nếu phẫu thuật bị trì hoãn do chẩn đoán nhầm, cơ chế sinh lý bệnh nào sẽ đe dọa sinh mạng bệnh nhân?",
+          "options": [
+            "Hội chứng chèn ép khoang cấp tính",
+            "Thiếu máu thành ruột dẫn đến thủng và viêm phúc mạc",
+            "Xuất huyết tiêu hóa dưới ồ ạt qua đường hậu môn",
+            "Tắc mạch ối lọt vào tuần hoàn hệ thống người mẹ"
+          ],
+          "answer": 1,
+          "explain": "Trục xoắn chặt sẽ bóp nghẹt động/tĩnh mạch hồi đại tràng, dẫn đến thiếu máu cục bộ, hoại tử xuyên thành, vỡ bục phân vào ổ bụng gây sốc nhiễm trùng nặng nề."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi đau quặn bụng, sờ khối dọc mạn sườn phải",
+      "body": "Bệnh nhân nam, 50 tuổi, nông dân, có tiền sử đi tiêu ra ít nhầy máu từng đợt 2 tháng nay nhưng không đi khám. Đột ngột đau quặn bụng từng cơn dữ dội, mỗi cơn cách nhau khoảng 15 phút, kèm nôn mửa.<br><br><b>Khám:</b> Mạch 90 l/p, HA 120/80 mmHg, t 37 độ C. Bụng mềm, sờ thấy một khối hình ống dài khoảng 8 cm dọc theo mạn sườn phải, ấn tức.<br><br><b>Siêu âm ổ bụng:</b> Hình ảnh khối cấu trúc nhiều vòng tròn đồng tâm cắt ngang (dấu hiệu hình bia bắn).",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất là gì?",
+          "options": [
+            "Tắc ruột non do dính ruột cũ",
+            "U nang ống mật chủ bội nhiễm",
+            "Viêm ruột thừa cấp vỡ mủ",
+            "Lồng ruột do u đại tràng phải"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân có tiền sử đại tiện nhầy máu (nghi ngờ u đại trực tràng), nay đau quặn cơn, khối hình ống mạn sườn phải và hình ảnh 'bia bắn' trên siêu âm là dấu hiệu kinh điển của lồng ruột."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính dẫn đến bệnh lý này ở người trưởng thành là gì?",
+          "options": [
+            "Rối loạn thần kinh cơ thành ruột tự phát",
+            "Khối u đóng vai trò như đầu lồng kéo ruột đi theo",
+            "Nhu động đại tràng giảm đột ngột sau bữa ăn",
+            "Tăng tiết dịch lòng đại tràng do viêm nhiễm"
+          ],
+          "answer": 1,
+          "explain": "Khác với trẻ em (chủ yếu tự phát), 70-90% lồng ruột ở người lớn có nguyên nhân thực thể. Khối u làm thay đổi nhu động, đóng vai trò như 'điểm dẫn' kéo đoạn ruột lồng vào trong."
+        },
+        {
+          "q": "Thăm dò nào cần thiết để đánh giá toàn diện bản chất nguyên nhân gây bệnh?",
+          "options": [
+            "CT scan ổ bụng có tiêm thuốc cản quang",
+            "Chụp X-quang dạ dày cản quang barit",
+            "Xét nghiệm máu tìm chất điểm khối u CEA",
+            "Nội soi dạ dày tá tràng bằng ống mềm"
+          ],
+          "answer": 0,
+          "explain": "CT scan bụng có cản quang vừa giúp chẩn đoán xác định lồng ruột, vừa xác định nguyên nhân (u đại tràng), đánh giá hạch vùng và di căn xa."
+        },
+        {
+          "q": "Xử trí phẫu thuật tiêu chuẩn đối với tình trạng lồng ruột có nguyên nhân như trên?",
+          "options": [
+            "Bơm hơi tháo lồng qua đường hậu môn trực tràng",
+            "Thụt tháo đại tràng bằng nước muối sinh lý ấm",
+            "Cắt đoạn ruột lồng theo nguyên tắc ung thư học",
+            "Phẫu thuật mở ruột lấy u và bảo tồn quai ruột"
+          ],
+          "answer": 2,
+          "explain": "Vì nguyên nhân hàng đầu là khối u ác tính, chống chỉ định tháo lồng bằng áp lực. Tiêu chuẩn là cắt đoạn ruột chứa khối lồng theo nguyên tắc ung thư học (cắt đại tràng phải)."
+        },
+        {
+          "q": "Nếu bệnh nhân này không có triệu chứng lồng ruột cấp cứu mà chỉ tiêu ra máu rỉ rả, diễn biến sinh lý bệnh nào thường gặp nhất?",
+          "options": [
+            "Thiếu máu hồng cầu nhỏ nhược sắc mạn tính",
+            "Rò rỉ tiêu hóa vào các tạng lân cận trong ổ bụng",
+            "Viêm phúc mạc do vỡ khối u trực tiếp vào mạc treo",
+            "Rối loạn đông máu do suy giảm chức năng gan"
+          ],
+          "answer": 0,
+          "explain": "U đại tràng phải thường mọc dưới dạng sùi loét, rỉ máu vi thể kéo dài, dẫn đến thiếu máu hồng cầu nhỏ nhược sắc biểu hiện bằng mệt mỏi, da xanh niêm mạc nhợt."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 75 tuổi chướng bụng lệch, hình ảnh X-quang chữ U ngược",
+      "body": "Bệnh nhân nam, 75 tuổi, sống ở viện dưỡng lão, tiền sử bệnh Parkinson đang điều trị và táo bón mạn tính nhiều năm. Hai ngày nay đau quặn bụng hố chậu trái, sau đó chướng bụng dần lên và bí trung đại tiện hoàn toàn.<br><br><b>Khám:</b> Mạch 95 l/p, HA 130/80 mmHg, t 37 độ C. Bụng chướng lệch, gõ vang vùng hố chậu trái lan lên thượng vị, ấn không có phản ứng thành bụng. Thăm trực tràng rút găng không có phân.<br><br><b>Cận lâm sàn:</b> Phim X-quang bụng đứng có hình ảnh một quai ruột giãn khổng lồ hình chữ U ngược với đỉnh hướng lên hạ sườn phải.",
+      "questions": [
+        {
+          "q": "Dựa trên hình ảnh lâm sàng và X-quang, chẩn đoán nào là chính xác nhất?",
+          "options": [
+            "Xoắn đại tràng sigma cấp tính",
+            "U đại tràng trái vỡ rò rỉ",
+            "Phình đại tràng bẩm sinh megacolon",
+            "Tắc nghẽn giả đại tràng cấp tính"
+          ],
+          "answer": 0,
+          "explain": "Người già yếu, có bệnh thần kinh (Parkinson), táo bón mạn, chướng lệch, bóng trực tràng rỗng và X-quang chữ U ngược đỉnh hướng hạ sườn phải là dấu hiệu xoắn đại tràng sigma."
+        },
+        {
+          "q": "Dấu hiệu hình ảnh điển hình của bệnh lý này trên X-quang bụng được gọi là gì?",
+          "options": [
+            "Dấu hiệu hình chuỗi hạt ngọc trai",
+            "Hình ảnh mức nước hơi bậc thang",
+            "Khí tự do dưới vòm hoành bên phải",
+            "Dấu hiệu hình hạt cà phê kinh điển"
+          ],
+          "answer": 3,
+          "explain": "Dấu hiệu quai đại tràng giãn to hình chữ U lộn ngược với vách ngăn ở giữa rãnh tạo thành 'dấu hiệu hạt cà phê' là kinh điển của xoắn đại tràng sigma."
+        },
+        {
+          "q": "Bước xử trí ban đầu được ưu tiên lựa chọn cho bệnh nhân này khi chưa có dấu hiệu hoại tử ruột?",
+          "options": [
+            "Chụp MRI tiểu khung có tiêm thuốc cản từ",
+            "Phẫu thuật mở bụng cắt đoạn đại tràng sigma",
+            "Đặt ống thông hậu môn và nội soi tháo xoắn",
+            "Chụp X-quang đại tràng bằng thuốc cản quang"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân chưa có dấu hiệu viêm phúc mạc, điều trị bước một là nội soi trực tràng ống mềm đưa ống thông qua vị trí xoắn để giải áp khí và phân, tỷ lệ thành công 70-90%."
+        },
+        {
+          "q": "Chỉ định mổ cấp cứu được đặt ra khi bệnh nhân có dấu hiệu nào sau đây?",
+          "options": [
+            "Bệnh nhân có triệu chứng đau quặn từng cơn",
+            "Có dấu hiệu viêm phúc mạc hoặc nội soi thất bại",
+            "X-quang thấy đường kính đoạn ruột giãn trên mười cm",
+            "Bệnh nhân lớn tuổi có nhiều bệnh lý nội khoa đi kèm"
+          ],
+          "answer": 1,
+          "explain": "Mổ cấp cứu chỉ định khi: (1) Lâm sàng có viêm phúc mạc, (2) Nội soi thấy niêm mạc đại tràng hoại tử đen, (3) Tháo xoắn bằng nội soi thất bại."
+        },
+        {
+          "q": "Nếu tháo xoắn qua nội soi thành công, chiến lược quản lý bệnh nhân trong cùng đợt nằm viện là gì?",
+          "options": [
+            "Xuất viện ngay và chỉ sử dụng thuốc nhuận tràng",
+            "Mổ cắt đại tràng sigma chương trình trong vài ngày tới",
+            "Xạ trị dự phòng vùng tiểu khung tránh tái phát",
+            "Bơm rửa đại tràng hàng ngày qua hậu môn nhân tạo"
+          ],
+          "answer": 1,
+          "explain": "Xoắn đại tràng sigma sau khi tháo nội soi thành công có tỷ lệ tái phát rất cao (50-70%). Phẫu thuật cắt đại tràng sigma chương trình trong cùng đợt viện là chiến lược chuẩn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi sau mổ thay khớp háng 3 ngày, dùng morphine",
+      "body": "Bệnh nhân nam, 65 tuổi, vừa trải qua phẫu thuật thay khớp háng nhân tạo cách 3 ngày, đang sử dụng morphine tiêm tĩnh mạch để giảm đau. Bệnh nhân than phiền bụng chướng căng dần, không đau quặn, buồn nôn, nôn một lần ra dịch trong, chưa đi đại tiện từ sau mổ.<br><br><b>Khám:</b> Mạch 88 l/p, HA 120/70 mmHg, SpO₂ 96%. Bụng chướng đều đặn, thành bụng mềm, không có điểm đau khu trú, âm ruột giảm rõ (1-2 lần/phút).<br><br><b>Cận lâm sàng:</b> X-quang bụng thấy giãn toàn bộ khung đại tràng, manh tràng giãn 9 cm, có sự hiện diện của khí ở vùng trực tràng.",
+      "questions": [
+        {
+          "q": "Tình trạng liệt ruột diện rộng ở bệnh nhân này phù hợp nhất với hội chứng nào?",
+          "options": [
+            "Tắc ruột cơ học do xoắn ruột non",
+            "Thiếu máu cục bộ mạc treo cấp tính",
+            "Hội chứng Ogilvie giả tắc đại tràng",
+            "Tắc ruột non do dính sớm sau mổ"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân sau phẫu thuật chấn thương chỉnh hình lớn, dùng thuốc opioid, bụng chướng đều, nhu động giảm, X-quang giãn đại tràng có khí ở trực tràng là Hội chứng Ogilvie."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh học chính gây ra tình trạng bệnh lý này là gì?",
+          "options": [
+            "Sự bít tắc hoàn toàn lòng đại tràng do sỏi phân",
+            "Rối loạn hệ thần kinh tự chủ điều hòa nhu động ruột",
+            "Huyết khối tắc nghẽn động mạch mạc treo tràng trên",
+            "Giảm đột ngột lưu lượng tuần hoàn cấp máu tạng"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng Ogilvie được cho là do mất cân bằng hệ thần kinh tự chủ: ức chế hệ phó giao cảm (S2-S4) và cường hệ giao cảm, làm đại tràng mất trương lực và giãn to."
+        },
+        {
+          "q": "Đặc điểm cận lâm sàn nào quan trọng nhất để loại trừ một tình trạng tắc nghẽn cơ học thực sự?",
+          "options": [
+            "Siêu âm doppler hệ thống mạch máu ổ bụng",
+            "CT scan bụng không thấy điểm chuyển tiếp kích thước",
+            "X-quang bụng đứng có mức nước hơi rải rác",
+            "Chụp cộng hưởng từ vùng khung chậu có thuốc"
+          ],
+          "answer": 1,
+          "explain": "Trên phim CT scan bụng, điểm mấu chốt để chẩn đoán Ogilvie là giãn liên tục của ruột mà KHÔNG có vùng chuyển tiếp như trong tắc ruột cơ học."
+        },
+        {
+          "q": "Phương án xử trí nội khoa ban đầu nào sau đây hợp lý nhất để phục hồi nhu động ruột?",
+          "options": [
+            "Phẫu thuật mở thông manh tràng ra da",
+            "Cắt toàn bộ đại tràng cấp cứu giải áp",
+            "Dùng thuốc tăng co bóp cơ trơn liều cao",
+            "Ngừng thuốc giảm đau nhóm opioid và bù điện giải"
+          ],
+          "answer": 3,
+          "explain": "Điều trị bảo tồn ban đầu: giải quyết nguyên nhân gốc (ngừng opioid), bù điện giải (Kali và Magie), đặt sonde dạ dày và sonde hậu môn."
+        },
+        {
+          "q": "Nếu manh tràng tiếp tục giãn trên 12 cm dù đã điều trị nội khoa tích cực, can thiệp nào là phù hợp nhất?",
+          "options": [
+            "Nội soi đại tràng hút khí giảm áp lực",
+            "Phẫu thuật cắt dạ dày ruột nối thông",
+            "Truyền tĩnh mạch liều cao Corticosteroid",
+            "Chụp mạch máu và can thiệp nội mạch"
+          ],
+          "answer": 0,
+          "explain": "Khi manh tràng giãn > 12 cm, nguy cơ vỡ manh tràng đe dọa tính mạng. Nội soi đại tràng hút xẹp khí giải áp có hiệu quả cao (khoảng 80%)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi sau mổ cắt dạ dày 5 năm, ăn măng khô",
+      "body": "Bệnh nhân nam, 60 tuổi, tiền sử mổ cắt dạ dày bán phần nối vị tràng cách đây 5 năm do loét. Vào viện vì đau bụng quặn từng cơn quanh rốn, nôn nhiều dịch vàng có cặn thức ăn cũ, không đi đại tiện được 1 ngày. Bệnh nhân khai hôm trước có ăn nhiều măng khô hầm thịt.<br><br><b>Khám:</b> Mạch 100 l/p, t 37 độ C. Bụng có sẹo mổ đường trắng giữa trên rốn liền tốt, bụng chướng nhẹ. Khám sờ thấy một khối lổn nhổn, di động ở vùng rốn, ấn đau tức.<br><br><b>Cận lâm sàng:</b> Bạch cầu 9 K/μL, Kali 3.0 mmol/L. X-quang bụng có vài mức nước hơi ở vùng ruột non trung tâm.",
+      "questions": [
+        {
+          "q": "Nguyên nhân tắc ruột nào có khả năng cao nhất dựa vào bệnh sử và khám lâm sàng?",
+          "options": [
+            "Khối u ruột non ác tính tái phát",
+            "Tắc đại tràng do phân vón cứng",
+            "Tắc lồng ruột non sau phẫu thuật",
+            "Tắc ruột non cơ học do bã thức ăn"
+          ],
+          "answer": 3,
+          "explain": "Tiền sử cắt dạ dày, ăn thức ăn nhiều xơ (măng khô), sờ khối lổn nhổn di động, kèm hội chứng tắc ruột non là chẩn đoán điển hình của tắc ruột do bã thức ăn (phytobezoar)."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh nào tạo điều kiện thuận lợi nhất hình thành nguyên nhân gây tắc ở bệnh nhân này?",
+          "options": [
+            "Rối loạn chức năng nhu động ruột già mạn tính",
+            "Tăng tiết acid dịch vị dạ dày quá mức bình thường",
+            "Viêm dính gây gập góc các quai ruột non sau mổ",
+            "Mất chức năng van môn vị và giảm acid dạ dày"
+          ],
+          "answer": 3,
+          "explain": "Cắt dạ dày làm mất môn vị (ngăn thức ăn lớn) và giảm tiết acid (giảm tiêu hủy xơ thực vật). Thức ăn xơ rơi nhanh xuống ruột non, cuộn lại thành khối bã."
+        },
+        {
+          "q": "Phương tiện chẩn đoán hình ảnh nào có độ nhạy cao để phát hiện chính xác vật cản trong lòng ruột?",
+          "options": [
+            "CT scan ổ bụng có thuốc cản quang",
+            "Siêu âm ổ bụng qua thành bụng tổng quát",
+            "Nội soi dạ dày bằng ống soi mềm",
+            "Chụp X-quang lưu thông ruột bằng barit"
+          ],
+          "answer": 0,
+          "explain": "CT scan bụng có cản quang cho hình ảnh khối bã thức ăn lấm tấm khí bên trong lòng ruột non giãn, có điểm chuyển tiếp rõ rệt."
+        },
+        {
+          "q": "Phương án phẫu thuật xử trí tổn thương thường được áp dụng nhất khi có chỉ định mổ?",
+          "options": [
+            "Mở dọc hồi tràng lấy bã thức ăn rồi khâu ngang",
+            "Cắt đoạn ruột non mang khối bã và không nối lại",
+            "Dùng dụng cụ nội soi gắp nát khối bã thức ăn",
+            "Dùng tay bóp nát khối bã đẩy qua van hồi manh tràng"
+          ],
+          "answer": 3,
+          "explain": "Nguyên tắc phẫu thuật ưu tiên là bảo tồn ruột non: Bóp nát bã thức ăn qua thành ruột rồi đẩy dần dồn xuống đại tràng. Chỉ mở ruột khi khối quá cứng."
+        },
+        {
+          "q": "Diễn biến hoặc nguyên tắc dự phòng nào sau đây cần lưu ý sau khi điều trị thành công?",
+          "options": [
+            "Tái phát huyết khối tĩnh mạch chi dưới",
+            "Tư vấn chế độ ăn cắt nhỏ và nhai kỹ thức ăn",
+            "Chỉ định sử dụng kháng sinh phổ rộng suốt đời",
+            "Tái khám nội soi dạ dày mỗi tháng một lần"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có yếu tố nguy cơ vĩnh viễn (mất môn vị). Giáo dục: nhai kỹ, tránh thức ăn dai/sợi (măng, mít, quả hồng), uống nhiều nước là biện pháp dự phòng tái phát."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi sau mổ Roux-en-Y giảm béo 3 năm, đau bụng dữ dội",
+      "body": "Bệnh nhân nam, 40 tuổi, có tiền sử mổ nối vị tràng Roux-en-Y giảm béo cách 3 năm. Vào viện vì đau bụng dữ dội, liên tục quanh rốn khởi phát cách 6 giờ. Bệnh nhân nôn nhiều lần nhưng không giảm đau.<br><br><b>Khám:</b> Mạch 115 l/p, HA 90/60 mmHg, t 38 độ C, nhịp thở 24 l/p, SpO₂ 95%, BMI 25. Bụng có các sẹo mổ nội soi cũ, chướng nhẹ, ấn có phản ứng thành bụng cục bộ mạn sườn trái.<br><br><b>Cận lâm sàng:</b> Bạch cầu 18 K/μL, CRP 80 mg/L, Lactate 4.2 mmol/L. Siêu âm ổ bụng nghi ngờ có dịch tự do.",
+      "questions": [
+        {
+          "q": "Bệnh cảnh lâm sàng trên gợi ý mạnh mẽ nhất đến biến chứng ngoại khoa nào?",
+          "options": [
+            "Viêm tụy cấp thể hoại tử nặng nề",
+            "Thủng ổ loét mép nối vị tràng cũ",
+            "Tắc ruột quai kín do thoát vị nội",
+            "Nhồi máu động mạch mạc treo tràng"
+          ],
+          "answer": 2,
+          "explain": "Đau bụng dữ dội liên tục không giảm sau nôn ở bệnh nhân sau mổ bypass Roux-en-Y là dấu hiệu cảnh báo cao độ của thoát vị nội gây tắc ruột quai kín. Lactate tăng cao gợi ý nhồi máu ruột."
+        },
+        {
+          "q": "Cơ chế nào làm cho đoạn ruột trong bệnh lý này bị hoại tử nhanh chóng dù mới khởi phát 6 giờ?",
+          "options": [
+            "Tắc nghẽn cơ học đồng thời cả hai đầu quai ruột",
+            "Trào ngược dịch mật trực tiếp lên dạ dày thực quản",
+            "Rối loạn hệ vi khuẩn đường ruột sau mổ béo phì",
+            "Sự phá hủy mạn tính hàng rào niêm mạc ống tiêu hóa"
+          ],
+          "answer": 0,
+          "explain": "Thoát vị nội tạo ra một vòng thắt mạc treo, bít tắc cùng lúc cả đầu vào và đầu ra quai ruột. Áp lực tăng vọt chặn dòng tĩnh mạch và động mạch, hoại tử xuyên thành cực kỳ nhanh."
+        },
+        {
+          "q": "Dấu hiệu hình ảnh nào trên CT scan bụng là đặc trưng cho tình trạng xoắn mạc treo đi kèm?",
+          "options": [
+            "Mức nước hơi kích thước nhỏ ở đáy phổi bên trái",
+            "Quai ruột giãn xếp lớp hình ảnh chiếc đàn phong cầm",
+            "Dấu hiệu hình xoáy nước của các mạch máu mạc treo",
+            "Dấu hiệu hình hạt cà phê nằm ở vùng hạ sườn phải"
+          ],
+          "answer": 2,
+          "explain": "Trên CT scan, quai ruột thoát vị và xoắn kéo theo cuống mạch mạc treo cuộn lại quanh trục của động mạch mạc treo tràng trên, tạo ra hình ảnh 'xoáy nước' (whirl sign)."
+        },
+        {
+          "q": "Với tình trạng huyết động hiện tại, bước xử trí nào là cấp bách nhất bên cạnh hồi sức?",
+          "options": [
+            "Chụp mạch máu số hóa xóa nền đánh giá nhánh mạch",
+            "Phẫu thuật mở bụng thăm dò và giải quyết nguyên nhân",
+            "Nội soi dạ dày ống mềm kiểm tra tình trạng miệng nối",
+            "Dùng thuốc tan huyết khối đường tĩnh mạch trung tâm"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có sốc (HA 90/60 mmHg, mạch nhanh), viêm phúc mạc, tăng Lactate máu. Phẫu thuật thăm dò cấp cứu khẩn cấp song song với hồi sức tích cực."
+        },
+        {
+          "q": "Nếu ruột hoại tử phải cắt bỏ trên 2/3 tổng chiều dài ruột non, bệnh nhân đối mặt với hội chứng gì?",
+          "options": [
+            "Hội chứng suy dinh dưỡng do ruột ngắn nghiêm trọng",
+            "Viêm phúc mạc thứ phát do vi khuẩn kháng thuốc",
+            "Hẹp miệng nối tiêu hóa mạn tính và khó phục hồi",
+            "Trào ngược dịch tụy gây viêm dạ dày ruột cấp tính"
+          ],
+          "answer": 0,
+          "explain": "Cắt bỏ diện rộng ruột non (< 200 cm ruột non còn lại) dẫn đến Hội chứng ruột ngắn (Short Bowel Syndrome), làm mất khả năng hấp thu dinh dưỡng và nước."
+        }
+      ]
+    }
+  ]
+}
