@@ -1,0 +1,620 @@
+{
+  "name": "Chẩn đoán ngôi thế kiểu thế độ lọt Up",
+  "description": "Bộ 10 case lâm sàng lâm sàng về chẩn đoán ngôi thế, kiểu thế và độ lọt trong chuyển dạ - ôn thi nội trú",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Sản",
+  "subcategory": "Sản khoa",
+  "cases": [
+    {
+      "title": "Sản phụ 25 tuổi, PARA 1001, thai 39 tuần 2 ngày, đau bụng từng cơn",
+      "body": "Sản phụ 25 tuổi, PARA 1001, thai 39 tuần 2 ngày, vào viện vì đau bụng từng cơn. Tiền sử đẻ thường một lần con 3200g. <br><br><b>Khám toàn thân:</b> mạch 80 lần/phút, huyết áp 110/70 mmHg, nhiệt độ 37°C, nhịp thở 18 lần/phút, SpO₂ 98%, BMI 24 kg/m², không phù. <br><br><b>Khám sản khoa:</b> Bề cao tử cung 31 cm, tim thai 140 lần/phút, cơn gò 3 cơn/10 phút. Khám âm đạo: cổ tử cung mở 5 cm, xóa 80%, ối còn, sờ thấy rãnh dọc nằm ở đường kính chéo phải của khung chậu mẹ, thóp nhỏ nằm ở vị trí 11 giờ. Phần thấp nhất của hộp sọ ngang mức hai gai chậu hông. Không sờ thấy dây rốn hay các chi, không sờ thấy u cục tiền đạo.",
+      "questions": [
+        {
+          "q": "Chẩn đoán ngôi thế và kiểu thế hiện tại của thai nhi?",
+          "options": [
+            "Ngôi chỏm, chẩm chậu trái trước",
+            "Ngôi chỏm, chẩm chậu phải sau",
+            "Ngôi mặt, cằm chậu trái trước",
+            "Ngôi trán, gốc mũi chậu phải sau"
+          ],
+          "answer": 0,
+          "explain": "Rãnh dọc nằm ở đường chéo phải và thóp nhỏ (chẩm) ở vị trí 11 giờ tương ứng với phía trước và bên trái của khung chậu mẹ. Chẩn đoán chính xác là <b>ngôi chỏm, kiểu thế chẩm chậu trái trước (LOA)</b>. Các phương án khác không phù hợp với mốc giải phẫu được sờ thấy."
+        },
+        {
+          "q": "Tiêu chuẩn lâm sàng xác định thai đã lọt (độ lọt 0) trong trường hợp này?",
+          "options": [
+            "Đường kính lưỡng đỉnh đi qua eo trên",
+            "Phần thấp nhất của xương sọ ngang mức hai gai chậu hông",
+            "Thóp trước của thai nhi nằm ngang mức eo giữa",
+            "Đỉnh đầu thai nhi vừa chạm vào màng trinh của mẹ"
+          ],
+          "answer": 1,
+          "explain": "Theo định nghĩa lâm sàng, <b>độ lọt 0 đạt được khi phần thấp nhất của xương sọ thai nhi (không tính bướu huyết thanh) đi đến ngang mức hai gai chậu hông</b>. Đây là dấu hiệu chắc chắn đường kính lọt lớn nhất đã qua eo trên. Các phương án sai mô tả sai mốc giải phẫu hoặc vị trí lọt."
+        },
+        {
+          "q": "Cận lâm sàng nào giúp xác định chính xác nhất độ lọt và kiểu thế nếu khám âm đạo bị hạn chế?",
+          "options": [
+            "Siêu âm ngả bụng đo đường kính lưỡng đỉnh",
+            "Siêu âm ngả đáy chậu đánh giá góc tiến của đầu thai",
+            "Chụp X-quang khung chậu tư thế thẳng và nghiêng",
+            "Chụp cộng hưởng từ khung chậu không tiêm thuốc"
+          ],
+          "answer": 1,
+          "explain": "Siêu âm ngả đáy chậu (transperineal ultrasound) đang ngày càng được sử dụng để đánh giá chính xác độ lọt (góc tiến của đầu thai - angle of progression) và hướng của đường khớp sọ. Nó khách quan và chính xác hơn siêu âm ngả bụng trong chuyển dạ. X-quang không còn được ưu tiên do nguy cơ bức xạ."
+        },
+        {
+          "q": "Xử trí ban đầu phù hợp nhất cho sản phụ này?",
+          "options": [
+            "Chỉ định mổ lấy thai cấp cứu ngay",
+            "Bấm ối ngay lập tức để tăng co bóp",
+            "Theo dõi diễn biến chuyển dạ tự nhiên",
+            "Truyền tĩnh mạch oxytocin tăng co bóp"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân đang trong pha hoạt động của chuyển dạ với sinh hiệu ổn định, ngôi thuận đã lọt và cơn gò phù hợp (3 cơn/10 phút). <b>Xử trí chuẩn nhất là tiếp tục theo dõi sát chuyển dạ tự nhiên</b>. Không có chỉ định can thiệp mổ hay tăng co lúc này."
+        },
+        {
+          "q": "Diễn biến bất thường nào sau đây ÍT CÓ KHẢ NĂNG xảy ra nhất ở thai phụ này?",
+          "options": [
+            "Ngưng trệ độ lọt do bất tương xứng đầu chậu",
+            "Sa dây rốn khi vỡ ối tự nhiên trong chuyển dạ",
+            "Suy thai cấp tính trong quá trình rặn đẻ",
+            "Đầu thai nhi không xoay về vị trí chẩm vệ"
+          ],
+          "answer": 1,
+          "explain": "Ngôi chỏm đã lọt (độ lọt 0) sẽ chèn khít vào eo trên và eo giữa, làm cho <b>nguy cơ sa dây rốn khi vỡ ối là cực kỳ thấp</b>. Các biến chứng khác như suy thai, ngưng trệ lọt hay đầu không xoay vẫn hoàn toàn có thể xảy ra trong chuyển dạ."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ 28 tuổi, PARA 0000, thai 38 tuần 4 ngày, ra nước âm đạo",
+      "body": "Sản phụ 28 tuổi, PARA 0000, thai 38 tuần 4 ngày, vào viện vì ra nước âm đạo. <br><br><b>Khám toàn thân:</b> mạch 85 lần/phút, huyết áp 120/80 mmHg, không sốt, BMI 26 kg/m². <br><br><b>Khám sản khoa:</b> Bề cao tử cung 32 cm, tim thai 145 lần/phút, cơn gò 2 cơn/10 phút. Khám âm đạo: cổ tử cung mở 4 cm, xóa 70%, ối vỡ hoàn toàn, nước ối trong. Sờ thấy một khối mềm không đều, hai ụ ngồi và đỉnh xương cùng nằm ở vị trí 2 giờ của khung chậu mẹ. Không sờ thấy bàn chân hay cẳng chân thai nhi trong âm đạo. Siêu âm xác định thai ước lượng 3100g, đầu cúi tốt. Khung chậu mẹ bình thường trên lâm sàng.",
+      "questions": [
+        {
+          "q": "Chẩn đoán định hướng ngôi thế và kiểu thế của thai nhi?",
+          "options": [
+            "Ngôi mông thiếu kiểu mông, cùng chậu trái trước",
+            "Ngôi mông đủ kiểu mông, cùng chậu phải trước",
+            "Ngôi mông thiếu kiểu chân, cùng chậu trái sau",
+            "Ngôi mông thiếu kiểu mông, cùng chậu trái sau"
+          ],
+          "answer": 0,
+          "explain": "Đỉnh xương cùng ở vị trí 2 giờ tương ứng với phía trước và bên trái khung chậu mẹ, nên đây là kiểu thế cùng chậu trái trước (LSA). Sờ thấy khối mềm và ụ ngồi nhưng không thấy chân chứng tỏ đây là <b>ngôi mông thiếu kiểu mông</b>."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh hoặc tiêu chuẩn giúp xác định đây là ngôi mông thiếu kiểu mông?",
+          "options": [
+            "Hai đùi gập vào bụng và hai cẳng chân duỗi thẳng lên mặt",
+            "Hai đùi gập vào bụng và hai cẳng chân gập vào đùi",
+            "Một đùi gập vào bụng và một cẳng chân duỗi thẳng xuống",
+            "Cả hai đùi và hai cẳng chân đều duỗi thẳng xuống âm đạo"
+          ],
+          "answer": 0,
+          "explain": "<b>Tiêu chuẩn của ngôi mông thiếu kiểu mông (Frank breech) là hai đùi gập vào bụng nhưng hai cẳng chân lại duỗi thẳng dọc theo thân mình lên phía đầu</b>. Phương án B là ngôi mông đủ, C và D là ngôi mông kiểu chân."
+        },
+        {
+          "q": "Đánh giá cận lâm sàng nào tiếp theo có khả năng thay đổi quyết định quản lý chuyển dạ nhất?",
+          "options": [
+            "Siêu âm Doppler đo động mạch rốn",
+            "Đo kích thước khung chậu bằng X-quang",
+            "Theo dõi nhịp tim thai liên tục bằng CTG",
+            "Siêu âm đánh giá chính xác độ cúi của đầu"
+          ],
+          "answer": 3,
+          "explain": "Mặc dù CTG là bắt buộc, <b>siêu âm đánh giá độ cúi của đầu thai nhi mang tính quyết định để chọn đường sinh</b>. Nếu đầu ngửa, đẻ ngả âm đạo chống chỉ định tuyệt đối do nguy cơ kẹt đầu hậu. Đầu cúi tốt cho phép cân nhắc thử thách đẻ thường."
+        },
+        {
+          "q": "Lựa chọn xử trí ban đầu hoặc quản lý chuyển dạ phù hợp nhất?",
+          "options": [
+            "Thử thách đẻ ngả âm đạo dưới sự theo dõi sát",
+            "Mổ lấy thai cấp cứu ngay lập tức",
+            "Truyền oxytocin ngay để thúc đẩy mở cổ tử cung",
+            "Kéo chân thai nhi để hỗ trợ lọt qua eo trên"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có <b>ngôi mông thiếu kiểu mông, đầu cúi tốt, thai không quá to (3100g) và khung chậu bình thường</b>. Thử thách đẻ ngả âm đạo là hợp lý theo nhiều guideline hiện hành nếu có bác sĩ giàu kinh nghiệm. Cấm kéo chân thai nhi vì sẽ làm mất sự nong rộng cổ tử cung."
+        },
+        {
+          "q": "Xét các yếu tố: (1) Thai con so, (2) Trọng lượng thai 3100g, (3) Đầu thai cúi tốt, (4) Khung chậu bình thường. Tập hợp yếu tố ủng hộ đẻ ngả âm đạo là?",
+          "options": [
+            "1, 2, 3",
+            "2, 3, 4",
+            "1, 3, 4",
+            "1, 2, 4"
+          ],
+          "answer": 1,
+          "explain": "Các yếu tố thuận lợi cho đẻ ngôi mông ngả âm đạo bao gồm thai không quá to (thường 2500g - 3500g), đầu thai cúi tốt, và khung chậu mẹ bình thường. <b>Thai con so (nulliparity) thường được coi là yếu tố nguy cơ tăng thêm</b>, nên không phải yếu tố ủng hộ. Do đó tổ hợp 2, 3, 4 là chính xác."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ 32 tuổi, PARA 2002, thai 39 tuần, nhập viện vì đau bụng dữ dội",
+      "body": "Sản phụ 32 tuổi, PARA 2002, thai 39 tuần, nhập viện vì đau bụng dữ dội. Tiền sử đẻ thường 2 lần con 3000g. <br><br><b>Khám:</b> mạch 90 lần/phút, huyết áp 130/85 mmHg, nhịp thở 20 lần/phút. Bề cao tử cung 33 cm, tim thai 130 lần/phút, cơn gò dồn dập 5 cơn/10 phút, trương lực cơ cơ bản tăng. <br><br><b>Khám âm đạo:</b> Cổ tử cung mở 7 cm, xóa 100%, ối đã vỡ. Sờ thấy một khối mềm không đều, có hố mũi, xương hàm trên, và cằm. Cằm thai nhi đang hướng về phía xương cùng của người mẹ. Không sờ thấy thóp trước hay thóp sau. Không thấy chảy máu âm đạo bất thường, không sờ thấy dây rốn sa.",
+      "questions": [
+        {
+          "q": "Chẩn đoán định hướng ngôi và kiểu thế hiện tại?",
+          "options": [
+            "Ngôi mặt, cằm chậu sau",
+            "Ngôi trán, gốc mũi chậu sau",
+            "Ngôi chỏm, chẩm chậu sau",
+            "Ngôi mông, cùng chậu sau"
+          ],
+          "answer": 0,
+          "explain": "Sờ thấy hố mũi, xương hàm trên và cằm là dấu hiệu đặc trưng của ngôi mặt. Điểm mốc của ngôi mặt là cằm, cằm hướng về xương cùng của mẹ tức là <b>kiểu thế cằm sau (Mentum Posterior)</b>."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh dẫn đến đặc điểm của ngôi thai này?",
+          "options": [
+            "Đầu thai nhi cúi hoàn toàn ép sát ngực",
+            "Đầu thai nhi ngửa tối đa ra phía sau lưng",
+            "Đầu thai nhi ở tư thế trung gian không cúi ngửa",
+            "Đầu thai nhi nghiêng hẳn về một bên vai"
+          ],
+          "answer": 1,
+          "explain": "<b>Ngôi mặt hình thành do đầu thai nhi ngửa tối đa ra phía sau (lưng)</b>, khiến mặt trở thành phần trình diện. Ngôi chỏm là cúi hoàn toàn, ngôi trán là tư thế trung gian ngửa một phần."
+        },
+        {
+          "q": "Thăm dò hoặc bước tiếp theo có giá trị thay đổi thái độ xử trí?",
+          "options": [
+            "Đo pH máu da đầu thai nhi",
+            "Đẩy cằm thai nhi xoay ra trước",
+            "Xác nhận lại bằng siêu âm ngả bụng",
+            "Kẹp forcep xoay đầu thai nhi"
+          ],
+          "answer": 2,
+          "explain": "Mặc dù khám lâm sàng đã rõ, nhưng <b>siêu âm ngả bụng có thể giúp xác nhận lại tư thế đầu ngửa tối đa và vị trí cằm</b>, đồng thời loại trừ các bất thường dị tật bẩm sinh đi kèm trước khi phẫu thuật. Việc xoay cằm hay kẹp forcep xoay trong ngôi mặt cằm sau là chống chỉ định."
+        },
+        {
+          "q": "Xử trí ban đầu hoặc quản lý chuyển dạ bắt buộc?",
+          "options": [
+            "Mổ lấy thai cấp cứu ngay lập tức",
+            "Chờ đợi cằm tự xoay ra phía trước",
+            "Dùng giác hút hỗ trợ để sổ thai nhanh",
+            "Truyền thuốc giảm gò để làm mềm tử cung"
+          ],
+          "answer": 0,
+          "explain": "<b>Ngôi mặt cằm sau không thể đẻ ngả âm đạo</b> do lồng ngực và cằm không thể cùng đi qua eo dưới. Cơn gò dồn dập và trương lực cơ tăng báo hiệu dọa vỡ tử cung. Xử trí bắt buộc là mổ lấy thai cấp cứu."
+        },
+        {
+          "q": "Nếu cố tình theo dõi đẻ ngả âm đạo, diễn biến bất thường nguy hiểm nhất sẽ xảy ra là gì?",
+          "options": [
+            "Kẹt vai do thai nhi quá to",
+            "Chảy máu sau sinh do đờ tử cung",
+            "Vỡ tử cung do đầu thai không thể lọt",
+            "Suy thai cấp do sa dây rốn ẩn"
+          ],
+          "answer": 2,
+          "explain": "Trong ngôi mặt cằm sau, đường kính lọt là ức-thóp trước (9.5 cm) nhưng khi xuống sâu, cổ thai nhi bị kéo căng tối đa. <b>Trục của đầu và thân không thể gập để qua eo dưới, dẫn đến ngưng trệ hoàn toàn. Dưới sức co bóp dồn dập, vỡ tử cung là biến chứng thảm khốc nhất</b> nếu không mổ kịp thời."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân 29 tuổi, PARA 1011, thai 37 tuần 5 ngày, vỡ ối đột ngột",
+      "body": "Bệnh nhân 29 tuổi, PARA 1011, thai 37 tuần 5 ngày, vào viện vì vỡ ối đột ngột ở nhà cách 1 giờ, ra nước ối nhiều. <br><br><b>Khám toàn thân:</b> bình thường. <br><br><b>Khám sản khoa:</b> Bề cao tử cung 30 cm, trục tử cung nằm ngang, bụng bè ngang. Tim thai 140 lần/phút rõ ở quanh rốn. Cơn gò thưa 1-2 cơn/10 phút. <br><br><b>Khám âm đạo:</b> Cổ tử cung mở 3 cm, xóa 60%, ối đã vỡ hoàn toàn. Khung chậu trống rỗng, không sờ thấy đầu hay mông ở phần thấp. Đưa ngón tay lên cao sờ thấy mạng sườn và một khối xương nhô ra được xác định là mỏm vai nằm ở hố chậu trái. Không sờ thấy dây rốn hay các chi sa xuống âm đạo.",
+      "questions": [
+        {
+          "q": "Chẩn đoán ngôi thế hiện tại của thai nhi?",
+          "options": [
+            "Ngôi chỏm cao chưa lọt",
+            "Ngôi ngang, mỏm vai trái",
+            "Ngôi mông thiếu kiểu chân",
+            "Ngôi trán đang lọt"
+          ],
+          "answer": 1,
+          "explain": "Trục tử cung nằm ngang, sờ thấy mạng sườn và mỏm vai ở hố chậu trái là dấu hiệu điển hình của <b>ngôi ngang (Transverse lie), điểm mốc là mỏm vai trái</b>."
+        },
+        {
+          "q": "Tiêu chuẩn hoặc cơ chế sinh lý bệnh khiến ngôi này không thể sinh ngả âm đạo khi thai sống đủ tháng?",
+          "options": [
+            "Đường kính lọt của ngôi thai lớn hơn mọi đường kính khung chậu",
+            "Thai nhi không thể thực hiện động tác cúi ngửa đầu",
+            "Vai thai nhi không thể xoay về đường kính trước sau",
+            "Dây rốn luôn luôn bị sa khi vỡ ối ở ngôi này"
+          ],
+          "answer": 0,
+          "explain": "Trong ngôi ngang, trục dọc của thai vuông góc với trục dọc của mẹ. Phần trình diện là vai và hông, tạo ra một khối không thể lọt qua eo trên vì <b>đường kính lọt (đường kính ngang vai hoặc lớn hơn) vượt quá mọi đường kính của khung chậu mẹ</b>. Thai đủ tháng sống hoàn toàn không thể đẻ ngả âm đạo."
+        },
+        {
+          "q": "Việc phân tầng nguy cơ và đánh giá cận lâm sàng nào là quan trọng nhất lúc này?",
+          "options": [
+            "Siêu âm đánh giá vị trí bánh rau và phần thai",
+            "Chụp X-quang khung chậu đánh giá eo trên",
+            "Định lượng ngay nồng độ Beta-hCG máu",
+            "Đo kích thước khung chậu bằng dụng cụ Compa"
+          ],
+          "answer": 0,
+          "explain": "<b>Siêu âm rất quan trọng để xác nhận lại ngôi thai, vị trí đầu/lưng, và đặc biệt là đánh giá vị trí bánh rau</b>. Rau tiền đạo là một nguyên nhân phổ biến gây ngôi ngang và nếu có sẽ làm tăng nguy cơ chảy máu ồ ạt. Các phương pháp đo khung chậu không có giá trị khi ngôi ngang bắt buộc phải mổ."
+        },
+        {
+          "q": "Xử trí ban đầu và quản lý an toàn nhất cho bệnh nhân này?",
+          "options": [
+            "Chỉ định mổ lấy thai chủ động",
+            "Truyền oxytocin kích thích chuyển dạ",
+            "Làm thủ thuật ngoại xoay thai thành ngôi đầu",
+            "Theo dõi sát tim thai chờ cổ tử cung mở hết"
+          ],
+          "answer": 0,
+          "explain": "Với thai 37 tuần 5 ngày (đủ tháng), ngôi ngang và đã vỡ ối, <b>xử trí an toàn duy nhất là mổ lấy thai</b>. Ngoại xoay thai (external cephalic version) chống chỉ định khi ối đã vỡ hoàn toàn do nguy cơ suy thai và không thể xoay được."
+        },
+        {
+          "q": "Biến chứng cấp tính nguy hiểm nhất có thể xảy ra bất cứ lúc nào do tình trạng vỡ ối ở bệnh nhân này?",
+          "options": [
+            "Thai suy dinh dưỡng chậm phát triển",
+            "Sa dây rốn qua cổ tử cung",
+            "Nhau bong non thể ẩn",
+            "Chảy máu ồ ạt do rách cổ tử cung"
+          ],
+          "answer": 1,
+          "explain": "Trong ngôi ngang, phần trình diện (vai) không tì khít vào eo trên, để lại những khoảng trống lớn. Khi ối vỡ, <b>nguy cơ dòng nước ối cuốn theo dây rốn sa xuống âm đạo là cực kỳ cao</b>, đe dọa sinh mạng thai nhi ngay lập tức. Các biến chứng khác không phải là nguy cơ cấp tính đặc thù nhất lúc này."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ 27 tuổi, PARA 1001, thai 40 tuần, chuyển dạ pha hoạt động",
+      "body": "Thai phụ 27 tuổi, PARA 1001, thai 40 tuần, chuyển dạ pha hoạt động. <br><br><b>Khám:</b> mạch 88 lần/phút, huyết áp 115/75 mmHg, SpO₂ 99%. Bề cao tử cung 31 cm. Tim thai 140 lần/phút, cơn gò 4 cơn/10 phút. <br><br><b>Khám âm đạo:</b> Cổ tử cung mở 8 cm, xóa 90%, ối vỡ màu trong. Đầu thai nhi có bướu thanh huyết nhỏ. Sờ thấy rãnh dọc nằm ở đường kính chéo trái của khung chậu mẹ, thóp sau (thóp nhỏ) sờ thấy ở vị trí 5 giờ. Hai gai chậu hông sờ rõ, phần thấp nhất của xương sọ nằm dưới gai chậu hông 1 cm. Không có dấu hiệu chéo hóa các mảnh xương sọ.",
+      "questions": [
+        {
+          "q": "Chẩn đoán ngôi thế, kiểu thế và độ lọt hiện tại?",
+          "options": [
+            "Ngôi chỏm, chẩm chậu trái sau, lọt độ +1",
+            "Ngôi chỏm, chẩm chậu phải sau, lọt độ -1",
+            "Ngôi chỏm, chẩm chậu trái trước, lọt độ +1",
+            "Ngôi mặt, cằm chậu trái sau, lọt độ 0"
+          ],
+          "answer": 0,
+          "explain": "Thóp nhỏ (chẩm) ở vị trí 5 giờ, tức là nằm ở phía sau và bên trái của khung chậu mẹ. Rãnh dọc ở đường chéo trái. Đây là ngôi chỏm, kiểu thế chẩm chậu trái sau (LOP). Phần thấp nhất của sọ dưới gai hông 1 cm tương ứng với độ lọt +1."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh nào làm cho kiểu thế này thường gây chuyển dạ kéo dài?",
+          "options": [
+            "Đầu thai nhi phải xoay 135 độ để về chẩm vệ",
+            "Đầu thai nhi cúi không tốt làm tăng đường kính lọt",
+            "Xương sọ thai nhi bị chồng khớp quá mức cho phép",
+            "Khung chậu mẹ luôn hẹp ở đường kính chéo trái"
+          ],
+          "answer": 0,
+          "explain": "Trong các kiểu thế sau (như LOP hoặc ROP), để sổ thai theo kiểu chẩm vệ bình thường, đầu thai nhi phải xoay một góc lớn 135 độ từ sau ra trước (thay vì chỉ 45 độ như kiểu thế trước). Quá trình xoay này mất nhiều thời gian và công sức, dẫn đến chuyển dạ kéo dài."
+        },
+        {
+          "q": "Bước thăm dò hoặc đánh giá tiếp theo nào là hợp lý nhất?",
+          "options": [
+            "Siêu âm xác định chính xác vị trí chẩm và độ cúi",
+            "Chụp X-quang để đo lại đường kính liên gai hông",
+            "Xét nghiệm khí máu cuống rốn ngay lập tức",
+            "Thử nghiệm rặn đẻ có hướng dẫn bằng máy"
+          ],
+          "answer": 0,
+          "explain": "Khám âm đạo khi có bướu thanh huyết có thể gây nhầm lẫn mốc giải phẫu. <b>Siêu âm ngả bụng hoặc đáy chậu là công cụ tuyệt vời và không xâm lấn để xác định lại chính xác vị trí chẩm (lưng thai nhi) và đánh giá độ cúi, giúp tiên lượng khả năng tự xoay.<b>"
+        },
+        {
+          "q": "Hướng xử trí hoặc quản lý nào phù hợp nhất trong giai đoạn này?",
+          "options": [
+            "Kẹp forcep quay đầu thai nhi sang chẩm vệ ngay",
+            "Tiếp tục theo dõi cho đến khi cổ tử cung mở hết",
+            "Chỉ định mổ lấy thai khẩn cấp do đầu không xoay",
+            "Bấm ối lại để làm giảm áp lực buồng tử cung"
+          ],
+          "answer": 1,
+          "explain": "Cổ tử cung mới mở 8 cm (chưa mở hết), ngôi thai đang lọt (+1) và sinh hiệu mẹ-thai ổn định. Cách xử trí tốt nhất là <b>tiếp tục theo dõi sát, duy trì cơn gò tốt, và chờ đợi đầu thai tự xoay khi lọt thấp xuống tầng sinh môn<b>. Các thủ thuật can thiệp lúc này là quá sớm và nguy hiểm."
+        },
+        {
+          "q": "Nếu kiểu thế này giữ nguyên không xoay ra trước khi rặn sổ, biến chứng nào dễ xảy ra nhất cho mẹ?",
+          "options": [
+            "Tổn thương bàng quang niệu đạo nặng nề",
+            "Vỡ tử cung đoạn dưới do đầu quá to",
+            "Rách tầng sinh môn độ III hoặc độ IV",
+            "Lộn tử cung toàn phần sau sổ thai"
+          ],
+          "answer": 2,
+          "explain": "Nếu đầu không xoay ra trước mà sổ theo kiểu chẩm cùng (sổ kiểu thế sau), đường kính lọt qua âm hộ sẽ lớn hơn bình thường. Cúi ngửa của đầu thai nhi sẽ tạo áp lực cực lớn lên thành sau âm đạo và trực tràng, làm tăng đáng kể nguy cơ rách tầng sinh môn phức tạp (độ III, IV)."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ 30 tuổi, PARA 1001, thai 39 tuần, pha 2 chuyển dạ kéo dài 2 giờ",
+      "body": "Sản phụ 30 tuổi, PARA 1001, thai 39 tuần, đang trong giai đoạn 2 của chuyển dạ kéo dài 2 giờ. <br><br><b>Khám:</b> mạch 85 lần/phút, huyết áp 120/70 mmHg, SpO₂ 99%. Tim thai 135 lần/phút bình thường. <br><br><b>Khám âm đạo:</b> Cổ tử cung đã mở trọn 10 cm, ối vỡ nước ối trong. Sờ thấy phần trình diện là một khối cứng. Xác định rõ thóp trước (thóp lớn) nằm ở chính giữa, sờ thấy gốc mũi và cung mày, nhưng <b>KHÔNG sờ thấy cằm</b>. Phần thấp nhất của hộp sọ ngang mức gai chậu hông (độ lọt 0) và không tiến triển thêm trong 1 giờ qua.",
+      "questions": [
+        {
+          "q": "Chẩn đoán ngôi thai hiện tại là gì?",
+          "options": [
+            "Ngôi chỏm đầu ngửa vừa",
+            "Ngôi mặt cằm trước",
+            "Ngôi trán",
+            "Ngôi thóp trước"
+          ],
+          "answer": 2,
+          "explain": "Sờ thấy thóp trước, gốc mũi và cung mày nhưng KHÔNG sờ thấy cằm là <b>tiêu chuẩn chẩn đoán lâm sàng của ngôi trán (Brow presentation)</b>. Nếu sờ thấy cằm thì đã là ngôi mặt."
+        },
+        {
+          "q": "Đường kính lọt của ngôi thai này là đường kính nào?",
+          "options": [
+            "Hạ chẩm - thóp trước (9.5 cm)",
+            "Thượng chẩm - cằm (13.5 cm)",
+            "Hạ cằm - thóp trước (9.5 cm)",
+            "Trán - chẩm (11.5 cm)"
+          ],
+          "answer": 1,
+          "explain": "Trong ngôi trán, đầu thai nhi ở tư thế trung gian (không cúi, không ngửa hoàn toàn). <b>Đường kính lọt là đường kính thượng chẩm - cằm, có kích thước trung bình lên tới 13.5 cm. Đây là đường kính lớn nhất của đầu thai nhi.</b>"
+        },
+        {
+          "q": "Thăm dò hình ảnh nào có thể giúp đánh giá góc ngửa của đầu thai nhi để phân biệt rõ ràng các ngôi?",
+          "options": [
+            "Chụp X-quang khung chậu",
+            "Siêu âm đo góc cằm - cột sống",
+            "Chụp cộng hưởng từ thai nhi",
+            "Siêu âm Doppler mạch máu não thai"
+          ],
+          "answer": 1,
+          "explain": "<b>Siêu âm có thể giúp xác định chính xác góc giữa cằm và cột sống cổ của thai nhi</b> để phân biệt rõ ràng giữa ngôi chỏm đầu ngửa, ngôi trán và ngôi mặt, đặc biệt khi khám lâm sàng bị hạn chế bởi bướu thanh huyết."
+        },
+        {
+          "q": "Quyết định xử trí nào là đúng đắn nhất đối với trường hợp này ở thai đủ tháng?",
+          "options": [
+            "Mổ lấy thai cấp cứu",
+            "Kẹp Forcep kéo thai xuống",
+            "Truyền oxytocin tăng co bóp",
+            "Dùng tay đẩy đầu thai cúi xuống"
+          ],
+          "answer": 0,
+          "explain": "Với đường kính lọt 13.5 cm, lớn hơn mọi đường kính của khung chậu bình thường, <b>thai nhi đủ tháng ngôi trán hoàn toàn không thể lọt qua eo trên. Xử trí duy nhất đúng và an toàn là mổ lấy thai cấp cứu</b>. Kéo Forcep là chống chỉ định tuyệt đối."
+        },
+        {
+          "q": "Đặc điểm diễn biến lâm sàng kinh điển của ngôi này nếu không can thiệp kịp thời?",
+          "options": [
+            "Thai nhi sổ rất nhanh do đầu nhỏ",
+            "Ngôi thai hoàn toàn không thể lọt",
+            "Cằm tự động xoay ra trước để sổ",
+            "Thai nhi sổ theo kiểu chẩm cùng"
+          ],
+          "answer": 1,
+          "explain": "<b>Đặc điểm kinh điển của ngôi trán ở thai sống đủ tháng là ngôi hoàn toàn không thể lọt</b>. Chuyển dạ sẽ ngừng tiến triển, nếu để lâu tử cung co bóp mạnh cố gắng tống thai ra sẽ dẫn đến vỡ tử cung."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ 31 tuổi, PARA 2002, thai 40 tuần 2 ngày, đầu lọt không đối xứng",
+      "body": "Thai phụ 31 tuổi, PARA 2002, thai 40 tuần 2 ngày, nhập viện vì đau bụng chuyển dạ. <br><br><b>Khám:</b> mạch 80 lần/phút, huyết áp 110/70 mmHg. Bề cao tử cung 32 cm, tim thai 140 lần/phút. Cơn gò 4 cơn/10 phút. <br><br><b>Khám âm đạo:</b> Cổ tử cung mở 6 cm, xóa 80%, ối còn. Đầu thai nhi đã lọt. Tuy nhiên, sờ thấy rãnh dọc nằm ngang (theo đường kính ngang của khung chậu), và rãnh dọc nằm rất sát với khớp vệ (xương mu) của mẹ, khiến bướu đỉnh phía sau cọ sát vào mỏm nhô. Không sờ thấy tai thai nhi.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hiện tượng lọt của đầu thai nhi trong trường hợp này?",
+          "options": [
+            "Đầu lọt đối xứng hoàn toàn",
+            "Đầu lọt không đối xứng kiểu sau (Litzmann)",
+            "Đầu lọt không đối xứng kiểu trước (Naegele)",
+            "Đầu lọt cúi không hoàn toàn"
+          ],
+          "answer": 1,
+          "explain": "Rãnh dọc nằm sát khớp vệ (xương mu) có nghĩa là xương đỉnh phía sau (nằm gần xương cùng của mẹ) đang đi xuống thấp hơn và trình diện trước. <b>Đây là hiện tượng lọt không đối xứng kiểu sau (Posterior asynclitism / Litzmann asynclitism)</b>."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh của hiện tượng này là gì?",
+          "options": [
+            "Đầu thai nhi nghiêng sao cho bướu đỉnh sau chúi xuống trước",
+            "Đầu thai nhi nghiêng sao cho bướu đỉnh trước chúi xuống trước",
+            "Đầu thai nhi ngửa tối đa ra phía sau",
+            "Đầu thai nhi cúi tối đa ép sát vào ngực"
+          ],
+          "answer": 0,
+          "explain": "Lọt không đối xứng (asynclitism) xảy ra khi đầu thai nhi không lọt vuông góc mà nghiêng về một bên vai. Trong kiểu Litzmann, <b>đầu nghiêng về vai trước, làm bướu đỉnh sau chúi xuống trước và đi vào tiểu khung, đẩy rãnh dọc lệch về phía xương vệ</b>."
+        },
+        {
+          "q": "Thăm dò nào sau đây có thể hỗ trợ xác nhận tình trạng mất đối xứng của đầu thai nhi?",
+          "options": [
+            "Siêu âm đo góc giữa xương chậu và đường giữa sọ thai",
+            "Nội soi buồng ối quan sát trực tiếp",
+            "Chụp CT scan khung chậu ba chiều",
+            "Siêu âm đo chiều dài kênh cổ tử cung"
+          ],
+          "answer": 0,
+          "explain": "<b>Siêu âm trong chuyển dạ (đặc biệt ngả đáy chậu hoặc ngả bụng thấp) có thể đo góc giữa đường giữa não của thai nhi và trục của khung chậu mẹ</b>, giúp khách quan hóa tình trạng lọt không đối xứng (asynclitism) khi khám tay khó khăn."
+        },
+        {
+          "q": "Quản lý lâm sàng ban đầu hợp lý nhất cho hiện tượng này?",
+          "options": [
+            "Kẹp forcep xoay đầu ngay lập tức",
+            "Mổ lấy thai cấp cứu không trì hoãn",
+            "Đẩy đầu thai nhi lên cao để xoay lại",
+            "Theo dõi sát tiến triển chuyển dạ tự nhiên"
+          ],
+          "answer": 3,
+          "explain": "<b>Lọt không đối xứng nhẹ thường là một cơ chế sinh lý để đầu thai thích nghi và lọt qua eo trên</b>, đặc biệt ở người con rạ. Do đó, quản lý ban đầu là theo dõi sát tiến triển chuyển dạ tự nhiên. Thường cơn co tử cung sẽ uốn nắn đầu thai nhi lọt qua được."
+        },
+        {
+          "q": "Nếu tình trạng này kéo dài và không được khắc phục bởi cơn co tử cung, nguy cơ lớn nhất là gì?",
+          "options": [
+            "Sa dây rốn",
+            "Ngưng trệ lọt và xuống của ngôi thai",
+            "Nhau tiền đạo chảy máu",
+            "Rách vỡ bàng quang mẹ"
+          ],
+          "answer": 1,
+          "explain": "Nếu lọt không đối xứng quá mức hoặc không thể tự khắc phục (thường do bất tương xứng đầu chậu vi tế), <b>đường kính lọt sẽ lớn hơn bình thường. Nguy cơ lớn nhất là ngưng trệ quá trình lọt và xuống của ngôi thai</b>, dẫn đến đình trệ chuyển dạ và phải mổ lấy thai."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ 22 tuổi, PARA 0000, thai 35 tuần, vỡ ối tự nhiên, sa dây rốn",
+      "body": "Sản phụ 22 tuổi, PARA 0000, thai 35 tuần, nhập viện vì vỡ ối tự nhiên. <br><br><b>Khám toàn thân:</b> mạch 95 lần/phút, huyết áp 110/70 mmHg. Bề cao tử cung 28 cm. Tim thai giảm đột ngột xuống còn 90 lần/phút. <br><br><b>Khám âm đạo:</b> Cổ tử cung mở 5 cm, ối đã vỡ hoàn toàn. Sờ thấy một bàn chân thai nhi trong âm đạo, gót chân chỉ về phía xương cùng mẹ. Kế bên bàn chân, bác sĩ sờ thấy một đoạn dây rốn đang đập với nhịp chậm.",
+      "questions": [
+        {
+          "q": "Chẩn đoán đầy đủ nhất cho tình trạng hiện tại?",
+          "options": [
+            "Ngôi mông thiếu kiểu mông kèm sa dây rốn",
+            "Ngôi mông đủ kiểu chân kèm dây rốn bám màng",
+            "Ngôi mông kiểu chân kèm sa dây rốn",
+            "Ngôi ngang sa chi dưới kèm sa dây rốn"
+          ],
+          "answer": 2,
+          "explain": "Sờ thấy bàn chân trong âm đạo chẩn đoán chắc chắn là <b>ngôi mông kiểu chân (Footling breech)</b>. Sờ thấy dây rốn đập trong âm đạo cùng với phần thai là chẩn đoán xác định <b>sa dây rốn (Cord prolapse)</b>."
+        },
+        {
+          "q": "Yếu tố nguy cơ cao nhất từ phía ngôi thai dẫn đến biến chứng sa dây rốn trong trường hợp này là gì?",
+          "options": [
+            "Ngôi thai không tì khít vào eo trên khung chậu",
+            "Đầu thai nhi quá to chèn ép đoạn dưới",
+            "Thai nhi thiếu tháng có trương lực cơ kém",
+            "Nước ối quá ít làm dây rốn không nổi được"
+          ],
+          "answer": 0,
+          "explain": "<b>Ngôi mông (đặc biệt ngôi kiểu chân) và ngôi ngang là các ngôi bất thường</b>. Điểm chung là phần trình diện nhỏ, không đều, không bình chỉnh và không tì khít vào eo trên khung chậu mẹ. Khi vỡ ối, dòng nước ối dễ dàng cuốn dây rốn sa qua các khoảng trống này xuống âm đạo."
+        },
+        {
+          "q": "Hành động đầu tiên và khẩn cấp nhất bác sĩ cần làm là gì?",
+          "options": [
+            "Cho mẹ rặn đẻ ngay lập tức để lấy thai ra",
+            "Dùng tay đẩy phần ngôi thai lên cao để giải phóng dây rốn",
+            "Kéo bàn chân thai nhi xuống để khóa chặt dây rốn lại",
+            "Tiêm thuốc kích thích trưởng thành phổi thai nhi"
+          ],
+          "answer": 1,
+          "explain": "<b>Sa dây rốn là cấp cứu sản khoa tối khẩn</b>. Dây rốn bị phần thai chèn ép vào khung chậu mẹ sẽ cắt đứt nguồn oxy của thai (tim thai đang rớt 90 l/p). Hành động sơ cứu đầu tiên là bác sĩ giữ nguyên tay trong âm đạo, <b>đẩy phần trình diện (bàn chân/mông) lên cao để giải phóng chèn ép cho dây rốn</b>, đồng thời cho mẹ nằm đầu thấp mông cao."
+        },
+        {
+          "q": "Xử trí triệt để tiếp theo sau khi thực hiện hành động cấp cứu ban đầu?",
+          "options": [
+            "Chờ đợi cổ tử cung mở trọn để đẻ ngả âm đạo",
+            "Kẹp forcep kéo thai ra ngoài ngay",
+            "Chuyển mổ lấy thai cấp cứu tối khẩn",
+            "Nhét dây rốn ngược lại vào buồng tử cung"
+          ],
+          "answer": 2,
+          "explain": "Dù cổ tử cung đã mở 5 cm, nhưng với sa dây rốn và thai suy, không thể chờ đợi đẻ ngả âm đạo. <b>Xử trí triệt để duy nhất và nhanh nhất là chuyển phòng mổ để mổ lấy thai cấp cứu tối khẩn</b> (trong khi tay bác sĩ vẫn giữ phần thai bên dưới)."
+        },
+        {
+          "q": "Tiên lượng sống còn cho thai nhi trong tình huống này phụ thuộc nhiều nhất vào yếu tố nào?",
+          "options": [
+            "Cân nặng của thai nhi lúc sinh",
+            "Lượng nước ối còn lại trong buồng tử cung",
+            "Thời gian từ khi sa dây rốn đến khi mổ lấy thai ra",
+            "Nhóm máu của mẹ và thai nhi có bất đồng không"
+          ],
+          "answer": 2,
+          "explain": "Thời gian vàng để cứu sống thai nhi bị sa dây rốn là rất ngắn (thường trong vòng vài phút đến dưới 30 phút). Não thai nhi chịu đựng thiếu oxy rất kém, do đó <b>tiên lượng tử vong hay di chứng thần kinh phụ thuộc quyết định vào thời gian từ khi chẩn đoán đến khi lấy được thai ra ngoài</b>."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ 26 tuổi, PARA 1001, thai 39 tuần, pha 2 chuyển dạ, ngừng trệ lọt",
+      "body": "Sản phụ 26 tuổi, PARA 1001, thai 39 tuần, đang ở giai đoạn 2 chuyển dạ. <br><br><b>Khám:</b> mạch 80 lần/phút, huyết áp 120/80 mmHg. Tim thai 140 lần/phút. <br><br><b>Khám âm đạo:</b> Cổ tử cung mở trọn 10 cm. Sờ thấy ngôi chỏm, rãnh dọc nằm ngang (theo đường kính ngang của khung chậu), thóp nhỏ (chẩm) nằm ở vị trí 3 giờ. Phần thấp nhất của hộp sọ ngang mức hai gai chậu hông (độ lọt 0). <b>Sản phụ đã rặn đẻ tích cực 2 giờ nhưng độ lọt và kiểu thế không thay đổi.</b>",
+      "questions": [
+        {
+          "q": "Chẩn đoán kiểu thế hiện tại của thai nhi?",
+          "options": [
+            "Ngôi chỏm, chẩm chậu trái ngang",
+            "Ngôi chỏm, chẩm chậu phải ngang",
+            "Ngôi chỏm, chẩm chậu phải sau",
+            "Ngôi trán, chẩm chậu trái ngang"
+          ],
+          "answer": 0,
+          "explain": "Rãnh dọc nằm ngang và thóp nhỏ (chẩm) ở vị trí 3 giờ (tương ứng bên trái của mẹ) cho thấy đây là <b>kiểu thế chẩm chậu trái ngang (Left Occiput Transverse - LOT)</b>. Đây là hiện tượng ngừng xoay ngang sâu (deep transverse arrest) do đầu thai lọt 0 nhưng không xoay được."
+        },
+        {
+          "q": "Hình thái khung chậu nào của người mẹ dễ làm tăng nguy cơ xảy ra kiểu thế ngừng trệ này nhất?",
+          "options": [
+            "Khung chậu dạng phụ (Gynecoid)",
+            "Khung chậu dạng dẹt (Platypelloid)",
+            "Khung chậu dạng hầu (Anthropoid)",
+            "Khung chậu đối xứng hoàn hảo"
+          ],
+          "answer": 1,
+          "explain": "<b>Khung chậu dạng dẹt (Platypelloid) có đường kính trước sau ngắn nhưng đường kính ngang rộng</b>. Đầu thai nhi buộc phải lọt theo đường kính ngang nhưng sau đó bị kẹt, không thể xoay chẩm ra trước (chẩm vệ) để sổ, dẫn đến ngưng trệ ở kiểu thế ngang."
+        },
+        {
+          "q": "Thăm dò nào sau đây có thể giúp đánh giá chính xác nguyên nhân ngưng trệ mà ít xâm lấn nhất?",
+          "options": [
+            "Chụp X-quang khung chậu mẹ ngay lập tức",
+            "Siêu âm ngả đáy chậu đánh giá vị trí chẩm và độ lọt",
+            "Đo áp lực cơn co tử cung bằng catheter nội buồng ối",
+            "Khám âm đạo bằng hai tay để đo đường kính chéo"
+          ],
+          "answer": 1,
+          "explain": "<b>Siêu âm ngả đáy chậu/âm đạo trong chuyển dạ giúp xác định chính xác vị trí chẩm, độ cúi, và xác nhận đầu thực sự chưa vượt qua eo giữa</b> (trạm 0). Nó giúp bác sĩ tránh việc đánh giá sai độ lọt qua khám tay do nhầm lẫn bướu thanh huyết."
+        },
+        {
+          "q": "Xử trí an toàn và hợp lý nhất sau 2 giờ rặn đẻ không tiến triển với độ lọt 0?",
+          "options": [
+            "Mổ lấy thai cấp cứu",
+            "Kẹp Forcep kéo thai nhi ra",
+            "Dùng tay xoay đầu thai nhi 90 độ",
+            "Truyền thêm oxytocin liều cao"
+          ],
+          "answer": 0,
+          "explain": "Sản phụ đã rặn 2 giờ (thời gian tối đa cho pha 2 nếu không có đẻ không đau) mà đầu thai vẫn ở trạm 0 (chưa lọt thấp) và không xoay. <b>Việc can thiệp bằng Forcep quay ở vị trí lọt 0 (mid-pelvis) là cực kỳ nguy hiểm. Xử trí an toàn và chuẩn mực nhất hiện nay là mổ lấy thai.</b>"
+        },
+        {
+          "q": "Nếu cố gắng kéo Forcep khi đầu thai nhi đang nằm ngang ở eo giữa (độ lọt 0), biến chứng nào dễ xảy ra nhất cho mẹ?",
+          "options": [
+            "Thuyên tắc ối cấp tính",
+            "Đờ tử cung gây chảy máu sau sinh",
+            "Rách phức tạp phần mềm và tổn thương cơ vòng hậu môn",
+            "Vỡ tử cung ở đáy tử cung"
+          ],
+          "answer": 2,
+          "explain": "Can thiệp bằng kẹp Forcep quay (rotational forceps) khi đầu chưa lọt thấp (trạm 0) đòi hỏi kỹ thuật rất khó, cần không gian rộng để xoay càng kẹp. <b>Điều này cực kỳ dễ gây rách rộng âm đạo, vách trực tràng âm đạo và đứt cơ vòng hậu môn</b> (rách độ III, IV) của người mẹ."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ 24 tuổi, PARA 0000, thai 38 tuần, ngôi phức tạp (tay sa cùng đầu)",
+      "body": "Thai phụ 24 tuổi, PARA 0000, thai 38 tuần, nhập viện vì vỡ ối. <br><br><b>Khám:</b> mạch 80 lần/phút, huyết áp 110/70 mmHg. Bề cao tử cung 31 cm. Tim thai 145 lần/phút. Cơn gò 3 cơn/10 phút. <br><br><b>Khám âm đạo:</b> Cổ tử cung mở 6 cm, ối vỡ nước ối trong. Bác sĩ sờ thấy đỉnh đầu thai nhi (ngôi chỏm) ở độ lọt -1. <b>Tuy nhiên, nằm ngay cạnh đầu thai nhi, bác sĩ sờ thấy một bàn tay nhỏ của thai nhi trượt xuống âm đạo.</b> Không sờ thấy dây rốn.",
+      "questions": [
+        {
+          "q": "Chẩn đoán tình trạng hiện tại của ngôi thai?",
+          "options": [
+            "Ngôi ngang sa cánh tay",
+            "Ngôi phức tạp (tay sa cùng đầu)",
+            "Ngôi mông sa tay",
+            "Ngôi chỏm lọt không đối xứng"
+          ],
+          "answer": 1,
+          "explain": "Sờ thấy đầu thai nhi (ngôi chỏm) cùng với một bàn tay sa xuống cạnh đầu được chẩn đoán là <b>ngôi phức tạp (Compound presentation)</b>. Nếu chỉ sờ thấy tay mà không thấy đầu thì mới nghĩ đến ngôi ngang."
+        },
+        {
+          "q": "Định nghĩa chính xác nhất về cơ chế của ngôi thai này?",
+          "options": [
+            "Sự sa của dây rốn qua cổ tử cung mở",
+            "Sự trình diện đồng thời của một chi cùng với ngôi thai chính",
+            "Sự thay đổi từ ngôi đầu sang ngôi ngang do vỡ ối",
+            "Sự vướng kẹt của vai thai nhi sau khi đầu đã sổ"
+          ],
+          "answer": 1,
+          "explain": "<b>Ngôi phức tạp được định nghĩa là sự trình diện đồng thời của một chi (thường là tay hoặc cánh tay) đi song song và sa xuống cùng với phần ngôi thai chính</b> (thường là đầu, hiếm khi là mông) vào eo trên khung chậu."
+        },
+        {
+          "q": "Hành động thăm khám tiếp theo quan trọng nhất cần thực hiện ngay?",
+          "options": [
+            "Cố gắng kéo bàn tay thai nhi ra ngoài",
+            "Loại trừ chắc chắn tình trạng sa dây rốn kèm theo",
+            "Đo kích thước khung chậu mẹ bằng tay",
+            "Chọc ối để đánh giá màu sắc nước ối"
+          ],
+          "answer": 1,
+          "explain": "Ngôi phức tạp tạo ra khoảng trống không tì khít giữa đầu thai nhi và khung chậu. <b>Điều này làm tăng nguy cơ dây rốn bị sa theo khoảng trống đó. Do đó, việc quan trọng nhất khi khám là phải sờ kỹ để loại trừ sa dây rốn ẩn hoặc rõ ràng.</b>"
+        },
+        {
+          "q": "Phương pháp quản lý ban đầu hợp lý nhất nếu không có biến chứng khác?",
+          "options": [
+            "Theo dõi chuyển dạ tự nhiên, tay thường tự rút lên khi đầu lọt",
+            "Mổ lấy thai cấp cứu ngay lập tức",
+            "Dùng kẹp forcep kéo đầu thai nhi xuống",
+            "Đẩy mạnh bàn tay thai nhi ngược vào tử cung"
+          ],
+          "answer": 0,
+          "explain": "Nếu không có sa dây rốn và tim thai bình thường, <b>quản lý chuẩn mực là theo dõi chuyển dạ tự nhiên (expectant management)</b>. Thông thường, khi đầu thai nhi lọt thâu xuống dưới sức ép của cơn co, bàn tay sa sẽ tự động bị đẩy ngược rút lên trên. Không cố ý kéo hay đẩy tay thai nhi vì dễ gây tổn thương."
+        },
+        {
+          "q": "Biến chứng cấp tính nào là mối đe dọa lớn nhất đối với kiểu ngôi này?",
+          "options": [
+            "Rách cổ tử cung sâu",
+            "Chảy máu ồ ạt từ nhau thai",
+            "Sa dây rốn",
+            "Nhau cài răng lược"
+          ],
+          "answer": 2,
+          "explain": "Như đã giải thích, do phần trình diện không đều và không tì khít vào eo trên, <b>biến chứng cấp tính và đe dọa tính mạng thai nhi cao nhất trong ngôi phức tạp chính là sa dây rốn</b>. Nếu xảy ra sa dây rốn, thái độ xử trí sẽ thay đổi thành mổ lấy thai cấp cứu."
+        }
+      ]
+    }
+  ]
+}
