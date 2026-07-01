@@ -1,0 +1,620 @@
+{
+  "name": "Sinh lý chuyển dạ",
+  "description": "Bộ cases lâm sàng về sinh lý chuyển dạ, chuyển dạ giả, các giai đoạn chuyển dạ, biểu đồ chuyển dạ, và các biến chứng trong chuyển dạ",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Sản",
+  "subcategory": "Sản khoa",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 24 tuổi, con so, thai 39 tuần 2 ngày, đau bụng từng cơn",
+      "body": "<b>Tiền sử:</b> PARA 0000, chưa có bệnh lý nội khoa hay ngoại khoa đặc biệt.<br><br><b>Tình huống:</b> Bệnh nhân vào viện vì đau bụng từng cơn vùng hạ vị. Đau bụng xuất hiện khoảng 6 giờ trước, tính chất không đều, khoảng 15-20 phút một cơn, mỗi cơn kéo dài 20 giây, đau giảm khi bệnh nhân nằm nghỉ hoặc thay đổi tư thế.<br><br><b>Khám toàn thân:</b> Mạch 82 lần/phút, huyết áp 110/70 mmHg, nhiệt độ 36.8°C, không phù, không đau đầu hay nhìn mờ.<br><br><b>Khám sản khoa:</b> Bề cao tử cung 32 cm, vòng bụng 92 cm, ước lượng cân thai 3100g, tim thai 145 lần/phút đều rõ, cơn gò tử cung tần số 1-2/10 phút, cường độ yếu. Khám âm đạo: cổ tử cung hướng ra trước, mật độ mềm, xóa 30%, mở 1 cm, ngôi đầu cao, ối còn.<br><br><b>Xét nghiệm máu:</b> Hb 115 g/L, bạch cầu 9.2 G/L, tiểu cầu 210 G/L. Monitoring: nhịp tim thai cơ bản 140 lần/phút, dao động nội tại bình thường, có nhịp tăng, không có nhịp giảm.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào sau đây là phù hợp nhất cho bệnh nhân tại thời điểm nhập viện?",
+          "options": [
+            "Chuyển dạ thực sự giai đoạn tiềm tàng",
+            "Chuyển dạ giả (Chuyển dạ giả Braxton-Hicks)",
+            "Chuyển dạ thực sự giai đoạn hoạt động",
+            "Thai phụ sắp sinh nhưng chưa có dấu hiệu chuyển dạ"
+          ],
+          "answer": 1,
+          "explain": "Chuyển dạ giả dựa trên cơn gò thưa, yếu, giảm khi nghỉ ngơi và cổ tử cung chưa thay đổi đáng kể (mở 1cm ở con so thường chưa là chuyển dạ thực sự). Nguồn: Giáo trình Sản phụ khoa Đại học Y Hà Nội."
+        },
+        {
+          "q": "Sự khác biệt cơ bản về mặt cơ chế bệnh sinh giữa chuyển dạ thực sự và chuyển dạ giả là gì?",
+          "options": [
+            "Sự thay đổi nồng độ Progesterone đột ngột",
+            "Sự tăng nồng độ Estrogen trong máu mẹ",
+            "Sự thay đổi cấu trúc Collagen và Proteoglycan ở cổ tử cung",
+            "Sự bài tiết Oxytocin từ thùy sau tuyến yên thai nhi"
+          ],
+          "answer": 2,
+          "explain": "Chuyển dạ thực sự đòi hỏi sự tái cấu trúc mô liên kết cổ tử cung (chín muồi) để dẫn đến xóa mở, điều mà chuyển dạ giả không làm được. Nguồn: Williams Obstetrics, 26th edition."
+        },
+        {
+          "q": "Đặc điểm nào của cơn gò tử cung trong ca lâm sàng này ủng hộ chẩn đoán chuyển dạ giả?",
+          "options": [
+            "Cơn gò xuất hiện vào ban ngày và ban đêm",
+            "Cường độ cơn gò tăng dần theo thời gian",
+            "Cơn gò biến mất hoặc giảm khi nghỉ ngơi",
+            "Cơn gò gây đau tập trung ở vùng thắt lưng"
+          ],
+          "answer": 2,
+          "explain": "Cơn gò trong chuyển dạ giả thường không đều và có đặc tính giảm đi khi thay đổi tư thế hoặc nghỉ ngơi, khác với chuyển dạ thực sự. Nguồn: Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
+        },
+        {
+          "q": "Xử trí tiếp theo phù hợp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Nhập viện theo dõi sát và bấm ối sớm",
+            "Cho bệnh nhân về nhà và dặn tái khám khi đau tăng",
+            "Sử dụng thuốc tăng co Oxytocin để hỗ trợ chuyển dạ",
+            "Chỉ định mổ lấy thai vì thai phụ đau bụng kéo dài"
+          ],
+          "answer": 1,
+          "explain": "Với chẩn đoán chuyển dạ giả, không cần can thiệp y tế tích cực, nên tư vấn bệnh nhân theo dõi tại nhà để tránh các can thiệp không cần thiết. Nguồn: Hướng dẫn quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản - Bộ Y tế."
+        },
+        {
+          "q": "Nếu sau 4 giờ theo dõi, cổ tử cung bệnh nhân mở 4cm, xóa 80%, đây được gọi là hiện tượng gì?",
+          "options": [
+            "Chuyển dạ thực sự bước vào giai đoạn hoạt động",
+            "Chuyển dạ thực sự bước vào giai đoạn tiềm tàng",
+            "Hiện tượng xóa mở cổ tử cung của chuyển dạ giả",
+            "Sự thay đổi sinh lý của cổ tử cung khi thai đủ tháng"
+          ],
+          "answer": 0,
+          "explain": "Khi cổ tử cung mở từ 4cm trở lên kèm cơn gò hữu hiệu, thai phụ đã bước vào giai đoạn hoạt động của chuyển dạ (theo định nghĩa cổ điển). Nguồn: Williams Obstetrics, 26th edition."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 28 tuổi, con rạ, thai 38 tuần 5 ngày, đau bụng chuyển dạ",
+      "body": "<b>Tiền sử:</b> PARA 1001, lần sinh trước ngả âm đạo con nặng 3200g khỏe mạnh, không có biến chứng hậu sản.<br><br><b>Tình huống:</b> Bệnh nhân vào viện vì đau bụng từng cơn và ra nhầy hồng âm đạo. Cách nhập viện 4 giờ, bệnh nhân bắt đầu đau bụng cơn tăng dần về cường độ.<br><br><b>Khám lâm sàng:</b> Mạch 88 lần/phút, huyết áp 120/80 mmHg, không phù chân.<br><br><b>Khám sản khoa:</b> Cơn gò tử cung tần số 3 cơn trong 10 phút, mỗi cơn kéo dài 40 giây, tim thai 142 lần/phút. Khám âm đạo: cổ tử cung hướng trung gian, mật độ mềm, xóa 80%, mở 4 cm, ngôi đầu, đầu xuống mức -1, ối phồng, không có dấu hiệu chảy máu bất thường.<br><br><b>Xét nghiệm tiền phẫu:</b> Hb 122 g/L, tiểu cầu 185 G/L, kết quả trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Theo phân loại của WHO, bệnh nhân này đang ở giai đoạn nào của chuyển dạ?",
+          "options": [
+            "Giai đoạn 1a (Tiềm tàng)",
+            "Giai đoạn 1b (Hoạt động)",
+            "Giai đoạn 2 (Sổ thai)",
+            "Giai đoạn 3 (Sổ nhau)"
+          ],
+          "answer": 1,
+          "explain": "Cổ tử cung mở 4cm kèm cơn gò đều đặn 3 cơn/10 phút ở con rạ xác định giai đoạn hoạt động của pha 1. Nguồn: WHO Labor Care Guide."
+        },
+        {
+          "q": "Cơ chế chính dẫn đến sự xóa mở cổ tử cung trong giai đoạn này là gì?",
+          "options": [
+            "Sự co rút và rút ngắn các sợi cơ tử cung ở đoạn dưới",
+            "Áp lực của đầu thai nhi và sự hình thành đầu ối",
+            "Sự gia tăng nồng độ Prostaglandin tại chỗ làm mềm mô đệm",
+            "Sự phối hợp giữa cơn gò tử cung và áp lực của đầu ối/ngôi thai"
+          ],
+          "answer": 3,
+          "explain": "Sự xóa mở là kết quả tổng hợp của cơn gò tử cung (động lực) đẩy ngôi thai/đầu ối xuống tác động vào cổ tử cung đã chín muồi. Nguồn: Williams Obstetrics, 26th edition."
+        },
+        {
+          "q": "Khi nào cần bắt đầu ghi chép các thông số vào Biểu đồ chuyển dạ (Partograph) cho bệnh nhân này?",
+          "options": [
+            "Ngay khi bệnh nhân mới nhập viện và đau bụng",
+            "Khi cổ tử cung mở từ 4 cm và có cơn gò đều đặn",
+            "Khi cổ tử cung mở 2 cm và có hiện tượng xóa hoàn toàn",
+            "Chỉ bắt đầu ghi khi chuyển dạ có dấu hiệu đình trệ"
+          ],
+          "answer": 1,
+          "explain": "Biểu đồ chuyển dạ chuẩn của WHO được bắt đầu khi thai phụ vào giai đoạn hoạt động (thường là ≥ 4cm). Nguồn: Hướng dẫn quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản - Bộ Y tế."
+        },
+        {
+          "q": "Tại sao ở người con rạ, hiện tượng xóa và mở cổ tử cung thường diễn ra đồng thời?",
+          "options": [
+            "Do đoạn dưới tử cung đã được hình thành từ lần mang thai trước",
+            "Do các sợi cơ tử cung có tính đàn hồi cao hơn con so",
+            "Do cổ tử cung đã trải qua quá trình giãn nở trước đó",
+            "Do nồng độ Oxytocin nội sinh ở con rạ cao hơn con so"
+          ],
+          "answer": 2,
+          "explain": "Ở con rạ, lỗ trong và lỗ ngoài cổ tử cung thường mở cùng lúc với quá trình xóa, trong khi con so cổ tử cung thường xóa hết mới mở. Nguồn: Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
+        },
+        {
+          "q": "Trong quá trình theo dõi bằng biểu đồ chuyển dạ, đường nào được dùng để cảnh báo nguy cơ chuyển dạ kéo dài?",
+          "options": [
+            "Đường hành động (Action line)",
+            "Đường báo động (Alert line)",
+            "Đường biểu diễn độ lọt của ngôi thai",
+            "Đường biểu diễn tần số cơn gò tử cung"
+          ],
+          "answer": 1,
+          "explain": "Đường báo động (Alert line) nối từ mốc mở 4cm với tốc độ 1cm/h, nếu đường mở CTC lệch sang phải đường này là dấu hiệu cảnh báo. Nguồn: WHO Partograph Guidance."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân con so 22 tuổi, thai 40 tuần, đau bụng chuyển dạ 12 giờ",
+      "body": "<b>Tiền sử:</b> Con so, chưa có tiền sử sinh nở.<br><br><b>Tình huống:</b> Bệnh nhân nhập viện vì đau bụng chuyển dạ đã 12 giờ.<br><br><b>Khám lúc nhập viện:</b> Cổ tử cung mở 2 cm, xóa 50%.<br><br><b>Khám sau 8 giờ theo dõi tiếp theo:</b> Cổ tử cung vẫn mở 2 cm, xóa 60%, cơn gò tần số 2/10 phút, cường độ trung bình, tim thai 140 lần/phút, ối còn. Bệnh nhân mệt mỏi, than đau nhiều nhưng không sốt, mạch 90 lần/phút, huyết áp 110/70 mmHg. Ưu thế ngôi đầu, đầu chưa lọt.<br><br><b>Xét nghiệm máu:</b> Hb 110 g/L, bạch cầu 10.5 G/L, các xét nghiệm cơ bản bình thường.",
+      "questions": [
+        {
+          "q": "Tình trạng của bệnh nhân này được gọi là gì theo tiêu chuẩn của Friedman?",
+          "options": [
+            "Giai đoạn tiềm tàng kéo dài",
+            "Giai đoạn hoạt động đình trệ",
+            "Chuyển dạ ngưng tiến triển",
+            "Chuyển dạ bình thường ở con so"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân con so đã đau bụng 12+8=20 giờ nhưng CTC vẫn ở mức 2cm, thỏa mãn tiêu chuẩn giai đoạn tiềm tàng kéo dài. Nguồn: Williams Obstetrics, 26th edition."
+        },
+        {
+          "q": "Theo định nghĩa cổ điển, giai đoạn tiềm tàng ở người con so được gọi là kéo dài khi vượt quá bao nhiêu giờ?",
+          "options": [
+            "12 giờ",
+            "14 giờ",
+            "20 giờ",
+            "24 giờ"
+          ],
+          "answer": 2,
+          "explain": "Theo Friedman, giai đoạn tiềm tàng kéo dài là >20 giờ ở con so và >14 giờ ở con rạ. Nguồn: Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
+        },
+        {
+          "q": "Nguyên nhân phổ biến nhất dẫn đến tình trạng lâm sàng này là gì?",
+          "options": [
+            "Bất tương xứng đầu chậu rõ rệt",
+            "Ngôi thai ở kiểu thế không thuận lợi",
+            "Rối loạn cơn gò tử cung hoặc CTC chưa chín muồi",
+            "Thai phụ sử dụng thuốc giảm đau quá sớm"
+          ],
+          "answer": 2,
+          "explain": "Giai đoạn tiềm tàng kéo dài thường liên quan đến cổ tử cung chưa chuẩn bị tốt hoặc cơn gò không đủ hiệu quả, hiếm khi do CPD. Nguồn: Williams Obstetrics, 26th edition."
+        },
+        {
+          "q": "Xử trí ưu tiên tiếp theo cho bệnh nhân này để thúc đẩy chuyển dạ là gì?",
+          "options": [
+            "Bấm ối và sau đó có thể xem xét tăng co Oxytocin",
+            "Chỉ định mổ lấy thai ngay vì chuyển dạ kéo dài",
+            "Cho bệnh nhân nghỉ ngơi bằng liệu pháp an thần",
+            "Tiếp tục theo dõi thêm 8 giờ nữa mà không can thiệp"
+          ],
+          "answer": 0,
+          "explain": "Bấm ối là biện pháp can thiệp đầu tay giúp tăng cường cơn gò nội sinh, nếu không hiệu quả mới chuyển sang Oxytocin. Nguồn: Phác đồ Từ Dũ."
+        },
+        {
+          "q": "Điều gì xảy ra với các nút cơ tử cung (gap junctions) khi chuyển dạ bắt đầu thực sự?",
+          "options": [
+            "Số lượng nút cơ giảm đi để tử cung co bóp yếu hơn",
+            "Các nút cơ tăng lên giúp lan truyền điện thế đồng bộ",
+            "Các nút cơ biến mất hoàn toàn để tạo sự co bóp cục bộ",
+            "Nút cơ chỉ xuất hiện ở đoạn dưới tử cung để mở cổ tử cung"
+          ],
+          "answer": 1,
+          "explain": "Sự gia tăng các gap junctions cho phép sự phối hợp nhịp nhàng và đồng bộ của các sợi cơ tử cung, tạo nên cơn gò hiệu quả. Nguồn: Williams Obstetrics, 26th edition."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ 30 tuổi, PARA 2002, thai 39 tuần, chuyển dạ, cổ tử cung mở 5cm",
+      "body": "<b>Tiền sử:</b> PARA 2002 (2 con sống, không sảy thai, 2 lần sinh đã mổ).<br><br><b>Tình huống:</b> Thai phụ đang theo dõi chuyển dạ tại phòng sinh.<br><br><b>Lúc 08:00:</b> Cổ tử cung mở 5 cm, xóa 80%, đầu -1, ối còn.<br><br><b>Lúc 12:00, khám lại:</b> Cổ tử cung vẫn mở 5 cm, xóa 90%, đầu -1, cơn gò tần số 3/10 phút, cường độ trung bình. Tim thai 145 lần/phút ổn định. Thai phụ không có dấu hiệu choáng, không ra máu âm đạo bất thường, nước tiểu 200ml trong 4 giờ qua.<br><br><b>Biểu đồ chuyển dạ:</b> Đường biểu diễn độ mở cổ tử cung đã cắt qua đường báo động (Alert line).",
+      "questions": [
+        {
+          "q": "Hiện tượng cổ tử cung không tiến triển sau 4 giờ trong giai đoạn hoạt động được gọi là gì?",
+          "options": [
+            "Giai đoạn hoạt động kéo dài",
+            "Ngưng trệ sự mở cổ tử cung (Arrest of dilatation)",
+            "Chuyển dạ bình thường ở người con rạ",
+            "Giai đoạn tiềm tàng kéo dài"
+          ],
+          "answer": 1,
+          "explain": "Trong giai đoạn hoạt động, nếu CTC không mở thêm trong 2 giờ trở lên được coi là ngưng trệ sự mở CTC. Nguồn: Williams Obstetrics, 26th edition."
+        },
+        {
+          "q": "Bước xử trí tiếp theo đúng nguyên tắc trên biểu đồ chuyển dạ khi đường biểu diễn cắt đường báo động là gì?",
+          "options": [
+            "Chuyển mổ lấy thai ngay lập tức",
+            "Đánh giá lại toàn bộ: cơn gò, ngôi thai, khung chậu và bấm ối",
+            "Chỉ cần theo dõi tiếp mỗi 4 giờ cho đến khi cắt đường hành động",
+            "Tiêm thuốc giảm co tử cung để cổ tử cung nghỉ ngơi"
+          ],
+          "answer": 1,
+          "explain": "Khi chạm đường báo động, cần đánh giá lại các yếu tố thuận lợi/khó khăn của chuyển dạ để có hướng xử trí kịp thời (như bấm ối). Nguồn: Hướng dẫn quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản - Bộ Y tế."
+        },
+        {
+          "q": "Yếu tố nào sau đây là động lực chính để đẩy ngôi thai xuống trong giai đoạn này?",
+          "options": [
+            "Trọng lực khi thai phụ đứng thẳng",
+            "Sự co bóp của các cơ thành bụng",
+            "Cơn gò tử cung và sự hình thành đoạn dưới",
+            "Áp lực âm trong buồng tử cung"
+          ],
+          "answer": 2,
+          "explain": "Cơn gò tử cung phối hợp với việc đoạn dưới tử cung mỏng đi tạo áp lực đẩy ngôi thai xuống thấp. Nguồn: Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
+        },
+        {
+          "q": "Nếu sau khi bấm ối, cơn gò vẫn là 3 cơn/10 phút nhưng cổ tử cung không mở thêm sau 2 giờ, bước tiếp theo là gì?",
+          "options": [
+            "Tiếp tục chờ đợi thêm 4 giờ",
+            "Tăng co bằng Oxytocin để đạt cơn gò phù hợp (4-5 cơn/10 phút)",
+            "Chỉ định mổ lấy thai vì thất bại khởi phát chuyển dạ",
+            "Cho thai phụ ăn uống để lấy sức rặn"
+          ],
+          "answer": 1,
+          "explain": "Khi cơn gò chưa đủ (tần số 3) và chuyển dạ đình trệ sau bấm ối, tăng co Oxytocin là chỉ định để đạt cơn gò chuẩn cho giai đoạn hoạt động. Nguồn: Phác đồ Từ Dũ."
+        },
+        {
+          "q": "\"Đường hành động\" (Action line) trên biểu đồ chuyển dạ thường cách \"Đường báo động\" bao nhiêu giờ?",
+          "options": [
+            "2 giờ",
+            "4 giờ",
+            "6 giờ",
+            "8 giờ"
+          ],
+          "answer": 1,
+          "explain": "Khoảng cách tiêu chuẩn giữa Alert line và Action line trên biểu đồ WHO là 4 giờ. Nguồn: WHO Partograph Guidance."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân 32 tuổi, PARA 0010, thai 40 tuần 3 ngày, ra nước âm đạo",
+      "body": "<b>Tiền sử:</b> PARA 0010 (tiền sử sảy thai 8 tuần).<br><br><b>Tình huống:</b> Bệnh nhân nhập viện vì ra nước âm đạo.<br><br><b>Khám lâm sàng:</b> Có nước ối trong chảy ra từ cổ tử cung, pH test dương tính. Cổ tử cung đóng, xóa 20%, ngôi đầu cao. Tim thai 144 lần/phút. Cơn gò tử cung thưa. Bệnh nhân không sốt, không đau bụng.<br><br><b>Xét nghiệm máu:</b> Bạch cầu 9.0 G/L, CRP < 5 mg/L.<br><br><b>Siêu âm:</b> Chỉ số ối (AFI) 5 cm.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào là đúng nhất cho tình trạng này?",
+          "options": [
+            "Vỡ ối non (PROM)",
+            "Vỡ ối sớm",
+            "Rỉ ối trong chuyển dạ",
+            "Vỡ màng đệm nhưng màng ối còn"
+          ],
+          "answer": 0,
+          "explain": "Vỡ ối ở thai đủ tháng nhưng chưa có chuyển dạ được gọi là vỡ ối non (Prelabor Rupture of Membranes). Nguồn: ACOG Practice Bulletin No. 217."
+        },
+        {
+          "q": "Cơ chế sinh hóa nào thường tham gia vào quá trình vỡ màng ối tự nhiên?",
+          "options": [
+            "Sự sụt giảm đột ngột của Estrogen",
+            "Sự tăng hoạt tính của các enzyme Matrix Metalloproteinases (MMPs)",
+            "Sự gia tăng áp lực keo trong nước ối",
+            "Sự tích tụ của các tinh thể Bilirubin trong màng ối"
+          ],
+          "answer": 1,
+          "explain": "MMPs là các enzyme phá hủy cấu trúc collagen của màng thai, dẫn đến sự suy yếu và vỡ màng ối. Nguồn: Williams Obstetrics, 26th edition."
+        },
+        {
+          "q": "Thái độ xử trí phù hợp nhất đối với trường hợp này (thai đủ tháng, ối vỡ, chưa chuyển dạ) là gì?",
+          "options": [
+            "Mổ lấy thai ngay để tránh nhiễm trùng ối",
+            "Chờ đợi chuyển dạ tự nhiên trong 48 giờ tiếp theo",
+            "Khởi phát chuyển dạ bằng Oxytocin hoặc Prostaglandin",
+            "Sử dụng kháng sinh liều cao và cho bệnh nhân về nhà"
+          ],
+          "answer": 2,
+          "explain": "Với thai đủ tháng, việc chờ đợi lâu làm tăng nguy cơ nhiễm trùng, do đó khuyến cáo khởi phát chuyển dạ sớm. Nguồn: Hướng dẫn quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản - Bộ Y tế."
+        },
+        {
+          "q": "Chỉ số Bishop bao nhiêu thì được coi là cổ tử cung thuận lợi cho việc khởi phát chuyển dạ bằng Oxytocin?",
+          "options": [
+            ">= 3",
+            ">= 6",
+            ">= 9",
+            ">= 12"
+          ],
+          "answer": 1,
+          "explain": "Chỉ số Bishop >= 6 thường cho thấy cổ tử cung đã \"chín muồi\" và khả năng thành công khi khởi phát chuyển dạ cao. Nguồn: Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
+        },
+        {
+          "q": "Biến chứng nguy hiểm nhất cần theo dõi sát ngay sau khi ối vỡ ở bệnh nhân ngôi đầu cao là gì?",
+          "options": [
+            "Nhiễm trùng hậu sản",
+            "Rau bong non",
+            "Sa dây rốn",
+            "Suy thai trường diễn"
+          ],
+          "answer": 2,
+          "explain": "Ngôi thai còn cao khi ối vỡ tạo khoảng trống lớn khiến dây rốn dễ bị sa xuống dưới ngôi thai, gây cấp cứu sản khoa. Nguồn: Giáo trình Sản phụ khoa Đại học Y Hà Nội."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân con so, thai 39 tuần, giai đoạn hoạt động chuyển dạ, cơn gò yếu",
+      "body": "<b>Tiền sử:</b> Con so.<br><br><b>Tình huống:</b> Bệnh nhân đang trong giai đoạn hoạt động của chuyển dạ (cổ tử cung mở 6 cm). Khám sản khoa ghi nhận: cơn gò tử cung tần số 4-5/10 phút, cường độ mạnh. Khám âm đạo thấy cổ tử cung mở 6 cm nhưng mép cổ tử cung dày, phù nề, đầu ở mức -2, sờ thấy thóp trước ở vị trí 2 giờ và thóp sau ở vị trí 8 giờ, có bướu huyết thanh nhỏ. Tim thai 150 lần/phút đều. Thai phụ than đau bụng dữ dội liên tục, khám bụng có dấu hiệu vòng Bandl ngang rốn.",
+      "questions": [
+        {
+          "q": "Dấu hiệu \"Vòng Bandl\" gợi ý tình trạng lâm sàng cấp cứu nào?",
+          "options": [
+            "Rau tiền đạo chảy máu",
+            "Dọa vỡ tử cung",
+            "Rau bong non thể ẩn",
+            "Chuyển dạ nhanh (Precipitate labor)"
+          ],
+          "answer": 1,
+          "explain": "Vòng Bandl là ranh giới giữa thân tử cung co thắt mạnh và đoạn dưới bị giãn mỏng, là dấu hiệu đặc trưng của dọa vỡ tử cung. Nguồn: Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
+        },
+        {
+          "q": "Cơ chế hình thành vòng Bandl trong chuyển dạ đình trệ là gì?",
+          "options": [
+            "Sự co thắt quá mức của cổ tử cung",
+            "Sự giãn quá mức của đoạn dưới tử cung trong khi thân tử cung co bóp mạnh",
+            "Sự tách rời giữa lớp cơ dọc và cơ vòng tử cung",
+            "Do thai nhi quá to chèn ép vào động mạch tử cung"
+          ],
+          "answer": 1,
+          "explain": "Khi có vật cản (CPD), thân tử cung tăng co để đẩy thai nhưng không được, dẫn đến đoạn dưới bị kéo giãn tối đa tạo nên vòng thắt. Nguồn: Williams Obstetrics, 26th edition."
+        },
+        {
+          "q": "Xác định kiểu thế của thai nhi qua khám âm đạo sờ thấy thóp sau ở vị trí 8 giờ?",
+          "options": [
+            "Chẩm chậu trái trước",
+            "Chẩm chậu phải sau",
+            "Chẩm chậu trái sau",
+            "Chẩm chậu phải trước"
+          ],
+          "answer": 2,
+          "explain": "Thóp sau ở vị trí 8 giờ (bên trái và phía sau của khung chậu mẹ) tương ứng với kiểu thế Chẩm chậu trái sau (LOA là 2h, LOP là 4h, ROP là 8h - lưu ý vị trí theo mặt đồng hồ). Nguồn: Giáo trình Sản phụ khoa Đại học Y Hà Nội."
+        },
+        {
+          "q": "Xử trí ưu tiên và khẩn cấp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Tăng co Oxytocin để giúp đầu lọt nhanh hơn",
+            "Bấm ối để giảm áp lực buồng tử cung",
+            "Sử dụng thuốc giảm co và mổ lấy thai cấp cứu",
+            "Cho bệnh nhân rặn sớm để kết thúc chuyển dạ"
+          ],
+          "answer": 2,
+          "explain": "Đây là tình trạng dọa vỡ tử cung, tuyệt đối không được tăng co hay chờ đợi, cần giảm co và mổ lấy thai ngay. Nguồn: Phác đồ Từ Dũ."
+        },
+        {
+          "q": "Hiện tượng \"phù nề mép cổ tử cung\" trong trường hợp này thường là hệ quả của điều gì?",
+          "options": [
+            "Nhiễm khuẩn ngược dòng từ âm đạo",
+            "Đầu thai nhi chèn ép vào cổ tử cung lâu ngày do bất tương xứng",
+            "Thai phụ rặn quá sớm khi cổ tử cung chưa mở hết",
+            "Do tác dụng phụ của thuốc tê ngoài màng cứng"
+          ],
+          "answer": 1,
+          "explain": "Khi đầu thai nhi không xuống được và chèn ép lâu vào cổ tử cung, hệ thống tuần hoàn tại chỗ bị cản trở gây phù nề. Nguồn: Williams Obstetrics, 26th edition."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân con rạ 25 tuổi, PARA 1001, thai 38 tuần, chuyển dạ nhanh",
+      "body": "<b>Tiền sử:</b> PARA 1001 (một con sống, tiền sử sinh nở qua đường âm đạo).<br><br><b>Tình huống:</b> Bệnh nhân nhập viện trong tình trạng đau bụng dữ dội, muốn rặn. Khám nhanh thấy cổ tử cung mở trọn, ngôi đầu mức +3, tim thai 130 lần/phút. Chỉ sau 5 phút nhập viện, bệnh nhân sinh một bé trai nặng 3500g. Tổng thời gian từ khi có cơn gò đầu tiên đến khi sinh là 2 giờ.<br><br><b>Sau sinh:</b> Tử cung co hồi kém, âm đạo ra máu đỏ tươi lượng nhiều.",
+      "questions": [
+        {
+          "q": "Chuyển dạ diễn ra với tổng thời gian dưới 3 giờ được gọi là gì?",
+          "options": [
+            "Chuyển dạ kéo dài",
+            "Chuyển dạ nhanh (Precipitate labor)",
+            "Chuyển dạ bình thường ở con rạ",
+            "Cơn gò tử cung cường tính"
+          ],
+          "answer": 1,
+          "explain": "Định nghĩa chuyển dạ nhanh là tổng thời gian chuyển dạ dưới 3 giờ. Nguồn: Williams Obstetrics, 26th edition."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính dẫn đến chuyển dạ nhanh thường liên quan đến yếu tố nào?",
+          "options": [
+            "Sức cản của đường sinh dục thấp bất thường",
+            "Thai nhi có kích thước quá nhỏ",
+            "Thai phụ có ngưỡng chịu đau rất cao",
+            "Sử dụng quá liều thuốc an thần"
+          ],
+          "answer": 0,
+          "explain": "Cơn gò mạnh phối hợp với sức cản thấp của cổ tử cung và tầng sinh môn (thường ở con rạ) dẫn đến chuyển dạ cực nhanh. Nguồn: Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
+        },
+        {
+          "q": "Biến chứng thường gặp nhất đối với người mẹ trong và sau chuyển dạ nhanh là gì?",
+          "options": [
+            "Thuyên tắc ối",
+            "Đờ tử cung và rách đường sinh dục phức tạp",
+            "Rau bong non",
+            "Nhiễm trùng hậu sản"
+          ],
+          "answer": 1,
+          "explain": "Do thai xuống quá nhanh gây rách mô mềm và tử cung hoạt động quá mức dẫn đến đờ tử cung sau sinh. Nguồn: Phác đồ Từ Dũ."
+        },
+        {
+          "q": "Tại sao chuyển dạ nhanh có thể gây suy thai cấp trong chuyển dạ?",
+          "options": [
+            "Do cơn gò quá mạnh và liên tục làm giảm dòng máu đến bánh rau",
+            "Do thai nhi không kịp thích nghi với áp lực khung chậu",
+            "Do dây rốn bị chèn ép liên tục vào thành chậu",
+            "Do bánh rau bị vôi hóa nhanh chóng"
+          ],
+          "answer": 0,
+          "explain": "Cơn gò cường tính (tần số và cường độ cao) làm mất khoảng nghỉ giữa các cơn gò, gây thiếu oxy bánh rau cho thai. Nguồn: Williams Obstetrics, 26th edition."
+        },
+        {
+          "q": "Xử trí tích cực giai đoạn 3 của chuyển dạ (AMTSL) bao gồm các bước nào?",
+          "options": [
+            "Tiêm Oxytocin, kéo dây rốn có kiểm soát, xoa đáy tử cung",
+            "Bóc nhau nhân tạo, kiểm soát tử cung, khâu tầng sinh môn",
+            "Cho con bú ngay, tiêm kháng sinh, đặt thông tiểu",
+            "Theo dõi mạch huyết áp mỗi 15 phút, không can thiệp vào dây rốn"
+          ],
+          "answer": 0,
+          "explain": "Đây là 3 bước chuẩn của AMTSL nhằm dự phòng băng huyết sau sinh. Nguồn: WHO Recommendations for the Prevention and Treatment of Postpartum Haemorrhage."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân con so, thai 40 tuần, theo dõi chuyển dạ, tốc độ mở chậm",
+      "body": "<b>Tiền sử:</b> Con so.<br><br><b>Tình huống:</b> Theo dõi một ca chuyển dạ con so, thai 40 tuần bằng biểu đồ chuyển dạ.<br><br><b>Biểu đồ chuyển dạ ghi nhận:</b><br>- <b>09:00:</b> CTC mở 4 cm (bắt đầu vào biểu đồ)<br>- <b>13:00:</b> CTC mở 6 cm<br>- <b>17:00:</b> CTC mở 7 cm<br><br><b>Đánh giá thêm:</b> Đường biểu diễn độ mở cổ tử cung đã nằm bên phải đường báo động và chuẩn bị chạm đường hành động. Cơn gò tử cung tần số 3/10 phút, tim thai 140 lần/phút, ối vỡ lúc 13:00 nước ối trong. Thai phụ tỉnh táo nhưng bắt đầu lo lắng.",
+      "questions": [
+        {
+          "q": "Tốc độ mở cổ tử cung trung bình của bệnh nhân này từ 09:00 đến 17:00 là bao nhiêu?",
+          "options": [
+            "0.375 cm/giờ",
+            "0.5 cm/giờ",
+            "1 cm/giờ",
+            "1.5 cm/giờ"
+          ],
+          "answer": 0,
+          "explain": "(7cm - 4cm) / 8 giờ = 0.375 cm/giờ. Một tốc độ khá chậm so với kỳ vọng. Nguồn: Tính toán dựa trên dữ kiện lâm sàng."
+        },
+        {
+          "q": "Theo biểu đồ chuyển dạ WHO, tốc độ mở cổ tử cung tối thiểu kỳ vọng trong giai đoạn hoạt động là bao nhiêu?",
+          "options": [
+            "0.5 cm/giờ",
+            "1 cm/giờ",
+            "1.5 cm/giờ",
+            "2 cm/giờ"
+          ],
+          "answer": 1,
+          "explain": "Đường báo động được vẽ dựa trên tốc độ chuẩn 1 cm/giờ ở con so. Nguồn: WHO Partograph Guidance."
+        },
+        {
+          "q": "Việc đường biểu diễn độ mở CTC nằm bên phải đường báo động chỉ ra điều gì?",
+          "options": [
+            "Chuyển dạ đang tiến triển rất tốt",
+            "Chuyển dạ có dấu hiệu bất thường, cần đánh giá lại nguyên nhân",
+            "Thai nhi đang bị suy trong buồng tử cung",
+            "Cần phải mổ lấy thai ngay lập tức"
+          ],
+          "answer": 1,
+          "explain": "Lệch phải đường báo động là tín hiệu \"báo động\" cần xem xét lại cuộc chuyển dạ về cơn gò, ngôi thai, khung chậu. Nguồn: Hướng dẫn quốc gia - Bộ Y tế."
+        },
+        {
+          "q": "Cơ chế gây đau trong chuyển dạ giai đoạn 1 chủ yếu do yếu tố nào?",
+          "options": [
+            "Sự căng giãn đoạn dưới tử cung và cổ tử cung",
+            "Sự chèn ép của ngôi thai vào các dây thần kinh hông",
+            "Sự thiếu oxy tạm thời của cơ tử cung khi co thắt",
+            "Cả A và C đều đúng"
+          ],
+          "answer": 3,
+          "explain": "Đau trong giai đoạn 1 chủ yếu do sự căng giãn các sợi cơ cổ tử cung và tình trạng thiếu máu cục bộ cơ tử cung khi gò. Nguồn: Williams Obstetrics, 26th edition."
+        },
+        {
+          "q": "Nếu tại thời điểm 17:00, khám thấy đầu thai nhi có hiện tượng chồng khớp sọ độ 2, điều này gợi ý gì?",
+          "options": [
+            "Thai nhi đang phát triển não bộ tốt",
+            "Có sự bất tương xứng đầu chậu (CPD)",
+            "Đây là hiện tượng bình thường của mọi ca chuyển dạ",
+            "Cần phải hút thai ngay để giúp đầu thoát ra"
+          ],
+          "answer": 1,
+          "explain": "Chồng khớp sọ độ 2 (khớp chồng lên nhau nhưng còn đẩy ra được) kết hợp với chuyển dạ chậm là dấu hiệu gợi ý CPD. Nguồn: Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ 29 tuổi, PARA 1001, thai 40 tuần, giai đoạn 2 chuyển dạ, suy thai",
+      "body": "<b>Tiền sử:</b> PARA 1001 (một con sống, tiền sử sinh đã mổ).<br><br><b>Tình huống:</b> Sản phụ đang ở giai đoạn 2 của chuyển dạ (cổ tử cung đã mở hết). Sản phụ đã rặn được 60 phút nhưng đầu thai nhi vẫn ở mức +1, kiểu thế Chẩm chậu phải sau.<br><br><b>Monitoring tim thai (CTG):</b> Tim thai có nhịp giảm biến đổi sâu.<br><br><b>Khám bụng:</b> Tử cung co cứng, không có khoảng nghỉ rõ rệt giữa các cơn gò.<br><br><b>Tình trạng sản phụ:</b> Kiệt sức, mạch 105 lần/phút.",
+      "questions": [
+        {
+          "q": "Giai đoạn 2 của chuyển dạ được tính từ mốc nào đến mốc nào?",
+          "options": [
+            "Từ khi có cơn gò đều đến khi cổ tử cung mở hết",
+            "Từ khi cổ tử cung mở hết đến khi thai sổ hoàn toàn",
+            "Từ khi thai sổ đến khi nhau sổ",
+            "Từ khi ối vỡ đến khi thai sổ"
+          ],
+          "answer": 1,
+          "explain": "Theo định nghĩa, giai đoạn 2 là giai đoạn sổ thai. Nguồn: Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
+        },
+        {
+          "q": "\"Nhịp giảm biến đổi\" trên Monitoring thường do cơ chế nào gây ra?",
+          "options": [
+            "Chèn ép đầu thai nhi vào khung chậu",
+            "Suy tuần hoàn bánh rau",
+            "Chèn ép dây rốn",
+            "Thai nhi cử động quá mạnh"
+          ],
+          "answer": 2,
+          "explain": "Nhịp giảm biến đổi đặc trưng bởi sự sụt giảm tim thai nhanh và hồi phục nhanh, liên quan đến việc dây rốn bị chèn ép. Nguồn: FIGO Intrapartum Fetal Monitoring Guidelines."
+        },
+        {
+          "q": "Thời gian tối đa cho phép của giai đoạn 2 ở người con rạ (không tê ngoài màng cứng) theo khuyến cáo hiện nay là bao nhiêu?",
+          "options": [
+            "1 giờ",
+            "2 giờ",
+            "3 giờ",
+            "4 giờ"
+          ],
+          "answer": 1,
+          "explain": "ACOG và nhiều hướng dẫn hiện nay cho phép giai đoạn 2 kéo dài đến 2 giờ ở con rạ nếu tim thai ổn định. Nguồn: ACOG Practice Bulletin No. 221."
+        },
+        {
+          "q": "Tại sao kiểu thế Chẩm chậu sau thường làm giai đoạn 2 kéo dài hơn?",
+          "options": [
+            "Vì đường kính lọt của đầu thai nhi lớn hơn so với kiểu thế trước",
+            "Vì đầu thai nhi phải xoay một góc lớn hơn (135 độ) để về phía xương vệ",
+            "Vì kiểu thế này thường đi kèm với thai to",
+            "Vì gây ra cơn gò tử cung yếu hơn"
+          ],
+          "answer": 1,
+          "explain": "Để sổ được, kiểu thế sau phải xoay ra trước một cung 135 độ, mất nhiều thời gian và công sức hơn so với 45 độ ở kiểu thế trước. Nguồn: Williams Obstetrics, 26th edition."
+        },
+        {
+          "q": "Xử trí nào là phù hợp nhất trong tình huống này khi tim thai suy và sản phụ kiệt sức?",
+          "options": [
+            "Tiếp tục khuyến khích sản phụ rặn thêm 1 giờ",
+            "Sử dụng Forceps hoặc Giác hút để hỗ trợ sinh (nếu đủ điều kiện)",
+            "Mổ lấy thai cấp cứu ngay lập tức mà không cần đánh giá thêm",
+            "Tiêm thuốc tăng co Oxytocin liều cao để đẩy thai ra nhanh"
+          ],
+          "answer": 1,
+          "explain": "Khi đủ điều kiện (đầu lọt thấp, CTC mở hết) và có dấu hiệu suy thai/mẹ kiệt sức, giúp sinh bằng dụng cụ là lựa chọn ưu tiên. Nguồn: Hướng dẫn quốc gia - Bộ Y tế."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ 27 tuổi, con so, thai 38 tuần 2 ngày, sa dây rốn sau vỡ ối",
+      "body": "<b>Tiền sử:</b> Con so, thai 38 tuần 2 ngày.<br><br><b>Tình huống:</b> Thai phụ nhập viện vì đau bụng. Khám ghi nhận cổ tử cung mở 5 cm, xóa 80%, ối phồng, đầu -1. Cơn gò tần số 3/10 phút.<br><br><b>Sau 4 giờ theo dõi:</b> Cổ tử cung mở 9 cm, đầu +1, ối tự vỡ nước ối xanh bẩn. <b>Tim thai đột ngột giảm xuống 90 lần/phút kéo dài hơn 2 phút sau khi vỡ ối.</b><br><br><b>Khám âm đạo tiếp theo:</b> Sờ thấy một khối mềm, có mạch đập theo nhịp tim thai nằm dưới ngôi đầu.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định cho tình huống này là gì?",
+          "options": [
+            "Nhau tiền đạo trung tâm",
+            "Sa dây rốn trong bọc ối",
+            "Sa dây rốn sau khi vỡ ối",
+            "Sa chi (tay) kèm theo ngôi đầu"
+          ],
+          "answer": 2,
+          "explain": "Sờ thấy dây rốn có mạch đập sau khi vỡ ối là chẩn đoán xác định sa dây rốn. Nguồn: Giáo trình Sản phụ khoa Đại học Y Hà Nội."
+        },
+        {
+          "q": "Yếu tố thuận lợi nào trong ca này dẫn đến biến chứng sa dây rốn?",
+          "options": [
+            "Ngôi đầu chưa lọt thấp khi ối vỡ",
+            "Thai phụ trẻ tuổi, con so",
+            "Cổ tử cung mở nhanh trong giai đoạn hoạt động",
+            "Nước ối xanh bẩn làm trơn dây rốn"
+          ],
+          "answer": 0,
+          "explain": "Ngôi thai chưa lọt (còn cao) tạo điều kiện cho dây rốn trôi xuống theo dòng nước ối khi vỡ ối. Nguồn: Williams Obstetrics, 26th edition."
+        },
+        {
+          "q": "Phản xạ xử trí đầu tiên và quan trọng nhất của người khám khi phát hiện sa dây rốn là gì?",
+          "options": [
+            "Đẩy dây rốn ngược lại vào buồng tử cung",
+            "Dùng tay đẩy ngôi thai lên cao để giảm chèn ép dây rốn và gọi hỗ trợ mổ cấp cứu",
+            "Cho thai phụ nằm nghiêng trái và thở oxy",
+            "Cố gắng lấy dây rốn ra ngoài để kiểm tra mạch đập"
+          ],
+          "answer": 1,
+          "explain": "Giải phóng chèn ép dây rốn bằng cách đẩy ngôi lên là ưu tiên hàng đầu để cứu sống thai nhi trong khi chờ mổ. Nguồn: RCOG Green-top Guideline No. 50."
+        },
+        {
+          "q": "Tư thế nào của người mẹ giúp hỗ trợ giảm chèn ép dây rốn tốt nhất trong lúc chờ mổ?",
+          "options": [
+            "Tư thế nằm ngửa đầu cao (Fowler)",
+            "Tư thế nằm nghiêng phải hoàn toàn",
+            "Tư thế đầu thấp, mông cao (Trendelenburg) hoặc tư thế gối - ngực",
+            "Tư thế ngồi xổm để chuẩn bị sinh"
+          ],
+          "answer": 2,
+          "explain": "Các tư thế này giúp trọng lực đẩy thai nhi ngược về phía đáy tử cung, giảm áp lực lên dây rốn ở đoạn dưới. Nguồn: Phác đồ Từ Dũ."
+        },
+        {
+          "q": "Tại sao nước ối xanh bẩn là một dấu hiệu cần thận trọng trong chuyển dạ?",
+          "options": [
+            "Gợi ý thai nhi đã có tình trạng thiếu oxy gây tống xuất phân su",
+            "Là dấu hiệu của nhiễm trùng ối do vi khuẩn Gram âm",
+            "Cho thấy thai nhi đã quá ngày sinh nhiều tuần",
+            "Thường gặp trong các trường hợp thai vô sọ"
+          ],
+          "answer": 0,
+          "explain": "Phân su trong nước ối thường là kết quả của sự tăng nhu động ruột và giãn cơ vòng hậu môn của thai khi bị stress oxy. Nguồn: Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
+        }
+      ]
+    }
+  ]
+}
