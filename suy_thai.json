@@ -1,0 +1,620 @@
+{
+  "name": "Suy thai",
+  "description": "Bộ case lâm sàng về suy thai cấp và mạn tính, CTG, chẩn đoán và xử trí",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Sản",
+  "subcategory": "Sản khoa",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 26 tuổi thai 39 tuần chuyển dạ, phát hiện nhịp giảm muộn lặp lại",
+      "body": "Bệnh nhân nữ 26 tuổi, G1P0, thai 39 tuần 4 ngày, vào viện vì đau bụng chuyển dạ. Tiền sử thai kỳ khỏe mạnh, không mắc bệnh lý nội khoa. <b>Khám lúc vào:</b> cổ tử cung mở 4cm, xóa 80%, ngôi đầu, thế trái, ối phồng. Sau 2 giờ, bấm ối thấy nước ối lẫn phân su đặc (kiểu \"súp đậu\"). <b>Tim thai:</b> cơ bản 145 nhịp/phút, xuất hiện các nhịp giảm muộn lặp lại trên 50% số cơn gò, dao động nội tại giảm (dưới 5 nhịp/phút). <b>Các dấu hiệu khác:</b> không sốt, không ra máu âm đạo bất thường, huyết áp 110/70 mmHg, mạch 82 lần/phút. <b>Cơn gò tử cung:</b> tần số 4, cường độ mạnh, mỗi cơn kéo dài 45 giây.",
+      "questions": [
+        {
+          "q": "Cơ chế bệnh sinh chính dẫn đến sự xuất hiện của <b>nhịp giảm muộn</b> ở bệnh nhân này là gì?",
+          "options": [
+            "Sự chèn ép trực tiếp vào dây rốn khi có cơn gò tử cung",
+            "Phản xạ phó giao cảm do sự chèn ép vào đầu thai nhi",
+            "Giảm lưu lượng máu đến hồ huyết do co thắt mạch tử cung",
+            "Giảm dự trữ oxy ở hồ huyết không đáp ứng đủ nhu cầu khi có cơn gò"
+          ],
+          "answer": 3,
+          "explain": "Nhịp giảm muộn (Late deceleration) xảy ra do sự <b>giảm dự trữ oxy ở hồ huyết</b>, khiến thai nhi không chịu đựng được tình trạng giảm tưới máu tạm thời trong cơn gò, dẫn đến kích hoạt hóa thụ cảm thể. Đây là biểu hiện của suy thai mạn tính hoặc bánh nhau kém.<br><b>Nguồn:</b> Williams Obstetrics 26th Ed."
+        },
+        {
+          "q": "Theo phân loại FIGO 2015, biểu đồ tim thai (CTG) của bệnh nhân này được xếp vào nhóm nào?",
+          "options": [
+            "Nhóm bình thường (Normal)",
+            "Nhóm nghi ngờ (Suspicious)",
+            "Nhóm bệnh lý (Pathological)",
+            "Nhóm không xác định được"
+          ],
+          "answer": 2,
+          "explain": "CTG có <b>nhịp giảm muộn lặp lại (>50% cơn gò)</b> kèm <b>dao động nội tại giảm</b> là tiêu chuẩn của nhóm <b>Bệnh lý (Pathological)</b> theo FIGO 2015, yêu cầu can thiệp ngay lập tức.<br><b>Nguồn:</b> FIGO Consensus Guidelines on Intrapartum Fetal Monitoring."
+        },
+        {
+          "q": "Bước xử trí ưu tiên hàng đầu ngay tại thời điểm này cho bệnh nhân là gì?",
+          "options": [
+            "Cho sản phụ nằm nghiêng trái, thở oxy, truyền dịch tĩnh mạch nhanh",
+            "Chỉ định mổ lấy thai cấp cứu ngay lập tức bất kể hồi sức",
+            "Sử dụng thuốc giảm gò đường tĩnh mạch để giảm áp lực tử cung",
+            "Tiếp tục theo dõi thêm 30 phút để đánh giá khả năng hồi phục"
+          ],
+          "answer": 0,
+          "explain": "<b>Hồi sức sản khoa (Intrauterine Resuscitation)</b> bao gồm nằm nghiêng trái, truyền dịch và thở oxy là bước đầu tiên để cải thiện tưới máu bánh nhau. Nếu sau 15-20 phút không cải thiện mới xem xét mổ lấy thai cấp cứu.<br><b>Nguồn:</b> Phác đồ điều trị Sản phụ khoa - Bệnh viện Từ Dũ."
+        },
+        {
+          "q": "Sự hiện diện của <b>phân su đặc</b> trong nước ối phối hợp với CTG bất thường gợi ý điều gì?",
+          "options": [
+            "Thai nhi đã có tình trạng suy thai mạn tính từ trước",
+            "Phản xạ tăng nhu động ruột do thiếu oxy máu và toan chuyển hóa",
+            "Đây là hiện tượng sinh lý bình thường của thai đủ tháng",
+            "Thai nhi bị nhiễm trùng bào thai do vi khuẩn đường ruột"
+          ],
+          "answer": 1,
+          "explain": "Thiếu oxy làm tăng kích thích thần kinh phó giao cảm, gây <b>tăng nhu động ruột</b> và giãn cơ thắt hậu môn thai nhi, dẫn đến tống xuất <b>phân su vào buồng ối</b> (meconiun staining). Đây là dấu hiệu thai đang thiếu oxy.<br><b>Nguồn:</b> Giáo trình Sản phụ khoa Đại học Y Hà Nội."
+        },
+        {
+          "q": "Nếu sau các biện pháp hồi sức tim thai vẫn không cải thiện, hướng xử trí tiếp theo phù hợp nhất là gì?",
+          "options": [
+            "Giúp sinh bằng Forceps nếu đủ điều kiện về độ lọt và cổ tử cung",
+            "Mổ lấy thai cấp cứu để lấy thai ra càng sớm càng tốt",
+            "Tăng cường Oxytocin để kết thúc chuyển dạ đường âm đạo nhanh hơn",
+            "Đặt monitor theo dõi nội bảng để đánh giá chính xác hơn"
+          ],
+          "answer": 1,
+          "explain": "Khi hồi sức nội khoa không hiệu quả và cổ tử cung mới mở 4cm (chưa đủ điều kiện sinh thủ thuật), <b>mổ lấy thai</b> là lựa chọn an toàn nhất để cứu thai nhi.<br><b>Nguồn:</b> Hướng dẫn quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản - Bộ Y tế."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 32 tuổi thai 34 tuần, nhỏ so với tuổi thai, bất thường Doppler động mạch rốn",
+      "body": "Bệnh nhân 32 tuổi, G2P1 (sinh thường thai 3200g), thai 34 tuần, khám định kỳ vì <b>bề cao tử cung nhỏ hơn tuổi thai (28cm)</b>. <b>Lâm sàng:</b> không đau bụng, không ra nước âm đạo, <b>cử động thai giảm</b> trong 2 ngày qua. Huyết áp 125/80 mmHg, không phù, protein niệu âm tính. <b>Siêu âm:</b> ước lượng trọng lượng thai ở bách phân vị thứ 3 so với tuổi thai, <b>chỉ số nước ối (AFI) 4cm</b>. <b>Doppler:</b> động mạch rốn có chỉ số PI > 95th bách phân vị, <b>động mạch não giữa (MCA) có chỉ số PI < 5th bách phân vị</b>. <b>CTG 20 phút:</b> không có nhịp tăng, dao động nội tại 6 nhịp/phút, không có nhịp giảm.",
+      "questions": [
+        {
+          "q": "Hiện tượng Doppler động mạch não giữa có PI giảm dưới bách phân vị thứ 5 được gọi là gì?",
+          "options": [
+            "Hiện tượng trung tâm hóa tuần hoàn thai nhi",
+            "Hiện tượng tăng kháng lực mạch máu não",
+            "Sự suy sụp khả năng tự điều hòa của não bộ",
+            "Biểu hiện của tình trạng thai nhi đang ngủ sinh lý"
+          ],
+          "answer": 0,
+          "explain": "Hiện tượng <b>\"Brain sparing effect\" (tưới máu ưu tiên cho não)</b> làm <b>giãn mạch não</b>, dẫn đến <b>giảm kháng lực (PI)</b> ở động mạch não giữa. Đây là cơ chế bảo vệ não bộ khi thai bị suy dinh dưỡng mạn tính.<br><b>Nguồn:</b> ISUOG Practice Guidelines: Diagnosis and management of FGR."
+        },
+        {
+          "q": "Chẩn đoán phù hợp nhất cho tình trạng thai nhi này là gì?",
+          "options": [
+            "Thai nhỏ so với tuổi thai (SGA) đơn thuần",
+            "Suy thai cấp trong thai kỳ chưa chuyển dạ",
+            "Thai chậm tăng trưởng trong tử cung (FGR) khởi phát muộn",
+            "Thai chậm tăng trưởng trong tử cung (FGR) khởi phát sớm"
+          ],
+          "answer": 3,
+          "explain": "<b>FGR khởi phát sớm</b> thường xảy ra <b>trước 32-34 tuần</b>, đi kèm với <b>bất thường Doppler động mạch rốn</b> (PI tăng), <b>brain sparing effect</b> (PI MCA giảm), và <b>thiếu ối</b> (AFI < 5cm). Đây là tình trạng nặng, cần theo dõi sát và can thiệp sớm.<br><b>Nguồn:</b> Phác đồ điều trị Sản phụ khoa - Bệnh viện Từ Dũ."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của tình trạng nước ối giảm (AFI 4cm) ở bệnh nhân này là gì?",
+          "options": [
+            "Do thai nhi giảm khả năng nuốt nước ối",
+            "Do giảm lưu lượng máu đến thận thai nhi dẫn đến giảm tạo nước tiểu",
+            "Do màng ối bị rò rỉ vi thể không phát hiện được trên lâm sàng",
+            "Do nồng độ hormone estrogen của mẹ giảm đột ngột"
+          ],
+          "answer": 1,
+          "explain": "Khi <b>thiếu oxy mạn tính</b>, máu được ưu tiên cho não, tim, tuyến thượng thận; <b>giảm tưới máu cho thận</b> dẫn đến giảm độ lọc cầu thận và giảm lượng nước tiểu thai nhi (nguồn chính tạo ối).<br><b>Nguồn:</b> Williams Obstetrics 26th Ed."
+        },
+        {
+          "q": "Xét nghiệm cận lâm sàng nào tiếp theo có giá trị nhất để quyết định thời điểm chấm dứt thai kỳ ở ca này?",
+          "options": [
+            "Doppler ống tĩnh mạch (Ductus Venosus)",
+            "Xét nghiệm bộ mỡ máu của mẹ",
+            "Nghiệm pháp dung nạp glucose đường uống",
+            "Định lượng nồng độ Progesterone máu mẹ"
+          ],
+          "answer": 0,
+          "explain": "<b>Doppler ống tĩnh mạch (Ductus Venosus - DV)</b> là <b>thông số cuối cùng biến đổi</b> trước khi thai nhi mất bù hoàn toàn. Khi DV bất thường, đây là dấu hiệu thai sắp mất khả năng bù, giúp quyết định thời điểm lấy thai tối ưu.<br><b>Nguồn:</b> TRUFFLE Study / ISUOG Guidelines."
+        },
+        {
+          "q": "Hướng quản lý tiếp theo phù hợp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Cho bệnh nhân về nhà và tái khám sau 1 tuần",
+            "Nhập viện, tiêm hỗ trợ phổi và theo dõi sát CTG, Doppler mỗi 24-48 giờ",
+            "Mổ lấy thai cấp cứu ngay lập tức vì thai đã suy mạn nặng",
+            "Khởi phát chuyển dạ bằng Oxytocin để sinh đường âm đạo ngay"
+          ],
+          "answer": 1,
+          "explain": "Thai 34 tuần có <b>FGR và bất thường Doppler</b> cần <b>nhập viện</b> theo dõi sát và sử dụng <b>Corticoid hỗ trợ phổi</b> trước khi quyết định can thiệp. Tiếp tục theo dõi Doppler liên tục để phát hiện dấu hiệu mất bù.<br><b>Nguồn:</b> Hướng dẫn thực hành Sản phụ khoa Việt Nam (Hội Phụ sản Việt Nam)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 25 tuổi thai 38 tuần vỡ ối, phát hiện sa dây rốn, tim thai chậm",
+      "body": "Bệnh nhân 25 tuổi, G1P0, thai 38 tuần, nhập viện vì <b>vỡ ối đột ngột</b>. <b>Khám âm đạo:</b> phát hiện <b>một đoạn dây rốn nằm trong âm đạo, phía trước ngôi đầu</b>, cổ tử cung mở 3cm. <b>Tim thai:</b> nghe bằng ống nghe gỗ thấy <b>chậm, khoảng 90 nhịp/phút</b>. <b>Lâm sàng khác:</b> không có tiền sử bệnh lý, không đau bụng dữ dội, không ra máu âm đạo. <b>Cơn gò tử cung:</b> thưa, tần số 2.",
+      "questions": [
+        {
+          "q": "Nguyên nhân trực tiếp gây ra tình trạng <b>suy thai cấp</b> ở bệnh nhân này là gì?",
+          "options": [
+            "Sự giảm nồng độ oxy trong máu mẹ sau khi vỡ ối",
+            "Dây rốn bị chèn ép giữa ngôi thai và khung chậu gây gián đoạn tuần hoàn",
+            "Tình trạng nhiễm trùng ối cấp tính ngay sau khi vỡ màng ối",
+            "Sự co thắt các động mạch tử cung do phản xạ tâm lý sợ hãi"
+          ],
+          "answer": 1,
+          "explain": "<b>Sa dây rốn</b> làm dây rốn <b>bị chèn ép cơ học giữa ngôi và thành khung chậu</b>, gây <b>tắc nghẽn dòng máu từ nhau đến thai</b> - nguyên nhân gây suy thai cấp nặng nhất.<br><b>Nguồn:</b> Giáo trình Sản phụ khoa Đại học Y Hà Nội."
+        },
+        {
+          "q": "Nhịp tim thai 90 nhịp/phút trong tình huống này thường tương ứng với hình ảnh nào trên CTG?",
+          "options": [
+            "Nhịp giảm biến đổi (Variable deceleration)",
+            "Nhịp giảm muộn (Late deceleration)",
+            "Nhịp giảm kéo dài (Prolonged deceleration)",
+            "Nhịp tim thai phẳng (Silent pattern)"
+          ],
+          "answer": 2,
+          "explain": "Sa dây rốn thường gây ra <b>một nhịp giảm sâu và kéo dài (>2 phút)</b> cho đến khi nguyên nhân chèn ép được giải quyết, được gọi là <b>nhịp giảm kéo dài (Prolonged deceleration)</b>.<br><b>Nguồn:</b> FIGO 2015."
+        },
+        {
+          "q": "Xử trí cấp cứu quan trọng nhất cần thực hiện ngay tại giường là gì?",
+          "options": [
+            "Cho bệnh nhân rặn nhanh để thai sổ ra đường dưới",
+            "Dùng tay đẩy ngôi thai lên cao và giữ nguyên để tránh chèn ép dây rốn",
+            "Tiêm bắp ngay thuốc giảm co tử cung nồng độ cao",
+            "Cố gắng đẩy đoạn dây rốn trở lại vào trong buồng tử cung"
+          ],
+          "answer": 1,
+          "explain": "<b>Đẩy ngôi thai lên</b> là biện pháp cơ học hiệu quả nhất để <b>giải phóng dây rốn bị kẹt</b> cho đến khi bắt đầu ca mổ, giúp khôi phục lưu lượng máu đến thai nhi.<br><b>Nguồn:</b> Phác đồ Từ Dũ / RCOG Green-top Guideline No. 50."
+        },
+        {
+          "q": "Tư thế nào của sản phụ giúp giảm nhẹ tình trạng chèn ép dây rốn nhất trong ca này?",
+          "options": [
+            "Nằm ngửa tuyệt đối, kê gối cao dưới đầu",
+            "Tư thế nằm nghiêng phải hoàn toàn",
+            "Tư thế đầu thấp, mông cao (Trendelenburg) hoặc tư thế gối - ngực",
+            "Tư thế ngồi xổm để tận dụng trọng lực"
+          ],
+          "answer": 2,
+          "explain": "Tư thế này <b>tận dụng trọng lực để ngôi thai rời xa khung chậu</b>, giảm áp lực lên dây rốn bị kẹt, giúp khôi phục tưới máu."
+        },
+        {
+          "q": "Phương pháp kết thúc thai kỳ bắt buộc trong tình huống lâm sàng này là gì?",
+          "options": [
+            "Theo dõi chuyển dạ tự nhiên nếu tim thai hồi phục sau khi đẩy ngôi",
+            "Khởi phát chuyển dạ bằng Prostaglandin để cổ tử cung mở nhanh",
+            "Mổ lấy thai cấp cứu tối khẩn cấp",
+            "Giúp sinh bằng Vacuum ngay lập tức tại phòng khám"
+          ],
+          "answer": 2,
+          "explain": "<b>Sa dây rốn khi cổ tử cung chưa mở trọn</b> là <b>chỉ định mổ lấy thai tối khẩn cấp</b> để cứu thai nhi. Không được chờ đợi hay cố sinh đường dưới vì nguy cơ thai chết rất cao.<br><b>Nguồn:</b> Bộ Y tế."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 30 tuổi thai 35 tuần, tăng huyết áp, đau bụng dữ dội, ra máu âm đạo",
+      "body": "Bệnh nhân 30 tuổi, G3P2, thai 35 tuần, vào viện vì <b>đau bụng dữ dội và ra máu âm đạo sẫm màu lượng vừa</b>. <b>Tiền sử:</b> có <b>tăng huyết áp thai kỳ</b> đang điều trị. <b>Khám lâm sàng:</b> <b>tử cung co cứng như gỗ, ấn đau khắp bụng</b>, huyết áp 150/100 mmHg, mạch 100 lần/phút. <b>Tim thai:</b> nghe khó, dao động khoảng 100-110 nhịp/phút. <b>Khám âm đạo:</b> cổ tử cung mở 2cm, ối căng, có ít máu sẫm theo tay.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng hướng tới nhiều nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Nhau tiền đạo chảy máu",
+            "Dọa vỡ tử cung trên sẹo mổ cũ",
+            "Nhau bong non",
+            "Chuyển dạ sinh non đơn thuần"
+          ],
+          "answer": 2,
+          "explain": "<b>Tam chứng:</b> đau bụng đột ngột, tử cung co cứng và ra máu âm đạo sẫm màu trên nền mẹ có tăng huyết áp là <b>điển hình của nhau bong non</b>.<br><b>Nguồn:</b> Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
+        },
+        {
+          "q": "Cơ chế chính gây <b>suy thai cấp</b> trong bệnh cảnh này là gì?",
+          "options": [
+            "Thai nhi bị mất máu trực tiếp từ các mạch máu bánh nhau bị đứt",
+            "Diện tích trao đổi oxy giữa mẹ và con bị giảm do nhau bong khỏi thành tử cung",
+            "Cơn co tử cung cường tính làm tăng lưu lượng máu hồ huyết quá mức",
+            "Do nồng độ huyết sắc tố của mẹ giảm thấp vì mất máu âm đạo"
+          ],
+          "answer": 1,
+          "explain": "Nhau bong làm <b>đứt rời sự kết nối tuần hoàn giữa mẹ và thai tại vị trí bong</b>, gây <b>thiếu oxy cấp tính cho thai</b> khi diện tích trao đổi oxy bị giảm đi đáng kể.<br><b>Nguồn:</b> Williams Obstetrics 26th Ed."
+        },
+        {
+          "q": "Tại sao tử cung của bệnh nhân lại có tính trạng \"cứng như gỗ\"?",
+          "options": [
+            "Do sự xâm nhập của máu vào cơ tử cung gây kích thích co thắt liên tục",
+            "Do thai nhi cử động quá mạnh vì thiếu oxy đột ngột",
+            "Do tình trạng viêm phúc mạc do máu tràn vào ổ bụng",
+            "Do phản ứng của cơ bụng trước tình trạng đau cấp tính"
+          ],
+          "answer": 0,
+          "explain": "Hiện tượng <b>phong huyết tử cung - nhau (tử cung Couvelaire)</b> do máu tụ sau nhau thấm vào lớp cơ, gây <b>co thắt liên tục</b>, làm tử cung co cứng như gỗ.<br><b>Nguồn:</b> Giáo trình Sản phụ khoa Đại học Y Hà Nội."
+        },
+        {
+          "q": "Biến chứng nguy hiểm nhất đối với mẹ có thể xảy ra trong ca này nếu không xử trí kịp thời là gì?",
+          "options": [
+            "Nhiễm trùng hậu sản kéo dài",
+            "Rối loạn đông máu và đờ tử cung gây băng huyết sau sinh",
+            "Suy thận cấp do thiếu máu nuôi dưỡng thận",
+            "Thuyên tắc ối do các mảnh vụn của bánh nhau"
+          ],
+          "answer": 1,
+          "explain": "Nhau bong non giải phóng nhiều <b>Thromboplastin</b> vào máu mẹ gây <b>đông máu nội mạch lan tỏa (DIC)</b> và <b>đờ tử cung</b> (uterine atony) dẫn đến băng huyết sau sinh - nguy cơ tử vong cao nhất.<br><b>Nguồn:</b> Phác đồ Từ Dũ."
+        },
+        {
+          "q": "Xử trí nào là phù hợp nhất cho bệnh nhân này?",
+          "options": [
+            "Bấm ối ngay và theo dõi sinh đường âm đạo để giảm áp lực buồng tử cung",
+            "Giảm áp lực bằng thuốc hạ huyết áp và theo dõi thêm",
+            "Mổ lấy thai cấp cứu kết hợp hồi sức tích cực và chuẩn bị máu",
+            "Tiêm hỗ trợ phổi và chờ đợi đủ 24 giờ mới can thiệp lấy thai"
+          ],
+          "answer": 2,
+          "explain": "Nhau bong non có <b>thai còn sống</b> là <b>chỉ định mổ lấy thai cấp cứu</b> để cứu cả mẹ lẫn con. Phải <b>hồi sức tích cực, chuẩn bị máu sẵn, tìm ICU</b> vì nguy cơ biến chứng rất cao.<br><b>Nguồn:</b> Bộ Y tế."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 35 tuổi thai 32 tuần, tăng huyết áp nặng, FGR, Doppler AEDF",
+      "body": "Bệnh nhân 35 tuổi, G2P0 (sảy thai 1 lần), thai 32 tuần, nhập viện vì <b>huyết áp cao 160/110 mmHg kèm đau đầu nhẹ</b>. <b>Khám sản khoa:</b> bề cao tử cung 25cm (nhỏ hơn tuổi thai). <b>Siêu âm:</b> thai có trọng lượng ở bách phân vị thứ 5, nước ối AFI 6cm. <b>Doppler:</b> động mạch rốn có <b>hình ảnh mất dòng tâm trương (AEDF)</b>. <b>CTG:</b> nhóm I nhưng <b>không có nhịp tăng sau 40 phút theo dõi</b>.",
+      "questions": [
+        {
+          "q": "Hình ảnh <b>mất dòng tâm trương (AEDF)</b> trên Doppler động mạch rốn phản ánh điều gì?",
+          "options": [
+            "Kháng lực mạch máu ngoại biên của thai nhi rất thấp",
+            "Có khoảng 70% mạch máu của bánh nhau đã bị phá hủy hoặc tắc nghẽn",
+            "Thai nhi đang trong trạng thái nghỉ ngơi sâu",
+            "Lưu lượng máu từ tĩnh mạch rốn về tim thai bị gián đoạn"
+          ],
+          "answer": 1,
+          "explain": "<b>AEDF chỉ xuất hiện khi các tiểu động mạch bánh nhau bị tổn thương nghiêm trọng (>70%)</b>, làm tăng kháng lực cực độ. Đây là dấu hiệu suy bánh nhau nặng, gần mất bù hoàn toàn.<br><b>Nguồn:</b> Williams Obstetrics 26th Ed."
+        },
+        {
+          "q": "Ở bệnh nhân này, yếu tố nào là nguyên nhân chính gây ra tình trạng suy thai mạn?",
+          "options": [
+            "Tuổi mẹ cao (35 tuổi)",
+            "Tiền sử sảy thai 1 lần ở tam cá nguyệt đầu",
+            "Bệnh lý tiền sản giật gây tổn thương hệ thống mạch máu bánh nhau",
+            "Thai nhi có bất thường về cấu trúc di truyền"
+          ],
+          "answer": 2,
+          "explain": "<b>Tiền sản giật làm hẹp các động mạch xoắn</b>, giảm tưới máu hồ huyết, dẫn đến <b>suy bánh nhau mạn tính</b> - nguyên nhân chính gây FGR ở bệnh nhân này.<br><b>Nguồn:</b> Giáo trình Sản phụ khoa Đại học Y Hà Nội."
+        },
+        {
+          "q": "Ngưỡng chẩn đoán <b>Tiền sản giật có dấu hiệu nặng</b> ở bệnh nhân này dựa vào dữ kiện nào?",
+          "options": [
+            "Tuổi thai 32 tuần",
+            "Huyết áp tâm trương 110 mmHg",
+            "Thai chậm tăng trưởng trong tử cung",
+            "Tiền sử sảy thai trước đó"
+          ],
+          "answer": 1,
+          "explain": "<b>Huyết áp tâm trương ≥ 110 mmHg</b> hoặc tâm thu ≥ 160 mmHg là một trong các <b>tiêu chuẩn của tiền sản giật nặng</b> theo ACOG Practice Bulletin No. 222.<br><b>Nguồn:</b> ACOG Practice Bulletin No. 222."
+        },
+        {
+          "q": "Theo khuyến cáo, đối với thai 32 tuần có Doppler động mạch rốn mất dòng tâm trương (AEDF), hướng xử trí tối ưu là gì?",
+          "options": [
+            "Mổ lấy thai ngay lập tức không cần chuẩn bị",
+            "Tiêm Magnesi sulfat và Corticoid, cân nhắc chấm dứt thai kỳ trong vòng 48 giờ",
+            "Tiếp tục theo dõi ngoại trú bằng CTG mỗi ngày",
+            "Truyền dịch và dinh dưỡng qua tĩnh mạch cho mẹ để nuôi thai thêm 2 tuần"
+          ],
+          "answer": 1,
+          "explain": "<b>AEDF ở tuổi thai sau 32 tuần</b> là <b>chỉ định cần cân nhắc lấy thai</b> sau khi đã hỗ trợ phổi với Corticoid và dự phòng co giật với Magnesi sulfat. Cân nhắc chấm dứt thai kỳ trong 48 giờ nếu không có chống chỉ định khác.<br><b>Nguồn:</b> Phác đồ Từ Dũ / ISUOG Guidelines."
+        },
+        {
+          "q": "Nếu Doppler chuyển sang đảo ngược dòng tâm trương (REDF), tiên lượng thai nhi như thế nào?",
+          "options": [
+            "Thai nhi vẫn an toàn trong vòng 1 tuần tới",
+            "Nguy cơ thai chết lưu trong tử cung rất cao trong vòng 24-48 giờ",
+            "Đây là dấu hiệu thai nhi đang thích nghi tốt với môi trường thiếu oxy",
+            "Chỉ cần theo dõi bằng cử động thai của mẹ là đủ"
+          ],
+          "answer": 1,
+          "explain": "<b>Đảo ngược dòng tâm trương (REDF)</b> là <b>tình trạng nặng hơn AEDF</b>, báo hiệu <b>thai nhi sắp mất bù hoàn toàn</b>. Nguy cơ thai chết lưu rất cao, cần can thiệp (mổ lấy thai) trong 24-48 giờ.<br><b>Nguồn:</b> Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 29 tuổi thai 40 tuần chuyển dạ, nhịp giảm biến đổi sâu",
+      "body": "Một sản phụ 29 tuổi, thai 40 tuần, đang chuyển dạ tích cực, cổ tử cung mở 6cm, ối còn. <b>Trên biểu đồ CTG:</b> xuất hiện <b>các nhịp giảm có hình dạng chữ V, xuống nhanh và lên nhanh</b>, khởi đầu và kết thúc không hằng định so với cơn gò. <b>Chi tiết:</b> nhịp giảm sâu nhất xuống 80 nhịp/phút, kéo dài khoảng 40 giây. Dao động nội tại giữa các nhịp giảm là 10 nhịp/phút. <b>Lâm sàng:</b> sản phụ vẫn tỉnh táo, không đau bụng ngoài cơn gò.",
+      "questions": [
+        {
+          "q": "Các nhịp giảm mô tả ở trên thuộc loại nào?",
+          "options": [
+            "Nhịp giảm sớm (Early deceleration)",
+            "Nhịp giảm muộn (Late deceleration)",
+            "Nhịp giảm biến đổi (Variable deceleration)",
+            "Nhịp giảm kéo dài (Prolonged deceleration)"
+          ],
+          "answer": 2,
+          "explain": "<b>Nhịp giảm biến đổi</b> có <b>hình chữ V, khởi đầu và kết thúc thay đổi không liên quan cố định với cơn gò</b> - đây là đặc trưng chính để phân biệt với các loại nhịp giảm khác.<br><b>Nguồn:</b> FIGO 2015."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh đứng sau loại nhịp giảm này là gì?",
+          "options": [
+            "Do sự chèn ép vào đầu thai nhi gây phản xạ dây X",
+            "Do sự chèn ép vào dây rốn làm thay đổi áp lực máu đột ngột",
+            "Do suy tuần hoàn bánh nhau làm giảm oxy dự trữ",
+            "Do mẹ bị hạ huyết áp tư thế nằm ngửa"
+          ],
+          "answer": 1,
+          "explain": "<b>Chèn ép dây rốn</b> gây <b>tắc tĩnh mạch (giảm máu về tim) rồi đến động mạch (tăng hậu gánh)</b>, kích hoạt thụ thể áp lực gây nhịp chậm đột ngột.<br><b>Nguồn:</b> Williams Obstetrics 26th Ed."
+        },
+        {
+          "q": "Đặc điểm \"xuống nhanh và lên nhanh\" (độ dốc lớn) của nhịp giảm này phản ánh điều gì?",
+          "options": [
+            "Thai nhi bị toan chuyển hóa nặng nề",
+            "Phản xạ của hệ thần kinh tự chủ còn tốt đối với thay đổi áp lực",
+            "Bánh nhau vẫn còn dự trữ oxy rất tốt",
+            "Dây rốn chỉ bị chèn ép một phần không đáng kể"
+          ],
+          "answer": 1,
+          "explain": "<b>Khả năng điều chỉnh nhịp tim nhanh chóng</b> cho thấy <b>hệ thần kinh tự chủ của thai chưa bị ức chế do toan hóa</b> - dấu hiệu thai nhi còn khỏe, chỉ là phản ứng tạm thời với chèn ép dây rốn.<br><b>Nguồn:</b> Giáo trình Sản phụ khoa Đại học Y Hà Nội."
+        },
+        {
+          "q": "Theo FIGO 2015, nhịp giảm biến đổi được coi là \"không điển hình\" (bất thường) khi có đặc điểm nào?",
+          "options": [
+            "Kéo dài trên 60 giây hoặc xuống sâu dưới 60 nhịp/phút",
+            "Xuất hiện ở mỗi cơn gò tử cung",
+            "Có kèm theo nhịp tăng nhỏ ở hai đầu nhịp giảm (vai)",
+            "Xảy ra khi cổ tử cung đã mở trên 5cm"
+          ],
+          "answer": 0,
+          "explain": "<b>Nhịp giảm biến đổi kéo dài (>60 giây) hoặc quá sâu (<60 nhịp)</b> được xếp vào <b>tiêu chuẩn nghi ngờ/bệnh lý</b> và yêu cầu can thiệp.<br><b>Nguồn:</b> FIGO Consensus Guidelines."
+        },
+        {
+          "q": "Xử trí bước tiếp theo phù hợp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Mổ lấy thai ngay lập tức vì nghi ngờ sa dây rốn",
+            "Thay đổi tư thế sản phụ và tiếp tục theo dõi sát CTG",
+            "Bấm ối ngay để kiểm tra màu sắc nước ối",
+            "Truyền Oxytocin liều cao để kết thúc nhanh chuyển dạ"
+          ],
+          "answer": 1,
+          "explain": "<b>Thay đổi tư thế (sang trái hoặc phải)</b> thường giúp <b>giải phóng dây rốn bị chèn ép</b> và làm biến mất nhịp giảm biến đổi. Chỉ mổ lấy thai nếu nhịp giảm biến đổi không cải thiện sau thay đổi tư thế.<br><b>Nguồn:</b> Bộ Y tế."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 31 tuổi thai 38 tuần, đái tháo đường thai kỳ kiểm soát kém, cử động thai yếu",
+      "body": "Bệnh nhân 31 tuổi, G1P0, thai 38 tuần, bị <b>đái tháo đường thai kỳ kiểm soát kém</b> bằng chế độ ăn (Glucose đói thường xuyên > 6.0 mmol/L). <b>Lâm sàng hiện tại:</b> bệnh nhân đi khám vì <b>thấy thai máy yếu hơn bình thường</b>. <b>Khám:</b> huyết áp 120/80 mmHg, bề cao tử cung 36cm (lớn hơn tuổi thai), <b>cử động thai 3 lần/giờ</b>. <b>CTG (NST) 40 phút:</b> nhịp tim thai cơ bản 140 nhịp/phút, <b>dao động nội tại 3 nhịp/phút (giảm)</b>, không có nhịp tăng, không có nhịp giảm.",
+      "questions": [
+        {
+          "q": "Tình trạng <b>dao động nội tại 3 nhịp/phút (giảm) kéo dài</b> ở thai nhi này gợi ý điều gì?",
+          "options": [
+            "Thai nhi đang trong chu kỳ ngủ sinh lý bình thường",
+            "Thai nhi có khả năng bị nhiễm toan hoặc thiếu oxy thần kinh trung ương mạn tính",
+            "Do mẹ sử dụng thuốc giảm đau gây ngủ trước khi đo",
+            "Hệ thần kinh giao cảm của thai nhi đang hoạt động quá mức"
+          ],
+          "answer": 1,
+          "explain": "<b>Dao động nội tại giảm hoặc mất là dấu hiệu muộn của suy thai</b>, phản ánh <b>sự ức chế của hệ thần kinh trung ương do thiếu oxy</b> - không phải chu kỳ ngủ bình thường.<br><b>Nguồn:</b> Williams Obstetrics 26th Ed."
+        },
+        {
+          "q": "Tại sao thai nhi của bà mẹ đái tháo đường kiểm soát kém lại có nguy cơ suy thai mạn tính?",
+          "options": [
+            "Do nồng độ đường trong máu thai nhi quá thấp",
+            "Do tăng tiêu thụ oxy của thai nhi vì tình trạng tăng insulin máu",
+            "Do bánh nhau của bà mẹ đái tháo đường thường nhỏ và kém phát triển",
+            "Do thai nhi bị thiếu máu vì mẹ bị thiếu sắt"
+          ],
+          "answer": 1,
+          "explain": "<b>Tăng đường huyết mẹ</b> → tăng đường huyết thai → tăng insulin thai → <b>tăng chuyển hóa cơ bản</b> → <b>tăng nhu cầu oxy vượt quá khả năng cung cấp của nhau</b> - cơ chế suy thai mạn tính.<br><b>Nguồn:</b> Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
+        },
+        {
+          "q": "Test nào có thể thực hiện tiếp theo để đánh giá dự trữ của thai nhi này tốt nhất?",
+          "options": [
+            "Nghiệm pháp gây hớn (CST - Contraction Stress Test)",
+            "Siêu âm Doppler động mạch tử cung",
+            "Xét nghiệm HbA1c của mẹ",
+            "Chọc ối để đánh giá độ trưởng thành phổi thai nhi"
+          ],
+          "answer": 0,
+          "explain": "<b>CST giúp đánh giá khả năng chịu đựng của thai nhi</b> đối với tình trạng <b>giảm oxy khi có cơn gò</b> (giả lập chuyển dạ) - rất hữu ích trong trường hợp đái tháo đường kiểm soát kém.<br><b>Nguồn:</b> Phác đồ Từ Dũ."
+        },
+        {
+          "q": "Điểm số sinh vật học (Biophysical Profile - BPP) tối đa là bao nhiêu và bao gồm những thành phần nào?",
+          "options": [
+            "8 điểm; gồm CTG, cử động thai, trương lực cơ, nước ối",
+            "10 điểm; gồm NST, cử động thai, cử động thở, trương lực cơ, nước ối",
+            "12 điểm; gồm thêm cả siêu âm Doppler động mạch rốn",
+            "6 điểm; chỉ dựa vào các thông số trên siêu âm 2D"
+          ],
+          "answer": 1,
+          "explain": "<b>BPP đánh giá 5 thông số, mỗi thông số 2 điểm (tối đa 10/10):</b> NST (CTG), cử động thai, cử động thở, trương lực cơ (muscle tone), và lượng nước ối.<br><b>Nguồn:</b> Manning's Score / ACOG Practice Bulletin."
+        },
+        {
+          "q": "Hướng xử trí an toàn nhất cho ca này nếu BPP là 4/10 điểm là gì?",
+          "options": [
+            "Cho bệnh nhân về nhà theo dõi cử động thai và tái khám sau 2 ngày",
+            "Nhập viện kiểm soát đường huyết chặt chẽ hơn và chờ chuyển dạ tự nhiên",
+            "Nhập viện và cân nhắc chấm dứt thai kỳ vì dự trữ thai đã cạn kiệt",
+            "Chỉ định mổ lấy thai ngay lập tức mà không cần làm thêm xét nghiệm nào khác"
+          ],
+          "answer": 2,
+          "explain": "<b>BPP ≤ 4 điểm là dấu hiệu gợi ý cao tình trạng ngạt thai nhi</b>, cần <b>nhập viện và cân nhắc can thiệp lấy thai ngay</b> vì dự trữ thai đã cạn kiệt.<br><b>Nguồn:</b> Hướng dẫn quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản - Bộ Y tế."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 33 tuổi thai 39 tuần VBAC (sinh đường dưới sau mổ), đau bụng dữ dội, sờ phần thai dưới da",
+      "body": "Sản phụ 33 tuổi, G2P1 (mổ lấy thai cũ cách đây 3 năm vì thai to), thai lần này 39 tuần, đang theo dõi chuyển dạ sinh ngã âm đạo sau mổ lấy thai (VBAC). <b>Khi chuyển dạ giai đoạn hoạt động:</b> <b>đột ngột sản phụ đau bụng dữ dội, liên tục</b>, sau đó cơn đau dịu đi nhưng bụng chướng, <b>sờ thấy các phần thai nhi ngay dưới da bụng</b>. <b>Trên monitor:</b> tim thai rời rạc rồi <b>mất hẳn</b>.",
+      "questions": [
+        {
+          "q": "Chẩn đoán tai biến sản khoa nào là phù hợp nhất ở đây?",
+          "options": [
+            "Nhau bong non thể ẩn",
+            "Vỡ tử cung",
+            "Thuyên tắc ối",
+            "Lộn tử cung cấp tính"
+          ],
+          "answer": 1,
+          "explain": "<b>Vỡ tử cung trên sẹo mổ cũ</b> thường có triệu chứng: <b>đau chói rồi dịu đau, kèm mất tim thai và phần thai nằm ngoài tử cung</b> - gần như chắc chắn vỡ tử cung hoàn toàn.<br><b>Nguồn:</b> Giáo trình Sản phụ khoa Đại học Y Hà Nội."
+        },
+        {
+          "q": "Tại sao sau cơn đau dữ dội, bệnh nhân lại cảm thấy \"dịu đau\" hơn?",
+          "options": [
+            "Do thai nhi đã chết nên không còn cử động gây đau",
+            "Do áp lực trong buồng tử cung được giải tỏa sau khi tử cung vỡ",
+            "Do cơ thể tự tiết ra Endorphin liều cao để giảm đau",
+            "Do bệnh nhân đã rơi vào trạng thái sốc mất máu gây lơ mơ"
+          ],
+          "answer": 1,
+          "explain": "Khi tử cung vỡ, <b>sự căng giãn quá mức của cơ tử cung biến mất</b>, làm <b>giảm cảm giác đau cấp tính của sự co thắt</b> - nhưng đây là dấu hiệu rất nguy hiểm, không phải là cải thiện.<br><b>Nguồn:</b> Williams Obstetrics 26th Ed."
+        },
+        {
+          "q": "Dấu hiệu sớm nào trên CTG thường xuất hiện trước khi xảy ra vỡ tử cung trên sẹo mổ cũ?",
+          "options": [
+            "Nhịp tăng xuất hiện quá nhiều",
+            "Nhịp giảm biến đổi lặp lại hoặc nhịp chậm kéo dài",
+            "Nhịp tim thai hình sin (Sinusoidal pattern)",
+            "Dao động nội tại tăng vọt lên trên 25 nhịp/phút"
+          ],
+          "answer": 1,
+          "explain": "<b>Các bất thường nhịp tim thai (nhịp chậm, nhịp giảm biến đổi)</b> là <b>dấu hiệu cảnh báo thường gặp nhất của vỡ tử cung</b> (chiếm >70% các trường hợp).<br><b>Nguồn:</b> RCOG Green-top Guideline No. 45."
+        },
+        {
+          "q": "Tình trạng \"sờ thấy phần thai dưới da bụng\" chứng tỏ điều gì?",
+          "options": [
+            "Thai nhi bị đa ối trầm trọng",
+            "Thai nhi đã thoát vị qua lỗ vỡ tử cung vào trong ổ bụng",
+            "Cơ bụng của sản phụ bị nhào và mỏng sau lần mổ trước",
+            "Đây là dấu hiệu của tình trạng bụng ngoại khoa viêm phúc mạc"
+          ],
+          "answer": 1,
+          "explain": "<b>Đây là dấu hiệu chắc chắn của vỡ tử cung hoàn toàn</b> - thai nhi không còn nằm trong buồng tử cung, đã thoát vị vào ổ bụng qua lỗ vỡ.<br><b>Nguồn:</b> Bộ Y tế."
+        },
+        {
+          "q": "Xử trí ưu tiên tối khẩn cấp trong tình huống này là gì?",
+          "options": [
+            "Hồi sức chống sốc và mổ bụng cấp cứu ngay lập tức",
+            "Truyền Oxytocin để đẩy thai ra nhanh qua đường âm đạo",
+            "Đặt Forceps để lấy thai ra đường dưới nhằm tiết kiệm thời gian",
+            "Siêu âm kiểm tra lại vị trí bánh nhau trước khi quyết định"
+          ],
+          "answer": 0,
+          "explain": "<b>Vỡ tử cung là một cấp cứu tối khẩn cấp đe dọa tính mạng cả mẹ và con</b>, cần <b>mổ bụng ngay để cầm máu, khâu tử cung (nếu có thể) và lấy thai</b>. Phải hồi sức chống sốc song song.<br><b>Nguồn:</b> Phác đồ Từ Dũ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 24 tuổi thai 41 tuần 3 ngày, thiểu ối, bánh nhau độ III, CST dương tính",
+      "body": "Bệnh nhân 24 tuổi, G1P0, thai 41 tuần 3 ngày, nhập viện để <b>chấm dứt thai kỳ vì thai quá ngày</b>. <b>Khám lâm sàng:</b> cổ tử cung đóng, ngôi đầu chưa lọt. <b>Siêu âm:</b> <b>chỉ số nước ối AFI 3cm, bánh nhau độ III</b> (suy bánh nhau). <b>Nghiệm pháp Contraction Stress Test (CST):</b> bác sĩ chỉ định truyền Oxytocin. Sau khi đạt được 3 cơn gò trong 10 phút, <b>CTG xuất hiện nhịp giảm muộn lặp lại ở cả 3 cơn gò</b>.",
+      "questions": [
+        {
+          "q": "Kết quả của nghiệm pháp CST này được đọc là gì?",
+          "options": [
+            "Dương tính (Positive)",
+            "Âm tính (Negative)",
+            "Nghi ngờ (Equivocal)",
+            "Không đạt (Unsatisfactory)"
+          ],
+          "answer": 0,
+          "explain": "<b>CST dương tính</b> khi có <b>nhịp giảm muộn xuất hiện ở trên 50% số cơn gò tử cung</b> trong nghiệm pháp - đúng như kết quả này (có ở cả 3/3 cơn).<br><b>Nguồn:</b> Phác đồ Từ Dũ."
+        },
+        {
+          "q": "Ý nghĩa của kết quả CST dương tính ở bệnh nhân thai 41 tuần 3 ngày là gì?",
+          "options": [
+            "Thai nhi hoàn toàn khỏe mạnh và có thể chịu đựng được cuộc chuyển dạ",
+            "Thai nhi có nguy cơ suy thai rất cao nếu tiếp tục chuyển dạ đường âm đạo",
+            "Đây chỉ là phản ứng tạm thời, nên lặp lại xét nghiệm sau 24 giờ",
+            "Phổi thai nhi đã trưởng thành và sẵn sàng cho việc chào đời"
+          ],
+          "answer": 1,
+          "explain": "<b>CST dương tính cho thấy dự trữ oxy của nhau thai không đủ</b>, thai sẽ <b>bị ngạt nếu có chuyển dạ thực sự</b> với những cơn gò dữ dội không điều khiển được.<br><b>Nguồn:</b> Williams Obstetrics 26th Ed."
+        },
+        {
+          "q": "Tại sao nước ối lại giảm (thiểu ối) ở thai quá ngày?",
+          "options": [
+            "Do bánh nhau bị canxi hóa làm giảm tưới máu thận thai nhi",
+            "Do thai nhi lớn nên chiếm hết không gian buồng ối",
+            "Do màng ối trở nên thấm hút nước ối ngược lại vào máu mẹ",
+            "Do thai nhi bắt đầu nuốt nước ối nhiều hơn bình thường"
+          ],
+          "answer": 0,
+          "explain": "<b>Suy bánh nhau mạn ở thai già tháng</b> dẫn đến <b>giảm tưới máu thận thai nhi</b>, gây giảm sản xuất nước tiểu (nguồn chính tạo ối).<br><b>Nguồn:</b> Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
+        },
+        {
+          "q": "Nguy cơ lớn nhất của thai nhi khi nước ối bị giảm nặng (AFI < 5cm) trong chuyển dạ là gì?",
+          "options": [
+            "Thai nhi bị biến dạng khung xương",
+            "Dây rốn dễ bị chèn ép gây suy thai cấp đột ngột",
+            "Sản phụ sẽ bị đau bụng nhiều hơn vì không có đệm nước ối",
+            "Nguy cơ vỡ ối sớm gây nhiễm trùng"
+          ],
+          "answer": 1,
+          "explain": "<b>Ít nước ối làm mất đi lớp đệm bảo vệ</b>, khiến <b>dây rốn dễ bị kẹp giữa phần thai và thành tử cung</b> khi có cơn gò, gây suy thai cấp đột ngột.<br><b>Nguồn:</b> Giáo trình Sản phụ khoa Đại học Y Hà Nội."
+        },
+        {
+          "q": "Hướng xử trí phù hợp nhất sau khi có kết quả CST này là gì?",
+          "options": [
+            "Tiếp tục truyền Oxytocin để khởi phát chuyển dạ vì đã có cơn gò",
+            "Ngưng Oxytocin, cho sản phụ về phòng chờ và theo dõi thêm",
+            "Chỉ định mổ lấy thai vì thai không chịu đựng được thử thách chuyển dạ",
+            "Bấm ối để đặt điện cực nội bảng theo dõi tim thai chính xác hơn"
+          ],
+          "answer": 2,
+          "explain": "Khi đã xác định <b>suy bánh nhau (CST dương tính)</b> trên <b>thai quá ngày</b>, <b>mổ lấy thai</b> là phương án <b>an toàn nhất</b>. Không nên khởi phát chuyển dạ thường vì nguy cơ thai ngạt rất cao.<br><b>Nguồn:</b> Bộ Y tế."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 28 tuổi thai 39 tuần chuyển dạ, gây tê ngoài màng cứng, hạ huyết áp, tim thai chậm",
+      "body": "Một sản phụ 28 tuổi, G1P0, thai 39 tuần, đang chuyển dạ cổ tử cung mở 5cm. Do đau nhiều, sản phụ được <b>gây tê ngoài màng cứng</b> để giảm đau. <b>Khoảng 10 phút sau khi gây tê:</b> <b>huyết áp sản phụ giảm từ 110/70 mmHg xuống còn 85/50 mmHg</b>. <b>Monitor tim thai:</b> đang từ 140 nhịp/phút <b>đột ngột xuất hiện nhịp chậm kéo dài xuống 90 nhịp/phút và duy trì suốt 3 phút chưa lên</b>.",
+      "questions": [
+        {
+          "q": "Nguyên nhân gây suy thai cấp trong tình huống này là gì?",
+          "options": [
+            "Phản ứng dị ứng với thuốc gây tê ngoài màng cứng",
+            "Hạ huyết áp mẹ làm giảm áp lực tưới máu từ động mạch tử cung vào hồ huyết",
+            "Thuốc gây tê đi xuyên qua bánh nhau và gây ức chế tim thai trực tiếp",
+            "Do sản phụ nằm nghiêng trái quá lâu gây chèn ép tĩnh mạch chủ"
+          ],
+          "answer": 1,
+          "explain": "<b>Gây tê ngoài màng cứng gây phong tỏa thần kinh giao cảm</b> dẫn đến <b>giãn mạch và hạ huyết áp mẹ</b>, làm <b>giảm dòng máu đến bánh nhau</b> - nguyên nhân chính gây suy thai cấp.<br><b>Nguồn:</b> Williams Obstetrics 26th Ed."
+        },
+        {
+          "q": "Nhịp chậm kéo dài (Prolonged deceleration) được định nghĩa là nhịp giảm kéo dài trong bao lâu?",
+          "options": [
+            "Từ 15 giây đến dưới 2 phút",
+            "Từ 2 phút đến dưới 10 phút",
+            "Trên 10 phút liên tục",
+            "Tương ứng với thời gian của một cơn gò tử cung"
+          ],
+          "answer": 1,
+          "explain": "<b>Nhịp giảm kéo dài từ 2-10 phút</b> được định nghĩa là Prolonged deceleration. Nếu trên 10 phút thì được tính là <b>thay đổi nhịp tim thai cơ bản mới</b>.<br><b>Nguồn:</b> FIGO 2015."
+        },
+        {
+          "q": "Xử trí ưu tiên số 1 để cải thiện tình trạng tim thai ở bệnh nhân này là gì?",
+          "options": [
+            "Mổ lấy thai ngay lập tức vì tim thai đã chậm quá 2 phút",
+            "Nâng huyết áp mẹ bằng cách truyền dịch nhanh và dùng thuốc vận mạch (như Ephedrine)",
+            "Ngừng ngay việc gây tê và rút catheter ngoài màng cứng",
+            "Cho sản phụ rặn để giúp thai nhi xuống thấp nhanh hơn"
+          ],
+          "answer": 1,
+          "explain": "Nguyên nhân là do <b>hạ huyết áp mẹ</b>, vì vậy <b>giải quyết nguyên nhân (nâng huyết áp)</b> là <b>ưu tiên hàng đầu</b>. Phải truyền dịch nhanh và dùng thuốc vận mạch ngay để cứu thai.<br><b>Nguồn:</b> Phác đồ Từ Dũ."
+        },
+        {
+          "q": "Cơ chế của thuốc Ephedrine giúp cải thiện tim thai trong ca này là gì?",
+          "options": [
+            "Làm giãn mạch tử cung để máu vào hồ huyết nhiều hơn",
+            "Co mạch ngoại vi mẹ để nâng huyết áp và duy trì tưới máu bánh nhau",
+            "Kích thích trực tiếp vào thụ thể Beta của tim thai làm tim thai đập nhanh hơn",
+            "Làm tăng độ bão hòa oxy trong máu của sản phụ"
+          ],
+          "answer": 1,
+          "explain": "<b>Ephedrine là thuốc cường giao cảm</b> giúp <b>co mạch, nâng huyết áp hệ thống của mẹ</b> mà <b>ít gây co thắt mạch máu tử cung</b> - rất an toàn trong sản khoa.<br><b>Nguồn:</b> Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
+        },
+        {
+          "q": "Nếu sau khi huyết áp mẹ trở về bình thường 110/70 mmHg mà tim thai vẫn duy trì ở mức 80 nhịp/phút thêm 5 phút nữa, hướng xử trí tiếp theo là gì?",
+          "options": [
+            "Tiếp tục chờ đợi vì huyết áp mẹ đã ổn định",
+            "Thực hiện hồi sức nội khoa tích cực hơn bằng oxy liều cao",
+            "Mổ lấy thai cấp cứu vì nghi ngờ thai đã mất khả năng hồi phục",
+            "Tiêm Atropin cho mẹ để làm tăng nhịp tim thai"
+          ],
+          "answer": 2,
+          "explain": "Nếu <b>nguyên nhân đã được giải quyết (huyết áp mẹ ổn) mà tim thai không hồi phục sau 5-7 phút</b>, chứng tỏ <b>thai đã suy nặng, cần lấy thai ngay</b>. Tiếp tục chờ sẽ mất thai.<br><b>Nguồn:</b> Hướng dẫn quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản - Bộ Y tế."
+        }
+      ]
+    }
+  ]
+}
