@@ -1,0 +1,623 @@
+{
+  "name": "Thai lưu Up",
+  "description": "Bộ đề lâm sàng toàn diện về thai chết lưu trong tử cung, bao gồm chẩn đoán, xử trí, và biến chứng. Phù hợp cho ôn thi nội trú chuyên ngành Sản phụ khoa.",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Sản",
+  "subcategory": "Sản khoa",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 32 tuổi, thai 38 tuần, ngừng máy 2 ngày",
+      "body": "Thai phụ 32 tuổi, PARA 1001, thai 38 tuần 2 ngày theo siêu âm quý 1, vào viện vì không thấy thai máy trong 2 ngày qua. Tiền sử thai kỳ khỏe mạnh, không mắc bệnh lý nội khoa.<br><br><b>Khám lâm sàng:</b> Huyết áp 110/70 mmHg, mạch 82 lần/phút, nhiệt độ 36.8°C. Bề cao tử cung 32 cm (thấp hơn so với tuổi thai), <b>tim thai không nghe thấy bằng Doppler cầm tay</b>. Phản xạ gân xương bình thường, không phù, không ra máu âm đạo.<br><br><b>Siêu âm:</b> Xác nhận không có hoạt động tim thai, có dấu hiệu chồng khớp sọ (Spalding) mức độ nhẹ.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định phù hợp nhất là gì?",
+          "options": [
+            "Thai chậm tăng trưởng trong tử cung",
+            "Thai chết lưu trong tử cung",
+            "Dọa vỡ tử cung âm thầm",
+            "Nhau bong non thể ẩn"
+          ],
+          "answer": 1,
+          "explain": "Siêu âm không thấy hoạt động tim thai là tiêu chuẩn vàng để chẩn đoán thai chết lưu trong tử cung. Các triệu chứng như thai ngừng máy và bề cao tử cung nhỏ hơn tuổi thai là các dấu hiệu gợi ý lâm sàng."
+        },
+        {
+          "q": "Dấu hiệu chồng khớp sọ (Spalding) trên siêu âm trong trường hợp này có ý nghĩa gì?",
+          "options": [
+            "Thai nhi bị dị dạng sọ não bẩm sinh",
+            "Thai nhi đã chết lưu từ lâu (thường > 48 giờ)",
+            "Áp lực buồng tử cung quá lớn ép vào đầu thai",
+            "Phản ứng bình thường của thai nhi khi chuẩn bị chuyển dạ"
+          ],
+          "answer": 1,
+          "explain": "Dấu hiệu Spalding (các xương sọ chồng lên nhau) xảy ra do sự hóa lỏng của mô não và mất áp lực nội sọ sau khi thai chết một thời gian, thường là sau 48 giờ."
+        },
+        {
+          "q": "Xét nghiệm nào là ưu tiên hàng đầu để đánh giá biến chứng cho mẹ ngay tại thời điểm này?",
+          "options": [
+            "Định lượng nồng độ β-hCG",
+            "Tổng phân tích tế bào máu và đông máu toàn bộ",
+            "Chụp cộng hưởng từ (MRI) tiểu khung",
+            "Chọc dò nước ối tìm nhiễm trùng"
+          ],
+          "answer": 1,
+          "explain": "Thai lưu (đặc biệt nếu lưu lâu) có nguy cơ gây rối loạn đông máu do giải phóng thromboplastin từ mô thai chết vào tuần hoàn mẹ, do đó công thức máu và đông máu toàn bộ là ưu tiên."
+        },
+        {
+          "q": "Lựa chọn phương pháp xử trí nào là phù hợp nhất nếu cổ tử cung (CTC) Bishop 2 điểm?",
+          "options": [
+            "Mổ lấy thai cấp cứu ngay lập tức",
+            "Làm chín muồi CTC bằng Prostaglandin E2 hoặc E1",
+            "Đặt bóng Foley truyền oxytocin ngay",
+            "Chờ đợi chuyển dạ tự nhiên trong 2 tuần"
+          ],
+          "answer": 1,
+          "explain": "Với thai lưu đủ tháng và CTC chưa thuận lợi, làm chín muồi CTC bằng Prostaglandins là phương pháp hiệu quả để khởi phát chuyển dạ đường âm đạo, tránh mổ lấy thai không cần thiết."
+        },
+        {
+          "q": "Trong các xét nghiệm sau, xét nghiệm nào KHÔNG thuộc bộ bilan tìm nguyên nhân cơ bản ngay sau sinh cho trường hợp này?",
+          "options": [
+            "Xét nghiệm Kleihauer-Betke trên máu mẹ",
+            "Khám nghiệm đại thể và vi thể nhau thai",
+            "Xét nghiệm kháng thể kháng nhân (ANA) hệ thống",
+            "Định lượng Estriol nước tiểu 24 giờ"
+          ],
+          "answer": 3,
+          "explain": "Định lượng Estriol nước tiểu không còn giá trị trong đánh giá nguyên nhân thai lưu hiện nay. Các xét nghiệm tìm xuất huyết chuyển máu mẹ con (Kleihauer-Betke), bệnh lý nhau thai và bệnh tự miễn là các bước tiêu chuẩn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 28 tuổi, thai 26 tuần, thai ngừng phát triển 4 tuần, chảy máu",
+      "body": "Thai phụ 28 tuổi, PARA 0010, thai 26 tuần theo ngày kinh cuối, vào viện vì <b>đau bụng âm ỉ và ra dịch âm đạo màu nâu đen</b>. Bệnh nhân đã biết thai ngừng phát triển từ 4 tuần trước nhưng lo sợ không đi điều trị.<br><br><b>Khám:</b> Mạch 95 lần/phút, HA 105/60 mmHg, nhịp thở 20 lần/phút, SpO₂ 98%. Khám âm đạo: CTC đóng, có máu sẫm màu theo tay, tử cung kích thước tương đương thai 20 tuần.<br><br><b>Xét nghiệm:</b> <b>Fibrinogen 1.2 g/L, tiểu cầu 95.000/μL, sản phẩm thoái hóa fibrin (FDP) tăng cao</b>.",
+      "questions": [
+        {
+          "q": "Vấn đề bệnh lý nào đang diễn ra ở sản phụ này?",
+          "options": [
+            "Nhiễm trùng hậu sản sớm",
+            "Rối loạn đông máu do thai lưu kéo dài",
+            "Nhau bong non thể nặng",
+            "Sảy thai khó tránh"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có thai lưu kéo dài (4 tuần) kèm bằng chứng xét nghiệm fibrinogen thấp, FDP tăng và tiểu cầu giảm, phù hợp với chẩn đoán tiêu thụ yếu tố đông máu do thai lưu."
+        },
+        {
+          "q": "Cơ chế chính gây ra tình trạng rối loạn đông máu trong tình huống này là gì?",
+          "options": [
+            "Mất máu cấp qua đường âm đạo gây cạn kiệt yếu tố đông máu",
+            "Giải phóng thromboplastin từ thai lưu vào máu mẹ gây đông máu nội mạch lan tỏa (DIC)",
+            "Vi khuẩn gram âm tiết nội độc tố gây hủy hoại các lá huyết học",
+            "Giảm tổng hợp protein tại gan do nhiễm độc thai nghén"
+          ],
+          "answer": 1,
+          "explain": "Thai chết lưu lâu ngày giải phóng các chất gây đông (thromboplastin) từ mô thai và nhau thai vào tuần hoàn mẹ, kích hoạt con đường đông máu ngoại sinh gây DIC."
+        },
+        {
+          "q": "Bước xử trí ưu tiên trước khi thực hiện can thiệp lấy thai là gì?",
+          "options": [
+            "Khởi phát chuyển dạ bằng Oxytocin liều cao",
+            "Điều chỉnh rối loạn đông máu bằng các chế phẩm máu",
+            "Kháng sinh liều cao đường tĩnh mạch ngay lập tức",
+            "Mổ lấy thai cắt tử cung để cầm máu"
+          ],
+          "answer": 1,
+          "explain": "Trong DIC, cần ưu tiên hồi sức nội khoa, bù đắp các yếu tố đông máu đã mất trước khi thực hiện các thủ thuật xâm lấn để tránh băng huyết không kiểm soát."
+        },
+        {
+          "q": "Chỉ số Fibrinogen bao nhiêu là ngưỡng báo động nguy cơ chảy máu nặng trong thai lưu?",
+          "options": [
+            "< 1.0 g/L",
+            "< 1.5 g/L",
+            "< 2.0 g/L",
+            "< 4.0 g/L"
+          ],
+          "answer": 1,
+          "explain": "Trong sản khoa, ngưỡng Fibrinogen dưới 1.5 g/L (hoặc 150 mg/dL) được coi là dấu hiệu của rối loạn đông máu nặng, cần can thiệp truyền tủa lạnh hoặc huyết tương tươi."
+        },
+        {
+          "q": "Nếu sau khi truyền máu, tình trạng mẹ ổn định, lựa chọn phương pháp đình chỉ thai nào là tối ưu?",
+          "options": [
+            "Nong và gắp thai (D&E)",
+            "Khởi phát chuyển dạ bằng Misoprostol đường âm đạo",
+            "Đặt túi nước gây sảy thai (Krause)",
+            "Mổ lấy thai qua đoạn dưới tử cung"
+          ],
+          "answer": 1,
+          "explain": "Misoprostol là thuốc ưu tiên để gây sảy thai/đẻ non cho thai lưu ở quý 2 vì hiệu quả cao và ít xâm lấn hơn so với các phương pháp khác."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 24 tuổi, thai 9 tuần, siêu âm thấy túi thai trống",
+      "body": "Thai phụ 24 tuổi, khám thai định kỳ ở tuần thứ 9. <b>Thai phụ hoàn toàn không có triệu chứng đau bụng hay ra máu âm đạo</b>. Tiền sử khỏe mạnh.<br><br><b>Siêu âm transvaginal:</b> Thấy túi thai trong buồng tử cung, <b>đường kính trung bình túi thai (MSD) là 30 mm, không thấy phôi thai bên trong, túi noãn hoàng kích thước 4 mm</b>.",
+      "questions": [
+        {
+          "q": "Kết luận nào trên siêu âm là chính xác nhất cho trường hợp này?",
+          "options": [
+            "Thai sớm bình thường, cần hẹn kiểm tra lại sau 1 tuần",
+            "Thai ngưng phát triển (Anembryonic pregnancy)",
+            "Thai lưu quý 1 (Missed abortion)",
+            "Thai ngoài tử cung chưa rõ vị trí"
+          ],
+          "answer": 1,
+          "explain": "MSD ≥ 25 mm mà không có phôi thai là tiêu chuẩn chẩn đoán chắc chắn thai hỏng (trứng trống)."
+        },
+        {
+          "q": "Theo tiêu chuẩn của Hội các nhà Chẩn đoán hình ảnh trong siêu âm (SRU), ngưỡng MSD tối thiểu để chẩn đoán thai hỏng khi không thấy phôi là bao nhiêu?",
+          "options": [
+            "15 mm",
+            "20 mm",
+            "25 mm",
+            "35 mm"
+          ],
+          "answer": 2,
+          "explain": "Theo SRU 2013, ngưỡng đường kính túi thai (MSD) ≥ 25 mm không thấy phôi là tiêu chuẩn vàng chẩn đoán thai hỏng."
+        },
+        {
+          "q": "Nếu thay vì phôi không có, siêu âm thấy phôi có chiều dài đầu mông (CRL) là 8 mm nhưng không có hoạt động tim thai, chẩn đoán là gì?",
+          "options": [
+            "Nghi ngờ thai hỏng, cần siêu âm lại sau 48 giờ",
+            "Thai lưu chắc chắn vì CRL > 7 mm và không có tim thai",
+            "Thai bình thường nhưng tim thai chưa xuất hiện",
+            "Sai lệch tuổi thai do ngày kinh không chính xác"
+          ],
+          "answer": 1,
+          "explain": "Tiêu chuẩn chẩn đoán thai hỏng khác là CRL ≥ 7 mm mà không thấy hoạt động của tim thai trên siêu âm đầu dò âm đạo."
+        },
+        {
+          "q": "Phương án tư vấn nào sau đây là phù hợp nhất về các lựa chọn xử trí?",
+          "options": [
+            "Bắt buộc phải hút thai ngay để tránh nhiễm trùng",
+            "Có thể theo dõi chờ sảy tự nhiên, dùng thuốc hoặc hút thai chân không",
+            "Chỉ có mổ nội soi mới lấy hết được khối thai",
+            "Nhập viện truyền oxytocin để tống thai ra ngoài"
+          ],
+          "answer": 1,
+          "explain": "Với thai lưu sớm, bệnh nhân có 3 lựa chọn: theo dõi chờ sảy tự nhiên (nếu không có biến chứng), dùng Misoprostol để tống thai, hoặc can thiệp ngoại khoa bằng hút thai chân không."
+        },
+        {
+          "q": "Tỉ lệ bất thường nhiễm sắc thể trong nhóm thai lưu sớm ở quý 1 chiếm khoảng bao nhiêu?",
+          "options": [
+            "10-20%",
+            "30-40%",
+            "50-60%",
+            "> 90%"
+          ],
+          "answer": 2,
+          "explain": "Khoảng 50-60% các trường hợp sảy thai tự nhiên quý 1 là do bất thường số lượng hoặc cấu trúc nhiễm sắc thể, phổ biến nhất là các trisomy."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ 22 tuần sinh thai lưu có dị dạng: khe hở môi vòm miệng và dư ngón tay",
+      "body": "Một sản phụ vừa sinh một <b>thai lưu 22 tuần, cân nặng 450 g</b>, hình thái ngoài quan sát thấy <b>khe hở môi - vòm miệng và dư ngón tay</b>. <b>Đây là lần thứ hai liên tiếp</b> chị bị thai lưu ở khoảng tuổi thai này. Cặp vợ chồng mong muốn làm xét nghiệm di truyền để tìm nguyên nhân.",
+      "questions": [
+        {
+          "q": "Xét nghiệm di truyền nào được khuyến cáo ưu tiên hiện nay trong phân tích mô thai lưu có dị dạng?",
+          "options": [
+            "Lập bộ nhiễm sắc thể (Karyotype) truyền thống",
+            "Xét nghiệm Microarray nhiễm sắc thể (CMA)",
+            "Giải trình tự gen thế hệ mới (NGS) tìm đột biến điểm",
+            "Xét nghiệm Triple test máu mẹ"
+          ],
+          "answer": 1,
+          "explain": "CMA hiện là xét nghiệm ưu tiên vì độ phân giải cao và khả năng thành công lớn hơn karyotype trong môi trường mô thai lưu."
+        },
+        {
+          "q": "Lợi thế chính của CMA so với Karyotype trong chẩn đoán nguyên nhân thai lưu là gì?",
+          "options": [
+            "Giá thành rẻ hơn và thực hiện nhanh hơn",
+            "Không cần tế bào sống đang phân chia (nuôi cấy)",
+            "Phát hiện được tất cả các trường hợp chuyển đoạn cân bằng",
+            "Đánh giá được tình trạng nhiễm độc chì của thai"
+          ],
+          "answer": 1,
+          "explain": "Karyotype cần tế bào sống để nuôi cấy, trong khi thai lưu tế bào thường đã chết. CMA phân tích DNA nên không cần tế bào sống."
+        },
+        {
+          "q": "Loại bệnh phẩm nào sau đây là TỐI ƯU nhất để gửi làm xét nghiệm di truyền sau khi thai đã sổ ra ngoài?",
+          "options": [
+            "Da vùng đùi của thai",
+            "Một đoạn dây rốn khoảng 1.5 - 2 cm",
+            "Máu sẫm màu trong buồng tử cung",
+            "Nước ối lấy qua túi ối đã vỡ"
+          ],
+          "answer": 1,
+          "explain": "Dây rốn hoặc mô dưới đĩa đệm nhau thai chứa nhiều tế bào thai nhi và ít bị tạp nhiễm máu mẹ hơn so với da thai (đặc biệt khi thai đã thoái hóa)."
+        },
+        {
+          "q": "Nếu kết quả di truyền thai là bình thường, bước tiếp theo quan trọng nhất trong quy trình tìm nguyên nhân thai lưu ở bệnh nhân này là gì?",
+          "options": [
+            "Kiểm tra đường huyết đói của bố",
+            "Khám nghiệm tử thi thai nhi (Autopsy) và giải phẫu bệnh nhau thai",
+            "Xét nghiệm nội tiết tố tuyến thượng thận mẹ",
+            "Chụp tử cung vòi trứng (HSG) ngay sau sạch kinh"
+          ],
+          "answer": 1,
+          "explain": "Khám nghiệm tử thi và nhau thai có thể phát hiện các bất thường hình thái hoặc tổn thương mạch máu mà xét nghiệm di truyền không thấy được."
+        },
+        {
+          "q": "Tập hợp các chỉ định nào sau đây phù hợp nhất để thực hiện CMA cho thai lưu (theo ACOG/SMFM): (1) Thai lưu có kèm dị dạng hình thái; (2) Thai lưu liên tiếp; (3) Tất cả các ca thai lưu ≥ 20 tuần; (4) Thai lưu có mẹ bị tiền sản giật.",
+          "type": "multi",
+          "options": [
+            "(1), (2), (3)",
+            "(1), (3)",
+            "(2), (4)",
+            "(1), (2), (3), (4)"
+          ],
+          "answer": [
+            0
+          ],
+          "explain": "ACOG và SMFM khuyến cáo CMA cho mọi trường hợp thai lưu, đặc biệt khi có dị dạng, tuy nhiên thực tế thường áp dụng cho thai ≥ 20 tuần hoặc có bất thường hình thái/thai lưu liên tiếp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 35 tuổi, PARA 1021, thai 24 tuần, tiểu đường typ 2, BMI 35",
+      "body": "<b>Thai phụ 35 tuổi, PARA 1021</b> (1 lần đẻ thường, 2 lần thai lưu quý 2), hiện mang thai 24 tuần. <b>Thai phụ bị đái tháo đường typ 2 điều trị insulin, BMI 35 kg/m²</b>. <b>Kết quả siêu âm hôm nay xác nhận thai lưu</b>. Bệnh nhân rất suy sụp và yêu cầu mổ lấy thai để kết thúc nhanh chóng.",
+      "questions": [
+        {
+          "q": "Lời khuyên nào sau đây về phương thức chuyển dạ là đúng đắn nhất?",
+          "options": [
+            "Đồng ý mổ lấy thai theo yêu cầu để giảm sang chấn tâm lý",
+            "Giải thích ưu tiên khởi phát chuyển dạ đường âm đạo để giảm nguy cơ cho mẹ",
+            "Chọc hút dịch não tủy thai nhi rồi mới cho đẻ đường âm đạo",
+            "Cắt tử cung khối cả thai để điều trị triệt để bệnh lý tử cung"
+          ],
+          "answer": 1,
+          "explain": "Mổ lấy thai trong trường hợp thai lưu chỉ nên thực hiện khi có chỉ định sản khoa tuyệt đối vì nó làm tăng nguy cơ chảy máu, nhiễm trùng và sẹo mổ tử cung cho những lần mang thai sau."
+        },
+        {
+          "q": "Thuốc nào sau đây được ưu tiên để khởi phát chuyển dạ cho thai lưu ở tuổi thai này khi CTC chưa thuận lợi?",
+          "options": [
+            "Truyền Oxytocin liều thấp theo phác đồ giọt tĩnh mạch",
+            "Misoprostol liều 200 - 400 μg đặt âm đạo mỗi 4 - 12 giờ",
+            "Đặt bóng Foley đơn thuần không kèm thuốc",
+            "Ngậm dưới lưỡi Ergotamin mỗi 2 giờ"
+          ],
+          "answer": 1,
+          "explain": "Misoprostol là lựa chọn hàng đầu để gây chuyển dạ thai lưu quý 2 với hiệu quả cao và an toàn."
+        },
+        {
+          "q": "Nguy cơ lớn nhất đối với sức khỏe của sản phụ này khi mang thai tiếp theo là gì?",
+          "options": [
+            "Tăng nguy cơ bị ung thư cổ tử cung",
+            "Lặp lại tình trạng thai lưu nếu không kiểm soát tốt đường huyết và cân nặng",
+            "Chắc chắn sẽ bị vỡ tử cung tự nhiên ở tuần 20",
+            "Suy buồng trứng sớm sau khi đẻ thai lưu"
+          ],
+          "answer": 1,
+          "explain": "Đái tháo đường và béo phì là các yếu tố nguy cơ mạnh gây thai lưu tái diễn nếu không được quản lý tốt."
+        },
+        {
+          "q": "Để giảm nguy cơ thai lưu trong tương lai cho bệnh nhân này, mốc thời gian nào là quan trọng nhất để can thiệp?",
+          "options": [
+            "Ngay khi bắt đầu chuyển dạ lần tới",
+            "Giai đoạn tiền thụ thai (Preconceptional)",
+            "Sau khi thai đã được 20 tuần ở lần tới",
+            "Chỉ cần can thiệp trong cuộc đẻ"
+          ],
+          "answer": 1,
+          "explain": "Kiểm soát đường huyết (HbA1c) và giảm cân trước khi mang thai là yếu tố then chốt để cải thiện tiên lượng."
+        },
+        {
+          "q": "Với tiền sử 2 lần thai lưu liên tiếp ở quý 2 và có bệnh lý nền, xét nghiệm sàng lọc quan trọng nào cần thực hiện thêm cho mẹ?",
+          "options": [
+            "Tầm soát hội chứng kháng phospholipid (APS)",
+            "Định lượng nồng độ Prolactin máu",
+            "Xét nghiệm các dấu ấn ung thư (CA-125, CEA)",
+            "Chụp CT scan não tìm u tuyến yên"
+          ],
+          "answer": 0,
+          "explain": "APS là một trong những nguyên nhân quan trọng nhất gây thai lưu liên tiếp ở quý 2 và cần được tầm soát ở bệnh nhân này."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 22 tuổi, thai 23 tuần, phù toàn thân, huyết áp cao, protein niệu",
+      "body": "Thai phụ 22 tuổi, PARA 0000, thai 23 tuần, <b>vào viện vì phù toàn thân nhanh chóng trong 1 tuần qua</b>. Bệnh nhân không sốt, không đau bụng.<br><br><b>Khám thấy:</b> Phù mềm, trắng, ấn lõm, <b>huyết áp 140/90 mmHg, protein niệu 1+</b>.<br><br><b>Siêu âm thai:</b> Thấy hình ảnh thai nhi có <b>dịch màng phổi, dịch màng bụng, phù da đầu và nhau thai dày 6 cm. Tim thai không hoạt động</b>.",
+      "questions": [
+        {
+          "q": "Hội chứng lâm sàng nào được mô tả ở người mẹ phản ánh tình trạng thai nhi?",
+          "options": [
+            "Hội chứng HELLP",
+            "Hội chứng Mirror (Ballantyne syndrome)",
+            "Hội chứng thận hư trong thai kỳ",
+            "Suy tim cấp do thiếu máu"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng Mirror là tình trạng mẹ bị phù và các triệu chứng giống tiền sản giật khi thai nhi bị phù nặng (hydrops fetalis)."
+        },
+        {
+          "q": "Nguyên nhân truyền nhiễm phổ biến nhất gây ra hình ảnh phù thai và thai lưu trong tình huống này là gì?",
+          "options": [
+            "Cytomegalovirus (CMV)",
+            "Parvovirus B19",
+            "Herpes Simplex Virus (HSV)",
+            "Liên cầu khuẩn nhóm B (GBS)"
+          ],
+          "answer": 1,
+          "explain": "Parvovirus B19 là nguyên nhân hàng đầu gây phù thai không do miễn dịch dẫn đến thai lưu thông qua việc gây thiếu máu thai nặng."
+        },
+        {
+          "q": "Cơ chế chính khiến mẹ bị phù trong hội chứng Mirror là gì?",
+          "options": [
+            "Thai nhi tiết ra các yếu tố chống tăng sinh mạch (sFlt-1) gây tổn thương nội mô mẹ",
+            "Mẹ bị mất protein qua nhau thai sang cho thai nhi",
+            "Thai nhi ép vào tĩnh mạch chủ dưới của mẹ làm giảm hồi lưu máu",
+            "Phản ứng dị ứng của mẹ với kháng nguyên nhóm máu của thai"
+          ],
+          "answer": 0,
+          "explain": "Các báo cáo gần đây cho thấy sự gia tăng sFlt-1 tương tự như tiền sản giật trong hội chứng Mirror, gây ra rò rỉ mao mạch toàn thân ở mẹ."
+        },
+        {
+          "q": "Sau khi thai lưu được sổ ra ngoài, tình trạng phù và cao huyết áp của mẹ thường diễn biến như thế nào?",
+          "options": [
+            "Vẫn tồn tại vĩnh viễn, cần dùng thuốc hạ áp suốt đời",
+            "Thường thoái lui nhanh chóng trong vài ngày đến vài tuần",
+            "Sẽ chuyển sang thể tiền sản giật nặng gây co giật ngay sau đẻ",
+            "Cần phải lọc máu chu kỳ mới hết được phù"
+          ],
+          "answer": 1,
+          "explain": "Triệu chứng của mẹ thường biến mất nhanh chóng sau khi nguyên nhân gây phù (thai và nhau) được giải quyết."
+        },
+        {
+          "q": "Để chẩn đoán xác định nhiễm Parvovirus B19 ở thai lưu, xét nghiệm nào trên nước ối hoặc máu thai là chính xác nhất?",
+          "options": [
+            "Nuôi cấy virus trên môi trường thạch",
+            "Xét nghiệm PCR tìm DNA của virus",
+            "Định lượng nồng độ IgM trong nước ối",
+            "Quan sát hồng cầu lưới trên tiêu bản máu"
+          ],
+          "answer": 1,
+          "explain": "PCR là xét nghiệm nhạy và đặc hiệu nhất để phát hiện virus trong các mô thai nhi hoặc dịch cơ thể."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 29 tuổi, thai 34 tuần, giảm máy đột ngột, nhịp phẳng, nhịp chậm muộn",
+      "body": "Thai phụ 29 tuổi, PARA 1001, thai 34 tuần, <b>nhập viện vì đột ngột giảm cử động thai</b>. Bệnh nhân không đau bụng, không ra máu, không sốt. Tiền sử không có chấn thương.<br><br><b>Theo dõi CTG:</b> Nhịp tim thai cơ bản 140 nhịp/phút, <b>dao động nội biên cực kém (kiểu phẳng), xuất hiện các nhịp chậm muộn sâu và kéo dài</b>. Siêu âm thấy <b>tim thai đập rất yếu và sau đó ngừng hẳn</b>.",
+      "questions": [
+        {
+          "q": "Trong bệnh cảnh giảm máy đột ngột và nhịp phẳng kèm nhịp chậm muộn ở thai không có chấn thương, nguyên nhân nào cần được nghĩ tới?",
+          "options": [
+            "Nhau tiền đạo trung tâm",
+            "Xuất huyết chuyển máu mẹ con (Fetomaternal hemorrhage - FMH) lượng lớn",
+            "Thai ngủ sinh lý",
+            "Mẹ hạ đường huyết"
+          ],
+          "answer": 1,
+          "explain": "Xuất huyết mẹ con lượng lớn có thể gây thiếu máu cấp, sốc giảm thể tích và thai chết nhanh chóng mà mẹ không có triệu chứng lâm sàng rõ rệt."
+        },
+        {
+          "q": "Xét nghiệm nào giúp xác định và định lượng máu thai nhi đi vào tuần hoàn mẹ?",
+          "options": [
+            "Test nhanh kháng nguyên bề mặt HBsAg",
+            "Test Kleihauer-Betke (KB)",
+            "Định lượng nồng độ Bilirubin máu mẹ",
+            "Tổng phân tích nước tiểu mẹ"
+          ],
+          "answer": 1,
+          "explain": "Test KB là xét nghiệm tiêu chuẩn để định lượng tế bào hồng cầu thai nhi trong máu mẹ."
+        },
+        {
+          "q": "Nguyên lý của test Kleihauer-Betke dựa trên đặc điểm gì của hồng cầu?",
+          "options": [
+            "Hồng cầu thai nhi to hơn hồng cầu mẹ",
+            "Hemoglobin F của thai nhi bền với acid hơn Hemoglobin A của mẹ",
+            "Hồng cầu thai nhi có nhiều enzyme G6PD hơn",
+            "Hồng cầu mẹ có ái lực với oxy cao hơn"
+          ],
+          "answer": 1,
+          "explain": "Trong môi trường acid, HbA bị hòa tan hết tạo thành tế bào \"ma\", trong khi HbF bền vững và bắt màu đỏ khi nhuộm, giúp đếm được tỉ lệ."
+        },
+        {
+          "q": "Nếu kết quả KB là 1.7%, thể tích máu mẹ là 5000 mL, thể tích xuất huyết từ thai sang mẹ ước tính khoảng bao nhiêu mL?",
+          "options": [
+            "17 mL",
+            "50 mL",
+            "85 mL",
+            "170 mL"
+          ],
+          "answer": 2,
+          "explain": "Công thức ước tính: 1.7% x 5000 mL = 85 mL máu thai trong tuần hoàn mẹ."
+        },
+        {
+          "q": "Nếu phát hiện sớm tình trạng FMH khi thai còn sống nhưng có biểu hiện thiếu máu (nhịp tim thai hình sin), xử trí nào có thể cứu sống thai nhi?",
+          "options": [
+            "Cho mẹ uống viên sắt liều cao",
+            "Truyền máu trong tử cung hoặc mổ lấy thai cấp cứu tùy tuổi thai",
+            "Tiêm Corticoid cho mẹ và chờ đợi",
+            "Truyền dịch tĩnh mạch cho mẹ để pha loãng máu"
+          ],
+          "answer": 1,
+          "explain": "Nếu tuổi thai cho phép và có biểu hiện suy thai/thiếu máu nặng, lấy thai ngay là cách tốt nhất. Nếu thai non tháng, truyền máu trong tử cung có thể được cân nhắc."
+        }
+      ]
+    },
+    {
+      "title": "Phụ nữ 30 tuổi, PARA 0030, cả 3 lần thai lưu ở tuần 12-14, chẩn đoán APS",
+      "body": "Một phụ nữ 30 tuổi, PARA 0030, <b>cả 3 lần đều bị thai lưu ở tuần 12-14</b>. Chị được chẩn đoán mắc <b>Hội chứng kháng Phospholipid (APS)</b>. Hiện chị đang chuẩn bị mang thai lần thứ 4.",
+      "questions": [
+        {
+          "q": "Tiêu chuẩn lâm sàng về sản khoa nào sau đây ĐỦ để chẩn đoán APS?",
+          "options": [
+            "1 lần sảy thai sớm trước 10 tuần",
+            "1 lần thai chết lưu sau 10 tuần với hình thái thai bình thường",
+            "2 lần đẻ non sau 34 tuần do tiền sản giật",
+            "1 lần bị thai ngoài tử cung vỡ"
+          ],
+          "answer": 1,
+          "explain": "Theo tiêu chuẩn Sapporo/Sydney, 1 lần thai lưu ≥ 10 tuần thai bình thường là đủ tiêu chuẩn lâm sàng (cần thêm tiêu chuẩn xét nghiệm)."
+        },
+        {
+          "q": "Kháng thể nào sau đây thuộc bộ xét nghiệm tiêu chuẩn chẩn đoán APS (theo tiêu chuẩn Sydney)?",
+          "options": [
+            "Kháng thể kháng tiểu cầu",
+            "Kháng thể kháng tế bào thành dạ dày",
+            "Kháng thể kháng β₂-glycoprotein I (IgG/IgM)",
+            "Kháng thể kháng nhân (ANA)"
+          ],
+          "answer": 2,
+          "explain": "Bộ ba xét nghiệm là: Lupus anticoagulant, Anticardiolipin (IgG/IgM), và Anti-β₂ glycoprotein I."
+        },
+        {
+          "q": "Phác đồ điều trị dự phòng được khuyến cáo mạnh mẽ nhất cho bệnh nhân này ngay khi có thai lần tới là gì?",
+          "options": [
+            "Aspirin liều thấp phối hợp với Heparin trọng lượng phân tử thấp (LMWH)",
+            "Chỉ cần dùng Aspirin liều thấp đơn thuần",
+            "Prednisolone liều cao trong suốt thai kỳ",
+            "Thay huyết tương mỗi tháng một lần"
+          ],
+          "answer": 0,
+          "explain": "Sự kết hợp giữa Aspirin liều thấp và Heparin làm tăng đáng kể tỉ lệ trẻ sống sót ở phụ nữ mắc APS có tiền sử sảy thai liên tiếp."
+        },
+        {
+          "q": "Thời điểm bắt đầu dùng Aspirin liều thấp nên là khi nào?",
+          "options": [
+            "Sau khi thấy tim thai trên siêu âm",
+            "Ngay khi có kế hoạch mang thai (trước thụ thai)",
+            "Khi thai được 12 tuần",
+            "Sau khi có kết quả Triple test"
+          ],
+          "answer": 1,
+          "explain": "Aspirin nên được bắt đầu từ trước khi mang thai hoặc ngay khi biết có thai để cải thiện quá trình làm tổ và xâm nhập của gai nhau."
+        },
+        {
+          "q": "Mục tiêu chính của việc dùng Heparin trong điều trị APS ở thai kỳ là gì?",
+          "options": [
+            "Làm tan khối thai đã chết để tống ra ngoài nhanh hơn",
+            "Ngăn ngừa huyết khối tại các mạch máu nhỏ của bánh nhau",
+            "Giúp hạ huyết áp cho mẹ",
+            "Tăng cường vận chuyển glucose qua rau thai"
+          ],
+          "answer": 1,
+          "explain": "APS gây ra trạng thái tăng đông, dẫn đến nhồi máu bánh nhau và suy bánh nhau, Heparin giúp ngăn chặn quá trình này."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ 33 tuổi, thai lưu 32 tuần, đang khởi phát chuyển dạ bằng Misoprostol",
+      "body": "Thai phụ 33 tuổi, <b>thai lưu 32 tuần, đang được khởi phát chuyển dạ tại phòng đẻ</b>. <b>Tiền sử chưa từng mổ đẻ hay phẫu thuật tử cung</b>. Bệnh nhân <b>đang được dùng Misoprostol để gây chuyển dạ</b>.",
+      "questions": [
+        {
+          "q": "Ưu điểm nổi bật của việc sử dụng Misoprostol so với Oxytocin trong khởi phát chuyển dạ thai lưu quý 2 và đầu quý 3 là gì?",
+          "options": [
+            "Không gây ra cơn co tử cung",
+            "Hiệu quả làm chín muồi CTC đồng thời gây cơn co mạnh hơn khi CTC chưa thuận lợi",
+            "Tuyệt đối không bao giờ gây vỡ tử cung",
+            "Làm tăng lượng nước ối để dễ đẻ hơn"
+          ],
+          "answer": 1,
+          "explain": "Misoprostol (PGE1) vừa làm mềm cổ tử cung vừa tạo cơn co, rất hiệu quả khi chỉ số Bishop thấp."
+        },
+        {
+          "q": "Biến chứng đáng lo ngại nhất khi sử dụng Prostaglandin liều cao để gây đẻ thai lưu trên tử cung có sẹo mổ cũ là gì?",
+          "options": [
+            "Sốt cao co giật",
+            "Vỡ tử cung",
+            "Băng huyết sau sinh do đờ tử cung",
+            "Nhau bong non"
+          ],
+          "answer": 1,
+          "explain": "Sẹo mổ cũ là chống chỉ định tương đối/cần thận trọng cực độ với Prostaglandin do nguy cơ vỡ tử cung tại sẹo."
+        },
+        {
+          "q": "Sau khi thai sổ, nhau thai không tự bong sau 30 phút mặc dù đã xử trí tích cực giai đoạn 3. Bước tiếp theo nên làm gì?",
+          "options": [
+            "Tiếp tục chờ đợi thêm 2 giờ nữa",
+            "Bóc nhau nhân tạo và kiểm soát tử cung dưới giảm đau thích hợp",
+            "Tiêm ngay 10 đơn vị Oxytocin trực tiếp vào cơ tử cung qua thành bụng",
+            "Cắt tử cung ngay vì chắc chắn là nhau cài răng lược"
+          ],
+          "answer": 1,
+          "explain": "Thai lưu thường kèm theo tình trạng nhau bám chặt hoặc khó bong do thay đổi thoái hóa, nếu sau 30 phút không bong cần bóc nhau nhân tạo."
+        },
+        {
+          "q": "Với thai lưu 32 tuần, khám nghiệm nhau thai cần chú ý tìm dấu hiệu nào gợi ý nguyên nhân do cao huyết áp?",
+          "options": [
+            "Nhau thai có màu xanh lục",
+            "Các ổ nhồi máu bánh nhau diện rộng và khối huyết tụ sau nhau",
+            "Dây rốn thắt nút thật",
+            "Bánh nhau phụ"
+          ],
+          "answer": 1,
+          "explain": "Nhồi máu nhau là biểu hiện của suy bánh nhau mạn tính thường gặp trong tiền sản giật/cao huyết áp mẹ."
+        },
+        {
+          "q": "Tư vấn cho sản phụ về việc ức chế tiết sữa sau khi sinh thai lưu, phương pháp nào KHÔNG được khuyến cáo do tác dụng phụ tim mạch?",
+          "options": [
+            "Quấn băng ép chặt ngực",
+            "Sử dụng Bromocriptine",
+            "Sử dụng Cabergoline liều duy nhất",
+            "Hạn chế kích thích đầu vú"
+          ],
+          "answer": 1,
+          "explain": "Bromocriptine hiện không còn được dùng để cắt sữa vì liên quan đến nguy cơ đột quỵ và co giật ở phụ nữ hậu sản."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ 27 tuổi, Rh âm tính, chồng Rh dương tính, thai 28 tuần lưu, chưa tiêm Anti-D",
+      "body": "Thai phụ 27 tuổi, nhóm máu A, <b>Rh (D) âm tính</b>, chồng <b>Rh (D) dương tính</b>. Đây là <b>lần mang thai đầu tiên</b>, thai 28 tuần, <b>tình cờ phát hiện thai lưu trên siêu âm</b>. Bệnh nhân <b>chưa từng được tiêm dự phòng Anti-D</b>.",
+      "questions": [
+        {
+          "q": "Nguy cơ nào lớn nhất đối với bệnh nhân này khi mang thai lần sau nếu không được xử trí đúng?",
+          "options": [
+            "Chắc chắn bị sảy thai quý 1 lần tới",
+            "Bất đồng nhóm máu hệ Rh gây phù thai và chết lưu ở lần mang thai sau",
+            "Bị ung thư máu sau sinh",
+            "Chồng sẽ bị đổi nhóm máu sang âm tính"
+          ],
+          "answer": 1,
+          "explain": "Nếu không dự phòng, mẹ sẽ tạo kháng thể kháng D. Ở lần có thai sau, kháng thể này (IgG) qua rau thai phá hủy hồng cầu thai nhi."
+        },
+        {
+          "q": "Tại sao lần mang thai đầu tiên này thai lại bị lưu (giả sử do bất đồng nhóm máu Rh)?",
+          "options": [
+            "Kháng thể mẹ tấn công thai ngay từ tuần đầu tiên",
+            "Do mẹ đã bị sensibilized (nhạy cảm hóa) từ trước (ví dụ do truyền máu hoặc sảy thai trước đó không biết)",
+            "Do máu mẹ và máu thai hòa trộn hoàn toàn ngay từ tháng thứ 2",
+            "Do mẹ ăn quá nhiều thức ăn có tính acid"
+          ],
+          "answer": 1,
+          "explain": "Thông thường con đầu ít bị ảnh hưởng trừ khi mẹ đã có tiếp xúc với máu Rh+ trước đó (ví dụ truyền máu nhầm hoặc thủ thuật xâm lấn)."
+        },
+        {
+          "q": "Để phòng ngừa cho lần mang thai sau, cần tiêm Anti-D cho mẹ vào thời điểm nào trong tình huống này?",
+          "options": [
+            "Ngay sau khi chẩn đoán thai lưu và trước/sau khi tống thai ra ngoài",
+            "Chờ đến khi có thai lần sau mới tiêm",
+            "Chỉ cần tiêm nếu lần sau thai là con trai",
+            "Không cần tiêm vì thai này đã chết rồi"
+          ],
+          "answer": 0,
+          "explain": "Mọi biến cố gây chảy máu (kể cả thai lưu) ở mẹ Rh- đều cần tiêm dự phòng trong vòng 72 giờ để ngăn chặn sự tạo thành kháng thể tự thân."
+        },
+        {
+          "q": "Liều Anti-D tiêu chuẩn (300 μg) có thể trung hòa được bao nhiêu mL máu toàn phần của thai nhi trong tuần hoàn mẹ?",
+          "options": [
+            "15 mL",
+            "30 mL",
+            "50 mL",
+            "100 mL"
+          ],
+          "answer": 1,
+          "explain": "300 μg Anti-D trung hòa được khoảng 15 mL hồng cầu thai nhi hoặc 30 mL máu toàn phần thai nhi."
+        },
+        {
+          "q": "Sau khi đẻ thai lưu, xét nghiệm nào giúp xác định liệu liều 300 μg Anti-D có đủ hay cần tiêm thêm do xuất huyết mẹ con lượng lớn?",
+          "options": [
+            "Test Coombs trực tiếp trên máu con",
+            "Test Rosette (sàng lọc) và test Kleihauer-Betke (định lượng)",
+            "Định lượng Fibrinogen mẹ",
+            "Soi tươi dịch âm đạo"
+          ],
+          "answer": 1,
+          "explain": "Test Rosette được dùng để sàng lọc xem có xuất huyết hay không, nếu dương tính cần làm KB để tính toán chính xác số liều Anti-D cần tiêm bổ sung."
+        }
+      ]
+    }
+  ]
+}
