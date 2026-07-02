@@ -1,0 +1,625 @@
+{
+  "name": "Các biện pháp tránh thai Up",
+  "description": "Case lâm sàng về các biện pháp tránh thai từ tài liệu y tế, bao gồm tương tác thuốc, IUD, hormon tiêm, que cấy, tránh thai khẩn cấp, triệt sản và quản lý bệnh nhân đặc biệt",
+  "level": "Ôn thi nội trú/Chuyên khoa Sản phụ khoa",
+  "type": "cases",
+  "category": "Sản",
+  "subcategory": "Phụ khoa",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 23 tuổi sử dụng COC và được chẩn đoán động kinh",
+      "body": "Bệnh nhân nữ 23 tuổi, <b>PARA 0000</b>, đến khám vì muốn tư vấn về hiệu quả của thuốc tránh thai kết hợp (COC) đường uống đang dùng. Cô đã sử dụng thuốc này đều đặn trong 2 năm qua. Tuy nhiên, 1 tháng trước cô được chẩn đoán mắc bệnh động kinh và bắt đầu điều trị bằng Carbamazepine. <br><b>Bệnh nhân không hút thuốc, BMI 22 kg/m2, huyết áp 110/70 mm Hg. Khám phụ khoa chưa ghi nhận bất thường.</b>",
+      "questions": [
+        {
+          "q": "Vấn đề ưu tiên cần thảo luận với bệnh nhân này là gì?",
+          "options": [
+            "Tương tác thuốc",
+            "Tác dụng phụ của progesterone",
+            "Nguy cơ thuyên tắc mạch",
+            "Hiệu quả kiểm soát cơn co giật"
+          ],
+          "answer": 0,
+          "explain": "Mối quan tâm chính là sự tương tác giữa thuốc chống co giật và thuốc tránh thai nội tiết, có thể dẫn đến mang thai ngoài ý muốn."
+        },
+        {
+          "q": "Cơ chế chính khiến Carbamazepine làm giảm hiệu quả của COC là gì?",
+          "options": [
+            "Ức chế hấp thu estrogen tại ruột",
+            "Cảm ứng enzyme gan CYP450",
+            "Tăng liên kết của hormone với protein huyết thanh",
+            "Tăng đào thải hormone qua thận"
+          ],
+          "answer": 1,
+          "explain": "Carbamazepine là chất cảm ứng enzyme gan mạnh (CYP450), làm tăng chuyển hóa của cả estrogen và progestin, dẫn đến giảm nồng độ hormone trong máu."
+        },
+        {
+          "q": "Theo phân loại bảng kiểm điều kiện y tế quốc tế (MEC) của WHO, việc sử dụng COC ở bệnh nhân đang dùng Carbamazepine thuộc nhóm nào?",
+          "options": [
+            "Nhóm 1",
+            "Nhóm 2",
+            "Nhóm 3",
+            "Nhóm 4"
+          ],
+          "answer": 2,
+          "explain": "Theo WHO MEC, đây là nhóm 3: Các rủi ro thường lớn hơn lợi ích đã được chứng minh, cần cân nhắc kỹ hoặc tìm giải pháp thay thế."
+        },
+        {
+          "q": "Phương pháp tránh thai nào sau đây là phù hợp nhất để thay thế cho bệnh nhân này?",
+          "options": [
+            "Tiêm DMPA mỗi 12 tuần",
+            "Miếng dán tránh thai",
+            "Dụng cụ tử cung chứa đồng (Cu-IUD)",
+            "Thuốc tránh thai chỉ chứa Progestin (POPs) liều thấp"
+          ],
+          "answer": 2,
+          "explain": "Cu-IUD là biện pháp không nội tiết, không bị ảnh hưởng bởi các thuốc cảm ứng enzyme gan, là lựa chọn an toàn và hiệu quả nhất."
+        },
+        {
+          "q": "Nếu bệnh nhân vẫn muốn dùng biện pháp nội tiết đường uống, khuyến cáo nào sau đây là đúng?",
+          "options": [
+            "Tăng liều Ethinyl Estradiol lên ít nhất 50 μg",
+            "Uống hai viên COC mỗi ngày",
+            "Chuyển sang dùng thuốc chứa Desogestrel",
+            "Sử dụng thêm biện pháp rào cản vĩnh viễn"
+          ],
+          "answer": 0,
+          "explain": "Nếu bắt buộc dùng COC, phải dùng loại có hàm lượng estrogen cao (ít nhất 50 μg Ethinyl Estradiol) để bù đắp sự tăng chuyển hóa, tuy nhiên hiệu quả vẫn thấp hơn so với IUD."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ 30 tuổi hậu sản tuần 6 có tiền sử viêm vùng chậu",
+      "body": "Sản phụ 30 tuổi, <b>PARA 2002</b>, đến khám hậu sản tuần thứ 6. Cô hiện đang <b>cho con bú hoàn toàn</b> và chưa có kinh trở lại. Bệnh nhân có tiền sử <b>viêm vùng chậu (PID) cách đây 2 tuần</b>, đã điều trị ổn định bằng kháng sinh đường uống. Cô mong muốn đặt dụng cụ tử cung (IUD) để tránh thai lâu dài vì không muốn sinh thêm con. <br><b>Khám lâm sàng:</b> Huyết áp 120/80 mm Hg, cổ tử cung sạch, tử cung co hồi tốt, không đau khi lắc cổ tử cung.",
+      "questions": [
+        {
+          "q": "Tình trạng hiện tại của bệnh nhân ảnh hưởng thế nào đến việc đặt IUD?",
+          "options": [
+            "Chống chỉ định tuyệt đối",
+            "Trì hoãn việc đặt IUD",
+            "Có thể đặt ngay lập tức",
+            "Chỉ được đặt IUD chứa đồng"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có tiền sử PID rất gần đây (2 tuần), là tình trạng cần trì hoãn việc đặt IUD cho đến khi hoàn toàn hết nhiễm trùng và ổn định."
+        },
+        {
+          "q": "Theo WHO MEC, tình trạng \"Viêm vùng chậu hiện tại hoặc trong vòng 3 tháng gần đây\" đối với việc bắt đầu sử dụng IUD được phân loại là:",
+          "options": [
+            "Nhóm 1",
+            "Nhóm 2",
+            "Nhóm 3",
+            "Nhóm 4"
+          ],
+          "answer": 3,
+          "explain": "Theo WHO MEC, PID hiện tại hoặc trong vòng 3 tháng là nhóm 4 (nguy cơ sức khỏe không thể chấp nhận được) đối với việc \"bắt đầu\" đặt IUD."
+        },
+        {
+          "q": "Thời điểm sớm nhất có thể đặt IUD cho bệnh nhân này sau khi điều trị PID là khi nào?",
+          "options": [
+            "Ngay khi hết triệu chứng lâm sàng",
+            "1 tháng sau khi khỏi nhiễm trùng",
+            "3 tháng sau khi khỏi nhiễm trùng",
+            "Sau khi có kinh nguyệt trở lại lần đầu"
+          ],
+          "answer": 2,
+          "explain": "Cần chờ ít nhất 3 tháng sau khi điều trị ổn định PID để đảm bảo không còn nhiễm trùng tiềm tàng trước khi can thiệp vào buồng tử cung."
+        },
+        {
+          "q": "Biện pháp tránh thai tạm thời nào tối ưu nhất cho bệnh nhân này trong thời gian chờ đợi?",
+          "options": [
+            "Thuốc tránh thai kết hợp (COC)",
+            "Que cấy tránh thai (Implant)",
+            "Bao cao su",
+            "Xuất tinh ngoài âm đạo"
+          ],
+          "answer": 1,
+          "explain": "Que cấy tránh thai (Implant) chứa progestin không ảnh hưởng đến sữa mẹ và không có chống chỉ định với tiền sử PID."
+        },
+        {
+          "q": "Ưu điểm chính của việc sử dụng biện pháp Progestin đơn thuần (như Implant) ở phụ nữ đang cho con bú là gì?",
+          "options": [
+            "Tăng lượng sữa mẹ",
+            "Không ảnh hưởng đến chất lượng sữa",
+            "Phòng ngừa ung thư cổ tử cung",
+            "Giúp tử cung co hồi nhanh hơn"
+          ],
+          "answer": 1,
+          "explain": "Các biện pháp tránh thai chỉ chứa progestin được ưu tiên cho phụ nữ đang cho con bú vì chúng không làm giảm lượng sữa hoặc thay đổi thành phần dinh dưỡng của sữa."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 42 tuổi Adenomyosis với cường kinh",
+      "body": "Bệnh nhân nữ 42 tuổi, <b>PARA 3003</b>, đến khám vì <b>kinh nguyệt quá nhiều và đau bụng kinh dữ dội</b>. Cô đã được chẩn đoán <b>lạc nội mạc trong cơ tử cung (Adenomyosis)</b> qua siêu âm. Bệnh nhân không muốn phẫu thuật cắt tử cung và cần một biện pháp tránh thai hiệu quả cao vì đã đủ con. Cô có tiền sử tăng huyết áp đang điều trị ổn định. <br><b>Khám:</b> Tử cung to tương đương thai 8 tuần, mật độ chắc, không đều.",
+      "questions": [
+        {
+          "q": "Biện pháp tránh thai nào vừa có tác dụng tránh thai vừa điều trị triệu chứng tối ưu cho bệnh nhân này?",
+          "options": [
+            "IUD chứa đồng (Cu-IUD)",
+            "Hệ thống phóng thích Levonorgestrel trong tử cung (LNG-IUD)",
+            "Thuốc tránh thai kết hợp liều thấp",
+            "Triệt sản nữ qua nội soi"
+          ],
+          "answer": 1,
+          "explain": "LNG-IUD (như Mirena) là lựa chọn hàng đầu cho Adenomyosis vì nó làm giảm chảy máu và đau bụng kinh rõ rệt."
+        },
+        {
+          "q": "Chọn tập hợp đúng về cơ chế tác dụng của LNG-IUD tại chỗ:",
+          "type": "multi",
+          "options": [
+            "Gây teo niêm mạc tử cung",
+            "Làm đặc chất nhầy cổ tử cung",
+            "Ức chế rụng trứng hoàn toàn",
+            "Gây phản ứng viêm vô trùng"
+          ],
+          "answer": [
+            0,
+            1,
+            3
+          ],
+          "explain": "LNG-IUD hoạt động chủ yếu tại chỗ: làm teo niêm mạc, làm đặc nhầy cổ tử cung và gây phản ứng viêm. Nó không ức chế rụng trứng hoàn toàn ở hầu hết phụ nữ."
+        },
+        {
+          "q": "Tác dụng phụ thường gặp nhất của LNG-IUD trong 3-6 tháng đầu là gì?",
+          "options": [
+            "Rong kinh kéo dài",
+            "Ra máu thấm giọt (spotting)",
+            "Đau bụng hạ vị thường xuyên",
+            "Vô kinh hoàn toàn"
+          ],
+          "answer": 1,
+          "explain": "Ra máu thấm giọt bất thường là hiện tượng phổ biến nhất trong vài tháng đầu khi cơ thể thích nghi với progestin liều cao tại niêm mạc tử cung."
+        },
+        {
+          "q": "Chống chỉ định đối với LNG-IUD ở bệnh nhân này là gì?",
+          "options": [
+            "Tăng huyết áp",
+            "Adenomyosis",
+            "Buồng tử cung bị biến dạng nặng do u xơ",
+            "PARA 3003"
+          ],
+          "answer": 2,
+          "explain": "Nếu u xơ hoặc Adenomyosis làm biến dạng lòng tử cung quá mức, việc đặt IUD sẽ khó khăn, dễ bị tuột hoặc không đạt hiệu quả điều trị."
+        },
+        {
+          "q": "Sau 1 năm sử dụng, lợi ích nào được mong đợi nhất ở bệnh nhân này?",
+          "options": [
+            "Giảm 90% lượng máu kinh",
+            "Tử cung thu nhỏ về kích thước bình thường",
+            "Hết hoàn toàn lạc nội mạc tử cung",
+            "Tăng khả năng thụ thai sau khi tháo"
+          ],
+          "answer": 0,
+          "explain": "Sau 1 năm, LNG-IUD giúp giảm lượng máu kinh trung bình 90%, thậm chí gây vô kinh, rất có lợi cho bệnh nhân thiếu máu do cường kinh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 26 tuổi sử dụng que cấy Etonogestrel ra máu bất thường",
+      "body": "Bệnh nhân nữ 26 tuổi, <b>PARA 0000</b>, đến phòng khám vì <b>tình trạng ra máu âm đạo bất thường</b>. Cô đã cấy que tránh thai Etonogestrel (Nexplanon) được 3 tháng. Trước đó kinh nguyệt của cô đều đặn. Hiện tại cô <b>ra máu thấm giọt rải rác hầu như tất cả các ngày trong tháng, lượng ít</b>. Bệnh nhân cảm thấy lo lắng và muốn tháo que. <br><b>Khám:</b> Que cấy sờ rõ ở mặt trong cánh tay trái, không có dấu hiệu viêm nhiễm tại chỗ.",
+      "questions": [
+        {
+          "q": "Nguyên nhân phổ biến nhất của tình trạng ra máu này là gì?",
+          "options": [
+            "Que cấy bị dịch chuyển vị trí",
+            "Suy giảm nồng độ estrogen nội sinh",
+            "Teo niêm mạc tử cung do Progestin",
+            "Phản ứng thải ghép của cơ thể"
+          ],
+          "answer": 2,
+          "explain": "Ra máu bất thường khi dùng các biện pháp chỉ có progestin là do tình trạng niêm mạc tử cung mỏng, không ổn định và dễ bị bong ra từng phần."
+        },
+        {
+          "q": "Tư vấn nào là phù hợp nhất cho bệnh nhân lúc này?",
+          "options": [
+            "Nên tháo que ngay vì thuốc không phù hợp",
+            "Đây là hiện tượng bình thường và thường cải thiện sau 6-12 tháng",
+            "Cần siêu âm ngay để loại trừ thai ngoài tử cung",
+            "Thay đổi que sang cánh tay còn lại"
+          ],
+          "answer": 1,
+          "explain": "Đa số các rối loạn chảy máu sẽ ổn định sau 6 tháng. Tư vấn và trấn an là bước quan trọng nhất để tăng tỉ lệ tiếp tục sử dụng."
+        },
+        {
+          "q": "Thuốc nào sau đây có thể được dùng ngắn hạn để xử trí tình trạng ra máu thấm giọt này?",
+          "options": [
+            "Kháng sinh phổ rộng",
+            "NSAIDs (như Ibuprofen)",
+            "Vitamin K",
+            "Oxytocin"
+          ],
+          "answer": 1,
+          "explain": "NSAIDs có thể làm giảm lượng máu và số ngày chảy máu thông qua ức chế prostaglandin tại nội mạc tử cung."
+        },
+        {
+          "q": "Cơ chế tránh thai chính của que cấy Etonogestrel là gì?",
+          "options": [
+            "Diệt tinh trùng bằng ion",
+            "Ngăn cản sự làm tổ của phôi",
+            "Ức chế rụng trứng bằng cách ức chế đỉnh LH",
+            "Gây co thắt vòi tử cung"
+          ],
+          "answer": 2,
+          "explain": "Nexplanon ngăn rụng trứng cực kỳ hiệu quả bằng cách duy trì nồng độ progestin ổn định, ức chế trục hạ đồi - tuyến yên."
+        },
+        {
+          "q": "Tỉ lệ thất bại (chỉ số Pearl) của que cấy tránh thai so với triệt sản nữ như thế nào?",
+          "options": [
+            "Cao hơn rất nhiều",
+            "Thấp hơn hoặc tương đương",
+            "Tương đương bao cao su",
+            "Phụ thuộc vào cân nặng bệnh nhân"
+          ],
+          "answer": 1,
+          "explain": "Que cấy tránh thai là biện pháp tránh thai hồi phục hiệu quả nhất hiện nay, với tỉ lệ thất bại khoảng 0.05%, thấp hơn cả triệt sản nữ (0.5%)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 18 tuổi lo lắng giảm mật độ xương khi dùng DMPA",
+      "body": "Bệnh nhân nữ 18 tuổi, độc thân, đến khám vì muốn <b>tiếp tục tiêm thuốc tránh thai (DMPA)</b>. Cô đã sử dụng biện pháp này được <b>2 năm liên tục</b>. Gần đây cô đọc thông tin trên mạng và <b>lo lắng về nguy cơ loãng xương</b> do thuốc. <br><b>Bệnh nhân có lối sống ít vận động, hút thuốc lá 5 điếu/ngày, BMI 26 kg/m2.</b>",
+      "questions": [
+        {
+          "q": "Tại sao DMPA có liên quan đến việc giảm mật độ khoáng xương (BMD)?",
+          "options": [
+            "Tăng đào thải canxi qua thận",
+            "Ức chế bài tiết estrogen từ buồng tử cung",
+            "Làm tăng nồng độ Parathyroid hormone (PTH)",
+            "Ngăn cản hấp thu Vitamin D tại ruột"
+          ],
+          "answer": 1,
+          "explain": "DMPA ức chế mạnh trục hạ đồi - tuyến yên, làm giảm nồng độ estradiol xuống mức tương đương giai đoạn đầu nang noãn, dẫn đến giảm mật độ xương tạm thời."
+        },
+        {
+          "q": "Khuyến cáo hiện tại của WHO về việc sử dụng DMPA kéo dài trên 2 năm là gì?",
+          "options": [
+            "Phải ngừng thuốc ngay lập tức",
+            "Chỉ sử dụng nếu các biện pháp khác không phù hợp",
+            "Không giới hạn thời gian sử dụng nếu lợi ích lớn hơn nguy cơ",
+            "Cần đo mật độ xương (DEXA scan) định kỳ mỗi 6 tháng"
+          ],
+          "answer": 2,
+          "explain": "Các tổ chức uy tín xác định việc giảm BMD là có hồi phục sau khi ngừng thuốc, do đó không cần giới hạn thời gian sử dụng nếu bệnh nhân hài lòng."
+        },
+        {
+          "q": "Yếu tố nào trong bệnh sử của bệnh nhân này làm tăng nguy cơ giảm mật độ xương hơn cả việc dùng DMPA?",
+          "options": [
+            "Tuổi 18",
+            "BMI 26",
+            "Hút thuốc lá",
+            "Độc thân"
+          ],
+          "answer": 2,
+          "explain": "Hút thuốc lá và lối sống tĩnh tại là những yếu tố nguy cơ độc lập và quan trọng đối với loãng xương."
+        },
+        {
+          "q": "Lợi ích không mong muốn (non-contraceptive benefit) của DMPA là gì?",
+          "options": [
+            "Giảm nguy cơ ung thư vú",
+            "Giảm tần suất cơn tan máu ở bệnh nhân thiếu máu hồng cầu liềm",
+            "Tăng mật độ xương ở phụ nữ mãn kinh",
+            "Giảm mụn trứng cá"
+          ],
+          "answer": 1,
+          "explain": "DMPA đã được chứng minh làm giảm các cơn đau do tắc mạch trong bệnh hồng cầu liềm và giảm nguy cơ ung thư nội mạc tử cung."
+        },
+        {
+          "q": "Nếu bệnh nhân quyết định ngừng tiêm DMPA để mang thai, thời gian trung bình để khả năng sinh sản hồi phục là bao lâu?",
+          "options": [
+            "1 tháng",
+            "3 tháng",
+            "9-10 tháng",
+            "24 tháng"
+          ],
+          "answer": 2,
+          "explain": "Do DMPA là thuốc giải phóng chậm, thời gian để nồng độ thuốc giảm xuống mức cho phép rụng trứng trở lại lâu hơn nhiều so với thuốc uống."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 19 tuổi tình dục không an toàn cách đây 72 giờ",
+      "body": "Bệnh nhân nữ 19 tuổi, đến khám cấp cứu vì <b>có quan hệ tình dục không an toàn cách đây 72 giờ</b>. Cô đang trong <b>ngày thứ 14 của chu kỳ kinh 28 ngày</b>. Cô chưa bao giờ sử dụng biện pháp tránh thai nào trước đó và hiện tại rất lo lắng về khả năng mang thai. <br><b>Khám lâm sàng bình thường, test thử thai nhanh âm tính.</b>",
+      "questions": [
+        {
+          "q": "Biện pháp tránh thai khẩn cấp (EC) nào có hiệu quả cao nhất cho bệnh nhân này?",
+          "options": [
+            "Levonorgestrel 1.5 mg uống liều duy nhất",
+            "Ulipristal acetate 30 mg uống liều duy nhất",
+            "Dụng cụ tử cung chứa đồng (Cu-IUD)",
+            "Thuốc tránh thai kết hợp liều cao (phương pháp Yuzpe)"
+          ],
+          "answer": 2,
+          "explain": "Cu-IUD là biện pháp tránh thai khẩn cấp hiệu quả nhất (thất bại < 0.1%), bất kể cân nặng hay thời điểm giao hợp trong vòng 5 ngày."
+        },
+        {
+          "q": "Cơ chế tác dụng chính của Ulipristal acetate (UPA) là gì?",
+          "options": [
+            "Ngăn cản sự di chuyển của tinh trùng",
+            "Trì hoãn sự rụng trứng ngay cả khi nồng độ LH đã bắt đầu tăng",
+            "Gây sảy thai sớm bằng cách làm bong niêm mạc",
+            "Diệt tinh trùng trong vòi tử cung"
+          ],
+          "answer": 1,
+          "explain": "UPA là chất điều hòa thụ thể progesterone, có khả năng trì hoãn rụng trứng ngay cả trước đỉnh LH, điều mà Levonorgestrel không làm được."
+        },
+        {
+          "q": "Thời gian tối đa sau giao hợp có thể sử dụng viên uống Levonorgestrel để đạt hiệu quả là bao lâu?",
+          "options": [
+            "24 giờ",
+            "72 giờ",
+            "120 giờ",
+            "168 giờ"
+          ],
+          "answer": 2,
+          "explain": "Mặc dù hiệu quả nhất trong 72 giờ đầu, Levonorgestrel vẫn có thể được dùng lên đến 120 giờ (5 ngày) sau giao hợp."
+        },
+        {
+          "q": "Nếu bệnh nhân chọn đặt Cu-IUD để tránh thai khẩn cấp, thời hạn tối đa sau giao hợp là bao lâu?",
+          "options": [
+            "3 ngày",
+            "5 ngày",
+            "7 ngày",
+            "10 ngày"
+          ],
+          "answer": 1,
+          "explain": "Cu-IUD có thể đặt làm EC trong vòng 120 giờ (5 ngày) sau giao hợp không bảo vệ."
+        },
+        {
+          "q": "Sau khi sử dụng thuốc tránh thai khẩn cấp đường uống, khi nào bệnh nhân nên bắt đầu một biện pháp tránh thai thường xuyên?",
+          "options": [
+            "Chờ đến khi có kinh trở lại",
+            "Bắt đầu ngay lập tức (Quick start)",
+            "Sau 2 tuần",
+            "Không được dùng thêm thuốc nội tiết trong tháng đó"
+          ],
+          "answer": 1,
+          "explain": "Để tránh mang thai từ các lần giao hợp sau đó trong cùng chu kỳ, nên bắt đầu biện pháp thường xuyên ngay (có thể phối hợp bao cao su trong 7 ngày đầu)."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ 35 tuổi mổ lấy thai cấp cứu với nguyện vọng triệt sản",
+      "body": "Sản phụ 35 tuổi, <b>PARA 3013</b>, đang được chuẩn bị mổ lấy thai lần thứ 4 vì vết mổ cũ nhiều lần. Trong quá trình khám thai, cô đã bày tỏ nguyện vọng được <b>triệt sản (thắt vòi tử cung)</b> ngay trong ca mổ. Tuy nhiên, qua rà soát hồ sơ, nhân viên y tế phát hiện mẫu đơn đồng ý triệt sản (consent form) của cô mới được ký cách đây 25 ngày. Cô hiện đang trong <b>giai đoạn chuyên dạ cấp cứu do vỡ ối sớm.</b>",
+      "questions": [
+        {
+          "q": "Quy định về thời gian chờ (waiting period) tối thiểu từ khi ký đơn đến khi thực hiện triệt sản theo luật định (ví dụ quy định liên bang Hoa Kỳ) là bao lâu?",
+          "options": [
+            "24 giờ",
+            "7 ngày",
+            "30 ngày",
+            "90 ngày"
+          ],
+          "answer": 2,
+          "explain": "Theo quy định của Medicaid (Hoa Kỳ), đơn phải được ký ít nhất 30 ngày trước khi thủ thuật diễn ra để đảm bảo bệnh nhân không bị ép buộc."
+        },
+        {
+          "q": "Trong tình huống \"sinh sớm hoặc mổ lấy thai cấp cứu\", quy định về thời gian chờ này có thể được rút ngắn xuống tối thiểu là bao lâu?",
+          "options": [
+            "Không được rút ngắn",
+            "48 giờ",
+            "72 giờ",
+            "15 ngày"
+          ],
+          "answer": 2,
+          "explain": "Nếu có tình trạng sinh sớm hoặc mổ cấp cứu, thủ thuật có thể thực hiện nếu đơn đã ký ít nhất 72 giờ trước đó."
+        },
+        {
+          "q": "Kỹ thuật triệt sản nào thường được áp dụng nhất trong lúc mổ lấy thai?",
+          "options": [
+            "Phẫu thuật Pomeroy",
+            "Kẹp Filshie",
+            "Đốt điện lưỡng cực",
+            "Cắt vòi tử cung hoàn toàn (Salpingectomy)"
+          ],
+          "answer": 0,
+          "explain": "Phương pháp Pomeroy (cắt đoạn và thắt) là kinh điển, đơn giản và hiệu quả cao trong lúc mổ hoặc ngay sau sinh."
+        },
+        {
+          "q": "Tại sao cắt vòi tử cung hoàn toàn hiện nay đang được ưu tiên hơn thắt vòi tử cung đơn thuần?",
+          "options": [
+            "Hiệu quả tránh thai cao hơn tuyệt đối",
+            "Giảm nguy cơ ung thư buồng trứng dạng biểu mô",
+            "Phẫu thuật nhanh hơn",
+            "Ít chảy máu hơn"
+          ],
+          "answer": 1,
+          "explain": "Các nghiên cứu cho thấy nhiều loại ung thư buồng trứng thực chất bắt nguồn từ biểu mô vòi tử cung, nên cắt vòi giúp dự phòng ung thư này."
+        },
+        {
+          "q": "Biến chứng lâu dài đáng lo ngại nhất sau triệt sản nữ là gì?",
+          "options": [
+            "Hội chứng hậu triệt sản (rối loạn kinh nguyệt)",
+            "Mãn kinh sớm",
+            "Thai ngoài tử cung (nếu thất bại)",
+            "Tăng cân"
+          ],
+          "answer": 2,
+          "explain": "Mặc dù hiếm, nhưng nếu có thai sau khi đã triệt sản, tỉ lệ thai ngoài tử cung là rất cao do vòi tử cung bị tắc nghẽn hoặc thông nối bất thường."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 28 tuổi SLE với kháng thể kháng Phospholipid",
+      "body": "Bệnh nhân nữ 28 tuổi, <b>PARA 1001</b>, đến tư vấn tránh thai. Cô mới được chẩn đoán <b>Lupus ban đỏ hệ thống (SLE)</b> và có <b>xét nghiệm kháng thể kháng Phospholipid dương tính</b>. Cô hiện không có triệu chứng lâm sàng của đợt bùng phát Lupus nhưng có <b>tiền sử huyết khối tĩnh mạch sâu (DVT) chân trái cách đây 1 năm</b>. Bệnh nhân đang tìm kiếm một biện pháp tránh thai hiệu quả.",
+      "questions": [
+        {
+          "q": "Biện pháp tránh thai nào là CHỐNG CHỈ ĐỊNH tuyệt đối (MEC 4) đối với bệnh nhân này?",
+          "options": [
+            "Dụng cụ tử cung chứa đồng",
+            "Thuốc tránh thai kết hợp (CHCs)",
+            "Que cấy Etonogestrel",
+            "DMPA tiêm"
+          ],
+          "answer": 1,
+          "explain": "CHCs chứa estrogen làm tăng đáng kể nguy cơ huyết khối, đặc biệt ở người có kháng thể kháng Phospholipid và tiền sử DVT."
+        },
+        {
+          "q": "Tại sao các biện pháp chứa Estrogen lại nguy hiểm cho bệnh nhân SLE có kháng thể kháng Phospholipid dương tính?",
+          "options": [
+            "Gây bùng phát đợt cấp của Lupus",
+            "Tăng nguy cơ biến cố thuyên tắc mạch (đột quỵ, DVT)",
+            "Gây tương tác thuốc với Corticoid",
+            "Làm nặng thêm tình trạng viêm khớp"
+          ],
+          "answer": 1,
+          "explain": "Estrogen làm tăng các yếu tố đông máu và giảm các chất ức chế đông máu tự nhiên, kết hợp với SLE sẽ tạo ra trạng thái tăng đông cực kỳ nguy hiểm."
+        },
+        {
+          "q": "Ưu điểm lớn nhất của Cu-IUD đối với bệnh nhân này là gì?",
+          "options": [
+            "Không chứa hormone, không ảnh hưởng đến nguy cơ huyết khối",
+            "Có tác dụng kháng viêm tại chỗ",
+            "Giúp giảm đau khớp",
+            "Làm tăng lượng máu kinh"
+          ],
+          "answer": 0,
+          "explain": "Cu-IUD là biện pháp hiệu quả cao duy nhất hoàn toàn không chứa hormone, cực kỳ an toàn về mặt tim mạch cho bệnh nhân này."
+        },
+        {
+          "q": "Nếu bệnh nhân thường xuyên bị rong kinh do điều trị chống đông, biện pháp nào sau đây có thể cân nhắc (MEC 2)?",
+          "options": [
+            "Thuốc tránh thai kết hợp",
+            "Miếng dán tránh thai",
+            "Hệ thống nội tiết Levonorgestrel (LNG-IUD)",
+            "Vòng âm đạo NuvaRing"
+          ],
+          "answer": 2,
+          "explain": "LNG-IUD có thể dùng được (nhóm 2 - lợi ích lớn hơn nguy cơ) và giúp kiểm soát tình trạng cường kinh thường gặp ở bệnh nhân dùng thuốc chống đông."
+        },
+        {
+          "q": "Phụ nữ mắc SLE đang điều trị bằng Methotrexate cần lưu ý gì về tránh thai?",
+          "options": [
+            "Chỉ cần dùng bao cao su là đủ",
+            "Phải sử dụng biện pháp hiệu quả cực cao vì Methotrexate là chất gây quái thai mạnh",
+            "Methotrexate làm giảm hiệu quả của tất cả các loại thuốc tránh thai",
+            "Không cần tránh thai vì thuốc gây vô sinh"
+          ],
+          "answer": 1,
+          "explain": "Methotrexate có nguy cơ gây dị tật thai nhi rất cao, do đó việc sử dụng các biện pháp hiệu quả lâu dài như LARC (IUD hoặc que cấy) là bắt buộc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 32 tuổi IUD mất dây dẫn",
+      "body": "Bệnh nhân nữ 32 tuổi, <b>PARA 2002</b>, đến khám vì <b>không tìm thấy dây dụng cụ tử cung (IUD)</b> khi tự kiểm tra. Cô đã đặt IUD chứa đồng được 1 năm. Bệnh nhân không đau bụng, không ra máu âm đạo bất thường. Thử thai nước tiểu âm tính. <br><b>Khám mỏ vịt:</b> Không thấy dây ở lỗ ngoài cổ tử cung.",
+      "questions": [
+        {
+          "q": "Bước tiếp theo phù hợp nhất trong xử trí là gì?",
+          "options": [
+            "Chụp X-quang bụng đứng",
+            "Siêu âm đầu dò âm đạo",
+            "Dùng que thăm dò lòng tử cung",
+            "Nội soi buồng tử cung ngay lập tức"
+          ],
+          "answer": 1,
+          "explain": "Siêu âm là phương pháp đầu tay, không xâm lấn để xác định IUD còn trong buồng tử cung hay không."
+        },
+        {
+          "q": "Nếu siêu âm không thấy IUD trong buồng tử cung, bước tiếp theo cần thực hiện là gì?",
+          "options": [
+            "Chẩn đoán chắc chắn IUD đã bị tuột ra ngoài",
+            "Chụp X-quang bụng chậu để tìm IUD trong ổ bụng",
+            "Đặt lại một IUD mới ngay lập tức",
+            "Cho bệnh nhân uống kháng sinh dự phòng"
+          ],
+          "answer": 1,
+          "explain": "Nếu siêu âm không thấy IUD trong tử cung và bệnh nhân không biết IUD bị tuột lúc nào, cần chụp X-quang để xác định xem nó có nằm lạc chỗ trong ổ bụng hay không."
+        },
+        {
+          "q": "Tỉ lệ IUD xuyên thấu cơ tử cung vào ổ bụng (perforation) xấp xỉ bao nhiêu?",
+          "options": [
+            "1 trên 10 ca đặt",
+            "1 trên 100 ca đặt",
+            "1 trên 1000 ca đặt",
+            "1 trên 10,000 ca đặt"
+          ],
+          "answer": 2,
+          "explain": "Tỉ lệ thủng tử cung khá thấp, thường xảy ra vào thời điểm đặt, ước tính khoảng 1/1000 ca."
+        },
+        {
+          "q": "Yếu tố nào sau đây làm tăng nguy cơ thủng tử cung khi đặt IUD?",
+          "options": [
+            "Đang cho con bú",
+            "Tử cung ngả sau",
+            "Đặt vào thời điểm có kinh",
+            "Tuổi mẹ trên 35"
+          ],
+          "answer": 0,
+          "explain": "Thời kỳ hậu sản và cho con bú làm tử cung mềm và nhỏ hơn bình thường, làm tăng nguy cơ thủng khi thực hiện thủ thuật đặt."
+        },
+        {
+          "q": "Nếu phát hiện IUD chứa đồng nằm trong ổ bụng nhưng bệnh nhân hoàn toàn không có triệu chứng, khuyến cáo xử trí là gì?",
+          "options": [
+            "Để yên và theo dõi định kỳ",
+            "Phẫu thuật nội soi để lấy IUD ra",
+            "Chờ đến khi bệnh nhân mãn kinh mới lấy",
+            "Uống thuốc để IUD tự tiêu"
+          ],
+          "answer": 1,
+          "explain": "Tất cả IUD lạc chỗ trong ổ bụng (đặc biệt là IUD chứa đồng vì gây phản ứng dính mạnh) nên được lấy ra bằng phẫu thuật nội soi để tránh tổn thương ruột và bàng quang về sau."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 24 tuổi dị ứng latex tìm kiếm phương pháp tránh thai",
+      "body": "Bệnh nhân nữ 24 tuổi, <b>PARA 0000</b>, đến khám tư vấn tránh thai. Cô có <b>tiền sử dị ứng nặng với mủ cao su (latex)</b> với biểu hiện <b>mày đay và khó thở</b> khi tiếp xúc. Bệnh nhân và bạn trai hiện đang sử dụng bao cao su nam làm biện pháp chính nhưng cảm thấy không yên tâm.",
+      "questions": [
+        {
+          "q": "Loại bao cao su nào là lựa chọn an toàn nhất cho bệnh nhân này?",
+          "options": [
+            "Bao cao su từ ruột cừu (lambskin)",
+            "Bao cao su Polyurethane hoặc Polyisoprene",
+            "Bao cao su có gai",
+            "Bao cao su tẩm thuốc diệt tinh trùng"
+          ],
+          "answer": 1,
+          "explain": "Bao cao su làm từ vật liệu tổng hợp (Polyurethane/Polyisoprene) không chứa protein latex nên an toàn cho người dị ứng."
+        },
+        {
+          "q": "Nhược điểm chính của bao cao su làm từ ruột cừu so với bao cao su tổng hợp là gì?",
+          "options": [
+            "Dễ rách hơn",
+            "Không ngăn ngừa được các bệnh lây truyền qua đường tình dục (STIs) do có lỗ li ti",
+            "Gây khô âm đạo",
+            "Có mùi khó chịu"
+          ],
+          "answer": 1,
+          "explain": "Bao cao su lambskin có các lỗ hổng siêu nhỏ cho phép virus (như HIV, HBV, HSV) đi qua dù ngăn được tinh trùng."
+        },
+        {
+          "q": "Tỉ lệ thất bại điển hình (typical use) của bao cao su nam trong năm đầu tiên là khoảng bao nhiêu?",
+          "options": [
+            "2%",
+            "5%",
+            "13-18%",
+            "30%"
+          ],
+          "answer": 2,
+          "explain": "Sử dụng thực tế thường có sai sót nên tỉ lệ thất bại cao hơn nhiều so với sử dụng hoàn hảo (chỉ khoảng 2%)."
+        },
+        {
+          "q": "Phát biểu nào sau đây về việc sử dụng bao cao su là KHÔNG ĐÚNG?",
+          "options": [
+            "Có thể dùng đồng thời bao cao su nam và bao cao su nữ để tăng hiệu quả",
+            "Chất bôi trơn gốc dầu có thể làm hỏng bao cao su latex",
+            "Cần để lại một khoảng trống ở đầu bao để chứa tinh dịch",
+            "Phải rút dương vật ra khi còn đang cương cứng"
+          ],
+          "answer": 0,
+          "explain": "Không bao giờ được dùng cả hai loại bao cao su cùng lúc vì ma sát giữa chúng sẽ làm cả hai dễ rách hơn."
+        },
+        {
+          "q": "Ngoài tránh thai, bao cao su là biện pháp duy nhất giúp giảm đáng kể nguy cơ lây nhiễm virus nào sau đây?",
+          "options": [
+            "HBV",
+            "HPV",
+            "HIV",
+            "Tất cả các phương án trên"
+          ],
+          "answer": 3,
+          "explain": "Bao cao su là hàng rào vật lý hiệu quả nhất để ngăn chặn sự trao đổi dịch cơ thể và tiếp xúc da niêm mạc chứa tác nhân gây bệnh."
+        }
+      ]
+    }
+  ]
+}
