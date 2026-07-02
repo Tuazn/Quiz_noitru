@@ -1,0 +1,621 @@
+{
+  "name": "Chẩn đoán thai nghén, tính tuổi thai",
+  "description": "10 cases lâm sàng về chẩn đoán thai sớm, xác định tuổi thai, các dấu hiệu chắc chắn có thai, beta-hCG, siêu âm thai sớm, thai ngoài tử cung, thai trứng, thai sinh hóa, và các tình huống đặc biệt trong chẩn đoán thai kỳ.",
+  "level": "Ôn thi nội trú",
+  "type": "cases",
+  "category": "Sản",
+  "subcategory": "Sản khoa",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 26 tuổi trễ kinh 10 ngày, dấu hiệu sinh học thai sớm",
+      "body": "<b>Bệnh nhân nữ 26 tuổi</b>, nhân viên văn phòng, PARA 0000, đến khám vì <b>trễ kinh 10 ngày</b>. Chu kỳ kinh nguyệt trước đây đều 30 ngày. Khoảng 1 tuần nay, bệnh nhân cảm thấy <b>mệt mỏi, buồn nôn vào buổi sáng</b> nhưng không nôn, căng tức ngực nhẹ. Bệnh nhân không đau bụng, không ra máu âm đạo bất thường, không sốt.<br><b>Khám toàn thân:</b> sinh hiệu ổn, da niêm mạc hồng.<br><b>Khám bụng:</b> mềm.<br><b>Khám phụ khoa:</b> âm đạo và cổ tử cung tím nhẹ, tử cung lớn hơn bình thường, kích thước khoảng bằng quả cam, mật độ mềm.<br><b>Xét nghiệm nhanh beta-hCG nước tiểu:</b> dương tính (++)",
+      "questions": [
+        {
+          "q": "Dấu hiệu nào sau đây là dấu hiệu CHẮC CHẮN có thai?",
+          "options": [
+            "Trễ kinh",
+            "Buồn nôn và nôn",
+            "Nghe được tim thai hoặc thấy hình ảnh thai trên siêu âm",
+            "Thử que beta-hCG nước tiểu dương tính"
+          ],
+          "answer": 2,
+          "explain": "Chỉ có việc <b>nghe được tim thai, thấy hình ảnh thai trên siêu âm hoặc cảm nhận được cử động thai</b> (ở giai đoạn sau) mới là dấu hiệu chắc chắn có thai. Các dấu hiệu khác như trễ kinh, buồn nôn, thay đổi vú, hoặc que thử dương tính chỉ là gợi ý nhưng không chắc chắn."
+        },
+        {
+          "q": "Sự thay đổi màu sắc tím ở âm đạo và cổ tử cung (dấu hiệu Chadwick) là do cơ chế nào?",
+          "options": [
+            "Do sự tăng sinh mạch máu dưới tác động của Estrogen",
+            "Do sự ứ đọng máu tĩnh mạch",
+            "Do phản ứng viêm tại chỗ",
+            "Do sự thay đổi pH âm đạo"
+          ],
+          "answer": 0,
+          "explain": "<b>Hormone Estrogen tăng cao</b> trong thai kỳ gây <b>tăng sinh và giãn nở các mạch máu</b> ở cơ quan sinh dục, dẫn đến tình trạng sung huyết và thay đổi màu sắc thành tím (dấu hiệu Chadwick)."
+        },
+        {
+          "q": "Xét nghiệm beta-hCG định lượng trong máu ở thời điểm này thường có vai trò chính là gì?",
+          "options": [
+            "Xác định giới tính thai nhi",
+            "Khẳng định có thai và cung cấp cơ sở để theo dõi sự phát triển của thai trong giai đoạn sớm",
+            "Tầm soát tiền sản giật",
+            "Chẩn đoán đái tháo đường thai kỳ"
+          ],
+          "answer": 1,
+          "explain": "<b>Beta-hCG máu là xét nghiệm đặc hiệu và nhạy nhất</b> để chẩn đoán thai sớm. Sự <b>tăng nồng độ hCG theo một quy luật nhất định</b> trong những tuần đầu giúp đánh giá thai đang phát triển bình thường hay không."
+        },
+        {
+          "q": "Với tuổi thai ước tính khoảng 6 tuần (từ ngày kinh cuối), siêu âm qua ngả âm đạo ở thời điểm này thường có thể thấy cấu trúc nào?",
+          "options": [
+            "Chỉ thấy túi ối trống",
+            "Túi thai, túi noãn hoàng (yolk sac) và phôi thai có hoạt động tim",
+            "Chỉ thấy nội mạc tử cung dày lên",
+            "Bánh nhau đã hình thành rõ"
+          ],
+          "answer": 1,
+          "explain": "Vào <b>khoảng 6 tuần</b>, siêu âm qua ngả âm đạo thường đã có thể quan sát thấy <b>túi thai trong tử cung, túi noãn hoàng và phôi thai có tim thai</b> — đây là những cấu trúc sớm quan trọng của thai kỳ."
+        },
+        {
+          "q": "Lời khuyên nào sau đây KHÔNG phù hợp cho bệnh nhân này?",
+          "options": [
+            "Bổ sung axit folic",
+            "Hẹn siêu âm xác định vị trí và tuổi thai",
+            "Hạn chế vận động mạnh",
+            "Nên làm xét nghiệm beta-hCG nước tiểu hàng ngày để theo dõi"
+          ],
+          "answer": 3,
+          "explain": "Que thử beta-hCG nước tiểu chỉ có <b>giá trị định tính</b> (phát hiện có thai hay không). Việc theo dõi sự phát triển của thai sớm cần dựa vào <b>beta-hCG định lượng trong máu hoặc siêu âm</b>, không phải bằng que thử hàng ngày."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 30 tuổi đau bụng dưới dữ dội, dấu hiệu sốc, trễ kinh 7 tuần",
+      "body": "<b>Bệnh nhân nữ 30 tuổi</b>, PARA 1001, đến <b>cấp cứu</b> vì <b>đau bụng dưới dữ dội bên trái và choáng</b>. Bệnh nhân <b>trễ kinh khoảng 7 tuần</b>, thử que tại nhà dương tính. <b>Sáng nay đột ngột đau nhói bụng trái</b>, sau đó đau lan khắp bụng, người mệt lả, vã mồ hôi. Bệnh nhân không ra máu âm đạo bất thường, hoặc chỉ ra ít máu nâu đen.<br><b>Khám lâm sàng:</b> ý thức lơ mơ, da xanh tái, tay chân lạnh. <b>Mạch 130 lần/phút, nhỏ, khó bắt. Huyết áp 70/40 mmHg</b>.<br><b>Khám bụng:</b> chướng nhẹ, ấn đau khắp bụng, có phản ứng thành bụng và cảm ứng phúc mạc rõ.<br><b>Khám phụ khoa (nhẹ nhàng):</b> tử cung kích thước bình thường, di động đau, túi cùng sau phồng và rất đau.",
+      "questions": [
+        {
+          "q": "Chẩn đoán cấp cứu có khả năng nhất là gì?",
+          "options": [
+            "Dọa sẩy thai",
+            "Viêm ruột thừa vỡ",
+            "Thai ngoài tử cung vỡ",
+            "Xoắn u nang buồng trứng"
+          ],
+          "answer": 2,
+          "explain": "<b>Tam chứng kinh điển của thai ngoài tử cung:</b> trễ kinh, đau bụng dưới và ra máu âm đạo. Khi có dấu hiệu vỡ (đau dữ dội, dấu hiệu sốc giảm thể tích, viêm phúc mạc), đây là một <b>tối cấp cứu ngoại khoa</b>."
+        },
+        {
+          "q": "Tại sao bệnh nhân lại có dấu hiệu sốc (mạch nhanh, huyết áp tụt)?",
+          "options": [
+            "Do đau quá mức",
+            "Do phản ứng dị ứng",
+            "Do phản ứng viêm",
+            "Do nhiễm trùng huyết"
+          ],
+          "answer": 2,
+          "explain": "<b>Vỡ khối thai ngoài tử cung</b> làm <b>tổn thương các mạch máu lớn</b> tại vòi trứng, dẫn đến <b>chảy máu ồ ạt vào khoang phúc mạc</b>, gây <b>sốc giảm thể tích</b> — trạng thái nguy hiểm nhất."
+        },
+        {
+          "q": "Siêu âm tại giường trong trường hợp cấp cứu này có mục đích chính là gì?",
+          "options": [
+            "Đo chiều dài đầu mông thai nhi",
+            "Xác định giới tính thai nhi",
+            "Xác định tình trạng xuất huyết nội (dịch trong túi cùng Douglas, quanh gan, lách) và tình trạng buồng tử cung, phần phụ",
+            "Đánh giá chức năng tim của mẹ"
+          ],
+          "answer": 2,
+          "explain": "<b>Siêu âm nhanh tại giường (FAST)</b> giúp <b>nhanh chóng xác định tình trạng xuất huyết nội</b> (dịch trong túi cùng Douglas, quanh gan, lách) và có thể thấy <b>hình ảnh khối cạnh tử cung, buồng tử cung trống</b> trong thai ngoài tử cung vỡ."
+        },
+        {
+          "q": "Can thiệp nào là tối khẩn cấp và quan trọng nhất để cứu sống bệnh nhân?",
+          "options": [
+            "Truyền thuốc giảm đau mạnh",
+            "Hồi sức chống sốc (truyền dịch, truyền máu) và phẫu thuật nội soi hoặc mở bụng cấp cứu để cầm máu",
+            "Cho thuốc co hồi tử cung",
+            "Theo dõi sát sinh hiệu và chờ đợi"
+          ],
+          "answer": 1,
+          "explain": "<b>Ưu tiên hàng đầu:</b> ổn định huyết động và <b>phẫu thuật ngay lập tức</b> để tìm và xử trí nguồn chảy máu (thường là cắt vòi trứng chứa khối thai vỡ)."
+        },
+        {
+          "q": "Yếu tố nào sau đây là yếu tố nguy cơ của thai ngoài tử cung?",
+          "options": [
+            "Tiền sử viêm vùng chậu (PID)",
+            "Tiền sử phẫu thuật vòi trứng",
+            "Sử dụng các biện pháp hỗ trợ sinh sản",
+            "Tất cả các ý trên"
+          ],
+          "answer": 3,
+          "explain": "<b>Tất cả các yếu tố</b> làm tổn thương hoặc cản trở sự di chuyển của phôi trong vòi trứng (viêm nhiễm gây dính, sẹo phẫu thuật) hoặc làm thay đổi môi trường nội tiết (ART) đều <b>làm tăng nguy cơ thai làm tổ bên ngoài tử cung</b>."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 22 tuổi trễ kinh 1 tuần, beta-hCG 800 mIU/mL, siêu âm chưa thấy túi thai",
+      "body": "<b>Bệnh nhân nữ 22 tuổi</b> đến khám vì <b>trễ kinh 1 tuần</b>, <b>thử que beta-hCG nước tiểu dương tính</b>. Bệnh nhân cảm thấy hơi mệt nhưng không có triệu chứng gì đặc biệt khác.<br><b>Siêu âm qua ngả âm đạo:</b> <b>nội mạc tử cung dày 18mm</b>, <b>không thấy túi thai rõ ràng</b> trong buồng tử cung, hai phần phụ không thấy khối bất thường.<br><b>Xét nghiệm beta-hCG định lượng trong máu:</b> <b>800 mIU/mL</b>",
+      "questions": [
+        {
+          "q": "Tình trạng này được gọi là gì?",
+          "options": [
+            "Thai trứng",
+            "Thai ngoài tử cung chắc chắn",
+            "Thai kỳ không xác định vị trí (Pregnancy of Unknown Location - PUL)",
+            "Thai đã sẩy hoàn toàn"
+          ],
+          "answer": 2,
+          "explain": "<b>PUL</b> là một <b>chẩn đoán tạm thời</b> khi có <b>beta-hCG dương tính nhưng siêu âm chưa xác định được vị trí thai</b> (trong hay ngoài tử cung)."
+        },
+        {
+          "q": "\"Ngưỡng phân biệt\" (discriminatory zone) của beta-hCG đối với siêu âm đầu dò âm đạo là khoảng bao nhiêu?",
+          "options": [
+            "100 - 200 mIU/mL",
+            "500 - 1000 mIU/mL",
+            "1500 - 2000 mIU/mL",
+            "Trên 6000 mIU/mL"
+          ],
+          "answer": 1,
+          "explain": "Đây là <b>ngưỡng nồng độ beta-hCG</b> mà trên mức đó, <b>hầu hết các thai kỳ bình thường</b> trong tử cung đều phải thấy được <b>túi thai qua siêu âm đầu dò âm đạo</b>."
+        },
+        {
+          "q": "Với nồng độ beta-hCG là 800 mIU/mL và siêu âm chưa thấy túi thai trong tử cung, khả năng nào sau đây là ÍT xảy ra nhất?",
+          "options": [
+            "Một thai trong tử cung bình thường nhưng còn quá sớm để thấy trên siêu âm",
+            "Một thai ngoài tử cung",
+            "Một thai kỳ đã sẩy sớm hoặc đang sẩy",
+            "Một thai trứng điển hình"
+          ],
+          "answer": 3,
+          "explain": "<b>Thai trứng thường có nồng độ beta-hCG cực cao</b>, thường là <b>hàng chục hoặc hàng trăm ngàn mIU/mL</b>, và có <b>hình ảnh siêu âm đặc trưng</b> (không phải chỉ không thấy túi thai)."
+        },
+        {
+          "q": "Xử trí tiếp theo phù hợp nhất là gì?",
+          "options": [
+            "Hút nạo buồng tử cung chẩn đoán",
+            "Bắt đầu điều trị Methotrexate ngay",
+            "Theo dõi sát triệu chứng lâm sàng và xét nghiệm lại beta-hCG sau 48 giờ",
+            "Nội soi ổ bụng chẩn đoán"
+          ],
+          "answer": 2,
+          "explain": "Khi <b>chưa rõ vị trí thai và bệnh nhân ổn định</b>, việc <b>theo dõi diễn tiến nồng độ beta-hCG</b> là cực kỳ quan trọng để phân biệt giữa thai trong tử cung sớm, thai ngoài tử cung hay thai đang sẩy."
+        },
+        {
+          "q": "Sự thay đổi nồng độ beta-hCG sau 48 giờ như thế nào gợi ý một thai kỳ trong tử cung đang phát triển bình thường?",
+          "options": [
+            "Giảm đi một nửa",
+            "Không thay đổi (đi ngang)",
+            "Tăng ít nhất 53-66% (hoặc gần gấp đôi)",
+            "Tăng gấp 10 lần"
+          ],
+          "answer": 2,
+          "explain": "Trong <b>giai đoạn sớm của một thai kỳ bình thường</b>, <b>nồng độ beta-hCG thường tăng gấp đôi sau khoảng 48-72 giờ</b>. Mức tăng tối thiểu được chấp nhận là <b>khoảng 53-66% sau 48 giờ</b>."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 32 tuổi nôn ói rất nhiều, tử cung to hơn tuổi thai, beta-hCG > 200,000",
+      "body": "<b>Bệnh nhân nữ 32 tuổi</b>, PARA 1011, <b>mang thai khoảng 9 tuần theo kinh cuối</b>. Bệnh nhân đến khám vì <b>nôn ói rất nhiều từ 2 tuần nay</b>, không ăn uống được, sụt 3kg. Bệnh nhân cũng <b>thấy ra máu âm đạo rỉ rả</b>, đôi khi có lẫn những <b>túi nhỏ giống như chùm nho</b>.<br><b>Khám lâm sàng:</b> bệnh nhân mệt mỏi, có dấu hiệu mất nước nhẹ. <b>Huyết áp 145/95 mmHg</b>. <b>Chiều cao tử cung 16cm</b> (tương đương thai 16 tuần).<br><b>Siêu âm:</b> <b>lòng tử cung chứa đầy khối echo hỗn hợp dạng tổ ong</b>, không thấy phôi thai, hai buồng trứng có nhiều nang lớn.<br><b>Beta-hCG > 200,000 mIU/mL</b>",
+      "questions": [
+        {
+          "q": "Chẩn đoán có khả năng nhất là gì?",
+          "options": [
+            "Song thai",
+            "U xơ tử cung to trong thai kỳ",
+            "Thai trứng toàn phần",
+            "Thai ngoài tử cung ở sừng tử cung"
+          ],
+          "answer": 2,
+          "explain": "Sự <b>kết hợp của các triệu chứng và dấu hiệu này là rất điển hình</b> cho <b>thai trứng toàn phần:</b> nghén nặng, tử cung to nhanh, chảy máu âm đạo, hình ảnh siêu âm tổ ong, và đặc biệt là <b>beta-hCG cực cao</b>."
+        },
+        {
+          "q": "Tại sao bệnh nhân lại có triệu chứng nghén nặng, tử cung to hơn tuổi thai và tăng huyết áp?",
+          "options": [
+            "Do sự phát triển quá mức của mô nguyên bào nuôi, sản xuất lượng lớn beta-hCG và các yếu tố khác",
+            "Do đa ối",
+            "Do rối loạn chức năng tuyến giáp",
+            "Do tâm lý lo lắng"
+          ],
+          "answer": 0,
+          "explain": "<b>Nồng độ beta-hCG cực cao</b> gây ra <b>triệu chứng nghén nặng</b>. <b>Khối mô trứng lớn</b> làm tử cung to nhanh. Các yếu tố do mô trứng tiết ra cũng có thể <b>gây ra tình trạng giống tiền sản giật sớm</b>."
+        },
+        {
+          "q": "Hình ảnh siêu âm \"bão tuyết\" hoặc \"tổ ong\" là do đâu?",
+          "options": [
+            "Do các cục máu đông trong lòng tử cung",
+            "Do sự phù nề và thoái hóa nước của các gai nhau, tạo thành các túi chứa dịch",
+            "Do nhiều túi thai nhỏ",
+            "Do khí trong buồng tử cung"
+          ],
+          "answer": 1,
+          "explain": "Đây là <b>hình ảnh đặc trưng</b> do <b>các gai nhau bị biến đổi thành các túi chứa đầy dịch</b>, không còn cấu trúc nhau thai bình thường."
+        },
+        {
+          "q": "Phương pháp nào là lựa chọn đầu tay để làm sạch buồng tử cung?",
+          "options": [
+            "Gây sẩy thai bằng thuốc",
+            "Hút nạo buồng tử cung",
+            "Cắt tử cung",
+            "Hóa trị"
+          ],
+          "answer": 1,
+          "explain": "<b>Hút nạo</b> (thường là hút dưới hướng dẫn siêu âm) là <b>phương pháp hiệu quả và an toàn nhất</b> để loại bỏ toàn bộ mô trứng, giảm nguy cơ sót mô và biến chứng."
+        },
+        {
+          "q": "Biến chứng ác tính nào có thể xảy ra sau thai trứng?",
+          "options": [
+            "Ung thư nội mạc tử cung",
+            "Bệnh lý nguyên bào nuôi tồn tại hoặc ung thư nguyên bào nuôi (Choriocarcinoma)",
+            "Sarcoma cơ trơn tử cung",
+            "Ung thư cổ tử cung"
+          ],
+          "answer": 1,
+          "explain": "Đây là <b>biến chứng đáng lo ngại nhất</b>, xảy ra ở <b>khoảng 15-20% trường hợp thai trứng toàn phần</b>. Cần phải <b>theo dõi beta-hCG chặt chẽ sau hút nạo</b> để phát hiện sớm và điều trị."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 29 tuổi đang có vòng tử cung, trễ kinh 1 tuần, thai trong tử cung",
+      "body": "<b>Bệnh nhân nữ 29 tuổi</b> đang <b>đặt dụng cụ tử cung (vòng TCu 380A)</b>, bị <b>trễ kinh 1 tuần</b>, thử que dương tính. Bệnh nhân lo lắng đến khám. Bệnh nhân không đau bụng, không ra máu.<br><b>Siêu âm đầu dò âm đạo:</b> <b>dụng cụ tử cung nằm đúng vị trí</b> trong buồng tử cung, đồng thời thấy <b>một túi thai nhỏ, bờ đều, nằm trong buồng tử cung, lệch về phía đáy</b>",
+      "questions": [
+        {
+          "q": "Chẩn đoán là gì?",
+          "options": [
+            "Thai ngoài tử cung",
+            "Thai trong tử cung cùng tồn tại với dụng cụ tử cung",
+            "Dụng cụ tử cung bị tụt thấp",
+            "Sẩy thai khó tránh"
+          ],
+          "answer": 1,
+          "explain": "<b>Siêu âm đã xác định rõ</b> cả <b>vị trí của dụng cụ và túi thai đều nằm trong buồng tử cung</b>."
+        },
+        {
+          "q": "Mặc dù dụng cụ tử cung là biện pháp tránh thai hiệu quả, tại sao vẫn có thể có thai?",
+          "options": [
+            "Do cơ chế tránh thai của dụng cụ thất bại (hiếm gặp)",
+            "Do dụng cụ đã hết hạn sử dụng",
+            "Do bệnh nhân dùng kèm các thuốc làm giảm hiệu quả của dụng cụ",
+            "Cả A và B"
+          ],
+          "answer": 3,
+          "explain": "<b>Không có biện pháp tránh thai nào hiệu quả 100%</b>. Dụng cụ tử cung, đặc biệt là loại chứa đồng, cũng <b>có hạn sử dụng nhất định</b> và có thể bị thất bại."
+        },
+        {
+          "q": "Nguy cơ chính của việc mang thai khi đang có dụng cụ tử cung là gì?",
+          "options": [
+            "Nguy cơ sẩy thai, nhiễm trùng và sinh non cao hơn",
+            "Nguy cơ thai ngoài tử cung cao hơn (nếu thai không nằm trong tử cung)",
+            "Nguy cơ thai dị tật bẩm sinh",
+            "Cả A và B"
+          ],
+          "answer": 3,
+          "explain": "<b>Dụng cụ tử cung làm tăng nguy cơ viêm nhiễm</b>. Nó trở thành một <b>vật lạ trong buồng tử cung</b>, làm <b>tăng nguy cơ sẩy thai, vỡ ối non, sinh non và nhiễm trùng</b>. Ngoài ra, <b>tỷ lệ thai ngoài/thai trong tăng lên ở người dùng DCTC</b>."
+        },
+        {
+          "q": "Xử trí nào được khuyến cáo cho trường hợp này (thai trong tử cung, còn sớm, dây vòng có thể nhìn thấy)?",
+          "options": [
+            "Để nguyên dụng cụ và theo dõi thai kỳ",
+            "Cố gắng lấy bỏ dụng cụ tử cung càng sớm càng tốt",
+            "Dùng thuốc để đình chỉ thai kỳ",
+            "Hút thai ngay lập tức"
+          ],
+          "answer": 1,
+          "explain": "<b>Các khuyến cáo đều cho rằng nên cố gắng lấy bỏ DCTC</b> nếu có thể nhìn thấy dây và thai còn nhỏ, vì việc này <b>giúp giảm đáng kể các biến chứng nhiễm trùng và sản khoa sau này</b>, dù bản thân thủ thuật lấy vòng cũng có một nguy cơ nhỏ gây sẩy thai."
+        },
+        {
+          "q": "Việc lấy bỏ dụng cụ tử cung sớm giúp giảm nguy cơ nào sau đây?",
+          "options": [
+            "Giảm nguy cơ thai ngoài tử cung",
+            "Giảm nguy cơ sẩy thai nhiễm trùng và sinh non so với việc để lại dụng cụ",
+            "Giảm nguy cơ thai to",
+            "Giảm nguy cơ tiền sản giật"
+          ],
+          "answer": 1,
+          "explain": "Việc <b>để lại DCTC trong suốt thai kỳ làm tăng đáng kể nguy cơ sẩy thai muộn, vỡ ối non, sinh non</b> và đặc biệt là <b>viêm màng ối, nhiễm trùng huyết</b>, có thể nguy hiểm cho cả mẹ và con."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 18 tuổi trễ kinh 2 tháng, phủ nhận có thai, siêu âm xác nhận có thai",
+      "body": "<b>Bệnh nhân nữ 18 tuổi</b> đến khám vì <b>trễ kinh 2 tháng</b>. Bệnh nhân <b>khẳng định chưa từng quan hệ tình dục</b> và <b>không thể có thai</b>. Bệnh nhân có <b>kinh nguyệt không đều từ khi dậy thì</b>. Gần đây cảm thấy mệt mỏi, căng ngực.<br><b>Khám lâm sàng:</b> tử cung to tương đương thai 8 tuần, mềm.<br><b>Xét nghiệm beta-hCG máu:</b> dương tính rất cao.<br><b>Siêu âm:</b> xác nhận có <b>thai sống trong tử cung 8 tuần</b>",
+      "questions": [
+        {
+          "q": "Dấu hiệu nào là bằng chứng khách quan và không thể chối cãi về việc bệnh nhân có thai?",
+          "options": [
+            "Lời khai của bệnh nhân",
+            "Trễ kinh",
+            "Kết quả beta-hCG dương tính và hình ảnh thai trên siêu âm",
+            "Cảm giác căng ngực"
+          ],
+          "answer": 2,
+          "explain": "Đây là <b>các bằng chứng y học khách quan</b>, <b>không phụ thuộc vào lời khai chủ quan</b> của bệnh nhân."
+        },
+        {
+          "q": "Tình trạng bệnh nhân phủ nhận khả năng có thai dù có bằng chứng rõ ràng có thể được gọi là gì?",
+          "options": [
+            "Hội chứng Couvade",
+            "Rối loạn chuyển dạng",
+            "Phủ nhận thai kỳ (Denial of pregnancy)",
+            "Rối loạn lo âu"
+          ],
+          "answer": 2,
+          "explain": "<b>Phủ nhận thai kỳ</b> là một <b>hiện tượng tâm lý</b>, trong đó người phụ nữ <b>không nhận thức được hoặc từ chối chấp nhận</b> sự thật là mình đang mang thai, mặc dù có các dấu hiệu rõ ràng."
+        },
+        {
+          "q": "Cơ chế tâm lý nào có thể giải thích cho sự phủ nhận này?",
+          "options": [
+            "Do thiếu hiểu biết về sinh sản",
+            "Do sợ hãi, xấu hổ, áp lực từ gia đình hoặc xã hội",
+            "Do rối loạn tâm thần tiềm ẩn",
+            "Tất cả các ý trên"
+          ],
+          "answer": 3,
+          "explain": "<b>Nguyên nhân có thể rất phức tạp</b>, bao gồm cả <b>yếu tố tâm lý, xã hội và đôi khi là bệnh lý tâm thần</b>."
+        },
+        {
+          "q": "Thái độ tiếp cận và tư vấn nào là phù hợp nhất cho bệnh nhân này?",
+          "options": [
+            "Cáo buộc bệnh nhân nói dối",
+            "Thông báo kết quả một cách nhẹ nhàng, cảm thông, không phán xét, và cung cấp các lựa chọn về việc tiếp tục hay chấm dứt thai kỳ",
+            "Bỏ qua lời nói của bệnh nhân và chỉ tập trung vào việc khám thai",
+            "Yêu cầu bệnh nhân đưa người yêu đến để đối chất"
+          ],
+          "answer": 1,
+          "explain": "Cần một <b>thái độ tiếp cận tế nhị, tôn trọng và không phán xét</b>. <b>Cung cấp thông tin chính xác, đầy đủ</b> về tình trạng hiện tại và các lựa chọn có thể giúp bệnh nhân dần chấp nhận sự thật và đưa ra quyết định."
+        },
+        {
+          "q": "Bất kể quyết định của bệnh nhân về thai kỳ, việc chẩn đoán sớm và chính xác có ý nghĩa gì?",
+          "options": [
+            "Giúp bệnh nhân có thời gian chuẩn bị tâm lý và đưa ra quyết định phù hợp",
+            "Đảm bảo bệnh nhân được chăm sóc tiền sản đầy đủ nếu quyết định giữ thai",
+            "Cho phép thực hiện đình chỉ thai kỳ an toàn hơn nếu bệnh nhân lựa chọn",
+            "Tất cả các ý trên"
+          ],
+          "answer": 3,
+          "explain": "Việc <b>chẩn đoán sớm mang lại lợi ích cho bệnh nhân trong mọi tình huống</b>, dù họ quyết định giữ hay bỏ thai."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 33 tuổi kinh nguyệt không đều, CRL 10mm ở tuần 7 theo kinh",
+      "body": "<b>Bệnh nhân nữ 33 tuổi</b>, PARA 1011, đến khám thai ở <b>tuần thứ 7 theo ngày kinh cuối</b>. <b>Chu kỳ kinh của bệnh nhân rất không đều</b>, dao động từ 35 đến 50 ngày.<br><b>Siêu âm:</b> <b>đo chiều dài đầu mông (CRL) của phôi thai là 10mm</b>",
+      "questions": [
+        {
+          "q": "Chiều dài đầu mông (CRL) 10mm tương ứng với tuổi thai khoảng bao nhiêu tuần?",
+          "options": [
+            "Khoảng 5 tuần",
+            "Khoảng 7 tuần",
+            "Khoảng 9 tuần",
+            "Khoảng 11 tuần"
+          ],
+          "answer": 1,
+          "explain": "Có các công thức và bảng đối chiếu chuẩn. <b>CRL 10mm thường tương ứng với tuổi thai khoảng 7 tuần 1 ngày</b>."
+        },
+        {
+          "q": "Trong trường hợp kinh nguyệt không đều, phương pháp nào là chính xác nhất để xác định tuổi thai trong 3 tháng đầu?",
+          "options": [
+            "Dựa vào ngày kinh cuối (LMP)",
+            "Dựa vào ngày rụng trứng (nếu biết)",
+            "Dựa vào chiều cao tử cung",
+            "Dựa vào số đo CRL trên siêu âm"
+          ],
+          "answer": 3,
+          "explain": "Khi <b>LMP không đáng tin cậy</b> (do kinh không đều, quên ngày...), <b>siêu âm 3 tháng đầu, đặc biệt là đo CRL</b>, là phương pháp <b>\"vàng\" để xác định tuổi thai</b>."
+        },
+        {
+          "q": "Tại sao đo CRL trong tam cá nguyệt thứ nhất lại có độ chính xác cao nhất?",
+          "options": [
+            "Vì phôi thai ở giai đoạn này phát triển rất nhanh",
+            "Vì có sự khác biệt lớn về kích thước giữa các phôi thai cùng tuổi",
+            "Vì tốc độ phát triển của phôi thai trong giai đoạn này ít bị ảnh hưởng bởi các yếu tố bên ngoài và tương đối đồng đều giữa các thai kỳ",
+            "Vì máy siêu âm ở giai đoạn này nhạy nhất"
+          ],
+          "answer": 2,
+          "explain": "Trong <b>giai đoạn sớm, sự phát triển của phôi chủ yếu được quyết định bởi yếu tố di truyền nội tại</b> và <b>ít chịu ảnh hưởng của môi trường</b> (dinh dưỡng mẹ, chức năng bánh nhau...). Do đó, <b>kích thước phôi phản ánh khá chính xác tuổi thai</b>."
+        },
+        {
+          "q": "Sai số của việc ước tính tuổi thai bằng CRL trong 3 tháng đầu thường là bao nhiêu ngày?",
+          "options": [
+            "Khoảng +/- 1-2 ngày",
+            "Khoảng +/- 5-7 ngày",
+            "Khoảng +/- 10-14 ngày",
+            "Khoảng +/- 20 ngày"
+          ],
+          "answer": 1,
+          "explain": "<b>Siêu âm 3 tháng đầu cho phép ước tính tuổi thai với sai số chỉ khoảng 5-7 ngày</b>, là <b>phương pháp chính xác nhất trong suốt thai kỳ</b>."
+        },
+        {
+          "q": "Tuổi thai được xác định bằng siêu âm 3 tháng đầu (dựa vào CRL) nên được sử dụng để làm gì?",
+          "options": [
+            "Chỉ để tham khảo",
+            "Để tính toán ngày dự sinh chính thức và theo dõi sự phát triển của thai nhi trong suốt thai kỳ",
+            "Chỉ để quyết định thời điểm làm xét nghiệm sàng lọc",
+            "Chỉ để xác định giới tính thai"
+          ],
+          "answer": 1,
+          "explain": "<b>Tuổi thai được xác định qua siêu âm sớm nên được coi là \"tuổi thai chuẩn\"</b> để <b>tính ngày dự sinh, theo dõi biểu đồ tăng trưởng, và ra các quyết định lâm sàn quan trọng khác</b>."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 25 tuổi trễ kinh 10 ngày, que thử âm tính 2 lần, triệu chứng giống có thai",
+      "body": "<b>Bệnh nhân nữ 25 tuổi</b> đến khám vì <b>trễ kinh 10 ngày</b>, <b>thử que beta-hCG nước tiểu 2 lần tại nhà đều cho kết quả âm tính</b>. Bệnh nhân vẫn cảm thấy <b>mệt mỏi, buồn nôn nhẹ</b>. Bệnh nhân rất mong có con.",
+      "questions": [
+        {
+          "q": "Kết quả que thử beta-hCG nước tiểu âm tính có loại trừ hoàn toàn khả năng có thai không?",
+          "options": [
+            "Có, chắc chắn không có thai",
+            "Không, que thử nước tiểu có thể âm tính giả, đặc biệt là khi thai còn quá sớm hoặc có vấn đề về kỹ thuật thử",
+            "Chỉ có xét nghiệm máu mới đáng tin cậy",
+            "Cả B và C đều đúng"
+          ],
+          "answer": 3,
+          "explain": "<b>Que thử nước tiểu có độ nhạy nhất định và có thể bỏ sót thai kỳ rất sớm</b>. <b>Xét nghiệm máu nhạy hơn nhiều</b>."
+        },
+        {
+          "q": "Nguyên nhân nào sau đây có thể gây ra kết quả âm tính giả?",
+          "options": [
+            "Thử que quá sớm khi nồng độ hCG trong nước tiểu chưa đủ cao",
+            "Nước tiểu quá loãng (do uống nhiều nước)",
+            "Que thử hết hạn hoặc bảo quản không đúng cách",
+            "Tất cả các ý trên"
+          ],
+          "answer": 3,
+          "explain": "Đây là <b>những nguyên nhân phổ biến</b> làm cho <b>nồng độ hCG trong mẫu nước tiểu không đạt đến ngưỡng phát hiện</b> của que thử."
+        },
+        {
+          "q": "Hiện tượng \"Hook effect\" (Hiệu ứng Hook) có thể gây âm tính giả khi nào?",
+          "options": [
+            "Khi nồng độ beta-hCG trong nước tiểu quá thấp",
+            "Khi nồng độ beta-hCG trong nước tiểu cực kỳ cao (thường gặp trong thai trứng)",
+            "Khi bệnh nhân dùng thuốc lợi tiểu",
+            "Khi que thử bị lỗi"
+          ],
+          "answer": 1,
+          "explain": "<b>Hiệu ứng Hook là một hiện tượng miễn dịch hiếm gặp</b>, xảy ra khi <b>nồng độ hCG quá cao làm bão hòa các kháng thể trên que thử</b>, dẫn đến <b>kết quả âm tính giả</b>. Cần pha loãng mẫu nước tiểu để xét nghiệm lại."
+        },
+        {
+          "q": "Nếu nghi ngờ có thai mặc dù que thử âm tính, xét nghiệm nào nên được chỉ định tiếp theo?",
+          "options": [
+            "Lặp lại que thử nước tiểu sau vài ngày",
+            "Xét nghiệm beta-hCG định lượng trong máu",
+            "Siêu âm bụng",
+            "Xét nghiệm nội tiết tố khác (Progesterone, Estrogen)"
+          ],
+          "answer": 1,
+          "explain": "<b>Beta-hCG máu là xét nghiệm nhạy và đặc hiệu nhất</b>, có thể <b>phát hiện thai sớm hơn nhiều</b> so với que thử nước tiểu và <b>cho kết quả định lượng</b>."
+        },
+        {
+          "q": "Ngoài thai kỳ, nguyên nhân nào khác có thể gây trễ kinh và các triệu chứng giống có thai (mệt mỏi, buồn nôn)?",
+          "options": [
+            "Stress, căng thẳng",
+            "Thay đổi cân nặng đột ngột",
+            "Một số bệnh lý nội tiết (ví dụ: hội chứng buồng trứng đa nang, rối loạn tuyến giáp)",
+            "Tất cả các ý trên"
+          ],
+          "answer": 3,
+          "explain": "<b>Trễ kinh và các triệu chứng cơ năng không đặc hiệu</b> có thể do <b>rất nhiều nguyên nhân khác nhau</b>, không chỉ do có thai. Cần <b>phải loại trừ thai kỳ trước khi tìm các nguyên nhân khác</b>."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 34 tuổi sau chuyển phôi IVF 10 ngày, beta-hCG 8 mIU/mL",
+      "body": "<b>Bệnh nhân nữ 34 tuổi</b> đang làm <b>thụ tinh trong ống nghiệm (IVF)</b>. Sau khi <b>chuyển phôi ngày 5 được 10 ngày</b>, bệnh nhân được <b>xét nghiệm beta-hCG máu</b>, kết quả là <b>8 mIU/mL</b>",
+      "questions": [
+        {
+          "q": "Kết quả beta-hCG này được gọi là gì?",
+          "options": [
+            "Âm tính hoàn toàn",
+            "Thai sinh hóa (Biochemical pregnancy)",
+            "Thai lâm sàng (Clinical pregnancy)",
+            "Đa thai"
+          ],
+          "answer": 1,
+          "explain": "<b>Mức hCG dương tính rất thấp</b> (<25 hoặc <50 tùy ngưỡng labo) <b>và thường không đủ để thai phát triển đến giai đoạn thấy được trên siêu âm</b>."
+        },
+        {
+          "q": "Thai sinh hóa được định nghĩa là gì?",
+          "options": [
+            "Tình trạng có bằng chứng thai kỳ chỉ dựa trên xét nghiệm beta-hCG dương tính thoáng qua mà không có bằng chứng trên siêu âm hay lâm sàng",
+            "Một thai kỳ phát triển bình thường trong giai đoạn sớm",
+            "Một thai ngoài tử cung",
+            "Một thai trứng"
+          ],
+          "answer": 0,
+          "explain": "Đây là <b>định nghĩa của thai sinh hóa</b>. Nó cho thấy <b>phôi đã bắt đầu làm tổ và sản xuất hCG</b>, nhưng quá trình này thất bại rất sớm."
+        },
+        {
+          "q": "Cơ chế nào giải thích hiện tượng thai sinh hóa?",
+          "options": [
+            "Do phôi chuyển vào có chất lượng kém",
+            "Do phôi đã làm tổ vào nội mạc tử cung nhưng không thể tiếp tục phát triển và bị đào thải sớm",
+            "Do lỗi kỹ thuật chuyển phôi",
+            "Do nội mạc tử cung không tiếp nhận phôi"
+          ],
+          "answer": 1,
+          "explain": "Đây là <b>cơ chế chính</b>. Phôi có thể có bất thường (thường là về di truyền) hoặc môi trường nội mạc không thuận lợi, khiến <b>thai ngừng phát triển ngay sau khi làm tổ</b>."
+        },
+        {
+          "q": "Nồng độ beta-hCG trong thai sinh hóa thường diễn biến như thế nào?",
+          "options": [
+            "Tăng gấp đôi sau mỗi 48 giờ",
+            "Tăng rất nhanh, gấp nhiều lần bình thường",
+            "Tăng nhẹ ban đầu rồi nhanh chóng giảm về âm tính",
+            "Duy trì ở mức thấp trong nhiều tuần"
+          ],
+          "answer": 2,
+          "explain": "Do <b>sự phát triển của nguyên bào nuôi bị dừng lại</b>, <b>nồng độ hCG chỉ tăng nhẹ hoặc không tăng</b>, sau đó <b>nhanh chóng giảm về mức không phát hiện được</b>, thường đi kèm với việc hành kinh trễ vài ngày."
+        },
+        {
+          "q": "Thai sinh hóa có được tính là một lần sẩy thai không và có ảnh hưởng đến khả năng có thai sau này không?",
+          "options": [
+            "Có, được tính là sẩy thai sớm và làm giảm khả năng có thai sau này",
+            "Không, thường không được tính là sẩy thai lâm sàng và không ảnh hưởng xấu đến tiên lượng có thai trong các chu kỳ tiếp theo",
+            "Chỉ được tính là sẩy thai nếu hCG > 100 mIU/mL",
+            "Làm tăng nguy cơ thai ngoài tử cung ở lần sau"
+          ],
+          "answer": 1,
+          "explain": "<b>Thai sinh hóa rất phổ biến</b> (có thể xảy ra ở >50% các trường hợp thụ thai tự nhiên mà không được nhận biết). <b>Nó không được coi là một yếu tố tiên lượng xấu</b> cho các lần mang thai sau."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 28 tuổi trễ kinh 1 tháng, đau bụng dưới, beta-hCG âm tính",
+      "body": "<b>Bệnh nhân nữ 28 tuổi</b> đến khám vì <b>trễ kinh 1 tháng và đau bụng dưới âm ỉ</b>. Bệnh nhân không buồn nôn, không căng ngực. <b>Tiền sử kinh nguyệt không đều</b>. Khám phụ khoa không thấy dấu hiệu có thai sớm.<br><b>Xét nghiệm beta-hCG máu:</b> <b>< 1 mIU/mL (âm tính)</b>",
+      "questions": [
+        {
+          "q": "Với kết quả beta-hCG âm tính, chẩn đoán nào sau đây có thể được loại trừ gần như chắc chắn?",
+          "options": [
+            "Thai kỳ (cả trong và ngoài tử cung)",
+            "U nang buồng trứng",
+            "Viêm vùng chậu",
+            "Lạc nội mạc tử cung"
+          ],
+          "answer": 0,
+          "explain": "<b>Beta-hCG là một marker cực kỳ nhạy và đặc hiệu</b> cho sự hiện diện của mô nguyên bào nuôi. <b>Kết quả âm tính gần như loại trừ chắc chắn khả năng có thai</b> (trừ trường hợp rất hiếm như thai sinh hóa đã kết thúc)."
+        },
+        {
+          "q": "Nguyên nhân nào sau đây là nguyên nhân phổ biến nhất gây vô kinh thứ phát (mất kinh > 3 tháng ở người có kinh đều, hoặc > 6 tháng ở người kinh không đều) sau khi đã loại trừ thai kỳ?",
+          "options": [
+            "Suy buồng trứng sớm",
+            "Rối loạn chức năng vùng hạ đồi-tuyến yên (ví dụ do stress, sụt cân, tập luyện quá mức)",
+            "Tăng Prolactin máu",
+            "Hội chứng buồng trứng đa nang (PCOS)",
+            "Tất cả các ý trên đều là nguyên nhân thường gặp"
+          ],
+          "answer": 4,
+          "explain": "<b>Vô kinh thứ phát là một vấn đề phức tạp</b>, có thể do <b>nhiều nguyên nhân ở các tầng khác nhau</b> của hệ thống nội tiết sinh sản (hạ đồi, tuyến yên, buồng trứng, tử cung) hoặc do các bệnh lý toàn thân khác."
+        },
+        {
+          "q": "Tại sao việc loại trừ thai kỳ lại là bước đầu tiên và quan trọng nhất khi tiếp cận một bệnh nhân bị trễ kinh/mất kinh?",
+          "options": [
+            "Vì thai kỳ là nguyên nhân phổ biến nhất gây mất kinh ở phụ nữ trong độ tuổi sinh sản",
+            "Vì việc mang thai ảnh hưởng đến việc lựa chọn các xét nghiệm và điều trị tiếp theo",
+            "Vì một số nguyên nhân gây mất kinh khác có thể bị nhầm lẫn với triệu chứng có thai",
+            "Tất cả các ý trên"
+          ],
+          "answer": 3,
+          "explain": "Đây là <b>nguyên tắc cơ bản trong thực hành phụ khoa</b>. <b>Luôn phải loại trừ khả năng có thai</b> trước khi xem xét các chẩn đoán khác cho tình trạng mất kinh."
+        },
+        {
+          "q": "Các xét nghiệm ban đầu nào thường được chỉ định để tìm nguyên nhân vô kinh thứ phát sau khi đã loại trừ thai kỳ?",
+          "options": [
+            "TSH (đánh giá chức năng tuyến giáp) và Prolactin",
+            "FSH, LH, Estradiol (đánh giá trục hạ đồi-tuyến yên-buồng trứng)",
+            "Thử nghiệm Progestin challenge",
+            "Tất cả các ý trên"
+          ],
+          "answer": 3,
+          "explain": "Đây là <b>các bước thăm dò ban đầu thường quy</b> để định hướng nguyên nhân: loại trừ bệnh tuyến giáp, u tuyến yên; đánh giá hoạt động của buồng trứng và trục nội tiết; đánh giá sự đáp ứng của nội mạc tử cung."
+        },
+        {
+          "q": "Đau bụng dưới âm ỉ ở bệnh nhân này có thể do nguyên nhân nào (sau khi đã loại trừ thai)?",
+          "options": [
+            "Rối loạn tiêu hóa",
+            "Nhiễm trùng đường tiết niệu",
+            "Các bệnh lý phụ khoa như u nang buồng trứng, viêm vùng chậu, lạc nội mạc tử cung",
+            "Tất cả các ý trên"
+          ],
+          "answer": 3,
+          "explain": "<b>Đau bụng dưới là một triệu chứng không đặc hiệu</b>, có thể do <b>rất nhiều nguyên nhân từ hệ sinh dục, tiết niệu, tiêu hóa hoặc cơ xương khớp</b>. Cần thăm khám và làm thêm xét nghiệm để chẩn đoán phân biệt."
+        }
+      ]
+    }
+  ]
+}
