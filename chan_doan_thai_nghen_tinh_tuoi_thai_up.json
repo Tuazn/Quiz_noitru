@@ -1,0 +1,620 @@
+{
+  "name": "Chẩn đoán thai nghén, tính tuổi thai Up",
+  "description": "Cases lâm sàng bổ sung về chẩn đoán thai kỳ, tính tuổi thai theo ngày kinh cuối và siêu âm, quy tắc Naegele, dấu hiệu lâm sàng, xét nghiệm hóa sinh, IVF, thai trứng, hội chứng mang thai giả, và quản lý các biến chứng sớm của thai kỳ.",
+  "level": "Ôn thi nội trú",
+  "type": "cases",
+  "category": "Sản",
+  "subcategory": "Sản khoa",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 26 tuổi, chu kỳ kinh 28 ngày, khám ngày 20/05/2026",
+      "body": "<b>Bệnh nhân nữ 26 tuổi</b>, PARA 0000, <b>chu kỳ kinh nguyệt đều 28 ngày</b>, <b>ngày đầu kỳ kinh cuối là 01/04/2026</b>. Bệnh nhân <b>đến khám ngày 20/05/2026</b> vì trễ kinh. Tiền sử khỏe mạnh, không sử dụng thuốc.<br><b>Khám toàn thân:</b> mạch 80 l/phút, HA 110/70 mmHg, nhịp thở 18 l/phút, T° 37°C, BMI 21 kg/m².<br><b>Khám mỏ vịt:</b> niêm mạc cổ tử cung <b>tím sẫm, đóng kín, không ra máu</b>. Âm đạo không viêm.<br><b>Khám bằng hai tay:</b> tử cung <b>to hơn bình thường, mềm</b>. Hai phần phụ không sờ thấy khối.<br><b>Siêu âm ngả âm đạo:</b> một túi thai trong buồng tử cung, có phôi và tim thai, <b>CRL đo được 15 mm (tương đương 7 tuần 6 ngày)</b>.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Thai trong tử cung giai đoạn sớm",
+            "Thai ngoài tử cung chưa vỡ",
+            "Thai lưu trong buồng tử cung",
+            "Bệnh nguyên bào nuôi do thai"
+          ],
+          "answer": 0,
+          "explain": "<b>Sự hiện diện của túi thai có phôi và tim thai</b> trong buồng tử cung <b>xác nhận chẩn đoán thai sống trong tử cung giai đoạn sớm</b>. Các dấu hiệu sinh tồn và lâm sàng đều ủng hộ một thai kỳ khỏe mạnh."
+        },
+        {
+          "q": "Cơ chế gây ra thay đổi màu sắc cổ tử cung là gì?",
+          "options": [
+            "Sự tăng sinh quá mức lớp niêm mạc",
+            "Hiện tượng sung huyết vùng chậu",
+            "Sự xuất huyết dưới lớp biểu mô",
+            "Sự lắng đọng sắc tố melanin"
+          ],
+          "answer": 1,
+          "explain": "<b>Dấu hiệu Chadwick (màu tím thẫm)</b> là do <b>hiện tượng sung huyết vùng chậu</b> dưới tác động của <b>estrogen tăng cao</b> trong thai kỳ."
+        },
+        {
+          "q": "Phương pháp tốt nhất để tính tuổi thai lúc này?",
+          "options": [
+            "Chỉ dùng duy nhất ngày đầu kỳ kinh cuối",
+            "Dựa vào chiều dài đầu mông (CRL)",
+            "Dựa vào đường kính lưỡng đỉnh",
+            "Dựa vào đường kính túi thai"
+          ],
+          "answer": 1,
+          "explain": "Trong <b>quý một (đặc biệt từ 8-13 tuần)</b>, <b>đo chiều dài đầu mông (CRL)</b> là <b>phương pháp chính xác nhất</b> để xác định tuổi thai, với <b>sai số chỉ khoảng 5-7 ngày</b>."
+        },
+        {
+          "q": "Xử trí ban đầu phù hợp nhất cho thai phụ này?",
+          "options": [
+            "Chọc hút dịch ối khảo sát di truyền",
+            "Kê đơn bổ sung axit folic uống",
+            "Hẹn siêu âm lại sau bốn tuần",
+            "Chỉ định dùng progesterone đặt"
+          ],
+          "answer": 1,
+          "explain": "<b>Đối với thai kỳ khỏe mạnh giai đoạn sớm</b>, <b>bổ sung axit folic</b> là <b>can thiệp ban đầu quan trọng nhất</b> nhằm phòng ngừa dị tật ống thần kinh. Không có chỉ định can thiệp nội tiết hay xâm lấn."
+        },
+        {
+          "q": "Nếu tính sai tuổi thai có thể dẫn đến rủi ro nào?",
+          "options": [
+            "Khởi phát chuyển dạ thai quá ngày sai",
+            "Chẩn đoán nhầm thai chậm tăng trưởng",
+            "Bỏ sót chẩn đoán thai ngoài tử cung",
+            "Sai lệch thời điểm mổ lấy thai"
+          ],
+          "answer": 0,
+          "explain": "<b>Việc tính sai tuổi thai ở quý một</b> có thể dẫn đến <b>đánh giá sai lệch về ngày dự sinh</b>, từ đó gây <b>khởi phát chuyển dạ nhầm</b> vì chẩn đoán thai quá ngày."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 24 tuổi, kinh không đều, ra máu âm đạo, beta-hCG 1200 mIU/mL",
+      "body": "<b>Bệnh nhân nữ 24 tuổi</b>, PARA 0000, <b>chu kỳ kinh không đều 30-45 ngày</b>, <b>không nhớ rõ kinh cuối</b>. Vào viện vì <b>ra huyết âm đạo lượng ít màu nâu đen</b>. Tiền sử chưa từng mắc bệnh phụ khoa.<br><b>Khám toàn thân:</b> mạch 88 l/phút, HA 100/60 mmHg, nhịp thở 16 l/phút, T° 37°C, BMI 20 kg/m².<br><b>Khám mỏ vịt:</b> <b>ra ít máu đen từ buồng tử cung, cổ tử cung đóng kín</b>.<br><b>Khám bằng hai tay:</b> tử cung kích thước bình thường, mềm, không đau khi lắc cổ tử cung, hai phần phụ ấn không đau, túi cùng Douglas mềm không đau.<br><b>Siêu âm ngả âm đạo:</b> <b>nội mạc tử cung dày 14 mm, không thấy hình ảnh túi thai</b> trong hay ngoài tử cung, <b>không có dịch tự do ổ bụng</b>.<br><b>Beta-hCG huyết thanh:</b> <b>1200 mIU/mL</b>",
+      "questions": [
+        {
+          "q": "Định hướng chẩn đoán ban đầu phù hợp nhất là gì?",
+          "options": [
+            "Sẩy thai trọn trong buồng tử cung",
+            "Thai ngoài tử cung đã vỡ",
+            "Tình trạng thai chưa rõ vị trí (PUL)",
+            "Thai trứng bán phần chưa sẩy"
+          ],
+          "answer": 2,
+          "explain": "<b>PUL (Pregnancy of Unknown Location)</b> là tình trạng có <b>beta-hCG dương tính nhưng siêu âm ngả âm đạo không thấy túi thai</b> ở trong hay ngoài tử cung."
+        },
+        {
+          "q": "Tiêu chuẩn siêu âm nào sau đây KHÔNG ĐÚNG khi nói về túi thai?",
+          "options": [
+            "Viền phản âm dày bao quanh túi dịch",
+            "Luôn có túi noãn hoàng bên trong",
+            "Nằm lệch tâm trong buồng tử cung",
+            "Có dấu hiệu túi thai kép kinh điển"
+          ],
+          "answer": 1,
+          "explain": "Mặc dù <b>túi noãn hoàng giúp xác nhận là túi thai</b>, nhưng ở <b>giai đoạn rất sớm (khoảng 4-4.5 tuần)</b>, túi thai có thể xuất hiện <b>mà chưa thấy túi noãn hoàng</b>. Túi thai sớm chỉ là bóng mờ lệch tâm, viền phản âm dày."
+        },
+        {
+          "q": "Cận lâm sàng tiếp theo giúp định hướng chẩn đoán?",
+          "options": [
+            "Định lượng lại beta-hCG sau bốn mươi tám giờ",
+            "Nội soi ổ bụng chẩn đoán ngay lập tức",
+            "Siêu âm ngả bụng kiểm tra lại ngay",
+            "Chụp cộng hưởng từ vùng tiểu khung"
+          ],
+          "answer": 0,
+          "explain": "<b>Theo dõi động học của beta-hCG</b> huyết thanh sau 48 giờ giúp <b>phân biệt thai trong tử cung phát triển bình thường (tăng 53-66%)</b>, thai thất bại hoặc <b>thai ngoài tử cung (tăng chậm hoặc bình nguyên)</b>."
+        },
+        {
+          "q": "Xử trí ban đầu ưu tiên nhất cho bệnh nhân này?",
+          "options": [
+            "Hướng dẫn theo dõi ngoại trú sát sao",
+            "Chỉ định tiêm bắp methotrexate ngay",
+            "Nạo hút buồng tử cung cầm máu",
+            "Mổ nội soi thăm dò vùng chậu"
+          ],
+          "answer": 0,
+          "explain": "<b>Bệnh nhân có huyết động ổn định</b>, không có dấu hiệu vỡ khối thai hay đau bụng dữ dội. <b>Quản lý mong đợi và theo dõi ngoại trú sát sao</b> là xử trí <b>an toàn nhất đối với PUL</b>."
+        },
+        {
+          "q": "Diễn biến bất thường nào nguy hiểm nhất có thể xảy ra?",
+          "options": [
+            "Băng huyết do sẩy thai không trọn",
+            "Shock mất máu do vỡ khối thai",
+            "Rối loạn đông máu do thai lưu",
+            "Vỡ tử cung do thai làm tổ ở sừng"
+          ],
+          "answer": 1,
+          "explain": "<b>Nguy cơ nguy hiểm nhất và cấp cứu</b> của PUL là <b>thai ngoài tử cung tiến triển dẫn đến vỡ</b>, gây <b>xuất huyết nội ồ ạt và shock mất máu</b>."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ nữ 31 tuổi, kinh 28 ngày, khám quý một, tính ngày dự sinh",
+      "body": "<b>Thai phụ nữ 31 tuổi</b>, PARA 1001, <b>chu kỳ kinh đều 28 ngày, nhớ rõ ngày đầu kỳ kinh cuối</b>. Bệnh nhân đến khám thai định kỳ ở quý một. Siêu âm ngả âm đạo cho thấy <b>một túi thai, có phôi và tim thai hoạt động</b>. <br><b>Khám toàn thân:</b> mạch 82 l/phút, HA 115/75 mmHg, nhịp thở 20 l/phút, SpO₂ 98%.<br><b>Khám sản khoa:</b> tử cung to tương đương tuổi thai, không có cơn gò, âm đạo không ra máu hay dịch bất thường. Các dấu hiệu sinh tồn đều ổn định.",
+      "questions": [
+        {
+          "q": "Chọn tập hợp đúng với các mệnh đề sau về tính tuổi thai:",
+          "options": [
+            "(1), (2), (3)",
+            "(1), (2), (4)",
+            "(2), (3), (4)",
+            "(1), (3), (4)"
+          ],
+          "answer": 1,
+          "explain": "<b>Mệnh đề (1), (2), (4) hoàn toàn chính xác</b> theo guideline ACOG về tính tuổi thai. Mệnh đề (3) sai vì <b>chiều dài đầu mông (CRL)</b> mới là thông số chuẩn nhất ở quý một, trong khi <b>BPD (đường kính lưỡng đỉnh) chính xác hơn ở quý hai</b>."
+        },
+        {
+          "q": "Tiêu chuẩn chẩn đoán thai nghén dựa vào siêu âm là gì?",
+          "options": [
+            "Nhìn thấy hoạt động của tim thai",
+            "Hình ảnh bóng mờ mặt bích",
+            "Dấu hiệu tăng sinh mạch máu",
+            "Thấy rõ mầm chi của thai nhi"
+          ],
+          "answer": 0,
+          "explain": "<b>Dấu hiệu siêu âm chắc chắn nhất</b> để khẳng định một thai kỳ đang phát triển trong tử cung là <b>sự hiện diện của phôi thai kèm theo hoạt động của tim thai</b>. Các dấu hiệu khác chỉ mang tính gợi ý."
+        },
+        {
+          "q": "Phương pháp thăm dò nào giúp đánh giá chính xác nhất tuổi thai?",
+          "options": [
+            "Siêu âm đo chiều dài đầu mông",
+            "Định lượng nồng độ beta-hCG",
+            "Đo đường kính trung bình túi thai",
+            "Tính ngày theo chu kỳ kinh nguyệt"
+          ],
+          "answer": 0,
+          "explain": "<b>Siêu âm đo CRL</b> trong khoảng <b>từ 8 đến 13 tuần 6 ngày</b> là <b>phương pháp tối ưu và chính xác nhất</b> để ấn định tuổi thai, <b>vượt trội hơn so với dự đoán theo ngày kinh cuối</b>."
+        },
+        {
+          "q": "Bước quản lý tiếp theo phù hợp nhất cho thai kỳ này?",
+          "options": [
+            "Lên lịch mổ lấy thai chủ động ngay",
+            "Lập hồ sơ khám thai định kỳ chuẩn",
+            "Chọc ối kiểm tra dị tật bẩm sinh",
+            "Kê đơn thuốc nội tiết giữ thai"
+          ],
+          "answer": 1,
+          "explain": "<b>Thai kỳ hiện tại đang phát triển bình thường</b>, bệnh nhân có sinh hiệu ổn định. <b>Bước tiếp theo là lập hồ sơ và tiến hành quy trình khám thai định kỳ</b> theo chuẩn quốc gia."
+        },
+        {
+          "q": "Nếu thai phụ không nhớ kinh cuối, rủi ro lớn nhất là gì?",
+          "options": [
+            "Chẩn đoán nhầm thai chậm tăng trưởng",
+            "Nguy cơ vỡ tử cung do thai to",
+            "Không phát hiện được thai ngoài tử cung",
+            "Chảy máu âm đạo trong quý hai"
+          ],
+          "answer": 0,
+          "explain": "<b>Không nhớ ngày kinh cuối hoặc tính sai tuổi thai</b> dễ dẫn đến <b>sai lệch biểu đồ tăng trưởng</b>, khiến <b>chẩn đoán nhầm một thai nhi bình thường nhưng nhỏ tuổi</b> thành <b>thai chậm tăng trưởng</b>."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ nữ 35 tuổi, kinh không đều, vùng sâu vùng xa, khám quý ba",
+      "body": "<b>Thai phụ nữ 35 tuổi</b>, PARA 2012, <b>chu kỳ kinh nguyệt không đều, không nhớ ngày đầu kỳ kinh cuối</b>. Bệnh nhân sống ở vùng sâu vùng xa, <b>không đi khám thai trong suốt hai quý đầu</b>. Hôm nay bệnh nhân đến khám vì thấy thai máy mạnh.<br><b>Khám toàn thân:</b> mạch 85 l/phút, HA 120/80 mmHg, nhịp thở 18 l/phút, SpO₂ 98%, BMI 24 kg/m².<br><b>Khám sản khoa:</b> <b>bề cao tử cung 28 cm, vòng bụng 90 cm, tim thai 140 l/phút</b>.<br><b>Siêu âm ngả bụng:</b> <b>một thai sống, BPD 75 mm, HC 275 mm, AC 260 mm, FL 56 mm, trọng lượng 1500 gram</b>. Lượng nước ối bình thường. Không dị tật hình thái.",
+      "questions": [
+        {
+          "q": "Định hướng chẩn đoán tuổi thai ở thời điểm này là gì?",
+          "options": [
+            "Thai kỳ quý ba với tuổi thai chưa được xác định",
+            "Thai chậm tăng trưởng trong tử cung",
+            "Thai kỳ ba mươi tuần trên siêu âm",
+            "Thai kỳ quá ngày sinh dự kiến"
+          ],
+          "answer": 2,
+          "explain": "Do bệnh nhân không nhớ kinh cuối và không có siêu âm sớm, <b>các chỉ số sinh trắc học hiện tại (BPD, HC, AC, FL) tương thích với thai 30 tuần</b>, đây là <b>cơ sở tốt nhất hiện có</b> để gán mốc tuổi thai."
+        },
+        {
+          "q": "Sai số của siêu âm tính tuổi thai trong quý ba là bao nhiêu?",
+          "options": [
+            "Cộng trừ khoảng năm đến bảy ngày",
+            "Cộng trừ khoảng bảy đến mười ngày",
+            "Cộng trừ khoảng hai đến ba tuần",
+            "Cộng trừ khoảng ba đến bốn tuần"
+          ],
+          "answer": 2,
+          "explain": "<b>Siêu âm quý ba có sai số rất lớn</b>, dao động từ <b>± 21 ngày (2-3 tuần)</b> do ảnh hưởng mạnh bởi <b>yếu tố di truyền và sự chậm tăng trưởng</b>. <b>Càng về cuối thai kỳ, siêu âm đo tuổi thai càng kém chính xác</b>."
+        },
+        {
+          "q": "Thông số siêu âm nào ít bị ảnh hưởng bởi tăng trưởng nhất?",
+          "options": [
+            "Chu vi vòng bụng của thai nhi",
+            "Đường kính lưỡng đỉnh của thai",
+            "Chiều dài xương đùi của thai nhi",
+            "Trọng lượng thai nhi ước tính"
+          ],
+          "answer": 2,
+          "explain": "<b>Chiều dài xương đùi (FL) và chu vi đầu (HC)</b> là những <b>thông số bảo tồn cấu trúc xương</b> nên <b>ít bị biến đổi bởi tình trạng suy dinh dưỡng</b> hơn so với chu vi vòng bụng (AC)."
+        },
+        {
+          "q": "Hướng xử trí ban đầu phù hợp nhất cho thai phụ này?",
+          "options": [
+            "Đình chỉ thai kỳ vì phát hiện quá muộn",
+            "Theo dõi biểu đồ tăng trưởng thai",
+            "Mổ lấy thai cấp cứu do thai suy",
+            "Chỉ định tiêm trưởng thành phổi ngay"
+          ],
+          "answer": 1,
+          "explain": "<b>Xử trí an toàn là chấp nhận</b> mốc tuổi thai ước tính từ siêu âm này làm <b>cơ sở (base-line)</b>, sau đó <b>lên kế hoạch theo dõi khám thai định kỳ và vẽ biểu đồ tăng trưởng</b> để đánh giá động học phát triển."
+        },
+        {
+          "q": "Hậu quả của việc tính tuổi thai muộn trong trường hợp này?",
+          "options": [
+            "Tăng nguy cơ đẻ non tự phát",
+            "Tăng nguy cơ nhau bong non",
+            "Khó đánh giá chính xác sự phát triển thai",
+            "Gây dị tật bẩm sinh hệ thần kinh trung ương"
+          ],
+          "answer": 2,
+          "explain": "<b>Việc thiếu mốc tuổi thai chính xác từ quý một</b> khiến <b>mọi đánh giá về cân nặng và sự tăng trưởng ở quý ba</b> trở nên <b>không chắc chắn</b>, gây <b>khó khăn trong chẩn đoán suy thai mạn hay thai chậm tăng trưởng</b>."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 25 tuổi, trễ kinh 2 tuần, buồn nôn nôn vào sáng",
+      "body": "<b>Bệnh nhân nữ 25 tuổi</b>, PARA 0000, <b>trễ kinh hai tuần</b>, <b>đến phòng khám vì buồn nôn, nôn nhiều vào buổi sáng và mệt mỏi</b>. Tiền sử nội ngoại khoa chưa ghi nhận bất thường.<br><b>Khám toàn thân:</b> mạch 88 l/phút, HA 110/70 mmHg, nhịp thở 18 l/phút, T° 37°C, BMI 22 kg/m².<br><b>Khám vú:</b> <b>quầng vú sậm màu, các hạt Montgomery nổi rõ</b>.<br><b>Khám mỏ vịt:</b> <b>niêm mạc âm đạo và cổ tử cung có màu tím nhạt</b>.<br><b>Khám bằng hai tay:</b> <b>cổ tử cung mềm, thân tử cung to bằng quả chanh lớn, mềm, dấu hiệu Hegar dương tính</b>. Hai phần phụ không sờ thấy khối, không đau.<br><b>Test thử thai nhanh nước tiểu:</b> dương tính",
+      "questions": [
+        {
+          "q": "Hội chứng chính bệnh nhân đang gặp phải là gì?",
+          "options": [
+            "Hội chứng trào ngược dạ dày thực quản",
+            "Hội chứng nghén trong thai kỳ sớm",
+            "Dấu hiệu dọa sẩy thai tự nhiên",
+            "Viêm loét dạ dày tá tràng cấp"
+          ],
+          "answer": 1,
+          "explain": "<b>Bệnh nhân có biểu hiện buồn nôn, nôn mửa vào buổi sáng</b> kèm mệt mỏi ở giai đoạn trễ kinh, <b>đây là biểu hiện điển hình của hội chứng nghén (morning sickness)</b> thường gặp ở quý đầu thai kỳ."
+        },
+        {
+          "q": "Dấu hiệu Hegar được giải thích bằng cơ chế sinh lý nào?",
+          "options": [
+            "Tăng sinh mạch máu niêm mạc âm đạo",
+            "Mềm hóa eo tử cung do nội tiết",
+            "Phì đại lớp cơ tử cung toàn bộ",
+            "Sự lắng đọng sắc tố ở quầng vú"
+          ],
+          "answer": 1,
+          "explain": "<b>Dấu hiệu Hegar</b> là hiện tượng <b>eo tử cung trở nên rất mềm</b>, thường được cảm nhận rõ khi thăm khám bằng hai tay. Điều này do <b>tác động của progesterone và tăng sinh mạch máu</b> làm thay đổi mô liên kết."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây là dấu hiệu chắc chắn có thai?",
+          "options": [
+            "Nồng độ beta-hCG trong máu tăng",
+            "Siêu âm thấy túi thai và phôi thai",
+            "Dấu hiệu Chadwick dương tính rõ",
+            "Que thử thai nước tiểu dương tính"
+          ],
+          "answer": 1,
+          "explain": "<b>Que thử thai dương tính hay dấu hiệu lâm sàng</b> chỉ là <b>dấu hiệu có thể có thai</b>. <b>Siêu âm quan sát trực tiếp thấy túi thai, phôi thai và tim thai</b> mới là <b>bằng chứng chắc chắn nhất</b> xác nhận tình trạng thai nghén."
+        },
+        {
+          "q": "Xử trí ban đầu cho triệu chứng của bệnh nhân này?",
+          "options": [
+            "Truyền dịch tĩnh mạch bù nước điện giải",
+            "Chia nhỏ bữa ăn trong ngày",
+            "Uống thuốc kháng sinh diệt vi khuẩn dạ dày",
+            "Nhập viện theo dõi và nằm tại giường"
+          ],
+          "answer": 1,
+          "explain": "<b>Đối với nghén thông thường</b> không có dấu hiệu mất nước nghiêm trọng, <b>tư vấn thay đổi lối sống</b> như <b>chia nhỏ bữa ăn, tránh thức ăn nhiều gia vị</b> là <b>can thiệp đầu tay an toàn và hiệu quả</b>."
+        },
+        {
+          "q": "Nếu tình trạng nôn mửa kéo dài có thể dẫn đến biến chứng gì?",
+          "options": [
+            "Tăng huyết áp thai kỳ mức độ nghiêm trọng",
+            "Rối loạn nước và điện giải nặng",
+            "Nhau tiền đạo chảy máu ồ ạt",
+            "Viêm tụy cấp hoại tử xuất huyết"
+          ],
+          "answer": 1,
+          "explain": "Khi <b>nôn mửa tiến triển thành chứng nôn nghén nặng (hyperemesis gravidarum)</b>, bệnh nhân có thể đối mặt với <b>biến chứng rối loạn nước, điện giải (hạ kali máu), và nhiễm toan ceton</b> đe dọa tính mạng."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ nữ 33 tuổi, IVF, chuyển phôi ngày 15/03/2026, CRL 6 mm",
+      "body": "<b>Thai phụ nữ 33 tuổi</b>, PARA 0020, <b>mang thai từ thụ tinh trong ống nghiệm (IVF)</b> với <b>phôi nang chuyển ngày 15/03/2026</b>. Bệnh nhân có <b>tiền sử hai lần sảy thai tự nhiên</b> lúc 7-8 tuần.<br><b>Khám toàn thân lúc nhập viện:</b> mạch 80 l/phút, HA 115/75 mmHg, nhịp thở 18 l/phút, SpO₂ 99%.<br><b>Khám sản khoa:</b> âm đạo không ra máu, cổ tử cung đóng kín, tử cung to tương đương tuổi thai.<br><b>Siêu âm ngả âm đạo ngày 10/04/2026:</b> một túi thai trong tử cung, có phôi và <b>tim thai 120 l/phút, CRL 6 mm (tương đương thai 6 tuần 2 ngày)</b>. Bệnh nhân lo lắng vì kích thước thai nhỏ hơn so với tính toán theo ngày chuyển phôi.",
+      "questions": [
+        {
+          "q": "Định hướng chẩn đoán về tình trạng thai kỳ hiện tại?",
+          "options": [
+            "Thai chậm tăng trưởng trong tử cung sớm",
+            "Thai trong tử cung phát triển bình thường",
+            "Dọa sảy thai do phôi phát triển kém",
+            "Thai lưu trong buồng tử cung sớm"
+          ],
+          "answer": 1,
+          "explain": "<b>Phôi thai có chiều dài 6 mm và tim thai dương tính 120 l/p</b> là <b>dấu hiệu của một thai kỳ đang phát triển hoàn toàn bình thường</b>, không có dấu hiệu dọa sẩy hay thai lưu."
+        },
+        {
+          "q": "Tuổi thai chính xác nhất trong trường hợp này tính theo tiêu chuẩn nào?",
+          "options": [
+            "Dựa vào chiều dài đầu mông đo được",
+            "Dựa vào ngày chuyển phôi và tuổi phôi",
+            "Dựa vào đường kính trung bình túi thai",
+            "Dựa vào chu kỳ kinh nguyệt tự nhiên"
+          ],
+          "answer": 1,
+          "explain": "Theo <b>ACOG</b>, đối với các thai kỳ có <b>hỗ trợ sinh sản (ART)</b>, <b>ngày chuyển phôi kết hợp với tuổi phôi</b> lúc chuyển là <b>tiêu chuẩn vàng và chính xác nhất</b> để tính tuổi thai, <b>vượt trội hơn cả siêu âm CRL</b> ở quý một."
+        },
+        {
+          "q": "Cận lâm sàng tiếp theo cần thiết nhất để theo dõi thai kỳ này?",
+          "options": [
+            "Định lượng lại nồng độ beta-hCG máu",
+            "Siêu âm theo dõi định kỳ",
+            "Chụp cộng hưởng từ vùng chậu đánh giá chi tiết",
+            "Khảo sát Doppler động mạch rốn"
+          ],
+          "answer": 1,
+          "explain": "<b>Thai kỳ đang diễn tiến bình thường</b> với tim thai dương tính, <b>bước theo dõi chuẩn là tiếp tục siêu âm định kỳ</b> theo lịch hẹn để khảo sát hình thái và sự phát triển của thai."
+        },
+        {
+          "q": "Hướng quản lý ưu tiên lúc này đối với bệnh nhân?",
+          "options": [
+            "Chỉ định hút thai ngay lập tức",
+            "Trấn an và tiếp tục hỗ trợ hoàng thể",
+            "Tiêm methotrexate đình chỉ thai kỳ",
+            "Truyền dịch và dùng thuốc giảm co tích cực"
+          ],
+          "answer": 1,
+          "explain": "Cần <b>giải thích cho thai phụ</b> hiểu sự chênh lệch nhỏ về kích thước trên siêu âm so với ngày IVF là có thể xảy ra do <b>sai số đo đạc</b>, <b>tiếp tục duy trì phác đồ hỗ trợ hoàng thể</b> theo chỉ định."
+        },
+        {
+          "q": "Nếu ngừng thuốc hỗ trợ hoàng thể quá sớm có thể gây ra hậu quả gì?",
+          "options": [
+            "Tăng nguy cơ chửa ngoài tử cung vỡ",
+            "Suy hoàng thể dẫn đến sảy thai",
+            "Rau bong non mức độ nặng nề",
+            "Dị tật ống thần kinh thai nhi"
+          ],
+          "answer": 1,
+          "explain": "Trong chu kỳ <b>thụ tinh ống nghiệm</b> (đặc biệt là chu kỳ chuyển phôi trữ không có hoàng thể tự nhiên), <b>việc ngừng cung cấp progesterone ngoại sinh quá sớm</b> trước khi nhau thai đảm nhận chức năng (<b>khoảng 10-12 tuần</b>) có thể gây <b>suy hoàng thể và sảy thai</b>."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 22 tuổi, trễ kinh 10 tuần, ra máu, nôn nặng, beta-hCG 250,000",
+      "body": "<b>Bệnh nhân nữ 22 tuổi</b>, PARA 0000, <b>trễ kinh 10 tuần</b>, vào viện vì <b>ra máu âm đạo rỉ rả và nôn mửa mức độ nặng</b>. Tiền sử chưa từng mắc bệnh lý nội tiết hay phụ khoa.<br><b>Khám toàn thân:</b> mạch 100 l/phút, HA 130/80 mmHg, nhịp thở 20 l/phút, T° 37.2°C, tuyến giáp không to, không run tay.<br><b>Khám bụng:</b> <b>tử cung to tương đương thai 14 tuần, mềm</b>.<br><b>Khám mỏ vịt:</b> <b>máu đen chảy ra từ lỗ trong cổ tử cung</b>.<br><b>Khám bằng hai tay:</b> <b>cổ tử cung hé mở, tử cung to hơn tuổi thai, hai phần phụ có khối nang căng kích thước khoảng 6 cm</b>.<br><b>Siêu âm ngả bụng:</b> <b>buồng tử cung chứa khối phản âm hỗn hợp dạng bão tuyết, không thấy phôi thai, hai buồng trứng có nhiều nang trống âm thành mỏng</b>.<br><b>Beta-hCG huyết thanh:</b> <b>250,000 mIU/mL</b>",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất cho tình trạng của bệnh nhân là gì?",
+          "options": [
+            "Dọa sảy thai tự nhiên giai đoạn sớm",
+            "Thai ngoài tử cung vỡ gây chảy máu",
+            "Thai trứng toàn phần có biến chứng",
+            "Đa thai kèm hội chứng quá kích buồng trứng"
+          ],
+          "answer": 2,
+          "explain": "<b>Tử cung to hơn tuổi thai, nôn nghén nặng, beta-hCG cực kỳ cao (> 200,000), hình ảnh bão tuyết không có phôi</b> trên siêu âm là <b>những biểu hiện kinh điển của bệnh thai trứng toàn phần (Complete hydatidiform mole)</b>."
+        },
+        {
+          "q": "Cơ chế hình thành các nang ở buồng trứng trong bệnh cảnh này là gì?",
+          "options": [
+            "Nồng độ beta-hCG tăng rất cao",
+            "Do hoại tử xuất huyết buồng trứng hai bên",
+            "Do nồng độ estrogen máu giảm mạnh",
+            "Do viêm nhiễm vùng chậu mạn tính"
+          ],
+          "answer": 0,
+          "explain": "<b>Các khối nang hai bên buồng trứng là nang hoàng tuyến (theca lutein cysts)</b>, hình thành do <b>sự kích thích quá mức của nồng độ beta-hCG khổng lồ</b> tác động lên buồng trứng. Nang này thường <b>tự thoái triển sau khi điều trị thai trứng</b>."
+        },
+        {
+          "q": "Xét nghiệm cận lâm sàng nào cần được thực hiện tiếp theo?",
+          "options": [
+            "Đo độ thanh thải creatinin nước tiểu",
+            "Chụp cộng hưởng từ tiểu khung cản từ",
+            "Xét nghiệm chức năng tuyến giáp",
+            "Sinh thiết buồng trứng dưới hướng dẫn siêu âm"
+          ],
+          "answer": 2,
+          "explain": "<b>Cấu trúc của beta-hCG tương đồng với TSH</b>, do đó <b>nồng độ hCG quá cao</b> có thể gây ra <b>hội chứng cường giáp trên lâm sàng</b>. Việc <b>kiểm tra chức năng tuyến giáp (TSH, FT4)</b> là rất cần thiết."
+        },
+        {
+          "q": "Xử trí ban đầu ưu tiên nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Nạo hút buồng tử cung dưới siêu âm",
+            "Cắt bỏ tử cung toàn phần cầm máu",
+            "Hóa trị liệu toàn thân bằng methotrexate",
+            "Kê đơn thuốc chống nôn và cho về nhà"
+          ],
+          "answer": 0,
+          "explain": "<b>Điều trị tiêu chuẩn và cấp thiết</b> cho thai trứng là <b>nong và nạo hút buồng tử cung (suction curettage)</b> để loại bỏ mô nguyên bào nuôi, <b>tốt nhất nên thực hiện dưới hướng dẫn siêu âm</b> để giảm nguy cơ thủng tử cung."
+        },
+        {
+          "q": "Nếu không theo dõi sát, bệnh nhân có nguy cơ gặp biến chứng nào nhất?",
+          "options": [
+            "Chuyển dạng u nguyên bào nuôi ác tính",
+            "Sẩy thai liên tiếp trong tương lai",
+            "Dính buồng tử cung gây vô sinh",
+            "Suy thận cấp do tắc nghẽn niệu quản"
+          ],
+          "answer": 0,
+          "explain": "<b>Diễn biến đáng lo ngại nhất của thai trứng toàn phần</b> là khả năng <b>tiến triển thành u nguyên bào nuôi ác tính (choriocarcinoma)</b> trong khoảng <b>15-20% các trường hợp</b>, do đó <b>việc theo dõi beta-hCG nghiêm ngặt sau nạo là bắt buộc</b>."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 38 tuổi, vô sinh 10 năm, mất kinh 4 tháng, hội chứng mang thai giả",
+      "body": "<b>Bệnh nhân nữ 38 tuổi</b>, PARA 0000, <b>kết hôn 10 năm chưa có con, rất khao khát có thai</b>. Bệnh nhân <b>đến khám vì mất kinh 4 tháng, bụng to dần và cảm thấy thai máy</b>. Tiền sử rối loạn lo âu đang điều trị tâm lý.<br><b>Khám toàn thân:</b> mạch 80 l/phút, HA 110/70 mmHg, nhịp thở 18 l/phút, T° 36.8°C, BMI 26 kg/m², không phù.<br><b>Khám bụng:</b> bụng có khối nhô cao, mỡ dày, gõ trong, <b>không nghe được tim thai bằng Doppler</b>.<br><b>Khám mỏ vịt:</b> niêm mạc âm đạo hồng hào, cổ tử cung đóng kín, không ra máu.<br><b>Khám bằng hai tay:</b> tử cung kích thước bình thường, hai phần phụ không sờ thấy khối.<br><b>Test thử thai nhanh nước tiểu:</b> âm tính.<br><b>Siêu âm ngả âm đạo:</b> tử cung kích thước bình thường, nội mạc mỏng, không có túi thai, hai buồng trứng bình thường.",
+      "questions": [
+        {
+          "q": "Định hướng chẩn đoán phù hợp nhất ở bệnh nhân này?",
+          "options": [
+            "Thai kỳ bình thường quý hai",
+            "Thai lưu trong buồng tử cung",
+            "Hội chứng mang thai giả (Pseudocyesis)",
+            "U xơ tử cung kích thước lớn"
+          ],
+          "answer": 2,
+          "explain": "<b>Bệnh nhân có niềm tin mãnh liệt mình có thai, kèm các dấu hiệu chủ quan</b> (mất kinh, bụng to), nhưng <b>thăm khám lâm sàng, test nước tiểu và siêu âm hoàn toàn bình thường</b>, đây là <b>biểu hiện của Hội chứng mang thai giả (Pseudocyesis)</b>."
+        },
+        {
+          "q": "Triệu chứng \"thai máy\" bệnh nhân cảm nhận được có thể do cơ chế nào?",
+          "options": [
+            "Nhu động ruột hoặc co thắt cơ bụng",
+            "Sự giãn nở của dây chằng tử cung",
+            "Hoạt động của thai nhi thật sự",
+            "Sự phát triển nhanh của khối u xơ tử cung"
+          ],
+          "answer": 0,
+          "explain": "<b>Cảm giác \"thai máy\"</b> trong hội chứng mang thai giả thường là <b>sự ảo tưởng do nhận thức sai lầm</b> về các chuyển động sinh lý bình thường của cơ thể, điển hình là <b>nhu động của ruột hoặc sự co thắt của các cơ thành bụng</b>."
+        },
+        {
+          "q": "Thăm dò nào giúp loại trừ hoàn toàn tình trạng có thai?",
+          "options": [
+            "Chụp X quang bụng đứng không chuẩn bị",
+            "Định lượng nồng độ beta-hCG huyết thanh",
+            "Chụp cộng hưởng từ vùng chậu có cản từ",
+            "Nội soi ổ bụng chẩn đoán hình ảnh"
+          ],
+          "answer": 1,
+          "explain": "<b>Cùng với siêu âm ngả âm đạo</b>, <b>định lượng beta-hCG huyết thanh âm tính</b> là <b>bằng chứng sinh hóa vững chắc nhất</b> để loại trừ một thai kỳ thực sự."
+        },
+        {
+          "q": "Hướng xử trí phù hợp nhất đối với bệnh nhân này?",
+          "options": [
+            "Kê đơn thuốc kích thích rụng trứng",
+            "Giải thích nhẹ nhàng và hỗ trợ tâm lý",
+            "Nạo sinh thiết buồng tử cung cầm máu",
+            "Phẫu thuật cắt bỏ tử cung toàn phần"
+          ],
+          "answer": 1,
+          "explain": "<b>Điều trị mang thai giả chủ yếu xoay quanh việc tháo gỡ vấn đề tâm lý</b>. Cần <b>tiếp cận bệnh nhân nhẹ nhàng, cung cấp bằng chứng khách quan</b> (siêu âm, xét nghiệm) và <b>phối hợp với bác sĩ tâm lý</b> để hỗ trợ. Không có chỉ định can thiệp phẫu thuật."
+        },
+        {
+          "q": "Diễn biến tâm lý nào đáng lo ngại nhất nếu giải thích không khéo léo?",
+          "options": [
+            "Trầm cảm nặng và suy sụp tinh thần",
+            "Vô kinh thứ phát kéo dài vĩnh viễn",
+            "Tăng nguy cơ mắc ung thư nội mạc",
+            "Rối loạn ăn uống mức độ nặng"
+          ],
+          "answer": 0,
+          "explain": "<b>Phá vỡ niềm tin có thai ở những phụ nữ khao khát con cái</b> một cách quá đường đột hoặc thiếu đồng cảm có thể dẫn đến <b>cơn khủng hoảng tâm lý nghiêm trọng</b>, gây <b>trầm cảm nặng hoặc suy sụp tinh thần</b>."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ nữ 28 tuổi, kinh 28 ngày, ngày kinh cuối 10/09/2025, khám muộn",
+      "body": "<b>Thai phụ nữ 28 tuổi</b>, PARA 1001, <b>có chu kỳ kinh nguyệt đều 28 ngày, nhớ rất rõ ngày đầu kỳ kinh cuối là 10/09/2025</b>. Bệnh nhân <b>không đi khám thai trong 3 tháng đầu</b> do bận công việc. <b>Khám ngày 15/02/2026</b> vì thai máy. Tiền sử đẻ thường một bé khỏe mạnh.<br><b>Khám toàn thân:</b> mạch 82 l/phút, HA 110/70 mmHg, nhịp thở 18 l/phút, T° 37°C, BMI 23 kg/m².<br><b>Khám sản khoa:</b> <b>bề cao tử cung 20 cm, vòng bụng 80 cm, tim thai 145 l/phút ở góc dưới rốn trái</b>.<br><b>Siêu âm ngả bụng:</b> một thai sống, <b>các chỉ số sinh trắc học tương đương thai 22 tuần 3 ngày</b>. Không ghi nhận bất thường hình thái, lượng nước ối bình thường.",
+      "questions": [
+        {
+          "q": "Ngày dự sinh của bệnh nhân tính theo chu kỳ kinh nguyệt là ngày nào?",
+          "options": [
+            "Ngày mười bảy tháng sáu năm hai mươi sáu",
+            "Ngày mười tháng bảy năm hai mươi sáu",
+            "Ngày hai mươi lăm tháng năm năm hai mươi sáu",
+            "Ngày mười tháng sáu năm hai mươi sáu"
+          ],
+          "answer": 0,
+          "explain": "<b>Áp dụng quy tắc Naegele:</b> Cộng 7 ngày (10 + 7 = 17), Trừ 3 tháng (9 - 3 = 6), Cộng 1 năm (2025 + 1 = 2026). <b>Do đó ngày dự sinh là 17/06/2026</b>."
+        },
+        {
+          "q": "Cơ sở sinh lý của quy tắc Naegele để tính ngày dự sinh là gì?",
+          "options": [
+            "Dựa trên chu kỳ kinh nguyệt chuẩn hai mươi tám ngày",
+            "Dựa vào thời điểm phôi thai làm tổ tại tử cung",
+            "Dựa trên thời điểm siêu âm thấy túi thai đầu tiên",
+            "Dựa vào nồng độ đỉnh của hormone beta-hCG"
+          ],
+          "answer": 0,
+          "explain": "<b>Quy tắc Naegele</b> được xây dựng dựa trên <b>giả định bệnh nhân có một chu kỳ kinh nguyệt hoàn toàn đều đặn 28 ngày</b>, với <b>thời điểm rụng trứng rơi vào ngày thứ 14 của chu kỳ</b>."
+        },
+        {
+          "q": "Phương pháp nào được dùng để xác nhận ngày dự sinh trong trường hợp này?",
+          "options": [
+            "Chỉ sử dụng duy nhất ngày đầu của kỳ kinh cuối",
+            "So sánh siêu âm quý hai với kỳ kinh cuối",
+            "Đo lại bề cao tử cung sau hai tuần",
+            "Chọc ối kiểm tra độ trưởng thành phổi"
+          ],
+          "answer": 1,
+          "explain": "Khi bệnh nhân đến khám muộn (quý hai), <b>quy trình chuẩn theo ACOG</b> là <b>so sánh tuổi thai dự đoán qua siêu âm hiện tại với tuổi thai tính từ ngày kinh cuối</b> để xem độ chênh lệch có nằm trong khoảng sai số cho phép hay không."
+        },
+        {
+          "q": "Hướng xử trí tiếp theo cho thai kỳ này là gì?",
+          "options": [
+            "Khởi phát chuyển dạ ngay vì nghi ngờ thai quá ngày",
+            "Giữ nguyên ngày dự sinh theo kinh cuối",
+            "Đổi ngày dự sinh theo kết quả siêu âm quý hai",
+            "Hẹn mổ lấy thai chủ động vào tuần ba mươi tám"
+          ],
+          "answer": 1,
+          "explain": "Tại thời điểm khám (15/02/2026), theo kinh cuối thai được <b>22 tuần 4 ngày</b>. Siêu âm đo được <b>22 tuần 3 ngày</b>. <b>Sự chênh lệch chỉ là 1 ngày</b>, nhỏ hơn ngưỡng cho phép (trên 14 ngày đối với thai 22-27 tuần). <b>Do đó, quyết định đúng là giữ nguyên ngày dự sinh theo kinh cuối</b>."
+        },
+        {
+          "q": "Nếu siêu âm quý hai lệch quá nhiều so với kinh cuối, nguy cơ nào có thể xảy ra?",
+          "options": [
+            "Bỏ sót thai chậm tăng trưởng trong tử cung",
+            "Tăng tỷ lệ nhau tiền đạo trung tâm",
+            "Gây ra vỡ ối non ở quý hai thai kỳ",
+            "Thai nhi bị dị tật bẩm sinh cấu trúc"
+          ],
+          "answer": 0,
+          "explain": "Nếu <b>tự ý thay đổi ngày dự sinh theo siêu âm quý hai</b> mà không có lý do thỏa đáng (khi độ chênh lệch chưa đạt ngưỡng), bác sĩ có thể <b>bỏ sót một trường hợp thai nhi đang bị chậm tăng trưởng thực sự</b>, lầm tưởng rằng thai chỉ nhỏ do tuổi thai muộn."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ nữ 30 tuổi, trễ kinh 8 tuần, ra máu, đau bụng, tụ dịch dưới màng đệm",
+      "body": "<b>Thai phụ nữ 30 tuổi</b>, PARA 0000, <b>tiền sử sẩy thai một lần cách đây 2 năm</b>. Bệnh nhân có <b>kinh chót cách đây 8 tuần</b>, hôm nay vào viện vì <b>ra máu âm đạo đỏ tươi kèm đau trâm ê ẩm vùng bụng dưới</b>.<br><b>Khám toàn thân:</b> mạch 85 l/phút, HA 110/70 mmHg, nhịp thở 20 l/phút, T° 37°C, BMI 22 kg/m².<br><b>Khám mỏ vịt:</b> <b>máu đỏ sẫm chảy từ lỗ cổ tử cung, cổ tử cung đóng kín</b>.<br><b>Khám bằng hai tay:</b> <b>tử cung to tương đương thai 8 tuần, mềm, ấn tức nhẹ vùng đáy</b>, hai phần phụ không sờ thấy khối, không đau.<br><b>Siêu âm ngả âm đạo:</b> <b>một túi thai trong buồng tử cung, phôi thai CRL 16 mm, tim thai 150 l/phút</b>. <b>Cạnh túi thai có một vùng tụ dịch phản âm kém kích thước 15x10 mm</b>.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Sẩy thai không trọn đang tiến triển gây chảy máu nhiều",
+            "Thai ngoài tử cung thể giả sẩy",
+            "Dọa sảy thai kèm tụ dịch dưới màng đệm",
+            "Thai lưu trong buồng tử cung có biến chứng nặng"
+          ],
+          "answer": 2,
+          "explain": "<b>Bệnh nhân có phôi thai và tim thai đang hoạt động bình thường</b> nhưng kèm <b>ra máu âm đạo và siêu âm có vùng tụ dịch</b>, đây là <b>chẩn đoán dọa sảy thai kèm tụ máu dưới màng đệm (subchorionic hematoma)</b>."
+        },
+        {
+          "q": "Cơ chế hình thành vùng tụ dịch trên siêu âm là do đâu?",
+          "options": [
+            "Bong tróc màng đệm khỏi màng rụng",
+            "Hiện tượng vỡ nang hoàng thể thai kỳ",
+            "Sự xâm lấn quá mức của nguyên bào nuôi",
+            "Phôi thai phát triển không bình thường"
+          ],
+          "answer": 0,
+          "explain": "<b>Tụ dịch dưới màng đệm xảy ra khi màng đệm (chorion)</b> bị <b>bong tróc một phần khỏi lớp màng rụng (decidua)</b> của tử cung, làm <b>rách các mạch máu nhỏ và hình thành khối máu tụ</b>."
+        },
+        {
+          "q": "Phương pháp cận lâm sàng nào cần được thực hiện để đánh giá toàn diện?",
+          "options": [
+            "Định lượng nồng độ beta-hCG máu mỗi ngày",
+            "Chụp cộng hưởng từ vùng chậu khảo sát",
+            "Kiểm tra công thức máu và yếu tố Rh",
+            "Chọc hút dịch ối để làm nhiễm sắc thể đồ"
+          ],
+          "answer": 2,
+          "explain": "Ở một <b>thai phụ đang chảy máu âm đạo</b>, <b>việc kiểm tra công thức máu</b> giúp <b>đánh giá mức độ thiếu máu</b>, và <b>xét nghiệm nhóm máu Rh</b> là <b>cực kỳ quan trọng</b> để quyết định <b>việc tiêm dự phòng Anti-D</b> nếu mẹ mang Rh âm tính."
+        },
+        {
+          "q": "Hướng xử trí ban đầu an toàn và phù hợp nhất?",
+          "options": [
+            "Nạo hút buồng tử cung cầm máu ngay lập tức",
+            "Tiêm tĩnh mạch thuốc tăng gò tử cung mạnh",
+            "Nghỉ ngơi tại giường và theo dõi sát triệu chứng",
+            "Phẫu thuật nội soi bóc tách khối máu tụ"
+          ],
+          "answer": 2,
+          "explain": "<b>Đối với dọa sảy thai có tim thai</b>, <b>quản lý mong đợi là tiêu chuẩn</b>. Bệnh nhân được <b>khuyên nghỉ ngơi, tránh hoạt động mạnh</b> và <b>theo dõi sát tình trạng đau bụng cũng như ra máu</b>."
+        },
+        {
+          "q": "Nếu tình trạng chảy máu tiếp tục tăng lên, nguy cơ gì dễ xảy ra nhất?",
+          "options": [
+            "Nhau tiền đạo chảy máu ồ ạt",
+            "Sảy thai tiến triển không thể giữ",
+            "Thủng cơ tử cung do khối máu tụ xâm lấn sâu",
+            "Tắc mạch máu phổi do dịch ối"
+          ],
+          "answer": 1,
+          "explain": "Mặc dù <b>nhiều trường hợp tụ máu dưới màng đệm sẽ tự thoái triển</b>, nhưng nếu <b>chảy máu tăng lên kèm co thắt tử cung</b>, <b>khối thai có thể bị tống xuất hoàn toàn</b> dẫn đến <b>sảy thai tiến triển (inevitable abortion)</b>."
+        }
+      ]
+    }
+  ]
+}
