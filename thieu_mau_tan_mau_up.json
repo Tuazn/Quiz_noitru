@@ -1,0 +1,620 @@
+{
+  "name": "Thiếu máu tan máu Up",
+  "description": "Case bệnh lâm sàng về thiếu máu tan máu ở trẻ em, bao gồm tan máu do bất đồng nhóm máu, tan máu tự miễn, thiếu men G6PD, Thalassemia, Spherocytosis, và các biến chứng. Mỗi ca có 5 câu hỏi về chẩn đoán, cơ chế miễn dịch, xét nghiệm chuẩn đoán, và điều trị cấp cứu.",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nhi",
+  "subcategory": "Huyết học",
+  "cases": [
+    {
+      "title": "Bệnh nhi nam 5 tuổi, nước tiểu màu nâu đen",
+      "body": "<b>Bệnh sử:</b> Bệnh nhi nam 5 tuổi, vào viện vì nước tiểu màu nâu đen. Cách 2 ngày, trẻ được điều trị viêm họng bằng Cotrimoxazol. Sáng nay mẹ thấy trẻ mệt, da xanh tái, củng mạc mắt vàng rõ.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh, nhịp tim 115 lần/phút, gan lách không to, không có dấu hiệu xuất huyết dưới da.<br><br><b>Tiền sử:</b> Bác ruột của trẻ (bên ngoài) từng bị tình trạng tương tự khi ăn đậu tằm.",
+      "questions": [
+        {
+          "q": "Chẩn đoán định hướng phù hợp nhất là gì?",
+          "options": [
+            "A. Viêm cầu thận cấp",
+            "B. Thiếu hụt men G6PD",
+            "C. Tan máu tự miễn",
+            "D. Thalassemia thể nặng"
+          ],
+          "answer": 1,
+          "explain": "Trẻ nam, tan máu cấp tính sau dùng thuốc (Cotrimoxazol), tiền sử gia đình có người bị tan máu khi ăn đậu tằm là các đặc điểm điển hình của thiếu G6PD."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính dẫn đến tình trạng trên là gì?",
+          "options": [
+            "A. Thiếu hụt enzyme sinh năng lượng",
+            "B. Khiếm khuyết cấu trúc màng hồng cầu",
+            "C. Giảm tổng hợp chuỗi globin",
+            "D. Thiếu hụt enzyme bảo vệ chống oxy hóa"
+          ],
+          "answer": 3,
+          "explain": "Thiếu G6PD làm hồng cầu không đủ NADPH để khử các gốc oxy hóa, dẫn đến tan máu cấp khi gặp tác nhân kích thích."
+        },
+        {
+          "q": "Xét nghiệm cận lâm sàng có giá trị nhất để chẩn đoán xác định bệnh nhi này là gì?",
+          "options": [
+            "A. Nghiệm pháp Coombs",
+            "B. Định lượng hoạt độ men G6PD",
+            "C. Điện di huyết sắc tố",
+            "D. Tổng phân tích nước tiểu"
+          ],
+          "answer": 1,
+          "explain": "Định lượng hoạt độ enzyme là tiêu chuẩn vàng, tuy nhiên cần lưu ý làm lại sau giai đoạn cấp vì hồng cầu lưới (nồng độ enzyme cao) có thể gây dương tính giả."
+        },
+        {
+          "q": "Xử trí ưu tiên nhất cho bệnh nhi ở thời điểm hiện tại là gì?",
+          "options": [
+            "A. Truyền khối hồng cầu ngay",
+            "B. Sử dụng Corticosteroid",
+            "C. Ngừng thuốc nghi ngờ và truyền dịch",
+            "D. Chiếu đèn xanh cường độ cao"
+          ],
+          "answer": 2,
+          "explain": "Bước đầu tiên là loại bỏ tác nhân gây tan máu và đảm bảo lưu lượng nước tiểu để tránh suy thận cấp do sắc tố mật."
+        },
+        {
+          "q": "Lời khuyên quan trọng nhất để phòng ngừa đợt cấp tương tự là gì?",
+          "options": [
+            "A. Cắt lách khi trẻ trên 6 tuổi",
+            "B. Tránh sử dụng thuốc nhóm Sulfonamide",
+            "C. Bổ sung viên sắt hàng ngày",
+            "D. Tiêm chủng vaccine phế cầu"
+          ],
+          "answer": 1,
+          "explain": "Phòng bệnh chủ yếu là tránh các thuốc (Sulfonamide, Acid nalidixic...) và thức ăn (đậu tằm) có tính oxy hóa mạnh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nữ 8 tuổi, mệt mỏi và da vàng",
+      "body": "<b>Bệnh sử:</b> Bệnh nhi nữ 8 tuổi, vào viện vì mệt mỏi và da vàng tăng dần trong 1 tuần.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh, da xanh, củng mạc mắt vàng, lách to 3 cm dưới bờ sườn, gan to 1 cm dưới bờ sườn. Không sốt, không xuất huyết.<br><br><b>Xét nghiệm:</b> Hb 72 g/L, hồng cầu lưới 8%, Bilirubin tự do 85 μmol/L, Coombs trực tiếp (+).",
+      "questions": [
+        {
+          "q": "Chẩn đoán sơ bộ phù hợp nhất là gì?",
+          "options": [
+            "A. Thiếu máu tan máu tự miễn",
+            "B. Spherocytosis di truyền",
+            "C. Thalassemia thể trung gian",
+            "D. Viêm gan virus cấp"
+          ],
+          "answer": 0,
+          "explain": "Bệnh cảnh tan máu mạn tính kèm Coombs (+) định hướng rõ đến tan máu tự miễn."
+        },
+        {
+          "q": "Bản chất của kháng thể thường gặp nhất trong thể bệnh này ở trẻ em là gì?",
+          "options": [
+            "A. Kháng thể nóng loại IgG",
+            "B. Kháng thể lạnh loại IgM",
+            "C. Phức hợp miễn dịch loại IgA",
+            "D. Kháng thể đơn dòng loại IgE"
+          ],
+          "answer": 0,
+          "explain": "Ở trẻ em, đa số là tan máu tự miễn do kháng thể nóng (IgG) hoạt động tốt nhất ở 37°C."
+        },
+        {
+          "q": "Chọn tập hợp ĐÚNG khi nói về các chỉ số xét nghiệm dự kiến ở bệnh nhi này:",
+          "options": [
+            "A. (1) MCV bình thường hoặc tăng + (2) Haptoglobin giảm mạnh",
+            "B. (1) MCV bình thường hoặc tăng + (3) Hồng cầu lưới giảm nặng",
+            "C. (2) Haptoglobin giảm mạnh + (4) Bilirubin liên hợp chiếm ưu thế",
+            "D. (3) Hồng cầu lưới giảm nặng + (4) Bilirubin liên hợp chiếm ưu thế"
+          ],
+          "answer": 0,
+          "explain": "Trong tan máu, hồng cầu lưới tăng làm MCV tăng giả tạo, và Haptoglobin giảm do gắn với Hemoglobin tự do."
+        },
+        {
+          "q": "Lựa chọn điều trị hàng đầu cho bệnh nhi này là gì?",
+          "options": [
+            "A. Truyền máu phối hợp sắt",
+            "B. Corticosteroid (Prednisolon) liều 2 mg/kg/ngày",
+            "C. Cắt lách cấp cứu",
+            "D. Thay huyết tương"
+          ],
+          "answer": 1,
+          "explain": "Prednisolon liều 2 mg/kg/ngày là lựa chọn đầu tay với tỷ lệ đáp ứng cao."
+        },
+        {
+          "q": "Diễn biến nào sau đây cảnh báo tình trạng nặng (hội chứng Evans) ở trẻ này?",
+          "options": [
+            "A. Lách to tăng kích thước",
+            "B. Xuất hiện đái máu đại thể",
+            "C. Giảm tiểu cầu kèm theo",
+            "D. Cường giáp trạng thứ phát"
+          ],
+          "answer": 2,
+          "explain": "Hội chứng Evans là sự kết hợp giữa thiếu máu tan máu tự miễn và xuất huyết giảm tiểu cầu miễn dịch, tiên lượng nặng hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 6 tháng tuổi, da xanh dần",
+      "body": "<b>Bệnh sử:</b> Bệnh nhi 6 tháng tuổi, vào viện vì da xanh dần. Trẻ là con thứ 2, sinh đủ tháng, cân nặng lúc sinh 3,2 kg. Mẹ nhóm máu O, Rh (+).<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh, da xanh niêm mạc nhợt nhiều, vàng da nhẹ vùng mặt. Gan to 3 cm dưới bờ sườn, lách to 2 cm dưới bờ sườn.<br><br><b>Xét nghiệm:</b> Hb 55 g/L, MCV 62 fL (hồng cầu nhỏ), MCHC 280 g/L (nhạt), hồng cầu lưới 4,5%.",
+      "questions": [
+        {
+          "q": "Chẩn đoán định hướng nhiều khả năng nhất là gì?",
+          "options": [
+            "A. Thiếu máu thiếu sắt nặng",
+            "B. Beta-Thalassemia thể nặng",
+            "C. Tan máu do bất đồng ABO",
+            "D. Suy tủy xương bẩm sinh"
+          ],
+          "answer": 1,
+          "explain": "Trẻ 6 tháng, thiếu máu hồng cầu nhỏ nhược sắc kèm gan lách to và tan máu mạn gợi ý bệnh lý huyết sắc tố."
+        },
+        {
+          "q": "Tiêu chuẩn vàng để xác định thể bệnh của trẻ này là gì?",
+          "options": [
+            "A. Định lượng Ferritin máu",
+            "B. Nghiệm pháp sức bền thẩm thấu hồng cầu",
+            "C. Điện di huyết sắc tố",
+            "D. Chọc hút tủy đồ"
+          ],
+          "answer": 2,
+          "explain": "Điện di Hemoglobin giúp xác định tỷ lệ HbF, HbA2 tăng trong Beta-Thalassemia."
+        },
+        {
+          "q": "Đặc điểm nào trên phim X-quang xương sọ điển hình cho bệnh nhi này khi lớn lên?",
+          "options": [
+            "A. Hình ảnh khuyết xương dạng bản đồ",
+            "B. Vỏ xương mỏng, loãng xương diện rộng",
+            "C. Hình ảnh \"chân tóc\" dựng đứng",
+            "D. Các đường khớp sọ đóng sớm"
+          ],
+          "answer": 2,
+          "explain": "Tăng sinh hồng cầu mạnh ở tủy xương sọ gây nên hình ảnh các gai xương dựng đứng (hình chân tóc)."
+        },
+        {
+          "q": "Nguyên tắc điều trị chính cho trẻ hiện tại là gì?",
+          "options": [
+            "A. Truyền máu duy trì Hb 95-110 g/L",
+            "B. Bổ sung sắt liều 5 mg/kg/ngày",
+            "C. Thải sắt bằng Desferal ngay lập tức",
+            "D. Cắt lách để giảm tiêu thụ máu"
+          ],
+          "answer": 0,
+          "explain": "Mục tiêu là duy trì Hemoglobin đủ để trẻ phát triển và không gây suy tim, thường bắt đầu truyền máu định kỳ."
+        },
+        {
+          "q": "Biến chứng đáng ngại nhất do điều trị truyền máu kéo dài ở trẻ này là gì?",
+          "options": [
+            "A. Nhiễm sắt các cơ quan",
+            "B. Suy thận mạn tính",
+            "C. Tắc mạch phổi",
+            "D. Teo cơ, cứng khớp"
+          ],
+          "answer": 0,
+          "explain": "Truyền máu nhiều đợt dẫn đến quá tải sắt, lắng đọng ở tim, gan, các tuyến nội tiết gây biến chứng nghiêm trọng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi sơ sinh 2 ngày tuổi, vàng da đậm",
+      "body": "<b>Bệnh sử:</b> Bệnh nhi sơ sinh 2 ngày tuổi, sinh đủ tháng, cân nặng 3 kg. Trẻ vào viện vì vàng da đậm vùng 4.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh, bú được, không sốt. Gan lách không to.<br><br><b>Xét nghiệm:</b> Bilirubin toàn phần 320 μmol/L, Bilirubin tự do 305 μmol/L. Nhóm máu mẹ: O, Rh (+); Nhóm máu con: B, Rh (+).",
+      "questions": [
+        {
+          "q": "Vấn đề ưu tiên cần xử trí ở trẻ này là gì?",
+          "options": [
+            "A. Nhiễm khuẩn sơ sinh sớm",
+            "B. Vàng da do bất đồng nhóm máu ABO",
+            "C. Vàng da sinh lý mức độ nặng",
+            "D. Tắc mật bẩm sinh"
+          ],
+          "answer": 1,
+          "explain": "Vàng da sớm (ngày 2), tăng Bilirubin tự do cao ở trẻ mẹ O con B hướng đến bất đồng ABO."
+        },
+        {
+          "q": "Cơ chế chính gây tan máu ở bệnh nhi này là gì?",
+          "options": [
+            "A. Kháng thể IgM tự nhiên của mẹ qua rau thai",
+            "B. Kháng thể IgG miễn dịch của mẹ qua rau thai",
+            "C. Hệ thống đại thực bào của trẻ hoạt động quá mức",
+            "D. Hồng cầu con chứa HbF dễ vỡ hơn HbA"
+          ],
+          "answer": 1,
+          "explain": "Chỉ có kháng thể IgG kích thước nhỏ mới qua được hàng rào nhau thai gây bệnh."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây hỗ trợ tốt nhất cho chẩn đoán tan máu miễn dịch ở trẻ?",
+          "options": [
+            "A. Test Coombs trực tiếp",
+            "B. Định lượng G6PD",
+            "C. Huyết tủy đồ",
+            "D. Sức bền thẩm thấu hồng cầu"
+          ],
+          "answer": 0,
+          "explain": "Coombs trực tiếp dương tính xác nhận kháng thể mẹ bám trên hồng cầu con (trong ABO có thể dương tính nhẹ hoặc âm tính)."
+        },
+        {
+          "q": "Phương pháp điều trị tối ưu nhất hiện tại cho trẻ là gì?",
+          "options": [
+            "A. Thay máu ngay lập tức",
+            "B. Chiếu đèn xanh cường độ cao",
+            "C. Truyền dung dịch Glucose 10%",
+            "D. Uống Phenobarbital"
+          ],
+          "answer": 1,
+          "explain": "Mức Bilirubin này ở ngày 2 thường đáp ứng tốt với chiếu đèn tích cực trước khi cân nhắc thay máu."
+        },
+        {
+          "q": "Diễn biến nào sau đây gợi ý biến chứng vàng da nhân não?",
+          "options": [
+            "A. Trẻ bú háo hức hơn",
+            "B. Trẻ ngủ yên, khó đánh thức",
+            "C. Tăng trương lực cơ, người ưỡn cong",
+            "D. Xuất hiện ban đỏ rải rác toàn thân"
+          ],
+          "answer": 2,
+          "explain": "Vàng da nhân não biểu hiện bằng dấu hiệu thần kinh nặng như xoắn vặn, ưỡn người, co giật."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi trai 4 tuổi, da xanh nhẹ và lách to",
+      "body": "<b>Bệnh sử:</b> Bệnh nhi trai 4 tuổi, vào viện vì da xanh nhẹ và lách to. Mẹ trẻ cho biết từ nhỏ trẻ hay có các đợt vàng mắt nhẹ khi bị sốt, sau đó tự hết.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh, củng mạc mắt hơi vàng, lách to độ II, gan không to.<br><br><b>Xét nghiệm:</b> Hb 95 g/L, hồng cầu lưới 6%, Bilirubin tự do 42 μmol/L, MCV 88 fL, MCHC 360 g/L. Phết máu ngoại vi thấy nhiều hồng cầu hình cầu nhỏ, đậm màu.",
+      "questions": [
+        {
+          "q": "Chẩn đoán có khả năng nhất là gì?",
+          "options": [
+            "A. Beta-Thalassemia thể ẩn",
+            "B. Spherocytosis di truyền",
+            "C. Tan máu tự miễn thể mạn",
+            "D. Thiếu hụt men Pyruvat Kinase"
+          ],
+          "answer": 1,
+          "explain": "Tiền sử tan máu nhẹ từng đợt, MCV bình thường, MCHC tăng cao và hình ảnh hồng cầu hình cầu trên phết máu là điển hình của Spherocytosis."
+        },
+        {
+          "q": "Nguyên nhân di truyền thường gặp nhất của thể bệnh này là gì?",
+          "options": [
+            "A. Đột biến gen Ankyrin hoặc Spectrin",
+            "B. Thiếu hụt chuỗi Alpha-globin",
+            "C. Bất thường cấu trúc Hemoglobin S",
+            "D. Thiếu hụt men G6PD mạn tính"
+          ],
+          "answer": 0,
+          "explain": "Khiếm khuyết các protein khung xương hồng cầu (Ankyrin, Spectrin) làm hồng cầu mất hình đĩa lõm, trở thành hình cầu và bị thực bào tại lách."
+        },
+        {
+          "q": "Xét nghiệm cận lâm sàng đặc trưng nhất để xác định bệnh là gì?",
+          "options": [
+            "A. Điện di huyết sắc tố",
+            "B. Nghiệm pháp sức bền thẩm thấu hồng cầu",
+            "C. Định lượng sắt và Ferritin",
+            "D. Nghiệm pháp Coombs trực tiếp"
+          ],
+          "answer": 1,
+          "explain": "Hồng cầu hình cầu dễ vỡ trong môi trường nhược trương so với hồng cầu bình thường."
+        },
+        {
+          "q": "Lựa chọn xử trí lâu dài phù hợp cho trẻ này là gì?",
+          "options": [
+            "A. Truyền khối hồng cầu định kỳ hàng tháng",
+            "B. Bổ sung Acid folic hàng ngày",
+            "C. Sử dụng Corticosteroid liều thấp",
+            "D. Thải sắt bằng thuốc đường uống"
+          ],
+          "answer": 1,
+          "explain": "Bổ sung Acid folic để đáp ứng nhu cầu tạo máu cao, cắt lách chỉ xét khi tan máu nặng ảnh hưởng tăng trưởng."
+        },
+        {
+          "q": "Biến chứng cấp tính nguy hiểm nhất có thể xảy ra ở bệnh nhi này khi nhiễm Parvovirus B19 là gì?",
+          "options": [
+            "A. Cơn tan máu dữ dội",
+            "B. Cơn suy tủy cấp (Aplastic crisis)",
+            "C. Tắc mạch lách",
+            "D. Viêm túi mật do sỏi mật"
+          ],
+          "answer": 1,
+          "explain": "Parvovirus B19 ức chế tạm thời sự sinh hồng cầu ở tủy, ở người có đời sống hồng cầu ngắn sẽ gây tụt Hemoglobin cực nhanh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 10 tuổi, mệt nhiều và sốt sau truyền máu",
+      "body": "<b>Bệnh sử:</b> Bệnh nhi 10 tuổi, đã được chẩn đoán Beta-Thalassemia thể nặng và truyền máu định kỳ. Lần này vào viện vì mệt nhiều, sốt nhẹ 3 ngày nay.<br><br><b>Khám lâm sàng:</b> Da xanh tái, niêm mạc nhợt nhiều, củng mạc mắt vàng rõ.<br><br><b>Xét nghiệm:</b> Hb 38 g/L (lần trước là 85 g/L), hồng cầu lưới 0,2% (rất thấp). Bạch cầu và tiểu cầu trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Tình trạng cấp tính trẻ đang gặp phải là gì?",
+          "options": [
+            "A. Cơn tan máu cấp do nhiễm trùng",
+            "B. Cơn suy tủy cấp (Aplastic crisis)",
+            "C. Suy tim cấp do thiếu máu",
+            "D. Xuất huyết nội tạng kín đáo"
+          ],
+          "answer": 1,
+          "explain": "Hemoglobin giảm cực nặng kèm hồng cầu lưới giảm thấp ở bệnh nhân tan máu mạn gợi ý cơn suy tủy cấp."
+        },
+        {
+          "q": "Căn nguyên virus thường gặp nhất gây ra tình trạng này là gì?",
+          "options": [
+            "A. Epstein-Barr Virus (EBV)",
+            "B. Cytomegalovirus (CMV)",
+            "C. Parvovirus B19",
+            "D. Virus viêm gan B"
+          ],
+          "answer": 2,
+          "explain": "Parvovirus B19 có ái lực đặc biệt với tiền nguyên hồng cầu, gây ngừng sản xuất hồng cầu tạm thời."
+        },
+        {
+          "q": "Chỉ số cận lâm sàng nào giúp phân biệt nhanh tình trạng này với một đợt tan máu cấp thông thường?",
+          "options": [
+            "A. Nồng độ Bilirubin tự do",
+            "B. Chỉ số hồng cầu lưới",
+            "C. Số lượng bạch cầu đa nhân trung tính",
+            "D. Kích thước lách trên siêu âm"
+          ],
+          "answer": 1,
+          "explain": "Trong tan máu cấp hồng cầu lưới tăng rất cao, trong suy tủy cấp chỉ số này giảm nặng."
+        },
+        {
+          "q": "Xử trí cấp cứu quan trọng nhất là gì?",
+          "options": [
+            "A. Truyền khối hồng cầu ngay lập tức",
+            "B. Sử dụng kháng sinh phổ rộng",
+            "C. Tiêm tĩnh mạch Corticosteroid",
+            "D. Bổ sung sắt liều cao"
+          ],
+          "answer": 0,
+          "explain": "Thiếu máu quá nặng (Hemoglobin < 40 g/dL) đe dọa tính mạng cần truyền máu cấp cứu."
+        },
+        {
+          "q": "Tiên lượng về khả năng hồi phục dòng hồng cầu của trẻ này là gì?",
+          "options": [
+            "A. Phụ thuộc vào việc cắt lách sớm hay muộn",
+            "B. Thường tự hồi phục sau 1-2 tuần",
+            "C. Cần phải ghép tủy mới phục hồi được",
+            "D. Hemoglobin sẽ không bao giờ về được mức nền cũ"
+          ],
+          "answer": 1,
+          "explain": "Tình trạng ức chế tủy do virus thường tạm thời, dòng hồng cầu sẽ bắt đầu tăng sinh lại sau khi hết nhiễm trùng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam sơ sinh 12 giờ tuổi, vàng da và phù toàn thân",
+      "body": "<b>Bệnh sử:</b> Bệnh nhi nam sơ sinh 12 giờ tuổi, được chuyển viện vì vàng da sớm và phù toàn thân. Trẻ là con thứ 3. Mẹ có tiền sử 1 lần sảy thai ở tháng thứ 5.<br><br><b>Khám lâm sàng:</b> Vàng da đậm đến chi, gan lách to rõ, phù mu bàn chân và bụng chướng.<br><br><b>Nhóm máu:</b> Mẹ: A, Rh (-); Con: A, Rh (+).",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất là gì?",
+          "options": [
+            "A. Tan máu do bất đồng Rh mẹ - con",
+            "B. Nhiễm khuẩn huyết sơ sinh sớm",
+            "C. Suy giáp trạng bẩm sinh",
+            "D. Hội chứng truyền máu song thai"
+          ],
+          "answer": 0,
+          "explain": "Vàng da rất sớm, phù toàn thân (phù thũng thai nhi) ở trẻ mẹ Rh(-) con Rh(+) là biểu hiện nặng của bất đồng Rh."
+        },
+        {
+          "q": "Tại sao tình trạng này thường không xảy ra ở con đầu lòng?",
+          "options": [
+            "A. Nhau thai con đầu dày hơn nên ngăn kháng thể tốt hơn",
+            "B. Cơ thể mẹ cần thời gian cảm ứng để tạo kháng thể IgG",
+            "C. Con đầu thường có nhóm máu giống mẹ nên không tan máu",
+            "D. Kháng thể Rh cần sự hỗ trợ của nồng độ Estrogen cao"
+          ],
+          "answer": 1,
+          "explain": "Mẹ cần tiếp xúc với máu con (thường lúc chuyển dạ con đầu) để sinh kháng thể IgG, nên từ con thứ 2 nguy cơ mới rõ rệt."
+        },
+        {
+          "q": "Xét nghiệm cận lâm sàng nào dự kiến sẽ dương tính mạnh nhất ở trẻ?",
+          "options": [
+            "A. Test Coombs trực tiếp",
+            "B. Nghiệm pháp sức bền hồng cầu",
+            "C. Định lượng Albumin máu",
+            "D. Cấy máu tìm vi khuẩn"
+          ],
+          "answer": 0,
+          "explain": "Coombs trực tiếp dương tính mạnh là đặc trưng của bất đồng Rh."
+        },
+        {
+          "q": "Can thiệp y khoa nào cần thực hiện cấp cứu để cứu sống trẻ?",
+          "options": [
+            "A. Truyền kháng sinh tĩnh mạch",
+            "B. Thay máu và hỗ trợ hô hấp tuần hoàn",
+            "C. Chiếu đèn đơn thuần tại giường",
+            "D. Phẫu thuật dẫn lưu dịch màng bụng"
+          ],
+          "answer": 1,
+          "explain": "Trẻ có dấu hiệu suy tuần hoàn và vàng da nặng cần thay máu cấp cứu để loại bỏ kháng thể và Bilirubin."
+        },
+        {
+          "q": "Để dự phòng tình trạng này cho lần mang thai sau, mẹ cần được tiêm gì?",
+          "options": [
+            "A. Vaccine uốn ván",
+            "B. Immunoglobulin kháng D (Anti-D)",
+            "C. Corticosteroid trước sinh",
+            "D. Vitamin K liều cao"
+          ],
+          "answer": 1,
+          "explain": "Tiêm Anti-D cho mẹ Rh(-) trong vòng 72h sau sinh con Rh(+) giúp trung hòa hồng cầu con đi vào máu mẹ, ngăn cản sự cảm ứng miễn dịch."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 7 tuổi, xuất hiện nốt xuất huyết",
+      "body": "<b>Bệnh sử:</b> Bệnh nhi nam 7 tuổi, tiền sử thiếu máu tan máu mạn tính do bệnh tự miễn đã điều trị Corticosteroid 1 tháng nay. Sáng nay trẻ vào viện vì xuất hiện nhiều chấm, nốt xuất huyết rải rác toàn thân kèm chảy máu chân răng.<br><br><b>Khám lâm sàng:</b> Da xanh, củng mạc mắt vàng nhẹ, lách to 2 cm dưới bờ sườn.<br><br><b>Xét nghiệm:</b> Hb 65 g/L, Tiểu cầu 12 G/L (rất thấp), Bạch cầu 6,5 G/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hội chứng phù hợp nhất lúc này là gì?",
+          "options": [
+            "A. Suy tủy xương mắc phải",
+            "B. Bạch cầu cấp thể lympho",
+            "C. Hội chứng Evans",
+            "D. Cường lách mức độ nặng"
+          ],
+          "answer": 2,
+          "explain": "Sự kết hợp giữa tan máu tự miễn (Hemoglobin thấp, Coombs+) và giảm tiểu cầu miễn dịch được gọi là hội chứng Evans."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh của tình trạng giảm tiểu cầu ở bệnh nhi này là gì?",
+          "options": [
+            "A. Tủy xương bị thâm nhiễm bởi tế bào ác tính",
+            "B. Tự kháng thể chống lại kháng nguyên màng tiểu cầu",
+            "C. Tiểu cầu bị bắt giữ quá mức tại lách to",
+            "D. Thiếu hụt vitamin B12 gây rối loạn tạo máu"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế là cơ thể sinh đồng thời nhiều loại tự kháng thể chống lại hồng cầu và tiểu cầu."
+        },
+        {
+          "q": "Chọn tập hợp ĐÚNG về các xét nghiệm cần làm để chẩn đoán xác định trẻ này:",
+          "options": [
+            "A. (1) Nghiệm pháp Coombs trực tiếp + (2) Kháng thể kháng tiểu cầu trực tiếp + (3) Định lượng yếu tố VIII và IX",
+            "B. (1) Nghiệm pháp Coombs trực tiếp + (2) Kháng thể kháng tiểu cầu trực tiếp + (4) Tủy đồ khảo sát dòng mẫu tiểu cầu",
+            "C. (2) Kháng thể kháng tiểu cầu trực tiếp + (3) Định lượng yếu tố VIII và IX + (4) Tủy đồ",
+            "D. (1) Coombs trực tiếp + (3) Định lượng yếu tố VIII và IX + (4) Tủy đồ"
+          ],
+          "answer": 1,
+          "explain": "Cần xác định bản chất miễn dịch của cả 2 dòng và tủy xương để loại trừ bệnh ác tính (tủy đồ thường thấy mẫu tiểu cầu tăng)."
+        },
+        {
+          "q": "Lựa chọn điều trị ưu tiên nhất cho tình trạng xuất huyết cấp tính ở trẻ này là gì?",
+          "options": [
+            "A. Truyền khối tiểu cầu máy",
+            "B. Immunoglobulin tĩnh mạch (IVIG) liều cao",
+            "C. Tăng liều Corticosteroid uống",
+            "D. Truyền máu toàn phần tươi"
+          ],
+          "answer": 1,
+          "explain": "IVIG là thuốc nâng tiểu cầu nhanh và hiệu quả nhất trong các trường hợp cấp tính hoặc kháng thuốc."
+        },
+        {
+          "q": "Biến chứng nguy hiểm nhất cần theo dõi sát trong giai đoạn tiểu cầu thấp này là gì?",
+          "options": [
+            "A. Xuất huyết nội sọ",
+            "B. Suy tim cấp do thiếu máu",
+            "C. Sốc nhiễm khuẩn",
+            "D. Vàng da nhân não"
+          ],
+          "answer": 0,
+          "explain": "Tiểu cầu < 20 G/L kèm chảy máu niêm mạc có nguy cơ cao nhất là xuất huyết não gây tử vong."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 14 tuổi, đau ngón tay khi trời lạnh",
+      "body": "<b>Bệnh sử:</b> Bệnh nhi 14 tuổi, vào viện vì đau các đầu ngón tay và ngón chân khi trời lạnh. Trẻ có biểu hiện xanh xao từng đợt, mỗi khi đi học vào mùa đông thấy tay chân tím tái và đau buốt.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh, da hơi xanh, củng mạc mắt vàng nhẹ.<br><br><b>Xét nghiệm:</b> Hb 102 g/L, hồng cầu lưới 4%, Bilirubin tự do 38 μmol/L.",
+      "questions": [
+        {
+          "q": "Thể bệnh tan máu nào được nghĩ đến nhiều nhất?",
+          "options": [
+            "A. Bệnh hồng cầu hình liềm",
+            "B. Thiếu máu tan máu do kháng thể lạnh",
+            "C. Paroxysmal Nocturnal Hemoglobinuria (PNH)",
+            "D. Raynaud nguyên phát"
+          ],
+          "answer": 1,
+          "explain": "Tan máu liên quan đến nhiệt độ lạnh và triệu chứng tím đau đầu chỉ định hướng đến bệnh kháng thể lạnh."
+        },
+        {
+          "q": "Loại kháng thể chính gây nên hiện tượng tan máu trong tình huống này là gì?",
+          "options": [
+            "A. IgG bám cố định trên màng hồng cầu",
+            "B. IgM gây ngưng tập hồng cầu ở nhiệt độ thấp",
+            "C. IgA kích hoạt con đường bổ thể cổ điển",
+            "D. IgE gây vỡ tế bào Mast tại mao mạch"
+          ],
+          "answer": 1,
+          "explain": "Kháng thể IgM gây ngưng tập hồng cầu khi nhiệt độ máu giảm xuống ở các vùng ngoại vi."
+        },
+        {
+          "q": "Căn nguyên nhiễm trùng thường gặp nhất có liên quan đến bệnh nhi này là gì?",
+          "options": [
+            "A. Mycoplasma pneumoniae",
+            "B. Liên cầu khuẩn nhóm A",
+            "C. Tụ cầu vàng kháng Methicillin",
+            "D. Trực khuẩn lỵ Shigella"
+          ],
+          "answer": 0,
+          "explain": "Nhiễm Mycoplasma hoặc virus (EBV) thường kích thích tạo kháng thể lạnh thoáng qua."
+        },
+        {
+          "q": "Nguyên tắc quản lý và điều trị quan trọng nhất là gì?",
+          "options": [
+            "A. Sử dụng Corticosteroid liều cao kéo dài",
+            "B. Giữ ấm cơ thể và tránh môi trường lạnh",
+            "C. Cắt lách khi Hemoglobin dưới 70 g/L",
+            "D. Truyền máu liên tục trong mùa đông"
+          ],
+          "answer": 1,
+          "explain": "Tránh lạnh là biện pháp then chốt vì Corticosteroid ít có hiệu quả hơn so với thể kháng thể nóng."
+        },
+        {
+          "q": "Chọn câu SAI về bệnh lý này:",
+          "options": [
+            "A. Tan máu thường xảy ra ở hệ vi tuần hoàn ngoại vi",
+            "B. Bệnh thường đáp ứng rất tốt với Corticosteroid",
+            "C. Có thể thấy hiện tượng ngưng tập hồng cầu trên lam máu",
+            "D. Bổ thể C3 có thể lắng đọng trên màng hồng cầu"
+          ],
+          "answer": 1,
+          "explain": "Khác với thể kháng thể nóng, thể kháng thể lạnh thường ít đáp ứng với Corticosteroid và cắt lách."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi sơ sinh 3 ngày tuổi, vàng da tăng nhanh",
+      "body": "<b>Bệnh sử:</b> Bệnh nhi sơ sinh 3 ngày tuổi, vàng da tăng nhanh đến bàn chân. Trẻ sinh đủ tháng. Mẹ nhóm máu A, con nhóm máu A.<br><br><b>Khám lâm sàng:</b> Trẻ bú tốt, không sốt.<br><br><b>Xét nghiệm:</b> Bilirubin toàn phần 385 μmol/L, Bilirubin tự do 370 μmol/L. Hb 145 g/L, hồng cầu lưới 7,5%. Phết máu thấy có hình ảnh hồng cầu bị khuyết, nhuộm thấy thể Heinz (+).",
+      "questions": [
+        {
+          "q": "Chẩn đoán định hướng hàng đầu là gì?",
+          "options": [
+            "A. Vàng da sinh lý muộn",
+            "B. Thiếu hụt men G6PD ở trẻ sơ sinh",
+            "C. Nhiễm khuẩn huyết sơ sinh",
+            "D. Spherocytosis bẩm sinh"
+          ],
+          "answer": 1,
+          "explain": "Vàng da nặng, tan máu có thể Heinz ở trẻ không có bất đồng nhóm máu định hướng đến thiếu G6PD."
+        },
+        {
+          "q": "Xét nghiệm sàng lọc sơ sinh thường dùng để phát hiện bệnh này là gì?",
+          "options": [
+            "A. Đo hoạt độ enzyme trên giấy thấm máu khô",
+            "B. Điện di huyết sắc tố từ máu cuống rốn",
+            "C. Test Coombs trực tiếp ngay sau sinh",
+            "D. Định lượng sắt huyết thanh mẹ"
+          ],
+          "answer": 0,
+          "explain": "Sàng lọc sơ sinh bằng máu gót chân giúp phát hiện sớm để tư vấn tránh thuốc oxy hóa."
+        },
+        {
+          "q": "Tại sao trẻ sơ sinh bị thiếu hụt men này thường vàng da nặng hơn trẻ lớn?",
+          "options": [
+            "A. Do tủy xương trẻ sơ sinh không tạo được hồng cầu mới",
+            "B. Do phối hợp với tình trạng chưa trưởng thành của gan",
+            "C. Do nồng độ Vitamin K trong máu trẻ sơ sinh cao gây vỡ hồng cầu",
+            "D. Do trẻ sơ sinh có nồng độ bổ thể trong máu rất thấp"
+          ],
+          "answer": 1,
+          "explain": "Ở trẻ sơ sinh, khả năng liên hợp Bilirubin tại gan còn kém, cộng thêm tình trạng tan máu làm nồng độ Bilirubin tự do tăng vọt."
+        },
+        {
+          "q": "Chỉ định điều trị nào là cần thiết ngay lúc này cho trẻ?",
+          "options": [
+            "A. Thay máu cấp cứu",
+            "B. Chiếu đèn xanh tích cực 2 mặt",
+            "C. Truyền khối hồng cầu 10 ml/kg",
+            "D. Uống sắt và Vitamin C"
+          ],
+          "answer": 1,
+          "explain": "Mức Bilirubin 385 ở ngày 3 thường nằm trong ngưỡng chiếu đèn tích cực (cần tra bảng theo giờ tuổi cụ thể)."
+        },
+        {
+          "q": "Trong quá trình điều trị, nếu trẻ xuất hiện dấu hiệu li bì, bỏ bú, cần nghĩ đến biến chứng nào?",
+          "options": [
+            "A. Thiếu máu não cấp tính",
+            "B. Bệnh não cấp do Bilirubin",
+            "C. Nhiễm trùng bệnh viện",
+            "D. Hạ đường huyết do thiếu năng lượng"
+          ],
+          "answer": 1,
+          "explain": "Dấu hiệu li bì, bỏ bú ở trẻ vàng da nặng là biểu hiện sớm của tổn thương não do Bilirubin ngấm vào tế bào thần kinh."
+        }
+      ]
+    }
+  ]
+}
