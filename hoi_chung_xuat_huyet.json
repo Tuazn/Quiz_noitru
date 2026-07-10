@@ -1,0 +1,620 @@
+{
+  "name": "Hội chứng xuất huyết",
+  "description": "Case lâm sàng nâng cao về các bệnh lý gây xuất huyết ở trẻ em, bao gồm các trường hợp phức tạp: ITP, Hemophilia, Vitamin K, Sốt xuất huyết Dengue, Henoch-Schönlein Purpura, DIC, giảm tiểu cầu sơ sinh, xơ gan, bạch cầu cấp, và rối loạn chức năng tiểu cầu do Aspirin. Mỗi tình huống có 5 câu hỏi với giải thích chi tiết.",
+  "level": "ôn thi nội trú - nâng cao",
+  "type": "cases",
+  "category": "Nhi",
+  "subcategory": "Huyết học",
+  "cases": [
+    {
+      "title": "Trẻ gái 5 tuổi xuất huyết da sau viêm họng",
+      "body": "<b>Bệnh sử:</b> Trẻ gái 5 tuổi được mẹ đưa vào viện vì xuất hiện nhiều nốt xuất huyết ở da. Mẹ khai khoảng 1 tuần sau một đợt viêm họng nhẹ, trẻ đột ngột nổi các nốt chấm và mảng bầm tím ở hai cẳng chân, sau đó lan lên thân mình và tay, không ngứa, không đau. Sáng nay trẻ bị chảy máu cam lượng ít, tự cầm. Trẻ vẫn ăn uống, chơi bình thường, không sốt, không đau bụng hay đau khớp.<br><br><b>Tiền sử:</b> Trẻ hoàn toàn khỏe mạnh, đã tiêm chủng đầy đủ, gia đình không có ai bị bệnh máu.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh táo, thể trạng tốt. Da toàn thân có nhiều nốt xuất huyết dạng chấm (petechiae) và mảng bầm (ecchymoses) đa lứa tuổi, không đối xứng. Niêm mạc miệng có vài nốt phỏng máu. Không ghi nhận vàng da, gan lách không to, không sờ thấy hạch ngoại vi. Các cơ quan khác hoàn toàn bình thường.<br><br><b>Xét nghiệm:</b> Hemoglobin 125 g/L, Bạch cầu 8.0 G/L (thành phần bình thường), Số lượng tiểu cầu 8 G/L. Thời gian prothrombin (PT) và thời gian thromboplastin riêng phần hoạt hóa (aPTT) trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán có khả năng nhất ở trẻ này là gì?",
+          "options": [
+            "Sốt xuất huyết Dengue",
+            "Xuất huyết giảm tiểu cầu miễn dịch (ITP)",
+            "Bệnh bạch cầu cấp (Leukemia)",
+            "Ban xuất huyết Henoch-Schönlein"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh một trẻ khỏe mạnh đột ngột xuất huyết da niêm mạc với tình trạng giảm tiểu cầu đơn độc, nặng, trong khi các dòng tế bào máu khác và xét nghiệm đông máu bình thường, sau một đợt nhiễm virus là rất điển hình cho Xuất huyết giảm tiểu cầu miễn dịch (ITP)."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây ra tình trạng giảm tiểu cầu ở bệnh nhân này là gì?",
+          "options": [
+            "Tủy xương giảm sản xuất tiểu cầu do bị ức chế bởi virus",
+            "Sự phá hủy tiểu cầu ở lách do các tự kháng thể kháng tiểu cầu",
+            "Tiểu cầu bị tiêu thụ quá mức trong các cục máu đông vi thể",
+            "Tiểu cầu bị cô đặc tại gan do tăng áp lực tĩnh mạch cửa"
+          ],
+          "answer": 1,
+          "explain": "Trong ITP, hệ miễn dịch của cơ thể 'nhầm lẫn' và tạo ra các tự kháng thể (thường là IgG) chống lại các kháng nguyên trên bề mặt tiểu cầu của chính mình. Các tiểu cầu bị gắn kháng thể này sẽ bị hệ thống liên võng nội mô, đặc biệt là các đại thực bào ở lách, nhận diện và phá hủy."
+        },
+        {
+          "q": "Đặc điểm xuất huyết nào giúp định hướng nguyên nhân do rối loạn số lượng/chất lượng tiểu cầu thay vì do rối loạn các yếu tố đông máu?",
+          "options": [
+            "Xuất huyết ở các khớp lớn (tụ máu khớp)",
+            "Các mảng bầm tím lớn ở sâu trong cơ",
+            "Xuất huyết dạng chấm (petechiae) và chảy máu niêm mạc",
+            "Chảy máu kéo dài sau các chấn thương lớn"
+          ],
+          "answer": 2,
+          "explain": "Xuất huyết do tiểu cầu thường xuất hiện tự phát, ở bề mặt da (dạng chấm, mảng nhỏ) và niêm mạc (chảy máu cam, chân răng). Ngược lại, xuất huyết do rối loạn yếu tố đông máu thường là các khối máu tụ lớn, sâu trong cơ và khớp, và liên quan đến chấn thương."
+        },
+        {
+          "q": "Trong trường hợp xuất huyết nặng, đe dọa tính mạng (ví dụ: xuất huyết nội sọ), can thiệp nào là ưu tiên hàng đầu?",
+          "options": [
+            "Truyền tiểu cầu và sử dụng Globulin miễn dịch liều cao (IVIG)",
+            "Cắt lách cấp cứu",
+            "Bắt đầu ngay hóa trị liệu",
+            "Truyền huyết tương tươi đông lạnh"
+          ],
+          "answer": 0,
+          "explain": "IVIG (Intravenous Immunoglobulin) và/hoặc Corticosteroid liều cao có tác dụng phong tỏa các thụ thể Fc trên đại thực bào ở lách, ngăn cản chúng bắt giữ các tiểu cầu bị phủ kháng thể, giúp nâng số lượng tiểu cầu lên nhanh chóng. Truyền tiểu cầu được chỉ định đồng thời để cầm máu cấp cứu."
+        },
+        {
+          "q": "Yếu tố nào sau đây là chỉ điểm tiên lượng tốt, cho thấy bệnh có khả năng tự khỏi cao ở trẻ em?",
+          "options": [
+            "Số lượng tiểu cầu lúc chẩn đoán rất thấp (< 10 G/L)",
+            "Bệnh khởi phát cấp tính sau một đợt nhiễm siêu vi",
+            "Trẻ trên 10 tuổi",
+            "Bệnh đáp ứng chậm với điều trị ban đầu"
+          ],
+          "answer": 1,
+          "explain": "Khoảng 80% trẻ em bị ITP cấp tính sẽ tự khỏi bệnh trong vòng 6 tháng đến 1 năm, đặc biệt là những trẻ có bệnh sử khởi phát đột ngột sau một đợt nhiễm virus hoặc tiêm phòng. Tiên lượng ở người lớn và trẻ lớn dè dặt hơn."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ trai 2 tuổi sưng đau khớp gối sau va chạm nhẹ",
+      "body": "<b>Bệnh sử:</b> Trẻ trai 2 tuổi được đưa vào viện vì sưng đau khớp gối phải sau khi vấp ngã nhẹ. Mẹ bé kể rằng từ nhỏ trẻ rất hay bị các mảng bầm tím lớn dù chỉ va chạm nhẹ. Khoảng 6 tháng trước, trẻ bị chảy máu lợi kéo dài sau khi mọc răng. Bố mẹ không cùng huyết thống, trong gia đình bên ngoại có một người cậu ruột của mẹ cũng hay bị chảy máu và mất sớm.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh, quấy khóc vì đau. Khớp gối phải sưng to, căng bóng, nóng, hạn chế vận động. Da vùng gối có mảng bầm tím lớn. Không có chấm xuất huyết hay chảy máu niêm mạc. Các cơ quan khác bình thường.<br><br><b>Xét nghiệm:</b> Số lượng tiểu cầu bình thường, thời gian prothrombin (PT) bình thường, thời gian chảy máu bình thường. Thời gian thromboplastin riêng phần hoạt hóa (aPTT) kéo dài đáng kể (95 giây, chứng 30 giây).",
+      "questions": [
+        {
+          "q": "Chẩn đoán có khả năng nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Bệnh Von Willebrand",
+            "Xuất huyết giảm tiểu cầu miễn dịch",
+            "Bệnh Hemophilia",
+            "Thiếu Vitamin C (bệnh Scurvy)"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh một bé trai có tiền sử xuất huyết bất thường (mảng bầm lớn, tụ máu khớp) sau chấn thương nhẹ, tiền sử gia đình gợi ý di truyền liên kết giới tính, và xét nghiệm có aPTT kéo dài đơn độc là rất điển hình cho bệnh Hemophilia."
+        },
+        {
+          "q": "Xét nghiệm aPTT kéo dài đơn độc phản ánh sự thiếu hụt của các yếu tố đông máu trong con đường nào?",
+          "options": [
+            "Con đường ngoại sinh",
+            "Con đường nội sinh",
+            "Con đường chung",
+            "Rối loạn chức năng tiểu cầu"
+          ],
+          "answer": 1,
+          "explain": "aPTT dùng để khảo sát con đường đông máu nội sinh (bao gồm các yếu tố XII, XI, IX, VIII) và con đường chung. PT khảo sát con đường ngoại sinh (yếu tố VII). Khi chỉ có aPTT kéo dài, tổn thương nằm ở con đường nội sinh, gợi ý thiếu hụt yếu tố VIII hoặc IX."
+        },
+        {
+          "q": "Cơ chế di truyền của bệnh Hemophilia A và B là gì?",
+          "options": [
+            "Di truyền lặn trên nhiễm sắc thể thường",
+            "Di truyền trội trên nhiễm sắc thể thường",
+            "Di truyền lặn liên kết nhiễm sắc thể X",
+            "Di truyền trội liên kết nhiễm sắc thể X"
+          ],
+          "answer": 2,
+          "explain": "Gen sản xuất yếu tố VIII và IX đều nằm trên nhiễm sắc thể giới tính X. Do đó, bệnh di truyền lặn liên kết X. Bệnh chủ yếu biểu hiện ở nam giới (chỉ có 1 NST X). Nữ giới mang gen bệnh thường không có triệu chứng nhưng có thể truyền gen cho con trai."
+        },
+        {
+          "q": "Hướng xử trí đầu tiên và quan trọng nhất cho tình trạng tụ máu khớp cấp của trẻ là gì?",
+          "options": [
+            "Chọc hút khớp để giải áp",
+            "Bất động, chườm lạnh và truyền bổ sung yếu tố đông máu bị thiếu hụt",
+            "Dùng thuốc kháng viêm không steroid (NSAIDs) để giảm đau",
+            "Bắt đầu vật lý trị liệu ngay lập tức để tránh cứng khớp"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc điều trị là RICE (Nghỉ ngơi, Chườm lạnh, Băng ép, Nâng cao chi). Quan trọng nhất là phải thay thế ngay yếu tố đông máu bị thiếu (yếu tố VIII hoặc IX) để cầm máu, giảm đau và hạn chế tổn thương khớp. NSAIDs chống chỉ định vì làm tăng nguy cơ chảy máu."
+        },
+        {
+          "q": "Biến chứng lâu dài nguy hiểm nhất của tình trạng tụ máu khớp tái đi tái lại là gì?",
+          "options": [
+            "Nhiễm trùng khớp",
+            "Teo cơ, cứng khớp và biến dạng khớp vĩnh viễn (Bệnh khớp Hemophilia)",
+            "Tăng nguy cơ ung thư xương",
+            "Gãy xương bệnh lý"
+          ],
+          "answer": 1,
+          "explain": "Máu trong khớp gây ra phản ứng viêm màng hoạt dịch. Tình trạng viêm mạn tính và sự hiện diện của sắt sẽ phá hủy sụn khớp và xương dưới sụn, dẫn đến bệnh khớp Hemophilia với đau đớn, tàn phế và là gánh nặng chính của bệnh."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ gái 8 tuổi sốt cao 4 ngày, xuất huyết, gan to",
+      "body": "<b>Bệnh sử:</b> Trẻ gái 8 tuổi sống tại Hà Nội vào viện ngày thứ 4 của bệnh vì sốt cao và mệt mỏi. Bệnh khởi phát với sốt cao đột ngột 39-40°C, liên tục, kèm theo đau đầu, đau nhức cơ toàn thân. Trẻ ăn uống kém, có buồn nôn. Hôm nay mẹ thấy trẻ xuất hiện các chấm đỏ nhỏ ở cẳng tay và bị chảy máu cam lượng ít. Trẻ không ho, không đau bụng.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh, mệt, da xung huyết, niêm mạc họng đỏ. Mạch 110 lần/phút, nhiệt độ 38.5°C, huyết áp 100/70 mmHg. Da có nhiều chấm xuất huyết nhỏ dưới da ở cẳng tay, cẳng chân. Dấu hiệu dây thắt (tourniquet test) dương tính (25 nốt/inch²). Bụng mềm, gan to 2 cm dưới bờ sườn, ấn tức. Các cơ quan khác bình thường.<br><br><b>Xét nghiệm:</b> Hematocrit (Hct) 42% (tăng), Bạch cầu 3.5 G/L, Tiểu cầu 80 G/L. PT và aPTT bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất với bệnh cảnh của trẻ là gì?",
+          "options": [
+            "Nhiễm trùng huyết do não mô cầu",
+            "Sốt xuất huyết Dengue có dấu hiệu cảnh báo",
+            "Bệnh sởi có biến chứng xuất huyết",
+            "Xuất huyết giảm tiểu cầu miễn dịch (ITP)"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh sốt cao cấp tính, có xuất huyết (chấm, chảy máu cam, dây thắt +), giảm tiểu cầu và cô đặc máu ở một trẻ sống trong vùng dịch tễ Dengue là rất điển hình cho Sốt xuất huyết Dengue. Gan to và đau là một dấu hiệu cảnh báo (warning sign)."
+        },
+        {
+          "q": "Dấu hiệu dây thắt dương tính phản ánh rối loạn nào trong cơ chế cầm máu?",
+          "options": [
+            "Giảm số lượng yếu tố đông máu",
+            "Tăng tiêu thụ fibrinogen",
+            "Tăng tính thấm thành mạch và giảm tiểu cầu",
+            "Hoạt hóa quá mức hệ thống tiêu sợi huyết"
+          ],
+          "answer": 2,
+          "explain": "Dấu hiệu dây thắt dương tính cho thấy thành mao mạch rất mong manh, dễ vỡ dưới áp lực. Trong SXH Dengue, virus và các đáp ứng miễn dịch gây rối loạn chức năng tế bào nội mô, làm tăng tính thấm thành mạch. Kết hợp với tình trạng giảm tiểu cầu, hồng cầu dễ dàng thoát ra ngoài và tạo thành các nốt xuất huyết."
+        },
+        {
+          "q": "Cơ chế chính gây cô đặc máu (tăng Hct) và sốc trong sốt xuất huyết Dengue là gì?",
+          "options": [
+            "Mất dịch do sốt cao và nôn ói",
+            "Tăng tính thấm thành mạch do các cytokine gây ra, dẫn đến thoát huyết tương ồ ạt",
+            "Chảy máu ồ ạt vào các khoang cơ thể",
+            "Suy chức năng co bóp của cơ tim do virus"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế trung tâm của sốc Dengue là hiện tượng thoát huyết tương. Các cytokine được giải phóng ồ ạt (cơn bão cytokine) làm tăng tính thấm của các mao mạch, khiến huyết tương thoát ra khỏi lòng mạch vào các khoang kẽ và khoang thứ ba, dẫn đến cô đặc máu và giảm thể tích tuần hoàn, gây sốc."
+        },
+        {
+          "q": "Dấu hiệu nào sau đây là một 'dấu hiệu cảnh báo', cho thấy bệnh nhân có nguy cơ diễn tiến nặng thành sốc?",
+          "options": [
+            "Sốt cao liên tục",
+            "Đau đầu, đau mỏi cơ",
+            "Đau bụng vùng gan, gan to và đau, nôn nhiều",
+            "Xuất hiện chấm xuất huyết dưới da"
+          ],
+          "answer": 2,
+          "explain": "Theo WHO, các dấu hiệu cảnh báo bao gồm: vật vã, li bì, đau bụng liên tục hoặc tăng cảm giác đau, gan to > 2 cm, nôn nhiều, xuất huyết niêm mạc, và xét nghiệm có Hct tăng kèm tiểu cầu giảm nhanh. Đây là những dấu hiệu cho thấy bệnh đang bước vào giai đoạn nguy hiểm (thoát huyết tương)."
+        },
+        {
+          "q": "Can thiệp điều trị nền tảng và quan trọng nhất ở giai đoạn này là gì?",
+          "options": [
+            "Sử dụng thuốc hạ sốt Paracetamol và bù dịch bằng đường uống (Oresol)",
+            "Bắt đầu truyền dịch tĩnh mạch chống sốc ngay lập tức",
+            "Truyền tiểu cầu để nâng số lượng tiểu cầu",
+            "Dùng thuốc kháng virus đặc hiệu"
+          ],
+          "answer": 0,
+          "explain": "Ở giai đoạn này (chưa có sốc), điều trị chủ yếu là điều trị triệu chứng và theo dõi sát. Dùng Paracetamol để hạ sốt và giảm đau (chống chỉ định Aspirin/Ibuprofen). Bù dịch sớm và đầy đủ bằng đường uống với Oresol hoặc các dung dịch điện giải là cực kỳ quan trọng để chống lại tình trạng cô đặc máu."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ sơ sinh 3 ngày tuổi nôn máu, phân đen, li bì",
+      "body": "<b>Bệnh sử:</b> Trẻ sơ sinh nam 3 ngày tuổi, sinh thường tại nhà, không được tiêm gì sau sinh. Hai ngày nay trẻ bú kém, da xanh. Hôm nay mẹ thấy trẻ nôn ra máu và đi ngoài phân đen. Trẻ được đưa vào bệnh viện huyện.<br><br><b>Khám lâm sàng:</b> Trẻ li bì, da xanh tái, có các mảng bầm tím lớn ở lưng và chi. Khám thấy thóp trước phồng nhẹ, có dấu hiệu co giật cục bộ ở tay phải. Không sốt. Các cơ quan khác bình thường.<br><br><b>Xét nghiệm:</b> Số lượng tiểu cầu bình thường. PT và aPTT đều kéo dài rất nặng. Siêu âm qua thóp cho thấy hình ảnh xuất huyết não.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất với tình trạng của trẻ là gì?",
+          "options": [
+            "Nhiễm trùng huyết sơ sinh gây đông máu nội mạch lan tỏa",
+            "Hemophilia bẩm sinh",
+            "Xuất huyết do thiếu Vitamin K muộn",
+            "Bệnh gan sơ sinh"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh xuất huyết nặng ở nhiều nơi (tiêu hóa, da, đặc biệt là nội sọ) ở một trẻ sơ sinh vài ngày tuổi không được dự phòng sau sinh, với xét nghiệm đông máu có cả PT và aPTT kéo dài là kinh điển của xuất huyết não-màng não do thiếu vitamin K."
+        },
+        {
+          "q": "Vitamin K có vai trò gì trong quá trình đông máu?",
+          "options": [
+            "Hoạt hóa trực tiếp Fibrinogen thành Fibrin",
+            "Là một đồng yếu tố (co-factor) cho enzyme gamma-glutamyl carboxylase ở gan",
+            "Giúp tiểu cầu kết dính vào lớp dưới nội mô bị tổn thương",
+            "Ức chế hệ thống tiêu sợi huyết"
+          ],
+          "answer": 1,
+          "explain": "Vitamin K cần thiết cho quá trình carboxyl hóa gốc acid glutamic trên các tiền chất của các yếu tố đông máu phụ thuộc vitamin K (II, VII, IX, X). Quá trình này giúp các yếu tố đông máu có khả năng gắn ion Canxi và hoạt động được trên bề mặt phospholipid."
+        },
+        {
+          "q": "Cơ chế nào giải thích tại sao trẻ sơ sinh, đặc biệt là trẻ bú mẹ, lại có nguy cơ cao bị thiếu Vitamin K?",
+          "options": [
+            "Sữa mẹ chứa rất ít Vitamin K",
+            "Hệ vi khuẩn đường ruột của trẻ sơ sinh chưa phát triển để tự tổng hợp Vitamin K",
+            "Gan của trẻ chưa trưởng thành, dự trữ Vitamin K kém và chức năng tổng hợp yếu tố đông máu còn hạn chế",
+            "Tất cả các lý do trên"
+          ],
+          "answer": 3,
+          "explain": "Trẻ sơ sinh có nguy cơ thiếu Vitamin K 'sinh lý' do cả 3 yếu tố: vận chuyển Vitamin K qua nhau thai rất kém, sữa mẹ nghèo Vitamin K, và hệ vi khuẩn ruột chưa có khả năng tổng hợp đủ Vitamin K2."
+        },
+        {
+          "q": "Can thiệp điều trị nào là cấp thiết nhất để cứu sống bệnh nhân này?",
+          "options": [
+            "Truyền khối hồng cầu",
+            "Chiếu đèn điều trị vàng da",
+            "Tiêm Vitamin K và truyền huyết tương tươi đông lạnh",
+            "Dùng thuốc chống co giật (Phenobarbital)"
+          ],
+          "answer": 2,
+          "explain": "Cần phải điều trị song song: (1) Tiêm Vitamin K (tĩnh mạch chậm) để gan có nguyên liệu sản xuất các yếu tố đông máu mới. (2) Truyền huyết tương tươi đông lạnh (FFP) để cung cấp ngay lập tức các yếu tố đông máu đã được hoạt hóa, giúp cầm máu cấp cứu trong khi chờ Vitamin K phát huy tác dụng."
+        },
+        {
+          "q": "Biện pháp dự phòng hiệu quả nhất để ngăn ngừa bệnh này là gì?",
+          "options": [
+            "Bổ sung Vitamin K cho bà mẹ trong tháng cuối thai kỳ",
+            "Tiêm bắp một liều Vitamin K1 cho tất cả trẻ sơ sinh ngay sau sinh",
+            "Cho trẻ bú sữa công thức thay vì sữa mẹ",
+            "Cho trẻ uống Vitamin K hàng ngày trong 6 tháng đầu"
+          ],
+          "answer": 1,
+          "explain": "Tiêm bắp 1mg Vitamin K1 cho mọi trẻ sơ sinh ngay sau khi sinh là một biện pháp dự phòng cực kỳ hiệu quả, an toàn và rẻ tiền, đã được chứng minh làm giảm gần như hoàn toàn tỷ lệ mắc bệnh xuất huyết do thiếu vitamin K."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ gái 6 tuổi ban xuất huyết chi dưới, đau khớp, đau bụng",
+      "body": "<b>Bệnh sử:</b> Trẻ gái 6 tuổi vào viện vì nổi ban ở chân và đau khớp. Bệnh khởi phát 3 ngày sau một đợt viêm họng, trẻ đột ngột xuất hiện các nốt ban đỏ, gồ trên mặt da, không ngứa, tập trung chủ yếu ở mặt duỗi hai cẳng chân, quanh mắt cá và mông. Ban có thể ấn không mất màu. Kèm theo trẻ có sưng đau khớp gối và cổ chân hai bên, đi lại khó khăn. Trẻ cũng than đau bụng quặn từng cơn quanh rốn. Không sốt.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh, đi khập khiễng. Da hai cẳng chân và mông có nhiều nốt xuất huyết dạng sẩn gồ, kích thước không đều, đối xứng hai bên. Khớp gối và cổ chân sưng nhẹ, ấm, ấn đau. Bụng mềm, ấn đau nhẹ quanh rốn. Các cơ quan khác bình thường.<br><br><b>Xét nghiệm:</b> Số lượng tiểu cầu, PT, aPTT hoàn toàn bình thường. Tổng phân tích nước tiểu có Hồng cầu 1+.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất với bệnh cảnh của trẻ là gì?",
+          "options": [
+            "Viêm mạch do IgA (Ban xuất huyết Henoch-Schönlein - HSP)",
+            "Nhiễm trùng huyết do não mô cầu",
+            "Xuất huyết giảm tiểu cầu miễn dịch (ITP)",
+            "Phản ứng thuốc gây xuất huyết"
+          ],
+          "answer": 0,
+          "explain": "Bệnh cảnh một trẻ có biểu hiện đồng thời ban xuất huyết đặc trưng ở chi dưới, viêm khớp, đau bụng, sau một đợt nhiễm trùng hô hấp, với số lượng tiểu cầu và đông máu bình thường là rất điển hình cho Viêm mạch IgA, hay HSP."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của loại xuất huyết trong bệnh này là gì?",
+          "options": [
+            "Giảm số lượng tiểu cầu làm suy yếu thành mạch",
+            "Viêm các mạch máu nhỏ (mao mạch, tiểu động mạch, tiểu tĩnh mạch) qua trung gian phức hợp miễn dịch",
+            "Thiếu hụt các yếu tố đông máu di truyền",
+            "Tăng áp lực thủy tĩnh trong các mao mạch ở chi dưới"
+          ],
+          "answer": 1,
+          "explain": "HSP là một bệnh viêm mạch hệ thống. Cơ chế là do sự lắng đọng của các phức hợp miễn dịch chứa IgA tại thành các mạch máu nhỏ ở da, khớp, ruột và thận, gây ra phản ứng viêm, tổn thương thành mạch, tăng tính thấm và gây thoát hồng cầu ra ngoài."
+        },
+        {
+          "q": "Đặc điểm 'kinh điển' của ban xuất huyết trong HSP là gì?",
+          "options": [
+            "Ban dạng chấm, phẳng, không sờ thấy được",
+            "Các mảng bầm tím lớn, không đối xứng",
+            "Ban dạng sẩn gồ trên da, có thể sờ thấy được (palpable purpura)",
+            "Ban xuất huyết kèm theo bọng nước và hoại tử"
+          ],
+          "answer": 2,
+          "explain": "Vì bản chất là viêm mạch (vasculitis) nên tổn thương da không chỉ là xuất huyết đơn thuần mà còn có yếu tố viêm, làm cho các nốt ban gồ lên trên mặt da, có thể sờ thấy được. Đây là đặc điểm quan trọng để phân biệt với ban do giảm tiểu cầu (thường phẳng)."
+        },
+        {
+          "q": "'Tứ chứng kinh điển' của HSP bao gồm những gì?",
+          "options": [
+            "Sốt, phát ban, ho, chảy mũi",
+            "Ban xuất huyết, đau khớp, đau bụng và tổn thương thận",
+            "Giảm tiểu cầu, thiếu máu, suy thận cấp",
+            "Vàng da, gan to, lách to, cổ trướng"
+          ],
+          "answer": 1,
+          "explain": "Tứ chứng kinh điển của HSP bao gồm: (1) ban xuất huyết sờ thấy được (thường ở chi dưới và mông), (2) đau khớp/viêm khớp (thường ở gối, cổ chân), (3) đau bụng (có thể có xuất huyết tiêu hóa), và (4) tổn thương thận (tiểu máu, protein niệu)."
+        },
+        {
+          "q": "Biến chứng lâu dài cần được theo dõi sát nhất ở bệnh nhân HSP là gì?",
+          "options": [
+            "Viêm khớp mạn tính",
+            "Tắc ruột do xuất huyết thành ruột",
+            "Viêm cầu thận và suy thận mạn",
+            "Tái phát ban da kéo dài"
+          ],
+          "answer": 2,
+          "explain": "Viêm cầu thận là biến chứng lâu dài quan trọng nhất, có thể âm thầm tiến triển thành suy thận mạn. Các triệu chứng khác như ban, đau khớp, đau bụng đều tự khỏi hoàn toàn và không để lại di chứng. Tất cả bệnh nhân HSP cần được theo dõi nước tiểu và huyết áp định kỳ."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ trai 3 tuổi sốt cao, li bì, ban hoại tử, sốc",
+      "body": "<b>Bệnh sử:</b> Trẻ trai 3 tuổi, tiền sử khỏe mạnh, được đưa vào cấp cứu vì sốt cao, li bì và nổi ban. Bệnh khởi phát 2 ngày với sốt cao liên tục, trẻ mệt lả, bỏ ăn. Sáng nay mẹ phát hiện trẻ có nhiều mảng xuất huyết lớn, hình dạng không đều, màu tím đen, một số có vùng hoại tử trung tâm, xuất hiện rải rác toàn thân.<br><br><b>Khám lâm sàng:</b> Trẻ li bì, Glasgow 10 điểm, da tái lạnh, nổi vân tím, CRT 5 giây. Mạch 170 lần/phút, huyết áp 70/40 mmHg, nhịp thở 50 lần/phút, nhiệt độ 36.5°C (hạ thân nhiệt). Có dấu hiệu cổ cứng. Các cơ quan khác bình thường.<br><br><b>Xét nghiệm:</b> Tiểu cầu 40 G/L. Đông máu toàn bộ: PT kéo dài, aPTT kéo dài, Fibrinogen 0.5 g/L (giảm), D-dimer tăng rất cao. Bạch cầu, hemoglobin trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Tình trạng rối loạn đông máu của bệnh nhân này là gì?",
+          "options": [
+            "Xuất huyết giảm tiểu cầu miễn dịch",
+            "Đông máu nội mạch lan tỏa (DIC)",
+            "Bệnh Hemophilia A",
+            "Tác dụng phụ của thuốc chống đông"
+          ],
+          "answer": 1,
+          "explain": "DIC là một hội chứng cấp tính đặc trưng bởi sự rối loạn toàn bộ hệ thống đông máu: giảm tiểu cầu, giảm fibrinogen, kéo dài PT và aPTT, và tăng các sản phẩm thoái giáng của fibrin (D-dimer), xảy ra trên nền một bệnh lý nặng như sốc nhiễm khuẩn."
+        },
+        {
+          "q": "Cơ chế bệnh sinh cốt lõi khởi đầu cho DIC trong bệnh cảnh nhiễm trùng huyết là gì?",
+          "options": [
+            "Sự hoạt hóa hệ thống đông máu một cách ồ ạt, không kiểm soát bởi các cytokine và độc tố vi khuẩn",
+            "Ức chế tủy xương sản xuất tiểu cầu và các yếu tố đông máu",
+            "Phá hủy hàng loạt tiểu cầu ở lách do kháng thể",
+            "Tăng hoạt hóa hệ thống tiêu sợi huyết nguyên phát"
+          ],
+          "answer": 0,
+          "explain": "Trong nhiễm trùng huyết nặng, các độc tố của vi khuẩn (LPS) và các cytokine gây viêm (TNF-α, IL-1, IL-6) hoạt hóa mạnh mẽ con đường đông máu thông qua việc bộc lộ yếu tố mô và tổn thương tế bào nội mô, dẫn đến việc tạo ra Thrombin một cách hệ thống và không thể kiểm soát."
+        },
+        {
+          "q": "Tại sao bệnh nhân DIC lại có biểu hiện vừa tắc mạch vừa xuất huyết?",
+          "options": [
+            "Do sự phân bố không đều của các yếu tố đông máu trong cơ thể",
+            "Giai đoạn đầu là tắc mạch, giai đoạn sau là xuất huyết",
+            "Tắc mạch do hình thành vi huyết khối lan tỏa, và xuất huyết do tiêu thụ hết tiểu cầu và các yếu tố đông máu",
+            "Đây là hai biểu hiện của hai bệnh lý khác nhau xảy ra đồng thời"
+          ],
+          "answer": 2,
+          "explain": "DIC là một quá trình nghịch lý. Sự hoạt hóa đông máu lan tỏa dẫn đến hình thành vô số các cục máu đông nhỏ (vi huyết khối) gây tắc nghẽn vi tuần hoàn. Đồng thời, quá trình này 'tiêu thụ' hết tiểu cầu và các yếu tố đông máu. Khi cơ thể không còn đủ yếu tố để cầm máu, bệnh nhân sẽ bị chảy máu nặng."
+        },
+        {
+          "q": "Ban xuất huyết hoại tử (purpura fulminans) trong nhiễm trùng huyết do não mô cầu là biểu hiện của cơ chế nào?",
+          "options": [
+            "Tắc các vi mạch ở da do các cục huyết khối Fibrin",
+            "Phản ứng dị ứng với độc tố của vi khuẩn",
+            "Sự xâm nhập và nhân lên trực tiếp của vi khuẩn tại da",
+            "Chảy máu ồ ạt vào lớp thượng bì"
+          ],
+          "answer": 0,
+          "explain": "Ban xuất huyết hoại tử là một biểu hiện đặc trưng của DIC nặng, đặc biệt trong nhiễm não mô cầu. Nó là hậu quả của tình trạng tắc nghẽn lan tỏa các mao mạch và tiểu động mạch ở da bởi các vi huyết khối, dẫn đến thiếu máu cục bộ và hoại tử mô da."
+        },
+        {
+          "q": "Hướng điều trị nền tảng cho DIC là gì?",
+          "options": [
+            "Truyền tiểu cầu và huyết tương tươi đông lạnh liên tục",
+            "Sử dụng thuốc chống đông Heparin liều cao",
+            "Điều trị tích cực bệnh lý nền gây ra DIC (ví dụ: sốc nhiễm khuẩn)",
+            "Cắt lách cấp cứu"
+          ],
+          "answer": 2,
+          "explain": "DIC luôn là một hội chứng thứ phát. Do đó, nguyên tắc điều trị quan trọng nhất là phải tìm và điều trị tích cực nguyên nhân gốc rễ. Trong trường hợp này là hồi sức sốc nhiễm khuẩn (bù dịch, vận mạch, kháng sinh mạnh). Việc truyền các chế phẩm máu chỉ là điều trị thay thế và hỗ trợ."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ sơ sinh 2 ngày tuổi vàng da sớm, giảm tiểu cầu",
+      "body": "<b>Bệnh sử:</b> Trẻ sơ sinh đủ tháng 2 ngày tuổi có biểu hiện vàng da sớm và da xanh. Xét nghiệm công thức máu cho thấy Hb 100 g/L và số lượng tiểu cầu 30 G/L. Mẹ trẻ (25 tuổi, con so) có tiền sử xuất huyết giảm tiểu cầu miễn dịch mạn tính, đã cắt lách nhưng số lượng tiểu cầu vẫn thường xuyên ở mức thấp (khoảng 40-50 G/L) trong suốt thai kỳ.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh, bú được, không sốt. Da và niêm mạc hơi vàng. Gan lách không to. Không sờ thấy hạch ngoại vi. Các cơ quan khác bình thường.<br><br><b>Xét nghiệm:</b> Hb 100 g/L, Tiểu cầu 30 G/L, Bạch cầu bình thường. PT, aPTT bình thường. Thử Coombs âm tính.",
+      "questions": [
+        {
+          "q": "Chẩn đoán có khả năng nhất gây giảm tiểu cầu ở trẻ sơ sinh này là gì?",
+          "options": [
+            "Nhiễm trùng bào thai (TORCH)",
+            "Giảm tiểu cầu do mẹ truyền kháng thể IgG kháng tiểu cầu qua nhau thai",
+            "Suy tủy bẩm sinh (Hội chứng Fanconi)",
+            "Bất đồng nhóm máu Rh mẹ con gây tan máu và giảm tiểu cầu"
+          ],
+          "answer": 1,
+          "explain": "Ở một trẻ sơ sinh có mẹ bị ITP, nguyên nhân giảm tiểu cầu rõ ràng nhất là do các tự kháng thể IgG kháng tiểu cầu từ máu mẹ đã đi qua hàng rào nhau thai, vào tuần hoàn của con và phá hủy tiểu cầu của con."
+        },
+        {
+          "q": "Tình trạng này được phân loại là gì?",
+          "options": [
+            "Giảm tiểu cầu sơ sinh đồng miễn dịch (NAIT)",
+            "Giảm tiểu cầu sơ sinh tự miễn",
+            "Giảm tiểu cầu do nhiễm trùng",
+            "Giảm tiểu cầu do thuốc"
+          ],
+          "answer": 1,
+          "explain": "Tình trạng này được gọi là giảm tiểu cầu sơ sinh tự miễn, do trẻ bị ảnh hưởng một cách thụ động bởi bệnh tự miễn của mẹ. Điều này khác với giảm tiểu cầu sơ sinh đồng miễn dịch (NAIT)."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của giảm tiểu cầu sơ sinh đồng miễn dịch (NAIT) là gì?",
+          "options": [
+            "Mẹ có kháng thể chống lại kháng nguyên tiểu cầu của chính mình",
+            "Mẹ (HPA-1b/1b) tạo ra kháng thể chống lại kháng nguyên tiểu cầu của thai nhi (HPA-1a/1b) được thừa hưởng từ bố",
+            "Mẹ và thai nhi có bất đồng nhóm máu hệ ABO",
+            "Virus từ mẹ lây qua nhau thai và ức chế tủy xương của thai nhi"
+          ],
+          "answer": 1,
+          "explain": "NAIT tương tự như bất đồng Rh trong bệnh tan máu. Nó xảy ra khi mẹ và thai nhi có sự bất đồng về kháng nguyên tiểu cầu người (HPA). Mẹ thiếu một loại HPA phổ biến (ví dụ HPA-1a) mà thai nhi lại thừa hưởng từ bố. Hệ miễn dịch của mẹ tạo kháng thể chống lại, gây giảm tiểu cầu."
+        },
+        {
+          "q": "Diễn biến tự nhiên của tình trạng giảm tiểu cầu do mẹ truyền kháng thể là gì?",
+          "options": [
+            "Tiểu cầu sẽ tiếp tục giảm và cần điều trị suốt đời",
+            "Tiểu cầu sẽ tự hồi phục dần khi kháng thể của mẹ được đào thải hết khỏi cơ thể trẻ",
+            "Tình trạng sẽ nặng lên ở những lần mang thai sau",
+            "Thường gây ra dị tật bẩm sinh nặng ở trẻ"
+          ],
+          "answer": 1,
+          "explain": "Các kháng thể IgG của mẹ có thời gian bán hủy khoảng 3-4 tuần. Do đó, tình trạng giảm tiểu cầu ở trẻ là tạm thời. Khi các kháng thể này được giáng hóa và thải trừ hết, tủy xương của trẻ sẽ sản xuất tiểu cầu trở lại và số lượng tiểu cầu sẽ về bình thường."
+        },
+        {
+          "q": "Nguy cơ lớn nhất đối với trẻ sơ sinh bị giảm tiểu cầu nặng trong những ngày đầu sau sinh là gì?",
+          "options": [
+            "Xuất huyết nội sọ",
+            "Nhiễm trùng huyết",
+            "Vàng da nhân",
+            "Suy hô hấp"
+          ],
+          "answer": 0,
+          "explain": "Sang chấn trong quá trình sinh và sự non nớt của hệ mạch máu não khiến trẻ sơ sinh có nguy cơ rất cao bị xuất huyết nội sọ nếu có giảm tiểu cầu nặng. Đây là biến chứng đáng sợ nhất, có thể gây tử vong hoặc để lại di chứng thần kinh vĩnh viễn."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ 10 tuổi xơ gan, nôn máu, giảm tiểu cầu",
+      "body": "<b>Bệnh sử:</b> Trẻ nam 10 tuổi được chẩn đoán bệnh gan mạn tính (xơ gan) do viêm gan virus B. Trẻ nhập viện vì nôn ra máu tươi lượng nhiều.<br><br><b>Khám lâm sàng:</b> Trẻ có da vàng sậm, bụng chướng, tuần hoàn bàng hệ rõ. Da có nhiều mảng bầm tím và dấu sao mạch. Các cơ quan khác bình thường.<br><br><b>Xét nghiệm:</b> Hb 80 g/L, Tiểu cầu 60 G/L. PT kéo dài, aPTT bình thường hoặc kéo dài nhẹ. Nội soi dạ dày cấp cứu cho thấy hình ảnh giãn vỡ tĩnh mạch thực quản.",
+      "questions": [
+        {
+          "q": "Nguyên nhân chính gây ra tình trạng xuất huyết tiêu hóa ở bệnh nhân này là gì?",
+          "options": [
+            "Giảm tiểu cầu do cường lách",
+            "Giảm sản xuất các yếu tố đông máu tại gan",
+            "Tăng áp lực tĩnh mạch cửa gây giãn vỡ tĩnh mạch thực quản",
+            "Thiếu Vitamin K do giảm hấp thu"
+          ],
+          "answer": 2,
+          "explain": "Mặc dù bệnh nhân có rối loạn đông máu và giảm tiểu cầu, nhưng nguyên nhân trực tiếp gây ra chảy máu ồ ạt là vỡ các búi tĩnh mạch bị giãn ở thực quản. Đây là hậu quả của tình trạng tăng áp lực tĩnh mạch cửa, một biến chứng chính của xơ gan."
+        },
+        {
+          "q": "Cơ chế gây giảm tiểu cầu ở bệnh nhân xơ gan là gì?",
+          "options": [
+            "Ức chế tủy xương do virus viêm gan B",
+            "Tăng áp lực tĩnh mạch cửa gây ứ trệ máu ở lách, dẫn đến cường lách và tăng bắt giữ tiểu cầu",
+            "Giảm sản xuất Thrombopoietin tại gan",
+            "Cả B và C đều đúng"
+          ],
+          "answer": 3,
+          "explain": "Có hai cơ chế chính: (1) Xơ gan làm cản trở dòng máu qua gan, gây tăng áp lực tĩnh mạch cửa và ứ máu ở lách, làm lách to (cường lách) và tăng bắt giữ tiểu cầu. (2) Gan sản xuất chính Thrombopoietin, hormone kích thích tủy xương tạo tiểu cầu. Gan suy làm giảm sản xuất hormone này."
+        },
+        {
+          "q": "Tại sao xét nghiệm PT (thời gian Prothrombin) lại nhạy cảm hơn aPTT trong việc đánh giá chức năng tổng hợp của gan?",
+          "options": [
+            "Vì gan chỉ sản xuất các yếu tố của con đường ngoại sinh",
+            "Vì yếu tố VII (thuộc con đường ngoại sinh, được đo bằng PT) có thời gian bán hủy ngắn nhất",
+            "Vì xét nghiệm PT dễ thực hiện hơn aPTT",
+            "Vì các yếu tố của con đường nội sinh không bị ảnh hưởng bởi bệnh gan"
+          ],
+          "answer": 1,
+          "explain": "Gan tổng hợp hầu hết các yếu tố đông máu của cả hai con đường. Tuy nhiên, yếu tố VII có thời gian bán hủy ngắn nhất (chỉ 4-6 giờ). Do đó, khi chức năng tổng hợp của gan suy giảm, nồng độ yếu tố VII sẽ giảm trước tiên và nhanh nhất, làm cho PT kéo dài rõ rệt."
+        },
+        {
+          "q": "Dấu sao mạch (spider angioma) là biểu hiện của rối loạn nội tiết nào trong xơ gan?",
+          "options": [
+            "Tăng nồng độ Aldosterone",
+            "Tăng nồng độ Estrogen trong máu do gan giảm chuyển hóa",
+            "Giảm nồng độ Insulin",
+            "Tăng nồng độ Glucagon"
+          ],
+          "answer": 1,
+          "explain": "Gan khỏe mạnh có vai trò chuyển hóa và thải trừ hormone Estrogen. Khi gan bị xơ và suy chức năng, Estrogen không được chuyển hóa hiệu quả, tích tụ lại trong máu, gây ra các tác dụng như giãn các tiểu động mạch dưới da (tạo sao mạch)."
+        },
+        {
+          "q": "Ngoài việc xử trí cấp cứu chảy máu, điều trị lâu dài để ngăn ngừa tái phát vỡ giãn tĩnh mạch thực quản là gì?",
+          "options": [
+            "Dùng thuốc chẹn beta giao cảm không chọn lọc (Propranolol) và/hoặc thắt tĩnh mạch thực quản qua nội soi",
+            "Ghép gan",
+            "Dùng thuốc lợi tiểu liều cao",
+            "Chế độ ăn hạn chế protein nghiêm ngặt"
+          ],
+          "answer": 0,
+          "explain": "Các biện pháp làm giảm áp lực tĩnh mạch cửa là nền tảng để dự phòng chảy máu tái phát. Thuốc chẹn beta (như Propranolol, Nadolol) làm giảm cung lượng tim và gây co mạch tạng, giúp giảm áp lực. Thắt các búi giãn tĩnh mạch bằng vòng cao su qua nội soi là một biện pháp can thiệp tại chỗ hiệu quả."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ 12 tuổi bạch cầu cấp, sốt, chảy máu chân răng",
+      "body": "<b>Bệnh sử:</b> Trẻ nam 12 tuổi được chẩn đoán mắc bệnh bạch cầu cấp dòng lympho (Leukemia), đang điều trị hóa chất phác đồ tấn công. Trẻ nhập viện vì sốt cao và chảy máu chân răng.<br><br><b>Khám lâm sàng:</b> Trẻ mệt lả, da xanh, có nhiều mảng bầm tím ở những vị trí tiêm truyền. Niêm mạc miệng có loét và chảy máu rỉ rả. Không sốt chân tay lạnh. Các cơ quan khác bình thường.<br><br><b>Xét nghiệm:</b> Hb 70 g/L, Bạch cầu 0.5 G/L, Tiểu cầu 10 G/L. PT, aPTT, Fibrinogen bình thường.",
+      "questions": [
+        {
+          "q": "Nguyên nhân chính gây ra tình trạng xuất huyết ở bệnh nhân này là gì?",
+          "options": [
+            "Giảm tiểu cầu nặng do bệnh bạch cầu và ức chế tủy xương do hóa trị",
+            "Đông máu nội mạch lan tỏa (DIC) do nhiễm trùng",
+            "Sự xâm lấn của các tế bào blast vào thành mạch máu",
+            "Thiếu Vitamin K do dinh dưỡng kém"
+          ],
+          "answer": 0,
+          "explain": "Trong leukemia cấp, các tế bào blast ác tính tăng sinh và lấn át tủy xương, làm giảm sản xuất các dòng tế bào bình thường, bao gồm cả mẫu tiểu cầu. Hóa trị liệu cũng có tác dụng ức chế tủy, làm tình trạng giảm tiểu cầu nặng thêm."
+        },
+        {
+          "q": "Tình trạng giảm cả 3 dòng tế bào máu (hồng cầu, bạch cầu, tiểu cầu) được gọi là gì?",
+          "options": [
+            "Suy tủy",
+            "Rối loạn sinh tủy",
+            "Giảm toàn thể huyết cầu (pancytopenia)",
+            "Cường lách"
+          ],
+          "answer": 2,
+          "explain": "Pancytopenia là thuật ngữ mô tả sự sụt giảm của cả ba dòng tế bào máu trong máu ngoại vi. Nó có thể do nhiều nguyên nhân, trong đó suy tủy (tủy xương giảm hoặc không sản xuất tế bào) là một nguyên nhân quan trọng."
+        },
+        {
+          "q": "Ngưỡng tiểu cầu nào được coi là chỉ định để truyền dự phòng khối tiểu cầu ở một bệnh nhân ổn định, không chảy máu?",
+          "options": [
+            "< 100 G/L",
+            "< 50 G/L",
+            "< 20 G/L",
+            "< 10 G/L"
+          ],
+          "answer": 3,
+          "explain": "Theo các hướng dẫn quốc tế, ngưỡng để truyền tiểu cầu dự phòng (khi không có chảy máu hoặc không có các yếu tố nguy cơ khác như sốt, nhiễm trùng) thường là khi số lượng tiểu cầu giảm xuống dưới 10 G/L để giảm nguy cơ xuất huyết tự phát."
+        },
+        {
+          "q": "Tại sao bệnh nhân đang hóa trị liệu lại có nguy cơ cao bị sốt giảm bạch cầu hạt và nhiễm trùng huyết?",
+          "options": [
+            "Hóa chất gây tổn thương hàng rào niêm mạc (miệng, ruột), tạo đường vào cho vi khuẩn",
+            "Hóa chất ức chế tủy xương, làm giảm nghiêm trọng số lượng bạch cầu hạt trung tính",
+            "Bệnh nhân thường phải đặt các catheter tĩnh mạch trung tâm, là một nguy cơ nhiễm trùng",
+            "Tất cả các lý do trên"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân hóa trị bị tấn công từ hai phía: 'hàng rào' bị phá vỡ và 'quân đội' bị tiêu diệt. Hóa chất làm tổn thương các niêm mạc, số lượng bạch cầu hạt giảm nặng, và bệnh nhân phải đặt catheter tĩnh mạch trung tâm."
+        },
+        {
+          "q": "Ngoài truyền các chế phẩm máu, chăm sóc hỗ trợ nào là cực kỳ quan trọng để giảm nguy cơ chảy máu ở bệnh nhân giảm tiểu cầu nặng?",
+          "options": [
+            "Tránh các thủ thuật xâm lấn (tiêm bắp, chọc dò...)",
+            "Sử dụng bàn chải đánh răng mềm, tránh thức ăn cứng, sắc cạnh",
+            "Dùng thuốc làm mềm phân để tránh táo bón và rặn gắng sức",
+            "Tất cả các biện pháp trên"
+          ],
+          "answer": 3,
+          "explain": "Khi số lượng tiểu cầu rất thấp, mọi chấn thương dù nhỏ cũng có thể gây chảy máu nghiêm trọng. Do đó, việc áp dụng các biện pháp phòng ngừa là tối quan trọng, bao gồm tránh va chạm, chấn thương và các hoạt động làm tăng áp lực có thể gây vỡ các mạch máu nhỏ."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ gái 8 tuổi xuất huyết sau dùng Aspirin",
+      "body": "<b>Bệnh sử:</b> Trẻ gái 8 tuổi, tiền sử khỏe mạnh, vào viện vì xuất huyết dưới da sau khi dùng thuốc. Cách đây 5 ngày, trẻ bị sốt và đau đầu, được mẹ tự ý cho uống Aspirin. Hai ngày sau, trẻ bắt đầu xuất hiện các mảng bầm tím ở tay chân và chảy máu chân răng.<br><br><b>Khám lâm sàng:</b> Trẻ có nhiều mảng xuất huyết, không có chấm xuất huyết. Các cơ quan khác bình thường.<br><br><b>Xét nghiệm:</b> Số lượng tiểu cầu bình thường. PT bình thường. APPT bình thường. Thời gian chảy máu (phương pháp Ivy) kéo dài.",
+      "questions": [
+        {
+          "q": "Tình trạng xuất huyết của trẻ nhiều khả năng nhất là do nguyên nhân gì?",
+          "options": [
+            "Rối loạn chức năng tiểu cầu do Aspirin",
+            "Giảm tiểu cầu do Aspirin",
+            "Thiếu hụt yếu tố đông máu do Aspirin",
+            "Viêm mạch dị ứng do Aspirin"
+          ],
+          "answer": 0,
+          "explain": "Aspirin là một thuốc ức chế chức năng tiểu cầu mạnh. Bệnh cảnh xuất huyết với số lượng tiểu cầu và các xét nghiệm đông máu thông thường bình thường, nhưng thời gian chảy máu kéo dài, xảy ra sau khi dùng Aspirin là rất gợi ý đến một rối loạn chức năng tiểu cầu do thuốc."
+        },
+        {
+          "q": "Cơ chế nào giải thích tác dụng chống ngưng tập tiểu cầu của Aspirin?",
+          "options": [
+            "Ức chế cạnh tranh với Fibrinogen tại thụ thể GPIIb/IIIa",
+            "Ức chế không hồi phục enzyme Cyclooxygenase-1 (COX-1)",
+            "Tăng sản xuất Prostacyclin (PGI2) ở tế bào nội mô",
+            "Ngăn chặn sự giải phóng ADP từ các hạt đặc của tiểu cầu"
+          ],
+          "answer": 1,
+          "explain": "Aspirin acetyl hóa một cách không hồi phục một gốc serine tại trung tâm hoạt động của enzyme COX-1 trong tiểu cầu. Enzyme này cần thiết để chuyển hóa acid arachidonic thành Thromboxane A2 (TXA2). Việc ức chế sản xuất TXA2 sẽ làm giảm đáng kể khả năng ngưng tập của tiểu cầu."
+        },
+        {
+          "q": "Tại sao tác dụng của Aspirin trên tiểu cầu lại kéo dài trong suốt đời sống của tiểu cầu?",
+          "options": [
+            "Vì Aspirin có thời gian bán hủy rất dài trong huyết tương",
+            "Vì tiểu cầu không có nhân nên không thể tổng hợp lại enzyme COX-1 mới",
+            "Vì Aspirin gắn vào DNA của tế bào gốc tủy xương",
+            "Vì tác dụng này được khuếch đại bởi các yếu tố khác trong máu"
+          ],
+          "answer": 1,
+          "explain": "Vì tiểu cầu là những mảnh tế bào không có nhân, chúng không có khả năng tổng hợp protein mới. Một khi enzyme COX-1 của chúng đã bị Aspirin bất hoạt, nó sẽ bị bất hoạt vĩnh viễn. Chức năng tiểu cầu chỉ có thể được phục hồi khi tủy xương sản xuất ra một lứa tiểu cầu mới, do đó kéo dài 7-10 ngày."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây dùng để đánh giá chuyên sâu chức năng ngưng tập của tiểu cầu?",
+          "options": [
+            "Đếm số lượng tiểu cầu",
+            "Đo nồng độ yếu tố Von Willebrand",
+            "Máy đo độ ngưng tập tiểu cầu (Platelet aggregometry)",
+            "Phân tích gen di truyền"
+          ],
+          "answer": 2,
+          "explain": "Máy đo độ ngưng tập tiểu cầu là xét nghiệm chuyên biệt, cho phép đánh giá khả năng của tiểu cầu ngưng tập lại với nhau khi được kích thích bởi các chất chủ vận khác nhau. Trong trường hợp ngộ độc Aspirin, tiểu cầu sẽ không ngưng tập với acid arachidonic."
+        },
+        {
+          "q": "Hướng xử trí cho tình trạng này là gì?",
+          "options": [
+            "Truyền tiểu cầu ngay lập tức",
+            "Dùng Vitamin K để đối kháng tác dụng của Aspirin",
+            "Ngưng Aspirin và theo dõi, chỉ can thiệp khi có chảy máu nặng",
+            "Dùng Desmopressin (DDAVP) để kích thích giải phóng yếu tố Von Willebrand"
+          ],
+          "answer": 2,
+          "explain": "Tình trạng này thường nhẹ và tự giới hạn. Điều quan trọng nhất là ngưng ngay lập tức tác nhân gây bệnh (Aspirin). Chức năng tiểu cầu sẽ dần được phục hồi khi các tiểu cầu mới được tạo ra. Truyền tiểu cầu chỉ được chỉ định trong trường hợp có chảy máu nghiêm trọng, không kiểm soát được."
+        }
+      ]
+    }
+  ]
+}
