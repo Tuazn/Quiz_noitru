@@ -1,0 +1,624 @@
+{
+  "name": "Giãn đại tràng bẩm sinh (Hirschsprung)",
+  "description": "Bộ 7 tình huống lâm sàng về bệnh giãn đại tràng bẩm sinh (Hirschsprung) với tổng cộng 34 câu hỏi lâm sàng. Bao gồm các vignette chẩn đoán kinh điển (trẻ sơ sinh, trẻ lớn), biến chứng cấp tính (HAEC), chẩn đoán phân biệt, phẫu thuật và theo dõi sau mổ. Phù hợp ôn thi nội trú chuyên ngành ngoại khoa và ngoại khoa nhi.",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nhi",
+  "subcategory": "Ngoại",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam sơ sinh 36 giờ tuổi, chậm phân su và nôn dịch xanh",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam sơ sinh 36 giờ tuổi, con lần 1, sinh thường đủ tháng, cân nặng 3200g, nhập viện vì chưa đi phân su và nôn trớ. Bệnh sử ghi nhận trẻ bỏ bú, nôn ra dịch màu xanh rêu sau sinh 24 giờ.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh, môi hồng, SpO₂ 96% khí trời, nhiệt độ 37°C. Bụng chướng căng, gõ vang, nhìn thấy quai ruột nổi. Vùng hậu môn bình thường, không dò, lỗ hậu môn đúng vị trí. Thăm trực tràng bằng ngón út thấy bóng trực tràng rỗng, trương lực cơ thắt hậu môn tăng nhẹ, khi rút tay ra thấy nhiều phân su và hơi xì ra mạnh (dấu hiệu tháo cống dương tính), sau đó bụng xẹp bớt.<br><br><b>Xét nghiệm:</b> Na⁺ 138 mmol/L, K⁺ 4.2 mmol/L, Creatinin 45 μmol/L. Siêu âm bụng thấy các quai ruột giãn chứa dịch và khí, không thấy dịch tự do ổ bụng, không thấy hình ảnh tắc ruột cơ học do xoắn.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Tắc ruột phân su",
+            "Teo ruột non",
+            "Giãn đại tràng bẩm sinh (Hirschsprung)",
+            "Hậu môn màng ngăn"
+          ],
+          "answer": 2,
+          "explain": "Dựa trên tam chứng tắc ruột sơ sinh thấp: chậm phân su > 24h, nôn dịch mật, bụng chướng. Đặc biệt dấu hiệu tháo cống (+) và bóng trực tràng rỗng là dấu hiệu kinh điển của Hirschsprung."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính của bệnh lý này là gì?",
+          "options": [
+            "Sự thất bại của tế bào hạch thần kinh di cư từ mào thần kinh đến đám rối myenteric và submucosal",
+            "Thiếu máu cục bộ đại tràng trong bào thai gây hẹp đoạn ruột",
+            "Bất thường cô đặc phân su làm tắc nghẽn lòng ruột",
+            "Rối loạn chức năng cơ trơn đại tràng do di truyền lặn"
+          ],
+          "answer": 0,
+          "explain": "Bệnh do các tế bào hạch thần kinh (ganglion cells) không di cư được từ mào thần kinh đến đoạn cuối ruột -> đoạn vô hạch co thắt không giãn -> tắc ruột cơ năng."
+        },
+        {
+          "q": "Chỉ định cận lâm sàng hình ảnh học đầu tay để định hướng chẩn đoán là gì?",
+          "options": [
+            "Chụp cắt lớp vi tính (CT) bụng",
+            "Chụp đại tràng cản quang (Barium enema)",
+            "Chụp lưu thông ruột non",
+            "MRI vùng chậu"
+          ],
+          "answer": 1,
+          "explain": "Chụp đại tràng cản quang là bước đầu tiên quan trọng để tìm vùng chuyển tiếp (transition zone) và loại trừ nguyên nhân khác."
+        },
+        {
+          "q": "Hình ảnh điển hình trên phim chụp đại tràng cản quang ở bệnh nhân này là gì?",
+          "options": [
+            "Hình ảnh ruột thừa to bất thường",
+            "Hình ảnh \"dấu chấm hỏi\" (?) của toàn bộ đại tràng",
+            "Đoạn trực tràng giãn to và đoạn đại tràng sigma hẹp nhỏ",
+            "Đoạn trực tràng - sigma hẹp nhỏ, đoạn đại tràng phía trên giãn to, có vùng chuyển tiếp hình phễu"
+          ],
+          "answer": 3,
+          "explain": "Dấu hiệu kinh điển: Trực tràng teo nhỏ/co thắt (đoạn vô hạch) -> Vùng chuyển tiếp mở rộng dần như hình cái phễu -> Đại tràng giãn to bạt ngàn (đoạn có hạch)."
+        },
+        {
+          "q": "Xét nghiệm \"tiêu chuẩn vàng\" để chẩn đoán xác định bệnh lý này là gì?",
+          "options": [
+            "Đo áp lực hậu môn trực tràng (Anorectal manometry)",
+            "Sinh thiết trực tràng (Rectal biopsy)",
+            "Nhuộm hoá mô miễn dịch Calretinin trên mẫu phân",
+            "Xét nghiệm gen RET"
+          ],
+          "answer": 1,
+          "explain": "Sinh thiết trực tràng (bằng cách hút hoặc sinh thiết qua thành) lấy mẫu mô để soi dưới kính hiển vi, tìm sự vắng mặt của tế bào hạch thần kinh là tiêu chuẩn vàng chẩn đoán xác định."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 4 tuổi, táo bón mạn tính từ 6 tháng tuổi",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 4 tuổi được đưa đến phòng khám Tiêu hóa vì táo bón mạn tính từ khi 6 tháng tuổi. Trẻ thường đi tiêu 1 lần/tuần, phân nhỏ dẹt như ruy-băng, bụng luôn chướng nhẹ, ăn uống kém, suy dinh dưỡng (BMI 14 kg/m²). Mẹ bệnh nhân khai thường xuyên phải thụt tháo trẻ mới đi tiêu được. Tiền sử không có giai đoạn són phân (encopresis) hay dính quần.<br><br><b>Khám lâm sàng:</b> Bụng chướng bè, gõ vang, sờ thấy khối phân cứng lổn nhổn ở hố chậu trái (dấu hiệu u phân). Thăm trực tràng: Trương lực cơ thắt bình thường, bóng trực tràng rỗng tuếch, không có phân trong bóng trực tràng.<br><br><b>Xét nghiệm:</b> Bilan giáp bình thường, Ca²⁺ máu bình thường.",
+      "questions": [
+        {
+          "q": "Đặc điểm lâm sàng nào quan trọng nhất giúp phân biệt bệnh này với táo bón chức năng?",
+          "options": [
+            "Phân nhỏ dẹt",
+            "Bụng chướng",
+            "Suy dinh dưỡng",
+            "Không có hiện tượng són phân (soiling/encopresis) và bóng trực tràng rỗng"
+          ],
+          "answer": 3,
+          "explain": "Táo bón cơ năng do nín nhịn nên phân ứ đọng ngay trong bóng trực tràng, gây giãn cơ vòng và són phân. Hirschsprung phân ứ ở đại tràng trên, trực tràng thì teo hẹp, rỗng không và hiếm khi són phân."
+        },
+        {
+          "q": "Chọn tập hợp đúng về các biến chứng có thể gặp nếu không điều trị:",
+          "type": "multi",
+          "options": [
+            "Viêm ruột kết (Enterocolitis)",
+            "Thủng manh tràng",
+            "Suy dinh dưỡng, chậm phát triển",
+            "Sa trực tràng"
+          ],
+          "answer": [
+            0,
+            2
+          ],
+          "explain": "Biến chứng chính: viêm ruột (HAEC), thủng ruột (thường ở manh tràng do giãn quá mức), suy dinh dưỡng. Sa trực tràng ít gặp hơn."
+        },
+        {
+          "q": "Kết quả đo áp lực hậu môn trực tràng (Anorectal manometry) điển hình ở bệnh nhân này là gì?",
+          "options": [
+            "Mất phản xạ ức chế hậu môn trực tràng (RAIR)",
+            "Tăng cảm giác trực tràng",
+            "Giảm áp lực cơ thắt trong lúc nghỉ",
+            "Có phản xạ giãn cơ thắt trong khi làm căng bóng trực tràng"
+          ],
+          "answer": 0,
+          "explain": "RAIR (Rectoanal inhibitory reflex) là phản xạ sinh lý bình thường. RAIR âm tính (cơ thắt trong không giãn) là bằng chứng chức năng rất đáng tin cậy của Hirschsprung."
+        },
+        {
+          "q": "Phương pháp điều trị triệt để cho bệnh nhân này là:",
+          "options": [
+            "Nong hậu môn định kỳ",
+            "Chế độ ăn nhiều xơ và thuốc nhuận tràng",
+            "Phẫu thuật cắt bỏ đoạn vô hạch và nối đoạn ruột có hạch xuống ống hậu môn",
+            "Phẫu thuật làm hậu môn nhân tạo vĩnh viễn"
+          ],
+          "answer": 2,
+          "explain": "Nguyên tắc điều trị triệt để: Cắt bỏ toàn bộ đoạn ruột \"vật cản\" (đoạn vô hạch teo nhỏ và vùng chuyển tiếp hình phễu), sau đó hạ đoạn ruột có thần kinh bình thường xuống nối với rìa hậu môn để tái lập đường tiêu hóa."
+        },
+        {
+          "q": "Trong phẫu thuật Swenson, điểm mấu chốt kỹ thuật là gì?",
+          "options": [
+            "Để lại một ống cơ bao quanh niêm mạc trực tràng",
+            "Phẫu thuật để lại một túi cùng trực tràng dài",
+            "Phẫu thuật cắt bỏ toàn bộ trực tràng và đại tràng vô hạch, nối tức thì (kỹ thuật pull-through)",
+            "Chỉ cắt cơ thắt trong hậu môn"
+          ],
+          "answer": 2,
+          "explain": "Phẫu thuật Swenson: cắt bỏ toàn bộ đoạn vô hạch và trực tràng, nối đại tràng bình thường với ống hậu môn (cách rìa hậu môn ~1-2cm). Soave là để lại ống cơ; Duhamel là để lại túi cùng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 3 tháng tuổi, sốt cao, bụng chướng căng, tiêu chảy thối khẳn",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 3 tháng tuổi, tiền sử chậm phân su và táo bón đang chờ lịch mổ Hirschsprung, nhập cấp cứu vì sốt cao 39°C, li bì, bỏ bú. Mẹ khai trẻ đột ngột tiêu chảy phân lỏng toé nước, mùi rất hôi thối, bụng chướng căng tăng lên nhanh chóng.<br><br><b>Khám lâm sàng:</b> Mạch 160 l/p, HA 70/40 mmHg (sốc), da tái, CRT > 3s. Bụng chướng căng, ấn đau phản ứng nhẹ khắp bụng, không co cứng thành bụng. Thăm trực tràng thấy phân lỏng màu xám, mùi thối khẳn trào ra ồ ạt.<br><br><b>Xét nghiệm:</b> X-quang bụng không sửa soạn thấy hình ảnh các quai ruột giãn hơi và mức nước hơi, thành ruột dày, hình răng cưa (saw-tooth appearance). Bạch cầu 25 G/L, CRP 150 mg/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán biến chứng nguy hiểm nhất đang xảy ra ở bệnh nhân này là gì?",
+          "options": [
+            "Thủng tạng rỗng",
+            "Viêm ruột kết kết hợp Hirschsprung (HAEC)",
+            "Lồng ruột cấp",
+            "Viêm dạ dày ruột cấp do Rotavirus"
+          ],
+          "answer": 1,
+          "explain": "HAEC (Hirschsprung-associated enterocolitis) là biến chứng gây tử vong hàng đầu. Tam chứng: sốt, bụng chướng, tiêu chảy thối khẳn (explosive foul-smelling diarrhea)."
+        },
+        {
+          "q": "Xử trí ưu tiên hàng đầu NGAY LẬP TỨC cho bệnh nhân này là gì?",
+          "options": [
+            "Phẫu thuật cấp cứu cắt đoạn đại tràng",
+            "Hồi sức chống sốc (dịch truyền), kháng sinh phổ rộng và giảm áp đại tràng (đặt ống thông trực tràng/thụt tháo nhẹ nhàng)",
+            "Cho uống thuốc cầm tiêu chảy và hạ sốt",
+            "Chụp CT bụng cản quang để tìm nguyên nhân"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc ABC: Chống sốc + Kháng sinh + Giải áp (decompression) bằng ống thông to qua hậu môn là quan trọng nhất để cứu sống, mổ cấp cứu khi bệnh nhân sốc là nguy cơ tử vong rất cao."
+        },
+        {
+          "q": "Trong tình huống này, xét nghiệm hoặc thủ thuật nào sau đây là CHỐNG CHỈ ĐỊNH (hoặc cần hết sức thận trọng)?",
+          "options": [
+            "Chụp X-quang bụng không chuẩn bị",
+            "Lấy khí máu động mạch",
+            "Chụp đại tràng cản quang (Barium enema)",
+            "Đặt sonde dạ dày"
+          ],
+          "answer": 2,
+          "explain": "Bơm thuốc cản quang áp lực cao khi đang viêm ruột hoại tử có nguy cơ gây thủng ruột -> viêm phúc mạc."
+        },
+        {
+          "q": "Nguyên nhân chính dẫn đến biến chứng này là:",
+          "options": [
+            "Do nhiễm khuẩn bệnh viện sau khi thăm khám",
+            "Ứ đọng phân gây tăng sinh vi khuẩn, thay đổi mucin và tổn thương hàng rào niêm mạc ruột",
+            "Do dùng thuốc nhuận tràng quá liều",
+            "Do thiếu hụt vitamin K"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế HAEC: ứ đọng phân (stasis) -> tăng sinh vi khuẩn (bacterial overgrowth) -> xâm nhập niêm mạc."
+        },
+        {
+          "q": "Loại kháng sinh nào phù hợp nhất để khởi đầu điều trị theo kinh nghiệm?",
+          "options": [
+            "Chỉ dùng Amoxicillin uống",
+            "Kháng sinh phổ rộng đường tĩnh mạch bao phủ Gram âm và kỵ khí (ví dụ: Cephalosporin thế hệ 3 + Metronidazole)",
+            "Chỉ dùng Vancomycin tĩnh mạch",
+            "Macrolide (Azithromycin)"
+          ],
+          "answer": 1,
+          "explain": "Cần bao phủ vi khuẩn đường ruột (Gram âm: E.coli, Klebsiella...) và Kỵ khí (Clostridium, Bacteroides...). Metronidazole đặc biệt quan trọng cho kỵ khí."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ sơ sinh 10 ngày tuổi, sinh non, chưa đi phân su sau 48h",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 10 ngày tuổi, sinh non 35 tuần, cân nặng 2400g. Trẻ chưa đi phân su sau 48h, bụng chướng dần. Đặt sonde dạ dày ra dịch xanh rêu. Đã được chụp X-quang bụng đứng thấy hình ảnh tắc ruột thấp, không có hơi tự do.<br><br><b>Chẩn đoán hình ảnh:</b> Chụp đại tràng cản quang (hòa tan trong nước) thấy đại tràng kích thước nhỏ (microcolon), không thấy vùng chuyển tiếp rõ rệt. Xét nghiệm gen sàng lọc bệnh xơ nang (Cystic Fibrosis) âm tính. Thăm trực tràng: bóng trực tràng nhỏ, không có phân su. Bệnh nhân được chỉ định phẫu thuật thăm dò.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phân biệt quan trọng nhất cần nghĩ tới ngoài Hirschsprung toàn bộ đại tràng là:",
+          "options": [
+            "Tắc ruột phân su (Meconium Ileus)",
+            "Teo hậu môn",
+            "Xoắn ruột",
+            "Tắc tá tràng"
+          ],
+          "answer": 0,
+          "explain": "Microcolon thường gặp trong Tắc ruột phân su (thường do CF) hoặc Teo ruột non đoạn cuối. Tuy nhiên, Hirschsprung toàn bộ đại tràng cũng có thể biểu hiện dạng này."
+        },
+        {
+          "q": "Nếu là Hirschsprung thể toàn bộ đại tràng (Total colonic aganglionosis), hình ảnh đại tràng cản quang thường là:",
+          "options": [
+            "Đại tràng giãn to toàn bộ",
+            "Đại tràng ngắn hình dấu hỏi (?) và kích thước bình thường hoặc nhỏ",
+            "Trực tràng giãn to hơn đại tràng sigma",
+            "Đại tràng sigma cuộn thành nhiều vòng"
+          ],
+          "answer": 1,
+          "explain": "Trong thể toàn bộ, không có vùng chuyển tiếp ở đại tràng, toàn bộ đại tràng không giãn -> hình ảnh \"dấu chấm hỏi\" (?) (Question mark colon)."
+        },
+        {
+          "q": "Để chẩn đoán xác định trong lúc mổ, cần thực hiện:",
+          "options": [
+            "Sinh thiết tức thì (frozen section) nhiều điểm dọc theo khung đại tràng và hồi tràng",
+            "Chỉ cần nhìn bằng mắt thường xem đoạn nào giãn",
+            "Đo chiều dài ruột non",
+            "Cắt ruột thừa làm giải phẫu bệnh"
+          ],
+          "answer": 0,
+          "explain": "Mapping (bản đồ) hạch thần kinh bằng sinh thiết tức thì là bắt buộc để xác định mức cắt/mở thông ruột."
+        },
+        {
+          "q": "Phương pháp phẫu thuật tạm thời an toàn nhất cho trẻ sơ sinh yếu, chẩn đoán chưa rõ giới hạn vùng vô hạch là:",
+          "options": [
+            "Nối ruột ngay lập tức",
+            "Mở hậu môn nhân tạo (Ileostomy hoặc Colostomy) ở vùng có hạch thần kinh được xác nhận bằng sinh thiết",
+            "Phẫu thuật Duhamel ngay",
+            "Nong hậu môn"
+          ],
+          "answer": 1,
+          "explain": "Mở thông ruột trên dòng (nơi có hạch) giúp giải áp, nuôi dưỡng trẻ lớn lên trước khi mổ triệt để. Nối ngay khi chưa rõ giới hạn rất nguy hiểm."
+        },
+        {
+          "q": "Đặc điểm giải phẫu bệnh vi thể KHÔNG PHÙ HỢP với chẩn đoán Hirschsprung:",
+          "options": [
+            "Vắng mặt tế bào hạch thần kinh ở đám rối Auerbach",
+            "Vắng mặt tế bào hạch thần kinh ở đám rối Meissner",
+            "Tăng sinh các thân thần kinh (hypertrophied nerve trunks)",
+            "Có hiện diện các tế bào hạch thần kinh (ganglion cells) nhưng số lượng ít"
+          ],
+          "answer": 3,
+          "explain": "Hirschsprung định nghĩa là VÔ HẠCH (Aganglionosis). Nếu có hạch (dù ít) thì là bệnh lý khác (loạn sản thần kinh ruột - IND), không phải Hirschsprung kinh điển."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 6 tháng tuổi, chẩn đoán xác định Hirschsprung đoạn ngắn, chuẩn bị mổ",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 6 tháng tuổi được chẩn đoán xác định Hirschsprung đoạn ngắn (rectosigmoid) bằng sinh thiết trực tràng. Hiện tại trẻ tỉnh, ăn uống được nhưng bụng chướng trung bình, tự đi tiêu khó khăn, phải thụt tháo hàng ngày 1-2 lần. Trẻ không sốt, không nôn, cân nặng tăng chậm (nằm kênh -2SD). Gia đình lo lắng muốn mổ sớm. Bác sĩ giải thích về kế hoạch điều trị.",
+      "questions": [
+        {
+          "q": "Mục tiêu chính của việc thụt tháo đại tràng (rectal irrigation) trước mổ là gì?",
+          "options": [
+            "Để nong rộng hậu môn",
+            "Để làm xẹp đại tràng giãn (giải áp), giảm viêm niêm mạc và chuẩn bị ruột sạch",
+            "Để kích thích mọc hạch thần kinh",
+            "Để điều trị khỏi bệnh hoàn toàn mà không cần mổ"
+          ],
+          "answer": 1,
+          "explain": "Thụt tháo giúp giải áp đoạn giãn, phục hồi trương lực ruột và giảm kích thước đại tràng giãn về bình thường -> thuận lợi cho mổ 1 thì, không cần làm hậu môn nhân tạo."
+        },
+        {
+          "q": "Phương pháp phẫu thuật một thì (One-stage pull-through) hiện nay thường được ưu tiên thực hiện qua đường nào cho thể đoạn ngắn?",
+          "options": [
+            "Mở bụng đường giữa trên rốn",
+            "Phẫu thuật nội soi ổ bụng hỗ trợ hoặc hoàn toàn qua đường hậu môn (Transanal endorectal pull-through - TEPT)",
+            "Đường rạch Pfannenstiel",
+            "Đường rạch ngang hông"
+          ],
+          "answer": 1,
+          "explain": "TEPT hoặc Laparoscopic-assisted TEPT là xu hướng hiện nay cho thẩm mỹ cao, ít đau, hồi phục nhanh."
+        },
+        {
+          "q": "Nguyên tắc của phẫu thuật TEPT (Transanal Endorectal Pull-Through) là:",
+          "options": [
+            "Bóc tách niêm mạc trực tràng qua ngả hậu môn, kéo đại tràng có hạch xuống nối ống hậu môn",
+            "Cắt bỏ trực tràng qua đường bụng rồi nối",
+            "Giữ lại toàn bộ thành trực tràng, chỉ cắt niêm mạc đoạn trên",
+            "Mở cơ thắt trong qua đường bên"
+          ],
+          "answer": 0,
+          "explain": "TEPT dựa trên nguyên tắc phẫu thuật Soave/Swenson nhưng tiếp cận từ dưới lên, bóc tách qua hậu môn."
+        },
+        {
+          "q": "Biến chứng sớm thường gặp nhất sau phẫu thuật pull-through là:",
+          "options": [
+            "Hẹp miệng nối",
+            "Viêm quanh miệng nối và hăm loét da quanh hậu môn",
+            "Són phân vĩnh viễn",
+            "Rối loạn cương dương"
+          ],
+          "answer": 1,
+          "explain": "Do đại tràng mới kéo xuống chưa hấp thu nước tốt + mất cơ chế kìm giữ -> phân lỏng nhiều -> hăm loét (perianal excoriation). Hẹp miệng nối là biến chứng muộn hơn."
+        },
+        {
+          "q": "Lời khuyên nào về chế độ chăm sóc sau mổ là SAI?",
+          "options": [
+            "Cần nong hậu môn định kỳ để tránh hẹp miệng nối",
+            "Vệ sinh vùng tầng sinh môn sạch sẽ bằng kem bảo vệ da",
+            "Sử dụng thuốc cầm tiêu chảy ngay lập tức nếu trẻ đi lỏng > 3 lần/ngày",
+            "Theo dõi dấu hiệu sốt và chướng bụng (nguy cơ viêm ruột sau mổ)"
+          ],
+          "answer": 2,
+          "explain": "Sau mổ pull-through, trẻ thường đi tiêu nhiều lần/phân lỏng. Không dùng thuốc cầm tiêu chảy ngay vì ứ đọng phân có thể gây viêm ruột (post-op HAEC). Cần dẫn lưu phân tốt."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 2 tuổi, bụng chướng rất to, khó thở, Hirschsprung muộn",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 2 tuổi, nhập viện vì bụng chướng rất to, khó thở do chướng bụng chèn ép cơ hoành. Tiền sử táo bón từ nhỏ, điều trị nội khoa không đỡ. Bệnh nhân được chẩn đoán Hirschsprung muộn.<br><br><b>Khám lâm sàng:</b> Lồng ngực di động kém, SpO₂ 94%, bụng chướng căng như mặt trống, gõ vang toàn bộ, tuần hoàn bàng hệ nổi rõ.<br><br><b>Xét nghiệm:</b> X-quang bụng: Khung đại tràng giãn rất lớn chứa đầy phân ứ đọng (fecaloma), đè đẩy cơ hoành lên cao.",
+      "questions": [
+        {
+          "q": "Trong trường hợp đại tràng giãn quá lớn (megacolon) chiếm hết ổ bụng và đè ép hô hấp, thái độ xử trí nào phù hợp nhất?",
+          "options": [
+            "Mổ ngay lập tức cắt đại tràng và nối ngay",
+            "Thụt tháo tích cực, nếu không hiệu quả hoặc suy hô hấp nặng -> Mở hậu môn nhân tạo giải áp (Colostomy)",
+            "Cho thuốc nhuận tràng liều cao",
+            "Nội soi đại tràng để lấy phân"
+          ],
+          "answer": 1,
+          "explain": "Đại tràng quá giãn, viêm dính, bệnh nhân suy hô hấp -> Không thể mổ nối ngay (nguy cơ bục miệng nối cao). Cần giải áp bằng hậu môn nhân tạo (thường là đại tràng ngang hoặc sigma cao) để chờ đại tràng co hồi."
+        },
+        {
+          "q": "Vị trí mở hậu môn nhân tạo (nếu cần) nên được thực hiện ở đâu?",
+          "options": [
+            "Ngay tại đoạn vô hạch",
+            "Tại đoạn chuyển tiếp (transition zone)",
+            "Tại đoạn đại tràng có hạch thần kinh (xác định bằng sinh thiết) ở vùng ruột chưa giãn quá mức (nếu có thể)",
+            "Tại manh tràng"
+          ],
+          "answer": 2,
+          "explain": "Phải mở ở vùng CÓ HẠCH (ganglionated) thì mới có chức năng. Mở vào vùng vô hạch sẽ vẫn tắc."
+        },
+        {
+          "q": "Nguy cơ lớn nhất khi gây mê phẫu thuật cho bệnh nhân này là:",
+          "options": [
+            "Hạ đường huyết",
+            "Trào ngược dịch dạ dày và suy hô hấp do chèn ép",
+            "Phản ứng thuốc mê",
+            "Chảy máu"
+          ],
+          "answer": 1,
+          "explain": "Bụng chướng to gây tăng áp lực ổ bụng -> nguy cơ trào ngược khi khởi mê và hạn chế hô hấp."
+        },
+        {
+          "q": "Phương pháp phẫu thuật Duhamel có đặc điểm gì khác biệt so với Swenson?",
+          "options": [
+            "Duhamel để lại một đoạn trực tràng vô hạch phía trước, nối đại tràng có hạch vào thành sau trực tràng",
+            "Duhamel cắt bỏ hoàn toàn trực tràng",
+            "Duhamel bóc tách niêm mạc trực tràng",
+            "Duhamel không cần dùng máy khâu nối (stapler)"
+          ],
+          "answer": 0,
+          "explain": "Duhamel: Bảo tồn trực tràng vô hạch (làm túi cùng trước), kéo đại tràng xuống sau trực tràng, kẹp/bấm máy làm thông thương 2 lòng -> tạo thành 1 lòng ruột to hơn. Swenson là cắt bỏ."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây giúp đánh giá độ dài đoạn vô hạch trước mổ tốt nhất?",
+          "options": [
+            "Siêu âm bụng",
+            "X-quang bụng không chuẩn bị",
+            "Chụp đại tràng cản quang (có thể thấy vùng chuyển tiếp)",
+            "Nội soi đại tràng"
+          ],
+          "answer": 2,
+          "explain": "Chụp cản quang tìm thấy nón chuyển tiếp (cone of transition) giúp ước lượng đoạn vô hạch (tuy nhiên chính xác nhất vẫn là sinh thiết tức thì trong mổ)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 5 tuổi, táo bón tái phát sau phẫu thuật Hirschsprung",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 5 tuổi, đã được phẫu thuật điều trị Hirschsprung cách đây 3 năm bằng phương pháp Soave. Gần đây bệnh nhân xuất hiện táo bón trở lại, bụng chướng dần, thỉnh thoảng có vết phân dính quần (són phân).<br><br><b>Khám lâm sàng:</b> Thăm trực tràng thấy cơ vòng hậu môn chặt, bóng trực tràng có phân. Nội soi đại tràng thấy hẹp nhẹ miệng nối cách rìa hậu môn 3cm.",
+      "questions": [
+        {
+          "q": "Nguyên nhân thường gặp nhất gây táo bón tái phát sau mổ Hirschsprung LÀ GÌ, TRỪ:",
+          "options": [
+            "Hẹp miệng nối",
+            "Sót đoạn vô hạch (đoạn cắt chưa đủ cao)",
+            "Rối loạn chức năng cơ thắt trong (Co thắt cơ thắt - Achalasia)",
+            "Do bệnh nhân ăn quá nhiều chất xơ"
+          ],
+          "answer": 3,
+          "explain": "Ăn nhiều xơ thường giúp giảm táo bón. Nguyên nhân thực thể: Hẹp, Sót đoạn vô hạch, Rối loạn cơ thắt, hoặc Phình đại tràng mắc phải (Acquired megacolon) do thói quen giữ phân."
+        },
+        {
+          "q": "Phương pháp điều trị bảo tồn đầu tiên cho hẹp miệng nối nhẹ là:",
+          "options": [
+            "Mổ lại ngay lập tức",
+            "Nong hậu môn (Anal dilatation)",
+            "Tiêm Botulinum toxin",
+            "Chạy điện kích thích"
+          ],
+          "answer": 1,
+          "explain": "Hẹp nhẹ thường đáp ứng tốt với nong hậu môn bằng que nong (Hegar) tăng dần kích thước."
+        },
+        {
+          "q": "Nếu nguyên nhân là tăng trương lực cơ thắt trong (Internal sphincter achalasia), phương pháp điều trị hiệu quả ít xâm lấn là:",
+          "options": [
+            "Tiêm Botulinum toxin vào cơ thắt trong",
+            "Cắt lại đoạn ruột",
+            "Mở hậu môn nhân tạo",
+            "Dùng thuốc nhuận tràng kích thích"
+          ],
+          "answer": 0,
+          "explain": "Botox làm liệt cơ thắt tạm thời, giúp giãn cơ -> giải quyết triệu chứng. Nếu tái phát nhiều lần có thể cắt cơ thắt (Sphincterotomy/Myectomy)."
+        },
+        {
+          "q": "Biến chứng viêm ruột (Enterocolitis) sau mổ Hirschsprung:",
+          "options": [
+            "Không bao giờ xảy ra",
+            "Vẫn có thể xảy ra, tỉ lệ 10-30%, cần cảnh giác",
+            "Chỉ xảy ra trong 1 tuần đầu sau mổ",
+            "Do vi khuẩn Helicobacter pylori"
+          ],
+          "answer": 1,
+          "explain": "Post-op HAEC vẫn là nguy cơ lớn, đặc biệt nếu còn tắc nghẽn dòng ra."
+        },
+        {
+          "q": "Theo dõi lâu dài bệnh nhân sau mổ cần chú ý vấn đề gì về tiết niệu/sinh dục (đặc biệt với phẫu thuật Swenson)?",
+          "options": [
+            "Sỏi thận",
+            "Rối loạn tiểu tiện (bí tiểu, tiểu không tự chủ) và rối loạn cương dương do tổn thương thần kinh vùng chậu",
+            "Nhiễm trùng tiểu",
+            "Suy thận mạn"
+          ],
+          "answer": 1,
+          "explain": "Phẫu thuật bóc tách sâu vùng chậu (như Swenson cổ điển) có nguy cơ tổn thương đám rối hạ vị/vùng chậu -> ảnh hưởng bàng quang và chức năng sinh dục nam."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân sơ sinh 1 ngày tuổi, tắc ruột với thủng manh tràng",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân sơ sinh 1 ngày tuổi được chuyển từ bệnh viện tuyến dưới với chẩn đoán tắc ruột. Trẻ nôn dịch xanh, bụng chướng.<br><br><b>Chẩn đoán hình ảnh:</b> X-quang bụng có liềm hơi dưới hoành (thủng tạng rỗng).<br><br><b>Phẫu thuật cấp cứu:</b> Mở bụng thấy ổ bụng nhiều dịch phân su và dịch tiêu hóa, một lỗ thủng ở manh tràng, đoạn đại tràng sigma và trực tràng kích thước nhỏ, đoạn khung đại tràng trên sigma giãn nhẹ.",
+      "questions": [
+        {
+          "q": "Nguyên nhân gây thủng manh tràng ở bệnh nhân này khả năng cao nhất là:",
+          "options": [
+            "Viêm ruột thừa vỡ",
+            "Thủng do giãn căng quá mức (theo định luật Laplace) thứ phát sau tắc nghẽn phía dưới do Hirschsprung",
+            "Thủng dạ dày",
+            "Chấn thương sản khoa"
+          ],
+          "answer": 1,
+          "explain": "Trong tắc ruột thấp (như Hirschsprung), áp lực dội ngược lên. Manh tràng là nơi có đường kính lớn nhất -> chịu sức căng lớn nhất (Laplace: T = P x R) -> dễ vỡ (diastatic perforation)."
+        },
+        {
+          "q": "Xử trí phẫu thuật tối ưu trong tình huống cấp cứu (bụng bẩn, thủng ruột, trẻ sơ sinh) là:",
+          "options": [
+            "Khâu lỗ thủng đơn thuần",
+            "Cắt đoạn ruột thủng, đưa hai đầu ruột ra làm hậu môn nhân tạo (đưa manh tràng/hồi tràng ra da)",
+            "Thực hiện phẫu thuật Pull-through ngay lập tức",
+            "Cắt toàn bộ đại tràng"
+          ],
+          "answer": 1,
+          "explain": "Trong tình trạng viêm phúc mạc phân su/nhiễm trùng, KHÔNG ĐƯỢC nối ruột ngay. Cần đưa ruột ra da để giải áp và an toàn. Khâu lỗ thủng đơn thuần dễ bục."
+        },
+        {
+          "q": "Định luật Laplace giải thích cơ chế thủng manh tràng như thế nào?",
+          "options": [
+            "Áp lực trong lòng ống tỉ lệ nghịch với bán kính",
+            "Sức căng thành ruột (Tension) tỉ lệ thuận với Áp lực (P) x Bán kính (R). Manh tràng có bán kính lớn nhất nên chịu sức căng lớn nhất -> dễ vỡ nhất",
+            "Manh tràng có thành mỏng nhất",
+            "Do manh tràng nằm ở hố chậu phải"
+          ],
+          "answer": 1,
+          "explain": "Định luật Laplace: T = P x R (với hình trụ) hoặc P x R / 2 (hình cầu). Nơi nào R lớn nhất thì T lớn nhất."
+        },
+        {
+          "q": "Sau khi bệnh nhân ổn định, bước tiếp theo để chẩn đoán xác định Hirschsprung là:",
+          "options": [
+            "Chụp CT scanner",
+            "Sinh thiết trực tràng",
+            "Nội soi đại tràng",
+            "Xét nghiệm máu"
+          ],
+          "answer": 1,
+          "explain": "Vẫn cần sinh thiết trực tràng (khi tình trạng cho phép) để khẳng định đoạn dưới vô hạch trước khi mổ thì 2."
+        },
+        {
+          "q": "Nếu sinh thiết trực tràng cho kết quả: \"Thưa thớt hạch thần kinh, các hạch kích thước nhỏ\", chẩn đoán hướng tới là:",
+          "options": [
+            "Hirschsprung kinh điển",
+            "Loạn sản thần kinh ruột (Intestinal Neuronal Dysplasia - IND) type B",
+            "Táo bón chức năng",
+            "Lao ruột"
+          ],
+          "answer": 1,
+          "explain": "Hirschsprung là VẮNG MẶT hạch. Nếu hạch có nhưng bất thường (thưa, nhỏ, loạn sản...) thì là IND hoặc Hypoganglionosis."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 4 tuổi, són phân liên tục sau mổ Soave",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 4 tuổi, tiền sử mổ Soave điều trị Hirschsprung lúc 12 tháng tuổi. Hiện tại trẻ nhập viện vì són phân (soiling) liên tục cả ngày lẫn đêm, quần luôn dính phân lỏng, ngửi mùi hôi.<br><br><b>Khám lâm sàng:</b> Khám thấy hậu môn sẹo mổ cũ lành tốt, không hẹp, cơ thắt hậu môn lỏng lẻo. X-quang bụng không thấy ứ phân trong khung đại tràng.",
+      "questions": [
+        {
+          "q": "Triệu chứng són phân ở bệnh nhân này nhiều khả năng là do:",
+          "options": [
+            "Táo bón tái phát gây ứ phân quá mức (fecal impaction)",
+            "Tổn thương cơ thắt hoặc ống hậu môn trong quá trình phẫu thuật gây mất tự chủ (True incontinence)",
+            "Viêm ruột kết",
+            "Hẹp miệng nối"
+          ],
+          "answer": 1,
+          "explain": "X-quang không thấy ứ phân, cơ thắt lỏng lẻo -> gợi ý tổn thương cơ thắt (Incontinence) hơn là táo bón (Constipation)."
+        },
+        {
+          "q": "Để phân biệt són phân do ứ đọng (pseudoincontinence) và són phân thực sự (true incontinence), cần dựa vào:",
+          "options": [
+            "Thăm trực tràng và X-quang bụng: ứ đọng sẽ thấy khối phân lớn (u phân), són phân thực sự thì trực tràng rỗng",
+            "Màu sắc phân",
+            "Xét nghiệm máu",
+            "Siêu âm gan"
+          ],
+          "answer": 0,
+          "explain": "Són phân do táo bón (tràn đầy) thì trực tràng phải đầy phân. Són phân do mất chức năng giữ thì trực tràng thường rỗng hoặc ít phân nhưng cứ trôi ra ngoài."
+        },
+        {
+          "q": "Phương pháp biofeedback (tập phản hồi sinh học) có vai trò gì?",
+          "options": [
+            "Tập luyện sức cơ thắt và cảm giác trực tràng cho bệnh nhân",
+            "Thay thế phẫu thuật",
+            "Làm sạch ruột",
+            "Tiêu diệt vi khuẩn"
+          ],
+          "answer": 0,
+          "explain": "Biofeedback giúp trẻ nhận biết cảm giác căng trực tràng và tập co thắt cơ hậu môn đúng lúc."
+        },
+        {
+          "q": "Nếu nguyên nhân là tổn thương cơ thắt nặng nề không hồi phục, giải pháp cuối cùng có thể là:",
+          "options": [
+            "Malone antegrade continence enema (MACE) - Mở ruột thừa/manh tràng ra da để thụt xuôi dòng giữ sạch ruột",
+            "Uống thuốc cầm tiêu chảy suốt đời",
+            "Cắt bỏ toàn bộ đại tràng",
+            "Ghép ruột"
+          ],
+          "answer": 0,
+          "explain": "MACE (thụt xuôi dòng qua ruột thừa) giúp làm sạch đại tràng chủ động 1 lần/ngày -> trẻ sạch sẽ cả ngày, cải thiện chất lượng sống (social continence)."
+        },
+        {
+          "q": "Trong phẫu thuật Soave, thao tác bóc tách niêm mạc (endorectal dissection) nhằm mục đích gì?",
+          "options": [
+            "Bảo vệ các cấu trúc thần kinh cảm giác và vận động quanh trực tràng",
+            "Để cắt được nhiều ruột hơn",
+            "Để dễ nối ruột hơn",
+            "Để tránh chảy máu"
+          ],
+          "answer": 0,
+          "explain": "Kỹ thuật Soave để lại ống cơ (seromuscular cuff) bao quanh đoạn ruột kéo xuống, giúp tránh tổn thương đám rối thần kinh vùng chậu nằm sát bên ngoài thành trực tràng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 8 tuổi, đại tràng xuống giãn to",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 8 tuổi, nhập viện vì đau bụng cơn, nôn ói.<br><br><b>Tiền sử:</b> Táo bón mạn tính, dùng thuốc nhuận tràng thường xuyên. Bệnh nhân này chưa từng được chẩn đoán Hirschsprung trước đây.<br><br><b>Khám lâm sàng:</b> Bụng chướng, dấu rắn bò (+).<br><br><b>Chẩn đoán hình ảnh:</b> X-quang bụng đứng có mức nước hơi. Chụp đại tràng cản quang thấy đoạn trực tràng và sigma kích thước bình thường, nhưng đoạn đại tràng xuống giãn to.",
+      "questions": [
+        {
+          "q": "Ở trẻ lớn (late diagnosis), Hirschsprung đoạn cực ngắn (ultrashort segment) có thể bị bỏ sót trên phim chụp Barium enema vì:",
+          "options": [
+            "Đoạn vô hạch quá ngắn, hiệu ứng lò xo cơ thắt che lấp vùng chuyển tiếp",
+            "Thuốc cản quang không vào được trực tràng",
+            "Đại tràng trẻ lớn không giãn được",
+            "Do trẻ không hợp tác"
+          ],
+          "answer": 0,
+          "explain": "Đoạn cực ngắn chỉ liên quan vài cm cơ thắt trong, trên phim Barium rất khó thấy chênh lệch khẩu kính (vùng chuyển tiếp)."
+        },
+        {
+          "q": "Trong trường hợp nghi ngờ đoạn cực ngắn (ultrashort), phương pháp chẩn đoán nào có giá trị nhất?",
+          "options": [
+            "Siêu âm",
+            "Đo áp lực hậu môn trực tràng",
+            "Chụp CT",
+            "Nội soi đại tràng sigma"
+          ],
+          "answer": 1,
+          "explain": "Manometry (đo áp lực hậu môn trực tràng) rất nhạy trong trường hợp này vì phản xạ RAIR bị mất (âm tính) bất kể đoạn vô hạch dài hay ngắn."
+        },
+        {
+          "q": "Quy trình nhuộm hoá mô miễn dịch Acetylcholinesterase (AChE) trong bệnh Hirschsprung sẽ cho thấy:",
+          "options": [
+            "Giảm hoạt độ AChE ở lớp niêm mạc",
+            "Tăng mạnh hoạt độ AChE với các sợi thần kinh dày đặc ở lớp niêm mạc (muscularis mucosae) và dưới niêm mạc",
+            "Không thay đổi",
+            "Mất hoàn toàn sợi thần kinh"
+          ],
+          "answer": 1,
+          "explain": "Trong Hirschsprung, các thân thần kinh phì đại (hypertrophied nerve trunks) giải phóng nhiều AChE -> nhuộm dương tính mạnh."
+        },
+        {
+          "q": "Phẫu thuật Lynn (Sphincteromyectomy - Cắt cơ thắt/cơ trực tràng lối sau) thường được chỉ định cho:",
+          "options": [
+            "Hirschsprung toàn bộ đại tràng",
+            "Hirschsprung đoạn cực ngắn (Ultrashort segment)",
+            "Hirschsprung đoạn dài",
+            "Thất bại sau phẫu thuật Soave"
+          ],
+          "answer": 1,
+          "explain": "Với đoạn cực ngắn, chỉ cần cắt mở cơ thắt trong và một phần cơ thành trực tràng (Myectomy) để giải quyết sự co thắt là đủ, không cần pull-through phức tạp."
+        },
+        {
+          "q": "Nguyên tắc chọn vị trí lấy mẫu sinh thiết trực tràng (rectal biopsy) để tránh âm tính giả (vùng giảm hạch sinh lý):",
+          "options": [
+            "Lấy ngay tại đường lược (dentate line)",
+            "Lấy cách đường lược ít nhất 2-3 cm (trên cột Morgagni)",
+            "Lấy ở đại tràng sigma",
+            "Lấy ở rìa hậu môn"
+          ],
+          "answer": 1,
+          "explain": "Vùng 1-2cm ngay trên đường lược bình thường cũng thưa thớt hạch (hypoganglionosis zone). Sinh thiết vào đây sẽ tưởng nhầm là vô hạch > Cần lấy cao hơn (2-3cm trên đường lược)."
+        }
+      ]
+    }
+  ]
+}
