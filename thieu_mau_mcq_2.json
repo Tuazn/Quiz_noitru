@@ -1,0 +1,560 @@
+{
+  "name": "Thiếu máu MCQ",
+  "description": "50 câu hỏi trắc nghiệm toàn diện về thiếu máu bao gồm: chẩn đoán WHO, thiếu máu sinh lý, thiếu sắt, bệnh tan máu (Thalassemia, G6PD), thiếu B12/Folate, lâm sàng, cận lâm sàng, và điều trị.",
+  "level": "ôn thi nội trú",
+  "type": "mcq",
+  "category": "Nhi",
+  "subcategory": "Huyết học",
+  "questions": [
+    {
+      "q": "Theo Tổ chức Y tế Thế giới (WHO), trẻ từ 6 tháng đến 59 tháng tuổi được chẩn đoán thiếu máu khi nồng độ Hemoglobin máu dưới mức nào?",
+      "options": [
+        "100 g/L",
+        "110 g/L",
+        "115 g/L",
+        "120 g/L"
+      ],
+      "answer": 1,
+      "explain": "Ngưỡng 110 g/L là mốc kinh điển cần nhớ để chẩn đoán thiếu máu cho trẻ dưới 5 tuổi. Nguồn: WHO & Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Theo phân loại của WHO, nồng độ Hemoglobin nào dưới đây được phân loại là thiếu máu mức độ nặng ở mọi lứa tuổi trẻ em?",
+      "options": [
+        "Dưới 90 g/L",
+        "Dưới 80 g/L",
+        "Dưới 70 g/L",
+        "Dưới 60 g/L"
+      ],
+      "answer": 2,
+      "explain": "Thiếu máu nặng trên lâm sàng theo mốc chuẩn của WHO là Hb < 70 g/L. Nguồn: WHO."
+    },
+    {
+      "q": "Hiện tượng \"thiếu máu sinh lý\" ở trẻ sơ sinh thường xảy ra rõ nét nhất và chạm đáy vào khoảng thời gian nào?",
+      "options": [
+        "1 - 2 tuần tuổi",
+        "2 - 3 tháng tuổi",
+        "6 - 9 tháng tuổi",
+        "12 - 18 tháng tuổi"
+      ],
+      "answer": 1,
+      "explain": "Thiếu máu sinh lý do giảm tạo hồng cầu sau sinh thường đạt mức Hemoglobin thấp nhất vào lúc trẻ được 2-3 tháng tuổi. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Nguyên nhân dinh dưỡng gây thiếu máu phổ biến nhất ở trẻ em trên toàn cầu là gì?",
+      "options": [
+        "Thiếu acid folic",
+        "Thiếu vitamin B12",
+        "Thiếu sắt",
+        "Thiếu protein"
+      ],
+      "answer": 2,
+      "explain": "Thiếu sắt là nguyên nhân hàng đầu gây thiếu máu dinh dưỡng ở trẻ em, đặc biệt trong giai đoạn ăn dặm. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Lứa tuổi nào sau đây có nguy cơ mắc thiếu máu thiếu sắt cao nhất do sự bất tương xứng giữa nhu cầu phát triển và chế độ ăn?",
+      "options": [
+        "Sơ sinh dưới 1 tháng",
+        "Trẻ từ 6 đến 24 tháng",
+        "Trẻ mẫu giáo 3 đến 5 tuổi",
+        "Trẻ vị thành niên nam"
+      ],
+      "answer": 1,
+      "explain": "Giai đoạn 6-24 tháng là lúc lượng sắt dự trữ từ mẹ đã hết, trẻ bắt đầu ăn dặm nên rất dễ thiếu sắt nếu chế độ ăn không đủ."
+    },
+    {
+      "q": "Bệnh lý mạn tính nào sau đây là nguyên nhân di truyền phổ biến nhất gây hội chứng thiếu máu tan máu ở trẻ em Việt Nam?",
+      "options": [
+        "Bệnh hồng cầu hình liềm",
+        "Thalassemia",
+        "Bệnh Minkowski-Chauffard",
+        "Thiếu hụt men Pyruvate Kinase"
+      ],
+      "answer": 1,
+      "explain": "Thalassemia (tan máu bẩm sinh) là bệnh lý huyết học di truyền phổ biến nhất tại Việt Nam và Đông Nam Á. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Quá trình hấp thu sắt trong thức ăn diễn ra chủ yếu ở vị trí nào của đường tiêu hóa?",
+      "options": [
+        "Dạ dày",
+        "Tá tràng và đoạn trên hỗng tràng",
+        "Hồi tràng",
+        "Đại tràng lên"
+      ],
+      "answer": 1,
+      "explain": "Đây là bẫy giải phẫu kinh điển. Sắt được hấp thu tối đa ở môi trường acid nhẹ của tá tràng và phần đầu hỗng tràng."
+    },
+    {
+      "q": "Cơ chế bệnh sinh cốt lõi gây ra tình trạng thiếu máu trong bệnh Thalassemia là gì?",
+      "options": [
+        "Thiếu hụt nguyên liệu tổng hợp nhân heme",
+        "Sự mất cân bằng trong tổng hợp các chuỗi globin",
+        "Tự kháng thể phá hủy màng hồng cầu",
+        "Thiếu men chuyển hóa bảo vệ màng hồng cầu"
+      ],
+      "answer": 1,
+      "explain": "Thalassemia là bệnh lý do khiếm khuyết gen làm giảm hoặc mất tổng hợp một loại chuỗi globin, gây mất cân bằng cấu trúc huyết sắc tố."
+    },
+    {
+      "q": "Vai trò chính của Hepcidin trong cơ chế điều hòa chuyển hóa sắt của cơ thể là gì?",
+      "options": [
+        "Kích thích tế bào ruột tăng hấp thu sắt",
+        "Gắn kết với sắt tự do trong huyết tương để vận chuyển",
+        "Ức chế giải phóng sắt từ đại thực bào và tế bào ruột",
+        "Kích thích tủy xương tăng sinh hồng cầu"
+      ],
+      "answer": 2,
+      "explain": "Hepcidin là hormone \"khóa\" cửa tế bào (degrade ferroportin), ngăn không cho sắt giải phóng vào máu, gây cơ chế thiếu máu trong bệnh viêm mạn tính."
+    },
+    {
+      "q": "Nguyên nhân trực tiếp làm vỡ hồng cầu trong bệnh thiếu men G6PD là gì?",
+      "options": [
+        "Tế bào hồng cầu bị các đại thực bào lách tiêu hủy do sai lệch hình dạng",
+        "Hồng cầu không chống lại được các tác nhân gây stress oxy hóa",
+        "Thiếu năng lượng ATP làm bơm ion màng tế bào ngưng hoạt động",
+        "Rối loạn tổng hợp DNA làm hồng cầu phình to và vỡ"
+      ],
+      "answer": 1,
+      "explain": "Men G6PD giúp tạo glutathione khử bảo vệ màng hồng cầu. Thiếu men này, hồng cầu sẽ vỡ khi gặp chất oxy hóa (thuốc, đậu fava). Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Hiện tượng \"thiếu máu sinh lý\" ở trẻ nhỏ 2-3 tháng tuổi xuất phát từ cơ chế nào?",
+      "options": [
+        "Phá hủy hàng loạt hồng cầu HbF trong lách",
+        "Tủy xương chưa trưởng thành không sản xuất đủ hồng cầu",
+        "Giảm tiết erythropoietin do nồng độ oxy trong máu tăng cao sau sinh",
+        "Trẻ bú mẹ hoàn toàn không nhận đủ lượng sắt cần thiết"
+      ],
+      "answer": 2,
+      "explain": "Sau sinh, trẻ thở phổi làm oxy máu tăng mạnh, ức chế thận tiết erythropoietin, làm giảm sinh hồng cầu tạm thời tạo ra \"thiếu máu sinh lý\"."
+    },
+    {
+      "q": "Cơ chế bệnh sinh của hội chứng thiếu máu nguyên bào khổng lồ là do rối loạn quá trình nào?",
+      "options": [
+        "Tổng hợp màng lipid của hồng cầu",
+        "Tổng hợp các chuỗi polypeptid",
+        "Phân chia và tổng hợp hạt nhân tế bào",
+        "Gắn kết sắt vào vòng porphyrin"
+      ],
+      "answer": 2,
+      "explain": "Thiếu Vitamin B12 hoặc Acid folic làm suy yếu quá trình tổng hợp DNA, khiến nhân tế bào không phân chia được trong khi bào tương vẫn phình to."
+    },
+    {
+      "q": "Cơ chế nào giải thích tình trạng biến dạng xương (trán dô, mũi tẹt, gò má cao) ở trẻ mắc Thalassemia thể nặng?",
+      "options": [
+        "Lắng đọng sắt quá mức vào mô xương",
+        "Tủy xương tăng sinh phì đại để bù trừ tình trạng thiếu máu mạn tính",
+        "Rối loạn chuyển hóa canxi đi kèm bệnh lý huyết học",
+        "Sự cốt hóa sớm các sụn tăng trưởng do thiếu oxy mô"
+      ],
+      "answer": 1,
+      "explain": "Do thiếu máu mạn, cơ thể kích thích tủy xương tăng sinh dữ dội để tạo máu, làm dãn rộng khoang tủy và gây biến dạng xương xốp ở mặt."
+    },
+    {
+      "q": "Trong trường hợp thiếu máu do tan máu ngoại mạch (ví dụ tại lách), triệu chứng nào sau đây là hậu quả trực tiếp của sự giáng hóa Hemoglobin?",
+      "options": [
+        "Tiểu ra máu đại thể",
+        "Tăng bilirubin trực tiếp trong máu",
+        "Tăng bilirubin gián tiếp trong máu",
+        "Suy thận cấp do tắc ống thận"
+      ],
+      "answer": 2,
+      "explain": "Hemoglobin vỡ ngoài mạch giải phóng nhân heme, chuyển hóa thành bilirubin gián tiếp (chưa liên hợp) gây vàng da. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Triệu chứng lâm sàng sớm nhất và dễ nhận biết nhất của hội chứng thiếu máu ở trẻ em là gì?",
+      "options": [
+        "Móng tay khía hình thìa",
+        "Nhịp tim nhanh, tiếng thổi tâm thu",
+        "Da xanh xao, niêm mạc nhợt nhạt",
+        "Chậm phát triển thể chất"
+      ],
+      "answer": 2,
+      "explain": "Da xanh, niêm mạc (mắt, môi, lưỡi) nhợt là dấu hiệu sớm, kinh điển và nhạy nhất khi khám thiếu máu lâm sàng."
+    },
+    {
+      "q": "Dấu hiệu thực thể nào sau đây rất đặc hiệu cho tình trạng thiếu máu thiếu sắt mạn tính kéo dài ở trẻ?",
+      "options": [
+        "Vàng da, củng mạc mắt vàng",
+        "Móng tay bẹt hoặc lõm hình thìa, dễ gãy",
+        "Lách to qua rốn",
+        "Nốt xuất huyết dưới da dạng chấm"
+      ],
+      "answer": 1,
+      "explain": "Móng tay hình thìa là biểu hiện rối loạn dinh dưỡng móng đặc trưng do thiếu sắt mạn tính kéo dài (dù hiện nay ít gặp ở trẻ nhỏ)."
+    },
+    {
+      "q": "Biểu hiện \"hội chứng Pica\" (thèm ăn các dị vật như đất sét, giấy, gạch non) thường liên quan chặt chẽ nhất với bệnh lý nào?",
+      "options": [
+        "Thiếu máu do nhiễm giun móc",
+        "Thiếu máu thiếu sắt",
+        "Thiếu máu nguyên bào khổng lồ",
+        "Thiếu máu tan máu bẩm sinh"
+      ],
+      "answer": 1,
+      "explain": "Pica là một triệu chứng rối loạn hành vi ăn uống kinh điển, thường biến mất rất nhanh sau khi được bù đủ sắt."
+    },
+    {
+      "q": "Tam chứng lâm sàng kinh điển gợi ý một tình trạng thiếu máu do tan máu là gì?",
+      "options": [
+        "Thiếu máu, sốt cao, xuất huyết",
+        "Thiếu máu, vàng da, lách to",
+        "Thiếu máu, suy tim, phù toàn thân",
+        "Thiếu máu, vàng da, gan to"
+      ],
+      "answer": 1,
+      "explain": "Thiếu máu (do hồng cầu vỡ), vàng da (do tăng bilirubin gián tiếp), lách to (nơi tiêu hủy hồng cầu) là tam chứng kinh điển của tan máu. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Triệu chứng lâm sàng nào sau đây thường biểu hiện rầm rộ ở trẻ bị thiếu máu cấp tính hơn là thiếu máu mạn tính (cùng mức độ Hb)?",
+      "options": [
+        "Biến dạng xương mặt",
+        "Chậm phát triển chiều cao",
+        "Nhịp tim nhanh, thở nhanh, tụt huyết áp",
+        "Lách to"
+      ],
+      "answer": 2,
+      "explain": "Trong thiếu máu cấp, cơ thể chưa kịp thích nghi (bù trừ bằng tăng 2,3-DPG) nên các dấu hiệu suy tuần hoàn và hô hấp biểu hiện rất rõ ràng."
+    },
+    {
+      "q": "Trẻ bị thiếu máu kèm theo các triệu chứng thần kinh như dị cảm, thất điều, giảm phản xạ gân xương. Nguyên nhân nào sau đây cần được nghĩ tới đầu tiên?",
+      "options": [
+        "Thiếu acid folic",
+        "Thiếu vitamin B12",
+        "Thiếu sắt nặng",
+        "Thalassemia"
+      ],
+      "answer": 1,
+      "explain": "Bẫy kinh điển: Thiếu B12 và Folate đều gây thiếu máu hồng cầu to, nhưng CHỈ thiếu B12 mới gây tổn thương bao myelin dẫn đến triệu chứng thần kinh."
+    },
+    {
+      "q": "Bệnh cảnh lâm sàng điển hình của cơn tan máu cấp do thiếu men G6PD thường diễn ra như thế nào?",
+      "options": [
+        "Sốt kéo dài, lách to dần trong nhiều tháng",
+        "Xanh xao, mệt mỏi từ từ kèm xuất huyết dưới da",
+        "Đột ngột vàng da, tiểu sậm màu như nước vối sau khi dùng thuốc hoặc thức ăn có tính oxy hóa",
+        "Suy tim ứ huyết xuất hiện ngay sau khi sinh"
+      ],
+      "answer": 2,
+      "explain": "Tiểu huyết sắc tố (nước tiểu sẫm màu) và vàng da xuất hiện đột ngột sau yếu tố khởi phát (ví dụ: uống thuốc chống sốt rét) là dấu ấn của G6PD."
+    },
+    {
+      "q": "Dấu hiệu tổn thương tim mạch thường gặp nhất khi khám lâm sàng một trẻ có hội chứng thiếu máu mức độ nặng là gì?",
+      "options": [
+        "Tiếng thổi tâm trương ở mỏm tim",
+        "Tiếng thổi tâm thu cơ năng ở vùng đáy tim",
+        "Rung miêu tâm thu",
+        "Tiếng cọ màng tim"
+      ],
+      "answer": 1,
+      "explain": "Tiếng thổi tâm thu cơ năng xuất hiện do máu loãng, tăng tốc độ tuần hoàn qua các van tim bình thường để bù trừ tình trạng thiếu oxy mô."
+    },
+    {
+      "q": "Bệnh nhi vào viện với triệu chứng da xanh nhợt, kèm theo sốt cao và nhiều mảng bầm tím dưới da. Gan lách không to. Chẩn đoán lâm sàng nào hợp lý nhất?",
+      "options": [
+        "Bệnh Thalassemia",
+        "Thiếu máu thiếu sắt",
+        "Bệnh thiếu men G6PD",
+        "Suy tủy xương hoặc lơ-xê-mi cấp"
+      ],
+      "answer": 3,
+      "explain": "Sự kết hợp của thiếu máu, nhiễm trùng (do giảm bạch cầu) và xuất huyết (do giảm tiểu cầu) gợi ý bệnh lý tại tủy xương (giảm 3 dòng tế bào máu)."
+    },
+    {
+      "q": "Trong chẩn đoán thiếu máu thiếu sắt đơn thuần ở trẻ em, triệu chứng nào sau đây KHÔNG phù hợp và cần phải tìm nguyên nhân khác?",
+      "options": [
+        "Nhịp tim nhanh",
+        "Lách to độ 3",
+        "Biếng ăn, cáu gắt",
+        "Chậm tăng cân"
+      ],
+      "answer": 1,
+      "explain": "Thiếu sắt đơn thuần không gây gan lách to đáng kể (trừ khi có bệnh lý đi kèm). Lách to độ 3 bắt buộc phải nghĩ đến Thalassemia, tan máu hoặc bệnh ác tính."
+    },
+    {
+      "q": "Trẻ 1 tuổi, bú sữa bò tươi từ lúc 3 tháng tuổi, ăn dặm chủ yếu bằng bột gạo, biểu hiện xanh xao, quấy khóc, không có gan lách to. Nguyên nhân thiếu máu có khả năng cao nhất là?",
+      "options": [
+        "Thiếu hụt men G6PD",
+        "Bệnh Thalassemia thể trung bình",
+        "Thiếu máu thiếu sắt do chế độ ăn",
+        "Thiếu máu do xuất huyết tiêu hóa mạn"
+      ],
+      "answer": 2,
+      "explain": "Trẻ bú sữa bò tươi sớm (ít sắt, cản trở hấp thu sắt) kết hợp ăn dặm nghèo nàn là bệnh cảnh điển hình kinh điển của thiếu máu thiếu sắt."
+    },
+    {
+      "q": "Dấu hiệu nào trên lâm sàng giúp phân biệt rõ nhất giữa tình trạng xuất huyết tiêu hóa cao và xuất huyết tiêu hóa thấp gây thiếu máu cấp?",
+      "options": [
+        "Tốc độ tụt huyết áp",
+        "Tính chất phân đen sệt như bã cà phê hay phân máu đỏ tươi",
+        "Mức độ nhợt nhạt của niêm mạc mắt",
+        "Tiếng thổi ở tim"
+      ],
+      "answer": 1,
+      "explain": "Phân đen sệt mùi khẳm đặc trưng cho máu bị tiêu hóa (xuất huyết cao), máu đỏ tươi thường là xuất huyết thấp. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Khi tiếp cận một công thức máu của bệnh nhân thiếu máu, chỉ số đầu tiên cần xem xét để phân loại hình thái hồng cầu là gì?",
+      "options": [
+        "Số lượng hồng cầu",
+        "Nồng độ Hemoglobin",
+        "Thể tích trung bình hồng cầu",
+        "Số lượng tiểu cầu"
+      ],
+      "answer": 2,
+      "explain": "Thể tích trung bình hồng cầu (MCV) là bước đầu tiên để phân loại thiếu máu thành: hồng cầu nhỏ, hồng cầu bình thường, hoặc hồng cầu to."
+    },
+    {
+      "q": "Chỉ số dải phân bố kích thước hồng cầu thường có đặc điểm gì giúp phân biệt thiếu máu thiếu sắt và bệnh Thalassemia thể nhẹ?",
+      "options": [
+        "Tăng cao trong thiếu sắt, bình thường trong Thalassemia",
+        "Bình thường trong thiếu sắt, tăng cao trong Thalassemia",
+        "Đều tăng cao trong cả hai bệnh",
+        "Đều giảm trong cả hai bệnh"
+      ],
+      "answer": 0,
+      "explain": "Trong thiếu sắt, hồng cầu sinh ra có kích thước to nhỏ không đều liên tục theo thời gian làm RDW tăng. Trong Thalassemia trait, hồng cầu nhỏ khá đồng đều nên RDW bình thường."
+    },
+    {
+      "q": "Chỉ số Mentzer (MCV/RBC) thường được ứng dụng trên lâm sàng để làm gì?",
+      "options": [
+        "Đánh giá mức độ nặng của thiếu máu",
+        "Sàng lọc phân biệt giữa thiếu máu thiếu sắt và Thalassemia thể nhẹ",
+        "Theo dõi đáp ứng điều trị bù sắt",
+        "Chẩn đoán xác định bệnh thiếu men G6PD"
+      ],
+      "answer": 1,
+      "explain": "Bẫy kinh điển: Mentzer < 13 gợi ý Thalassemia thể nhẹ (RBC cao bù trừ, MCV rất nhỏ), > 13 gợi ý thiếu máu thiếu sắt."
+    },
+    {
+      "q": "Bộ xét nghiệm sinh hóa sắt điển hình của bệnh nhân thiếu máu thiếu sắt là gì?",
+      "options": [
+        "Sắt huyết thanh giảm, Ferritin bình thường, Khả năng gắn sắt toàn phần giảm",
+        "Sắt huyết thanh tăng, Ferritin tăng, Khả năng gắn sắt toàn phần bình thường",
+        "Sắt huyết thanh giảm, Ferritin giảm, Khả năng gắn sắt toàn phần tăng",
+        "Sắt huyết thanh bình thường, Ferritin giảm, Khả năng gắn sắt toàn phần giảm"
+      ],
+      "answer": 2,
+      "explain": "Dự trữ sắt cạn (Ferritin giảm), lượng sắt tuần hoàn thấp (sắt giảm) dẫn đến gan tăng tổng hợp transferrin làm khả năng gắn sắt (TIBC) tăng lên để cố gắng \"bắt\" sắt."
+    },
+    {
+      "q": "Xét nghiệm nào sau đây nhạy nhất và đặc hiệu nhất để phát hiện tình trạng cạn kiệt dự trữ sắt trong giai đoạn sớm (trước khi biểu hiện thiếu máu trên lâm sàng)?",
+      "options": [
+        "Sắt huyết thanh",
+        "Độ bão hòa Transferrin",
+        "Ferritin huyết thanh",
+        "Hồng cầu lưới"
+      ],
+      "answer": 2,
+      "explain": "Ferritin phản ánh trực tiếp kho dự trữ sắt. Nó là chỉ số giảm đầu tiên trong chuỗi diễn tiến của bệnh thiếu máu thiếu sắt. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Ý nghĩa quan trọng nhất của việc định lượng tỷ lệ hồng cầu lưới ở bệnh nhân thiếu máu là gì?",
+      "options": [
+        "Đo lường mức độ phá hủy hồng cầu ngoại vi",
+        "Xác định nguyên nhân thiếu sắt hay thiếu B12",
+        "Đánh giá khả năng đáp ứng sinh hồng cầu của tủy xương",
+        "Chẩn đoán xác định bệnh lơ-xê-mi cấp"
+      ],
+      "answer": 2,
+      "explain": "Hồng cầu lưới cao chứng tỏ tủy xương đang tăng sinh tốt để bù đắp (do chảy máu, tan máu). Hồng cầu lưới thấp chứng tỏ tủy suy hoặc thiếu nguyên liệu."
+    },
+    {
+      "q": "Xét nghiệm tiêu bản máu ngoại vi thấy nhiều \"hồng cầu hình bia bắn\" là dấu hiệu gợi ý bệnh lý nào sau đây?",
+      "options": [
+        "Bệnh hồng cầu hình cầu di truyền",
+        "Thiếu máu thiếu sắt giai đoạn sớm",
+        "Bệnh Thalassemia",
+        "Bệnh thiếu men G6PD"
+      ],
+      "answer": 2,
+      "explain": "Hồng cầu bia bắn do tỷ lệ diện tích màng tế bào lớn hơn so với thể tích bên trong, cực kỳ đặc trưng trên phết máu ngoại vi của bệnh nhân Thalassemia."
+    },
+    {
+      "q": "Mục đích của xét nghiệm test Coombs trực tiếp trong chẩn đoán nguyên nhân thiếu máu là gì?",
+      "options": [
+        "Định lượng chính xác lượng sắt dự trữ",
+        "Chẩn đoán xác định bệnh Thalassemia",
+        "Phát hiện kháng thể hoặc bổ thể bám trên bề mặt hồng cầu",
+        "Đo lường hoạt độ men G6PD của hồng cầu"
+      ],
+      "answer": 2,
+      "explain": "Coombs test dương tính là \"tiêu chuẩn vàng\" để chẩn đoán xác định tình trạng thiếu máu tan máu do nguyên nhân miễn dịch (tự miễn hoặc đồng miễn dịch)."
+    },
+    {
+      "q": "Xét nghiệm cận lâm sàng nào là tiêu chuẩn vàng để chẩn đoán xác định thể bệnh Thalassemia?",
+      "options": [
+        "Tổng phân tích tế bào máu ngoại vi",
+        "Định lượng Ferritin huyết thanh",
+        "Điện di huyết sắc tố",
+        "Sinh thiết tủy xương"
+      ],
+      "answer": 2,
+      "explain": "Điện di huyết sắc tố (hoặc sắc ký lỏng hiệu năng cao HPLC) giúp định lượng chính xác tỷ lệ HbA, HbF, HbA2, từ đó chẩn đoán xác định bệnh. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Hình ảnh tủy đồ kinh điển của bệnh nhân suy tủy xương vô căn là gì?",
+      "options": [
+        "Tủy giàu tế bào, tăng sinh mạnh dòng hồng cầu",
+        "Tủy nghèo tế bào, bị thay thế chủ yếu bởi tổ chức mỡ",
+        "Xâm nhập nhiều tế bào non bất thường",
+        "Có sự xuất hiện của các hồng cầu nguyên bào khổng lồ"
+      ],
+      "answer": 1,
+      "explain": "Suy tủy (Aplastic anemia) đặc trưng bởi sự trống rỗng của khoang tủy, các tế bào tạo máu bị tiêu biến và nhường chỗ cho mô mỡ."
+    },
+    {
+      "q": "Liều lượng sắt nguyên tố tiêu chuẩn dùng trong điều trị thiếu máu thiếu sắt ở trẻ em là bao nhiêu?",
+      "options": [
+        "1 - 2 mg/kg/ngày",
+        "3 - 6 mg/kg/ngày",
+        "10 - 15 mg/kg/ngày",
+        "20 - 25 mg/kg/ngày"
+      ],
+      "answer": 1,
+      "explain": "Đây là mốc liều điều trị kinh điển phải thuộc: 3-6 mg sắt nguyên tố/kg/ngày, chia 2-3 lần. Không nhầm lẫn với liều dự phòng (1-2 mg/kg/ngày)."
+    },
+    {
+      "q": "Lời khuyên nào sau đây là ĐÚNG nhất về cách uống thuốc sắt để đạt hiệu quả hấp thu tối đa?",
+      "options": [
+        "Uống cùng với sữa tươi để tránh kích ứng dạ dày",
+        "Uống ngay sau bữa ăn thật no",
+        "Uống lúc đói hoặc giữa hai bữa ăn, có thể kèm nước cam",
+        "Uống cùng với thuốc kháng acid dạ dày"
+      ],
+      "answer": 2,
+      "explain": "Sắt hấp thu tốt nhất ở môi trường acid. Uống lúc đói và dùng kèm vitamin C (nước cam) sẽ tăng hấp thu. Canxi trong sữa và thuốc kháng acid ức chế hấp thu sắt."
+    },
+    {
+      "q": "Dấu hiệu cận lâm sàng nào xuất hiện ĐẦU TIÊN chứng tỏ bệnh nhân đáp ứng tốt với điều trị bù sắt đường uống?",
+      "options": [
+        "Nồng độ Hemoglobin tăng lên bình thường",
+        "Thể tích trung bình hồng cầu tăng",
+        "Tỷ lệ hồng cầu lưới trong máu ngoại vi tăng đạt đỉnh",
+        "Nồng độ Ferritin huyết thanh trở về bình thường"
+      ],
+      "answer": 2,
+      "explain": "Bẫy kinh điển: Hồng cầu lưới sẽ tăng nhanh và đạt đỉnh vào ngày thứ 5-10 sau khi bù sắt, sớm hơn rất nhiều so với sự tăng của Hb (sau 2-4 tuần)."
+    },
+    {
+      "q": "Thời gian điều trị bù sắt đường uống cho trẻ em thiếu máu thiếu sắt nên được duy trì bao lâu?",
+      "options": [
+        "Ngừng ngay lập tức khi nồng độ Hemoglobin trở về bình thường",
+        "Tiếp tục từ 2 đến 3 tháng sau khi nồng độ Hemoglobin trở về bình thường",
+        "Kéo dài liên tục suốt đời để phòng ngừa tái phát",
+        "Chỉ uống đủ trong đúng 7 ngày"
+      ],
+      "answer": 1,
+      "explain": "Khi Hb về bình thường, kho dự trữ (Ferritin) vẫn còn trống. Cần duy trì uống thêm 2-3 tháng để lấp đầy hoàn toàn kho dự trữ sắt của cơ thể. Nguồn: Guidelines nhi khoa."
+    },
+    {
+      "q": "Tác dụng phụ thường gặp nhất của thuốc sắt đường uống mà bác sĩ bắt buộc phải tư vấn trước cho phụ huynh là gì?",
+      "options": [
+        "Rụng tóc từng mảng",
+        "Vàng mắt, vàng da",
+        "Đi ngoài phân đen",
+        "Nước tiểu màu đỏ"
+      ],
+      "answer": 2,
+      "explain": "Sắt không hấp thu hết sẽ thải qua phân làm phân có màu đen. Phải giải thích trước để phụ huynh không hoảng hốt nhầm với xuất huyết tiêu hóa."
+    },
+    {
+      "q": "Loại đồ uống nào sau đây có chứa chất phytate và tannin, gây ức chế mạnh mẽ quá trình hấp thu sắt ở ruột non?",
+      "options": [
+        "Nước cam ép",
+        "Nước chanh",
+        "Nước trà xanh",
+        "Nước dừa"
+      ],
+      "answer": 2,
+      "explain": "Tannin và phytate trong trà, cà phê tạo phức hợp không hòa tan với sắt, ngăn cản hoàn toàn sự hấp thu sắt qua niêm mạc ruột."
+    },
+    {
+      "q": "Mục tiêu truyền máu trong phác đồ truyền máu định kỳ (hypertransfusion) cho trẻ Thalassemia thể nặng là duy trì Hemoglobin trước truyền ở mức nào?",
+      "options": [
+        "Lớn hơn 60 g/L",
+        "Lớn hơn 70 g/L",
+        "Lớn hơn 90 - 100 g/L",
+        "Lớn hơn 130 g/L"
+      ],
+      "answer": 2,
+      "explain": "Truyền máu duy trì Hb cao (> 90-100 g/L) nhằm mục đích ức chế tủy xương tự sinh hồng cầu, từ đó ngăn chặn biến dạng xương và lách to. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Chỉ định bắt đầu dùng thuốc thải sắt cho bệnh nhi Thalassemia thường dựa vào tiêu chuẩn nào sau đây?",
+      "options": [
+        "Trẻ mới được chẩn đoán mắc bệnh Thalassemia",
+        "Trẻ có lách to qua rốn",
+        "Định lượng Ferritin huyết thanh trên 1000 ng/mL",
+        "Nồng độ Hemoglobin dưới 70 g/L"
+      ],
+      "answer": 2,
+      "explain": "Mốc bắt đầu thải sắt kinh điển là khi Ferritin > 1000 ng/mL, hoặc sau khi trẻ đã nhận khoảng 10-20 đơn vị máu truyền."
+    },
+    {
+      "q": "Nhóm thuốc nào sau đây CHỐNG CHỈ ĐỊNH tuyệt đối ở trẻ có tiền sử thiếu men G6PD do nguy cơ gây cơn tan máu cấp?",
+      "options": [
+        "Thuốc kháng sinh nhóm Penicillin",
+        "Thuốc hạ sốt Paracetamol liều chuẩn",
+        "Thuốc chống sốt rét Primaquine",
+        "Vitamin C liều thấp"
+      ],
+      "answer": 2,
+      "explain": "Primaquine, sulfonamide (như cotrimoxazole) là các chất có tính oxy hóa mạnh, bẫy kinh điển gây vỡ hồng cầu ồ ạt ở bệnh nhân thiếu G6PD."
+    },
+    {
+      "q": "Cơ chế tác dụng của thuốc Deferoxamine trong điều trị bệnh Thalassemia là gì?",
+      "options": [
+        "Tạo phức hợp với sắt tự do thành chất hòa tan để đào thải qua nước tiểu và phân",
+        "Ức chế hấp thu sắt tại niêm mạc tá tràng",
+        "Kích thích tủy xương tăng bắt giữ sắt để tạo hồng cầu mới",
+        "Phá vỡ các hồng cầu chứa HbF bất thường"
+      ],
+      "answer": 0,
+      "explain": "Deferoxamine (Desferal) là chất tạo phức chelator, gắn chặt lấy sắt tự do trong mô làm chúng tan trong nước và thải ra ngoài, giảm tình trạng ứ sắt máu."
+    },
+    {
+      "q": "Nguyên nhân gây tử vong hàng đầu ở các bệnh nhân Thalassemia thể nặng sống qua tuổi dậy thì là gì?",
+      "options": [
+        "Xuất huyết não do giảm tiểu cầu",
+        "Suy tim do ứ đọng sắt quá mức tại cơ tim",
+        "Sốc nhiễm khuẩn do phế cầu sau cắt lách",
+        "Suy thận mạn giai đoạn cuối"
+      ],
+      "answer": 1,
+      "explain": "Biến chứng ứ sắt mạn tính ở cơ tim gây suy tim, rối loạn nhịp tim là nguyên nhân gây tử vong kinh điển và nguy hiểm nhất ở bệnh nhân Thalassemia. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Biến chứng nguy hiểm và khó hồi phục nhất nếu thiếu máu thiếu sắt nặng xảy ra ở trẻ dưới 2 tuổi mà không được điều trị kịp thời là gì?",
+      "options": [
+        "Chậm phát triển chiều cao vĩnh viễn",
+        "Chậm phát triển nhận thức, trí tuệ và vận động",
+        "Mù lòa do teo gai thị giác",
+        "Viêm loét đại tràng mạn tính"
+      ],
+      "answer": 1,
+      "explain": "Sắt đóng vai trò thiết yếu trong quá trình myelin hóa thần kinh. Thiếu sắt sớm ở não bộ trẻ nhũ nhi sẽ để lại di chứng giảm IQ khó hồi phục hoàn toàn."
+    },
+    {
+      "q": "Hiện nay, phương pháp cận lâm sàng nào được coi là tiêu chuẩn vàng không xâm lấn để theo dõi tình trạng ứ sắt tại cơ tim và gan ở bệnh nhân Thalassemia?",
+      "options": [
+        "Định lượng nồng độ Transferrin",
+        "Siêu âm tim Doppler màu",
+        "Chụp cộng hưởng từ (MRI) T2* tim và gan",
+        "Điện tâm đồ (ECG) Holter 24h"
+      ],
+      "answer": 2,
+      "explain": "MRI T2* là tiêu chuẩn hiện đại để đánh giá chính xác khối lượng sắt lắng đọng trong nhu mô tim/gan, từ đó chỉnh liều thuốc thải sắt kịp thời."
+    },
+    {
+      "q": "Hậu quả nghiêm trọng nhất có thể trở thành vĩnh viễn nếu bệnh nhân thiếu máu ác tính (thiếu Vitamin B12) bị chẩn đoán nhầm và chỉ được bổ sung đơn thuần Acid folic là gì?",
+      "options": [
+        "Cơn nhồi máu cơ tim cấp",
+        "Suy gan tối cấp",
+        "Tổn thương thần kinh tủy sống không hồi phục",
+        "Rối loạn đông máu rải rác trong lòng mạch (DIC)"
+      ],
+      "answer": 2,
+      "explain": "Bẫy lâm sàng vô cùng nguy hiểm: Bổ sung Folate sẽ làm Hemoglobin hồi phục (che lấp bệnh), nhưng KHÔNG sửa chữa được tổn thương bao myelin do thiếu B12, dẫn đến tàn phế thần kinh."
+    }
+  ]
+}
