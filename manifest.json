@@ -470,13 +470,6 @@
       "subcategory": "Tiêu hóa"
     },
     {
-      "name": "Nhiễm khuẩn tiết niệu_Up",
-      "url": "nhiem_khuan_tiet_nieu_up.json",
-      "type": "cases",
-      "category": "Nội",
-      "subcategory": "Thận tiết niệu"
-    },
-    {
       "name": "Nhiễm khuẩn tiết niệu",
       "url": "nhiem_khuan_tiet_nieu.json",
       "type": "cases",
@@ -923,6 +916,265 @@
       "type": "mcq",
       "category": "Nhi",
       "subcategory": "Huyết học"
+    },
+    {
+      "name": "HC nôn trớ MCQ",
+      "url": "hc_non_tro_mcq.json",
+      "type": "mcq",
+      "category": "Nhi",
+      "subcategory": "Tiêu hóa"
+    },
+    {
+      "name": "Giãn đại tràng bẩm sinh (Hirschsprung) MCQ",
+      "url": "gian_dai_trang_bam_sinh_hirschsprung_mcq.json",
+      "type": "mcq",
+      "category": "Nhi",
+      "subcategory": "Ngoại"
+    },
+    {
+      "name": "HC nôn trớ",
+      "url": "hc_non_tro.json",
+      "type": "cases",
+      "category": "Nhi",
+      "subcategory": "Tiêu hóa"
+    },
+    {
+      "name": "Giãn đại tràng bẩm sinh (Hirschsprung)",
+      "url": "gian_dai_trang_bam_sinh_hirschsprung.json",
+      "type": "cases",
+      "category": "Nhi",
+      "subcategory": "Ngoại"
+    },
+    {
+      "name": "Giãn đại tràng bẩm sinh (Hirschsprung) Up",
+      "url": "gian_dai_trang_bam_sinh_hirschsprung_up.json",
+      "type": "cases",
+      "category": "Nhi",
+      "subcategory": "Ngoại"
+    },
+    {
+      "name": "HC nôn trớ Up",
+      "url": "hc_non_tro_up.json",
+      "type": "cases",
+      "category": "Nhi",
+      "subcategory": "Tiêu hóa"
+    },
+    {
+      "name": "Dị tật hậu môn trực tràng MCQ",
+      "url": "di_tat_hau_mon_truc_trang_mcq.json",
+      "type": "mcq",
+      "category": "Nhi",
+      "subcategory": "Ngoại"
+    },
+    {
+      "name": "Lồng ruột cấp tính ở trẻ còn bú MCQ",
+      "url": "long_ruot_cap_tinh_o_tre_con_bu_mcq.json",
+      "type": "mcq",
+      "category": "Nhi",
+      "subcategory": "Ngoại"
+    },
+    {
+      "name": "Dị tật hậu môn trực tràng",
+      "url": "di_tat_hau_mon_truc_trang.json",
+      "type": "cases",
+      "category": "Nhi",
+      "subcategory": "Ngoại"
+    },
+    {
+      "name": "Dị tật hậu môn trực tràng Up",
+      "url": "di_tat_hau_mon_truc_trang_up.json",
+      "type": "cases",
+      "category": "Nhi",
+      "subcategory": "Ngoại"
+    },
+    {
+      "name": "Lồng ruột cấp tính ở trẻ còn bú",
+      "url": "long_ruot_cap_tinh_o_tre_con_bu.json",
+      "type": "cases",
+      "category": "Nhi",
+      "subcategory": "Ngoại"
+    },
+    {
+      "name": "Lồng ruột cấp tính ở trẻ còn bú Up",
+      "url": "long_ruot_cap_tinh_o_tre_con_bu_up.json",
+      "type": "cases",
+      "category": "Nhi",
+      "subcategory": "Ngoại"
+    },
+    {
+      "name": "Tắc ruột sơ sinh Up",
+      "url": "tac_ruot_so_sinh_up.json",
+      "type": "cases",
+      "category": "Nhi",
+      "subcategory": "Ngoại"
+    },
+    {
+      "name": "Tắc ruột sơ sinh",
+      "url": "tac_ruot_so_sinh.json",
+      "type": "cases",
+      "category": "Nhi",
+      "subcategory": "Ngoại"
+    },
+    {
+      "name": "Gãy trên lồi cầu xương cánh tay ở trẻ em MCQ",
+      "url": "gay_tren_loi_cau_xuong_canh_tay_o_tre_em_mcq.json",
+      "type": "mcq",
+      "category": "Nhi",
+      "subcategory": "Ngoại"
+    },
+    {
+      "name": "Tắc ruột sơ sinh MCQ",
+      "url": "tac_ruot_so_sinh_mcq.json",
+      "type": "mcq",
+      "category": "Nhi",
+      "subcategory": "Ngoại"
+    },
+    {
+      "name": "Gãy trên lồi cầu xương cánh tay ở trẻ em",
+      "url": "gay_tren_loi_cau_xuong_canh_tay_o_tre_em.json",
+      "type": "cases",
+      "category": "Nhi",
+      "subcategory": "Ngoại"
+    },
+    {
+      "name": "Gãy trên lồi cầu xương cánh tay ở trẻ em Up",
+      "url": "gay_tren_loi_cau_xuong_canh_tay_o_tre_em_up.json",
+      "type": "cases",
+      "category": "Nhi",
+      "subcategory": "Ngoại"
+    },
+    {
+      "name": "Chi trên",
+      "url": "chi_tren.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Cơ Xương Khớp"
+    },
+    {
+      "name": "Chi dưới",
+      "url": "chi_duoi.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Cơ Xương Khớp"
+    },
+    {
+      "name": "Xương sọ",
+      "url": "xuong_so.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Cơ Xương Khớp"
+    },
+    {
+      "name": "Thân mình",
+      "url": "than_minh.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Cơ Xương Khớp"
+    },
+    {
+      "name": "Đáy chậu",
+      "url": "day_chau.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Cơ Xương Khớp"
+    },
+    {
+      "name": "Tim",
+      "url": "tim.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Tuần hoàn"
+    },
+    {
+      "name": "Mạch chi trên",
+      "url": "mach_chi_tren.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Tuần hoàn"
+    },
+    {
+      "name": "Mạch Chi Dưới",
+      "url": "mach_chi_duoi.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Tuần hoàn"
+    },
+    {
+      "name": "Mạch Ngực Bụng",
+      "url": "mach_nguc_bung.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Tuần hoàn"
+    },
+    {
+      "name": "Mạch đầu mặt cổ",
+      "url": "mach_dau_mat_co.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Tuần hoàn"
+    },
+    {
+      "name": "Giải phẫu Miệng",
+      "url": "giai_phau_mieng.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Tiêu hóa"
+    },
+    {
+      "name": "Giải phẫu Mũi",
+      "url": "giai_phau_mui.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Hô hấp"
+    },
+    {
+      "name": "Gan",
+      "url": "gan.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Tiêu hóa"
+    },
+    {
+      "name": "Ruột non, ruột già",
+      "url": "ruot_non_ruot_gia.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Tiêu hóa"
+    },
+    {
+      "name": "Ruột già",
+      "url": "ruot_gia.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Tiêu hóa"
+    },
+    {
+      "name": "Phúc mạc",
+      "url": "phuc_mac.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Tiêu hóa"
+    },
+    {
+      "name": "Hầu",
+      "url": "hau.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Hô hấp"
+    },
+    {
+      "name": "Thanh quản, khí quản",
+      "url": "thanh_quan_khi_quan.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Hô hấp"
+    },
+    {
+      "name": "Phổi",
+      "url": "phoi.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Cơ Xương Khớp"
     }
   ]
 }
