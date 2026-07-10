@@ -1,0 +1,620 @@
+{
+  "name": "Bướu cổ đơn thuần",
+  "description": "10 case lâm sàng chi tiết về bướu cổ đơn thuần, bướu đa nhân, bướu chìm, viêm tuyến giáp, ung thư tuyến giáp và các bệnh lý tuyến giáp khác. Mỗi case kèm 5 câu hỏi phân tích, giải thích chi tiết cơ chế sinh lý bệnh, chẩn đoán phân biệt, và xử trí lâm sàng. Phù hợp ôn thi Bác sĩ Nội trú chuyên sâu.",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Nội tiết",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 22 tuổi, sống vùng núi cao, vùng cổ to",
+      "body": "<b>Tiểu sử:</b> Bệnh nhân nữ, 22 tuổi, sinh viên, sống ở một vùng núi cao, đến khám vì thấy vùng cổ to từ khoảng 2 năm nay. Không có triệu chứng khác, không hồi hộp, không sụt cân, không sợ nóng hay sợ lạnh. Ăn uống và sinh hoạt bình thường.<br><b>Tiền sử:</b> Không có tiền sử bệnh lý tuyến giáp của bản thân và gia đình.<br><b>Khám toàn thân:</b> Tỉnh táo, tiếp xúc tốt. Sinh hiệu: mạch 78 lần/phút, huyết áp 110/70 mmHg, nhiệt độ 37.0°C, nhịp thở 16 lần/phút, BMI 20 kg/m².<br><b>Khám vùng cổ:</b> Tuyến giáp to lan tỏa độ II, mật độ mềm, bề mặt trơn láng, di động theo nhịp nuốt, không đau, không có tiếng thổi.<br><b>Cận lâm sàng:</b> TSH 3.5 µIU/mL (bình thường), FT4 14.5 pmol/L (bình thường). Siêu âm tuyến giáp: hai thùy tuyến giáp tăng kích thước lan tỏa, cấu trúc echo đồng nhất, không có nhân khu trú.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "A. Bệnh Basedow",
+            "B. Viêm tuyến giáp Hashimoto",
+            "C. Bướu giáp đơn thuần lan tỏa",
+            "D. Ung thư tuyến giáp"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có bướu giáp lan tỏa trên lâm sàng, chức năng tuyến giáp hoàn toàn bình thường (bình giáp), không có bằng chứng của bệnh tự miễn hay ác tính. Đây là định nghĩa kinh điển của bướu giáp đơn thuần."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây ra bướu giáp ở bệnh nhân này là gì?",
+          "options": [
+            "A. Tự kháng thể kích thích tuyến giáp phát triển",
+            "B. Thiếu hụt Iod trong chế độ ăn dẫn đến giảm sản xuất hormone giáp, gây tăng tiết TSH để bù trừ, TSH kích thích tuyến giáp phì đại",
+            "C. Quá trình viêm mạn tính phá hủy và tái tạo tuyến giáp",
+            "D. Đột biến gen gây tăng sinh tế bào tuyến giáp"
+          ],
+          "answer": 1,
+          "explain": "Thiếu hụt Iod làm giảm nồng độ hormone giáp, kích thích tuyến yên tăng tiết TSH. TSH là một yếu tố tăng trưởng mạnh mẽ, gây phì đại và tăng sinh tế bào tuyến giáp để bù đắp sản xuất hormone. Đây là cơ chế chính trong bướu giáp do thiếu Iod."
+        },
+        {
+          "q": "Yếu tố nào trong bệnh sử của bệnh nhân là gợi ý quan trọng nhất về nguyên nhân gây bệnh?",
+          "options": [
+            "A. Giới tính nữ",
+            "B. Tuổi trẻ",
+            "C. Sống ở vùng núi cao",
+            "D. Không có tiền sử gia đình"
+          ],
+          "answer": 2,
+          "explain": "Sống ở vùng núi cao thường đi kèm với chế độ ăn và nguồn nước thiếu hụt Iod. Đây là một yếu tố dịch tễ học rất quan trọng, gợi ý nguyên nhân gây bệnh chính là do thiếu Iod từ môi trường."
+        },
+        {
+          "q": "Can thiệp điều trị đầu tay được khuyến cáo cho bệnh nhân này là gì?",
+          "options": [
+            "A. Phẫu thuật cắt bỏ tuyến giáp",
+            "B. Điều trị bằng Iod phóng xạ",
+            "C. Bổ sung Iod qua chế độ ăn (muối Iod) và theo dõi",
+            "D. Dùng thuốc kháng giáp tổng hợp (Methimazole)"
+          ],
+          "answer": 2,
+          "explain": "Đối với bướu giáp đơn thuần do thiếu Iod, can thiệp đầu tiên và đơn giản nhất là đảm bảo cung cấp đủ Iod hàng ngày, thường thông qua việc sử dụng muối Iod. Điều này có thể giúp ngăn bướu giáp to thêm, và trong một số trường hợp, bướu có thể nhỏ lại từ từ."
+        },
+        {
+          "q": "Mục tiêu chính của liệu pháp Levothyroxine (nếu được chỉ định) trong điều trị bướu giáp đơn thuần là gì?",
+          "options": [
+            "A. Cung cấp hormone giáp cho cơ thể",
+            "B. Ức chế sản xuất TSH của tuyến yên, làm giảm yếu tố tăng trưởng đối với tuyến giáp",
+            "C. Giảm viêm tại tuyến giáp",
+            "D. Tăng cường chuyển hóa của cơ thể"
+          ],
+          "answer": 1,
+          "explain": "Bằng cách cung cấp hormone T4 từ bên ngoài, nồng độ T4 máu tăng lên sẽ gây phản hồi âm ức chế tuyến yên, làm giảm tiết TSH. Mất đi yếu tố kích thích chính (TSH), bướu giáp có thể ngừng phát triển hoặc nhỏ lại."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 65 tuổi, bướu cổ lâu năm, khó nuốt và khó thở",
+      "body": "<b>Tiểu sử:</b> Bệnh nhân nữ, 65 tuổi, đến khám vì cảm giác nuốt vướng và thỉnh thoảng khó thở khi nằm ngửa. Khai có bướu cổ từ hơn 20 năm nay, ban đầu nhỏ, sau đó to dần. Gần đây, các triệu chứng chèn ép ngày càng rõ hơn.<br><b>Triệu chứng hiện tại:</b> Không có triệu chứng cường giáp hay suy giáp.<br><b>Khám:</b> Bệnh nhân tỉnh, thể trạng trung bình. Sinh hiệu ổn định. Tuyến giáp to độ III, lổn nhổn nhiều nhân ở cả hai thùy, mật độ chắc, ranh giới rõ, không đau, di động tốt. Không sờ thấy hạch cổ. Khí quản bị đẩy lệch nhẹ sang trái.<br><b>Cận lâm sàng:</b> TSH 1.5 µIU/mL (bình thường), FT4 16 pmol/L (bình thường). Siêu âm: bướu giáp đa nhân hai thùy, nhân lớn nhất ở thùy phải kích thước 4x5 cm, một phần thòng xuống sau xương ức, có dấu hiệu chèn ép khí quản.",
+      "questions": [
+        {
+          "q": "Chẩn đoán đầy đủ nhất của bệnh nhân là gì?",
+          "options": [
+            "A. Bướu giáp đơn thuần lan tỏa",
+            "B. Bệnh Basedow",
+            "C. Bướu giáp đa nhân, bình giáp, có triệu chứng chèn ép",
+            "D. Ung thư tuyến giáp"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có bướu giáp đa nhân, chức năng tuyến giáp bình thường (TSH và FT4 bình thường), và quan trọng nhất là có các triệu chứng chèn ép cơ học rõ ràng (nuốt vướng, khó thở khi nằm). Đây là chỉ định rõ ràng cần can thiệp."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của bướu giáp đa nhân là gì?",
+          "options": [
+            "A. Quá trình phát triển tự nhiên của bướu giáp đơn thuần lan tỏa lâu năm, với sự tăng sinh không đồng đều của các nhóm tế bào nang giáp",
+            "B. Do một khối u ác tính di căn đến nhiều vị trí trong tuyến giáp",
+            "C. Do nhiều ổ viêm mạn tính trong tuyến giáp",
+            "D. Do nhiều đột biến gen khác nhau xảy ra cùng lúc"
+          ],
+          "answer": 0,
+          "explain": "Bướu giáp đa nhân thường được coi là giai đoạn cuối của diễn tiến tự nhiên từ bướu giáp đơn thuần. Sự kích thích mạn tính của TSH, kết hợp với các đột biến soma ngẫu nhiên, dẫn đến tăng sinh không đồng đều của các nhóm tế bào nang giáp, tạo nên cấu trúc đa nhân."
+        },
+        {
+          "q": "Triệu chứng khó thở khi nằm ngửa của bệnh nhân được giải thích do?",
+          "options": [
+            "A. Bướu giáp chèn ép vào thực quản",
+            "B. Bướu giáp chèn ép vào khí quản, tình trạng chèn ép tăng lên khi cổ gập lại ở tư thế nằm",
+            "C. Bướu giáp gây chèn ép dây thần kinh quặt ngược thanh quản",
+            "D. Do suy tim kèm theo"
+          ],
+          "answer": 1,
+          "explain": "Bướu giáp lớn, đặc biệt là phần thòng sau xương ức, có thể đè đẩy và làm hẹp lòng khí quản. Ở tư thế nằm ngửa, cổ thường gập lại và trọng lực của bướu cũng làm tăng mức độ chèn ép khí quản, gây ra triệu chứng khó thở tư thế."
+        },
+        {
+          "q": "Thăm dò hình ảnh nào sau đây giúp đánh giá tốt nhất mức độ chèn ép khí quản và bướu thòng sau xương ức?",
+          "options": [
+            "A. Xạ hình tuyến giáp",
+            "B. Siêu âm Doppler tuyến giáp",
+            "C. Chụp cắt lớp vi tính (CT scan) vùng cổ-ngực",
+            "D. Chụp X-quang cổ thẳng nghiêng"
+          ],
+          "answer": 2,
+          "explain": "CT scan vùng cổ-ngực cung cấp hình ảnh giải phẫu chi tiết, cho phép đánh giá chính xác kích thước bướu, mức độ lan xuống trung thất, mối tương quan với các cấu trúc lân cận, và đặc biệt là mức độ hẹp lòng khí quản—thông tin cực kỳ quan trọng để lên kế hoạch phẫu thuật."
+        },
+        {
+          "q": "Phương pháp điều trị tối ưu nhất cho bệnh nhân này là gì?",
+          "options": [
+            "A. Dùng thuốc Levothyroxine để ức chế TSH",
+            "B. Điều trị bằng Iod phóng xạ (I-131)",
+            "C. Phẫu thuật cắt gần toàn bộ tuyến giáp",
+            "D. Theo dõi định kỳ mà không can thiệp"
+          ],
+          "answer": 2,
+          "explain": "Phẫu thuật là phương pháp điều trị triệt để và được chỉ định tuyệt đối khi bướu giáp gây biến chứng chèn ép cơ học. Cắt gần toàn bộ hoặc toàn bộ tuyến giáp sẽ giải quyết được vấn đề chèn ép, loại bỏ các nhân giáp và ngăn ngừa tái phát. Iod phóng xạ không có hiệu quả trong việc làm giảm kích thước bướu đáng kể."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi, ho khàn, sưng mặt cổ, tuần hoàn bàng hệ nổi rõ",
+      "body": "<b>Tiểu sử:</b> Bệnh nhân nam, 70 tuổi, đến khám vì ho khan kéo dài và sưng phù vùng mặt, cổ. Tiền sử hút thuốc lá nhiều năm. Khoảng 3 tháng nay: ho khan, khó thở nhẹ khi gắng sức, mặt, cổ và hai tay trên bị sưng phù, đỏ tím. Các tĩnh mạch ở cổ và ngực nổi rõ, đặc biệt nặng hơn vào buổi sáng.<br><b>Tiền sử:</b> Không có tiền sử bệnh lý tuyến giáp.<br><b>Khám:</b> Bệnh nhân tỉnh, thể trạng gầy. Phù áo khoác (phù ở mặt, cổ, ngực, hai tay). Tuần hoàn bàng hệ nổi rõ ở thành ngực trước. <b>Dấu hiệu Pemberton dương tính:</b> Đỏ mặt, chóng mặt khi giơ hai tay lên đầu trong 1 phút. Khám cổ không sờ thấy rõ tuyến giáp. Nghe phổi có rì rào phế nang giảm ở đỉnh phổi phải.<br><b>Cận lâm sàng:</b> Chức năng tuyến giáp bình thường. <b>X-quang ngực:</b> Trung thất trên mở rộng. <b>CT scan ngực có tiêm thuốc cản quang:</b> Một khối bướu giáp khổng lồ, đa nhân, chìm hoàn toàn trong trung thất trên, chèn ép nặng tĩnh mạch chủ trên và khí quản.",
+      "questions": [
+        {
+          "q": "Hội chứng lâm sàng mà bệnh nhân đang biểu hiện là gì?",
+          "options": [
+            "A. Hội chứng Cushing",
+            "B. Hội chứng chèn ép tĩnh mạch chủ trên",
+            "C. Hội chứng Horner",
+            "D. Hội chứng cận ung thư"
+          ],
+          "answer": 1,
+          "explain": "Phù áo khoác (phù ở mặt, cổ, ngực, hai tay), tuần hoàn bàng hệ ở ngực, và các dấu hiệu của tắc nghẽn dòng máu tĩnh mạch trở về từ đầu, cổ và chi trên là những biểu hiện kinh điển của Hội chứng chèn ép tĩnh mạch chủ trên."
+        },
+        {
+          "q": "Cơ chế gây ra hội chứng chèn ép tĩnh mạch chủ trên trong trường hợp này là gì?",
+          "options": [
+            "A. Do huyết khối hình thành trong tĩnh mạch chủ trên",
+            "B. Do bướu giáp chìm trong trung thất phát triển to, chèn ép vào tĩnh mạch chủ trên từ bên ngoài",
+            "C. Do suy tim phải gây ứ trệ tuần hoàn",
+            "D. Do di căn của ung thư vào thành tĩnh mạch"
+          ],
+          "answer": 1,
+          "explain": "Tĩnh mạch chủ trên là một mạch máu lớn có thành mỏng và áp lực thấp, nằm trong khoang không gian hẹp của trung thất. Một khối u phát triển tại đây, như bướu giáp chìm, có thể dễ dàng chèn ép vào tĩnh mạch từ bên ngoài, gây cản trở dòng máu."
+        },
+        {
+          "q": "\"Bướu giáp chìm\" (substernal goiter) được định nghĩa là gì?",
+          "options": [
+            "A. Bất kỳ bướu giáp nào có thể sờ thấy được ở hõm ức",
+            "B. Khi hơn 50% thể tích của tuyến giáp nằm dưới eo trên của lồng ngực",
+            "C. Một bướu giáp phát triển hoàn toàn từ mô giáp lạc chỗ trong lồng ngực",
+            "D. Khi bướu giáp gây ra triệu chứng ho"
+          ],
+          "answer": 1,
+          "explain": "Bướu giáp chìm được định nghĩa khi phần lớn thể tích của nó (>50%) nằm dưới eo trên của lồng ngực. Hầu hết các bướu giáp chìm là sự phát triển đi xuống của tuyến giáp ở cổ, chỉ một số ít là bướu giáp lạc chỗ thực sự."
+        },
+        {
+          "q": "Dấu hiệu Pemberton dương tính phản ánh điều gì?",
+          "options": [
+            "A. Sự tăng áp lực trong động mạch phổi",
+            "B. Sự tắc nghẽn đường ra của lồng ngực bị gây ra bởi bướu giáp khi giơ tay lên, làm cản trở dòng máu tĩnh mạch trở về",
+            "C. Sự kích thích vào dây thần kinh phế vị",
+            "D. Sự yếu của các cơ hô hấp"
+          ],
+          "answer": 1,
+          "explain": "Khi bệnh nhân giơ hai tay lên cao, bướu giáp sẽ bị kéo lên và chui vào một lối ra lồng ngực vốn đã hẹp, làm tăng đột ngột mức độ chèn ép lên các mạch máu và khí quản, gây ứ trệ máu tĩnh mạch ở đầu-mặt-cổ."
+        },
+        {
+          "q": "Phương pháp điều trị duy nhất có thể giải quyết được tình trạng này là gì?",
+          "options": [
+            "A. Dùng thuốc lợi tiểu liều cao",
+            "B. Xạ trị vào khối bướu",
+            "C. Đặt stent tĩnh mạch chủ trên",
+            "D. Phẫu thuật cắt bỏ toàn bộ tuyến giáp qua đường mổ ở cổ, có thể cần phối hợp mở xương ức"
+          ],
+          "answer": 3,
+          "explain": "Đây là một chỉ định phẫu thuật tuyệt đối và thường là khẩn cấp. Phẫu thuật nhằm lấy bỏ toàn bộ khối bướu giáp để giải phóng sự chèn ép. Hầu hết các trường hợp có thể được thực hiện qua đường mổ ở cổ, nhưng đôi khi cần phải mở xương ức nếu bướu quá lớn hoặc dính nhiều."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 31 tuổi, mang thai lần đầu tuần 14, vùng cổ to",
+      "body": "<b>Tiểu sử:</b> Bệnh nhân nữ, 31 tuổi, mang thai lần đầu ở tuần thứ 14, đến khám vì thấy cổ to ra. Không có triệu chứng khác, cảm thấy thai kỳ hoàn toàn bình thường.<br><b>Khám:</b> Tuyến giáp to lan tỏa độ I-II, mềm, không nhân, không đau.<br><b>Xét nghiệm chức năng tuyến giáp:</b> TSH 1.8 µIU/mL (trong khoảng tham chiếu dành cho tam cá nguyệt thứ hai), FT4 15 pmol/L (trong khoảng tham chiếu dành cho tam cá nguyệt thứ hai).<br><b>Mâm tâm của bệnh nhân:</b> Lo lắng không biết tình trạng này có ảnh hưởng đến thai nhi không.",
+      "questions": [
+        {
+          "q": "Tình trạng bướu giáp của bệnh nhân nhiều khả năng nhất là do?",
+          "options": [
+            "A. Bệnh Basedow",
+            "B. Bướu giáp sinh lý trong thai kỳ",
+            "C. Thiếu hụt Iod",
+            "D. Viêm tuyến giáp Hashimoto"
+          ],
+          "answer": 1,
+          "explain": "Tình trạng tuyến giáp to nhẹ, lan tỏa, với chức năng giáp bình thường ở phụ nữ mang thai thường là một đáp ứng sinh lý bình thường của cơ thể, không phải là bệnh lý. Thai kỳ là một \"bài kiểm tra stress\" đối với tuyến giáp."
+        },
+        {
+          "q": "Cơ chế sinh lý nào sau đây góp phần làm tuyến giáp to ra trong thai kỳ?",
+          "options": [
+            "A. Hormone hCG kích thích trực tiếp thụ thể TSH",
+            "B. Tăng độ thanh thải Iod qua thận, làm tăng nhu cầu Iod",
+            "C. Tăng nồng độ TBG (thyroxine-binding globulin) trong máu, làm giảm lượng hormone giáp tự do",
+            "D. Tất cả các cơ chế trên"
+          ],
+          "answer": 3,
+          "explain": "Thai kỳ liên quan đến nhiều thay đổi nội tiết. Nồng độ hCG cao trong tam cá nguyệt đầu có thể kích thích nhẹ tuyến giáp. Nhu cầu Iod tăng lên do tăng thải qua thận và nhu cầu của thai nhi. Estrogen làm tăng nồng độ TBG, làm giảm tạm thời FT4 và kích thích ngược lên trục hạ đồi-tuyến yên. Tất cả các yếu tố này đều có thể góp phần làm tuyến giáp to ra."
+        },
+        {
+          "q": "Khoảng tham chiếu của TSH ở phụ nữ mang thai thay đổi như thế nào so với người không mang thai?",
+          "options": [
+            "A. Cao hơn",
+            "B. Thấp hơn, đặc biệt trong tam cá nguyệt đầu tiên",
+            "C. Không thay đổi",
+            "D. Rộng hơn"
+          ],
+          "answer": 1,
+          "explain": "Do tác động kích thích của hCG lên thụ thể TSH, nồng độ TSH sinh lý ở phụ nữ mang thai thường thấp hơn so với người không mang thai. Các khuyến cáo quốc tế đều đưa ra các khoảng tham chiếu TSH riêng, đặc hiệu cho từng tam cá nguyệt, với giới hạn dưới thấp hơn."
+        },
+        {
+          "q": "Xử trí phù hợp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "A. Bắt đầu dùng thuốc Levothyroxine",
+            "B. Bắt đầu dùng thuốc kháng giáp Methimazole",
+            "C. Trấn an bệnh nhân, đảm bảo bổ sung đủ Iod (khoảng 250 µg/ngày) và theo dõi chức năng giáp định kỳ",
+            "D. Chỉ định sinh thiết tuyến giáp"
+          ],
+          "answer": 2,
+          "explain": "Khi chức năng tuyến giáp của mẹ bình thường, việc cần làm là trấn an, giải thích đây là hiện tượng sinh lý, và quan trọng nhất là đảm bảo mẹ được cung cấp đủ lượng Iod cần thiết cho cả mẹ và con thông qua các loại vitamin bà bầu hoặc chế độ ăn."
+        },
+        {
+          "q": "Tại sao việc duy trì chức năng tuyến giáp bình thường của mẹ là cực kỳ quan trọng đối với thai nhi, đặc biệt trong 3 tháng đầu?",
+          "options": [
+            "A. Vì hormone giáp của mẹ cần thiết cho quá trình hình thành và phát triển hệ thần kinh trung ương của thai nhi",
+            "B. Vì hormone giáp của mẹ giúp điều hòa nhịp tim của thai nhi",
+            "C. Vì hormone giáp của mẹ cần thiết cho sự phát triển xương của thai nhi",
+            "D. Vì thiếu hormone giáp của mẹ sẽ gây ra bướu giáp bẩm sinh cho con"
+          ],
+          "answer": 0,
+          "explain": "Trong 12-14 tuần đầu tiên, tuyến giáp của thai nhi chưa tự sản xuất được hormone. Do đó, thai nhi hoàn toàn phụ thuộc vào hormone T4 của mẹ truyền qua nhau thai. Hormone này đóng vai trò sống còn trong quá trình biệt hóa và di trú của các tế bào thần kinh, hình thành nên não bộ. Suy giáp ở mẹ trong giai đoạn này có thể gây ra những tổn thương thần kinh không hồi phục cho trẻ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 55 tuổi, phát hiện tình cờ nhân giáp, nghi ngờ ác tính",
+      "body": "<b>Tiểu sử:</b> Bệnh nhân nữ, 55 tuổi, đến khám vì được phát hiện một nhân giáp tình cờ qua siêu âm vùng cổ do bệnh lý khác. Bệnh nhân hoàn toàn không có triệu chứng.<br><b>Khám:</b> Khám cổ không sờ thấy tuyến giáp to hay nhân giáp.<br><b>Xét nghiệm:</b> TSH 2.1 µIU/mL (bình thường).<br><b>Siêu âm:</b> Một nhân đặc, giảm âm, kích thước 1.2 cm ở thùy trái, có vài nốt vi vôi hóa, bờ không đều, không có hạch cổ bất thường. Phân loại theo TIRADS là 5 (nguy cơ ác tính cao nhất).",
+      "questions": [
+        {
+          "q": "Yếu tố nào trong mô tả siêu âm của nhân giáp này là đáng lo ngại nhất về nguy cơ ác tính?",
+          "options": [
+            "A. Kích thước 1.2 cm",
+            "B. Là nhân đặc",
+            "C. Vị trí ở thùy trái",
+            "D. Có vi vôi hóa và bờ không đều"
+          ],
+          "answer": 3,
+          "explain": "Các đặc điểm siêu âm nghi ngờ ác tính cao (high-suspicion features) bao gồm: nhân rất giảm âm, vi vôi hóa (microcalcifications), bờ không đều hoặc gai, và hình dạng cao hơn rộng. Bệnh nhân này có nhiều đặc điểm nghi ngờ cao, đặc biệt là vi vôi hóa và bờ không đều."
+        },
+        {
+          "q": "Bước tiếp theo cần thực hiện để chẩn đoán xác định bản chất của nhân giáp này là gì?",
+          "options": [
+            "A. Theo dõi bằng siêu âm sau 6 tháng",
+            "B. Chọc hút tế bào bằng kim nhỏ (FNA)",
+            "C. Xạ hình tuyến giáp",
+            "D. Phẫu thuật cắt thùy giáp trái ngay lập tức"
+          ],
+          "answer": 1,
+          "explain": "Theo các hướng dẫn hiện hành, một nhân giáp > 1 cm có các đặc điểm siêu âm nghi ngờ ác tính cao (TIRADS 5) là một chỉ định rõ ràng cho chọc hút tế bào bằng kim nhỏ (FNA) để có chẩn đoán tế bào học."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của ung thư tuyến giáp dạng nhú, thể thường gặp nhất, thường liên quan đến đột biến ở gen nào?",
+          "options": [
+            "A. Gen RET",
+            "B. Gen BRAF",
+            "C. Gen p53",
+            "D. Gen RAS"
+          ],
+          "answer": 1,
+          "explain": "Đột biến điểm V600E của gen BRAF là đột biến gen phổ biến nhất trong ung thư tuyến giáp dạng nhú, được tìm thấy ở khoảng 40-60% các trường hợp. Sự hiện diện của đột biến này thường liên quan đến tiên lượng xấu hơn."
+        },
+        {
+          "q": "Nếu kết quả FNA là \"ác tính, phù hợp với ung thư tuyến giáp dạng nhú\" (Bethesda VI), thái độ xử trí phù hợp là gì?",
+          "options": [
+            "A. Điều trị bằng Iod phóng xạ",
+            "B. Tư vấn phẫu thuật cắt tuyến giáp (cắt thùy hoặc cắt toàn bộ tùy theo đánh giá nguy cơ)",
+            "C. Điều trị bằng thuốc ức chế TSH",
+            "D. Hóa trị toàn thân"
+          ],
+          "answer": 1,
+          "explain": "Khi FNA đã khẳng định là ung thư, điều trị nền tảng và đầu tay là phẫu thuật. Mức độ phẫu thuật (cắt một thùy hay toàn bộ tuyến giáp, có kèm nạo vét hạch hay không) sẽ được quyết định dựa trên kích thước u, mức độ xâm lấn và các yếu tố nguy cơ khác."
+        },
+        {
+          "q": "Yếu tố nào sau đây KHÔNG được xem là một yếu tố nguy cơ của ung thư tuyến giáp?",
+          "options": [
+            "A. Tiền sử gia đình có người bị ung thư tuyến giáp",
+            "B. Tiền sử xạ trị vùng đầu cổ lúc nhỏ",
+            "C. Giới tính nam",
+            "D. Sử dụng thuốc kháng giáp kéo dài"
+          ],
+          "answer": 3,
+          "explain": "Sử dụng thuốc kháng giáp (như Methimazole) để điều trị cường giáp không làm tăng nguy cơ ung thư tuyến giáp. Ngược lại, phơi nhiễm với bức xạ ion hóa (đặc biệt ở trẻ em), tiền sử gia đình, và một số hội chứng di truyền là những yếu tố nguy cơ đã được xác định rõ. Giới tính nam ít gặp ung thư tuyến giáp hơn nữ, nhưng khi mắc bệnh thì tiên lượng thường xấu hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 45 tuổi, tăng cân, sợ lạnh, viêm tuyến giáp Hashimoto",
+      "body": "<b>Tiểu sử:</b> Bệnh nhân nữ, 45 tuổi, đến khám vì mệt mỏi, tăng cân và sợ lạnh. Khai 1 năm nay tăng 8kg dù ăn uống không nhiều. Da khô, tóc rụng, hay bị táo bón, cảm thấy uể oải, chậm chạp.<br><b>Khám:</b> Bệnh nhân tỉnh, nói chậm, vẻ mặt vô cảm. Da khô, lạnh. Sinh hiệu: mạch 55 lần/phút, huyết áp 130/90 mmHg. Tuyến giáp to lan tỏa độ II, mật độ chắc như cao su, không đau. Phản xạ gân gót có pha giãn chậm.<br><b>Cận lâm sàng:</b> TSH 85 µIU/mL (tăng rất cao), FT4 4.5 pmol/L (giảm). Xét nghiệm tự kháng thể: Anti-TPO (kháng thể kháng Thyroid Peroxidase) và Anti-Tg (kháng thể kháng Thyroglobulin) đều dương tính rất cao.",
+      "questions": [
+        {
+          "q": "Chẩn đoán của bệnh nhân này là gì?",
+          "options": [
+            "A. Suy giáp do thiếu Iod",
+            "B. Viêm tuyến giáp Hashimoto gây suy giáp",
+            "C. Suy giáp sau phẫu thuật",
+            "D. Suy giáp thứ phát (do tuyến yên)"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có hội chứng suy giáp lâm sàng rõ, xét nghiệm cho thấy suy giáp nguyên phát (TSH tăng, FT4 giảm), có bướu giáp, và đặc biệt là sự hiện diện của các tự kháng thể kháng giáp (Anti-TPO, Anti-Tg). Đây là bệnh cảnh điển hình của viêm tuyến giáp Hashimoto. Nguồn: Bệnh học nội khoa YHN."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính của bệnh này là gì?",
+          "options": [
+            "A. Quá trình tự miễn qua trung gian tế bào (lympho T) và kháng thể, gây phá hủy dần các tế bào nang giáp",
+            "B. Thiếu hụt TSH từ tuyến yên",
+            "C. Đột biến gen của thụ thể TSH",
+            "D. Sự ức chế chức năng tuyến giáp do một loại thuốc"
+          ],
+          "answer": 0,
+          "explain": "Viêm tuyến giáp Hashimoto là nguyên nhân gây suy giáp phổ biến nhất ở những vùng đủ Iod. Đây là một bệnh tự miễn, trong đó hệ miễn dịch của cơ thể nhận diện nhầm các protein của tuyến giáp là vật lạ và tấn công, gây ra một quá trình viêm mạn tính, thâm nhiễm lympho bào và phá hủy dần dần tuyến giáp, cuối cùng dẫn đến suy giáp."
+        },
+        {
+          "q": "Tại sao bệnh nhân này lại có bướu giáp to mặc dù bị suy giáp?",
+          "options": [
+            "A. Do tình trạng viêm và thâm nhiễm lympho bào vào trong mô tuyến giáp",
+            "B. Do nồng độ TSH rất cao trong máu có tác dụng kích thích tăng trưởng tuyến giáp",
+            "C. Cả A và B đều đúng",
+            "D. Đây là một hiện tượng nghịch thường"
+          ],
+          "answer": 2,
+          "explain": "Bướu giáp trong Hashimoto là kết quả của hai cơ chế. Thứ nhất, quá trình viêm mạn tính với sự thâm nhiễm của một lượng lớn tế bào lympho và tương bào làm cho tuyến giáp to ra. Thứ hai, khi tuyến giáp bắt đầu suy, nồng độ TSH tăng cao để cố gắng bù trừ, và TSH cũng có tác dụng kích thích tuyến giáp phì đại."
+        },
+        {
+          "q": "Thuốc điều trị lựa chọn đầu tay cho bệnh nhân này là gì?",
+          "options": [
+            "A. Methimazole",
+            "B. Levothyroxine (L-T4)",
+            "C. Liothyronine (T3)",
+            "D. Chiết xuất tuyến giáp khô"
+          ],
+          "answer": 1,
+          "explain": "Liệu pháp thay thế hormone bằng Levothyroxine (dạng tổng hợp của T4) là điều trị tiêu chuẩn và suốt đời cho bệnh nhân suy giáp. L-T4 ổn định, có thời gian bán hủy dài, và được cơ thể chuyển đổi thành T3 theo nhu cầu sinh lý."
+        },
+        {
+          "q": "Mục tiêu điều trị chính khi theo dõi bằng xét nghiệm ở bệnh nhân suy giáp nguyên phát là đưa nồng độ xét nghiệm nào về giới hạn bình thường?",
+          "options": [
+            "A. TSH",
+            "B. FT4",
+            "C. FT3",
+            "D. Anti-TPO"
+          ],
+          "answer": 0,
+          "explain": "TSH là chỉ số nhạy nhất để đánh giá tình trạng hormone giáp ở mức độ mô và để theo dõi, điều chỉnh liều Levothyroxine ở bệnh nhân suy giáp nguyên phát. Mục tiêu điều trị là đưa TSH về trong khoảng tham chiếu bình thường (thường là 0.5-2.5 µIU/mL)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi, khối tuyến giáp lớn cứng, khàn tiếng, suy kiệt",
+      "body": "<b>Tiểu sử:</b> Bệnh nhân nam, 68 tuổi, nhập viện vì khó thở và khàn tiếng. Tiền sử bướu cổ lâu năm nhưng không đi khám. Khoảng 6 tháng nay: khối ở cổ to nhanh, trở nên cứng chắc, không di động, kèm theo nuốt nghẹn, khàn tiếng, sụt 10kg.<br><b>Khám:</b> Bệnh nhân gầy, thể trạng suy kiệt. Một khối u tuyến giáp rất lớn, cứng như đá, dính chặt vào các cấu trúc xung quanh, không di động. Có nhiều hạch cổ cứng chắc hai bên. Bệnh nhân nói giọng khàn đôi.<br><b>Cận lâm sàng:</b> Chức năng tuyến giáp bình thường.",
+      "questions": [
+        {
+          "q": "Dựa vào diễn biến và đặc điểm lâm sàng, chẩn đoán nghi ngờ nhất là gì?",
+          "options": [
+            "A. Bướu giáp đa nhân lành tính",
+            "B. Áp xe tuyến giáp",
+            "C. Bệnh Basedow",
+            "D. Ung thư tuyến giáp giai đoạn muộn, thể không biệt hóa hoặc xâm lấn"
+          ],
+          "answer": 3,
+          "explain": "Một khối bướu giáp phát triển nhanh, cứng như đá, cố định, kèm theo các triệu chứng xâm lấn tại chỗ (khàn tiếng, nuốt nghẹn) và toàn thân (suy kiệt) ở một người lớn tuổi là những dấu hiệu rất báo động của một khối u ác tính giai đoạn tiến triển."
+        },
+        {
+          "q": "Cơ chế gây ra triệu chứng khàn tiếng của bệnh nhân là gì?",
+          "options": [
+            "A. Khối u chèn ép vào thực quản",
+            "B. Khối u xâm lấn vào dây thần kinh quặt ngược thanh quản",
+            "C. Phù nề thanh quản do phản ứng viêm",
+            "D. Do suy nhược cơ thể nói chung"
+          ],
+          "answer": 1,
+          "explain": "Dây thần kinh quặt ngược thanh quản chi phối vận động cho hầu hết các cơ của thanh quản. Dây thần kinh này chạy sát phía sau tuyến giáp. Một khối u ác tính xâm lấn ra khỏi vỏ bao có thể chèn ép hoặc phá hủy dây thần kinh này, gây liệt dây thanh âm và khàn tiếng."
+        },
+        {
+          "q": "Thể ung thư tuyến giáp nào có đặc điểm phát triển cực kỳ nhanh, xâm lấn mạnh và có tiên lượng rất xấu?",
+          "options": [
+            "A. Dạng nhú (Papillary)",
+            "B. Dạng nang (Follicular)",
+            "C. Dạng tủy (Medullary)",
+            "D. Dạng không biệt hóa (Anaplastic)"
+          ],
+          "answer": 3,
+          "explain": "Ung thư tuyến giáp không biệt hóa là một trong những loại ung thư ác tính nhất ở người. Nó có đặc điểm là các tế bào mất hoàn toàn sự biệt hóa, phát triển cực nhanh, xâm lấn tại chỗ và di căn xa sớm. Bệnh thường không đáp ứng với các phương pháp điều trị thông thường."
+        },
+        {
+          "q": "Thủ thuật nào sau đây cần được thực hiện để vừa có chẩn đoán xác định, vừa có thể giải quyết tình trạng chèn ép đường thở nếu có?",
+          "options": [
+            "A. Chọc hút tế bào bằng kim nhỏ (FNA)",
+            "B. Sinh thiết mở và có thể kèm theo mở khí quản",
+            "C. Xạ hình toàn thân với I-131",
+            "D. Đo nồng độ Calcitonin máu"
+          ],
+          "answer": 1,
+          "explain": "FNA có thể không lấy đủ mẫu hoặc cho kết quả không điển hình trong các khối u hoại tử lớn. Sinh thiết mở (lấy một mảnh u) sẽ cho chẩn đoán mô bệnh học chắc chắn. Trong bối cảnh có nguy cơ chèn ép đường thở cấp tính, việc sẵn sàng mở khí quản để bảo vệ đường thở là cần thiết."
+        },
+        {
+          "q": "Tiên lượng của bệnh nhân này như thế nào?",
+          "options": [
+            "A. Rất tốt, tỷ lệ sống sau 5 năm > 95%",
+            "B. Tốt, có thể điều trị khỏi bằng phẫu thuật và Iod phóng xạ",
+            "C. Dè dặt, phụ thuộc vào đáp ứng với hóa trị",
+            "D. Rất xấu, thời gian sống trung bình chỉ vài tháng"
+          ],
+          "answer": 3,
+          "explain": "Tiên lượng của ung thư tuyến giáp không biệt hóa là cực kỳ xấu, với thời gian sống thêm trung bình chỉ từ 3-6 tháng. Hầu hết bệnh nhân tử vong do suy hô hấp do u xâm lấn hoặc do di căn xa."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 25 tuổi, sau sinh 4 tháng, mệt mỏi hồi hộp, sau đó sợ lạnh",
+      "body": "<b>Tiểu sử:</b> Bệnh nhân nữ, 25 tuổi, sau sinh con đầu lòng được 4 tháng, đến khám vì mệt mỏi và hồi hộp. Khai sau sinh khoảng 2 tháng: rất mệt, tim đập nhanh, hay lo lắng, sụt 3kg. Gần đây, các triệu chứng này giảm bớt nhưng bắt đầu cảm thấy sợ lạnh, da khô, tăng cân trở lại.<br><b>Khám:</b> Tuyến giáp to nhẹ, không đau. Mạch 60 lần/phút.<br><b>Xét nghiệm ở 2 tháng sau sinh:</b> TSH < 0.01 (giảm), FT4 tăng.<br><b>Xét nghiệm hiện tại (4 tháng sau sinh):</b> TSH 15 µIU/mL (tăng), FT4 giảm.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất với diễn biến bệnh của bệnh nhân là gì?",
+          "options": [
+            "A. Bệnh Basedow sau sinh",
+            "B. Suy giáp vĩnh viễn",
+            "C. Viêm tuyến giáp sau sinh (Postpartum thyroiditis)",
+            "D. Trầm cảm sau sinh"
+          ],
+          "answer": 2,
+          "explain": "Diễn biến bệnh theo hai pha kinh điển: một pha cường giáp thoáng qua (2 tháng sau sinh) sau đó là một pha suy giáp (4 tháng sau sinh), xảy ra trong vòng 1 năm sau sinh, là rất điển hình cho viêm tuyến giáp sau sinh."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của viêm tuyến giáp sau sinh được cho là gì?",
+          "options": [
+            "A. Do stress của quá trình sinh nở",
+            "B. Do sự \"dội ngược\" của hệ miễn dịch sau tình trạng ức chế miễn dịch sinh lý trong thai kỳ",
+            "C. Do thiếu hụt Iod sau khi cho con bú",
+            "D. Do virus gây ra"
+          ],
+          "answer": 1,
+          "explain": "Trong thai kỳ, hệ miễn dịch của mẹ được điều chỉnh để không đào thải thai nhi. Sau khi sinh, hệ miễn dịch hoạt động mạnh trở lại. Ở những phụ nữ có cơ địa tự miễn (thường có Anti-TPO dương tính từ trước), sự \"dội ngược\" này có thể gây ra một đợt viêm tuyến giáp tự miễn cấp tính."
+        },
+        {
+          "q": "Giai đoạn cường giáp trong viêm tuyến giáp sau sinh là do?",
+          "options": [
+            "A. Tăng tổng hợp hormone giáp",
+            "B. Phá hủy nang giáp và rò rỉ hormone dự trữ",
+            "C. Kích thích của hCG còn sót lại",
+            "D. Dùng thuốc co hồi tử cung"
+          ],
+          "answer": 1,
+          "explain": "Tương tự như viêm tuyến giáp bán cấp, giai đoạn cường giáp trong viêm tuyến giáp sau sinh là do quá trình viêm phá hủy tế bào nang giáp, làm giải phóng hormone dự trữ, không phải do tăng sản xuất."
+        },
+        {
+          "q": "Hầu hết các bệnh nhân bị viêm tuyến giáp sau sinh có diễn biến như thế nào?",
+          "options": [
+            "A. Cần điều trị bằng thuốc kháng giáp suốt đời",
+            "B. Cần điều trị bằng Levothyroxine suốt đời",
+            "C. Chức năng tuyến giáp sẽ tự hồi phục về bình thường trong vòng 1 năm",
+            "D. Bệnh sẽ tái phát trong mỗi lần mang thai sau"
+          ],
+          "answer": 2,
+          "explain": "Viêm tuyến giáp sau sinh là một bệnh lý thường tự giới hạn. Mặc dù có thể gây ra các triệu chứng khó chịu trong các pha cường giáp và suy giáp, hơn 80% phụ nữ sẽ có chức năng tuyến giáp trở về bình thường hoàn toàn trong vòng 12-18 tháng sau sinh."
+        },
+        {
+          "q": "Điều trị giai đoạn suy giáp của bệnh này cần lưu ý điều gì?",
+          "options": [
+            "A. Nên bắt đầu với liều Levothyroxine rất cao",
+            "B. Chỉ cần điều trị trong một thời gian ngắn (ví dụ 6-12 tháng) rồi thử ngưng thuốc",
+            "C. Chống chỉ định cho con bú khi đang dùng thuốc",
+            "D. Cần kết hợp thêm Corticoid"
+          ],
+          "answer": 1,
+          "explain": "Do tình trạng suy giáp thường là tạm thời, bệnh nhân sẽ được điều trị bằng Levothyroxine trong một thời gian để kiểm soát triệu chứng. Sau khoảng 6-12 tháng, bác sĩ sẽ thử giảm liều hoặc ngưng thuốc và kiểm tra lại chức năng tuyến giáp để xem tuyến giáp đã tự hồi phục hay chưa."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 60 tuổi, TSH thấp, không có triệu chứng, cường giáp dưới lâm sàng",
+      "body": "<b>Tiểu sử:</b> Bệnh nhân nữ, 60 tuổi, đến khám vì tình cờ phát hiện TSH thấp trong một đợt kiểm tra sức khỏe. Bệnh nhân hoàn toàn không có triệu chứng, không sụt cân, không hồi hộp, không sợ nóng.<br><b>Khám lâm sàng:</b> Hoàn toàn bình thường, tuyến giáp không to.<br><b>Xét nghiệm kiểm tra lại:</b> TSH 0.08 µIU/mL (giảm nhẹ), FT4 và T3 hoàn toàn bình thường.<br><b>Chẩn đoán ban đầu:</b> Cường giáp dưới lâm sàng.",
+      "questions": [
+        {
+          "q": "Cường giáp dưới lâm sàng được định nghĩa bởi?",
+          "options": [
+            "A. TSH bình thường, FT4/T3 giảm",
+            "B. TSH thấp hoặc bị ức chế, FT4 và T3 bình thường",
+            "C. TSH tăng, FT4 và T3 bình thường",
+            "D. TSH và FT4/T3 đều thấp"
+          ],
+          "answer": 1,
+          "explain": "Định nghĩa của cường giáp dưới lâm sàng (subclinical hyperthyroidism) là một bất thường sinh hóa đơn thuần, với nồng độ TSH huyết thanh thấp hơn giới hạn dưới của khoảng tham chiếu, trong khi nồng độ FT4 và T3 vẫn bình thường."
+        },
+        {
+          "q": "Cơ chế gây ra tình trạng TSH giảm đơn độc này là gì?",
+          "options": [
+            "A. Tuyến yên bị suy giảm chức năng",
+            "B. Tuyến giáp sản xuất một lượng hormone giáp nhiều hơn bình thường một chút, đủ để ức chế một phần TSH nhưng chưa đủ để nâng FT4/T3 ra khỏi giới hạn bình thường",
+            "C. Do dùng một loại thuốc làm giảm TSH",
+            "D. Là một biến thể sinh lý bình thường"
+          ],
+          "answer": 1,
+          "explain": "Đây là giai đoạn sớm nhất của cường giáp, phản ánh sự nhạy cảm của tuyến yên. Một sự gia tăng rất nhỏ và bền bỉ trong sản xuất hormone giáp (từ một nhân tự trị nhỏ hoặc bệnh Basedow giai đoạn đầu) đã đủ để gây ra phản hồi âm và ức chế TSH."
+        },
+        {
+          "q": "Biến chứng lâu dài nào là đáng lo ngại nhất ở người lớn tuổi bị cường giáp dưới lâm sàng không được điều trị?",
+          "options": [
+            "A. Suy tim và rung nhĩ",
+            "B. Loãng xương và tăng nguy cơ gãy xương",
+            "C. Cả A và B",
+            "D. Không có biến chứng nào đáng kể"
+          ],
+          "answer": 2,
+          "explain": "Mặc dù không có triệu chứng, tình trạng dư thừa hormone giáp nhẹ và kéo dài vẫn có những tác động bất lợi. Trên tim, nó làm tăng nguy cơ phát triển rung nhĩ. Trên xương, nó làm tăng chu chuyển xương, dẫn đến mất xương và tăng nguy cơ gãy xương, đặc biệt ở phụ nữ sau mãn kinh."
+        },
+        {
+          "q": "Quyết định điều trị cho bệnh nhân cường giáp dưới lâm sàng phụ thuộc chủ yếu vào?",
+          "options": [
+            "A. Mức độ giảm TSH (TSH < 0.1 hay 0.1-0.4)",
+            "B. Tuổi của bệnh nhân (>65 tuổi)",
+            "C. Sự hiện diện của các bệnh lý đi kèm (bệnh tim, loãng xương)",
+            "D. Tất cả các yếu tố trên"
+          ],
+          "answer": 3,
+          "explain": "Quyết định điều trị không phải lúc nào cũng rõ ràng. Các hướng dẫn thường khuyến cáo điều trị cho những bệnh nhân có nguy cơ biến chứng cao: người > 65 tuổi, người có bệnh tim mạch hoặc loãng xương từ trước, và những người có TSH bị ức chế hoàn toàn (<0.1 µIU/mL) kéo dài."
+        },
+        {
+          "q": "Đối với bệnh nhân này (60 tuổi, TSH 0.08), thái độ xử trí nào là hợp lý?",
+          "options": [
+            "A. Trấn an và không cần làm gì thêm",
+            "B. Bắt đầu điều trị bằng Methimazole ngay lập tức",
+            "C. Lặp lại xét nghiệm sau 3-6 tháng, tìm nguyên nhân và xem xét điều trị nếu tình trạng kéo dài, đặc biệt nếu bệnh nhân có bệnh tim",
+            "D. Chỉ định phẫu thuật tuyến giáp"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân này ở ranh giới về tuổi tác và có TSH khá thấp. Hướng tiếp cận hợp lý là không điều trị ngay mà cần xác định nguyên nhân (siêu âm, xạ hình) và theo dõi. Nếu tình trạng này là bền vững, việc điều trị nên được cân nhắc để ngăn ngừa các biến chứng tim mạch và xương lâu dài."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi, khàn tiếng, gia đình có tiền sử ung thư giáp, MTC",
+      "body": "<b>Tiểu sử:</b> Bệnh nhân nam, 45 tuổi, đến khám vì khàn tiếng và sờ thấy khối ở cổ. Gia đình có bố và anh trai bị ung thư tuyến giáp và đã phải phẫu thuật.<br><b>Khám:</b> Tuyến giáp có một nhân cứng, đường kính 2cm ở thùy phải, có vài hạch cổ cùng bên.<br><b>Xét nghiệm chức năng:</b> TSH và FT4 bình thường.<br><b>FNA nhân giáp và hạch:</b> Ung thư tuyến giáp dạng tủy.<br><b>Xét nghiệm máu chuyên sâu:</b> Nồng độ Calcitonin và CEA (kháng nguyên carcinoembryonic) tăng rất cao.",
+      "questions": [
+        {
+          "q": "Ung thư tuyến giáp dạng tủy (MTC) có nguồn gốc từ loại tế bào nào?",
+          "options": [
+            "A. Tế bào nang giáp (follicular cells)",
+            "B. Tế bào cạnh nang hay tế bào C (parafollicular cells)",
+            "C. Tế bào lympho trong tuyến giáp",
+            "D. Tế bào liên kết"
+          ],
+          "answer": 1,
+          "explain": "MTC là một khối u thần kinh nội tiết, xuất phát từ các tế bào C của tuyến giáp. Các tế bào này có nguồn gốc từ mào thần kinh và có chức năng sản xuất hormone Calcitonin, một hormone tham gia vào chuyển hóa calci."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của MTC có tính chất gia đình thường liên quan đến đột biến dòng mầm của gen nào?",
+          "options": [
+            "A. Gen BRAF",
+            "B. Gen p53",
+            "C. Proto-oncogene RET",
+            "D. Gen TSH-receptor"
+          ],
+          "answer": 2,
+          "explain": "Hầu hết các trường hợp MTC có tính gia đình và một phần các trường hợp lẻ tẻ là do đột biến hoạt hóa trong proto-oncogene RET. Việc xét nghiệm đột biến gen RET là bắt buộc cho các bệnh nhân MTC để tầm soát cho các thành viên trong gia đình."
+        },
+        {
+          "q": "Chất chỉ điểm khối u (tumor marker) nào là đặc hiệu và nhạy nhất để chẩn đoán và theo dõi MTC?",
+          "options": [
+            "A. Thyroglobulin (Tg)",
+            "B. TSH",
+            "C. Calcitonin",
+            "D. AFP"
+          ],
+          "answer": 2,
+          "explain": "Calcitonin được sản xuất bởi các tế bào C. Trong MTC, các tế bào ung thư sản xuất một lượng lớn Calcitonin. Do đó, nồng độ Calcitonin trong huyết thanh là một dấu ấn sinh học cực kỳ nhạy và đặc hiệu, được dùng để chẩn đoán, theo dõi tái phát và đánh giá đáp ứng điều trị."
+        },
+        {
+          "q": "Ung thư tuyến giáp dạng tủy có thể là một phần của hội chứng đa u tuyến nội tiết nào?",
+          "options": [
+            "A. MEN type 1",
+            "B. MEN type 2A và 2B",
+            "C. Hội chứng Von Hippel-Lindau",
+            "D. U sợi thần kinh type 1"
+          ],
+          "answer": 1,
+          "explain": "MTC là một thành phần chính trong hội chứng Đa u tuyến nội tiết (Multiple Endocrine Neoplasia) type 2A (kết hợp với u tủy thượng thận và u tuyến cận giáp) và type 2B (kết hợp với u tủy thượng thận và các u dây thần kinh đa ổ)."
+        },
+        {
+          "q": "Tại sao Iod phóng xạ không có vai trò trong điều trị ung thư tuyến giáp dạng tủy?",
+          "options": [
+            "A. Vì khối u thường kháng với bức xạ",
+            "B. Vì tế bào C không có khả năng bắt giữ Iod",
+            "C. Vì nguy cơ gây ra cơn bão giáp",
+            "D. Vì gây suy giáp nặng"
+          ],
+          "answer": 1,
+          "explain": "Liệu pháp Iod phóng xạ hoạt động dựa trên khả năng của các tế bào nang giáp (và các ung thư xuất phát từ chúng như dạng nhú, dạng nang) bắt và cô đặc Iod. Tế bào C, nguồn gốc của MTC, không có bơm Natri-Iod (NIS) và do đó không thể bắt giữ Iod. Vì vậy, I-131 hoàn toàn không có tác dụng trong điều trị MTC."
+        }
+      ]
+    }
+  ]
+}
