@@ -1,0 +1,620 @@
+{
+  "name": "Suy thượng thận mạn",
+  "description": "10 tình huống lâm sàng chi tiết về bệnh Addison và suy thượng thận mạn tính, bao gồm chẩn đoán, cơ chế bệnh sinh, xét nghiệm, và quản lý điều trị trong các tình huống khác nhau",
+  "level": "ôn thi nội trú - Nội tiết học nâng cao",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Nội tiết",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 35 tuổi với mệt mỏi, sụt cân và sạm da",
+      "body": "<b>Tiền sử:</b> Bệnh nhân nữ, 35 tuổi, đến khám vì mệt mỏi và sụt cân không rõ nguyên nhân trong khoảng 6 tháng. Khai thấy mệt lả, không có sức lực, đặc biệt vào buổi chiều, chán ăn, sụt 5kg. Gần đây, da sạm đen nhiều, đặc biệt ở vùng da hở, nếp gấp lòng bàn tay và niêm mạc miệng có những chấm đen. Hay chóng mặt khi thay đổi tư thế, thèm ăn mặn. Tiền sử không có bệnh lý đáng chú ý, không dùng thuốc gì.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, thể trạng gầy, da niêm mạc sạm đen rõ. Mạch 90 lần/phút, huyết áp 90/60 mmHg, không sốt. Tim phổi bình thường, bụng mềm không đau. Không có triệu chứng nam hóa.<br><br><b>Xét nghiệm:</b> Cortisol máu lúc 8 giờ sáng: 55 nmol/L (rất thấp). Na⁺: 128 mmol/L (giảm), K⁺: 5.5 mmol/L (tăng). Glucose máu: 3.8 mmol/L (giảm). ACTH máu 8h sáng: 450 pg/mL (tăng cao).",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào là phù hợp nhất với bệnh nhân?",
+          "options": [
+            "Suy giáp nguyên phát",
+            "Suy thượng thận nguyên phát mạn tính (Bệnh Addison)",
+            "Suy thượng thận thứ phát do u tuyến yên",
+            "Hội chứng cận ung thư"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh mệt mỏi, sụt cân, hạ huyết áp, sạm da kết hợp với rối loạn sinh hóa kinh điển (cortisol máu buổi sáng rất thấp 55 nmol/L, ACTH tăng cao 450 pg/mL, hạ Na⁺ 128, tăng K⁺ 5.5) là rất điển hình cho suy thượng thận nguyên phát tiên phát (tổn thương tại tuyến thượng thận)."
+        },
+        {
+          "q": "Cơ chế chính gây ra tình trạng sạm da ở bệnh nhân này là gì?",
+          "options": [
+            "Do nồng độ cortisol thấp kích thích tế bào hắc tố",
+            "Do sự tích tụ bilirubin trong da",
+            "Do nồng độ ACTH tăng cao, và tiền chất của nó (POMC) cũng tạo ra MSH, kích thích sản xuất melanin",
+            "Do lắng đọng sắt ở da"
+          ],
+          "answer": 2,
+          "explain": "Khi Cortisol giảm, tuyến yên tăng tiết ACTH bù trừ. Tiền chất POMC bị cắt thành ACTH và MSH (hormone kích thích hắc tố bào). Nồng độ ACTH và MSH tăng cao sẽ kích thích các tế bào melanocyte ở da và niêm mạc tăng sản xuất melanin, gây sạm da."
+        },
+        {
+          "q": "Rối loạn điện giải (hạ Natri, tăng Kali) được giải thích bởi sự thiếu hụt hormone nào?",
+          "options": [
+            "Cortisol",
+            "Aldosterone",
+            "Androgen",
+            "Adrenaline"
+          ],
+          "answer": 1,
+          "explain": "Aldosterone là mineralocorticoid chính, có vai trò quan trọng trong việc tái hấp thu Natri và bài tiết Kali ở ống thận. Khi tuyến thượng thận bị phá hủy, sự thiếu hụt Aldosterone sẽ dẫn đến mất Natri (hạ Na⁺) và giữ Kali (tăng K⁺)."
+        },
+        {
+          "q": "Liệu pháp hormone thay thế nào là bắt buộc và cần được bắt đầu ngay cho bệnh nhân này?",
+          "options": [
+            "Chỉ cần bổ sung Glucocorticoid (Hydrocortisone)",
+            "Chỉ cần bổ sung Mineralocorticoid (Fludrocortisone)",
+            "Phối hợp cả Glucocorticoid và Mineralocorticoid",
+            "Dùng thuốc kích thích tuyến yên (CRH)"
+          ],
+          "answer": 2,
+          "explain": "Bệnh Addison là tình trạng suy toàn bộ vỏ thượng thận, thiếu hụt cả glucocorticoid và mineralocorticoid. Do đó, điều trị thay thế phải bao gồm cả hai loại hormone: Hydrocortisone để thay thế cortisol và Fludrocortisone để thay thế aldosterone."
+        },
+        {
+          "q": "Nghiệm pháp nào sau đây giúp khẳng định chẩn đoán suy thượng thận nguyên phát?",
+          "options": [
+            "Nghiệm pháp ức chế bằng Dexamethasone liều cao",
+            "Nghiệm pháp kích thích bằng ACTH tổng hợp (Synacthen test)",
+            "Nghiệm pháp dung nạp glucose đường uống",
+            "Đo nồng độ Renin huyết tương"
+          ],
+          "answer": 1,
+          "explain": "Test kích thích bằng 250 mcg cosyntropin (Synacthen) là tiêu chuẩn vàng để chẩn đoán suy thượng thận nguyên phát. Nó đánh giá khả năng dự trữ của vỏ thượng thận. Nếu tuyến bị hỏng, nó sẽ không tăng tiết cortisol sau tiêm (cortisol đỉnh <18 mcg/dL là bệnh, >18-20 mcg/dL là bình thường)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi với sốc giảm thể tích sau nhiễm trùng",
+      "body": "<b>Tiền sử:</b> Bệnh nhân nam, 45 tuổi, được chẩn đoán bệnh Addison do tự miễn cách đây 5 năm, đang điều trị thay thế bằng Hydrocortisone và Fludrocortisone. Được đưa vào cấp cứu vì nôn ói, đau bụng và lơ mơ. Người nhà khai 3 ngày nay bệnh nhân bị sốt, ho, được chẩn đoán viêm phế quản và tự uống thuốc tại nhà mà không tăng liều hydrocortisone. Sáng nay, nôn liên tục, đau bụng dữ dội, sau đó khó nói và lơ mơ dần.<br><br><b>Khám lâm sàng:</b> Bệnh nhân lơ mơ, GCS 13. Da lạnh, vã mồ hôi. Mạch 130 lần/phút (nhỏ, khó bắt), huyết áp 70/40 mmHg, nhiệt độ 38.5°C, nhịp thở 28 lần/phút. Bụng mềm, ấn đau lan tỏa. Dấu hiệu sạm da, mất nước rõ.<br><br><b>Xét nghiệm:</b> Glucose máu: 2.8 mmol/L. Na⁺: 125 mmol/L, K⁺: 6.2 mmol/L. Creatinin: 150 µmol/L.",
+      "questions": [
+        {
+          "q": "Tình trạng cấp cứu của bệnh nhân được gọi là gì?",
+          "options": [
+            "Sốc nhiễm trùng",
+            "Cơn suy thượng thận cấp (Khủng hoảng Addison)",
+            "Nhiễm toan ceton do đái tháo đường",
+            "Nhồi máu cơ tim cấp"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh một bệnh nhân suy thượng thận mạn tính có yếu tố stress (nhiễm trùng) diễn tiến đến tình trạng sốc, tụt huyết áp sâu, rối loạn tri giác, hạ đường huyết nặng và rối loạn điện giải là điển hình của cơn suy thượng thận cấp."
+        },
+        {
+          "q": "Yếu tố thúc đẩy chính gây ra cơn suy thượng thận cấp ở bệnh nhân này là gì?",
+          "options": [
+            "Dùng quá liều thuốc Fludrocortisone",
+            "Bỏ một liều thuốc Hydrocortisone",
+            "Tình trạng stress do nhiễm trùng cấp tính mà không tăng liều glucocorticoid thay thế",
+            "Tác dụng phụ của thuốc kháng sinh"
+          ],
+          "answer": 2,
+          "explain": "Khi cơ thể bị stress (nhiễm trùng, chấn thương, phẫu thuật...), nhu cầu cortisol sẽ tăng lên gấp nhiều lần so với bình thường. Ở bệnh nhân suy thượng thận, tuyến thượng thận không thể tự tăng sản xuất cortisol. Nếu bệnh nhân không chủ động tăng liều thuốc thay thế, họ sẽ rơi vào tình trạng thiếu hụt cortisol cấp tính, dẫn đến khủng hoảng."
+        },
+        {
+          "q": "Cơ chế chính gây ra trụy tuần hoàn (sốc) trong cơn suy thượng thận cấp là gì?",
+          "options": [
+            "Thiếu hụt Cortisol làm giảm nhạy cảm của mạch máu với các chất co mạch và tăng tính thấm thành mạch",
+            "Thiếu hụt Aldosterone gây mất muối nước nặng",
+            "Cả A và B đều đúng",
+            "Nhiễm toan chuyển hóa nặng"
+          ],
+          "answer": 2,
+          "explain": "Sốc trong suy thượng thận cấp là sốc hỗn hợp. Thiếu aldosterone làm giảm bài tiết kali và mất natri, giảm thể tích tuần hoàn. Thiếu cortisol làm mạch máu giãn ra, không đáp ứng với các chất co mạch tự nhiên, và làm dịch thoát ra khỏi lòng mạch. Cả hai cơ chế này cùng lúc gây ra tụt huyết áp và sốc nặng."
+        },
+        {
+          "q": "Can thiệp nào sau đây là quan trọng nhất và phải được thực hiện ngay lập tức?",
+          "options": [
+            "Tiêm tĩnh mạch liều cao Hydrocortisone",
+            "Truyền tĩnh mạch nhanh dung dịch NaCl 0.9%",
+            "Truyền tĩnh mạch dung dịch Glucose ưu trương",
+            "Cả A, B và C"
+          ],
+          "answer": 3,
+          "explain": "Cơn suy thượng thận cấp là một cấp cứu nội khoa đòi hỏi xử trí nhanh chóng và đồng bộ: (A) Tiêm ngay Hydrocortisone 100mg tĩnh mạch để bù đắp sự thiếu hụt hormone; (B) Truyền dịch nhanh NaCl 0.9% để bù lại thể tích tuần hoàn; (C) Truyền Glucose ưu trương để điều trị hạ đường huyết."
+        },
+        {
+          "q": "\"Quy tắc ngày bệnh\" (sick day rules) cho bệnh nhân suy thượng thận mạn tính khuyên bệnh nhân nên làm gì khi bị sốt hoặc nhiễm trùng nhẹ?",
+          "options": [
+            "Giảm liều Hydrocortisone đi một nửa",
+            "Tạm ngưng thuốc Fludrocortisone",
+            "Tăng gấp đôi hoặc gấp ba liều Hydrocortisone hàng ngày",
+            "Uống thêm nhiều nước"
+          ],
+          "answer": 2,
+          "explain": "Khi có stress sinh lý (sốt >38°C, nhiễm trùng...), bệnh nhân cần tăng liều Hydrocortisone gấp đôi hoặc gấp ba (quy tắc 2x2 hoặc 3x3) để bù đắp nhu cầu sinh lý tăng vọt, phòng ngừa suy cấp. Đây là nguyên tắc cơ bản để phòng ngừa khủng hoảng Addison."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 40 tuổi sau phẫu thuật tuyến yên với cortisol và ACTH đều thấp",
+      "body": "<b>Tiền sử:</b> Bệnh nhân nữ, 40 tuổi, đã phẫu thuật cắt bỏ khối u tuyến yên (Bệnh Cushing) cách đây 2 năm. Sau mổ, hết các triệu chứng của Cushing. Tuy nhiên, 6 tháng nay cảm thấy mệt mỏi, chán ăn, buồn nôn và đau khớp. Không bị sạm da, huyết áp 100/70 mmHg.<br><br><b>Xét nghiệm:</b> Cortisol máu 8h sáng: 45 nmol/L (thấp). ACTH máu 8h sáng: 5 pg/mL (thấp). Na⁺: 138 mmol/L, K⁺: 4.2 mmol/L (bình thường). Nghiệm pháp kích thích bằng Synacthen: Cortisol máu tăng lên đến 550 nmol/L sau 60 phút (bình thường).",
+      "questions": [
+        {
+          "q": "Chẩn đoán của bệnh nhân là gì?",
+          "options": [
+            "Bệnh Cushing tái phát",
+            "Suy thượng thận nguyên phát",
+            "Suy thượng thận thứ phát (do nguyên nhân tại tuyến yên)",
+            "Bệnh Addison"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có triệu chứng suy thượng thận, cortisol máu thấp, và đặc biệt là ACTH cũng thấp (5 pg/mL). Điều này chỉ ra rằng vấn đề nằm ở tuyến yên hoặc vùng dưới đồi - không thể sản xuất đủ ACTH để kích thích tuyến thượng thận. Đây là suy thượng thận thứ phát."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của tình trạng này là gì?",
+          "options": [
+            "Tuyến thượng thận bị phá hủy do tự miễn",
+            "Cuộc phẫu thuật tuyến yên đã làm tổn thương các tế bào sản xuất ACTH bình thường",
+            "Do một khối u di căn đến tuyến thượng thận",
+            "Do ngưng đột ngột thuốc corticoid"
+          ],
+          "answer": 1,
+          "explain": "Suy thượng thận thứ phát là một biến chứng có thể xảy ra sau phẫu thuật hoặc xạ trị vùng tuyến yên. Cuộc mổ, dù là để lấy bỏ khối u, cũng có thể làm tổn thương các tế bào tuyến yên bình thường xung quanh, bao gồm cả các tế bào sản xuất ACTH."
+        },
+        {
+          "q": "Tại sao bệnh nhân này không bị sạm da và có điện giải đồ bình thường?",
+          "options": [
+            "Vì tình trạng suy thượng thận còn nhẹ",
+            "Vì trong suy thượng thận thứ phát, ACTH thấp (không gây sạm da) và sự sản xuất Aldosterone thường được bảo tồn",
+            "Vì bệnh nhân là nữ giới",
+            "Do bệnh nhân có dùng các loại kem làm trắng da"
+          ],
+          "answer": 1,
+          "explain": "Sạm da là do ACTH cao. Trong suy thượng thận thứ phát, ACTH thấp nên không có sạm da. Hệ Renin-Angiotensin-Aldosterone (điều hòa aldosterone) không phụ thuộc vào ACTH và thường vẫn nguyên vẹn. Do đó, bệnh nhân không bị thiếu Aldosterone, không bị mất muối và không bị tăng Kali máu."
+        },
+        {
+          "q": "Kết quả của nghiệm pháp kích thích bằng Synacthen có ý nghĩa gì?",
+          "options": [
+            "Khẳng định chẩn đoán suy thượng thận nguyên phát",
+            "Cho thấy tuyến thượng thận vẫn còn khả năng đáp ứng tốt với kích thích, chứng tỏ vấn đề không nằm tại tuyến thượng thận",
+            "Cho thấy bệnh nhân có hội chứng kháng cortisol",
+            "Kết quả không có ý nghĩa chẩn đoán"
+          ],
+          "answer": 1,
+          "explain": "Nghiệm pháp Synacthen dương tính (Cortisol tăng tốt sau tiêm ACTH: 550 nmol/L, tương đương >18 mcg/dL) chứng tỏ rằng tuyến thượng thận vẫn còn 'khỏe mạnh' và sẵn sàng hoạt động nếu nhận được tín hiệu. Điều này giúp loại trừ suy thượng thận nguyên phát và xác nhận chẩn đoán suy thượng thận thứ phát."
+        },
+        {
+          "q": "Điều trị thay thế cho bệnh nhân này thường chỉ cần sử dụng loại hormone nào?",
+          "options": [
+            "Chỉ cần Glucocorticoid (Hydrocortisone)",
+            "Chỉ cần Mineralocorticoid (Fludrocortisone)",
+            "Cả Glucocorticoid và Mineralocorticoid",
+            "Chỉ cần Androgen (DHEA)"
+          ],
+          "answer": 0,
+          "explain": "Do bệnh nhân chỉ bị thiếu hụt Cortisol (vì thiếu ACTH) trong khi chức năng sản xuất Aldosterone vẫn được bảo tồn (do không bị tổn thương vỏ thượng thận lớp cầu), liệu pháp thay thế thường chỉ cần bổ sung Glucocorticoid. Việc bổ sung Mineralocorticoid là không cần thiết."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi ngưng đột ngột corticoid sau 10 năm sử dụng",
+      "body": "<b>Tiền sử:</b> Bệnh nhân nam, 62 tuổi, bị hen phế quản nặng, đã sử dụng Medrol (Methylprednisolone) 8mg/ngày liên tục trong 10 năm. Gần đây, cảm thấy trong người khỏe hơn, nên tự ý ngưng thuốc đột ngột được 5 ngày. Hôm nay cảm thấy mệt lả, buồn nôn, đau nhức cơ khớp lan tỏa và chóng mặt.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, mệt mỏi, huyết áp 95/60 mmHg. Không có dấu hiệu của Cushing.<br><br><b>Xét nghiệm:</b> Cortisol máu 8h sáng: 30 nmol/L (rất thấp). ACTH: <5 pg/mL (rất thấp).",
+      "questions": [
+        {
+          "q": "Tình trạng của bệnh nhân được gây ra bởi nguyên nhân gì?",
+          "options": [
+            "Bệnh hen tái phát nặng",
+            "Dị ứng thuốc",
+            "Suy thượng thận cấp do ngưng corticoid đột ngột",
+            "Nhiễm virus"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh mệt lả, tụt huyết áp, buồn nôn xuất hiện ngay sau khi ngưng đột ngột một đợt điều trị corticoid kéo dài là rất điển hình cho một cơn suy thượng thận cấp do thuốc."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của suy thượng thận do corticoid là gì?",
+          "options": [
+            "Corticoid gây độc trực tiếp và phá hủy tế bào vỏ thượng thận",
+            "Corticoid ngoại sinh liều cao và kéo dài gây ức chế trục hạ đồi-tuyến yên, làm teo vỏ thượng thận",
+            "Corticoid làm tăng chuyển hóa và thải trừ hormone thượng thận",
+            "Corticoid gây ra tự kháng thể chống lại tuyến thượng thận"
+          ],
+          "answer": 1,
+          "explain": "Đây là nguyên nhân phổ biến nhất của suy thượng thận. Khi dùng corticoid ngoại sinh với liều cao hơn liều sinh lý trong thời gian dài (>2-3 tuần), nó gây phản hồi âm mạnh lên vùng dưới đồi (giảm tiết CRH) và tuyến yên (giảm tiết ACTH). Mất đi sự kích thích của ACTH, vỏ thượng thận bị teo lại và mất khả năng sản xuất cortisol."
+        },
+        {
+          "q": "Loại suy thượng thận do corticoid gây ra được phân loại là gì?",
+          "options": [
+            "Suy thượng thận nguyên phát",
+            "Suy thượng thận thứ phát",
+            "Suy thượng thận thứ ba (tertiary)",
+            "B và C đều đúng"
+          ],
+          "answer": 3,
+          "explain": "Về bản chất, tổn thương khởi đầu là do thuốc ức chế vùng dưới đồi (suy thượng thận thứ ba) và tuyến yên (suy thượng thận thứ phát), dẫn đến suy chức năng của tuyến thượng thận. Do đó, nó mang đặc điểm của cả suy thứ phát và thứ ba, được gọi chung là suy thượng thận trung ương."
+        },
+        {
+          "q": "Triệu chứng đau cơ khớp lan tỏa sau khi ngưng corticoid được gọi là gì?",
+          "options": [
+            "Hội chứng giả thấp khớp (Pseudorheumatism)",
+            "Viêm đa cơ",
+            "Đau xơ cơ",
+            "Gout cấp"
+          ],
+          "answer": 0,
+          "explain": "Đây là một triệu chứng đặc trưng của hội chứng ngưng corticoid, bao gồm các triệu chứng không đặc hiệu như đau cơ, đau khớp, mệt mỏi, bong da, sốt nhẹ, phản ánh sự thiếu hụt glucocorticoid tương đối ở mức độ mô."
+        },
+        {
+          "q": "Biện pháp xử trí ngay lập tức cho bệnh nhân này là gì?",
+          "options": [
+            "Cho thuốc giãn phế quản liều cao",
+            "Bắt đầu lại ngay liều corticoid mà bệnh nhân đã dùng trước đó hoặc tiêm Hydrocortisone tĩnh mạch",
+            "Bù dịch và điện giải",
+            "Cho thuốc giảm đau thông thường"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân đang ở trong tình trạng thiếu hụt cortisol cấp tính. Việc cần làm ngay là phải cung cấp lại ngay lập tức lượng glucocorticoid mà cơ thể đang thiếu hụt, thường bằng cách tiêm Hydrocortisone tĩnh mạch hoặc cho bệnh nhân uống lại liều corticoid cũ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 28 tuổi với tiền sử ĐTĐ type 1 và suy giáp tự miễn",
+      "body": "<b>Tiền sử:</b> Bệnh nhân nữ, 28 tuổi, có tiền sử đái tháo đường type 1 và suy giáp do viêm tuyến giáp Hashimoto, đang điều trị bằng Insulin và Levothyroxine. Đến khám vì sạm da và mệt mỏi ngày càng tăng.<br><br><b>Khám lâm sàng:</b> Bệnh nhân có huyết áp thấp (95/65 mmHg), sạm da ở các nếp gấp.<br><br><b>Xét nghiệm:</b> Cortisol máu 8h sáng: thấp. ACTH: tăng cao. Chẩn đoán bệnh Addison được đặt ra.",
+      "questions": [
+        {
+          "q": "Sự kết hợp của nhiều bệnh lý tự miễn nội tiết trên cùng một bệnh nhân được gọi là gì?",
+          "options": [
+            "Hội chứng Cushing",
+            "Hội chứng đa u tuyến nội tiết (MEN)",
+            "Hội chứng tự miễn đa tuyến (Autoimmune Polyglandular Syndrome - APS)",
+            "Hội chứng Turner"
+          ],
+          "answer": 2,
+          "explain": "APS là một nhóm các rối loạn đặc trưng bởi sự suy giảm chức năng của nhiều tuyến nội tiết do cơ chế tự miễn, thường kết hợp với các bệnh tự miễn ngoài tuyến nội tiết khác."
+        },
+        {
+          "q": "Bệnh Addison, ĐTĐ type 1 và bệnh tuyến giáp tự miễn là các thành phần của hội chứng nào?",
+          "options": [
+            "APS type 1",
+            "APS type 2 (Hội chứng Schmidt)",
+            "APS type 3",
+            "APS type 4"
+          ],
+          "answer": 1,
+          "explain": "APS type 2, hay hội chứng Schmidt, được định nghĩa bởi sự hiện diện của bệnh Addison kết hợp với bệnh tuyến giáp tự miễn (Hashimoto hoặc Basedow) và/hoặc đái tháo đường type 1."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chung của các bệnh lý trong hội chứng này là gì?",
+          "options": [
+            "Do một khối u đa năng ở tuyến yên",
+            "Do một cơ địa di truyền dễ mắc các bệnh tự miễn, trong đó hệ miễn dịch tấn công nhầm vào nhiều tuyến nội tiết khác nhau",
+            "Do nhiễm trùng lan tỏa đến nhiều tuyến",
+            "Do tác dụng phụ của một loại thuốc"
+          ],
+          "answer": 1,
+          "explain": "Các bệnh nhân APS có một khuynh hướng di truyền (thường liên quan đến các gen HLA) làm cho hệ miễn dịch bị rối loạn điều hòa, mất khả năng dung thứ với các kháng nguyên của bản thân, sinh ra các tự kháng thể hoặc tế bào T tự phản ứng tấn công các tuyến nội tiết."
+        },
+        {
+          "q": "Khi bắt đầu điều trị thay thế hormone cho bệnh nhân vừa bị suy giáp, vừa bị suy thượng thận, nguyên tắc nào là bắt buộc?",
+          "options": [
+            "Bắt đầu điều trị Levothyroxine trước",
+            "Bắt đầu điều trị Hydrocortisone trước, sau đó mới bắt đầu Levothyroxine",
+            "Bắt đầu cả hai loại thuốc cùng một lúc",
+            "Chỉ cần điều trị một trong hai bệnh là bệnh còn lại sẽ tự khỏi"
+          ],
+          "answer": 1,
+          "explain": "Đây là một nguyên tắc vàng trong nội tiết. Phải luôn luôn bù đắp sự thiếu hụt cortisol TRƯỚC KHI bắt đầu điều trị thay thế hormone giáp."
+        },
+        {
+          "q": "Tại sao việc bắt đầu điều trị bằng Levothyroxine trước lại nguy hiểm?",
+          "options": [
+            "Vì nó có thể gây ra cơn bão giáp",
+            "Vì hormone giáp làm tăng chuyển hóa và thanh thải cortisol, trong khi bệnh nhân đã bị thiếu hụt cortisol sẵn, có thể thúc đẩy cơn suy thượng thận cấp",
+            "Vì nó làm tăng nồng độ TSH",
+            "Vì nó gây tương tác thuốc, làm giảm hấp thu Hydrocortisone"
+          ],
+          "answer": 1,
+          "explain": "Hormone giáp làm tăng tốc độ chuyển hóa của toàn bộ cơ thể, bao gồm chuyển hóa và thanh thải cortisol ở gan. Ở bệnh nhân bị suy thượng thận chưa được chẩn đoán hoặc điều trị, việc bắt đầu dùng Levothyroxine sẽ làm tăng nhu cầu cortisol trong khi cơ thể không thể đáp ứng, dẫn đến thiếu hụt cortisol cấp tính và có thể gây khủng hoảng Addison chết người."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi với tiền sử lao phổi và hình ảnh CT thượng thận",
+      "body": "<b>Tiền sử:</b> Bệnh nhân nam, 50 tuổi, có tiền sử lao phổi đã điều trị khỏi cách đây 10 năm. Gần đây mệt mỏi, sụt cân, huyết áp thấp. Xét nghiệm chẩn đoán suy thượng thận nguyên phát.<br><br><b>Hình ảnh:</b> Chụp CT scan bụng: hai tuyến thượng thận to, có vôi hóa và hoại tử trung tâm.",
+      "questions": [
+        {
+          "q": "Nguyên nhân nào gây suy thượng thận ở bệnh nhân này là có khả năng nhất?",
+          "options": [
+            "Di căn ung thư",
+            "Lao tuyến thượng thận",
+            "Bệnh tự miễn (Addison)",
+            "Xuất huyết thượng thận"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có tiền sử lao phổi, và hình ảnh CT scan thượng thận có vôi hóa và hoại tử là rất điển hình cho lao tuyến thượng thận, một nguyên nhân quan trọng gây suy thượng thận nguyên phát, đặc biệt ở các nước đang phát triển."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của lao tuyến thượng thận là gì?",
+          "options": [
+            "Do vi khuẩn lao tấn công trực tiếp vào tuyến thượng thận",
+            "Do vi khuẩn lao từ ổ nhiễm nguyên phát (thường là phổi) theo đường máu đến khu trú tại tuyến thượng thận và gây phá hủy tuyến",
+            "Do phản ứng miễn dịch của cơ thể với lao gây tổn thương chéo tuyến thượng thận",
+            "Do thuốc điều trị lao gây độc cho tuyến thượng thận"
+          ],
+          "answer": 1,
+          "explain": "Tuyến thượng thận là cơ quan có hệ thống mạch máu rất phong phú. Trong quá trình nhiễm lao tiên phát hoặc thứ phát, vi khuẩn lao có thể theo đường máu đến đây. Môi trường giàu oxy và lipid của vỏ thượng thận là điều kiện thuận lợi cho vi khuẩn phát triển, gây các tổn thương u hạt, hoại tử bã đậu và phá hủy dần nhu mô tuyến."
+        },
+        {
+          "q": "Đặc điểm hình ảnh học nào trên CT scan là gợi ý mạnh mẽ đến lao tuyến thượng thận?",
+          "options": [
+            "Teo nhỏ hai tuyến thượng thận",
+            "Có một khối adenoma đơn độc",
+            "Tuyến thượng thận to hai bên, có hoại tử bã đậu ở trung tâm và vôi hóa ngoại vi",
+            "Tăng sản lan tỏa đồng nhất"
+          ],
+          "answer": 2,
+          "explain": "Trong giai đoạn sớm, lao có thể làm tuyến thượng thận to ra. Ở giai đoạn mạn tính, hình ảnh điển hình là phá hủy nhu mô tuyến, hình thành các vùng hoại tử trung tâm (giảm tỷ trọng) và đặc biệt là lắng đọng calci (vôi hóa ngoại vi)."
+        },
+        {
+          "q": "So với bệnh Addison tự miễn, tiên lượng của suy thượng thận do lao như thế nào?",
+          "options": [
+            "Tốt hơn vì có thể tự hồi phục",
+            "Tương tự nhau, đều cần điều trị thay thế hormone suốt đời",
+            "Xấu hơn vì thường liên quan đến tình trạng lao lan tỏa ở các cơ quan khác",
+            "Phụ thuộc vào đáp ứng với kháng sinh"
+          ],
+          "answer": 1,
+          "explain": "Bất kể nguyên nhân là gì (tự miễn, lao, di căn...), một khi nhu mô tuyến thượng thận đã bị phá hủy và gây ra suy thượng thận mạn tính, tình trạng này thường là không hồi phục. Bệnh nhân sẽ cần phải điều trị thay thế bằng glucocorticoid và mineralocorticoid suốt đời."
+        },
+        {
+          "q": "Trước đây, lao là nguyên nhân hàng đầu gây bệnh Addison. Hiện nay ở các nước phát triển, nguyên nhân phổ biến nhất là gì?",
+          "options": [
+            "Di căn ung thư",
+            "Viêm thượng thận tự miễn",
+            "Nhiễm nấm",
+            "Xuất huyết thượng thận"
+          ],
+          "answer": 1,
+          "explain": "Trong khi lao vẫn là nguyên nhân chính ở nhiều nơi trên thế giới, ở các nước phát triển, nguyên nhân hàng đầu của bệnh Addison hiện nay là do quá trình tự miễn, chiếm khoảng 70-90% các trường hợp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 30 tuổi với nhiễm não mô cầu và hội chứng Waterhouse-Friderichsen",
+      "body": "<b>Tiền sử:</b> Bệnh nhân nữ, 30 tuổi, bị suy thượng thận cấp nghi do xuất huyết thượng thận hai bên sau một đợt nhiễm não mô cầu (hội chứng Waterhouse-Friderichsen). Bệnh nhân được hồi sức tích cực, điều trị bằng kháng sinh và hydrocortisone liều cao. Sau khi qua cơn nguy kịch, tình trạng huyết động ổn định. Bác sĩ cần đánh giá lại chức năng của trục hạ đồi-tuyến yên-thượng thận.",
+      "questions": [
+        {
+          "q": "Hội chứng Waterhouse-Friderichsen được định nghĩa là gì?",
+          "options": [
+            "Suy thượng thận tự miễn cấp tính",
+            "Xuất huyết tuyến thượng thận hai bên, thường xảy ra trong bối cảnh nhiễm trùng huyết nặng",
+            "Bướu giáp chìm gây chèn ép",
+            "U tuyến yên khổng lồ"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng Waterhouse-Friderichsen là một tình trạng tối cấp, đặc trưng bởi sự suy sụp tuần hoàn nhanh chóng, ban xuất huyết lan tỏa và xuất huyết lan rộng vào hai tuyến thượng thận, thường là biến chứng của nhiễm trùng huyết do Neisseria meningitidis."
+        },
+        {
+          "q": "Cơ chế gây xuất huyết thượng thận trong nhiễm trùng huyết nặng là gì?",
+          "options": [
+            "Rối loạn đông máu lan tỏa nội mạch (DIC)",
+            "Tổn thương nội mô mạch máu do nội độc tố của vi khuẩn",
+            "Huyết khối vi mạch",
+            "Tất cả các cơ chế trên"
+          ],
+          "answer": 3,
+          "explain": "Trong nhiễm trùng huyết nặng, các nội độc tố vi khuẩn kích hoạt một loạt phản ứng viêm và đông máu, dẫn đến DIC, tổn thương tế bào nội mạc, hình thành huyết khối và xuất huyết lan tỏa. Tuyến thượng thận là một trong những cơ quan đích dễ bị ảnh hưởng nhất."
+        },
+        {
+          "q": "Tại sao tuyến thượng thận lại dễ bị tổn thương xuất huyết?",
+          "options": [
+            "Do có hệ thống cấp máu rất đặc biệt và phong phú nhưng hệ thống dẫn lưu tĩnh mạch lại tương đối nghèo nàn",
+            "Do nồng độ cortisol cao làm mỏng thành mạch",
+            "Do thiếu vỏ bao bảo vệ",
+            "Do nằm gần các động mạch lớn"
+          ],
+          "answer": 0,
+          "explain": "Vỏ thượng thận nhận máu từ rất nhiều tiểu động mạch nhỏ nhưng chỉ có một tĩnh mạch trung tâm duy nhất để dẫn lưu. Cấu trúc này làm cho tuyến thượng thận dễ bị sung huyết và tổn thương khi có tình trạng tăng đông hoặc sốc."
+        },
+        {
+          "q": "Sau một đợt suy thượng thận cấp, liệu pháp thay thế bằng hydrocortisone cần được?",
+          "options": [
+            "Ngưng ngay sau khi huyết áp ổn định",
+            "Giảm liều từ từ và chuyển sang liều duy trì sinh lý đường uống",
+            "Chuyển sang Dexamethasone",
+            "Tiếp tục liều cao trong nhiều tuần"
+          ],
+          "answer": 1,
+          "explain": "Sau khi đã kiểm soát được tình trạng cấp cứu bằng liều cao (liều stress), liều hydrocortisone cần được giảm dần trong vài ngày để tránh các tác dụng phụ của corticoid, và sau đó chuyển sang liều thay thế sinh lý hàng ngày bằng đường uống, chia làm 2-3 lần/ngày."
+        },
+        {
+          "q": "Để theo dõi và điều chỉnh liều Mineralocorticoid (Fludrocortisone), xét nghiệm nào là hữu ích nhất?",
+          "options": [
+            "Nồng độ ACTH máu",
+            "Nồng độ Cortisol máu",
+            "Nồng độ Renin huyết tương",
+            "Nồng độ Natri máu"
+          ],
+          "answer": 2,
+          "explain": "Renin được sản xuất bởi thận khi có giảm tưới máu hoặc giảm natri. Aldosterone (được thay thế bằng Fludrocortisone) có tác dụng ức chế ngược lại sự sản xuất Renin. Do đó, nồng độ Renin huyết tương là chỉ số tốt để đánh giá xem liều Fludrocortisone đã đủ hay chưa."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi suy thượng thận thứ phát chuẩn bị phẫu thuật",
+      "body": "<b>Tiền sử:</b> Bệnh nhân nam, 58 tuổi, suy thượng thận thứ phát sau phẫu thuật u tuyến yên. Đang được điều trị bằng Hydrocortisone 20mg/ngày. Sắp phải trải qua phẫu thuật thay khớp háng. Bác sĩ gây mê và phẫu thuật viên cần có kế hoạch quản lý liều corticoid trong thời gian chu phẫu.",
+      "questions": [
+        {
+          "q": "Tại sao bệnh nhân suy thượng thận cần phải tăng liều corticoid khi phẫu thuật?",
+          "options": [
+            "Để giảm đau sau mổ",
+            "Vì phẫu thuật là một stress lớn, đòi hỏi cơ thể phải có lượng cortisol cao hơn nhiều so với mức sinh lý để duy trì huyết động và đáp ứng viêm",
+            "Để ngăn ngừa nhiễm trùng vết mổ",
+            "Để tăng tốc độ liền xương"
+          ],
+          "answer": 1,
+          "explain": "Ở người bình thường, một cuộc phẫu thuật lớn có thể làm nồng độ cortisol tăng gấp 5-10 lần. Bệnh nhân suy thượng thận không có khả năng này. Nếu không được cung cấp đủ liều corticoid 'stress', bệnh nhân có nguy cơ cao bị tụt huyết áp nặng và trụy tuần hoàn trong và sau mổ."
+        },
+        {
+          "q": "Một phác đồ tăng liều corticoid chu phẫu phổ biến cho một cuộc mổ lớn là gì?",
+          "options": [
+            "Không cần thay đổi liều",
+            "Tăng gấp đôi liều uống vào ngày mổ",
+            "Tiêm tĩnh mạch Hydrocortisone 100mg trước mổ, sau đó duy trì 50-100mg mỗi 6-8 giờ trong 24-48 giờ đầu sau mổ",
+            "Ngưng corticoid trước mổ 1 tuần"
+          ],
+          "answer": 2,
+          "explain": "Phác đồ cụ thể có thể thay đổi, nhưng nguyên tắc chung là cung cấp một liều hydrocortisone lớn ngay trước khởi mê, và duy trì liều cao trong suốt thời gian phẫu thuật và giai đoạn hậu phẫu sớm để đảm bảo sự ổn định huyết động."
+        },
+        {
+          "q": "Cơ chế nào giải thích tại sao cortisol cần thiết để duy trì sự ổn định huyết động trong stress?",
+          "options": [
+            "Tăng cường tác dụng co mạch của catecholamine (adrenaline, noradrenaline)",
+            "Giảm sản xuất các chất gây giãn mạch như NO và prostaglandin",
+            "Duy trì thể tích lòng mạch",
+            "Tất cả các cơ chế trên"
+          ],
+          "answer": 3,
+          "explain": "Cortisol có 'tác dụng cho phép' (permissive effect) đối với catecholamine - cần thiết để các thụ thể adrenergic hoạt động bình thường. Thiếu cortisol, mạch máu sẽ không co lại hiệu quả. Cortisol cũng giúp duy trì sự toàn vẹn của nội mô mạch máu."
+        },
+        {
+          "q": "Sau khi phẫu thuật ổn định, liều hydrocortisone nên được xử trí như thế nào?",
+          "options": [
+            "Tiếp tục liều cao trong 1 tuần",
+            "Ngưng đột ngột để tránh tác dụng phụ",
+            "Giảm liều nhanh chóng trong 1-3 ngày để trở về liều duy trì thông thường",
+            "Chuyển sang Dexamethasone"
+          ],
+          "answer": 2,
+          "explain": "Một khi giai đoạn stress cấp của cuộc mổ đã qua và bệnh nhân ổn định, tiếp tục liều cao corticoid là không cần thiết và có thể gây hại. Liều thuốc cần được giảm nhanh chóng để đưa về liều thay thế sinh lý hàng ngày."
+        },
+        {
+          "q": "Ngoài phẫu thuật, tình huống nào sau đây cũng được coi là stress nặng đòi hỏi tăng liều corticoid?",
+          "options": [
+            "Chấn thương nặng",
+            "Nhồi máu cơ tim cấp",
+            "Nhiễm trùng huyết",
+            "Tất cả các tình huống trên"
+          ],
+          "answer": 3,
+          "explain": "Bất kỳ tình trạng bệnh lý cấp tính và nặng nào cũng là stress sinh lý đáng kể và đòi hỏi phải tăng liều glucocorticoid ở bệnh nhân suy thượng thận mạn tính để phòng ngừa cơn suy cấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 25 tuổi suy thượng thận nguyên phát mang thai",
+      "body": "<b>Tiền sử:</b> Bệnh nhân nữ, 25 tuổi, bị suy thượng thận nguyên phát, đang điều trị ổn định. Bệnh nhân có thai và hiện ở tam cá nguyệt thứ ba. Bệnh nhân lo lắng về việc quản lý bệnh trong quá trình chuyển dạ và sinh con.",
+      "questions": [
+        {
+          "q": "Nhu cầu liều Glucocorticoid (Hydrocortisone) thay thế thường thay đổi như thế nào trong thai kỳ?",
+          "options": [
+            "Giảm đi trong suốt thai kỳ",
+            "Không thay đổi",
+            "Thường không đổi trong 2 tam cá nguyệt đầu nhưng có thể cần tăng nhẹ trong tam cá nguyệt thứ ba",
+            "Tăng gấp đôi ngay từ đầu"
+          ],
+          "answer": 2,
+          "explain": "Do sự gia tăng của protein gắn cortisol (CBG) và tăng chuyển hóa cortisol ở nhau thai, nhu cầu hydrocortisone có thể tăng lên khoảng 20-40% ở tam cá nguyệt thứ ba để duy trì nồng độ cortisol tự do bình thường."
+        },
+        {
+          "q": "Nhu cầu liều Mineralocorticoid (Fludrocortisone) thường thay đổi như thế nào trong thai kỳ?",
+          "options": [
+            "Thường cần phải giảm liều hoặc ngưng",
+            "Thường không thay đổi",
+            "Thường cần phải tăng liều, đặc biệt trong tam cá nguyệt thứ ba",
+            "Không được phép sử dụng trong thai kỳ"
+          ],
+          "answer": 0,
+          "explain": "Một cách nghịch thường, nhu cầu Fludrocortisone thường giảm hoặc thậm chí có thể ngưng trong thai kỳ do các cơ chế sinh lý khác của thai kỳ giúp giữ muối và nước."
+        },
+        {
+          "q": "Cơ chế nào giải thích sự thay đổi nhu cầu Fludrocortisone trong thai kỳ?",
+          "options": [
+            "Nồng độ Progesterone tăng cao, có tác dụng kháng lại Aldosterone tại thụ thể",
+            "Nhu cầu Natri của thai nhi tăng lên",
+            "Tăng thể tích tuần hoàn của mẹ",
+            "Tăng mức lọc cầu thận"
+          ],
+          "answer": 0,
+          "explain": "Progesterone, một hormone được nhau thai sản xuất với nồng độ rất cao, có cấu trúc tương tự và hoạt động như chất đối kháng cạnh tranh với Aldosterone tại thụ thể mineralocorticoid ở thận, gây tăng thải Natri. Điều này làm giảm nhu cầu bổ sung mineralocorticoid từ bên ngoài."
+        },
+        {
+          "q": "Cần quản lý liều corticoid như thế nào trong quá trình chuyển dạ và sinh con?",
+          "options": [
+            "Ngưng tất cả các loại thuốc",
+            "Duy trì liều uống như bình thường",
+            "Coi chuyển dạ như stress nặng và dùng liều 'stress' bằng đường tiêm tĩnh mạch (tương tự như phẫu thuật)",
+            "Chỉ cần tăng liều Fludrocortisone"
+          ],
+          "answer": 2,
+          "explain": "Chuyển dạ và sinh con là stress sinh lý cực kỳ lớn. Bệnh nhân cần được quản lý tương tự như cuộc phẫu thuật lớn, với tiêm tĩnh mạch Hydrocortisone liều stress để phòng ngừa suy thượng thận cấp trong và ngay sau sinh."
+        },
+        {
+          "q": "Sau khi sinh, liều Hydrocortisone nên được xử trí như thế nào?",
+          "options": [
+            "Tiếp tục liều stress trong 1 tuần",
+            "Giảm nhanh chóng về liều duy trì trước khi mang thai trong vòng vài ngày",
+            "Ngưng hoàn toàn",
+            "Chuyển sang Prednisone"
+          ],
+          "answer": 1,
+          "explain": "Sau khi sinh, các thay đổi sinh lý của thai kỳ (nhu cầu hormone tăng, stress của cuộc sinh) biến mất nhanh chóng. Do đó, liều hydrocortisone cần được giảm nhanh về mức liều thay thế sinh lý mà bệnh nhân đã dùng trước khi có thai."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi ung thư phổi di căn não, dùng Dexamethasone kéo dài",
+      "body": "<b>Tiền sử:</b> Bệnh nhân nam, 65 tuổi, được chẩn đoán ung thư phổi di căn não, đang được điều trị bằng hóa chất và xạ trị não. Để giảm phù não, kê Dexamethasone 4mg uống 2 lần/ngày. Sau 2 tháng điều trị, cảm thấy mệt mỏi, chán ăn, buồn nôn.",
+      "questions": [
+        {
+          "q": "Các triệu chứng của bệnh nhân có thể là do?",
+          "options": [
+            "Tác dụng phụ của hóa chất",
+            "Di căn ung thư tiến triển",
+            "Suy thượng thận do Dexamethasone",
+            "Tất cả các nguyên nhân trên"
+          ],
+          "answer": 3,
+          "explain": "Trong bệnh cảnh này, các triệu chứng rất không đặc hiệu và có thể do nhiều nguyên nhân gây ra. Cần xem xét tất cả các khả năng, bao gồm suy thượng thận do thuốc là một nguyên nhân quan trọng và có thể điều trị được."
+        },
+        {
+          "q": "Tại sao Dexamethasone lại có nguy cơ ức chế trục hạ đồi-tuyến yên-thượng thận mạnh mẽ nhất?",
+          "options": [
+            "Vì nó có hoạt lực kháng viêm yếu",
+            "Vì nó có thời gian bán hủy sinh học rất dài và hoạt lực glucocorticoid rất mạnh",
+            "Vì nó có tác dụng mineralocorticoid mạnh",
+            "Vì nó được chuyển hóa ở thận"
+          ],
+          "answer": 1,
+          "explain": "Dexamethasone là glucocorticoid tổng hợp có hoạt lực rất mạnh (gấp 25-30 lần Hydrocortisone) và thời gian tác dụng kéo dài (36-72 giờ). Do đó, ngay cả ở liều thấp, nó cũng gây ức chế phản hồi âm lên trục HPA một cách mạnh mẽ và kéo dài."
+        },
+        {
+          "q": "Khi nghi ngờ suy thượng thận do thuốc, tại sao việc diễn giải cortisol máu 8h sáng lại khó khăn?",
+          "options": [
+            "Vì Dexamethasone có thể gây nhiễu và cho kết quả cortisol dương tính giả",
+            "Vì bệnh nhân đang bị stress do ung thư, làm tăng cortisol giả tạo",
+            "Vì Dexamethasone ức chế trục HPA, làm cortisol nội sinh thực sự thấp, nhưng bệnh nhân không thiếu hụt tác dụng glucocorticoid toàn thân",
+            "Vì không thể lấy máu vào buổi sáng"
+          ],
+          "answer": 2,
+          "explain": "Tình huống này phức tạp. Cortisol nội sinh chắc chắn sẽ thấp do trục HPA bị ức chế. Tuy nhiên, bệnh nhân vẫn nhận lượng lớn tác dụng glucocorticoid từ Dexamethasone. Do đó, các triệu chứng có thể không phải do 'thiếu' glucocorticoid, mà do nguyên nhân khác."
+        },
+        {
+          "q": "Một liều Dexamethasone 4mg tương đương với bao nhiêu mg Hydrocortisone về mặt hoạt lực glucocorticoid?",
+          "options": [
+            "Khoảng 20 mg",
+            "Khoảng 50 mg",
+            "Khoảng 100 mg",
+            "Khoảng 160 mg"
+          ],
+          "answer": 2,
+          "explain": "Theo bảng quy đổi liều tương đương, 0.75mg Dexamethasone tương đương với 20mg Hydrocortisone. Do đó, 4mg Dexamethasone sẽ tương đương với (4/0.75)*20 ≈ 107mg Hydrocortisone, một liều rất cao so với nhu cầu sinh lý."
+        },
+        {
+          "q": "Nếu bệnh nhân cần giảm liều hoặc ngưng Dexamethasone, chiến lược nào là an toàn nhất?",
+          "options": [
+            "Ngưng đột ngột",
+            "Giảm liều từ từ và có thể chuyển sang một loại corticoid có thời gian bán hủy ngắn hơn (như Hydrocortisone) để trục HPA dễ hồi phục hơn",
+            "Chuyển sang thuốc kháng viêm NSAID",
+            "Yêu cầu bệnh nhân dùng thêm Fludrocortisone"
+          ],
+          "answer": 1,
+          "explain": "Tương tự như các trường hợp dùng corticoid kéo dài khác, giảm liều phải từ từ. Chuyển sang loại có tác dụng ngắn hơn như Hydrocortisone có lợi vì tạo các khoảng 'trống' giữa các liều, cho phép tuyến yên có cơ hội 'thức dậy' và tiết ACTH trở lại."
+        }
+      ]
+    }
+  ]
+}
