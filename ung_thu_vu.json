@@ -1,36 +1,36 @@
 {
   "name": "Ung thư vú",
-  "description": "Bộ đề case lâm sàng ung thư vú với 4 case lâm sàng, mỗi case gồm mô tả bệnh nhân và 5 câu hỏi trắc nghiệm",
+  "description": "Case lâm sàng ung thư vú (BI-RADS, ung thư dạng viêm, bệnh Paget, ung thư vú và thai kỳ, ung thư biểu mô thùy xâm nhập, tư vấn di truyền BRCA1, phẫu thuật bảo tồn tuyến vú, phân nhóm Luminal, HER2 dương tính, ung thư vú tam âm) dùng ôn thi nội trú.",
   "level": "ôn thi nội trú",
   "type": "cases",
   "category": "Sản",
   "subcategory": "Phụ khoa",
   "cases": [
     {
-      "title": "Bệnh nhân nữ 45 tuổi, phát hiện khối u vú",
-      "body": "<b>Tiền sử:</b> PARA 2002, không có tiền sử gia đình mắc ung thư. Bệnh nhân đi khám vì tự sờ thấy một khối u ở vú phải khoảng 2 tháng nay. Khám lâm sàng ghi nhận khối u ở vị trí 1/4 trên ngoài vú phải, kích thước khoảng 2cm, mặt đế chắc, ranh giới không rõ, ít di động, không đau, không có dấu hiệu co kéo da hay tụt nhánh vú. Không sưng hạch nách hai bên. <b>Siêu âm tuyến vú:</b> ghi nhận khối giảm âm, trục dọc lên hơn trục ngang, bề không đều, có gai nhề, thuộc phân loại BI-RADS 4b. <b>Kết quả hình ảnh (mammography):</b> cho thấy có dịch vú, vô hạn tập trung vùng khối u. <b>Tâm lý:</b> Bệnh nhân lo lắng về khả năng mắc bệnh ác tính và các bước chẩn đoán tiếp theo.",
+      "title": "Bệnh nhân nữ 45 tuổi sờ thấy khối u vú phải",
+      "body": "Bệnh nhân nữ 45 tuổi, tiền sử PARA 2002, không có tiền sử gia đình mắc ung thư, đi khám vì tự sờ thấy một khối ở vú phải khoảng 2 tháng nay. Khám lâm sàng ghi nhận khối u ở vị trí 1/4 trên ngoài vú phải, kích thước khoảng 2cm, mật độ chắc, ranh giới không rõ, ít di động, không đau, không có dấu hiệu co kéo da hay tụt núm vú, không sờ thấy hạch nách hai bên.<br>Siêu âm tuyến vú ghi nhận khối giảm âm, trục dọc lớn hơn trục ngang, bờ không đều, có gai nhỏ, thuộc phân loại BI-RADS 4b. Kết quả nhũ ảnh (mammography) cho thấy có đám vi vôi hóa tập trung vùng khối u. Bệnh nhân lo lắng về khả năng mắc bệnh ác tính và các bước chẩn đoán tiếp theo.",
       "questions": [
         {
-          "q": "Cơ chế chính dẫn đến hình thái \"trục dọc lên hơn trục ngang\" trên siêu âm của khối u này là gì?",
+          "q": "Cơ chế chính dẫn đến hình thái \"trục dọc lớn hơn trục ngang\" trên siêu âm của khối u này là gì?",
           "options": [
-            "Sự tăng sinh mạch máu hẹn loan xung quanh khối u",
-            "Tế bào ung thư xâm lấn và làm tắc nghẽn mạch bạch huyết dưới da",
+            "Sự tăng sinh mạch máu hỗn loạn xung quanh khối u",
+            "Tế bào ung thư xâm lấn phá vỡ các dây chằng Cooper",
             "Khối u phát triển không tuân theo các mặt phẳng mô bình thường",
-            "Sự lang động canxi trong các ống tuyến bị tắc nghẽn"
+            "Sự lắng đọng canxi trong các ống tuyến bị tắc nghẽn"
           ],
           "answer": 2,
-          "explain": "Các khối u ác tính thường phát triển xâm lấn theo chiều sâu, xuyên qua các lớp mô thay vì dãy dẹt theo các mặt phẳng giới phạn như u lành tính."
+          "explain": "Các khối u ác tính thường phát triển xâm lấn theo chiều sâu, xuyên qua các lớp mô thay vì đẩy dẹt theo các mặt phẳng giải phẫu như u lành tính.<br>Nguồn: Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
         },
         {
           "q": "Bước tiếp theo có giá trị nhất để xác định bản chất khối u của bệnh nhân này là gì?",
           "options": [
             "Chọc hút tế bào bằng kim nhỏ (FNA)",
-            "Sinh thiết lõi kim dưới hướng dẫn siêu âm (Core biopsy)",
+            "Sinh thiết lõi kim dưới hướng dẫn của siêu âm (Core biopsy)",
             "Chụp MRI tuyến vú có tiêm thuốc cản quang",
-            "Định lượng chỉ số ung thư CA 15-3 trong máu"
+            "Định lượng dấu ấn ung thư CA 15-3 trong máu"
           ],
           "answer": 1,
-          "explain": "Sinh thiết lõi (Core biopsy) cung cấp mẫu mô để đánh giá cấu trúc, loại mô bệnh học và các dự báo sinh học, vượt trội hơn FNA chỉ lấy tế bào."
+          "explain": "Sinh thiết lõi (Core biopsy) cung cấp mẫu mô để đánh giá cấu trúc, loại mô bệnh học và các dấu ấn sinh học, ưu việt hơn FNA chỉ lấy tế bào.<br>Nguồn: NCCN Guidelines Breast Cancer."
         },
         {
           "q": "Trong phân loại BI-RADS 4b, khả năng ác tính của tổn thương nằm trong khoảng nào?",
@@ -41,171 +41,476 @@
             "Trên 95%"
           ],
           "answer": 1,
-          "explain": "BI-RADS 4 được chia thành 4a (2-10%), 4b (10-50%), và 4c (50-95%) khả năng ác tính."
+          "explain": "BI-RADS 4 được chia thành 4a (2-10%), 4b (10-50%), và 4c (50-95%) khả năng ác tính.<br>Nguồn: ACR BI-RADS Atlas."
         },
         {
           "q": "Nếu kết quả giải phẫu bệnh là ung thư biểu mô ống xâm nhập (IDC), yếu tố nào sau đây là chỉ định quan trọng nhất để thực hiện sinh thiết hạch cửa (sentinel lymph node)?",
           "options": [
-            "Khối u có kích thước dưới 5cm và không sờ được hạch nách lâm sàng",
+            "Khối u có kích thước dưới 5cm và lâm sàng hạch nách âm tính",
             "Bệnh nhân có nguyện vọng phẫu thuật bảo tồn tuyến vú",
-            "Khối u nằm ở vị trí 1/4 trên ngoài để dễ tiếp cận hạch nách",
-            "Kết quả siêu âm hạch nách có ngoại hình hạch đã trên 2mm"
+            "Khối u nằm ở vị trí 1/4 trên ngoài dễ di căn hạch nhất",
+            "Kết quả siêu âm hạch nách có vỏ hạch dày trên 2mm"
           ],
           "answer": 0,
-          "explain": "Sinh thiết hạch cửa được chỉ định khi lâm sàng không sờ được hạch (cN0) để tránh nguy hiểm của giải phẫu hạch nách không cần thiết gây biến chứng phi tay vĩnh viễn."
+          "explain": "Sinh thiết hạch cửa được chỉ định khi lâm sàng không sờ thấy hạch nách (cN0) để tránh nạo vét hạch nách không cần thiết gây biến chứng phù tay voi.<br>Nguồn: Hướng dẫn thực hành Sản phụ khoa Việt Nam."
         },
         {
-          "q": "Bác sĩ \"vi vô hạn tập trung\" trên ảnh thường gọi trực tiếp đến tổn thương nào?",
+          "q": "Đặc điểm \"vi vôi hóa tập trung\" trên nhũ ảnh thường gợi ý trực tiếp đến tổn thương nào?",
           "options": [
-            "Thay đổi sơi bao lành tính",
-            "Hoại tử mỏng sau chèn ép trong các nang",
-            "Ung thư biểu mô ống tai chỗ (DCIS)",
-            "U xơ tuyến vú đã bị thối hóa canxi"
+            "Thay đổi sợi bọc tuyến vú lành tính",
+            "Hoại tử mỡ sau chấn thương vùng ngực",
+            "Ung thư biểu mô ống tại chỗ (DCIS)",
+            "U xơ tuyến vú đã bị thoái hóa canxi"
           ],
           "answer": 2,
-          "explain": "Vi vô hạn hóa là dấu hiệu quan trọng trên ảnh, được biết đặc biệt là ung thư tai chỗ (DCIS) khi chúng tập trung thành đường hoc dãy dọc theo ống tuyến."
+          "explain": "Vi vôi hóa là dấu hiệu quan trọng trên nhũ ảnh, đặc biệt gợi ý ung thư tại chỗ (DCIS) khi chúng tập trung thành đám hoặc dải dọc theo ống tuyến.<br>Nguồn: Williams Obstetrics / Giáo trình Sản phụ khoa ĐH Y Hà Nội."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nữ 32 tuổi, sưng đỏ nhanh chóng vú tái",
-      "body": "<b>Tiền sử:</b> Đang cho con bú tháng thứ 3. Bệnh nhân đến vì viêm vú trái sưng nề, đỏ và đau rất dữ dội với khởi phát nhanh trong 1 tuần qua. <b>Khám lâm sàng:</b> Vú trái lên hơn vú phải, da vùng vú để rỗ, sưng như da cam (peau d'orange), áp vào thấy ấm và đau, không sờ được khối u rõ ràng. Hạch nách trái sờ thấy hạch kích thước 1.5cm, chắc, di động kém. <b>Toàn trạng:</b> Bệnh nhân không sốt, nhiệt độ 36.8°C, bạch cầu 8.2 G/L (Neutrophil 62%), Hb 125 g/L. Bệnh nhân đã tự dùng khang sinh Amoxicillin 5 ngày nhưng triệu chứng không giảm. <b>Siêu âm:</b> thấy da và dạ dày 5mm, phù nề mô mỏng, giãn các mạch bạch huyết dưới da.",
+      "title": "Bệnh nhân nữ 32 tuổi đang cho con bú có vú sưng nề đỏ da",
+      "body": "Bệnh nhân nữ 32 tuổi, đang cho con bú tháng thứ 3, đến viện vì vú trái sưng nề, đỏ và đau rát diện rộng khởi phát nhanh trong 1 tuần qua. Khám lâm sàng thấy vú trái lớn hơn vú phải, da vùng vú đỏ rực, sần sùi như da cam (peau d'orange), ấn vào thấy ấm và đau, không sờ rõ khối u riêng biệt, hạch nách trái sờ thấy hạch kích thước 1.5cm, chắc, di động kém.<br>Bệnh nhân không sốt, nhiệt độ 36.8 độ C, bạch cầu 8.2 G/L (trong đó Neutrophil 62%), Hb 125 g/L. Bệnh nhân đã tự dùng kháng sinh Amoxicillin 5 ngày nhưng triệu chứng không giảm. Siêu âm thấy da vú dày 5mm, phù nề mô mỡ, giãn các mạch bạch huyết dưới da.",
       "questions": [
         {
-          "q": "Cơ chế bệnh sinh chính gây ra hình thái \"da cam\" ở bệnh nhân này là gì?",
+          "q": "Cơ chế bệnh sinh chính gây ra hình ảnh \"da cam\" ở bệnh nhân này là gì?",
           "options": [
-            "Vi khuẩn xâm nhập gây viêm tắc tính mạch nông vú",
+            "Vi khuẩn xâm nhập gây viêm tắc tĩnh mạch nông vú",
             "Tế bào ung thư xâm lấn và làm tắc nghẽn mạch bạch huyết dưới da",
             "Phản ứng viêm cấp tính giải phóng histamin gây phù nề cục bộ",
-            "Tăng áp lực thẩm thấu trong các mao mạch do khối u chèn ép"
+            "Tăng áp lực thủy tĩnh trong các mao mạch do khối u chèn ép"
           ],
           "answer": 1,
-          "explain": "Tế bào ung thư xâm lấn và làm tắc nghẽn mạch bạch huyết dưới da bởi các đám tế bào ung thư gây phù nề mô kế, khiến lỗ chân lông bị kéo làm xuống tạo hình ảnh da cam."
+          "explain": "Sự tắc nghẽn các mạch bạch huyết dưới da bởi các đám tế bào ung thư gây phù nề mô kẽ, khiến lỗ chân lông bị kéo lõm xuống tạo hình ảnh da cam.<br>Nguồn: Williams Obstetrics / Phác đồ Từ Dũ."
         },
         {
-          "q": "Chẩn đoán lâm sàng so bộ phù hợp nhất cho bệnh nhân này là gì?",
+          "q": "Chẩn đoán lâm sàng phù hợp nhất trong trường hợp này là gì?",
           "options": [
             "Áp xe vú giai đoạn sớm khi chưa hóa mủ",
             "Viêm vú cấp tính do tụ cầu vàng (S. aureus)",
             "Ung thư vú dạng viêm (Inflammatory breast cancer)",
-            "Ung thư vú giai đoạn tiến triển tai chỗ gây loét da"
+            "Ung thư vú giai đoạn tiến triển tại chỗ đã gây loét da"
           ],
           "answer": 2,
-          "explain": "Triệu chứng: diễn tiến nhanh, đỏ da diện rộng (>1/3 vú), và hình ảnh da cam là đặc điểm của ung thư vú dạng viêm."
+          "explain": "Tam chứng: diễn tiến nhanh, đỏ da diện rộng (>1/3 vú), và hình ảnh da cam là điển hình của ung thư vú dạng viêm.<br>Nguồn: AJCC Cancer Staging Manual."
         },
         {
           "q": "Yếu tố nào trong bệnh cảnh giúp phân biệt tốt nhất bệnh lý này với viêm vú nhiễm trùng?",
           "options": [
             "Tình trạng đang cho con bú của bệnh nhân",
-            "Sự xuất hiện của hạch nách cùng bên tên thống",
-            "Không đáp ứng với khang sinh và không có hút chúng nhiễm trùng",
-            "Hình ảnh siêu âm thấy da vú dày và giãn mạch bạch huyết"
+            "Sự xuất hiện của hạch nách cùng bên tổn thương",
+            "Không đáp ứng với kháng sinh và không có hội chứng nhiễm trùng",
+            "Hình ảnh siêu âm da dày và giãn mạch bạch huyết"
           ],
           "answer": 2,
-          "explain": "Ung thư dạng viêm thường bị nhầm với viêm vú, nhưng điểm mấu chốt là không sốt, bạch cầu không tăng và không giảm khi dùng khang sinh."
+          "explain": "Ung thư dạng viêm thường bị nhầm với viêm vú, nhưng điểm mấu chốt là không sốt, bạch cầu không tăng và không đáp ứng kháng sinh.<br>Nguồn: Giáo trình Sản phụ khoa ĐH Y Hà Nội."
         },
         {
-          "q": "Bệnh vú thế này, thứ tự ưu tiên trong phác đồ điều trị chuẩn là gì?",
+          "q": "Đối với thể bệnh này, thứ tự ưu tiên trong phác đồ điều trị chuẩn là gì?",
           "options": [
-            "Phẫu thuật đoạn vú ngay sau đó mới hóa trị",
-            "Hóa trị tân bộ trước, sau đó phẫu thuật và xạ trị",
-            "Xạ trị tai chỗ để giảm sưng nề rồi mới phẫu thuật triệt can",
+            "Phẫu thuật đoạn nhũ ngay lập tức sau đó mới hóa trị",
+            "Hóa trị tân bổ trợ trước, sau đó phẫu thuật và xạ trị",
+            "Xạ trị tại chỗ để giảm sưng nề rồi mới phẫu thuật triệt căn",
             "Phẫu thuật bảo tồn tuyến vú kết hợp với nạo vét hạch nách"
           ],
           "answer": 1,
-          "explain": "Ung thư vú dạng viêm được coi là bệnh hệ thống ngay từ đầu, nên hóa trị tân bộ (neoadjuvant) là bước đầu tiên."
+          "explain": "Ung thư vú dạng viêm được coi là bệnh hệ thống ngay từ đầu, nên hóa trị tân bổ trợ (neoadjuvant) là bước đầu tiên bắt buộc.<br>Nguồn: NCCN Guidelines."
         },
         {
-          "q": "Tiên lượng của thể ung thư này thường như thế nào so với các thể khác?",
+          "q": "Tiên lượng của thể ung thư vú này thường như thế nào so với các thể khác?",
           "options": [
-            "Tốt vì thường phát hiện sớm do triệu chứng rõ ràng",
-            "Xấu, tiến triển nhanh và nguy co di căn xa rất cao",
-            "Tương đương với ung thư biểu mô ống xâm nhập thông thường",
-            "Phụ thuộc hoàn toàn vào tuổi của bệnh nhân khi mắc bệnh"
+            "Tiên lượng tốt vì thường phát hiện sớm do triệu chứng rầm rộ",
+            "Tiên lượng xấu, tiến triển nhanh và nguy cơ di căn xa rất cao",
+            "Tiên lượng tương đương với ung thư biểu mô ống xâm nhập thông thường",
+            "Tiên lượng phụ thuộc hoàn toàn vào tuổi của bệnh nhân khi mắc bệnh"
           ],
           "answer": 1,
-          "explain": "Ung thư vú dạng viêm là một trong những loại ung thư vú nguy hiểm nhất, thường di căn ngoài phạm vi địa phương đã."
+          "explain": "Đây là thể ung thư vú hung hãn nhất, thường đã có di căn vi mô tại thời điểm chẩn đoán.<br>Nguồn: Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nữ 58 tuổi, bệnh Paget vú",
-      "body": "<b>Tiền sử:</b> Nữ 58 tuổi, 43 năm mãn kinh 5 năm, đến khám vì nốn vú phải có tên thống dạng chàm, ngứa và rỉ dịch trong 4 tháng nay. <b>Khám lâm sàng:</b> Vú nốn vú và quanh vú phải có mảng đỏ, bề mặt thể nham, déng vây, có chế trột da nhẹ, sờ vào thấy ấm ứng dưới nền nốn vú. Bệnh nhân không sờ thấy khối u ở các vùng khác của vú, không đau, không sốt, không có tin sử di vú da. Khám hạch nách không thấy hạch bất thường. <b>Ảnh tuyến vú:</b> cho thấy có khối u nhỏ tom nằm ngay dưới quanh vú phải, hạch nách âm tính. Bệnh nhân đã từ bị thuốc mó corticoid trong 2 tuần nhưng tên thống không cải thiện.",
+      "title": "Bệnh nhân nữ 58 tuổi có tổn thương dạng chàm ở núm vú",
+      "body": "Bệnh nhân nữ 58 tuổi, đã mãn kinh 5 năm, đến khám vì núm vú phải có tổn thương dạng chàm, ngứa và rỉ dịch trong 4 tháng nay. Khám lâm sàng vùng núm vú và quầng vú phải có mảng đỏ, bề mặt thô nhám, đóng vảy, có chỗ trợt da nhẹ, sờ vào thấy hơi cứng dưới nền núm vú. Bệnh nhân không sờ thấy khối u ở các vùng khác của vú, không đau, không sốt, không có tiền sử dị ứng da.<br>Khám hạch nách không thấy hạch bất thường. Nhũ ảnh cho thấy có khối u nhỏ 1cm nằm ngay dưới quầng vú phải, hạch nách âm tính. Bệnh nhân đã tự bôi thuốc mỡ corticoid trong 2 tuần nhưng tổn thương không cải thiện.",
       "questions": [
         {
           "q": "Tế bào Paget trong bệnh lý này có nguồn gốc từ đâu?",
           "options": [
-            "Tế bào biểu mô của các ống tuyến sialopin",
-            "Tế bào sừng của lớp thượng bì da nốn vú",
-            "Tế bào hắc tố (melanocyte) bị biến đổi tính",
-            "Tế bào cơ biểu mô bao quanh các tiểu thể vú"
+            "Tế bào biểu mô của các ống tuyến sữa lớn",
+            "Tế bào sừng của lớp thượng bì da núm vú",
+            "Tế bào hắc tố (melanocyte) bị biến đổi ác tính",
+            "Tế bào cơ biểu mô bao quanh các tiểu thùy vú"
           ],
           "answer": 0,
-          "explain": "Tế bào Paget là những tế bào ung thư biểu mô tuyến di chuyển từ các ống đóm sữa sau lên da nốn vú."
+          "explain": "Tế bào Paget là những tế bào ung thư biểu mô tuyến di chuyển từ các ống dẫn sữa sâu lên lớp thượng bì của núm vú.<br>Nguồn: Williams Obstetrics."
         },
         {
-          "q": "Chẩn đoán lâm sàng so bộ phù hợp nhất cho bệnh nhân này là gì?",
+          "q": "Chẩn đoán lâm sàng sơ bộ phù hợp nhất cho bệnh nhân này là gì?",
           "options": [
-            "Viêm da tiếp xúc vùng nốn vú quanh vô",
+            "Viêm da tiếp xúc vùng núm vú quầng vú",
             "Bệnh Paget của vú (Paget's disease of the breast)",
-            "Ung thư tế bào đáy tại da vùng ngoại vú",
-            "Nấm da vùng quanh vú do Candida"
+            "Ung thư tế bào đáy tại da vùng ngực",
+            "Nấm da vùng quầng vú do Candida"
           ],
           "answer": 1,
-          "explain": "Bệnh Paget của vú là một dạng ung thư biểu mô với các triệu chứng lâm sàng điển hình: tên thống kéo, vẩn đỏ, chàm, ngứa rỉ dịch."
+          "explain": "Tổn thương giống chàm (eczematoid) ở núm vú không đáp ứng với corticoid ở phụ nữ lớn tuổi phải luôn cảnh giác với bệnh Paget.<br>Nguồn: Giáo trình Sản phụ khoa ĐH Y Hà Nội."
         },
         {
-          "q": "Đặc điểm nào của tế bào Paget khi nhìn dưới kính hiển vi để khẳng định chẩn đoán?",
+          "q": "Đặc điểm nào của tế bào Paget khi nhuộm soi giúp khẳng định chẩn đoán?",
           "options": [
             "Tế bào nhỏ, nhân chia nhiều, xếp thành hình hoa hồng",
-            "Tế bào to, bao tuường sáng, nhân có hạt nhân rõ, nằm trong lớp thượng bì",
-            "Tế bào hình thoi, sắp xếp lổn xổn, xâm lấn sâu xuống lớp hạ bì",
+            "Tế bào lớn, bào tương sáng, nhân có hạt nhân rõ, nằm trong lớp thượng bì",
+            "Tế bào hình thoi, sắp xếp lộn xộn, xâm lấn sâu xuống lớp hạ bì",
             "Tế bào chứa nhiều hạt sắc tố đen, phân bố rải rác ở lớp biểu mô"
           ],
           "answer": 1,
-          "explain": "Đây là mô tả điển hình về tế bào Paget (Large cells with clear cytoplasm)."
+          "explain": "Đây là mô tả kinh điển về tế bào Paget trên giải phẫu bệnh (Large cells with clear cytoplasm).<br>Nguồn: WHO Classification of Tumours of the Breast."
         },
         {
-          "q": "Bệnh Paget của vú thường di kèm với tên thương nào khác trong tuyến vú?",
+          "q": "Bệnh Paget của vú thường đi kèm với tổn thương nào khác trong tuyến vú?",
           "options": [
-            "Thay đổi sơi bao lành tính dạng nang",
-            "Ung thư biểu mô ống tai chỗ hóc xâm nhập",
-            "U điểp thể (Phyllodes tumor) lành tính",
-            "Giãn các ống đóm sữa vú trung tâm"
+            "Thay đổi sợi bọc lành tính dạng nang",
+            "Ung thư biểu mô ống tại chỗ hoặc xâm nhập",
+            "U diệp thể (Phyllodes tumor) lành tính",
+            "Giãn các ống dẫn sữa vùng trung tâm"
           ],
           "answer": 1,
-          "explain": "Bệnh Paget thường đi kèm với ung thư biểu mô ống tai chỗ hoặc xâm nhập trong tuyến vú nền."
+          "explain": "Khoảng 85-90% bệnh nhân Paget có ung thư biểu mô ống (DCIS hoặc IDC) tiềm ẩn bên dưới.<br>Nguồn: Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
         },
         {
           "q": "Phương pháp xử trí ngoại khoa thường quy nhất cho trường hợp này (T1N0M0) là gì?",
           "options": [
-            "Cắt bỏ nốn vú và quanh vú đơn thuần",
-            "Phẫu thuật đoạn vú (Mastectomy) hoặc phẫu thuật bảo tồn kèm xạ trị",
-            "Chỉ cần sinh thiết rộng vùng da tên thương để theo dõi",
+            "Cắt bỏ núm vú và quầng vú đơn thuần",
+            "Phẫu thuật đoạn nhũ (Mastectomy) hoặc phẫu thuật bảo tồn kèm xạ trị",
+            "Chỉ cần sinh thiết rộng vùng da tổn thương để theo dõi",
             "Nạo vét hạch nách mà không cần can thiệp vào tuyến vú"
           ],
           "answer": 1,
-          "explain": "Vì Paget thường đi kèm với DCIS hoặc IDC nên cần phẫu thuật toàn bộ hoặc bảo tồn kèm xạ trị, không chỉ cắt nốn vú."
+          "explain": "Vì thường kèm ung thư bên dưới, phẫu thuật phải đảm bảo lấy sạch tổn thương ác tính bên dưới, không chỉ vùng da núm vú.<br>Nguồn: NCCN Guidelines."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nữ 48 tuổi, ung thư vú dương tính HER2",
-      "body": "<b>Tiền sử:</b> Nữ 48 tuổi, tiền sử khỏe mạnh, tính cộng phát hiện khối u vú trái 2.5cm. <b>Kết quả sinh thiết:</b> Ung thư biểu mô ống xâm nhập (IDC), Grade III. <b>Hoá mô miễn dịch:</b> ER (+10%), PR (-), HER2 (+3), Ki-67 (45%). Bệnh nhân được chỉ định hóa trị bộ trước kết hợp với liệu pháp nhắm trúng dịch sau phẫu thuật.",
+      "title": "Bệnh nhân nữ 35 tuổi mang thai phát hiện khối u vú",
+      "body": "Bệnh nhân nữ 35 tuổi, đang mang thai tuần thứ 18 (G2P1001), phát hiện một khối ở vú phải tăng kích thước nhanh trong vòng 1 tháng. Khám thấy khối u vú phải 3x4cm, chắc, ranh giới rõ, hạch nách cùng bên sờ thấy 1 hạch 1cm di động.<br>Siêu âm vú cho thấy hình ảnh nghi ngờ ác tính (BI-RADS 5). Sinh thiết lõi kim cho kết quả ung thư biểu mô ống xâm nhập (IDC), độ mô học Grade III. Kết quả hóa mô miễn dịch: ER (-), PR (-), HER2 (+3). Bệnh nhân và gia đình rất lo lắng về việc duy trì thai kỳ và ảnh hưởng của điều trị lên thai nhi.",
       "questions": [
         {
-          "q": "Ý nghĩa của kết quả HER2 (+3) trên hoá mô miễn dịch là gì?",
+          "q": "Thay đổi nội tiết nào trong thai kỳ được cho là yếu tố làm khó khăn cho việc phát hiện ung thư vú?",
+          "options": [
+            "Sự sụt giảm nồng độ Progesterone làm mô vú xơ hóa",
+            "Sự tăng nồng độ Prolactin gây ra hiện tượng tiết sữa giả",
+            "Sự tăng kích thước và mật độ tuyến vú do Estrogen và Progesterone",
+            "Sự tăng tưới máu vùng ngực làm thay đổi cấu trúc hạch nách"
+          ],
+          "answer": 2,
+          "explain": "Vú to và chắc hơn trong thai kỳ khiến việc sờ thấy khối u nhỏ trở nên khó khăn, dẫn đến chẩn đoán muộn.<br>Nguồn: Williams Obstetrics."
+        },
+        {
+          "q": "Về quản lý thai kỳ, khuyến cáo hiện nay đối với bệnh nhân này là gì?",
+          "options": [
+            "Bắt buộc phải đình chỉ thai kỳ để điều trị ung thư ngay lập tức",
+            "Có thể duy trì thai kỳ và tiến hành điều trị theo giai đoạn bệnh",
+            "Đợi đến khi thai đủ tháng (37 tuần) rồi mới bắt đầu điều trị ung thư",
+            "Chỉ thực hiện phẫu thuật, tuyệt đối không được dùng hóa trị trong suốt thai kỳ"
+          ],
+          "answer": 1,
+          "explain": "Đình chỉ thai kỳ không làm cải thiện tiên lượng ung thư vú. Điều trị có thể tiến hành song song với sự theo dõi sát sao.<br>Nguồn: ACOG Practice Bulletin."
+        },
+        {
+          "q": "Thời điểm an toàn nhất để bắt đầu hóa trị cho bệnh nhân này là khi nào?",
+          "options": [
+            "Ngay lập tức ở tuần thứ 18",
+            "Sau khi thai được 24 tuần (giai đoạn nuôi sống được)",
+            "Sau khi kết thúc tam cá nguyệt thứ nhất (từ tuần 13 trở đi)",
+            "Sau khi đã mổ lấy thai chủ động ở tuần thứ 32"
+          ],
+          "answer": 2,
+          "explain": "Hóa trị an toàn từ tam cá nguyệt thứ 2 trở đi vì quá trình tạo cơ quan đã hoàn tất, nguy cơ dị tật giảm xuống dưới 3%.<br>Nguồn: RCOG Green-top Guidelines."
+        },
+        {
+          "q": "Thuốc nào sau đây chống chỉ định tuyệt đối cho bệnh nhân này trong khi đang mang thai?",
+          "options": [
+            "Doxorubicin (Nhóm Anthracycline)",
+            "Cyclophosphamide",
+            "Trastuzumab (Liệu pháp nhắm trúng đích HER2)",
+            "Paclitaxel (Nhóm Taxane)"
+          ],
+          "answer": 2,
+          "explain": "Trastuzumab gây thiểu ối nặng, biến chứng phổi và thận ở thai nhi, nên chống chỉ định khi mang thai.<br>Nguồn: Hướng dẫn thực hành Sản phụ khoa Việt Nam."
+        },
+        {
+          "q": "Tại sao không nên thực hiện xạ trị cho bệnh nhân này trong quá trình mang thai?",
+          "options": [
+            "Xạ trị gây sảy thai ngay lập tức ở tam cá nguyệt thứ hai",
+            "Nguy cơ gây dị tật bẩm sinh, chậm phát triển tâm thần và ung thư thứ phát cho thai",
+            "Xạ trị làm mất sữa hoàn toàn sau khi sinh nên không được khuyến cáo",
+            "Tia xạ làm tăng nguy cơ tiền sản giật cho người mẹ"
+          ],
+          "answer": 1,
+          "explain": "Xạ trị vùng ngực vẫn có tia tán xạ đáng kể đến thai nhi, gây nguy cơ cao về phát triển và dị tật.<br>Nguồn: Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 50 tuổi có khối u vú trái kích thước lớn",
+      "body": "Bệnh nhân nữ 50 tuổi, chưa mãn kinh, đến khám vì khối u vú trái lớn. Khám lâm sàng thấy khối u chiếm gần hết 1/2 ngoài vú trái, kích thước khoảng 6cm, xâm nhiễm gây dính da và co kéo núm vú nhẹ, chưa loét da. Hạch nách trái sờ thấy chùm hạch chắc, dính nhau nhưng vẫn di động so với thành ngực. Không sờ thấy hạch trên đòn.<br>Kết quả sinh thiết là ung thư biểu mô thùy xâm nhập (ILC). Các xét nghiệm di căn xa (X-quang phổi, siêu âm bụng, xạ hình xương) đều âm tính. Bệnh nhân có tiền sử đái tháo đường type 2 đang kiểm soát tốt bằng thuốc uống.",
+      "questions": [
+        {
+          "q": "Theo phân loại TNM (AJCC 8th), giai đoạn lâm sàng (cTNM) của bệnh nhân này là gì?",
+          "options": [
+            "T2N1M0",
+            "T3N1M0",
+            "T3N2M0",
+            "T4N2M0"
+          ],
+          "answer": 2,
+          "explain": "T3 (u > 5cm), N2 (hạch nách dính nhau). T4 chỉ khi xâm nhiễm da (loét/phù) hoặc thành ngực.<br>Nguồn: AJCC Cancer Staging Manual."
+        },
+        {
+          "q": "Đặc điểm vi thể đặc trưng nhất của ung thư biểu mô thùy xâm nhập (ILC) là gì?",
+          "options": [
+            "Các tế bào xếp thành đám đặc hoặc các ống nhỏ không hoàn chỉnh",
+            "Các tế bào nhỏ, đồng nhất, xếp thành hàng một (indian file)",
+            "Tế bào lớn, nhân quái, tạo thành các hồ nhầy lớn bao quanh",
+            "Cấu trúc nhú có trục liên kết mạch máu xâm lấn mô đệm"
+          ],
+          "answer": 1,
+          "explain": "Đây là đặc điểm kinh điển của ILC do mất protein kết dính E-cadherin.<br>Nguồn: WHO Classification of Tumours."
+        },
+        {
+          "q": "Tại sao ILC thường khó phát hiện trên nhũ ảnh hơn IDC?",
+          "options": [
+            "Do ILC không bao giờ có hiện tượng vi vôi hóa",
+            "Do ILC phát hiện chủ yếu ở phụ nữ trẻ có mật độ vú dày",
+            "Do kiểu phát triển lan tỏa, ít tạo khối rõ rệt và không gây phản ứng xơ hóa mạnh",
+            "Do ILC thường nằm ở vị trí sâu sát thành ngực mà nhũ ảnh không ép tới được"
+          ],
+          "answer": 2,
+          "explain": "ILC xâm lấn kiểu \"len lỏi\" qua mô đệm nên thường không tạo khối đặc gây bóng mờ rõ trên tia X.<br>Nguồn: Williams Obstetrics."
+        },
+        {
+          "q": "Chiến lược điều trị tối ưu nhất cho bệnh nhân ở giai đoạn này (giai đoạn tiến triển tại chỗ) là gì?",
+          "options": [
+            "Phẫu thuật đoạn nhũ triệt căn ngay lập tức",
+            "Hóa trị tân bổ trợ để làm giảm giai đoạn (downstaging) trước khi phẫu thuật",
+            "Xạ trị đơn thuần vào tuyến vú và hạch nách",
+            "Điều trị nội tiết bằng Tamoxifen cho đến khi khối u co nhỏ rồi mổ"
+          ],
+          "answer": 1,
+          "explain": "Với khối u lớn và hạch dính, hóa trị tân bổ trợ giúp đánh giá đáp ứng thuốc và tăng khả năng phẫu thuật sạch.<br>Nguồn: NCCN Guidelines."
+        },
+        {
+          "q": "Sau phẫu thuật đoạn nhũ và nạo vét hạch, nếu kết quả có 5/15 hạch dương tính, chỉ định điều trị bổ trợ nào là bắt buộc?",
+          "options": [
+            "Chỉ cần theo dõi định kỳ vì đã phẫu thuật triệt căn",
+            "Hóa trị bổ trợ và xạ trị thành ngực/vùng hạch",
+            "Chỉ cần điều trị nội tiết nếu thụ thể dương tính",
+            "Xạ trị vào vú đối diện để phòng ngừa"
+          ],
+          "answer": 1,
+          "explain": "Trên 4 hạch dương tính (pN2) là chỉ định bắt buộc phải xạ trị bổ trợ để giảm tái phát tại chỗ.<br>Nguồn: Phác đồ Từ Dũ / Bộ Y tế."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 28 tuổi tư vấn di truyền ung thư vú gia đình",
+      "body": "Bệnh nhân nữ 28 tuổi, độc thân, đến tư vấn vì có mẹ và chị gái ruột đều mắc ung thư vú trước 40 tuổi. Mẹ bệnh nhân đã được xét nghiệm xác định có đột biến gen BRCA1. Bệnh nhân vừa có kết quả xét nghiệm di truyền cũng dương tính với đột biến BRCA1. Hiện tại khám lâm sàng và siêu âm vú của bệnh nhân chưa phát hiện bất thường. Bệnh nhân rất lo lắng và muốn biết các phương án quản lý rủi ro trong tương lai.",
+      "questions": [
+        {
+          "q": "Đột biến gen BRCA1 làm tăng nguy cơ mắc những loại ung thư nào nhiều nhất?",
+          "options": [
+            "Ung thư vú và ung thư nội mạc tử cung",
+            "Ung thư vú và ung thư buồng trứng dạng biểu mô",
+            "Ung thư vú và ung thư đại trực tràng",
+            "Ung thư vú và ung thư cổ tử cung"
+          ],
+          "answer": 1,
+          "explain": "Đột biến BRCA1 làm tăng nguy cơ ung thư vú (đến 80%) và ung thư buồng trứng (đến 40%) suốt đời.<br>Nguồn: Williams Obstetrics / NCCN Genetic Risk."
+        },
+        {
+          "q": "Cơ chế sinh học bình thường của gen BRCA1 trong tế bào là gì?",
+          "options": [
+            "Kích thích chu trình tế bào diễn ra nhanh hơn",
+            "Mã hóa cho các thụ thể nội tiết Estrogen",
+            "Sửa chữa các đứt gãy DNA sợi đôi (tumor suppressor gene)",
+            "Ức chế quá trình apoptosis (chết tế bào theo chương trình)"
+          ],
+          "answer": 2,
+          "explain": "BRCA1/2 là các gen đè nén khối u, đóng vai trò quan trọng trong việc giữ ổn định bộ gen thông qua sửa chữa DNA.<br>Nguồn: Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
+        },
+        {
+          "q": "Chiến lược tầm soát được khuyến cáo cho bệnh nhân này bắt đầu từ độ tuổi hiện tại là gì?",
+          "options": [
+            "Chụp nhũ ảnh định kỳ mỗi 6 tháng",
+            "Siêu âm tuyến vú mỗi năm một lần",
+            "Chụp MRI tuyến vú hàng năm kết hợp khám lâm sàng mỗi 6 tháng",
+            "Tự khám vú hàng tháng và không cần thăm dò gì thêm đến năm 40 tuổi"
+          ],
+          "answer": 2,
+          "explain": "MRI có độ nhạy cao hơn nhũ ảnh ở phụ nữ trẻ có mô vú dày và là lựa chọn ưu tiên cho nhóm nguy cơ cao.<br>Nguồn: ACS Guidelines for Breast Cancer Screening."
+        },
+        {
+          "q": "Phương pháp can thiệp có hiệu quả giảm nguy cơ ung thư vú cao nhất (>90%) cho bệnh nhân này là gì?",
+          "options": [
+            "Dùng thuốc Tamoxifen dự phòng trong 5 năm",
+            "Phẫu thuật cắt tuyến vú dự phòng hai bên (Prophylactic mastectomy)",
+            "Cắt bỏ hai buồng trứng và vòi trứng dự phòng (RRSO)",
+            "Thực hiện chế độ ăn thuần chay và tập thể dục cường độ cao"
+          ],
+          "answer": 1,
+          "explain": "Cắt tuyến vú dự phòng là phương pháp triệt để nhất để giảm nguy cơ ung thư vú ở người có đột biến BRCA.<br>Nguồn: NCCN Guidelines."
+        },
+        {
+          "q": "Bệnh nhân hỏi về việc sinh con, đột biến gen BRCA1 có khả năng di truyền cho đời sau với tỷ lệ bao nhiêu?",
+          "options": [
+            "25% (Di truyền lặn trên nhiễm sắc thể thường)",
+            "50% (Di truyền trội trên nhiễm sắc thể thường)",
+            "100% nếu là con gái",
+            "0% nếu chồng không có đột biến"
+          ],
+          "answer": 1,
+          "explain": "Đây là kiểu di truyền trội trên nhiễm sắc thể thường, mỗi lần sinh con có 50% xác suất truyền gen đột biến.<br>Nguồn: Giáo trình Sản phụ khoa ĐH Y Hà Nội."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 42 tuổi mong muốn phẫu thuật bảo tồn tuyến vú",
+      "body": "Bệnh nhân nữ 42 tuổi, phát hiện khối u vú phải 1.5cm qua tầm soát định kỳ. Kết quả sinh thiết là ung thư biểu mô ống xâm nhập (IDC), độ II. Chụp MRI không phát hiện tổn thương nào khác. Hạch nách lâm sàng âm tính. Bệnh nhân có nguyện vọng được phẫu thuật bảo tồn tuyến vú (BCS) để giữ thẩm mỹ. Bệnh nhân không có tiền sử bệnh lý tự miễn hay xạ trị vùng ngực trước đó.",
+      "questions": [
+        {
+          "q": "Điều kiện tiên quyết để thực hiện phẫu thuật bảo tồn tuyến vú thành công là gì?",
+          "options": [
+            "Khối u phải nằm ở vị trí trung tâm ngay dưới núm vú",
+            "Tỷ lệ kích thước u/vú phù hợp và đảm bảo diện cắt (margin) âm tính",
+            "Bệnh nhân phải dưới 40 tuổi để đảm bảo khả năng hồi phục",
+            "Khối u phải là ung thư biểu mô thùy tại chỗ (LCIS)"
+          ],
+          "answer": 1,
+          "explain": "Mục tiêu của BCS là lấy hết u với diện cắt sạch nhưng vẫn đảm bảo kết quả thẩm mỹ chấp nhận được.<br>Nguồn: NCCN Guidelines."
+        },
+        {
+          "q": "Liệu pháp bắt buộc phải đi kèm sau khi phẫu thuật bảo tồn tuyến vú là gì?",
+          "options": [
+            "Hóa trị bổ trợ liều cao",
+            "Xạ trị bổ trợ vào phần tuyến vú còn lại",
+            "Điều trị nội tiết trong ít nhất 10 năm",
+            "Phẫu thuật tạo hình bằng túi độn ngực"
+          ],
+          "answer": 1,
+          "explain": "Phẫu thuật bảo tồn mà không xạ trị có tỷ lệ tái phát tại chỗ rất cao (đến 30-40%).<br>Nguồn: Hướng dẫn thực hành Sản phụ khoa Việt Nam."
+        },
+        {
+          "q": "Nếu trong quá trình mổ, diện cắt tức thì (frozen section) vẫn còn tế bào ung thư, xử trí tiếp theo là gì?",
+          "options": [
+            "Tiếp tục xạ trị liều cao hơn sau mổ",
+            "Mở rộng diện cắt hoặc chuyển sang đoạn nhũ nếu không thể lấy thêm",
+            "Bỏ qua diện cắt và tập trung vào nạo vét hạch nách",
+            "Đóng vết mổ và chờ kết quả giải phẫu bệnh chính thức"
+          ],
+          "answer": 1,
+          "explain": "Diện cắt sạch là tiêu chuẩn vàng của phẫu thuật ung thư, nếu diện cắt dương tính sẽ không đạt được mục tiêu bảo tồn.<br>Nguồn: Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
+        },
+        {
+          "q": "Kỹ thuật \"sinh thiết hạch cửa\" (Sentinel lymph node biopsy) giúp bệnh nhân tránh được biến chứng nào nhiều nhất?",
+          "options": [
+            "Tái phát ung thư tại hạch nách",
+            "Tổn thương thần kinh hô hấp dài và phù tay voi",
+            "Chảy máu trong đại phẫu",
+            "Nhiễm trùng vết mổ vùng nách"
+          ],
+          "answer": 1,
+          "explain": "Nạo vét hạch nách hệ thống dễ gây tổn thương mạch bạch huyết và thần kinh, sinh thiết hạch cửa giúp hạn chế điều này.<br>Nguồn: Giáo trình Sản phụ khoa ĐH Y Hà Nội."
+        },
+        {
+          "q": "Chống chỉ định tương đối của phẫu thuật bảo tồn tuyến vú là gì?",
+          "options": [
+            "Bệnh nhân có nhiều khối u ở các phần tư khác nhau (multicentricity)",
+            "U có kích thước nhỏ dưới 2cm",
+            "Bệnh nhân đang dùng thuốc chống đông máu",
+            "Khối u nằm ở vị trí 1/4 dưới trong"
+          ],
+          "answer": 0,
+          "explain": "Nhiều khối u ở các vùng khác nhau thường đòi hỏi cắt rộng mất thẩm mỹ hoặc khó đảm bảo diện cắt, nên ưu tiên đoạn nhũ.<br>Nguồn: Phác đồ Từ Dũ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 62 tuổi hậu phẫu ung thư vú xét nghiệm hóa mô miễn dịch",
+      "body": "Bệnh nhân nữ 62 tuổi, hậu phẫu ngày 5 sau đoạn nhũ triệt căn vì ung thư vú phải T2N0M0. Kết quả giải phẫu bệnh: Ung thư biểu mô ống xâm nhập (IDC), Grade I. Hóa mô miễn dịch: ER (+ 90%), PR (+ 80%), HER2 (âm tính), Ki-67 (10%). Bệnh nhân hồi phục tốt, diện cắt sạch, không có hạch di căn. Bệnh nhân hỏi về các bước điều trị tiếp theo để ngăn ngừa bệnh quay lại.",
+      "questions": [
+        {
+          "q": "Phân nhóm sinh học phân tử của khối u này theo phân loại Luminal là gì?",
+          "options": [
+            "Luminal A",
+            "Luminal B (HER2 âm tính)",
+            "Luminal B (HER2 dương tính)",
+            "HER2-enriched"
+          ],
+          "answer": 0,
+          "explain": "Luminal A đặc trưng bởi ER/PR dương tính mạnh, HER2 âm tính và Ki-67 thấp (< 14-20%).<br>Nguồn: St. Gallen Consensus."
+        },
+        {
+          "q": "Tại sao chỉ số Ki-67 thấp (10%) lại là một dấu hiệu tiên lượng tốt?",
+          "options": [
+            "Cho thấy khối u nhạy cảm rất cao với hóa trị",
+            "Phản ánh tốc độ tăng sinh tế bào chậm, khối u ít hung hãn",
+            "Chứng tỏ khối u không có khả năng di căn hạch nách",
+            "Cho thấy bệnh nhân không cần phải điều trị nội tiết"
+          ],
+          "answer": 1,
+          "explain": "Ki-67 là chỉ số phản ánh tỷ lệ tế bào đang trong chu kỳ phân chia; chỉ số thấp tương ứng với độ ác tính thấp hơn.<br>Nguồn: WHO Classification of Tumours."
+        },
+        {
+          "q": "Lựa chọn điều trị nội tiết ưu tiên nhất cho bệnh nhân này (phụ nữ đã mãn kinh) là gì?",
+          "options": [
+            "Tamoxifen 20mg/ngày trong 5 năm",
+            "Thuốc ức chế Enzyme Aromatase (AI) như Anastrozole",
+            "Cắt bỏ hai buồng trứng bằng phẫu thuật nội soi",
+            "Tiêm thuốc đồng vận GnRH hàng tháng"
+          ],
+          "answer": 1,
+          "explain": "Ở phụ nữ mãn kinh, AI có hiệu quả ngăn tái phát tốt hơn Tamoxifen vì nguồn Estrogen chính lúc này là từ sự chuyển đổi ngoại biên.<br>Nguồn: NCCN Guidelines / Bộ Y tế."
+        },
+        {
+          "q": "Cơ chế tác dụng chính của thuốc ức chế Aromatase (AI) là gì?",
+          "options": [
+            "Cạnh tranh với Estrogen tại các thụ thể trên tế bào ung thư",
+            "Ngăn chặn sự chuyển đổi các Androgen thành Estrogen ở mô mỡ và cơ",
+            "Ức chế trực tiếp sự thủy giải của buồng trứng để giảm tiết hormone",
+            "Phá hủy các mạch máu nuôi dưỡng khối u có thụ thể nội tiết"
+          ],
+          "answer": 1,
+          "explain": "Aromatase là enzyme chuyển đổi androgen từ tuyến thượng thận thành estrogen ở mô ngoại biên sau mãn kinh.<br>Nguồn: Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
+        },
+        {
+          "q": "Tác dụng phụ cần theo dõi sát nhất khi bệnh nhân dùng thuốc nhóm AI là gì?",
+          "options": [
+            "Tăng nguy cơ ung thư nội mạc tử cung",
+            "Thuyên tắc tĩnh mạch sâu và phổi",
+            "Giảm mật độ xương và nguy cơ loãng xương, gãy xương",
+            "Các cơn bốc hỏa và khô âm đạo"
+          ],
+          "answer": 2,
+          "explain": "AI làm sụt giảm estrogen mức độ sâu nên gây mất xương mạnh hơn Tamoxifen (vốn có tác dụng bảo vệ xương một phần).<br>Nguồn: Giáo trình Sản phụ khoa ĐH Y Hà Nội."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 48 tuổi phát hiện khối u vú với HER2 dương tính",
+      "body": "Bệnh nhân nữ 48 tuổi, tiền sử khỏe mạnh, tình cờ phát hiện khối u vú trái 2.5cm. Kết quả sinh thiết: Ung thư biểu mô ống xâm nhập (IDC), Grade III. Hóa mô miễn dịch: ER (+ 10%), PR (-), HER2 (+3), Ki-67 (45%). Bệnh nhân được chỉ định hóa trị bổ trợ kết hợp với liệu pháp nhắm trúng đích sau phẫu thuật.",
+      "questions": [
+        {
+          "q": "Ý nghĩa của kết quả HER2 (+3) trên hóa mô miễn dịch là gì?",
           "options": [
             "Gen HER2 bị khuếch đại dẫn đến quá trình biểu hiện quá mức protein thụ thể trên màng tế bào",
             "Tế bào ung thư có khả năng tự sản xuất ra hormone Estrogen",
-            "Khối u có khó khăn hoàn toàn với tất cả các loại hóa trị",
-            "Khối u có nguồn gốc từ các tế bào màng của tuyến vú"
+            "Khối u có khả năng kháng hoàn toàn với tất cả các loại hóa trị",
+            "Khối u có nguồn gốc từ các tế bào mầm của tuyến vú"
           ],
           "answer": 0,
-          "explain": "HER2 (+3) là một proto-oncogene mã cho thụ thể yếu tố tăng trưởng. Khi bị khuếch đại, dẫn thế bào phân chia vô hạn."
+          "explain": "HER2 là một proto-oncogene mã hóa cho thụ thể yếu tố tăng trưởng biểu bì, khi bị khuếch đại sẽ thúc đẩy tế bào phân chia vô hạn.<br>Nguồn: Williams Obstetrics."
         },
         {
-          "q": "Thuốc điều trị nhắm trúng dịch (Targeted therapy) chủ yếu cho HER2 dương tính là gì?",
+          "q": "Thuốc điều trị nhắm trúng đích (Targeted therapy) chuẩn cho HER2 dương tính là gì?",
           "options": [
             "Rituximab",
             "Trastuzumab (Herceptin)",
@@ -213,40 +518,101 @@
             "Cetuximab"
           ],
           "answer": 1,
-          "explain": "Trastuzumab là khống thể đơn dòng đầu tiên và kinh điển nhắm vào HER2, làm thay đổi ngoan mục tiến độ bệnh."
+          "explain": "Trastuzumab là kháng thể đơn dòng đầu tiên và kinh điển nhất nhắm vào HER2, làm thay đổi ngoạn mục tiên lượng bệnh.<br>Nguồn: NCCN Guidelines."
         },
         {
           "q": "Trastuzumab hoạt động dựa trên cơ chế nào sau đây?",
           "options": [
-            "Gắn vào màng ngoài bao của thụ thể HER2 và ngăn chặn tín hiệu tăng trưởng",
-            "Bị vào nhân tế bào và trấn áp sao chép của gen HER2",
-            "Kích hoạt hệ thống bổ thể để tiêu diệt tế bào mà xung quanh khối u",
+            "Gắn vào miền ngoại bào của thụ thể HER2 và ngăn chặn tín hiệu tăng trưởng",
+            "Đi vào nhân tế bào và ức chế sự sao chép của gen HER2",
+            "Kích hoạt hệ thống bổ thể để tiêu diệt tế bào mỡ xung quanh khối u",
             "Ức chế enzyme Aromatase để làm giảm nồng độ protein HER2"
           ],
           "answer": 0,
-          "explain": "Thuốc gắn trực tiếp vào thụ thể trên màng, ngăn chặn sự dimer hóa và kích hoạt các con đường truyền tín hiệu hạ nguồn."
+          "explain": "Thuốc gắn trực tiếp vào thụ thể trên màng, ngăn cản sự dimer hóa và kích hoạt các con đường truyền tin hạ nguồn.<br>Nguồn: Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
         },
         {
           "q": "Tác dụng phụ nguy hiểm nhất cần được kiểm tra bằng siêu âm tim định kỳ khi dùng Trastuzumab là gì?",
           "options": [
             "Tràn dịch màng ngoài tim cấp tính",
             "Suy tim sung huyết và giảm phân suất tống máu (LVEF)",
-            "Hở van hai lá máu 4 độ nặng",
+            "Hở van hai lá mức độ nặng",
             "Viêm cơ tim do virus cơ hội"
           ],
           "answer": 1,
-          "explain": "Độc tính trên tim của Trastuzumab thường liên quan đến liệu pháp và cần theo dõi LVEF mỗi 3 tháng."
+          "explain": "Độc tính trên tim của Trastuzumab thường liên quan đến liều và có thể hồi phục, cần theo dõi LVEF mỗi 3 tháng.<br>Nguồn: Hướng dẫn thực hành Sản phụ khoa Việt Nam."
         },
         {
-          "q": "Tại sao khối u HER2 (+3) thường có tiên lượng xấu nếu không được điều trị nhắm trúng dịch?",
+          "q": "Tại sao khối u HER2 (+3) thường có tiên lượng xấu nếu không được điều trị trúng đích?",
           "options": [
-            "Vì chúng luôn di kèm với di căn xương sớm",
+            "Vì chúng luôn đi kèm với di căn xương sớm",
             "Vì chúng có tốc độ phân chia tế bào nhanh và khả năng xâm lấn cao",
             "Vì chúng thường không đáp ứng với xạ trị",
-            "Vì chúng gây ra tình trạng tăng calci mồi được tinh"
+            "Vì chúng gây ra tình trạng tăng canxi máu ác tính"
           ],
           "answer": 1,
-          "explain": "Trước kỳ nguyên thuốc nhắm trúng dịch, nhóm HER2+ có tỷ lệ tái phát và tử vong cao nhất do tính chất hung hãn của nó."
+          "explain": "Trước kỷ nguyên thuốc trúng đích, nhóm HER2+ có tỷ lệ tái phát và tử vong cao nhất do tính chất hung hãn của nó.<br>Nguồn: Giáo trình Sản phụ khoa ĐH Y Hà Nội."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 38 tuổi có khối u vú với xét nghiệm bộ ba âm tính",
+      "body": "Bệnh nhân nữ 38 tuổi, phát hiện khối u vú phải lớn 4cm, hạch nách cùng bên 2cm chắc, di động. Sinh thiết cho kết quả ung thư biểu mô ống xâm nhập (IDC), Grade III. Hóa mô miễn dịch cho kết quả \"Tam âm\" (Triple-negative): ER (-), PR (-), HER2 (0). Xét nghiệm BRCA1/2 âm tính. Bệnh nhân được lên kế hoạch hóa trị tân bổ trợ bằng phác đồ có chứa Anthracycline và Taxane.",
+      "questions": [
+        {
+          "q": "Định nghĩa \"Ung thư vú tam âm\" dựa trên sự vắng mặt của các yếu tố nào?",
+          "options": [
+            "Thụ thể Estrogen, Progesterone và chỉ số Ki-67",
+            "Thụ thể Estrogen, Progesterone và thụ thể HER2",
+            "Gen BRCA1, BRCA2 và gen p53",
+            "Thụ thể nội tiết, thụ thể HER2 và hạch nách lâm sàng"
+          ],
+          "answer": 1,
+          "explain": "TNBC chiếm khoảng 10-15% ung thư vú, khó điều trị nhất vì thiếu các đích nhắm đặc hiệu.<br>Nguồn: Williams Obstetrics."
+        },
+        {
+          "q": "Tại sao liệu pháp nội tiết và liệu pháp nhắm trúng đích HER2 không có hiệu quả ở bệnh nhân này?",
+          "options": [
+            "Do khối u có độ ác tính Grade III quá cao",
+            "Do các tế bào ung thư thiếu các mục tiêu (target) để thuốc tác động vào",
+            "Do bệnh nhân còn trẻ nên chuyển hóa thuốc quá nhanh",
+            "Do khối u đã di căn hạch nách nên thuốc không tới được"
+          ],
+          "answer": 1,
+          "explain": "Các thuốc như Tamoxifen hay Trastuzumab cần có thụ thể tương ứng để gắn vào, TNBC không biểu hiện các thụ thể này.<br>Nguồn: Bài giảng Sản phụ khoa - ĐH Y Dược TP.HCM."
+        },
+        {
+          "q": "Đặc điểm về mô hình tái phát của ung thư vú tam âm (TNBC) thường là gì?",
+          "options": [
+            "Tái phát muộn sau 10 năm điều trị ổn định",
+            "Tái phát sớm (thường trong 3-5 năm đầu) và hay di căn tạng (não, phổi)",
+            "Chỉ tái phát tại chỗ tại vùng sẹo mổ cũ",
+            "Thường di căn xương đơn thuần và tiến triển chậm"
+          ],
+          "answer": 1,
+          "explain": "TNBC có đỉnh tái phát sớm và có ái tính di căn vào các cơ quan nội tạng hơn là xương.<br>Nguồn: NCCN Guidelines."
+        },
+        {
+          "q": "Vai trò chính của hóa trị tân bổ trợ (Neoadjuvant) trong trường hợp TNBC này là gì?",
+          "options": [
+            "Để bệnh nhân có thời gian chuẩn bị tâm lý trước phẫu thuật",
+            "Đánh giá độ nhạy của khối u với hóa trị (đáp ứng hoàn toàn về mô bệnh học - pCR)",
+            "Thay thế hoàn toàn cho phẫu thuật nếu khối u biến mất hoàn toàn",
+            "Để giảm bớt chi phí điều trị sau phẫu thuật"
+          ],
+          "answer": 1,
+          "explain": "Ở nhóm TNBC, những người đạt được pCR có tiên lượng sống sót tương đương với các nhóm ung thư vú tiên lượng tốt khác.<br>Nguồn: Phác đồ Từ Dũ / Bộ Y tế."
+        },
+        {
+          "q": "\"Đáp ứng hoàn toàn về mô bệnh học\" (pCR) sau hóa trị tân bổ trợ có ý nghĩa gì đối với TNBC?",
+          "options": [
+            "Bệnh nhân chắc chắn đã khỏi bệnh hoàn toàn và không cần theo dõi nữa",
+            "Là yếu tố tiên lượng cực tốt cho sự sống còn lâu dài của bệnh nhân",
+            "Chỉ là kết quả tạm thời và không liên quan đến thời gian sống thêm",
+            "Cho thấy bệnh nhân đã bị kháng thuốc hóa trị"
+          ],
+          "answer": 1,
+          "explain": "pCR (không còn tế bào u xâm nhập trong mẫu bệnh phẩm phẫu thuật) là mục tiêu quan trọng trong TNBC vì liên quan chặt đến sống còn lâu dài.<br>Nguồn: Giáo trình Sản phụ khoa ĐH Y Hà Nội."
         }
       ]
     }
