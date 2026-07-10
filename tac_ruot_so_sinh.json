@@ -1,0 +1,814 @@
+{
+  "name": "Tắc ruột sơ sinh",
+  "description": "Tập hợp các trường hợp lâm sàng về các dị dạng và bệnh lý gây tắc ruột ở trẻ sơ sinh, bao gồm: teo tá tràng, xoắn ruột giữa, bệnh Hirschsprung, tắc ruột phân su, viêm ruột hoại tử, dị dạng hậu môn trực tràng, hội chứng nút phân su, hẹp phì đại cơ môn vị và thoát vị bẹn nghẹt.",
+  "level": "Nhi khoa - Cấp cứu",
+  "type": "cases",
+  "category": "Nhi",
+  "subcategory": "Ngoại",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 1 ngày tuổi, sinh mổ, nôn dịch xanh rêu",
+      "body": "<b>Bệnh sử:</b> Trẻ nam 1 ngày tuổi, sinh mổ ở tuần thai thứ 38, cân nặng 2.8 kg. Tiền sử mẹ đa ối. Khám lâm sàng ghi nhận trẻ có nếp gấp ngang lòng bàn tay và khoảng cách giữa ngón chân thứ nhất và thứ hai rộng. Ngay sau sinh 12 giờ, bệnh nhi nôn nhiều lần ra dịch xanh rêu.<br><br><b>Khám lâm sàng:</b> Bụng trẻ xẹp, mềm, không chướng, chưa đi ngoài phân su. Huyết động ổn định, mạch 140 lần/phút, nhịp thở 45 lần/phút, SpO₂ 96%.<br><br><b>Xét nghiệm:</b> X-quang bụng đứng không chuẩn bị cho thấy hai túi hơi lớn ở vùng thượng vị, hoàn toàn không có khí ở phần ruột phía dưới.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất là gì?",
+          "options": [
+            "Teo tá tràng bẩm sinh",
+            "Teo hồi tràng bẩm sinh",
+            "Phình đại tràng bẩm sinh",
+            "Tắc ruột do phân su"
+          ],
+          "answer": 0,
+          "explain": "Dấu hiệu nôn dịch mật sớm, mẹ đa ối, kiểu hình Down và X-quang có 'bóng hơi kép' hoàn toàn không có hơi phía dưới là bệnh cảnh kinh điển của teo tá tràng bẩm sinh."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính dẫn đến dị tật tiêu hóa này là gì?",
+          "options": [
+            "Tai biến mạch máu mạc treo",
+            "Thất bại quá trình tạo lòng ống",
+            "Thiếu vắng tế bào hạch thần kinh",
+            "Rối loạn chuyển hóa điện giải"
+          ],
+          "answer": 1,
+          "explain": "Sự phát triển của tá tràng trải qua giai đoạn đặc ruột, teo tá tràng xảy ra do sự thất bại của quá trình không bào hóa (tái tạo lòng ống) vào tuần thứ 8–10 của thai kỳ."
+        },
+        {
+          "q": "Bước xử trí ưu tiên ban đầu tại phòng cấp cứu là gì?",
+          "options": [
+            "Đưa ngay vào phòng mổ khẩn cấp",
+            "Bơm rửa dạ dày bằng nước muối",
+            "Đặt ống thông dạ dày giải áp",
+            "Thụt tháo đại tràng dưới X-quang"
+          ],
+          "answer": 2,
+          "explain": "Trẻ nôn dịch mật nhiều có nguy cơ hít sặc cao. Xử trí đầu tiên bắt buộc là đặt ống thông dạ dày hút dịch giải áp, nhịn ăn và truyền dịch tĩnh mạch trước khi mổ."
+        },
+        {
+          "q": "Dị tật bẩm sinh nào thường đi kèm nhất cần phải tầm soát ở bệnh nhi này?",
+          "options": [
+            "Thần kinh trung ương",
+            "Thận và tiết niệu",
+            "Phổi và hô hấp",
+            "Hệ thống tim mạch"
+          ],
+          "answer": 3,
+          "explain": "Khoảng 30% trẻ teo tá tràng có hội chứng Down, trong nhóm này có tỷ lệ rất cao mắc các dị tật tim bẩm sinh phức tạp, cần siêu âm tim trước khi gây mê."
+        },
+        {
+          "q": "Phương pháp phẫu thuật tiêu chuẩn được lựa chọn là gì?",
+          "options": [
+            "Nối tá tràng với tá tràng",
+            "Cắt bỏ đoạn đầu tá tràng",
+            "Nối dạ dày với hỗng tràng",
+            "Mở thông dạ dày ra da"
+          ],
+          "answer": 0,
+          "explain": "Phẫu thuật nối tá tràng - tá tràng (tạo hình kim cương) là tiêu chuẩn vàng giúp lập lại lưu thông tiêu hóa sinh lý mà không làm tổn thương bóng Vater."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 4 ngày tuổi, nôn dịch mật, đi vào sốc",
+      "body": "<b>Bệnh sử:</b> Trẻ nữ 4 ngày tuổi, sinh đủ tháng, bú tốt và đã tiêu phân su bình thường trong các ngày đầu. Đột ngột trẻ nôn dịch mật liên tục, quấy khóc dữ dội rồi lờ đờ, da tái nhợt.<br><br><b>Khám lâm sàng:</b> SpO₂ 92%, mạch 185 lần/phút, huyết áp 45/25 mmHg, thời gian đổ đầy mao mạch kéo dài 4 giây. Bụng chướng nhẹ, sờ nắn thấy căng cứng, trẻ khóc thét phản ứng. Thăm trực tràng có dính ít máu tươi.<br><br><b>Xét nghiệm:</b> Bạch cầu 18 G/L, lactate máu 5.5 mmol/L. Siêu âm ổ bụng gợi ý dấu hiệu tĩnh mạch mạc treo tràng xoay quanh động mạch tạo hình ảnh vòng xoáy (whirlpool sign).",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định ở bệnh nhân này là gì?",
+          "options": [
+            "Lồng ruột cấp tính",
+            "Xoắn ruột giữa",
+            "Viêm ruột hoại tử",
+            "Tắc ruột phân su"
+          ],
+          "answer": 1,
+          "explain": "Trẻ sơ sinh trước đó khỏe mạnh đột ngột nôn dịch mật, đi vào sốc nhanh, tiêu máu và siêu âm có dấu hiệu vòng xoáy (whirlpool sign) là bệnh cảnh tối khẩn của xoắn ruột giữa."
+        },
+        {
+          "q": "Cận lâm sàng đầu tay giúp chẩn đoán xác định nếu không sốc là gì?",
+          "options": [
+            "X-quang bụng thẳng đứng",
+            "Chụp cắt lớp vi tính",
+            "Chụp dạ dày ruột cản quang",
+            "Siêu âm ổ bụng tổng quát"
+          ],
+          "answer": 2,
+          "explain": "Nếu bệnh nhân ổn định, chụp dạ dày ruột cản quang (Upper GI) là tiêu chuẩn vàng, cho thấy góc Treitz nằm sai vị trí và ruột xoắn vặn (dấu hiệu corkscrew). Tuy nhiên nếu đang sốc, siêu âm là đủ để mổ."
+        },
+        {
+          "q": "Bước can thiệp khẩn cấp nhất ngay khi tiếp nhận bệnh nhi là gì?",
+          "options": [
+            "Bơm hơi tháo lồng ruột",
+            "Thụt rửa đại tràng sạch",
+            "Dùng thuốc vận mạch liều cao",
+            "Hồi sức truyền dịch tinh thể"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân đang có sốc giảm thể tích và nhiễm độc rõ rệt. Ưu tiên hàng đầu là hồi sức ABC bằng cách lập đường truyền, truyền bolus dịch tinh thể song song với việc chuyển mổ ngay lập tức."
+        },
+        {
+          "q": "Chọn bước KHÔNG ĐÚNG trong phẫu thuật Ladd:",
+          "options": [
+            "Khâu cố định manh tràng",
+            "Cắt dải xơ chèn ép",
+            "Mở rộng chân mạc treo",
+            "Tháo xoắn ruột giữa"
+          ],
+          "answer": 0,
+          "explain": "Trong phẫu thuật Ladd, tuyệt đối KHÔNG khâu cố định manh tràng vào hố chậu phải. Sau mổ, ruột được xếp lại ở trạng thái không xoay: toàn bộ ruột non bên phải và đại tràng bên trái."
+        },
+        {
+          "q": "Biến chứng mạn tính đáng lo ngại nhất nếu phải cắt nhiều ruột hoại tử là gì?",
+          "options": [
+            "Viêm loét đại tràng mạn",
+            "Hội chứng ruột ngắn",
+            "Trào ngược dạ dày thực quản",
+            "Sa trực tràng kéo dài"
+          ],
+          "answer": 1,
+          "explain": "Xoắn ruột giữa làm nghẹt bó mạch mạc treo tràng trên, việc phải cắt bỏ lượng lớn ruột non hoại tử sẽ dẫn đến hội chứng ruột ngắn, gây suy dinh dưỡng và phụ thuộc dịch truyền."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 3 ngày tuổi, chươngế bụng, bóng trực tràng rỗng",
+      "body": "<b>Bệnh sử:</b> Trẻ nam 3 ngày tuổi, sinh đủ tháng, cân nặng 3.1 kg. Vào viện vì chướng bụng căng dần và nôn ra dịch vàng xanh. Bệnh nhi chưa đi ngoài phân su kể từ khi sinh.<br><br><b>Khám lâm sàng:</b> Mạch 130 lần/phút, SpO₂ 98%. Bụng chướng đều, mềm, nổi rõ các quai ruột tĩnh, không có dấu hiệu viêm phúc mạc. Thăm trực tràng bằng ngón tay thấy cơ vòng hậu môn thắt chặt, bóng trực tràng rỗng. Khi rút ngón tay ra có hiện tượng phân su và hơi xịt ra ồ ạt, sau đó bụng bệnh nhi xẹp đi đáng kể.",
+      "questions": [
+        {
+          "q": "Bệnh cảnh lâm sàng này hướng tới chẩn đoán nào nhất?",
+          "options": [
+            "Tắc ruột do dính bẩm sinh",
+            "Hội chứng nút phân su",
+            "Phình đại tràng bẩm sinh",
+            "Lồng ruột sơ sinh cấp tính"
+          ],
+          "answer": 2,
+          "explain": "Chậm tiêu phân su, chướng bụng, bóng trực tràng rỗng và có hội chứng tháo cống (phân và hơi phụt ồ ạt sau khi thăm trực tràng) là biểu hiện kinh điển của bệnh Hirschsprung (phình đại tràng bẩm sinh)."
+        },
+        {
+          "q": "Đặc điểm bất thường mô học cốt lõi gây ra bệnh lý này là gì?",
+          "options": [
+            "Phì đại lớp cơ vòng",
+            "Tổn thương lớp niêm mạc",
+            "Tắc nghẽn mạch máu ruột",
+            "Vắng mặt tế bào hạch"
+          ],
+          "answer": 3,
+          "explain": "Bệnh Hirschsprung là hậu quả của việc các tế bào mào thần kinh ngừng di trú trong thai kỳ, dẫn đến sự thiếu vắng hoàn toàn các tế bào hạch phó giao cảm ở đoạn cuối ống tiêu hóa."
+        },
+        {
+          "q": "Tiêu chuẩn vàng để chẩn đoán xác định bệnh lý này là gì?",
+          "options": [
+            "Sinh thiết trực tràng hút",
+            "Chụp đại tràng cản quang",
+            "Đo điện cơ vùng chậu",
+            "Siêu âm ổ bụng tổng quát"
+          ],
+          "answer": 0,
+          "explain": "Sinh thiết trực tràng hút lấy mô ở lớp dưới niêm mạc để xác nhận sự vắng mặt tế bào hạch và sự tăng sinh sợi thần kinh là tiêu chuẩn vàng chẩn đoán."
+        },
+        {
+          "q": "Hình ảnh đặc trưng trên X-quang đại tràng cản quang là gì?",
+          "options": [
+            "Hình ảnh mỏ chim cắt cụt",
+            "Vùng chuyển tiếp hình phễu",
+            "Lấm tấm bọt xà phòng",
+            "Đại tràng teo nhỏ toàn bộ"
+          ],
+          "answer": 1,
+          "explain": "Trên phim X-quang đại tràng cản quang, hình ảnh điển hình là vùng chuyển tiếp hình phễu phân định giữa đoạn trực tràng hẹp vô hạch ở dưới và đại tràng giãn to ở trên."
+        },
+        {
+          "q": "Xử trí bảo tồn ban đầu an toàn nhất khi bệnh nhân chưa có biến chứng là gì?",
+          "options": [
+            "Dùng thuốc nhuận tràng",
+            "Mở thông đại tràng ra da",
+            "Thụt tháo bằng nước muối",
+            "Kéo giãn cơ thắt hậu môn"
+          ],
+          "answer": 2,
+          "explain": "Ở trẻ sơ sinh bị Hirschsprung ổn định, thụt tháo làm sạch đại tràng hàng ngày bằng nước muối sinh lý ấm là biện pháp cứu cánh giúp xẹp ruột và cải thiện toàn trạng trước khi đủ điều kiện mổ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 2 ngày tuổi, sinh mổ, tiền sử gia đình hô hấp nặng",
+      "body": "<b>Bệnh sử:</b> Trẻ nữ 2 ngày tuổi, sinh mổ tuần 39. Tiền sử gia đình có anh trai tử vong do viêm phổi tái diễn và suy dinh dưỡng bẩm sinh. Trẻ không đi tiêu phân su sau sinh, bụng chướng nhiều, nổi rõ các quai ruột và nôn dịch xanh lá cây.<br><br><b>Khám lâm sàng:</b> Huyết động ổn định, không sốt, mạch 135 lần/phút. Sờ hố chậu phải thấy một khối mềm dẻo dạng bột nhào.<br><br><b>Xét nghiệm:</b> X-quang bụng đứng không chuẩn bị thấy hình ảnh nhiều quai ruột non giãn rộng, hoàn toàn không có mức nước hơi rõ rệt. Đặc biệt có đám mờ lấm tấm dạng kính rạn (bọt xà phòng) ở vùng hố chậu phải, không có khí tự do.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất là gì?",
+          "options": [
+            "Phình đại tràng bẩm sinh",
+            "Teo ruột non bẩm sinh",
+            "Ruột xoay bất toàn cấp",
+            "Tắc ruột do phân su"
+          ],
+          "answer": 3,
+          "explain": "Tiền sử gia đình hô hấp nặng, chậm tiêu phân su, sờ khối dẻo như bột nhào và X-quang có dấu hiệu bọt xà phòng (Neuhauser sign) là bệnh cảnh kinh điển của tắc ruột phân su."
+        },
+        {
+          "q": "Rối loạn di truyền nào thường liên quan trực tiếp đến cơ chế sinh bệnh của trẻ?",
+          "options": [
+            "Bệnh xơ nang bẩm sinh",
+            "Hội chứng Down",
+            "Suy giáp bẩm sinh",
+            "Bệnh đái tháo đường"
+          ],
+          "answer": 0,
+          "explain": "Hơn 90% bệnh nhân bị tắc ruột phân su có mang đột biến gen CFTR gây bệnh Xơ nang (Cystic Fibrosis), khiến dịch tiết của các tuyến ngoại tiết trở nên quánh đặc và kết dính."
+        },
+        {
+          "q": "Cơ chế tạo ra hình ảnh kính rạn trên phim X-quang là gì?",
+          "options": [
+            "Vi khuẩn kỵ khí sinh hơi",
+            "Khí trộn phân su đặc quánh",
+            "Nang giả phân su bị vôi hóa",
+            "Dịch ối trào ngược dạ dày"
+          ],
+          "answer": 1,
+          "explain": "Hình ảnh đám mờ lấm tấm dạng bọt xà phòng/kính rạn được tạo ra do sự hòa trộn giữa bọt khí trong lòng ruột với khối phân su quánh đặc đóng khuôn ở đoạn hồi tràng."
+        },
+        {
+          "q": "Biện pháp điều trị nội khoa đầu tay được ưu tiên áp dụng là gì?",
+          "options": [
+            "Mở thông dạ dày hút dịch",
+            "Chụp cắt lớp vi tính bụng",
+            "Thụt tháo bằng Gastrografin",
+            "Dùng thuốc kích thích nhu động"
+          ],
+          "answer": 2,
+          "explain": "Nếu bệnh nhi không có biến chứng viêm phúc mạc hay thủng ruột, thụt đại tràng bằng thuốc cản quang tan trong nước ưu trương (Gastrografin) là phương pháp điều trị đầu tay giúp kéo nước rã phân."
+        },
+        {
+          "q": "Chỉ định mổ cấp cứu mở bụng được đặt ra khi nào?",
+          "options": [
+            "Bụng chướng nhẹ toàn bộ",
+            "Trẻ quấy khóc nhiều lần",
+            "Thụt tháo ra ít phân su",
+            "Xuất hiện viêm phúc mạc"
+          ],
+          "answer": 3,
+          "explain": "Phẫu thuật mở bụng được chỉ định bắt buộc khi bệnh nhân có biểu hiện viêm phúc mạc (do thủng ruột, xoắn ruột) hoặc khi các biện pháp thụt tháo bảo tồn hoàn toàn thất bại."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 12 ngày tuổi, sinh non, nôn và chướng bụng",
+      "body": "<b>Bệnh sử:</b> Trẻ nam 12 ngày tuổi, sinh non ở tuần thai 28, cân nặng 1.1 kg. Ngày thứ 10 sau sinh, trẻ bắt đầu được nuôi ăn bằng sữa công thức qua ống thông. Hôm nay, trẻ xuất hiện chướng bụng, ứ đọng dịch dạ dày màu nâu, lờ đờ và có cơn ngừng thở ngắn.<br><br><b>Khám lâm sàng:</b> Nhiệt độ 35.5°C, mạch 165 lần/phút. Thành bụng căng, da quanh rốn đổi màu đỏ nề. Đi ngoài phân có máu bầm.<br><br><b>Xét nghiệm:</b> Chụp X-quang bụng thẳng thấy các quai ruột giãn rộng và hình ảnh dải sáng ngoằn ngoèo nằm dọc theo vách thành ruột. Chưa thấy khí tự do ổ bụng.",
+      "questions": [
+        {
+          "q": "Tình trạng ngoại khoa cấp cứu nào đang xảy ra ở bệnh nhi này?",
+          "options": [
+            "Viêm ruột hoại tử sơ sinh",
+            "Lồng ruột nhũ nhi cấp",
+            "Xoắn đại tràng sigma",
+            "Viêm dạ dày ruột cấp"
+          ],
+          "answer": 0,
+          "explain": "Trẻ sinh cực non, đang ăn sữa công thức, xuất hiện chướng bụng nề đỏ, dịch dạ dày bẩn, phân máu, sốc nhiễm trùng là bệnh cảnh kinh điển của Viêm ruột hoại tử sơ sinh (NEC)."
+        },
+        {
+          "q": "Dấu hiệu X-quang đặc trưng được mô tả trong tình huống này là gì?",
+          "options": [
+            "Hơi tự do trong ổ phúc mạc",
+            "Khí trong thành ống tiêu hóa",
+            "Khí trong tĩnh mạch cửa gan",
+            "Bóng khí đôi ở dạ dày"
+          ],
+          "answer": 1,
+          "explain": "Khí trong thành ống tiêu hóa (Pneumatosis intestinalis) tạo dải sáng dọc vách ruột do vi khuẩn sinh hơi xâm nhập dưới niêm mạc là dấu hiệu X-quang quyết định chẩn đoán NEC."
+        },
+        {
+          "q": "Chọn tập hợp ĐÚNG về các yếu tố nguy cơ của bệnh lý này:",
+          "type": "multi",
+          "options": [
+            "Sinh non, nhẹ cân",
+            "Nuôi ăn bằng sữa công thức",
+            "Thiếu máu cục bộ ruột non",
+            "Mẹ mắc đái tháo đường"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explain": "Ba yếu tố sinh bệnh học cốt lõi của NEC là: hệ miễn dịch chưa trưởng thành ở trẻ sinh non (1), sự xuất hiện của protein lạ từ sữa công thức (2), và tổn thương do thiếu máu cục bộ mạc treo (3)."
+        },
+        {
+          "q": "Bước xử trí nội khoa ban đầu quan trọng nhất là gì?",
+          "options": [
+            "Bơm rửa dạ dày liên tục",
+            "Tiếp tục bú và theo dõi",
+            "Phẫu thuật cắt đoạn ruột",
+            "Nhịn ăn và truyền kháng sinh"
+          ],
+          "answer": 3,
+          "explain": "Ngay khi nghi ngờ NEC, hành động tiên quyết là ngưng cho ăn qua đường tiêu hóa (NPO), đặt ống thông dạ dày giải áp, hồi sức tĩnh mạch và sử dụng ngay kháng sinh phổ rộng."
+        },
+        {
+          "q": "Dấu hiệu nào là chỉ định phẫu thuật tuyệt đối ở bệnh nhi này?",
+          "options": [
+            "Tràn khí trong ổ phúc mạc",
+            "Giãn tĩnh mạch mạc treo",
+            "Lượng tiểu cầu giảm thấp",
+            "Đỏ da thành bụng lan rộng"
+          ],
+          "answer": 0,
+          "explain": "Tràn khí ổ bụng (khí tự do) là bằng chứng của thủng ruột và là chỉ định mổ cấp cứu tuyệt đối. Các dấu hiệu khác chỉ là yếu tố tiên lượng nặng, có thể tiếp tục điều trị bảo tồn nếu chưa thủng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 2 ngày tuổi, sinh non, chưa đi tiêu phân su",
+      "body": "<b>Bệnh sử:</b> Trẻ nữ 2 ngày tuổi, sinh non ở thai kỳ 34 tuần. Mẹ có tiền sử nghiện hút thuốc lá nặng. Từ ngày thứ 2, trẻ nôn dịch mật nhiều lần, bụng chướng toàn bộ. Trẻ chưa tiêu phân su từ lúc sinh.<br><br><b>Khám lâm sàng:</b> Mạch 145 lần/phút, không sốt. Bụng chướng đều, sờ thấy các quai ruột nổi tĩnh, không có phản ứng thành bụng.<br><br><b>Xét nghiệm:</b> X-quang bụng đứng ghi nhận nhiều mức nước hơi lớn nhỏ rải rác khắp ổ bụng, không thấy bóng hơi vùng tiểu khung trực tràng, không có dấu hiệu bọt xà phòng ở hố chậu.",
+      "questions": [
+        {
+          "q": "Chẩn đoán có khả năng cao nhất là gì?",
+          "options": [
+            "Teo tá tràng bẩm sinh",
+            "Teo ruột non bẩm sinh",
+            "Hội chứng nút phân su",
+            "Phình đại tràng bẩm sinh"
+          ],
+          "answer": 1,
+          "explain": "Trẻ sơ sinh chướng bụng toàn thể, nôn dịch mật và X-quang có nhiều mức nước hơi là đặc trưng của tắc ruột đoạn thấp, điển hình nhất là teo ruột non bẩm sinh."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính dẫn đến dị tật này trong thời kỳ bào thai là gì?",
+          "options": [
+            "Vắng mặt tế bào hạch",
+            "Thất bại tái tạo lòng ống",
+            "Tai biến mạch máu mạc treo",
+            "Rối loạn chuyển hóa điện giải"
+          ],
+          "answer": 2,
+          "explain": "Khác với teo tá tràng do lỗi không bào hóa, teo ruột non chủ yếu được chứng minh là hậu quả của các tai biến mạch máu mạc treo trong tử cung (nhồi máu, xoắn ruột bào thai)."
+        },
+        {
+          "q": "Cận lâm sàng nào giúp chẩn đoán phân biệt với phình đại tràng bẩm sinh?",
+          "options": [
+            "Sinh thiết trực tràng hút",
+            "Đo áp lực cơ vòng hậu môn",
+            "Siêu âm Doppler mạch máu",
+            "Chụp đại tràng cản quang"
+          ],
+          "answer": 3,
+          "explain": "Chụp X-quang đại tràng cản quang giúp phát hiện 'đại tràng nhỏ' (microcolon) chứng tỏ tắc ruột từ sớm, đồng thời giúp quan sát khẩu kính đại tràng để loại trừ Hirschsprung phối hợp."
+        },
+        {
+          "q": "Nguyên tắc phẫu thuật quan trọng khi xử trí khâu nối là gì?",
+          "options": [
+            "Cắt xén đoạn đầu trên bị giãn",
+            "Nối tắt qua vị trí ruột tắc",
+            "Mở thông toàn bộ đoạn dưới",
+            "Khâu gấp nếp đoạn ruột hẹp"
+          ],
+          "answer": 0,
+          "explain": "Quai ruột gần chỗ tắc teo thường giãn phình khổng lồ, mất chức năng nhu động. Nguyên tắc mổ là phải cắt xén phần ruột giãn này trước khi khâu nối tận tận để tránh hội chứng quai mù."
+        },
+        {
+          "q": "Biến chứng mạn tính đáng lo ngại nhất nếu phải cắt bỏ quá nhiều đoạn ruột là gì?",
+          "options": [
+            "Viêm loét đại tràng mạn",
+            "Hội chứng ruột ngắn",
+            "Trào ngược dạ dày thực quản",
+            "Xuất huyết tiêu hóa dưới"
+          ],
+          "answer": 1,
+          "explain": "Việc cắt bỏ lượng lớn ruột non do hoại tử hoặc teo nhiều đoạn dẫn đến Hội chứng ruột ngắn (Short bowel syndrome), gây kém hấp thu dinh dưỡng và phụ thuộc truyền dịch mạn tính."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 1 ngày tuổi, không có lỗ hậu môn bình thường",
+      "body": "<b>Bệnh sử:</b> Trẻ nam 1 ngày tuổi, sinh thường lúc thai 39 tuần, cân nặng 3.1 kg. Mẹ không khám thai định kỳ. Sau sinh 12 giờ, điều dưỡng phát hiện trẻ không đi tiêu phân su, quấy khóc, bụng hơi chướng.<br><br><b>Khám lâm sàng:</b> Khám vùng đáy chậu không thấy lỗ hậu môn ở vị trí bình thường. Sờ vùng tầng sinh môn phẳng, có một rãnh sẫm màu. Các cơ quan khác chưa phát hiện bất thường rõ rệt. Huyết động ổn định.<br><br><b>Xét nghiệm:</b> Bác sĩ nhận thấy có cặn phân su màu xanh đen lẫn lộn trong dòng nước tiểu của trẻ.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hình thái bệnh lý của bệnh nhi là gì?",
+          "options": [
+            "Viêm bàng quang sơ sinh",
+            "Tồn tại ổ nhớp bẩm sinh",
+            "Dị dạng hậu môn trực tràng",
+            "Rò niệu quản đại tràng"
+          ],
+          "answer": 2,
+          "explain": "Vắng mặt lỗ hậu môn giải phẫu thay bằng rãnh sẫm màu, chậm tiêu phân su và phân xuất hiện trong nước tiểu là biểu hiện đặc trưng nhất của Dị dạng hậu môn trực tràng có rò đường tiểu."
+        },
+        {
+          "q": "Trẻ cần được tầm soát hệ thống các dị tật phối hợp thuộc hội chứng nào?",
+          "options": [
+            "Hội chứng Patau",
+            "Hội chứng Down",
+            "Hội chứng Edwards",
+            "Hội chứng VACTERL"
+          ],
+          "answer": 3,
+          "explain": "Trẻ bị dị dạng hậu môn trực tràng bắt buộc phải được tầm soát các dị tật phối hợp thuộc hội chứng VACTERL (Cột sống, Tim, Khí thực quản, Thận tiết niệu, Chi)."
+        },
+        {
+          "q": "Khi nào là thời điểm thích hợp nhất để chụp X-quang Invertogram?",
+          "options": [
+            "Sau sinh 18 đến 24 giờ",
+            "Ngay lập tức sau sinh",
+            "Chụp sau khi bú cữ đầu",
+            "Sau sinh khoảng 6 giờ"
+          ],
+          "answer": 0,
+          "explain": "Chụp X-quang Invertogram cần được thực hiện sau khoảng 18-24 giờ để hơi ở đường tiêu hóa có đủ thời gian đẩy xuống tận cùng của bóng trực tràng mù, giúp đo chính xác vị trí túi cùng."
+        },
+        {
+          "q": "Phương pháp can thiệp ngoại khoa ưu tiên ban đầu cho bệnh nhi này là gì?",
+          "options": [
+            "Tạo hình hậu môn một thì",
+            "Mở hậu môn nhân tạo",
+            "Nong niệu đạo giải áp",
+            "Đặt ống thông tiểu liên tục"
+          ],
+          "answer": 1,
+          "explain": "Đối với dị dạng thể cao có rò tiết niệu ở nam, phẫu thuật một thì từ đầu rất nguy hiểm. Tiêu chuẩn là mở hậu môn nhân tạo đại tràng sigma để chuyển lưu phân, bảo vệ đường tiết niệu trước."
+        },
+        {
+          "q": "Cơ chế phôi thai học gây ra dị tật này là do sự rối loạn phân chia của cấu trúc nào?",
+          "options": [
+            "Vách liên thất hai bên",
+            "Nếp sinh dục hai bên",
+            "Vách niệu trực tràng",
+            "Ống tủy nguyên thủy"
+          ],
+          "answer": 2,
+          "explain": "Sự phát triển bất thường và phân chia không hoàn toàn của ổ nhớp (cloaca) bởi vách niệu - trực tràng (urorectal septum) trong thai kỳ để lại các đường thông nối giữa trực tràng và đường tiết niệu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 2 ngày tuổi, con mẹ bị đái tháo đường, táo bón",
+      "body": "<b>Bệnh sử:</b> Trẻ nữ 2 ngày tuổi, sinh đủ tháng, cân nặng 4.1 kg. Tiền sử mẹ bị đái tháo đường thai kỳ. Trẻ chậm tiêu phân su, bụng chướng dần, nôn một lần dịch vàng lợn cợn.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh, không sốt, mạch 140 lần/phút. Bụng chướng đều, sờ mềm. Thăm trực tràng trương lực cơ bình thường, rút ngón tay không có phân ồ ạt.<br><br><b>Xét nghiệm:</b> X-quang bụng đứng có nhiều quai ruột giãn chứa hơi. Trẻ được thụt đại tràng bằng dung dịch cản quang tan trong nước, thấy đại tràng trái nhỏ hẹp, sau thụt trẻ tống ra một thỏi phân su dài nhầy và xẹp bụng hoàn toàn.",
+      "questions": [
+        {
+          "q": "Yếu tố nguy cơ cao từ thai kỳ dẫn đến tình trạng này là gì?",
+          "options": [
+            "Mẹ có hút thuốc lá",
+            "Mẹ dùng chống đông",
+            "Mẹ bị suy tuyến giáp",
+            "Mẹ mắc đái tháo đường"
+          ],
+          "answer": 3,
+          "explain": "Hội chứng nút phân su (và hội chứng đại tràng trái nhỏ) có tỷ lệ gặp rất cao ở trẻ sơ sinh to con là con của những bà mẹ bị đái tháo đường thai kỳ."
+        },
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất là gì?",
+          "options": [
+            "Hội chứng nút phân su",
+            "Tắc ruột do dính bẩm sinh",
+            "Teo đại tràng bẩm sinh",
+            "Hẹp phì đại cơ môn vị"
+          ],
+          "answer": 0,
+          "explain": "Tắc ruột thấp tạm thời, đại tràng trái nhỏ, khỏi hoàn toàn sau thụt tháo thuốc cản quang là bệnh cảnh rất điển hình của Hội chứng nút phân su."
+        },
+        {
+          "q": "Cơ chế tác dụng chính của thuốc cản quang tan trong nước là gì?",
+          "options": [
+            "Tiêu diệt vi khuẩn sinh hơi",
+            "Hút nước vào lòng đại tràng",
+            "Kích thích tăng tưới máu",
+            "Bào mòn lớp niêm mạc ruột"
+          ],
+          "answer": 1,
+          "explain": "Thuốc cản quang tan trong nước (như Gastrografin) có tính ưu trương rất cao. Khi bơm vào đại tràng, áp lực thẩm thấu hút nước từ niêm mạc vào lòng ruột làm trơn và rã khối phân su."
+        },
+        {
+          "q": "Tiên lượng chung của hội chứng này sau khi thỏi phân được tống xuất là gì?",
+          "options": [
+            "Nguy cơ ung thư ruột cao",
+            "Phải mổ cắt đại tràng trái",
+            "Nhu động ruột tự phục hồi",
+            "Cần dùng thuốc nhuận tràng"
+          ],
+          "answer": 2,
+          "explain": "Hội chứng nút phân su bản chất là sự rối loạn chức năng nhu động tạm thời. Sau khi nút phân su được tống xuất, thần kinh ruột trưởng thành, bệnh nhi sẽ hồi phục hoàn toàn."
+        },
+        {
+          "q": "Bệnh lý nào cần chẩn đoán phân biệt bằng sinh thiết nếu táo bón tái phát?",
+          "options": [
+            "Thoát vị rốn nghẹt",
+            "Trào ngược dạ dày",
+            "Lồng ruột nhũ nhi",
+            "Bệnh phình đại tràng"
+          ],
+          "answer": 3,
+          "explain": "Mặc dù phần lớn tự khỏi, một số ít trẻ Hirschsprung (phình đại tràng vô hạch) có biểu hiện ban đầu giống hệt hội chứng này. Nếu trẻ tái phát táo bón chướng bụng, cần sinh thiết trực tràng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 20 ngày tuổi, sinh non, khối sưng bẹn cứng",
+      "body": "<b>Bệnh sử:</b> Trẻ nam 20 ngày tuổi, sinh non 34 tuần. Nhập viện vì quấy khóc liên tục và nôn trớ 3 lần ra dịch vàng xanh trong 8 giờ qua.<br><br><b>Khám lâm sàng:</b> Trẻ quấy khóc nhiều, nhiệt độ 37.8°C, nhịp tim 160 lần/phút, bụng hơi chướng. Vùng bẹn phải có một khối sưng to kích thước 4x5 cm, căng cứng, ấn đau khiến trẻ khóc thét, khối này không tự xẹp xuống được. Vùng da trên khối sưng bắt đầu có dấu hiệu tấy đỏ nhẹ.<br><br><b>Xét nghiệm:</b> Siêu âm tại giường cho thấy trong bìu phải có quai ruột non, thành ruột dày, mất phổ tưới máu trên Doppler.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định ở bệnh nhân này là gì?",
+          "options": [
+            "Thoát vị bẹn phải nghẹt",
+            "Tràn dịch màng tinh hoàn",
+            "Xoắn mấu phụ tinh hoàn",
+            "Viêm tinh hoàn cấp tính"
+          ],
+          "answer": 0,
+          "explain": "Trẻ có khối sưng bẹn bìu căng cứng không xẹp, tấy đỏ, nôn dịch mật và siêu âm mất mạch nuôi là biểu hiện của tắc ruột cơ học do thoát vị bẹn nghẹt biến chứng thiếu máu ruột."
+        },
+        {
+          "q": "Cơ sở giải phẫu phôi thai học gây ra bệnh lý này ở trẻ em là gì?",
+          "options": [
+            "Rách mạc ngang vùng bẹn",
+            "Tồn tại ống phúc tinh mạc",
+            "Khuyết tật cơ chéo ngoài",
+            "Phì đại dây chằng tròn"
+          ],
+          "answer": 1,
+          "explain": "Thoát vị bẹn ở trẻ em gần như luôn là thoát vị bẹn gián tiếp bẩm sinh, nguyên nhân do sự tồn tại mở của ống phúc tinh mạc không đóng lại sau quá trình đi xuống của tinh hoàn."
+        },
+        {
+          "q": "Biện pháp nào sau đây bị CHỐNG CHỈ ĐỊNH trong bối cảnh hiện tại?",
+          "options": [
+            "Đặt ống thông dạ dày",
+            "Dùng thuốc giảm đau",
+            "Cố nắn đẩy khối thoát vị",
+            "Truyền dịch tĩnh mạch bù nước"
+          ],
+          "answer": 2,
+          "explain": "Dấu hiệu da tấy đỏ và siêu âm mất phổ mạch báo hiệu ruột hoại tử. CHỐNG CHỈ ĐỊNH nắn đẩy khối thoát vị lên (taxis) vì nguy cơ đẩy một quai ruột thủng vào ổ bụng gây viêm phúc mạc."
+        },
+        {
+          "q": "Thái độ xử trí tiếp theo tối ưu nhất là gì?",
+          "options": [
+            "Theo dõi sát tại nhà",
+            "Chọc hút dịch khối sưng",
+            "Mổ cắt bỏ tinh hoàn",
+            "Phẫu thuật mổ cấp cứu"
+          ],
+          "answer": 3,
+          "explain": "Tình trạng nghẹt đe dọa sinh mạng của quai ruột và chèn ép tuần hoàn tinh hoàn. Việc cần thiết nhất là chuyển phòng mổ cấp cứu khẩn cấp để mở bao giải phóng vòng nghẹt."
+        },
+        {
+          "q": "Trong lúc mổ, nếu phát hiện quai ruột non đã hoại tử thủng, phẫu thuật viên cần làm gì?",
+          "options": [
+            "Cắt đoạn ruột nối tận tận",
+            "Đẩy ruột vào ổ bụng",
+            "Để hở vết mổ hoàn toàn",
+            "Cắt thừng tinh cùng ruột non"
+          ],
+          "answer": 0,
+          "explain": "Nếu ruột đã hoại tử thủng, phẫu thuật viên bắt buộc phải cắt bỏ phần ruột chết và lập miệng nối ruột tận - tận để duy trì lưu thông tiêu hóa an toàn, tuyệt đối không đẩy ruột hoại tử trở lại."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân sơ sinh nữ 2 ngày tuổi, không có lỗ hậu môn, phân ra ngoài",
+      "body": "<b>Bệnh sử:</b> Trẻ nữ sơ sinh 2 ngày tuổi được phát hiện KHÔNG CÓ LỖ HẬU MÔN tại vị trí bình thường. Trẻ chưa nôn, bụng chướng nhẹ. Mẹ không khám thai định kỳ.<br><br><b>Khám lâm sàng:</b> Kiểm tra tầng sinh môn: Có vết tích hậu môn (anal dimple) và đường rò phân ra ở gốc bìu (fistula). Phân su thoát ra qua lỗ rò này. Trẻ tỉnh, tim phổi bình thường, không sờ thấy khối u vùng cùng cụt.<br><br><b>Xét nghiệm:</b> Siêu âm ổ bụng: Bóng trực tràng không được giãn. Siêu âm tim, siêu âm thận bình thường.",
+      "questions": [
+        {
+          "q": "Phân loại dị tật hậu môn trực tràng ở bệnh nhân này?",
+          "options": [
+            "Dị tật dạng thấp (Low anomaly)",
+            "Dị tật dạng cao (High anomaly)",
+            "Dị tật dạng trung gian",
+            "Ổ nhớp lộ ngoài"
+          ],
+          "answer": 0,
+          "explain": "Dị tật THẤP: Túi cùng trực tràng đã chui QUA cơ thắt/sàn chậu → Có lỗ rò ra da (tầng sinh môn, bìu)."
+        },
+        {
+          "q": "Nguyên tắc xử trí ngoại khoa thích hợp nhất là gì?",
+          "options": [
+            "Làm hậu môn nhân tạo sigma ngay",
+            "Phẫu thuật tạo hình hậu môn 1 thì không cần mở bụng",
+            "Chờ đến 6 tháng tuổi",
+            "Nong lỗ rò hàng ngày"
+          ],
+          "answer": 1,
+          "explain": "Dị tật THẤP có rò: Phẫu thuật TẠO HÌNH HẬU MÔN đường tầng sinh môn giai đoạn sơ sinh là đủ → Không cần colostomy."
+        },
+        {
+          "q": "Nếu không có lỗ rò ra da, xét nghiệm hình ảnh nào cần 24 giờ tuổi?",
+          "options": [
+            "X-quang bụng đứng ngay",
+            "Chụp tư thế nằm sấp (Invertogram)"
+          ],
+          "answer": 1,
+          "explain": "INVERTOGRAM sau 18-24h: Để hơi trong đường tiêu hóa có đủ thời gian đẩy phân su/hơi xuống vị trí thấp nhất."
+        },
+        {
+          "q": "Lý do phải chờ 18-24 giờ mới chụp Invertogram?",
+          "options": [
+            "Đợi trẻ ổn định hô hấp",
+            "Để hơi có đủ thời gian di chuyển xuống hết túi cùng trực tràng",
+            "Giảm nguy cơ nhiễm trùng",
+            "Dạ dày bớt giãn"
+          ],
+          "answer": 1,
+          "explain": "Cần chờ 24h để áp lực khí đẩy phân su + hơi xuống vị trí THẤP NHẤT. Chụp quá sớm có thể cho âm tính giả."
+        },
+        {
+          "q": "Trẻ cần tầm soát dị tật phối hợp thuộc hội chứng VACTERL bao gồm:",
+          "type": "multi",
+          "options": [
+            "Cột sống",
+            "Tim",
+            "Khí-Thực quản",
+            "Thận",
+            "Chi"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "explain": "VACTERL: 6 bộ dị tật phối hợp cần TẦM SOÁT BẮT BUỘC. Siêu âm tim/thận, XQuang cột sống là cấp bách."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 2 ngày tuổi, con mẹ bị đái tháo đường, táo bón",
+      "body": "<b>Bệnh sử:</b> Trẻ nữ sơ sinh 2 ngày tuổi, sinh đủ tháng, cân 4.1 kg. Tiền sử mẹ bị đái tháo đường thai kỳ. Trẻ chậm tiêu phân su, bụng chướng dần, nôn một lần dịch vàng lợn cợn.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh, không sốt, mạch 140 lần/phút. Bụng chướng đều, sờ mềm. Thăm trực tràng: Cơ vòng bình thường, rút ngón tay không có phân ồ ạt.<br><br><b>Xét nghiệm:</b> X-quang bụng: Nhiều quai ruột giãn chứa hơi. Sau thụt dung dịch cản quang: Đại tràng trái nhỏ hẹp, sau thụt trẻ tống ra thỏi phân su dài nhầy và bụng xẹp hoàn toàn.",
+      "questions": [
+        {
+          "q": "Yếu tố nguy cơ cao từ thai kỳ dẫn đến tình trạng này là gì?",
+          "options": [
+            "Mẹ có hút thuốc lá",
+            "Mẹ dùng chống đông",
+            "Mẹ bị suy tuyến giáp",
+            "Mẹ mắc đái tháo đường"
+          ],
+          "answer": 3,
+          "explain": "Hội chứng nút phân su có tỷ lệ gặp rất cao ở con của bà mẹ bị đái tháo đường thai kỳ."
+        },
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất là gì?",
+          "options": [
+            "Hội chứng nút phân su",
+            "Tắc ruột do dính bẩm sinh",
+            "Teo đại tràng",
+            "Hẹp phì đại cơ môn"
+          ],
+          "answer": 0,
+          "explain": "Tắc ruột thấp tạm thời, đại tràng trái nhỏ, khỏi hoàn toàn sau thụt cản quang = HỘI CHỨNG NÚT PHÂN SU."
+        },
+        {
+          "q": "Cơ chế tác dụng của thuốc cản quang tan trong nước?",
+          "options": [
+            "Tiêu diệt vi khuẩn",
+            "Hút nước vào lòng đại tràng làm mềm phân",
+            "Kích thích nhu động",
+            "Bào mòn niêm mạc"
+          ],
+          "answer": 1,
+          "explain": "Gastrografin (ưu trương) hút nước từ niêm mạc vào lòng ruột → làm trơn và rã khối phân su."
+        },
+        {
+          "q": "Tiên lượng của hội chứng này sau khi thỏi phân được tống xuất là gì?",
+          "options": [
+            "Nguy cơ ung thư ruột cao",
+            "Phải mổ cắt đại tràng",
+            "Nhu động ruột tự phục hồi",
+            "Cần dùng thuốc nhuận tràng mạn tính"
+          ],
+          "answer": 2,
+          "explain": "Hội chứng nút phân su là bệnh CHỨC NĂNG tạm thời → Sau khi tống xuất, thần kinh ruột trưởng thành, bệnh nhi sẽ hồi phục hoàn toàn."
+        },
+        {
+          "q": "Bệnh lý nào cần chẩn đoán phân biệt bằng sinh thiết nếu táo bón tái phát?",
+          "options": [
+            "Thoát vị rốn",
+            "Trào ngược dạ dày",
+            "Lồng ruột nhũ nhi",
+            "Bệnh phình đại tràng"
+          ],
+          "answer": 3,
+          "explain": "Một số ít trẻ Hirschsprung (phình đại tràng vô hạch) có biểu hiện ban đầu giống hệt hội chứng này. Nếu táo bón tái phát, cần sinh thiết."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 20 ngày tuổi, sinh non, khối sưng bẹn cứng",
+      "body": "<b>Bệnh sử:</b> Trẻ nam 20 ngày tuổi, sinh non 34 tuần. Nhập viện vì quấy khóc liên tục và nôn trớ 3 lần ra dịch vàng xanh trong 8 giờ qua.<br><br><b>Khám lâm sàng:</b> Trẻ quấy khóc nhiều, nhiệt độ 37.8°C, nhịp tim 160 lần/phút, bụng hơi chướng. VÙNG BẸN PHẢI: Khối sưng 4x5 cm, căng cứng, ấn đau khóc thét, không tự xẹp. Da trên khối sưng tấy đỏ nhẹ.<br><br><b>Xét nghiệm:</b> Siêu âm: Trong bìu phải có quai ruột non, thành ruột dày, MẤT PHỔ MẠCH trên Doppler.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định là gì?",
+          "options": [
+            "Thoát vị bẹn phải nghẹt",
+            "Tràn dịch màng tinh hoàn",
+            "Xoắn mấu phụ tinh hoàn",
+            "Viêm tinh hoàn cấp"
+          ],
+          "answer": 0,
+          "explain": "Khối sưng bẹn bìu căng cứng không xẹp, tấy đỏ, nôn dịch mật, siêu âm mất mạch = THOÁT VỊ BẸN NGHẸT với ruột hoại tử."
+        },
+        {
+          "q": "Nguyên nhân phôi thai học ở trẻ em là gì?",
+          "options": [
+            "Rách mạc ngang",
+            "Tồn tại ống phúc tinh mạc",
+            "Khuyết tật cơ chéo",
+            "Phì đại dây chằng tròn"
+          ],
+          "answer": 1,
+          "explain": "Thoát vị bẹn ở trẻ em gần như luôn là BẨM SINH, do tồn tại mở của ống phúc tinh mạc không đóng lại."
+        },
+        {
+          "q": "Biện pháp nào BỊ CHỐNG CHỈ ĐỊNH?",
+          "options": [
+            "Đặt NG tube",
+            "Dùng thuốc giảm đau",
+            "CỐ NẮN ĐẨY KHỐI THOÁT VỊ",
+            "Truyền dịch tĩnh mạch"
+          ],
+          "answer": 2,
+          "explain": "Dấu hiệu tấy đỏ + mất mạch = Ruột hoại tử → CHỐNG CHỈ ĐỊNH nắn đẩy (taxis) vì nguy cơ đẩy ruột thủng vào ổ bụng."
+        },
+        {
+          "q": "Thái độ xử trí tối ưu nhất là gì?",
+          "options": [
+            "Theo dõi sát tại nhà",
+            "Chọc hút dịch",
+            "Mổ cắt bỏ tinh hoàn",
+            "PHẪU THUẬT MỞ CẤP CẬU KHẨN CẤP"
+          ],
+          "answer": 3,
+          "explain": "Tình trạng nghẹt đe dọa sinh mạng → Chuyển MỞ CẤP CẬU khẩn cấp để giải phóng vòng nghẹt."
+        },
+        {
+          "q": "Nếu ruột đã hoại tử thủng, xử trí phẫu thuật là gì?",
+          "options": [
+            "Để hở vết mổ",
+            "Cắt ruột nối tận-tận",
+            "Đẩy ruột vào ổ bụng",
+            "Cắt thừng tinh cùng ruột"
+          ],
+          "answer": 1,
+          "explain": "Ruột hoại tử thủng: PHẢI cắt bỏ phần chết + Lập miệng nối TẬN-TẬN để duy trì lưu thông."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 4 tuần tuổi, nôn trớ sữa, háu đói sau nôn",
+      "body": "<b>Bệnh sử:</b> Trẻ nam 4 tuần tuổi vào viện vì nôn trớ nhiều trong 5 ngày qua. Chất nôn TOÀN SỮA CHƯA TIÊU, không bao giờ lẫn dịch mật. Sau khi nôn trẻ HÁUA ĐÓI và đòi bú ngay. Trẻ sụt 200 g so với lúc sinh, tiểu ít.<br><br><b>Khám lâm sàng:</b> Mắt trũng, thóp trũng, mạch 145 lần/phút, không sốt. Khám bụng: Sóng nhu động dạ dày rõ. Sờ sâu góc trên phải rốn: Khối cứng chắc hình bầu dục khoảng 2 cm (\"ô liu\").<br><br><b>Xét nghiệm:</b> Điện giải: Na⁺ 132 (↓), K⁺ 3.1 (↓), Cl⁻ 88 (↓).",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất là gì?",
+          "options": [
+            "Trào ngược dạ dày",
+            "HẸP PHÌ ĐẠI CƠ MÔN VỊ",
+            "Tắc ruột phân su",
+            "Teo tá tràng"
+          ],
+          "answer": 1,
+          "explain": "TAM CHỨNG: Nôn vọt không dịch mật + háu đói + khối ô liu + sóng nhu động = HẸP MÔNN VỊ."
+        },
+        {
+          "q": "Rối loạn điện giải đặc trưng là gì?",
+          "options": [
+            "Toan chuyển hóa tăng clo",
+            "Kiềm hô hấp tăng natri",
+            "KIỀM CHUYỂN HÓA HẠ CLO",
+            "Toan hô hấp hạ kali"
+          ],
+          "answer": 2,
+          "explain": "Nôn nhiều HCl → Mất H⁺ + Cl⁻ → Kiềm chuyển hóa, hạ clo, hạ kali."
+        },
+        {
+          "q": "Cận lâm sàng tiêu chuẩn vàng là gì?",
+          "options": [
+            "X-quang bụng",
+            "Chụp CT",
+            "Nội soi",
+            "SIÊU ÂM Ổ BỤNG"
+          ],
+          "answer": 3,
+          "explain": "Siêu âm: Đo độ dày cơ môn vị (>3-4mm) và chiều dài ống môn vị (>14-16mm)."
+        },
+        {
+          "q": "Nguyên tắc ưu tiên trước mổ là gì?",
+          "options": [
+            "Mổ ngay",
+            "BÙ DỊCH VÀ CHỈNH ĐIỆN GIẢI",
+            "Bơm rửa dạ dày",
+            "Nhịn ăn hoàn toàn"
+          ],
+          "answer": 1,
+          "explain": "Hẹp môn vị là cấp cứu NỘI KHOA → Bù dịch + chỉnh điện giải hoàn toàn trước khi gây mê."
+        },
+        {
+          "q": "Phẫu thuật tiêu chuẩn là gì?",
+          "options": [
+            "Cắt bán phần dạ dày",
+            "MỞ CƠ ĐỌC NGOÀI NIÊM MẠC (Ramstedt)",
+            "Đặt stent",
+            "Nối vị-tràng"
+          ],
+          "answer": 1,
+          "explain": "Ramstedt: Mở dọc lớp cơ ngoài niêm mạc để giải phóng vòng hẹp, cho phép trẻ ăn sớm."
+        }
+      ]
+    }
+  ]
+}
