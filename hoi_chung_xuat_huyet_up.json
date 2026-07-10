@@ -1,0 +1,624 @@
+{
+  "name": "Hội chứng xuất huyết Up",
+  "description": "Tập hợp 9 tình huống lâm sàng về các bệnh lý gây xuất huyết ở trẻ em, bao gồm Hemophilia, Von Willebrand, Thiếu Vitamin K, ITP, Henoch-Schönlein Purpura, DIC, Suy tủy xương, và Bạch cầu cấp. Mỗi tình huống gồm bệnh sử, khám lâm sàng, xét nghiệm và 5 câu hỏi trắc nghiệm.",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nhi",
+  "subcategory": "Huyết học",
+  "cases": [
+    {
+      "title": "Trẻ trai 9 tháng tuổi sưng đau khớp gối sau chấn thương",
+      "body": "<b>Bệnh sử:</b> Trẻ trai 9 tháng tuổi, cân nặng 8,5 kg, vào viện vì sưng đau khớp gối trái sau khi tập bò. Khai thác tiền sử thấy trẻ thường xuyên có các mảng bầm tím dưới da dù va chạm nhẹ.<br><br><b>Tiền sử:</b> Gia đình có cậu ruột cũng hay bị chảy máu khó cầm ở khớp.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh, da xanh nhẹ, khớp gối trái sưng nề, giảm vận động, không có chấm xuất huyết dưới da. Gan lách không to.<br><br><b>Xét nghiệm:</b> Chưa có kết quả lâm sàng ban đầu.",
+      "questions": [
+        {
+          "q": "Chẩn đoán sơ bộ phù hợp nhất ở trẻ này là gì?",
+          "options": [
+            "Xuất huyết giảm tiểu cầu miễn dịch",
+            "Bệnh máu khó đông (Hemophilia)",
+            "Viêm mao mạch dị ứng (HSP)",
+            "Bệnh Von Willebrand"
+          ],
+          "answer": 1,
+          "explain": "Trẻ trai, xuất huyết dạng mảng/tụ máu khớp sau chấn thương, tiền sử gia đình họ ngoại gợi ý Hemophilia."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính của bệnh lý này là gì?",
+          "options": [
+            "Giảm số lượng tiểu cầu ngoại biên",
+            "Thiếu hụt các yếu tố đông máu nội sinh",
+            "Tổn thương viêm các mạch máu nhỏ",
+            "Khiếm khuyết chức năng dính của tiểu cầu"
+          ],
+          "answer": 1,
+          "explain": "Hemophilia là bệnh di truyền liên kết nhiễm sắc thể X gây thiếu hụt yếu tố VIII (A) hoặc IX (B) trong con đường đông máu nội sinh."
+        },
+        {
+          "q": "Xét nghiệm nào giúp định hướng chẩn đoán tại giường?",
+          "options": [
+            "Thời gian máu chảy (BT)",
+            "Thời gian máu đông (Lee-White)",
+            "Nghiệm pháp dây thắt",
+            "Số lượng tiểu cầu"
+          ],
+          "answer": 1,
+          "explain": "Trong Hemophilia, thời gian máu đông và APTT kéo dài, trong khi thời gian máu chảy (BT) và tiểu cầu bình thường."
+        },
+        {
+          "q": "Nếu xác định trẻ thiếu hụt yếu tố VIII (8% đơn vị), phân loại mức độ bệnh là gì?",
+          "options": [
+            "Rất nặng",
+            "Nặng",
+            "Trung bình",
+            "Nhẹ"
+          ],
+          "answer": 3,
+          "explain": "Theo phân loại: Mức độ nhẹ khi nồng độ yếu tố từ 5% đến <40%; Trung bình: 1-5%; Nặng: <1%."
+        },
+        {
+          "q": "Biến chứng lâu dài thường gặp nhất nếu không điều trị dự phòng tốt là gì?",
+          "options": [
+            "Suy thận mạn",
+            "Biến dạng khớp và teo cơ",
+            "Xuất huyết não tái phát",
+            "Nhiễm trùng huyết"
+          ],
+          "answer": 1,
+          "explain": "Chảy máu khớp tái phát gây viêm màng hoạt dịch mạn tính, phá hủy sụn khớp dẫn đến biến dạng khớp và teo cơ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nữ 13 tuổi kinh nguyệt đầu tiên kéo dài 10 ngày",
+      "body": "<b>Bệnh sử:</b> Bệnh nhi nữ 13 tuổi vào viện vì kỳ kinh nguyệt đầu tiên kéo dài 10 ngày chưa cầm, lượng máu nhiều. Trẻ có tiền sử hay chảy máu cam và chảy máu chân răng từ nhỏ.<br><br><b>Khám lâm sàng:</b> Da xanh, niêm mạc nhợt. Không có sẩn xuất huyết hay bầm máu lớn. Tim đều, phổi không rale. Gan lách không to.<br><br><b>Xét nghiệm:</b> Hb 85 g/L, Tiểu cầu 220 G/L, PT 12,5 giây (chứng 12s), APTT 42 giây (chứng 30s).",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào ít nghĩ đến nhất ở trẻ này?",
+          "options": [
+            "Hemophilia A",
+            "Bệnh Von Willebrand",
+            "Nhược năng tiểu cầu Glanzmann",
+            "Xuất huyết giảm tiểu cầu miễn dịch"
+          ],
+          "answer": 0,
+          "explain": "Trẻ nữ ít khi bị Hemophilia A (di truyền liên kết X). APTT dài nhẹ và tiểu cầu bình thường gợi ý vWD."
+        },
+        {
+          "q": "Đặc điểm giúp phân biệt bệnh Von Willebrand với Hemophilia trên lâm sàng là gì?",
+          "options": [
+            "Chỉ gặp ở trẻ nam",
+            "Thường chảy máu cơ và khớp",
+            "Chảy máu niêm mạc là chủ đạo",
+            "Luôn kèm theo gan lách to"
+          ],
+          "answer": 2,
+          "explain": "Von Willebrand gặp ở cả 2 giới, ưu tiên xuất huyết niêm mạc (kinh nguyệt, mũi, răng), ít khi chảy máu khớp như Hemophilia."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây thường bất thường trong bệnh lý này?",
+          "options": [
+            "Độ ngưng tập tiểu cầu với Ristocetin",
+            "Định lượng yếu tố IX",
+            "Thời gian thrombin (TT)",
+            "Định lượng Fibrinogen"
+          ],
+          "answer": 0,
+          "explain": "Xét nghiệm đặc hiệu cho vWD là độ ngưng tập tiểu cầu với Ristocetin giảm và định lượng vWF Ag/Act giảm."
+        },
+        {
+          "q": "Vai trò sinh lý của yếu tố Von Willebrand (vWF) là gì?",
+          "options": [
+            "Hoạt hóa trực tiếp Prothrombin thành Thrombin",
+            "Làm cầu nối dính tiểu cầu vào collagen",
+            "Ức chế quá trình tiêu sợi huyết",
+            "Xúc tác chuyển Fibrinogen thành Fibrin"
+          ],
+          "answer": 1,
+          "explain": "vWF giúp tiểu cầu dính vào lớp dưới nội mạc (collagen) và bảo vệ yếu tố VIII khỏi bị thoái hóa."
+        },
+        {
+          "q": "Điều trị hỗ trợ ưu tiên để cầm máu kinh nguyệt ở trẻ này là gì?",
+          "options": [
+            "Truyền khối tiểu cầu máy",
+            "Sử dụng thuốc nội tiết phối hợp",
+            "Tiêm Vitamin K1 đường tĩnh mạch",
+            "Uống thuốc Aspirin liều thấp"
+          ],
+          "answer": 1,
+          "explain": "Ở trẻ gái dậy thì bị vWD/Hemophilia, thuốc nội tiết giúp kiểm soát chu kỳ kinh, tránh mất máu kéo dài."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ 45 ngày tuổi li bì, da xanh tái, phân đen",
+      "body": "<b>Bệnh sử:</b> Bệnh nhi 45 ngày tuổi, bú mẹ hoàn toàn, vào viện vì li bì, da xanh tái đột ngột và nôn trớ sau ăn. Phân có màu đen.<br><br><b>Tiền sử:</b> Mẹ đẻ tại nhà, trẻ chưa được tiêm phòng và không rõ tiền sử tiêm Vitamin K sau sinh.<br><br><b>Khám lâm sàng:</b> Trẻ lờ đờ, da niêm mạc nhợt nhiều, thóp trước phồng căng, phản xạ ánh sáng chậm. Không thấy xuất huyết dưới da.",
+      "questions": [
+        {
+          "q": "Vấn đề ưu tiên cần xử trí ngay ở trẻ này là gì?",
+          "options": [
+            "Chụp X-quang bụng không chuẩn bị",
+            "Chống phù não và đảm bảo thông khí",
+            "Soi phân tìm ký sinh trùng",
+            "Cho trẻ bú lại ngay để bù dịch"
+          ],
+          "answer": 1,
+          "explain": "Trẻ có dấu hiệu thiếu máu cấp kèm tăng áp lực nội sọ (thóp phồng, li bì) cần ổn định chức năng sống và chống phù não trước."
+        },
+        {
+          "q": "Chẩn đoán sơ bộ phù hợp nhất là gì?",
+          "options": [
+            "Xuất huyết não do thiếu Vitamin K",
+            "Viêm màng não mủ giai đoạn cấp",
+            "Sốc nhiễm khuẩn từ đường tiêu hóa",
+            "Lồng ruột cấp gây mất máu"
+          ],
+          "answer": 0,
+          "explain": "Trẻ 1-2 tháng, bú mẹ hoàn toàn, không tiêm K lúc sinh, bệnh cảnh khởi phát đột ngột gợi ý thiếu Vitamin K muộn."
+        },
+        {
+          "q": "Xét nghiệm nào dự kiến sẽ biến đổi mạnh nhất?",
+          "options": [
+            "Thời gian máu chảy kéo dài",
+            "Tỷ lệ Prothrombin (PT%) giảm nặng",
+            "Số lượng tiểu cầu giảm sâu",
+            "Fibrinogen giảm dưới 1 g/L"
+          ],
+          "answer": 1,
+          "explain": "Vitamin K là co-enzyme tổng hợp các yếu tố đông máu nhóm Prothrombin nên PT sẽ bị ảnh hưởng nặng nhất."
+        },
+        {
+          "q": "Vitamin K cần thiết cho quá trình tổng hợp các yếu tố nào tại gan?",
+          "options": [
+            "Yếu tố I, V, VIII, IX",
+            "Yếu tố II, VII, IX, X",
+            "Yếu tố VIII, XI, XII, XIII",
+            "Yếu tố III, IV, V, VII"
+          ],
+          "answer": 1,
+          "explain": "Các yếu tố phụ thuộc Vitamin K bao gồm II, VII, IX và X."
+        },
+        {
+          "q": "Liều Vitamin K1 tiêm bắp xử trí ban đầu cho trẻ này là bao nhiêu?",
+          "options": [
+            "1 mg",
+            "2 mg",
+            "5 mg",
+            "10 mg"
+          ],
+          "answer": 2,
+          "explain": "Theo phác đồ xử trí xuất huyết do thiếu Vitamin K, tiêm bắp hoặc tĩnh mạch chậm 5mg Vitamin K1 giúp hồi phục các yếu tố đông máu."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ gái 4 tuổi xuất huyết dưới da dạng chấm và mảng",
+      "body": "<b>Bệnh sử:</b> Trẻ gái 4 tuổi, cân nặng 16 kg, vào viện vì mẹ phát hiện nhiều chấm đỏ và vết bầm tím trên da thân mình và tứ chi sau khi ngủ dậy.<br><br><b>Tiền sử:</b> Trước đó 2 tuần trẻ có biểu hiện hắt hơi, sổ mũi và sốt nhẹ vài ngày rồi tự khỏi.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh, vui vẻ, không sốt. Xuất huyết dưới da dạng chấm, nốt, mảng đa hình thái, đa lứa tuổi, phân bố rải rác toàn thân. Không chảy máu niêm mạc. Gan lách không to.",
+      "questions": [
+        {
+          "q": "Tổ hợp các xét nghiệm cần làm để chẩn đoán xác định, TRỪ cái nào?",
+          "options": [
+            "Tổng phân tích tế bào máu ngoại vi",
+            "Thời gian máu chảy và co cục máu",
+            "Định lượng các yếu tố VIII, IX",
+            "Huyết tủy đồ (khi lâm sàng không điển hình)"
+          ],
+          "answer": 2,
+          "explain": "ITP là rối loạn tại tiểu cầu, không ảnh hưởng con đường đông máu huyết tương (yếu tố VIII, IX)."
+        },
+        {
+          "q": "Kết quả xét nghiệm nào sau đây phù hợp với chẩn đoán Xuất huyết giảm tiểu cầu miễn dịch (ITP)?",
+          "options": [
+            "Tiểu cầu 15 G/L, bạch cầu bình thường",
+            "Tiểu cầu 150 G/L, máu chảy kéo dài",
+            "Tiểu cầu 20 G/L, PT kéo dài",
+            "Tiểu cầu 5 G/L, hồng cầu giảm nặng"
+          ],
+          "answer": 0,
+          "explain": "ITP điển hình có giảm tiểu cầu đơn độc, các dòng khác bình thường."
+        },
+        {
+          "q": "Đặc điểm xuất huyết trong bệnh lý này là gì?",
+          "options": [
+            "Xuất hiện sau khi va chạm mạnh",
+            "Chỉ khu trú ở hai cẳng chân",
+            "Xuất hiện tự nhiên, đa hình thái",
+            "Thường kèm theo sưng đau khớp gối"
+          ],
+          "answer": 2,
+          "explain": "Xuất huyết do tiểu cầu thường xuất hiện tự nhiên, đa hình thái (chấm, nốt, mảng bầm) và đa vị trí."
+        },
+        {
+          "q": "Quyết định điều trị corticoid (Prednisolone) dựa vào tiêu chuẩn nào?",
+          "options": [
+            "Số lượng tiểu cầu dưới 100 G/L",
+            "Mức độ xuất huyết trên lâm sàng",
+            "Tiền sử có nhiễm virus trước đó",
+            "Nguyện vọng của gia đình bệnh nhi"
+          ],
+          "answer": 1,
+          "explain": "Quan điểm hiện đại ưu tiên điều trị dựa trên triệu chứng lâm sàng và nguy cơ chảy máu hơn là chỉ số tiểu cầu đơn thuần."
+        },
+        {
+          "q": "Liều Prednisolone tấn công thường dùng cho trẻ này là bao nhiêu?",
+          "options": [
+            "1 mg/kg/ngày trong 4 tuần",
+            "2 mg/kg/ngày trong 2 tuần",
+            "5 mg/kg/ngày trong 1 tuần",
+            "10 mg/kg/ngày trong 3 ngày"
+          ],
+          "answer": 1,
+          "explain": "Phác đồ thông thường là Prednisolone 2mg/kg/ngày trong 2 tuần, sau đó giảm liều."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ trai 5 tuổi đau bụng quặn cơn, sẩn xuất huyết ở cẳng chân",
+      "body": "<b>Bệnh sử:</b> Trẻ trai 5 tuổi vào viện vì đau bụng quặn cơn vùng quanh rốn kèm nôn thức ăn.<br><br><b>Khám lâm sàng:</b> Các nốt xuất huyết dạng sẩn, sờ hơi gờ lên mặt da, tập trung đối xứng ở hai cẳng chân và mông. Khớp cổ chân hai bên sưng nề, đau. Tim đều, phổi không rale. Gan lách không to. Trẻ tỉnh, huyết áp 100/60 mmHg.",
+      "questions": [
+        {
+          "q": "Chẩn đoán sơ bộ phù hợp nhất là gì?",
+          "options": [
+            "Xuất huyết giảm tiểu cầu miễn dịch",
+            "Viêm mao mạch dị ứng (Henoch-Schönlein)",
+            "Nhiễm khuẩn huyết do não mô cầu",
+            "Hội chứng huyết tán ure huyết cao"
+          ],
+          "answer": 1,
+          "explain": "Tam chứng: Ban xuất huyết dạng sẩn đối xứng vùng thấp + Đau bụng + Đau khớp gợi ý HSP."
+        },
+        {
+          "q": "Xét nghiệm nào quan trọng nhất để tiên lượng biến chứng của bệnh lý này?",
+          "options": [
+            "Công thức máu ngoại vi",
+            "Tổng phân tích nước tiểu",
+            "Định lượng Amylase máu",
+            "Siêu âm khớp cổ chân"
+          ],
+          "answer": 1,
+          "explain": "Biến chứng thận (viêm thận) là yếu tố quyết định tiên lượng lâu dài của HSP, cần theo dõi nước tiểu định kỳ."
+        },
+        {
+          "q": "Đặc điểm ban xuất huyết trong tình huống này là gì?",
+          "options": [
+            "Đa hình thái, rải rác toàn thân",
+            "Dạng chấm, nốt, không gờ mặt da",
+            "Dạng sẩn, đối xứng, vùng thấp",
+            "Mảng tím lớn, kèm theo hoại tử"
+          ],
+          "answer": 2,
+          "explain": "Ban HSP đặc trưng là sẩn xuất huyết (palpable purpura), tập trung ở vùng chịu áp lực (chân, mông), đối xứng 2 bên."
+        },
+        {
+          "q": "Biến chứng tiêu hóa nguy hiểm nhất cần đề phòng là gì?",
+          "options": [
+            "Viêm dạ dày cấp do stress",
+            "Lồng ruột hoặc thủng ruột",
+            "Giun chui ống mật",
+            "Tiêu chảy do nhiễm vi khuẩn"
+          ],
+          "answer": 1,
+          "explain": "Viêm mao mạch gây phù nề thành ruột làm thay đổi nhu động, dễ dẫn đến lồng ruột (thường là lồng ruột non)."
+        },
+        {
+          "q": "Chọn tập hợp các mệnh đề ĐÚNG về điều trị bệnh lý này:",
+          "type": "multi",
+          "options": [
+            "(1) Chỉ dùng Corticoid khi có tổn thương tiêu hóa hoặc thận nặng.",
+            "(2) Cần truyền tiểu cầu ngay để cầm máu.",
+            "(3) Nghỉ ngơi tại giường trong giai đoạn cấp.",
+            "(4) Sử dụng kháng sinh dự phòng định kỳ."
+          ],
+          "answer": [
+            0,
+            2
+          ],
+          "explain": "HSP là bệnh tự miễn mạch máu, tiểu cầu không giảm nên không có chỉ định truyền. Nghỉ ngơi và dùng thuốc chống viêm khi cần thiết."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ gái 3 tuổi sốt cao, mảng xuất huyết lớn, dấu hiệu sốc",
+      "body": "<b>Bệnh sử:</b> Trẻ gái 3 tuổi vào viện vì sốt cao liên tục 3 ngày, kèm theo các mảng xuất huyết lớn màu tím đen rải rác ở chân và tay.<br><br><b>Khám lâm sàng:</b> Trẻ li bì, mạch 140 lần/phút nhanh nhỏ, huyết áp 70/40 mmHg, thời gian đầy mao mạch (CRT) 4 giây. Các mảng xuất huyết có xu hướng lan rộng nhanh. Phổi rale ẩm rải rác. Gan to 2 cm dưới bờ sườn.",
+      "questions": [
+        {
+          "q": "Chẩn đoán vấn đề ưu tiên tại thời điểm nhập viện là gì?",
+          "options": [
+            "Sốc nhiễm khuẩn - Theo dõi Đông máu nội quản rải rác (DIC)",
+            "Xuất huyết giảm tiểu cầu miễn dịch mức độ nặng",
+            "Cơn tan máu cấp do thiếu enzym G6PD",
+            "Suy tủy xương thể cấp tính"
+          ],
+          "answer": 0,
+          "explain": "Sốt cao + Xuất huyết hoại tử + Dấu hiệu sốc (mạch nhanh, HA tụt, CRT kéo dài) gợi ý sốc nhiễm khuẩn kèm DIC."
+        },
+        {
+          "q": "Xét nghiệm đông máu nào giúp khẳng định tình trạng DIC?",
+          "options": [
+            "PT kéo dài, Fibrinogen giảm, D-dimer tăng",
+            "PT bình thường, Fibrinogen tăng, Tiểu cầu giảm",
+            "APTT kéo dài đơn độc, Tiểu cầu bình thường",
+            "APTT bình thường, Fibrinogen giảm, D-dimer âm tính"
+          ],
+          "answer": 0,
+          "explain": "DIC đặc trưng bởi sự tiêu thụ các yếu tố đông máu (giảm Fibrinogen, PT/APTT dài) và tăng phân hủy fibrin (tăng D-dimer)."
+        },
+        {
+          "q": "Cơ chế gây xuất huyết trong Đông máu nội quản rải rác (DIC) là gì?",
+          "options": [
+            "Chỉ do thiếu hụt yếu tố VIII di truyền",
+            "Tăng tính thấm thành mạch do sốt cao",
+            "Tiêu thụ quá mức tiểu cầu và các yếu tố đông máu",
+            "Do kháng thể phá hủy mẫu tiểu cầu tại tủy"
+          ],
+          "answer": 2,
+          "explain": "DIC là tình trạng tăng đông lan tỏa gây tắc mạch, sau đó dẫn đến chảy máu do cạn kiệt các thành phần đông máu."
+        },
+        {
+          "q": "Xử trí tuần hoàn ban đầu phù hợp nhất là gì?",
+          "options": [
+            "Truyền máu toàn phần 20 ml/kg trong 1 giờ",
+            "Truyền dịch đẳng trương 20 ml/kg nhanh trong 15-20 phút",
+            "Tiêm tĩnh mạch Morphin giảm đau",
+            "Cho trẻ uống dung dịch Oresol háo hức"
+          ],
+          "answer": 1,
+          "explain": "Xử trí sốc nhiễm khuẩn ưu tiên bù dịch đẳng trương liều bolus để hồi phục thể tích tuần hoàn."
+        },
+        {
+          "q": "Chế phẩm máu nào cần bổ sung nếu bệnh nhi có Fibrinogen < 1 g/L?",
+          "options": [
+            "Khối hồng cầu",
+            "Huyết tương tươi đông lạnh hoặc Tủa lạnh",
+            "Khối bạch cầu hạt",
+            "Albumin 20%"
+          ],
+          "answer": 1,
+          "explain": "Tủa lạnh giàu Fibrinogen và yếu tố VIII, thường được dùng để bù đắp khi Fibrinogen giảm sâu trong DIC."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ trai 8 tuổi sốt nhẹ, da xanh, chấm xuất huyết 1 tháng nay",
+      "body": "<b>Bệnh sử:</b> Trẻ trai 8 tuổi, vào viện vì sốt nhẹ, da xanh dần và xuất hiện các chấm xuất huyết dưới da rải rác trong vòng 1 tháng nay.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh, mệt, da xanh xao nhiều, niêm mạc nhợt. Chấm xuất huyết và mảng bầm tím ở tay, chân, ngực. Không thấy gan lách to, không có hạch ngoại vi to.<br><br><b>Xét nghiệm:</b> Hb 60 g/L, BC 2,5 G/L (Neutrophil 0,5 G/L), Tiểu cầu 12 G/L, HC lưới 0,2%.",
+      "questions": [
+        {
+          "q": "Nhận định chính xác nhất về công thức máu của trẻ là gì?",
+          "options": [
+            "Giảm ba dòng tế bào máu ngoại vi",
+            "Thiếu máu hồng cầu nhỏ nhược sắc",
+            "Tăng sinh dòng bạch cầu lympho",
+            "Chỉ giảm đơn độc dòng tiểu cầu"
+          ],
+          "answer": 0,
+          "explain": "CTM cho thấy cả Hồng cầu, Bạch cầu trung tính và Tiểu cầu đều giảm thấp."
+        },
+        {
+          "q": "Hướng chẩn đoán lâm sàng hàng đầu là gì?",
+          "options": [
+            "Bạch cầu cấp",
+            "Suy tủy xương",
+            "Xuất huyết giảm tiểu cầu miễn dịch mạn tính",
+            "Thiếu máu thiếu sắt mức độ nặng"
+          ],
+          "answer": 1,
+          "explain": "Giảm 3 dòng ngoại vi kèm không có gan lách to gợi ý suy tủy xương (phân biệt với BCC thường có gan lách to)."
+        },
+        {
+          "q": "Xét nghiệm nào quyết định chẩn đoán xác định bệnh lý này?",
+          "options": [
+            "Sắt và Ferritin huyết thanh",
+            "Điện di Huyết sắc tố",
+            "Huyết tủy đồ và Sinh thiết tủy xương",
+            "Định lượng yếu tố đông máu"
+          ],
+          "answer": 2,
+          "explain": "Sinh thiết tủy là tiêu chuẩn vàng để đánh giá độ giàu tế bào và loại trừ các bệnh ác tính thâm nhiễm."
+        },
+        {
+          "q": "Đặc điểm tủy đồ dự kiến ở trẻ này là gì?",
+          "options": [
+            "Tủy tăng sinh mạnh các tế bào Blast (>25%)",
+            "Tủy nghèo tế bào, nhiều tổ chức mỡ và xơ",
+            "Tăng sinh dòng mẫu tiểu cầu ưa kiềm",
+            "Hồng cầu lưới tủy tăng rất cao"
+          ],
+          "answer": 1,
+          "explain": "Suy tủy xương đặc trưng bởi sự thay thế tổ chức tạo máu bằng mô mỡ và xơ."
+        },
+        {
+          "q": "Nguyên tắc điều trị quan trọng nhất ở bệnh nhi này là gì?",
+          "options": [
+            "Truyền máu định kỳ và thải sắt hằng tháng",
+            "Chỉ định cắt lách để tăng số lượng tế bào máu",
+            "Truyền máu hỗ trợ và điều trị ức chế miễn dịch/Ghép tủy",
+            "Bổ sung Sắt, Vitamin B12 và Acid Folic liều cao"
+          ],
+          "answer": 2,
+          "explain": "Điều trị suy tủy bao gồm truyền máu/tiểu cầu duy trì và giải quyết nguyên nhân bằng thuốc ức chế miễn dịch hoặc ghép tế bào gốc."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ trai 2 tuổi sưng nề cơ đùi sau va chạm nhẹ",
+      "body": "<b>Bệnh sử:</b> Trẻ trai 2 tuổi vào viện vì sưng nề vùng đùi phải sau một va chạm nhẹ. Trẻ có biểu hiện đau, quấy khóc nhiều khi cử động chân.<br><br><b>Khám lâm sàng:</b> Khối tụ máu lớn sâu trong cơ đùi phải, da vùng đó căng bóng, tím nhẹ. Không có chấm xuất huyết da.<br><br><b>Tiền sử:</b> Chưa từng thực hiện phẫu thuật hay thủ thuật nào.",
+      "questions": [
+        {
+          "q": "Bước thăm khám nào cần thực hiện đầu tiên để loại trừ cấp cứu?",
+          "options": [
+            "Đo vòng đùi và kiểm tra mạch ngoại biên phía dưới",
+            "Chọc hút khối tụ máu để làm xét nghiệm vi khuẩn",
+            "Chườm nóng vùng đùi để làm tan máu tụ",
+            "Cho trẻ tập vận động mạnh chân phải"
+          ],
+          "answer": 0,
+          "explain": "Khối tụ máu lớn trong cơ có nguy cơ chèn ép khoang hoặc chèn ép mạch máu thần kinh, cần đánh giá mạch ngoại biên."
+        },
+        {
+          "q": "Loại rối loạn đông máu nào thường gây hình thái xuất huyết này?",
+          "options": [
+            "Rối loạn thành mạch",
+            "Rối loạn số lượng tiểu cầu",
+            "Rối loạn chất lượng tiểu cầu",
+            "Rối loạn các yếu tố đông máu huyết tương"
+          ],
+          "answer": 3,
+          "explain": "Xuất huyết sâu (cơ, khớp) là đặc trưng của rối loạn các yếu tố đông máu."
+        },
+        {
+          "q": "Kết quả xét nghiệm đông máu dự kiến ở trẻ này là gì?",
+          "options": [
+            "PT kéo dài, APTT bình thường",
+            "PT bình thường, APTT kéo dài",
+            "Tiểu cầu giảm dưới 50 G/L",
+            "Thời gian máu chảy (BT) kéo dài"
+          ],
+          "answer": 1,
+          "explain": "Hemophilia (A hoặc B) gây kéo dài APTT (đông máu nội sinh), PT bình thường."
+        },
+        {
+          "q": "Nếu đây là lần chảy máu đầu tiên, xét nghiệm cần làm để chẩn đoán phân biệt Hemophilia A và B là gì?",
+          "options": [
+            "Thời gian máu đông Lee-White",
+            "Nghiệm pháp co cục máu đông",
+            "Định lượng yếu tố VIII và yếu tố IX",
+            "Tổng phân tích nước tiểu"
+          ],
+          "answer": 2,
+          "explain": "Hemophilia A (thiếu VIII) và B (thiếu IX) chỉ phân biệt được bằng định lượng yếu tố vì lâm sàng giống nhau."
+        },
+        {
+          "q": "Xử trí tại chỗ khối tụ máu theo nguyên tắc R.I.C.E bao gồm những gì?",
+          "options": [
+            "Nghỉ ngơi, chườm đá, băng ép, kê cao chân",
+            "Nghỉ ngơi, chườm nóng, băng kín, hạ thấp chân",
+            "Vận động, chườm đá, để hở, kê cao chân",
+            "Xoa bóp, dầu nóng, băng chặt, hạ thấp chân"
+          ],
+          "answer": 0,
+          "explain": "R.I.C.E (Rest, Ice, Compression, Elevation) là quy tắc vàng trong xử trí ban đầu chảy máu cơ khớp."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ gái 6 tuổi sốt cao, đau xương, nốt đỏ trên da, gan lách to",
+      "body": "<b>Bệnh sử:</b> Trẻ gái 6 tuổi vào viện vì sốt cao, đau xương chân và xuất hiện nhiều nốt đỏ trên da.<br><br><b>Khám lâm sàng:</b> Trẻ mệt, da xanh, niêm mạc nhợt. Chấm, nốt xuất huyết rải rác toàn thân. Gan to 3 cm dưới bờ sườn, lách to độ II, hạch cổ và nách sưng đau.",
+      "questions": [
+        {
+          "q": "Chẩn đoán sơ bộ định hướng đến bệnh lý nào?",
+          "options": [
+            "Xuất huyết giảm tiểu cầu miễn dịch (ITP)",
+            "Suy tủy xương bẩm sinh",
+            "Bạch cầu cấp (Leukemia)",
+            "Sốt xuất huyết Dengue ngày thứ 3"
+          ],
+          "answer": 2,
+          "explain": "Thiếu máu + Xuất huyết + Gan lách hạch to + Đau xương là bộ tứ triệu chứng điển hình của BCC."
+        },
+        {
+          "q": "Dấu hiệu lâm sàng giúp phân biệt Bạch cầu cấp với ITP là gì?",
+          "options": [
+            "Có chấm xuất huyết dưới da",
+            "Có gan lách hạch to và đau xương",
+            "Có tiền sử nhiễm virus trước đó",
+            "Xuất huyết xuất hiện đột ngột"
+          ],
+          "answer": 1,
+          "explain": "ITP thường chỉ có xuất huyết đơn thuần, gan lách hạch không to."
+        },
+        {
+          "q": "Xét nghiệm tủy đồ có giá trị chẩn đoán Bạch cầu cấp khi tỷ lệ tế bào Blast ≥ bao nhiêu?",
+          "options": [
+            "≥ 5%",
+            "≥ 10%",
+            "≥ 20%",
+            "≥ 25%"
+          ],
+          "answer": 3,
+          "explain": "Theo tiêu chuẩn chẩn đoán, tế bào non (Blast) trong tủy ≥ 25% khẳng định BCC."
+        },
+        {
+          "q": "Hội chứng nào sau đây cần được tầm soát và điều trị sớm khi bắt đầu hóa trị liệu?",
+          "options": [
+            "Hội chứng ly giải khối u",
+            "Hội chứng thực bào máu",
+            "Hội chứng thận hư thứ phát",
+            "Hội chứng vàng da nhân não"
+          ],
+          "answer": 0,
+          "explain": "Hóa trị làm vỡ hàng loạt tế bào ác tính giải phóng các chất gây độc (K, Acid uric, Phosphat) gây suy thận cấp."
+        },
+        {
+          "q": "Tiên lượng Bạch cầu cấp dòng Lympho ở trẻ em tốt nhất ở nhóm tuổi nào?",
+          "options": [
+            "Dưới 1 tuổi",
+            "Từ 1 đến 9 tuổi",
+            "Từ 10 đến 15 tuổi",
+            "Trên 15 tuổi"
+          ],
+          "answer": 1,
+          "explain": "Trẻ từ 1-9 tuổi và số lượng bạch cầu < 50 G/L thuộc nhóm nguy cơ thường, có tiên lượng điều trị tốt nhất."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ sơ sinh 5 ngày tuổi rốn rỉ máu, chảy máu cam, phân đen",
+      "body": "<b>Bệnh sử:</b> Bệnh nhi nam 5 ngày tuổi, cân nặng lúc sinh 3,2 kg, đẻ tại nhà. Nay vào viện vì rốn còn rỉ máu đỏ tươi, chảy máu cam và đi ngoài phân đen.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh, da niêm mạc hồng nhạt, rốn có cục máu đông li ti, bụng mềm. Tim phổi bình thường.",
+      "questions": [
+        {
+          "q": "Nguyên nhân gây chảy máu ở trẻ này nhiều khả năng do thiếu yếu tố nào?",
+          "options": [
+            "Yếu tố VIII",
+            "Tiểu cầu",
+            "Các yếu tố phụ thuộc Vitamin K",
+            "Fibrinogen"
+          ],
+          "answer": 2,
+          "explain": "Trẻ sơ sinh 5 ngày tuổi, đẻ tại nhà, xuất huyết đa vị trí (rốn, mũi, tiêu hóa) gợi ý thiếu Vitamin K giai đoạn cổ điển."
+        },
+        {
+          "q": "Thời điểm xuất hiện bệnh lý này ở trẻ sơ sinh thường chia làm các giai đoạn, TRỪ giai đoạn nào?",
+          "options": [
+            "Sớm (trong 24 giờ đầu)",
+            "Cổ điển (từ ngày thứ 2 đến ngày thứ 7)",
+            "Muộn (từ tuần thứ 2 đến tháng thứ 6)",
+            "Mạn tính (kéo dài trên 1 năm)"
+          ],
+          "answer": 3,
+          "explain": "Xuất huyết do thiếu Vitamin K chỉ có các thể cấp tính (sớm, cổ điển, muộn), không có thể mạn tính."
+        },
+        {
+          "q": "Tại sao trẻ sơ sinh dễ bị thiếu hụt Vitamin K?",
+          "options": [
+            "Vitamin K qua rau thai rất kém",
+            "Vi khuẩn đường ruột chưa tổng hợp được",
+            "Lượng Vitamin K trong sữa mẹ thấp",
+            "Tất cả các lý do trên đều đúng"
+          ],
+          "answer": 3,
+          "explain": "Trẻ sơ sinh có nguồn Vitamin K dự trữ thấp, sữa mẹ nghèo K và hệ vi sinh ruột chưa hoàn thiện."
+        },
+        {
+          "q": "Xét nghiệm đông máu nào sẽ bị kéo dài nhất ở trẻ này?",
+          "options": [
+            "Thời gian máu chảy (BT)",
+            "Thời gian Prothrombin (PT)",
+            "Thời gian Thromboplastin hoạt hóa từng phần (APTT)",
+            "Thời gian Thrombin (TT)"
+          ],
+          "answer": 1,
+          "explain": "PT phản ánh yếu tố II, VII, X là các yếu tố giảm sớm và nặng nhất khi thiếu Vitamin K."
+        },
+        {
+          "q": "Để dự phòng bệnh lý này, khuyến cáo nào sau đây là đúng nhất cho mọi trẻ sơ sinh?",
+          "options": [
+            "Tiêm bắp 1 mg Vitamin K1 ngay sau sinh",
+            "Chỉ tiêm Vitamin K1 cho trẻ đẻ non",
+            "Cho mẹ uống Vitamin K1 liều cao khi mang thai",
+            "Truyền huyết tương tươi dự phòng vào ngày thứ 3"
+          ],
+          "answer": 0,
+          "explain": "Tiêm Vitamin K1 ngay sau sinh là biện pháp rẻ tiền và hiệu quả nhất để phòng ngừa các biến chứng xuất huyết nguy hiểm."
+        }
+      ]
+    }
+  ]
+}
