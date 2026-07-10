@@ -1,0 +1,560 @@
+{
+  "name": "Suy thượng thận mạn MCQ",
+  "description": "50 câu hỏi trắc nghiệm về bệnh Addison và suy thượng thận mạn tính - bao gồm chẩn đoán, cơ chế bệnh sinh, xét nghiệm, và điều trị",
+  "level": "ôn thi nội trú - Nội tiết học",
+  "type": "mcq",
+  "category": "Nội",
+  "subcategory": "Nội tiết",
+  "questions": [
+    {
+      "q": "Bệnh Addison là thuật ngữ dùng để chỉ tình trạng nào sau đây?",
+      "options": [
+        "Suy thượng thận thứ phát do dùng thuốc",
+        "Suy thượng thận tiên phát mạn tính",
+        "Suy thượng thận cấp tính",
+        "Suy thượng thận do suy tuyến yên"
+      ],
+      "answer": 1,
+      "explain": "Bệnh Addison là suy thượng thận tiên phát mạn tính do tổn thương trực tiếp tại vỏ thượng thận. Nguồn: Bệnh học nội khoa YHN."
+    },
+    {
+      "q": "Nguyên nhân phổ biến nhất gây suy thượng thận tiên phát ở các nước phát triển hiện nay là gì?",
+      "options": [
+        "Viêm thượng thận tự miễn",
+        "Lao thượng thận",
+        "Xuất huyết thượng thận",
+        "Ung thư di căn"
+      ],
+      "answer": 0,
+      "explain": "Ở các nước phát triển, khoảng 80-90% các ca suy thượng thận tiên phát là do nguyên nhân tự miễn. Nguồn: CMDT 2026."
+    },
+    {
+      "q": "Ở các nước đang phát triển, nguyên nhân hàng đầu gây suy thượng thận tiên phát là gì?",
+      "options": [
+        "Ký sinh trùng",
+        "Nấm",
+        "Lao",
+        "Tự miễn"
+      ],
+      "answer": 2,
+      "explain": "Lao thượng thận vẫn là nguyên nhân hàng đầu gây bệnh Addison ở các nước đang phát triển và khu vực có dịch tễ lao cao. Nguồn: Bệnh học nội khoa YHN."
+    },
+    {
+      "q": "Nguyên nhân phổ biến nhất của suy thượng thận thứ phát là do:",
+      "options": [
+        "U tuyến yên tiết prolactin",
+        "Hội chứng Sheehan",
+        "Ngừng đột ngột glucocorticoid ngoại sinh",
+        "Chấn thương sọ não"
+      ],
+      "answer": 2,
+      "explain": "Sử dụng glucocorticoid kéo dài gây ức chế trục hạ đồi - tuyến yên - thượng thận. Khi ngừng thuốc đột ngột sẽ gây suy thượng thận thứ phát. Ý cần nhớ: Khai thác kỹ tiền sử dùng thuốc nam, thuốc khớp."
+    },
+    {
+      "q": "Hội chứng tự miễn đa tuyến typ 1 (APS-1) thường bao gồm suy thượng thận kết hợp với bệnh lý nào?",
+      "options": [
+        "Suy giáp và đái tháo đường typ 1",
+        "Nhiễm nấm Candida niêm mạc mạn tính và suy cận giáp",
+        "Bệnh Celiac và nhược cơ",
+        "Bạch biến và rụng tóc thành từng mảng"
+      ],
+      "answer": 1,
+      "explain": "APS-1 đặc trưng bởi tam chứng: nhiễm nấm Candida da niêm mạc, suy cận giáp và bệnh Addison. Nguồn: CMDT 2026."
+    },
+    {
+      "q": "Đặc điểm nội tiết cơ bản của suy thượng thận thứ phát là gì?",
+      "options": [
+        "Cortisol giảm, ACTH tăng, Aldosterone giảm",
+        "Cortisol giảm, ACTH giảm, Aldosterone bình thường",
+        "Cortisol giảm, ACTH giảm, Aldosterone giảm",
+        "Cortisol giảm, ACTH tăng, Aldosterone bình thường"
+      ],
+      "answer": 1,
+      "explain": "Tổn thương tuyến yên làm giảm ACTH kéo theo giảm Cortisol. Hệ Renin-Angiotensin không bị ảnh hưởng nên tiết Aldosterone (lớp cầu) vẫn bình thường. Nguồn: Bệnh học nội khoa YHN."
+    },
+    {
+      "q": "Hiện tượng sạm da trong bệnh Addison liên quan trực tiếp đến sự tăng tiết chất nào?",
+      "options": [
+        "Cortisol",
+        "Aldosterone",
+        "MSH và ACTH",
+        "CRH"
+      ],
+      "answer": 2,
+      "explain": "Khi Cortisol giảm, tuyến yên tăng tiết ACTH bù trừ. Tiền chất POMC bị cắt thành ACTH và MSH (hormone kích thích hắc tố bào), gây sạm da."
+    },
+    {
+      "q": "Hormone Aldosterone được sản xuất chủ yếu ở vùng nào của vỏ tuyến thượng thận?",
+      "options": [
+        "Lớp cầu",
+        "Lớp bó",
+        "Lớp lưới",
+        "Tủy thượng thận"
+      ],
+      "answer": 0,
+      "explain": "Vỏ thượng thận có 3 lớp: lớp cầu tiết mineralocorticoid (Aldosterone), lớp bó tiết glucocorticoid (Cortisol), lớp lưới tiết androgen. Ý cần nhớ: G-F-R tương ứng Salt-Sugar-Sex."
+    },
+    {
+      "q": "Cortisol làm tăng đường huyết chủ yếu thông qua cơ chế nào?",
+      "options": [
+        "Kích thích tế bào beta tụy tiết insulin",
+        "Tăng tổng hợp glycogen tại cơ",
+        "Tăng tân tạo đường tại gan",
+        "Giảm hấp thu glucose ở ruột"
+      ],
+      "answer": 2,
+      "explain": "Cortisol là hormone đối kháng insulin, nó kích thích quá trình tân tạo đường (gluconeogenesis) ở gan từ acid amin và glycerol. Nguồn: Sinh lý học."
+    },
+    {
+      "q": "Sự bài tiết Aldosterone chịu sự điều hòa chủ yếu bởi yếu tố nào?",
+      "options": [
+        "Nồng độ ACTH trong máu",
+        "Nồng độ Natri và Cortisol máu",
+        "Hệ Renin-Angiotensin và nồng độ Kali máu",
+        "Nồng độ CRH và thể tích dịch ngoại bào"
+      ],
+      "answer": 2,
+      "explain": "Aldosterone được điều hòa chủ yếu qua trục Renin-Angiotensin-Aldosterone (RAAS) khi thể tích tuần hoàn giảm và kích thích trực tiếp bởi tình trạng tăng Kali máu."
+    },
+    {
+      "q": "Đặc điểm sinh lý bệnh giải thích vì sao bệnh nhân suy thượng thận thứ phát KHÔNG có biểu hiện sạm da?",
+      "options": [
+        "Tuyến yên không tăng tiết ACTH",
+        "Tế bào hắc tố bị phá hủy do tự miễn",
+        "Nồng độ Aldosterone bình thường",
+        "Lượng Androgen máu giảm"
+      ],
+      "answer": 0,
+      "explain": "Suy thượng thận thứ phát do suy tuyến yên nên ACTH giảm hoặc không bài tiết, do đó không có sự dư thừa MSH để kích thích hắc tố bào. Nguồn: Bệnh học nội khoa YHN."
+    },
+    {
+      "q": "Bệnh nhân suy thượng thận thứ phát hiếm khi bị hạ huyết áp nặng và sốc do nguyên nhân nào?",
+      "options": [
+        "Chức năng hệ thần kinh giao cảm còn nguyên vẹn",
+        "Lớp cầu vỏ thượng thận vẫn tiết đủ Aldosterone",
+        "Nồng độ Cortisol máu chỉ giảm nhẹ",
+        "Thận tăng tái hấp thu natri qua ống lượn gần"
+      ],
+      "answer": 1,
+      "explain": "Aldosterone chịu sự chi phối của hệ RAAS chứ không phải ACTH. Do đó, chức năng giữ muối nước của lớp cầu vẫn bình thường trong suy thứ phát."
+    },
+    {
+      "q": "Cơ chế chính gây hạ natri máu trong suy thượng thận tiên phát là:",
+      "options": [
+        "Mất natri qua đường tiêu hóa do nôn ói",
+        "Tăng bài tiết ADH thứ phát do thiếu cortisol và giảm thể tích do thiếu aldosterone",
+        "Dịch chuyển natri từ ngoại bào vào nội bào",
+        "Thận giảm mức lọc cầu thận"
+      ],
+      "answer": 1,
+      "explain": "Thiếu aldosterone gây mất natri ra nước tiểu (giảm thể tích). Thiếu cortisol làm mất ức chế bài tiết ADH, gây giữ nước tự do và pha loãng máu. Nguồn: CMDT 2026."
+    },
+    {
+      "q": "Sự gia tăng kali máu trong bệnh Addison là kết quả của cơ chế nào ở ống thận?",
+      "options": [
+        "Giảm bài tiết kali ở ống lượn xa và ống góp do thiếu aldosterone",
+        "Tăng tái hấp thu kali ở cuai Henle do thiếu cortisol",
+        "Trao đổi ion H+/K+ tại ống lượn gần",
+        "Tăng phá hủy tế bào do stress"
+      ],
+      "answer": 0,
+      "explain": "Aldosterone có tác dụng tái hấp thu Na+ và bài tiết K+, H+ tại ống lượn xa. Thiếu hụt aldosterone dẫn đến ứ đọng kali máu và toan máu."
+    },
+    {
+      "q": "Triệu chứng cơ năng xuất hiện sớm nhất và gặp ở hầu hết bệnh nhân suy thượng thận mạn là:",
+      "options": [
+        "Đau bụng",
+        "Mệt mỏi, suy nhược",
+        "Tiêu chảy",
+        "Thèm ăn mặn"
+      ],
+      "answer": 1,
+      "explain": "Mệt mỏi, yếu cơ cơ bản (asthenia) gặp ở gần 100% bệnh nhân. Thường mệt tăng dần về chiều hoặc khi gắng sức. Nguồn: Bệnh học nội khoa YHN."
+    },
+    {
+      "q": "Vị trí nào sau đây ít có biểu hiện sạm da nhất trong bệnh Addison?",
+      "options": [
+        "Nếp gấp bàn tay",
+        "Niêm mạc má",
+        "Vùng da được che kín",
+        "Sẹo mới hình thành"
+      ],
+      "answer": 2,
+      "explain": "Sạm da trong Addison rõ nhất ở vùng hở tiếp xúc ánh sáng mặt trời, vùng cọ xát (cùi chỏ, đầu gối), nếp gấp và sẹo mới. Vùng che kín ít bị hơn."
+    },
+    {
+      "q": "Các triệu chứng tiêu hóa trong suy thượng thận mạn thường biểu hiện như thế nào?",
+      "options": [
+        "Ăn nhiều nhưng vẫn sụt cân",
+        "Chán ăn, buồn nôn, sụt cân",
+        "Tiêu chảy phân nhày máu",
+        "Táo bón kéo dài"
+      ],
+      "answer": 1,
+      "explain": "Sụt cân (weight loss) và chán ăn (anorexia) rất phổ biến. Có thể kèm buồn nôn, nôn mửa. Đây là bẫy dễ nhầm với bệnh lý ống tiêu hóa ác tính."
+    },
+    {
+      "q": "Dấu hiệu lâm sàng khách quan quan trọng để gợi ý suy thượng thận trên hệ tim mạch là:",
+      "options": [
+        "Nhịp tim chậm",
+        "Huyết áp thấp, hạ huyết áp tư thế",
+        "Tiếng tim mờ",
+        "Huyết áp kẹp"
+      ],
+      "answer": 1,
+      "explain": "Tụt huyết áp tư thế (>20 mmHg tâm thu khi đứng) rất điển hình do giảm thể tích tuần hoàn (thiếu aldosterone) và giảm trương lực mạch (thiếu cortisol)."
+    },
+    {
+      "q": "Triệu chứng nào sau đây giúp phân biệt rõ nhất giữa suy thượng thận tiên phát và thứ phát trên lâm sàng?",
+      "options": [
+        "Mức độ mệt mỏi",
+        "Sạm da niêm mạc",
+        "Hạ đường huyết",
+        "Rối loạn tiêu hóa"
+      ],
+      "answer": 1,
+      "explain": "Sạm da chỉ có ở suy tiên phát (do tăng ACTH). Suy thứ phát da thường xanh xao nhợt nhạt do kết hợp thiếu máu, suy giáp kèm theo. Nguồn: CMDT 2026."
+    },
+    {
+      "q": "Phụ nữ mắc bệnh Addison thường có biểu hiện rụng lông nách và lông mu là do sự thiếu hụt:",
+      "options": [
+        "Estrogen từ buồng trứng",
+        "Progesterone",
+        "Androgen từ vỏ thượng thận",
+        "Cortisol"
+      ],
+      "answer": 2,
+      "explain": "Ở nữ, nguồn cung cấp androgen chính (DHEA, androstenedione) là từ lớp lưới vỏ thượng thận. Khi suy tuyến, thiếu androgen gây giảm ham muốn và rụng lông."
+    },
+    {
+      "q": "Bệnh nhân suy thượng thận mạn tiên phát thường có khuynh hướng thèm ăn vị gì?",
+      "options": [
+        "Vị ngọt",
+        "Vị mặn",
+        "Vị chua",
+        "Vị cay"
+      ],
+      "answer": 1,
+      "explain": "Thèm muối (salt craving) gặp ở khoảng 20% bệnh nhân Addison do mất muối qua thận, cơ thể bù trừ bằng cách kích thích thèm ăn mặn. Đây là một bẫy lâm sàng kinh điển."
+    },
+    {
+      "q": "Triệu chứng thèm ăn mặn ở bệnh nhân Addison liên quan trực tiếp đến sự thiếu hụt hormone nào?",
+      "options": [
+        "Cortisol",
+        "DHEA",
+        "ACTH",
+        "Aldosterone"
+      ],
+      "answer": 3,
+      "explain": "Sự thiếu hụt Mineralocorticoid (Aldosterone) làm mất natri, hạ natri máu, gây thèm muối. Suy thứ phát không thiếu Aldosterone nên hiếm khi thèm muối."
+    },
+    {
+      "q": "Yếu tố nào sau đây thường đóng vai trò là \"yếu tố thúc đẩy\" đưa bệnh nhân suy mạn vào cơn suy thượng thận cấp?",
+      "options": [
+        "Ăn quá nhiều đường",
+        "Nhiễm trùng hô hấp, tiêu hóa",
+        "Uống nhiều nước",
+        "Dùng thuốc hạ áp"
+      ],
+      "answer": 1,
+      "explain": "Nhiễm trùng cấp, chấn thương, phẫu thuật, hoặc ngừng thuốc đột ngột là các stress làm tăng nhu cầu cortisol, đẩy bệnh nhân vào cơn cấp (Addisonian crisis)."
+    },
+    {
+      "q": "Triệu chứng nào gợi ý bệnh nhân suy thượng thận mạn đang tiến triển thành cơn suy thượng thận cấp?",
+      "options": [
+        "Sạm da đậm hơn ở niêm mạc",
+        "Đau bụng dữ dội, tụt huyết áp sâu không đáp ứng bù dịch",
+        "Đường huyết tăng cao",
+        "Nhịp tim chậm < 50 lần/phút"
+      ],
+      "answer": 1,
+      "explain": "Đau bụng cấp tính (giống ngoại khoa) và sốc kháng trị là dấu hiệu đặc trưng của cơn suy thượng thận cấp, cần cấp cứu ngay bằng hydrocortisone tĩnh mạch."
+    },
+    {
+      "q": "Để chẩn đoán phân biệt sạm da do bệnh Addison với bệnh Hemochromatosis, đặc điểm nào sau đây KHÔNG thuộc về Hemochromatosis?",
+      "options": [
+        "Gan to",
+        "Đái tháo đường",
+        "Ứ đọng sắt ở da",
+        "Sạm da vùng niêm mạc miệng"
+      ],
+      "answer": 3,
+      "explain": "Hemochromatosis (đái tháo đường đồng) gây sạm da nhưng thường tản mạn và hiếm khi ảnh hưởng đến niêm mạc miệng, khác với đặc điểm sạm niêm mạc điển hình của Addison."
+    },
+    {
+      "q": "Bệnh nhân nữ 35 tuổi, than mệt mỏi, sụt 5kg/3 tháng, chán ăn. Khám thấy huyết áp 90/60 mmHg, có các mảng sắc tố màu xám chì ở niêm mạc má và lợi. Chẩn đoán lâm sàng nghĩ đến nhiều nhất là:",
+      "options": [
+        "Suy giáp",
+        "Hội chứng Cushing",
+        "Bệnh Addison",
+        "Xơ gan ứ mật"
+      ],
+      "answer": 2,
+      "explain": "Vignette điển hình: nữ trẻ tuổi, hội chứng suy nhược, tụt huyết áp và đặc biệt là sạm niêm mạc miệng gợi ý rất mạnh suy thượng thận tiên phát. Nguồn: Bệnh học nội khoa YHN."
+    },
+    {
+      "q": "Rối loạn điện giải điển hình nhất trong suy thượng thận tiên phát là:",
+      "options": [
+        "Tăng natri, hạ kali máu",
+        "Hạ natri, tăng kali máu",
+        "Hạ natri, hạ kali máu",
+        "Tăng natri, tăng kali máu"
+      ],
+      "answer": 1,
+      "explain": "Hạ natri máu (do mất natri và ứ nước tự do) và tăng kali máu (do thiếu bài tiết kali qua thận) là bộ đôi rối loạn điện giải kinh điển của bệnh Addison."
+    },
+    {
+      "q": "Sự thay đổi công thức máu nào sau đây thường gặp ở bệnh nhân suy thượng thận mạn?",
+      "options": [
+        "Tăng bạch cầu đa nhân trung tính",
+        "Tăng hồng cầu nhỏ nhược sắc",
+        "Thiếu máu đẳng sắc, tăng bạch cầu ái toan",
+        "Giảm tiểu cầu đơn thuần"
+      ],
+      "answer": 2,
+      "explain": "Thiếu Cortisol làm giảm ức chế hệ miễn dịch, gây tăng bạch cầu ái toan (eosinophilia) và tăng tế bào lympho. Thiếu máu đẳng sắc đẳng bào cũng phổ biến."
+    },
+    {
+      "q": "Xét nghiệm sàng lọc ban đầu tốt nhất và dễ thực hiện để nghi ngờ suy thượng thận là:",
+      "options": [
+        "Định lượng ACTH huyết tương lúc nửa đêm",
+        "Định lượng Cortisol máu lúc 8 giờ sáng",
+        "Định lượng Aldosterone máu",
+        "Định lượng Cortisol tự do trong nước tiểu 24 giờ"
+      ],
+      "answer": 1,
+      "explain": "Đo cortisol máu lúc 8h sáng (đỉnh bài tiết sinh lý) là xét nghiệm sàng lọc chuẩn. Nếu kết quả quá thấp, nó gợi ý rất cao tình trạng suy thượng thận. Nguồn: CMDT 2026."
+    },
+    {
+      "q": "Theo hướng dẫn, mức Cortisol máu 8 giờ sáng lớn hơn bao nhiêu thường giúp loại trừ chẩn đoán suy thượng thận?",
+      "options": [
+        "> 3 mcg/dL",
+        "> 10 mcg/dL",
+        "> 15 - 18 mcg/dL",
+        "> 25 mcg/dL"
+      ],
+      "answer": 2,
+      "explain": "Theo CMDT 2026, cortisol máu > 15-18 mcg/dL (hoặc > 414-500 nmol/L) thường đủ để loại trừ suy thượng thận mà không cần làm thêm test động."
+    },
+    {
+      "q": "Tiêu chuẩn vàng (test động) để chẩn đoán xác định suy thượng thận tiên phát là:",
+      "options": [
+        "Test ức chế Dexamethasone",
+        "Test kích thích bằng ACTH (Synacthen test)",
+        "Test dung nạp Glucose",
+        "Test kích thích bằng CRH"
+      ],
+      "answer": 1,
+      "explain": "Test kích thích bằng 250 mcg cosyntropin (Synacthen) đánh giá khả năng dự trữ của vỏ thượng thận. Nếu tuyến bị hỏng, nó sẽ không tăng tiết cortisol sau tiêm."
+    },
+    {
+      "q": "Trong test kích thích bằng ACTH (Synacthen test), kết quả nào sau đây là bình thường (loại trừ suy thượng thận)?",
+      "options": [
+        "Cortisol đỉnh < 10 mcg/dL",
+        "Cortisol đỉnh < 18 mcg/dL",
+        "Cortisol đỉnh > 18 - 20 mcg/dL",
+        "Cortisol đỉnh không thay đổi so với nền"
+      ],
+      "answer": 2,
+      "explain": "Ở người bình thường, sau khi tiêm ACTH, tuyến thượng thận sẽ tiết cortisol mạnh mẽ, đạt nồng độ đỉnh > 18 mcg/dL (hoặc 500 nmol/L) ở phút 30 hoặc 60."
+    },
+    {
+      "q": "Xét nghiệm nào đóng vai trò chìa khóa để phân biệt suy thượng thận tiên phát và thứ phát?",
+      "options": [
+        "Định lượng ACTH huyết tương",
+        "Điện giải đồ",
+        "Siêu âm tuyến giáp",
+        "Kháng thể kháng tuyến thượng thận"
+      ],
+      "answer": 0,
+      "explain": "Trong suy tiên phát, ACTH tăng rất cao do mất phản hồi âm. Trong suy thứ phát, ACTH thấp hoặc bình thường thấp không tương xứng với nồng độ cortisol thấp."
+    },
+    {
+      "q": "Trong trường hợp suy thượng thận do lao, hình ảnh chẩn đoán hình ảnh (X-quang hoặc CT) thường thấy gì ở vùng tuyến thượng thận?",
+      "options": [
+        "Tuyến thượng thận teo nhỏ, không thấy rõ",
+        "Bóng tuyến thượng thận to ra hoặc có vôi hóa",
+        "Khối u mỡ (Myelolipoma)",
+        "Tăng sản nốt hai bên"
+      ],
+      "answer": 1,
+      "explain": "Bẫy kinh điển: Viêm thượng thận tự miễn làm teo tuyến, nhưng lao thường gây phì đại có các nốt bã đậu và vôi hóa (calcification) có thể thấy trên phim chụp bụng."
+    },
+    {
+      "q": "Kháng thể nào sau đây có tính đặc hiệu cao nhất để chẩn đoán nguyên nhân tự miễn của bệnh Addison?",
+      "options": [
+        "Kháng thể kháng TPO (anti-TPO)",
+        "Kháng thể kháng thụ thể TSH (TRAb)",
+        "Kháng thể kháng enzyme 21-hydroxylase",
+        "Kháng thể kháng nhân (ANA)"
+      ],
+      "answer": 2,
+      "explain": "Kháng thể kháng enzyme 21-hydroxylase (21-OH Ab) hiện diện ở >80% bệnh nhân Addison do tự miễn. Ý cần nhớ: 21-hydroxylase là enzyme tổng hợp steroid. Nguồn: CMDT 2026."
+    },
+    {
+      "q": "Rối loạn thăng bằng kiềm toan nào thường gặp nhất trong suy thượng thận tiên phát?",
+      "options": [
+        "Toan hô hấp",
+        "Kiềm chuyển hóa",
+        "Toan chuyển hóa",
+        "Kiềm hô hấp"
+      ],
+      "answer": 2,
+      "explain": "Thiếu aldosterone làm giảm bài tiết ion H+ (và K+) tại ống thận, dẫn đến toan chuyển hóa tăng clo máu (tăng khoảng trống anion bình thường/toan ống thận type 4)."
+    },
+    {
+      "q": "Thuốc Glucocorticoid nào thường được sử dụng như lựa chọn đầu tay trong điều trị thay thế bệnh Addison sinh lý nhất?",
+      "options": [
+        "Dexamethasone",
+        "Hydrocortisone",
+        "Methylprednisolone",
+        "Betamethasone"
+      ],
+      "answer": 1,
+      "explain": "Hydrocortisone là lựa chọn đầu tay vì cấu trúc và hoạt tính sinh học tương tự sinh lý cortisol tự nhiên nhất, có cả tác dụng glucocorticoid và một phần mineralocorticoid."
+    },
+    {
+      "q": "Thuốc Mineralocorticoid được sử dụng để điều trị thay thế thiếu hụt aldosterone trong suy thượng thận tiên phát là:",
+      "options": [
+        "Spironolactone",
+        "Fludrocortisone",
+        "Eplerenone",
+        "Prednisolone"
+      ],
+      "answer": 1,
+      "explain": "Fludrocortisone là mineralocorticoid tổng hợp dùng đường uống (thường 0.05-0.1 mg/ngày) giúp duy trì huyết áp và điện giải. Spironolactone là chất đối kháng, chống chỉ định."
+    },
+    {
+      "q": "Nguyên tắc phân chia liều Hydrocortisone uống trong ngày để bắt chước nhịp sinh lý là:",
+      "options": [
+        "Uống 1 lần duy nhất trước khi đi ngủ",
+        "Chia đều 3 lần/ngày mỗi 8 giờ",
+        "Liều cao nhất uống vào buổi sáng sớm, liều nhỏ uống vào buổi chiều",
+        "Uống liều cao nhất vào buổi tối để phòng hạ đường huyết đêm"
+      ],
+      "answer": 2,
+      "explain": "Nhịp sinh lý cortisol cao nhất lúc sáng sớm và thấp nhất nửa đêm. Do đó thường chia liều 15-20mg sáng khi dậy và 5-10mg đầu giờ chiều (tránh uống tối gây mất ngủ)."
+    },
+    {
+      "q": "Bệnh nhân bị suy thượng thận thứ phát (do dùng corticoid kéo dài) có chỉ định dùng thuốc nào sau đây trong phác đồ thay thế dài hạn?",
+      "options": [
+        "Chỉ cần Hydrocortisone",
+        "Cần cả Hydrocortisone và Fludrocortisone",
+        "Chỉ cần Fludrocortisone",
+        "Cần Dexamethasone và Spironolactone"
+      ],
+      "answer": 0,
+      "explain": "Bẫy kinh điển: Suy thứ phát không tổn thương vỏ thượng thận lớp cầu, RAAS bình thường nên bệnh nhân không cần bù Fludrocortisone, chỉ bù Glucocorticoid."
+    },
+    {
+      "q": "Đối với phụ nữ mắc bệnh Addison có triệu chứng giảm ham muốn tình dục, mệt mỏi kéo dài dù đã tối ưu hóa liều Hydrocortisone và Fludrocortisone, thuốc nào có thể cân nhắc thêm?",
+      "options": [
+        "Estrogen thay thế",
+        "DHEA (Dehydroepiandrosterone)",
+        "Oxytocin",
+        "Testosterone tiêm bắp"
+      ],
+      "answer": 1,
+      "explain": "DHEA (25-50 mg/ngày) có thể cải thiện năng lượng, ham muốn ở phụ nữ bị Addison do bù đắp sự thiếu hụt androgen thượng thận. Nguồn: CMDT 2026."
+    },
+    {
+      "q": "Nguyên tắc \"Sick-day rules\" (quy tắc ngày ốm) cho bệnh nhân suy mạn đang dùng Hydrocortisone khi bị sốt cao (nhiễm trùng) là gì?",
+      "options": [
+        "Giữ nguyên liều thuốc, uống nhiều nước",
+        "Tăng gấp đôi hoặc gấp ba liều Hydrocortisone uống thường ngày",
+        "Giảm một nửa liều Hydrocortisone để tăng miễn dịch",
+        "Ngừng hẳn Hydrocortisone và nhập viện truyền dịch"
+      ],
+      "answer": 1,
+      "explain": "Khi có stress nhẹ-vừa (sốt >38°C), bệnh nhân cần tăng liều HC gấp đôi/gấp ba (quy tắc 2x2 hoặc 3x3) để bù đắp nhu cầu sinh lý tăng vọt, phòng suy cấp."
+    },
+    {
+      "q": "Biểu hiện nào sau đây gợi ý bệnh nhân đang sử dụng quá liều Fludrocortisone?",
+      "options": [
+        "Sạm da nhiều hơn",
+        "Tụt huyết áp và tăng kali máu",
+        "Tăng huyết áp, phù và hạ kali máu",
+        "Sụt cân không rõ nguyên nhân"
+      ],
+      "answer": 2,
+      "explain": "Quá liều Fludrocortisone gây cường mineralocorticoid, dẫn đến giữ quá nhiều muối nước (phù, tăng HA) và thải quá nhiều kali (hạ kali máu). Ý cần nhớ: Tác dụng ngược của Addison."
+    },
+    {
+      "q": "Bệnh nhân suy thượng thận mạn chuẩn bị phẫu thuật chương trình lớn (như cắt dạ dày), cần chuẩn bị thuốc gì để phòng ngừa cơn suy thượng thận cấp?",
+      "options": [
+        "Uống tăng gấp đôi liều Fludrocortisone trước mổ",
+        "Truyền tĩnh mạch Hydrocortisone liều cao trong và sau phẫu thuật",
+        "Tiêm dưới da Dexamethasone",
+        "Truyền Insulin và Glucose"
+      ],
+      "answer": 1,
+      "explain": "Stress phẫu thuật lớn đòi hỏi lượng cortisol rất cao (tương đương 100-200 mg hydrocortisone/ngày). Cần truyền tĩnh mạch HC trong mổ và giảm liều dần sau đó. Nguồn: Bệnh học nội khoa YHN."
+    },
+    {
+      "q": "Bệnh nhân đã dùng Prednisolone 20mg/ngày liên tục 3 tháng để điều trị viêm khớp, nay muốn ngừng thuốc. Nguyên tắc ngừng thuốc đúng nhất là:",
+      "options": [
+        "Ngừng đột ngột vì đã hết đau khớp",
+        "Chuyển sang dùng Fludrocortisone rồi ngừng",
+        "Giảm liều từ từ (tapering) từng tuần trước khi ngừng hẳn",
+        "Tăng liều rồi dừng đột ngột"
+      ],
+      "answer": 2,
+      "explain": "Phải giảm liều từ từ để trục Dưới đồi - Tuyến yên có thời gian phục hồi khả năng tiết ACTH và vỏ thượng thận phục hồi khả năng tự sản xuất cortisol."
+    },
+    {
+      "q": "Mục tiêu lâm sàng tốt nhất để theo dõi sự đầy đủ của liều điều trị Fludrocortisone là:",
+      "options": [
+        "Đo lại nồng độ ACTH máu hàng tháng",
+        "Đánh giá sự mờ đi của mảng sạm da",
+        "Đo huyết áp (đặc biệt huyết áp tư thế) và điện giải đồ (Na, K)",
+        "Đo nồng độ Cortisol máu lúc 8h sáng"
+      ],
+      "answer": 2,
+      "explain": "Fludrocortisone thay thế aldosterone, do đó hiệu quả được đánh giá bằng việc hết hạ huyết áp tư thế đứng và Na, K máu trở về mức bình thường."
+    },
+    {
+      "q": "Biến chứng cấp tính nguy hiểm nhất đe dọa tính mạng ở bệnh nhân suy thượng thận mạn không tuân thủ điều trị là:",
+      "options": [
+        "Cơn suy thượng thận cấp (Addisonian crisis)",
+        "Loãng xương gãy xương",
+        "Đái tháo đường thứ phát",
+        "Suy tim tâm thu"
+      ],
+      "answer": 0,
+      "explain": "Cơn suy cấp biểu hiện bằng sốc giảm thể tích nặng, không đáp ứng vận mạch, rối loạn điện giải và hôn mê, tử vong cao nếu không tiêm hydrocortisone kịp thời."
+    },
+    {
+      "q": "Xét nghiệm nào KHÔNG được khuyến cáo sử dụng làm mục tiêu định kỳ để chỉnh liều Hydrocortisone trong điều trị duy trì suy thượng thận tiên phát?",
+      "options": [
+        "Huyết áp động mạch",
+        "Cân nặng của bệnh nhân",
+        "Nồng độ ACTH huyết tương",
+        "Mức độ mệt mỏi của bệnh nhân"
+      ],
+      "answer": 2,
+      "explain": "Bẫy lâm sàn: ACTH thường rất khó đưa về mức bình thường hoàn toàn. Cố gắng tăng liều thuốc để ép ACTH về bình thường sẽ gây quá liều hội chứng Cushing. Chỉnh liều HC hoàn toàn dựa vào lâm sàng. Nguồn: CMDT 2026."
+    },
+    {
+      "q": "Bệnh nhân nữ mắc bệnh Addison tự miễn có nguy cơ cao nhất mắc kèm thêm bệnh lý nội tiết nào sau đây (thuộc Hội chứng Schmidt - APS 2)?",
+      "options": [
+        "U tủy thượng thận",
+        "Cường tuyến cận giáp",
+        "Viêm tuyến giáp mạn tính Hashimoto",
+        "Đái tháo đường typ 2"
+      ],
+      "answer": 2,
+      "explain": "Hội chứng đa tuyến tự miễn type 2 (Hội chứng Schmidt) thường bao gồm bệnh Addison kết hợp với viêm tuyến giáp tự miễn (Hashimoto) và/hoặc ĐTĐ type 1."
+    },
+    {
+      "q": "Tiên lượng về tuổi thọ của bệnh nhân suy thượng thận tiên phát nếu được chẩn đoán sớm và điều trị thay thế hormone đầy đủ là:",
+      "options": [
+        "Giảm thọ khoảng 20 năm so với người bình thường",
+        "Tử vong trong vòng 5 năm do suy thận",
+        "Thường dẫn đến ung thư tuyến thượng thận",
+        "Gần như người bình thường, trừ khi xảy ra cơn suy cấp không được cấp cứu"
+      ],
+      "answer": 3,
+      "explain": "Với điều trị thay thế Glucocorticoid và Mineralocorticoid đầy đủ, tuân thủ nguyên tắc tăng liều khi ốm đau, tuổi thọ bệnh nhân được bảo tồn tương đương người bình thường."
+    }
+  ]
+}
