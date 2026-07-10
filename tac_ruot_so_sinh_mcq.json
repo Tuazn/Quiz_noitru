@@ -1,0 +1,560 @@
+{
+  "name": "Tắc ruột sơ sinh MCQ",
+  "description": "MCQ câu hỏi trắc nghiệm toàn diện về sinh lý, bệnh học, chẩn đoán, cận lâm sàng và xử trí các bệnh lý tắc ruột sơ sinh. Bao gồm các vấn đề: sinh lý tiêu phân su, tiền sản khám, phân loại tắc ruột, các bệnh lý cụ thể (teo tá tràng, xoắn ruột, Hirschsprung, NEC, v.v.), hình ảnh X-quang/siêu âm, phẫu thuật và biến chứng.",
+  "level": "Nhi khoa - Ôn tập toàn diện",
+  "type": "mcq",
+  "category": "Nhi",
+  "subcategory": "Ngoại",
+  "questions": [
+    {
+      "q": "Theo sinh lý bình thường, phần lớn trẻ sơ sinh đủ tháng sẽ đào thải phân su muộn nhất trong khoảng thời gian nào sau sinh?",
+      "options": [
+        "Trong vòng 12 giờ đầu",
+        "Trong vòng 24 giờ đầu",
+        "Trong vòng 48 giờ đầu",
+        "Trong vòng 72 giờ đầu"
+      ],
+      "answer": 2,
+      "explain": "Hơn 90% trẻ ỉa phân su trong 24h đầu, nhưng mốc 48 giờ được xem là giới hạn muộn nhất của sinh lý bình thường. Sau 48h được coi là chậm ỉa phân su."
+    },
+    {
+      "q": "Trong chẩn đoán tiền sản, dấu hiệu siêu âm thai nào mang tính gợi ý cao nhất cho các bệnh lý tắc ruột cao ở thai nhi?",
+      "options": [
+        "Mẹ thiểu ối",
+        "Mẹ đa ối",
+        "Nhau thai bám thấp",
+        "Dây rốn quấn cổ"
+      ],
+      "answer": 1,
+      "explain": "Tắc ruột cao (như teo tá tràng) cản trở thai nhi nuốt và hấp thu nước ối, dẫn đến tình trạng đa ối ở người mẹ. Đây là dấu hiệu sàng lọc quan trọng."
+    },
+    {
+      "q": "Mốc giải phẫu nào được sử dụng phổ biến nhất trên lâm sàng để phân chia tắc ruột cao và tắc ruột thấp ở trẻ sơ sinh?",
+      "options": [
+        "Góc Treitz",
+        "Bóng Vater",
+        "Van Bauhin",
+        "Đại tràng góc lách"
+      ],
+      "answer": 0,
+      "explain": "Góc Treitz (góc tá - hỗng tràng) là mốc phân chia kinh điển. Tắc trên góc Treitz là tắc cao, dưới góc Treitz là tắc thấp."
+    },
+    {
+      "q": "Bệnh lý nào sau đây được phân loại là nguyên nhân gây tắc ruột sơ sinh cơ năng (chức năng)?",
+      "options": [
+        "Teo hồi tràng bẩm sinh",
+        "Ruột xoay bất toàn",
+        "Bệnh vô hạch đại tràng bẩm sinh",
+        "Tắc ruột phân su"
+      ],
+      "answer": 2,
+      "explain": "Bệnh vô hạch đại tràng (Hirschsprung) gây tắc ruột do rối loạn nhu động tại đoạn ruột không có tế bào thần kinh, lòng ruột không bị tắc nghẽn cơ học."
+    },
+    {
+      "q": "Teo tá tràng bẩm sinh ở trẻ sơ sinh có tỷ lệ đồng mắc cao nhất với hội chứng nào?",
+      "options": [
+        "Hội chứng Edwards",
+        "Hội chứng Patau",
+        "Hội chứng Turner",
+        "Hội chứng Down"
+      ],
+      "answer": 3,
+      "explain": "Khoảng 30% trẻ teo tá tràng bẩm sinh có kèm theo hội chứng Down (Trisomy 21). Cần thăm khám kỹ các dị tật tim mạch đi kèm."
+    },
+    {
+      "q": "Nguyên nhân gây tắc ruột cơ học ở vị trí ruột non thường gặp nhất ở trẻ sơ sinh là gì?",
+      "options": [
+        "Lồng ruột sơ sinh",
+        "Teo ruột non (hỗng - hồi tràng)",
+        "Thoát vị bẹn nghẹt",
+        "Khối u mạc treo"
+      ],
+      "answer": 1,
+      "explain": "Teo ruột non bẩm sinh là nguyên nhân cơ học hàng đầu gây tắc ruột sơ sinh đoạn ruột giữa. Lồng ruột cấp tính thường gặp ở trẻ nhũ nhi hơn."
+    },
+    {
+      "q": "Cơ chế bệnh sinh chính gây ra teo ruột non (hỗng tràng và hồi tràng) bẩm sinh là gì?",
+      "options": [
+        "Rối loạn quá trình không bào hóa lòng ruột",
+        "Tai biến mạch máu mạc treo thời kỳ bào thai",
+        "Sự di trú thất bại của tế bào mào thần kinh",
+        "Sự bất thường của vách niệu - trực tràng"
+      ],
+      "answer": 1,
+      "explain": "Teo hỗng - hồi tràng chủ yếu do nhồi máu mạc treo ruột trong bụng mẹ (do xoắn ruột, lồng ruột thai nhi...). Đây là bẫy kinh điển cần phân biệt với cơ chế teo tá tràng."
+    },
+    {
+      "q": "Cơ chế bệnh sinh gây ra teo tá tràng bẩm sinh khác biệt với teo ruột non ở điểm nào?",
+      "options": [
+        "Do rối loạn quá trình rỗng hóa (không bào hóa)",
+        "Do thiếu máu cục bộ mạc treo tràng trên",
+        "Do chèn ép từ dây chằng Treitz",
+        "Do đột biến gen tổng hợp màng nhầy"
+      ],
+      "answer": 0,
+      "explain": "Trong phôi thai học, lòng tá tràng bị đặc do tế bào biểu mô, sau đó rỗng hóa (không bào hóa) để tạo thành ống. Thất bại trong bước này gây teo tá tràng."
+    },
+    {
+      "q": "Bệnh sinh của bệnh vô hạch đại tràng bẩm sinh (Hirschsprung) là do sự vắng mặt của cấu trúc nào tại thành ruột?",
+      "options": [
+        "Lớp cơ dọc và cơ vòng",
+        "Đám rối thần kinh Auerbach và Meissner",
+        "Các tế bào tiết chất nhầy",
+        "Hệ thống mạch máu dưới niêm mạc"
+      ],
+      "answer": 1,
+      "explain": "Sự vắng mặt đám rối thần kinh tự chủ Meissner (dưới niêm mạc) và Auerbach (giữa lớp cơ) do tế bào mào thần kinh di trú không hoàn toàn gây liệt nhu động."
+    },
+    {
+      "q": "Trong bệnh lý ruột xoay bất toàn, nguyên nhân gốc rễ làm tăng nguy cơ biến chứng xoắn ruột giữa là gì?",
+      "options": [
+        "Sự dính bất thường của dải Ladd",
+        "Manh tràng nằm ở vị trí dưới gan phải",
+        "Rễ mạc treo ruột non rất ngắn và hẹp",
+        "Dây chằng Treitz quá co thắt"
+      ],
+      "answer": 2,
+      "explain": "Ruột xoay không hoàn toàn làm rễ mạc treo không bám chéo rộng, thu hẹp lại thành một cuống nhỏ, khiến toàn bộ ruột giữa dễ xoắn quanh trục mạch máu."
+    },
+    {
+      "q": "Bệnh lý tắc ruột phân su (Meconium ileus) ở trẻ sơ sinh có liên quan chặt chẽ đến bệnh nền nào?",
+      "options": [
+        "Bệnh xơ nang (Cystic fibrosis)",
+        "Bệnh đa nang thận bẩm sinh",
+        "Bệnh Hemophilia",
+        "Hội chứng Marfan"
+      ],
+      "answer": 0,
+      "explain": "Hơn 90% trẻ tắc ruột phân su có bệnh xơ nang (đột biến gen CFTR), làm dịch tiết đường tiêu hóa quá đặc quánh, phân su dính chặt gây tắc ruột."
+    },
+    {
+      "q": "Đặc điểm giải phẫu của tổn thương teo ruột type IIIa theo phân loại kinh điển là gì?",
+      "options": [
+        "Lòng ruột có màng ngăn có lỗ thông",
+        "Hai đầu ruột được nối bằng dải xơ",
+        "Hai đầu ruột teo tịt tách rời, mạc treo khuyết hình chữ V",
+        "Đoạn teo cuộn lại quanh trục mạc treo"
+      ],
+      "answer": 2,
+      "explain": "Type IIIa là hai đầu mù xa nhau, kèm khuyết chữ V ở mạc treo. Đây là type thường gặp, nguy cơ thiếu chiều dài ruột khi phẫu thuật."
+    },
+    {
+      "q": "Cơ chế chính gây tắc nghẽn tá tràng trong bệnh cảnh ruột xoay bất toàn (khi chưa có xoắn) là gì?",
+      "options": [
+        "Tắc do nút phân su",
+        "Chèn ép từ dải Ladd",
+        "Hẹp phì đại cơ môn tá tràng",
+        "Dây chằng mạc treo chèn ngang"
+      ],
+      "answer": 1,
+      "explain": "Dải Ladd đi từ manh tràng (nằm sai chỗ) vắt ngang qua và chèn ép vào phần D2-D3 của tá tràng gây tắc nghẽn."
+    },
+    {
+      "q": "Dị dạng hậu môn trực tràng là hậu quả của sự gián đoạn trong quá trình phôi thai học nào?",
+      "options": [
+        "Quá trình xoay của ruột giữa",
+        "Quá trình không bào hóa trực tràng",
+        "Quá trình phát triển và phân chia của vách niệu - trực tràng",
+        "Quá trình đóng của ống rốn ruột"
+      ],
+      "answer": 2,
+      "explain": "Vách niệu trực tràng đi xuống chia ổ nhớp thành xoang niệu sinh dục phía trước và trực tràng phía sau. Bất thường gây các hình thái dị dạng."
+    },
+    {
+      "q": "Bộ ba triệu chứng lâm sàng kinh điển nhất gợi ý tình trạng tắc ruột sơ sinh là gì?",
+      "options": [
+        "Sốt cao, nôn ra máu, ỉa phân lỏng",
+        "Bú kém, vàng da, khóc thét",
+        "Nôn dịch mật, chướng bụng, chậm ỉa phân su",
+        "Suy hô hấp, nôn bọt cua, bụng xẹp"
+      ],
+      "answer": 2,
+      "explain": "Nôn (đặc biệt dịch xanh/vàng), bụng chướng và chậm/không ỉa phân su trong 24-48h đầu là 'tam chứng' bắt buộc phải nghĩ tới tắc ruột."
+    },
+    {
+      "q": "Dấu hiệu lâm sàng giúp phân biệt rõ nhất giữa nôn do tắc tá tràng dưới bóng Vater và nôn do hẹp phì đại cơ môn vị là gì?",
+      "options": [
+        "Tần suất nôn",
+        "Màu sắc dịch nôn có chứa dịch mật",
+        "Số lượng dịch nôn",
+        "Thời điểm bắt đầu nôn"
+      ],
+      "answer": 1,
+      "explain": "Tắc dưới bóng Vater chắc chắn nôn dịch mật. Hẹp phì đại môn vị nằm trên bóng Vater nên chỉ nôn sữa cũ, KHÔNG bao giờ có dịch mật."
+    },
+    {
+      "q": "Trẻ sơ sinh nôn liên tục ra bọt (bọt cua) ngay sau sinh, nôn sặc khi bú. Chẩn đoán lâm sàng sơ bộ cần nghĩ tới hàng đầu là gì?",
+      "options": [
+        "Teo thực quản bẩm sinh",
+        "Teo tá tràng bẩm sinh",
+        "Bệnh vô hạch đại tràng",
+        "Tắc ruột phân su"
+      ],
+      "answer": 0,
+      "explain": "Nôn bọt cua do nước bọt không nuốt xuống dạ dày, sặc ngay khi bú là bệnh cảnh điển hình của teo thực quản."
+    },
+    {
+      "q": "Trong teo hồi tràng bẩm sinh (tắc ruột thấp), đặc điểm chướng bụng thường thể hiện như thế nào?",
+      "options": [
+        "Chỉ chướng ở thượng vị",
+        "Chướng khu trú ở hố chậu phải",
+        "Bụng chướng căng toàn bộ, da thành bóng láng, tuần hoàn bàng hệ nổi",
+        "Bụng hoàn toàn xẹp"
+      ],
+      "answer": 2,
+      "explain": "Tắc càng thấp, bụng chướng càng nhiều và toàn bộ. Bụng chướng căng, bóng láng do quai ruột non phía trên chỗ tắc giãn to."
+    },
+    {
+      "q": "Triệu chứng 'dấu hiệu tháo cống' khi thăm khám trực tràng là đặc trưng của bệnh lý nào?",
+      "options": [
+        "Lồng ruột sơ sinh",
+        "Bệnh vô hạch đại tràng (Hirschsprung)",
+        "Teo tịt trực tràng",
+        "Ruột xoay bất toàn"
+      ],
+      "answer": 1,
+      "explain": "Kích thích qua đoạn trực tràng vô hạch bị co thắt sẽ giúp phân và hơi ứ đọng thoát ra ồ ạt. Đây là dấu hiệu lâm sàng rất giá trị."
+    },
+    {
+      "q": "Trẻ sơ sinh có bụng xẹp lép kèm suy hô hấp tím tái nguy hiểm ngay sau sinh. Bệnh lý nào cần nghĩ đến?",
+      "options": [
+        "Ruột xoay bất toàn",
+        "Thoát vị hoành bẩm sinh",
+        "Tắc ruột phân su",
+        "Hẹp tá tràng"
+      ],
+      "answer": 1,
+      "explain": "Thoát vị hoành làm ruột chui lên lồng ngực gây suy hô hấp do chèn ép phổi và bụng xẹp lép (bụng hình thuyền)."
+    },
+    {
+      "q": "Đặc điểm nào gợi ý hội chứng nút phân su (Meconium plug syndrome)?",
+      "options": [
+        "Trẻ nôn dịch mật và tự khỏi sau thụt tháo",
+        "Trẻ có khối lồng sờ thấy ở hố chậu phải",
+        "Tắc ruột kéo dài đòi cắt ruột",
+        "Trẻ có đa ối và nôn máu"
+      ],
+      "answer": 0,
+      "explain": "Hội chứng nút phân su là tắc nghẽn cơ năng tạm thời do phân đặc. Thụt tháo đại tràng thường giải quyết triệt để."
+    },
+    {
+      "q": "Dấu hiệu lâm sàng nào gợi ý ruột xoay bất toàn đã xảy ra xoắn ruột giữa hoại tử?",
+      "options": [
+        "Nôn trớ sữa nhẹ",
+        "Ỉa phân máu kèm sốc, bụng nề đỏ",
+        "Nôn dịch dạ dày trong suốt",
+        "Vàng da sinh lý"
+      ],
+      "answer": 1,
+      "explain": "Ỉa phân máu, bụng nề đỏ, sốc nhiễm độc là dấu hiệu ruột giữa bị nghẹt mạch, nhồi máu tiến triển đến hoại tử. Đây là tối cấp cứu."
+    },
+    {
+      "q": "Khám thấy không có lỗ hậu môn, có phân su rò ở đường giữa bìu. Chẩn đoán hình thái dị dạng là gì?",
+      "options": [
+        "Thể cao, có rò bàng quang",
+        "Thể thấp, có rò tầng sinh môn",
+        "Thể trung gian",
+        "Tồn tại ổ nhớp"
+      ],
+      "answer": 1,
+      "explain": "Rò phân su ra da ở tầng sinh môn là dấu chứng của dị dạng hậu môn trực tràng thể thấp. Tiên lượng chức năng tốt."
+    },
+    {
+      "q": "Trẻ sinh non 30 tuần, ngày 4 ăn sữa kém, nôn bẩn, bụng chướng nề đỏ, ỉa máu. Chẩn đoán hàng đầu?",
+      "options": [
+        "Teo tá tràng",
+        "Viêm ruột hoại tử sơ sinh (NEC)",
+        "Bệnh Hirschsprung",
+        "Dị dạng hậu môn"
+      ],
+      "answer": 1,
+      "explain": "Bệnh cảnh sinh non, ăn sữa nhân tạo, khởi phát ngày 3-5 với bụng chướng, ban đỏ và tiêu máu là điển hình của NEC."
+    },
+    {
+      "q": "Biểu hiện quấy khóc trong tắc ruột do xoắn ở trẻ sơ sinh có đặc điểm gì?",
+      "options": [
+        "Khóc liên tục không ngừng",
+        "Khóc thét từng cơn, vã mồ hôi, co đùi lên bụng",
+        "Khóc yếu ớt lịm dần",
+        "Khóc kèm sốt cao"
+      ],
+      "answer": 1,
+      "explain": "Đau bụng do tắc nghẽn và xoắn biểu hiện bằng những cơn khóc thét dữ dội, đau quặn do nhu động ruột cố gắng vượt qua chỗ tắc."
+    },
+    {
+      "q": "Hẹp phì đại cơ môn vị KHÔNG có đặc điểm lâm sàng nào?",
+      "options": [
+        "Khởi phát nôn ngay từ ngày đầu",
+        "Nôn vọt, lượng nhiều",
+        "Dịch nôn không có dịch mật",
+        "Sờ thấy khối ô liu"
+      ],
+      "answer": 0,
+      "explain": "Cơ môn vị phì đại tăng dần, nên trẻ bình thường 1-2 tuần đầu, sau đó mới bắt đầu nôn từ tuần 2-4. Không khởi phát nôn ngay."
+    },
+    {
+      "q": "Hình ảnh X-quang bụng kinh điển có giá trị chẩn đoán teo tá tràng là gì?",
+      "options": [
+        "Bọt xà phòng (Neuhauser sign)",
+        "Nhiều mức nước - mức hơi",
+        "Bóng đôi (Double bubble) và không hơi phía dưới",
+        "Vòm hoành đẩy lên cao"
+      ],
+      "answer": 2,
+      "explain": "Bóng đôi từ dạ dày và tá tràng giãn. Hoàn toàn không hơi phía dưới là dấu chắc chắn của tắc tá tràng hoàn toàn."
+    },
+    {
+      "q": "Sự khác biệt trên X-quang giữa tắc ruột cao và thấp là gì?",
+      "options": [
+        "Cao nhiều, thấp ít",
+        "Cao 1-2 mức lớn, thấp nhiều mức nhỏ rải rác",
+        "Cao luôn có hơi trực tràng",
+        "Không khác biệt"
+      ],
+      "answer": 1,
+      "explain": "Tắc cao tạo 1-2 bóng lớn. Tắc thấp tạo nhiều mức nước-hơi hình bậc thang."
+    },
+    {
+      "q": "Tiêu chuẩn vàng chẩn đoán Hirschsprung là gì?",
+      "options": [
+        "Chụp đại tràng cản quang",
+        "Đo áp lực hậu môn",
+        "Sinh thiết trực tràng hút",
+        "Siêu âm"
+      ],
+      "answer": 2,
+      "explain": "Chỉ sinh thiết phát hiện sự vắng mặt tế bào hạch là tiêu chuẩn chẩn đoán xác định."
+    },
+    {
+      "q": "Dấu hiệu siêu âm Doppler gợi ý xoắn ruột giữa là gì?",
+      "options": [
+        "Dấu hiệu bia đạn",
+        "Dấu hiệu vòng xoáy (Whirlpool sign)",
+        "Dấu hiệu hình củ hành",
+        "Dấu hiệu giả thận"
+      ],
+      "answer": 1,
+      "explain": "Dấu hiệu Whirlpool do tĩnh mạch xoắn quanh động mạch là dấu kinh điển của xoắn ruột giữa."
+    },
+    {
+      "q": "Tiêu chuẩn chẩn đoán ruột xoay bất toàn trên phim lưu thông ruột là gì?",
+      "options": [
+        "Góc Treitz nằm sai vị trí, lệch phải",
+        "Dạ dày hình quả táo",
+        "Manh tràng ở hố chậu phải",
+        "Cản quang không qua môn vị"
+      ],
+      "answer": 0,
+      "explain": "Góc Treitz bình thường nằm bên trái cột sống. Khi nằm bên phải là bằng chứng ruột xoay bất toàn."
+    },
+    {
+      "q": "Hình ảnh X-quang đại tràng cản quang điển hình của Hirschsprung gồm gì?",
+      "options": [
+        "Đại tràng giãn toàn bộ",
+        "Trực tràng teo, không thuốc",
+        "Trực tràng hẹp, chuyển tiếp phễu, đại tràng giãn to",
+        "Ổ đọng thuốc lồi ra"
+      ],
+      "answer": 2,
+      "explain": "Đoạn vô hạch co thắt hẹp, phía trên ứ đọng giãn to, giữa là vùng chuyển tiếp phễu."
+    },
+    {
+      "q": "Dấu hiệu X-quang điển hình của tắc ruột phân su ở hố chậu phải là gì?",
+      "options": [
+        "Mức nước hơi kinh điển",
+        "Bọt xà phòng (Neuhauser sign)",
+        "Liềm hơi dưới cơ hoành",
+        "Vôi hóa gan"
+      ],
+      "answer": 1,
+      "explain": "Dấu hiệu Neuhauser (bọt xà phòng) do khí trộn lẫn phân su đặc ở hồi tràng."
+    },
+    {
+      "q": "Tiêu chuẩn kích thước siêu âm chẩn đoán hẹp phì đại cơ môn vị là bao nhiêu?",
+      "options": [
+        "Dày >2mm, dài >10mm",
+        "Dày >4mm, dài >16mm",
+        "Dày >8mm, dài >20mm",
+        "Dày >10mm, dài >25mm"
+      ],
+      "answer": 1,
+      "explain": "Bề dày ≥4mm và chiều dài ≥16mm (quy tắc 4 và 16) là ngưỡng tiêu chuẩn."
+    },
+    {
+      "q": "Microcolon KHÔNG bao giờ xuất hiện trong bệnh lý nào?",
+      "options": [
+        "Teo hồi tràng",
+        "Hirschsprung",
+        "Tắc ruột phân su",
+        "Teo đại tràng"
+      ],
+      "answer": 1,
+      "explain": "Microcolon do đại tràng không được sử dụng. Trong Hirschsprung, ruột thông nên đại tràng bình thường."
+    },
+    {
+      "q": "Mục đích chụp Invertogram sau 24 giờ trong dị dạng hậu môn là gì?",
+      "options": [
+        "Xác định rò niệu",
+        "Đo khoảng cách từ bóng hơi đến da phân loại cao/thấp",
+        "Đánh giá nhu động",
+        "Chẩn đoán dị tật tim"
+      ],
+      "answer": 1,
+      "explain": "Cần 18-24h để hơi xuống hết. Đo khoảng cách quyết định phương pháp phẫu thuật."
+    },
+    {
+      "q": "Bước xử trí cấp cứu ban đầu QUAN TRỌNG NHẤT cho tắc ruột sơ sinh là gì?",
+      "options": [
+        "Cho thuốc nhuận tràng",
+        "Thụt tháo đại tràng",
+        "Đặt NG tube, nhịn ăn, truyền dịch tĩnh mạch",
+        "Mổ cấp cứu"
+      ],
+      "answer": 2,
+      "explain": "NG tube để chống trào ngược hít sặc, nhịn ăn, bù dịch là nguyên tắc bất di bất dịch."
+    },
+    {
+      "q": "Phương pháp phẫu thuật kinh điển điều trị teo tá tràng là gì?",
+      "options": [
+        "Cắt bỏ và nối tận",
+        "Nối vị-tràng",
+        "Nối tá-tá hình kim cương",
+        "Đưa tá tràng ra da"
+      ],
+      "answer": 2,
+      "explain": "Nối tá-tá kiểu kim cương (Kimura) tạo miệng nối rộng, đảm bảo lưu thông sinh lý."
+    },
+    {
+      "q": "Phẫu thuật Ladd KHÔNG bao gồm thao tác nào?",
+      "options": [
+        "Tháo xoắn",
+        "Cắt dải Ladd",
+        "Cắt ruột thừa",
+        "Cố định manh tràng"
+      ],
+      "answer": 3,
+      "explain": "Phẫu thuật Ladd KHÔNG cố định lại ruột. Chỉ mở rộng mạc treo và sắp xếp ruột."
+    },
+    {
+      "q": "Lựa chọn điều trị khởi đầu cho tắc ruột phân su chưa biến chứng là gì?",
+      "options": [
+        "Mở thông hồi tràng ra da",
+        "Thụt Gastrografin ưu trương",
+        "Bơm rửa dạ dày",
+        "Cắt đại tràng"
+      ],
+      "answer": 1,
+      "explain": "Gastrografin kéo nước vào, phá khối phân, giúp tống xuất. Thành công 60-70%."
+    },
+    {
+      "q": "Chỉ định làm hậu môn/ruột nhân tạo được ưu tiên trong hoàn cảnh nào?",
+      "options": [
+        "Teo tá tràng",
+        "NEC thủng, viêm phúc mạc nhiễm độc",
+        "Hẹp môn vị",
+        "Tắc do dây chằng"
+      ],
+      "answer": 1,
+      "explain": "Khi sốc nhiễm độc, viêm phúc mạc bẩn, thành ruột nát, khâu nối sẽ thất bại. Ostomy cứu mạng."
+    },
+    {
+      "q": "Nguyên tắc phẫu thuật triệt để Hirschsprung là gì?",
+      "options": [
+        "Nong hậu môn định kỳ",
+        "Cắt đoạn vô hạch, hạ ruột lành xuống",
+        "Cắt cơ thắt",
+        "Đảo ngược đoạn"
+      ],
+      "answer": 1,
+      "explain": "Cắt bỏ đoạn vô hạch, hạ ruột lành có nhu động xuống là nguyên tắc các phẫu thuật Soave, Duhamel."
+    },
+    {
+      "q": "Chống chỉ định tuyệt đối của thụt Gastrografin là gì?",
+      "options": [
+        "Bụng chướng nhẹ",
+        "Chưa ỉa phân su 24h",
+        "Có liềm hơi dưới hoành (nghi thủng)",
+        "Nôn dịch vàng"
+      ],
+      "answer": 2,
+      "explain": "Liềm hơi là thủng tạng. Thụt với áp lực sẽ bơm vào ổ phúc mạc gây sốc nhiễm độc."
+    },
+    {
+      "q": "Trong teo ruột non type IIIa, vấn đề khó khăn khi khâu nối là gì?",
+      "options": [
+        "Khó tìm đầu dưới",
+        "Chênh lệch khẩu kính lớn giữa trên/dưới",
+        "Mạch máu dính",
+        "Ruột nhiều mủ"
+      ],
+      "answer": 1,
+      "explain": "Đầu trên phình to, đầu dưới xẹp, khiến nối thẳng bất khả thi. Phải xén vát và khâu chéo."
+    },
+    {
+      "q": "Dị dạng hậu môn thể cao, chụp Invertogram túi cùng cao, thái độ xử trí là gì?",
+      "options": [
+        "Tạo hình mổ tầng sinh môn 1 thì",
+        "Nong tầng sinh môn",
+        "Làm ostomy, tạo hình sau",
+        "Thụt tháo chờ"
+      ],
+      "answer": 2,
+      "explain": "Thể cao không thể mổ 1 thì từ dưới an toàn. Bắt buộc ostomy trước, tạo hình lúc 3-6 tháng."
+    },
+    {
+      "q": "Mổ xoắn ruột, thấy ruột tím đen, thái độ chuẩn mực là gì?",
+      "options": [
+        "Cắt bỏ ngay",
+        "Tháo xoắn, chờ, second look sau 24-48h",
+        "Ostomy vĩnh viễn",
+        "Đóng bụng không can thiệp"
+      ],
+      "answer": 1,
+      "explain": "Không cắt ngay vì sẽ gây ruột ngắn tử vong. Tháo xoắn, hồi sức, second look bảo tồn ruột."
+    },
+    {
+      "q": "Biến chứng lâu dài đe dọa sinh mạng từ cắt ruột quá dài do hoại tử là gì?",
+      "options": [
+        "Viêm loét dạ dày",
+        "Hội chứng ruột ngắn - suy dinh dưỡng",
+        "Trào ngược dạ dày",
+        "Rò miệng nối"
+      ],
+      "answer": 1,
+      "explain": "Mất diện tích hấp thu, suy dinh dưỡng mạn, phụ thuộc TPN toàn bộ là biến chứng nan giải."
+    },
+    {
+      "q": "Hình thái teo ruột non nào tiên lượng xấu nhất?",
+      "options": [
+        "Type I",
+        "Type II",
+        "Type IIIb (vỏ táo)",
+        "Type IV"
+      ],
+      "answer": 2,
+      "explain": "Type IIIb có khuyết mạc treo rộng, ruột cuộn hình vỏ táo. Nguy cơ thiếu chiều dài, tiên lượng rất dè dặt."
+    },
+    {
+      "q": "Nguyên nhân tử vong hàng đầu ở Hirschsprung ĐÃ phẫu thuật là gì?",
+      "options": [
+        "Táo bón nhẹ",
+        "Són phân",
+        "Viêm ruột non đại tràng (HAEC)",
+        "Sa trực tràng"
+      ],
+      "answer": 2,
+      "explain": "HAEC có thể bùng phát bất cứ lúc nào (cả nhiều năm sau mổ) với sốc nhiễm trùng nguy hiểm."
+    },
+    {
+      "q": "Bệnh lý nào được đánh giá là 'tối cấp cứu' ngoại khoa?",
+      "options": [
+        "Tắc ruột phân su",
+        "Xoắn ruột giữa",
+        "Hirschsprung chậm ỉa",
+        "Dị dạng hậu môn thấp"
+      ],
+      "answer": 1,
+      "explain": "Xoắn cắt đứt nguồn máu toàn bộ ruột non. Chậm trễ → hoại tử toàn bộ → tử vong ngay lập tức."
+    }
+  ]
+}
