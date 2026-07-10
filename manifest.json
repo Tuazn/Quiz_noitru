@@ -470,6 +470,13 @@
       "subcategory": "Tiêu hóa"
     },
     {
+      "name": "Nhiễm khuẩn tiết niệu_Up",
+      "url": "nhiem_khuan_tiet_nieu_up.json",
+      "type": "cases",
+      "category": "Nội",
+      "subcategory": "Thận tiết niệu"
+    },
+    {
       "name": "Nhiễm khuẩn tiết niệu",
       "url": "nhiem_khuan_tiet_nieu.json",
       "type": "cases",
@@ -790,13 +797,6 @@
       "type": "mcq",
       "category": "Nội",
       "subcategory": "Nội tiết"
-    },
-    {
-      "name": "Nhiễm khuẩn tiết niệu Up",
-      "url": "nhiem_khuan_tiet_nieu_up.json",
-      "type": "cases",
-      "category": "Nội",
-      "subcategory": "Thận tiết niệu"
     },
     {
       "name": "Hội chứng Cushing Up",
@@ -1174,7 +1174,42 @@
       "url": "phoi.json",
       "type": "mcq",
       "category": "Cơ sở",
-      "subcategory": "GP Cơ Xương Khớp"
+      "subcategory": "GP Hô hấp"
+    },
+    {
+      "name": "Trung thất (chung)",
+      "url": "trung_that_chung.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Hô hấp"
+    },
+    {
+      "name": "Thận",
+      "url": "than.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "Tiết niệu"
+    },
+    {
+      "name": "Niệu quản",
+      "url": "nieu_quan.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "Tiết niệu"
+    },
+    {
+      "name": "Bàng quang",
+      "url": "bang_quang.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "Tiết niệu"
+    },
+    {
+      "name": "Niệu đạo",
+      "url": "nieu_dao.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "Tiết niệu"
     }
   ]
 }
