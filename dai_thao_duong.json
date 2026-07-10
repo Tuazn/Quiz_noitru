@@ -1,0 +1,620 @@
+{
+  "name": "Đái tháo đường",
+  "description": "10 tình huống lâm sàng chi tiết về đái tháo đường bao gồm DKA, HHS, tiền ĐTĐ, biến chứng thận, thần kinh, loét chân, tim mạch, thai kỳ, hạ đường huyết, và võng mạc. Mỗi ca bệnh có 5 câu hỏi đa dạng về chẩn đoán, bệnh sinh, điều trị và phòng ngừa.",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Nội tiết",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 18 tuổi, lơ mơ, khát nước, tiểu nhiều",
+      "body": "<b>Bệnh nhân nữ, 18 tuổi, sinh viên</b>, được bạn cùng phòng đưa vào cấp cứu vì lơ mơ. Theo lời kể, khoảng 2 tuần nay bệnh nhân than mệt mỏi nhiều, sụt khoảng 5kg mặc dù ăn uống nhiều hơn bình thường, hay khát nước và đi tiểu rất nhiều lần cả ngày lẫn đêm. Vài ngày nay, bệnh nhân bắt đầu đau bụng, buồn nôn và nôn nhiều. <br><b>Sáng nay</b>, bạn cùng phòng thấy bệnh nhân thở nhanh và sâu, hơi thở có mùi lạ như trái cây chín, gọi hỏi đáp ứng chậm nên đưa vào viện. <br><b>Tiền sử:</b> Không ai trong gia đình bị đái tháo đường. <br><b>Khám lâm sàng:</b> GCS 13 điểm, da niêm mạc khô, môi khô, lưỡi bẩn. Sinh hiệu: mạch 125 lần/phút, HA 95/60 mmHg, nhịp thở 30 lần/phút, kiểu thở Kussmaul, nhiệt độ 37.5°C, SpO₂ 98% khí trời, BMI 19 kg/m². Bụng mềm, ấn đau lan tỏa. Tim nhịp nhanh đều, phổi thông khí rõ. <br><b>Cận lâm sàng:</b> Glucose máu mao mạch 32.5 mmol/L. Khí máu động mạch: pH 7.15, PaCO₂ 20 mmHg, HCO₃⁻ 8 mmol/L. Na⁺ 130 mmol/L, K⁺ 5.8 mmol/L. Urê 8.2 mmol/L, Creatinin 110 µmol/L. Ceton niệu 3+, ceton máu 4.5 mmol/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào là phù hợp nhất với tình trạng của bệnh nhân?",
+          "options": [
+            "Tăng đường huyết do stress",
+            "Nhiễm toan ceton do đái tháo đường (DKA)",
+            "Tăng áp lực thẩm thấu do tăng đường huyết (HHS)",
+            "Nhiễm toan lactic"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh một người trẻ tuổi có tam chứng kinh điển ĐTĐ (ăn nhiều, uống nhiều, tiểu nhiều, sụt cân), diễn tiến đến rối loạn tri giác, thở nhanh sâu, và các xét nghiệm cho thấy tăng đường huyết rất cao, nhiễm toan chuyển hóa (pH thấp, HCO3 thấp) và ceton dương tính là điển hình của Nhiễm toan ceton do ĐTĐ, rất có thể là ĐTĐ type 1 mới khởi phát. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Cơ chế chính gây ra tình trạng nhiễm toan chuyển hóa ở bệnh nhân này là gì?",
+          "options": [
+            "Tăng sản xuất acid lactic do giảm tưới máu mô",
+            "Thiếu hụt insulin tuyệt đối dẫn đến ly giải mỡ, tạo ra các thể ceton có tính acid",
+            "Suy thận cấp gây ứ đọng các sản phẩm chuyển hóa có tính acid",
+            "Mất bicarbonate qua đường tiêu hóa do nôn ói"
+          ],
+          "answer": 1,
+          "explain": "Trong ĐTĐ type 1, cơ thể không sản xuất được insulin. Thiếu insulin tuyệt đối làm tế bào không sử dụng được glucose, đồng thời kích hoạt quá trình ly giải mỡ một cách không kiểm soát tại mô mỡ, giải phóng các acid béo tự do. Các acid béo này được gan chuyển hóa thành các thể ceton (acetoacetic acid, beta-hydroxybutyric acid), vốn là các acid mạnh, gây ra tình trạng nhiễm toan chuyển hóa. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Can thiệp ban đầu nào là quan trọng nhất và cần thực hiện ngay lập tức?",
+          "options": [
+            "Tiêm tĩnh mạch bolus Insulin ngay lập tức",
+            "Truyền tĩnh mạch Natri Bicarbonate để điều chỉnh toan máu",
+            "Bù dịch tích cực bằng dung dịch NaCl 0.9%",
+            "Cho thuốc hạ kali máu"
+          ],
+          "answer": 2,
+          "explain": "Bù dịch (truyền nước muối sinh lý) là ưu tiên số một để phục hồi thể tích tuần hoàn, cải thiện tưới máu thận, giúp thải glucose và ceton, đồng thời ngăn ngừa trụy mạch trước khi truyền insulin. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Nồng độ Kali máu ban đầu là 5.8 mmol/L, nhưng tại sao bệnh nhân này thực chất lại bị thiếu hụt Kali toàn cơ thể?",
+          "options": [
+            "Do Kali từ nội bào di chuyển ra ngoại bào trong môi trường toan máu và thiếu insulin",
+            "Do thận tăng thải trừ Kali",
+            "Do mất Kali qua đường tiêu hóa",
+            "Do Kali bị pha loãng trong máu"
+          ],
+          "answer": 0,
+          "explain": "Mặc dù Kali máu ban đầu cao, tổng lượng Kali toàn cơ thể bị thiếu hụt do tình trạng toan máu và thiếu insulin gây ra sự dịch chuyển Kali từ bên trong tế bào ra khoảng ngoại bào. Khi bắt đầu điều trị bằng Insulin và điều chỉnh toan, Kali sẽ di chuyển ngược trở lại vào trong tế bào, có thể gây hạ Kali máu nguy hiểm. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Hơi thở có mùi trái cây chín (mùi ceton) ở bệnh nhân này là do sự bay hơi của chất nào qua phổi?",
+          "options": [
+            "Acetoacetate",
+            "Beta-hydroxybutyrate",
+            "Acetone",
+            "Acid lactic"
+          ],
+          "answer": 2,
+          "explain": "Ba thể ceton chính là acetoacetate, beta-hydroxybutyrate và acetone. Acetoacetate có thể tự khử carboxyl thành acetone. Acetone là một chất dễ bay hơi và được đào thải qua phổi, tạo ra mùi đặc trưng trong hơi thở của bệnh nhân DKA. (Nguồn: Bệnh học nội khoa YHN)"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi, lú lẫn, nói khó, mất nước nặng",
+      "body": "<b>Bệnh nhân nam, 72 tuổi</b>, sống một mình, có tiền sử ĐTĐ type 2 được 15 năm và tăng huyết áp. Đang điều trị bằng Metformin và Amlodipine nhưng thường xuyên quên thuốc. <b>Bệnh nhân được hàng xóm phát hiện</b> trong tình trạng lú lẫn, nói khó. Người hàng xóm cho biết mấy ngày nay thấy ông mệt mỏi, uống rất nhiều nước. <br><b>Khám lâm sàng:</b> GCS 12 điểm. Biểu hiện mất nước rất nặng: da khô nhăn nheo, véo da mất rất chậm, niêm mạc miệng khô cong, nhãn cầu trũng sâu. Sinh hiệu: mạch 130 lần/phút (yếu), HA 85/55 mmHg, nhịp thở 20 lần/phút, nhiệt độ 38.2°C. Không có kiểu thở Kussmaul. Phổi thông khí rõ, không có dấu thần kinh khu trú. <br><b>Cận lâm sàng:</b> Glucose máu mao mạch > 55.5 mmol/L (HI). Creatinin 220 µmol/L, Urê 25 mmol/L, Na⁺ 158 mmol/L. Khí máu động mạch: pH 7.36, HCO₃⁻ 23 mmol/L. Ceton niệu âm tính. Áp lực thẩm thấu máu hiệu dụng (ALTT) = 365 mOsm/kg.",
+      "questions": [
+        {
+          "q": "Tình trạng cấp cứu này được chẩn đoán là gì?",
+          "options": [
+            "Nhiễm toan ceton do đái tháo đường (DKA)",
+            "Tăng áp lực thẩm thấu do tăng đường huyết (HHS)",
+            "Tai biến mạch máu não",
+            "Sốc nhiễm trùng"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh một bệnh nhân lớn tuổi, ĐTĐ type 2 có tình trạng tăng đường huyết cực kỳ cao, mất nước nặng, tăng ALTT máu (>320 mOsm/kg), và rối loạn tri giác mà không có nhiễm toan chuyển hóa hay ceton niệu đáng kể là điển hình của HHS. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính nào giúp phân biệt HHS với DKA?",
+          "options": [
+            "Mức độ tăng đường huyết",
+            "Mức độ mất nước",
+            "Sự hiện diện của một lượng insulin nội sinh còn sót lại, đủ để ức chế quá trình tạo ceton",
+            "Tình trạng nhiễm toan chuyển hóa"
+          ],
+          "answer": 2,
+          "explain": "Trong ĐTĐ type 2, mặc dù có tình trạng kháng insulin nặng, các tế bào beta của tụy vẫn có thể sản xuất một lượng nhỏ insulin. Lượng insulin này không đủ để đưa glucose vào tế bào (gây tăng đường huyết) nhưng lại vừa đủ để ức chế quá trình ly giải mỡ, do đó ngăn chặn việc sản xuất các thể ceton. Đây là điểm khác biệt mấu chốt với DKA. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Áp lực thẩm thấu máu hiệu dụng được tính toán theo công thức nào?",
+          "options": [
+            "2xNa⁺ + Glucose (mmol/L)",
+            "2xNa⁺ + Glucose (mmol/L) + Urê (mmol/L)",
+            "Na⁺ + K⁺ + Glucose (mmol/L)",
+            "2x(Na⁺ + K⁺) + Glucose (mmol/L)"
+          ],
+          "answer": 0,
+          "explain": "Áp lực thẩm thấu máu hiệu dụng (effective osmolality) phản ánh áp lực của các chất hòa tan không thể tự do đi qua màng tế bào và có khả năng kéo nước. Urê có thể khuếch tán tự do qua màng nên không được tính vào ALTT hiệu dụng. Công thức tính nhanh phổ biến nhất là: 2 x Na⁺ (mmol/L) + Glucose (mmol/L). (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Biến chứng nguy hiểm nhất có thể xảy ra trong quá trình điều trị nếu điều chỉnh tình trạng tăng ALTT quá nhanh là gì?",
+          "options": [
+            "Phù phổi cấp",
+            "Rối loạn nhịp tim do hạ kali máu",
+            "Phù não",
+            "Suy thận cấp"
+          ],
+          "answer": 2,
+          "explain": "Trong tình trạng tăng ALTT kéo dài, tế bào não tự sản xuất ra các \"osmoles tự sinh\" để giữ nước và tránh teo lại. Nếu ta bù dịch và hạ đường huyết quá nhanh, làm ALTT máu giảm đột ngột, nước sẽ di chuyển ồ ạt từ ngoài vào trong tế bào não (vốn đang có ALTT cao), gây ra phù não, một biến chứng có tỷ lệ tử vong rất cao. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Sau xử trí cấp cứu, tại sao bệnh nhân này cần được nhập viện để theo dõi trong ít nhất 24-48 giờ?",
+          "options": [
+            "Để tìm nguyên nhân gây chán ăn",
+            "Vì HHS có thể gây tổn thương não không hồi phục",
+            "Để tìm và điều trị yếu tố thúc đẩy (ví dụ: nhiễm trùng)",
+            "Để điều chỉnh lại liều Metformin"
+          ],
+          "answer": 2,
+          "explain": "HHS thường được khởi phát bởi một yếu tố stress cấp tính, phổ biến nhất là nhiễm trùng (viêm phổi, nhiễm trùng tiểu...). Việc tìm kiếm và điều trị tích cực yếu tố thúc đẩy này là cực kỳ quan trọng, song song với việc bù dịch và kiểm soát đường huyết, vì nó quyết định đến kết quả điều trị chung. (Nguồn: Bệnh học nội khoa YHN)"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 56 tuổi, thừa cân, bệnh nhân không có triệu chứng",
+      "body": "<b>Bệnh nhân nữ, 56 tuổi, nhân viên kế toán</b>, đến khám sức khỏe định kỳ. <b>Tiền sử gia đình:</b> Mẹ và chị gái bị ĐTĐ type 2. <b>Lối sống:</b> Tĩnh tại, ít vận động, chế độ ăn nhiều tinh bột và chất béo. <b>Triệu chứng:</b> Không có triệu chứng lâm sàng rõ rệt của tăng đường huyết như ăn nhiều, uống nhiều, tiểu nhiều, sụt cân. <br><b>Khám toàn thân:</b> Tỉnh táo, tiếp xúc tốt. Sinh hiệu: mạch 80 lần/phút, HA 135/85 mmHg, nhịp thở 16 lần/phút. <b>BMI 29 kg/m²</b> (thừa cân, béo phì độ 1). <b>Khám phát hiện dấu gai đen (acanthosis nigricans)</b> ở vùng cổ và nách. Các cơ quan khác không bất thường. <br><b>Cận lâm sàng:</b> Glucose máu lúc đói (sau nhịn ăn 10 giờ) = 7.8 mmol/L. HbA1c = 7.2%. Lipid máu: LDL-C 3.5 mmol/L, Triglyceride 2.8 mmol/L.",
+      "questions": [
+        {
+          "q": "Dựa trên kết quả cận lâm sàng, chẩn đoán xác định của bệnh nhân là gì?",
+          "options": [
+            "Bình thường",
+            "Tiền đái tháo đường",
+            "Đái tháo đường type 2",
+            "Đái tháo đường type 1"
+          ],
+          "answer": 2,
+          "explain": "Theo tiêu chuẩn chẩn đoán của ADA, chẩn đoán ĐTĐ được xác lập khi có ít nhất một trong các tiêu chí: Glucose máu đói ≥ 7.0 mmol/L hoặc HbA1c ≥ 6.5%. Bệnh nhân này có cả hai chỉ số đều vượt ngưỡng chẩn đoán (FPG 7.8 mmol/L, HbA1c 7.2%), do đó xác định là ĐTĐ type 2. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Cơ chế bệnh sinh cốt lõi của đái tháo đường type 2 là gì?",
+          "options": [
+            "Sự phá hủy tế bào beta của tụy do quá trình tự miễn",
+            "Sự kết hợp giữa tình trạng kháng insulin và sự suy giảm chức năng tế bào beta theo thời gian",
+            "Sản xuất insulin quá mức dẫn đến hạ đường huyết",
+            "Đột biến gen của thụ thể insulin"
+          ],
+          "answer": 1,
+          "explain": "ĐTĐ type 2 bắt đầu với tình trạng kháng insulin, nghĩa là các mô đích (cơ, gan, mỡ) không đáp ứng hiệu quả với insulin. Ban đầu, tụy bù trừ bằng cách tăng tiết insulin để duy trì đường huyết bình thường. Theo thời gian, các tế bào beta bị \"kiệt sức\" và suy giảm chức năng, không còn khả năng sản xuất đủ insulin để thắng lại tình trạng kháng insulin, dẫn đến tăng đường huyết. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Mục tiêu kiểm soát HbA1c ban đầu cho bệnh nhân này theo hầu hết các khuyến cáo là gì?",
+          "options": [
+            "< 8.0%",
+            "< 7.5%",
+            "< 7.0%",
+            "< 6.5%"
+          ],
+          "answer": 2,
+          "explain": "Đối với hầu hết bệnh nhân ĐTĐ type 2 trưởng thành, không mang thai, mục tiêu HbA1c chung được khuyến cáo là < 7.0% để giảm nguy cơ các biến chứng vi mạch. Mục tiêu có thể cá thể hóa chặt chẽ hơn (<6.5%) hoặc lỏng hơn (>7.0%) tùy thuộc vào từng bệnh nhân. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Lựa chọn thuốc uống hạ đường huyết đầu tay cho bệnh nhân này, nếu không có chống chỉ định, là gì?",
+          "options": [
+            "Sulfonylurea (ví dụ: Gliclazide)",
+            "Metformin",
+            "Insulin nền",
+            "Ức chế DPP-4 (ví dụ: Sitagliptin)"
+          ],
+          "answer": 1,
+          "explain": "Metformin là thuốc được khuyến cáo là lựa chọn đầu tay cho hầu hết bệnh nhân ĐTĐ type 2, bên cạnh thay đổi lối sống. Metformin có hiệu quả tốt, nguy cơ hạ đường huyết thấp, có thể giúp giảm cân nhẹ, và có dữ liệu về lợi ích tim mạch lâu dài, với chi phí thấp. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Dấu gai đen (acanthosis nigricans) ở bệnh nhân này là biểu hiện ngoài da của tình trạng nào?",
+          "options": [
+            "Tăng lipid máu",
+            "Tăng huyết áp",
+            "Nhiễm nấm da",
+            "Kháng insulin"
+          ],
+          "answer": 3,
+          "explain": "Dấu gai đen là tình trạng da dày lên và sẫm màu như nhung, thường xuất hiện ở các nếp gấp. Đây là một biểu hiện ngoài da rất đặc trưng của tình trạng kháng insulin. Nồng độ insulin cao trong máu có thể kích thích các thụ thể yếu tố tăng trưởng giống insulin (IGF-1 receptors) trên các tế bào sừng (keratinocytes), gây ra sự tăng sinh của chúng. (Nguồn: Bệnh học nội khoa YHN)"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi, ĐTĐ 20 năm, biến chứng thận mạn",
+      "body": "<b>Bệnh nhân nam, 60 tuổi</b>, bị ĐTĐ type 2 được 20 năm, có biến chứng bệnh thận mạn. Đang được điều trị bằng Insulin và thuốc hạ áp nhóm ức chế men chuyển. <b>Triệu chứng hiện tại:</b> Mệt mỏi, buồn nôn, chuột rút. <br><b>Khám lâm sàng:</b> Thiếu máu, HA 150/90 mmHg, phù nhẹ hai chân. <br><b>Cận lâm sàng:</b> Hb 9.5 g/dL, Creatinin 250 µmol/L, <b>eGFR 28 mL/phút/1.73m²</b>. Tỷ lệ Albumin/Creatinin niệu (ACR) = 350 mg/g. Siêu âm thận hai bên teo nhỏ.",
+      "questions": [
+        {
+          "q": "Bệnh thận mạn của bệnh nhân này được phân loại vào giai đoạn nào theo KDIGO?",
+          "options": [
+            "G3aA3",
+            "G3bA3",
+            "G4A3",
+            "G5A2"
+          ],
+          "answer": 2,
+          "explain": "eGFR của bệnh nhân là 28 mL/phút/1.73m², nằm trong khoảng 15-29, tương ứng với giai đoạn G4. Mức albumin niệu > 300 mg/g tương ứng với mức A3. Do đó, phân loại đầy đủ là G4A3. (Nguồn: KDIGO Guidelines)"
+        },
+        {
+          "q": "Cơ chế nào sau đây KHÔNG phải là cơ chế chính gây tổn thương thận trong đái tháo đường?",
+          "options": [
+            "Tăng áp lực lọc và vi viêm tại cầu thận do tăng đường huyết",
+            "Lắng đọng các sản phẩm cuối cùng của glycat hóa bền vững (AGEs)",
+            "Hoạt hóa con đường Renin-Angiotensin-Aldosterone (RAAS) tại thận",
+            "Lắng đọng phức hợp miễn dịch chứa IgA ở vùng gian mạch"
+          ],
+          "answer": 3,
+          "explain": "Lắng đọng phức hợp miễn dịch chứa IgA là cơ chế của Bệnh thận IgA, không phải bệnh thận đái tháo đường. Các cơ chế A, B, C đều là những con đường sinh bệnh học quan trọng trong bệnh thận đái tháo đường. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Ngoài thuốc ức chế men chuyển, nhóm thuốc nào sau đây đã được chứng minh có tác dụng bảo vệ thận ở ĐTĐ type 2?",
+          "options": [
+            "Sulfonylurea",
+            "Thuốc ức chế DPP-4",
+            "Thuốc ức chế SGLT2 (ví dụ: Dapagliflozin, Empagliflozin)",
+            "Thuốc chủ vận Thiazolidinedione"
+          ],
+          "answer": 2,
+          "explain": "Các thuốc ức chế SGLT2 đã tạo ra một cuộc cách mạng trong điều trị bệnh thận đái tháo đường. Chúng không chỉ hạ đường huyết mà còn có tác dụng bảo vệ thận mạnh mẽ thông qua các cơ chế huyết động (gây co tiểu động mạch đến, giảm áp lực lọc cầu thận) và các cơ chế khác, làm chậm sự suy giảm eGFR và giảm nguy cơ suy thận giai đoạn cuối. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Mục tiêu huyết áp tối ưu cho bệnh nhân này để bảo vệ thận là gì?",
+          "options": [
+            "< 140/90 mmHg",
+            "< 130/80 mmHg",
+            "< 120/80 mmHg",
+            "< 110/70 mmHg"
+          ],
+          "answer": 1,
+          "explain": "Theo khuyến cáo của ADA và KDIGO, mục tiêu huyết áp cho bệnh nhân ĐTĐ có bệnh thận mạn và albumin niệu nên là < 130/80 mmHg để tối ưu hóa việc bảo vệ thận. (Nguồn: Guideline ADA / KDIGO)"
+        },
+        {
+          "q": "Bệnh nhân này cần được tư vấn để tránh sử dụng nhóm thuốc nào sau đây vì nguy cơ gây độc thận cấp?",
+          "options": [
+            "Paracetamol",
+            "Statin",
+            "Kháng viêm không steroid (NSAIDs)",
+            "Metformin (cần thận trọng)"
+          ],
+          "answer": 2,
+          "explain": "NSAIDs có thể gây tổn thương thận cấp, đặc biệt trên nền thận đã bị tổn thương mạn tính, thông qua việc ức chế prostaglandin, gây co tiểu động mạch đến và giảm tưới máu thận. Cần phải tuyệt đối tránh hoặc hết sức thận trọng khi sử dụng nhóm thuốc này. (Nguồn: Guideline ADA)"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 45 tuổi, ĐTĐ type 1 - 20 năm, tê chân, đau như kim châm",
+      "body": "<b>Bệnh nhân nữ, 45 tuổi</b>, bị ĐTĐ type 1 được 20 năm, đến khám vì bị ngã do vấp ngã vào ngưỡng cửa. <b>Triệu chứng hiện tại:</b> Gần đây hay có cảm giác tê bì, nóng rát và đau như kim châm ở hai bàn chân, đặc biệt là về đêm, khiến bệnh nhân rất khó ngủ. Bệnh nhân cảm thấy hai chân yếu hơn và đi lại không vững. <br><b>Khám thần kinh:</b> <b>Cảm giác rung âm thoa và cảm giác sờ nhẹ bằng monofilament 10g giảm đối xứng</b> hai bên từ đầu ngón chân lên đến giữa cẳng chân. <b>Phản xạ gân gót hai bên mất.</b> Sức cơ các nhóm cơ chi dưới bình thường, không teo cơ. Khám bàn chân không có loét, mạch mu chân và chày sau bắt rõ.",
+      "questions": [
+        {
+          "q": "Biến chứng mà bệnh nhân đang gặp phải là gì?",
+          "options": [
+            "Bệnh lý rễ thần kinh tủy sống cổ",
+            "Bệnh lý đa dây thần kinh đối xứng, mạn tính, xa gốc (DSPN)",
+            "Bệnh lý động mạch ngoại biên",
+            "Bệnh nhược cơ"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh lâm sàng với các triệu chứng cơ năng (tê, rát, đau) và thực thể (giảm cảm giác, mất phản xạ) có tính chất đối xứng, bắt đầu từ ngọn chi và lan dần lên (kiểu \"đi găng, đi tất\") là điển hình của bệnh lý đa dây thần kinh đối xứng, mạn tính, xa gốc (Distal Symmetric Polyneuropathy), biến chứng mạn tính phổ biến nhất của ĐTĐ. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Cơ chế bệnh sinh của biến chứng thần kinh đái tháo đường bao gồm những yếu tố nào?",
+          "options": [
+            "Tổn thương vi mạch nuôi dưỡng dây thần kinh (vasa nervorum)",
+            "Các con đường chuyển hóa bất thường do tăng đường huyết (con đường polyol, AGEs, stress oxy hóa)",
+            "Yếu tố viêm và tự miễn",
+            "Tất cả các cơ chế trên"
+          ],
+          "answer": 3,
+          "explain": "Bệnh sinh của biến chứng thần kinh ĐTĐ rất phức tạp và đa yếu tố. Tăng đường huyết mạn tính gây ra tổn thương vi mạch, dẫn đến thiếu máu nuôi dây thần kinh. Đồng thời, nó hoạt hóa nhiều con đường sinh hóa gây độc trực tiếp cho tế bào thần kinh và tế bào Schwann, kết hợp với các quá trình viêm mạn tính, cuối cùng dẫn đến tổn thương sợi thần kinh. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Thăm dò cận lâm sàng nào giúp đánh giá khách quan chức năng của các sợi thần kinh lớn?",
+          "options": [
+            "Điện tâm đồ (ECG)",
+            "Đo điện cơ và tốc độ dẫn truyền thần kinh (EMG/NCS)",
+            "Chụp cộng hưởng từ (MRI) cột sống",
+            "Xét nghiệm HbA1c"
+          ],
+          "answer": 1,
+          "explain": "Đo điện cơ và tốc độ dẫn truyền thần kinh là một xét nghiệm điện sinh lý giúp đánh giá chức năng của các sợi thần kinh vận động và cảm giác có myelin hóa lớn. Kết quả thường cho thấy tốc độ dẫn truyền giảm và biên độ điện thế đáp ứng giảm, xác nhận chẩn đoán bệnh lý sợi trục và/hoặc hủy myelin. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Thuốc nào sau đây được coi là lựa chọn đầu tay để điều trị triệu chứng đau?",
+          "options": [
+            "Paracetamol",
+            "Ibuprofen",
+            "Pregabalin/Gabapentin",
+            "Morphin"
+          ],
+          "answer": 2,
+          "explain": "Theo các hiệp hội quốc tế, các thuốc thuộc nhóm chống động kinh (Gabapentin, Pregabalin) và nhóm chống trầm cảm (Amitriptyline, Duloxetine) là những lựa chọn hàng đầu để điều trị đau do bệnh thần kinh ĐTĐ. Các thuốc giảm đau thông thường như Paracetamol hay NSAIDs thường không hiệu quả. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Biện pháp quan trọng nhất để làm chậm sự tiến triển của biến chứng thần kinh là gì?",
+          "options": [
+            "Dùng vitamin nhóm B liều cao",
+            "Kiểm soát đường huyết tối ưu và ổn định",
+            "Đi giày dép phù hợp",
+            "Tập vật lý trị liệu"
+          ],
+          "answer": 1,
+          "explain": "Các nghiên cứu lớn như DCCT (ĐTĐ type 1) và UKPDS (ĐTĐ type 2) đã chứng minh một cách không thể chối cãi rằng việc kiểm soát đường huyết chặt chẽ và duy trì HbA1c gần mức bình thường là biện pháp hiệu quả duy nhất có thể ngăn ngừa sự xuất hiện và làm chậm sự tiến triển của tất cả các biến chứng vi mạch, bao gồm cả biến chứng thần kinh. (Nguồn: DCCT, UKPDS)"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi, loét chân không lành, hút thuốc 30 năm",
+      "body": "<b>Bệnh nhân nam, 65 tuổi</b>, bị ĐTĐ type 2, hút thuốc lá 30 bao.năm, đến khám vì một vết loét ở lòng bàn chân trái không lành. <br><b>Tiền sử:</b> Cách đây 1 tháng, ông đi chân đất và giẫm phải một vật nhọn nhưng không thấy đau. Vết thương sau đó loét ra, chảy ít dịch vàng và không có dấu hiệu lành. <br><b>Khám lâm sàng:</b> Tỉnh, không sốt. Tại mặt lòng bàn chân trái, vị trí đầu xương bàn ngón I, có một <b>vết loét tròn, đường kính 2cm, bờ chai cứng, đáy có mô hạt và ít giả mạc, không có mùi hôi</b>. <br><b>Khám cảm giác:</b> Bằng monofilament 10g âm tính ở cả hai bàn chân. <br><b>Khám mạch máu:</b> Mạch mu chân và chày sau bên trái bắt yếu hơn so với bên phải. <b>Chỉ số ABI (cổ chân/cánh tay) bên trái = 0.7.</b>",
+      "questions": [
+        {
+          "q": "Cơ chế bệnh sinh chính gây ra loét chân ở bệnh nhân này là sự kết hợp của những yếu tố nào?",
+          "options": [
+            "Nhiễm trùng và suy dinh dưỡng",
+            "Bệnh lý thần kinh và bệnh lý động mạch ngoại biên",
+            "Tăng huyết áp và rối loạn lipid máu",
+            "Bệnh lý võng mạc và bệnh lý thận"
+          ],
+          "answer": 1,
+          "explain": "Bàn chân đái tháo đường là một biến chứng phức tạp. Bệnh lý thần kinh làm bệnh nhân mất cảm giác bảo vệ, dễ bị chấn thương mà không biết. Bệnh lý động mạch ngoại biên làm giảm tưới máu, khiến vết thương khó lành và dễ bị nhiễm trùng. Sự kết hợp của hai yếu tố này là nền tảng chính. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Chỉ số ABI 0.7 cho thấy điều gì?",
+          "options": [
+            "Bệnh lý động mạch ngoại biên mức độ nhẹ đến trung bình",
+            "Bệnh lý động mạch ngoại biên mức độ nặng",
+            "Mạch máu bị vôi hóa không thể đè xẹp",
+            "Tình trạng tưới máu chi bình thường"
+          ],
+          "answer": 0,
+          "explain": "Chỉ số ABI là một công cụ sàng lọc bệnh lý động mạch ngoại biên. ABI từ 0.9-1.3 là bình thường. ABI < 0.9 là bằng chứng của bệnh. ABI 0.7 nằm trong khoảng 0.41-0.90, cho thấy có tắc hẹp động mạch mức độ nhẹ đến trung bình. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "\"Bộ ba\" kinh điển gây ra loét chân ở bệnh nhân đái tháo đường bao gồm?",
+          "options": [
+            "Tăng đường huyết, tăng huyết áp, tăng lipid máu",
+            "Bệnh lý thần kinh (mất cảm giác), biến dạng bàn chân (tăng áp lực tỳ đè), và chấn thương",
+            "Lối sống tĩnh tại, hút thuốc lá, và chế độ ăn không lành mạnh",
+            "Béo phì, bệnh thận mạn, và suy tim"
+          ],
+          "answer": 1,
+          "explain": "Đây là \"bộ ba\" dẫn đến loét thần kinh kinh điển. Bệnh lý thần kinh làm mất cảm giác đau, nhiệt. Điều này kết hợp với biến dạng bàn chân (do yếu các cơ nội tại) tạo ra các điểm có áp lực tỳ đè cao bất thường. Một chấn thương nhỏ (mà bệnh nhân không nhận ra) tại các điểm này sẽ khởi đầu cho vết loét. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Bước xử trí quan trọng nhất tại chỗ đối với vết loét này là gì?",
+          "options": [
+            "Bôi kháng sinh tại chỗ",
+            "Cắt lọc mô hoại tử và giảm áp lực tỳ đè lên vết loét (off-loading)",
+            "Ngâm chân bằng nước ấm",
+            "Giữ vết loét khô và thoáng"
+          ],
+          "answer": 1,
+          "explain": "Chăm sóc loét chân ĐTĐ cần một cách tiếp cận toàn diện. Trong đó, việc cắt lọc mô chai và mô hoại tử, và quan trọng nhất là sử dụng các dụng cụ giảm áp (giày đặc biệt, bột bó tiếp xúc toàn bộ) để không cho bệnh nhân tỳ đè lên vết loét là yếu tố then chốt để vết loét có thể lành. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Yếu tố nào sau đây là quan trọng nhất để phòng ngừa loét chân ở bệnh nhân đái tháo đường?",
+          "options": [
+            "Dùng insulin thay vì thuốc uống",
+            "Uống vitamin nhóm B liều cao",
+            "Tự kiểm tra bàn chân hàng ngày và đi giày dép phù hợp",
+            "Hạn chế đi bộ"
+          ],
+          "answer": 2,
+          "explain": "Giáo dục bệnh nhân là nền tảng của phòng ngừa. Việc bệnh nhân tự nhận thức được các nguy cơ, kiểm tra bàn chân mình mỗi ngày để phát hiện sớm các tổn thương nhỏ, và luôn mang giày dép phù hợp, vừa vặn để bảo vệ chân khỏi chấn thương là biện pháp hiệu quả và ít tốn kém nhất. (Nguồn: Bệnh học nội khoa YHN)"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi, ĐTĐ type 2, bệnh tim - HbA1c 8.2%",
+      "body": "<b>Bệnh nhân nam, 62 tuổi</b>, bị ĐTĐ type 2 và bệnh tim thiếu máu cục bộ. <b>Tiền sử:</b> Nhồi máu cơ tim cách đây 2 năm. <b>Điều trị hiện tại:</b> Metformin 2g/ngày và Statin. <b>Hiệu quả điều trị hiện tại:</b> HbA1c vẫn ở mức 8.2%. <b>Chức năng thận:</b> Bình thường (eGFR 80 mL/phút/1.73m²). <b>Huyết áp:</b> 125/75 mmHg. <b>Quyết định lâm sàng:</b> Bác sĩ quyết định thêm một loại thuốc hạ đường huyết thứ hai.",
+      "questions": [
+        {
+          "q": "Theo các khuyến cáo hiện hành, nhóm thuốc nào sau đây nên được ưu tiên cho bệnh nhân này vì có lợi ích đã được chứng minh trên tim mạch?",
+          "options": [
+            "Sulfonylurea",
+            "Insulin nền",
+            "Thuốc ức chế DPP-4",
+            "Thuốc chủ vận thụ thể GLP-1 (GLP-1 RA) hoặc Ức chế SGLT2 (SGLT2i)"
+          ],
+          "answer": 3,
+          "explain": "Đối với bệnh nhân ĐTĐ type 2 đã có bệnh tim mạch do xơ vữa, các khuyến cáo của ADA/EASD đều nhấn mạnh việc ưu tiên lựa chọn các thuốc đã có bằng chứng từ các thử nghiệm lâm sàng lớn cho thấy lợi ích bảo vệ tim mạch, đó là nhóm SGLT2i hoặc GLP-1 RA, bất kể mức HbA1c nền là bao nhiêu. (Nguồn: Guideline ADA/EASD)"
+        },
+        {
+          "q": "Cơ chế nào sau đây giúp giải thích lợi ích tim mạch của nhóm ức chế SGLT2?",
+          "options": [
+            "Giảm áp lực trong cầu thận, bảo vệ thận",
+            "Gây lợi tiểu thẩm thấu, giảm tiền gánh và hậu gánh, cải thiện chức năng tim",
+            "Thúc đẩy chuyển hóa năng lượng của tim sang sử dụng thể ceton hiệu quả hơn",
+            "Tất cả các cơ chế trên"
+          ],
+          "answer": 3,
+          "explain": "Lợi ích tim mạch của SGLT2i rất phức tạp và đa cơ chế. Tác dụng lợi tiểu làm giảm thể tích tuần hoàn, giảm gánh nặng cho tim. Tác dụng bảo vệ thận cũng góp phần giảm nguy cơ tim mạch. Ngoài ra, chúng còn có các tác dụng trực tiếp trên tim, cải thiện hiệu quả năng lượng và giảm tái cấu trúc tim. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Tác dụng phụ thường gặp nhất của nhóm ức chế SGLT2 là gì?",
+          "options": [
+            "Hạ đường huyết",
+            "Tăng cân",
+            "Nhiễm trùng đường sinh dục - tiết niệu do nấm",
+            "Buồn nôn, tiêu chảy"
+          ],
+          "answer": 2,
+          "explain": "Thuốc SGLT2i làm tăng thải glucose qua nước tiểu. Môi trường đường niệu ngọt là điều kiện thuận lợi cho nấm men phát triển, do đó làm tăng nguy cơ nhiễm nấm sinh dục (viêm âm hộ-âm đạo ở nữ, viêm quy đầu ở nam) và nhiễm trùng tiết niệu. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Thuốc chủ vận thụ thể GLP-1 (GLP-1 RA) có lợi ích trên tim mạch thông qua cơ chế nào?",
+          "options": [
+            "Giảm cân đáng kể và hạ huyết áp",
+            "Tác dụng chống viêm và cải thiện chức năng nội mạc",
+            "Ức chế sự tiến triển của mảng xơ vữa",
+            "Tất cả các cơ chế trên"
+          ],
+          "answer": 3,
+          "explain": "GLP-1 RA có nhiều tác dụng có lợi. Chúng gây giảm cân mạnh (do làm chậm rỗng dạ dày), hạ huyết áp, và có các tác dụng trực tiếp lên thành mạch máu, giúp chống viêm, chống oxy hóa, và cải thiện chức năng tế bào nội mạc, từ đó làm chậm quá trình xơ vữa. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Bệnh nhân này cần được tư vấn về chế độ ăn như thế nào?",
+          "options": [
+            "Chế độ ăn rất ít carbohydrate (keto)",
+            "Chế độ ăn Địa Trung Hải, giàu rau xanh, trái cây, ngũ cốc nguyên hạt và chất béo không bão hòa",
+            "Chế độ ăn nhiều protein để tăng cơ bắp",
+            "Bỏ hoàn toàn bữa sáng"
+          ],
+          "answer": 1,
+          "explain": "Chế độ ăn Địa Trung Hải là một trong những mô hình ăn uống được nghiên cứu nhiều nhất và được khuyến cáo rộng rãi cho bệnh nhân đái tháo đường và bệnh tim mạch. Chế độ ăn này nhấn mạnh vào thực phẩm toàn phần, chưa qua chế biến, và chất béo lành mạnh, giúp cải thiện kiểm soát đường huyết, lipid máu và huyết áp. (Nguồn: Guideline ADA)"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 28 tuổi, mang thai lần đầu, ở tuần 26, không có tiền sử ĐTĐ",
+      "body": "<b>Bệnh nhân nữ, 28 tuổi, mang thai lần đầu</b>, con so, ở tuần thứ 26 của thai kỳ. <b>Tiền sử:</b> Không có tiền sử đái tháo đường trước đây. <b>Yếu tố nguy cơ:</b> Không có yếu tố nguy cơ rõ rệt ngoài việc tăng 12kg kể từ đầu thai kỳ. <br><b>Xét nghiệm OGTT 75g theo quy trình:</b> <br>- Glucose máu lúc đói = 5.3 mmol/L <br>- Tại thời điểm 1 giờ = 10.5 mmol/L <br>- Tại thời điểm 2 giờ = 8.8 mmol/L",
+      "questions": [
+        {
+          "q": "Dựa trên kết quả OGTT, chẩn đoán của bệnh nhân là gì?",
+          "options": [
+            "Thai kỳ bình thường",
+            "Rối loạn dung nạp glucose",
+            "Đái tháo đường thai kỳ (Gestational Diabetes Mellitus - GDM)",
+            "Đái tháo đường type 2"
+          ],
+          "answer": 2,
+          "explain": "Theo tiêu chuẩn chẩn đoán GDM (IADPSG/WHO), chẩn đoán được xác lập khi có ít nhất một trong ba chỉ số của OGTT 75g vượt ngưỡng: Glucose đói ≥ 5.1 mmol/L, sau 1 giờ ≥ 10.0 mmol/L, hoặc sau 2 giờ ≥ 8.5 mmol/L. Bệnh nhân này có cả ba chỉ số đều vượt ngưỡng, do đó chẩn đoán là ĐTĐ thai kỳ. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây ra đái tháo đường thai kỳ là gì?",
+          "options": [
+            "Tụy của mẹ không sản xuất đủ insulin",
+            "Các hormone do nhau thai sản xuất (như hPL, progesteron, cortisol) gây ra tình trạng kháng insulin",
+            "Thai nhi tiêu thụ quá nhiều glucose của mẹ",
+            "Tự kháng thể chống lại tế bào beta của tụy xuất hiện trong thai kỳ"
+          ],
+          "answer": 1,
+          "explain": "Trong suốt thai kỳ, đặc biệt là từ tam cá nguyệt thứ hai, nhau thai sản xuất ra nhiều loại hormone cần thiết cho sự phát triển của thai nhi. Tuy nhiên, các hormone này lại có tác dụng đối kháng với insulin của mẹ, gây ra tình trạng kháng insulin sinh lý. Ở hầu hết phụ nữ, tụy có thể tăng sản xuất insulin để bù trừ. Ở những người bị GDM, khả năng bù trừ này là không đủ. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Mục tiêu kiểm soát glucose máu mao mạch cho bệnh nhân này trong thai kỳ là gì?",
+          "options": [
+            "Lúc đói < 6.5 mmol/L và sau ăn 2 giờ < 8.0 mmol/L",
+            "Lúc đói < 5.3 mmol/L và sau ăn 1 giờ < 7.8 mmol/L (hoặc sau ăn 2 giờ < 6.7 mmol/L)",
+            "Lúc đói < 7.0 mmol/L và sau ăn 2 giờ < 10.0 mmol/L",
+            "Giữ glucose máu ở mức thấp nhất có thể"
+          ],
+          "answer": 1,
+          "explain": "Mục tiêu kiểm soát đường huyết trong thai kỳ rất chặt chẽ để đảm bảo sự phát triển bình thường của thai nhi và giảm thiểu biến chứng. Các khuyến cáo thường đưa ra mục tiêu: Glucose đói < 5.3 mmol/L, sau ăn 1 giờ < 7.8 mmol/L, và sau ăn 2 giờ < 6.7 mmol/L. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Can thiệp điều trị đầu tay cho đái tháo đường thai kỳ là gì?",
+          "options": [
+            "Bắt đầu dùng Metformin ngay lập tức",
+            "Tiêm Insulin nền",
+            "Thay đổi lối sống, bao gồm chế độ ăn và tập thể dục",
+            "Chấm dứt thai kỳ"
+          ],
+          "answer": 2,
+          "explain": "Nền tảng của điều trị GDM luôn là thay đổi lối sống. Bệnh nhân sẽ được tư vấn bởi chuyên gia dinh dưỡng để có một chế độ ăn phù hợp và được khuyến khích tập thể dục thường xuyên. Thuốc (Metformin hoặc Insulin) chỉ được chỉ định khi thay đổi lối sống không đủ để đạt được mục tiêu đường huyết. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Nếu đái tháo đường thai kỳ không được kiểm soát tốt, nguy cơ chính đối với thai nhi là gì?",
+          "options": [
+            "Thai chậm phát triển trong tử cung",
+            "Dị tật bẩm sinh",
+            "Thai to (macrosomia) và các biến chứng chu sinh (kẹt vai, hạ đường huyết sơ sinh)",
+            "Sinh non"
+          ],
+          "answer": 2,
+          "explain": "Tăng đường huyết của mẹ dẫn đến tăng đường huyết của thai nhi. Để đáp ứng, tụy của thai nhi sẽ tăng sản xuất insulin. Insulin là một hormone tăng trưởng mạnh, dẫn đến tình trạng thai to. Thai to làm tăng nguy cơ sinh khó, kẹt vai. Ngay sau khi sinh, bị cắt nguồn glucose từ mẹ nhưng tụy vẫn đang trong tình trạng cường sản xuất insulin, trẻ sơ sinh có nguy cơ cao bị hạ đường huyết nặng. (Nguồn: Bệnh học nội khoa YHN)"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 68 tuổi, trên Gliclazide, vã mồ hôi, lú lẫn, glucose 2.2 mmol/L",
+      "body": "<b>Bệnh nhân nữ, 68 tuổi</b>, bị ĐTĐ type 2 đang điều trị bằng Gliclazide 60mg/ngày và Metformin 1g/ngày. <br><b>Tình trạng hiện tại:</b> Được người nhà đưa vào cấp cứu lúc 9 giờ sáng vì nói khó và vã mồ hôi. <b>Triệu chứng:</b> Sáng nay, bệnh nhân cảm thấy rất mệt và run tay, sau đó lú lẫn. <br><b>Tiền sử gần đây:</b> Hôm qua bệnh nhân ăn tối ít hơn bình thường vì chán ăn. <br><b>Khám lâm sàng:</b> Tỉnh nhưng lú lẫn, da tái, vã mồ hôi lạnh. Sinh hiệu: mạch 100 lần/phút, HA 140/80 mmHg. Không có dấu thần kinh khu trú. <br><b>Thử glucose ngay tại giường:</b> <b>2.2 mmol/L</b>",
+      "questions": [
+        {
+          "q": "Chẩn đoán tình trạng cấp cứu của bệnh nhân là gì?",
+          "options": [
+            "Tai biến mạch máu não",
+            "Hạ đường huyết nặng",
+            "Nhồi máu cơ tim",
+            "Cơn hoảng loạn"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh một bệnh nhân ĐTĐ đang dùng thuốc có nguy cơ gây hạ đường huyết (Gliclazide), có các triệu chứng thần kinh thực vật (vã mồ hôi, run tay) và thần kinh trung ương (lú lẫn), cùng với kết quả đường huyết mao mạch rất thấp là điển hình của một cơn hạ đường huyết nặng. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Tam chứng Whipple, dùng để chẩn đoán xác định hạ đường huyết, bao gồm những gì?",
+          "options": [
+            "(1) Đường huyết cao, (2) Có ceton niệu, (3) Mất nước",
+            "(1) Có triệu chứng của hạ đường huyết, (2) Nồng độ glucose huyết tương thấp, (3) Triệu chứng cải thiện sau khi nâng đường huyết",
+            "(1) Đau ngực, (2) Thay đổi trên ECG, (3) Tăng men tim",
+            "(1) Sốt, (2) Phát ban, (3) Đau khớp"
+          ],
+          "answer": 1,
+          "explain": "Tam chứng Whipple là tiêu chuẩn vàng để chẩn đoán hạ đường huyết. Bệnh nhân phải có đủ 3 yếu tố: có triệu chứng lâm sàng phù hợp, đo được glucose máu thấp tại thời điểm đó, và các triệu chứng phải hết sau khi đường huyết được đưa về bình thường. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Cơ chế gây hạ đường huyết của Gliclazide (nhóm Sulfonylurea) là gì?",
+          "options": [
+            "Tăng độ nhạy cảm của mô với insulin",
+            "Giảm sản xuất glucose tại gan",
+            "Kích thích tế bào beta của tụy bài tiết insulin, không phụ thuộc vào nồng độ glucose máu",
+            "Làm chậm hấp thu carbohydrate từ ruột"
+          ],
+          "answer": 2,
+          "explain": "Sulfonylurea (SU) tác động bằng cách gắn vào kênh Kali phụ thuộc ATP (K-ATP) trên màng tế bào beta, làm đóng kênh này lại. Việc đóng kênh K-ATP gây khử cực màng tế bào, mở kênh Calci và làm tăng dòng Calci đi vào nội bào, kích thích giải phóng các hạt chứa insulin. Quá trình này không phụ thuộc vào nồng độ glucose, do đó có thể gây hạ đường huyết. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Xử trí cấp cứu ban đầu phù hợp nhất cho bệnh nhân này tại phòng cấp cứu là gì?",
+          "options": [
+            "Cho bệnh nhân ăn một bữa ăn chính ngay lập tức",
+            "Tiêm bắp Glucagon",
+            "Truyền tĩnh mạch dung dịch đường ưu trương (Glucose 20% hoặc 30%)",
+            "Theo dõi và chờ đường huyết tự hồi phục"
+          ],
+          "answer": 2,
+          "explain": "Đối với hạ đường huyết nặng có rối loạn tri giác, không thể cho bệnh nhân ăn uống qua đường miệng vì nguy cơ sặc. Biện pháp xử trí nhanh và hiệu quả nhất là truyền đường ưu trương trực tiếp vào tĩnh mạch để nâng đường huyết một cách nhanh chóng. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Sau khi xử trí cấp cứu thành công, tại sao bệnh nhân này cần được nhập viện để theo dõi trong ít nhất 24-48 giờ?",
+          "options": [
+            "Để tìm nguyên nhân gây chán ăn",
+            "Vì hạ đường huyết có thể gây tổn thương não không hồi phục",
+            "Vì Gliclazide là một thuốc có thời gian bán hủy dài, có nguy cơ gây hạ đường huyết tái phát",
+            "Để điều chỉnh lại liều Metformin"
+          ],
+          "answer": 2,
+          "explain": "Các thuốc SU, đặc biệt là các thế hệ cũ hoặc các dạng phóng thích kéo dài, có thể gây ra các cơn hạ đường huyết kéo dài và tái phát do thời gian tác dụng của thuốc kéo dài. Do đó, sau khi xử trí ban đầu, bệnh nhân cần được giữ lại viện để theo dõi đường huyết sát và truyền đường duy trì nếu cần, cho đến khi thuốc được thải trừ hết. (Nguồn: Bệnh học nội khoa YHN)"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 66 tuổi, ĐTĐ type 2, mắt trái nhìn mờ 6 tháng",
+      "body": "<b>Bệnh nhân nữ, 66 tuổi</b>, bị ĐTĐ type 2, tăng huyết áp. <b>Triệu chứng chính:</b> Đến khám vì mắt trái nhìn mờ dần trong khoảng 6 tháng nay. Không bị đau hay đỏ mắt. <b>Thừa nhận:</b> Kiểm soát đường huyết và huyết áp của mình không tốt. <br><b>Khám thị lực:</b> Mắt phải 8/10, mắt trái 3/10. <br><b>Soi đáy mắt:</b> <br><b>Mắt trái:</b> Nhiều vi phình mạch, xuất huyết dạng chấm và đốm, xuất tiết cứng, <b>phù hoàng điểm</b>. <br><b>Mắt phải:</b> Vài vi phình mạch, không có phù hoàng điểm.",
+      "questions": [
+        {
+          "q": "Biến chứng mắt mà bệnh nhân đang gặp phải là gì?",
+          "options": [
+            "Đục thủy tinh thể",
+            "Glôcôm góc mở",
+            "Bệnh võng mạc đái tháo đường",
+            "Thoái hóa hoàng điểm tuổi già"
+          ],
+          "answer": 2,
+          "explain": "Các dấu hiệu đặc trưng trên soi đáy mắt như vi phình mạch, xuất huyết, xuất tiết cứng và phù hoàng điểm là những tổn thương kinh điển của Bệnh võng mạc đái tháo đường (Diabetic Retinopathy). (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Cơ chế chính gây ra các tổn thương vi phình mạch và xuất huyết trong bệnh võng mạc đái tháo đường là gì?",
+          "options": [
+            "Tăng nhãn áp gây chèn ép các mạch máu",
+            "Tăng đường huyết mạn tính làm tổn thương tế bào nội mạc và tế bào pericyte, làm yếu thành mạch",
+            "Sự co kéo của dịch kính lên võng mạc",
+            "Viêm màng bồ đào"
+          ],
+          "answer": 1,
+          "explain": "Tăng đường huyết kéo dài gây ra một loạt các thay đổi sinh hóa và cấu trúc ở các mạch máu nhỏ của võng mạc. Tế bào nội mạc bị tổn thương, và đặc biệt là sự mất đi của các tế bào pericyte (tế bào có chức năng co thắt và nâng đỡ thành mao mạch) làm cho thành mạch yếu đi, phình ra (tạo vi phình mạch) và dễ vỡ (gây xuất huyết). (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Phù hoàng điểm, nguyên nhân chính gây giảm thị lực ở bệnh nhân này, là do?",
+          "options": [
+            "Sự rò rỉ dịch và lipid từ các mao mạch bị tổn thương tại vùng hoàng điểm",
+            "Sự phát triển của các mạch máu mới (tân mạch) bất thường",
+            "Bong võng mạc",
+            "Xuất huyết trong dịch kính"
+          ],
+          "answer": 0,
+          "explain": "Hoàng điểm là vùng trung tâm của võng mạc, chịu trách nhiệm cho thị lực sắc nét. Khi các mao mạch xung quanh hoàng điểm bị tổn thương và tăng tính thấm, huyết tương và lipid sẽ thoát ra ngoài, tích tụ lại trong các lớp của võng mạc, gây ra phù hoàng điểm, làm biến dạng hình ảnh và giảm thị lực. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Phương pháp điều trị nào hiện nay được xem là đầu tay cho bệnh võng mạc đái tháo đường có phù hoàng điểm?",
+          "options": [
+            "Quang đông võng mạc bằng laser toàn bộ",
+            "Tiêm nội nhãn các thuốc kháng yếu tố tăng trưởng nội mạc mạch máu (Anti-VEGF)",
+            "Phẫu thuật cắt dịch kính",
+            "Chỉ cần kiểm soát tốt đường huyết"
+          ],
+          "answer": 1,
+          "explain": "Yếu tố tăng trưởng nội mạc mạch máu (VEGF) là một cytokine chính gây ra tăng tính thấm thành mạch và phù hoàng điểm. Do đó, việc tiêm trực tiếp vào mắt các loại thuốc kháng VEGF (như Ranibizumab, Aflibercept) đã trở thành liệu pháp hàng đầu, giúp giảm phù và cải thiện thị lực một cách hiệu quả. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Để phòng ngừa và phát hiện sớm bệnh võng mạc đái tháo đường, bệnh nhân ĐTĐ type 2 cần được khuyến cáo làm gì?",
+          "options": [
+            "Tự kiểm tra thị lực hàng ngày",
+            "Khám và soi đáy mắt ngay tại thời điểm chẩn đoán và định kỳ hàng năm sau đó",
+            "Chỉ đi khám mắt khi có triệu chứng nhìn mờ",
+            "Dùng thuốc nhỏ mắt bổ sung"
+          ],
+          "answer": 1,
+          "explain": "Do bệnh võng mạc ĐTĐ thường không có triệu chứng trong giai đoạn đầu, việc sàng lọc định kỳ là cực kỳ quan trọng. Đối với ĐTĐ type 2, bệnh có thể đã tiến triển một thời gian trước khi được chẩn đoán, do đó cần phải khám mắt toàn diện (bao gồm soi đáy mắt có giãn đồng tử) ngay khi phát hiện bệnh và lặp lại ít nhất hàng năm để phát hiện sớm tổn thương và can thiệp kịp thời. (Nguồn: Guideline ADA)"
+        }
+      ]
+    }
+  ]
+}
