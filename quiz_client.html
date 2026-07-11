@@ -204,6 +204,7 @@ button.btn-sm { padding: 4px 10px; font-size: 12px; }
 .breadcrumb a:hover { text-decoration: underline; }
 .breadcrumb-sep { color: var(--text-tertiary); }
 .breadcrumb-current { color: var(--text-primary); font-weight: 500; }
+.sort-select { width: auto !important; padding: 5px 8px !important; font-size: 12px !important; cursor: pointer; flex-shrink: 0; }
 .subcategory-section-label { font-size: 12px; font-weight: 600; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.5px; margin: 1rem 0 0.5rem 0; }
 
 /* Category grid */
@@ -318,12 +319,14 @@ label.cat-deck-row:hover { background: var(--bg-secondary); border-radius: 4px; 
   const USERNAME_KEY = 'quiz_client_username';
   const SESSIONS_KEY = 'quiz_client_sessions';
   const CLOUD_URL_KEY = 'quiz_client_cloud_url';
+  const SORT_MODE_KEY = 'quiz_client_sort_mode';
   let decks = [];
   let view = 'library';
   let activeTab = 'cases';      // 'cases' | 'mcq' | 'mock'
   let activeCategory = null;     // null = show category list; string = inside that category
   let activeSubcategory = null;  // null = show subcategory grid + decks-without-sub; string = inside that subcategory
   let searchQuery = '';
+  let sortMode = localStorage.getItem(SORT_MODE_KEY) || 'addedAt_desc';
   let activeDeckId = null;
   let qstate = null;
 
@@ -985,6 +988,42 @@ label.cat-deck-row:hover { background: var(--bg-secondary); border-radius: 4px; 
     return getDecksForCategory(tab, category).filter(d => (d.subcategory || '').trim() === sub);
   }
 
+  // ─── Deck sorting (user-selectable, persisted) ─────────────────────
+  const SORT_OPTIONS = [
+    { value: 'addedAt_desc', label: 'Mới thêm trước' },
+    { value: 'addedAt_asc', label: 'Cũ thêm trước' },
+    { value: 'name_asc', label: 'Tên A→Z' },
+    { value: 'name_desc', label: 'Tên Z→A' },
+    { value: 'unfinished_first', label: 'Chưa làm trước' },
+    { value: 'finished_first', label: 'Đã làm trước' },
+  ];
+  // "Đã làm" = has some interaction (in-progress, a recorded best score, or
+  // previously-missed questions) — mirrors the "Chưa làm" badge shown on deck cards.
+  function isDeckTouched(d) {
+    const hasProgress = d.progress && !d.progress.finished && d.progress.perCase && d.progress.done > 0;
+    const wrongCount = (d.wrongQuestions && d.wrongQuestions.length) || 0;
+    return !!hasProgress || d.bestScore != null || wrongCount > 0;
+  }
+  function sortDecks(list) {
+    const arr = list.slice();
+    switch (sortMode) {
+      case 'name_asc': arr.sort((a,b) => (a.name||'').localeCompare(b.name||'', 'vi')); break;
+      case 'name_desc': arr.sort((a,b) => (b.name||'').localeCompare(a.name||'', 'vi')); break;
+      case 'unfinished_first': arr.sort((a,b) => (isDeckTouched(a)?1:0) - (isDeckTouched(b)?1:0) || ((b.addedAt||0) - (a.addedAt||0))); break;
+      case 'finished_first': arr.sort((a,b) => (isDeckTouched(b)?1:0) - (isDeckTouched(a)?1:0) || ((b.addedAt||0) - (a.addedAt||0))); break;
+      case 'addedAt_asc': arr.sort((a,b) => (a.addedAt||0) - (b.addedAt||0)); break;
+      case 'addedAt_desc':
+      default: arr.sort((a,b) => (b.addedAt||0) - (a.addedAt||0)); break;
+    }
+    return arr;
+  }
+  function renderSortControl() {
+    const opts = SORT_OPTIONS.map(o =>
+      `<option value="${o.value}" ${sortMode === o.value ? 'selected' : ''}>${o.label}</option>`
+    ).join('');
+    return `<select class="form-input sort-select" id="sort-select" title="Sắp xếp bộ đề">${opts}</select>`;
+  }
+
   function matchesSearch(d, q) {
     if (!q) return true;
     const lower = q.toLowerCase();
@@ -1165,10 +1204,13 @@ label.cat-deck-row:hover { background: var(--bg-secondary); border-radius: 4px; 
     const categoryDecks = tabDecks.filter(d => (d.category || 'Chưa phân loại') === activeCategory);
 
     let html = `
-      <div class="breadcrumb">
-        <a id="back-to-categories">← Tất cả danh mục</a>
-        <span class="breadcrumb-sep">/</span>
-        <span class="breadcrumb-current">${getCategoryIcon(activeCategory)} ${escapeHtml(activeCategory)}</span>
+      <div class="breadcrumb breadcrumb-with-action">
+        <div>
+          <a id="back-to-categories">← Tất cả danh mục</a>
+          <span class="breadcrumb-sep">/</span>
+          <span class="breadcrumb-current">${getCategoryIcon(activeCategory)} ${escapeHtml(activeCategory)}</span>
+        </div>
+        ${categoryDecks.length > 0 ? renderSortControl() : ''}
       </div>
     `;
 
@@ -1180,7 +1222,7 @@ label.cat-deck-row:hover { background: var(--bg-secondary); border-radius: 4px; 
       `;
     } else {
       html += '<div class="deck-list">';
-      categoryDecks.sort((a,b) => b.addedAt - a.addedAt).forEach(d => {
+      sortDecks(categoryDecks).forEach(d => {
         html += renderDeckCard(d);
       });
       html += '</div>';
@@ -1221,7 +1263,7 @@ label.cat-deck-row:hover { background: var(--bg-secondary); border-radius: 4px; 
         html += '<div class="subcategory-section-label">Bộ đề chưa có danh mục con</div>';
       }
       html += '<div class="deck-list">';
-      decksWithoutSub.sort((a,b) => b.addedAt - a.addedAt).forEach(d => {
+      sortDecks(decksWithoutSub).forEach(d => {
         html += renderDeckCard(d);
       });
       html += '</div>';
@@ -1241,12 +1283,15 @@ label.cat-deck-row:hover { background: var(--bg-secondary); border-radius: 4px; 
     const subDecks = getDecksInSubcategory(activeTab, activeCategory, activeSubcategory);
 
     let html = `
-      <div class="breadcrumb">
-        <a id="back-to-categories">← Tất cả danh mục</a>
-        <span class="breadcrumb-sep">/</span>
-        <a id="back-to-category">${getCategoryIcon(activeCategory)} ${escapeHtml(activeCategory)}</a>
-        <span class="breadcrumb-sep">/</span>
-        <span class="breadcrumb-current">${getSubcategoryIcon(activeSubcategory)} ${escapeHtml(activeSubcategory)}</span>
+      <div class="breadcrumb breadcrumb-with-action">
+        <div>
+          <a id="back-to-categories">← Tất cả danh mục</a>
+          <span class="breadcrumb-sep">/</span>
+          <a id="back-to-category">${getCategoryIcon(activeCategory)} ${escapeHtml(activeCategory)}</a>
+          <span class="breadcrumb-sep">/</span>
+          <span class="breadcrumb-current">${getSubcategoryIcon(activeSubcategory)} ${escapeHtml(activeSubcategory)}</span>
+        </div>
+        ${subDecks.length > 0 ? renderSortControl() : ''}
       </div>
     `;
 
@@ -1258,7 +1303,7 @@ label.cat-deck-row:hover { background: var(--bg-secondary); border-radius: 4px; 
       `;
     } else {
       html += '<div class="deck-list">';
-      subDecks.sort((a,b) => b.addedAt - a.addedAt).forEach(d => {
+      sortDecks(subDecks).forEach(d => {
         html += renderDeckCard(d);
       });
       html += '</div>';
@@ -1399,6 +1444,14 @@ label.cat-deck-row:hover { background: var(--bg-secondary); border-radius: 4px; 
     // Back to subcategory grid (from inside a subcategory)
     const backToCategory = document.getElementById('back-to-category');
     if (backToCategory) backToCategory.onclick = () => { activeSubcategory = null; renderLibrary(); };
+
+    // Sort control
+    const sortSelect = document.getElementById('sort-select');
+    if (sortSelect) sortSelect.onchange = () => {
+      sortMode = sortSelect.value;
+      localStorage.setItem(SORT_MODE_KEY, sortMode);
+      renderLibrary();
+    };
 
     // Deck cards (start + delete)
     main.querySelectorAll('.act-start').forEach(b => b.onclick = e => {
