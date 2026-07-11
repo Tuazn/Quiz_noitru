@@ -328,15 +328,76 @@ label.cat-deck-row:hover { background: var(--bg-secondary); border-radius: 4px; 
   let qstate = null;
 
   // ─── Storage ──────────────────────────────────────────────────────
-  function loadDecks() {
+  // Decks are stored in IndexedDB instead of localStorage: localStorage caps
+  // out at roughly 5-10MB per site, which a large library of decks can easily
+  // exceed. IndexedDB is browser-managed but backed by disk, with quota
+  // typically in the hundreds of MB to several GB (commonly a share of free
+  // disk space), so it accommodates much bigger libraries.
+  const IDB_DB_NAME = 'quiz_client_store';
+  const IDB_STORE_NAME = 'kv';
+  let _idbPromise = null;
+  function openIDB() {
+    if (_idbPromise) return _idbPromise;
+    _idbPromise = new Promise((resolve, reject) => {
+      if (!window.indexedDB) { reject(new Error('IndexedDB not supported')); return; }
+      const req = indexedDB.open(IDB_DB_NAME, 1);
+      req.onupgradeneeded = () => {
+        if (!req.result.objectStoreNames.contains(IDB_STORE_NAME)) {
+          req.result.createObjectStore(IDB_STORE_NAME);
+        }
+      };
+      req.onsuccess = () => resolve(req.result);
+      req.onerror = () => reject(req.error);
+    });
+    return _idbPromise;
+  }
+  function idbGet(key) {
+    return openIDB().then(db => new Promise((resolve, reject) => {
+      const tx = db.transaction(IDB_STORE_NAME, 'readonly');
+      const req = tx.objectStore(IDB_STORE_NAME).get(key);
+      req.onsuccess = () => resolve(req.result);
+      req.onerror = () => reject(req.error);
+    }));
+  }
+  function idbSet(key, value) {
+    return openIDB().then(db => new Promise((resolve, reject) => {
+      const tx = db.transaction(IDB_STORE_NAME, 'readwrite');
+      tx.objectStore(IDB_STORE_NAME).put(value, key);
+      tx.oncomplete = () => resolve(true);
+      tx.onerror = () => reject(tx.error);
+    }));
+  }
+
+  async function loadDecks() {
+    try {
+      const idbData = await idbGet(STORAGE_KEY);
+      if (idbData) { decks = idbData; return; }
+    } catch(e) {
+      // IndexedDB unavailable (rare — e.g. very old browser or private-mode
+      // restrictions): fall back to localStorage only, same as before.
+      try {
+        const raw = localStorage.getItem(STORAGE_KEY);
+        decks = raw ? JSON.parse(raw) : [];
+      } catch(e2) { decks = []; }
+      return;
+    }
+    // Nothing in IndexedDB yet — one-time migration of any decks saved by an
+    // older version of the app (localStorage), then free that old copy.
     try {
       const raw = localStorage.getItem(STORAGE_KEY);
       decks = raw ? JSON.parse(raw) : [];
     } catch(e) { decks = []; }
+    if (decks.length) {
+      try {
+        await idbSet(STORAGE_KEY, decks);
+        localStorage.removeItem(STORAGE_KEY);
+      } catch(e) { /* will retry on next saveDecks() */ }
+    }
   }
   function saveDecks() {
-    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(decks)); }
-    catch(e) { toast('Không lưu được — bộ nhớ trình duyệt đầy?', 'error'); }
+    idbSet(STORAGE_KEY, decks).catch(e => {
+      toast('Không lưu được — bộ nhớ đầy hoặc trình duyệt không hỗ trợ IndexedDB?', 'error');
+    });
   }
 
   // ─── User & Sessions ──────────────────────────────────────────────
@@ -1238,9 +1299,9 @@ label.cat-deck-row:hover { background: var(--bg-secondary); border-radius: 4px; 
 
     let statsHTML = '';
     const hasProgress = d.progress && !d.progress.finished
-      && d.progress.runtimeCases && d.progress.done > 0;
+      && d.progress.perCase && d.progress.done > 0;
     if (hasProgress) {
-      const totalQ = d.progress.runtimeCases.reduce((s,c)=>s+c.questions.length, 0);
+      const totalQ = d.progress.perCase.reduce((s,c)=>s+c.length, 0);
       const pct = Math.round(100 * d.progress.done / totalQ);
       statsHTML += `<span class="progress-badge" title="Đang làm dở">📍 Đang làm: ${pct}%</span>`;
     }
@@ -1712,6 +1773,28 @@ label.cat-deck-row:hover { background: var(--bg-secondary); border-radius: 4px; 
     return a;
   }
 
+  // Rebuild the srcCases array for a deck WITHOUT shuffling (pure, deterministic).
+  // Used to reconstruct runtimeCases from the original deck data instead of
+  // keeping a duplicate copy of the whole deck in localStorage.
+  function computeSrcCases(d) {
+    const dt = d.type || 'cases';
+    if (dt === 'mcq') {
+      return [{ title: '', body: '', questions: d.questions }];
+    } else if (dt === 'mixed') {
+      return d.mixedItems.map(item => {
+        if (item.kind === 'case') {
+          return { title: item.caseTitle || '', body: item.caseBody || '', questions: item.questions };
+        } else {
+          return { title: '', body: '', questions: [{
+            q: item.q, options: item.options, answer: item.answer, explain: item.explain, type: item.type
+          }]};
+        }
+      });
+    } else {
+      return d.cases;
+    }
+  }
+
   function buildRuntimeCases(srcCases, shuffle) {
     let cases = srcCases.map(c => ({
       title: c.title,
@@ -1742,6 +1825,54 @@ label.cat-deck-row:hover { background: var(--bg-secondary); border-radius: 4px; 
     return cases;
   }
 
+  function applyOptionPerm(q, perm) {
+    const isMulti = q.type === 'multi';
+    const newOptions = perm.map(i => q.options[i]);
+    let newAnswer;
+    if (isMulti) {
+      newAnswer = q.answer.map(a => perm.indexOf(a)).sort((a,b)=>a-b);
+    } else {
+      newAnswer = perm.indexOf(q.answer);
+    }
+    return { q: q.q, type: isMulti ? 'multi' : 'single', options: newOptions, answer: newAnswer, explain: q.explain };
+  }
+
+  // Build shuffle metadata for a fresh shuffled session: which order the cases
+  // appear in, which order the questions within each case appear in, and the
+  // option order for each question. These are all small arrays of numbers —
+  // persisting THIS (instead of the full shuffled question/case text) is what
+  // keeps a shuffled quiz-in-progress from bloating localStorage.
+  function buildShuffleMeta(baseSrcCases, dt) {
+    const caseOrder = shuffleArray(baseSrcCases.map((_, i) => i));
+    const questionOrderPerCase = caseOrder.map(origCi => {
+      const ids = baseSrcCases[origCi].questions.map((_, i) => i);
+      // Only standalone MCQ decks shuffle question order; clinical cases keep
+      // their internal question sequence fixed even when shuffle is on.
+      return dt === 'mcq' ? shuffleArray(ids) : ids;
+    });
+    const optionPerm = baseSrcCases.map(c =>
+      c.questions.map(q => shuffleArray(q.options.map((_, i) => i)))
+    );
+    return { caseOrder, questionOrderPerCase, optionPerm };
+  }
+
+  // Rebuild the actual runtime case/question list from the deck's source
+  // content plus previously-computed shuffle metadata. No case/question text
+  // needs to be stored — only the small index arrays in `meta`.
+  function materializeRuntimeCases(baseSrcCases, meta) {
+    return meta.caseOrder.map((origCi, ci) => {
+      const srcCase = baseSrcCases[origCi];
+      const qOrder = meta.questionOrderPerCase[ci];
+      return {
+        title: srcCase.title,
+        body: srcCase.body,
+        questions: qOrder.map(origQi =>
+          applyOptionPerm(srcCase.questions[origQi], meta.optionPerm[origCi][origQi])
+        )
+      };
+    });
+  }
+
   function startDeck(id, shuffle, resumeFromProgress) {
     const d = decks.find(x => x.id === id);
     if (!d) return;
@@ -1749,24 +1880,31 @@ label.cat-deck-row:hover { background: var(--bg-secondary); border-radius: 4px; 
 
     // Resume from saved progress
     if (resumeFromProgress && d.progress && !d.progress.finished) {
-      let runtimeCases = d.progress.runtimeCases;
+      let runtimeCases;
       let perCase = d.progress.perCase;
+      const baseSrcCases = computeSrcCases(d);
 
-      // Re-shuffle unanswered questions if shuffle is on
       if (d.progress.shuffle) {
-        for (let ci = 0; ci < runtimeCases.length; ci++) {
-          const c = runtimeCases[ci];
-          const unansweredIdx = [];
-          for (let qi = 0; qi < c.questions.length; qi++) {
-            if (perCase[ci][qi] === null) unansweredIdx.push(qi);
+        // Re-shuffle unanswered questions (keep answered ones fixed in place),
+        // then rebuild content fresh from the source deck + this small index
+        // map — no duplicated question/case text is kept in storage.
+        const meta = d.progress.shuffleMeta;
+        for (let ci = 0; ci < meta.questionOrderPerCase.length; ci++) {
+          const order = meta.questionOrderPerCase[ci];
+          const unansweredPos = [];
+          for (let qi = 0; qi < order.length; qi++) {
+            if (perCase[ci][qi] === null) unansweredPos.push(qi);
           }
-          if (unansweredIdx.length <= 1) continue;
-          const unansweredQs = unansweredIdx.map(i => c.questions[i]);
-          const shuffled = shuffleArray(unansweredQs);
-          unansweredIdx.forEach((origIdx, k) => {
-            c.questions[origIdx] = shuffled[k];
-          });
+          if (unansweredPos.length <= 1) continue;
+          const unansweredIds = unansweredPos.map(pos => order[pos]);
+          const shuffledIds = shuffleArray(unansweredIds);
+          unansweredPos.forEach((pos, k) => { order[pos] = shuffledIds[k]; });
         }
+        runtimeCases = materializeRuntimeCases(baseSrcCases, meta);
+      } else {
+        // No shuffle: content is identical to the source deck, so rebuild it
+        // fresh instead of relying on a stored duplicate (keeps localStorage small).
+        runtimeCases = buildRuntimeCases(baseSrcCases, false);
       }
 
       qstate = {
@@ -1783,6 +1921,7 @@ label.cat-deck-row:hover { background: var(--bg-secondary); border-radius: 4px; 
         finished: false,
         totalQ: runtimeCases.reduce((s,c)=>s+c.questions.length,0),
         runtimeCases: runtimeCases,
+        shuffleMeta: d.progress.shuffle ? d.progress.shuffleMeta : null,
         shuffle: d.progress.shuffle,
         isMcq: (d.type || 'cases') === 'mcq'
       };
@@ -1813,31 +1952,18 @@ label.cat-deck-row:hover { background: var(--bg-secondary); border-radius: 4px; 
       saveDecks();
     }
 
-    // Convert MCQ / MIXED / cases deck to runtimeCases structure
-    let srcCases;
+    // Convert MCQ / MIXED / cases deck to a common srcCases structure
     const dt = d.type || 'cases';
-    if (dt === 'mcq') {
-      if (shuffle) {
-        const shuffledQuestions = shuffleArray(d.questions);
-        srcCases = [{ title: '', body: '', questions: shuffledQuestions }];
-      } else {
-        srcCases = [{ title: '', body: '', questions: d.questions }];
-      }
-    } else if (dt === 'mixed') {
-      shuffle = false;
-      srcCases = d.mixedItems.map(item => {
-        if (item.kind === 'case') {
-          return { title: item.caseTitle || '', body: item.caseBody || '', questions: item.questions };
-        } else {
-          return { title: '', body: '', questions: [{
-            q: item.q, options: item.options, answer: item.answer, explain: item.explain, type: item.type
-          }]};
-        }
-      });
+    if (dt === 'mixed') shuffle = false; // mock exam pre-shuffles its own item order
+    const srcCases = computeSrcCases(d);
+
+    let runtimeCases, shuffleMeta = null;
+    if (shuffle) {
+      shuffleMeta = buildShuffleMeta(srcCases, dt);
+      runtimeCases = materializeRuntimeCases(srcCases, shuffleMeta);
     } else {
-      srcCases = d.cases;
+      runtimeCases = buildRuntimeCases(srcCases, false);
     }
-    const runtimeCases = buildRuntimeCases(srcCases, !!shuffle);
     qstate = {
       caseIdx: 0, qIdx: 0,
       selected: null,
@@ -1848,6 +1974,7 @@ label.cat-deck-row:hover { background: var(--bg-secondary); border-radius: 4px; 
       done: 0, correct: 0, wrong: 0, finished: false,
       totalQ: runtimeCases.reduce((s,c)=>s+c.questions.length,0),
       runtimeCases: runtimeCases,
+      shuffleMeta: shuffleMeta,
       shuffle: !!shuffle,
       isMcq: dt === 'mcq',
       isMockExam: !!d.mockExam,
@@ -1865,7 +1992,10 @@ label.cat-deck-row:hover { background: var(--bg-secondary); border-radius: 4px; 
     const d = decks.find(x => x.id === activeDeckId);
     if (!d) return;
     d.progress = {
-      runtimeCases: qstate.runtimeCases,
+      // Shuffled sessions persist only small index arrays (case/question/option
+      // order) — never the full deck text. Non-shuffled sessions need nothing
+      // extra since they're rebuilt directly from the source deck.
+      shuffleMeta: qstate.shuffle ? qstate.shuffleMeta : undefined,
       perCase: qstate.perCase,
       savedAnswers: qstate.savedAnswers,
       caseIdx: qstate.caseIdx,
@@ -1892,7 +2022,7 @@ label.cat-deck-row:hover { background: var(--bg-secondary); border-radius: 4px; 
     const d = decks.find(x => x.id === id);
     if (!d) return;
     if (d.progress && !d.progress.finished) {
-      const totalQ = d.progress.runtimeCases.reduce((s,c)=>s+c.questions.length, 0);
+      const totalQ = d.progress.perCase.reduce((s,c)=>s+c.length, 0);
       const pct = Math.round(100 * d.progress.done / totalQ);
       const savedAtStr = new Date(d.progress.savedAt).toLocaleString('vi-VN');
       if (d.progress.shuffle !== !!shuffle) {
@@ -2999,29 +3129,31 @@ label.cat-deck-row:hover { background: var(--bg-secondary); border-radius: 4px; 
   });
 
   // ─── Init ─────────────────────────────────────────────────────────
-  loadDecks();
-  // Clean up any leaderboard config left from a prior version
-  localStorage.removeItem('quiz_client_lb_config');
-  renderLibrary();
-  // Prompt for username on first launch (before auto-sync to avoid stacking modals)
-  if (!getUsername()) {
-    setTimeout(() => openUsernameModal(true), 100);
-  } else {
-    // Auto-sync from cloud if URL is saved
-    const savedCloudUrl = localStorage.getItem(CLOUD_URL_KEY);
-    if (savedCloudUrl) {
-      setTimeout(async () => {
-        try {
-          toast('Đang đồng bộ từ cloud...', '');
-          await syncFromCloud(savedCloudUrl, true, () => {});
-          toast('✓ Đã đồng bộ từ cloud', 'success');
-          renderLibrary();
-        } catch(e) {
-          toast('⚠ Không đồng bộ được: ' + e.message, 'error');
-        }
-      }, 100);
+  (async () => {
+    await loadDecks(); // IndexedDB read is async; app renders once it resolves
+    // Clean up any leaderboard config left from a prior version
+    localStorage.removeItem('quiz_client_lb_config');
+    renderLibrary();
+    // Prompt for username on first launch (before auto-sync to avoid stacking modals)
+    if (!getUsername()) {
+      setTimeout(() => openUsernameModal(true), 100);
+    } else {
+      // Auto-sync from cloud if URL is saved
+      const savedCloudUrl = localStorage.getItem(CLOUD_URL_KEY);
+      if (savedCloudUrl) {
+        setTimeout(async () => {
+          try {
+            toast('Đang đồng bộ từ cloud...', '');
+            await syncFromCloud(savedCloudUrl, true, () => {});
+            toast('✓ Đã đồng bộ từ cloud', 'success');
+            renderLibrary();
+          } catch(e) {
+            toast('⚠ Không đồng bộ được: ' + e.message, 'error');
+          }
+        }, 100);
+      }
     }
-  }
+  })();
 })();
 </script>
 </body>
