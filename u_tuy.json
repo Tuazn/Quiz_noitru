@@ -1,0 +1,620 @@
+{
+  "name": "U tủy",
+  "description": "Case lâm sàng chuyên sâu về u tủy sống, u rễ thần kinh, di căn cột sống và u xương cột sống. Tập trung vào chẩn đoán, phân loại giai đoạn và hướng xử trí.",
+  "level": "Đại học / Nội trú",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Ung thư",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 64 tuổi đau lưng dữ dội và yếu hai chân",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 64 tuổi.<br><br><b>Tiền sử:</b> K phổi đã phẫu thuật cách đây 2 năm, hút thuốc 40 bao năm.<br><br><b>Bệnh sử:</b> Vào viện vì đau lưng dữ dội vùng ngực lan ra trước ngực và yếu hai chân. Bệnh diễn biến 2 tháng nay, đau tăng nhiều về đêm, nằm nghỉ không đỡ, gần đây đi lại khó khăn, cảm giác tê bì từ ngang rốn xuống.<br><br><b>Khám lâm sàng:</b> Tỉnh, BMI 20, hội chứng 3 giảm đáy phổi phải. Khám thần kinh: Hai chân liệt cứng, cơ lực 3/5, tăng trương lực cơ, phản ứng Babinski (+) hai bên, giảm cảm giác đau và nhiệt từ ngang mức khoanh da T10 xuống dưới, không bí tiểu nhưng tiểu khó. Cột sống ngực ấn đau chói tại gai sau T8-T10.<br><br><b>Xét nghiệm:</b> Ca²⁺ máu 2.8 mmol/L, ALP 150 U/L. MRI cột sống ngực có thuốc cản quang được chỉ định.",
+      "questions": [
+        {
+          "q": "Chẩn đoán sơ bộ phù hợp nhất trên bệnh nhân này là gì?",
+          "options": [
+            "U nội tủy (Intramedullary tumor) đoạn ngực",
+            "U rễ thần kinh (Schwannoma)",
+            "U di căn cột sống (Extradural metastasis) chèn ép tủy",
+            "Áp xe ngoài màng cứng"
+          ],
+          "answer": 2,
+          "explain": "Tiền sử K phổi + đau lưng kiểu viêm (đêm) + chèn ép tủy cấp/bán cấp -> Nghĩ nhiều nhất đến U di căn ngoài màng cứng (Extradural). U nội tủy hiếm gặp hơn và thường diễn tiến chậm. U rễ thần kinh thường đau rễ nổi trội hơn yếu liệt ở giai đoạn đầu.[cite: 7]"
+        },
+        {
+          "q": "Dấu hiệu lâm sàng nào gợi ý tổn thương thuộc hệ tháp (Upper Motor Neuron)?",
+          "options": [
+            "Teo cơ nhanh chóng",
+            "Giảm trương lực cơ",
+            "Babinski (+) và tăng trương lực cơ",
+            "Rung giật bó cơ (Fasciculation)"
+          ],
+          "answer": 2,
+          "explain": "Tổn thương Neuron vận động trên (UMN) biểu hiện bằng: Liệt cứng, tăng trương lực cơ, tăng phản xạ gân xương, phản xạ bệnh lý bó tháp (Babinski +). Teo cơ và rung giật bó cơ là dấu hiệu Neuron vận động dưới (LMN).[cite: 7]"
+        },
+        {
+          "q": "Trong xử trí cấp cứu chèn ép tủy do u di căn, thuốc nào nên được sử dụng ngay lập tức để giảm phù tủy?",
+          "options": [
+            "Mannitol 20%",
+            "Dexamethasone liều cao",
+            "Furosemide",
+            "Methylprednisolone (theo NASCIS)"
+          ],
+          "answer": 1,
+          "explain": "Dexamethasone liều cao (thường khởi đầu 16mg hoặc cao hơn tùy tình trạng) là tiêu chuẩn để giảm phù tủy trong chèn ép tủy do u (Schwartz/Bailey). Methylprednisolone dùng trong chấn thương tủy, không phải u.[cite: 7]"
+        },
+        {
+          "q": "Đặc điểm đau của bệnh nhân (\"đau tăng về đêm, nằm nghỉ không đỡ\") gọi là gì và có ý nghĩa gì?",
+          "options": [
+            "Đau kiểu rễ -> Gợi ý u trong màng cứng",
+            "Đau kiểu cơ học -> Gợi ý thoái hóa cột sống",
+            "Red flag (Cờ đỏ) -> Gợi ý bệnh lý ác tính/viêm",
+            "Đau kiểu thắt lưng hông -> Gợi ý thoát vị đĩa đệm"
+          ],
+          "answer": 2,
+          "explain": "Đau về đêm, nghỉ ngơi không giảm là dấu hiệu \"Red flag\" kinh điển gợi ý nguyên nhân ác tính hoặc nhiễm trùng, phân biệt với đau cơ học (giảm khi nghỉ).[cite: 7]"
+        },
+        {
+          "q": "Nếu khối u gây hủy xương đốt sống và mất vững cột sống, phương pháp điều trị phẫu thuật nào là tối ưu nhất?",
+          "options": [
+            "Chỉ xạ trị ngoài, không mổ",
+            "Phẫu thuật giải ép đơn thuần (Laminectomy)",
+            "Phẫu thuật giải ép + Cố định cột sống (Instrumentation)",
+            "Sinh thiết kim qua da"
+          ],
+          "answer": 2,
+          "explain": "Khi có hủy xương gây mất vững (Instability), giải ép đơn thuần (Laminectomy) sẽ làm cột sống mất vững thêm -> Cần giải ép kết hợp cố định cột sống (Instrumentation/Fusion).[cite: 7]"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 45 tuổi đau lan từ cổ xuống vai và cánh tay",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 45 tuổi, giáo viên.<br><br><b>Bệnh sử:</b> Vào viện vì đau lan từ cổ xuống vai và cánh tay phải. Bệnh sử 6 tháng nay, ban đầu đau âm ỉ vùng cổ, sau đó đau lan theo mặt ngoài cánh tay phải xuống ngón cái, đau tăng khi ho hoặc hắt hơi. Gần đây thấy yếu nhẹ động tác gấp khuỷu tay phải.<br><br><b>Khám lâm sàng:</b> Tỉnh, không sốt. Cột sống cổ không biến dạng. Ấn đau cạnh sống C5-C6 bên phải. Nghiệm pháp Spurling (+). Cơ lực nhị đầu phải 4/5, giảm phản xạ gân cơ nhị đầu phải. Cảm giác giảm nhẹ vùng da mặt ngoài cánh tay và ngón cái. Không có rối loạn cơ tròn.<br><br><b>Xét nghiệm:</b> X-quang cột sống cổ tư thế chếch 3/4 thấy lỗ liên hợp C5-C6 bên phải rộng hơn bên trái. MRI cho thấy khối u hình \"củ lạc\" (dumb-bell) chui qua lỗ liên hợp.",
+      "questions": [
+        {
+          "q": "Vị trí giải phẫu học của khối u này nhiều khả năng nhất là:",
+          "options": [
+            "Ngoài màng cứng (Extradural)",
+            "Trong màng cứng - Ngoài tủy (Intradural-Extramedullary)",
+            "Nội tủy (Intramedullary)",
+            "Trong thân đốt sống"
+          ],
+          "answer": 1,
+          "explain": "U chui qua lỗ liên hợp (dumb-bell tumor) là đặc điểm kinh điển của u rễ thần kinh, thuộc nhóm Trong màng cứng - Ngoài tủy.[cite: 7]"
+        },
+        {
+          "q": "Bản chất mô bệnh học nào phù hợp nhất với hình ảnh \"u chui qua lỗ liên hợp làm rộng lỗ\"?",
+          "options": [
+            "Meningioma (U màng tủy)",
+            "Schwannoma (U bao dây thần kinh)",
+            "Ependymoma (U màng nội tủy)",
+            "Hemangioma (U máu)"
+          ],
+          "answer": 1,
+          "explain": "Schwannoma hoặc Neurofibroma (u bao dây thần kinh) xuất phát từ rễ thần kinh, phát triển chậm làm mòn xương và rộng lỗ liên hợp. Meningioma thường nằm trong ống sống, ít khi chui qua lỗ liên hợp.[cite: 7]"
+        },
+        {
+          "q": "Triệu chứng lâm sàng tương ứng với tổn thương rễ thần kinh nào?",
+          "options": [
+            "Rễ C5",
+            "Rễ C6",
+            "Rễ C7",
+            "Rễ C8"
+          ],
+          "answer": 1,
+          "explain": "Rễ C6 chi phối vận động nhóm cơ gấp khuỷu (cơ nhị đầu, cánh tay quay), phản xạ gân nhị đầu và cảm giác mặt ngoài cánh tay/ngón cái. (C5: vai; C7: duỗi khuỷu/ngón giữa; C8: ngón út/cơ bàn tay).[cite: 7]"
+        },
+        {
+          "q": "Chọn tập hợp đúng về các xét nghiệm chẩn đoán hình ảnh cần thiết:\n(1) X-quang quy ước (thẳng, nghiêng, chếch)\n(2) MRI có tiêm thuốc đối quang từ\n(3) Xạ hình xương\n(4) CT Scanner để đánh giá cấu trúc xương lỗ liên hợp",
+          "options": [
+            "1, 2, 3",
+            "1, 2, 4",
+            "2, 3, 4",
+            "Chỉ cần 2"
+          ],
+          "answer": 1,
+          "explain": "X-quang (đánh giá lỗ liên hợp), MRI (tiêu chuẩn vàng đánh giá mô mềm/u), CT (đánh giá xương chi tiết để lập kế hoạch mổ). Xạ hình xương dùng cho di căn, ít giá trị cho Schwannoma đơn độc.[cite: 7]"
+        },
+        {
+          "q": "Phương pháp điều trị triệt để đối với loại u này là:",
+          "options": [
+            "Phẫu thuật lấy u vi phẫu",
+            "Hóa trị liệu",
+            "Xạ trị áp sát",
+            "Phong bế rễ thần kinh bằng Corticoid"
+          ],
+          "answer": 0,
+          "explain": "Schwannoma là u lành tính, ranh giới thường rõ, phẫu thuật lấy u vi phẫu là phương pháp điều trị triệt để và ưu tiên.[cite: 7]"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 58 tuổi đi lại khó khăn và tê bì hai chân",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 58 tuổi, nội trợ.<br><br><b>Bệnh sử:</b> Đến khám vì cảm giác \"nặng\" hai chân và đi lại khó khăn tăng dần trong 1 năm nay. Gần đây bệnh nhân thấy tê bì hai chân, cảm giác như kiến bò.<br><br><b>Khám lâm sàng:</b> Dáng đi thất - vắt (spastic gait). Trương lực cơ hai chi dưới tăng. Phản xạ gân xương gối và gót tăng nhạy (3+), rung giật xương bánh chè (+). Cảm giác sờ thô sơ giảm từ ngang mức mũi ức trở xuống. Chức năng tiểu tiện bình thường nhưng hay bị táo bón.<br><br><b>Xét nghiệm:</b> MRI cột sống ngực cho thấy khối u nằm trong ống sống, ngoài tủy, bắt thuốc mạnh và đồng nhất sau tiêm, có dấu hiệu \"đuôi màng cứng\" (dural tail sign) bám vào màng cứng đoạn T4-T5, chèn ép tủy nặng.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hình ảnh và lâm sàng hướng tới loại u nào nhất?",
+          "options": [
+            "U màng tủy (Meningioma)",
+            "U thần kinh đệm (Glioma)",
+            "U di căn (Metastasis)",
+            "U nguyên sống (Chordoma)"
+          ],
+          "answer": 0,
+          "explain": "Meningioma (U màng tủy): Thường gặp ở cột sống ngực, nữ giới, bắt thuốc mạnh/đồng nhất, dấu hiệu \"đuôi màng cứng\" (dural tail) là đặc trưng trên MRI.[cite: 7]"
+        },
+        {
+          "q": "Vị trí \"ngang mức mũi ức\" tương ứng với khoanh tủy cảm giác nào?",
+          "options": [
+            "T4",
+            "T7",
+            "T10",
+            "T12"
+          ],
+          "answer": 1,
+          "explain": "Mốc cảm giác da: Ngang núm vú = T4; Ngang mũi ức = T7; Ngang rốn = T10; Nếp bẹn = T12.[cite: 7]"
+        },
+        {
+          "q": "Triệu chứng nào SAU ĐÂY KHÔNG phù hợp với hội chứng chèn ép tủy chậm giai đoạn này?",
+          "options": [
+            "Liệt cứng hai chi dưới",
+            "Tăng phản xạ gân xương",
+            "Dấu hiệu Babinski (+)",
+            "Teo cơ cẳng chân rõ rệt"
+          ],
+          "answer": 3,
+          "explain": "Chèn ép tủy đoạn ngực gây liệt trung ương (UMN) -> liệt cứng, tăng phản xạ, không teo cơ (hoặc teo rất ít do vô dụng, không phải teo do mất chi phối thần kinh). Teo cơ rõ rệt là dấu hiệu của tổn thương LMN (sừng trước/rễ).[cite: 7]"
+        },
+        {
+          "q": "Đặc điểm dịch tễ học thường gặp của loại u này:",
+          "options": [
+            "Nam > Nữ, thường gặp ở người trẻ",
+            "Nữ > Nam, thường gặp ở lứa tuổi trung niên/cao tuổi",
+            "Liên quan chặt chẽ với hút thuốc lá",
+            "Thường ác tính và di căn nhanh"
+          ],
+          "answer": 1,
+          "explain": "Meningioma tủy sống ưu thế rõ rệt ở nữ giới (tỉ lệ 4:1 đến 10:1 so với nam), thường gặp ở tuổi trung niên (40-60t).[cite: 7]"
+        },
+        {
+          "q": "Tiên lượng sau phẫu thuật của bệnh nhân này thường như thế nào?",
+          "options": [
+            "Rất xấu, tỉ lệ tái phát > 80%",
+            "Tốt, thường hồi phục chức năng nếu giải ép kịp thời",
+            "Phụ thuộc hoàn toàn vào xạ trị sau mổ",
+            "Thường để lại di chứng liệt mềm vĩnh viễn"
+          ],
+          "answer": 1,
+          "explain": "Meningioma đa số là lành tính (WHO grade I). Phẫu thuật lấy bỏ u hoàn toàn thường mang lại tiên lượng tốt, sự hồi phục thần kinh phụ thuộc vào mức độ và thời gian chèn ép trước mổ.[cite: 7]"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi đau cổ gáy và mất cảm giác dạng áo khoác",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 30 tuổi, công nhân xây dựng.<br><br><b>Bệnh sử:</b> Vào viện vì đau cổ gáy lan xuống hai vai và tê bì, mất cảm giác đau nhiệt ở hai tay dạng \"áo khoác\" (cape-like distribution), nhưng vẫn nhận biết được cảm giác sờ và rung.<br><br><b>Khám lâm sàng:</b> Hai bàn tay teo nhỏ các cơ gian cốt, cầm nắm yếu. Cơ lực hai chân 4/5, phản xạ gân xương tứ chi đều tăng.<br><br><b>Xét nghiệm:</b> MRI cổ thấy khối u nằm trong tủy sống đoạn C3-C7, ranh giới rõ, kèm theo hốc rỗng tủy (syrinx) ở hai cực của u.",
+      "questions": [
+        {
+          "q": "Đặc điểm rối loạn cảm giác của bệnh nhân được gọi là gì và cơ chế?",
+          "options": [
+            "Hội chứng Brown-Séquard (tổn thương nửa tủy)",
+            "Phân ly cảm giác (Dissociated sensory loss) do tổn thương mép xám trước",
+            "Mất cảm giác toàn bộ do cắt ngang tủy",
+            "Dị cảm do chèn ép rễ sau"
+          ],
+          "answer": 1,
+          "explain": "Phân ly cảm giác (mất đau nhiệt, còn sờ sâu) là dấu hiệu kinh điển của tổn thương trung tâm tủy (hội chứng ống trung tâm/rỗng tủy), do các sợi dẫn truyền cảm giác đau nhiệt bắt chéo qua mép xám trước bị tổn thương, trong khi cột sau (sờ sâu) được bảo tồn.[cite: 7]"
+        },
+        {
+          "q": "Vị trí khối u này nằm ở đâu?",
+          "options": [
+            "Ngoài màng cứng",
+            "Trong màng cứng - ngoài tủy",
+            "Nội tủy (Intramedullary)",
+            "Trong đĩa đệm"
+          ],
+          "answer": 2,
+          "explain": "Lâm sàng (phân ly cảm giác) + MRI (u trong tủy, kèm rỗng tủy) -> Chắc chắn là U nội tủy.[cite: 7]"
+        },
+        {
+          "q": "Loại u nội tủy nào thường gặp nhất ở người lớn và có đặc điểm MRI như mô tả (kèm rỗng tủy)?",
+          "options": [
+            "Astrocytoma (U sao bào)",
+            "Ependymoma (U màng ống nội tủy)",
+            "Lipoma (U mỡ)",
+            "Teratoma (U quái)"
+          ],
+          "answer": 1,
+          "explain": "Ependymoma là u nội tủy thường gặp nhất ở người lớn, thường có ranh giới rõ và hay kèm nang/rỗng tủy (syrinx). Astrocytoma thường gặp hơn ở trẻ em và ranh giới thâm nhiễm kém rõ hơn.[cite: 7]"
+        },
+        {
+          "q": "Mục tiêu chính của phẫu thuật trong trường hợp này là:",
+          "options": [
+            "Sinh thiết để chẩn đoán, sau đó xạ trị",
+            "Lấy bỏ tối đa khối u mà bảo tồn chức năng thần kinh",
+            "Chỉ dẫn lưu nang nước",
+            "Cắt bỏ đoạn tủy chứa u"
+          ],
+          "answer": 1,
+          "explain": "Ependymoma thường có ranh giới rõ (mặt phẳng phân cách) với mô tủy lành -> Mục tiêu là phẫu thuật lấy bỏ hoàn toàn u nếu có thể để ngăn ngừa tái phát, bảo tồn chức năng.[cite: 7]"
+        },
+        {
+          "q": "Tại sao bệnh nhân có biểu hiện teo cơ bàn tay (dấu hiệu ngoại biên) dù khối u ở tủy sống (trung ương)?",
+          "options": [
+            "Do chèn ép động mạch nuôi cơ",
+            "Do tổn thương sừng trước tủy sống tại đoạn phình cổ",
+            "Do bệnh nhân không vận động (teo vô dụng)",
+            "Do u lan ra rễ thần kinh ngoại biên C8-T1"
+          ],
+          "answer": 1,
+          "explain": "Tổn thương tại sừng trước tủy sống (nơi chứa thân neuron vận động) sẽ gây ra triệu chứng liệt kiểu ngoại biên (LMN) tại khoanh tủy đó (teo cơ, rung giật bó cơ). Ở đây u đoạn cổ thấp làm tổn thương sừng trước chi phối tay -> teo cơ tay. Dưới mức tổn thương vẫn là liệt trung ương.[cite: 7]"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi liệt hai chân đột ngột",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 72 tuổi.<br><br><b>Tiền sử:</b> K tiền liệt tuyến đang điều trị nội tiết.<br><br><b>Bệnh sử:</b> Đột ngột xuất hiện yếu hoàn toàn hai chân (cơ lực 0/5), mất toàn bộ cảm giác từ nếp bẹn xuống, bí tiểu hoàn toàn trong vòng 6 giờ qua.<br><br><b>Khám lâm sàng:</b> Khám thấy hai chân liệt mềm, mất phản xạ gân xương, trương lực cơ giảm.<br><br><b>Xét nghiệm:</b> Chụp X-quang cột sống thắt lưng thấy hình ảnh hủy cuống sống (pedicle) L1 bên phải (dấu hiệu \"winking owl\" - con cú nháy mắt).",
+      "questions": [
+        {
+          "q": "Tình trạng thần kinh hiện tại của bệnh nhân được gọi là gì?",
+          "options": [
+            "Hội chứng đuôi ngựa (Cauda Equina Syndrome)",
+            "Choáng tủy (Spinal shock)",
+            "Liệt cứng do tổn thương bó tháp",
+            "Hội chứng sừng trước"
+          ],
+          "answer": 1,
+          "explain": "Liệt mềm, mất phản xạ gân xương xảy ra đột ngột sau tổn thương tủy cấp tính là biểu hiện của \"Choáng tủy\" (Spinal shock). Sau vài tuần, phản xạ tủy hồi phục sẽ chuyển sang liệt cứng. (Lưu ý: vị trí L1 là chóp cùng, tổn thương cấp gây choáng tủy).[cite: 7]"
+        },
+        {
+          "q": "Dấu hiệu X-quang hủy cuống sống gợi ý mạnh mẽ điều gì?",
+          "options": [
+            "Lao cột sống",
+            "U di căn cột sống",
+            "Thoát vị đĩa đệm",
+            "Gai đôi cột sống"
+          ],
+          "answer": 1,
+          "explain": "Cuống sống (pedicle) là vị trí di căn sớm nhất trên X-quang quy ước. Dấu hiệu mất cuống sống (\"winking owl\") rất gợi ý K di căn.[cite: 7]"
+        },
+        {
+          "q": "Thái độ xử trí ĐÚNG NHẤT trong trường hợp này:",
+          "options": [
+            "Chụp MRI cột sống khẩn cấp và hội chẩn phẫu thuật giải ép",
+            "Đo điện cơ (EMG) để xác định mức tổn thương",
+            "Đặt thông tiểu và theo dõi 24h xem có hồi phục không",
+            "Xạ hình xương toàn thân ngay lập tức"
+          ],
+          "answer": 0,
+          "explain": "Đây là cấp cứu ngoại khoa thần kinh (Metastatic Spinal Cord Compression - MSCC). Cần MRI khẩn cấp để xác định vị trí và mổ giải ép càng sớm càng tốt (tốt nhất trước 48h hoặc trước khi mất hoàn toàn chức năng).[cite: 7]"
+        },
+        {
+          "q": "Nguyên tắc phẫu thuật trong ung thư di căn cột sống KHÔNG bao gồm:",
+          "options": [
+            "Giải ép thần kinh",
+            "Làm vững cột sống",
+            "Cắt bỏ toàn bộ khối u và vét hạch triệt căn như ung thư nguyên phát",
+            "Lấy mẫu mô làm giải phẫu bệnh"
+          ],
+          "answer": 2,
+          "explain": "Phẫu thuật trong di căn cột sống là phẫu thuật tạm thời (palliative) nhằm: giải ép, làm vững, giảm đau, sinh thiết. Không đặt mục tiêu cắt u triệt căn/vét hạch rộng rãi như K nguyên phát vì đã là giai đoạn IV.[cite: 7]"
+        },
+        {
+          "q": "Tiên lượng khả năng đi lại của bệnh nhân phụ thuộc chủ yếu vào:",
+          "options": [
+            "Tuổi của bệnh nhân",
+            "Loại ung thư nguyên phát",
+            "Tình trạng thần kinh trước mổ và thời gian can thiệp",
+            "Mức độ loãng xương"
+          ],
+          "answer": 2,
+          "explain": "Yếu tố tiên lượng quan trọng nhất là chức năng thần kinh TRƯỚC mổ. Nếu bệnh nhân đã liệt hoàn toàn > 24-48h, khả năng hồi phục đi lại rất thấp.[cite: 7]"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 50 tuổi đau thắt lưng lan xuống đùi",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 50 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì đau thắt lưng lan xuống mặt sau đùi và bắp chân trái, tê bì ngón út chân trái (ngón 5). Bệnh nhân được chẩn đoán ban đầu là Thoát vị đĩa đệm L5-S1 và điều trị nội khoa 1 tháng không đỡ, đau ngày càng tăng, đau nhiều về đêm khiến bệnh nhân mất ngủ. Sụt 3kg/tháng.<br><br><b>Khám lâm sàng:</b> Khám thấy Lasegue trái 40 độ (+). Phản xạ gân gót trái giảm. Cơ lực bình thường.<br><br><b>Xét nghiệm:</b> X-quang cột sống thắt lưng bình thường.",
+      "questions": [
+        {
+          "q": "Đặc điểm nào sau đây KHÔNG phù hợp với chẩn đoán thoát vị đĩa đệm thông thường và gợi ý nguyên nhân khác (như u)?",
+          "options": [
+            "Đau lan theo rễ thần kinh",
+            "Lasegue (+)",
+            "Đau tăng về đêm và sụt cân",
+            "Giảm phản xạ gân gót"
+          ],
+          "answer": 2,
+          "explain": "Thoát vị đĩa đệm thường đau cơ học, giảm khi nghỉ. Đau về đêm (nghỉ không đỡ) + sụt cân là Red flags gợi ý u hoặc viêm.[cite: 7]"
+        },
+        {
+          "q": "Rễ thần kinh bị ảnh hưởng trên lâm sàng là:",
+          "options": [
+            "L4",
+            "L5",
+            "S1",
+            "S2"
+          ],
+          "answer": 2,
+          "explain": "Rễ S1 chi phối cảm giác bờ ngoài bàn chân/ngón út, phản xạ gân gót, vận động gấp gan chân. (L5: ngón cái, duỗi ngón cái; L4: mắt cá trong, duỗi gối).[cite: 7]"
+        },
+        {
+          "q": "Phương pháp chẩn đoán hình ảnh tiếp theo bắt buộc phải làm là:",
+          "options": [
+            "Chụp CT cột sống thắt lưng",
+            "Chụp MRI cột sống thắt lưng có tiêm thuốc đối quang từ",
+            "Xạ hình xương",
+            "Đo mật độ xương"
+          ],
+          "answer": 1,
+          "explain": "MRI có thuốc là tiêu chuẩn vàng để phân biệt thoát vị đĩa đệm vs u thần kinh. CT hạn chế đánh giá mô mềm trong ống sống.[cite: 7]"
+        },
+        {
+          "q": "Nếu MRI phát hiện một khối u nằm trong màng cứng vùng chùm đuôi ngựa (cauda equina), loại u nào hay gặp nhất ở vùng này?",
+          "options": [
+            "Meningioma",
+            "Schwannoma/Ependymoma (thể Myxopapillary)",
+            "Osteosarcoma",
+            "Hemangioma"
+          ],
+          "answer": 1,
+          "explain": "Vùng chóp cùng/đuôi ngựa: Ependymoma (đặc biệt là thể myxopapillary) và Schwannoma là phổ biến nhất. Meningioma hiếm gặp ở thắt lưng.[cite: 7]"
+        },
+        {
+          "q": "Sự khác biệt cơ bản về triệu chứng giữa U vùng đuôi ngựa (Cauda Equina) và U vùng chóp cùng (Conus Medullaris):",
+          "options": [
+            "U đuôi ngựa thường gây liệt cứng, U chóp cùng gây liệt mềm",
+            "U đuôi ngựa thường đau nhiều và bất đối xứng, U chóp cùng rối loạn cơ tròn sớm và đối xứng",
+            "U đuôi ngựa có Babinski (+), U chóp cùng Babinski (-)",
+            "U đuôi ngựa gây phân ly cảm giác, U chóp cùng mất cảm giác toàn bộ"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng chóp cùng (Conus Medullaris-T12-L1): Tổn thương tủy -> Rối loạn cơ tròn sớm, mất cảm giác yên ngựa đối xứng, Babinski có thể (+/-). Hội chứng đuôi ngựa (Cauda Equina - dưới L2): Tổn thương rễ -> Đau nhiều, liệt mềm, triệu chứng thường không đối xứng, rối loạn cơ tròn muộn hơn.[cite: 7]"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi đau lưng âm ỉ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 35 tuổi.<br><br><b>Tiền sử:</b> Khỏe mạnh.<br><br><b>Bệnh sử:</b> Xuất hiện đau lưng âm ỉ vùng thắt lưng 6 tháng nay. Gần đây đau lan xuống mông phải.<br><br><b>Khám lâm sàng:</b> Khám lâm sàng không thấy thiếu hụt vận động hay cảm giác rõ rệt.<br><br><b>Xét nghiệm:</b> Chụp X-quang và CT cột sống thắt lưng phát hiện một tổn thương tại thân đốt sống L3: hình ảnh thấu quang (lytic lesion), có các thớ xương thô (trabeculation) dạng sọc dọc (\"corduroy cloth\" appearance - vải nhung kẻ) hoặc chấm bi (\"polka-dot\" sign) trên lát cắt ngang.",
+      "questions": [
+        {
+          "q": "Hình ảnh điển hình này gợi ý u gì?",
+          "options": [
+            "U tế bào khổng lồ (Giant cell tumor)",
+            "U máu thân đốt sống (Vertebral Hemangioma)",
+            "U nguyên sống (Chordoma)",
+            "Nang xương phình mạch (Aneurysmal bone cyst)"
+          ],
+          "answer": 1,
+          "explain": "Hình ảnh \"sọc dọc\" (jail bar/corduroy) trên phim thẳng hoặc \"chấm bi\" (polka-dot) trên phim cắt lớp là đặc trưng của U máu thân đốt sống (Hemangioma) do các bè xương bị tiêu hủy và các bè còn lại dày lên chịu lực.[cite: 7]"
+        },
+        {
+          "q": "Hầu hết các trường hợp u này (Hemangioma) có diễn biến lâm sàng như thế nào?",
+          "options": [
+            "Tiến triển nhanh, gây gãy xương bệnh lý",
+            "Không triệu chứng (tình cờ phát hiện), lành tính",
+            "Luôn gây đau lưng dữ dội",
+            "Chuyển dạng ác tính cao"
+          ],
+          "answer": 1,
+          "explain": "Hemangioma là u xương lành tính phổ biến nhất cột sống, đại đa số không triệu chứng, phát hiện tình cờ.[cite: 7]"
+        },
+        {
+          "q": "Nếu u này gây triệu chứng chèn ép tủy hoặc rễ thần kinh, đặc điểm nào trên MRI gợi ý tính chất \"xâm lấn/hoạt động\" (aggressive)?",
+          "options": [
+            "Tăng tín hiệu trên T1, Tăng trên T2",
+            "Giảm tín hiệu trên T1, Tăng trên T2",
+            "Giảm tín hiệu trên cả T1 và T2",
+            "Có viền xơ cứng xung quanh"
+          ],
+          "answer": 1,
+          "explain": "Hemangioma điển hình chứa mỡ -> Tăng tín hiệu trên T1 và T2. Hemangioma xâm lấn (aggressive) thường nghèo mỡ, giàu mạch máu/tế bào -> Giảm tín hiệu T1, Tăng tín hiệu T2 (giống di căn, cần phân biệt).[cite: 7]"
+        },
+        {
+          "q": "Phương pháp điều trị can thiệp tối thiểu hiệu quả cho u máu thân đốt sống gây đau đơn thuần (không chèn ép tủy) là:",
+          "options": [
+            "Tạo hình đốt sống bằng bơm xi măng (Vertebroplasty)",
+            "Phẫu thuật cắt bỏ thân đốt sống",
+            "Nút mạch (Embolization)",
+            "Tiêm Corticoid tại chỗ"
+          ],
+          "answer": 0,
+          "explain": "Bơm xi măng sinh học (Vertebroplasty/Kyphoplasty) giúp làm vững đốt sống và giảm đau hiệu quả do nhiệt và cơ học.[cite: 7]"
+        },
+        {
+          "q": "Trong trường hợp cần phẫu thuật cắt bỏ u máu lớn chèn ép tủy, bước chuẩn bị quan trọng trước mổ để giảm mất máu là:",
+          "options": [
+            "Truyền Yếu tố VIII",
+            "Chụp mạch số hóa xóa nền (DSA) và nút mạch tiền phẫu",
+            "Hạ huyết áp chỉ huy",
+            "Dùng thuốc chống tiêu sợi huyết"
+          ],
+          "answer": 1,
+          "explain": "U máu rất giàu mạch nuôi. Trước khi mổ mở, BẮT BUỘC phải chụp mạch và nút mạch (Embolization) để kiểm soát chảy máu trong mổ.[cite: 7]"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 55 tuổi yếu chân trái và mất cảm giác chân phải",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 55 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì yếu chân trái và mất cảm giác đau, nóng lạnh chân phải. Bệnh diễn biến 4 tháng nay.<br><br><b>Khám lâm sàng:</b> Khám thần kinh: Chân trái: Giảm cơ lực (3/5), tăng phản xạ gân xương, Babinski (+), còn cảm giác đau nhiệt, nhưng mất cảm giác rung và bản thể (vị trí khớp). Chân phải: Cơ lực bình thường, phản xạ bình thường, nhưng mất cảm giác đau và nhiệt từ nếp bẹn xuống. Cột sống ngực ấn đau nhẹ ngang mức T9.",
+      "questions": [
+        {
+          "q": "Đây là hội chứng lâm sàng gì?",
+          "options": [
+            "Hội chứng tủy trước (Anterior Cord Syndrome)",
+            "Hội chứng tủy sau (Posterior Cord Syndrome)",
+            "Hội chứng Brown-Séquard (Hội chứng cắt ngang nửa tủy)",
+            "Hội chứng ống trung tâm (Central Cord Syndrome)"
+          ],
+          "answer": 2,
+          "explain": "Hội chứng Brown-Séquard: Liệt vận động và mất cảm giác sâu CÙNG BÊN tổn thương. Mất cảm giác đau nhiệt ĐỐI BÊN tổn thương.[cite: 7]"
+        },
+        {
+          "q": "Theo logic giải phẫu, tổn thương u nằm ở bên nào của tủy sống và tại mức nào (ước lượng)?",
+          "options": [
+            "Bên Phải, đoạn ngực thấp",
+            "Bên Trái, đoạn ngực thấp (khoảng T9-T10)",
+            "Bên Trái, đoạn thắt lưng",
+            "Bên Phải, đoạn cổ"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân liệt chân Trái + Mất cảm giác sâu chân Trái -> Tổn thương bên Trái. Mất cảm giác đau nhiệt chân Phải (đối diện) phù hợp với tổn thương bên Trái. Mức tổn thương ở ngực (do liệt chân, tay bình thường).[cite: 7]"
+        },
+        {
+          "q": "Giải thích cơ chế mất cảm giác đau nhiệt chân phải (đối bên tổn thương):",
+          "options": [
+            "Bó gai đồi thị (Spinothalamic) bắt chéo ngay tại tủy sống (sau khi đi lên 1-2 khoanh)",
+            "Bó gai đồi thị bắt chéo tại hành não",
+            "Bó thon và bó chêm bắt chéo tại tủy sống",
+            "Do tổn thương rễ thần kinh đối bên"
+          ],
+          "answer": 0,
+          "explain": "Bó gai đồi thị (dẫn truyền đau, nhiệt) đi vào tủy sống, bắt chéo qua mép trắng trước sang bên đối diện rồi đi lên. Do đó tổn thương nửa tủy trái sẽ cắt đứt đường dẫn truyền từ chân phải đi lên -> Mất đau nhiệt bên phải.[cite: 7]"
+        },
+        {
+          "q": "U nào sau đây thường gây ra hội chứng chèn ép tủy từ một bên (lateral compression) như vậy?",
+          "options": [
+            "U nội tủy lan tỏa",
+            "U màng tủy (Meningioma) hoặc U bao thần kinh (Schwannoma)",
+            "Nang màng nhện",
+            "U mỡ dây tận cùng"
+          ],
+          "answer": 1,
+          "explain": "Các u nằm lệch một bên trong khoang dưới nhện (Intradural- Extramedullary) như Meningioma hay Schwannoma thường ép tủy từ một phía, gây hội chứng Brown-Séquard điển hình hoặc không điển hình.[cite: 7]"
+        },
+        {
+          "q": "Nếu bệnh nhân này có thêm triệu chứng đau rễ thần kinh sườn tại khoanh T9 bên trái, điều này gợi ý:",
+          "options": [
+            "U nằm trong tủy",
+            "U nằm ngoài tủy (Extramedullary) chèn ép rễ tại chỗ và ép tủy",
+            "U di căn thân đốt sống",
+            "Thoát vị đĩa đệm"
+          ],
+          "answer": 1,
+          "explain": "Đau rễ tại chỗ (Local radicular pain) là dấu hiệu chỉ điểm vị trí u và gợi ý nguồn gốc ngoài tủy (ép rễ trước khi ép tủy).[cite: 7]"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 18 tuổi vẹo cổ và yếu tứ chi",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 18 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì vẹo cổ, đau cứng gáy và tê yếu tứ chi tiến triển chậm.<br><br><b>Khám lâm sàng:</b> Khám thấy khối u phần mềm vùng cổ sau kích thước lớn, mật độ chắc.<br><br><b>Xét nghiệm:</b> MRI cột sống cổ thấy khối u lớn phá hủy cung sau và thân đốt sống C2, xâm lấn vào ống sống chèn ép tủy cổ cao, bao quanh động mạch đốt sống hai bên. Sinh thiết kim cho kết quả: U nguyên sống (Chordoma).",
+      "questions": [
+        {
+          "q": "Nguồn gốc phôi thai học của Chordoma là từ:",
+          "options": [
+            "Mào thần kinh (Neural crest)",
+            "Tồn dư của dây sống (Notochord remnants)",
+            "Trung mô (Mesoderm)",
+            "Ngoại bì da (Ectoderm)"
+          ],
+          "answer": 1,
+          "explain": "Chordoma phát sinh từ tàn tích của dây sống (notochord) thời kỳ phôi thai.[cite: 7]"
+        },
+        {
+          "q": "Vị trí thường gặp nhất của Chordoma theo thứ tự là:",
+          "options": [
+            "Cùng cụt > Nền sọ (Bản dốc) > Cột sống di động",
+            "Cột sống cổ > Ngực > Thắt lưng",
+            "Thân đốt sống ngực > Cùng cụt",
+            "Nền sọ > Cột sống cổ > Cùng cụt"
+          ],
+          "answer": 0,
+          "explain": "Phân bố: Vùng cùng cụt (Sacrum ~50%) > Nền sọ (Clivus ~35%) > Cột sống di động (Cervical/Thoracic/Lumbar ~15%).[cite: 7]"
+        },
+        {
+          "q": "Đặc điểm mô bệnh học đặc trưng của Chordoma là:",
+          "options": [
+            "Tế bào bọt (Foam cells)",
+            "Tế bào Physaliferous (Tế bào chứa không bào lớn giống bong bóng)",
+            "Tế bào hình thoi (Spindle cells)",
+            "Tế bào Reed-Sternberg"
+          ],
+          "answer": 1,
+          "explain": "Tế bào Physaliferous (có bào tương chứa nhiều không bào chứa chất nhày, nhân lệch tâm) là dấu ấn giải phẫu bệnh đặc trưng của Chordoma.[cite: 7]"
+        },
+        {
+          "q": "Chiến lược điều trị tối ưu cho Chordoma cột sống cổ là:",
+          "options": [
+            "Xạ trị đơn thuần vì u nhạy cảm tia xạ",
+            "Phẫu thuật cắt bỏ rộng rãi (En-bloc resection) nếu có thể + Xạ trị proton/carbon ion",
+            "Hóa trị liệu liều cao",
+            "Nút mạch và theo dõi"
+          ],
+          "answer": 1,
+          "explain": "Chordoma kháng với xạ trị và hóa trị thông thường. Phẫu thuật cắt bỏ khối u nguyên khối (En-bloc) với bờ diện cắt sạch là cơ hội khỏi bệnh duy nhất. Xạ trị chùm hạt (Proton beam) hỗ trợ kiểm soát sau mổ tốt hơn xạ trị thường.[cite: 7]"
+        },
+        {
+          "q": "Tại sao phẫu thuật Chordoma vùng cổ lại cực kỳ thách thức và nguy hiểm? (Chọn ý ĐÚNG NHẤT)",
+          "options": [
+            "Do u quá cứng không cắt được",
+            "Do u thường bao bọc/dính chặt động mạch đốt sống và chèn ép tủy cổ cao",
+            "Do nguy cơ nhiễm trùng cao",
+            "Do không thể cố định cột sống cổ sau mổ"
+          ],
+          "answer": 1,
+          "explain": "Vùng cổ cao có động mạch đốt sống (cấp máu cho thân não) và tủy cổ (trung tâm hô hấp). Việc u bao quanh mạch máu khiến khả năng cắt bỏ hoàn toàn (En-bloc) rất khó khăn và rủi ro tai biến mạch máu não tử vong cao.[cite: 7]"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 32 tuổi đau vai trái và hội chứng Horner",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 32 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì đau vai trái và hội chứng Horner bên trái (sụp mi, co đồng tử, giảm tiết mồ hôi nửa mặt trái).<br><br><b>Xét nghiệm:</b> X-quang ngực thẳng thấy đám mờ ở đỉnh phổi trái. MRI cột sống cổ ngực thấy khối u từ đỉnh phổi xâm lấn vào các đốt sống C7-T1 và đám rối thần kinh cánh tay.",
+      "questions": [
+        {
+          "q": "Đây là dạng lâm sàng đặc biệt của u gì?",
+          "options": [
+            "U Pancoast (Pancoast Tumor / Superior Pulmonary Sulcus Tumor)",
+            "U lao đỉnh phổi",
+            "U rễ thần kinh cổ",
+            "U tuyến ức xâm lấn"
+          ],
+          "answer": 0,
+          "explain": "U đỉnh phổi (thường là ung thư phổi không tế bào nhỏ) xâm lấn thành ngực, cột sống và thần kinh gọi là U Pancoast.[cite: 7]"
+        },
+        {
+          "q": "Hội chứng Horner xuất hiện do khối u xâm lấn vào cấu trúc nào?",
+          "options": [
+            "Dây thần kinh X (Lang thang)",
+            "Chuỗi hạch giao cảm cổ ngực (Hạch sao - Stellate ganglion)",
+            "Rễ thần kinh C5",
+            "Tủy sống cổ"
+          ],
+          "answer": 1,
+          "explain": "Hạch giao cảm cổ ngực (Hạch sao) nằm ở mức C7-T1. Tổn thương hạch này gây mất giao cảm chi phối mắt và mặt -> Hội chứng Horner (Sụp mi, co đồng tử, mắt trũng, giảm tiết mồ hôi).[cite: 7]"
+        },
+        {
+          "q": "Ngoài hội chứng Horner, bệnh nhân thường có biểu hiện yếu/teo cơ bàn tay do tổn thương rễ nào?",
+          "options": [
+            "C5, C6",
+            "C6, C7",
+            "C8, T1",
+            "L1, L2"
+          ],
+          "answer": 2,
+          "explain": "Đám rối cánh tay thân dưới (Lower trunk) tạo bởi rễ C8 và T1 nằm ngay đỉnh phổi. U xâm lấn gây đau mặt trong cánh tay (thần kinh trụ) và teo cơ bàn tay (các cơ gian cốt).[cite: 7]"
+        },
+        {
+          "q": "Để chẩn đoán xác định mô bệnh học, phương pháp nào thường được ưu tiên trước khi quyết định đại phẫu?",
+          "options": [
+            "Mổ mở thăm dò",
+            "Sinh thiết kim qua da dưới hướng dẫn CT (CT-guided biopsy)",
+            "Soi phế quản (thường âm tính vì u ở ngoại vi)",
+            "Xét nghiệm đờm"
+          ],
+          "answer": 1,
+          "explain": "Vì u nằm ở cực ngoại vi phổi, soi phế quản thường không thấy. Sinh thiết xuyên thành ngực dưới hướng dẫn CT là cách tốt nhất để có chẩn đoán mô học.[cite: 7]"
+        },
+        {
+          "q": "Lựa chọn điều trị tiêu chuẩn hiện nay cho U Pancoast giai đoạn khu trú là:",
+          "options": [
+            "Phẫu thuật ngay lập tức",
+            "Hóa - Xạ trị đồng thời tiền phẫu (Neoadjuvant), sau đó Phẫu thuật",
+            "Chỉ xạ trị giảm đau",
+            "Điều trị miễn dịch đơn thuần"
+          ],
+          "answer": 1,
+          "explain": "Phác đồ chuẩn (tri-modality therapy): Hóa-Xạ trị trước để làm nhỏ u và giới hạn di căn vi thể -> sau đó Phẫu thuật cắt thùy phổi + cắt đoạn thành ngực/cột sống bị xâm lấn.[cite: 7]"
+        }
+      ]
+    }
+  ]
+}
