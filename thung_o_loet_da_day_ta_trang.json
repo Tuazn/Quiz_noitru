@@ -1,0 +1,630 @@
+{
+  "name": "Thủng ổ loét dạ dày tá tràng",
+  "description": "Case lâm sàng về thủng ổ loét dạ dày tá tràng theo hướng dẫn WSES 2020, bao gồm chẩn đoán, quản lý lâm sàng, kỹ thuật phẫu thuật, biến chứng, và phòng ngừa tái phát.",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Tiêu hóa",
+  "cases": [
+    {
+      "id": "ppu_001",
+      "title": "Đau bụng đột ngột, bụng cứng như gỗ",
+      "body": "<p><strong>Bệnh nhân nam 45 tuổi</strong>, tiền sử viêm dạ dày mạn tính, vào viện giờ thứ 4 vì đau bụng dữ dội. <strong>Bệnh sử:</strong> Bệnh nhân đang làm việc thì đột ngột đau vùng thượng vị dữ dội \"như dao đâm\", đau liên tục, lan ra khắp bụng và lan lên vai phải. Bệnh nhân không nôn, bí trung đại tiện. <strong>Khám toàn thân:</strong> Tỉnh, vã mồ hôi, Mạch 90 l/p, HA 130/80 mmHg. <strong>Khám bụng:</strong> Bụng không tham gia nhịp thở, co cứng thành bụng toàn bộ \"cứng như gỗ\". Gõ thấy mất vùng đục trước gan. Thăm trực tràng: Túi cùng Douglas căng đau. <strong>Cận lâm sàng:</strong> WBC 12 G/L, Amylase máu 150 U/L (bình thường &lt; 100).</p>",
+      "questions": [
+        {
+          "q": "Triệu chứng \"Gõ mất vùng đục trước gan\" có giá trị chẩn đoán gì?",
+          "options": [
+            "Có dịch mủ ở dưới gan",
+            "Có hơi tự do trong ổ bụng nằm xen giữa gan và thành bụng trước",
+            "Gan bị teo nhỏ do xơ gan",
+            "Dạ dày giãn to che lấp gan"
+          ],
+          "answer": 1,
+          "explain": "Dấu hiệu Jobert (mất vùng đục trước gan) chứng tỏ có Pneumoperitoneum tách mặt trước gan ra khỏi thành bụng. Đây là dấu hiệu lâm sàng đặc trưng của thủng tạng rỗng."
+        },
+        {
+          "q": "Chẩn đoán hình ảnh ĐẦU TAY (First-line) và tư thế chụp phù hợp nhất để tìm dấu hiệu hơi tự do?",
+          "options": [
+            "Chụp X-quang bụng nằm nghiêng trái",
+            "Chụp X-quang ngực thẳng đứng (Upright Chest X-ray) hoặc X-quang bụng đứng",
+            "Siêu âm bụng",
+            "Chụp CT scan bụng"
+          ],
+          "answer": 1,
+          "explain": "X-quang ngực đứng lấy hết vòm hoành là phim đầu tay để tìm liềm hơi dưới hoành (độ nhạy 75-80%). Nếu bệnh nhân quá yếu không đứng được mới chụp bụng nằm nghiêng trái (tia đi ngang)."
+        },
+        {
+          "q": "Tại sao Amylase máu của bệnh nhân tăng nhẹ?",
+          "options": [
+            "Do bệnh nhân bị viêm tụy cấp đi kèm",
+            "Do dịch tá tràng chứa men tụy trào vào ổ bụng và tái hấp thu qua phúc mạc vào máu",
+            "Do suy thận",
+            "Do sai số xét nghiệm"
+          ],
+          "answer": 1,
+          "explain": "Trong thủng ổ loét, dịch tiêu hóa (chứa Amylase) tràn ra ổ bụng → hấp thu vào máu → Amylase tăng nhẹ (thường < 3 lần). Viêm tụy cấp thường tăng rất cao (> 3 lần) và Lipase tăng đặc hiệu hơn."
+        },
+        {
+          "q": "Tư thế nằm của bệnh nhân trên lâm sàng thường là:",
+          "options": [
+            "Nằm ngửa, chân duỗi thẳng",
+            "Nằm sấp",
+            "Nằm im bất động, hai chân co về phía bụng, thở nông",
+            "Vật vã lăn lộn liên tục"
+          ],
+          "answer": 2,
+          "explain": "Trong viêm phúc mạc do thủng (Peritonitis), bệnh nhân nằm im bất động (motionless) vì cử động làm đau tăng. Ngược lại, sỏi mật/sỏi thận/tắc ruột thường gây đau quặn làm bệnh nhân lăn lộl."
+        },
+        {
+          "q": "Phương pháp phẫu thuật kinh điển và phổ biến nhất để xử trí lỗ thủng tá tràng là:",
+          "options": [
+            "Cắt dạ dày cấp cứu",
+            "Khâu lỗ thủng đơn thuần",
+            "Khâu lỗ thủng tăng cường bằng mạc nối lớn (Graham patch)",
+            "Nối vị tràng"
+          ],
+          "answer": 2,
+          "explain": "Phẫu thuật khâu lỗ thủng + đắp mạc nối (Graham patch repair) là tiêu chuẩn vàng cho thủng ổ loét tá tràng lành tính. Cắt dạ dày chỉ đặt ra trong trường hợp đặc biệt (ung thư, hẹp, thủng quá lớn không khâu được)."
+        }
+      ]
+    },
+    {
+      "id": "ppu_002",
+      "title": "Thủng ổ loét muộn, sốc nhiễm khuẩn, lactate cao",
+      "body": "<p><strong>Bệnh nhân nam 70 tuổi</strong>, vào viện muộn (giờ thứ 30) trong tình trạng lơ mơ, sốc. <strong>Tiền sử:</strong> Suy tim, dùng Aspirin thường xuyên. <strong>Bệnh sử:</strong> Đau bụng từ hôm qua nhưng cố chịu, nay khó thở, bụng chướng căng mới đi viện. <strong>Khám:</strong> Lơ mơ, Mạch 120 l/p, HA 80/50 mmHg (Sốc nhiễm khuẩn). Bụng chướng, cảm ứng phúc mạc khắp bụng. Sonde dạ dày ra dịch nâu bẩn. <strong>Cận lâm sàng:</strong> Creatinin 180 μmol/L, Lactate 5.0 mmol/L. X-quang: Liềm hơi dưới hoành 2 bên rất lớn.</p>",
+      "questions": [
+        {
+          "q": "Tiên lượng tử vong của bệnh nhân này theo thang điểm Boey là bao nhiêu điểm?",
+          "options": [
+            "0 điểm",
+            "1 điểm",
+            "2 điểm",
+            "3 điểm"
+          ],
+          "answer": 3,
+          "explain": "Thang điểm Boey (dự báo tử vong sau mổ thủng ổ loét): 1. Sốc (Có); 2. Bệnh nền nặng/ASA III-IV (Có - Suy tim); 3. Muộn > 24h (Có - 30h). Tổng: 3 điểm (Tỷ lệ tử vong rất cao ~40-50%)."
+        },
+        {
+          "q": "Vi khuẩn chủ yếu gây viêm phúc mạc ở giai đoạn muộn (>24h) này là:",
+          "options": [
+            "Chỉ có vi khuẩn Gram (+)",
+            "Vô khuẩn (viêm phúc mạc hóa học)",
+            "Hỗn hợp vi khuẩn Gram (-) đường ruột (E.coli) và Kỵ khí (Bacteroides)",
+            "Virus"
+          ],
+          "answer": 2,
+          "explain": "6-12h đầu là viêm phúc mạc hóa học. Sau 12-24h, vi khuẩn phát triển mạnh → viêm phúc mạc nhiễm khuẩn (Gram âm và Kỵ khí)."
+        },
+        {
+          "q": "Thái độ xử trí TỐI ƯU lúc nhập viện:",
+          "options": [
+            "Đưa thẳng lên phòng mổ ngay lập tức để chặn lỗ thủng",
+            "Hồi sức tích cực (Dịch, Vận mạch, Kháng sinh) trong 1-2 giờ để ổn định huyết động rồi mổ",
+            "Điều trị bảo tồn bằng hút dạ dày (Phương pháp Taylor)",
+            "Chọc hút dịch ổ bụng tại giường"
+          ],
+          "answer": 1,
+          "explain": "Sốc nhiễm khuẩn/giảm thể tích nặng cần hồi sức (Resuscitation) trước mổ. Đưa lên bàn mổ khi huyết động chưa ổn định sẽ gây ngưng tim khi khởi mê."
+        },
+        {
+          "q": "Yếu tố nào sau đây KHÔNG nằm trong thang điểm Boey?",
+          "options": [
+            "Sốc lúc nhập viện (HA tâm thu < 90 mmHg)",
+            "ASA III-IV (Bệnh nền nặng)",
+            "Tuổi > 60",
+            "Thời gian can thiệp chậm trễ > 24 giờ"
+          ],
+          "answer": 2,
+          "explain": "Boey score gồm 3 yếu tố: Shock, Serious medical illness (ASA III-V), Delayed diagnosis > 24h. Tuổi tác không phải là tiêu chí trực tiếp của Boey (dù tuổi cao thường liên quan ASA)."
+        },
+        {
+          "q": "Trong mổ, ngoài việc xử trí lỗ thủng, thì quan trọng nhất ở bệnh nhân đến muộn này là:",
+          "options": [
+            "Cắt dây thần kinh X",
+            "Rửa sạch ổ bụng (Peritoneal Lavage) và dẫn lưu triệt để",
+            "Làm hậu môn nhân tạo",
+            "Nối vị tràng"
+          ],
+          "answer": 1,
+          "explain": "Nguyên nhân tử vong chính là Sepsis do ổ bụng bẩn. Việc rửa bụng sạch (với hàng chục lít nước muối ấm) quan trọng ngang với việc đóng lỗ thủng."
+        }
+      ]
+    },
+    {
+      "id": "ppu_003",
+      "title": "Thủng bít, huyết động ổn định, phương pháp Taylor",
+      "body": "<p><strong>Bệnh nhân nữ 28 tuổi</strong>, nhân viên văn phòng, tiền sử đau thượng vị. Đột ngột đau dữ dội thượng vị cách 3 giờ. <strong>Vào viện khám:</strong> Tỉnh táo, Mạch 80, HA 120/70. Bụng ấn đau khu trú thượng vị và dưới sườn phải, <strong>PHẢN ỨNG THÀNH BỤNG KHÔNG RÕ RÀNG</strong> ở hố chậu. <strong>X-quang:</strong> KHÔNG thấy liềm hơi. <strong>Siêu âm:</strong> Có ít dịch quanh gan và túi cùng Douglas. Bác sĩ nghi ngờ thủng ổ loét bít (Forme fruste) và chỉ định chụp CT bụng có cản quang uống (Water-soluble contrast).</p>",
+      "questions": [
+        {
+          "q": "Tại sao khoảng 10–30% trường hợp thủng tạng rỗng không thấy liềm hơi trên X-quang?",
+          "options": [
+            "Do lỗ thủng đã được mạc nối hoặc thức ăn bít lại ngay, lượng hơi thoát ra ít",
+            "Do X-quang không nhạy với khí",
+            "Do dạ dày không chứa hơi",
+            "Do bệnh nhân béo phì"
+          ],
+          "answer": 0,
+          "explain": "Thủng bít (Sealed perforation) hoặc lỗ thủng nhỏ, bị mạc nối/giả mạc che lấp ngay khiến khí không thoát ra nhiều hoặc thoát ra rồi khu trú lại → X-quang âm tính."
+        },
+        {
+          "q": "Nếu CT scan thấy một lượng khí tự do rất nhỏ cạnh tá tràng, thuốc cản quang KHÔNG thoát ra ngoài ổ bụng, bệnh nhân đau giảm nhiều. Hướng điều trị có thể cân nhắc là:",
+          "options": [
+            "Phương pháp Taylor (Điều trị bảo tồn không mổ)",
+            "Mổ nội soi khâu lỗ thủng",
+            "Mổ mở cắt dạ dày",
+            "Cho về theo dõi"
+          ],
+          "answer": 0,
+          "explain": "Thủng bít, lâm sàng ổn định, không viêm phúc mạc toàn thể, không thoát thuốc cản quang → Chỉ định điều trị bảo tồn (Non-operative management - Taylor method) có tỷ lệ thành công cao."
+        },
+        {
+          "q": "\"Phương pháp Taylor\" bao gồm các biện pháp chính nào?",
+          "options": [
+            "Nhịn ăn, truyền dịch, kháng sinh",
+            "Đặt sonde dạ dày hút liên tục (quan trọng nhất), Nhịn ăn, Truyền dịch, Kháng sinh, H2 blocker/PPI",
+            "Chỉ cần uống thuốc giảm tiết axit",
+            "Chọc hút dịch ổ bụng và dùng kháng sinh"
+          ],
+          "answer": 1,
+          "explain": "Nguyên lý Taylor: Làm rỗng dạ dày tối đa (hút liên tục) để mép lỗ thủng khép lại và dính vào tạng lân cận/mạc nối + Kháng sinh + Giảm tiết."
+        },
+        {
+          "q": "Điều kiện tiên quyết để áp dụng phương pháp Taylor là gì? (Chọn câu SAI)",
+          "options": [
+            "Bệnh nhân đến sớm, bụng không chướng",
+            "Huyết động ổn định",
+            "Đã có viêm phúc mạc toàn thể rõ rệt",
+            "Chụp phim có thuốc cản quang xác nhận lỗ thủng đã bít (không thoát thuốc)"
+          ],
+          "answer": 2,
+          "explain": "Viêm phúc mạc toàn thể (Generalized peritonitis) là CHỐNG CHỈ ĐỊNH tuyệt đối của điều trị bảo tồn. Bắt buộc phải mổ rửa bụng."
+        },
+        {
+          "q": "Dấu hiệu bắt buộc phải chuyển mổ ngay khi đang điều trị bảo tồn:",
+          "options": [
+            "Bệnh nhân thấy đói",
+            "Mạch nhanh lên, nhiệt độ tăng, đau bụng tăng hoặc lan rộng, bụng chướng",
+            "Không trung tiện được sau 6 tiếng",
+            "Sonde dạ dày ra ít dịch"
+          ],
+          "answer": 1,
+          "explain": "Dấu hiệu lâm sàng xấu đi (failure of conservative treatment) chứng tỏ lỗ thủng bị toác ra hoặc nhiễm trùng lan rộng → Cần can thiệp phẫu thuật ngay."
+        }
+      ]
+    },
+    {
+      "id": "ppu_004",
+      "title": "Phẫu thuật nội soi xử trí thủng ổ loét tá tràng",
+      "body": "<p><strong>Bệnh nhân nam 50 tuổi</strong>, nghiện rượu, vào viện vì đau bụng dữ dội, bụng cứng như gỗ. <strong>X-quang:</strong> Có liềm hơi dưới hoành. <strong>Tiền sử:</strong> Chưa phát hiện bệnh lý dạ dày. Bệnh nhân được chỉ định mổ nội soi cấp cứu. <strong>Trong mổ:</strong> Thấy ổ bụng nhiều dịch mủ và giả mạc, lỗ thủng kích thước 0.5cm ở mặt trước hành tá tràng, bờ mềm mại.</p>",
+      "questions": [
+        {
+          "q": "Tại sao Phẫu thuật nội soi (Laparoscopic repair) ngày càng được ưa chuộng trong xử trí thủng ổ loét?",
+          "options": [
+            "Giảm đau sau mổ, hồi phục nhanh, sẹo thẩm mỹ, quan sát rửa bụng tốt",
+            "Thời gian mổ nhanh hơn mổ mở",
+            "Không cần gây mê nội khí quản",
+            "Chi phí thấp hơn"
+          ],
+          "answer": 0,
+          "explain": "Ưu điểm lớn nhất của nội soi là xâm lấn tối thiểu và khả năng quan sát rửa sạch các ngóc ngách (dưới hoành, Douglas) tốt hơn mổ mở đường nhỏ."
+        },
+        {
+          "q": "Kỹ thuật khâu lỗ thủng qua nội soi thường dùng:",
+          "options": [
+            "Khâu 1 lớp mũi chữ X hoặc mũi rời, đắp mạc nối",
+            "Khâu 2 lớp",
+            "Khâu vắt liên tục",
+            "Dùng clip kẹp lỗ thủng"
+          ],
+          "answer": 0,
+          "explain": "Mũi khâu đơn hoặc chữ X (thường dùng chỉ tiêu chậm như Vicryl 2.0/3.0 hoặc PDS) kèm đắp mạc nối (Omental patch) là kỹ thuật chuẩn."
+        },
+        {
+          "q": "Sau khi khâu lỗ thủng, bước quan trọng để kiểm tra độ kín của đường khâu là:",
+          "options": [
+            "Bơm hơi hoặc bơm xanh methylene qua sonde dạ dày (Leak test)",
+            "Chụp X-quang ngay trên bàn mổ",
+            "Ấn mạnh vào vùng dạ dày",
+            "Không cần kiểm tra"
+          ],
+          "answer": 0,
+          "explain": "Leak test (Nghiệm pháp xì): Bơm hơi/chất màu vào dạ dày, quan sát chỗ khâu có sủi bọt/rỉ màu không để gia cố."
+        },
+        {
+          "q": "Nếu trong mổ phát hiện lỗ thủng \"xơ chai, kích thước lớn (>2cm), mủn nát khó khâu\", phương án xử trí an toàn nhất (Safe strategy) là:",
+          "options": [
+            "Cố gắng khâu nhiều lớp",
+            "Mở dẫn lưu tá tràng (Duodenostomy) qua lỗ thủng hoặc dẫn lưu mỏm tá tràng + Nối vị tràng + Cắt dây X (nếu cần)",
+            "Cắt dạ dày",
+            "Dùng keo sinh học dán lại"
+          ],
+          "answer": 1,
+          "explain": "Lỗ thủng khổng lồ (Giant ulcer perforation) hoặc bờ mủn nát khâu sẽ bục. Cần đặt dẫn lưu vào tá tràng (tạo đường rò có kiểm soát - Tube duodenostomy) hoặc phẫu thuật loại trừ môn vị (Pyloric exclusion) + Nối vị tràng."
+        },
+        {
+          "q": "Sau mổ bệnh nhân cần được điều trị tiệt trừ H. pylori để:",
+          "options": [
+            "Giảm đau",
+            "Ngừa ung thư",
+            "Ngăn ngừa loét tái phát và thủng tái phát",
+            "Giúp vết mổ liền nhanh"
+          ],
+          "answer": 2,
+          "explain": "Nguyên nhân loét tá tràng chủ yếu do H. pylori. Nếu không diệt HP, tỷ lệ tái phát loét trong 1 năm rất cao → nguy cơ thủng lại."
+        }
+      ]
+    },
+    {
+      "id": "ppu_005",
+      "title": "Thủng dạ dày do ung thư, cần sinh thiết bắt buộc",
+      "body": "<p><strong>Bệnh nhân nam 60 tuổi</strong>, sụt cân, chán ăn 2 tháng nay. Vào viện vì thủng tạang rỗng (Liềm hơi +). <strong>Mổ thám sát:</strong> Thấy lỗ thủng nằm ở Bờ cong nhỏ dạ dày, kích thước 2cm, bờ cứng, sần sùi, thâm nhiễm rộng.</p>",
+      "questions": [
+        {
+          "q": "Đặc điểm lỗ thủng gợi ý điều gì?",
+          "options": [
+            "Loét dạ dày lành tính",
+            "Ung thư dạ dày thủng (Malignant perforation)",
+            "Thủng do dị vật",
+            "Lao dạ dày"
+          ],
+          "answer": 1,
+          "explain": "Lỗ thủng bờ cong nhỏ, bờ cứng sần sùi, trên nền sụt cân → Gợi ý cao K dạ dày biến chứng thủng."
+        },
+        {
+          "q": "Thái độ xử trí BẮT BUỘC đối với lỗ thủng ở DẠ DÀY (khác với Tá tràng) là:",
+          "options": [
+            "Chỉ cần khâu lại là đủ",
+            "Phải bấm sinh thiết bờ lỗ thủng hoặc cắt lọc ổ loét gửi giải phẫu bệnh để loại trừ ung thư",
+            "Điều trị bảo tồn",
+            "Không cần sinh thiết vì lỗ thủng làm tế bào ung thư lan tràn rồi"
+          ],
+          "answer": 1,
+          "explain": "Loét tá tràng hầu hết là lành tính. Loét dạ dày có tỷ lệ ác tính (Malignancy) đáng kể (10-15%). Không bao giờ được khâu lỗ thủng dạ dày mà không sinh thiết."
+        },
+        {
+          "q": "Nếu sinh thiết tức thì (Frozen section) trả lời là Ung thư biểu mô tuyến (Adenocarcinoma), bệnh nhân toàn trạng tốt, ổ bụng sạch. Phẫu thuật nên làm là:",
+          "options": [
+            "Khâu lỗ thủng đơn thuần",
+            "Cắt đoạn dạ dày nạo vét hạch (Gastrectomy) điều trị triệt căn ung thư",
+            "Nối vị tràng",
+            "Mở thông hỗng tràng"
+          ],
+          "answer": 1,
+          "explain": "Nếu điều kiện cho phép (bệnh nhân ổn, phẫu thuật viên kinh nghiệm), cắt dạ dày triệt căn (Curative resection) là tốt nhất, giải quyết cả biến chứng và nguyên nhân."
+        },
+        {
+          "q": "Nếu ổ bụng bẩn, bệnh nhân sốc nặng, sinh thiết là Ung thư. Xử trí tối ưu (Damage control) là:",
+          "options": [
+            "Cố gắng cắt dạ dày triệt căn",
+            "Khâu lỗ thủng, rửa sạch bụng, hồi sức, chờ mổ cắt dạ dày thì 2",
+            "Để hở bụng",
+            "Không làm gì cả"
+          ],
+          "answer": 1,
+          "explain": "Nếu bệnh nhân quá nặng (Sốc, viêm phúc mạc nặng), cứu sống bệnh nhân là ưu tiên. Khâu lỗ thủng (cầm máu/chặn dịch) → Hồi sức → Mổ cắt dạ dày sau khi bệnh nhân ổn định (Staged approach)."
+        },
+        {
+          "q": "Thủng ổ loét dạ dày có tỷ lệ tử vong so với thủng loét tá tràng như thế nào?",
+          "options": [
+            "Thấp hơn",
+            "Cao hơn (do bệnh nhân thường già hơn, lỗ thủng to hơn, nguy cơ ung thư)",
+            "Bằng nhau",
+            "Không so sánh được"
+          ],
+          "answer": 1,
+          "explain": "Thủng dạ dày tiên lượng xấu hơn thủng tá tràng: Tuổi cao, bệnh nền nhiều, lỗ thủng to, khó khâu kín, nguy cơ ung thư."
+        }
+      ]
+    },
+    {
+      "id": "ppu_006",
+      "title": "Thủng ổ loét phối hợp chảy máu động mạch vị tá tràng",
+      "body": "<p><strong>Bệnh nhân nữ 35 tuổi</strong>, đang dùng Corticoid điều trị Lupus ban đỏ hệ thống. Vào viện vì đau bụng dữ dội liên tục, lan ra sau lưng. <strong>HA 90/60 mmHg.</strong> X-quang có liềm hơi. <strong>Trong mổ:</strong> Thấy ổ bụng đầy máu loãng lẫn dịch tiêu hóa. Kiểm tra thấy lỗ thủng mặt sau hành tá tràng ăn vào động mạch vị tá tràng (Gastroduodenal artery).</p>",
+      "questions": [
+        {
+          "q": "Đây là thể bệnh lâm sàng gì?",
+          "options": [
+            "Thủng ổ loét đơn thuần",
+            "Chảy máu dạ dày",
+            "Thủng ổ loét phối hợp chảy máu (Bleeding Perforated Peptic Ulcer)",
+            "Viêm tụy cấp hoại tử"
+          ],
+          "answer": 2,
+          "explain": "Tình trạng vừa có khí tự do (thủng) vừa có máu trong ổ bụng/tụt áp (chảy máu) là thể phối hợp nặng."
+        },
+        {
+          "q": "Vị trí giải phẫu \"Mặt sau hành tá tràng\" liên quan mật thiết với tạng nào, khiến dịch thường không ra ổ bụng ngay mà khu trú ở hậu cung mạc nối?",
+          "options": [
+            "Gan",
+            "Tụy",
+            "Thận phải",
+            "Lách"
+          ],
+          "answer": 1,
+          "explain": "Mặt sau tá tràng dính vào đầu tụy. Thủng mặt sau thường là \"loét xuyên thấu\" (Penetrating ulcer) vào tụy hoặc gây chảy máu động mạch vị tá tràng chạy ngay sau nó."
+        },
+        {
+          "q": "Tại sao dùng Corticoid/NSAIDs làm tăng nguy cơ thủng \"không triệu chứng\" hoặc thủng nặng?",
+          "options": [
+            "Thuốc làm giảm đau nên bệnh nhân không biết",
+            "Thuốc ức chế tổng hợp Prostaglandin (yếu tố bảo vệ niêm mạc) và ức chế phản ứng viêm (làm mờ triệu chứng lâm sàng)",
+            "Thuốc làm tăng co bóp dạ dày",
+            "Thuốc làm mỏng thành bụng"
+          ],
+          "answer": 1,
+          "explain": "Corticoid/NSAIDs ức chế COX-1 → Giảm Prostaglandin (yếu tố bảo vệ niêm mạc) → Mất lớp nhầy bảo vệ. Đồng thời Corticoid ức chế miễn dịch làm phản ứng viêm phúc mạc không rầm rộ → Bệnh nhân đến viện muộn."
+        },
+        {
+          "q": "Xử trí tổn thương \"Thủng + Chảy máu từ động mạch vị tá tràng\" trong mổ:",
+          "options": [
+            "Chỉ khâu lỗ thủng",
+            "Chỉ thắt động mạch",
+            "Mở rộng lỗ thủng (nếu cần), khâu cầm máu mũi chữ X vào đáy ổ loét (lấy cả động mạch), sau đó khâu đóng lỗ thủng/tạo hình môn vị",
+            "Cắt khối tá tụy (Whipple)"
+          ],
+          "answer": 2,
+          "explain": "Phải cầm máu trước: Khâu mũi chữ U/X cầm máu đáy ổ loét (nơi mạch máu chảy). Sau đó mới xử lý đóng lỗ thủng. Đôi khi phải tạo hình môn vị (Pyloroplasty) vì khâu nhiều làm hẹp môn vị."
+        },
+        {
+          "q": "Biến chứng hậu phẫu đáng sợ nhất của thủng mặt sau tá tràng (liên quan đến tụy) là:",
+          "options": [
+            "Viêm tụy cấp / Rò tụy",
+            "Tắc ruột",
+            "Thoát vị hoành",
+            "Sỏi mật"
+          ],
+          "answer": 0,
+          "explain": "Do tổn thương nằm sát tụy hoặc đâm xuyên vào nhu mô tụy, phẫu thuật có thể gây phù nề tụy, viêm tụy cấp hoặc rò dịch tụy (Pancreatic fistula)."
+        }
+      ]
+    },
+    {
+      "id": "ppu_007",
+      "title": "Áp xe dưới hoành sau mổ thủng ổ loét",
+      "body": "<p><strong>Bệnh nhân nam 40 tuổi</strong>, sau mổ khâu lỗ thủng dạ dày ngày thứ 5. Bệnh nhân <strong>sốt lại 38.5°C</strong>, đau tức vùng dưới sườn phải và vai phải, <strong>nấc cụt (hiccup)</strong>. Bụng chướng nhẹ, vết mổ khô. <strong>Bạch cầu tăng 16 G/L.</strong></p>",
+      "questions": [
+        {
+          "q": "Nghĩ đến biến chứng gì nhiều nhất?",
+          "options": [
+            "Bục chỉ khâu lỗ thủng gây viêm phúc mạc lại",
+            "Áp xe dưới hoành phải (Subphrenic abscess)",
+            "Viêm phổi",
+            "Nhiễm trùng vết mổ"
+          ],
+          "answer": 1,
+          "explain": "Sốt lại ngày 5-7 + Đau hạ sườn phải + Tiền sử viêm phúc mạc → Điển hình của áp xe tồn dư. Vị trí dưới hoành phải là nơi thấp nhất khi nằm ngửa (khe gan - hoành/Morrison) nên dịch hay đọng."
+        },
+        {
+          "q": "Triệu chứng \"Nấc cụt\" (Hiccup) gợi ý điều gì?",
+          "options": [
+            "Kích thích thần kinh hoành do ổ mủ dưới cơ hoành",
+            "Giãn dạ dày",
+            "Rối loạn điện giải",
+            "Trào ngược"
+          ],
+          "answer": 0,
+          "explain": "Ổ viêm kích thích cơ hoành/thần kinh hoành → Nấc."
+        },
+        {
+          "q": "Phương pháp chẩn đoán hình ảnh tốt nhất để xác định biến chứng này:",
+          "options": [
+            "X-quang bụng",
+            "Siêu âm ổ bụng (có thể bị hơi che khuất) hoặc CT scan bụng (ưu tiên)",
+            "Nội soi dạ dày",
+            "Chụp mạch"
+          ],
+          "answer": 1,
+          "explain": "CT scan có độ nhạy cao nhất để phát hiện ổ dịch khu trú sâu."
+        },
+        {
+          "q": "Hướng xử trí ưu tiên cho ổ áp xe tồn dư kích thước 6cm, đã hóa mủ rõ:",
+          "options": [
+            "Mổ lại ngay lập tức",
+            "Chọc hút dẫn lưu dưới hướng dẫn Siêu âm/CT (Percutaneous drainage)",
+            "Chỉ dùng kháng sinh liều cao",
+            "Chườm nóng"
+          ],
+          "answer": 1,
+          "explain": "Guideline hiện nay ưu tiên Dẫn lưu qua da (Interventional Radiology) với các ổ áp xe khu trú, tránh cuộc mổ lại nặng nề. Chỉ mổ lại khi dẫn lưu thất bại hoặc áp xe đa ổ/bục lỗ thủng."
+        },
+        {
+          "q": "Để phòng ngừa áp xe dưới hoành trong mổ thủng ổ loét, phẫu thuật viên cần:",
+          "options": [
+            "Đặt thật nhiều dẫn lưu",
+            "Rửa sạch ổ bụng, đặc biệt là các khoang dưới hoành và Douglas, cho đến khi nước trong",
+            "Dùng kháng sinh tưới rửa",
+            "Khâu da thưa"
+          ],
+          "answer": 1,
+          "explain": "\"Solution to pollution is dilution\" (Giải pháp cho ô nhiễm là pha loãng). Rửa bụng sạch (Peritoneal toilet/lavage) là yếu tố quan trọng nhất để ngừa áp xe tồn dư."
+        }
+      ]
+    },
+    {
+      "id": "ppu_008",
+      "title": "Thủng do tai biến nội soi cầm máu ổ loét tá tràng",
+      "body": "<p><strong>Bệnh nhân nam 50 tuổi</strong>, vào viện vì <strong>nôn máu và đi ngoài phân đen</strong>. <strong>Nội soi can thiệp cầm máu</strong> ổ loét hành tá tràng (Forrest Ib). <strong>6 giờ sau soi:</strong> Bệnh nhân <strong>đau bụng dữ dội, bụng cứng. X-quang có liềm hơi.</strong></p>",
+      "questions": [
+        {
+          "q": "Chẩn đoán:",
+          "options": [
+            "Thủng ổ loét do tiến triển của bệnh",
+            "Biến chứng thủng dạ dày do thủ thuật nội soi (Iatrogenic perforation)",
+            "Viêm tụy cấp sau nội soi",
+            "Thủng thực quản"
+          ],
+          "answer": 1,
+          "explain": "Đau bụng dữ dội + Liềm hơi ngay sau can thiệp thủ thuật → Thủng do tai biến y khoa."
+        },
+        {
+          "q": "Nguyên nhân gây thủng do nội soi thường gặp:",
+          "options": [
+            "Do bơm hơi quá căng làm vỡ ổ loét sâu (\"Blow-out\") hoặc do nhiệt điện đông/Laser quá sâu",
+            "Do ống soi đâm thủng",
+            "Do bệnh nhân giãy giụa",
+            "Do vi khuẩn"
+          ],
+          "answer": 0,
+          "explain": "Vách ổ loét vốn đã mỏng. Khi bơm hơi căng để quan sát hoặc dùng nhiệt cầm máu, đáy ổ loét dễ bị bục/hoại tử xuyên thành."
+        },
+        {
+          "q": "Đặc điểm của thủng do nội soi (trên dạ dày sạch) khác với thủng ổ loét tự nhiên:",
+          "options": [
+            "Ổ bụng sạch hơn (do bệnh nhân đã nhịn ăn chuẩn bị soi), diễn tiến có thể ít rầm rộ hơn lúc đầu",
+            "Nhiễm trùng nặng hơn",
+            "Không bao giờ có liềm hơi",
+            "Luôn tự liền"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân chuẩn bị soi thường nhịn ăn → Dịch dạ dày ít thức ăn → Viêm phúc mạc hóa học là chính, mức độ nhiễm khuẩn ban đầu thấp hơn."
+        },
+        {
+          "q": "Xử trí thủng do nội soi kích thước nhỏ, phát hiện ngay lập tức trong lúc soi:",
+          "options": [
+            "Chuyển mổ mở ngay",
+            "Dùng kẹp Clip kẹp kín lỗ thủng qua nội soi (Endoscopic Clip) + Hút khí ổ bụng + Kháng sinh/Nhịn ăn",
+            "Mổ nội soi ổ bụng",
+            "Không làm gì"
+          ],
+          "answer": 1,
+          "explain": "Nếu phát hiện ngay trên bàn soi (\"On-table\"), dùng Clip kẹp khép mép lỗ thủng là phương pháp hiệu quả, tránh được cuộc mổ. Cần hút hết hơi dạ dày và ổ bụng."
+        },
+        {
+          "q": "Nếu phát hiện muộn (sau 6-12h), có viêm phúc mạc:",
+          "options": [
+            "Kẹp Clip qua nội soi",
+            "Phẫu thuật (Nội soi hoặc Mổ mở) để khâu lỗ thủng và rửa bụng",
+            "Điều trị bảo tồn",
+            "Chọc hút khí"
+          ],
+          "answer": 1,
+          "explain": "Khi đã có viêm phúc mạc (đau, bụng cứng), nội soi ống mềm không thể rửa sạch ổ bụng và kẹp clip không an toàn trên nền mô viêm → Bắt buộc phẫu thuật."
+        }
+      ]
+    },
+    {
+      "id": "ppu_009",
+      "title": "Hẹp môn vị - biến chứng muộn của loét tá tràng đã phẫu thuật",
+      "body": "<p><strong>Bệnh nhân nữ 45 tuổi</strong>, tiền sử mổ khâu lỗ thủng dạ dày cách 2 năm. Nay vào viện vì <strong>đau bụng thượng vị, nôn nhiều dịch chua ngày thứ 3. KHÔNG có liềm hơi, bụng mềm, lắc có tiếng óc ách lúc đói.</strong> Nội soi thấy hẹp khít môn vị.</p>",
+      "questions": [
+        {
+          "q": "Đây là biến chứng gì của bệnh loét dạ dày tá tràng?",
+          "options": [
+            "Thủng tái phát",
+            "Hẹp môn vị (Gastric Outlet Obstruction)",
+            "Ung thư hóa",
+            "Viêm tụy mạn"
+          ],
+          "answer": 1,
+          "explain": "Tiền sử loét/khâu lỗ thủng → Xơ sẹo co kéo → Hẹp môn vị. Triệu chứng nôn, óc ách là điển hình."
+        },
+        {
+          "q": "Tại sao khâu lỗ thủng ổ loét tá tràng có nguy cơ gây hẹp môn vị sau này?",
+          "options": [
+            "Do chỉ khâu gây phản ứng viêm",
+            "Do khâu dúm làm hẹp lòng tá tràng vốn đã nhỏ và bị xơ chai do loét mạn tính",
+            "Do mạc nối chèn ép",
+            "Do cắt dây X"
+          ],
+          "answer": 1,
+          "explain": "Ổ loét tá tràng thường nằm ngay sát môn vị. Việc khâu đóng lỗ thủng trên nền mô xơ cứng sẽ làm hẹp lòng ruột cơ học."
+        },
+        {
+          "q": "Để tránh hẹp môn vị khi khâu lỗ thủng tá tràng, kỹ thuật khâu cần lưu ý:",
+          "options": [
+            "Khâu theo chiều dọc ống tiêu hóa",
+            "Khâu theo trục ngang (transverse) của tá tràng để tránh làm hẹp lòng ruột (tương tự nguyên tắc tạo hình Heineke-Mikulicz)",
+            "Khâu chồng mép thật dày",
+            "Khâu 3 lớp"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc khâu ống tiêu hóa hẹp: Khâu ngang trục (đường khâu vuông góc với trục ruột) để bảo tồn đường kính lòng ruột."
+        },
+        {
+          "q": "Nếu hẹp môn vị xảy ra, phương pháp phẫu thuật triệt để (vừa chữa hẹp vừa chữa loét) thường dùng là:",
+          "options": [
+            "Nối vị tràng",
+            "Cắt đoạn dạ dày hoặc Cắt dây X + Nối vị tràng/Tạo hình môn vị",
+            "Nong môn vị",
+            "Đặt stent"
+          ],
+          "answer": 1,
+          "explain": "Cần giải quyết tắc nghẽn (Hẹp) và nguyên nhân (Loét/Tăng tiết acid). Cắt hang vị hoặc Cắt dây X + dẫn lưu là lựa chọn ngoại khoa."
+        },
+        {
+          "q": "Dấu hiệu sinh hóa máu thường gặp ở bệnh nhân hẹp môn vị do nôn nhiều:",
+          "options": [
+            "Toan chuyển hóa",
+            "Kiềm chuyển hóa, Hạ Kali, Hạ Clo",
+            "Tăng Kali máu",
+            "Kiềm hô hấp"
+          ],
+          "answer": 1,
+          "explain": "Nôn mất dịch vị (HCl) → Mất H+ (Kiềm), Mất Cl- (Hạ Clo). Thận bù trừ giữ Na+ thải K+ → Hạ Kali. (Hội chứng Kiềm chuyển hóa - Hạ Kali - Hạ Clo)."
+        }
+      ]
+    },
+    {
+      "id": "ppu_010",
+      "title": "H. pylori, hút thuốc lá, và phòng ngừa tái phát thủng ổ loét",
+      "body": "<p><strong>Bệnh nhân nam 30 tuổi</strong>, vào viện vì đau bụng đột ngột. <strong>Chẩn đoán xác định:</strong> Thủng ổ loét hành tá tràng. <strong>Bệnh nhân hút thuốc lá 1 bao/ngày.</strong> <strong>Test hơi thở Urea C13 dương tính mạnh.</strong></p>",
+      "questions": [
+        {
+          "q": "Yếu tố nguy cơ quan trọng nhất gây thủng ở bệnh nhân này là:",
+          "options": [
+            "Tuổi trẻ",
+            "Hút thuốc lá và nhiễm H. pylori",
+            "Giới tính nam",
+            "Stress"
+          ],
+          "answer": 1,
+          "explain": "H. pylori và NSAIDs là 2 nguyên nhân hàng đầu. Hút thuốc lá là yếu tố hiệp đồng (co-factor) mạnh làm tăng nguy cơ thủng và kháng điều trị."
+        },
+        {
+          "q": "Tác động của hút thuốc lá đối với bệnh loét và lành vết thương:",
+          "options": [
+            "Làm tăng tưới máu niêm mạc",
+            "Ức chế bài tiết Bicarbonate của tụy/tá tràng, tăng tiết acid, giảm tưới máu niêm mạc → Dễ loét, vết khâu khó liền",
+            "Diệt vi khuẩn HP",
+            "Không ảnh hưởng"
+          ],
+          "answer": 1,
+          "explain": "Nicotine gây co mạch, giảm yếu tố bảo vệ (Bicarbonate/Prostaglandin), làm vết loét sâu hơn và vết khâu lâu lành."
+        },
+        {
+          "q": "Sau phẫu thuật khâu lỗ thủng, bao lâu thì nên bắt đầu điều trị diệt H. pylori?",
+          "options": [
+            "Ngay ngày đầu sau mổ",
+            "Khi bệnh nhân bắt đầu ăn uống lại được (thường sau 3-5 ngày)",
+            "Sau 1 tháng",
+            "Không cần điều trị"
+          ],
+          "answer": 1,
+          "explain": "Thuốc diệt HP đường uống nên bắt đầu ngay khi bệnh nhân dung nạp đường miệng (oral intake) để tận dụng thời gian nằm viện tuân thủ thuốc."
+        },
+        {
+          "q": "Phác đồ điều trị H. pylori bước 1 (First-line) phổ biến tại Việt Nam (nơi tỷ lệ kháng Clarithromycin cao):",
+          "options": [
+            "PPI + Amoxicillin + Clarithromycin (PAC)",
+            "Phác đồ 4 thuốc có Bismuth (PPI + Bismuth + Tetracycline + Metronidazole)",
+            "PPI đơn thuần",
+            "PPI + Amoxicillin"
+          ],
+          "answer": 1,
+          "explain": "Việt Nam là vùng kháng Clarithromycin và Metronidazole cao. Đồng thuận tiêu hóa khuyến cáo phác đồ 4 thuốc có Bismuth là lựa chọn đầu tay hiệu quả nhất."
+        },
+        {
+          "q": "Lời khuyên quan trọng nhất khi bệnh nhân xuất viện để tránh thủng tái phát:",
+          "options": [
+            "Ăn nhiều rau xanh",
+            "Bỏ hoàn toàn thuốc lá và tuân thủ tuyệt đối phác đồ diệt H. pylori",
+            "Tránh vận động mạnh",
+            "Uống sữa hàng ngày"
+          ],
+          "answer": 1,
+          "explain": "Nếu không diệt HP, tỷ lệ tái phát loét là > 60-80% trong 1 năm. Bỏ thuốc lá giúp giảm biến chứng tái phát."
+        }
+      ]
+    }
+  ]
+}
