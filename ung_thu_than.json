@@ -1,0 +1,625 @@
+{
+  "name": "Ung thư thận",
+  "description": "Case lâm sàng ung thư thận bao gồm RCC, AML, hội chứng cận ung thư, nang thận Bosniak, di căn xa, hội chứng di truyền VHL, và u đường bài xuất",
+  "level": "ôn thi nội trú - Tiết niệu",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Thận tiết niệu",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 58 tuổi phát hiện tình cờ khối u thận phải 3.2cm",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam, 58 tuổi, công nhân xây dựng, đến khám sức khỏe định kỳ. Không có triệu chứng đường tiết niệu, không đái máu, không đau hông lưng, không sụt cân. Tiền sử hút thuốc lá 20 bao.năm, tăng huyết áp đang điều trị Amlodipine 5mg/ngày ổn định.<br><br><b>Khám lâm sàng:</b> Tỉnh, thể trạng trung bình, BMI 24 kg/m², mạch 78 lần/phút, HA 130/80 mmHg. Bụng mềm, không sờ thấy khối u, chạm thận (-), bập bềnh thận (-), rung thận (-).<br><br><b>Xét nghiệm:</b> Creatinin máu: 85 μmol/L, eGFR: 82 mL/phút/1.73m². Siêu âm ổ bụng: Khối giảm âm cực dưới thận phải kích thước 32×30mm. CT Scan bụng có tiêm thuốc cản quang: Khối u cực dưới thận phải, kích thước 3.2cm, ngấm thuốc mạnh ở thì động mạch và thải thuốc thì tĩnh mạch, giới hạn rõ, nằm trọn trong nhu mô thận, chưa xâm lấn đài bể thận hay mỡ quanh thận, không có hạch to lân cận, không huyết khối tĩnh mạch thận.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định và giai đoạn TNM (lâm sàng) phù hợp nhất là gì?",
+          "options": [
+            "Ung thư tế bào thận (RCC) giai đoạn cT1aN0M0",
+            "Ung thư tế bào thận (RCC) giai đoạn cT1bN0M0",
+            "U cơ mỡ mạch thận (AML) giai đoạn cT1aN0M0",
+            "Nang thận phức tạp Bosniak III"
+          ],
+          "answer": 0,
+          "explain": "Phân độ TNM cho u thận: T1a là u khu trú tại thận, kích thước ≤ 4cm. U này 3.2cm, ngấm thuốc mạnh (đặc tính RCC) → cT1aN0M0. AML thường có tỷ trọng mỡ (-HU)."
+        },
+        {
+          "q": "Theo Guideline (EAU/AUA), chỉ định điều trị \"tiêu chuẩn vàng\" được ưu tiên nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Cắt thận phải toàn bộ (Radical Nephrectomy)",
+            "Cắt thận bán phần (Partial Nephrectomy)",
+            "Theo dõi tích cực (Active Surveillance)",
+            "Hóa trị toàn thân bổ trợ trước mổ"
+          ],
+          "answer": 1,
+          "explain": "Với u thận T1a (<4cm), cắt thận bán phần (NSS - Nephron Sparing Surgery) là tiêu chuẩn vàng nếu khả thi về mặt kỹ thuật để bảo tồn chức năng thận, cho kết quả ung thư học tương đương cắt toàn bộ."
+        },
+        {
+          "q": "Yếu tố nào sau đây là quan trọng nhất để quyết định khả năng mổ bảo tồn nhu mô (cắt thận bán phần) cho bệnh nhân này?",
+          "options": [
+            "Tiền sử hút thuốc lá",
+            "Kích thước u < 4cm và vị trí thuận lợi",
+            "Chỉ số BMI của bệnh nhân",
+            "Nồng độ Creatinin máu hiện tại"
+          ],
+          "answer": 1,
+          "explain": "Kích thước nhỏ (<4cm) và vị trí cực dưới (dễ tiếp cận) là yếu tố kỹ thuật then chốt cho cắt bán phần. Các thang điểm như R.E.N.A.L score đánh giá độ phức tạp dựa trên các yếu tố này."
+        },
+        {
+          "q": "Giải phẫu bệnh học mô học phổ biến nhất của loại u này là gì?",
+          "options": [
+            "Ung thư biểu mô tế bào sáng (Clear cell RCC)",
+            "Ung thư biểu mô dạng nhú (Papillary RCC)",
+            "Ung thư biểu mô kỵ màu (Chromophobe RCC)",
+            "Ung thư ống góp (Collecting duct carcinoma)"
+          ],
+          "answer": 0,
+          "explain": "Ung thư biểu mô tế bào sáng (Clear cell RCC) chiếm khoảng 70-80% các trường hợp RCC."
+        },
+        {
+          "q": "Nếu bệnh nhân này từ chối phẫu thuật vì lý do cá nhân và muốn đốt u bằng sóng cao tần (RFA), điều kiện nào sau đây KHÔNG phải là tiêu chuẩn lý tưởng cho RFA?",
+          "options": [
+            "Kích thước u < 3cm",
+            "U nằm ở ngoại vi thận",
+            "U nằm sát rốn thận, cạnh niệu quản",
+            "Bệnh nhân có nhiều bệnh nền nặng"
+          ],
+          "answer": 2,
+          "explain": "Chống chỉ định tương đối hoặc vị trí không thuận lợi cho RFA/Cryoablation là u nằm sát rốn thận hoặc niệu quản (nguy cơ tổn thương nhiệt lên mạch máu lớn hoặc hẹp niệu quản)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 42 tuổi đau tức âm ỉ vùng thắt lưng trái, khối tăng âm trên siêu âm",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ, 42 tuổi, vào viện vì đau tức âm ỉ vùng thắt lưng trái kéo dài 2 tuần nay. Tiền sử khỏe mạnh, không hút thuốc.<br><br><b>Khám lâm sàng:</b> Bụng mềm, ấn tức nhẹ hố thắt lưng trái. Huyết áp: 120/70 mmHg. Không sờ thấy khối u.<br><br><b>Xét nghiệm:</b> Tổng phân tích nước tiểu: Bình thường. Siêu âm: Khối tăng âm mạnh cực giữa thận trái, kích thước 55mm. CT Scan không tiêm thuốc: Khối u thận trái cực giữa, kích thước 5.5cm, bờ rõ, tỷ trọng mỡ âm tính (-60 HU). Chức năng thận: Bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán có khả năng nhất trên hình ảnh học là gì?",
+          "options": [
+            "Ung thư tế bào thận dạng nhú",
+            "Nang thận xuất huyết",
+            "U cơ mỡ mạch thận (Angiomyolipoma - AML)",
+            "Ung thư tế bào thận dạng kỵ màu"
+          ],
+          "answer": 2,
+          "explain": "Khối tăng âm trên siêu âm và đặc biệt là tỷ trọng -20 đến -100 HU trên CT là đặc hiệu của mô mỡ, chẩn đoán U cơ mỡ mạch (AML)."
+        },
+        {
+          "q": "Đặc điểm hình ảnh học quan trọng nhất giúp chẩn đoán xác định bệnh lý này trên CT Scan là gì?",
+          "options": [
+            "Ngấm thuốc thì tĩnh mạch",
+            "Tỷ trọng mỡ âm tính (Fat density)",
+            "Có vôi hóa trung tâm",
+            "Xâm lấn tĩnh mạch thận"
+          ],
+          "answer": 1,
+          "explain": "Sự hiện diện của mỡ đại thể (macroscopic fat) trên CT là dấu hiệu chẩn đoán AML. RCC rất hiếm khi chứa mỡ (trừ trường hợp xâm lấn mỡ xoang thận hoặc có vôi hóa cốt hóa)."
+        },
+        {
+          "q": "Nguy cơ biến chứng nguy hiểm nhất của khối u này nếu không can thiệp là gì?",
+          "options": [
+            "Chuyển dạng ác tính thành Sarcoma",
+            "Suy thận cấp sau thận",
+            "Vỡ u gây chảy máu khoang sau phúc mạc (Hội chứng Wunderlich)",
+            "Di căn phổi"
+          ],
+          "answer": 2,
+          "explain": "Hội chứng Wunderlich là chảy máu tự phát khoang sau phúc mạc do vỡ AML. Nguy cơ vỡ tăng lên đáng kể khi u > 4cm hoặc có phình mạch lớn."
+        },
+        {
+          "q": "Chỉ định can thiệp điều trị đối với bệnh nhân này dựa trên yếu tố nào?",
+          "options": [
+            "Kích thước u > 4cm và có triệu chứng đau",
+            "Tuổi bệnh nhân > 40",
+            "Vị trí cực giữa thận",
+            "Tất cả AML đều phải mổ"
+          ],
+          "answer": 0,
+          "explain": "Chỉ định can thiệp AML bao gồm: Có triệu chứng (đau), kích thước > 4cm, phụ nữ dự định mang thai (nguy cơ vỡ khi có thai), hoặc nghi ngờ ác tính. Bệnh nhân này u 5.5cm và có đau → cần điều trị."
+        },
+        {
+          "q": "Phương pháp điều trị tối ưu, xâm lấn tối thiểu đầu tay cho trường hợp AML có nguy cơ vỡ là gì?",
+          "options": [
+            "Xạ trị ngoài",
+            "Nút mạch chọn lọc (Selective Arterial Embolization)",
+            "Cắt thận toàn bộ",
+            "Hóa trị"
+          ],
+          "answer": 1,
+          "explain": "Nút mạch chọn lọc là phương pháp hiệu quả để cầm máu hoặc dự phòng vỡ cho AML, bảo tồn được nhu mô thận tối đa."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi đái máu toàn bãi, sờ thấy khối u thận, giãn tĩnh mạch tinh bên phải",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam, 65 tuổi, nghiện rượu, vào viện vì đái máu toàn bãi kéo dài 3 ngày, có máu cụGầy sút 4kg/2 tháng.<br><br><b>Khám lâm sàng:</b> Da niêm mạc nhợt, mạch 90 lần/phút, HA 140/80 mmHg. Sờ thấy khối u vùng mạng sườn phải, chắc, ít di động. Giãn tĩnh mạch thừng tinh bên phải (varicocele), búi giãn không xẹp khi nằm nghỉ.<br><br><b>Xét nghiệm:</b> Hb: 95 g/L (giảm), Creatinin: 110 μmol/L (tăng). CT Scan: Khối u thận phải 9cm, xâm lấn mỡ quanh thận nhưng chưa vượt qua cân Gerota, có huyết khối trong tĩnh mạch thận phải lan vào tĩnh mạch chủ dưới (IVC) đoạn dưới gan. Không thấy di căn xa.",
+      "questions": [
+        {
+          "q": "Dấu hiệu \"giãn tĩnh mạch thừng tinh bên phải không xẹp khi nằm\" gợi ý điều gì về mặt giải phẫu bệnh học?",
+          "options": [
+            "U chèn ép niệu quản",
+            "Huyết khối ung thư lan vào tĩnh mạch chủ dưới",
+            "Di căn hạch bẹn",
+            "Suy van tĩnh mạch thừng tinh nguyên phát"
+          ],
+          "answer": 1,
+          "explain": "Tĩnh mạch tinh phải đổ trực tiếp vào IVGiãn tĩnh mạch tinh phải (hoặc giãn không xẹp) gợi ý tắc nghẽn IVC (do huyết khối u). Tĩnh mạch tinh trái đổ vào tĩnh mạch thận trái nên giãn bên trái ít đặc hiệu cho IVC hơn."
+        },
+        {
+          "q": "Theo phân loại TNM, giai đoạn T của bệnh nhân này là gì?",
+          "options": [
+            "T2b",
+            "T3a",
+            "T3b",
+            "T4"
+          ],
+          "answer": 2,
+          "explain": "T3a: Xâm lấn tĩnh mạch thận hoặc mỡ quanh thận. T3b: Huyết khối lan vào IVC dưới cơ hoành. T3c: Huyết khối IVC trên cơ hoành. T4: Xâm lấn mạc Gerota hoặc tuyến thượng thận cùng bên."
+        },
+        {
+          "q": "Phương pháp điều trị triệt căn (Curative) duy nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Hóa trị liệu toàn thân",
+            "Cắt thận phải toàn bộ + Lấy huyết khối tĩnh mạch chủ",
+            "Xạ trị vào u và tĩnh mạch chủ",
+            "Nút mạch thận đơn thuần"
+          ],
+          "answer": 1,
+          "explain": "Phẫu thuật cắt thận và mở IVC lấy huyết khối là phương pháp duy nhất có cơ hội chữa khỏi. RCC kháng xạ trị và hóa trị cổ điển."
+        },
+        {
+          "q": "Các nguyên tắc nào sau đây là bắt buộc trong phẫu thuật cắt thận triệt căn (Radical Nephrectomy)?",
+          "type": "multi",
+          "options": [
+            "Thắt động mạch thận trước khi thắt tĩnh mạch thận",
+            "Cắt bỏ tuyến thượng thận cùng bên trong mọi trường hợp",
+            "Lấy bỏ toàn bộ thận cùng lớp mỡ quanh thận trong cân Gerota",
+            "Nạo vét hạch vùng nếu hạch to hoặc nghi ngờ trên CT"
+          ],
+          "answer": [
+            0,
+            2,
+            3
+          ],
+          "explain": "Thắt động mạch trước để giảm sung huyết và ngăn phát tán tế bào u. Lấy trọn gói trong cân GerotNạo hạch nếu nghi ngờ. Ý (2) Sai: Hiện nay không cắt thượng thận thường quy nếu u không nằm cực trên hoặc u chưa xâm lấn thượng thận trên CT."
+        },
+        {
+          "q": "Loại biến chứng chu phẫu (trong mổ) nguy hiểm nhất cần dự phòng ở ca bệnh này là gì?",
+          "options": [
+            "Tổn thương tá tràng",
+            "Thuyên tắc mạch phổi do trôi huyết khối (Pulmonary Embolism)",
+            "Tổn thương lách",
+            "Rò dưỡng chấp"
+          ],
+          "answer": 1,
+          "explain": "Khi thao tác trên IVC có huyết khối, nguy cơ cao nhất là làm bong huyết khối trôi về tim gây thuyên tắc phổi tử vong ngay trên bàn mổ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi sốt kéo dài, sụt cân, hồng cầu tăng, canxi máu tăng",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam, 62 tuổi, nhập viện vì sốt kéo dài không rõ nguyên nhân và sụt cân. Không có triệu chứng tiết niệu đặc hiệu.<br><br><b>Khám lâm sàng:</b> Khám không phát hiện bất thường đặc biệt.\n<br><br><b>Xét nghiệm máu:</b> Hồng cầu: 4.2 T/L, Bạch cầu: 12 G/L, Tiểu cầu: 450 G/L. Canxi máu: 2.8 mmol/L (tăng), AST/ALT tăng nhẹ gấp 1.5 lần, Phosphatase kiềm (ALP) tăng cao, Bilirubin bình thường, thời gian Prothrombin (PT) kéo dài.<br><br><b>Chẩn đoán hình ảnh:</b> CT Scan bụng: U thận trái 6cm, gan đồng nhất không có khối khu trú, không giãn đường mật. Xạ hình xương: Âm tính.",
+      "questions": [
+        {
+          "q": "Tập hợp các triệu chứng: sốt, sụt cân, thiếu máu/đa hồng cầu, tăng canxi máu, rối loạn chức năng gan ở bệnh nhân RCC được gọi chung là gì?",
+          "options": [
+            "Hội chứng di căn xa",
+            "Hội chứng cận ung thư (Paraneoplastic syndromes)",
+            "Hội chứng Lynch",
+            "Hội chứng Von Hippel-Lindau"
+          ],
+          "answer": 1,
+          "explain": "RCC là \"bác sĩ nội khoa\" vì gây ra rất nhiều hội chứng cận ung thư do tiết các chất hoạt mạch/hormone (Erythropoietin, PTHrP, ACTHlike...)."
+        },
+        {
+          "q": "Tình trạng rối loạn chức năng gan (tăng men gan, tăng ALP, rối loạn đông máu) ở bệnh nhân này mà không có di căn gan được gọi là gì?",
+          "options": [
+            "Hội chứng Budd-Chiari",
+            "Hội chứng Stauffer",
+            "Viêm gan nhiễm độc",
+            "Hội chứng gan thận"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng Stauffer là rối loạn chức năng gan có hồi phục ở bệnh nhân RCC mà không có di căn gan, do u tiết ra các cytokine (IL-6)."
+        },
+        {
+          "q": "Cơ chế gây tăng Canxi máu trong ung thư thận thường do tế bào u bài tiết chất nào?",
+          "options": [
+            "PTH (Parathyroid hormone)",
+            "PTHrP (Parathyroid hormone-related protein)",
+            "Calcitonin",
+            "Vitamin D3"
+          ],
+          "answer": 1,
+          "explain": "Tăng calci máu cận ung thư chủ yếu do bài tiết PTHrP (Protein giống PTH), không phải do di căn xương hay PTH tuyến cận giáp."
+        },
+        {
+          "q": "Tiên lượng của Hội chứng Stauffer sau khi phẫu thuật cắt bỏ u thận là gì?",
+          "options": [
+            "Không hồi phục, tiến triển xơ gan",
+            "Thường tự hồi phục chức năng gan sau mổ",
+            "Cần ghép gan",
+            "Chuyển sang suy thận cấp"
+          ],
+          "answer": 1,
+          "explain": "Đặc điểm của Stauffer là các chỉ số gan sẽ trở về bình thường sau khi cắt bỏ khối u nguyên phát."
+        },
+        {
+          "q": "Tam chứng kinh điển (Classic Triad) của ung thư thận bao gồm những dấu hiệu nào (dù hiện nay chỉ gặp ở <10% bệnh nhân)?",
+          "options": [
+            "Đái máu, Đau hông lưng, Khối u bụng sờ thấy",
+            "Đái máu, Sốt, Sụt cân",
+            "Đau hông lưng, Tăng huyết áp, Đa hồng cầu",
+            "Khối u bụng, Giãn tĩnh mạch thừng tinh, Phù chi dưới"
+          ],
+          "answer": 0,
+          "explain": "Tam chứng kinh điển: Đái máu, Đau hông lưng, Khối u sờ thấy. Khi có đủ 3 dấu hiệu này thường bệnh đã ở giai đoạn muộn/di căn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 50 tuổi phát hiện tình cờ nang thận trái 4cm, thành dày, nhiều vách ngăn bắt thuốc",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ, 50 tuổi, đi khám phụ khoa tình cờ phát hiện nang thận trái trên siêu âm. Bệnh nhân không đau, tiểu bình thường. Tiền sử khỏe mạnh.<br><br><b>Khám lâm sàng:</b> Khám thường không phát hiện bất thường.\n<br><br><b>Chẩn đoán hình ảnh:</b> CT Scan có tiêm thuốc cản quang: Tại cực trên thận trái có cấu trúc dạng nang, kích thước 4cm, thành nang dày không đều, có nhiều vách ngăn (septa) bên trong, các vách ngăn này bắt thuốc cản quang rõ rệt. Không thấy nốt sùi tổ chức đặKhông có vôi hóa thô.",
+      "questions": [
+        {
+          "q": "Theo phân loại Bosniak về nang thận trên CT, tổn thương này được xếp loại mấy?",
+          "options": [
+            "Bosniak I",
+            "Bosniak II",
+            "Bosniak IIF",
+            "Bosniak III"
+          ],
+          "answer": 3,
+          "explain": "Bosniak I: Nang đơn thuần. II: Vách mỏng, vôi hóa ít. IIF: Vách nhiều/dày nhẹ, vôi hóa dày (F=Follow up). III: Thành/vách dày, bắt thuốc cản quang (Indeterminate). IV: Có nốt tổ chức đặc bắt thuốTrường hợp này vách bắt thuốc rõ → Bosniak III."
+        },
+        {
+          "q": "Nguy cơ ác tính (Ung thư tế bào thận dạng nang) của phân loại này là khoảng bao nhiêu?",
+          "options": [
+            "0%",
+            "< 5%",
+            "40 - 60%",
+            "100%"
+          ],
+          "answer": 2,
+          "explain": "Bosniak III có nguy cơ ác tính khoảng 50% (dao động 40-60% tùy báo cáo)."
+        },
+        {
+          "q": "Thái độ xử trí phù hợp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Không cần theo dõi",
+            "Chọc hút nang dưới siêu âm",
+            "Phẫu thuật cắt bỏ (Cắt nang hoặc cắt thận bán phần)",
+            "Theo dõi bằng CT sau 6 tháng"
+          ],
+          "answer": 2,
+          "explain": "Bosniak III và IV được khuyến cáo phẫu thuật (thường là cắt thận bán phần) vì nguy cơ ung thư cao. Chọc hút không có giá trị chẩn đoán xác định vì độ nhạy tế bào học thấp."
+        },
+        {
+          "q": "Nếu nang thận chỉ có vách ngăn mỏng như sợi tóc (hairline), có ít vôi hóa ở vách, không bắt thuốc, thì xếp loại Bosniak mấy và xử trí ra sao?",
+          "options": [
+            "Bosniak I - Không theo dõi",
+            "Bosniak II - Không theo dõi",
+            "Bosniak IIF - Follow up (Theo dõi)",
+            "Bosniak III - Phẫu thuật"
+          ],
+          "answer": 1,
+          "explain": "Vách mỏng như tóc, vôi hóa ít, không bắt thuốc là Bosniak II → Lành tính, không cần theo dõi."
+        },
+        {
+          "q": "Loại nang thận nào sau đây luôn cần phẫu thuật (Bosniak IV)?",
+          "options": [
+            "Nang nước đơn thuần",
+            "Nang có vách mỏng bắt thuốc nhẹ",
+            "Nang có thành phần mô đặc (nodule) bắt thuốc cản quang",
+            "Nang có dịch tăng tỷ trọng (High density cyst)"
+          ],
+          "answer": 2,
+          "explain": "Bosniak IV có thành phần mô đặc (soft tissue nodule) bắt thuốc → Gần như chắc chắn là ung thư dạng nang (Cystic RCC)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi ho ra máu, đau xương sườn, tiền sử cắt thận do RCC 2 năm trước",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam, 72 tuổi, vào viện vì ho ra máu và đau xương sườn. Tiền sử cắt thận trái cách đây 2 năm do RCC (Clear cell, T2N0M0).<br><br><b>Khám lâm sàng:</b> SpO₂: 96%, phổi rào phế nang giảm đáy phải. ECOG performance status = 1.<br><br><b>Chẩn đoán hình ảnh:</b> CT Ngực: Nhiều nốt mờ rải rác 2 phổi, nốt lớn nhất 2cm. Xạ hình xương: Tăng hoạt độ phóng xạ tại xương sườn 6 bên phải và cột sống thắt lưng L2. MRI sọ não: Bình thường.<br><br><b>Xét nghiệm:</b> Chức năng thận phải: Creatinin 105 μmol/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán giai đoạn hiện tại của bệnh nhân là gì?",
+          "options": [
+            "Tái phát tại chỗ",
+            "Di căn xa (Metastatic RCC)",
+            "Ung thư phổi nguyên phát mới",
+            "Lao phổi"
+          ],
+          "answer": 1,
+          "explain": "Tiền sử RCC, nay xuất hiện tổn thương phổi và xương → Phù hợp diễn tiến di căn xa của RCC."
+        },
+        {
+          "q": "Phương pháp điều trị toàn thân (Systemic therapy) KHÔNG được khuyến cáo (kém hiệu quả nhất) cho loại ung thư này là gì?",
+          "options": [
+            "Liệu pháp nhắm trúng đích (Targeted Therapy) với TKI (Sunitinib, Pazopanib...)",
+            "Liệu pháp miễn dịch (Immunotherapy) với Checkpoint Inhibitors (Nivolumab, Ipilimumab)",
+            "Hóa trị liệu cổ điển (Chemotherapy) với Cisplatin/Carboplatin",
+            "Phối hợp TKI và Immunotherapy"
+          ],
+          "answer": 2,
+          "explain": "RCC (đặc biệt là loại tế bào sáng) nổi tiếng là kháng hóa trị (Chemo-resistant) do biểu hiện cao của P-glycoprotein. Hóa trị không phải là phác đồ chuẩn."
+        },
+        {
+          "q": "Vai trò của phẫu thuật cắt bỏ ổ di căn (Metastasectomy) được đặt ra khi nào?",
+          "options": [
+            "Không bao giờ",
+            "Khi có di căn đa cơ quan lan rộng",
+            "Khi ổ di căn đơn độc hoặc số lượng ít, có thể cắt bỏ hoàn toàn",
+            "Chỉ khi di căn não"
+          ],
+          "answer": 2,
+          "explain": "Metastasectomy có thể cải thiện sống còn nếu bệnh nhân có thể trạng tốt, khoảng thời gian từ khi mổ u nguyên phát đến khi tái phát dài, và tổn thương di căn có thể cắt bỏ sạch (resectable)."
+        },
+        {
+          "q": "Cơ chế tác dụng của thuốc Sunitinib (Sutent) trong điều trị RCC là gì?",
+          "options": [
+            "Ức chế thụ thể Tyrosine Kinase (VEGFR, PDGFR) gây ức chế tăng sinh mạch",
+            "Ức chế điểm kiểm soát miễn dịch PD-1",
+            "Gây độc tế bào qua cơ chế alkyl hóa",
+            "Kháng Androgen"
+          ],
+          "answer": 0,
+          "explain": "RCC tế bào sáng liên quan đến đột biến gen VHL làm tăng biểu hiện HIF và VEGF gây tăng sinh mạch mạnh. Sunitinib ức chế Tyrosine Kinase của thụ thể VEGF."
+        },
+        {
+          "q": "Một trong những tác dụng phụ đặc trưng của các thuốc TKI (Sunitinib/Sorafenib) cần tư vấn cho bệnh nhân là gì?",
+          "options": [
+            "Rụng tóc toàn bộ",
+            "Hội chứng bàn tay - bàn chân (Hand-foot syndrome)",
+            "Suy tủy xương nặng",
+            "Bệnh phổi kẽ"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng bàn tay - bàn chân (đỏ, đau, bong da lòng bàn tay/chân) là tác dụng phụ điển hình của nhóm TKI."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi, gia đình có tiền sử u não, ung thư thận, phát hiện u thận đa ổ 2 bên",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam, 35 tuổi, đi khám vì gia đình có mẹ và anh trai bị ung thư thận và u nguyên bào mạch máu ở não (Hemangioblastoma). Bản thân bệnh nhân hiện không có triệu chứng.<br><br><b>Khám lâm sàng:</b> Khám mắt: Có u mạch võng mạc.\n<br><br><b>Chẩn đoán hình ảnh:</b> Siêu âm và CT bụng: Thận phải có 02 khối u đặc kích thước 2cm và 2.5cm. Thận trái có 01 khối u 1.5cm và nhiều nang tụy.<br><br><b>Xét nghiệm:</b> Xét nghiệm gen: Phát hiện đột biến trên nhiễm sắc thể 3p.",
+      "questions": [
+        {
+          "q": "Bệnh cảnh này gợi ý hội chứng di truyền nào?",
+          "options": [
+            "Hội chứng Birt-Hogg-Dubé",
+            "Hội chứng Von Hippel-Lindau (VHL)",
+            "Xơ cứng củ (Tuberous Sclerosis)",
+            "Ung thư thận dạng nhú di truyền (HPRCC)"
+          ],
+          "answer": 1,
+          "explain": "VHL là bệnh di truyền trội, đột biến gen VHL (NST 3p). Tam chứng: Hemangioblastoma (tiểu não, tủy, võng mạc), RCC (thường đa ổ, 2 bên), U tủy thượng thận/Nang tụy."
+        },
+        {
+          "q": "Đặc điểm mô bệnh học ung thư thận trong hội chứng này thường là gì?",
+          "options": [
+            "Ung thư biểu mô tế bào sáng (Clear cell RCC)",
+            "Ung thư biểu mô dạng nhú (Papillary RCC)",
+            "Ung thư biểu mô kỵ màu (Chromophobe RCC)",
+            "Oncocytoma"
+          ],
+          "answer": 0,
+          "explain": "Đột biến gen VHL liên quan trực tiếp đến con đường sinh ung thư của RCC tế bào sáng (Clear cell)."
+        },
+        {
+          "q": "Chiến lược điều trị ngoại khoa (\"Luật 3cm\") đối với các khối u thận trong hội chứng VHL là gì?",
+          "options": [
+            "Cắt thận toàn bộ ngay khi phát hiện u để tránh di căn",
+            "Chỉ phẫu thuật (cắt thận bán phần) khi khối u lớn nhất đạt kích thước 3cm",
+            "Hóa trị dự phòng",
+            "Ghép thận ngay"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc \"3cm rule\": Theo dõi tích cực (Active Surveillance) cho đến khi khối u lớn nhất đạt 3cm thì mổ bóc u (NSS) để bảo tồn nhu mô thận."
+        },
+        {
+          "q": "Tại sao KHÔNG cắt thận toàn bộ (Radical nephrectomy) ngay từ đầu cho bệnh nhân này?",
+          "options": [
+            "Vì u lành tính",
+            "Vì bệnh nhân còn trẻ và u sẽ tái phát liên tục ở phần thận còn lại, cần bảo tồn chức năng thận tối đa",
+            "Vì phẫu thuật khó khăn",
+            "Vì u tự thoái triển"
+          ],
+          "answer": 1,
+          "explain": "Vì bệnh nhân VHL sẽ mọc u suốt đời, cắt thận toàn bộ sớm sẽ dẫn đến suy thận mạn và phụ thuộc lọc máu quá sớm."
+        },
+        {
+          "q": "Ngoài thận và não, hội chứng này còn có nguy cơ cao xuất hiện u ở cơ quan nào?",
+          "options": [
+            "U tủy thượng thận (Pheochromocytoma)",
+            "Ung thư đại trực tràng",
+            "Ung thư tuyến giáp",
+            "Ung thư xương"
+          ],
+          "answer": 0,
+          "explain": "U tủy thượng thận gặp trong khoảng 10-20% bệnh nhân VHL. Cần tầm soát Catecholamine niệu/máu trước khi can thiệp ngoại khoa."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 68 tuổi đái máu, khối u thận phải 12cm xâm lấn gan, cơ Psoas, đau liên tục",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ, 68 tuổi, vào viện vì đái máu đại thể. Đau nhiều vùng hông lưng phải liên tục, dùng thuốc giảm đau thông thường không đỡ. Thể trạng suy kiệt (Cachexia).<br><br><b>Chẩn đoán hình ảnh:</b> CT Scan: U thận phải lớn chiếm toàn bộ thận, kích thước 12cm, xâm lấn vào gan và cơ thắt lưng chậu (cơ Psoas). Hạch rốn thận to 2cm. Phổi chưa thấy di căn.",
+      "questions": [
+        {
+          "q": "Giai đoạn T (u nguyên phát) của bệnh nhân này là gì?",
+          "options": [
+            "T2b",
+            "T3a",
+            "T3b",
+            "T4"
+          ],
+          "answer": 3,
+          "explain": "T4: U xâm lấn ra ngoài cân Gerota (vào cơ thắt lưng chậu) hoặc xâm lấn tuyến thượng thận cùng bên."
+        },
+        {
+          "q": "Mục tiêu chính của phẫu thuật cắt thận (Palliative Nephrectomy) ở bệnh nhân này (nếu được chỉ định) là gì?",
+          "options": [
+            "Điều trị khỏi bệnh hoàn toàn",
+            "Giải quyết triệu chứng (cầm máu, giảm đau) và cải thiện chất lượng sống",
+            "Để chuẩn bị ghép thận",
+            "Để loại bỏ ổ nhiễm trùng"
+          ],
+          "answer": 1,
+          "explain": "Với T4 di căn hoặc xâm lấn rộng không thể lấy sạch hoàn toàn, phẫu thuật mang tính chất giảm nhẹ (Palliative): cầm máu (đái máu ồ ạt) hoặc giảm đau do chèn ép."
+        },
+        {
+          "q": "Đường mổ nào thích hợp nhất cho khối u thận rất lớn và xâm lấn phức tạp như trường hợp này?",
+          "options": [
+            "Nội soi ổ bụng (Laparoscopy)",
+            "Đường hông lưng (Lumbotomy)",
+            "Đường bụng (mở đường trắng giữa hoặc dưới sườn - Transperitoneal)",
+            "Đường nội soi sau phúc mạc (Retroperitoneoscopy)"
+          ],
+          "answer": 2,
+          "explain": "Đường mổ mở qua bụng (Transperitoneal) cho phẫu trường rộng nhất để kiểm soát mạch máu lớn (cuống thận) sớm và gỡ dính các tạng xung quanh (gan, ruột) đối với u lớn."
+        },
+        {
+          "q": "Nếu bệnh nhân này có đái máu cục gây bí đái (tamponade bàng quang), xử trí cấp cứu ban đầu là gì?",
+          "options": [
+            "Mổ mở bàng quang lấy máu cục",
+            "Đặt thông tiểu 3 nòng, bơm rửa bàng quang liên tục",
+            "Dùng thuốc cầm máu Transamin và theo dõi",
+            "Chạy thận nhân tạo"
+          ],
+          "answer": 1,
+          "explain": "Bí đái do máu cục → Cần đặt thông 3 nòng nòng to (20-22Fr) để bơm rửa lấy máu cụMổ mở chỉ khi bơm rửa thất bại."
+        },
+        {
+          "q": "Cấu trúc giải phẫu nào nằm ngay trước tĩnh mạch thận phải, cần thận trọng khi phẫu thuật cắt thận phải?",
+          "options": [
+            "Động mạch mạc treo tràng trên",
+            "Tá tràng (đoạn D2)",
+            "Đuôi tụy",
+            "Động mạch chủ bụng"
+          ],
+          "answer": 1,
+          "explain": "Tá tràng D2 nằm vắt qua cuống thận phải. Kocher hóa tá tràng là bước quan trọng để bộc lộ tĩnh mạch chủ dưới và tĩnh mạch thận phải. Tổn thương tá tràng là biến chứng nặng nề."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 48 tuổi đau tức hông lưng phải, u chiếm chỗ bể thận, tế bào học nước tiểu dương tính",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam, 48 tuổi, đi khám vì đau tức nhẹ hông lưng phải.\n<br><br><b>Chẩn đoán hình ảnh:</b> CT Urography (CT hệ tiết niệu đa dãy): Thận phải có khối choán chỗ vị trí bể thận, xâm lấn nhu mô thận, ngấm thuốc kém hơn nhu mô thận. Cắt lớp thấy hình ảnh \"khuyết thuốc\" trong bể thận.<br><br><b>Xét nghiệm:</b> Tế bào học nước tiểu (Cytology): Dương tính với tế bào ác tính.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất KHÔNG phải là RCC mà là gì?",
+          "options": [
+            "Ung thư đường bài xuất (Urothelial Carcinoma / TCC) bể thận",
+            "Lao thận",
+            "Sỏi thận không cản quang",
+            "Nang thận"
+          ],
+          "answer": 0,
+          "explain": "Hình ảnh \"khuyết thuốc\" trong bể thận, xâm lấn nhu mô từ trung tâm ra, cytology (+) gợi ý ung thư biểu mô đường niệu (TCC) hơn là RCC (thường từ nhu mô lồi ra)."
+        },
+        {
+          "q": "Phẫu thuật tiêu chuẩn cho ung thư đường bài xuất bể thận (Upper Tract Urothelial Carcinoma) khác với RCC như thế nào?",
+          "options": [
+            "Chỉ cần cắt thận đơn thuần",
+            "Cắt thận + Cắt toàn bộ niệu quản + Khoét chóp bàng quang (Nephroureterectomy + Cuff of bladder)",
+            "Cắt thận bán phần",
+            "Chỉ cắt đoạn niệu quản"
+          ],
+          "answer": 1,
+          "explain": "TCC có tính chất đa ổ và hay tái phát theo dòng chảy nước tiểu (\"field change effect\"). Phẫu thuật chuẩn là Cắt thận - niệu quản toàn bộ và khoét một phần bàng quang nơi niệu quản cắm vào để tránh tái phát ở mỏm cụt niệu quản."
+        },
+        {
+          "q": "Tại sao phải cắt toàn bộ niệu quản trong bệnh lý này?",
+          "options": [
+            "Vì niệu quản dính vào thận",
+            "Vì nguy cơ tái phát cao trên niệu quản còn lại (thuyết gieo rắc/đa ổ của niệu mạc)",
+            "Để dễ khâu nối",
+            "Để nạo hạch"
+          ],
+          "answer": 1,
+          "explain": "TCC có tính chất đa ổ và hay tái phát theo dòng chảy nước tiểu."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây có giá trị chẩn đoán xác định cao nhất trước mổ?",
+          "options": [
+            "MRI thận",
+            "Nội soi niệu quản ngược dòng sinh thiết (Ureteroscopy + Biopsy)",
+            "Xạ hình thận",
+            "Định lượng PSA"
+          ],
+          "answer": 1,
+          "explain": "Nội soi niệu quản cho phép nhìn thấy u trực tiếp và sinh thiết để chẩn đoán mô bệnh học."
+        },
+        {
+          "q": "Yếu tố nguy cơ hàng đầu liên quan đến ung thư đường bài xuất là gì?",
+          "options": [
+            "Ăn nhiều mỡ",
+            "Hút thuốc lá và tiếp xúc hóa chất nhuộm (amin thơm)",
+            "Uống nhiều rượu",
+            "Ít vận động"
+          ],
+          "answer": 1,
+          "explain": "Hút thuốc lá là nguyên nhân hàng đầu. Ngoài ra còn do phẩm nhuộm, cao su, hoặc acid aristolochic (thuốc nam)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 55 tuổi hậu phẫu cắt nội soi toàn bộ thận trái",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ, 55 tuổi, hậu phẫu ngày thứ 1 sau mổ Cắt thận trái toàn bộ nội soi do RCC T2. Dẫn lưu hố thận ra 300ml dịch màu hồng nhạt, không có mùi khai. <b>Khám lâm sàng:<b> Bệnh nhân tỉnh, mạch 85 l/p, HA 120/70 mmHg, bụng mềm, không chướng. Nước tiểu qua sonde: 1500ml/24h, vàng trong. Creatinin máu: 90 μmol/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hiện tại về tình trạng bệnh nhân:",
+          "options": [
+            "Chảy máu trong ổ bụng",
+            "Rò nước tiểu",
+            "Rò dưỡng chấp",
+            "Diễn biến hậu phẫu bình thường"
+          ],
+          "answer": 3,
+          "explain": "Dịch 300ml hồng nhạt (serosanguineous) ngày 1 là bình thường (dịch tồn dư sau mổ). Sinh hiệu ổn, bụng mềm -> Không chảy máu hoạt động."
+        },
+        {
+          "q": "Nếu dẫn lưu ra dịch màu trắng đục như sữa, tăng lên khi bệnh nhân ăn chế độ có mỡ, chẩn đoán là gì?",
+          "options": [
+            "Rò mủ",
+            "Rò dưỡng chấp",
+            "Rò nước tiểu",
+            "Dịch huyết thanh"
+          ],
+          "answer": 1,
+          "explain": "Dịch trắng như sữa (dưỡng chấp) là đặc trưng của rò bạch mạch."
+        },
+        {
+          "q": "Nguyên nhân của rò dưỡng chấp trong phẫu thuật cắt thận trái thường do tổn thương cấu trúc nào?",
+          "options": [
+            "Bể dưỡng chấp (Cisterna chyli) hoặc các nhánh bạch huyết quanh động mạch chủ/cuống thận",
+            "Tụy",
+            "Lách",
+            "Đại tràng"
+          ],
+          "answer": 0,
+          "explain": "Hệ thống bạch huyết phong phú quanh ĐM chủ bụng và cuống thận trái. Phẫu thuật nạo hạch hoặc phẫu tích sát cột sống dễ gây rò."
+        },
+        {
+          "q": "Xử trí ban đầu đối với rò dưỡng chấp là gì?",
+          "options": [
+            "Mổ lại ngay lập tức để khâu",
+            "Điều trị bảo tồn: Nhịn ăn hoặc ăn kiêng mỡ (MCT oil), duy trì dẫn lưu",
+            "Rút dẫn lưu ngay",
+            "Dùng kháng sinh liều cao"
+          ],
+          "answer": 1,
+          "explain": "Đa số rò dưỡng chấp tự liền với điều trị nội khoa: Ăn kiêng chất béo dạng chuỗi dài (LCT), dùng chất béo chuỗi trung bình (MCT) hoặc nhịn ăn nuôi dưỡng tĩnh mạch + Somatostatin."
+        },
+        {
+          "q": "Trong phẫu thuật cắt thận trái, biến chứng tổn thương tạng nào dễ xảy ra nhất khi phẫu tích cực trên?",
+          "options": [
+            "Gan",
+            "Lách",
+            "Ruột non",
+            "Bàng quang"
+          ],
+          "answer": 1,
+          "explain": "Lách nằm sát cực trên và mặt ngoài thận trái, được nối bằng dây chằng lách - thận. Kéo mạnh có thể gây rách bao lách chảy máu."
+        }
+      ]
+    }
+  ]
+}
