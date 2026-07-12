@@ -1,0 +1,620 @@
+{
+  "name": "Chấn thương sọ não Up",
+  "description": "Bộ ca lâm sàng chấn thương sọ não toàn diện: máu tụ ngoài/dưới màng cứng cấp/mạn, dập não, tổn thương sợi trục lan tỏa, chấn động não, vỡ sọ lún hở, rò dịch não tủy. Bao gồm chiến lược chẩn đoán, xử trí cấp cứu, và can thiệp phẫu thuật theo ATLS & Brain Trauma Foundation.",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Thần kinh",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 72 tuổi, ngã đập thái dương, lơ mơ dần",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 72 tuổi, tiền sử rung nhĩ đang dùng Aspirin, ngã đập vùng thái dương phải xuống nền cứng. Sau ngã, bệnh nhân bất tỉnh khoảng 2 phút rồi tỉnh lại hoàn toàn. Bốn giờ sau, bệnh nhân kêu đau đầu dữ dội, nôn mửa và lơ mơ dần, điểm Glasgow giảm từ 14 xuống 7.<br><br><b>Tiền sử:</b> Rung nhĩ, đang dùng Aspirin. Không thấy đông tía vùng ngực bụng, không có dấu bầm tím vùng cổ.<br><br><b>Khám lâm sàng:</b> Bệnh nhân lơ mơ, GCS 7. Đồng tử mắt phải giãn 4 mm với phản xạ ánh sáng chậm; đồng tử trái 2 mm phản xạ bình thường. Yếu liệt nửa người bên trái. Mạch 50 lần/phút, huyết áp 170/90 mmHg, nhịp thở 14 lần/phút.<br><br><b>Cơ chế chấn thương:</b> Ngã đập vùng thái dương phải (pterion).",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất là gì?",
+          "options": [
+            "Máu tụ ngoài màng cứng",
+            "Máu tụ dưới màng cứng",
+            "Xuất huyết dưới nhện cấp",
+            "Dập não xuất huyết lớn"
+          ],
+          "answer": 0,
+          "explain": "Bệnh cảnh kinh điển với 'khoảng tỉnh' (bất tỉnh, tỉnh lại, rồi hôn mê), kèm dấu hiệu thần kinh khu trú (giãn đồng tử cùng bên, liệt nửa người đối diện) rất đặc trưng cho máu tụ ngoài màng cứng cấp tính. Các chẩn đoán khác ít có khoảng tỉnh rõ rệt như vậy."
+        },
+        {
+          "q": "Nguồn chảy máu phổ biến nhất trong bệnh cảnh này là gì?",
+          "options": [
+            "Tĩnh mạch cầu nối",
+            "Động mạch màng não giữa",
+            "Xoang tĩnh mạch dọc trên",
+            "Động mạch não giữa"
+          ],
+          "answer": 1,
+          "explain": "Máu tụ ngoài màng cứng vùng thái dương thường do rách động mạch màng não giữa khi vỡ xương sọ vùng quai hàm - thái dương (pterion). Tĩnh mạch cầu nối là nguyên nhân của máu tụ dưới màng cứng."
+        },
+        {
+          "q": "Bước xử trí ưu tiên hàng đầu tại phòng cấp cứu là gì?",
+          "options": [
+            "Truyền Mannitol 20%",
+            "Chụp CT sọ não ngay",
+            "Đặt ống nội khí quản",
+            "Tiêm thuốc đối kháng"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có GCS 7 (dưới 8 điểm), mất khả năng bảo vệ đường thở. Theo nguyên tắc ATLS (Airway), đặt nội khí quản là ưu tiên số một trước khi chụp CT hay dùng thuốc hạ áp lực nội sọ."
+        },
+        {
+          "q": "Phương pháp phẫu thuật phù hợp nhất là gì?",
+          "options": [
+            "Đặt dẫn lưu não thất",
+            "Khoan sọ dẫn lưu kín",
+            "Mở sọ giải ép rộng",
+            "Mở sọ lấy máu tụ"
+          ],
+          "answer": 3,
+          "explain": "Máu tụ ngoài màng cứng cấp tính có chèn ép (GCS giảm, giãn đồng tử) có chỉ định mở sọ (craniotomy) để lấy máu tụ và cầm máu động mạch. Khoan sọ dẫn lưu chỉ dùng cho máu tụ mạn tính."
+        },
+        {
+          "q": "Hiện tượng mạch chậm và huyết áp tăng ở bệnh nhân này phản ánh điều gì?",
+          "options": [
+            "Phản xạ Cushing",
+            "Sốc tủy sống cấp",
+            "Suy tim sung huyết",
+            "Tác dụng phụ Aspirin"
+          ],
+          "answer": 0,
+          "explain": "Tam chứng Cushing (mạch chậm, huyết áp tăng, rối loạn nhịp thở) là phản xạ sinh lý của cơ thể nhằm duy trì áp lực tưới máu não khi áp lực nội sọ tăng rất cao, đe dọa thoát vị não."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi, tai nạn xe máy không đội mũ, hôn mê GCS 6",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 45 tuổi, tai nạn xe máy không đội mũ bảo hiểm, được đưa vào viện trong tình trạng hôn mê, GCS 6 điểm.<br><br><b>Tiền sử:</b> Không khai được tiền sử rõ ràng do bệnh nhân hôn mê.<br><br><b>Khám lâm sàng:</b> Huyết áp 180/100 mmHg, mạch 45 lần/phút, nhịp thở không đều 12 lần/phút. Đồng tử phải giãn 5 mm, mất phản xạ ánh sáng; đồng tử trái 2 mm. Tư thế duỗi cứng tay chân bên trái khi kích thích đau. Không thấy dấu hiệu gãy xương hở ngoại biên. Siêu âm FAST tại giường âm tính, SpO₂ 92% với khí trời.<br><br><b>Cơ chế chấn thương:</b> Tai nạn xe máy năng lượng cao.",
+      "questions": [
+        {
+          "q": "Nguyên nhân gây giảm GCS xuống 6 điểm chủ yếu là gì?",
+          "options": [
+            "Sốc giảm thể tích",
+            "Tăng áp lực nội sọ",
+            "Suy hô hấp cấp",
+            "Ngộ độc rượu bia"
+          ],
+          "answer": 1,
+          "explain": "Khám thấy huyết áp tăng, mạch chậm (phản xạ Cushing) và giãn đồng tử chứng tỏ có khối choáng chỗ gây tăng áp lực nội sọ nặng nề. Sốc giảm thể tích thường gây mạch nhanh, huyết áp tụt."
+        },
+        {
+          "q": "Hình ảnh trên CT sọ não có khả năng xuất hiện cao nhất là gì?",
+          "options": [
+            "Hình thấu kính hai mặt",
+            "Đốm xuất huyết li ti",
+            "Hình liềm tăng tỷ trọng",
+            "Hình liềm giảm tỷ trọng"
+          ],
+          "answer": 2,
+          "explain": "Tổn thương sợi trục lan tỏa (DAI) đặc trưng bởi GCS thấp không tương xứng với khối choáng chỗ trên CT. Dấu hiệu trên CT là các đốm xuất huyết nhỏ ở ranh giới chất trắng - chất xám, thể chai hoặc thân não, nhưng hình liềm tăng tỷ trọng có thể xuất hiện nếu có tụ máu dưới màng cứng."
+        },
+        {
+          "q": "Phương pháp nào KHÔNG ĐÚNG và bị chống chỉ định tuyệt đối lúc này?",
+          "options": [
+            "Truyền dung dịch Mannitol",
+            "Đặt nội khí quản ngay",
+            "Kê cao đầu giường 30 độ",
+            "Chọc dò dịch não tủy"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân đang có dấu hiệu tăng áp lực nội sọ nặng và nguy cơ thoát vị não (giãn đồng tử). Chọc dò tủy sống bị chống chỉ định tuyệt đối do làm giảm áp lực khoang dưới, gây tụt kẹt não."
+        },
+        {
+          "q": "Dung dịch ưu tiên dùng để chống phù não cấp cứu là gì?",
+          "options": [
+            "Dung dịch Natri clorua 3%",
+            "Corticosteroid tiêm tĩnh mạch",
+            "Dung dịch Ringer Lactate",
+            "Thuốc chẹn beta giao cảm"
+          ],
+          "answer": 0,
+          "explain": "Dung dịch muối ưu trương (NaCl 3%) hoặc Mannitol 20% là lựa chọn đầu tay để giảm áp lực nội sọ. Corticoid không có tác dụng trong phù não do chấn thương. Ringer Lactate có áp lực thẩm thấu hơi thấp, có thể làm phù não nặng thêm."
+        },
+        {
+          "q": "Tiêu chuẩn trên CT sọ não chỉ định mổ cấp cứu máu tụ dưới màng cứng là gì?",
+          "options": [
+            "Đẩy lệch đường giữa > 2 mm",
+            "Chiều dày khối máu > 10 mm",
+            "GCS dưới 8 điểm đơn thuần",
+            "Có nứt xương sọ đi kèm"
+          ],
+          "answer": 1,
+          "explain": "Theo Brain Trauma Foundation, chỉ định mổ cấp cứu máu tụ dưới màng cứng cấp tính là bề dày khối máu > 10 mm hoặc đẩy lệch đường giữa > 5 mm, bất kể GCS."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 28 tuổi, tai nạn xe ô tô, va chạm vỡ kính, sốc",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 28 tuổi, là tài xế ô tô, va chạm vỡ kính trước, vào viện trong tình trạng lơ mơ, GCS 8 điểm.<br><br><b>Tiền sử:</b> Khỏe mạnh trước đó.<br><br><b>Khám lâm sàng:</b> Huyết áp 70/40 mmHg, mạch 130 lần/phút, da xanh tái, vã mồ hôi, chi lạnh. Khám thấy khung chậu biến dạng và mất vững, không có vết thương chảy máu hở vùng đầu cổ. Hai đồng tử đều 3 mm, phản xạ ánh sáng tốt. Rì rào phế nang hai phổi rõ đều, bụng không chướng.<br><br><b>Cơ chế chấn thương:</b> Va chạm ô tô năng lượng cao.",
+      "questions": [
+        {
+          "q": "Nguyên nhân gây sốc của bệnh nhân này là gì?",
+          "options": [
+            "Mất máu từ rách da đầu",
+            "Chèn ép khoang nội sọ",
+            "Chảy máu từ gãy khung chậu",
+            "Sốc thần kinh do đứt tủy"
+          ],
+          "answer": 2,
+          "explain": "Chấn thương sọ não kín ở người trưởng thành không bao giờ gây sốc mất máu. Bệnh nhân có mạch nhanh, huyết áp tụt và khung chậu mất vững chứng tỏ sốc mất máu do gãy khung chậu."
+        },
+        {
+          "q": "Mục tiêu huyết áp tâm thu cần duy trì trước khi đưa đi chụp CT sọ não là bao nhiêu?",
+          "options": [
+            "Lớn hơn 140 mmHg",
+            "Lớn hơn 120 mmHg",
+            "Lớn hơn 100 mmHg",
+            "Lớn hơn 90 mmHg"
+          ],
+          "answer": 3,
+          "explain": "Theo hướng dẫn ATLS và Brain Trauma Foundation, cần duy trì huyết áp tâm thu > 90 mmHg (thường là > 100-110 mmHg tùy độ tuổi) để đảm bảo áp lực tưới máu não (CPP), tránh tổn thương não thứ phát do thiếu máu."
+        },
+        {
+          "q": "CT sọ não thấy các đốm xuất huyết li ti ở thể chai và cuống não, chẩn đoán là gì?",
+          "options": [
+            "Tổn thương sợi trục lan tỏa",
+            "Máu tụ ngoài màng cứng",
+            "Chấn động não đơn thuần",
+            "Xuất huyết dưới nhện cấp"
+          ],
+          "answer": 0,
+          "explain": "Tổn thương sợi trục lan tỏa (DAI) đặc trưng bởi GCS thấp không tương xứng với khối choáng chỗ trên CT. Dấu hiệu trên CT là các đốm xuất huyết nhỏ ở ranh giới chất trắng - chất xám, thể chai hoặc thân não."
+        },
+        {
+          "q": "Cơ chế chính gây ra tổn thương thần kinh trên là gì?",
+          "options": [
+            "Lực va đập đụng dập trực tiếp",
+            "Lực xé rách do tăng giảm tốc",
+            "Tổn thương thứ phát do thiếu oxy",
+            "Rách đứt tĩnh mạch cầu nối"
+          ],
+          "answer": 1,
+          "explain": "DAI xảy ra do cơ chế tăng tốc - giảm tốc xoay vặn mạnh, tạo ra lực xé (shearing forces) làm đứt gãy các sợi trục thần kinh vi thể, không cần va đập trực tiếp."
+        },
+        {
+          "q": "Chọn tập hợp ĐÚNG về nguyên tắc xử trí bệnh nhân này: (1) Cố định khung chậu ngay, (2) Chụp CT sọ não trước khi bù dịch, (3) Đặt nội khí quản bảo vệ đường thở, (4) Truyền thuốc vận mạch ngay khi vào viện?",
+          "options": [
+            "1, 2",
+            "2, 4",
+            "1, 3",
+            "3, 4"
+          ],
+          "answer": 2,
+          "explain": "Theo thứ tự ABCDE, bệnh nhân GCS 8 cần đặt nội khí quản (Airway). Huyết áp tụt do gãy khung chậu cần băng thun cố định chậu và truyền dịch máu (Circulation). Không chụp CT khi huyết động chưa ổn định (2 sai). Vận mạch chỉ dùng sau khi đã bù đủ thể tích (4 sai)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 18 tuổi, bị húc đầu trong trận bóng bầu dục, mất ý thức 30 giây",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 18 tuổi bị cầu thủ khác húc đầu trong trận bóng bầu dục. Bệnh nhân mất ý thức khoảng 30 giây rồi tự tỉnh lại. Khám tại cấp cứu sau 1 giờ: GCS 15 điểm, đau đầu nhẹ, không nôn, mất trí nhớ ngắn hạn về sự việc vừa diễn ra.<br><br><b>Tiền sử:</b> Không dùng thuốc gì trước đó, không có bệnh lý nền.<br><br><b>Khám lâm sàng:</b> Khám vận động và cảm giác tứ chi bình thường, đồng tử hai bên đều và phản xạ tốt. Không phát hiện bất thường thần kinh khu trú.<br><br><b>Cơ chế chấn thương:</b> Va đập đầu trong hoạt động thể thao.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất là gì?",
+          "options": [
+            "Dập não",
+            "Máu tụ dưới màng cứng",
+            "Tổn thương sợi trục lan tỏa",
+            "Chấn động não"
+          ],
+          "answer": 3,
+          "explain": "Bệnh cảnh mất ý thức thoáng qua, mất trí nhớ sự kiện, GCS 15 và không có dấu thần kinh khu trú là điển hình của chấn động não (Concussion / Mild TBI)."
+        },
+        {
+          "q": "Chỉ định chụp CT sọ não theo tiêu chuẩn Canadian CT Head Rule ở bệnh nhân này là gì?",
+          "options": [
+            "Không có chỉ định chụp CT",
+            "Bắt buộc chụp CT thường quy",
+            "Chụp CT có tiêm thuốc cản quang",
+            "Chụp MRI để thay thế CT sọ"
+          ],
+          "answer": 0,
+          "explain": "Theo Canadian CT Head Rule, bệnh nhân này thuộc nhóm nguy cơ thấp (GCS 15 ở giờ thứ 2, không nôn, không nghi vỡ sọ, tuổi < 65) nên không có chỉ định chụp CT sọ não thường quy nhằm tránh nhiễm xạ không cần thiết."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính của chẩn đoán này là gì?",
+          "options": [
+            "Đứt rách sợi thần kinh lan tỏa",
+            "Rối loạn chuyển hóa tế bào",
+            "Chảy máu vi thể vỏ não",
+            "Phù não do độc tế bào"
+          ],
+          "answer": 1,
+          "explain": "Chấn động não là một tổn thương chức năng hơn là cấu trúc. Cơ chế chủ yếu là sự rối loạn tạm thời của các dòng ion tế bào thần kinh và rối loạn chuyển hóa năng lượng, không có tổn thương vĩ mô trên hình ảnh học."
+        },
+        {
+          "q": "Lời khuyên xuất viện nào sau đây là KHÔNG ĐÚNG?",
+          "options": [
+            "Cần có người theo dõi tại nhà",
+            "Tránh hoạt động thể lực mạnh",
+            "Dùng thuốc ngủ nếu khó ngủ",
+            "Quay lại viện nếu nôn mửa liên tục"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân chấn động não cần được dặn dò tránh dùng thuốc an thần hoặc thuốc ngủ, vì thuốc sẽ làm che lấp các dấu hiệu tri giác xấu đi nếu có máu tụ tiến triển muộn."
+        },
+        {
+          "q": "Biến chứng muộn phổ biến nhất bệnh nhân có thể gặp là gì?",
+          "options": [
+            "Động kinh cục bộ phức tạp",
+            "Não úng thủy áp lực bình thường",
+            "Mất trí nhớ vĩnh viễn toàn bộ",
+            "Hội chứng sau chấn động"
+          ],
+          "answer": 3,
+          "explain": "Hội chứng sau chấn động (Postconcussion syndrome) với biểu hiện đau đầu dai dẳng, chóng mặt, mất tập trung, mệt mỏi có thể kéo dài vài tuần đến vài tháng sau chấn thương nhẹ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 78 tuổi, tiền sử tăng huyết áp, rối loạn tri giác từ từ 3 ngày",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 78 tuổi, tiền sử tăng huyết áp và đang dùng Clopidogrel, được người nhà đưa đến viện vì lú lẫn và yếu nhẹ nửa người phải xuất hiện tăng dần trong 3 ngày nay. Khai thác bệnh sử ghi nhận bệnh nhân có cộc đầu nhẹ vào khung cửa 1 tháng trước nhưng không đi khám vì chỉ xây xát nhẹ.<br><br><b>Tiền sử:</b> Tăng huyết áp mạn tính, đang dùng Clopidogrel (thuốc kháng kết tập tiểu cầu).<br><br><b>Khám lâm sàng:</b> GCS 14 điểm, đồng tử trái lớn hơn phải một chút nhưng vẫn phản xạ. Nhịp tim đều, không có dấu hiệu nhiễm trùng. Yếu nửa người bên phải.<br><br><b>Cơ chế chấn thương:</b> Chấn thương nhẹ 1 tháng trước.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất là gì?",
+          "options": [
+            "Máu tụ dưới màng cứng mạn tính",
+            "Máu tụ ngoài màng cứng cấp tính",
+            "Nhồi máu não bán cầu bên phải",
+            "Khối u não chảy máu thứ phát"
+          ],
+          "answer": 0,
+          "explain": "Bệnh cảnh người già có tiền sử chấn thương nhẹ từ vài tuần trước, nay xuất hiện rối loạn tri giác và yếu nửa người từ từ là điển hình của máu tụ dưới màng cứng mạn tính. Việc dùng thuốc kháng kết tập tiểu cầu làm tăng nguy cơ này."
+        },
+        {
+          "q": "Nguồn chảy máu trong bệnh lý này xuất phát từ đâu?",
+          "options": [
+            "Động mạch màng não giữa",
+            "Tĩnh mạch cầu nối vỏ não",
+            "Tĩnh mạch sâu vỏ não",
+            "Xoang tĩnh mạch dọc trên"
+          ],
+          "answer": 1,
+          "explain": "Ở người già, não teo làm khoang dưới màng cứng rộng ra, các tĩnh mạch cầu nối (bridging veins) bị kéo căng và dễ bị rách rỉ rả ngay cả với chấn thương năng lượng thấp."
+        },
+        {
+          "q": "Hình ảnh điển hình trên phim CT sọ não không tiêm thuốc là gì?",
+          "options": [
+            "Khối tăng tỷ trọng hình thấu kính hai mặt",
+            "Khối tăng tỷ trọng hình liềm bám sát xương",
+            "Khối giảm tỷ trọng hình liềm đè ép nhu mô",
+            "Xuất huyết rải rác các rãnh cuộn não đỉnh"
+          ],
+          "answer": 2,
+          "explain": "Khối máu tụ mạn tính (sau vài tuần) đã thoái hóa hồng cầu, do đó trên CT sọ não không cản quang sẽ có hình liềm giảm tỷ trọng (màu đen) thay vì tăng tỷ trọng (màu trắng) như máu tụ cấp tính."
+        },
+        {
+          "q": "Phương pháp phẫu thuật tiêu chuẩn cho bệnh lý này là gì?",
+          "options": [
+            "Cắt thùy não giải áp lực",
+            "Đặt dẫn lưu não thất ổ bụng",
+            "Mở sọ nắp rộng rãi lấy máu",
+            "Khoan sọ dẫn lưu kín"
+          ],
+          "answer": 3,
+          "explain": "Máu tụ dưới màng cứng mạn tính phần lớn hóa dịch lỏng. Can thiệp tiêu chuẩn và ít xâm lấn là khoan 1-2 lỗ sọ (Burr hole), bơm rửa và đặt ống dẫn lưu kín ra ngoài. Mở sọ nắp rộng rãi có nguy cơ chảy máu cao không cần thiết."
+        },
+        {
+          "q": "Yếu tố nguy cơ chính gây ra bệnh lý này ở bệnh nhân là gì?",
+          "options": [
+            "Teo não ở người cao tuổi",
+            "Chấn thương sọ não mức độ nhẹ",
+            "Tăng huyết áp mạn tính vô căn",
+            "Giới tính nam giới sinh lý"
+          ],
+          "answer": 0,
+          "explain": "Teo não sinh lý theo tuổi làm tăng khoảng cách giữa bề mặt não và hộp sọ, khiến tĩnh mạch cầu nối căng ra và dễ rách. Tăng huyết áp không phải nguyên nhân sinh bệnh của máu tụ dưới màng cứng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 35 tuổi, ngã từ giàn giáo 3 mét, dịch chảy từ mũi và tai",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 35 tuổi ngã từ giàn giáo cao 3 mét xuống đất. Lúc vào viện, bệnh nhân lơ mơ GCS 13 điểm.<br><br><b>Tiền sử:</b> Không khai được rõ ràng do bệnh nhân lơ mơ.<br><br><b>Khám lâm sàng:</b> Có dịch trong suốt chảy rỉ rả từ lỗ mũi bên phải và tai phải. Quanh hai mắt có mảng bầm tím. Mạch 90 lần/phút, huyết áp 120/80 mmHg. Bệnh nhân không có biểu hiện cứng gáy.<br><br><b>Cơ chế chấn thương:</b> Ngã từ độ cao 3 mét (năng lượng cao).",
+      "questions": [
+        {
+          "q": "Dấu hiệu lâm sàng hướng tới chẩn đoán vỡ cấu trúc xương nào?",
+          "options": [
+            "Vỡ vòm sọ đơn thuần",
+            "Vỡ nền sọ trước và giữa",
+            "Vỡ nền sọ hố sau",
+            "Gãy xương hàm trên"
+          ],
+          "answer": 1,
+          "explain": "Dấu hiệu bầm tím quanh mắt (Raccoon eyes) gợi ý vỡ nền sọ hố trước. Dịch trong chảy ra từ tai (có thể rách màng nhĩ) gợi ý vỡ nền sọ hố giữa (xương đá)."
+        },
+        {
+          "q": "Thủ thuật nào sau đây bị chống chỉ định tuyệt đối ở bệnh nhân này?",
+          "options": [
+            "Soi tai mũi họng",
+            "Chụp CT sọ não",
+            "Đặt ống thông dạ dày qua mũi",
+            "Tiêm phòng uốn ván"
+          ],
+          "answer": 2,
+          "explain": "Khi có nghi ngờ hoặc vỡ nền sọ trước, việc đặt ống thông dạ dày qua mũi (Nasogastric tube) bị chống chỉ định vì ống có thể chọc xuyên qua mảnh sọ vỡ ở trần sàng đi thẳng vào nhu mô não. Cần đặt ống qua miệng (Orogastric tube)."
+        },
+        {
+          "q": "Xét nghiệm nào đặc hiệu nhất để xác nhận chất lỏng chảy ra là dịch não tủy?",
+          "options": [
+            "Soi tươi tìm vi khuẩn",
+            "Định lượng Glucose dịch",
+            "Nhuộm Gram dịch tiết",
+            "Xét nghiệm Beta-2 transferrin"
+          ],
+          "answer": 3,
+          "explain": "Xét nghiệm Beta-2 transferrin là tiêu chuẩn vàng để xác định dịch tiết là dịch não tủy, vì protein này hầu như chỉ có trong dịch não tủy. Xét nghiệm đường/glucose có tỷ lệ dương tính giả cao với dịch nhầy mũi."
+        },
+        {
+          "q": "Xử trí ban đầu phù hợp với tình trạng rò dịch não tủy là gì?",
+          "options": [
+            "Nằm đầu cao 30 độ",
+            "Nhét gạc chèn chặt mũi",
+            "Rửa tai bằng nước muối",
+            "Mở sọ vá màng cứng ngay"
+          ],
+          "answer": 0,
+          "explain": "Hầu hết các rò dịch não tủy do chấn thương sẽ tự liền trong vòng 7-10 ngày. Điều trị bảo tồn bao gồm nằm đầu cao 30 độ để giảm áp lực nội sọ. Tuyệt đối không nhét gạc bịt kín mũi/tai vì làm tăng nguy cơ trào ngược vi khuẩn gây nhiễm trùng."
+        },
+        {
+          "q": "Bệnh nhân có nguy cơ cao nhất tiến triển biến chứng gì?",
+          "options": [
+            "Não úng thủy cấp tính",
+            "Viêm màng não mủ",
+            "Động kinh toàn thể",
+            "Phình mạch máu não"
+          ],
+          "answer": 1,
+          "explain": "Vỡ nền sọ tạo đường thông thương trực tiếp giữa khoang dưới nhện và môi trường bên ngoài (mũi, tai), nguy cơ lớn nhất là vi khuẩn xâm nhập gây viêm màng não mủ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 6 tháng tuổi, rơi từ giường 0.5 mét, có khối máu tụ đầu",
+      "body": "<b>Bệnh sử:</b> Bệnh nhi nam 6 tháng tuổi, bị rơi từ giường xuống đất với độ cao khoảng 0.5 mét. Trẻ khóc ngay sau ngã, sau đó nín và bú sữa mẹ bình thường, không nôn trớ.<br><br><b>Tiền sử:</b> Không khai được tiền sử bệnh lý.<br><br><b>Khám lâm sàng:</b> Khối máu tụ dưới da đầu vùng trán kích thước 3 cm, mềm. Mạch và nhịp thở trong giới hạn bình thường. Thóp trước phẳng và mềm, các đường khớp sọ bình thường. Trẻ tỉnh táo hoàn toàn.<br><br><b>Cơ chế chấn thương:</b> Rơi từ giường (độ cao thấp, 0.5 mét).",
+      "questions": [
+        {
+          "q": "Công cụ nào giúp quyết định việc chụp CT sọ não ở bệnh nhi này?",
+          "options": [
+            "Thang điểm Glasgow",
+            "Thang điểm đụng dập",
+            "Quy tắc PECARN",
+            "Quy tắc Canadian"
+          ],
+          "answer": 2,
+          "explain": "Quy tắc PECARN (Pediatric Emergency Care Applied Research Network) là tiêu chuẩn lâm sàng được sử dụng rộng rãi để loại trừ nguy cơ chấn thương sọ não quan trọng và quyết định không cần chụp CT ở trẻ em."
+        },
+        {
+          "q": "Yếu tố sinh lý nào giúp trẻ sơ sinh dung nạp tạm thời với sự tăng áp lực nội sọ tốt hơn người lớn?",
+          "options": [
+            "Tốc độ chuyển hóa não thấp",
+            "Nhu mô não chứa nhiều nước",
+            "Huyết áp động mạch thấp",
+            "Thóp và khớp sọ chưa liền"
+          ],
+          "answer": 3,
+          "explain": "Trẻ em dưới 18 tháng tuổi có thóp và các khớp sọ chưa cốt hóa hoàn toàn. Khi áp lực nội sọ tăng, sọ có thể giãn nở nhẹ làm giảm bớt áp lực, dẫn đến biểu hiện muộn của các dấu hiệu chèn ép não so với người lớn."
+        },
+        {
+          "q": "Đặc điểm nào sau đây KHÔNG PHẢI là cơ chế chấn thương nguy cơ cao ở trẻ em?",
+          "options": [
+            "Ngã từ độ cao 0.5 mét",
+            "Tai nạn giao thông ô tô",
+            "Bố mẹ nghi ngờ bạo hành",
+            "Vật nặng đập mạnh trúng đầu"
+          ],
+          "answer": 0,
+          "explain": "Theo PECARN, cơ chế chấn thương nghiêm trọng bao gồm ngã từ độ cao > 0.9m (đối với trẻ < 2 tuổi) hoặc > 1.5m (trẻ > 2 tuổi), tai nạn xe, hoặc vật nặng đập trúng đầu. Ngã từ 0.5m (ngã giường) là cơ chế nguy cơ thấp."
+        },
+        {
+          "q": "Biến chứng nguy hiểm nhất của một khối máu tụ dưới cân galê (subgaleal hematoma) lớn ở trẻ nhỏ là gì?",
+          "options": [
+            "Nhiễm trùng huyết",
+            "Sốc giảm thể tích",
+            "Tổn thương sợi trục",
+            "Thoát vị hạnh nhân não"
+          ],
+          "answer": 1,
+          "explain": "Khoang dưới cân galê lỏng lẻo và trải dài khắp vòm sọ, trẻ em có thể chảy một lượng máu lớn vào khoang này dẫn đến sốc mất máu nặng nề dù không có tổn thương nhu mô não bên trong."
+        },
+        {
+          "q": "Lựa chọn xử trí hợp lý nhất lúc này là gì?",
+          "options": [
+            "Chụp MRI sọ não cấp cứu ngay",
+            "Chụp CT sọ não thường quy",
+            "Theo dõi sát tại nhà hoặc viện",
+            "Khoan sọ thám sát ngay lập tức"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhi tỉnh táo hoàn toàn, cơ chế chấn thương nguy cơ thấp, không nôn, thóp phẳng mềm, thuộc nhóm nguy cơ rất thấp theo PECARN. Việc cần làm là tư vấn và hướng dẫn người nhà theo dõi, tránh chỉ định CT sọ không cần thiết gây nguy cơ phơi nhiễm tia xạ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi, ngã đập chẩm trong say rượu, dập não phù nề muộn 24 giờ",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 50 tuổi ngã đập vùng chẩm xuống đường trong tình trạng say rượu. Phim CT sọ ban đầu chỉ thấy vài ổ dập não xuất huyết nhỏ vùng trán hai bên khoảng 1 cm, GCS 13 điểm.<br><br><b>Tiền sử:</b> Sử dụng rượu, không khai được tiền sử rõ ràng.<br><br><b>Khám lâm sàng (24 giờ sau):</b> Bệnh nhân đột ngột lơ mơ, GCS giảm xuống 7 điểm. Đồng tử phải giãn to 6 mm, không phản xạ ánh sáng. Liệt cứng nửa người bên trái (posturing). Nôn mửa kéo dài.<br><br><b>Cơ chế chấn thương:</b> Ngã đập chẩm năng lượng cao.",
+      "questions": [
+        {
+          "q": "Hiện tượng lâm sàng bệnh nhân đang gặp phải là gì?",
+          "options": [
+            "Tràn dịch não thất cấp tính",
+            "Sốc thần kinh do tủy sống",
+            "Cơn động kinh cục bộ phức tạp",
+            "Thoát vị não xuyên lều thái dương"
+          ],
+          "answer": 3,
+          "explain": "Dập não có thể phù nề và tăng kích thước xuất huyết sau 24-48 giờ. Triệu chứng suy giảm tri giác nhanh, giãn đồng tử một bên và liệt nửa người đối diện là dấu hiệu kinh điển của thoát vị não (thoát vị móc hải mã xuyên lều)."
+        },
+        {
+          "q": "Cơ chế gây ra ổ dập não vùng trán khi bị đập vùng chẩm gọi là gì?",
+          "options": [
+            "Tổn thương dội (Contrecoup)",
+            "Tổn thương trực tiếp (Coup)",
+            "Vỡ lún xương sọ vùng trán",
+            "Xé rách sợi trục thần kinh lan tỏa"
+          ],
+          "answer": 0,
+          "explain": "Tổn thương dội (Contrecoup) xảy ra khi đầu đang di chuyển bị dừng lại đột ngột. Não bộ trượt trong hộp sọ và va đập vào vòm sọ đối diện với điểm tiếp xúc (ngã đập gáy, não trượt đập vào xương trán)."
+        },
+        {
+          "q": "Đồng tử bên phải giãn to là do chèn ép dây thần kinh sọ nào?",
+          "options": [
+            "Dây thần kinh thị giác (II)",
+            "Dây thần kinh vận nhãn (III)",
+            "Dây thần kinh sinh ba (V)",
+            "Dây thần kinh ròng rọc (IV)"
+          ],
+          "answer": 1,
+          "explain": "Khi thoát vị qua khe lều, thùy thái dương chèn ép vào rễ dây thần kinh vận nhãn chung (dây III) cùng bên, làm liệt chức năng đối giao cảm, gây giãn đồng tử và mất phản xạ ánh sáng."
+        },
+        {
+          "q": "Loại thuốc nào vô tác dụng và có hại trong chống phù não chấn thương?",
+          "options": [
+            "Dung dịch Mannitol 20%",
+            "Dung dịch Natri clorua 3%",
+            "Corticosteroid đường tĩnh mạch",
+            "Thuốc chống động kinh"
+          ],
+          "answer": 2,
+          "explain": "Theo guideline của Brain Trauma Foundation, Corticosteroid (như dexamethasone) không cải thiện kết cục trong chấn thương sọ não nặng và làm tăng nguy cơ nhiễm trùng, xuất huyết tiêu hóa, do đó bị chống chỉ định. Mannitol và muối ưu trương là lựa chọn chuẩn."
+        },
+        {
+          "q": "Mục tiêu phẫu thuật ưu tiên trong tình huống này là gì?",
+          "options": [
+            "Đặt dẫn lưu não thất ra ngoài",
+            "Khoan sọ tháo hút dịch não tủy",
+            "Cắt thùy trán hai bên triệt để",
+            "Mở sọ giải ép rộng rãi kết hợp"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân có dấu hiệu dọa tử vong do tăng áp lực nội sọ kháng trị. Can thiệp cứu mạng là mở sọ giải ép nắp rộng (Decompressive craniectomy) để não có không gian nở ra ngoài, kèm lấy bỏ các tổ chức dập nát hoại tử."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi, văng khỏi ô tô tốc độ cao, hôn mê GCS 5, khó quản lý đường thở",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 30 tuổi bị văng ra khỏi ô tô đang chạy tốc độ cao. Tại hiện trường, bệnh nhân bất tỉnh, GCS 5 điểm, thở khò khè kèm tiếng ngáy lớn.<br><br><b>Tiền sử:</b> Không khai được do bệnh nhân bất tỉnh sâu.<br><br><b>Khám lâm sàng (hiện trường):</b> Huyết áp 110/70 mmHg, mạch 100 lần/phút. Có vết thương rách da lớn vùng trán. Bệnh nhân đang được nhân viên y tế cấp cứu đặt nẹp cổ cứng. Thở khò khè, không tự bảo vệ được đường thở.<br><br><b>Cơ chế chấn thương:</b> Văng khỏi ô tô tốc độ cao (năng lượng cực cao).",
+      "questions": [
+        {
+          "q": "Thao tác mở thông đường thở đầu tiên cần thực hiện là gì?",
+          "options": [
+            "Nâng hàm dưới (Jaw thrust)",
+            "Ngửa đầu nâng cằm cổ điển",
+            "Đặt mask thanh quản cấp cứu ngay",
+            "Bóp bóng qua mặt nạ oxy"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân bị chấn thương năng lượng cao, mất ý thức phải được coi như có gãy cột sống cổ cho đến khi loại trừ. Thao tác nâng hàm dưới (Jaw thrust) không làm ngửa cổ, giúp mở đường thở mà vẫn an toàn cho tủy sống."
+        },
+        {
+          "q": "Lựa chọn dịch truyền ưu tiên nếu bệnh nhân có tụt huyết áp là gì?",
+          "options": [
+            "Dung dịch Glucose 5% đẳng trương",
+            "Dung dịch Natri clorua 0.9%",
+            "Dung dịch Ringer Lactate",
+            "Dung dịch Natri clorua 0.45%"
+          ],
+          "answer": 1,
+          "explain": "NaCl 0.9% là dịch đẳng trương ưu tiên trong chấn thương sọ não. Glucose 5% hoặc NaCl 0.45% là dịch nhược trương, sẽ làm nước di chuyển vào tế bào não gây phù não nặng thêm. Ringer Lactate hơi nhược trương so với huyết tương."
+        },
+        {
+          "q": "Vai trò quan trọng nhất của nẹp cổ cứng trong bệnh cảnh này là gì?",
+          "options": [
+            "Cầm máu hệ tĩnh mạch vùng cổ",
+            "Giảm áp lực tĩnh mạch cảnh trong",
+            "Cố định bảo vệ cột sống cổ",
+            "Duy trì trục đường thở thẳng"
+          ],
+          "answer": 2,
+          "explain": "Nẹp cổ cứng phục vụ mục đích duy nhất ở giai đoạn đầu là bất động cột sống cổ, tránh tổn thương tủy sống thứ phát khi di chuyển hoặc thao tác y tế ở người nghi gãy cổ."
+        },
+        {
+          "q": "Để phòng tổn thương não thứ phát, cần tuyệt đối tránh tình trạng nào?",
+          "options": [
+            "Tăng áp lực tĩnh mạch trung tâm",
+            "Hạ thân nhiệt chỉ huy nhân tạo",
+            "Duy trì PaCO2 ở mức 35-40 mmHg",
+            "Hạ huyết áp và thiếu oxy máu"
+          ],
+          "answer": 3,
+          "explain": "Tổn thương não thứ phát do thiếu máu và thiếu oxy làm tăng gấp đôi tỷ lệ tử vong. Mọi hướng dẫn ATLS và chuyên ngành sọ não đều nhấn mạnh phải tránh hạ huyết áp (HATT < 90 mmHg) và thiếu oxy (SpO₂ < 90%)."
+        },
+        {
+          "q": "Trong quá trình đặt nội khí quản nhanh (RSI), thuốc nào là bắt buộc?",
+          "options": [
+            "Thuốc an thần và thuốc giãn cơ",
+            "Corticoid liều cao tĩnh mạch",
+            "Thuốc chống động kinh dự phòng",
+            "Kháng sinh phổ rộng tiêm mạch"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có GCS 5 điểm không tự bảo vệ được đường thở. Đặt nội khí quản chuỗi nhanh (RSI) bắt buộc sử dụng thuốc an thần (ví dụ Propofol, Ketamine) kết hợp thuốc giãn cơ để tránh bệnh nhân ho chống đối, làm tăng vọt áp lực nội sọ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 25 tuổi, bị đánh vào đỉnh đầu bằng búa, vỡ sọ lún hở 3 cm",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 25 tuổi bị đánh vào đỉnh đầu bằng búa đinh.<br><br><b>Tiền sử:</b> Khỏe mạnh trước đó.<br><br><b>Khám lâm sàng:</b> GCS 15 điểm, sinh hiệu ổn định. Tại đỉnh đầu có vết thương rách da 3 cm, sờ thấy bờ xương sọ lún sâu dưới da đầu. Vết thương rỉ máu ít. Khám thần kinh vận động và cảm giác tứ chi hoàn toàn bình thường.<br><br><b>Cơ chế chấn thương:</b> Đánh vào đỉnh đầu bằng vật tê giác (búa).",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng tổn thương là gì?",
+          "options": [
+            "Vỡ nền sọ hố giữa",
+            "Vỡ sọ lún hở",
+            "Vết thương phần mềm sọ",
+            "Tụ máu dưới màng cứng"
+          ],
+          "answer": 1,
+          "explain": "Vết thương rách da đầu kèm theo sờ thấy xương sọ lún xuống tại vị trí va đập là định nghĩa lâm sàng của vỡ sọ lún hở (Open depressed skull fracture)."
+        },
+        {
+          "q": "Cấu trúc mạch máu nguy hiểm nào nằm ngay dưới vòm sọ khu vực này?",
+          "options": [
+            "Động mạch màng não giữa",
+            "Động mạch não trước",
+            "Xoang tĩnh mạch dọc trên",
+            "Hạch nền và đồi thị não"
+          ],
+          "answer": 2,
+          "explain": "Tại đường giữa của đỉnh đầu là vị trí của xoang tĩnh mạch dọc trên (Superior sagittal sinus). Nếu mảnh sọ lún đâm rách xoang này, việc mổ nhổ mảnh xương ra có thể gây chảy máu ồ ạt đe dọa tính mạng trên bàn mổ."
+        },
+        {
+          "q": "Điều trị nội khoa dự phòng bắt buộc ở bệnh nhân này là gì?",
+          "options": [
+            "Corticoid và thuốc giảm đau",
+            "Thuốc vận mạch và truyền dịch",
+            "Kháng sinh và thuốc chống đông",
+            "Kháng sinh và tiêm phòng uốn ván"
+          ],
+          "answer": 3,
+          "explain": "Vì là gãy xương hở (thông thương khoang nội sọ/cốt tủy với môi trường dơ), bệnh nhân có nguy cơ viêm màng não và uốn ván. Do đó, kháng sinh tĩnh mạch phổ rộng và huyết thanh/vaccine uốn ván là bắt buộc."
+        },
+        {
+          "q": "Chỉ định mổ nâng lún xương sọ tuyệt đối khi nào?",
+          "options": [
+            "Lún sâu quá một bề dày bản sọ",
+            "Bệnh nhân có điểm GCS dưới 8",
+            "Kích thước vết rách da > 1 cm",
+            "Bệnh nhân có than phiền đau đầu"
+          ],
+          "answer": 0,
+          "explain": "Chỉ định mổ vỡ lún xương sọ bao gồm: lún sâu hơn bề dày của bản sọ (làm chèn ép rách màng cứng/nhu mô não), gãy hở có bẩn nhiều, hoặc có rò dịch não tủy đi kèm."
+        },
+        {
+          "q": "Biến chứng di chứng đặc thù do mảnh sọ lún chèn ép vỏ não là gì?",
+          "options": [
+            "Nhồi máu cơ tim cấp",
+            "Động kinh sau chấn thương",
+            "Rối loạn nội tiết tố tuyến yên",
+            "Mù lòa thị lực vĩnh viễn"
+          ],
+          "answer": 1,
+          "explain": "Mảnh xương lún tỳ đè trực tiếp lên vỏ não tạo ra sẹo nguyên bào sao (glial scar) hoặc kích thích điện sinh lý, dẫn tới nguy cơ rất cao hình thành ổ phát sóng động kinh (động kinh cục bộ hoặc toàn thể hóa sau chấn thương)."
+        }
+      ]
+    }
+  ]
+}
