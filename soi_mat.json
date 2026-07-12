@@ -1,0 +1,620 @@
+{
+  "name": "Sỏi mật",
+  "description": "Bộ câu hỏi trắc nghiệm tự lượng giá dựa trên các tình huống lâm sàng về bệnh lý sỏi mật, viêm đường mật và viêm túi mật dành cho ôn thi Bác sĩ Nội trú.",
+  "level": "Ôn thi nội trú",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Tiêu hóa",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 42 tuổi đau bụng sau bữa ăn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 42 tuổi, nhân viên văn phòng, BMI 29.3 kg/m².<br><br><b>Bệnh sử:</b> Vào viện vì đau bụng vùng trên phải. Cách nhập viện 4 giờ, sau khi ăn bữa tối nhiều dầu mỡ, bệnh nhân xuất hiện cơn đau quặn từng cơn tại vùng thượng vị lệch phải, lan ra sau lưng và lên vai phải, kèm buồn nôn, không nôn.<br><br><b>Tiền sử:</b> Sinh 3 con, chưa ghi nhận bệnh lý nội khoa, không dùng thuốc thường xuyên.<br><br><b>Khám lâm sàng:</b> Tỉnh táo, mạch 88 lần/phút, HA 120/70 mmHg, nhiệt độ 37°C. Bụng mềm, ấn đau tức nhẹ vùng hạ sườn phải nhưng không có phản ứng thành bụng, Murphy (-). Không vàng da, củng mạc mắt không vàng.<br><br><b>Cận lâm sàng:</b> WBC 8.5 G/L, CRP 3 mg/L, AST 35 U/L, ALT 10 U/L, Bilirubin toàn phần 15 µmol/L, Amylase máu 60 U/L. Siêu âm bụng: Túi mật kích thước bình thường, thành mỏng 2mm, có vài viên sỏi d~10-15mm di động khi thay đổi tư thế, đường mật trong và ngoài gan không giãn.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định phù hợp nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Viêm túi mật cấp",
+            "Cơn đau quặn mật do sỏi túi mật",
+            "Sỏi ống mật chủ",
+            "Viêm tụy cấp thế phù nề"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có cơn đau điển hình sau ăn dầu mỡ, nhưng không sốt, bạch cầu và CRP bình thường, Murphy (-), thành túi mật mỏng trên siêu âm -> Loại trừ viêm túi mật cấp. Bilirubin và men gan bình thường -> Loại trừ sỏi ống mật chủ. Amylase bình thường -> Loại trừ viêm tụy."
+        },
+        {
+          "q": "Cơ chế chính gây ra triệu chứng đau ở bệnh nhân này là:",
+          "options": [
+            "Sự căng giãn đột ngột của ống mật chủ do sỏi tắc nghẽn",
+            "Viêm nhiễm lan tỏa phúc mạc thành vùng hạ sườn phải",
+            "Sự co bóp của túi mật chống lại tắc nghẽn tạm thời ở cổ túi mật/ống cổ túi mật",
+            "Hoại tử niêm mạc túi mật do thiếu máu cục bộ"
+          ],
+          "answer": 2,
+          "explain": "Cơn đau quặn mật (Biliary colic) xảy ra do túi mật co bóp (dưới tác dụng của CCK sau ăn) đẩy sỏi kẹt vào vùng phễu hoặc ống cổ túi mật, gây tăng áp lực lòng túi mật tạm thời."
+        },
+        {
+          "q": "Xét nghiệm hình ảnh học nào tiếp theo là cần thiết nhất để khẳng định chẩn đoán?",
+          "options": [
+            "Chụp CT bụng có cản quang",
+            "Chụp MRI đường mật (MRCP)",
+            "Không cần thêm xét nghiệm hình ảnh nào khác",
+            "Chụp xạ hình gan mật (HIDA scan)"
+          ],
+          "answer": 2,
+          "explain": "Siêu âm là tiêu chuẩn vàng chẩn đoán sỏi túi mật (độ nhạy >95%). Với lâm sàng và siêu âm điển hình, không cần CT/MRI trừ khi nghi ngờ biến chứng."
+        },
+        {
+          "q": "Hướng xử trí ban đầu phù hợp nhất tại phòng cấp cứu:",
+          "options": [
+            "Nhịn ăn, truyền dịch, giảm đau (NSAIDs/Spasmoanalgesic), theo dõi",
+            "Kháng sinh đường tĩnh mạch phổ rộng ngay lập tức",
+            "Chỉ định mổ cấp cứu cắt túi mật ngay trong đêm",
+            "Nội soi mật tụy ngược dòng (ERCP)"
+          ],
+          "answer": 0,
+          "explain": "Xử trí cơn đau quặn mật chưa biến chứng chủ yếu là điều trị triệu chứng (giảm đau NSAIDs như Diclofenac/Ketorolac hoặc chống co thắt) và bù dịch. Kháng sinh không chỉ định khi không có viêm."
+        },
+        {
+          "q": "Lời khuyên về điều trị lâu dài tối ưu cho bệnh nhân này (theo guideline chuẩn):",
+          "options": [
+            "Tán sỏi ngoài cơ thể",
+            "Phẫu thuật cắt túi mật nội soi chương trình (trì hoãn)",
+            "Dùng thuốc tan sỏi (Ursodeoxycholic acid) trong 6-12 tháng",
+            "Chỉ cần điều chỉnh chế độ ăn, không cần can thiệp gì thêm"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân đã có triệu chứng (symptomatic gallstones) có nguy cơ tái phát và biến chứng (viêm cấp, viêm tụy...) nên chỉ định cắt túi mật nội soi chương trình (elective laparoscopic cholecystectomy) là tiêu chuẩn vàng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi đau hạ sườn phải và sốt cao",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi.<br><br><b>Tiền sử:</b> Đái tháo đường type 2 (10 năm).<br><br><b>Bệnh sử:</b> Nhập viện vì sốt và đau hạ sườn phải ngày thứ 2. Bệnh nhân đau liên tục vùng hạ sườn phải, không lan, kèm sốt cao rét run.<br><br><b>Khám lâm sàng:</b> Lơ mơ, mạch 110 l/p, HA 85/50 mmHg, nhiệt độ 39.5°C, SpO2 96%. Da và củng mạc mắt vàng rõ. Bụng chướng nhẹ, phản ứng thành bụng vùng hạ sườn phải (+).<br><br><b>Cận lâm sàng:</b> WBC 22 G/L, Tiểu cầu 80 G/L, CRP 150 mg/L, Bilirubin TP 85 μmol/L (TT 60 μmol/L), AST 120 U/L, ALT 135 U/L, Creatinin 150 µmol/L. Khí máu động mạch có toan chuyển hóa. Siêu âm tại giường: Đường mật trong gan giãn nhẹ, ống mật chủ (CBD) d=14mm, có hình ảnh tăng âm kèm bóng cản đoạn cuối CBD.",
+      "questions": [
+        {
+          "q": "Chẩn đoán đầy đủ và chính xác nhất theo Tokyo Guidelines 2018 (TG18):",
+          "options": [
+            "Viêm túi mật cấp độ III",
+            "Viêm đường mật cấp độ II do sỏi ống mật chủ",
+            "Viêm đường mật cấp độ III do sỏi ống mật chủ",
+            "Sốc nhiễm khuẩn đường tiêu hóa chưa rõ nguyên nhân"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có Tam chứng Charcot (Sốt, Đau, Vàng da) + Rối loạn tri giác + Tụt huyết áp -> Ngũ chứng Reynolds -> Viêm đường mật cấp. Có rối loạn chức năng cơ quan (thần kinh, tim mạch, huyết học tiểu cầu giảm, thận-creatinin tăng) -> Phân độ III (Nặng) theo TG18."
+        },
+        {
+          "q": "Dấu hiệu lâm sàng \"Ngũ chứng Reynolds\" ở bệnh nhân này bao gồm các yếu tố nào?",
+          "options": [
+            "Đau hạ sườn phải, Sốt, Vàng da, Suy thận, Tụt huyết áp",
+            "Đau hạ sườn phải, Sốt, Vàng da, Tụt huyết áp, Rối loạn tri giác",
+            "Đau hạ sườn phải, Sốt, Vàng da, Tăng bạch cầu, Rối loạn đông máu",
+            "Sốt, Vàng da, Gan to, Túi mật to, Tụt huyết áp"
+          ],
+          "answer": 1,
+          "explain": "Ngũ chứng Reynolds = Tam chứng Charcot (Đau, Sốt, Vàng da) + Sốc (Tụt HA) + Rối loạn tri giác (Lơ mơ/Confusion). Đây là dấu hiệu của viêm đường mật cấp tính rất nặng (Acute Suppurative Cholangitis)."
+        },
+        {
+          "q": "Yếu tố nào sau đây là tiêu chuẩn chẩn đoán mức độ nặng (Độ III) trong viêm đường mật cấp theo TG18 ở bệnh nhân này?",
+          "options": [
+            "Tuổi > 75 và sốt cao >39°C",
+            "Rối loạn tri giác và tụt huyết áp (cần vận mạch)",
+            "Bilirubin máu > 50 µmol/L",
+            "Bạch cầu > 20 G/L"
+          ],
+          "answer": 1,
+          "explain": "Theo TG18, Độ III được xác định khi có rối loạn chức năng ít nhất một cơ quan: Tim mạch (tụt HA), Thần kinh (rối loạn tri giác), Hô hấp, Thận, Gan, Huyết học. Tuổi và sốt là tiêu chuẩn chẩn đoán, không phải tiêu chuẩn phân độ III."
+        },
+        {
+          "q": "Chiến lược điều trị tối ưu và cấp thiết nhất cho bệnh nhân này là:",
+          "options": [
+            "Mổ cấp cứu mở ống mật chủ lấy sỏi dẫn lưu Kehr ngay lập tức",
+            "Hồi sức tích cực (dịch, vận mạch, kháng sinh mạnh) AND Dẫn lưu đường mật cấp cứu (ERCP hoặc PTBD)",
+            "Điều trị bảo tồn bằng kháng sinh, nếu không đỡ sau 24-48h mới can thiệp",
+            "Cắt túi mật nội soi cấp cứu"
+          ],
+          "answer": 1,
+          "explain": "Với Độ III (có sốc), bắt buộc phải hồi sức chống sốc song song với dẫn lưu đường mật khẩn cấp (bằng ERCP là ưu tiên số 1). Phẫu thuật ngay lập tức ở bệnh nhân sốc có tỷ lệ tử vong rất cao, chỉ làm khi các biện pháp ít xâm lấn thất bại."
+        },
+        {
+          "q": "Trong trường hợp không thể thực hiện ERCP (do túi thừa tá tràng hoặc giải phẫu khó), lựa chọn thay thế ưu tiên để giảm áp đường mật là:",
+          "options": [
+            "Tán sỏi qua da bằng laser",
+            "Dẫn lưu đường mật xuyên gan qua da (PTBD)",
+            "Phẫu thuật nội soi lấy sỏi ống mật chủ",
+            "Tiếp tục điều trị nội khoa và theo dõi sát"
+          ],
+          "answer": 1,
+          "explain": "PTBD (Percutaneous Transhepatic Biliary Drainage) là lựa chọn thay thế hàng đầu khi ERCP thất bại hoặc không khả thi để giải quyết tình trạng nhiễm trùng tắc mật cấp cứu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 58 tuổi đau hạ sườn phải kèm sốt nhẹ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 58 tuổi.<br><br><b>Tiền sử:</b> Sỏi túi mật không triệu chứng phát hiện 2 năm trước.<br><br><b>Bệnh sử:</b> Vào viện vì đau hạ sườn phải ngày thứ 3. Đau âm ỉ liên tục vùng hạ sườn phải, tăng lên khi cử động, kèm sốt nhẹ.<br><br><b>Khám lâm sàng:</b> Tỉnh, mạch 90 l/p, HA 130/80 mmHg, T 38°C. Ấn điểm Murphy (+), sờ thấy khối căng đau dưới bờ sườn phải. Phổi trong, bụng không chướng.<br><br><b>Cận lâm sàng:</b> WBC 14 G/L, Neutrophil 80%, CRP 85 mg/L. Bilirubin, Amylase bình thường. Siêu âm: Túi mật căng to, kích thước 10x5 cm, thành dày 6mm, dịch quanh túi mật (+), sỏi kẹt cổ túi mật.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định theo TG18:",
+          "options": [
+            "Viêm túi mật cấp độ I",
+            "Viêm túi mật cấp độ II",
+            "Viêm túi mật cấp độ III",
+            "Thấm mật phúc mạc"
+          ],
+          "answer": 1,
+          "explain": "Độ II (Trung bình) theo TG18 vì có dấu hiệu viêm tại chỗ nặng: bạch cầu > 18G/L (ca này 14 chưa đủ), sờ thấy khối (ca này có), thời gian > 72h (ca này 3 ngày), viêm phúc mạc khu trú. Ca này có thời gian >72h và sờ thấy khối -> Độ II. Không có suy tạng nên không phải Độ III."
+        },
+        {
+          "q": "Biến chứng nào sau đây ĐÚNG khi nói về diễn tiến tự nhiên nếu không điều trị (chọn tập hợp đúng):\n(1) Hoại tử thủng túi mật; (2) Viêm tụy cấp; (3) Áp xe gan đường mật; (4) Rò túi mật - tá tràng.",
+          "options": [
+            "1, 2, 3",
+            "1, 3, 4",
+            "2, 3, 4",
+            "1, 2, 4"
+          ],
+          "answer": 3,
+          "explain": "Biến chứng của viêm túi mật: Hoại tử thủng (gây viêm phúc mạc), Rò mật ruột (gây tắc ruột do sỏi), Viêm tụy (ít gặp hơn sỏi ống mật chủ nhưng có thể). Áp xe gan đường mật thường do viêm đường mật ngược dòng (sỏi OMC) hơn là viêm túi mật đơn thuần. Chọn D bao quát các biến chứng trực tiếp."
+        },
+        {
+          "q": "Kháng sinh kinh nghiệm ban đầu phù hợp nhất cho bệnh nhân này (dựa trên vi khuẩn thường gặp là E. coli, Klebsiella, Enterococcus):",
+          "options": [
+            "Vancomycin đơn độc",
+            "Cephalosporin thế hệ 3 + Metronidazole",
+            "Clarithromycin + Amoxicillin",
+            "Metronidazole đơn độc"
+          ],
+          "answer": 1,
+          "explain": "Phác đồ chuẩn đánh vào Gram (-) đường ruột và Kỵ khí: Cepha 3 (Ceftriaxone/Cefotaxime) hoặc Fluoroquinolone kết hợp Metronidazole."
+        },
+        {
+          "q": "Phương pháp điều trị tối ưu (Gold standard) cho bệnh nhân này là:",
+          "options": [
+            "Điều trị bảo tồn bằng kháng sinh, mổ phiên sau 6-8 tuần",
+            "Cắt túi mật nội soi cấp cứu (tốt nhất trong vòng 72h-96h từ khi khởi phát)",
+            "Dẫn lưu túi mật qua da (chỉ định đầu tay)",
+            "Mổ mở cắt túi mật ngay lập tức"
+          ],
+          "answer": 1,
+          "explain": "Với viêm túi mật cấp, mổ nội soi sớm (Early Lap Chole) tốt nhất trong vòng 72h-1 tuần đầu được chứng minh an toàn và giảm thời gian nằm viện so với mổ trì hoãn. Mổ phiên (delayed) làm tăng nguy cơ dính và khó mổ hơn."
+        },
+        {
+          "q": "Trong quá trình phẫu thuật nội soi, phẫu thuật viên gặp khó khăn khi bóc tách tam giác Calot do viêm dính. Biện pháp an toàn nhất để tránh tổn thương đường mật chính là:",
+          "options": [
+            "Cố gắng phẫu tích sâu vào rốn gan để tìm ống gan chung",
+            "Chuyển ngay sang mổ mở",
+            "Thực hiện cắt túi mật bán phần (Subtotal cholecystectomy) hoặc chụp đường mật trong mổ",
+            "Kẹp cắt mù ống túi mật sát ống mật chủ"
+          ],
+          "answer": 2,
+          "explain": "Khi tam giác Calot \"đóng băng\" (frozen), cố gắng phẫu tích dễ gây tổn thương ống mật chủ. Cắt túi mật bán phần (để lại phần phễu/cổ dính) hoặc chụp đường mật trong mổ (IOC) là giải pháp an toàn (Safety Culture in Cholecystectomy - COS)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi đau thượng vị dữ dội",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Tiền sử:</b> Nghiện rượu (500ml/ngày).<br><br><b>Bệnh sử:</b> Vào viện vì đau bụng thượng vị dữ dội lan ra sau lưng. Khởi phát đau sau bữa ăn trưa, đau liên tục, nôn nhiều nhưng sau nôn không giảm đau.<br><br><b>Khám lâm sàng:</b> Mạch 100 l/p, T 37.8°C. Bụng chướng nhẹ, ấn đau vùng thượng vị, phản ứng thành bụng (-), Mayo-Robson (-). Không vàng da.<br><br><b>Cận lâm sàng:</b> Amylase 1200 U/L, Lipase 3500 U/L. ALT 180 U/L, AST 90 U/L, Bilirubin TP 30 µmol/L. Siêu âm: Tụy to phù nề, có dịch quanh tụy, túi mật có nhiều sỏi nhỏ d=3-5mm, ống mật chủ không giãn.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguyên nhân gây viêm tụy cấp ở bệnh nhân này khả năng cao nhất là do:",
+          "options": [
+            "Do rượu (vì tiền sử nghiện rượu)",
+            "Do sỏi mật (Biliary Pancreatitis)",
+            "Do tăng Triglyceride",
+            "Do thuốc"
+          ],
+          "answer": 1,
+          "explain": "Dù bệnh nhân nghiện rượu, nhưng sự tăng cao đột biến của ALT (>3 lần) kèm sỏi nhỏ túi mật gợi ý nguyên nhân do sỏi di chuyển xuống. Sỏi nhỏ dễ gây viêm tụy hơn sỏi lớn."
+        },
+        {
+          "q": "Chỉ số xét nghiệm nào sau đây có giá trị dự báo nguyên nhân do sỏi mật (Positive Predictive Value > 95%) trong bối cảnh viêm tụy cấp?",
+          "options": [
+            "Amylase > 3 lần bình thường",
+            "ALT > 150 U/L",
+            "Lipase > 3 lần bình thường",
+            "Bạch cầu > 16 G/L"
+          ],
+          "answer": 1,
+          "explain": "Theo các nghiên cứu (và Schwartz/Bailey), ALT tăng > 150 U/L (hoặc > 3 lần giới hạn trên) trong vòng 48h đầu của viêm tụy cấp có giá trị dự báo nguyên nhân do sỏi mật với độ đặc hiệu rất cao (>95%)."
+        },
+        {
+          "q": "Cơ chế gây viêm tụy cấp do sỏi mật (Thuyết kênh chung/Opie):",
+          "options": [
+            "Sỏi kẹt ở bóng Vater gây trào ngược dịch mật vào ống tụy hoặc tắc nghẽn dòng chảy dịch tụy",
+            "Sỏi gây viêm túi mật làm viêm lan sang đầu tụy",
+            "Sỏi đè ép vào tá tràng gây tắc ruột",
+            "Nhiễm trùng dịch mật lan theo đường máu vào tụy"
+          ],
+          "answer": 0,
+          "explain": "Cơ chế tắc nghẽn tại bóng Vater (nơi ống mật và ống tụy đổ chung) làm tăng áp lực ống tụy hoặc trào ngược dịch mật hoạt hóa men tụy sớm."
+        },
+        {
+          "q": "Thời điểm thực hiện phẫu thuật cắt túi mật cho bệnh nhân này (Viêm tụy cấp thể nhẹ):",
+          "options": [
+            "Mổ cấp cứu ngay khi vào viện",
+            "Sau khi điều trị ổn định viêm tụy, trong cùng đợt nằm viện (Same admission)",
+            "Trì hoãn sau 6-8 tuần để tụy hết viêm hoàn toàn",
+            "Không cần mổ, chỉ cần làm ERCP"
+          ],
+          "answer": 1,
+          "explain": "Với viêm tụy cấp do sỏi thể nhẹ (mild), khuyến cáo (IAP/APA guidelines) là cắt túi mật ngay trong cùng đợt nằm viện (thường sau khi men tụy giảm và bệnh nhân ăn lại được) để tránh tái phát sỏi rơi xuống gây viêm tụy lại (tỷ lệ tái phát rất cao nếu chờ 6 tuần)."
+        },
+        {
+          "q": "Nếu sau 48h điều trị, bệnh nhân sốt cao, vàng da tăng lên, đau bụng tăng, Bilirubin tăng vọt lên 80 µmol/L. Thái độ xử trí:",
+          "options": [
+            "Tiếp tục điều trị nội khoa",
+            "Chụp CT scan để tìm ổ hoại tử",
+            "Chỉ định ERCP cấp cứu kèm cắt cơ vòng Oddi",
+            "Mổ mở lấy sỏi"
+          ],
+          "answer": 2,
+          "explain": "Dấu hiệu gợi ý tắc nghẽn đường mật kéo dài gây viêm đường mật cấp kèm theo (Cholangitis superimposed on Pancreatitis). Đây là chỉ định bắt buộc của ERCP giải áp cấp cứu (trong vòng 24h)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 32 tuổi mang thai đau quặn hạ sườn phải",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 32 tuổi, đang mang thai tuần thứ 22.<br><br><b>Tiền sử:</b> Chưa ghi nhận bệnh lý gan mật.<br><br><b>Bệnh sử:</b> Vào viện vì đau quặn vùng hạ sườn phải, nôn ói. Không sốt, không vàng da.<br><br><b>Khám lâm sàng:</b> Ấn đau điểm Murphy (+).<br><br><b>Cận lâm sàng:</b> Bạch cầu 13 G/L. Siêu âm: Sỏi túi mật d=15mm kẹt cổ túi mật, thành túi mật dày 4mm. Chẩn đoán: Viêm túi mật cấp do sỏi.",
+      "questions": [
+        {
+          "q": "Đặc điểm sinh lý thai kỳ nào làm tăng nguy cơ hình thành sỏi mật?",
+          "options": [
+            "Estrogen làm tăng bài tiết cholesterol vào mật, Progesterone làm giảm co bóp túi mật",
+            "Tử cung chèn ép vào đường mật gây ứ trệ",
+            "Thai nhi tiêu thụ nhiều acid mật",
+            "Giảm thể tích tuần hoàn gây cô đặc mật"
+          ],
+          "answer": 0,
+          "explain": "Cơ chế lithogenic trong thai kỳ: Estrogen tăng bão hòa cholesterol trong mật; Progesterone làm giảm vận động túi mật gây ứ trệ -> dễ tạo sỏi."
+        },
+        {
+          "q": "Lựa chọn thăm dò hình ảnh nào an toàn và hiệu quả nhất nếu siêu âm không rõ ràng ở phụ nữ mang thai?",
+          "options": [
+            "CT scan bụng chậu",
+            "MRI không tiêm thuốc đối quang từ (Gadolinium)",
+            "Chụp X-quang bụng không chuẩn bị",
+            "HIDA scan"
+          ],
+          "answer": 1,
+          "explain": "MRI không cản từ là lựa chọn an toàn, không nhiễm xạ cho thai nhi, độ nhạy cao với sỏi đường mật/túi mật."
+        },
+        {
+          "q": "Hướng xử trí ưu tiên cho bệnh nhân này (Viêm túi mật cấp, thai 3 tháng giữa):",
+          "options": [
+            "Điều trị kháng sinh đơn thuần đến khi sinh xong",
+            "Phẫu thuật cắt túi mật nội soi",
+            "Chọc dẫn lưu túi mật qua da",
+            "Gây chuyển dạ đẻ non rồi mổ"
+          ],
+          "answer": 1,
+          "explain": "Trước đây điều trị bảo tồn là ưu tiên, nhưng các bằng chứng mới ủng hộ mổ nội soi nếu viêm cấp tái diễn hoặc không đáp ứng. Tam cá nguyệt 2 là thời điểm vàng để mổ (tử cung chưa quá lớn, qua giai đoạn tạo cơ quan)."
+        },
+        {
+          "q": "Nếu phải phẫu thuật nội soi, áp lực ổ bụng (Pneumoperitoneum) nên duy trì ở mức nào để đảm bảo tưới máu tử cung - rau?",
+          "options": [
+            "8-12 mmHg",
+            "14-15 mmHg (như người bình thường)",
+            "> 15 mmHg",
+            "Không bơm hơi, dùng khung nâng thành bụng"
+          ],
+          "answer": 0,
+          "explain": "Nên bơm hơi áp lực thấp (8-12 mmHg) và theo dõi CO2 (tránh toan hô hấp cho thai) để tránh đè ép tĩnh mạch chủ dưới làm giảm tưới máu rau thai."
+        },
+        {
+          "q": "Chọn câu SAI về sỏi mật trong thai kỳ:",
+          "options": [
+            "Sỏi bùn (Sludge) thường tự hết sau khi sinh",
+            "Phẫu thuật cắt túi mật an toàn nhất vào tam cá nguyệt thứ 2 (3 tháng giữa)",
+            "Tam cá nguyệt thứ 1 hạn chế mổ vì nguy cơ quái thai do thuốc mê",
+            "ERCP chống chỉ định tuyệt đối trong thai kỳ do nguy cơ tia X"
+          ],
+          "answer": 3,
+          "explain": "ERCP KHÔNG chống chỉ định tuyệt đối. Có thể thực hiện ERCP với che chắn chì cẩn thận cho thai nhi, hạn chế thời gian chiếu tia hoặc dùng kỹ thuật 'wire-guided' không dùng tia (fluoroscopy-free)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 78 tuổi đau bụng nôn nhiều kèm bí trung đại tiện",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 78 tuổi.<br><br><b>Tiền sử:</b> Sỏi túi mật nhiều năm không điều trị.<br><br><b>Bệnh sử:</b> Vào viện vì đau bụng cơn, nôn nhiều ra dịch cũ và bí trung đại tiện.<br><br><b>Khám lâm sàng:</b> Bụng chướng căng, gõ vang, ấn đau khắp bụng, không có phản ứng thành bụng. Nghe thấy tiếng nhu động ruột tăng âm sắc (dấu hiệu rắn bò).<br><br><b>Cận lâm sàng:</b> X-quang bụng đứng: Có mức nước hơi tập trung vùng hỗng tràng, hình ảnh đường mật có hơi (pneumobilia).",
+      "questions": [
+        {
+          "q": "Chẩn đoán khả dĩ nhất ở bệnh nhân này:",
+          "options": [
+            "Viêm tụy cấp hoại tử",
+            "Tắc ruột do sỏi mật (Gallstone Ileus)",
+            "Thủng ổ loét dạ dày tá tràng",
+            "Tắc ruột do dây chằng"
+          ],
+          "answer": 1,
+          "explain": "Lâm sàng tắc ruột cơ học ở người già + tiền sử sỏi mật + X-quang có hơi đường mật -> Điển hình của tắc ruột do sỏi mật."
+        },
+        {
+          "q": "Tam chứng Rigler trên phim X-quang/CT trong bệnh lý này bao gồm (Chọn tập hợp đúng):\n(1) Tắc ruột cơ học (Mức nước hơi); (2) Hơi trong đường mật; (3) Sỏi cản quang lạc chỗ (thường ở hố chậu phải); (4) Liềm hơi dưới hoành.",
+          "options": [
+            "1, 2, 4",
+            "1, 3, 4",
+            "1, 2, 3",
+            "2, 3, 4"
+          ],
+          "answer": 2,
+          "explain": "Tam chứng Rigler: (1) Pneumobilia (hơi đường mật do rò); (2) Dấu hiệu tắc ruột non; (3) Hình ảnh viên sỏi ở vị trí bất thường (thường khó thấy trên XQ, rõ trên CT)."
+        },
+        {
+          "q": "Vị trí tắc nghẽn thường gặp nhất của viên sỏi trong ống tiêu hóa là:",
+          "options": [
+            "Tá tràng (Hội chứng Bouveret)",
+            "Đoạn cuối hồi tràng (Van Bauhin)",
+            "Đại tràng Sigma",
+            "Hỗng tràng"
+          ],
+          "answer": 1,
+          "explain": "Đoạn cuối hồi tràng (Terminal ileum) là nơi hẹp nhất của ruột non và van Bauhin chặn lại nên sỏi hay kẹt ở đây nhất."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của bệnh lý này là:",
+          "options": [
+            "Sỏi rơi qua ống mật chủ xuống tá tràng rồi kẹt lại",
+            "Viêm túi mật mạn tính gây dính và rò mật - ruột (thường là rò túi mật - tá tràng)",
+            "Sỏi hình thành tại ruột do ứ đọng",
+            "Sỏi gây liệt ruột cơ năng"
+          ],
+          "answer": 1,
+          "explain": "Do viêm mạn tính, túi mật dính vào tá tràng, hoại tử thành tạo đường rò (cholecystoduodenal fistula), sỏi lớn (>2.5cm) rớt qua lỗ rò vào lòng ruột."
+        },
+        {
+          "q": "Chiến lược phẫu thuật an toàn nhất cho bệnh nhân già yếu, tổng trạng kém này là:",
+          "options": [
+            "Chỉ mở ruột lấy sỏi (Enterolithotomy), không xử lý túi mật và lỗ rò ngay",
+            "Mở ruột lấy sỏi + Cắt túi mật + Đóng lỗ rò trong một thì (One-stage)",
+            "Cắt đoạn ruột chứa sỏi",
+            "Điều trị bảo tồn bằng hút dạ dày"
+          ],
+          "answer": 0,
+          "explain": "Với bệnh nhân già yếu, mục tiêu là giải quyết tắc ruột để cứu sống (relieve obstruction). Mổ lấy sỏi đơn thuần (Enterolithotomy) an toàn hơn. Làm 'One-stage' (cắt túi mật + đóng rò) nguy cơ tử vong cao do phẫu thuật kéo dài và dính nhiều. Xử lý túi mật có thể làm thì 2 nếu bệnh nhân còn triệu chứng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi phát hiện sỏi túi mật tình cờ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Tiền sử:</b> Khỏe mạnh.<br><br><b>Bệnh sử:</b> Đi kiểm tra sức khỏe định kỳ. Hoàn toàn không đau bụng, ăn uống bình thường.<br><br><b>Cận lâm sàng:</b> Siêu âm phát hiện: Túi mật có 2 viên sỏi d=12mm, thành mỏng, đường mật không giãn.",
+      "questions": [
+        {
+          "q": "Thái độ xử trí phù hợp nhất với bệnh nhân này:",
+          "options": [
+            "Cắt túi mật nội soi dự phòng biến chứng",
+            "Theo dõi định kỳ, giải thích các dấu hiệu cảnh báo, không can thiệp phẫu thuật",
+            "Tán sỏi ngoài cơ thể",
+            "Dùng thuốc tan sỏi"
+          ],
+          "answer": 1,
+          "explain": "Sỏi túi mật không triệu chứng (Asymptomatic) theo guideline quốc tế là KHÔNG mổ. Nguy cơ biến chứng thấp hơn nguy cơ phẫu thuật."
+        },
+        {
+          "q": "Tỉ lệ bệnh nhân có sỏi túi mật không triệu chứng sẽ xuất hiện triệu chứng hoặc biến chứng hàng năm là khoảng:",
+          "options": [
+            "1-4%",
+            "10-20%",
+            "30-40%",
+            "> 50%"
+          ],
+          "answer": 0,
+          "explain": "Tỷ lệ chuyển sang có triệu chứng rất thấp, khoảng 1-2% (hoặc tối đa 4%) mỗi năm."
+        },
+        {
+          "q": "Trường hợp nào sau đây là chỉ định cắt túi mật dự phòng ở người KHÔNG triệu chứng (Chọn câu SAI/TRỪ):",
+          "options": [
+            "Túi mật sứ (Porcelain gallbladder)",
+            "Sỏi túi mật kèm polyp túi mật > 10mm",
+            "Sỏi túi mật khổng lồ > 3cm",
+            "Sỏi túi mật nhỏ < 5mm ở người trẻ"
+          ],
+          "answer": 3,
+          "explain": "Các chỉ định mổ dự phòng: Túi mật sứ (nguy cơ K), Sỏi to >3cm (nguy cơ K), Polyp >1cm (nguy cơ K), Bệnh nhân sắp ghép tạng, Bệnh thiếu máu huyết tán. Sỏi nhỏ không phải chỉ định tuyệt đối nếu không triệu chứng."
+        },
+        {
+          "q": "\"Túi mật sứ\" (Porcelain gallbladder) là yếu tố nguy cơ của:",
+          "options": [
+            "Viêm tụy cấp",
+            "Ung thư túi mật (Gallbladder carcinoma)",
+            "Lao túi mật",
+            "Rò mật ruột"
+          ],
+          "answer": 1,
+          "explain": "Vôi hóa thành túi mật (Sứ) liên quan đến nguy cơ ung thư túi mật (dù các nghiên cứu mới cho thấy tỷ lệ thấp hơn quan điểm cũ, nhưng vẫn là chỉ định mổ)."
+        },
+        {
+          "q": "Nếu bệnh nhân này có kèm theo bệnh thiếu máu huyết tán (Hemolytic anemia) và sỏi là sỏi sắc tố đen. Chỉ định:",
+          "options": [
+            "Vẫn theo dõi",
+            "Cắt túi mật kết hợp cắt lách (nếu có chỉ định cắt lách)",
+            "Truyền máu định kỳ",
+            "Chỉ dùng thuốc"
+          ],
+          "answer": 1,
+          "explain": "Với bệnh nhân bệnh lý huyết học gây tán huyết (Sickle cell, Thalassemia...), sỏi sắc tố thường được giải quyết bằng cắt túi mật khi bệnh nhân phẫu thuật cắt lách hoặc để loại bỏ ổ nhiễm trùng tiềm tàng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 50 tuổi vàng da sậm sau mổ túi mật",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 50 tuổi.<br><br><b>Tiền sử:</b> Mổ cắt túi mật nội soi cách đây 2 năm.<br><br><b>Bệnh sử:</b> Nhập viện vì vàng da tăng dần 1 tuần nay. Kèm đau âm ỉ hạ sườn phải, không sốt.<br><br><b>Khám lâm sàng:</b> Vàng da đậm, phân bạc màu, nước tiểu sẫm màu. Gan không to.<br><br><b>Cận lâm sàng:</b> Bilirubin TP 150 μmol/L (TT 120 µmol/L), ALP (Phosphatase kiềm) và GGT tăng rất cao (gấp 5 lần bt), AST/ALT tăng nhẹ. Siêu âm: Giãn đường mật trong và ngoài gan, ống mật chủ d=15mm, đoạn cuối khó quan sát do hơi.",
+      "questions": [
+        {
+          "q": "Nguyên nhân hàng đầu cần nghĩ tới ở bệnh nhân này:",
+          "options": [
+            "Viêm gan cấp",
+            "Sỏi ống mật chủ tái phát hoặc sỏi sót",
+            "U đầu tụy hoặc U đường mật",
+            "Hẹp đường mật do sẹo mổ cũ"
+          ],
+          "answer": 1,
+          "explain": "Tiền sử sỏi mật + cắt túi mật + tắc mật điển hình -> Nghĩ nhiều sỏi ống mật chủ (sỏi tái phát - recurrent stone: hình thành sau mổ > 2 năm; hoặc sỏi sót - retained stone: < 2 năm). Tuy nhiên U cũng cần loại trừ."
+        },
+        {
+          "q": "Kiểu tăng xét nghiệm gan mật (LFTs) của bệnh nhân này gợi ý hội chứng gì?",
+          "options": [
+            "Hội chứng hủy hoại tế bào gan (Hepatocellular pattern)",
+            "Hội chứng tắc mật (Cholestatic pattern)",
+            "Hội chứng suy tế bào gan",
+            "Hội chứng viêm nhiễm"
+          ],
+          "answer": 1,
+          "explain": "ALP và GGT tăng ưu thế so với men gan (Transaminase) + Bilirubin trực tiếp cao -> Hội chứng tắc mật (Cholestasis)."
+        },
+        {
+          "q": "Phương tiện chẩn đoán hình ảnh KHÔNG xâm lấn tốt nhất để khảo sát cây đường mật trong trường hợp này:",
+          "options": [
+            "CT scan đa dãy",
+            "Chụp cộng hưởng từ mật tụy (MRCP)",
+            "Siêu âm nội soi (EUS)",
+            "Chụp đường mật xuyên gan qua da (PTC)"
+          ],
+          "answer": 1,
+          "explain": "MRCP (Magnetic Resonance Cholangiopancreatography) có độ nhạy/đặc hiệu tương đương ERCP trong chẩn đoán nhưng không xâm lấn, dựng hình cây đường mật rất rõ để phân biệt sỏi vs u vs hẹp."
+        },
+        {
+          "q": "Nếu chẩn đoán xác định là sỏi ống mật chủ, phương pháp điều trị ưu tiên số 1 (ít xâm lấn nhất) là:",
+          "options": [
+            "Mổ mở ống mật chủ lấy sỏi",
+            "Phẫu thuật nội soi lấy sỏi ống mật chủ",
+            "ERCP lấy sỏi + cắt cơ vòng Oddi",
+            "Tán sỏi qua da"
+          ],
+          "answer": 2,
+          "explain": "Ở bệnh nhân đã cắt túi mật, ERCP là tiêu chuẩn vàng (gold standard) để lấy sỏi ống mật chủ vì không cần phẫu thuật lại vào ổ bụng dính."
+        },
+        {
+          "q": "Trong quá trình làm ERCP, biến chứng thường gặp nhất là:",
+          "options": [
+            "Thủng tá tràng",
+            "Chảy máu đường mật",
+            "Viêm tụy cấp sau thủ thuật (Post-ERCP Pancreatitis)",
+            "Nhiễm trùng đường mật"
+          ],
+          "answer": 2,
+          "explain": "Viêm tụy cấp là biến chứng phổ biến nhất của ERCP (khoảng 3-5%, có thể lên tới 15% ở nhóm nguy cơ cao) do thao tác bơm thuốc hoặc can thiệp vào lỗ tụy."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi vàng da và sỏi lớn cổ túi mật",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Tiền sử:</b> Sỏi túi mật nhiều năm.<br><br><b>Bệnh sử:</b> Vào viện vì vàng da, sốt nhẹ.<br><br><b>Cận lâm sàng:</b> Siêu âm thấy túi mật teo nhỏ, có viên sỏi lớn d=3cm vùng cổ túi mật, đường mật trong gan giãn, ống gan chung (CHD) giãn, ống mật chủ (CBD) bình thường. Nội soi mật tụy ngược dòng (ERCP) thấy lòng ống mật chủ bình thường nhưng bị chèn ép từ bên ngoài ở đoạn cao.",
+      "questions": [
+        {
+          "q": "Đây là bệnh cảnh lâm sàng của hội chứng gì?",
+          "options": [
+            "Hội chứng Bouveret",
+            "Hội chứng Mirizzi",
+            "Hội chứng Lemmel",
+            "Hội chứng Budd-Chiari"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng Mirizzi: Sỏi kẹt cổ túi mật/ống túi mật đè ép vào ống gan chung gây tắc mật."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của hội chứng này:",
+          "options": [
+            "Sỏi kẹt ở túi thừa tá tràng chèn ép ống mật chủ",
+            "Sỏi kẹt ở phễu túi mật hoặc ống túi mật chèn ép vào ống gan chung (CHD)",
+            "U đầu tụy chèn ép ống mật chủ",
+            "Hạch rốn gan chèn ép đường mật"
+          ],
+          "answer": 1,
+          "explain": "Bản chất là sự chèn ép ngoại sinh (extrinsic compression) + viêm mạn tính gây tắc ống gan chung."
+        },
+        {
+          "q": "Theo phân loại Csendes, Type I của hội chứng này là:",
+          "options": [
+            "Sỏi chèn ép đơn thuần, chưa có rò túi mật - ống gan",
+            "Rò chiếm < 1/3 chu vi ống gan chung",
+            "Rò chiếm > 2/3 chu vi ống gan chung",
+            "Rò toàn bộ (túi mật và ống gan chung thông thương hoàn toàn)"
+          ],
+          "answer": 0,
+          "explain": "Phân loại Csendes: Type I (Chèn ép ngoài, chưa rò); Type II (Rò < 1/3 chu vi); Type III (Rò tới 2/3); Type IV (Rò toàn bộ)."
+        },
+        {
+          "q": "Dấu hiệu gợi ý hội chứng này trên hình ảnh học hoặc mổ thăm dò là:",
+          "options": [
+            "Tam giác Calot bị viêm dính, mất mốc giải phẫu",
+            "Túi mật căng to (Định luật Courvoisier)",
+            "Ống mật chủ giãn toàn bộ",
+            "Không thấy sỏi túi mật"
+          ],
+          "answer": 0,
+          "explain": "Tam giác Calot thường bị phá hủy do viêm dính xơ chai, phẫu thuật cực kỳ nguy hiểm vì dễ cắt nhầm ống gan chung."
+        },
+        {
+          "q": "Chiến lược phẫu thuật cho Type 1 (chèn ép, chưa rò):",
+          "options": [
+            "Cắt túi mật nội soi (có thể khó khăn) hoặc chuyển mổ mở, lấy sỏi, không cần động chạm ống gan chung",
+            "Bắt buộc nối mật ruột (Roux-en-Y)",
+            "Cắt đoạn đường mật",
+            "Chỉ cần đặt Stent đường mật"
+          ],
+          "answer": 0,
+          "explain": "Với Type 1, chỉ cần cắt túi mật (thường cắt đáy túi mật - fundus first hoặc cắt bán phần để an toàn) và lấy viên sỏi gây chèn ép là giải quyết được tắc nghẽn. Các type có rò (II-IV) mới cần tạo hình đường mật hoặc nối mật ruột."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi sỏi đoạn cuối ống mật chủ và sỏi túi mật",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Bệnh sử:</b> Đau hạ sườn phải và vàng da.<br><br><b>Khám lâm sàng:</b> Bệnh nhân chưa có biểu hiện viêm đường mật cấp nặng.<br><br><b>Cận lâm sàng:</b> Chẩn đoán xác định: Sỏi đoạn cuối ống mật chủ (CBD) kích thước 8mm + Sỏi túi mật nhiều viên. Các xét nghiệm đông máu bình thường.",
+      "questions": [
+        {
+          "q": "Phương án điều trị kết hợp (\"Rendezvous\" hoặc \"Sequential\") tối ưu hiện nay được khuyến cáo là:",
+          "options": [
+            "Mổ mở cắt túi mật và mở ống mật chủ lấy sỏi",
+            "ERCP lấy sỏi ống mật chủ trước -> Cắt túi mật nội soi sau (trong cùng đợt nằm viện)",
+            "Cắt túi mật nội soi trước -> ERCP sau",
+            "Chỉ làm ERCP, bỏ qua sỏi túi mật"
+          ],
+          "answer": 1,
+          "explain": "Phác đồ phổ biến nhất (Sequential): ERCP clear sỏi ống mật chủ trước, sau đó cắt túi mật nội soi (LC) ngay ngày hôm sau hoặc trong cùng đợt viện. Điều này giảm thiểu nguy cơ mổ xong mới phát hiện còn sỏi OMC."
+        },
+        {
+          "q": "Nếu chọn giải pháp phẫu thuật nội soi lấy sỏi ống mật chủ (Laparoscopic CBD exploration), đường tiếp cận nào thường được ưu tiên nếu ống cổ túi mật giãn rộng?",
+          "options": [
+            "Mở trực tiếp mặt trước ống mật chủ",
+            "Qua đường ống cổ túi mật (Transcystic approach)",
+            "Qua đường tá tràng",
+            "Qua gan"
+          ],
+          "answer": 1,
+          "explain": "Nếu ống cổ túi mật (Cystic duct) giãn và sỏi nhỏ, lấy sỏi qua đường này (Transcystic) an toàn hơn, tránh phải xẻ ống mật chủ (nguy cơ hẹp)."
+        },
+        {
+          "q": "Biến chứng đáng ngại nhất của mở ống mật chủ lấy sỏi (dù mổ mở hay nội soi) về lâu dài là:",
+          "options": [
+            "Hẹp đường mật (Biliary stricture)",
+            "Chảy máu",
+            "Rò mật",
+            "Tụ dịch dưới gan"
+          ],
+          "answer": 0,
+          "explain": "Hẹp đường mật (Stricture) là biến chứng xa đáng sợ nhất do sẹo xơ tại chỗ khâu ống mật chủ, gây viêm đường mật tái diễn/xơ gan ứ mật."
+        },
+        {
+          "q": "Mục đích của việc đặt dẫn lưu Kehr (dẫn lưu chữ T) sau khi mở ống mật chủ là, TRỪ:",
+          "options": [
+            "Dẫn lưu mật giảm áp đường mật",
+            "Chụp kiểm tra đường mật sau mổ (qua Kehr)",
+            "Tạo đường hầm để lấy sỏi sót nếu có",
+            "Để nuôi ăn đường ruột"
+          ],
+          "answer": 3,
+          "explain": "Ống Kehr không dùng để nuôi ăn. Nó dùng để dẫn lưu, chụp XQ (Cholangiogram) và tạo đường hầm (nếu cần tán sỏi qua đường hầm Kehr)."
+        },
+        {
+          "q": "Thời gian trung bình để rút ống Kehr (sau khi kẹp thử ổn và chụp kiểm tra thuốc xuống tá tràng tốt) là:",
+          "options": [
+            "2-3 ngày",
+            "7-14 ngày (để tạo đường hầm chắc chắn)",
+            "1 tháng",
+            "3 tháng"
+          ],
+          "answer": 1,
+          "explain": "Cần khoảng 10-14 ngày (tối thiểu 7-10 ngày) để tổ chức quanh ống Kehr xơ hóa tạo thành đường hầm, khi rút sẽ không bị rò mật vào phúc mạc."
+        }
+      ]
+    }
+  ]
+}
