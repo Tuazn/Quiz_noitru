@@ -1,0 +1,620 @@
+{
+  "name": "Ung thư Gan và Đường Mật",
+  "description": "Case lâm sàng điển hình về ung thư tế bào gan (HCC), ung thư đường mật, u túi mật và các u gan lành tính.",
+  "level": "Đại học / Nội trú",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Ung thư",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 56 tuổi đau tức hạ sườn phải",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 56 tuổi.<br><br><b>Tiền sử:</b> Viêm gan B mạn tính phát hiện 10 năm nhưng điều trị không đều, nghiện rượu 30 năm (khoảng 400mL rượu mạnh/ngày).<br><br><b>Bệnh sử:</b> Bệnh nhân vào viện vì đau tức nhẹ vùng hạ sườn phải và sụt 3kg/2 tháng.<br><br><b>Khám lâm sàng:</b> Tỉnh táo, da niêm mạc hồng, không vàng da, mạch 80 lần/phút, HA 120/70 mmHg, BMI 21 kg/m². Bụng mềm, gan to nhẹ dưới bờ sườn 2cm mật độ chắc, bờ sắc, rung gan (+), lách không to, không có tuần hoàn bàng hệ, không có sao mạch. Hạch ngoại vi không sờ thấy.<br><br><b>Xét nghiệm:</b> AST 65 U/L, ALT 72 U/L, Bilirubin TP 18 µmol/L, Albumin 38 g/L, INR 1.1, Tiểu cầu 180 G/L. AFP 450 ng/mL. Siêu âm bụng thấy khối giảm âm ở phân thùy sau gan phải (HPT VI-VII), kích thước 35mm, bờ không đều, có viền Halo, nhu mô gan thô. X-quang ngực thẳng bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán sơ bộ phù hợp nhất ở bệnh nhân này?",
+          "options": [
+            "Áp xe gan đường mật",
+            "U máu trong gan (Hemangioma)",
+            "Ung thư biểu mô tế bào gan (HCC)",
+            "Ung thư đường mật trong gan (ICC)"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có yếu tố nguy cơ cao (Viêm gan B, rượu), AFP tăng rất cao (>400 ng/mL) kèm khối u gan có tính chất ác tính trên siêu âm -> nghĩ nhiều nhất đến HCC."
+        },
+        {
+          "q": "Phương pháp chẩn đoán hình ảnh tiếp theo cần thực hiện để xác định tính chất khối u theo tiêu chuẩn AASLD/EASL là gì?",
+          "options": [
+            "Chụp cắt lớp vi tính (CT) bụng 3 thì có tiêm thuốc cản quang",
+            "Chụp PET/CT toàn thân",
+            "Sinh thiết gan dưới hướng dẫn siêu âm",
+            "Chụp động mạch gan chọn lọc (DSA)"
+          ],
+          "answer": 0,
+          "explain": "Theo AASLD/EASL và Bộ Y tế, CT scan đa dãy 3 thì hoặc MRI động học là tiêu chuẩn vàng chẩn đoán HCC trên nền xơ gan mà không cần sinh thiết nếu hình ảnh điển hình."
+        },
+        {
+          "q": "Hình ảnh điển hình của khối u này trên phim CT động học (dynamic) giúp chẩn đoán xác định là gì?",
+          "options": [
+            "Ngấm thuốc dần từ ngoại vi vào trung tâm",
+            "Ngấm thuốc mạnh thì động mạch và thải thuốc nhanh thì tĩnh mạch cửa (Wash-out)",
+            "Khối không ngấm thuốc thì động mạch, ngấm thuốc thì muộn",
+            "Ngấm thuốc dạng viền không đều thì động mạch và giữ thuốc ở thì muộn"
+          ],
+          "answer": 1,
+          "explain": "Dấu hiệu \"Wash-in/Wash-out\" (ngấm thuốc mạnh thì động mạch, thải thuốc nhanh thì tĩnh mạch cửa/muộn) là đặc hiệu cho HCC do khối u được nuôi chủ yếu bởi động mạch gan."
+        },
+        {
+          "q": "Với chức năng gan Child-Pugh A, không tăng áp lực tĩnh mạch cửa, khối u đơn độc 3.5cm, phương pháp điều trị triệt căn ưu tiên nhất là gì?",
+          "options": [
+            "Nút mạch hóa chất (TACE)",
+            "Tiêm cồn tuyệt đối qua da (PEI)",
+            "Phẫu thuật cắt gan",
+            "Điều trị đích bằng Sorafenib"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân Child-Pugh A, không tăng áp cửa (tiểu cầu bình thường, không lách to/bàng hệ), u đơn độc < 5cm hoặc u lớn nhưng chức năng gan tốt -> Cắt gan là lựa chọn triệt căn ưu tiên (Curative)."
+        },
+        {
+          "q": "Yếu tố nào sau đây KHÔNG thuộc thang điểm Barcelona (BCLC) để phân loại giai đoạn ung thư gan?",
+          "options": [
+            "Chỉ số hoạt động cơ thể (PS - Performance Status)",
+            "Chức năng gan (Child-Pugh)",
+            "Nồng độ AFP huyết thanh",
+            "Số lượng và kích thước khối u"
+          ],
+          "answer": 2,
+          "explain": "BCLC dựa trên: (1) PS, (2) Gánh nặng u, (3) Chức năng gan. Mức độ AFP có giá trị tiên lượng nhưng không nằm trong tiêu chuẩn phân loại BCLC gốc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 62 tuổi vàng da tăng dần",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 62 tuổi.<br><br><b>Tiền sử:</b> Sỏi túi mật 5 năm chưa can thiệp.<br><br><b>Bệnh sử:</b> Nhập viện vì vàng da tăng dần kèm ngứa toàn thân suốt 3 tuần nay. Bệnh nhân khai nước tiểu sẫm màu như nước vối, phân bạc màu. Không sốt, không đau bụng hoặc chỉ tức nhẹ thượng vị.<br><br><b>Khám lâm sàng:</b> Tỉnh, BMI 20, vàng da sậm, niêm mạc mắt vàng đậm. Sinh hiệu ổn định (Mạch 76, HA 130/80). Bụng mềm, gan to dưới bờ sườn 3cm mật độ chắc, túi mật CĂNG TO, ấn không đau. Dấu hiệu Murphy (-). Lách không to. Không có cổ trướng.<br><br><b>Xét nghiệm:</b> Bilirubin TP 250 μmol/L, Bilirubin TT 210 µmol/L. AST 45 U/L, ALT 50 U/L, ALP 450 U/L, GGT 300 U/L. CA 19-9 > 1000 U/mL. CEA 5 ng/mL. CT scan thấy giãn đường mật trong và ngoài gan, ống tụy chính giãn nhẹ, có khối cấu trúc mô mềm nhỏ vùng bóng Vater.",
+      "questions": [
+        {
+          "q": "Triệu chứng \"Túi mật căng to nhưng không đau ở bệnh nhân vàng da tắc mật\" được gọi là định luật gì?",
+          "options": [
+            "Murphy",
+            "Charcot",
+            "Courvoisier",
+            "Mirizzi"
+          ],
+          "answer": 2,
+          "explain": "Định luật Courvoisier: Vàng da tắc mật + túi mật căng to không đau -> gợi ý tắc mật cơ giới do u vùng thấp (u đầu tụy/bóng Vater), ít nghĩ đến sỏi (vì sỏi thường gây viêm xơ teo túi mật)."
+        },
+        {
+          "q": "Chẩn đoán phù hợp nhất với vị trí tổn thương ở bệnh nhân này?",
+          "options": [
+            "Ung thư đường mật vùng rốn gan (Klatskin)",
+            "Ung thư túi mật xâm lấn đường mật",
+            "Ung thư bóng Vater (Periampullary carcinoma)",
+            "Sỏi ống mật chủ đoạn thấp kẹt"
+          ],
+          "answer": 2,
+          "explain": "Vàng da, túi mật to (tắc dưới ống cổ túi mật), giãn đường mật trong và ngoài gan, giãn ống tụy (dấu hiệu ống kép), CA 19-9 tăng cao -> U bóng Vater/quanh bóng Vater. K Klatskin (rốn gan) sẽ làm túi mật xẹp."
+        },
+        {
+          "q": "Chọn tập hợp các cận lâm sàng cần thiết để đánh giá giai đoạn và khả năng phẫu thuật: (1) Siêu âm nội soi (EUS); (2) Chụp đường mật ngược dòng (ERCP); (3) Xạ hình gan; (4) CT ngực bụng có tiêm cản quang.",
+          "options": [
+            "1, 2, 3",
+            "1, 2, 4",
+            "1, 4",
+            "2, 3, 4"
+          ],
+          "answer": 1,
+          "explain": "EUS đánh giá xâm lấn mạch máu và hạch vùng tốt nhất; ERCP có thể can thiệp giải áp hoặc sinh thiết; CT ngực bụng đánh giá di căn xa. Xạ hình gan ít giá trị trong bối cảnh này."
+        },
+        {
+          "q": "Phẫu thuật triệt căn tiêu chuẩn cho trường hợp này là gì?",
+          "options": [
+            "Cắt túi mật và lấy sỏi ống mật chủ",
+            "Cắt khối tá tụy (Phẫu thuật Whipple)",
+            "Cắt đoạn đường mật và nối mật ruột Roux-en-Y",
+            "Đặt stent đường mật kim loại"
+          ],
+          "answer": 1,
+          "explain": "Với u vùng bóng Vater/đầu tụy, phẫu thuật Whipple (cắt khối tá tụy) là chỉ định triệt căn chuẩn."
+        },
+        {
+          "q": "Biến chứng sớm nguy hiểm nhất sau phẫu thuật Whipple cần theo dõi sát là gì?",
+          "options": [
+            "Rò tụy (Pancreatic fistula)",
+            "Hẹp miệng nối mật ruột",
+            "Đái tháo đường phụ thuộc insulin",
+            "Hội chứng Dumping"
+          ],
+          "answer": 0,
+          "explain": "Rò tụy là biến chứng đặc thù và nguy hiểm nhất của phẫu thuật Whipple, có thể gây chảy máu thứ phát, nhiễm trùng ổ bụng và tử vong cao."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi đau bụng dữ dội và ngất xỉu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Tiền sử:</b> Bệnh nhân biết có khối u gan 8cm (nghĩ HCC) nhưng từ chối điều trị 3 tháng nay.<br><br><b>Bệnh sử:</b> Nhập viện cấp cứu vì đau bụng dữ dội vùng hạ sườn phải và ngất xỉu.<br><br><b>Khám lâm sàng:</b> Lơ mơ, da niêm mạc nhợt nhạt, vã mồ hôi lạnh, chi lạnh. Mạch 120 lần/phút, HA 80/50 mmHg, SpO2 95%. Bụng chướng căng, gõ đục vùng thấp, phản ứng thành bụng (+) khắp bụng nhưng rõ nhất ở hạ sườn phải.<br><br><b>Xét nghiệm:</b> Xét nghiệm nhanh: Hb 65 g/L (trước đó 120 g/L), Hct 0.20 L/L. Siêu âm tại giường (FAST) thấy nhiều dịch tự do ổ bụng, khối u gan phải hỗn hợp âm kích thước lớn, mất liên tục bao gan.",
+      "questions": [
+        {
+          "q": "Cơ chế gây sốc chính ở bệnh nhân này là gì?",
+          "options": [
+            "Sốc nhiễm trùng đường mật",
+            "Sốc giảm thể tích do mất máu nội (Ruptured HCC)",
+            "Sốc tim do nhồi máu cơ tim cấp",
+            "Sốc phản vệ do thuốc"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh u gan lớn + đau bụng đột ngột + dấu hiệu mất máu cấp (da xanh, mạch nhanh, HA tụt) + dịch ổ bụng -> Vỡ nhân ung thư gan gây chảy máu trong ổ bụng (Hemoperitoneum)."
+        },
+        {
+          "q": "Theo nguyên tắc ABC/ATLS, xử trí đầu tiên quan trọng nhất là gì?",
+          "options": [
+            "Chuyển mổ cấp cứu cầm máu ngay lập tức",
+            "Hồi sức dịch thể, truyền máu và chế phẩm máu tối khẩn cấp",
+            "Chụp CT bụng để xác định điểm chảy máu",
+            "Dùng thuốc vận mạch liều cao ngay để nâng huyết áp"
+          ],
+          "answer": 1,
+          "explain": "Ưu tiên hàng đầu là hồi sức chống sốc (bồi phụ thể tích tuần hoàn) trước khi làm bất cứ can thiệp gì. Mổ ngay khi đang sốc nặng làm tăng nguy cơ tử vong trên bàn mổ."
+        },
+        {
+          "q": "Nếu hồi sức tích cực huyết áp tạm ổn định 90/60 mmHg, phương pháp can thiệp tối ưu để cầm máu thì đầu là gì?",
+          "options": [
+            "Phẫu thuật khâu cầm máu nhu mô gan",
+            "Phẫu thuật cắt gan cấp cứu",
+            "Chụp và nút mạch gan (TAE/Transarterial Embolization)",
+            "Tiêm thuốc cầm máu toàn thân và theo dõi"
+          ],
+          "answer": 2,
+          "explain": "TAE (Nút mạch) là lựa chọn đầu tay (gold standard) để cầm máu cấp cứu với tỷ lệ thành công cao (>90%) và ít xâm lấn hơn mổ mở. Mổ chỉ đặt ra khi nút mạch thất bại hoặc không có điều kiện nút mạch."
+        },
+        {
+          "q": "Đặc điểm dịch ổ bụng khi chọc dò trong trường hợp này?",
+          "options": [
+            "Dịch máu không đông",
+            "Dịch mủ hôi thối",
+            "Dịch thấm, Rivalta âm tính",
+            "Dịch dưỡng chấp"
+          ],
+          "answer": 0,
+          "explain": "Máu chảy trong ổ bụng sẽ mất fibrinogen nên có đặc điểm là máu không đông."
+        },
+        {
+          "q": "Tiên lượng tử vong của biến chứng này phụ thuộc nhiều nhất vào yếu tố nào?",
+          "options": [
+            "Kích thước khối u",
+            "Mức độ sốc và chức năng gan nền (Child-Pugh)",
+            "Tuổi của bệnh nhân",
+            "Nồng độ AFP"
+          ],
+          "answer": 1,
+          "explain": "Tử vong do vỡ HCC thường do sốc mất máu không kiểm soát hoặc suy gan sau đó. Chức năng gan kém (Child C) làm rối loạn đông máu nặng hơn và tăng tử vong."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 58 tuổi khám sức khỏe định kỳ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 58 tuổi.<br><br><b>Tiền sử:</b> Khỏe mạnh.<br><br><b>Bệnh sử:</b> Đi khám sức khỏe định kỳ phát hiện sỏi túi mật. Bệnh nhân hoàn toàn không có triệu chứng lâm sàng đặc biệt, không đau bụng, ăn uống bình thường.<br><br><b>Xét nghiệm:</b> Siêu âm bụng: Túi mật kích thước bình thường, thành mỏng đều, có 01 viên sỏi kích thước 3.5cm, di động. Đường mật không giãn. Gan nhu mô đều. Xét nghiệm chức năng gan và marker ung thư (CEA, CA 19-9) trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Yếu tố nào ở bệnh nhân này được coi là nguy cơ cao tiến triển thành ung thư túi mật?",
+          "options": [
+            "Giới tính nữ",
+            "Tuổi > 50",
+            "Kích thước sỏi > 3cm",
+            "Túi mật thành mỏng"
+          ],
+          "answer": 2,
+          "explain": "Sỏi túi mật lớn (>3cm) làm tăng nguy cơ ung thư túi mật lên gấp 10 lần do kích thích cơ học mạn tính -> Có chỉ định cắt túi mật dự phòng."
+        },
+        {
+          "q": "Ngoài kích thước sỏi, yếu tố nào sau đây là chỉ định cắt túi mật dự phòng ung thư?",
+          "options": [
+            "Túi mật sứ (Porcelain gallbladder)",
+            "Sỏi bùn túi mật",
+            "Polyp túi mật < 5mm",
+            "Túi mật gấp nếp"
+          ],
+          "answer": 0,
+          "explain": "Túi mật sứ (vôi hóa thành túi mật) có tỷ lệ ung thư hóa cao (đến 20-25% trong một số nghiên cứu cũ, dù nghiên cứu mới thấp hơn nhưng vẫn là chỉ định mổ)."
+        },
+        {
+          "q": "Giả sử bệnh nhân được phẫu thuật nội soi cắt túi mật. Giải phẫu bệnh sau mổ trả về: Ung thư biểu mô tuyến (Adenocarcinoma), xâm lấn đến lớp cơ (T1b). Diện cắt ống cổ túi mật sạch. Hướng xử trí tiếp theo đúng đắn nhất?",
+          "options": [
+            "Theo dõi định kỳ, không cần can thiệp thêm",
+            "Hóa trị bổ trợ ngay lập tức",
+            "Phẫu thuật lại: Cắt gan hạ phân thùy IVb+V và nạo vét hạch vùng",
+            "Xạ trị vào giường túi mật"
+          ],
+          "answer": 2,
+          "explain": "Với T1b (xâm lấn cơ), cắt túi mật đơn thuần không đủ (nguy cơ tái phát cao). Standard of care là cắt lại: Cắt phần gan giường túi mật (HPT IVb, V) + Nạo vét hạch cuống gan."
+        },
+        {
+          "q": "Nếu kết quả giải phẫu bệnh là T1a (xâm lấn lớp niêm mạc lá riêng), xử trí là:",
+          "options": [
+            "Cắt túi mật đơn thuần là đủ",
+            "Cần cắt thêm gan",
+            "Cần vét hạch",
+            "Cần hóa trị"
+          ],
+          "answer": 0,
+          "explain": "T1a (chỉ ở niêm mạc): Cắt túi mật toàn bộ (simple cholecystectomy) được coi là điều trị triệt căn, tỷ lệ sống 5 năm gần 100%."
+        },
+        {
+          "q": "Hạch bạch huyết vùng (Regional Lymph nodes) quan trọng nhất cần nạo vét trong ung thư túi mật bao gồm các nhóm nào, TRỪ:",
+          "options": [
+            "Hạch dọc ống túi mật",
+            "Hạch dọc ống mật chủ",
+            "Hạch sau tụy và quanh tĩnh mạch cửa",
+            "Hạch rốn lách"
+          ],
+          "answer": 3,
+          "explain": "Hạch rốn lách thuộc dẫn lưu của thân tạng lách, không phải là chặng hạch vùng (N1, N2) của túi mật. Các hạch vùng gồm: hạch ống túi mật, hạch ống mật chủ, hạch gan chung, hạch quanh tá tụy."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi vàng da sụt cân",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 70 tuổi.<br><br><b>Tiền sử:</b> Hút thuốc lào 40 năm.<br><br><b>Bệnh sử:</b> Vào viện vì vàng da, ngứa và sụt 5kg/3 tháng. Vàng da tăng dần liên tục, không kèm sốt, đau tức nhẹ hạ sườn phải.<br><br><b>Khám lâm sàng:</b> Vàng da đậm, gan to 2cm, túi mật KHÔNG sờ thấy. Phân bạc màu hoàn toàn.<br><br><b>Xét nghiệm:</b> Bilirubin TP 300 µmol/L, TT 250 μmol/L. CA 19-9 800 U/mL. Siêu âm và MRI đường mật (MRCP) thấy khối u gây tắc ngã ba đường mật, lan lên ống gan phải và trái nhưng chưa teo thùy gan nào, chưa xâm lấn tĩnh mạch cửa. Phân loại Bismuth-Corlette type IIIa.",
+      "questions": [
+        {
+          "q": "Đặc điểm lâm sàng \"Túi mật xẹp không sờ thấy\" trong tắc mật u rốn gan phù hợp với cơ chế nào?",
+          "options": [
+            "U nằm dưới ngã ba ống túi mật",
+            "U nằm trên chỗ đổ vào của ống túi mật (tại rốn gan)",
+            "Viêm teo túi mật mạn tính",
+            "Túi mật bị u xâm lấn lấp đầy"
+          ],
+          "answer": 1,
+          "explain": "U Klatskin nằm tại ngã ba đường mật (trên ống cổ túi mật) -> Dịch mật từ gan không xuống được túi mật -> Túi mật xẹp. Ngược lại, u dưới ống cổ túi mật (u ống mật chủ, u bóng Vater) làm mật dồn về túi mật -> túi mật to (Courvoisier)."
+        },
+        {
+          "q": "Chống chỉ định phẫu thuật cắt gan triệt căn trong K đường mật rốn gan (Klatskin tumor) bao gồm các yếu tố sau, TRỪ:",
+          "options": [
+            "Di căn xa (phổi, phúc mạc)",
+            "Xâm lấn hai bên động mạch gan",
+            "Xâm lấn thân tĩnh mạch cửa nhưng còn khả năng tạo hình và thể tích gan còn lại đủ",
+            "Thể tích gan còn lại dự kiến quá nhỏ (<20% và không tăng sinh được)"
+          ],
+          "answer": 2,
+          "explain": "Xâm lấn tĩnh mạch cửa KHÔNG phải chống chỉ định tuyệt đối nếu có thể cắt đoạn tạo hình và đảm bảo thể tích gan còn lại (FLR). Di căn xa, xâm lấn 2 bên động mạch, hoặc suy gan là chống chỉ định."
+        },
+        {
+          "q": "Trước khi phẫu thuật cắt gan lớn trên bệnh nhân vàng da đậm (Bili>200 µmol/L), biện pháp nào thường được khuyến cáo để giảm biến chứng suy gan sau mổ?",
+          "options": [
+            "Truyền Albumin liều cao",
+            "Dẫn lưu đường mật xuyên gan qua da (PTBD) hoặc qua nội soi (ERCP) để giảm vàng da",
+            "Nút mạch tĩnh mạch cửa (PVE) ngay lập tức",
+            "Dùng Corticoid liều cao"
+          ],
+          "answer": 1,
+          "explain": "Vàng da nặng làm tăng nguy cơ suy gan và nhiễm trùng sau mổ. Dẫn lưu đường mật (Drainage) giúp hạ Bilirubin, cải thiện chức năng gan trước khi thực hiện đại phẫu."
+        },
+        {
+          "q": "Phẫu thuật triệt căn điển hình cho U Klatskin type IIIa (lan sang ống gan phải) là:",
+          "options": [
+            "Cắt đường mật đơn thuần",
+            "Cắt gan phải + Cắt thùy đuôi + Cắt đường mật + Vét hạch",
+            "Cắt gan trái + Cắt đường mật",
+            "Ghép gan"
+          ],
+          "answer": 1,
+          "explain": "Type IIIa (lan ống gan phải) -> Cần cắt gan phải. Quan trọng: Ung thư rốn gan thường xâm lấn thùy đuôi (HPT 1) nên nguyên tắc phẫu thuật là Cắt gan lớn + Cắt thùy đuôi (Caudate lobectomy) + Vét hạch."
+        },
+        {
+          "q": "Tác nhân ký sinh trùng nào liên quan mật thiết đến sinh bệnh học của ung thư đường mật (Cholangiocarcinoma) ở vùng Đông Nam Á?",
+          "options": [
+            "Entamoeba histolytica (Amíp)",
+            "Clonorchis sinensis và Opisthorchis viverrini (Sán lá gan nhỏ)",
+            "Fasciola hepatica (Sán lá gan lớn)",
+            "Ascaris lumbricoides (Giun đũa)"
+          ],
+          "answer": 1,
+          "explain": "Sán lá gan nhỏ (Clonorchis/Opisthorchis) gây viêm đường mật mạn tính, là yếu tố nguy cơ hàng đầu gây K đường mật tại Việt Nam và ĐNA. Amíp gây áp xe; Sán lá lớn ít liên quan ung thư hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi tăng CEA khi khám định kỳ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Tiền sử:</b> Phẫu thuật cắt đại tràng Sigma do ung thư biểu mô tuyến (Adenocarcinoma, PT3N1M0) cách đây 2 năm, đã hóa trị bổ trợ đủ phác đồ.<br><br><b>Bệnh sử:</b> Hiện tại bệnh nhân không đau bụng, ăn uống tốt. Xét nghiệm định kỳ thấy chỉ số CEA tăng.<br><br><b>Khám lâm sàng:</b> Các cơ quan chưa phát hiện bất thường.<br><br><b>Xét nghiệm:</b> Chỉ số CEA tăng từ 2.5 ng/ml lên 15 ng/mL. Chụp CT bụng phát hiện 01 khối u gan kích thước 4cm ở hạ phân thùy VI, ngấm thuốc dạng viền. PET/CT chỉ tăng chuyển hóa khu trú tại u gan.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định nguồn gốc khối u gan này là gì?",
+          "options": [
+            "Ung thư gan nguyên phát (HCC) mới mắc",
+            "Ung thư di căn gan từ đại tràng (Metachronous Liver Metastasis)",
+            "Áp xe gan do vi khuẩn",
+            "U tuyến (Adenoma) gan"
+          ],
+          "answer": 1,
+          "explain": "Tiền sử K đại tràng + CEA tăng cao + khối u gan -> Điển hình của di căn gan (xuất hiện sau 6 tháng gọi là di căn không đồng thời/Metachronous)."
+        },
+        {
+          "q": "Tiêu chuẩn quan trọng nhất để quyết định khả năng phẫu thuật cắt bỏ khối di căn gan đại trực tràng (CRLM) là gì?",
+          "options": [
+            "Số lượng khối u < 4",
+            "Kích thước khối u < 5cm",
+            "Đảm bảo diện cắt sạch (R0) và thể tích gan còn lại đủ chức năng (FLR)",
+            "Bờ khối u rõ trên phim chụp"
+          ],
+          "answer": 2,
+          "explain": "Quan điểm hiện đại (Schwartz 11e): Không còn giới hạn tuyệt đối về số lượng kích thước u. Miễn là cắt bỏ được hết u (R0) và Gan còn lại (Future Liver Remnant - FLR) đủ duy trì sự sống (>20-30%) thì có chỉ định mổ."
+        },
+        {
+          "q": "Nếu thể tích gan còn lại dự kiến không đủ, phương pháp nào có thể áp dụng để làm phì đại phần gan định giữ lại trước mổ?",
+          "options": [
+            "Nút tĩnh mạch cửa (Portal Vein Embolization - PVE)",
+            "Nút động mạch gan (TAE)",
+            "Xạ trị chiếu ngoài (EBRT)",
+            "Truyền hóa chất động mạch gan (HAIC)"
+          ],
+          "answer": 0,
+          "explain": "Nút tĩnh mạch cửa chi phối phần gan có u (sẽ cắt bỏ) -> Máu dồn sang phần gan lành -> Kích thích phì đại phần gan lành sau 4-6 tuần, giúp đủ thể tích để mổ."
+        },
+        {
+          "q": "Xét nghiệm đột biến gen nào là BẮT BUỘC để lựa chọn phác đồ điều trị đích (kháng EGFR) cho bệnh nhân ung thư đại trực tràng di căn?",
+          "options": [
+            "BRCA1/2",
+            "KRAS/NRAS/BRAF",
+            "EGFR mutation",
+            "HER2"
+          ],
+          "answer": 1,
+          "explain": "Tình trạng gen RAS (KRAS/NRAS) quyết định việc dùng thuốc kháng EGFR (như Cetuximab). Nếu RAS đột biến thì thuốc không có tác dụng."
+        },
+        {
+          "q": "Trong ung thư gan thứ phát (di căn), hình ảnh đại thể/CT scan điển hình thường gặp là:",
+          "options": [
+            "Khối đơn độc, có vỏ bao rõ",
+            "Nhiều khối, hình bia bắn (target sign), lõm bề mặt (umbilication)",
+            "Khối dạng nang có vách",
+            "Khối ngấm thuốc mạnh đồng nhất thì động mạch"
+          ],
+          "answer": 1,
+          "explain": "Di căn gan thường đa ổ, hình bia bắn (viền ngấm thuốc, trung tâm hoại tử), và co kéo bao gan gây hình ảnh lõm bề mặt."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 35 tuổi tình cờ phát hiện u gan",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 35 tuổi.<br><br><b>Tiền sử:</b> Đang dùng thuốc tránh thai đường uống (OCP) 10 năm liên tục. Không có tiền sử viêm gan B, C.<br><br><b>Bệnh sử:</b> Khám sức khỏe tình cờ phát hiện khối u gan phải kích thước 6cm.<br><br><b>Xét nghiệm:</b> AFP 3 ng/mL, CEA 2.2 ng/mL, CA 19-9 15 U/mL (tất cả bình thường). Siêu âm thấy khối tăng âm không đồng nhất. CT scan: Khối bắt thuốc mạnh thì động mạch nhưng KHÔNG thải thuốc (wash-out) ở thì tĩnh mạch cửa và thì muộn (đồng tỷ trọng hoặc tăng tỷ trọng hơn nhu mô gan).",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất là:",
+          "options": [
+            "Ung thư biểu mô tế bào gan (HCC)",
+            "U máu trong gan (Hemangioma)",
+            "U tuyến tế bào gan (Hepatic Adenoma)",
+            "Tăng sản thể nốt khu trú (FNH)"
+          ],
+          "answer": 2,
+          "explain": "Phụ nữ trẻ + dùng thuốc tránh thai lâu năm + khối u gan bắt thuốc động mạch nhưng không wash-out điển hình (hoặc wash-out rất nhẹ) + Marker âm tính -> Nghĩ đến Adenoma (U tuyến). Hemangioma thường ngấm dần từ ngoại vi. FNH thường có sẹo trung tâm."
+        },
+        {
+          "q": "Nguy cơ biến chứng nguy hiểm nhất của loại u này nếu tiếp tục lớn lên là:",
+          "options": [
+            "Chuyển dạng thành ung thư đường mật",
+            "Vỡ gây chảy máu trong ổ bụng",
+            "Suy gan cấp",
+            "Tắc mật"
+          ],
+          "answer": 1,
+          "explain": "Adenoma có nguy cơ vỡ gây xuất huyết nội (đặc biệt khi >5cm) và nguy cơ hóa ác thành HCC (dù thấp)."
+        },
+        {
+          "q": "Hướng xử trí đầu tiên đối với bệnh nhân này:",
+          "options": [
+            "Phẫu thuật cắt gan ngay",
+            "Ngừng thuốc tránh thai và theo dõi",
+            "Sinh thiết gan",
+            "Nút mạch hóa chất"
+          ],
+          "answer": 1,
+          "explain": "Adenoma liên quan mật thiết đến Estrogen. Bước đầu tiên là ngừng OCP, khối u có thể tự nhỏ lại."
+        },
+        {
+          "q": "Đặc điểm hình ảnh quan trọng trên CT/MRI giúp phân biệt FNH (Tăng sản thể nốt) với Adenoma là:",
+          "options": [
+            "Sẹo xơ trung tâm (Central scar)",
+            "Vỏ bao dày",
+            "Hoại tử trung tâm",
+            "Vôi hóa"
+          ],
+          "answer": 0,
+          "explain": "FNH (lành tính hoàn toàn) đặc trưng bởi \"Sẹo xơ trung tâm\" giữ thuốc thì muộn. Adenoma thường không có sẹo này."
+        },
+        {
+          "q": "Nếu khối u này không nhỏ đi sau khi ngừng thuốc tránh thai hoặc kích thước > 5cm, chỉ định điều trị là gì?",
+          "options": [
+            "Phẫu thuật cắt bỏ",
+            "Đốt sóng cao tần (RFA)",
+            "Xạ trị",
+            "Ghép gan"
+          ],
+          "answer": 0,
+          "explain": "Nếu u > 5cm hoặc không đáp ứng sau ngừng thuốc, nguy cơ vỡ và ung thư hóa cao -> Chỉ định phẫu thuật cắt bỏ (Resection)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi xơ gan phát hiện u gan",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Tiền sử:</b> Xơ gan Child-Pugh B (7 điểm) do viêm gan C.<br><br><b>Bệnh sử:</b> Tầm soát định kỳ phát hiện 02 khối u gan.<br><br><b>Khám lâm sàng:</b> Bệnh nhân có giãn tĩnh mạch thực quản độ II.<br><br><b>Xét nghiệm:</b> 01 khối 2cm ở phân thùy V và 01 khối 2.5cm ở phân thùy VIII. Hình ảnh điển hình HCC. Không có huyết khối tĩnh mạch cửa, không di căn ngoài gan.",
+      "questions": [
+        {
+          "q": "Bệnh nhân này có thỏa mãn Tiêu chuẩn Milan để ghép gan không?",
+          "options": [
+            "Có",
+            "Không (do số lượng u)",
+            "Không (do kích thước u)",
+            "Không (do chức năng gan Child B)"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có 2 u (số lượng ≤ 3) và kích thước đều < 3cm -> Thỏa mãn tiêu chuẩn Milan."
+        },
+        {
+          "q": "Tiêu chuẩn Milan bao gồm:",
+          "options": [
+            "1 u ≤ 5cm HOẶC tối đa 3 u, mỗi u ≤ 3cm",
+            "1 u ≤ 3cm HOẶC tối đa 3 u, mỗi u ≤ 5cm",
+            "Tổng đường kính các u < 10cm",
+            "Bất kỳ số lượng u nào miễn là chưa xâm lấn mạch máu"
+          ],
+          "answer": 0,
+          "explain": "Tiêu chuẩn Milan kinh điển (Mazferro 1996): 1 u ≤ 5cm OR ≤3 u (mỗi u ≤ 3cm), không xâm lấn mạch, không di căn. Đây là tiêu chuẩn vàng chọn bệnh nhân ghép gan đạt kết quả tốt nhất."
+        },
+        {
+          "q": "Tại sao Ghép gan là phương pháp tối ưu nhất về mặt lý thuyết cho bệnh nhân này?",
+          "options": [
+            "Vì chi phí thấp hơn cắt gan",
+            "Vì giải quyết được cả khối u và bệnh lý nền (xơ gan) cùng lúc",
+            "Vì không cần dùng thuốc chống thải ghép",
+            "Vì kỹ thuật đơn giản hơn cắt gan"
+          ],
+          "answer": 1,
+          "explain": "Ghép gan vừa loại bỏ ung thư (triệt căn), vừa thay thế gan xơ (nguyên nhân sinh ung và nguyên nhân gây suy gan/tăng áp cửa). Cắt gan chỉ lấy đi khối u nhưng để lại gan xơ có nguy cơ tái phát và suy gan."
+        },
+        {
+          "q": "Trong thời gian chờ đợi ghép gan (có thể kéo dài), biện pháp điều trị \"bắc cầu\" (Bridging therapy) nào thường được sử dụng để kìm hãm u?",
+          "options": [
+            "Hóa trị toàn thân",
+            "RFA (Đốt sóng cao tần) hoặc TACE (Nút mạch)",
+            "Xạ trị",
+            "Miễn dịch liệu pháp"
+          ],
+          "answer": 1,
+          "explain": "Bridging therapy (RFA, TACE) giúp kiểm soát u không cho tiến triển vượt quá tiêu chuẩn Milan trong lúc chờ có gan hiến."
+        },
+        {
+          "q": "Điểm số MELD (Model for End-Stage Liver Disease) dùng để ưu tiên ghép gan dựa trên 3 chỉ số xét nghiệm nào?",
+          "options": [
+            "Albumin, Bilirubin, INR",
+            "Bilirubin, INR, Creatinine",
+            "AST, ALT, Bilirubin",
+            "Natri, Kali, Creatinine"
+          ],
+          "answer": 1,
+          "explain": "MELD = 3.78xIn[Bilirubin] + 9.57xIn[Creatinine] + 11.2xIn[INR] + 6.43. Dùng để xếp thứ tự ưu tiên nhận tạng (tiên lượng tử vong trong 3 tháng)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 48 tuổi đau tức vùng gan",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 48 tuổi.<br><br><b>Tiền sử:</b> Không tiền sử viêm gan.<br><br><b>Bệnh sử:</b> Đi khám vì đau tức vùng gan.<br><br><b>Xét nghiệm:</b> Siêu âm thấy khối u lớn 8cm ở gan trái. Xét nghiệm: AFP bình thường (3.5 ng/mL), CA 19-9 tăng cao 150 U/mL. CT scan: Khối u ngấm thuốc kém ở trung tâm, co kéo bao gan, ngoại vi ngấm thuốc thì động mạch nhưng thì muộn vẫn giữ thuốc dạng viền (delayed enhancement). Có vài hạch nhỏ vùng rốn gan.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hướng đến nhiều nhất là:",
+          "options": [
+            "Ung thư biểu mô tế bào gan (HCC)",
+            "Ung thư đường mật trong gan (Intrahepatic Cholangiocarcinoma - ICC)",
+            "U máu khổng lồ",
+            "Nang gan nhiễm trùng"
+          ],
+          "answer": 1,
+          "explain": "Gan không xơ, AFP bình thường, CA 19-9 tăng + Hình ảnh khối u co kéo bao gan, ngấm thuốc muộn -> Điển hình của Ung thư đường mật trong gan (ICC). HCC thường trên nền xơ gan, AFP tăng, wash-out."
+        },
+        {
+          "q": "Một đặc điểm quan trọng phân biệt phẫu thuật ICC so với HCC là:",
+          "options": [
+            "ICC không cần cắt gan rộng rãi",
+            "ICC bắt buộc phải nạo vét hạch vùng (Lymphadenectomy) thường quy",
+            "ICC không cần chừa lại nhiều nhu mô gan",
+            "ICC luôn cần cắt đường mật chính"
+          ],
+          "answer": 1,
+          "explain": "ICC có xu hướng di căn hạch rất cao (khác HCC chủ yếu xâm lấn mạch máu). Do đó, phẫu thuật chuẩn của ICC là Cắt gan + Vét hạch vùng (LND). Với HCC, vét hạch không thường quy."
+        },
+        {
+          "q": "Tiên lượng của ICC so với HCC cùng kích thước thường:",
+          "options": [
+            "Tốt hơn",
+            "Xấu hơn",
+            "Như nhau",
+            "ICC lành tính, không ác tính"
+          ],
+          "answer": 1,
+          "explain": "ICC thường phát hiện muộn, sinh học khối u ác tính cao, đáp ứng hóa trị kém -> Tiên lượng thường xấu hơn HCC."
+        },
+        {
+          "q": "Nếu khối u này xâm lấn tĩnh mạch gan trái (Hepatic vein), phẫu thuật nào được chỉ định?",
+          "options": [
+            "Cắt phân thùy bên (II, III)",
+            "Cắt gan trái (II, III, IV)",
+            "Cắt gan phải",
+            "Khoét chóp nang"
+          ],
+          "answer": 1,
+          "explain": "Xâm lấn tĩnh mạch gan trái (dẫn lưu máu thùy gan trái) -> Cần cắt bỏ toàn bộ gan trái (HPT II, III, IV) để đảm bảo diện cắt R0."
+        },
+        {
+          "q": "Các yếu tố nguy cơ của ung thư đường mật trong gan (ICC) gồm, TRỪ:",
+          "options": [
+            "Viêm xơ đường mật nguyên phát (PSC)",
+            "Nang đường mật (Choledochal cyst)",
+            "Sỏi mật trong gan (Hepatolithiasis)",
+            "Sử dụng NSAIDs kéo dài"
+          ],
+          "answer": 3,
+          "explain": "NSAIDs không gây ung thư đường mật (thậm chí aspirin còn có yếu tố bảo vệ). Các yếu tố còn lại (PSC, nang đường mật, sỏi gan, sán lá gan) gây viêm mạn tính đường mật -> Ung thư."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 25 tuổi chấn thương bụng kín phát hiện u gan",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 25 tuổi.<br><br><b>Tiền sử:</b> Khỏe mạnh, không rượu bia.<br><br><b>Bệnh sử:</b> Vào viện sau tai nạn giao thông chấn thương bụng kín. Tình cờ phát hiện một khối u đặc gan phải. Bệnh nhân hoàn toàn không có triệu chứng gan mật trước đó.<br><br><b>Khám lâm sàng:</b> Huyết động ổn định.<br><br><b>Xét nghiệm:</b> CT bụng phát hiện chấn thương lách độ 1, khối u đặc gan phải kích thước 4cm. Xét nghiệm: HBsAg (-), Anti-HCV (-), AFP 2 ng/mL. Trên phim CT: Khối u có sẹo xơ ở trung tâm (central scar), sẹo này ngấm thuốc mạnh ở thì muộn. Phần nhu mô xung quanh ngấm thuốc mạnh thì động mạch và đồng tỷ trọng thì tĩnh mạch.",
+      "questions": [
+        {
+          "q": "Hình ảnh \"Sẹo xơ trung tâm\" (Central scar) là dấu hiệu đặc trưng của tổn thương nào?",
+          "options": [
+            "Ung thư tế bào gan (HCC)",
+            "Tăng sản thể nốt khu trú (Focal Nodular Hyperplasia - FNH)",
+            "U tuyến (Adenoma)",
+            "Di căn gan"
+          ],
+          "answer": 1,
+          "explain": "Sẹo xơ trung tâm hình nan hoa là dấu hiệu kinh điển của FNH."
+        },
+        {
+          "q": "Thái độ xử trí phù hợp nhất với FNH không triệu chứng?",
+          "options": [
+            "Cắt gan ngay vì nguy cơ ung thư hóa",
+            "Sinh thiết kim lớn",
+            "Theo dõi, không cần can thiệp phẫu thuật",
+            "Hóa trị"
+          ],
+          "answer": 2,
+          "explain": "FNH là tổn thương hoàn toàn lành tính, không có nguy cơ ác tính hóa, rất hiếm khi vỡ. Nếu không triệu chứng -> Chỉ cần theo dõi, trấn an bệnh nhân (Leave it alone lesion)."
+        },
+        {
+          "q": "Cơ chế hình thành FNH được cho là do:",
+          "options": [
+            "Đột biến gen p53",
+            "Phản ứng tăng sinh của tế bào gan đối với dị dạng mạch máu bẩm sinh",
+            "Nhiễm virus EBV",
+            "Rối loạn chuyển hóa sắt"
+          ],
+          "answer": 1,
+          "explain": "FNH không phải là khối u tân sinh thực sự (neoplasm) mà là phản ứng tăng sinh (hyperplasia) của tế bào gan quanh một dị dạng động mạch bẩm sinh."
+        },
+        {
+          "q": "Chẩn đoán phân biệt FNH thể không điển hình với Ung thư gan dạng xơ dẹt (Fibrolamellar HCC) dựa vào:",
+          "options": [
+            "Fibrolamellar HCC thường gặp ở người già",
+            "Fibrolamellar HCC thường có hạch di căn và sẹo xơ lớn, vôi hóa, AFP bình thường nhưng ác tính",
+            "FNH luôn có AFP tăng cao",
+            "Không thể phân biệt được bằng hình ảnh"
+          ],
+          "answer": 1,
+          "explain": "Fibrolamellar HCC (HCC thể xơ dẹt) cũng gặp ở người trẻ, gan lành, có sẹo xơ nhưng sẹo thường lớn, vôi hóa, và bản chất là ung thư ác tính. Cần phân biệt kỹ."
+        },
+        {
+          "q": "Nếu cần chẩn đoán xác định FNH bằng MRI, chất đối quang từ đặc hiệu nào giúp phân biệt (FNH giữ thuốc, Adenoma/HCC không giữ)?",
+          "options": [
+            "Gadolinium ngoại bào thông thường",
+            "Chất tương phản gan mật (như Gd-EOB-DTPA/Primovist)",
+            "Iốt phóng xạ",
+            "Barium"
+          ],
+          "answer": 1,
+          "explain": "Trên MRI với chất tương phản gan mật (Primovist), tế bào FNH còn chức năng và có đường mật xuất phát bất thường nên sẽ GIỮ thuốc ở thì gan mật (tín hiệu cao/sáng). Trong khi Adenoma và HCC mất chức năng tế bào đường mật nên KHÔNG giữ thuốc (tín hiệu thấp/tối)."
+        }
+      ]
+    }
+  ]
+}
