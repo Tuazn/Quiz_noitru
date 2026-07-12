@@ -1,0 +1,620 @@
+{
+  "name": "Chấn thương cột sống",
+  "description": "Bộ câu hỏi trắc nghiệm tự lượng giá về bệnh lý chấn thương cột sống dành cho ôn thi Bác sĩ Nội trú.",
+  "level": "Ôn thi nội trú",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Thần kinh",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 35 tuổi ngã giàn giáo đau thắt lưng cao",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 35 tuổi, thợ xây.<br><br><b>Bệnh sử:</b> Nhập viện sau khi ngã giàn giáo từ độ cao 3m, tiếp đất bằng hai gót chân. Bệnh nhân tỉnh táo (GCS 15 điểm), than đau chói vùng thắt lưng cao.<br><br><b>Khám lâm sàng:</b> Sinh hiệu: Mạch 88 lần/phút, HA 120/70 mmHg, SpO2 98% khí phòng. Khám cột sống: ấn đau chói gai sau L1, có dấu hiệu gù nhẹ tại chỗ, khoảng cách giữa các gai sau không rộng ra, không sờ thấy bậc thang. Khám thần kinh: trương lực cơ 2 chân bình thường, sức cơ 5/5, phản xạ gân xương (PXGX) nhạy đều, cảm giác nông sâu bình thường, cơ tròn tự chủ. Không có dấu hiệu tổn thương ngực hay bụng kèm theo.<br><br><b>Cận lâm sàng:</b> X-quang cột sống thắt lưng thẳng/nghiêng thấy xẹp hình chêm thân đốt sống L1, giảm chiều cao tường trước khoảng 30%, tường sau nguyên vẹn. CT scan xác nhận gãy lún, không có mảnh rời chèn ép ống sống.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định phù hợp nhất theo phân loại Denis là gì?",
+          "options": [
+            "Gãy nhiều mảnh (Burst fracture)",
+            "Gãy lún (Compression fracture)",
+            "Gãy trật (Fracture-dislocation)",
+            "Gãy dây đai (Seat-belt fracture)"
+          ],
+          "answer": 1,
+          "explain": "Hình ảnh xẹp hình chêm tường trước, tường sau nguyên vẹn trên X-quang và CT scan là đặc điểm điển hình của gãy lún (Compression fracture). Gãy Burst sẽ tổn thương cả tường trước và giữa (tường sau bị vỡ lòi vào ống sống)."
+        },
+        {
+          "q": "Theo phân loại 3 cột của Denis, tổn thương của bệnh nhân này liên quan đến cột nào?",
+          "options": [
+            "Chỉ cột trước",
+            "Cột trước và cột giữa",
+            "Cột giữa và cột sau",
+            "Cả 3 cột"
+          ],
+          "answer": 0,
+          "explain": "Theo thuyết 3 cột của Denis: Gãy lún (Compression) chỉ tổn thương cột trước (dây chằng dọc trước + 2/3 trước thân đốt sống). Cột giữa (1/3 sau thân đốt + dây chằng dọc sau) và cột sau (cuống, mảnh, gai sau, dây chằng liên gai) còn nguyên vẹn."
+        },
+        {
+          "q": "Chỉ định cận lâm sàng nào tiếp theo là cần thiết nhất để đánh giá tổn thương dây chằng phức hợp sau (PLC) nếu nghi ngờ?",
+          "options": [
+            "Xạ hình xương",
+            "MRI cột sống thắt lưng",
+            "Chụp tủy cản quang (Myelography)",
+            "Đo điện cơ (EMG)"
+          ],
+          "answer": 1,
+          "explain": "MRI là tiêu chuẩn vàng (gold standard) để đánh giá mô mềm, đặc biệt là phức hợp dây chằng sau (PLC) và đĩa đệm, tủy sống. CT scan chỉ đánh giá tốt cấu trúc xương."
+        },
+        {
+          "q": "Hướng xử trí phù hợp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Phẫu thuật làm cứng cột sống lối sau",
+            "Phẫu thuật giải ép và cố định cột sống",
+            "Điều trị bảo tồn: nằm nghỉ ngơi, mặc áo nẹp hỗ trợ, giảm đau",
+            "Kéo tạ qua sọ hoặc khung Halo"
+          ],
+          "answer": 2,
+          "explain": "Đây là gãy vững (chỉ tổn thương cột trước, giảm chiều cao < 50%, gù < 20-30 độ, không tổn thương thần kinh). Điều trị bảo tồn (nghỉ ngơi, nẹp, giảm đau) là lựa chọn ưu tiên. Phẫu thuật chỉ đặt ra khi gãy không vững hoặc có chèn ép thần kinh."
+        },
+        {
+          "q": "Nếu bệnh nhân này xuất hiện bí tiểu và tê vùng tầng sinh môn sau 24h, biến chứng nào đã xảy ra?",
+          "options": [
+            "Hội chứng chùm đuôi ngựa (Cauda equina syndrome)",
+            "Sốc tủy (Spinal shock)",
+            "Hội chứng tủy trung tâm",
+            "Hội chứng tủy trước"
+          ],
+          "answer": 0,
+          "explain": "Bí tiểu và tê vùng yên ngựa (tầng sinh môn) là dấu hiệu đỏ của Hội chứng chùm đuôi ngựa (chèn ép rễ thần kinh dưới nón tủy), cần mổ cấp cứu giải ép. Sốc tủy biểu hiện bằng mất hoàn toàn vận động/cảm giác/phản xạ dưới mức tổn thương, thường gặp ngay sau chấn thương nặng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 22 tuổi tai nạn lặn chúi đầu xuống hồ bơi",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 22 tuổi, sinh viên.<br><br><b>Bệnh sử:</b> Được đưa vào cấp cứu sau khi lặn xuống hồ bơi cạn đầu đập xuống đáy hồ. Bệnh nhân tỉnh (GCS 15), liệt tứ chi hoàn toàn, không cử động được tay chân.<br><br><b>Khám lâm sàng:</b> Sinh hiệu: Mạch 52 lần/phút, HA 85/50 mmHg, nhiệt độ 36.5°C, da ấm và khô, SpO2 96%. Khám: liệt mềm tứ chi sức cơ 0/5, mất cảm giác từ ngang mức xương đòn trở xuống, mất phản xạ gân xương tứ chi, trương lực cơ vòng hậu môn (-), phản xạ hành hang (-). Bụng mềm, không chướng. Phổi thông khí rõ. Cột sống cổ không biến dạng rõ nhưng ấn đau vùng C4-C5.<br><br><b>Cận lâm sàng:</b> Các xét nghiệm ban đầu: Hct 40%, Hemoglobin 135 g/L. Siêu âm FAST bụng âm tính.",
+      "questions": [
+        {
+          "q": "Tình trạng huyết động của bệnh nhân (Hạ HA + Mạch chậm + Da ấm) gợi ý chấn thương nào?",
+          "options": [
+            "Sốc mất máu (Hypovolemic shock)",
+            "Sốc tủy (Spinal shock)",
+            "Sốc thần kinh (Neurogenic shock)",
+            "Sốc tim (Cardiogenic shock)"
+          ],
+          "answer": 2,
+          "explain": "Tam chứng kinh điển của sốc thần kinh (Neurogenic shock) là: Tụt huyết áp + Mạch chậm (hoặc không nhanh tương xứng) + Da ấm/khô (do giãn mạch). Sốc mất máu thường có mạch nhanh, da lạnh/ẩm."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính gây ra tụt huyết áp ở bệnh nhân này là gì?",
+          "options": [
+            "Mất máu khối lượng lớn vào khoang sau phúc mạc",
+            "Giảm sức co bóp cơ tim do đụng dập tim",
+            "Mất trương lực giao cảm gây giãn mạch ngoại biên",
+            "Phản xạ phế vị do đau quá mức"
+          ],
+          "answer": 2,
+          "explain": "Tổn thương tủy cổ cao hoặc ngực cao (trên T6) làm gián đoạn đường dẫn truyền giao cảm từ thân não xuống, dẫn đến mất trương lực giao cảm -> giãn mạch ngoại vi (giảm tiền gánh hậu gánh) và mất đối kháng phế vị tại tim (gây mạch chậm)."
+        },
+        {
+          "q": "Biện pháp hồi sức huyết động đầu tay không phù hợp hoặc cần thận trọng ở bệnh nhân này so với sốc mất máu?",
+          "options": [
+            "Bù dịch ạt (Large volume resuscitation)",
+            "Sử dụng thuốc vận mạch (Vasopressors)",
+            "Đặt đường truyền tĩnh mạch lớn",
+            "Theo dõi huyết áp động mạch xâm lấn"
+          ],
+          "answer": 0,
+          "explain": "Bù dịch ạt cần thận trọng vì nguy cơ phù phổi (do mất trương lực giao cảm cũng ảnh hưởng tim) và bệnh nhân không thiếu khối lượng tuần hoàn thực sự mà là phân bố lại. Sau khi bù đủ thể tích lòng mạch (eu-volemia), phải dùng vận mạch (Norepinephrine/Dopamine) sớm."
+        },
+        {
+          "q": "Mục tiêu duy trì huyết áp trung bình (MAP) theo khuyến cáo của AANS/CNS cho chấn thương tủy sống cấp là bao nhiêu và trong bao lâu?",
+          "options": [
+            "MAP ≥ 65 mmHg trong 24h",
+            "MAP ≥ 85 mmHg trong 7 ngày",
+            "HA tâm thu > 100 mmHg trong 48h",
+            "MAP ≥ 75 mmHg trong 5 ngày"
+          ],
+          "answer": 1,
+          "explain": "Guideline AANS/CNS khuyến cáo duy trì MAP ≥ 85 mmHg trong 7 ngày đầu để tối ưu hóa áp lực tưới máu tủy (Spinal Cord Perfusion Pressure), giảm tổn thương thứ phát do thiếu máu cục bộ."
+        },
+        {
+          "q": "\"Sốc tủy\" khác với tình trạng huyết động hiện tại của bệnh nhân ở điểm nào?",
+          "options": [
+            "Sốc tủy là chẩn đoán huyết động, còn đây là chẩn đoán thần kinh",
+            "Sốc tủy đề cập đến sự mất chức năng tủy (vận động/cảm giác/phản xạ) tạm thời dưới mức tổn thương",
+            "Sốc tủy luôn đi kèm mạch nhanh",
+            "Sốc tủy không bao giờ hồi phục"
+          ],
+          "answer": 1,
+          "explain": "Sốc tủy (Spinal shock) là thuật ngữ lâm sàng chỉ tình trạng mất tạm thời mọi hoạt động phản xạ, vận động, cảm giác dưới mức tổn thương (liệt mềm, mất phản xạ). Nó không phải là tình trạng huyết động (dù có thể đi kèm). Sốc tủy kết thúc khi phản xạ (như phản xạ hành hang) hồi phục."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 72 tuổi ngã đập mặt yếu tứ chi",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 72 tuổi.<br><br><b>Tiền sử:</b> Thoái hóa cột sống cổ.<br><br><b>Bệnh sử:</b> Nhập viện sau khi ngã đập mặt xuống sàn nhà. Bệnh nhân tỉnh táo, than tê bì và yếu hai tay nhiều hơn hai chân.<br><br><b>Khám lâm sàng:</b> Sức cơ chi trên 2/5 (ngọn chi yếu hơn gốc chi), sức cơ chi dưới 4/5. Cảm giác sờ nông giảm vùng vai và cánh tay hai bên. Rối loạn cơ tròn: bí tiểu. Cột sống cổ không đau chói, vận động cổ hạn chế do đau cơ năng.<br><br><b>Cận lâm sàng:</b> X-quang cột sống cổ: thoái hóa nặng, hẹp ống sống C3-C6, không thấy đường gãy xương rõ rệt. MRI cho thấy phù nề tủy vùng trung tâm ngang mức C4-C5 và hẹp ống sống nặng trên nền thoái hóa.",
+      "questions": [
+        {
+          "q": "Đây là bệnh cảnh lâm sàng của hội chứng tủy nào?",
+          "options": [
+            "Hội chứng Brown-Séquard",
+            "Hội chứng tủy trước (Anterior Cord Syndrome)",
+            "Hội chứng tủy sau (Posterior Cord Syndrome)",
+            "Hội chứng tủy trung tâm (Central Cord Syndrome)"
+          ],
+          "answer": 3,
+          "explain": "Hội chứng tủy trung tâm (Central Cord Syndrome) đặc trưng bởi yếu chi trên nhiều hơn chi dưới, thường gặp ở người già có hẹp ống sống sẵn."
+        },
+        {
+          "q": "Cơ chế chấn thương điển hình gây ra hội chứng này ở người cao tuổi là gì?",
+          "options": [
+            "Chấn thương cúi (Hyperflexion)",
+            "Chấn thương ưỡn quá mức (Hyperextension)",
+            "Chấn thương nén dọc trục (Axial loading)",
+            "Chấn thương xoay (Rotation)"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế điển hình là chấn thương ưỡn quá mức (hyperextension) - ví dụ ngã đập cằm/mặt, khiến dây chằng vàng gấp nếp chèn vào tủy trên nền gai xương phía trước."
+        },
+        {
+          "q": "Tại sao bệnh nhân lại có biểu hiện yếu tay nhiều hơn yếu chân?",
+          "options": [
+            "Do tổn thương động mạch tủy trước chi phối sừng trước tủy sống vùng cổ",
+            "Do các sợi trục dẫn truyền vận động cho tay nằm ở phía trong (trung tâm) của bó tháp, còn chân nằm ở phía ngoài",
+            "Do tổn thương rễ thần kinh C5-C6 đơn thuần",
+            "Do xuất huyết màng nhện khu trú"
+          ],
+          "answer": 1,
+          "explain": "Theo giải phẫu định khu của bó vỏ gai (bó tháp): các sợi trục chi phối vận động cho tay nằm ở phía trong (gần trung tâm tủy hơn), còn sợi chi phối cho chân nằm ở phía ngoài. Tổn thương trung tâm tủy (phù nề xuất huyết) sẽ ảnh hưởng các sợi bên trong trước."
+        },
+        {
+          "q": "Tiên lượng phục hồi chức năng vận động của hội chứng này thường theo trình tự nào?",
+          "options": [
+            "Chi trên -> Chi dưới -> Cơ vòng",
+            "Chi dưới -> Cơ vòng -> Chi trên",
+            "Cơ vòng -> Chi trên -> Chi dưới",
+            "Hồi phục ngẫu nhiên không theo quy luật"
+          ],
+          "answer": 1,
+          "explain": "Quy luật hồi phục thường thấy: Chi dưới hồi phục trước -> sau đó đến bàng quang (cơ vòng) -> cuối cùng là chi trên (và động tác tinh vi bàn tay hồi phục kém nhất)."
+        },
+        {
+          "q": "Phương pháp điều trị ưu tiên ban đầu cho bệnh nhân này nếu tình trạng thần kinh không tiến triển xấu đi nhanh chóng?",
+          "options": [
+            "Mổ cấp cứu mở cung sau giải ép ngay lập tức",
+            "Điều trị bảo tồn: cố định cổ, corticoid (cân nhắc), duy trì huyết áp, tập PHCN sớm",
+            "Kéo nắn cột sống cổ với trọng lượng lớn",
+            "Phong bế rễ thần kinh"
+          ],
+          "answer": 1,
+          "explain": "Với Central Cord Syndrome, nếu không có chèn ép xương cấp tính hay mất vững cột sống rõ rệt, điều trị bảo tồn (duy trì MAP, cố định) thường được ưu tiên ban đầu để tủy bớt phù nề. Phẫu thuật giải ép thường được trì hoãn (semi-elective) trừ khi triệu chứng tiến triển nặng lên (progressive deficit)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 28 tuổi bị dao đâm vùng lưng ngực",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 28 tuổi.<br><br><b>Bệnh sử:</b> Bị đâm bằng dao nhọn vào vùng lưng ngang mức T6 bên trái. Bệnh nhân tỉnh táo.<br><br><b>Khám lâm sàng:</b> Khám thần kinh phát hiện: Bên trái (cùng bên tổn thương): Liệt vận động chân trái (sức cơ 0/5), mất cảm giác sâu (rung chấn, vị trí khớp) chân trái. Bên phải (đối bên tổn thương): Vận động bình thường, cảm giác sâu bình thường, nhưng mất cảm giác đau và nhiệt từ khoảng ngang mức rốn (T10) trở xuống.<br><br><b>Cận lâm sàng:</b> Phim X-quang ngực không thấy tràn khí/tràn máu màng phổi.",
+      "questions": [
+        {
+          "q": "Đây là biểu hiện điển hình của hội chứng nào?",
+          "options": [
+            "Hội chứng tủy trước",
+            "Hội chứng cắt ngang tủy hoàn toàn",
+            "Hội chứng Brown-Séquard",
+            "Hội chứng tủy sau"
+          ],
+          "answer": 2,
+          "explain": "Hội chứng Brown-Séquard là hội chứng cắt ngang nửa tủy (hemicord lesion), thường do vết thương thấu (dao đâm)."
+        },
+        {
+          "q": "Giải thích nào sau đây đúng về cơ chế gây mất cảm giác đau nhiệt ở bên đối diện?",
+          "options": [
+            "Bó gai đồi thị (Spinothalamic tract) bắt chéo ngay tại mức tủy hoặc 1-2 khoanh tủy trên mức tổn thương",
+            "Bó tháp bắt chéo tại hành não",
+            "Bó thon và bó chêm bắt chéo tại hành não",
+            "Do tổn thương lan rộng sang cả hai bên tủy"
+          ],
+          "answer": 0,
+          "explain": "Bó gai đồi thị (dẫn truyền đau, nhiệt) đi vào tủy sống và bắt chéo qua mép trắng trước sang bên đối diện ngay tại khoanh tủy đó (hoặc đi lên 1-2 khoanh rồi bắt chéo). Do đó, tổn thương nửa tủy bên trái sẽ cắt đứt đường dẫn truyền đau nhiệt từ bên phải đi lên -> mất cảm giác đau nhiệt bên phải (đối bên)."
+        },
+        {
+          "q": "Trong hội chứng này, tiên lượng phục hồi vận động thường như thế nào so với các hội chứng tủy không hoàn toàn khác?",
+          "options": [
+            "Tồi tệ nhất",
+            "Tốt nhất",
+            "Tương đương hội chứng tủy trước",
+            "Không bao giờ phục hồi"
+          ],
+          "answer": 1,
+          "explain": "Trong các hội chứng tủy không hoàn toàn, Brown-Séquard có tiên lượng phục hồi tốt nhất (khoảng 90% bệnh nhân tự đi lại được và kiểm soát cơ tròn)."
+        },
+        {
+          "q": "Một biến chứng hô hấp cần theo dõi sát ở bệnh nhân có vết thương thấu ngực lưng này, ngoài tổn thương tủy?",
+          "options": [
+            "Viêm phổi hít",
+            "Tràn khí/máu màng phổi chậm",
+            "Phù phổi cấp",
+            "Hội chứng ARDS"
+          ],
+          "answer": 1,
+          "explain": "Vết thương do dao đâm vùng lưng ngực có nguy cơ cao gây tổn thương màng phổi, phổi. X-quang ban đầu có thể chưa thấy, cần theo dõi tràn khí/máu màng phổi tiến triển."
+        },
+        {
+          "q": "CLS nào có giá trị nhất để đánh giá tổn thương nhu mô tủy trong trường hợp này?",
+          "options": [
+            "CT Scan đa dãy",
+            "MRI cột sống ngực",
+            "X-quang quy ước",
+            "Siêu âm tại giường"
+          ],
+          "answer": 1,
+          "explain": "MRI là phương tiện tốt nhất để khảo sát nhu mô tủy, mức độ đụng dập, tụ máu trong tủy hoặc chèn ép tủy. CT scan hạn chế trong đánh giá mô mềm tủy sống."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi lật xe ô tô đau thắt lưng và bụng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi, tài xế xe tải.<br><br><b>Bệnh sử:</b> Nhập viện sau tai nạn giao thông (xe lật vòng), bệnh nhân thắt dây an toàn. Than đau dữ dội vùng thắt lưng và đau bụng quanh rốn.<br><br><b>Khám lâm sàng:</b> Bầm tím vùng thành bụng trước dạng vệt dây đai. Ấn đau chói gai sau L2-L3, sờ thấy khoảng cách giữa hai gai sau L2-L3 rộng ra. Thần kinh: 2 chân vận động, cảm giác bình thường. Bụng chướng nhẹ, nhu động ruột giảm.<br><br><b>Cận lâm sàng:</b> X-quang cột sống thắt lưng nghiêng thấy gãy ngang qua thân đốt sống, cuống sống và gai sau L2, làm tăng chiều cao phía sau thân đốt.",
+      "questions": [
+        {
+          "q": "Loại gãy này được gọi là gì?",
+          "options": [
+            "Gãy Jefferson",
+            "Gãy Chance (Seat-belt fracture)",
+            "Gãy Hangman",
+            "Gãy Odontoid"
+          ],
+          "answer": 1,
+          "explain": "Gãy Chance (còn gọi là gãy dây đai) điển hình ở người thắt dây an toàn chỉ có đai ngang bụng (lap belt), gây gãy ngang qua toàn bộ đốt sống."
+        },
+        {
+          "q": "Cơ chế chấn thương chính gây ra loại gãy này là gì?",
+          "options": [
+            "Nén dọc trục (Axial compression)",
+            "Gập quá mức (Hyperflexion)",
+            "Gập - Căng giãn (Flexion - Distraction)",
+            "Xoay (Rotation)"
+          ],
+          "answer": 2,
+          "explain": "Cơ chế là Gập - Căng giãn (Flexion-Distraction). Trục quay nằm ở thành bụng trước, cột sống bị xé tách (distraction) từ sau ra trước."
+        },
+        {
+          "q": "Theo phân loại Denis, tổn thương này ảnh hưởng đến những cột nào?",
+          "options": [
+            "Chỉ cột giữa",
+            "Chỉ cột sau",
+            "Cột giữa và cột sau",
+            "Cả 3 cột (Trước, Giữa, Sau)"
+          ],
+          "answer": 3,
+          "explain": "Gãy Chance đi ngang qua gai sau, cuống, thân đốt -> làm mất liên tục cả 3 cột của Denis (cột sau, giữa, trước đều bị tách ra). Đây là gãy không vững."
+        },
+        {
+          "q": "Tổn thương tạng nào trong ổ bụng thường đi kèm với loại gãy cột sống này nhất (tỉ lệ tới 50%)?",
+          "options": [
+            "Vỡ lách",
+            "Thủng ruột non hoặc tổn thương mạc treo",
+            "Vỡ bàng quang",
+            "Dập thận"
+          ],
+          "answer": 1,
+          "explain": "Do điểm tì của dây đai vào bụng, lực chấn thương rất lớn thường gây vỡ thủng ruột non, tá tràng hoặc đứt mạc treo ruột. Cần cảnh giác cao độ dấu hiệu viêm phúc mạc."
+        },
+        {
+          "q": "Phương pháp điều trị tối ưu cho gãy Chance không có tổn thương thần kinh là gì?",
+          "options": [
+            "Nẹp mềm cổ",
+            "Áo nẹp ngực thắt lưng (TLSO) tư thế ưỡn (nếu chỉ tổn thương xương) hoặc phẫu thuật cố định (nếu tổn thương dây chằng)",
+            "Bơm xi măng sinh học",
+            "Nằm bất động tại giường 3 tháng"
+          ],
+          "answer": 1,
+          "explain": "Nếu gãy xương đơn thuần (Chance xương) có thể liền tốt với áo nẹp tư thế ưỡn (hyperextension cast/brace). Tuy nhiên, nếu gãy qua dây chằng (Chance dây chằng) khả năng tự liền kém -> thường phải mổ cố định lối sau."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 50 tuổi ngã cao vỡ nát thân đốt sống L1",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 50 tuổi.<br><br><b>Bệnh sử:</b> Ngã cao 4m, nhập viện với tình trạng liệt không hoàn toàn 2 chi dưới.<br><br><b>Khám lâm sàng:</b> Đau chói vùng L1. Sức cơ 2 chân 3/5, giảm cảm giác ngang mức L1.<br><br><b>Cận lâm sàng:</b> CT scan cho thấy vỡ nát thân đốt sống L1 (Burst fracture), mảnh vỡ tường sau di lệch vào ống sống chèn ép tủy 50%. Điểm TLICS được tính toán dựa trên hình thái gãy, tổn thương thần kinh và phức hợp dây chằng sau.",
+      "questions": [
+        {
+          "q": "Đặc điểm giải phẫu bệnh chính phân biệt gãy Burst (nổ) với gãy lún (Compression) là gì?",
+          "options": [
+            "Gãy Burst có tổn thương tường sau và di lệch vào ống sống",
+            "Gãy Burst chỉ tổn thương tường trước",
+            "Gãy Burst luôn đi kèm gãy xương sườn",
+            "Gãy Burst không bao giờ gây liệt"
+          ],
+          "answer": 0,
+          "explain": "Gãy Burst (theo Denis) là tổn thương cột trước + cột giữa. Tường sau bị vỡ là đặc điểm then chốt, mảnh vỡ thường bị đẩy lùi (retropulsion) vào ống sống gây chèn ép."
+        },
+        {
+          "q": "Tính điểm TLICS cho bệnh nhân này: Gãy Burst (2 điểm) + Tổn thương thần kinh không hoàn toàn (3 điểm) + PLC nghi ngờ không xác định (0 điểm). Tổng 5 điểm. Hướng xử trí theo thang điểm này là gì?",
+          "options": [
+            "Tuyệt đối bảo tồn",
+            "Chỉ định phẫu thuật",
+            "Có thể bảo tồn hoặc phẫu thuật (lựa chọn của phẫu thuật viên)",
+            "Chuyển viện"
+          ],
+          "answer": 1,
+          "explain": "Thang điểm TLICS: Tổng > 4 điểm -> Chỉ định phẫu thuật. Tổng < 4 -> Bảo tồn. Tổng = 4 -> Cân nhắc. Ở đây 5 điểm -> Phẫu thuật là chỉ định rõ ràng."
+        },
+        {
+          "q": "Mục tiêu chính của phẫu thuật trong trường hợp này là gì? Chọn tập hợp đúng: (1) Giải ép thần kinh, (2) Làm vững cột sống, (3) Chỉnh sửa biến dạng gù, (4) Nối tủy sống bị đứt.",
+          "options": [
+            "1, 2, 4",
+            "1, 2, 3",
+            "2, 3, 4",
+            "Chỉ 1 và 2"
+          ],
+          "answer": 1,
+          "explain": "Mục tiêu mổ: Giải phóng chèn ép (cứu thần kinh), làm vững cột sống (tránh tổn thương thêm), chỉnh gù (phục hồi cơ sinh học). (4) Sai vì y học hiện tại chưa nối được tủy sống."
+        },
+        {
+          "q": "Phương pháp phẫu thuật thường dùng nhất cho gãy Burst L1 có chèn ép tủy?",
+          "options": [
+            "Bơm xi măng (Vertebroplasty)",
+            "Cố định cột sống qua cuống (Pedicle screw fixation) có thể kèm giải ép",
+            "Cắt cung sau đơn thuần (Laminectomy)",
+            "Mổ nội soi lồng ngực"
+          ],
+          "answer": 1,
+          "explain": "Bắt vít qua cuống (Pedicle screw) lối sau là kỹ thuật phổ biến nhất để nắn chỉnh và cố định. Có thể kết hợp mở cung sau hoặc đi lối trước nếu cần giải ép rộng."
+        },
+        {
+          "q": "Biến chứng thuyên tắc mạch (DVT/PE) ở bệnh nhân chấn thương cột sống có liệt tủy cần được dự phòng bằng thuốc chống đông (LMWH) khi nào?",
+          "options": [
+            "Ngay khi nhập viện bất kể tình trạng chảy máu",
+            "Sau 24-48h khi tình trạng chảy máu đã kiểm soát (không có xuất huyết não tủy tiến triển)",
+            "Sau 1 tuần",
+            "Không dùng vì nguy cơ tụ máu ngoài màng cứng"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân chấn thương tủy sống có nguy cơ DVT cực cao. Dự phòng dược lý (Heparin trọng lượng phân tử thấp) nên bắt đầu sớm (thường sau 24-48h) nếu không có chống chỉ định về chảy máu hoạt tiến (theo Guidelines của Chest/ACCP)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi đau thắt lưng và tê vùng yên ngựa",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Tiền sử:</b> Thoát vị đĩa đệm L4-L5.<br><br><b>Bệnh sử:</b> Vào viện vì đau thắt lưng dữ dội sau khi bê chậu cây nặng, kèm theo tê bì vùng quanh hậu môn và bộ phận sinh dục. Bệnh nhân khai 4 giờ nay không đi tiểu được dù bàng quang căng tức.<br><br><b>Khám lâm sàng:</b> Cầu bàng quang (+), mất cảm giác vùng yên ngựa (saddle anesthesia), trương lực cơ thắt hậu môn giảm rõ rệt. Sức cơ hai chân 4/5, đau lan mặt sau đùi hai bên.",
+      "questions": [
+        {
+          "q": "Chẩn đoán cấp cứu cần nghĩ tới đầu tiên?",
+          "options": [
+            "Đau thần kinh tọa hai bên",
+            "Hội chứng chùm đuôi ngựa (Cauda Equina Syndrome)",
+            "Hội chứng tủy nón (Conus Medullaris Syndrome)",
+            "Hẹp ống sống thắt lưng"
+          ],
+          "answer": 1,
+          "explain": "Tam chứng: Bí tiểu/Rối loạn cơ tròn + Tê yên ngựa + Yếu chi dưới/Mất trương lực hậu môn = Hội chứng chùm đuôi ngựa. Đây là cấp cứu ngoại khoa thần kinh."
+        },
+        {
+          "q": "Thao tác khám lâm sàng nào là BẮT BUỘC để củng cố chẩn đoán này?",
+          "options": [
+            "Nghiệm pháp Lasegue",
+            "Khám phản xạ gân gối",
+            "Thăm trực tràng (Digital Rectal Exam)",
+            "Đo độ giãn nở lồng ngực"
+          ],
+          "answer": 2,
+          "explain": "Thăm trực tràng (DRE) để đánh giá trương lực cơ thắt hậu môn (thường giảm/mất) và cảm giác quanh hậu môn. Đây là dấu hiệu khách quan quan trọng."
+        },
+        {
+          "q": "Thời gian vàng để phẫu thuật giải ép nhằm tăng khả năng hồi phục cơ vòng là bao lâu?",
+          "options": [
+            "Trong vòng 24 - 48 giờ",
+            "Trong vòng 1 tuần",
+            "Có thể trì hoãn tuỳ ý",
+            "Trong vòng 6 giờ"
+          ],
+          "answer": 0,
+          "explain": "Các nghiên cứu và guideline đồng thuận rằng phẫu thuật giải ép (thường là lấy thoát vị/mở cung sau) nên thực hiện càng sớm càng tốt, tốt nhất là < 24h và tối đa không quá 48h kể từ khi khởi phát triệu chứng rối loạn cơ tròn để bảo tồn chức năng."
+        },
+        {
+          "q": "Vị trí giải phẫu của \"Chùm đuôi ngựa\" bắt đầu từ đâu?",
+          "options": [
+            "Ngang mức L1-L2 (dưới chóp cùng)",
+            "Ngang mức T10",
+            "Ngang mức L5",
+            "Từ hành não"
+          ],
+          "answer": 0,
+          "explain": "Tủy sống người lớn kết thúc ở chóp cùng (Conus medullaris) ngang mức L1-L2. Dưới mức này là các rễ thần kinh thắt lưng và cùng chạy trong ống sống, gọi là chùm đuôi ngựa."
+        },
+        {
+          "q": "Xét nghiệm hình ảnh nào cần thực hiện khẩn cấp (STAT)?",
+          "options": [
+            "X-quang cột sống thắt lưng thẳng nghiêng",
+            "CT Scan cột sống thắt lưng",
+            "MRI cột sống thắt lưng",
+            "Điện cơ đồ"
+          ],
+          "answer": 2,
+          "explain": "MRI là bắt buộc để xác định nguyên nhân (thoát vị đĩa đệm khổng lồ, u, máu tụ) và vị trí chèn ép chính xác để lập kế hoạch mổ. X-quang/CT ít giá trị chẩn đoán mô mềm trong ca này."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 30 tuổi tai nạn ô tô gãy eo cung sau C2",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 30 tuổi.<br><br><b>Bệnh sử:</b> Tai nạn ô tô, đập đầu vào kính chắn gió (cơ chế ưỡn cổ quá mức - hyperextension). Vào viện tỉnh táo, đau cổ nhiều vùng cao.<br><br><b>Khám lâm sàng:</b> Không liệt vận động, cảm giác bình thường.<br><br><b>Cận lâm sàng:</b> Phim X-quang cổ nghiêng thấy gãy eo cung sau C2 (pars interarticularis) hai bên và trượt đốt sống C2 ra trước so với C3.",
+      "questions": [
+        {
+          "q": "Tên gọi kinh điển của loại gãy này là gì?",
+          "options": [
+            "Gãy Jefferson",
+            "Gãy Hangman (Gãy người treo cổ)",
+            "Gãy mỏm nha (Odontoid fracture)",
+            "Gãy giọt lệ (Teardrop fracture)"
+          ],
+          "answer": 1,
+          "explain": "Gãy qua eo (pars interarticularis) của C2 do ưỡn quá mức gọi là gãy Hangman. Gãy Jefferson là vỡ cung trước/sau C1."
+        },
+        {
+          "q": "Phân loại nào thường được sử dụng để đánh giá độ vững và hướng dẫn điều trị gãy này?",
+          "options": [
+            "Phân loại Denis",
+            "Phân loại Effendi (hoặc Levine-Edwards)",
+            "Phân loại AO",
+            "Phân loại Gustilo"
+          ],
+          "answer": 1,
+          "explain": "Phân loại Effendi/Levine-Edwards chia gãy Hangman thành 3 độ dựa trên độ di lệch và góc gập góc."
+        },
+        {
+          "q": "Tại sao loại gãy này thường ít gây tổn thương tủy nặng nề như gãy trật các đốt sống thấp hơn?",
+          "options": [
+            "Vì ống sống vùng C2 rất rộng và khi gãy eo cung sau, ống sống thực tế được \"mở rộng\" ra (auto-decompression)",
+            "Vì tủy sống chưa đi qua C2",
+            "Vì dây chằng vùng này rất chắc",
+            "Vì lực chấn thương nhẹ"
+          ],
+          "answer": 0,
+          "explain": "Một đặc điểm thú vị của gãy Hangman là khi gãy tách eo cung sau, thân đốt C2 trượt ra trước nhưng cung sau C2 lại tụt lại sau, làm đường kính trước sau của ống sống rộng ra -> hiếm khi chèn ép tủy trực tiếp (trừ độ III trật khớp facet hai bên)."
+        },
+        {
+          "q": "Hình ảnh X-quang \"há miệng\" (Open mouth view) thường dùng để chẩn đoán loại gãy nào khác ở vùng cổ cao?",
+          "options": [
+            "Gãy C1 (Jefferson)",
+            "Gãy C7",
+            "Gãy mỏm gai",
+            "Gãy xương đòn"
+          ],
+          "answer": 0,
+          "explain": "X-quang há miệng (Odontoid view/Open mouth) dùng để quan sát C1 và mỏm nha C2, đặc biệt để chẩn đoán gãy Jefferson (thấy khối bên C1 trượt ra ngoài C2) hoặc gãy mỏm nha."
+        },
+        {
+          "q": "Với gãy Hangman độ 1 (trượt ít, vững), phương pháp điều trị thường quy là gì?",
+          "options": [
+            "Mổ nẹp vít C1-C2",
+            "Cố định ngoài bằng Halo-vest hoặc nẹp cổ cứng (Philadelphia/Miami J) trong 12 tuần",
+            "Không cần điều trị",
+            "Kéo tạ liên tục 3 tháng"
+          ],
+          "answer": 1,
+          "explain": "Gãy Hangman độ 1 (di lệch <3mm, không gập góc) là gãy vững, điều trị bảo tồn bằng nẹp cổ cứng (Rigid collar) hoặc Halo-vest cho kết quả liền xương rất tốt."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 18 tuổi tai nạn xe máy hôn mê",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 18 tuổi.<br><br><b>Bệnh sử:</b> Bị tai nạn xe máy, nhập viện trong tình trạng hôn mê GCS 8 điểm, huyết áp 100/60 mmHg. Đã được đặt nội khí quản kiểm soát đường thở.<br><br><b>Khám lâm sàng:</b> Thăm khám thấy có tụ máu vùng trán. Bệnh nhân chưa được chụp chiếu gì.",
+      "questions": [
+        {
+          "q": "Theo nguyên tắc ATLS, việc cần làm ngay lập tức đối với cột sống cổ là gì khi chưa loại trừ được chấn thương?",
+          "options": [
+            "Chụp CT scan cột sống cổ ngay",
+            "Đặt nẹp cổ cứng (Hard collar) và cố định đầu trên ván cứng (Log-roll)",
+            "Khám vận động tứ chi",
+            "Tiêm corticoid liều cao"
+          ],
+          "answer": 1,
+          "explain": "Bất kỳ bệnh nhân đa chấn thương nào, đặc biệt là hôn mê hoặc có chấn thương đầu, đều phải giả định là có chấn thương cột sống cổ cho đến khi được loại trừ. Việc đầu tiên là bất động (Collar + Spine board)."
+        },
+        {
+          "q": "Tiêu chuẩn NEXUS để loại trừ chấn thương cột sống cổ trên lâm sàng bao gồm các yếu tố sau, TRỪ:",
+          "options": [
+            "Không có dấu hiệu thần kinh khu trú",
+            "Không đau chói đường giữa cột sống cổ",
+            "Mức độ tỉnh táo bình thường (GCS 15)",
+            "Tuổi dưới 60"
+          ],
+          "answer": 3,
+          "explain": "Tiêu chuẩn NEXUS gồm 5 tiêu chí: (1) Không đau đường giữa, (2) Không dấu hiệu thần kinh khu trú, (3) Tỉnh táo hoàn toàn, (4) Không nhiễm độc (rượu/thuốc), (5) Không có tổn thương gây đau lấn át khác. \"Tuổi\" không nằm trong NEXUS (Tuổi > 65 nằm trong tiêu chuẩn Canadian C-spine Rule)."
+        },
+        {
+          "q": "Ở bệnh nhân hôn mê này, phương tiện hình ảnh nào là lựa chọn hàng đầu (first-line) để khảo sát cột sống cổ?",
+          "options": [
+            "X-quang cột sống cổ 3 tư thế",
+            "CT Scan cột sống cổ đa dãy (cắt lát mỏng)",
+            "MRI cột sống cổ",
+            "Siêu âm"
+          ],
+          "answer": 1,
+          "explain": "CT scan hiện nay đã thay thế X-quang để trở thành phương tiện sàng lọc đầu tay cho bệnh nhân đa chấn thương/nguy cơ cao vì độ nhạy và độ đặc hiệu vượt trội so với X-quang."
+        },
+        {
+          "q": "Nếu trên phim CT scan không thấy gãy xương, nhưng bệnh nhân vẫn hôn mê kéo dài và có yếu tứ chi, bước tiếp theo là gì?",
+          "options": [
+            "Tháo nẹp cổ",
+            "Chụp MRI cột sống cổ để tìm tổn thương dây chằng/đĩa đệm/tủy (SCIWORA)",
+            "Yên tâm là không có tổn thương tủy",
+            "Chụp lại CT sau 24h"
+          ],
+          "answer": 1,
+          "explain": "SCIWORA (Spinal Cord Injury Without Radiographic Abnormality) - tổn thương tủy không có bất thường trên X-quang/CT xương, thường gặp ở trẻ em hoặc do tổn thương đĩa đệm/dây chằng. MRI là bắt buộc để chẩn đoán."
+        },
+        {
+          "q": "Khi di chuyển bệnh nhân (lật trở) để khám lưng hoặc vệ sinh, kỹ thuật bắt buộc phải dùng là gì?",
+          "options": [
+            "Một người bế đầu, một người bế chân",
+            "Lăn như khúc gỗ (Log-roll) với người giữ đầu chỉ huy",
+            "Cho bệnh nhân tự ngồi dậy",
+            "Kéo trượt bệnh nhân"
+          ],
+          "answer": 1,
+          "explain": "Log-roll (lăn khúc gỗ) là kỹ thuật chuẩn để giữ trục Đầu-Cổ-Thân thẳng hàng, tránh di lệch thứ phát. Người giữ đầu luôn là người ra lệnh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 45 tuổi tai nạn ô tô liệt hoàn toàn hai chân",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 45 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện sau tai nạn ô tô. Tình trạng kéo dài đã 12 giờ.<br><br><b>Khám lâm sàng:</b> Lâm sàng có tình trạng liệt vận động hoàn toàn hai chân (0/5) và mất hoàn toàn cảm giác từ mức T10 trở xuống. Các phản xạ gân xương chi dưới mất, phản xạ hành hang mất.",
+      "questions": [
+        {
+          "q": "Đây là dấu hiệu của hội chứng tủy nào?",
+          "options": [
+            "Hội chứng tủy trước",
+            "Hội chứng Brown-Séquard",
+            "Hội chứng tủy sau",
+            "Tổn thương tủy hoàn toàn (Complete Cord Injury) - ASIA A"
+          ],
+          "answer": 3,
+          "explain": "Mất hoàn toàn vận động và cảm giác, bao gồm cả các đoạn cùng (S4-S5), định nghĩa là tổn thương tủy hoàn toàn."
+        },
+        {
+          "q": "Tiên lượng hồi phục chức năng vận động của bệnh nhân này so với các hội chứng tủy không hoàn toàn (Incomplete)?",
+          "options": [
+            "Tốt hơn",
+            "Kém hơn nhiều, khả năng hồi phục đi lại rất thấp",
+            "Tương đương",
+            "Phụ thuộc hoàn toàn vào phẫu thuật"
+          ],
+          "answer": 1,
+          "explain": "Tổn thương hoàn toàn (ASIA A) có tiên lượng xấu nhất. Chỉ < 5% bệnh nhân hồi phục khả năng đi lại."
+        },
+        {
+          "q": "Phân loại ASIA (American Spinal Injury Association) dùng để đánh giá mức độ tổn thương tủy. Mức độ A (ASIA A) nghĩa là gì?",
+          "options": [
+            "Mất hoàn toàn chức năng vận động và cảm giác ở đoạn cùng S4-S5",
+            "Còn cảm giác nhưng mất vận động dưới mức tổn thương",
+            "Còn vận động nhưng sức cơ < 3/5",
+            "Bình thường"
+          ],
+          "answer": 0,
+          "explain": "ASIA A: \"Complete\" - Không còn chức năng vận động hay cảm giác bảo tồn ở đoạn tủy cùng S4-S5 (thăm trực tràng: mất cảm giác sâu hậu môn, mất vận động cơ thắt)."
+        },
+        {
+          "q": "Giả sử sau 48h, bệnh nhân xuất hiện lại phản xạ hành hang nhưng vẫn liệt hoàn toàn 2 chân. Điều này báo hiệu điều gì?",
+          "options": [
+            "Bệnh nhân đã hồi phục hoàn toàn",
+            "Kết thúc giai đoạn sốc tủy, tiên lượng liệt là vĩnh viễn (nếu vẫn ASIA A)",
+            "Cần mổ lại ngay",
+            "Nhiễm trùng đường tiết niệu"
+          ],
+          "answer": 1,
+          "explain": "Sự trở lại của phản xạ hành hang (Bulbocavernosus reflex) đánh dấu sự kết thúc của giai đoạn sốc tủy (Spinal shock). Nếu sau khi hết sốc tủy mà chức năng thần kinh không hồi phục -> tổn thương thực thể là hoàn toàn và thường vĩnh viễn."
+        },
+        {
+          "q": "Việc sử dụng Methylprednisolone liều cao (NASCIS protocol) trong 8 giờ đầu hiện nay được khuyến cáo như thế nào theo các Guideline mới nhất (AANS/CNS)?",
+          "options": [
+            "Là tiêu chuẩn vàng bắt buộc cho mọi ca",
+            "Chống chỉ định tuyệt đối",
+            "Không còn được khuyến cáo thường quy (Class 1) do nguy cơ > lợi ích, chỉ là một lựa chọn điều trị (Option) cân nhắc kỹ",
+            "Chỉ dùng cho chấn thương cột sống thắt lưng"
+          ],
+          "answer": 2,
+          "explain": "Phác đồ NASCIS (Methylprednisolone liều cao) gây tranh cãi lớn. Các guideline hiện tại (AANS/CNS) hạ mức khuyến cáo xuống, không còn coi là \"Standard of care\" do các biến chứng (xuất huyết tiêu hóa, nhiễm trùng, tăng đường huyết) thường trội hơn lợi ích thần kinh khiêm tốn. Nó là một \"Option\" (lựa chọn) chứ không bắt buộc."
+        }
+      ]
+    }
+  ]
+}
