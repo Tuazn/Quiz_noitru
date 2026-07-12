@@ -1,0 +1,620 @@
+{
+  "name": "Chấn thương và vết thương bụng",
+  "description": "Case lâm sàng phức tạp về chấn thương bụng kín, vết thương thấu bụng, tổn thương các tạng, can thiệp mạch, và Damage Control Surgery",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Tiêu hóa",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 25 tuổi chấn thương hạ sườn trái",
+      "body": "<b>Bệnh sử:</b> Nam, 25 tuổi, đi xe máy tự ngã đập mạn sườn trái xuống đường. Vào viện giờ thứ 2, tỉnh táo, đau vùng hạ sườn trái lan lên vai trái.<br><br><b>Khám lâm sàng:</b> Mạch 100 lần/phút, HA 110/70 mmHg, SpO₂ 98%. Bụng mềm, ấn đau chói vùng hạ sườn trái, gõ đục vùng thấp (-). Không có xây xát thành ngực, phổi thông khí rõ. Siêu âm tại giường (eFAST): Có lớp dịch mỏng khoang lách - thận, màng phổi bình thường.<br><br><b>Xét nghiệm:</b> Hb 125 g/L, Hct 38%.",
+      "questions": [
+        {
+          "q": "Triệu chứng đau lan lên vai trái (Dấu hiệu Kehr) gợi ý tổn thương tạng nào và do cơ chế gì?",
+          "options": [
+            "Vỡ gan, kích thích thần kinh liên sườn",
+            "Vỡ lách, máu tụ dưới hoành kích thích thần kinh hoành trái (C3-C5)",
+            "Vỡ dạ dày, dịch vị kích thích phúc mạc",
+            "Tràn khí màng phổi trái"
+          ],
+          "answer": 1,
+          "explain": "Dấu hiệu Kehr: Máu kích thích cơ hoành trái, cảm giác đau quy chiếu theo dây thần kinh hoành (C3-C5) lan lên vai trái. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Với huyết động ổn định và FAST dương tính, chỉ định Cận lâm sàng tiếp theo tối ưu nhất là:",
+          "options": [
+            "Chọc rửa ổ bụng (DPL)",
+            "Chụp X-quang bụng không chuẩn bị",
+            "Chụp CT scan bụng có tiêm thuốc cản quang",
+            "Mổ thám sát ngay"
+          ],
+          "answer": 2,
+          "explain": "Theo ATLS/WSES: Bệnh nhân chấn thương bụng kín HUYẾT ĐỘNG ỔN ĐỊNH -> CT scan cản quang là tiêu chuẩn vàng để chẩn đoán xác định và phân độ tổn thương. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Kết quả CT scan cho thấy: Đường vỡ nhu mô lách sâu 4cm, chưa tổn thương mạch máu rốn lách, có thoát thuốc cản quang (Contrast blush) trong nhu mô. Phân độ chấn thương lách theo AAST (2018) là:",
+          "options": [
+            "Độ I",
+            "Độ II",
+            "Độ III",
+            "Độ IV"
+          ],
+          "answer": 2,
+          "explain": "Theo AAST 2018: Độ III là vỡ sâu > 3cm hoặc tụ máu dưới bao > 50% diện tích. Dấu hiệu thoát thuốc (Blush/Active bleeding) trong nhu mô thường xếp vào nguy cơ cao cần can thiệp mạch. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Hướng xử trí phù hợp nhất cho bệnh nhân này (Độ III, có thoát thuốc, huyết động ổn):",
+          "options": [
+            "Phẫu thuật cắt lách ngay lập tức",
+            "Điều trị bảo tồn không mổ (NOM) kèm chụp mạch nút mạch (Angioembolization)",
+            "Chỉ cần nằm nghỉ tại giường, không cần can thiệp gì",
+            "Truyền máu và mổ khi huyết áp tụt"
+          ],
+          "answer": 1,
+          "explain": "Xu hướng hiện đại: Bảo tồn lách tối đa. Huyết động ổn + có thoát thuốc trên CT -> Nút mạch (Angioembolization) cầm máu chọn lọc là ưu tiên để giữ lách. Chỉ mổ khi huyết động không ổn định hoặc can thiệp mạch thất bại. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Nếu phải cắt lách, bệnh nhân cần được tiêm vắc-xin để phòng ngừa nhiễm trùng hậu phẫu nguy hiểm do các vi khuẩn có vỏ bọc (như Phế cầu, Meningococcus, Hib). Tình trạng nhiễm trùng này gọi là:",
+          "options": [
+            "OPSI (Overwhelming Post-Splenectomy Infection)",
+            "Sepsis",
+            "Fournier gangrene",
+            "SIRS"
+          ],
+          "answer": 0,
+          "explain": "OPSI là nhiễm trùng tối cấp sau cắt lách, tử vong cao. Lách là cơ quan miễn dịch chính chống lại vi khuẩn có vỏ polysaccharide (Pneumococcus, Meningococcus, H. influenzae). Cần tiêm vắc-xin ngừa S. pneumoniae, H. influenzae, N. meningitidis. Nguồn: YHN_Ngoại Y6."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 45 tuổi tai nạn giao thông sốc mất máu",
+      "body": "<b>Bệnh sử:</b> Nữ, 45 tuổi, tai nạn giao thông xe ô tô đập bụng vào vô lăng. Nhập viện trong tình trạng lơ mơ, da xanh tái.<br><br><b>Khám lâm sàng:</b> Mạch 130 lần/phút, HA 60/40 mmHg. Bụng chướng căng, gõ đục vùng thấp (+). Siêu âm FAST tại cấp cứu: Có nhiều dịch tự do ổ bụng ở cả 3 khoang (Gan-thận, Lách-thận, Douglas). Bệnh nhân đã được đặt nẹp cố định khung chậu.",
+      "questions": [
+        {
+          "q": "Bước xử trí ĐẦU TIÊN theo nguyên tắc ATLS:",
+          "options": [
+            "Đẩy đi chụp CT scan đa dãy để tìm nguồn chảy máu",
+            "Hồi sức dịch/máu + Chuyển mổ thám sát cấp cứu ngay lập tức (Laparotomy)",
+            "Chọc rửa ổ bụng (DPL)",
+            "Chụp mạch can thiệp"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc sống còn: Chấn thương bụng kín + Huyết động không ổn định (Unstable) + FAST (+) -> MỔ NGAY. Tuyệt đối không đưa bệnh nhân sốc đi chụp CT (Tunnel of death). Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Mục tiêu chính của phẫu thuật trong tình huống này (Chấn thương bụng kín + Huyết động KHÔNG ỔN ĐỊNH) là gì?",
+          "options": [
+            "Phẫu thuật triệt để, sửa chữa mọi tổn thương giải phẫu hoàn hảo trong một lần mổ",
+            "Phẫu thuật kiểm soát tổn thương (Damage Control Surgery): Chỉ cầm máu và ngăn nhiễm bẩn",
+            "Cắt gan",
+            "Thăm dò xem có vỡ tạng không"
+          ],
+          "answer": 1,
+          "explain": "Damage Control Surgery (DCS) áp dụng cho bệnh nhân đa chấn thương nặng đe dọa tam chứng tử vong (Hypothermia, Acidosis, Coagulopathy). Mục tiêu: Cầm máu nhanh + Kiểm soát nhiễm khuẩn -> Đóng bụng tạm thời -> Hồi sức tích cực -> Mổ thì 2. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Trong mổ, phẫu thuật viên thấy gan vỡ nát nhiều mảnh (Độ V), máu chảy ồ ạt từ sâu trong nhu mô. Biện pháp cầm máu tạm thời nhanh nhất cần thực hiện là:",
+          "options": [
+            "Khâu nhu mô gan",
+            "Nhét gạc chèn ép quanh gan (Perihepatic packing)",
+            "Cắt thùy gan",
+            "Kẹp động mạch chủ bụng"
+          ],
+          "answer": 1,
+          "explain": "Packing (nhét gạc) là kỹ thuật chủ đạo của DCS để cầm máu gan vỡ nặng khi bệnh nhân rối loạn đông máu. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Nghiệm pháp Pringle (Kẹp cuống gan) giúp phân biệt chảy máu từ đâu?",
+          "options": [
+            "Phân biệt chảy máu từ Động mạch gan/Tĩnh mạch cửa vs Tĩnh mạch trên gan/Tĩnh mạch chủ dưới",
+            "Phân biệt chảy máu gan vs chảy máu lách",
+            "Phân biệt chảy máu đường mật vs mạch máu",
+            "Không có giá trị phân biệt"
+          ],
+          "answer": 0,
+          "explain": "Pringle maneuver (kẹp dây chằng gan - tá tràng): Chặn máu vào gan (ĐM gan, TM cửa). Nếu kẹp rồi mà gan vẫn chảy máu ồ ạt -> Máu chảy từ Tĩnh mạch gan (Hepatic veins) hoặc Tĩnh mạch chủ dưới (IVC). Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Tam chứng tử vong (Lethal Triad) cần phải tránh trong phẫu thuật kiểm soát tổn thương là:",
+          "options": [
+            "Hạ thân nhiệt - Toan chuyển hóa - Rối loạn đông máu",
+            "Tụt huyết áp - Mạch nhanh - Suy hô hấp",
+            "Suy thận - Suy gan - Suy tim",
+            "Nhiễm trùng - Chảy máu - Tắc mạch"
+          ],
+          "answer": 0,
+          "explain": "Tam chứng chết chóc: Hypothermia, Acidosis, Coagulopathy. Bệnh nhân đa chấn thương kiệt sức không chịu nổi cuộc mổ dài. Chỉ mổ cực ngắn để cứu mạng, hồi sức tốt mới mổ lại. Nguồn: YHN_Ngoại Y6."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi vết thương thấu bụng có mạc nối phòi ra",
+      "body": "<b>Bệnh sử:</b> Nam, 30 tuổi, bị đâm bằng dao nhọn vào vùng quanh rốn. Nhập viện tỉnh táo, huyết động ổn định (Mạch 85, HA 120/70).<br><br><b>Khám lâm sàng:</b> Vết thương dài 3cm, có MẠC NỐI LỚN PHÒI RA NGOÀI (Evisceration). Bụng mềm, chưa có phản ứng thành bụng lan tỏa.",
+      "questions": [
+        {
+          "q": "Thái độ xử trí đúng nhất với tạng phòi ra (mạc nối):",
+          "options": [
+            "Đẩy ngay mạc nối vào trong bụng và băng lại",
+            "Dùng gạc tẩm nước muối ấm đắp ướt lên tạng phòi, băng kín, không được tự ý đẩy vào",
+            "Cắt bỏ mạc nối ngay tại phòng cấp cứu",
+            "Chỉ cần băng khô"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc sơ cứu: Không đẩy tạng phòi vào (đưa vi khuẩn vào/gây tổn thương thêm). Đắp gạc ấm để giữ ẩm tạng. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Chỉ định điều trị cho bệnh nhân này:",
+          "options": [
+            "Mổ mở bụng thám sát ngay (Laparotomy)",
+            "Chụp CT scan để xem có thủng ruột không",
+            "Khâu vết thương tại chỗ và cho về theo dõi",
+            "Nội soi ổ bụng thám sát (nếu có điều kiện và kíp mổ giỏi) hoặc Mổ mở"
+          ],
+          "answer": 3,
+          "explain": "Vết thương thấu bụng có tạng phòi (Evisceration) là chỉ định tuyệt đối (hoặc rất mạnh) của mở bụng thám sát. Gần đây, Nội soi thám sát có thể áp dụng nếu huyết động ổn để tránh đường mổ lớn. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Dấu hiệu \"Tạng phòi ra ngoài\" (Evisceration) chứng tỏ điều gì?",
+          "options": [
+            "Chắc chắn có thủng tạng rỗng",
+            "Chắc chắn vết thương thấu bụng (Penetrating injury) - đã qua lá phúc mạc",
+            "Tiên lượng nhẹ",
+            "Không có ý nghĩa chẩn đoán"
+          ],
+          "answer": 1,
+          "explain": "Sự hiện diện của tạng trong ổ bụng (ruột, mạc nối) nằm ngoài vết thương là bằng chứng hiển nhiên phúc mạc đã bị xuyên thủng, khẳng định vết thương thấu bụng. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Nếu bệnh nhân này bị đâm ở vùng hông lưng (Back/Flank), huyết động ổn, không có tạng phòi. Phương tiện chẩn đoán hình ảnh tốt nhất để đánh giá đường đi của dao và tổn thương tạng sau phúc mạc là:",
+          "options": [
+            "Siêu âm",
+            "CT scan bụng có thuốc cản quang (Triple contrast nếu cần)",
+            "DPL",
+            "MRI"
+          ],
+          "answer": 1,
+          "explain": "Vết thương vùng lưng/hông rất khó đánh giá bằng khám lâm sàng (cơ dày). CT scan ba thuốc cản quang (uống, tiêm, thụt) có độ nhạy cao nhất để xác định tổn thương sau phúc mạc. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Kháng sinh dự phòng cho vết thương thấu bụng nên:",
+          "options": [
+            "Dùng kéo dài 7-10 ngày",
+            "Chỉ dùng 1 liều duy nhất trước mổ",
+            "Dùng phổ rộng (Gram âm, Kỵ khí, Gram dương) trong vòng 24 giờ",
+            "Không cần dùng nếu không sốt"
+          ],
+          "answer": 2,
+          "explain": "Guideline EAST/WSES: Kháng sinh dự phòng vết thương bụng chỉ cần dùng trong 24h (ngừng sau mổ nếu không có tổn thương ruột nặng), phổ rộng bao phủ vi khuẩn đường ruột. Dùng kéo dài không giảm nhiễm trùng mà tăng kháng thuốc. Nguồn: YHN_Ngoại Y6."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 16 tuổi tai nạn xe đạp chấn thương thượng vị",
+      "body": "<b>Bệnh sử:</b> Nam, 16 tuổi, đi xe đạp va mạnh ghi-đông (tay lái) vào vùng thượng vị. Bệnh nhân đau bụng âm ỉ, về nhà ngủ. Sáng hôm sau (giờ thứ 18), đau bụng tăng lên dữ dội, sốt 38.5°C.<br><br><b>Khám lâm sàng:</b> Bụng co cứng, cảm ứng phúc mạc rõ.<br><br><b>Xét nghiệm:</b> Bạch cầu 18 G/L. CT scan: Có dịch tự do ổ bụng lượng vừa, có ít khí tự do, KHÔNG thấy vỡ tạng đặc (Gan/Lách nguyên vẹn).",
+      "questions": [
+        {
+          "q": "Cơ chế chấn thương do tay lái xe (Handlebar injury) thường gây tổn thương đặc trưng nào?",
+          "options": [
+            "Vỡ bàng quang",
+            "Vỡ tạng rỗng (Hỗng tràng/Đoạn D2-D3 Tá tràng) hoặc dập tụy do ép vào cột sống",
+            "Vỡ gan",
+            "Vỡ lách"
+          ],
+          "answer": 1,
+          "explain": "\"Handlebar injury\": Lực khu trú mạnh ép tạng vào cột sống -> Dễ gây vỡ Tá tràng, Tụy, hoặc Hỗng tràng đoạn đầu. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Dấu hiệu CT scan \"Có dịch tự do ổ bụng mà KHÔNG thấy tổn thương tạng đặc\" ở bệnh nhân chấn thương bụng kín gợi ý mạnh mẽ đến:",
+          "options": [
+            "Vỡ bàng quang",
+            "Vỡ tạng rỗng (ruột non/mạc treo)",
+            "Chấn thương phần mềm thành bụng",
+            "Tổn thương mạch máu lớn"
+          ],
+          "answer": 1,
+          "explain": "\"Free fluid without solid organ injury\" trên CT là dấu hiệu gián tiếp kinh điển của tổn thương ruột/mạc treo. Độ đặc hiệu rất cao. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Tại sao tổn thương ruột non/tá tràng thường dễ bị bỏ sót trong giai đoạn đầu?",
+          "options": [
+            "Do dịch tiêu hóa ở ruột non tương đối vô khuẩn và trung tính, ít gây kích thích phúc mạc ngay lập tức",
+            "Do ruột non nằm sâu",
+            "Do bệnh nhân trẻ khỏe",
+            "Do siêu âm không thấy"
+          ],
+          "answer": 0,
+          "explain": "Dịch ruột non ít vi khuẩn hơn đại tràng, pH trung tính hơn dịch dạ dày -> Viêm phúc mạc xuất hiện muộn (sau 12-24h). Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Đối với vỡ tá tràng (đặc biệt đoạn sau phúc mạc), dấu hiệu X-quang/CT đặc hiệu là:",
+          "options": [
+            "Liềm hơi dưới hoành",
+            "Hơi quanh thận phải hoặc dọc cơ thắt lưng chậu (Hơi sau phúc mạc)",
+            "Mức nước hơi",
+            "Dịch ổ bụng"
+          ],
+          "answer": 1,
+          "explain": "Tá tràng D2-D3 nằm sau phúc mạc -> Vỡ sẽ xì hơi ra khoang sau phúc mạc (quanh thận phải), hiếm khi thấy liềm hơi dưới hoành. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Xử trí trường hợp này:",
+          "options": [
+            "Điều trị bảo tồn kháng sinh",
+            "Mổ cấp cứu thám sát (Mở hoặc Nội soi)",
+            "Chọc hút dịch",
+            "Theo dõi tiếp"
+          ],
+          "answer": 1,
+          "explain": "Có viêm phúc mạc + Dấu hiệu gợi ý vỡ tạng rỗng trên CT -> Chỉ định mổ tuyệt đối. Nguồn: YHN_Ngoại Y6."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 22 tuổi tai nạn xe máy chấn thương khung chậu",
+      "body": "<b>Bệnh sử:</b> Nam, 22 tuổi, bị tai nạn xe máy, đập vùng chậu xuống đường. Vào viện tỉnh, đau nhiều vùng chậu, không đứng dậy được. Có máu chảy ra ở miệng sáo (niệu đạo), cầu bàng quang (-).<br><br><b>Xét nghiệm:</b> X-quang khung chậu: Gãy ngành ngồi mu 2 bên.",
+      "questions": [
+        {
+          "q": "Dấu hiệu \"Chảy máu miệng sáo\" (Blood at the meatus) ở bệnh nhân chấn thương khung chậu là chống chỉ định của thủ thuật nào?",
+          "options": [
+            "Thăm trực tràng",
+            "Đặt thông tiểu Foley qua niệu đạo (khi chưa loại trừ đứt niệu đạo)",
+            "Siêu âm",
+            "Chụp CT"
+          ],
+          "answer": 1,
+          "explain": "Chảy máu miệng sáo + Gãy khung chậu -> Nguy cơ cao đứt niệu đạo. Đặt sonde mù sẽ làm tổn thương nặng thêm hoặc tạo đường giả. Cần chụp RUG trước. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Để chẩn đoán chấn thương niệu đạo/bàng quang, cần thực hiện:",
+          "options": [
+            "Cố đặt thông tiểu nhẹ nhàng",
+            "Chụp niệu đạo - bàng quang ngược dòng (Retrograde Urethrocystogram)",
+            "Soi bàng quang ngay",
+            "Chọc dẫn lưu bàng quang trên mu ngay"
+          ],
+          "answer": 1,
+          "explain": "Bơm thuốc cản quang ngược dòng để khảo sát sự toàn vẹn của đường tiết niệu dưới. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Nếu phim chụp bàng quang có thuốc cản quang trào ra khoang quanh bàng quang (dưới phúc mạc), hình ảnh \"giọt nước mắt\" hoặc \"răng hàm\". Chẩn đoán là:",
+          "options": [
+            "Vỡ bàng quang trong phúc mạc",
+            "Vỡ bàng quang ngoài phúc mạc",
+            "Đứt niệu đạo màng",
+            "Đứt niệu đạo trước"
+          ],
+          "answer": 1,
+          "explain": "Vỡ ngoài phúc mạc (Extraperitoneal): Thuốc lan tỏa ở khoang Retzius, quanh bàng quang, không len lỏi giữa các quai ruột. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Thái độ xử trí chuẩn với Vỡ bàng quang NGOÀI phúc mạc đơn thuần:",
+          "options": [
+            "Mổ mở khâu lỗ vỡ",
+            "Điều trị bảo tồn: Đặt thông tiểu lưu (Foley) dẫn lưu bàng quang liên tục 10-14 ngày + Kháng sinh",
+            "Mổ nội soi",
+            "Dẫn lưu bàng quang trên mu"
+          ],
+          "answer": 1,
+          "explain": "Vỡ ngoài phúc mạc thường tự liền nếu được dẫn lưu tốt bằng sonde tiểu (giữ bàng quang xẹp) trong 2 tuần. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Thái độ xử trí chuẩn với Vỡ bàng quang TRONG phúc mạc:",
+          "options": [
+            "Điều trị bảo tồn bằng sonde tiểu",
+            "Phẫu thuật khâu lỗ vỡ (qua nội soi hoặc mổ mở)",
+            "Chọc hút dịch ổ bụng",
+            "Chỉ dùng kháng sinh"
+          ],
+          "answer": 1,
+          "explain": "Vỡ trong phúc mạc (Intraperitoneal): Nước tiểu chảy vào ổ bụng gây viêm phúc mạc giả/hấp thu độc tố -> Bắt buộc phải mổ khâu. Nguồn: YHN_Ngoại Y6."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi vết thương hỏa khí xuyên thấu bụng",
+      "body": "<b>Bệnh sử:</b> Nam, 40 tuổi, bị bắn bằng súng (hỏa khí). Lỗ vào ở mạng sườn phải, lỗ ra ở mông phải. Huyết động: Mạch 110, HA 90/60. Bụng mềm, ấn đau vùng hố chậu phải.<br><br><b>Xét nghiệm:</b> Nước tiểu có màu hồng.",
+      "questions": [
+        {
+          "q": "Đặc điểm quan trọng của vết thương hỏa khí (Gunshot wound - GSW) khác với dao đâm:",
+          "options": [
+            "Năng lượng cao, tổn thương lan rộng xung quanh đường đạn (hiệu ứng khoang), đường đi khó dự đoán",
+            "Ít nguy cơ nhiễm trùng hơn",
+            "Luôn đi theo đường thẳng",
+            "Ít gây tổn thương tạng rỗng"
+          ],
+          "answer": 0,
+          "explain": "Hiệu ứng bùng nổ (Blast effect) gây hoại tử mô xa hơn đường hầm của đạn. Mảnh đạn có thể nảy đổi hướng (Ricochet). Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Với vết thương thấu bụng do hỏa khí, tỉ lệ có tổn thương tạng trong ổ bụng cần phẫu thuật là bao nhiêu?",
+          "options": [
+            "< 30%",
+            "50%",
+            "> 90%",
+            "10%"
+          ],
+          "answer": 2,
+          "explain": "GSW xuyên phúc mạc có tỷ lệ tổn thương tạng rất cao (>90-95%) so với dao đâm (~30-50%). Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Thái độ xử trí với Vết thương hỏa khí xuyên thấu bụng:",
+          "options": [
+            "Theo dõi sát, chỉ mổ khi có dấu hiệu viêm phúc mạc",
+            "Hầu hết (Classic teaching) đều có chỉ định Mở bụng thám sát (Laparotomy), trừ một số trường hợp rất chọn lọc ở trung tâm lớn",
+            "Chỉ chụp CT và điều trị bảo tồn",
+            "Khâu lỗ vào và lỗ ra"
+          ],
+          "answer": 1,
+          "explain": "Vì tỷ lệ tổn thương cao và phức tạp, Mổ mở thám sát là tiêu chuẩn xử trí truyền thống. Gần đây, tiếp cận bảo tồn chọn lọc SNOM có thể áp dụng nếu CT bình thường và theo dõi sát, nhưng mổ vẫn là an toàn nhất ở tuyến cơ sở. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Nước tiểu màu hồng gợi ý tổn thương cơ quan nào trên đường đi của đạn?",
+          "options": [
+            "Gan",
+            "Thận phải hoặc Niệu quản phải",
+            "Đại tràng",
+            "Ruột thừa"
+          ],
+          "answer": 1,
+          "explain": "Đái máu (Hematuria) gợi ý tổn thương hệ tiết niệu. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Trong mổ chấn thương đại tràng do hỏa khí (tổn thương nát rộng), phương án an toàn nhất thường là:",
+          "options": [
+            "Khâu kín lỗ thủng",
+            "Cắt đoạn đại tràng và nối ngay",
+            "Cắt đoạn đại tràng và làm hậu môn nhân tạo (Hartmann's procedure)",
+            "Cắt toàn bộ đại tràng"
+          ],
+          "answer": 2,
+          "explain": "Tổn thương do hỏa khí là tổn thương năng lượng cao, bầm dập, nguy cơ xì rò cao. Hậu môn nhân tạo là lựa chọn an toàn (Damage control) thay vì nối ngay trong môi trường nhiễm bẩn. Nguồn: YHN_Ngoại Y6."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi Damage Control phẫu thuật - Hội chứng khoang bụng",
+      "body": "<b>Bệnh sử:</b> Nam, 50 tuổi, tai nạn giao thông, Chấn thương gan độ IV, sốc mất máu nặng đã được phẫu thuật Damage Control (nhét gạc cầm máu - packing) và hồi sức truyền 10 đơn vị máu, 5 lít dịch tinh thể.<br><br><b>Khám lâm sàng tại ICU (6 giờ sau mổ):</b> Bệnh nhân vô niệu, bụng chướng căng, HA tụt 80/50 mmHg mặc dù đang dùng vận mạch. Áp lực đường thở (Peak inspiratory pressure) tăng cao > 35 cmH2O.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất:",
+          "options": [
+            "Sốc nhiễm khuẩn",
+            "Hội chứng khoang bụng (Abdominal Compartment Syndrome - ACS)",
+            "Suy tim cấp",
+            "Tràn khí màng phổi áp lực"
+          ],
+          "answer": 1,
+          "explain": "Tam chứng: Bụng căng cứng + Suy hô hấp (áp lực đẩy cơ hoành lên) + Suy thận/Tụt áp sau hồi sức dịch lượng lớn -> ACS. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Tiêu chuẩn chẩn đoán Hội chứng khoang bụng:",
+          "options": [
+            "Áp lực ổ bụng (IAP) > 12 mmHg",
+            "IAP > 20 mmHg KÈM THEO rối loạn chức năng tạng mới xuất hiện (Suy thận, suy hô hấp, tụt huyết áp)",
+            "Bụng chướng căng",
+            "Không đi ngoài được"
+          ],
+          "answer": 1,
+          "explain": "Theo định nghĩa WSES: IAP > 20 mmHg + Organ dysfunction (New onset). Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Phương pháp đo áp lực ổ bụng gián tiếp đơn giản nhất là qua:",
+          "options": [
+            "Dạ dày",
+            "Bàng quang (đo áp lực bàng quang)",
+            "Tĩnh mạch chủ dưới",
+            "Trực tràng"
+          ],
+          "answer": 1,
+          "explain": "Đo qua ống thông tiểu (Foley) là tiêu chuẩn: Bơm 25ml nước muối, đo cột nước so với khớp mu. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Sinh lý bệnh của ACS gây suy thận (thiểu niệu/vô niệu) là do:",
+          "options": [
+            "Chèn ép trực tiếp nhu mô thận và Tĩnh mạch thận làm giảm dòng máu tới thận, giảm mức lọc cầu thận",
+            "Tắc niệu quản",
+            "Vỡ bàng quang",
+            "Thiếu nước"
+          ],
+          "answer": 0,
+          "explain": "Áp lực ổ bụng tăng ép vào tĩnh mạch thận (sức cản ngoại biên tăng) làm giảm tưới máu thận (Renal perfusion pressure = MAP - IAP). Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Xử trí BẮT BUỘC và CẤP CỨU cho hội chứng khoang bụng (ACS):",
+          "options": [
+            "Dùng thuốc lợi tiểu",
+            "Chọc hút dịch ổ bụng",
+            "Mở bụng giải áp (Decompressive Laparotomy) và để hở bụng (Open abdomen)",
+            "Thở máy PEEP cao"
+          ],
+          "answer": 2,
+          "explain": "ACS là cấp cứu tối khẩn. Phải mở bụng ngay để tạng \"bung\" ra, giải phóng áp lực chèn ép, nếu không bệnh nhân sẽ tử vong do suy đa tạng. Nguồn: YHN_Ngoại Y6."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 30 tuổi vết thương bạch khí thành bụng trước",
+      "body": "<b>Bệnh sử:</b> Nữ, 30 tuổi, bị đâm vào hố chậu phải. Khám thấy vết thương nhỏ 1cm, mạc cân cơ thành bụng có vẻ bị thủng, không rõ đã vào phúc mạc hay chưa. Bệnh nhân tỉnh, bụng mềm, ấn đau nhẹ tại vết thương, không có phản ứng thành bụng.<br><br><b>Huyết động:</b> Mạch 80, HA 120/70.",
+      "questions": [
+        {
+          "q": "Đối với vết thương bạch khí (dao đâm) thành bụng trước ở bệnh nhân ổn định, phương pháp thăm dò tại chỗ (Local Wound Exploration - LWE) có giá trị gì?",
+          "options": [
+            "Để khâu vết thương",
+            "Để xác định xem vết thương đã đâm thủng lớp cân cơ vào phúc mạc hay chưa",
+            "Để cắt lọc",
+            "Không nên làm vì gây đau"
+          ],
+          "answer": 1,
+          "explain": "LWE (gây tê tại chỗ, mở rộng vết thương kiểm tra lớp cân) giúp loại trừ vết thương thấu bụng. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Nếu thăm dò thấy đáy vết thương chưa qua lớp cân cơ (cân còn nguyên vẹn), xử trí là:",
+          "options": [
+            "Khâu da, cho về, không cần nhập viện",
+            "Chụp CT scan",
+            "Mở bụng thám sát",
+            "Nội soi ổ bụng"
+          ],
+          "answer": 0,
+          "explain": "Nếu cân chưa thủng -> Chắc chắn không tổn thương tạng -> Xử trí như vết thương phần mềm. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Nếu thăm dò thấy vết thương đã xuyên qua cân cơ và phúc mạc (vi phạm phúc mạc), nhưng bệnh nhân hoàn toàn không đau bụng, CT scan bình thường. Hướng xử trí hiện đại:",
+          "options": [
+            "Mở bụng thám sát ngay",
+            "Nhập viện theo dõi sát lâm sàng (Serial Clinical Examination) mỗi 4-6 giờ trong 24 giờ. Nếu bụng đau lên thì mổ.",
+            "Cho về ngay",
+            "Dùng kháng sinh 7 ngày"
+          ],
+          "answer": 1,
+          "explain": "Xu hướng \"Selective Non-Operative Management\" (SNOM) cho vết thương dao đâm: Nếu thấu bụng nhưng không có dấu hiệu viêm phúc mạc/sốc/chảy máu/phòi tạng -> Có thể theo dõi sát. Tỷ lệ mổ trắng nếu mổ tất cả là rất cao. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Vị trí nào của vết thương bụng có nguy cơ tổn thương cơ hoành cao nhất?",
+          "options": [
+            "Từ khoang liên sườn 4 xuống đến bờ sườn (Vùng Thoraco-abdominal)",
+            "Hố chậu",
+            "Quanh rốn",
+            "Hạ vị"
+          ],
+          "answer": 0,
+          "explain": "Vùng chuyển tiếp ngực bụng (Thoraco-abdominal area). Dao đâm vào đây có thể xuyên qua ngực, qua cơ hoành xuống bụng. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Tại sao tổn thương cơ hoành trái do dao đâm thường KHÔNG tự liền và cần phải khâu?",
+          "options": [
+            "Do áp lực dương của ổ bụng và áp lực âm của lồng ngực sẽ hút tạng lên ngực gây Thoát vị hoành nghẹt sau này",
+            "Do cơ hoành không có mạch máu",
+            "Do cơ hoành vận động liên tục",
+            "Do nguy cơ nhiễm trùng"
+          ],
+          "answer": 0,
+          "explain": "Lỗ thủng cơ hoành nhỏ bên trái thường không tự bít mà ngày càng rộng ra do chênh lệch áp lực, dẫn đến thoát vị dạ dày/đại tràng lên ngực gây nghẹt ruột sau nhiều năm. Nguồn: YHN_Ngoại Y6."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 18 tuổi chấn thương thận độ IV",
+      "body": "<b>Bệnh sử:</b> Nam, 18 tuổi, tai nạn giao thông, chấn thương thận phải độ IV (vỡ nhu mô lan tới rốn thận, có tụ máu quanh thận lớn). Huyết động ổn định sau truyền 2 đơn vị máu.<br><br><b>Xét nghiệm:</b> CT scan có hình ảnh thoát thuốc cản quang (Contrast extravasation).",
+      "questions": [
+        {
+          "q": "Xử trí ưu tiên cho chấn thương thận độ IV, huyết động ổn định:",
+          "options": [
+            "Mổ mở cắt thận cấp cứu",
+            "Can thiệp mạch (Angioembolization) để cầm máu",
+            "Theo dõi đơn thuần",
+            "Khâu bảo tồn thận"
+          ],
+          "answer": 1,
+          "explain": "Huyết động ổn + Thoát thuốc -> Can thiệp mạch (Angio) hiệu quả cao, bảo tồn được thận. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Chỉ định TUYỆT ĐỐI của phẫu thuật mở trong chấn thương thận:",
+          "options": [
+            "Đái máu nhiều",
+            "Chấn thương thận kèm huyết động không ổn định (Sốc) đe dọa tính mạng mà không đáp ứng hồi sức",
+            "Tụ máu quanh thận lớn",
+            "Thoát nước tiểu (Urinoma)"
+          ],
+          "answer": 1,
+          "explain": "Chỉ mổ cắt thận khi bệnh nhân SỐC mất máu do thận. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Biến chứng muộn thường gặp sau chấn thương thận cần theo dõi:",
+          "options": [
+            "Tăng huyết áp (do hẹp động mạch thận/thiếu máu thận)",
+            "Suy gan",
+            "Đái tháo đường",
+            "Sỏi mật"
+          ],
+          "answer": 0,
+          "explain": "Thận thiếu máu cục bộ sẽ kích hoạt hệ Renin-Angiotensin gây Tăng huyết áp thứ phát (Renovascular hypertension). Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Trong chấn thương cuống mạch thận, thời gian vàng để tái tưới máu (phẫu thuật nối mạch) cứu quả thận là khoảng bao lâu?",
+          "options": [
+            "< 24 giờ",
+            "< 6-12 giờ (càng sớm càng tốt)",
+            "48 giờ",
+            "1 tuần"
+          ],
+          "answer": 1,
+          "explain": "Thận chịu thiếu máu nóng rất kém, sau 6h tổn thương thường không hồi phục. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "\"Khối máu tụ sau phúc mạc\" vùng 2 (vùng hông - thận) do cơ chế chấn thương kín, nếu không lan rộng, không đập theo nhịp mạch. Xử trí trong lúc mổ bụng vì nguyên nhân khác là:",
+          "options": [
+            "Bắt buộc mở khối máu tụ ra kiểm tra",
+            "Không mở khối máu tụ (để nguyên) để tránh làm mất hiệu ứng chèn ép cầm máu (Tamponade effect)",
+            "Chọc hút khối máu tụ",
+            "Cắt thận ngay"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc xử trí máu tụ sau phúc mạc (Retroperitoneal Hematoma) trong chấn thương kín: Vùng 1 (trung tâm - mạch lớn) -> Luôn mở kiểm tra. Vùng 2 (thận) & Vùng 3 (tiểu khung) -> Nếu không lan rộng/không đập -> KHÔNG MỞ (để khối máu tụ tự chèn ép cầm máu). Nguồn: YHN_Ngoại Y6."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi vỡ tá tràng đến muộn",
+      "body": "<b>Bệnh sử:</b> Nam, 35 tuổi, chấn thương bụng kín vỡ tá tràng D2 đến muộn (ngày thứ 3). Bệnh nhân sốt cao, vẻ mặt nhiễm trùng nhiễm độc.<br><br><b>Xét nghiệm:</b> CT scan thấy khí và dịch quanh thận phải, lan xuống rãnh đại tràng. Trong mổ thấy tổ chức tá tràng mủn nát, viêm tấy mủ diện rộng sau phúc mạc.",
+      "questions": [
+        {
+          "q": "Đặc điểm giải phẫu nào của tá tràng làm cho tổn thương ở đây rất nguy hiểm và khó liền?",
+          "options": [
+            "Mạch máu nuôi kém, chịu tác động của dịch mật và dịch tụy (ăn mòn), áp lực trong lòng ruột cao",
+            "Thành tá tràng rất mỏng",
+            "Tá tràng di động nhiều",
+            "Không có thanh mạc"
+          ],
+          "answer": 0,
+          "explain": "Tá tràng nhận dịch tụy (men tiêu protein) và mật. Khi vỡ, men tụy hoạt hóa ăn mòn mô xung quanh -> Khó liền, dễ rò, nhiễm trùng hoại tử lan rộng. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Đối với vỡ tá tràng đến muộn, tổ chức viêm mủn, việc khâu kín lỗ thủng đơn thuần có nguy cơ gì cao nhất?",
+          "options": [
+            "Hẹp tá tràng",
+            "Bục chỉ (Dehiscence) gây rò tá tràng (Duodenal fistula) - biến chứng tử vong cao",
+            "Chảy máu",
+            "Tắc ruột"
+          ],
+          "answer": 1,
+          "explain": "Khâu trên nền tổ chức viêm mủn nát chắc chắn sẽ bục -> Rò tá tràng (tỷ lệ tử vong 20-30% do mất dịch, điện giải và nhiễm khuẩn). Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Phẫu thuật \"Loại trừ môn vị\" (Pyloric Exclusion) được áp dụng nhằm mục đích gì?",
+          "options": [
+            "Cắt bỏ môn vị",
+            "Đóng kín môn vị (bằng chỉ hoặc stapler) + Nối vị tràng -> Để thức ăn không đi qua tá tràng, giúp vết khâu tá tràng được nghỉ ngơi và liền sẹo",
+            "Mở rộng môn vị",
+            "Dẫn lưu dịch dạ dày"
+          ],
+          "answer": 1,
+          "explain": "Pyloric Exclusion: Cô lập tá tràng tạm thời. Thức ăn đi thẳng từ dạ dày xuống hỗng tràng, không qua chỗ vỡ tá tràng. Môn vị sẽ tự mở lại sau 3-4 tuần. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Một biện pháp dẫn lưu quan trọng cần làm trong mổ tổn thương tá tràng phức tạp là:",
+          "options": [
+            "Dẫn lưu túi mật",
+            "Dẫn lưu tá tràng qua lỗ thủng (Tube duodenostomy) hoặc Dẫn lưu cạnh tá tràng thật tốt",
+            "Dẫn lưu bàng quang",
+            "Dẫn lưu lồng ngực"
+          ],
+          "answer": 1,
+          "explain": "Tạo đường rò có kiểm soát (Tube duodenostomy) an toàn hơn là cố khâu kín để rồi bục ra không kiểm soát. Nguồn: YHN_Ngoại Y6."
+        },
+        {
+          "q": "Tam chứng kinh điển (nhưng hiếm gặp đầy đủ) của vỡ tạng rỗng sau phúc mạc:",
+          "options": [
+            "Đau lan ra sau lưng + Tràn khí dưới da/sau phúc mạc + Nôn máu",
+            "Sốt + Vàng da + Đau bụng",
+            "Đau bụng + Bí trung đại tiện + Chướng bụng",
+            "Sốc + Lơ mơ + Vã mồ hôi"
+          ],
+          "answer": 0,
+          "explain": "Tràn khí dưới da/sau phúc mạc là dấu hiệu gợi ý vỡ tạng sau phúc mạc (khí len lỏi qua các lớp cân cơ). Nguồn: YHN_Ngoại Y6."
+        }
+      ]
+    }
+  ]
+}
