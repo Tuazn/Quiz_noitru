@@ -1,0 +1,610 @@
+{
+  "name": "Sinh lý Hô hấp",
+  "description": "Bộ câu hỏi trắc nghiệm tự lượng giá Sinh lý Hô hấp dành cho ôn thi Bác sĩ Nội trú.",
+  "level": "Ôn thi nội trú",
+  "type": "mcq",
+  "category": "Cơ sở",
+  "subcategory": "Sinh lý",
+  "questions": [
+    {
+      "q": "Một phụ nữ 22 tuổi hít vào hết mức có thể rồi thở ra hết mức có thể trên phế dung kế, ghi được: thể tích dự trữ hít vào (IRV)=2400 ml, thể tích khí lưu thông (VT)=500 ml, thể tích dự trữ thở ra (ERV) =1000 ml. Thể tích khí cặn (RV) của cô ấy được xác định bằng kỹ thuật pha loãng heli là 1200 ml. Dung tích cặn chức năng (FRC) của cô ấy là bao nhiêu?",
+      "options": [
+        "1,0 lít",
+        "1,2 lít",
+        "2,2 lít",
+        "3,9 lít",
+        "5,1 lít"
+      ],
+      "answer": 2,
+      "explain": "FRC = ERV + RV = 1000 + 1200 = 2200 ml = 2,2 lít. (TLC nếu được hỏi thêm = IRV+VT+ERV+RV = 5100 ml)."
+    },
+    {
+      "q": "Một nam giới 30 tuổi khoẻ mạnh được đo phế dung: dung tích sống (VC)=4800 ml, thể tích khí cặn (RV)=1200 m, thể tích dự trữ thở ra (ERV)=1100 ml. Dung tích hít vào (IC) của người này là bao nhiêu?",
+      "options": [
+        "1100 ml",
+        "2500 ml",
+        "3700 ml",
+        "4800 ml",
+        "6000 ml"
+      ],
+      "answer": 2,
+      "explain": "IC = VC - ERV = 4800 - 1100 = 3700 ml (vì VC = IRV+VT+ERV = IC+ERV)."
+    },
+    {
+      "q": "Một bệnh nhân nam 65 tuổi, hút thuốc lá 40 năm, đo chức năng hô hấp: FVC=3,0 lít, FEV1=1,2 lít. Chỉ số Tiffeneau (FEV1/FVC) và kiểu rối loạn thông khí phù hợp nhất là?",
+      "options": [
+        "75% rối loạn thông khí hạn chế",
+        "40% rối loạn thông khí tắc nghẽn",
+        "90% bình thường",
+        "40% rối loạn thông khí hạn chế",
+        "75% rối loạn thông khí tắc nghẽn"
+      ],
+      "answer": 1,
+      "explain": "FEV1/FVC = 1,2 / 3,0 = 40% (<70-75%) → rối loạn thông khí TẮC NGHẼN, phù hợp bệnh cảnh COPD ở người hút thuốc lâu năm."
+    },
+    {
+      "q": "Một bệnh nhân nữ 50 tuổi bị xơ phối vô căn, đo chức năng hô hấp: FVC=2,0 lít (giảm so với dự đoán), FEV1=1,8 lít. Chỉ số FEV1/FVC=90%. Kết quả này phù hợp với kiểu rối loạn thông khí nào?",
+      "options": [
+        "Tắc nghẽn do co thắt phế quản",
+        "Tắc nghẽn do mất đàn hồi phổi",
+        "Hạn chế do giảm độ giãn nở phối",
+        "Hỗn hợp tắc nghẽn và hạn chế",
+        "Bình thường, không có rối loạn"
+      ],
+      "answer": 2,
+      "explain": "FVC giảm nhưng FEV1/FVC bình thường/tăng (90%) là kiểu hình kinh điển của rối loạn thông khí HẠN CHẾ (xơ phổi làm giảm độ giãn nở, TLC/VC giảm)."
+    },
+    {
+      "q": "Hai người có cùng thông khí phút là 6000 ml/phút và cùng khoảng chết giải phẫu 150 ml. Người A thở nhanh - nông: tần số 30 lần/phút, VT=200 ml. Người B thở chậm - sâu: tần số 10 lần/phút, VT=600 ml. Người nào có thông khí phế nang hiệu quả hơn?",
+      "options": [
+        "Người A, vì tần số thở nhanh hơn giúp đổi mới khí phế nang nhanh hơn",
+        "Người B, vì tỷ lệ khoảng chết thể tích lưu thông thấp hơn nên thông khí phế nang lớn hơn",
+        "Cả hai như nhau vì thông khí phút bằng nhau",
+        "Người A, vì tổng lượng khí khoảng chết mỗi phút thấp hơn",
+        "Không thể xác định nếu thiếu thông tin về dung tích sống"
+      ],
+      "answer": 1,
+      "explain": "VA(A) = 30 × (200 - 150) = 1500 ml/phút. VA(B) = 10 × (600 - 150) = 4500 ml/phút. Dù thông khí phút bằng nhau (6000 ml/phút), thở chậm-sâu (B) cho thông khí phế nang hiệu quả hơn nhiều vì tỷ lệ khoảng chết/VT thấp hơn."
+    },
+    {
+      "q": "Một bệnh nhân nghi thuyên tắc động mạch phổi được đo khí máu và khí thở ra: PaCO2=40 mmHg, phân áp CO2 trung bình trong khí thở ra (PECO2)=20 mmHg, thể tích khí lưu thông = 500 ml. Áp dụng phương trình Bohr, khoảng chết sinh lý của bệnh nhân này là bao nhiêu?",
+      "options": [
+        "50 ml",
+        "100 ml",
+        "150 ml",
+        "250 ml",
+        "400 ml"
+      ],
+      "answer": 3,
+      "explain": "VD/VT = (PaCO2 - PECO2) / PaCO2 = (40 - 20) / 40 = 0,5. VD = 0,5 × 500 = 250 ml tăng, phù hợp thuyên tắc phối làm tăng khoảng chết sinh lý."
+    },
+    {
+      "q": "Một bệnh nhân nam 25 tuổi bị đâm dao vào ngực, được chẩn đoán tràn khí màng phổi bên trái gây xẹp phổi hoàn toàn. Cơ chế sinh lý trực tiếp gây xẹp phổi trong trường hợp này là gì?",
+      "options": [
+        "Sức cản đường thở tăng đột ngột do co thắt phế quản phản xạ",
+        "Áp suất khoang màng phổi trở nên bằng áp suất khí quyển, mất lực kéo giữ phổi nở ra",
+        "Surfactant bị bất hoạt cấp tính do máu trản vào khoang màng phổi",
+        "Tăng áp lực mao mạch phối gây phù phổi cấp",
+        "Thần kinh hoành bị tổn thương làm liệt cơ hoành"
+      ],
+      "answer": 1,
+      "explain": "Khi khoang màng phổi thông với khí trời, áp suất màng phổi mất tính âm và bằng áp suất khí quyển, làm mất lực “kéo căng” chống lại xu hướng co hồi đản hồi tự nhiên của phối phổi xẹp lai."
+    },
+    {
+      "q": "Một trẻ sinh non 28 tuần tuổi thai xuất hiện thở rên, co kéo cơ hô hấp phụ, và trên X-quang có hình ảnh phối mở dạng lưới hạt. Theo định luật Laplace (Áp suất = 2 × sức căng bề mặt / bán kính), thiếu hụt surfactant làm tăng nguy cơ xẹp phế nang chủ yếu vì lý do nào?",
+      "options": [
+        "Phế nang có bán kính lớn nên áp suất xẹp tăng lên tương ứng",
+        "Sức căng bề mặt không đổi nhưng bán kính phế nang nhỏ làm áp suất xẹp phế nang tăng cao mà không có surfactant để bù trừ",
+        "Surfactant làm tăng sức căng bề mặt để giữ phế nang mở",
+        "Thiếu surfactant làm tăng độ giãn nở phối quá mức gây vỡ phế nang",
+        "Thiếu surfactant làm giảm sức cản đường thở gây xẹp phế nang"
+      ],
+      "answer": 1,
+      "explain": "Áp suất = 2 × sức căng bề mặt / bán kính; khi thiếu surfactant, sức căng bề mặt cao và không được bù trừ, đặc biệt phế nang có bán kính nhỏ (trẻ non tháng) sẽ có áp suất xẹp rất lớn."
+    },
+    {
+      "q": "Một bệnh nhân hen phế quản cấp có tiếng khò khè rõ ở thì thở ra. Sức cản đường thở trong cơn hen tăng cao nhất chủ yếu tại vị trí giải phẫu nào, và tại sao?",
+      "options": [
+        "Khí quản, vì đây là nơi có sụn hình vòng cố định",
+        "Tiểu phế quản tận, vì số lượng ít nên mỗi đường dẫn khí chịu lưu lượng lớn",
+        "Các phế quản cỡ vừa gần khí quản, vì số lượng đường dẫn khí song song ở đây ít hơn nhiều so với tiểu phế quản tận",
+        "Phế nang, vì đây là nơi diện tích bề mặt lớn nhất",
+        "Thanh quản, vì đây là nơi hẹp nhất của toàn bộ đường thở"
+      ],
+      "answer": 2,
+      "explain": "Sức cản đường thở lớn nhất nằm ở các phế quản cỡ vừa gần khí quản, do số lượng đường dẫn khí song song ở đây ít hơn nhiều so với ~65.000 tiểu phế quản tận."
+    },
+    {
+      "q": "Một bệnh nhân COPD giai đoạn nặng thường tự thở chúm môi (pursed-lip breathing) khi khó thở. Lợi ích sinh lý chính của động tác này là gì?",
+      "options": [
+        "Làm giảm sức cản đường thở ở tiểu phế quản tận",
+        "Tăng áp suất trong đường thở ở thì thở ra, hạn chế xẹp động học của tiểu phế quản",
+        "Tăng thông khí phế nang bằng cách tăng tần số thở",
+        "Kích thích trung tâm hô hấp tăng đáp ứng với CO2",
+        "Làm tăng surfactant tiết ra từ tế bào phế nang týp II"
+      ],
+      "answer": 1,
+      "explain": "Thở chúm môi tạo một sức cản nhân tạo ở miệng, làm tăng áp suất ngược dòng trong lòng đường thở nhỏ, chống lại xẹp động học của tiểu phế quản trong thì thở ra ở bệnh nhân COPD."
+    },
+    {
+      "q": "Một người có tần số thờ 16 lần/phút và thể tích khí lưu thông 450 ml. Thông khí phút của người này là bao nhiêu?",
+      "options": [
+        "2,4 lít/phút",
+        "4,8 lít/phút",
+        "6,4 lít/phút",
+        "7,2 lít/phút",
+        "9,6 lít/phút"
+      ],
+      "answer": 3,
+      "explain": "Thông khí phút = VT × f = 450 × 16 = 7200 ml/phút = 7,2 lít/phút."
+    },
+    {
+      "q": "Một bệnh nhân gù vẹo cột sống nặng được đo chức năng hô hấp cho thấy TLC, VC và FRC đều giảm, trong khi FEV1/FVC bình thường hoặc tăng nhẹ. Kiều rối loạn thông khí và cơ chế phù hợp nhất là?",
+      "options": [
+        "Tắc nghẽn, do hẹp đường thở nhỏ",
+        "Hạn chế, do giảm độ giãn nở của thành ngực hạn chế sự giãn nở phổi",
+        "Tắc nghẽn, do mất đàn hồi phế nang",
+        "Hạn chế, do tăng sức cản đường thở trên",
+        "Hỗn hợp, do vừa tắc nghẽn vừa hạn chế với mức độ tương đương"
+      ],
+      "answer": 1,
+      "explain": "Gù vẹo cột sống hạn chế cơ học lồng ngực → giảm TLC, VC, FRC (rối loạn hạn chế) trong khi đường thở không bị hẹp nên FEV1/FVC bình thường hoặc tăng nhẹ."
+    },
+    {
+      "q": "Một bệnh nhân ho dai dẳng sau khi hít phải khói. Đường dẫn truyền hướng tâm chính của phản xạ ho khởi phát từ receptor kích thích ở thanh quản và carina là dây thần kinh nào?",
+      "options": [
+        "Dây thần kinh sinh ba (dây V)",
+        "Dây thần kinh thiệt hầu (dây IX)",
+        "Dây thần kinh lang thang (dây X)",
+        "Dây thần kinh hoành",
+        "Dây thần kinh giao cảm ngực"
+      ],
+      "answer": 2,
+      "explain": "Thanh quản và carina rất nhạy cảm; xung động hướng tâm của phản xạ ho đi chủ yếu qua dây thần kinh lang thang (dây X) tới hành não."
+    },
+    {
+      "q": "Một người khoẻ mạnh thở khí trời ở mực nước biển (PB=760 mmHg, PH2O=47 mmHg, FiO2= 0,21) có PaCO2=40 mmHg và thương số hô hấp R=0,8. Áp dụng phương trình khí phế nang, PAO2 (phân áp oxy phế nang) của người này gần nhất với giá trị nào?",
+      "options": [
+        "60 mmHg",
+        "80 mmHg",
+        "100 mmHg",
+        "120 mmHg",
+        "149 mmHg"
+      ],
+      "answer": 2,
+      "explain": "PAO2 = FiO2 × (PB - PH2O) - PaCO2/R = 0,21 × (760 - 47) - 40/0,8 = 149,7 - 50 ≈ 100 mmHg."
+    },
+    {
+      "q": "Một bệnh nhân có PAO2 tính được là 100 mmHg và PaO2 đo trực tiếp từ khí máu động mạch là 70 mmHg. Chênh lệch oxy phế nang - động mạch (A-a gradient) của bệnh nhân này là bao nhiêu, và điều này gợi ý điều gì?",
+      "options": [
+        "10 mmHg - bình thường, phù hợp giảm thông khí đơn thuần",
+        "30 mmHg - tăng, gợi ý bất tương xứng V/Q, shunt hoặc giảm khuếch tán",
+        "0 mmHg bình thường hoàn toàn",
+        "170 mmHg - tăng rất cao, chỉ gặp trong ngộ độc CO",
+        "30 mmHg - tăng, nhưng luôn luôn do giảm thông khí phế nang"
+      ],
+      "answer": 1,
+      "explain": "A-a gradient = PAO2 - PaO2 = 100 - 70 = 30 mmHg, cao hơn bình thường (thường < 15-20 mmHg ở người trẻ) → gợi ý bất tương xứng V/Q, shunt hoặc rối loạn khuếch tán, KHÔNG phải giảm thông khí đơn thuần."
+    },
+    {
+      "q": "Một bệnh nhân dùng quá liều morphin có PaCO2=70 mmHg (tăng), PaO2=55 mmHg (giảm). Khi tính toán, chênh lệch A-a gradient của bệnh nhân này lại nằm trong giới hạn bình thường. Cơ chế gây giảm oxy máu phù hợp nhất trong trường hợp này là gì?",
+      "options": [
+        "Shunt phải-trái trong tim",
+        "Bất tương xứng thông khí/tưới máu nặng",
+        "Giảm thông khí phế nang đơn thuần (giảm thông khí toàn bộ, không kèm bệnh lý nhu mô phổi)",
+        "Giảm khả năng khuếch tán qua màng hô hấp",
+        "Giảm khả năng vận chuyển oxy của hemoglobin"
+      ],
+      "answer": 2,
+      "explain": "A-a gradient bình thường kèm giảm oxy máu và tăng CO2 máu là dấu hiệu kinh điển của giảm thông khí phế nang đơn thuần (không có bệnh lý nhu mô mạch máu phổi) phù hợp quá liều opioid."
+    },
+    {
+      "q": "Một bệnh nhân thuyên tắc động mạch phổi cấp có vùng phổi được thông khí bình thường nhưng mất hoàn toàn tưới máu. Tỷ lệ thông khí/tưới máu (VA/Q) ở vùng phổi này tiến gần tới giá trị nào, và về bản chất chức năng nó giống với điều gì?",
+      "options": [
+        "VA/Q -> 0, giống như một shunt sinh lý",
+        "VA/Q -> vô cực, giống như khoảng chết sinh lý",
+        "VA/Q = 1, trao đổi khí vẫn bình thường",
+        "VA/Q -> 0, giống như khoảng chết giải phẫu",
+        "VA/Q không xác định vì không còn phế nang chức năng"
+      ],
+      "answer": 1,
+      "explain": "Mất tưới máu hoàn toàn ở vùng vẫn còn thông khí làm VA/Q -> vô cực về bản chất chức năng giống khoảng chết (khí không trao đổi được với máu)."
+    },
+    {
+      "q": "Một trẻ bị thông liên thất lớn kèm đảo shunt phải-trái (hội chứng Eisenmenger) được cho thở oxy 100% nhưng PaO2 chỉ cải thiện rất ít. Giải thích sinh lý phù hợp nhất là gì?",
+      "options": [
+        "Màng hô hấp của trẻ dày lên nên oxy không khuếch tán được",
+        "Máu tĩnh mạch đi tắt (shunt) không qua được vùng phổi có trao đổi khí nên không tiếp xúc với oxy khí thở vào dù nồng độ oxy cao",
+        "Hemoglobin của trẻ có ái lực với oxy quá cao",
+        "Trung tâm hô hấp của trẻ bị ức chế bởi tăng oxy máu",
+        "Tăng thông khí phế nang bù trừ làm giảm PaCO2 nên PaO2 không tăng thêm"
+      ],
+      "answer": 1,
+      "explain": "Trong shunt phải-trái, một phần máu tĩnh mạch không bao giờ đi qua mao mạch phổi được thông khí nên không tiếp xúc với oxy hít vào dù FiO2 100% đây là đặc điểm giúp phân biệt shunt với các nguyên nhân giảm oxy máu khác (đáp ứng kém với oxy liệu pháp)."
+    },
+    {
+      "q": "So sánh hai bệnh nhân: bệnh nhân A bị khí phế thũng (phá huỷ vách phế nang lan toả), bệnh nhân B lên cơn hen cấp (co thắt phế quản kèm phù nề). Khả năng khuếch tán khí CO (DLCO) dự kiến thay đổi như thế nào ở mỗi bệnh nhân?",
+      "options": [
+        "Cả hai đều giảm DLCO như nhau",
+        "Bệnh nhân A giảm DLCO (mất diện tích màng hô hấp); bệnh nhân B thường DLCO bình thường hoặc tăng nhẹ (không mất nhu mô)",
+        "Bệnh nhân A tăng DLCO; bệnh nhân B giảm DLCO",
+        "Cả hai đều có DLCO bình thường vì đều là bệnh đường thở",
+        "DLCO không có giá trị phân biệt hai bệnh này"
+      ],
+      "answer": 1,
+      "explain": "Khí phế thũng phá huỷ vách phế nang → giảm diện tích màng hô hấp → giảm DLCO; hen là bệnh co thắt phế quản hồi phục, nhu mô phối nguyên vẹn nên DLCO thường bình thường hoặc tăng nhẹ."
+    },
+    {
+      "q": "Một bệnh nhân thiếu máu nặng (hemoglobin 6 g/dl) nhưng màng hô hấp và nhu mô phổi hoàn toàn bình thường. Khả năng khuếch tán khí CO (DLCO) đo được nhiều khả năng sẽ như thế nào?",
+      "options": [
+        "Bình thường, vì mảng hô hấp không bị ảnh hưởng",
+        "Giảm, vì có ít hemoglobin hơn để gắn với CO khuếch tán vào mao mạch, làm giảm động lực khuếch tán biểu kiến",
+        "Tăng, vì tim tăng cung lượng bù trừ làm tăng dòng máu phổi",
+        "Không đo được vì thiếu máu làm sai lệch hoàn toàn phép đo",
+        "Giảm, vì thiếu máu làm dày màng hô hấp"
+      ],
+      "answer": 1,
+      "explain": "DLCO đo bằng CO phụ thuộc vào lượng hemoglobin sẵn có trong mao mạch để gắn CO; thiếu máu làm giảm DLCO đo được dù màng hô hấp hoàn toàn bình thường cần hiệu chỉnh theo Hb khi phiên giải kết quả."
+    },
+    {
+      "q": "Ở một người đứng thẳng, so sánh dòng máu và thông khí giữa đỉnh phổi và đáy phổi lúc nghỉ ngơi. Nhận định nào sau đây đúng nhất?",
+      "options": [
+        "Đinh phổi có VA/Q cao hơn (thiên về khoảng chết); đáy phổi có VA/Q thấp hơn (thiên về shunt) do ảnh hưởng trọng lực lên tưới máu nhiều hơn thông khí",
+        "Đỉnh phối và đáy phổi luôn có VA/O bằng nhau ở người khoẻ mạnh",
+        "Đáy phổi có VA/Q cao hơn đỉnh phối",
+        "Trọng lực chỉ ảnh hưởng đến thông khí, không ảnh hưởng đến tưới máu",
+        "Khi vận cơ, sự chênh lệch VA/Q giữa đình và đáy phổi tăng lên rõ rệt hơn lúc nghỉ"
+      ],
+      "answer": 0,
+      "explain": "Do ảnh hưởng trọng lực, dòng máu giảm nhiều hơn thông khí ở đỉnh phối (VA/Q cao, thiên khoảng chết) và tưới máu tương đối nhiều hơn thông khí ở đáy phổi (VA/Q thấp, thiên shunt)."
+    },
+    {
+      "q": "Một nhà leo núi ở độ cao 5500 m có áp suất khí quyển khoảng 380 mmHg (bằng một nửa mực nước biển). Giả sử PH2O và PaCO2 không đổi so với mực nước biển, PAO2 của người này sẽ thay đổi theo hướng nào so với ở mực nước biển?",
+      "options": [
+        "Không đổi vì FiO2 vẫn là 0,21",
+        "Giảm đáng kể, vì phân áp riêng phần của O2 trong khí hít vào giảm theo áp suất khí quyền dù nồng độ % O2 không đổi",
+        "Tăng lên do cơ thể tăng thông khí bù trừ ngay lập tức đưa PAO2 về bình thường",
+        "Giảm nhẹ không đáng kể vì cơ thể luôn giữ PAO2 hằng định",
+        "Chỉ giảm nếu FiO2 cũng giảm theo độ cao"
+      ],
+      "answer": 1,
+      "explain": "PAO2 phụ thuộc phân áp riêng phần của O2(=FiO2 × PB), nên khi PB giảm ở độ cao, PAO2 giảm đáng kể dù FiO2 (nồng độ %) không đổi."
+    },
+    {
+      "q": "Vì sao xét nghiệm đo khả năng khuếch tán phổi trên lâm sàng thường dùng khí CO thay vì đo trực tiếp oxy?",
+      "options": [
+        "Vì CO khuếch tán chậm hơn O2 nên dễ đo hơn",
+        "Vì CO gắn với hemoglobin gần như không thuận nghịch nên phân áp CO trong máu mao mạch gần bằng 0, cho phép tính khuếch tán chỉ từ phân áp khí phế nang",
+        "Vì CO không độc ở liều thăm dò nên an toàn tuyệt đối",
+        "Vì CO có hệ số khuếch tán thấp hơn O2 nên phản ánh đúng hơn khả năng khuếch tán màng",
+        "Vì CO không cần hiệu chỉnh theo nồng độ hemoglobin của bệnh nhân"
+      ],
+      "answer": 1,
+      "explain": "CO gắn với hemoglobin gần như không thuận nghịch nên PCO trong máu mao mạch ~0, cho phép tính khả năng khuếch tán chỉ dựa trên phân áp CO phế nang và lượng CO hấp thu, không cần đo trực tiếp khí máu."
+    },
+    {
+      "q": "Một bệnh nhân ARDS có PaO2=55 mmHg dù đang thở FiO2 100%. Cơ chế giảm oxy máu chủ yếu trong ARDS, giải thích tại sao đáp ứng kém với liệu pháp oxy, là gì?",
+      "options": [
+        "Giảm thông khí phế nang toàn bộ do một cơ hô hấp",
+        "Shunt trong phối do phế nang bị lấp đầy dịch viêm/xẹp hoàn toàn, máu qua vùng này không tiếp xúc với khí thở vào dù FiO2 cao",
+        "Giảm khả năng vận chuyển oxy của hemoglobin do nhiễm toan",
+        "Tăng khoảng chết sinh lý đơn thuần",
+        "Co thắt phế quản lan toả gây tắc nghẽn đường thở"
+      ],
+      "answer": 1,
+      "explain": "Trong ARDS, phế nang bị lấp đầy dịch viêm hoặc xẹp hoàn toàn tạo shunt thực sự (không thông khí nhưng vẫn tưới máu) máu qua vùng này không thể được oxy hoá dù FiO2 100%, khác với bất tương xứng V/Q đơn thuần (thường đáp ứng một phần với oxy)."
+    },
+    {
+      "q": "Bệnh nhân viêm phế quản mạn (kiểu hình “blue bloater”) thường có bất tương xứng V/Q kiểu shunt (tưới máu vẫn tốt ở vùng thông khí kém) nhiều hơn, trong khi bệnh nhân khí phế thũng nặng đơn thuần (\"pink puffer\") thường có bất tương xứng V/Q kiểu khoảng chết nhiều hơn. Cơ sở sinh lý bệnh nào giải thích sự khác biệt này?",
+      "options": [
+        "Viêm phế quản mạn chủ yếu gây tắc lòng đường thở nhỏ do đờm/viêm trong khi mạch máu và vách phế nang còn tương đối nguyên vẹn nên vẫn tưới máu vùng thông khí kém (shunt); khí phế thũng chủ yếu phá huỷ vách phế nang kèm mất mao mạch nên vùng còn thông khí nhưng thiếu tưới máu (khoảng chết)",
+        "Cả hai bệnh có cùng một cơ chế sinh lý bệnh V/Q giống hệt nhau",
+        "Khí phế thũng luôn gây shunt còn viêm phế quản mạn luôn gây khoảng chết",
+        "Sự khác biệt hoàn toàn do di truyền, không liên quan đến giải phẫu bệnh",
+        "Viêm phế quản mạn chỉ ảnh hưởng phế nang, không ảnh hưởng đường thở"
+      ],
+      "answer": 0,
+      "explain": "Viêm phế quản mạn tổn thương chủ yếu đường thở (tắc lòng do đờm/viêm) trong khi mạch máu/phế nang còn tương đối nguyên vẹn → tưới máu vẫn tốt ở vùng thông khí kém (kiểu shunt); khí phế thũng phá huỷ vách phế nang kèm mất giường mao mạch vùng còn thông khí nhưng thiếu tưới máu (kiểu khoảng chết)."
+    },
+    {
+      "q": "Một bệnh nhân có cung lượng tim 5 lít/phút nồng độ oxy máu động mạch là 20 ml/dl, nồng độ oxy máu tĩnh mạch trộn là 15 ml/dl, và nồng độ oxy máu động mạch “lý tưởng tính được là 20 ml/dl (không có shunt). Nếu đo được nồng độ oxy động mạch thực tế chỉ 18 ml/dl, phân số shunt sinh lý (QPS/QT) xấp xi bao nhiêu?",
+      "options": [
+        "10%",
+        "20%",
+        "40%",
+        "60%",
+        "80%"
+      ],
+      "answer": 2,
+      "explain": ")PS/QT = (CiO2 - CaO2) / (CiO2 - CvO2) = (20 - 18) / (20 - 15) = 2/5 = 40%"
+    },
+    {
+      "q": "Một người có Hb=15g/dl, SaO2=98%, PaO2=95 mmHg. Áp dụng công thức CaO2=(1,34 × Hb × SaO2)+(0,003 × PaO2), nồng độ oxy máu động mạch (CaO2) gần nhất với giá trị nào?",
+      "options": [
+        "9,8 ml O2/dl",
+        "15,0 ml O2/dl",
+        "20.0 ml O2/dl",
+        "26,8 ml O2/dl",
+        "34,0 ml O2/dl"
+      ],
+      "answer": 2,
+      "explain": "CaO2 = (1,34 × 15 × 0,98) + (0,003 × 95) = 19,7 + 0,285 ≈ 20,0 ml O2/dl gần đúng giá trị bình thường kinh điển (~20 thể tích phần trăm) của Guyton and Hall."
+    },
+    {
+      "q": "Một bệnh nhân thiếu máu nặng có Hb=7 g/dl nhưng SaO2=98% và PaO2=95 mmHg (đều bình thường). So với người có Hb bình thường (15 g/dl) cùng SaO2 và PaO2, nồng độ oxy máu động mạch (CaO2) của bệnh nhân thiếu máu này thay đổi như thế nào?",
+      "options": [
+        "Không đổi vì SaO2 và PaO2 đều bình thường",
+        "Giảm gần một nửa, vì CaO2 phụ thuộc chủ yếu vào lượng hemoglobin chứ không chỉ độ bão hoà",
+        "Tăng lên để bù trừ cho tình trạng thiếu máu",
+        "Giảm nhẹ khoảng 10% do PaO2 không đổi",
+        "Bằng 0 vì thiếu máu nặng làm mất khả năng vận chuyển oxy"
+      ],
+      "answer": 1,
+      "explain": "CaO2 phụ thuộc trực tiếp vào lượng hemoglobin (thành phần 1.34 × Hb × SaO2 chiếm ưu thế); dù SaO2 và PaO2 bình thường, Hb giảm một nửa làm CaO2 giảm gần một nửa minh chứng độ bão hoà KHÔNG đồng nghĩa với đủ oxy mô."
+    },
+    {
+      "q": "Một bệnh nhân được đưa đến cấp cứu sau khi ở trong phòng kín đốt than sưởi ấm, da đỏ hồng, ý thức lơ mơ. Khí máu cho thấy PaO2=95 mmHg (bình thường) nhưng độ bão hoà oxy đo bằng CO-oxymetry chi 60% (carboxyhemoglobin cao). Giải thích phù hợp nhất cho tình trạng này là gì?",
+      "options": [
+        "Hemoglobin bị biến tính hoàn toàn nên không gắn được oxy",
+        "CO gắn cạnh tranh với ái lực cao gấp khoảng 250 lần O2 tại cùng vị trí trên hemoglobin, chiếm chỗ của O2 dù PaO2 vẫn bình thường",
+        "Bệnh nhân bị giảm thông khí phế nang nặng",
+        "Bệnh nhân có shunt phải-trái bẩm sinh chưa được phát hiện",
+        "Methemoglobin tăng cao do ngộ độc nitrit"
+      ],
+      "answer": 1,
+      "explain": "CO gắn hemoglobin với ái lực gấp khoảng 250 lần O2 tại cùng vị trí trên phân tử hemoglobin, đẩy O2 ra và chiếm chỗ dù PaO2 (oxy hoà tan) đo được vẫn bình thường đây là lý do ngộ độc CO khó phát hiện qua PaO2/màu da đơn thuần."
+    },
+    {
+      "q": "Bệnh nhân ngộ độc CO ở câu trên nên được điều trị bằng biện pháp nào để đẩy nhanh việc loại bỏ CO khỏi hemoglobin?",
+      "options": [
+        "Truyền hồng cầu khối để tăng hemoglobin",
+        "Thở oxy 100% (hoặc oxy cao áp) để tăng phân áp O2 cạnh tranh đẩy CO ra khỏi hemoglobin",
+        "Dùng thuốc lợi tiểu để tăng đào thải CO qua thận",
+        "Thở khí có nồng độ CO2 thấp để giảm kích thích hô hấp",
+        "Truền bicarbonat để điều chỉnh toan chuyển hoá"
+      ],
+      "answer": 1,
+      "explain": "Thở oxy phân áp cao (hoặc oxy cao áp) làm tăng cạnh tranh, đẩy nhanh CO ra khỏi hemoglobin - có thể tăng tốc độ loại bỏ CO khỏi máu tới khoảng 10 lần so với thở khí trời."
+    },
+    {
+      "q": "Trong khi vận cơ nặng, nhiệt độ cơ tăng, PCO2 và H+ tại mao mạch cơ tăng. Những thay đổi này ảnh hưởng đến đường cong phân ly oxy-hemoglobin tại mao mạch cơ như thế nào, và hệ quả sinh lý là gì?",
+      "options": [
+        "Đường cong lệch trái, làm hemoglobin giữ chặt oxy hơn, bất lợi cho cơ đang hoạt động",
+        "Đường cong lệch phải, làm tăng giải phóng oxy từ hemoglobin cho cơ đang hoạt động ở cùng mức PO2",
+        "Đường cong không thay đổi vì các yếu tố này triệt tiêu lẫn nhau",
+        "Đường cong lệch phải nhưng làm giảm tổng lượng oxy được giải phóng",
+        "Chỉ nhiệt độ ảnh hưởng đến đường cong, còn pH và CO2 thì không"
+      ],
+      "answer": 1,
+      "explain": "Tăng CO2, H+, nhiệt độ tại mao mạch cơ đang vận động dịch đường cong phân ly sang PHẢI (hiệu ứng Bohr) làm tăng giải phóng oxy cho cơ đúng nơi cần, dù ở cùng mức PO2 mô."
+    },
+    {
+      "q": "Một bệnh nhân thiếu oxy máu mạn tính do bệnh phổi tắc nghẽn mạn tính lâu năm có nồng độ 2,3-biphosphoglycerat (2,3-BPG) trong hồng cầu tăng cao. Điều này ảnh hưởng thế nào đến đường cong phân ly oxy-hemoglobin và có ý nghĩa thích nghi gì?",
+      "options": [
+        "Lệch trái, giúp gắn oxy tốt hơn ở phổi nhưng làm giảm khả năng nhả oxy cho mô",
+        "Lệch phải, giúp giải phóng oxy cho mô ở áp suất mô cao hơn bình thường, hỗ trợ thích nghi với thiếu oxy mạn tính",
+        "Không ảnh hưởng đến đường cong phân ly",
+        "Làm hemoglobin mất hoàn toàn khả năng gắn oxy",
+        "Chỉ ảnh hưởng đến vận chuyển CO2, không ảnh hưởng vận chuyển O2"
+      ],
+      "answer": 1,
+      "explain": "2,3-BPG tăng làm đường cong lệch phải, cho phép nhà oxy ở PO2 mô cao hơn bình thường tới ~10 mmHg cơ chế thích nghỉ quan trọng với thiếu oxy máu mạn tính."
+    },
+    {
+      "q": "Một vận động viên tăng thông khí đột ngột trước khi thi đấu gây kiềm hô hấp cấp (pH máu tăng, PCO2 giảm). Điều này làm dịch chuyển đường cong phân ly oxy-hemoglobin theo hướng nào, và hậu quả tức thời là gì?",
+      "options": [
+        "Lệch phải tăng giải phóng oxy cho mô, có lợi ngay lập tức",
+        "Lệch trái tăng ái lực Hb với O2, làm giảm giải phóng oxy cho mô ở cùng mức PO2 mô",
+        "Không thay đổi vì kiềm hô hấp không ảnh hưởng đến Hb",
+        "Lệch phải nhưng chỉ ảnh hưởng đến vận chuyển CO2",
+        "Gây tan máu cấp tính làm giảm số lượng hồng cầu"
+      ],
+      "answer": 1,
+      "explain": "Giảm PCO2 và tăng pH (kiềm hô hấp) làm đường cong lệch TRÁI tăng ái lực Hb với O2 có lợi cho gắn oxy ở phổi nhưng bất lợi tức thời cho giải phóng oxy ở mô."
+    },
+    {
+      "q": "So với hemoglobin người trưởng thành (HbA) ở cùng một mức PO2, hemoglobin thai nhi (HbF) có ái lực với oxy cao hơn (đường cong lệch trái hơn). Ý nghĩa sinh lý của đặc điểm này tại bánh nhau là gì?",
+      "options": [
+        "Giúp HbF nhả oxy dễ dàng hơn cho mô thai nhi",
+        "Giúp máu thai nhi lấy oxy hiệu quả hơn từ máu mẹ có PO2 thấp hơn tại các mao mạch bánh nhau",
+        "Không có ý nghĩa sinh lý đặc biệt, chỉ là khác biệt cấu trúc ngẫu nhiên",
+        "Giúp HbF vận chuyển CO2 tốt hơn HbA",
+        "Làm giảm khả năng vận chuyển oxy tổng thể của thai nhi"
+      ],
+      "answer": 1,
+      "explain": "HbF có ái lực oxy cao hơn (đường cong lệch trái so với HbA) giúp máu thai nhi lấy oxy hiệu quả hơn từ máu mẹ vốn đã có PO2 tương đối thấp tại các mao mạch bánh nhau."
+    },
+    {
+      "q": "Khi máu đi qua mao mạch phổi, oxy gắn với hemoglobin làm hemoglobin trở nên có tính acid hơn, thúc đẩy giải phóng CO2 khỏi máu vào phế nang. Hiện tượng này được gọi là gì, và có ý nghĩa định lượng ra sao so với hiệu ứng Bohr?",
+      "options": [
+        "Hiệu ứng Bohr; có ý nghĩa định lượng lớn hơn hiệu ứng Haldane",
+        "Hiệu ứng Haldane; có ý nghĩa định lượng lớn hơn hiệu ứng Bohr trong việc thúc đẩy vận chuyển CO2",
+        "Hiện tượng Hamburger; chỉ ảnh hưởng đến ion clorua",
+        "Hiệu ứng Haldane; nhưng có vai trò nhỏ hơn nhiều so với hiệu ứng Bohr",
+        "Định luật Henry; không liên quan đến hemoglobin"
+      ],
+      "answer": 1,
+      "explain": "Đây là hiệu ứng Haldane -có ý nghĩa định lượng LỚN HƠN hiệu ứng Bohr trong việc thúc đẩy vận chuyển CO2 (làm tăng gần gấp đôi lượng CO2 được giải phóng ở phổi và lấy từ mô)."
+    },
+    {
+      "q": "Khi CO2 đi vào hồng cầu tại mao mạch mô, nó được carbonic anhydrase xúc tác chuyển thành H2CO3 rồi phân ly thành H+ và HCO3-. Ion HCO3- khuếch tán ra huyết tương, và một ion khác đi vào hồng cầu để thay thế nhằm giữ trung hoà điện tích. Ion đó là gì, và hiện tượng này gọi là gì?",
+      "options": [
+        "Ion natri; gọi là bơm Na+/K+-ATPase",
+        "Ion kali; gọi là hiện tượng Bohr",
+        "Ion clorua; gọi là hiện tượng Hamburger (chloride shift)",
+        "Ion calci; gọi là hiệu ứng Haldane",
+        "Ion hydro; gọi là hệ đệm phosphat"
+      ],
+      "answer": 2,
+      "explain": "Đây là hiện tượng Hamburger (chloride shift): ion Cl- di chuyển vào hồng cầu thay chỗ cho HCO3 khuếch tán ra huyết tương, nhờ protein vận chuyển bicarbonat-clorua trên màng hồng cầu."
+    },
+    {
+      "q": "Một người ăn chế độ ăn giàu carbohydrat gần như hoàn toàn trong nhiều ngày. Thương số hô hấp (R = tốc độ thải CO2/tốc độ hấp thu O2) của người này dự kiến gần với giá trị nào, so với người ăn chế độ ăn giàu chất béo?",
+      "options": [
+        "R ≈ 0,7 ở người ăn nhiều carbohydrat; R ≈ 1,0 ở người ăn nhiều chất béo",
+        "R ≈ 1,0 ở người ăn nhiều carbohydrat; R ≈ 0.7 ở người ăn nhiều chất béo",
+        "R ~ 0,825 ở cả hai trường hợp, không phụ thuộc chế độ ăn",
+        "R luôn bằng 1,0 bất kể chế độ ăn",
+        "R giảm xuống 0 nếu chỉ ăn carbohydrat"
+      ],
+      "answer": 1,
+      "explain": "Chuyển hoá carbohydrat cho R ≈ 1.0 (1 phân tử CO2 sinh ra cho mỗi phân tử O2 tiêu thụ); chuyển hoá chất béo cho R ≈ 0,7 (một phần O2 kết hợp với hydro của chất béo tạo nước thay vì CO2)."
+    },
+    {
+      "q": "Một bệnh nhân ngộ độc cyanid có da hồng, PaO2=98 mmHg, SaO2=99% (đều bình thường), nhưng lâm sàng có dấu hiệu thiếu oxy mô nặng (toan chuyển hoá, rối loạn ý thức) và PO2 máu tĩnh mạch lại cao bất thường (gần bằng PO2 động mạch). Cơ chế phù hợp nhất là gì?",
+      "options": [
+        "Giảm thông khí phế nang nặng",
+        "Ức chế enzym cytocrom oxidase làm tế bào không sử dụng được oxy dù oxy vẫn được vận chuyển đến mô đầy đủ",
+        "Shunt phải-trái trong tim",
+        "Giảm ái lực hemoglobin với oxy nặng",
+        "Tắc nghẽn vì mạch lan toả ngăn oxy đến mô"
+      ],
+      "answer": 1,
+      "explain": "Cyanid ức chế cytocrom oxidase trong chuỗi hô hấp tế bào, khiến mô không sử dụng được oxy dù được vận chuyển đầy đủ - hậu quả là PO2 máu tĩnh mạch cao bất thường (do oxy không bị tế bào lấy đi) và toan chuyển hoá do chuyển sang chuyển hoá yếm khí."
+    },
+    {
+      "q": "Một bệnh nhân bị methemoglobin huyết (do ngộ độc nitrit) có SpO2 đo bằng máy đo bão hoà oxy qua da (pulse oximeter) neo cố định quanh 85% dù thở oxy 100%, trong khi PaO2 đo qua khí máu động mạch lại bình thường. Nguyên nhân của sự khác biệt này là gì?",
+      "options": [
+        "Máy đo SpO2 bị lỗi kỹ thuật ngẫu nhiên",
+        "Methemoglobin (Fe3+) hấp thụ ánh sáng khác với oxyhemoglobin/deoxyhemoglobin, làm máy pulse oximeter đọc sai lệch về một giá trị cố định gần 85%, trong khi PaO2 hoà tan vẫn được đo chính xác bằng khí máu",
+        "PaO2 đo bằng khí máu luôn không chính xác trong ngộ độc nitrit",
+        "Methemoglobin làm tăng thực sự độ bão hoà oxy thực của máu",
+        "Bệnh nhân có shunt phải trái đồng thời"
+      ],
+      "answer": 1,
+      "explain": "Methemoglobin hấp thụ ánh sáng ở hai bước sóng đo của pulse oximeter theo cách đặc biệt, khiến máy luôn hội tụ về giá trị đọc gần 85% bất kể độ bão hoà oxy thực sự - cần đo bằng CO-oxymetry (khí máu) để có giá trị chính xác."
+    },
+    {
+      "q": "Lúc nghỉ, một người có cung lượng tim 5 lít/phút và mức tiêu thụ oxy 250 ml/phút. Áp dụng nguyên lý Fick, chênh lệch nồng độ oxy động mạch - tĩnh mạch trộn (hiệu số A-V O2) của người này xấp xỉ bao nhiêu?",
+      "options": [
+        "1 ml O2/dl máu",
+        "5 ml O2/dl máu",
+        "10 ml O2/dl máu",
+        "15 ml O2/dl máu",
+        "20 ml O2/dl máu"
+      ],
+      "answer": 1,
+      "explain": "Theo nguyên lý Fick: VO2 = CO × (CaO2 - CvO2) → (CaO2 - CvO2) = 250/5000 = 0,05 ml O2/ml máu = 5 ml O2/100 ml máu đúng bằng giá trị sinh lý kinh điển (~5 ml/100ml) mà Guyton and Hall nêu."
+    },
+    {
+      "q": "Khi PCO2 máu tăng, CO2 khuếch tán dễ dàng qua hàng rào máu não vào dịch não tuỷ và phản ứng với nước tạo H+ tại chỗ kích thích vùng nhạy cảm hoá học ở hành nào. Tại sao thay đổi CO2 máu lại kích thích thông khí mạnh hơn nhiều so với thay đổi trực tiếp nồng độ H+ trong máu ở cùng mức độ?",
+      "options": [
+        "Vì CO2 có trọng lượng phân tử nhỏ hơn H+",
+        "Vì ion H+ trong máu khó qua được hàng rào máu não, trong khi CO2 qua hàng rào này dễ dàng gần như không cản trở",
+        "Vì H+ máu luôn được đệm hoàn toàn nên không có tác dụng gì",
+        "Vì CO2 kích thích trực tiếp thụ thể ở thể cảnh mạnh hơn H+",
+        "Vì trung tâm hô hấp không có receptor nào nhạy với H+"
+      ],
+      "answer": 1,
+      "explain": "Ion H+ khó qua hàng rào máu não, trong khi CO2 qua hàng rào này gần như tự do; CO2 sau đó phản ứng với nước tại chỗ tạo H+ ngay cạnh nơron nhạy cảm hoá học do đó CO2 máu kích thích hô hấp gián tiếp nhưng mạnh hơn nhiều so với H+ máu trực tiếp."
+    },
+    {
+      "q": "Một bệnh nhân COPD giai đoạn nặng có tình trạng tăng CO2 máu mạn tính (PaCO2 nền = 65 mmHg) được thở oxy lưu lượng cao không kiểm soát tại nhà, sau đó xuất hiện lơ mơ và thở chậm nông hơn. Cơ chế được nhắc đến kinh điển nhất giải thích tình trạng ức chế hô hấp này là gì?",
+      "options": [
+        "Oxy trực tiếp gây độc cho trung tâm hô hấp",
+        "Ở bệnh nhân tăng CO2 mạn tỉnh, trung tâm hô hấp trung ương đã giảm nhạy cảm với CO2/H+, khiến động lực hô hấp phụ thuộc nhiều vào đáp ứng thiếu oxy qua receptor ngoại vi; cho oxy nồng độ cao đột ngột làm giảm động lực này góp phần gây giảm thông khí",
+        "Oxy làm tăng áp lực nội sọ gây ức chế hành não",
+        "Oxy làm co thắt phế quản cấp tính",
+        "Oxy ức chế trực tiếp phức hợp pre-Bötzinger không hồi phục"
+      ],
+      "answer": 1,
+      "explain": "Ở bệnh nhân tăng CO2 mạn tính, trung tâm hô hấp trung ương đã “quen” và giảm đáp ứng với CO2/H+; động lực hô hấp khi đó phụ thuộc nhiều vào tín hiệu thiếu oxy qua receptor ngoại vi (thể cảnh) cho oxy nồng độ cao không kiểm soát có thể làm giảm động lực này (đây là giải thích kinh điển hay được hỏi, dù cơ chế thực tế còn phối hợp cả xấu đi V/Q và hiệu ứng Haldane)."
+    },
+    {
+      "q": "Một bệnh nhân bị mất máu cấp nặng có PaO2 giảm xuống 50 mmHg. Đáp ứng tăng thông khí trong tình huống này chủ yếu được khởi phát qua con đường nào?",
+      "options": [
+        "Vùng nhạy cảm hoá học trung ương ở hành nào đáp ứng trực tiếp với giảm oxy",
+        "Receptor hoá học ngoại vi ở thể cảnh và thể động mạch chủ, vốn là con đường chính đáp ứng với giảm PaO2 rõ rệt",
+        "Phản xạ Hering-Breuer từ receptor căng giãn phổi",
+        "Trung tâm điều chỉnh thờ ở cầu não đáp ứng trực tiếp với thiếu oxy",
+        "Receptor J cạnh mao mạch phối"
+      ],
+      "answer": 1,
+      "explain": "Receptor hoá học ngoại vi (thể cảnh, thể động mạch chủ) là con đường DUY NHẤT truyền tín hiệu thiếu oxy đáng kể đến trung tâm hô hấp, đặc biệt quan trọng khi PaO2 giảm dưới 60-70 mmHg."
+    },
+    {
+      "q": "Một bệnh nhân suy tim nặng có kiểu thở tăng dần rồi giảm dần theo chu kỳ, xen kẽ với các giai đoạn ngừng thở ngắn (kiểu thở Cheyne-Stokes). Cơ chế sinh lý bệnh chính giải thích hiện tượng này ở bệnh nhân suy tim là gì?",
+      "options": [
+        "Tổn thương trực tiếp không hồi phục của trung tâm hô hấp",
+        "Thời gian tuần hoàn máu từ phổi đến não bị kéo dài do cung lượng tim thấp, làm trễ phản hồi giữa thay đổi khí máu ở phổi và đáp ứng của trung tâm hô hấp",
+        "Tăng độ nhạy của thụ thể ngoại vi với oxy",
+        "Giảm sản xuất CO2 toàn thân",
+        "Phản xạ Hering-Breuer hoạt động quá mức"
+      ],
+      "answer": 1,
+      "explain": "Trong suy tim, cung lượng tim thấp làm kéo dài thời gian tuần hoàn máu từ phối đến não, gây trễ phản hồi giữa thay đổi khí máu thực tế và đáp ứng của trung tâm hô hấp, tạo dao động chu kỳ đặc trưng của thở Cheyne-Stokes."
+    },
+    {
+      "q": "Phân biệt ngừng thở khi ngủ trung ương (central sleep apnea) với ngừng thở khi ngủ do tắc nghẽn (obstructive sleep apnea): đặc điểm nào sau đây gợi ý nhiều hơn đến loại TRUNG ƯƠNG?",
+      "options": [
+        "Ngáy to, có gắng sức hô hấp rõ (di động ngực-bụng) trong cơn ngừng thở nhưng không có luồng khí",
+        "Ngừng thở không kèm gắng sức hô hấp (không có di động ngực-bụng) do mất tạm thời tín hiệu thần kinh vận động cơ hô hấp từ trung tâm hô hấp",
+        "Béo phì, cổ ngắn, lưỡi to",
+        "Luôn kèm cao huyết áp hệ thống nặng",
+        "Chỉ xảy ra ở trẻ em"
+      ],
+      "answer": 1,
+      "explain": "Ngừng thở trung ương do mất tạm thời tín hiệu thần kinh vận động từ trung tâm hô hấp tới cơ hô hấp, nên KHÔNG có gắng sức hô hấp (không di động ngực-bụng) trong cơn ngừng thở khác với tắc nghẽn (vẫn còn gắng sức hô hấp nhưng luồng khí bị cản)."
+    },
+    {
+      "q": "Một người khoẻ mạnh lên sống ở độ cao 4000 m trong 3 ngày. Trung tâm hô hấp của người này dần mất khoảng 80% độ nhạy với CO2/H+ theo cơ chế thận điều chỉnh HCO3, cho phép đáp ứng với thiều oxy chỉ phối thông khí mạnh hơn. Hiện tượng thích nghi này gọi là gì, và hệ quả là gì?",
+      "options": [
+        "Thích nghi (acclimatization); thông khí phế nang tăng nhiều hơn (400-500%) so với đáp ứng cấp tính với cùng mức thiếu oxy",
+        "Thích nghỉ; thông khí phế nang giảm dần theo thời gian",
+        "Hiệu ứng Bohr; không liên quan đến thông khí",
+        "Hiệu ứng Haldane; chỉ ảnh hưởng vận chuyển CO2",
+        "Phản xạ Hering-Breuer; giới hạn thể tích khí lưu thông"
+      ],
+      "answer": 0,
+      "explain": "Đây là hiện tượng thích nghi (acclimatization): sau vài ngày, độ nhạy của trung tâm hô hấp với CO2/H+ giảm do thận điều chỉnh HCO3, cho phép đáp ứng thông khí với thiếu oxy chi phối mạnh hơn, làm thông khí phế nang tăng nhiều (400-500%) so với đáp ứng cấp tính."
+    },
+    {
+      "q": "Ngay khi bắt đầu vận cơ nặng, thông khí phút tăng vọt gần như tức thời, thậm chí trước khi có bất kỳ thay đổi đo được nào của PaCO2, PaO2 hay pH động mạch. Cơ chế nào giải thích tốt nhất hiện tượng này?",
+      "options": [
+        "Receptor hoá học ngoại vi phát hiện tăng CO2 tại cơ trước khi máu về tim",
+        "Tín hiệu thần kinh phụ (collateral) từ vỏ não vận động kích thích trực tiếp trung tâm hô hấp đồng thời với tín hiệu vận động đến cơ, tạo đáp ứng “dự đoán trước khi có thay đôi hoá học",
+        "Receptor J ở phổi bị kích thích do tăng lưu lượng máu phổi đột ngột",
+        "Phản xạ Hering-Breuer được kích hoạt sớm",
+        "Tăng thân nhiệt tức thời kích thích vùng dưới đồi"
+      ],
+      "answer": 1,
+      "explain": "Não được cho là gửi các xung động phụ (collateral) từ vùng vận động tới trung tâm hô hấp đồng thời với tín hiệu vận động tới cơ, tạo đáp ứng thông khí “dự đoán xảy ra trước khi có bất kỳ thay đôi hoá học nào trong máu."
+    },
+    {
+      "q": "Một bệnh nhân đang thở máy với thể tích khí lưu thông cài đặt rất lớn (> 1,5 lít) đột ngột có nhịp thở tự nhiên bị ức chế ngay giữa thì hít vào. Phản xạ sinh lý nào phù hợp nhất giải thích hiện tượng này?",
+      "options": [
+        "Phản xạ ho",
+        "Phản xạ căng giãn Hering-Breuer, do receptor căng giãn ở thành phế quản/tiểu phế quản bị kích thích khi phối căng quá mức, truyền tín hiệu qua dây X ức chế hít vào",
+        "Phản xạ hắt hơi",
+        "Đáp ứng của thể cảnh với tăng oxy máu",
+        "Phản xạ nuốt"
+      ],
+      "answer": 1,
+      "explain": "Phản xạ Hering-Breuer được kích hoạt khi thể tích phối tăng quá mức (thường > 1,5 lít ở người), qua receptor căng giãn phế quản/tiểu phế quản và dây X, ức chế thêm hít vào cơ chế bảo vệ chống căng phối quá mức, đặc biệt liên quan khi thở máy thể tích lớn."
+    },
+    {
+      "q": "Một bệnh nhân dùng quá liều opioid xuất hiện thở rất chậm và nông, đáp ứng kém với tăng CO2 máu. Vị trí tác động chính của opioid gây ức chế hô hấp là gì?",
+      "options": [
+        "Ức chế trực tiếp các thụ thể hoá học ngoại vì ở thể cảnh",
+        "Ức chế trực tiếp trung tâm hô hấp ở thân não (bao gồm nhóm nơron hô hấp lưng và phức hợp pre-Bötzinger), làm giảm đáp ứng với CO2/H+",
+        "Gây liệt cơ hoành ngoại vi",
+        "Gây co thắt thanh quản kéo dài",
+        "Ức chế chọn lọc trung tâm điều chỉnh thở mà không ảnh hưởng nhóm nơron khác"
+      ],
+      "answer": 1,
+      "explain": "Opioid ức chế trực tiếp trung tâm hô hấp ở thân não (nhóm nơron hô hấp lưng và phức hợp pre-Bötzinger), làm giảm cả tần số lẫn đáp ứng với CO2/H+, không phải tác động ngoại vi."
+    },
+    {
+      "q": "Trong các thí nghiệm cắt bỏ chọn lọc từng vùng của hành não, việc phá huỷ một vùng nhỏ ở phần đầu của nhóm nơron hô hấp bụng làm mất hoàn toàn nhịp thở tự động, ngay cả khi các vùng khác của trung tâm hô hấp còn nguyên vẹn. Vùng này được gọi là gì, và vai trò của nó là gì?",
+      "options": [
+        "Trung tâm điều chỉnh thở; giới hạn thời gian hít vào",
+        "Phức hợp pre-Bötzinger; được xem là thành phần cốt lõi của bộ tạo nhịp trung tâm (central pattern generator) cho nhịp thở cơ bản",
+        "Nhân bó đơn độc (NTS); tiếp nhận tín hiệu cảm giác từ dây X",
+        "Nhân retrotrapezoid; chỉ điều hoà thở ra chủ động",
+        "Vùng nhạy cảm hoá học bụng hành não; chỉ đáp ứng với pH"
+      ],
+      "answer": 1,
+      "explain": "Đây là phức hợp pre-Bötzinger - vùng chứa các nơron có đặc tính giống máy tạo nhịp (pacemaker-like), được xem là thành phần cốt lõi của bộ tạo nhịp trung tâm hô hấp; cắt bỏ vùng này làm mất hoàn toàn nhịp thở tự động trên thực nghiệm."
+    }
+  ]
+}
