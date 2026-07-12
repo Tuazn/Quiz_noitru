@@ -1,0 +1,620 @@
+{
+  "name": "Sỏi tiết niệu",
+  "description": "Bộ câu hỏi trắc nghiệm lâm sàng chuyên đề Sỏi tiết niệu",
+  "level": "Ôn thi nội trú",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Thận tiết niệu",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 45 tuổi đau dữ dội vùng thắt lưng trái",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi, nhân viên văn phòng.<br><br><b>Tiền sử:</b> Chưa ghi nhận sỏi thận trước đây, không đái tháo đường, hay ăn mặn.<br><br><b>Bệnh sử:</b> Vào viện vì đau dữ dội vùng thắt lưng trái. Bệnh khởi phát đột ngột sau khi chơi tennis, đau quặn cơn lan xuống bẹn và bìu trái, không có tư thế giảm đau. Bệnh nhân buồn nôn, nôn 2 lần ra thức ăn.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, vã mồ hôi, mạch 90 lần/phút, HA 130/80 mmHg, nhiệt độ 37°C. Khám bụng mềm, ấn điểm niệu quản trên trái đau chói, rung thận trái (+), không có cầu bàng quang, chạm thận (-). Các cơ quan khác chưa phát hiện bất thường.<br><br><b>Xét nghiệm:</b> WBC 9.5 G/L, Creatinin máu 95 µmol/L, Na⁺ 138 mmol/L, K⁺ 4.0 mmol/L. Tổng phân tích nước tiểu: pH 6.0, Hồng cầu (+++), Bạch cầu (-), Nitrite (-).<br><br><b>Cận lâm sàng khác:</b> Siêu âm hệ tiết niệu thấy thận trái ứ nước độ 1, có hình ảnh tăng âm kém bóng cản kích thước khoảng 4mm ở đoạn 1/3 trên niệu quản trái.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Cơn đau quặn thận điển hình do sỏi niệu quản trái",
+            "Viêm ruột thừa cấp vị trí sau manh tràng",
+            "Viêm đài bể thận cấp do sỏi",
+            "Phình động mạch chủ bụng dọa vỡ"
+          ],
+          "answer": 0,
+          "explain": "Bệnh cảnh điển hình của cơn đau quặn thận (đau vùng thắt lưng lan xuống bẹn, vã mồ hôi, nôn, rung thận dương tính) kèm hồng cầu niệu. Ý C sai vì không sốt, bạch cầu không tăng cao, Nitrite âm tính. Ý B và D ít nghĩ đến do tính chất đau và vị trí lan đặc trưng của sỏi niệu quản."
+        },
+        {
+          "q": "Cơ chế gây cơn đau quặn thận điển hình ở bệnh nhân này là gì?",
+          "options": [
+            "Sỏi cọ xát gây tổn thương niêm mạc niệu quản",
+            "Tăng áp lực đột ngột trong đài bể thận do tắc nghẽn cấp tính",
+            "Viêm tấy quanh thận kích thích phúc mạc thành sau",
+            "Co thắt cơ thắt lưng chậu do phản xạ thần kinh"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế chính của cơn đau quặn thận là sự căng giãn đột ngột của bao thận do tăng áp lực đài bể thận khi dòng nước tiểu bị tắc nghẽn cấp tính. Sỏi cọ xát chỉ gây đái máu hoặc đau âm ỉ."
+        },
+        {
+          "q": "Phương tiện chẩn đoán hình ảnh tiêu chuẩn vàng (gold standard) để xác định chẩn đoán trong trường hợp này là gì?",
+          "options": [
+            "Chụp niệu đồ tĩnh mạch (UIV)",
+            "Chụp cắt lớp vi tính (CT) bụng chậu không tiêm thuốc cản quang",
+            "Chụp MRI hệ tiết niệu",
+            "X-quang hệ tiết niệu không chuẩn bị (KUB)"
+          ],
+          "answer": 1,
+          "explain": "CT không cản quang (CT KUB) là tiêu chuẩn vàng (độ nhạy/độ đặc hiệu >95%) để chẩn đoán sỏi hệ niệu, đánh giá kích thước, vị trí và độ cứng (HU). UIV hiện ít dùng hơn."
+        },
+        {
+          "q": "Thuốc giảm đau đầu tay nên lựa chọn cho bệnh nhân này (nếu không có chống chỉ định) theo các khuyến cáo hiện nay là gì?",
+          "options": [
+            "Paracetamol truyền tĩnh mạch",
+            "Opioids (Morphine)",
+            "NSAIDs (như Diclofenac, Ketorolac)",
+            "Thuốc giãn cơ trơn (Nospa)"
+          ],
+          "answer": 2,
+          "explain": "Theo EAU và AUA guideline, NSAIDs là lựa chọn đầu tay vì vừa giảm đau vừa ức chế tổng hợp Prostaglandin -> giảm dòng máu thận -> giảm áp lực đài bể thận. Opioids là lựa chọn thứ hai hoặc phối hợp."
+        },
+        {
+          "q": "Với sỏi kích thước 4mm và tình trạng hiện tại, hướng xử trí phù hợp nhất là gì?",
+          "options": [
+            "Tán sỏi ngoài cơ thể ngay lập tức",
+            "Điều trị nội khoa tống sỏi (MET) và theo dõi",
+            "Nội soi niệu quản ngược dòng tán sỏi",
+            "Phẫu thuật nội soi sau phúc mạc lấy sỏi"
+          ],
+          "answer": 1,
+          "explain": "Sỏi niệu quản < 5mm có khả năng tự đào thải > 90% (tự phát). Bệnh nhân chưa có biến chứng, chức năng thận ổn, không sốt -> Ưu tiên điều trị nội khoa (giảm đau + a-blocker) và theo dõi trong 4-6 tuần."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 55 tuổi tiểu buốt, tiểu rắt và đau âm ỉ thắt lưng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 55 tuổi.<br><br><b>Tiền sử:</b> Gout 5 năm không điều trị thường xuyên. BMI 28.<br><br><b>Bệnh sử:</b> Vào viện vì tiểu buốt, tiểu rắt và đau âm ỉ thắt lưng 2 bên. Bệnh nhân khai nước tiểu thường xuyên có màu đỏ nhạt, tự mua thuốc kháng sinh uống không đỡ.<br><br><b>Khám lâm sàng:</b> Tỉnh, nhiệt độ 37.2°C, HA 140/85 mmHg. Vỗ hông lưng tức nhẹ 2 bên. Không phù.<br><br><b>Xét nghiệm:</b> Máu: Acid uric 520 µmol/L, Creatinin 110 µmol/L, Ca²⁺ 2.2 mmol/L. Nước tiểu: pH 5.0, HC (++), BC (+).<br><br><b>Cận lâm sàng khác:</b> X-quang hệ tiết niệu (KUB) không thấy hình ảnh cản quang rõ rệt. Siêu âm thấy nhiều nốt tăng âm kèm bóng cản ở bể thận 2 bên, kích thước lớn nhất 15mm. CT scan không cản quang xác định sỏi bể thận 2 bên, đậm độ 450 HU.",
+      "questions": [
+        {
+          "q": "Dựa trên hình ảnh KUB và CT, loại sỏi nào được nghĩ đến nhiều nhất?",
+          "options": [
+            "Sỏi Canxi Oxalate",
+            "Sỏi Struvite (Magnesium Ammonium Phosphate)",
+            "Sỏi Acid Uric",
+            "Sỏi Cystine"
+          ],
+          "answer": 2,
+          "explain": "Sỏi không cản quang trên KUB nhưng thấy trên CT và Siêu âm, kèm pH nước tiểu thấp (5.0), tiền sử Gout -> Điển hình của sỏi Acid Uric. Sỏi Canxi và Struvite đều cản quang."
+        },
+        {
+          "q": "Yếu tố nào sau đây là nguyên nhân trực tiếp quan trọng nhất hình thành loại sỏi này?",
+          "options": [
+            "Nồng độ Canxi niệu cao",
+            "pH nước tiểu toan hóa (pH thấp)",
+            "Nhiễm khuẩn đường tiết niệu mạn tính",
+            "Tăng hấp thu Oxalate tại ruột"
+          ],
+          "answer": 1,
+          "explain": "pH nước tiểu thấp (< 5.5) là yếu tố quan trọng nhất làm giảm độ hòa tan của Acid Uric, dẫn đến kết tinh sỏi, quan trọng hơn cả nồng độ acid uric niệu cao."
+        },
+        {
+          "q": "Chọn phương án SAI về đặc điểm của loại sỏi này:",
+          "options": [
+            "Không cản quang trên phim X-quang thường quy (Radiolucent)",
+            "Rất cứng, khó tán vỡ bằng xung hơi hoặc laser",
+            "Thường gặp ở bệnh nhân có hội chứng chuyển hóa hoặc Gout",
+            "Có thể nhìn thấy rõ trên phim chụp cắt lớp vi tính (CT)"
+          ],
+          "answer": 1,
+          "explain": "Câu SAI là B: Sỏi Acid Uric thường mềm và dễ vỡ hơn sỏi Canxi Oxalate monohydrate hay Cystine. Các ý A, C, D đều là đặc điểm đúng của sỏi Acid Uric."
+        },
+        {
+          "q": "Nguyên tắc điều trị nội khoa đặc hiệu (Medical Dissolution Therapy) cho loại sỏi này bao gồm:",
+          "options": [
+            "Kiềm hóa nước tiểu (đích pH 6.5-7.0) và Allopurinol",
+            "Toan hóa nước tiểu bằng Vitamin C liều cao",
+            "Dùng lợi tiểu Thiazide để giảm tái hấp thu Acid Uric",
+            "Hạn chế uống nước để cô đặc nước tiểu"
+          ],
+          "answer": 0,
+          "explain": "Sỏi Acid Uric là loại sỏi duy nhất có thể tan hoàn toàn bằng điều trị nội khoa thông qua kiềm hóa nước tiểu (Kali Citrate/Bicarbonate) duy trì pH 6.5-7.0 và giảm Acid uric máu (Allopurinol)."
+        },
+        {
+          "q": "Nếu điều trị nội khoa thất bại sau 4 tuần, sỏi gây tắc nghẽn nhẹ, phương pháp can thiệp nào là phù hợp nhất cho sỏi bể thận 15mm, đậm độ thấp?",
+          "options": [
+            "Tán sỏi qua da (PCNL)",
+            "Mổ mở lấy sỏi",
+            "Tán sỏi ngoài cơ thể (SWL)",
+            "Cắt bỏ thận"
+          ],
+          "answer": 2,
+          "explain": "Với sỏi bể thận < 20mm, đậm độ thấp (mềm), giải phẫu đài bể thận thuận lợi, tán sỏi ngoài cơ thể (SWL) là lựa chọn hiệu quả và ít xâm lấn. PCNL thường dành cho sỏi > 20mm."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ 32 tuổi đau quặn thận phải và sốt nhẹ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 32 tuổi, đang mang thai tuần thứ 24.<br><br><b>Tiền sử:</b> Khỏe mạnh.<br><br><b>Bệnh sử:</b> Vào viện vì đau quặn thận phải và sốt nhẹ. Bệnh nhân đau âm ỉ thắt lưng phải 2 ngày nay, sáng nay đau tăng lên dữ dội kèm sốt 37.8°C.<br><br><b>Khám lâm sàng:</b> Mạch 100 lần/phút, HA 110/70 mmHg. Rung thận phải (+). Tử cung tương ứng tuổi thai.<br><br><b>Xét nghiệm:</b> WBC 14 G/L, CRP 30 mg/L, Creatinin 60 µmol/L. Tổng phân tích nước tiểu: Bạch cầu (+++), Hồng cầu (++).<br><br><b>Cận lâm sàng khác:</b> Siêu âm: Thận phải ứ nước độ II, niệu quản phải đoạn trên giãn, khó khảo sát đoạn dưới do thai nhi che khuất.",
+      "questions": [
+        {
+          "q": "Chẩn đoán sơ bộ hợp lý nhất?",
+          "options": [
+            "Dọa đẻ non",
+            "Viêm ruột thừa cấp trên bệnh nhân có thai",
+            "Cơn đau quặn thận/Nhiễm trùng niệu do sỏi niệu quản phải",
+            "Viêm đài bể thận cấp do chèn ép sinh lý của thai"
+          ],
+          "answer": 2,
+          "explain": "Dù thai lớn gây chèn ép niệu quản (thường bên phải) là sinh lý, nhưng đau quặn dữ dội khởi phát cấp tính kèm dấu hiệu nhiễm trùng gợi ý tắc nghẽn bệnh lý (sỏi) hơn."
+        },
+        {
+          "q": "Cận lâm sàng hình ảnh nào được ưu tiên lựa chọn tiếp theo nếu siêu âm không xác định được nguyên nhân?",
+          "options": [
+            "Chụp X-quang hệ tiết niệu (KUB)",
+            "Chụp cắt lớp vi tính (CT) liều thấp",
+            "Chụp cộng hưởng từ (MRI) hệ tiết niệu",
+            "Chụp xạ hình thận (Renal Scintigraphy)"
+          ],
+          "answer": 2,
+          "explain": "MRI (không gadolinium) là lựa chọn an toàn và hiệu quả để đánh giá nguyên nhân tắc nghẽn ở phụ nữ mang thai khi siêu âm không rõ (Second-line). Tránh tia X (KUB, CT) nếu có thể."
+        },
+        {
+          "q": "Biến chứng nguy hiểm nhất cần theo dõi sát ở bệnh nhân này là gì?",
+          "options": [
+            "Suy thận cấp sau thận",
+            "Nhiễm khuẩn huyết từ đường tiết niệu gây sảy thai/đẻ non",
+            "Vỡ thận",
+            "Tăng huyết áp thai kỳ"
+          ],
+          "answer": 1,
+          "explain": "Nhiễm trùng niệu trên nền tắc nghẽn ở phụ nữ có thai dễ tiến triển nhanh thành nhiễm khuẩn huyết, gây nguy hiểm cho tính mạng mẹ và thai (kích thích tử cung gây sảy thai/đẻ non)."
+        },
+        {
+          "q": "Phương pháp điều trị nào CHỐNG CHỈ ĐỊNH tuyệt đối ở phụ nữ mang thai?",
+          "options": [
+            "Đặt sonde JJ niệu quản",
+            "Nội soi niệu quản tán sỏi bằng Laser",
+            "Tán sỏi ngoài cơ thể (SWL)",
+            "Dùng kháng sinh nhóm Cephalosporin"
+          ],
+          "answer": 2,
+          "explain": "Tán sỏi ngoài cơ thể (SWL) chống chỉ định tuyệt đối vì sóng xung kích gây tổn thương thai nhi và nguy cơ bong rau."
+        },
+        {
+          "q": "Nếu tình trạng nhiễm trùng không cải thiện sau 24-48h điều trị kháng sinh và giảm đau, chỉ định can thiệp nào là phù hợp nhất?",
+          "options": [
+            "Khởi phát chuyển dạ ngay",
+            "Dẫn lưu nước tiểu (đặt sonde JJ hoặc dẫn lưu thận qua da)",
+            "Mổ mở lấy sỏi thận cấp cứu",
+            "Tăng liều kháng sinh và tiếp tục theo dõi"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc là giải quyết tắc nghẽn tạm thời để điều trị nhiễm trùng. Đặt JJ hoặc PCN (dưới hướng dẫn siêu âm) là can thiệp tối thiểu an toàn nhất. Soi niệu quản thao tác khó và cần gây mê tê sâu hơn, thường làm khi dẫn lưu thất bại hoặc điều kiện thuận lợi."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi lơ mơ, sốt cao rét run",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi.<br><br><b>Tiền sử:</b> Sỏi thận trái nhiều năm chưa can thiệp.<br><br><b>Bệnh sử:</b> 3 ngày nay đau thắt lưng trái, tiểu đục, tự uống thuốc nam. Sáng nay người nhà thấy bệnh nhân lơ mơ, sốt cao rét run nên nhập viện.<br><br><b>Khám lâm sàng:</b> Lơ mơ (GCS 13 điểm), Sốt 39.5°C, Mạch 120 l/p, Huyết áp 85/50 mmHg, SpO₂ 94%. Da niêm mạc khô, vân tím rải rác. Thận trái lớn, chạm thận (+), rung thận (+).<br><br><b>Xét nghiệm:</b> WBC 22 G/L, Neu 90%, Tiểu cầu 80 G/L, Creatinin 210 µmol/L (nền 90), Lactate máu 5.5 mmol/L.<br><br><b>Cận lâm sàng khác:</b> Siêu âm: Thận trái ứ nước độ III, sỏi kẹt khúc nối bể thận niệu quản 12mm, nhu mô mỏng, dịch đục trong bể thận.",
+      "questions": [
+        {
+          "q": "Chẩn đoán đầy đủ và chính xác nhất tình trạng hiện tại là gì?",
+          "options": [
+            "Sốc nhiễm khuẩn đường vào tiết niệu/Ứ mủ thận trái do sỏi",
+            "Suy thận cấp do tắc nghẽn",
+            "Viêm bàng quang cấp xuất huyết",
+            "Cơn đau quặn thận biến chứng nhiễm trùng"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có tam chứng Charcot (sốt, đau, thận to - không điển hình) kèm dấu hiệu sốc (tụt HA, Lactate tăng, rối loạn ý thức) trên nền tắc nghẽn -> Sốc nhiễm khuẩn do ứ mủ thận."
+        },
+        {
+          "q": "Theo hướng dẫn (Surviving Sepsis Campaign & Urology Guidelines), bước xử trí quan trọng nhất ngay sau hồi sức hô hấp tuần hoàn là gì?",
+          "options": [
+            "Mổ cấp cứu lấy sỏi giải quyết nguyên nhân",
+            "Dẫn lưu hệ tiết niệu cấp cứu (Sonde JJ hoặc Dẫn lưu bể thận qua da)",
+            "Dùng kháng sinh liều cao và chờ đợi sỏi tự di chuyển",
+            "Tán sỏi ngoài cơ thể cấp cứu"
+          ],
+          "answer": 1,
+          "explain": "\"Source control\" (kiểm soát nguồn nhiễm) là tối quan trọng. Với thận ứ mủ tắc nghẽn, phải giải áp (decompression) ngay bằng JJ hoặc PCN. Kháng sinh không thể ngấm vào ổ mủ nếu không dẫn lưu."
+        },
+        {
+          "q": "Tại sao phẫu thuật lấy sỏi ngay lập tức KHÔNG được khuyến cáo trong trường hợp này?",
+          "options": [
+            "Vì sỏi quá nhỏ không cần mổ",
+            "Vì nguy cơ phát tán vi khuẩn vào máu gây sốc nặng hơn (Sepsis shower)",
+            "Vì bệnh nhân chưa đồng ý phẫu thuật",
+            "Vì không có dụng cụ phẫu thuật"
+          ],
+          "answer": 1,
+          "explain": "Can thiệp lấy sỏi thì đầu (đặc biệt là tán sỏi nội soi áp lực cao) sẽ đẩy vi khuẩn độc tố vào máu, làm trầm trọng thêm tình trạng sốc nhiễm khuẩn, nguy cơ tử vong cao."
+        },
+        {
+          "q": "Rối loạn đông máu (giảm tiểu cầu) ở bệnh nhân này gợi ý hội chứng gì?",
+          "options": [
+            "DIC (Đông máu nội mạch rải rác) do nhiễm khuẩn huyết",
+            "Xuất huyết giảm tiểu cầu vô căn (ITP)",
+            "Suy tủy xương",
+            "Tác dụng phụ của thuốc nam"
+          ],
+          "answer": 0,
+          "explain": "Trong sốc nhiễm khuẩn nặng, giảm tiểu cầu và rối loạn đông máu thường là biểu hiện của DIC."
+        },
+        {
+          "q": "Kháng sinh kinh nghiệm ban đầu phù hợp nhất nên bao phủ nhóm vi khuẩn nào?",
+          "options": [
+            "Gram dương (Staphylococcus)",
+            "Kỵ khí (Bacteroides)",
+            "Trực khuẩn Gram âm đường ruột (E. coli, Klebsiella, Proteus)",
+            "Vi khuẩn lao"
+          ],
+          "answer": 2,
+          "explain": "Vi khuẩn gây nhiễm trùng niệu phổ biến nhất là Gram âm đường ruột. Cần dùng kháng sinh phổ rộng (VD: Carbapenem hoặc Ceph 3-4 + Aminoglycoside) ngay sau khi cấy máu/nước tiểu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi phát hiện sỏi đài dưới thận phải tình cờ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Tiền sử:</b> Khỏe mạnh.<br><br><b>Bệnh sử:</b> Đi kiểm tra sức khỏe định kỳ. Không có triệu chứng đau, tiểu tiện bình thường.<br><br><b>Khám lâm sàng:</b> Bình thường.<br><br><b>Xét nghiệm:</b> Chức năng thận bình thường. Tổng phân tích nước tiểu bình thường.<br><br><b>Cận lâm sàng khác:</b> Chụp CT bụng phát hiện sỏi đài dưới thận phải kích thước 6mm, đậm độ 800 HU. Thận không ứ nước.",
+      "questions": [
+        {
+          "q": "Thái độ xử trí phù hợp nhất với bệnh nhân này là gì?",
+          "options": [
+            "Tán sỏi ngoài cơ thể (SWL) ngay để phòng ngừa biến chứng",
+            "Nội soi mềm tán sỏi thận (RIRS)",
+            "Theo dõi định kỳ (Active surveillance)",
+            "Dùng thuốc tan sỏi (Dissolution therapy)"
+          ],
+          "answer": 2,
+          "explain": "Theo hướng dẫn của EAU/AUA, sỏi đài thận < 10mm không triệu chứng có thể theo dõi hằng năm. Tỷ lệ tiến triển cần can thiệp chỉ khoảng 10-25% trong 5 năm."
+        },
+        {
+          "q": "Chỉ định can thiệp chủ động đối với sỏi đài thận KHÔNG triệu chứng bao gồm các yếu tố sau, TRỪ:",
+          "options": [
+            "Sỏi phát triển kích thước theo thời gian",
+            "Bệnh nhân làm nghề nghiệp đặc thù (phi công, thủy thủ viễn dương)",
+            "Sỏi kích thước < 5mm và ổn định trong 2 năm",
+            "Bệnh nhân mong muốn có thai (phụ nữ)"
+          ],
+          "answer": 2,
+          "explain": "Đáp án TRỪ là C: Sỏi nhỏ ổn định không có chỉ định can thiệp. Các trường hợp A, B, D là chỉ định can thiệp dự phòng (nghề nghiệp đặc thù sợ cơn đau cấp tính khi đang làm việc)."
+        },
+        {
+          "q": "Nếu sỏi này di chuyển xuống niệu quản 1/3 giữa và gây đau, phương pháp can thiệp nào có tỷ lệ sạch sỏi cao nhất (SFP)?",
+          "options": [
+            "Tán sỏi ngoài cơ thể (SWL)",
+            "Nội soi niệu quản tán sỏi (URS) bán cứng hoặc mềm",
+            "Phẫu thuật nội soi sau phúc mạc",
+            "Mổ mở"
+          ],
+          "answer": 1,
+          "explain": "Với sỏi niệu quản đoạn giữa dưới, URS có tỷ lệ sạch sỏi cao hơn SWL (đặc biệt nếu sỏi kẹt hoặc cứng)."
+        },
+        {
+          "q": "Yếu tố nào sau đây dự báo thất bại của tán sỏi ngoài cơ thể (SWL)?",
+          "options": [
+            "Khoảng cách từ da đến sỏi (SSD) > 10cm (béo phì)",
+            "Sỏi có đậm độ < 500 HU",
+            "Sỏi nằm ở bể thận",
+            "Kích thước sỏi < 10mm"
+          ],
+          "answer": 0,
+          "explain": "SSD (Skin-to-stone distance) lớn làm giảm năng lượng sóng xung kích đến viên sỏi. Ngoài ra sỏi đài dưới góc nhọn, sỏi quá cứng (>1000HU) cũng là yếu tố bất lợi."
+        },
+        {
+          "q": "Lời khuyên dự phòng sỏi tái phát quan trọng nhất cho bệnh nhân này?",
+          "options": [
+            "Hạn chế hoàn toàn Canxi trong chế độ ăn",
+            "Uống đủ nước để đảm bảo lượng nước tiểu > 2-2.5 lít/ngày",
+            "Ăn nhiều đạm động vật",
+            "Bổ sung Vitamin C liều cao hàng ngày"
+          ],
+          "answer": 1,
+          "explain": "Pha loãng nước tiểu là biện pháp dự phòng quan trọng nhất cho mọi loại sỏi. Hạn chế canxi (A) là sai lầm vì làm tăng hấp thu oxalate -> tăng sỏi oxalate. Vitamin C liều cao (D) chuyển hóa thành oxalate -> tăng nguy cơ sỏi."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 40 tuổi tiểu rắt, tiểu khó và đau tức hạ vị",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 40 tuổi.<br><br><b>Tiền sử:</b> Có đặt dụng cụ tử cung tránh thai 5 năm trước.<br><br><b>Bệnh sử:</b> Vào viện vì tiểu rắt, tiểu khó và đau tức vùng hạ vị. Bệnh diễn biến 2 tháng nay, điều trị kháng sinh uống nhiều đợt chẩn đoán viêm bàng quang nhưng triệu chứng tái phát nhanh.<br><br><b>Khám lâm sàng:</b> Ấn đau tức vùng hạ vị, thăm trực tràng/âm đạo không thấy u cục.<br><br><b>Xét nghiệm:</b> Nước tiểu: BC (++), HC (+).<br><br><b>Cận lâm sàng khác:</b> Siêu âm: Bàng quang thành dày, có hình ảnh cản quang kích thước 3cm di chuyển theo tư thế. Thận hai bên bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định bệnh nhân này là gì?",
+          "options": [
+            "Viêm bàng quang kẽ",
+            "Sỏi bàng quang",
+            "U bàng quang",
+            "Bàng quang tăng hoạt (OAB)"
+          ],
+          "answer": 1,
+          "explain": "Hình ảnh cản quang di chuyển + triệu chứng kích thích bàng quang mạn tính gợi ý sỏi bàng quang."
+        },
+        {
+          "q": "Cơ chế hình thành sỏi bàng quang ở nữ giới thường gặp nhất là gì (khác với nam giới)?",
+          "options": [
+            "Do phì đại lành tính tuyến tiền liệt",
+            "Do dị vật (chỉ khâu, vòng tránh thai di trú) hoặc sa bàng quang",
+            "Do hẹp niệu đạo",
+            "Do bàng quang thần kinh"
+          ],
+          "answer": 1,
+          "explain": "Ở nam giới sỏi bàng quang thường do tắc nghẽn cổ bàng quang (BPH). Ở nữ giới hiếm gặp hơn, thường do dị vật (chỉ khâu sau mổ đẻ, vòng tránh thai xuyên cơ) hoặc sa tạng chậu gây ứ đọng."
+        },
+        {
+          "q": "Biến chứng mạn tính nào có thể xảy ra nếu sỏi bàng quang không được điều trị lâu dài?",
+          "options": [
+            "Ung thư biểu mô tế bào vảy của bàng quang",
+            "Trào ngược bàng quang niệu quản",
+            "Rò bàng quang âm đạo",
+            "Tất cả các ý trên"
+          ],
+          "answer": 3,
+          "explain": "Kích thích mạn tính niêm mạc có thể gây dị sản vảy -> ung thư hóa; tắc nghẽn gây trào ngược; cọ xát gây viêm loét rò rỉ."
+        },
+        {
+          "q": "Phương pháp điều trị tối ưu cho sỏi bàng quang kích thước 3cm ở bệnh nhân này?",
+          "options": [
+            "Tán sỏi bàng quang nội soi (qua niệu đạo)",
+            "Mổ mở lấy sỏi (Cystolithotomy)",
+            "Tán sỏi ngoài cơ thể",
+            "Điều trị nội khoa tống sỏi"
+          ],
+          "answer": 0,
+          "explain": "Sỏi 3cm là kích thước phù hợp để tán sỏi nội soi (Cystolitholapaxy) bằng Laser hoặc cơ học. Mổ mở (B) dành cho sỏi quá lớn hoặc kèm bệnh lý cần sửa chữa. SWL (C) ít hiệu quả với sỏi bàng quang."
+        },
+        {
+          "q": "Trong quá trình nội soi tán sỏi, phẫu thuật viên cần đặc biệt lưu ý kiểm tra điều gì ở bệnh nhân này?",
+          "options": [
+            "Kiểm tra lỗ niệu quản",
+            "Tìm và lấy dị vật (mảnh vòng tránh thai) làm nhân sỏi",
+            "Sinh thiết niêm mạc bàng quang",
+            "Nong niệu đạo"
+          ],
+          "answer": 1,
+          "explain": "Do tiền sử đặt vòng tránh thai, khả năng cao sỏi hình thành trên dị vật này. Nếu không lấy hết dị vật, sỏi sẽ tái phát rất nhanh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi đau thắt lưng trái âm ỉ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 35 tuổi.<br><br><b>Tiền sử:</b> Mổ mở lấy sỏi thận trái cách đây 10 năm.<br><br><b>Bệnh sử:</b> Vào viện vì đau thắt lưng trái âm ỉ.<br><br><b>Khám lâm sàng:</b> Sẹo mổ cũ đường sườn thắt lưng lành tốt. Vỗ hông lưng trái tức.<br><br><b>Xét nghiệm:</b> Creatinin 105 µmol/L. Cấy nước tiểu dương tính với Proteus mirabilis.<br><br><b>Cận lâm sàng khác:</b> X-quang và CT cho thấy hình ảnh sỏi san hô (Staghorn stone) lấp đầy toàn bộ đài bể thận trái, phân nhánh vào các đài, kích thước lớn > 4cm. Thận phải bình thường.",
+      "questions": [
+        {
+          "q": "Bản chất hóa học của sỏi san hô liên quan đến nhiễm trùng Proteus thường là gì?",
+          "options": [
+            "Canxi Oxalate",
+            "Magnesium Ammonium Phosphate (Struvite)",
+            "Cystine",
+            "Acid Uric"
+          ],
+          "answer": 1,
+          "explain": "Proteus là vi khuẩn sinh men Urease điển hình, gây sỏi nhiễm trùng (Struvite)."
+        },
+        {
+          "q": "Vi khuẩn Proteus thúc đẩy tạo sỏi thông qua cơ chế nào?",
+          "options": [
+            "Tiết men Urease phân hủy Urê thành Amoniac (NH3) gây kiềm hóa nước tiểu",
+            "Tạo môi trường Acid nặng",
+            "Tăng bài tiết Canxi qua ống thận",
+            "Tạo mảng bám Randall"
+          ],
+          "answer": 0,
+          "explain": "Phản ứng: Urê -> NH3 + CO2. NH3+H2O -> NH4+ + OH-, Môi trường kiềm (pH>7.2) làm kết tủa MgNH4PO4 (Struvite)."
+        },
+        {
+          "q": "Phương pháp phẫu thuật tiêu chuẩn vàng (Gold Standard) cho sỏi san hô kích thước lớn, phức tạp này là gì?",
+          "options": [
+            "Tán sỏi ngoài cơ thể (SWL) nhiều lần",
+            "Nội soi ngược dòng tán sỏi bằng ống mềm (RIRS)",
+            "Tán sỏi qua da (PCNL) đường hầm nhỏ hoặc tiêu chuẩn",
+            "Mổ mở lấy sỏi (Phẫu thuật Anatrophic)"
+          ],
+          "answer": 2,
+          "explain": "PCNL là lựa chọn đầu tay cho sỏi san hô. SWL chống chỉ định với sỏi lớn do hiệu quả kém và nguy cơ tắc nghẽn đường sỏi (Steinstrasse). RIRS chỉ phù hợp sỏi < 2-3cm. Mổ mở hiện nay chỉ dùng khi PCNL thất bại hoặc kèm bất thường giải phẫu."
+        },
+        {
+          "q": "Chọn tập hợp các biến chứng có thể gặp của phương pháp PCNL: (1) Chảy máu cần truyền máu/nút mạch; (2) Tràn khí/dịch màng phổi; (3) Nhiễm khuẩn huyết; (4) Tổn thương tạng lân cận (đại tràng/gan/lách).",
+          "options": [
+            "(1) và (3)",
+            "(1), (2) và (3)",
+            "(2) và (4)",
+            "Cả (1), (2), (3) và (4)"
+          ],
+          "answer": 3,
+          "explain": "PCNL là phẫu thuật xâm lấn, nguy cơ chảy máu cao nhất (từ nhu mô thận), tổn thương màng phổi (nếu chọc đài trên), và nhiễm trùng. Tổn thương tạng lân cận như đại tràng, gan, lách cũng có thể xảy ra."
+        },
+        {
+          "q": "Nếu không điều trị triệt để (lấy sạch sỏi + diệt khuẩn), diễn tiến tự nhiên của thận trái sẽ là:",
+          "options": [
+            "Mất chức năng thận hoàn toàn (Xanthogranulomatous pyelonephritis)",
+            "Tự đào thải sỏi dần dần",
+            "Sỏi chuyển thành dạng ác tính",
+            "Không thay đổi chức năng thận"
+          ],
+          "answer": 0,
+          "explain": "Sỏi nhiễm trùng phá hủy nhu mô thận rất nhanh, dẫn đến viêm thận bể thận hạt vàng (Xanthogranulomatous) và mất chức năng thận (thận câm)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 28 tuổi cơn đau quặn thận phải",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 28 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì cơn đau quặn thận phải. Bệnh nhân đau nhiều, nôn, đã dùng thuốc giảm đau đường tiêm nhưng chỉ đỡ ít. Không sốt.<br><br><b>Khám lâm sàng:</b> Bình thường.<br><br><b>Xét nghiệm:</b> Bạch cầu 11 G/L.<br><br><b>Cận lâm sàng khác:</b> CT scanner phát hiện sỏi niệu quản phải đoạn 1/3 trên, kích thước 9mm, gây ứ nước độ II. Thận trái bình thường.",
+      "questions": [
+        {
+          "q": "Chỉ định can thiệp ngoại khoa ở bệnh nhân này là gì?",
+          "options": [
+            "Kích thước sỏi > 7mm và đau không kiểm soát được bằng thuốc",
+            "Tuổi bệnh nhân còn trẻ",
+            "Bạch cầu tăng nhẹ",
+            "Vị trí sỏi ở 1/3 trên"
+          ],
+          "answer": 0,
+          "explain": "Chỉ định can thiệp (removal) bao gồm: sỏi ít khả năng tự đào thải (>6-7mm), đau tái diễn không đáp ứng thuốc, tắc nghẽn rõ rệt."
+        },
+        {
+          "q": "Hai lựa chọn can thiệp phổ biến nhất cho vị trí và kích thước sỏi này là gì?",
+          "options": [
+            "Mổ mở vs Mổ nội soi sau phúc mạc",
+            "Tán sỏi ngoài cơ thể (SWL) vs Nội soi niệu quản tán sỏi (URS)",
+            "Tán sỏi qua da (PCNL) vs SWL",
+            "URS vs Mổ nội soi sau phúc mạc"
+          ],
+          "answer": 1,
+          "explain": "Với sỏi NQ đoạn trên < 10mm: SWL (không xâm lấn) hoặc URS (xâm lấn nhưng hiệu quả nhanh) đều là lựa chọn đầu tay."
+        },
+        {
+          "q": "Khi so sánh giữa SWL và URS cho sỏi niệu quản đoạn trên < 10mm, nhận định nào sau đây ĐÚNG?",
+          "options": [
+            "SWL xâm lấn nhiều hơn URS",
+            "URS có tỷ lệ sạch sỏi ngay lập tức cao hơn SWL",
+            "SWL cần phải gây mê toàn thân, còn URS thì không",
+            "Biến chứng hẹp niệu quản của SWL cao hơn URS"
+          ],
+          "answer": 1,
+          "explain": "URS tiếp cận trực tiếp và phá vỡ sỏi nên tỷ lệ sạch sỏi (Stone free rate) cao hơn SWL (phụ thuộc độ cứng sỏi và nhu động niệu quản). Tuy nhiên URS xâm lấn hơn và nhiều biến chứng hơn."
+        },
+        {
+          "q": "Nếu lựa chọn phương pháp Nội soi niệu quản (URS), loại ống soi và năng lượng tán sỏi nào là ưu việt nhất hiện nay?",
+          "options": [
+            "Ống soi cứng + Xung hơi (Pneumatic)",
+            "Ống soi mềm/bán cứng + Laser Holmium/Thulium",
+            "Ống soi cứng + Siêu âm",
+            "Ống soi mềm + Điện thủy lực"
+          ],
+          "answer": 1,
+          "explain": "Ống soi bán cứng/mềm giúp tiếp cận sỏi đoạn trên dễ dàng (không gây tổn thương quá mức), Laser phá sỏi mọi độ cứng. Xung hơi dễ làm sỏi bắn ngược lên thận."
+        },
+        {
+          "q": "Thuốc chẹn Alpha (Alpha-blocker) như Tamsulosin được dùng sau tán sỏi hoặc điều trị nội khoa với mục đích gì?",
+          "options": [
+            "Làm tan sỏi còn sót lại",
+            "Giãn cơ trơn niệu quản, giúp tống mảnh sỏi vụn và giảm đau",
+            "Kháng khuẩn dự phòng",
+            "Kiềm hóa nước tiểu"
+          ],
+          "answer": 1,
+          "explain": "Alpha-blocker tác động lên thụ thể alpha-1 ở cơ trơn niệu quản (đặc biệt đoạn cuối), làm giảm trương lực cơ, giảm cơn co thắt, hỗ trợ tống sỏi (MET)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 42 tuổi sỏi thận tái phát nhiều lần",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 42 tuổi.<br><br><b>Tiền sử:</b> Sỏi thận tái phát 3 lần.<br><br><b>Bệnh sử:</b> Lần này vào viện kiểm tra.<br><br><b>Xét nghiệm:</b> Đánh giá chuyển hóa (Metabolic evaluation): Canxi máu bình thường, PTH bình thường, Canxi niệu 24h tăng cao (>7.5 mmol/24h), Oxalate niệu bình thường, pH nước tiểu 6.0.<br><br><b>Cận lâm sàng khác:</b> Phát hiện sỏi thận phải 15mm.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguyên nhân rối loạn chuyển hóa gây sỏi ở bệnh nhân này?",
+          "options": [
+            "Cường tuyến cận giáp tiên phát",
+            "Tăng canxi niệu vô căn (Idiopathic Hypercalciuria)",
+            "Toan hóa ống thận (RTA)",
+            "Tăng Oxalate niệu do chế độ ăn"
+          ],
+          "answer": 1,
+          "explain": "Canxi máu bình thường loại trừ cường cận giáp. Canxi niệu cao đơn thuần thường là vô căn (do tăng hấp thu ruột, tăng hủy xương hoặc rò rỉ tại thận)."
+        },
+        {
+          "q": "Loại thuốc lợi tiểu nào được khuyến cáo sử dụng để dự phòng tái phát trong trường hợp này?",
+          "options": [
+            "Furosemide (Lợi tiểu quai)",
+            "Thiazide (Hydrochlorothiazide/Indapamide)",
+            "Spironolactone (Kháng Aldosterone)",
+            "Acetazolamide"
+          ],
+          "answer": 1,
+          "explain": "Thiazide là thuốc đặc hiệu điều trị tăng canxi niệu."
+        },
+        {
+          "q": "Cơ chế tác dụng của thuốc lợi tiểu Thiazide trong dự phòng sỏi Canxi?",
+          "options": [
+            "Tăng tái hấp thu Canxi ở ống lượn xa -> giảm Canxi niệu",
+            "Tăng bài tiết nước tiểu -> pha loãng sỏi",
+            "Kiềm hóa nước tiểu",
+            "Ức chế kết tinh oxalate"
+          ],
+          "answer": 0,
+          "explain": "Thiazide kích thích tái hấp thu Ca2+ tại ống lượn xa (qua kênh TRPV5), làm giảm nồng độ Ca2+ trong nước tiểu, giảm bão hòa tinh thể Canxi Oxalate/Phosphate."
+        },
+        {
+          "q": "Lợi tiểu quai (Furosemide) ảnh hưởng thế nào đến nguy cơ sỏi?",
+          "options": [
+            "Giảm nguy cơ sỏi do tăng dòng nước tiểu",
+            "Tăng nguy cơ sỏi do làm tăng bài tiết Canxi qua nước tiểu",
+            "Không ảnh hưởng",
+            "Làm tan sỏi"
+          ],
+          "answer": 1,
+          "explain": "Furosemide ức chế tái hấp thu Na-K-2Cl, kéo theo ức chế tái hấp thu Ca2+ -> Tăng Ca2+ niệu -> Tăng nguy cơ sỏi. Do đó tránh dùng Furosemide dài ngày ở người bị sỏi."
+        },
+        {
+          "q": "Ngoài thuốc, chế độ ăn cho người tăng canxi niệu nên như thế nào?",
+          "options": [
+            "Kiêng tuyệt đối tôm cua cá (Canxi)",
+            "Hạn chế Natri (Muối) và Đạm động vật, giữ lượng Canxi ăn vào ở mức bình thường",
+            "Ăn thật mặn để uống nhiều nước",
+            "Bổ sung Canxi liều cao"
+          ],
+          "answer": 1,
+          "explain": "Ăn mặn (nhiều Na+) làm tăng thải Ca2+ (cơ chế đồng vận chuyển). Kiêng Canxi (A) làm tăng hấp thu Oxalate (do không có Ca trong ruột để kết tủa Oxalate thải qua phân) -> Sỏi Oxalate. Do đó cần ăn nhạt và ăn Canxi vừa đủ (800-1000mg/ngày)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 60 tuổi rỉ nước tiểu qua âm đạo sau cắt tử cung",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 60 tuổi.<br><br><b>Tiền sử:</b> Cắt tử cung toàn bộ do u xơ tử cung cách đây 2 tuần.<br><br><b>Bệnh sử:</b> Sau mổ bệnh nhân thấy đau âm ỉ thắt lưng trái, và thấy nước tiểu rỉ ra từ âm đạo liên tục, vẫn đi tiểu được nhưng lượng ít. Sốt nhẹ về chiều.<br><br><b>Khám lâm sàng:</b> Hố thận trái căng tức. Nghiệm pháp xanh methylen (bơm vào bàng quang): Bông đặt âm đạo không thấm màu xanh.<br><br><b>Xét nghiệm:</b> Creatinin 90 µmol/L.",
+      "questions": [
+        {
+          "q": "Biến chứng ngoại khoa nào nghĩ đến nhiều nhất?",
+          "options": [
+            "Rò bàng quang - âm đạo",
+            "Tổn thương/Cột nhầm niệu quản trái gây rò niệu quản - âm đạo",
+            "Són tiểu gắng sức (Stress incontinence)",
+            "Bí tiểu sau mổ"
+          ],
+          "answer": 1,
+          "explain": "Tiền sử mổ vùng chậu + đau hông lưng (tắc nghẽn) + rỉ tiểu liên tục (rò) nhưng vẫn đi tiểu được (thận phải bth) + Test xanh methylen bơm bàng quang âm tính (loại trừ rò BQ-Âm đạo) -> Rò Niệu quản - Âm đạo."
+        },
+        {
+          "q": "Tại sao nghiệm pháp bơm xanh methylen vào bàng quang lại âm tính ở bông đặt âm đạo?",
+          "options": [
+            "Vì lỗ rò quá nhỏ",
+            "Vì nước tiểu rò từ niệu quản (phía trên bàng quang) chảy thẳng ra âm đạo, không thông thương với bàng quang",
+            "Vì bệnh nhân đã đi tiểu hết",
+            "Vì thuốc bị thận đào thải hết"
+          ],
+          "answer": 1,
+          "explain": "Nghiệm pháp 3 gạc (hoặc bơm màu): Nếu bơm vào BQ mà gạc âm đạo không xanh -> không rò BQ. Nếu tiêm tĩnh mạch Indigo carmine mà gạc xanh -> Rò từ trên (niệu quản)."
+        },
+        {
+          "q": "Cận lâm sàng hình ảnh tốt nhất để chẩn đoán xác định vị trí tổn thương niệu quản trong trường hợp này?",
+          "options": [
+            "Siêu âm ổ bụng",
+            "Chụp CT Urography (có thì bài tiết muộn)",
+            "Soi bàng quang",
+            "Chụp mạch thận"
+          ],
+          "answer": 1,
+          "explain": "CT có tiêm thuốc (CT Urography) dựng hình đường bài xuất sẽ thấy thuốc thoát ra ngoài niệu quản vào khoang sau phúc mạc hoặc âm đạo."
+        },
+        {
+          "q": "Đây là nguyên nhân gây sỏi tiết niệu và nhiễm trùng do cơ chế nào?",
+          "options": [
+            "Cơ chế tắc nghẽn (Obstructive) và ứ đọng",
+            "Cơ chế chuyển hóa",
+            "Cơ chế dị vật",
+            "Cơ chế miễn dịch"
+          ],
+          "answer": 0,
+          "explain": "Tổn thương gây chít hẹp tắc nghẽn dòng chảy -> ứ nước -> nhiễm trùng và lắng đọng tạo sỏi thứ phát nếu kéo dài."
+        },
+        {
+          "q": "Hướng xử trí ban đầu tối ưu để bảo tồn thận trái là gì?",
+          "options": [
+            "Mổ bụng khâu nối niệu quản ngay lập tức",
+            "Đặt thông niệu quản ngược dòng hoặc dẫn lưu thận qua da (PCN) để chuyển lưu nước tiểu",
+            "Cắt bỏ thận trái",
+            "Dùng thuốc kháng sinh và chờ lỗ rò tự liền"
+          ],
+          "answer": 1,
+          "explain": "Trong giai đoạn viêm dính sau mổ cũ (2 tuần), mổ lại rất khó khăn và nguy hiểm. Ưu tiên dẫn lưu (PCN/JJ) để cứu chức năng thận và làm khô lỗ rò. Phẫu thuật tạo hình niệu quản sẽ thực hiện sau 3-6 tháng (trì hoãn)."
+        }
+      ]
+    }
+  ]
+}
