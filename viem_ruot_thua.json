@@ -1,0 +1,624 @@
+{
+  "name": "Viêm Ruột Thừa",
+  "description": "Cases lâm sàng nâng cao về viêm ruột thừa bao gồm: các thể đặc biệt (sau manh tràng, tiểu khung, phụ nữ), các nhóm bệnh nhân đặc thù (trẻ nhỏ, người cao tuổi, phụ nữ), sốc nhiễm khuẩn, và các biến chứng hậu phẫu (áp xe tồn dư, rò mỏm cắt).",
+  "level": "ôn thi nội trú nâng cao",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Tiêu hóa",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 24 tuổi đau hố chậu phải, thang điểm Alvarado",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 24 tuổi, nhân viên văn phòng, vào viện vì đau bụng ngày thứ 1. Khởi phát cách nhập viện 12 giờ với cảm giác đau âm ỉ vùng thượng vị và quanh rốn, kèm buồn nôn, chán ăn. Sau đó khoảng 6 giờ, đau khu trú tại hố chậu phải, mức độ đau tăng dần, đau liên tục.<br><br><b>Tiền sử:</b> Khỏe mạnh, không hút thuốc, không dùng NSAID/Corticoid gần đây.<br><br><b>Khám lâm sàng:</b> Tỉnh, tiếp xúc tốt, môi hơi khô, mạch 90 lần/phút, huyết áp 120/70 mmHg, nhiệt độ 37,8°C, BMI 22. Bụng mềm, ấn đau chói điểm McBurney, phản ứng thành bụng dương tính tại hố chậu phải, dấu hiệu Rovsing dương tính, dấu hiệu Psoas âm tính. Không vàng da, gõ đục vùng thấp âm tính.<br><br><b>Xét nghiệm:</b> Bạch cầu: 14,5 G/L (Neutrophil 85%), CRP: 25 mg/L, tổng phân tích nước tiểu bình thường. Siêu âm bụng: hình ảnh ống tiêu hóa ấn không xẹp, đường kính 8 mm, thành dày 3 mm tại hố chậu phải, thâm nhiễm mỡ xung quanh.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Viêm dạ dày ruột cấp",
+            "Cơn đau quặn thận phải",
+            "Viêm ruột thừa cấp",
+            "Viêm túi thừa Meckel"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh điển hình của viêm ruột thừa (trình tự Murphy: đau thượng vị → khu trú hố chậu phải), kèm phản ứng thành bụng và kết quả cận lâm sàng ủng hộ (bạch cầu tăng, CRP tăng, siêu âm tìm thấy ruột thừa viêm đường kính > 6 mm)."
+        },
+        {
+          "q": "Dựa trên thang điểm Alvarado, bệnh nhân này được xếp vào nhóm nguy cơ nào và hướng xử trí phù hợp?",
+          "options": [
+            "1–4 điểm: Cho về và theo dõi ngoại trú",
+            "5–6 điểm: Cần chụp CT scan để xác định",
+            "7–10 điểm: Chẩn đoán xác định cao, chỉ định phẫu thuật",
+            "> 9 điểm: Chắc chắn viêm phúc mạc, mổ cấp cứu ngay"
+          ],
+          "answer": 2,
+          "explain": "Tính điểm Alvarado: di chuyển đau (1), chán ăn (1), buồn nôn (1), đau hố chậu phải (2), phản ứng thành bụng (1), sốt (1), bạch cầu tăng (2), bạch cầu trái tăng (1) = khoảng 9–10 điểm → nguy cơ cao/xác định → chỉ định phẫu thuật."
+        },
+        {
+          "q": "Phương pháp phẫu thuật tiêu chuẩn vàng hiện nay cho trường hợp này là gì?",
+          "options": [
+            "Mổ mở đường McBurney",
+            "Mổ mở đường trắng bên phải",
+            "Phẫu thuật nội soi ổ bụng",
+            "Điều trị bảo tồn bằng kháng sinh, nếu thất bại mới mổ"
+          ],
+          "answer": 2,
+          "explain": "Phẫu thuật nội soi (laparoscopic appendectomy) là tiêu chuẩn vàng theo các guideline hiện hành (WSES 2020) vì giảm đau, hồi phục nhanh, thẩm mỹ và quan sát toàn bộ ổ bụng tốt hơn mổ mở."
+        },
+        {
+          "q": "Trong quá trình phẫu thuật, khi tìm thấy gốc ruột thừa, mốc giải phẫu nào là quan trọng nhất để định vị?",
+          "options": [
+            "Hồi tràng đoạn cuối",
+            "Nơi hội tụ của 3 dải cơ dọc đại tràng (taenia coli)",
+            "Manh tràng di động",
+            "Mạc treo ruột thừa"
+          ],
+          "answer": 1,
+          "explain": "Gốc ruột thừa luôn nằm tại nơi hội tụ của 3 dải cơ dọc đại tràng trên manh tràng. Đây là mốc giải phẫu hằng định nhất để tìm ruột thừa, bất kể đầu ruột thừa nằm ở vị trí nào (Bailey & Love)."
+        },
+        {
+          "q": "Biến chứng sớm thường gặp nhất sau phẫu thuật cắt ruột thừa (đặc biệt nếu ruột thừa đã vỡ) là gì?",
+          "options": [
+            "Tắc ruột dính",
+            "Nhiễm trùng vết mổ/ổ bụng",
+            "Rò manh tràng",
+            "Chảy máu trong ổ bụng"
+          ],
+          "answer": 1,
+          "explain": "Nhiễm trùng vùng mổ (Surgical Site Infection - SSI) là biến chứng thường gặp nhất, đặc biệt trong viêm ruột thừa vỡ hoặc hoại tử. Tắc ruột dính thường là biến chứng muộn hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 28 tuổi mang thai 26 tuần, đau mạn sườn phải",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 28 tuổi, đang mang thai tuần thứ 26 (tam cá nguyệt 2), vào viện vì đau bụng bên phải. Đau khởi phát vùng quanh rốn, sau đó lan sang mạn sườn phải và hố chậu phải, đau tăng khi cử động. Kèm buồn nôn nhẹ, không nôn, không rối loạn tiểu tiện, không ra máu âm đạo.<br><br><b>Tiền sử:</b> Tiền sử sản khoa con lần 1, khám thai định kỳ bình thường.<br><br><b>Khám lâm sàng:</b> Mạch 95 lần/phút, nhiệt độ 37,5°C, huyết áp 110/70 mmHg. Tử cung to tương xứng tuổi thai, ấn đau rõ vùng mạn sườn phải (cao hơn mào chậu), phản ứng thành bụng không rõ ràng do thành bụng căng. Dấu hiệu Alder âm tính. Tim thai 145 lần/phút.<br><br><b>Xét nghiệm:</b> Bạch cầu: 16,0 G/L, CRP: 15 mg/L. Tổng phân tích nước tiểu: bạch cầu dương tính, nitrite âm tính, hồng cầu âm tính. Siêu âm bụng: thai nhi bình thường, gan mật bình thường, không khảo sát được cấu trúc ruột thừa do tử cung che khuất.",
+      "questions": [
+        {
+          "q": "Vị trí đau của bệnh nhân cao hơn bình thường (mạn sườn phải) được giải thích do cơ chế nào?",
+          "options": [
+            "Do ruột thừa dài bất thường",
+            "Tử cung lớn đẩy manh tràng và ruột thừa lên cao và ra ngoài",
+            "Do viêm lan tỏa sang túi mật",
+            "Do đau quy chiếu từ thận phải"
+          ],
+          "answer": 1,
+          "explain": "Vào cuối tam cá nguyệt 2, tử cung to lớn đẩy manh tràng lên trên và ra ngoài, khiến điểm đau ruột thừa di chuyển lên mạn sườn phải thay vì hố chậu phải (Schwartz 11e)."
+        },
+        {
+          "q": "Cận lâm sàng hình ảnh học ĐẦU TAY (first-line) và AN TOÀN nhất để chẩn đoán cho thai phụ này là gì?",
+          "options": [
+            "X-quang bụng không chuẩn bị",
+            "CT scan bụng chậu có cản quang",
+            "Siêu âm bụng (ép đầu dò)",
+            "MRI bụng chậu"
+          ],
+          "answer": 2,
+          "explain": "Siêu âm luôn là first-line vì không nhiễm xạ, rẻ tiền và sẵn có. Tuy nhiên độ nhạy giảm khi thai lớn che khuất ruột thừa."
+        },
+        {
+          "q": "Nếu siêu âm không xác định được ruột thừa (do thai lớn che khuất), bước tiếp theo nên làm gì theo guideline hiện đại (WSES)?",
+          "options": [
+            "Chụp CT scan liều thấp",
+            "Chụp MRI bụng (không gadolinium)",
+            "Mổ nội soi thăm dò ngay lập tức",
+            "Theo dõi 24h, nếu đau tăng thì mổ"
+          ],
+          "answer": 1,
+          "explain": "MRI (không thuốc tương phản từ) là lựa chọn tiếp theo nếu siêu âm không kết luận được, tránh tia X cho thai nhi (Guideline WSES/SAGES). CT chỉ dùng khi MRI không khả thi hoặc tối khẩn cấp."
+        },
+        {
+          "q": "Chọn TẬP HỢP ĐÚNG về xử trí viêm ruột thừa trên phụ nữ mang thai:",
+          "type": "multi",
+          "options": [
+            "(1) Phẫu thuật nội soi an toàn ở tam cá nguyệt 2",
+            "(2) Nên trì hoãn phẫu thuật để chờ phổi thai nhi trưởng thành",
+            "(3) Nguy cơ sảy thai/sinh non khoảng 10–15% nếu viêm phúc mạc xảy ra",
+            "(4) Luôn đặt dẫn lưu ổ bụng để phòng ngừa áp xe"
+          ],
+          "answer": [
+            0,
+            2
+          ],
+          "explain": "Mệnh đề đúng là (1) và (3). Phẫu thuật nội soi cắt ruột thừa an toàn ở mọi tam cá nguyệt. Nguy cơ sảy thai/sinh non do viêm phúc mạc tăng lên 10–15% hoặc cao hơn. Việc trì hoãn phẫu thuật hoặc chỉ dùng kháng sinh tăng vọt nguy cơ vỡ ruột thừa."
+        },
+        {
+          "q": "Tại sao chẩn đoán viêm ruột thừa ở phụ nữ mang thai thường khó và dễ bị muộn?",
+          "options": [
+            "Bạch cầu sinh lý giảm trong thai kỳ làm che lấp triệu chứng",
+            "Ruột thừa bị teo nhỏ trong thai kỳ",
+            "Triệu chứng buồn nôn/nôn bị nhầm với nghén và thành bụng giãn làm mất phản ứng phúc mạc rõ rệt",
+            "Sốt không bao giờ xuất hiện ở phụ nữ mang thai bị viêm ruột thừa"
+          ],
+          "answer": 2,
+          "explain": "Bạch cầu thường tăng sinh lý trong thai kỳ (có thể lên 12-15 G/L), nhưng yếu tố chính gây chẩn đoán muộn là triệu chứng buồn nôn/nôn bị nhầm với nghén, khám lâm sàng khó khăn do tử cung lớn và thành bụng giãn làm mất phản ứng phúc mạc rõ rệt."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi đái tháo đường, đám quánh ruột thừa ngày thứ 5",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 55 tuổi, tiền sử đái tháo đường type 2 dùng Metformin, vào viện vì đau hố chậu phải ngày thứ 5. Bệnh nhân tự mua thuốc kháng sinh và giảm đau uống tại nhà, nay thấy đau không giảm và sờ thấy khối cứng ở bụng dưới nên vào viện.<br><br><b>Tiền sử:</b> Đái tháo đường type 2 đang dùng Metformin.<br><br><b>Khám lâm sàng:</b> Tỉnh, sốt nhẹ 38°C, mạch 88 lần/phút. Bụng di động kém vùng dưới rốn, sờ thấy một khối chắc, giới hạn tương đối rõ, ấn đau tại hố chậu phải, kích thước khoảng 6×8 cm, bề mặt nhẵn, không di động. Phản ứng thành bụng âm tính, cảm ứng phúc mạc âm tính. Thăm trực tràng không đau.<br><br><b>Xét nghiệm:</b> Bạch cầu: 13,0 G/L, CRP: 80 mg/L. CT scan bụng: khối thâm nhiễm viêm vùng manh tràng bao bọc ruột thừa, bên trong có ổ dịch khí kích thước 4 cm, thâm nhiễm mỡ mạc treo lân cận.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định phù hợp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Viêm ruột thừa cấp giờ thứ 5",
+            "Đám quánh ruột thừa",
+            "Áp xe ruột thừa",
+            "Ung thư manh tràng vỡ"
+          ],
+          "answer": 2,
+          "explain": "CT scan mô tả khối có ổ dịch khí → áp xe ruột thừa (Appendiceal abscess). Đám quánh (Phlegmon) thường là khối viêm đặc, không có ổ mủ rõ trên chẩn đoán hình ảnh."
+        },
+        {
+          "q": "Thái độ xử trí ban đầu ƯU TIÊN cho bệnh nhân này là gì?",
+          "options": [
+            "Phẫu thuật mổ mở cắt ruột thừa và dẫn lưu ngay lập tức",
+            "Phẫu thuật nội soi gỡ dính và cắt ruột thừa",
+            "Điều trị bảo tồn (kháng sinh tĩnh mạch) + chọc hút dẫn lưu dưới hướng dẫn chẩn đoán hình ảnh",
+            "Chỉ dùng thuốc giảm đau và theo dõi"
+          ],
+          "answer": 2,
+          "explain": "Theo Ochsner-Sherren regimen và WSES: áp xe ruột thừa > 3 cm ưu tiên chọc hút dẫn lưu qua da (Percutaneous drainage) + kháng sinh IV. Mổ ngay thì đầu ở giai đoạn này rất khó khăn và rủi ro cao."
+        },
+        {
+          "q": "Chống chỉ định của phẫu thuật cắt ruột thừa ngay thì đầu trong trường hợp 'đám quánh ruột thừa' là do nguy cơ gì cao nhất?",
+          "options": [
+            "Không tìm thấy ruột thừa",
+            "Tổn thương các tạng lân cận (manh tràng, ruột non) và lan tràn nhiễm trùng",
+            "Bệnh nhân không chịu được gây mê",
+            "Gây chảy máu không cầm được"
+          ],
+          "answer": 1,
+          "explain": "Trong giai đoạn viêm dính cấp tính (5-7 ngày), các quai ruột và mạc nối dính chặt vào ổ viêm. Phẫu thuật gỡ dính dễ gây rách ruột, rò manh tràng và lan tràn nhiễm trùng (biến chứng nguy hiểm hơn bản thân bệnh)."
+        },
+        {
+          "q": "Nếu bệnh nhân được điều trị bảo tồn thành công, thời điểm nào thích hợp để cân nhắc cắt ruột thừa trì hoãn (Interval appendectomy)?",
+          "options": [
+            "Sau 1 tuần",
+            "Sau 2–4 tuần",
+            "Sau 6–12 tuần",
+            "Sau 1 năm"
+          ],
+          "answer": 2,
+          "explain": "Interval appendectomy (cắt ruột thừa trì hoãn) thường thực hiện sau 6–12 tuần để mô viêm xơ hoá, giảm phù nề, giúp phẫu thuật an toàn."
+        },
+        {
+          "q": "Dấu hiệu nào sau đây cho thấy điều trị bảo tồn thất bại và cần chuyển mổ cấp cứu?",
+          "options": [
+            "Bạch cầu giảm từ 13 xuống 10 G/L",
+            "Khối áp xe giảm kích thước trên siêu âm",
+            "Sốt cao rét run trở lại, đau bụng lan rộng, mạch nhanh",
+            "Bệnh nhân cảm thấy đói bụng"
+          ],
+          "answer": 2,
+          "explain": "Dấu hiệu thất bại bảo tồn (Failure of conservative management): lâm sàng xấu đi (sốt cao, đau tăng, viêm phúc mạc lan rộng) hoặc khối áp xe to ra → bắt buộc phải can thiệp phẫu thuật để giải quyết ổ nhiễm trùng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 18 tuổi đau hông lưng phải, dấu hiệu Psoas dương tính",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 18 tuổi, sinh viên, vào viện vì đau hông lưng phải và sốt nhẹ. Khởi phát đau âm ỉ vùng hông phải lan xuống bẹn, đau tăng khi duỗi chân phải. Bệnh nhân đi tiểu bình thường, không tiểu buốt, nước tiểu vàng trong.<br><br><b>Tiền sử:</b> Khỏe mạnh.<br><br><b>Khám lâm sàng:</b> Tỉnh, sốt 38,2°C. Bụng mềm, ấn điểm McBurney đau nhẹ, nhưng ấn sâu vùng hông lưng phải đau chói. Dấu hiệu Psoas dương tính: bệnh nhân nằm nghiêng trái, duỗi quá mức chân phải gây đau.<br><br><b>Xét nghiệm:</b> Bạch cầu: 15 G/L. Tổng phân tích nước tiểu: bạch cầu 10–15 tế bào/vi trường, hồng cầu âm tính, nitrite âm tính, protein niệu vết. Siêu âm ổ bụng: thận phải không ứ nước, vùng sau manh tràng bị hơi đại tràng che khuất không khảo sát được.",
+      "questions": [
+        {
+          "q": "Vị trí giải phẫu nào của ruột thừa phù hợp nhất với bệnh cảnh lâm sàng này?",
+          "options": [
+            "Tiểu khung (Pelvic)",
+            "Sau manh tràng (Retrocecal)",
+            "Trước hồi tràng (Pre-ileal)",
+            "Dưới gan (Subhepatic)"
+          ],
+          "answer": 1,
+          "explain": "Ruột thừa sau manh tràng (Retrocecal) thường gây đau hông lưng, ít đau tại điểm McBurney điển hình, và kích thích cơ thắt lưng chậu (Psoas sign dương tính)."
+        },
+        {
+          "q": "Tại sao trong trường hợp này nước tiểu có bạch cầu (Pyuria) nhưng nitrite âm tính?",
+          "options": [
+            "Do bệnh nhân bị nhiễm trùng đường tiết niệu kèm theo",
+            "Do ổ viêm ruột thừa nằm cạnh niệu quản/bàng quang gây kích thích (Viêm cạnh niệu quản)",
+            "Do sai sót xét nghiệm",
+            "Do bệnh nhân bị sỏi thận phải"
+          ],
+          "answer": 1,
+          "explain": "Ruột thừa viêm nằm sát niệu quản phải gây phản ứng viêm lan sang thành niệu quản → bạch cầu trong nước tiểu (sterile pyuria - tiểu mủ vô khuẩn, cấy âm tính, nitrite âm tính)."
+        },
+        {
+          "q": "Dấu hiệu Psoas dương tính được thực hiện đúng kỹ thuật nhằm mục đích gì?",
+          "options": [
+            "Kích thích cơ bịt",
+            "Làm căng cơ thắt lưng chậu cọ xát vào ruột thừa viêm nằm phía sau manh tràng",
+            "Đẩy các quai ruột non vào hố chậu phải",
+            "Kiểm tra tình trạng khớp háng"
+          ],
+          "answer": 1,
+          "explain": "Psoas sign: đau khi duỗi đùi hoặc bệnh nhân chủ động gấp đùi chống lại lực cản → cơ thắt lưng chậu co/căng chạm vào ổ viêm."
+        },
+        {
+          "q": "Khi phẫu thuật nội soi cho trường hợp này, phẫu thuật viên thường gặp khó khăn gì chính?",
+          "options": [
+            "Khó tạo khoang làm việc",
+            "Ruột thừa bị vùi lấp sau manh tràng và dính vào cơ thắt lưng chậu/niệu quản",
+            "Chảy máu từ động mạch chủ bụng",
+            "Không thể bơm hơi ổ bụng"
+          ],
+          "answer": 1,
+          "explain": "Ruột thừa sau manh tràng thường bị mạc dính của kết tràng (cân Toldt) che phủ hoặc dính chặt vào thành bụng sau/cơ thắt lưng, đòi hỏi phải phẫu tích manh tràng lật vào trong mới bộc lộ được."
+        },
+        {
+          "q": "Trong chẩn đoán phân biệt, bệnh lý nào sau đây ít nghĩ đến nhất với triệu chứng trên?",
+          "options": [
+            "Sỏi niệu quản phải",
+            "Viêm đài bể thận phải",
+            "Viêm đại tràng",
+            "Thủng loét dạ dày tá tràng"
+          ],
+          "answer": 3,
+          "explain": "Thủng dạ dày thường gây đau đột ngột dữ dội thượng vị, bụng cứng như gỗ, ít khi biểu hiện khu trú ở hông lưng hay dấu hiệu Psoas dương tính."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 4 tuổi sốt cao, nôn mửa, viêm phúc mạc toàn thể",
+      "body": "<b>Bệnh sử:</b> Bệnh nhi nam 4 tuổi, vào viện vì sốt cao và nôn mửa ngày thứ 2. Trẻ quấy khóc, bỏ ăn, nôn nhiều lần ra thức ăn, sau đó sốt 39°C. Mẹ thấy trẻ nằm co chân, không chịu duỗi thẳng, sờ vào bụng trẻ khóc thét. Không có tiêu chảy, không ho.<br><br><b>Tiền sử:</b> Khỏe mạnh.<br><br><b>Khám lâm sàng:</b> Trẻ lừ đừ, môi khô, lưỡi bẩn, vẻ mặt nhiễm trùng. Mạch 120 lần/phút, nhiệt độ 39,5°C. Bụng chướng nhẹ, ấn đau khắp bụng dưới nhưng ưu thế hố chậu phải, phản ứng thành bụng dương tính. Nghe phổi bình thường.<br><br><b>Xét nghiệm:</b> Bạch cầu: 20 G/L (Neutrophil 90%), CRP: 100 mg/L. Siêu âm: có dịch tự do hố chậu phải và túi cùng Douglas, quai ruột giãn nhẹ, khó khảo sát ruột thừa do hơi.",
+      "questions": [
+        {
+          "q": "Tại sao chẩn đoán viêm ruột thừa ở trẻ nhỏ (< 5 tuổi) thường khó khăn và dễ vỡ?",
+          "options": [
+            "Mạc nối lớn chưa phát triển hoàn thiện để bao bọc ổ viêm và trẻ không diễn tả được triệu chứng chính xác",
+            "Ruột thừa ở trẻ em nằm bên trái",
+            "Thành ruột thừa trẻ em dày hơn người lớn",
+            "Trẻ em có sức đề kháng tốt hơn nên ít sốt"
+          ],
+          "answer": 0,
+          "explain": "Ở trẻ nhỏ, mạc nối lớn (Greater omentum) ngắn và chưa phát triển đủ để đến bọc lại ổ viêm → dễ dẫn đến viêm phúc mạc toàn thể. Ngoài ra, bệnh sử khó khai thác cũng làm chậm trễ chẩn đoán."
+        },
+        {
+          "q": "Thang điểm lâm sàng nào được ưu tiên sử dụng để đánh giá nguy cơ viêm ruột thừa ở trẻ em (có tính đến CRP)?",
+          "options": [
+            "Alvarado score",
+            "AIR score (Appendicitis Inflammatory Response)",
+            "PAS (Pediatric Appendicitis Score)",
+            "Ranson score"
+          ],
+          "answer": 2,
+          "explain": "PAS (Pediatric Appendicitis Score) hoặc Samuel score là thang điểm thiết kế riêng cho trẻ em. AIR score cũng tốt nhưng PAS phổ biến trong nhi khoa."
+        },
+        {
+          "q": "Chiến lược hình ảnh học tối ưu cho bệnh nhi này khi siêu âm không rõ ràng là gì?",
+          "options": [
+            "Chụp CT scan ngay lập tức",
+            "Siêu âm lại bởi bác sĩ có kinh nghiệm hoặc cân nhắc MRI để tránh tia X",
+            "Chụp X-quang bụng đứng",
+            "Nội soi dạ dày"
+          ],
+          "answer": 1,
+          "explain": "Trẻ em rất nhạy cảm với tia xạ (nguy cơ ung thư sau này). CT scan là lựa chọn sau cùng. Ưu tiên siêu âm kỹ lại hoặc MRI (Guideline ACR/WSES)."
+        },
+        {
+          "q": "Biến chứng nào sau đây KHÔNG PHẢI là đặc thù hay gặp của viêm ruột thừa vỡ ở trẻ nhỏ?",
+          "options": [
+            "Tắc ruột cơ năng (Liệt ruột)",
+            "Viêm phúc mạc toàn thể",
+            "Áp xe gan",
+            "Ung thư hoá ruột thừa"
+          ],
+          "answer": 3,
+          "explain": "Ung thư hoá không phải là biến chứng cấp tính của viêm ruột thừa. Tắc ruột, viêm phúc mạc, và nhiễm trùng huyết (có thể dẫn đến áp xe gan xa) là biến chứng nhiễm trùng."
+        },
+        {
+          "q": "Nguyên tắc bù dịch trước mổ cho bệnh nhi này (đang có dấu hiệu mất nước, sốt, nôn):",
+          "options": [
+            "Không cần bù dịch, mổ ngay lập tức",
+            "Bù dịch nhanh (Bolus) tinh thể đẳng trương để hồi sức tuần hoàn, hạ sốt trước khi gây mê",
+            "Chỉ truyền Glucose 5%",
+            "Truyền Albumin"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhi sốt, nôn, mạch nhanh (120) là dấu hiệu mất nước/nhiễm độc. Bắt buộc phải hồi sức dịch điện giải (Resuscitation) để ổn định huyết động trước khi khởi mê để tránh tụt huyết áp khi gây mê."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi đau hạ vị, tiêu phân lỏng, dấu hiệu Obturator dương tính",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 30 tuổi, vào viện vì đau bụng dưới và đi ngoài phân lỏng. Đau âm ỉ vùng hạ vị (trên xương mu), kèm cảm giác mót rặn (tenesmus) và tiêu chảy 3–4 lần/ngày, phân lỏng không nhầy máu. Cảm giác tiểu rắt. Khám bụng mềm, ấn điểm McBurney không đau rõ rệt, nhưng ấn sâu vùng trên vệ và hố chậu phải thấy tức.<br><br><b>Tiền sử:</b> Khỏe mạnh.<br><br><b>Khám lâm sàng:</b> Thăm trực tràng (DRE): cơ thắt hậu môn bình thường, ấn đau chói ở thành phải trực tràng. Nhiệt độ 37,9°C. Bạch cầu 13,5 G/L. Không có phản ứng thành bụng tại điểm McBurney.",
+      "questions": [
+        {
+          "q": "Triệu chứng tiêu chảy và tiểu rắt ở bệnh nhân này gợi ý ruột thừa nằm ở vị trí nào?",
+          "options": [
+            "Sau manh tràng",
+            "Tiểu khung (Pelvic appendicitis)",
+            "Trước hồi tràng",
+            "Dưới gan"
+          ],
+          "answer": 1,
+          "explain": "Ruột thừa tiểu khung nằm sát trực tràng (gây kích thích → mót rặn, tiêu chảy) và bàng quang (gây kích thích → tiểu rắt)."
+        },
+        {
+          "q": "Tại sao bệnh nhân đau khi thăm trực tràng?",
+          "options": [
+            "Do bệnh trĩ nội",
+            "Do viêm túi tinh",
+            "Do ruột thừa viêm nằm trong túi cùng Douglas kích thích trực tràng",
+            "Do u trực tràng"
+          ],
+          "answer": 2,
+          "explain": "Thăm trực tràng (Digital Rectal Exam) chạm vào thành phải trực tràng tương ứng vị trí ruột thừa viêm trong tiểu khung gây đau chói (Tiếng kêu Douglas)."
+        },
+        {
+          "q": "Chẩn đoán phân biệt quan trọng nhất cần loại trừ ở bệnh nhân nam giới có tiêu chảy và sốt là:",
+          "options": [
+            "Viêm phần phụ",
+            "Viêm dạ dày ruột cấp (Gastroenteritis)",
+            "Viêm tụy cấp",
+            "Thủng dạ dày"
+          ],
+          "answer": 1,
+          "explain": "Viêm dạ dày ruột (Gastroenteritis) thường có nôn, tiêu chảy nhiều nước, đau quặn bụng lan tỏa, không có điểm đau khu trú hay phản ứng thành bụng rõ rệt."
+        },
+        {
+          "q": "Trong thể lâm sàng này (ruột thừa tiểu khung), dấu hiệu lâm sàng nào thường ÂM TÍNH hoặc KHÔNG RÕ RÀNG, dễ gây chẩn đoán nhầm?",
+          "options": [
+            "Sốt",
+            "Bạch cầu tăng",
+            "Phản ứng thành bụng tại điểm McBurney",
+            "Đau khi thăm trực tràng"
+          ],
+          "answer": 2,
+          "explain": "Do ruột thừa nằm sâu trong tiểu khung, bị các quai ruột non và bàng quang che phủ phía trước, nên không tiếp xúc trực tiếp với thành bụng trước → ít hoặc không có phản ứng thành bụng tại hố chậu phải."
+        },
+        {
+          "q": "Phương pháp phẫu thuật ưu việt nhất và đường mổ cho trường hợp này:",
+          "options": [
+            "Mổ mở đường McBurney là dễ nhất",
+            "Nội soi ổ bụng là ưu việt vì quan sát rõ vùng tiểu khung và dễ thao tác",
+            "Mổ đường trắng giữa trên rốn",
+            "Mổ đường Pfannenstiel (ngang trên vệ)"
+          ],
+          "answer": 1,
+          "explain": "Phẫu thuật nội soi (Laparoscopy) cực kỳ ưu thế trong ruột thừa tiểu khung hoặc béo phì, cho phép quan sát sâu trong Douglas, bóc tách và rửa sạch mủ tốt hơn đường mổ mở nhỏ hẹp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 22 tuổi chưa lập gia đình, đau hố chậu phải giữa chu kỳ kinh",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 22 tuổi, sinh viên, chưa lập gia đình, vào viện vì đau hố chậu phải giờ thứ 6. Kinh nguyệt đều, chu kỳ 28 ngày, ngày đầu kỳ kinh cuối (LMP) cách đây 14 ngày. Đau đột ngột vùng hố chậu phải, đau nhói, liên tục, không lan. Sốt nhẹ 37,5°C. Buồn nôn ít.<br><br><b>Tiền sử:</b> Chưa lập gia đình, kinh nguyệt đều.<br><br><b>Khám lâm sàng:</b> Bụng mềm, ấn đau chói điểm McBurney, phản ứng thành bụng nghi ngờ. Huyết động ổn định (mạch 80, huyết áp 110/60). Cận lâm sàng: bạch cầu 10,5 G/L (tăng nhẹ), siêu âm thấy một ít dịch cùng đồ, không thấy rõ ruột thừa, buồng trứng phải có nang kích thước 30 mm.",
+      "questions": [
+        {
+          "q": "Dựa vào ngày kinh chót (giữa chu kỳ), chẩn đoán phân biệt nào liên quan đến phụ khoa là phù hợp nhất?",
+          "options": [
+            "Thai ngoài tử cung vỡ",
+            "Xoắn u nang buồng trứng",
+            "Vỡ nang De Graaf (Mittelschmerz)",
+            "Viêm phần phụ cấp (PID)"
+          ],
+          "answer": 2,
+          "explain": "LMP cách 14 ngày → thời điểm rụng trứng. Nang trứng vỡ gây chảy máu/dịch ít vào ổ bụng gây đau (hội chứng Mittelschmerz)."
+        },
+        {
+          "q": "Xét nghiệm nào BẮT BUỘC phải làm ở mọi phụ nữ trong độ tuổi sinh đẻ đau bụng cấp?",
+          "options": [
+            "CA-125",
+            "Beta-hCG (máu hoặc nước tiểu)",
+            "Soi tươi dịch âm đạo",
+            "Progesterone máu"
+          ],
+          "answer": 1,
+          "explain": "Beta-hCG là bắt buộc để loại trừ thai ngoài tử cung vỡ - một cấp cứu sản khoa đe dọa tính mạng có thể nhầm với viêm ruột thừa."
+        },
+        {
+          "q": "Điểm khác biệt lâm sàng quan trọng giúp gợi ý viêm ruột thừa hơn là viêm phần phụ (PID) là:",
+          "options": [
+            "Viêm ruột thừa thường đau hai bên hố chậu",
+            "Viêm phần phụ thường sốt rất cao ngay từ đầu, dịch âm đạo hôi, đau khi lay cổ tử cung",
+            "Viêm ruột thừa luôn kèm rong kinh",
+            "Viêm phần phụ không bao giờ có bạch cầu tăng"
+          ],
+          "answer": 1,
+          "explain": "PID (Pelvic Inflammatory Disease) thường lây qua đường tình dục (lậu/chlamydia), sốt cao, dịch âm đạo bất thường, đau hạ vị lan toả 2 bên, khám trong đau khi lắc cổ tử cung. Viêm ruột thừa thường khu trú hố chậu phải, anorexia."
+        },
+        {
+          "q": "Chọn phát biểu ĐÚNG về nang De Graaf vỡ (Mittelschmerz):",
+          "options": [
+            "Luôn cần phẫu thuật cầm máu",
+            "Xảy ra vào giai đoạn hành kinh",
+            "Thường tự giới hạn, đau do dịch nang/máu kích thích phúc mạc, điều trị bảo tồn",
+            "Gây sốc mất máu nặng"
+          ],
+          "answer": 2,
+          "explain": "Mittelschmerz là sinh lý/bệnh lý nhẹ, thường tự khỏi sau vài giờ/ngày, hiếm khi cần can thiệp trừ khi chảy máu nhiều (vỡ nang hoàng thể)."
+        },
+        {
+          "q": "Nếu Beta-hCG âm tính, siêu âm không loại trừ được viêm ruột thừa và triệu chứng đau ngày càng tăng. Hướng xử trí hợp lý nhất?",
+          "options": [
+            "Chụp CT scan bụng chậu có cản quang để chẩn đoán xác định",
+            "Cho thuốc giảm đau và cho về",
+            "Nội soi ổ bụng chẩn đoán (Diagnostic Laparoscopy)",
+            "Điều trị thử kháng sinh viêm phần phụ"
+          ],
+          "answer": 2,
+          "explain": "Ở nữ trẻ, chẩn đoán viêm ruột thừa khó (tỷ lệ mổ nhầm cao ~20-30% nếu chỉ dựa lâm sàng). Nếu siêu âm không rõ, nội soi ổ bụng chẩn đoán vừa quan sát ruột thừa, vừa kiểm tra tử cung/phần phụ là phương án xâm lấn tối thiểu hiệu quả."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi nghiện rượu, sốc nhiễm khuẩn, viêm phúc mạc toàn thể",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 45 tuổi, nghiện rượu (uống 500 ml/ngày), vào viện trong tình trạng sốc. Đau bụng dữ dội khắp bụng cách đây 2 ngày nhưng cố chịu, nay lơ mơ, khó thở.<br><br><b>Tiền sử:</b> Nghiện rượu (uống 500 ml/ngày).<br><br><b>Khám lâm sàng:</b> Lơ mơ (GCS 12), mạch 130 lần/phút, huyết áp 80/50 mmHg (đang dùng vận mạch liều thấp), sốt 39°C, SpO₂ 92%. Bụng chướng căng, gõ vang, ấn đau khắp bụng, cảm ứng phúc mạc toàn thể dương tính. Co cứng thành bụng (Rigidity) như gỗ.<br><br><b>Xét nghiệm:</b> Bạch cầu: 25 G/L, lactate máu: 6,0 mmol/L, creatinin: 150 μmol/L. Khí máu: pH 7,25 (toan chuyển hóa). CT scan: hình ảnh khí tự do ổ bụng, dịch ổ bụng nhiều, ruột thừa vỡ nát.",
+      "questions": [
+        {
+          "q": "Chẩn đoán đầy đủ nhất cho tình trạng hiện tại:",
+          "options": [
+            "Viêm phúc mạc khu trú do áp xe ruột thừa",
+            "Sốc nhiễm khuẩn / Viêm phúc mạc toàn thể do viêm ruột thừa vỡ",
+            "Sốc giảm thể tích do xuất huyết tiêu hóa",
+            "Viêm tụy cấp hoại tử"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh lâm sàng (bụng gỗ, đau khắp bụng) và kết quả xét nghiệm (lactate tăng, tụt huyết áp) điển hình của sốc nhiễm khuẩn tiêu điểm từ ổ bụng (viêm phúc mạc toàn thể)."
+        },
+        {
+          "q": "Bước xử trí ĐẦU TIÊN và quan trọng nhất tại phòng cấp cứu là:",
+          "options": [
+            "Đẩy thẳng lên phòng mổ ngay lập tức",
+            "Hồi sức tích cực: bù dịch, kháng sinh phổ rộng, vận mạch để ổn định huyết động trước",
+            "Chọc hút dịch ổ bụng",
+            "Đặt sonde dạ dày và thụt tháo"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc 'Resuscitation before Operation': bệnh nhân đang sốc (huyết áp 80/50, lactate 6,0) nếu gây mê ngay sẽ trụy mạch tử vong. Cần hồi sức nhanh (dịch + vận mạch + kháng sinh) trong 1-2 giờ để tối ưu hoá trước mổ."
+        },
+        {
+          "q": "Tiên lượng bệnh nhân này nặng vì:",
+          "options": [
+            "Tuổi cao",
+            "Lactate tăng cao, tụt huyết áp, toan chuyển hóa (dấu hiệu suy đa tạng)",
+            "Bạch cầu quá cao",
+            "Nghiện rượu"
+          ],
+          "answer": 1,
+          "explain": "Thang điểm qSOFA hoặc sepsis-3: tụt huyết áp, tri giác giảm, lactate cao là dấu hiệu giảm tưới máu mô và suy đa tạng → tỷ lệ tử vong cao."
+        },
+        {
+          "q": "Nguyên tắc phẫu thuật trong viêm phúc mạc toàn thể do ruột thừa vỡ:",
+          "options": [
+            "Chỉ cần cắt ruột thừa là đủ",
+            "Cắt ruột thừa + rửa sạch ổ bụng (Lavage) + dẫn lưu",
+            "Cắt đoạn manh tràng",
+            "Mở thông hồi tràng"
+          ],
+          "answer": 1,
+          "explain": "Mục tiêu mổ viêm phúc mạc: loại bỏ nguyên nhân (cắt ruột thừa) + làm sạch khoang phúc mạc (rửa nhiều nước muối ấm) + dẫn lưu mủ/dịch tồn dư."
+        },
+        {
+          "q": "Kháng sinh điều trị trong trường hợp này cần:",
+          "options": [
+            "Đơn trị liệu Gram dương",
+            "Phổ rộng, bao phủ Gram âm đường ruột và kỵ khí (Anaerobes)",
+            "Chỉ cần kháng sinh dự phòng 1 liều",
+            "Không dùng kháng sinh cho đến khi có kết quả cấy"
+          ],
+          "answer": 1,
+          "explain": "Nhiễm trùng ổ bụng do vỡ tạng rỗng chủ yếu do vi khuẩn Gram âm (E. coli) và kỵ khí (Bacteroides fragilis). Cần phác đồ phủ cả 2 nhóm này."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 78 tuổi COPD, chướng bụng 3 ngày, triệu chứng không điển hình",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 78 tuổi, tiền sử COPD, vào viện vì chướng bụng và ăn kém 3 ngày nay. Bệnh nhân KHÔNG SỐT, không đau bụng dữ dội mà chỉ thấy âm ỉ hố chậu phải. Khám bụng chướng nhẹ, ấn sâu hố chậu phải đau nhẹ, sờ thấy mảng đầy đầy, phản ứng thành bụng không rõ. Nhu động ruột giảm.<br><br><b>Tiền sử:</b> COPD.<br><br><b>Khám lâm sàng:</b> Bụng chướng nhẹ, ấn sâu hố chậu phải đau nhẹ, phản ứng thành bụng không rõ. Nhu động ruột giảm.<br><br><b>Xét nghiệm:</b> Bạch cầu: 11,0 G/L (tăng nhẹ). Chụp CT scan: ruột thừa sưng to 15 mm, thành dày không đều, thâm nhiễm mỡ xung quanh, hạch mạc treo lân cận kích thước 10 mm.",
+      "questions": [
+        {
+          "q": "Tại sao người già (> 65 tuổi) bị viêm ruột thừa thường có triệu chứng không điển hình và đến muộn?",
+          "options": [
+            "Do ngưỡng đau tăng và đáp ứng miễn dịch kém (ít sốt, ít tăng bạch cầu)",
+            "Do ruột thừa người già bị xơ hoá nên không đau",
+            "Do người già thường bị táo bón nên quen với đau bụng",
+            "Do thuốc điều trị COPD làm mất triệu chứng"
+          ],
+          "answer": 0,
+          "explain": "Người già có hệ miễn dịch suy giảm (ít sốt, bạch cầu không tăng cao) và thành bụng nhão/cảm giác đau giảm → che lấp dấu hiệu viêm phúc mạc."
+        },
+        {
+          "q": "Đặc điểm bệnh học của viêm ruột thừa ở người già:",
+          "options": [
+            "Tiến triển chậm, ít vỡ",
+            "Tiến triển nhanh đến hoại tử và vỡ sớm do xơ vữa mạch máu nuôi ruột thừa",
+            "Thường tự khỏi",
+            "Hiếm gặp hơn người trẻ nên không cần quan tâm"
+          ],
+          "answer": 1,
+          "explain": "Do hệ thống mạch máu bị xơ vữa (arteriolosclerosis), tưới máu kém khiến ruột thừa viêm dễ hoại tử thiếu máu và vỡ sớm hơn người trẻ (Bailey & Love)."
+        },
+        {
+          "q": "Trên hình ảnh CT scan có 'thành dày không đều' và 'hạch mạc treo', chẩn đoán phân biệt quan trọng nào CẦN LOẠI TRỪ ở người già?",
+          "options": [
+            "Ung thư manh tràng / u nhầy ruột thừa (Appendiceal mucinous neoplasm)",
+            "Lao ruột",
+            "Viêm túi thừa Meckel",
+            "Xoắn manh tràng"
+          ],
+          "answer": 0,
+          "explain": "Tỷ lệ ung thư đại tràng phải hoặc u ruột thừa tăng theo tuổi. Hình ảnh không điển hình trên CT cần cảnh giác u gây tắc nghẽn lòng ruột thừa dẫn đến viêm."
+        },
+        {
+          "q": "Biến chứng tim mạch/hô hấp thường gặp nhất ở bệnh nhân này sau mổ là:",
+          "options": [
+            "Nhồi máu cơ tim",
+            "Viêm phổi / suy hô hấp / thuyên tắc mạch",
+            "Đột quỵ",
+            "Tràn khí màng phổi"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân nằm lâu, COPD → ứ đọng đờm dãi (viêm phổi), nguy cơ huyết khối tĩnh mạch sâu (DVT) dẫn đến thuyên tắc phổi."
+        },
+        {
+          "q": "Trong phẫu thuật cho người già kèm bệnh nền COPD, phương pháp vô cảm và phẫu thuật nào thường được ưu tiên nếu tình trạng cho phép?",
+          "options": [
+            "Gây tê tuỷ sống + mổ mở",
+            "Gây mê nội khí quản + phẫu thuật nội soi (bơm hơi áp lực thấp)",
+            "Gây tê tại chỗ + mổ mở",
+            "Không mổ, chỉ dùng kháng sinh"
+          ],
+          "answer": 1,
+          "explain": "Phẫu thuật nội soi giúp vận động sớm, giảm đau, giảm biến chứng hô hấp so với mổ mở (vết mổ đau làm bệnh nhân không dám thở sâu). Tuy nhiên cần bơm hơi áp lực thấp để tránh chèn ép cơ hoành."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi hậu phẫu ngày 7, sốt lại, áp xe tồn dư dưới gan",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 35 tuổi, vào viện ngày thứ 7 sau mổ nội soi cắt ruột thừa viêm (ruột thừa mủ). Bệnh nhân được xuất viện ngày thứ 3 ổn định, nay quay lại vì sốt cao 39°C, đau tức vùng bụng phải và hạ sườn phải, kèm nấc cụt (hiccup).<br><br><b>Tiền sử:</b> Mổ nội soi cắt ruột thừa viêm 7 ngày trước.<br><br><b>Khám lâm sàng:</b> Vết mổ chân trocar khô, liền tốt. Bụng mềm, ấn đau tức vùng dưới sườn phải và hố chậu phải. Gõ vùng gan đau.<br><br><b>Xét nghiệm:</b> Bạch cầu: 18 G/L. Siêu âm: có ổ dịch kích thước 5×6 cm ở khoang dưới gan phải (khoang Morrison).",
+      "questions": [
+        {
+          "q": "Chẩn đoán biến chứng này là gì?",
+          "options": [
+            "Nhiễm trùng vết mổ nông",
+            "Áp xe tồn dư trong ổ bụng (IAA - Intra-abdominal Abscess)",
+            "Viêm phổi",
+            "Rò mỏm cắt ruột thừa"
+          ],
+          "answer": 1,
+          "explain": "Sốt trở lại sau mổ + đau bụng + kết quả có ổ dịch → áp xe tồn dư. Vị trí dưới gan là nơi dịch hay đọng lại khi bệnh nhân nằm ngửa (khoang Morrison)."
+        },
+        {
+          "q": "Triệu chứng 'nấc cụt' ở bệnh nhân này gợi ý điều gì?",
+          "options": [
+            "Rối loạn điện giải",
+            "Ổ áp xe kích thích cơ hoành",
+            "Trào ngược dạ dày thực quản",
+            "Giãn dạ dày cấp"
+          ],
+          "answer": 1,
+          "explain": "Áp xe dưới hoành/dưới gan kích thích thần kinh hoành → nấc."
+        },
+        {
+          "q": "Phương pháp điều trị ƯU TIÊN và hiệu quả nhất cho ổ áp xe kích thước lớn (> 3-4 cm) sau mổ là gì?",
+          "options": [
+            "Mổ lại ngay lập tức để rửa bụng",
+            "Dùng kháng sinh liều cao đơn thuần",
+            "Chọc hút dẫn lưu qua da dưới hướng dẫn siêu âm/CT (Percutaneous drainage)",
+            "Chườm nóng"
+          ],
+          "answer": 2,
+          "explain": "Hầu hết áp xe tồn dư sau mổ có thể điều trị thành công bằng chọc hút dẫn lưu qua da (ít xâm lấn) kết hợp kháng sinh. Mổ lại (re-operation) chỉ dành cho trường hợp dẫn lưu thất bại."
+        },
+        {
+          "q": "Nguyên nhân thường gặp nhất gây áp xe tồn dư sau mổ viêm ruột thừa viêm phúc mạc:",
+          "options": [
+            "Do bác sĩ phẫu thuật lau rửa ổ bụng không sạch hoặc rớt sỏi phân",
+            "Do kháng sinh không đủ liều",
+            "Do bệnh nhân đi lại quá sớm",
+            "Do chỉ khâu không tiêu"
+          ],
+          "answer": 0,
+          "explain": "Việc để sót dịch mủ, giả mạc hoặc sỏi phân (fecolith) trong quá trình mổ viêm phúc mạc là nguyên nhân chính tạo ổ áp xe."
+        },
+        {
+          "q": "Nếu nghi ngờ 'rò mỏm cắt ruột thừa' (Stump leakage), triệu chứng nào sẽ nổi bật hơn so với áp xe khu trú?",
+          "options": [
+            "Sốt nhẹ",
+            "Có dịch phân hoặc dịch tiêu hoá chảy ra qua dẫn lưu (nếu còn) hoặc viêm phúc mạc toàn thể tiến triển nhanh",
+            "Táo bón",
+            "Bí tiểu"
+          ],
+          "answer": 1,
+          "explain": "Rò mỏm cắt (Stump blowout) là biến chứng nặng, dịch phân đổ vào ổ bụng gây viêm phúc mạc toàn thể hoặc rò ra vết mổ/dẫn lưu."
+        }
+      ]
+    }
+  ]
+}
