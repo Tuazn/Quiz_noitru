@@ -1,0 +1,1843 @@
+{
+  "name": "Chấn thương hệ tiết niệu",
+  "description": "Bộ câu hỏi trắc nghiệm lâm sàng chuyên đề Chấn thương hệ tiết niệu",
+  "level": "Ôn thi nội trú",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Thận tiết niệu",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 28 tuổi ngã giàn giáo đau hông lưng trái",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 28 tuổi, làm nghề thợ xây.<br><br><b>Bệnh sử:</b> Vào viện vì đau hông lưng trái sau khi ngã giàn giáo độ cao 3m cách 2 giờ.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, tiếp xúc tốt, da niêm mạc hồng nhạt. Sinh hiệu: Mạch 95 lần/phút, HA 110/70 mmHg, Nhịp thở 20 lần/phút, SpO2 98%, BMI 22. Khám bụng mềm, không chướng, ấn đau và có mảng bầm tím vùng hông lưng trái kích thước 5x5 cm, không có phản ứng thành bụng, không cầu bàng quang. Các cơ quan khác chưa phát hiện bất thường, không liệt khu trú.<br><br><b>Xét nghiệm:</b> HC 4.2 T/L, Hb 130 g/L, Hct 0.38, BC 10.5 G/L, Tiểu cầu 220 G/L, Creatinin 85 µmol/L, Ure 5.2 mmol/L. Tổng phân tích nước tiểu: Hồng cầu (+++), Protein (+).<br><br><b>Cận lâm sàng khác:</b> Siêu âm cấp cứu tại giường nghi ngờ có dịch quanh thận trái, nhu mô thận trái không đồng nhất.",
+      "questions": [
+        {
+          "q": "Chẩn đoán sơ bộ phù hợp nhất ở thời điểm hiện tại?",
+          "options": [
+            "Chấn thương thận trái độ 1",
+            "Chấn thương thận trái chưa phân độ",
+            "Vỡ bàng quang trong phúc mạc",
+            "Chấn thương lách"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh chấn thương hông lưng + đái máu (Hồng cầu niệu +++) gợi ý chấn thương thận. Chưa có hình ảnh CT nên chưa thể phân độ chính xác -> Chẩn đoán sơ bộ là chấn thương thận chưa phân độ. Vỡ bàng quang ít nghĩ vì không có cầu bàng quang và đau hông lưng là chủ yếu."
+        },
+        {
+          "q": "Chỉ định cận lâm sàng hình ảnh tiếp theo có giá trị nhất để chẩn đoán xác định và phân độ?",
+          "options": [
+            "Chụp UIV (Niệu đồ tĩnh mạch)",
+            "Chụp MRI bụng chậu",
+            "Chụp CT scanner bụng có tiêm thuốc cản quang",
+            "Chụp động mạch thận số hóa xóa nền (DSA)"
+          ],
+          "answer": 2,
+          "explain": "CT scanner có thuốc cản quang là 'tiêu chuẩn vàng' để chẩn đoán, phân độ chấn thương thận và phát hiện tổn thương tạng đi kèm (gan, lách). UIV ít dùng trong cấp cứu. DSA là can thiệp, không phải chẩn đoán ban đầu."
+        },
+        {
+          "q": "Yếu tố nào sau đây là chỉ định tuyệt đối để chụp CT scanner trong chấn thương thận (theo AAST)?",
+          "options": [
+            "Đái máu vi thể kèm huyết áp tâm thu > 100 mmHg",
+            "Cơ chế chấn thương giảm tốc (ngã cao, tai nạn xe tốc độ cao)",
+            "Đau vùng hông lưng đơn thuần",
+            "Vết thương thấu bụng nhưng huyết động ổn định"
+          ],
+          "answer": 1,
+          "explain": "Chỉ định chụp CT (theo AAST/Schwartz): Đái máu đại thể; Đái máu vi thể + Sốc (HATT < 90 mmHg); Hoặc cơ chế chấn thương giảm tốc (deceleration injury) bất kể mức độ đái máu. Bệnh nhân ngã cao là cơ chế giảm tốc."
+        },
+        {
+          "q": "Nếu kết quả CT cho thấy: Đường vỡ nhu mô thận trái sâu 2.5 cm vùng vỏ, không tổn thương đường bài xuất, không thoát thuốc cản quang. Phân độ chấn thương thận theo AAST (2018)?",
+          "options": [
+            "Độ I",
+            "Độ III",
+            "Độ IV",
+            "Độ V"
+          ],
+          "answer": 1,
+          "explain": "Độ I: Đụng dập/tụ máu dưới bao. Độ II: Vỡ < 1cm. Độ III: Vỡ > 1cm, không tổn thương đường bài xuất/không thoát nước tiểu. Độ IV: Tổn thương bể thận/đường bài xuất hoặc mạch máu phân thùy. Độ V: Vỡ nát thận hoặc tổn thương cuống mạch chính."
+        },
+        {
+          "q": "Hướng xử trí phù hợp nhất với bệnh nhân này dựa trên kết quả CT trên?",
+          "options": [
+            "Phẫu thuật thám sát cầm máu ngay",
+            "Điều trị bảo tồn: nghỉ ngơi tại giường, theo dõi sinh hiệu và Hct",
+            "Can thiệp mạch (Embolization) chọn lọc",
+            "Đặt sonde JJ niệu quản ngược dòng"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân huyết động ổn định, chấn thương độ III -> Điều trị bảo tồn là chỉ định ưu tiên (thành công > 90% độ III). Không có chỉ định mổ hay can thiệp mạch khi chưa có dấu hiệu chảy máu hoạt động (active bleeding) hoặc mất ổn định huyết động."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 35 tuổi tai nạn giao thông sốc mất máu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 35 tuổi.<br><br><b>Bệnh sử:</b> Bị tai nạn giao thông xe máy vs xe tải, đập vùng hông lưng phải xuống đường. Vào viện trong tình trạng lơ mơ, kích thích. Sau hồi sức dịch nhanh 2000mL Ringer Lactate, mạch giảm còn 100 lần/phút, HA lên 100/60 mmHg.<br><br><b>Khám lâm sàng:</b> Sinh hiệu lúc vào: Mạch 125 lần/phút, HA 80/50 mmHg, Nhịp thở 28 lần/phút. Khám: Bụng chướng nhẹ, ấn đau khắp bụng, phản ứng thành bụng (+) vùng hông phải. Đặt sonde tiểu thấy nước tiểu đỏ tươi toàn bãi.<br><br><b>Xét nghiệm:</b> Hb 85 g/L, Hct 0.25, Creatinin 110 µmol/L.<br><br><b>Cận lâm sàng khác:</b> Siêu âm FAST thấy dịch tự do ổ bụng lượng vừa, thận phải mất cấu trúc. Bệnh nhân được chụp CT scanner phát hiện thận phải vỡ nát nhiều mảnh (shattered kidney), khối máu tụ lớn quanh thận lan rộng, rách tĩnh mạch thận phải, thuốc cản quang thoát mạch (contrast blush) mạnh thì động mạch.",
+      "questions": [
+        {
+          "q": "Phân độ chấn thương thận phải của bệnh nhân này theo AAST?",
+          "options": [
+            "Độ III",
+            "Độ IV",
+            "Độ V",
+            "Độ II"
+          ],
+          "answer": 2,
+          "explain": "Thận vỡ nát (shattered kidney) và tổn thương cuống mạch chính (tĩnh mạch thận) được xếp loại Độ V theo AAST."
+        },
+        {
+          "q": "Biện pháp hồi sức ban đầu quan trọng nhất ngay khi bệnh nhân vào viện là?",
+          "options": [
+            "Truyền máu khối hồng cầu ngay lập tức",
+            "Kiểm soát đường thở và đảm bảo tuần hoàn (ABC)",
+            "Chụp CT scanner ngay không cần chờ đợi",
+            "Dùng thuốc cầm máu Transamin"
+          ],
+          "answer": 1,
+          "explain": "Theo nguyên tắc ATLS, ưu tiên hàng đầu luôn là ABC (Airway - Breathing - Circulation). Việc hồi sức dịch/máu nằm trong bước C, nhưng phải đảm bảo quy trình ABC tổng thể."
+        },
+        {
+          "q": "Chỉ định can thiệp phẫu thuật nào hợp lý nhất sau khi có kết quả CT và tình trạng bệnh nhân có xu hướng tụt huyết áp trở lại (HA 85/50 mmHg)?",
+          "options": [
+            "Tiếp tục hồi sức dịch và theo dõi tại ICU",
+            "Can thiệp mạch (Angio-embolization)",
+            "Phẫu thuật cấp cứu thám sát, khả năng cắt thận",
+            "Phẫu thuật nội soi khâu bảo tồn thận"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân chấn thương độ V, có dấu hiệu sốc mất máu tái diễn (huyết áp tụt lại) và thoát thuốc cản quang mạnh -> Chỉ định phẫu thuật cấp cứu là bắt buộc (Absolute indication). Can thiệp mạch thường dùng cho độ IV hoặc độ V huyết động ổn định hơn, nhưng trường hợp này vỡ nát và sốc -> Mổ an toàn hơn."
+        },
+        {
+          "q": "Trong quá trình phẫu thuật mở bụng, sau khi kiểm soát cuống mạch, thấy thận phải vỡ nát hoàn toàn, không còn khả năng bảo tồn. Thận trái sờ nắn bình thường. Quyết định xử trí?",
+          "options": [
+            "Cắt thận bán phần",
+            "Khâu cầm máu và chèn gạc (Packing)",
+            "Cắt thận phải toàn bộ",
+            "Khâu nối mạch máu thận"
+          ],
+          "answer": 2,
+          "explain": "Với thận vỡ nát độ V không thể phục hồi, bệnh nhân đang sốc, và thận đối diện bình thường (kiểm tra sờ nắn hoặc tiền sử/CT) -> Cắt thận toàn bộ để cứu sống bệnh nhân (Damage control). Cắt bán phần hay khâu nối tốn thời gian và rủi ro cao."
+        },
+        {
+          "q": "Biến chứng sớm nguy hiểm nhất trong 24 giờ đầu sau mổ ở bệnh nhân này?",
+          "options": [
+            "Rò nước tiểu",
+            "Tăng huyết áp",
+            "Chảy máu thứ phát gây sốc mất máu",
+            "Nhiễm trùng vết mổ"
+          ],
+          "answer": 2,
+          "explain": "Chảy máu thứ phát (từ cuống mạch, từ giường thận) gây sốc là biến chứng sớm và tử vong hàng đầu. Rò nước tiểu hay nhiễm trùng thường xuất hiện muộn hơn (sau vài ngày). Tăng HA là biến chứng muộn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 18 tuổi bị dao đâm vùng thắt lưng trái",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 18 tuổi.<br><br><b>Bệnh sử:</b> Bị dao đâm vào vùng thắt lưng trái (cạnh cột sống 5cm), vết đâm sâu.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, mạch 90 lần/phút, HA 120/70 mmHg. Bụng mềm, ấn đau tức vùng vết thương, không có dấu hiệu viêm phúc mạc. Nước tiểu qua sonde trong, không có máu đại thể.<br><br><b>Xét nghiệm:</b> Hồng cầu niệu vi thể (+++).<br><br><b>Cận lâm sàng khác:</b> CT scanner bụng có thuốc: Vết thương xuyên qua nhu mô cực dưới thận trái, đường vỡ dài 3cm thông vào đài thận dưới, có thoát thuốc cản quang ra quanh thận (contrast extravasation), không tổn thương mạch máu lớn, huyết khối quanh thận kích thước nhỏ (2cm).",
+      "questions": [
+        {
+          "q": "Phân độ chấn thương thận trái trên bệnh nhân này?",
+          "options": [
+            "Độ II",
+            "Độ III",
+            "Độ IV",
+            "Độ V"
+          ],
+          "answer": 2,
+          "explain": "Đường vỡ thông vào đài thận (hệ thống bài xuất) được phân loại là Độ IV (bất kể độ sâu). Độ III chỉ giới hạn ở nhu mô."
+        },
+        {
+          "q": "Đặc điểm nào KHÔNG phù hợp với chấn thương thận do vết thương thấu (penetrating trauma)?",
+          "options": [
+            "Tỷ lệ tổn thương tạng khác thấp hơn chấn thương kín",
+            "Nguy cơ tổn thương cuống mạch cao hơn nếu vết thương ở vùng rốn thận",
+            "Đái máu có thể vắng mặt dù có tổn thương thận",
+            "Đường đi của vết thương khó dự đoán chính xác trên lâm sàng"
+          ],
+          "answer": 0,
+          "explain": "Chấn thương thấu bụng (dao, đạn) có tỷ lệ tổn thương đa tạng CAO HƠN chấn thương kín (>80% vs <20%). Các ý B, C, D đều đúng (Đái máu vắng mặt trong 20-30% vết thương thấu thận)."
+        },
+        {
+          "q": "Thái độ xử trí phù hợp nhất với bệnh nhân này hiện tại?",
+          "options": [
+            "Mổ cấp cứu thám sát vết thương",
+            "Điều trị bảo tồn, theo dõi sát sinh hiệu và Hct",
+            "Chụp mạch và nút mạch (Embolization)",
+            "Phẫu thuật nội soi sau phúc mạc khâu thận"
+          ],
+          "answer": 1,
+          "explain": "Hiện nay, vết thương thấu thận độ I-IV mà huyết động ổn định, đã được chẩn đoán rõ bằng CT (staging đầy đủ) -> Ưu tiên điều trị bảo tồn. Chỉ mổ khi huyết động không ổn hoặc có tổn thương tạng rỗng đi kèm."
+        },
+        {
+          "q": "Sau 3 ngày điều trị bảo tồn, bệnh nhân sốt 38.5°C, đau hông lưng tăng lên. Siêu âm thấy khối dịch quanh thận tăng kích thước. Chọc hút ra dịch vàng chanh, Creatinin dịch cao gấp 5 lần Creatinin máu. Chẩn đoán biến chứng?",
+          "options": [
+            "Áp xe quanh thận",
+            "Nang giả niệu (Urinoma)",
+            "Khối máu tụ nhiễm trùng",
+            "Phình mạch thận"
+          ],
+          "answer": 1,
+          "explain": "Khối dịch tăng kích thước + Creatinin dịch cao > máu -> Chắc chắn là nước tiểu thoát ra (Urinoma). Sốt gợi ý bội nhiễm hoặc phản ứng."
+        },
+        {
+          "q": "Xử trí biến chứng trên (Urinoma) ưu tiên bước đầu là gì?",
+          "options": [
+            "Mổ mở dẫn lưu ổ dịch",
+            "Kháng sinh liều cao và theo dõi tiếp",
+            "Dẫn lưu qua da (Percutaneous drainage) kết hợp đặt stent JJ niệu quản",
+            "Cắt bỏ thận trái"
+          ],
+          "answer": 2,
+          "explain": "Urinoma gây triệu chứng (sốt, đau, chèn ép) cần giải quyết. Bước đầu nhẹ nhàng nhất là dẫn lưu qua da (PCN) + đặt stent JJ để dẫn lưu nước tiểu xuôi dòng, giúp lỗ rò tự liền. Mổ mở là lựa chọn cuối cùng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi chấn thương hông trái sau tai nạn xe máy",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Tiền sử:</b> Tăng huyết áp đang dùng Amlodipin.<br><br><b>Bệnh sử:</b> Vào viện sau tai nạn xe máy, đập vùng hông trái vào thành xe.<br><br><b>Khám lâm sàng:</b> Tỉnh, mạch 100 l/p, HA 140/90 mmHg. Bụng mềm. Nước tiểu vàng trong.<br><br><b>Xét nghiệm:</b> HC 3.8 T/L, Creatinin 90 µmol/L.<br><br><b>Cận lâm sàng khác:</b> CT scanner: Thận trái có vùng giảm tỷ trọng hình chêm (wedge-shaped) chiếm 30% nhu mô cực trên, không ngấm thuốc cản quang sau tiêm, không thấy đường vỡ, không tụ máu quanh thận.",
+      "questions": [
+        {
+          "q": "Hình ảnh CT scanner mô tả tổn thương gì?",
+          "options": [
+            "Đụng dập nhu mô thận (Contusion)",
+            "Nhồi máu thận phân thùy (Segmental renal infarction)",
+            "Nang thận vỡ",
+            "Vỡ thận độ III"
+          ],
+          "answer": 1,
+          "explain": "Hình ảnh giảm tỷ trọng hình chêm, không ngấm thuốc là điển hình của nhồi máu thận (thiếu máu cục bộ vùng mô)."
+        },
+        {
+          "q": "Theo phân độ AAST 2018, tổn thương nhồi máu thận phân thùy (segmental infarction) được xếp loại độ mấy?",
+          "options": [
+            "Độ II",
+            "Độ III",
+            "Độ IV",
+            "Độ I"
+          ],
+          "answer": 2,
+          "explain": "Theo AAST 2018: Tổn thương mạch máu phân thùy (segmental artery) gây nhồi máu thận được xếp là Độ IV. (Độ V là huyết khối động mạch thận chính)."
+        },
+        {
+          "q": "Nguyên nhân cơ chế gây ra tổn thương này thường là?",
+          "options": [
+            "Đụng dập trực tiếp nhu mô",
+            "Tổn thương lớp nội mạc động mạch phân thùy gây huyết khối (Thrombosis)",
+            "Rách tĩnh mạch thận",
+            "Tắc nghẽn niệu quản cấp tính"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế giảm tốc hoặc chấn thương đụng dập gây tổn thương lớp nội mạc (intima) -> kích hoạt quá trình đông máu tạo huyết khối bít tắc lòng mạch."
+        },
+        {
+          "q": "Phương án điều trị tối ưu cho tổn thương này trên bệnh nhân huyết động ổn định?",
+          "options": [
+            "Dùng thuốc tiêu sợi huyết",
+            "Phẫu thuật lấy huyết khối",
+            "Điều trị bảo tồn, theo dõi, kiểm soát huyết áp",
+            "Can thiệp mạch đặt Stent động mạch thận"
+          ],
+          "answer": 2,
+          "explain": "Nhồi máu thận do chấn thương thường được điều trị bảo tồn. Phẫu thuật hoặc can thiệp lấy huyết khối mạch phân thùy hiệu quả thấp và rủi ro cao, thường chỉ cân nhắc với động mạch thận chính trong 'thời gian vàng' (< 4-6h) ở bệnh nhân độc thận."
+        },
+        {
+          "q": "Chọn tập hợp đúng về các biến chứng muộn có thể gặp của chấn thương thận:\n(1) Tăng huyết áp\n(2) Thông động tĩnh mạch (AV Fistula)\n(3) Suy thận mạn\n(4) Ung thư hóa",
+          "type": "multi",
+          "options": [
+            "1, 2, 4",
+            "1, 2, 3",
+            "2, 3, 4",
+            "1, 3, 4"
+          ],
+          "answer": [
+            1
+          ],
+          "explain": "Biến chứng muộn: Tăng huyết áp (do thiếu máu thận kích hoạt RAA), AV Fistula, Suy thận, Thận ứ nước (Hydronephrosis). Không có bằng chứng về ung thư hóa sau chấn thương."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 22 tuổi bị đánh đập vùng hông lưng phải",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 22 tuổi.<br><br><b>Bệnh sử:</b> Bị đánh bằng gậy bóng chày vào hông lưng phải. Vào viện đau nhiều, tiểu máu đỏ sẫm cục. Bệnh nhân được truyền 2 đơn vị máu, HA lên 110/70 mmHg nhưng sau đó lại tụt xuống 90/60 mmHg.<br><br><b>Khám lâm sàng:</b> Mạch 110 l/p, HA 95/60 mmHg.<br><br><b>Xét nghiệm:</b> Hct 0.30.<br><br><b>Cận lâm sàng khác:</b> CT scanner: Vỡ thận phải độ IV, khối máu tụ sau phúc mạc lớn lan xuống hố chậu, có điểm thoát thuốc cản quang hoạt động (active blush).",
+      "questions": [
+        {
+          "q": "Dấu hiệu \"thoát thuốc cản quang hoạt động\" (active blush) trên CT gợi ý điều gì?",
+          "options": [
+            "Tổn thương đường bài xuất",
+            "Chảy máu động mạch đang diễn tiến",
+            "Tụ máu cũ đã cầm",
+            "Nhồi máu nhu mô"
+          ],
+          "answer": 1,
+          "explain": "Active contrast extravasation/blush là dấu hiệu trực tiếp của chảy máu động mạch đang phun, nguy cơ thất bại điều trị bảo tồn cao."
+        },
+        {
+          "q": "Chỉ định can thiệp phù hợp nhất trong tình huống này (Grade IV, active blush, đáp ứng thoáng qua với hồi sức)?",
+          "options": [
+            "Phẫu thuật mở kiểm soát cuống thận",
+            "Chụp mạch và nút mạch chọn lọc (Angio-embolization)",
+            "Tiếp tục truyền máu và theo dõi thêm 12 giờ",
+            "Bơm rửa bàng quang lấy máu cục"
+          ],
+          "answer": 1,
+          "explain": "Với độ IV có chảy máu hoạt động nhưng chưa sốc mất bù (đáp ứng thoáng qua), Angio-embolization là lựa chọn ưu tiên ('First-line') để cầm máu xâm lấn tối thiểu, bảo tồn nhu mô thận, tránh cuộc mổ lớn."
+        },
+        {
+          "q": "Trong kỹ thuật can thiệp mạch (Embolization), vật liệu nào thường được dùng để gây tắc mạch vĩnh viễn?",
+          "options": [
+            "Gelfoam",
+            "Coils (vòng xoắn kim loại)",
+            "Hạt nhựa PVA",
+            "Bóng chèn"
+          ],
+          "answer": 1,
+          "explain": "Coils thường dùng tắc mạch vĩnh viễn các mạch lớn/trung bình. Gelfoam là tạm thời."
+        },
+        {
+          "q": "Nếu cơ sở y tế không có khả năng chụp mạch (DSA), xử trí nào là bắt buộc?",
+          "options": [
+            "Chuyển tuyến ngay lập tức bất kể huyết động",
+            "Mổ cấp cứu",
+            "Dùng thuốc cầm máu liều cao",
+            "Chọc hút khối máu tụ"
+          ],
+          "answer": 1,
+          "explain": "Nếu không có DSA và bệnh nhân đang chảy máu (huyết động không ổn định bền vững), mổ cấp cứu là bắt buộc để cứu sống bệnh nhân. Chuyển tuyến khi đang sốc là nguy hiểm."
+        },
+        {
+          "q": "Trong trường hợp phải mổ mở, đường mổ nào được ưu tiên để kiểm soát nhanh cuống mạch thận?",
+          "options": [
+            "Đường mổ lumbotomy (hông lưng)",
+            "Đường trắng giữa trên và dưới rốn",
+            "Đường dưới sườn (Subcostal)",
+            "Đường Gibson"
+          ],
+          "answer": 1,
+          "explain": "Đường trắng giữa (Transabdominal) là đường mổ tiêu chuẩn trong chấn thương thận nặng vì cho phép kiểm soát cuống mạch thận (bắt đầu từ động mạch chủ/tĩnh mạch chủ) TRƯỚC KHI mở cân Gerota để tránh khối máu tụ bung ra gây chảy máu ồ ạt (Exsanguination), đồng thời kiểm tra các tạng khác."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi tai nạn xe máy đang dùng thuốc kháng đông",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Tiền sử:</b> Đặt stent mạch vành 1 năm, đang dùng Aspirin và Clopidogrel.<br><br><b>Bệnh sử:</b> Vào viện vì tai nạn xe máy. Đau khắp bụng. Không đái máu đại thể.<br><br><b>Khám lâm sàng:</b> Mạch 80 l/p, HA 130/80 mmHg. Bụng mềm.<br><br><b>Cận lâm sàng khác:</b> CT bụng: Đụng dập nhu mô thận trái độ II, tụ máu quanh thận mỏng (<1cm). Lách, gan bình thường.",
+      "questions": [
+        {
+          "q": "Yếu tố nguy cơ nào làm tăng khả năng chảy máu tái phát ở bệnh nhân này dù chấn thương nhẹ (Độ II)?",
+          "options": [
+            "Tuổi cao",
+            "Giới tính nam",
+            "Đang dùng thuốc kháng kết tập tiểu cầu kép",
+            "Không đái máu đại thể"
+          ],
+          "answer": 2,
+          "explain": "Thuốc kháng kết tập tiểu cầu (Aspirin, Clopidogrel) làm giảm khả năng cầm máu tự nhiên, tăng nguy cơ chảy máu diễn tiến hoặc tái phát (delayed bleeding) dù tổn thương giải phẫu nhẹ."
+        },
+        {
+          "q": "Chiến lược theo dõi bệnh nhân này cần lưu ý điều gì khác biệt so với người bình thường?",
+          "options": [
+            "Cho ra viện sớm và theo dõi ngoại trú",
+            "Nhập viện, theo dõi sát Hct và sinh hiệu ít nhất 24-48h",
+            "Truyền tiểu cầu dự phòng ngay",
+            "Chụp lại CT sau 6 giờ"
+          ],
+          "answer": 1,
+          "explain": "Cần nhập viện theo dõi sát vì nguy cơ chảy máu do thuốc. Không cho về nhà ngay."
+        },
+        {
+          "q": "Trong phân độ AAST, độ II khác độ I ở điểm nào?",
+          "options": [
+            "Độ II có rách nhu mô < 1cm, độ I chỉ đụng dập/tụ máu dưới bao",
+            "Độ II có tổn thương đường bài xuất",
+            "Độ II tụ máu lan ra ngoài cân Gerota",
+            "Độ II có đái máu đại thể"
+          ],
+          "answer": 0,
+          "explain": "Độ I: Đụng dập (Contusion) hoặc tụ máu dưới bao (Subcapsular hematoma) không rách nhu mô. Độ II: Rách nhu mô < 1cm sâu, không thông đài bể thận."
+        },
+        {
+          "q": "Một tuần sau, bệnh nhân xuất hiện đau dữ dội hông trái, HA tụt 90/60 mmHg. Nguyên nhân khả dĩ nhất?",
+          "options": [
+            "Nhiễm trùng đường tiết niệu",
+            "Chảy máu thứ phát (Secondary hemorrhage)",
+            "Tắc ruột cơ năng",
+            "Sỏi niệu quản di chuyển"
+          ],
+          "answer": 1,
+          "explain": "Chảy máu thứ phát thường xảy ra sau 1-3 tuần do bong giả mạc cục máu đông hoặc vỡ phình mạch (pseudoaneurysm). Trên bệnh nhân dùng chống đông, nguy cơ này cao hơn."
+        },
+        {
+          "q": "Nếu cần chụp lại CT để đánh giá biến chứng, thì thì nào (phase) là quan trọng để phát hiện rò nước tiểu?",
+          "options": [
+            "Thì không thuốc",
+            "Thì động mạch (Arterial phase)",
+            "Thì tĩnh mạch (Nephrographic phase)",
+            "Thì bài tiết (Delayed/Excretory phase)"
+          ],
+          "answer": 3,
+          "explain": "Thì bài tiết (chụp muộn sau 5-10 phút) giúp thuốc cản quang xuống đài bể thận và niệu quản, là thì duy nhất xác định có thoát nước tiểu (extravasation) ra ngoài hệ thống bài xuất hay không."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nữ 12 tuổi ngã đập hông phải",
+      "body": "<b>Hành chính:</b> Bệnh nhi nữ, 12 tuổi.<br><br><b>Bệnh sử:</b> Ngã đập hông phải vào thành ghế đá trường học. Đái máu đại thể toàn bãi.<br><br><b>Khám lâm sàng:</b> Vào viện tỉnh, mạch 100 l/p, HA 110/70 mmHg. Bụng mềm, hố thắt lưng phải đầy, đau.<br><br><b>Cận lâm sàng khác:</b> Siêu âm: Thận phải to, cấu trúc âm hỗn hợp. CT scanner: Thận phải vỡ cực dưới, đường vỡ lan vào bể thận, tách rời cực dưới (Fractured kidney), tụ máu quanh thận dày 3cm. Thận trái bình thường.",
+      "questions": [
+        {
+          "q": "Đặc điểm giải phẫu nào của thận trẻ em làm chúng dễ bị chấn thương hơn người lớn?",
+          "options": [
+            "Thận nằm thấp hơn và lớp mỡ quanh thận (Perirenal fat) mỏng hơn",
+            "Thận trẻ em nhu mô cứng hơn",
+            "Xương sườn trẻ em cứng chắc bảo vệ tốt hơn",
+            "Cơ thành bụng trẻ em dày hơn"
+          ],
+          "answer": 0,
+          "explain": "Thận trẻ em tương đối to so với cơ thể, ít được bảo vệ bởi khung sườn (do xương sườn mềm dẻo), cơ bụng yếu và đặc biệt là lớp mỡ quanh thận (Gerota) rất mỏng, giảm khả năng hấp thụ lực chấn thương."
+        },
+        {
+          "q": "Phân độ chấn thương thận phải của trẻ?",
+          "options": [
+            "Độ III",
+            "Độ IV",
+            "Độ V",
+            "Độ II"
+          ],
+          "answer": 1,
+          "explain": "Vỡ thận lan vào bể thận -> Độ IV (theo AAST 2018, độ IV bao gồm tổn thương đường bài xuất)."
+        },
+        {
+          "q": "Bệnh nhân được điều trị bảo tồn ổn định. 3 tháng sau, trẻ vào viện vì đau đầu, huyết áp đo được 150/95 mmHg (cao so với tuổi). Nghe bụng thấy tiếng thổi (bruit) vùng rốn phải. Chẩn đoán nguyên nhân?",
+          "options": [
+            "Hẹp động mạch thận do xơ hóa",
+            "Thông động - tĩnh mạch thận (Renal AV Fistula) sau chấn thương",
+            "U tủy thượng thận",
+            "Viêm cầu thận cấp"
+          ],
+          "answer": 1,
+          "explain": "Tăng huyết áp + Tiếng thổi bụng sau chấn thương thận là tam chứng gợi ý Thông động tĩnh mạch (AV fistula). Cơ chế: Máu từ động mạch áp lực cao chảy thẳng sang tĩnh mạch -> giảm tưới máu nhu mô xa -> kích hoạt hệ Renin-Angiotensin -> Tăng HA."
+        },
+        {
+          "q": "Tiêu chuẩn vàng để chẩn đoán xác định biến chứng AV Fistula này là?",
+          "options": [
+            "Siêu âm Doppler màu",
+            "Chụp động mạch thận xóa nền (Renal Angiography)",
+            "Chụp MRI",
+            "Xạ hình thận"
+          ],
+          "answer": 1,
+          "explain": "Angiography (DSA) vừa là chẩn đoán xác định (thấy luồng thông thuốc sớm sang tĩnh mạch) vừa là phương tiện điều trị."
+        },
+        {
+          "q": "Phương pháp điều trị ưu tiên cho AV Fistula sau chấn thương?",
+          "options": [
+            "Phẫu thuật cắt thận",
+            "Phẫu thuật khâu nối mạch máu",
+            "Can thiệp nội mạch (Angio-embolization)",
+            "Dùng thuốc hạ áp đơn thuần"
+          ],
+          "answer": 2,
+          "explain": "Embolization là tiêu chuẩn vàng điều trị AV Fistula thận, bảo tồn được thận và xâm lấn tối thiểu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi sốc chấn thương bụng kín",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Bệnh sử:</b> Bị tai nạn xe máy, đập bụng vào tay lái. Vào viện trong tình trạng Sốc.<br><br><b>Khám lâm sàng:</b> Mạch 130 l/p. HA 70/40 mmHg. Bụng chướng căng, phản ứng thành bụng (+).<br><br><b>Cận lâm sàng khác:</b> Siêu âm FAST tại giường: Dịch ổ bụng lượng nhiều. Chọc dò ổ bụng ra máu không đông. Bệnh nhân được đẩy thẳng lên phòng mổ với chẩn đoán Sốc mất máu do vỡ tạng đặc/Chấn thương bụng kín.",
+      "questions": [
+        {
+          "q": "Trong mổ, phát hiện lách vỡ nát (đã cắt lách), đồng thời thấy khối máu tụ lớn sau phúc mạc vùng thận trái (Zone II), khối máu tụ đang lan rộng và đập theo nhịp mạch. Xử trí với thận trái?",
+          "options": [
+            "Không mở cân Gerota, đóng bụng theo dõi",
+            "Mở kiểm soát động mạch chủ, sau đó mở cân Gerota thám sát thận",
+            "Chèn gạc quanh thận và đóng bụng",
+            "Mở trực tiếp vào khối máu tụ để tìm điểm chảy máu"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc ngoại khoa: Khối máu tụ sau phúc mạc do chấn thương kín vùng II (thận) NẾU đang lan rộng hoặc đập theo nhịp -> Bắt buộc thám sát. Phải kiểm soát mạch máu trung tâm (ĐM chủ/TM chủ Cuống thận) TRƯỚC khi mở cân Gerota để tránh chảy máu không kiểm soát."
+        },
+        {
+          "q": "Chỉ định thám sát khối máu tụ quanh thận (Retroperitoneal hematoma) trong mổ chấn thương bụng là gì? (Chọn câu SAI)",
+          "options": [
+            "Khối máu tụ vùng II đang lan rộng (Expanding)",
+            "Khối máu tụ đập theo nhịp mạch (Pulsatile)",
+            "Khối máu tụ ổn định ở bệnh nhân có vết thương thấu bụng (Penetrating)",
+            "Khối máu tụ ổn định ở bệnh nhân chấn thương kín (Blunt)"
+          ],
+          "answer": 3,
+          "explain": "Khối máu tụ Vùng II do chấn thương KÍN mà ổn định, không lan rộng -> KHÔNG mở thám sát (tỷ lệ bảo tồn thành công cao, mở ra dễ mất thận). Ngược lại, vết thương thấu bụng thường phải thám sát để đánh giá tổn thương niệu quản/mạch máu dù tụ máu ổn định."
+        },
+        {
+          "q": "Để kiểm soát cuống mạch thận trái trước khi mở cân Gerota, phẫu thuật viên thường vén đại tràng trái và lách (hoặc hố lách) vào trong. Thủ thuật này tên là gì?",
+          "options": [
+            "Thủ thuật Kocher",
+            "Thủ thuật Mattox (Vận động tạng trái)",
+            "Thủ thuật Cattell-Braasch",
+            "Thủ thuật Pringle"
+          ],
+          "answer": 1,
+          "explain": "Mattox maneuver: Vận động toàn bộ tạng trái (đại tràng trái, lách, đuỵ, dạ dày) vào trong để bộc lộ ĐM chủ bụng và thận trái. Kocher dùng cho bên phải/tá tràng."
+        },
+        {
+          "q": "Nếu trong quá trình thám sát thấy đứt đôi động mạch thận trái ngay gốc, thời gian thiếu máu nóng (warm ischemia) đã trôi qua 6 tiếng, thận trái tím đen. Thận phải kiểm tra bình thường. Xử trí?",
+          "options": [
+            "Cắt thận trái",
+            "Khâu nối mạch máu tận - tận",
+            "Ghép thận tự thân xuống hố chậu",
+            "Dùng thuốc chống đông và bảo tồn"
+          ],
+          "answer": 0,
+          "explain": "Thời gian thiếu máu nóng của thận chịu đựng được khoảng 2-3 giờ. Sau 6 giờ, thận đã hoại tử không hồi phục -> Cắt thận là an toàn nhất để tránh hội chứng tái tưới máu và nhiễm trùng."
+        },
+        {
+          "q": "\"One-shot IVP\" (Chụp UIV một phim trên bàn mổ) được chỉ định khi nào?",
+          "options": [
+            "Để đánh giá chức năng thận đối diện trước khi quyết định cắt thận tổn thương",
+            "Để tìm sỏi thận",
+            "Để đánh giá mức độ vỡ của thận tổn thương",
+            "Thay thế hoàn toàn cho CT scanner"
+          ],
+          "answer": 0,
+          "explain": "One-shot IVP: Tiêm 2ml/kg thuốc cản quang và chụp XQ ngay trên bàn mổ sau 10p. Mục đích chính duy nhất: Xác định sự hiện diện và chức năng của thận ĐỐI DIỆN trước khi quyết định cắt bỏ thận bị chấn thương."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi tai nạn giao thông gãy mỏm ngang đốt sống",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 30 tuổi.<br><br><b>Bệnh sử:</b> Tai nạn giao thông. Đái máu vi thể.<br><br><b>Khám lâm sàng:</b> Vào viện tỉnh, mạch 100 l/p. HA 110/60 mmHg.<br><br><b>Cận lâm sàng khác:</b> CT scanner: Thận phải bình thường. Thận trái bình thường. Nhưng có tụ máu quanh thận trái và gãy mỏm ngang xương sống thắt lưng L1, L2 bên trái.",
+      "questions": [
+        {
+          "q": "Gãy mỏm ngang đốt sống thắt lưng (Transverse process fracture) là dấu hiệu chỉ điểm quan trọng của tổn thương nào đi kèm?",
+          "options": [
+            "Chấn thương thận hoặc niệu quản",
+            "Vỡ bàng quang",
+            "Vỡ niệu đạo",
+            "Vỡ đại tràng ngang"
+          ],
+          "answer": 0,
+          "explain": "Gãy mỏm ngang L1-L3 là dấu hiệu của lực chấn thương rất mạnh vào vùng hông lưng, có độ tương quan cao với chấn thương thận và đặc biệt là tổn thương niệu quản khúc nối."
+        },
+        {
+          "q": "Một tổn thương niệu quản đoạn 1/3 trên do cơ chế giảm tốc (avulsion) thường có đặc điểm gì trên phim CT thì bài tiết?",
+          "options": [
+            "Luôn thấy thoát thuốc cản quang rõ ràng ngay lập tức",
+            "Có thể không thấy thoát thuốc nếu niệu quản bị đứt rời và cuộn lại hoặc huyết khối bít tắc",
+            "Luôn kèm theo vỡ nát nhu mô thận",
+            "Hình ảnh mức nước hơi"
+          ],
+          "answer": 1,
+          "explain": "Dù CT thì bài tiết rất nhạy, nhưng trong trường hợp đứt rời hoàn toàn (avulsion), nhu động niệu quản có thể dừng, hoặc cục máu đông bít tắc khiến thuốc không xuống -> không thấy thoát thuốc (âm tính giả). Cần nghi ngờ nếu thận ứ nước nhẹ hoặc chức năng thận kém đi."
+        },
+        {
+          "q": "Nếu nghi ngờ tổn thương niệu quản - bể thận mà CT không rõ, xét nghiệm nào giúp chẩn đoán phân biệt dịch ổ bụng/dịch sau phúc mạc là nước tiểu?",
+          "options": [
+            "Định lượng Glucose dịch",
+            "Định lượng Creatinin và Kali dịch (so sánh với huyết thanh)",
+            "Định lượng Protein dịch",
+            "Cấy vi khuẩn"
+          ],
+          "answer": 1,
+          "explain": "Nước tiểu có nồng độ Creatinin và Kali cao hơn máu rất nhiều (Creatinin niệu gấp 10 lần máu)."
+        },
+        {
+          "q": "Tổn thương đứt rời khúc nối bể thận - niệu quản (UPJ disruption) do chấn thương kín thường gặp nhất ở đối tượng nào?",
+          "options": [
+            "Người già",
+            "Trẻ em",
+            "Phụ nữ mang thai",
+            "Người béo phì"
+          ],
+          "answer": 1,
+          "explain": "Trẻ em do cột sống dẻo, có thể ưỡn quá mức (hyperextension) làm căng đứt khúc nối bể thận - niệu quản khi bị chấn thương giảm tốc."
+        },
+        {
+          "q": "Xử trí chuẩn cho đứt hoàn toàn niệu quản đoạn 1/3 trên phát hiện sớm?",
+          "options": [
+            "Đặt stent JJ đơn thuần",
+            "Phẫu thuật tạo hình bể thận - niệu quản ngay (nếu toàn trạng cho phép)",
+            "Dẫn lưu thận qua da và mổ thì 2",
+            "Cắt thận"
+          ],
+          "answer": 1,
+          "explain": "Đứt hoàn toàn không thể tự liền bằng stent. Cần phẫu thuật khâu nối tận tận hoặc tạo hình bể thận (Pyeloplasty) ngay nếu bệnh nhân ổn định. Nếu không ổn, dẫn lưu thận qua da (PCN) trước rồi mổ thì 2."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 20 tuổi đau quặn thận sau khi bị đấm",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 20 tuổi, vận động viên quyền anh.<br><br><b>Bệnh sử:</b> Bị đấm liên tiếp vào hông phải. Sau 3 ngày tự điều trị ở nhà, bệnh nhân thấy tiểu ra máu đỏ tươi tăng lên, đau quặn cơn vùng hông phải lan xuống bẹn bìu.<br><br><b>Khám lâm sàng:</b> Vào viện: Mạch 90 l/p. HA 120/80 mmHg. Khám thận phải to, đau.<br><br><b>Cận lâm sàng khác:</b> Siêu âm: Bể thận và niệu quản phải giãn, có cấu trúc tăng âm trong lòng bàng quang.",
+      "questions": [
+        {
+          "q": "Nguyên nhân gây đau cơn điển hình (Cơn đau quặn thận) ở bệnh nhân này?",
+          "options": [
+            "Tắc nghẽn niệu quản do cục máu đông (Clot colic)",
+            "Vỡ thận đột ngột",
+            "Viêm đài bể thận cấp",
+            "Tắc mạch thận"
+          ],
+          "answer": 0,
+          "explain": "\"Clot colic\" (Cơn đau quặn thận do máu cục): Máu chảy từ nhu mô vào đường bài xuất, đông lại tạo thành cục trôi xuống niệu quản gây tắc nghẽn và đau hệt như sỏi di chuyển."
+        },
+        {
+          "q": "Cấu trúc tăng âm trong bàng quang trên siêu âm khả năng cao nhất là gì?",
+          "options": [
+            "Sỏi bàng quang",
+            "U bàng quang",
+            "Cục máu đông từ thận xuống",
+            "Sa lồi niệu quản"
+          ],
+          "answer": 2,
+          "explain": "Trong bối cảnh chấn thương và đái máu, khối tăng âm trong bàng quang di động thường là máu cục."
+        },
+        {
+          "q": "Theo dõi bệnh nhân chấn thương thận điều trị bảo tồn, dấu hiệu nào là dấu hiệu thất bại cần can thiệp?",
+          "options": [
+            "Đái máu vi thể kéo dài > 3 ngày",
+            "Sốt cao, bạch cầu tăng, đau tăng (gợi ý nhiễm trùng/áp xe)",
+            "Đau nhẹ âm ỉ vùng hông",
+            "Creatinin tăng nhẹ"
+          ],
+          "answer": 1,
+          "explain": "Thất bại bảo tồn gồm: Huyết động không ổn định (chảy máu), Nhiễm trùng (Sốt, áp xe), Rò nước tiểu kéo dài gây tụ dịch lớn. Đái máu vi thể có thể kéo dài và không phải chỉ định can thiệp."
+        },
+        {
+          "q": "Thời gian trung bình để vết vỡ nhu mô thận (Độ III-IV) lành thương hoàn toàn trên hình ảnh học là bao lâu?",
+          "options": [
+            "1 tuần",
+            "3-6 tuần",
+            "3-6 tháng",
+            "1 năm"
+          ],
+          "answer": 2,
+          "explain": "Nhu mô thận lành chậm, sẹo hóa hoàn toàn thường mất 3-6 tháng."
+        },
+        {
+          "q": "Khuyến cáo về hoạt động thể lực sau khi ra viện với chấn thương thận độ III-IV?",
+          "options": [
+            "Chơi thể thao lại ngay sau 2 tuần",
+            "Nghỉ ngơi tuyệt đối tại giường 1 tháng",
+            "Tránh vận động mạnh/thể thao đối kháng ít nhất 6 tuần - 3 tháng (đến khi lành trên hình ảnh)",
+            "Không có hạn chế gì"
+          ],
+          "answer": 2,
+          "explain": "Để tránh nguy cơ vỡ lại (re-bleeding) khi nhu mô chưa vững, bệnh nhân cần tránh các hoạt động thể lực nặng và thể thao đối kháng (bóng đá, võ thuật...) ít nhất cho đến khi hình ảnh học xác nhận đã lành (thường > 6 tuần)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi ngã giàn giáo bí tiểu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 35 tuổi, công nhân xây dựng.<br><br><b>Bệnh sử:</b> Vào viện vì đau vùng tầng sinh môn và bí tiểu sau khi ngã ngồi trên giàn giáo (độ cao 2m) cách đây 3 giờ, vùng tầng sinh môn đập mạnh vào thanh sắt.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh táo, Glasgow 15 điểm, Mạch 88 lần/phút, HA 130/80 mmHg, SpO2 98%. Khám thấy có máu chảy ra từ miệng sáo (urethrorrhagia), đau chói vùng tầng sinh môn. Quan sát thấy mảng bầm tím tụ máu lớn hình cánh bướm ở tầng sinh môn (butterfly hematoma). Bụng mềm, ấn không đau, không có phản ứng thành bụng. Khung chậu vững, ép giãn cánh chậu (-). Cầu bàng quang (+). Không liệt vận động 2 chi dưới.<br><br><b>Xét nghiệm:</b> Hb 135 g/L, Creatinin 80 µmol/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán sơ bộ phù hợp nhất trên bệnh nhân này là gì?",
+          "options": [
+            "Chấn thương niệu đạo sau do vỡ khung chậu",
+            "Chấn thương niệu đạo trước đoạn hành",
+            "Chấn thương bàng quang trong phúc mạc",
+            "Chấn thương niệu đạo trước đoạn dương vật"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế ngã ngồi (straddle injury) điển hình gây chấn thương niệu đạo trước, cụ thể là đoạn hành (bulbar urethra) do bị ép giữa vật cứng và xương mu. Niệu đạo sau thường liên quan vỡ khung chậu."
+        },
+        {
+          "q": "Cơ chế giải phẫu bệnh gây ra hình ảnh \"tụ máu hình cánh bướm\" là do tổn thương vượt qua lớp mạc nào?",
+          "options": [
+            "Mạc Buck",
+            "Mạc Colles",
+            "Mạc Scarpa",
+            "Mạc Dartos"
+          ],
+          "answer": 0,
+          "explain": "Tụ máu hình cánh bướm xuất hiện khi vỡ vật xốp và rách mạc Buck -> máu lan ra tầng sinh môn nhưng bị giới hạn bởi mạc Colles bám vào ngành ngồi mu. Nếu mạc Buck còn nguyên, máu chỉ tụ quanh dương vật."
+        },
+        {
+          "q": "Bước xử trí đầu tiên quan trọng nhất đối với tình trạng bí tiểu của bệnh nhân này là gì?",
+          "options": [
+            "Đặt thông tiểu Foley 16F ngay lập tức để giải áp",
+            "Dùng thuốc giảm đau và khuyến khích bệnh nhân tự đi tiểu",
+            "Dẫn lưu bàng quang trên xương mu",
+            "Chọc hút bảng quang qua da bằng kim nhỏ"
+          ],
+          "answer": 2,
+          "explain": "Chống chỉ định đặt thông niệu đạo khi nghi ngờ chấn thương niệu đạo (có máu miệng sáo). Dẫn lưu bàng quang trên xương mu (SPC) là lựa chọn an toàn nhất để giải quyết bí tiểu."
+        },
+        {
+          "q": "Phương pháp cận lâm sàng tiêu chuẩn vàng để chẩn đoán xác định và phân độ tổn thương ở bệnh nhân này là:",
+          "options": [
+            "Chụp cắt lớp vi tính (CT) tiểu khung",
+            "Chụp niệu đạo - bàng quang ngược dòng (RGU)",
+            "Nội soi niệu đạo cấp cứu",
+            "Siêu âm tầng sinh môn"
+          ],
+          "answer": 1,
+          "explain": "RGU (Retrograde Urethrography) là tiêu chuẩn vàng chẩn đoán vị trí và mức độ chấn thương niệu đạo."
+        },
+        {
+          "q": "Nếu chụp RGU thấy thuốc cản quang thoát ra ngoài niệu đạo nhưng vẫn có một phần thuốc đi vào bàng quang, thái độ xử trí phù hợp nhất là:",
+          "options": [
+            "Mổ cấp cứu khâu nối niệu đạo tận - tận",
+            "Đặt thông tiểu Foley lưu 14-21 ngày",
+            "Mở thông bàng quang trên xương mu và trì hoãn can thiệp",
+            "Nội soi xẻ lạnh niệu đạo ngay lập tức"
+          ],
+          "answer": 2,
+          "explain": "Hình ảnh gợi ý chấn thương niệu đạo không hoàn toàn. Tuy nhiên, với cơ chế chấn thương mạnh và tụ máu lớn, việc cố gắng đặt thông có thể chuyển thành rách hoàn toàn. Guideline YHN và Bailey & Love ưu tiên mở thông bàng quang (SPC) để niệu đạo nghỉ ngơi, chụp lại sau 2-3 tuần."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 28 tuổi lơ mơ sau tai nạn xe máy",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 28 tuổi.<br><br><b>Bệnh sử:</b> Vào cấp cứu sau tai nạn giao thông xe máy vs xe tải.<br><br><b>Khám lâm sàng:</b> Bệnh nhân lơ mơ (Glasgow 13 điểm), da niêm mạc nhợt, Mạch 120 lần/phút, HA 80/50 mmHg. Bụng chướng nhẹ, ép giãn cánh chậu đau chói (+), mất vững khung chậu. Có máu chảy rỉ rả ở miệng sáo. Thăm trực tràng thấy tiền liệt tuyến bị đẩy lên cao, ấn đau vùng trước trực tràng. Hai chân không liệt nhưng hạn chế vận động do đau. Bệnh nhân chưa đi tiểu được từ lúc tai nạn.<br><br><b>Xét nghiệm:</b> Hb 85 g/L, Lactate 4.5 mmol/L.<br><br><b>Cận lâm sàng khác:</b> FAST (+) dịch ổ bụng mức độ vừa.",
+      "questions": [
+        {
+          "q": "Vị trí tổn thương niệu đạo khả năng cao nhất ở bệnh nhân này là:",
+          "options": [
+            "Niệu đạo dương vật",
+            "Niệu đạo hành",
+            "Niệu đạo màng (Niệu đạo sau)",
+            "Lỗ sáo"
+          ],
+          "answer": 2,
+          "explain": "Cơ chế vỡ khung chậu do chấn thương năng lượng cao thường gây đứt niệu đạo sau tại chỗ nối niệu đạo màng - hành hoặc niệu đạo màng (nơi cố định đi qua hoành niệu dục)."
+        },
+        {
+          "q": "Dấu hiệu lâm sàng nào có giá trị nhất gợi ý chấn thương niệu đạo sau trong bối cảnh vỡ khung chậu?",
+          "options": [
+            "Tụ máu bìu",
+            "Tiền liệt tuyến bị đẩy lên cao (high-riding prostate) khi thăm trực tràng",
+            "Cầu bàng quang căng",
+            "Đau vùng hạ vị"
+          ],
+          "answer": 1,
+          "explain": "\"High-riding prostate\" là dấu hiệu kinh điển của đứt hoàn toàn niệu đạo sau, do dây chằng mu - tiền liệt tuyến bị đứt và khối máu tụ vùng chậu đẩy bàng quang/tiền liệt tuyến lên cao."
+        },
+        {
+          "q": "Chọn câu SAI về xử trí ban đầu ở bệnh nhân này:",
+          "options": [
+            "Cần hồi sức dịch và máu để ổn định huyết động trước khi xử lý niệu đạo",
+            "Cố định khung chậu tạm thời bằng đại hoặc drap",
+            "Tiến hành đặt ngay thông Foley để theo dõi nước tiểu từng giờ hồi sức sốc",
+            "Mời hội chẩn ngoại chấn thương và tiết niệu"
+          ],
+          "answer": 2,
+          "explain": "Tuyệt đối KHÔNG đặt thông Foley mù quáng ở bệnh nhân nghi ngờ chấn thương niệu đạo (máu miệng sáo, vỡ khung chậu, bí tiểu) vì nguy cơ biến thương tổn không hoàn toàn thành hoàn toàn và gây nhiễm trùng khối máu tụ."
+        },
+        {
+          "q": "Trong phân loại Goldman (dựa trên RGU), tổn thương đứt niệu đạo màng kèm rách hoành niệu dục (thuốc cản quang lan vào cả chậu hông và tầng sinh môn) thuộc độ mấy?",
+          "options": [
+            "Độ II",
+            "Độ III",
+            "Độ IV",
+            "Độ V"
+          ],
+          "answer": 1,
+          "explain": "Theo Goldman: Độ 1 (căng giãn), Độ II (rách niệu đạo sau, hoành niệu dục nguyên vẹn -> thuốc chỉ ở vùng chậu), Độ III (rách niệu đạo sau + rách hoành niệu dục -> thuốc lan ra tầng sinh môn), Độ IV (chấn thương cổ bàng quang), Độ V (chấn thương niệu đạo trước)."
+        },
+        {
+          "q": "Biến chứng lâu dài thường gặp nhất và ảnh hưởng nhiều nhất đến chất lượng cuộc sống sau chấn thương niệu đạo kiểu này là:",
+          "options": [
+            "Sỏi bàng quang",
+            "Rối loạn cương dương và hẹp niệu đạo",
+            "Túi thừa niệu đạo",
+            "Nhiễm trùng đường tiết niệu tái diễn"
+          ],
+          "answer": 1,
+          "explain": "Rối loạn cương dương (do tổn thương đám rối thần kinh hang đi sát hai bên tiền liệt tuyến) và hẹp niệu đạo (stricture) là hai di chứng nặng nề nhất."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi bí tiểu cấp và chảy máu miệng sáo",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi.<br><br><b>Tiền sử:</b> Tăng sản lành tính tuyến tiền liệt (BPH).<br><br><b>Bệnh sử:</b> Vào viện vì bí tiểu cấp. Bệnh nhân đã được thử đặt thông tiểu tại trạm y tế xã nhưng thất bại và chảy máu nhiều qua miệng sáo, đau buốt dữ dội.<br><br><b>Khám lâm sàng:</b> Hiện tại bàng quang căng to trên vệ. Sinh hiệu ổn: Mạch 90 l/p, HA 140/90 mmHg. Không sốt. Thăm khám thấy dương vật sưng nề nhẹ, không có tụ máu tầng sinh môn.",
+      "questions": [
+        {
+          "q": "Nguyên nhân hàng đầu gây chảy máu niệu đạo trong tình huống này là:",
+          "options": [
+            "Vỡ bàng quang",
+            "Chấn thương niệu đạo do tạo đường giả (false passage)",
+            "Viêm bàng quang xuất huyết",
+            "Ung thư tuyến tiền liệt xâm lấn"
+          ],
+          "answer": 1,
+          "explain": "Việc cố gắng đẩy ống thông khi gặp vật cản (do BPH hoặc co thắt cơ thắt vân) thường làm thủng niêm mạc tạo đường đi sai (đường giả), gây chảy máu."
+        },
+        {
+          "q": "Vị trí thường xảy ra \"đường giả\" nhất khi đặt thông tiểu ở nam giới là:",
+          "options": [
+            "Lỗ sáp",
+            "Niệu đạo dương vật",
+            "Đoạn niệu đạo hành - màng hoặc cổ bàng quang",
+            "Niệu quản"
+          ],
+          "answer": 2,
+          "explain": "Vị trí hay gặp đường giả nhất là đoạn niệu đạo sau (hành-màng) hoặc ngay tại cổ bàng quang nơi có thùy tiền liệt tuyến lồi vào."
+        },
+        {
+          "q": "Chỉ định cận lâm sàng nào là KHÔNG phù hợp lúc này:",
+          "options": [
+            "Chụp niệu đạo ngược dòng (RGU)",
+            "Siêu âm hệ tiết niệu",
+            "Nội soi bàng quang chẩn đoán bằng ống soi cứng ngay lập tức",
+            "Xét nghiệm đông máu cơ bản"
+          ],
+          "answer": 2,
+          "explain": "Nội soi bằng ống cứng ngay lập tức khi đang chảy máu nhiều và phù nề có nguy cơ làm tổn thương nặng thêm. RGU hoặc nội soi ống mềm (nếu có chuyên gia) an toàn hơn, nhưng SPC là ưu tiên."
+        },
+        {
+          "q": "Xử trí tối ưu nhất cho bệnh nhân này tại phòng cấp cứu là:",
+          "options": [
+            "Cố gắng đặt lại thông Foley kích thước nhỏ hơn (14F)",
+            "Cố gắng đặt thông Foley kích thước lớn hơn (20F) và cứng hơn",
+            "Dẫn lưu bàng quang trên xương mu",
+            "Dùng thuốc lợi tiểu mạnh"
+          ],
+          "answer": 2,
+          "explain": "Đã thất bại và chảy máu -> Không nên cố đặt lại (dù nhỏ hay lớn) vì nguy cơ nhiễm trùng và làm rộng đường giả. Dẫn lưu bàng quang trên xương mu là an toàn nhất để giải áp."
+        },
+        {
+          "q": "Để phòng ngừa biến chứng hẹp niệu đạo sau chấn thương do đặt thông (iatrogenic), nguyên tắc quan trọng là:",
+          "options": [
+            "Sử dụng kháng sinh dự phòng liều cao kéo dài",
+            "Hạn chế tối đa can thiệp qua niệu đạo khi niêm mạc đang viêm/tổn thương",
+            "Bơm rửa bàng quang liên tục",
+            "Nong niệu đạo định kỳ ngay sau khi rút thông"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc \"Rest the urethra\" (để niệu đạo nghỉ). Can thiệp thêm vào niêm mạc đang tổn thương sẽ làm tăng phản ứng xơ hóa -> hẹp niệu đạo."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 22 tuổi vết thương thấu tầng sinh môn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 22 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì vết thương thấu vùng tầng sinh môn do bị dao đâm. Vết thương dài 3cm nằm giữa bìu và hậu môn, đang chảy máu rỉ rả. Bệnh nhân tiểu ra máu đỏ tươi toàn bãi, dòng tiểu yếu.<br><br><b>Khám lâm sàng:</b> Sinh hiệu: Mạch 100 lần/phút, HA 110/70 mmHg. Bụng mềm. Thăm trực tràng: cơ thắt hậu môn co bóp tốt, không thấy máu trong trực tràng.",
+      "questions": [
+        {
+          "q": "Phân loại chấn thương niệu đạo trong trường hợp này thuộc nhóm:",
+          "options": [
+            "Chấn thương kín (Blunt trauma)",
+            "Vết thương hở (Penetrating trauma)",
+            "Chấn thương do thầy thuốc (Iatrogenic)",
+            "Chấn thương gián tiếp"
+          ],
+          "answer": 1,
+          "explain": "Dao đâm là vết thương hở (penetrating trauma)."
+        },
+        {
+          "q": "Nguy cơ tổn thương cơ quan lân cận nào cần được loại trừ ngay lập tức ngoài niệu đạo?",
+          "options": [
+            "Trực tràng",
+            "Bàng quang",
+            "Niệu quản",
+            "Tinh hoàn"
+          ],
+          "answer": 0,
+          "explain": "Vùng tầng sinh môn rất gần trực tràng. Thăm trực tràng không có máu là dấu hiệu tốt nhưng cần cảnh giác. Bàng quang và niệu quản nằm cao hơn."
+        },
+        {
+          "q": "Xét nghiệm chẩn đoán hình ảnh cần thực hiện ngay:",
+          "options": [
+            "Chụp UIV (Niệu đồ tĩnh mạch)",
+            "Chụp RGU (Niệu đạo ngược dòng)",
+            "MRI tiểu khung",
+            "X-quang bụng không chuẩn bị"
+          ],
+          "answer": 1,
+          "explain": "RGU vẫn là chỉ định đầu tay để xác định vị trí và mức độ thoát thuốc."
+        },
+        {
+          "q": "Nếu chẩn đoán xác định đứt hoàn toàn niệu đạo đoạn hành do vết thương sạch, đến sớm (< 6 giờ), phương pháp điều trị ưu tiên theo quan điểm hiện đại là:",
+          "options": [
+            "Mở thông bàng quang đơn thuần, chờ mổ thì 2",
+            "Phẫu thuật cắt lọc, khâu nối niệu đạo tận - tận ngay thì đầu (Primary repair)",
+            "Đặt thông tiểu lưu và điều trị kháng sinh",
+            "Chờ vết thương tự lành"
+          ],
+          "answer": 1,
+          "explain": "Đối với vết thương hở, sắc gọn, sạch, đến sớm, đa số các tài liệu (Schwartz, Bailey) và guideline đều khuyến cáo mổ thám sát, cắt lọc và khâu nối tận - tận ngay (Primary repair) để giảm nguy cơ hẹp so với để tự liền."
+        },
+        {
+          "q": "(Chọn tập hợp đúng) Các nguyên tắc khi khâu nối niệu đạo thì đầu:\n(1) Cắt lọc tiết kiệm mép tổn thương\n(2) Khâu nối không căng (tension-free)\n(3) Dùng chỉ không tiêu (Silk)\n(4) Hai đầu ni mạc phải áp sát nhau (spatulated anastomosis)",
+          "options": [
+            "1, 2, 3",
+            "1, 2, 4",
+            "2, 3, 4",
+            "1, 3, 4"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc khâu nối niệu đạo: Cắt lọc mép nham nhở (nhưng tiết kiệm để tránh thiếu hụt), miệng nối rộng (spatulated), không căng, dùng chỉ tan chậm (Vicryl/PDS) chứ KHÔNG dùng chỉ không tiêu (Silk/Nylon) vì sẽ tạo sỏi niệu đạo. Vậy (3) sai."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi tái khám tạo hình niệu đạo",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi.<br><br><b>Tiền sử:</b> Vỡ khung chậu do tai nạn giao thông cách đây 6 tháng, đã được dẫn lưu bàng quang trên xương mu tại thời điểm đó.<br><br><b>Bệnh sử:</b> Hiện tại bệnh nhân đến khám để được phẫu thuật tái tạo lại đường tiểu. Bệnh nhân không tiểu được qua đường tự nhiên, nước tiểu ra hoàn toàn qua ống dẫn lưu.<br><br><b>Cận lâm sàng khác:</b> Chụp RGU và MCU (chụp bàng quang xuôi dòng) kết hợp thấy hẹp tắc hoàn toàn niệu đạo sau đoạn dài 2cm, cổ bàng quang đóng mở tốt.",
+      "questions": [
+        {
+          "q": "Đây là hình thái tổn thương gì sau chấn thương niệu đạo sau (PFUI)?",
+          "options": [
+            "Rò nước tiểu",
+            "Hẹp niệu đạo (Urethral stricture/Distraction defect)",
+            "Túi thừa niệu đạo",
+            "Bảng quang thần kinh"
+          ],
+          "answer": 1,
+          "explain": "Sau đứt niệu đạo, hai đầu xa nhau và mô xơ lấp đầy khoảng trống -> gọi là \"Posterior Urethral Distraction Defect\" (một dạng hẹp/mất đoạn niệu đạo)."
+        },
+        {
+          "q": "Thời điểm \"vàng\" thường được khuyến cáo để phẫu thuật tạo hình niệu đạo sau vỡ khung chậu là bao lâu sau tai nạn?",
+          "options": [
+            "Ngay lập tức (trong 24h)",
+            "1-2 tuần",
+            "Tối thiểu 3-6 tháng",
+            "Sau 1 năm"
+          ],
+          "answer": 2,
+          "explain": "Thời gian chờ tối thiểu thường là 3 tháng (thường là 3-6 tháng) theo Guideline EAU/AUA và sách YHN."
+        },
+        {
+          "q": "Lý do chính của việc trì hoãn phẫu thuật tạo hình là:",
+          "options": [
+            "Để khung chậu liền xương hoàn toàn",
+            "Để ổ máu tụ vùng chậu tan hết và quá trình viêm/xơ hóa ổn định",
+            "Để bệnh nhân chuẩn bị tài chính",
+            "Để điều trị nhiễm trùng đường tiết niệu"
+          ],
+          "answer": 1,
+          "explain": "Cần chờ ổ máu tụ tan hết, mô viêm hết phù nề, sẹo xơ ổn định ranh giới để cuộc mổ thuận lợi và giảm tỷ lệ tái hẹp."
+        },
+        {
+          "q": "Phương pháp phẫu thuật tiêu chuẩn (Gold standard) cho trường hợp hẹp niệu đạo sau đoạn ngắn (<2.5cm) là:",
+          "options": [
+            "Nội soi xẻ lạnh niệu đạo (DVIU)",
+            "Đặt Stent niệu đạo",
+            "Phẫu thuật tạo hình nối tận - tận qua đường tầng sinh môn (Perineal end-to-end urethroplasty)",
+            "Phẫu thuật tạo hình dùng vạt da biu"
+          ],
+          "answer": 2,
+          "explain": "Tạo hình nối tận - tận (anastomotic urethroplasty) qua đường tầng sinh môn có tỷ lệ thành công cao nhất (>90%). Nội soi xẻ lạnh (DVIU) thường thất bại với hẹp niệu đạo sau do chấn thương (mất đoạn, xơ cứng)."
+        },
+        {
+          "q": "Trước khi mổ tạo hình, xét nghiệm nào quan trọng để đánh giá chức năng bàng quang, đảm bảo bảng quang còn khả năng co bóp sau khi nối?",
+          "options": [
+            "Siêu âm",
+            "Niệu động học (Urodynamic testing)",
+            "CT Scanner",
+            "Xạ hình thận"
+          ],
+          "answer": 1,
+          "explain": "Nếu bàng quang mất chức năng co bóp (do tổn thương thần kinh chậu lúc tai nạn), phẫu thuật nối niệu đạo sẽ vô nghĩa (bệnh nhân vẫn không tiểu được hoặc són tiểu). Niệu động học giúp đánh giá điều này."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 18 tuổi đập tầng sinh môn vào mạn thuyền",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 18 tuổi.<br><br><b>Bệnh sử:</b> Vào viện sau tai nạn đập vùng tầng sinh môn vào mạn thuyền.<br><br><b>Khám lâm sàng:</b> Khám thấy tụ máu lớn ở bìu và dương vật, lan lên thành bụng trước. Không có máu tụ ở mặt trong đùi hay vùng hậu môn. Ấn đau vùng tầng sinh môn. Bệnh nhân bí tiểu.",
+      "questions": [
+        {
+          "q": "Đặc điểm lan tràn của khối máu tụ gợi ý tổn thương mạc nào?",
+          "options": [
+            "Mạc Buck còn nguyên vẹn",
+            "Rách mạc Buck, máu nằm trong giới hạn của mạc Colles",
+            "Rách mạc Colles",
+            "Rách lá phúc mạc tạng"
+          ],
+          "answer": 1,
+          "explain": "Nếu mạc Buck còn nguyên -> máu chỉ ở dương vật (hình quả cà tím). Nếu rách mạc Buck -> máu lan ra giới hạn của mạc Colles (tầng sinh môn, bìu, dương vật, lên bụng dưới dưới dây chằng bẹn)."
+        },
+        {
+          "q": "Tại sao máu tụ không lan xuống đùi?",
+          "options": [
+            "Do mạc đùi (Fascia lata) bám chặt vào ngành ngồi mu",
+            "Do mạc Colles bám vào mạc đùi (Fascia lata) và ngành ngồi mu",
+            "Do trọng lực",
+            "Do cơ khép đùi ngăn cản"
+          ],
+          "answer": 1,
+          "explain": "Mạc Colles bám vào màng đáy hoành niệu dục (sau), bám vào mạc đùi và ngành ngồi mu (bên), và liên tiếp với mạc Scarpa (trên). Do đường bám vào mạc đùi, máu không xuống đùi được."
+        },
+        {
+          "q": "Ngoài chấn thương niệu đạo, cần khám kỹ cơ quan nào thường bị tổn thương kèm theo trong cơ chế chấn thương này?",
+          "options": [
+            "Thận",
+            "Tinh hoàn",
+            "Bàng quang",
+            "Cột sống thắt lưng"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế đập tầng sinh môn dễ gây vỡ tinh hoàn kèm theo."
+        },
+        {
+          "q": "Lựa chọn kháng sinh dự phòng trong trường hợp này ưu tiên nhóm nào?",
+          "options": [
+            "Không cần kháng sinh nếu chưa can thiệp",
+            "Kháng sinh phổ rộng Gram âm và Kỵ khí (VD: Cephalosporin 3 + Metronidazole)",
+            "Chỉ cần Gram dương (Vancomycin)",
+            "Kháng nấm"
+          ],
+          "answer": 1,
+          "explain": "Nguy cơ nhiễm trùng từ nước tiểu ra mô mềm (urine extravasation) rất cao, vi khuẩn thường là Gram âm đường ruột và kỵ khí."
+        },
+        {
+          "q": "Nếu bệnh nhân này đến muộn sau 3 ngày với tình trạng sốt cao, vùng bìu và tầng sinh môn sưng nóng đỏ, ấn có tiếng lép bép (khí dưới da). Biến chứng nguy hiểm nhất là:",
+          "options": [
+            "Sốc mất máu",
+            "Hoại thư Fournier (Fournier's gangrene)",
+            "Viêm bàng quang",
+            "Suy thận cấp"
+          ],
+          "answer": 1,
+          "explain": "Hoại thư sinh hơi Fournier là nhiễm trùng hoại tử cân mạc tiến triển nhanh, tỷ lệ tử vong cao, cần rạch tháo mủ và cắt lọc rộng rãi ngay."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi đứt niệu đạo sau ngày thứ 7",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Bệnh sử:</b> Đa chấn thương sau tai nạn ô tô. Đã được đặt dẫn lưu bàng quang trên xương mu ngay ngày đầu. Hiện tại là ngày thứ 7 sau tai nạn. Bệnh nhân ổn định về huyết động và tri giác.<br><br><b>Cận lâm sàng khác:</b> Phim chụp RGU ngày đầu cho thấy đứt hoàn toàn niệu đạo sau.<br><br><b>Tình trạng phẫu thuật:</b> Bác sĩ đang cân nhắc phương án \"Nội soi nắn chỉnh niệu đạo thì đầu (Primary Endoscopic Realignment)\".",
+      "questions": [
+        {
+          "q": "Mục tiêu chính của phương pháp \"Primary Realignment\" (đặt thông dẫn đường sớm) là gì?",
+          "options": [
+            "Để khâu nối niêm mạc niệu đạo",
+            "Để đưa 2 đầu niệu đạo lại gần nhau, giảm nguy cơ hẹp và đơn giản hóa cuộc mổ tạo hình sau này (nếu cần)",
+            "Để tránh phải mổ tạo hình vĩnh viễn",
+            "Để cầm máu"
+          ],
+          "answer": 1,
+          "explain": "Realignment dùng ống soi mềm và dây dẫn (guide wire) hoặc 2 ống soi (meeting) để đặt một ống thông Foley làm nòng, giúp 2 đầu niệu đạo thẳng hàng (align) khi liền sẹo. Nó không phải là khâu nối."
+        },
+        {
+          "q": "Thời điểm thực hiện Realignment tốt nhất (nếu chọn phương pháp này) là:",
+          "options": [
+            "Trong vòng 24 giờ đầu",
+            "Trong vòng 1 tuần đầu (khi bệnh nhân ổn định)",
+            "Sau 3 tháng",
+            "Bất cứ lúc nào"
+          ],
+          "answer": 1,
+          "explain": "Nên làm sớm (trong tuần đầu) trước khi xơ hóa dính, nhưng phải khi bệnh nhân ổn định (thường ngày 2-7)."
+        },
+        {
+          "q": "Nếu thực hiện Realignment thất bại (không đưa được dây dẫn qua chỗ đứt), bước tiếp theo là:",
+          "options": [
+            "Mổ mở ngay để nối",
+            "Tiếp tục dẫn lưu bàng quang trên xương mu và chờ mổ thì 2 (delayed repair)",
+            "Cố gắng đẩy mạnh ống soi",
+            "Dùng thông sắt nong"
+          ],
+          "answer": 1,
+          "explain": "Nếu thất bại -> Dừng lại. Chấp nhận SPC và mổ tạo hình sau 3-6 tháng. Có làm thêm sẽ gây hại."
+        },
+        {
+          "q": "Ưu điểm của Realignment so với mổ mở cấp cứu ngay lập tức là:",
+          "options": [
+            "Tỷ lệ thành công cao hơn",
+            "Ít xâm lấn hơn, tránh làm tổn thương thêm mạch máu/thần kinh vùng chậu, giảm nguy cơ chảy máu và bất lực",
+            "Không cần gây mê",
+            "Không bao giờ bị hẹp lại"
+          ],
+          "answer": 1,
+          "explain": "Mổ mở cấp cứu trong vùng chậu đầy máu tụ cực kỳ khó khăn và dễ gây tổn thương thêm đám rối thần kinh cương (gây liệt dương) và chảy máu. Realignment ít xâm lấn hơn."
+        },
+        {
+          "q": "Biến chứng hẹp niệu đạo sau Realignment:",
+          "options": [
+            "Không bao giờ xảy ra",
+            "Vẫn xảy ra với tỷ lệ cao (50-70%) nhưng đoạn hẹp thường ngắn và dễ xử lý hơn",
+            "Xảy ra 100% các trường hợp",
+            "Chỉ xảy ra nếu nhiễm trùng"
+          ],
+          "answer": 1,
+          "explain": "Thực tế tỷ lệ hẹp lại vẫn cao, nhưng đoạn hẹp thường ngắn, thẳng trục, có thể chỉ cần nội soi xẻ lạnh (DVIU) sau này thay vì mổ tạo hình phức tạp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi tiểu khó sau TURP",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 70 tuổi.<br><br><b>Tiền sử:</b> Phẫu thuật nội soi cắt tiền liệt tuyến (TURP) được 3 tuần. Đái tháo đường type 2.<br><br><b>Bệnh sử:</b> Bệnh nhân quay lại vì tiểu khó, tia tiểu nhỏ dần. Không sốt.<br><br><b>Khám lâm sàng:</b> Thăm trực tràng bình thường. Nghi ngờ hẹp niệu đạo do biến chứng sau mổ.",
+      "questions": [
+        {
+          "q": "Vị trí hẹp niệu đạo hay gặp nhất sau thủ thuật TURP là:",
+          "options": [
+            "Niệu đạo trước (do dụng cụ to)",
+            "Cổ bàng quang hoặc niệu đạo niệu đạo màng",
+            "Lỗ sáo",
+            "Niệu quản"
+          ],
+          "answer": 0,
+          "explain": "Mặc dù cắt ở tiền liệt tuyến, nhưng đoạn niệu đạo trước (hành/dương vật) hay bị hẹp do kích thước ống soi to cọ xát gây thiếu máu, hoặc rò điện. Hẹp cổ bàng quang cũng gặp (contracture). Tuy nhiên sách Schwartz nhấn mạnh tổn thương niêm mạc do dụng cụ."
+        },
+        {
+          "q": "Cơ chế gây hẹp trong trường hợp này chủ yếu là:",
+          "options": [
+            "Chấn thương trực tiếp do cắt đốt",
+            "Do dòng điện rò rỉ (stray current) hoặc dụng cụ kích thước quá lớn gây thiếu máu niêm mạc",
+            "Do nhiễm trùng",
+            "Tất cả các ý trên"
+          ],
+          "answer": 3,
+          "explain": "Cả cơ học (ống to), nhiệt (điện), và nhiễm trùng đều góp phần."
+        },
+        {
+          "q": "Thăm dò niệu động học (Uroflowmetry) điển hình của bệnh nhân hẹp niệu đạo sẽ có dạng:",
+          "options": [
+            "Đường cong hình chuông (Bell-shaped)",
+            "Đường cong kéo dài, đỉnh thấp (Plateau-shaped)",
+            "Dòng tiểu ngắt quãng (Intermittent)",
+            "Dòng tiểu cực mạnh (Super-flow)"
+          ],
+          "answer": 1,
+          "explain": "Biểu đồ niệu dòng đồ của hẹp niệu đạo có dạng cao nguyên (bẹt đầu, kéo dài) - Plateau curve."
+        },
+        {
+          "q": "Phương pháp điều trị khởi đầu (First-line) cho hẹp niệu đạo đoạn ngắn (<1cm), lần đầu, ở vị trí này là:",
+          "options": [
+            "Tạo hình dùng vạt da",
+            "Nong niệu đạo hoặc Xẻ lạnh nội soi (DVIU)",
+            "Đặt Stent",
+            "Cắt bỏ bàng quang"
+          ],
+          "answer": 1,
+          "explain": "Với hẹp ngắn, lần đầu, xẻ lạnh (Optical Urethrotomy - DVIU) hoặc nong có tỷ lệ thành công chấp nhận được."
+        },
+        {
+          "q": "Nếu bệnh nhân này bị hẹp tái phát nhiều lần sau khi đã xẻ lạnh, phương án tối ưu tiếp theo là:",
+          "options": [
+            "Tiếp tục xẻ lạnh định kỳ",
+            "Tự nong tại nhà suốt đời",
+            "Phẫu thuật tạo hình niệu đạo (Urethroplasty)",
+            "Dùng thuốc Alpha-blocker"
+          ],
+          "answer": 2,
+          "explain": "Guideline (SIU/ICUD): Không nên làm DVIU quá 1-2 lần. Nếu tái phát -> Mổ tạo hình (Urethroplasty) là tiêu chuẩn vàng (Curative)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 25 tuổi sốc mất máu do vỡ chậu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 25 tuổi.<br><br><b>Bệnh sử:</b> Tai nạn lao động bị vật nặng đè vào vùng chậu. Vào viện trong tình trạng sốc mất máu nặng.<br><br><b>Khám lâm sàng:</b> Mạch 130 l/p, HA 60/40 mmHg. Bụng chướng căng. Máu chảy miệng sáo.<br><br><b>Cận lâm sàng khác:</b> FAST (+) dịch tự do nhiều. X-quang tại giường: Vỡ toác khớp mu 5cm.",
+      "questions": [
+        {
+          "q": "Thứ tự ưu tiên xử trí theo ATLS (Advanced Trauma Life Support) ở bệnh nhân này:",
+          "options": [
+            "Đặt dẫn lưu bàng quang -> Mổ bụng -> Cố định khung chậu",
+            "Hồi sức dịch/máu + Cố định khung chậu (Pellvic binder) -> Kiểm soát chảy máu ổ bụng -> Xử trí tiết niệu sau",
+            "Chụp RGU để chẩn đoán chấn thương niệu đạo ngay",
+            "Mổ thăm dò niệu đạo ngay để cầm máu miệng sáo"
+          ],
+          "answer": 1,
+          "explain": "ATLS ưu tiên C (Circulation) đe dọa tính mạng. Cố định khung chậu giúp cầm máu. Niệu đạo không gây chết người ngay -> Xử lý sau (đặt SPC khi đang mổ bụng hoặc sau khi ổn định)."
+        },
+        {
+          "q": "Trong chấn thương vỡ toác khớp mu (Open book fracture), tổn thương niệu đạo thường kèm theo tổn thương mạch máu nào gây chảy máu đe dọa tính mạng?",
+          "options": [
+            "Động mạch đùi",
+            "Đám rối tĩnh mạch Santorini và các nhánh động mạch chậu trong (như ĐM thẹn trong)",
+            "Động mạch thận",
+            "Tĩnh mạch chủ dưới"
+          ],
+          "answer": 1,
+          "explain": "Đám rối tĩnh mạch quanh bàng quang/tiền liệt tuyến và các nhánh ĐM chậu trong nằm sát khung chậu."
+        },
+        {
+          "q": "Nếu bệnh nhân phải mổ bụng khẩn cấp vì vỡ lách, bác sĩ tiết niệu nên làm gì trong lúc mổ?",
+          "options": [
+            "Mở bàng quang thăm dò và đặt dẫn lưu trên xương mu (SPC)",
+            "Bóc tách tìm niệu đạo bị đứt để nối ngay",
+            "Không làm gì cả",
+            "Đặt thông tiểu qua niệu đạo từ trên xuống (antegrade)"
+          ],
+          "answer": 0,
+          "explain": "Nếu đã mở bụng, tiện thể mở bàng quang đặt ống dẫn lưu (SPC) là hợp lý nhất để giải quyết đường tiểu. Không nên bóc tách sâu tìm niệu đạo lúc này vì gây chảy máu thêm (mất tamponade effect)."
+        },
+        {
+          "q": "(Chọn câu SAI) Về tiên lượng của chấn thương niệu đạo kết hợp vỡ khung chậu phức tạp:",
+          "options": [
+            "Tỷ lệ rối loạn cương dương rất cao (20-80%)",
+            "Tỷ lệ hẹp niệu đạo gần như 100% nếu không can thiệp",
+            "Tiểu không tự chủ là biến chứng thường gặp nhất",
+            "Nguy cơ tử vong chủ yếu do mất máu từ khung chậu và tạng khác, không phải do niệu đạo"
+          ],
+          "answer": 2,
+          "explain": "Tiểu không tự chủ (Incontinence) ít gặp hơn (2-10%) vì cơ thắt ngoài thường bị tổn thương nhưng cơ thắt trong (cổ bàng quang) thường còn nguyên, và cơ thắt ngoài có thể hồi phục. Hẹp và Liệt dương mới là phổ biến nhất."
+        },
+        {
+          "q": "Dấu hiệu \"Lái xe đạp\" (Pie in the sky) trên phim chụp X-quang/Cystogram có ý nghĩa gì?",
+          "options": [
+            "Bàng quang bị chèn ép dẹt lại",
+            "Bàng quang bị khối máu tụ đẩy lên cao ra khỏi hố chậu",
+            "Bàng quang bị vỡ",
+            "Niệu đạo bình thường"
+          ],
+          "answer": 1,
+          "explain": "\"Pie in the sky\": Bàng quang bị đẩy cao và chèn ép bởi máu tụ, hình dáng như chiếc bánh, gợi ý đứt niệu đạo sau."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 10 tuổi kẹt khóa quần",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 10 tuổi.<br><br><b>Bệnh sử:</b> Bị kẹt dương vật vào dây khóa quần (zipper injury). Đến viện vì đau và chảy máu ít ở bao quy đầu/miệng sáo.<br><br><b>Khám lâm sàng:</b> Khám thấy da bao quy đầu bị kẹp chặt vào khóa kéo. Trẻ hoảng loạn, bí tiểu.",
+      "questions": [
+        {
+          "q": "Đây là loại chấn thương gì?",
+          "options": [
+            "Chấn thương niệu đạo sau",
+            "Chấn thương phần mềm đơn thuần hoặc tổn thương nhẹ niệu đạo trước (lỗ sáo)",
+            "Vỡ vật hang",
+            "Xoắn tinh hoàn"
+          ],
+          "answer": 1,
+          "explain": "Zipper injury thường chỉ tổn thương da quy đầu, hiếm khi vào sâu niệu đạo trừ khi kẹp rất mạnh vào miệng sáo."
+        },
+        {
+          "q": "Xử trí ban đầu để gỡ khóa quần an toàn (non-operative):",
+          "options": [
+            "Kéo mạnh khóa xuống",
+            "Cắt bỏ toàn bộ khóa và da",
+            "Dùng kìm cắt phần trụ giữa (median bar) của khóa kéo để 2 cánh tách ra",
+            "Dùng thuốc mê toàn thân ngay"
+          ],
+          "answer": 2,
+          "explain": "Kỹ thuật cắt trụ giữa (diamond cut) của khóa kéo giúp 2 mảnh trượt tách ra dễ dàng mà không gây đau thêm."
+        },
+        {
+          "q": "Sau khi gỡ được khóa, thấy có rách nhẹ niêm mạc lỗ sáo, chảy máu ít, trẻ tự tiểu được nhưng đau. Xử trí tiếp theo:",
+          "options": [
+            "Khâu lại lỗ sáo",
+            "Bôi thuốc mỡ kháng sinh, giảm đau, theo dõi tại nhà",
+            "Đặt thông tiểu 7 ngày",
+            "Chụp RGU"
+          ],
+          "answer": 1,
+          "explain": "Tổn thương niêm mạc nông, tự tiểu được -> Bảo tồn. Không cần can thiệp sâu."
+        },
+        {
+          "q": "Nếu chấn thương niệu đạo trẻ em (thường do gãy khung chậu), điểm khác biệt giải phẫu so với người lớn cần lưu ý là:",
+          "options": [
+            "Bàng quang trẻ em nằm hoàn toàn trong tiểu khung",
+            "Bàng quang trẻ em nằm cao hơn (trong ổ bụng)",
+            "Tiền liệt tuyến trẻ em rất to",
+            "Niệu đạo trẻ em dài hơn"
+          ],
+          "answer": 1,
+          "explain": "Ở trẻ em, bàng quang là tạng trong ổ bụng (abdominal organ), đến tuổi dậy thì mới tụt hẳn xuống tiểu khung. Do đó dễ bị tổn thương kèm theo trong chấn thương bụng, và cổ bàng quang/tiền liệt tuyến chưa phát triển rõ -> khó mổ tạo hình hơn."
+        },
+        {
+          "q": "Một biến chứng muộn đặc thù ở trẻ em sau chấn thương niệu đạo sau so với người lớn là:",
+          "options": [
+            "Không có gì khác biệt",
+            "Nguy cơ biến dạng cổ bàng quang và tiền liệt tuyến phát triển kém",
+            "Ung thư hóa",
+            "Dậy thì sớm"
+          ],
+          "answer": 1,
+          "explain": "Do tổn thương mầm tiền liệt tuyến và cổ bàng quang lúc nhỏ có thể ảnh hưởng sự phát triển sau này."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 28 tuổi ngã dầm bê tông đè vùng chậu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 28 tuổi, công nhân xây dựng.<br><br><b>Bệnh sử:</b> Nhập viện sau khi bị dầm bê tông rơi đè vào vùng khung chậu. Bệnh nhân đau dữ dội vùng hạ vị và khớp háng hai bên, không tự tiểu được.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh táo, Glasgow 15 điểm. Sinh hiệu: Mạch 100 lần/phút, HA 110/70 mmHg, SpO2 98%. Khám thấy khung chậu mất vững khi ép bửa, tụ máu lớn vùng mu và bìu, không có máu ở miệng sáo niệu đạo, thăm trực tràng tiền liệt tuyến ở vị trí bình thường, trương lực cơ thắt hậu môn tốt. Bụng mềm, ấn đau vùng hạ vị, phản ứng thành bụng âm tính.<br><br><b>Xét nghiệm:</b> Hb 110 g/L, Creatinin 85 µmol/L.<br><br><b>Cận lâm sàng khác:</b> FAST tại giường không thấy dịch tự do ổ bụng. X-quang khung chậu thấy gãy ngành ngồi mu hai bên. Bác sĩ nghi ngờ tổn thương bàng quang kèm theo gãy khung chậu.",
+      "questions": [
+        {
+          "q": "Bước xử trí đầu tiên phù hợp nhất để khảo sát hệ tiết niệu ở bệnh nhân này là gì?",
+          "options": [
+            "Chụp UIV (Niệu đồ tĩnh mạch)",
+            "Đặt thông tiểu Foley và theo dõi nước tiểu",
+            "Chụp bàng quang niệu đạo ngược dòng (RUG)",
+            "Chụp cắt lớp vi tính (CT) bàng quang có bơm thuốc cản quang ngược dòng (CT Cystography)"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân không có máu miệng sáo, tiền liệt tuyến bình thường -> ít nguy cơ chấn thương niệu đạo -> Đặt thông tiểu là bước đầu (vừa chẩn đoán vừa điều trị bí tiểu) trước khi chụp CT Cystography. RUG chỉ làm khi nghi ngờ chấn thương niệu đạo. UIV giá trị thấp trong chấn thương."
+        },
+        {
+          "q": "Hình ảnh nào trên phim chụp gợi ý chấn thương bàng quang ngoài phúc mạc?",
+          "options": [
+            "Thuốc cản quang lan vào giữa các quai ruột",
+            "Thuốc cản quang đọng lại ở khoang Retzius hình \"ngọn lửa\" (flame shape)",
+            "Thuốc cản quang thoát ra ngoài qua vết thương thấu bụng",
+            "Khí tự do dưới hoành"
+          ],
+          "answer": 1,
+          "explain": "Vỡ ngoài phúc mạc làm thuốc tràn vào khoang quanh bàng quang (khoang Retzius), bị ép bởi các cấu trúc vùng chậu tạo hình ảnh \"ngọn lửa\" hoặc \"răng lược\". Thuốc len lỏi giữa các quai ruột là vỡ trong phúc mạc."
+        },
+        {
+          "q": "Nếu chẩn đoán xác định là vỡ bàng quang ngoài phúc mạc đơn thuần, phương pháp điều trị ưu tiên là gì?",
+          "options": [
+            "Mổ mở khâu bàng quang cấp cứu",
+            "Mổ nội soi khâu bàng quang",
+            "Đặt thông tiểu lưu và điều trị nội khoa",
+            "Dẫn lưu bàng quang trên xương mu"
+          ],
+          "answer": 2,
+          "explain": "Theo Guidelines và Schwartz: Vỡ bàng quang ngoài phúc mạc đơn thuần (chiếm đa số trong gãy khung chậu) ưu tiên điều trị bảo tồn bằng đặt thông tiểu lưu, kháng sinh, giảm đau."
+        },
+        {
+          "q": "Thời gian lưu thông tiểu trung bình được khuyến cáo cho trường hợp này là bao lâu trước khi chụp kiểm tra lại?",
+          "options": [
+            "3-5 ngày",
+            "7-10 ngày",
+            "14-21 ngày",
+            "4-6 tuần"
+          ],
+          "answer": 2,
+          "explain": "Thời gian lành thương trung bình là 10-14 ngày (thường chọn mốc 14 ngày để chụp cystogram kiểm tra). Đáp án 14-21 ngày bao phủ mốc an toàn này tốt nhất so với các mốc quá ngắn."
+        },
+        {
+          "q": "Yếu tố nào sau đây là chỉ định phẫu thuật đối với vỡ bàng quang ngoài phúc mạc (Chọn câu sai TRỪ)?",
+          "options": [
+            "Mảnh xương chậu đâm vào lòng bàng quang",
+            "Tổn thương cổ bàng quang",
+            "Có tổn thương trực tràng phối hợp",
+            "Có đái máu đại thể kéo dài > 24 giờ"
+          ],
+          "answer": 3,
+          "explain": "Chỉ định mổ vỡ ngoài phúc mạc: Mảnh xương trong bàng quang, tổn thương cổ bàng quang, tổn thương phối hợp (trực tràng/âm đạo), hoặc nghẹt thông tiểu do máu cục không cầm. Đái máu đại thể đơn thuần không phải chỉ định mổ tuyệt đối nếu thông tiểu vẫn hoạt động tốt."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi đau bụng bí tiểu sau ngã xe",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì đau bụng sau tiệc rượu. Bệnh nhân khai uống nhiều bia, buồn tiểu nhưng không đi, trên đường về bị ngã xe đập vùng bụng dưới xuống ghi-đông xe. Nhập viện sau tai nạn 6 giờ trong tình trạng tỉnh, đau khắp bụng, bí tiểu.<br><br><b>Khám lâm sàng:</b> Sinh hiệu: Mạch 90 l/p, HA 120/80 mmHg, sốt nhẹ 37.8°C. Khám bụng chướng nhẹ, ấn đau khắp bụng, phản ứng thành bụng dương tính rõ ở vùng hạ vị và hố chậu hai bên, gõ đục vùng thấp. Không có cầu bàng quang. Các cơ quan khác chưa ghi nhận bất thường.<br><br><b>Xét nghiệm:</b> Máu: Bạch cầu 14 G/L, Neutrophil 80%, Creatinin máu 250 µmol/L (trước đó sức khỏe bình thường), Kali 5.0 mmol/L.",
+      "questions": [
+        {
+          "q": "Cơ chế tổn thương bàng quang nhiều khả năng nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Vết thương thấu bụng gây thủng",
+            "Tăng áp lực đột ngột lên bàng quang đang căng đầy gây vỡ vòm",
+            "Mảnh xương chậu đâm thủng thành bàng quang",
+            "Giằng xé dây chằng mu-tiền liệt tuyến"
+          ],
+          "answer": 1,
+          "explain": "Bàng quang căng đầy nước tiểu (do uống bia) vượt lên trên khớp mu, khi chịu lực tác động trực tiếp sẽ vỡ ở điểm yếu nhất là vòm bàng quang (phần phủ phúc mạc)."
+        },
+        {
+          "q": "Tại sao Creatinin máu của bệnh nhân tăng cao bất thường so với bệnh cảnh chấn thương mới?",
+          "options": [
+            "Suy thận cấp trước thận do sốc mất máu",
+            "Suy thận cấp tại thận do dập thận hai bên",
+            "Hiện tượng tái hấp thu nước tiểu qua phúc mạc (giả suy thận)",
+            "Tắc nghẽn đường tiết niệu do cục máu đông"
+          ],
+          "answer": 2,
+          "explain": "Trong vỡ bàng quang trong phúc mạc, nước tiểu tràn vào ổ bụng. Phúc mạc có diện tích lớn sẽ tái hấp thu Urea và Creatinin vào máu, gây tình trạng \"giả suy thận\" (Pseudo-renal failure). Kali cũng có thể tăng nhẹ."
+        },
+        {
+          "q": "Hình thái tổn thương giải phẫu bệnh thường gặp nhất trong bối cảnh này là gì?",
+          "options": [
+            "Vỡ bàng quang ngoài phúc mạc",
+            "Vỡ bàng quang trong phúc mạc",
+            "Đụng dập thành bàng quang",
+            "Đứt niệu đạo sau"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế chấn thương trực tiếp trên bàng quang căng đầy -> Vỡ trong phúc mạc (Intraperitoneal rupture). Vỡ ngoài phúc mạc thường do gãy xương chậu."
+        },
+        {
+          "q": "Thái độ xử trí chuẩn xác nhất cho bệnh nhân này?",
+          "options": [
+            "Đặt thông tiểu và theo dõi 2 tuần",
+            "Chọc hút dịch ổ bụng dưới siêu âm và dùng kháng sinh",
+            "Phẫu thuật nội soi hoặc mổ mở khâu bàng quang và lau rửa ổ bụng",
+            "Dẫn lưu bàng quang trên xương mu đơn thuần"
+          ],
+          "answer": 2,
+          "explain": "Vỡ trong phúc mạc là chỉ định phẫu thuật tuyệt đối để khâu lỗ vỡ, ngăn viêm phúc mạc và rối loạn điện giải. Điều trị bảo tồn không hiệu quả và nguy hiểm."
+        },
+        {
+          "q": "Trong quá trình phẫu thuật khâu bàng quang, nguyên tắc nào sau đây là ĐÚNG?",
+          "options": [
+            "Khâu một lớp bằng chỉ không tiêu",
+            "Khâu hai lớp bằng chỉ tiêu, lớp niêm mạc và lớp cơ thanh mạc",
+            "Chỉ cần khâu lớp thanh mạc để tránh tạo sỏi",
+            "Bắt buộc phải dẫn lưu bàng quang trên mu kèm theo thông niệu đạo trong mọi trường hợp"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc khâu bàng quang: Khâu 2 lớp bằng chỉ tiêu (thường là Vicryl/Chromic). Lớp 1: toàn thể hoặc niêm mạc-cơ; Lớp 2: cơ thanh mạc để vùi. Dẫn lưu trên mu không bắt buộc nếu thông niệu đạo tốt và lỗ vỡ được khâu kín, trừ khi có chấn thương niệu đạo hoặc cầm máu kém."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 35 tuổi sốc đa chấn thương do tai nạn giao thông",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 35 tuổi.<br><br><b>Tiền sử:</b> Mổ lấy thai 2 lần.<br><br><b>Bệnh sử:</b> Nhập viện sau tai nạn giao thông xe máy vs xe tải.<br><br><b>Khám lâm sàng:</b> Bệnh nhân lơ mơ, da niêm nhợt, HA 80/50 mmHg, Mạch 120 l/p. Bụng chướng căng, bầm tím lan rộng vùng hạ vị và tầng sinh môn.<br><br><b>Cận lâm sàng khác:</b> X-quang tại giường: Gãy toác khớp mu 5cm, gãy cánh chậu phải. Siêu âm FAST (+).<br><br><b>Tình trạng phẫu thuật:</b> Bệnh nhân được hồi sức chống sốc và chỉ định mổ cấp cứu thăm dò. Trong mổ phát hiện bàng quang vỡ phức tạp lan xuống cổ bàng quang, kèm tổn thương âm đạo.",
+      "questions": [
+        {
+          "q": "Đây là loại tổn thương bàng quang được phân loại mức độ mấy theo AAST (American Association for the Surgery of Trauma)?",
+          "options": [
+            "Độ II",
+            "Độ III",
+            "Độ IV",
+            "Độ V"
+          ],
+          "answer": 3,
+          "explain": "Theo AAST: Độ IV là vỡ trong phúc mạc hoặc vỡ ngoài phúc mạc lan rộng hoặc miệng niệu quản. Ca này tổn thương cổ bàng quang -> Độ V."
+        },
+        {
+          "q": "Xử trí tổn thương phối hợp bàng quang - âm đạo trong trường hợp này, chọn tập hợp ĐÚNG:\n(1) Khâu phục hồi thành bàng quang\n(2) Khâu phục hồi thành âm đạo\n(3) Chèn gạc (packing) âm đạo nếu chảy máu nhiều\n(4) Luôn phải cắt tử cung để cầm máu",
+          "options": [
+            "1, 2, 3",
+            "1, 2, 4",
+            "1, 3, 4",
+            "2, 3, 4"
+          ],
+          "answer": 0,
+          "explain": "Nguyên tắc là khâu phục hồi cả hai cơ quan (bàng quang và âm đạo), có thể chèn gạc cầm máu. Cắt tử cung chỉ đặt ra khi tử cung dập nát không bảo tồn được hoặc chảy máu không cầm từ tử cung (không phải là \"luôn luôn\")."
+        },
+        {
+          "q": "Biến chứng muộn đáng ngại nhất của tổn thương vùng cổ bàng quang ở bệnh nhân này là gì?",
+          "options": [
+            "Sỏi bàng quang",
+            "Tiểu không tự chủ",
+            "Trào ngược bàng quang niệu quản",
+            "Hội chứng bàng quang bé"
+          ],
+          "answer": 1,
+          "explain": "Tổn thương cổ bàng quang ảnh hưởng trực tiếp đến cơ chế van đóng mở niệu đạo -> Nguy cơ tiểu không tự chủ (Incontinence) rất cao."
+        },
+        {
+          "q": "Chỉ định dẫn lưu nước tiểu sau mổ ở ca này nên như thế nào?",
+          "options": [
+            "Chỉ cần thông niệu đạo",
+            "Chỉ cần dẫn lưu trên xương mu",
+            "Nên phối hợp thông niệu đạo và dẫn lưu trên xương mu",
+            "Không cần dẫn lưu nếu khâu kín"
+          ],
+          "answer": 2,
+          "explain": "Với tổn thương phức tạp (Độ V), vỡ cổ bàng quang và có tổn thương âm đạo, việc dẫn lưu tối đa là cần thiết để giảm áp lực lên đường khâu và giảm nguy cơ rò bàng quang-âm đạo -> Phối hợp cả hai đường dẫn lưu."
+        },
+        {
+          "q": "Nếu bệnh nhân này có thêm tổn thương trực tràng dưới phúc mạc, thái độ xử trí bắt buộc thêm là gì?",
+          "options": [
+            "Khâu trực tràng và không cần làm hậu môn nhân tạo",
+            "Làm hậu môn nhân tạo dòng tràng (loop colostomy) để chuyển lưu phân",
+            "Cắt bỏ đoạn trực tràng tổn thương",
+            "Chỉ đặt dẫn lưu cạnh trực tràng"
+          ],
+          "answer": 1,
+          "explain": "Vết thương trực tràng phối hợp trong gãy xương chậu/vỡ bàng quang phức tạp có nguy cơ nhiễm trùng khoang chậu và rò rất cao. Bắt buộc phải làm hậu môn nhân tạo chuyển lưu phân hoàn toàn (thường là đại tràng sigma) + khâu lỗ thủng + dẫn lưu trước xương cùng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 22 tuổi vết thương thấu bụng do dao đâm",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 22 tuổi.<br><br><b>Bệnh sử:</b> Bị vết thương thấu bụng do dao đâm ở vùng hố chậu trái. Vết đâm kích thước 2cm.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, sinh hiệu ổn định. Khám thấy có nước tiểu lẫn máu chảy ra qua vết thương thành bụng. Bụng mềm, không có phản ứng phúc mạc lan tỏa. Đặt thông tiểu ra nước tiểu hồng.<br><br><b>Cận lâm sàng khác:</b> Chụp CT cản quang thấy thuốc thoát ra từ mặt bên trái bàng quang và không lan vào ổ bụng.",
+      "questions": [
+        {
+          "q": "Chẩn đoán chính xác nhất cho trường hợp này?",
+          "options": [
+            "Vỡ bàng quang trong phúc mạc do vật sắc nhọn",
+            "Vỡ bàng quang ngoài phúc mạc do vật sắc nhọn",
+            "Chấn thương niệu quản trái",
+            "Thủng đại tràng sigma"
+          ],
+          "answer": 1,
+          "explain": "CT thấy thuốc thoát ra nhưng không vào ổ bụng -> Vỡ ngoài phúc mạc. Do dao đâm (vật sắc)."
+        },
+        {
+          "q": "Chỉ định điều trị phù hợp nhất cho bệnh nhân này?",
+          "options": [
+            "Điều trị bảo tồn bằng thông tiểu",
+            "Phẫu thuật thăm dò và xử trí tổn thương",
+            "Nút mạch cầm máu",
+            "Khâu vết thương thành bụng và theo dõi"
+          ],
+          "answer": 1,
+          "explain": "Mặc dù vỡ ngoài phúc mạc thường điều trị bảo tồn, nhưng nguyên nhân do vết thương thấu bụng (penetrating trauma) là chỉ định phẫu thuật để thám sát các tạng khác, lấy dị vật (nếu có) và làm sạch, khâu lỗ thủng. Bảo tồn chỉ dành cho chấn thương kín (blunt trauma) đơn thuần."
+        },
+        {
+          "q": "Trong phẫu thuật, bác sĩ cần đặc biệt chú ý kiểm tra cơ quan nào lân cận vùng tổn thương bàng quang này?",
+          "options": [
+            "Động mạch chủ bụng",
+            "Niệu quản trái",
+            "Gan",
+            "Lách"
+          ],
+          "answer": 1,
+          "explain": "Vùng hố chậu trái/bên trái bàng quang rất gần đường đi của niệu quản đoạn chậu. Cần tiêm indigo carmine hoặc xanh methylene tĩnh mạch để kiểm tra sự toàn vẹn của niệu quản."
+        },
+        {
+          "q": "Nếu tổn thương bàng quang nằm quá gần lỗ niệu quản, phương pháp xử trí nào được khuyến cáo?",
+          "options": [
+            "Khâu bàng quang chèn ép lên lỗ niệu quản",
+            "Cắm lại niệu quản vào bàng quang (Ureteroneocystostomy)",
+            "Cắt bỏ thận trái",
+            "Đặt Stent JJ và khâu bàng quang tránh lỗ niệu quản"
+          ],
+          "answer": 3,
+          "explain": "Nếu vết rách gần lỗ niệu quản, nguy cơ khâu hẹp tắc niệu quản là cao. Đặt Stent JJ giúp bảo vệ lòng niệu quản và định hướng đường khâu an toàn. Cắm lại niệu quản chỉ làm khi niệu quản bị đứt hoặc tổn thương trực tiếp."
+        },
+        {
+          "q": "Nguyên tắc dùng kháng sinh trong trường hợp vết thương thấu bụng này?",
+          "options": [
+            "Không cần dùng nếu không sốt",
+            "Dùng kháng sinh dự phòng 1 liều duy nhất",
+            "Dùng kháng sinh phổ rộng điều trị ngay từ đầu",
+            "Chỉ dùng khi cấy nước tiểu dương tính"
+          ],
+          "answer": 2,
+          "explain": "Vết thương thấu bụng, dính líu đến đường tiết niệu (nước tiểu rò rỉ) được coi là vết thương có nguy cơ nhiễm trùng cao/đã nhiễm. Cần dùng kháng sinh phổ rộng điều trị (Therapeutic) chứ không chỉ dự phòng, bao phủ Gram (-) và kỵ khí (nếu nghi ngờ thủng ruột kèm)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi đau bụng dữ dội sau cắt u bàng quang",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi.<br><br><b>Bệnh sử:</b> Hậu phẫu ngày thứ 2 sau cắt nội soi u bàng quang (TURBT) vì ung thư bàng quang nông. Bệnh nhân đột ngột đau bụng dữ dội, bụng chướng cứng, buồn nôn. Sốt 38.5°C. Thông tiểu vẫn ra nước tiểu nhưng lượng ít và có màu đỏ sẫm.<br><br><b>Xét nghiệm:</b> Máu: Bạch cầu 18 G/L, CRP 150 mg/L.<br><br><b>Cận lâm sàng khác:</b> Chụp CT bụng không bơm thuốc cản quang vào bàng quang thấy có dịch tự do ổ bụng lượng nhiều.",
+      "questions": [
+        {
+          "q": "Biến chứng nào nghĩ đến đầu tiên?",
+          "options": [
+            "Chảy máu bàng quang gây tắc ống thông",
+            "Thủng bàng quang trong phúc mạc",
+            "Thủng bàng quang ngoài phúc mạc",
+            "Viêm phúc mạc ruột thừa cấp"
+          ],
+          "answer": 1,
+          "explain": "TURBT vùng vòm hoặc thành bên có nguy cơ kích thích thần kinh bịt (obturator jerk) gây thủng. Triệu chứng viêm phúc mạc (đau, chướng, sốt, dịch ổ bụng) gợi ý thủng vào trong phúc mạc."
+        },
+        {
+          "q": "Dấu hiệu gợi ý thủng bàng quang trên lâm sàng ở bệnh nhân đang đặt thông tiểu là gì?",
+          "options": [
+            "Rửa bàng quang thấy lượng nước ra ít hơn lượng nước vào",
+            "Rửa bàng quang thấy nước ra trong",
+            "Bệnh nhân tiểu không tự chủ qua thông",
+            "Cầu bàng quang căng to"
+          ],
+          "answer": 0,
+          "explain": "Dấu hiệu kinh điển: Số lượng dịch/nước ra < vào (do thất thoát vào ổ bụng hoặc khoang Retzius)."
+        },
+        {
+          "q": "Nếu nghi ngờ thủng bàng quang, xét nghiệm hình ảnh học tiêu chuẩn vàng để chẩn đoán là?",
+          "options": [
+            "Siêu âm ổ bụng",
+            "Chụp CT bụng có tiêm thuốc cản quang tĩnh mạch (thì bài tiết)",
+            "Chụp CT bàng quang (CT Cystography) với bơm đầy thuốc cản quang và kẹp thông",
+            "Chụp MRI tiểu khung"
+          ],
+          "answer": 2,
+          "explain": "CT Cystography (bơm thuốc trực tiếp vào bàng quang) có độ nhạy cao nhất (95-100%). CT tiêm thuốc tĩnh mạch (thì bài tiết) thường không làm căng bàng quang đủ mức để thuốc thoát ra lỗ thủng nhỏ, dễ bỏ sót."
+        },
+        {
+          "q": "Thái độ xử trí với thủng bàng quang trong phúc mạc do tai biến nội soi",
+          "options": [
+            "Luôn luôn phải mổ mở",
+            "Có thể mổ nội soi ổ bụng khâu bàng quang nếu phẫu thuật viên có kinh nghiệm",
+            "Tăng kích thước thông tiểu và điều trị bảo tồn",
+            "Dẫn lưu ổ bụng dưới siêu âm"
+          ],
+          "answer": 1,
+          "explain": "Phẫu thuật là bắt buộc với thủng trong phúc mạc. Ngày nay, nội soi ổ bụng (Laparoscopy) để khâu lỗ thủng và rửa bụng là phương pháp ưu tiên nếu tình trạng bệnh nhân ổn định, ít xâm lấn hơn mổ mở."
+        },
+        {
+          "q": "Nếu lỗ thủng nhỏ ngoài phúc mạc được phát hiện, xử trí nào là phù hợp?",
+          "options": [
+            "Mổ khâu ngay lập tức",
+            "Đặt thông tiểu lưu, kháng sinh và theo dõi sát",
+            "Bơm rửa bàng quang liên tục để làm sạch",
+            "Cắt bỏ bàng quang bán phần"
+          ],
+          "answer": 1,
+          "explain": "Thủng ngoài phúc mạc nhỏ do can thiệp nội soi thường tự liền tốt với dẫn lưu bàng quang (Foley) trong 7-14 ngày và kháng sinh. Không bơm rửa liên tục vì làm tăng áp lực bàng quang, cản trở liền vết thương."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 24 tuổi gãy xương chậu do tai nạn xe máy",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 24 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì tai nạn xe máy. Đau vùng chậu dữ dội.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, mạch 110 l/p, HA 90/60 mmHg. Gãy xương chậu kiểu \"quyển sách mở\" (Open book fracture). Không có máu miệng sáo, khám âm đạo không thấy máu. Đã được cố định khung chậu tạm thời bằng đai. Bác sĩ chỉ định chụp CT bụng chậu.",
+      "questions": [
+        {
+          "q": "Trong kỹ thuật chụp CT Cystography để chẩn đoán vỡ bàng quang, lượng thuốc cản quang pha loãng tối thiểu cần bơm vào bàng quang là bao nhiêu để tránh âm tính giả?",
+          "options": [
+            "50-100 mL",
+            "150-200 mL",
+            "300-400 mL (hoặc đến khi bệnh nhân có cảm giác mắc tiểu/co thắt)",
+            "1000 mL"
+          ],
+          "answer": 2,
+          "explain": "Để chẩn đoán chính xác, bàng quang cần được làm căng đầy các nếp niêm mạc. Guideline khuyến cáo bơm tối thiểu 300-350mL (hoặc 400mL) thuốc cản quang pha loãng."
+        },
+        {
+          "q": "Nếu chụp CT thường quy (chỉ tiêm thuốc tĩnh mạch, kẹp thông tiểu) mà không bơm thuốc ngược dòng, nguy cơ bỏ sót tổn thương vỡ bàng quang là do:",
+          "options": [
+            "Thuốc cản quang bị thận bài tiết quá nhanh",
+            "Bàng quang không đủ căng để thuốc thoát ra qua các nếp gấp niêm mạc hoặc cục máu đông bịt lỗ vỡ",
+            "Nồng độ thuốc cản quang trong nước tiểu quá thấp",
+            "Xương chậu che khuất"
+          ],
+          "answer": 1,
+          "explain": "Nếu bàng quang xẹp (do đặt thông tiểu lưu mà không kẹp, hoặc bệnh nhân mới đi tiểu), áp lực nội bàng quang thấp, lỗ vỡ có thể bị các nếp niêm mạc hoặc máu cục bít lại -> Âm tính giả trên CT thường quy."
+        },
+        {
+          "q": "Loại gãy xương chậu nào có nguy cơ cao nhất gây tổn thương niệu đạo và cổ bàng quang ở nữ giới?",
+          "options": [
+            "Gãy cánh chậu đơn thuần",
+            "Gãy xương cùng",
+            "Gãy cả 4 ngành ngồi mu và mu (Gãy cánh bướm/Straddle fracture)",
+            "Gãy gai chậu trước trên"
+          ],
+          "answer": 2,
+          "explain": "Gãy các ngành ngồi mu hai bên (Straddle fracture) làm mất vững cung trước, các mảnh xương di lệch trực tiếp đâm vào hoặc giằng xé niệu đạo và cổ bàng quang."
+        },
+        {
+          "q": "Phương pháp cố định khung chậu nào là tối ưu để cầm máu tạm thời và giảm nguy cơ tổn thương thêm tạng trong chậu trước khi phẫu thuật?",
+          "options": [
+            "Nẹp gỗ",
+            "Bột Chậu - Lưng - Chân",
+            "Cố định ngoài (C-clamp hoặc khung F)",
+            "Băng thun"
+          ],
+          "answer": 2,
+          "explain": "Với gãy khung chậu mất vững huyết động (Open book), cố định ngoài (External Fixation) hoặc C-clamp giúp khép khung chậu, giảm thể tích khoang chậu để cầm máu (tamponade effect) và cố định tránh tổn thương thêm tạng trong chậu trước khi phẫu thuật."
+        },
+        {
+          "q": "Sau khi hồi sức ổn định, bệnh nhân được phát hiện vỡ bàng quang ngoài phúc mạc nhưng có mảnh xương đâm vào thành bàng quang. Hướng xử trí?",
+          "options": [
+            "Điều trị bảo tồn",
+            "Mổ lấy mảnh xương, khâu bàng quang, kết hợp xương",
+            "Chỉ lấy mảnh xương, không cần khâu bàng quang",
+            "Tán sỏi bàng quang qua nội soi"
+          ],
+          "answer": 1,
+          "explain": "Mảnh xương trong bàng quang là dị vật, sẽ gây nhiễm trùng, sỏi hóa và ngăn cản liền vết thương -> Chỉ định phẫu thuật tuyệt đối (lấy bỏ + khâu)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi sốt cao sau kết hợp xương chậu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Tiền sử:</b> Đa chấn thương sau ngã giàn giáo. Đã được phẫu thuật kết hợp xương đùi và xương chậu cách đây 3 ngày.<br><br><b>Khám lâm sàng:</b> Hiện tại bệnh nhân tỉnh, sốt cao 39°C. Vùng hạ vị sưng nề, đỏ, ấn đau, có dấu hiệu bùng nhùng (crepitus) dưới da vùng bẹn bìu.<br><br><b>Xét nghiệm:</b> Dẫn lưu bàng quang (Foley) ra nước tiểu đục mủ.",
+      "questions": [
+        {
+          "q": "Biến chứng gì đang xảy ra?",
+          "options": [
+            "Nhiễm trùng đường tiết niệu đơn thuần",
+            "Viêm tấy/Abscess khoang Retzius lan tỏa và có thể hoại thư Fournier",
+            "Thoát vị bẹn nghẹt",
+            "Tụ máu sau phúc mạc"
+          ],
+          "answer": 1,
+          "explain": "Sốt cao, sưng nề đỏ, nước tiểu đục, dấu hiệu lép bép dưới da (khí) gợi ý nhiễm trùng khoang chậu lan rộng (Abscess) và hoại thư sinh hơi (Fournier) do rò nước tiểu nhiễm trùng từ bàng quang ra ngoài phúc mạc."
+        },
+        {
+          "q": "Tác nhân vi khuẩn thường gặp nhất gây nhiễm trùng trong bối cảnh này?",
+          "options": [
+            "Streptococcus nhóm A",
+            "E. coli và các vi khuẩn Gram (-) đường ruột/kỵ khí",
+            "Mycobacterium tuberculosis",
+            "Neisseria gonorrhoeae"
+          ],
+          "answer": 1,
+          "explain": "Vi khuẩn gây bệnh thường là đa khuẩn: Gram âm (E.coli, Klebsiella), cầu khuẩn ruột và đặc biệt là kỵ khí (Clostridium, Bacteroides) gây sinh hơi."
+        },
+        {
+          "q": "Xử trí ngoại khoa cấp thiết nhất lúc này?",
+          "options": [
+            "Rút thông tiểu",
+            "Chườm lạnh",
+            "Rạch rộng tháo mủ, cắt lọc tổ chức hoại tử và dẫn lưu triệt để khoang chậu",
+            "Chỉ dùng kháng sinh liều cao"
+          ],
+          "answer": 2,
+          "explain": "Đây là cấp cứu nhiễm trùng ngoại khoa tối khẩn. Kháng sinh không đủ thâm nhập vào ổ mủ hoại tử. Bắt buộc phải mổ mở rộng, cắt lọc sạch tổ chức hoại tử, dẫn lưu mủ và dẫn lưu nước tiểu tốt."
+        },
+        {
+          "q": "Nếu nghi ngờ rò nước tiểu vào vết mổ xương chậu gây nhiễm trùng dụng cụ kết hợp xương, xét nghiệm nào giúp xác định đường rò tốt nhất?",
+          "options": [
+            "Siêu âm",
+            "Chụp X-quang đường rò (Fistulography) hoặc CT có bơm thuốc",
+            "MRI cột sống",
+            "Xạ hình xương"
+          ],
+          "answer": 1,
+          "explain": "CT có bơm thuốc cản quang hoặc chụp đường rò giúp xác định sự thông thương giữa bàng quang và ổ abscess/dụng cụ kết hợp xương."
+        },
+        {
+          "q": "Tiên lượng của tình trạng hoại thư sinh hơi vùng tầng sinh môn/chậu hông (Fournier gangrene) nếu xảy ra?",
+          "options": [
+            "Rất tốt, chỉ cần uống thuốc",
+            "Tỷ lệ tử vong cao nếu không cắt lọc sớm và rộng rãi",
+            "Không ảnh hưởng đến tính mạng",
+            "Tự khỏi sau 1 tuần"
+          ],
+          "answer": 1,
+          "explain": "Hoại thư Fournier có tỷ lệ tử vong rất cao (20-40% hoặc hơn) do sốc nhiễm trùng nhiễm độc nếu không được xử trí quyết liệt."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 18 tuổi đái máu sau khi bị đá vào vùng hạ vị",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 18 tuổi.<br><br><b>Bệnh sử:</b> Bị đá vào vùng hạ vị khi chơi bóng đá. Đau tức vùng hạ vị.<br><br><b>Khám lâm sàng:</b> Sinh hiệu ổn định. Bụng mềm, ấn tức nhẹ hạ vị, không phản ứng thành bụng.<br><br><b>Xét nghiệm:</b> Tiểu máu toàn bãi lượng ít.<br><br><b>Cận lâm sàng khác:</b> Siêu âm thấy thành bàng quang dày nhẹ, có ít máu cục trong lòng, không dịch tự do ổ bụng.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất?",
+          "options": [
+            "Vỡ bàng quang trong phúc mạc",
+            "Vỡ bàng quang ngoài phúc mạc",
+            "Đụng dập bàng quang (Bladder Contusion)",
+            "Chấn thương niệu đạo"
+          ],
+          "answer": 2,
+          "explain": "Tiểu máu, đau nhẹ, nhưng không có dịch ổ bụng, không sốc -> Đụng dập bàng quang (tổn thương niêm mạc/cơ nhưng chưa thủng toàn bộ thành)."
+        },
+        {
+          "q": "Đặc điểm của đụng dập bàng quang trên hình ảnh học (CT Cystography)?",
+          "options": [
+            "Thuốc thoát ra ngoài bàng quang",
+            "Bàng quang biến dạng hình giọt nước",
+            "Thành bàng quang dày, khuyết thuốc trong lòng (máu cục), không thấy thoát thuốc ra ngoài",
+            "Không thấy bàng quang"
+          ],
+          "answer": 2,
+          "explain": "Đụng dập (Contusion) chỉ gây tổn thương khu trú, phù nề thành hoặc tụ máu dưới niêm mạc/trong lòng, nên không có hình ảnh thoát thuốc cản quang (Contrast extravasation) ra khỏi bàng quang."
+        },
+        {
+          "q": "Hướng điều trị cho trường hợp này?",
+          "options": [
+            "Mổ cấp cứu",
+            "Đặt thông tiểu, nghỉ ngơi, uống nhiều nước, kháng sinh dự phòng",
+            "Nội soi bàng quang cầm máu ngay",
+            "Truyền máu"
+          ],
+          "answer": 1,
+          "explain": "Đụng dập nhẹ có thể tự cầm. Đặt thông tiểu giúp bàng quang nghỉ ngơi (giảm áp lực), rửa trôi máu cục. Uống nhiều nước (lợi niệu) giúp hạn chế tắc thông."
+        },
+        {
+          "q": "Tiên lượng của bệnh nhân này?",
+          "options": [
+            "Rất tốt, thường tự khỏi nhanh chóng",
+            "Di chứng hẹp niệu đạo",
+            "Nguy cơ vỡ bàng quang thì hai cao",
+            "Dẫn đến suy thận mạn"
+          ],
+          "answer": 0,
+          "explain": "Đụng dập bàng quang là thể nhẹ nhất, lành tính và hồi phục hoàn toàn, hiếm khi để lại di chứng."
+        },
+        {
+          "q": "Lời khuyên khi xuất viện cho bệnh nhân?",
+          "options": [
+            "Hạn chế vận động mạnh trong 1-2 tuần",
+            "Có thể chơi bóng đá lại ngay ngày mai",
+            "Hạn chế uống nước",
+            "Phải đặt thông tiểu tại nhà 1 tháng"
+          ],
+          "answer": 0,
+          "explain": "Cần hạn chế vận động mạnh để tránh chảy máu lại (thứ phát) từ chỗ đụng dập khi bong vảy/cục máu đông."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ 30 tuổi rỉ nước tiểu qua âm đạo sau mổ lấy thai",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 30 tuổi.<br><br><b>Tiền sử:</b> Sau mổ lấy thai (C-section) 3 ngày.<br><br><b>Bệnh sử:</b> Sản dịch bình thường, nhưng thấy có nước tiểu rỉ ra liên tục từ âm đạo. Bệnh nhân vẫn tự đi tiểu được nhưng lượng ít.<br><br><b>Khám lâm sàng:</b> Bụng mềm, không sốt.<br><br><b>Xét nghiệm:</b> Creatinin máu bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nghĩ đến nhiều nhất?",
+          "options": [
+            "Són tiểu sau sinh (Stress incontinence)",
+            "Rò bàng quang - âm đạo (Vesicovaginal fistula)",
+            "Rò niệu quản - âm đạo",
+            "Bí tiểu tràn đầy"
+          ],
+          "answer": 1,
+          "explain": "Rỉ nước tiểu liên tục qua âm đạo sau phẫu thuật vùng chậu là dấu hiệu điển hình của rò niệu sinh dục. Do vẫn tự tiểu được (bàng quang vẫn chứa được một ít) -> Rò bàng quang hoặc niệu quản."
+        },
+        {
+          "q": "Test đơn giản tại giường (bedside) để phân biệt rò bàng quang vs rò niệu quản?",
+          "options": [
+            "Nghiệm pháp Bonney",
+            "Test xanh Methylene (bơm vào bàng quang)",
+            "Soi cổ tử cung",
+            "Đo áp lực bàng quang"
+          ],
+          "answer": 1,
+          "explain": "Bơm xanh methylene vào bàng quang: Nếu gạc âm đạo xanh -> Rò Bàng quang-Âm đạo. Nếu gạc không xanh nhưng ướt (nước tiểu từ thận xuống) -> Rò Niệu quản-Âm đạo."
+        },
+        {
+          "q": "Nếu bơm xanh Methylene vào bàng quang mà gạc đặt âm đạo KHÔNG bắt màu xanh, nhưng vẫn thấm ướt dịch trong, gợi ý điều gì?",
+          "options": [
+            "Không có rò",
+            "Rò bàng quang - âm đạo lỗ nhỏ",
+            "Rò niệu quản - âm đạo",
+            "Tắc niệu đạo"
+          ],
+          "answer": 2,
+          "explain": "Như trên, nước tiểu từ niệu quản không chứa xanh methylene (do thuốc chỉ nằm trong bàng quang) sẽ chảy trực tiếp ra âm đạo."
+        },
+        {
+          "q": "Thời điểm phẫu thuật vá rò bàng quang - âm đạo tốt nhất (nếu thất bại với điều trị bảo tồn)?",
+          "options": [
+            "Ngay lập tức khi phát hiện",
+            "Sau 24 giờ",
+            "Trì hoãn 3-6 tháng để tổ chức viêm ổn định, mô mềm mại",
+            "Sau 1 năm"
+          ],
+          "answer": 2,
+          "explain": "Quan điểm cổ điển và an toàn nhất là chờ 3-6 tháng để phản ứng viêm, phù nề sau mổ giảm bớt, mô sẹo ổn định, giúp đường khâu chắc chắn, giảm tỷ lệ tái phát. (Trường hợp phát hiện ngay trên bàn mổ thì khâu ngay)."
+        },
+        {
+          "q": "Phương pháp điều trị bảo tồn đầu tay cho rò bàng quang âm đạo kích thước nhỏ, phát hiện sớm?",
+          "options": [
+            "Đặt thông tiểu lưu liên tục (Foley) trong 2-4 tuần",
+            "Dùng thuốc kháng Cholinergic",
+            "Tập bài tập Kegel",
+            "Đặt vòng nâng tử cung"
+          ],
+          "answer": 0,
+          "explain": "Với lỗ rò nhỏ, phát hiện sớm (<7-10 ngày đầu), đặt thông tiểu lưu giúp làm xẹp bàng quang, ép lỗ rò lại, tạo điều kiện tự liền (thành công khoảng 10-50%)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi bí tiểu và đau nhói hạ vị",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Tiền sử:</b> Hẹp niệu đạo.<br><br><b>Bệnh sử:</b> Vào viện vì bí tiểu cấp. Bệnh nhân cố rặn tiểu, sau đó thấy đau nhói vùng hạ vị và nước tiểu không ra nữa.<br><br><b>Khám lâm sàng:</b> Bụng dưới chướng nhẹ. Thông tiểu đạo khó khăn, có máu đầu ống.<br><br><b>Cận lâm sàng khác:</b> Siêu âm thấy nhiều dịch quanh bàng quang.",
+      "questions": [
+        {
+          "q": "Đây là vỡ bàng quang theo cơ chế nào?",
+          "options": [
+            "Chấn thương trực tiếp",
+            "Vỡ tự phát (Spontaneous rupture) trên nền bàng quang bệnh lý/tăng áp lực",
+            "Vết thương thấu bụng",
+            "Do thầy thuốc (Iatrogenic)"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có hẹp niệu đạo (tắc nghẽn đường ra) + rặn tiểu (tăng áp lực) -> Vỡ bàng quang do tăng áp lực quá mức (tự phát/bệnh lý)."
+        },
+        {
+          "q": "Bệnh lý nền nào thường gặp nhất gây vỡ bàng quang tự phát (Chọn câu SAI)?",
+          "options": [
+            "Bàng quang thần kinh (Neurogenic bladder)",
+            "Túi thừa bàng quang",
+            "Viêm bàng quang mạn tính/Lao bàng quang",
+            "Bàng quang bình thường khỏe mạnh"
+          ],
+          "answer": 3,
+          "explain": "Vỡ tự phát hiếm khi xảy ra trên bàng quang bình thường. Nó xảy ra trên nền bàng quang yếu (viêm, lao, túi thừa, ung thư) hoặc quá căng (do hẹp niệu đạo, bàng quang thần kinh)."
+        },
+        {
+          "q": "Nếu nghi ngờ vỡ túi thừa bàng quang, thái độ xử trí khác biệt gì so với vỡ bàng quang thông thường?",
+          "options": [
+            "Luôn ưu tiên cắt bỏ túi thừa và khâu lại cổ túi thừa",
+            "Chỉ cần dẫn lưu",
+            "Không cần phẫu thuật",
+            "Cắt bỏ toàn bộ bàng quang"
+          ],
+          "answer": 0,
+          "explain": "Túi thừa bàng quang có thành mỏng (chỉ có niêm mạc, thiếu lớp cơ) nên rất khó tự liền. Nguyên tắc là phải phẫu thuật cắt bỏ túi thừa (Diverticulectomy) thì mới giải quyết triệt để."
+        },
+        {
+          "q": "Vị trí vỡ tự phát thường gặp nhất?",
+          "options": [
+            "Cổ bàng quang",
+            "Đáy bàng quang",
+            "Vòm bàng quang (Dome)",
+            "Tam giác bàng quang"
+          ],
+          "answer": 2,
+          "explain": "Vòm bàng quang là nơi thành mỏng nhất và di động, nên dễ bị vỡ nhất khi áp lực nội bàng quang tăng cao."
+        },
+        {
+          "q": "Xét nghiệm đánh giá chức năng thận (Ure, Creatinin) và điện giải đồ trong trường hợp này nhằm mục đích gì?",
+          "options": [
+            "Chuẩn bị mổ đơn thuần",
+            "Phát hiện rối loạn do tái hấp thu nước tiểu (tăng K+, toan chuyển hóa)",
+            "Đánh giá mức độ mất máu",
+            "Tìm nguyên nhân hẹp niệu đạo"
+          ],
+          "answer": 1,
+          "explain": "Nước tiểu tràn ra khoang sau phúc mạc hoặc ổ bụng đều có thể gây tái hấp thu điện giải gây toan máu, tăng Kali máu đe dọa tính mạng cần điều chỉnh trước/trong mổ."
+        }
+      ]
+    }
+  ]
+}
