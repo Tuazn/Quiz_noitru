@@ -1,0 +1,1230 @@
+{
+  "name": "Ung thư thực quản",
+  "description": "Case lâm sàng chuyên sâu về ung thư thực quản, bao gồm chẩn đoán, phân loại giai đoạn, lựa chọn phương pháp điều trị, xử trí cấp cứu và quản lý biến chứng chu phẫu.",
+  "level": "Đại học / Nội trú",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Ung thư",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 64 tuổi nuốt nghẹn tiến triển",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 64 tuổi.<br><br><b>Tiền sử:</b> Hút thuốc lá 30 bao năm, uống rượu nhiều.<br><br><b>Bệnh sử:</b> Vào viện vì nuốt nghẹn tiến triển 3 tháng nay, ban đầu nghẹn đặc nay nghẹn lỏng, sụt 6 kg.<br><br><b>Khám lâm sàng:</b> Khám thấy BMI 17.5, sinh hiệu ổn định, không sờ thấy hạch cổ. Phổi không ran.<br><br><b>Xét nghiệm:</b> Nội soi thực quản phát hiện khối u sùi loét ở 1/3 giữa gây hẹp lòng ống. CT ngực bụng chưa thấy di căn xa. Sinh thiết là ung thư biểu mô vảy.",
+      "questions": [
+        {
+          "q": "Cơ chế chính gây triệu chứng nuốt nghẹn ở bệnh nhân này là gì?",
+          "options": [
+            "Hẹp cơ học lòng thực quản",
+            "Rối loạn nhu động lan tỏa",
+            "Co thắt tâm vị thứ phát",
+            "Chèn ép thần kinh lang thang"
+          ],
+          "answer": 0,
+          "explain": "Khối u ác tính tăng sinh làm hẹp dần khẩu kính lòng thực quản gây nghẹn cơ học. Ban đầu nghẹn đặc, khi hẹp nặng thêm sẽ nghẹn lỏng, khác với rối loạn nhu động thường nghẹn đan xen."
+        },
+        {
+          "q": "Cận lâm sàng nào có giá trị cao nhất để đánh giá mức độ xâm lấn thành (giai đoạn T)?",
+          "options": [
+            "Chụp X-quang Barit",
+            "Siêu âm nội soi thực quản",
+            "Chụp CT lồng ngực",
+            "Chụp PET-CT toàn thân"
+          ],
+          "answer": 1,
+          "explain": "Siêu âm nội soi (EUS) với đầu dò tần số cao giúp phân định rõ các lớp của thành thực quản, là tiêu chuẩn vàng để xác định độ sâu xâm lấn của khối u (giai đoạn T)."
+        },
+        {
+          "q": "Với khối u 1/3 giữa, phương pháp mổ cắt thực quản nào thường được ưu tiên để đảm bảo diện cắt trên an toàn?",
+          "options": [
+            "Phẫu thuật Ivor Lewis",
+            "Phẫu thuật Heller",
+            "Phẫu thuật McKeown",
+            "Phẫu thuật Transhiatal"
+          ],
+          "answer": 2,
+          "explain": "Phẫu thuật McKeown (mổ 3 đường: ngực, bụng, cổ) cho phép kéo dạ dày lên làm miệng nối ở cổ, giúp cắt bỏ toàn bộ thực quản ngực, đảm bảo diện cắt phía trên hoàn toàn sạch tế bào ung thư đối với u 1/3 giữa."
+        },
+        {
+          "q": "Mạch máu chính nào bắt buộc phải được bảo tồn để nuôi dưỡng ống dạ dày khi kéo lên tái tạo thực quản?",
+          "options": [
+            "Động mạch vị trái",
+            "Động mạch lách",
+            "Động mạch mạc treo tràng trên",
+            "Động mạch vị mạc nối phải"
+          ],
+          "answer": 3,
+          "explain": "Khi cuộn dạ dày thành ống, các động mạch vị trái, vị ngắn và vị phải đều bị cắt đứt. Toàn bộ sự sống của ống dạ dày phụ thuộc vào cung bờ cong lớn được cấp máu bởi động mạch vị mạc nối phải."
+        },
+        {
+          "q": "Chọn tập hợp ĐÚNG về các bước chuẩn bị trước mổ ở bệnh nhân này:\n(1) Cai thuốc lá và tập thở.\n(2) Mở thông dạ dày qua da (PEG) để nuôi ăn.\n(3) Bù đạm và dinh dưỡng nâng cao thể trạng.\n(4) Đặt stent kim loại không bọc màng.",
+          "options": [
+            "1, 3",
+            "2, 4",
+            "1, 4",
+            "2, 3"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân sụt cân cần bồi phụ dinh dưỡng, và cai thuốc lá kết hợp tập thở giúp giảm biến chứng hô hấp. Không mở thông dạ dày (PEG) vì sẽ làm hỏng cấu trúc mạch máu dạ dày để tạo hình thực quản. Đặt stent kim loại làm cản trở cuộc mổ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi có tiền sử GERD",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Tiền sử:</b> BMI 30, có tiền sử trào ngược dạ dày thực quản (GERD) 15 năm không điều trị.<br><br><b>Bệnh sử:</b> Bệnh nhân vào viện vì nuốt vướng thức ăn đặc và nóng rát sau xương ức.<br><br><b>Xét nghiệm:</b> Nội soi phát hiện khối u sùi loét ở đoạn nối dạ dày - thực quản (Siewert II), sinh thiết là ung thư biểu mô tuyến. Siêu âm nội soi đánh giá khối u xâm lấn lớp cơ, có hạch vùng (T2N1M0).<br><br><b>Tình trạng phẫu thuật:</b> Bệnh nhân được hội chẩn đa chuyên khoa để lên phác đồ điều trị.",
+      "questions": [
+        {
+          "q": "Tổn thương tiền ung thư nào có khả năng cao nhất đã diễn ra trước đó?",
+          "options": [
+            "Viêm loét dạ dày mạn",
+            "Thực quản Barrett",
+            "Co thắt tâm vị",
+            "Nấm thực quản"
+          ],
+          "answer": 1,
+          "explain": "Acid trào ngược mạn tính làm biểu mô vảy bị biến đổi thành biểu mô trụ (Barrett thực quản / dị sản ruột). Đây là tiền đề phát triển thành loạn sản và ung thư biểu mô tuyến vùng 1/3 dưới."
+        },
+        {
+          "q": "Vì sao ung thư thực quản dễ lan rộng ra các cơ quan trung thất xung quanh hơn ung thư dạ dày?",
+          "options": [
+            "Lớp niêm mạc rất mỏng",
+            "Nhu động co bóp liên tục",
+            "Không có lớp thanh mạc",
+            "Nằm sát tĩnh mạch đơn"
+          ],
+          "answer": 2,
+          "explain": "Khác với phần lớn ống tiêu hóa, thực quản đoạn ngực không có lớp thanh mạc (serosa) bao bọc. Lớp màng ngoài (adventitia) lỏng lẻo khiến tế bào ung thư rất dễ xâm lấn trực tiếp vào trung thất."
+        },
+        {
+          "q": "Lựa chọn điều trị tiêu chuẩn hiện nay cho giai đoạn tiến triển tại chỗ (có hạch vùng) là gì?",
+          "options": [
+            "Phẫu thuật cắt thực quản ngay",
+            "Cắt hớt niêm mạc qua nội soi",
+            "Mở thông hỗng tràng ra da",
+            "Hóa xạ trị tân bổ trợ rồi mổ"
+          ],
+          "answer": 3,
+          "explain": "Đối với khối u tiến triển tại chỗ (T3 hoặc N+), hóa xạ trị tân bổ trợ trước mổ (Neoadjuvant chemoradiation) là tiêu chuẩn vàng giúp làm nhỏ u, tiêu diệt vi di căn và cải thiện thời gian sống toàn bộ."
+        },
+        {
+          "q": "Phẫu thuật Ivor Lewis (mở bụng tạo ống dạ dày, mở ngực phải cắt u và nối) thường được chọn cho u vị trí này. Chọn mệnh đề KHÔNG ĐÚNG về thủ thuật kèm theo:",
+          "options": [
+            "Bảo tồn nguyên vẹn thần kinh phế vị",
+            "Mở rộng hoặc tạo hình cơ thắt môn vị",
+            "Thắt cắt các nhánh động mạch vị ngắn",
+            "Nạo vét hạch dọc bờ cong nhỏ dạ dày"
+          ],
+          "answer": 0,
+          "explain": "Khi cắt đoạn thực quản dạ dày, phẫu thuật viên bắt buộc phải cắt đứt cả hai thân thần kinh phế vị (X). Do đó mệnh đề bảo tồn nguyên vẹn thần kinh phế vị là sai hoàn toàn."
+        },
+        {
+          "q": "Biến chứng tiêu hóa muộn thường gặp sau khi dạ dày bị kéo lên lồng ngực là gì?",
+          "options": [
+            "Tăng tiết acid dịch vị ồ ạt",
+            "Chậm làm trống dạ dày",
+            "Rò rỉ dưỡng chấp mạn tính",
+            "Phì đại cơ thắt môn vị thứ phát"
+          ],
+          "answer": 1,
+          "explain": "Mất chi phối phó giao cảm từ dây thần kinh phế vị khiến cơ vòng môn vị co thắt mạnh liên tục, làm chậm quá trình tống thức ăn khỏi dạ dày. Bác sĩ thường phải cắt mở rộng cơ môn vị dự phòng trong mổ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi ho sặc sụa khi uống nước",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 68 tuổi.<br><br><b>Bệnh sử:</b> Đang điều trị hóa xạ trị giảm nhẹ do ung thư thực quản 1/3 giữa thâm nhiễm khí quản. Ba ngày nay, bệnh nhân cứ uống nước là ho sặc sụa dữ dội ngay lập tức, kèm sốt 38.8°C, thở nhanh và khạc đờm đục.<br><br><b>Khám lâm sàng:</b> Khám thấy SpO2 89% khí trời, nhịp tim 115 lần/phút, huyết áp 100/60 mmHg. Phổi có nhiều ran nổ hai đáy. Không có biểu hiện nôn ra máu.",
+      "questions": [
+        {
+          "q": "Dấu hiệu ho sặc sụa ngay khi uống nước lỏng chỉ điểm biến chứng gì?",
+          "options": [
+            "Liệt dây thanh âm trái",
+            "Trào ngược dịch vị cấp",
+            "Rò thực quản khí quản",
+            "Chèn ép tĩnh mạch chủ"
+          ],
+          "answer": 2,
+          "explain": "Dấu hiệu ho sặc sụa ngay lập tức khi uống chất lỏng (Ono's sign) ở bệnh nhân ung thư xâm lấn là biểu hiện kinh điển của rò thực quản - khí phế quản, do nước lọt thẳng vào đường thở."
+        },
+        {
+          "q": "Thăm dò hình ảnh nào bị CHỐNG CHỈ ĐỊNH tuyệt đối ở bệnh nhân này?",
+          "options": [
+            "Siêu âm ổ bụng tổng quát",
+            "Chụp cắt lớp lồng ngực",
+            "Nội soi phế quản ống mềm",
+            "Chụp X-quang uống Barit"
+          ],
+          "answer": 3,
+          "explain": "Tuyệt đối chống chỉ định dùng thuốc cản quang Barium khi nghi ngờ có lỗ rò vào đường hô hấp vì Barium không thể hấp thu, sẽ gây viêm phổi hạt hóa học nặng nề. Phải dùng thuốc tan trong nước."
+        },
+        {
+          "q": "Bước can thiệp hồi sức ban đầu cấp bách nhất là gì?",
+          "options": [
+            "Nhịn ăn hoàn toàn đường miệng",
+            "Phẫu thuật khâu lỗ rò cấp cứu",
+            "Đặt ống nội khí quản thở máy",
+            "Nội soi nong thực quản bằng bóng"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân đang hít sặc liên tục gây suy hô hấp. Bước hồi sức đầu tiên là nhịn ăn tuyệt đối đường miệng (NPO) để cắt đứt ngay nguồn dịch và thức ăn tràn vào phổi, đồng thời truyền dịch và kháng sinh."
+        },
+        {
+          "q": "Phương pháp nội soi can thiệp nào giúp che phủ tổn thương và cải thiện việc nuốt an toàn?",
+          "options": [
+            "Đốt u bằng tia plasma Argon",
+            "Đặt stent thực quản có màng bọc",
+            "Nong thực quản bằng bu-gi",
+            "Tiêm xơ hóa mô quanh khối u"
+          ],
+          "answer": 1,
+          "explain": "Đặt stent kim loại tự nong có màng bọc (covered SEMS) qua nội soi giúp che lấp lỗ rò từ bên trong thực quản, ngăn dịch lọt vào phổi và giúp bệnh nhân có thể nuốt nước bọt an toàn."
+        },
+        {
+          "q": "Nguyên nhân trực tiếp gây sốt và ran nổ ở phổi trong bệnh cảnh này là gì?",
+          "options": [
+            "Tràn mủ khoang màng phổi",
+            "Nhồi máu phổi cấp tính",
+            "Viêm phổi hít do dịch tiêu hóa",
+            "Áp xe trung thất lan tỏa"
+          ],
+          "answer": 2,
+          "explain": "Dịch tiêu hóa chứa acid và vi khuẩn từ thực quản rò rỉ trực tiếp vào cây phế quản gây ra tình trạng viêm phổi hít lan rộng, dẫn đến sốt cao và ran nổ ở phổi."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 48 tuổi phát hiện u phẳng 1/3 giữa",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 48 tuổi.<br><br><b>Bệnh sử:</b> Đi nội soi tầm soát định kỳ.<br><br><b>Khám lâm sàng:</b> Chức năng tim phổi bệnh nhân hoàn toàn bình thường.<br><br><b>Xét nghiệm:</b> Bác sĩ nội soi phun dung dịch Lugol lên niêm mạc thực quản và phát hiện một vùng phẳng 1.5 cm ở 1/3 giữa không bắt màu. Sinh thiết vùng này trả kết quả ung thư biểu mô vảy nội niêm mạc. Siêu âm nội soi (EUS) xác định tổn thương chỉ khu trú ở lớp niêm mạc (T1a), không có hạch trung thất.",
+      "questions": [
+        {
+          "q": "Vì sao vùng tổn thương loạn sản/ung thư lại không bắt màu dung dịch Lugol?",
+          "options": [
+            "Tăng sinh quá mức mạng lưới mạch máu",
+            "Tế bào bài tiết ra nhiều dịch nhày bao phủ",
+            "Lớp cơ niêm bên dưới bị xơ hóa lan rộng.",
+            "Tế bào mất dự trữ glycogen trong bào tương"
+          ],
+          "answer": 3,
+          "explain": "Tế bào biểu mô vảy bình thường chứa nhiều dự trữ glycogen nên bắt màu nâu đen với dung dịch Lugol. Tế bào loạn sản hoặc ung thư cạn kiệt glycogen nên không bắt màu, tạo vùng khuyết rõ nét."
+        },
+        {
+          "q": "Can thiệp điều trị ít xâm lấn và triệt căn nhất cho tổn thương T1a này là gì?",
+          "options": [
+            "Cắt bóc tách dưới niêm mạc nội soi",
+            "Phẫu thuật cắt đoạn thực quản ngực",
+            "Hóa xạ trị đồng thời liều cao",
+            "Đặt stent kim loại tự nong qua u"
+          ],
+          "answer": 0,
+          "explain": "Ung thư rất sớm T1a (khu trú ở lớp biểu mô cơ niêm) có thể được loại bỏ hoàn toàn bằng kỹ thuật cắt bóc tách dưới niêm mạc nội soi (ESD), giúp bảo tồn thực quản và tránh một đại phẫu mở ngực."
+        },
+        {
+          "q": "Vì sao ung thư ở giai đoạn T1a có tỉ lệ di căn hạch rất thấp (dưới 2%)?",
+          "options": [
+            "U đã bị bao bọc bởi lớp vỏ xơ cứng",
+            "U chưa xâm nhập lớp dưới niêm mạc",
+            "Hệ miễn dịch tại chỗ tiêu diệt tế bào u",
+            "Mạng bạch huyết thực quản rất nghèo nàn"
+          ],
+          "answer": 1,
+          "explain": "Mạng lưới mao mạch bạch huyết của thực quản nằm chủ yếu ở lớp dưới niêm mạc. Khối u T1a chưa xuyên qua cơ niêm nên rất hiếm khi xâm nhập hệ bạch huyết, tỉ lệ di căn hạch gần như bằng 0."
+        },
+        {
+          "q": "Biến chứng cấp tính đe dọa tính mạng trong lúc thực hiện bóc tách niêm mạc diện rộng là gì?",
+          "options": [
+            "Tràn rỉ dịch dưỡng chấp màng phổi",
+            "Rò đường mật vào ống tiêu hóa",
+            "Thủng thành thực quản và trung thất",
+            "Hẹp thực quản thứ phát vùng bóc tách"
+          ],
+          "answer": 2,
+          "explain": "Thành thực quản rất mỏng và không có thanh mạc. Việc dùng dao điện bóc tách diện rộng có rủi ro cao gây thủng xuyên thành, làm thoát khí và dịch vào trung thất đe dọa sinh mạng."
+        },
+        {
+          "q": "Nếu kết quả giải phẫu bệnh sau khi bóc tách cho thấy u đã xâm lấn sâu vào lớp dưới niêm mạc (T1b), chỉ định tiếp theo là gì?",
+          "options": [
+            "Theo dõi sát bằng nội soi định kỳ",
+            "Xạ trị áp sát tại chỗ tổn thương",
+            "Tiếp tục bóc tách nội soi lần hai",
+            "Phẫu thuật cắt thực quản vét hạch"
+          ],
+          "answer": 3,
+          "explain": "Nếu kết quả giải phẫu bệnh chính thức là T1b, nguy cơ di căn hạch tiềm ẩn tăng vọt lên 20-30%. Bệnh nhân bắt buộc phải chuyển sang phẫu thuật cắt bỏ thực quản kèm nạo vét hạch vùng để triệt căn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi sốt cao sau cắt thực quản ngày thứ 6",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi.<br><br><b>Tiền sử:</b> Đái tháo đường type 2.<br><br><b>Bệnh sử:</b> Hậu phẫu ngày thứ 6 sau phẫu thuật Ivor Lewis cắt u thực quản 1/3 dưới. Bệnh nhân đột ngột sốt 39.5°C, nhịp tim 125 lần/phút, huyết áp 85/55 mmHg, thở nhanh nông. Ống dẫn lưu lồng ngực phải trước đó ra dịch vàng trong, nay ồ ạt chảy ra 400 mL dịch đục lợn cợn màu nâu sẫm, mùi hôi.<br><br><b>Khám lâm sàng:</b> Khám bụng mềm, vết mổ khô. SpO2 92% dù đang thở oxy kính 3 lít/phút.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguyên nhân gây sốc phù hợp nhất là gì?",
+          "options": [
+            "Bục miệng nối thực quản dạ dày",
+            "Tràn máu màng phổi diện rộng",
+            "Nhồi máu phổi do huyết khối",
+            "Viêm phổi hít do trào ngược"
+          ],
+          "answer": 0,
+          "explain": "Vào ngày thứ 5-7 sau mổ nối thực quản lồng ngực, sự xuất hiện đột ngột của sốt cao, tụt huyết áp kèm dịch dẫn lưu chuyển màu đục lợn cợn (thức ăn, nước bọt) là tam chứng kinh điển của bục miệng nối."
+        },
+        {
+          "q": "Vì sao biến chứng này gây ra tình trạng nhiễm độc toàn thân cực kỳ nhanh chóng?",
+          "options": [
+            "Vi khuẩn sinh hơi chèn ép tim",
+            "Dịch tiêu hóa gây viêm trung thất hoại tử",
+            "Kích hoạt hội chứng đông máu rải rác",
+            "Chảy máu ồ ạt từ động mạch gian sườn"
+          ],
+          "answer": 1,
+          "explain": "Trung thất là khoang lỏng lẻo chứa các cơ quan sinh tồn. Dịch tiêu hóa chứa acid và vi khuẩn tràn vào sẽ nhanh chóng gây viêm trung thất hoại tử và nhiễm độc máu trầm trọng."
+        },
+        {
+          "q": "Phương pháp hình ảnh học nào an toàn và tối ưu nhất để xác định tổn thương lúc này?",
+          "options": [
+            "Nội soi thực quản bằng ống mềm",
+            "Chụp thực quản với Barit sulfate",
+            "Chụp CT ngực với thuốc cản quang tan trong nước",
+            "Siêu âm màng phổi và trung thất"
+          ],
+          "answer": 2,
+          "explain": "Chụp CT lồng ngực có uống thuốc cản quang tan trong nước (Gastrografin) là phương pháp tốt nhất. Nó giúp thấy rõ vị trí thuốc thoát ra ngoài lòng ống và đánh giá được ổ tụ dịch/mủ màng phổi để can thiệp."
+        },
+        {
+          "q": "Bước xử trí nội khoa ban đầu tiên quyết nhất ngay khi phát hiện là gì?",
+          "options": [
+            "Rút bỏ hoàn toàn ống dẫn lưu ngực",
+            "Bơm rửa liên tục qua ống mở thông dạ dày",
+            "Mở ngực lại ngay lập tức tại giường bệnh",
+            "Nhịn ăn tuyệt đối, truyền dịch, kháng sinh phổ rộng"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân đang trong tình trạng sốc nhiễm khuẩn. Hồi sức nội khoa theo ABC là tiên quyết: nhịn ăn (NPO), bù dịch, kháng sinh phổ rộng. Mổ lại ngay khi bệnh nhân sốc mà chưa chuẩn bị là rất nguy hiểm."
+        },
+        {
+          "q": "Chỉ định mổ mở lồng ngực cấp cứu bắt buộc được đặt ra trong tình huống nào?",
+          "options": [
+            "Ống dạ dày bị hoại tử đen diện rộng",
+            "Lượng dịch dẫn lưu ra dưới 50 mL/ngày",
+            "Bệnh nhân có biểu hiện sốt 38.5°C",
+            "Lỗ rò nhỏ và dẫn lưu màng phổi hoạt động tốt"
+          ],
+          "answer": 0,
+          "explain": "Phần lớn bục miệng nối có thể điều trị bảo tồn nếu dẫn lưu tốt. Nhưng nếu đánh giá thấy toàn bộ phần đỉnh dạ dày bị hoại tử đen diện rộng do thiếu máu nuôi, bắt buộc phải mổ tháo bỏ dạ dày để cứu mạng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi rò dịch đục lồng ngực",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 58 tuổi.<br><br><b>Bệnh sử:</b> Hậu phẫu ngày thứ 4 sau phẫu thuật nội soi cắt thực quản và vét hạch trung thất. Bệnh nhân phục hồi tốt và bắt đầu được bơm sữa qua ống mở thông hỗng tràng. Đến chiều cùng ngày, bình dẫn lưu khoang màng phổi phải đột ngột chảy ra 1200 mL dịch màu trắng đục như sữa, lỏng không đông.<br><br><b>Khám lâm sàng:</b> Bệnh nhân không sốt, không đau ngực, mạch 88 lần/phút, huyết áp 120/80 mmHg.",
+      "questions": [
+        {
+          "q": "Dấu hiệu dịch trắng đục xuất hiện ngay sau bữa ăn đường ruột là biểu hiện của biến chứng gì?",
+          "options": [
+            "Tràn mủ màng phổi thứ phát",
+            "Rò dịch dưỡng chấp lồng ngực",
+            "Bục miệng nối thực quản cổ",
+            "Chảy máu tĩnh mạch phế quản"
+          ],
+          "answer": 1,
+          "explain": "Dịch lồng ngực chuyển sang màu trắng đục như sữa ngay sau khi bệnh nhân được cho ăn đường ruột (kích thích hấp thu lipid) là biểu hiện đặc trưng của rò dưỡng chấp màng phổi."
+        },
+        {
+          "q": "Xét nghiệm hóa sinh dịch màng phổi nào giúp khẳng định chắc chắn chẩn đoán?",
+          "options": [
+            "Nồng độ Amylase tăng cao",
+            "pH dịch màng phổi dưới 7.0",
+            "Nồng độ Triglyceride tăng cao",
+            "Bạch cầu đa nhân trung tính chiếm ưu thế"
+          ],
+          "answer": 2,
+          "explain": "Dịch dưỡng chấp chứa lượng lớn chylomicron và lipid. Xét nghiệm định lượng Triglyceride trong dịch màng phổi > 110 mg/dL (1.24 mmol/L) là tiêu chuẩn vàng chẩn đoán xác định."
+        },
+        {
+          "q": "Cấu trúc giải phẫu nào đã bị tổn thương trong quá trình nạo vét hạch gây ra tình trạng này?",
+          "options": [
+            "Tĩnh mạch đơn phải",
+            "Phế quản thùy dưới",
+            "Động mạch gian sườn",
+            "Ống ngực đoạn trung thất"
+          ],
+          "answer": 3,
+          "explain": "Ống ngực (thoracic duct) đi sát dọc mặt sau thực quản trong trung thất. Việc bóc tách khối u và nạo vét hạch trung thất có rủi ro cao làm rách hoặc đứt ống ngực gây tràn dưỡng chấp."
+        },
+        {
+          "q": "Biện pháp can thiệp nội khoa bảo tồn ban đầu hợp lý nhất là gì?",
+          "options": [
+            "Chuyển sang nuôi dưỡng tĩnh mạch hoàn toàn",
+            "Bơm rửa màng phổi bằng dung dịch Betadine",
+            "Rút sớm ống dẫn lưu màng phổi bên phải",
+            "Phẫu thuật thắt ống ngực qua nội soi ngay"
+          ],
+          "answer": 0,
+          "explain": "Xử trí bảo tồn nhằm giảm tối đa lưu lượng bạch huyết chảy qua ống ngực bằng cách ngừng nuôi ăn đường ruột chứa chất béo chuỗi dài, chuyển sang nuôi dưỡng tĩnh mạch hoàn toàn (TPN) và duy trì hút dẫn lưu."
+        },
+        {
+          "q": "Nếu điều trị bảo tồn thất bại, chỉ định phẫu thuật can thiệp được đặt ra khi nào?",
+          "options": [
+            "Bệnh nhân có sốt nhẹ và đau ngực phải",
+            "Lượng dịch duy trì > 1 lít/ngày kéo dài",
+            "Dịch chuyển dần sang màu vàng nhạt trong",
+            "Lượng dịch dẫn lưu giảm xuống 200 mL/ngày"
+          ],
+          "answer": 1,
+          "explain": "Dưỡng chấp chứa rất nhiều protein và lympho T. Nếu rò rỉ lượng lớn (>1 lít/ngày) kéo dài không đáp ứng nội khoa sẽ gây suy dinh dưỡng và suy giảm miễn dịch nặng. Lúc này cần phẫu thuật thắt ống ngực chủ động."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 72 tuổi tiền sử co thắt tâm vị nuốt nghẹn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 72 tuổi.<br><br><b>Tiền sử:</b> Tiền sử co thắt tâm vị (Achalasia) 20 năm, không điều trị triệt để.<br><br><b>Bệnh sử:</b> 3 tháng nay bệnh nhân nuốt nghẹn hoàn toàn, sụt 15 kg (BMI 15), thể trạng suy kiệt nặng. Vào ngày thứ hai sau khi truyền lượng lớn sữa giàu năng lượng qua ống mở thông hỗng tràng, bệnh nhân đột ngột yếu cơ tứ chi, nhịp tim nhanh 130 lần/phút, khó thở và SpO2 90%.<br><br><b>Xét nghiệm:</b> Nội soi phát hiện thực quản giãn khổng lồ, tại 1/3 dưới có khối u sùi loét bít tắc lòng.<br><br><b>Tình trạng phẫu thuật:</b> Bệnh nhân được đặt ống mở thông hỗng tràng (PEJ) để nuôi dưỡng.",
+      "questions": [
+        {
+          "q": "Cơ chế sinh bệnh học dẫn đến ung thư trên nền Achalasia là gì?",
+          "options": [
+            "Trào ngược acid dịch vị liên tục",
+            "Nhiễm khuẩn Helicobacter pylori",
+            "Viêm niêm mạc mạn do ứ đọng thức ăn",
+            "Tổn thương cơ học do nong bóng"
+          ],
+          "answer": 2,
+          "explain": "Trong bệnh Achalasia, cơ thắt dưới không giãn khiến thức ăn ứ đọng nhiều năm. Quá trình lên men sinh ra vi khuẩn và các chất kích thích gây viêm niêm mạc mạn tính, lâu dần dẫn đến loạn sản và sinh ung thư."
+        },
+        {
+          "q": "Khối u phát triển trên nền bệnh lý này thường mang mô bệnh học loại nào?",
+          "options": [
+            "Ung thư biểu mô tuyến",
+            "U mô đệm dạ dày ruột",
+            "U thần kinh nội tiết",
+            "Ung thư biểu mô vảy"
+          ],
+          "answer": 3,
+          "explain": "Do tình trạng viêm mạn tính kéo dài tác động lên lớp niêm mạc biểu mô vảy bề mặt của thân thực quản, ung thư phát sinh hầu như luôn là ung thư biểu mô vảy (SCC)."
+        },
+        {
+          "q": "Hội chứng biến chứng chuyển hóa nào đang xảy ra ở bệnh nhân sau khi nuôi ăn ồ ạt?",
+          "options": [
+            "Hội chứng nuôi ăn lại",
+            "Hội chứng Dumping sớm",
+            "Tăng áp lực thẩm thấu máu",
+            "Nhiễm toan ceton cấp tính"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân suy kiệt mạn tính, nhịn đói lâu ngày khi được truyền đột ngột lượng lớn calo sẽ mắc Hội chứng nuôi ăn lại (Refeeding syndrome). Tuyến tụy tăng tiết insulin mạnh kéo ion vào tế bào, gây rối loạn điện giải đe dọa sinh mạng."
+        },
+        {
+          "q": "Rối loạn điện giải cốt lõi nào cần được xét nghiệm ngay để giải thích các triệu chứng tim mạch và cơ hô hấp?",
+          "options": [
+            "Tăng Canxi máu",
+            "Hạ Phosphat máu",
+            "Tăng Natri máu",
+            "Hạ Bicarbonat máu"
+          ],
+          "answer": 1,
+          "explain": "Hạ Phosphat máu (Hypophosphatemia) là rối loạn điện giải cốt lõi và nguy hiểm nhất của hội chứng này, dẫn đến suy giảm ATP gây yếu cơ hô hấp, rối loạn nhịp tim và suy tim cấp."
+        },
+        {
+          "q": "Tại sao mở thông hỗng tràng (PEJ) được chọn thay vì mở thông dạ dày (PEG) ở bệnh nhân có khối u thực quản?",
+          "options": [
+            "Giảm thiểu nguy cơ trào ngược dịch mật",
+            "Thủ thuật nội soi dễ thực hiện hơn nhiều",
+            "Bảo tồn cấu trúc dạ dày để tái tạo thực quản",
+            "Đảm bảo hấp thu carbohydrate tối ưu hơn"
+          ],
+          "answer": 2,
+          "explain": "Dạ dày là cơ quan hàng đầu được dùng để cuộn thành ống tái tạo thực quản. Mở thông dạ dày (PEG) sẽ tạo sẹo dính và phá hủy mạch máu nuôi. Mở thông hỗng tràng (PEJ) bảo tồn được dạ dày nguyên vẹn cho cuộc mổ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi khàn tiếng và nuốt nghẹn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì nuốt nghẹn và khàn tiếng kéo dài 1 tháng nay.<br><br><b>Khám lâm sàng:</b> Khám lâm sàng không thấy khó thở, sờ thấy hạch cổ trái 1.5 cm cứng chắc.<br><br><b>Xét nghiệm:</b> Nội soi tai mũi họng ghi nhận dây thanh âm trái liệt cố định. Nội soi thực quản ống mềm phát hiện khối u sùi bít tắc gần hoàn toàn lòng thực quản, cách cung răng trên 17 cm, sinh thiết là ung thư biểu mô vảy.",
+      "questions": [
+        {
+          "q": "Vị trí khối u cách cung răng trên 17 cm thuộc phân vùng giải phẫu nào?",
+          "options": [
+            "Thực quản ngực dưới",
+            "Đoạn tâm vị dạ dày",
+            "Thực quản ngực giữa",
+            "Thực quản đoạn cổ"
+          ],
+          "answer": 3,
+          "explain": "Phân đoạn giải phẫu qua nội soi tính từ cung răng: thực quản cổ là 15-20 cm, ngực trên 20-25 cm. Vị trí 17 cm nằm trọn trong đoạn thực quản cổ."
+        },
+        {
+          "q": "Cơ chế gây khàn tiếng ở bệnh nhân này là do u hoặc hạch di căn xâm lấn cấu trúc nào?",
+          "options": [
+            "Dây thần kinh thanh quản quật ngược",
+            "Khí quản đoạn hầu họng hẹp",
+            "Sụn giáp và nếp thanh âm",
+            "Dây thần kinh phế vị nhánh phải"
+          ],
+          "answer": 0,
+          "explain": "Khối u thực quản đoạn cổ hoặc ngực trên rất dễ xâm lấn trực tiếp vào dây thần kinh thanh quản quật ngược nằm trong rãnh khí thực quản, gây liệt dây thanh âm và khản tiếng."
+        },
+        {
+          "q": "Thăm dò nào bắt buộc phải thực hiện để đánh giá nguy cơ rò trước khi điều trị?",
+          "options": [
+            "Chụp X-quang cột sống cổ nghiêng",
+            "Nội soi phế quản ống mềm",
+            "Siêu âm tuyến giáp Doppler",
+            "Đo điện cơ vùng cổ ngực"
+          ],
+          "answer": 1,
+          "explain": "U đoạn cổ nằm áp sát màng sau khí quản. Bắt buộc phải tiến hành nội soi phế quản ống mềm để đánh giá xem khối u đã thâm nhiễm xuyên qua đường thở hay chưa nhằm loại trừ nguy cơ rò khí quản."
+        },
+        {
+          "q": "Phương pháp điều trị chính thường được ưu tiên nhất cho ung thư ở vị trí này là gì?",
+          "options": [
+            "Phẫu thuật cắt toàn bộ thanh quản",
+            "Đặt stent kim loại tự nong",
+            "Hóa xạ trị đồng thời triệt căn",
+            "Mở thông dạ dày ra da vĩnh viễn"
+          ],
+          "answer": 2,
+          "explain": "Hiện nay, hóa xạ trị đồng thời triệt căn (Definitive chemoradiation) mang lại thời gian sống còn tương đương phẫu thuật đối với u đoạn cổ, đồng thời giúp bệnh nhân tránh được một cuộc mổ tàn phá."
+        },
+        {
+          "q": "Lý do lâm sàng nào khiến phẫu thuật cắt thực quản ít được lựa chọn đầu tay ở đoạn này?",
+          "options": [
+            "Khối u kháng hoàn toàn với hóa chất",
+            "Không thể nạo vét hạch vùng cổ triệt để",
+            "Nguy cơ rò miệng nối lồng ngực quá cao",
+            "Phải cắt bỏ thanh quản gây mất giọng nói"
+          ],
+          "answer": 3,
+          "explain": "Mổ triệt căn ung thư thực quản cổ thường đòi hỏi phải cắt bỏ toàn bộ thanh quản và yết hầu. Bệnh nhân bị mất giọng nói vĩnh viễn và phải thở qua lỗ mở khí quản suốt đời, làm chất lượng sống giảm sút nghiêm trọng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 64 tuổi tiền sử COPD đánh giá phẫu thuật thực quản",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 64 tuổi.<br><br><b>Tiền sử:</b> Bệnh nhân có tiền sử COPD nặng (FEV1 55%), đang dùng thuốc xịt Formoterol.<br><br><b>Xét nghiệm:</b> Bệnh nhân được chẩn đoán ung thư thực quản 1/3 giữa (T2N0M0).<br><br><b>Tình trạng phẫu thuật:</b> Được chỉ định phẫu thuật cắt thực quản nội soi xâm lấn tối thiểu (MIE). Quá trình khám tiền mê đánh giá nguy cơ biến chứng hô hấp rất cao. Bệnh nhân được yêu cầu ngừng hút thuốc và tập vật lý trị liệu hô hấp trước mổ 4 tuần.",
+      "questions": [
+        {
+          "q": "Lợi ích lớn nhất của việc mổ nội soi lồng ngực (VATS) so với mổ mở ở bệnh nhân COPD là gì?",
+          "options": [
+            "Giảm đau thành ngực giúp ho khạc đờm tốt",
+            "Tránh cắt bỏ thần kinh phế vị hoàn toàn",
+            "Rút ngắn thời gian gây mê xuống một nửa",
+            "Không cần đặt ống dẫn lưu khoang màng phổi"
+          ],
+          "answer": 0,
+          "explain": "Phẫu thuật nội soi (MIE) không cần mở rộng các khoang liên sườn, giúp giảm thiểu đáng kể mức độ đau thành ngực sau mổ. Bệnh nhân dám thở sâu và ho khạc đờm sớm, giảm mạnh nguy cơ viêm phổi cho người bệnh COPD."
+        },
+        {
+          "q": "Trong phẫu thuật MIE cho u 1/3 giữa, khoang lồng ngực nào là đường tiếp cận tiêu chuẩn để bóc tách thực quản?",
+          "options": [
+            "Khoang lồng ngực bên trái",
+            "Khoang lồng ngực bên phải",
+            "Đường mổ chẻ dọc xương ức",
+            "Đường mở ngực trước bên trái"
+          ],
+          "answer": 1,
+          "explain": "Đường tiếp cận qua lồng ngực bên phải mang lại không gian rộng rãi để bóc tách thực quản lồng ngực mà không bị vướng cung động mạch chủ và tim như bên trái."
+        },
+        {
+          "q": "Sau khi giải phóng dạ dày ở thì bụng, thủ thuật nào thường được thực hiện để dự phòng biến chứng chậm làm trống dạ dày do cắt đứt thần kinh phế vị?",
+          "options": [
+            "Khâu hẹp lỗ tâm vị",
+            "Tạo hình van Nissen",
+            "Mở rộng cơ thắt môn vị",
+            "Nối tắt dạ dày ruột non"
+          ],
+          "answer": 2,
+          "explain": "Do hai thân thần kinh phế vị bị cắt đứt trong mổ, cơ vòng môn vị sẽ co thắt mạnh gây ứ đọng dạ dày. Phẫu thuật viên thường thực hiện thủ thuật mở rộng cơ thắt môn vị (Pyloromyotomy) để dự phòng."
+        },
+        {
+          "q": "Sau khi cắt thực quản ngực, tạng nào thường được ưu tiên sử dụng nhất để kéo lên lồng ngực tái tạo đường tiêu hóa?",
+          "options": [
+            "Đoạn ruột non hồi tràng",
+            "Đại tràng góc lách",
+            "Đại tràng phải và ngang",
+            "Dạ dày cuộn thành ống"
+          ],
+          "answer": 3,
+          "explain": "Dạ dày được giải phóng lách khỏi các mạc nối và cuộn lại thành dạng ống dọc theo bờ cong lớn là tạng sinh lý và phổ biến nhất được sử dụng để kéo lên lồng ngực/cổ tái tạo đường tiêu hóa."
+        },
+        {
+          "q": "Vì sao biến chứng rò miệng nối ở cổ thường ít gây tử vong hơn rò miệng nối lồng ngực?",
+          "options": [
+            "Dịch rò ở cổ dễ mở vết mổ dẫn lưu ra ngoài",
+            "Hệ vi khuẩn vùng cổ nhạy cảm với kháng sinh",
+            "Miệng nối cổ có nguồn cấp máu phong phú hơn",
+            "Bệnh nhân tự nuốt lại được dịch rò rỉ ra"
+          ],
+          "answer": 0,
+          "explain": "Miệng nối ở vùng cổ nằm nông, nếu xảy ra xì rò, bác sĩ chỉ cần cắt chỉ mở vết mổ cổ ngay tại giường để mủ và dịch chảy ra ngoài da. Dịch không bị tụt sâu xuống gây viêm trung thất hoại tử nặng như miệng nối trong lồng ngực."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 66 tuổi nôn ra máu sau đặt stent mạch vành",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 66 tuổi.<br><br><b>Tiền sử:</b> Đang dùng Aspirin và Clopidogrel sau đặt stent mạch vành 1 năm trước.<br><br><b>Bệnh sử:</b> Khai thác bệnh sử có nuốt nghẹn đặc 3 tháng nay. Bệnh nhân vào cấp cứu vì nôn ra khoảng 600 mL máu tươi.<br><br><b>Khám lâm sàng:</b> Sinh hiệu: mạch 115 lần/phút, huyết áp 85/50 mmHg, da lạnh.<br><br><b>Xét nghiệm:</b> Nội soi cấp cứu thấy khối u sùi loét 1/3 giữa thực quản đang chảy máu rỉ rả diện rộng, không có hình ảnh giãn tĩnh mạch thực quản.",
+      "questions": [
+        {
+          "q": "Theo nguyên tắc ABC, bước xử trí cấp bách đầu tiên ngay khi bệnh nhân vào viện là gì?",
+          "options": [
+            "Mở ngực cấp cứu kẹp mạch máu",
+            "Thiết lập đường truyền bù dịch và máu",
+            "Bơm rửa dạ dày bằng nước đá lạnh",
+            "Tiêm thuốc xơ hóa tĩnh mạch thực quản"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân đang trong tình trạng sốc mất máu (tụt huyết áp, mạch nhanh, da lạnh). Theo ATLS/ABC, ưu tiên tuyệt đối là thiết lập hai đường truyền tĩnh mạch lớn để bù dịch tinh thể và truyền máu trước khi can thiệp."
+        },
+        {
+          "q": "Cơ chế trực tiếp gây xuất huyết tiêu hóa ở bệnh nhân này là gì?",
+          "options": [
+            "Vỡ búi giãn tĩnh mạch thực quản",
+            "Hội chứng Mallory-Weiss do nôn",
+            "Hoại tử khối u xâm lấn mạch máu",
+            "Viêm loét dạ dày tá tràng chảy máu"
+          ],
+          "answer": 2,
+          "explain": "Nội soi đã loại trừ giãn tĩnh mạch cửa. Hiện tượng rỉ máu bề mặt khối u ung thư là do u hoại tử, loét sâu và thâm nhiễm trực tiếp làm đứt gãy các mạch máu nhỏ trong tổ chức u."
+        },
+        {
+          "q": "Phương pháp cầm máu qua nội soi nào an toàn và hiệu quả nhất cho khối u rỉ máu bề mặt?",
+          "options": [
+            "Thắt vòng cao su nội soi",
+            "Đặt ống chèn ép Sengstaken",
+            "Tiêm xơ bằng Polidocanol",
+            "Đốt cầm máu bằng tia plasma Argon"
+          ],
+          "answer": 3,
+          "explain": "Tia plasma Argon (APC) là phương pháp nội soi nhiệt lượng giúp làm đông và cầm máu bề mặt diện rộng rất an toàn cho các khối u ác tính mủn bở. Thắt vòng và tiêm xơ chủ yếu dùng cho vỡ giãn tĩnh mạch."
+        },
+        {
+          "q": "Lý do chính KHÔNG mổ cắt thực quản cấp cứu để cầm máu ở bệnh nhân này là gì?",
+          "options": [
+            "Tỷ lệ tử vong chu phẫu cực cao trên nền sốc",
+            "Dạ dày chưa được chuẩn bị sạch sẽ trước mổ",
+            "Nguy cơ phát tán tế bào ung thư vào máu",
+            "Phẫu thuật không giải quyết được chảy máu"
+          ],
+          "answer": 0,
+          "explain": "Phẫu thuật cắt thực quản là đại phẫu có nguy cơ tử vong chu phẫu cao. Tiến hành mổ mở ngực cấp cứu trên nền bệnh nhân đang sốc mất máu nặng và rối loạn đông máu do thuốc sẽ dẫn đến nguy cơ tử vong gần như 100%."
+        },
+        {
+          "q": "Thuốc kháng kết tập tiểu cầu kép bệnh nhân đang dùng có tác động gì đến tình trạng hiện tại?",
+          "options": [
+            "Làm tăng nguy cơ tạo huyết khối tĩnh mạch sâu",
+            "Làm trầm trọng tình trạng chảy máu khó cầm",
+            "Bảo vệ cơ tim khỏi nhồi máu khi mất máu",
+            "Kích thích tế bào ung thư tăng sinh mạch máu"
+          ],
+          "answer": 1,
+          "explain": "Thuốc chống đông/kháng kết tập tiểu cầu (Aspirin, Clopidogrel) làm ức chế chức năng đông máu, khiến tình trạng chảy máu từ tổ chức u hoại tử trở nên ồ ạt, kéo dài và cực kỳ khó kiểm soát."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi nuốt nghẹn và sút cân",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi, làm nghề xây dựng.<br><br><b>Tiền sử:</b> Hút thuốc lá 30 bao năm, uống rượu khoảng 500ml rượu mạnh/tuần trong 20 năm.<br><br><b>Bệnh sử:</b> Vào viện vì nuốt nghẹn tăng dần trong 3 tháng nay. Ban đầu nghẹn với thức ăn đặc, nay nghẹn cả với cháo loãng, sụt 6kg/3 tháng.<br><br><b>Khám lâm sàng:</b> Khám toàn thân: tỉnh, thể trạng gầy (BMI 17.5 kg/m2), da niêm mạc nhợt nhẹ, hạch thượng đòn trái kích thước 1x1cm, cứng, di động kém, không đau. Khám bụng mềm, gan lách không sờ thấy. Phổi rì rào phế nang rõ, không rale. Tim đều. Các cơ quan khác chưa phát hiện bất thường.<br><br><b>Xét nghiệm:</b> Công thức máu Hb 105 g/L, MCV 82 fL; Albumin máu 30 g/L; Na 138 mmol/L, K 3.6 mmol/L; Chức năng gan thận trong giới hạn bình thường. Nội soi thực quản thấy khối u sùi loét chít hẹp lòng thực quản cách cung răng trên 28cm, máy soi không qua được.",
+      "questions": [
+        {
+          "q": "Chẩn đoán sơ bộ phù hợp nhất trên bệnh nhân này là:",
+          "options": [
+            "Ung thư thực quản đoạn cổ",
+            "Ung thư thực quản đoạn ngực trên",
+            "Ung thư thực quản đoạn ngực giữa",
+            "Ung thư thực quản đoạn ngực dưới"
+          ],
+          "answer": 2,
+          "explain": "Vị trí cách cung răng trên 28cm tương ứng với thực quản ngực giữa (từ 25-32cm). Ngực trên (15-25cm), Ngực dưới (32-40cm)."
+        },
+        {
+          "q": "Dựa vào vị trí và tiền sử, loại mô bệnh học nào có khả năng gặp nhất?",
+          "options": [
+            "Ung thư biểu mô tuyến (Adenocarcinoma)",
+            "Ung thư biểu mô tế bào vảy (Squamous cell carcinoma)",
+            "GIST thực quản",
+            "Lymphoma thực quản"
+          ],
+          "answer": 1,
+          "explain": "Ung thư biểu mô tế bào vảy (SCC) chiếm ưu thế ở thực quản ngực giữa trên và liên quan chặt chẽ đến thuốc lá, rượu. Adenocarcinoma thường ở đoạn dưới tâm vị liên quan đến GERD/Barrett."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây CẦN THIẾT NHẤT để đánh giá chính xác độ xâm lấn chiều sâu của u (T) và hạch vùng (N) lân cận?",
+          "options": [
+            "Chụp X-quang ngực thẳng",
+            "Siêu âm nội soi (EUS)",
+            "Chụp MRI lồng ngực",
+            "Chụp PET/CT toàn thân"
+          ],
+          "answer": 1,
+          "explain": "Siêu âm nội soi (EUS) là tiêu chuẩn vàng (gold standard) để đánh giá mức độ xâm lấn thành (T stage) và hạch vùng (N stage) với độ chính xác cao hơn CT."
+        },
+        {
+          "q": "Nếu khẳng định hạch thượng đòn trái là di căn (sinh thiết dương tính), giai đoạn bệnh (theo AJCC 8th) tối thiểu là:",
+          "options": [
+            "Giai đoạn II",
+            "Giai đoạn III",
+            "Giai đoạn IVA",
+            "Giai đoạn IVB"
+          ],
+          "answer": 3,
+          "explain": "Theo AJCC 8th, hạch thượng đòn được coi là hạch vùng (N) đối với ung thư đoạn cổ, nhưng là di căn xa (M1) đối với ung thư đoạn ngực. Với u đoạn ngực giữa, hạch thượng đòn là M1 - Giai đoạn IVB."
+        },
+        {
+          "q": "Chiến lược điều trị nào phù hợp nhất nếu bệnh nhân ở giai đoạn di căn hạch thượng đòn (M1 lymph node)?",
+          "options": [
+            "Phẫu thuật cắt thực quản ngay lập tức",
+            "Hóa trị tân bổ trợ rồi phẫu thuật",
+            "Hóa xạ trị đồng thời triệt căn (Definitive Chemoradiation)",
+            "Mở thông dạ dày nuôi dưỡng đơn thuần"
+          ],
+          "answer": 2,
+          "explain": "Với giai đoạn IVB (di căn xa), phẫu thuật triệt căn thường không còn chỉ định (trừ trường hợp chọn lọc hạch cổ đơn độc có thể cân nhắc đa mô thức, nhưng đáp án chuẩn nhất là Hóa xạ trị triệt căn hoặc Palliative). Phẫu thuật ngay (A) là sai lầm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi tiền sử GERD khám định kỳ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi, nhân viên văn phòng.<br><br><b>Tiền sử:</b> Trào ngược dạ dày thực quản (GERD) 10 năm tự dùng thuốc không đều, BMI 28 kg/m2.<br><br><b>Bệnh sử:</b> Bệnh nhân đi khám sức khỏe định kỳ, không có triệu chứng nuốt nghẹn, không sụt cân, không nôn ra máu.<br><br><b>Khám lâm sàng:</b> Khám lâm sàng chưa phát hiện hạch ngoại vi, bụng mềm, không có tuần hoàn bàng hệ.<br><br><b>Xét nghiệm:</b> Nội soi tiêu hóa phát hiện vùng niêm mạc thực quản đoạn 1/3 dưới thay đổi màu sắc dạng đỏ rực (salmon-colored), sinh thiết cho kết quả dị sản ruột (Barrett thực quản) kèm loạn sản độ cao (High-grade dysplasia) và ổ ung thư biểu mô tuyến sớm khu trú ở lớp niêm mạc (T1a), chưa xâm lấn lớp dưới niêm mạc. Siêu âm nội soi không thấy hạch vùng. CT scan ngực bụng chưa thấy di căn xa. Các xét nghiệm tiền phẫu trong giới hạn bình thường: Albumin 42 g/L, Glucose 5.2 mmol/L.",
+      "questions": [
+        {
+          "q": "Yếu tố nguy cơ chính dẫn đến loại ung thư của bệnh nhân này là:",
+          "options": [
+            "Nhiễm Helicobacter pylori",
+            "Béo phì và trào ngược dạ dày thực quản (GERD)",
+            "Hút thuốc lá và uống rượu mạnh",
+            "Ăn thức ăn nóng và thiếu vitamin A"
+          ],
+          "answer": 1,
+          "explain": "Adenocarcinoma liên quan trực tiếp đến GERD, Barrett thực quản và béo phì. Hút thuốc/Rượu là nguy cơ chính của SCC."
+        },
+        {
+          "q": "Với chẩn đoán ung thư thực quản giai đoạn sớm T1aN0M0, phương pháp điều trị nào sau đây là TỐI ƯU NHẤT giúp bảo tồn cơ quan?",
+          "options": [
+            "Cắt thực quản nội soi đường ngực bụng",
+            "Cắt niêm mạc qua nội soi (EMR) hoặc cắt tách dưới niêm mạc (ESD)",
+            "Xạ trị ngoài đơn thuần",
+            "Hóa chất toàn thân"
+          ],
+          "answer": 1,
+          "explain": "T1a (khu trú niêm mạc) hiếm khi di căn hạch (<2%). EMR/ESD là chỉ định chuẩn giúp bảo tồn thực quản, chất lượng sống tốt hơn phẫu thuật."
+        },
+        {
+          "q": "Nếu tổn thương đã xâm lấn đến lớp dưới niêm mạc sâu (T1b-sm2) hoặc có xâm lấn mạch bạch huyết, thái độ xử trí sẽ thay đổi thành:",
+          "options": [
+            "Vẫn tiếp tục làm ESD mở rộng",
+            "Phẫu thuật cắt thực quản vét hạch",
+            "Theo dõi định kỳ 3 tháng/lần",
+            "Đặt stent thực quản"
+          ],
+          "answer": 1,
+          "explain": "Khi u xâm lấn lớp dưới niêm mạc (T1b), đặc biệt là sm2/sm3, nguy cơ di căn hạch tăng lên đáng kể (20-30%), ESD không còn đảm bảo về mặt ung thư học -> Cần phẫu thuật cắt thực quản + vét hạch."
+        },
+        {
+          "q": "Giả sử bệnh nhân phải phẫu thuật cắt thực quản, đường mổ nào cho phép vét hạch trung thất triệt để nhất (2-field hoặc 3-field)?",
+          "options": [
+            "Phẫu thuật Transhiatal (qua khe hoành)",
+            "Phẫu thuật Ivor-Lewis (bụng và ngực phải)",
+            "Phẫu thuật McKeown (bụng, ngực phải, cổ trái)",
+            "Phẫu thuật nội soi ổ bụng đơn thuần"
+          ],
+          "answer": 2,
+          "explain": "Phẫu thuật McKeown (3 lỗ) cho phép kiểm soát tốt nhất hạch trung thất trên và cổ (vét hạch 3 vùng). Ivor-Lewis (2 lỗ) tốt cho hạch trung thất dưới bụng. Transhiatal hạn chế vét hạch trung thất."
+        },
+        {
+          "q": "Chọn câu SAI về theo dõi sau điều trị ung thư thực quản:",
+          "options": [
+            "Nguy cơ tái phát cao nhất trong 2 năm đầu",
+            "Nội soi thực quản định kỳ là bắt buộc nếu điều trị bảo tồn",
+            "Di căn xa thường gặp nhất ở não",
+            "Hẹp miệng nối là biến chứng muộn có thể gặp"
+          ],
+          "answer": 2,
+          "explain": "Di căn xa của K thực quản thường gặp nhất ở gan, phổi, xương. Di căn não hiếm gặp hơn. Các ý A, B, D đều đúng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi khản tiếng và ho khi uống nước",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 68 tuổi.<br><br><b>Tiền sử:</b> COPD do hút thuốc 40 bao năm.<br><br><b>Bệnh sử:</b> Vào viện vì khản tiếng và ho khi uống nước kéo dài 2 tuần nay. Nuốt nghẹn mức độ nhẹ nhưng sụt 4kg/1 tháng.<br><br><b>Khám lâm sàng:</b> Khám: SpO2 94%, thở đều. Giọng khàn đặc. Soi thanh quản thấy liệt dây thanh âm bên trái ở tư thế khép. Khám phổi không rale.<br><br><b>Xét nghiệm:</b> Nội soi thực quản phát hiện khối u sùi loét ở thực quản ngực đoạn 1/3 trên (cách cung răng trên 22cm). CT scan ngực thấy khối u kích thước 4cm xâm lấn rộng trung thất, bao quanh động mạch chủ ngực > 90 độ nhưng chưa thấy mất lớp mỡ với cột sống. Khí quản bị đè đẩy nhẹ. Hạch trung thất nhóm 2R, 4R, 7 tăng kích thước > 1cm.",
+      "questions": [
+        {
+          "q": "Triệu chứng khàn tiếng và liệt dây thanh trái gợi ý khối u đã xâm lấn cấu trúc nào?",
+          "options": [
+            "Thần kinh phế vị (X) đoạn cổ",
+            "Thần kinh quật ngược thanh quản trái (Left RLN)",
+            "Thần kinh hoành trái",
+            "Đám rối thần kinh cánh tay"
+          ],
+          "answer": 1,
+          "explain": "Thần kinh quật ngược thanh quản trái vòng dưới cung động mạch chủ, nằm trong rãnh khí thực quản, rất dễ bị xâm lấn bởi u thực quản ngực trên giữa hoặc hạch di căn."
+        },
+        {
+          "q": "Ngoài nội soi tiêu hóa, thủ thuật nào BẮT BUỘC phải thực hiện trước khi quyết định điều trị ở bệnh nhân này để loại trừ xâm lấn đường thở?",
+          "options": [
+            "Đo chức năng hô hấp",
+            "Nội soi phế quản (Bronchoscopy)",
+            "Xạ hình xương",
+            "Chụp mạch vành"
+          ],
+          "answer": 1,
+          "explain": "Với u thực quản ngực trên/giữa, nguy cơ xâm lấn màng khí quản/phế quản gốc trái là cao. Nội soi phế quản là bắt buộc (guideline NCCN) để xác định giai đoạn T4 và loại trừ rò."
+        },
+        {
+          "q": "Theo phân loại TNM, khối u xâm lấn dây thần kinh quật ngược được xếp loại:",
+          "options": [
+            "T2",
+            "T3",
+            "T4a",
+            "T4b"
+          ],
+          "answer": 2,
+          "explain": "T4a là u xâm lấn màng phổi, màng tim, cơ hoành, phúc mạc, hoặc thần kinh quật ngược. T4b là xâm lấn động mạch chủ, cột sống, khí quản."
+        },
+        {
+          "q": "Với khối u đoạn 1/3 trên xâm lấn dây thần kinh quật ngược, chiến lược điều trị ưu tiên thường là:",
+          "options": [
+            "Phẫu thuật cắt thực quản ngay + vét hạch cổ",
+            "Hóa xạ trị đồng thời triệt căn (Definitive Chemoradiation)",
+            "Cắt u nội soi",
+            "Mở khí quản dự phòng"
+          ],
+          "answer": 1,
+          "explain": "U đoạn cổ và ngực trên phẫu thuật rất tàn phá (có thể phải cắt thanh quản), do đó Hóa xạ trị triệt căn là lựa chọn ưu tiên (Category 1) để bảo tồn cơ quan, hiệu quả tương đương phẫu thuật ở vị trí này."
+        },
+        {
+          "q": "Một trong những biến chứng đáng ngại nhất của phẫu thuật hoặc xạ trị vùng này là rò khí - thực quản. Dấu hiệu lâm sàng gợi ý là:",
+          "options": [
+            "Nôn ra máu đỏ tươi",
+            "Ho sặc sụa dữ dội khi nuốt chất lỏng (Ono's sign)",
+            "Khó thở thì thở ra",
+            "Đau ngực dữ dội lan ra sau lưng"
+          ],
+          "answer": 1,
+          "explain": "Dấu hiệu ho sặc sụa ngay khi nuốt (đặc biệt chất lỏng) gợi ý rò khí thực quản, nguy cơ viêm phổi hít tử vong cao."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi chẩn đoán khối u thực quản ngực giữa",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì nuốt vướng.<br><br><b>Khám lâm sàng:</b> Bệnh nhân có thể trạng tốt (ECOG 0), chức năng tim phổi bình thường.<br><br><b>Xét nghiệm:</b> Nội soi thực quản phát hiện u sùi thực quản ngực giữa dài 4cm, giải phẫu bệnh là SCC. CT và EUS chẩn đoán giai đoạn cT3N1M0.<br><br><b>Tình trạng phẫu thuật:</b> Sau khi hội chẩn đa chuyên khoa (MDT), bệnh nhân được chỉ định điều trị tân bổ trợ (Neoadjuvant) trước phẫu thuật.",
+      "questions": [
+        {
+          "q": "Phác đồ chuẩn vàng (Gold Standard) cho điều trị tân bổ trợ ung thư thực quản (dựa trên nghiên cứu CROSS) bao gồm:",
+          "options": [
+            "Hóa trị đơn thuần với Cisplatin/5-FU",
+            "Xạ trị đơn thuần liều cao",
+            "Hóa trị (Carboplatin + Paclitaxel) kết hợp Xạ trị (41.4 Gy)",
+            "Miễn dịch liệu pháp (Pembrolizumab)"
+          ],
+          "answer": 2,
+          "explain": "Nghiên cứu CROSS (Carboplatin + Paclitaxel + 41.4Gy RT) là phác đồ chuẩn toàn cầu cho K thực quản (cả SCC và Adeno) tiến triển tại chỗ."
+        },
+        {
+          "q": "Lợi ích chính của hóa xạ trị tân bổ trợ so với phẫu thuật đơn thuần là:",
+          "options": [
+            "Giảm tỉ lệ biến chứng rò miệng nối",
+            "Tăng tỉ lệ đạt diện cắt âm tính (R0) và cải thiện sống còn toàn bộ (OS)",
+            "Rút ngắn thời gian phẫu thuật",
+            "Loại bỏ hoàn toàn nhu cầu phẫu thuật ở mọi bệnh nhân"
+          ],
+          "answer": 1,
+          "explain": "Tân bổ trợ giúp giảm kích thước u (downstaging), tăng khả năng cắt bỏ R0 và đã được chứng minh tăng OS so với mổ đơn thuần (Surgery alone)."
+        },
+        {
+          "q": "Thời điểm phẫu thuật thường được thực hiện sau khi kết thúc liệu trình tân bổ trợ khoảng:",
+          "options": [
+            "1-2 tuần",
+            "4-8 tuần",
+            "3-6 tháng",
+            "Ngay lập tức"
+          ],
+          "answer": 1,
+          "explain": "Khoảng nghỉ 4-8 tuần (thường là 6 tuần) để bệnh nhân hồi phục sau độc tính xạ trị và mô bớt viêm nề, nhưng không để quá lâu gây xơ dính hoặc u tái phát."
+        },
+        {
+          "q": "Đánh giá đáp ứng sau hóa xạ trị tân bổ trợ, nếu đạt \"đáp ứng hoàn toàn trên bệnh học\" (pCR), tiên lượng sống còn sẽ:",
+          "options": [
+            "Không thay đổi so với nhóm còn tế bào u",
+            "Tốt hơn đáng kể so với nhóm không đạt pCR",
+            "Kém hơn do độc tính của thuốc",
+            "Phụ thuộc hoàn toàn vào loại phẫu thuật"
+          ],
+          "answer": 1,
+          "explain": "pCR (pathological Complete Response) là yếu tố tiên lượng mạnh nhất cho sống còn lâu dài."
+        },
+        {
+          "q": "Trong quá trình phẫu thuật sau đó, vật liệu nào thường được dùng nhất để tạo hình thực quản?",
+          "options": [
+            "Đại tràng ngang",
+            "Đại tràng trái",
+            "Dạ dày (ống dạ dày)",
+            "Ruột non vi phẫu"
+          ],
+          "answer": 2,
+          "explain": "Ống dạ dày (Gastric tube/conduit) là lựa chọn đầu tay vì nguồn mạch nuôi dồi dào (vị mạc nối phải), kỹ thuật đơn giản hơn đại tràng (chỉ dùng đại tràng khi dạ dày đã bị cắt hoặc bệnh lý)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi đau ngực khó thở ngày 4 sau mổ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Bệnh sử:</b> Hậu phẫu ngày thứ 4 sau cắt thực quản nội soi ngực bụng, tạo hình bằng ống dạ dày đường hầm sau xương ức vì ung thư thực quản 1/3 giữa. Dẫn lưu ngực ra dịch hồng nhạt 200ml/24h. Sáng nay bệnh nhân đột ngột sốt cao 39°C, mạch nhanh 110 lần/phút, đau tức ngực sau xương ức tăng lên, khó thở nhẹ SpO2 95%.<br><br><b>Khám lâm sàng:</b> Khám thấy vùng cổ trái nề nhẹ, ấn đau.<br><br><b>Xét nghiệm:</b> Bạch cầu máu tăng 18 G/L. Dịch dẫn lưu ngực chuyển màu đục hơn.",
+      "questions": [
+        {
+          "q": "Biến chứng cần nghĩ đến ĐẦU TIÊN là:",
+          "options": [
+            "Viêm phổi bệnh viện",
+            "Rò miệng nối thực quản - dạ dày",
+            "Nhồi máu cơ tim cấp",
+            "Tắc động mạch phổi (PE)"
+          ],
+          "answer": 1,
+          "explain": "Sốt cao, đau ngực, bạch cầu tăng, vùng cổ nề vào ngày 3-7 sau mổ là dấu hiệu kinh điển của rò miệng nối. Dịch dẫn lưu đục củng cố chẩn đoán."
+        },
+        {
+          "q": "Biện pháp cận lâm sàng ban đầu phù hợp nhất để chẩn đoán xác định biến chứng này là:",
+          "options": [
+            "Nội soi thực quản kiểm tra ngay lập tức",
+            "Chụp CT ngực có uống thuốc cản quang tan trong nước",
+            "Chụp X-quang ngực thẳng đơn thuần",
+            "Siêu âm tim"
+          ],
+          "answer": 1,
+          "explain": "CT ngực có thuốc cản quang uống (tan trong nước, không dùng Barium) là phương pháp tốt nhất để phát hiện thoát thuốc ra ngoài ống tiêu hóa và ổ tụ dịch/khí trung thất. Nội soi ngay khi mới mổ xong có nguy cơ làm toác rộng miệng nối."
+        },
+        {
+          "q": "Trong khi chờ kết quả, thái độ xử trí nào là KHÔNG đúng?",
+          "options": [
+            "Nhịn ăn uống hoàn toàn",
+            "Cho ăn lại đường miệng để kiểm tra vị trí rò",
+            "Kháng sinh phổ rộng mạnh",
+            "Bồi phụ nước điện giải, hạ sốt"
+          ],
+          "answer": 1,
+          "explain": "Tuyệt đối cấm ăn uống (NPO) khi nghi ngờ rò."
+        },
+        {
+          "q": "Nếu chẩn đoán xác định rò miệng nối ở cổ mức độ nhẹ, không có dấu hiệu nhiễm trùng lan tỏa trung thất, xử trí ưu tiên là:",
+          "options": [
+            "Mổ lại ngay lập tức để khâu lỗ rò",
+            "Mở vết mổ cổ, dẫn lưu tốt, chăm sóc tại chỗ và dinh dưỡng tích cực",
+            "Cắt bỏ ống dạ dày, mở thông thực quản cổ ra da",
+            "Đặt stent thực quản ngay"
+          ],
+          "answer": 1,
+          "explain": "Rò miệng nối ở CỔ thường lành tính hơn trong ngực. Nguyên tắc là \"mở bung vết mổ\" để dẫn lưu mủ, kháng sinh và dinh dưỡng (qua mở thông hỗng tràng). Thường tự liền sau vài tuần. Mổ lại khâu rất khó dính trên mô viêm."
+        },
+        {
+          "q": "Vị trí giải phẫu nào của đường đi ống dạ dày có nguy cơ gây chèn ép tim/hô hấp nếu ống dạ dày quá căng trướng?",
+          "options": [
+            "Đường hầm sau xương ức",
+            "Đường hầm trung thất sau (giường thực quản cũ)",
+            "Đường dưới da trước xương ức",
+            "Trong ổ bụng"
+          ],
+          "answer": 0,
+          "explain": "Đường hầm sau xương ức hẹp, nếu ống dạ dày giãn to có thể chèn ép tim/phổi gây rối loạn huyết động."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi tiền sử xơ gan kèm khó nuốt",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 72 tuổi.<br><br><b>Tiền sử:</b> Xơ gan Child-B do rượu, giãn tĩnh mạch thực quản độ II.<br><br><b>Bệnh sử:</b> Vào viện vì khó nuốt và sụt cân.<br><br><b>Xét nghiệm:</b> Chẩn đoán xác định K thực quản 1/3 giữa T3N1M0. Xét nghiệm: Bilirubin 35 µmol/L, Albumin 28 g/L, INR 1.5, có ít dịch ổ bụng.<br><br><b>Tình trạng phẫu thuật:</b> Hội chẩn ngoại khoa đánh giá nguy cơ phẫu thuật rất cao do bệnh nền xơ gan và chức năng gan kém.",
+      "questions": [
+        {
+          "q": "Tại sao xơ gan decompensated (mất bù) là chống chỉ định tương đối/tuyệt đối của phẫu thuật cắt thực quản?",
+          "options": [
+            "Nguy cơ chảy máu do rối loạn đông máu và tăng áp lực tĩnh mạch cửa",
+            "Gan to gây cản trở phẫu trường",
+            "Không thể gây mê nội khí quản",
+            "Thuốc gây mê không chuyển hóa được"
+          ],
+          "answer": 0,
+          "explain": "Xơ gan làm tăng nguy cơ suy gan sau mổ, bục miệng nối (do giảm albumin), và đặc biệt là chảy máu không cầm được do tuần hoàn bàng hệ và rối loạn đông máu."
+        },
+        {
+          "q": "Lựa chọn điều trị thay thế (Non-surgical) phù hợp nhất cho bệnh nhân này để kiểm soát bệnh (curative intent nếu có thể) là:",
+          "options": [
+            "Hóa xạ trị đồng thời triệt căn (Definitive Chemoradiation)",
+            "Chỉ mở thông dạ dày",
+            "Đặt stent thực quản",
+            "Cắt hớt niêm mạc (EMR)"
+          ],
+          "answer": 0,
+          "explain": "Hóa xạ trị triệt căn (Definitive CRT) là phác đồ chuẩn cho bệnh nhân không đủ điều kiện phẫu thuật (medically inoperable), với tỷ lệ sống còn tương đương phẫu thuật trong một số nghiên cứu."
+        },
+        {
+          "q": "Nếu bệnh nhân nuốt nghẹn hoàn toàn không uống được nước, mục tiêu chuyển sang điều trị triệu chứng (Palliative), phương pháp nào giúp tái lập lưu thông đường tiêu hóa nhanh nhất?",
+          "options": [
+            "Hóa trị liều cao",
+            "Đặt Stent thực quản (SEMS)",
+            "Xạ trị ngoài",
+            "Mở thông hỗng tràng"
+          ],
+          "answer": 1,
+          "explain": "Stent kim loại tự giãn (SEMS) giải quyết tắc nghẽn ngay lập tức. Mở thông hỗng tràng chỉ nuôi dưỡng chứ không giải quyết việc nuốt (nước bọt vẫn ứ đọng)."
+        },
+        {
+          "q": "Trong quá trình đặt Stent, biến chứng nguy hiểm tức thì có thể xảy ra là:",
+          "options": [
+            "Trào ngược dạ dày thực quản",
+            "Thủng thực quản",
+            "Di lệch stent",
+            "Tắc stent do thức ăn"
+          ],
+          "answer": 1,
+          "explain": "Thủng thực quản là tai biến thủ thuật nghiêm trọng nhất. Các biến chứng khác (A, C, D) là biến chứng muộn hơn."
+        },
+        {
+          "q": "Tiên lượng sống còn 5 năm của ung thư thực quản giai đoạn tiến triển (Locally advanced) nhìn chung khoảng:",
+          "options": [
+            "> 80%",
+            "50-60%",
+            "15-25%",
+            "< 5%"
+          ],
+          "answer": 2,
+          "explain": "K thực quản là bệnh lý ác tính cao, tiên lượng chung (giai đoạn III) sống còn 5 năm chỉ khoảng 15-25% dù điều trị đa mô thức."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi ra dịch lồng ngực đục sau mổ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Bệnh sử:</b> Hậu phẫu ngày thứ 5 sau cắt thực quản nội soi - tạo hình ống dạ dày (phẫu thuật Ivor-Lewis). Dẫn lưu màng phổi phải ra dịch màu trắng đục như sữa, số lượng 800ml/24h.<br><br><b>Khám lâm sàng:</b> Bệnh nhân không sốt, không đau ngực, mạch 90 l/p.<br><br><b>Xét nghiệm:</b> Xét nghiệm dịch màng phổi: Triglyceride 4.5 mmol/L (ngưỡng chẩn đoán > 1.24 mmol/L hoặc > 110 mg/dL). Tế bào Lympho chiếm ưu thế.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định là:",
+          "options": [
+            "Tràn mủ màng phổi",
+            "Rò dưỡng chấp (Chylothorax)",
+            "Tràn dịch màng phổi do suy tim",
+            "Chảy máu màng phổi"
+          ],
+          "answer": 1,
+          "explain": "Dịch trắng như sữa, Triglyceride cao là tiêu chuẩn chẩn đoán rò dưỡng chấp."
+        },
+        {
+          "q": "Nguyên nhân giải phẫu của biến chứng này là tổn thương cấu trúc nào trong thì ngực?",
+          "options": [
+            "Ống ngực (Thoracic duct)",
+            "Tĩnh mạch đơn (Azygos vein)",
+            "Tĩnh mạch phổi",
+            "Thần kinh tạng"
+          ],
+          "answer": 0,
+          "explain": "Ống ngực chạy dọc bên phải cột sống trong trung thất sau, rất dễ bị thương tổn khi phẫu tích thực quản ngực hoặc vét hạch."
+        },
+        {
+          "q": "Hậu quả chuyển hóa nghiêm trọng nếu tình trạng này kéo dài là:",
+          "options": [
+            "Tăng Calci máu",
+            "Suy dinh dưỡng và suy giảm miễn dịch (mất Lympho T)",
+            "Tăng đường huyết",
+            "Nhiễm toan chuyển hóa do tăng Clo"
+          ],
+          "answer": 1,
+          "explain": "Dưỡng chấp chứa nhiều chất béo, protein và tế bào Lympho. Mất dưỡng chấp dẫn đến suy kiệt nhanh chóng và giảm khả năng miễn dịch (giảm lympho)."
+        },
+        {
+          "q": "Bước xử trí bảo tồn ĐẦU TIÊN bao gồm:",
+          "options": [
+            "Ăn bình thường nhưng ít muối",
+            "Nhịn ăn hoàn toàn, nuôi dưỡng tĩnh mạch (TPN) hoặc ăn chế độ giàu MCT",
+            "Rút dẫn lưu ngay để tránh mất dịch",
+            "Bơm bột Talc gây dính ngay lập tức"
+          ],
+          "answer": 1,
+          "explain": "Mục tiêu là giảm lưu lượng dòng chảy trong ống ngực. Chất béo chuỗi trung bình (MCT) được hấp thu thẳng vào hệ cửa, không qua ống ngực -> giảm lưu lượng. TPN là phương án tốt nhất để ống ngực nghỉ ngơi."
+        },
+        {
+          "q": "Nếu điều trị bảo tồn 5-7 ngày thất bại (lượng dịch > 1000ml/ngày), chỉ định tiếp theo là:",
+          "options": [
+            "Tiếp tục bảo tồn thêm 2 tuần",
+            "Phẫu thuật thắt ống ngực (qua nội soi lồng ngực)",
+            "Dùng thuốc lợi tiểu liều cao",
+            "Chạy thận nhân tạo"
+          ],
+          "answer": 1,
+          "explain": "Nếu lưu lượng lớn (>1L/ngày) hoặc kéo dài >5-7 ngày không giảm, cần phẫu thuật thắt ống ngực (trên cơ hoành) để ngăn biến chứng suy kiệt."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 40 tuổi nuốt nghẹn thất thường tăng khi xúc động",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 40 tuổi.<br><br><b>Tiền sử:</b> Không hút thuốc.<br><br><b>Bệnh sử:</b> Vào viện vì nuốt nghẹn thất thường (lúc nghẹn lúc không, tăng khi xúc động) kéo dài 2 năm nay. Gần đây nghẹn nhiều hơn kèm trào ngược thức ăn cũ.<br><br><b>Xét nghiệm:</b> X-quang thực quản có uống Baryt thấy hình ảnh thực quản giãn to, đoạn dưới chít hẹp thuôn nhỏ hình \"mỏ chim\" (Bird's beak). Nội soi thấy đọng nhiều thức ăn, tâm vị co thắt chặt nhưng máy soi vẫn qua được khi ấn nhẹ (pop sound). Sinh thiết niêm mạc bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán có khả năng nhất là:",
+          "options": [
+            "Ung thư thực quản thể thâm nhiễm",
+            "Co thắt tâm vị (Achalasia)",
+            "Túi thừa Zenker",
+            "Hẹp thực quản do sẹo bỏng"
+          ],
+          "answer": 1,
+          "explain": "Hình ảnh \"mỏ chim\", giãn thực quản, tiền sử nuốt nghẹn kéo dài ở nữ trẻ tuổi là điển hình của Achalasia."
+        },
+        {
+          "q": "Tuy nhiên, cần cảnh giác với \"Pseudoachalasia\" (Giả co thắt tâm vị) do ung thư vùng tâm vị gây ra. Đặc điểm nào gợi ý Ung thư hơn là Achalasia nguyên phát?",
+          "options": [
+            "Tuổi > 60, diễn biến nhanh (< 6 tháng), sụt cân nhiều.",
+            "Tuổi trẻ, diễn biến kéo dài nhiều năm",
+            "Triệu chứng tăng khi xúc động",
+            "Đáp ứng tốt với thuốc giãn cơ"
+          ],
+          "answer": 0,
+          "explain": "Pseudoachalasia thường do u ác tính vùng tâm vị thâm nhiễm vào đám rối thần kinh Auerbach. Gợi ý: Lớn tuổi, bệnh sử ngắn, sụt cân nhanh, không qua được máy soi dễ dàng."
+        },
+        {
+          "q": "Nếu bệnh nhân này tiến triển thành ung thư thực quản sau 20 năm, cơ chế bệnh sinh là do:",
+          "options": [
+            "Nhiễm virus HPV",
+            "Viêm mạn tính do ứ đọng thức ăn kéo dài",
+            "Do dùng thuốc giãn cơ trơn",
+            "Do trào ngược dịch mật"
+          ],
+          "answer": 1,
+          "explain": "Ứ đọng thức ăn gây viêm niêm mạc mạn tính làm tăng nguy cơ ung thư tế bào vảy (SCC) gấp 10-50 lần so với người thường."
+        },
+        {
+          "q": "Xét nghiệm nào là \"Tiêu chuẩn vàng\" để chẩn đoán xác định rối loạn vận động thực quản trong trường hợp này?",
+          "options": [
+            "CT Scanner",
+            "Đo áp lực thực quản độ phân giải cao (High-resolution Manometry)",
+            "MRI",
+            "Siêu âm ổ bụng"
+          ],
+          "answer": 1,
+          "explain": "Manometry là tiêu chuẩn vàng chẩn đoán Achalasia (thấy mất nhu động thân thực quản, tăng áp lực cơ thắt dưới, không giãn khi nuốt)."
+        },
+        {
+          "q": "Phương pháp phẫu thuật kinh điển điều trị bệnh lý này (Heller myotomy) bao gồm thì:",
+          "options": [
+            "Cắt đoạn thực quản",
+            "Mở cơ thắt thực quản dưới + Tạo van chống trào ngược",
+            "Khâu thắt tâm vị",
+            "Nối vị tràng"
+          ],
+          "answer": 1,
+          "explain": "Phẫu thuật Heller (cắt mở cơ vòng thực quản dưới) bắt buộc phải kèm theo tạo van chống trào ngược (Dor hoặc Toupet) vì cơ chế đóng tâm vị đã bị phá hủy."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi suy kiệt kèm viêm phổi hít",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi.<br><br><b>Bệnh sử:</b> Có rò khí thực quản gây viêm phổi hít tái diễn.<br><br><b>Khám lâm sàng:</b> Bệnh nhân suy kiệt nặng, BMI 16.<br><br><b>Xét nghiệm:</b> Chẩn đoán K thực quản 1/3 giữa T4bN2M0 (xâm lấn khí quản và động mạch chủ).",
+      "questions": [
+        {
+          "q": "Phân loại T4b đồng nghĩa với:",
+          "options": [
+            "Khối u có thể cắt bỏ được (Resectable)",
+            "Khối u không thể cắt bỏ (Unresectable)",
+            "Khối u chỉ xâm lấn màng phổi",
+            "Khối u kích thước < 2cm"
+          ],
+          "answer": 1,
+          "explain": "T4b (xâm lấn cấu trúc không thể cắt bỏ như Aorta, Khí quản, Cột sống) -> Unresectable. T4a (màng phổi, màng tim, cơ hoành) -> Resectable."
+        },
+        {
+          "q": "Mục tiêu điều trị chính cho bệnh nhân này là:",
+          "options": [
+            "Phẫu thuật triệt căn mở rộng",
+            "Chăm sóc giảm nhẹ (Palliative), kiểm soát đường rò và dinh dưỡng",
+            "Ghép thực quản",
+            "Cắt dây thần kinh phế vị"
+          ],
+          "answer": 1,
+          "explain": "Giai đoạn cuối, thể trạng kém, có biến chứng rò -> Palliative care là chủ đạo."
+        },
+        {
+          "q": "Lựa chọn can thiệp tối ưu để bịt lỗ rò và cho phép bệnh nhân ăn uống trở lại là:",
+          "options": [
+            "Khâu lỗ rò qua nội soi",
+            "Đặt Stent thực quản có phủ (Covered SEMS)",
+            "Đặt Sonde dạ dày",
+            "Dùng keo sinh học"
+          ],
+          "answer": 1,
+          "explain": "Stent có phủ (Covered stent) giúp che phủ lỗ rò, ngăn thức ăn vào đường thở, là biện pháp hiệu quả nhất để cải thiện chất lượng sống."
+        },
+        {
+          "q": "Chống chỉ định của đặt Stent thực quản bao gồm tập hợp các yếu tố:\n(1) U sùi hoại tử chảy máu nhiều\n(2) U nằm sát cơ thắt thực quản trên (cách < 2cm)\n(3) Bệnh nhân tuân thủ điều trị kém\n(4) Thể trạng suy kiệt",
+          "options": [
+            "1, 2",
+            "3, 4",
+            "1, 3",
+            "2, 4"
+          ],
+          "answer": 0,
+          "explain": "(1) Nguy cơ chảy máu ồ ạt; (2) Stent sát cơ thắt trên gây cảm giác vướng víu, đau đớn không chịu nổi và nguy cơ di lệch vào họng gây ngạt thở."
+        },
+        {
+          "q": "Nếu đặt stent thất bại hoặc không khả thi, để nuôi dưỡng lâu dài, đường tiếp cận nào ưu việt hơn mở thông dạ dày (Gastrostomy) ở bệnh nhân rò thực quản?",
+          "options": [
+            "Mở thông hỗng tràng (Jejunostomy)",
+            "Mở thông thực quản cổ",
+            "Nuôi dưỡng tĩnh mạch hoàn toàn",
+            "Đặt sonde mũi - tá tràng"
+          ],
+          "answer": 0,
+          "explain": "Mở thông dạ dày làm tăng nguy cơ trào ngược (GERD), chất trào ngược có thể qua lỗ rò vào phổi. Mở thông hỗng tràng giảm thiểu nguy cơ này và là đường nuôi dưỡng sinh lý lâu dài tốt nhất."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 56 tuổi tình cờ phát hiện khối u thực quản",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 56 tuổi.<br><br><b>Tiền sử:</b> Khỏe mạnh.<br><br><b>Bệnh sử:</b> Tình cờ phát hiện u thực quản 1/3 giữa qua nội soi kiểm tra sức khỏe.<br><br><b>Xét nghiệm:</b> Giải phẫu bệnh: SCC. EUS: u xâm lấn lớp cơ (T2), hạch vùng nghi ngờ (N1). PET/CT chưa thấy di căn xa.<br><br><b>Tình trạng phẫu thuật:</b> Bệnh nhân được lên kế hoạch phẫu thuật sau hóa xạ trị tân bổ trợ.",
+      "questions": [
+        {
+          "q": "Trong phẫu thuật cắt thực quản, việc nạo vét hạch (Lymphadenectomy) có vai trò:",
+          "options": [
+            "Chỉ để chẩn đoán giai đoạn (Staging)",
+            "Điều trị (Curative) và chẩn đoán giai đoạn, giúp cải thiện sống còn",
+            "Không cần thiết nếu hình ảnh học thấy hạch nhỏ",
+            "Chỉ làm tăng biến chứng mà không có lợi ích"
+          ],
+          "answer": 1,
+          "explain": "Vét hạch chuẩn giúp loại bỏ nguồn di căn vi thể và xếp giai đoạn chính xác (Stage migration), là yếu tố then chốt tăng sống còn."
+        },
+        {
+          "q": "Số lượng hạch tối thiểu cần lấy để đánh giá chính xác giai đoạn N theo khuyến cáo (AJCC/NCCN) là:",
+          "options": [
+            "5 hạch",
+            "10 hạch",
+            "15-20 hạch",
+            "> 40 hạch"
+          ],
+          "answer": 2,
+          "explain": "Khuyến cáo cần vét tối thiểu 15 hạch (tốt nhất là > 23 hạch) để đảm bảo không bỏ sót giai đoạn N."
+        },
+        {
+          "q": "Đâu là một nhược điểm lớn của phẫu thuật Transhiatal (qua khe hoành - mổ bụng và cổ, không mở ngực) so với Transthoracic (có mở ngực)?",
+          "options": [
+            "Tỉ lệ rò miệng nối cao hơn",
+            "Không thể kiểm soát và vét hạch trung thất dưới sự quan sát trực tiếp",
+            "Thời gian mổ lâu hơn",
+            "Ảnh hưởng hô hấp nhiều hơn"
+          ],
+          "answer": 1,
+          "explain": "Phẫu thuật Transhiatal (Orringer) phẫu tích thực quản \"mù\" trong trung thất qua đường khe hoành, nên không thể vét hạch trung thất triệt để như đường ngực (Transthoracic)."
+        },
+        {
+          "q": "Biến chứng \"Conduit necrosis\" (Hoại tử ống dạ dày tạo hình) thường do tổn thương mạch máu nào trong quá trình phẫu tích?",
+          "options": [
+            "Động mạch vị trái",
+            "Động mạch vị mạc nối phải (Right gastroepiploic artery)",
+            "Động mạch lách",
+            "Động mạch gan chung"
+          ],
+          "answer": 1,
+          "explain": "Ống dạ dày được nuôi dưỡng chủ yếu bởi cung động mạch vị mạc nối PHẢI. Tổn thương mạch này làm thiếu máu nuôi -> hoại tử ống ghép (biến chứng thảm khốc)."
+        },
+        {
+          "q": "Dấu hiệu nội soi của hoại tử ống dạ dày giai đoạn sớm là:",
+          "options": [
+            "Niêm mạc hồng hào",
+            "Niêm mạc chuyển màu đen hoặc tím đen",
+            "Có nhiều dịch mật",
+            "Có polyp trong lòng ống"
+          ],
+          "answer": 1,
+          "explain": "Niêm mạc đen/tím đen là dấu hiệu hoại tử thiếu máu cục bộ. Cần mổ lại tháo bỏ ống ghép ngay."
+        }
+      ]
+    }
+  ]
+}
