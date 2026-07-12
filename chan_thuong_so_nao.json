@@ -1,0 +1,620 @@
+{
+  "name": "Chấn thương sọ não",
+  "description": "Case lâm sàng chấn thương sọ não: máu tụ ngoài màng cứng cấp, máu tụ dưới màng cứng cấp/mạn, dập não, DAI, chấn động não, vỡ sọ lún hở, rò CSF, chấn thương nhi khoa, xuất huyết dưới nhện, vết thương thấu sọ. Đầy đủ chiến lược chẩn đoán, xử trí cấp cứu, phẫu thuật theo ATLS, Brain Trauma Foundation, PECARN, Canadian CT Head Rule.",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Thần kinh",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 24 tuổi, công nhân xây dựng, ngã từ giáo 3m, đầu đập nền cứng",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 24 tuổi, công nhân xây dựng, được đưa vào cấp cứu sau khi ngã giáo từ độ cao 3m, đầu đập xuống nền cứng. Bệnh nhân có khoảng tỉnh ngắn sau tai nạn, sau đó lơ mơ dần.<br><br><b>Tiền sử:</b> Khỏe mạnh, không dùng thuốc, hút thuốc 5 bao.năm.<br><br><b>Khám lâm sàng:</b> GCS 9 điểm (E2V3M4), đồng tử phải giãn 4mm phản xạ ánh sáng kém, đồng tử trái 2mm nhạy. Liệt 1/2 người trái. Mạch 55 lần/phút, HA 150/90 mmHg, SpO₂ 96% khí phòng, nhịp thở 16 lần/phút kiểu Cheyne-Stokes. Đầu có khối sưng nề vùng thái dương phải. Không chảy máu mũi tai, không dấu hiệu Battle.<br><br><b>Cận lâm sàng:</b> CT scan sọ não không cản quang thấy khối tăng tỷ trọng hình thấu kính hai mặt lồi vùng thái dương phải, đè đẩy đường giữa sang trái 8mm. Công thức máu bình thường, đông máu bình thường. Glucose 5.5 mmol/L, Ethanol âm tính.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định phù hợp nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Máu tụ dưới màng cứng cấp tính",
+            "Máu tụ ngoài màng cứng cấp tính",
+            "Xuất huyết dưới nhện",
+            "Dập não trán hai bên"
+          ],
+          "answer": 1,
+          "explain": "Hình ảnh thấu kính hai mặt lồi (biconvex) trên CT và lâm sàng có khoảng tỉnh là điển hình của máu tụ ngoài màng cứng (EDH). Máu tụ dưới màng cứng thường hình liềm."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính gây ra dấu hiệu sinh tồn (mạch chậm, HA tăng) ở bệnh nhân này là gì?",
+          "options": [
+            "Phản xạ Cushing do tăng áp lực nội sọ",
+            "Sốc mất máu giai đoạn bù trừ",
+            "Phản xạ giao cảm do đau",
+            "Tổn thương trực tiếp thân não"
+          ],
+          "answer": 0,
+          "explain": "Tam chứng Cushing (mạch chậm, huyết áp tăng, rối loạn nhịp thở) là phản ứng sinh lý điển hình khi áp lực nội sọ (ICP) tăng cao đe dọa tụt kẹt não."
+        },
+        {
+          "q": "Chỉ định xử trí ưu tiên hàng đầu ngay lập tức là gì?",
+          "options": [
+            "Chụp MRI sọ não để đánh giá tổn thương trục lan tỏa",
+            "Dùng Mannitol 20% liều 1g/kg và chuyển mổ cấp cứu",
+            "Đặt dẫn lưu não thất ra ngoài",
+            "Theo dõi GCS mỗi 15 phút tại phòng cấp cứu"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có dấu hiệu dọa tụt não (giãn đồng tử, Cushing), cần chống phù não ngay (Mannitol/muối ưu trương) và phẫu thuật giải áp tối khẩn cấp. MRI mất thời gian, theo dõi đơn thuần sẽ dẫn đến tử vong."
+        },
+        {
+          "q": "Nguồn chảy máu thường gặp nhất trong bệnh cảnh này xuất phát từ động mạch nào?",
+          "options": [
+            "Động mạch não giữa",
+            "Động mạch não trước",
+            "Động mạch màng não giữa",
+            "Động mạch thông sau"
+          ],
+          "answer": 2,
+          "explain": "Vùng thái dương là vị trí yếu của hộp sọ (pterion), nơi đi qua của động mạch màng não giữa (nhánh của ĐM hàm trong), là nguồn chảy máu phổ biến nhất của EDH."
+        },
+        {
+          "q": "Tiêu chuẩn nào sau đây là chỉ định phẫu thuật lấy máu tụ ngoài màng cứng theo Guideline Brain Trauma Foundation?",
+          "options": [
+            "Thể tích khối máu tụ > 30 cm³ bất kể điểm GCS",
+            "Chỉ mổ khi GCS < 8 điểm",
+            "Di lệch đường giữa > 3mm",
+            "Bề dày khối máu tụ > 10mm trên phim CT"
+          ],
+          "answer": 0,
+          "explain": "Theo hướng dẫn phẫu thuật thần kinh: Máu tụ ngoài màng cứng thể tích > 30 cm³ nên được phẫu thuật bất kể điểm GCS (công thức tính thể tích A × B × C / 2)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 78 tuổi, dùng Warfarin, rối loạn tri giác tăng dần 3 tuần",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 78 tuổi, hưu trí, nhập viện vì đau đầu và yếu nhẹ nửa người phải tăng dần trong 3 tuần. Cách đây 1 tháng bệnh nhân bị ngã đập đầu nhẹ vào cạnh tủ, không bất tỉnh, không đi khám.<br><br><b>Tiền sử:</b> Rung nhĩ đang điều trị Warfarin (INR = 3.5), tăng huyết áp.<br><br><b>Khám lâm sàng:</b> Tỉnh, GCS 14 điểm (E4V4M6), tiếp xúc chậm. Đồng tử hai bên 3mm đều, phản xạ ánh sáng (+). Yếu nhẹ tay chân phải cơ lực 4/5. Không dấu hiệu màng não, không sốt. Tim loạn nhịp hoàn toàn. HA 140/80 mmHg.<br><br><b>Cận lâm sàng:</b> CT scan: Hình ảnh tăng tỷ trọng hỗn hợp hình liềm vùng trán đỉnh trái, xóa mờ rãnh cuộn não, đẩy đường giữa sang phải 6mm.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hình ảnh học mô tả trên phim CT tương ứng với tổn thương nào?",
+          "options": [
+            "Máu tụ ngoài màng cứng mạn tính",
+            "Máu tụ dưới màng cứng mạn tính đợt cấp",
+            "U màng não xuất huyết",
+            "Nhồi máu não diện rộng chuyển dạng xuất huyết"
+          ],
+          "answer": 1,
+          "explain": "Hình ảnh hình liềm (crescent) và diễn biến bán cấp/mạn tính gợi ý máu tụ dưới màng cứng (SDH). Tăng tỷ trọng hỗn hợp gợi ý có máu mới chảy trên nền cũ (đợt cấp)."
+        },
+        {
+          "q": "Yếu tố nguy cơ quan trọng nhất thúc đẩy tình trạng chảy máu ở bệnh nhân này là gì?",
+          "options": [
+            "Tuổi cao gây teo não làm căng các tĩnh mạch cầu (bridging veins)",
+            "Tăng huyết áp không kiểm soát",
+            "Sử dụng thuốc chống đông kháng Vitamin K",
+            "Giới tính nữ"
+          ],
+          "answer": 0,
+          "explain": "Mặc dù Warfarin làm nặng thêm tình trạng chảy máu, nhưng cơ chế/yếu tố nguy cơ nền tảng của SDH mạn ở người già là teo não làm căng dãn và dễ vỡ các tĩnh mạch cầu nối vỏ não."
+        },
+        {
+          "q": "Chiến lược điều trị rối loạn đông máu trước phẫu thuật ở bệnh nhân này là gì?",
+          "options": [
+            "Truyền tiểu cầu khối máy",
+            "Tiêm Protamine sulfate",
+            "Dừng Warfarin, dùng Vitamin K và truyền Plasma tươi đông lạnh (FFP) hoặc phức hợp Prothrombin cô đặc (PCC)",
+            "Chỉ cần dừng Warfarin, chờ INR về bình thường tự nhiên"
+          ],
+          "answer": 2,
+          "explain": "Với bệnh nhân dùng Warfarin có INR cao cần phẫu thuật thần kinh, bắt buộc phải đảo ngược đông máu nhanh chóng bằng Vitamin K + FFP hoặc PCC (PCC ưu việt hơn vì thể tích nhỏ và tác dụng nhanh)."
+        },
+        {
+          "q": "Đặc điểm nào sau đây KHÔNG phù hợp với máu tụ dưới màng cứng mạn tính?",
+          "options": [
+            "Thường gặp ở người già và người nghiện rượu",
+            "Có màng bao (capsule) rõ rệt bao quanh khối máu tụ",
+            "Nguồn chảy máu chủ yếu từ động mạch não giữa",
+            "Dịch bên trong thường là dịch lỏng màu sô-cô-la hoặc dầu nhớt"
+          ],
+          "answer": 2,
+          "explain": "Máu tụ dưới màng cứng mạn tính xuất phát từ tĩnh mạch, KHÔNG phải động mạch não giữa (nguồn của EDH). Các ý A, B, D đều đúng."
+        },
+        {
+          "q": "Nếu bệnh nhân tri giác giảm xuống GCS 12, phương pháp phẫu thuật thường được lựa chọn nhất là gì?",
+          "options": [
+            "Mở nắp sọ giải áp (Decompressive craniectomy)",
+            "Khoan sọ dẫn lưu (Burr hole drainage)",
+            "Chọc hút qua da",
+            "Mở sọ lấy máu tụ (Craniotomy) bóc bỏ vỏ bao"
+          ],
+          "answer": 1,
+          "explain": "Phẫu thuật tiêu chuẩn vàng cho SDH mạn tính có triệu chứng là khoan sọ dẫn lưu (Burr hole) và bơm rửa, tỷ lệ tái phát thấp hơn chọc hút và ít xâm lấn hơn mở sọ lớn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi, tai nạn xe máy, bất tỉnh 2 phút, GCS 15 sau khi tỉnh",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 30 tuổi được đưa vào viện sau tai nạn xe máy (có đội mũ bảo hiểm). Bệnh nhân khai có bất tỉnh khoảng 2 phút sau tai nạn, sau đó tỉnh lại hoàn toàn. Hiện tại bệnh nhân kêu đau đầu nhẹ, buồn nôn nhưng không nôn.<br><br><b>Tiền sử:</b> Khỏe mạnh.<br><br><b>Khám lâm sàng:</b> GCS 15 điểm, không dấu hiệu thần kinh khu trú. Sưng nề nhẹ vùng chẩm. Không có dấu hiệu vỡ nền sọ. X-quang cột sống cổ thẳng nghiêng bình thường. Bệnh nhân lo lắng muốn về nhà.",
+      "questions": [
+        {
+          "q": "Theo tiêu chuẩn Canadian CT Head Rule, dấu hiệu nào sau đây BẮT BUỘC phải chụp CT sọ não ở bệnh nhân chấn thương sọ não nhẹ (GCS 13-15)?",
+          "options": [
+            "Đau đầu nhẹ",
+            "Tuổi < 60",
+            "Nôn ≥ 2 lần",
+            "Chóng mặt khi thay đổi tư thế"
+          ],
+          "answer": 2,
+          "explain": "Theo Canadian CT Head Rule: Nguy cơ cao cần chụp CT gồm: GCS < 15 sau 2h, nghi ngờ lún sọ/vỡ nền sọ, nôn ≥ 2 lần, tuổi ≥ 65. Đau đầu nhẹ không phải chỉ định bắt buộc."
+        },
+        {
+          "q": "Chẩn đoán lâm sàng hiện tại phù hợp nhất là gì?",
+          "options": [
+            "Chấn động não (Concussion)",
+            "Dập não",
+            "Tổn thương sợi trục lan tỏa",
+            "Máu tụ trong não"
+          ],
+          "answer": 0,
+          "explain": "Bệnh cảnh bất tỉnh ngắn, GCS 15, không dấu hiệu thần kinh khu trú phù hợp nhất với chấn động não (tổn thương chức năng, thường không thấy trên CT)."
+        },
+        {
+          "q": "Lời khuyên nào sau đây là SAI khi hướng dẫn người nhà theo dõi bệnh nhân sau khi xuất viện (nếu CT bình thường)?",
+          "options": [
+            "Đánh thức bệnh nhân mỗi 2 giờ trong đêm đầu tiên để kiểm tra tri giác",
+            "Quay lại viện ngay nếu đau đầu dữ dội hoặc nôn vọt",
+            "Cho bệnh nhân uống thuốc an thần mạnh để ngủ ngon giấc",
+            "Tránh vận động thể lực mạnh trong vài ngày"
+          ],
+          "answer": 2,
+          "explain": "Tuyệt đối KHÔNG dùng thuốc an thần/ngủ mạnh vì sẽ làm che lấp dấu hiệu tri giác xấu đi (hôn mê) do máu tụ thứ phát."
+        },
+        {
+          "q": "Triệu chứng nào thuộc 'Hội chứng sau chấn động não' có thể kéo dài nhiều tuần đến nhiều tháng?",
+          "options": [
+            "Sốt cao liên tục",
+            "Liệt nửa người",
+            "Rối loạn giấc ngủ, khó tập trung, đau đầu",
+            "Mất ngôn ngữ vận động"
+          ],
+          "answer": 2,
+          "explain": "Hội chứng sau chấn động não (Postconcussion syndrome) bao gồm: đau đầu, chóng mặt, khó tập trung, rối loạn giấc ngủ, thay đổi tính tình."
+        },
+        {
+          "q": "Trong phân loại chấn thương sọ não theo độ nặng dựa vào GCS, mức độ 'Nhẹ' tương ứng với:",
+          "options": [
+            "GCS 14–15",
+            "GCS 13–15",
+            "GCS 10–14",
+            "GCS 12–15"
+          ],
+          "answer": 1,
+          "explain": "Phân loại chuẩn: Nhẹ (GCS 13–15), Trung bình (GCS 9–12), Nặng (GCS 3–8)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi, tai nạn giao thông, hôn mê GCS 6, xuất huyết lan tỏa",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 40 tuổi, tai nạn giao thông, vào viện trong tình trạng hôn mê. GCS 6 điểm (E1V1M4).<br><br><b>Khám lâm sàng:</b> Huyết động ổn định: Mạch 90 l/p, HA 130/80 mmHg. Đồng tử hai bên 3mm, phản xạ ánh sáng (+). Không có liệt khu trú.<br><br><b>Cận lâm sàng:</b> CT scan cho thấy các ổ xuất huyết nhỏ rải rác ở ranh giới chất trắng - chất xám vùng trán, thể chai và thân não. Không có khối máu tụ lớn gây chèn ép, bể đáy còn thông thoáng. Cột sống cổ chưa loại trừ tổn thương.",
+      "questions": [
+        {
+          "q": "Hình ảnh CT và lâm sàng gợi ý chẩn đoán nào?",
+          "options": [
+            "Dập não trán hai bên",
+            "Tổn thương sợi trục lan tỏa (Diffuse Axonal Injury - DAI)",
+            "Xuất huyết não thất",
+            "Nhồi máu não thân nền"
+          ],
+          "answer": 1,
+          "explain": "Hôn mê sâu (GCS thấp) nhưng CT không thấy khối choán chỗ lớn, có xuất huyết nhỏ vùng ranh giới chất trắng/xám, thể chai, thân não -> Điển hình của DAI."
+        },
+        {
+          "q": "Phương pháp chẩn đoán hình ảnh nào có độ nhạy cao nhất để đánh giá mức độ tổn thương trong trường hợp này?",
+          "options": [
+            "CT scan mạch máu não (CTA)",
+            "X-quang sọ quy ước",
+            "Cộng hưởng từ (MRI) sọ não (đặc biệt chuỗi xung T2*/SWI)",
+            "Siêu âm xuyên sọ"
+          ],
+          "answer": 2,
+          "explain": "MRI (các xung nhạy từ tính như Gradient Echo hoặc SWI) nhạy hơn CT rất nhiều trong phát hiện các tổn thương vi thể của sợi trục."
+        },
+        {
+          "q": "Biện pháp nào là quan trọng nhất trong hồi sức ban đầu để ngăn ngừa tổn thương não thứ phát (Secondary brain injury)?",
+          "options": [
+            "Dùng Corticoid liều cao ngay lập tức",
+            "Kiểm soát đường thở và đảm bảo oxy hóa máu (tránh tụt HA và thiếu oxy)",
+            "Dùng thuốc chống động kinh dự phòng kéo dài",
+            "Phẫu thuật mở sọ thăm dò"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc vàng trong ATLS và Neurotrauma: Tránh tụt huyết áp (SBP < 90) và thiếu oxy (SpO2 < 90) vì chúng làm tăng tỷ lệ tử vong gấp đôi. Corticoid bị chống chỉ định trong CTSN (CRASH trial)."
+        },
+        {
+          "q": "Mục tiêu áp lực tưới máu não (CPP) cần duy trì ở bệnh nhân chấn thương sọ não nặng là bao nhiêu?",
+          "options": [
+            "50–60 mmHg",
+            "60–70 mmHg",
+            "> 80 mmHg",
+            "< 50 mmHg"
+          ],
+          "answer": 1,
+          "explain": "Theo Guideline Brain Trauma Foundation: Duy trì CPP trong khoảng 60–70 mmHg. CPP = MAP - ICP. Thấp quá gây thiếu máu, cao quá gây phù não/ARDS."
+        },
+        {
+          "q": "Chọn tập hợp các biện pháp làm giảm áp lực nội sọ (ICP) theo bậc thang điều trị: (1) Nằm đầu cao 30 độ, (2) Tăng thông khí cưỡng bức PaCO₂ < 25 mmHg, (3) An thần, giãn cơ, (4) Liệu pháp thẩm thấu (Mannitol/Muối ưu trương), (5) Dẫn lưu dịch não tủy?",
+          "options": [
+            "1, 3, 4, 5",
+            "1, 2, 3, 4",
+            "2, 3, 4, 5",
+            "1, 2, 4, 5"
+          ],
+          "answer": 0,
+          "explain": "Các biện pháp đúng: Đầu cao, An thần, Thẩm thấu, Dẫn lưu CSF. SAI: Tăng thông khí cưỡng bức đưa PaCO₂ < 25 mmHg gây co mạch não quá mức -> thiếu máu não cục bộ (chỉ dùng ngắn hạn, mục tiêu thông thường là PaCO2 35-40 mmHg)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 22 tuổi, tai nạn xe máy, dịch chảy từ mũi, Raccoon eyes",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 22 tuổi, vào viện sau tai nạn xe máy đập mặt xuống đường. Bệnh nhân tỉnh (GCS 15), kêu đau vùng mặt và chảy dịch trong qua mũi.<br><br><b>Khám lâm sàng:</b> Dấu hiệu bầm tím quanh hai mắt (Dấu hiệu kính râm - Raccoon eyes). Không liệt khu trú. Sinh hiệu ổn định. Chảy dịch trong suốt từ mũi.",
+      "questions": [
+        {
+          "q": "Dấu hiệu Raccoon eyes gợi ý tổn thương ở vị trí nào?",
+          "options": [
+            "Vỡ xương đá (tầng sọ giữa)",
+            "Vỡ tầng sọ trước",
+            "Vỡ tầng sọ sau",
+            "Vỡ xoang tĩnh mạch hang"
+          ],
+          "answer": 1,
+          "explain": "Raccoon eyes (bầm tím quanh mắt) đặc hiệu cho vỡ tầng sọ trước. Battle sign (bầm tím sau tai) đặc hiệu cho vỡ tầng sọ giữa (xương đá)."
+        },
+        {
+          "q": "Dịch chảy ra từ mũi nghi ngờ là dịch não tủy (CSF). Xét nghiệm nào giúp xác định nhanh và đặc hiệu?",
+          "options": [
+            "Định lượng Glucose trong dịch (so sánh với đường máu)",
+            "Tìm vòng Beta-2 transferrin",
+            "Soi tươi tìm tế bào",
+            "Đo pH dịch"
+          ],
+          "answer": 1,
+          "explain": "Beta-2 transferrin chỉ có trong dịch não tủy (và dịch ngoại dịch, dịch kính), không có trong dịch tiết mũi/máu, là tiêu chuẩn vàng chẩn đoán rò CSF. Định lượng đường có độ dương tính giả cao."
+        },
+        {
+          "q": "Thủ thuật nào sau đây là CHỐNG CHỈ ĐỊNH tuyệt đối (hoặc cần thận trọng tối đa) ở bệnh nhân này?",
+          "options": [
+            "Đặt ống thông dạ dày qua đường mũi (Nasogastric tube)",
+            "Đặt nội khí quản đường miệng",
+            "Chụp CT scan sọ não cắt lớp mỏng",
+            "Khâu vết thương phần mềm vùng trán"
+          ],
+          "answer": 0,
+          "explain": "Khi có nghi ngờ hoặc vỡ tầng sọ trước, việc đặt ống thông dạ dày qua mũi (Nasogastric tube) bị chống chỉ định vì ống có thể chọc qua vỡ sàn sọ vào nhu mô não. Phải đặt đường miệng."
+        },
+        {
+          "q": "Nguy cơ biến chứng muộn nguy hiểm nhất của rò dịch não tủy kéo dài là gì?",
+          "options": [
+            "Tụ khí nội sọ áp lực",
+            "Viêm màng não mủ ngược dòng",
+            "Mất mùi (tổn thương dây I)",
+            "Rối loạn điện giải do mất dịch"
+          ],
+          "answer": 1,
+          "explain": "Rò CSF tạo đường thông thương khoang dưới nhện với môi trường bên ngoài -> Nguy cơ cao Viêm màng não mủ."
+        },
+        {
+          "q": "Xử trí ban đầu phù hợp nhất với rò dịch não tủy sau chấn thương là gì?",
+          "options": [
+            "Mổ vá rò ngay lập tức",
+            "Nằm đầu bằng, dùng kháng sinh dự phòng liều cao",
+            "Nằm đầu cao, tránh hắt hơi/xì mũi, theo dõi (thường tự liền sau 7-10 ngày)",
+            "Chọc hút dịch não tủy thắt lưng liên tục"
+          ],
+          "answer": 2,
+          "explain": "Đa số rò CSF do chấn thương sẽ tự liền khi nghỉ ngơi, nằm đầu cao (giảm áp lực thủy tĩnh). Phẫu thuật chỉ đặt ra khi rò kéo dài > 1-2 tuần."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi, nghiện rượu nặng, tìm thấy bất động, hôn mê GCS 10, máu tụ dưới màng cứng",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 55 tuổi, tiền sử nghiện rượu nặng, được tìm thấy nằm bất động bên vệ đường. Vào viện GCS 10 điểm, nồng nặc mùi rượu.<br><br><b>Khám lâm sàng:</b> Có vết rách da đầu vùng đỉnh chẩm dài 5cm.<br><br><b>Cận lâm sàng:</b> CT scan sọ não: Máu tụ dưới màng cứng cấp tính bán cầu phải dày 8mm, đè đẩy đường giữa 4mm. Bể đáy còn thấy rõ. Không có tổn thương khác.",
+      "questions": [
+        {
+          "q": "Yếu tố nào làm tiên lượng của máu tụ dưới màng cứng (SDH) xấu hơn nhiều so với máu tụ ngoài màng cứng (EDH)?",
+          "options": [
+            "SDH thường đi kèm dập não nặng bên dưới",
+            "SDH có nguồn chảy máu từ động mạch",
+            "SDH thường gặp ở người trẻ",
+            "SDH không gây tăng áp lực nội sọ"
+          ],
+          "answer": 0,
+          "explain": "SDH cấp tính thường do cơ chế gia tốc lớn, gây đứt tĩnh mạch cầu VÀ dập não nhu mô bên dưới. EDH thường chỉ là tổn thương bóc tách màng cứng đơn thuần -> Tiên lượng SDH tồi hơn."
+        },
+        {
+          "q": "Với hình ảnh CT (dày 8mm, đẩy đường giữa 4mm, GCS 10), thái độ xử trí phù hợp nhất là gì?",
+          "options": [
+            "Phẫu thuật mở sọ giải áp ngay lập tức",
+            "Theo dõi sát tri giác và chụp lại CT não, điều trị nội khoa",
+            "Khoan sọ dẫn lưu",
+            "Cho về nhà theo dõi vì tổn thương nhỏ"
+          ],
+          "answer": 1,
+          "explain": "Theo chỉ định phẫu thuật (Bullock et al.): Mổ khi dày > 10mm HOẶC lệch > 5mm. Bệnh nhân này (8mm, lệch 4mm, GCS > 8) chưa đủ tiêu chuẩn mổ tuyệt đối -> Theo dõi sát tại ICU."
+        },
+        {
+          "q": "Trong quá trình theo dõi, bệnh nhân xuất hiện co giật toàn thể. Thuốc cắt cơn ưu tiên đường tĩnh mạch là gì?",
+          "options": [
+            "Phenytoin",
+            "Benzodiazepine (Diazepam/Midazolam)",
+            "Propofol",
+            "Barbiturate"
+          ],
+          "answer": 1,
+          "explain": "Để cắt cơn co giật đang diễn ra, nhóm Benzodiazepine là lựa chọn đầu tay. Phenytoin dùng để dự phòng/duy trì."
+        },
+        {
+          "q": "Bệnh nhân nghiện rượu có nguy cơ thiếu hụt Vitamin nào gây bệnh não Wernicke, cần bổ sung ngay trước khi truyền đường?",
+          "options": [
+            "Vitamin B12",
+            "Vitamin B1 (Thiamine)",
+            "Vitamin B6",
+            "Vitamin C"
+          ],
+          "answer": 1,
+          "explain": "Nghiện rượu -> thiếu Thiamine (B1). Truyền đường trước B1 sẽ thúc đẩy hội chứng Wernicke-Korsakoff. Quy tắc: B1 trước, Glucose sau."
+        },
+        {
+          "q": "Đồng tử bên phải bệnh nhân giãn dần từ 3mm lên 5mm. Điều này gợi ý thoát vị não loại nào?",
+          "options": [
+            "Thoát vị hạnh nhân tiểu não",
+            "Thoát vị dưới liềm đại não",
+            "Thoát vị qua lều (Uncal herniation)",
+            "Thoát vị trung tâm"
+          ],
+          "answer": 2,
+          "explain": "Giãn đồng tử cùng bên tổn thương là dấu hiệu sớm của thoát vị thùy thái dương qua lều (Uncal herniation) chèn ép dây III."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 18 tuổi, tai nạn xe máy tốc độ cao, đa chấn thương, sốc mất máu",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 18 tuổi, tai nạn xe máy tốc độ cao, đa chấn thương. Vào viện: GCS 5 điểm, Mạch 130 l/p, HA 80/40 mmHg.<br><br><b>Khám lâm sàng:</b> Bụng chướng, siêu âm FAST có nhiều dịch ổ bụng.<br><br><b>Cận lâm sàng:</b> CT sọ não: Máu tụ ngoài màng cứng vùng thái dương phải lớn, đè đẩy đường giữa 15mm.",
+      "questions": [
+        {
+          "q": "Nguyên nhân chính gây tụt huyết áp ở bệnh nhân này là gì?",
+          "options": [
+            "Sốc tủy",
+            "Sốc mất máu từ ổ bụng",
+            "Giai đoạn cuối của tăng áp lực nội sọ (Cushing đảo ngược)",
+            "Chấn thương tim"
+          ],
+          "answer": 1,
+          "explain": "Chấn thương sọ não đơn thuần hiếm khi gây tụt huyết áp (trừ giai đoạn hấp hối). Tụt áp + mạch nhanh ở bệnh nhân đa chấn thương -> Nghĩ ngay đến sốc mất máu (ở đây là chảy máu trong ổ bụng)."
+        },
+        {
+          "q": "Thái độ xử trí tối ưu nhất trong tình huống 'Vừa có khối máu tụ nội sọ dọa tụt não, vừa có sốc mất máu tụt huyết áp' là gì?",
+          "options": [
+            "Mổ sọ não trước, sau đó mới xử lý bụng",
+            "Mổ bụng cầm máu trước, sọ não mổ sau",
+            "Hồi sức chống sốc tích cực, mổ bụng cầm máu tối khẩn cấp đồng thời (hoặc ngay sau đó) mổ sọ não",
+            "Chuyển tuyến trên ngay lập tức"
+          ],
+          "answer": 2,
+          "explain": "Tình huống khó: Tụt áp làm giảm tưới máu não trầm trọng thêm CTSN. Không thể mổ não khi HA tụt, cũng không thể để não chờ quá lâu. Giải pháp: Vừa hồi sức dịch/máu + Mổ bụng cầm máu + Mổ não cùng lúc (hoặc ngay khi HA lên)."
+        },
+        {
+          "q": "Dịch truyền hồi sức ban đầu được lựa chọn là gì?",
+          "options": [
+            "Dung dịch ringer lactate hoặc muối đẳng trương 0.9%",
+            "Dung dịch đường 5%",
+            "Dung dịch nhược trương 0.45%",
+            "Albumin 20%"
+          ],
+          "answer": 0,
+          "explain": "Đẳng trương (NaCl 0.9%, Ringer) là lựa chọn đầu tay. Tránh đường (tăng chuyển hóa yếm khí não)."
+        },
+        {
+          "q": "Tại sao dung dịch nhược trương (hypotonic) bị chống chỉ định trong chấn thương sọ não?",
+          "options": [
+            "Gây tăng đường huyết",
+            "Gây phù não tế bào làm tăng áp lực nội sọ",
+            "Gây rối loạn đông máu",
+            "Gây suy thận cấp"
+          ],
+          "answer": 1,
+          "explain": "Dung dịch nhược trương (NaCl 0.45%) làm nước di chuyển vào tế bào não theo gradient thẩm thấu -> Gây phù não nặng."
+        },
+        {
+          "q": "Chỉ số Shock Index (SI = Mạch/Huyết áp tâm thu) của bệnh nhân là bao nhiêu và ý nghĩa?",
+          "options": [
+            "SI ~ 0.6, Sốc nhẹ",
+            "SI ~ 1.6, Sốc nặng",
+            "SI ~ 1.0, Sốc trung bình",
+            "SI ~ 2.0, Sốc nguy kịch"
+          ],
+          "answer": 1,
+          "explain": "SI = 130/80 = 1.62. Bình thường 0.5-0.7. > 0.9 là có sốc. > 1.3 là sốc nặng cần truyền máu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nữ 6 tháng tuổi, rơi từ giường, tụ máu da đầu, thóp phồng",
+      "body": "<b>Bệnh sử:</b> Bệnh nhi nữ 6 tháng tuổi, nhập viện vì quấy khóc và nôn sau khi ngã từ trên giường xuống nền gạch (độ cao 50cm). Khám: Tỉnh, thóp trước phồng nhẹ. Có khối sưng mềm vùng đỉnh phải, lan tỏa, không giới hạn rõ bởi đường khớp xương sọ. Da vùng sưng tím nhẹ. Vận động tứ chi bình thường.",
+      "questions": [
+        {
+          "q": "Đặc điểm khối sưng 'mềm, lan tỏa, vượt qua đường khớp' gợi ý chẩn đoán nào?",
+          "options": [
+            "Bướu huyết thanh (Caput succedaneum)",
+            "Tụ máu dưới màng xương (Cephalohematoma)",
+            "Tụ máu dưới cân Galea (Subgaleal hematoma)",
+            "Thoát vị não"
+          ],
+          "answer": 2,
+          "explain": "Tụ máu dưới cân Galea lan tỏa vì khoang dưới cân rất rộng -> vượt qua đường khớp. Tụ máu dưới màng xương (Cephalohematoma) bị giới hạn bởi đường khớp."
+        },
+        {
+          "q": "Nguy cơ lớn nhất của tụ máu dưới cân Galea ở trẻ nhỏ là gì?",
+          "options": [
+            "Chèn ép nhu mô não gây liệt",
+            "Mất máu khối lượng lớn gây sốc",
+            "Nhiễm trùng huyết",
+            "Vỡ lún sọ kèm theo"
+          ],
+          "answer": 1,
+          "explain": "Khoang dưới cân ở trẻ em có thể chứa thể tích máu rất lớn (lên tới 260ml). Với trẻ 6 tháng (thể tích máu ~ 600ml), mất máu vào khoang này có thể gây sốc mất máu và tử vong."
+        },
+        {
+          "q": "Trong chấn thương sọ não trẻ em (PECARN rule), dấu hiệu nào KHÔNG thuộc nhóm nguy cơ cao cần chụp CT ngay?",
+          "options": [
+            "GCS < 15",
+            "Nứt sọ sờ thấy được",
+            "Quấy khóc không dỗ được",
+            "Ngã từ độ cao thấp < 0.9m và không có triệu chứng thần kinh"
+          ],
+          "answer": 3,
+          "explain": "Theo PECARN: Cơ chế chấn thương nhẹ (ngã < 0.9m) và trẻ tỉnh táo, không dấu hiệu thần kinh là nhóm nguy cơ thấp, không cần chụp CT ngay."
+        },
+        {
+          "q": "Hội chứng rung lắc (Shaken baby syndrome) thường gây tổn thương đặc hiệu nào?",
+          "options": [
+            "Máu tụ ngoài màng cứng",
+            "Máu tụ dưới màng cứng kèm xuất huyết võng mạc",
+            "Vỡ xương đá",
+            "Vỡ xương hàm mặt"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng rung lắc: Cơ chế giằng xé tĩnh mạch cầu và mạch máu võng mạc -> Máu tụ dưới màng cứng + Xuất huyết võng mạc."
+        },
+        {
+          "q": "Xử trí khối máu tụ da đầu thông thường (không phải dưới cân Galea diện rộng) là gì?",
+          "options": [
+            "Chọc hút kim to",
+            "Rạch dẫn lưu",
+            "Băng ép và chườm lạnh, tự tan",
+            "Dùng thuốc tiêu sợi huyết"
+          ],
+          "answer": 2,
+          "explain": "Khối máu tụ da đầu thông thường tuyệt đối KHÔNG chọc hút/rạch (nguy cơ nhiễm trùng thành áp xe) trừ khi nhiễm trùng hóa mủ. Để tự tan, chườm lạnh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi, đột ngột đau đầu sét đánh, nôn, gáy cứng, xuất huyết dưới nhện",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 60 tuổi, tiền sử tăng huyết áp. Đột ngột đau đầu dữ dội như 'sét đánh' (thunderclap headache), sau đó nôn và gáy cứng. Không có tiền sử chấn thương rõ ràng. GCS 14 điểm.<br><br><b>Cận lâm sàng:</b> CT scan thấy hình ảnh tăng tỷ trọng ở các rãnh cuộn não, bể quanh cầu và bể Sylvius.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định trên CT là gì?",
+          "options": [
+            "Xuất huyết não thất",
+            "Xuất huyết dưới nhện (SAH)",
+            "Xuất huyết nhu mô não",
+            "Nhồi máu não diện rộng"
+          ],
+          "answer": 1,
+          "explain": "Máu trong khoang dưới nhện (rãnh cuộn não, bể não) -> Xuất huyết dưới nhện."
+        },
+        {
+          "q": "Nguyên nhân phổ biến nhất gây xuất huyết dưới nhện tự phát (không do chấn thương) là gì?",
+          "options": [
+            "Vỡ dị dạng thông động tĩnh mạch (AVM)",
+            "Vỡ phình động mạch não (Aneurysm)",
+            "Rối loạn đông máu",
+            "Tăng huyết áp"
+          ],
+          "answer": 1,
+          "explain": "80-85% SAH tự phát là do vỡ phình mạch não (Aneurysm). Nguyên nhân phổ biến nhất của SAH nói chung là chấn thương, nhưng câu hỏi là tự phát."
+        },
+        {
+          "q": "Biến chứng gây tử vong hoặc tàn phế cao xảy ra từ ngày thứ 4 đến ngày thứ 14 sau SAH là gì?",
+          "options": [
+            "Chảy máu tái phát (Rebleeding)",
+            "Co thắt mạch não (Vasospasm) gây nhồi máu thứ phát",
+            "Giãn não thất (Hydrocephalus)",
+            "Hạ Natri máu"
+          ],
+          "answer": 1,
+          "explain": "Co thắt mạch (Vasospasm) đạt đỉnh vào ngày 4-14, gây thiếu máu não cục bộ muộn (DCI). Chảy máu tái phát thường gặp nhất trong 24h đầu."
+        },
+        {
+          "q": "Thuốc chẹn kênh Canxi nào được chứng minh làm giảm biến chứng co thắt mạch trong SAH?",
+          "options": [
+            "Amlodipine",
+            "Nifedipine",
+            "Nimodipine",
+            "Verapamil"
+          ],
+          "answer": 2,
+          "explain": "Nimodipine (uống 60mg mỗi 4h) là chuẩn điều trị để cải thiện kết cục thần kinh liên quan đến co thắt mạch."
+        },
+        {
+          "q": "Thang điểm lâm sàng nào thường dùng để phân độ nặng của xuất huyết dưới nhện?",
+          "options": [
+            "Thang điểm Marshall",
+            "Thang điểm Hunt & Hess",
+            "Thang điểm Rotterdam",
+            "Thang điểm ASIA"
+          ],
+          "answer": 1,
+          "explain": "Hunt & Hess và WFNS là thang điểm lâm sàng dùng cho SAH. Marshall/Rotterdam dùng cho CT trong chấn thương."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi, vết thương thấu sọ do hỏa khí (súng bắn), GCS 7",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 35 tuổi, vào viện vì vết thương thấu sọ do hỏa khí (súng bắn). Lỗ vào vùng trán phải, lỗ ra vùng chẩm phải. GCS 7 điểm. Dấu hiệu sinh tồn ổn định.<br><br><b>Cận lâm sàng:</b> CT scan: Đường đi của đạn xuyên qua bán cầu phải, có nhiều mảnh xương vụn và mảnh kim khí trong nhu mô não, dập não xung quanh đường đạn.",
+      "questions": [
+        {
+          "q": "Trong vết thương hỏa khí, yếu tố vật lý nào quyết định mức độ phá hủy mô não lớn nhất?",
+          "options": [
+            "Hình dạng viên đạn",
+            "Vận tốc viên đạn (động năng E = 1/2 mv²)",
+            "Khối lượng viên đạn",
+            "Khoảng cách bắn"
+          ],
+          "answer": 1,
+          "explain": "Động năng tỷ lệ với bình phương vận tốc. Vận tốc cao gây sóng xung kích (shock wave) phá hủy não rộng hơn nhiều so với đường kính viên đạn."
+        },
+        {
+          "q": "Nguy cơ nhiễm trùng đặc biệt nào cần lưu ý ở vết thương thấu sọ?",
+          "options": [
+            "Viêm não virus",
+            "Áp xe não do mảnh xương/dị vật mang vi khuẩn vào sâu",
+            "Nhiễm nấm xâm lấn",
+            "Viêm tắc tĩnh mạch xoang"
+          ],
+          "answer": 1,
+          "explain": "Mảnh xương/tóc/dị vật bị cuốn vào sâu là ổ nhiễm trùng tiềm tàng gây áp xe não."
+        },
+        {
+          "q": "Nguyên tắc xử trí vết thương thấu sọ KHÔNG bao gồm điều nào?",
+          "options": [
+            "Cắt lọc sạch tổ chức não dập nát",
+            "Lấy bỏ tất cả các mảnh dị vật kim khí nằm sâu bằng mọi giá",
+            "Lấy bỏ các mảnh xương vụn có thể tiếp cận được",
+            "Khâu kín màng cứng"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc mổ: Lấy bỏ não dập, mảnh xương, dị vật dễ tiếp cận. KHÔNG cố tìm kiếm dị vật kim khí nằm sâu ở vùng não quan trọng nếu việc lấy bỏ gây tổn thương thêm."
+        },
+        {
+          "q": "Sử dụng kháng sinh trong vết thương thấu sọ như thế nào?",
+          "options": [
+            "Không cần thiết nếu đến sớm",
+            "Chỉ dùng kháng sinh Gram dương",
+            "Dùng kháng sinh phổ rộng, qua được hàng rào máu não (ví dụ Ceftriaxone + Metronidazole/Vancomycin)",
+            "Chỉ dùng khi có sốt"
+          ],
+          "answer": 2,
+          "explain": "Đây là vết thương bẩn, nguy cơ viêm màng não cao -> Kháng sinh phổ rộng, liều cao ngay lập tức."
+        },
+        {
+          "q": "Biến chứng động kinh trong vết thương thấu sọ là như thế nào?",
+          "options": [
+            "Rất hiếm gặp",
+            "Tỷ lệ cao (30-50%), cần dùng thuốc chống động kinh dự phòng (prophylaxis) ít nhất 7 ngày",
+            "Chỉ điều trị khi đã lên cơn co giật",
+            "Không đáp ứng với thuốc"
+          ],
+          "answer": 1,
+          "explain": "Vết thương thấu sọ có nguy cơ động kinh rất cao. Guideline khuyến cáo dùng thuốc chống động kinh (Phenytoin/Levetiracetam) dự phòng 7 ngày đầu."
+        }
+      ]
+    }
+  ]
+}
