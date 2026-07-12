@@ -1,0 +1,620 @@
+{
+  "name": "Viêm phúc mạc và áp xe",
+  "description": "Case lâm sàng bổ sung về viêm phúc mạc tiên phát (SBP), thứ phát, tam phát, áp xe tồn dư (dưới hoành, Douglas, gan), lao màng bụng, hồi sức sốc viêm phúc mạc, kỹ thuật rửa bụng, để hở bụng và chẩn đoán hình ảnh.",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Tiêu hóa",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 45 tuổi xơ gan Child-Pugh C, sốt nhẹ đau bụng",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 45 tuổi, tiền sử xơ gan do rượu (Child-Pugh C), cổ trướng nhiều, vào viện vì sốt nhẹ 37.8°C và đau khắp bụng âm ỉ. Bệnh nhân lơ mơ nhẹ (bệnh não gan độ I).<br><br><b>Khám lâm sàng:</b> Bụng chướng to, ấn đau khắp bụng nhưng không có phản ứng thành bụng hay co cứng thành bụng rõ rệt. Không có liềm hơi dưới hoành. WBC 10 G/L.<br><br><b>Xét nghiệm:</b> Chọc dịch màng bụng: Dịch màu vàng chanh, tế bào bạch cầu đa nhân trung tính (PMN) > 500 tế bào/mm³ (0.5 G/L), cấy dịch ra E. coli.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định là gì?",
+          "options": [
+            "A. Viêm phúc mạc thứ phát do thủng tạng rỗng",
+            "B. Viêm phúc mạc tiên phát (SBP - Spontaneous Bacterial Peritonitis)",
+            "C. Lao màng bụng",
+            "D. Viêm tụy cấp"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh xơ gan + Sốt nhẹ + Đau bụng lan toả + PMN dịch > 250 tế bào/μL → Viêm phúc mạc tiên phát (SBP). Không có dấu hiệu thủng tạng (không co cứng toàn bụng, không liềm hơi)."
+        },
+        {
+          "q": "Viêm phúc mạc tiên phát thường gặp nhất ở đối tượng nào?",
+          "options": [
+            "A. Trẻ em khoẻ mạnh",
+            "B. Người già suy kiệt",
+            "C. Bệnh nhân xơ gan cổ trướng hoặc Hội chứng thận hư (trẻ em)",
+            "D. Bệnh nhân sau mổ ruột thừa"
+          ],
+          "answer": 2,
+          "explain": "SBP thường xảy ra trên cơ địa có dịch cổ trướng (môi trường nuôi cấy tốt) và suy giảm miễn dịch như xơ gan hay hội chứng thận hư."
+        },
+        {
+          "q": "Cơ chế nhiễm khuẩn trong SBP chủ yếu là gì?",
+          "options": [
+            "A. Do thủng tạng rỗng",
+            "B. Do thẩm lậu vi khuẩn qua thành ruột (Bacterial Translocation) vào máu/bạch huyết rồi đến màng bụng",
+            "C. Do chấn thương",
+            "D. Do vi khuẩn từ ngoài da xâm nhập"
+          ],
+          "answer": 1,
+          "explain": "Vi khuẩn (chủ yếu Gram âm đường ruột như E.coli) vượt qua hàng rào niêm mạc ruột vào hạch mạc treo/máu rồi gieo rắc vào dịch cổ trướng. Không có ổ nhiễm trùng ngoại khoa (thủng/vỡ)."
+        },
+        {
+          "q": "Thái độ điều trị đúng với bệnh nhân này là gì?",
+          "options": [
+            "A. Mổ cấp cứu thám sát ngay lập tức",
+            "B. Điều trị nội khoa bằng kháng sinh (Cephalosporin thế hệ 3) và Albumin",
+            "C. Chỉ chọc tháo dịch",
+            "D. Mổ nội soi rửa bụng"
+          ],
+          "answer": 1,
+          "explain": "SBP là bệnh lý NỘI KHOA. Phẫu thuật làm tăng tỷ lệ tử vong do gây mê/rối loạn đông máu trên nền xơ gan. Chỉ mổ khi có bằng chứng rõ ràng của thủng tạng rỗng (khí tự do)."
+        },
+        {
+          "q": "Tiêu chuẩn chẩn đoán SBP dựa trên xét nghiệm dịch cổ trướng là gì?",
+          "options": [
+            "A. PMN > 250 tế bào/mm³",
+            "B. PMN > 100 tế bào/mm³",
+            "C. Hồng cầu > 10,000",
+            "D. Protein > 50 g/L"
+          ],
+          "answer": 0,
+          "explain": "PMN > 250/mm³ (hoặc > 0.25 G/L) là tiêu chuẩn vàng chẩn đoán SBP ngay cả khi cấy khuẩn âm tính."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 70 tuổi viêm túi thừa đại tràng Sigma vỡ, co cứng toàn bụng",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 70 tuổi, vào viện vì đau hố chậu trái và sốt cao 39°C.<br><br><b>Khám lâm sàng:</b> Bụng chướng, ấn đau và có phản ứng thành bụng rõ rệt ở hố chậu trái lan ra khắp bụng dưới. Bạch cầu 18 G/L.<br><br><b>Xét nghiệm hình ảnh:</b> CT scan: Hình ảnh viêm túi thừa đại tràng Sigma vỡ, có khí tự do ổ bụng và dịch đục vùng tiểu khung (Phân độ Hinchey III/IV - viêm phúc mạc mủ/phân).",
+      "questions": [
+        {
+          "q": "Đây là loại viêm phúc mạc gì?",
+          "options": [
+            "A. Tiên phát",
+            "B. Thứ phát (Secondary Peritonitis)",
+            "C. Tam phát",
+            "D. Viêm phúc mạc hoá học"
+          ],
+          "answer": 1,
+          "explain": "VPM thứ phát: Do mất sự toàn vẹn của ống tiêu hoá (thủng, vỡ) hoặc tạng khác vào ổ bụng."
+        },
+        {
+          "q": "Nguyên tắc điều trị cốt lõi của Viêm phúc mạc thứ phát là gì?",
+          "options": [
+            "A. Chỉ dùng kháng sinh",
+            "B. Kiểm soát nguồn nhiễm (Source Control) bằng phẫu thuật + Kháng sinh + Hồi sức",
+            "C. Chọc hút dẫn lưu",
+            "D. Lọc máu"
+          ],
+          "answer": 1,
+          "explain": "Source control (giải quyết nguyên nhân gây thủng, làm sạch ổ bụng) là quan trọng nhất. Kháng sinh không thể thay thế phẫu thuật."
+        },
+        {
+          "q": "Phẫu thuật kinh điển cho viêm phúc mạc do vỡ túi thừa đại tràng Sigma ở người già yếu (Hinchey III-IV) là gì?",
+          "options": [
+            "A. Phẫu thuật Hartmann (Cắt Sigma, đóng mỏm trực tràng, làm hậu môn nhân tạo)",
+            "B. Cắt Sigma và nối ngay (Primary anastomosis)",
+            "C. Khâu lỗ thủng túi thừa",
+            "D. Chỉ dẫn lưu ổ bụng"
+          ],
+          "answer": 0,
+          "explain": "Phẫu thuật Hartmann an toàn nhất trong cấp cứu, tránh nguy cơ bục miệng nối trong môi trường nhiễm phân."
+        },
+        {
+          "q": "Vi khuẩn thường gặp nhất gây viêm phúc mạc do thủng đại tràng là gì?",
+          "options": [
+            "A. Đơn vi khuẩn Gram dương",
+            "B. Đa vi khuẩn (Polymicrobial): Gram âm (E.coli) và Kỵ khí (Bacteroides fragilis)",
+            "C. Nấm Candida",
+            "D. Lao"
+          ],
+          "answer": 1,
+          "explain": "Đại tràng chứa lượng vi khuẩn khổng lồ, chủ yếu là Gram âm và Kỵ khí."
+        },
+        {
+          "q": "Lựa chọn kháng sinh theo kinh nghiệm cần bao phủ gì?",
+          "options": [
+            "A. Chỉ Gram dương",
+            "B. Gram âm hiếu khí và Vi khuẩn kỵ khí",
+            "C. Chỉ nấm",
+            "D. Tụ cầu vàng"
+          ],
+          "answer": 1,
+          "explain": "Cần phối hợp Cephalosporin thế hệ 3/4 + Metronidazole (diệt kỵ khí) hoặc dùng Carbapenem."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi sau mổ viêm phúc mạc ngày 14, sốt dai dẳng, cấy vi nấm",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 60 tuổi, sau mổ viêm phúc mạc do thủng dạ dày ngày thứ 14. Bệnh nhân vẫn sốt dai dẳng, suy kiệt, bụng chướng hơi, không có phản ứng thành bụng rõ rệt nhưng suy đa tạng tiến triển (suy thận, tụt huyết áp).<br><br><b>Xét nghiệm:</b> Cấy dịch ổ bụng qua dẫn lưu mọc Candida albicans và Enterococcus faecalis.",
+      "questions": [
+        {
+          "q": "Chẩn đoán thể bệnh là gì?",
+          "options": [
+            "A. Viêm phúc mạc tiên phát",
+            "B. Viêm phúc mạc thứ phát",
+            "C. Viêm phúc mạc tam phát (Tertiary Peritonitis)",
+            "D. Áp xe gan"
+          ],
+          "answer": 2,
+          "explain": "VPM tam phát: Tình trạng nhiễm trùng ổ bụng dai dẳng/tái phát sau khi đã xử lý nguồn gốc ban đầu, thường gặp ở bệnh nhân nằm ICU lâu ngày."
+        },
+        {
+          "q": "Đặc điểm của Viêm phúc mạc tam phát là gì?",
+          "options": [
+            "A. Nhiễm trùng dai dẳng hoặc tái phát sau khi đã điều trị VPM thứ phát > 48h, do vi khuẩn độc lực thấp hoặc nấm",
+            "B. Do thủng tạng rỗng mới",
+            "C. Do lao",
+            "D. Tiên lượng rất tốt"
+          ],
+          "answer": 0,
+          "explain": "Vi sinh vật thường là loại ít độc lực như Enterococcus, Candida, Staphylococcus epidermidis nhưng đa kháng thuốc, phát triển do loạn khuẩn và suy giảm miễn dịch."
+        },
+        {
+          "q": "Tiên lượng tử vong của VPM tam phát là bao nhiêu?",
+          "options": [
+            "A. Rất thấp",
+            "B. Rất cao (> 30-50%), khó điều trị dứt điểm",
+            "C. Bằng VPM tiên phát",
+            "D. Không đáng lo ngại"
+          ],
+          "answer": 1,
+          "explain": "Đây là nguyên nhân tử vong hàng đầu ở bệnh nhân ngoại khoa nằm ICU lâu dài."
+        },
+        {
+          "q": "Sự hiện diện của nấm Candida trong dịch ổ bụng gợi ý điều gì?",
+          "options": [
+            "A. Bệnh nhân bị nhiễm nấm da",
+            "B. Tình trạng nhiễm trùng nặng, suy giảm miễn dịch, dùng kháng sinh phổ rộng kéo dài, hoặc thủng đường tiêu hoá tái phát",
+            "C. Bình thường",
+            "D. Do ăn nhiều nấm"
+          ],
+          "answer": 1,
+          "explain": "Nấm xâm nhập sâu chứng tỏ hàng rào bảo vệ đã mất và hệ vi khuẩn đường ruột bị tiêu diệt bởi kháng sinh trước đó."
+        },
+        {
+          "q": "Chiến lược điều trị cho VPM tam phát là gì?",
+          "options": [
+            "A. Chỉ mổ lại đơn thuần",
+            "B. Hồi sức tích cực, Kháng sinh/Kháng nấm theo đích, Nâng cao thể trạng, Cân nhắc mổ lại nếu có ổ áp xe khu trú",
+            "C. Cắt bỏ toàn bộ ruột",
+            "D. Chạy thận nhân tạo là chính"
+          ],
+          "answer": 1,
+          "explain": "Phẫu thuật (Source control) trong VPM tam phát thường ít hiệu quả vì không còn một ổ nhiễm trùng khu trú rõ ràng. Điều trị hỗ trợ toàn diện là chính."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 35 tuổi sau cắt lách 10 ngày, sốt đau vai trái, nấc cụt",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 35 tuổi, sau mổ cắt lách do chấn thương 10 ngày. Nay sốt cao 39°C, đau tức hạ sườn trái lan lên vai trái, nấc cụt liên tục.<br><br><b>Khám lâm sàng:</b> Khám phổi đáy trái nghe giảm thông khí. X-quang ngực: Vòm hoành trái dâng cao, góc sườn hoành trái tù.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hướng tới là gì?",
+          "options": [
+            "A. Viêm đáy phổi trái",
+            "B. Áp xe dưới hoành trái (Left Subphrenic Abscess)",
+            "C. Áp xe gan",
+            "D. Viêm tụy cấp"
+          ],
+          "answer": 1,
+          "explain": "Tam chứng: Sốt + Đau hạ sườn/vai + Nấc/Khó thở sau mổ vùng bụng trên → Áp xe dưới hoành."
+        },
+        {
+          "q": "Triệu chứng 'nấc cụt' và 'đau lan lên vai' do kích thích dây thần kinh nào?",
+          "options": [
+            "A. Thần kinh liên sườn",
+            "B. Thần kinh hoành (Phrenic nerve - C3, C4, C5)",
+            "C. Thần kinh lang thang",
+            "D. Thần kinh tạng"
+          ],
+          "answer": 1,
+          "explain": "Ổ áp xe kích thích phúc mạc hoành → Dây thần kinh hoành → Gây nấc và đau quy chiếu vùng vai (Cung phản xạ C3-C5)."
+        },
+        {
+          "q": "Phương tiện chẩn đoán hình ảnh tốt nhất để xác định chẩn đoán là gì?",
+          "options": [
+            "A. X-quang bụng không chuẩn bị",
+            "B. Siêu âm bụng (có thể bị hạn chế do hơi góc lách)",
+            "C. CT scan bụng có cản quang",
+            "D. MRI"
+          ],
+          "answer": 2,
+          "explain": "CT scan nhạy nhất, định vị chính xác mối liên quan với phổi, lách, thận để dẫn lưu an toàn."
+        },
+        {
+          "q": "Điều trị ưu tiên cho ổ áp xe dưới hoành đã hoá mủ kích thước 8cm là gì?",
+          "options": [
+            "A. Mổ lại ngay lập tức",
+            "B. Chọc hút dẫn lưu qua da (Percutaneous Drainage - PCD) dưới hướng dẫn siêu âm/CT",
+            "C. Điều trị nội khoa kháng sinh liều cao",
+            "D. Chọc hút mù"
+          ],
+          "answer": 1,
+          "explain": "Dẫn lưu qua da (PCD) là tiêu chuẩn vàng (thành công > 80-90%), ít xâm lấn. Mổ lại chỉ khi PCD thất bại."
+        },
+        {
+          "q": "Nguyên nhân thường gặp gây áp xe dưới hoành trái sau cắt lách là gì?",
+          "options": [
+            "A. Tụ máu hố lách bị nhiễm trùng (Infected hematoma)",
+            "B. Thủng dạ dày",
+            "C. Viêm phổi",
+            "D. Thủng cơ hoành"
+          ],
+          "answer": 0,
+          "explain": "Sau cắt lách, máu tụ ở hố lách (nơi giàu mạch máu) là môi trường lý tưởng cho vi khuẩn phát triển."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 25 tuổi sau cắt ruột thừa ngày 7, sốt, đi ngoài nhầy, mót rặn",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 25 tuổi, sau mổ ruột thừa viêm phúc mạc ngày thứ 7. Bệnh nhân sốt lại, kèm đi ngoài phân lỏng, có nhầy (mucus), cảm giác mót rặn liên tục (tenesmus) và tiểu rắt/tiểu buốt.<br><br><b>Khám lâm sàng:</b> Bụng mềm. Khi thăm trực tràng: sờ thấy khối phồng đau, căng ở thành trước trực tràng, nhiệt độ nóng hơn bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hướng tới là gì?",
+          "options": [
+            "A. Viêm đại tràng",
+            "B. Áp xe túi cùng Douglas (Pelvic Abscess)",
+            "C. Nhiễm trùng tiết niệu",
+            "D. Áp xe gan"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng kích thích vùng chậu (Pelvic irritation): Ỉa lỏng/mót rặn + Tiểu rắt + Sốt sau mổ VPM → Áp xe Douglas (vị trí thấp nhất của ổ bụng)."
+        },
+        {
+          "q": "Động tác thăm khám lâm sàng quan trọng nhất để chẩn đoán là gì?",
+          "options": [
+            "A. Nghe bụng",
+            "B. Thăm trực tràng (Digital Rectal Exam - DRE)",
+            "C. Gõ bụng",
+            "D. Khám thận"
+          ],
+          "answer": 1,
+          "explain": "Thăm trực tràng giúp sờ thấy khối áp xe trực tiếp."
+        },
+        {
+          "q": "Tại sao áp xe Douglas lại gây triệu chứng mót rặn và tiểu rắt?",
+          "options": [
+            "A. Do khối áp xe chèn ép/kích thích trực tràng (phía sau) và bàng quang (phía trước)",
+            "B. Do vi khuẩn xâm nhập vào ruột và bàng quang",
+            "C. Do bệnh nhân uống ít nước",
+            "D. Do tác dụng phụ thuốc kháng sinh"
+          ],
+          "answer": 0,
+          "explain": "Cơ chế kích thích cơ học và viêm nhiễm tại chỗ."
+        },
+        {
+          "q": "Đường dẫn lưu ưu tiên cho áp xe Douglas đã hoá mủ rõ là gì?",
+          "options": [
+            "A. Mổ mở bụng đường trắng giữa",
+            "B. Chọc dẫn lưu qua thành trực tràng (nam/nữ) hoặc qua cùng đồ sau âm đạo (nữ)",
+            "C. Dẫn lưu qua thành bụng trước",
+            "D. Điều trị kháng sinh đơn thuần"
+          ],
+          "answer": 1,
+          "explain": "Dẫn lưu qua vách trực tràng/âm đạo là đường ngắn nhất, đi theo trọng lực, không cần mở bụng lại."
+        },
+        {
+          "q": "Ưu điểm chính của dẫn lưu qua ngả trực tràng/âm đạo so với mổ mở là gì?",
+          "options": [
+            "A. Đau lâu hơn",
+            "B. Tránh làm lan tràn mủ vào ổ bụng sạch phía trên, không cần mở bụng lại",
+            "C. Tốn kém hơn",
+            "D. Dễ gây xì ruột"
+          ],
+          "answer": 1,
+          "explain": "Dẫn lưu qua trực tràng/âm đạo tránh được các biến chứng của mổ mở lại như viêm dính, xì ruột."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 22 tuổi gầy sút, bụng chướng 3 tháng, sờ như 'túi bột'",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 22 tuổi, gầy sút cân, bụng chướng dần 3 tháng nay. Sốt nhẹ về chiều. Tiền sử gia đình có người bị lao phổi.<br><br><b>Khám lâm sàng:</b> Bụng chướng bè, gõ đục vùng thấp, nhưng cảm giác khi sờ nắn như 'sờ vào túi bột' (Doughy abdomen).",
+      "questions": [
+        {
+          "q": "Chẩn đoán khả năng nhất là gì?",
+          "options": [
+            "A. Xơ gan cổ trướng",
+            "B. Lao màng bụng (Tuberculous Peritonitis)",
+            "C. Ung thư màng bụng",
+            "D. Viêm ruột thừa"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng nhiễm lao chung (sốt chiều, gầy sút) + Cổ trướng mạn tính + Người trẻ → Lao màng bụng."
+        },
+        {
+          "q": "Dấu hiệu 'Bụng như túi bột' hay 'Bụng nệm mút' là do cơ chế gì?",
+          "options": [
+            "A. Dịch cổ trướng quá nhiều",
+            "B. Các quai ruột dính lại với nhau và dính vào thành bụng, mạc nối lớn dày lên, xen kẽ các ổ dịch khu trú",
+            "C. Thành bụng dày mỡ",
+            "D. Gan to"
+          ],
+          "answer": 1,
+          "explain": "Viêm dính mạn tính làm phúc mạc dày lên, mạc nối co cụm, ruột dính tạo cảm giác sờ mềm nhưng chắc."
+        },
+        {
+          "q": "Xét nghiệm dịch màng bụng trong lao màng bụng thường có đặc điểm là gì?",
+          "options": [
+            "A. Dịch thấm, tế bào thấp",
+            "B. Dịch tiết, ưu thế tế bào Lympho, Protein cao, ADA (Adenosine Deaminase) tăng cao (> 30-40 U/L)",
+            "C. Dịch máu",
+            "D. Ưu thế bạch cầu đa nhân"
+          ],
+          "answer": 1,
+          "explain": "ADA có độ nhạy và đặc hiệu cao cho lao màng bụng. Ưu thế Lymphocyte là đặc trưng của viêm mạn tính do lao."
+        },
+        {
+          "q": "Tiêu chuẩn vàng để chẩn đoán xác định (nếu xét nghiệm dịch không rõ) là gì?",
+          "options": [
+            "A. Soi dạ dày",
+            "B. Nội soi ổ bụng sinh thiết màng bụng/hạt lao (Laparoscopy)",
+            "C. Chụp X-quang bụng",
+            "D. Thử đờm"
+          ],
+          "answer": 1,
+          "explain": "Nội soi ổ bụng (Laparoscopy) thấy các hạt kê (tubercles) trên phúc mạc, sinh thiết tìm nang lao/trực khuẩn BK là tiêu chuẩn vàng."
+        },
+        {
+          "q": "Điều trị lao màng bụng chủ yếu là gì?",
+          "options": [
+            "A. Phẫu thuật bóc tách màng bụng",
+            "B. Điều trị nội khoa theo phác đồ chống lao (Anti-TB drugs)",
+            "C. Chọc tháo dịch liên tục",
+            "D. Ghép gan"
+          ],
+          "answer": 1,
+          "explain": "Lao màng bụng là bệnh nội khoa. Phẫu thuật chỉ khi có biến chứng (tắc ruột/thủng ruột) vì mổ gỡ dính rất khó."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi thủng dạ dày muộn, huyết áp 80/50, sốc",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 50 tuổi, thủng dạ dày đến muộn (giờ thứ 24). Bệnh nhân lơ mơ, HA 80/50 mmHg, Mạch 130 l/p, Da lạnh ẩm, Thiểu niệu.<br><br><b>Khám lâm sàng:</b> Bụng chướng căng.<br><br><b>Xét nghiệm:</b> Creatinin tăng, Hct tăng cao 50%.",
+      "questions": [
+        {
+          "q": "Cơ chế chính gây sốc ở bệnh nhân viêm phúc mạc giai đoạn này là gì?",
+          "options": [
+            "A. Sốc tim",
+            "B. Phối hợp Sốc giảm thể tích (Hypovolemic shock) và Sốc nhiễm khuẩn (Septic shock)",
+            "C. Sốc phản vệ",
+            "D. Sốc chấn thương"
+          ],
+          "answer": 1,
+          "explain": "VPM gây mất dịch (Sốc giảm thể tích) + Độc tố vi khuẩn vào máu (Sốc nhiễm khuẩn)."
+        },
+        {
+          "q": "Tại sao bệnh nhân viêm phúc mạc bị giảm thể tích tuần hoàn nặng dù không chảy máu ra ngoài?",
+          "options": [
+            "A. Do bệnh nhân không uống nước",
+            "B. Do hiện tượng 'thoát dịch vào khoang thứ 3': Dịch/Protein thoát mạch vào lòng ruột (liệt ruột) và khoang phúc mạc",
+            "C. Do nôn",
+            "D. Do toát mồ hôi"
+          ],
+          "answer": 1,
+          "explain": "Phúc mạc viêm tăng tính thấm, diện tích phúc mạc bằng diện tích da (1.7-2m²). Lượng dịch tiết ra và ứ đọng trong ruột liệt có thể lên đến 4-6 lít/ngày."
+        },
+        {
+          "q": "Hct tăng cao (Cô đặc máu) phản ánh điều gì?",
+          "options": [
+            "A. Bệnh nhân thừa máu",
+            "B. Mất nước nội mạch nghiêm trọng",
+            "C. Suy tuỷ",
+            "D. Nhiễm trùng"
+          ],
+          "answer": 1,
+          "explain": "Mất nước tương làm Hct tăng giả tạo. Cần bù dịch để Hct giảm về bình thường."
+        },
+        {
+          "q": "Bước hồi sức đầu tiên quan trọng nhất là gì?",
+          "options": [
+            "A. Truyền máu",
+            "B. Bù dịch điện giải (Tinh thể đẳng trương) khối lượng lớn và sớm để bù lại lượng dịch mất vào khoang thứ 3",
+            "C. Dùng thuốc vận mạch ngay khi chưa bù dịch",
+            "D. Mổ ngay lập tức"
+          ],
+          "answer": 1,
+          "explain": "'Resuscitation before Operation'. Bù dịch để nâng CVP/HA là ưu tiên số 1."
+        },
+        {
+          "q": "Hậu quả của việc mổ ngay khi chưa bù đủ khối lượng tuần hoàn là gì?",
+          "options": [
+            "A. Bệnh nhân hồi phục nhanh hơn",
+            "B. Truỵ tim mạch (Cardiovascular collapse) ngay khi khởi mê (do thuốc mê làm giãn mạch trên nền thiếu dịch)",
+            "C. Giảm chảy máu",
+            "D. Không ảnh hưởng gì"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc gây mê hồi sức: Không được khởi mê bệnh nhân đang sốc giảm thể tích chưa bù đủ dịch."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi mổ viêm phúc mạc toàn thể, phẫu thuật viên rửa bụng",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 40 tuổi, mổ viêm phúc mạc toàn thể do ruột thừa vỡ. Phẫu thuật viên tiến hành rửa ổ bụng (Peritoneal Lavage) bằng nước muối ấm.<br><br><b>Kỹ thuật:</b> Rửa ổ bụng nhiều lần cho đến khi nước thu hồi trong, không còn mủ/giả mạc.",
+      "questions": [
+        {
+          "q": "Mục đích chính của rửa ổ bụng là gì?",
+          "options": [
+            "A. Làm ấm bệnh nhân",
+            "B. Pha loãng và loại bỏ vi khuẩn, giả mạc, dịch mủ, chất bẩn - 'The solution to pollution is dilution'",
+            "C. Để quan sát giải phẫu",
+            "D. Để cầm máu"
+          ],
+          "answer": 1,
+          "explain": "Giảm tải lượng vi khuẩn (Bacterial load) xuống dưới mức gây bệnh là mục tiêu của rửa bụng."
+        },
+        {
+          "q": "Dung dịch rửa bụng được khuyến cáo là gì?",
+          "options": [
+            "A. Nước muối sinh lý (NaCl 0.9%) ấm, khối lượng lớn",
+            "B. Dung dịch pha kháng sinh",
+            "C. Dung dịch Betadine pha loãng",
+            "D. Nước cất"
+          ],
+          "answer": 0,
+          "explain": "Nước muối sinh lý ấm (tránh hạ thân nhiệt) là chuẩn."
+        },
+        {
+          "q": "Tại sao KHÔNG khuyến cáo pha kháng sinh vào dịch rửa bụng thường quy?",
+          "options": [
+            "A. Vì tốn kém",
+            "B. Vì có thể gây dính ruột nhiều hơn, gây ức chế hô hấp (Aminoglycosid) và không hiệu quả hơn rửa nước muối",
+            "C. Vì kháng sinh bị phân huỷ ngay",
+            "D. Vì làm lạnh bệnh nhân"
+          ],
+          "answer": 1,
+          "explain": "Các nghiên cứu không thấy lợi ích rõ ràng của kháng sinh tại chỗ so với dùng đường toàn thân."
+        },
+        {
+          "q": "Rửa bụng đến khi nào là đạt yêu cầu?",
+          "options": [
+            "A. Rửa hết 2 chai nước muối",
+            "B. Rửa đến khi nước thu hồi trong, không còn mủ/giả mạc",
+            "C. Rửa trong 5 phút",
+            "D. Rửa đến khi bệnh nhân tỉnh"
+          ],
+          "answer": 1,
+          "explain": "Tiêu chuẩn lâm sàng là nước trong (Clear fluid return)."
+        },
+        {
+          "q": "Vị trí cần chú ý rửa sạch và hút hết dịch để tránh áp xe tồn dư là vị trí nào?",
+          "options": [
+            "A. Vùng dưới hoành hai bên và túi cùng Douglas",
+            "B. Vùng quanh rốn",
+            "C. Vùng mạc nối lớn",
+            "D. Vùng thượng vị"
+          ],
+          "answer": 0,
+          "explain": "Dịch thường đọng ở nơi thấp (Douglas) và nơi áp suất âm hút lên (Dưới hoành) → Nguồn gốc áp xe tồn dư."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi viêm phúc mạc nặng, ruột phù nề to, để hở bụng",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 45 tuổi, viêm phúc mạc nặng do hoại tử ruột non. Sau khi cắt đoạn ruột, ruột còn lại phù nề rất to, thành bụng căng cứng.<br><br><b>Quyết định phẫu thuật:</b> Phẫu thuật viên quyết định KHÔNG đóng bụng ngay mà để hở bụng (Open Abdomen / Laparostomy) bằng túi Bogota hoặc hệ thống hút áp lực âm (VAC).",
+      "questions": [
+        {
+          "q": "Chỉ định chính của 'Để hở bụng' (Open Abdomen) trong viêm phúc mạc nặng là gì?",
+          "options": [
+            "A. Để dễ thay băng",
+            "B. Để phòng ngừa Hội chứng khoang bụng (ACS) và để thực hiện mổ lại theo kế hoạch",
+            "C. Do thiếu chỉ khâu",
+            "D. Để bệnh nhân dễ thở"
+          ],
+          "answer": 1,
+          "explain": "Ruột phù nề chiếm thể tích lớn. Đóng cưỡng bức sẽ gây ACS. Để hở giúp giải áp và cho phép rửa bụng lại sau 24-48h."
+        },
+        {
+          "q": "Nếu cố tình đóng bụng căng trong trường hợp các tạng phù nề quá mức sẽ dẫn đến hậu quả gì?",
+          "options": [
+            "A. Bệnh nhân nhanh liền vết mổ",
+            "B. Tăng áp lực ổ bụng (ACS) → Suy hô hấp, Suy thận, Giảm tưới máu ruột → Tử vong",
+            "C. Thoát vị thành bụng",
+            "D. Nhiễm trùng vết mổ"
+          ],
+          "answer": 1,
+          "explain": "ACS là nguyên nhân tử vong hàng đầu ở bệnh nhân VPM nặng sau mổ."
+        },
+        {
+          "q": "Phương pháp che phủ tạng tạm thời thường dùng nhất hiện nay là gì?",
+          "options": [
+            "A. Khâu da đơn thuần",
+            "B. Túi Bogota hoặc Hệ thống hút áp lực âm (VAC)",
+            "C. Đắp gạc khô",
+            "D. Để hở hoàn toàn không che gì"
+          ],
+          "answer": 1,
+          "explain": "VAC (hút chân không) là phương pháp tiên tiến nhất. Túi Bogota là phương pháp kinh điển, rẻ tiền."
+        },
+        {
+          "q": "Lợi ích của hút áp lực âm (VAC) trong ổ bụng là gì?",
+          "options": [
+            "A. Hút liên tục dịch viêm/mủ, giảm phù nề tạng, thu hẹp khoảng cách mép cân để đóng bụng thì 2 dễ hơn",
+            "B. Làm ấm ổ bụng",
+            "C. Giảm đau",
+            "D. Giết vi khuẩn"
+          ],
+          "answer": 0,
+          "explain": "VAC giúp dẫn lưu dịch bẩn liên tục và tạo lực hút giúp mép cơ không bị co rút quá xa."
+        },
+        {
+          "q": "Biến chứng đáng sợ nhất của để hở bụng nếu không chăm sóc tốt là gì?",
+          "options": [
+            "A. Rò ruột (Entero-atmospheric fistula) do ruột khô/dính vào gạc",
+            "B. Chảy máu",
+            "C. Lạnh bụng",
+            "D. Sẹo xấu"
+          ],
+          "answer": 0,
+          "explain": "Ruột lộ ra ngoài môi trường dễ bị khô, loét và rò dịch tiêu hoá. Rất khó xử lý."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 50 tuổi sốt kéo dài sau mổ đại tràng, nghi áp xe sâu",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 50 tuổi, sốt kéo dài sau mổ đại tràng. Nghi ngờ áp xe tồn dư sâu trong ổ bụng. Siêu âm bụng hạn chế do chướng hơi.<br><br><b>Chẩn đoán hình ảnh:</b> Cần xác định phương tiện tiêu chuẩn vàng để chẩn đoán áp xe.",
+      "questions": [
+        {
+          "q": "Phương tiện chẩn đoán hình ảnh 'Tiêu chuẩn vàng' (Gold Standard) để chẩn đoán áp xe trong ổ bụng là gì?",
+          "options": [
+            "A. X-quang bụng",
+            "B. CT scan bụng chậu có tiêm thuốc cản quang (Contrast-enhanced CT)",
+            "C. MRI",
+            "D. Chụp mạch máu"
+          ],
+          "answer": 1,
+          "explain": "CT cản quang có độ nhạy > 95% phát hiện áp xe."
+        },
+        {
+          "q": "Hình ảnh đặc trưng của ổ áp xe trên CT scan là gì?",
+          "options": [
+            "A. Khối tỷ trọng dịch, vỏ ngấm thuốc mạnh, bên trong có thể có khí, xung quanh thâm nhiễm mỡ",
+            "B. Khối đặc ngấm thuốc mạnh",
+            "C. Khối vôi hoá",
+            "D. Hình ảnh mức nước hơi"
+          ],
+          "answer": 0,
+          "explain": "Vỏ áp xe là tổ chức viêm giàu mạch máu → Ngấm thuốc (Ring-enhancing lesion). Lòng áp xe là mủ/hoại tử → Không ngấm thuốc."
+        },
+        {
+          "q": "Tại sao Siêu âm thường khó chẩn đoán áp xe sâu ở bệnh nhân sau mổ?",
+          "options": [
+            "A. Do bệnh nhân đau không ấn đầu dò được",
+            "B. Do hơi trong ruột (liệt ruột sau mổ) cản trở sóng âm và vết mổ/băng gạc che khuất",
+            "C. Do máy siêu âm độ phân giải thấp",
+            "D. Do áp xe không phản xạ âm"
+          ],
+          "answer": 1,
+          "explain": "Khí là kẻ thù của siêu âm. Bệnh nhân sau mổ thường chướng bụng."
+        },
+        {
+          "q": "Vai trò của CT scan ngoài chẩn đoán còn để làm gì?",
+          "options": [
+            "A. Hướng dẫn đường chọc hút dẫn lưu (CT-guided drainage) an toàn, tránh các tạng và mạch máu",
+            "B. Điều trị khỏi áp xe",
+            "C. Thay thế kháng sinh",
+            "D. Giảm đau"
+          ],
+          "answer": 0,
+          "explain": "Can thiệp điện quang (Interventional Radiology) dựa vào CT để tìm cửa sổ an toàn (safe window) chọc kim."
+        },
+        {
+          "q": "Nếu CT scan thấy ổ áp xe 3cm nằm giữa các quai ruột, không có đường vào an toàn qua da, xử trí là gì?",
+          "options": [
+            "A. Cố chọc hút xuyên qua ruột",
+            "B. Tiếp tục điều trị kháng sinh tích cực và theo dõi (vì kích thước nhỏ < 3-5cm thường đáp ứng kháng sinh)",
+            "C. Mổ lại ngay",
+            "D. Chọc dò mù"
+          ],
+          "answer": 1,
+          "explain": "Áp xe nhỏ (<3-5cm) hoặc không có đường vào (inaccessible) → Ưu tiên kháng sinh. Chỉ mổ/dẫn lưu nếu to lên hoặc không đáp ứng."
+        }
+      ]
+    }
+  ]
+}
