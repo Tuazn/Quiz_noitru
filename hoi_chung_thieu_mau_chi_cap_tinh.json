@@ -1,0 +1,1230 @@
+{
+  "name": "Hội chứng thiếu máu chi cấp tính",
+  "description": "Case lâm sàng thiếu máu chi cấp tính với phân loại Rutherford, xử trí Embolism vs Thrombosis, biến chứng tái tưới máu, chèn ép khoang, phình động mạch, và các trường hợp đặc biệt.",
+  "level": "ôn thi nội trú Y6",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Tim mạch",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 72 tuổi đau đột ngột cẳng chân do rung nhĩ",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 72 tuổi, tiền sử rung nhĩ (AF) đang dùng Warfarin nhưng bỏ thuốc 2 tuần nay, tăng huyết áp. Vào viện vì đau đột ngột dữ dội cẳng chân (P) 4 giờ trước. Bệnh nhân mô tả đau như dao đâm, liên tục, không tư thế giảm đau.<br><br><b>Khám lâm sàng:</b> Tỉnh, huyết áp 150/90 mmHg, nhịp tim 110 ck/phút (loạn nhịp hoàn toàn), SpO₂ 98%. Chân (P): lạnh từ gối trở xuống, da nhợt màu so với bên trái. Mạch bẹn (+) mạnh, mạch khoeo (-), mạch mu chân (-). Vận động ngón chân còn tốt, cảm giác tê bì nhẹ vùng mu chân nhưng còn nhận biết được chạm nhẹ. Bắp chân mềm, không căng cứng. Tim đều, phổi không rale. Bụng mềm.<br><br><b>Xét nghiệm:</b> INR = 1.2, Creatinin 90 μmol/L, CK 150 U/L. Siêu âm Doppler: dòng chảy mạch đùi chung tốt, tắc hoàn toàn động mạch khoeo, không thấy tuần hoàn bàng hệ.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguyên nhân và vị trí phù hợp nhất ở bệnh nhân này?",
+          "options": [
+            "Huyết khối trên nền xơ vữa tại động mạch đùi nông",
+            "Tắc mạch do huyết khối từ tim (Embolism) tại động mạch khoeo",
+            "Huyết khối tĩnh mạch sâu chi dưới",
+            "Tắc mạch do huyết khối tại chỗ tại động mạch chày trước"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh khởi phát đột ngột (4 giờ) trên nền Rung nhĩ bỏ thuốc kháng đông gợi ý Embolism (tắc mạch do cục máu đông trôi tới). Mạch bẹn (+), mạch khoeo (-) chứng tỏ vị trí tắc tại động mạch khoeo hoặc đùi nông đoạn xa."
+        },
+        {
+          "q": "Theo phân loại Rutherford, bệnh nhân đang ở giai đoạn nào?",
+          "options": [
+            "Giai đoạn I",
+            "Giai đoạn IIa",
+            "Giai đoạn IIb",
+            "Giai đoạn III"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân còn vận động tốt, chỉ mất cảm giác nhẹ (tê bì) nhưng còn nhận biết chạm, mạch Doppler thường còn nghe thấy ở giai đoạn này dù mạch lâm sàng mất. Phân loại Rutherford IIa (Đe dọa chi giới hạn). Nếu mất vận động mới là IIb."
+        },
+        {
+          "q": "Bước xử trí nội khoa ban đầu quan trọng nhất ngay khi tiếp nhận là gì?",
+          "options": [
+            "Aspirin 81mg uống",
+            "Heparin không phân đoạn (UFH) tiêm tĩnh mạch",
+            "Warfarin liều cao",
+            "Clopidogrel 300mg uống"
+          ],
+          "answer": 1,
+          "explain": "Heparin toàn thân (thường là UFH bolus 80 UI/kg hoặc 5000 UI) là bắt buộc ngay lập tức để ngăn ngừa sự lan rộng của cục máu đông (propagation) và bảo vệ tuần hoàn bàng hệ. Chống chỉ định nếu có chảy máu hoạt động."
+        },
+        {
+          "q": "Phương pháp can thiệp tối ưu nhất cho trường hợp này?",
+          "options": [
+            "Lấy huyết khối bằng sonde Fogarty",
+            "Phẫu thuật bắc cầu nối (Bypass)",
+            "Điều trị nội khoa bảo tồn và theo dõi",
+            "Tiêu sợi huyết qua đường động mạch"
+          ],
+          "answer": 0,
+          "explain": "Với Embolism tại động mạch lớn (khoeo), đến sớm (4h), chưa hoại tử → Phẫu thuật lấy huyết khối bằng Fogarty (Embolectomy) là tiêu chuẩn vàng, nhanh chóng và hiệu quả."
+        },
+        {
+          "q": "Yếu tố nào sau đây KHÔNG ủng hộ chẩn đoán tắc mạch do huyết khối từ xa (Embolus) so với huyết khối tại chỗ (Thrombus)?",
+          "options": [
+            "Khởi phát đột ngột, rầm rộ",
+            "Có tiền sử rung nhĩ",
+            "Chân đối diện mạch bắt rõ, không có dấu hiệu thiếu máu mạn",
+            "Có tiền sử đau cách hồi và da chân khô, rụng lông"
+          ],
+          "answer": 3,
+          "explain": "Tiền sử đau cách hồi, da khô rụng lông là dấu hiệu của bệnh động mạch ngoại biên mạn tính (PAD), gợi ý cơ chế Thrombosis (huyết khối trên nền hẹp xơ vữa) hơn là Embolism."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi đau chân liên tục trên nền đái tháo đường",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 65 tuổi, tiền sử Đái tháo đường type 2, hút thuốc lá 40 bao.năm, đau cách hồi chân (T) 1 năm nay với quãng đường 100m. Vào viện vì đau chân (T) tăng dần 2 ngày nay, hiện tại đau liên tục cả khi nghỉ ngơi.<br><br><b>Khám lâm sàng:</b> Chân (T) lạnh, tím vân tím (mottling) nhẹ vùng bàn chân, mạch bẹn (T) yếu, mạch khoeo và mu chân không bắt được. Chân (P) mạch mu chân cũng yếu. Vận động ngón chân (T) yếu nhẹ, cảm giác giảm vùng các ngón chân nhưng chưa mất hoàn toàn. Tim đều, phổi không rale. Bụng mềm.<br><br><b>Xét nghiệm:</b> Glucose 15.2 mmol/L, Creatinin 110 μmol/L. ABI chân (P) 0.6.",
+      "questions": [
+        {
+          "q": "Cơ chế sinh lý bệnh phù hợp nhất ở bệnh nhân này?",
+          "options": [
+            "Tắc mạch cấp do cục máu đông từ tim (Embolism)",
+            "Huyết khối cấp tính trên nền hẹp xơ vữa động mạch (Thrombosis)",
+            "Chèn ép khoang cấp tính",
+            "Co thắt mạch máu do lạnh"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có tiền sử đau cách hồi, yếu tố nguy cơ xơ vữa cao (thuốc lá, ĐTĐ), diễn tiến chậm (2 ngày), mạch bên đối diện cũng yếu → Thrombosis (huyết khối tại chỗ)."
+        },
+        {
+          "q": "Chọn tập hợp các đặc điểm lâm sàng gợi ý chẩn đoán Thrombosis thay vì Embolism:",
+          "options": [
+            "Tiền sử đau cách hồi, khởi phát từ từ, mạch chân đối diện bình thường",
+            "Tiền sử đau cách hồi, khởi phát từ từ, tuần hoàn bàng hệ phát triển tốt hơn",
+            "Khởi phát từ từ, mạch chân đối diện bình thường, nguồn gốc từ tim rõ ràng",
+            "Tiền sử đau cách hồi, nguồn gốc từ tim rõ ràng, tuần hoàn bàng hệ tốt"
+          ],
+          "answer": 1,
+          "explain": "Các dấu hiệu của Thrombosis: Tiền sử đau cách hồi (1), Khởi phát từ từ (2), Tuần hoàn bàng hệ phát triển (5). Ngược lại, mạch chân đối diện bình thường và nguồn gốc tim rõ ràng là của Embolism."
+        },
+        {
+          "q": "Để đánh giá chính xác giải phẫu mạch máu nhằm lập kế hoạch tái tưới máu, chỉ định cận lâm sàng nào là ưu tiên nhất (sau khi đã dùng Heparin)?",
+          "options": [
+            "Siêu âm Doppler mạch máu",
+            "Chụp cắt lớp vi tính mạch máu (CTA)",
+            "Chụp cộng hưởng từ mạch máu (MRA)",
+            "Chụp X-quang động mạch số hóa xóa nền (DSA) tại phòng mổ"
+          ],
+          "answer": 1,
+          "explain": "CTA (CT Angiography) cung cấp hình ảnh giải phẫu cây mạch máu rõ ràng nhất để lên kế hoạch phẫu thuật bắc cầu hoặc can thiệp nội mạch. DSA thường dùng trong lúc can thiệp hơn là chẩn đoán ban đầu hiện nay."
+        },
+        {
+          "q": "Phương pháp điều trị tái tưới máu nào thường được ưu tiên hơn ở bệnh nhân này nếu không có chống chỉ định?",
+          "options": [
+            "Lấy huyết khối đơn thuần bằng Fogarty",
+            "Phẫu thuật bắc cầu (Bypass) hoặc Can thiệp nội mạch",
+            "Cắt cụt chi ngay lập tức",
+            "Dùng thuốc giãn mạch đơn thuần"
+          ],
+          "answer": 1,
+          "explain": "Với Thrombosis trên nền xơ vữa, lòng mạch đã hẹp sẵn và tổn thương thành mạch, Fogarty đơn thuần thường thất bại hoặc gây tổn thương nội mạc. Cần Bypass hoặc Can thiệp nội mạch (nong/stent/tiêu sợi huyết)."
+        },
+        {
+          "q": "Tiên lượng bảo tồn chi của bệnh nhân này so với bệnh nhân tắc mạch do Embolism thường như thế nào?",
+          "options": [
+            "Tốt hơn do có tuần hoàn bàng hệ",
+            "Tệ hơn do tổn thương đa tầng và bệnh nền nặng",
+            "Giống nhau hoàn toàn",
+            "Phụ thuộc hoàn toàn vào tuổi tác"
+          ],
+          "answer": 0,
+          "explain": "Mặc dù bệnh lý nền phức tạp hơn, nhưng do quá trình mạn tính đã giúp hình thành tuần hoàn bàng hệ, nên triệu chứng thiếu máu thường ít kịch phát hơn Embolism và cơ hội bảo tồn chi (limb salvage) đôi khi cao hơn nếu được tái tưới máu đúng cách."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi gãy xương đùi với đau dữ dội cẳng chân",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 45 tuổi, thợ xây, bị tai nạn lao động ngã dàn giáo, gãy kín 1/3 dưới xương đùi (P). Đã được nắn chỉnh và bó bột tạm thời tại tuyến dưới cách đây 6 giờ. Hiện tại bệnh nhân đau dữ dội vùng khoeo và cẳng chân (P), đau tăng khi thụ động duỗi cổ chân.<br><br><b>Khám lâm sàng:</b> Chân (P) sưng nề căng cứng, da bóng loáng. Mạch mu chân (P) bắt yếu nhưng vẫn còn, SpO₂ ngón chân 94%. Cảm giác tê bì khoang trước cẳng chân (vùng kẽ ngón 1-2). Vận động ngón cái hạn chế do đau. Huyết áp 130/80 mmHg. Không có vết thương hở.",
+      "questions": [
+        {
+          "q": "Biến chứng nguy hiểm nhất bệnh nhân đang gặp phải là gì?",
+          "options": [
+            "Tắc động mạch khoeo do chèn ép",
+            "Hội chứng chèn ép khoang cấp tính",
+            "Huyết khối tĩnh mạch sâu",
+            "Tổn thương thần kinh mác chung"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế chấn thương, đau dữ dội, đau khi vận động thụ động, bắp chân căng cứng → Hội chứng chèn ép khoang (Compartment Syndrome)."
+        },
+        {
+          "q": "Dấu hiệu lâm sàng sớm nhất và tin cậy nhất của hội chứng này là?",
+          "options": [
+            "Mất mạch (Pulselessness)",
+            "Đau không tương xứng với tổn thương và đau khi vận động thụ động (Pain)",
+            "Liệt vận động (Paralysis)",
+            "Tím tái đầu chi (Pallor)"
+          ],
+          "answer": 1,
+          "explain": "Đau (Pain) là dấu hiệu sớm nhất: đau dữ dội, không đáp ứng thuốc giảm đau, đặc biệt là đau tăng khi căng cơ thụ động (passive stretch)."
+        },
+        {
+          "q": "Việc \"vẫn bắt được mạch mu chân\" ở bệnh nhân này có ý nghĩa gì?",
+          "options": [
+            "Loại trừ hoàn toàn hội chứng chèn ép khoang",
+            "Chứng tỏ áp lực khoang chưa cao đến mức nguy hiểm",
+            "Không loại trừ chẩn đoán, vì áp lực khoang có thể cao hơn áp lực mao mạch nhưng thấp hơn huyết áp tâm thu",
+            "Gợi ý chẩn đoán nhầm, có thể chỉ là sưng nề phần mềm"
+          ],
+          "answer": 2,
+          "explain": "Đây là bẫy kinh điển: Trong chèn ép khoang, mạch đập (Pulses) thường VẪN CÒN cho đến giai đoạn rất muộn. Áp lực khoang chỉ cần > 30mmHg là gây thiếu máu mô, trong khi huyết áp tâm thu > 100mmHg vẫn đẩy máu qua động mạch chính được."
+        },
+        {
+          "q": "Chỉ định cận lâm sàng tiêu chuẩn vàng để chẩn đoán xác định trong trường hợp nghi ngờ?",
+          "options": [
+            "MRI bắp chân",
+            "Đo áp lực khoang trực tiếp",
+            "Siêu âm Doppler mạch máu",
+            "Chụp mạch xóa nền"
+          ],
+          "answer": 1,
+          "explain": "Đo áp lực khoang (ICP) là tiêu chuẩn vàng. Chẩn đoán khi ICP > 30 mmHg hoặc Delta pressure (huyết áp tâm trương - ICP) < 30 mmHg."
+        },
+        {
+          "q": "Xử trí ngoại khoa bắt buộc và cấp bách nhất?",
+          "options": [
+            "Tháo bột và kê cao chân",
+            "Dùng thuốc giảm đau liều cao và theo dõi",
+            "Phẫu thuật rạch giải áp khoang (Fasciotomy)",
+            "Phẫu thuật kết hợp xương đùi ngay lập tức"
+          ],
+          "answer": 2,
+          "explain": "Rạch giải áp khoang (Fasciotomy) là bắt buộc để cứu cơ và thần kinh. Tháo bột là bước đầu tiên nhưng nếu triệu chứng không giảm hoặc áp lực cao thì phải mổ ngay. Kết hợp xương làm sau."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 58 tuổi mất cảm giác chân cấp với tim mạch bất thường",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 58 tuổi, tiền sử hẹp van 2 lá khít chưa điều trị can thiệp, vào viện vì đau và mất cảm giác chân (T) giờ thứ 10.<br><br><b>Khám lâm sàng:</b> Chân (T) lạnh buốt, trắng bệch, lốm đốm tím không phục hồi (non-blanching) ở bàn chân. Mất hoàn toàn vận động ngón chân và cổ chân (Paralysis). Mất hoàn toàn cảm giác (Anesthesia). Cơ bắp chân cứng (Rigor). Mạch bẹn (T) (+), Mạch khoeo và chày (-). Doppler không nghe thấy tín hiệu động mạch và tĩnh mạch ở cổ chân và mu chân.",
+      "questions": [
+        {
+          "q": "Phân độ Rutherford trên bệnh nhân này?",
+          "options": [
+            "IIa",
+            "IIb",
+            "III",
+            "I"
+          ],
+          "answer": 2,
+          "explain": "Mất hoàn toàn vận động, mất hoàn toàn cảm giác, không nghe thấy Doppler cả động mạch và tĩnh mạch → Rutherford III."
+        },
+        {
+          "q": "Tình trạng này gợi ý tiên lượng gì cho chi thể?",
+          "options": [
+            "Có thể cứu được nếu mổ ngay tức thì",
+            "Đe dọa chi ngay lập tức",
+            "Đã hoại tử không hồi phục (Irreversible)",
+            "Thiếu máu mạn tính bù trừ"
+          ],
+          "answer": 2,
+          "explain": "Rutherford III là giai đoạn thiếu máu không hồi phục (Irreversible). Mô cơ và thần kinh đã chết."
+        },
+        {
+          "q": "Dấu hiệu nào sau đây có giá trị nhất xác định tình trạng không hồi phục của chi?",
+          "options": [
+            "Mất mạch",
+            "Lạnh đầu chi",
+            "Cứng cơ (Rigor) và lốm đốm tím không phục hồi",
+            "Mất cảm giác nông"
+          ],
+          "answer": 2,
+          "explain": "Cứng cơ (Rigor) giống như co cứng tử thi và mảng tím không phục hồi là dấu hiệu chắc chắn của hoại tử cơ hoàn toàn."
+        },
+        {
+          "q": "Hướng xử trí phù hợp nhất?",
+          "options": [
+            "Lấy huyết khối cấp cứu",
+            "Tiêu sợi huyết đường động mạch",
+            "Cắt cụt chi thì đầu (Primary Amputation)",
+            "Dùng Heparin liều cao và theo dõi"
+          ],
+          "answer": 2,
+          "explain": "Ở giai đoạn III, tái tưới máu là vô nghĩa và nguy hiểm. Chỉ định là Cắt cụt chi để cứu tính mạng bệnh nhân (tránh nhiễm độc)."
+        },
+        {
+          "q": "Nếu cố gắng tái tưới máu ở giai đoạn này, bệnh nhân đối mặt nguy cơ cao nhất là gì?",
+          "options": [
+            "Chảy máu không cầm được",
+            "Hội chứng tái tưới máu (Reperfusion syndrome) gây tử vong",
+            "Nhiễm trùng vết mổ",
+            "Tắc mạch tái phát ngay lập tức"
+          ],
+          "answer": 1,
+          "explain": "Tái tưới máu trên cơ đã chết sẽ phóng thích Kali, Myoglobin, Cytokine độc hại vào tuần hoàn chung → Hội chứng tái tưới máu → Rối loạn nhịp tim, suy thận cấp, tử vong."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi sau lấy huyết khối với thay đổi enzym và kiềm",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 50 tuổi, sau phẫu thuật lấy huyết khối động mạch đùi (P) do tắc mạch cấp được 6 giờ. Hiện tại bệnh nhân thấy chân (P) đau trở lại, sưng to vùng bắp chân.<br><br><b>Xét nghiệm:</b> Nước tiểu qua sonde màu đỏ nâu, số lượng 30ml/giờ. Kali 6.8 mmol/L, Creatinin 180 μmol/L (trước mổ 90), CK 25.000 U/L. ECG thấy sóng T cao nhọn.",
+      "questions": [
+        {
+          "q": "Biến chứng toàn thân nghiêm trọng nhất bệnh nhân đang gặp phải là?",
+          "options": [
+            "Sốc mất máu",
+            "Hội chứng tái tưới máu (Reperfusion Syndrome)",
+            "Nhiễm trùng huyết",
+            "Suy tim cấp"
+          ],
+          "answer": 1,
+          "explain": "Sau tái tưới máu xuất hiện sưng nề, suy thận, tăng Kali, tiểu đỏ → Hội chứng tái tưới máu (Reperfusion injury/syndrome)."
+        },
+        {
+          "q": "Nguyên nhân gây nước tiểu màu đỏ nâu là?",
+          "options": [
+            "Hemoglobin niệu do tan máu",
+            "Myoglobin niệu do hủy hoại cơ vân",
+            "Đái máu đại thể do dùng Heparin quá liều",
+            "Viêm bàng quang xuất huyết"
+          ],
+          "answer": 1,
+          "explain": "Hủy hoại tế bào cơ vân giải phóng Myoglobin. Myoglobin gây tắc ống thận và độc trực tiếp thận → nước tiểu Myoglobin. Phân biệt với đái máu (có hồng cầu) và Hemoglobin niệu."
+        },
+        {
+          "q": "Rối loạn điện giải nào nguy hiểm nhất cần xử trí ngay lập tức ở bệnh nhân này?",
+          "options": [
+            "Tăng Natri máu",
+            "Hạ Canxi máu",
+            "Tăng Kali máu",
+            "Tăng Phospho máu"
+          ],
+          "answer": 2,
+          "explain": "Tăng Kali máu (6.8 mmol/L) gây rối loạn nhịp tim (T cao nhọn) là nguyên nhân tử vong nhanh nhất → Xử trí cấp cứu (Canxi, Insulin/Glucose, Kiềm, Lọc máu...)."
+        },
+        {
+          "q": "Biện pháp điều trị nội khoa ưu tiên để bảo vệ thận trong tình huống này là?",
+          "options": [
+            "Hạn chế dịch vào",
+            "Bù dịch tích cực và kiềm hóa nước tiểu",
+            "Dùng lợi tiểu quai liều cao ngay lập tức khi chưa bù dịch",
+            "Chạy thận nhân tạo ngay khi Creatinin > 150"
+          ],
+          "answer": 1,
+          "explain": "Bù dịch tích cực (rửa trôi Myoglobin) và kiềm hóa nước tiểu (Bicarbonate, giữ pH niệu > 6.5 để ngăn Myoglobin kết tủa) là nền tảng bảo vệ thận."
+        },
+        {
+          "q": "Trong hội chứng MNMS (Myonephropathic Metabolic Syndrome), chất nào sau đây được giải phóng từ tế bào cơ hoại tử gây toan chuyển hóa và ức chế cơ tim?",
+          "options": [
+            "Glucose",
+            "Lactate và H+",
+            "Urea",
+            "Bicarbonate"
+          ],
+          "answer": 1,
+          "explain": "Tế bào thiếu khí chuyển hóa yếm khí sinh ra Lactate và H+, gây toan chuyển hóa nặng (Metabolic acidosis), ức chế sức co bóp cơ tim."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 82 tuổi tím đen ngón chân sau đặt stent mạch vành",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 82 tuổi, vào viện vì đau dữ dội và tím lạnh ngón chân cái và ngón 2 bàn chân (P). Bệnh nhân mới được đặt stent mạch vành cách đây 1 tuần.<br><br><b>Khám lâm sàng:</b> Bàn chân (P) ấm, mạch mu chân và chày sau bắt rõ (2+). Tuy nhiên, ngón cái và ngón 2 tím đen, lạnh, ấn không kẹp màu. Gan bàn chân có các mảng tím rải rác.<br><br><b>Xét nghiệm:</b> Creatinin máu tăng nhẹ 130 μmol/L. Bạch cầu ái toan (Eosinophil) tăng nhẹ.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất?",
+          "options": [
+            "Tắc động mạch khoeo",
+            "Hội chứng ngón chân xanh (Blue Toe Syndrome) do thuyên tắc cholesterol/vi mạch",
+            "Bệnh Buerger",
+            "Hội chứng Raynaud"
+          ],
+          "answer": 1,
+          "explain": "Hoại tử khu trú ngón chân (tím đen) trong khi bàn chân ấm và mạch mu chân VẪN BẮT ĐƯỢC → Điển hình của Blue Toe Syndrome (Hội chứng ngón chân xanh/bàn chân rác - Trash foot)."
+        },
+        {
+          "q": "Nguồn gốc của vật tắc mạch trong trường hợp này thường đến từ đâu?",
+          "options": [
+            "Huyết khối từ tâm nhĩ trái",
+            "Mảng xơ vữa từ động mạch chủ bụng hoặc chậu đùi",
+            "Huyết khối tĩnh mạch sâu",
+            "Viêm mạch máu nhỏ tại chỗ"
+          ],
+          "answer": 1,
+          "explain": "Nguyên nhân là do mảng xơ vữa (chứa tinh thể cholesterol) từ động mạch chủ hoặc động mạch chậu/đùi bị bong ra và trôi xuống lấp các tiểu động mạch ngón."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính của hội chứng này là?",
+          "options": [
+            "Tắc nghẽn dòng chảy mạch máu lớn",
+            "Vi thuyên tắc (Microembolization) các tinh thể cholesterol hoặc mảnh xơ vữa nhỏ vào các động mạch ngón",
+            "Co thắt mạch máu quá mức",
+            "Viêm tắc nội mạc động mạch do thuốc lá"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế là Vi thuyên tắc (Microembolization). Các mảnh nhỏ lấp mạch ngón, trong khi dòng chảy trục chính (mạch mu chân) vẫn thông thoáng."
+        },
+        {
+          "q": "Đặc điểm lâm sàng quan trọng giúp phân biệt với tắc mạch cấp do huyết khối lớn là?",
+          "options": [
+            "Chân lạnh toàn bộ",
+            "Mất mạch ngoại vi",
+            "Mạch ngoại vi vẫn bắt được nhưng đầu chi hoại tử",
+            "Không đau"
+          ],
+          "answer": 2,
+          "explain": "Điểm mấu chốt: Mạch ngoại vi vẫn bắt được (Palpable pulses) nhưng mô đích vẫn thiếu máu hoại tử. Trong ALI do tắc mạch lớn, mạch ngoại vi sẽ mất."
+        },
+        {
+          "q": "Yếu tố khởi phát (Precipitating factor) thường gặp nhất của hội chứng này là?",
+          "options": [
+            "Rung nhĩ cơn",
+            "Can thiệp nội mạch (thông tim, đặt stent) hoặc dùng thuốc kháng đông/tiêu sợi huyết",
+            "Chấn thương trực tiếp",
+            "Nhiễm lạnh"
+          ],
+          "answer": 1,
+          "explain": "Các thủ thuật can thiệp lòng mạch (đi dây dẫn, đặt stent - BN này mới làm stent mạch vành) cọ xát vào mảng xơ vữa gây bong tróc là nguyên nhân khởi phát hàng đầu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi khối phình động mạch khoeo khô với thiếu máu chi",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 60 tuổi, phát hiện khối phình động mạch khoeo (P) kích thước 2.5cm cách đây 1 năm nhưng không điều trị. Nay đột ngột đau bắp chân (P), chân lạnh, tê bì.<br><br><b>Khám lâm sàng:</b> Mạch đùi (P) (+), khối phình vùng khoeo căng tức, không đập, mạch mu chân (-). Chân (T) mạch khoeo đập mạnh và rộng. Bàn chân (P) giảm cảm giác vận động nhẹ (Rutherford IIa).",
+      "questions": [
+        {
+          "q": "Nguyên nhân gây thiếu máu chi cấp ở bệnh nhân này là?",
+          "options": [
+            "Vỡ phình động mạch khoeo",
+            "Huyết khối tắc trong túi phình động mạch khoeo",
+            "Chèn ép khoang do khối phình",
+            "Bóc tách động mạch khoeo"
+          ],
+          "answer": 1,
+          "explain": "Túi phình đang đập chuyển sang không đập + thiếu máu chi dưới → Huyết khối (Thrombosis) lấp đầy túi phình gây tắc mạch."
+        },
+        {
+          "q": "Đặc điểm của phình động mạch khoeo nào sau đây là SAI?",
+          "options": [
+            "Thường gặp ở nam giới",
+            "50% trường hợp có phình ở cả hai bên",
+            "Biến chứng thường gặp nhất là vỡ phình gây chảy máu",
+            "Thường liên quan đến phình động mạch chủ bụng"
+          ],
+          "answer": 2,
+          "explain": "Biến chứng thường gặp nhất của phình ĐM khoeo là Tắc mạch (Huyết khối hoặc Thuyên tắc xa), TỈ LỆ VỠ RẤT THẤP (khác với phình chủ bụng). Chọn C là câu Sai."
+        },
+        {
+          "q": "Tại sao huyết khối phình động mạch khoeo thường gây thiếu máu chi trầm trọng?",
+          "options": [
+            "Do chèn ép thần kinh chày",
+            "Do huyết khối lấp tắc các nhánh mạch rãnh (genicular arteries) làm mất tuần hoàn bàng hệ quanh gối",
+            "Do gây co mạch phản xạ toàn thân",
+            "Do luôn kèm theo huyết khối tĩnh mạch"
+          ],
+          "answer": 1,
+          "explain": "Túi phình làm thay đổi giải phẫu, huyết khối hình thành không chỉ lấp lòng mạch chính mà còn bịt kín các nhánh bên (nhánh gối), triệt tiêu đường tuần hoàn bàng hệ tự nhiên → Thiếu máu rất nặng."
+        },
+        {
+          "q": "Chiến lược điều trị ngoại khoa ưu tiên?",
+          "options": [
+            "Phẫu thuật thắt túi phình đơn thuần",
+            "Phẫu thuật bắc cầu (Bypass) + loại bỏ túi phình (exclusion)",
+            "Dùng thuốc tiêu sợi huyết đơn thuần",
+            "Cắt cụt chi ngay"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc: Loại bỏ túi phình khỏi dòng máu (thắt đầu trên dưới hoặc mở túi) VÀ tái lập lưu thông bằng cầu nối (Bypass), thường dùng tĩnh mạch hiển đảo chiều."
+        },
+        {
+          "q": "Khi khám bệnh nhân có phình động mạch khoeo, bác sĩ cần bắt buộc kiểm tra thêm vị trí nào?",
+          "options": [
+            "Động mạch cảnh",
+            "Động mạch chủ bụng và động mạch khoeo bên đối diện",
+            "Động mạch thận",
+            "Động mạch dưới đòn"
+          ],
+          "answer": 1,
+          "explain": "Phình ĐM khoeo có tính chất \"sinh đôi\" (50% bị 2 bên) và liên quan mật thiết với Phình ĐM chủ bụng (AAA). Bắt buộc phải siêu âm bụng kiểm tra."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 30 tuổi sưng phù xanh tím do huyết khối tĩnh mạch sâu nặng",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 30 tuổi, đang dùng thuốc tránh thai đường uống (OCP). Vào viện vì đau, sưng nề toàn bộ chân (T) 1 ngày nay.<br><br><b>Khám lâm sàng:</b> Chân (T) sưng to gấp đôi chân phải, da màu xanh tím lan tỏa (Cyanosis), ấn đau nhiều. Mạch mu chân và chày sau KHÔNG bắt được do phù nề quá mức. Vận động ngón chân còn nhưng yếu, cảm giác còn. Bệnh nhân sốc nhẹ, mạch 100, huyết áp 90/60.<br><br><b>Xét nghiệm:</b> Siêu âm Doppler: Huyết khối lấp đầy tĩnh mạch chậu - đùi (T), động mạch vẫn có dòng chảy nhưng trở kháng cao.",
+      "questions": [
+        {
+          "q": "Chẩn đoán chính xác nhất tình trạng này?",
+          "options": [
+            "Tắc động mạch đùi cấp tính",
+            "Viêm mô tế bào cẳng chân",
+            "Phlegmasia Cerulea Dolens (Viêm tĩnh mạch xanh đau)",
+            "Phlegmasia Alba Dolens (Viêm tĩnh mạch trắng đau)"
+          ],
+          "answer": 2,
+          "explain": "Tam chứng: Phù nề khổng lồ + Xanh tím + Đau đớn trên nền nguy cơ huyết khối tĩnh mạch (thuốc tránh thai) → Phlegmasia Cerulea Dolens (thể nặng của DVT)."
+        },
+        {
+          "q": "Cơ chế gây mất mạch (lâm sàng) trong bệnh lý này là gì?",
+          "options": [
+            "Huyết khối động mạch",
+            "Áp lực mô kẽ và sưng nề quá lớn gây chèn ép động mạch (Collapse)",
+            "Co thắt mạch do đau",
+            "Suy tim"
+          ],
+          "answer": 1,
+          "explain": "Không phải tắc động mạch nguyên phát. Do tắc hoàn toàn đường về tĩnh mạch → áp lực thủy tĩnh tăng đột biến → phù nề chèn ép vào động mạch → cản trở dòng máu đến."
+        },
+        {
+          "q": "Đây là tình trạng cấp cứu vì nguy cơ cao dẫn đến:",
+          "options": [
+            "Hoại tử chi (Venous gangrene) và Thuyên tắc phổi (PE)",
+            "Vỡ tĩnh mạch",
+            "Suy van tĩnh mạch mạn tính",
+            "Loét chân do ứ trệ"
+          ],
+          "answer": 0,
+          "explain": "Nguy cơ Hoại tử tĩnh mạch (Venous Gangrene) do tắc nghẽn toàn bộ vi tuần hoàn và Thuyên tắc phổi (PE) gây tử vong."
+        },
+        {
+          "q": "Phương pháp điều trị tối ưu để cứu chi trong trường hợp nặng này (có đe dọa hoại tử)?",
+          "options": [
+            "Chỉ dùng kháng đông Heparin liều chuẩn",
+            "Kê cao chân và băng ép",
+            "Lấy huyết khối tĩnh mạch (qua can thiệp nội mạch hoặc phẫu thuật) + Tiêu sợi huyết tại chỗ",
+            "Kháng sinh liều cao"
+          ],
+          "answer": 2,
+          "explain": "Heparin đơn thuần thường không đủ trong thể này. Cần loại bỏ khối lượng huyết khối lớn (Catheter-directed thrombolysis hoặc mổ lấy huyết khối) để giảm áp lực tĩnh mạch nhanh chóng."
+        },
+        {
+          "q": "Điểm khác biệt lâm sàng quan trọng nhất phân biệt với Tắc động mạch cấp đơn thuần?",
+          "options": [
+            "Chân lạnh",
+            "Mất mạch",
+            "Phù nề rất to (Massive Edema) và da xanh tím sẫm",
+            "Đau dữ dội"
+          ],
+          "answer": 2,
+          "explain": "Tắc động mạch cấp thường làm chân teo nhỏ hoặc bình thường, da nhợt (Pallor). Phlegmasia làm chân sưng to (Edema) và tím ngắt (Cyanosis) do ứ máu tĩnh mạch."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 25 tuổi trật khớp gối với mất mạch chân ngay sau nắn",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 25 tuổi, tai nạn giao thông xe máy, trật khớp gối (P). Đã được nắn chỉnh khớp gối ngay tại hiện trường. Vào viện khám sau nắn chỉnh: Gối sưng nề, chân (P) lạnh, mạch mu chân và chày sau KHÔNG bắt được. Vận động ngón cái yếu (Drop hallux).<br><br><b>Xét nghiệm:</b> X-quang: Khớp gối đã vào vị trí. ABI chân (P) = 0.4.",
+      "questions": [
+        {
+          "q": "Tổn thương mạch máu nào thường gặp nhất trong trật khớp gối?",
+          "options": [
+            "Động mạch đùi nông",
+            "Động mạch khoeo",
+            "Động mạch chày trước",
+            "Động mạch mác"
+          ],
+          "answer": 1,
+          "explain": "Động mạch khoeo (Popliteal artery) là cấu trúc dễ tổn thương nhất khi trật khớp gối."
+        },
+        {
+          "q": "Thái độ xử trí phù hợp nhất hiện tại?",
+          "options": [
+            "Theo dõi sát mạch, nếu sau 6 giờ không có mạch mới can thiệp",
+            "Chụp CT mạch máu (CTA) hoặc mổ thăm dò ngay lập tức",
+            "Cho thuốc giãn mạch và ủ ấm",
+            "Chỉ cần nắn chỉnh xương tốt là mạch sẽ đập lại"
+          ],
+          "answer": 1,
+          "explain": "Mạch mất + ABI < 0.9 sau nắn chỉnh → Nghi ngờ tổn thương mạch máu thực thể. Cần chẩn đoán hình ảnh (CTA) hoặc thám sát ngay. Tuyệt đối KHÔNG chờ đợi vì thời gian thiếu máu nóng của cơ chỉ chịu được < 6 giờ."
+        },
+        {
+          "q": "Tại sao động mạch khoeo dễ bị tổn thương trong chấn thương vùng gối?",
+          "options": [
+            "Do thành mạch mỏng",
+            "Do bị cố định chắc chắn ở hai đầu (cơ khép lớn và cơ dép) nên kém di động khi gối trật",
+            "Do nằm rất nông ngay dưới da",
+            "Do có nhiều nhánh bên"
+          ],
+          "answer": 1,
+          "explain": "ĐM khoeo bị \"neo\" (tethered) chặt ở vòng gân cơ khép (Hunter canal) ở trên và cung gân cơ dép ở dưới. Khi gối trật, nó bị căng giãn như dây đàn và dễ đứt/dập."
+        },
+        {
+          "q": "Dấu hiệu \"Drop hallux\" (rủ ngón cái) gợi ý tổn thương thần kinh nào đi kèm?",
+          "options": [
+            "Thần kinh chày",
+            "Thần kinh mác chung",
+            "Thần kinh hiển",
+            "Thần kinh đùi"
+          ],
+          "answer": 1,
+          "explain": "Thần kinh mác chung (Peroneal nerve) chi phối nhóm cơ duỗi (gấp mu chân/ngón chân). Tổn thương gây bàn chân rủ/ngón rủ. Nó chạy vòng quanh chỏm xương mác, rất dễ tổn thương cùng ĐM khoeo."
+        },
+        {
+          "q": "Loại tổn thương giải phẫu bệnh mạch máu hay gặp nhất trong chấn thương kín (không đứt rời)?",
+          "options": [
+            "Bong nội mạc (Intimal flap) gây huyết khối thứ phát",
+            "Đứt đôi mạch máu",
+            "Co thắt mạch đơn thuần",
+            "Giả phình mạch máu"
+          ],
+          "answer": 0,
+          "explain": "Trong chấn thương kín, bong lớp nội mạc (Intimal tear/flap) là phổ biến nhất. Lớp nội mạc bong ra hoạt động như một cái van 1 chiều gây tắc mạch hoặc hình thành huyết khối cấp tính."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 70 tuổi tắc mạch đùi cấp giai đoạn IIb - tiên lượng nặng",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 70 tuổi, vào cấp cứu vì thiếu máu chi cấp chân trái giờ thứ 12 do thuyên tắc mạch. Bệnh nhân đã được mổ cấp cứu lấy huyết khối động mạch bằng ống thông Fogarty. Bốn giờ sau mổ, chân trái hồng hào trở lại, mạch mu chân nảy mạnh.<br><br>Phân loại Rutherford IIb (Mất cảm giác > ngón chân, yếu vận động cổ chân). Bệnh nhân có tiền sử Nhồi máu cơ tim cách 2 tuần, hiện đang suy tim EF 30%. Xét nghiệm đông máu bình thường.",
+      "questions": [
+        {
+          "q": "Mục tiêu INR cần đạt khi duy trì kháng đông sau giai đoạn cấp (nếu dùng Warfarin)?",
+          "options": [
+            "1.5 - 2.0",
+            "2.0 - 3.0",
+            "3.0 - 4.0",
+            "< 1.5"
+          ],
+          "answer": 1,
+          "explain": "Mục tiêu chuẩn cho kháng đông đường uống (VKA) là INR 2.0 - 3.0."
+        },
+        {
+          "q": "Trong phẫu thuật lấy huyết khối bằng sonde Fogarty, biến chứng kỹ thuật nào có thể xảy ra nếu bơm bóng quá căng?",
+          "options": [
+            "Vỡ động mạch",
+            "Tổn thương lớp nội mạc gây tái hẹp",
+            "Tạo đường hầm giả (False passage)",
+            "Cả A, B, C đều đúng"
+          ],
+          "answer": 3,
+          "explain": "Sonde Fogarty nếu thô bạo có thể gây: Vỡ mạch (nếu chọn bóng to/bơm căng), bong nội mạc (kéo bóng khi chưa xẹp đủ), hoặc đi sai vào lớp dưới nội mạc (đường hầm giả)."
+        },
+        {
+          "q": "Chọn câu SAI về chỉ định điều trị tiêu sợi huyết (Thrombolysis) đường động mạch (CDT)?",
+          "options": [
+            "Chỉ định tốt cho Rutherford I và IIa",
+            "Chống chỉ định tuyệt đối nếu có xuất huyết não trong vòng 3 tháng",
+            "Thời gian điều trị thường kéo dài 24-48 giờ",
+            "Hiệu quả rất tốt và là lựa chọn hàng đầu cho Rutherford IIb và III"
+          ],
+          "answer": 3,
+          "explain": "Câu D Sai. Tiêu sợi huyết (Thrombolysis) tốn thời gian (12-24h) để ly giải cục máu. Rutherford IIb (đe dọa chi tức thì - Immediate threat) đòi hỏi tái tưới máu ngay lập tức, nên phẫu thuật mổ mở thường ưu tiên hơn. Giai đoạn III thì chống chỉ định tái tưới máu."
+        },
+        {
+          "q": "Nếu bệnh nhân này được mổ lấy huyết khối thành công, dấu hiệu lâm sàng nào tại bàn chân xuất hiện sớm nhất báo hiệu tái tưới máu tốt?",
+          "options": [
+            "Mạch mu chân đập rõ",
+            "Cải thiện vận động",
+            "Tĩnh mạch mu chân nổi trở lại (Venous refilling)",
+            "Hồi phục cảm giác hoàn toàn"
+          ],
+          "answer": 2,
+          "explain": "Tĩnh mạch mu chân nổi (Venous return/refilling) và màu da hồng lại (Hyperemia) là dấu hiệu sớm nhất. Mạch có thể chưa bắt được ngay do co thắt hoặc phù nề. Thần kinh (vận động/cảm giác) hồi phục chậm nhất."
+        },
+        {
+          "q": "Hậu quả của việc trì hoãn can thiệp ở giai đoạn Rutherford IIb (đã có yếu vận động)?",
+          "options": [
+            "Không ảnh hưởng nếu dùng Heparin",
+            "Chuyển sang giai đoạn III (không hồi phục) và phải cắt cụt chi",
+            "Chỉ gây teo cơ về sau",
+            "Tăng nguy cơ chảy máu khi mổ"
+          ],
+          "answer": 1,
+          "explain": "IIb là ranh giới mong manh. Trì hoãn vài giờ sẽ dẫn đến chết cơ hoàn toàn (Giai đoạn III), lúc đó bắt buộc phải cắt cụt. \"Time is Muscle\"."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi chèn ép khoang sau tái tưới máu muộn",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 55 tuổi, nhập viện vì thiếu máu chi cấp chân trái giờ thứ 12 do thuyên tắc mạch. Bệnh nhân đã được mổ cấp cứu lấy huyết khối động mạch bằng ống thông Fogarty. Bốn giờ sau mổ, chân trái hồng hào trở lại, mạch mu chân nảy mạnh. Tuy nhiên, bệnh nhân kêu la vì đau dữ dội vùng bắp chân trái, đau không giảm với opioid tĩnh mạch liều cao. Bệnh nhân đau chói vã mồ hôi khi bác sĩ gấp mặt lưng cổ chân trái thụ động. Bắt đầu có dấu hiệu tê rần vùng kẽ ngón 1 và 2 chân trái.",
+      "questions": [
+        {
+          "q": "Biến chứng cấp tính nào đang xảy ra ở bệnh nhân này?",
+          "options": [
+            "Tái tắc động mạch do huyết khối",
+            "Huyết khối tĩnh mạch sâu chi dưới",
+            "Hội chứng chèn ép khoang cấp tính",
+            "Viêm mô tế bào cẳng chân lan tỏa"
+          ],
+          "answer": 2,
+          "explain": "Sau phẫu thuật tái tưới máu muộn (>6 giờ thiếu máu), cẳng chân đau dữ dội ngoài mức độ tổn thương, không đáp ứng thuốc giảm đau và căng bóp là dấu hiệu kinh điển của hội chứng chèn ép khoang cấp tính."
+        },
+        {
+          "q": "Dấu hiệu lâm sàng nào KHÔNG PHÙ HỢP với chẩn đoán tái tắc động mạch?",
+          "options": [
+            "Đau không đáp ứng với thuốc giảm đau",
+            "Bắp chân sưng nề và da căng bóng",
+            "Đau chói khi vận động kéo căng cơ",
+            "Mạch mu chân và chày sau nảy mạnh"
+          ],
+          "answer": 3,
+          "explain": "Nếu là tái tắc động mạch (thất bại phẫu thuật), chân sẽ nhợt nhạt và mất mạch ngoại vi trở lại. Việc mạch mu chân vẫn nảy mạnh chứng tỏ động mạch vẫn thông thương, giúp loại trừ tái tắc mạch."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh cốt lõi gây ra biến chứng này là gì?",
+          "options": [
+            "Co thắt động mạch do thần kinh",
+            "Tăng tính thấm mao mạch ồ ạt",
+            "Phản ứng dị ứng với thuốc Heparin",
+            "Rách vạt nội mạc lấp kín lòng mạch"
+          ],
+          "answer": 1,
+          "explain": "Sau thiếu máu kéo dài, khi máu lưu thông trở lại, sự sản sinh gốc tự do và phản ứng viêm làm tăng vọt tính thấm mao mạch. Dịch thoát ồ ạt vào tổ chức kẽ làm tăng áp lực bên trong các khoang cân mạc không đàn hồi."
+        },
+        {
+          "q": "Rối loạn điện giải nào nguy hiểm nhất đe dọa ngừng tim ở bệnh nhân có tổn thương mô cơ lan rộng sau tái tưới máu?",
+          "options": [
+            "Hạ natri máu",
+            "Tăng kali máu",
+            "Tăng canxi máu",
+            "Giảm magie máu"
+          ],
+          "answer": 1,
+          "explain": "Khi mô cơ bị tổn thương diện rộng do thiếu máu và tái tưới máu, màng tế bào vỡ giải phóng lượng lớn ion K⁺ (vốn nằm trong nội bào) vào máu, gây tăng Kali máu cấp tính đe dọa loạn nhịp và ngừng tim."
+        },
+        {
+          "q": "Xử trí ngoại khoa bắt buộc và cấp bách nhất?",
+          "options": [
+            "Mở lại vết mổ lấy huyết khối lần hai",
+            "Cắt cụt cẳng chân trái cấp cứu",
+            "Mở cân mạc giải áp bốn khoang",
+            "Đặt lưới lọc tĩnh mạch chủ dưới"
+          ],
+          "answer": 2,
+          "explain": "Phẫu thuật mở cân mạc (Fasciotomy) cả 4 khoang cẳng chân là phương pháp duy nhất và cấp bách để giải phóng áp lực, cứu các cơ và thần kinh khỏi hoại tử không hồi phục."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi thiếu máu chân sau can thiệp nội mạch vùng bẹn",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 62 tuổi, vừa trải qua thủ thuật chụp mạch vành qua đường chọc động mạch đùi chung phải cách đây 4 giờ. Bác sĩ rút sheath và băng ép chặt cầm máu. Hiện tại, bệnh nhân phàn nàn bàn chân phải lạnh buốt.<br><br><b>Khám lâm sàng:</b> Vùng nếp bẹn phải khô, không có khối sưng bầm đập nảy theo nhịp tim. Cẳng bàn chân phải lạnh hơn bên trái, nhợt nhạt. Mạch đùi phải ngay dưới băng ép bắt rất yếu, không sờ thấy mạch khoeo và mạch mu chân phải. Bệnh nhân vẫn vận động gập duỗi ngón chân được bình thường.",
+      "questions": [
+        {
+          "q": "Tổn thương mạch máu nào tại vị trí chọc kim có khả năng cao nhất gây thiếu máu chi cấp ở bệnh nhân này?",
+          "options": [
+            "Vỡ túi giả phình động mạch đùi chung",
+            "Rách bong lớp nội mạc tạo vạt cản dòng",
+            "Phản ứng co thắt mạch máu toàn thân",
+            "Viêm nhiễm trùng mưng mủ tại vết chọc kim"
+          ],
+          "answer": 1,
+          "explain": "Thiếu máu chi cấp tính ngay sau can thiệp nội mạch qua đường động mạch đùi (iatrogenic) thường do quá trình chọc sheath làm rách bóc tách lớp nội mạc. Vạt nội mạc này cuộn lại gây bít tắc lòng mạch hoặc kích thích tạo huyết khối tại chỗ."
+        },
+        {
+          "q": "Đặc điểm \"không có khối sưng bầm đập nảy\" giúp loại trừ biến chứng nào sau đây?",
+          "options": [
+            "Giả phình động mạch đùi chung",
+            "Tắc mạch do bóc tách nội mạc",
+            "Huyết khối tĩnh mạch sâu chi dưới",
+            "Thuyên tắc do huyết khối từ tim"
+          ],
+          "answer": 0,
+          "explain": "Giả phình động mạch (pseudoaneurysm) là một khoang chứa máu nằm ngoài lòng mạch, thông với động mạch qua lổ rách. Biểu hiện lâm sàng đặc trưng là một khối sưng phồng, bầm tím và đập nảy theo nhịp tim. Băng ép khô, không có khối sưng giúp loại trừ giả phình."
+        },
+        {
+          "q": "Thăm dò hình ảnh học nào thực hiện nhanh nhất tại giường để đánh giá tổn thương mạch máu vùng đùi?",
+          "options": [
+            "Chụp X-quang khớp háng thẳng",
+            "Chụp cộng hưởng từ vùng chậu",
+            "Siêu âm Doppler mạch máu vùng bẹn",
+            "Chụp cắt lớp vi tính bụng chậu"
+          ],
+          "answer": 2,
+          "explain": "Siêu âm Doppler mạch máu tại giường là phương tiện tiêu chuẩn, nhanh chóng giúp phát hiện vạt nội mạc, đo vận tốc dòng chảy và xác định cục máu đông tại chỗ chọc kim mà không cần di chuyển bệnh nhân."
+        },
+        {
+          "q": "Bước xử trí lâm sàng ĐẦU TIÊN và đơn giản nhất khi phát hiện tình trạng này là gì?",
+          "options": [
+            "Truyền ngay thuốc tiêu sợi huyết tĩnh mạch",
+            "Tháo lỏng nhẹ băng ép và khám lại mạch",
+            "Chuyển thẳng bệnh nhân vào phòng mổ cắt chi",
+            "Cho bệnh nhân tập đi bộ để tăng tưới máu bàng hệ"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân đang được ép mạch cầm máu, băng ép có thể quá chặt gây cản trở dòng chảy. Bước đầu tiên đơn giản nhất là tháo lỏng nhẹ băng ép (vẫn đảm bảo không chảy máu ồ ạt) và bắt lại mạch xem có phục hồi không."
+        },
+        {
+          "q": "Nếu xác định có vạt nội mạc bong ra cản trở dòng chảy tại động mạch đùi, hướng phẫu thuật chuẩn mực là gì?",
+          "options": [
+            "Thắt hoàn toàn động mạch đùi chung vĩnh viễn",
+            "Bơm keo sinh học trực tiếp vào động mạch",
+            "Đặt lưới lọc tĩnh mạch đùi để ngừa huyết khối",
+            "Khâu đính lại nội mạc và vá mở rộng"
+          ],
+          "answer": 3,
+          "explain": "Can thiệp phẫu thuật tiêu chuẩn là bộc lộ động mạch đùi, khâu đính lại lớp nội mạc (tack-down) để tránh nếp gấp cản dòng chảy, sau đó khâu vá mở rộng lòng mạch bằng miếng vá tĩnh mạch."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi tắc mạch mạn tính với đau liên tục nằm lâu",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 72 tuổi, tiền sử đái tháo đường type 2, hút thuốc lá 30 bao.năm, có triệu chứng đau cách hồi bắp chân trái khoảng 100 mét từ 2 năm nay. Cách nhập viện 12 giờ, bệnh nhân xuất hiện đau liên tục bắp chân trái ngay cả khi nghỉ ngơi.<br><br><b>Khám lâm sàng:</b> Chân trái lạnh từ 1/3 dưới đùi, da teo rụng lông, móng có sọc. Không bắt được mạch khoeo và mạch mu chân trái, mạch đùi nảy yếu. Bệnh nhân mất cảm giác vùng bàn chân, yếu rõ rệt các ngón chân và không gập được cổ chân. Mạch đùi phải bắt yếu hơn bình thường.",
+      "questions": [
+        {
+          "q": "Cơ chế sinh bệnh chính gây ra bệnh cảnh cấp tính hiện tại là gì?",
+          "options": [
+            "Cục máu đông di chuyển từ tâm nhĩ trái",
+            "Nứt vỡ mảng xơ vữa tạo huyết khối tại chỗ",
+            "Co thắt động mạch do thần kinh giao cảm",
+            "Tăng áp lực thủy tĩnh hệ tĩnh mạch sâu"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có tiền sử đau cách hồi, khám có dấu hiệu thiếu máu mạn (teo da, rụng lông, móng sọc). Đây là bệnh cảnh điển hình của tắc mạch do huyết khối tại chỗ (thrombosis in situ) trên nền mảng xơ vữa nứt vỡ hoặc hẹp tiến triển."
+        },
+        {
+          "q": "Tại sao ống thông Fogarty lấy huyết khối đơn thuần KHÔNG PHẢI là lựa chọn tối ưu nhất ở bệnh nhân này?",
+          "options": [
+            "Gây rách lớp nội mạc động mạch đã xơ cứng",
+            "Nguy cơ làm thủng phình động mạch đi kèm",
+            "Dễ gây chảy máu ồ ạt do thuốc chống đông",
+            "Không lấy được các cục máu đông vi thể"
+          ],
+          "answer": 0,
+          "explain": "Ống thông Fogarty kéo cục máu đông ra nhưng không giải quyết được đoạn động mạch đã hẹp cứng do xơ vữa. Kéo bóng Fogarty qua mảng xơ vữa sẽ làm rách nội mạc, bong mảng xơ vữa gây tắc lại ngay lập tức."
+        },
+        {
+          "q": "Đặc điểm sinh lý bệnh nào giúp chân bệnh nhân chưa hoại tử hoàn toàn dù đã tắc mạch 12 giờ?",
+          "options": [
+            "Tình trạng hạ thân nhiệt tại chỗ chi dưới",
+            "Mạng lưới tuần hoàn bàng hệ phát triển",
+            "Tác dụng phụ của thuốc đái tháo đường",
+            "Nhu cầu chuyển hóa của tế bào cơ giảm"
+          ],
+          "answer": 1,
+          "explain": "Ở bệnh nhân có bệnh động mạch ngoại biên mạn tính, cơ thể đã thích nghi bằng cách phát triển mạng lưới tuần hoàn bàng hệ. Khi tắc nghẽn cấp tính xảy ra, bàng hệ giúp duy trì một phần tưới máu, làm chậm quá trình hoại tử."
+        },
+        {
+          "q": "Chọn tập hợp ĐÚNG về xử trí ban đầu ở bệnh nhân này:",
+          "options": [
+            "Để chân trái thõng thấp hơn mức tim, Chườm ấm vùng bắp chân trái để giãn mạch",
+            "Để chân trái thõng thấp hơn mức tim, Truyền tĩnh mạch Heparin không phân đoạn",
+            "Chườm ấm vùng bắp chân trái, Kê chân cao để giảm phù nề tĩnh mạch",
+            "Truyền tĩnh mạch Heparin không phân đoạn, Kê chân cao để giảm phù nề"
+          ],
+          "answer": 1,
+          "explain": "(1) Hạ chân thấp tận dụng trọng lực giúp máu động mạch đi xuống. (3) Heparin giúp ngăn huyết khối bám thêm vào hệ bàng hệ. Tuyệt đối không chườm nóng vì làm tăng nhu cầu oxy của mô gây hoại tử nhanh. Không kê cao chân vì làm giảm áp lực tưới máu động mạch."
+        },
+        {
+          "q": "Phương pháp can thiệp tái lưu thông mạch máu nào có khả năng mang lại hiệu quả cao nhất?",
+          "options": [
+            "Cắt bỏ đoạn động mạch đùi hoại tử",
+            "Phẫu thuật mở cân mạc cẳng chân",
+            "Phẫu thuật bắc cầu động mạch chi dưới",
+            "Bơm rửa kháng sinh vào động mạch"
+          ],
+          "answer": 2,
+          "explain": "Tắc mạch do huyết khối trên nền xơ vữa thường kéo dài và lòng mạch đã hẹp cứng. Phẫu thuật bắc cầu động mạch (bypass) vượt qua đoạn hẹp mang lại hiệu quả tái thông và độ bền lâu dài nhất."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 82 tuổi được phát hiện lơ mơ với chân hoại tử không hồi phục",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 82 tuổi, sống một mình, có tiền sử suy tim, được người nhà phát hiện nằm lơ mơ trên sàn nhà. Không rõ thời điểm khởi phát triệu chứng.<br><br><b>Khám lâm sàng:</b> SpO₂ 92%, huyết áp 90/60 mmHg, mạch 120 lần/phút. Toàn bộ chân phải từ gối trở xuống tím đen, có các mảng vân tím nổi rõ không biến mất khi ấn, da lạnh buốt. Bệnh nhân mất cảm giác hoàn toàn, cổ chân và các ngón chân cứng đờ không thể vận động thụ động do cứng khớp tử thi (rigor mortis). Siêu âm Doppler mất hoàn toàn tín hiệu động tĩnh mạch.<br><br><b>Xét nghiệm:</b> Nước tiểu qua sonde màu đỏ nâu. Kali máu 7.2 mmol/L, Creatinin 250 μmol/L.",
+      "questions": [
+        {
+          "q": "Tình trạng thiếu máu chi của bệnh nhân thuộc phân độ Rutherford nào?",
+          "options": [
+            "Phân độ Rutherford I",
+            "Phân độ Rutherford IIa",
+            "Phân độ Rutherford IIb",
+            "Phân độ Rutherford III"
+          ],
+          "answer": 3,
+          "explain": "Chân tím đen, nổi vân, mất hoàn toàn cảm giác và vận động, cơ co cứng (rigor mortis), mất tín hiệu Doppler tĩnh mạch là các dấu hiệu của hoại tử mô không thể đảo ngược, tương ứng với Rutherford độ III."
+        },
+        {
+          "q": "Cơ chế bệnh sinh gây ra dấu hiệu cứng khớp (rigor mortis) ở bệnh nhân này là gì?",
+          "options": [
+            "Co thắt cơ vân do phản xạ thần kinh",
+            "Cạn kiệt ATP trong tế bào cơ",
+            "Tăng áp lực nội khoang chèn ép các bó cơ",
+            "Lắng đọng canxi vào các mô kẽ ngoại bào"
+          ],
+          "answer": 1,
+          "explain": "Khi tế bào cơ thiếu máu kéo dài, quá trình hô hấp tế bào ngừng lại gây cạn kiệt ATP. Thiếu ATP khiến các cầu nối actin-myosin không thể tháo rời, dẫn đến tình trạng cơ cứng ngắc."
+        },
+        {
+          "q": "Rối loạn nào giải thích tình trạng nước tiểu màu đỏ nâu và suy thận cấp ở bệnh nhân này?",
+          "options": [
+            "Hội chứng tan máu niệu huyết cấp",
+            "Suy gan cấp gây tăng bilirubin máu",
+            "Hoại tử cơ vân giải phóng myoglobin",
+            "Xuất huyết tiêu hóa ẩn rỉ rả"
+          ],
+          "answer": 2,
+          "explain": "Sự hoại tử khối lượng lớn cơ vân làm giải phóng ồ ạt ion Kali nội bào và Myoglobin. Myoglobin đi qua thận làm nước tiểu có màu đỏ nâu, gây độc trực tiếp và tắc ống thận, dẫn đến suy thận cấp."
+        },
+        {
+          "q": "Biến chứng đe dọa tử vong ngay lập tức nếu cố tình tái thông mạch máu cho chi này là gì?",
+          "options": [
+            "Tắc lại mạch máu ngay sau khi mổ",
+            "Nhiễm trùng vết mổ sâu lan tỏa",
+            "Hội chứng tái tưới máu gây ngừng tim",
+            "Hình thành rò động tĩnh mạch mạn tính"
+          ],
+          "answer": 2,
+          "explain": "Nếu tái thông dòng máu vào vùng mô đã chết (Rutherford III), máu sẽ cuốn lượng khổng lồ Kali, acid lactic và myoglobin đổ về tim. Đây là hội chứng tái tưới máu, gây toan máu nặng, rối loạn nhịp tim và đột tử ngay trên bàn mổ."
+        },
+        {
+          "q": "Quyết định phẫu thuật ĐÚNG NHẤT để cứu mạng bệnh nhân trong hoàn cảnh này là gì?",
+          "options": [
+            "Cắt cụt chi nguyên phát",
+            "Mở động mạch lấy huyết khối Fogarty",
+            "Bắc cầu động mạch đùi khoeo bằng tĩnh mạch",
+            "Truyền thuốc tiêu sợi huyết qua ống thông"
+          ],
+          "answer": 0,
+          "explain": "Mọi nỗ lực tái tưới máu ở Rutherford III đều bị chống chỉ định tuyệt đối. Cắt cụt chi nguyên phát là chỉ định bắt buộc sau khi hồi sức để loại bỏ nguồn gây toan máu/nhiễm độc và cứu mạng bệnh nhân."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi đau đột ngột cẳng chân với rung nhĩ không điều trị đều",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 68 tuổi, tiền sử rung nhĩ nhưng không dùng thuốc chống đông đều đặn, vào cấp cứu vì đau dữ dội cẳng chân phải khởi phát đột ngột 3 giờ trước.<br><br><b>Khám lâm sàng:</b> Mạch 110 lần/phút không đều, huyết áp 130/80 mmHg. Chân phải từ gối trở xuống nhợt nhạt, lạnh, tĩnh mạch xẹp. Mạch đùi phải nảy mạnh, nhưng không bắt được mạch khoeo và mạch mu chân phải. Bệnh nhân còn cảm giác tê bì vùng ngón chân, vận động cổ chân và ngón chân bình thường. Chân trái ấm, bắt được các mạch ngoại vi.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguyên nhân gây thiếu máu chi cấp ở bệnh nhân này là gì?",
+          "options": [
+            "Huyết khối tĩnh mạch sâu chi dưới",
+            "Thuyên tắc động mạch do huyết khối",
+            "Huyết khối tắc mạch trên nền xơ vữa",
+            "Bóc tách động mạch chủ bụng"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có tiền sử rung nhĩ bỏ thuốc chống đông, triệu chứng khởi phát đột ngột, chi bên kia bình thường và tĩnh mạch xẹp. Đây là bệnh cảnh lâm sàng kinh điển của thuyên tắc mạch (Embolism) do cục máu đông từ buồng tim rớt xuống."
+        },
+        {
+          "q": "Phân độ thiếu máu chi cấp tính theo Rutherford ở bệnh nhân này là gì?",
+          "options": [
+            "Phân độ Rutherford I",
+            "Phân độ Rutherford IIa",
+            "Phân độ Rutherford IIb",
+            "Phân độ Rutherford III"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có đau, giảm cảm giác nhẹ (tê bì ngón chân) nhưng vận động cơ hoàn toàn bình thường, chưa có dấu hiệu yếu liệt. Theo phân loại Rutherford, đây là giai đoạn IIa (chi bị đe dọa nhẹ, có thể cứu vãn nếu can thiệp sớm)."
+        },
+        {
+          "q": "Bước xử trí nội khoa ban đầu nào cần được thực hiện ngay lập tức?",
+          "options": [
+            "Tiêm tĩnh mạch tPA",
+            "Uống Aspirin liều cao",
+            "Truyền tĩnh mạch Heparin",
+            "Tiêm bắp Vitamin K"
+          ],
+          "answer": 2,
+          "explain": "Heparin không phân đoạn (UFH) đường tĩnh mạch là điều trị nền tảng đầu tay cần dùng ngay lập tức khi nghi ngờ thiếu máu chi cấp để ngăn cục máu đông lan rộng và bảo vệ tuần hoàn bàng hệ."
+        },
+        {
+          "q": "Xét nghiệm cận lâm sàng nào có giá trị NHẤT để xác định nguồn gốc nhồi máu trong tình huống này?",
+          "options": [
+            "Siêu âm tĩnh mạch chi dưới",
+            "Siêu âm tim qua thành ngực",
+            "Chụp cắt lớp vi tính sọ não",
+            "Chụp X-quang phổi thẳng"
+          ],
+          "answer": 1,
+          "explain": "Thuyên tắc mạch ở bệnh nhân rung nhĩ chủ yếu xuất phát từ tiểu nhĩ trái. Siêu âm tim giúp phát hiện huyết khối trong buồng tim, đánh giá bệnh lý van tim và vận động thành tim, phục vụ cho quá trình quản lý dài hạn."
+        },
+        {
+          "q": "Phương pháp can thiệp ngoại khoa nào phù hợp nhất cho bệnh nhân này?",
+          "options": [
+            "Phẫu thuật bắc cầu mạch máu",
+            "Mở động mạch lấy huyết khối",
+            "Mở bốn khoang cẳng chân giải áp",
+            "Cắt cụt cẳng chân phải nguyên phát"
+          ],
+          "answer": 1,
+          "explain": "Lấy huyết khối bằng cơ học (ống thông Fogarty) là phương pháp phẫu thuật kinh điển, ít xâm lấn và đạt hiệu quả tái thông rất cao cho thuyên tắc cục máu đông trên nền động mạch bình thường (không có xơ vữa mạn tính)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 48 tuổi đang hóa trị với chân sưng tím dữ dội",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 48 tuổi, đang hóa trị ung thư vú, vào viện vì chân trái sưng to, tím ngắt và đau nhức dữ dội trong 12 giờ qua.<br><br><b>Khám lâm sàng:</b> Toàn bộ đùi và cẳng chân trái sưng phù căng cứng, chu vi đùi trái lớn hơn đùi phải 10 cm, da có màu xanh tím sẫm, nổi bọng nước lớn. Mạch bẹn trái bắt rõ, nhưng mạch khoeo và mạch mu chân trái không bắt được bằng tay. Bệnh nhân đau nhiều, hạn chế vận động thụ động.<br><br><b>Xét nghiệm:</b> Siêu âm Doppler: tĩnh mạch chậu và đùi trái lấp đầy huyết khối; động mạch đùi chung có dòng chảy bình thường nhưng mất phổ tại động mạch khoeo và chày.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hội chứng lâm sàng cấp tính phù hợp nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Viêm mô tế bào hoại tử cẳng chân",
+            "Tắc động mạch do thuyên tắc từ tim",
+            "Viêm tĩnh mạch xanh đau (Phlegmasia Cerulea Dolens)",
+            "Hội chứng chèn ép khoang do chấn thương"
+          ],
+          "answer": 2,
+          "explain": "Sưng phù khổng lồ toàn bộ chi, da tím sẫm, đau nhức dữ dội kèm nổi bọng nước trên bệnh nhân ung thư (tình trạng tăng đông) là bệnh cảnh kinh điển của Phlegmasia Cerulea Dolens - thể nặng nhất của huyết khối tĩnh mạch sâu."
+        },
+        {
+          "q": "Cơ chế chính dẫn đến mất mạch ngoại vi và thiếu máu chân trái của bệnh nhân là gì?",
+          "options": [
+            "Huyết khối tĩnh mạch di chuyển chéo sang động mạch",
+            "Áp lực mô kẽ tăng vượt áp lực mao mạch",
+            "Tình trạng tăng đông kích thích cục máu động mạch",
+            "Vi khuẩn yếm khí sinh hơi gây chèn ép mạch"
+          ],
+          "answer": 1,
+          "explain": "Huyết khối lấp kín toàn bộ hệ tĩnh mạch sâu làm áp lực tĩnh mạch và mô kẽ tăng vọt. Khi áp lực mô kẽ lớn hơn áp lực tưới máu mao mạch, dòng máu động mạch nuôi mô bị chặn lại hoàn toàn gây thiếu máu thứ phát."
+        },
+        {
+          "q": "Bước điều trị nội khoa ưu tiên số một đối với bệnh nhân này khi chưa có chống chỉ định là gì?",
+          "options": [
+            "Tiêm thuốc giãn mạch Papaverine",
+            "Truyền tĩnh mạch kháng sinh phổ rộng",
+            "Bọc chi bằng gạc tẩm dung dịch sát khuẩn",
+            "Dùng thuốc chống đông Heparin tĩnh mạch"
+          ],
+          "answer": 3,
+          "explain": "Heparin truyền tĩnh mạch liều điều trị là chỉ định đầu tay bắt buộc để ngăn chặn cục máu đông tĩnh mạch tiếp tục lan rộng và bảo tồn kênh bàng hệ tĩnh mạch còn sót lại."
+        },
+        {
+          "q": "Tại sao phẫu thuật mở động mạch kéo huyết khối bằng ống thông Fogarty là KHÔNG ĐÚNG trong trường hợp này?",
+          "options": [
+            "Vì động mạch hoàn toàn thông thoáng",
+            "Vì ống thông sẽ đẩy cục máu đông lên não",
+            "Vì bệnh nhân đang trong giai đoạn hóa trị",
+            "Vì tĩnh mạch đùi chưa được thắt lại"
+          ],
+          "answer": 0,
+          "explain": "Bản chất của việc mất mạch ngoại vi là do ứ trệ tĩnh mạch làm giảm gradien tưới máu. Hệ thống động mạch thực chất vẫn thông thoáng không có huyết khối nguyên phát. Kéo Fogarty động mạch là mù quáng và không giải quyết được nguyên nhân gốc rễ."
+        },
+        {
+          "q": "Khi đe dọa hoại tử chi do ứ trệ, phương pháp can thiệp nào là phù hợp nhất để giải quyết triệt để nguyên nhân?",
+          "options": [
+            "Phẫu thuật bắc cầu động mạch đùi chày",
+            "Tiêu sợi huyết định hướng qua catheter tĩnh mạch",
+            "Mở cân mạc cẳng chân bốn khoang",
+            "Cắt bỏ hệ thống tĩnh mạch sâu chi dưới"
+          ],
+          "answer": 1,
+          "explain": "Khi đe dọa hoại tử chi (mất mạch, yếu cơ), cần giải tỏa tắc nghẽn tĩnh mạch khẩn cấp. Can thiệp tiêu sợi huyết trực tiếp qua ống thông tĩnh mạch (CDT) hoặc lấy huyết khối cơ học tĩnh mạch là lựa chọn tối ưu để phục hồi đường về của máu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 75 tuổi khối phình khoeo hai bên với mất nhịp đập một bên",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 75 tuổi, có tiền sử tăng huyết áp. Sáu tháng trước, bệnh nhân tự sờ thấy hai khối đập theo nhịp mạch ở hố khoeo hai bên, không đau nhưng chưa đi khám. Sáng nay, bệnh nhân đột ngột đau buốt bàn chân trái.<br><br><b>Khám lâm sàng:</b> Chân trái lạnh, tím các ngón, mất mạch mu chân trái; khối ở khoeo trái căng cứng và không còn đập nảy. Chân phải không đau, khối khoeo đập mạnh, mạch mu chân phải rõ. Bệnh nhân còn cảm giác bàn chân trái, gập mặt lưng cổ chân trái yếu nhẹ.",
+      "questions": [
+        {
+          "q": "Tình trạng cấp tính nào đang xảy ra tại khối phình động mạch khoeo trái?",
+          "options": [
+            "Vỡ túi phình vào khoang hố khoeo",
+            "Huyết khối lấp kín lòng túi phình",
+            "Lóc tách lớp áo trong thành mạch",
+            "Biến chứng rò động tĩnh mạch khoeo"
+          ],
+          "answer": 1,
+          "explain": "Sự biến mất nhịp đập ở khối phình khoeo kèm theo triệu chứng thiếu máu chi cấp tính vùng hạ lưu chứng tỏ huyết khối đã bít tắc hoàn toàn lòng túi phình, làm mất dòng chảy đi qua."
+        },
+        {
+          "q": "Cơ chế giải phẫu bệnh chính gây thiếu máu ngoại vi do túi phình động mạch là gì?",
+          "options": [
+            "Dòng chảy rối tạo cục máu đông bám thành",
+            "Khối phình chèn ép vào tĩnh mạch đi kèm",
+            "Mỏng lớp áo ngoài làm vỡ mạch máu",
+            "Tăng sinh nội mạc tạo mảng xơ vữa lớn"
+          ],
+          "answer": 0,
+          "explain": "Phình động mạch khoeo gây ra dòng chảy cuộn xoáy bên trong túi, tạo điều kiện hình thành lớp huyết khối bám thành. Các mảnh huyết khối này dễ vỡ bong ra và trôi xuống lấp các nhánh vi mạch ngoại vi (thuyên tắc đoạn xa)."
+        },
+        {
+          "q": "Bệnh lý nào CẦN được siêu âm tầm soát ngay vì có tỷ lệ đồng mắc rất cao với phình động mạch khoeo?",
+          "options": [
+            "Phình động mạch chủ bụng",
+            "Hẹp hở van động mạch chủ",
+            "Phình động mạch não vỡ",
+            "Suy tĩnh mạch hiển lớn"
+          ],
+          "answer": 0,
+          "explain": "Có mối liên quan lâm sàng rất chặt chẽ: khoảng 40-50% bệnh nhân phình động mạch khoeo (đặc biệt khi bị cả hai bên) có mắc kèm phình động mạch chủ bụng (AAA). Siêu âm bụng tầm soát AAA là bắt buộc."
+        },
+        {
+          "q": "Tại sao lấy huyết khối bằng Fogarty đơn thuần KHÔNG được khuyến cáo trong trường hợp này?",
+          "options": [
+            "Dễ làm rách tĩnh mạch đi kèm",
+            "Ống thông bị dị ứng với thành túi phình",
+            "Túi phình còn tồn tại gây tái tắc mạch",
+            "Cục máu đông quá lớn không kéo được"
+          ],
+          "answer": 2,
+          "explain": "Lấy huyết khối bằng ống thông Fogarty có thể mở thông lòng mạch tạm thời, nhưng khoang phình giãn rỗng vẫn còn đó. Dòng chảy đi qua túi phình sẽ tiếp tục tạo xoáy, nhanh chóng hình thành huyết khối mới và tái tắc mạch."
+        },
+        {
+          "q": "Lựa chọn phẫu thuật chuẩn mực nhất đối với bệnh lý này là gì?",
+          "options": [
+            "Tiêm chất xơ hóa trực tiếp vào khối",
+            "Rạch mở túi phình lấy huyết khối",
+            "Đình chỉ túi phình và bắc cầu mạch",
+            "Đặt stent graft che phủ túi phình"
+          ],
+          "answer": 2,
+          "explain": "Phẫu thuật chuẩn mực là thắt động mạch ở đầu gần và đầu xa túi phình (ligation/exclusion) để loại trừ nó khỏi vòng tuần hoàn, kết hợp bắc cầu tĩnh mạch hiển tự thân vòng qua tổn thương để tưới máu chi dưới."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 60 tuổi liệt hai chân đột ngột với hẹp van hai lá",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 60 tuổi, tiền sử hẹp van hai lá và rung nhĩ, tự ý ngưng thuốc chống đông 2 tuần nay. Bệnh nhân đang đi dạo thì gục ngã vì đau dữ dội hai chân và vùng bụng dưới.<br><br><b>Khám lâm sàng:</b> Mạch 130 lần/phút không đều, huyết áp 140/90 mmHg. Bệnh nhân liệt mềm hai chi dưới, mất cảm giác từ ngang nếp bẹn trở xuống. Da hai chân tái nhợt, lạnh toát. Mất hoàn toàn mạch bẹn (mạch đùi chung), mạch khoeo và mạch mu chân hai bên.",
+      "questions": [
+        {
+          "q": "Vị trí thuyên tắc mạch máu có khả năng cao nhất gây ra bệnh cảnh này là ở đâu?",
+          "options": [
+            "Chạc ba động mạch chủ bụng chậu",
+            "Động mạch đùi chung hai bên",
+            "Động mạch mạc treo tràng trên",
+            "Động mạch khoeo hai bên"
+          ],
+          "answer": 0,
+          "explain": "Triệu chứng thiếu máu chi cấp tính rầm rộ, đối xứng, liệt và mất mạch từ nếp bẹn trở xuống ở cả hai bên chân là dấu hiệu của cục máu đông lấp nghẽn tại ngã ba động mạch chủ bụng chia ra hai động mạch chậu (Saddle embolus)."
+        },
+        {
+          "q": "Chẩn đoán phân biệt cấp cứu quan trọng nhất rất dễ nhầm lẫn với biểu hiện liệt hai chân đột ngột là gì?",
+          "options": [
+            "Nhồi máu cơ tim thành dưới",
+            "Cơn đau quặn thận hai bên",
+            "Chèn ép tủy sống cắt ngang cấp",
+            "Viêm rễ dây thần kinh ngoại biên"
+          ],
+          "answer": 2,
+          "explain": "Thiếu máu khối cơ chậu hông và rễ thần kinh tủy sống thắt lưng cùng gây liệt mềm và tê bì diện rộng. Biểu hiện này cực kỳ dễ nhầm lẫn với hội chứng chèn ép tủy sống cấp tính (ví dụ máu tụ màng cứng tủy)."
+        },
+        {
+          "q": "Dấu hiệu lâm sàng nào quyết định giúp loại trừ tổn thương thần kinh tủy sống trong tình huống này?",
+          "options": [
+            "Bệnh nhân có liệt mềm hai chân",
+            "Mất cảm giác đau ngang mức bẹn",
+            "Mất mạch bẹn và hai chân nhợt nhạt",
+            "Không có tiền sử chấn thương cột sống"
+          ],
+          "answer": 2,
+          "explain": "Chìa khóa để phân biệt là sờ mạch ngoại vi. Trong tổn thương tủy sống, mạch máu không bị ảnh hưởng nên chi dưới vẫn ấm và mạch đùi bắt rõ. Sự vắng mặt của mạch bẹn và da lạnh tái nhợt khẳng định đây là bệnh lý vô mạch."
+        },
+        {
+          "q": "Nguy cơ thiếu máu cơ quan nào khác có thể xảy ra đồng thời do cục máu đông tại vị trí này?",
+          "options": [
+            "Thiếu máu nhu mô não cấp tính",
+            "Thiếu máu mạc treo tràng dưới",
+            "Thiếu máu cơ tim cấp tính",
+            "Thiếu máu phần mềm vùng cổ"
+          ],
+          "answer": 1,
+          "explain": "Cục máu đông lấp tại chạc ba chủ chậu có thể tạo huyết khối lan lên cao hoặc các mảnh vỡ trôi vào lỗ xuất phát động mạch mạc treo tràng dưới, gây thiếu máu đại tràng (dấu hiệu đau bụng dưới của bệnh nhân phản ánh điều này)."
+        },
+        {
+          "q": "Lựa chọn phẫu thuật kinh điển và ít xâm lấn nhất để lấy cục máu đông là gì?",
+          "options": [
+            "Mở bụng bộc lộ động mạch chủ bụng",
+            "Phẫu thuật bắc cầu nách đùi hai bên",
+            "Mở động mạch đùi luồn Fogarty ngược dòng",
+            "Đặt stent graft động mạch chủ qua da"
+          ],
+          "answer": 2,
+          "explain": "Mở ổ bụng ở bệnh nhân suy tim nặng nề là quá nguy hiểm. Can thiệp kinh điển và an toàn hơn là bộc lộ hai động mạch đùi chung tại bẹn, luồn ống thông Fogarty ngược dòng lên động mạch chủ bụng để kéo cục máu đông ra ngoài từ cả hai bên."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi đau lưng dữ dội với thiếu máu chân trái và chênh huyết áp hai tay",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 60 tuổi, tiền sử tăng huyết áp chưa kiểm soát tốt. Bệnh nhân đột ngột đau xé vùng giữa hai bả vai lan xuống thắt lưng, vã mồ hôi. Khoảng 1 giờ sau, chân trái lạnh buốt và tê dại.<br><br><b>Khám lâm sàng:</b> Huyết áp tay phải 170/95 mmHg, tay trái 110/60 mmHg. Chân trái lạnh, da nhợt nhạt, mất mạch đùi và mạch khoeo trái. Mạch đùi phải nảy mạnh.<br><br><b>Xét nghiệm:</b> Siêu âm Doppler có phổ dòng chảy mất hoàn toàn tại gốc động mạch chậu trái. Điện tâm đồ bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguyên nhân gây thiếu máu chi dưới cấp tính phù hợp nhất là gì?",
+          "options": [
+            "Nhồi máu cơ tim cấp có thuyên tắc",
+            "Bóc tách động mạch chủ ngực bụng",
+            "Vỡ phình động mạch chủ bụng dưới thận",
+            "Viêm tắc tĩnh mạch huyết khối lan rộng"
+          ],
+          "answer": 1,
+          "explain": "Tính chất đau xé dữ dội ở lưng kèm theo chênh lệch huyết áp hai tay > 20 mmHg là bệnh cảnh kinh điển của lóc tách động mạch chủ (Aortic Dissection). Mất mạch chân trái là biến chứng giảm tưới máu (malperfusion) của nó."
+        },
+        {
+          "q": "Cơ chế làm tắc nghẽn dòng máu động mạch xuống chân trái là gì?",
+          "options": [
+            "Cục máu đông từ tiểu nhĩ di chuyển xuống",
+            "Áp lực tĩnh mạch tăng quá cao gây chèn ép",
+            "Lòng giả căng phồng chèn ép lòng thật",
+            "Mảng xơ vữa bong tróc lấp kín lòng mạch"
+          ],
+          "answer": 2,
+          "explain": "Trong bóc tách động mạch chủ, máu chui qua lổ rách tạo thành lòng giả. Hội chứng giảm tưới máu chi xảy ra do lòng giả căng phồng chèn ép lòng thật đến mức tắc nghẽn, hoặc vạt nội mạc bít lấp lổ xuất phát của động mạch chậu."
+        },
+        {
+          "q": "Trong hoàn cảnh lâm sàng này, biện pháp dùng thuốc nào BỊ CHỐNG CHỈ ĐỊNH tuyệt đối?",
+          "options": [
+            "Thuốc chẹn beta giao cảm đường tĩnh mạch",
+            "Thuốc tiêu sợi huyết toàn thân",
+            "Thuốc giảm đau thần kinh trung ương",
+            "Thuốc ức chế men chuyển dạng uống"
+          ],
+          "answer": 1,
+          "explain": "Tiêu sợi huyết toàn thân hoặc chống đông mạnh là CHỐNG CHỈ ĐỊNH tuyệt đối trong bóc tách động mạch chủ do nguy cơ gây chảy máu ồ ạt qua mảng rách, dẫn đến vỡ mạch hoặc chèn ép tim tẩm nhuận màng ngoài tim."
+        },
+        {
+          "q": "Xét nghiệm hình ảnh học nào là tiêu chuẩn vàng để xác định chẩn đoán và lập chiến lược phẫu thuật?",
+          "options": [
+            "Siêu âm Doppler động mạch chi dưới hai bên",
+            "Chụp X-quang lồng ngực thẳng tại giường",
+            "Định lượng D-dimer huyết thanh",
+            "Chụp cắt lớp vi tính động mạch chủ"
+          ],
+          "answer": 3,
+          "explain": "Chụp cắt lớp vi tính (CTA) toàn bộ động mạch chủ có cản quang là tiêu chuẩn vàng giúp đánh giá lòng thật, lòng giả, vị trí rách nội mạc và tình trạng tưới máu nội tạng để lập chiến lược mổ cấp cứu."
+        },
+        {
+          "q": "Nếu bác sĩ nhầm lẫn với thuyên tắc mạch và chọc ống Fogarty ngược dòng từ nếp bẹn trái, biến chứng nào có thể lập tức gây tử vong?",
+          "options": [
+            "Thủng lớp nội mạc gây vỡ động mạch chủ",
+            "Kích thích hình thành cục máu đông lớn hơn",
+            "Gây tăng huyết áp nội sọ đột ngột",
+            "Tạo phản ứng dị ứng phản vệ toàn thân"
+          ],
+          "answer": 0,
+          "explain": "Ống thông Fogarty chỉ dùng để kéo cục máu đông trong lòng mạch nguyên vẹn. Chọc mù ống thông ngược dòng vào động mạch chậu đang bị lóc tách có thể làm xuyên thủng lớp nội mạc mỏng manh, xé toạc vỡ động mạch chủ đe dọa tính mạng tại chỗ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 25 tuổi trật khớp gối lần hai với thiếu máu chi sau nắn chỉnh",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 25 tuổi, vào cấp cứu sau tai nạn xe máy bị biến dạng khớp gối phải. X-quang xác định trật khớp gối phải ra sau. Bác sĩ đã tiến hành nắn chỉnh khớp thành công và cố định bằng nẹp. Tuy nhiên 1 giờ sau, bệnh nhân kêu đau buốt bàn chân phải.<br><br><b>Khám lâm sàng:</b> Bàn chân phải nhợt nhạt, lạnh, thời gian đổ đầy mao mạch (CRT) > 3 giây; không bắt được mạch chày sau và mạch mu chân. Mạch đùi phải bình thường. Các tổn thương khác đã được kiểm soát ổn định.",
+      "questions": [
+        {
+          "q": "Tổn thương nào có khả năng cao nhất gây ra tình trạng thiếu máu chân phải sau nắn khớp?",
+          "options": [
+            "Lóc tách nội mạc động mạch khoeo",
+            "Hội chứng chèn ép khoang cẳng chân",
+            "Gãy thân xương chày chèn ép bó mạch",
+            "Huyết khối tĩnh mạch khoeo sâu cấp tính"
+          ],
+          "answer": 0,
+          "explain": "Trật khớp gối là chấn thương năng lượng cao có nguy cơ tổn thương động mạch khoeo rất lớn (30-40%). Mất mạch sau nắn trật là dấu hiệu chỉ điểm mạch máu đã bị rách hoặc lóc tách nội mạc bít lấp lòng mạch."
+        },
+        {
+          "q": "Đặc điểm giải phẫu nào làm động mạch này dễ bị đứt hoặc rách nội mạc trong trật khớp gối?",
+          "options": [
+            "Thành động mạch mỏng manh và dễ vỡ",
+            "Mạch máu bị neo giữ chặt bởi gân cơ",
+            "Động mạch nằm sát ngay dưới lớp mỡ dưới da",
+            "Động mạch chia nhánh quá sớm ngay tại khe khớp"
+          ],
+          "answer": 1,
+          "explain": "Động mạch khoeo bị cố định rất chặt ở phía trên (vòng gân cơ khép) và phía dưới (cung cơ dép). Khi khớp gối di lệch mạnh, động mạch không có không gian trượt nên bị kéo căng, dẫn đến rách nội mạc hoặc đứt lìa."
+        },
+        {
+          "q": "Thăm dò nào nên được chỉ định khẩn cấp trên bệnh nhân huyết động ổn định để chuẩn bị mổ?",
+          "options": [
+            "Chụp X-quang khớp gối tư thế nghiêng",
+            "Chụp cộng hưởng từ toàn bộ dây chằng khớp gối",
+            "Chụp cắt lớp vi tính mạch máu chi dưới",
+            "Đo áp lực nội khoang cẳng chân phải"
+          ],
+          "answer": 2,
+          "explain": "Dấu hiệu thiếu máu chi rõ ràng (mất mạch, CRT kéo dài). Trên bệnh nhân huyết động ổn định, CTA chi dưới là tiêu chuẩn vàng để lập bản đồ vị trí đứt mạch, độ dài đoạn giập nát và tình trạng mạch máu phần xa trước khi mổ."
+        },
+        {
+          "q": "Phương án nào KHÔNG ĐÚNG về nguyên tắc xử trí phẫu thuật đoạn mạch máu giập nát do chấn thương?",
+          "options": [
+            "Cắt bỏ hoàn toàn đoạn động mạch bị giập nát",
+            "Ghép bằng tĩnh mạch hiển tự thân đảo chiều",
+            "Kéo huyết khối bằng Fogarty đơn thuần",
+            "Tránh khâu nối tận - tận khi miệng nối căng"
+          ],
+          "answer": 2,
+          "explain": "Phương án C là KHÔNG ĐÚNG. Với tổn thương giập nát cơ học do chấn thương, Fogarty đơn thuần không giải quyết được thành mạch đã hỏng. Bắt buộc phải cắt lọc đoạn mạch hỏng và ghép phục hồi bằng tĩnh mạch."
+        },
+        {
+          "q": "Sau khi nối mạch máu thành công, thủ thuật nào thường được thực hiện ngay trong mổ để phòng ngừa biến chứng thứ phát?",
+          "options": [
+            "Cắt cụt dự phòng các ngón chân",
+            "Mở cân mạc cẳng chân dự phòng",
+            "Đặt ống dẫn lưu áp lực âm vào khớp gối",
+            "Thắt động mạch mác để tăng lưu lượng máu"
+          ],
+          "answer": 1,
+          "explain": "Tổn thương mô mềm nặng vùng gối cộng với thời gian thiếu máu dài khiến cơ cẳng chân có nguy cơ phù nề ồ ạt khi tưới máu lại. Rạch da mở mạc 4 khoang cẳng chân dự phòng (prophylactic fasciotomy) là thủ thuật bắt buộc ở cuối ca mổ để tránh hội chứng chèn ép khoang."
+        }
+      ]
+    }
+  ]
+}
