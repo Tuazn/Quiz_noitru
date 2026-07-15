@@ -1,0 +1,560 @@
+{
+  "name": "Sốt ở trẻ em MCQ",
+  "description": "MCQ về Sốt ở trẻ em, bao gồm định nghĩa, cơ chế sinh lý bệnh, nguyên nhân, chẩn đoán và xử trí.",
+  "level": "Đại học / Sau đại học",
+  "type": "mcq",
+  "category": "Nhi",
+  "subcategory": "Truyền nhiễm",
+  "questions": [
+    {
+      "q": "Theo định nghĩa kinh điển, một trẻ được xác định là sốt khi nhiệt độ đo ở trực tràng từ mức nào trở lên?",
+      "options": [
+        "37,2°C",
+        "37,5°C",
+        "38,0°C",
+        "38,5°C"
+      ],
+      "answer": 2,
+      "explain": "Sốt được định nghĩa là tình trạng tăng nhiệt độ trung tâm cơ thể, thường lấy mốc ≥ 38°C khi đo ở trực tràng. Các vị trí khác như nách thường thấp hơn khoảng 0.5°C. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Vị trí đo nhiệt độ nào sau đây phản ánh chính xác nhất nhiệt độ trung tâm của cơ thể trẻ?",
+      "options": [
+        "Nách",
+        "Trực tràng",
+        "Miệng",
+        "Màng nhĩ"
+      ],
+      "answer": 1,
+      "explain": "Đo nhiệt độ trực tràng là tiêu chuẩn vàng để xác định nhiệt độ trung tâm ở trẻ em, đặc biệt là trẻ nhỏ, vì ít bị ảnh hưởng bởi môi trường bên ngoài. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Nguyên nhân gây sốt thường gặp nhất ở trẻ em trong thực hành lâm sàng là gì?",
+      "options": [
+        "Nhiễm vi khuẩn",
+        "Nhiễm virus",
+        "Bệnh lý tự miễn",
+        "Mọc răng"
+      ],
+      "answer": 1,
+      "explain": "Đa số các đợt sốt cấp tính ở trẻ em là do nhiễm virus đường hô hấp hoặc tiêu hóa tự giới hạn. Nhiễm khuẩn nặng chiếm tỷ lệ thấp hơn nhưng cần cảnh giác. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Khái niệm \"Sốt không rõ nguồn gốc\" (FUO) kinh điển ở trẻ em thường yêu cầu thời gian sốt kéo dài ít nhất bao lâu?",
+      "options": [
+        "3 ngày",
+        "7 ngày",
+        "14 ngày",
+        "21 ngày"
+      ],
+      "answer": 2,
+      "explain": "FUO được định nghĩa là sốt ≥ 38,3°C kéo dài trên 14 ngày (hoặc 2-3 tuần tùy tài liệu) mà chưa tìm được nguyên nhân sau một tuần thăm khám và làm xét nghiệm cơ bản. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Trong nhịp sinh học bình thường, nhiệt độ cơ thể trẻ thường cao nhất vào thời điểm nào trong ngày?",
+      "options": [
+        "Sáng sớm (4h-6h)",
+        "Trưa (11h - 13h)",
+        "Chiều tối (17h-19h)",
+        "Nửa đêm (23h-1h)"
+      ],
+      "answer": 2,
+      "explain": "Nhiệt độ cơ thể có sự biến thiên trong ngày, thường thấp nhất vào sáng sớm và cao nhất vào cuối buổi chiều hoặc đầu buổi tối. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Phát biểu nào sau đây đúng về tình trạng \"Sốt không có ổ nhiễm khuẩn khu trú\" (FWS)?",
+      "options": [
+        "Là sốt kéo dài trên 2 tuần",
+        "Sốt kèm theo phát ban toàn thân",
+        "Sốt không tìm thấy nguyên nhân sau khi hỏi bệnh và khám lâm sàng kỹ lưỡng",
+        "Sốt do phản ứng sau tiêm chủng"
+      ],
+      "answer": 2,
+      "explain": "FWS là tình trạng sốt cấp tính (thường < 1 tuần) mà việc thăm khám lâm sàng cẩn thận ban đầu không phát hiện ra ổ nhiễm trùng rõ ràng nào. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Chất gây sốt nội sinh nào sau đây đóng vai trò chủ chốt trong việc khởi động quá trình gây sốt tại vùng dưới đồi?",
+      "options": [
+        "Interleukin-1 (IL-1)",
+        "Histamine",
+        "Bradykinin",
+        "Serotonin"
+      ],
+      "answer": 0,
+      "explain": "IL-1, IL-6 và TNF-alpha là các cytokine gây sốt nội sinh quan trọng nhất, trong đó IL-1 tác động trực tiếp lên trung tâm điều nhiệt ở vùng dưới đồi. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Chất trung gian hóa học cuối cùng tác động trực tiếp làm thay đổi \"điểm đặt nhiệt\" (set-point) tại vùng dưới đồi là:",
+      "options": [
+        "cAMP",
+        "Prostaglandin E2 (PGE2)",
+        "Leukotriene",
+        "Nitric Oxide"
+      ],
+      "answer": 1,
+      "explain": "Các cytokine kích thích tổng hợp PGE2 tại vùng dưới đồi, làm tăng điểm đặt nhiệt, dẫn đến các đáp ứng giữ nhiệt và tạo nhiệt gây sốt. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Sự khác biệt cơ bản giữa \"Sốt\" và \"Tăng thân nhiệt\" (Hyperthermia) là gì?",
+      "options": [
+        "Sốt có nhiệt độ cao hơn",
+        "Sốt không đáp ứng với thuốc hạ sốt",
+        "Tăng thân nhiệt không có sự thay đổi điểm đặt nhiệt tại vùng dưới đồi",
+        "Sốt chỉ gặp trong nhiễm trùng"
+      ],
+      "answer": 2,
+      "explain": "Trong sốt, điểm đặt nhiệt bị đẩy lên cao. Trong tăng thân nhiệt (như say nóng), điểm đặt nhiệt bình thường nhưng cơ thể không thải được nhiệt hoặc sinh nhiệt quá mức. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Giai đoạn \"sốt đứng\" (plateau) trong quá trình sốt đặc trưng bởi cơ chế nào?",
+      "options": [
+        "Sản sinh nhiệt lớn hơn thải nhiệt",
+        "Thải nhiệt lớn hơn sản sinh nhiệt",
+        "Sản sinh nhiệt và thải nhiệt cân bằng ở mức cao",
+        "Ngừng hoàn toàn quá trình thải nhiệt"
+      ],
+      "answer": 2,
+      "explain": "Ở giai đoạn sốt đứng, cơ thể đã đạt đến điểm đặt nhiệt mới, sự sinh nhiệt và thải nhiệt tạm thời cân bằng nhưng ở mức nhiệt độ cao. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Hiện tượng trẻ rùng mình, nổi gai ốc khi bắt đầu sốt là do cơ chế nào?",
+      "options": [
+        "Cơ thể đang cố gắng thải nhiệt nhanh",
+        "Phản ứng co mạch ngoại vi và tăng sản sinh nhiệt để đạt điểm đặt nhiệt mới",
+        "Tác dụng phụ của cytokine lên hệ thần kinh trung ương",
+        "Giảm chuyển hóa cơ bản"
+      ],
+      "answer": 1,
+      "explain": "Khi điểm đặt nhiệt tăng lên, cơ thể cảm thấy \"lạnh\" so với mức nhiệt mới nên co mạch (nổi gai ốc) và run (sinh nhiệt) để nâng thân nhiệt lên. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Khi thân nhiệt tăng thêm 1°C, nhu cầu tiêu thụ oxy của cơ thể trẻ tăng thêm khoảng bao nhiêu?",
+      "options": [
+        "5%",
+        "13%",
+        "25%",
+        "50%"
+      ],
+      "answer": 1,
+      "explain": "Sốt làm tăng chuyển hóa cơ bản. Trung bình mỗi 1°C tăng thêm, nhu cầu oxy tăng khoảng 10-13%, điều này cần lưu ý ở trẻ có bệnh tim phổi mạn tính. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Tác dụng có lợi của sốt trong phản ứng bảo vệ cơ thể KHÔNG bao gồm ý nào?",
+      "options": [
+        "Ức chế sự nhân lên của một số virus và vi khuẩn",
+        "Tăng cường chức năng thực bào của bạch cầu",
+        "Tăng sản xuất kháng thể",
+        "Giảm nhu cầu năng lượng của các cơ quan"
+      ],
+      "answer": 3,
+      "explain": "Sốt thực tế làm tăng tiêu thụ năng lượng và oxy. Các ý A, B, C là những phản ứng miễn dịch có lợi khi cơ thể sốt ở mức vừa phải. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Vi khuẩn Gram âm gây sốt chủ yếu thông qua thành phần nào đóng vai trò là chất gây sốt ngoại sinh?",
+      "options": [
+        "Exotoxin (Ngoại độc tố)",
+        "Lipopolysaccharide (Nội độc tố)",
+        "Peptidoglycan",
+        "Acid Teichoic"
+      ],
+      "answer": 1,
+      "explain": "Nội độc tố (LPS) của vi khuẩn Gram âm là chất gây sốt ngoại sinh mạnh, kích thích đại thực bào giải phóng các cytokine gây sốt nội sinh. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Thông thường, khi thân nhiệt trẻ tăng thêm 1°C thì nhịp tim sẽ tăng thêm bao nhiêu nhịp/phút?",
+      "options": [
+        "5-10 nhịp",
+        "10-15 nhịp",
+        "20-25 nhịp",
+        "Không thay đổi"
+      ],
+      "answer": 1,
+      "explain": "Đây là mối liên quan kinh điển giữa nhiệt độ và nhịp tim. Nếu nhiệt độ tăng mà nhịp tim không tăng tương ứng gọi là \"phân ly mạch nhiệt độ\" (gặp trong thương hàn). Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Một trẻ 2 tuổi vào viện vì sốt. Khám thấy trẻ tỉnh táo, hồng hào, chơi ngoan khi hết sốt. Dấu hiệu này gợi ý điều gì?",
+      "options": [
+        "Trẻ chắc chắn bị nhiễm virus",
+        "Trẻ có ít nguy cơ bị nhiễm khuẩn nặng",
+        "Trẻ đang trong giai đoạn ủ bệnh của nhiễm trùng huyết",
+        "Không có giá trị định hướng lâm sàng"
+      ],
+      "answer": 1,
+      "explain": "Tình trạng lâm sàng (toàn trạng) là chỉ số quan trọng nhất. Một đứa trẻ \"tươi tỉnh\" khi hạ sốt thường ít có nguy cơ mắc các bệnh nhiễm khuẩn nghiêm trọng. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Triệu chứng lâm sàng nào sau đây là dấu hiệu \"báo động đỏ\" ở một trẻ đang sốt?",
+      "options": [
+        "Ăn kém hơn ngày thường một chút",
+        "Ngủ nhiều nhưng dễ đánh thức",
+        "Xuất hiện các nốt xuất huyết, hoại tử trên da",
+        "Nước tiểu hơi sẫm màu"
+      ],
+      "answer": 2,
+      "explain": "Các nốt xuất huyết (petechiae) hoặc tử ban (purpura) ở trẻ sốt có thể là dấu hiệu của nhiễm não mô cầu hoặc nhiễm trùng huyết nặng, cần xử trí cấp cứu. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Đặc điểm nào sau đây thuộc về co giật do sốt đơn thuần?",
+      "options": [
+        "Cơn giật kéo dài 20 phút",
+        "Giật cục bộ một bên tay hoặc chân",
+        "Cơn giật toàn thể kéo dài dưới 15 phút",
+        "Có từ 2 cơn giật trở lên trong vòng 24 giờ"
+      ],
+      "answer": 2,
+      "explain": "Co giật do sốt đơn thuần phải là: cơn toàn thể, thời gian < 15 phút, không tái phát trong 24 giờ và không có dấu hiệu thần kinh khu trú. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Trong chẩn đoán phân biệt, dấu hiệu nào giúp phân biệt sốt do mọc răng với sốt do nhiễm trùng?",
+      "options": [
+        "Sốt do mọc răng thường kéo dài trên 5 ngày",
+        "Sốt do mọc răng thường đi kèm với sưng lợi và hiếm khi vượt quá 38,5°C",
+        "Sốt do mọc răng thường gây co giật",
+        "Sốt do mọc răng đáp ứng kém với Paracetamol"
+      ],
+      "answer": 1,
+      "explain": "Sốt do mọc răng thường là sốt nhẹ, không gây triệu chứng toàn thân nặng và chỉ kéo dài trong vài ngày khi răng nhú qua lợi. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Trẻ 5 tháng tuổi, sốt 39°C, khám thấy thóp trước phồng nhẹ và li bì. Chẩn đoán cần ưu tiên loại trừ là:",
+      "options": [
+        "Sốt xuất huyết Dengue",
+        "Viêm màng não mủ",
+        "Nhiễm virus đường hô hấp",
+        "Sốt do mọc răng"
+      ],
+      "answer": 1,
+      "explain": "Ở trẻ nhỏ dưới 12 tháng, dấu hiệu thóp phồng và li bì khi sốt là triệu chứng kinh điển gợi ý nhiễm trùng hệ thần kinh trung ương. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Theo tiêu chuẩn chẩn đoán bệnh Kawasaki, trẻ cần phải sốt kéo dài ít nhất bao nhiêu ngày?",
+      "options": [
+        "3 ngày",
+        "5 ngày",
+        "7 ngày",
+        "10 ngày"
+      ],
+      "answer": 1,
+      "explain": "Tiêu chuẩn bắt buộc của Kawasaki là sốt kéo dài ≥ 5 ngày kèm theo ít nhất 4/5 triệu chứng lâm sàng đặc trưng (mắt đỏ, môi đỏ, phát ban, hạch cổ, biến đổi đầu chi). Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Hiện tượng \"Phân ly mạch nhiệt độ\" (nhiệt độ tăng cao nhưng mạch không tăng tương ứng) thường gặp nhất trong bệnh lý nào?",
+      "options": [
+        "Sốt xuất huyết",
+        "Viêm phổi do phế cầu",
+        "Thương hàn",
+        "Nhiễm khuẩn tiết niệu"
+      ],
+      "answer": 2,
+      "explain": "Đây là dấu hiệu kinh điển của bệnh thương hàn (Salmonella Typhi), giúp phân biệt với các nhiễm khuẩn sinh mủ thông thường. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Một trẻ sốt cao kèm theo đau họng, khám thấy loét vùng họng sau và mụn nước ở lòng bàn tay, bàn chân. Nguyên nhân hướng tới nhiều nhất là:",
+      "options": [
+        "Herpes simplex virus",
+        "Thủy đậu",
+        "Coxsackievirus (Tay chân miệng)",
+        "Liên cầu khuẩn nhóm A"
+      ],
+      "answer": 2,
+      "explain": "Vị trí tổn thương ở họng, lòng bàn tay, bàn chân là tam chứng kinh điển của bệnh Tay chân miệng, thường do Coxsackievirus A16 hoặc Enterovirus 71. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Khi đánh giá trẻ sốt, dấu hiệu nào sau đây chỉ số thời gian làm đầy mao mạch (CRT) bị kéo dài?",
+      "options": [
+        "CRT < 2 giây",
+        "CRT = 2 giây",
+        "CRT > 3 giây",
+        "Da trẻ hồng hào"
+      ],
+      "answer": 2,
+      "explain": "CRT > 3 giây là dấu hiệu của tưới máu ngoại vi kém, có thể cảnh báo tình trạng sốc nhiễm khuẩn ở trẻ đang sốt cao. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Trẻ 10 tháng tuổi, sốt cao liên tục 3 ngày, sau khi hạ sốt thì xuất hiện phát ban dạng sần màu hồng khắp thân mình, trẻ tươi tỉnh. Chẩn đoán phù hợp nhất là:",
+      "options": [
+        "Sởi",
+        "Sốt phát ban (Roseola Infantum)",
+        "Rubella",
+        "Tăng bạch cầu đơn nhân nhiễm khuẩn"
+      ],
+      "answer": 1,
+      "explain": "Đặc điểm \"sốt cao đột ngột, hết sốt mới phát ban và toàn trạng tốt\" là điển hình của bệnh Roseola do HHV-6. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Trong đánh giá mức độ mất nước ở trẻ sốt, dấu hiệu \"nếp véo da mất rất chậm\" được xác định khi thời gian là:",
+      "options": [
+        "< 1 giây",
+        "1-2 giây",
+        "> 2 giây",
+        "Mất ngay lập tức"
+      ],
+      "answer": 2,
+      "explain": "Nếp véo da mất rất chậm (> 2 giây) là dấu hiệu của mất nước nặng, cần bù dịch đường tĩnh mạch cấp cứu. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Đối với trẻ sơ sinh (dưới 28 ngày tuổi) bị sốt, thái độ xử trí xét nghiệm nào sau đây là phù hợp nhất theo các hướng dẫn hiện nay?",
+      "options": [
+        "Chỉ làm xét nghiệm máu, nếu bình thường cho về",
+        "Cấy máu, cấy nước tiểu và chọc dò tủy sống bắt buộc cho tất cả các trường hợp",
+        "Chỉ chọc dò tủy sống khi có dấu hiệu màng não rõ",
+        "Theo dõi tại nhà và tái khám sau 24 giờ"
+      ],
+      "answer": 1,
+      "explain": "Trẻ sơ sinh sốt có nguy cơ cao bị nhiễm khuẩn nặng (SBI) mà không có biểu hiện lâm sàng rõ rệt, do đó cần làm bộ xét nghiệm tầm soát nhiễm khuẩn toàn diện và nhập viện. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Xét nghiệm nào sau đây có giá trị nhất trong việc phân biệt sốt do vi khuẩn và sốt do virus ở giai đoạn sớm?",
+      "options": [
+        "Số lượng bạch cầu tổng số",
+        "Tốc độ máu lắng (ESR)",
+        "Procalcitonin (PCT)",
+        "Chụp X-quang phổi"
+      ],
+      "answer": 2,
+      "explain": "Procalcitonin tăng sớm hơn và đặc hiệu cho nhiễm khuẩn hơn so với CRP hay số lượng bạch cầu, giúp định hướng sử dụng kháng sinh. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Theo tiêu chuẩn Rochester để sàng lọc trẻ sốt có nguy cơ thấp nhiễm khuẩn nặng, số lượng bạch cầu máu phải nằm trong khoảng nào?",
+      "options": [
+        "< 5.000/mm³",
+        "5.000 - 15.000/mm³",
+        "15.000 - 20.000/mm³",
+        "> 20.000/mm³"
+      ],
+      "answer": 1,
+      "explain": "Tiêu chuẩn Rochester yêu cầu bạch cầu máu từ 5.000 đến 15.000/mm³ là một trong những điều kiện để xếp trẻ vào nhóm nguy cơ thấp. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Loại nhiễm khuẩn nặng (SBI) thường gặp nhất ở trẻ dưới 3 tuổi bị sốt mà không tìm thấy ổ khu trú là:",
+      "options": [
+        "Viêm màng não",
+        "Nhiễm khuẩn tiết niệu",
+        "Viêm xương tủy",
+        "Nhiễm trùng huyết"
+      ],
+      "answer": 1,
+      "explain": "Nhiễm khuẩn tiết niệu (UTI) là nguyên nhân hàng đầu của FWS ở trẻ nhỏ, đặc biệt là bé gái và bé trai chưa cắt bao quy đầu. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Khi làm xét nghiệm nước tiểu để tìm nhiễm khuẩn tiết niệu ở trẻ sốt, yếu tố nào có giá trị chẩn đoán cao nhất khi kết hợp với lâm sàng?",
+      "options": [
+        "Có hồng cầu trong nước tiểu",
+        "Nitrite dương tính và bạch cầu trong nước tiểu",
+        "Nước tiểu có nhiều tinh thể urat",
+        "Độ pH nước tiểu kiềm"
+      ],
+      "answer": 1,
+      "explain": "Sự hiện diện của Nitrite (do vi khuẩn khử Nitrate) và bạch cầu (Leukocyte Esterase) là bằng chứng mạnh mẽ gợi ý nhiễm khuẩn tiết niệu. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Chọc dò tủy sống được chỉ định tuyệt đối trong trường hợp trẻ sốt kèm theo dấu hiệu nào?",
+      "options": [
+        "Nôn trớ sau ăn",
+        "Co giật do sốt đơn thuần ở trẻ 3 tuổi",
+        "Cơn giật do sốt đầu tiên ở trẻ dưới 6 tháng tuổi",
+        "Ho và chảy mũi"
+      ],
+      "answer": 2,
+      "explain": "Trẻ dưới 6 tháng có cơn giật kèm sốt cần được chọc dò tủy sống vì các dấu hiệu màng não ở lứa tuổi này rất kín đáo và dễ bỏ sót viêm màng não. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Chỉ số bạch cầu đũa (band cells) trong máu ngoại vi bao nhiêu được coi là một yếu tố nguy cơ của nhiễm khuẩn nặng?",
+      "options": [
+        "> 500/mm³",
+        "> 1.500/mm³",
+        "> 5.000/mm³",
+        "< 100/mm³"
+      ],
+      "answer": 1,
+      "explain": "Bạch cầu đũa > 1.500/mm³ (hoặc tỷ lệ bạch cầu non/bạch cầu trung tính > 0,2) là dấu hiệu cảnh báo hệ miễn dịch đang phản ứng mạnh với nhiễm khuẩn. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Trong đánh giá trẻ sốt không rõ nguồn gốc (FUO), xét nghiệm hình ảnh học ban đầu nào luôn được ưu tiên thực hiện?",
+      "options": [
+        "Chụp CT toàn thân",
+        "Siêu âm ổ bụng và X-quang ngực thẳng",
+        "Chụp MRI não",
+        "Xạ hình xương"
+      ],
+      "answer": 1,
+      "explain": "X-quang ngực và siêu âm bụng là những thăm dò không xâm lấn, rẻ tiền giúp phát hiện các ổ nhiễm trùng sâu hoặc khối u gây sốt kéo dài. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Một trẻ 2 tháng tuổi sốt 38,5°C, các xét nghiệm máu (WBC, CRP) trong giới hạn bình thường. Theo hướng dẫn, bước tiếp theo cần làm gì?",
+      "options": [
+        "Cho về nhà theo dõi",
+        "Làm xét nghiệm nước tiểu (tổng phân tích và cấy)",
+        "Cho uống kháng sinh dự phòng ngay",
+        "Tiêm vaccine bổ sung"
+      ],
+      "answer": 1,
+      "explain": "Kể cả khi xét nghiệm máu bình thường, nhiễm khuẩn tiết niệu vẫn có thể hiện diện ở trẻ nhỏ sốt không rõ ổ khu trú. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Giá trị của CRP (C-Reactive Protein) trong chẩn đoán nhiễm khuẩn ở trẻ sốt là:",
+      "options": [
+        "Tăng ngay lập tức sau 1 giờ nhiễm khuẩn",
+        "Có độ nhạy cao nhưng độ đặc hiệu không cao bằng Procalcitonin",
+        "Chỉ tăng trong các bệnh lý ác tính",
+        "Luôn trở về bình thường khi trẻ hết sốt 2 giờ"
+      ],
+      "answer": 1,
+      "explain": "CRP bắt đầu tăng sau 4-6 giờ và đạt đỉnh sau 36-48 giờ. Nó là chỉ số viêm nhạy nhưng có thể tăng trong nhiều tình trạng viêm không do vi khuẩn. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Liều dùng khuyến cáo của Paracetamol trong hạ sốt cho trẻ em là bao nhiêu?",
+      "options": [
+        "5-10 mg/kg/lần",
+        "10-15 mg/kg/lần",
+        "20-30 mg/kg/lần",
+        "50 mg/kg/lần"
+      ],
+      "answer": 1,
+      "explain": "Đây là liều chuẩn để đảm bảo hiệu quả hạ sốt và an toàn cho gan. Khoảng cách giữa các liều thường là 4-6 giờ. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Tổng liều tối đa của Paracetamol trong vòng 24 giờ cho trẻ em không nên vượt quá:",
+      "options": [
+        "30 mg/kg",
+        "60 mg/kg",
+        "75-80 mg/kg",
+        "150 mg/kg"
+      ],
+      "answer": 2,
+      "explain": "Vượt quá liều 80 mg/kg/ngày (hoặc 75 mg/kg/ngày tùy hướng dẫn) làm tăng đáng kể nguy cơ ngộ độc gan cấp tính ở trẻ em. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Thuốc Ibuprofen thường được chỉ định hạ sốt cho trẻ từ mấy tháng tuổi trở lên?",
+      "options": [
+        "Sơ sinh",
+        "3 tháng tuổi",
+        "6 tháng tuổi",
+        "12 tháng tuổi"
+      ],
+      "answer": 2,
+      "explain": "Ibuprofen không được khuyến cáo dùng cho trẻ dưới 6 tháng tuổi do nguy cơ ảnh hưởng đến chức năng thận và các tác dụng phụ khác chưa được nghiên cứu đầy đủ. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Chống chỉ định quan trọng nhất của Ibuprofen khi trẻ đang sốt chưa rõ nguyên nhân tại Việt Nam là gì?",
+      "options": [
+        "Đang nghi ngờ sốt xuất huyết Dengue",
+        "Trẻ đang bị ho",
+        "Trẻ đang bị tiêu chảy nhẹ",
+        "Trẻ có tiền sử dị ứng sữa mẹ"
+      ],
+      "answer": 0,
+      "explain": "Ibuprofen ức chế kết tập tiểu cầu và có thể gây viêm loét dạ dày, làm trầm trọng thêm tình trạng chảy máu nếu trẻ mắc sốt xuất huyết Dengue. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Tại sao KHÔNG được dùng Aspirin để hạ sốt cho trẻ em bị nhiễm virus (như cúm, thủy đậu)?",
+      "options": [
+        "Vì Aspirin gây buồn ngủ",
+        "Vì nguy cơ gây hội chứng Reye (suy gan cấp và bệnh não)",
+        "Vì Aspirin làm trẻ sốt cao hơn",
+        "Vì Aspirin đắt tiền hơn Paracetamol"
+      ],
+      "answer": 1,
+      "explain": "Mối liên quan giữa Aspirin và hội chứng Reye ở trẻ em nhiễm virus là cực kỳ nguy hiểm, do đó Aspirin hiện nay không còn dùng làm thuốc hạ sốt thông thường ở trẻ em. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Cơ chế tác dụng hạ sốt chủ yếu của Paracetamol là:",
+      "options": [
+        "Ức chế enzyme COX tại hệ thần kinh trung ương",
+        "Gây giãn mạch ngoại vi mạnh mẽ",
+        "Ức chế giải phóng Histamine",
+        "Diệt vi khuẩn gây bệnh trực tiếp"
+      ],
+      "answer": 0,
+      "explain": "Paracetamol tác động chủ yếu bằng cách ức chế tổng hợp Prostaglandin tại não (vùng dưới đồi), ít có tác dụng chống viêm ngoại vi. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Biện pháp lau mát (chườm ấm) cho trẻ sốt có đặc điểm nào sau đây?",
+      "options": [
+        "Có hiệu quả hạ sốt kéo dài hơn thuốc uống",
+        "Chỉ nên thực hiện kết hợp sau khi đã dùng thuốc hạ sốt khoảng 30 phút",
+        "Dùng nước đá lạnh để lau là tốt nhất",
+        "Thay thế hoàn toàn được cho thuốc hạ sốt"
+      ],
+      "answer": 1,
+      "explain": "Lau mát bằng nước ấm chỉ có tác dụng thải nhiệt tạm thời. Nếu không dùng thuốc để hạ \"điểm đặt nhiệt\", cơ thể sẽ phản ứng bằng cách sinh nhiệt mạnh hơn (run). Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Trong điều trị sốt, mục tiêu chính của việc dùng thuốc hạ sốt là gì?",
+      "options": [
+        "Đưa nhiệt độ về mức 36,5 °C nhanh nhất có thể",
+        "Giảm sự khó chịu và cải thiện toàn trạng cho trẻ",
+        "Ngăn ngừa hoàn toàn co giật do sốt tái phát",
+        "Giúp tiêu diệt virus gây bệnh"
+      ],
+      "answer": 1,
+      "explain": "Thuốc hạ sốt chủ yếu giúp trẻ bớt đau, bớt quấy khóc, từ đó uống được nước và sữa tốt hơn. Nó không giúp rút ngắn thời gian bệnh hay ngăn ngừa co giật do sốt. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Trẻ bị sốt kèm theo tình trạng nào sau đây cần được bù dịch qua đường tĩnh mạch thay vì đường uống?",
+      "options": [
+        "Trẻ sốt 39°C nhưng vẫn uống được Oresol",
+        "Trẻ có dấu hiệu sốc hoặc mất nước nặng không thể uống được",
+        "Trẻ chỉ sốt nhẹ và ho khan",
+        "Mọi trường hợp sốt trên 38,5°C"
+      ],
+      "answer": 1,
+      "explain": "Bù dịch đường uống (Oresol) luôn là ưu tiên hàng đầu. Chỉ truyền dịch khi có chỉ định y khoa nghiêm ngặt (sốc, mất nước nặng, nôn liên tục). Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Khi trẻ bị co giật do sốt tại nhà, xử trí nào sau đây là SAI?",
+      "options": [
+        "Đặt trẻ nằm nghiêng sang một bên",
+        "Cho vật cứng vào miệng để tránh trẻ cắn vào lưỡi",
+        "Cởi bớt quần áo, làm thông thoáng môi trường",
+        "Dùng thuốc hạ sốt đường tọa dược (đặt hậu môn) khi cơn giật đã ngừng"
+      ],
+      "answer": 1,
+      "explain": "Việc cho vật cứng vào miệng có thể gây gãy răng, tổn thương niêm mạc miệng hoặc gây tắc nghẽn đường thở. Trẻ rất hiếm khi cắn vào lưỡi gây nguy hiểm trong cơn giật do sốt. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Trẻ có tiền sử co giật do sốt đơn thuần có nguy cơ mắc bệnh Động kinh sau này cao hơn trẻ bình thường bao nhiêu?",
+      "options": [
+        "Cao hơn rất nhiều (khoảng 50%)",
+        "Chỉ cao hơn một chút (khoảng 1 - 2% so với 0,5 - 1% ở trẻ bình thường).",
+        "Chắc chắn sẽ bị động kinh khi lớn lên",
+        "Thấp hơn trẻ bình thường"
+      ],
+      "answer": 1,
+      "explain": "Tiên lượng của co giật do sốt đơn thuần rất tốt. Đa số trẻ phát triển bình thường và không để lại di chứng thần kinh. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Biến chứng nguy hiểm nhất của tình trạng sốt cao cực độ (trên 41°C) là gì?",
+      "options": [
+        "Gây hỏng men răng",
+        "Tổn thương não vĩnh viễn và suy đa tạng",
+        "Làm trẻ bị thấp khớp",
+        "Gây cận thị"
+      ],
+      "answer": 1,
+      "explain": "Khi nhiệt độ vượt quá 41°C (thường do tăng thân nhiệt hơn là sốt đơn thuần), các protein và enzyme trong cơ thể bị biến tính, dẫn đến tổn thương tế bào não và các cơ quan. Nguồn: Nelson Textbook of Pediatrics."
+    },
+    {
+      "q": "Tỷ lệ tái phát co giật do sốt ở những trẻ đã bị lần đầu là khoảng bao nhiêu?",
+      "options": [
+        "100%",
+        "30-50%",
+        "<5%",
+        "10%"
+      ],
+      "answer": 1,
+      "explain": "Khoảng 1/3 số trẻ bị co giật do sốt sẽ có ít nhất một lần tái phát trong các đợt sốt sau đó, đặc biệt nếu lần đầu bị khi trẻ < 12 tháng tuổi. Nguồn: Bệnh học Nhi khoa tập 1."
+    },
+    {
+      "q": "Yếu tố nào sau đây là quan trọng nhất để tiên lượng một trẻ sốt kéo dài có khả năng mắc bệnh ác tính?",
+      "options": [
+        "Trẻ sốt kèm theo sụt cân, thiếu máu và gan lách to",
+        "Trẻ sốt nhưng vẫn tăng cân tốt",
+        "Trẻ chỉ sốt vào buổi sáng",
+        "Trẻ có phản ứng Mantoux âm tính"
+      ],
+      "answer": 0,
+      "explain": "Các dấu hiệu toàn thân như sụt cân, xanh xao (thiếu máu), xuất huyết và gan lách hạch to là những \"cờ đỏ\" gợi ý bệnh lý ác tính (như Leukemia) trong FUO. Nguồn: Nelson Textbook of Pediatrics."
+    }
+  ]
+}
