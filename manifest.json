@@ -141,7 +141,7 @@
       "subcategory": "Chấn thương"
     },
     {
-      "name": "Trật khớp vai_MCQ",
+      "name": "Trật khớp vai MCQ",
       "url": "trat_khop_vai_mcq.json",
       "type": "mcq",
       "category": "Ngoại",
@@ -162,7 +162,7 @@
       "subcategory": "Tim mạch"
     },
     {
-      "name": "Gãy thân xương đùi_MCQ",
+      "name": "Gãy thân xương đùi MCQ",
       "url": "gay_than_xuong_dui_mcq.json",
       "type": "mcq",
       "category": "Ngoại",
@@ -281,7 +281,7 @@
       "subcategory": "Huyết học"
     },
     {
-      "name": "Gãy cổ xương đùi_MCQ",
+      "name": "Gãy cổ xương đùi MCQ",
       "url": "gay_co_xuong_dui_mcq.json",
       "type": "mcq",
       "category": "Ngoại",
@@ -290,13 +290,6 @@
     {
       "name": "Gãy cổ xương đùi",
       "url": "gay_co_xuong_dui.json",
-      "type": "cases",
-      "category": "Ngoại",
-      "subcategory": "Chấn thương"
-    },
-    {
-      "name": "Gãy cổ xương đùi (Up)",
-      "url": "gay_co_xuong_dui_up.json",
       "type": "cases",
       "category": "Ngoại",
       "subcategory": "Chấn thương"
@@ -458,13 +451,6 @@
     {
       "name": "Tắc ruột",
       "url": "tac_ruot.json",
-      "type": "cases",
-      "category": "Ngoại",
-      "subcategory": "Tiêu hóa"
-    },
-    {
-      "name": "Tắc ruột Up",
-      "url": "tac_ruot_up.json",
       "type": "cases",
       "category": "Ngoại",
       "subcategory": "Tiêu hóa"
@@ -946,13 +932,6 @@
       "subcategory": "Ngoại"
     },
     {
-      "name": "Giãn đại tràng bẩm sinh (Hirschsprung) Up",
-      "url": "gian_dai_trang_bam_sinh_hirschsprung_up.json",
-      "type": "cases",
-      "category": "Nhi",
-      "subcategory": "Ngoại"
-    },
-    {
       "name": "HC nôn trớ Up",
       "url": "hc_non_tro_up.json",
       "type": "cases",
@@ -981,36 +960,8 @@
       "subcategory": "Ngoại"
     },
     {
-      "name": "Dị tật hậu môn trực tràng Up",
-      "url": "di_tat_hau_mon_truc_trang_up.json",
-      "type": "cases",
-      "category": "Nhi",
-      "subcategory": "Ngoại"
-    },
-    {
       "name": "Lồng ruột cấp tính ở trẻ còn bú",
       "url": "long_ruot_cap_tinh_o_tre_con_bu.json",
-      "type": "cases",
-      "category": "Nhi",
-      "subcategory": "Ngoại"
-    },
-    {
-      "name": "Lồng ruột cấp tính ở trẻ còn bú Up",
-      "url": "long_ruot_cap_tinh_o_tre_con_bu_up.json",
-      "type": "cases",
-      "category": "Nhi",
-      "subcategory": "Ngoại"
-    },
-    {
-      "name": "Tắc ruột sơ sinh Up",
-      "url": "tac_ruot_so_sinh_up.json",
-      "type": "cases",
-      "category": "Nhi",
-      "subcategory": "Ngoại"
-    },
-    {
-      "name": "Tắc ruột sơ sinh",
-      "url": "tac_ruot_so_sinh.json",
       "type": "cases",
       "category": "Nhi",
       "subcategory": "Ngoại"
@@ -1026,20 +977,6 @@
       "name": "Tắc ruột sơ sinh MCQ",
       "url": "tac_ruot_so_sinh_mcq.json",
       "type": "mcq",
-      "category": "Nhi",
-      "subcategory": "Ngoại"
-    },
-    {
-      "name": "Gãy trên lồi cầu xương cánh tay ở trẻ em",
-      "url": "gay_tren_loi_cau_xuong_canh_tay_o_tre_em.json",
-      "type": "cases",
-      "category": "Nhi",
-      "subcategory": "Ngoại"
-    },
-    {
-      "name": "Gãy trên lồi cầu xương cánh tay ở trẻ em Up",
-      "url": "gay_tren_loi_cau_xuong_canh_tay_o_tre_em_up.json",
-      "type": "cases",
       "category": "Nhi",
       "subcategory": "Ngoại"
     },
@@ -1240,13 +1177,6 @@
       "subcategory": "Tiêu hóa"
     },
     {
-      "name": "Thủng ổ loét dạ dày tá tràng Up",
-      "url": "thung_o_loet_da_day_ta_trang_up.json",
-      "type": "cases",
-      "category": "Ngoại",
-      "subcategory": "Tiêu hóa"
-    },
-    {
       "name": "Sỏi mật MCQ",
       "url": "soi_mat_mcq.json",
       "type": "mcq",
@@ -1256,27 +1186,6 @@
     {
       "name": "Sỏi mật",
       "url": "soi_mat.json",
-      "type": "cases",
-      "category": "Ngoại",
-      "subcategory": "Tiêu hóa"
-    },
-    {
-      "name": "Sỏi mật Up",
-      "url": "soi_mat_up.json",
-      "type": "cases",
-      "category": "Ngoại",
-      "subcategory": "Tiêu hóa"
-    },
-    {
-      "name": "Viêm phúc mạc và áp xe trong ổ bụng Up",
-      "url": "viem_phuc_mac_va_ap_xe_trong_o_bung_up.json",
-      "type": "cases",
-      "category": "Ngoại",
-      "subcategory": "Tiêu hóa"
-    },
-    {
-      "name": "Viêm Ruột Thừa Up",
-      "url": "viem_ruot_thua_up.json",
       "type": "cases",
       "category": "Ngoại",
       "subcategory": "Tiêu hóa"
@@ -1380,29 +1289,8 @@
       "subcategory": "Thần kinh"
     },
     {
-      "name": "Sỏi tiết niệu Up",
-      "url": "soi_tiet_nieu_up.json",
-      "type": "cases",
-      "category": "Ngoại",
-      "subcategory": "Thận tiết niệu"
-    },
-    {
       "name": "Chấn thương hệ tiết niệu Up",
       "url": "chan_thuong_he_tiet_nieu_up.json",
-      "type": "cases",
-      "category": "Ngoại",
-      "subcategory": "Thận tiết niệu"
-    },
-    {
-      "name": "U phì đại lành tính tuyến tiền liệt Up",
-      "url": "u_phi_dai_lanh_tinh_tuyen_tien_liet_up.json",
-      "type": "cases",
-      "category": "Ngoại",
-      "subcategory": "Thận tiết niệu"
-    },
-    {
-      "name": "Chấn thương hệ tiết niệu",
-      "url": "chan_thuong_he_tiet_nieu.json",
       "type": "cases",
       "category": "Ngoại",
       "subcategory": "Thận tiết niệu"
@@ -1415,23 +1303,23 @@
       "subcategory": "Thận tiết niệu"
     },
     {
+      "name": "Chấn thương hệ tiết niệu",
+      "url": "chan_thuong_he_tiet_nieu.json",
+      "type": "cases",
+      "category": "Ngoại",
+      "subcategory": "Thận tiết niệu"
+    },
+    {
       "name": "Ung thư thận",
       "url": "ung_thu_than.json",
       "type": "cases",
       "category": "Ngoại",
-      "subcategory": "Thận tiết niệu"
+      "subcategory": "Ung thư"
     },
     {
       "name": "U phì đại lành tính tuyến tiền liệt MCQ",
       "url": "u_phi_dai_lanh_tinh_tuyen_tien_liet_mcq.json",
       "type": "mcq",
-      "category": "Ngoại",
-      "subcategory": "Thận tiết niệu"
-    },
-    {
-      "name": "Ung thư thận Up",
-      "url": "ung_thu_than_up.json",
-      "type": "cases",
       "category": "Ngoại",
       "subcategory": "Thận tiết niệu"
     },
@@ -1461,7 +1349,7 @@
       "url": "k_gan_k_duong_mat_mcq.json",
       "type": "mcq",
       "category": "Ngoại",
-      "subcategory": "Thận tiết niệu"
+      "subcategory": "Tiêu hóa"
     },
     {
       "name": "Ung thư Gan và Đường Mật",
@@ -1478,20 +1366,6 @@
       "subcategory": "Ung thư"
     },
     {
-      "name": "Ung thư trực tràng Up",
-      "url": "ung_thu_truc_trang_up.json",
-      "type": "cases",
-      "category": "Ngoại",
-      "subcategory": "Ung thư"
-    },
-    {
-      "name": "Ung thư Gan và Đường Mật Up",
-      "url": "ung_thu_gan_va_duong_mat_up.json",
-      "type": "cases",
-      "category": "Ngoại",
-      "subcategory": "Ung thư"
-    },
-    {
       "name": "Ung thư Gan và Đường Mật MCQ",
       "url": "ung_thu_gan_va_duong_mat_mcq.json",
       "type": "mcq",
@@ -1501,20 +1375,6 @@
     {
       "name": "Ung thư trực tràng",
       "url": "ung_thu_truc_trang.json",
-      "type": "cases",
-      "category": "Ngoại",
-      "subcategory": "Ung thư"
-    },
-    {
-      "name": "Ung thư thực quản Up",
-      "url": "ung_thu_thuc_quan_up.json",
-      "type": "cases",
-      "category": "Ngoại",
-      "subcategory": "Ung thư"
-    },
-    {
-      "name": "U tủy Up",
-      "url": "u_tuy_up.json",
       "type": "cases",
       "category": "Ngoại",
       "subcategory": "Ung thư"
@@ -1546,6 +1406,118 @@
       "type": "mcq",
       "category": "Ngoại",
       "subcategory": "Ung thư"
+    },
+    {
+      "name": "Hẹp môn vị",
+      "url": "hep_mon_vi.json",
+      "type": "cases",
+      "category": "Ngoại",
+      "subcategory": "Tiêu hóa"
+    },
+    {
+      "name": "Chảy máu đường tiêu hoá",
+      "url": "chay_mau_duong_tieu_hoa.json",
+      "type": "cases",
+      "category": "Ngoại",
+      "subcategory": "Tiêu hóa"
+    },
+    {
+      "name": "Hội chứng thiếu máu chi cấp tính",
+      "url": "hoi_chung_thieu_mau_chi_cap_tinh.json",
+      "type": "cases",
+      "category": "Ngoại",
+      "subcategory": "Tim mạch"
+    },
+    {
+      "name": "Bệnh Động mạch chủ",
+      "url": "benh_dong_mach_chu.json",
+      "type": "cases",
+      "category": "Ngoại",
+      "subcategory": "Tim mạch"
+    },
+    {
+      "name": "Hội chứng thiếu máu chi cấp tính MCQ",
+      "url": "hoi_chung_thieu_mau_chi_cap_tinh_mcq.json",
+      "type": "mcq",
+      "category": "Ngoại",
+      "subcategory": "Tim mạch"
+    },
+    {
+      "name": "Đại cương bệnh Động mạch chủ MCQ",
+      "url": "dai_cuong_benh_dong_mach_chu_mcq.json",
+      "type": "mcq",
+      "category": "Ngoại",
+      "subcategory": "Tim mạch"
+    },
+    {
+      "name": "Thủng ổ loét dạ dày tá tràng MCQ",
+      "url": "thung_o_loet_da_day_ta_trang_mcq.json",
+      "type": "mcq",
+      "category": "Ngoại",
+      "subcategory": "Tiêu hóa"
+    },
+    {
+      "name": "Hẹp môn vị MCQ",
+      "url": "hep_mon_vi_mcq.json",
+      "type": "mcq",
+      "category": "Ngoại",
+      "subcategory": "Tiêu hóa"
+    },
+    {
+      "name": "Gãy 2 xương cẳng chân",
+      "url": "gay_2_xuong_cang_chan.json",
+      "type": "cases",
+      "category": "Ngoại",
+      "subcategory": "Chấn thương"
+    },
+    {
+      "name": "Gãy 2 xương cẳng chân MCQ",
+      "url": "gay_2_xuong_cang_chan_mcq.json",
+      "type": "mcq",
+      "category": "Ngoại",
+      "subcategory": "Chấn thương Chỉnh hình"
+    },
+    {
+      "name": "Vết thương bàn tay MCQ",
+      "url": "vet_thuong_ban_tay_mcq.json",
+      "type": "mcq",
+      "category": "Ngoại",
+      "subcategory": "Chấn thương Chỉnh hình"
+    },
+    {
+      "name": "Vết thương bàn tay",
+      "url": "vet_thuong_ban_tay.json",
+      "type": "cases",
+      "category": "Ngoại",
+      "subcategory": "Chấn thương"
+    },
+    {
+      "name": "HC chèn ép khoang",
+      "url": "hc_chen_ep_khoang.json",
+      "type": "cases",
+      "category": "Ngoại",
+      "subcategory": "Chấn thương"
+    },
+    {
+      "name": "Hội chứng chèn ép khoang MCQ",
+      "url": "hoi_chung_chen_ep_khoang_mcq.json",
+      "type": "mcq",
+      "category": "Ngoại",
+      "subcategory": "Chấn thương Chỉnh hình"
+    },
+    {
+      "name": "Gãy trên lồi cầu xương cánh tay ở trẻ em",
+      "url": "gay_tren_loi_cau_xuong_canh_tay_o_tre_em.json",
+      "type": "cases",
+      "category": "Nhi",
+      "subcategory": "Ngoại"
+    },
+    {
+      "name": "Tắc ruột sơ sinh",
+      "url": "tac_ruot_so_sinh.json",
+      "type": "cases",
+      "category": "Nhi",
+      "subcategory": "Ngoại"
     }
   ]
 }
