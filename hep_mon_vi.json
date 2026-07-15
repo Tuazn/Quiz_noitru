@@ -1,0 +1,1230 @@
+{
+  "name": "Hẹp môn vị",
+  "description": "Case lâm sàng bệnh lý Hẹp môn vị dành cho ôn thi nội trú, bác sĩ nội trú, chuyên khoa, bám sát các dạng lâm sàng từ lành tính, ác tính, liệt dạ dày, hẹp cơ học và bỏng hóa chất.",
+  "level": "Ôn thi bác sĩ nội trú / Chuyên khoa tiêu hóa",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Tiêu hóa",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 45 tuổi nôn ra thức ăn cũ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì nôn ra thức ăn cũ. Khoảng 1 tháng nay bệnh nhân ăn uống kém, đầy bụng, thường xuyên nôn ra thức ăn của bữa trước vào buổi chiều hoặc tối, nôn xong thấy dễ chịu. Sụt 4kg/tháng.<br><br><b>Tiền sử:</b> Viêm loét dạ dày tá tràng 5 năm điều trị không đều.<br><br><b>Khám lâm sàng:</b> Tỉnh, da khô, mắt trũng, dấu hiệu véo da (+), BMI 17. Khám bụng: Bụng lõm lòng thuyền, thấy sẹo mổ cũ đường giữa trên rốn (mổ khâu lỗ thủng dạ dày cách 10 năm), lắc bụng lúc đói thấy tiếng óc ách (Succussion splash) dương tính. Không sờ thấy u cục.<br><br><b>Xét nghiệm:</b> Na 130 mmol/L, K 2.9 mmol/L, Cl 85 mmol/L. Khí máu động mạch: pH 7.52, HCO3 32 mmol/L.",
+      "questions": [
+        {
+          "q": "Rối loạn chuyển hóa điển hình nhất ở bệnh nhân hẹp môn vị giai đoạn này là gì?",
+          "options": [
+            "Toan chuyển hóa, tăng Kali, tăng Clo",
+            "Kiềm hô hấp, hạ Kali, hạ Clo",
+            "Kiềm chuyển hóa, hạ Kali, hạ Clo",
+            "Toan hô hấp, tăng Kali, giảm Clo"
+          ],
+          "answer": 2,
+          "explain": "Nôn nhiều mất dịch dạ dày (chứa HCl và K) -> Mất H+ gây Kiềm chuyển hóa; Mất Cl- gây Hạ Clo; Mất K+ gây Hạ Kali (Hypokalemic Hypochloremic Metabolic Alkalosis)."
+        },
+        {
+          "q": "Cơ chế chính gây hạ Kali máu ở bệnh nhân này là gì?",
+          "options": [
+            "Mất Kali trực tiếp qua dịch nôn",
+            "Do thận tăng thải Kali để tái hấp thu H+ nhằm bù trừ tình trạng kiềm",
+            "Do Kali di chuyển từ nội bào ra ngoại bào",
+            "Do bệnh nhân không ăn uống được"
+          ],
+          "answer": 1,
+          "explain": "Mặc dù dịch dạ dày có chứa K+, nhưng cơ chế chính gây hạ K+ nặng là do thận. Để giữ lại Na+ và điều chỉnh độ kiềm, ống thận tăng tái hấp thu Na+ và thải K+/H+ (cơ chế Aldosterone và trao đổi ion)."
+        },
+        {
+          "q": "Dấu hiệu lâm sàng nào sau đây đặc trưng cho hẹp môn vị cơ năng (giai đoạn đầu)?",
+          "options": [
+            "Bụng lõm lòng thuyền",
+            "Dấu hiệu Bouveret (Sóng nhu động dạ dày)",
+            "Tiếng óc ách lúc đói",
+            "Dạ dày giãn to xuống mào chậu"
+          ],
+          "answer": 1,
+          "explain": "Dấu hiệu Bouveret (sóng nhu động từ sườn trái sang phải) thể hiện dạ dày còn tăng co bóp để tống thức ăn -> Giai đoạn sớm/cơ năng. Giai đoạn muộn dạ dày giãn đờ, mất trương lực (thực thể) sẽ không còn dấu hiệu này."
+        },
+        {
+          "q": "Hình ảnh X-quang bụng có chuẩn bị (Uống Baryt) điển hình của hẹp môn vị giai đoạn muộn là:",
+          "options": [
+            "Hình ảnh \"tuyết rơi\" (Snow flake)",
+            "Hình ảnh \"cắt cụt\" thuốc cản quang",
+            "Hình ảnh dạ dày hình \"chậu rửa\" hoặc \"đáy chén\", ứ đọng thuốc sau 6 giờ",
+            "Hình ảnh mức nước hơi tập trung quanh rốn"
+          ],
+          "answer": 2,
+          "explain": "Hình ảnh dạ dày giãn to, sa thấp dưới mào chậu, thuốc đọng lơ lửng như hình \"đáy chậu\" hoặc \"chậu rửa\" sau 6h là dấu hiệu hẹp điển hình."
+        },
+        {
+          "q": "Nguyên tắc bồi phụ nước điện giải trước mổ cho bệnh nhân này:",
+          "options": [
+            "Dùng Ringer Lactate để bù thể tích nhanh",
+            "Dùng Glucose 5% để nuôi dưỡng",
+            "Dùng NaCl 0.9% + KCl",
+            "Dùng NaHCO3 1.4% để bù kiềm"
+          ],
+          "answer": 2,
+          "explain": "Bắt buộc dùng NaCl 0.9% để bù Cl- và thể tích. Ringer Lactate chứa Lactate sẽ chuyển hóa thành Bicarbonate làm nặng thêm tình trạng kiềm. Glucose gây lợi niệu thẩm thấu mất thêm nước."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi ăn uống khó tiêu và sụt cân",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì ăn uống khó tiêu và sụt cân. 2 tháng nay ăn vào nôn ngay, nôn ra dịch lẫn thức ăn, sụt 8kg.<br><br><b>Tiền sử:</b> Hút thuốc lá 30 bao.năm.<br><br><b>Khám lâm sàng:</b> Thể trạng suy kiệt, da xanh niêm mạc nhợt. Khám bụng: Thượng vị đầy, sờ thấy khối cứng chắc vùng thượng vị lệch phải, bề mặt gồ ghề, di động kém, ấn đau nhẹ. Sờ thấy hạch hố thượng đòn trái (Hạch Virchow).<br><br><b>Xét nghiệm:</b> Hb 85 g/L, Albumin 28 g/L. Nội soi dạ dày: Khối sùi loét chiếm toàn bộ hang môn vị gây hẹp khít, máy soi không qua được, sinh thiết bờ tổn thương.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguyên nhân hẹp môn vị phù hợp nhất ở bệnh nhân này:",
+          "options": [
+            "Loét hành tá tràng xơ chai",
+            "Ung thư hang môn vị",
+            "Phì đại cơ môn vị lành tính",
+            "U tụy xâm lấn tá tràng"
+          ],
+          "answer": 1,
+          "explain": "Tuổi cao, sụt cân nhanh, thiếu máu, khối u cứng chắc, hạch Virchow -> Điển hình của Ung thư dạ dày (Gastric Cancer)."
+        },
+        {
+          "q": "Hạch Virchow (Troisier's sign) có ý nghĩa gì trong ung thư dạ dày?",
+          "options": [
+            "Ung thư giai đoạn sớm, chưa di căn",
+            "Di căn hạch vùng, còn khả năng mổ triệt căn",
+            "Di căn xa (Giai đoạn IV/M1), tiên lượng xấu",
+            "Không liên quan đến ung thư dạ dày"
+          ],
+          "answer": 2,
+          "explain": "Hạch Virchow (hạch thượng đòn trái) nhận bạch huyết từ ống ngực (thoracic duct) -> Chứng tỏ ung thư đã lan tràn hệ thống bạch huyết xa (Di căn xa/M1) theo phân loại TNM."
+        },
+        {
+          "q": "Mục đích chính của việc rửa dạ dày (bằng sonde Faucher) trước mổ cho bệnh nhân hẹp môn vị là gì?",
+          "options": [
+            "Để giảm áp lực ổ bụng",
+            "Làm sạch dạ dày, giảm phù nề niêm mạc, giúp khâu nối an toàn và tránh trào ngược khi gây mê",
+            "Để nuôi dưỡng qua sonde",
+            "Để định lượng dịch vị"
+          ],
+          "answer": 1,
+          "explain": "Rửa dạ dày (thường 3 ngày trước mổ với nước muối ấm) giúp dạ dày co hồi bớt, giảm viêm nề niêm mạc để miệng nối liền tốt hơn và tránh viêm phổi hít khi khởi mê (Bailey & Love)."
+        },
+        {
+          "q": "Trong trường hợp hẹp môn vị do ung thư giai đoạn muộn (không cắt được u), phương pháp phẫu thuật tạm thời (Palliative) thường được chọn là:",
+          "options": [
+            "Nối vị - tràng (Gastrojejunostomy)",
+            "Mở thông dạ dày ra da",
+            "Cắt dây thần kinh X",
+            "Cắt bán phần dạ dày"
+          ],
+          "answer": 0,
+          "explain": "Khi không cắt được u (unresectable), mục tiêu là giải quyết lưu thông -> Nối vị tràng (thường nối quai tới qua mạc treo đại tràng ngang hoặc trước đại tràng) để thức ăn đi xuống ruột non."
+        },
+        {
+          "q": "Xét nghiệm miễn dịch (Tumor marker) nào thường tăng cao và có giá trị theo dõi trong ung thư dạ dày?",
+          "options": [
+            "PSA",
+            "CA 19-9 và CEA",
+            "Alpha-FP",
+            "CA 125"
+          ],
+          "answer": 1,
+          "explain": "CEA, CA 19-9 và CA 72-4 là các marker thường dùng trong ung thư dạ dày."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 4 tuần tuổi nôn trớ sau bú",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam 4 tuần tuổi (28 ngày), con so.<br><br><b>Bệnh sử:</b> Vào viện vì nôn trớ sau bú. Trẻ nôn vọt (projectile vomiting) ngay sau khi bú, chất nôn màu trắng (sữa), KHÔNG LẪN DỊCH MẠT (non-bilious). Trẻ háu ăn trở lại ngay sau nôn. Sụt cân nhẹ, da khô.<br><br><b>Khám lâm sàng:</b> Bụng mềm, quan sát kỹ thấy sóng nhu động đi từ trái qua phải vùng thượng vị sau khi cho bú. Sờ thấy khối tròn, chắc, di động, kích thước khoảng 2cm (như quả oliu) ở vùng hạ sườn phải thượng vị bên phải.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất:",
+          "options": [
+            "Trào ngược dạ dày thực quản (GERD)",
+            "Hẹp phì đại môn vị bẩm sinh (Congenital Hypertrophic Pyloric Stenosis)",
+            "Tắc tá tràng bẩm sinh",
+            "Xoắn ruột"
+          ],
+          "answer": 1,
+          "explain": "Điển hình của Hẹp phì đại môn vị: Nam giới, con đầu lòng, 3-6 tuần tuổi, nôn vọt không lẫn mật, khối u cơ môn vị (Olive mass)."
+        },
+        {
+          "q": "Đặc điểm quan trọng nhất phân biệt Hẹp phì đại môn vị với Tắc ruột thấp (tắc tá tràng/hỗng tràng) là:",
+          "options": [
+            "Nôn ra dịch mật (màu xanh/vàng) vs Nôn không ra dịch mật",
+            "Trẻ sốt vs Trẻ không sốt",
+            "Bụng chướng căng vs Bụng xẹp",
+            "Có phân su vs Không có phân su"
+          ],
+          "answer": 0,
+          "explain": "Hẹp môn vị tắc nghẽn ở TRÊN bóng Vater -> Nôn không có dịch mật. Tắc tá tràng/ruột non tắc DƯỚI bóng Vater -> Nôn ra dịch mật (xanh/vàng)."
+        },
+        {
+          "q": "Tiêu chuẩn chẩn đoán xác định trên Siêu âm bụng (thông số cơ môn vị):",
+          "options": [
+            "Bề dày cơ môn vị ≥ 3 mm VÀ Chiều dài kênh môn vị > 14 mm",
+            "Bề dày cơ môn vị < 2 mm",
+            "Đường kính dạ dày > 5 cm",
+            "Không thấy hình ảnh hang vị"
+          ],
+          "answer": 0,
+          "explain": "Tiêu chuẩn siêu âm (Schwartz/Bailey): Bề dày cơ (Muscle thickness) ≥ 3mm (bình thường <2) và Chiều dài kênh (Channel length) > 14-16mm."
+        },
+        {
+          "q": "Đây là một tình trạng:",
+          "options": [
+            "Cấp cứu ngoại khoa tối khẩn cấp, mổ ngay lập tức bất kể tình trạng điện giải",
+            "Cấp cứu nội khoa (hồi sức điện giải) trước, sau đó mổ bán cấp",
+            "Bệnh tự thoái lui, không cần mổ",
+            "Chỉ cần nong môn vị bằng bóng"
+          ],
+          "answer": 1,
+          "explain": "KHÔNG PHẢI mổ cấp cứu ngay (Never a surgical emergency). Phải điều chỉnh rối loạn điện giải (kiềm chuyển hóa, hạ K, hạ Cl) và mất nước về bình thường trước khi mổ để tránh ngưng thở sau mổ (post-op apnea)."
+        },
+        {
+          "q": "Phương pháp phẫu thuật tiêu chuẩn vàng để điều trị bệnh lý này là:",
+          "options": [
+            "Phẫu thuật nối vị - tràng",
+            "Phẫu thuật tạo hình môn vị (Pyloroplasty)",
+            "Phẫu thuật cắt mở cơ môn vị ngoài niêm mạc (Ramstedt pyloromyotomy)",
+            "Cắt đoạn dạ dày"
+          ],
+          "answer": 2,
+          "explain": "Phẫu thuật Ramstedt (xẻ dọc cơ môn vị để giải phóng niêm mạc, không khâu lại cơ) là tiêu chuẩn vàng, có thể mổ mở hoặc nội soi."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 50 tuổi buồn nôn và đầy bụng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 50 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì đầy bụng, buồn nôn. Bệnh nhân cảm thấy ăn nhanh no, ậm ạch khó tiêu, thỉnh thoảng nôn ra thức ăn cũ.<br><br><b>Tiền sử:</b> Đái tháo đường type 2 (10 năm).<br><br><b>Khám lâm sàng:</b> Thể trạng béo phì (BMI 30). Bụng mềm, không u cục, không có dấu hiệu Bouveret. Tiếng óc ách lúc đói (+/-).<br><br><b>Xét nghiệm:</b> Đường huyết kiểm soát kém (HbA1c 9.5%). Nội soi dạ dày: Dạ dày còn nhiều thức ăn cũ dù đã nhịn ăn 12 tiếng, môn vị KHÔNG hẹp khít (máy soi qua dễ dàng), niêm mạc viêm đỏ nhẹ. CT scan: Không thấy khối u chèn ép.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất cho tình trạng ứ đọng dạ dày nhưng không hẹp cơ học này là:",
+          "options": [
+            "Hẹp môn vị do loét",
+            "Liệt dạ dày do đái tháo đường (Diabetic Gastroparesis)",
+            "Ung thư thể thâm nhiễm (Linitis plastica)",
+            "Hẹp tá tràng do kìm động mạch (Hội chứng Wilkie)"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh giống hẹp môn vị (ứ đọng) nhưng nội soi môn vị mở thông + Tiền sử ĐTĐ lâu năm kiểm soát kém -> Biến chứng thần kinh tự chủ gây liệt dạ dày (Gastroparesis)."
+        },
+        {
+          "q": "Phương pháp chẩn đoán xác định \"tiêu chuẩn vàng\" để đánh giá chức năng làm rỗng dạ dày (Gastric emptying) là:",
+          "options": [
+            "Xạ hình làm rỗng dạ dày (Gastric Emptying Scintigraphy)",
+            "Chụp X-quang Baryt",
+            "Siêu âm bụng",
+            "CT scan đa dãy"
+          ],
+          "answer": 0,
+          "explain": "Xạ hình (Scintigraphy) với bữa ăn đánh dấu phóng xạ là tiêu chuẩn vàng để đo tốc độ làm rỗng dạ dày."
+        },
+        {
+          "q": "Thuốc nào sau đây thường được dùng để điều trị triệu chứng (prokinetic) cho bệnh nhân này?",
+          "options": [
+            "Atropine",
+            "Metoclopramide / Domperidone / Erythromycin",
+            "Loperamide",
+            "Aluminum hydroxide"
+          ],
+          "answer": 1,
+          "explain": "Các thuốc tăng nhu động (Prokinetics): Metoclopramide (kháng Dopamine), Erythromycin (kích thích thụ thể Motilin)."
+        },
+        {
+          "q": "Trong chẩn đoán phân biệt hẹp môn vị cơ học và liệt dạ dày (Gastroparesis), đặc điểm nào quan trọng trên nội soi?",
+          "options": [
+            "Mức độ ứ đọng thức ăn",
+            "Tình trạng viêm của niêm mạc",
+            "Khả năng đưa máy soi qua lỗ môn vị (Passability)",
+            "Vị trí của lỗ môn vị"
+          ],
+          "answer": 2,
+          "explain": "Điểm mấu chốt: Hẹp cơ học (Mechanical obstruction) thì máy soi KHÔNG qua được hoặc rất khó. Liệt dạ dày (Functional obstruction) thì máy soi qua bình thường."
+        },
+        {
+          "q": "Nếu điều trị nội khoa thất bại ở bệnh nhân liệt dạ dày nặng, can thiệp ngoại khoa nào có thể được cân nhắc (dù hiệu quả còn tranh cãi)?",
+          "options": [
+            "Cắt toàn bộ dạ dày",
+            "Đặt máy tạo nhịp dạ dày (Gastric electrical stimulation)",
+            "Nối vị tràng",
+            "Mở thông hỗng tràng nuôi ăn"
+          ],
+          "answer": 3,
+          "explain": "Với Gastroparesis nặng kháng thuốc, ưu tiên đảm bảo dinh dưỡng bằng mở thông hỗng tràng (Jejunostomy). Cắt dạ dày hay nối vị tràng không giải quyết được liệt cơ năng mà còn gây biến chứng nặng hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 38 tuổi nôn nhiều và co giật",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 38 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì nôn nhiều và co giật (tetany). 3 ngày nay bệnh nhân nôn liên tục, không ăn uống được gì, ở nhà chỉ uống nước lọc. Vào viện xuất hiện dấu hiệu co quắp tay chân, lơ mơ.<br><br><b>Tiền sử:</b> Hẹp môn vị do loét hành tá tràng đã chẩn đoán xác định, chờ mổ phiên.<br><br><b>Khám lâm sàng:</b> Lơ mơ, có dấu hiệu co giật (tetany).<br><br><b>Xét nghiệm:</b> Khí máu: pH 7.56, HCO3 38 mmol/L, PCO2 50 mmHg. Điện giải: Na 128, K 2.5, Cl 70. Tổng phân tích nước tiểu: pH nước tiểu 5.5 (Toan).",
+      "questions": [
+        {
+          "q": "Hiện tượng \"Nước tiểu toan\" (Aciduria) trong khi máu bị \"Kiềm\" (Alkalosis) ở bệnh nhân này được gọi là gì?",
+          "options": [
+            "Toan hóa ống thận",
+            "Tiểu toan nghịch thường (Paradoxical Aciduria)",
+            "Suy thận cấp",
+            "Nhiễm trùng tiết niệu"
+          ],
+          "answer": 1,
+          "explain": "Máu thì Kiềm (thiếu H+), Nước tiểu thì Toan (thừa H+) gọi là Tiểu toan nghịch thường (Paradoxical Aciduria)."
+        },
+        {
+          "q": "Cơ chế chính gây ra hiện tượng tiểu toan nghịch thường này là gì?",
+          "options": [
+            "Do thận bị hỏng chức năng thải H+",
+            "Do cơ thể ưu tiên tái hấp thu Na+ để bù thể tích, kéo theo tái hấp thu HCO3- và thải H+ ra nước tiểu",
+            "Do nồng độ Aldosterone giảm thấp",
+            "Do nhiễm toan lactic kèm theo"
+          ],
+          "answer": 1,
+          "explain": "Trong hẹp môn vị nặng, bệnh nhân mất nước và Na+. Để bảo tồn thể tích, thận tăng tiết Aldosterone để tái hấp thu Na+. Na+ được hấp thu phải đổi chỗ với K+ hoặc H+. Do bệnh nhân thiếu hụt K+, thận buộc phải thải H+ ra nước tiểu để đổi lấy Na+."
+        },
+        {
+          "q": "Dấu hiệu co giật (Tetany) ở bệnh nhân này là do rối loạn điện giải nào đi kèm với tình trạng kiềm chuyển hóa?",
+          "options": [
+            "Hạ Calci máu (ion hóa)",
+            "Hạ Natri máu",
+            "Tăng Kali máu",
+            "Tăng Magne máu"
+          ],
+          "answer": 0,
+          "explain": "Trong môi trường kiềm (Alkalosis), Albumin tăng gắn kết với Calci, làm giảm nồng độ Calci ion hóa (dạng hoạt động) -> Gây tăng kích thích thần kinh cơ (Tetany/Dấu hiệu Trousseau/Chvostek)."
+        },
+        {
+          "q": "Trước tình trạng này, thái độ xử trí với chỉ định phẫu thuật là:",
+          "options": [
+            "Mổ cấp cứu ngay để cầm nôn",
+            "Trì hoãn mổ, hồi sức tích cực bằng NaCl 0.9% và KCl cho đến khi hết rối loạn kiềm - điện giải",
+            "Mổ nội soi vì ít xâm lấn",
+            "Chạy thận nhân tạo"
+          ],
+          "answer": 1,
+          "explain": "Tuyệt đối không mổ khi còn rối loạn điện giải/kiềm toan nặng vì nguy cơ tử vong trên bàn mổ rất cao. Hẹp môn vị là mổ phiên/bán cấp (Elective/Semi-elective)."
+        },
+        {
+          "q": "Nếu không điều chỉnh K+ trước mổ, nguy cơ nào đáng sợ nhất khi gây mê?",
+          "options": [
+            "Tăng thân nhiệt ác tính",
+            "Rối loạn nhịp tim / Ngừng tim",
+            "Trào ngược dạ dày",
+            "Không thể giãn cơ"
+          ],
+          "answer": 1,
+          "explain": "Hạ Kali máu gây rối loạn dẫn truyền tim, tăng nhạy cảm với thuốc mê giãn cơ -> Nguy cơ rung thất/ngừng tim."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi hẹp môn vị do loét hành tá tràng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Bệnh sử:</b> Hẹp môn vị do loét hành tá tràng mạn tính (xơ chai), điều trị nội khoa nhiều đợt không đỡ.<br><br><b>Khám lâm sàng:</b> Dạ dày giãn to.<br><br><b>Xét nghiệm:</b> Nội soi: Ổ loét to mặt trước hành tá tràng gây biến dạng hẹp khít, bờ đều, sinh thiết lành tính. Test H.pylori (+). Niêm mạc viêm teo. Axit dịch vị (BAO/MAO) tăng cao.",
+      "questions": [
+        {
+          "q": "Phương pháp phẫu thuật triệt căn kinh điển (đặc biệt trong quá khứ hoặc khi không có thuốc PPI) áp dụng cho loét tá tràng gây hẹp là:",
+          "options": [
+            "Cắt dây X kèm nối vị tràng hoặc tạo hình môn vị",
+            "Nối vị tràng đơn thuần",
+            "Cắt toàn bộ dạ dày",
+            "Mở thông dạ dày"
+          ],
+          "answer": 0,
+          "explain": "Nguyên tắc mổ loét tá tràng là: Giải quyết biến chứng (Hẹp -> Nối vị tràng/Tạo hình) + Giải quyết nguyên nhân (Tăng axit -> Cắt dây X hoặc Cắt hang vị). Nối vị tràng đơn thuần dễ gây loét miệng nối."
+        },
+        {
+          "q": "Phẫu thuật cắt dây thần kinh X (Vagotomy) nhằm mục đích gì?",
+          "options": [
+            "Giảm đau",
+            "Giảm tiết axit dịch vị và giảm co bóp dạ dày",
+            "Chống nôn",
+            "Tăng tưới máu dạ dày"
+          ],
+          "answer": 1,
+          "explain": "Dây X kích thích tế bào thành tiết HCl. Cắt dây X làm giảm tiết axit đáy (BAO) khoảng 80%."
+        },
+        {
+          "q": "Nếu chọn phương pháp Cắt đoạn dạ dày (Gastrectomy) cho bệnh nhân này, phần dạ dày nào quan trọng cần phải lấy bỏ để giảm tiết axit?",
+          "options": [
+            "Phình vị",
+            "Thân vị",
+            "Hang vị (Antrum)",
+            "Tâm vị"
+          ],
+          "answer": 2,
+          "explain": "Hang vị chứa tế bào G tiết Gastrin (kích thích tiết axit). Cắt hang vị (Antrectomy) loại bỏ nguồn Gastrin."
+        },
+        {
+          "q": "Biến chứng xa thường gặp nhất của phẫu thuật cắt đoạn dạ dày - nối vị tràng (Billroth II) là:",
+          "options": [
+            "Hội chứng Dumping (Dumping syndrome)",
+            "Tắc ruột",
+            "Chảy máu miệng nối",
+            "Viêm tụy cấp"
+          ],
+          "answer": 0,
+          "explain": "Hội chứng Dumping (Dumping sớm/muộn) do thức ăn xuống ruột non quá nhanh gây rối loạn vận mạch và đường huyết. Thường gặp ở Billroth II hơn Billroth I."
+        },
+        {
+          "q": "Trong phẫu thuật cắt dây X siêu chọn lọc (Highly selective vagotomy), nhánh thần kinh nào được bảo tồn để duy trì chức năng bơm của hang vị (tránh ứ đọng)?",
+          "options": [
+            "Nhánh gan",
+            "Nhánh tạng",
+            "Nhánh Latarjet",
+            "Nhánh tâm vị"
+          ],
+          "answer": 2,
+          "explain": "Cắt dây X siêu chọn lọc chỉ cắt nhánh vào thân vị (tiết axit), giữ lại nhánh Latarjet (nhánh chân ngỗng) chi phối vận động hang môn vị -> Không cần làm thêm thủ thuật dẫn lưu vì dạ dày vẫn co bóp được."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 70 tuổi nôn máu và hẹp môn vị",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 70 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì nôn máu và hẹp môn vị.<br><br><b>Khám lâm sàng:</b> Thể trạng suy kiệt (BMI 16).<br><br><b>Xét nghiệm:</b> Chẩn đoán: Ung thư hang vị xâm lấn tụy và cuống gan, có dịch ổ bụng (Carcinomatosis - Di căn phúc mạc), gây hẹp môn vị hoàn toàn.",
+      "questions": [
+        {
+          "q": "Phân loại giai đoạn bệnh trên lâm sàng:",
+          "options": [
+            "Giai đoạn sớm",
+            "Giai đoạn tiến triển tại chỗ",
+            "Giai đoạn muộn, không còn khả năng phẫu thuật triệt căn (Unresectable)",
+            "Giai đoạn tiền ung thư"
+          ],
+          "answer": 2,
+          "explain": "Xâm lấn tạng lân cận + Di căn phúc mạc (Dịch ổ bụng) = Giai đoạn IV (M1)."
+        },
+        {
+          "q": "Lựa chọn can thiệp tối ưu nhất để giải quyết tình trạng hẹp môn vị cho bệnh nhân này (tiên lượng sống < 3 tháng, thể trạng quá yếu để chịu đại phẫu) là:",
+          "options": [
+            "Phẫu thuật cắt đoạn dạ dày",
+            "Đặt Stent kim loại tự bung qua nội soi (SEMS-Self-expandable metal stent)",
+            "Phẫu thuật nối vị tràng mổ mở",
+            "Mở thông dạ dày ra da"
+          ],
+          "answer": 1,
+          "explain": "Với bệnh nhân tiên lượng sống ngắn (< 3-6 tháng) và thể trạng yếu, Stent là lựa chọn tốt nhất (xâm lấn tối thiểu, hiệu quả nhanh). Phẫu thuật nối vị tràng (Bypass) bền vững hơn nhưng rủi ro cao và hồi phục lâu."
+        },
+        {
+          "q": "Ưu điểm của đặt Stent tá tràng so với phẫu thuật nối vị tràng ở nhóm bệnh nhân này:",
+          "options": [
+            "Thời gian sống thêm dài hơn",
+            "Tỉ lệ tái hẹp thấp hơn",
+            "Hồi phục lưu thông tiêu hóa nhanh hơn (ăn lại sớm sau 1-2 ngày), thời gian nằm viện ngắn",
+            "Chi phí thấp hơn"
+          ],
+          "answer": 2,
+          "explain": "Stent giúp bệnh nhân ăn lại được ngay ngày hôm sau. Phẫu thuật cần 5-7 ngày để liệt ruột hồi phục."
+        },
+        {
+          "q": "Nếu lựa chọn phẫu thuật nối vị - tràng (Gastrojejunostomy), vị trí chọn quai hỗng tràng để nối thường cách góc Treitz bao xa?",
+          "options": [
+            "5-10 cm",
+            "20-40 cm (nối qua đại tràng) hoặc 40-60cm (nối trước đại tràng)",
+            "100 cm",
+            "Nối ngay tại góc Treitz"
+          ],
+          "answer": 1,
+          "explain": "Quai tới (Afferent loop) cần đủ dài để không bị căng nhưng không quá dài để tránh ứ đọng. Thường chọn quai hỗng tràng đầu tiên cách Treitz 20-40cm (nếu đi xuyên mạc treo) hoặc dài hơn nếu đi trước đại tràng."
+        },
+        {
+          "q": "Biến chứng đặc thù của đặt Stent tá tràng cần theo dõi:",
+          "options": [
+            "Dumping syndrome",
+            "Trôi stent (Migration) hoặc Tắc stent do u phát triển xuyên qua mắt lưới (Ingrowth)",
+            "Hạ đường huyết",
+            "Tăng huyết áp"
+          ],
+          "answer": 1,
+          "explain": "Stent có thể bị trôi hoặc u mọc xâm lấn vào trong lòng stent gây tắc lại."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi chuẩn bị phẫu thuật dạ dày",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi.<br><br><b>Bệnh sử:</b> Hẹp môn vị do loét tá tràng. Đã được đặt sonde dạ dày hút dịch, bù nước điện giải 3 ngày. Hiện tại lâm sàng ổn định: Hết dấu hiệu mất nước, điện giải về bình thường.<br><br><b>Tình trạng phẫu thuật:</b> Bệnh nhân được chỉ định mổ cắt đoạn dạ dày bán phần.",
+      "questions": [
+        {
+          "q": "Phẫu thuật cắt đoạn dạ dày bán phần (2/3 dạ dày) trong hẹp môn vị lành tính KHÔNG nhằm mục đích nào sau đây?",
+          "options": [
+            "Loại bỏ vùng tiết Gastrin (Hang vị)",
+            "Loại bỏ tổn thương hẹp (Môn vị - Hành tá tràng)",
+            "Loại bỏ toàn bộ hạch bạch huyết quanh dạ dày (Vét hạch D2)",
+            "Giảm tiết axit dạ dày"
+          ],
+          "answer": 2,
+          "explain": "Vét hạch D2 chỉ dành cho UNG THƯ dạ dày. Loét lành tính chỉ cần cắt dạ dày sát với tổn thương hẹp để giải quyết cơ chế bệnh sinh (tiết axit/tắc nghẽn)."
+        },
+        {
+          "q": "Trong kỹ thuật mổ cắt dạ dày Billroth II, mỏm tá tràng được xử lý như thế nào?",
+          "options": [
+            "Nối với dạ dày",
+            "Đóng kín",
+            "Nối với hỗng tràng",
+            "Mở ra da"
+          ],
+          "answer": 1,
+          "explain": "Billroth I: Nối Dạ dày - Tá tràng. Billroth II: Đóng mỏm tá tràng, Nối Dạ dày - Hỗng tràng."
+        },
+        {
+          "q": "Tai biến \"Xì mỏm tá tràng\" (Duodenal stump leakage) sau mổ Billroth II thường xảy ra vào ngày thứ mấy?",
+          "options": [
+            "Ngày 1",
+            "Ngày 3-7",
+            "Sau 1 tháng",
+            "Ngay trên bàn mổ"
+          ],
+          "answer": 1,
+          "explain": "Xì rò thường xuất hiện khi áp lực tăng cao và quá trình liền thương gặp vấn đề, đỉnh điểm ngày 4-7."
+        },
+        {
+          "q": "Nguyên nhân chính gây xì mỏm tá tràng trong mổ hẹp môn vị do loét là:",
+          "options": [
+            "Do chỉ khâu kém chất lượng",
+            "Do tổ chức tá tràng viêm nề, xơ chai mủn nát khó khâu kín và áp lực trong lòng tá tràng cao",
+            "Do bệnh nhân ăn sớm",
+            "Do thiếu máu"
+          ],
+          "answer": 1,
+          "explain": "Trong hẹp môn vị lâu ngày, thành tá tràng thường viêm xơ chai, khó khâu. Cộng thêm việc quai tới bị ứ đọng làm tăng áp lực trong mỏm tá tràng -> Bung chỉ khâu (Blow-out)."
+        },
+        {
+          "q": "Dấu hiệu lâm sàng nghi ngờ xì mỏm tá tràng sớm:",
+          "options": [
+            "Đau dữ dội vùng dưới sườn phải, sốt cao, dẫn lưu ra dịch mật",
+            "Nôn ra máu",
+            "Đi ngoài phân đen",
+            "Bụng chướng hơi nhẹ"
+          ],
+          "answer": 0,
+          "explain": "Dịch tá tràng chứa mật và dịch tụy -> Viêm phúc mạc dữ dội khu trú hoặc dẫn lưu ra dịch xanh vàng nâu bẩn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi nôn ra thức ăn cũ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 58 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì nôn ra thức ăn cũ.<br><br><b>Xét nghiệm:</b> Soi dạ dày: Hẹp môn vị, niêm mạc vùng hang vị sần sùi dạng hạt, sinh thiết trả lời: Viêm mạn tính, dị sản ruột, KHÔNG thấy tế bào ác tính. CT scan: Thành hang vị dày 12mm, thâm nhiễm mỡ nhẹ xung quanh, có vài hạch nhỏ <8mm.",
+      "questions": [
+        {
+          "q": "Thái độ xử trí tiếp theo hợp lý nhất trước kết quả sinh thiết \"lành tính\" này:",
+          "options": [
+            "Yên tâm điều trị nội khoa loét dạ dày",
+            "Cho bệnh nhân về và soi lại sau 6 tháng",
+            "Không loại trừ ung thư, cần soi lại sinh thiết sâu hơn hoặc nhiều mảnh (macro-biopsy), thậm chí phẫu thuật thám sát",
+            "Chụp PET/CT"
+          ],
+          "answer": 2,
+          "explain": "Sinh thiết âm tính giả trong hẹp môn vị là thường gặp (do lấy vào mô hoại tử/viêm phù nề bao quanh u). Lâm sàng (nam, 58t) và CT (thành dày) nghi ngờ K -> Cần sinh thiết lại hoặc mổ. Không được chủ quan bỏ sót ung thư."
+        },
+        {
+          "q": "Loại ung thư dạ dày nào rất khó chẩn đoán qua sinh thiết bề mặt vì tế bào ung thư lan tràn dưới niêm mạc?",
+          "options": [
+            "Ung thư biểu mô tuyến biệt hóa cao (Adenocarcinoma well-differentiated)",
+            "Linitis Plastica (Ung thư thể chai / Thể thâm nhiễm)",
+            "Lymphoma",
+            "GIST"
+          ],
+          "answer": 1,
+          "explain": "Linitis Plastica (Scirrhous carcinoma): Tế bào ung thư lan tràn lớp dưới niêm và cơ, làm thành dạ dày cứng như chai lọ, niêm mạc có thể vẫn bình thường hoặc chỉ viêm nhẹ -> Sinh thiết nông thường âm tính."
+        },
+        {
+          "q": "Hình ảnh \"Thành dạ dày dày, thâm nhiễm mỡ\" trên CT gợi ý:",
+          "options": [
+            "Chắc chắn lành tính",
+            "Có khả năng ác tính cao hơn là loét lành tính",
+            "Viêm dạ dày cấp",
+            "Không có giá trị"
+          ],
+          "answer": 1,
+          "explain": "Loét lành tính thường khu trú, ít thâm nhiễm rộng. Thành dày >1cm kèm thâm nhiễm mỡ và hạch là dấu hiệu gợi ý ác tính trên CT."
+        },
+        {
+          "q": "Nếu bệnh nhân được chỉ định mổ cắt đoạn dạ dày. Trong khi mổ, phẫu thuật viên thấy tổn thương cứng chắc lan toả không giới hạn rõ. Cần làm gì?",
+          "options": [
+            "Cứ cắt đại 2/3 dạ dày",
+            "Sinh thiết tức thì (Frozen section) hạch hoặc tổn thương để quyết định độ rộng của phẫu thuật",
+            "Đóng bụng",
+            "Chỉ nối vị tràng"
+          ],
+          "answer": 1,
+          "explain": "Sinh thiết tức thì (Cắt lạnh) giúp xác định bản chất u ngay trong mổ để quyết định: Nếu K -> Vét hạch D2, cắt rộng. Nếu lành -> Cắt tiết kiệm."
+        },
+        {
+          "q": "Chẩn đoán phân biệt hẹp môn vị do lao dạ dày - tá tràng (Gastroduodenal Tuberculosis):",
+          "options": [
+            "Rất thường gặp",
+            "Hiếm gặp, thường kèm lao phổi hoặc lao hạch, nội soi thấy loét nham nhở, sinh thiết có nang lao (caseating granuloma)",
+            "Luôn có vi khuẩn lao trong dịch vị",
+            "Điều trị chủ yếu bằng phẫu thuật cắt bỏ"
+          ],
+          "answer": 1,
+          "explain": "Lao dạ dày hiếm gặp, thường là thứ phát. Điều trị chính là thuốc lao (Anti-TB), chỉ mổ khi có biến chứng hẹp/thủng không đáp ứng thuốc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 25 tuổi uống nhầm hóa chất",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 25 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì uống nhầm Axit (tự tử) cách đây 4 tuần. Sau giai đoạn cấp cứu loét bỏng niêm mạc, bệnh nhân ăn uống được nhưng 1 tuần nay bắt đầu nôn ra thức ăn cũ, đầy bụng.<br><br><b>Xét nghiệm:</b> Nội soi: Hẹp khít môn vị và hang vị do sẹo co rút, niêm mạc thực quản bình thường.",
+      "questions": [
+        {
+          "q": "Nguyên nhân hẹp môn vị ở bệnh nhân này:",
+          "options": [
+            "Do ung thư hóa",
+            "Do sẹo bỏng hoá chất (Corrosive stricture)",
+            "Do liệt dạ dày",
+            "Do loét tá tràng tái phát"
+          ],
+          "answer": 1,
+          "explain": "Diễn tiến tự nhiên của bỏng hóa chất: Giai đoạn viêm cấp -> Giai đoạn tạo hạt -> Giai đoạn xơ sẹo co rút (tuần 3 trở đi)."
+        },
+        {
+          "q": "Tại sao axit thường gây tổn thương nặng ở hang môn vị hơn là thân vị?",
+          "options": [
+            "Do axit bị trung hòa ở thân vị",
+            "Do phản xạ co thắt môn vị (Pylorospasm) làm axit bị giữ lại lâu ở vùng hang vị (pooling effect)",
+            "Do niêm mạc hang vị mỏng hơn",
+            "Do bệnh nhân nằm nghiêng"
+          ],
+          "answer": 1,
+          "explain": "Khi axít vào dạ dày, môn vị phản xạ co thắt lại. Axit nặng hơn dịch vị nên lắng xuống vùng hang vị (phần thấp) và bị giữ lại đó -> Gây bỏng sâu vùng hang vị gây hẹp môn vị."
+        },
+        {
+          "q": "Thời điểm phẫu thuật triệt để (Reconstruction) tốt nhất cho hẹp do bỏng hóa chất là:",
+          "options": [
+            "Mổ ngay khi bắt đầu hẹp",
+            "Mổ sau 3-6 tháng (hoặc lâu hơn) khi tổn thương sẹo đã ổn định và bệnh nhân được nuôi dưỡng tốt",
+            "Chỉ cần nong qua nội soi",
+            "Mổ cấp cứu"
+          ],
+          "answer": 1,
+          "explain": "Cần chờ đợi (thường > 3-6 tháng) để quá trình xơ sẹo ổn định, ranh giới tổn thương rõ ràng. Mổ sớm trên nền viêm dính dễ gây tai biến và tái hẹp."
+        },
+        {
+          "q": "Trong giai đoạn chờ đợi phẫu thuật triệt để, để nuôi dưỡng bệnh nhân, nên chọn phương pháp nào?",
+          "options": [
+            "Truyền đạm tĩnh mạch hoàn toàn",
+            "Mở thông hỗng tràng nuôi ăn (Feeding Jejunostomy)",
+            "Mở thông dạ dày",
+            "Cố gắng ăn lỏng"
+          ],
+          "answer": 1,
+          "explain": "Mở thông hỗng tràng là tối ưu để nuôi dưỡng lâu dài (đường ruột vẫn tốt), tránh kích thích vùng dạ dày đang viêm sẹo. Mở thông dạ dày không được vì dạ dày đang bị tổn thương/hẹp."
+        },
+        {
+          "q": "Nếu phẫu thuật cắt dạ dày do sẹo bỏng, khó khăn lớn nhất là gì?",
+          "options": [
+            "Không tìm thấy dạ dày",
+            "Dạ dày co rút nhỏ lại (Microstomach) và dính chặt vào các tạng xung quanh do viêm dính hóa chất",
+            "Chảy máu",
+            "Nguy cơ ung thư"
+          ],
+          "answer": 1,
+          "explain": "Bỏng hóa chất gây viêm dính quanh dạ dày (perigastritis) rất dữ dội, dạ dày co nhỏ, thành dày, mất lớp giải phẫu bình thường."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 52 tuổi nôn thức ăn cũ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 52 tuổi.<br><br><b>Bệnh sử:</b> Một tháng nay, bệnh nhân ăn uống kém, đầy bụng, thường nôn ra lượng lớn thức ăn cũ của ngày hôm trước. Dịch nôn có mùi chua, không lẫn dịch mật. Sau khi nôn bệnh nhân thấy dễ chịu hơn. Bệnh nhân sụt 5 kg, tiểu ít.<br><br><b>Tiền sử:</b> Viêm loét hành tá tràng 10 năm không điều trị triệt để.<br><br><b>Khám lâm sàng:</b> Mạch 100 lần/phút, huyết áp 100/60 mmHg, nhịp thở 20 lần/phút, da khô, nếp véo da mất chậm. Khám bụng: bụng lõm hình thuyền, vùng thượng vị chướng nhẹ, không sờ thấy khối u, dấu hiệu Bouveret dương tính và gõ óc ách lúc đói dương tính.<br><br><b>Xét nghiệm:</b> K+ 2.8 mmol/L, Na+ 130 mmol/L, Cl 85 mmol/L, HCO3- 36 mmol/L, Ure 15 mmol/L, Creatinin 120 μmol/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hội chứng lâm sàng phù hợp nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Tắc ruột non đoạn cao",
+            "Hẹp môn vị cơ học",
+            "Tắc nghẽn đường mật",
+            "Liệt dạ dày cơ năng"
+          ],
+          "answer": 1,
+          "explain": "Triệu chứng nôn ra thức ăn cũ, không có dịch mật, nôn xong thấy dễ chịu kèm dấu hiệu bụng lõm hình thuyền và óc ách lúc đói (dấu hiệu Bouveret) là bệnh cảnh lâm sàng kinh điển của hẹp môn vị cơ học do loét."
+        },
+        {
+          "q": "Cơ chế chính gây ra tình trạng rối loạn kiềm toan ở bệnh nhân này là gì?",
+          "options": [
+            "Mất dịch kiềm qua đường tiêu hóa dưới",
+            "Giảm tưới máu thận do hạ thể tích máu",
+            "Mất ion hydro và clorua qua dịch nôn",
+            "Tăng thông khí phế nang bù trừ quá mức"
+          ],
+          "answer": 2,
+          "explain": "Dạ dày tiết lượng lớn acid hydrochloric (HCl). Khi nôn liên tục kéo dài, cơ thể mất đi ion H+ và Cl-, dẫn đến tình trạng kiềm chuyển hóa giảm clo máu đặc trưng."
+        },
+        {
+          "q": "Loại dịch truyền tĩnh mạch nào ưu tiên được lựa chọn cho bước hồi sức ban đầu?",
+          "options": [
+            "Dung dịch Ringer Lactate",
+            "Dung dịch NaCl 0.9%",
+            "Dung dịch Glucose 5%",
+            "Dung dịch Natri Bicarbonate 1.4%"
+          ],
+          "answer": 1,
+          "explain": "Dung dịch NaCl 0.9% là dịch tinh thể đẳng trương không chứa tiền chất kiềm, vừa cung cấp thể tích tuần hoàn vừa bù lại lượng Cl- bị mất, giúp thận đào thải HCO3- thừa."
+        },
+        {
+          "q": "Tình trạng tăng Ure và Creatinin ở bệnh nhân này phản ánh vấn đề gì?",
+          "options": [
+            "Suy thận cấp trước thận",
+            "Hoại tử ống thận cấp",
+            "Tắc nghẽn đường tiết niệu",
+            "Viêm cầu thận mạn tiến triển"
+          ],
+          "answer": 0,
+          "explain": "Mất nước nặng do nôn khiến dòng máu đến thận sụt giảm nghiêm trọng, dẫn đến suy thận cấp chức năng (trước thận). Ure và Creatinin sẽ cải thiện nhanh chóng sau khi bù đủ dịch."
+        },
+        {
+          "q": "Nếu nội soi xác định hẹp do ổ loét xơ chai hành tá tràng, phương pháp phẫu thuật mang tính triệt căn nhất là gì?",
+          "options": [
+            "Phẫu thuật nối vị tràng đơn thuần",
+            "Cắt bán phần dạ dày phần thấp",
+            "Nong rộng môn vị bằng bóng nội soi",
+            "Mở thông dạ dày ra da nuôi dưỡng"
+          ],
+          "answer": 1,
+          "explain": "Với tổn thương sẹo xơ chai lành tính ở hành tá tràng, việc cắt bỏ bán phần dưới dạ dày (bao gồm vùng hang môn vị và ổ loét) giúp loại bỏ đoạn tắc nghẽn đồng thời lấy đi tế bào tiết gastrin, là phương pháp triệt căn nhất trị cả hẹp lẫn loét."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi buồn nôn và sụt cân",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 68 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì buồn nôn, ăn mau no và sụt 8 kg trong 2 tháng. Gần đây, bệnh nhân nôn liên tục sau ăn, chất nôn có lẫn dịch nâu đen, không có dịch mật.<br><br><b>Tiền sử:</b> Hút thuốc lá 30 bao.năm.<br><br><b>Khám lâm sàng:</b> Thể trạng suy kiệt, BMI 16.5, da xanh xao, niêm mạc nhợt nhạt. Sờ thấy hạch thượng đòn trái kích thước 1.5 cm, cứng chắc. Khám bụng sờ thấy khối gồ lên ở vùng thượng vị lệch phải, ranh giới không rõ, ấn tức.<br><br><b>Xét nghiệm:</b> Hb 85 g/L, K+ 3.2 mmol/L. Siêu âm ổ bụng thấy thành hang môn vị dày 15 mm, hẹp khít lòng dạ dày. Nội soi sinh thiết xác nhận ung thư biểu mô tuyến.",
+      "questions": [
+        {
+          "q": "Dấu hiệu hạch thượng đòn trái (hạch Virchow) phản ánh đường lây lan nào của khối u?",
+          "options": [
+            "Gieo rắc trực tiếp vào phúc mạc",
+            "Di căn theo đường bạch huyết",
+            "Di căn xa theo đường máu",
+            "Xâm lấn trực tiếp qua cơ hoành"
+          ],
+          "answer": 1,
+          "explain": "Hạch thượng đòn trái (hạch Virchow) nhận bạch huyết qua ống ngực từ ổ bụng. Sự phì đại cứng chắc của hạch này phản ánh ung thư dạ dày tiến triển đã di căn theo đường bạch huyết."
+        },
+        {
+          "q": "Xét nghiệm hình ảnh nào quan trọng nhất tiếp theo để đánh giá giai đoạn TNM và khả năng phẫu thuật triệt căn?",
+          "options": [
+            "Chụp X-quang dạ dày cản quang",
+            "Siêu âm nội soi đường tiêu hóa",
+            "Chụp CT ổ bụng có cản quang",
+            "Chụp MRI sọ não không tiêm thuốc"
+          ],
+          "answer": 2,
+          "explain": "Chụp CT ổ bụng có tiêm thuốc cản quang là tiêu chuẩn để phân độ giai đoạn (đánh giá T - mức độ xâm lấn, N - hạch vùng, M - di căn xa như gan/phúc mạc), từ đó quyết định có thể mổ triệt căn hay chỉ chăm sóc giảm nhẹ."
+        },
+        {
+          "q": "Cơ chế chính gây hẹp môn vị ở bệnh nhân này là gì?",
+          "options": [
+            "Khối u sùi thâm nhiễm thành dạ dày",
+            "Co thắt phản xạ do viêm cấp tính",
+            "Phì đại lớp cơ vòng bẩm sinh",
+            "Xơ sẹo co kéo sau loét mạn tính"
+          ],
+          "answer": 0,
+          "explain": "Trong ung thư biểu mô tuyến tiến triển, các tế bào ác tính phát triển sùi vào trong lòng ống tiêu hóa và thâm nhiễm làm cứng lớp cơ dạ dày, gây bít tắc cơ học đường thoát của thức ăn."
+        },
+        {
+          "q": "Nếu khối u đã di căn gan đa ổ không thể cắt bỏ, phương pháp can thiệp nào giúp giảm nhẹ triệu chứng nôn hiệu quả nhất?",
+          "options": [
+            "Cắt toàn bộ khối tá tụy phức tạp",
+            "Mở thông hỗng tràng ra ngoài da",
+            "Cắt bán phần dạ dày nạo vét hạch",
+            "Đặt stent môn vị qua ống nội soi"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân ung thư giai đoạn cuối (di căn xa) và suy kiệt nặng không còn chỉ định phẫu thuật cắt dạ dày do rủi ro tử vong chu phẫu cao và không cải thiện tiên lượng sống. Đặt stent kim loại tự nong qua nội soi là can thiệp tối thiểu giúp lập lại lưu thông tiêu hóa nhanh chóng."
+        },
+        {
+          "q": "Biến chứng muộn phổ biến nhất dẫn đến tắc nghẽn tái phát khi sử dụng stent kim loại không bọc là gì?",
+          "options": [
+            "Viêm dạ dày trào ngược dịch mật mạn",
+            "Hội chứng quai tới thể cấp tính",
+            "U mọc xuyên qua mắt lưới stent",
+            "Chảy máu tiêu hóa dưới mức ồ ạt"
+          ],
+          "answer": 2,
+          "explain": "Stent kim loại không bọc (uncovered SEMS) có các khe hở. Nhược điểm lớn nhất là theo thời gian, mô ung thư ác tính có thể tiếp tục phát triển và mọc xuyên qua các mắt lưới (tumor ingrowth), gây tái hẹp lòng stent."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 4 tuần tuổi nôn vọt",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 4 tuần tuổi, sinh đủ tháng.<br><br><b>Bệnh sử:</b> Vào viện vì nôn vọt. Mẹ bệnh nhi khai cháu bú tốt nhưng luôn nôn vọt mạnh ra sữa đông ngay sau khi bú, tuyệt đối không có dịch mật xanh vàng. Sau khi nôn, trẻ quấy khóc và rất háu bú lại. Trẻ lờ đờ, tháp trũng, mắt trũng, tiểu ít.<br><br><b>Khám lâm sàng:</b> Bụng mềm, có dấu hiệu nhu động dạ dày từ trái sang phải, sờ thấy một khối nhỏ kích thước khoảng 2 cm, mật độ chắc như quả oliu ở vùng trên rốn lệch phải.<br><br><b>Xét nghiệm:</b> K+ 3.0 mmol/L, Cl- 85 mmol/L, HCO3- 32 mmol/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất ở bệnh nhi này là gì?",
+          "options": [
+            "Teo đoạn tá tràng bẩm sinh",
+            "Lồng ruột non thể cấp tính",
+            "Hẹp phì đại cơ môn vị",
+            "Trào ngược dạ dày thực quản"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhi khoảng 3-6 tuần tuổi, nôn vọt không chứa dịch mật, háu bú sau nôn và sờ thấy \"khối u cơ hình quả oliu\" ở hạ sườn phải là tứ chứng kinh điển của bệnh hẹp phì đại cơ môn vị bẩm sinh (IHPS)."
+        },
+        {
+          "q": "Đặc điểm chất nôn không chứa dịch mật chứng tỏ vị trí bít tắc nằm ở đoạn nào?",
+          "options": [
+            "Nằm phía trên nhú Vater",
+            "Nằm phía dưới nhú Vater",
+            "Tắc nghẽn tại góc Treitz",
+            "Tắc nghẽn tại van hồi manh tràng"
+          ],
+          "answer": 0,
+          "explain": "Dịch mật tiết ra đổ vào tá tràng D2 qua nhú Vater. Khi chất nôn chỉ là sữa và hoàn toàn không có mật, điều đó chứng tỏ vị trí tắc nghẽn nằm ở đoạn cao phía trước nơi đổ vào của mật (tức là phía trên nhú Vater, tại vùng môn vị dạ dày)."
+        },
+        {
+          "q": "Cận lâm sàng hình ảnh học nào là lựa chọn đầu tay và an toàn nhất để chẩn đoán xác định?",
+          "options": [
+            "Chụp CT ổ bụng có cản quang",
+            "Chụp X-quang dạ dày cản quang",
+            "Siêu âm ổ bụng",
+            "Chụp X-quang bụng đứng"
+          ],
+          "answer": 2,
+          "explain": "Siêu âm ổ bụng là phương tiện đầu tay, không dùng tia xạ, cho phép đo độ dày lớp cơ vòng môn vị (>4 mm) và chiều dài ống môn vị (>16 mm) một cách chính xác để chẩn đoán xác định."
+        },
+        {
+          "q": "Bước xử trí ưu tiên hàng đầu trước khi xem xét can thiệp phẫu thuật là gì?",
+          "options": [
+            "Mổ cấp cứu mở cơ môn vị ngay",
+            "Dùng thuốc chống co thắt cơ trơn",
+            "Nong môn vị qua ống nội soi mềm",
+            "Bù dịch và điều chỉnh toan kiềm"
+          ],
+          "answer": 3,
+          "explain": "Nguyên tắc trong ngoại khoa nhi đối với hẹp phì đại cơ môn vị là \"chỉ có cấp cứu nội khoa, không có cấp cứu ngoại khoa\". Trẻ đang bị kiềm chuyển hóa nặng, bắt buộc phải bù dịch và điện giải ổn định trước khi mổ để tránh rủi ro ngưng thở sau mổ."
+        },
+        {
+          "q": "Phương pháp phẫu thuật tiêu chuẩn áp dụng cho bệnh lý này là gì?",
+          "options": [
+            "Nối tắt dạ dày trực tiếp với tá tràng",
+            "Mở dọc cơ môn vị ngoài niêm mạc",
+            "Cắt bỏ khối cơ phì đại và nối ruột",
+            "Tạo hình môn vị theo kiểu chữ Y-V"
+          ],
+          "answer": 1,
+          "explain": "Phẫu thuật Fredet-Ramstedt (rạch mở lớp cơ vòng phì đại nhưng không làm rách lớp niêm mạc bên trong) là tiêu chuẩn vàng, giúp giải phóng chèn ép cơ học hiệu quả và sinh lý nhất."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi nôn liên tục sau khi dùng NSAID",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi.<br><br><b>Bệnh sử:</b> Ba ngày nay bệnh nhân đau rát thượng vị dữ dội. Hôm nay, bệnh nhân nôn liên tục ngay sau khi ăn, chất nôn là thức ăn mới, không có mùi chua cũ, không có dịch mật.<br><br><b>Tiền sử:</b> Thoái hóa khớp và tự mua thuốc kháng viêm NSAID uống liên tục 1 tuần nay.<br><br><b>Khám lâm sàng:</b> Sinh hiệu ổn định, bụng xẹp, ấn thượng vị đau tức nhưng không có phản ứng thành bụng, không có tiếng óc ách lúc đói.<br><br><b>Xét nghiệm:</b> Nội soi dạ dày cấp cứu thấy một ổ loét kích thước 2 cm ở tiền môn vị, mép ổ loét sung huyết đỏ rực và phù nề rất mạnh làm bít kín hoàn toàn lỗ môn vị, ống soi không qua được. Không thấy sẹo xơ chai co rút. Xét nghiệm điện giải đồ trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Nguyên nhân trực tiếp gây tắc nghẽn đường ra dạ dày ở bệnh nhân này là gì?",
+          "options": [
+            "Tình trạng phù nề niêm mạc và co thắt cấp tính",
+            "Quá trình xơ sẹo co kéo môn vị mạn tính kéo dài",
+            "Khối u ác tính thâm nhiễm thành ống tiêu hóa",
+            "Khối bã thức ăn kẹt chặt tại lỗ môn vị dạ dày"
+          ],
+          "answer": 0,
+          "explain": "Bệnh cảnh hẹp khởi phát cấp tính ở người trẻ dùng NSAID, nội soi thấy loét đang viêm đỏ rực không sẹo xơ. Tình trạng bít tắc này hoàn toàn mang tính chức năng do phản ứng phù nề niêm mạc và co thắt cơ trơn quanh ổ loét hoạt động."
+        },
+        {
+          "q": "Thuốc NSAID gây tổn thương niêm mạc dạ dày thông qua cơ chế chính nào?",
+          "options": [
+            "Kích thích tế bào thành tăng tiết acid dạ dày",
+            "Giảm tổng hợp prostaglandin bảo vệ niêm mạc",
+            "Phá hủy trực tiếp cấu trúc của lớp cơ vòng",
+            "Làm tăng sinh quá mức vi khuẩn Helicobacter"
+          ],
+          "answer": 1,
+          "explain": "Thuốc NSAID ức chế men cyclooxygenase (COX-1), làm giảm sự tổng hợp prostaglandin. Prostaglandin rất quan trọng để duy trì hàng rào nhày bảo vệ niêm mạc dạ dày."
+        },
+        {
+          "q": "Chọn tập hợp ĐÚNG về các bước xử trí nội khoa ban đầu cho bệnh nhân này:\n(1) Ngừng ngay thuốc kháng viêm NSAID\n(2) Đặt ống thông dạ dày giải áp\n(3) Truyền tĩnh mạch thuốc ức chế bơm proton\n(4) Đưa đi phẫu thuật nội soi cấp cứu",
+          "options": [
+            "1, 2, 4",
+            "2, 3, 4",
+            "1, 2, 3",
+            "1, 3, 4"
+          ],
+          "answer": 2,
+          "explain": "Hẹp chức năng do viêm phù nề có khả năng tự hồi phục tốt. Ưu tiên xử trí nội khoa: ngừng tác nhân gây viêm (NSAID), đặt sonde giải áp và dùng thuốc ức chế tiết acid (PPI). Không có chỉ định mổ cấp cứu ngay."
+        },
+        {
+          "q": "Trong quá trình điều trị nội khoa, dấu hiệu lâm sàng nào cho thấy tình trạng hẹp đang thoái lui?",
+          "options": [
+            "Số lượng bạch cầu trong máu giảm về bình thường",
+            "Lượng dịch tồn dư hút qua ống dạ dày giảm rõ rệt",
+            "Tình trạng đau nhức xương khớp thuyên giảm nhanh",
+            "Nồng độ điện giải đồ máu tăng lên mức cao nhất"
+          ],
+          "answer": 1,
+          "explain": "Khi hiện tượng phù nề thuyên giảm, môn vị sẽ mở thông trở lại. Do đó, sự sụt giảm lượng dịch tồn lưu ứ đọng hút ra qua sonde dạ dày hàng ngày là dấu hiệu lâm sàng rõ ràng nhất."
+        },
+        {
+          "q": "Chỉ định can thiệp ngoại khoa sẽ được cân nhắc khi nào ở bệnh nhân này?",
+          "options": [
+            "Ngay sau khi có kết quả nội soi cấp cứu",
+            "Khi bệnh nhân xuất hiện cơn đau quặn nhẹ vùng rốn",
+            "Điều trị nội khoa bảo tồn tối ưu thất bại kéo dài",
+            "Khi phát hiện bệnh nhân có nhiễm vi khuẩn H. pylori"
+          ],
+          "answer": 2,
+          "explain": "Nếu sau thời gian điều trị nội khoa tích cực đúng phác đồ (thường 5-7 ngày) mà tình trạng ứ đọng dạ dày vẫn không thuyên giảm (nghĩ ngờ đã xuất hiện sẹo xơ chai thực thể), lúc đó mới có chỉ định mổ can thiệp giải quyết tắc nghẽn cơ học."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi lơ mơ, nôn nhiều",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì lơ mơ, mệt lả và thỉnh thoảng có những cơn co rút bàn tay. Bệnh nhân nôn rất nhiều ở nhà.<br><br><b>Tiền sử:</b> Viêm loét hành tá tràng biến chứng hẹp môn vị đã 3 tháng nhưng từ chối phẫu thuật.<br><br><b>Khám lâm sàng:</b> SpO2 96%, huyết áp 85/55 mmHg, mạch 115 lần/phút. Bụng xẹp lép, dấu óc ách lúc đói dương tính.<br><br><b>Xét nghiệm:</b> K+ 2.1 mmol/L, Na 125 mmol/L, Cl 78 mmol/L, HCO3- 42 mmol/L. Tổng phân tích nước tiểu cho thấy pH nước tiểu 5.5. Điện tâm đồ ghi nhận có sóng U nhô cao.",
+      "questions": [
+        {
+          "q": "Hiện tượng pH nước tiểu 5.5 trong bối cảnh máu kiềm hóa nặng (HCO3- 42 mmol/L) được gọi là gì?",
+          "options": [
+            "Nhiễm toan ống thận typ 1",
+            "Kiềm hóa nước tiểu bù trừ",
+            "Acid niệu nghịch thường",
+            "Toan hóa máu nghịch hợp"
+          ],
+          "answer": 2,
+          "explain": "Tình trạng bệnh nhân có kiềm chuyển hóa nặng trong máu nhưng nước tiểu lại mang tính toan (pH 5.5) là dấu hiệu kinh điển của giai đoạn muộn mất bù trong hẹp môn vị, được gọi là \"acid niệu nghịch thường\" (paradoxical aciduria)."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính gây ra hiện tượng nước tiểu toan tính ở bệnh nhân này là gì?",
+          "options": [
+            "Thận tăng cường chức năng lọc cầu thận tối đa",
+            "Cơ ngoại vi tăng sản xuất acid lactic ồ ạt",
+            "Thận bài tiết kali để tái hấp thu toàn bộ hydro",
+            "Thận thải hydro để tái hấp thu natri"
+          ],
+          "answer": 3,
+          "explain": "Nôn kéo dài làm tụt huyết áp nghiêm trọng, kích hoạt tối đa hệ RAA buộc thận phải tái hấp thu Na+ để giữ nước. Do K+ trong máu đã cạn kiệt, thận bắt buộc phải thải H+ ra ngoài, làm toan hóa nước tiểu dù máu đang rất kiềm."
+        },
+        {
+          "q": "Triệu chứng co rút bàn tay ở bệnh nhân này xuất hiện do cơ chế nào?",
+          "options": [
+            "Hạ kali máu gây tổn thương thần kinh vận động ngoại biên",
+            "Tình trạng kiềm máu làm giảm nồng độ canxi ion hóa tự do",
+            "Tăng natri nội bào gây co thắt sợi cơ vân liên tục",
+            "Tăng ure máu mức độ nặng gây kích thích trực tiếp vỏ não"
+          ],
+          "answer": 1,
+          "explain": "Trong môi trường kiềm, ion H+ tách khỏi protein huyết tương, nhường chỗ cho ion canxi gắn vào protein. Hậu quả là lượng canxi tự do có hoạt tính sinh lý giảm mạnh, gây tăng tính kích thích thần kinh cơ và tạo ra các cơn co rút kiểu tetany."
+        },
+        {
+          "q": "Vì sao chống chỉ định đưa bệnh nhân vào phòng mổ gây mê ngay lập tức ở thời điểm hiện tại?",
+          "options": [
+            "Dạ dày giãn to chưa được nội soi lấy mẫu sinh thiết",
+            "Nguy cơ rung thất hoặc ngừng tim do hạ kali máu nặng",
+            "Bệnh nhân chưa được dùng kháng sinh dự phòng phổ rộng",
+            "Thành bụng suy kiệt mỏng làm tăng nguy cơ bục vết mổ"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có K+ rất thấp (2.1 mmol/L) và biểu hiện qua biến đổi điện tâm đồ (sóng U). Bất kỳ can thiệp khởi mê, đặt nội khí quản hay stress phẫu thuật nào lúc này đều dễ dàng phá vỡ sự ổn định của màng tế bào cơ tim, dẫn đến rối loạn nhịp thất ác tính và ngừng tim trên bàn mổ."
+        },
+        {
+          "q": "Nguyên tắc bắt buộc nào sau đây phải tuân thủ khi bù kali tĩnh mạch cho bệnh nhân này, TRỪ:",
+          "options": [
+            "Tốc độ truyền không được vượt quá 20 mmol/giờ qua ven ngoại vi",
+            "Bơm tiêm tĩnh mạch trực tiếp dung dịch KCl 10% để nâng nhanh kali",
+            "Bắt buộc phải đảm bảo bệnh nhân có nước tiểu trước khi truyền kali",
+            "Theo dõi sát điện tâm đồ trên monitor trong suốt quá trình bù điện giải"
+          ],
+          "answer": 1,
+          "explain": "Tiêm bolus (bơm tiêm tĩnh mạch trực tiếp) dung dịch KCl đậm đặc là chống chỉ định tuyệt đối vì nó làm nồng độ kali máu tại tim tăng vọt tức thì, gây ngừng tim ngay lập tức. Kali tĩnh mạch phải luôn được pha loãng và truyền nhỏ giọt chậm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi nôn ra dịch mật sau phẫu thuật dạ dày",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 58 tuổi.<br><br><b>Bệnh sử:</b> Khoảng 2 tuần nay, bệnh nhân thường xuyên đau quặn dữ dội vùng thượng vị lệch phải sau khi ăn khoảng 45 phút. Cơn đau tăng dần, sau đó bệnh nhân nôn thốc tháo ra lượng lớn dịch mật vàng đắng, hoàn toàn không lẫn thức ăn. Điểm đặc biệt là ngay sau khi nôn ra dịch mật, bệnh nhân thấy hết đau bụng hoàn toàn.<br><br><b>Tiền sử:</b> Mổ cắt bán phần dạ dày và nối vị tràng theo phương pháp Billroth II cách đây 3 tháng do loét hẹp môn vị xơ chai.<br><br><b>Khám lâm sàng:</b> Sinh hiệu ổn định, bụng mềm, không có phản ứng thành bụng, không sốt.",
+      "questions": [
+        {
+          "q": "Hội chứng lâm sàng nào phù hợp nhất với biến chứng phẫu thuật của bệnh nhân này?",
+          "options": [
+            "Hội chứng Dumping muộn",
+            "Viêm dạ dày trào ngược kiềm",
+            "Hội chứng quai tới",
+            "Hội chứng quai đi"
+          ],
+          "answer": 2,
+          "explain": "Ở bệnh nhân mổ Billroth II, triệu chứng đau quặn sau ăn, nôn vọt ra dịch mật tinh khiết không lẫn thức ăn và đặc biệt là giảm đau ngay sau nôn là bệnh cảnh kinh điển của hội chứng quai tới (Afferent loop syndrome)."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh gây đau quặn bụng ở bệnh nhân này là gì?",
+          "options": [
+            "Thức ăn ưu trương đổ ồ ạt vào hỗng tràng",
+            "Ứ đọng dịch mật và dịch tụy làm căng giãn quai ruột",
+            "Acid dịch vị trào ngược gây loét miệng nối thực quản",
+            "Liệt ruột cơ năng toàn phát sau phẫu thuật cắt dạ dày"
+          ],
+          "answer": 1,
+          "explain": "Quai tới mang dịch mật và tụy bị hẹp hoặc gập góc. Sau ăn, dịch tiêu hóa tiết nhiều không lưu thông được làm ứ đọng và căng giãn đột ngột quai ruột, gây cơn đau quặn. Khi áp lực đủ mạnh, dịch tống ồ ạt vượt qua chỗ hẹp vào dạ dày, giải phóng áp lực nên bệnh nhân hết đau."
+        },
+        {
+          "q": "Vì sao chất nôn của bệnh nhân chỉ chứa dịch mật mà không có thức ăn?",
+          "options": [
+            "Thức ăn đã lưu thông hết xuống đoạn quai đi trước đó",
+            "Thức ăn bị kẹt lại hoàn toàn trong mỏm dạ dày còn lại",
+            "Miệng nối vị tràng bị bịt kín bởi khối bã thức ăn lớn",
+            "Bệnh nhân nhịn ăn hoàn toàn nhiều ngày trước khi nôn"
+          ],
+          "answer": 0,
+          "explain": "Mọi cơ chế lưu thông thức ăn từ dạ dày xuống quai đi vẫn hoạt động bình thường. Khi quai tới xả dịch mật trào ngược lên dạ dày, thức ăn của bữa ăn trước đó đã trôi hết xuống ruột, do vậy chất nôn chỉ thuần túy là dịch mật tụy."
+        },
+        {
+          "q": "Phương tiện chẩn đoán hình ảnh học nào có giá trị cao nhất để xác định vị trí tắc nghẽn đoạn ruột?",
+          "options": [
+            "Chụp X-quang ngực thẳng đứng",
+            "Siêu âm Doppler mạch máu mạc treo",
+            "Chụp cắt lớp vi tính ổ bụng có cản quang",
+            "Chụp cộng hưởng từ cột sống thắt lưng"
+          ],
+          "answer": 2,
+          "explain": "Chụp CT bụng có cản quang là phương tiện chẩn đoán xác định tốt nhất. Hình ảnh điển hình sẽ cho thấy đoạn tá tràng (quai tới) vắt ngang cột sống bị giãn to, ứ dịch và không ngắm thuốc cản quang đi xuống từ dạ dày."
+        },
+        {
+          "q": "Phương pháp phẫu thuật giúp sửa chữa triệt để nhất biến chứng này là gì?",
+          "options": [
+            "Tháo bỏ miệng nối và khâu kín dạ dày",
+            "Chuyển đổi thành miệng nối kiểu Roux-en-Y",
+            "Nong rộng miệng nối bằng ống nội soi mềm",
+            "Cắt nốt phần mỏm dạ dày còn lại để giảm tiết"
+          ],
+          "answer": 1,
+          "explain": "Phẫu thuật chuyển đổi miệng nối từ Billroth II sang Roux-en-Y là giải pháp triệt để. Bác sĩ sẽ cắt bỏ miệng nối cũ và cắm quai dẫn mật sâu xuống ruột non cách xa dạ dày, ngăn hoàn toàn dòng mật không cho trào ngược lên mỏm dạ dày."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 35 tuổi ăn vào nôn ra ngay sau ngộ độc hóa chất",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 35 tuổi.<br><br><b>Bệnh sử:</b> Hiện tại bệnh nhân vào viện vì ăn vào là nôn ra ngay, chỉ uống được nước lỏng, sụt 12 kg, BMI 15.<br><br><b>Tiền sử:</b> Uống dung dịch tẩy rửa bồn cầu (chứa acid mạnh) tự tử cách đây 6 tuần, đã được điều trị nội khoa qua giai đoạn cấp tính.<br><br><b>Khám lâm sàng:</b> Thể trạng suy kiệt, niêm mạc nhợt, bụng xẹp.<br><br><b>Xét nghiệm:</b> Nội soi tiêu hóa trên thấy niêm mạc thực quản bình thường, nhưng toàn bộ vùng hang môn vị bị teo nhỏ, xơ cứng, chít hẹp thành một ống nhỏ kéo dài khoảng 5 cm, ống soi không thể đưa qua được. Chụp dạ dày có thuốc cản quang tan trong nước thấy thuốc đọng lại toàn bộ ở phần thân vị, không xuống được tá tràng.",
+      "questions": [
+        {
+          "q": "Cơ chế nào giải thích việc thực quản ít bị tổn thương nhưng hang môn vị lại bị chít hẹp nặng nề sau khi uống acid?",
+          "options": [
+            "Biểu mô lát tầng của thực quản có khả năng trung hòa acid mạnh",
+            "Acid trôi qua nhanh và đọng lại lâu ở vùng thấp nhất của dạ dày",
+            "Bệnh nhân được cho uống nhiều nước kiềm ngay sau khi tự tử",
+            "Dạ dày tự sản xuất thêm acid làm cộng hưởng tổn thương tại chỗ"
+          ],
+          "answer": 1,
+          "explain": "Acid ăn mòn dạng lỏng lướt rất nhanh qua thực quản nhờ nhu động và trọng lực nên ít gây bỏng sâu. Khi xuống tới vùng thấp nhất của dạ dày (hang môn vị), acid kích thích gây co thắt môn vị phản xạ, khiến hóa chất đọng lại lâu và gây hoại tử đông sâu đặc biệt nặng nề tại vùng này."
+        },
+        {
+          "q": "Đặc điểm giải phẫu bệnh chính gây bít tắc đường lưu thông ở bệnh nhân này là gì?",
+          "options": [
+            "Tình trạng viêm sung huyết và co thắt cơ trơn cấp tính",
+            "Khối u biểu mô tuyến thâm nhiễm phá hủy thành ống tiêu hóa",
+            "Mô sẹo xơ cứng co rút diện rộng thay thế lớp hoại tử đông",
+            "Hiện tượng phì đại cơ vòng môn vị dạ dày mang tính chất bẩm sinh"
+          ],
+          "answer": 2,
+          "explain": "Ở giai đoạn muộn sau bỏng hóa chất (từ 4-6 tuần trở đi), quá trình liền vết thương sẽ thay thế mô hoại tử bằng các tổ chức mô liên kết xơ sẹo diện rộng. Sự co rút mạnh của khối sẹo cứng này làm chít hẹp và biến dạng hoàn toàn ống tiêu hóa."
+        },
+        {
+          "q": "Vì sao phương pháp nong môn vị bằng bóng qua nội soi chống chỉ định ở bệnh nhân này?",
+          "options": [
+            "Kích thích tế bào niêm mạc chuyển sản và ung thư hóa",
+            "Nguy cơ xé rách vỡ thành dạ dày do sẹo xơ mất tính đàn hồi",
+            "Gây hội chứng trào ngược hóa chất mạn tính lên thực quản",
+            "Có thể gây xuất huyết tiêu hóa dưới ồ ạt không kiểm soát"
+          ],
+          "answer": 1,
+          "explain": "Sẹo xơ co rút do bỏng acid cực kỳ dày, chắc và mất hoàn toàn độ đàn hồi sinh lý. Việc dùng bóng áp lực cao cố nong cơ học sẽ không làm giãn nở mô mà chỉ dẫn đến việc xé toạc thành dạ dày, gây biến chứng thủng tiêu hóa tồi tệ hơn."
+        },
+        {
+          "q": "Trước tình trạng suy dinh dưỡng trầm trọng, biện pháp hỗ trợ dinh dưỡng nào là khả thi và an toàn nhất để chuẩn bị phẫu thuật?",
+          "options": [
+            "Nuôi dưỡng tĩnh mạch trung tâm toàn phần",
+            "Đặt ống thông mũi dạ dày bơm cháo lỏng",
+            "Mở thông dạ dày ra da để bơm súp dinh dưỡng",
+            "Khuyến khích ăn thức ăn đặc chia nhỏ nhiều bữa"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có tắc nghẽn khít đầu ra dạ dày, việc mở thông dạ dày ra da hay ăn qua sonde dạ dày là vô ích. Nuôi dưỡng tĩnh mạch toàn phần (TPN) qua catheter trung tâm là lựa chọn khả thi duy nhất để hồi phục dinh dưỡng trước ca mổ lớn."
+        },
+        {
+          "q": "Khi thể trạng cho phép, phương pháp phẫu thuật lập lại lưu thông tiêu hóa nào phù hợp nhất cho đoạn hẹp dài 5 cm này?",
+          "options": [
+            "Mở dọc cơ môn vị ngoài lớp niêm mạc bảo tồn",
+            "Đặt stent kim loại tự nong qua lỗ môn vị",
+            "Cắt thần kinh phế vị siêu chọn lọc thân vị",
+            "Cắt bỏ đoạn hẹp hoặc nối vị tràng mổ hở"
+          ],
+          "answer": 3,
+          "explain": "Đoạn xơ sẹo dài và cứng không thể cắt dọc bảo tồn hay đặt stent. Phương pháp phẫu thuật kinh điển là cắt bỏ phần dạ dày bị hỏng (cắt bán phần) rồi nối lưu thông, hoặc nếu dính quá phức tạp thì thực hiện nối tắt dạ dày với hỗng tràng (nối vị tràng mổ hở) để vòng qua chỗ hẹp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 60 tuổi đầy chướng bụng và nôn mửa",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 60 tuổi.<br><br><b>Bệnh sử:</b> Hai tháng nay, bệnh nhân thường xuyên cảm thấy đầy chướng bụng, no sớm và nôn mửa ra thức ăn chưa tiêu của bữa ăn nhiều giờ trước. Bệnh nhân không đau thượng vị dữ dội, không sụt cân đột ngột.<br><br><b>Tiền sử:</b> Đái tháo đường type 2 trong 15 năm, kiểm soát đường huyết rất kém (HbA1c 10.5%).<br><br><b>Khám lâm sàng:</b> Sinh hiệu bình thường, bụng mềm, không có sóng nhu động, óc ách lúc đói dương tính.<br><br><b>Xét nghiệm:</b> Nội soi tiêu hóa trên thấy dạ dày ứ đọng nhiều thức ăn cũ, niêm mạc hồng hào, ống soi dễ dàng đi qua lỗ môn vị xuống tá tràng mà không gặp bất kỳ cản trở cơ học nào. Siêu âm ổ bụng chưa phát hiện bất thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất với nguyên nhân gây ứ đọng dạ dày ở bệnh nhân này là gì?",
+          "options": [
+            "Hẹp môn vị cơ học do loét",
+            "Ung thư hang vị thể thâm nhiễm",
+            "Liệt dạ dày cơ năng mạn tính",
+            "Hội chứng bã thức ăn kẹt tá tràng"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân đái tháo đường có hội chứng ứ đọng dạ dày nhưng nội soi cho thấy môn vị hoàn toàn thông thoáng, không có cản trở cơ học. Bệnh cảnh này đặc trưng cho bệnh liệt dạ dày (gastroparesis), làm dạ dày mất khả năng tống thoát thức ăn cơ năng."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây ra tình trạng rối loạn này ở bệnh nhân đái tháo đường là gì?",
+          "options": [
+            "Tổn thương nhánh thần kinh phế vị do đường huyết cao",
+            "Xơ hóa tổ chức liên kết vùng hang vị co kéo môn vị",
+            "Khối u ngoài ống tiêu hóa chèn ép trực tiếp vào tá tràng",
+            "Phì đại lớp cơ vòng môn vị dạ dày do tuổi tác"
+          ],
+          "answer": 0,
+          "explain": "Tình trạng tăng đường huyết mạn tính làm tổn thương vi mạch thần kinh, dẫn đến bệnh lý thần kinh tự chủ (đặc biệt tổn thương nhánh của dây thần kinh số X - phế vị). Hậu quả là dạ dày mất trương lực và không còn khả năng co bóp nhịp nhàng."
+        },
+        {
+          "q": "Thăm dò chức năng nào được coi là tiêu chuẩn vàng để xác định sự chậm làm rỗng của dạ dày?",
+          "options": [
+            "Chụp X-quang dạ dày với thuốc baryte cản quang",
+            "Xạ hình làm rỗng dạ dày bằng đồng vị phóng xạ",
+            "Siêu âm nội soi ống tiêu hóa đánh giá lớp cơ",
+            "Đo nồng độ gastrin huyết thanh lúc đói"
+          ],
+          "answer": 1,
+          "explain": "Xạ hình làm rỗng dạ dày (Gastric emptying scintigraphy) đo lường chính xác tỷ lệ lưu giữ thức ăn gắn đồng vị phóng xạ tại các mốc 2 giờ và 4 giờ. Đây là tiêu chuẩn vàng không xâm lấn để chẩn đoán xác định và phân độ liệt dạ dày."
+        },
+        {
+          "q": "Nhóm thuốc nội khoa nào là lựa chọn ưu tiên để điều trị làm giảm triệu chứng cho bệnh nhân này?",
+          "options": [
+            "Thuốc kháng tiết cholin đường tiêu hóa",
+            "Thuốc ức chế bơm proton tĩnh mạch",
+            "Thuốc trợ vận động dạ dày ruột",
+            "Thuốc giảm đau trung ương nhóm opioid"
+          ],
+          "answer": 2,
+          "explain": "Điều trị nội khoa cốt lõi để giảm triệu chứng là sử dụng các thuốc trợ vận động (prokinetics) như Metoclopramide, Domperidone, giúp kích thích cơ trơn dạ dày co bóp tống thức ăn."
+        },
+        {
+          "q": "Nếu phẫu thuật viên chẩn đoán nhầm là tắc nghẽn cơ học và tiến hành mổ nối vị tràng, hệ quả dự kiến là gì?",
+          "options": [
+            "Triệu chứng ứ đọng thuyên giảm một cách hoàn toàn",
+            "Dạ dày tự động phục hồi nhu động co bóp ngay lập tức",
+            "Tình trạng nôn mửa và ứ đọng không được giải quyết",
+            "Bệnh nhân xuất hiện hội chứng Dumping sớm sau mổ"
+          ],
+          "answer": 2,
+          "explain": "Nối vị tràng mổ mở tạo ra một đường thoát phụ thuộc vào lực đẩy co bóp. Nếu bản chất thành dạ dày đã liệt hoàn toàn, không có nhu động đẩy, thức ăn vẫn tiếp tục đọng lại ở phần thấp của dạ dày mà không chịu chui qua miệng nối. Phẫu thuật này vô tác dụng và không giải quyết được bệnh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi đột ngột đau chói vùng thượng vị",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Bệnh sử:</b> Đang nằm viện ngày thứ 3 điều trị hẹp môn vị không hoàn toàn do sẹo loét hành tá tràng, hàng ngày được rửa dạ dày bằng nước ấm. Sáng nay, bệnh nhân đột ngột kêu đau chói vùng thượng vị dữ dội như dao đâm, sau đó đau lan ra khắp ổ bụng.<br><br><b>Khám lâm sàng:</b> Khám cấp cứu: mạch 115 lần/phút, huyết áp 130/80 mmHg, nhịp thở 24 lần/phút, bệnh nhân nằm im không dám cử động. Khám bụng thấy bụng co cứng toàn bộ như gỗ, gõ mất vùng đục trước gan, ấn đau chói khắp bụng.<br><br><b>Xét nghiệm:</b> Xét nghiệm bạch cầu tăng từ 8.0 G/L lên 16.5 G/L.",
+      "questions": [
+        {
+          "q": "Dấu hiệu \"mất vùng đục trước gan\" khi gõ bụng gợi ý tình trạng gì trong ổ bụng?",
+          "options": [
+            "Dạ dày giãn to cấp tính lấp kín gan",
+            "Có khí tự do trong khoang phúc mạc",
+            "Có dịch tự do bao quanh nhu mô gan",
+            "Gan bị xơ teo nhỏ mạn tính che khuất"
+          ],
+          "answer": 1,
+          "explain": "Bình thường gan là tạng đặc nên gõ đục. Khi không khí từ ống tiêu hóa thoát ra ổ phúc mạc, nó lách lên phía trên nằm giữa gan và cơ hoành hoặc thành bụng trước. Sự hiện diện của lớp khí này làm tiếng gõ chuyển thành vang trong (mất vùng đục trước gan)."
+        },
+        {
+          "q": "Bệnh cảnh lâm sàng hiện tại của bệnh nhân là biến chứng gì?",
+          "options": [
+            "Chảy máu ồ ạt từ động mạch vị tá tràng phía sau",
+            "Viêm tụy cấp do trào ngược dịch mật tụy lên trên",
+            "Thủng ổ loét dạ dày tá tràng gây viêm phúc mạc",
+            "Xoắn dạ dày cấp tính quanh trục mạc treo toàn bộ"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có tiền sử loét đang tiến triển, đột ngột đau chói dữ dội lan toàn bụng, bụng co cứng như gỗ và mất vùng đục trước gan là tam chứng hoàn hảo để chẩn đoán viêm phúc mạc do thủng ổ loét dạ dày tá tràng."
+        },
+        {
+          "q": "Cận lâm sàng nào cần được thực hiện nhanh nhất tại giường để xác nhận chẩn đoán biến chứng này?",
+          "options": [
+            "Chụp X-quang bụng đứng không chuẩn bị",
+            "Nội soi dạ dày tá tràng cấp cứu",
+            "Chụp cộng hưởng từ vùng bụng không thuốc",
+            "Siêu âm Doppler động mạch hệ thống tạng"
+          ],
+          "answer": 0,
+          "explain": "X-quang ngực thẳng hoặc bụng đứng không chuẩn bị là phương tiện nhanh chóng, rẻ tiền và hiệu quả để tìm kiếm hình ảnh \"liềm hơi dưới cơ hoành\" hai bên, giúp khẳng định sự hiện diện của khí tự do ổ bụng."
+        },
+        {
+          "q": "Tại sao nội soi dạ dày tá tràng bị chống chỉ định trong tình huống cấp cứu này?",
+          "options": [
+            "Bệnh nhân đang đau đớn dữ dội nên không thể hợp tác",
+            "Bơm hơi sẽ đẩy dịch bẩn vào sâu trong khoang phúc mạc",
+            "Dạ dày chứa nhiều thức ăn cũ làm khuất tầm nhìn nội soi",
+            "Dễ gây xuất huyết tiêu hóa ồ ạt dẫn đến tử vong nhanh"
+          ],
+          "answer": 1,
+          "explain": "Khi nghi ngờ thủng tạng rỗng, đưa ống nội soi mềm vào và bơm phồng hơi sẽ làm tăng áp lực trong dạ dày, đẩy lượng lớn dịch acid bẩn và thức ăn thừa qua lỗ thủng tràn sâu vào ổ bụng, biến viêm phúc mạc khu trú thành toàn thể và làm bệnh nhân sốc nặng nề hơn."
+        },
+        {
+          "q": "Trong mổ cấp cứu, nếu thấy lỗ thủng ở mặt trước hành tá tràng kèm sẹo xơ chai làm hẹp khít đường ra dạ dày, phương pháp xử trí nào là tối ưu nhất nếu huyết động ổn định?",
+          "options": [
+            "Khâu lỗ thủng đơn thuần có bọc mạc nối lớn",
+            "Đặt dẫn lưu ổ bụng đơn thuần không khâu lỗ thủng",
+            "Khâu lỗ thủng kèm tạo hình môn vị và cắt dây X",
+            "Phẫu thuật cắt toàn bộ dạ dày nạo vét hạch vùng"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân mắc song song hai biến chứng: thủng và hẹp môn vị cơ học do xơ. Nếu chỉ khâu lỗ thủng đơn thuần, dạ dày vẫn tắc nghẽn, áp lực ứ đọng sau mổ sẽ làm bục vết khâu. Phương pháp tối ưu nhất là khâu kín lỗ thủng kết hợp cắt dây thần kinh X (giảm tiết acid) và tạo hình mở rộng môn vị để giải quyết triệt để cả hai vấn đề."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 72 tuổi đau bụng từng cơn và nôn mửa",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 72 tuổi.<br><br><b>Bệnh sử:</b> Ba ngày nay, bệnh nhân đau bụng từng cơn vùng thượng vị, kèm nôn mửa lượng lớn ra dịch mật và thức ăn chưa tiêu.<br><br><b>Tiền sử:</b> Sỏi túi mật không phẫu thuật nhiều năm nay.<br><br><b>Khám lâm sàng:</b> Bệnh nhân có dấu hiệu mất nước rầm rộ, mạch 105 lần/phút. Bụng chướng nhẹ nửa trên, ấn tức thượng vị, không có cảm ứng phúc mạc.<br><br><b>Xét nghiệm:</b> K+ 3.0 mmol/L. Chụp CT ổ bụng có tiêm cản quang phát hiện hình ảnh khí trong đường mật, dạ dày giãn rất to chứa đầy dịch, và một viên sỏi cản quang hình bầu dục lớn kích thước 4 cm nằm kẹt chặt tại hành tá tràng gây tắc nghẽn hoàn toàn đường thoát thức ăn.",
+      "questions": [
+        {
+          "q": "Hội chứng tắc nghẽn đường ra dạ dày do sỏi mật kẹt tại hành tá tràng được gọi là gì?",
+          "options": [
+            "Hội chứng Mallory-Weiss",
+            "Hội chứng Bouveret",
+            "Hội chứng Zollinger-Ellison",
+            "Hội chứng Peutz-Jeghers"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng Bouveret là một dạng rất hiếm của tắc ruột do sỏi mật, trong đó viên sỏi mật khổng lồ kẹt lại ngay tại vùng hành tá tràng hoặc môn vị, tạo ra bệnh cảnh lâm sàng tắc nghẽn tiêu hóa trên giống hệt hẹp môn vị."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính dẫn đến sự xuất hiện của viên sỏi khổng lồ trong đường tiêu hóa là gì?",
+          "options": [
+            "Sỏi di chuyển qua ống mật chủ và kẹt lại ở nhú Vater",
+            "Hình thành rò trực tiếp giữa túi mật và tá tràng",
+            "Lắng đọng canxi tại ổ loét tá tràng mạn tính lâu năm",
+            "Trào ngược sỏi từ đoạn hồi tràng lên trên dạ dày"
+          ],
+          "answer": 1,
+          "explain": "Sỏi túi mật lớn và viêm mạn tính gây dính túi mật vào tá tràng D1 kế cận. Tình trạng hoại tử vách do viêm và áp lực dẫn đến hình thành đường rò tự nhiên (cholecystoduodenal fistula). Viên sỏi rơi trực tiếp vào lòng tá tràng nhưng kẹt lại do kích thước quá lớn."
+        },
+        {
+          "q": "Bộ ba dấu hiệu hình ảnh kinh điển (tam chứng Rigler) của bệnh lý tắc ruột do sỏi mật bao gồm sỏi lạc chỗ trong ống tiêu hóa, hình ảnh giãn ống tiêu hóa và dấu hiệu nào sau đây?",
+          "options": [
+            "Khí trong đường mật",
+            "Dày thành túi mật cấp tính",
+            "Dịch tự do lượng lớn trong ổ bụng",
+            "Khuyết thuốc tĩnh mạch cửa gan"
+          ],
+          "answer": 0,
+          "explain": "Tam chứng Rigler (Rigler's triad) trên phim X-quang hoặc CT scan đặc trưng cho tắc ruột do sỏi mật bao gồm: (1) Sỏi cản quang nằm lạc chỗ trong ruột, (2) Các quai ruột/dạ dày giãn to biểu hiện bế tắc, và (3) Khí trong đường mật (pneumobilia) do khí từ tá tràng lọt qua đường rò lên đường mật."
+        },
+        {
+          "q": "Bước xử trí ban đầu thiết yếu trước khi xem xét phẫu thuật là gì?",
+          "options": [
+            "Tán sỏi túi mật qua da bằng sóng xung kích cường độ cao",
+            "Nội soi mật tụy ngược dòng lấy sỏi ngay lập tức",
+            "Kê đơn thuốc nội khoa làm tan sỏi mật nhanh chóng",
+            "Đặt ống thông dạ dày giải áp và bù dịch tĩnh mạch"
+          ],
+          "answer": 3,
+          "explain": "Dù nguyên nhân gây tắc là sỏi cơ học, bệnh nhân vẫn có mất nước, hạ kali và giãn dạ dày nghiêm trọng. Theo nguyên tắc ngoại khoa, đặt sonde dạ dày hút giải áp và truyền tĩnh mạch bù dịch điện giải là bước bắt buộc đầu tiên để hồi sức an toàn trước mổ."
+        },
+        {
+          "q": "Nguyên tắc can thiệp phẫu thuật ưu tiên trong tình trạng cấp cứu đối với bệnh nhân lớn tuổi yếu mệt này là gì?",
+          "options": [
+            "Cắt dạ dày và cắt túi mật đồng thời trong một thì mổ lớn",
+            "Khâu kín đường rò túi mật và tá tràng ngay lập tức",
+            "Mở thành ruột lấy viên sỏi ra ngoài giải tỏa bế tắc",
+            "Đặt stent kim loại tự nong qua chỗ hẹp hành tá tràng"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân cấp cứu lớn tuổi, thể trạng suy kiệt, viêm dính đường mật nặng nề. Nguyên tắc \"damage control\" ưu tiên là mở dọc thành ruột/ dạ dày để gắp viên sỏi ra ngoài giải phóng tắc nghẽn (Enterolithotomy). Tuyệt đối không cố gắng cắt túi mật và khâu đường rò trong cấp cứu vì tỷ lệ biến chứng rò bục và tử vong cực kỳ cao."
+        }
+      ]
+    }
+  ]
+}
