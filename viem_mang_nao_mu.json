@@ -1,0 +1,1291 @@
+{
+  "name": "Viêm màng não mủ",
+  "description": "Tập hợp các ca lâm sàng và câu hỏi trắc nghiệm về viêm màng não mủ",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nhi",
+  "subcategory": "Truyền nhiễm",
+  "cases": [
+    {
+      "title": "Bệnh nhi 4 tuổi sốt cao và hội chứng màng não",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 4 tuổi, chưa tiêm phòng đầy đủ.<br><br><b>Bệnh sử:</b> Khởi phát đột ngột 2 ngày nay với sốt 40°C, liên tục, kèm đau đầu dữ dội. Trẻ nôn vọt nhiều lần, ngày càng trở nên lơ mơ, khó đánh thức. Tiền sử viêm tai giữa tái đi tái lại.<br><br><b>Khám lâm sàng:</b> Trẻ li bì, Glasgow 10 điểm (E2V3M5), không đáp ứng với lời nói. Da có vài chấm xuất huyết nhỏ ở chi. Dấu hiệu cổ cứng rõ, Kernig và Brudzinski dương tính. Thóp trước đã liền. Không có dấu hiệu thần kinh khu trú. Tim nhịp nhanh 140 lần/phút, huyết áp 100/60 mmHg.<br><br><b>Xét nghiệm:</b> Chọc dò dịch não tủy (DNT) đục như nước vo gạo, áp lực tăng. Protein 2.5 g/L, Glucose 0.8 mmol/L (glucose máu 6.0 mmol/L), Bạch cầu 2000 tế bào/mm³ (95% bạch cầu đa nhân trung tính). Nhuộm Gram DNT thấy hình ảnh song cầu khuẩn Gram dương.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất là gì?",
+          "options": [
+            "Viêm não Nhật Bản",
+            "Sốt xuất huyết Dengue thể não",
+            "Viêm màng não mủ",
+            "Co giật do sốt phức tạp"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh khởi phát cấp tính với tam chứng kinh điển (sốt, nôn, đau đầu), hội chứng màng não rõ và kết quả dịch não tủy điển hình cho nhiễm trùng mủ."
+        },
+        {
+          "q": "Dựa trên kết quả nhuộm Gram, tác nhân vi khuẩn có khả năng cao nhất là gì?",
+          "options": [
+            "Haemophilus influenzae type b",
+            "Neisseria meningitidis",
+            "Streptococcus pneumoniae (phế cầu)",
+            "Listeria monocytogenes"
+          ],
+          "answer": 2,
+          "explain": "Phế cầu là song cầu khuẩn Gram dương, là một trong những nguyên nhân hàng đầu gây viêm màng não mủ ở trẻ em, thường đi sau nhiễm trùng tai mũi họng."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây ra hội chứng màng não (cổ cứng, Kernig, Brudzinski) là gì?",
+          "options": [
+            "Tăng áp lực nội sọ chèn ép vào các dây thần kinh",
+            "Phản ứng viêm ở màng não gây kích thích các rễ thần kinh tủy sống",
+            "Độc tố của vi khuẩn trực tiếp gây co cứng các cơ vùng gáy",
+            "Thiếu oxy não gây ra các phản xạ duỗi cứng bất thường"
+          ],
+          "answer": 1,
+          "explain": "Khi màng não bị viêm, các rễ thần kinh tủy sống bị kích thích, gây đau và phản xạ co cơ khi làm căng rễ (gập cổ, duỗi gối)."
+        },
+        {
+          "q": "Phác đồ kháng sinh kinh nghiệm nào là lựa chọn đầu tay cho bệnh nhân này trong khi chờ kết quả cấy?",
+          "options": [
+            "Ampicillin + Gentamicin",
+            "Penicillin G",
+            "Ceftriaxone + Vancomycin",
+            "Azithromycin"
+          ],
+          "answer": 2,
+          "explain": "Phác đồ kinh nghiệm ban đầu cho viêm màng não mủ ở trẻ > 1 tháng tuổi là sự kết hợp Cephalosporin thế hệ 3 và Vancomycin để bao phủ các chủng kháng thuốc."
+        },
+        {
+          "q": "Việc sử dụng Dexamethasone trong điều trị viêm màng não mủ có mục đích chính là gì?",
+          "options": [
+            "Hạ sốt và giảm đau đầu nhanh chóng",
+            "Diệt vi khuẩn gây bệnh",
+            "Giảm phản ứng viêm trong khoang dưới nhện, ngăn ngừa các biến chứng thần kinh (như điếc)",
+            "Chống co giật"
+          ],
+          "answer": 2,
+          "explain": "Dexamethasone giúp giảm phản ứng viêm do xác vi khuẩn vỡ, đã được chứng minh làm giảm tỷ lệ di chứng điếc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi sơ sinh bú kém và li bì",
+      "body": "<b>Hành chính:</b> Bệnh nhi nữ, 15 ngày tuổi, sinh đủ tháng.<br><br><b>Bệnh sử:</b> Vào viện vì bú kém và li bì. 2 ngày nay trẻ không sốt nhưng bú rất yếu, ngủ nhiều, khó đánh thức, thỉnh thoảng có cơn rên rỉ và da hơi tái. Tiền sử mẹ nhiễm Liên cầu nhóm B (GBS) không được điều trị dự phòng.<br><br><b>Khám lâm sàng:</b> Trẻ li bì, trương lực cơ giảm, da nổi vân tím. Thóp trước phồng nhẹ và căng. Không có dấu hiệu cổ cứng rõ ràng. Sinh hiệu: 37.0°C, nhịp tim 170 l/p, nhịp thở 65 l/p, có cơn ngưng thở ngắn.<br><br><b>Xét nghiệm:</b> Dịch não tủy trong, Protein 1.8 g/L, Glucose 1.0 mmol/L, Bạch cầu 500 tế bào/mm³ (chủ yếu bạch cầu đơn nhân).",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất là gì?",
+          "options": [
+            "Xuất huyết não sơ sinh",
+            "Viêm màng não sơ sinh",
+            "Sốt co giật không điển hình",
+            "Rối loạn chuyển hóa bẩm sinh"
+          ],
+          "answer": 1,
+          "explain": "Triệu chứng không đặc hiệu như bú kém, li bì, rối loạn hô hấp và thóp phồng ở trẻ sơ sinh cần được coi là viêm màng não."
+        },
+        {
+          "q": "Tác nhân nào là nguyên nhân hàng đầu gây viêm màng não khởi phát muộn (>7 ngày tuổi) ở trẻ sơ sinh?",
+          "options": [
+            "Haemophilus influenzae type b",
+            "Streptococcus agalactiae (Liên cầu nhóm B - GBS)",
+            "Neisseria meningitidis",
+            "Streptococcus pneumoniae"
+          ],
+          "answer": 1,
+          "explain": "GBS là nguyên nhân hàng đầu gây viêm màng não cả khởi phát sớm và muộn ở trẻ sơ sinh."
+        },
+        {
+          "q": "Tại sao triệu chứng viêm màng não ở trẻ sơ sinh thường kín đáo?",
+          "options": [
+            "Hệ miễn dịch non nớt",
+            "Hệ thần kinh chưa trưởng thành",
+            "Khớp sọ chưa đóng kín (còn thóp) giúp bù trừ áp lực nội sọ",
+            "Tất cả các lý do trên"
+          ],
+          "answer": 3,
+          "explain": "Các yếu tố về hệ miễn dịch, thần kinh và sự tồn tại của thóp làm triệu chứng lâm sàng ở sơ sinh rất mờ nhạt."
+        },
+        {
+          "q": "Phác đồ kháng sinh kinh nghiệm nào phù hợp nhất cho bệnh nhân này?",
+          "options": [
+            "Ceftriaxone đơn độc",
+            "Ampicillin + Cefotaxime",
+            "Vancomycin + Meropenem",
+            "Penicillin G"
+          ],
+          "answer": 1,
+          "explain": "Phác đồ viêm màng não sơ sinh khởi phát muộn kết hợp Ampicillin (bao phủ Listeria) và Cephalosporin thế hệ 3 như Cefotaxime."
+        },
+        {
+          "q": "Biến chứng thần kinh nào thường gặp sau viêm màng não sơ sinh?",
+          "options": [
+            "Não úng thủy",
+            "Áp xe não",
+            "Chậm phát triển tâm thần vận động, động kinh",
+            "Tất cả các biến chứng trên"
+          ],
+          "answer": 3,
+          "explain": "Quá trình viêm và sửa chữa gây tắc nghẽn dịch não tủy, tổn thương nhu mô não, dẫn đến nhiều di chứng nặng nề."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 5 tuổi đang điều trị viêm màng não mủ xuất hiện yếu nửa người",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 5 tuổi.<br><br><b>Bệnh sử:</b> Đã chẩn đoán viêm màng não mủ do S. pneumoniae. Sau 48 giờ điều trị Ceftriaxone và Vancomycin, trẻ vẫn sốt, đau đầu. Ngày thứ 3, trẻ nôn nhiều, lơ mơ, yếu nửa người phải.<br><br><b>Khám lâm sàng:</b> Glasgow 12 điểm, liệt dây thần kinh sọ VII trung ương bên phải, liệt mềm 1/2 người phải, Babinski (+) bên phải. Đồng tử đều, 3mm, phản xạ ánh sáng tốt.",
+      "questions": [
+        {
+          "q": "Biến chứng thần kinh mà trẻ đang gặp phải là gì?",
+          "options": [
+            "Tái phát viêm màng não",
+            "Tác dụng phụ của Vancomycin",
+            "Biến chứng mạch máu não (viêm mạch, huyết khối, nhồi máu)",
+            "Hội chứng Guillain-Barré"
+          ],
+          "answer": 2,
+          "explain": "Dấu hiệu thần kinh khu trú mới xuất hiện gợi ý biến chứng mạch máu não thường gặp trong viêm màng não mủ."
+        },
+        {
+          "q": "Cơ chế bệnh sinh gây biến chứng mạch máu trong viêm màng não mủ là gì?",
+          "options": [
+            "Viêm thành mạch (vasculitis)",
+            "Hình thành huyết khối",
+            "Co thắt mạch máu não",
+            "Tất cả các cơ chế trên"
+          ],
+          "answer": 3,
+          "explain": "Viêm mủ đặc trong khoang dưới nhện bao quanh mạch máu gây viêm thành mạch, huyết khối hoặc co thắt mạch."
+        },
+        {
+          "q": "Thăm dò hình ảnh nào có giá trị nhất?",
+          "options": [
+            "Siêu âm xuyên thóp",
+            "X-quang sọ não",
+            "CT hoặc MRI sọ não có cản quang",
+            "Điện não đồ"
+          ],
+          "answer": 2,
+          "explain": "CT hoặc MRI giúp phát hiện nhồi máu, xuất huyết, áp xe, tụ mủ hoặc não úng thủy."
+        },
+        {
+          "q": "Ngoài biến chứng mạch máu, biến chứng nào khác gây dấu hiệu thần kinh khu trú?",
+          "options": [
+            "Tụ mủ dưới màng cứng",
+            "Áp xe não",
+            "Viêm não thất",
+            "Cả A và B đều đúng"
+          ],
+          "answer": 3,
+          "explain": "Cả tụ mủ dưới màng cứng và áp xe não đều là tổn thương choán chỗ gây triệu chứng khu trú."
+        },
+        {
+          "q": "Tiên lượng của bệnh nhân viêm màng não mủ có biến chứng thần kinh khu trú?",
+          "options": [
+            "Rất tốt",
+            "Nặng, nguy cơ tử vong và di chứng thần kinh vĩnh viễn",
+            "Phụ thuộc Dexamethasone",
+            "Không thể dự đoán"
+          ],
+          "answer": 1,
+          "explain": "Đây là yếu tố tiên lượng xấu, cho thấy tổn thương cấu trúc không hồi phục tại nhu mô não."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 8 tháng tuổi sốt cao và co giật",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 8 tháng tuổi, nặng 8 kg.<br><br><b>Bệnh sử:</b> Sốt cao và co giật toàn thân. Bệnh 2 ngày, sốt nóng liên tục, nôn 3-4 lần, bỏ bú.<br><br><b>Khám lâm sàng:</b> Trẻ li bì, sốt 39.2°C, thóp trước phồng căng, dấu hiệu Kernig (+), không dấu hiệu thần kinh khu trú, không ban xuất huyết. Tim, phổi bình thường, gan lách không to. Đầy mao mạch < 2 giây.",
+      "questions": [
+        {
+          "q": "Chẩn đoán sơ bộ phù hợp nhất?",
+          "options": [
+            "Sốt co giật đơn thuần",
+            "Viêm màng não mủ",
+            "Xuất huyết não",
+            "Viêm não cấp"
+          ],
+          "answer": 1,
+          "explain": "Trẻ 8 tháng có hội chứng nhiễm trùng, hội chứng màng não và co giật gợi ý viêm màng não mủ."
+        },
+        {
+          "q": "Đặc điểm DNT điển hình cho chẩn đoán này?",
+          "options": [
+            "DNT trong, tế bào chủ yếu lympho",
+            "DNT đục, protein giảm, đường tăng",
+            "DNT đục, protein tăng, đường giảm",
+            "DNT vàng chanh, protein rất cao"
+          ],
+          "answer": 2,
+          "explain": "Viêm màng não mủ gây tăng protein, giảm đường và DNT đục do nhiều bạch cầu đa nhân."
+        },
+        {
+          "q": "Xét nghiệm nào giá trị nhất để xác định căn nguyên?",
+          "options": [
+            "Công thức máu và CRP",
+            "Cấy máu và cấy dịch não tủy",
+            "Siêu âm thóp",
+            "Soi đáy mắt"
+          ],
+          "answer": 1,
+          "explain": "Nuôi cấy vi khuẩn từ bệnh phẩm vô trùng (máu, DNT) là tiêu chuẩn vàng."
+        },
+        {
+          "q": "Lựa chọn kháng sinh kinh nghiệm ban đầu?",
+          "options": [
+            "Cefotaxime",
+            "Ceftriaxone kết hợp Vancomycin",
+            "Penicillin G kết hợp Gentamycin",
+            "Amoxicillin liều cao"
+          ],
+          "answer": 1,
+          "explain": "Theo hướng dẫn, sự gia tăng phế cầu kháng Penicillin khiến phối hợp Cephalosporin thế hệ 3 và Vancomycin trở thành lựa chọn ưu tiên."
+        },
+        {
+          "q": "Vai trò của Dexamethasone trong điều trị?",
+          "options": [
+            "Giảm tỉ lệ di chứng điếc và thần kinh",
+            "Hạ sốt nhanh",
+            "Thay thế kháng sinh",
+            "Tăng thấm kháng sinh vào DNT"
+          ],
+          "answer": 0,
+          "explain": "Dexamethasone giảm phản ứng viêm do xác vi khuẩn, giảm di chứng điếc và thần kinh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 3 tuổi sốt cao và ban xuất huyết",
+      "body": "<b>Hành chính:</b> Bệnh nhi nữ, 3 tuổi, nặng 14 kg.<br><br><b>Bệnh sử:</b> Sốt cao, đau đầu và xuất hiện nhiều nốt tím trên da.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh nhưng mệt, sốt 39.5°C, mạch 130 l/p, HA 90/60 mmHg. Da có ban xuất huyết, hoại tử hình bản đồ rải rác ở chi dưới và mông. Gáy cứng (+), dấu hiệu Brudzinski (+).",
+      "questions": [
+        {
+          "q": "Tác nhân gây bệnh nghĩ đến nhiều nhất?",
+          "options": [
+            "Streptococcus pneumoniae",
+            "Neisseria meningitidis",
+            "Haemophilus influenzae typ B",
+            "Staphylococcus aureus"
+          ],
+          "answer": 1,
+          "explain": "Sốt cao kèm ban xuất huyết hoại tử hình bản đồ là đặc trưng của nhiễm não mô cầu."
+        },
+        {
+          "q": "Cơ chế hình thành ban hoại tử hình bản đồ?",
+          "options": [
+            "Viêm mạch và đông máu nội quản rải rác (DIC)",
+            "Giảm tiểu cầu đơn thuần",
+            "Vỡ mạch máu lớn",
+            "Phản ứng dị ứng"
+          ],
+          "answer": 0,
+          "explain": "Nội độc tố não mô cầu gây tổn thương nội mạc mạch máu, kích hoạt đông máu dẫn đến tắc mạch và hoại tử da."
+        },
+        {
+          "q": "Bước xử trí ưu tiên tại phòng cấp cứu?",
+          "options": [
+            "Chọc dò DNT ngay",
+            "Thiết lập đường truyền và bù dịch nhanh",
+            "Chụp CT sọ não",
+            "Tiêm an thần liều cao"
+          ],
+          "answer": 1,
+          "explain": "Trẻ có dấu hiệu sốc/nhiễm khuẩn huyết cần ưu tiên hồi sức tuần hoàn và kháng sinh trước khi chọc DNT."
+        },
+        {
+          "q": "Xét nghiệm đánh giá biến chứng đông máu?",
+          "options": [
+            "Định lượng bổ thể C3, C4",
+            "Nghiệm pháp Coombs",
+            "Tiểu cầu, PT, APTT, Fibrinogen",
+            "Điện não đồ"
+          ],
+          "answer": 2,
+          "explain": "Các chỉ số đông máu giúp xác định tình trạng DIC thường đi kèm trong nhiễm não mô cầu nặng."
+        },
+        {
+          "q": "Biến chứng nguy hiểm nhất xảy ra nhanh chóng?",
+          "options": [
+            "Hội chứng Waterhouse-Friderichsen",
+            "Dày dính màng não",
+            "Áp xe não",
+            "Viêm thận bể thận cấp"
+          ],
+          "answer": 0,
+          "explain": "Hội chứng Waterhouse-Friderichsen là tình trạng suy thượng thận cấp do xuất huyết, gây tử vong nhanh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 12 tháng tuổi viêm màng não mủ biến chứng hạ Natri máu",
+      "body": "<b>Hành chính:</b> Bệnh nhi 12 tháng tuổi, chẩn đoán viêm màng não mủ do phế cầu ngày thứ 5.<br><br><b>Bệnh sử:</b> Trẻ sốt liên tục 39°C, kích thích, nôn trớ nhiều.<br><br><b>Khám lâm sàng:</b> Vòng đầu tăng 1 cm so với lúc vào, thóp trước phồng căng, liệt dây thần kinh số VI bên trái.<br><br><b>Xét nghiệm:</b> Na máu 122 mmol/L, áp lực thẩm thấu máu giảm, Na niệu tăng.",
+      "questions": [
+        {
+          "q": "Biến chứng nội tiết thường gặp nào đang xảy ra?",
+          "options": [
+            "Suy thượng thận cấp",
+            "Hội chứng tiết ADH không thích hợp (SIADH)",
+            "Đái tháo nhạt",
+            "Cường giáp tạm thời"
+          ],
+          "answer": 1,
+          "explain": "Tam chứng hạ Na máu, áp lực thẩm thấu máu giảm và Na niệu tăng là điển hình của SIADH."
+        },
+        {
+          "q": "Cơ chế gây hạ Natri máu?",
+          "options": [
+            "Mất Natri qua tiêu hóa",
+            "Tăng tái hấp thu nước ở ống thận do dư thừa ADH",
+            "Thận không có khả năng bài tiết",
+            "Chế độ ăn nhạt"
+          ],
+          "answer": 1,
+          "explain": "Viêm màng não kích thích thùy sau tuyến yên tăng tiết ADH, gây giữ nước và hạ Na máu do pha loãng."
+        },
+        {
+          "q": "Xử trí phù hợp cho hạ Natri máu này?",
+          "options": [
+            "Truyền NaCl 0.9% tự do",
+            "Hạn chế dịch và theo dõi sát bài niệu",
+            "Bổ sung Kali đường uống",
+            "Truyền Glucose 10%"
+          ],
+          "answer": 1,
+          "explain": "Điều trị SIADH chủ yếu là hạn chế lượng dịch đưa vào."
+        },
+        {
+          "q": "Dấu hiệu liệt dây thần kinh số VI gợi ý tình trạng gì?",
+          "options": [
+            "Tăng áp lực nội sọ",
+            "Liệt ngoại biên do thiếu Vitamin B1",
+            "Tổn thương hạch nền",
+            "Viêm tai giữa"
+          ],
+          "answer": 0,
+          "explain": "Dây thần kinh số VI có đường đi dài, dễ bị chèn ép nhất khi có tăng áp lực nội sọ."
+        },
+        {
+          "q": "Xét nghiệm hình ảnh cần chỉ định để tìm biến chứng khu trú?",
+          "options": [
+            "X-quang phổi",
+            "Siêu âm tim",
+            "Chụp CT hoặc MRI sọ não có cản quang",
+            "Xạ hình thận"
+          ],
+          "answer": 2,
+          "explain": "Sốt kéo dài và dấu hiệu thần kinh khu trú cần tầm soát tụ mủ dưới màng cứng hoặc áp xe não."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi sơ sinh non tháng viêm màng não",
+      "body": "<b>Hành chính:</b> Trẻ 5 ngày tuổi, đẻ non 34 tuần, nặng 2.1 kg.<br><br><b>Bệnh sử:</b> Vào viện vì li bì, bú kém. Mẹ sốt và dịch âm đạo hôi khi chuyển dạ.<br><br><b>Khám lâm sàng:</b> Trẻ thở rên, SpO2 92%, nhiệt độ 36.1°C, trương lực cơ giảm, thóp phẳng. Phổi rale ẩm nhỏ hạt, tim nhanh.",
+      "questions": [
+        {
+          "q": "Căn nguyên gây viêm màng não thường gặp nhất ở tuổi này?",
+          "options": [
+            "H. influenzae và Phế cầu",
+            "E. coli và Liên cầu nhóm B (GBS)",
+            "Não mô cầu và Tụ cầu vàng",
+            "Mycoplasma và Virus"
+          ],
+          "answer": 1,
+          "explain": "Tác nhân hàng đầu ở sơ sinh là vi khuẩn đường ruột (E. coli) và vi khuẩn đường sinh dục mẹ (GBS, Listeria)."
+        },
+        {
+          "q": "Lý do thóp của trẻ không phồng?",
+          "options": [
+            "Mất nước nặng",
+            "Khớp sọ trẻ đẻ non giãn rộng",
+            "Hạ đường huyết",
+            "Áp lực nội sọ giảm"
+          ],
+          "answer": 1,
+          "explain": "Ở trẻ sơ sinh và đẻ non, khớp sọ chưa liền, áp lực nội sọ tăng có thể không làm thóp phồng rõ."
+        },
+        {
+          "q": "Phác đồ kháng sinh ưu tiên?",
+          "options": [
+            "Ceftriaxone",
+            "Ampicillin kết hợp Gentamycin",
+            "Vancomycin kết hợp Linezolid",
+            "Ciprofloxacin liều cao"
+          ],
+          "answer": 1,
+          "explain": "Phối hợp Ampicillin và Aminoglycoside (hoặc Cefa 3) bao phủ được tác nhân phổ biến ở sơ sinh."
+        },
+        {
+          "q": "Chống chỉ định của Ceftriaxone ở trẻ sơ sinh?",
+          "options": [
+            "Suy thận cấp",
+            "Cạnh tranh gắn Albumin gây tăng Bilirubin tự do",
+            "Gây điếc không hồi phục",
+            "Hội chứng xám"
+          ],
+          "answer": 1,
+          "explain": "Ceftriaxone ái lực cao với Albumin, đẩy Bilirubin ra gây nguy cơ vàng da nhân não."
+        },
+        {
+          "q": "Xét nghiệm DNT nào ở trẻ sơ sinh là bất thường?",
+          "options": [
+            "Protein 0.8 g/L",
+            "Tế bào 15/mm3",
+            "Glucose DNT/Máu = 0.3",
+            "DNT trong suốt"
+          ],
+          "answer": 2,
+          "explain": "Tỉ lệ đường DNT/Máu < 0.5 (hoặc 0.6) gợi ý vi khuẩn tiêu thụ đường."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 10 tháng tuổi viêm màng não mủ tái sốt",
+      "body": "<b>Hành chính:</b> Bệnh nhi 10 tháng tuổi, viêm màng não mủ điều trị Ceftriaxone 3 ngày đã cắt sốt.<br><br><b>Bệnh sử:</b> Ngày thứ 7, trẻ sốt cao trở lại 39.5°C, co giật khu trú nửa người phải, thóp trước phồng lại. Không có ổ nhiễm trùng mới tại tai hay phổi.",
+      "questions": [
+        {
+          "q": "Vấn đề ưu tiên cần nghĩ tới?",
+          "options": [
+            "Kháng Ceftriaxone",
+            "Biến chứng tụ mủ dưới màng cứng",
+            "Nhiễm thêm virus",
+            "Phản ứng phụ của thuốc"
+          ],
+          "answer": 1,
+          "explain": "Sốt lại kèm dấu hiệu thần kinh khu trú sau một đợt ổn định là điển hình của tụ dịch tụ mủ dưới màng cứng."
+        },
+        {
+          "q": "Cơ chế tụ dịch dưới màng cứng?",
+          "options": [
+            "Vi khuẩn xâm nhập trực tiếp",
+            "Tăng tính thấm và tổn thương mạch máu màng não",
+            "Tắc nghẽn hạt Pacchioni",
+            "Chọc DNT gây rò"
+          ],
+          "answer": 1,
+          "explain": "Phản ứng viêm nặng tổn thương mạch máu nhỏ ở màng cứng, gây thoát dịch vào khoảng dưới màng cứng."
+        },
+        {
+          "q": "Xử trí biến chứng này?",
+          "options": [
+            "Chọc hút dịch qua thóp dưới siêu âm",
+            "Tăng liều Ceftriaxone",
+            "Đổi kháng sinh uống",
+            "Chọc dò DNT hàng ngày"
+          ],
+          "answer": 0,
+          "explain": "Chọc hút dịch giúp chẩn đoán và điều trị (giảm áp lực)."
+        },
+        {
+          "q": "Đặc điểm của dịch tụ dưới màng cứng?",
+          "options": [
+            "Trong suốt, protein thấp",
+            "Vàng chanh hoặc đục, protein tăng cao",
+            "Máu đỏ",
+            "Dịch mủ thối"
+          ],
+          "answer": 1,
+          "explain": "Dịch này giàu protein, có thể có bạch cầu và vi khuẩn."
+        },
+        {
+          "q": "Di chứng lâu dài hay gặp nếu không điều trị tốt?",
+          "options": [
+            "Động kinh và chậm phát triển trí tuệ",
+            "Thiếu máu mạn",
+            "Loét dạ dày",
+            "Teo cơ"
+          ],
+          "answer": 0,
+          "explain": "Tổn thương nhu mô não do chèn ép lâu ngày dẫn đến sẹo xơ, gây động kinh và ảnh hưởng nhận thức."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 7 tuổi sốt cao và nôn vọt",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 7 tuổi, 25 kg.<br><br><b>Bệnh sử:</b> Sốt cao, đau đầu dữ dội, nôn vọt.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh, sốt 40°C, gáy cứng rõ, Kernig (+).<br><br><b>Xét nghiệm:</b> DNT áp lực tăng, màu đục nhẹ, tế bào 800/mm³ (85% đa nhân), Protein 1.5 g/L, đường 1.8 mmol/L (đường máu 6.0 mmol/L).",
+      "questions": [
+        {
+          "q": "Phân tích kết quả DNT?",
+          "options": [
+            "Viêm màng não virus",
+            "Viêm màng não mủ điển hình",
+            "Lao màng não sớm",
+            "Phản ứng màng não"
+          ],
+          "answer": 1,
+          "explain": "Bạch cầu đa nhân tăng cao, protein tăng, đường giảm là bằng chứng nhiễm khuẩn mủ."
+        },
+        {
+          "q": "Mệnh đề nào SAI về sinh lý bệnh viêm màng não mủ?",
+          "options": [
+            "Vi khuẩn vào màng não qua đường máu",
+            "Phù não chỉ do độc tố",
+            "Hàng rào máu não hỏng làm Protein thoát vào DNT",
+            "Giảm đường DNT do vi khuẩn sử dụng"
+          ],
+          "answer": 1,
+          "explain": "Phù não là sự kết hợp phù vận mạch, phù tế bào và phù kẽ."
+        },
+        {
+          "q": "Tiêu chuẩn vàng chẩn đoán?",
+          "options": [
+            "Công thức máu",
+            "DNT có vi khuẩn (soi hoặc cấy)",
+            "MRI sọ não",
+            "Test CRP"
+          ],
+          "answer": 1,
+          "explain": "Tìm thấy vi khuẩn trong DNT là bằng chứng khẳng định chắc chắn nhất."
+        },
+        {
+          "q": "Kháng sinh ít hiệu quả nhất đối với phế cầu tại Việt Nam hiện nay?",
+          "options": [
+            "Vancomycin",
+            "Ceftriaxone",
+            "Penicillin G",
+            "Cefotaxime"
+          ],
+          "answer": 2,
+          "explain": "Tỉ lệ phế cầu kháng Penicillin tại Việt Nam rất cao, không dùng điều trị ban đầu."
+        },
+        {
+          "q": "Thời gian điều trị kháng sinh tối thiểu cho phế cầu?",
+          "options": [
+            "5-7 ngày",
+            "10-14 ngày",
+            "21-28 ngày",
+            "3 tháng"
+          ],
+          "answer": 1,
+          "explain": "Viêm màng não do phế cầu cần điều trị ít nhất 10-14 ngày."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 14 tháng tuổi viêm màng não mủ kèm rối loạn chuyển hóa",
+      "body": "<b>Hành chính:</b> Bệnh nhi 14 tháng tuổi.<br><br><b>Bệnh sử:</b> Chẩn đoán viêm màng não mủ, soi DNT có cầu khuẩn Gram dương xếp chuỗi. Điều trị đúng phác đồ.<br><br><b>Khám lâm sàng:</b> Ngày thứ 3, trẻ thở nhanh sâu, môi đỏ, bài niệu > 5 ml/kg/h.<br><br><b>Xét nghiệm:</b> Đường máu 25 mmol/L, Natri máu 150 mmol/L.",
+      "questions": [
+        {
+          "q": "Tình trạng cấp cứu mới xuất hiện?",
+          "options": [
+            "Toan chuyển hóa",
+            "Đái tháo đường khởi phát cấp tính",
+            "Cơn bão nội độc tố",
+            "Rối loạn kiềm toan do thở nhanh"
+          ],
+          "answer": 1,
+          "explain": "Đường máu 25 mmol/L kèm đa niệu và nhịp thở nhanh sâu gợi ý nhiễm toan ceton do đái tháo đường."
+        },
+        {
+          "q": "Chẩn đoán phân biệt đa niệu?",
+          "options": [
+            "SIADH",
+            "Đái tháo nhạt",
+            "Thiếu Cortisol",
+            "Suy tim"
+          ],
+          "answer": 1,
+          "explain": "Đa niệu do đái tháo đường hoặc đái tháo nhạt."
+        },
+        {
+          "q": "Xét nghiệm phân biệt đái tháo đường và đái tháo nhạt?",
+          "options": [
+            "Tỉ trọng nước tiểu và đường niệu",
+            "Định lượng ADH",
+            "Chụp MRI hố yên",
+            "Nghiệm pháp nhịn nước"
+          ],
+          "answer": 0,
+          "explain": "Đái tháo đường có đường niệu dương tính, đái tháo nhạt đường niệu âm tính và tỉ trọng thấp."
+        },
+        {
+          "q": "Dexamethasone liều cao làm nặng thêm tình trạng gì?",
+          "options": [
+            "Nhiễm khuẩn huyết",
+            "Tăng đường huyết",
+            "Xuất huyết dưới da",
+            "Hạ huyết áp"
+          ],
+          "answer": 1,
+          "explain": "Corticoid làm tăng tân tạo đường và giảm sử dụng đường, gây tăng đường huyết."
+        },
+        {
+          "q": "Triệu chứng của hội chứng tăng áp lực nội sọ ở trẻ lớn?",
+          "options": [
+            "Đau đầu tăng khi ho, nôn vọt, phù gai thị",
+            "Đau đầu, phù gai thị, mạch nhanh HA tụt",
+            "Nôn vọt, phù gai thị, mạch nhanh",
+            "Tất cả đúng"
+          ],
+          "answer": 0,
+          "explain": "Tam chứng kinh điển TALNS: đau đầu, nôn vọt, phù gai thị."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 6 tháng tuổi viêm màng não mủ \"mất đầu\"",
+      "body": "<b>Hành chính:</b> Bệnh nhi 6 tháng tuổi.<br><br><b>Bệnh sử:</b> Sốt và bỏ bú, đã uống Amoxicillin 3 ngày tại nhà.<br><br><b>Khám lâm sàng:</b> Thóp phồng, cổ cứng (+).<br><br><b>Xét nghiệm:</b> DNT trong mờ, tế bào 150/mm³ (50% đa nhân, 50% lympho), Protein 0.9 g/L, đường 2.2 mmol/L. Soi Gram và cấy DNT âm tính.",
+      "questions": [
+        {
+          "q": "Tình trạng lâm sàng này là?",
+          "options": [
+            "Viêm màng não mủ mất đầu",
+            "Viêm màng não virus",
+            "Viêm màng não nấm",
+            "Lao màng não"
+          ],
+          "answer": 0,
+          "explain": "Kháng sinh làm thay đổi tính chất DNT nhưng protein vẫn tăng, gọi là viêm màng não mủ mất đầu."
+        },
+        {
+          "q": "Xét nghiệm hỗ trợ căn nguyên khi cấy âm tính?",
+          "options": [
+            "Tìm kháng nguyên hòa tan (Latex) hoặc PCR",
+            "Định lượng kháng sinh",
+            "X-quang sọ",
+            "Công thức máu"
+          ],
+          "answer": 0,
+          "explain": "Kỹ thuật Latex hoặc PCR không phụ thuộc vào vi khuẩn còn sống hay chết."
+        },
+        {
+          "q": "Tại sao VMNM mạn tính (Lao) tế bào tăng ưu thế Lympho?",
+          "options": [
+            "Do vi khuẩn sinh sản nhanh",
+            "Do phản ứng miễn dịch qua trung gian tế bào",
+            "Do hàng rào máu não",
+            "Do vi khuẩn tiêu thụ đa nhân"
+          ],
+          "answer": 1,
+          "explain": "Lao gây phản ứng viêm mạn tính, huy động miễn dịch đáp ứng chậm."
+        },
+        {
+          "q": "Biến chứng dày dính màng não dẫn đến?",
+          "options": [
+            "Não úng thủy tắc nghẽn",
+            "Teo não",
+            "Xuất huyết khoang dưới nhện",
+            "Tăng tiết DNT"
+          ],
+          "answer": 0,
+          "explain": "Dịch viêm gây dính, cản trở lưu thông DNT gây não úng thủy."
+        },
+        {
+          "q": "Trẻ đang điều trị VMNM xuất hiện nhịp chậm, HA tăng, thở rối loạn, xử trí?",
+          "options": [
+            "Trợ tim",
+            "Chống phù não khẩn cấp",
+            "Truyền dịch nâng HA",
+            "Chọc dò DNT"
+          ],
+          "answer": 1,
+          "explain": "Đây là tam chứng Cushing, đe dọa tụt kẹt não, cần chống phù não khẩn cấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 2 tuổi di chứng hậu viêm màng não mủ",
+      "body": "<b>Hành chính:</b> Trẻ 2 tuổi, đã khỏi viêm màng não mủ do phế cầu 1 tháng trước.<br><br><b>Bệnh sử:</b> Mẹ đưa khám lại vì trẻ không phản ứng với tiếng động mạnh, chưa biết nói thêm từ mới.",
+      "questions": [
+        {
+          "q": "Biến chứng muộn cần nghĩ tới?",
+          "options": [
+            "Giảm thính lực",
+            "Rối loạn phổ tự kỷ",
+            "Chậm nói đơn thuần",
+            "Tắc vòi Eustache"
+          ],
+          "answer": 0,
+          "explain": "Điếc là di chứng hay gặp nhất sau VMNM do phế cầu, ảnh hưởng đến phát triển ngôn ngữ."
+        },
+        {
+          "q": "Cơ chế gây điếc?",
+          "options": [
+            "Viêm mê đạo và xơ hóa ốc tai",
+            "Viêm tai giữa",
+            "Tác dụng phụ thuốc",
+            "Thủng màng nhĩ"
+          ],
+          "answer": 0,
+          "explain": "Quá trình viêm lan vào tai trong, sau đó xơ hóa/cốt hóa các cấu trúc thần kinh thính giác."
+        },
+        {
+          "q": "Thời điểm tốt nhất sàng lọc thính lực?",
+          "options": [
+            "Trước khi ra viện",
+            "Sau 1 năm",
+            "Khi đủ 6 tuổi",
+            "Khi mẹ thấy trẻ không nghe"
+          ],
+          "answer": 0,
+          "explain": "Cần kiểm tra thính lực sớm để có biện pháp hỗ trợ trước khi ốc tai bị cốt hóa."
+        },
+        {
+          "q": "Vi khuẩn gây di chứng điếc cao nhất?",
+          "options": [
+            "Neisseria meningitidis",
+            "Streptococcus pneumoniae",
+            "E. coli",
+            "Listeria"
+          ],
+          "answer": 1,
+          "explain": "Phế cầu gây viêm cực mạnh, xu hướng cốt hóa ốc tai nhanh hơn các vi khuẩn khác."
+        },
+        {
+          "q": "Phòng bệnh cho trẻ 2 tuổi hiệu quả nhất?",
+          "options": [
+            "Vắc xin phế cầu và não mô cầu",
+            "Kháng sinh dự phòng",
+            "Cách ly",
+            "Vitamin C"
+          ],
+          "answer": 0,
+          "explain": "Vắc xin là biện pháp chủ động và hiệu quả nhất."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 9 tháng tuổi sốt cao và li bì",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 9 tháng tuổi.<br><br><b>Bệnh sử:</b> Sốt cao 2 ngày, li bì, cổ cứng. Chưa tiêm chủng 5 trong 1.<br><br><b>Xét nghiệm:</b> DNT thấy trực khuẩn Gram âm nhỏ, đa hình thái.",
+      "questions": [
+        {
+          "q": "Tác nhân gây bệnh?",
+          "options": [
+            "Escherichia coli",
+            "Haemophilus influenzae typ B",
+            "Pseudomonas aeruginosa",
+            "Klebsiella pneumoniae"
+          ],
+          "answer": 1,
+          "explain": "Trực khuẩn Gram âm nhỏ đa hình thái là mô tả kinh điển của H. influenzae."
+        },
+        {
+          "q": "Biến chứng của viêm màng não do Hib?",
+          "options": [
+            "Tụ dịch dưới màng cứng, áp xe não, não úng thủy",
+            "Tụ dịch, não úng thủy, suy thận mạn",
+            "Áp xe não, não úng thủy, suy thận",
+            "Tất cả đúng"
+          ],
+          "answer": 0,
+          "explain": "Hib gây VMNM rất nặng ở trẻ nhỏ với tỉ lệ biến chứng tại não cao."
+        },
+        {
+          "q": "Tại sao trẻ có nguy cơ cao?",
+          "options": [
+            "Chưa tiêm vắc xin Hib",
+            "Bú sữa mẹ hoàn toàn",
+            "Gia đình nuôi gia súc",
+            "Nhóm máu O"
+          ],
+          "answer": 0,
+          "explain": "Vắc xin đã giảm rõ rệt bệnh này, trẻ chưa tiêm là đối tượng nguy cơ cao."
+        },
+        {
+          "q": "Kháng sinh chọn lựa nếu nghi kháng Ampicillin?",
+          "options": [
+            "Penicillin G",
+            "Cephalosporin thế hệ 3",
+            "Erythromycin",
+            "Tetracycline"
+          ],
+          "answer": 1,
+          "explain": "Đa số Hib kháng Ampicillin qua tiết Beta-lactamase, Cepha 3 vẫn còn nhạy tốt."
+        },
+        {
+          "q": "Dấu hiệu buộc phải trì hoãn chọc DNT?",
+          "options": [
+            "Sốt 40 độ",
+            "Suy hô hấp tuần hoàn hoặc nghi khối u não",
+            "Trẻ quấy khóc",
+            "Thóp phẳng"
+          ],
+          "answer": 1,
+          "explain": "Chọc DNT khi suy hô hấp tuần hoàn hoặc TALNS quá nặng có thể gây tụt não."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 5 tuổi sốt và co giật",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 5 tuổi.<br><br><b>Bệnh sử:</b> Sốt cao co giật, có dấu hiệu màng não.",
+      "questions": [
+        {
+          "q": "Triệu chứng nào sau đây không thuộc hội chứng màng não?",
+          "options": [
+            "Đau đầu",
+            "Nôn vọt",
+            "Cổ cứng",
+            "Liệt chi"
+          ],
+          "answer": 3,
+          "explain": "Liệt chi là dấu hiệu thần kinh khu trú, không phải triệu chứng cơ bản của hội chứng màng não."
+        },
+        {
+          "q": "Kháng sinh đầu tay cho VMNM không rõ tác nhân?",
+          "options": [
+            "Ceftriaxone + Vancomycin",
+            "Penicillin",
+            "Amoxicillin",
+            "Gentamycin"
+          ],
+          "answer": 0,
+          "explain": "Kết hợp này bao phủ phế cầu và não mô cầu là những tác nhân chính."
+        },
+        {
+          "q": "Đường truyền DNT trong VMNM thường qua?",
+          "options": [
+            "Đường máu",
+            "Đường hô hấp",
+            "Đường tiêu hóa",
+            "Trực tiếp qua tai"
+          ],
+          "answer": 0,
+          "explain": "Vi khuẩn thường từ ổ nhiễm khuẩn xâm nhập vào máu rồi tới màng não."
+        },
+        {
+          "q": "Biến chứng muộn của VMNM ở trẻ em?",
+          "options": [
+            "Điếc",
+            "Động kinh",
+            "Chậm phát triển",
+            "Tất cả đúng"
+          ],
+          "answer": 3,
+          "explain": "Các di chứng này rất thường gặp nếu không phát hiện và điều trị kịp thời."
+        },
+        {
+          "q": "Phòng bệnh VMNM do Não mô cầu?",
+          "options": [
+            "Tiêm vắc xin",
+            "Cách ly",
+            "Dùng kháng sinh",
+            "Vệ sinh"
+          ],
+          "answer": 0,
+          "explain": "Vắc xin phòng bệnh đặc hiệu là biện pháp quan trọng nhất."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 3 tháng tuổi VMNM do E. coli",
+      "body": "<b>Hành chính:</b> Bệnh nhi 3 tháng tuổi.<br><br><b>Bệnh sử:</b> Sốt cao, li bì.",
+      "questions": [
+        {
+          "q": "Tác nhân E. coli thường gặp ở tuổi nào?",
+          "options": [
+            "Sơ sinh",
+            "Trẻ lớn",
+            "Người già",
+            "Mọi lứa tuổi"
+          ],
+          "answer": 0,
+          "explain": "E. coli là nguyên nhân hàng đầu gây VMNM ở trẻ sơ sinh."
+        },
+        {
+          "q": "Biến chứng nào gây TALNS?",
+          "options": [
+            "Não úng thủy",
+            "Áp xe não",
+            "Phù não",
+            "Tất cả đúng"
+          ],
+          "answer": 3,
+          "explain": "Tất cả các biến chứng này đều làm tăng áp lực nội sọ."
+        },
+        {
+          "q": "Triệu chứng sớm VMNM ở nhũ nhi?",
+          "options": [
+            "Bú kém",
+            "Li bì",
+            "Thóp phồng",
+            "Tất cả đúng"
+          ],
+          "answer": 3,
+          "explain": "Triệu chứng ở nhũ nhi thường không điển hình."
+        },
+        {
+          "q": "Điều trị hỗ trợ quan trọng?",
+          "options": [
+            "Bù dịch",
+            "Chống phù não",
+            "Dinh dưỡng",
+            "Tất cả đúng"
+          ],
+          "answer": 3,
+          "explain": "Điều trị toàn diện quan trọng để giảm tử vong và di chứng."
+        },
+        {
+          "q": "Tiên lượng VMNM sơ sinh?",
+          "options": [
+            "Tốt",
+            "Xấu",
+            "Trung bình",
+            "Khó đoán"
+          ],
+          "answer": 1,
+          "explain": "VMNM sơ sinh có tỉ lệ tử vong và di chứng rất cao."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 4 tuổi VMNM do phế cầu",
+      "body": "<b>Hành chính:</b> Bệnh nhi 4 tuổi.<br><br><b>Bệnh sử:</b> Sốt cao, đau đầu, nôn.",
+      "questions": [
+        {
+          "q": "Phế cầu thuộc nhóm vi khuẩn gì?",
+          "options": [
+            "Song cầu Gram dương",
+            "Trực khuẩn Gram âm",
+            "Xoắn khuẩn",
+            "Virus"
+          ],
+          "answer": 0,
+          "explain": "Phế cầu có hình song cầu, bắt màu Gram dương."
+        },
+        {
+          "q": "Vắc xin phế cầu phòng bệnh gì?",
+          "options": [
+            "VMNM",
+            "Viêm phổi",
+            "Viêm tai giữa",
+            "Tất cả đúng"
+          ],
+          "answer": 3,
+          "explain": "Vắc xin phế cầu phòng được nhiều bệnh nhiễm khuẩn do phế cầu."
+        },
+        {
+          "q": "DNT VMNM phế cầu thường?",
+          "options": [
+            "Đục",
+            "Trong",
+            "Vàng",
+            "Có máu"
+          ],
+          "answer": 0,
+          "explain": "DNT viêm mủ do phế cầu thường đục."
+        },
+        {
+          "q": "Liều điều trị Ceftriaxone VMNM?",
+          "options": [
+            "Liều cao",
+            "Liều thấp",
+            "Liều trung bình",
+            "Tùy ý"
+          ],
+          "answer": 0,
+          "explain": "VMNM cần liều cao để thuốc ngấm qua hàng rào máu não."
+        },
+        {
+          "q": "Di chứng phế cầu?",
+          "options": [
+            "Điếc",
+            "Động kinh",
+            "Chậm nói",
+            "Tất cả đúng"
+          ],
+          "answer": 3,
+          "explain": "Phế cầu để lại nhiều di chứng nặng nề."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 6 tuổi VMNM do não mô cầu",
+      "body": "<b>Hành chính:</b> Bệnh nhi 6 tuổi.<br><br><b>Bệnh sử:</b> Sốt, ban xuất huyết.",
+      "questions": [
+        {
+          "q": "Não mô cầu lây qua?",
+          "options": [
+            "Đường hô hấp",
+            "Tiêu hóa",
+            "Máu",
+            "Da"
+          ],
+          "answer": 0,
+          "explain": "Não mô cầu lây qua giọt bắn đường hô hấp."
+        },
+        {
+          "q": "Xử trí ban tiếp xúc?",
+          "options": [
+            "Kháng sinh dự phòng",
+            "Cách ly",
+            "Tiêm vắc xin",
+            "Theo dõi"
+          ],
+          "answer": 0,
+          "explain": "Người tiếp xúc gần cần được dùng kháng sinh dự phòng."
+        },
+        {
+          "q": "Ban xuất huyết não mô cầu tiến triển?",
+          "options": [
+            "Nhanh",
+            "Chậm",
+            "Không tiến triển",
+            "Tự mất"
+          ],
+          "answer": 0,
+          "explain": "Ban xuất huyết não mô cầu tiến triển rất nhanh, hoại tử."
+        },
+        {
+          "q": "Kháng sinh chọn lựa não mô cầu?",
+          "options": [
+            "Penicillin G",
+            "Ceftriaxone",
+            "Chloramphenicol",
+            "Tất cả đúng"
+          ],
+          "answer": 1,
+          "explain": "Ceftriaxone là lựa chọn hàng đầu hiện nay."
+        },
+        {
+          "q": "Biến chứng sốc trong não mô cầu?",
+          "options": [
+            "Sốc nhiễm khuẩn",
+            "Sốc phản vệ",
+            "Sốc mất máu",
+            "Sốc tim"
+          ],
+          "answer": 0,
+          "explain": "Sốc nhiễm khuẩn là biến chứng nặng thường gặp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 2 tuổi VMNM do Hib",
+      "body": "<b>Hành chính:</b> Bệnh nhi 2 tuổi.<br><br><b>Bệnh sử:</b> Sốt cao, co giật.",
+      "questions": [
+        {
+          "q": "Hib gây bệnh nặng ở lứa tuổi?",
+          "options": [
+            "< 5 tuổi",
+            "5-10 tuổi",
+            "10-15 tuổi",
+            "> 15 tuổi"
+          ],
+          "answer": 0,
+          "explain": "Trẻ nhỏ < 5 tuổi là đối tượng dễ mắc bệnh Hib."
+        },
+        {
+          "q": "Phòng bệnh Hib?",
+          "options": [
+            "Vắc xin 5 trong 1",
+            "Kháng sinh",
+            "Cách ly",
+            "Vệ sinh"
+          ],
+          "answer": 0,
+          "explain": "Vắc xin 5 trong 1 bao gồm vắc xin Hib."
+        },
+        {
+          "q": "Hib bắt màu gì?",
+          "options": [
+            "Gram âm",
+            "Gram dương",
+            "Không bắt màu",
+            "Acid cồn"
+          ],
+          "answer": 0,
+          "explain": "Hib là trực khuẩn Gram âm."
+        },
+        {
+          "q": "Di chứng Hib?",
+          "options": [
+            "Động kinh",
+            "Chậm nói",
+            "Điếc",
+            "Tất cả đúng"
+          ],
+          "answer": 3,
+          "explain": "Hib có thể để lại di chứng lâu dài."
+        },
+        {
+          "q": "Điều trị Hib?",
+          "options": [
+            "Ceftriaxone",
+            "Ampicillin",
+            "Amoxicillin",
+            "Tất cả đúng"
+          ],
+          "answer": 0,
+          "explain": "Ceftriaxone là lựa chọn ưu tiên do tỉ lệ kháng thuốc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 8 tháng tuổi VMNM do Listeria",
+      "body": "<b>Hành chính:</b> Bệnh nhi 8 tháng tuổi.<br><br><b>Bệnh sử:</b> Sốt, li bì.",
+      "questions": [
+        {
+          "q": "Listeria thường gây bệnh ở?",
+          "options": [
+            "Sơ sinh, suy giảm miễn dịch",
+            "Trẻ lớn khỏe mạnh",
+            "Người già",
+            "Mọi người"
+          ],
+          "answer": 0,
+          "explain": "Listeria thường gặp ở trẻ sơ sinh hoặc người có miễn dịch kém."
+        },
+        {
+          "q": "Kháng sinh chọn lựa Listeria?",
+          "options": [
+            "Ampicillin",
+            "Vancomycin",
+            "Ceftriaxone",
+            "Cefotaxime"
+          ],
+          "answer": 0,
+          "explain": "Ampicillin là kháng sinh có tác dụng tốt nhất với Listeria."
+        },
+        {
+          "q": "Listeria lây qua?",
+          "options": [
+            "Thực phẩm nhiễm khuẩn",
+            "Hô hấp",
+            "Máu",
+            "Da"
+          ],
+          "answer": 0,
+          "explain": "Listeria thường lây qua thực phẩm."
+        },
+        {
+          "q": "Biến chứng Listeria?",
+          "options": [
+            "Viêm não",
+            "Viêm màng não",
+            "Áp xe não",
+            "Tất cả đúng"
+          ],
+          "answer": 3,
+          "explain": "Listeria có thể gây tổn thương thần kinh nặng."
+        },
+        {
+          "q": "Phòng bệnh Listeria?",
+          "options": [
+            "Vệ sinh thực phẩm",
+            "Vắc xin",
+            "Kháng sinh",
+            "Cách ly"
+          ],
+          "answer": 0,
+          "explain": "Vệ sinh an toàn thực phẩm là biện pháp chính."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 5 tuổi sốt và hội chứng màng não",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 5 tuổi.<br><br><b>Bệnh sử:</b> Sốt, nôn, đau đầu.",
+      "questions": [
+        {
+          "q": "Triệu chứng nào không thuộc hội chứng màng não?",
+          "options": [
+            "Cổ cứng",
+            "Kernig (+)",
+            "Brudzinski (+)",
+            "Gan lách to"
+          ],
+          "answer": 3,
+          "explain": "Gan lách to không nằm trong hội chứng màng não."
+        },
+        {
+          "q": "DNT VMNM mủ thường có?",
+          "options": [
+            "Đường giảm",
+            "Protein tăng",
+            "Bạch cầu đa nhân tăng",
+            "Tất cả đúng"
+          ],
+          "answer": 3,
+          "explain": "Đây là đặc điểm điển hình của VMNM mủ."
+        },
+        {
+          "q": "Xử trí đầu tiên VMNM?",
+          "options": [
+            "Kháng sinh",
+            "Chọc DNT",
+            "CT sọ",
+            "Truyền dịch"
+          ],
+          "answer": 0,
+          "explain": "Kháng sinh cần dùng sớm sau khi chọc DNT."
+        },
+        {
+          "q": "Di chứng thường gặp nhất?",
+          "options": [
+            "Điếc",
+            "Động kinh",
+            "Chậm nói",
+            "Tất cả đúng"
+          ],
+          "answer": 3,
+          "explain": "Nhiều di chứng thần kinh và giác quan."
+        },
+        {
+          "q": "Phòng bệnh chung?",
+          "options": [
+            "Vắc xin",
+            "Vệ sinh",
+            "Dinh dưỡng",
+            "Tất cả đúng"
+          ],
+          "answer": 3,
+          "explain": "Các biện pháp tổng thể giúp giảm nguy cơ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 1 tháng tuổi sốt",
+      "body": "<b>Hành chính:</b> Bệnh nhi 1 tháng tuổi.<br><br><b>Bệnh sử:</b> Sốt cao, bỏ bú.",
+      "questions": [
+        {
+          "q": "Tác nhân sơ sinh?",
+          "options": [
+            "E. coli",
+            "GBS",
+            "Listeria",
+            "Tất cả đúng"
+          ],
+          "answer": 3,
+          "explain": "Các tác nhân này thường gặp ở sơ sinh."
+        },
+        {
+          "q": "Biến chứng sơ sinh?",
+          "options": [
+            "Não úng thủy",
+            "Áp xe",
+            "Tử vong",
+            "Tất cả đúng"
+          ],
+          "answer": 3,
+          "explain": "Tiên lượng rất nặng."
+        },
+        {
+          "q": "Điều trị sơ sinh?",
+          "options": [
+            "Ampicillin + Gentamycin",
+            "Ceftriaxone",
+            "Vancomycin",
+            "Penicillin"
+          ],
+          "answer": 0,
+          "explain": "Phối hợp này bao phủ phổ rộng."
+        },
+        {
+          "q": "Triệu chứng sơ sinh?",
+          "options": [
+            "Không điển hình",
+            "Kín đáo",
+            "Nặng",
+            "Tất cả đúng"
+          ],
+          "answer": 3,
+          "explain": "Cần cảnh giác cao."
+        },
+        {
+          "q": "Phòng bệnh sơ sinh?",
+          "options": [
+            "Khám thai",
+            "Điều trị mẹ",
+            "Vệ sinh",
+            "Tất cả đúng"
+          ],
+          "answer": 3,
+          "explain": "Dự phòng từ mẹ rất quan trọng."
+        }
+      ]
+    }
+  ]
+}
