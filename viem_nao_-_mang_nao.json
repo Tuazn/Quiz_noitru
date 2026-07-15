@@ -1,0 +1,1230 @@
+{
+  "name": "Viêm não - màng não",
+  "description": "Tổng hợp 20 tình huống lâm sàng và bộ câu hỏi trắc nghiệm MCQ về Viêm não - màng não ở trẻ em, hỗ trợ ôn thi bác sĩ nội trú và học tập lâm sàng Nhi khoa.",
+  "level": "Ôn thi nội trú",
+  "type": "cases",
+  "category": "Nhi",
+  "subcategory": "Truyền nhiễm",
+  "cases": [
+    {
+      "title": "Bệnh nhi nam 4 tuổi sốt cao, co giật và viêm màng nhĩ có mủ",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 4 tuổi, chưa tiêm phòng đầy đủ.<br><br><b>Bệnh sử:</b> Được gia đình đưa vào cấp cứu vì sốt cao và co giật. Bệnh khởi phát đột ngột 2 ngày nay với sốt 40°C, liên tục, kèm theo đau đầu dữ dội. Trẻ nôn vọt nhiều lần, không liên quan đến bữa ăn, ngày càng trở nên lơ mơ, khó đánh thức. Sáng nay trẻ xuất hiện một cơn co giật toàn thân kéo dài khoảng 5 phút. Mẹ khai trẻ có tiền sử viêm tai giữa tái đi tái lại.<br><br><b>Khám lâm sàng:</b> Trẻ li bì, Glasgow 10 điểm (E2V3M5). Da có vài chấm xuất huyết nhỏ ở chi. Dấu hiệu cổ cứng rõ, Kernig và Brudzinski dương tính. Thóp trước đã liền. Khám tai thấy màng nhĩ hai bên ứ mủ, phồng.<br><br><b>Cận lâm sàng:</b> Chọc dò dịch não tủy cho kết quả dịch não tủy (DNT) đục như nước vo gạo, áp lực tăng. Xét nghiệm DNT: Protein 2.5 g/L, Glucose 0.8 mmol/L (glucose máu cùng lúc là 6.0 mmol/L), Bạch cầu 2000 tế bào/mm³ (95% là bạch cầu đa nhân trung tính). Nhuộm Gram DNT thấy có hình ảnh song cầu khuẩn Gram dương.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất là gì?",
+          "options": [
+            "Viêm não Nhật Bản",
+            "Sốt xuất huyết Dengue thể não",
+            "Viêm màng não mủ",
+            "Co giật do sốt phức tạp"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh khởi phát cấp tính với tam chứng kinh điển (sốt, nôn, đau đầu), có hội chứng màng não rõ và đặc biệt là kết quả dịch não tủy điển hình cho nhiễm trùng mủ (protein tăng, glucose giảm, bạch cầu đa nhân trung tính tăng cao) đã xác định chẩn đoán viêm màng não mủ."
+        },
+        {
+          "q": "Dựa trên kết quả nhuộm Gram và tiền sử viêm tai giữa, tác nhân vi khuẩn có khả năng cao nhất là gì?",
+          "options": [
+            "Haemophilus influenzae type b",
+            "Neisseria meningitidis",
+            "Streptococcus pneumoniae (phế cầu)",
+            "Listeria monocytogenes"
+          ],
+          "answer": 2,
+          "explain": "Phế cầu là song cầu khuẩn Gram dương, là một trong những nguyên nhân hàng đầu gây viêm màng não mủ ở trẻ em, đặc biệt thường là biến chứng từ một ổ nhiễm trùng tai mũi họng hoặc viêm phổi."
+        },
+        {
+          "q": "Cơ chế chính gây ra tình trạng giảm glucose trong dịch não tủy là gì?",
+          "options": [
+            "Vi khuẩn tiêu thụ glucose để chuyển hóa và nhân lên",
+            "Bạch cầu trong DNT sử dụng glucose",
+            "Rối loạn vận chuyển glucose qua hàng rào máu não bị viêm",
+            "Tất cả các cơ chế trên"
+          ],
+          "answer": 3,
+          "explain": "Cả ba cơ chế đều góp phần làm giảm nồng độ glucose trong DNT: (1) Vi khuẩn sử dụng glucose làm nguồn năng lượng. (2) Một số lượng lớn bạch cầu di chuyển vào DNT để chống nhiễm trùng cũng tiêu thụ glucose. (3) Tình trạng viêm làm tổn thương các chất vận chuyển glucose (GLUT-1) trên hàng rào máu-não."
+        },
+        {
+          "q": "Phác đồ kháng sinh kinh nghiệm nào là lựa chọn đầu tay cho bệnh nhân này trong khi chờ kết quả cấy?",
+          "options": [
+            "Ampicillin + Gentamicin",
+            "Penicillin G",
+            "Ceftriaxone + Vancomycin",
+            "Azithromycin"
+          ],
+          "answer": 2,
+          "explain": "Do tình hình phế cầu kháng Penicillin và Cephalosporin ngày càng tăng, phác đồ kinh nghiệm ban đầu cho viêm màng não mủ ở trẻ > 1 tháng tuổi là sự kết hợp của một Cephalosporin thế hệ 3 (Ceftriaxone) và Vancomycin để đảm bảo bao phủ được cả các chủng kháng thuốc."
+        },
+        {
+          "q": "Việc sử dụng Dexamethasone trong điều trị viêm màng não mủ do phế cầu có mục đích chính là gì?",
+          "options": [
+            "Hạ sốt và giảm đau đầu nhanh chóng",
+            "Diệt vi khuẩn gây bệnh",
+            "Giảm phản ứng viêm trong khoang dưới nhện, ngăn ngừa các biến chứng thần kinh (như điếc)",
+            "Chống co giật"
+          ],
+          "answer": 2,
+          "explain": "Phản ứng viêm do các thành phần của vi khuẩn được giải phóng ra sau khi bị kháng sinh tiêu diệt gây tổn thương cho các cấu trúc thần kinh. Dexamethasone, dùng ngay trước hoặc cùng lúc với liều kháng sinh đầu tiên, giúp điều hòa phản ứng viêm này và đã được chứng minh làm giảm tỷ lệ di chứng điếc, đặc biệt trong viêm màng não do H. influenzae type b và phế cầu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi gái 7 tuổi sốt cao, lơ mơ vào mùa hè",
+      "body": "<b>Hành chính:</b> Bệnh nhĩ gái, 7 tuổi, sống tại một tỉnh miền Bắc.<br><br><b>Bệnh sử:</b> Vào viện vào tháng 6 vì sốt cao và rối loạn ý thức. Bệnh khởi phát 4 ngày nay với sốt cao 39-40°C, đau đầu, nôn. Từ hôm qua trẻ trở nên lơ mơ, nói nhảm, thỉnh thoảng có cơn gồng cứng tay chân. Gia đình khai trẻ chưa được tiêm phòng viêm não Nhật Bản, khu vực sống có nhiều ao hồ và chuồng trại gia súc.<br><br><b>Khám lâm sàng:</b> Trẻ lơ mơ, Glasgow 10 điểm. Có dấu hiệu cổ cứng, Kernig (+). Tăng trương lực cơ toàn thân, tăng phản xạ gân xương. Không có ban ngoài da hay dấu hiệu xuất huyết.<br><br><b>Cận lâm sàng:</b> Chọc dò dịch não tủy cho kết quả dịch trong, áp lực tăng nhẹ. Xét nghiệm DNT: Protein 0.8 g/L, Glucose 3.5 mmol/L (bình thường), Bạch cầu 250 tế bào/mm³ (chủ yếu là Lympho).",
+      "questions": [
+        {
+          "q": "Dựa vào đặc điểm dịch tễ, lâm sàng và dịch não tủy, chẩn đoán nào là phù hợp nhất?",
+          "options": [
+            "Viêm màng não mủ mất đầu",
+            "Viêm màng não do lao",
+            "Viêm não - màng não do virus (nghi do virus Viêm não Nhật Bản)",
+            "Ngộ độc cấp"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh một trẻ có hội chứng nhiễm trùng thần kinh trung ương (sốt, rối loạn ý thức, hội chứng màng não) với các dấu hiệu tổn thương não (hội chứng não cấp), xảy ra vào mùa dịch (mùa hè), ở vùng dịch tễ, và DNT có đặc điểm viêm màng não nước trong là rất điển hình cho viêm não-màng não do virus, mà cụ thể ở đây là Viêm não Nhật Bản."
+        },
+        {
+          "q": "Sự khác biệt chính trong kết quả dịch não tủy giữa viêm màng não do virus và do vi khuẩn là gì?",
+          "options": [
+            "DNT do virus thường trong, glucose bình thường, bạch cầu tăng vừa phải và chủ yếu là Lympho",
+            "DNT do virus luôn có áp lực thấp hơn",
+            "DNT do vi khuẩn luôn có protein bình thường",
+            "DNT do virus không bao giờ có bạch cầu đa nhân trung tính"
+          ],
+          "answer": 0,
+          "explain": "Đây là điểm phân biệt cốt lõi. Viêm màng não mủ có DNT đục, protein rất cao, glucose rất giảm, và bạch cầu tăng rất cao chủ yếu là đa nhân trung tính. Viêm màng não virus (nước trong) có những thay đổi ít rầm rộ hơn và tế bào chủ yếu là lympho."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây ra các tổn thương thần kinh trong viêm não do virus là gì?",
+          "options": [
+            "Tổn thương trực tiếp do virus nhân lên và phá hủy các tế bào neuron",
+            "Phản ứng viêm và miễn dịch của cơ thể quanh các tế bào bị nhiễm (phù não, thâm nhiễm tế bào viêm)",
+            "Phản ứng miễn dịch chéo sau nhiễm virus (viêm não tủy lan tỏa cấp tính - ADEM)",
+            "Cả A và B đều là những cơ chế quan trọng"
+          ],
+          "answer": 3,
+          "explain": "Trong viêm não do virus, tổn thương thần kinh là sự kết hợp của cả hai cơ chế: sự phá hủy trực tiếp của virus đối với các tế bào thần kinh và các tế bào thần kinh đệm, và các tổn thương thứ phát gây ra bởi phản ứng viêm mạnh mẽ của cơ thể nhằm loại trừ virus."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây có giá trị \"tiêu chuẩn vàng\" để chẩn đoán xác định viêm não Nhật Bản?",
+          "options": [
+            "Công thức máu",
+            "Chụp MRI sọ não",
+            "Điện não đồ (EEG)",
+            "Tìm kháng thể IgM đặc hiệu trong dịch não tủy bằng kỹ thuật MAC-ELISA"
+          ],
+          "answer": 3,
+          "explain": "MRI có thể gợi ý với các tổn thương điển hình ở đồi thị, hạch nền, thân não. Tuy nhiên, việc phát hiện kháng thể IgM đặc hiệu chống lại virus Viêm nội Nhật Bản trong dịch não tủy là bằng chứng chắc chắn nhất cho thấy có một tình trạng nhiễm trùng cấp tính đang diễn ra tại hệ thần kinh trung ương."
+        },
+        {
+          "q": "Biện pháp phòng bệnh viêm não Nhật Bản hiệu quả nhất là gì?",
+          "options": [
+            "Ngủ trong màn và sử dụng các biện pháp chống muỗi đốt",
+            "Vệ sinh môi trường, diệt lăng quăng/bọ gậy",
+            "Tiêm phòng vắc-xin đầy đủ và đúng lịch",
+            "Tất cả các biện pháp trên"
+          ],
+          "answer": 3,
+          "explain": "Viêm não Nhật Bản lây truyền qua muỗi Culex. Do đó, các biện pháp phòng bệnh bao gồm cả 3 yếu tố: tránh muỗi đốt, kiểm soát véc-tơ truyền bệnh, và quan trọng nhất là tạo miễn dịch chủ động bằng cách tiêm phòng vắc-xin."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi gái 15 tuổi sốt cao, ban xuất huyết hoại tử hình sao",
+      "body": "<b>Hành chính:</b> Bệnh nhi gái, 15 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì sốt cao, đau đầu và nổi ban. Bệnh khởi phát 3 ngày với sốt cao liên tục, đau đầu dữ dội. Hôm nay trẻ nổi ban xuất huyết dạng chấm và mảng hoại tử hình sao ở tay, chân và thân mình. Trẻ nhanh chóng trở nên li bì, cổ cứng.<br><br><b>Khám lâm sàng:</b> Khám cấp cứu: trẻ li bì, da tái lạnh, nổi vân tím, CRT 5 giây. Mạch 160 lần/phút, khó bắt. Huyết áp 70/40 mmHg. Ban xuất huyết hoại tử điển hình. Có hội chứng màng não rõ.",
+      "questions": [
+        {
+          "q": "Bệnh cảnh diễn tiến cực kỳ nhanh với sốc và ban xuất huyết hoại tử gợi ý mạnh mẽ đến tác nhân nào?",
+          "options": [
+            "Streptococcus pneumoniae",
+            "Haemophilus influenzae type b",
+            "Neisseria meningitidis (Não mô cầu)",
+            "Staphylococcus aureus"
+          ],
+          "answer": 2,
+          "explain": "Nhiễm não mô cầu là bệnh nổi tiếng với khả năng gây ra bệnh cảnh tối cấp, với sốc nhiễm khuẩn nặng, đông máu nội mạch lan tỏa (DIC) và ban xuất huyết hoại tử đặc trưng."
+        },
+        {
+          "q": "Cơ chế chính gây ra ban xuất huyết hoại tử (purpura fulminans) là gì?",
+          "options": [
+            "Giảm tiểu cầu đơn thuần",
+            "Đông máu nội mạch lan tỏa (DIC) và tổn thương thành mạch do nội độc tố",
+            "Phản ứng dị ứng với kháng nguyên của vi khuẩn",
+            "Tăng tính thấm thành mạch do virus"
+          ],
+          "answer": 1,
+          "explain": "Nội độc tố (lipopolysaccharide - LPS) của não mô cầu kích hoạt một phản ứng viêm dữ dội, làm tổn thương tế bào nội mô và hoạt hóa hệ thống đông máu một cách ồ ạt, dẫn đến DIC. Tình trạng này gây ra tắc các vi mạch ở da (gây hoại tử) và tiêu thụ hết các yếu tố đông máu (gây chảy máu)."
+        },
+        {
+          "q": "Biến chứng nội tiết cấp tính nào có thể xảy ra trong nhiễm não mô cầu huyết kịch phát?",
+          "options": [
+            "Cơn bão giáp",
+            "Suy thượng thận cấp (Hội chứng Waterhouse-Friderichsen)",
+            "Nhiễm toan ceton do đái tháo đường",
+            "Cơn hạ đường huyết nặng"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng Waterhouse-Friderichsen là tình trạng xuất huyết ồ ạt hai tuyến thượng thận, gây ra suy thượng thận cấp. Đây là một biến chứng kinh điển và gây tử vong của nhiễm não mô cầu huyết kịch phát, dẫn đến tụt huyết áp không đáp ứng với bù dịch và vận mạch."
+        },
+        {
+          "q": "Ngoài việc hồi sức sốc và dùng kháng sinh, biện pháp nào là cực kỳ quan trọng đối với những người tiếp xúc gần với bệnh nhân?",
+          "options": [
+            "Cách ly hoàn toàn trong 2 tuần",
+            "Tiêm phòng vắc-xin não mô cầu ngay lập tức",
+            "Điều trị dự phòng bằng kháng sinh (Rifampicin, Ciprofloxacin hoặc Ceftriaxone)",
+            "Xét nghiệm dịch tỵ hầu để tìm vi khuẩn"
+          ],
+          "answer": 2,
+          "explain": "Não mô cầu lây qua đường hô hấp. Những người tiếp xúc gần (sống cùng nhà, bạn học cùng lớp) có nguy cơ cao bị mắc bệnh. Do đó, việc điều trị dự phòng bằng một đợt kháng sinh ngắn ngày là bắt buộc để diệt vi khuẩn ở vùng hầu họng và ngăn ngừa bệnh phát triển."
+        },
+        {
+          "q": "Lựa chọn kháng sinh đầu tay để điều trị nhiễm não mô cầu xâm lấn là gì?",
+          "options": [
+            "Penicillin G hoặc Ampicillin",
+            "Một Cephalosporin thế hệ thứ 3 (Ceftriaxone, Cefotaxime)",
+            "Azithromycin",
+            "Vancomycin"
+          ],
+          "answer": 1,
+          "explain": "Cephalosporin thế hệ 3 đường tĩnh mạch là lựa chọn hàng đầu vì chúng thấm tốt vào dịch não tủy và có hiệu quả cao trên hầu hết các chủng não mô cầu. Penicillin vẫn có thể hiệu quả nếu chủng vi khuẩn còn nhạy cảm, nhưng Ceftriaxone an toàn hơn về mặt kinh nghiệm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 10 tuổi thay đổi hành vi và co giật cục bộ",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 10 tuổi.<br><br><b>Bệnh sử:</b> Được đưa đến khám vì đau đầu và thay đổi hành vi. Khoảng 1 tuần nay, trẻ có sốt nhẹ, đau đầu, sau đó trở nên cáu kỉnh, lú lẫn, thỉnh thoảng có những hành vi bất thường và ảo giác thị giác. Hôm nay trẻ có một cơn co giật cục bộ phức tạp, sau cơn ý thức không cải thiện.<br><br><b>Khám lâm sàng:</b> Trẻ lơ mơ, khó hợp tác. Không có dấu hiệu màng não rõ. Có yếu nhẹ 1/2 người phải.<br><br><b>Cận lâm sàng:</b> Dịch não tủy trong, bạch cầu lympho tăng nhẹ. Điện não đồ (EEG) cho thấy có các sóng chậm và sóng kịch phát định kỳ ở vùng thái dương trái.",
+      "questions": [
+        {
+          "q": "Dựa vào triệu chứng thần kinh khu trú (hành vi, co giật cục bộ) và hình ảnh EEG, tác nhân virus nào có khả năng cao nhất gây ra bệnh cảnh này?",
+          "options": [
+            "Virus Viêm não Nhật Bản",
+            "Virus Herpes Simplex (HSV)",
+            "Enterovirus",
+            "Virus quai bị"
+          ],
+          "answer": 1,
+          "explain": "Viêm não do HSV là nguyên nhân phổ biến nhất của viêm não khu trú gây tử vong. Bệnh cảnh đặc trưng bởi sự khởi phát cấp tính của sốt, thay đổi nhân cách, rối loạn ngôn ngữ, ảo giác và co giật cục bộ, phản ánh tổn thương ở vùng thùy thái dương và thùy trán."
+        },
+        {
+          "q": "Tại sao viêm nội do HSV lại có ái lực đặc biệt với vùng thùy thái dương?",
+          "options": [
+            "Do virus đi ngược từ niêm mạc mũi theo dây thần kinh khứu giác đến thùy thái dương",
+            "Do virus tái hoạt động từ hạch thần kinh sinh ba (trigeminal ganglion) và lan đến các vùng não mà nó chi phối",
+            "Do vùng này có nhiều thụ thể đặc hiệu cho virus HSV",
+            "Cả A và B đều là các giả thuyết được đưa ra"
+          ],
+          "answer": 3,
+          "explain": "Cơ chế chính xác vẫn chưa được hiểu rõ hoàn toàn. Hai giả thuyết chính là: (1) Virus từ một nhiễm trùng tiên phát ở mũi họng đi ngược theo dây thần kinh khứu giác (dây I) đến nền thùy trán và thái dương. (2) Virus ở trạng thái tiềm tàng trong hạch sinh ba (chi phối cảm giác vùng mặt) tái hoạt động và lan theo các nhánh thần kinh đến màng não và thùy thái dương."
+        },
+        {
+          "q": "Thăm dò hình ảnh nào có độ nhạy và đặc hiệu cao nhất để phát hiện sớm các tổn thương do viêm não HSV?",
+          "options": [
+            "Siêu âm xuyên thóp",
+            "Chụp X-quang sọ",
+            "Chụp CT scan sọ não",
+            "Chụp cộng hưởng từ (MRI) sọ não"
+          ],
+          "answer": 3,
+          "explain": "MRI nhạy hơn nhiều so với CT trong việc phát hiện các tổn thương viêm não sớm. Trong viêm não HSV, MRI thường cho thấy hình ảnh tăng tín hiệu trên T2/FLAIR, đôi khi có xuất huyết, ở một hoặc cả hai thùy thái dương trong."
+        },
+        {
+          "q": "Xét nghiệm nào là \"tiêu chuẩn vàng\" để chẩn đoán xác định viêm não do HSV?",
+          "options": [
+            "Phân lập virus từ DNT",
+            "Xét nghiệm PCR dịch não tủy để tìm DNA của HSV",
+            "Sinh thiết não",
+            "Đo kháng thể trong huyết thanh"
+          ],
+          "answer": 1,
+          "explain": "Xét nghiệm PCR khuếch đại DNA của virus trong dịch não tủy có độ nhạy và độ đặc hiệu rất cao (>95%), cho phép chẩn đoán nhanh và chính xác. Đây được coi là tiêu chuẩn vàng thay thế cho sinh thiết não trước đây."
+        },
+        {
+          "q": "Tại sao việc chẩn đoán và điều trị sớm bằng Acyclovir đường tĩnh mạch lại cực kỳ quan trọng?",
+          "options": [
+            "Vì Acyclovir có thể làm giảm sốt và đau đầu nhanh chóng",
+            "Vì viêm não do HSV không điều trị có tỷ lệ tử vong rất cao và di chứng thần kinh nặng nề",
+            "Để phòng ngừa lây nhiễm cho những người xung quanh",
+            "Vì Acyclovir chỉ có hiệu quả trong 24 giờ đầu tiên"
+          ],
+          "answer": 1,
+          "explain": "Viêm não HSV là một trong số ít các bệnh viêm não do virus có thuốc điều trị đặc hiệu. Nếu không được điều trị, tỷ lệ tử vong có thể lên tới 70% và hầu hết những người sống sót đều có di chứng thần kinh nặng. Việc bắt đầu Acyclovir tĩnh mạch sớm ngay khi có nghi ngờ lâm sàng cao đã được chứng minh làm giảm đáng kể tỷ lệ tử vong và di chứng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi trai 6 tuổi liệt mềm chi dưới sau đợt viêm đường hô hấp",
+      "body": "<b>Hành chính:</b> Bệnh nhi trai, 6 tuổi, tiền sử khỏe mạnh.<br><br><b>Bệnh sử:</b> Vào viện vì yếu hai chân. Bệnh khởi phát cách đây 1 tuần với sốt, ho, sổ mũi. Hai ngày nay, trẻ bắt đầu than tê bì và yếu ở hai bàn chân, sau đó yếu tăng dần và lan lên cẳng chân, đùi, khiến trẻ không đi lại được. Trẻ không có rối loạn cơ tròn.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh táo hoàn toàn, không sốt. Sức cơ hai chi dưới giảm nặng (2/5), đối xứng hai bên. Mất hoàn toàn phản xạ gân xương ở gối và gót. Sức cơ hai tay và các dây thần kinh sọ bình thường. Không có mức rối loạn cảm giác rõ.<br><br><b>Cận lâm sàng:</b> Dịch não tủy cho thấy có sự \"phân ly đạm - tế bào\".",
+      "questions": [
+        {
+          "q": "Bệnh cảnh lâm sàng này là điển hình của bệnh gì?",
+          "options": [
+            "Viêm tủy cắt ngang",
+            "Bệnh nhược cơ",
+            "Hội chứng Guillain-Barré (GBS)",
+            "Liệt mềm cấp do Enterovirus"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh liệt mềm, hướng lên, đối xứng, có giảm hoặc mất phản xạ gân xương, xảy ra sau một đợt nhiễm trùng là kinh điển của GBS."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của Hội chứng Guillain-Barré là gì?",
+          "options": [
+            "Độc tố của vi khuẩn trực tiếp gây tổn thương thần kinh",
+            "Một phản ứng tự miễn qua trung gian kháng thể và tế bào T tấn công vào các dây thần kinh ngoại biên",
+            "Thiếu hụt một loại vitamin thiết yếu cho chức năng thần kinh",
+            "Tắc nghẽn các mạch máu nuôi tủy sống"
+          ],
+          "answer": 1,
+          "explain": "GBS được cho là một bệnh tự miễn. Sau một nhiễm trùng (thường là Campylobacter jejuni hoặc virus), hệ miễn dịch tạo ra kháng thể để chống lại tác nhân gây bệnh. Do hiện tượng \"bắt chước phân tử\", các kháng thể này nhận nhầm và tấn công vào các thành phần của vỏ myelin hoặc sợi trục của các dây thần kinh ngoại biên, gây ra tình trạng hủy myelin và tổn thương sợi trục."
+        },
+        {
+          "q": "Hiện tượng \"phân ly đạm - tế bào\" trong dịch não tủy có nghĩa là gì?",
+          "options": [
+            "Nồng độ protein tăng cao trong khi số lượng tế bào bình thường hoặc chỉ tăng nhẹ",
+            "Nồng độ protein và số lượng tế bào đều tăng rất cao",
+            "Nồng độ protein bình thường nhưng số lượng tế bào tăng cao",
+            "Có sự hiện diện của các tế bào lạ nhưng protein bình thường"
+          ],
+          "answer": 0,
+          "explain": "\"Phân ly đạm - tế bào\" là một dấu hiệu cận lâm sàng rất đặc trưng của GBS. Tình trạng viêm ở các rễ thần kinh làm tăng tính thấm của hàng rào máu thần kinh, cho phép protein từ máu rò rỉ vào DNT. Tuy nhiên, phản ứng viêm này không có sự xâm nhập ồ ạt của các tế bào viêm vào khoang dưới nhện."
+        },
+        {
+          "q": "Biến chứng nguy hiểm nhất cần được theo dõi sát ở bệnh nhân GBS là gì?",
+          "options": [
+            "Suy thận cấp",
+            "Suy hô hấp do liệt các cơ hô hấp",
+            "Rối loạn nhịp tim do rối loạn thần kinh tự chủ",
+            "Cả B và C đều đúng"
+          ],
+          "answer": 3,
+          "explain": "Tình trạng liệt có thể lan lên trên, ảnh hưởng đến các cơ liên sườn và cơ hoành, gây suy hô hấp. Đồng thời, sự tổn thương các sợi thần kinh tự chủ có thể gây ra các rối loạn nguy hiểm về tim mạch (nhịp tim lúc quá nhanh, lúc quá chậm, huyết áp không ổn định). Do đó, bệnh nhân cần được theo dõi chức năng hô hấp (dung tích sống) và tim mạch rất chặt chẽ."
+        },
+        {
+          "q": "Lựa chọn điều trị đặc hiệu nào đã được chứng minh làm rút ngắn thời gian bệnh và cải thiện tiên lượng?",
+          "options": [
+            "Corticosteroid liều cao",
+            "Lọc huyết tương (plasma exchange) hoặc truyền Globulin miễn dịch liều cao (IVIG)",
+            "Thuốc kháng virus Acyclovir",
+            "Bổ sung Vitamin B12 liều cao"
+          ],
+          "answer": 1,
+          "explain": "Cả hai liệu pháp miễn dịch này đều có hiệu quả tương đương nhau. Lọc huyết tương nhằm mục đích loại bỏ các tự kháng thể và các yếu tố gây viêm ra khỏi máu. IVIG được cho là có tác dụng trung hòa các tự kháng thể và điều hòa hệ miễn dịch. Corticosteroid không được chứng minh là có hiệu quả trong GBS."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 1 tháng tuổi sốt, thóp phồng và não úng thủy",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 1 tháng tuổi, sinh đủ tháng, tiền sử khỏe mạnh.<br><br><b>Bệnh sử:</b> Nhập viện vì sốt và thóp phồng. Bệnh 2 ngày nay, trẻ sốt cao 39°C, bú kém, quấy khóc nhiều. Hôm nay mẹ thấy thóp trước của trẻ phồng căng hơn bình thường.<br><br><b>Khám lâm sàng:</b> Trẻ quấy, khó chịu. Thóp trước kích thước 2x2 cm, phồng căng, mạch đập yếu. Không có dấu hiệu màng não rõ. Khám toàn thân không thấy ổ nhiễm trùng nào khác.<br><br><b>Cận lâm sàng:</b> Chọc dò DNT cho thấy đặc điểm của viêm màng não mủ. Siêu âm qua thóp cho thấy hai não thất bên giãn rộng, có hình ảnh các vách và mảnh vụn echo dày trong não thất.",
+      "questions": [
+        {
+          "q": "Biến chứng mà trẻ đang gặp phải là gì?",
+          "options": [
+            "Não úng thủy",
+            "Viêm não thất (ventriculitis)",
+            "Tụ mủ dưới màng cứng",
+            "Cả A và B"
+          ],
+          "answer": 3,
+          "explain": "Hình ảnh giãn não thất trên siêu âm xác định chẩn đoán não úng thủy. Các mảnh vụn echo dày trong lòng não thất là dấu hiệu của viêm mủ, tức là viêm não thất. Hai biến chứng này thường đi đôi với nhau, đặc biệt ở trẻ sơ sinh."
+        },
+        {
+          "q": "Cơ chế chính gây não úng thủy sau viêm màng não mủ là gì?",
+          "options": [
+            "Tăng sản xuất dịch não tủy do đám rối mạch mạc bị viêm",
+            "Tắc nghẽn đường lưu thông của dịch não tủy do mủ, fibrin và các vách dính",
+            "Giảm hấp thu dịch não tủy do các hạt màng nhện bị viêm và tắc nghẽn",
+            "Cả B và C đều là những cơ chế quan trọng"
+          ],
+          "answer": 3,
+          "explain": "Viêm màng não mủ có thể gây tắc nghẽn đường lưu thông DNT ở nhiều vị trí (não úng thủy tắc nghẽn), hoặc gây viêm và xơ hóa các hạt màng nhện (nơi hấp thu DNT vào hệ tĩnh mạch), gây ra não úng thủy thông. Cả hai cơ chế đều dẫn đến sự tích tụ DNT và tăng áp lực nội sọ."
+        },
+        {
+          "q": "Viêm não thất là tình trạng gì?",
+          "options": [
+            "Tình trạng viêm của nhu mô não xung quanh các não thất",
+            "Tình trạng nhiễm trùng của chính hệ thống não thất và lớp màng lót (ependyma)",
+            "Sự hình thành một ổ áp xe lớn bên trong não thất",
+            "Sự giãn nở thụ động của các não thất do áp lực"
+          ],
+          "answer": 1,
+          "explain": "Viêm não thất là tình trạng viêm của lớp lót lòng các não thất, thường xảy ra khi vi khuẩn từ khoang dưới nhện xâm nhập vào hệ thống não thất. Tình trạng viêm và mủ trong não thất càng làm nặng thêm nguy cơ tắc nghẽn và não úng thủy."
+        },
+        {
+          "q": "Tác nhân vi khuẩn nào thường liên quan đến nguy cơ cao bị viêm não thất ở trẻ sơ sinh?",
+          "options": [
+            "Streptococcus pneumoniae",
+            "Các trực khuẩn Gram âm (E. coli, Klebsiella) và Liên cầu nhóm B",
+            "Neisseria meningitidis",
+            "Haemophilus influenzae type b"
+          ],
+          "answer": 1,
+          "explain": "Các trực khuẩn Gram âm và GBS là những tác nhân hàng đầu gây viêm màng não ở trẻ sơ sinh. Chúng thường gây ra phản ứng viêm rất mạnh, tạo nhiều mủ và dễ dẫn đến các biến chứng như viêm não thất và áp xe não."
+        },
+        {
+          "q": "Hướng xử trí cho tình trạng não úng thủy và viêm não thất là gì?",
+          "options": [
+            "Dùng thuốc lợi tiểu (Acetazolamide) để giảm sản xuất DNT",
+            "Kéo dài thời gian dùng kháng sinh tĩnh mạch, có thể cần kháng sinh thấm tốt vào não thất",
+            "Can thiệp ngoại khoa thần kinh (dẫn lưu não thất ra ngoài, đặt shunt)",
+            "Cả B và C đều cần thiết"
+          ],
+          "answer": 3,
+          "explain": "Điều trị đòi hỏi một cách tiếp cận kép. Cần phải điều trị nhiễm trùng một cách tích cực bằng kháng sinh tĩnh mạch kéo dài, đôi khi cần các kháng sinh có khả năng thâm nhập tốt vào DNT (như Meropenem, Rifampicin). Đồng thời, cần phải giải quyết tình trạng tắc nghẽn và tăng áp lực nội sọ bằng các can thiệp ngoại khoa như dẫn lưu não thất tạm thời hoặc đặt shunt vĩnh viễn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 12 tuổi viêm xoang trán biến chứng áp xe não",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 12 tuổi.<br><br><b>Bệnh sử:</b> Bị viêm xoang trán cấp tính. Trẻ được điều trị bằng kháng sinh uống nhưng không đỡ. 2 ngày nay trẻ sốt cao trở lại, đau đầu nhiều, vùng trán sưng nề, mềm, ấn đau. Sau đó trẻ trở nên lơ mơ và có một cơn co giật toàn thân.<br><br><b>Cận lâm sàng:</b> CT scan sọ não có tiêm thuốc cản quang cho thấy hình ảnh viêm xoang trán và một ổ tụ dịch có bờ, ngấm thuốc viền rõ ở thùy trán phải, đè đẩy đường giữa.",
+      "questions": [
+        {
+          "q": "Biến chứng nội sọ của viêm xoang mà trẻ đang gặp phải là gì?",
+          "options": [
+            "Viêm màng não mủ",
+            "Áp xe não",
+            "Huyết khối xoang tĩnh mạch hang",
+            "Tụ mủ dưới màng cứng"
+          ],
+          "answer": 1,
+          "explain": "Hình ảnh một tổn thương choán chỗ, dạng nang, có vỏ bọc ngấm thuốc viền trên CT/MRI là hình ảnh kinh điển của một ổ áp xe não."
+        },
+        {
+          "q": "Con đường lan truyền nhiễm trùng từ xoang trán vào não là gì?",
+          "options": [
+            "Theo đường máu",
+            "Lan trực tiếp qua thành xương bị ăn mòn hoặc qua các tĩnh mạch thông nối không có van",
+            "Theo đường bạch huyết",
+            "Đi ngược theo các dây thần kinh sọ"
+          ],
+          "answer": 1,
+          "explain": "Nhiễm trùng từ các ổ kế cận như tai giữa, xương chũm, xoang cạnh mũi có thể lan vào nội sọ qua hai con đường chính: (1) Lan trực tiếp: gây viêm xương và ăn mòn thành xương, trực tiếp vào khoang dưới màng cứng hoặc nhu mô não. (2) Lan theo đường tĩnh mạch: các tĩnh mạch dẫn lưu từ các xoang này không có van, chúng thông nối với các xoang tĩnh mạch màng cứng, tạo điều kiện cho vi khuẩn và huyết khối nhiễm trùng đi ngược dòng vào não."
+        },
+        {
+          "q": "Giai đoạn nào trong quá trình hình thành áp xe não tương ứng với hình ảnh \"tụ dịch có bờ, ngấm thuốc viền\"?",
+          "options": [
+            "Giai đoạn viêm não sớm (viêm não cục bộ)",
+            "Giai đoạn viêm não muộn (tạo trung tâm hoại tử)",
+            "Giai đoạn tạo vỏ (hình thành vỏ bọc giàu collagen)",
+            "Giai đoạn thoái lui"
+          ],
+          "answer": 2,
+          "explain": "Đây là giai đoạn tạo vỏ (giai đoạn 4). Phản ứng của cơ thể nhằm khu trú ổ nhiễm trùng bằng cách tạo ra một lớp vỏ bọc gồm các nguyên bào sợi, tế bào viêm và mô tân mạch. Lớp vỏ này ngấm thuốc cản quang mạnh, tạo thành hình ảnh \"nhẫn\" đặc trưng."
+        },
+        {
+          "q": "Phổ vi khuẩn thường gặp trong áp xe não có nguồn gốc từ viêm xoang là gì?",
+          "options": [
+            "Chỉ có vi khuẩn Gram dương hiếu khí",
+            "Chỉ có vi khuẩn Gram âm hiếu khí",
+            "Thường là nhiễm trùng đa vi khuẩn, bao gồm cả vi khuẩn hiếu khí và kỵ khí",
+            "Chủ yếu là virus"
+          ],
+          "answer": 2,
+          "explain": "Áp xe não có nguồn gốc từ xoang thường do hệ vi khuẩn phức tạp của đường hô hấp trên, bao gồm các chủng Liên cầu (đặc biệt là nhóm S. milleri), các vi khuẩn kỵ khí (Bacteroides, Prevotella) và các vi khuẩn Gram âm khác."
+        },
+        {
+          "q": "Hướng điều trị cho áp xe não bao gồm những gì?",
+          "options": [
+            "Chỉ cần dùng kháng sinh tĩnh mạch liều cao, kéo dài",
+            "Chỉ cần phẫu thuật dẫn lưu mủ",
+            "Kết hợp giữa kháng sinh tĩnh mạch liều cao, kéo dài và can thiệp phẫu thuật thần kinh (chọc hút hoặc cắt bỏ)",
+            "Xạ trị vào ổ áp xe"
+          ],
+          "answer": 2,
+          "explain": "Điều trị áp xe não đòi hỏi sự kết hợp chặt chẽ giữa nội khoa và ngoại khoa. Kháng sinh liều cao, phổ rộng, thấm tốt vào hệ thần kinh trung ương và dùng kéo dài (4-8 tuần) là bắt buộc. Can thiệp phẫu thuật (dẫn lưu mủ bằng phương pháp định vị lập thể hoặc phẫu thuật cắt bỏ) vừa giúp giảm hiệu ứng choán chỗ, vừa lấy được bệnh phẩm để cấy, xác định chính xác vi khuẩn và làm kháng sinh đồ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi gái 10 tuổi sốt nhẹ về chiều, sụt cân và nôn",
+      "body": "<b>Hành chính:</b> Bệnh nhi gái, 10 tuổi.<br><br><b>Bệnh sử:</b> Bị viêm màng não do lao. Bệnh khởi phát từ từ trong 3 tuần với sốt nhẹ về chiều, chán ăn, sụt cân. 1 tuần nay trẻ đau đầu nhiều, nôn, trở nên thờ ơ, lãnh đạm.<br><br><b>Khám lâm sàng:</b> Khám có dấu hiệu màng não không rõ ràng. Soi đáy mắt thấy có phù gai thị.<br><br><b>Cận lâm sàng:</b> Chọc dò DNT cho thấy dịch vàng chanh, trong, áp lực tăng. Xét nghiệm DNT: Protein 1.5 g/L, Glucose 1.2 mmol/L (rất giảm), Bạch cầu 300 tế bào/mm³ (chủ yếu là Lympho). Nhuộm Ziehl-Neelsen DNT tìm thấy vi khuẩn kháng cồn kháng toan (AFB).",
+      "questions": [
+        {
+          "q": "Đặc điểm nào của dịch não tủy là rất gợi ý đến viêm màng não do lao?",
+          "options": [
+            "Dịch đục, bạch cầu đa nhân trung tính ưu thế",
+            "Dịch trong, glucose bình thường, protein bình thường",
+            "Dịch vàng chanh, protein tăng rất cao, glucose giảm rất thấp, bạch cầu tăng vừa phải và lympho ưu thế",
+            "Dịch hồng, có nhiều hồng cầu"
+          ],
+          "answer": 2,
+          "explain": "Đây là hình ảnh DNT \"kinh điển\" của viêm màng não do lao, giúp phân biệt với viêm màng não mủ (BC đa nhân, glucose rất giảm) và viêm màng não nước trong do virus (protein tăng nhẹ, glucose bình thường)."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của viêm màng não do lao là gì?",
+          "options": [
+            "Vi khuẩn lao từ một ổ nhiễm trùng nguyên phát (thường là ở phổi) theo đường máu đến não, tạo thành các \"củ lao\" nhỏ (Rich foci) ở màng não hoặc vỏ não",
+            "Sau đó, một trong các củ lao này vỡ vào khoang dưới nhện, giải phóng một lượng lớn kháng nguyên lao",
+            "Gây ra một phản ứng quá mẫn và viêm dữ dội ở nền sọ",
+            "Tất cả các bước trên"
+          ],
+          "answer": 3,
+          "explain": "Đây là diễn biến hai giai đoạn được mô tả bởi Rich và McCordock. Giai đoạn nhiễm trùng huyết ban đầu thường không có triệu chứng. Bệnh cảnh viêm màng não chỉ xảy ra ở giai đoạn hai khi củ lao vỡ."
+        },
+        {
+          "q": "Biến chứng thường gặp nhất và gây ra các di chứng nặng nề trong viêm màng não do lao là gì?",
+          "options": [
+            "Não úng thủy và viêm mạch máu não",
+            "Co giật kéo dài",
+            "Mù lòa do tổn thương dây thần kinh thị giác",
+            "Điếc do tổn thương dây thần kinh thính giác"
+          ],
+          "answer": 0,
+          "explain": "Phản ứng viêm trong viêm màng não do lao đặc biệt tập trung ở nền sọ, tạo ra một khối dịch tiết viêm đặc quánh. Khối viêm này bít tắc các bể dịch não tủy (gây não úng thủy) và bao bọc, gây viêm các mạch máu và dây thần kinh sọ ở nền não (gây nhồi máu não và liệt dây sọ)."
+        },
+        {
+          "q": "\"Lưới Fibrin\" hay \"váng màng não\" là hiện tượng gì?",
+          "options": [
+            "Là các tế bào blast trong DNT của bệnh bạch cầu",
+            "Là các sợi Fibrin được hình thành do nồng độ protein trong DNT rất cao, có thể kết lại thành màng mỏng khi để DNT lắng tự nhiên",
+            "Là các sợi nấm trong viêm màng não do nấm",
+            "Là các cục máu đông nhỏ trong DNT xuất huyết"
+          ],
+          "answer": 1,
+          "explain": "Nồng độ protein trong DNT do lao tăng rất cao (>1 g/L), chủ yếu là Fibrinogen. Khi để ống DNT đứng yên, Fibrinogen có thể tự polymer hóa thành các sợi Fibrin, tạo thành một màng mỏng như màng nhện hoặc váng. Đây là một dấu hiệu kinh điển nhưng không phải lúc nào cũng có."
+        },
+        {
+          "q": "Phác đồ điều trị viêm màng não do lao cần bao gồm những gì?",
+          "options": [
+            "Chỉ cần dùng 2 loại thuốc kháng lao trong 6 tháng",
+            "Phối hợp ít nhất 4 loại thuốc kháng lao trong giai đoạn tấn công, kéo dài tổng cộng 9-12 tháng",
+            "Sử dụng Corticosteroid trong giai đoạn đầu",
+            "Cả B và C đều đúng"
+          ],
+          "answer": 3,
+          "explain": "Do tính chất nghiêm trọng và nguy cơ kháng thuốc, viêm màng não do lao phải được điều trị bằng phác đồ phối hợp nhiều thuốc, kéo dài. Corticosteroid được chỉ định trong hầu hết các trường hợp để làm giảm phản ứng viêm, giảm nguy cơ biến chứng tắc nghẽn và viêm mạch."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi gái 12 tuổi lú lẫn và hôn mê sau nhiễm thủy đậu",
+      "body": "<b>Hành chính:</b> Bệnh nhi gái, 12 tuổi.<br><br><b>Bệnh sử:</b> Sau một đợt nhiễm thủy đậu 10 ngày, trẻ đột ngột xuất hiện nôn ói dữ dội, nói nhảm, lú lẫn và nhanh chóng đi vào hôn mê.<br><br><b>Khám lâm sàng:</b> Trẻ hôn mê sâu, Glasgow 5 điểm. Không có dấu hiệu thần kinh khu trú.<br><br><b>Cận lâm sàng:</b> Xét nghiệm máu: đường huyết 2.0 mmol/L, Amoniac máu tăng rất cao (200 µmol/L), men gan AST, ALT tăng >1000 U/L. Thời gian Prothrombin kéo dài. Dịch não tủy bình thường.",
+      "questions": [
+        {
+          "q": "Sự kết hợp của bệnh não cấp và suy gan cấp sau một đợt nhiễm virus và có thể liên quan đến việc dùng Aspirin là bệnh cảnh của hội chứng nào?",
+          "options": [
+            "Hội chứng Guillain-Barré",
+            "Hội chứng Reye",
+            "Hội chứng sốc nhiễm độc",
+            "Hội chứng tan máu ure huyết (HUS)"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng Reye là một bệnh não-gan cấp tính, đặc trưng bởi tình trạng nôn ói không kiểm soát, rối loạn ý thức tiến triển nhanh đến hôn mê, kèm theo bằng chứng suy chức năng gan cấp (tăng men gan, tăng amoniac, rối loạn đông máu) và không có viêm."
+        },
+        {
+          "q": "Mối liên quan giữa việc dùng Aspirin trong các bệnh nhiễm virus (cúm, thủy đậu) và hội chứng Reye là gì?",
+          "options": [
+            "Aspirin gây ra phản ứng dị ứng ở gan và não",
+            "Aspirin là một yếu tố nguy cơ mạnh, đã được xác định qua các nghiên cứu dịch tễ học",
+            "Không có mối liên quan nào được chứng minh",
+            "Aspirin làm cho virus nhân lên nhanh hơn"
+          ],
+          "answer": 1,
+          "explain": "Mặc dù cơ chế chính xác chưa rõ, các nghiên cứu dịch tễ học đã cho thấy một mối liên quan rất mạnh giữa việc dùng Aspirin trong khi bị cúm hoặc thủy đậu và sự phát triển của hội chứng Reye. Điều này đã dẫn đến khuyến cáo không dùng Aspirin cho trẻ em bị sốt."
+        },
+        {
+          "q": "Tổn thương bệnh học đặc trưng trong hội chứng Reye là gì?",
+          "options": [
+            "Hoại tử tế bào gan và neuron thần kinh trên diện rộng",
+            "Tổn thương ty thể lan tỏa, đặc biệt ở gan và não",
+            "Phản ứng viêm mạn tính tạo u hạt",
+            "Sự thâm nhiễm của các tế bào ác tính"
+          ],
+          "answer": 1,
+          "explain": "Dưới kính hiển vi điện tử, tổn thương đặc trưng là sự sưng phồng và phá hủy cấu trúc của các ty thể ở tế bào gan và não. Sự rối loạn chức năng ty thể này là trung tâm của các rối loạn chuyển hóa trong bệnh."
+        },
+        {
+          "q": "Cơ chế chính gây ra bệnh não trong hội chứng Reye là gì?",
+          "options": [
+            "Phù não do độc chất và tăng amoniac máu thứ phát do suy gan",
+            "Virus trực tiếp xâm nhập và phá hủy tế bào não",
+            "Tắc các mạch máu nhỏ trong não do huyết khối",
+            "Chảy máu não ồ ạt do rối loạn đông máu"
+          ],
+          "answer": 0,
+          "explain": "Bệnh não trong hội chứng Reye không phải do viêm. Nó là hậu quả của tình trạng phù não lan tỏa (phù não do độc tế bào) và đặc biệt là tình trạng tăng amoniac máu nặng do gan không còn khả năng chuyển hóa amoniac thành ure."
+        },
+        {
+          "q": "Lời khuyên nào là quan trọng nhất để phòng ngừa hội chứng Reye?",
+          "options": [
+            "Tiêm phòng đầy đủ các loại vắc-xin cúm và thủy đậu",
+            "Tránh sử dụng Aspirin và các sản phẩm chứa salicylate để hạ sốt hoặc giảm đau cho trẻ em và thanh thiếu niên, đặc biệt khi có bệnh do virus",
+            "Cả A và B đều đúng",
+            "Bổ sung vitamin K cho tất cả trẻ em bị sốt"
+          ],
+          "answer": 2,
+          "explain": "Cả hai biện pháp đều quan trọng. Tiêm phòng giúp ngăn ngừa mắc cúm và thủy đậu. Việc tránh dùng Aspirin cho trẻ em đã làm cho hội chứng Reye trở nên cực kỳ hiếm gặp ở các nước phát triển. Paracetamol là thuốc hạ sốt được lựa chọn thay thế."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 8 tuổi giảm thính lực sau viêm màng não mủ do phế cầu",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 8 tuổi.<br><br><b>Bệnh sử:</b> Được chẩn đoán viêm màng não mủ do phế cầu. Sau 2 tuần điều trị, trẻ hết sốt, tỉnh táo nhưng bố mẹ nhận thấy trẻ không còn phản ứng khi được gọi tên từ phía sau hoặc khi có tiếng động lớn.<br><br><b>Khám lâm sàng:</b> Khám tai mũi họng và đo thính lực cho thấy trẻ bị điếc tiếp nhận hai tai mức độ nặng - sâu.",
+      "questions": [
+        {
+          "q": "Biến chứng này là hậu quả của tổn thương cấu trúc nào?",
+          "options": [
+            "Màng nhĩ và chuỗi xương con ở tai giữa",
+            "Ốc tai và/hoặc dây thần kinh thính giác (dây VIII)",
+            "Vỏ não thính giác ở thùy thái dương",
+            "Vòi Eustachi"
+          ],
+          "answer": 1,
+          "explain": "Điếc tiếp nhận là loại điếc gây ra do tổn thương cơ quan cảm nhận âm thanh (ốc tai) hoặc đường dẫn truyền thần kinh từ ốc tai về não (dây thần kinh VIII, thân não). Đây là di chứng thường gặp và nặng nề nhất của viêm màng脑 mủ."
+        },
+        {
+          "q": "Cơ chế chính gây ra điếc sau viêm màng não mủ là gì?",
+          "options": [
+            "Độc tố của vi khuẩn trực tiếp gây độc cho các tế bào lông trong ốc tai",
+            "Phản ứng viêm mủ trong khoang dưới nhện lan vào tai trong qua cống ốc tai, gây viêm và xơ hóa ốc tai",
+            "Huyết khối của động mạch tai trong gây nhồi máu ốc tai",
+            "Áp lực nội sọ tăng cao chèn ép vào dây thần kinh thính giác"
+          ],
+          "answer": 1,
+          "explain": "Tai trong và khoang dưới nhện được thông với nhau qua một kênh nhỏ gọi là cống ốc tai. Vi khuẩn và các chất trung gian gây viêm từ dịch não tủy có thể đi qua kênh này vào dịch nội lymph của ốc tai, gây ra viêm mê nhĩ mủ. Phản ứng viêm và quá trình sửa chữa sau đó gây xơ hóa, cốt hóa ốc tai, phá hủy vĩnh viễn các tế bào lông."
+        },
+        {
+          "q": "Tác nhân vi khuẩn nào gây viêm màng não có nguy cơ để lại di chứng điếc cao nhất?",
+          "options": [
+            "Neisseria meningitidis",
+            "Streptococcus pneumoniae",
+            "Listeria monocytogenes",
+            "Escherichia coli"
+          ],
+          "answer": 1,
+          "explain": "Viêm màng não do phế cầu có tỷ lệ gây di chứng điếc cao nhất, có thể lên đến 20-30% các trường hợp. Phản ứng viêm do phế cầu gây ra thường rất dữ dội."
+        },
+        {
+          "q": "Việc sử dụng Corticosteroid (Dexamethasone) sớm trong điều trị viêm màng não mủ nhằm mục đích gì?",
+          "options": [
+            "Giảm phản ứng viêm ở tai trong và giảm nguy cơ điếc",
+            "Tăng cường khả năng thấm của kháng sinh vào dịch não tủy",
+            "Giảm đau đầu và sốt",
+            "Ngăn ngừa co giật"
+          ],
+          "answer": 0,
+          "explain": "Nhiều nghiên cứu đã chứng minh rằng việc dùng Dexamethasone sớm có thể làm giảm đáng kể nguy cơ bị điếc và các di chứng thần kinh khác, đặc biệt trong viêm màng não do H. influenzae type b và phế cầu. Cơ chế là do nó ức chế sản xuất các cytokine gây viêm, làm giảm tổn thương cho ốc tai."
+        },
+        {
+          "q": "Can thiệp nào có thể giúp phục hồi khả năng nghe cho những bệnh nhân bị điếc sâu hai tai sau viêm màng não?",
+          "options": [
+            "Dùng máy trợ thính thông thường",
+            "Phẫu thuật tái tạo màng nhĩ",
+            "Cấy điện cực ốc tai (Cochlear Implant)",
+            "Dùng thuốc kháng viêm kéo dài"
+          ],
+          "answer": 2,
+          "explain": "Máy trợ thính chỉ khuếch đại âm thanh, có tác dụng khi các tế bào thần kinh thính giác chưa bị phá hủy. Cấy điện cực ốc tai là một thiết bị điện tử được cấy vào trong ốc tai, có khả năng kích thích trực tiếp các đầu mút của dây thần kinh thính giác, bỏ qua các tế bào lông bị tổn thương, và phục hồi lại một phần cảm giác nghe cho bệnh nhân."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi trai 8 tháng tuổi sốt cao, co giật và thóp phồng",
+      "body": "<b>Hành chính:</b> Bệnh nhi trai 8 tháng tuổi, nặng 8,5 kg.<br><br><b>Bệnh sử:</b> Vào viện vì sốt cao và co giật. Bệnh diễn biến 2 ngày với sốt cao liên tục, bỏ bú, quấy khóc, sau đó xuất hiện một cơn co giật toàn thân kéo dài khoảng 3 phút. Tiền sử chưa tiêm chủng đầy đủ các mũi vắc xin mở rộng.<br><br><b>Khám lâm sàng:</b> Khám lúc vào viện: trẻ tỉnh, sốt 39,2°C, thóp trước phồng căng, dấu hiệu cổ cứng dương tính, Kernig (+). Phổi thông khí đều, không rales. Tim nhịp nhanh 150 chu kỳ/phút. Các cơ quan khác chưa phát hiện bất thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán sơ bộ phù hợp nhất đối với bệnh nhi này:",
+          "options": [
+            "Viêm não Nhật Bản",
+            "Viêm màng não mủ",
+            "Sốt co giật đơn thuần",
+            "Xuất huyết màng não"
+          ],
+          "answer": 1,
+          "explain": "Trẻ 8 tháng có hội chứng nhiễm trùng cấp tính phối hợp với hội chứng màng não (thóp phồng, cổ cứng) và co giật, định hướng lâm sàng điển hình cho viêm màng não mủ."
+        },
+        {
+          "q": "Các tác nhân vi khuẩn thường gặp nhất ở lứa tuổi này bao gồm, TRỪ:",
+          "options": [
+            "Streptococcus pneumoniae",
+            "Haemophilus influenzae typ b",
+            "Neisseria meningitidis",
+            "Escherichia coli"
+          ],
+          "answer": 3,
+          "explain": "Ở trẻ từ 3 tháng đến 5 tuổi, S. pneumoniae, Hib và N. meningitidis là các căn nguyên hàng đầu; E. coli chủ yếu gặp ở trẻ sơ sinh dưới 3 tháng."
+        },
+        {
+          "q": "Xét nghiệm nào có giá trị nhất để chẩn đoán xác định bệnh lý của trẻ:",
+          "options": [
+            "Công thức máu và CRP",
+            "Siêu âm qua thóp",
+            "Chọc dò dịch não tủy",
+            "Chụp cắt lớp vi tính sọ não"
+          ],
+          "answer": 2,
+          "explain": "Xét nghiệm dịch não tủy là tiêu chuẩn bắt buộc để khẳng định viêm màng não và định hướng căn nguyên qua biến đổi sinh hóa, tế bào."
+        },
+        {
+          "q": "Lựa chọn kháng sinh ban đầu theo kinh nghiệm khi chưa có kết quả vi sinh:",
+          "options": [
+            "Ceftriaxone kết hợp Vancomycin",
+            "Penicillin G đơn thuần",
+            "Gentamycin kết hợp Amoxicillin",
+            "Ciprofloxacin liều cao"
+          ],
+          "answer": 0,
+          "explain": "Theo guideline hiện hành, phối hợp Cephalosporin thế hệ 3 và Vancomycin giúp bao phủ các chủng phế cầu kháng thuốc và các vi khuẩn Gram âm thường gặp."
+        },
+        {
+          "q": "Diễn biến nào sau đây cho thấy trẻ đang có tình trạng tăng áp lực nội sọ cấp tính nặng:",
+          "options": [
+            "Nhịp tim nhanh, huyết áp tụt",
+            "Tam chứng Cushing",
+            "Tiêu chảy cấp mất nước",
+            "Ban xuất huyết hoại tử"
+          ],
+          "answer": 1,
+          "explain": "Tam chứng Cushing (huyết áp tăng, nhịp tim chậm, rối loạn nhịp thở) là dấu hiệu kinh điển của tăng áp lực nội sọ nặng, đe dọa tụt kẹt hạnh nhân tiểu não."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ gái 6 tuổi sốt cao, co giật nửa người và hôn mê",
+      "body": "<b>Hành chính:</b> Trẻ gái 6 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì sốt cao và đau đầu. Mẹ kể trẻ bị bệnh 3 ngày nay, sốt cao 39-40°C, than đau đầu nhiều, nôn 3-4 lần sau ăn. Sáng nay trẻ xuất hiện tình trạng lờ đờ, nói nhảm, sau đó co giật nửa người phải.<br><br><b>Khám lâm sàng:</b> Khám thấy trẻ hôn mê (Glasgow 10 điểm), đồng tử 2 bên đều 2,5mm có phản xạ ánh sáng, dấu hiệu màng não nghi ngờ. Trẻ sống trong vùng đang có dịch sốt phát ban và viêm não mùa hè.",
+      "questions": [
+        {
+          "q": "Vấn đề ưu tiên cần chẩn đoán ở bệnh nhi này:",
+          "options": [
+            "Viêm màng não do vi khuẩn",
+            "Viêm não cấp",
+            "U não thùy thái dương",
+            "Hạ đường huyết cấp"
+          ],
+          "answer": 1,
+          "explain": "Trẻ có sốt cao kèm theo rối loạn ý thức (nói nhảm, hôn mê) và dấu hiệu thần kinh khu trú (co giật nửa người), là các biểu hiện chính của viêm não cấp."
+        },
+        {
+          "q": "Cơ chế chính gây ra các thiếu sót thần kinh khu trú trong viêm não là:",
+          "options": [
+            "Sự lắng đọng phức hợp miễn dịch tại mạch máu não",
+            "Sự xâm nhập trực tiếp và phá hủy tế bào não của virus",
+            "Do vi khuẩn tiết ra nội độc tố gây co mạch",
+            "Do tình trạng thiếu vitamin B1 cấp tính"
+          ],
+          "answer": 1,
+          "explain": "Khác với viêm màng mủ gây viêm lớp màng bao bọc, virus viêm não xâm nhập trực tiếp vào nhu mô não, gây phù nề, hoại tử và tổn thương chức năng tế bào thần kinh tại chỗ."
+        },
+        {
+          "q": "Kết quả dịch não tủy (DNT) nào sau đây gợi ý nhiều nhất đến căn nguyên virus:",
+          "options": [
+            "DNT đục, protein tăng, đường giảm sâu",
+            "DNT trong, bạch cầu tăng chủ yếu lympho, đường bình thường",
+            "DNT vàng chanh, protein tăng rất cao, đường giảm",
+            "DNT có hồng cầu không đông, protein bình thường"
+          ],
+          "answer": 1,
+          "explain": "DNT trong viêm não virus thường có đặc điểm nước trong, tế bào tăng nhẹ (chủ yếu lympho), protein bình thường hoặc tăng nhẹ, và đường luôn bình thường."
+        },
+        {
+          "q": "Xét nghiệm nào giúp chẩn đoán xác định căn nguyên viêm não Nhật Bản:",
+          "options": [
+            "Phân lập virus từ máu",
+            "Tìm kháng thể IgM đặc hiệu trong DNT",
+            "Soi tươi dịch tỵ hầu",
+            "Cấy phân tìm virus"
+          ],
+          "answer": 1,
+          "explain": "Do nồng độ virus trong máu thấp và thoáng qua, việc tìm kháng thể IgM trong DNT hoặc máu bằng kỹ thuật ELISA là phương pháp chẩn đoán xác định chuẩn."
+        },
+        {
+          "q": "Trong quá trình điều trị, trẻ đột ngột xuất hiện đồng tử bên phải giãn 5mm, mất phản xạ ánh sáng. Xử trí cấp cứu ưu tiên:",
+          "options": [
+            "Tiêm tĩnh mạch diazepam",
+            "Truyền tĩnh mạch Mannitol 20%",
+            "Tiêm kháng sinh liều thứ hai",
+            "Chọc dò lại dịch não tủy"
+          ],
+          "answer": 1,
+          "explain": "Giãn đồng tử một bên kèm mất phản xạ ánh sáng là dấu hiệu chỉ điểm của thoát vị não cấp, cần sử dụng dung dịch ưu trương như Mannitol ngay để giảm áp lực nội sọ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 4 tuổi sốt, phát ban hoại tử trung tâm",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam 4 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì sốt và phát ban da. Bệnh sử: sốt cao đột ngột cách 12 giờ, kèm theo đau đầu và đau mỏi cơ. 4 giờ trước vào viện, mẹ thấy trên da trẻ xuất hiện các nốt chấm màu đỏ, tím lan nhanh ở vùng đùi và chân.<br><br><b>Khám lâm sàng:</b> Khám thấy trẻ tỉnh nhưng mệt mỏi, mạch nhanh 140 lần/phút, HA 90/60 mmHg. Trên da có nhiều ban xuất huyết, hình bản đồ, hoại tử trung tâm rải rác chi dưới và bụng. Cổ cứng (+).",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng hướng tới nhiều nhất:",
+          "options": [
+            "Nhiễm khuẩn huyết do tụ cầu",
+            "Viêm màng não do não mô cầu",
+            "Xuất huyết giảm tiểu cầu",
+            "Viêm mao mạch dị ứng"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng nhiễm trùng nặng phối hợp với ban xuất huyết hoại tử hình bản đồ lan nhanh và hội chứng màng não là dấu hiệu đặc trưng của nhiễm não mô cầu."
+        },
+        {
+          "q": "Đặc điểm ban xuất huyết của vi khuẩn này trên lâm sàng là:",
+          "options": [
+            "Chấm xuất huyết quanh mắt và cổ",
+            "Ban hoại tử hình bản đồ, lan nhanh",
+            "Mảng bầm tím đa lứa tuổi khắp thân mình",
+            "Ban đỏ dạng sẩn ngứa ở các nếp gấp"
+          ],
+          "answer": 1,
+          "explain": "Ban của não mô cầu (N. meningitidis) thường là các tử ban hoại tử, có xu hướng lan rất nhanh trong vài giờ, phản ánh tình trạng viêm mạch và đông máu nội mạch rải rác."
+        },
+        {
+          "q": "Xét nghiệm nhanh nhất để định hướng vi khuẩn gây bệnh tại giường:",
+          "options": [
+            "Cấy máu",
+            "Soi nhuộm Gram tử ban trên da",
+            "PCR dịch não tủy",
+            "Phản ứng ngưng tập latex DNT"
+          ],
+          "answer": 1,
+          "explain": "Soi nhuộm Gram các mảnh trích từ tử ban có thể thấy song cầu khuẩn Gram âm nội bào, giúp định hướng chẩn đoán nhanh chóng khi chưa có kết quả cấy."
+        },
+        {
+          "q": "Biện pháp quản lý đối với những người tiếp xúc gần với bệnh nhi:",
+          "options": [
+            "Cách ly tuyệt đối 21 ngày",
+            "Tiêm ngay vắc xin sởi-quai bị-rubella",
+            "Uống kháng sinh dự phòng Rifampicin",
+            "Không cần xử trí gì thêm"
+          ],
+          "answer": 2,
+          "explain": "Não mô cầu lây qua đường hô hấp, do đó người tiếp xúc gần cần được dùng kháng sinh dự phòng (Rifampicin hoặc Ciprofloxacin) để cắt đứt chuỗi lây truyền."
+        },
+        {
+          "q": "Biến chứng nguy hiểm nhất cần theo dõi sát trong những giờ đầu là:",
+          "options": [
+            "Suy thận mạn tính",
+            "Hội chứng Waterhouse-Friderichsen",
+            "Điếc thần kinh giác quan",
+            "Tràn mủ màng phổi"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng Waterhouse-Friderichsen (suy thượng thận cấp do xuất huyết) là biến chứng tối cấp của nhiễm não mô cầu, dẫn đến sốc không hồi phục và tử vong nhanh."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ 2 tuổi sốt kéo dài, sụt cân và lé mắt",
+      "body": "<b>Hành chính:</b> Trẻ 2 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì sốt kéo dài và quấy khóc. Bệnh diễn biến 2 tuần với sốt nhẹ về chiều, ăn kém, gầy sút cân (sụt 1kg). 3 ngày nay trẻ quấy khóc nhiều, thỉnh thoảng có nôn, sáng nay thấy mắt phải lé vào trong. Tiền sử gia đình có ông nội đang điều trị ho kéo dài.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh, lờ đờ, sốt 37,8°C, dấu hiệu cổ cứng (+), Brudzinski (+), sụp mi mắt phải. Phổi không rales.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào cần được đặt ra đầu tiên:",
+          "options": [
+            "Viêm màng não mủ do phế cầu",
+            "Viêm màng não do lao",
+            "Viêm não virus cấp tính",
+            "Phản ứng màng não do viêm phổi"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh diễn biến bán cấp (2 tuần), sốt nhẹ về chiều, sụt cân kèm tổn thương dây thần kinh sọ (lé mắt) và có nguồn lây lao rõ rệt gợi ý viêm màng não lao."
+        },
+        {
+          "q": "Hình ảnh điển hình trên phim chụp cắt lớp vi tính sọ não (CT-Scan) có tiêm thuốc của bệnh lý này:",
+          "options": [
+            "Dày và ngấm thuốc màng não vùng đáy não",
+            "Tổn thương giảm tỷ trọng thùy thái dương",
+            "Hình ảnh khối u có vách hóa",
+            "Não bình thường không ngấm thuốc"
+          ],
+          "answer": 0,
+          "explain": "Viêm màng não lao thường gây viêm dính tổ chức vùng đáy não, dẫn đến hình ảnh ngấm thuốc mạnh ở các bể nền trên CT hoặc MRI."
+        },
+        {
+          "q": "Đặc điểm dịch não tủy nào phù hợp với bệnh nhi:",
+          "options": [
+            "Áp lực giảm, nước trong, tế bào giảm",
+            "Dịch vàng chanh, lympho tăng, đường giảm",
+            "Dịch đục, đường tăng cao, muối tăng",
+            "Dịch trong, tế bào và sinh hóa bình thường"
+          ],
+          "answer": 1,
+          "explain": "Dịch não tủy lao điển hình có màu vàng chanh, tế bào tăng mức độ vừa (lympho chiếm ưu thế), protein tăng cao và đặc biệt đường, muối giảm."
+        },
+        {
+          "q": "Nguyên tắc điều trị quan trọng nhất đối với trẻ này:",
+          "options": [
+            "Dùng kháng sinh liều cao đường tĩnh mạch",
+            "Phối hợp các thuốc chống lao theo phác đồ",
+            "Chỉ cần điều trị hỗ trợ và nâng cao thể trạng",
+            "Phẫu thuật dẫn lưu dịch não tủy ngay"
+          ],
+          "answer": 1,
+          "explain": "Điều trị lao màng não bắt buộc phải phối hợp nhiều thuốc chống lao theo phác đồ dài hạn (thường dùng phác đồ có Streptomycin) để tiêu diệt vi khuẩn và phòng kháng thuốc."
+        },
+        {
+          "q": "Di chứng thường gặp nếu trẻ không được điều trị kịp thời:",
+          "options": [
+            "Béo phì và dậy thì sớm",
+            "Não úng thủy và liệt dây thần kinh sọ",
+            "Thiếu máu thiếu sắt mạn tính",
+            "Hen phế quản tái diễn"
+          ],
+          "answer": 1,
+          "explain": "Do tình trạng viêm dính màng não vùng đáy, trẻ dễ bị tắc nghẽn lưu thông dịch não tủy gây não úng thủy và tổn thương vĩnh viễn các dây thần kinh sọ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 10 tuổi co giật, hành vi bất thường, động tác mút nhai",
+      "body": "<b>Hành chính:</b> Bệnh nhi 10 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì co giật và rối loạn hành vi. Bệnh khởi phát 4 ngày trước với sốt nhẹ, đau đầu, sau đó trẻ có biểu hiện lo âu, sợ hãi vô cớ, nói nhảm. Ngày nay trẻ xuất hiện cơn co giật cục bộ tay trái lan ra toàn thân, sau cơn trẻ không tỉnh ngay.<br><br><b>Khám lâm sàng:</b> Trẻ có các động tác bất thường vùng miệng (mút, nhai), nhịp tim không đều, huyết áp dao động.<br><br><b>Cận lâm sàng:</b> Chụp MRI thấy tổn thương vùng thùy thái dương và hệ limbic.",
+      "questions": [
+        {
+          "q": "Căn nguyên virus hàng đầu cần nghĩ tới ở trẻ này:",
+          "options": [
+            "Virus viêm não Nhật Bản",
+            "Herpes Simplex Virus (HSV)",
+            "Virus sởi",
+            "Enterovirus 71"
+          ],
+          "answer": 1,
+          "explain": "Viêm não do HSV thường biểu hiện đặc trưng với rối loạn hành vi, tâm thần và tổn thương chọn lọc ở thùy thái dương trên phim MRI."
+        },
+        {
+          "q": "Thuốc điều trị đặc hiệu cần chỉ định ngay cho bệnh nhi:",
+          "options": [
+            "Ceftriaxone",
+            "Acyclovir",
+            "Amantadine",
+            "Ribavirin"
+          ],
+          "answer": 1,
+          "explain": "Acyclovir là thuốc kháng virus duy nhất có hiệu quả rõ rệt làm giảm tỷ lệ tử vong và di chứng trong viêm não do Herpes."
+        },
+        {
+          "q": "Xét nghiệm dịch não tủy nào có giá trị nhất để chẩn đoán xác định căn nguyên trên:",
+          "options": [
+            "Tìm kháng thể kháng nhân (ANA)",
+            "PCR tìm DNA của virus trong DNT",
+            "Nuôi cấy virus trên môi trường tế bào",
+            "Định lượng nồng độ Lactat DNT"
+          ],
+          "answer": 1,
+          "explain": "PCR dịch não tủy có độ nhạy và độ đặc hiệu rất cao trong việc phát hiện DNA của HSV, được xem là phương pháp chẩn đoán chuẩn hiện nay."
+        },
+        {
+          "q": "Chọn tập hợp các đặc điểm lâm sàng gợi ý viêm não do HSV:\n(1) Tổn thương khu trú thùy thái dương.\n(2) Thường có rối loạn tâm thần, hành vi sớm.\n(3) Co giật cục bộ hoặc toàn thân dai dẳng.\n(4) Luôn có ban phỏng nước quanh miệng.",
+          "options": [
+            "(1), (2), (4)",
+            "(1), (2), (3)",
+            "(2), (3), (4)",
+            "(1), (3), (4)"
+          ],
+          "answer": 1,
+          "explain": "Ban phỏng nước quanh miệng (herpes labialis) chỉ xuất hiện ở một tỷ lệ nhỏ và không phải là dấu hiệu bắt buộc để chẩn đoán viêm não HSV."
+        },
+        {
+          "q": "Tiên lượng của bệnh nhi này phụ thuộc chủ yếu vào yếu tố nào:",
+          "options": [
+            "Thời điểm bắt đầu dùng thuốc kháng virus",
+            "Mức độ sốt cao của trẻ",
+            "Số lượng bạch cầu trong máu ngoại vi",
+            "Kết quả xét nghiệm CRP"
+          ],
+          "answer": 0,
+          "explain": "Khởi đầu điều trị Acyclovir sớm (tốt nhất trong vòng 48 giờ từ khi có triệu chứng thần kinh) là yếu tố quyết định nhất đến khả năng phục hồi hoàn toàn của trẻ."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ sơ sinh 10 ngày tuổi sốt, bỏ bú, thóp phồng",
+      "body": "<b>Hành chính:</b> Trẻ sơ sinh 10 ngày tuổi, đẻ thường, đủ tháng, cân nặng 3,2kg.<br><br><b>Bệnh sử:</b> Vào viện vì sốt và bỏ bú. Mẹ có tiền sử sốt và dịch âm đạo đục trước khi sinh. 2 ngày nay trẻ bú kém, hay nôn, sốt nhẹ 38°C.<br><br><b>Khám lâm sàng:</b> Trẻ lờ đờ, da tái, thóp phồng nhẹ, dấu hiệu cổ cứng khó đánh thức. Nhịp thở 65 lần/phút, phổi không rales.",
+      "questions": [
+        {
+          "q": "Chẩn đoán ưu tiên hàng đầu ở trẻ sơ sinh này:",
+          "options": [
+            "Nhiễm khuẩn huyết và viêm màng não mủ",
+            "Viêm phổi sơ sinh nặng",
+            "Xuất huyết não do thiếu vitamin K",
+            "Vàng da nhân não"
+          ],
+          "answer": 0,
+          "explain": "Trẻ sơ sinh có hội chứng nhiễm trùng phối hợp bỏ bú và thóp phồng phải luôn cảnh giác cao độ với viêm màng não mủ."
+        },
+        {
+          "q": "Căn nguyên vi khuẩn thường gặp nhất gây bệnh ở lứa tuổi này là:",
+          "options": [
+            "S. pneumoniae và N. meningitidis",
+            "Liên cầu nhóm B và E. coli",
+            "H. influenzae và Tụ cầu vàng",
+            "Vi khuẩn lao và Mycoplasma"
+          ],
+          "answer": 1,
+          "explain": "Liên cầu nhóm B (GBS) và trực khuẩn đường ruột (E. coli) là hai tác nhân phổ biến nhất lây truyền từ đường sinh dục mẹ sang con."
+        },
+        {
+          "q": "Vì sao trẻ sơ sinh bị viêm màng não thường có triệu chứng lâm sàng không điển hình:",
+          "options": [
+            "Do hệ thống miễn dịch của trẻ quá mạnh",
+            "Do các khớp sọ chưa liền và đáp ứng lan tỏa",
+            "Do trẻ không có hệ thống thụ thể đau ở não",
+            "Do vi khuẩn sơ sinh không gây phản ứng viêm"
+          ],
+          "answer": 1,
+          "explain": "Ở trẻ sơ sinh, dấu hiệu màng não (cổ cứng, Kernig) thường âm tính vì hệ thần kinh chưa biệt hóa hoàn toàn và thóp chưa đóng giúp giảm áp lực tạm thời."
+        },
+        {
+          "q": "Lựa chọn kháng sinh phối hợp nào là hợp lý nhất ban đầu:",
+          "options": [
+            "Ceftriaxone + Vancomycin",
+            "Ampicillin + Gentamycin (hoặc Cefotaxime)",
+            "Ciprofloxacin + Metronidazole",
+            "Penicillin G + Kanamycin"
+          ],
+          "answer": 1,
+          "explain": "Phối hợp Ampicillin (đánh GBS, Listeria) và Aminoside hoặc Cefotaxime (đánh vi khuẩn Gram âm) là phác đồ chuẩn cho sơ sinh; lưu ý không dùng Ceftriaxone vì nguy cơ gây vàng da nhân."
+        },
+        {
+          "q": "Cần làm gì để phòng bệnh viêm màng não sớm cho trẻ sơ sinh này:",
+          "options": [
+            "Tiêm vắc xin phế cầu ngay sau sinh",
+            "Sàng lọc và điều trị liên cầu nhóm B ở mẹ trước đẻ",
+            "Cho trẻ uống kháng sinh dự phòng 1 tháng",
+            "Tiêm vitamin K liều cao cho mẹ"
+          ],
+          "answer": 1,
+          "explain": "Việc quết dịch âm đạo - trực tràng mẹ ở tuần 35-37 để tìm GBS và điều trị kháng sinh khi chuyển dạ là biện pháp phòng bệnh hữu hiệu nhất."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nữ 15 tuổi có hành vi bất thường, múa vờn",
+      "body": "<b>Hành chính:</b> Bệnh nhi nữ 15 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì những biểu hiện bất thường về tâm thần. Bệnh khởi phát từ 1 tháng nay, trẻ trở nên trầm cảm, sau đó lại hưng cảm quá khích, hay la hét và có những động tác múa vờn ở tay. 1 tuần nay trẻ xuất hiện các cơn gồng cứng người, nhịp tim thường xuyên nhanh >120 lần/phút.<br><br><b>Cận lâm sàng:</b> Xét nghiệm dịch não tủy thấy protein và tế bào bình thường. MRI sọ não không thấy tổn thương khu trú.",
+      "questions": [
+        {
+          "q": "Loại viêm não nào cần được nghi ngờ ở bệnh nhi này:",
+          "options": [
+            "Viêm não Nhật Bản thể ác tính",
+            "Viêm nội tự miễn (Anti-NMDA receptor)",
+            "Viêm não do virus dại",
+            "Viêm màng não mủ mất đầu"
+          ],
+          "answer": 1,
+          "explain": "Các triệu chứng rối loạn tâm thần kéo dài phối hợp với múa vờn và rối loạn thần kinh thực vật ở trẻ gái lớn gợi ý điển hình cho viêm não tự miễn."
+        },
+        {
+          "q": "Đối tượng nào có nguy cơ cao nhất mắc bệnh lý này:",
+          "options": [
+            "Trẻ trai dưới 5 tuổi sống ở nông thôn",
+            "Trẻ gái tuổi vị thành niên và phụ nữ trẻ",
+            "Trẻ sơ sinh đẻ non tháng",
+            "Người già có bệnh lý nền mạn tính"
+          ],
+          "answer": 1,
+          "explain": "Viêm não kháng thụ thể NMDA chiếm tỷ lệ cao ở giới nữ, đặc biệt là lứa tuổi thanh thiếu niên, có thể liên quan đến u quái buồng trứng."
+        },
+        {
+          "q": "Xét nghiệm quyết định để chẩn đoán xác định bệnh là:",
+          "options": [
+            "PCR tìm virus Herpes trong DNT",
+            "Tìm kháng thể kháng thụ thể NMDA trong máu và DNT",
+            "Cấy dịch não tủy tìm vi khuẩn",
+            "Chụp PET-CT toàn thân tìm khối u di căn"
+          ],
+          "answer": 1,
+          "explain": "Chẩn đoán xác định dựa trên việc phát hiện kháng thể IgG đặc hiệu chống lại đơn vị GluN1 của thụ thể NMDA trong dịch não tủy hoặc huyết thanh."
+        },
+        {
+          "q": "Tình trạng nhịp tim nhanh và huyết áp dao động ở bệnh nhi là do:",
+          "options": [
+            "Rối loạn chức năng hệ thần kinh tự chủ",
+            "Tình trạng nhiễm trùng huyết nặng",
+            "Suy tim cấp do viêm cơ tim",
+            "Phản ứng phụ của thuốc an thần"
+          ],
+          "answer": 0,
+          "explain": "Sự mất cân bằng giữa các con đường dẫn truyền kích thích và ức chế trong não ảnh hưởng trực tiếp đến trung tâm điều hòa tự chủ ở thân não."
+        },
+        {
+          "q": "Liệu pháp điều trị nào thường được ưu tiên lựa chọn đầu tiên:",
+          "options": [
+            "Kháng sinh phổ rộng kết hợp kháng virus",
+            "Thay huyết tương hoặc dùng IVIg phối hợp Corticoid",
+            "Phẫu thuật cắt bỏ thùy thái dương tổn thương",
+            "Điều trị bằng thuốc chống động kinh đơn thuần"
+          ],
+          "answer": 1,
+          "explain": "Đây là bệnh lý do cơ chế miễn dịch, vì vậy cần loại bỏ kháng thể gây bệnh bằng thay huyết tương, ức chế sản sinh kháng thể bằng corticoid liều cao hoặc globulin miễn dịch (IVIg)."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ nam 5 tuổi nôn nhiều, đau đầu, tiểu ít sau 5 ngày điều trị VMNM",
+      "body": "<b>Hành chính:</b> Trẻ nam 5 tuổi.<br><br><b>Bệnh sử:</b> Đang điều trị viêm màng não mủ ngày thứ 5 bằng Ceftriaxone. Trẻ đã hết sốt, tỉnh táo hơn. Tuy nhiên sáng nay trẻ xuất hiện nôn nhiều, đau đầu quay trở lại, tiểu rất ít mặc dù vẫn uống nước tốt.<br><br><b>Khám lâm sàng:</b> Khám thấy trẻ phù nhẹ, không sốt, phổi không rales.<br><br><b>Cận lâm sàng:</b> Xét nghiệm máu: Natri 122 mmol/l, áp lực thẩm thấu máu giảm, natri niệu tăng cao.",
+      "questions": [
+        {
+          "q": "Biến chứng nào đang xảy ra ở bệnh nhi này:",
+          "options": [
+            "Suy thận cấp do kháng sinh độc thận",
+            "Hội chứng tiết hormone chống bài niệu không thích hợp (SIADH)",
+            "Viêm màng não tái phát do kháng thuốc",
+            "Sốc nhiễm khuẩn giai đoạn muộn"
+          ],
+          "answer": 1,
+          "explain": "Hạ natri máu kèm áp lực thẩm thấu máu giảm và natri niệu cao ở bệnh nhân tổn thương thần kinh trung ương là các tiêu chuẩn của SIADH."
+        },
+        {
+          "q": "Cơ chế chính dẫn đến tình trạng hạ Natri máu ở bệnh nhi này:",
+          "options": [
+            "Do trẻ nôn nhiều mất muối qua đường tiêu hóa",
+            "Do thận tăng tái hấp thu nước quá mức gây pha loãng",
+            "Do vi khuẩn ăn mất lượng natri trong máu",
+            "Do tổn thương trực tiếp vùng vỏ thượng thận"
+          ],
+          "answer": 1,
+          "explain": "Tình trạng viêm tại não kích thích thùy sau tuyến yên tiết quá nhiều ADH, làm ống thận tăng giữ nước gây tình trạng hạ natri máu do pha loãng."
+        },
+        {
+          "q": "Xử trí quan trọng nhất đối với tình trạng hạ Natri máu này là:",
+          "options": [
+            "Truyền dịch NaCl 0,9% tốc độ cao",
+            "Hạn chế lượng nước đưa vào cơ thể",
+            "Cho trẻ ăn thêm nhiều muối đường uống",
+            "Tiêm thuốc lợi tiểu Furosemid liều cao"
+          ],
+          "answer": 1,
+          "explain": "Trong SIADH, cơ thể đang dư thừa nước, nên biện pháp điều trị căn bản là hạn chế dịch (thường khoảng 1/2 đến 2/3 nhu cầu bình thường)."
+        },
+        {
+          "q": "Nếu Natri máu giảm xuống dưới 120 mmol/l và trẻ có co giật, cần dùng dung dịch nào:",
+          "options": [
+            "Glucose 5%",
+            "Natri Clorid 3%",
+            "Ringer Lactat",
+            "Albumin 20%"
+          ],
+          "answer": 1,
+          "explain": "Khi hạ natri máu có triệu chứng thần kinh nặng (co giật), cần dùng dung dịch muối ưu trương 3% để nâng nhanh natri máu lên ngưỡng an toàn (thường là tăng 5 mmol/l)."
+        },
+        {
+          "q": "Đặc điểm nào sau đây KHÔNG phù hợp với hội chứng SIADH trong viêm màng não:",
+          "options": [
+            "Natri máu giảm mạnh",
+            "Áp lực thẩm thấu nước tiểu tăng cao",
+            "Trẻ có tình trạng mất nước nặng trên lâm sàng",
+            "Thể tích dịch ngoại bào bình thường hoặc tăng"
+          ],
+          "answer": 2,
+          "explain": "SIADH đặc trưng bởi tình trạng \"thừa nước\" nhẹ trong tế bào, nên lâm sàng không bao giờ có dấu hiệu mất nước (mắt trũng, nếp véo da mất chậm)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 7 tuổi hôn mê sau viêm đường hô hấp",
+      "body": "<b>Hành chính:</b> Bệnh nhi 7 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì hôn mê sau một đợt viêm đường hô hấp. 1 tuần trước trẻ bị ho, sốt nhẹ, đã khỏi. 2 ngày nay trẻ sốt cao trở lại, đau đầu, sau đó hôn mê rất nhanh.<br><br><b>Cận lâm sàng:</b> MRI sọ não thấy tổn thương dạng đám, đối xứng ở chất trắng hai bên bán cầu, đồi thị và thân não, ngấm thuốc dạng viền. DNT có sự phân ly đạm - tế bào.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất đối với trường hợp này:",
+          "options": [
+            "Viêm não Nhật Bản B",
+            "Viêm não cấp lan tỏa hậu nhiễm (ADEM)",
+            "Viêm màng não mủ do tụ cầu",
+            "Áp xe não đa ổ"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh thần kinh cấp tính xảy ra sau nhiễm trùng hô hấp (hậu nhiễm) phối hợp với tổn thương chất trắng đa ổ trên MRI gợi ý bệnh lý ADEM."
+        },
+        {
+          "q": "Bản chất của bệnh lý ADEM là:",
+          "options": [
+            "Quá trình nhiễm trùng trực tiếp nhu mô não",
+            "Phản ứng miễn dịch hủy myelin của hệ thần kinh trung ương",
+            "Tình trạng tắc mạch não diện rộng do vi khuẩn",
+            "Xuất huyết lan tỏa các nhân xám trung ương"
+          ],
+          "answer": 1,
+          "explain": "ADEM là một bệnh lý viêm tự miễn, trong đó hệ miễn dịch tấn công vào bao myelin của các sợi thần kinh trong não và tủy sống sau một tác nhân kích thích (virus, vắc xin)."
+        },
+        {
+          "q": "Thời điểm xuất hiện các triệu chứng thần kinh trong ADEM thường là:",
+          "options": [
+            "Ngay ngày đầu tiên khi bị cảm lạnh",
+            "Sau đợt nhiễm trùng hoặc tiêm chủng 1-3 tuần",
+            "Kéo dài liên tục trên 6 tháng không nghỉ",
+            "Chỉ xuất hiện vào ban đêm khi trẻ ngủ sâu"
+          ],
+          "answer": 1,
+          "explain": "Khoảng thời gian từ 1-3 tuần là lúc cơ thể sản sinh đủ lượng kháng thể phản ứng chéo gây tổn thương nhu mô não."
+        },
+        {
+          "q": "Xét nghiệm nào giúp hỗ trợ chẩn đoán phân biệt ADEM với viêm não virus:",
+          "options": [
+            "Hình ảnh tổn thương đa ổ, không đồng nhất trên MRI",
+            "Số lượng bạch cầu máu tăng rất cao",
+            "Kết quả nuôi cấy dịch não tủy âm tính",
+            "Nồng độ đường trong dịch não tủy giảm"
+          ],
+          "answer": 0,
+          "explain": "MRI là công cụ quan trọng nhất để phân biệt: ADEM gây tổn thương chất trắng lan tỏa, trong khi viêm não virus (như HSV) thường khu trú ở chất xám."
+        },
+        {
+          "q": "Điều trị chính trong giai đoạn cấp của ADEM:",
+          "options": [
+            "Kháng sinh phổ rộng phối hợp kháng virus",
+            "Methylprednisolone liều cao (Pulse therapy)",
+            "Phẫu thuật bóc tách tổ chức hủy myelin",
+            "Tiêm vắc xin nhắc lại để tăng miễn dịch"
+          ],
+          "answer": 1,
+          "explain": "Corticoid liều cao (30mg/kg/ngày) giúp ức chế nhanh chóng phản ứng miễn dịch cấp tính, làm giảm viêm và ngăn chặn quá trình hủy myelin tiến triển."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ nam 8 tuổi sốt cao, đau đầu, liệt VI trái sau điều trị VMNM",
+      "body": "<b>Hành chính:</b> Trẻ nam 8 tuổi.<br><br><b>Bệnh sử:</b> Được chẩn đoán viêm màng não mủ do phế cầu ngày thứ 10. Trẻ đang điều trị kháng sinh ổn định thì đột ngột sốt cao trở lại, đau đầu dữ dội, nôn vọt.<br><br><b>Khám lâm sàng:</b> Khám thấy trẻ có hội chứng màng não rõ, liệt dây thần kinh VI bên trái.<br><br><b>Cận lâm sàng:</b> Chọc dò DNT lần này thấy dịch vàng đục, protein tăng vọt lên 5g/l, tế bào tăng rất cao chủ yếu bạch cầu đa nhân thoái hóa.",
+      "questions": [
+        {
+          "q": "Biến chứng nào cần được nghĩ tới ngay:",
+          "options": [
+            "Dày dính và vách hóa màng não (Viêm thất não)",
+            "Hạ đường huyết do điều trị",
+            "Xuất huyết não thứ phát",
+            "Nhồi máu cơ tim cấp"
+          ],
+          "answer": 0,
+          "explain": "Sốt lại kèm triệu chứng thần kinh nặng lên và DNT biến đổi xấu đi rõ rệt gợi ý biến chứng vách hóa hoặc viêm não thất."
+        },
+        {
+          "q": "Dấu hiệu nào trên chẩn đoán hình ảnh gợi ý tình trạng vách hóa màng não:",
+          "options": [
+            "Các rãnh não giãn rộng ra xung quanh",
+            "Hình ảnh các dải xơ ngấm thuốc trong khoang não thất",
+            "Nhu mô não hoàn toàn bình thường",
+            "Không thấy hình ảnh não thất trên phim"
+          ],
+          "answer": 1,
+          "explain": "Quá trình viêm mủ không được kiểm soát tốt gây lắng đọng fibrin, tạo thành các vách ngăn trong não thất hoặc khoang dưới nhện, gây cản trở lưu thông dịch."
+        },
+        {
+          "q": "Sự mâu thuẫn giữa kết quả xét nghiệm DNT (rất nặng) và lâm sàng cải thiện chậm gọi là hiện tượng:",
+          "options": [
+            "Phân ly đạm - tế bào",
+            "Phân ly lâm sàng - dịch não tủy",
+            "Phản ứng màng não giả",
+            "Hội chứng não cấp tính"
+          ],
+          "answer": 1,
+          "explain": "Hiện tượng này phản ánh tình trạng nhiễm trùng khu trú (ổ mủ kín) mà kháng sinh đường tĩnh mạch khó thấm tới, làm các chỉ số DNT rất xấu dù trẻ chưa có biểu hiện hôn mê sâu."
+        },
+        {
+          "q": "Xử trí tiếp theo phù hợp nhất đối với trẻ này:",
+          "options": [
+            "Giữ nguyên phác đồ kháng sinh cũ thêm 1 tuần",
+            "Hội chẩn ngoại thần kinh để đặt dẫn lưu hoặc bơm kháng sinh não thất",
+            "Ngừng kháng sinh vì đã dùng đủ 10 ngày",
+            "Cho trẻ về nhà điều trị ngoại trú bằng thuốc uống"
+          ],
+          "answer": 1,
+          "explain": "Khi có vách hóa, việc điều trị nội khoa đơn thuần thường thất bại, cần can thiệp ngoại khoa để phá vách hoặc đưa kháng sinh trực tiếp vào ổ nhiễm trùng."
+        },
+        {
+          "q": "Để hạn chế biến chứng dày dính màng não trong viêm màng não mủ phế cầu, thuốc nào thường được phối hợp sớm:",
+          "options": [
+            "Dexamethasone",
+            "Aspirin",
+            "Heparin",
+            "Vitamin C liều cao"
+          ],
+          "answer": 0,
+          "explain": "Dexamethasone dùng sớm (trước hoặc cùng liều kháng sinh đầu) giúp giảm phản ứng viêm quá mức, từ đó giảm tỷ lệ dày dính màng não và điếc sau này."
+        }
+      ]
+    }
+  ]
+}
