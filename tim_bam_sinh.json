@@ -1,0 +1,1230 @@
+{
+  "name": "Tim bẩm sinh",
+  "description": "Bộ case study lâm sàng về các bệnh lý tim bẩm sinh thường gặp ở trẻ em, bao gồm cơ chế bệnh sinh, chẩn đoán và điều trị.",
+  "level": "Ôn thi nội trú",
+  "type": "cases",
+  "category": "Nhi",
+  "subcategory": "Tim mạch",
+  "cases": [
+    {
+      "title": "Bé trai 2 tháng tuổi bú kém và thở nhanh",
+      "body": "<b>Hành chính:</b> Bé trai 2 tháng tuổi.<br><br><b>Bệnh sử:</b> Được mẹ đưa đến khám vì bú kém và thở nhanh hơn bình thường khoảng 1 tháng nay. Bệnh sử ghi nhận bé thường vã mồ hôi nhiều khi bú, mỗi lần bú ngắt quãng và tổng lượng sữa bú ít hơn các trẻ cùng tuổi.<br><br><b>Tiền sử:</b> Bé sinh đủ tháng, cân nặng lúc sinh 3.1 kg, không ghi nhận tiền sử bất thường lúc sinh.<br><br><b>Khám lâm sàng:</b> Khám toàn thân ghi nhận bé tỉnh, tổng trạng trung bình, cân nặng 4.2 kg, nhiệt độ 37.2°C, nhịp thở 60 lần/phút, mạch 150 lần/phút, SpO2 96% khí trời, không thấy tím. Khám tim mạch thấy lồng ngực không biến dạng, mỏm tim ở khoang liên sườn 5 đường trung đòn trái, có rung miu tâm thu ở khoang liên sườn 3-4 cạnh ức trái, nghe có tiếng thổi toàn tâm thu cường độ 4/6 ở vị trí tương ứng, lan ra xung quanh, T2 mạnh ở ổ van động mạch phổi. Phổi thông khí đều hai bên, không nghe ran. Bụng mềm, gan mấp mé bờ sườn. Mạch bẹn bắt rõ, đều hai bên.<br><br><b>Xét nghiệm:</b> Xét nghiệm công thức máu và điện giải đồ trong giới hạn bình thường. X-quang ngực thẳng cho thấy hình ảnh tăng tuần hoàn phổi và bóng tim to.",
+      "questions": [
+        {
+          "q": "Chẩn đoán có khả năng nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Còn ống động mạch (PDA)",
+            "Thông liên thất (VSD)",
+            "Thông liên nhĩ (ASD)",
+            "Tứ chứng Fallot (TOF)"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh suy tim trái (bú kém, thở nhanh, vã mồ hôi) ở trẻ nhỏ, kèm tiếng thổi toàn tâm thu 4/6 ở liên sườn 3-4 cạnh ức trái và X-quang tim to, tăng tuần hoàn phổi là điển hình của Thông liên thất (VSD) lỗ lớn. PDA gây thổi liên tục, ASD thường ít triệu chứng và thổi tâm thu ở ổ phổi, TOF có triệu chứng tím.[cite: 10]"
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính gây ra các triệu chứng suy tim ở bệnh nhân này là gì?",
+          "options": [
+            "Tăng áp động mạch phổi do luồng thông phải-trái.",
+            "Giảm tưới máu hệ thống do tắc nghẽn đường ra thất phải.",
+            "Tăng gánh thể tích thất trái do luồng thông trái-phải.",
+            "Thiếu oxy mạn tính do máu pha trộn ở tầng nhĩ."
+          ],
+          "answer": 2,
+          "explain": "Trong VSD, có luồng thông từ thất trái (áp lực cao) sang thất phải (áp lực thấp) trong thì tâm thu. Lượng máu này sau đó lên phổi rồi trở về nhĩ trái và thất trái, gây tăng gánh thể tích (tăng tiền gánh) cho thất trái. Thất trái phải làm việc nhiều hơn để tống máu đi, dẫn đến phì đại và cuối cùng là suy tim.[cite: 10]"
+        },
+        {
+          "q": "Cận lâm sàng nào sau đây có giá trị nhất để chẩn đoán xác định và đánh giá mức độ nặng của bệnh?",
+          "options": [
+            "Điện tâm đồ (ECG)",
+            "Chụp cắt lớp vi tính (CT) tim",
+            "Siêu âm tim Doppler màu",
+            "Thông tim"
+          ],
+          "answer": 2,
+          "explain": "Siêu âm tim Doppler màu là tiêu chuẩn vàng, cho phép xác định vị trí, kích thước lỗ thông, chiều và vận tốc luồng thông, áp lực động mạch phổi, cũng như đánh giá chức năng các buồng tim, từ đó đưa ra quyết định điều trị.[cite: 10]"
+        },
+        {
+          "q": "Đặc điểm tiếng thổi của bệnh nhân này (toàn tâm thu, cường độ 4/6, vị trí liên sườn 3-4 cạnh ức trái) gợi ý nhiều nhất đến thể bệnh nào?",
+          "options": [
+            "Thông liên thất phần quanh màng",
+            "Thông liên thất phần cơ",
+            "Thông liên thất phần phễu",
+            "Thông liên thất phần buồng nhận"
+          ],
+          "answer": 0,
+          "explain": "Tiếng thổi toàn tâm thu, dạng nan hoa lan ra xung quanh mỏm tim, nghe rõ nhất ở liên sườn 3-4 cạnh ức trái là đặc điểm kinh điển của thông liên thất phần quanh màng, là thể hay gặp nhất (khoảng 80%).[cite: 10]"
+        },
+        {
+          "q": "Biến chứng lâu dài nguy hiểm nhất nếu không được can thiệp phẫu thuật kịp thời là gì?",
+          "options": [
+            "Viêm nội tâm mạc nhiễm khuẩn",
+            "Hội chứng Eisenmenger",
+            "Loạn nhịp nhĩ",
+            "Áp xe não"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng Eisenmenger là tình trạng tăng áp động mạch phổi cố định do luồng thông trái-phải lớn kéo dài, dẫn đến đảo chiều luồng thông (shunt phải trái). Khi đó, bệnh nhân sẽ xuất hiện tím, không còn chỉ định phẫu thuật và tiên lượng rất xấu.[cite: 10]"
+        }
+      ]
+    },
+    {
+      "title": "Bé gái sơ sinh 3 ngày tuổi tím tái toàn thân",
+      "body": "<b>Hành chính:</b> Bé gái sơ sinh 3 ngày tuổi.<br><br><b>Tiền sử:</b> Sinh thường đủ tháng. Tiền sử sản khoa không phát hiện bất thường. Sau sinh bé khóc ngay, Apgar 8-9.<br><br><b>Bệnh sử:</b> Khoảng 6 giờ sau sinh, bé bắt đầu có biểu hiện tím môi và đầu chi, tím tăng lên khi khóc. Trẻ được chuyển đến khoa Sơ sinh vì tím tái toàn thân.<br><br><b>Khám lâm sàng:</b> Khám ghi nhận trẻ tỉnh, có biểu hiện thở nhanh 65 lần/phút, co kéo nhẹ, SpO2 đo ở cả tay phải và chân đều là 75% khi thở khí trời, tăng lên 80% khi thở oxy qua cannula. Nhịp tim 160 lần/phút, huyết áp tay và chân tương đương. Khám tim nghe thấy tiếng T2 đơn độc, mạnh; không nghe rõ tiếng thổi hoặc có tiếng thổi tâm thu rất nhẹ ở bờ trái xương ức. Phổi không ran. Bụng mềm, gan 2 cm dưới bờ sườn. Mạch ngoại vi bắt rõ.<br><br><b>Xét nghiệm:</b> Khí máu động mạch cho thấy tình trạng toan chuyển hóa nhẹ. X-quang ngực cho thấy bóng tim hình \"quả trứng nằm nghiêng\" (egg-on-a-string) và tuần hoàn phổi bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào là phù hợp nhất với bệnh cảnh trên?",
+          "options": [
+            "Bất thường tĩnh mạch phổi trở về toàn phần (TAPVR)",
+            "Thất phải hai đường ra (DORV)",
+            "Chuyển vị đại động mạch (TGA)",
+            "Thân chung động mạch (Truncus Arteriosus)"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh sơ sinh tím nặng, ít đáp ứng oxy, tiếng T2 đơn độc, và đặc biệt là X-quang tim hình \"quả trứng\" là rất điển hình cho Chuyển vị đại động mạch (TGA), cụ thể là D-TGA.[cite: 10]"
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh nào giải thích tình trạng tím nặng và ít đáp ứng với oxy của bệnh nhân?",
+          "options": [
+            "Dòng máu từ tĩnh mạch chủ đổ trực tiếp vào nhĩ trái.",
+            "Hai vòng tuần hoàn hệ thống và tuần hoàn phổi tồn tại song song, độc lập.",
+            "Tắc nghẽn hoàn toàn đường ra của thất phải.",
+            "Chỉ có một động mạch lớn duy nhất xuất phát từ tim."
+          ],
+          "answer": 1,
+          "explain": "Trong D-TGA, động mạch chủ xuất phát từ thất phải và động mạch phổi xuất phát từ thất trái. Điều này tạo ra hai vòng tuần hoàn song song: máu nghèo oxy từ tĩnh mạch chủ về tim phải rồi ra thẳng động mạch chủ đi nuôi cơ thể, và máu giàu oxy từ phổi về tim trái rồi lại bơm lên phổi. Sự sống của trẻ phụ thuộc hoàn toàn vào sự pha trộn máu giữa hai vòng tuần hoàn này qua các lỗ thông như lỗ bầu dục (PFO), ống động mạch (PDA), hoặc thông liên thất (VSD).[cite: 10]"
+        },
+        {
+          "q": "Điều trị cấp cứu ban đầu nào là quan trọng nhất để duy trì sự sống cho bệnh nhân này trong khi chờ phẫu thuật?",
+          "options": [
+            "Truyền Prostaglandin E1 (PGE1)",
+            "Sử dụng lợi tiểu Furosemide liều cao",
+            "Cho thở máy với PEEP cao",
+            "Dùng thuốc tăng co bóp cơ tim Digoxin"
+          ],
+          "answer": 0,
+          "explain": "Prostaglandin E1 (PGE1) có tác dụng giữ cho ống động mạch không bị đóng lại, duy trì luồng thông giữa động mạch chủ và động mạch phổi, giúp tăng pha trộn máu và cải thiện tình trạng thiếu oxy, là biện pháp cứu mạng hàng đầu cho các bệnh tim bẩm sinh phụ thuộc ống động mạch.[cite: 10]"
+        },
+        {
+          "q": "Dấu hiệu X-quang \"quả trứng nằm nghiêng\" (egg-on-a-string) là do đâu?",
+          "options": [
+            "Thất phải giãn lớn đẩy mỏm tim lên cao.",
+            "Cung động mạch phổi bị lõm sâu.",
+            "Trung thất trên bị hẹp lại do bất sản tuyến ức.",
+            "Bóng tim to tròn và cuống mạch bị hẹp do vị trí bất thường của động mạch chủ và động mạch phổi."
+          ],
+          "answer": 3,
+          "explain": "Hình ảnh \"quả trứng\" là do bóng tim to tròn, còn \"sợi dây\" là do cuống mạch (trung thất trên) bị hẹp. Cuống mạch hẹp vì trong TGA, động mạch chủ nằm phía trước và song song với động mạch phổi thay vì bắt chéo như bình thường.[cite: 10]"
+        },
+        {
+          "q": "Thủ thuật can thiệp tạm thời nào thường được thực hiện để cải thiện sự pha trộn máu ở tầng nhĩ?",
+          "options": [
+            "Đặt shunt Blalock-Taussig-Thomas (BTT)",
+            "Phá vách liên nhĩ bằng bóng qua da (thủ thuật Rashkind)",
+            "Đai động mạch phổi (PA banding)",
+            "Phẫu thuật Norwood giai đoạn 1"
+          ],
+          "answer": 1,
+          "explain": "Thủ thuật Rashkind (balloon atrial septostomy) là dùng một catheter có bóng đưa qua tĩnh mạch rốn vào nhĩ phải, qua lỗ bầu dục sang nhĩ trái, sau đó bơm căng bóng và giật mạnh để xé rộng vách liên nhĩ, tạo ra một lỗ thông liên nhĩ lớn, giúp máu pha trộn tốt hơn ở tầng nhĩ, cải thiện oxy hóa máu hệ thống.[cite: 10]"
+        }
+      ]
+    },
+    {
+      "title": "Bé gái 5 tuổi có tiếng T2 tách đôi cố định",
+      "body": "<b>Hành chính:</b> Trẻ gái 5 tuổi.<br><br><b>Bệnh sử:</b> Trẻ được đưa đến phòng khám tim mạch để kiểm tra sức khỏe định kỳ. Trẻ phát triển thể chất và tinh thần bình thường, không có triệu chứng cơ năng nào, chưa từng nhập viện vì bệnh lý nặng.<br><br><b>Tiền sử:</b> Gia đình không có ai mắc bệnh tim bẩm sinh.<br><br><b>Khám lâm sàng:</b> Khám toàn thân thấy trẻ tỉnh táo, hồng hào, sinh hiệu ổn định: mạch 88 lần/phút, huyết áp 95/60 mmHg, nhịp thở 20 lần/phút, SpO2 99%. Khám tim thấy mỏm tim ở khoang liên sườn 4 đường trung đòn, không có rung miu. Nghe tim có tiếng T2 tách đôi cố định, không thay đổi theo hô hấp, kèm theo tiếng thổi tâm thu dạng tống máu, cường độ 2/6 ở khoang liên sườn 2 cạnh ức trái. Phổi thông khí rõ, không ran. Các cơ quan khác không phát hiện bất thường.<br><br><b>Xét nghiệm:</b> Điện tâm đồ cho thấy hình ảnh trục lệch phải và block nhánh phải không hoàn toàn (dạng rsR' ở V1).",
+      "questions": [
+        {
+          "q": "Dựa vào các dấu hiệu lâm sàng và cận lâm sàng, chẩn đoán nào là phù hợp nhất?",
+          "options": [
+            "Hẹp van động mạch phổi",
+            "Thông liên thất lỗ nhỏ",
+            "Thông liên nhĩ lỗ thứ phát (ASD type II)",
+            "Hẹp eo động mạch chủ"
+          ],
+          "answer": 2,
+          "explain": "Sự kết hợp của các dấu hiệu: không có triệu chứng cơ năng, tiếng T2 tách đôi cố định và tiếng thổi tâm thu tống máu ở ổ van động mạch phổi là bộ ba kinh điển của Thông liên nhĩ (ASD). ECG có trục phải và block nhánh phải không hoàn toàn càng củng cố chẩn đoán này.[cite: 10]"
+        },
+        {
+          "q": "Cơ chế gây ra tiếng T2 tách đôi cố định trong bệnh lý này là gì?",
+          "options": [
+            "Chênh áp lớn qua van động mạch phổi làm van đóng muộn.",
+            "Thất trái tống máu kéo dài hơn bình thường.",
+            "Tăng gánh thể tích thất phải làm kéo dài thời gian tống máu của thất phải, khiến van động mạch phổi luôn đóng sau van động mạch chủ, bất kể chu kỳ hô hấp.",
+            "Dòng chảy bất thường qua vách liên thất gây rối loạn hoạt động của van ba lá."
+          ],
+          "answer": 2,
+          "explain": "Do luồng thông trái-phải ở tầng nhĩ, thất phải nhận một lượng máu nhiều hơn bình thường (tăng gánh thể tích). Điều này làm thời gian tống máu của thất phải kéo dài ra, khiến van động mạch phổi (P2) luôn đóng muộn hơn van động mạch chủ (A2). Khi hít vào, máu về nhĩ phải nhiều hơn nhưng lượng máu này được bù trừ bằng việc giảm bớt luồng thông T-P qua lỗ ASD, do đó khoảng A2-P2 gần như không đổi. Đây là dấu hiệu rất đặc hiệu.[cite: 10]"
+        },
+        {
+          "q": "Tại sao bệnh nhân này gần như không có triệu chứng cơ năng dù đã 5 tuổi?",
+          "options": [
+            "Vì áp lực trong nhĩ phải và nhĩ trái gần như bằng nhau.",
+            "Vì luồng thông nhỏ và áp lực động mạch phổi còn thấp, cơ thể có khả năng thích nghi tốt.",
+            "Vì có luồng thông phải trái bù trừ.",
+            "Vì bệnh tự khỏi sau 1 tuổi."
+          ],
+          "answer": 1,
+          "explain": "Ở trẻ nhỏ và thanh thiếu niên, áp lực động mạch phổi thường vẫn còn bình thường hoặc tăng nhẹ. Thất phải có khả năng giãn ra để thích nghi với tình trạng tăng gánh thể tích kéo dài mà không gây ra triệu chứng suy tim rõ rệt. Các triệu chứng thường chỉ xuất hiện ở tuổi trung niên.[cite: 10]"
+        },
+        {
+          "q": "Hình ảnh block nhánh phải không hoàn toàn trên ECG phản ánh tình trạng sinh lý bệnh nào?",
+          "options": [
+            "Dày thất trái thứ phát.",
+            "Thiếu máu cơ tim thất phải.",
+            "Tăng gánh thể tích thất phải.",
+            "Rối loạn dẫn truyền bẩm sinh."
+          ],
+          "answer": 2,
+          "explain": "Block nhánh phải không hoàn toàn (dạng rSR' ở V1-V2) là do tình trạng tăng gánh thể tích thất phải gây giãn buồng thất phải và trì hoãn quá trình khử cực ở vùng phễu thất phải, không phải là một block thực sự tại nhánh phải của bó His. Đây là một dấu hiệu điện tâm đồ rất gợi ý của ASD.[cite: 10]"
+        },
+        {
+          "q": "Nếu không được can thiệp, biến chứng thường gặp nhất khi bệnh nhân đến tuổi trưởng thành là gì?",
+          "options": [
+            "Tăng áp động mạch phổi và suy tim phải",
+            "Hội chứng Eisenmenger",
+            "Viêm nội tâm mạc nhiễm khuẩn",
+            "Tai biến mạch máu não do huyết khối nghịch thường"
+          ],
+          "answer": 0,
+          "explain": "Theo thời gian, luồng thông T-P lớn và kéo dài sẽ gây tái cấu trúc mạch máu phổi, dẫn đến tăng áp động mạch phổi và tăng hậu gánh cho thất phải. Cuối cùng, thất phải sẽ suy giảm chức năng, gây ra các triệu chứng của suy tim phải. Huyết khối nghịch thường gây tai biến mạch máu não cũng là một biến chứng nguy hiểm nhưng ít gặp hơn.[cite: 10]"
+        }
+      ]
+    },
+    {
+      "title": "Bé trai 6 tháng tuổi hội chứng Down khó thở và chậm tăng cân",
+      "body": "<b>Hành chính:</b> Bé trai 6 tháng tuổi.<br><br><b>Bệnh sử:</b> Được đưa đến khám vì khó thở và chậm tăng cân. Mẹ bé cho biết bé thở nhanh gần như liên tục, bú rất mau mệt và hay bị viêm phổi tái đi tái lại.<br><br><b>Tiền sử:</b> Có hội chứng Down.<br><br><b>Khám lâm sàng:</b> Khám thấy trẻ có dấu hiệu suy hô hấp, thở nhanh 70 lần/phút, rút lõm lồng ngực. Mạch 165 lần/phút, SpO2 90% khí trời. Tim có tiếng T2 mạnh, nghe được một tiếng thổi toàn tâm thu lớn ở vùng thấp bờ trái xương ức và một tiếng thổi tâm trương ở mỏm. Gan to 4 cm dưới bờ sườn.<br><br><b>Xét nghiệm:</b> X-quang ngực cho thấy bóng tim rất to và tăng đậm tuần hoàn phổi. Siêu âm tim ghi nhận có khuyết lớn ở cả vách liên nhĩ phần nguyên phát và vách liên thất phần buồng nhận, kèm theo chỉ có một bộ máy van nhĩ thất chung.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định của bệnh nhân này là gì?",
+          "options": [
+            "Thông liên thất phần cơ lỗ lớn",
+            "Kênh nhĩ thất toàn phần",
+            "Thân chung động mạch type I",
+            "Tứ chứng Fallot thể không có van động mạch phổi"
+          ],
+          "answer": 1,
+          "explain": "Hình ảnh siêu âm mô tả khuyết ở vách liên nhĩ phần nguyên phát (lỗ thông liên nhĩ tiên phát) và vách liên thất phần buồng nhận, cùng với một bộ máy van nhĩ thất chung là các đặc điểm định nghĩa của Kênh nhĩ thất toàn phần (Atrioventricular Septal Defect - AVSD).[cite: 10]"
+        },
+        {
+          "q": "Yếu tố nguy cơ di truyền nào liên quan chặt chẽ nhất với bệnh lý này?",
+          "options": [
+            "Hội chứng Turner (XO)",
+            "Hội chứng Marfan",
+            "Trisomy 21 (Hội chứng Down)",
+            "Hội chứng DiGeorge (Mất đoạn 22q11)"
+          ],
+          "answer": 2,
+          "explain": "Kênh nhĩ thất là dị tật tim bẩm sinh phổ biến nhất ở trẻ có Trisomy 21 (hội chứng Down), chiếm khoảng 40-50% các trường hợp bệnh tim ở nhóm bệnh nhân này.[cite: 10]"
+        },
+        {
+          "q": "Tiếng thổi tâm trương ở mỏm trong bệnh cảnh này có khả năng nhất là do đâu?",
+          "options": [
+            "Hẹp van hai lá tương đối do tăng lưu lượng máu qua van.",
+            "Dòng chảy qua lỗ thông liên nhĩ.",
+            "Hở van động mạch chủ đi kèm.",
+            "Hở van nhĩ thất chung."
+          ],
+          "answer": 0,
+          "explain": "Do luồng thông trái phải lớn ở tầng nhĩ và thất, lưu lượng máu qua van nhĩ thất (đặc biệt là van nhĩ thất trái) rất lớn. Sự gia tăng lưu lượng này tạo ra một tình trạng hẹp van tương đối trong thì tâm trương, gây ra tiếng thổi tâm trương (diastolic rumble) ở mỏm, tương tự như trong hẹp van hai lá thực thể.[cite: 10]"
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính gây ra tình trạng suy tim nặng và tăng áp phổi sớm ở bệnh này là gì?",
+          "options": [
+            "Pha trộn máu hoàn toàn ở tầng thất.",
+            "Tắc nghẽn đường ra thất trái.",
+            "Luồng thông trái-phải lớn ở cả tầng nhĩ và tầng thất, gây tăng gánh thể tích và áp lực nặng nề cho tuần hoàn phổi.",
+            "Bất thường hồi lưu tĩnh mạch phổi."
+          ],
+          "answer": 2,
+          "explain": "Sự tồn tại của các lỗ thông lớn ở cả tầng nhĩ và thất cho phép máu từ tuần hoàn hệ thống (áp lực cao) chảy ạt sang tuần hoàn phổi (áp lực thấp), gây quá tải thể tích và áp lực nghiêm trọng lên thất phải và động mạch phổi. Điều này dẫn đến suy tim sung huyết nặng và tiến triển nhanh chóng đến bệnh lý mạch máu phổi không hồi phục.[cite: 10]"
+        },
+        {
+          "q": "Hướng điều trị tối ưu cho bệnh nhân này là gì?",
+          "options": [
+            "Điều trị nội khoa suy tim và chờ trẻ lớn hơn để phẫu thuật.",
+            "Can thiệp bít thông liên nhĩ qua da.",
+            "Phẫu thuật sửa chữa toàn bộ trong giai đoạn nhũ nhi (trước 6 tháng tuổi).",
+            "Đai động mạch phổi (PA banding) để điều trị tạm thời."
+          ],
+          "answer": 2,
+          "explain": "Do nguy cơ tăng áp phổi cố định (hội chứng Eisenmenger) phát triển rất sớm, phẫu thuật sửa chữa toàn bộ (vá lỗ thông, tái tạo van nhĩ thất) được chỉ định thực hiện sớm, thường là trong khoảng 3-6 tháng tuổi, để ngăn ngừa biến chứng này và cải thiện triệu chứng suy tim.[cite: 10]"
+        }
+      ]
+    },
+    {
+      "title": "Bé trai 10 tuổi mệt khi chơi thể thao và đau đầu",
+      "body": "<b>Hành chính:</b> Bé trai 10 tuổi.<br><br><b>Bệnh sử:</b> Được đưa đến khám vì hay bị mệt khi chơi thể thao và thỉnh thoảng đau đầu. Mẹ bé khai bé có vẻ phát triển bình thường nhưng gần đây không theo kịp các bạn trong các hoạt động thể lực.<br><br><b>Tiền sử:</b> Không có gì đặc biệt.<br><br><b>Khám lâm sàng:</b> Khám ghi nhận trẻ thể trạng tốt, tỉnh táo. Huyết áp đo ở tay phải là 140/90 mmHg, trong khi huyết áp đo ở chân là 90/60 mmHg. Mạch quay bắt rõ, nảy mạnh, nhưng mạch bẹn và mu chân bắt yếu. Nghe tim có tiếng thổi tâm thu dạng tống máu ở vùng liên bả vai bên trái. Không nghe thấy tiếng click tống máu hay các tiếng thổi khác ở phía trước ngực. Phổi trong. Các cơ quan khác bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng nghi ngờ nhất là gì?",
+          "options": [
+            "Hẹp van động mạch chủ",
+            "Hẹp eo động mạch chủ",
+            "Bệnh Takayasu",
+            "Tăng huyết áp nguyên phát."
+          ],
+          "answer": 1,
+          "explain": "Dấu hiệu kinh điển và đặc trưng nhất của Hẹp eo động mạch chủ là sự chênh lệch huyết áp và mạch giữa chi trên (cao, nảy mạnh) và chi dưới (thấp, yếu hoặc không bắt được). Triệu chứng mệt khi gắng sức, đau đầu cũng là hậu quả của tình trạng này.[cite: 10]"
+        },
+        {
+          "q": "Cơ chế nào giải thích sự chênh lệch huyết áp giữa chi trên và chi dưới ở bệnh nhân này?",
+          "options": [
+            "Dòng chảy rối qua van động mạch chủ bị hẹp.",
+            "Có luồng thông phải trái qua ống động mạch.",
+            "Tắc nghẽn cơ học tại eo động mạch chủ, gây tăng áp lực ở phần trên cơ thể và giảm tưới máu phần dưới cơ thể.",
+            "Viêm các mạch máu lớn làm giảm khẩu kính động mạch chi dưới."
+          ],
+          "answer": 2,
+          "explain": "Eo động mạch chủ thường nằm sau chỗ xuất phát của động mạch dưới đòn trái. Khi bị hẹp tại đây, tim phải bơm máu với áp lực rất cao để thắng được sức cản, gây tăng huyết áp ở các nhánh trước chỗ hẹp (đầu, cổ, chi trên). Ngược lại, lượng máu và áp lực đến các động mạch sau chỗ hẹp (thân, chi dưới) bị giảm sút.[cite: 10]"
+        },
+        {
+          "q": "Tiếng thổi ở vùng liên bả vai là do đâu?",
+          "options": [
+            "Dòng chảy qua chỗ hẹp ở eo động mạch chủ.",
+            "Dòng chảy qua các tuần hoàn bàng hệ phát triển.",
+            "Lan từ tiếng thổi hẹp van động mạch chủ.",
+            "Hở van hai lá chức năng."
+          ],
+          "answer": 0,
+          "explain": "Dòng máu đi qua chỗ eo động mạch chủ bị hẹp sẽ tạo ra dòng chảy rối, gây ra tiếng thổi tâm thu tống máu. Vị trí nghe rõ nhất thường là ở lưng, vùng liên bả vai, tương ứng với vị trí giải phẫu của eo động mạch chủ.[cite: 10]"
+        },
+        {
+          "q": "Dấu hiệu \"khuyết sườn\" (rib notching) có thể thấy trên X-quang ngực ở bệnh nhân lớn tuổi hơn là do đâu?",
+          "options": [
+            "Xương sườn bị biến dạng do suy dinh dưỡng.",
+            "Gãy xương sườn bệnh lý.",
+            "Động mạch liên sườn giãn to và ngoằn ngoèo, ăn mòn bờ dưới xương sườn.",
+            "Tăng sản tủy xương để đáp ứng với thiếu oxy mạn tính."
+          ],
+          "answer": 2,
+          "explain": "Để bù đắp cho tình trạng giảm tưới máu phần dưới cơ thể, cơ thể hình thành các tuần hoàn bàng hệ phong phú, chủ yếu qua các động mạch vú trong và động mạch liên sườn. Các động mạch liên sườn này giãn to, ngoằn ngoèo và đập theo nhịp tim, lâu ngày sẽ gây ăn mòn bờ dưới của các xương sườn tương ứng, tạo nên dấu hiệu \"khuyết sườn\" trên X-quang.[cite: 10]"
+        },
+        {
+          "q": "Phương pháp điều trị triệt để cho bệnh nhân này là gì?",
+          "options": [
+            "Dùng thuốc hạ áp nhóm chẹn beta suốt đời.",
+            "Can thiệp nong eo động mạch chủ bằng bóng và/hoặc đặt stent qua da.",
+            "Phẫu thuật bắc cầu nối qua chỗ hẹp.",
+            "Theo dõi định kỳ vì bệnh có thể tự cải thiện."
+          ],
+          "answer": 1,
+          "explain": "Can thiệp qua da bằng cách dùng bóng nong rộng chỗ hẹp, có thể kèm đặt một giá đỡ (stent) để duy trì lòng mạch, là phương pháp điều trị được ưu tiên lựa chọn hiện nay cho hẹp eo động mạch chủ thể khu trú. Phương pháp này ít xâm lấn và hiệu quả cao. Phẫu thuật được chỉ định khi giải phẫu không phù hợp cho can thiệp.[cite: 10]"
+        }
+      ]
+    },
+    {
+      "title": "Trẻ sơ sinh nam 2 ngày tuổi sinh non có cơn ngưng thở",
+      "body": "<b>Hành chính:</b> Trẻ sơ sinh nam 2 ngày tuổi, cân nặng 1.6 kg.<br><br><b>Bệnh sử:</b> Trẻ được chăm sóc tại đơn vị NICU. Sau 48 giờ, điều dưỡng ghi nhận trẻ có cơn ngưng thở, nhịp tim chậm, và xuất hiện tiếng thổi tim mới.<br><br><b>Tiền sử:</b> Sinh non ở tuần thứ 32.<br><br><b>Khám lâm sàng:</b> Khám lâm sàng thấy trẻ li bì, thở nhanh 55 lần/phút, mạch nảy mạnh và chìm nhanh (mạch Corrigan), huyết áp 50/25 mmHg (áp lực mạch rộng). Nghe tim có tiếng thổi liên tục như \"tiếng máy xay\" ở khoang liên sườn 2 dưới đòn trái, lan ra sau lưng. Phổi có ít ran ẩm hai đáy. Bụng chướng nhẹ, gan 2.5 cm dưới bờ sườn.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào có khả năng nhất trong bối cảnh này?",
+          "options": [
+            "Hẹp van động mạch phổi nặng",
+            "Sốc nhiễm khuẩn",
+            "Còn ống động mạch (PDA) có ý nghĩa huyết động",
+            "Xuất huyết não - màng não"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh suy tim và suy hô hấp cấp xuất hiện ở trẻ sinh non sau vài ngày tuổi, với các dấu hiệu kinh điển như mạch nảy mạnh, áp lực mạch rộng, và tiếng thổi liên tục \"dây chuyền\" hoặc \"tiếng máy xay\" là hình ảnh điển hình của Còn ống động mạch (PDA) lớn, gây ảnh hưởng huyết động.[cite: 10]"
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh nào giải thích cho dấu hiệu mạch nảy mạnh và áp lực mạch rộng?",
+          "options": [
+            "Tăng cung lượng tim do đáp ứng với nhiễm trùng.",
+            "Giảm sức cản ngoại biên do tác dụng của độc tố vi khuẩn.",
+            "Luồng thông từ động mạch chủ (áp lực cao) sang động mạch phổi (áp lực thấp) trong cả thì tâm thu và tâm trương, làm giảm nhanh huyết áp tâm trương.",
+            "Tăng áp lực nội sọ gây phản ứng Cushing."
+          ],
+          "answer": 2,
+          "explain": "Ống động mạch nối giữa động mạch chủ và động mạch phổi. Sau sinh, sức cản phổi giảm, tạo chênh lệch áp lực lớn. Máu chảy từ ĐMC sang ĐMP trong cả tâm thu và tâm trương (luồng thông trái-phải). Dòng chảy này trong thì tâm trương làm cho áp lực tâm trương trong động mạch chủ bị \"thất thoát\", tụt xuống thấp, gây ra áp lực mạch rộng (hiệu số giữa huyết áp tâm thu và tâm trương) và mạch nảy mạnh, chìm nhanh.[cite: 10]"
+        },
+        {
+          "q": "Yếu tố nào sau đây là nguy cơ chính của việc còn tồn tại ống động mạch ở trẻ sơ sinh?",
+          "options": [
+            "Sinh đủ tháng, cân nặng lớn",
+            "Mẹ bị đái tháo đường thai kỳ",
+            "Trẻ sinh non",
+            "Ngạt chu sinh"
+          ],
+          "answer": 2,
+          "explain": "Sinh non là yếu tố nguy cơ quan trọng nhất. Ở trẻ đủ tháng, ống động mạch thường đóng chức năng trong 12-24 giờ sau sinh do tăng nồng độ oxy máu và giảm nồng độ Prostaglandin E2. Ở trẻ non tháng, cơ chế này hoạt động kém hiệu quả hơn, làm tăng tỷ lệ tồn tại PDA.[cite: 10]"
+        },
+        {
+          "q": "Loại thuốc nào sau đây được sử dụng làm lựa chọn đầu tay trong điều trị nội khoa để đóng ống động mạch ở trẻ sinh non?",
+          "options": [
+            "Prostaglandin E1",
+            "Furosemide",
+            "Thuốc ức chế tổng hợp Prostaglandin (ví dụ: Indomethacin, Ibuprofen)",
+            "Digoxin"
+          ],
+          "answer": 2,
+          "explain": "Prostaglandin E2 có vai trò duy trì sự mở của ống động mạch. Do đó, các thuốc ức chế men cyclooxygenase (COX), qua đó ức chế tổng hợp Prostaglandin như Indomethacin hoặc Ibuprofen, là lựa chọn điều trị nội khoa hàng đầu để gây co thắt và đóng ống động mạch ở trẻ sinh non.[cite: 10]"
+        },
+        {
+          "q": "Biến chứng nào ở phổi là hậu quả trực tiếp của luồng thông trái-phải lớn qua ống động mạch ở trẻ sinh non?",
+          "options": [
+            "Xẹp phổi",
+            "Phù phổi và xuất huyết phổi",
+            "Tràn khí màng phổi",
+            "Tăng sản phế nang"
+          ],
+          "answer": 1,
+          "explain": "Luồng thông trái phải lớn qua PDA làm tăng lượng máu lên phổi một cách ạt, gây quá tải tuần hoàn phổi. Điều này dẫn đến tăng áp lực mao mạch phổi, thoát dịch vào phế nang và mô kẽ, gây ra phù phổi. Các mạch máu non yếu của trẻ sinh non cũng dễ bị tổn thương, dẫn đến xuất huyết phổi.[cite: 10]"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 4 tháng tuổi có những cơn tím tái đột ngột",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 4 tháng tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì những cơn tím tái đột ngột. Mẹ bé kể rằng mỗi khi bé quấy khóc hoặc gắng sức rặn đi ngoài, môi và đầu chi của bé đột nhiên trở nên tím bầm, bé thở rất nhanh, mệt lả và có thể ngất đi. Cơn kéo dài vài phút rồi tự hết, sau đó bé ngủ li bì. Giữa các cơn, bé vẫn hồng hào. Bé chậm tăng cân.<br><br><b>Tiền sử:</b> Khỏe mạnh.<br><br><b>Khám lâm sàng:</b> Khám lúc trẻ không có cơn, ghi nhận trẻ tỉnh táo, không tím, SpO2 94%. Có ngón tay dùi trống nhẹ. Khám tim có mỏm tim lệch phải, nghe có tiếng thổi tâm thu dạng tống máu cường độ 3/6 ở liên sườn 2-3 cạnh ức trái, T2 đơn độc. Phổi thông khí rõ.<br><br><b>Xét nghiệm:</b> X-quang ngực cho thấy mỏm tim tròn và bị đẩy lên cao, tạo thành hình ảnh \"chiếc giày\" hay \"ủng\" (boot-shaped heart), phổi thưa mạch máu.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào là phù hợp nhất với các triệu chứng trên?",
+          "options": [
+            "Thất phải hai đường ra",
+            "Bất thường Ebstein",
+            "Tứ chứng Fallot (TOF)",
+            "Không có lỗ van ba lá"
+          ],
+          "answer": 2,
+          "explain": "Cơn tím kịch phát khi gắng sức, tiếng thổi tâm thu tống máu ở ổ phổi, và X-quang tim hình chiếc ủng với phổi thưa mạch là bộ ba triệu chứng rất điển hình của Tứ chứng Fallot (TOF).[cite: 10]"
+        },
+        {
+          "q": "Cơ chế chính gây ra cơn tím thiếu oxy kịch phát (hypoxic spell) ở bệnh nhân này là gì?",
+          "options": [
+            "Co thắt đột ngột của phần phễu đường ra thất phải.",
+            "Đóng đột ngột lỗ thông liên thất.",
+            "Tăng đột ngột sức cản mạch máu phổi.",
+            "Giảm đột ngột sức cản mạch hệ thống."
+          ],
+          "answer": 0,
+          "explain": "Cơn tím là do sự mất cân bằng cấp tính giữa sức cản mạch máu phổi và sức cản mạch máu hệ thống. Khi trẻ khóc lóc, gắng sức, catecholamine tăng gây co thắt phần phễu cơ của đường ra thất phải, làm tình trạng hẹp nặng lên đột ngột. Điều này khiến máu từ thất phải gần như không lên được động mạch phổi mà bị đẩy hết qua lỗ thông liên thất sang động mạch chủ (tăng shunt phải-trái), gây giảm bão hòa oxy máu hệ thống nghiêm trọng và biểu hiện tím bầm.[cite: 10]"
+        },
+        {
+          "q": "Tư thế ngồi xổm hoặc gập gối vào bụng giúp cải thiện cơn tím bằng cơ chế nào?",
+          "options": [
+            "Làm giảm lượng máu tĩnh mạch trở về tim.",
+            "Làm tăng sức cản mạch máu hệ thống, do đó làm giảm luồng thông phải trái qua lỗ thông liên thất.",
+            "Làm giãn phần phễu thất phải, cải thiện dòng máu lên phổi.",
+            "Tăng cường co bóp của thất phải."
+          ],
+          "answer": 1,
+          "explain": "Tư thế ngồi xổm (squatting) làm gập các động mạch lớn ở đùi, có tác dụng làm tăng sức cản mạch máu hệ thống (tăng hậu gánh thất trái). Khi sức cản hệ thống tăng lên, nó sẽ \"đẩy ngược\" dòng máu, làm giảm bớt lượng máu đi từ thất phải qua lỗ VSD sang động mạch chủ, và tăng lượng máu đi qua đường ra thất phải lên phổi, từ đó cải thiện tình trạng bão hòa oxy.[cite: 10]"
+        },
+        {
+          "q": "Bốn tổn thương giải phẫu kinh điển trong Tứ chứng Fallot là gì?",
+          "options": [
+            "Thông liên nhĩ, hẹp eo động mạch chủ, thất phải hai đường ra, hẹp van hai lá.",
+            "Thông liên thất, hẹp đường ra thất phải, động mạch chủ cưỡi ngựa lên vách liên thất, phì đại thất phải.",
+            "Còn ống động mạch, thông liên thất, hẹp van động mạch chủ, phì đại thất trái.",
+            "Chuyển vị đại động mạch, hẹp động mạch phổi, thông liên thất, phì đại thất phải."
+          ],
+          "answer": 1,
+          "explain": "Tứ chứng Fallot được định nghĩa bởi bốn tổn thương giải phẫu: 1. Thông liên thất (thường là lỗ lớn, không hạn chế); 2. Hẹp đường ra thất phải (có thể tại van, dưới van hoặc trên van); 3. Động mạch chủ \"cưỡi ngựa\" lên vách liên thất (nhận máu từ cả hai thất); 4. Phì đại thất phải (hậu quả của việc thất phải phải bơm máu chống lại sức cản cao của chỗ hẹp).[cite: 10]"
+        },
+        {
+          "q": "Tại sao bệnh nhân này có hình ảnh phổi thưa mạch máu (giảm tuần hoàn phổi) trên X-quang?",
+          "options": [
+            "Do có tình trạng tăng áp động mạch phổi nặng.",
+            "Do phần lớn máu từ thất phải đi vào động mạch chủ thay vì động mạch phổi.",
+            "Do tình trạng hẹp đường ra thất phải làm cản trở dòng máu lên phổi.",
+            "Do suy chức năng thất trái làm giảm cung lượng tim."
+          ],
+          "answer": 2,
+          "explain": "Tổn thương chính trong sinh lý bệnh của TOF là hẹp đường ra thất phải. Chỗ hẹp này cản trở dòng máu từ thất phải lên động mạch phổi. Do đó, lượng máu lên phổi bị giảm sút, dẫn đến hình ảnh các mạch máu ở phổi trên phim X-quang rất thưa thớt, hai phế trường sáng hơn bình thường.[cite: 10]"
+        }
+      ]
+    },
+    {
+      "title": "Trẻ sơ sinh nữ 20 ngày tuổi li bì và da nổi vân tím",
+      "body": "<b>Hành chính:</b> Một trẻ sơ sinh nữ, 20 ngày tuổi.<br><br><b>Bệnh sử:</b> Được đưa vào khoa cấp cứu trong tình trạng sốc nặng: li bì, da nổi vân tím, chi lạnh, thời gian đổ đầy mao mạch kéo dài > 5 giây. Trẻ sinh đủ tháng, xuất viện sau 3 ngày không ghi nhận bất thường. Ở nhà 2 tuần đầu trẻ bú khá, nhưng 3 ngày nay bú kém, thở nhanh và quấy khóc.<br><br><b>Khám lâm sàng:</b> Khám ghi nhận nhịp tim 200 lần/phút, nhịp thở 80 lần/phút, huyết áp 50/30 mmHg ở cả bốn chi. Mạch ngoại vi tất cả các chi đều rất yếu. Nghe tim có nhịp tim nhanh, tiếng ngựa phi (T3), không nghe rõ tiếng thổi. Phổi có nhiều ran ẩm lan toả hai bên. Gan rất to 5 cm dưới bờ sườn.<br><br><b>Xét nghiệm:</b> Khí máu động mạch cho thấy tình trạng toan chuyển hóa nặng (pH 7.1, Bicarbonate 10 mmol/L, Lactate 15 mmol/L).",
+      "questions": [
+        {
+          "q": "Tình trạng lâm sàng này được gọi là gì và nguyên nhân nào ở trẻ sơ sinh cần được nghĩ đến đầu tiên trong nhóm bệnh tim bẩm sinh?",
+          "options": [
+            "Cơn hen tim, do Thông liên thất lỗ lớn.",
+            "Sốc tim, do một tổn thương tắc nghẽn đường ra thất trái (ví dụ: Hội chứng thiểu sản tim trái).",
+            "Sốc nhiễm khuẩn, do viêm màng não mủ.",
+            "Cơn tím thiếu oxy, do Tứ chứng Fallot."
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh suy sụp tuần hoàn cấp tính, sốc, toan chuyển hóa nặng ở trẻ sơ sinh sau khi ống động mạch bắt đầu đóng (thường sau vài ngày đến vài tuần) là điển hình của các bệnh tim bẩm sinh có tắc nghẽn đường ra thất trái, mà trong đó Hội chứng thiểu sản tim trái (Hypoplastic Left Heart Syndrome - HLHS) là nguyên nhân thường gặp và nặng nề nhất.[cite: 10]"
+        },
+        {
+          "q": "Cơ chế chính gây ra tình trạng sốc trụy tim mạch ở bệnh nhân này là gì?",
+          "options": [
+            "Suy chức năng thất phải cấp tính.",
+            "Đóng ống động mạch ở một bệnh tim bẩm sinh có tuần hoàn hệ thống phụ thuộc ống.",
+            "Rối loạn nhịp tim gây giảm cung lượng tim.",
+            "Viêm cơ tim cấp do virus."
+          ],
+          "answer": 1,
+          "explain": "Trong HLHS, tim trái không có khả năng bơm máu đi nuôi cơ thể. Toàn bộ tuần hoàn hệ thống phụ thuộc vào tim phải: máu từ thất phải được bơm lên động mạch phổi, sau đó một phần đi qua ống động mạch (PDA) để vào động mạch chủ và cấp máu cho cơ thể. Khi ống động mạch tự đóng lại sau sinh, đường cấp máu cho cơ thể bị cắt đứt, dẫn đến trụy tim mạch, sốc và tử vong nhanh chóng.[cite: 10]"
+        },
+        {
+          "q": "Hội chứng thiểu sản tim trái (HLHS) bao gồm các tổn thương nào sau đây?",
+          "options": [
+            "Hẹp hoặc tịt van hai lá, thiểu sản thất trái, hẹp hoặc tịt van động mạch chủ, và thiểu sản động mạch chủ lên.",
+            "Thất phải hai đường ra và hẹp eo động mạch chủ.",
+            "Bất thường Ebstein và thông liên nhĩ.",
+            "Thân chung động mạch và hở van thân chung."
+          ],
+          "answer": 0,
+          "explain": "HLHS là một phổ các dị tật đặc trưng bởi sự kém phát triển nặng nề của các cấu trúc tim trái, bao gồm thất trái, van hai lá, van động mạch chủ, và cung động mạch chủ. Thất trái có thể rất nhỏ hoặc không có buồng thất thực sự.[cite: 10]"
+        },
+        {
+          "q": "Trong thời kỳ bào thai, tại sao thai nhi mắc hội chứng thiểu sản tim trái vẫn phát triển gần như bình thường?",
+          "options": [
+            "Vì tuần hoàn phổi đảm nhận vai trò cung cấp máu cho cơ thể.",
+            "Vì tim phải và ống động mạch đảm nhiệm gần như toàn bộ việc bơm máu đi nuôi cơ thể, còn máu từ phổi về nhĩ trái sẽ qua lỗ bầu dục sang tim phải.",
+            "Vì có sự pha trộn máu hoàn toàn ở tầng thất.",
+            "Vì nhu cầu oxy của thai nhi rất thấp."
+          ],
+          "answer": 1,
+          "explain": "Trong tử cung, tuần hoàn của thai nhi hoạt động khác với sau sinh. Tim phải là buồng tim chính, bơm máu qua ống động mạch đến phần lớn cơ thể. Máu giàu oxy từ nhau thai về nhĩ phải, một phần qua lỗ bầu dục sang nhĩ trái (rất nhỏ), phần lớn xuống thất phải. Do đó, dù tim trái thiểu sản, thai nhi vẫn nhận đủ máu và oxy để phát triển.[cite: 10]"
+        },
+        {
+          "q": "Can thiệp nào là khẩn cấp và thiết yếu nhất để ổn định bệnh nhân này?",
+          "options": [
+            "Cho thuốc lợi tiểu Furosemide liều cao.",
+            "Bắt đầu truyền Prostaglandin E1 (PGE1) ngay lập tức.",
+            "Sốc điện chuyển nhịp.",
+            "Dùng kháng sinh phổ rộng liều cao."
+          ],
+          "answer": 1,
+          "explain": "Tương tự các bệnh tim phụ thuộc ống khác, việc truyền PGE1 để mở lại hoặc duy trì ống động mạch là biện pháp cứu mạng hàng đầu. Nó giúp tái lập dòng máu từ động mạch phổi sang động mạch chủ, phục hồi tưới máu hệ thống và đưa bệnh nhân thoát khỏi tình trạng sốc trong khi chờ đợi các can thiệp phức tạp hơn (như phẫu thuật Norwood).[cite: 10]"
+        }
+      ]
+    },
+    {
+      "title": "Bé gái 15 tuổi khó thở khi gắng sức và hay hồi hộp",
+      "body": "<b>Hành chính:</b> Bé gái 15 tuổi.<br><br><b>Bệnh sử:</b> Đến khám vì khó thở khi gắng sức ngày càng tăng và hay bị hồi hộp, đánh trống ngực. Bệnh sử ghi nhận bé có biểu hiện tím nhẹ ở môi và đầu chi từ nhỏ nhưng không được chẩn đoán rõ ràng.<br><br><b>Khám lâm sàng:</b> Khám thấy tổng trạng trung bình, có biểu hiện tím trung ương (SpO2 88%), ngón tay dùi trống rõ. Huyết áp 110/70 mmHg. Khám tim có dấu hiệu Harzer (+), T2 đanh mạnh ở ổ van động mạch phổi, không nghe thấy tiếng thổi của thông liên thất nữa mà thay vào đó là tiếng thổi tâm trương của hở van động mạch phổi. Gan không to.<br><br><b>Xét nghiệm:</b> Điện tâm đồ cho thấy phì đại thất phải rất nặng. Siêu âm tim xác định có lỗ thông liên thất lớn, động mạch chủ cưỡi ngựa, nhưng áp lực động mạch phổi đo được ước tính khoảng 110 mmHg (vượt quá áp lực hệ thống) với luồng thông hai chiều sau đó đảo chiều hoàn toàn (phải trái) qua lỗ thông.",
+      "questions": [
+        {
+          "q": "Tình trạng của bệnh nhân này được gọi là gì?",
+          "options": [
+            "Viêm cơ tim cấp",
+            "Suy tim ứ huyết giai đoạn cuối",
+            "Bệnh cơ tim phì đại",
+            "Hội chứng Eisenmenger"
+          ],
+          "answer": 3,
+          "explain": "Hội chứng Eisenmenger là giai đoạn cuối của một bệnh tim bẩm sinh có luồng thông trái-phải lớn (như VSD, ASD, PDA), đặc trưng bởi tình trạng tăng áp động mạch phổi nặng, cố định, dẫn đến đảo ngược luồng thông thành phải trái, gây tím tái trung ương.[cite: 10]"
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh cốt lõi của hội chứng Eisenmenger là gì?",
+          "options": [
+            "Phì đại thất trái nặng gây suy tim tâm trương.",
+            "Luồng thông trái phải lớn và kéo dài gây ra những thay đổi không hồi phục ở các tiểu động mạch phổi, dẫn đến tăng sức cản mạch phổi cố định.",
+            "Nhiễm trùng mạn tính tại vị trí luồng thông gây tổn thương van tim.",
+            "Tắc nghẽn đường ra thất phải tiến triển theo thời gian."
+          ],
+          "answer": 1,
+          "explain": "Ban đầu, luồng thông T-P lớn làm tăng lưu lượng và áp lực máu trong tuần hoàn phổi. Theo thời gian, để đáp ứng lại, các tiểu động mạch phổi bị tái cấu trúc: lớp nội mạc tăng sinh, lớp cơ giữa phì đại, dẫn đến lòng mạch bị hẹp lại và tăng sức cản mạch máu phổi (PVR). Khi PVR vượt quá sức cản mạch hệ thống (SVR), luồng thông sẽ đảo chiều.[cite: 10]"
+        },
+        {
+          "q": "Tại sao tiếng thổi toàn tâm thu của thông liên thất biến mất ở bệnh nhân này?",
+          "options": [
+            "Lỗ thông đã tự đóng lại.",
+            "Áp lực ở thất phải đã cân bằng và sau đó vượt qua áp lực ở thất trái, làm triệt tiêu hoặc đảo chiều luồng thông qua lỗ VSD.",
+            "Suy tim nặng làm giảm cung lượng tim, không đủ tạo ra tiếng thổi.",
+            "Có tràn dịch màng ngoài tim làm tiếng tim mờ đi."
+          ],
+          "answer": 1,
+          "explain": "Tiếng thổi của VSD được tạo ra bởi dòng máu chảy từ nơi áp lực cao (thất trái) sang nơi áp lực thấp (thất phải). Trong hội chứng Eisenmenger, áp lực thất phải đã bằng hoặc cao hơn thất trái, do đó không còn chênh áp để tạo ra tiếng thổi toàn tâm thu nữa. Thay vào đó, luồng thông trở thành P-T, gây ra triệu chứng tím.[cite: 10]"
+        },
+        {
+          "q": "Biến chứng nào sau đây KHÔNG phải là đặc trưng của bệnh nhân mắc hội chứng Eisenmenger?",
+          "options": [
+            "Đa hồng cầu thứ phát và hội chứng tăng độ quánh của máu.",
+            "Rối loạn đông máu và nguy cơ chảy máu (đặc biệt là ho ra máu).",
+            "Áp xe não và đột quỵ.",
+            "Phù phổi cấp tái diễn."
+          ],
+          "answer": 3,
+          "explain": "Phù phổi cấp là hậu quả của tăng áp lực mao mạch phổi do suy tim trái hoặc quá tải tuần hoàn phổi (luồng thông T-P). Ở bệnh nhân Eisenmenger, tuần hoàn phổi bị \"bảo vệ\" bởi sức cản mạch phổi rất cao và luồng thông đã đảo chiều, do đó họ không bị phù phổi cấp, thậm chí có nguy cơ bị \"khô\" phổi. Các biến chứng khác như đa hồng cầu, rối loạn đông máu, biến chứng thần kinh là rất phổ biến.[cite: 10]"
+        },
+        {
+          "q": "Lựa chọn điều trị nào sau đây bị CHỐNG CHỈ ĐỊNH tuyệt đối ở bệnh nhân này?",
+          "options": [
+            "Liệu pháp oxy dài hạn tại nhà.",
+            "Phẫu thuật đóng lỗ thông liên thất.",
+            "Sử dụng các thuốc giãn mạch phổi chuyên biệt (Bosentan, Sildenafil).",
+            "Ghép tim-phổi."
+          ],
+          "answer": 1,
+          "explain": "Phẫu thuật đóng lỗ thông ở giai đoạn này sẽ làm mất đi \"lối thoát\" cho thất phải. Khi đó, toàn bộ cung lượng tim từ thất phải sẽ phải bơm vào một hệ mạch phổi có sức cản cực kỳ cao, dẫn đến suy thất phải cấp tính và tử vong. Do đó, đây là chống chỉ định tuyệt đối. Điều trị lúc này chỉ là điều trị triệu chứng, thuốc giãn mạch phổi và cuối cùng là ghép tim-phổi.[cite: 10]"
+        }
+      ]
+    },
+    {
+      "title": "Trẻ sơ sinh nữ 1 ngày tuổi tím vừa và có tiếng click tống máu",
+      "body": "<b>Hành chính:</b> Trẻ sơ sinh nữ 1 ngày tuổi.<br><br><b>Tiền sử:</b> Được chẩn đoán trước sinh là có dị tật tim phức tạp.<br><br><b>Khám lâm sàng:</b> Sau sinh trẻ tím vừa, SpO2 khoảng 85%. Khám tim nghe thấy tiếng click tống máu ở đầu tâm thu, theo sau là tiếng thổi tâm thu tống máu và tiếng thổi tâm trương. Mạch nảy mạnh.<br><br><b>Xét nghiệm:</b> X-quang ngực cho thấy bóng tim to, tăng tuần hoàn phổi và cung động mạch chủ bên phải. Siêu âm tim xác nhận chẩn đoán: chỉ có một động mạch lớn duy nhất (thân chung) xuất phát từ tim, cưỡi ngựa lên một lỗ thông liên thất lớn, từ động mạch này mới chia ra động mạch chủ, động mạch phổi và động mạch vành. Van thân chung bị hở mức độ trung bình.",
+      "questions": [
+        {
+          "q": "Dị tật tim bẩm sinh này có tên là gì?",
+          "options": [
+            "Thất phải hai đường ra (DORV)",
+            "Thân chung động mạch (Truncus Arteriosus)",
+            "Cửa sổ chủ-phế",
+            "Hoán vị đại động mạch có kèm thông liên thất và hẹp phổi"
+          ],
+          "answer": 1,
+          "explain": "Mô tả siêu âm về một động mạch duy nhất xuất phát từ tim và sau đó mới chia nhánh đi nuôi cơ thể và phổi là định nghĩa kinh điển của Thân chung động mạch.[cite: 10]"
+        },
+        {
+          "q": "Cơ chế gây ra tình trạng vừa có tím tái, vừa có tăng tuần hoàn phổi ở bệnh nhân này là gì?",
+          "options": [
+            "Máu từ hai thất pha trộn hoàn toàn tại gốc thân chung, sau đó được phân phối đến cả tuần hoàn hệ thống và tuần hoàn phổi.",
+            "Có luồng thông trái phải qua ống động mạch.",
+            "Tắc nghẽn hoàn toàn đường ra thất trái.",
+            "Bất thường hồi lưu của các tĩnh mạch phổi."
+          ],
+          "answer": 0,
+          "explain": "Do có một lỗ thông liên thất lớn và một thân chung duy nhất, máu từ thất phải (nghèo oxy) và thất trái (giàu oxy) được trộn lẫn hoàn toàn. Dòng máu hỗn hợp này sau đó được bơm vào thân chung. Tùy thuộc vào sức cản của mạch phổi so với mạch hệ thống, máu sẽ được phân chia lên phổi và đi nuôi cơ thể. Vì vậy, bệnh nhân vừa có tím (do máu trộn) vừa có tăng tuần hoàn phổi (do máu lên phổi nhiều).[cite: 10]"
+        },
+        {
+          "q": "Tiếng click tống máu nghe được ở bệnh nhân này có khả năng nhất là do đâu?",
+          "options": [
+            "Van hai lá sa.",
+            "Mở van thân chung bị dày và bất thường.",
+            "Dòng máu đập vào thành động mạch phổi giãn.",
+            "Van ba lá đóng lại."
+          ],
+          "answer": 1,
+          "explain": "Van thân chung (truncal valve) thường bị loạn sản, có thể có từ 2 đến 6 lá van, thường bị dày và hẹp hoặc hở. Tiếng click tống máu ở đầu tâm thu là do sự mở ra đột ngột của một van bán nguyệt bất thường này.[cite: 10]"
+        },
+        {
+          "q": "Bệnh lý này thường liên quan đến hội chứng di truyền nào sau đây?",
+          "options": [
+            "Trisomy 18 (Hội chứng Edwards)",
+            "Hội chứng Williams",
+            "Hội chứng DiGeorge (mất đoạn 22q11.2)",
+            "Bệnh Pompe"
+          ],
+          "answer": 2,
+          "explain": "Khoảng 33% bệnh nhân Thân chung động mạch có hội chứng DiGeorge, một hội chứng do mất một đoạn nhỏ trên nhiễm sắc thể số 22. Sự kết hợp này thường đi kèm với các bất thường khác như bất sản tuyến ức, suy giảm miễn dịch, hạ canxi máu.[cite: 10]"
+        },
+        {
+          "q": "Hướng phẫu thuật sửa chữa cho bệnh lý này bao gồm những gì?",
+          "options": [
+            "Chỉ cần đóng lỗ thông liên thất.",
+            "Đặt shunt hệ thống phổi (shunt BTT).",
+            "Phẫu thuật Rastelli: đóng lỗ thông liên thất để hướng máu từ thất trái vào thân chung (trở thành động mạch chủ mới) và đặt một ống nối có van (conduit) từ thất phải đến động mạch phổi.",
+            "Phẫu thuật Fontan."
+          ],
+          "answer": 2,
+          "explain": "Phẫu thuật Rastelli là phương pháp sửa chữa tiêu chuẩn. Mục tiêu là tách biệt hai vòng tuần hoàn. Bác sĩ sẽ vá lỗ thông liên thất bằng một miếng vá, tạo một đường hầm để máu từ thất trái đi thẳng vào thân chung (động mạch chủ mới). Sau đó, động mạch phổi được tách ra khỏi thân chung, và một ống nối nhân tạo có van được khâu vào thất phải để dẫn máu lên động mạch phổi.[cite: 10]"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 3 tháng tuổi ho và thở nhanh, có tiếng thổi tâm thu",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam 3 tháng tuổi, nặng 4,5 kg (lúc sinh 3,2 kg).<br><br><b>Bệnh sử:</b> Vào viện vì ho và thở nhanh. Mẹ kể trẻ bú chậm, hay vã mồ hôi, thường xuyên bị viêm phổi từ lúc 2 tháng tuổi.<br><br><b>Khám lâm sàng:</b> Khám thấy trẻ tỉnh, thở 62 lần/phút, rút lõm lồng ngực rõ, SpO2 94%. Nghe tim thấy tiếng thổi tâm thu 3/6 ở khoang liên sườn 4 cạnh ức trái, lan hình nan hoa. Phổi có rale ẩm nhỏ hạt hai bên. Gan to 3 cm dưới bờ sườn.",
+      "questions": [
+        {
+          "q": "Chẩn đoán sơ bộ phù hợp nhất là:",
+          "options": [
+            "Thông liên nhĩ",
+            "Thông liên thất",
+            "Còn ống động mạch",
+            "Hẹp van động mạch phổi"
+          ],
+          "answer": 1,
+          "explain": "Tiếng thổi tâm thu ở khoang liên sườn 4 trái lan hình nan hoa kèm dấu hiệu suy tim, viêm phổi tái diễn ở trẻ 3 tháng tuổi là điển hình của thông liên thất (VSD) lỗ lớn.[cite: 10]"
+        },
+        {
+          "q": "Cơ chế chính dẫn đến tình trạng suy tim ở bệnh nhi này là:",
+          "options": [
+            "Quá tải áp lực thất trái",
+            "Quá tải thể tích thất trái",
+            "Cản trở đường ra thất phải",
+            "Giảm cung lượng tim hệ thống"
+          ],
+          "answer": 1,
+          "explain": "Trong VSD, máu đi từ thất trái sang thất phải trong thì tâm thu, làm tăng lượng máu lên phổi và trở về nhĩ trái, thất trái, gây quá tải thể tích (tiền gánh) cho các buồng tim trái.[cite: 10]"
+        },
+        {
+          "q": "Hình ảnh X-quang ngực của trẻ này thường có đặc điểm:",
+          "options": [
+            "Phổi sáng, tim hình hia",
+            "Ứ huyết phổi, tim to toàn bộ",
+            "Phổi sáng, cung động mạch phổi lõm",
+            "Ứ huyết phổi, tim hình quả trứng"
+          ],
+          "answer": 1,
+          "explain": "VSD lỗ lớn gây tăng lưu lượng máu lên phổi (ứ huyết) và giãn các buồng tim (thất trái, nhĩ trái, đôi khi cả thất phải nếu có tăng áp phổi).[cite: 10]"
+        },
+        {
+          "q": "Nhóm thuốc ưu tiên sử dụng để kiểm soát triệu chứng suy tim ban đầu là:",
+          "options": [
+            "Kháng sinh và thuốc hạ sốt",
+            "Lợi tiểu và ức chế men chuyển",
+            "Digoxin và vận mạch liều cao",
+            "Chẹn beta và canxi liều thấp"
+          ],
+          "answer": 1,
+          "explain": "Lợi tiểu (Furosemide) giúp giảm tiền gánh và ức chế men chuyển (Captopril/Enalapril) giúp giảm hậu gánh, là nền tảng điều trị nội khoa suy tim do luồng thông trái-phải.[cite: 10]"
+        },
+        {
+          "q": "Các nhận định sau đây về tiến triển của bệnh là đúng, TRỪ:",
+          "options": [
+            "Lỗ thông nhỏ ở phần cơ bè có thể tự đóng",
+            "Tăng áp phổi cố định có thể gây đảo chiều luồng thông",
+            "Nguy cơ viêm nội tâm mạc nhiễm khuẩn chỉ có ở lỗ lớn",
+            "Phẫu thuật vá lỗ thông khi điều trị nội khoa thất bại"
+          ],
+          "answer": 2,
+          "explain": "Nguy cơ viêm nội tâm mạc nhiễm khuẩn (Osler) có thể xảy ra với bất kỳ kích thước lỗ thông liên thất nào, kể cả lỗ rất nhỏ do dòng máu xoáy qua lỗ thông gây tổn thương nội mạc. Nguồn tham khảo: Bài giảng Nhi khoa Tập 2 (2020), trang 37, 41-42.[cite: 10]"
+        }
+      ]
+    },
+    {
+      "title": "Trẻ gái 7 tuổi có tiếng T2 tách đôi cố định",
+      "body": "<b>Hành chính:</b> Trẻ gái 7 tuổi, cân nặng 22 kg.<br><br><b>Bệnh sử:</b> Khám sức khỏe học đường phát hiện tim có tiếng bất thường. Trẻ vẫn chạy nhảy bình thường, không tím.<br><br><b>Khám lâm sàng:</b> Khám lâm sàng thấy trẻ tỉnh, da hồng, SpO2 98%. Lồng ngực hơi biến dạng nhẹ bên trái. Nghe tim có tiếng T2 tách đôi cố định tại ổ van động mạch phổi, kèm tiếng thổi tâm thu 2/6 êm dịu. Phổi thông khí tốt, không rale.",
+      "questions": [
+        {
+          "q": "Định hướng chẩn đoán bệnh tim bẩm sinh của trẻ:",
+          "options": [
+            "Thông liên nhĩ",
+            "Thông liên thất lỗ nhỏ",
+            "Còn ống động mạch",
+            "Tứ chứng Fallot"
+          ],
+          "answer": 0,
+          "explain": "Trẻ lớn, không triệu chứng cơ năng, nghe thấy T2 tách đôi cố định và thổi tâm thu êm dịu ở ổ phổi là đặc điểm lâm sàng điển hình của thông liên nhĩ (ASD).[cite: 10]"
+        },
+        {
+          "q": "Đặc điểm điện tâm đồ thường gặp ở bệnh lý này là:",
+          "options": [
+            "Trục trái, dày thất trái",
+            "Trục phải, blốc nhánh phải",
+            "Nhịp nhanh kịch phát trên thất",
+            "Sóng P cao nhọn kiểu P phế"
+          ],
+          "answer": 1,
+          "explain": "ECG trong ASD thường có trục phải, dày thất phải và hình ảnh blốc nhánh phải (thường là không hoàn toàn) do quá tải thể tích thất phải lâu ngày.[cite: 10]"
+        },
+        {
+          "q": "Tiếng T2 tách đôi cố định trong bệnh lý này được giải thích do:",
+          "options": [
+            "Van động mạch chủ đóng muộn hơn bình thường",
+            "Van động mạch phổi đóng muộn do quá tải thể tích thất phải",
+            "Áp lực động mạch phổi tăng cao làm van đóng mạnh",
+            "Luồng thông trái-phải làm tăng áp lực tại nhĩ trái"
+          ],
+          "answer": 1,
+          "explain": "Do lượng máu về thất phải tăng (máu tĩnh mạch + máu qua lỗ thông), thời gian tống máu của thất phải kéo dài làm van động mạch phổi đóng muộn hơn van động mạch chủ, tạo tiếng T2 tách đôi không thay đổi theo hô hấp.[cite: 10]"
+        },
+        {
+          "q": "Chỉ định can thiệp đóng lỗ thông thường được đặt ra khi:",
+          "options": [
+            "Ngay khi phát hiện bệnh để tránh suy tim",
+            "Khi tỉ lệ lưu lượng phổi/chủ (Qp/Qs) > 1,5",
+            "Chỉ thực hiện khi trẻ bắt đầu có biểu hiện tím",
+            "Khi trẻ có biểu hiện viêm nội tâm mạc nhiễm khuẩn"
+          ],
+          "answer": 1,
+          "explain": "Với ASD, chỉ định can thiệp (bằng dụng cụ hoặc phẫu thuật) thường được cân nhắc sau 2 tuổi khi tỉ lệ Qp/Qs > 1,5 hoặc có dấu hiệu giãn thất phải.[cite: 10]"
+        },
+        {
+          "q": "Các vị trí tổn thương giải phẫu của bệnh lý này bao gồm (1) Lỗ thứ phát; (2) Lỗ tiên phát; (3) Xoang tĩnh mạch; (4) Phần màng. Tập hợp các vị trí đúng của bệnh lý này là:",
+          "options": [
+            "(1), (2), (4)",
+            "(2), (3), (4)",
+            "(1), (2), (3)",
+            "(1), (3), (4)"
+          ],
+          "answer": 2,
+          "explain": "Thông liên nhĩ có 4 thể chính: lỗ thứ phát (hay gặp nhất), lỗ tiên phát, xoang tĩnh mạch và xoang vành. Phần màng là vị trí của thông liên thất. Nguồn tham khảo: Bài giảng Nhi khoa Tập 2 (2020), trang 42-43.[cite: 10]"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 12 tháng tuổi tím tái tăng dần",
+      "body": "<b>Hành chính:</b> Bệnh nhi 12 tháng tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì tím tái tăng dần. Mẹ kể trẻ tím từ lúc 4 tháng tuổi, tím rõ hơn khi khóc và khi vận động. Gần đây trẻ hay có những cơn quấy khóc, thở nhanh sâu rồi lịm đi.<br><br><b>Khám lâm sàng:</b> Khám thấy trẻ tím trung tâm (môi, lưỡi), SpO2 78%, ngón tay dùi trống rõ. Nghe tim thấy tiếng thổi tâm thu 3/6 ở khoang liên sườn 3 cạnh ức trái. Tiếng T2 nghe đơn độc và mạnh.<br><br><b>Xét nghiệm:</b> X-quang phổi có hình ảnh tim hình hia, phế trường sáng.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất là:",
+          "options": [
+            "Thông liên thất lỗ lớn",
+            "Còn ống động mạch",
+            "Tứ chứng Fallot",
+            "Chuyển gốc động mạch"
+          ],
+          "answer": 2,
+          "explain": "Tím tái xuất hiện sớm, ngón tay dùi trống, tim hình hia (mỏm tim hếch, cung phổi lõm) và phế trường sáng (giảm máu lên phổi) là đặc điểm của tứ chứng Fallot.[cite: 10]"
+        },
+        {
+          "q": "Cơn tím cấp (spells) ở bệnh nhi này thường do cơ chế:",
+          "options": [
+            "Suy tim trái cấp tính gây phù phổi",
+            "Co thắt phần phễu động mạch phổi",
+            "Tăng đột ngột sức cản mạch hệ thống",
+            "Tắc mạch phổi do cô đặc máu"
+          ],
+          "answer": 1,
+          "explain": "Cơn tím cấp xảy ra khi có sự co thắt phần phễu động mạch phổi, làm giảm đột ngột lượng máu lên phổi và tăng dòng máu shunt Phải-Trái qua lỗ thông liên thất.[cite: 10]"
+        },
+        {
+          "q": "Tư thế sơ cứu ưu tiên khi trẻ lên cơn tím cấp là:",
+          "options": [
+            "Nằm đầu thấp, gác chân cao",
+            "Nằm ngửa, nới rộng quần áo",
+            "Ngồi xổm hoặc đầu gối chống ngực",
+            "Nằm nghiêng trái, chân duỗi thẳng"
+          ],
+          "answer": 2,
+          "explain": "Tư thế đầu gối chống ngực (ở trẻ nhỏ) hoặc ngồi xổm (ở trẻ lớn) làm tăng sức cản mạch hệ thống, giảm dòng shunt Phải-Trái, giúp tăng lượng máu lên phổi để trao đổi oxy.[cite: 10]"
+        },
+        {
+          "q": "Loại thuốc thường được dùng để dự phòng cơn tím tái diễn là:",
+          "options": [
+            "Digoxin uống hằng ngày",
+            "Furosemide tiêm tĩnh mạch",
+            "Propranolol uống chia liều",
+            "Captopril liều thấp tăng dần"
+          ],
+          "answer": 2,
+          "explain": "Propranolol (chẹn beta) có tác dụng làm giãn phần phễu động mạch phổi, giúp giảm tần suất và mức độ của các cơn tím cấp.[cite: 10]"
+        },
+        {
+          "q": "Xét nghiệm công thức máu của bệnh nhi này thường ghi nhận:",
+          "options": [
+            "Số lượng hồng cầu và huyết sắc tố tăng",
+            "Bạch cầu tăng cao, chuyển trái",
+            "Tiểu cầu tăng mạnh gây tắc mạch",
+            "Thiếu máu đẳng sắc hồng cầu bình thường"
+          ],
+          "answer": 0,
+          "explain": "Do tình trạng thiếu oxy mạn tính, cơ thể bù trừ bằng cách tăng sản xuất hồng cầu (đa hồng cầu thứ phát) để đảm bảo vận chuyển oxy. Nguồn tham khảo: Bài giảng Nhi khoa Tập 2 (2020), trang 48-49.[cite: 10]"
+        }
+      ]
+    },
+    {
+      "title": "Trẻ sơ sinh đẻ non 32 tuần có tiếng thổi liên tục",
+      "body": "<b>Hành chính:</b> Trẻ sơ sinh, hiện 10 ngày tuổi.<br><br><b>Tiền sử:</b> Đẻ non 32 tuần.<br><br><b>Bệnh sử:</b> Đang điều trị suy hô hấp tại khoa Sơ sinh. Trẻ xuất hiện mạch nảy mạnh, huyết áp chênh lệch rộng (65/25 mmHg).<br><br><b>Khám lâm sàng:</b> Khám thấy mỏm tim tăng động, nghe có tiếng thổi liên tục 2/6 ở dưới xương đòn trái. Phổi nhiều rale ẩm, trẻ phụ thuộc oxy kéo dài.<br><br><b>Xét nghiệm:</b> Siêu âm tim xác định có luồng thông lớn từ động mạch chủ sang động mạch phổi.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định cho trẻ là:",
+          "options": [
+            "Thông liên nhĩ lỗ lớn",
+            "Còn ống động mạch",
+            "Hẹp eo động mạch chủ",
+            "Thân chung động mạch"
+          ],
+          "answer": 1,
+          "explain": "Đẻ non, mạch nảy, HA tâm trương thấp, thổi liên tục dưới đòn trái là đặc điểm điển hình của còn ống động mạch (PDA).[cite: 10]"
+        },
+        {
+          "q": "Nguyên nhân chính của bệnh lý này ở trẻ đẻ non là:",
+          "options": [
+            "Bất thường cấu trúc cơ trơn thành mạch",
+            "Đáp ứng kém của ống động mạch với oxy sau sinh",
+            "Mẹ bị nhiễm Rubella trong 3 tháng đầu thai kỳ",
+            "Tăng áp lực động mạch phổi bẩm sinh"
+          ],
+          "answer": 1,
+          "explain": "Ở trẻ đẻ non, ống động mạch thường chậm đóng do cơ trơn thành ống đáp ứng kém với nồng độ oxy máu tăng lên sau khi trẻ thở phổi.[cite: 10]"
+        },
+        {
+          "q": "Biến chứng cấp tính đáng ngại nhất ở trẻ đẻ non này là:",
+          "options": [
+            "Viêm nội tâm mạc nhiễm khuẩn",
+            "Suy tim sung huyết và phù phổi",
+            "Tắc mạch não do huyết khối",
+            "Xơ hóa phổi do ngộ độc oxy"
+          ],
+          "answer": 1,
+          "explain": "PDA lớn ở trẻ đẻ non gây quá tải thể tích hệ tuần hoàn phổi, dẫn đến suy tim và làm nặng thêm tình trạng suy hô hấp (bệnh phổi mạn).[cite: 10]"
+        },
+        {
+          "q": "Thuốc có thể dùng để đóng lỗ thông này bằng nội khoa ở trẻ đẻ non là:",
+          "options": [
+            "Prostaglandin E1",
+            "Indomethacin hoặc Ibuprofen",
+            "Digoxin phối hợp vận mạch",
+            "Dobutamine liều duy trì"
+          ],
+          "answer": 1,
+          "explain": "Các thuốc ức chế Prostaglandin (Indomethacin, Ibuprofen) hoặc gần đây là Paracetamol truyền tĩnh mạch được dùng để đóng ống động mạch ở trẻ đẻ non.[cite: 10]"
+        },
+        {
+          "q": "Các nguyên nhân gây tiếng thổi liên tục bao gồm (1) Còn ống động mạch; (2) Hẹp eo động mạch chủ; (3) Vỡ phình xoang Valsava; (4) Rò chủ - phổi. Tập hợp đúng là:",
+          "options": [
+            "(1), (2), (3)",
+            "(2), (3), (4)",
+            "(1), (3), (4)",
+            "(1), (2), (4)"
+          ],
+          "answer": 2,
+          "explain": "Hẹp eo động mạch chủ gây tiếng thổi tâm thu, không phải liên tục. Các nguyên nhân còn lại đều tạo chênh áp liên tục giữa hệ chủ và phổi hoặc các buồng tim. Nguồn tham khảo: Bài giảng Nhi khoa Tập 2 (2020), trang 45-46.[cite: 10]"
+        }
+      ]
+    },
+    {
+      "title": "Trẻ trai 12 tuổi huyết áp chi trên tăng",
+      "body": "<b>Hành chính:</b> Trẻ trai 12 tuổi, cao 140 cm, nặng 35 kg.<br><br><b>Bệnh sử:</b> Khám sức khỏe phát hiện huyết áp chi trên là 155/90 mmHg. Trẻ thỉnh thoảng kêu mỏi chân khi vận động mạnh, hay bị chảy máu cam.<br><br><b>Khám lâm sàng:</b> Khám lâm sàng thấy trẻ tỉnh, da hồng, mạch quay hai bên nảy mạnh, mạch bẹn và mạch mu chân hai bên bắt rất yếu. Nghe tim có tiếng thổi tâm thu 3/6 ở vùng bả vai trái.",
+      "questions": [
+        {
+          "q": "Chẩn đoán sơ bộ định hướng nguyên nhân tăng huyết áp:",
+          "options": [
+            "Viêm cầu thận cấp",
+            "Hẹp eo động mạch chủ",
+            "U nguyên bào thần kinh",
+            "Bệnh cơ tim phì đại"
+          ],
+          "answer": 1,
+          "explain": "Tăng huyết áp chi trên kèm mạch bẹn yếu, thổi tâm thu ở bả vai là đặc điểm của hẹp eo động mạch chủ (CoA).[cite: 10]"
+        },
+        {
+          "q": "Để khẳng định chẩn đoán lâm sàng, bước tiếp theo quan trọng nhất là:",
+          "options": [
+            "Soi đáy mắt đánh giá độ tập trung",
+            "Đo huyết áp đồng thời ở tay và chân",
+            "Xét nghiệm chức năng thận (Ure, Creatinin)",
+            "Điện tâm đồ tìm dấu hiệu dày thất"
+          ],
+          "answer": 1,
+          "explain": "Chênh lệch huyết áp giữa chi trên và chi dưới (chi trên cao hơn chi dưới > 20 mmHg) là dấu hiệu quan trọng nhất để chẩn đoán CoA trên lâm sàng.[cite: 10]"
+        },
+        {
+          "q": "Một trong các biến chứng muộn nguy hiểm của bệnh lý này là:",
+          "options": [
+            "Viêm phổi hoại tử do vi khuẩn",
+            "Phình và vỡ mạch máu não",
+            "Suy thận mạn do hạ huyết áp",
+            "Tím tái nửa người trên cơ thể"
+          ],
+          "answer": 1,
+          "explain": "Tăng huyết áp kéo dài ở nửa người trên gây nguy cơ phình và vỡ mạch não (vòng Willis), cũng như suy tim trái.[cite: 10]"
+        },
+        {
+          "q": "Hình ảnh X-quang ngực ở trẻ lớn có bệnh lý này thường thấy:",
+          "options": [
+            "Tim hình quả trứng, phổi ứ huyết",
+            "Tim hình hia, phổi quá sáng",
+            "Khuyết ở bờ dưới các xương sườn",
+            "Cung động mạch chủ giãn toàn bộ"
+          ],
+          "answer": 2,
+          "explain": "Dấu hiệu Roesler (khuyết bờ dưới xương sườn) do các mạch máu bàng hệ phát triển để cung cấp máu cho phần dưới cơ thể đè vào xương.[cite: 10]"
+        },
+        {
+          "q": "Biện pháp điều trị triệt căn thường được lựa chọn là:",
+          "options": [
+            "Phẫu thuật hoặc nong bằng bóng",
+            "Uống thuốc hạ áp suốt đời",
+            "Thắt ống động mạch kèm theo",
+            "Ghép tim khi có suy tim nặng"
+          ],
+          "answer": 0,
+          "explain": "Tùy vào hình thái hẹp và tuổi bệnh nhân, có thể chọn phẫu thuật sửa chữa hoặc nong/đặt stent qua da. Nguồn tham khảo: Bài giảng Nhi khoa Tập 2 (2020), trang 46-47.[cite: 10]"
+        }
+      ]
+    },
+    {
+      "title": "Trẻ sơ sinh tím tái dữ dội sau sinh 2 giờ",
+      "body": "<b>Hành chính:</b> Trẻ sơ sinh đẻ đủ tháng, nặng 3,5 kg.<br><br><b>Bệnh sử:</b> Xuất hiện tím tái dữ dội sau sinh 2 giờ. Trẻ được thở oxy 100% qua mặt nạ nhưng SpO2 chỉ đạt 65%, không có dấu hiệu suy hô hấp nặng (không rút lõm, phổi thông khí tốt).<br><br><b>Khám lâm sàng:</b> Nghe tim có tiếng T2 mạnh đơn độc, không nghe thấy tiếng thổi bệnh lý.<br><br><b>Xét nghiệm:</b> X-quang phổi thấy bóng tim hơi to hình quả trứng, cuống tim hẹp.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nghĩ đến nhiều nhất là:",
+          "options": [
+            "Tứ chứng Fallot",
+            "Chuyển gốc động mạch hoàn toàn",
+            "Thông liên thất lỗ rất lớn",
+            "Tim một tâm thất duy nhất"
+          ],
+          "answer": 1,
+          "explain": "Tím tái nặng ngay sau sinh, không đáp ứng với oxy (test oxy âm tính), tim hình quả trứng là đặc điểm của chuyển gốc động mạch hoàn toàn (D-TGA).[cite: 10]"
+        },
+        {
+          "q": "Đặc điểm huyết động cơ bản của bệnh lý này là:",
+          "options": [
+            "Hai vòng tuần hoàn chạy nối tiếp nhau",
+            "Hai vòng tuần hoàn chạy song song biệt lập",
+            "Toàn bộ máu về tim trộn lẫn tại nhĩ phải",
+            "Máu lên phổi hoàn toàn từ động mạch chủ"
+          ],
+          "answer": 1,
+          "explain": "Trong TGA, ĐMC xuất phát từ thất phải và ĐMP xuất phát từ thất trái, tạo ra hai vòng tuần hoàn song song, máu tím đi nuôi cơ thể và máu hồng lên phổi.[cite: 10]"
+        },
+        {
+          "q": "Để duy trì sự sống tạm thời cho trẻ trong khi chờ phẫu thuật, thuốc cần dùng là:",
+          "options": [
+            "Indomethacin đóng ống động mạch",
+            "Prostaglandin E1 giữ mở ống động mạch",
+            "Digoxin tăng cường co bóp cơ tim",
+            "Kháng sinh phổ rộng phòng nhiễm trùng"
+          ],
+          "answer": 1,
+          "explain": "Prostaglandin E1 giúp duy trì ống động mạch mở, tạo luồng thông để máu hồng có thể trộn lẫn vào đại tuần hoàn, duy trì bão hòa oxy tối thiểu.[cite: 10]"
+        },
+        {
+          "q": "Thủ thuật cấp cứu có thể thực hiện để tăng trộn máu giữa hai vòng tuần hoàn là:",
+          "options": [
+            "Thủ thuật Rashkind (phá vách liên nhĩ)",
+            "Phẫu thuật Blalock-Taussig shunt",
+            "Đặt stent động mạch phổi trái",
+            "Khâu hẹp động mạch phổi (Banding)"
+          ],
+          "answer": 0,
+          "explain": "Thủ thuật Rashkind dùng bóng để xé rộng lỗ bầu dục qua da, giúp trộn máu ở tầng nhĩ hiệu quả hơn.[cite: 10]"
+        },
+        {
+          "q": "Thời điểm phẫu thuật triệt căn (mổ chuyển vị đại động mạch) tốt nhất là:",
+          "options": [
+            "Trước 2 tuần tuổi",
+            "Khi trẻ đủ 6 tháng tuổi",
+            "Khi trẻ đạt cân nặng > 10 kg",
+            "Chỉ thực hiện khi điều trị nội thất bại"
+          ],
+          "answer": 0,
+          "explain": "Cần mổ Arterial Switch trong 2 tuần đầu vì sau đó thất trái sẽ thích nghi với áp lực phổi thấp, không còn khả năng đảm nhận chức năng thất hệ thống. Nguồn tham khảo: Bài giảng Nhi khoa Tập 2 (2020), trang 51-52.[cite: 10]"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nữ 5 tháng tuổi mắc hội chứng Down",
+      "body": "<b>Hành chính:</b> Bệnh nhi nữ 5 tháng tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì suy tim. Trẻ hay thở nhanh, bú kém, chậm lên cân rõ rệt.<br><br><b>Tiền sử:</b> Mắc hội chứng Down.<br><br><b>Khám lâm sàng:</b> Khám thấy trẻ tím nhẹ ở môi khi khóc, SpO2 88%. Nghe tim có tiếng thổi tâm thu 4/6 ở cạnh ức trái, lan tỏa toàn bộ vùng trước tim.<br><br><b>Xét nghiệm:</b> Điện tâm đồ có hình ảnh trục trái, dày hai thất, blốc nhĩ thất độ 1. Siêu âm tim thấy lỗ thông liên nhĩ tiên phát, thông liên thất phần buồng nhận và một bộ máy van nhĩ thất chung.",
+      "questions": [
+        {
+          "q": "Chẩn đoán chính xác bệnh của trẻ:",
+          "options": [
+            "Thông sàn nhĩ thất toàn bộ",
+            "Tứ chứng Fallot kèm Down",
+            "Thông liên thất lỗ lớn đơn thuần",
+            "Thông liên nhĩ lỗ thứ phát lớn"
+          ],
+          "answer": 0,
+          "explain": "Sự kết hợp giữa Down, thông liên nhĩ tiên phát, thông liên thất buồng nhận và van nhĩ thất chung là thể thông sàn nhĩ thất toàn bộ.[cite: 10]"
+        },
+        {
+          "q": "Bệnh lý này xảy ra do sự sai lạc trong quá trình hình thành:",
+          "options": [
+            "Vách liên nhĩ thứ phát",
+            "Nón tim và thân chung động mạch",
+            "Gối nội mạc của tim phôi",
+            "Van bán nguyệt và cung chủ IV"
+          ],
+          "answer": 2,
+          "explain": "Các cấu trúc sàn tim (phần dưới vách nhĩ, phần trên vách thất, van nhĩ thất) đều được hình thành từ gối nội mạc.[cite: 10]"
+        },
+        {
+          "q": "Tại sao trẻ thường suy tim sớm trong những tháng đầu sau sinh:",
+          "options": [
+            "Do chỉ có một buồng thất duy nhất",
+            "Do thiếu hụt surfactant tại phổi",
+            "Do hở các van nhĩ thất và luồng shunt lớn",
+            "Do tắc nghẽn đường ra của thất trái"
+          ],
+          "answer": 2,
+          "explain": "Luồng shunt lớn ở cả tầng nhĩ và thất phối hợp với tình trạng hở van nhĩ thất gây quá tải thể tích cấp tập, dẫn đến suy tim sớm.[cite: 10]"
+        },
+        {
+          "q": "Đặc điểm điện tâm đồ quan trọng gợi ý bệnh lý này là:",
+          "options": [
+            "Trục phải rất mạnh (> 150 độ)",
+            "Trục trái (trục lệch trái âm)",
+            "Sóng T dương ở V1 từ lúc mới sinh",
+            "Khoảng QT kéo dài bẩm sinh"
+          ],
+          "answer": 1,
+          "explain": "Trục QRS lệch trái (-30 đến -90 độ) ở trẻ nhỏ bị tim bẩm sinh nhiều máu lên phổi là dấu hiệu đặc trưng của thông sàn nhĩ thất.[cite: 10]"
+        },
+        {
+          "q": "Chỉ định phẫu thuật sửa chữa toàn bộ ở bệnh nhi này nên thực hiện lúc:",
+          "options": [
+            "Khi trẻ đủ 5 tuổi để giảm nguy cơ mổ",
+            "Sớm từ 2 đến 4 tháng tuổi",
+            "Chỉ mổ khi có hội chứng Eisenmenger",
+            "Sau khi trẻ đã hết tình trạng suy tim"
+          ],
+          "answer": 1,
+          "explain": "Cần mổ sớm để tránh tăng áp phổi cố định (đặc biệt trẻ Down tăng áp phổi tiến triển nhanh hơn) và kiểm soát suy tim. Nguồn tham khảo: Bài giảng Nhi khoa Tập 2 (2020), trang 44-45.[cite: 10]"
+        }
+      ]
+    },
+    {
+      "title": "Trẻ trai 5 tuổi có nốt xuất huyết ở lòng bàn tay",
+      "body": "<b>Hành chính:</b> Trẻ trai 5 tuổi.<br><br><b>Bệnh sử:</b> 2 tuần nay trẻ sốt thất thường 38,5 - 39°C, mệt mỏi, ăn kém.<br><br><b>Tiền sử:</b> Đã được chẩn đoán Thông liên thất từ nhỏ nhưng chưa phẫu thuật.<br><br><b>Khám lâm sàng:</b> Khám thấy da xanh nhợt, xuất hiện một vài chấm xuất huyết nhỏ ở lòng bàn tay không đau. Nghe tim thấy tiếng thổi tâm thu 3/6 ở mỏm tim (khác với tiếng thổi cũ ở cạnh ức trái). Lách to 2 cm dưới bờ sườn.",
+      "questions": [
+        {
+          "q": "Biến chứng cần nghĩ tới đầu tiên là:",
+          "options": [
+            "Đợt cấp của suy tim sung huyết",
+            "Viêm nội tâm mạc nhiễm khuẩn",
+            "Lao phổi biến chứng ở trẻ tim bẩm sinh",
+            "Thấp tim cấp tiến triển sau viêm họng"
+          ],
+          "answer": 1,
+          "explain": "Trẻ có bệnh tim bẩm sinh shunt trái-phải kèm sốt kéo dài, lách to và tiếng thổi mới xuất hiện phải nghĩ ngay đến viêm nội tâm mạc nhiễm khuẩn (IE).[cite: 10]"
+        },
+        {
+          "q": "Để xác định căn nguyên gây bệnh, xét nghiệm ưu tiên hàng đầu là:",
+          "options": [
+            "Cấy máu nhiều lần (3-6 mẫu/ngày)",
+            "Định lượng hiệu giá kháng thể ASLO",
+            "Chọc dò tủy xương làm tủy đồ",
+            "Soi tươi phân tìm trứng ký sinh trùng"
+          ],
+          "answer": 0,
+          "explain": "Cấy máu là \"tiêu chuẩn vàng\". Cần cấy nhiều mẫu trước khi dùng kháng sinh để tăng tỷ lệ dương tính do vi khuẩn giải phóng vào máu ngắt quãng.[cite: 10]"
+        },
+        {
+          "q": "Tiêu chuẩn siêu âm tim để chẩn đoán biến chứng này là:",
+          "options": [
+            "Dày thành thất phải và giãn nhĩ phải",
+            "Có khối sùi di động trên van hoặc thành tim",
+            "Luồng thông qua lỗ thông liên thất đảo chiều",
+            "Tràn dịch màng ngoài tim mức độ nhiều"
+          ],
+          "answer": 1,
+          "explain": "Hình ảnh sùi (vegetation) là bằng chứng trực tiếp của tổn thương nội tâm mạc trong IE.[cite: 10]"
+        },
+        {
+          "q": "Tổn thương da ở lòng bàn tay bệnh nhi mô tả trong tình huống được gọi là:",
+          "options": [
+            "Nốt Osler",
+            "Tổn thương Janeway",
+            "Ban vòng (Erythema marginatum)",
+            "Hạt dưới da (Meynet)"
+          ],
+          "answer": 1,
+          "explain": "Tổn thương Janeway là các chấm xuất huyết phẳng, không đau ở lòng bàn tay/chân. Nốt Osler thường gồ cao và rất đau.[cite: 10]"
+        },
+        {
+          "q": "Nguyên tắc điều trị kháng sinh trong trường hợp này là:",
+          "options": [
+            "Dùng liều duy nhất giống như phòng thấp",
+            "Dùng đường uống liều cao trong 1 tuần",
+            "Dùng đường tĩnh mạch, phối hợp, kéo dài 4-6 tuần",
+            "Chỉ dùng kháng sinh khi có kết quả kháng sinh đồ"
+          ],
+          "answer": 2,
+          "explain": "Điều trị IE đòi hỏi kháng sinh diệt khuẩn mạnh, nồng độ máu ổn định và thời gian đủ dài để tiêu diệt vi khuẩn nằm sâu trong khối sùi. Nguồn tham khảo: Bài giảng Nhi khoa Tập 2 (2020), trang 71, 75-77.[cite: 10]"
+        }
+      ]
+    },
+    {
+      "title": "Trẻ sơ sinh tím tái và khó thở sau sinh 6 giờ",
+      "body": "<b>Hành chính:</b> Trẻ sơ sinh đẻ đủ tháng, cân nặng 3,2 kg.<br><br><b>Bệnh sử:</b> Vào viện vì tím tái và khó thở sau sinh 6 giờ.<br><br><b>Khám lâm sàng:</b> Khám thấy trẻ tím toàn thân, SpO2 75% không cải thiện khi thở oxy. Trẻ thở nhanh 70 lần/phút, có rút lõm lồng ngực. Nghe tim có tiếng thổi tâm thu 2/6 ở bờ trái xương ức.<br><br><b>Xét nghiệm:</b> X-quang phổi có hình ảnh \"nhân vật tuyết\" (snowman sign) và ứ huyết phổi rõ rệt.",
+      "questions": [
+        {
+          "q": "Bệnh lý phù hợp với hình ảnh X-quang và lâm sàng trên:",
+          "options": [
+            "Tứ chứng Fallot nặng",
+            "Chuyển gốc động mạch hoàn toàn",
+            "Tĩnh mạch phổi đổ lạc chỗ hoàn toàn",
+            "Hẹp van động mạch phổi đơn thuần"
+          ],
+          "answer": 2,
+          "explain": "Tím kèm ứ huyết phổi và hình ảnh \"nhân vật tuyết\" (do tĩnh mạch dọc trái giãn) là đặc trưng của tĩnh mạch phổi đổ lạc chỗ hoàn toàn (TAPVR) thể trên tim.[cite: 10]"
+        },
+        {
+          "q": "Trong thể bệnh này, toàn bộ máu tĩnh mạch phổi sẽ đổ về:",
+          "options": [
+            "Nhĩ trái thông qua các lỗ thông nhỏ",
+            "Nhĩ phải trực tiếp hoặc qua các tĩnh mạch hệ thống",
+            "Thất trái qua lỗ thông liên thất buồng nhận",
+            "Động mạch phổi qua ống động mạch mở"
+          ],
+          "answer": 1,
+          "explain": "Trong TAPVR, không có sự kết nối trực tiếp giữa các tĩnh mạch phổi và nhĩ trái. Toàn bộ máu hồng trở về nhĩ phải, gây trộn lẫn máu tại đây.[cite: 10]"
+        },
+        {
+          "q": "Luồng thông giúp trẻ duy trì sự sống trong bệnh lý này là:",
+          "options": [
+            "Thông liên nhĩ",
+            "Thông liên thất",
+            "Còn ống động mạch",
+            "Rò động mạch vành"
+          ],
+          "answer": 0,
+          "explain": "Thông liên nhĩ là lỗ thông bắt buộc để máu từ nhĩ phải sang nhĩ trái đi nuôi cơ thể. Nếu ASD nhỏ, trẻ sẽ tím nặng và tử vong sớm.[cite: 10]"
+        },
+        {
+          "q": "Cơ chế gây ứ huyết phổi mạnh trong bệnh lý này là:",
+          "options": [
+            "Suy tim trái do quá tải thể tích",
+            "Tắc nghẽn đường về của tĩnh mạch phổi",
+            "Tăng cung lượng thất phải lên gấp đôi",
+            "Hẹp lỗ thông liên nhĩ làm máu ứ ở phổi"
+          ],
+          "answer": 1,
+          "explain": "Ứ huyết phổi xảy ra do toàn bộ máu phổi dồn về nhĩ phải, đặc biệt nặng nếu có sự tắc nghẽn trên đường đi của các tĩnh mạch lạc chỗ (thường gặp ở thể dưới tim).[cite: 10]"
+        },
+        {
+          "q": "Phân loại bệnh lý này dựa trên vị trí đổ về bao gồm (1) Trên tim; (2) Tại tim; (3) Dưới tim; (4) Tại phổi. Tập hợp đúng là:",
+          "options": [
+            "(1), (2), (4)",
+            "(2), (3), (4)",
+            "(1), (2), (3)",
+            "(1), (3), (4)"
+          ],
+          "answer": 2,
+          "explain": "TAPVR được phân thành 4 nhóm: trên tim (về TM chủ trên), tại tim (về xoang vành), dưới tim (về TM cửa/TM chủ dưới) và thể hỗn hợp. Nguồn tham khảo: Bài giảng Nhi khoa Tập 2 (2020), trang 36, 53 (phần Tĩnh mạch phổi đổ lạc chỗ).[cite: 10]"
+        }
+      ]
+    },
+    {
+      "title": "Trẻ gái 15 tuổi tím môi và đầu chi khi gắng sức",
+      "body": "<b>Hành chính:</b> Trẻ gái 15 tuổi, cân nặng 35 kg.<br><br><b>Bệnh sử:</b> 1 năm nay trẻ xuất hiện tím môi và đầu chi, tím tăng lên khi gắng sức. Trẻ không còn biểu hiện ho, viêm phổi thường xuyên như hồi nhỏ.<br><br><b>Tiền sử:</b> Được chẩn đoán Thông liên thất lỗ lớn từ lúc 2 tuổi nhưng gia đình không đồng ý phẫu thuật.<br><br><b>Khám lâm sàng:</b> Khám thấy trẻ tím rõ, ngón tay dùi trống, SpO2 82%. Nghe tim thấy tiếng T2 rất mạnh ở đáy tim, không còn nghe thấy tiếng thổi tâm thu nan hoa ở cạnh ức trái như trước.",
+      "questions": [
+        {
+          "q": "Tình trạng hiện tại của bệnh nhi được gọi là:",
+          "options": [
+            "Viêm phổi mạn tính ở trẻ tim bẩm sinh",
+            "Hội chứng Eisenmenger",
+            "Suy tim trái cấp tính mất bù",
+            "Tắc mạch phổi cấp do huyết khối"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng Eisenmenger là tình trạng đảo chiều luồng thông (từ Trái-Phải thành Phải-Trái) do áp lực mạch máu phổi tăng cao vượt áp lực đại tuần hoàn.[cite: 10]"
+        },
+        {
+          "q": "Hiện tượng không còn tiếng thổi tâm thu được giải thích do:",
+          "options": [
+            "Lỗ thông liên thất đã tự đóng hoàn toàn",
+            "Áp lực thất phải đã bằng áp lực thất trái",
+            "Chức năng co bóp của cơ tim đã mất hoàn toàn",
+            "Van động mạch phổi bị vôi hóa không mở được"
+          ],
+          "answer": 1,
+          "explain": "Tiếng thổi trong VSD phụ thuộc vào chênh áp giữa hai thất. Khi áp lực thất phải tăng bằng thất trái, luồng thông đi chậm hoặc đảo chiều, tiếng thổi sẽ mất đi hoặc rất nhẹ.[cite: 10]"
+        },
+        {
+          "q": "Quá trình biến đổi mạch máu phổi trong bệnh lý này trải qua mấy giai đoạn:",
+          "options": [
+            "4 giai đoạn",
+            "5 giai đoạn",
+            "6 giai đoạn",
+            "3 giai đoạn"
+          ],
+          "answer": 2,
+          "explain": "Theo Heath-Edwards, quá trình biến đổi mạch máu phổi do tăng lưu lượng/áp lực gồm 6 giai đoạn, từ dày lớp trung mạc đến tắc mạch hoại tử (gđ 4-6 không hồi phục).[cite: 10]"
+        },
+        {
+          "q": "Chống chỉ định tuyệt đối ở giai đoạn này của bệnh nhi là:",
+          "options": [
+            "Điều trị các bệnh nhiễm trùng đi kèm",
+            "Phẫu thuật vá lỗ thông liên thất",
+            "Sử dụng thuốc an thần khi kích thích",
+            "Bổ sung sắt đường uống khi thiếu sắt"
+          ],
+          "answer": 1,
+          "explain": "Vá lỗ thông ở giai đoạn này sẽ làm thất phải suy cấp tập do không còn đường thoát áp lực, gây tử vong ngay trên bàn mổ hoặc hậu phẫu.[cite: 10]"
+        },
+        {
+          "q": "Mục tiêu điều trị chính ở giai đoạn này là:",
+          "options": [
+            "Vá lỗ thông để phục hồi huyết động",
+            "Thay van hai lá và van ba lá phối hợp",
+            "Điều trị nội khoa bảo tồn và thuốc giãn mạch phổi",
+            "Cắt lách để giảm tình trạng cô đặc máu"
+          ],
+          "answer": 2,
+          "explain": "Điều trị giai đoạn này chủ yếu là giảm áp lực động mạch phổi (Sildenafil...), quản lý đa hồng cầu và chăm sóc giảm nhẹ. Thay tim-phổi là biện pháp cuối cùng. Nguồn tham khảo: Bài giảng Nhi khoa Tập 2 (2020), trang 38, 42.[cite: 10]"
+        }
+      ]
+    }
+  ]
+}
