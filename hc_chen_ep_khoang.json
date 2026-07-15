@@ -1,0 +1,1230 @@
+{
+  "name": "HC chèn ép khoang",
+  "description": "Case lâm sàng trắc nghiệm ngoại khoa về hội chứng chèn ép khoang (Compartment Syndrome)",
+  "level": "Đại học / Nội trú",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Chấn thương",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 28 tuổi bị khối bê tông đè cẳng chân",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 28 tuổi, công nhân xây dựng.<br><br><b>Bệnh sử:</b> Được đưa vào cấp cứu sau khi bị khối bê tông đè vào cẳng chân phải trong 4 giờ. Bệnh nhân tỉnh, đau dữ dội vùng cẳng chân phải, VAS 9/10 dù đã dùng morphin 10mg TB.<br><br><b>Tiền sử:</b> Khỏe mạnh, không hút thuốc.<br><br><b>Khám lâm sàng:</b> Mạch 100 l/p, HA 130/80 mmHg. Cẳng chân phải sưng nề rất căng, da bóng loáng, có vài nốt phỏng nước (tension blisters). Sờ thấy cẳng chân cứng như gỗ. Mạch mu chân và chày sau phải bắt yếu hơn bên trái nhưng vẫn còn. Vận động ngón chân hạn chế do đau, tê bì vùng kẽ ngón 1-2. Đặc biệt đau chói tăng lên dữ dội khi bác sĩ thực hiện động tác thụ động duỗi ngón cái.<br><br><b>Xét nghiệm:</b> X-quang: Gãy kín 1/3 giữa hai xương cẳng chân. Xét nghiệm: Creatinin 90 µmol/L, CK 1200 U/L.",
+      "questions": [
+        {
+          "q": "Dấu hiệu lâm sàng sớm nhất và tin cậy nhất để chẩn đoán chèn ép khoang ở bệnh nhân này là gì?",
+          "options": [
+            "Mất mạch mu chân",
+            "Cẳng chân sưng nề, cứng",
+            "Tê bì kẽ ngón 1-2",
+            "Đau khi vận động thụ động"
+          ],
+          "answer": 3,
+          "explain": "Theo Bailey & Love và Schwartz, \"Pain on passive stretch\" (Đau khi vận động thụ động cơ trong khoang bị chèn ép) là dấu hiệu sớm nhất và tin cậy nhất. Mất mạch là dấu hiệu rất muộn."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây chèn ép khoang trong trường hợp này là:",
+          "options": [
+            "Tăng thể tích khoang do chảy máu và phù nề",
+            "Giảm thể tích khoang do bó bột quá chặt",
+            "Tắc mạch máu lớn do huyết khối",
+            "Tổn thương thần kinh mác sâu trực tiếp"
+          ],
+          "answer": 0,
+          "explain": "Gãy xương và chấn thương đụng dập gây chảy máu từ ổ gãy và phù nề mô mềm -> Tăng thể tích bên trong khoang -> Tăng áp lực khoang. (Khác với bó bột là giảm thể tích khoang)."
+        },
+        {
+          "q": "Phương pháp xử trí tối ưu nhất ngay lập tức cho bệnh nhân này là:",
+          "options": [
+            "Kê cao chân, chườm lạnh, theo dõi 2 giờ",
+            "Phong bế gốc chi bằng Lidocain",
+            "Đo áp lực khoang, nếu > 30mmHg thì mổ",
+            "Phẫu thuật giải áp khoang (Fasciotomy) ngay"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân có lâm sàng điển hình (đau quá mức, căng cứng, đau khi thụ động) -> Chỉ định mổ giải áp ngay không cần đo áp lực (Đo áp lực chỉ dùng khi lâm sàng không rõ ràng hoặc bệnh nhân hôn mê). Trì hoãn đo đạc làm mất thời gian vàng."
+        },
+        {
+          "q": "Nếu không điều trị kịp thời, biến chứng tại chỗ điển hình ở cẳng chân là:",
+          "options": [
+            "Hoại thư sinh hơi",
+            "Co rút Volkmann",
+            "Giả khớp",
+            "Viêm xương tủy xương mạn tính"
+          ],
+          "answer": 1,
+          "explain": "Co rút Volkmann là di chứng điển hình của chèn ép khoang không được điều trị (thường gặp ở cẳng tay nhưng cũng xảy ra ở cẳng chân), do hoại tử cơ và thay thế bằng mô xơ."
+        },
+        {
+          "q": "Nhóm cơ nào ở cẳng chân chịu trách nhiệm cho triệu chứng đau khi duỗi ngón cái thụ động ở bệnh nhân này?",
+          "options": [
+            "Nhóm cơ mác",
+            "Nhóm cơ chày trước (khoang trước)",
+            "Nhóm cơ tam đầu đùi",
+            "Nhóm cơ gấp ngón cái dài (khoang sau sâu)"
+          ],
+          "answer": 3,
+          "explain": "Đau khi duỗi ngón cái thụ động làm căng cơ gấp ngón cái dài (Flexor Hallucis Longus), cơ này nằm ở khoang sau sâu của cẳng chân."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 8 tuổi khóc thét sau bó bột cẳng tay",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 8 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì ngã chống tay trái. Chẩn đoán ban đầu: Gãy trên lồi cầu xương cánh tay trái độ III (Gartland III). Bệnh nhi được nắn chỉnh và bó bột cánh cẳng-bàn tay rạch dọc. 6 giờ sau bó bột, trẻ khóc thét, kêu đau nhiều ở cẳng tay, thuốc giảm đau thông thường không đỡ.<br><br><b>Khám lâm sàng:</b> Khám thấy các ngón tay trái sưng nề nhẹ, màu sắc hồng nhưng cử động kém. SpO2 ngón tay 99%. Mạch quay trái bắt rõ. Khi duỗi thụ động các ngón tay trẻ khóc thét vì đau. Không có rối loạn cảm giác rõ rệt.",
+      "questions": [
+        {
+          "q": "Hành động đầu tiên và quan trọng nhất cần làm ngay lúc này là gì?",
+          "options": [
+            "Cho thêm thuốc giảm đau liều cao và an thần",
+            "Tháo bỏ hoàn toàn bột và lớp bông lót, giữ cố định tạm thời ở tư thế duỗi",
+            "Chỉ định chụp Doppler mạch máu cánh tay",
+            "Chuẩn bị mổ kết hợp xương ngay lập tức"
+          ],
+          "answer": 1,
+          "explain": "Bước đầu tiên khi nghi ngờ chèn ép khoang do bột là phải loại bỏ mọi vật liệu ép từ ngoài: tháo bỏ toàn bộ bột và bông lót. Gấp khuỷu quá mức cản trở hồi lưu tĩnh mạch, nên cần duỗi khuỷu ra."
+        },
+        {
+          "q": "Vị trí giải phẫu nào có nguy cơ bị chèn ép cao nhất gây hội chứng Volkmann trong trường hợp này?",
+          "options": [
+            "Khoang trước cẳng tay (Vùng gấp)",
+            "Khoang sau cẳng tay (Vùng duỗi)",
+            "Khoang di động (Mobile wad)",
+            "Khoang gian cốt mu tay"
+          ],
+          "answer": 0,
+          "explain": "Hội chứng Volkmann kinh điển liên quan đến thiếu máu nuôi nhóm cơ gấp ở khoang trước cẳng tay (Flexor digitorum profundus và Flexor pollicis longus)."
+        },
+        {
+          "q": "Nếu đo áp lực khoang, ngưỡng chênh lệch áp lực (Delta pressure = HA tâm trương - Áp lực khoang) nào sau đây là chỉ định tuyệt đối của mở cân?",
+          "options": [
+            "> 40 mmHg",
+            "> 30 mmHg",
+            "< 30 mmHg",
+            "< 10 mmHg"
+          ],
+          "answer": 2,
+          "explain": "Theo hướng dẫn cập nhật (Schwartz 11e/Bailey 27e): Chỉ số Delta Pressure (ΔP) = HA tâm trương - Áp lực khoang. Nếu ΔP < 30 mmHg là chỉ định mở cân (nghĩa là áp lực khoang đã tiến quá gần áp lực tâm trương, làm mất tưới máu mô)."
+        },
+        {
+          "q": "Trong gãy trên lồi cầu, động mạch nào thường bị tổn thương hoặc co thắt nhất?",
+          "options": [
+            "Động mạch trụ",
+            "Động mạch quay",
+            "Động mạch cánh tay",
+            "Động mạch gian cốt trước"
+          ],
+          "answer": 2,
+          "explain": "Trong gãy trên lồi cầu, đầu xương gãy thường di lệch ra trước chèn ép hoặc gây co thắt động mạch cánh tay."
+        },
+        {
+          "q": "Yếu tố nào sau đây KHÔNG PHẢI là nguyên nhân trực tiếp gây tăng áp lực khoang ở bệnh nhân này?",
+          "options": [
+            "Phù nề sau nắn chỉnh",
+            "Chảy máu từ ổ gãy",
+            "Tư thế gấp khuỷu quá mức trong bột",
+            "Tổn thương thần kinh quay"
+          ],
+          "answer": 3,
+          "explain": "Tổn thương thần kinh quay gây liệt vận động/cảm giác nhưng bản thân nó không làm tăng áp lực thể tích trong khoang. Các yếu tố A, B, C đều làm tăng áp lực hoặc cản trở dòng chảy."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi hôn mê do uống rượu đè lên chân",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Bệnh sử:</b> Được tìm thấy trong tình trạng hôn mê tại nhà sau khi uống rượu say, nằm đè lên chân phải trong khoảng 12 giờ.<br><br><b>Khám lâm sàng:</b> Vào viện: GCS 10 điểm. Sinh hiệu: Mạch 110 l/p, HA 100/60 mmHg. Đùi và mông phải sưng nề rất lớn, căng chắc, da có mảng bầm tím. Nước tiểu màu xá xị (đỏ nâu).<br><br><b>Xét nghiệm:</b> K⁺ 7.2 mmol/L, Creatinin 250 µmol/L, CK (Creatine Kinase) 45.000 U/L. ECG có sóng T cao nhọn.",
+      "questions": [
+        {
+          "q": "Chẩn đoán đầy đủ nhất cho tình trạng hiện tại của bệnh nhân là:",
+          "options": [
+            "Chèn ép khoang mạn tính",
+            "Hội chứng vùi lấp (Crush syndrome) có biến chứng suy thận cấp",
+            "Viêm mô tế bào đùi phải",
+            "Tắc mạch chi dưới cấp tính"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh nằm đè ép lâu -> tiêu cơ vân (CK tăng cao, Myoglobin niệu) -> suy thận cấp + chèn ép khoang -> Định nghĩa là Hội chứng vùi lấp (Crush syndrome)."
+        },
+        {
+          "q": "Rối loạn điện giải nguy hiểm nhất cần xử trí ngay lập tức ở bệnh nhân này là:",
+          "options": [
+            "Tăng Kali máu",
+            "Hạ Canxi máu",
+            "Toan chuyển hóa",
+            "Tăng Phospho máu"
+          ],
+          "answer": 0,
+          "explain": "K⁺ 7.2 mmol/L + ECG có biến đổi là tình trạng đe dọa ngưng tim, cần ưu tiên xử trí hàng đầu (ABC)."
+        },
+        {
+          "q": "Trong hội chứng này, chất nào là nguyên nhân chính gây tắc ống thận dẫn đến suy thận cấp?",
+          "options": [
+            "Hemoglobin",
+            "Myoglobin",
+            "Ure",
+            "Axit Uric"
+          ],
+          "answer": 1,
+          "explain": "Myoglobin giải phóng từ cơ bị hoại tử, kết tủa trong ống thận (đặc biệt trong môi trường toan) gây tắc ống thận và độc tính trực tiếp."
+        },
+        {
+          "q": "Chỉ định đo áp lực khoang ở bệnh nhân này dựa trên yếu tố nào?",
+          "options": [
+            "Bệnh nhân hôn mê, không khai thác được triệu chứng đau",
+            "Mức độ tăng CK máu",
+            "Màu sắc nước tiểu",
+            "Tình trạng mạch ngoại vi"
+          ],
+          "answer": 0,
+          "explain": "Ở bệnh nhân hôn mê (GCS 10) hoặc đa chấn thương không giao tiếp được, các dấu hiệu lâm sàng (đau, tê) không đánh giá được -> Đo áp lực khoang là chỉ định bắt buộc để quyết định mổ."
+        },
+        {
+          "q": "Chọn tập hợp các biện pháp điều trị nội khoa tích cực cần thiết TRƯỚC hoặc SONG SONG với phẫu thuật:\n(1) Bù dịch tích cực; (2) Kiềm hóa nước tiểu; (3) Lợi tiểu quai khi đủ dịch; (4) Insulin + Glucose; (5) Calci gluconate.",
+          "options": [
+            "1, 2, 3",
+            "1, 4, 5",
+            "2, 3, 4",
+            "1, 2, 3, 4, 5"
+          ],
+          "answer": 3,
+          "explain": "Tất cả đều đúng: Bù dịch để tăng thải, kiềm hóa để giảm kết tủa Myoglobin, (4) và (5) để hạ Kali máu bảo vệ tim, (3) để duy trì dòng nước tiểu sau khi đã bù đủ dịch."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 30 tuổi đau cẳng chân khi chạy bộ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 30 tuổi, vận động viên chạy bộ đường dài.<br><br><b>Bệnh sử:</b> 3 tháng nay thường xuyên đau mặt trước ngoài cẳng chân hai bên khi chạy được khoảng 3km. Đau cảm giác tức, căng, buộc phải dừng lại nghỉ ngơi thì hết đau sau 15-30 phút. Không đau khi nghỉ ngơi hoặc đi lại sinh hoạt bình thường.<br><br><b>Khám lâm sàng:</b> Hiện tại (khi nghỉ) hoàn toàn bình thường, mạch rõ, không teo cơ, không rối loạn cảm giác.",
+      "questions": [
+        {
+          "q": "Chẩn đoán khả dĩ nhất là:",
+          "options": [
+            "Hội chứng chèn ép khoang cấp tính",
+            "Hội chứng chèn ép khoang mạn tính do gắng sức (CECS)",
+            "Gãy xương mệt (Stress fracture) xương chày",
+            "Viêm màng xương chày trước (Shin splints)"
+          ],
+          "answer": 1,
+          "explain": "Đau liên quan gắng sức, nghỉ thì hết, lặp lại -> Điển hình của Chronic Exertional Compartment Syndrome (CECS)."
+        },
+        {
+          "q": "Tiêu chuẩn vàng để chẩn đoán xác định bệnh lý này là:",
+          "options": [
+            "MRI cẳng chân",
+            "X-quang xương cẳng chân",
+            "Đo áp lực khoang trước và sau khi gắng sức",
+            "Siêu âm Doppler mạch máu"
+          ],
+          "answer": 2,
+          "explain": "Đo áp lực khoang động (trước và sau chạy) là tiêu chuẩn vàng. X-quang/MRI giúp loại trừ gãy xương mệt hay viêm gân."
+        },
+        {
+          "q": "Ngưỡng áp lực khoang (theo tiêu chuẩn Pedowitz) nào sau đây hỗ trợ chẩn đoán (chọn câu ĐÚNG)?",
+          "options": [
+            "Áp lực khi nghỉ > 15 mmHg",
+            "Áp lực 1 phút sau gắng sức > 10 mmHg",
+            "Áp lực 5 phút sau gắng sức > 15 mmHg",
+            "Áp lực khi nghỉ > 10 mmHg"
+          ],
+          "answer": 0,
+          "explain": "Tiêu chuẩn Pedowitz: Áp lực nghỉ ≥ 15 mmHg OR 1 phút sau tập ≥ 30 mmHg OR 5 phút sau tập ≥ 20 mmHg. (Đáp án A đúng)."
+        },
+        {
+          "q": "Biện pháp điều trị ban đầu nên áp dụng là:",
+          "options": [
+            "Phẫu thuật giải áp khoang ngay",
+            "Ngừng chạy, thay đổi giày, tập vật lý trị liệu, NSAIDs",
+            "Bó bột cố định",
+            "Tiêm Corticoid vào khoang"
+          ],
+          "answer": 1,
+          "explain": "Luôn bắt đầu bằng bảo tồn: giảm tải, đổi giày, NSAIDs, thay đổi bề mặt chạy."
+        },
+        {
+          "q": "Nếu điều trị bảo tồn thất bại, phẫu thuật giải áp khoang trong trường hợp này thường được thực hiện như thế nào?",
+          "options": [
+            "Rạch da rộng suốt chiều dài cẳng chân (như cấp cứu)",
+            "Phẫu thuật nội soi hoặc rạch da nhỏ (mini-open) mở cân",
+            "Cắt bỏ cơ chày trước",
+            "Cắt thần kinh mác sâu"
+          ],
+          "answer": 1,
+          "explain": "Với CECS, phẫu thuật là mở cân (fasciotomy) nhưng có thể làm xâm lấn tối thiểu (nội soi hoặc đường mổ nhỏ) vì da không bị sưng nề cấp tính như chấn thương, thẩm mỹ tốt hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi chướng bụng sau mổ vết thương thấu bụng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 35 tuổi.<br><br><b>Bệnh sử:</b> Bị vết thương thấu bụng do hỏa khí, đã được phẫu thuật khâu lỗ thủng ruột non và cầm máu mạc treo, truyền 4 lít dịch tinh thể và 4 đơn vị hồng cầu khối trong mổ. Sau mổ 6 giờ tại ICU: Bệnh nhân thở máy, bụng chướng căng, thành bụng cứng.<br><br><b>Khám lâm sàng:</b> Áp lực đường thở tăng cao. Thiếu niệu (nước tiểu < 10ml/h). HA tụt 80/50 mmHg mặc dù đang dùng vận mạch. Áp lực bàng quang đo được là 28 mmHg.",
+      "questions": [
+        {
+          "q": "Bệnh nhân đang gặp hội chứng gì?",
+          "options": [
+            "Tắc ruột sau mổ",
+            "Chèn ép khoang bụng (Abdominal Compartment Syndrome - ACS)",
+            "Sốc nhiễm khuẩn",
+            "Viêm phúc mạc toàn thể tái diễn"
+          ],
+          "answer": 1,
+          "explain": "Tam chứng: Bụng chướng căng sau truyền dịch lượng lớn + Tăng áp lực đường thở (chèn ép cơ hoành) + Suy thận/ Tụt HA (chèn ép TM chủ dưới) + Áp lực bàng quang cao -> ACS."
+        },
+        {
+          "q": "Kỹ thuật đo áp lực khoang bụng gián tiếp chuẩn hiện nay là qua:",
+          "options": [
+            "Dạ dày",
+            "Tĩnh mạch chủ dưới",
+            "Bàng quang",
+            "Trực tràng"
+          ],
+          "answer": 2,
+          "explain": "Đo qua bàng quang (intra-vesical pressure) là tiêu chuẩn vàng, dễ thực hiện."
+        },
+        {
+          "q": "Ngưỡng áp lực trong ổ bụng (IAP) định nghĩa Tăng áp lực ổ bụng (IAH) và Hội chứng chèn ép khoang bụng (ACS) lần lượt là:",
+          "options": [
+            "> 5 mmHg và > 10 mmHg",
+            "> 12 mmHg và > 20 mmHg (kèm suy tạng)",
+            "> 20 mmHg và > 30 mmHg",
+            "> 25 mmHg và > 40 mmHg"
+          ],
+          "answer": 1,
+          "explain": "Theo WSACS (World Society of Abdominal Compartment Syndrome): IAH khi IAP > 12 mmHg. ACS khi IAP > 20 mmHg VÀ có rối loạn chức năng tạng mới xuất hiện."
+        },
+        {
+          "q": "Cơ chế gây thiếu niệu và suy thận trong hội chứng này là:",
+          "options": [
+            "Chèn ép trực tiếp tĩnh mạch thận và nhu mô thận",
+            "Tắc nghẽn niệu quản",
+            "Giảm cung lượng tim gây giảm tưới máu thận",
+            "Cả A và C đều đúng"
+          ],
+          "answer": 3,
+          "explain": "Áp lực bụng cao ép trực tiếp lên nhu mô/TM thận (tăng trở kháng mạch thận) AND chèn ép TM chủ dưới làm giảm hồi lưu máu về tim -> giảm cung lượng tim -> giảm GFR. (Cả A và C)."
+        },
+        {
+          "q": "Xử trí BẮT BUỘC đối với tình trạng hiện tại của bệnh nhân (ACS có suy tạng) là:",
+          "options": [
+            "Dùng thêm lợi tiểu và chọc hút dịch ổ bụng",
+            "Tăng liều vận mạch",
+            "Phẫu thuật mở bụng giải áp (Decompressive Laparotomy)",
+            "Phong bế thần kinh tạng"
+          ],
+          "answer": 2,
+          "explain": "Khi đã chẩn đoán ACS (IAP > 20 + suy tạng), điều trị nội khoa thường không hiệu quả, bắt buộc phải mở bụng giải áp (để hở thành bụng tạm thời)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi sưng cứng bắp chân sau tái thông động mạch khoeo",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì đau dữ dội cẳng chân trái sau khi phẫu thuật tái thông động mạch khoeo do chấn thương (thời gian thiếu máu nóng 7 giờ). Sau mổ 4 giờ, chân trái sưng to, căng cứng. Bệnh nhân vẫn đau nhiều ở bắp chân, tê bì mặt mu chân.<br><br><b>Khám lâm sàng:</b> Mạch chày sau bắt được rõ.<br><br><b>Xét nghiệm:</b> CPK tăng dần. Bác sĩ chẩn đoán theo dõi hội chứng chèn ép khoang do tái tưới máu (Reperfusion injury).",
+      "questions": [
+        {
+          "q": "Tại sao bệnh nhân đã có mạch (tái thông thành công) nhưng vẫn bị chèn ép khoang?",
+          "options": [
+            "Do máu tụ sau mổ",
+            "Do phù nề tế bào và tăng tính thấm thành mạch do các chất trung gian viêm sau tái tưới máu",
+            "Do garo quá lâu",
+            "Do tắc tĩnh mạch sâu đi kèm"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế tổn thương do tái tưới máu (Reperfusion injury): Gốc tự do, Cytokine gây tăng tính thấm thành mạch -> thoát dịch ồ ạt vào khoang gian bào -> phù nề dữ dội gây chèn ép."
+        },
+        {
+          "q": "Việc bắt được mạch chày sau ở bệnh nhân này có ý nghĩa gì?",
+          "options": [
+            "Loại trừ chẩn đoán chèn ép khoang",
+            "Chứng tỏ áp lực khoang chưa cao đến mức nguy hiểm",
+            "Không loại trừ chẩn đoán chèn ép khoang",
+            "Tiên lượng phục hồi thần kinh tốt"
+          ],
+          "answer": 2,
+          "explain": "Quy tắc vàng: Mạch ngoại vi thường VẪN CÒN trong chèn ép khoang (vì áp lực khoang thường 30-50 mmHg, đủ để ép tiểu động mạch/mao mạch nhưng chưa đủ ép động mạch lớn có áp lực > 80 mmHg). Do đó, còn mạch KHÔNG loại trừ chèn ép khoang."
+        },
+        {
+          "q": "Tổn thương thần kinh sớm nhất ở khoang trước cẳng chân biểu hiện bằng:",
+          "options": [
+            "Mất cảm giác gan chân",
+            "Tê bì kẽ ngón 1-2",
+            "Không gấp được ngón cái",
+            "Bàn chân thuổng (Equinus)"
+          ],
+          "answer": 1,
+          "explain": "Khoang trước chứa TK mác sâu -> Cảm giác kẽ ngón 1-2. (A là TK chày, C là khoang sau, D là liệt TK mác sâu muộn)."
+        },
+        {
+          "q": "Nguyên tắc rạch giải áp (fasciotomy) ở cẳng chân cần đảm bảo giải phóng bao nhiêu khoang?",
+          "options": [
+            "Chỉ khoang bị căng nhất",
+            "Khoang trước và khoang bên",
+            "Khoang sau sâu và sau nông",
+            "Tất cả 4 khoang (Trước, Bên, Sau nông, Sau sâu)"
+          ],
+          "answer": 3,
+          "explain": "Nguyên tắc: Phải mở tất cả 4 khoang cẳng chân để tránh bỏ sót."
+        },
+        {
+          "q": "Đường rạch da kinh điển để giải áp cẳng chân là:",
+          "options": [
+            "Một đường rạch giữa cẳng chân sau",
+            "Hai đường rạch: một bên ngoài và một bên trong",
+            "Một đường rạch mặt trước",
+            "Các đường rạch ngang đứt quãng"
+          ],
+          "answer": 1,
+          "explain": "Kỹ thuật 2 đường rạch (Two-incision technique): 1 đường ngoài (giải áp khoang trước + bên), 1 đường trong (giải áp khoang sau nông + sâu)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 22 tuổi căng cứng bàn tay sau bỏng nước sôi",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 22 tuổi.<br><br><b>Bệnh sử:</b> Bị bỏng nước sôi độ sâu chu vi vòng quanh cẳng tay phải giờ thứ 3. Bệnh nhân đau nhiều.<br><br><b>Khám lâm sàng:</b> Bàn tay phải nề to, lạnh, tím nhẹ đầu chi. SpO2 ngón tay khó đo. Mạch quay bắt yếu. Cảm giác tê bì toàn bộ bàn tay.",
+      "questions": [
+        {
+          "q": "Cơ chế gây chèn ép mạch máu và thần kinh chính ở bệnh nhân này là:",
+          "options": [
+            "Phù nề dưới cân cơ",
+            "Lớp vảy hoại tử (eschar) co thắt vòng quanh như garo",
+            "Huyết khối động mạch cánh tay",
+            "Tổn thương thần kinh nhiệt"
+          ],
+          "answer": 1,
+          "explain": "Trong bỏng chu vi, lớp da hoại tử (eschar) mất tính đàn hồi, co rút lại, cộng với phù nề mô bên dưới -> tạo vòng thắt garo."
+        },
+        {
+          "q": "Thủ thuật cần thực hiện ngay lập tức là:",
+          "options": [
+            "Mở cân (Fasciotomy)",
+            "Rạch giải áp vảy hoại tử (Escharotomy)",
+            "Phong bế gốc chi",
+            "Dùng thuốc giãn mạch"
+          ],
+          "answer": 1,
+          "explain": "Xử trí đầu tay của bỏng chu vi là rạch vảy hoại tử (Escharotomy) để giải phóng vòng thắt."
+        },
+        {
+          "q": "Sự khác biệt chính giữa Escharotomy và Fasciotomy là:",
+          "options": [
+            "Escharotomy rạch sâu qua lớp cân cơ",
+            "Escharotomy chỉ rạch qua lớp da và tổ chức hoại tử, không qua cân sâu",
+            "Fasciotomy chỉ rạch da",
+            "Escharotomy phải làm tại phòng mổ, Fasciotomy làm tại giường"
+          ],
+          "answer": 1,
+          "explain": "Escharotomy: Rạch hết lớp hoại tử đến lớp mỡ dưới da sống, không xẻ qua cân cơ. Fasciotomy: Xẻ qua cân cơ sâu."
+        },
+        {
+          "q": "Nếu sau khi thực hiện thủ thuật trên mà áp lực khoang vẫn cao > 30 mmHg, bước tiếp theo là:",
+          "options": [
+            "Theo dõi tiếp",
+            "Dùng Manitol",
+            "Tiến hành mở cân (Fasciotomy)",
+            "Cắt cụt chi"
+          ],
+          "answer": 2,
+          "explain": "Nếu đã rạch vảy mà áp lực vẫn cao (do phù nề cơ bên dưới), lúc này mới có chỉ định làm Fasciotomy."
+        },
+        {
+          "q": "Dấu hiệu nào KHÔNG đặc trưng cho chèn ép khoang do bỏng chu vi?",
+          "options": [
+            "Chi lạnh",
+            "Mất mạch (thường gặp sớm hơn so với chèn ép khoang do gãy xương)",
+            "Cảm giác đau giảm đi sau vài giờ (do hoại tử thần kinh)",
+            "Sốt cao ngay giờ đầu"
+          ],
+          "answer": 3,
+          "explain": "Sốt cao thường do nhiễm trùng hoặc phản ứng chuyển hóa, xuất hiện muộn hơn, không phải dấu hiệu tại chỗ của chèn ép khoang giờ đầu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi Hemophilia sưng to đùi phải sau va chạm",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Tiền sử:</b> Mắc bệnh Hemophilia A mức độ trung bình.<br><br><b>Bệnh sử:</b> Vào viện vì sau khi va chạm nhẹ vào cạnh bàn, đùi phải sưng to dần, đau dữ dội.<br><br><b>Khám lâm sàng:</b> Đùi phải căng cứng, vòng đùi lớn hơn bên trái 5cm. Bệnh nhân giữ chân ở tư thế gấp háng và gối, đau khi duỗi háng thụ động. Mạch mu chân bắt rõ.<br><br><b>Xét nghiệm:</b> Hb 90 g/L. APTT kéo dài gấp 3 lần chứng.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hướng tới là:",
+          "options": [
+            "Chảy máu trong khớp gối",
+            "Huyết khối tĩnh mạch sâu đùi",
+            "Chèn ép khoang đùi do khối máu tụ",
+            "Gãy xương đùi bệnh lý"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh Hemophilia + va chạm -> chảy máu trong cơ -> khối máu tụ lớn gây tăng áp lực khoang."
+        },
+        {
+          "q": "Việc đầu tiên cần làm trong điều trị (trước khi can thiệp ngoại khoa) là:",
+          "options": [
+            "Truyền máu toàn phần",
+            "Bù yếu tố VIII đông khô",
+            "Dùng Vitamin K",
+            "Chọc hút khối máu tụ"
+          ],
+          "answer": 1,
+          "explain": "Bù yếu tố thiếu hụt (VIII) là tiên quyết để cầm máu. Nếu mổ mà không bù yếu tố -> chảy máu ồ ạt tử vong."
+        },
+        {
+          "q": "Triệu chứng \"giữ chân tư thế gấp, đau khi duỗi háng\" gợi ý chèn ép ở vị trí nào?",
+          "options": [
+            "Khoang trước đùi (Cơ tứ đầu)",
+            "Khoang trong đùi (Cơ khép)",
+            "Khoang sau đùi (Cơ nhị đầu)",
+            "Khoang cơ thắt lưng chậu (Iliopsoas)"
+          ],
+          "answer": 0,
+          "explain": "Dấu hiệu gấp háng giảm đau, duỗi háng đau thường gặp ở khối máu tụ cơ thắt lưng chậu hoặc chèn ép khoang trước (cơ thẳng đùi tứ đầu). Nhưng trong bối cảnh chèn ép khoang đùi, duỗi háng làm căng cơ tứ đầu thắt lưng chậu. (Lưu ý: Dấu hiệu psoas sign điển hình cho khối máu tụ sau phúc mạc/cơ thắt lưng chậu, nhưng chèn ép khoang đùi trước cũng gây đau khi duỗi háng do căng cơ)."
+        },
+        {
+          "q": "Áp lực khoang bình thường ở người lớn khoảng:",
+          "options": [
+            "0-8 mmHg",
+            "15-20 mmHg",
+            "20-25 mmHg",
+            "30-40 mmHg"
+          ],
+          "answer": 0,
+          "explain": "Áp lực khoang bình thường < 10 mmHg (thường 0-8 mmHg)."
+        },
+        {
+          "q": "Ở bệnh nhân Hemophilia, chỉ định phẫu thuật mở cân:",
+          "options": [
+            "Rộng rãi hơn người bình thường",
+            "Hạn chế tối đa, chỉ mổ khi bù yếu tố đông máu thất bại và áp lực khoang đe dọa hoại tử",
+            "Tuyệt đối không mổ vì nguy cơ chảy máu không cầm",
+            "Mổ ngay lập tức không cần bù yếu tố"
+          ],
+          "answer": 1,
+          "explain": "Với Hemophilia, ưu tiên điều trị nội khoa (bù yếu tố) để khối máu tụ tự tiêu. Phẫu thuật rất nguy hiểm, chỉ làm khi bù yếu tố đủ liều mà lâm sàng không cải thiện hoặc đe dọa hoại tử rõ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 20 tuổi đau cẳng chân sau đóng đinh nội tủy",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 20 tuổi.<br><br><b>Bệnh sử:</b> Gãy kín 2 xương cẳng chân trái, đã được kết hợp xương bằng đóng đinh nội tủy có chốt (IMN) 12 giờ trước. Sau mổ bệnh nhân được giảm đau bằng tê ngoài màng cứng (Epidural). Hiện tại bệnh nhân kêu đau chân trái mơ hồ, cảm giác nặng chân. Y tá thấy bệnh nhân vẫn vận động được ngón chân nhưng yếu hơn trước.<br><br><b>Khám lâm sàng:</b> Mạch mu chân rõ. HA 120/70 mmHg.",
+      "questions": [
+        {
+          "q": "Nguy cơ lớn nhất việc sử dụng tê ngoài màng cứng (hoặc tê vùng) ở bệnh nhân có nguy cơ chèn ép khoang cao là gì?",
+          "options": [
+            "Tụt huyết áp làm giảm tưới máu",
+            "Che lấp triệu chứng đau - dấu hiệu cảnh báo sớm nhất",
+            "Gây co mạch ngoại vi",
+            "Tăng nguy cơ nhiễm trùng vết mổ"
+          ],
+          "answer": 1,
+          "explain": "\"The epidural mask\" (mặt nạ ngoài màng cứng) là khái niệm kinh điển. Giảm đau quá tốt làm mất triệu chứng đau sớm, khi phát hiện ra thì đã liệt hoại tử."
+        },
+        {
+          "q": "Trong tình huống này, để chẩn đoán xác định chèn ép khoang, biện pháp nào là quan trọng nhất?",
+          "options": [
+            "Chờ khi thuốc tê hết tác dụng",
+            "Dựa vào mất mạch",
+            "Đo áp lực khoang trực tiếp",
+            "Chụp mạch máu"
+          ],
+          "answer": 2,
+          "explain": "Khi lâm sàng bị che lấp bởi thuốc tê/hôn mê -> Đo áp lực khoang là tiêu chuẩn bắt buộc."
+        },
+        {
+          "q": "Tư thế chân nên để đối với bệnh nhân nghi ngờ chèn ép khoang là:",
+          "options": [
+            "Kê cao chân hơn mức tim (để giảm phù nề)",
+            "Để chân ngang mức tim (bằng mặt giường)",
+            "Để chân thấp hơn mức tim (tăng tưới máu)",
+            "Treo chân lên khung Braun"
+          ],
+          "answer": 1,
+          "explain": "Quan trọng: Không kê cao chân (làm giảm áp lực tưới máu động mạch cục bộ: Local Arterial Pressure = MAP - height). Không để thấp (tăng phù nề). Để ngang mức tim là tối ưu."
+        },
+        {
+          "q": "Thời gian vàng để mở cân cứu sống cơ là:",
+          "options": [
+            "< 4 giờ",
+            "< 6-8 giờ",
+            "< 12 giờ",
+            "< 24 giờ"
+          ],
+          "answer": 1,
+          "explain": "Quá 6-8 giờ thiếu máu, cơ bắt đầu hoại tử không hồi phục."
+        },
+        {
+          "q": "Khi mở cân cẳng chân, cơ nào sau đây có nguy cơ bị hoại tử nhất (nằm sâu, khó đánh giá)?",
+          "options": [
+            "Cơ chày trước",
+            "Cơ mác dài",
+            "Cơ bụng chân",
+            "Cơ gấp ngón cái dài và cơ chày sau (Khoang sau sâu)"
+          ],
+          "answer": 3,
+          "explain": "Khoang sau sâu (Deep posterior compartment) chứa cơ chày sau, gấp ngón cái dài, gấp các ngón dài... được bao bọc rất kỹ, áp lực thường cao nhất và khó giải áp nhất nếu rạch da không đúng kỹ thuật."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 55 tuổi sưng đau bắp chân sau mổ thay khớp gối",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 55 tuổi.<br><br><b>Bệnh sử:</b> Sau mổ thay khớp gối toàn phần 1 ngày. Bệnh nhân đang dùng Rivaroxaban dự phòng huyết khối. Đột ngột thấy đau dữ dội bắp chân, căng cứng.<br><br><b>Khám lâm sàng:</b> HA 150/90 mmHg. Bác sĩ nghi ngờ chèn ép khoang và tiến hành đo áp lực khoang.<br><br><b>Xét nghiệm:</b> Kết quả áp lực khoang là 45 mmHg.",
+      "questions": [
+        {
+          "q": "Tính chỉ số Delta Pressure (ΔP) của bệnh nhân này?",
+          "options": [
+            "105 mmHg",
+            "45 mmHg",
+            "60 mmHg",
+            "40 mmHg"
+          ],
+          "answer": 1,
+          "explain": "ΔP = HA tâm trương - Áp lực khoang. ΔP = 90 - 45 = 45 mmHg."
+        },
+        {
+          "q": "Với kết quả này, thái độ xử trí là:",
+          "options": [
+            "Theo dõi tiếp vì ΔP > 30",
+            "Phẫu thuật mở cân cấp cứu vì ΔP < 30",
+            "Phẫu thuật mở cân cấp cứu vì ΔP <= 45 (theo tiêu chuẩn cũ)",
+            "Mổ cấp cứu vì áp lực tuyệt đối 45 mmHg là chỉ định mổ (bất kể huyết áp)"
+          ],
+          "answer": 0,
+          "explain": "Theo guideline hiện đại: Chỉ định mổ khi ΔP < 30 mmHg. Ở đây ΔP = 45 (>30) -> Tưới máu vẫn đủ duy trì (chưa cần mổ ngay, nhưng cần theo dõi sát vì áp lực tuyệt đối 45 là cao). Lưu ý: Một số sách cũ dùng mốc áp lực tuyệt đối > 30-45 là mổ, nhưng ΔP chính xác hơn."
+        },
+        {
+          "q": "Chọn câu SAI về kỹ thuật mở cân (Fasciotomy):",
+          "options": [
+            "Đường rạch da phải đủ dài (gần hết chiều dài chi)",
+            "Phải xẻ hết mạc (cân) bao quanh cơ",
+            "Sau khi mở cân, phải khâu kín da ngay để tránh nhiễm trùng",
+            "Che phủ vết mổ bằng băng gạc ẩm hoặc hút áp lực âm (VAC) chờ thì 2"
+          ],
+          "answer": 2,
+          "explain": "SAI: Tuyệt đối KHÔNG khâu da ngay sau mở cân. Phải để hở da để giải áp, khâu da sẽ làm tăng áp lực trở lại. Khâu thì 2 hoặc ghép da sau 5-7 ngày."
+        },
+        {
+          "q": "Một trong những dấu hiệu muộn báo hiệu tiên lượng tồi (chi đã chết/tổn thương không hồi phục) là:",
+          "options": [
+            "Đau khi kéo giãn",
+            "Tê bì",
+            "Mất mạch và chi lạnh ngắt",
+            "Căng cứng"
+          ],
+          "answer": 2,
+          "explain": "Mất mạch là dấu hiệu rất muộn, thường đồng nghĩa với việc chi đã hoại tử hoặc tổn thương mạch máu lớn."
+        },
+        {
+          "q": "Sau khi mở cân, màu sắc cơ thể nào được đánh giá là còn sống (quy tắc 4C)?",
+          "options": [
+            "Màu xám xịt, không chảy máu",
+            "Màu đỏ, co giật khi kích thích (Contractility)",
+            "Cắt không chảy máu",
+            "Mềm nhũn, bở nát"
+          ],
+          "answer": 1,
+          "explain": "4C đánh giá cơ sống: Color (đỏ), Consistency (chắc), Contractility (co khi kích thích), Capacity to bleed (chảy máu khi cắt)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 25 tuổi sưng đau cẳng chân sau bó bột gãy xương chày mác",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 25 tuổi, tiền sử khỏe mạnh.<br><br><b>Bệnh sử:</b> Vào cấp cứu sau tai nạn giao thông ngã xe máy. Bệnh nhân được nắn chỉnh và bó bột đùi bàn chân chẻ dọc tại tuyến trước. Sáu giờ sau, bệnh nhân kêu đau dữ dội cẳng chân phải, mức độ đau tăng dần và không thuyên giảm dù đã tiêm morphin tĩnh mạch.<br><br><b>Khám lâm sàng:</b> Phát hiện gãy kín 1/3 giữa xương chày và xương mác phải. Khám thấy các ngón chân sưng nề nhẹ, tê bì râm ran vùng kẽ ngón chân 1-2. Bệnh nhân nhăn nhó kêu la đau chói khi bác sĩ làm động tác gập lòng các ngón chân thụ động. Mạch mu chân và mạch chày sau vẫn bắt rõ, thời gian đổ đầy mao mạch (CRT) 2 giây, da ấm. Không có vết thương hở.<br><br><b>Xét nghiệm:</b> X-quang kiểm tra sau bó bột cho thấy trục xương thẳng, không di lệch thứ phát.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Huyết khối tĩnh mạch sâu",
+            "Chèn ép khoang cấp tính",
+            "Tổn thương động mạch khoeo",
+            "Hội chứng vùi lấp"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh đau dữ dội không tương xứng, không đáp ứng opioid và đau khi kéo giãn cơ thụ động sau gãy xương là điển hình của chèn ép khoang cấp tính. Dấu hiệu này đặc trưng và có sớm hơn các chẩn đoán phân biệt khác."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh giải thích vì sao mạch mu chân vẫn bắt rõ trong tình huống này?",
+          "options": [
+            "Tuần hoàn bàng hệ phát triển mạnh",
+            "Áp lực khoang chưa vượt huyết áp tâm thu",
+            "Sự co thắt chỉ xảy ra ở hệ tĩnh mạch",
+            "Động mạch nằm ngoài hoàn toàn mạc cơ"
+          ],
+          "answer": 1,
+          "explain": "Áp lực khoang bình thường rất thấp. Khi áp lực tăng vượt ngưỡng mao mạch (khoảng 30 mmHg) sẽ gây thiếu máu mô, nhưng chưa vượt qua huyết áp tâm thu nên mạch động mạch lớn ngoại biên (mạch mu chân) vẫn lưu thông bình thường."
+        },
+        {
+          "q": "Bước xử trí cơ học đầu tiên cần thực hiện ngay tại giường bệnh là gì?",
+          "options": [
+            "Kê cao chi tổn thương vượt mức tim",
+            "Tháo bỏ hoàn toàn bột và bông lót",
+            "Băng ép thun toàn bộ cẳng chân",
+            "Tiêm thuốc tiêu sợi huyết tại chỗ"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc cấp cứu đầu tiên khi nghi ngờ chèn ép khoang ở chi đang mang nẹp hoặc bột là tháo bỏ hoàn toàn mọi băng gạc và nẹp bên ngoài đến tận da để giảm áp lực cơ học ngoại lai. Kê cao chi làm giảm áp lực tưới máu là chống chỉ định."
+        },
+        {
+          "q": "Triệu chứng tê bì vùng kẽ ngón chân 1-2 phản ánh tình trạng thiếu máu của cấu trúc nào?",
+          "options": [
+            "Thần kinh mác sâu",
+            "Thần kinh mác nông",
+            "Thần kinh chày sau",
+            "Thần kinh hiển"
+          ],
+          "answer": 0,
+          "explain": "Thần kinh mác sâu đi trong khoang trước cẳng chân, chi phối cảm giác nông cho vùng kẽ ngón chân 1 và 2. Tê bì vùng này là dấu hiệu sớm chỉ điểm áp lực khoang trước đang tăng."
+        },
+        {
+          "q": "Phương pháp phẫu thuật chuẩn mực cho bệnh lý này là gì?",
+          "options": [
+            "Rạch mở mạc khoang trước và ngoài",
+            "Mổ kết hợp xương bằng đinh nội tủy",
+            "Rạch mở mạc cả bốn khoang cẳng chân",
+            "Khâu phục hồi động mạch chày trước"
+          ],
+          "answer": 2,
+          "explain": "Giải phẫu cẳng chân có 4 khoang độc lập (trước, ngoài, sau nông, sau sâu). Phương pháp phẫu thuật tiêu chuẩn là rạch mở mạc giải áp triệt để cả 4 khoang, thường qua hai đường mổ mặt ngoài và mặt trong cẳng chân."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi căng cứng cẳng tay sau bỏng nhiệt",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 35 tuổi.<br><br><b>Bệnh sử:</b> Kẹt trong đám cháy kín. Bệnh nhân được truyền dịch hồi sức theo phác đồ Parkland. Sau 6 giờ, bàn tay trái trở nên nhợt nhạt, lạnh ngắt, không đo được tín hiệu SpO2 đầu ngón và mạch quay không bắt được. Bệnh nhân than đau tức sâu bên trong cẳng tay.<br><br><b>Khám lâm sàng:</b> Lúc vào viện ghi nhận bỏng nhiệt sâu độ III toàn bộ chu vi cánh tay và cẳng tay trái. Vùng da tổn thương khô cứng như da thuộc, trắng bệch, không có cảm giác đau khi châm kim. Cẳng tay trái rất căng cứng dưới lớp vảy bỏng. Huyết áp 110/70 mmHg.",
+      "questions": [
+        {
+          "q": "Cơ chế vật lý nào gây ra tình trạng thiếu máu bàn tay ở bệnh nhân này?",
+          "options": [
+            "Huyết khối hệ thống tĩnh mạch",
+            "Vảy bỏng cứng chèn ép cơ học",
+            "Sốc giảm thể tích do thoát dịch",
+            "Tắc nghẽn động mạch do xơ vữa"
+          ],
+          "answer": 1,
+          "explain": "Bỏng độ III toàn bộ chu vi phá hủy da, tạo thành lớp vảy cứng (eschar) mất tính đàn hồi. Lớp vảy này đóng vai trò như vòng garo cơ học bóp nghẹt mô phù nề bên dưới, cản trở tĩnh mạch và mao mạch."
+        },
+        {
+          "q": "Chọn tập hợp ĐÚNG về đặc điểm bệnh lý và xử trí ca này:\n(1) Lớp vảy bỏng độ III mất hoàn toàn tính đàn hồi.\n(2) Hồi sức dịch lượng lớn làm tăng mức độ chèn ép chi.\n(3) Rạch vảy bỏng luôn yêu cầu phải gây mê toàn thân sâu.\n(4) Mất tín hiệu SpO2 là dấu hiệu cảnh báo thiếu máu rất sớm.",
+          "options": [
+            "1, 2",
+            "1, 3",
+            "2, 4",
+            "3, 4"
+          ],
+          "answer": 0,
+          "explain": "Mệnh đề 1 và 2 đúng: vảy bỏng không đàn hồi và dịch hồi sức làm mô phù nề gây tăng chèn ép. Mệnh đề 3 sai vì vùng bỏng độ III mất cảm giác nên có thể rạch tại giường không cần gây mê sâu. Mệnh đề 4 sai vì mất SpO2 là dấu hiệu rất muộn."
+        },
+        {
+          "q": "Thủ thuật ngoại khoa khẩn cấp nào cần thực hiện ngay tại giường bệnh?",
+          "options": [
+            "Cắt lọc toàn bộ cơ hoại tử",
+            "Rạch giải áp vảy bỏng",
+            "Rạch mở mạc bốn khoang",
+            "Cắt cụt cánh tay cấp cứu"
+          ],
+          "answer": 1,
+          "explain": "Thủ thuật khẩn cấp đầu tay cho chèn ép do bỏng chu vi là rạch giải áp vảy bỏng (Escharotomy) dọc theo trục chi để cắt đứt vòng thắt từ bề mặt ngoài."
+        },
+        {
+          "q": "Độ sâu tiêu chuẩn của đường rạch trong thủ thuật trên cần đạt đến lớp giải phẫu nào?",
+          "options": [
+            "Rạch qua lớp biểu bì và trung bì nông",
+            "Rạch xuyên qua lớp mạc bọc cơ sâu cẳng tay",
+            "Rạch chạm đến màng xương cẳng tay",
+            "Rạch qua vảy bỏng đến tổ chức mỡ dưới da"
+          ],
+          "answer": 3,
+          "explain": "Escharotomy chỉ yêu cầu rạch xuyên qua toàn bộ độ dày của lớp da chết (vảy cứng) để tiếp cận đến lớp mỡ dưới da, đủ để hai mép da tự doãng ra. Không rạch sâu vào lớp mạc cơ."
+        },
+        {
+          "q": "Nếu sau khi hoàn thành thủ thuật trên mà tay vẫn căng cứng và mất mạch, bước can thiệp tiếp theo là gì?",
+          "options": [
+            "Rạch mở lớp mạc cơ sâu thực thụ",
+            "Truyền tĩnh mạch thuốc giãn mạch",
+            "Tăng tốc độ truyền Ringer Lactate",
+            "Băng ép cố định toàn bộ cánh tay"
+          ],
+          "answer": 0,
+          "explain": "Nếu rạch vảy bỏng ngoài da không giúp phục hồi tuần hoàn và khoang cơ vẫn căng cứng, chứng tỏ phù nề đã lan sâu vào khối cơ. Khi đó bắt buộc phải chuyển mổ rạch mở lớp mạc cơ sâu (Fasciotomy) thực thụ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi sưng to đùi sau ngã đang dùng Rivaroxaban",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 65 tuổi.<br><br><b>Tiền sử:</b> Rung nhĩ đang uống thuốc chống đông thế hệ mới Rivaroxaban 20 mg/ngày.<br><br><b>Bệnh sử:</b> Trượt ngã đập mặt trước đùi phải vào bậc thềm cách đây 10 giờ. Lúc đầu vẫn đi lại được, nhưng sau đó đùi phải sưng to gấp rưỡi bên đối diện, căng bóng, bầm tím lan rộng và đau dữ dội.<br><br><b>Khám lâm sàng:</b> Mặt trước đùi cứng như gỗ, bệnh nhân không tự nâng thẳng chân được, mất cảm giác da mặt trước đùi. Huyết áp tụt còn 85/55 mmHg, mạch 115 lần/phút. Mạch mu chân và mạch chày sau vẫn bắt rõ.<br><br><b>Xét nghiệm:</b> Siêu âm Doppler có khối máu tụ thể tích lớn trong khoang cơ tứ đầu đùi. Xét nghiệm Hb giảm từ 135 g/L xuống 80 g/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán toàn diện nhất giải thích tình trạng hiện tại của bệnh nhân là gì?",
+          "options": [
+            "Gãy xương đùi kín và sốc nhiễm khuẩn",
+            "Chèn ép khoang và sốc mất máu",
+            "Đụng dập phần mềm và huyết khối",
+            "Viêm mô tế bào và rối loạn đông máu"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân dùng chống đông bị chấn thương gây tụ máu không cầm trong khoang cơ tứ đầu đùi. Thể tích máu lớn tích tụ gây tăng áp lực chèn ép khoang, đồng thời lượng máu mất lớn (Hb giảm sâu) dẫn đến sốc giảm thể tích (sốc mất máu)."
+        },
+        {
+          "q": "Cơ chế chính gây mất cảm giác mặt trước đùi và liệt cơ tứ đầu đùi là gì?",
+          "options": [
+            "Đứt hoàn toàn thần kinh tọa",
+            "Hoại tử nhánh thần kinh bịt",
+            "Chèn ép nhánh thần kinh đùi",
+            "Tổn thương rễ thần kinh tủy"
+          ],
+          "answer": 2,
+          "explain": "Thần kinh đùi đi trong khoang trước đùi, có chức năng chi phối vận động cơ tứ đầu (duỗi gối/nâng chân) và cảm giác da mặt trước đùi. Khối máu tụ khoang trước gây chèn ép và thiếu máu nhánh thần kinh này."
+        },
+        {
+          "q": "Trước khi mổ rạch giải áp khoang đùi, bước hồi sức nội khoa nào mang tính sống còn?",
+          "options": [
+            "Tiêm bắp Vitamin K liều cao",
+            "Dùng thuốc đảo ngược đông máu",
+            "Truyền tĩnh mạch kháng sinh",
+            "Dùng thuốc tiêu sợi huyết cấp"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân đang rối loạn đông máu do dùng DOAC. Việc rạch mạc giải áp ngay lập tức sẽ gây chảy máu ồ ạt vô phương cứu chữa. Bắt buộc phải dùng thuốc đảo ngược đông máu kết hợp hồi sức thể tích trước khi mổ."
+        },
+        {
+          "q": "Thuốc giải độc đặc hiệu nào được khuyến cáo để đảo ngược tác dụng của Rivaroxaban?",
+          "options": [
+            "Protamine sulfate tĩnh mạch",
+            "Phức hợp Andexanet alfa",
+            "Vitamin K1 đường tiêm bắp",
+            "Thuốc Idarucizumab tĩnh mạch"
+          ],
+          "answer": 1,
+          "explain": "Rivaroxaban là thuốc ức chế trực tiếp yếu tố Xa. Thuốc giải độc đặc hiệu được guideline khuyến cáo là Andexanet alfa (hoặc phức hợp Prothrombin nếu không có sẵn). Vitamin K hay Protamine không có tác dụng."
+        },
+        {
+          "q": "Rủi ro sinh mạng lớn nhất nếu thực hiện rạch mở mạc mà không điều chỉnh đông máu là gì?",
+          "options": [
+            "Thuyên tắc động mạch phổi cấp",
+            "Chảy máu ồ ạt không kiểm soát",
+            "Sốc phản vệ do thuốc gây mê",
+            "Ngừng tim do tăng kali máu cấp"
+          ],
+          "answer": 1,
+          "explain": "Áp lực khoang cao tạo ra \"hiệu ứng garo\" kìm hãm một phần chảy máu. Nếu rạch mạc giải áp khi chưa điều chỉnh được tình trạng đông máu, \"nút garo\" bung ra sẽ làm các mạch máu tổn thương chảy ồ ạt không kiểm soát, đe dọa tử vong trên bàn mổ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 7 tuổi khóc thét sau bó bột gãy trên lồi cầu",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam 7 tuổi.<br><br><b>Bệnh sử:</b> Ngã chống tay trái khi chơi xích đu, được chẩn đoán gãy trên lồi cầu xương cánh tay di lệch. Bệnh nhi được nắn chỉnh kín và bó bột cánh cẳng bàn tay ở tư thế khuỷu gấp sâu. Mười hai giờ sau, trẻ khóc thét liên tục, kêu buốt vùng cẳng tay trái.<br><br><b>Khám lâm sàng:</b> Bàn tay trái nhợt nhạt, lạnh, sưng nề mạnh. Trẻ giữ các ngón tay ở tư thế gấp nhẹ, khóc ré lên và chống cự khi bác sĩ cầm kéo duỗi thẳng các ngón tay thụ động. Có hiện tượng giảm cảm giác rõ rệt ở ngón trỏ và ngón giữa. Không có vết thương hở.",
+      "questions": [
+        {
+          "q": "Biến chứng cấp tính nào đang diễn ra ở bệnh nhi này?",
+          "options": [
+            "Hội chứng loạn dưỡng Sudeck",
+            "Chèn ép khoang cẳng tay cấp",
+            "Tổn thương thần kinh quay",
+            "Khớp giả lồi cầu cánh tay"
+          ],
+          "answer": 1,
+          "explain": "Gãy trên lồi cầu ở trẻ em bó bột tư thế gấp rất dễ gây chèn ép khoang trước cẳng tay. Trẻ đau dữ dội, không đáp ứng giảm đau và chống cự khi duỗi ngón là bệnh cảnh cấp tính điển hình của biến chứng này."
+        },
+        {
+          "q": "Động tác kéo duỗi ngón tay thụ động gây đau chói chứng tỏ nhóm cơ nào đang bị chèn ép?",
+          "options": [
+            "Nhóm cơ gấp mặt trước cẳng tay",
+            "Nhóm cơ duỗi mặt sau cẳng tay",
+            "Nhóm cơ cánh tay quay mặt ngoài",
+            "Nhóm cơ gian cốt mặt mu bàn tay"
+          ],
+          "answer": 0,
+          "explain": "Khi duỗi ngón tay thụ động, các cơ gấp ngón tay (nằm ở khoang trước cẳng tay) bị kéo căng cơ học. Khi cơ đang thiếu máu cục bộ, sự kéo căng cơ này gây ra cơn đau chói kịch liệt."
+        },
+        {
+          "q": "Bước xử trí cơ học đầu tiên và khẩn cấp nhất ngay tại phòng khám là gì?",
+          "options": [
+            "Kê cao tay bệnh nhi trên mức tim",
+            "Tiêm tĩnh mạch morphin giảm đau",
+            "Tháo tung toàn bộ nẹp bột và bông",
+            "Băng ép chặt thêm vùng cẳng tay"
+          ],
+          "answer": 2,
+          "explain": "Ở một chi đang bó bột có dấu hiệu chèn ép khoang, bước khẩn cấp cơ học đầu tiên và dễ thực hiện nhất là tháo tung hoàn toàn băng bột và lớp bông lót để loại bỏ triệt để sức ép từ bên ngoài."
+        },
+        {
+          "q": "Triệu chứng giảm cảm giác ngón trỏ và ngón giữa do thiếu máu dây thần kinh nào?",
+          "options": [
+            "Thần kinh giữa",
+            "Thần kinh trụ",
+            "Thần kinh quay",
+            "Thần kinh cơ bì"
+          ],
+          "answer": 0,
+          "explain": "Thần kinh giữa đi xuyên qua khoang trước cẳng tay, chi phối cảm giác cho mặt lòng ngón 1, ngón 2, ngón 3. Sự thiếu máu cấp thần kinh giữa do tăng áp lực sẽ gây tê bì và giảm cảm giác tại các ngón này."
+        },
+        {
+          "q": "Nếu không được rạch mạc giải áp kịp thời, di chứng muộn điển hình nhất là gì?",
+          "options": [
+            "Bàn tay rủ do liệt thần kinh quay",
+            "Viêm xương tủy viêm mạn tính",
+            "Co rút thiếu máu cục bộ Volkmann",
+            "Cốt hóa lạc chỗ quanh khớp khuỷu"
+          ],
+          "answer": 2,
+          "explain": "Nếu chèn ép khoang trước cẳng tay không được giải quyết, nhóm cơ gấp sẽ hoại tử, xơ hóa và co rút lại, kéo cổ tay và các ngón tay gập cố định thành hình vuốt thú. Đây là hội chứng co rút thiếu máu Volkmann kinh điển."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi sưng cứng bắp chân sau mổ lấy huyết khối động mạch khoeo",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 60 tuổi.<br><br><b>Tiền sử:</b> Hút thuốc lá nhiều năm.<br><br><b>Bệnh sử:</b> Vào viện vì đau buốt và lạnh cẳng chân phải khởi phát cách đây 10 giờ. Khám thấy chân phải nhợt nhạt, mất mạch khoeo và mạch mu chân. Bệnh nhân được phẫu thuật cấp cứu lấy huyết khối động mạch khoeo bằng ống thông Fogarty. Bốn giờ sau mổ, chân phải hồng ấm, mạch mu chân đập rất mạnh. Tuy nhiên, bắp chân phải sưng phù dữ dội, căng cứng như gỗ. Bệnh nhân kêu đau nhức liên tục sâu trong bắp chân, mức độ đau vượt quá mong đợi của vết mổ, không giảm khi tiêm thuốc giảm đau.<br><br><b>Khám lâm sàng:</b> Cảm giác tê râm ran mu bàn chân.<br><br><b>Xét nghiệm:</b> Nước tiểu có màu đỏ sẫm.",
+      "questions": [
+        {
+          "q": "Cơ chế sinh lý bệnh cốt lõi gây sưng phù và tăng áp lực bắp chân sau ca mổ này là gì?",
+          "options": [
+            "Tắc nghẽn lại động mạch do huyết khối",
+            "Tổn thương nội mạc do hội chứng tái tưới máu",
+            "Chảy máu thứ phát nội khoang từ vết mổ",
+            "Tắc nghẽn ống bạch huyết vùng khoeo"
+          ],
+          "answer": 1,
+          "explain": "Sau thiếu máu cấp tính kéo dài (> 6 giờ), việc tái lập dòng máu mang oxy ồ ạt đến mô sẽ tạo ra lượng lớn gốc tự do, gây tổn thương nội mạc mao mạch, làm tăng tính thấm thoát dịch vào khoang, gọi là hội chứng tái tưới máu (Reperfusion injury)."
+        },
+        {
+          "q": "Chọn câu KHÔNG ĐÚNG về đánh giá lâm sàng ở bệnh nhân này:",
+          "options": [
+            "Mạch mu chân đập mạnh giúp loại trừ chèn ép khoang",
+            "Đau nhức dữ dội là dấu hiệu cảnh báo thiếu máu mô",
+            "Cảm giác tê mu bàn chân do chèn ép nhánh thần kinh mác",
+            "Sưng phù căng cứng là hậu quả của hiện tượng tăng tính thấm"
+          ],
+          "answer": 0,
+          "explain": "Câu A là mệnh đề không đúng. Trong chèn ép khoang, áp lực khoang thường vượt ngưỡng mao mạch nhưng vẫn thấp hơn huyết áp tâm thu, do đó mạch động mạch lớn ngoại biên (như mạch mu chân) vẫn đập rõ. Mạch đập không bao giờ loại trừ được chèn ép khoang."
+        },
+        {
+          "q": "Hiện tượng nước tiểu màu đỏ sẫm là hậu quả của quá trình nào?",
+          "options": [
+            "Đái máu đại thể do vỡ bàng quang",
+            "Tác dụng phụ của thuốc cản quang",
+            "Myoglobin niệu do hoại tử cơ vân",
+            "Suy chức năng bài tiết của gan"
+          ],
+          "answer": 2,
+          "explain": "Tổn thương hoại tử một phần tế bào cơ vân giải phóng myoglobin vào máu. Myoglobin hòa tan được lọc qua cầu thận, bài tiết vào nước tiểu gây ra màu đỏ sẫm (đái myoglobin), cần phân biệt với đái máu đại thể."
+        },
+        {
+          "q": "Phương án can thiệp ngoại khoa nào là bắt buộc để bảo tồn chi ở thời điểm hiện tại?",
+          "options": [
+            "Tháo khớp gối phải cấp cứu",
+            "Rạch mở mạc bốn khoang cẳng chân",
+            "Khâu hẹp bớt miệng nối động mạch",
+            "Đặt ống thông hút áp lực âm qua da"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân đã hình thành hội chứng chèn ép khoang thực sự sau tái tưới máu. Phương pháp duy nhất để giải phóng áp lực nội tại và cứu sống khối cơ chưa hoại tử là phẫu thuật rạch mở mạc (Fasciotomy) cả 4 khoang cẳng chân."
+        },
+        {
+          "q": "Xét nghiệm sinh hóa nào cần được thực hiện khẩn cấp để phòng ngừa biến chứng ngừng tim?",
+          "options": [
+            "Đo nồng độ Canxi máu",
+            "Đo nồng độ kali máu",
+            "Đo nồng độ Natri máu",
+            "Đo nồng độ Magie máu"
+          ],
+          "answer": 1,
+          "explain": "Sự vỡ màng tế bào cơ vân giải phóng lượng lớn Kali nội bào vào máu tuần hoàn. Tăng Kali máu cấp tính là biến chứng chuyển hóa nguy hiểm nhất, có thể gây rung thất và ngừng tim đột ngột, do đó cần xét nghiệm điện giải khẩn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 22 tuổi đau bắp chân khi chạy bộ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 22 tuổi, vận động viên điền kinh chuyên nghiệp.<br><br><b>Bệnh sử:</b> Đến khám vì tình trạng đau và căng cứng mặt trước ngoài hai cẳng chân. Triệu chứng này luôn xuất hiện sau khi chạy được khoảng 3 km, đau như xé cơ kèm cảm giác tê râm ran vùng mu bàn chân khiến bệnh nhân phải ngừng chạy. Sau khi nghỉ ngơi 30 phút, cơn đau và cảm giác căng cứng biến mất hoàn toàn.<br><br><b>Khám lâm sàng:</b> Khám tại phòng khám lúc nghỉ ngơi thấy hai cẳng chân mềm, không ấn đau điểm khu trú trên xương chày, mạch mu chân rõ, sức cơ bình thường. Siêu âm Doppler mạch máu chi dưới không có huyết khối.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng nào phù hợp nhất với bệnh cảnh của bệnh nhân?",
+          "options": [
+            "Gãy xương mác thể ẩn do mỏi",
+            "Chèn ép khoang mạn tính do gắng sức",
+            "Cơn đau cách hồi do hẹp động mạch",
+            "Viêm gân cơ chày trước mạn tính"
+          ],
+          "answer": 1,
+          "explain": "Đau căng cứng bắp chân có tính chu kỳ, chỉ xuất hiện khi gắng sức đạt ngưỡng và tự hết hoàn toàn khi nghỉ ngơi ở một vận động viên trẻ là bệnh cảnh đặc trưng của hội chứng chèn ép khoang mạn tính do gắng sức (CECS)."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây tăng áp lực nội khoang ở bệnh lý này là gì?",
+          "options": [
+            "Tắc nghẽn vi tuần hoàn do cục máu đông",
+            "Thể tích khối cơ tăng trong lớp mạc kém đàn hồi",
+            "Cọ xát giữa các màng xương chày và mác",
+            "Thoái hóa sụn khớp do lặp lại động tác"
+          ],
+          "answer": 1,
+          "explain": "Khi vận động, lưu lượng máu tăng làm thể tích cơ nở ra đến 20%. Ở người bệnh CECS, lớp mạc bao quanh cơ kém đàn hồi không giãn nở tương xứng, làm áp lực khoang tăng cao tạm thời, gây hẹp vi tuần hoàn và thiếu máu cơ thoáng qua."
+        },
+        {
+          "q": "Phương pháp cận lâm sàng nào là tiêu chuẩn vàng để xác định chẩn đoán?",
+          "options": [
+            "Chụp MRI cẳng chân có tiêm thuốc",
+            "Siêu âm mạch máu ngay sau khi chạy",
+            "Đo áp lực khoang lúc nghỉ và sau gắng sức",
+            "Điện cơ đồ đánh giá dẫn truyền thần kinh"
+          ],
+          "answer": 2,
+          "explain": "Tiêu chuẩn vàng để chẩn đoán xác định là đo áp lực khoang bằng kim. Áp lực thường bình thường lúc nghỉ, nhưng sẽ tăng vọt bất thường ngay sau bài kiểm tra chạy gắng sức và chậm trở về mức nền so với người khỏe mạnh."
+        },
+        {
+          "q": "Tình trạng tê râm ran ở mu bàn chân do chèn ép thần kinh nào?",
+          "options": [
+            "Thần kinh mác nông",
+            "Thần kinh mác sâu",
+            "Thần kinh chày sau",
+            "Thần kinh hiển"
+          ],
+          "answer": 0,
+          "explain": "Khoang trước và ngoài là vị trí thường gặp CECS nhất. Thần kinh mác nông đi trong khoang ngoài, chi phối cảm giác mu bàn chân. Áp lực khoang tăng chèn ép tạm thời thần kinh này gây triệu chứng tê râm ran."
+        },
+        {
+          "q": "Nếu điều trị bảo tồn thất bại và bệnh nhân muốn tiếp tục thi đấu, chỉ định ngoại khoa nào là triệt để nhất?",
+          "options": [
+            "Phẫu thuật bắc cầu động mạch chày",
+            "Cắt bỏ một phần cơ chày trước bị phì đại",
+            "Phẫu thuật rạch mở lớp mạc cơ chọn lọc",
+            "Nội soi cắt đứt nhánh thần kinh cảm giác"
+          ],
+          "answer": 2,
+          "explain": "Nếu điều trị nội khoa bảo tồn (nghỉ ngơi, đổi môn thể thao) thất bại và bệnh nhân vẫn muốn duy trì thi đấu cường độ cao, phẫu thuật rạch mở mạc cơ chọn lọc (Fasciotomy) theo chương trình mang lại hiệu quả triệt để."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi hôn mê sưng to cẳng chân sau tai nạn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 30 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì đa chấn thương sau tai nạn giao thông nghiêm trọng. Bệnh nhân hôn mê sâu (GCS 6 điểm), đang được đặt nội khí quản và thở máy.<br><br><b>Khám lâm sàng:</b> Khám toàn thân: huyết áp 85/50 mmHg (đang dùng thuốc vận mạch), nhịp tim 125 lần/phút. Cẳng chân trái sưng nề rất to, da căng bóng bầm tím. Do bệnh nhân hôn mê nên không thể khai thác triệu chứng đau cơ năng. Mạch mu chân trái sờ yếu nhưng siêu âm Doppler vẫn có tín hiệu dòng chảy. Bụng mềm.<br><br><b>Xét nghiệm:</b> X-quang ghi nhận gãy kín nát 1/3 dưới thân xương chày trái. Siêu âm FAST âm tính.",
+      "questions": [
+        {
+          "q": "Trong điều kiện không thể đánh giá lâm sàng vùng chi, phương pháp nào mang tính quyết định để chẩn đoán chèn ép khoang?",
+          "options": [
+            "Chụp cắt lớp vi tính mạch máu cản quang",
+            "Siêu âm Doppler đánh giá dòng chảy mao mạch",
+            "Đo áp lực khoang cẳng chân trực tiếp bằng kim",
+            "Đánh giá thời gian đổ đầy mao mạch đầu ngón"
+          ],
+          "answer": 2,
+          "explain": "Ở bệnh nhân đa chấn thương hôn mê hoặc chấn thương sọ não, bác sĩ không thể đánh giá các triệu chứng cơ năng như đau quá mức hay dị cảm thần kinh. Đo áp lực khoang trực tiếp bằng kim là phương pháp khách quan duy nhất để chẩn đoán."
+        },
+        {
+          "q": "Tình trạng tụt huyết áp hiện tại ảnh hưởng như thế nào đến nguy cơ thiếu máu chi do chèn ép khoang?",
+          "options": [
+            "Làm giảm phù nề do hiện tượng co mạch ngoại vi",
+            "Làm tăng nguy cơ do thu hẹp áp lực tưới máu mô",
+            "Không ảnh hưởng vì chèn ép khoang là cơ chế tại chỗ",
+            "Ngăn ngừa hoại tử bằng cách giảm lưu lượng máu"
+          ],
+          "answer": 1,
+          "explain": "Áp lực tưới máu mô (ΔP) bằng hiệu số giữa huyết áp tâm trương và áp lực khoang. Khi huyết áp tâm trương tụt thấp do sốc, ΔP nhanh chóng rơi xuống ngưỡng nguy hiểm dù áp lực khoang chưa tăng quá cao, làm TĂNG nguy cơ hoại tử cơ."
+        },
+        {
+          "q": "Theo tiêu chuẩn, chỉ định phẫu thuật giải áp tuyệt đối được đặt ra khi chênh lệch giữa huyết áp tâm trương và áp lực khoang (ΔP) ở mức nào?",
+          "options": [
+            "ΔP lớn hơn 40 mmHg",
+            "ΔP nhỏ hơn hoặc bằng 30 mmHg",
+            "ΔP nhỏ hơn hoặc bằng 50 mmHg",
+            "ΔP luôn bằng với huyết áp tâm thu"
+          ],
+          "answer": 1,
+          "explain": "Theo các guideline thực hành cấp cứu chấn thương, khi chỉ số ΔP (Huyết áp tâm trương trừ đi Áp lực khoang) ≤ 30 mmHg, tình trạng thiếu máu mao mạch không thể đảo ngược đang diễn ra. Đây là chỉ định tuyệt đối để mổ rạch mạc."
+        },
+        {
+          "q": "Nếu đo được áp lực khoang cẳng chân trái là 25 mmHg ở bệnh nhân này, quyết định xử trí nào hợp lý nhất?",
+          "options": [
+            "Tiếp tục theo dõi vì áp lực chưa vượt 30 mmHg",
+            "Mổ rạch mạc giải áp ngay lập tức vì ΔP <= 30 mmHg",
+            "Bó bột cẳng chân để cầm máu ổ gãy bên trong",
+            "Truyền tĩnh mạch dung dịch muối ưu trương"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có huyết áp tâm trương là 50 mmHg, áp lực khoang đo được là 25 mmHg -> ΔP = 50 - 25 = 25 mmHg. Do ΔP ≤ 30 mmHg, bệnh nhân đã có chỉ định mổ rạch mạc giải áp khẩn cấp dù áp lực khoang tuyệt đối chưa chạm ngưỡng 30 mmHg."
+        },
+        {
+          "q": "Khi phẫu thuật giải áp cẳng chân, cách xử lý phần da và vết mổ nào là chuẩn mực nhất?",
+          "options": [
+            "Khâu kín da ngay sau khi rạch mạc giải áp",
+            "Xoay vạt da cơ che phủ toàn bộ xương gãy",
+            "Để hở hoàn toàn vết mổ và che phủ gạc ẩm",
+            "Ghép da tự thân mỏng trong cùng thì mổ"
+          ],
+          "answer": 2,
+          "explain": "Nguyên tắc bắt buộc sau khi phẫu thuật rạch mạc giải áp là tuyệt đối không khâu kín da ngay. Vết mổ phải được để hở hoàn toàn, che phủ bằng gạc ẩm hoặc máy hút áp lực âm (VAC) để mô cơ có không gian giãn nở cho đến khi phù nề thoái lui."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 48 tuổi đè gập chân phải 36 giờ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 48 tuổi, nghiện ma túy.<br><br><b>Bệnh sử:</b> Được phát hiện hôn mê trên sàn nhà cứng, đè gập lên chân phải trong khoảng 36 giờ.<br><br><b>Khám lâm sàng:</b> Lúc vào viện, bệnh nhân lơ mơ, nhịp tim 120 lần/phút, huyết áp 90/60 mmHg, vô niệu. Toàn bộ cẳng chân phải sưng khổng lồ, cứng đờ như gỗ, lạnh ngắt, da nổi nhiều bóng nước chứa dịch máu đen. Bệnh nhân mất hoàn toàn cảm giác và vận động ở chi dưới phải.<br><br><b>Xét nghiệm:</b> Siêu âm Doppler không thấy tín hiệu động mạch dưới gối. Xét nghiệm khẩn cấp: K⁺ 7.8 mmol/L, Creatinin 450 µmol/L, Creatine Kinase (CK) 180,000 U/L. Điện tâm đồ xuất hiện sóng T cao nhọn, QRS giãn rộng.",
+      "questions": [
+        {
+          "q": "Tình trạng cẳng chân phải của bệnh nhân đang ở giai đoạn nào của quá trình thiếu máu?",
+          "options": [
+            "Giai đoạn cảnh báo sớm thiếu máu mô",
+            "Giai đoạn có thể hồi phục nếu giải áp",
+            "Giai đoạn viêm mô tế bào hoại thư",
+            "Giai đoạn hoại tử cơ không thể đảo ngược"
+          ],
+          "answer": 3,
+          "explain": "Thời gian thiếu máu rất dài (36 giờ), chi lạnh, cứng đờ như gỗ, mất hoàn toàn chức năng và men cơ tăng khổng lồ (180,000 U/L) là bằng chứng của chèn ép khoang giai đoạn muộn, mô cơ đã hoại tử vĩnh viễn không thể đảo ngược."
+        },
+        {
+          "q": "Tổ hợp dấu hiệu lâm sàng nào khẳng định tổ chức cơ vân và dây thần kinh ngoại vi đã chết vĩnh viễn?",
+          "options": [
+            "Chi sưng nề khổng lồ kèm nổi bóng nước",
+            "Mất mạch ngoại vi và da cẳng chân lạnh ngắt",
+            "Cơ cứng đờ, liệt hoàn toàn và mất hoàn toàn cảm giác",
+            "Nhịp tim nhanh, tụt huyết áp và vô niệu hoàn toàn"
+          ],
+          "answer": 2,
+          "explain": "Dấu hiệu mất mạch có thể xảy ra do chèn ép cơ học sớm, nhưng sự biến đổi cơ thành khối cứng đờ (rigor mortis) kèm liệt hoàn toàn và vô cảm là dấu hiệu lâm sàng chắc chắn khẳng định cơ vân và thần kinh đã hoại tử vĩnh viễn."
+        },
+        {
+          "q": "Rủi ro nội khoa nào đe dọa sinh mạng bệnh nhân nghiêm trọng nhất ngay lúc này?",
+          "options": [
+            "Rối loạn nhịp tim cấp tính do tăng kali máu",
+            "Sốc nhiễm khuẩn do vi khuẩn yếm khí",
+            "Hội chứng suy hô hấp cấp tính tiến triển",
+            "Tắc nghẽn động mạch phổi do huyết khối"
+          ],
+          "answer": 0,
+          "explain": "Nguy cơ nội khoa đe dọa sinh mạng nhanh nhất hiện tại là mức Kali máu 7.8 mmol/L kèm thay đổi sóng điện tim. Tình trạng này có thể gây rối loạn nhịp thất, rung thất và ngừng tim bất cứ lúc nào, cần ưu tiên xử trí hạ Kali khẩn cấp."
+        },
+        {
+          "q": "Tại sao phẫu thuật rạch mạc giải áp (fasciotomy) lại bị CHỐNG CHỈ ĐỊNH tuyệt đối ở chi tổn thương này?",
+          "options": [
+            "Vì làm tăng nguy cơ tổn thương thêm màng xương",
+            "Vì xả ồ ạt độc tố và vi khuẩn vào tuần hoàn chung",
+            "Vì gây mất vững cấu trúc hệ thống dây chằng khớp",
+            "Vì không có tác dụng thẩm mỹ sau khi cơ phục hồi"
+          ],
+          "answer": 1,
+          "explain": "Ở khối cơ đã hoại tử hoặc nhiễm trùng, rạch mạc giải áp sẽ làm phục hồi một phần tưới máu, qua đó xả ồ ạt \"cơn bão\" độc tố (myoglobin, Kali, lactate) vào tuần hoàn trung tâm, gây hội chứng xả độc (washout syndrome) dẫn đến ngừng tim ngay lập tức."
+        },
+        {
+          "q": "Quyết định can thiệp ngoại khoa nào là cứu mạng và an toàn nhất cho bệnh nhân lúc này?",
+          "options": [
+            "Mở mạc bốn khoang kết hợp lọc máu",
+            "Chọc hút dịch bóng nước và theo dõi",
+            "Phẫu thuật cắt cụt chi trên mức hoại tử",
+            "Can thiệp nội mạch hút huyết khối"
+          ],
+          "answer": 2,
+          "explain": "Khi chi tổn thương đã chết vĩnh viễn và đe dọa sinh mạng bệnh nhân bằng lượng lớn độc tố nội bào (hội chứng tiêu cơ vân), nguyên tắc \"cứu mạng hơn cứu chi\" được kích hoạt. Cắt cụt chi trên mức tổn thương là phẫu thuật an toàn nhất để giải quyết nguồn gốc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 32 tuổi đau cẳng chân sau mổ gãy hở xương chày mác",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 32 tuổi, công nhân nhà máy.<br><br><b>Bệnh sử:</b> Bị máy ép nghiền kẹp vào cẳng chân trái. Sáng ngày thứ 2 sau mổ, bệnh nhân than đau nhức sâu bên trong bắp chân trái, mức độ đau tăng vọt và không đáp ứng với Fentanyl tĩnh mạch. Bệnh nhân kêu la đau đớn khi bác sĩ bẻ gập mặt lưng các ngón chân thụ động.<br><br><b>Khám lâm sàng:</b> Khám cấp cứu chẩn đoán gãy hở 1/3 giữa thân xương chày mác trái độ IIIA, vết thương phần mềm mặt trước dài 8 cm, lộ xương, rách lớp mạc cơ chày trước. Bệnh nhân đã được mổ cắt lọc mô dập nát, cố định xương bằng khung cố định ngoài, vết thương mặt trước được để hở chờ khâu thì hai. Khám thấy bắp chân mặt sau sưng căng cứng, ngón chân tím nhạt.",
+      "questions": [
+        {
+          "q": "Vì sao bệnh nhân có gãy xương hở rách lớp mạc cơ nhưng vẫn bị hội chứng chèn ép khoang?",
+          "options": [
+            "Do vi khuẩn sinh hơi kỵ khí tạo áp lực trong khoang",
+            "Khung cố định ngoài siết quá chặt vào cấu trúc xương",
+            "Vết rách mạc khoang trước không giải áp được khoang sau",
+            "Do sự thất thoát dịch lượng lớn qua vết thương hở"
+          ],
+          "answer": 2,
+          "explain": "Sai lầm cực kỳ nguy hiểm trong lâm sàng là cho rằng gãy hở không bị chèn ép khoang. Thực tế, các khoang cẳng chân ngăn cách bằng vách gian cơ chắc chắn; vết rách nhỏ ở khoang trước không đủ để giải phóng áp lực tích tụ từ sự phù nề của các khoang lân cận."
+        },
+        {
+          "q": "Động tác bẻ gập mặt lưng các ngón chân thụ động gây đau chỉ điểm thiếu máu ở khoang nào?",
+          "options": [
+            "Nhóm cơ khoang trước cẳng chân",
+            "Nhóm cơ khoang ngoài cẳng chân",
+            "Nhóm cơ khoang sau sâu cẳng chân",
+            "Nhóm cơ khoang sau nông cẳng chân"
+          ],
+          "answer": 2,
+          "explain": "Động tác gập mặt lưng các ngón chân thụ động (passive dorsiflexion) sẽ kéo căng nhóm cơ gấp dài ngón chân. Các cơ này nằm sâu trong khoang sau sâu cẳng chân, đau chói chứng tỏ khoang này đang bị viêm thiếu máu."
+        },
+        {
+          "q": "Tổ hợp kháng sinh kinh nghiệm ban đầu nào thường được khuyến cáo cho bệnh nhân gãy hở độ IIIA này?",
+          "options": [
+            "Penicillin G liều cao đường tĩnh mạch đơn thuần",
+            "Cephalosporin thế hệ 1 kết hợp với Aminoglycoside",
+            "Metronidazole kết hợp với Clindamycin truyền tĩnh mạch",
+            "Vancomycin kết hợp với Linezolid liều cao ngắt quãng"
+          ],
+          "answer": 1,
+          "explain": "Theo guideline về nhiễm trùng chấn thương, gãy xương hở độ III cần bao phủ kháng sinh phổ rộng chống vi khuẩn Gram dương và Gram âm. Phác đồ tiêu chuẩn ban đầu thường là Cephalosporin thế hệ 1 (như Cefazolin) kết hợp với một Aminoglycoside (như Gentamicin)."
+        },
+        {
+          "q": "Bước xử trí ngoại khoa tiếp theo hợp lý nhất để giải quyết biến chứng hiện tại là gì?",
+          "options": [
+            "Chỉ rạch mở rộng thêm vết thương hở mặt trước",
+            "Rạch hai đường dọc bộc lộ giải áp toàn bộ bốn khoang",
+            "Tháo bỏ khung cố định ngoài và chuyển sang bó bột",
+            "Khâu kín ngay vết thương hở để ngăn ngừa nhiễm trùng"
+          ],
+          "answer": 1,
+          "explain": "Dù đã có vết thương hở mặt trước, nguyên tắc phẫu thuật giải quyết chèn ép khoang cẳng chân vẫn là phải rạch đủ hai đường dọc kinh điển (đường trước ngoài và đường sau trong) để đảm bảo bộc lộ và giải áp triệt để cả 4 khoang."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh nào giải thích triệu chứng đau ngoài mức độ tương xứng dù đã dùng thuốc giảm đau mạnh?",
+          "options": [
+            "Sự cọ xát trực tiếp của các mảnh xương gãy vào cơ",
+            "Tình trạng thiếu máu cục bộ cơ và thần kinh nội khoang",
+            "Tổn thương dập nát hoàn toàn hệ thống thần kinh chày",
+            "Tình trạng căng giãn bao màng xương do khối tụ máu"
+          ],
+          "answer": 1,
+          "explain": "Triệu chứng đau dữ dội, đau ngoài mức độ tổn thương và không đáp ứng với thuốc giảm đau thần kinh trung ương (Fentanyl, Morphin) là hậu quả của tình trạng thiếu máu mô cục bộ lan rộng bên trong khối cơ, làm ngưỡng kích thích đau giảm mạnh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 18 tuổi sưng căng cẳng tay sau truyền dịch",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ 18 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện chờ mổ viêm ruột thừa cấp. Bệnh nhân được điều dưỡng thiết lập đường truyền tĩnh mạch bằng kim luồn ở mặt trước cẳng tay phải để truyền dịch tinh thể với tốc độ cao. Khoảng 20 phút sau, bệnh nhân kêu đau rất dữ dội tại vùng đặt kim.<br><br><b>Khám lâm sàng:</b> Khám thấy mặt lòng cẳng tay phải sưng phù nhanh chóng, nhợt nhạt và căng cứng. Bệnh nhân than cảm giác tê bì râm ran ở mặt lòng ngón trỏ và ngón giữa. Vùng da quanh kim tiêm không có dấu hiệu nổi ban đỏ dị ứng, không nổi mề đay. Mạch quay bắt yếu hơn so với tay đối diện.",
+      "questions": [
+        {
+          "q": "Nguyên nhân trực tiếp gây tăng áp lực nội khoang cẳng tay ở bệnh nhân này là gì?",
+          "options": [
+            "Phản ứng dị ứng toàn thân với thuốc",
+            "Viêm tắc tĩnh mạch huyết khối cấp tính",
+            "Dịch truyền thoát mạch vào khoang kín",
+            "Cơn co thắt động mạch tự phát"
+          ],
+          "answer": 2,
+          "explain": "Tình trạng kim luồn trật khỏi lòng mạch khiến dung dịch truyền bị bơm cưỡng bức vào mô kẽ (thoát mạch - extravasation). Thể tích thêm vào đột ngột này làm tăng áp lực khoang cẳng tay, gây chèn ép khoang cơ học do nguyên nhân thầy thuốc (Iatrogenic)."
+        },
+        {
+          "q": "Cảm giác tê bì ngón trỏ và ngón giữa gợi ý chèn ép dây thần kinh nào?",
+          "options": [
+            "Thần kinh giữa",
+            "Thần kinh trụ",
+            "Thần kinh quay",
+            "Thần kinh cơ bì"
+          ],
+          "answer": 0,
+          "explain": "Thần kinh giữa đi dọc theo mặt trước cẳng tay, chi phối cảm giác cho mặt lòng ngón cái, ngón trỏ, ngón giữa và nửa ngón nhẫn. Tê ngón trỏ và ngón giữa là dấu hiệu sớm của chèn ép khoang trước (khoang gấp)."
+        },
+        {
+          "q": "Bước xử trí cơ học đầu tiên cần thực hiện ngay tại giường bệnh là gì?",
+          "options": [
+            "Kê cao tay bệnh nhân vượt quá đầu",
+            "Ngừng truyền dịch và tháo bỏ đường truyền",
+            "Băng ép chặt toàn bộ cẳng tay sưng nề",
+            "Chườm nóng liên tục vùng quanh mũi kim"
+          ],
+          "answer": 1,
+          "explain": "Hành động khẩn cấp và cơ bản nhất là khóa ngay dây truyền để ngừng đưa thêm dịch vào mô, sau đó nhanh chóng rút tháo kim luồn. Kê chi ngang mức tim, không nên băng ép hay chườm nóng vì làm tăng áp lực và nhu cầu chuyển hóa."
+        },
+        {
+          "q": "Đa số các trường hợp tăng áp lực do nguyên nhân này được ưu tiên quản lý như thế nào?",
+          "options": [
+            "Mổ rạch mạc giải áp ngay lập tức",
+            "Điều trị nội khoa bảo tồn và theo dõi sát",
+            "Tiêm Corticoid tại chỗ để giảm phù nề",
+            "Dùng thuốc tiêu sợi huyết đường tĩnh mạch"
+          ],
+          "answer": 1,
+          "explain": "Đa số trường hợp tăng áp lực do thoát dịch ngoại vi có thể tự thoái lui thông qua sự hấp thu dịch tự nhiên của cơ thể. Quản lý ban đầu thường ưu tiên điều trị nội khoa bảo tồn, theo dõi sát diễn biến lâm sàng."
+        },
+        {
+          "q": "Chỉ định phẫu thuật rạch mở mạc (fasciotomy) được đặt ra khi nào?",
+          "options": [
+            "Ngay khi phát hiện có dịch truyền thoát mạch",
+            "Khi cẳng tay sưng to bất kể mức độ đau đớn",
+            "Khi Delta P <= 30 mmHg hoặc triệu chứng xấu đi",
+            "Khi thấy vùng da quanh đầu kim nổi mẩn đỏ tấy"
+          ],
+          "answer": 2,
+          "explain": "Phẫu thuật rạch mạc giải áp (Fasciotomy) không phải là thủ thuật thường quy cho mọi ca sưng phù thoát mạch. Chỉ định mổ chỉ đặt ra khi các biện pháp bảo tồn thất bại, triệu chứng thiếu máu mô tồi tệ hơn, hoặc đo áp lực khách quan có Delta P <= 30 mmHg."
+        }
+      ]
+    }
+  ]
+}
