@@ -1,0 +1,560 @@
+{
+  "name": "Viêm màng não mủ MCQ",
+  "description": "MCQ về Viêm màng não mủ ở trẻ em, bao gồm tác nhân, cơ chế bệnh sinh, chẩn đoán, điều trị và biến chứng dựa trên tài liệu Nhi khoa.",
+  "level": "Đại học / Sau đại học",
+  "type": "mcq",
+  "category": "Nhi",
+  "subcategory": "Truyền nhiễm",
+  "questions": [
+    {
+      "q": "Tác nhân gây viêm màng não mủ (VMNM) thường gặp nhất ở trẻ sơ sinh dưới 2 tháng tuổi là:",
+      "options": [
+        "Streptococcus pneumoniae",
+        "Neisseria meningitidis",
+        "Streptococcus agalactiae (GBS)",
+        "Haemophilus influenzae type b"
+      ],
+      "answer": 2,
+      "explain": "Ở trẻ sơ sinh, các tác nhân từ đường sinh dục mẹ chiếm ưu thế, đặc biệt là Liên cầu nhóm B (GBS), E. coli và Listeria. Nguồn: Bệnh học Nhi khoa tập 1"
+    },
+    {
+      "q": "Vi khuẩn nào sau đây là nguyên nhân hàng đầu gây VMNM ở trẻ trên 5 tuổi?",
+      "options": [
+        "Escherichia coli",
+        "Streptococcus pneumoniae",
+        "Group B Streptococcus",
+        "Listeria monocytogenes"
+      ],
+      "answer": 1,
+      "explain": "Phế cầu (S. pneumoniae) là tác nhân hàng đầu gây VMNM ở trẻ lớn và người trưởng thành. Nguồn: Bệnh học Nhi khoa tập 1"
+    },
+    {
+      "q": "Đường xâm nhập vào khoang dưới nhện phổ biến nhất của vi khuẩn gây VMNM là:",
+      "options": [
+        "Đường kế cận (viêm tai giữa, viêm xoang)",
+        "Đường máu từ một ổ nhiễm khuẩn xa",
+        "Đường trực tiếp sau chấn thương sọ não",
+        "Đường soi thấu qua các bản sọ"
+      ],
+      "answer": 1,
+      "explain": "Đa số các trường hợp VMNM ở trẻ em là hệ quả của tình trạng nhiễm khuẩn huyết, vi khuẩn vượt qua hàng rào máu não. Nguồn: Bệnh học Nhi khoa tập 1"
+    },
+    {
+      "q": "Nhóm tuổi nào sau đây có tỷ lệ mắc VMNM cao nhất trong các lứa tuổi trẻ em?",
+      "options": [
+        "Sơ sinh và nhũ nhi",
+        "Trẻ từ 2-5 tuổi",
+        "Trẻ học đường (6 - 12 tuổi)",
+        "Trẻ vị thành niên"
+      ],
+      "answer": 0,
+      "explain": "Hệ miễn dịch chưa hoàn thiện và việc thiếu hụt kháng thể từ mẹ khiến trẻ dưới 1 tuổi (đặc biệt là trẻ nhỏ hơn 6 tháng) có nguy cơ cao nhất."
+    },
+    {
+      "q": "Đặc điểm dịch tễ quan trọng của viêm màng não do não mô cầu (N. meningitidis) là:",
+      "options": [
+        "Thường xảy ra lẻ tẻ, không thành dịch",
+        "Chỉ gặp ở trẻ suy giảm miễn dịch",
+        "Có khả năng gây thành dịch, lây qua đường hô hấp",
+        "Tỷ lệ người lành mang trùng rất thấp"
+      ],
+      "answer": 2,
+      "explain": "Não mô cầu lây qua giọt bắn đường hô hấp và có khả năng gây ra các vụ dịch lớn trong cộng đồng như trường học, doanh trại."
+    },
+    {
+      "q": "Loại vắc xin nào sau đây đã làm giảm đáng kể tỷ lệ VMNM ở trẻ em từ 2 tháng đến 5 tuổi?",
+      "options": [
+        "Vắc xin BCG",
+        "Vắc xin Viêm não Nhật Bản",
+        "Vắc xin Hib (Haemophilus influenzae type b)",
+        "Vắc xin Viêm gan B"
+      ],
+      "answer": 2,
+      "explain": "Trước khi có vắc xin, Hib là tác nhân hàng đầu ở nhóm tuổi này. Chương trình tiêm chủng mở rộng đã thay đổi căn bản cơ cấu tác nhân."
+    },
+    {
+      "q": "Cơ chế chính gây ra tình trạng giảm Glucose dịch não tủy trong VMNM là:",
+      "options": [
+        "Vi khuẩn trong dịch não tủy ăn hết đường",
+        "Bạch cầu đa nhân tiêu thụ đường mạnh mẽ",
+        "Giảm vận chuyển glucose qua hàng rào máu não và tăng tiêu thụ tại chỗ",
+        "Tăng bài tiết insulin vào khoang dưới nhện"
+      ],
+      "answer": 2,
+      "explain": "Sự kết hợp giữa rối loạn vận chuyển tích cực qua màng và sự tăng tiêu thụ glucose của vi khuẩn tế bào viêm dẫn đến hạ đường DNT. Nguồn: Bệnh học Nhi khoa tập 1"
+    },
+    {
+      "q": "Phù não trong VMNM thường là kết quả của sự phối hợp nhiều cơ chế, TRỪ:",
+      "options": [
+        "Phù não vận mạch do tăng tính thấm hàng rào máu não",
+        "Phù não tế bào do độc tố của vi khuẩn và sản phẩm viêm",
+        "Phù não kẽ do cản trở tái hấp thu dịch não tủy",
+        "Phù não do giảm áp lực thẩm thấu máu đột ngột"
+      ],
+      "answer": 3,
+      "explain": "Ba cơ chế A, B, C là các cơ chế bệnh sinh kinh điển gây tăng áp lực nội sọ trong VMNM. Nguồn: Bệnh học Nhi khoa tập 1"
+    },
+    {
+      "q": "Hàng rào máu não (BBB) bị phá hủy trong VMNM chủ yếu do tác động của:",
+      "options": [
+        "Sự xâm nhập trực tiếp của vi khuẩn vào tế bào nội mô",
+        "Các cytokine viêm (TNF-alpha, IL-1) và các enzyme tiêu protein",
+        "Tình trạng hạ huyết áp hệ thống",
+        "Sự tăng sinh quá mức của các tế bào hình sao"
+      ],
+      "answer": 1,
+      "explain": "Phản ứng viêm quá mức tại khoang dưới nhện giải phóng các chất trung gian hóa học làm nới lỏng các liên kết chặt của tế bào nội mô mạch máu não."
+    },
+    {
+      "q": "Tại sao trong VMNM lại có tình trạng tăng Protein dịch não tủy?",
+      "options": [
+        "Do vi khuẩn tổng hợp protein tại chỗ",
+        "Do tăng tính thấm hàng rào máu não làm protein máu lọt vào",
+        "Do xác bạch cầu thoái hóa giải phóng protein",
+        "Do não tăng sản xuất albumin để bảo vệ tế bào"
+      ],
+      "answer": 1,
+      "explain": "Khi hàng rào máu não bị tổn thương, các phân tử lớn như albumin và globulin từ máu dễ dàng khuếch tán vào dịch não tủy."
+    },
+    {
+      "q": "Biến chứng dày dính màng não và tắc nghẽn lưu thông dịch não tủy thường dẫn đến:",
+      "options": [
+        "Não úng thủy (Hydrocephalus)",
+        "Teo não khu trú",
+        "Xuất huyết não",
+        "U não giả"
+      ],
+      "answer": 0,
+      "explain": "Mủ và các dải fibrin gây tắc nghẽn các lỗ lưu thông hoặc các hạt pacchioni, dẫn đến tích tụ dịch não tủy và giãn não thất."
+    },
+    {
+      "q": "Cơ chế gây co giật trong giai đoạn cấp của VMNM chủ yếu do:",
+      "options": [
+        "Thiếu oxy não kéo dài",
+        "Phản ứng viêm kích thích trực tiếp vỏ não và rối loạn điện giải",
+        "Xuất huyết dưới nhện diện rộng",
+        "Tăng áp lực nội sọ quá mức gây tụt kẹt"
+      ],
+      "answer": 1,
+      "explain": "Phản ứng viêm tại màng não sát vỏ não cùng với các rối loạn chuyển hóa (hạ natri, hạ đường) là nguyên nhân chính gây co giật sớm."
+    },
+    {
+      "q": "Cytokine nào sau đây đóng vai trò trung tâm trong việc khởi phát phản ứng viêm tại màng não?",
+      "options": [
+        "Interferon gamma",
+        "Interleukin 10",
+        "TNF-alpha",
+        "TGFbeta-"
+      ],
+      "answer": 2,
+      "explain": "TNF-alpha và IL-1 là các cytokine tiền viêm quan trọng nhất kích hoạt dòng thác viêm tại khoang dưới nhện."
+    },
+    {
+      "q": "Tình trạng hạ Natri máu trong VMNM thường liên quan đến hội chứng nào sau đây?",
+      "options": [
+        "Hội chứng Conn",
+        "Hội chứng SIADH",
+        "Hội chứng Cushing",
+        "Hội chứng thận hư"
+      ],
+      "answer": 1,
+      "explain": "Hội chứng tiết ADH không thích hợp (SIADH) rất thường gặp trong viêm màng não, gây giữ nước và hạ natri máu do hòa loãng."
+    },
+    {
+      "q": "Tam chứng màng não điển hình ở trẻ lớn bao gồm:",
+      "options": [
+        "Sốt, đau đầu, nôn",
+        "Sốt, co giật, thóp phồng",
+        "Đau đầu, cứng cổ, lơ mơ",
+        "Nôn, táo bón, đau đầu"
+      ],
+      "answer": 0,
+      "explain": "Đây là các triệu chứng cơ năng kinh điển gợi ý kích thích màng não ở trẻ đã biết kêu đau đầu. Nguồn: Bệnh học Nhi khoa tập 1"
+    },
+    {
+      "q": "Dấu hiệu lâm sàng có giá trị nhất gợi ý VMNM ở trẻ nhũ nhi là:",
+      "options": [
+        "Cứng cổ rõ rệt",
+        "Thóp phồng và khớp sọ giãn",
+        "Dấu hiệu Kernig dương tính",
+        "Sốt cao rét run"
+      ],
+      "answer": 1,
+      "explain": "Ở trẻ nhỏ, các dấu hiệu màng não (cứng cổ, Kernig) thường không điển hình; thóp phồng là dấu hiệu khách quan rất quan trọng."
+    },
+    {
+      "q": "Cách khám dấu hiệu Brudzinski trên là:",
+      "options": [
+        "Nâng chân trẻ lên cao khi trẻ nằm ngửa",
+        "Gấp mạnh đầu trẻ về phía ngực khi trẻ nằm ngửa",
+        "Ấn vào xương mu trẻ",
+        "Quay đầu trẻ sang hai bên"
+      ],
+      "answer": 1,
+      "explain": "Dấu hiệu dương tính khi trẻ tự động gấp chân và đùi vào bụng khi ta gấp đầu trẻ. Nguồn: Bệnh học Nhi khoa tập 1"
+    },
+    {
+      "q": "Một trẻ bị VMNM có biểu hiện li bì, nôn vọt, mạch chậm và huyết áp tăng. Đây là biểu hiện của:",
+      "options": [
+        "Tình trạng nhiễm khuẩn huyết nặng",
+        "Hội chứng tăng áp lực nội sọ",
+        "Biến chứng hạ đường huyết",
+        "Phản ứng phụ của thuốc kháng sinh"
+      ],
+      "answer": 1,
+      "explain": "Tam chứng Cushing (mạch chậm, huyết áp tăng, rối loạn nhịp thở) là dấu hiệu muộn và nguy hiểm của tăng áp lực nội sọ."
+    },
+    {
+      "q": "Đặc điểm của tử ban (purpura) trong viêm màng não do não mô cầu là:",
+      "options": [
+        "Dạng chấm nốt, biến mất khi ấn kính",
+        "Dạng bản đồ, hoại tử trung tâm, tiến triển nhanh",
+        "Luôn xuất hiện ở lòng bàn tay, bàn chân",
+        "Chỉ xuất hiện ở vùng da hở"
+      ],
+      "answer": 1,
+      "explain": "Tử ban do não mô cầu thường đa dạng, hình bản đồ, có xu hướng hoại tử và lan rộng rất nhanh trong thể tối cấp."
+    },
+    {
+      "q": "Khám dấu hiệu Kernig dương tính khi:",
+      "options": [
+        "Trẻ đau và co chân lại khi ta gấp đùi vào bụng",
+        "Trẻ không thể duỗi thẳng chân khi đùi đang gấp vuông góc với thân",
+        "Trẻ kêu đau khi ta ấn vào vùng màng nhĩ",
+        "Trẻ có biểu hiện cứng toàn thân khi nâng lên"
+      ],
+      "answer": 1,
+      "explain": "Đây là dấu hiệu kích thích rễ thần kinh khi màng não bị viêm. Nguồn: Bệnh học Nhi khoa tập 1"
+    },
+    {
+      "q": "Ở trẻ sơ sinh, triệu chứng nào thường xuất hiện SỚM nhất trong VMNM?",
+      "options": [
+        "Sốt cao trên 39°C",
+        "Bỏ bú, ngủ lịm hoặc kích thích",
+        "Thóp phồng căng",
+        "Cơn ngừng thở"
+      ],
+      "answer": 1,
+      "explain": "Các triệu chứng ở trẻ sơ sinh thường nghèo nàn và không đặc hiệu, \"thay đổi thói quen\" là gợi ý quan trọng đầu tiên."
+    },
+    {
+      "q": "Triệu chứng \"tiếng khóc não\" (cry encephalic) có đặc điểm:",
+      "options": [
+        "Khóc liên tục không dứt",
+        "Tiếng khóc thét, cao giọng, xảy ra đột ngột",
+        "Tiếng khóc rên rỉ, yếu ớt",
+        "Khóc khi chạm vào người trẻ"
+      ],
+      "answer": 1,
+      "explain": "Đây là kiểu khóc đặc trưng khi có tình trạng kích thích vỏ não hoặc tăng áp lực nội sọ cấp tính."
+    },
+    {
+      "q": "Trong VMNM, dấu hiệu thần kinh khu trú (như liệt dây thần kinh sọ) thường gợi ý điều gì?",
+      "options": [
+        "Bệnh nhân chắc chắn sẽ tử vong",
+        "Vi khuẩn đã kháng thuốc kháng sinh",
+        "Có biến chứng như viêm mạch máu não hoặc tụ dịch dưới màng cứng",
+        "Đây là triệu chứng bắt buộc của thể bệnh nhẹ"
+      ],
+      "answer": 2,
+      "explain": "Các dấu hiệu khu trú gợi ý tổn thương thực thể tại nhu mô hoặc mạch máu não thứ phát sau viêm màng não."
+    },
+    {
+      "q": "Khi khám cứng cổ ở trẻ em, cần phân biệt với tình trạng nào sau đây?",
+      "options": [
+        "Viêm hạch góc hàm hoặc viêm khớp đốt sống cổ",
+        "Trẻ đang khóc quá mức",
+        "Trẻ đang sốt cao",
+        "Tất cả các phương án trên"
+      ],
+      "answer": 3,
+      "explain": "Cần đảm bảo trẻ thư giãn và loại trừ các tổn thương tại chỗ ở cổ để đánh giá chính xác dấu hiệu cứng cổ."
+    },
+    {
+      "q": "Một trẻ VMNM xuất hiện triệu chứng đa niệu, nước tiểu loãng mặc dù đang có dấu hiệu mất nước. Cần nghi ngờ biến chứng:",
+      "options": [
+        "Suy thận cấp",
+        "Đái tháo nhạt trung ương",
+        "Hội chứng SIADH",
+        "Đái tháo đường"
+      ],
+      "answer": 1,
+      "explain": "Viêm nhiễm vùng nền não có thể làm tổn thương vùng hạ đồi - tuyến yên dẫn đến thiếu hụt ADH (đái tháo nhạt)."
+    },
+    {
+      "q": "Triệu chứng lâm sàng nào sau đây KHÔNG thuộc hội chứng màng não?",
+      "options": [
+        "Sợ ánh sáng",
+        "Tư thế nằm co (tư thế súng lục)",
+        "Tăng phản xạ gân xương",
+        "Tăng cảm giác đau toàn thân"
+      ],
+      "answer": 2,
+      "explain": "Hội chứng màng não gây kích thích rễ, thường đi kèm giảm phản xạ gân xương hoặc không đổi, tăng phản xạ thường gặp trong tổn thương tháp."
+    },
+    {
+      "q": "Xét nghiệm có giá trị quyết định để chẩn đoán xác định VMNM là:",
+      "options": [
+        "Cấy máu tìm vi khuẩn",
+        "Chụp CT-scan não có thuốc cản quang",
+        "Chọc dò thắt lưng lấy dịch não tủy (DNT) làm xét nghiệm",
+        "Công thức máu thấy bạch cầu tăng cao"
+      ],
+      "answer": 2,
+      "explain": "DNT là tiêu chuẩn vàng để xác định tình trạng viêm, loại vi khuẩn và tính chất của dịch. Nguồn: Bệnh học Nhi khoa tập 1"
+    },
+    {
+      "q": "Màu sắc dịch não tủy điển hình trong VMNM là:",
+      "options": [
+        "Trong suốt như nước mưa",
+        "Vàng chanh, tự đông",
+        "Đục như nước vo gạo hoặc như mủ",
+        "Hồng hoặc đỏ không đông"
+      ],
+      "answer": 2,
+      "explain": "Sự hiện diện của số lượng lớn bạch cầu đa nhân và vi khuẩn làm DNT mất độ trong và trở nên đục."
+    },
+    {
+      "q": "Biến đổi tế bào DNT nào sau đây phù hợp với VMNM?",
+      "options": [
+        "Tế bào tăng, chủ yếu là Lympho",
+        "Tế bào tăng (thường > 1000/mm3), chủ yếu là bạch cầu đa nhân trung tính",
+        "Tế bào bình thường nhưng protein tăng rất cao",
+        "Tế bào tăng rất cao, chủ yếu là hồng cầu"
+      ],
+      "answer": 1,
+      "explain": "Phản ứng viêm cấp tính do vi khuẩn gây ra sự huy động mạnh mẽ bạch cầu đa nhân vào khoang dưới nhện."
+    },
+    {
+      "q": "Chỉ số Lactate trong dịch não tủy có ý nghĩa gì?",
+      "options": [
+        "Chẩn đoán phân biệt VMNM với VMN do virus",
+        "Xác định mức độ tổn thương gan phối hợp",
+        "Chỉ có giá trị khi lactate máu cũng tăng",
+        "Thay thế hoàn toàn xét nghiệm glucose"
+      ],
+      "answer": 0,
+      "explain": "Lactate DNT thường tăng cao (> 3-4 mmol/L) trong VMNM và là chỉ số nhạy để phân biệt với VMN virus (thường < 2-3 mmol/L)."
+    },
+    {
+      "q": "Chống chỉ định TUYỆT ĐỐI của chọc dò thắt lưng là:",
+      "options": [
+        "Trẻ đang co giật",
+        "Có dấu hiệu tụt kẹt não hoặc tăng áp lực nội sọ quá nặng",
+        "Trẻ sơ sinh dưới 1 ngày tuổi",
+        "Dịch não tủy đã quá đục"
+      ],
+      "answer": 1,
+      "explain": "Chọc dò trong trường hợp này có thể làm thay đổi áp lực đột ngột gây thoát vị não dẫn đến tử vong nhanh chóng."
+    },
+    {
+      "q": "Khi soi nhuộm Gram DNT thấy song cầu khuẩn màu Gram âm, tác nhân hướng tới là:",
+      "options": [
+        "Phế cầu (S. pneumoniae)",
+        "Tụ cầu vàng (S. aureus)",
+        "Não mô cầu (N. meningitidis)",
+        "Liên cầu nhóm B"
+      ],
+      "answer": 2,
+      "explain": "Não mô cầu là song cầu Gram âm. Phế cầu cũng là song cầu nhưng Gram dương (màu tím)."
+    },
+    {
+      "q": "Xét nghiệm ngưng kết latex (LAT) trong dịch não tủy giúp:",
+      "options": [
+        "Xác định kháng sinh đồ của vi khuẩn",
+        "Tìm kháng nguyên vi khuẩn, có giá trị khi bệnh nhân đã dùng kháng sinh trước đó",
+        "Đếm chính xác số lượng vi khuẩn",
+        "Phân biệt vi khuẩn sống hay chết"
+      ],
+      "answer": 1,
+      "explain": "LAT tìm mảnh kháng nguyên, nên dù vi khuẩn đã bị kháng sinh ức chế không mọc được khi cấy, LAT vẫn có thể dương tính."
+    },
+    {
+      "q": "Tỷ lệ Glucose DNT/Glucose máu trong VMNM thường là:",
+      "options": [
+        "> 0,6",
+        "0,5-0,6",
+        "< 0,4",
+        "Bằng 1"
+      ],
+      "answer": 2,
+      "explain": "Glucose DNT giảm sâu, thường dưới 40% so với nồng độ glucose trong máu thực hiện cùng thời điểm."
+    },
+    {
+      "q": "Chỉ định chụp CT-scan não TRƯỚC khi chọc dò thắt lưng khi nào?",
+      "options": [
+        "Tất cả trẻ nghi ngờ VMNM",
+        "Trẻ có dấu hiệu thần kinh khu trú, hôn mê sâu (Glasgow < 8) hoặc phù gai thị",
+        "Trẻ có thóp phồng đơn thuần",
+        "Trẻ bị viêm màng não do não mô cầu"
+      ],
+      "answer": 1,
+      "explain": "Cần loại trừ các khối choán chỗ hoặc tình trạng phù não nặng có nguy cơ thoát vị trước khi làm thủ thuật chọc dò."
+    },
+    {
+      "q": "Protein dịch não tủy trong VMNM thường ở mức nào?",
+      "options": [
+        "< 0,4 g/L",
+        "0,4-1,0 g/L",
+        "Thường > 1,0 g/L, có khi rất cao",
+        "Không bao giờ vượt quá 2,0 g/L"
+      ],
+      "answer": 2,
+      "explain": "Sự phá hủy hàng rào máu não khiến protein thoát vào DNT rất nhiều, mức độ tăng thường tỷ lệ thuận với độ nặng của viêm."
+    },
+    {
+      "q": "Nguyên tắc quan trọng nhất trong sử dụng kháng sinh điều trị VMNM là:",
+      "options": [
+        "Chờ kết quả cấy khuẩn mới dùng kháng sinh",
+        "Dùng kháng sinh đường uống để tránh xâm lấn",
+        "Dùng kháng sinh đường tĩnh mạch, liều cao, càng sớm càng tốt",
+        "Chỉ dùng kháng sinh khi trẻ hết co giật"
+      ],
+      "answer": 2,
+      "explain": "VMNM là một cấp cứu nội khoa, kháng sinh phải đạt nồng độ diệt khuẩn trong DNT nhanh nhất có thể. Nguồn: Bệnh học Nhi khoa tập 1"
+    },
+    {
+      "q": "Lựa chọn kháng sinh theo kinh nghiệm cho trẻ > 3 tháng tuổi khi chưa có kết quả cấy là:",
+      "options": [
+        "Ceftriaxone (hoặc Cefotaxime) phối hợp với Vancomycin",
+        "Penicillin đơn độc",
+        "Gentamicin phối hợp với Amoxicillin",
+        "Ciprofloxacin"
+      ],
+      "answer": 0,
+      "explain": "Phối hợp này bao phủ được các tác nhân phổ biến và giải quyết được vấn đề phế cầu kháng penicillin/cephalosporin. Nguồn: IDSA Guidelines"
+    },
+    {
+      "q": "Vai trò của Dexamethasone trong điều trị VMNM là:",
+      "options": [
+        "Diệt vi khuẩn nhanh hơn",
+        "Giảm phản ứng viêm, từ đó giảm nguy cơ điếc và biến chứng thần kinh",
+        "Thay thế hoàn toàn kháng sinh trong 24 giờ đầu",
+        "Chỉ dùng khi bệnh nhân có sốc"
+      ],
+      "answer": 1,
+      "explain": "Corticosteroid làm giảm sự giải phóng các chất trung gian gây viêm khi vi khuẩn bị kháng sinh tiêu diệt."
+    },
+    {
+      "q": "Thời điểm tốt nhất để dùng liều Dexamethasone đầu tiên là:",
+      "options": [
+        "Sau khi dùng kháng sinh 2 giờ",
+        "Cùng lúc hoặc trước liều kháng sinh đầu tiên 15-20 phút",
+        "Khi bệnh nhân bắt đầu tỉnh lại",
+        "Sau khi có kết quả kháng sinh đồ"
+      ],
+      "answer": 1,
+      "explain": "Dùng trước hoặc cùng lúc giúp ngăn chặn ngay từ đầu dòng thác viêm do xác vi khuẩn giải phóng sau khi dùng kháng sinh."
+    },
+    {
+      "q": "Liệu trình điều trị kháng sinh đối với VMN do Não mô cầu (N. meningitidis) thường là:",
+      "options": [
+        "5-7 ngày",
+        "10-14 ngày",
+        "21 ngày",
+        "1 tháng"
+      ],
+      "answer": 0,
+      "explain": "Não mô cầu thường đáp ứng nhanh, liệu trình ngắn hơn so với Hib (7-10 ngày) hay Phế cầu (10-14 ngày). Nguồn: Bệnh học Nhi khoa tập 1"
+    },
+    {
+      "q": "Khi điều trị hỗ trợ VMNM, cần hạn chế dịch truyền khi nào?",
+      "options": [
+        "Luôn luôn hạn chế dịch ở mức 1/2 nhu cầu",
+        "Khi có bằng chứng của hội chứng SIADH hoặc tăng áp lực nội sọ nặng",
+        "Chỉ hạn chế khi trẻ bị phù toàn thân",
+        "Không bao giờ hạn chế dịch vì trẻ đang mất nước"
+      ],
+      "answer": 1,
+      "explain": "Tránh truyền quá nhiều dịch gây phù não nặng thêm, nhưng vẫn phải đảm bảo tưới máu não nếu có sốc."
+    },
+    {
+      "q": "Dung dịch chống phù não ưu tiên dùng trong tăng áp lực nội sọ cấp ở trẻ VMNM là:",
+      "options": [
+        "Glucose 5%",
+        "NaCl 0,9%",
+        "Mannitol 20% hoặc Natri clorua ưu trương (3%)",
+        "Albumin"
+      ],
+      "answer": 2,
+      "explain": "Các dung dịch ưu trương giúp rút nước từ nhu mô não vào lòng mạch theo áp suất thẩm thấu."
+    },
+    {
+      "q": "Thuốc nào sau đây KHÔNG nên dùng để cắt cơn co giật trong VMNM?",
+      "options": [
+        "Diazepam",
+        "Midazolam",
+        "Phenobarbital",
+        "Morphin"
+      ],
+      "answer": 3,
+      "explain": "Morphin gây ức chế hô hấp và che lấp các triệu chứng thần kinh, không có tác dụng cắt cơn giật."
+    },
+    {
+      "q": "Đối tượng cần điều trị dự phòng kháng sinh khi tiếp xúc với bệnh nhân VMNM do Não mô cầu là:",
+      "options": [
+        "Tất cả mọi người trong cùng khu phố",
+        "Những người tiếp xúc gần (ngủ cùng, ăn cùng, chăm sóc trực tiếp)",
+        "Chỉ những người có triệu chứng sốt",
+        "Nhân viên y tế đã đeo khẩu trang đầy đủ"
+      ],
+      "answer": 1,
+      "explain": "Dự phòng bằng Rifampicin, Ceftriaxone hoặc Ciprofloxacin nhằm diệt vi khuẩn ở vùng tỵ hầu người lành mang trùng."
+    },
+    {
+      "q": "Tại sao không nên dùng dung dịch nhược trương (như Glucose 5% đơn thuần) để truyền cho trẻ VMNM?",
+      "options": [
+        "Vì sẽ làm tăng nguy cơ phù não",
+        "Vì vi khuẩn sẽ phát triển nhanh hơn khi có đường",
+        "Vì gây hạ đường huyết",
+        "Vì gây tắc mạch"
+      ],
+      "answer": 0,
+      "explain": "Dung dịch nhược trương làm giảm áp suất thẩm thấu máu, dịch sẽ thoát vào tế bào não gây phù não nặng hơn."
+    },
+    {
+      "q": "Biến chứng thần kinh muộn thường gặp nhất ở trẻ sau khi khỏi VMN do phế cầu là:",
+      "options": [
+        "Liệt nửa người",
+        "Giảm hoặc mất thính lực (điếc)",
+        "Động kinh",
+        "Mù lòa"
+      ],
+      "answer": 1,
+      "explain": "Viêm mê đạo và tổn thương dây VIII là biến chứng rất đặc trưng, đặc biệt do phế cầu, cần đo thính lực sau khi ra viện."
+    },
+    {
+      "q": "Một trẻ đang điều trị VMNM đến ngày thứ 7 vẫn còn sốt dai dẳng, thóp vẫn phồng, vòng đầu tăng nhanh. Cần nghĩ nhiều đến:",
+      "options": [
+        "Kháng kháng sinh",
+        "Tụ dịch dưới màng cứng",
+        "Viêm phổi bệnh viện",
+        "Sốt do thuốc"
+      ],
+      "answer": 1,
+      "explain": "Tụ dịch dưới màng cứng là biến chứng hay gặp ở trẻ nhỏ, cần siêu âm qua thóp hoặc chụp CT để xác định."
+    },
+    {
+      "q": "Tiên lượng của VMNM phụ thuộc vào các yếu tố sau, NGOẠI TRỪ:",
+      "options": [
+        "Tác nhân gây bệnh (phế cầu thường nặng hơn não mô cầu)",
+        "Thời điểm bắt đầu dùng kháng sinh",
+        "Tuổi của trẻ (trẻ càng nhỏ tiên lượng càng nặng)",
+        "Nhóm máu của trẻ"
+      ],
+      "answer": 3,
+      "explain": "Nhóm máu không liên quan đến tiên lượng bệnh. Ba yếu tố còn lại là những mấu chốt quyết định kết cục lâm sàng."
+    },
+    {
+      "q": "Chỉ số tiên lượng tử vong cao trong VMN do Não mô cầu thể tối cấp là:",
+      "options": [
+        "Bạch cầu máu ngoại vi giảm (< 5000/mm3)",
+        "Tử ban xuất hiện sau 24 giờ phát bệnh",
+        "Có cứng cổ rõ rệt ngay từ đầu",
+        "Sốt rất cao trên 41°C"
+      ],
+      "answer": 0,
+      "explain": "Trong thể tối cấp, tình trạng nhiễm khuẩn nặng gây suy tủy tạm thời, bạch cầu máu giảm là dấu hiệu tiên lượng rất xấu."
+    }
+  ]
+}
