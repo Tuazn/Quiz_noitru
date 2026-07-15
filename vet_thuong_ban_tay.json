@@ -1,0 +1,1230 @@
+{
+  "name": "Vết thương bàn tay",
+  "description": "Bộ câu hỏi trắc nghiệm ngoại khoa về vết thương và chấn thương bàn tay",
+  "level": "Nội trú",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Chấn thương",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 28 tuổi vết thương mặt gan tay ngón 2",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 28 tuổi, thợ mộc.<br><br><b>Bệnh sử:</b> Vào viện vì vết thương mặt gan tay ngón 2 (trỏ) tay phải sau khi bị đục gỗ trượt vào cách đây 2 giờ. Bệnh nhân đau chói, chảy máu thấm băng.<br><br><b>Tiền sử:</b> Khỏe mạnh, không hút thuốc.<br><br><b>Khám lâm sàng:</b> Khám toàn thân: mạch 80 lần/phút, HA 120/70 mmHg, nhiệt độ 37°C. Khám tại chỗ: Vết thương sắc gọn dài 2cm nằm ngang nếp gấp liên đốt gần (PIP) mặt gan ngón 2, lộ gân trắng bên trong. Mạch máu đầu chi hồng ấm, cảm giác tê bì nhẹ mặt bên quay ngón 2 nhưng phân biệt được nhọn/tù. Vận động: Khi giữ cố định các ngón khác ở tư thế duỗi, bệnh nhân vẫn gấp được khớp PIP ngón 2, nhưng khi người khám giữ cố định đốt 2 (đốt giữa) ngón 2 thì bệnh nhân KHÔNG thể gấp được khớp DIP (liên đốt xa).<br><br><b>Xét nghiệm:</b> X-quang không thấy gãy xương. WBC 7.5 G/L, Hb 140 g/L.",
+      "questions": [
+        {
+          "q": "Dựa vào khám lâm sàng, thương tổn gân nào bị đứt?",
+          "options": [
+            "Gân gấp chung các ngón nông (FDS)",
+            "Gân gấp chung các ngón sâu (FDP)",
+            "Cả FDS và FDP",
+            "Gân duỗi ngón trỏ"
+          ],
+          "answer": 1,
+          "explain": "FDS bám vào đốt giữa (gấp PIP), FDP xuyên qua chẽ gân FDS bám vào đốt xa (gấp DIP). Bệnh nhân không gấp được DIP khi cố định đốt giữa -> đứt FDP. Vẫn gấp được PIP khi giữ các ngón khác -> FDS còn nguyên."
+        },
+        {
+          "q": "Vị trí tổn thương của bệnh nhân thuộc vùng nào theo phân loại Bunnell (của Verdan cải tiến)?",
+          "options": [
+            "Vùng I",
+            "Vùng II",
+            "Vùng III",
+            "Vùng IV"
+          ],
+          "answer": 1,
+          "explain": "Vùng II (\"No Man's Land\" - Vùng vô mạch) tính từ nếp gấp gan tay xa đến nếp gấp liên đốt xa (DIP) hoặc nền đốt giữa. Vết thương ngang PIP thuộc vùng II."
+        },
+        {
+          "q": "Nguyên tắc xử trí tối ưu đối với tổn thương gân vùng này là gì?",
+          "options": [
+            "Khâu nối gân thì đầu ngay lập tức tại phòng tiểu phẫu",
+            "Khâu da, bất động bột và khâu nối gân thì hai sau 3 tuần",
+            "Cắt lọc sạch, khâu nối gân thì đầu hoặc trì hoãn (trong vài ngày) bởi phẫu thuật viên chuyên khoa",
+            "Chỉ cần khâu bao gân, gân sẽ tự liền"
+          ],
+          "answer": 2,
+          "explain": "Vùng II có ròng rọc và bao gân chật hẹp, nuôi dưỡng kém. Nguyên tắc (theo Bailey & Love/Schwartz): Khâu nối cẩn thận bởi PTV chuyên khoa, có thể mổ cấp cứu hoặc trì hoãn sạch trong vài ngày. Không khâu tại phòng tiểu phẫu vì nguy cơ dính cao."
+        },
+        {
+          "q": "Biến chứng thường gặp nhất và khó điều trị nhất sau phẫu thuật khâu nối gân vùng này là:",
+          "options": [
+            "Nhiễm trùng",
+            "Đứt gân tái phát",
+            "Dính gân",
+            "Tổn thương thần kinh kèm theo"
+          ],
+          "answer": 2,
+          "explain": "Do cấu trúc giải phẫu chật hẹp (ròng rọc A2, A4) và nuôi dưỡng thẩm thấu, dính gân làm hạn chế vận động là biến chứng thách thức nhất ở vùng II."
+        },
+        {
+          "q": "Chọn tập hợp đúng về nghiệm pháp khám:\n(1) Giữ các ngón duỗi để khám FDS\n(2) Giữ đốt giữa để khám FDP\n(3) FDP bám tận nền đốt 2\n(4) FDS bám tận nền đốt 3",
+          "options": [
+            "1, 2",
+            "2, 3",
+            "3, 4",
+            "1, 4"
+          ],
+          "answer": 0,
+          "explain": "(1) đúng (triệt tiêu tác dụng FDP để lộ FDS); (2) đúng; (3) sai (FDP bám đốt 3); (4) sai (FDS bám đốt 2)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 45 tuổi sưng đau ngón 3 tay trái sau khi gai đâm",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 45 tuổi, nội trợ.<br><br><b>Bệnh sử:</b> Đến viện vì sưng đau ngón 3 tay trái ngày thứ 4 sau khi bị gai hoa hồng đâm. Hiện tại sốt 38.5°C, vẻ mặt nhiễm trùng.<br><br><b>Tiền sử:</b> Đái tháo đường type 2 (đang dùng Metformin).<br><br><b>Khám lâm sàng:</b> Khám ngón 3 tay trái: ngón tay sưng to đều từ gốc đến ngón (dạng khúc dồi), tư thế luôn để cong nhẹ (flexed), ấn đau dọc theo đường đi của gân gấp mặt gan tay. Đặc biệt, bệnh nhân đau dữ dội khi người khám cố làm duỗi thụ động ngón tay này. Không sờ thấy hạch nách.<br><br><b>Xét nghiệm:</b> Glucose máu: 12.5 mmol/L, CRP: 45 mg/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất là gì?",
+          "options": [
+            "Chín mé (Felon)",
+            "Viêm quanh móng (Paronychia)",
+            "Viêm bao hoạt dịch gân gấp mủ (Pyogenic flexor tenosynovitis)",
+            "Viêm khớp nhiễm khuẩn ngón tay"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh điển hình nhiễm trùng khoang sâu bàn tay lan theo bao gân gấp. Felon là viêm mủ đầu ngón (pulp), Paronychia quanh móng."
+        },
+        {
+          "q": "Dấu hiệu lâm sàng \"đau chói khi duỗi thụ động ngón tay\" thuộc tiêu chuẩn nào?",
+          "options": [
+            "Tam chứng Charcot",
+            "Tứ chứng Kanavel",
+            "Tiêu chuẩn Finkelstein",
+            "Dấu hiệu Tinel"
+          ],
+          "answer": 1,
+          "explain": "Tứ chứng Kanavel (Kanavel's signs) chẩn đoán viêm bao gân gấp mủ: (1) Ngón tay sưng to đều (fusiform); (2) Ngón tay ở tư thế gấp nhẹ; (3) Ấn đau dọc đường đi bao gân; (4) Đau chói khi duỗi thụ động (dấu hiệu sớm và quan trọng nhất)."
+        },
+        {
+          "q": "Vi khuẩn gây bệnh thường gặp nhất trong tình huống này là:",
+          "options": [
+            "Streptococcus pyogenes",
+            "Staphylococcus aureus",
+            "Eikenella corrodens",
+            "Pseudomonas aeruginosa"
+          ],
+          "answer": 1,
+          "explain": "S. aureus là nguyên nhân hàng đầu gây nhiễm trùng bàn tay (theo Bailey & Love/Schwartz)."
+        },
+        {
+          "q": "Phương pháp điều trị KHÔNG phù hợp (TRỪ):",
+          "options": [
+            "Rạch rộng thoát mủ, bơm rửa bao gân",
+            "Kháng sinh đường tĩnh mạch liều cao",
+            "Chọc hút dịch ổ khớp để làm xét nghiệm",
+            "Nâng cao tay, kiểm soát đường huyết"
+          ],
+          "answer": 2,
+          "explain": "Sai vì đây là nhiễm trùng bao gân, không phải khớp (trừ khi biến chứng muộn), chọc hút khớp không giải quyết được áp lực bao gân mà còn gây đau/nguy cơ bội nhiễm. A là bắt buộc (rạch ziczac hoặc rạch 2 đầu bơm rửa)."
+        },
+        {
+          "q": "Nếu không điều trị kịp thời, biến chứng hoại tử gân xảy ra chủ yếu do cơ chế nào?",
+          "options": [
+            "Vi khuẩn tiết độc tố ly giải gân trực tiếp",
+            "Tăng áp lực trong khoang kín của bao gân gây thiếu máu nuôi dưỡng -> hoại tử",
+            "Tắc mạch máu ngón tay do huyết khối nhiễm trùng",
+            "Phản ứng tự miễn dịch chống lại collagen"
+          ],
+          "answer": 1,
+          "explain": "Bao gân là một khoang kín, mạch nuôi gân đi trong mạc treo gân (vincula) rất mảnh. Dịch mủ tăng áp lực chèn ép mạch máu -> thiếu máu cục bộ -> hoại tử gân nhanh chóng (cơ chế tương tự hội chứng khoang)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi vết thương cắt cổ tay phải",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 35 tuổi, công nhân xây dựng.<br><br><b>Bệnh sử:</b> Bị lưỡi cưa máy cắt vào cổ tay phải (mặt gan tay). Vào viện trong tình trạng băng ép thấm nhiều máu đỏ tươi.<br><br><b>Khám lâm sàng:</b> Mạch 100 l/p, HA 110/70 mmHg. Khám tổn thương: Vết thương sâu ngay chính giữa nếp gấp cổ tay. Sau khi garo cầm máu, khám thấy bệnh nhân mất cảm giác tê bì 3 ngón rưỡi phía quay (ngón 1, 2, 3 và nửa ngoài ngón 4). Bệnh nhân không thực hiện được động tác đối chiếu ngón cái (opposition) và không dạng được ngón cái vuông góc với mặt phẳng bàn tay. Các ngón khác vận động bình thường.",
+      "questions": [
+        {
+          "q": "Cấu trúc thần kinh nào bị tổn thương?",
+          "options": [
+            "Thần kinh trụ",
+            "Thần kinh giữa",
+            "Thần kinh quay",
+            "Nhánh nông thần kinh quay"
+          ],
+          "answer": 1,
+          "explain": "TK giữa chi phối cảm giác 3.5 ngón quay và vận động nhóm cơ ô mô cái. Vị trí \"chính giữa nếp cổ tay\" là đường đi của TK giữa."
+        },
+        {
+          "q": "Động tác \"không dạng được ngón cái vuông góc với mặt phẳng gan tay\" phản ánh liệt cơ nào?",
+          "options": [
+            "Cơ khép ngón cái (Adductor pollicis)",
+            "Cơ dạng ngón cái ngắn (Abductor pollicis brevis)",
+            "Cơ dạng ngón cái dài (Abductor pollicis longus)",
+            "Cơ gấp ngón cái dài (Flexor pollicis longus)"
+          ],
+          "answer": 1,
+          "explain": "Cơ dạng ngón cái ngắn (APB) do TK giữa chi phối, thực hiện động tác dạng ngón cái vuông góc mặt phẳng gan tay (Pen test). Cơ khép (A) do TK trụ. Cơ dạng dài (C) do TK quay. Cơ gấp dài (D) do TK giữa (nhánh gian cốt trước) nhưng nằm sâu hơn."
+        },
+        {
+          "q": "Dấu hiệu muộn điển hình nếu tổn thương này không được phục hồi là:",
+          "options": [
+            "Bàn tay vuốt trụ (Claw hand)",
+            "Bàn tay rủ (Drop hand)",
+            "Teo ô mô cái và Bàn tay khỉ (Ape hand)",
+            "Teo ô mô út"
+          ],
+          "answer": 2,
+          "explain": "Liệt TK giữa làm mất đối chiếu, teo cơ ô mô cái, ngón cái nằm cùng mặt phẳng với các ngón khác -> Bàn tay khỉ. Vuốt trụ (A) là TK trụ. Rủ (B) là TK quay."
+        },
+        {
+          "q": "Trong phẫu thuật nối thần kinh vi phẫu, lớp nào của thần kinh đóng vai trò quan trọng nhất để định hướng bó sợi trục?",
+          "options": [
+            "Epineurium (Bao thượng thần kinh)",
+            "Perineurium (Bao bó thần kinh)",
+            "Endoneurium (Bao trong thần kinh)",
+            "Myelin sheath"
+          ],
+          "answer": 0,
+          "explain": "Epineurium là lớp bao ngoài dày nhất, chịu lực và giữ định hướng chung khi khâu nối (khâu bao ngoài hoặc khâu bó)."
+        },
+        {
+          "q": "Nguyên tắc xử trí thần kinh bị đứt gọn, sạch:",
+          "options": [
+            "Khâu nối bao thượng thần kinh ngay thì đầu",
+            "Luôn luôn ghép thần kinh tự thân ngay thì đầu",
+            "Chờ 3 tuần để sẹo ổn định mới khâu",
+            "Đánh dấu đầu dây thần kinh và khâu thì hai"
+          ],
+          "answer": 0,
+          "explain": "Với vết thương sạch, sắc gọn, khâu nối tận - tận (primary repair) vi phẫu là tiêu chuẩn vàng để đạt kết quả tốt nhất. Ghép thần kinh chỉ dùng khi mất đoạn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 22 tuổi sưng đau gốc ngón cái sau khi đấm vào tường",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 22 tuổi, sinh viên.<br><br><b>Bệnh sử:</b> Nhập viện sau khi đấm mạnh tay phải vào tường do tức giận. Bệnh nhân đau chói vùng gốc ngón cái.<br><br><b>Khám lâm sàng:</b> Sưng nề, bầm tím vùng gốc xương bàn 1 (nền ngón cái). Ấn đau chói tại vị trí khớp bàn-thang (CMC). Vận động ngón cái hạn chế do đau. Mạch quay rõ.<br><br><b>Xét nghiệm:</b> X-quang bàn tay thẳng/nghiêng: Gãy nền xương bàn 1, đường gãy thấu khớp, có mảnh gãy nhỏ hình tam giác ở phía trong (bên trụ) vẫn nằm đúng vị trí, trong khi thân xương bàn bị trật ra ngoài và lên trên.",
+      "questions": [
+        {
+          "q": "Tên gọi chính xác của kiểu gãy này là gì?",
+          "options": [
+            "Gãy Rolando",
+            "Gãy Bennett",
+            "Gãy Boxer",
+            "Gãy Colles"
+          ],
+          "answer": 1,
+          "explain": "Gãy Bennett: Gãy phạm khớp nền xương bàn 1, trật khớp bàn-thang. Gãy Rolando (A) là gãy nát nền xương bàn 1 (hình chữ Y hoặc T). Gãy Boxer (C) là cổ xương bàn V."
+        },
+        {
+          "q": "Cơ nào chịu trách nhiệm chính kéo thân xương bàn 1 di lệch ra ngoài và lên trên (về phía quay)?",
+          "options": [
+            "Cơ khép ngón cái (Adductor pollicis)",
+            "Cơ dạng ngón cái dài (Abductor pollicis longus - APL)",
+            "Cơ gấp ngón cái ngắn",
+            "Cơ gian cốt mu tay"
+          ],
+          "answer": 1,
+          "explain": "Cơ APL bám vào nền xương bàn 1, khi gãy sẽ kéo thân xương di lệch về phía quay và lên trên (proximal & radial). Cơ khép ngón cái (A) kéo đầu xa vào trong (adduction)."
+        },
+        {
+          "q": "Mảnh gãy nhỏ hình tam giác giữ nguyên vị trí là do dây chằng nào giữ?",
+          "options": [
+            "Dây chằng bên quay",
+            "Dây chằng chéo trước (Anterior oblique ligament / Volar ligament)",
+            "Gân cơ duỗi ngón cái dài",
+            "Dây chằng liên cốt"
+          ],
+          "answer": 1,
+          "explain": "Mảnh gãy nhỏ nằm ở góc trong (volar-ulnar aspect) được giữ lại bởi dây chằng chéo trước (volar oblique ligament) bám vào xương thang."
+        },
+        {
+          "q": "Phương pháp điều trị ưu tiên cho trường hợp gãy di lệch này là:",
+          "options": [
+            "Bó bột Cẳng-bàn tay ôm ngón cái (Thumb spica cast)",
+            "Nắn chỉnh kín và xuyên đinh Kirschner qua da (hoặc nắn mở kết hợp xương nẹp vít)",
+            "Chỉ cần băng thun cố định",
+            "Phẫu thuật thay khớp bàn thang"
+          ],
+          "answer": 1,
+          "explain": "Gãy Bennett là gãy phạm khớp không vững. Bó bột đơn thuần thường thất bại do lực kéo cơ APL. Cần phẫu thuật (CRPP hoặc ORIF) để phục hồi mặt khớp."
+        },
+        {
+          "q": "Biến chứng xa thường gặp nhất của loại gãy này nếu nắn chỉnh mặt khớp không tốt:",
+          "options": [
+            "Hoại tử vô mạch chỏm xương bàn",
+            "Khớp giả",
+            "Thoái hóa khớp bàn-thang (CMC arthritis)",
+            "Hội chứng ống cổ tay"
+          ],
+          "answer": 2,
+          "explain": "Do là gãy phạm khớp chịu lực lớn của bàn tay, bất kỳ sự khập khiễng mặt khớp nào cũng dẫn đến thoái hóa khớp sớm (Post-traumatic arthritis)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi sưng đau mu tay phải sau ẩu đả",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 30 tuổi.<br><br><b>Bệnh sử:</b> Đến khám vì sưng đau mu bàn tay phải. Cách đây 3 ngày, bệnh nhân có ẩu đả, đấm vào miệng đối phương, bị răng cửa đối phương gây trầy xước vùng khớp bàn ngón (MCP) ngón 3. Bệnh nhân tự rửa nước, không đi khám. Hiện tại vùng khớp MCP ngón 3 sưng tấy, đỏ, chảy dịch mủ hôi, đau hạn chế gấp duỗi.<br><br><b>Xét nghiệm:</b> X-quang thấy có bóng khí trong mô mềm quanh khớp, không thấy gãy xương. Bạch cầu: 16 G/L.",
+      "questions": [
+        {
+          "q": "Đây là loại vết thương \"Fight bite\" (vết thương do đấm vào răng). Nguy cơ tổn thương cấu trúc nào quan trọng nhất cần thám sát?",
+          "options": [
+            "Thần kinh gian cốt",
+            "Gân duỗi và bao khớp MCP",
+            "Gân gấp",
+            "Động mạch gan tay"
+          ],
+          "answer": 1,
+          "explain": "Vùng khớp MCP (mấu lồi nắm đấm) chỉ có da, gân duỗi và bao khớp. Răng dễ dàng xuyên qua gân duỗi vào khớp gây viêm khớp nhiễm khuẩn."
+        },
+        {
+          "q": "Vi khuẩn đặc thù thường gặp trong vết thương do người cắn (human bite) bên cạnh tụ cầu/liên cầu là:",
+          "options": [
+            "Pasteurella multocida",
+            "Eikenella corrodens",
+            "Clostridium perfringens",
+            "Bartonella henselae"
+          ],
+          "answer": 1,
+          "explain": "Eikenella corrodens (Gram âm, kỵ khí tùy nghi) là vi khuẩn thường trú trong miệng người, đặc trưng cho Human bite (cùng với S. viridans, S. aureus). Pasteurella (A) gặp ở chó mèo cắn."
+        },
+        {
+          "q": "Chiến lược xử trí ngoại khoa QUAN TRỌNG NHẤT lúc này:",
+          "options": [
+            "Khâu kín vết thương ngay để tránh bội nhiễm thêm",
+            "Mở rộng vết thương, bơm rửa sạch, để hở hoàn toàn (delayed closure)",
+            "Chỉ cần chọc hút mủ và dùng kháng sinh",
+            "Băng kín và bó bột bất động ngay"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc vàng của vết thương do người / động vật đến muộn: Cắt lọc, bơm rửa, TUYỆT ĐỐI KHÔNG KHÂU KÍN (để hở dẫn lưu) do nguy cơ nhiễm trùng kỵ khí cao."
+        },
+        {
+          "q": "Kháng sinh theo kinh nghiệm nên bao phủ được:",
+          "options": [
+            "Gram dương (Tụ cầu/Liên cầu)",
+            "Gram âm",
+            "Kỵ khí",
+            "Cả A, B và C (ví dụ: Amoxicillin/Clavulanate)"
+          ],
+          "answer": 3,
+          "explain": "Cần kháng sinh phổ rộng phủ Gram (+), Gram (-), kỵ khí (như Augmentin hoặc Unasyn)."
+        },
+        {
+          "q": "Vị trí tổn thương \"Fight bite\" hay bị bỏ sót nhất khi khám ở tư thế bàn tay duỗi là:",
+          "options": [
+            "Tổn thương sụn khớp",
+            "Đứt gân duỗi bán phần",
+            "Thủng bao khớp (do khi đấm tay ở tư thế nắm, gân duỗi trượt xuống che lấp lỗ thủng bao khớp khi duỗi tay ra)",
+            "Gãy xương kín đáo"
+          ],
+          "answer": 2,
+          "explain": "Khi nắm tay (đấm), gân duỗi trượt về phía xa. Khi duỗi tay khám, gân duỗi trượt về lại phía gần, che lấp lỗ thủng bao khớp bên dưới -> vi khuẩn bị nhốt trong khớp (Closed space infection)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 18 tuổi đau và biến dạng đốt xa ngón 3",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 18 tuổi.<br><br><b>Bệnh sử:</b> Chơi bóng rổ, bị bóng đập mạnh vào đầu ngón tay giữa (ngón 3) tay phải theo hướng dọc trục. Vào viện vì đau và biến dạng đốt xa.<br><br><b>Khám lâm sàng:</b> Đốt xa ngón 3 ở tư thế gấp khoảng 40 độ, bệnh nhân không thể tự duỗi thẳng đốt xa được (mất duỗi chủ động), nhưng bác sĩ có thể duỗi thụ động được dễ dàng. Không có vết thương hở.<br><br><b>Xét nghiệm:</b> X-quang thấy bong một mảnh xương nhỏ ở nền đốt xa mặt mu.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định?",
+          "options": [
+            "Ngón tay cò súng (Trigger finger)",
+            "Ngón tay người thợ rèn (Mallet finger)",
+            "Ngón tay cổ thiên nga (Swan-neck deformity)",
+            "Ngón tay thợ thùa khuyết (Boutonniere deformity)"
+          ],
+          "answer": 1,
+          "explain": "Mallet finger (ngón tay vồ / ngón tay dùi trống/thợ rèn): Mất duỗi chủ động DIP do tổn thương cơ chế duỗi tại vùng I."
+        },
+        {
+          "q": "Tổn thương giải phẫu bệnh trong trường hợp này là:",
+          "options": [
+            "Đứt gân gấp sâu (FDP)",
+            "Bong điểm bám gân duỗi tại nền đốt xa (Vùng I gân duỗi)",
+            "Đứt trượt chẽ bên gân duỗi tại khớp PIP",
+            "Tổn thương dây chằng bên"
+          ],
+          "answer": 1,
+          "explain": "Bong điểm bám gân duỗi (có thể kèm mảnh xương hoặc không) tại nền đốt 3."
+        },
+        {
+          "q": "Phương pháp điều trị bảo tồn chuẩn mực là:",
+          "options": [
+            "Nẹp cố định khớp DIP ở tư thế duỗi quá mức nhẹ (hyperextension) liên tục 6-8 tuần",
+            "Nẹp cố định khớp PIP ở tư thế duỗi",
+            "Băng dính 2 ngón tay lại với nhau (Buddy tapping)",
+            "Tập vận động sớm ngay lập tức"
+          ],
+          "answer": 0,
+          "explain": "Nguyên tắc: Giữ khớp DIP luôn duỗi liên tục (không được tháo ra dù chỉ 1 giây) trong 6-8 tuần để gân xương liền. Khớp PIP để tự do."
+        },
+        {
+          "q": "Nếu không điều trị, biến dạng nào có thể xảy ra thứ phát sau này (do mất cân bằng lực cơ)?",
+          "options": [
+            "Biến dạng cổ thiên nga (Swan-neck): DIP gấp, PIP duỗi quá mức",
+            "Biến dạng Boutonniere: DIP duỗi, PIP gấp",
+            "Trật khớp DIP",
+            "Cứng khớp ở tư thế duỗi"
+          ],
+          "answer": 0,
+          "explain": "Khi gân duỗi tại DIP mất tác dụng, lực duỗi dồn về chẽ giữa (central slip) tại khớp PIP -> gây duỗi quá mức PIP + gấp DIP -> Cổ thiên nga (Swan-neck)."
+        },
+        {
+          "q": "Chỉ định phẫu thuật (xuyên đinh hoặc neo chỉ) đặt ra khi nào, TRỪ:",
+          "options": [
+            "Gãy mảnh xương lớn > 1/3 mặt khớp",
+            "Bán trật khớp DIP (volar subluxation)",
+            "Thất bại với điều trị nẹp bảo tồn",
+            "Mallet finger đơn thuần chỉ đứt gân, đến sớm"
+          ],
+          "answer": 3,
+          "explain": "Mallet finger đơn thuần (Soft tissue mallet) ưu tiên điều trị bảo tồn (nẹp Stack) vì kết quả tương đương phẫu thuật và ít biến chứng hơn. Phẫu thuật chỉ khi có gãy xương lớn phạm khớp gây trật khớp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi bị súng phun sơn bắn vào ngón tay",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi, thợ sơn.<br><br><b>Bệnh sử:</b> Vào viện cấp cứu vì bị súng phun sơn áp lực cao (High-pressure paint gun) bắn vào đầu ngón 2 tay trái cách đây 1 giờ. Bệnh nhân đau dữ dội, căng tức ngón tay.<br><br><b>Khám lâm sàng:</b> Chỉ thấy một lỗ vào rất nhỏ (1-2mm) ở đầu ngón tay, không chảy máu nhiều, ngón tay nề và trắng nhợt. Mạch quay bắt rõ. SpO2 ngón tay 95%.",
+      "questions": [
+        {
+          "q": "Đánh giá mức độ nghiêm trọng của tổn thương này:",
+          "options": [
+            "Nhẹ, chỉ cần rửa vết thương và băng lại",
+            "Trung bình, cần theo dõi nhiễm trùng",
+            "Tối khẩn cấp, đe dọa cắt cụt ngón tay/bàn tay",
+            "Không nguy hiểm vì vết thương đầu vào rất nhỏ"
+          ],
+          "answer": 2,
+          "explain": "High-pressure injection injury là một cấp cứu ngoại khoa tối khẩn cấp. Lỗ vào nhỏ đánh lừa người bệnh, nhưng bên trong mô mềm bị phá hủy lan rộng và chèn ép khoang."
+        },
+        {
+          "q": "Chống chỉ định TUYỆT ĐỐI trong sơ cứu và xử trí giảm đau cho bệnh nhân này là gì?",
+          "options": [
+            "Tiêm thuốc giảm đau toàn thân (Morphine)",
+            "Phong bế thần kinh gốc ngón (Digital block) gây tê tại chỗ",
+            "Nâng cao tay",
+            "Dùng kháng sinh đường tĩnh mạch"
+          ],
+          "answer": 1,
+          "explain": "Cấm gây tê gốc ngón (Digital block) vì bơm thêm dịch vào một khoang đang bị tăng áp lực sẽ làm trầm trọng thêm tình trạng thiếu máu nuôi, dẫn đến hoại tử nhanh hơn (Schwartz/Bailey)."
+        },
+        {
+          "q": "Cơ chế gây hoại tử chính trong tổn thương do súng phun áp lực cao:",
+          "options": [
+            "Nhiễm độc chì từ sơn",
+            "Tổn thương nhiệt",
+            "Chất lỏng bị bơm vào lan tỏa theo các khoang giải phẫu gây chèn ép khoang cấp tính và độc tính hóa học của chất lỏng",
+            "Tổn thương xương do lực va đập"
+          ],
+          "answer": 2,
+          "explain": "Cơ chế kép: Tăng áp lực (compartment syndrome) + Độc tính hóa học của chất (gây viêm/hoại tử mô)."
+        },
+        {
+          "q": "Hướng xử trí phẫu thuật bắt buộc:",
+          "options": [
+            "Rạch mở rộng rãi (Debridement), thám sát lấy bỏ dị vật/hóa chất, để hở da",
+            "Chọc hút dẫn lưu chất lỏng",
+            "Cắt cụt ngón tay ngay lập tức",
+            "Chỉ cần dùng kháng sinh liều cao và corticoid"
+          ],
+          "answer": 0,
+          "explain": "Phải mổ rạch rộng (thường đường Ziczac), làm sạch tỉ mỉ từng ngón, gan tay. Không được khâu kín."
+        },
+        {
+          "q": "Yếu tố nào sau đây tiên lượng nguy cơ cắt cụt chi cao nhất?",
+          "options": [
+            "Loại chất lỏng là sơn dầu (oil-based) so với sơn nước/mỡ",
+            "Thời gian từ lúc bị tai nạn đến khi mổ > 6-10 giờ",
+            "Áp lực súng phun > 1000 psi",
+            "Cả A, B, C đều đúng"
+          ],
+          "answer": 3,
+          "explain": "Sơn dầu độc hơn mỡ/nước. Áp lực càng cao càng lan rộng. Thời gian vàng là < 6 giờ, đến muộn tỉ lệ cắt cụt rất cao."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 25 tuổi đau vùng hõm lào sau ngã chống tay",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 25 tuổi.<br><br><b>Bệnh sử:</b> Ngã chống tay (dạng duỗi - FOOSH) khi đi xe máy. Đau vùng hõm lào (Snuffbox) cổ tay phải.<br><br><b>Khám lâm sàng:</b> Sưng nhẹ vùng cổ tay phía quay, ấn điểm hõm lào đau chói, ấn dồn trục ngón 1 và 2 đau. Vận động sấp ngửa cẳng tay bình thường, gập duỗi cổ tay đau.<br><br><b>Xét nghiệm:</b> X-quang cổ tay thẳng nghiêng và chếch (Scaphoid view) ban đầu KHÔNG thấy đường gãy.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hướng tới nhiều nhất?",
+          "options": [
+            "Bong gân cổ tay",
+            "Gãy xương thuyền (Scaphoid fracture)",
+            "Gãy đầu dưới xương quay",
+            "Trật khớp quanh nguyệt"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế ngã chống tay + Đau hõm lào là dấu hiệu kinh điển của gãy xương thuyền. X-quang ban đầu có thể âm tính (occult fracture)."
+        },
+        {
+          "q": "Đặc điểm giải phẫu mạch máu nuôi xương thuyền quyết định tiên lượng liền xương:",
+          "options": [
+            "Mạch máu đi từ đầu gần (proximal) xuống đầu xa",
+            "Mạch máu đi từ đầu xa (distal) ngược lên đầu gần (retrograde blood supply)",
+            "Mạch máu nuôi dưỡng rất phong phú từ mọi phía",
+            "Xương thuyền không có mạch máu nuôi, sống nhờ thẩm thấu"
+          ],
+          "answer": 1,
+          "explain": "Mạch máu chính đi vào từ eo và cực xa, nuôi cực gần theo đường ngược chiều (retrograde)."
+        },
+        {
+          "q": "Xử trí phù hợp nhất khi X-quang ban đầu âm tính nhưng lâm sàng nghi ngờ gãy xương thuyền:",
+          "options": [
+            "Cho về, dặn bệnh nhân chườm đá, uống giảm đau",
+            "Chụp MRI hoặc CT scan ngay nếu có điều kiện, hoặc bó bột (Thumb Spica) và chụp lại X-quang sau 10-14 ngày",
+            "Tiêm Corticoid vào khớp",
+            "Mổ thám sát"
+          ],
+          "answer": 1,
+          "explain": "Không được bỏ sót. Nếu bỏ qua -> Khớp giả. Guideline: Bất động nghi ngờ như gãy xương (Bột ôm ngón cái), chụp lại sau 2 tuần (khi đường gãy tiêu xương sẽ rõ hơn) hoặc chụp MRI/CT để chẩn đoán xác định sớm."
+        },
+        {
+          "q": "Vị trí gãy nào của xương thuyền có nguy cơ Hoại tử vô mạch (AVN) cao nhất?",
+          "options": [
+            "Gãy cực xa (Distal pole)",
+            "Gãy eo (Waist)",
+            "Gãy cực gần (Proximal pole)",
+            "Nguy cơ như nhau"
+          ],
+          "answer": 2,
+          "explain": "Cực gần (Proximal pole) nhận máu nuôi kém nhất (xa nguồn mạch nhất), nên nguy cơ khớp giả và hoại tử vô mạch cao nhất."
+        },
+        {
+          "q": "Kiểu bó bột tiêu chuẩn cho gãy xương thuyền không di lệch:",
+          "options": [
+            "Bột Cẳng - Bàn tay (Short arm cast)",
+            "Bột Cẳng - Bàn tay ôm ngón cái (Thumb Spica cast)",
+            "Bột Cánh - Bàn tay",
+            "Nẹp ngón cái đơn thuần"
+          ],
+          "answer": 1,
+          "explain": "Bột phải ôm ngón cái (Thumb Spica) để triệt tiêu cử động của xương bàn 1 và ngón cái, giảm lực tác động lên xương thuyền."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi vết loét hoại tử đầu ngón tay",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi, làm ruộng.<br><br><b>Bệnh sử:</b> Vào viện vì vết loét đầu ngón 4 tay phải lâu liền. Bệnh nhân hay bị đau các ngón tay khi gặp lạnh.<br><br><b>Tiền sử:</b> Hút thuốc lá 30 bao năm.<br><br><b>Khám lâm sàng:</b> Khám thấy hoại tử khô đen đầu ngón 4, mạch quay và trụ bắt yếu, nghiệm pháp Allen thấy phục hồi màu sắc da chậm (>15 giây) ở cả hai bên động mạch trụ và quay.<br><br><b>Xét nghiệm:</b> Đường huyết: 5.0 mmol/L.",
+      "questions": [
+        {
+          "q": "Bệnh lý mạch máu ngoại vi nào nghĩ đến nhiều nhất?",
+          "options": [
+            "Bệnh Buerger (Viêm mạch huyết khối nghẽn - Thromboangiitis obliterans)",
+            "Hội chứng Raynaud nguyên phát",
+            "Xơ vữa động mạch chi trên",
+            "Tắc mạch do lấp mạch từ tim (Embolism)"
+          ],
+          "answer": 0,
+          "explain": "Nam giới, hút thuốc nhiều, hoại tử khô đầu chi, mạch yếu, Allen (+), tuổi trung niên -> Điển hình Buerger. Raynaud nguyên phát thường trẻ, nữ, ít hoại tử."
+        },
+        {
+          "q": "Yếu tố nguy cơ quan trọng nhất cần loại bỏ ở bệnh nhân này:",
+          "options": [
+            "Rượu bia",
+            "Thuốc lá",
+            "Chấn thương rung lắc",
+            "Ăn nhiều mỡ"
+          ],
+          "answer": 1,
+          "explain": "Thuốc lá là nguyên nhân trực tiếp và yếu tố tiên lượng. Không bỏ thuốc -> bệnh tiến triển đến cắt cụt."
+        },
+        {
+          "q": "Nghiệm pháp Allen dương tính (chậm phục hồi sắc da) chứng tỏ điều gì?",
+          "options": [
+            "Tắc tĩnh mạch dẫn lưu",
+            "Thiểu năng tuần hoàn cung gan tay (sự thông nối giữa ĐM quay và ĐM trụ không tốt)",
+            "Chèn ép thần kinh giữa",
+            "Hội chứng ống cổ tay"
+          ],
+          "answer": 1,
+          "explain": "Nghiệm pháp Allen đánh giá cung cấp máu của cung gan tay (sự thông thương quay-trụ). Nếu thả ĐM trụ ra mà tay không hồng lại -> ĐM trụ tắc hoặc cung gan tay không thông."
+        },
+        {
+          "q": "Trong phẫu thuật tạo hình vạt da che phủ khuyết hổng ngón tay, nếu test Allen cho thấy ĐM trụ cấp máu kém, thì KHÔNG nên thực hiện loại vạt nào?",
+          "options": [
+            "Vạt V-Y",
+            "Vạt chéo ngón (Cross finger)",
+            "Vạt đảo thần kinh mạch máu cuống liền (như vạt Littler hoặc Moberg) lấy nguồn từ bên ĐM quay",
+            "Vạt da ghép rời"
+          ],
+          "answer": 2,
+          "explain": "Nếu hệ thống mạch máu đã bị tổn thương (như trong Buerger hoặc Allen test bất thường), việc bóc tách vạt đảo cuống mạch (như vạt Moberg trượt) rất nguy hiểm vì có thể làm hoại tử cả vạt và ngón tay do mạch nuôi kém."
+        },
+        {
+          "q": "Chẩn đoán phân biệt quan trọng nhất với hoại tử đầu chi:",
+          "options": [
+            "Xơ cứng bì (Scleroderma)",
+            "Gout",
+            "Viêm khớp dạng thấp",
+            "Chấn thương cũ"
+          ],
+          "answer": 0,
+          "explain": "Các bệnh tự miễn (Xơ cứng bì/Lupus) cũng gây Raynaud và hoại tử đầu chi, cần phân biệt."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 30 tuổi dập nát đầu ngón tay",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 30 tuổi, thư ký văn phòng.<br><br><b>Bệnh sử:</b> Bị cửa dập vào đầu ngón 2 (trỏ) tay trái.<br><br><b>Khám lâm sàng:</b> Mất một phần mềm và móng ở đầu ngón tay (dạng vát mặt gan tay - Volar oblique), lộ xương đốt 3 khoảng 3mm. Kích thước tổn thương khoảng 1x1 cm. Xương đốt 3 gãy nát phần chỏm. Bệnh nhân cần đảm bảo thẩm mỹ và cảm giác đầu ngón.",
+      "questions": [
+        {
+          "q": "Phân loại tổn thương đầu ngón tay thường dùng là:",
+          "options": [
+            "Phân loại Gustilo",
+            "Phân loại Allen",
+            "Phân loại Salter-Harris",
+            "Phân loại Garden"
+          ],
+          "answer": 1,
+          "explain": "Allen phân loại cắt cụt đầu ngón (Type 1-4). Type 3 là mất da + xương."
+        },
+        {
+          "q": "Với tổn thương lộ xương, phương pháp điều trị \"để liền sẹo thứ phát\" (Secondary intention) có nhược điểm gì lớn nhất khiến ít được chọn trong trường hợp này?",
+          "options": [
+            "Thời gian liền quá nhanh",
+            "Sẹo co rút xấu, đau, lớp đệm đầu ngón mỏng, nguy cơ viêm xương",
+            "Không cần thay băng",
+            "Mất cảm giác hoàn toàn"
+          ],
+          "answer": 1,
+          "explain": "Liền thứ phát tốt cho vết thương nhỏ không lộ xương. Nếu lộ xương -> thời gian lâu, sẹo mỏng dính vào xương gây đau, dễ loét tái phát, không đảm bảo thẩm mỹ/chức năng cho người làm văn phòng."
+        },
+        {
+          "q": "Phương pháp phẫu thuật nào phù hợp nhất để che phủ đầu ngón tay giữ được độ dài và cảm giác tốt cho bệnh nhân này (vết thương < 1.5cm)?",
+          "options": [
+            "Vạt V-Y (Atasoy hoặc Kutler)",
+            "Vạt bẹn (Groin flap)",
+            "Tháo khớp DIP, làm mỏm cụt",
+            "Cắt ngắn xương cho đủ da khâu kín"
+          ],
+          "answer": 0,
+          "explain": "Vạt V-Y (trượt tại chỗ) là lựa chọn tối ưu cho tổn thương vát mặt gan hoặc ngang < 1-1.5cm, giữ được cảm giác và độ dài. Cắt ngắn xương (D) làm mất thẩm mỹ. Vạt bẹn (B) quá cồng kềnh."
+        },
+        {
+          "q": "Nếu tổn thương mất da rộng hơn ở mặt gan tay, vạt \"Cross-finger\" (vạt chéo ngón) sẽ lấy da từ đâu?",
+          "options": [
+            "Mặt gan ngón bên cạnh",
+            "Mặt mu đốt 2 ngón bên cạnh (thường là ngón 3)",
+            "Mô cái",
+            "Vùng cẳng tay"
+          ],
+          "answer": 1,
+          "explain": "Vạt chéo ngón (Cross-finger) lấy da từ mặt MU của ngón lành cạnh bên (để che mặt GAN ngón bị thương), sau đó ghép da dày lên vùng cho vạt."
+        },
+        {
+          "q": "Nguyên tắc xử trí móng tay (nếu còn giường móng):",
+          "options": [
+            "Luôn nhổ bỏ hoàn toàn móng và giường móng",
+            "Giữ lại giường móng, khâu phục hồi giường móng (dùng chỉ tiêu chậm 6.0/7.0) để định hướng móng mọc sau này",
+            "Chỉ cần băng lại",
+            "Đốt điện giường móng"
+          ],
+          "answer": 1,
+          "explain": "Giường móng cần được bảo tồn và khâu phục hồi phẳng phiu (bằng chỉ Vicryl/Catgut nhỏ) để tránh móng mọc lệch biến dạng sau này. Đặt lại móng cũ (hoặc miếng silicon) để giữ nếp móng (nail fold)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 28 tuổi vết thương mặt trước ngón trỏ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 28 tuổi, thợ mộc.<br><br><b>Bệnh sử:</b> Vào cấp cứu vì bị máy cưa cắt vào mặt trước ngón trỏ tay phải cách đây 2 giờ. Bệnh nhân đã tự dùng gạc băng ép cầm máu.<br><br><b>Khám lâm sàng:</b> Sinh hiệu ổn định. Vết thương cắt ngang nếp lằn ngón gần, bờ sắc gọn dài 2 cm, không rỉ máu thêm. Cảm giác châm kim hai bên mép ngón trỏ bình thường. Mạch quay và mạch trụ đập rõ, thời gian đổ đầy mao mạch (CRT) ngón trỏ < 2 giây. Khi bác sĩ cố định đốt giữa ngón trỏ, bệnh nhân không thể tự gấp đốt xa. Khi để hở các ngón khác, bệnh nhân cũng hoàn toàn không thể chủ động gấp đốt giữa ngón trỏ.<br><br><b>Xét nghiệm:</b> X-quang không ghi nhận gãy xương.",
+      "questions": [
+        {
+          "q": "Tổn thương giải phẫu phù hợp nhất là gì?",
+          "options": [
+            "Đứt đơn thuần gân gấp nông ngón trỏ",
+            "Đứt đơn thuần gân gấp sâu ngón trỏ",
+            "Đứt cả hai gân gấp ngón tay trỏ",
+            "Đứt bó mạch và thần kinh giữa"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân không thể gấp đốt xa khi cố định đốt giữa (chức năng gân gấp sâu - FDP) và không thể gấp đốt giữa (chức năng gân gấp nông - FDS). Điều này chứng tỏ vết cắt đã làm đứt cả hai gân gấp."
+        },
+        {
+          "q": "Cơ chế giải phẫu nào giải thích việc mất khả năng gấp đốt giữa ngón trỏ?",
+          "options": [
+            "Gân gấp sâu bám vào đốt gần",
+            "Gân gấp nông bám nền đốt giữa",
+            "Đứt ròng rọc A2 mặt lòng ngón",
+            "Tổn thương cơ giun ngón tay"
+          ],
+          "answer": 1,
+          "explain": "Gân gấp nông tách làm hai chẽ bám vào hai bên nền đốt giữa, chịu trách nhiệm chính gấp khớp liên ngón gần (PIP). Khi gân này đứt, đốt giữa mất động tác gập chủ động."
+        },
+        {
+          "q": "Theo phân loại Verdan, tổn thương này nằm ở vùng nào?",
+          "options": [
+            "Vùng I",
+            "Vùng II",
+            "Vùng III",
+            "Vùng IV"
+          ],
+          "answer": 1,
+          "explain": "Vết thương nằm ở mặt gan từ nếp lằn xa gan tay đến giữa đốt ngón giữa thuộc vùng II gân gấp. Đây từng được gọi là \"vùng cấm\" do gân nông và sâu đi chung trong bao hoạt dịch rất hẹp, nguy cơ dính gân sau mổ rất cao."
+        },
+        {
+          "q": "Xử trí ban đầu nào tại phòng cấp cứu là chuẩn xác nhất?",
+          "options": [
+            "Khâu nối gân ngay lập tức",
+            "Băng ép và chuyển phòng mổ",
+            "Kẹp mù cầm máu bằng pince",
+            "Bó bột cẳng bàn tay kín"
+          ],
+          "answer": 1,
+          "explain": "Đứt gân vùng II yêu cầu khâu nối vi phẫu trong phòng mổ vô khuẩn với dụng cụ chuyên dụng. Tại cấp cứu, nguyên tắc chỉ là rửa sạch, băng ép và nẹp cố định chờ mổ. Kẹp mù bị chống chỉ định vì dễ làm nát dây thần kinh ngón."
+        },
+        {
+          "q": "Tư thế nẹp tiêu chuẩn sau mổ khâu gân gấp là gì?",
+          "options": [
+            "Nẹp mặt lưng cổ tay duỗi tối đa",
+            "Nẹp mặt lưng cổ tay hơi gấp",
+            "Nẹp mặt gan cổ tay duỗi hoàn toàn",
+            "Để hở cho phép vận động tự do"
+          ],
+          "answer": 1,
+          "explain": "Gân gấp nằm ở mặt gan tay. Sau khâu nối, cổ tay và các ngón phải được nẹp ở tư thế hơi gấp (đặt nẹp ở mặt lưng để cản trở duỗi) nhằm làm chùng đường khâu, ngăn lực căng làm đứt can gân non."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 19 tuổi chấn thương ngón áp út khi chơi bóng rổ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 19 tuổi, sinh viên.<br><br><b>Bệnh sử:</b> Chơi bóng rổ bị quả bóng đập dồn trục vào đầu ngón áp út tay phải khi ngón tay đang duỗi thẳng. Bệnh nhân đau nhói, sau đó đốt xa ngón áp út sưng nề nhẹ và tự rủ xuống khoảng 40 độ. Bệnh nhân hoàn toàn không thể chủ động duỗi thẳng đốt xa.<br><br><b>Khám lâm sàng:</b> Bác sĩ nâng duỗi thụ động khớp liên đốt xa (DIP) dễ dàng, không gây kẹt hay đau nhói. Khớp liên đốt gần (PIP) vận động bình thường.<br><br><b>Xét nghiệm:</b> X-quang tư thế nghiêng thấy một mảnh xương bong nhỏ ở mặt lưng nền đốt xa, chiếm khoảng 10% diện tích mặt khớp.",
+      "questions": [
+        {
+          "q": "Tên gọi kinh điển của biến dạng này là gì?",
+          "options": [
+            "Ngón tay hình cổ thiên nga",
+            "Ngón tay thợ thùa khuyết",
+            "Ngón tay hình búa (Mallet)",
+            "Ngón tay lò xo (Trigger)"
+          ],
+          "answer": 2,
+          "explain": "Lực gập đột ngột khi đầu ngón tay đang duỗi thẳng làm đứt hệ thống gân duỗi, khiến đốt xa tự rủ xuống tạo thành hình ngón tay búa (Mallet finger / Baseball finger)."
+        },
+        {
+          "q": "Cấu trúc nào bị đứt gây ra biến dạng trên?",
+          "options": [
+            "Chẽ trung tâm gân duỗi",
+            "Chẽ tận cùng gân duỗi",
+            "Gân gấp sâu ngón tay",
+            "Dây chằng bên quay"
+          ],
+          "answer": 1,
+          "explain": "Chẽ tận cùng (terminal slip) của gân duỗi bám vào mặt lưng nền đốt xa. Khi chẽ này đứt hoặc bong giật mảnh xương điểm bám, ngón tay mất lực kéo duỗi mặt lưng, trong khi gân gấp sâu mặt gan vẫn hoạt động kéo đốt xa gập xuống."
+        },
+        {
+          "q": "Chọn tập hợp ĐÚNG về đánh giá và xử trí bệnh nhân này:\n(1) Điều trị bảo tồn bằng nẹp nhôm hoặc nhựa\n(2) Cần nẹp khớp DIP ở tư thế duỗi liên tục\n(3) Phẫu thuật xuyên kim là lựa chọn đầu tay\n(4) Có thể tháo nẹp mỗi ngày để vệ sinh ngón",
+          "options": [
+            "1, 2",
+            "2, 3",
+            "3, 4",
+            "1, 4"
+          ],
+          "answer": 0,
+          "explain": "Mallet finger kín với mảnh xương nhỏ (<30% mặt khớp) không trật khớp được điều trị tiêu chuẩn bằng nẹp giữ riêng khớp DIP ở tư thế duỗi (1, 2 đúng). Phẫu thuật chỉ dành cho mảnh vỡ lớn. Tuyệt đối không được tháo nẹp trong suốt 6-8 tuần vì khớp gập lại sẽ làm rách can gân non mới hình thành."
+        },
+        {
+          "q": "Biến chứng muộn nếu không được nẹp đúng cách là gì?",
+          "options": [
+            "Cứng khớp PIP ở tư thế gấp",
+            "Biến dạng cổ thiên nga",
+            "Bàn tay vuốt trụ tiến triển",
+            "Viêm xương tủy xương mạn"
+          ],
+          "answer": 1,
+          "explain": "Sự mất cân bằng lực ở ngón búa không điều trị lâu ngày sẽ kéo khớp PIP ưỡn cong lên và khớp DIP gập xuống, tạo thành biến dạng cổ thiên nga (Swan neck deformity)."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh nào gây ra biến chứng muộn ở câu 4?",
+          "options": [
+            "Lực duỗi dồn vào chẽ trung tâm",
+            "Hai dải bên trượt xuống mặt lòng",
+            "Co rút mạc giữ gân duỗi cổ tay",
+            "Viêm dính bao khớp liên ngón xa"
+          ],
+          "answer": 0,
+          "explain": "Khi chẽ tận cùng đứt, lực căng bình thường của toàn bộ hệ thống gân duỗi không còn truyền đến đốt xa được nữa mà dồn ngược lại vào chẽ trung tâm bám ở đốt giữa, từ đó kéo căng quá mức khớp PIP về tư thế duỗi."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 32 tuổi sưng đau mu tay sau xô xát",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 32 tuổi.<br><br><b>Tiền sử:</b> Đái tháo đường đang dùng metformin.<br><br><b>Bệnh sử:</b> Vào viện vì sưng đau mu tay phải. 3 ngày trước bệnh nhân xô xát và đấm trúng răng đối phương. Vết thương chỉ xước da khoảng 1 cm ở mặt lưng khớp bàn ngón (MCP) ngón giữa. Hiện tại, vùng mu tay quanh khớp MCP sưng tấy đỏ, chảy mủ đục. Bệnh nhân giữ ngón tay hơi gấp, kêu đau chói khi ấn vào khe khớp và la hét khi bác sĩ kéo duỗi thụ động ngón tay. Nhiệt độ 38.5°C.<br><br><b>Xét nghiệm:</b> Bạch cầu 15 G/L, CRP 85 mg/L. X-quang không gãy xương, khe khớp hẹp nhẹ.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất là gì?",
+          "options": [
+            "Viêm bao gân gấp mủ cấp",
+            "Viêm khớp nhiễm khuẩn cấp",
+            "Đứt gân duỗi ngón tay giữa",
+            "Gãy chỏm xương bàn tay kín"
+          ],
+          "answer": 1,
+          "explain": "Vết thương đấm trúng răng (fight bite / clenched fist injury) ở mặt lưng khớp MCP kèm sưng tấy, sốt, chảy mủ và đau khi vận động là bệnh cảnh điển hình của viêm khớp nhiễm khuẩn xuyên thấu."
+        },
+        {
+          "q": "Tác nhân vi khuẩn kinh điển nào cần được bao phủ kháng sinh?",
+          "options": [
+            "Pasteurella multocida",
+            "Eikenella corrodens",
+            "Pseudomonas aeruginosa",
+            "Clostridium perfringens"
+          ],
+          "answer": 1,
+          "explain": "Eikenella corrodens là trực khuẩn Gram âm kỵ khí tùy tiện thường trú trong khoang miệng người. Đây là vi khuẩn cực kỳ đặc trưng và gây hoại tử mạnh trong các vết thương do người cắn. Pasteurella multocida thường gặp ở vết thương mèo/chó cắn."
+        },
+        {
+          "q": "Cơ chế giải phẫu nào khiến nhiễm trùng tiến triển sâu vào khớp?",
+          "options": [
+            "Hệ thống bạch huyết đưa vi khuẩn đi sâu",
+            "Lỗ thủng bao khớp bị bít kín khi duỗi",
+            "Áp lực âm trong khoang khớp hút vi khuẩn",
+            "Răng đâm xuyên trực tiếp màng xương bàn ngón"
+          ],
+          "answer": 1,
+          "explain": "Khi nắm tay đấm, gân duỗi bị kéo trượt về phía xa, da căng ra. Răng xuyên qua da, gân duỗi và bao khớp. Khi bệnh nhân duỗi thẳng tay ra, các lớp mô trượt ngược lại, lỗ thủng lệch nhau làm van một chiều bít kín vi khuẩn vào trong khoang khớp kín hẹp."
+        },
+        {
+          "q": "Phương pháp xử trí ngoại khoa tiêu chuẩn là gì?",
+          "options": [
+            "Khâu kín mép da ngay lập tức",
+            "Rạch rộng bao khớp và bơm rửa",
+            "Chọc hút dịch khớp qua da liên tục",
+            "Tháo khớp bàn ngón tay ngay lập tức"
+          ],
+          "answer": 1,
+          "explain": "Viêm khớp nhiễm khuẩn có mủ bắt buộc phải đưa lên phòng mổ để rạch rộng bao khớp, bơm rửa làm sạch và phải để hở vết thương dẫn lưu. Khâu kín da sẽ nhốt vi khuẩn kỵ khí và gây bùng phát nhiễm trùng hoại tử mạc."
+        },
+        {
+          "q": "Kháng sinh kinh nghiệm ưu tiên cho vết thương do người cắn là gì?",
+          "options": [
+            "Amoxicillin-Clavulanate",
+            "Ciprofloxacin đường uống",
+            "Cephalexin thế hệ một",
+            "Metronidazole đơn thuần"
+          ],
+          "answer": 0,
+          "explain": "Amoxicillin-Clavulanate (hoặc Ampicillin-Sulbactam tĩnh mạch) là lựa chọn đầu tay tiêu chuẩn vì bao phủ hoàn hảo quần thể vi khuẩn phức tạp trong miệng người gồm S. aureus, liên cầu, vi khuẩn kỵ khí và đặc biệt là E. corrodens."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi vô ý xịt súng phun sơn vào ngón tay",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi, thợ sơn.<br><br><b>Bệnh sử:</b> Vô ý xịt súng phun sơn áp lực cao vào mặt gan đốt xa ngón trỏ tay phải cách đây 4 giờ. Lỗ vào chỉ như vết kim đâm, không chảy máu. Hiện tại, ngón trỏ sưng phù căng bóng, nhợt nhạt, tình trạng sưng nề lan dọc theo lòng bàn tay. Bệnh nhân đau nhức dữ dội liên tục không đáp ứng với giảm đau.<br><br><b>Khám lâm sàng:</b> Khi bác sĩ duỗi thụ động ngón trỏ, bệnh nhân hét lên vì đau đớn. CRT ngón trỏ > 3 giây, mất cảm giác châm kim đỉnh ngón.<br><br><b>Xét nghiệm:</b> X-quang phát hiện bóng mờ cản quang lan dọc theo bao gân ngón trỏ.",
+      "questions": [
+        {
+          "q": "Tình trạng cấp cứu ngoại khoa nào đang xảy ra?",
+          "options": [
+            "Viêm mủ bao gân gấp ngón tay",
+            "Hội chứng chèn ép khoang cấp",
+            "Tắc mạch máu do huyết khối",
+            "Gãy xương hở đốt ngón xa"
+          ],
+          "answer": 1,
+          "explain": "Tổn thương tiêm áp lực cao (high-pressure injection injury) đẩy lượng lớn chất lỏng vào các khoang kín chật hẹp của bàn tay. Các dấu hiệu: ngón căng bóng, nhợt nhạt, đau dữ dội khi duỗi thụ động là tiêu chuẩn chẩn đoán hội chứng chèn ép khoang cấp tính."
+        },
+        {
+          "q": "Nguyên nhân chính gây hoại tử mô lan rộng là gì?",
+          "options": [
+            "Vi khuẩn yếm khí tiết ra độc tố",
+            "Áp lực cơ học và độc tính hóa học",
+            "Tắc nghẽn tĩnh mạch sâu vùng cổ tay",
+            "Phản ứng dị ứng thuốc tê cục bộ"
+          ],
+          "answer": 1,
+          "explain": "Hoại tử mô xảy ra do hai cơ chế tác động kép: lực cơ học ép xẹp hệ thống vi tuần hoàn gây nhồi máu thiếu oxy, và độc tính hóa học của sơn/dung môi phá hủy trực tiếp màng tế bào, kích hoạt phản ứng viêm hoại tử lan rộng."
+        },
+        {
+          "q": "Thao tác nào BỊ CHỐNG CHỈ ĐỊNH trong xử trí ban đầu?",
+          "options": [
+            "Rạch mạc giải áp ngón tay",
+            "Truyền kháng sinh tĩnh mạch",
+            "Phong bế thuốc tê gốc ngón",
+            "Chụp X-quang xương bàn tay"
+          ],
+          "answer": 2,
+          "explain": "Việc tiêm thuốc tê vòng quanh gốc ngón tay (digital block) sẽ bơm thêm thể tích dịch vào không gian vốn đã bị chèn ép, làm tăng thêm áp lực khoang và lập tức cắt đứt hoàn toàn dòng máu vi tuần hoàn còn sót lại, gây hoại tử ngón tay vĩnh viễn."
+        },
+        {
+          "q": "Lựa chọn can thiệp khẩn cấp cho bệnh nhân là gì?",
+          "options": [
+            "Rạch mạc giải áp dọc đường đi hóa chất",
+            "Nặn ép hóa chất qua lỗ vào trên da",
+            "Cắt cụt ngón tay ở thì phẫu thuật đầu",
+            "Điều trị nội khoa bảo tồn bằng nẹp"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân cần mổ giải áp khẩn cấp tại phòng mổ. Phẫu thuật viên mở rộng đường rạch (thường dùng đường zig-zag Brunner) dọc theo toàn bộ đường đi của hóa chất để giải áp mạc, bơm rửa và cắt lọc triệt để. Tuyệt đối không điều trị bảo tồn."
+        },
+        {
+          "q": "Yếu tố nào đóng vai trò tiên lượng xấu nhất (nguy cơ cắt cụt cao)?",
+          "options": [
+            "Kích thước vết thương đầu vào",
+            "Thể tích chất lỏng bị bơm vào",
+            "Bản chất hóa học của dung môi",
+            "Thời gian nhịn ăn trước phẫu thuật"
+          ],
+          "answer": 2,
+          "explain": "Dung môi hữu cơ (như sơn dầu, chất pha loãng, dầu mỡ công nghiệp) có độc tính hoại tử hóa học cực kỳ mạnh, mang tỷ lệ phải cắt cụt chi lên tới 60-80%, tồi tệ hơn nhiều so với tiêm áp lực cao bằng nước sạch hoặc khí. Lỗ vào nhỏ là cạm bẫy dễ gây chủ quan."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 55 tuổi bị gai hoa hồng đâm ngón tay",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 55 tuổi.<br><br><b>Bệnh sử:</b> Bị gai hoa hồng đâm vào mặt gan đốt ngón gần ngón giữa tay phải cách đây 2 ngày. Nhiệt độ 38.2°C.<br><br><b>Khám lâm sàng:</b> Khám thấy toàn bộ ngón giữa sưng phù nề cân đối, da đỏ rực. Ngón tay duy trì ở tư thế hơi gấp nhẹ. Bệnh nhân kêu đau chói dọc theo đường đi của bao gân mặt lòng. Khi bác sĩ cầm đầu ngón tay kéo thẳng thụ động, bệnh nhân đau đớn dữ dội không thể chịu đựng được. Không thấy mủ ở vị trí vết đâm bề mặt.",
+      "questions": [
+        {
+          "q": "Bốn dấu hiệu lâm sàng của bệnh nhân được gọi là gì?",
+          "options": [
+            "Dấu hiệu Murphy",
+            "Dấu hiệu Kanavel",
+            "Dấu hiệu Froment",
+            "Dấu hiệu Phalen"
+          ],
+          "answer": 1,
+          "explain": "Bốn dấu hiệu: sưng hình thoi toàn bộ ngón, tư thế ngón hơi gấp, đau chói dọc bao gân, và đau dữ dội khi kéo duỗi thụ động cơ là 4 dấu hiệu Kanavel kinh điển trong ngoại khoa bàn tay."
+        },
+        {
+          "q": "Chẩn đoán xác định phù hợp nhất là gì?",
+          "options": [
+            "Viêm khớp nhiễm khuẩn cấp",
+            "Viêm mủ bao gân gấp ngón",
+            "Viêm mô tế bào mu bàn tay",
+            "Hội chứng chèn ép khoang"
+          ],
+          "answer": 1,
+          "explain": "Tiền sử đâm xuyên mặt gan tay kết hợp với bộ 4 dấu hiệu Kanavel dương tính khẳng định chẩn đoán viêm bao gân gấp sinh mủ (pyogenic flexor tenosynovitis)."
+        },
+        {
+          "q": "Cơ chế giải phẫu nào làm mủ lan nhanh lên khoang gan tay?",
+          "options": [
+            "Tổn thương vách gian cơ mu tay",
+            "Sự thông thương của bao hoạt dịch",
+            "Mủ lan theo hệ thống tĩnh mạch",
+            "Sự co rút của gân gấp ngón tay"
+          ],
+          "answer": 1,
+          "explain": "Bao hoạt dịch gân gấp là những khoang ảo trơn láng bọc quanh gân. Khi nhiễm trùng sinh mủ, mủ sẽ chảy dọc theo đường hầm bao hoạt dịch này tiến thẳng lên các khoang sâu ở lòng bàn tay hoặc cổ tay gây áp xe chữ U (đặc biệt với ngón cái và ngón út)."
+        },
+        {
+          "q": "Chọn câu KHÔNG ĐÚNG về điều trị tình trạng này:",
+          "options": [
+            "Cần rạch mở bao gân để bơm rửa",
+            "Bắt buộc dùng kháng sinh tĩnh mạch",
+            "Có thể tiêm corticoid giảm sưng viêm",
+            "Là cấp cứu ngoại khoa không trì hoãn"
+          ],
+          "answer": 2,
+          "explain": "Tiêm corticoid vào một ổ nhiễm trùng đang bùng phát là chống chỉ định tuyệt đối vì nó làm ức chế miễn dịch tại chỗ, gây nhiễm khuẩn huyết lan rộng. Bệnh lý này yêu cầu mổ rạch dẫn lưu bao gân và kháng sinh tĩnh mạch."
+        },
+        {
+          "q": "Biến chứng nguy hiểm nhất nếu chậm trễ phẫu thuật là gì?",
+          "options": [
+            "Rách da vùng nếp gấp gan tay",
+            "Hoại tử toàn bộ gân gấp ngón",
+            "Biến dạng bàn tay vuốt trụ hoàn toàn",
+            "Viêm tấy đám rối thần kinh cánh tay"
+          ],
+          "answer": 1,
+          "explain": "Mủ ứ đọng làm tăng áp lực trong bao gân, chèn ép các mạch máu nhỏ nuôi gân (vincula). Kết hợp với men tiêu protein do vi khuẩn tiết ra, gân gấp sẽ nhanh chóng bị nhũn và hoại tử đứt đoạn vĩnh viễn nếu không được rạch dẫn lưu sớm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi dập nát bàn tay phải",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Bệnh sử:</b> Bị dập nát bàn tay phải do kẹt vào máy dập cách đây 2 giờ. Bàn tay sưng nề khổng lồ, căng cứng, đau đớn vật vã. Mức độ đau không giảm dù đã tiêm morphin tĩnh mạch.<br><br><b>Khám lâm sàng:</b> Bác sĩ thử kéo duỗi thụ động các ngón tay thì bệnh nhân la hét do đau. Mạch quay và mạch trụ ở cổ tay đập mạnh. Tuy nhiên, các ngón tay lạnh, thời gian đổ đầy mao mạch (CRT) 4 giây, mất cảm giác hoàn toàn.<br><br><b>Xét nghiệm:</b> X-quang ghi nhận gãy nhiều xương bàn ngón ít di lệch.",
+      "questions": [
+        {
+          "q": "Chẩn đoán cấp cứu phù hợp nhất là gì?",
+          "options": [
+            "Sốc chấn thương do đau",
+            "Gãy nát xương nhiều ngón",
+            "Hội chứng chèn ép khoang",
+            "Viêm mô tế bào bàn tay"
+          ],
+          "answer": 2,
+          "explain": "Chấn thương dồn ép năng lượng cao gây sưng cứng, đau dữ dội vượt mức tổn thương ngoài, đau thét khi căng cơ thụ động và thiếu máu vi tuần hoàn ngón tay là hội chứng chèn ép khoang cấp tính bàn tay."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh nào giải thích việc mạch cổ tay vẫn đập mạnh?",
+          "options": [
+            "Áp lực khoang chưa vượt huyết áp tâm thu",
+            "Mạng lưới bàng hệ mạch máu phong phú",
+            "Động mạch quay đi hoàn toàn ngoài mạc",
+            "Phản xạ giao cảm giãn mạch ngoại vi"
+          ],
+          "answer": 0,
+          "explain": "Chèn ép khoang phá hủy các mô nhờ cơ chế ép xẹp mao mạch và tĩnh mạch (những cấu trúc có áp lực thấp, thường <30 mmHg). Trong khi đó, động mạch quay và trụ có huyết áp tâm thu rất lớn (thường >100 mmHg), nên mạch vẫn nảy mạnh dù mô ngoại vi đã chết do thiếu máu. Chờ mất mạch lớn mới mổ là sai lầm."
+        },
+        {
+          "q": "Dấu hiệu lâm sàng sớm và nhạy cảm nhất là gì?",
+          "options": [
+            "Da bàn tay chuyển màu hoại tử",
+            "Đau chói khi kéo duỗi thụ động",
+            "Mất hoàn toàn mạch quay và trụ",
+            "Tụt huyết áp toàn thân nặng"
+          ],
+          "answer": 1,
+          "explain": "Đau chói khi bác sĩ kéo căng cơ thụ động (pain on passive stretch) là dấu hiệu thực thể nhạy bén nhất, xuất hiện sớm nhất để quyết định mổ trước khi cơ bị hoại tử hoàn toàn."
+        },
+        {
+          "q": "Bàn tay có tổng cộng bao nhiêu khoang giải phẫu cần đánh giá?",
+          "options": [
+            "4 khoang",
+            "6 khoang",
+            "8 khoang",
+            "10 khoang"
+          ],
+          "answer": 3,
+          "explain": "Về mặt giải phẫu phẫu thuật, bàn tay có 10 khoang mạc riêng biệt cần thám sát: 4 khoang gian cốt mu tay, 3 khoang gian cốt gan tay, khoang cơ ô mô cái, khoang cơ ô mô út và khoang cơ khép ngón cái."
+        },
+        {
+          "q": "Can thiệp ngoại khoa khẩn cấp nhất là gì?",
+          "options": [
+            "Bó bột kín cẳng bàn tay",
+            "Rạch cân mạc giải áp sâu",
+            "Kê cao tay và chườm đá",
+            "Mổ kết hợp xương bằng nẹp"
+          ],
+          "answer": 1,
+          "explain": "Điều trị duy nhất cứu được sinh cơ học bàn tay là rạch mạc giải áp (fasciotomy) tại phòng mổ qua đường lưng và lòng bàn tay. Bó bột kín tạo thêm vỏ bọc cứng bên ngoài, làm tăng thêm áp lực chèn ép."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi đứt lìa ngón cái",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 30 tuổi, công nhân nhà máy thịt.<br><br><b>Bệnh sử:</b> Bị máy thái lát cắt đứt lìa hoàn toàn ngón cái tay trái ở ngang mức đốt ngón gần. Bệnh nhân được đưa vào cấp cứu sau 1 giờ.<br><br><b>Khám lâm sàng:</b> Sinh hiệu ổn định, mỏm cụt đang băng ép tốt. Ngón cái đứt rời được đồng nghiệp cho trực tiếp vào một túi nilon có chứa nước máy và vài viên đá lạnh để mang đến viện.",
+      "questions": [
+        {
+          "q": "Đánh giá chỉ định trồng lại ngón tay cho bệnh nhân:",
+          "options": [
+            "Chống chỉ định tuyệt đối",
+            "Chỉ định tương đối",
+            "Chỉ định tuyệt đối ưu tiên",
+            "Chống chỉ định tương đối"
+          ],
+          "answer": 2,
+          "explain": "Ngón cái đóng vai trò cốt lõi (chiếm 50% chức năng) trong các động tác cầm nắm, đối chiếu của bàn tay. Ở bệnh nhân ổn định không đa chấn thương đe dọa tính mạng, đứt lìa ngón cái ở bất kỳ lứa tuổi nào luôn là chỉ định ưu tiên tuyệt đối để khâu vi phẫu trồng lại chi (replantation)."
+        },
+        {
+          "q": "Lỗi sai nghiêm trọng nhất trong cách bảo quản ngón đứt là gì?",
+          "options": [
+            "Để chi tiếp xúc trực tiếp nước đá",
+            "Không rửa ngón bằng cồn y tế",
+            "Không khâu kín các mạch máu",
+            "Không dùng garo cho chi đứt"
+          ],
+          "answer": 0,
+          "explain": "Đặt ngón tay trực tiếp vào nước đá sẽ gây bỏng lạnh (frostbite), làm tinh thể băng phá vỡ cấu trúc tế bào nội mạc mạch máu, khiến ngón tay không thể nối sống. Phải bọc ngón trong gạc ấm, cho vào túi nilon buộc kín, rồi mới ngâm túi đó vào thùng nước đá (bảo quản gián tiếp 4°C)."
+        },
+        {
+          "q": "Trình tự khâu nối tiêu chuẩn trong phẫu thuật vi phẫu là gì?",
+          "options": [
+            "Động mạch - Thần kinh - Xương",
+            "Xương - Gân - Mạch máu - Thần kinh",
+            "Thần kinh - Xương - Mạch máu - Gân",
+            "Gân - Da - Xương - Thần kinh - Mạch"
+          ],
+          "answer": 1,
+          "explain": "Trình tự mổ chuẩn là: Cố định Xương bằng đinh/nẹp trước (để tạo khung vững chắc không co kéo các mối nối) -> Khâu Gân -> Nối Động tĩnh mạch (để mô có máu sớm) -> Nối Thần kinh -> Khâu da."
+        },
+        {
+          "q": "Thời gian thiếu máu lạnh (cold ischemia) tối đa đối với ngón tay là bao lâu?",
+          "options": [
+            "2 đến 4 giờ",
+            "6 đến 8 giờ",
+            "12 đến 24 giờ",
+            "48 đến 72 giờ"
+          ],
+          "answer": 2,
+          "explain": "Ngón tay chỉ gồm xương, da và gân, hầu như không có cơ vân chuyển hóa mạnh. Do đó, nếu bảo quản lạnh đúng cách, ngón tay chịu đựng được thời gian thiếu máu lạnh rất lâu, có thể từ 12 đến 24 giờ vẫn nối thành công."
+        },
+        {
+          "q": "Dấu hiệu ngón ghép màu tím sẫm, căng phồng, mao mạch nạp rất nhanh gợi ý điều gì?",
+          "options": [
+            "Tắc động mạch miệng nối",
+            "Tắc tĩnh mạch miệng nối",
+            "Co thắt mạch máu sinh lý",
+            "Nhiễm khuẩn vết mổ cấp"
+          ],
+          "answer": 1,
+          "explain": "Máu động mạch bơm vào được nhưng máu tĩnh mạch bị nghẽn không thoát ra được sẽ làm ngón tay ứ huyết sưng phồng, căng bóng, màu chuyển tím sẫm và máu nạp cực nhanh (bật nảy). Nếu tắc động mạch, ngón tay sẽ nhợt nhạt, trắng bợt và xẹp lép."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 25 tuổi tự cắt sâu vào mặt trước cổ tay",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 25 tuổi.<br><br><b>Bệnh sử:</b> Dùng dao rọc giấy tự cắt sâu vào mặt trước cổ tay trái (tự sát). Vết cắt nằm chính giữa nếp lằn ngang cổ tay. Bệnh nhân vào viện sau 2 giờ, vết thương đã ngừng chảy máu ồ ạt sau băng ép.<br><br><b>Khám lâm sàng:</b> Sinh hiệu ổn định. Khám chức năng: bệnh nhân không thể chủ động gấp ngón trỏ và ngón giữa. Không thể thực hiện động tác đưa ngón cái chạm vào đỉnh ngón út. Bệnh nhân mất cảm giác đau hoàn toàn ở mặt gan ngón 1, ngón 2, ngón 3 và nửa ngoài ngón 4. Mạch quay và mạch trụ đập mạnh.",
+      "questions": [
+        {
+          "q": "Thần kinh nào bị đứt gây ra mất đối ngón và mất cảm giác?",
+          "options": [
+            "Thần kinh trụ",
+            "Thần kinh quay",
+            "Thần kinh giữa",
+            "Thần kinh cơ bì"
+          ],
+          "answer": 2,
+          "explain": "Vết thương cắt ngay giữa nếp lằn cổ tay trước gây mất cảm giác 3.5 ngón ngoài mặt gan tay và liệt cơ ô mô cái (mất đối chiếu ngón cái) là tổn thương kinh điển của thần kinh giữa."
+        },
+        {
+          "q": "Cơ nào bị liệt khiến bệnh nhân không thể đối chiếu ngón cái?",
+          "options": [
+            "Cơ khép ngón cái",
+            "Cơ đối chiếu ngón cái",
+            "Cơ giun thứ nhất bàn tay",
+            "Cơ gian cốt mu tay"
+          ],
+          "answer": 1,
+          "explain": "Động tác chạm ngón cái vào ngón út là động tác đối chiếu. Thần kinh giữa chi phối cơ đối chiếu ngón cái (opponens pollicis) nằm ở ô mô cái. Khi cơ này liệt, ngón cái mất lực xoay chạm các ngón khác."
+        },
+        {
+          "q": "Biến dạng muộn nào sẽ xuất hiện nếu thần kinh không hồi phục?",
+          "options": [
+            "Bàn tay khỉ",
+            "Bàn tay vuốt trụ",
+            "Cổ thiên nga",
+            "Ngón tay hình búa"
+          ],
+          "answer": 0,
+          "explain": "Nếu thần kinh giữa đứt vĩnh viễn, khối cơ ô mô cái sẽ teo xẹp. Ngón cái bị lực cơ chế kéo nằm ngang cùng một mặt phẳng với các ngón khác, tạo ra biến dạng hình dáng \"bàn tay khỉ\" (Ape hand)."
+        },
+        {
+          "q": "Cơ chế nào giải thích việc mất khả năng gấp ngón trỏ và ngón giữa?",
+          "options": [
+            "Liệt nhóm cơ giun và cơ gian cốt",
+            "Liệt cơ gấp ngón cái dài mặt gan",
+            "Đứt nhóm gân gấp nông và gấp sâu",
+            "Trật khớp cổ tay ra phía trước"
+          ],
+          "answer": 2,
+          "explain": "Việc mất động tác cơ học gập ngón 2 và 3 không phải do liệt thần kinh giữa gây ra ngay lập tức, mà là do lưỡi dao cắt ngang cổ tay đã làm đứt luôn các gân cơ gấp chung nông và gấp chung sâu của hai ngón này nằm sát bên cạnh thần kinh (hội chứng Spaghetti wrist)."
+        },
+        {
+          "q": "Lựa chọn phẫu thuật thần kinh tiêu chuẩn là gì?",
+          "options": [
+            "Khâu vi phẫu bao ngoài thì đầu",
+            "Cột hai đầu dây chờ nối thì hai",
+            "Ghép thần kinh bằng cáp tự thân",
+            "Chỉ khâu phục hồi cơ bắp"
+          ],
+          "answer": 0,
+          "explain": "Với vết thương cắt sắc gọn, sạch sẽ ở vùng cổ tay mới xảy ra, nguyên tắc chuẩn là mở thám sát và khâu nối tận - tận thần kinh vi phẫu (khâu lớp bao ngoài - epineurial repair) ngay trong thì mổ đầu tiên để tạo đường hầm sớm cho sợi trục mọc lại."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi vết thương mặt gan cổ tay bờ trụ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 35 tuổi.<br><br><b>Bệnh sử:</b> Ngã chống tay vào kính vỡ gây vết thương sâu ở mặt gan cổ tay trái bờ trụ cách đây 3 tuần. Bệnh nhân đã được khâu da mảng tại trạm y tế. Hiện tại vết thương liền tốt, nhưng bệnh nhân thấy tê bì hoàn toàn ngón út và nửa ngón áp út.<br><br><b>Khám lâm sàng:</b> Khám thấy ngón 4 và ngón 5 bị biến dạng: khớp bàn ngón (MCP) bị quá duỗi, trong khi khớp liên ngón gần (PIP) và xa (DIP) bị gấp cong. Bệnh nhân không thể kẹp chặt một tờ giấy bằng mép thẳng của ngón cái, ngón cái bị gập mạnh ở đốt xa để giữ giấy (Dấu hiệu Froment dương tính).",
+      "questions": [
+        {
+          "q": "Tổn thương thần kinh nào gây ra bệnh cảnh lâm sàng trên?",
+          "options": [
+            "Thần kinh giữa",
+            "Thần kinh trụ",
+            "Thần kinh quay",
+            "Thần kinh bì cẳng tay"
+          ],
+          "answer": 1,
+          "explain": "Vết thương bờ trụ, mất cảm giác ngón 5, biến dạng vuốt trụ (Claw hand) và dấu hiệu Froment dương tính xác định tổn thương đứt dây thần kinh trụ."
+        },
+        {
+          "q": "Dấu hiệu Froment dương tính là do liệt cơ nào?",
+          "options": [
+            "Cơ khép ngón cái",
+            "Cơ đối chiếu ngón cái",
+            "Cơ gấp ngón cái ngắn",
+            "Cơ gian cốt mu tay"
+          ],
+          "answer": 0,
+          "explain": "Thần kinh trụ chi phối cơ khép ngón cái (adductor pollicis). Khi cơ này liệt, bệnh nhân không thể kẹp giấy bằng má trong ngón cái. Cơ thể tự bù trừ bằng cách dùng cơ gấp ngón cái dài (FPL - do thần kinh giữa chi phối) để gập nắp đốt xa ngón cái xuống giữ giấy (test Froment)."
+        },
+        {
+          "q": "Cơ chế gây quá duỗi khớp bàn ngón (MCP) ở ngón 4 và 5 là gì?",
+          "options": [
+            "Đứt gân gấp chung các ngón tay",
+            "Co rút nhóm gân duỗi mặt lưng",
+            "Liệt cơ giun làm mất lực đối kháng",
+            "Dính bao khớp bàn ngón tay mạn tính"
+          ],
+          "answer": 2,
+          "explain": "Thần kinh trụ chi phối cơ giun số 3 và 4. Các cơ này có chức năng gập khớp MCP. Khi chúng bị liệt, lực kéo mạnh mẽ của hệ thống gân duỗi mặt lưng (do thần kinh quay chi phối) không còn bị đối kháng, nên lập tức kéo bật khớp MCP của ngón 4 và 5 lên tư thế quá duỗi."
+        },
+        {
+          "q": "Vị trí giải phẫu nào chứa cấu trúc bị tổn thương ở vùng cổ tay?",
+          "options": [
+            "Kênh Guyon",
+            "Ống cổ tay hẹp",
+            "Hố lào giải phẫu",
+            "Bao cảnh mặt trước"
+          ],
+          "answer": 0,
+          "explain": "Động mạch và thần kinh trụ đi ngang qua cổ tay để vào lòng bàn tay thông qua một khe hẹp nằm giữa xương đậu và xương móc, gọi là Kênh Guyon (ống trụ)."
+        },
+        {
+          "q": "Phương án can thiệp ngoại khoa ưu tiên hiện tại là gì?",
+          "options": [
+            "Nẹp cố định ngón tay vĩnh viễn",
+            "Mổ thám sát khâu nối vi phẫu",
+            "Vật lý trị liệu phục hồi chức năng",
+            "Tiêm corticoid chống viêm dính"
+          ],
+          "answer": 1,
+          "explain": "Vết thương đứt thần kinh trụ ở người trẻ mới 3 tuần (chưa teo cơ không hồi phục), chỉ định tối ưu là mổ mở thám sát, cắt lọc mô sẹo thần kinh và khâu vi phẫu để tái tạo đường dẫn truyền."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi biến dạng ngón giữa sau vết thương cắt",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi.<br><br><b>Bệnh sử:</b> Bị dao cắt ngang mặt lưng khớp liên đốt gần (PIP) ngón giữa tay phải cách đây 3 tuần. Bệnh nhân chỉ băng bó tạm ở nhà. Hiện tại, vết thương đã liền sẹo, nhưng ngón giữa xuất hiện biến dạng: khớp PIP luôn ở tư thế gập, trong khi khớp liên đốt xa (DIP) lại bị ưỡn cong ra sau (quá duỗi). Bệnh nhân không thể chủ động nâng duỗi thẳng khớp PIP.<br><br><b>Khám lâm sàng:</b> Khám thần kinh và mạch máu bình thường.",
+      "questions": [
+        {
+          "q": "Tên gọi y văn của kiểu biến dạng ngón tay này là gì?",
+          "options": [
+            "Biến dạng cổ thiên nga",
+            "Biến dạng thợ thùa khuyết",
+            "Biến dạng ngón tay hình búa",
+            "Biến dạng bàn tay khỉ"
+          ],
+          "answer": 1,
+          "explain": "Tư thế gập khớp PIP kèm quá duỗi khớp DIP là hình ảnh kinh điển của biến dạng Boutonniere (thợ thùa khuyết/lỗ khuyết). Nó có chiều hướng ngược lại hoàn toàn so với biến dạng cổ thiên nga."
+        },
+        {
+          "q": "Cấu trúc giải phẫu nào bị đứt gây ra tình trạng trên?",
+          "options": [
+            "Dải tận cùng gân duỗi",
+            "Chẽ trung tâm gân duỗi",
+            "Gân gấp nông ngón tay",
+            "Dây chằng bên khớp PIP"
+          ],
+          "answer": 1,
+          "explain": "Vết thương cắt ngang mặt lưng khớp PIP (vùng III gân duỗi) đã làm đứt chẽ trung tâm (central slip) của hệ thống gân duỗi. Chẽ này bám vào nền đốt giữa, chịu trách nhiệm nâng duỗi khớp PIP."
+        },
+        {
+          "q": "Sự quá duỗi của khớp DIP được giải thích bởi cơ chế nào?",
+          "options": [
+            "Dải bên gân duỗi trượt xuống mặt lòng",
+            "Đứt dải tận cùng bám vào nền đốt xa",
+            "Co rút mạn tính của gân gấp sâu ngón",
+            "Dính bao khớp liên đốt gần sau viêm"
+          ],
+          "answer": 0,
+          "explain": "Khi chẽ trung tâm đứt, khớp PIP rủ gập xuống. Dần dần, hai dải bên (lateral bands) mất chốt giữ sẽ trượt lệch xuống mặt gan tay, lọt qua trục quay của khớp PIP. Khi lọt xuống dưới, dải bên biến thành lực kéo làm khớp PIP gập thêm, đồng thời dồn toàn bộ lực kéo về phía chẽ tận, làm khớp DIP bị ưỡn ra sau."
+        },
+        {
+          "q": "Nghiệm pháp lâm sàng nào giúp phát hiện tổn thương này ở giai đoạn sớm?",
+          "options": [
+            "Nghiệm pháp Elson",
+            "Nghiệm pháp Phalen",
+            "Nghiệm pháp Finkelstein",
+            "Nghiệm pháp Allen"
+          ],
+          "answer": 0,
+          "explain": "Nghiệm pháp Elson khám đứt chẽ trung tâm ở giai đoạn cấp tính: Bác sĩ yêu cầu bệnh nhân gập khớp PIP 90 độ ở mép bàn và ráng duỗi ngón lên. Nếu chẽ trung tâm đứt, lực truyền qua dải bên làm khớp DIP duỗi cứng nhắc. Ở người gân bình thường, khớp DIP sẽ gập mềm mại."
+        },
+        {
+          "q": "Lựa chọn điều trị cho biến dạng đã cứng định hình (đến muộn) là gì?",
+          "options": [
+            "Nẹp cố định khớp PIP tư thế duỗi",
+            "Nẹp cố định toàn bộ ngón tay dài",
+            "Phẫu thuật giải phóng và tái tạo gân",
+            "Để hở và tập vận động chủ động"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân đến muộn (3 tuần), mô sẹo đã hình thành và dải bên đã co rút chặt ở vị trí sai lệch mặt lòng. Việc nẹp bảo tồn không còn tác dụng. Bệnh nhân cần mổ mở để giải phóng bao khớp, đưa dải bên về lại mặt lưng và khâu tái tạo chẽ trung tâm."
+        }
+      ]
+    }
+  ]
+}
