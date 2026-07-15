@@ -1,14 +1,14 @@
 {
   "name": "Gãy trên lồi cầu xương cánh tay ở trẻ em",
-  "description": "Bộ 10 case lâm sàng toàn diện về gãy Gartland, bao gồm: chẩn đoán phân độ, tổn thương thần kinh/mạch máu, xử trí cấp cứu, biến chứng sớm/muộn, kỹ thuật xuyên đinh, và phục hồi.",
-  "level": "Ôn thi nội trú - Ngoại khoa",
+  "description": "Case lâm sàng về gãy Gartland, bao gồm: epidemiologia, giải phẫu bệnh lý, cơ chế chấn thương, di chứng thần kinh/mạch máu, chẩn đoán hình ảnh, phân loại, và điều trị.",
+  "level": "Ôn thi nội trú",
   "type": "cases",
   "category": "Nhi",
   "subcategory": "Ngoại",
   "cases": [
     {
-      "title": "Bệnh nhân nam 6 tuổi ngã chống tay từ xà - Gãy Gartland III",
-      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 6 tuổi được bố mẹ đưa vào cấp cứu sau khi ngã chống tay (tư thế duỗi khuỷu) từ xà đơn cách mặt đất 1.5m. Bệnh nhi tỉnh táo, khóc nhiều vì đau, tay trái giữ lấy tay phải ở tư thế gấp nhẹ.<br><br><b>Khám lâm sàng:</b> Khuỷu phải sưng nề lớn, bầm tím mặt trước khuỷu, mất các mốc giải phẫu bình thường. Nhìn nghiêng khuỷu tay có hình chữ \"S\" đặc trưng. Sờ thấy đầu xương gồ ra phía trước nếp gấp khuỷu. Mạch quay bắt yếu hơn bên đối diện nhưng bàn tay vẫn hồng, ấm, CRT < 2s. Khám thần kinh: Bệnh nhi không thể thực hiện động tác gọng kìm (ngón cái và ngón trỏ chạm nhau tạo thành vòng tròn), cảm giác tê bì nhẹ vùng móc cái. SpO₂ 98%, Mạch 110 l/p.<br><br><b>Hình ảnh học:</b> X-quang khuỷu thẳng nghiêng cho thấy đường gãy ngang trên lồi cầu, đoạn xa di lệch hoàn toàn ra sau và lên trên, vỏ xương mất liên tục cả hai bên.",
+      "title": "Bệnh nhi nam 6 tuổi sưng nề khuỷu tay phải sau ngã xà đơn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 6 tuổi.<br><br><b>Bệnh sử:</b> Được bố mẹ đưa vào cấp cứu sau khi ngã chống tay (tư thế duỗi khuỷu) từ xà đơn cách mặt đất 1.5m. Bệnh nhi tỉnh táo, khóc nhiều vì đau, tay trái giữ lấy tay phải ở tư thế gấp nhẹ.<br><br><b>Khám lâm sàng:</b> Khuỷu phải sưng nề lớn, bầm tím mặt trước khuỷu, mất các mốc giải phẫu bình thường, nhìn nghiêng khuỷu tay có hình chữ \"S\". Không có vết thương hở. Sờ thấy đầu xương gồ ra phía trước nếp gấp khuỷu. Mạch quay bắt yếu hơn bên đối diện nhưng bàn tay vẫn hồng, ẩm, CRT < 2s. Khám thần kinh: Bệnh nhi không thể thực hiện động tác gọng kìm (ngón cái và ngón trỏ chạm nhau tạo thành vòng tròn), cảm giác tê bì nhẹ vùng mô cái. SpO2 98%, Mạch 110 l/p.<br><br><b>Xét nghiệm:</b> X-quang khuỷu thẳng nghiêng cho thấy đường gãy ngang trên lồi cầu, đoạn xa di lệch hoàn toàn ra sau và lên trên, vỏ xương mất liên tục cả hai bên.",
       "questions": [
         {
           "q": "Chẩn đoán phân độ Gartland phù hợp nhất trên bệnh nhân này là gì?",
@@ -19,7 +19,7 @@
             "Gartland IV"
           ],
           "answer": 2,
-          "explain": "Dựa vào mô tả \"di lệch hoàn toàn, vỏ xương mất liên tục cả hai bên\" và hình ảnh chữ S điển hình trên lâm sàng -> Phân loại Gartland III. Gartland II vỏ xương sau còn dính."
+          "explain": "Dựa vào mô tả \"di lệch hoàn toàn, vỏ xương mất liên tục cả hai bên\" và hình ảnh chữ S điển hình trên lâm sàng -> Phân loại Gartland III. Gartland II vỏ xương sau còn."
         },
         {
           "q": "Dấu hiệu thần kinh khu trú bệnh nhân đang gặp phải gợi ý tổn thương dây thần kinh nào?",
@@ -41,7 +41,7 @@
             "Treo tay tạ (Skin traction)"
           ],
           "answer": 1,
-          "explain": "Với Gartland III (gãy hoàn toàn, mất vững), tiêu chuẩn vàng là Nắn chỉnh kín và xuyên đinh qua da (CRPP - Closed Reduction and Percutaneous Pinning). Bó bột đơn thuần có tỷ lệ di lệch thứ phát cao. Mổ mở chỉ dành cho ca khó hoặc có biến chứng mạch máu."
+          "explain": "Với Gartland III (gãy hoàn toàn, mất vững), tiêu chuẩn vàng là Nắn chỉnh kín và xuyên đinh qua da (CRPP). Bó bột đơn thuần có tỷ lệ di lệch thứ phát cao. Mổ mở chỉ dành cho ca khó có biến chứng."
         },
         {
           "q": "Biến chứng sớm nguy hiểm nhất cần theo dõi sát ở bệnh nhân này trong 24h đầu là gì?",
@@ -55,7 +55,7 @@
           "explain": "Gãy trên lồi cầu sưng nề lớn có nguy cơ cao chèn ép khoang (Volkmann ischemia) nếu không được giải áp/nắn chỉnh kịp thời. Đây là thảm họa cần phát hiện sớm."
         },
         {
-          "q": "Yếu tố nào sau đây KHÔNG phải là chỉ định mổ mở (Open Reduction) ngay lập tức ở gãy trên lồi cầu?",
+          "q": "Yếu tố nào sau đây KHÔNG PHẢI là chỉ định mổ mở ngay lập tức ở gãy trên lồi cầu?",
           "options": [
             "Gãy hở",
             "Tổn thương mạch máu xác định cần khâu nối",
@@ -63,16 +63,16 @@
             "Liệt thần kinh quay đơn thuần sau chấn thương"
           ],
           "answer": 3,
-          "explain": "Liệt thần kinh quay (hay thần kinh khác) sau chấn thương thường là liệt cơ năng (neurapraxia), đa số tự hồi phục sau 3-6 tháng, không phải chỉ định mổ mở cấp cứu thám sát thần kinh trừ khi thần kinh bị kẹt trong ổ gãy."
+          "explain": "Liệt thần kinh quay (hay thần kinh khác) sau chấn thương thường là liệt cơ năng (neurapraxia), đa số tự hồi phục sau 3-6 tháng, không phải chỉ định mổ mở cấp cứu thám sát thần kinh trừ khi thần kinh bị kẹt trong ổ gãy sau khi nắn chỉnh (triệu chứng thần kinh nặng lên sau nắn)."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nữ 5 tuổi ngã đập tay vào nền cứng - Gãy Gartland I",
-      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 5 tuổi vào viện vì đau khuỷu trái sau ngã đập tay xuống nền cứng. Bệnh nhân tỉnh, SpO₂ 99%.<br><br><b>Khám lâm sàng:</b> Khuỷu trái sưng nề nhẹ, ấn đau chói điểm trên lồi cầu ngoài và trong, không biến dạng rõ rệt. Vận động thụ động khuỷu đau nhẹ. Mạch quay rõ, cảm giác bàn tay bình thường. Các dấu hiệu thần kinh âm tính.<br><br><b>Hình ảnh học:</b> X-quang khuỷu thẳng/nghiêng chưa thấy rõ đường gãy di lệch, nhưng thấy \"Dấu hiệu tấm đệm mỡ phía sau\" (Posterior fat pad sign) dương tính rõ và đường mỡ phía trước dạng cánh buồm. Đường kẻ dọc bờ trước xương cánh tay (Anterior Humeral Line) đi qua 1/3 giữa nhân lồi cầu ngoài.",
+      "title": "Bệnh nhi nữ 5 tuổi đau khuỷu tay trái sau ngã đập tay",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 5 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì đau khuỷu trái sau ngã đập tay xuống nền cứng.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, SpO2 99%. Khuỷu trái sưng nề nhẹ, ấn đau chói điểm trên lồi cầu ngoài và trong, không biến dạng rõ rệt, vận động thụ động khuỷu đau nhẹ. Mạch quay rõ, cảm giác bàn tay bình thường. Các dấu hiệu thần kinh âm tính.<br><br><b>Xét nghiệm:</b> X-quang khuỷu thẳng/nghiêng chưa thấy rõ đường gãy di lệch, nhưng thấy \"Dấu hiệu tấm đệm mỡ phía sau\" (Posterior fat pad sign) dương tính rõ và đường mỡ phía trước dạng cánh buồm. Đường kẻ dọc bờ trước xương cánh tay (Anterior Humeral Line) đi qua 1/3 giữa nhân lồi cầu ngoài.",
       "questions": [
         {
-          "q": "Chẩn đoán xác định và phân độ Gartland trên bệnh nhân này là gì?",
+          "q": "Chẩn đoán xác định và phân độ Gartland trên bệnh nhân này?",
           "options": [
             "Bong gân khuỷu",
             "Gãy trên lồi cầu Gartland I",
@@ -102,7 +102,7 @@
             "Chỉ cần đeo đai vải tam giác 1 tuần"
           ],
           "answer": 0,
-          "explain": "Gartland I điều trị bảo tồn bằng bột cánh bàn tay rạch dọc (tránh chèn ép bột), tư thế khuỷu gấp khoảng 60-90 độ."
+          "explain": "Gartland I điều trị bảo tồn bằng bột cánh bàn tay rạch dọc (tránh chèn ép bột)."
         },
         {
           "q": "Thời gian bất động bột trung bình cho kiểu gãy này là bao lâu?",
@@ -113,7 +113,7 @@
             "12 tuần"
           ],
           "answer": 1,
-          "explain": "Thời gian liền xương ở trẻ em rất nhanh, thường bột giữ 3-4 tuần là đủ. Xương trẻ em liền rất nhanh nên để lâu sẽ gây cứng khớp không cần thiết."
+          "explain": "Thời gian liền xương ở trẻ em rất nhanh, thường bột giữ 3-4 tuần là đủ. Để lâu gây cứng khớp không cần thiết."
         },
         {
           "q": "Khi bó bột, tư thế nào của cẳng tay nên TRÁNH để giảm nguy cơ hội chứng khoang và di lệch xoay?",
@@ -129,8 +129,8 @@
       ]
     },
     {
-      "title": "Bệnh nhân nam 8 tuổi - Pink pulseless hand sau gãy Gartland III",
-      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 8 tuổi vào viện giờ thứ 2 sau ngã chống tay. Tại phòng cấp cứu, trẻ đau nhiều, khuỷu phải biến dạng.<br><br><b>Khám lâm sàng:</b> Bàn tay phải hồng, ấm, thời gian làm đầy mao mạch (CRT) < 2 giây, vận động ngón tay được nhưng cảm giác tê nhẹ. Tuy nhiên, KHÔNG bắt được mạch quay và mạch trụ bên phải. Mạch quay bên trái bắt rõ. SpO₂ ngón tay phải đo được sóng mạch tốt.<br><br><b>Hình ảnh học:</b> Chẩn đoán hình ảnh xác định gãy trên lồi cầu Gartland III di lệch nhiều.",
+      "title": "Bệnh nhi nam 8 tuổi biến dạng khuỷu phải kèm mất mạch quay sau ngã chống tay",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 8 tuổi.<br><br><b>Bệnh sử:</b> Vào viện giờ thứ 2 sau ngã chống tay.<br><br><b>Khám lâm sàng:</b> Tại phòng cấp cứu, trẻ đau nhiều, khuỷu phải biến dạng. Khám thấy bàn tay phải hồng, ấm, thời gian làm đầy mao mạch (CRT) < 2 giây, vận động ngón tay được nhưng cảm giác tê nhẹ. Tuy nhiên, KHÔNG bắt được mạch quay và mạch trụ bên phải. Mạch quay bên trái bắt rõ. SpO2 ngón tay phải đo được sóng mạch tốt.<br><br><b>Xét nghiệm:</b> Chẩn đoán hình ảnh xác định gãy trên lồi cầu Gartland III di lệch nhiều.",
       "questions": [
         {
           "q": "Tình trạng mạch máu của bệnh nhân được mô tả bằng thuật ngữ chuyên môn nào sau đây?",
@@ -141,7 +141,7 @@
             "Tắc mạch mạn tính"
           ],
           "answer": 1,
-          "explain": "Bàn tay vẫn có tưới máu (hồng, ấm, CRT tốt) nhưng không bắt được mạch quay -> \"Pink, pulseless hand\" - điều này chứng tỏ tuần hoàn bàng hệ đủ nuôi chi."
+          "explain": "Bàn tay vẫn có tưới máu (hồng, ấm, CRT tốt) nhưng không bắt được mạch quay -> \"Pink, pulseless hand\"."
         },
         {
           "q": "Nguyên nhân thường gặp nhất gây mất mạch trong tình huống này là gì?",
@@ -163,7 +163,7 @@
             "Dùng thuốc giãn mạch và theo dõi 6 giờ"
           ],
           "answer": 2,
-          "explain": "Ưu tiên số 1 là nắn chỉnh xương (Reduction) để giải phóng chèn ép mạch. Đa số trường hợp mạch sẽ đập lại sau nắn, không cần mổ thám sát ngay."
+          "explain": "Ưu tiên số 1 là nắn chỉnh xương (Reduction) để giải phóng chèn ép mạch. Đa số trường hợp mạch sẽ đập lại sau nắn."
         },
         {
           "q": "Sau khi nắn chỉnh kín và xuyên đinh, nếu mạch quay vẫn KHÔNG bắt được nhưng bàn tay VẪN HỒNG VÀ ẤM, bước tiếp theo là gì?",
@@ -174,27 +174,24 @@
             "Dùng Heparin liều điều trị"
           ],
           "answer": 1,
-          "explain": "Nếu tay vẫn hồng ấm (tuần hoàn bàng hệ tốt) sau nắn dù chưa bắt được mạch quay, guideline khuyến cáo theo dõi sát, không cần mổ thám sát ngay vì nguy cơ co thắt mạch sau mổ và sẹo dính cao hơn lợi ích."
+          "explain": "Nếu tay vẫn hồng ấm (tuần hoàn bàng hệ tốt) sau nắn dù chưa bắt được mạch quay, guideline (Schwartz/Bailey) khuyến cáo theo dõi sát, không cần mổ thám sát ngay vì nguy cơ co thắt mạch sau mổ và sẹo dính cao hơn lợi ích."
         },
         {
-          "q": "Chọn tập hợp các dấu hiệu bắt buộc phải mổ thám sát mạch máu: (1) Bàn tay trắng bệch, lạnh (2) Mất mạch quay sau nắn chỉnh (3) CRT > 3s (4) Doppler không có tín hiệu mạch (5) Bàn tay hồng ấm",
-          "type": "multi",
+          "q": "Chọn tập hợp các dấu hiệu bắt buộc phải mổ thám sát mạch máu: (1) Bàn tay trắng bệch, lạnh (2) Mất mạch quay sau nắn chỉnh (3) CRT > 3s (4) Doppler không có tín hiệu mạch (5) Bàn tay hồng ấm.",
           "options": [
             "(1), (2), (5)",
             "(1), (3), (4)",
             "(2), (4), (5)",
             "(1), (2), (4)"
           ],
-          "answer": [
-            1
-          ],
-          "explain": "Chỉ định mổ thám sát mạch: Bàn tay thiếu máu rõ (trắng, lạnh, CRT chậm) sau khi đã nắn chỉnh xương (Pale, pulseless hand). (1), (3), (4) là dấu hiệu của pale pulseless hand cần phải mổ. (5) bàn tay hồng ấm là dấu hiệu tốt, không cần mổ ngay."
+          "answer": 1,
+          "explain": "Chỉ định mổ thám sát mạch: Bàn tay thiếu máu rõ (trắng, lạnh, CRT chậm) sau khi đã nắn chỉnh xương (Pale, pulseless hand)."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nam 7 tuổi - Hội chứng khoang cấp tính sau gãy Gartland III",
-      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 7 tuổi gãy trên lồi cầu xương cánh tay trái Gartland III giờ thứ 6. Bệnh nhân đã được bó bột tạm thời chờ mổ.<br><br><b>Khám lâm sàng hiện tại:</b> Đột ngột trẻ khóc thét dữ dội, thuốc giảm đau thông thường không đỡ. Trẻ kích thích, đau tăng lên dữ dội khi bác sĩ kéo duỗi thụ động các ngón tay trái. Đầu chi sưng nề căng cứng, cảm giác tê bì các đầu ngón tay tăng lên. Mạch quay vẫn bắt được nhẹ.",
+      "title": "Bệnh nhi nam 7 tuổi đau dữ dội cẳng tay trái sau bó bột tạm thời",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 7 tuổi.<br><br><b>Bệnh sử:</b> Gãy trên lồi cầu xương cánh tay trái Gartland III giờ thứ 6. Bệnh nhân đã được bó bột tạm thời chờ mổ. Đột ngột trẻ khóc thét dữ dội, thuốc giảm đau thông thường không đỡ.<br><br><b>Khám lâm sàng:</b> Trẻ kích thích, đau tăng lên dữ dội khi bác sĩ kéo duỗi thụ động các ngón tay trái. Đầu chi sưng nề căng cứng, cảm giác tê bì các đầu ngón tay tăng lên. Mạch quay vẫn bắt được nhẹ.",
       "questions": [
         {
           "q": "Chẩn đoán khả dĩ nhất tại thời điểm này?",
@@ -205,7 +202,7 @@
             "Loạn dưỡng phản xạ (CRPS)"
           ],
           "answer": 1,
-          "explain": "Đau quá mức (out of proportion), đau khi thụ động kéo duỗi (dấu hiệu sớm), sưng căng -> Hội chứng khoang cấp tính. Đây là tình trạng cấp cứu có thể gây hoại tử cơ nếu không xử lý kịp thời."
+          "explain": "Đau quá mức (out of proportion), đau khi thụ động kéo duỗi (dấu hiệu sớm), sưng căng -> Hội chứng khoang."
         },
         {
           "q": "Dấu hiệu lâm sàng sớm nhất và tin cậy nhất của hội chứng này là?",
@@ -216,7 +213,7 @@
             "Nhợt nhạt (Pallor)"
           ],
           "answer": 2,
-          "explain": "Theo nguyên tắc 5P (Pain, Pallor, Paresthesia, Paralysis, Pulselessness), ĐAU (Pain) đặc biệt là đau khi kéo thụ động là dấu hiệu sớm nhất. Mất mạch là dấu hiệu rất muộn (thường khi đó cơ đã hoại tử)."
+          "explain": "Theo nguyên tắc 5P (Pain, Pallor, Paresthesia, Paralysis, Pulselessness), ĐAU (Pain) đặc biệt là đau khi kéo thụ động là dấu hiệu sớm nhất. Mất mạch là dấu hiệu rất muột (thường khi đó cơ đã hoại tử)."
         },
         {
           "q": "Hành động can thiệp ĐẦU TIÊN cần làm ngay lập tức?",
@@ -227,7 +224,7 @@
             "Đo áp lực khoang"
           ],
           "answer": 2,
-          "explain": "Phải loại bỏ ngay tác nhân gây chèn ép bên ngoài. Xẻ dọc bột và CẮT BỎ CẢ LỚP BÔNG LÓT (quan trọng) là ưu tiên hàng đầu."
+          "explain": "Phải loại bỏ ngay tác nhân gây chèn ép bên ngoài. Xẻ dọc bột và CẮT BỎ CẢ LỚP BÔNG LÓT (quan trọng)."
         },
         {
           "q": "Nếu sau khi thực hiện hành động trên 30 phút mà triệu chứng không giảm, áp lực khoang đo được > 30 mmHg (hoặc Delta P < 30 mmHg), chỉ định tiếp theo là?",
@@ -238,7 +235,7 @@
             "Dùng Mannitol chống phù nề"
           ],
           "answer": 1,
-          "explain": "Nếu giải phóng chèn ép ngoài không đỡ và áp lực khoang cao -> Rạch cân (Fasciotomy) cấp cứu để cứu chi từ hoại tử cơ."
+          "explain": "Nếu giải phóng chèn ép ngoài không đỡ và áp lực khoang cao -> Rạch cân (Fasciotomy) cấp cứu để cứu chi."
         },
         {
           "q": "Di chứng muộn điển hình nếu tình trạng này không được xử trí kịp thời là gì?",
@@ -249,13 +246,13 @@
             "Cứng khớp dạng duỗi"
           ],
           "answer": 1,
-          "explain": "Hoại tử cơ do thiếu máu -> xơ hóa -> co rút các cơ gấp cẳng tay -> Co rút Volkmann (cổ tay gấp, khớp bàn ngón duỗi, khớp liên đốt gấp) - di chứng vĩnh viễn, tàn phế tay."
+          "explain": "Hoại tử cơ do thiếu máu -> xơ hóa -> co rút các cơ gấp cẳng tay -> Co rút Volkmann (cổ tay gấp, khớp bàn ngón duỗi, khớp liên đốt gấp)."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nữ 4 tuổi - Gunstock deformity sau gãy cũ",
-      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 4 tuổi đến khám vì tay phải bị cong vẹo bất thường sau gãy xương vùng khuỷu cách đây 2 năm (điều trị bó bột tại thầy lang).<br><br><b>Khám lâm sàng hiện tại:</b> Hiện tại trẻ không đau, vận động gấp duỗi khuỷu bình thường (0-140 độ). Khám thấy khi duỗi hết cỡ, khuỷu tay vẹo vào trong (Cubitus varus), góc mang (carrying angle) đo được là -15 độ (bình thường là +5 đến +15 độ).",
+      "title": "Bệnh nhi nữ 4 tuổi biến dạng vẹo khuỷu tay phải cũ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 4 tuổi.<br><br><b>Bệnh sử:</b> Đến khám vì tay phải bị cong vẹo bất thường sau gãy xương vùng khuỷu cách đây 2 năm (điều trị bó bột tại thầy lang). Hiện tại trẻ không đau, vận động gấp duỗi khuỷu bình thường (0-140 độ).<br><br><b>Khám lâm sàng:</b> Khi duỗi hết cỡ, khuỷu tay vẹo vào trong (Cubitus varus), góc mang (carrying angle) đo được là -15 độ (bình thường là +5 đến +15 độ).",
       "questions": [
         {
           "q": "Biến chứng biến dạng khuỷu này thường được gọi là gì?",
@@ -266,13 +263,13 @@
             "Bàn tay rủ (Wrist drop)"
           ],
           "answer": 0,
-          "explain": "Cubitus varus (vẹo trong) khi duỗi tay giống hình báng súng -> Gunstock deformity là tên gọi điển hình của biến dạng này."
+          "explain": "Cubitus varus (vẹo trong) khi duỗi tay giống hình báng súng -> Gunstock deformity."
         },
         {
           "q": "Nguyên nhân chính gây ra biến dạng này ở bệnh nhân gãy trên lồi cầu cũ là?",
           "options": [
             "Tổn thương sụn tiếp hợp gây ngừng phát triển xương",
-            "Can lệch (Malunion) do nắn chỉnh không tốt di lệch xoay và gập góc",
+            "Can lệch (Malunion) do nắn chỉnh không tốt di lệch xoay và nghiêng trong",
             "Hoại tử vô khuẩn chỏm con",
             "Co rút phần mềm"
           ],
@@ -283,12 +280,12 @@
           "q": "Góc Baumann trên phim X-quang thẳng được dùng để đánh giá biến dạng này. Giá trị bình thường của góc Baumann là bao nhiêu?",
           "options": [
             "9 - 26 độ (trung bình 15-20 độ)",
-            "45 - 60 độ",
+            "45-60 độ",
             "> 90 độ",
             "0 độ"
           ],
           "answer": 0,
-          "explain": "Góc Baumann (góc giữa đường song song trục xương cánh tay và đường đi qua sụn tiếp hợp lồi cầu ngoài) bình thường khoảng 70-75 độ hoặc góc bổ sung α khoảng 15-20 độ theo YHN/Bailey standard."
+          "explain": "Góc Baumann trên phim X-quang thẳng được dùng để đánh giá biến dạng này. Giá trị bình thường của góc Baumann khoảng 70-75 độ hoặc góc bổ sung khoảng 15-20 độ (theo YHN/Bailey). Theo dõi góc này trong mổ giúp tránh varus."
         },
         {
           "q": "Biến dạng Cubitus varus ảnh hưởng chủ yếu đến vấn đề gì?",
@@ -299,7 +296,7 @@
             "Tăng nguy cơ gãy lại"
           ],
           "answer": 1,
-          "explain": "Cubitus varus chủ yếu gây mất thẩm mỹ. Chức năng khuỷu thường được bảo tồn tốt (vẫn gấp duỗi được). Tuy nhiên lâu dài có thể gây liệt thần kinh trụ muộn."
+          "explain": "Cubitus varus chủ yếu gây mất thẩm mỹ. Chức năng khuỷu thường được bảo tồn tốt (vẫn gấp duỗi được). Tuy nhiên, lâu dài có thể gây liệt thần kinh trụ muộn."
         },
         {
           "q": "Nếu cần phẫu thuật sửa chữa, phương pháp nào thường được áp dụng?",
@@ -310,13 +307,13 @@
             "Cố định nẹp vít đơn thuần"
           ],
           "answer": 1,
-          "explain": "Đục xương sửa trục (Supracondylar osteotomy) là phương pháp chính để chỉnh lại góc mang và phục hồi thẩm mỹ cho bệnh nhân Cubitus varus."
+          "explain": "Đục xương sửa trục (Supracondylar osteotomy) là phương pháp chính để chỉnh lại góc mang."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nam 9 tuổi - Tổn thương thần kinh trụ do xuyên đinh medial",
-      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 9 tuổi gãy trên lồi cầu xương cánh tay phải Gartland III. Kíp phẫu thuật quyết định nắn chỉnh kín và xuyên đinh Kirschner (CRPP).<br><br><b>Quá trình mổ:</b> Sau khi nắn chỉnh, bác sĩ tiến hành xuyên 2 đinh chéo nhau (1 đinh từ lồi cầu ngoài, 1 đinh từ lồi cầu trong).<br><br><b>Sau mổ:</b> Ngay sau mổ, bệnh nhân tê bì ngón 5 và giảm sức cơ khép ngón cái.",
+      "title": "Bệnh nhi nam 9 tuổi tê bì ngón út sau phẫu thuật kết hợp xương khuỷu tay",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 9 tuổi.<br><br><b>Bệnh sử:</b> Gãy trên lồi cầu xương cánh tay phải Gartland III. Kíp phẫu thuật quyết định nắn chỉnh kín và xuyên đinh Kirschner (CRPP).<br><br><b>Tình trạng phẫu thuật:</b> Sau khi nắn chỉnh, bác sĩ tiến hành xuyên 2 đinh chéo nhau (1 đinh từ lồi cầu ngoài, 1 đinh từ lồi cầu trong). Ngay sau mổ, bệnh nhân tê bì ngón 5 và giảm sức cơ khép ngón cái.",
       "questions": [
         {
           "q": "Tổn thương thần kinh nào đã xảy ra do thầy thuốc?",
@@ -327,7 +324,7 @@
             "Thần kinh cơ bì"
           ],
           "answer": 2,
-          "explain": "Tê ngón 5 (ngón út) và yếu cơ khép ngón cái (dấu hiệu Froment) -> Thần kinh trụ (Ulnar nerve) đã bị tổn thương do xuyên đinh medial."
+          "explain": "Tê ngón 5 (ngón út) và yếu cơ khép ngón cái (dấu hiệu Froment) -> Thần kinh trụ."
         },
         {
           "q": "Vị trí giải phẫu của thần kinh này ở vùng khuỷu nằm ở đâu, dẫn đến nguy cơ bị đinh xuyên vào?",
@@ -338,7 +335,7 @@
             "Chạy vắt ngang qua hố khuỷu"
           ],
           "answer": 1,
-          "explain": "Thần kinh trụ đi ngay sau lồi cầu trong (rãnh thần kinh trụ - Cubital tunnel). Khi xuyên đinh từ lồi cầu trong, rất dễ xuyên vào dây này."
+          "explain": "Thần kinh trụ đi ngay sau lồi cầu trong (rãnh thần kinh trụ). Khi xuyên đinh từ lồi cầu trong, rất dễ xuyên vào dây này."
         },
         {
           "q": "Để tránh biến chứng này, cấu hình xuyên đinh nào được nhiều tác giả (và guideline AAOS) khuyến cáo là an toàn hơn mà vẫn đủ vững chắc?",
@@ -349,7 +346,7 @@
             "Xuyên đinh vuông góc với trục xương"
           ],
           "answer": 1,
-          "explain": "Cấu hình \"Lateral divergent pins\" (các đinh chỉ đi từ lồi cầu ngoài) loại bỏ hoàn toàn nguy cơ tổn thương thần kinh trụ và được chứng minh cơ sinh học đủ vững cho hầu hết các gãy Gartland III."
+          "explain": "Cấu hình \"Lateral divergent pins\" (các đinh chỉ đi từ lồi cầu ngoài) loại bỏ hoàn toàn nguy cơ tổn thương TK trụ và được chứng minh cơ sinh học đủ vững cho hầu hết các gãy Gartland III."
         },
         {
           "q": "Nếu bắt buộc phải xuyên đinh từ bên trong (medial pin) để tăng độ vững, kỹ thuật nào cần thực hiện?",
@@ -360,7 +357,7 @@
             "Dùng đinh đường kính rất lớn"
           ],
           "answer": 1,
-          "explain": "Nếu cần xuyên đinh trong: duỗi khuỷu nhẹ (để thần kinh trụ trượt ra sau) và rạch da bảo vệ thần kinh (mini-open approach). Gấp khuỷu làm thần kinh trụ trượt ra trước lồi cầu trong -> dễ bị xuyên trúng."
+          "explain": "Nếu cần xuyên đinh trong: duỗi khuỷu nhẹ (để TK trụ trượt ra sau) và rạch da bảo vệ thần kinh. Gập khuỷu làm TK trụ trượt ra trước lồi cầu trong -> dễ bị xuyên trúng."
         },
         {
           "q": "Đặc điểm nào SAI khi nói về tổn thương thần kinh trụ do xuyên đinh?",
@@ -376,8 +373,8 @@
       ]
     },
     {
-      "title": "Bệnh nhân nam 10 tuổi - Gãy trên lồi cầu kiểu gấp (hiếm gặp)",
-      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 10 tuổi ngã xe đạp, đập trực tiếp mặt sau khuỷu xuống đường khi khuỷu đang gấp.<br><br><b>Khám lâm sàng:</b> Vào viện đau chói, sưng nề khuỷu tay.<br><br><b>Hình ảnh học:</b> X-quang thấy đường gãy trên lồi cầu, nhưng đoạn xa di lệch RA TRƯỚC so với đoạn gần. Đây là một thể gãy hiếm gặp, khác biệt hoàn toàn với kiểu duỗi phổ biến.",
+      "title": "Bệnh nhi nam 10 tuổi sưng nề biến dạng khuỷu tay sau ngã xe đạp",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 10 tuổi.<br><br><b>Bệnh sử:</b> Ngã xe đạp, đập trực tiếp mặt sau khuỷu xuống đường khi khuỷu đang gấp. Vào viện đau chói, sưng nề.<br><br><b>Xét nghiệm:</b> X-quang thấy đường gãy trên lồi cầu, nhưng đoạn xa di lệch RA TRƯỚC so với đoạn gần. Đây là một thể gãy hiếm gặp.",
       "questions": [
         {
           "q": "Tên gọi chính xác của kiểu gãy này?",
@@ -388,21 +385,21 @@
             "Gãy mỏm khuỷu"
           ],
           "answer": 1,
-          "explain": "Đoạn xa di lệch ra trước -> Kiểu Gấp (Flexion type). Đây là kiểu gãy rất hiếm gặp."
+          "explain": "Đoạn xa di lệch ra trước -> Kiểu Gấp (Flexion type)."
         },
         {
           "q": "Tỷ lệ gặp của kiểu gãy này trong tổng số gãy trên lồi cầu là khoảng bao nhiêu?",
           "options": [
-            "95 - 98%",
+            "95-98%",
             "50%",
-            "2 - 5%",
+            "2-5%",
             "20%"
           ],
           "answer": 2,
-          "explain": "Kiểu duỗi chiếm đại đa số (95-98%), kiểu gấp rất hiếm (2-5%) trong tất cả các gãy trên lồi cầu ở trẻ em."
+          "explain": "Kiểu duỗi chiếm đại đa số (95-98%), kiểu gấp rất hiếm (2-5%)."
         },
         {
-          "q": "Tổn thương thần kinh nào thường gặp nhất liên quan đến KIỂU GÃY NÀY (khác với kiểu duỗi)?",
+          "q": "Tổn thương thần kinh nào thường gặp nhất liên quan đến KIỀU GÃY NÀY (khác với kiểu duỗi)?",
           "options": [
             "Thần kinh trụ",
             "Thần kinh gian cốt trước",
@@ -410,7 +407,7 @@
             "Thần kinh nách"
           ],
           "answer": 0,
-          "explain": "Ở kiểu duỗi, thần kinh gian cốt trước (AIN) hay gặp nhất. Nhưng ở kiểu gấp, đoạn gần di lệch ra sau đè vào rãnh thần kinh trụ -> Thần kinh trụ bị tổn thương phổ biến nhất."
+          "explain": "Ở kiểu duỗi, AIN (thần kinh gian cốt trước) hay gặp nhất. Nhưng ở kiểu gấp, đoạn gần di lệch ra sau đè vào rãnh thần kinh trụ -> Thần kinh trụ bị tổn thương phổ biến nhất."
         },
         {
           "q": "Phương pháp nắn chỉnh kín cho kiểu gãy này có đặc điểm gì khác biệt so với kiểu duỗi?",
@@ -432,13 +429,13 @@
             "Thần kinh gian cốt trước là thần kinh dễ bị tổn thương nhất"
           ],
           "answer": 3,
-          "explain": "D sai. Như đã giải thích, kiểu gấp liên quan nhiều đến thần kinh trụ hơn là thần kinh gian cốt trước (AIN)."
+          "explain": "Kiểu gấp liên quan nhiều đến thần kinh trụ hơn là AIN."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nam 6 tuổi - Puckering sign và khó nắn chỉnh kín",
-      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 6 tuổi vào viện sau tai nạn giao thông. Khám thấy khuỷu tay phải sưng nề rất lớn, bầm tím lan rộng.<br><br><b>Khám lâm sàng đặc biệt:</b> Quan sát thấy ở mặt trước nếp gấp khuỷu có một vết lõm sâu da bị co kéo (Puckering sign / Dimple sign). Đầu xương gãy sờ thấy ngay dưới da vùng đó. Mạch quay bắt được.",
+      "title": "Bệnh nhi nam 6 tuổi khuỷu tay phải sưng nề lớn kèm co kéo da mặt trước sau tai nạn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 6 tuổi.<br><br><b>Bệnh sử:</b> Vào viện sau tai nạn giao thông.<br><br><b>Khám lâm sàng:</b> Khuỷu tay phải sưng nề rất lớn, bầm tím lan rộng. Đặc biệt quan sát thấy ở mặt trước nếp gấp khuỷu có một vết lõm sâu da bị co kéo (Puckering sign / Dimple sign). Đầu xương gãy sờ thấy ngay dưới da vùng đó. Mạch quay bắt được.",
       "questions": [
         {
           "q": "Dấu hiệu \"vết lõm da\" (Puckering sign) cảnh báo điều gì về mặt giải phẫu bệnh?",
@@ -471,7 +468,7 @@
             "Bó bột chờ xương tự chỉnh"
           ],
           "answer": 1,
-          "explain": "Nguyên tắc: Nắn chỉnh kín thất bại -> Chuyển ngay sang mổ mở (Open reduction) để giải phóng phần mềm bị kẹt."
+          "explain": "Nguyên tắc: Nắn chỉnh kín thất bại -> Chuyển mổ mở."
         },
         {
           "q": "Đường mổ mở nào thường được ưu tiên nếu cần thám sát mạch máu thần kinh phía trước?",
@@ -493,13 +490,13 @@
             "Cơ sấp tròn"
           ],
           "answer": 0,
-          "explain": "Cơ tam đầu bám vào mỏm khuỷu, khi co sẽ kéo đoạn xa (mỏm khuỷu và lồi cầu) lên trên và ra sau. Đây là nguyên nhân chính gây di lệch trong gãy kiểu duỗi."
+          "explain": "Cơ tam đầu bám vào mỏm khuỷu, khi co sẽ kéo đoạn xa (mỏm khuỷu và lồi cầu) lên trên và ra sau."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nam 5 tuổi - Gartland II và cân nhắc điều trị CRPP",
-      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 5 tuổi được chẩn đoán gãy trên lồi cầu Gartland II sau chấn thương. Phim X-quang nghiêng thấy vỏ xương sau còn nguyên vẹn nhưng có gập góc mở ra sau > 20 độ.<br><br><b>Hình ảnh học:</b> Đường Anterior Humeral Line đi qua 1/3 trước của nhân lồi cầu ngoài (bình thường là 1/3 giữa). Lâm sàng sưng nề vừa. Không rối loạn thần kinh mạch máu.",
+      "title": "Bệnh nhi nam 5 tuổi sưng nề khuỷu tay sau chấn thương vùng khuỷu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 5 tuổi.<br><br><b>Khám lâm sàng:</b> Sưng nề vừa. Không rối loạn thần kinh mạch máu.<br><br><b>Xét nghiệm:</b> Phim X-quang nghiêng thấy vỏ xương sau còn nguyên vẹn nhưng có gập góc mở ra sau > 20 độ. Đường Anterior Humeral Line đi qua 1/3 trước của nhân lồi cầu ngoài (bình thường là 1/3 giữa).",
       "questions": [
         {
           "q": "Với gãy Gartland II, chỉ định điều trị nào đang trở thành xu hướng được ưu tiên hiện nay để tránh di lệch thứ phát (so với bó bột)?",
@@ -510,7 +507,7 @@
             "Bó bột cánh bàn tay ngay lập tức không cần nắn"
           ],
           "answer": 1,
-          "explain": "Gartland II dù vỏ sau còn dính nhưng vẫn có thể di lệch xoay hoặc gập góc thêm trong bột. Xu hướng hiện đại ưu tiên CRPP cho Gartland II để đảm bảo kết quả giải phẫu tốt nhất."
+          "explain": "Gartland II dù vỏ sau còn dính nhưng vẫn có thể di lệch xoay hoặc gập góc thêm trong bột (đặc biệt khi hết sưng nề). Xu hướng hiện đại ưu tiên CRPP cho Gartland II để đảm bảo kết quả giải phẫu tốt nhất."
         },
         {
           "q": "Nếu chọn bó bột cho Gartland II, tiêu chí nào bắt buộc phải đạt được trên phim X-quang kiểm tra?",
@@ -521,7 +518,7 @@
             "Chấp nhận di lệch xoay"
           ],
           "answer": 0,
-          "explain": "Mục tiêu nắn chỉnh là đưa đường AHL đi qua 1/3 giữa nhân lồi cầu (phục hồi độ ngả trước của lồi cầu bình thường)."
+          "explain": "Mục tiêu nắn chỉnh là đưa đường AHL đi qua 1/3 giữa nhân lồi cầu (phục hồi độ ngả trước của lồi cầu)."
         },
         {
           "q": "Lịch rút đinh (K-wire) thông thường sau mổ gãy trên lồi cầu là khi nào?",
@@ -532,7 +529,7 @@
             "6 tháng"
           ],
           "answer": 1,
-          "explain": "3-4 tuần là thời gian đủ để có can lâm sàng ở trẻ em. Rút đinh tại phòng khám sau 3-4 tuần, không cần gây mê lại, xương trẻ em liền rất nhanh."
+          "explain": "3-4 tuần là thời gian đủ để có can lâm sàng ở trẻ em. Rút đinh tại phòng khám, không cần gây mê lại."
         },
         {
           "q": "Một trong những ưu điểm của xuyên đinh so với bó bột đơn thuần ở gãy Gartland II là?",
@@ -543,27 +540,24 @@
             "Rẻ tiền hơn"
           ],
           "answer": 1,
-          "explain": "Đinh giúp khóa di lệch xoay (thứ mà bột khó kiểm soát), từ đó đạt kết quả giải phẫu tốt hơn và cho phép bắt đầu vận động sớm hơn."
+          "explain": "Đinh giúp khóa di lệch xoay (thứ mà bột khó kiểm soát)."
         },
         {
-          "q": "Chọn tập hợp các biến chứng CÓ THỂ gặp của phương pháp xuyên đinh qua da: (1) Nhiễm trùng chân đinh (2) Tổn thương thần kinh trụ (3) Di lệch đinh (4) Gãy đinh (5) Hội chứng khoang (hiếm)",
-          "type": "multi",
+          "q": "Chọn tập hợp các biến chứng CÓ THỂ gặp của phương pháp xuyên đinh qua da: (1) Nhiễm trùng chân đinh (2) Tổn thương thần kinh trụ (3) Di lệch đinh (4) Gãy đinh (5) Hội chứng khoang (hiếm).",
           "options": [
             "(1), (2), (3), (4), (5)",
             "Chỉ (1) và (2)",
             "(1), (3), (5)",
             "(2), (3), (4)"
           ],
-          "answer": [
-            0
-          ],
-          "explain": "Tất cả đều là biến chứng tiềm ẩn của CRPP. Trong đó nhiễm trùng nông chân đinh là hay gặp nhất nhưng nhẹ. Tổn thương thần kinh trụ là biến chứng nguy hiểm nhất nhưng có thể tránh được bằng kỹ thuật divergent lateral pinning."
+          "answer": 0,
+          "explain": "Tất cả đều là biến chứng tiềm ẩn của CRPP, trong đó nhiễm trùng nông chân đinh là hay gặp nhất nhưng nhẹ."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nữ 7 tuổi - Theo dõi sau mổ và phòng ngừa biến chứng",
-      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 7 tuổi ngã tay duỗi, đau nhiều. X-quang: Gãy trên lồi cầu di lệch sang bên (Gartland III).<br><br><b>Quá trình điều trị:</b> Sau nắn chỉnh và xuyên đinh, phim X-quang kiểm tra thấy phục hồi giải phẫu tốt. Bác sĩ dặn dò gia đình về các dấu hiệu cần đưa trẻ quay lại viện ngay.",
+      "title": "Bệnh nhi nữ 7 tuổi sau kết hợp xương gãy trên lồi cầu di lệch bên",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 7 tuổi.<br><br><b>Bệnh sử:</b> Ngã tay duỗi, đau nhiều.<br><br><b>Xét nghiệm:</b> X-quang gãy trên lồi cầu di lệch sang bên (Gartland III).<br><br><b>Tình trạng phẫu thuật:</b> Đã được nắn chỉnh và xuyên đinh, phim X-quang kiểm tra thấy phục hồi giải phẫu tốt.",
       "questions": [
         {
           "q": "Dấu hiệu nào sau đây KHÔNG cần quá lo lắng trong vài ngày đầu sau mổ?",
@@ -574,13 +568,13 @@
             "Chảy mủ chân đinh"
           ],
           "answer": 1,
-          "explain": "Sưng nề nhẹ đầu chi sau chấn thương là bình thường do ứ trệ tĩnh mạch nhẹ. Các dấu hiệu A, C, D là báo động đỏ (nhiễm trùng, chèn ép khoang)."
+          "explain": "Sưng nề nhẹ đầu chỉ sau chấn thương là bình thường do ứ trệ tĩnh mạch nhẹ. Các dấu hiệu A, C, D là báo động đỏ (nhiễm trùng, chèn ép khoang)."
         },
         {
           "q": "Một biến chứng hiếm gặp là \"Viêm cơ cốt hóa\" (Myositis Ossificans) thường liên quan đến yếu tố nào?",
           "options": [
             "Bất động quá lâu",
-            "Tập phục hồi chức năng thô bạo (xoa bóp dầu nóng, kéo dãn cưỡng bức)",
+            "Tập phục hồi chức năng thô bạo (xoa bóp dầu nóng, kéo nắn cưỡng bức)",
             "Dùng kháng sinh liều cao",
             "Ăn quá nhiều canxi"
           ],
@@ -596,7 +590,7 @@
             "Sau 6 tháng"
           ],
           "answer": 1,
-          "explain": "Để đinh và bột trong 3-4 tuần đầu để liền xương. Sau tháo bột mới tập vận động chủ động, tránh thụ động thô bạo."
+          "explain": "Để đinh và bột trong 3-4 tuần đầu để liền xương. Sau tháo bột mới tập vận động chủ động."
         },
         {
           "q": "Tiên lượng phục hồi tầm vận động của trẻ em sau gãy trên lồi cầu thường như thế nào?",
@@ -613,12 +607,622 @@
           "q": "Tỷ lệ gãy xương lại (Refracture) sau khi tháo bột là khoảng?",
           "options": [
             "Rất cao (>50%)",
-            "Thấp (< 5%)",
+            "Thấp (<5%)",
             "20%",
             "0%"
           ],
           "answer": 1,
-          "explain": "Tỷ lệ gãy lại thấp (< 5%), thường do ngã tiếp chấn thương mới chứ không phải do kết quả điều trị."
+          "explain": "Tỷ lệ gãy lại thấp, thường do ngã tiếp chấn thương mới."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nữ 5 tuổi sưng đau biến dạng khuỷu tay trái sau ngã",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 5 tuổi, nặng 18 kg.<br><br><b>Bệnh sử:</b> Nhập viện sau khi ngã đập tay trái xuống nền đất cứng ở tư thế duỗi.<br><br><b>Khám lâm sàng:</b> Khuỷu trái sưng nề nghiêm trọng, biến dạng chữ S. Bàn tay trái hồng hào, ấm, thời gian đổ đầy mao mạch (CRT) 1.5 giây, nhưng hoàn toàn không bắt được mạch quay và mạch trụ. Bệnh nhân có thể cử động nhẹ các ngón tay, không tê bì. Căng cơ thụ động các ngón tay không gây đau chói.<br><br><b>Xét nghiệm:</b> X-quang xác định gãy trên lồi cầu xương cánh tay Gartland III, đoạn gãy xa di lệch hoàn toàn ra sau.",
+      "questions": [
+        {
+          "q": "Tình trạng tưới máu chi hiện tại của bệnh nhân được phân loại là gì?",
+          "options": [
+            "Thiếu máu chi đe dọa",
+            "Bàn tay trắng vô mạch",
+            "Hội chứng chèn ép khoang",
+            "Bàn tay hồng vô mạch"
+          ],
+          "answer": 3,
+          "explain": "Mất mạch ngoại vi nhưng CRT bình thường (< 2 giây) và tay hồng ấm là tình trạng \"bàn tay hồng vô mạch\" (pink pulseless hand). Bệnh nhân không đau khi căng cơ nên loại trừ chèn ép khoang."
+        },
+        {
+          "q": "Cơ chế sinh lý nào giúp bàn tay vẫn duy trì tưới máu ngọn chi dù mất sóng mạch đập?",
+          "options": [
+            "Tuần hoàn bàng hệ quanh khuỷu",
+            "Rò động tĩnh mạch thứ phát",
+            "Co thắt mao mạch bù trừ",
+            "Máu chảy ngược từ tĩnh mạch"
+          ],
+          "answer": 0,
+          "explain": "Ở trẻ em, mạng lưới tuần hoàn bàng hệ quanh khớp khuỷu rất phong phú. Dù động mạch cánh tay chính bị gập góc hoặc co thắt làm mất nhịp mạch, máu mao mạch vẫn đủ để duy trì màu sắc và nhiệt độ ngọn chi."
+        },
+        {
+          "q": "Bước can thiệp xử trí ưu tiên đầu tiên đối với bệnh nhân này là gì?",
+          "options": [
+            "Siêu âm Doppler mạch máu",
+            "Chụp cắt lớp vi tính mạch",
+            "Nắn chỉnh kín ổ gãy xương",
+            "Mổ thám sát động mạch ngay"
+          ],
+          "answer": 2,
+          "explain": "Đứng trước bàn tay mất mạch do gãy trên lồi cầu di lệch nặng, bước đầu tiên luôn là nắn chỉnh trục xương ngay để loại bỏ lực kéo căng cơ học lên động mạch. Không chỉ định hình ảnh học mạch máu vì làm trễ thời gian vàng."
+        },
+        {
+          "q": "Nếu sau khi xuyên đinh cố định vững chắc, bàn tay vẫn hồng ấm nhưng mạch quay vẫn chưa đập, bước tiếp theo là gì?",
+          "options": [
+            "Mở thám sát mạch máu",
+            "Tháo đinh nắn lại xương",
+            "Cố định chi và theo dõi",
+            "Tiêm thuốc tiêu sợi huyết"
+          ],
+          "answer": 2,
+          "explain": "Theo guideline hiện hành, đối với bàn tay hồng vô mạch, nếu xương đã được cố định vững chắc và tay vẫn duy trì hồng ấm, không có chỉ định mổ mở thám sát mạch. Mạch thường tự đập lại sau vài ngày khi hết co thắt."
+        },
+        {
+          "q": "Diễn tiến lâm sàng nào sau đây là chỉ định bắt buộc phải chuyển mổ mở thám sát mạch máu ngay lập tức?",
+          "options": [
+            "Bàn tay chuyển sang trắng bệch",
+            "Không bắt được mạch sau 2 giờ",
+            "Bệnh nhân kêu đau vết xuyên đinh",
+            "Phù nề ngọn chi không giảm"
+          ],
+          "answer": 0,
+          "explain": "Chỉ định mổ mở thám sát mạch máu đặt ra khi tưới máu vi tuần hoàn sụp đổ: bàn tay từ hồng ấm chuyển sang trắng nhợt, lạnh, CRT kéo dài (bàn tay trắng vô mạch)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 9 tuổi biến dạng khuỷu tay hình báng súng sau gãy xương cũ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 9 tuổi.<br><br><b>Tiền sử:</b> Gãy trên lồi cầu xương cánh tay phải cách đây 3 năm, được điều trị bằng nắn chỉnh và bó bột bảo tồn.<br><br><b>Khám lâm sàng:</b> Hiện tại, bệnh nhân không đau, tầm vận động gấp duỗi và sấp ngửa khớp khuỷu hoàn toàn bình thường. Tuy nhiên, khi bệnh nhân duỗi thẳng tay, cẳng tay phải lệch góc gập vào trong so với trục cánh tay tạo thành hình ảnh báng súng. Mạch quay và chức năng thần kinh bàn tay bình thường.",
+      "questions": [
+        {
+          "q": "Thuật ngữ y khoa mô tả dị tật hình thái của bệnh nhân này là gì?",
+          "options": [
+            "Khuỷu vẹo ra ngoài",
+            "Khuỷu vẹo vào trong",
+            "Quá duỗi khớp khuỷu",
+            "Trật khớp quay trụ cũ"
+          ],
+          "answer": 1,
+          "explain": "Biến dạng cẳng tay lệch vào trong so với cánh tay khi duỗi thẳng (gunstock deformity) gọi là khuỷu vẹo vào trong (cubitus varus)."
+        },
+        {
+          "q": "Nguyên nhân cơ sinh học chủ yếu dẫn đến di chứng này ở gãy trên lồi cầu trẻ em là gì?",
+          "options": [
+            "Tổn thương sụn lồi cầu ngoài",
+            "Can lệch sụp cột trụ trong",
+            "Hoại tử vô mạch chỏm con",
+            "Rách dây chằng bên trụ"
+          ],
+          "answer": 1,
+          "explain": "Biến dạng khuỷu vẹo vào trong chủ yếu do quá trình liền xương ở tư thế sai lệch (malunion), đặc biệt là đoạn xa sụp cột trụ trong và xoay trong do không được nắn chỉnh giữ trục vững chắc bằng đinh."
+        },
+        {
+          "q": "Mức độ ảnh hưởng chức năng sinh hoạt thường ngày của biến dạng này như thế nào?",
+          "options": [
+            "Giới hạn sấp ngửa cẳng tay",
+            "Mất chức năng gấp duỗi",
+            "Chủ yếu ảnh hưởng thẩm mỹ",
+            "Đau mạn tính khi mang vác"
+          ],
+          "answer": 2,
+          "explain": "Khác với các dị tật do hỏng sụn khớp, biến dạng này không làm giảm biên độ gấp duỗi hay sấp ngửa cẳng tay. Nó chỉ ảnh hưởng thẩm mỹ mặt phẳng trán và không gây đau mạn tính."
+        },
+        {
+          "q": "Chỉ số X-quang nào thường bị suy giảm rõ rệt và được dùng để đánh giá mức độ biến dạng mặt phẳng trán?",
+          "options": [
+            "Sự sụp góc mặt phẳng trán",
+            "Sự di lệch xoay ngoài ổ gãy",
+            "Sự gập góc ra sau đoạn gãy xa",
+            "Sự phát triển quá mức lồi cầu ngoài"
+          ],
+          "answer": 0,
+          "explain": "Chỉ số X-quang đo sự sụp góc mặt phẳng trán là góc Baumann. Góc Baumann giảm < 64 độ phản ánh sự sụp đổ cột trụ trong."
+        },
+        {
+          "q": "Nếu gia đình có nhu cầu sửa chữa biến dạng, phương pháp điều trị triệt để duy nhất là gì?",
+          "options": [
+            "Đeo nẹp chỉnh hình liên tục",
+            "Phẫu thuật đục xương sửa trục",
+            "Tập kéo giãn cơ tam đầu",
+            "Thay khớp khuỷu nhân tạo"
+          ],
+          "answer": 1,
+          "explain": "Xương đã liền hoàn toàn sai trục nên không thể dùng nẹp hay vật lý trị liệu. Phương pháp điều trị hiệu quả duy nhất là phẫu thuật đục xương hình chêm sửa trục (thường ở mặt ngoài) để lấy lại góc giải phẫu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nữ 5 tuổi đau nhẹ và hạn chế vận động khuỷu trái sau ngã",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 5 tuổi, nặng 16 kg.<br><br><b>Bệnh sử:</b> Được mẹ đưa đến khám vì quấy khóc và không chịu cử động tay trái sau khi ngã đập khuỷu xuống thảm cỏ.<br><br><b>Khám lâm sàng:</b> Khuỷu trái không biến dạng, chỉ sưng nề nhẹ và ấn đau vùng nếp gấp. Mạch quay bắt rõ, SpO2 100%, chức năng thần kinh vận động và cảm giác các ngón tay bình thường.<br><br><b>Xét nghiệm:</b> X-quang khuỷu tư thế thẳng và nghiêng không thấy rõ đường gãy xương. Đường dọc bờ trước xương cánh tay đi qua 1/3 giữa chỏm con. Trên phim nghiêng thấy dấu hiệu đệm mỡ phía sau (posterior fat pad sign) dương tính.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất cho bệnh nhi này là gì?",
+          "options": [
+            "Gãy trên lồi cầu độ I",
+            "Trật khớp quay trụ trên",
+            "Gãy đài quay ít di lệch",
+            "Gãy mỏm lồi cầu ngoài"
+          ],
+          "answer": 0,
+          "explain": "Dấu hiệu đệm mỡ phía sau ở trẻ em sau ngã chống tay rất nhạy để chỉ điểm gãy xương nội khớp ẩn, phổ biến nhất là gãy trên lồi cầu Gartland I (không di lệch)."
+        },
+        {
+          "q": "Dấu hiệu đệm mỡ phía sau dương tính trên X-quang phản ánh tình trạng giải phẫu bệnh nào?",
+          "options": [
+            "Tràn máu khớp",
+            "Rách bao khớp sau",
+            "Tụ máu cơ tam đầu",
+            "Viêm màng hoạt dịch"
+          ],
+          "answer": 0,
+          "explain": "Bình thường lớp mỡ hố lồi cầu mặt sau nằm sâu, không thấy trên X-quang nghiêng. Khi nứt xương, máu tràn vào làm căng bao khớp, đẩy lớp mỡ lên trên và ra sau tạo hình ảnh thấu quang (hình cánh buồm)."
+        },
+        {
+          "q": "Đặc điểm đường dọc bờ trước xương cánh tay đi qua 1/3 giữa chỏm con có ý nghĩa gì?",
+          "options": [
+            "Đầu xương xoay vào trong",
+            "Ổ gãy không gập góc",
+            "Tổn thương sụn phát triển",
+            "Khớp khuỷu bị bán trật"
+          ],
+          "answer": 1,
+          "explain": "Đường bờ trước xương cánh tay đi qua 1/3 giữa chỏm con là mốc giải phẫu bình thường. Điều này chứng tỏ đoạn gãy xa chưa bị gập góc ngửa ra phía sau."
+        },
+        {
+          "q": "Phương pháp xử trí ban đầu tiêu chuẩn cho bệnh nhi này là gì?",
+          "options": [
+            "Bó bột cánh bàn tay",
+            "Xuyên đinh Kirschner",
+            "Nắn chỉnh dưới màn hình",
+            "Đeo đai số 8 cố định"
+          ],
+          "answer": 0,
+          "explain": "Gãy Gartland I không di lệch có cấu trúc cơ sinh học vững chắc, điều trị chuyên môn là bảo tồn bằng nẹp bột hoặc bó bột cánh bàn tay ở tư thế gập khuỷu khoảng 90 độ."
+        },
+        {
+          "q": "Thời điểm phù hợp nhất để chụp X-quang kiểm tra lại nhằm phát hiện di lệch thứ phát là khi nào?",
+          "options": [
+            "Sau 12 giờ",
+            "Sau 5 đến 7 ngày",
+            "Sau 3 tuần",
+            "Sau 6 tháng"
+          ],
+          "answer": 1,
+          "explain": "Chụp X-quang kiểm tra ở thời điểm 5-7 ngày rất quan trọng vì lúc này chi hết sưng nề, bột dễ lỏng làm tăng nguy cơ gãy trượt và di lệch thứ phát."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nữ 5 tuổi tê bì ngón tay sau hậu phẫu kết hợp xương",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 5 tuổi, nặng 16 kg.<br><br><b>Khám lâm sàng:</b> Hậu phẫu ngày thứ 1. Bệnh nhân than tê rần vùng ngón út và nửa ngón áp út tay mổ. Khám thấy yếu động tác xòe rộng và khép chặt các ngón tay. Băng vết thương khô, mạch quay bắt rõ, ngón tay ấm, không có dấu hiệu chèn ép khoang.<br><br><b>Tình trạng phẫu thuật:</b> Đã được nắn chỉnh kín và xuyên đinh chữ thập (1 đinh lồi cầu ngoài, 1 đinh lồi cầu trong) điều trị gãy trên lồi cầu Gartland III thể duỗi. Khám hồ sơ trước mổ ghi nhận cảm giác và vận động bàn tay hoàn toàn bình thường.",
+      "questions": [
+        {
+          "q": "Biến chứng thần kinh nào đang xảy ra trên bệnh nhân này?",
+          "options": [
+            "Thần kinh quay",
+            "Thần kinh cơ bì",
+            "Thần kinh trụ",
+            "Thần kinh giữa"
+          ],
+          "answer": 2,
+          "explain": "Tê ngón 4, 5 và yếu cơ gian cốt (dạng/khép ngón) xuất hiện ngay sau ca mổ có sử dụng đinh xuyên lồi cầu trong là biến chứng iatrogenic kinh điển gây đụng dập thần kinh trụ."
+        },
+        {
+          "q": "Thao tác kỹ thuật nào tạo ra yếu tố nguy cơ giải phẫu cho biến chứng này khi xuyên đinh mặt trong?",
+          "options": [
+            "Thần kinh đi ngang rãnh quay",
+            "Thần kinh trượt ra trước khi gập khuỷu",
+            "Thần kinh xuyên qua màng gian cốt",
+            "Thần kinh nằm trong ống cổ tay"
+          ],
+          "answer": 1,
+          "explain": "Thần kinh trụ chạy dọc rãnh mặt sau mỏm trên lồi cầu trong. Khi phẫu thuật viên gập khuỷu tối đa để nắn xương, thần kinh trụ có xu hướng trượt ra phía trước, dễ bị mũi khoan đâm trúng."
+        },
+        {
+          "q": "Hướng can thiệp ưu tiên số một đối với biến chứng này là gì?",
+          "options": [
+            "Mổ cắt nối vi phẫu thần kinh",
+            "Tiêm corticoid quanh chân đinh",
+            "Rút bỏ đinh lồi cầu trong",
+            "Theo dõi phục hồi trong 3 tháng"
+          ],
+          "answer": 2,
+          "explain": "Khi phát hiện liệt thần kinh trụ cấp tính sau xuyên đinh chéo, bắt buộc phải đưa bệnh nhân trở lại phòng tiểu phẫu rút bỏ đinh lồi cầu trong ngay lập tức để giải tỏa chèn ép cơ học. Ổ gãy có thể gia cố thêm đinh ngoài nếu cần."
+        },
+        {
+          "q": "Lựa chọn cấu hình cố định nào giúp loại bỏ hoàn toàn nguy cơ xuất hiện biến chứng này?",
+          "options": [
+            "Xuyên hai đinh từ lồi cầu ngoài",
+            "Xuyên ba đinh từ lồi cầu trong",
+            "Xuyên đinh nội tủy ngược dòng",
+            "Đóng đinh chữ thập góc rộng"
+          ],
+          "answer": 0,
+          "explain": "Các nghiên cứu cơ sinh học chứng minh rằng sử dụng 2 đinh phân kỳ đi hoàn toàn từ bờ ngoài cung cấp độ vững tương đương đinh chéo, đồng thời loại bỏ 100% rủi ro đâm trúng thần kinh trụ mặt trong."
+        },
+        {
+          "q": "Trong trường hợp bắt buộc phải dùng đinh mặt trong, bác sĩ nên làm gì để đảm bảo an toàn cho thần kinh?",
+          "options": [
+            "Xuyên mù qua da thật nhanh",
+            "Gập khuỷu trên 120 độ khi khoan",
+            "Rạch da nhỏ bộc lộ vỏ xương",
+            "Dùng đinh có đường kính lớn nhất"
+          ],
+          "answer": 2,
+          "explain": "Để an toàn khi xuyên đinh mặt trong, tuyệt đối không xuyên mù (percutaneous). Phải rạch một đường da nhỏ (mini-open), bóc tách cùn bộc lộ đến tận vỏ xương để gạt thần kinh trụ ra sau trước khi đặt khoan."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 7 tuổi quấy khóc và đau dữ dội cẳng tay trái sau bó bột khuỷu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 7 tuổi.<br><br><b>Bệnh sử:</b> Gãy trên lồi cầu xương cánh tay trái độ II, được nắn chỉnh kín và bó bột vòng kín cánh bàn tay ở tư thế gập khuỷu 100 độ. Mười hai giờ sau, bệnh nhân quấy khóc dữ dội, kêu đau cẳng tay trái kịch liệt, không thuyên giảm dù đã uống Paracetamol.<br><br><b>Khám lâm sàng:</b> Khám tại cấp cứu thấy trẻ vật vã, các ngón tay sưng nề, nhợt nhạt. Mạch quay bắt rất yếu. Bệnh nhân la hét đau chói khi bác sĩ vuốt thẳng kéo duỗi thụ động các ngón tay trái.",
+      "questions": [
+        {
+          "q": "Tình trạng cấp cứu nào đang diễn ra trên bệnh nhân này?",
+          "options": [
+            "Hội chứng chèn ép khoang",
+            "Tổn thương mạch máu muộn",
+            "Nhiễm trùng hoại tử cơ",
+            "Di lệch thứ phát trong bột"
+          ],
+          "answer": 0,
+          "explain": "Trẻ mang bột gập góc hẹp, đau ngoài mức độ chấn thương, không đáp ứng giảm đau kèm sưng nhợt ngón tay là bệnh cảnh cấp cứu điển hình của hội chứng chèn ép khoang cấp."
+        },
+        {
+          "q": "Triệu chứng lâm sàng nào có giá trị phát hiện sớm nhất đối với biến chứng này?",
+          "options": [
+            "Tím tái các ngón tay",
+            "Mất mạch quay ngoại vi",
+            "Đau khi căng cơ thụ động",
+            "Liệt vận động hoàn toàn"
+          ],
+          "answer": 2,
+          "explain": "Đau chói khi kéo duỗi thụ động các cơ trong khoang (làm căng nhóm cơ gấp đang phù nề thiếu máu) là dấu hiệu lâm sàng sớm và nhạy nhất. Mất mạch ngoại vi hay liệt là biểu hiện rất muộn."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh cốt lõi gây ra tình trạng thiếu máu nuôi mô trong bệnh cảnh này là gì?",
+          "options": [
+            "Áp lực khoang vượt áp lực mao mạch",
+            "Huyết khối tắc động mạch cánh tay",
+            "Vi khuẩn yếm khí sinh hơi hoại tử",
+            "Đứt rời tĩnh mạch nông chi trên"
+          ],
+          "answer": 0,
+          "explain": "Chèn ép khoang xảy ra khi phù nề hoặc tụ máu làm tăng áp lực trong khoang cân mạc kín (cộng thêm áp lực ép từ bột bên ngoài), vượt quá áp lực tưới máu mao mạch, dẫn đến thiếu máu cục bộ cơ và thần kinh."
+        },
+        {
+          "q": "Bước xử trí khẩn cấp ĐẦU TIÊN ngay tại giường bệnh là gì?",
+          "options": [
+            "Truyền dịch Mannitol tĩnh mạch",
+            "Cắt bửa đôi toàn bộ bột và lót",
+            "Kê cao chi vượt quá mức tim",
+            "Chụp X-quang kiểm tra ổ gãy"
+          ],
+          "answer": 1,
+          "explain": "Bước sơ cứu bắt buộc tại giường đối với nghi ngờ chèn ép khoang do bó bột là phải loại bỏ mọi áp lực cơ học bên ngoài: cắt bửa đôi bột và xẻ đứt băng lót đến tận da."
+        },
+        {
+          "q": "Chọn câu KHÔNG ĐÚNG về nguyên tắc chẩn đoán và xử trí biến chứng này:",
+          "options": [
+            "Đau tăng mức là dấu hiệu cảnh báo sớm",
+            "Mất mạch ngoại vi là tiêu chuẩn bắt buộc",
+            "Không kê cao chi quá tim để giữ tưới máu",
+            "Rạch mạc giải áp nếu không thuyên giảm"
+          ],
+          "answer": 1,
+          "explain": "Áp lực khoang có thể đủ cao để gây hoại tử cơ mao mạch (khoảng 30-40 mmHg) nhưng vẫn thấp hơn huyết áp tâm thu (90-100 mmHg), do đó mạch quay vẫn có thể đập rõ trong giai đoạn đầu chèn ép khoang. Không bao giờ đợi mất mạch mới chẩn đoán."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 6 tuổi sưng đau khuỷu tay phải sau ngã chống tay",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 6 tuổi.<br><br><b>Bệnh sử:</b> Ngã chống tay phải trong tư thế duỗi khuỷu.<br><br><b>Khám lâm sàng:</b> Khuỷu phải sưng nề vừa, đau chói vùng trên lồi cầu. Mạch quay bắt rõ, chức năng thần kinh bàn tay bình thường.<br><br><b>Xét nghiệm:</b> X-quang tư thế nghiêng thấy đường gãy ngang vỏ xương trước hở rộng, nhưng vỏ xương sau vẫn còn liên tục; đường bờ trước xương cánh tay đi hoàn toàn phía trước chỏm con. X-quang thẳng đo góc Baumann là 60 độ (bình thường 70-75 độ).",
+      "questions": [
+        {
+          "q": "Dựa trên hình ảnh X-quang, mức độ gãy xương theo Gartland là gì?",
+          "options": [
+            "Độ I",
+            "Độ II",
+            "Độ III",
+            "Độ IV"
+          ],
+          "answer": 1,
+          "explain": "Vỏ xương trước gãy gập góc, vỏ xương sau còn liên tục và chưa tách rời hoàn toàn là đặc điểm của gãy Gartland II thế duỗi."
+        },
+        {
+          "q": "Lớp màng xương và vỏ xương mặt sau còn liên tục đóng vai trò cơ sinh học gì khi nắn chỉnh?",
+          "options": [
+            "Ngăn cản nắn chỉnh chi",
+            "Đóng vai trò bản lề",
+            "Bao vệ thần kinh trụ",
+            "Ép chặt bó mạch trước"
+          ],
+          "answer": 1,
+          "explain": "Lớp màng xương và vỏ xương phía sau còn nguyên vẹn sẽ đóng vai trò như một bản lề (posterior hinge). Khi kéo dọc trục và gập khuỷu, bản lề này giúp định hướng trục, chống đoạn gãy xa trượt hoàn toàn ra trước."
+        },
+        {
+          "q": "Sự suy giảm góc Baumann (<64 độ) phản ánh dạng di lệch nào của đoạn gãy xa?",
+          "options": [
+            "Di lệch gập góc ra sau",
+            "Di lệch sụp cột trụ trong",
+            "Di lệch sụp cột trụ ngoài",
+            "Di lệch xoay ngửa ra trước"
+          ],
+          "answer": 1,
+          "explain": "Góc Baumann giảm chứng tỏ có sự sụp đổ cột trụ trong, khiến đoạn gãy xa bị nghiêng vẹo vào trong (varus tilt). Nếu không nắn chỉnh lại sẽ dẫn đến di chứng khuỷu vẹo vào trong."
+        },
+        {
+          "q": "Quyết định điều trị triệt để tối ưu nhất cho tổn thương của bệnh nhân này là gì?",
+          "options": [
+            "Bó bột tư thế gập sâu",
+            "Nắn chỉnh và bó bột ôm",
+            "Nắn chỉnh và xuyên đinh",
+            "Mổ mở kết hợp nẹp vít"
+          ],
+          "answer": 2,
+          "explain": "Gãy Gartland II có kèm sụp góc Baumann hoặc di lệch xoay có chỉ định nắn chỉnh kín và xuyên đinh Kirschner qua da (CRPP) để khóa trục, tránh di lệch thứ phát trong bột."
+        },
+        {
+          "q": "Lý do chính để KHÔNG lựa chọn phương pháp nắn chỉnh và chỉ bó bột gập khuỷu sâu cho bệnh nhi là gì?",
+          "options": [
+            "Tăng nguy cơ chèn ép khoang",
+            "Gây căng đứt thần kinh trụ",
+            "Dễ trật khớp vai thứ phát",
+            "Làm tổn thương sụn phát triển"
+          ],
+          "answer": 0,
+          "explain": "Mặc dù gập khuỷu thật sâu có thể giữ xương Gartland II vững do làm căng màng xương sau, tư thế này làm gập góc hệ tĩnh mạch và ép mặt trước nếp khuỷu, làm tăng cao nguy cơ tắc nghẽn và hội chứng chèn ép khoang cấp ở trẻ em."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nữ 8 tuổi sưng đau khuỷu tay kèm tê bì tay trái sau ngã",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 8 tuổi.<br><br><b>Bệnh sử:</b> Ngã đập trực tiếp mặt sau mỏm khuỷu trái xuống sàn gỗ cứng khi khuỷu đang ở tư thế gập 90 độ. Trẻ kêu đau chói, mỏm khuỷu gồ rõ ra phía sau bất thường.<br><br><b>Khám lâm sàng:</b> Mạch quay đập rõ. Bệnh nhân than phiền tê bì ở ngón út và nửa ngón áp út tay trái, không thể xòe rộng các ngón tay.<br><br><b>Xét nghiệm:</b> X-quang thẳng nghiêng cho thấy gãy trên lồi cầu xương cánh tay, đường gãy chéo từ trước dưới lên sau-trên. Đoạn gãy xa chứa chỏm con di lệch ra phía trước so với đoạn gãy gần.",
+      "questions": [
+        {
+          "q": "Thế lâm sàng gãy xương của bệnh nhi này là gì?",
+          "options": [
+            "Gãy trên lồi cầu thể duỗi",
+            "Gãy mỏm trên lồi cầu trong",
+            "Gãy lồi cầu ngoài cánh tay",
+            "Gãy trên lồi cầu thể gập"
+          ],
+          "answer": 3,
+          "explain": "Cơ chế ngã đập mỏm khuỷu gập và X-quang có đoạn gãy xa di lệch ra phía trước là điển hình của gãy trên lồi cầu thể gập (flexion type). Thể này hiếm, chiếm < 5%."
+        },
+        {
+          "q": "Triệu chứng thần kinh ở bàn tay phản ánh tổn thương cấu trúc nào?",
+          "options": [
+            "Thần kinh giữa",
+            "Thần kinh cơ bì",
+            "Thần kinh trụ",
+            "Thần kinh quay"
+          ],
+          "answer": 2,
+          "explain": "Tê ngón 5, nửa ngón 4 và yếu các cơ gian cốt (không xòe rộng được ngón tay) là vùng chi phối của thần kinh trụ."
+        },
+        {
+          "q": "Cơ chế giải phẫu gây tổn thương thần kinh trong hình thái gãy này là gì?",
+          "options": [
+            "Đứt do mảnh vỡ mỏm khuỷu",
+            "Đoạn xa lệch ra trước kéo căng",
+            "Đầu gần chọc ra trước đâm trực tiếp",
+            "Tụ máu mặt trước khuỷu chèn ép"
+          ],
+          "answer": 1,
+          "explain": "Trong thế gập, đoạn gãy xa mang theo mỏm trên lồi cầu trong di lệch ra trước, làm kéo căng thần kinh trụ (vốn đi trong rãnh ròng rọc mặt sau lồi cầu trong) qua mép xương gãy."
+        },
+        {
+          "q": "Đặc điểm màng xương nào ảnh hưởng đến kỹ thuật nắn chỉnh ở thể gãy này?",
+          "options": [
+            "Màng xương sau còn liên tục",
+            "Màng xương trước còn liên tục",
+            "Rách toàn bộ hai màng xương",
+            "Màng xương kẹt vào khe khớp"
+          ],
+          "answer": 1,
+          "explain": "Do cơ chế gập ra trước, màng xương phía sau bị rách, trong khi màng xương phía trước có thể còn nguyên vẹn. Bác sĩ dùng màng xương trước làm bản lề để nắn đoạn xa về lại phía sau."
+        },
+        {
+          "q": "Để duy trì sức căng màng xương giúp khóa ổ gãy sau nắn chỉnh, bác sĩ nên bất động khuỷu ở tư thế nào?",
+          "options": [
+            "Gập khuỷu tối đa",
+            "Duỗi khuỷu tương đối",
+            "Sấp cẳng tay tối đa",
+            "Treo tay nẹp chữ U"
+          ],
+          "answer": 1,
+          "explain": "Khác với thể duỗi cần gập khuỷu để căng màng xương sau; ở thể gập, sau khi đẩy đoạn gãy xa ra sau, khuỷu cần được giữ ở tư thế duỗi tương đối (gần thẳng) để làm căng màng xương trước, giúp ép chặt và khóa ổ gãy."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 6 tuổi biến dạng khuỷu kèm mất mạch quay sau ngã độ cao",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 6 tuổi.<br><br><b>Bệnh sử:</b> Ngã từ độ cao 3 mét đập tay phải xuống nền xi măng.<br><br><b>Khám lâm sàng:</b> Khuỷu tay biến dạng chữ S nặng nề, sưng căng bóng. Bàn tay phải trắng bệch, lạnh toát, CRT > 4 giây, không bắt được mạch quay và mạch trụ. Trẻ khóc thét khi bác sĩ vuốt nhẹ hoặc duỗi thụ động các ngón tay.<br><br><b>Xét nghiệm:</b> X-quang cho thấy gãy trên lồi cầu Gartland III di lệch sau ngoài.<br><br><b>Tình trạng phẫu thuật:</b> Bệnh nhân được đưa ngay vào phòng mổ. Sau khi nắn chỉnh kín và xuyên đinh khôi phục trục xương hoàn hảo, 15 phút sau bàn tay vẫn trắng bệch và không sờ thấy mạch.",
+      "questions": [
+        {
+          "q": "Tình trạng mạch máu của bệnh nhân trước khi nắn chỉnh được phân loại là gì?",
+          "options": [
+            "Bàn tay hồng mất mạch",
+            "Thiếu máu chi đe dọa",
+            "Co thắt mạch máu sinh lý",
+            "Hội chứng Raynaud cấp"
+          ],
+          "answer": 1,
+          "explain": "Bàn tay trắng bệch, lạnh, mất cả CRT và nhịp mạch (white pulseless hand) là dấu hiệu thiếu máu chi cấp tính đe dọa hoại tử, chứng tỏ tuần hoàn bàng hệ đã thất bại."
+        },
+        {
+          "q": "Nguyên nhân phổ biến nhất khiến tay vẫn trắng bệch mất mạch dù xương đã được nắn thẳng đúng trục là gì?",
+          "options": [
+            "Co thắt mạch phản xạ",
+            "Tụ máu trong bao khớp",
+            "Kẹt rách động mạch cánh tay",
+            "Chèn ép khoang cẳng tay"
+          ],
+          "answer": 2,
+          "explain": "Tay vẫn trắng bệch sau khi xương đã nắn thẳng không còn do gập góc sinh lý nữa, mà do động mạch bị kẹt vào khe gãy, hoặc đứt rách lớp nội mạc tạo huyết khối lấp quản hoàn toàn."
+        },
+        {
+          "q": "Bước can thiệp xử trí bắt buộc tiếp theo là gì?",
+          "options": [
+            "Mở thám sát động mạch",
+            "Tháo đinh nắn lại xương",
+            "Bó bột theo dõi tại hồi sức",
+            "Tiêm tiêu sợi huyết tĩnh mạch"
+          ],
+          "answer": 0,
+          "explain": "Bàn tay trắng vô mạch không cải thiện sau nắn chỉnh trục xương là chỉ định tuyệt đối phải chuyển mổ mở đường mặt trước thám sát động mạch cánh tay ngay lập tức để cứu chi."
+        },
+        {
+          "q": "Phương pháp nào KHÔNG ĐƯỢC LÀM khi xử lý động mạch dập nát đoạn dài trên bàn mổ?",
+          "options": [
+            "Khâu nối trực tiếp hai đầu",
+            "Ghép tĩnh mạch hiến đảo chiều",
+            "Lấy huyết khối bằng Fogarty",
+            "Mở cân cẳng tay giải áp"
+          ],
+          "answer": 0,
+          "explain": "Khi động mạch dập nát một đoạn dài kèm rách nội mạc, việc khâu nối trực tiếp hai đầu bị chống chỉ định vì tạo sức căng lớn, dễ gây bục chỉ hoặc tắc mạch lại. Phải cắt bỏ đoạn dập và bắc cầu ghép bằng tĩnh mạch hiến."
+        },
+        {
+          "q": "Chọn tập hợp ĐÚNG về xử trí tổn thương mạch máu trong gãy trên lồi cầu ở trẻ em: (1) Bàn tay hồng ẩm mất mạch sau nắn xương chỉ cần theo dõi. (2) Bàn tay trắng mất mạch sau nắn xương phải mổ thám sát mạch. (3) Phải nắn chỉnh gãy xương trước để giải phóng mạch máu đang gập góc. (4) Mất mạch quay trước nắn là chỉ định mổ mở ngay lập tức.",
+          "options": [
+            "1, 2, 3",
+            "1, 3, 4",
+            "2, 3, 4",
+            "1, 2, 4"
+          ],
+          "answer": 0,
+          "explain": "Mệnh đề 4 sai vì khi mất mạch quay ở gãy di lệch, bước đầu tiên phải làm là nắn chỉnh xương để mở góc gập động mạch; không mổ mở ngay lập tức khi chưa nắn xương. Các mệnh đề 1, 2, 3 đều phản ánh đúng guideline."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 7 tuổi sưng nề biến dạng khuỷu tay phải sau ngã xà đu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 7 tuổi.<br><br><b>Bệnh sử:</b> Ngã từ xà đu cao 1.5 mét đập tay phải xuống đất. Bệnh nhân đau dữ dội.<br><br><b>Khám lâm sàng:</b> Khuỷu phải sưng nề mạnh và biến dạng chữ S. Bàn tay phải hồng ẩm, mạch quay bắt rõ, CRT 2 giây. Khám thần kinh phát hiện bệnh nhi không thể chủ động gấp đốt xa ngón trỏ và ngón cái để tạo thành hình chữ O (dấu hiệu OK âm tính). Cảm giác vùng gan bàn tay và mu bàn tay bình thường.<br><br><b>Xét nghiệm:</b> X-quang cho thấy gãy trên lồi cầu cánh tay phải, đoạn gãy xa di lệch hoàn toàn ra sau.",
+      "questions": [
+        {
+          "q": "Triệu chứng không làm được dấu hiệu OK phản ánh tổn thương nhánh thần kinh nào?",
+          "options": [
+            "Thần kinh giữa thân chính",
+            "Nhánh gian cốt trước",
+            "Nhánh nông thần kinh quay",
+            "Thần kinh trụ"
+          ],
+          "answer": 1,
+          "explain": "Dấu hiệu OK âm tính (không gấp được đốt xa ngón trỏ và ngón cái do liệt cơ gấp ngón cái dài và cơ gấp sâu ngón trỏ) là biểu hiện đặc hiệu của tổn thương nhánh thần kinh gian cốt trước (AIN)."
+        },
+        {
+          "q": "Cơ chế giải phẫu gây ra tổn thương dây thần kinh này trong chấn thương là gì?",
+          "options": [
+            "Đứt rời do đầu xương xa",
+            "Bị kẹt vào trong ổ khớp",
+            "Căng giãn qua đầu gãy gần",
+            "Tụ máu chèn ép khoang"
+          ],
+          "answer": 2,
+          "explain": "Trong gãy thế duỗi di lệch hoàn toàn, đầu gãy gần nhọn bị đẩy chọc mạnh ra phía trước, trực tiếp cọ xát và làm căng giãn nhánh AIN cùng động mạch cánh tay."
+        },
+        {
+          "q": "Đặc điểm sinh lý nào giải thích việc bệnh nhân bị liệt vận động nhưng hoàn toàn không mất cảm giác da?",
+          "options": [
+            "Thần kinh bị chấn động nhẹ",
+            "Nhánh tổn thương thuần vận động",
+            "Thần kinh quay bù trừ cảm giác",
+            "Đám rối cánh tay còn nguyên vẹn"
+          ],
+          "answer": 1,
+          "explain": "Nhánh AIN tách ra từ thần kinh giữa là một nhánh vận động thuần túy. Nó chỉ phối cơ chứ không chi phối cảm giác bề mặt da, do đó bệnh nhân vẫn có cảm giác bàn tay nguyên vẹn."
+        },
+        {
+          "q": "Hướng xử trí ngoại khoa đối với tổn thương thần kinh ở giai đoạn cấp tính trong này là gì?",
+          "options": [
+            "Mổ vi phẫu nối thần kinh",
+            "Nắn xương và theo dõi",
+            "Chụp MRI đám rối cổ",
+            "Tiêm corticoid quanh rễ"
+          ],
+          "answer": 1,
+          "explain": "Hầu hết các tổn thương thần kinh do gãy kín trên lồi cầu là chấn động cơ học (neuropraxia). Thái độ chuẩn là nắn chỉnh trục xương giải phóng chèn ép, cố định và theo dõi. Thần kinh thường tự phục hồi sau 2-3 tháng."
+        },
+        {
+          "q": "Chọn tập hợp ĐÚNG về kỹ thuật xuyên đinh (CRPP) cho gãy trên lồi cầu: (1) Xuyên đinh lồi cầu ngoài giúp tránh tuyệt đối rủi ro cho thần kinh trụ. (2) Xuyên đinh chéo hai bên có nguy cơ đâm trúng thần kinh trụ mặt trong. (3) Xuyên đinh nội tủy là lựa chọn số một hiện nay. (4) Đinh Kirschner được lưu vĩnh viễn không rút.",
+          "options": [
+            "1, 2",
+            "1, 4",
+            "2, 3",
+            "3, 4"
+          ],
+          "answer": 0,
+          "explain": "Mệnh đề (1) và (2) đúng: đinh ngoài an toàn tuyệt đối cho thần kinh trụ, đinh chéo dễ đâm trúng thần kinh trụ ở lồi cầu trong. Mệnh đề (3) sai vì đinh Kirschner qua da là tiêu chuẩn. Mệnh đề (4) sai vì đinh phải được rút sau 3-4 tuần khi can xương đủ vững."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 6 tuổi khuỷu trái sưng nề biến dạng kèm lõm da mặt trước",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 6 tuổi.<br><br><b>Bệnh sử:</b> Ngã chống tay trên bạt nhún, khuỷu trái đập xuống thảm. Nhập viện với khuỷu trái biến dạng chữ S, sưng nề lớn.<br><br><b>Khám lâm sàng:</b> Vùng da mặt trước nếp gấp khuỷu bị lõm sâu vào trong, nhăn nheo và căng bóng (dấu hiệu pucker sign). Bàn tay hồng ẩm, mạch quay bắt rõ, cảm giác các ngón tay bình thường.<br><br><b>Xét nghiệm:</b> Phim X-quang cho thấy gãy trên lồi cầu Gartland III di lệch ra sau, đầu gãy gần chọc sát ra phía trước.",
+      "questions": [
+        {
+          "q": "Dấu hiệu nhăn da mặt trước khuỷu (pucker sign) phản ánh tình trạng giải phẫu bệnh nào?",
+          "options": [
+            "Mảnh gãy xuyên cơ cánh tay và da",
+            "Đứt gân cơ nhị đầu cánh tay",
+            "Bao khớp trước bị kẹt vào ổ gãy",
+            "Rách tĩnh mạch nông gây tụ máu"
+          ],
+          "answer": 0,
+          "explain": "Dấu hiệu lõm da (pucker/dimple sign) xảy ra khi đầu nhọn của đoạn gãy gần đâm xuyên qua cơ cánh tay trước (brachialis) và ghim chặt vào lớp hạ bì của da từ bên trong."
+        },
+        {
+          "q": "Ý nghĩa lâm sàng quan trọng nhất của dấu hiệu này khi tiếp cận điều trị là gì?",
+          "options": [
+            "Chắc chắn đứt thần kinh quay",
+            "Khó nắn chỉnh kín thành công",
+            "Bắt buộc phải cắt cụt chi trên",
+            "Nguy cơ sốc nhiễm trùng cấp"
+          ],
+          "answer": 1,
+          "explain": "Khi đầu xương đã cắm chặt vào tổ chức da cơ mặt trước, ổ gãy thường bị kẹt phần mềm. Thao tác nắn chỉnh kín thông thường rất khó giải phóng đầu xương, dẫn đến tỷ lệ phải mổ mở cao hơn."
+        },
+        {
+          "q": "Thao tác sơ cứu nào sau đây CHỐNG CHỈ ĐỊNH tuyệt đối vì có thể làm đầu xương đâm thủng da?",
+          "options": [
+            "Cố định nẹp tư thế duỗi nhẹ",
+            "Kéo dọc trục xương cánh tay",
+            "Gập khuỷu tay ép sát lồng ngực",
+            "Băng ép cầm máu tại chỗ"
+          ],
+          "answer": 2,
+          "explain": "Gập khuỷu tay lại trong lúc sơ cứu bị chống chỉ định tuyệt đối vì động tác gập sẽ đẩy đầu xương đang nằm dưới da đâm thủng hẳn lớp da mỏng, biến gãy kín thành gãy hở và siết chặt bó mạch mặt trước."
+        },
+        {
+          "q": "Cấu trúc bó mạch thần kinh nào nằm ngay sát và có nguy cơ bị tổn thương cao nhất khi có dấu hiệu này?",
+          "options": [
+            "Thần kinh trụ và tĩnh mạch nền",
+            "Thần kinh quay và động mạch quay",
+            "Thần kinh cơ bì và tĩnh mạch đầu",
+            "Thần kinh giữa và động mạch cánh tay"
+          ],
+          "answer": 3,
+          "explain": "Động mạch cánh tay và thần kinh giữa đi song hành ngay mặt trước bao khớp khuỷu. Khi đầu xương gần chọc thẳng ra trước đâm vào cơ cánh tay, bộ đôi này rất dễ bị đầu xương căng giãn hoặc đâm thủng."
+        },
+        {
+          "q": "Nếu nắn chỉnh kín thất bại do tổ chức phần mềm kẹt chặt, đường mổ tiếp cận ưu tiên là gì?",
+          "options": [
+            "Mổ mở đường mặt trước",
+            "Mổ mở đường mặt sau",
+            "Mổ mở bờ ngoài lồi cầu",
+            "Mổ mở bờ trong lồi cầu"
+          ],
+          "answer": 0,
+          "explain": "Khi nắn chỉnh kín thất bại do kẹt cơ hoặc bao khớp, đường mổ mặt trước (anterior approach) đi ngang nếp gấp khuỷu là ưu tiên số một. Nó giúp nhìn trực tiếp để gỡ phần cơ bám chặt ra khỏi đầu xương và bảo vệ trực tiếp bó mạch thần kinh trước."
         }
       ]
     }
