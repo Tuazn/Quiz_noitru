@@ -1,0 +1,1230 @@
+{
+  "name": "Chảy máu đường tiêu hoá",
+  "description": "Case lâm sàng bệnh lý chảy máu đường tiêu hoá bao gồm các ca từ loét dạ dày tá tràng, Mallory-Weiss, chảy máu túi thừa, vỡ tĩnh mạch thực quản, đến các tổn thương hiếm gặp như Dieulafoy và Angiodysplasia.",
+  "level": "Ôn thi bác sĩ nội trú / Chuyên khoa",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Tiêu hóa",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 54 tuổi đi ngoài phân đen",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 54 tuổi, nghề nghiệp tự do.<br><br><b>Bệnh sử:</b> Vào viện vì đi ngoài phân đen mùi khẳm. Cách nhập viện 2 ngày, bệnh nhân thấy đau thượng vị âm ỉ, sau đó đi ngoài phân sệt màu đen như nhựa đường, khoảng 3 lần/ngày, kèm hoa mắt chóng mặt khi thay đổi tư thế.<br><br><b>Tiền sử:</b> Viêm khớp dạng thấp đang tự dùng Ibuprofen không rõ liều 2 tháng nay, hút thuốc lá 20 bao.năm, uống rượu 300mL/tuần.<br><br><b>Khám lâm sàng:</b> Tỉnh, tiếp xúc tốt, da xanh, niêm mạc nhợt, mạch 100 lần/phút, HA 105/65 mmHg, SpO2 98%, BMI 20 kg/m2. Khám bụng: Bụng mềm, ấn đau nhẹ vùng thượng vị, không có phản ứng thành bụng, gan lách không sờ thấy. Thăm trực tràng: Có phân đen dính găng, cơ thắt hậu môn tốt, không sờ thấy u cục. Dấu hiệu âm tính: Không nôn ra máu, không vàng da, không tuần hoàn bàng hệ.<br><br><b>Xét nghiệm:</b> Hb 85 g/L, Hct 0.26, MCV 82 fL, PLT 250 G/L, INR 1.1; Urea 12.5 mmol/L, Creatinin 80 µmol/L (tỷ lệ Urea/Creatinin tăng). Nội soi dạ dày cấp cứu thấy ổ loét hành tá tràng kích thước 1cm, đáy sạch.",
+      "questions": [
+        {
+          "q": "Nguyên nhân hàng đầu gây chảy máu tiêu hóa ở bệnh nhân này là gì?",
+          "options": [
+            "Vỡ giãn tĩnh mạch thực quản",
+            "Hội chứng Mallory-Weiss",
+            "Loét tá tràng do NSAIDs",
+            "Ung thư dạ dày thể loét"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có tiền sử dùng NSAIDs (Ibuprofen) kéo dài, đau thượng vị, không có dấu hiệu tăng áp lực tĩnh mạch cửa (không vàng da, không tuần hoàn bàng hệ, gan lách không to) -> Loét tá tràng do NSAIDs là nguyên nhân phù hợp nhất."
+        },
+        {
+          "q": "Theo phân loại Forrest, hình ảnh nội soi \"đáy sạch\" tương ứng với độ nào và nguy cơ tái xuất huyết ra sao?",
+          "options": [
+            "Forrest IIc, nguy cơ thấp",
+            "Forrest III, nguy cơ thấp",
+            "Forrest IIb, nguy cơ trung bình",
+            "Forrest III, nguy cơ trung bình"
+          ],
+          "answer": 1,
+          "explain": "Forrest III là ổ loét đáy sạch (clean base), nguy cơ tái xuất huyết thấp (<5%). Forrest IIc là cặn đen (hematin). Forrest IIb là cục máu đông dính."
+        },
+        {
+          "q": "Chỉ định truyền máu (Hồng cầu khối) ở bệnh nhân này được đặt ra khi Hemoglobin (Hb) dưới ngưỡng nào (giả sử bệnh nhân không có bệnh lý tim mạch cấp tính)?",
+          "options": [
+            "< 90 g/L",
+            "< 80 g/L",
+            "< 70 g/L",
+            "< 100 g/L"
+          ],
+          "answer": 2,
+          "explain": "Theo Guideline (ACG/ESGE) và Schwartz 11e: Với bệnh nhân chảy máu tiêu hóa trên huyết động ổn định và không có bệnh lý tim mạch cấp (như ACS), ngưỡng truyền máu hạn chế là Hb < 70 g/L (mục tiêu 70-90 g/L) để tránh quá tải tuần hoàn và rối loạn đông máu do pha loãng."
+        },
+        {
+          "q": "Biện pháp điều trị nội khoa quan trọng nhất ngay sau khi nội soi cầm máu (hoặc chẩn đoán nguy cơ thấp) là gì?",
+          "options": [
+            "Kháng sinh diệt H. pylori ngay lập tức",
+            "PPI liều cao đường tĩnh mạch",
+            "Thuốc cầm máu Transamin (Tranexamic acid)",
+            "Somatostatin truyền tĩnh mạch"
+          ],
+          "answer": 1,
+          "explain": "PPI liều cao tĩnh mạch (ví dụ Esomeprazole 80mg bolus + 8mg/h) giúp ổn định cục máu đông, giảm tiết acid, giảm nguy cơ tái xuất huyết. Somatostatin dùng cho vỡ giãn tĩnh mạch. Transamin hiệu quả không rõ ràng trong loét."
+        },
+        {
+          "q": "Xét nghiệm nào là KHÔNG cần thiết ngay tại thời điểm cấp cứu ban đầu?",
+          "options": [
+            "Nhóm máu và phản ứng chéo",
+            "Công thức máu toàn bộ",
+            "Chức năng đông máu (PT/APTT/INR)",
+            "Nội soi đại trực tràng toàn bộ"
+          ],
+          "answer": 3,
+          "explain": "Bệnh cảnh gợi ý rõ ràng chảy máu tiêu hóa trên (phân đen như nhựa đường, Urea tăng ưu thế so với Creatinin, tiền sử NSAIDs). Nội soi đại trực tràng ngay lập tức là không cần thiết và gây lãng phí thời gian cấp cứu ban đầu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 48 tuổi nôn ra máu tươi",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 48 tuổi, thất nghiệp.<br><br><b>Bệnh sử:</b> Vào viện vì nôn ra máu tươi số lượng lớn (khoảng 500mL). Sau khi uống rượu say, bệnh nhân nôn khan nhiều lần, sau đó nôn ra máu đỏ tươi lẫn máu cục, kèm đau rát vùng sau xương ức.<br><br><b>Tiền sử:</b> Nghiện rượu 10 năm (500ml rượu mạnh/ngày), chưa ghi nhận xơ gan hay nôn máu trước đây.<br><br><b>Khám lâm sàng:</b> Tỉnh, kích thích nhẹ, da niêm mạc nhợt, mạch 110 lần/phút, HA 90/60 mmHg, SpO2 96%, BMI 22 kg/m2. Khám bụng: Bụng mềm, không chướng, không tuần hoàn bàng hệ, gan mấp mé bờ sườn, lách không to. Dấu hiệu âm tính: Không đi ngoài phân đen trước đó, không dấu sao mạch, không lòng bàn tay son.<br><br><b>Xét nghiệm:</b> Hb 90 g/L, Tiểu cầu 180 G/L, INR 1.05. Albumin 38 g/L. Nội soi thực quản dạ dày thấy vết rách niêm mạc dọc tại vùng tâm vị - thực quản, đang rỉ máu.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định của bệnh nhân này là gì?",
+          "options": [
+            "Vỡ giãn tĩnh mạch thực quản độ III",
+            "Hội chứng Mallory-Weiss",
+            "Hội chứng Boerhaave",
+            "Viêm dạ dày cấp do rượu"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh điển hình: Nôn khan/nôn nhiều -> nôn ra máu + vết rách niêm mạc vùng tâm vị trên nội soi -> Hội chứng Mallory-Weiss. Không có dấu hiệu tăng áp cửa rõ rệt (TC bình thường, Albumin bình thường, không báng bụng) loại trừ vỡ giãn TM thực quản."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây ra tổn thương này là gì?",
+          "options": [
+            "Tăng áp lực tĩnh mạch cửa làm vỡ búi giãn",
+            "Tăng đột ngột áp lực trong ổ bụng và dạ dày khi nôn gắng sức",
+            "Acid dạ dày trào ngược gây loét thực quản",
+            "Nhiễm trùng cấp tính niêm mạc thực quản"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế Mallory-Weiss là do tăng áp lực đột ngột trong dạ dày truyền lên thực quản đoạn xa khi tâm vị không mở kịp trong quá trình nôn ọe, gây rách niêm mạc theo chiều dọc."
+        },
+        {
+          "q": "Phương pháp xử trí nội soi ưu tiên nếu vết rách đang chảy máu hoạt động (active bleeding) là gì?",
+          "options": [
+            "Tiêm xơ tĩnh mạch thực quản",
+            "Thắt thun (Band ligation) nhiều vòng",
+            "Tiêm cầm máu (Epinephrine) phối hợp kẹp Clip hoặc nhiệt",
+            "Đặt Stent thực quản tự nở"
+          ],
+          "answer": 2,
+          "explain": "Với Mallory-Weiss đang chảy máu: Tiêm Epinephrine phối hợp với phương pháp cơ học (Hemoclip) hoặc nhiệt (Thermal probe) là chuẩn (Dual therapy). Thắt thun (Banding) thường dùng cho vỡ giãn tĩnh mạch."
+        },
+        {
+          "q": "Đặc điểm nào sau đây giúp phân biệt hội chứng này với Hội chứng Boerhaave trên lâm sàng?",
+          "options": [
+            "Boerhaave thường gây tràn khí trung thất và nhiễm trùng nặng",
+            "Boerhaave chỉ rách lớp niêm mạc, không thủng toàn bộ thành",
+            "Boerhaave thường chảy máu ít hơn Mallory-Weiss",
+            "Boerhaave đáp ứng tốt với điều trị nội khoa bảo tồn"
+          ],
+          "answer": 0,
+          "explain": "Boerhaave là vỡ/thủng toàn bộ lớp thành thực quản, dẫn đến viêm trung thất, tràn khí dưới da/trung thất, sốc nhiễm trùng nặng. Mallory-Weiss chỉ rách niêm mạc/dưới niêm mạc."
+        },
+        {
+          "q": "Yếu tố nào sau đây KHÔNG phải là chỉ định phẫu thuật ở bệnh nhân này?",
+          "options": [
+            "Chảy máu tái phát nhiều lần dù đã can thiệp nội soi tối ưu",
+            "Nhu cầu truyền máu > 6 đơn vị trong 24h",
+            "Vết rách sâu gây thủng thực quản",
+            "Huyết động ổn định sau hồi sức ban đầu"
+          ],
+          "answer": 3,
+          "explain": "Phẫu thuật chỉ đặt ra khi thất bại điều trị nội soi/nội khoa (chảy máu ồ ạt, tái phát, cần truyền máu khối lượng lớn) hoặc có biến chứng thủng. Huyết động ổn định là dấu hiệu tốt, tiếp tục điều trị bảo tồn, không mổ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 72 tuổi đi ngoài ra máu đỏ tươi",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 72 tuổi, hưu trí.<br><br><b>Bệnh sử:</b> Vào viện vì đi ngoài ra máu đỏ tươi ồ ạt. Cách vào viện 3 giờ, bệnh nhân đột ngột cảm thấy muốn đi ngoài, sau đó đi tiêu ra nhiều máu đỏ tươi và máu cục, không đau bụng, không buồn nôn.<br><br><b>Tiền sử:</b> Tăng huyết áp 10 năm đang dùng Amlodipine, táo bón mạn tính, chưa từng soi đại trực tràng.<br><br><b>Khám lâm sàng:</b> Tỉnh, hơi lo lắng, mạch 95 lần/phút, HA 110/70 mmHg, da niêm mạc nhợt nhẹ. Khám bụng: Bụng mềm, không điểm đau khu trú, nhu động ruột tăng. Thăm trực tràng: Bóng trực tràng rỗng, có máu đỏ tươi theo găng, không sờ thấy u, không trĩ ngoại sa. Dấu hiệu âm tính: Không sốt, không sụt cân, không đau hậu môn.<br><br><b>Xét nghiệm:</b> Hb 105 g/L, INR 1.0. Đặt sonde dạ dày (NG tube) ra dịch trong, không có máu.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguyên nhân nào phù hợp nhất với bệnh cảnh \"chảy máu tiêu hóa dưới ồ ạt, không đau\" ở người cao tuổi này?",
+          "options": [
+            "Ung thư đại trực tràng",
+            "Bệnh trĩ nội độ IV",
+            "Chảy máu túi thừa đại tràng",
+            "Viêm đại tràng thiếu máu cục bộ"
+          ],
+          "answer": 2,
+          "explain": "Chảy máu túi thừa (Diverticular bleeding) điển hình là chảy máu ồ ạt, máu đỏ tươi, không đau bụng, thường gặp ở người già. Ung thư thường gây chảy máu rỉ rả/máu ẩn. Viêm đại tràng thiếu máu cục bộ thường kèm đau bụng nhiều. Trĩ thường chảy máu sau đi vệ sinh, ít khi ồ ạt gây tụt Hb nhanh mà không có tiền sử sa lồi."
+        },
+        {
+          "q": "Vị trí giải phẫu thường gặp nhất của túi thừa gây chảy máu là ở đâu?",
+          "options": [
+            "Đại tràng phải (manh tràng/đại tràng lên)",
+            "Đại tràng trái (đại tràng xuống)",
+            "Đại tràng Sigma",
+            "Trực tràng"
+          ],
+          "answer": 0,
+          "explain": "Mặc dù túi thừa hay gặp ở đại tràng Sigma (bên trái), nhưng chảy máu túi thừa lại thường xuất phát từ đại tràng phải (Right colon) do túi thừa ở đây có cổ rộng hơn và thành mỏng hơn, tiếp xúc với vasa recta lớn hơn (Theo Bailey & Love/Schwartz)."
+        },
+        {
+          "q": "Bước xử trí cận lâm sàng tiếp theo hợp lý nhất khi huyết động bệnh nhân đang ổn định là?",
+          "options": [
+            "Chụp mạch máu xóa nền (DSA) ngay lập tức",
+            "Nội soi đại trực tràng toàn bộ sau khi chuẩn bị ruột nhanh",
+            "Phẫu thuật cắt đoạn đại tràng thăm dò",
+            "Chụp X-quang bụng không chuẩn bị"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân huyết động ổn định -> Chuẩn bị ruột nhanh (PEG) và Nội soi đại tràng là phương pháp chẩn đoán và điều trị đầu tay. DSA/CTA thường dùng khi huyết động không ổn định hoặc nội soi thất bại."
+        },
+        {
+          "q": "Chọn tập hợp đúng về đặc điểm của chảy máu do túi thừa:\n(1) Thường tự cầm (75-80%)\n(2) Tái phát khoảng 20-40%\n(3) Luôn kèm theo viêm túi thừa cấp\n(4) Cơ chế do bào mòn động mạch vasa recta",
+          "options": [
+            "1, 2, 3",
+            "1, 2, 4",
+            "2, 3, 4",
+            "1, 3, 4"
+          ],
+          "answer": 1,
+          "explain": "(1) Đúng: đa số tự cầm. (2) Đúng: tỷ lệ tái phát đáng kể. (3) Sai: Chảy máu túi thừa thường không kèm viêm túi thừa (nếu viêm thì thường đau, sốt, ít chảy máu ồ ạt). (4) Đúng: tổn thương động mạch vasa recta tại cổ túi thừa."
+        },
+        {
+          "q": "Nếu bệnh nhân tiếp tục chảy máu ồ ạt gây tụt huyết áp và nội soi thất bại trong việc xác định điểm chảy máu, chỉ định nào sau đây là phù hợp nhất trước khi phẫu thuật?",
+          "options": [
+            "Chụp CT Angiography (CTA) để định vị",
+            "Thụt tháo đại tràng bằng nước ấm",
+            "Nội soi dạ dày kiểm tra lại",
+            "Truyền yếu tố VIIa tái tổ hợp"
+          ],
+          "answer": 0,
+          "explain": "Khi chảy máu ồ ạt không định vị được bằng nội soi và huyết động bất ổn/đe dọa, CTA (CT mạch máu) có độ nhạy cao (phát hiện tốc độ chảy 0.3-0.5 ml/phút) giúp định vị vị trí chảy máu để can thiệp mạch (Angioembolization) hoặc hướng dẫn phẫu thuật cắt đoạn ruột chính xác."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi nôn ra máu đỏ tươi và lơ mơ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi, nhân viên văn phòng.<br><br><b>Bệnh sử:</b> Vào viện vì nôn ra máu đỏ tươi và rối loạn tri giác. Bệnh nhân được người nhà đưa vào trong tình trạng lơ mơ. Trước đó 1 giờ nôn ra bát máu tươi.<br><br><b>Tiền sử:</b> Xơ gan do rượu 5 năm (Child-Pugh B), đã từng thắt tĩnh mạch thực quản 1 năm trước.<br><br><b>Khám lâm sàng:</b> Lơ mơ (Glasgow 12 điểm), da vàng, củng mạc mắt vàng, sao mạch (+). Mạch 120 l/p, HA 80/50 mmHg, chân tay lạnh. Bụng chướng vừa, gõ đục vùng thấp, lách to độ 3. Dấu hiệu âm tính: Không yếu liệt khu trú.<br><br><b>Xét nghiệm:</b> Hb 70 g/L, Tiểu cầu 60 G/L, PT% 50%, Albumin 28 g/L. NH3 máu tăng cao.",
+      "questions": [
+        {
+          "q": "Bước xử trí đầu tiên (Priority) theo nguyên tắc ABC đối với bệnh nhân này là gì?",
+          "options": [
+            "Đặt sonde Sengstaken-Blakemore để cầm máu ngay",
+            "Đặt nội khí quản bảo vệ đường thở",
+            "Nội soi thực quản dạ dày cấp cứu",
+            "Truyền ngay 2 đơn vị hồng cầu khối"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có rối loạn tri giác (Glasgow 12, lơ mơ) và đang nôn máu -> Nguy cơ hít sặc rất cao. Theo ATLS và các guideline, bảo vệ đường thở (Đặt nội khí quản) là ưu tiên hàng đầu trước khi nội soi hay đặt bóng chèn."
+        },
+        {
+          "q": "Thuốc vận mạch tạng (Vasoactive drug) nào được khuyến cáo dùng càng sớm càng tốt (ngay cả trước khi nội soi)?",
+          "options": [
+            "Adrenaline",
+            "Noradrenaline",
+            "Terlipressin hoặc Octreotide",
+            "Dopamine"
+          ],
+          "answer": 2,
+          "explain": "Terlipressin (hoặc Octreotide/Somatostatin) làm co mạch tạng, giảm áp lực tĩnh mạch cửa, được khuyến cáo dùng ngay khi nghi ngờ vỡ giãn TM thực quản (trước nội soi) để hỗ trợ cầm máu."
+        },
+        {
+          "q": "Kháng sinh dự phòng nào được khuyến cáo cho bệnh nhân xơ gan xuất huyết tiêu hóa?",
+          "options": [
+            "Ceftriaxone 1g/ngày IV",
+            "Metronidazole 500mg IV",
+            "Vancomycin 1g IV",
+            "Amoxicillin/Clavulanic acid uống"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân xơ gan xuất huyết có nguy cơ nhiễm trùng cao (viêm phúc mạc tiên phát, nhiễm trùng huyết) làm tăng tỷ lệ tử vong và tái xuất huyết. Ceftriaxone 1g IV là kháng sinh dự phòng chuẩn (guideline AASLD/EASL)."
+        },
+        {
+          "q": "Nếu nội soi thắt thun tĩnh mạch thực quản thất bại (máu vẫn chảy ồ ạt), biện pháp \"bắc cầu\" tạm thời hiệu quả nhất trước khi làm TIPS là gì?",
+          "options": [
+            "Phẫu thuật cắt lách",
+            "Đặt bóng chèn (Sengstaken-Blakemore)",
+            "Dùng PPI liều gấp đôi",
+            "Phẫu thuật nối cửa - chủ"
+          ],
+          "answer": 1,
+          "explain": "Đặt bóng chèn (Sengstaken-Blakemore hoặc Minnesota) là biện pháp cầm máu cơ học tạm thời (cứu vãn) hiệu quả cao trong khi chờ đợi các biện pháp can thiệp dứt điểm như TIPS (Thông cửa chủ qua da) hoặc phẫu thuật."
+        },
+        {
+          "q": "Nguyên nhân chính gây rối loạn tri giác ở bệnh nhân này là?",
+          "options": [
+            "Tai biến mạch máu não do rối loạn đông máu",
+            "Bệnh não gan do hấp thu đạm từ máu trong lòng ruột",
+            "Hạ đường huyết",
+            "Ngộ độc rượu cấp"
+          ],
+          "answer": 1,
+          "explain": "Máu trong lòng ruột chứa lượng lớn protein, vi khuẩn phân hủy tạo ra NH3. Gan suy không chuyển hóa được NH3 -> NH3 máu tăng -> Bệnh não gan (Hôn mê gan)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 68 tuổi mệt mỏi và sụt cân",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 68 tuổi, nông dân.<br><br><b>Bệnh sử:</b> Vào viện vì mệt mỏi và sụt cân. 3 tháng nay bệnh nhân thấy người mệt mỏi, hoa mắt khi làm việc nặng, sụt 4kg không rõ lý do. Đại tiện phân vàng khuôn, đôi khi xen kẽ táo bón và lỏng, không nhìn thấy máu trong phân.<br><br><b>Tiền sử:</b> Khỏe mạnh, gia đình không ai mắc ung thư.<br><br><b>Khám lâm sàng:</b> Tỉnh, da xanh tái, niêm mạc nhợt nhạt, mạch 90 l/p, HA 130/80 mmHg, BMI 18.5. Khám bụng: Bụng mềm, sờ thấy khối chắc di động kém ở hố chậu phải, ấn đau tức nhẹ.<br><br><b>Xét nghiệm:</b> Hb 75 g/L, MCV 72 fL (Hồng cầu nhỏ), Ferritin giảm thấp. Xét nghiệm tìm máu ẩn trong phân (FOBT) dương tính.",
+      "questions": [
+        {
+          "q": "Vị trí tổn thương nghi ngờ nhất dựa trên lâm sàng là?",
+          "options": [
+            "Đại tràng Sigma",
+            "Trực tràng",
+            "Manh tràng/Đại tràng lên",
+            "Ruột non"
+          ],
+          "answer": 2,
+          "explain": "Ung thư đại tràng phải thường biểu hiện bằng thiếu máu thiếu sắt mạn tính (do chảy máu rỉ rả), sụt cân, mệt mỏi, và khối u sờ thấy hố chậu phải. Ung thư đại tràng trái thường gây tắc ruột hoặc thay đổi khuôn phân/máu đỏ tươi rõ."
+        },
+        {
+          "q": "Đặc điểm thiếu máu ở bệnh nhân ung thư đại tràng phải thường là do?",
+          "options": [
+            "Chảy máu ồ ạt từng đợt",
+            "Chảy máu rỉ rả kéo dài gây thiếu máu thiếu sắt mạn tính",
+            "Suy tủy xương do di căn",
+            "Kém hấp thu Vitamin B12"
+          ],
+          "answer": 1,
+          "explain": "Lòng manh tràng rộng, phân còn lỏng nên ít gây tắc ruột. Tổn thương dạng loét sùi gây mất máu vi thể (occult blood) kéo dài -> Thiếu máu hồng cầu nhỏ nhược sắc (thiếu sắt)."
+        },
+        {
+          "q": "Phương pháp chẩn đoán hình ảnh nào là tốt nhất để đánh giá giai đoạn (Staging) trước mổ?",
+          "options": [
+            "Siêu âm ổ bụng",
+            "Chụp cắt lớp vi tính (CT scan) bụng chậu có tiêm thuốc cản quang",
+            "X-quang khung đại tràng cản quang",
+            "MRI sọ não"
+          ],
+          "answer": 1,
+          "explain": "CT scan bụng chậu có cản quang là tiêu chuẩn để đánh giá xâm lấn tại chỗ (T), hạch vùng (N) và di căn xa (M) như gan, phúc mạc."
+        },
+        {
+          "q": "Chỉ số CEA (Carcinoembryonic Antigen) có vai trò chính là gì trong bệnh cảnh này?",
+          "options": [
+            "Chẩn đoán xác định ung thư",
+            "Tầm soát ung thư trong cộng đồng",
+            "Theo dõi tái phát sau điều trị và tiên lượng",
+            "Xác định vị trí khối u"
+          ],
+          "answer": 2,
+          "explain": "CEA không đặc hiệu để chẩn đoán (có thể tăng trong viêm, hút thuốc) và độ nhạy thấp ở giai đoạn sớm. Giá trị chính là theo dõi đáp ứng điều trị và phát hiện tái phát sau mổ."
+        },
+        {
+          "q": "Nguyên tắc phẫu thuật triệt căn đối với ung thư đại tràng phải là?",
+          "options": [
+            "Cắt đoạn đại tràng chứa u và lấy hạch vùng lân cận",
+            "Cắt nửa đại tràng phải kèm thắt các bó mạch hồi - đại tràng, đại tràng phải, nhánh phải động mạch đại tràng giữa và nạo vét hạch tương ứng",
+            "Chỉ cắt khối u để bảo tồn ruột",
+            "Cắt toàn bộ đại tràng"
+          ],
+          "answer": 1,
+          "explain": "Phẫu thuật chuẩn: Cắt nửa đại tràng phải (Right Hemicolectomy) đảm bảo diện cắt cách u tối thiểu 5-10cm, thắt tận gốc các mạch máu nuôi (Hồi đại tràng, ĐT phải, nhánh phải ĐT giữa) để lấy toàn bộ mạc treo chứa hệ thống hạch bạch huyết vùng (nguyên tắc phẫu thuật ung thư)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi đau bụng dữ dội và đi ngoài ra máu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì đau bụng dữ dội vùng hố chậu trái và đi ngoài ra máu. Khởi phát đau quặn bụng đột ngột vùng hố chậu trái sau ăn, sau đó 2 giờ đi ngoài ra phân lỏng lẫn máu đỏ sẫm và máu cục.<br><br><b>Tiền sử:</b> Hẹp động mạch vành đã đặt stent 1 năm, đang dùng Aspirin và Clopidogrel.<br><br><b>Khám lâm sàng:</b> Tỉnh, vã mồ hôi, mạch 110 l/p (rung nhĩ), HA 100/60 mmHg. Bụng mềm, ấn đau khu trú vùng đại tràng xuống và Sigma, không có phản ứng thành bụng.<br><br><b>Xét nghiệm:</b> Bạch cầu 15 G/L, Lactate máu 2.5 mmol/L. Nội soi đại tràng (thực hiện thận trọng): Niêm mạc đại tràng trái phù nề, tím tái, có các mảng xuất huyết, ranh giới rõ với vùng lành, trực tràng bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán khả năng nhất là gì?",
+          "options": [
+            "Viêm loét đại tràng chảy máu (UC)",
+            "Viêm đại tràng thiếu máu cục bộ (Ischemic Colitis)",
+            "Nhồi máu mạc treo (Mesenteric Ischemia) do tắc động mạch mạc treo tràng trên",
+            "Viêm túi thừa cấp"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh đau bụng đột ngột vùng hố chậu trái + đi ngoài ra máu ở bệnh nhân có yếu tố nguy cơ tim mạch (rung nhĩ, bệnh mạch vành) gợi ý Viêm đại tràng thiếu máu cục bộ. Nhồi máu mạc treo (tắc SMA) thường đau dữ dội lan tỏa nhưng khám bụng nghèo nàn giai đoạn đầu và tổn thương ruột non là chính."
+        },
+        {
+          "q": "Vị trí tổn thương điển hình của bệnh lý này thường nằm ở vùng giáp ranh mạch máu (\"Watershed areas\"), đó là điểm nào?",
+          "options": [
+            "Điểm Griffith (Góc lách) và Điểm Sudeck (Đại tràng Sigma - Trực tràng)",
+            "Manh tràng",
+            "Góc gan",
+            "Hành tá tràng"
+          ],
+          "answer": 0,
+          "explain": "Vùng \"Watershed\" (giáp ranh tưới máu giữa các động mạch lớn) là nơi dễ bị thiếu máu nhất khi giảm tưới máu (hypoperfusion). Điểm Griffith (giáp ranh SMA và IMA ở góc lách) và điểm Sudeck (giáp ranh IMA và ĐM trực tràng ở đoạn nối Sigma-Trực tràng)."
+        },
+        {
+          "q": "Hình ảnh \"Dấu ấn ngón tay\" (Thumbprinting) trên phim X-quang hoặc CT biểu thị điều gì?",
+          "options": [
+            "Khối u sùi vào lòng ruột",
+            "Phù nề dưới niêm mạc do thiếu máu/xuất huyết",
+            "Túi thừa bị viêm",
+            "Phân đóng tảng"
+          ],
+          "answer": 1,
+          "explain": "Thumbprinting là hình ảnh dày thành ruột do phù nề và xuất huyết lớp dưới niêm mạc, điển hình của thiếu máu ruột."
+        },
+        {
+          "q": "Yếu tố nguy cơ chính thúc đẩy tình trạng này ở bệnh nhân trên là?",
+          "options": [
+            "Dùng Aspirin",
+            "Rung nhĩ và bệnh lý mạch vành",
+            "Tuổi cao",
+            "Tất cả các ý trên"
+          ],
+          "answer": 1,
+          "explain": "Rung nhĩ (nguy cơ cục máu đông nhỏ), xơ vữa mạch, giảm cung lượng tim đều là yếu tố nguy cơ. Aspirin/Clopidogrel có thể làm nặng thêm tình trạng chảy máu nhưng không phải nguyên nhân gây tắc mạch."
+        },
+        {
+          "q": "Chọn câu SAI về điều trị viêm đại tràng thiếu máu cục bộ:",
+          "options": [
+            "Đa số các trường hợp tự hồi phục với điều trị nội khoa (bù dịch, kháng sinh, nghỉ ruột)",
+            "Cần phẫu thuật ngay lập tức cho tất cả các trường hợp để tránh hoại tử",
+            "Phẫu thuật chỉ đặt ra khi có dấu hiệu viêm phúc mạc, hoại tử ruột hoặc chảy máu không cầm",
+            "Cần tối ưu hóa cung lượng tim và ngừng các thuốc gây co mạch"
+          ],
+          "answer": 1,
+          "explain": "Câu B sai. Khác với nhồi máu mạc treo ruột non (cần mổ cấp cứu để lấy huyết khối/cắt ruột), viêm đại tràng thiếu máu cục bộ (Ischemic colitis) thường là thể non-occlusive (không tắc hoàn toàn mạch lớn) và khu trú ở niêm mạc/dưới niêm mạc, 80-90% tự hồi phục bằng điều trị nội khoa bảo tồn. Phẫu thuật chỉ khi có biến chứng hoại tử/thủng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi nôn ra máu tái phát",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 58 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì nôn ra máu tái phát lần 3. Lần này vào viện nôn ra 1 lít máu đỏ tươi, HA tụt 80/50 mmHg. Sau hồi sức tích cực và truyền 4 đơn vị máu, huyết động tạm ổn. 12 giờ sau nội soi lần 1, bệnh nhân nôn lại ra máu tươi.<br><br><b>Tiền sử:</b> Loét dạ dày đã điều trị nội khoa nhiều đợt.<br><br><b>Khám lâm sàng:</b> Mạch nhanh 110 l/p, HA tụt.<br><br><b>Xét nghiệm:</b> Nội soi lần 1: ổ loét bờ cong nhỏ kích thước 2cm, Forrest Ia (máu phun thành tia), đã tiêm Adrenaline và kẹp Clip. Nội soi lần 2: Máu chảy từ chân ổ loét cũ, can thiệp cầm máu khó khăn. Hb tụt xuống 60 g/L sau khi đã bù.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất cho tình trạng hiện tại?",
+          "options": [
+            "Chảy máu tiêu hóa tái phát mức độ nặng",
+            "Chảy máu tiêu hóa mức độ nhẹ",
+            "Thủng dạ dày",
+            "Hẹp môn vị"
+          ],
+          "answer": 0,
+          "explain": "Tái xuất huyết sau can thiệp nội soi kèm tụt huyết áp và Hb giảm thấp là dấu hiệu nặng."
+        },
+        {
+          "q": "Ổ loét bờ cong nhỏ dạ dày có nguy cơ chảy máu cao và khó cầm do liên quan đến động mạch nào?",
+          "options": [
+            "Động mạch vị mạc nối phải",
+            "Động mạch vị trái",
+            "Động mạch lách",
+            "Động mạch gan chung"
+          ],
+          "answer": 1,
+          "explain": "Ổ loét bờ cong nhỏ (nhất là loét cao) ăn mòn vào Động mạch vị trái (Left gastric artery) - một động mạch lớn xuất phát trực tiếp từ Động mạch thân tạng, áp lực lớn nên rất khó cầm và nguy hiểm."
+        },
+        {
+          "q": "Thái độ xử trí thích hợp nhất lúc này là gì?",
+          "options": [
+            "Tiếp tục nội soi can thiệp lần 3",
+            "Tăng liều PPI và theo dõi",
+            "Phẫu thuật cấp cứu",
+            "Chụp mạch nút mạch (Angioembolization) nếu có thể, hoặc phẫu thuật"
+          ],
+          "answer": 3,
+          "explain": "Theo guideline: Sau thất bại nội soi lần 2 hoặc chảy máu tái phát nặng, cần chuyển sang Can thiệp mạch (Nút mạch) hoặc Phẫu thuật. Tiếp tục nội soi lần 3 thường ít hiệu quả và tăng nguy cơ thủng biến chứng."
+        },
+        {
+          "q": "Nếu phẫu thuật, phương pháp nào thường được áp dụng cho ổ loét dạ dày bờ cong nhỏ chảy máu?",
+          "options": [
+            "Khâu cầm máu ổ loét đơn thuần",
+            "Cắt dây thần kinh X",
+            "Cắt đoạn dạ dày (bao gồm ổ loét)",
+            "Nối vị tràng"
+          ],
+          "answer": 2,
+          "explain": "Với loét DẠ DÀY (Gastric ulcer), nguy cơ ung thư hóa có thể có và khâu cầm máu đơn thuần tỷ lệ tái phát cao, khó khâu do xơ chai. Phẫu thuật triệt để thường là Cắt đoạn dạ dày (Gastrectomy) lấy bỏ ổ loét (ví dụ cắt hang vị hoặc cắt bán phần). Khác với loét TÁ TRÀNG (thường chỉ cần khâu cầm máu + cắt dây X hoặc tạo hình môn vị)."
+        },
+        {
+          "q": "Dấu hiệu nào sau đây là chỉ định \"mổ tuyệt đối\" trong chảy máu loét dạ dày tá tràng?",
+          "options": [
+            "Tuổi > 60",
+            "Chảy máu ồ ạt đe dọa tính mạng mà nội soi thất bại hoặc không thể can thiệp",
+            "Ổ loét > 2cm",
+            "Forrest IIa"
+          ],
+          "answer": 1,
+          "explain": "Chỉ định mổ tuyệt đối: Thất bại với điều trị nội/nội soi (chảy máu không cầm, tái phát nặng), hoặc chảy máu kèm thủng. Các yếu tố như tuổi, kích thước chỉ là yếu tố tiên lượng (yếu tố tương đối)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi đi ngoài phân đen kéo dài",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 35 tuổi, công nhân xây dựng.<br><br><b>Bệnh sử:</b> Vào viện vì da xanh, mệt mỏi và đi ngoài phân đen. Bệnh nhân không đau bụng, không rối loạn đại tiện, nhưng đi ngoài phân đen sệt kéo dài 2 tuần nay.<br><br><b>Tiền sử:</b> Khỏe mạnh, không uống rượu, không dùng thuốc giảm đau.<br><br><b>Khám lâm sàng:</b> Da xanh, mệt mỏi.<br><br><b>Xét nghiệm:</b> Nội soi dạ dày: Bình thường. Nội soi đại tràng: Có máu cũ vùng hồi tràng đổ vào manh tràng, niêm mạc đại trực tràng bình thường. Chụp CT bụng: Không thấy u cục.",
+      "questions": [
+        {
+          "q": "Vị trí chảy máu nghi ngờ nằm ở đoạn ruột nào?",
+          "options": [
+            "Thực quản",
+            "Dạ dày",
+            "Ruột non (Ruột giữa - Small bowel)",
+            "Trực tràng"
+          ],
+          "answer": 2,
+          "explain": "Nội soi trên (dạ dày) và dưới (đại tràng) đều âm tính (chỉ thấy máu từ hồi tràng đổ xuống) -> Chẩn đoán là Chảy máu ruột non (Obscure GI bleeding/Small bowel bleeding)."
+        },
+        {
+          "q": "Một nguyên nhân bẩm sinh phổ biến gây chảy máu ruột non ở người trẻ tuổi là?",
+          "options": [
+            "Túi thừa Meckel",
+            "Viêm ruột thừa",
+            "Polyp đại tràng",
+            "Dị dạng mạch máu (Angiodysplasia)"
+          ],
+          "answer": 0,
+          "explain": "Ở người trẻ (< 40 tuổi), nguyên nhân chảy máu ruột non hay gặp là Túi thừa Meckel, Polyps (Hội chứng Peutz-Jeghers), hoặc bệnh Crohn. Dị dạng mạch máu (Angiodysplasia) thường gặp ở người già."
+        },
+        {
+          "q": "Túi thừa Meckel chảy máu thường do chứa mô lạc chỗ loại nào?",
+          "options": [
+            "Mô tụy lạc chỗ",
+            "Niêm mạc dạ dày lạc chỗ tiết acid gây loét",
+            "Mô gan lạc chỗ",
+            "Mô lách lạc chỗ"
+          ],
+          "answer": 1,
+          "explain": "Túi thừa Meckel là di tích ống noãn hoàng. Khoảng 50% túi thừa có triệu chứng chứa niêm mạc dạ dày lạc chỗ (heterotopic gastric mucosa). Acid tiết ra từ niêm mạc này gây loét niêm mạc hồi tràng lân cận -> Chảy máu không đau."
+        },
+        {
+          "q": "Phương pháp chẩn đoán hình ảnh y học hạt nhân (Scintigraphy) dùng đồng vị phóng xạ Technetium-99m (Meckel's scan) dựa trên nguyên lý gì?",
+          "options": [
+            "Gắn vào hồng cầu để phát hiện điểm chảy máu",
+            "Bắt giữ bởi niêm mạc dạ dày lạc chỗ",
+            "Phát hiện viêm nhiễm",
+            "Gắn vào tế bào ung thư"
+          ],
+          "answer": 1,
+          "explain": "Meckel's scan sử dụng Tc-99m pertechnetate, chất này được tế bào tiết nhầy của niêm mạc dạ dày bắt giữ -> Hiện hình túi thừa chứa niêm mạc dạ dày."
+        },
+        {
+          "q": "Vị trí giải phẫu của túi thừa Meckel thường tuân theo \"Quy luật số 2\", bao gồm các ý sau TRỪ:",
+          "options": [
+            "Cách van hồi manh tràng khoảng 2 feet (60cm)",
+            "Dài khoảng 2 inch",
+            "Gặp ở 20% dân số",
+            "Thường gây biến chứng trước 2 tuổi (ở trẻ em)"
+          ],
+          "answer": 2,
+          "explain": "Quy luật số 2 của Meckel: Cách van hồi manh tràng 2 feet, dài 2 inch, gặp ở 2% dân số (không phải 20%), tỷ lệ nam nữ là 2:1, thường có 2 loại mô lạc chỗ (dạ dày, tụy). Đáp án C là câu SAI (TRỪ)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 75 tuổi suy thận mạn đi ngoài phân đen",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 75 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì đi ngoài phân đen dai dẳng, Hb giảm còn 60 g/L cần truyền máu liên tục.<br><br><b>Tiền sử:</b> Suy thận mạn lọc máu chu kỳ.<br><br><b>Khám lâm sàng:</b> Phân đen.<br><br><b>Xét nghiệm:</b> Nội soi dạ dày và đại tràng nhiều lần không tìm thấy điểm chảy máu rõ ràng, chỉ thấy vài chấm đỏ rải rác ở manh tràng và ruột non đoạn đầu qua nội soi viên nang (Capsule Endoscopy).",
+      "questions": [
+        {
+          "q": "Nguyên nhân gây chảy máu \"ẩn\" (Obscure) hay gặp nhất ở người cao tuổi, đặc biệt có suy thận mạn là?",
+          "options": [
+            "Loạn sản mạch máu (Angiodysplasia/AVM)",
+            "Ung thư ruột non",
+            "Lao ruột",
+            "Lồng ruột"
+          ],
+          "answer": 0,
+          "explain": "Angiodysplasia (Loạn sản mạch) là nguyên nhân hàng đầu gây chảy máu ruột non/manh tràng ở người già (>60t) và đặc biệt phổ biến ở bệnh nhân suy thận mạn (uremia làm rối loạn chức năng tiểu cầu và thành mạch)."
+        },
+        {
+          "q": "Đặc điểm hình ảnh nội soi của Angiodysplasia là gì?",
+          "options": [
+            "Khối u sùi loét",
+            "Các đám mạch máu giãn hình mạng nhện, màu đỏ, phẳng hoặc gồ nhẹ, hình sao",
+            "Vết rách niêm mạc",
+            "Túi thừa lõm sâu"
+          ],
+          "answer": 1,
+          "explain": "Hình ảnh điển hình là các đám giãn mạch màu đỏ tươi (cherry red), hình sao hoặc như mạng nhện (fern-like), kích thước 2-10mm."
+        },
+        {
+          "q": "Hội chứng Heyde là sự kết hợp giữa chảy máu do loạn sản mạch ruột (Angiodysplasia) với bệnh lý tim mạch nào?",
+          "options": [
+            "Hẹp hở van hai lá",
+            "Hẹp van động mạch chủ (Aortic Stenosis)",
+            "Suy tim phải",
+            "Viêm màng ngoài tim"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng Heyde: Hẹp van động mạch chủ (Aortic Stenosis) + Chảy máu tiêu hóa do Angiodysplasia. Thay van động mạch chủ thường làm hết chảy máu."
+        },
+        {
+          "q": "Cơ chế chảy máu trong Hội chứng Heyde liên quan đến sự thiếu hụt mắc phải của yếu tố đông máu nào?",
+          "options": [
+            "Yếu tố VIII",
+            "Yếu tố von Willebrand (vWF)",
+            "Fibrinogen",
+            "Yếu tố V"
+          ],
+          "answer": 1,
+          "explain": "Dòng máu xoáy mạnh qua van động mạch chủ hẹp làm phá hủy các phân tử von Willebrand multimers cao phân tử (hội chứng von Willebrand mắc phải type 2A), gây dễ chảy máu tại các mạch máu loạn sản."
+        },
+        {
+          "q": "Phương pháp điều trị qua nội soi (nếu tiếp cận được) hiệu quả đối với các tổn thương loạn sản mạch này là?",
+          "options": [
+            "Tiêm cồn tuyệt đối",
+            "Đốt Argon Plasma (APC)",
+            "Thắt thun",
+            "Khâu vắt"
+          ],
+          "answer": 1,
+          "explain": "APC (Argon Plasma Coagulation) là phương pháp nhiệt không tiếp xúc, an toàn và hiệu quả để đốt các tổn thương mạch máu nông trên diện rộng như Angiodysplasia, hạn chế nguy cơ thủng ruột."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi nôn ra máu sét đánh",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Bệnh sử:</b> Được đưa vào cấp cứu vì nôn ra máu sét đánh (rất dữ dội), trụy mạch ngay lập tức. Đột ngột nôn ra máu tươi ồ ạt, huyết áp tụt kẹt.<br><br><b>Tiền sử:</b> Uống rượu, trước đó hoàn toàn khỏe mạnh, không đau thượng vị.<br><br><b>Khám lâm sàng:</b> Trụy mạch, huyết áp tụt kẹt.<br><br><b>Xét nghiệm:</b> Sau hồi sức và nội soi cấp cứu: Dạ dày chứa đầy máu cục, sau khi rửa sạch thấy một mạch máu nhỏ phun thành tia ở vùng thân vị, xung quanh niêm mạc hoàn toàn bình thường, không có ổ loét.",
+      "questions": [
+        {
+          "q": "Tổn thương mô tả trên gợi ý chẩn đoán gì (một nguyên nhân hiếm gặp nhưng nguy hiểm)?",
+          "options": [
+            "Ổ loét Dieulafoy (Dieulafoy's lesion)",
+            "Ung thư dạ dày thể thâm nhiễm",
+            "Viêm dạ dày xuất huyết",
+            "Polyp dạ dày chảy máu"
+          ],
+          "answer": 0,
+          "explain": "Đặc điểm \"Mạch máu phun tia từ nền niêm mạc bình thường\", không có loét xung quanh, nôn máu ồ ạt là điển hình của Dieulafoy."
+        },
+        {
+          "q": "Bản chất giải phẫu bệnh của tổn thương Dieulafoy là gì?",
+          "options": [
+            "Một ổ loét mạn tính ăn mòn vào mạch máu",
+            "Một động mạch dưới niêm mạc có khẩu kính lớn bất thường, không giảm kích thước khi đi ra xa bờ cong nhỏ, bị trợt nông",
+            "Giãn tĩnh mạch dạ dày",
+            "Dị dạng động - tĩnh mạch (AVM)"
+          ],
+          "answer": 1,
+          "explain": "Dieulafoy không phải là loét thực sự. Nó là một động mạch dưới niêm mạc \"bền vững\" (persistent), khẩu kính lớn (1-3mm, gấp 10 lần bình thường) không thu nhỏ lại (taper) khi đi tới niêm mạc. Một vết trợt nhỏ xíu ngay trên đỉnh mạch máu làm nó phun máu."
+        },
+        {
+          "q": "Vị trí thường gặp nhất của tổn thương Dieulafoy là ở đâu?",
+          "options": [
+            "Hành tá tràng",
+            "Dạ dày, vùng tâm vị - phình vị dọc theo bờ cong nhỏ (cách tâm vị trong vòng 6cm)",
+            "Hang vị",
+            "Thực quản"
+          ],
+          "answer": 1,
+          "explain": "75-95% nằm ở phần trên dạ dày (gần tâm vị), dọc bờ cong nhỏ (lesser curvature) do cấp máu trực tiếp từ các nhánh động mạch vị trái."
+        },
+        {
+          "q": "Tại sao tổn thương này thường khó chẩn đoán và dễ bỏ sót trên nội soi?",
+          "options": [
+            "Vì tổn thương nằm sâu dưới lớp cơ",
+            "Vì tổn thương rất nhỏ, khi không chảy máu thì mạch máu co lại và bị che phủ bởi nếp niêm mạc bình thường",
+            "Vì tổn thương luôn nằm ở mặt sau tá tràng",
+            "Vì máy nội soi không soi tới được"
+          ],
+          "answer": 1,
+          "explain": "Khi huyết áp tụt hoặc mạch co lại, tổn thương co rút xuống dưới niêm mạc, và vì không có ổ loét xung quanh (niêm mạc lành) nên rất khó nhìn thấy (như tìm \"cây kim đáy bể\" trong hồ máu)."
+        },
+        {
+          "q": "Biện pháp điều trị nội soi ưu tiên cho tổn thương Dieulafoy là?",
+          "options": [
+            "Chỉ cần tiêm Adrenaline là đủ",
+            "Phối hợp kẹp Clip cơ học (hoặc thắt thun) trực tiếp vào mạch máu nổi gồ",
+            "Chờ tự cầm",
+            "Cắt đoạn dạ dày ngay"
+          ],
+          "answer": 1,
+          "explain": "Vì là động mạch áp lực lớn, đơn trị liệu (chỉ tiêm Adrenaline) có tỷ lệ tái phát cao. Cần kẹp Clip hoặc thắt thun (banding) trực tiếp vào búi mạch để kẹp tắt mạch máu cơ học là hiệu quả nhất."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi nôn ra dịch nâu đen và đi cầu phân đen",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 65 tuổi.<br><br><b>Bệnh sử:</b> Đột ngột nôn ra khoảng 500 mL dịch màu nâu đen lẫn máu cục, kèm đi cầu phân đen sệt mùi khắm. Bệnh nhân không ho kéo dài, không nôn khan trước đó.<br><br><b>Tiền sử:</b> Thoái hóa khớp gối nặng đang dùng diclofenac liên tục 2 tháng nay. Bệnh nhân không có tiền sử bệnh gan, không uống rượu.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh nhưng mệt lả, da xanh xao, vã mồ hôi lạnh, mạch 115 lần/phút, huyết áp 90/60 mmHg, nhịp thở 22 lần/phút. Khám bụng mềm, không chướng, ấn tức nhẹ vùng thượng vị, không có phản ứng thành bụng, gan lách không sờ chạm. Thăm trực tràng có phân đen dính găng.<br><br><b>Xét nghiệm:</b> Tại giường: Hb 75 g/L, ure máu 14 mmol/L, creatinin 90 µmol/L, đông máu cơ bản bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguyên nhân phù hợp nhất là gì?",
+          "options": [
+            "Vỡ tĩnh mạch thực quản",
+            "Hội chứng Mallory-Weiss",
+            "Loét dạ dày tá tràng",
+            "Chảy máu đường mật cấp"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân lớn tuổi, tiền sử dùng thuốc NSAID (diclofenac) kéo dài, biểu hiện hội chứng chảy máu tiêu hóa trên (nôn máu nâu đen, đi cầu phân đen), khám không có dấu hiệu xơ gan (gan lách không to) hay tăng áp cửa. Các dữ kiện lâm sàng này điển hình cho xuất huyết do loét dạ dày tá tràng."
+        },
+        {
+          "q": "Cơ chế chính dẫn đến chỉ số Ure máu tăng cao ở bệnh nhân này là gì?",
+          "options": [
+            "Phân giải protein trong ruột",
+            "Suy thận cấp trước thận",
+            "Suy gan cấp tính thứ phát",
+            "Tác dụng phụ của diclofenac"
+          ],
+          "answer": 0,
+          "explain": "Sự gia tăng nồng độ Ure máu không tương xứng với Creatinin (tỷ lệ Ure/Creatinin tăng cao) trong xuất huyết tiêu hóa trên là do hồng cầu và protein trong máu bị vi khuẩn đường ruột phân giải, sau đó sản phẩm sinh ra được hấp thu lại vào máu."
+        },
+        {
+          "q": "Bước xử trí nào cần được thực hiện ưu tiên ngay khi tiếp nhận?",
+          "options": [
+            "Nội soi dạ dày cấp cứu",
+            "Chụp cắt lớp vi tính bụng",
+            "Tiêm tĩnh mạch thuốc giảm tiết",
+            "Hồi sức truyền dịch tĩnh mạch"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân đang ở trong tình trạng sốc giảm thể tích (mạch 115 lần/phút, huyết áp tụt 90/60 mmHg, vã mồ hôi). Theo nguyên tắc ABCDE, lập đường truyền tĩnh mạch lớn để hồi sức bù dịch tinh thể phải được ưu tiên hàng đầu để bảo đảm tưới máu mô trước khi thực hiện bất kỳ thăm dò nào."
+        },
+        {
+          "q": "Lựa chọn thuốc điều trị nội khoa ưu tiên sau khi hồi sức là gì?",
+          "options": [
+            "Terlipressin tiêm tĩnh mạch",
+            "Thuốc ức chế bơm proton",
+            "Acid tranexamic truyền tĩnh mạch",
+            "Somatostatin truyền tĩnh mạch"
+          ],
+          "answer": 1,
+          "explain": "Thuốc ức chế bơm proton (PPI) tiêm tĩnh mạch liều cao có vai trò nâng pH dạ dày > 6, làm ổn định cục máu đông và ức chế quá trình tiêu sợi huyết tại ổ loét, được ưu tiên dùng ngay từ đầu. Terlipressin hay somatostatin ưu tiên cho vỡ tĩnh mạch thực quản."
+        },
+        {
+          "q": "Chỉ định mổ cấp cứu được đặt ra ưu tiên trong trường hợp nào sau đây?",
+          "options": [
+            "Chảy máu ồ ạt soi thất bại",
+            "Phát hiện ổ loét kích thước lớn",
+            "Đi ngoài phân đen nhiều ngày",
+            "Huyết sắc tố giảm dưới 70 g/L"
+          ],
+          "answer": 0,
+          "explain": "Can thiệp phẫu thuật khâu cầm máu ổ loét hoặc cắt dạ dày được chỉ định tuyệt đối khi các biện pháp ít xâm lấn (nội soi 2 lần) thất bại, hoặc máu chảy quá ồ ạt khiến hồi sức không thể đưa huyết động về mức an toàn để tiến hành nội soi."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi nôn ra máu đỏ tươi ồ ạt",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 55 tuổi.<br><br><b>Bệnh sử:</b> Được người nhà đưa vào cấp cứu vì đột ngột nôn ồ ạt khoảng 1000 mL máu đỏ tươi không lẫn thức ăn, không đau bụng.<br><br><b>Tiền sử:</b> Viêm gan B và xơ gan do rượu.<br><br><b>Khám lâm sàng:</b> Lúc vào viện, bệnh nhân lơ mơ, da niêm mạc vàng sậm, mạch 120 lần/phút, huyết áp 85/50 mmHg. Khám lâm sàng ghi nhận báng ổ bụng lượng vừa, tuần hoàn bàng hệ rõ trên thành bụng, lách to dưới bờ sườn 3 cm.<br><br><b>Xét nghiệm:</b> Xét nghiệm nhanh: Hb 65 g/L, tiểu cầu 50 G/L, INR 1.9.<br><br><b>Tình trạng phẫu thuật:</b> Bệnh nhân đang được thở oxy và thiết lập đường truyền tĩnh mạch ngoại vi.",
+      "questions": [
+        {
+          "q": "Cơ chế sinh lý bệnh cốt lõi gây vỡ mạch máu ở bệnh nhân này là gì?",
+          "options": [
+            "Viêm loét hoại tử niêm mạc",
+            "Tăng áp lực tĩnh mạch cửa",
+            "Rối loạn đông máu toàn thân",
+            "Tổn thương động mạch xuyên thành"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh xơ gan tiến triển với hội chứng suy tế bào gan và hội chứng tăng áp tĩnh mạch cửa rầm rộ (báng bụng, tuần hoàn bàng hệ, lách to). Cơ chế cốt lõi gây xuất huyết là sự gia tăng áp lực tĩnh mạch cửa làm giãn mỏng và vỡ hệ tĩnh mạch bàng hệ vùng thực quản - tâm vị."
+        },
+        {
+          "q": "Thuốc nào sau đây nên được chỉ định sớm để giảm lưu lượng máu tạng?",
+          "options": [
+            "Adrenalin truyền tĩnh mạch",
+            "Dopamin truyền tĩnh mạch",
+            "Octreotide truyền tĩnh mạch",
+            "Noradrenalin truyền tĩnh mạch"
+          ],
+          "answer": 2,
+          "explain": "Octreotide (cùng với Terlipressin hoặc Somatostatin) là các thuốc co mạch nội tạng đặc hiệu, giúp làm giảm lưu lượng máu đến hệ tĩnh mạch cửa, từ đó giảm áp lực tĩnh mạch cửa và hỗ trợ cầm máu. Cần truyền sớm song song với quá trình hồi sức dịch."
+        },
+        {
+          "q": "Mức mục tiêu truyền khối hồng cầu tối ưu cho bệnh nhân này là bao nhiêu?",
+          "options": [
+            "Giữ mức từ 90 đến 100 g/L",
+            "Giữ mức trên 100 g/L",
+            "Giữ mức từ 50 đến 60 g/L",
+            "Giữ mức từ 70 đến 80 g/L"
+          ],
+          "answer": 3,
+          "explain": "Ở bệnh nhân chảy máu tiêu hóa do vỡ giãn tĩnh mạch cửa, truyền máu theo chiến lược hạn chế với mục tiêu duy trì Hb ở mức 70-80 g/L được chứng minh làm cải thiện tỷ lệ sống còn. Truyền quá nhiều máu làm tăng thể tích tuần hoàn sẽ dội ngược áp lực làm vỡ búi giãn tái phát."
+        },
+        {
+          "q": "Phương pháp can thiệp qua nội soi nào là lựa chọn hàng đầu?",
+          "options": [
+            "Thắt tĩnh mạch bằng vòng cao su",
+            "Kẹp clip kim loại qua nội soi",
+            "Tiêm cồn tuyệt đối tại búi giãn",
+            "Phun bột cầm máu trên bề mặt"
+          ],
+          "answer": 0,
+          "explain": "Thắt tĩnh mạch thực quản giãn bằng vòng cao su (EVL - Endoscopic Variceal Ligation) qua nội soi là tiêu chuẩn vàng, đem lại hiệu quả cầm máu cao và ít biến chứng tại chỗ hơn nhiều so với phương pháp tiêm xơ."
+        },
+        {
+          "q": "Nếu nội soi thất bại do máu phun ồ ạt, xử trí tạm thời tiếp theo là gì?",
+          "options": [
+            "Phẫu thuật cắt thực quản dưới",
+            "Đặt bóng chèn ép thực quản",
+            "Nối tắt tĩnh mạch tỳ thận",
+            "Mở thông dạ dày ra ngoài da"
+          ],
+          "answer": 1,
+          "explain": "Khi máu phun ồ ạt che lấp hoàn toàn tầm nhìn làm nội soi thất bại, việc đặt ống thông chèn ép cơ học (ví dụ ống Sengstaken-Blakemore) là biện pháp cứu vãn tạm thời (bridge therapy) để câu giờ, ổn định bệnh nhân trước khi tiến hành làm TIPS hoặc phẫu thuật."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 75 tuổi đi ngoài ra máu đỏ sẫm",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ 75 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì đột ngột đi ngoài ra máu đỏ sẫm lượng rất nhiều. Bệnh nhân hoàn toàn không đau bụng, không sốt, không sụt cân trước đó.<br><br><b>Tiền sử:</b> Tăng huyết áp đang dùng amlodipine.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, niêm mạc nhợt, mạch 105 lần/phút, huyết áp 100/65 mmHg. Bụng hoàn toàn mềm, không chướng, ấn không đau ở bất kỳ vị trí nào, không sờ thấy khối u. Thăm trực tràng có máu đỏ sẫm dính găng, không sờ thấy u hay trĩ.<br><br><b>Xét nghiệm:</b> Hb 85 g/L, bạch cầu 7.0 G/L, đông máu bình thường. Nội soi dạ dày cấp cứu thấy niêm mạc bình thường, không có máu.",
+      "questions": [
+        {
+          "q": "Chẩn đoán sơ bộ có khả năng cao nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Viêm loét đại trực tràng mạn",
+            "Ung thư đại trực tràng xuất huyết",
+            "Trĩ nội xuất huyết mức độ nặng",
+            "Chảy máu túi thừa đại tràng"
+          ],
+          "answer": 3,
+          "explain": "Người lớn tuổi nhập viện vì đi ngoài máu đỏ lượng lớn, đột ngột, không kèm triệu chứng đau bụng (painless hematochezia), kèm nội soi dạ dày âm tính là bệnh cảnh kinh điển của chảy máu túi thừa đại tràng. Ung thư thường kèm đau hoặc thay đổi thói quen đại tiện."
+        },
+        {
+          "q": "Cơ chế giải phẫu bệnh nào gây ra xuất huyết ồ ạt trong bệnh lý này?",
+          "options": [
+            "Xói mòn nhánh động mạch xuyên",
+            "Viêm hoại tử hệ thống mảng Peyer",
+            "Áp xe vỡ trực tiếp vào lòng ruột",
+            "Chèn ép hệ tĩnh mạch mạc treo"
+          ],
+          "answer": 0,
+          "explain": "Túi thừa thường hình thành ở các vị trí thành ruột yếu, nơi có các nhánh động mạch xuyên (vasa recta) đi qua lớp cơ. Quá trình cọ xát cơ học mạn tính của phân làm mòn vách niêm mạc túi thừa, dẫn đến đứt gãy động mạch này gây xuất huyết ồ ạt mà không cần có yếu tố viêm."
+        },
+        {
+          "q": "Nếu huyết động ổn định sau bù dịch, thăm dò nào cần ưu tiên tiếp theo?",
+          "options": [
+            "Chụp cắt lớp vi tính ổ bụng",
+            "Chụp X-quang đại tràng cản quang",
+            "Nội soi đại tràng toàn bộ",
+            "Siêu âm ổ bụng qua thành bụng"
+          ],
+          "answer": 2,
+          "explain": "Ở bệnh nhân xuất huyết tiêu hóa dưới có huyết động ổn định hoặc đáp ứng tốt với hồi sức, nội soi đại tràng toàn bộ là tiêu chuẩn để vừa chẩn đoán xác định vị trí điểm chảy máu, vừa kết hợp can thiệp (kẹp clip, tiêm adrenalin)."
+        },
+        {
+          "q": "Nếu máu chảy ồ ạt che lấp tầm nhìn nội soi, thăm dò nào tốt nhất?",
+          "options": [
+            "Xạ hình hồng cầu đánh dấu phóng xạ",
+            "Chụp cắt lớp vi tính mạch máu",
+            "Chụp X-quang bụng đứng không chuẩn bị",
+            "Nội soi viên nang toàn bộ ruột non"
+          ],
+          "answer": 1,
+          "explain": "Khi máu chảy ồ ạt liên tục, phân và máu trong lòng ruột làm nội soi hoàn toàn mất tầm nhìn. Chụp CT mạch máu (CTA) là phương pháp chẩn đoán không xâm lấn, nhanh chóng, có độ nhạy rất cao với tốc độ chảy máu hoạt động để định vị điểm rò thuốc."
+        },
+        {
+          "q": "Chỉ định phẫu thuật cắt đại tràng cấp cứu được đặt ra khi nào?",
+          "options": [
+            "Đi cầu ra máu kéo dài ba ngày",
+            "Chảy máu rỉ rả tự cầm lần đầu",
+            "Huyết động không ổn định dù hồi sức",
+            "Phát hiện tình trạng rối loạn đông máu"
+          ],
+          "answer": 2,
+          "explain": "Khoảng 70-80% các trường hợp chảy máu túi thừa tự cầm nhờ điều trị bảo tồn. Phẫu thuật cắt đoạn đại tràng là biện pháp cứu vãn cuối cùng, chỉ định khi máu chảy ồ ạt đe dọa sinh mạng, huyết động không thể duy trì dù đã hồi sức cực kỳ tích cực hoặc nút mạch thất bại."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi nôn ra máu tươi sau khi uống rượu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 30 tuổi.<br><br><b>Bệnh sử:</b> Sau một chầu uống nhiều rượu đã nôn khan dữ dội và nôn ra thức ăn liên tục 4 lần. Đến lần nôn thứ 5, bệnh nhân đột nhiên nôn ra khoảng 150 ml máu đỏ tươi.<br><br><b>Tiền sử:</b> Hoàn toàn khỏe mạnh.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh táo, hơi mệt mỏi, mạch 85 lần/phút, huyết áp 115/75 mmHg. Khám bụng mềm, ấn tức nhẹ vùng thượng vị, không có cảm ứng phúc mạc. Khám lồng ngực không có tràn khí dưới da.<br><br><b>Xét nghiệm:</b> X-quang ngực thẳng bình thường. Hb 135 g/L, đông máu trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng nghĩ đến nhiều nhất là gì?",
+          "options": [
+            "Hội chứng Mallory-Weiss",
+            "Hội chứng Boerhaave",
+            "Loét dạ dày xuất huyết",
+            "Vỡ tĩnh mạch thực quản"
+          ],
+          "answer": 0,
+          "explain": "Nam giới trẻ tuổi có chuỗi triệu chứng nôn khan/nôn thức ăn nhiều lần, sau đó mới nôn ra máu tươi, khám không có dấu chứng bệnh lý gan mạn hay viêm loét mạn tính, là bệnh cảnh lâm sàng điển hình nhất của hội chứng Mallory-Weiss."
+        },
+        {
+          "q": "Cơ chế bệnh sinh trực tiếp gây ra tổn thương này là gì?",
+          "options": [
+            "Rượu làm mòn niêm mạc trực tiếp",
+            "Acid dạ dày trào ngược mạn tính",
+            "Áp lực dạ dày tăng lên đột ngột",
+            "Giãn hệ tĩnh mạch dưới niêm mạc"
+          ],
+          "answer": 2,
+          "explain": "Sự co bóp thắt chặt của cơ thành bụng và cơ hoành trong quá trình nôn mửa dữ dội làm cho áp lực bên trong dạ dày tăng lên đột ngột chống lại tâm vị đóng kín, gây xé rách cơ học lớp niêm mạc ở ranh giới thực quản - dạ dày."
+        },
+        {
+          "q": "Thăm dò nào là tiêu chuẩn vàng để xác định chẩn đoán ở bệnh nhân này?",
+          "options": [
+            "Chụp X-quang thực quản cản quang",
+            "Chụp cắt lớp vi tính ngực",
+            "Siêu âm nội soi đường miệng",
+            "Nội soi thực quản dạ dày"
+          ],
+          "answer": 3,
+          "explain": "Nội soi tiêu hóa trên bằng ống mềm là phương pháp chẩn đoán xác định tiêu chuẩn, giúp quan sát trực tiếp vết rách dọc tại vùng tâm vị, qua đó đánh giá tình trạng rỉ máu hiện tại và phân biệt với các bệnh lý khác."
+        },
+        {
+          "q": "Hướng xử trí ưu tiên hiện tại cho bệnh nhân này là gì?",
+          "options": [
+            "Phẫu thuật khâu vết rách dạ dày",
+            "Điều trị nội khoa bảo tồn theo dõi",
+            "Chụp mạch và can thiệp nút mạch",
+            "Đặt bóng chèn ép vùng tâm vị"
+          ],
+          "answer": 1,
+          "explain": "Khoảng 80-90% bệnh nhân rách Mallory-Weiss tự cầm máu trong thời gian ngắn. Do bệnh nhân có huyết động bình thường và lượng máu mất ít (Hb 135 g/L), điều trị bảo tồn (thuốc chống nôn, PPI tĩnh mạch, nhịn ăn tạm thời) là ưu tiên số một."
+        },
+        {
+          "q": "Chọn nhận định KHÔNG ĐÚNG về bệnh lý của bệnh nhân này:",
+          "options": [
+            "Là vết rách dọc không xuyên thành",
+            "Thường liên quan đến nôn mửa dữ dội",
+            "Luôn kèm theo tràn khí màng phổi",
+            "Đa số có khả năng tự cầm máu"
+          ],
+          "answer": 2,
+          "explain": "Hội chứng Mallory-Weiss là tổn thương rách giới hạn ở lớp niêm mạc và dưới niêm mạc, không xuyên thủng toàn bộ thành ống tiêu hóa nên không bao giờ gây thoát khí vào trung thất hay tràn khí màng phổi. (Tràn khí trung thất/màng phổi là đặc điểm của hội chứng Boerhaave)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 30 tuổi mang thai đi ngoài ra máu tươi",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ 30 tuổi, đang mang thai tuần 32.<br><br><b>Bệnh sử:</b> Bệnh nhân đến khám vì đi ngoài ra máu đỏ tươi nhỏ giọt sau khi phân ra ngoài, kèm cảm giác căng tức vùng hậu môn.<br><br><b>Tiền sử:</b> Táo bón kéo dài.<br><br><b>Khám lâm sàng:</b> Khám sinh hiệu: mạch 80 lần/phút, huyết áp 110/70 mmHg. Thăm khám hậu môn thấy ở vị trí 3 giờ có một búi mạch sa ra ngoài, màu tím sẫm, căng bóng và ấn rất đau, không tự co lên được.<br><br><b>Xét nghiệm:</b> Hb 105 g/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất ở thai phụ này là gì?",
+          "options": [
+            "Trĩ nội sa nghẹt tắc mạch",
+            "Áp xe cạnh hậu môn trực tràng",
+            "Nứt kẽ hậu môn giai đoạn cấp",
+            "Polyp trực tràng chảy máu rỉ rả"
+          ],
+          "answer": 0,
+          "explain": "Đi ngoài ra máu tươi nhỏ giọt cuối bãi, kèm một khối sa ra ngoài hậu môn có màu tím sẫm, sưng nề và căng đau dữ dội là những dấu hiệu kinh điển của trĩ nội độ 4 bị sa nghẹt và hình thành huyết khối (tắc mạch) bên trong."
+        },
+        {
+          "q": "Yếu tố nào là cơ chế chính làm bệnh khởi phát nặng lên trong thai kỳ?",
+          "options": [
+            "Rối loạn chức năng đông máu nội mạch",
+            "Tử cung chèn ép tĩnh mạch vùng chậu.",
+            "Phì đại cơ thắt trong của hậu môn",
+            "Giãn hệ thống tĩnh mạch cửa tại gan"
+          ],
+          "answer": 1,
+          "explain": "Phụ nữ mang thai vào quý 3 có tử cung kích thước lớn gây chèn ép lên hệ thống tĩnh mạch chậu. Điều này cản trở hồi lưu máu từ đám rối tĩnh mạch trĩ về tim, kết hợp với tình trạng rặn do táo bón làm cho búi trĩ phình to và dễ tạo cục máu đông."
+        },
+        {
+          "q": "Bước xử trí ban đầu an toàn và phù hợp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Phẫu thuật cắt trĩ bằng máy Longo",
+            "Rạch lấy cục máu đông tại phòng khám",
+            "Thuốc làm mềm phân và ngâm nước ấm",
+            "Tiêm thuốc xơ hóa vào gốc búi trĩ"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân đang mang thai 32 tuần, can thiệp ngoại khoa hay thủ thuật mang rủi ro lớn. Lựa chọn ưu tiên là điều trị nội khoa bảo tồn tích cực, bao gồm chống táo bón (thuốc nhuận tràng an toàn), ngâm vùng hậu môn nước ấm và thuốc bôi giảm đau."
+        },
+        {
+          "q": "Chỉ định can thiệp phẫu thuật cấp cứu vùng hậu môn được đặt ra khi nào?",
+          "options": [
+            "Chảy máu rỉ rả kéo dài nhiều ngày liên tục",
+            "Trĩ nội độ hai hoàn toàn không có triệu chứng",
+            "Bệnh nhân cảm thấy ngứa ngáy dữ dội quanh hậu môn",
+            "Khối trĩ sa xuất hiện dấu hiệu hoại tử"
+          ],
+          "answer": 3,
+          "explain": "Phẫu thuật cắt trĩ cấp cứu là biện pháp cuối cùng, chỉ được xem xét khi tình trạng nghẹt kéo dài làm khối trĩ thiếu máu chuyển sang màu đen hoại tử, đe dọa biến chứng nhiễm khuẩn huyết vùng chậu."
+        },
+        {
+          "q": "Nếu cắt trĩ kinh điển loại bỏ quá nhiều niêm mạc, biến chứng muộn nào dễ xảy ra?",
+          "options": [
+            "Hẹp thực thể ống hậu môn",
+            "Sa trực tràng toàn bộ ra ngoài",
+            "Rò hậu môn trực tràng phức tạp",
+            "Đại tiện không tự chủ mạn tính"
+          ],
+          "answer": 0,
+          "explain": "Phẫu thuật cắt trĩ kinh điển (như phương pháp Milligan-Morgan) nếu cắt bỏ quá nhiều cầu da niêm mạc sẽ để lại vòng sẹo xơ rộng. Khi lành, sẹo xơ co rút quanh chu vi gây ra biến chứng muộn rất khó sửa chữa là hẹp hẹp ống hậu môn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi đi ngoài phân sẫm màu và sụt cân",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 68 tuổi.<br><br><b>Bệnh sử:</b> Bệnh nhân vào viện vì mệt mỏi kéo dài, sụt 4 kg trong 3 tháng qua. Bệnh nhân có thay đổi thói quen đại tiện, tiêu chảy xen kẽ táo bón. Bệnh nhân không thấy máu đỏ trong phân nhưng thường xuyên đi ngoài phân sẫm màu.<br><br><b>Khám lâm sàng:</b> Khám lâm sàng: niêm mạc mắt rất nhợt nhạt, mạch 90 lần/phút, huyết áp 120/80 mmHg. Khám bụng mềm, sờ thấy một khối mật độ chắc, kích thước 4x4 cm ở hố chậu phải, di động kém, ấn tức nhẹ.<br><br><b>Xét nghiệm:</b> Xét nghiệm có Hb 78 g/L, MCV 70 fL. Thử máu ẩn trong phân dương tính.",
+      "questions": [
+        {
+          "q": "Cơ chế chính gây ra tình trạng thiếu máu hồng cầu nhỏ nhược sắc là gì?",
+          "options": [
+            "Tình trạng kém hấp thu vitamin B12",
+            "Mất máu rỉ rả mạn tính kéo dài",
+            "Suy tủy xương do di căn ung thư",
+            "Tán huyết tự miễn thứ phát diện rộng"
+          ],
+          "answer": 1,
+          "explain": "Khối u đại tràng bề mặt sùi lở loét làm máu rỉ rả vi thể đổ vào lòng ruột (máu ẩn phân dương tính). Sự chảy máu lượng ít nhưng kéo dài trong nhiều tháng gây mất dần lượng sắt dự trữ, dẫn đến hội chứng thiếu máu thiếu sắt (hồng cầu nhỏ nhược sắc - MCV giảm)."
+        },
+        {
+          "q": "Chẩn đoán lâm sàng ưu tiên nghĩ đến nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Ung thư đại tràng bên phải",
+            "Bệnh Crohn đoạn hồi manh tràng",
+            "Đám quánh ruột thừa mạn tính",
+            "Polyp đại tràng lành tính kích thước lớn"
+          ],
+          "answer": 0,
+          "explain": "Hội chứng bệnh lý với thiếu máu mạn tính, sụt cân, thay đổi thói quen đại tiện, phân sẫm màu và đặc biệt là sờ thấy một khối u cứng ở hố chậu phải là biểu hiện rất điển hình của khối u ác tính ở manh tràng hoặc đại tràng lên."
+        },
+        {
+          "q": "Xét nghiệm chẩn đoán hình ảnh nào tốt nhất để phân độ giai đoạn trước mổ?",
+          "options": [
+            "Siêu âm Doppler mạch máu ổ bụng tổng quát",
+            "Nội soi đại tràng toàn bộ kèm sinh thiết",
+            "Chụp X-quang đại tràng có bơm thuốc cản quang",
+            "Chụp cắt lớp vi tính ngực bụng"
+          ],
+          "answer": 3,
+          "explain": "Mặc dù nội soi là tiêu chuẩn vàng chẩn đoán xác định, nhưng để phân loại giai đoạn (Staging TNM) nhằm tìm sự thâm nhiễm bạch huyết, hạch vùng và tổn thương di căn gan/phổi trước mổ, chụp cắt lớp vi tính (CT scan) ngực - bụng - chậu có cản quang là công cụ chuẩn mực nhất."
+        },
+        {
+          "q": "Dấu ấn sinh học khối u (tumor marker) nào có giá trị theo dõi bệnh lý này?",
+          "options": [
+            "Kháng nguyên Alpha-fetoprotein (AFP)",
+            "Kháng nguyên đặc hiệu tuyến tiền liệt",
+            "Kháng nguyên ung thư phôi CEA",
+            "Kháng nguyên ung thư CA-125"
+          ],
+          "answer": 2,
+          "explain": "Carcinoembryonic antigen (CEA) là dấu ấn sinh học chủ lực gắn liền với ung thư đại trực tràng, được sử dụng không phải để tầm soát mà để tiên lượng trước mổ và theo dõi diễn tiến tái phát sau khi điều trị triệt căn."
+        },
+        {
+          "q": "Phương pháp phẫu thuật triệt căn tiêu chuẩn cho tình trạng này là gì?",
+          "options": [
+            "Phẫu thuật Miles đường bụng tầng sinh môn",
+            "Cắt toàn bộ khung đại tràng vét hạch",
+            "Mở thông manh tràng ra da giảm áp",
+            "Cắt nửa đại tràng phải kèm vét hạch"
+          ],
+          "answer": 3,
+          "explain": "Khối u ác tính ở đại tràng bên phải (manh tràng, đại tràng lên) chưa di căn xa có chỉ định phẫu thuật cắt nửa đại tràng phải, bao gồm đoạn cuối hồi tràng đến phần phải đại tràng ngang, kết hợp lấy bỏ rộng mạc treo để vét sạch các hạch bạch huyết."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi đau quặn hạ sườn phải và đi phân đen",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 45 tuổi.<br><br><b>Bệnh sử:</b> Cách đây 2 tuần, bệnh nhân có thực hiện sinh thiết gan qua da. Hôm nay, bệnh nhân vào viện vì xuất hiện các cơn đau quặn dữ dội vùng hạ sườn phải, kèm theo vàng da nhẹ và đi ngoài phân đen lỏng.<br><br><b>Tiền sử:</b> Viêm gan B mạn tính.<br><br><b>Khám lâm sàng:</b> Mạch 95 lần/phút, huyết áp 110/70 mmHg. Bụng mềm, ấn đau tức hạ sườn phải, không có phản ứng thành bụng, dấu hiệu Murphy âm tính.<br><br><b>Xét nghiệm:</b> Hb 90 g/L, bilirubin trực tiếp 45 µmol/L. Nội soi dạ dày tá tràng thấy có cục máu đông đùn ra từ nhú Vater.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguyên nhân gây chảy máu tiêu hóa phù hợp nhất là gì?",
+          "options": [
+            "Viêm túi mật cấp xuất huyết",
+            "Loét hành tá tràng thấu gan",
+            "Chảy máu từ đường mật",
+            "Sỏi ống mật chủ kẹt nhú"
+          ],
+          "answer": 2,
+          "explain": "Tiền sử đâm kim sinh thiết gan, theo sau là cơn đau quặn gan, vàng da, đi phân đen, và hình ảnh máu đông thoát ra từ nhú Vater trên nội soi là những bằng chứng xác đáng nhất định hướng chẩn đoán chảy máu đường mật (Hemobilia)."
+        },
+        {
+          "q": "Tam chứng kinh điển mô tả tình trạng bệnh lý này có tên gọi là gì?",
+          "options": [
+            "Tam chứng Charcot",
+            "Tam chứng Beck",
+            "Tam chứng Borchardt",
+            "Tam chứng Quincke"
+          ],
+          "answer": 3,
+          "explain": "Tam chứng Quincke (hay Sandblom) là biểu hiện kinh điển của chảy máu đường mật, bao gồm ba triệu chứng: đau quặn thắt vùng hạ sườn phải, xuất hiện vàng da tắc mật và biểu hiện xuất huyết tiêu hóa."
+        },
+        {
+          "q": "Phương pháp thăm dò và can thiệp điều trị xâm lấn tối thiểu ưu tiên là gì?",
+          "options": [
+            "Chụp mạch máu số hóa xóa nền",
+            "Nội soi mật tụy ngược dòng",
+            "Chụp cộng hưởng từ đường mật",
+            "Chụp cắt lớp vi tính ổ bụng"
+          ],
+          "answer": 0,
+          "explain": "Chụp mạch máu số hóa xóa nền (DSA/Angiography) vừa đóng vai trò tiêu chuẩn vàng để tìm ra nhánh động mạch gan bị tổn thương, vừa là phương pháp can thiệp luồn ống thông nút mạch (embolization) cầm máu, tránh được cuộc mổ mở lớn."
+        },
+        {
+          "q": "Cơ chế giải phẫu bệnh học dẫn đến chảy máu trong tình huống này là gì?",
+          "options": [
+            "Tăng áp lực tĩnh mạch cửa thứ phát",
+            "Tổn thương nhánh động mạch gan",
+            "Viêm loét niêm mạc đoạn D2 tá tràng",
+            "Vỡ tĩnh mạch trướng thực quản dưới"
+          ],
+          "answer": 1,
+          "explain": "Do chấn thương cơ học từ kim sinh thiết, thành một nhánh động mạch gan bị rách và thông thương trực tiếp vào một ống mật lân cận. Máu động mạch với áp lực cao liên tục bơm vào đường mật áp lực thấp gây xuất huyết đổ xuống tá tràng."
+        },
+        {
+          "q": "Biến chứng đáng lo ngại nhất sau khi thực hiện can thiệp nút động mạch là gì?",
+          "options": [
+            "Thủng đoạn D2 của tá tràng",
+            "Nhồi máu hoặc áp xe gan",
+            "Tắc nghẽn tĩnh mạch cửa hoàn toàn",
+            "Suy tim phải do quá tải thể tích"
+          ],
+          "answer": 1,
+          "explain": "Động mạch gan đảm nhiệm nguồn cung cấp oxy chính cho nhu mô gan và đường mật. Khi bơm vật liệu nút mạch để cầm máu, nguy cơ lớn nhất là gây thiếu máu cục bộ, dẫn đến hoại tử nhu mô gan (nhồi máu) hoặc nhiễm trùng ổ hoại tử tạo thành áp xe gan thứ phát."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi nôn máu đỏ tươi ồ ạt sau mổ phình động mạch chủ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 70 tuổi.<br><br><b>Bệnh sử:</b> Ngày hôm qua, bệnh nhân nôn ra một ít máu đỏ sẫm rồi tự ngưng. Sáng nay, bệnh nhân đột ngột nôn ồ ạt máu đỏ tươi lượng rất lớn kèm ngất xỉu.<br><br><b>Tiền sử:</b> Phẫu thuật thay đoạn động mạch chủ bụng bằng mảnh ghép nhân tạo cách đây 3 năm.<br><br><b>Khám lâm sàng:</b> Tình trạng lúc vào viện: sốc nặng, lơ mơ, vã mồ hôi, mạch 125 lần/phút, huyết áp 70/40 mmHg. Khám bụng có sẹo mổ cũ đường giữa, sờ thấy khối đập theo nhịp mạch ở thượng vị.<br><br><b>Xét nghiệm:</b> Hb 75 g/L. Nội soi dạ dày đoạn D2 tá tràng không thấy máu.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguy hiểm đe dọa tính mạng nhất cần nghĩ tới là gì?",
+          "options": [
+            "Vỡ tĩnh mạch trướng dạ dày",
+            "Nhồi máu mạc treo tràng cấp",
+            "Loét dạ dày thủng vào mô tụy",
+            "Rò động mạch chủ ruột"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân có tiền sử ghép động mạch chủ bụng nhân tạo, có đợt nôn máu báo hiệu tự cầm, sau đó vỡ ồ ạt gây sốc mất máu nặng. Bệnh cảnh này là kinh điển đối với biến chứng rò động mạch chủ - ruột (Aortoenteric fistula), đe dọa tử vong cực cao nếu không mổ kịp."
+        },
+        {
+          "q": "Giải phẫu học, tổn thương rò mạch máu thường xuyên thủng vào đoạn ống tiêu hóa nào?",
+          "options": [
+            "Dạ dày đoạn hang và môn vị",
+            "Tá tràng đoạn D3 hoặc D4",
+            "Đại tràng ngang đoạn phần giữa",
+            "Hồi tràng đoạn nằm ở vùng chậu"
+          ],
+          "answer": 1,
+          "explain": "Về mặt cấu trúc giải phẫu, phần nằm ngang (D3) và phần lên (D4) của tá tràng vắt ngang ngay sát mặt trước của đoạn động mạch chủ bụng. Quá trình cọ xát hoặc viêm nhiễm quanh mảnh ghép dễ làm xói mòn và thủng vách tá tràng tại vị trí này."
+        },
+        {
+          "q": "Nếu bệnh nhân tạm ổn định sau hồi sức, thăm dò hình ảnh ưu tiên nhất là gì?",
+          "options": [
+            "Siêu âm Doppler hệ tĩnh mạch",
+            "Nội soi dạ dày bằng ống mềm",
+            "Chụp cắt lớp vi tính mạch máu",
+            "X-quang bụng đứng có thuốc cản quang"
+          ],
+          "answer": 2,
+          "explain": "Chụp cắt lớp vi tính mạch máu (CTA) ổ bụng có cản quang là xét nghiệm tiêu chuẩn vàng, nhạy để phát hiện sự rò rỉ thuốc cản quang vào lòng ruột hoặc khí quanh ống ghép. Nội soi thường chỉ tới được D2 tá tràng nên rất dễ bỏ sót lỗ rò ở D3-D4."
+        },
+        {
+          "q": "Ý nghĩa của hiện tượng nôn máu tự cầm ban đầu (herald bleed) là gì?",
+          "options": [
+            "Máu rỉ tạm thời qua lỗ rò nhỏ",
+            "Tổn thương niêm mạc đã tự lành",
+            "Tình trạng rối loạn đông máu thoáng qua",
+            "Dấu hiệu phục hồi của mảnh ghép"
+          ],
+          "answer": 0,
+          "explain": "\"Herald bleed\" (xuất huyết cảnh báo) là hiện tượng chảy máu lượng ít do máu rỉ qua lỗ rò chớm thủng, tạo lập cục máu đông bít lại lỗ rò tạm thời. Sau khoảng thời gian ngắn, áp lực động mạch chủ làm bung cục máu này gây vỡ mạch ồ ạt."
+        },
+        {
+          "q": "Nguyên tắc phẫu thuật bắt buộc để điều trị triệt để bệnh lý này là gì?",
+          "options": [
+            "Khâu lỗ rò qua nội soi ống mềm",
+            "Mở bụng khâu lấp lỗ rò tá tràng",
+            "Đặt stent graft động mạch chủ qua da",
+            "Tháo mảnh ghép và bắc cầu ngoài"
+          ],
+          "answer": 3,
+          "explain": "Do tổn thương rò đồng nghĩa với việc mảnh ghép động mạch chủ đã bị nhiễm khuẩn hoàn toàn từ dịch tiêu hóa. Nguyên tắc phẫu thuật triệt căn là phải tháo bỏ toàn bộ mảnh ghép, khâu lỗ rò tá tràng và làm bắc cầu ngoài giải phẫu (như nách - đùi song phương) để cứu chi dưới."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 16 tuổi đi cầu phân đỏ mận số lượng lớn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 16 tuổi.<br><br><b>Bệnh sử:</b> Đột ngột đi cầu phân màu đỏ mận số lượng rất nhiều. Bệnh nhân không kèm đau bụng, không sốt. Khám thấy bệnh nhân có biểu hiện hoa mắt, xây xẩm.<br><br><b>Tiền sử:</b> Hoàn toàn khỏe mạnh.<br><br><b>Khám lâm sàng:</b> Mạch 105 lần/phút, huyết áp 100/60 mmHg. Bụng hoàn toàn mềm, không có phản ứng, không sờ thấy khối lồng ruột.<br><br><b>Xét nghiệm:</b> Hb 80 g/L. Nội soi thực quản dạ dày và nội soi đại tràng toàn bộ không phát hiện điểm chảy máu, nhưng thấy máu chảy từ phía trên van hồi manh tràng xuống.",
+      "questions": [
+        {
+          "q": "Dựa trên dịch tễ học và đặc điểm lâm sàng, chẩn đoán khả năng nhất là gì?",
+          "options": [
+            "Túi thừa Meckel chảy máu",
+            "Lồng ruột đoạn hồi manh tràng",
+            "Viêm loét đại trực tràng cấp",
+            "Ung thư trực tràng người trẻ"
+          ],
+          "answer": 0,
+          "explain": "Thanh thiếu niên đột ngột đi ngoài ra máu màu đỏ mận, khối lượng lớn, không kèm đau bụng, với kết quả nội soi dạ dày và đại tràng âm tính (nhưng có máu từ ruột non đổ xuống) là bệnh cảnh đặc thù của túi thừa Meckel chảy máu."
+        },
+        {
+          "q": "Theo phôi thai học, nguồn gốc hình thành tổn thương này liên quan đến di tích nào?",
+          "options": [
+            "Khe mang thứ hai bẩm sinh",
+            "Khuyết tật xoay của ruột giữa",
+            "Nang niệu rốn tồn dư kéo dài",
+            "Ống rốn ruột không tiêu biến"
+          ],
+          "answer": 3,
+          "explain": "Túi thừa Meckel là một dị tật bẩm sinh do sự tiêu biến không hoàn toàn của ống rốn ruột (ống noãn hoàng - omphalomesenteric duct) trong quá trình hình thành bào thai, thường nằm ở đoạn hồi tràng."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh trực tiếp gây ra xuất huyết trong tình trạng này là gì?",
+          "options": [
+            "Tình trạng xoắn nghẹt toàn bộ đoạn ruột non",
+            "Loét thành ruột do niêm mạc lạc chỗ",
+            "Vỡ búi dị dạng mạch máu bẩm sinh",
+            "Sự gia tăng áp lực lòng ruột đột ngột"
+          ],
+          "answer": 1,
+          "explain": "Bản thân túi thừa hiếm khi vỡ chảy máu. Căn nguyên là túi thừa thường chứa lớp niêm mạc dạ dày lạc chỗ. Các tế bào này tiết ra acid clohydric làm xói mòn và gây loét lớp niêm mạc hồi tràng lân cận, đứt gãy mạch máu dẫn đến xuất huyết ồ ạt."
+        },
+        {
+          "q": "Thăm dò hình ảnh nào có độ đặc hiệu cao nhất để xác định tổn thương này?",
+          "options": [
+            "Chụp cắt lớp vi tính bụng có cản quang",
+            "Siêu âm Doppler mạch máu ổ bụng tổng quát",
+            "Xạ hình túi thừa với đồng vị phóng xạ",
+            "Nội soi toàn bộ ruột non bằng viên nang"
+          ],
+          "answer": 2,
+          "explain": "Xạ hình bằng đồng vị phóng xạ Technetium-99m pertechnetate (Meckel's scan) có ái lực rất cao đối với tế bào biểu mô dạ dày lạc chỗ, là xét nghiệm đặc hiệu và nhạy bén nhất để chẩn đoán túi thừa Meckel biến chứng chảy máu ở trẻ em và người trẻ."
+        },
+        {
+          "q": "Nguyên tắc can thiệp ngoại khoa triệt căn đối với bệnh lý này là gì?",
+          "options": [
+            "Cắt đoạn ruột non chứa túi thừa",
+            "Khâu vùi túi thừa vào trong lòng ruột",
+            "Thắt gốc động mạch mạc treo ruột non",
+            "Nối tắt hồi tràng với đại tràng ngang"
+          ],
+          "answer": 0,
+          "explain": "Để giải quyết dứt điểm nguồn chảy máu và loại trừ hoàn toàn các mô dạ dày lạc chỗ sinh acid, phương pháp phẫu thuật triệt căn là cắt bỏ túi thừa cùng với đoạn hình chêm hồi tràng chứa ổ loét, sau đó khâu nối ruột trở lại."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 72 tuổi đau quặn bụng và đi ngoài ra máu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ 72 tuổi.<br><br><b>Bệnh sử:</b> Bệnh nhân nhập viện vì đột ngột đau quặn thắt dữ dội vùng quanh rốn, đau liên tục. Khoảng 6 giờ sau, bệnh nhân bắt đầu đi tiêu chảy phân lỏng lẫn nhiều máu đỏ tươi và nhầy.<br><br><b>Tiền sử:</b> Rung nhĩ nhưng đã tự ý ngừng thuốc chống đông từ 1 tháng trước.<br><br><b>Khám lâm sàng:</b> Khi khám, bụng hoàn toàn mềm, không có phản ứng thành bụng, mức độ đau khi khám không tương xứng với than phiền đau dữ dội của bệnh nhân. Mạch 110 lần/phút không đều, huyết áp 120/80 mmHg.<br><br><b>Xét nghiệm:</b> Bạch cầu 16 G/L, lactate máu tăng 4.5 mmol/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng cấp cứu nguy hiểm nhất cần được nghĩ tới đầu tiên là gì?",
+          "options": [
+            "Xoắn đại tràng chậu hông cấp tính",
+            "Nhồi máu mạc treo ruột cấp tính",
+            "Viêm loét đại trực tràng chảy máu",
+            "Viêm túi thừa đại tràng biến chứng vỡ"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có yếu tố nguy cơ huyết khối (rung nhĩ bỏ thuốc chống đông), cơn đau bụng đột ngột dữ dội không tương xứng với khám thực thể nghèo nàn, kèm theo đi cầu ra máu và tăng nồng độ lactate là biểu hiện nguy kịch của thiếu máu cục bộ/nhồi máu mạc treo cấp tính."
+        },
+        {
+          "q": "Cơ chế bệnh sinh trực tiếp gây ra tình trạng này ở bệnh nhân là gì?",
+          "options": [
+            "Hẹp động mạch do xơ vữa mạn tính",
+            "Rách niêm mạc do áp lực lòng ruột",
+            "Huyết khối thuyên tắc từ buồng tim",
+            "Co thắt hệ mạch máu mạc treo cấp"
+          ],
+          "answer": 2,
+          "explain": "Sự hình thành cục máu đông trong tâm nhĩ (do rung nhĩ) di chuyển theo dòng máu và thuyên tắc tại các nhánh của động mạch mạc treo tràng trên là nguyên nhân phổ biến nhất gây thiếu máu đột ngột đoạn ruột tương ứng, dẫn đến hoại tử niêm mạc và đi ngoài phân máu."
+        },
+        {
+          "q": "Chọn tập hợp ĐÚNG về xử trí ban đầu khi bệnh nhân chưa có biểu hiện hoại tử ruột:\n(1) Mở bụng cắt ruột dự phòng\n(2) Tối ưu hóa tưới máu và dịch\n(3) Truyền Heparin tĩnh mạch\n(4) Thụt tháo đại tràng bằng nước",
+          "options": [
+            "2, 3",
+            "1, 4",
+            "1, 2",
+            "3, 4"
+          ],
+          "answer": 0,
+          "explain": "Khi ruột chưa có dấu hiệu hoại tử xuyên thành (bụng mềm, chưa viêm phúc mạc), xử trí nền tảng là hồi sức tối ưu hóa lưu lượng tuần hoàn, dùng kháng sinh phổ rộng và truyền thuốc chống đông Heparin tĩnh mạch (mệnh đề 2, 3 đúng) để ngăn lan rộng huyết khối. Chống chỉ định cắt ruột dự phòng hoặc thụt tháo đại tràng."
+        },
+        {
+          "q": "Cận lâm sàng tiêu chuẩn vàng để chẩn đoán xác định tắc nghẽn mạch máu là gì?",
+          "options": [
+            "Siêu âm Doppler hệ mạch máu mạc treo",
+            "Nội soi đại tràng cấp cứu tại giường",
+            "Chụp X-quang ổ bụng đứng không chuẩn bị",
+            "Chụp cắt lớp vi tính mạch máu bụng"
+          ],
+          "answer": 3,
+          "explain": "Chụp cắt lớp vi tính mạch máu ổ bụng (CTA bụng) là tiêu chuẩn vàng. Phương tiện này có độ nhạy rất cao, giúp bác sĩ nhận diện rõ cục huyết khối làm tắc lòng mạch, đồng thời đánh giá được mức độ thiếu máu và hoại tử của thành ruột trước khi phẫu thuật."
+        },
+        {
+          "q": "Dấu hiệu lâm sàng nào bắt buộc phải có chỉ định mở bụng mổ cấp cứu?",
+          "options": [
+            "Đau quặn bụng thành từng cơn dữ dội",
+            "Xuất hiện dấu hiệu viêm phúc mạc rõ",
+            "Số lượng bạch cầu máu tăng trên 15 G/L",
+            "Tình trạng rung nhĩ đáp ứng thất nhanh"
+          ],
+          "answer": 1,
+          "explain": "Khi xuất hiện dấu hiệu viêm phúc mạc rõ (cảm ứng phúc mạc dương tính, co cứng thành bụng), điều đó chứng tỏ mạc treo đã bị nhồi máu nặng nề làm ruột hoại tử xuyên thành và thủng dịch bẩn vào ổ bụng. Đây là chỉ định bắt buộc phải mổ mở cấp cứu cắt bỏ ruột hoại tử để cứu mạng."
+        }
+      ]
+    }
+  ]
+}
