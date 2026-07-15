@@ -1,0 +1,560 @@
+{
+  "name": "Suy dinh dưỡng ở trẻ em",
+  "description": "50 câu hỏi MCQ về định nghĩa, phân loại, đánh giá nhân trắc học và xử trí suy dinh dưỡng trẻ em.",
+  "level": "Đại học / Nội trú Nhi",
+  "type": "mcq",
+  "category": "Nhi",
+  "subcategory": "Đại cương",
+  "questions": [
+    {
+      "q": "Theo định nghĩa của WHO, suy dinh dưỡng là tình trạng cơ thể:",
+      "options": [
+        "Chỉ thiếu hụt vi chất",
+        "Mất cân bằng giữa cung cấp và nhu cầu dinh dưỡng",
+        "Chỉ xảy ra khi trẻ ăn không đủ",
+        "Cân nặng nhẹ hơn trẻ cùng tuổi"
+      ],
+      "answer": 1,
+      "explain": "Suy dinh dưỡng bao gồm cả thiếu dinh dưỡng và thừa dinh dưỡng, là sự mất cân bằng giữa cung cấp và nhu cầu năng lượng/chất dinh dưỡng."
+    },
+    {
+      "q": "Chỉ số nào đánh giá tình trạng suy dinh dưỡng trong quá khứ (thấp còi)?",
+      "options": [
+        "Cân nặng/tuổi",
+        "Chiều cao/tuổi",
+        "Cân nặng/chiều cao",
+        "Vòng cánh tay"
+      ],
+      "answer": 1,
+      "explain": "Chiều cao/tuổi (H/A) phản ánh quá trình tăng trưởng lâu dài, chỉ số < -2SD là thấp còi."
+    },
+    {
+      "q": "Giai đoạn nào trẻ dễ suy dinh dưỡng nhất do bắt đầu ăn dặm?",
+      "options": [
+        "0-6 tháng",
+        "6-24 tháng",
+        "Trên 3 tuổi",
+        "Trên 5 tuổi"
+      ],
+      "answer": 1,
+      "explain": "Giai đoạn 6-24 tháng trẻ cần nhiều năng lượng nhưng ăn dặm chưa hợp lý và dễ mắc bệnh nhiễm trùng."
+    },
+    {
+      "q": "Chỉ số Z-score dùng để đánh giá suy dinh dưỡng cấp tính nặng (gầy mòn) là:",
+      "options": [
+        "Chiều cao/tuổi < -2SD",
+        "Cân nặng/tuổi < -2SD",
+        "Cân nặng/chiều cao < -3SD",
+        "Vòng cánh tay > 125mm"
+      ],
+      "answer": 2,
+      "explain": "Cân nặng/chiều cao < -3SD là tiêu chuẩn chẩn đoán suy dinh dưỡng cấp tính nặng (gầy mòn nặng)."
+    },
+    {
+      "q": "Dấu hiệu phù trong thể Kwashiorkor là loại phù gì?",
+      "options": [
+        "Phù cứng",
+        "Phù mềm, ấn lõm, xuất hiện ở chân trước",
+        "Phù tím",
+        "Phù khu trú tại mặt"
+      ],
+      "answer": 1,
+      "explain": "Phù trong Kwashiorkor thường là phù mềm, ấn lõm, đối xứng, xuất hiện từ chi dưới rồi lan lên trên."
+    },
+    {
+      "q": "Bản chất của thể suy dinh dưỡng Marasmus là gì?",
+      "options": [
+        "Thiếu năng lượng trầm trọng (cạn kiệt)",
+        "Thiếu đạm thuần túy",
+        "Thừa cân",
+        "Thiếu vitamin A"
+      ],
+      "answer": 0,
+      "explain": "Marasmus là thể thiếu năng lượng trường diễn, trẻ gầy đét như ông già."
+    },
+    {
+      "q": "Yếu tố vi chất nào thiếu hụt thường gây tổn thương mắt trong suy dinh dưỡng?",
+      "options": [
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin C",
+        "Sắt"
+      ],
+      "answer": 1,
+      "explain": "Thiếu Vitamin A gây khô mắt, loét giác mạc, có thể dẫn đến mù lòa."
+    },
+    {
+      "q": "Nguyên nhân hàng đầu gây tử vong ở trẻ suy dinh dưỡng nặng là gì?",
+      "options": [
+        "Suy thận",
+        "Nhiễm trùng huyết và rối loạn chuyển hóa (hạ đường huyết, hạ thân nhiệt)",
+        "Tắc ruột",
+        "Đột quỵ"
+      ],
+      "answer": 1,
+      "explain": "Trẻ suy dinh dưỡng có hệ miễn dịch yếu, rất dễ nhiễm trùng và rối loạn thân nhiệt, đường huyết."
+    },
+    {
+      "q": "Tiêu chuẩn xuất viện cho trẻ suy dinh dưỡng nặng là gì?",
+      "options": [
+        "W/H đạt -2SD và ăn tốt",
+        "Hết sốt",
+        "Cân nặng đạt chuẩn",
+        "Hết tiêu chảy"
+      ],
+      "answer": 0,
+      "explain": "Theo WHO, trẻ cần đạt W/H >= -2SD và có sự thèm ăn trở lại để xuất viện an toàn."
+    },
+    {
+      "q": "Trẻ thấp còi sớm (2 năm đầu) có nguy cơ gì về lâu dài?",
+      "options": [
+        "Dễ bị béo phì, tiểu đường tuổi trưởng thành",
+        "Không bao giờ cao được",
+        "Luôn khỏe mạnh",
+        "Trí tuệ siêu việt"
+      ],
+      "answer": 0,
+      "explain": "Thấp còi giai đoạn sớm làm thay đổi chuyển hóa, tăng nguy cơ bệnh không lây nhiễm khi lớn."
+    },
+    {
+      "q": "Năng lượng cần cung cấp cho trẻ suy dinh dưỡng nặng giai đoạn đầu là?",
+      "options": [
+        "150 kcal/kg/ngày",
+        "100-130 kcal/kg/ngày",
+        "50 kcal/kg/ngày",
+        "200 kcal/kg/ngày"
+      ],
+      "answer": 1,
+      "explain": "Giai đoạn phục hồi cần năng lượng cao 100-130 kcal/kg/ngày."
+    },
+    {
+      "q": "Dấu hiệu 'da bọc xương' đặc trưng của thể nào?",
+      "options": [
+        "Kwashiorkor",
+        "Marasmus",
+        "Béo phì",
+        "Thừa cân"
+      ],
+      "answer": 1,
+      "explain": "Marasmus biểu hiện mất hết mỡ dưới da, chỉ còn da bọc xương."
+    },
+    {
+      "q": "Thiếu hụt chất nào gây chậm lành vết thương?",
+      "options": [
+        "Kẽm",
+        "Sắt",
+        "Canxi",
+        "Magie"
+      ],
+      "answer": 0,
+      "explain": "Kẽm đóng vai trò quan trọng trong phân chia tế bào và lành vết thương."
+    },
+    {
+      "q": "Suy dinh dưỡng thể hỗn hợp là?",
+      "options": [
+        "Marasmus-Kwashiorkor",
+        "Béo phì",
+        "Thấp còi",
+        "Nhẹ cân"
+      ],
+      "answer": 0,
+      "explain": "Thể này kết hợp vừa phù vừa gầy đét, rất nguy hiểm."
+    },
+    {
+      "q": "Cách phòng suy dinh dưỡng tốt nhất?",
+      "options": [
+        "Nuôi con bằng sữa mẹ",
+        "Ăn cơm sớm",
+        "Uống sữa công thức",
+        "Ăn nhiều đường"
+      ],
+      "answer": 0,
+      "explain": "Sữa mẹ là thức ăn hoàn hảo nhất cho trẻ dưới 6 tháng."
+    },
+    {
+      "q": "Chỉ số MUAC đo ở đâu?",
+      "options": [
+        "Cổ tay",
+        "Cánh tay",
+        "Đùi",
+        "Bụng"
+      ],
+      "answer": 1,
+      "explain": "Vòng cánh tay (MUAC) dùng để tầm soát suy dinh dưỡng cộng đồng."
+    },
+    {
+      "q": "Hội chứng nuôi ăn lại gây giảm chất nào?",
+      "options": [
+        "Kali",
+        "Phospho",
+        "Natri",
+        "Canxi"
+      ],
+      "answer": 1,
+      "explain": "Giảm Phospho máu là nguy hiểm nhất trong hội chứng nuôi ăn lại."
+    },
+    {
+      "q": "Đánh giá cấp tính dùng chỉ số gì?",
+      "options": [
+        "W/A",
+        "H/A",
+        "W/H",
+        "BMI"
+      ],
+      "answer": 2,
+      "explain": "Cân nặng/chiều cao (W/H) phản ánh tình trạng cấp tính/hiện tại."
+    },
+    {
+      "q": "Thiếu máu trong suy dinh dưỡng thường do thiếu?",
+      "options": [
+        "Sắt",
+        "B12",
+        "Acid folic",
+        "Tất cả các yếu tố trên"
+      ],
+      "answer": 3,
+      "explain": "Trẻ suy dinh dưỡng thường thiếu máu hỗn hợp do thiếu nhiều vi chất."
+    },
+    {
+      "q": "Rụng tóc, da khô trong suy dinh dưỡng do thiếu?",
+      "options": [
+        "Protein",
+        "Vitamin A",
+        "Vitamin E",
+        "Kẽm"
+      ],
+      "answer": 0,
+      "explain": "Thiếu Protein làm da tóc thay đổi cấu trúc."
+    },
+    {
+      "q": "Mục tiêu ăn uống khi bắt đầu điều trị?",
+      "options": [
+        "Ăn nhiều ngay",
+        "Ăn ít, nhiều bữa",
+        "Ăn đường",
+        "Nhịn ăn"
+      ],
+      "answer": 1,
+      "explain": "Bắt đầu từ từ để tránh hội chứng nuôi ăn lại."
+    },
+    {
+      "q": "Suy dinh dưỡng thấp còi HAZ < -2SD là?",
+      "options": [
+        "Gầy mòn",
+        "Thấp còi",
+        "Nhẹ cân",
+        "Bình thường"
+      ],
+      "answer": 1,
+      "explain": "HAZ < -2SD là định nghĩa thấp còi."
+    },
+    {
+      "q": "Thể Kwashiorkor có đặc điểm gì?",
+      "options": [
+        "Phù",
+        "Gầy đét",
+        "Năng động",
+        "Khỏe mạnh"
+      ],
+      "answer": 0,
+      "explain": "Phù là triệu chứng đặc trưng của Kwashiorkor."
+    },
+    {
+      "q": "Thiếu Vitamin D gây?",
+      "options": [
+        "Còi xương",
+        "Quáng gà",
+        "Thiếu máu",
+        "Béo phì"
+      ],
+      "answer": 0,
+      "explain": "Thiếu D làm xương không khoáng hóa gây còi xương."
+    },
+    {
+      "q": "Trẻ suy dinh dưỡng hay bị bệnh gì?",
+      "options": [
+        "Nhiễm trùng",
+        "Ung thư",
+        "Đột quỵ",
+        "Gãy xương"
+      ],
+      "answer": 0,
+      "explain": "Miễn dịch kém khiến trẻ dễ nhiễm trùng."
+    },
+    {
+      "q": "Cân nặng chuẩn lúc 1 tuổi là?",
+      "options": [
+        "5kg",
+        "9kg",
+        "12kg",
+        "15kg"
+      ],
+      "answer": 1,
+      "explain": "Cân nặng lúc 1 tuổi thường gấp 3 lúc đẻ (3x3=9kg)."
+    },
+    {
+      "q": "Sữa mẹ giàu chất gì?",
+      "options": [
+        "Protein tốt",
+        "Đường",
+        "Mỡ",
+        "Tinh bột"
+      ],
+      "answer": 0,
+      "explain": "Protein trong sữa mẹ dễ hấp thu."
+    },
+    {
+      "q": "Dấu hiệu báo động của SDD nặng?",
+      "options": [
+        "Bỏ bú",
+        "Cười",
+        "Chơi vui",
+        "Ngủ nhiều"
+      ],
+      "answer": 0,
+      "explain": "Bỏ bú là dấu hiệu rất nặng."
+    },
+    {
+      "q": "Điều trị nhiễm trùng ở trẻ SDD?",
+      "options": [
+        "Dùng kháng sinh",
+        "Không dùng",
+        "Dùng thuốc bổ",
+        "Chỉ truyền dịch"
+      ],
+      "answer": 0,
+      "explain": "Trẻ SDD cần dùng kháng sinh sớm nếu có nhiễm trùng."
+    },
+    {
+      "q": "Năng lượng chuẩn của trẻ 1-3 tuổi?",
+      "options": [
+        "1000kcal",
+        "1300kcal",
+        "2000kcal",
+        "500kcal"
+      ],
+      "answer": 1,
+      "explain": "Nhu cầu khoảng 1300 kcal/ngày cho trẻ 1-3 tuổi."
+    },
+    {
+      "q": "Thiếu kẽm gây?",
+      "options": [
+        "Chậm lớn",
+        "Béo phì",
+        "Tăng chiều cao",
+        "Tăng IQ"
+      ],
+      "answer": 0,
+      "explain": "Kẽm cần cho tăng trưởng và miễn dịch."
+    },
+    {
+      "q": "Vòng cánh tay < 115mm là?",
+      "options": [
+        "SDD cấp nặng",
+        "Thấp còi",
+        "Bình thường",
+        "Béo phì"
+      ],
+      "answer": 0,
+      "explain": "MUAC < 115mm là chỉ số SDD cấp nặng."
+    },
+    {
+      "q": "Trẻ SDD dễ bị hạ?",
+      "options": [
+        "Đường huyết",
+        "Huyết áp",
+        "Nhịp tim",
+        "Canxi"
+      ],
+      "answer": 0,
+      "explain": "Dự trữ glycogen kém gây hạ đường huyết."
+    },
+    {
+      "q": "Ăn dặm bắt đầu từ?",
+      "options": [
+        "4 tháng",
+        "6 tháng",
+        "9 tháng",
+        "12 tháng"
+      ],
+      "answer": 1,
+      "explain": "WHO khuyến cáo ăn dặm từ 6 tháng."
+    },
+    {
+      "q": "Thể Marasmus thường có?",
+      "options": [
+        "Tóc đỏ",
+        "Tóc khô",
+        "Phù",
+        "Gan to"
+      ],
+      "answer": 1,
+      "explain": "Tóc khô, dễ rụng là đặc điểm Marasmus."
+    },
+    {
+      "q": "Thiếu máu thiếu sắt hay gặp ở?",
+      "options": [
+        "Trẻ bú mẹ hoàn toàn",
+        "Trẻ ăn dặm muộn/ít đạm",
+        "Trẻ béo phì",
+        "Trẻ mới đẻ"
+      ],
+      "answer": 1,
+      "explain": "Ăn dặm sai cách thiếu đạm/sắt là nguyên nhân hàng đầu."
+    },
+    {
+      "q": "Còi xương thường gây biến dạng?",
+      "options": [
+        "Xương sọ",
+        "Cột sống",
+        "Chân vòng kiềng",
+        "Tất cả đúng"
+      ],
+      "answer": 3,
+      "explain": "Còi xương gây biến dạng toàn bộ hệ xương."
+    },
+    {
+      "q": "Vitamin A liều cao phòng bệnh?",
+      "options": [
+        "Quáng gà",
+        "Còi xương",
+        "Thiếu máu",
+        "Tiêu chảy"
+      ],
+      "answer": 0,
+      "explain": "Vitamin A giúp bảo vệ mắt."
+    },
+    {
+      "q": "Trẻ SDD hay hạ thân nhiệt do?",
+      "options": [
+        "Giảm mỡ nâu",
+        "Sốt",
+        "Tiêu chảy",
+        "Bú kém"
+      ],
+      "answer": 0,
+      "explain": "Mỡ nâu ít làm trẻ khó giữ ấm."
+    },
+    {
+      "q": "Thức ăn dặm phải đủ?",
+      "options": [
+        "4 nhóm",
+        "Chỉ bột",
+        "Chỉ rau",
+        "Chỉ đạm"
+      ],
+      "answer": 0,
+      "explain": "Cần đủ 4 nhóm chất dinh dưỡng."
+    },
+    {
+      "q": "SDD thể nhẹ cân?",
+      "options": [
+        "W/A < -2SD",
+        "H/A < -2SD",
+        "W/H < -2SD",
+        "BMI < -2SD"
+      ],
+      "answer": 0,
+      "explain": "W/A < -2SD là thể nhẹ cân."
+    },
+    {
+      "q": "Trẻ SDD cần kiểm soát gì?",
+      "options": [
+        "Dịch truyền",
+        "Năng lượng",
+        "Đường",
+        "Muối"
+      ],
+      "answer": 0,
+      "explain": "Dịch truyền cần cẩn trọng tránh quá tải."
+    },
+    {
+      "q": "Dấu hiệu tóc thưa, dễ rụng?",
+      "options": [
+        "Thiếu kẽm/đạm",
+        "Thừa cân",
+        "Bình thường",
+        "Béo phì"
+      ],
+      "answer": 0,
+      "explain": "Tóc là mô cần nhiều đạm/kẽm."
+    },
+    {
+      "q": "Tần suất ăn của trẻ SDD?",
+      "options": [
+        "Ít bữa",
+        "Nhiều bữa",
+        "Bỏ ăn",
+        "Ăn đêm"
+      ],
+      "answer": 1,
+      "explain": "Nhiều bữa giúp tăng lượng nạp."
+    },
+    {
+      "q": "Sữa mẹ giúp trẻ?",
+      "options": [
+        "Tăng IQ",
+        "Tăng miễn dịch",
+        "Tăng chiều cao",
+        "Tất cả đúng"
+      ],
+      "answer": 3,
+      "explain": "Sữa mẹ có lợi toàn diện."
+    },
+    {
+      "q": "SDD cấp tính nặng thể phù?",
+      "options": [
+        "Marasmus",
+        "Kwashiorkor",
+        "Béo phì",
+        "Thấp còi"
+      ],
+      "answer": 1,
+      "explain": "Kwashiorkor là thể phù."
+    },
+    {
+      "q": "Thiếu Vitamin D gây đóng thóp?",
+      "options": [
+        "Sớm",
+        "Muộn",
+        "Bình thường",
+        "Không đóng"
+      ],
+      "answer": 1,
+      "explain": "Còi xương làm chậm đóng thóp."
+    },
+    {
+      "q": "Trẻ ăn dặm sớm gây?",
+      "options": [
+        "SDD",
+        "Tăng cân",
+        "Khỏe mạnh",
+        "Bình thường"
+      ],
+      "answer": 0,
+      "explain": "Ăn dặm sớm làm trẻ bú mẹ ít đi, dễ SDD."
+    },
+    {
+      "q": "Trẻ SDD điều trị tại nhà khi?",
+      "options": [
+        "Còn ăn tốt",
+        "Có biến chứng",
+        "Bỏ ăn",
+        "Co giật"
+      ],
+      "answer": 0,
+      "explain": "Chỉ điều trị tại nhà khi không có biến chứng."
+    },
+    {
+      "q": "Chỉ số nào dùng toàn cầu?",
+      "options": [
+        "Z-score",
+        "Percentile",
+        "Tỷ lệ",
+        "Trung bình"
+      ],
+      "answer": 0,
+      "explain": "Z-score là chuẩn WHO."
+    }
+  ]
+}
