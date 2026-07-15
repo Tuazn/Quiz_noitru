@@ -1,0 +1,1230 @@
+{
+  "name": "Bệnh Động mạch chủ",
+  "description": "Case lâm sàng về bệnh lý chảy máu đường tiêu hoá, phình động mạch chủ, lóc tách động mạch chủ và các chấn thương/biến chứng mạch máu lớn.",
+  "level": "Ôn thi bác sĩ nội trú / Chuyên khoa Ngoại",
+  "type": "cases",
+  "category": "Ngoại",
+  "subcategory": "Tim mạch",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 68 tuổi khối đập vùng trên rốn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 68 tuổi.<br><br><b>Bệnh sử:</b> Vào viện khám sức khỏe định kỳ, hoàn toàn không có triệu chứng đau bụng hay đau lưng.<br><br><b>Tiền sử:</b> Hút thuốc lá 40 bao năm, tăng huyết áp điều trị không thường xuyên.<br><br><b>Khám lâm sàng:</b> Tỉnh, huyết áp 150/90 mmHg, mạch 80 lần/phút, BMI 26 kg/m². Khám bụng: bụng mềm, sờ thấy khối đập theo nhịp mạch ở vùng trên rốn, lệch trái, không đau khi ấn, kích thước ước lượng # 4cm, không nghe thấy tiếng thổi tại khối. Mạch bẹn và mạch mu chân hai bên bắt rõ. Các cơ quan khác chưa phát hiện bất thường.<br><br><b>Xét nghiệm:</b> Siêu âm Doppler mạch máu bụng: đường kính động mạch chủ (ĐMC) bụng đoạn dưới thận dmax = 42 mm, có huyết khối thành mạch mỏng, lòng thông thoáng tốt. Creatinin 90 µmol/L, Cholesterol toàn phần 6.2 mmol/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định phù hợp nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Phình động mạch chủ bụng dưới thận dọa vỡ",
+            "Phình động mạch chủ bụng dưới thận chưa vỡ",
+            "Giả phình động mạch chủ bụng do viêm",
+            "Xơ vữa động mạch chủ bụng dạng loét"
+          ],
+          "answer": 1,
+          "explain": "Chẩn đoán dựa vào khối phồng đập theo nhịp mạch + siêu âm d > 30mm (tiêu chuẩn chẩn đoán phình ĐMC bụng). Bệnh nhân không đau -> chưa vỡ/dọa vỡ. Hình ảnh điển hình của phình thật do xơ vữa thoái hóa."
+        },
+        {
+          "q": "Cận lâm sàng nào là tiêu chuẩn vàng để lập kế hoạch điều trị tiếp theo?",
+          "options": [
+            "Chụp cộng hưởng từ (MRI) mạch máu",
+            "Chụp cắt lớp vi tính (CTA) đa dãy có thuốc cản quang",
+            "Chụp mạch số hóa xóa nền (DSA)",
+            "Siêu âm Doppler mạch máu kiểm tra lại"
+          ],
+          "answer": 1,
+          "explain": "CTA là tiêu chuẩn vàng để đánh giá giải phẫu, hình thái túi phình, đường kính chính xác, cổ túi phình và đường vào mạch chậu -> lập kế hoạch mổ mở hoặc EVAR."
+        },
+        {
+          "q": "Theo hướng dẫn hiện hành (SVS/ESVS), thái độ xử trí phù hợp nhất với kích thước túi phình này là gì?",
+          "options": [
+            "Phẫu thuật mổ mở thay đoạn mạch nhân tạo ngay",
+            "Can thiệp nội mạch (EVAR) ngay để tránh biến chứng",
+            "Điều trị nội khoa tối ưu và theo dõi định kỳ bằng siêu âm",
+            "Nhập viện theo dõi nội trú và dùng thuốc hạ áp đường tĩnh mạch"
+          ],
+          "answer": 2,
+          "explain": "Với nam giới, phình ĐMC bụng 4.0-4.9 cm được khuyến cáo theo dõi siêu âm mỗi 6-12 tháng (ESVS 2019/SVS). Chưa có chỉ định can thiệp khi d < 5.5 cm nếu không có triệu chứng hoặc tăng kích thước nhanh."
+        },
+        {
+          "q": "Mục tiêu quan trọng nhất trong điều trị nội khoa cho bệnh nhân này để làm chậm tiến triển túi phình, NGOẠI TRỪ:",
+          "options": [
+            "Kiểm soát huyết áp chặt chẽ",
+            "Ngừng hút thuốc lá tuyệt đối",
+            "Dùng kháng sinh dự phòng nhiễm trùng túi phình",
+            "Kiểm soát rối loạn lipid máu (Statin)"
+          ],
+          "answer": 2,
+          "explain": "Kháng sinh chỉ dùng cho phình nhiễm trùng (Mycotic aneurysm). Cơ chế phình do thoái hóa xơ vữa -> quản lý yếu tố nguy cơ (HA, thuốc lá, lipid) là chính."
+        },
+        {
+          "q": "Bệnh nhân này cần được tư vấn phẫu thuật/can thiệp khi túi phình đạt đường kính bao nhiêu (đối với nam giới, nguy cơ phẫu thuật trung bình)?",
+          "options": [
+            "≥ 4.5 cm",
+            "≥ 5.0 cm",
+            "≥ 5.5 cm",
+            "≥ 6.0 cm"
+          ],
+          "answer": 2,
+          "explain": "Ngưỡng chỉ định can thiệp chuẩn cho nam giới là ≥ 5.5 cm (hoặc tăng > 10mm/năm). Với nữ giới ngưỡng thấp hơn (≥ 5.0 cm)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi đau ngực dữ dội đột ngột",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện cấp cứu vì đau ngực dữ dội đột ngột như dao đâm, lan ra sau lưng giữa hai xương bả vai.<br><br><b>Tiền sử:</b> Tăng huyết áp 10 năm không kiểm soát tốt, hút thuốc 20 bao năm.<br><br><b>Khám lâm sàng:</b> Bệnh nhân kích thích, vã mồ hôi. Huyết áp tay phải 190/110 mmHg, tay trái 100/60 mmHg. Mạch quay phải bắt rõ, mạch quay trái yếu. Nghe tim có tiếng thổi tâm trương 2/6 ở khoang liên sườn II cạnh ức phải. Phổi thông khí rõ. Bụng mềm. SpO2 98%.<br><br><b>Xét nghiệm:</b> ECG cho thấy nhịp xoang nhanh 110 ck/phút, dày thất trái, không có ST chênh lên. X-quang ngực thẳng thấy trung thất trên rộng, bóng tim to bè. Creatinin 100 µmol/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng nghĩ đến nhiều nhất là gì?",
+          "options": [
+            "Nhồi máu cơ tim cấp thành sau dưới",
+            "Lóc động mạch chủ Stanford A",
+            "Lóc động mạch chủ Stanford B",
+            "Tràn khí màng phổi áp lực"
+          ],
+          "answer": 1,
+          "explain": "Đau ngực lan ra sau lưng + chênh lệch HA hai tay + tiếng thổi hở van ĐMC (mới xuất hiện) -> Điển hình của Lóc ĐMC Stanford A (liên quan ĐMC lên). Nhồi máu cơ tim hiếm khi gây chênh lệch HA lớn như vậy."
+        },
+        {
+          "q": "Cơ chế gây ra sự chênh lệch huyết áp giữa hai tay ở bệnh nhân này là gì?",
+          "options": [
+            "Huyết khối từ tim bắn lên tắc động mạch dưới đòn trái",
+            "Lá lóc (intimal flap) che lấp hoặc lan vào động mạch dưới đòn trái",
+            "Co mạch phản xạ do đau quá mức",
+            "Chèn ép khoang trung thất chèn vào động mạch nách"
+          ],
+          "answer": 1,
+          "explain": "Lá lóc tách lớp nội mạc, tạo lòng giả ép lòng thật hoặc lá lóc trực tiếp che lấp lỗ xuất phát của các nhánh lớn (thân cánh tay đầu, cảnh chung, dưới đòn) gây thiếu máu chi/não tương ứng."
+        },
+        {
+          "q": "Xét nghiệm hình ảnh học ưu tiên hàng đầu để chẩn đoán xác định trong tình huống cấp cứu này là:",
+          "options": [
+            "Siêu âm tim qua thành ngực (TTE)",
+            "Chụp cộng hưởng từ (MRI) ngực",
+            "Chụp cắt lớp vi tính (CTA) toàn bộ động mạch chủ",
+            "Chụp động mạch vành qua da"
+          ],
+          "answer": 2,
+          "explain": "CTA là tiêu chuẩn vàng trong cấp cứu vì độ nhạy đặc hiệu cao (>95%), thực hiện nhanh, đánh giá được toàn bộ ĐMC từ ngực đến chậu để phân loại Stanford."
+        },
+        {
+          "q": "Chiến lược xử trí ban đầu quan trọng nhất trước khi có kết quả chẩn đoán hình ảnh là:",
+          "options": [
+            "Cho thuốc tiêu sợi huyết ngay lập tức",
+            "Kiểm soát đau và kiểm soát huyết áp/nhịp tim tích cực (Anti-impulse therapy)",
+            "Chọc dò màng ngoài tim giải áp",
+            "Truyền dịch nhanh để nâng huyết áp tay trái"
+          ],
+          "answer": 1,
+          "explain": "Kiểm soát 'Anti-impulse': Mục tiêu HA tâm thu 100-120 mmHg và nhịp tim < 60 l/p (thường dùng β-blocker đường tĩnh mạch như Esmolol/Labetalol) để giảm áp lực xé rách thêm (dP/dt). Tiêu sợi huyết là chống chỉ định tuyệt đối."
+        },
+        {
+          "q": "Nếu chẩn đoán được xác định là Stanford A, phương pháp điều trị bắt buộc là:",
+          "options": [
+            "Phẫu thuật cấp cứu thay đoạn động mạch chủ lên",
+            "Đặt stent graft (TEVAR) cấp cứu",
+            "Điều trị nội khoa tích cực tại ICU",
+            "Theo dõi và mổ phiên sau 2 tuần"
+          ],
+          "answer": 0,
+          "explain": "Stanford A (liên quan ĐMC lên) có nguy cơ vỡ và chèn ép tim rất cao (tử vong 1-2% mỗi giờ trong 48h đầu) -> Phẫu thuật cấp cứu là bắt buộc (thay đoạn ĐMC lên, có thể kèm thay van hoặc cắm lại mạch vành)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi khối phồng vùng cổ chân phải",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 72 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì khối phồng vùng cổ chân phải sau chấn thương nhẹ cách 3 tháng. Qua thăm khám phát hiện thêm một khối phồng ở vùng khoeo chân phải kích thước 3x3 cm, đập nảy mạnh. Bệnh nhân không có triệu chứng đau cách hồi hay thiếu máu chi cấp.<br><br><b>Tiền sử:</b> Đái tháo đường type 2, hút thuốc lá.<br><br><b>Xét nghiệm:</b> Siêu âm mạch máu chi dưới xác định phình động mạch khoeo chân phải d = 32mm có huyết khối bám thành.",
+      "questions": [
+        {
+          "q": "Trong bệnh cảnh phình động mạch khoeo, bác sĩ BẮT BUỘC phải chỉ định thêm cận lâm sàng nào để tầm soát bệnh lý phối hợp thường gặp nhất?",
+          "options": [
+            "Siêu âm tim tìm huyết khối buồng tim",
+            "Siêu âm động mạch chủ bụng",
+            "Chụp CT sọ não",
+            "X-quang ngực thẳng"
+          ],
+          "answer": 1,
+          "explain": "Có sự liên quan mật thiết về bệnh sinh (xơ vữa/thoái hóa). Tầm soát ĐMC bụng là bắt buộc vì nguy cơ vỡ ĐMC bụng gây tử vong cao hơn nhiều."
+        },
+        {
+          "q": "Tỉ lệ bệnh nhân có phình động mạch khoeo đồng thời có phình động mạch chủ bụng là khoảng bao nhiêu?",
+          "options": [
+            "< 5%",
+            "10-20%",
+            "30-50%",
+            "> 80%"
+          ],
+          "answer": 2,
+          "explain": "Theo Schwartz và các nghiên cứu: 30-50% bệnh nhân phình ĐM khoeo có kèm phình ĐMC bụng. Ngược lại, bệnh nhân phình ĐMC bụng có khoảng 10-15% kèm phình khoeo."
+        },
+        {
+          "q": "Chỉ định phẫu thuật can thiệp đối với phình động mạch khoeo thường được đặt ra khi đường kính túi phình đạt:",
+          "options": [
+            "> 1.0 cm",
+            "> 1.5 cm",
+            "> 2.0 cm",
+            "> 5.0 cm"
+          ],
+          "answer": 2,
+          "explain": "Chỉ định can thiệp phình khoeo thường là d ≥ 2.0 cm (hoặc có triệu chứng biến chứng), do nguy cơ thuyên tắc mạch xa rất cao."
+        },
+        {
+          "q": "Biến chứng nguy hiểm và thường gặp nhất của phình động mạch khoeo nếu không điều trị là:",
+          "options": [
+            "Vỡ túi phình gây sốc mất máu",
+            "Tắc mạch ngoại vi do lấp mạch (huyết khối trôi đi)",
+            "Chèn ép thần kinh chày gây liệt",
+            "Nhiễm trùng túi phình"
+          ],
+          "answer": 1,
+          "explain": "Khác với ĐMC bụng (biến chứng chính là vỡ), phình ĐM khoeo nằm trong khoang hẹp và chịu vận động gập duỗi -> dễ bong huyết khối gây tắc mạch chi cấp tính (Acute Limb Ischemia) dẫn đến đoạn chi."
+        },
+        {
+          "q": "Nhận định nào sau đây SAI về bệnh lý phình mạch ngoại vi?",
+          "options": [
+            "Phình động mạch khoeo là phình mạch ngoại vi thường gặp nhất.",
+            "Phình động mạch đùi thường liên quan đến giả phình do can thiệp y tế (sau chụp mạch).",
+            "Phình động mạch khoeo thường gặp ở hai bên (khoảng 50%).",
+            "Vỡ là biến chứng phổ biến nhất của phình động mạch khoeo, tương tự như phình chủ bụng."
+          ],
+          "answer": 3,
+          "explain": "Câu D sai. Phình ĐM khoeo hiếm khi vỡ tự nhiên, biến chứng chính là tắc mạch (thuyên tắc hoặc huyết khối tại chỗ). Các câu A, B, C đều đúng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi đau lưng dữ dội lan xuống bụng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì đau lưng dữ dội lan xuống bụng dưới.<br><br><b>Tiền sử:</b> Khỏe mạnh, không hút thuốc. Dáng người cao, gầy, ngón tay dài (ngón tay nhện), ngực ức gà, cận thị nặng (lệch thủy tinh thể).<br><br><b>Khám lâm sàng:</b> Huyết áp 130/70 mmHg.<br><br><b>Xét nghiệm:</b> Chụp CTA ngực bụng phát hiện giãn gốc động mạch chủ (Aortic Root) đường kính 52 mm, chưa có hình ảnh lóc tách. Van động mạch chủ hở mức độ vừa.",
+      "questions": [
+        {
+          "q": "Bệnh nhân này nhiều khả năng mắc hội chứng di truyền nào?",
+          "options": [
+            "Hội chứng Ehlers-Danlos",
+            "Hội chứng Marfan",
+            "Hội chứng Turner",
+            "Hội chứng Loeys-Dietz"
+          ],
+          "answer": 1,
+          "explain": "Dáng Marfanoid + lệch thủy tinh thể + giãn gốc ĐMC -> Điển hình Hội chứng Marfan."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây giãn động mạch chủ ở hội chứng này là:",
+          "options": [
+            "Lắng đọng Calci lớp áo giữa",
+            "Xơ vữa động mạch do rối loạn lipid",
+            "Thoái hóa nang lớp áo giữa (Cystic medial necrosis) do đột biến gen Fibrillin-1",
+            "Viêm mạch máu tự miễn"
+          ],
+          "answer": 2,
+          "explain": "Đột biến gen FBN1 (Fibrillin-1) làm suy yếu mô liên kết thành mạch, dẫn đến hoại tử nang lớp áo giữa (cystic medial necrosis/degeneration)."
+        },
+        {
+          "q": "Đối với bệnh nhân mắc hội chứng này, ngưỡng đường kính gốc động mạch chủ để chỉ định phẫu thuật thay đoạn gốc động mạch chủ (phẫu thuật dự phòng) là:",
+          "options": [
+            "≥ 4.5 cm (nếu có yếu tố nguy cơ) hoặc ≥ 5.0 cm",
+            "≥ 5.5 cm",
+            "≥ 6.0 cm",
+            "Chỉ mổ khi có biến chứng lóc tách"
+          ],
+          "answer": 0,
+          "explain": "Hướng dẫn ACC/AHA & ESC: Với Marfan, ngưỡng mổ là 5.0 cm. Nếu có tiền sử gia đình lóc tách, giãn nhanh (>3mm/năm), hoặc dự định mang thai -> mổ khi ≥ 4.5 cm. Thấp hơn so với phình do xơ vữa (5.5 cm)."
+        },
+        {
+          "q": "Phương pháp phẫu thuật tiêu chuẩn bao gồm thay đoạn gốc động mạch chủ và cắm lại hai động mạch vành được gọi là:",
+          "options": [
+            "Phẫu thuật Ross",
+            "Phẫu thuật Bentall (hoặc biến đổi)",
+            "Phẫu thuật Fontan",
+            "Phẫu thuật Elephant Trunk"
+          ],
+          "answer": 1,
+          "explain": "Phẫu thuật Bentall: Thay đoạn ĐMC lên và gốc ĐMC bằng ống mạch nhân tạo có kèm van cơ học/sinh học + cắm lại 2 lỗ vành vào ống mạch. Phẫu thuật David (bảo tồn van) cũng là lựa chọn nếu van tốt."
+        },
+        {
+          "q": "Yếu tố nào sau đây làm tăng nguy cơ lóc tách động mạch chủ ở bệnh nhân này, cần tư vấn tránh?",
+          "options": [
+            "Tập thể dục nhẹ nhàng (đi bộ)",
+            "Các bài tập gắng sức tĩnh (Isometry) như nâng tạ nặng",
+            "Chế độ ăn nhiều rau xanh",
+            "Sử dụng thuốc chẹn Beta giao cảm"
+          ],
+          "answer": 1,
+          "explain": "Gắng sức tĩnh (isometric exercise) làm tăng đột ngột hậu gánh và áp lực lên thành mạch -> dễ gây vỡ/lóc. Chẹn Beta là thuốc điều trị nền tảng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi lơ mơ nhợt nhạt và sốc",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi.<br><br><b>Bệnh sử:</b> Người nhà khai bệnh nhân đột ngột đau bụng dữ dội quanh rốn rồi ngất xỉu. Vào viện cấp cứu trong tình trạng lơ mơ, da niêm mạc nhợt nhạt, vã mồ hôi lạnh.<br><br><b>Tiền sử:</b> Được chẩn đoán phình động mạch chủ bụng d = 60mm cách đây 1 tháng nhưng từ chối phẫu thuật.<br><br><b>Khám lâm sàng:</b> Huyết áp tụt 70/40 mmHg, mạch nhanh nhỏ 120 lần/phút. Bụng chướng căng, gõ đục vùng thấp, sờ thấy khối đập ở thượng vị rất đau.",
+      "questions": [
+        {
+          "q": "Tam chứng kinh điển (Classic Triad) chẩn đoán vỡ phình động mạch chủ bụng bao gồm:",
+          "options": [
+            "Đau bụng, nôn máu, tụt huyết áp",
+            "Đau bụng/lưng cấp tính, khối phồng ở bụng đập theo nhịp, tụt huyết áp/sốc",
+            "Đau ngực, liệt hai chi dưới, tụt huyết áp",
+            "Sốt cao, khối ở bụng, đau bụng"
+          ],
+          "answer": 1,
+          "explain": "Tam chứng kinh điển: Đau - Khối phồng đập - Sốc (chỉ gặp ở ~50% ca, nhưng điển hình)."
+        },
+        {
+          "q": "Thái độ xử trí TỐI ƯU NHẤT (nếu cơ sở vật chất cho phép) đối với bệnh nhân này là:",
+          "options": [
+            "Chụp CT bụng có cản quang để xác định vị trí vỡ rồi mới chuyển mổ",
+            "Đẩy thẳng phòng mổ/phòng can thiệp (Hybrid) để kiểm soát chảy máu ngay (Permissive hypotension)",
+            "Hồi sức truyền dịch khối lượng lớn để nâng HA lên 120/80 mmHg trước khi làm gì khác",
+            "Chọc dò ổ bụng để chẩn đoán xác định"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân đã có chẩn đoán phình từ trước + Sốc mất máu rõ -> Không được trì hoãn để chụp CT nếu bệnh nhân không ổn định (Unstable). Chuyển ngay phòng mổ. Chụp CT chỉ khi huyết động ổn định."
+        },
+        {
+          "q": "Trong hồi sức ban đầu (trước khi kẹp được mạch), chiến lược \"Huyết áp cho phép\" (Permissive hypotension) duy trì huyết áp tâm thu ở mức nào là hợp lý để tưới máu não/tim nhưng hạn chế chảy máu?",
+          "options": [
+            "50-60 mmHg",
+            "70-90 mmHg (và bệnh nhân tỉnh)",
+            "100-110 mmHg",
+            "> 120 mmHg"
+          ],
+          "answer": 1,
+          "explain": "Permissive hypotension (Hạ áp chỉ huy cho phép): Giữ HA tâm thu 70-90 (hoặc MAP ~60) để tránh cục máu đông bong ra gây chảy máu ồ ạt trở lại (Rebleeding) trước khi kiểm soát được ĐMC."
+        },
+        {
+          "q": "Đường vào phẫu thuật mổ mở kinh điển nhanh nhất để kẹp động mạch chủ trong trường hợp vỡ là:",
+          "options": [
+            "Đường trắng giữa trên và dưới rốn",
+            "Đường dưới sườn trái",
+            "Đường sau phúc mạc",
+            "Đường McBurney"
+          ],
+          "answer": 0,
+          "explain": "Đường trắng giữa (Midline incision) cho phép tiếp cận nhanh nhất ĐMC bụng và kiểm soát động mạch chậu 2 bên, cũng như thám sát các tạng khác."
+        },
+        {
+          "q": "Nếu cơ sở có khả năng can thiệp nội mạch (EVAR), giải phẫu nào là trở ngại lớn nhất để thực hiện EVAR cấp cứu trong trường hợp vỡ (rEVAR)?",
+          "options": [
+            "Phình lan lên quá sát động mạch thận (Cổ túi phình ngắn < 10mm)",
+            "Có huyết khối bám thành mỏng",
+            "Túi phình đường kính > 8cm",
+            "Bệnh nhân đang dùng Aspirin"
+          ],
+          "answer": 0,
+          "explain": "Cổ túi phình (Neck) là yếu tố quyết định để Stent graft bám dính và làm kín (seal). Cổ quá ngắn (<10mm) hoặc gập góc nhiều là chống chỉ định (hoặc rất khó) cho EVAR tiêu chuẩn, đặc biệt trong cấp cứu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi đau bả vai và lưng âm ỉ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì đau vùng bả vai và lưng âm ỉ 3 ngày nay.<br><br><b>Tiền sử:</b> Tăng huyết áp đang dùng Amlodipin 5mg.<br><br><b>Khám lâm sàng:</b> Huyết áp 160/90 mmHg đều 2 tay. Không có dấu hiệu thần kinh khu trú, bụng mềm.<br><br><b>Xét nghiệm:</b> Chụp CTA ngực bụng phát hiện hình ảnh lóc tách động mạch chủ bắt đầu từ ngay sau chỗ xuất phát động mạch dưới đòn trái, lan xuống tới động mạch chậu chung hai bên. Lòng thật bị ép nhỏ nhưng vẫn tưới máu được các nhánh tạng (thân tạng, mạc treo, thận) và hai chi dưới. Đường kính tối đa ĐMC ngực là 38mm. Không có tràn dịch màng phổi.",
+      "questions": [
+        {
+          "q": "Phân loại chẩn đoán chính xác nhất theo Stanford và DeBakey là:",
+          "options": [
+            "Stanford A, DeBakey I",
+            "Stanford A, DeBakey II",
+            "Stanford B, DeBakey III",
+            "Stanford B, DeBakey I"
+          ],
+          "answer": 2,
+          "explain": "Lóc sau ĐM dưới đòn trái -> Stanford B. Lan xuống bụng -> DeBakey III (IIIb)."
+        },
+        {
+          "q": "Giai đoạn bệnh của bệnh nhân này được xếp vào:",
+          "options": [
+            "Cấp tính (Acute)",
+            "Bán cấp (Subacute)",
+            "Mạn tính (Chronic)",
+            "Di chứng"
+          ],
+          "answer": 0,
+          "explain": "Theo hướng dẫn mới (SVS/STS): < 14 ngày là Cấp (Acute), 15-90 ngày là Bán cấp (Subacute), > 90 ngày là Mạn. Bệnh nhân bị 3 ngày -> Cấp."
+        },
+        {
+          "q": "Chiến lược điều trị TỐI ƯU cho bệnh nhân này tại thời điểm hiện tại là:",
+          "options": [
+            "Phẫu thuật thay đoạn động mạch chủ ngực ngay lập tức",
+            "Can thiệp đặt Stent Graft (TEVAR) ngay lập tức",
+            "Điều trị nội khoa tối ưu (Thuốc hạ áp + Giảm đau) và theo dõi sát tại ICU",
+            "Mở thông vách liên nhĩ"
+          ],
+          "answer": 2,
+          "explain": "Stanford B không biến chứng (Uncomplicated) ở giai đoạn cấp: Điều trị nội khoa là chủ đạo (tỷ lệ sống >90%). Can thiệp ngay có nguy cơ tai biến cao hơn lợi ích (nguy cơ liệt tủy, đột quỵ)."
+        },
+        {
+          "q": "Chỉ định can thiệp (Phẫu thuật hoặc TEVAR) ở bệnh nhân Stanford B giai đoạn cấp/bán cấp bao gồm các yếu tố sau, TRỪ:",
+          "options": [
+            "Đau ngực tái phát hoặc không kiểm soát được bằng thuốc",
+            "Có dấu hiệu vỡ hoặc dọa vỡ (tràn máu màng phổi, giãn to nhanh)",
+            "Hội chứng thiếu máu tạng hoặc chi (Malperfusion syndrome)",
+            "Bệnh nhân lo lắng muốn can thiệp sớm dù không đau"
+          ],
+          "answer": 3,
+          "explain": "Chỉ định can thiệp Stanford B cấp (Complicated): Vỡ/dọa vỡ, Thiếu máu tạng/chi, Đau không kiểm soát, Tăng huyết áp kháng trị, Giãn nhanh. Lo lắng không phải chỉ định y khoa."
+        },
+        {
+          "q": "Biến chứng mạn tính đáng ngại nhất cần theo dõi lâu dài ở bệnh nhân này nếu điều trị nội khoa là:",
+          "options": [
+            "Hình thành phình động mạch chủ trên nền lóc tách (Aneurysmal degeneration)",
+            "Hẹp van động mạch chủ",
+            "Viêm mủ màng phổi",
+            "Nhồi máu cơ tim"
+          ],
+          "answer": 0,
+          "explain": "Theo thời gian, lòng giả có thể giãn ra tạo thành phình (Dissecting Aneurysm), nguy cơ vỡ sau này. Cần theo dõi CT định kỳ (1-3-6-12 tháng)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi chấn thương ngực sau tai nạn giao thông",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 35 tuổi.<br><br><b>Bệnh sử:</b> Tai nạn giao thông xe máy đâm vào dải phân cách cứng, ngực đập vào tay lái, nhập viện giờ thứ 2.<br><br><b>Khám lâm sàng:</b> Tỉnh táo, glasgow 15 điểm. Huyết áp 100/60 mmHg, mạch 110 l/p. Khám thấy vết bầm tím vùng trước ngực. Bụng mềm.<br><br><b>Xét nghiệm:</b> X-quang ngực thẳng tại giường: Trung thất trên rộng > 8cm, mất đường viền quai động mạch chủ (aortic knob), khí quản lệch phải. Gãy xương sườn 1-2 bên trái. Siêu âm FAST (-). Kết quả CTA cho thấy: Rách nội mạc kèm giả phình (Pseudoaneurysm) khu trú tại eo động mạch chủ, chưa thấy thoát thuốc cản quang ra khoang màng phổi.",
+      "questions": [
+        {
+          "q": "Tổn thương nghi ngờ nguy hiểm nhất cần loại trừ ngay là:",
+          "options": [
+            "Tràn khí màng phổi áp lực",
+            "Chấn thương eo động mạch chủ (Blunt Aortic Injury)",
+            "Vỡ tim",
+            "Vỡ thực quản"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế giảm tốc mạnh + dấu hiệu XQ trung thất rộng + gãy xương sườn 1-2 -> Gợi ý rất mạnh Chấn thương eo ĐMC. Đây là nguyên nhân tử vong nhanh chóng."
+        },
+        {
+          "q": "Vị trí giải phẫu thường gặp nhất của chấn thương động mạch chủ do cơ chế giảm tốc (deceleration) là:",
+          "options": [
+            "Gốc động mạch chủ",
+            "Eo động mạch chủ (Aortic Isthmus - ngay sau ĐM dưới đòn trái)",
+            "Động mạch chủ hoành",
+            "Động mạch chủ bụng dưới thận"
+          ],
+          "answer": 1,
+          "explain": "Eo ĐMC (Isthmus) là vùng ranh giới giữa phần cố định (quai) và phần di động (ngực xuống), chịu lực xé lớn nhất khi giảm tốc đột ngột (dây chằng động mạch botallo giằng kéo)."
+        },
+        {
+          "q": "Phân độ tổn thương theo SVS (Society for Vascular Surgery) là:",
+          "options": [
+            "Grade I (Rách nội mạc nhỏ)",
+            "Grade II (Khối máu tụ trong thành - Intramural hematoma)",
+            "Grade III (Giả phình - Pseudoaneurysm)",
+            "Grade IV (Vỡ tự do - Rupture)"
+          ],
+          "answer": 2,
+          "explain": "Grade I: Rách nội mạc nhẹ. Grade II: Tụ máu trong thành. Grade III: Giả phình (lớp áo ngoài/thượng mạc còn giữ máu lại). Grade IV: Vỡ tự do."
+        },
+        {
+          "q": "Phương pháp điều trị ưu tiên hiện nay cho tổn thương độ III này (nếu giải phẫu phù hợp) là:",
+          "options": [
+            "Mổ mở khâu nối tận - tận dưới tuần hoàn ngoài cơ thể",
+            "Can thiệp nội mạch đặt Stent Graft (TEVAR)",
+            "Điều trị nội khoa đơn thuần",
+            "Thắt động mạch chủ"
+          ],
+          "answer": 1,
+          "explain": "TEVAR (Endovascular) hiện là tiêu chuẩn vàng (Standard of care) cho chấn thương ĐMC (Grade II-III) vì ít xâm lấn, giảm tử vong và liệt tủy so với mổ mở, đặc biệt trên bệnh nhân đa chấn thương."
+        },
+        {
+          "q": "Trong quá trình chờ can thiệp, mục tiêu kiểm soát huyết áp tâm thu nên là:",
+          "options": [
+            "< 80 mmHg",
+            "< 100 mmHg (hoặc MAP 60-70 mmHg)",
+            "120-130 mmHg",
+            "Càng cao càng tốt để tưới máu tủy"
+          ],
+          "answer": 1,
+          "explain": "Kiểm soát HA thấp (Anti-impulse) tương tự lóc ĐMC để tránh vỡ thì 2. Mục tiêu SBP < 100 mmHg (hoặc MAP 60-70) và nhịp tim < 100."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi đi ngoài phân lỏng máu đỏ sau mổ động mạch chủ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 70 tuổi.<br><br><b>Bệnh sử:</b> Sau phẫu thuật thay đoạn động mạch chủ bụng dưới thận (mổ mở) ngày thứ 2. Bệnh nhân than đau bụng trái, chướng bụng nhẹ. Sốt 38°C. Đi ngoài phân lỏng có lẫn máu đỏ tươi.<br><br><b>Khám lâm sàng:</b> Huyết động ổn định: HA 130/80 mmHg. Mạch mu chân 2 bên rõ.<br><br><b>Xét nghiệm:</b> Bạch cầu 15 G/L. Soi đại tràng thấy niêm mạc đại tràng sigma phù nề, tím đen, hoại tử rải rác.",
+      "questions": [
+        {
+          "q": "Biến chứng nào sau đây đang xảy ra trên bệnh nhân?",
+          "options": [
+            "Viêm đại tràng giả mạc do Clostridium difficile",
+            "Thiếu máu đại tràng (Ischemic Colitis)",
+            "Xuất huyết tiêu hóa do loét dạ dày tá tràng",
+            "Nhiễm trùng vết mổ thành bụng"
+          ],
+          "answer": 1,
+          "explain": "Triệu chứng đi ngoài ra máu + nội soi đại tràng sigma hoại tử sau mổ AAA -> Điển hình Thiếu máu đại tràng (gặp 1-6% ca mổ AAA)."
+        },
+        {
+          "q": "Nguyên nhân giải phẫu chính gây ra biến chứng này trong phẫu thuật phình ĐMC bụng là do tổn thương hoặc thắt bỏ động mạch nào?",
+          "options": [
+            "Động mạch mạc treo tràng trên",
+            "Động mạch mạc treo tràng dưới (IMA)",
+            "Động mạch thân tạng",
+            "Động mạch thận trái"
+          ],
+          "answer": 1,
+          "explain": "Trong mổ AAA, ĐM mạc treo tràng dưới (IMA) thường xuất phát từ túi phình và bị thắt bỏ. Nếu tuần hoàn bên không đủ -> hoại tử."
+        },
+        {
+          "q": "Mạch máu quan trọng nhất cung cấp tuần hoàn bàng hệ (collateral) cho đại tràng sigma khi động mạch chính bị thắt là:",
+          "options": [
+            "Động mạch viền (Marginal artery of Drummond)",
+            "Động mạch gan chung",
+            "Động mạch thẹn trong",
+            "Động mạch đùi sâu"
+          ],
+          "answer": 0,
+          "explain": "Cung Riolan và ĐM viền Drummond nối giữa ĐM mạc treo tràng trên (SMA) và IMA, cấp máu bù khi IMA bị tắc."
+        },
+        {
+          "q": "Chọn tổ hợp các yếu tố nguy cơ làm tăng khả năng thiếu máu đại tràng sau mổ AAA:\n(1) Vỡ phình ĐMC bụng (sốc)\n(2) Kẹp động mạch chủ trên thận\n(3) Thắt cả hai động mạch chậu trong\n(4) Tuần hoàn bàng hệ qua động mạch viền kém",
+          "options": [
+            "(1) và (2)",
+            "(3) và (4)",
+            "(1), (2), (3)",
+            "Tất cả (1), (2), (3), (4)"
+          ],
+          "answer": 3,
+          "explain": "Sốc (giảm tưới máu hệ thống), kẹp trên thận (thiếu máu tạng tạm thời), thắt chậu trong (mất nguồn bàng hệ từ trực tràng giữa/dưới), ĐM viền kém -> đều là yếu tố nguy cơ."
+        },
+        {
+          "q": "Xử trí thích hợp nhất với tình trạng đại tràng sigma hoại tử tím đen là:",
+          "options": [
+            "Dùng thuốc giãn mạch và kháng sinh mạnh",
+            "Phẫu thuật cắt đoạn đại tràng hoại tử, làm hậu môn nhân tạo Hartman",
+            "Can thiệp nội mạch nong động mạch mạc treo",
+            "Nhịn ăn, nuôi dưỡng tĩnh mạch hoàn toàn chờ hồi phục"
+          ],
+          "answer": 1,
+          "explain": "Khi đã có hoại tử (tím đen), điều trị bảo tồn sẽ dẫn đến thủng, viêm phúc mạc và tử vong (tỉ lệ tử vong >50% nếu hoại tử). Cần mổ cấp cứu cắt đoạn đại tràng + Hậu môn nhân tạo (tránh nối ngay vì nguy cơ bục cao)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 62 tuổi phình động mạch chủ ngực bụng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 62 tuổi.<br><br><b>Bệnh sử:</b> Được chẩn đoán phình động mạch chủ ngực bụng (Thoracoabdominal Aortic Aneurysm - TAAA) đoạn từ dưới động mạch dưới đòn trái lan xuống đến ngã ba chủ chậu, bao gồm cả các nhánh tạng. Đường kính lớn nhất 65mm. Bệnh nhân được lên kế hoạch phẫu thuật (mổ mở hoặc Hybrid).<br><br><b>Tiền sử:</b> Tăng huyết áp, COPD.",
+      "questions": [
+        {
+          "q": "Theo phân loại Crawford, tổn thương lan rộng từ ĐM dưới đòn trái đến ngã ba chủ chậu thuộc loại mấy?",
+          "options": [
+            "Type I",
+            "Type II",
+            "Type III",
+            "Type IV"
+          ],
+          "answer": 1,
+          "explain": "Crawford Type II: Lan từ ĐM dưới đòn trái xuống dưới động mạch thận (bao phủ gần toàn bộ ĐMC xuống và bụng). Đây là loại nặng nề nhất."
+        },
+        {
+          "q": "Biến chứng thần kinh nghiêm trọng nhất và đáng sợ nhất của phẫu thuật can thiệp TAAA loại này là:",
+          "options": [
+            "Tai biến mạch máu não (Stroke)",
+            "Liệt hai chi dưới (Paraplegia/Paraparesis) do thiếu máu tủy",
+            "Liệt thần kinh thanh quản quặt ngược",
+            "Tổn thương đám rối thần kinh cánh tay"
+          ],
+          "answer": 1,
+          "explain": "Type II có nguy cơ liệt tủy cao nhất (có thể tới 10-20% nếu không bảo vệ) do che lấp nhiều động mạch liên sườn và thắt lưng nuôi tủy."
+        },
+        {
+          "q": "Động mạch chính cấp máu cho tủy sống vùng ngực thấp và thắt lưng (thường xuất phát ở mức T9-L12) tên là gì?",
+          "options": [
+            "Động mạch đốt sống",
+            "Động mạch rễ lớn (Adamkiewicz)",
+            "Động mạch ngực trong",
+            "Động mạch chậu trong"
+          ],
+          "answer": 1,
+          "explain": "ĐM Adamkiewicz (Artery of Adamkiewicz) là nguồn cấp máu quan trọng nhất cho tủy sống đoạn 1/3 dưới."
+        },
+        {
+          "q": "Để dự phòng biến chứng liệt tủy, biện pháp nào sau đây thường được áp dụng trong và sau mổ?",
+          "options": [
+            "Dẫn lưu dịch não tủy (CSF drainage) để giảm áp lực khoang dưới nhện",
+            "Giữ huyết áp thấp tối đa sau mổ",
+            "Dùng Corticoid liều cao",
+            "Truyền glucose ưu trương"
+          ],
+          "answer": 0,
+          "explain": "Dẫn lưu dịch não tủy (CSFP <10mmHg) + Giữ MAP cao (>90mmHg) giúp tăng áp lực tưới máu tủy (SCPP). (Lý thuyết: Máu vào tủy phải thắng được áp lực dịch não tủy ép vào)."
+        },
+        {
+          "q": "Áp lực tưới máu tủy (Spinal Cord Perfusion Pressure - SCPP) được tính bằng công thức nào?",
+          "options": [
+            "SCPP = Huyết áp tâm thu - Áp lực dịch não tủy (CSFP)",
+            "SCPP = Huyết áp trung bình (MAP) - Áp lực dịch não tủy (CSFP)",
+            "SCPP = Huyết áp trung bình (MAP) + Áp lực tĩnh mạch trung tâm (CVP)",
+            "SCPP = MAP - CVP"
+          ],
+          "answer": 1,
+          "explain": "SCPP = MAP - CSFP (hoặc CVP, lấy trị số nào lớn hơn, nhưng thường CSFP quan trọng hơn trong bối cảnh này). Tăng MAP và giảm CSFP là chìa khóa bảo vệ tủy."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi sốt dai dẳng và đau lưng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì sốt dai dẳng 3 tuần kèm đau lưng âm ỉ.<br><br><b>Tiền sử:</b> Nghiện ma túy đường tĩnh mạch, suy giảm miễn dịch (HIV chưa điều trị).<br><br><b>Xét nghiệm:</b> Máu: Bạch cầu 18 G/L, CRP 150 mg/L. Cấy máu dương tính với Salmonella spp. Chụp CT bụng phát hiện khối phình động mạch chủ bụng dạng túi (saccular), thành dày ngấm thuốc mạnh, xung quanh có thâm nhiễm mỡ và ít dịch. Đường kính khối phình 45mm.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất là:",
+          "options": [
+            "Phình động mạch chủ bụng do xơ vữa",
+            "Phình động mạch chủ nhiễm trùng (Mycotic Aneurysm)",
+            "Phình động mạch chủ do giang mai",
+            "Viêm quanh động mạch chủ (Periaortitis)"
+          ],
+          "answer": 1,
+          "explain": "Cơ địa suy giảm miễn dịch + Sốt + Cấy máu (+) + Hình ảnh CT viêm/dạng túi -> Mycotic aneurysm (Phình nhiễm trùng). Thuật ngữ \"Mycotic\" do Osler đặt tên (dù thường do vi khuẩn chứ không phải nấm)."
+        },
+        {
+          "q": "Vi khuẩn thường gặp nhất gây phình động mạch chủ nhiễm trùng là (chọn tập hợp đúng):\n(1) Staphylococcus aureus\n(2) Salmonella spp\n(3) Mycobacterium tuberculosis\n(4) E. coli",
+          "options": [
+            "(1) và (2)",
+            "(3) và (4)",
+            "(2) và (3)",
+            "(1) và (4)"
+          ],
+          "answer": 0,
+          "explain": "Staphylococcus và Salmonella là 2 tác nhân hàng đầu. Salmonella có ái lực đặc biệt với thành mạch xơ vữa."
+        },
+        {
+          "q": "Đặc điểm hình ảnh học trên CT gợi ý phình nhiễm trùng, TRỪ:",
+          "options": [
+            "Hình dạng túi (saccular) hoặc nhiều thùy",
+            "Tăng trưởng kích thước rất nhanh trong thời gian ngắn",
+            "Có khí trong thành mạch hoặc xung quanh",
+            "Vôi hóa thành mạch toàn bộ chu vi điển hình"
+          ],
+          "answer": 3,
+          "explain": "Vôi hóa toàn bộ chu vi là đặc điểm của xơ vữa mạn tính ổn định. Phình nhiễm trùng thường phá hủy thành mạch, mất lớp vôi hóa, dạng túi lệch tâm, có khí/dịch viêm."
+        },
+        {
+          "q": "Nguyên tắc điều trị ngoại khoa quan trọng nhất đối với phình động mạch chủ nhiễm trùng đang hoạt động là:",
+          "options": [
+            "Chỉ đặt Stent Graft (EVAR) đơn thuần",
+            "Cắt bỏ túi phình, lấy hết tổ chức nhiễm trùng, giải quyết nguồn nhiễm và tái lập lưu thông mạch máu",
+            "Dùng kháng sinh 6 tuần rồi mới mổ",
+            "Dẫn lưu ổ áp xe quanh động mạch chủ dưới siêu âm"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc: Phải loại bỏ nguồn nhiễm (debridement). EVAR đơn thuần trong môi trường mủ/nhiễm trùng hoạt động có nguy cơ nhiễm trùng stent rất cao (dù EVAR có thể dùng tạm thời trong cấp cứu vỡ)."
+        },
+        {
+          "q": "Trong trường hợp phải tái lập lưu thông mạch máu ở môi trường nhiễm trùng, vật liệu nào được ưu tiên lựa chọn để giảm nguy cơ nhiễm trùng mảnh ghép?",
+          "options": [
+            "Mạch nhân tạo PTFE thông thường",
+            "Mạch nhân tạo Dacron thông thường",
+            "Tĩnh mạch tự thân (như tĩnh mạch đùi sâu) hoặc mảnh ghép đồng loại (Homograft)",
+            "Mạch nhân tạo tẩm Heparin"
+          ],
+          "answer": 2,
+          "explain": "Tĩnh mạch tự thân (Superficial Femoral Vein - SFV) hoặc Homograft (mảnh ghép đồng loại) là các mô sinh học, có khả năng chống lại nhiễm trùng tốt hơn rất nhiều so với vật liệu tổng hợp (PTFE/Dacron)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi đau ngực như xé rách",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 55 tuổi.<br><br><b>Bệnh sử:</b> Vào cấp cứu vì đột ngột đau ngực dữ dội, cảm giác như xé rách lan ra sau lưng giữa hai xương bả vai. Cơn đau khởi phát cách nhập viện 2 giờ, bệnh nhân không có tiền sử chấn thương ngực.<br><br><b>Tiền sử:</b> Tăng huyết áp 10 năm không điều trị thường xuyên.<br><br><b>Khám lâm sàng:</b> Ý thức tỉnh, vã mồ hôi. Huyết áp đo ở tay phải 180/100 mmHg, huyết áp đo ở tay trái 100/60 mmHg, nhịp tim 105 lần/phút. Nghe tim có tiếng thổi tâm trương 3/6 ở khoang liên sườn III bờ trái xương ức. Không có dấu hiệu thần kinh khu trú, không đau bụng.<br><br><b>Xét nghiệm:</b> Điện tâm đồ nhịp xoang nhanh, không có đoạn ST chênh lên. X-quang ngực thẳng thấy trung thất rộng.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất là gì?",
+          "options": [
+            "Nhồi máu cơ tim cấp tính",
+            "Tách động mạch chủ type A",
+            "Tách động mạch chủ type B",
+            "Tắc động mạch dưới đòn cấp"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh đau ngực kiểu xé rách, huyết áp hai tay chênh lệch và có tiếng thổi tâm trương (gợi ý hở van động mạch chủ cấp) trên nền trung thất rộng rất điển hình của tách động mạch chủ type A (lan đến gốc động mạch chủ). Điện tâm đồ bình thường giúp loại trừ nhồi máu cơ tim."
+        },
+        {
+          "q": "Cơ chế giải phẫu bệnh nào gây ra sự chênh lệch huyết áp hai tay ở bệnh nhân này?",
+          "options": [
+            "Huyết khối từ nhĩ trái lấp mạch",
+            "Mảng vữa xơ bong tróc lấp mạch",
+            "Lòng giả chèn ép lỗ xuất phát",
+            "Co thắt động mạch do phản xạ thần kinh"
+          ],
+          "answer": 2,
+          "explain": "Sự chênh lệch huyết áp xảy ra do lớp nội mạc bị lóc tạo thành lòng giả. Lòng giả căng phồng do áp lực cao đè ép vào lỗ xuất phát của nhánh cung động mạch chủ (thường là động mạch dưới đòn trái), gây hẹp cơ học và tụt huyết áp ở chi tương ứng."
+        },
+        {
+          "q": "Bước xử trí thuốc tĩnh mạch đầu tiên cần ưu tiên là gì?",
+          "options": [
+            "Thuốc chẹn beta giao cảm tĩnh mạch",
+            "Thuốc tiêu sợi huyết đường tĩnh mạch",
+            "Thuốc giãn mạch trực tiếp tĩnh mạch",
+            "Thuốc kháng kết tập tiểu cầu đường uống"
+          ],
+          "answer": 0,
+          "explain": "Nguyên tắc hồi sức hàng đầu là giảm lực xé thành mạch (dP/dt). Bắt buộc phải dùng thuốc hạ nhịp tim (chẹn beta) tĩnh mạch trước để đưa nhịp tim xuống < 60 lần/phút. Dùng giãn mạch trực tiếp đơn thuần sẽ gây nhịp nhanh phản xạ, làm vết rách lan rộng."
+        },
+        {
+          "q": "Phương pháp hình ảnh học nào cần chỉ định tiếp theo để chẩn đoán xác định?",
+          "options": [
+            "Chụp cắt lớp vi tính có cản quang",
+            "Chụp cộng hưởng từ lồng ngực",
+            "Chụp mạch vành qua da can thiệp",
+            "Siêu âm tim qua thành ngực cấp cứu"
+          ],
+          "answer": 0,
+          "explain": "Chụp cắt lớp vi tính (CT) mạch máu ngực có cản quang (CTA) là tiêu chuẩn vàng trong cấp cứu để xác định vị trí lỗ rách nội mạc, phạm vi lóc tách và lập bản đồ can thiệp."
+        },
+        {
+          "q": "Phương pháp phẫu thuật được ưu tiên chỉ định nếu xác nhận chẩn đoán là gì?",
+          "options": [
+            "Can thiệp đặt stent nội mạch",
+            "Phẫu thuật thay đoạn mạch lên",
+            "Phẫu thuật bắc cầu chủ vành",
+            "Mở mạch máu lấy cục huyết khối cấp cứu"
+          ],
+          "answer": 1,
+          "explain": "Tách động mạch chủ type A là cấp cứu ngoại khoa tối khẩn cấp do nguy cơ vỡ màng tim và chèn ép tim cấp. Phẫu thuật mở xương ức thay đoạn động mạch chủ lên bị rách là phương pháp điều trị triệt để bắt buộc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 25 tuổi tai nạn giao thông đối đầu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 25 tuổi.<br><br><b>Bệnh sử:</b> Lái xe máy bị tai nạn giao thông đối đầu ở tốc độ cao, ngực đập mạnh vào ghi đông xe. Nhập cấp cứu.<br><br><b>Khám lâm sàng:</b> GCS 14 điểm, thở nông nhanh 26 lần/phút, mạch 115 lần/phút. Huyết áp đo ở tay phải 140/90 mmHg, nhưng mạch đùi và mạch mu chân hai bên bắt rất yếu, huyết áp chi dưới 90/60 mmHg.<br><br><b>Xét nghiệm:</b> Siêu âm FAST tại giường âm tính, không có dịch tự do. X-quang ngực thẳng tại cấp cứu cho thấy bóng trung thất giãn rộng, xóa mờ cung động mạch chủ. Chụp cắt lớp vi tính (CT) lồng ngực có cản quang phát hiện tổn thương rách lớp nội mạc và tụ máu thành mạch, không rò rỉ thuốc cản quang ra khoang màng phổi.",
+      "questions": [
+        {
+          "q": "Vị trí giải phẫu nào thường bị xé rách nhất trong cơ chế chấn thương này?",
+          "options": [
+            "Gốc động mạch chủ đoạn lên",
+            "Eo động mạch chủ đoạn ngực",
+            "Lỗ động mạch vành bên phải",
+            "Động mạch chủ đoạn dưới thận"
+          ],
+          "answer": 1,
+          "explain": "Trong tai nạn đối đầu tốc độ cao, sự giảm tốc đột ngột (deceleration) gây ra lực giằng xé mạnh nhất tại eo động mạch chủ (isthmus) - ranh giới giữa phần quai động mạch di động và phần động mạch chủ ngực xuống bị cố định."
+        },
+        {
+          "q": "Cơ chế nào giải thích tình trạng huyết áp chi dưới thấp hơn chi trên?",
+          "options": [
+            "Vạt nội mạc gây hẹp lòng thật",
+            "Co thắt động mạch đùi phản xạ",
+            "Huyết khối lấp động mạch chậu",
+            "Chèn ép tim cấp khoang màng ngoài tim"
+          ],
+          "answer": 0,
+          "explain": "Lớp nội mạc và trung mạc bị xé rách lật vào bên trong lòng mạch tạo thành vạt nội mạc (intimal flap), hoặc khối máu tụ vách căng phồng lên làm hẹp cơ học lòng thật động mạch chủ. Điều này cản trở dòng máu đi xuống thân dưới, tạo ra hội chứng giả hẹp eo động mạch chủ với huyết áp tay > chân."
+        },
+        {
+          "q": "Mục tiêu hồi sức nội khoa ban đầu trong lúc chờ can thiệp là gì?",
+          "options": [
+            "Bơm dịch truyền khối lượng tối đa",
+            "Dùng thuốc vận mạch gây co mạch",
+            "Hạ huyết áp tâm thu và nhịp tim",
+            "Dùng thuốc tiêu sợi huyết tĩnh mạch"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có tổn thương mạch máu nhưng chưa vỡ tự do, huyết động đang ổn định. Cần lập tức dùng thuốc chẹn beta tĩnh mạch để kiểm soát nhịp tim (< 100 lần/phút) và hạ áp (duy trì tâm thu 100-120 mmHg) nhằm tránh làm vết rách vỡ tung hoàn toàn."
+        },
+        {
+          "q": "Phương pháp can thiệp ưu tiên hiện nay cho tổn thương này nếu huyết động ổn định là gì?",
+          "options": [
+            "Mở lồng ngực khâu nối mạch máu",
+            "Đặt stent graft đoạn lồng ngực",
+            "Phẫu thuật bắc cầu ngoài giải phẫu",
+            "Dẫn lưu màng phổi trái cấp cứu"
+          ],
+          "answer": 1,
+          "explain": "Hiện nay, can thiệp đặt stent graft nội mạch (TEVAR) thay thế cho mổ mở lồng ngực là tiêu chuẩn vàng, giúp giảm tỷ lệ tử vong và biến chứng liệt tủy sống ở bệnh nhân đa chấn thương."
+        },
+        {
+          "q": "Chọn tập hợp ĐÚNG về chấn thương eo động mạch chủ trong tình huống này:\n(1) Thường do cơ chế giảm tốc đột ngột gây giằng xé\n(2) Chụp X-quang ngực thẳng hầu như luôn bình thường\n(3) Dây chằng động mạch là cấu trúc neo giữ gây điểm yếu\n(4) Luôn phải phẫu thuật mổ mở lồng ngực cấp cứu mọi ca",
+          "options": [
+            "1, 2",
+            "1, 3",
+            "2, 4",
+            "3, 4"
+          ],
+          "answer": 1,
+          "explain": "Mệnh đề (1) và (3) đúng về cơ chế bệnh sinh do điểm neo giữ của dây chằng động mạch. Mệnh đề (2) sai vì X-quang thường có trung thất rộng. Mệnh đề (4) sai vì TEVAR ít xâm lấn mới là lựa chọn ưu tiên, không phải mổ mở."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 64 tuổi lóc tách động mạch chủ đau bụng dữ dội",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ 64 tuổi.<br><br><b>Bệnh sử:</b> Đang điều trị nội khoa tĩnh mạch tại khoa Hồi sức. Hôm nay bệnh nhân đột ngột đau chướng bụng dữ dội, đau không tương xứng với triệu chứng thực thể do bụng chỉ ấn tức nhẹ, không co cứng. Bệnh nhân vô niệu hoàn toàn trong 8 giờ qua.<br><br><b>Tiền sử:</b> Lóc tách động mạch chủ Stanford B cách đây 3 ngày.<br><br><b>Khám lâm sàng:</b> Huyết áp 160/90 mmHg, nhịp tim 110 lần/phút. Hai chân lạnh, mất mạch mu chân hai bên.<br><br><b>Xét nghiệm:</b> Lactate máu tăng 4.5 mmol/L, Creatinin tăng cấp tính lên 250 µmol/L. Chụp CT mạch máu xác nhận lòng giả đè ép nặng nề làm xẹp lòng thật ở đoạn bụng.",
+      "questions": [
+        {
+          "q": "Biến chứng cấp tính nào đang đe dọa sinh mạng bệnh nhân?",
+          "options": [
+            "Hội chứng chèn ép khoang ổ bụng",
+            "Hội chứng giảm tưới máu các tạng bụng",
+            "Vỡ động mạch chủ vào trong ổ bụng",
+            "Tắc ruột cơ học do xoắn đại tràng"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có suy thận vô niệu (tắc nhánh thận), đau bụng dữ dội (tắc nhánh mạc treo) và mất mạch chân (tắc chậu) trên nền lóc tách type B. Đây là biểu hiện đặc trưng của Hội chứng giảm tưới máu tạng (Malperfusion syndrome), cần xử trí khẩn cấp."
+        },
+        {
+          "q": "Cơ chế vật lý nào giải thích tình trạng thiếu máu nuôi ruột và thận?",
+          "options": [
+            "Mảng xơ vữa bong ra gây lấp mạch",
+            "Huyết khối từ tim trôi xuống lấp",
+            "Lòng giả chèn ép cơ học lòng thật",
+            "Co thắt mạch máu do phản xạ thần kinh"
+          ],
+          "answer": 2,
+          "explain": "Dòng máu áp lực cao liên tục bơm vào lòng giả nhưng không có đường ra tốt làm lòng giả phình to. Ở cơ chế chèn ép động học, màng nội mạc bị đẩy phồng lên đè xẹp lòng thật, chặn kín lỗ xuất phát của các động mạch tạng."
+        },
+        {
+          "q": "Dữ kiện xét nghiệm nào phản ánh rõ nhất mức độ thiếu máu mạc treo ruột?",
+          "options": [
+            "Tăng nồng độ Creatinin máu",
+            "Tăng nồng độ Lactate máu",
+            "Giảm nồng độ Hemoglobin máu",
+            "Tăng nồng độ Troponin T máu"
+          ],
+          "answer": 1,
+          "explain": "Thiếu máu cục bộ ruột dẫn đến chuyển hóa yếm khí và hoại tử tế bào, giải phóng axit lactic. Lactate máu tăng là chỉ điểm cực kỳ quan trọng và nhạy cảm cho tình trạng thiếu máu mạc treo đang tiến triển."
+        },
+        {
+          "q": "Thuốc nào sau đây KHÔNG ĐƯỢC chỉ định trong hồi sức ban đầu ở bệnh nhân này?",
+          "options": [
+            "Thuốc giảm đau tĩnh mạch nhóm opioid",
+            "Thuốc tiêu sợi huyết đường tĩnh mạch",
+            "Thuốc chẹn beta giao cảm đường tĩnh mạch",
+            "Dung dịch truyền tĩnh mạch tinh thể"
+          ],
+          "answer": 1,
+          "explain": "Việc dùng thuốc tiêu sợi huyết (B) là chống chỉ định tuyệt đối vì sẽ làm tan cục máu đông đang tự bảo vệ ở đường rách, dẫn đến chảy máu ồ ạt, lan rộng bóc tách và vỡ động mạch chủ. Các thuốc còn lại (giảm đau, chẹn beta, truyền dịch) là bắt buộc."
+        },
+        {
+          "q": "Lựa chọn can thiệp ưu tiên để phục hồi dòng máu nuôi tạng là gì?",
+          "options": [
+            "Mở ổ bụng cắt bỏ đoạn ruột hoại tử",
+            "Đặt stent graft đoạn mạch lồng ngực",
+            "Phẫu thuật bắc cầu chủ mạc treo tràng",
+            "Thay toàn bộ động mạch chủ đoạn bụng"
+          ],
+          "answer": 1,
+          "explain": "Can thiệp đặt stent graft (TEVAR) nội mạch đoạn ngực che lấp lỗ rách nguyên phát sẽ chặn dòng máu vào lòng giả. Khi áp lực lòng giả giảm, lòng thật sẽ nở bung ra, tự động khôi phục dòng chảy tự nhiên vào ruột và thận mà không cần mở bụng lớn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi đau nhức bắp chân khi đi bộ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 58 tuổi.<br><br><b>Bệnh sử:</b> Đến khám vì đau nhức bắp chân, vùng mông và đùi hai bên khi đi bộ khoảng 100 mét, nghỉ ngơi 5 phút thì đỡ đau. Gần đây, bệnh nhân than phiền bị rối loạn cương dương kéo dài.<br><br><b>Tiền sử:</b> Hút thuốc lá 30 bao năm.<br><br><b>Khám lâm sàng:</b> Mạch 80 lần/phút, huyết áp 130/80 mmHg. Da cẳng chân hai bên lạnh, rụng lông. Mạch bẹn, mạch khoeo và mạch mu chân hai bên hoàn toàn không bắt được. Nghe có tiếng thổi tâm thu ở vùng rốn.<br><br><b>Xét nghiệm:</b> Chức năng gan thận trong giới hạn bình thường, đường huyết đói 5.5 mmol/L.",
+      "questions": [
+        {
+          "q": "Bệnh cảnh lâm sàng của bệnh nhân thuộc hội chứng nào?",
+          "options": [
+            "Hội chứng di truyền bẩm sinh Marfan",
+            "Hội chứng tắc chủ chậu Leriche",
+            "Hội chứng thiếu máu chi cấp Raynaud",
+            "Hội chứng chèn ép lối thoát lồng ngực"
+          ],
+          "answer": 1,
+          "explain": "Tam chứng kinh điển bao gồm: đau cách hồi vùng mông đùi, rối loạn cương dương và mất mạch đùi hai bên ở nam giới lớn tuổi hút thuốc lá là biểu hiện đặc trưng của Hội chứng Leriche."
+        },
+        {
+          "q": "Vị trí giải phẫu nào bị hẹp tắc mạn tính gây ra các triệu chứng trên?",
+          "options": [
+            "Ngã ba động mạch chủ chậu",
+            "Động mạch đùi nông hai bên",
+            "Động mạch khoeo hai bên chi",
+            "Động mạch chày trước chày sau"
+          ],
+          "answer": 0,
+          "explain": "Hội chứng Leriche xảy ra do xơ vữa động mạch gây tắc nghẽn mạn tính ngay tại vị trí ngã ba động mạch chủ bụng chia đôi thành hai nhánh động mạch chậu chung. Máu không xuống được chậu trong gây liệt dương, không xuống được đùi gây mất mạch."
+        },
+        {
+          "q": "Thăm dò chức năng không xâm lấn nào cần thực hiện đầu tay để chẩn đoán?",
+          "options": [
+            "Chụp cắt lớp vi tính toàn bộ mạch máu chi",
+            "Chụp cộng hưởng từ mạch máu chậu",
+            "Đo chỉ số huyết áp cổ chân cánh tay",
+            "Chụp mạch máu số hóa xóa nền chi"
+          ],
+          "answer": 2,
+          "explain": "Đo chỉ số huyết áp tâm thu cổ chân chia cho cánh tay (ABI) kết hợp siêu âm Doppler là xét nghiệm tầm soát đầu tay, rẻ tiền và hiệu quả để xác định tình trạng hẹp tắc mạch ngoại biên chi dưới trước khi chụp cắt lớp vi tính."
+        },
+        {
+          "q": "Biện pháp điều trị bảo tồn nào quan trọng nhất giúp phát triển tuần hoàn bàng hệ?",
+          "options": [
+            "Uống thuốc chống đông máu kháng vitamin K",
+            "Tuân thủ chế độ tập đi bộ có sự giám sát",
+            "Nằm bất động tuyệt đối trên giường bệnh viện",
+            "Phẫu thuật cắt cụt chi dưới dự phòng sớm"
+          ],
+          "answer": 1,
+          "explain": "Ngoài việc cai thuốc lá, liệu pháp tập đi bộ có giám sát (tập đến khi đau, nghỉ rồi tập tiếp) tạo ra tình trạng thiếu máu cục bộ kích thích, từ đó thúc đẩy tăng sinh các nhánh mạch bàng hệ tự nhiên để cải thiện tưới máu vùng thiếu hụt."
+        },
+        {
+          "q": "Nếu có chỉ định can thiệp phẫu thuật mở, phương pháp nào mang lại thông suốt dài hạn nhất?",
+          "options": [
+            "Phẫu thuật bắc cầu nách đùi hai bên",
+            "Phẫu thuật bắc cầu chủ đùi hai bên",
+            "Mở bóc nội mạc động mạch đùi nông",
+            "Cắt rễ thần kinh giao cảm thắt lưng"
+          ],
+          "answer": 1,
+          "explain": "Ở bệnh nhân có tổn thương tắc đoạn dài ngã ba chủ - chậu hoàn toàn, phẫu thuật mổ mở bắc cầu động mạch chủ - đùi hai bên bằng ống ghép nhân tạo chữ Y (Aortobifemoral bypass) là tiêu chuẩn vàng, mang lại lưu thông máu tốt và bền vững nhất."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi khối đập vùng trên rốn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 68 tuổi.<br><br><b>Bệnh sử:</b> Đi khám sức khỏe tổng quát. Bệnh nhân hoàn toàn không có triệu chứng đau bụng hay thắt lưng.<br><br><b>Tiền sử:</b> Thể trạng béo phì, hút thuốc lá 20 bao năm.<br><br><b>Khám lâm sàng:</b> Huyết áp 140/85 mmHg, nhịp tim 75 lần/phút. Sờ sâu vùng trên rốn có một khối đập mờ nhạt theo nhịp mạch. Các mạch ngoại vi bắt rõ.<br><br><b>Xét nghiệm:</b> Siêu âm ổ bụng phát hiện đoạn động mạch chủ bụng dưới động mạch thận giãn hình thoi, đường kính ngang lớn nhất đo được là 45 mm, có huyết khối bám thành dày 10 mm. Chức năng thận bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán sơ bộ ban đầu phù hợp nhất là gì?",
+          "options": [
+            "Tách động mạch chủ bụng đoạn dưới thận",
+            "Phình động mạch chủ bụng đang dọa vỡ",
+            "Phình động mạch chủ chưa biến chứng",
+            "Giả phình động mạch chủ lớn do xơ vữa"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân phát hiện tình cờ qua siêu âm một khối giãn động mạch 45 mm, hoàn toàn không có triệu chứng đau lưng/bụng đe dọa. Đây là tình trạng phình động mạch chủ bụng không triệu chứng (chưa biến chứng)."
+        },
+        {
+          "q": "Cơ chế giải phẫu bệnh chính gây giãn thành mạch ở bệnh nhân này là gì?",
+          "options": [
+            "Viêm hoại tử toàn bộ lớp nội mạc",
+            "Thoái hóa mạng lưới elastin trung mạc",
+            "Tăng sinh quá mức của lớp ngoại mạc",
+            "Lắng đọng phức hợp miễn dịch mạn tính"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế cốt lõi của phình động mạch chủ do xơ vữa là sự gia tăng hoạt động của các men metalloproteinase do viêm mạn tính, phá hủy mạng lưới elastin và collagen ở lớp áo giữa (trung mạc), làm thành mạch suy yếu và giãn dần."
+        },
+        {
+          "q": "Chiến lược quản lý hình ảnh học định kỳ nào tối ưu nhất hiện tại?",
+          "options": [
+            "Siêu âm ổ bụng định kỳ mỗi sáu tháng",
+            "Chụp cắt lớp vi tính bụng mỗi một tháng",
+            "Chụp cộng hưởng từ mạch máu mỗi ba năm",
+            "Chụp mạch máu số hóa xóa nền ổ bụng ngay"
+          ],
+          "answer": 0,
+          "explain": "Với kích thước 4.0 - 4.9 cm (như bệnh nhân là 4.5 cm), chưa đạt ngưỡng mổ, siêu âm ổ bụng định kỳ mỗi 6 tháng là biện pháp không nhiễm xạ, rẻ tiền và đủ chính xác để theo dõi tốc độ giãn của túi phình."
+        },
+        {
+          "q": "Theo tiêu chuẩn hiện hành ở nam giới, túi phình cần đạt đường kính tối thiểu bao nhiêu để có chỉ định can thiệp chương trình?",
+          "options": [
+            "Kích thước túi phình đạt tối thiểu 35 mm",
+            "Kích thước túi phình đạt tối thiểu 45 mm",
+            "Kích thước túi phình đạt tối thiểu 55 mm",
+            "Kích thước túi phình đạt tối thiểu 65 mm"
+          ],
+          "answer": 2,
+          "explain": "Ngưỡng can thiệp phẫu thuật (mổ mở hoặc can thiệp nội mạch) dự phòng vỡ ở nam giới mắc phình động mạch chủ bụng không triệu chứng thường được khuyến cáo là khi đường kính ngang lớn nhất ≥ 5.5 cm (hoặc giãn nhanh > 1 cm/năm)."
+        },
+        {
+          "q": "Lời khuyên thay đổi lối sống nào giúp giảm tốc độ lớn của túi phình hiệu quả nhất?",
+          "options": [
+            "Cai hút thuốc lá hoàn toàn",
+            "Giảm lượng muối trong khẩu phần ăn",
+            "Tăng cường tập tạ nặng vùng cơ bụng",
+            "Sử dụng thuốc lợi tiểu quai liều cao"
+          ],
+          "answer": 0,
+          "explain": "Hút thuốc lá là yếu tố nguy cơ độc lập mạnh nhất có liên quan mật thiết đến sự hình thành, tốc độ giãn lớn và nguy cơ vỡ của phình động mạch. Yêu cầu bệnh nhân cai thuốc lá hoàn toàn là bước can thiệp sống còn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 48 tuổi sốt cao và đau thắt lưng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 48 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì sốt cao 39°C, rét run và đau dữ dội vùng thắt lưng 2 tuần nay.<br><br><b>Tiền sử:</b> Tiêm chích ma túy.<br><br><b>Khám lâm sàng:</b> Mạch 110 lần/phút, huyết áp 110/65 mmHg. Bụng mềm, sờ sâu quanh rốn thấy một khối đập theo nhịp tim, ấn rất đau. Không có phản ứng thành bụng.<br><br><b>Xét nghiệm:</b> Bạch cầu 18 G/L (85% đa nhân trung tính), CRP 150 mg/L. Cấy máu mọc Staphylococcus aureus. CT bụng có cản quang phát hiện ổ phình dạng túi (saccular) đường kính 4 cm ở động mạch chủ bụng dưới thận, có thâm nhiễm mỡ mạnh và ổ tụ dịch nhỏ xung quanh.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguyên nhân gây bệnh lý động mạch chủ phù hợp nhất là gì?",
+          "options": [
+            "Phình động mạch chủ do xơ vữa",
+            "Phình động mạch chủ nhiễm khuẩn",
+            "Bóc tách động mạch chủ mạn tính",
+            "Phình mạch do bệnh mô liên kết"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân tiêm chích ma túy, có hội chứng nhiễm trùng máu nặng (sốt cao, cấy máu ra tụ cầu vàng) kết hợp với khối phình động mạch chủ đập đau chói và thâm nhiễm viêm xung quanh. Đây là bệnh cảnh đặc trưng của phình động mạch chủ nhiễm khuẩn (Mycotic aneurysm)."
+        },
+        {
+          "q": "Cơ chế bệnh sinh trực tiếp hình thành túi phình trên bệnh nhân này là gì?",
+          "options": [
+            "Rách lớp nội mạc mạch máu do huyết áp tăng cao",
+            "Thoái hóa cấu trúc mô liên kết tự nhiên do tuổi già",
+            "Vi khuẩn phá hủy vách động mạch thông qua đường máu",
+            "Đột biến gen di truyền sản xuất sợi cấu trúc fibrillin-1"
+          ],
+          "answer": 2,
+          "explain": "Vi khuẩn có độc lực lưu hành trong máu (từ thói quen tiêm chích) bám vào hệ thống vi mạch nuôi thành mạch (vasa vasorum) hoặc tổn thương nội mạc. Tại đây, vi khuẩn sinh sôi, tạo ổ mủ và phá hủy nhanh chóng lớp áo giữa, làm thành mạch yếu tạo túi phình."
+        },
+        {
+          "q": "Tại sao cấu trúc phình dạng túi lại có nguy cơ vỡ đột ngột cao hơn phình hình thoi?",
+          "options": [
+            "Áp lực máu tác động khu trú lên điểm yếu",
+            "Kích thước túi phình dạng này luôn lớn hơn 6 cm",
+            "Túi phình dạng túi thường không có lớp huyết khối",
+            "Vị trí tổn thương luôn nằm ở các nhánh mạch nhỏ"
+          ],
+          "answer": 0,
+          "explain": "Phình nhiễm khuẩn thường phá hủy thành mạch khu trú bất đối xứng tạo hình dạng túi (saccular). Do hình dạng này, áp lực dòng máu không phân tán đều mà dồn trực tiếp vào điểm yếu thành mạch, làm nguy cơ vỡ cực cao dù đường kính tổng thể chưa lớn."
+        },
+        {
+          "q": "Phương pháp điều trị nội khoa bắt buộc phải thực hiện ngay là gì?",
+          "options": [
+            "Dùng thuốc chống đông máu tĩnh mạch liều cao",
+            "Truyền tĩnh mạch kháng sinh theo kháng sinh đồ",
+            "Uống thuốc ức chế hệ thống miễn dịch toàn thân",
+            "Tiêm thuốc tiêu sợi huyết tĩnh mạch cấp cứu"
+          ],
+          "answer": 1,
+          "explain": "Kháng sinh phổ rộng đường tĩnh mạch liều cao (sau khi đã cấy máu) là chỉ định bắt buộc phải được tiến hành ngay lập tức để kiểm soát tình trạng nhiễm khuẩn huyết và giới hạn vùng hoại tử trước khi mổ."
+        },
+        {
+          "q": "Đặc điểm xử trí phẫu thuật nào sau đây giúp phòng ngừa nhiễm trùng tái phát hiệu quả nhất?",
+          "options": [
+            "Đặt ống stent graft nhân tạo trực tiếp vào ổ phình",
+            "Cắt bỏ túi phình và làm cầu nối ngoài giải phẫu",
+            "Khâu hẹp cổ túi phình và đắp mạc nối lớn bảo vệ",
+            "Dẫn lưu mủ qua da mà không can thiệp mạch máu"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc sinh tử trong mổ phình mạch nhiễm trùng là cắt bỏ toàn bộ tổ chức hoại tử, thắt mỏm cụt động mạch. Để nuôi tạng phía dưới, phải làm đường bắc cầu đi qua một vùng cơ thể sạch khác (như nách - đùi). Việc đặt dị vật nhân tạo trực tiếp vào ổ viêm mủ (in-situ) sẽ làm nhiễm trùng tái phát bục miệng nối."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 75 tuổi ngất xỉu và đau dữ dội quanh rốn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 75 tuổi.<br><br><b>Bệnh sử:</b> Được đưa vào cấp cứu vì ngất xỉu một lần tại nhà. Khi tỉnh lại, bệnh nhân than đau dữ dội vùng quanh rốn lan ra sau thắt lưng.<br><br><b>Tiền sử:</b> Hút thuốc lá 40 bao năm.<br><br><b>Khám lâm sàng:</b> Bệnh nhân lơ mơ, da xanh tái, vã mồ hôi lạnh, nhịp tim 125 lần/phút, huyết áp 75/40 mmHg. Khám bụng chướng nhẹ, sờ thấy một khối đập theo nhịp mạch ở vùng trên rốn, kích thước khoảng 8 cm, ấn rất đau. Mạch mu chân hai bên bắt yếu.<br><br><b>Xét nghiệm:</b> Siêu âm nhanh tại giường (FAST) thấy khối phình động mạch chủ bụng lớn kèm nhiều dịch tự do trong khoang sau phúc mạc.",
+      "questions": [
+        {
+          "q": "Chẩn đoán cấp cứu nghĩ đến đầu tiên là gì?",
+          "options": [
+            "Nhồi máu mạc treo tràng cấp tính",
+            "Phình động mạch chủ bụng đã vỡ",
+            "Viêm tụy cấp thể hoại tử xuất huyết",
+            "Thủng ổ loét dạ dày tá tràng rỉ máu"
+          ],
+          "answer": 1,
+          "explain": "Nam giới lớn tuổi, hút thuốc, có tam chứng kinh điển: đau bụng/lưng đột ngột, sốc mất máu và sờ thấy khối phình đập. Siêu âm FAST có dịch sau phúc mạc giúp khẳng định vững chắc chẩn đoán phình động mạch chủ bụng vỡ."
+        },
+        {
+          "q": "Cơ chế chính dẫn đến tình trạng sốc trên bệnh nhân này là gì?",
+          "options": [
+            "Sốc nhiễm khuẩn từ đường tiêu hóa",
+            "Sốc giảm thể tích tuần hoàn do chảy máu",
+            "Sốc tim do tình trạng thiếu máu cơ tim cấp",
+            "Sốc tắc nghẽn do hội chứng chèn ép màng tim"
+          ],
+          "answer": 1,
+          "explain": "Túi phình vỡ làm máu thoát ồ ạt liên tục ra khoang sau phúc mạc hoặc ổ bụng tự do, dẫn đến mất máu cấp tính khối lượng lớn lưu hành, gây tụt cung lượng tim và sốc giảm thể tích (Hypovolemic shock)."
+        },
+        {
+          "q": "Mục tiêu kiểm soát huyết áp trong hồi sức ban đầu trước mổ là gì?",
+          "options": [
+            "Nâng huyết áp tâm thu lên mức 120 mmHg",
+            "Truyền tĩnh mạch dịch tinh thể tốc độ tối đa",
+            "Duy trì huyết áp tâm thu trong khoảng 70-90 mmHg",
+            "Sử dụng thuốc vận mạch tĩnh mạch với liều rất cao"
+          ],
+          "answer": 2,
+          "explain": "Nguyên tắc hồi sức phình vỡ là \"hạ áp cho phép\" (permissive hypotension). Việc duy trì huyết áp tâm thu thấp 70-90 mmHg đủ giữ tri giác và tưới máu não, nhằm tránh áp lực cao phá vỡ cục máu đông đang bít lỗ thủng tạm thời."
+        },
+        {
+          "q": "Hành động nào sau đây là phù hợp nhất về quy trình xử trí?",
+          "options": [
+            "Đưa bệnh nhân đi chụp cắt lớp vi tính bụng",
+            "Chuyển thẳng bệnh nhân lên phòng mổ khẩn cấp",
+            "Nội soi đường tiêu hóa ống mềm tìm điểm chảy máu",
+            "Chọc hút dịch khoang sau phúc mạc để chẩn đoán"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân đang có sốc không ổn định (HA 75/40) và siêu âm đã khẳng định chẩn đoán. Việc đưa đi chụp CT cực kỳ nguy hiểm và mất thời gian vàng, bệnh nhân có thể ngưng tim tại phòng chụp. Phải chuyển thẳng lên phòng mổ để cầm máu."
+        },
+        {
+          "q": "Trong phẫu thuật mổ mở cấp cứu, bước kiểm soát sống còn đầu tiên là gì?",
+          "options": [
+            "Cắt bỏ hoàn toàn khối phình mạch máu",
+            "Kẹp cuống động mạch chủ ở đoạn gần",
+            "Khâu nối trực tiếp túi phình với mạc nối",
+            "Mở thông dạ dày qua da để giảm áp lực"
+          ],
+          "answer": 1,
+          "explain": "Trong phẫu thuật mở cấp cứu, nguyên tắc tối thượng đầu tiên sau khi mở bụng là bóc tách nhanh và dùng kẹp chéo (cross-clamp) kẹp động mạch chủ ngay dưới cơ hoành hoặc dưới động mạch thận để khống chế nguồn chảy máu ồ ạt từ trên xuống, trước khi mở túi phình."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 58 tuổi đau lưng dữ dội giữa hai xương bả vai",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ 58 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì đau lưng dữ dội giữa hai xương bả vai khởi phát cách đây 4 giờ.<br><br><b>Tiền sử:</b> Đái tháo đường type 2 và tăng huyết áp.<br><br><b>Khám lâm sàng:</b> Ý thức tỉnh, mạch 95 lần/phút, huyết áp hai tay đều 190/110 mmHg. Mạch mu chân hai bên bắt rõ, đều.<br><br><b>Xét nghiệm:</b> Chức năng thận bình thường (Creatinin 80 µmol/L). Lactate máu 1.2 mmol/L. Chụp cắt lớp vi tính lồng ngực có cản quang cho thấy hình ảnh lóc tách nội mạc bắt đầu từ ngay sau lỗ xuất phát động mạch dưới đòn trái, kéo dài xuống động mạch chủ bụng. Lòng thật thông thoáng, không có dấu hiệu chèn ép các nhánh tạng ổ bụng, không có dịch màng phổi.",
+      "questions": [
+        {
+          "q": "Phân loại tình trạng lóc tách động mạch chủ theo hệ thống Stanford là gì?",
+          "options": [
+            "Bóc tách động mạch chủ ngực type A",
+            "Bóc tách động mạch chủ ngực type B",
+            "Phình động mạch chủ lồng ngực vỡ",
+            "Loét xuyên thấu thành động mạch chủ"
+          ],
+          "answer": 1,
+          "explain": "Vết rách khởi phát ở đoạn ngực xuống (ngay sau lỗ xuất phát động mạch dưới đòn trái), không liên quan đến động mạch chủ lên hay quai động mạch chủ, phù hợp với lóc tách động mạch chủ Stanford type B."
+        },
+        {
+          "q": "Dựa vào lâm sàng và cận lâm sàng, tình trạng bệnh nhân được đánh giá là gì?",
+          "options": [
+            "Lóc tách động mạch chủ cấp tính có biến chứng",
+            "Lóc tách động mạch chủ cấp tính chưa biến chứng",
+            "Lóc tách động mạch chủ mạn tính có biến chứng",
+            "Lóc tách động mạch chủ mạn tính chưa biến chứng"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân khởi phát cấp tính (4 giờ). Lactate bình thường (không thiếu máu ruột), creatinin bình thường (không suy thận), và mạch ngoại vi rõ ràng chứng tỏ các tạng chưa bị chèn ép. Đây là nhóm lóc tách type B chưa biến chứng."
+        },
+        {
+          "q": "Trên phim CT cản quang, đặc điểm nào thường giúp phân biệt lòng giả và lòng thật?",
+          "options": [
+            "Lòng thật thường có kích thước lớn hơn",
+            "Lòng giả thường có kích thước lớn hơn",
+            "Lòng giả luôn ngấm thuốc cản quang sớm hơn",
+            "Lòng thật luôn có huyết khối bám thành nhiều hơn"
+          ],
+          "answer": 1,
+          "explain": "Trên CT cản quang, dòng máu chảy vào lòng giả qua lỗ rách nhưng thoát ra chậm, làm lòng giả thường bị căng to hơn và ngấm thuốc muộn hơn lòng thật. Lòng thật thường bị lòng giả ép nhỏ lại."
+        },
+        {
+          "q": "Chiến lược điều trị ưu tiên ở thời điểm hiện tại cho bệnh nhân này là gì?",
+          "options": [
+            "Phẫu thuật mở lồng ngực thay ống ghép nhân tạo",
+            "Can thiệp đặt stent graft nội mạch ngay lập tức",
+            "Điều trị nội khoa kiểm soát huyết động tích cực",
+            "Dẫn lưu màng ngoài tim giải ép cấp cứu tại giường"
+          ],
+          "answer": 2,
+          "explain": "Đối với lóc tách type B chưa có biến chứng, tiêu chuẩn điều trị vàng ban đầu là điều trị nội khoa tại hồi sức (chẹn beta, thuốc hạ áp, giảm đau) nhằm giảm lực xé thành mạch. Không có chỉ định mổ hoặc can thiệp stent cấp cứu ở giai đoạn này."
+        },
+        {
+          "q": "Trong dài hạn, biến chứng mạn tính nguy hiểm nhất nếu chỉ điều trị nội khoa là gì?",
+          "options": [
+            "Tắc ruột cơ học do tình trạng thiếu máu mạn",
+            "Suy tim sung huyết do hở van động mạch chủ",
+            "Giãn phình động mạch chủ tại đoạn bị lóc tách",
+            "Rung nhĩ mạn tính đáp ứng thất nhanh khó kiểm soát"
+          ],
+          "answer": 2,
+          "explain": "Nếu theo dõi bảo tồn dài hạn, lớp vách ngoài của lòng giả vốn rất mỏng sẽ chịu áp lực và có thể giãn to dần theo thời gian (aneurysmal degeneration), tạo thành phình động mạch chủ ngực đe dọa vỡ. Bệnh nhân cần tái khám CT định kỳ để xem xét đặt stent graft dự phòng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi đau vùng quanh rốn âm ỉ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 70 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì đau vùng quanh rốn âm ỉ nhưng tăng dần từ hôm qua, đau liên tục không thành cơn.<br><br><b>Tiền sử:</b> Phát hiện phình động mạch chủ bụng kích thước 5.0 cm cách đây 6 tháng.<br><br><b>Khám lâm sàng:</b> Sinh hiệu ổn định, huyết áp 140/85 mmHg, nhịp tim 80 lần/phút. Bụng mềm, sờ thấy khối đập theo nhịp mạch trên rốn, kích thước khoảng 6 cm, ấn đau tức trực tiếp tại khối phình. Không có cảm ứng phúc mạc, không nôn.<br><br><b>Xét nghiệm:</b> Máu bạch cầu bình thường, hemoglobin 135 g/L. Chức năng thận bình thường.",
+      "questions": [
+        {
+          "q": "Phân loại lâm sàng chính xác cho tình trạng khối phình hiện tại là gì?",
+          "options": [
+            "Phình động mạch chủ chưa biến chứng",
+            "Phình động mạch chủ bụng đang dọa vỡ",
+            "Phình động mạch chủ bụng đã vỡ tự do",
+            "Viêm khối phình động mạch do nhiễm khuẩn"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có khối phình động mạch chủ lớn nhanh, chuyển từ không triệu chứng sang có đau bụng và ấn đau chói tại khối phình (symptomatic AAA) nhưng huyết động vẫn ổn định (Hb bình thường). Đây là bệnh cảnh phình đe dọa vỡ, một bước trước khi vỡ thực sự."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh gây ra tình trạng xuất hiện cơn đau mới và ấn đau tại khối phình là gì?",
+          "options": [
+            "Tắc nghẽn cấp tính nhánh động mạch mạc treo",
+            "Tắc nghẽn niệu quản cơ học do chèn ép trực tiếp",
+            "Bao phình động mạch chủ bị căng giãn quá nhanh",
+            "Viêm phúc mạc toàn thể do biến chứng vỡ tạng rỗng"
+          ],
+          "answer": 2,
+          "explain": "Sự xuất hiện cơn đau mới và nhạy cảm đau khi sờ nắn phản ánh áp lực trong bao phình đang cực cao, làm thành mạch và lớp ngoại mạc bị kéo căng dữ dội, kích thích các tận cùng thần kinh cảm giác. Đây là dấu hiệu cấu trúc mô sắp đứt gãy hoàn toàn."
+        },
+        {
+          "q": "Bước thăm dò hình ảnh học nào an toàn và cung cấp nhiều thông tin nhất lúc này?",
+          "options": [
+            "Chụp X-quang bụng đứng không chuẩn bị",
+            "Chụp cắt lớp vi tính bụng có cản quang",
+            "Nội soi đường tiêu hóa bằng ống mềm",
+            "Chụp cộng hưởng từ toàn bộ cột sống thắt lưng"
+          ],
+          "answer": 1,
+          "explain": "Vì bệnh nhân chưa sốc và huyết động hoàn toàn ổn định, chụp CT bụng có cản quang (CTA) là chỉ định tối ưu để đánh giá các dấu hiệu đe dọa vỡ (như máu trong thành) và lập bản đồ cấu trúc mạch máu chuẩn bị can thiệp."
+        },
+        {
+          "q": "Quyết định về thời điểm can thiệp nào là phù hợp nhất đối với bệnh nhân?",
+          "options": [
+            "Hẹn bệnh nhân quay lại mổ chương trình sau 1 tháng",
+            "Cho xuất viện uống thuốc giảm đau ngoại trú",
+            "Phẫu thuật hoặc can thiệp ngoại khoa bán cấp",
+            "Chỉ theo dõi bằng siêu âm ổ bụng mỗi tuần"
+          ],
+          "answer": 2,
+          "explain": "Phình động mạch chủ có triệu chứng mang nguy cơ vỡ cực kỳ cao trong thời gian rất ngắn. Bệnh nhân cần được xếp lịch can thiệp ngoại khoa/nội mạch bán cấp (Urgent) ngay trong đợt nằm viện này, tuyệt đối không cho về nhà hẹn mổ phiên."
+        },
+        {
+          "q": "Nếu cấu trúc giải phẫu vùng cổ túi phình thuận lợi, lựa chọn can thiệp nào ít xâm lấn hơn?",
+          "options": [
+            "Mở ổ bụng cắt bỏ toàn bộ khối phình",
+            "Đặt stent graft nội mạch lồng qua đùi",
+            "Khâu làm hẹp đường kính mạch máu bụng",
+            "Thắt hoàn toàn động mạch chủ chậu gốc"
+          ],
+          "answer": 1,
+          "explain": "Can thiệp nội mạch (EVAR) đưa stent graft qua ngả động mạch đùi vào che phủ túi phình là phương pháp ít xâm lấn, giúp loại bỏ áp lực lên thành túi phình mà không cần mở một đường mổ lớn ở bụng, giảm thiểu đáng kể stress phẫu thuật ở người cao tuổi."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 71 tuổi nôn ra máu đỏ tươi số lượng lớn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 71 tuổi.<br><br><b>Bệnh sử:</b> Ngày hôm qua bệnh nhân nôn ra một ít máu bầm nhưng tự cầm. Sáng nay bệnh nhân vào cấp cứu vì nôn ra máu đỏ tươi số lượng lớn kèm đi ngoài phân đen lỏng.<br><br><b>Tiền sử:</b> Mổ mở thay đoạn động mạch chủ bụng bằng ống ghép nhân tạo (Dacron) cách đây 4 năm.<br><br><b>Khám lâm sàng:</b> Ý thức lơ mơ, da niêm mạc nhợt nhạt, mạch 120 lần/phút, huyết áp 80/50 mmHg. Bụng có sẹo mổ cũ đường trắng giữa, mềm, không chướng. Đặt sonde dạ dày hút ra nhiều máu đỏ tươi.<br><br><b>Xét nghiệm:</b> Hemoglobin 65 g/L. Nội soi dạ dày - tá tràng khẩn cấp không thấy tĩnh mạch trướng, nhưng tại đoạn D3 tá tràng có một cục máu đông lớn bám chặt, rỉ máu liên tục.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguyên nhân gây xuất huyết tiêu hóa ồ ạt phù hợp nhất là gì?",
+          "options": [
+            "Vỡ tĩnh mạch trướng thực quản cấp",
+            "Loét hành tá tràng do nhiễm vi khuẩn",
+            "Rò động mạch chủ ruột dạng thứ phát",
+            "Viêm dạ dày ruột cấp tính xuất huyết"
+          ],
+          "answer": 2,
+          "explain": "Xuất huyết tiêu hóa ồ ạt trên bệnh nhân từng mổ ghép ống nhân tạo động mạch chủ bụng luôn phải được coi là rò động mạch chủ - ruột (Secondary Aortoenteric Fistula) đe dọa sinh mạng, cho đến khi có bằng chứng chứng minh ngược lại."
+        },
+        {
+          "q": "Hiện tượng nôn ra lượng máu ít ngày hôm trước mang ý nghĩa lâm sàng gì?",
+          "options": [
+            "Rối loạn đông máu tự phát mang tính tạm thời",
+            "Dấu hiệu chảy máu báo hiệu của đường rò",
+            "Chảy máu từ vết xước niêm mạc ống tiêu hóa",
+            "Khối u tiêu hóa bị hoại tử bề mặt rỉ máu"
+          ],
+          "answer": 1,
+          "explain": "Dấu hiệu \"Herald bleed\" (chảy máu báo hiệu) là tình trạng chảy máu lượng ít do cục máu đông tạm thời bít lỗ rò mảnh ghép - ruột. Nếu bỏ qua cửa sổ vàng này, cục đông sẽ bung ra gây xuất huyết ồ ạt không thể kiểm soát."
+        },
+        {
+          "q": "Vị trí giải phẫu nào của đường tiêu hóa dễ bị tổn thương rò vào mảnh ghép nhất?",
+          "options": [
+            "Dạ dày vùng hang môn vị mặt trước",
+            "Đoạn D3 hoặc D4 của tá tràng nằm ngang",
+            "Hồi tràng đoạn nằm sát van hồi manh tràng",
+            "Đại tràng ngang và góc lách của đại tràng"
+          ],
+          "answer": 1,
+          "explain": "Đoạn D3 (đoạn ngang) của tá tràng bị cố định sau phúc mạc và vắt ngang ngay sát phía trước động mạch chủ bụng đoạn dưới thận. Mảnh ghép nhiễm trùng mạn tính dễ dính và cọ xát ăn mòn xuyên qua thành sau tá tràng tạo đường rò trực tiếp."
+        },
+        {
+          "q": "Chọn tập hợp ĐÚNG về chiến lược xử trí ngoại khoa cho bệnh nhân này:\n(1) Khâu phục hồi lỗ rò đơn thuần là đủ để cầm máu\n(2) Bắt buộc tháo bỏ hoàn toàn ống ghép nhân tạo cũ\n(3) Tái lập tuần hoàn chi dưới bằng cầu nối ngoài giải phẫu\n(4) Ghép ống mạch máu nhân tạo mới ngay tại vị trí viêm cũ",
+          "options": [
+            "1, 2",
+            "2, 3",
+            "3, 4",
+            "1, 4"
+          ],
+          "answer": 1,
+          "explain": "Bản chất của bệnh lý này là nhiễm trùng mạn tính vật liệu ngoại lai. Nguyên tắc phẫu thuật bắt buộc là (2) lấy bỏ toàn bộ mảnh ghép Dacron cũ, đóng mỏm động mạch chủ và (3) làm cầu nối đi qua vùng cơ thể sạch (bắc cầu nách - đùi ngoài giải phẫu). Ghép ống mới vào chỗ cũ hoặc khâu lỗ rò đơn thuần sẽ dẫn đến bục miệng nối do mủ. Tập hợp đúng là 2,3."
+        },
+        {
+          "q": "Dấu hiệu âm tính nào trên bệnh nhân giúp loại trừ vỡ giãn tĩnh mạch trong xơ gan?",
+          "options": [
+            "Cục máu đông lớn bám chặt ở tá tràng D3",
+            "Không có giãn tĩnh mạch trên hình ảnh nội soi",
+            "Đi ngoài ra phân đen lỏng với số lượng nhiều",
+            "Bụng bệnh nhân có vết sẹo mổ cũ đường trắng giữa"
+          ],
+          "answer": 1,
+          "explain": "Xuất huyết tiêu hóa cao ồ ạt ở bệnh nhân lớn tuổi có thể do tăng áp lực tĩnh mạch cửa (xơ gan). Việc nội soi khẳng định không có búi tĩnh mạch trướng thực quản hay dạ dày là bằng chứng rõ nhất loại trừ nguyên nhân này, hướng sự chú ý xuống vùng tá tràng D3."
+        }
+      ]
+    }
+  ]
+}
