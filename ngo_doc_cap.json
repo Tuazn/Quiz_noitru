@@ -1,0 +1,1230 @@
+{
+  "name": "Ngộ độc cấp",
+  "description": "Bộ câu hỏi tình huống lâm sàng (case-based MCQs) về các kịch bản ngộ độc cấp tính thường gặp",
+  "level": "Ôn thi nội trú / Học viên chuyên khoa",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Cấp cứu",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 19 tuổi buồn nôn và đau tức hạ sườn phải sau uống thuốc quá liều",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 19 tuổi, sinh viên.<br><br><b>Bệnh sử:</b> Được bạn cùng phòng đưa vào viện vì nôn và đau bụng. Khoảng 36 giờ trước, sau khi cãi nhau với bạn trai, bệnh nhân đã uống khoảng 20 viên Paracetamol 500mg. 12 giờ đầu bệnh nhân chỉ thấy buồn nôn nhẹ, sau đó các triệu chứng thuyên giảm nên không đi khám. Tuy nhiên, 1 ngày nay bệnh nhân thấy mệt mỏi nhiều hơn, nôn liên tục, đau tức vùng hạ sườn phải.<br><br><b>Tiền sử:</b> Không có tiền sử bệnh gan hay lạm dụng rượu.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh nhưng mệt lả, GCS 15 điểm, da niêm mạc vàng nhẹ. Sinh hiệu: mạch 105 lần/phút, huyết áp 100/60 mmHg, nhịp thở 20 lần/phút, nhiệt độ 37.5°C. Bụng mềm, ấn đau tức vùng hạ sườn phải, gan mấp mé bờ sườn. Các cơ quan khác chưa phát hiện bất thường, đặc biệt không có hội chứng cai hay co giật.<br><br><b>Xét nghiệm:</b> ALT (SGPT) 6500 U/L (tăng cực cao), AST (SGOT) 8200 U/L (tăng cực cao), Bilirubin toàn phần 50 µmol/L (tăng), INR 2.5 (rối loạn đông máu). Nồng độ Paracetamol trong máu tại thời điểm nhập viện là 40 mg/L, Creatinin 120 µmol/L (tăng nhẹ).",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất với bệnh nhân này là gì?",
+          "options": [
+            "Ngộ độc Paracetamol giờ thứ 36, giai đoạn tổn thương gan",
+            "Viêm gan virus cấp",
+            "Viêm tụy cấp do thuốc",
+            "Sốc nhiễm khuẩn đường mật"
+          ],
+          "answer": 0,
+          "explain": "Bệnh cảnh uống liều cao Paracetamol, có khoảng \"im lặng\" ban đầu sau đó xuất hiện triệu chứng tổn thương gan nặng (vàng da, đau hạ sườn phải, men gan tăng hàng nghìn, rối loạn đông máu) là điển hình cho ngộ độc Paracetamol giai đoạn 2-3."
+        },
+        {
+          "q": "Cơ chế chính gây độc cho gan của Paracetamol là gì?",
+          "options": [
+            "Ức chế trực tiếp ty thể của tế bào gan, gây suy chức năng hô hấp tế bào",
+            "Cạn kiệt nguồn Glutathione dự trữ, làm cho chất chuyển hóa NAPQI không được trung hòa và gây hoại tử tế bào gan",
+            "Gây ra phản ứng tự miễn tấn công các tế bào gan",
+            "Tắc nghẽn các đường mật nhỏ trong gan, gây ứ mật và xơ hóa"
+          ],
+          "answer": 1,
+          "explain": "Ở liều điều trị, Paracetamol được chuyển hóa chủ yếu qua con đường liên hợp sulfat và glucuronic. Một phần nhỏ được chuyển hóa qua Cytochrome P450 thành N-acetyl-p-benzoquinone imine (NAPQI), một chất rất độc. NAPQI ngay lập tức được trung hòa bởi Glutathione. Khi quá liều, con đường chính bị bão hòa, lượng NAPQI tạo ra quá lớn làm cạn kiệt Glutathione, khiến NAPQI tự do tấn công và gây hoại tử tế bào gan."
+        },
+        {
+          "q": "Chất giải độc (antidote) đặc hiệu cho ngộ độc Paracetamol là gì?",
+          "options": [
+            "Atropine",
+            "Flumazenil",
+            "N-acetylcysteine (NAC)",
+            "Naloxone"
+          ],
+          "answer": 2,
+          "explain": "N-acetylcysteine (NAC) là thuốc giải độc đặc hiệu. Nó hoạt động bằng cách cung cấp cysteine để tái tạo nguồn Glutathione dự trữ của gan và cũng có thể trực tiếp gắn kết, trung hòa NAPQI."
+        },
+        {
+          "q": "Yếu tố tiên lượng nặng quan trọng nhất ở bệnh nhân này theo tiêu chuẩn King's College là gì?",
+          "options": [
+            "Vàng da",
+            "Nồng độ Paracetamol trong máu",
+            "Men gan AST, ALT tăng rất cao",
+            "Chỉ số INR > 2.0"
+          ],
+          "answer": 3,
+          "explain": "Theo tiêu chuẩn King's College cho suy gan cấp do Paracetamol, các yếu tố tiên lượng cần ghép gan (tiên lượng tử vong cao) bao gồm toan chuyển hóa (pH < 7.3), INR > 6.5, creatinin > 300 µmol/L và bệnh não gan độ III-IV. Ở bệnh nhân này, INR > 2.5 là một dấu hiệu sớm của suy chức năng tổng hợp của gan và là một yếu tố tiên lượng nặng."
+        },
+        {
+          "q": "Mặc dù bệnh nhân đến viện muộn (sau 24 giờ), việc sử dụng N-acetylcysteine (NAC) vẫn có lợi ích vì sao?",
+          "options": [
+            "Cải thiện vi tuần hoàn gan, cung cấp tiền chất Glutathione và có tác dụng chống oxy hóa",
+            "Giúp phục hồi hoàn toàn chức năng gan trong vòng 24 giờ",
+            "Làm giảm nồng độ Paracetamol trong máu một cách nhanh chóng",
+            "Ngăn chặn hoàn toàn quá trình hình thành NAPQI"
+          ],
+          "answer": 0,
+          "explain": "Mặc dù hiệu quả nhất trong 8-10 giờ đầu, NAC vẫn được chỉ định cho bệnh nhân đến muộn có bằng chứng tổn thương gan. NAC không chỉ giúp tái tạo glutathione nhưng còn có tác dụng cải thiện tưới máu gan, dọn dẹp gốc tự do và điều hòa phản ứng viêm, do đó vẫn giúp hạn chế tổn thương gan tiến triển."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi hôn mê và tăng tiết đờm dãi do ngộ độc chất trừ sâu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi, nông dân.<br><br><b>Bệnh sử:</b> Được gia đình đưa vào viện trong tình trạng lơ mơ, sau khi được phát hiện nằm trên sàn nhà kho, bên cạnh một chai thuốc trừ sâu (hoạt chất Chlorpyrifos) đã mở nắp. Người nhà cho biết gần đây bệnh nhân có biểu hiện buồn chán.<br><br><b>Khám lâm sàng:</b> Bệnh nhân hôn mê (GCS 8 điểm), da lạnh, vã mồ hôi. Hơi thở có mùi thuốc trừ sâu. Sinh hiệu: mạch 45 lần/phút, huyết áp 85/50 mmHg, nhịp thở 28 lần/phút, nông, SpO₂ 85% khí trời. Đồng tử hai bên co nhỏ chỉ còn 1mm, phản xạ ánh sáng rất kém. Phổi nghe có rất nhiều ran ẩm, ran ngáy lan tỏa hai bên, tăng tiết đờm dãi rõ rệt. Bụng mềm, có tăng nhu động ruột. Ghi nhận các thớ cơ ở mặt và chi trên co giật tự nhiên. Bệnh nhân không có chấn thương đầu hay dấu thần kinh khu trú.",
+      "questions": [
+        {
+          "q": "Bệnh cảnh trên điển hình cho hội chứng ngộ độc nào?",
+          "options": [
+            "Hội chứng kháng Cholinergic",
+            "Hội chứng Cholinergic (cường phó giao cảm)",
+            "Hội chứng cường giao cảm",
+            "Hội chứng an thần - gây ngủ"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có biểu hiện của hội chứng Cholinergic toàn phát, bao gồm cả dấu hiệu Muscarinic (đồng tử co, nhịp chậm, tăng tiết, co thắt phế quản - DUMBELS) và Nicotinic (máy cơ, yếu cơ), điển hình cho ngộ độc thuốc trừ sâu ức chế men Cholinesterase."
+        },
+        {
+          "q": "Cơ chế gây độc chính của phospho hữu cơ là gì?",
+          "options": [
+            "Phong tòa cạnh tranh thụ thể Acetylcholine tại synap thần kinh",
+            "Kích thích trực tiếp thụ thế Adrenergic alpha và beta",
+            "Bất hoạt không hồi phục enzyme Acetylcholinesterase (AChE), gây tích tụ Acetylcholine",
+            "Ức chế kênh Natri trên màng tế bào thần kinh và cơ tim"
+          ],
+          "answer": 2,
+          "explain": "Phospho hữu cơ gắn vào vị trí hoạt động của enzyme Acetylcholinesterase (AChE) và phosphoryl hóa nó, tạo ra một phức hợp bền vững và làm enzyme bị bất hoạt. Do đó, Acetylcholine (ACh) không bị phân hủy, tích tụ lại ở các synap thần kinh, gây kích thích liên tục các thụ thể Muscarinic và Nicotinic."
+        },
+        {
+          "q": "Dấu hiệu nào sau đây thuộc về tác động Nicotinic của Acetylcholine?",
+          "options": [
+            "Đồng tử co nhỏ",
+            "Tăng tiết đờm dãi",
+            "Nhịp tim chậm",
+            "Máy giật các thớ cơ (fasciculation)"
+          ],
+          "answer": 3,
+          "explain": "Tác động của ACh được chia làm hai loại: Muscarinic (trên cơ trơn, tuyến ngoại tiết, tim) và Nicotinic (trên hạch tự chủ và bản vận động cơ vân). Máy giật các thớ cơ và yếu cơ là kết quả của việc kích thích quá mức thụ thể Nicotinic tại bản vận động cơ vân."
+        },
+        {
+          "q": "Thuốc giải độc đặc hiệu đầu tay dùng để đối kháng tác dụng Muscarinic trong trường hợp này là gì?",
+          "options": [
+            "Atropine sulfate",
+            "Naloxone",
+            "Pralidoxime (PAM)",
+            "Diazepam"
+          ],
+          "answer": 0,
+          "explain": "Atropine là một chất đối kháng cạnh tranh với Acetylcholine tại thụ thể Muscarinic. Nó giúp giải quyết các triệu chứng đe dọa tính mạng như nhịp chậm, co thắt phế quản, tăng tiết đờm dãi. Atropine không có tác dụng trên các biểu hiện Nicotinic."
+        },
+        {
+          "q": "Ngoài Atropine, việc sử dụng Pralidoxime (PAM) có mục đích gì?",
+          "options": [
+            "Tăng cường tác dụng của Atropine tại thụ thế Muscarinic",
+            "Hoạt hóa lại enzyme Acetylcholinesterase đã bị bất hoạt",
+            "Kiểm soát tình trạng co giật của bệnh nhân",
+            "Cải thiện chức năng hô hấp bằng cách làm khô đờm dãi"
+          ],
+          "answer": 1,
+          "explain": "Pralidoxime (PAM) thuộc nhóm oxime, có khả năng gắn vào phân tử phospho hữu cơ và tách nó ra khỏi enzyme AChE, giúp \"tái hoạt hóa\" enzyme. Điều này giúp giải quyết tận gốc nguyên nhân gây bệnh, đặc biệt là cải thiện các triệu chứng Nicotinic (yếu cơ, suy hô hấp). PAM cần được dùng sớm trước khi xảy ra hiện tượng \"lão hóa\" enzyme."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 25 tuổi hôn mê sâu và đồng tử co nhỏ như đầu đinh ghim",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 25 tuổi.<br><br><b>Bệnh sử:</b> Được bạn bè đưa vào cấp cứu sau khi họ không thể đánh thức anh ta dậy. Bệnh nhân được tìm thấy trong phòng vệ sinh của một quán bar.<br><br><b>Tiền sử:</b> Có tiền sử sử dụng ma túy.<br><br><b>Khám lâm sàng:</b> Bệnh nhân hôn mê sâu, GCS 5 điểm (E1V1M3), không đáp ứng với kích thích đau. Da lạnh, tím tái, đặc biệt ở môi và đầu chi. Sinh hiệu: mạch 60 lần/phút, huyết áp 90/60 mmHg, nhiệt độ 36.0°C, và đặc biệt nhịp thở chỉ 6 lần/phút, rất nông, có cơn ngừng thở ngắn. Đồng tử hai bên co nhỏ như đầu đinh ghim (1mm), phản xạ ánh sáng mất. Phổi thông khí rất kém. Trên da cẳng tay hai bên có nhiều vết sẹo và vết kim tiêm cũ.",
+      "questions": [
+        {
+          "q": "Chẩn đoán có khả năng nhất là gì?",
+          "options": [
+            "Đột quỵ xuất huyết não",
+            "Ngộ độc rượu cấp",
+            "Ngộ độc quá liều Opioid",
+            "Hạ đường huyết nặng"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh có tam chứng kinh điển (hôn mê, đồng tử co nhỏ, suy hô hấp) trên một bệnh nhân có yếu tố nguy cơ (tiền sử dùng ma túy, vết kim chích) là rất điển hình cho ngộ độc quá liều Opioid."
+        },
+        {
+          "q": "Cơ chế chính gây ức chế hô hấp trong ngộ độc Opioid là gì?",
+          "options": [
+            "Gây liệt trực tiếp cơ hoành và cơ liên sườn",
+            "Gây phù phổi cấp tổn thương (ARDS)",
+            "Chẹn kênh canxi ở các tế bào thần kinh hô hấp",
+            "Giảm độ nhạy cảm của trung tâm hô hấp ở hành não với CO₂"
+          ],
+          "answer": 3,
+          "explain": "Opioid, đặc biệt là các chất chủ vận trên thụ thể μ (mu), có tác dụng ức chế mạnh mẽ trung tâm hô hấp ở hành não. Chúng làm giảm đáp ứng của các chemoreceptor trung ương với sự gia tăng nồng độ CO₂ trong máu, dẫn đến giảm tần số thở, giảm thể tích khí lưu thông và cuối cùng là ngừng thở."
+        },
+        {
+          "q": "Tam chứng kinh điển của ngộ độc Opioid là gì?",
+          "options": [
+            "Hôn mê, đồng tử co nhỏ, suy hô hấp",
+            "Hôn mê, đồng tử giãn, tăng huyết áp",
+            "Kích động, ảo giác, sốt cao",
+            "Co giật, toan chuyển hóa, suy thận cấp"
+          ],
+          "answer": 0,
+          "explain": "Tam chứng kinh điển của ngộ độc Opioid, đặc biệt là heroin hoặc morphin, bao gồm: rối loạn ý thức (từ lơ mơ đến hôn mê), suy hô hấp (thở chậm, nông), và đồng tử co nhỏ (pinpoint pupils)."
+        },
+        {
+          "q": "Thuốc giải độc đặc hiệu nào cần được chỉ định ngay lập tức?",
+          "options": [
+            "Atropine",
+            "Naloxone",
+            "N-acetylcysteine",
+            "Flumazenil"
+          ],
+          "answer": 1,
+          "explain": "Naloxone là một chất đối kháng cạnh tranh, có ái lực cao với các thụ thể Opioid. Nó nhanh chóng đẩy các phân tử Opioid ra khỏi thụ thể, đảo ngược tác dụng ức chế thần kinh trung ương và suy hô hấp. Đây là thuốc giải độc cứu mạng trong trường hợp này."
+        },
+        {
+          "q": "Sau khi tiêm Naloxone, bệnh nhân tỉnh lại nhanh chóng, nhịp thở cải thiện. Tuy nhiên, sau khoảng 45 phút, bệnh nhân có xu hướng lơ mơ trở lại. Hiện tượng này được giải thích là do:",
+          "options": [
+            "Naloxone gây ra phản ứng cai thuốc cấp tính",
+            "Bệnh nhân bị ngộ độc phối hợp với một chất khác",
+            "Naloxone có thời gian bán hủy ngắn hơn so với nhiều loại Opioid",
+            "Naloxone không còn hiệu quả sau liều tiêm đầu tiên"
+          ],
+          "answer": 2,
+          "explain": "Naloxone có thời gian bán hủy ngắn (30-90 phút), trong khi nhiều loại Opioid (như heroin, methadone) có tác dụng kéo dài hơn nhiều. Do đó, sau khi Naloxone hết tác dụng, các phân tử Opioid vẫn còn trong cơ thể sẽ gắn trở lại vào thụ thể và gây ngộ độc tái phát. Vì vậy, bệnh nhân cần được theo dõi sát và có thể cần truyền Naloxone liên tục."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 58 tuổi ngủ say gọi hỏi không đáp ứng sau mâu thuẫn gia đình",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 58 tuổi.<br><br><b>Bệnh sử:</b> Được người nhà phát hiện trong tình trạng ngủ rất say, gọi hỏi không đáp ứng. Do mâu thuẫn gia đình, bệnh nhân đã uống hết lọ thuốc Diazepam 5mg còn lại (khoảng 30 viên) cùng với một ít rượu.<br><br><b>Tiền sử:</b> Có tiền sử rối loạn lo âu và mất ngủ, đang điều trị với Diazepam 5mg uống tối.<br><br><b>Khám lâm sàng:</b> Bệnh nhân lơ mơ, GCS 10 điểm (E2V3M5), có đáp ứng khi kích thích đau mạnh. Lời nói líu nhíu, không rõ ràng. Sinh hiệu: mạch 80 lần/phút, huyết áp 110/70 mmHg, nhịp thở 14 lần/phút, SpO₂ 94% khí trời. Đồng tử hai bên đều 3mm, phản xạ ánh sáng tốt. Phản xạ gân xương giảm nhẹ. Không có dấu hiệu thần kinh khu trú. Tim đều, phổi không ran.",
+      "questions": [
+        {
+          "q": "Tình trạng của bệnh nhân gợi ý ngộ độc nhóm thuốc nào?",
+          "options": [
+            "Thuốc chống trầm cảm ba vòng",
+            "Thuốc hạ huyết áp nhóm chẹn beta",
+            "Thuốc chống loạn thần",
+            "Thuốc an thần - gây ngủ nhóm Benzodiazepine"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân có biểu hiện ức chế thần kinh trung ương (lơ mơ, nói líu nhíu) nhưng các dấu hiệu sinh tồn tương đối ổn định, đặc biệt là hô hấp không bị ức chế nặng, là đặc điểm của ngộ độc Benzodiazepine. Việc uống rượu làm tăng thêm tác dụng an thần."
+        },
+        {
+          "q": "Cơ chế tác dụng chính của Benzodiazepine trên hệ thần kinh trung ương là gì?",
+          "options": [
+            "Tăng cường tác dụng ức chế của chất dẫn truyền thần kinh GABA (Gamma-Aminobutyric Acid)",
+            "Phong tỏa thụ thể Dopamine D2",
+            "Ứ ức chế tái thu nhận Serotonin và Norepinephrine",
+            "Đối kháng cạnh tranh tại thụ thể NMDA"
+          ],
+          "answer": 0,
+          "explain": "Benzodiazepine gắn vào một vị trí đặc hiệu trên phức hợp thụ thể GABA-A. Sự gắn kết này không trực tiếp mở kênh clorua mà làm tăng ái lực của GABA với thụ thể, dẫn đến tăng tần suất mở kênh clorua, ion Cl⁻ đi vào tế bào thần kinh, gây ưu phân cực màng và làm tăng tác dụng ức chế của GABA trên toàn hệ thần kinh trung ương."
+        },
+        {
+          "q": "So với ngộ độc Barbiturat hoặc Opioid, đặc điểm ức chế hô hấp trong ngộ độc Benzodiazepine đơn thuần thường như thế nào?",
+          "options": [
+            "Nặng nề và là nguyên nhân tử vong chính",
+            "Ít nghiêm trọng hơn, hiếm khi gây suy hô hấp nặng nếu không phối hợp với chất khác",
+            "Tương đương, đều gây ngừng thở nhanh chóng",
+            "Gây co thắt phế quản là chủ yếu, thay vì ức chế trung tâm hô hấp"
+          ],
+          "answer": 1,
+          "explain": "Benzodiazepine có \"hiệu ứng trần\" (ceiling effect) đối với tác dụng ức chế hô hấp, nghĩa là dù tăng liều thì mức độ ức chế hô hấp cũng không tăng tuyến tính. Do đó, ngộ độc Benzodiazepine đơn thuần thường ít nghiêm trọng hơn và hiếm khi gây tử vong. Tuy nhiên, khi phối hợp với các chất ức chế thần kinh khác như rượu hoặc opioid, nguy cơ suy hô hấp nặng sẽ tăng lên đáng kể."
+        },
+        {
+          "q": "Thuốc giải độc đặc hiệu cho ngộ độc Benzodiazepine là gì?",
+          "options": [
+            "Atropine",
+            "Naloxone",
+            "Flumazenil là chất đối kháng nhưng chỉ dùng chọn lọc trong ngộ độc Benzodiazepine đơn thuần ở người không lệ thuộc và không có nguy cơ co giật",
+            "Physostigmine"
+          ],
+          "answer": 2,
+          "explain": "Flumazenil cạnh tranh vị trí gắn với Benzodiazepine tại thụ thể GABA-A giúp đảo ngược an thần nhưng không dùng thường quy. Thuốc chống chỉ định hoặc phải rất thận trọng khi nghi ngờ uống phối hợp thuốc chống trầm cảm ba vòng (TCA), tiền sử co giật hoặc người lệ thuộc Benzodiazepine mạn tính."
+        },
+        {
+          "q": "Tại sao việc sử dụng Flumazenil cần được cân nhắc thận trọng, đặc biệt ở những bệnh nhân sử dụng Benzodiazepine dài ngày?",
+          "options": [
+            "Vì Flumazenil có thể gây suy gan cấp",
+            "Vì Flumazenil có thể gây phản ứng phản vệ nặng",
+            "Vì Flumazenil có thể gây tụt huyết áp không hồi phục",
+            "Có thể khởi phát hội chứng cai và co giật"
+          ],
+          "answer": 3,
+          "explain": "Ở những kịch bản bệnh nhân nghiện hoặc sử dụng Benzodiazepine mạn tính, cơ thể đã quen với sự hiện diện của thuốc. Việc dùng Flumazenil sẽ đột ngột loại bỏ hoàn toàn tác dụng của Benzodiazepine, khởi phát một hội chứng cai cấp tính rất nặng với biểu hiện lo âu, kích động và đặc biệt là các cơn co giật khó kiểm soát, đe dọa tính mạng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 28 tuổi lú lẫn và thở nhanh sâu kiểu Kussmaul",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 28 tuổi.<br><br><b>Bệnh sử:</b> Được người nhà đưa vào viện vì thở nhanh, lú lẫn. Người nhà tìm thấy một vỏ lọ Aspirin pH 8 (650mg/viên) rỗng trong phòng bệnh nhân, ước tính đã uống khoảng 8-10 giờ trước.<br><br><b>Tiền sử:</b> Có tiền sử bệnh lý trầm cảm.<br><br><b>Khám lâm sàng:</b> Bệnh nhân kích thích, vật vã, nói không liên quan. Da nóng, vã mồ hôi. Bệnh nhân than ù tai và chóng mặt. Sinh hiệu: mạch 120 lần/phút, huyết áp 110/70 mmHg, nhiệt độ 38.8°C, nhịp thở 35 lần/phút, rất sâu (kiểu Kussmaul).<br><br><b>Xét nghiệm:</b> Khí máu động mạch: pH 7.35, PaCO₂ 20 mmHg, HCO₃⁻ 12 mmol/L. Na⁺ 140 mmol/L, K⁺ 3.2 mmol/L, Cl⁻ 102 mmol/L. Glucose máu 8.0 mmol/L. Nồng độ salicylate trong máu là 75 mg/dL.",
+      "questions": [
+        {
+          "q": "Chẩn đoán của bệnh nhân là gì?",
+          "options": [
+            "Ngộ độc Salicylate cấp mức độ nặng",
+            "Cơn bão giáp",
+            "Nhiễm toan ceton do đái tháo đường",
+            "Sốc nhiễm khuẩn"
+          ],
+          "answer": 0,
+          "explain": "Bệnh cảnh uống Aspirin liều cao, có rối loạn tri giác, sốt, thở nhanh sâu, ù tai và đặc biệt là rối loạn kiềm toan hỗn hợp đặc trưng là rất điển hình cho ngộ độc Salicylate nặng."
+        },
+        {
+          "q": "Rối loạn thăng bằng kiềm toan hỗn hợp của bệnh nhân được giải thích như thế nào?",
+          "options": [
+            "Toan chuyển hóa do suy thận và kiềm hô hấp do thở nhanh",
+            "Kiềm hô hấp do kích thích trực tiếp trung tâm hô hấp và toan chuyển hóa tăng khoảng trống anion",
+            "Toan hô hấp do ức chế trung tâm hô hấp và kiềm chuyển hóa do nôn",
+            "Toan chuyển hóa và kiềm chuyển hóa cùng lúc do mất acid dạ dày"
+          ],
+          "answer": 1,
+          "explain": "Ngộ độc Salicylate gây ra một rối loạn kiềm toan kinh điển: (1) Kiềm hô hấp: Salicylate kích thích trực tiếp trung tâm hô hấp ở hành não, gây tăng thông khí và giảm PaCO₂. (2) Toan chuyển hóa tăng khoảng trống anion: Salicylate can thiệp vào chuyển hóa tế bào, gây tích tụ acid lactic, ketoacid và các acid hữu cơ khác. Kết quả khí máu ban đầu có thể thấy pH bình thường (do hai rối loạn triệt tiêu nhau), PaCO₂ giảm và HCO₃⁻ giảm."
+        },
+        {
+          "q": "Cơ chế nào sau đây giải thích việc Salicylate gây ra toan chuyển hóa?",
+          "options": [
+            "Gây tổn thương thận cấp và giảm thải acid",
+            "Tăng sản xuất acid lactic do gây co giật",
+            "Ức chế chu trình Krebs và \"mở khớp\" quá trình phosphoryl oxy hóa ở ty thể",
+            "Kích thích ly giải glycogen ở gan"
+          ],
+          "answer": 2,
+          "explain": "Salicylate làm gián đoạn quá trình sản xuất năng lượng của tế bào bằng cách \"mở khớp\" (uncoupling) chu trình phosphoryl oxy hóa tại ty thể. Năng lượng thay vì được dùng để tạo ATP thì lại bị tiêu tán dưới dạng nhiệt (gây sốt). Sự gián đoạn này buộc tế bào phải chuyển sang chuyển hóa yếm khí, gây tích tụ acid lactic và các acid khác, dẫn đến toan chuyển hóa."
+        },
+        {
+          "q": "Biện pháp điều trị nào là quan trọng nhất để tăng thải trừ Salicylate qua nước tiểu?",
+          "options": [
+            "Axít hóa nước tiểu bằng Amoni clorid",
+            "Dùng than hoạt đa liều",
+            "Sử dụng lợi tiểu quai Furosemide liều cao",
+            "Kiềm hóa nước tiểu bằng Natri bicarbonat"
+          ],
+          "answer": 3,
+          "explain": "Salicylate là một acid yếu. Việc kiềm hóa nước tiểu (mục tiêu pH nước tiểu từ 7.5-8.0) bằng cách truyền Natri bicarbonat sẽ giúp ion hóa phân tử Salicylate trong ống thận, ngăn cản sự tái hấp thu và làm tăng đáng kể sự thải trừ của nó qua nước tiểu. Đây là nền tảng của điều trị."
+        },
+        {
+          "q": "Chỉ định nào sau đây là tuyệt đối cho việc lọc máu (thận nhân tạo) ở bệnh nhân ngộ độc Salicylate?",
+          "options": [
+            "Suy thận, phù phổi, rối loạn thần kinh trung ương nặng hoặc toan máu nặng không đáp ứng điều trị",
+            "Bệnh nhân có biểu hiện ù tai",
+            "Nồng độ salicylate > 50 mg/dL",
+            "Bất kỳ trường hợp ngộ độc Salicylate có chủ ý nào"
+          ],
+          "answer": 0,
+          "explain": "Lọc máu là biện pháp loại bỏ chất độc hiệu quả nhất. Chỉ định tuyệt đối bao gồm các biểu hiện lâm sàng nặng không đáp ứng với điều trị nội khoa như: rối loạn ý thức nặng (hôn mê, co giật), phù phổi, suy thận, toan máu nặng (pH < 7.2), hoặc nồng độ Salicylate rất cao (>100 mg/dL, hoặc >80 mg/dL kèm triệu chứng nặng)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 42 tuổi nhìn mờ và đau bụng dữ dội sau uống rượu tự pha",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 42 tuổi.<br><br><b>Bệnh sử:</b> Được đưa vào viện vì nhìn mờ và đau bụng. Khoảng 18 giờ trước, bệnh nhân đã uống một lượng lớn \"rượu tự pha\" không rõ nguồn gốc. Ban đầu bệnh nhân chỉ say nhẹ, nhưng sau đó khoảng 12 giờ, bệnh nhân bắt đầu thấy đau bụng dữ dội, nôn, đau đầu và đặc biệt là nhìn mọi vật mờ đi \"như trong sương mù\".<br><br><b>Tiền sử:</b> Có tiền sử nghiện rượu nhiều năm.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh nhưng mệt, GCS 15. Sinh hiệu: mạch 100 lần/phút, huyết áp 130/80 mmHg, nhịp thở 28 lần/phút, sâu (kiểu Kussmaul). Khám mắt thấy đồng tử hai bên giãn 5mm, đáp ứng kém với ánh sáng, thị lực giảm nặng (chỉ đếm được ngón tay ở khoảng cách 1m). Soi đáy mắt thấy gai thị phù nề, xung huyết. Bụng ấn đau lan tỏa.<br><br><b>Xét nghiệm:</b> Khí máu động mạch: pH 7.15 (toan máu nặng), PaCO₂ 15 mmHg, HCO₃⁻ 6 mmol/L. Na⁺ 138 mmol/L, K⁺ 4.0 mmol/L, Cl⁻ 95 mmol/L. Lactate 3.0 mmol/L. Áp lực thẩm thấu máu đo được là 340 mOsm/kg, áp lực thẩm thấu ước tính là 295 mOsm/kg.",
+      "questions": [
+        {
+          "q": "Tình trạng này có khả năng nhất là ngộ độc chất gì?",
+          "options": [
+            "Ethanol (rượu thông thường)",
+            "Methanol (cồn công nghiệp)",
+            "Ethylene glycol",
+            "Isopropanol"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh có khoảng \"im lặng\" sau khi uống rượu không rõ nguồn gốc, sau đó xuất hiện rối loạn thị giác đặc trưng (nhìn mờ, phù gai thị) và toan chuyển hóa nặng là kinh điển cho ngộ độc Methanol."
+        },
+        {
+          "q": "Khoảng trống thẩm thấu (Osmolal Gap) và Khoảng trống anion (Anion Gap) của bệnh nhân này biến đổi như thế nào?",
+          "options": [
+            "Chỉ khoảng trống anion giảm",
+            "Chỉ khoảng trống thẩm thấu tăng đơn độc",
+            "Giai đoạn sớm thường tăng khoảng trống thẩm thấu; khi chuyển hóa thành Formate, khoảng trống anion tăng và khoảng trống thẩm thấu có thể giảm",
+            "Cả hai khoảng trống đều giảm nặng"
+          ],
+          "answer": 2,
+          "explain": "Khoảng trống thay đổi theo tiến trình thời gian. Methanol chưa chuyển hóa làm tăng khoảng trống thẩm thấu ban đầu; khi được chuyển hóa và Formate tích tụ, tình trạng toan chuyển hóa tăng khoảng trống anion xuất hiện và khoảng trống thẩm thấu có thể sụt giảm."
+        },
+        {
+          "q": "Chất chuyển hóa nào là nguyên nhân chính gây ra toan chuyển hóa nặng và độc tính trên mắt?",
+          "options": [
+            "Bản thân Methanol",
+            "Formaldehyde",
+            "Acetone",
+            "Acid formic"
+          ],
+          "answer": 3,
+          "explain": "Methanol được enzyme Alcohol Dehydrogenase (ADH) chuyển hóa thành Formaldehyde, sau đó được Aldehyde Dehydrogenase (ALDH) chuyển hóa rất nhanh thành Acid formic. Chính Acid formic là chất gây ra toan chuyển hóa nặng (do là một acid mạnh) và gây độc trực tiếp cho dây thần kinh thị giác và võng mạc (do ức chế cytochrome oxidase ở ty thể)."
+        },
+        {
+          "q": "Cơ chế tác dụng của thuốc giải độc Fomepizole hoặc Ethanol là gì?",
+          "options": [
+            "Cạnh tranh và ức chế enzyme Alcohol Dehydrogenase (ADH)",
+            "Tăng cường thải trừ Methanol qua thận",
+            "Trung hòa trực tiếp acid formic",
+            "Kiềm hóa máu để giảm tác hại của chất độc"
+          ],
+          "answer": 0,
+          "explain": "Cả Methanol và Ethanol đều là cơ chất của enzyme ADH. Tuy nhiên, ADH có ái lực với Ethanol cao hơn nhiều. Do đó, việc truyền Ethanol (hoặc dùng Fomepizole, một chất ức chế chuyên biệt ADH) sẽ làm cho enzyme này \"bận rộn\" chuyển hóa Ethanol, từ đó ngăn chặn hoặc làm chậm quá trình chuyển hóa Methanol thành các chất độc là formaldehyde và acid formic."
+        },
+        {
+          "q": "Ngoài thuốc giải độc, biện pháp nào sau đây là cần thiết để loại bỏ cả Methanol và chất chuyển hóa độc của nó?",
+          "options": [
+            "Rửa dạ dày",
+            "Lọc máu (Thận nhân tạo)",
+            "Dùng than hoạt tính",
+            "Gây nôn"
+          ],
+          "answer": 1,
+          "explain": "Methanol và chất chuyển hóa của nó (acid formic) là những phân tử nhỏ, tan trong nước và không gắn với protein huyết tương. Do đó, lọc máu ngắt quãng là biện pháp cực kỳ hiệu quả để nhanh chóng loại bỏ cả chất mẹ và các sản phẩm chuyển hóa độc ra khỏi cơ thể, đồng thời giúp điều chỉnh nhanh toan kiềm và điện giải."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 24 tuổi hôn mê sâu và da có màu hồng anh đào sau hít khói hỏa hoạn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 24 tuổi.<br><br><b>Bệnh sử:</b> Được đội cứu hộ đưa vào từ một vụ cháy nhà. Bệnh nhân được tìm thấy trong tình trạng bất tỉnh trong phòng ngủ đầy khói. Tại hiện trường, bệnh nhân được đặt nội khí quản và bóp bóng với oxy 100%.<br><br><b>Khám lâm sàng:</b> Bệnh nhân hôn mê, GCS 7 điểm, đang thở máy. Da có màu hồng anh đào (cherry-red), niêm mạc cũng có màu tương tự, không có dấu hiệu bỏng đường hô hấp trên. Sinh hiệu: mạch 110 lần/phút, huyết áp 130/80 mmHg, nhiệt độ 37.0°C. Tim nhịp nhanh đều, phổi thông khí rõ hai bên. SpO₂ hiển thị trên máy theo dõi tại giường là 99%.<br><br><b>Xét nghiệm:</b> Khí máu động mạch (khi đang thở oxy 100%): pH 7.25, PaO₂ 450 mmHg, PaCO₂ 40 mmHg, HCO₃⁻ 18 mmol/L. Xét nghiệm nồng độ Carboxyhemoglobin (COHb) trong máu là 40% (tăng rất cao).",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định của bệnh nhân là gì?",
+          "options": [
+            "Ngộ độc Cyanide",
+            "Suy hô hấp do hít khói",
+            "Ngộ độc khí Carbon Monoxide (CO) mức độ nặng",
+            "Chấn thương sọ não do ngã trong đám cháy"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh nạn nhân hít khói trong đám cháy, có hôn mê và đặc biệt là nồng độ COHb trong máu rất cao (40%) là bằng chứng chắc chắn xác lập chẩn đoán ngộ độc CO mức độ nặng."
+        },
+        {
+          "q": "Tại sao chỉ số SpO₂ đo qua da lại bình thường (99%) trong khi bệnh nhân đang bị ngộ độc CO nặng?",
+          "options": [
+            "Vì SpO₂ không phản ánh tình trạng thiếu oxy mô",
+            "Vì CO làm tăng ái lực của oxy với hemoglobin",
+            "Vì bệnh nhân đã được thở oxy 100%",
+            "Vì máy đo SpO₂ không phân biệt được giữa Oxyhemoglobin và Carboxyhemoglobin"
+          ],
+          "answer": 3,
+          "explain": "Máy đo độ bão hòa oxy mao mạch (SpO₂) hoạt động bằng cách chiếu hai bước sóng ánh sáng để phân biệt giữa hemoglobin gắn oxy (màu đỏ tươi) và không gắn oxy (màu đỏ sẫm). Do phân tử Carboxyhemoglobin cũng có phổ hấp thụ màu đỏ tươi tương tự Oxyhemoglobin, máy đo thông thường không thể phân biệt được hai dạng này và đưa ra kết quả SpO₂ cao giả tạo."
+        },
+        {
+          "q": "Cơ chế chính gây thiếu oxy mô trong ngộ độc CO là gì?",
+          "options": [
+            "Gắn vào Hemoglobin tạo COHb làm giảm khả năng vận chuyển oxy, và làm đường cong phân ly oxy-Hb dịch sang trái",
+            "Gây methemoglobinemia, làm giảm khả năng vận chuyển oxy",
+            "Ức chế trực tiếp trung tâm hô hấp gây ngừng thở",
+            "Gây co thắt mạch máu toàn thân làm giảm tưới máu mô"
+          ],
+          "answer": 0,
+          "explain": "CO gây độc qua hai cơ chế chính: (1) Ái lực của CO với Hemoglobin (Hb) cao hơn của Oxy khoảng 240 lần, cạnh tranh đẩy Oxy ra khỏi Hb để tạo thành COHb, làm giảm lượng Hb có khả năng vận chuyển oxy. (2) Sự hiện diện của COHb làm dịch chuyển đường cong phân ly Oxy-Hb sang trái, khiến Hb giữ chặt oxy hơn và rất khó nhả oxy cho mô. Cả hai cơ chế dẫn đến tình trạng thiếu oxy mô nghiêm trọng."
+        },
+        {
+          "q": "Biện pháp điều trị quan trọng và hiệu quả nhất để tăng tốc độ đào thải CO là gì?",
+          "options": [
+            "Truyền Xanh Methylen",
+            "Cho thở oxy 100% qua mặt nạ hoặc nội khí quản",
+            "Thay máu toàn bộ",
+            "Lọc máu hấp phụ"
+          ],
+          "answer": 1,
+          "explain": "Thời gian bán thải của COHb trong không khí phòng là khoảng 4-6 giờ. Việc cho bệnh nhân thở oxy 100% nồng độ cao sẽ giúp cạnh tranh và đẩy mạnh CO ra khỏi hemoglobin, làm sụt giảm thời gian bán thải xuống còn 60-90 phút."
+        },
+        {
+          "q": "Biến chứng thần kinh muộn (delayed neurologic sequelae) có thể xảy ra sau ngộ độc CO. Liệu pháp nào được chứng minh có thể làm giảm tỷ lệ biến chứng này ở bệnh nhân ngộ độc CO nặng?",
+          "options": [
+            "Dùng Corticoid liều cao",
+            "Dùng Mannitol chống phù não",
+            "Liệu pháp oxy cao áp (Hyperbaric Oxygen Therapy - HBOT)",
+            "Hạ thân nhiệt chỉ huy"
+          ],
+          "answer": 2,
+          "explain": "Liệu pháp oxy cao áp (HBOT), cho bệnh nhân thở oxy 100% trong buồng áp suất cao (2.5-3 ATA), giúp làm tăng lượng oxy hòa tan tự do trong huyết tương, đẩy nhanh quá trình đào thải CO, và được chỉ định đặc biệt cho các ca ngộ độc nặng (hôn mê, có dấu thần kinh khu trú, COHb > 25%) để giảm thiểu di chứng thần kinh nhận thức muộn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 24 tuổi lơ mơ và mạch nhanh xoang sau uống thuốc chống trầm cảm",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 24 tuổi.<br><br><b>Bệnh sử:</b> Được đưa vào cấp cứu khoảng 2 giờ sau khi uống khoảng 40 viên Amitriptyline 25mg với ý định tự tử.<br><br><b>Tiền sử:</b> Có tiền sử mắc bệnh lý trầm cảm đang điều trị dài ngày với Amitriptyline.<br><br><b>Khám lâm sàng:</b> Bệnh nhân lơ mơ, GCS 12 điểm, nói mê sảng. Da nóng, đỏ, khô, niêm mạc miệng khô. Sinh hiệu: mạch 130 lần/phút, huyết áp 90/50 mmHg. Đồng tử hai bên giãn 6mm, phản xạ ánh sáng chậm. Bụng chướng nhẹ, giảm nhu động ruột. Cầu bàng quang dương tính.<br><br><b>Xét nghiệm:</b> Điện tâm đồ (ECG) cho thấy nhịp nhanh xoang, khoảng QRS giãn rộng 140ms, và sóng R ưu thế ở chuyển đạo aVR (>3mm).",
+      "questions": [
+        {
+          "q": "Bệnh cảnh của bệnh nhân phù hợp với hội chứng ngộ độc nào?",
+          "options": [
+            "Hội chứng Serotonin",
+            "Hội chứng cường giao cảm",
+            "Hội chứng cai rượu",
+            "Hội chứng kháng Cholinergic (Anticholinergic)"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân xuất hiện đầy đủ các triệu chứng kinh điển của hội chứng kháng Cholinergic: sốt, đồng tử giãn, da đỏ và khô, bí tiểu (cầu bàng quang dương tính), mê sảng (\"Nóng như thỏ, mù như dơi, đỏ như củ dền, khô như xương, điên như người làm mũ\")."
+        },
+        {
+          "q": "Cơ chế nào gây ra tình trạng QRS giãn rộng và tụt huyết áp ở bệnh nhân này?",
+          "options": [
+            "Chẹn kênh Natri làm QRS rộng và chẹn Alpha-1 góp phần tụt huyết áp",
+            "Chỉ chẹn thụ thể Muscarinic đơn thuần",
+            "Chỉ gây suy giảm chức năng ức chế hô hấp",
+            "Hoạt hóa mạnh mẽ hệ Adrenergic Beta-1"
+          ],
+          "answer": 0,
+          "explain": "Thuốc chống trầm cảm ba vòng (TCA) gây độc tính trên hệ tim mạch chủ yếu do tác dụng phong tỏa các kênh Natri nhanh ở cơ tim (gây giãn rộng phức bộ QRS) phối hợp với tác dụng chẹn thụ thể Alpha-1 ngoại biên gây giãn mạch và tụt huyết áp."
+        },
+        {
+          "q": "Biến chứng tim mạch nguy hiểm nhất của ngộ độc TCA là gì?",
+          "options": [
+            "Nhịp nhanh trên thất",
+            "Xoắn đỉnh và rung thất",
+            "Rung nhĩ đáp ứng thất nhanh",
+            "Block nhĩ thất cấp III"
+          ],
+          "answer": 1,
+          "explain": "Tình trạng phức bộ QRS giãn rộng trên ECG là một yếu tố tiên lượng rất nặng. Khi QRS > 100 ms nguy cơ co giật tăng, và khi QRS > 160 ms nguy cơ khởi phát các loạn nhịp thất chết người như nhịp nhanh thất đa hình thái (xoắn đỉnh) và rung thất dẫn đến ngừng tim là cực kỳ cao."
+        },
+        {
+          "q": "Biện pháp điều trị nào được coi là nền tảng để xử trí độc tính trên tim mạch (QRS giãn rộng, tụt huyết áp) do ngộ độc TCA?",
+          "options": [
+            "Sử dụng thuốc chẹn beta (Propranolol)",
+            "Sử dụng thuốc chống loạn nhịp nhóm IA (Quinidine)",
+            "Truyền tĩnh mạch Natri bicarbonat",
+            "Sốc điện chuyển nhịp ngay lập tức"
+          ],
+          "answer": 2,
+          "explain": "Truyền Natri bicarbonat 8.4% là can thiệp cứu mạng nền tảng. Cơ chế hoạt động bao gồm: (1) Cung cấp nồng độ Natri ngoại bào lớn để cạnh tranh và vượt qua sự phong tỏa kênh Natri. (2) Kiềm hóa máu làm sụt giảm lượng TCA ở dạng ion hóa hoạt động, từ đó làm giảm khả năng gắn của thuốc vào kênh Natri. Mục tiêu duy trì pH máu trong khoảng 7.50-7.55."
+        },
+        {
+          "q": "Tại sao các thuốc chống loạn nhịp nhóm IA (Quinidine, Procainamide) và nhóm IC (Flecainide) lại bị chống chỉ định trong trường hợp này?",
+          "options": [
+            "Vì chúng gây tăng huyết áp quá mức",
+            "Vì chúng gây phản ứng dị ứng chéo với TCA",
+            "Vì chúng gây nhịp chậm và block nhĩ thất",
+            "Vì chúng cũng có cơ chế tác dụng phong tỏa kênh Natri, làm nặng thêm độc tính trên tim"
+          ],
+          "answer": 3,
+          "explain": "Các thuốc chống loạn nhịp thuộc nhóm IA và IC có cơ chế tác dụng tương tự là chẹn kênh Natri nhanh. Việc sử dụng chúng trong ngộ độc TCA sẽ gây tác dụng cộng hưởng độc tính, làm tình trạng block kênh Natri trở nên trầm trọng hơn, dẫn đến suy sụp huyết động và ngừng tim."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi nhìn vật có quầng màu vàng xanh và mạch chậm xoang mạn tính",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 72 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì buồn nôn, nôn và nhìn mờ trong 3 ngày nay. Bệnh nhân mô tả nhìn mọi vật có quầng màu vàng xanh đặc trưng.<br><br><b>Tiền sử:</b> Có tiền sử suy tim, rung nhĩ và suy thận mạn giai đoạn III, đang điều trị dài ngày với Digoxin 0.125mg/ngày, Furosemide và Perindopril.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, GCS 15 điểm. Sinh hiệu: mạch 40 lần/phút, không đều, huyết áp 130/80 mmHg. Tim có loạn nhịp hoàn toàn, tần số thất rất chậm. Phổi không ran.<br><br><b>Xét nghiệm:</b> K⁺ 5.9 mmol/L (tăng), Creatinin 250 µmol/L (nền 180 µmol/L, thể hiện chức năng thận cấp xấu đi). Nồng độ Digoxin trong máu đo được là 3.8 ng/mL (ngưỡng điều trị chuẩn là 0.5-2.0 ng/mL). Điện tâm đồ (ECG) cho thấy rung nhĩ đáp ứng thất rất chậm, tần số 40 lần/phút, sóng T dẹt, ST chênh xuống hình \"đáy chén\" ở nhiều chuyển đạo.",
+      "questions": [
+        {
+          "q": "Tình trạng của bệnh nhân có khả năng cao nhất là gì?",
+          "options": [
+            "Ngộ độc Digoxin mạn tính",
+            "Đợt cấp mất bù suy tim",
+            "Nhồi máu cơ tim cấp thành dưới",
+            "Tăng kali máu đơn thuần do suy thận"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có đầy đủ các yếu tố nguy cơ (tuổi cao, suy thận mạn tiến triển), sử dụng Digoxin dài ngày, xuất hiện triệu chứng ngộ độc kinh điển (rối loạn thị giác màu, buồn nôn), mạch chậm và nồng độ Digoxin máu cao. Đây là bệnh cảnh ngộ độc Digoxin mạn tính do sụt giảm đào thải qua thận."
+        },
+        {
+          "q": "Cơ chế tác dụng của Digoxin là gì?",
+          "options": [
+            "Kích thích trực tiếp thụ thể beta-1 adrenergic ở tim",
+            "Ức chế bơm Na-K-ATPase trên màng tế bào cơ tim",
+            "Chẹn kênh Canxi loại L",
+            "Tăng cường hoạt động của hệ thần kinh giao cảm"
+          ],
+          "answer": 1,
+          "explain": "Digoxin gắn và ức chế bơm Na-K-ATPase trên màng tế bào cơ tim, làm tăng nồng độ ion Natri nội bào. Nồng độ Natri cao làm chậm hoạt động của bộ trao đổi Na-Ca, dẫn đến tích tụ Canxi nội bào, giúp tăng sức co bóp cơ tim. Ngoài ra, thuốc kích thích hệ phó giao cảm gây ra tình trạng chậm nhịp tim."
+        },
+        {
+          "q": "Yếu tố nào sau đây làm tăng nguy cơ ngộ độc Digoxin ở bệnh nhân này?",
+          "options": [
+            "Giới nam",
+            "Tăng Kali mạn luôn làm tăng độc tính",
+            "Tuổi cao và suy thận làm giảm thanh thải Digoxin",
+            "Tăng Natri máu"
+          ],
+          "answer": 2,
+          "explain": "Digoxin được đào thải chủ yếu qua con đường thận. Tình trạng tuổi cao kết hợp suy thận mạn làm sụt giảm nghiêm trọng độ thanh thải thuốc, kéo dài thời gian bán thải. Bên cạnh đó, các rối loạn điện giải như hạ Kali, hạ Magie, tăng Calci máu cũng làm cơ tim nhạy cảm hơn với độc tính của Digoxin."
+        },
+        {
+          "q": "Kháng thể kháng Digoxin (Digoxin-specific antibody fragments - DigiFab/Digibind) được chỉ định trong trường hợp nào sau đây?",
+          "options": [
+            "Bất kỳ trường hợp nào có nồng độ Digoxin trên ngưỡng điều trị",
+            "Khi bệnh nhân có triệu chứng rối loạn thị giác",
+            "Chỉ khi bệnh nhân bị ngộ độc Digoxin cấp tính",
+            "Khi có loạn nhịp đe dọa tính mạng hoặc tăng kali máu nặng"
+          ],
+          "answer": 3,
+          "explain": "DigiFab là thuốc giải độc đặc hiệu, chỉ được chỉ định trong các ca ngộ độc Digoxin có biến chứng đe dọa tính mạng: loạn nhịp thất nguy hiểm, block nhĩ thất độ cao, nhịp chậm nặng trơ với Atropine, hoặc tình trạng tăng kali máu mức độ nặng (> 5.5 mmol/L)."
+        },
+        {
+          "q": "Tại sao ngộ độc Digoxin lại gây tăng kali máu?",
+          "options": [
+            "Do sự ức chế lan tỏa bơm Na-K-ATPase trên toàn cơ thể, làm giảm vận chuyển Kali vào trong tế bào",
+            "Do Digoxin gây ly giải cơ vân cấp",
+            "Do Digoxin gây toan chuyển hóa, làm Kali di chuyển ra khỏi tế bào",
+            "Do Digoxin gây suy thận cấp, làm giảm thải Kali"
+          ],
+          "answer": 0,
+          "explain": "Bơm Na-K-ATPase có mặt trên hầu hết các màng tế bào cơ thể, giữ vai trò đưa ion Kali vào trong tế bào và đẩy Natri ra ngoài. Khi ngộ độc Digoxin, sự ức chế lan tỏa hệ thống bơm này khiến Kali không thể vận chuyển vào nội bào hiệu quả, dẫn đến tăng nồng độ Kali tự do trong huyết thanh. Mức độ tăng kali phản ánh độ nặng của ngộ độc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi loét trợt niêm mạc miệng sau uống hóa chất diệt cỏ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 30 tuổi, làm nông nghiệp.<br><br><b>Bệnh sử:</b> Vào viện khoảng 4 giờ sau khi uống một ngụm thuốc diệt cỏ Paraquat (khoảng 20-30 mL dung dịch nồng độ 20%) với ý định tự tử. Ngay sau khi uống, bệnh nhân cảm thấy bỏng rát dữ dội vùng miệng và họng, sau đó nôn ra dịch màu xanh đặc trưng.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, lo lắng. Miệng, họng và thực quản có nhiều vết loét trợt đỏ rộng. Sinh hiệu ổn định: mạch 90 lần/phút, huyết áp 120/80 mmHg. Phổi nghe trong, SpO₂ đạt 97% khí trời.<br><br><b>Xét nghiệm:</b> Chức năng gan thận ban đầu trong giới hạn bình thường: Creatinin 110 µmol/L, AST 80 U/L, ALT 75 U/L. Test nhanh định tính Paraquat trong nước tiểu cho kết quả dương tính mạnh.",
+      "questions": [
+        {
+          "q": "Chẩn đoán của bệnh nhân là gì?",
+          "options": [
+            "Ngộ độc thuốc trừ sâu phospho hữu cơ",
+            "Ngộ độc Paraquat cấp",
+            "Ngộ độc hóa chất ăn mòn (acid/kiềm)",
+            "Viêm dạ dày ruột cấp do virus"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh bệnh nhân uống hóa chất diệt cỏ phế năng, xuất hiện tổn thương loét niêm mạc đường tiêu hóa trên ngay lập tức và test nước tiểu khẳng định dương tính là bằng chứng chắc chắn của ngộ độc Paraquat cấp."
+        },
+        {
+          "q": "Cơ quan nào là mục tiêu chính và chịu tổn thương nặng nề nhất, thường xuất hiện muộn và quyết định tiên lượng tử vong của bệnh nhân?",
+          "options": [
+            "Não",
+            "Tim",
+            "Phổi",
+            "Gan"
+          ],
+          "answer": 2,
+          "explain": "Hóa chất Paraquat được hệ thống vận chuyển tích cực tích lũy chọn lọc với nồng độ rất cao tại các tế bào phế nang phổi. Tổn thương phổi tiến triển sau vài ngày đến vài tuần qua hai giai đoạn: viêm phế nang xuất huyết hoại tử ban đầu, sau đó tiến triển thành xơ hóa phổi lan tỏa không hồi phục, gây suy hô hấp nặng dẫn đến tử vong."
+        },
+        {
+          "q": "Cơ chế chính gây độc của Paraquat là gì?",
+          "options": [
+            "Ức chế men Acetylcholinesterase",
+            "Gây methemoglobinemia",
+            "Chẹn kênh Natri ở tế bào thần kinh",
+            "Tạo ra các gốc oxy hóa tự do (ROS) gây tổn thương màng tế bào và ty thể"
+          ],
+          "answer": 3,
+          "explain": "Khi vào trong tế bào phế nang, Paraquat tham gia vào chu trình phản ứng oxy hóa khử liên tục, nhận electron từ hệ thống NADPH và chuyển giao cho phân tử oxy, hình thành lượng lớn các gốc tự do superoxide (O₂⁻) và các gốc oxy hóa phản ứng (ROS). Các gốc tự do này khởi phát quá trình peroxy hóa lipid màng, phá hủy màng tế bào, màng ty thể và dẫn đến chết tế bào."
+        },
+        {
+          "q": "Tại sao việc sử dụng liệu pháp oxy liều cao lại cần hết sức thận trọng và thường bị chống chỉ định trong giai đoạn đầu của ngộ độc Paraquat, trừ khi bệnh nhân có thiếu oxy máu nặng?",
+          "options": [
+            "Vì oxy là một chất nền thúc đẩy quá trình tạo gốc tự do của Paraquat, làm tổn thương phổi nặng hơn",
+            "Vì oxy có thể gây co thắt mạch phổi",
+            "Vì oxy làm tăng chuyển hóa Paraquat tại gan",
+            "Vì oxy có thể gây cháy nổ khi kết hợp với Paraquat"
+          ],
+          "answer": 0,
+          "explain": "Chu trình sản sinh các gốc tự do độc tính của Paraquat bắt buộc phải có sự hiện diện của phân tử oxy làm chất nền. Việc cung cấp thêm oxy nồng độ cao vô tình sẽ cung cấp thêm \"nhiên liệu\", thúc đẩy chu trình tạo gốc tự do ROS diễn ra mạnh mẽ và phá hủy mô phổi nhanh chóng hơn. Oxy chỉ được dùng khi SpO₂ giảm thấp dưới 92% và với liều tối thiểu đạt mục tiêu."
+        },
+        {
+          "q": "Biện pháp nào sau đây có thể giúp loại bỏ Paraquat ra khỏi cơ thể và được chỉ định sớm?",
+          "options": [
+            "Gây nôn bằng Ipeca",
+            "Dùng chất hấp phụ đường tiêu hóa càng sớm càng tốt; hemoperfusion sớm có thể cân nhắc nhưng lợi ích chưa chắc chắn và không có thuốc giải độc đặc hiệu",
+            "Chỉ áp dụng lợi tiểu cưỡng bức đơn thuần",
+            "Dùng kháng thể đặc hiệu"
+          ],
+          "answer": 1,
+          "explain": "Ưu tiên hàng đầu là khử nhiễm đường tiêu hóa bằng than hoạt hoặc đất sét Fuller's earth sớm trong những giờ đầu khi đường thở an toàn. Do thuốc phân bố cực nhanh vào mô, kỹ thuật lọc máu hấp phụ (hemoperfusion) nếu thực hiện rất sớm (trước 6 giờ) có thể giúp giảm nồng độ thuốc trong máu, nhưng bằng chứng cải thiện tỷ lệ sống còn lâu dài vẫn còn hạn chế."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi suy hô hấp và đồng tử co nhỏ do lạm dụng độc chất đường tiêm",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 30 tuổi.<br><br><b>Bệnh sử:</b> Được đưa vào khoa cấp cứu trong tình trạng hôn mê sâu, thở chậm 8 lần/phút, da tái lạnh.<br><br><b>Tiền sử:</b> Có tiền sử nghiện ma túy đường tiêm lâu năm.<br><br><b>Khám lâm sàng:</b> Khám thấy có nhiều vết sẹo cũ và vết kim tiêm mới dọc theo đường đi của các tĩnh mạch tay. Đồng tử hai bên co nhỏ như đầu đinh ghim 1 mm, phản xạ ánh sáng mất. Mạch 60 lần/phút, huyết áp 90/60 mmHg, SpO₂ đạt 85% khí trời. Không có dấu hiệu chấn thương đầu, phổi không ran, bụng mềm.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng hướng tới nhiều nhất là:",
+          "options": [
+            "Ngộ độc Benzodiazepine",
+            "Ngộ độc Methanol",
+            "Ngộ độc nhóm Opioid",
+            "Xuất huyết thân não"
+          ],
+          "answer": 2,
+          "explain": "Sự xuất hiện đầy đủ của tam chứng kinh điển bao gồm: hôn mê sâu, suy hô hấp (thở chậm, nông) phối hợp với đồng tử co nhỏ như đầu đinh ghim trên nền một bệnh nhân có dấu vết tiêm chích ma túy rõ rệt hướng tới chẩn đoán ngộ độc quá liều Opioid cấp tính."
+        },
+        {
+          "q": "Cơ chế chính gây suy hô hấp ở bệnh nhân này là:",
+          "options": [
+            "Co thắt cơ trơn phế quản",
+            "Phù phổi cấp huyết động",
+            "Liệt các cơ hô hấp ngoại biên",
+            "Ức chế trung tâm hô hấp ở hành não"
+          ],
+          "answer": 3,
+          "explain": "Độc chất nhóm Opioid tác động gắn kết trực tiếp lên các thụ thể mu (μ) tại trung tâm hô hấp nằm ở hành não, làm sụt giảm nghiêm trọng độ nhạy cảm của các chemoreceptor đối với nồng độ CO₂ máu, gây giảm tần số và biên độ thở."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây cần thực hiện ngay tại giường để loại trừ chẩn đoán phân biệt quan trọng nhất:",
+          "options": [
+            "Test nhanh Glucose máu mao mạch",
+            "Chụp CT-scan sọ não cấp cứu",
+            "Định lượng nồng độ Morphine máu",
+            "Khí máu động mạch (ABG)"
+          ],
+          "answer": 0,
+          "explain": "Tình trạng hạ đường huyết nặng là nguyên nhân phổ biến gây bệnh cảnh hôn mê sâu mô phỏng các dấu hiệu thần kinh. Cần thực hiện test nhanh đường máu mao mạch tại giường ngay lập tức để loại trừ chẩn đoán phân biệt quan trọng này."
+        },
+        {
+          "q": "Thuốc giải độc đặc hiệu được lựa chọn ưu tiên là:",
+          "options": [
+            "Flumazenil",
+            "Naloxone",
+            "N-acetylcysteine",
+            "Atropine Sulfate"
+          ],
+          "answer": 1,
+          "explain": "Naloxone là chất đối kháng cạnh tranh có ái lực rất cao tại thụ thể Opioid, giúp nhanh chóng đảo ngược tác dụng ức chế thần kinh trung ương và phục hồi nhịp thở tự nhiên cho người bệnh."
+        },
+        {
+          "q": "Diễn biến nào sau đây cần cảnh giác nhất khi sử dụng liều cao thuốc giải độc ở bệnh nhân này:",
+          "options": [
+            "Viêm phổi do hít sặc",
+            "Suy thận cấp do tiêu cơ vân",
+            "Hội chứng cai cấp tính",
+            "Tăng áp lực nội sọ"
+          ],
+          "answer": 2,
+          "explain": "Ở các bệnh nhân có tình trạng nghiện Opioid mạn tính, việc sử dụng thuốc đối kháng Naloxone với liều lượng quá cao hoặc tốc độ quá nhanh có thể đột ngột khởi phát một hội chứng cai thuốc cấp tính, gây kích động vật vã, vã mồ hôi, nôn mửa và tăng huyết áp dữ dội."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 30 tuổi buồn nôn và đau bụng cấp tính sau uống thuốc quá liều",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 30 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì buồn nôn, nôn và đau bụng vùng thượng vị sau khi uống khoảng 30 viên Paracetamol 500mg để tự sát cách đây 4 giờ.<br><br><b>Khám lâm sàng:</b> Tỉnh, tiếp xúc tốt, da niêm mạc bình thường, không vàng da, không phù. Mạch 85 lần/phút, huyết áp 110/70 mmHg, nhịp thở 18 lần/phút.<br><br><b>Xét nghiệm:</b> Men gan AST/ALT và chỉ số Bilirubin hiện tại tại thời điểm mốc 4 giờ nằm trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Độc chất chuyển hóa gây tổn thương gan chính trong ngộ độc Paracetamol là:",
+          "options": [
+            "Cytochrome P450",
+            "Glucuronic liên hợp",
+            "Sulfate liên hợp",
+            "N-acetyl-p-benzoquinone imine (NAPQI)"
+          ],
+          "answer": 3,
+          "explain": "NAPQI là chất chuyển hóa trung gian có độc tính cực cao trên tế bào gan. Ở liều độc, khi hệ thống Glutathione nội bào cạn kiệt, NAPQI tự do sẽ gắn hóa trị vào đại phân tử tế bào gan gây ra hoại tử nhu mô gan lan tỏa."
+        },
+        {
+          "q": "Theo hướng dẫn, thời điểm sớm nhất để lấy máu định lượng nồng độ Paracetamol nhằm áp dụng đồ thị Rumack-Matthew là:",
+          "options": [
+            "4 giờ sau uống",
+            "2 giờ sau uống",
+            "Ngay khi nhập viện",
+            "12 giờ sau uống"
+          ],
+          "answer": 0,
+          "explain": "Đồ thị Rumack-Matthew chỉ có giá trị khoa học tin cậy để tiên lượng và đưa ra quyết định điều trị bằng thuốc giải độc khi mẫu máu định lượng nồng độ Paracetamol được lấy từ mốc thời gian ít nhất là 4 giờ trở đi sau khi uống."
+        },
+        {
+          "q": "Biện pháp tẩy độc hệ tiêu hóa phù hợp nhất ở thời điểm này là:",
+          "options": [
+            "Gây nôn bằng siro Ipeca",
+            "Uống than hoạt đơn liều 1 g/kg",
+            "Rửa dạ dày bằng nước sạch",
+            "Nội soi dạ dày cấp cứu"
+          ],
+          "answer": 1,
+          "explain": "Sử dụng than hoạt tính đơn liều với tỷ lệ 1g/kg mang lại hiệu quả hấp phụ cao nhất đối với lượng thuốc còn lưu lại trong lòng ống tiêu hóa nếu được triển khai sớm trong vòng 1-4 giờ đầu sau uống."
+        },
+        {
+          "q": "Thuốc giải độc đặc hiệu N-acetylcysteine (NAC) có vai trò:",
+          "options": [
+            "Ức chế enzyme Cytochrome P450",
+            "Liên hợp trực tiếp với Paracetamol",
+            "Phục hồi dự trữ Glutathione ở gan",
+            "Tăng cường đào thải qua thận"
+          ],
+          "answer": 2,
+          "explain": "NAC hoạt động như một tiền chất giúp cung cấp cysteine để thúc đẩy quá trình tổng hợp nội sinh, phục hồi nhanh chóng nguồn dự trữ Glutathione của gan, hỗ trợ trung hòa hoàn toàn chất độc NAPQI."
+        },
+        {
+          "q": "Nếu không được điều trị, giai đoạn tổn thương gan nặng nhất (suy gan cấp) thường xảy ra vào thời điểm:",
+          "options": [
+            "6 - 12 giờ sau uống",
+            "12 - 24 giờ sau uống",
+            "Sau 1 tuần uống thuốc",
+            "72 - 96 giờ sau uống"
+          ],
+          "answer": 3,
+          "explain": "Giai đoạn 3 của tiến trình ngộ độc Paracetamol thường đạt đỉnh điểm hoại tử tế bào gan sau khoảng 72-96 giờ (ngày thứ 3 đến ngày thứ 4) sau uống thuốc, biểu hiện rầm rộ bằng các dấu hiệu vàng da, suy gan cấp, rối loạn đông máu nặng và bệnh não gan."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi vã mồ hôi và phổi nhiều ran ẩm sau phun thuốc trừ sâu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi, làm nghề nông.<br><br><b>Bệnh sử:</b> Được đưa vào viện sau khi đi phun thuốc trừ sâu ngoài đồng ruộng khoảng 3 giờ trong tình trạng kích thích, vã mồ hôi đầm đìa, chảy nhiều nước bọt.<br><br><b>Khám lâm sàng:</b> Đồng tử co nhỏ kích thước 1.5 mm, phổi nghe nhiều ran ẩm nổ rải rác hai bên phế trường, nhịp tim chậm 50 lần/phút, bụng đau quặn dữ dội, đại tiện phân lỏng liên tục. Huyết áp 100/60 mmHg.",
+      "questions": [
+        {
+          "q": "Nhóm triệu chứng chiếm ưu thế ở bệnh nhân này thuộc hội chứng nào:",
+          "options": [
+            "Hội chứng Muscarinic",
+            "Hội chứng Nicotinic",
+            "Hội chứng Thần kinh trung ương",
+            "Hội chứng Hạt máu"
+          ],
+          "answer": 0,
+          "explain": "Các biểu hiện vã mồ hôi, tăng tiết đờm dãi, ran ẩm ở phổi, nhịp tim chậm, co thắt cơ trơn tiêu hóa gây đau quặn bụng và tiêu chảy là tập hợp triệu chứng cường phó giao cảm do kích thích quá mức thụ thể Muscarinic."
+        },
+        {
+          "q": "Cơ chế gây độc của thuốc trừ sâu hữu cơ (Organophosphate) là ức chế enzyme:",
+          "options": [
+            "Monoamine oxidase (MAO)",
+            "Acetylcholinesterase (AChE)",
+            "Na⁺/K⁺-ATPase",
+            "Carbonic anhydrase"
+          ],
+          "answer": 1,
+          "explain": "Hóa chất phospho hữu cơ gắn kết chặt chẽ và gây ức chế hoạt tính của enzyme Acetylcholinesterase (AChE), làm mất khả năng thủy phân chất dẫn truyền thần kinh Acetylcholine, dẫn đến sự tích tụ quá mức chất này tại các khe synap thần kinh."
+        },
+        {
+          "q": "Mục tiêu quan trọng nhất khi sử dụng Atropine trong xử trí ban đầu là:",
+          "options": [
+            "Giãn đồng tử tối đa",
+            "Nâng huyết áp lên 140/90 mmHg",
+            "Làm khô dịch tiết ở phổi",
+            "Ngăn chặn tình trạng co giật"
+          ],
+          "answer": 2,
+          "explain": "Trong xử trí ngộ độc cấp tính phospho hữu cơ, ưu tiên sống còn của liệu pháp Atropine hóa là giải quyết tình trạng \"chết đuối trên cạn\" thông qua mục tiêu làm khô hoàn toàn các dịch tiết phế quản và giảm co thắt đường thở."
+        },
+        {
+          "q": "Thuốc giải độc giúp phục hồi enzyme bị ức chế (nếu dùng sớm) là:",
+          "options": [
+            "Pilocarpine",
+            "Physostigmine",
+            "Neostigmine",
+            "Pralidoxime (PAM)"
+          ],
+          "answer": 3,
+          "explain": "Pralidoxime (PAM) thuộc nhóm oxime, có khả năng cắt đứt liên kết hóa học giữa phân tử độc chất và enzyme AChE, giải phóng và tái hoạt hóa enzyme trở lại trạng thái chức năng bình thường trước khi liên kết bị \"già hóa\" vĩnh viễn."
+        },
+        {
+          "q": "Diễn biến yếu cơ hô hấp xảy ra sau 24-96 giờ, khi các triệu chứng cấp đã ổn định được gọi là:",
+          "options": [
+            "Hội chứng trung gian (Intermediate syndrome)",
+            "Bệnh lý đa dây thần kinh muộn",
+            "Sốc phản vệ pha 2",
+            "Hội chứng cai thuốc"
+          ],
+          "answer": 0,
+          "explain": "Hội chứng trung gian (Intermediate syndrome) đặc trưng bởi tình trạng yếu hoặc liệt các cơ hô hấp, cơ gốc chi và các cơ sọ não xuất hiện sau giai đoạn cấp từ 24-96 giờ, đòi hỏi kíp trực phải can thiệp hỗ trợ thông khí nhân tạo kịp thời."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 22 tuổi thở nhanh lơ mơ kèm rối loạn toan kiềm hỗn hợp",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 22 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì tình trạng lơ mơ và thở rất nhanh sâu sau khi tự uống một lọ thuốc không rõ nhãn mác (khoảng 50 viên màu trắng).<br><br><b>Khám lâm sàng:</b> Bệnh nhân lơ mơ, nhịp thở nhanh sâu rầm rộ.<br><br><b>Xét nghiệm:</b> Kết quả xét nghiệm khí máu động mạch: pH 7.45, PaCO₂ 20 mmHg, HCO₃⁻ 14 mmol/L, PaO₂ 95 mmHg. Khoảng trống Anion (Anion Gap) tăng cao ở mức 22 mmol/L. Đường máu 6.0 mmol/L, chức năng thận trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Rối loạn toan kiềm hỗn hợp ở bệnh nhân này là:",
+          "options": [
+            "Toan hô hấp và Toan chuyển hóa AG tăng",
+            "Kiềm hô hấp và Toan chuyển hóa AG tăng",
+            "Kiềm chuyển hóa và Kiềm hô hấp",
+            "Toan chuyển hóa AG bình thường và Kiềm hô hấp"
+          ],
+          "answer": 1,
+          "explain": "Kết quả khí máu hiển thị chỉ số PaCO₂ giảm thấp đáng kể (kiềm hô hấp) phối hợp đồng thời với chỉ số HCO₃⁻ giảm mạnh và khoảng trống Anion tăng cao rõ rệt (toan chuyển hóa tăng khoảng trống anion AG) là hình ảnh điển hình của tình trạng rối loạn kiềm toan hỗn hợp."
+        },
+        {
+          "q": "Loại thuốc nào sau đây phù hợp nhất với biểu hiện trên:",
+          "options": [
+            "Diazepam",
+            "Amitriptyline",
+            "Salicylate (Aspirin)",
+            "Acetaminophen"
+          ],
+          "answer": 2,
+          "explain": "Ngộ độc cấp tính hoạt chất Salicylate gây tác dụng kép: kích thích trung tâm hô hấp gây kiềm hô hấp đồng thời gây rối loạn chuyển hóa tế bào, mở khớp chuỗi hô hấp tế bào gây tích tụ các acid hữu cơ dẫn đến toan chuyển hóa."
+        },
+        {
+          "q": "Cơ chế gây thở nhanh ở giai đoạn sớm của loại ngộ độc này là:",
+          "options": [
+            "Giảm khả năng vận chuyển oxy của hồng cầu",
+            "Phản xạ do đau bụng dữ dội",
+            "Bù trừ tình trạng toan chuyển hóa nặng",
+            "Kích thích trực tiếp trung tâm hô hấp"
+          ],
+          "answer": 3,
+          "explain": "Ngay từ giai đoạn sớm của quá trình ngộ độc, phân tử Salicylate có khả năng tác động kích thích trực tiếp lên trung tâm hô hấp nằm ở hành não, làm gia tăng mạnh mẽ cả tần số lẫn biên độ của nhịp thở tự nhiên."
+        },
+        {
+          "q": "Biện pháp điều trị giúp tăng đào thải độc chất qua thận hiệu quả nhất là:",
+          "options": [
+            "Kiềm hóa nước tiểu bằng Natri Bicarbonate",
+            "Truyền dịch Natri Clorid 0.45%",
+            "Sử dụng thuốc lợi tiểu quai Furosemide",
+            "Toan hóa nước tiểu bằng Vitamin C"
+          ],
+          "answer": 0,
+          "explain": "Tiến hành kiềm hóa nước tiểu (duy trì mục tiêu pH nước tiểu đạt từ 7.5-8.5) bằng dung dịch Natri Bicarbonate sẽ làm tăng quá trình ion hóa phân tử Salicylate trong lòng ống thận, ngăn chặn sự tái hấp thu ngược và tăng bài tiết thuốc qua nước tiểu."
+        },
+        {
+          "q": "Chỉ định lọc máu ngắt quãng (Hemodialysis) nên được cân nhắc khi:",
+          "options": [
+            "Bệnh nhân có dấu hiệu ù tai, điếc nhẹ",
+            "Nồng độ thuốc trong máu > 100 mg/dL",
+            "Có tình trạng nôn máu số lượng ít",
+            "Nhịp tim nhanh trên 100 lần/phút"
+          ],
+          "answer": 1,
+          "explain": "Chỉ định can thiệp lọc máu ngắt quãng cấp cứu được đặt ra khi xác định nồng độ Salicylate máu quá cao (> 100 mg/dL trong ngộ độc cấp), hoặc khi có tình trạng tổn thương thận cấp, suy giảm ý thức nặng không đáp ứng điều trị nội khoa."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi lơ mơ nhìn mờ kèm tăng khoảng trống thẩm thấu máu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Bệnh sử:</b> Được người nhà phát hiện trong tình trạng lơ mơ, nôn mửa nhiều sau khi sử dụng một loại rượu trắng không rõ nhãn mác, nguồn gốc xuất xứ.<br><br><b>Tiền sử:</b> Có tiền sử nghiện rượu lâu năm.<br><br><b>Khám lâm sàng:</b> Tiếp xúc chậm, lơ mơ, than nhìn mờ nhiều. Thăm khám soi đáy mắt ghi nhận có hình ảnh tổn thương cương tụ, phù nề gai thị hai bên rõ rệt.<br><br><b>Xét nghiệm:</b> Kết quả xét nghiệm khí máu động mạch: pH 7.15 (toan máu nặng), PaCO₂ 25 mmHg, HCO₃⁻ 8 mmol/L. Xét nghiệm sinh hóa cho thấy chỉ số Khoảng trống thẩm thấu (Osmolar Gap) trong máu tăng cao rõ rệt.",
+      "questions": [
+        {
+          "q": "Độc chất gây nên tình trạng toan chuyển hóa nặng và tổn thương thị giác ở bệnh nhân là:",
+          "options": [
+            "Ethanol",
+            "Isopropyl alcohol",
+            "Methanol",
+            "Ethylene glycol"
+          ],
+          "answer": 2,
+          "explain": "Biểu hiện toan chuyển hóa tăng khoảng trống anion cực kỳ nặng nề phối hợp chọn lọc với tình trạng tổn thương võng mạc, nhìn mờ và cương tụ gai thị sau khi uống rượu lậu là dấu hiệu kinh điển của ngộ độc cồn công nghiệp Methanol."
+        },
+        {
+          "q": "Sản phẩm chuyển hóa trực tiếp gây độc cho dây thần kinh thị giác là:",
+          "options": [
+            "Formaldehyde",
+            "Glycoaldehyde",
+            "Acid Oxalic",
+            "Acid Formic"
+          ],
+          "answer": 3,
+          "explain": "Chất độc Acid Formic là sản phẩm chuyển hóa cuối cùng của Methanol, gây ức chế chuỗi hô hấp tế bào (Cytochrome oxidase) tại ty thể, dẫn đến toan chuyển hóa nặng và tổn thương hủy hoại chọn lọc thần kinh thị giác."
+        },
+        {
+          "q": "Thuốc nào có tác dụng ức chế enzyme Alcohol Dehydrogenase để ngăn chặn tạo thành chất độc:",
+          "options": [
+            "Fomepizole",
+            "N-acetylcysteine",
+            "Thiamine (Vitamin B1)",
+            "Sodium Thiosulfate"
+          ],
+          "answer": 0,
+          "explain": "Thuốc Fomepizole có tác dụng ức chế cạnh tranh chọn lọc với ái lực cực cao lên enzyme Alcohol Dehydrogenase (ADH), giúp ngăn chặn hoàn toàn quá trình chuyển hóa chuyển đổi phân tử Methanol thành các sản phẩm trung gian độc hại."
+        },
+        {
+          "q": "Trong điều kiện không có thuốc giải độc chuyên biệt, có thể dùng chất nào sau đây để cạnh tranh enzyme:",
+          "options": [
+            "Dung dịch Glucose 30%",
+            "Rượu Ethanol thực phẩm",
+            "Nước muối ưu trương 3%",
+            "Dung dịch Ringer Lactate"
+          ],
+          "answer": 1,
+          "explain": "Trong điều kiện thiếu thuốc giải độc chuyên biệt Fomepizole, có thể chỉ định sử dụng rượu Ethanol chuẩn thực phẩm để cạnh tranh enzyme ADH, do enzyme này có ái lực với Ethanol cao gấp nhiều lần so với Methanol."
+        },
+        {
+          "q": "Tại sao việc bù Natri Bicarbonate lại quan trọng trong ngộ độc này:",
+          "options": [
+            "Để trung hòa trực tiếp chất độc trong dạ dày",
+            "Giảm sự chuyển đổi Acid Formic sang dạng ion hóa gây độc",
+            "Giảm sự gắn kết của Acid Formic vào ty thể và tăng đào thải",
+            "Để điều trị tình trạng tăng Kali máu đi kèm"
+          ],
+          "answer": 2,
+          "explain": "Liệu pháp bù Natri Bicarbonate giúp kiềm hóa máu, làm cho phân tử Acid Formic chuyển sang dạng ion hóa khó có khả năng xuyên qua màng tế bào và hàng rào máu não, giảm độc tính trên cơ quan đích đồng thời tăng đào thải qua thận."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 25 tuổi ngủ gà giảm phản xạ gân xương sau uống thuốc an thần",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 25 tuổi.<br><br><b>Bệnh sử:</b> Sau khi xảy ra cãi nhau với bạn trai đã tự uống hết 2 vỉ thuốc an thần (không rõ loại cụ thể). Hiện tại ghi nhận tình trạng ngủ gà, gọi hỏi đáp ứng chậm.<br><br><b>Khám lâm sàng:</b> Ngủ gà, giảm phản xạ gân xương toàn thân, nhịp thở tự nhiên 14 lần/phút, chỉ số SpO₂ đạt 96% (khi đang thở khí trời). Đồng tử kích thước 3 mm, phản xạ ánh sáng còn tốt. Mạch 70 lần/phút, huyết áp 105/70 mmHg.",
+      "questions": [
+        {
+          "q": "Nhóm thuốc gây ngộ độc phù hợp nhất với bệnh cảnh \"ngủ nhưng huyết động ổn định\" là:",
+          "options": [
+            "Thuốc chống trầm cảm 3 vòng",
+            "Nhóm Phenothiazine",
+            "Barbiturate",
+            "Benzodiazepine"
+          ],
+          "answer": 3,
+          "explain": "Tình trạng hôn mê hoặc ngủ gà thể \"tĩnh\", trong khi các thông số chức năng sinh tồn về hô hấp và huyết động mạch vẫn được duy trì tương đối ổn định là đặc tính lâm sàng điển hình của ngộ độc nhóm thuốc an thần Benzodiazepine."
+        },
+        {
+          "q": "Chọn tập hợp đúng về các biện pháp xử trí ưu tiên cho bệnh nhân này:",
+          "options": [
+            "Bảo vệ đường thở và theo dõi hô hấp-huyết động, không rửa dạ dày thường quy và chỉ dùng than hoạt khi rất sớm, đường thở được bảo vệ",
+            "Rửa dạ dày cho mọi trường hợp hôn mê",
+            "Dùng Flumazenil thường quy cho mọi bệnh nhân",
+            "Gây nôn tại giường"
+          ],
+          "answer": 0,
+          "explain": "Xử trí ngộ độc Benzodiazepine chủ yếu là điều trị hỗ trợ và theo dõi sát. Các biện pháp rửa dạ dày hay gây nôn bị hạn chế vì làm tăng nguy cơ biến chứng hít sặc. Than hoạt tính chỉ dùng khi bệnh nhân đến rất sớm và đường thở đã được bảo vệ tốt."
+        },
+        {
+          "q": "Thuốc đối kháng thụ thể Benzodiazepine là:",
+          "options": [
+            "Naloxone",
+            "Flumazenil",
+            "Physostigmine",
+            "Atropine Sulfate"
+          ],
+          "answer": 1,
+          "explain": "Flumazenil hoạt động như một chất đối kháng cạnh tranh đặc hiệu tại vị trí gắn kết của thuốc nhóm Benzodiazepine trên phức hợp thụ thể GABA-A, giúp phục hồi ý thức nhanh chóng."
+        },
+        {
+          "q": "Tại sao Flumazenil ít được dùng trên lầm sàng nếu nghi ngờ bệnh nhân có uống kèm thuốc chống trầm cảm 3 vòng:",
+          "options": [
+            "Gây tăng huyết áp kịch phát",
+            "Làm nặng thêm tình trạng hôn mê",
+            "Nguy cơ khởi phát co giật khó kiểm soát",
+            "Gây rối loạn nhịp thất nặng"
+          ],
+          "answer": 2,
+          "explain": "Khi có tình trạng ngộ độc phối hợp với các thuốc có khả năng làm hạ ngưỡng co giật mạnh như TCA, việc chỉ định Flumazenil sẽ làm triệt tiêu hoàn toàn tác dụng bảo vệ chống co giật của Benzodiazepine, dễ khởi phát các cơn co giật kháng trị."
+        },
+        {
+          "q": "Diễn biến nào dưới đây là chỉ định bắt buộc phải đặt nội khí quản ở bệnh nhân ngộ độc thuốc an thần:",
+          "options": [
+            "Bệnh nhân vẫn còn buồn ngủ sau 4 giờ theo dõi",
+            "Nhịp tim tăng lên 100 lần/phút",
+            "Huyết áp giảm nhẹ xuống 90/60 mmHg",
+            "Mất phản xạ bảo vệ đường thở và ho khạc"
+          ],
+          "answer": 3,
+          "explain": "Chỉ định can thiệp đặt ống nội khí quản bắt buộc được đặt ra khi người bệnh có tình trạng suy hô hấp nặng hoặc sụt giảm tri giác dẫn đến mất hoàn toàn các phản xạ bảo vệ đường thở tự nhiên (phản xạ nuốt, ho khạc) để phòng ngừa trào ngược."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 28 tuổi tổn thương loét trợt vùng môi lưỡi sau uống hóa chất tẩy rửa",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 28 tuổi.<br><br><b>Bệnh sử:</b> Được người nhà đưa vào viện cấp cứu sau khi tự uống khoảng 200 ml hóa chất nước tẩy rửa bồn cầu (được xác định là acid mạnh). Bệnh nhân than đau đớn dữ dội vùng miệng, họng, nuốt nghẹn và tiết nhiều nước bọt liên tục.<br><br><b>Khám lâm sàng:</b> Vùng niêm mạc môi, lưỡi và khoang miệng có nhiều vết loét trợt bợt màu trắng xám. Xuất hiện tiếng thở rít thanh quản nhẹ. Khám bụng mềm, hiện tại chưa ghi nhận có phản ứng thành bụng.",
+      "questions": [
+        {
+          "q": "Xử trí nào sau đây bị CHỐNG CHỈ ĐỊNH tuyệt đối ở bệnh nhân này:",
+          "options": [
+            "Đặt ống thông dạ dày để rửa bằng nước",
+            "Cho bệnh nhân uống sữa để trung hòa",
+            "Chụp X-quang ngực thẳng tại giường",
+            "Thiết lập đường truyền tĩnh mạch và giảm đau"
+          ],
+          "answer": 0,
+          "explain": "Các kỹ thuật như rửa dạ dày, đặt ống thông hay gây nôn bị chống chỉ định tuyệt đối trong ngộ độc chất ăn mòn vì nguy cơ làm hóa chất tiếp xúc lại niêm mạc lần hai, gây gia tăng tỷ lệ thủng thực quản, dạ dày và hít sặc vào đường hô hấp."
+        },
+        {
+          "q": "Biến chứng cấp tính nguy hiểm nhất cần được đánh giá ngay lập tức là:",
+          "options": [
+            "Suy thận cấp chức năng",
+            "Thủng thực quản hoặc dạ dày",
+            "Hạ calci máu nặng",
+            "Nhiễm trùng huyết đường vào từ miệng"
+          ],
+          "answer": 1,
+          "explain": "Biến chứng hoại tử xuyên thành dẫn đến thủng tạng rỗng (thực quản, dạ dày) gây viêm trung thất hoặc viêm phúc mạc cấp là biến chứng tối cấp nguy hiểm nhất, đe dọa trực tiếp đến tính mạng bệnh nhân."
+        },
+        {
+          "q": "Kỹ thuật thăm dò hình ảnh được ưu tiên để đánh giá mức độ tổn thương thực quản là:",
+          "options": [
+            "Chỉ siêu âm cổ",
+            "Chụp Baryt thường quy",
+            "Nội soi thực quản-dạ dày trong 12-24 giờ khi bệnh nhân ổn định và không có dấu thủng; CT có vai trò khi nghi hoại tử xuyên thành",
+            "Không cần thăm dò"
+          ],
+          "answer": 2,
+          "explain": "Can thiệp nội soi thực quản - dạ dày sớm là tiêu chuẩn vàng để đánh giá và phân độ tổn thương niêm mạc. Tuy nhiên, kỹ thuật này cần tránh thực hiện khi có bằng chứng thủng hoặc hoại tử quá nặng trên lâm sàng, khi đó chụp CT scan đóng vai trò thay thế."
+        },
+        {
+          "q": "Thời điểm tối ưu để thực hiện nội soi đánh giá tổn thương sau khi uống chất ăn mòn là:",
+          "options": [
+            "Ngay lập tức trong vòng 1 giờ đầu",
+            "Khi bệnh nhân bắt đầu ăn uống lại được",
+            "Sau 7 ngày để chờ vết thương ổn định",
+            "Từ 12 đến 24 giờ sau uống"
+          ],
+          "answer": 3,
+          "explain": "Khung thời gian tối ưu từ 12-24 giờ sau uống là thời điểm các tổn thương niêm mạc đã bộc lộ rõ rệt nhất giúp đánh giá chính xác phân độ, đồng thời thành thực quản chưa bước vào giai đoạn mỏng và yếu nhất (thường từ ngày thứ 3) nên giảm nguy cơ tai biến gây thủng khi đẩy đèn soi."
+        },
+        {
+          "q": "Diễn biến muộn thường gặp nhất sau 3-6 tuần ở bệnh nhân sống sót sau ngộ độc acid mạnh là:",
+          "options": [
+            "Hẹp thực quản hoặc hẹp môn vị",
+            "Ung thư biểu mô thực quản",
+            "Rối loạn vận động thực quản mạn tính",
+            "Viêm loét dạ dày mạn tính"
+          ],
+          "answer": 0,
+          "explain": "Quá trình lành sẹo xơ hóa tổ chức của các tổn thương ăn mòn sâu sẽ gây co rút mạnh lòng ống tiêu hóa, dẫn đến biến chứng hẹp lòng thực quản hoặc hẹp môn vị dạ dày muộn, ảnh hưởng nặng nề đến chức năng ăn uống."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 32 tuổi hôn mê sâu và phức bộ QRS giãn rộng trên điện tâm đồ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 32 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện trong tình trạng hôn mê sâu sau khi tự uống khoảng 30 viên thuốc chống trầm cảm 3 vòng (Amitriptyline) để tự tử.<br><br><b>Tiền sử:</b> Có tiền sử mắc bệnh lý trầm cảm.<br><br><b>Khám lâm sàng:</b> Hôn mê, niêm mạc khô, da khô nóng, đồng tử hai bên giãn kích thước 5 mm.<br><br><b>Xét nghiệm:</b> Điện tâm đồ (ECG) ghi nhận: nhịp xoang nhanh với tần số 120 lần/phút, phức bộ QRS giãn rộng rõ rệt ở mức 140 ms, xuất hiện hình ảnh sóng R cao ưu thế (> 3mm) ở chuyển đạo aVR.",
+      "questions": [
+        {
+          "q": "Cơ chế chính gây giãn rộng phức bộ QRS ở bệnh nhân này là do thuốc ức chế:",
+          "options": [
+            "Kênh Kali chỉnh dòng ra",
+            "Kênh Natri nhanh ở cơ tim",
+            "Thụ thể Beta-adrenergic",
+            "Enzyme Na⁺/K⁺-ATPase"
+          ],
+          "answer": 1,
+          "explain": "Độc tính tim mạch của thuốc chống trầm cảm 3 vòng xuất hiện do thuốc ức chế mạnh mẽ kênh Natri nhanh ở pha 0 của điện thế hoạt động cơ tim, làm sụt giảm vận tốc khử cực và làm chậm dẫn truyền trong thất, biểu hiện bằng phức bộ QRS giãn rộng."
+        },
+        {
+          "q": "Ngoài hôn mê, triệu chứng kháng Cholinergic điển hình ở bệnh nhân này bao gồm:",
+          "options": [
+            "Đồng tử co, vã mồ hôi, tiêu chảy",
+            "Chậm nhịp tim, hạ huyết áp, co giật",
+            "Đồng tử giãn, da khô nóng, bí tiểu",
+            "Tăng tiết nước bọt, co thắt phế quản"
+          ],
+          "answer": 2,
+          "explain": "Hội chứng kháng Cholinergic do ức chế thụ thể Muscarinic biểu hiện bằng các dấu hiệu đặc trưng bao gồm: đồng tử giãn, da cơ thể khô và nóng sốt, khô niêm mạc và tình trạng bí tiểu."
+        },
+        {
+          "q": "Thuốc nào sau đây là ưu tiên hàng đầu để xử trí tình trạng QRS giãn rộng và dự phòng loạn nhịp thất:",
+          "options": [
+            "Amiodarone tĩnh mạch",
+            "Magnesi Sulfate 2g",
+            "Lidocaine liều cao",
+            "Natri Bicarbonate 8.4% tĩnh mạch"
+          ],
+          "answer": 3,
+          "explain": "Chỉ định truyền dung dịch Natri Bicarbonate 8.4% ưu tiên hàng đầu khi QRS > 100 ms. Thuốc giúp tăng nồng độ Natri ngoại bào cạnh tranh kênh và kiềm hóa máu làm sụt giảm dạng ion hóa hoạt động của thuốc, giúp thu hẹp phức bộ QRS."
+        },
+        {
+          "q": "Nguy cơ biến chứng nặng nề nhất có thể xảy ra đột ngột ở bệnh nhân này là:",
+          "options": [
+            "Co giật và xoắn đỉnh",
+            "Suy thận cấp do tiêu cơ vân",
+            "Phù phổi cấp tổn thương",
+            "Tăng thân nhiệt ác tính"
+          ],
+          "answer": 0,
+          "explain": "Tình trạng phức bộ QRS giãn rộng nghiêm trọng (> 140 ms) cảnh báo nguy cơ rất cao khởi phát đột ngột các cơn co giật toàn thân phối hợp loạn nhịp thất ác tính (nhịp nhanh thất đa hình thái, xoắn đỉnh, rung thất) gây ngừng tuần hoàn."
+        },
+        {
+          "q": "Trong xử trí ngộ độc TCA, nhận định nào sau đây là SAI:",
+          "options": [
+            "Cần theo dõi ECG liên tục ít nhất 24 giờ",
+            "Physostigmine là thuốc giải độc an toàn cho mọi bệnh nhân",
+            "Kiềm hóa máu giúp giảm gắn kết thuốc vào kênh Natri",
+            "Than hoạt đơn liều có giá trị nếu bệnh nhân đến sớm"
+          ],
+          "answer": 1,
+          "explain": "Thuốc Physostigmine (thuốc kháng men cholinesterase) bị chống chỉ định tương đối/tuyệt đối trong điều trị ngộ độc thuốc chống trầm cảm 3 vòng (TCA) vì thuốc có thể làm trầm trọng thêm tình trạng block dẫn truyền cơ tim và khởi phát ngừng tim đột ngột."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 25 tuổi đau rát miệng họng dữ dội sau uống thuốc diệt cỏ Paraquat",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 25 tuổi.<br><br><b>Bệnh sử:</b> Được đưa vào khoa cấp cứu sau khi uống một lượng lớn hóa chất thuốc diệt cỏ Paraquat nồng độ 20%. Bệnh nhân tỉnh táo, than đau rát dữ dội vùng miệng họng, nôn ra dịch dạ dày có màu xanh.<br><br><b>Khám lâm sàng:</b> Niêm mạc khoang miệng và hạ họng loét đỏ, trợt rộng. Tình trạng huyết động ổn định, phổi thông khí đều hai bên phế trường, chỉ số SpO₂ đạt 98% (khi đang thở khí trời tự nhiên).",
+      "questions": [
+        {
+          "q": "Biện pháp tẩy độc tại chỗ cần thực hiện ngay lập tức là:",
+          "options": [
+            "Uống thật nhiều nước để pha loãng chất độc",
+            "Gây nôn bằng móc họng liên tục",
+            "Cho uống dung dịch đất sét (Fuller's earth) hoặc than hoạt",
+            "Rửa dạ dày bằng dung dịch thuốc tím nồng độ cao"
+          ],
+          "answer": 2,
+          "explain": "Can thiệp bất hoạt chất độc sớm trong lòng ống tiêu hóa bằng cách cho uống các chất hấp phụ mạnh như đất sét Fuller's earth hoặc than hoạt tính là ưu tiên xử trí hàng đầu để ngăn chặn độc chất tiếp tục hấp thu vào hệ tuần hoàn."
+        },
+        {
+          "q": "Tại sao cần tránh thở oxy liều cao ở bệnh nhân này nếu SpO₂ vẫn đảm bảo (> 92%):",
+          "options": [
+            "Gây vỡ các phế nang đã bị tổn thương do chất độc",
+            "Gây ức chế trung tâm hô hấp ở bệnh nhân ngộ độc",
+            "Làm tăng áp lực động mạch phổi đột ngột",
+            "Oxy làm tăng quá trình oxy hóa tạo các gốc tự do gây tổn thương phổi nặng hơn"
+          ],
+          "answer": 3,
+          "explain": "Quá trình hủy hoại phế nang của Paraquat dựa vào chu trình phản ứng với phân tử oxy tạo ra các gốc tự do ROS. Việc cung cấp thêm oxy liều cao khi chưa có chỉ định rõ ràng sẽ làm tăng tốc chu trình oxy hóa hủy hoại nhu mô phổi."
+        },
+        {
+          "q": "Cơ quan đích bị tổn thương muộn và thường là nguyên nhân gây tử vong chính là:",
+          "options": [
+            "Xơ phổi tiến triển không hồi phục",
+            "Suy gan cấp hoại tử",
+            "Suy thận cấp hoại tử ống thận",
+            "Thủng dạ dày gây viêm phúc mạc"
+          ],
+          "answer": 0,
+          "explain": "Hệ quả xơ hóa phổi tiến triển không hồi phục phá hủy hoàn toàn cấu trúc màng nang - mao mạch làm mất chức năng trao đổi khí là nguyên nhân chính dẫn đến tử vong muộn ở bệnh nhân độc chất Paraquat."
+        },
+        {
+          "q": "Phương pháp lọc máu nào có hiệu quả nhất để loại bỏ Paraquat ra khỏi máu nếu thực hiện sớm trong 6 giờ đầu:",
+          "options": [
+            "Thẩm phân phúc mạc là chắc chắn hiệu quả nhất",
+            "Hemoperfusion có thể loại thuốc sớm nhưng bằng chứng lợi ích lâm sàng hạn chế, không được làm chậm khử nhiễm và hồi sức",
+            "Thay huyết tương là thuốc giải độc",
+            "Lọc máu luôn đảo ngược xơ phổi"
+          ],
+          "answer": 1,
+          "explain": "Do độc chất phân bố rất nhanh vào các mô cơ thể nên cửa sổ thời gian để lọc máu hấp phụ (hemoperfusion) rất ngắn. Kỹ thuật này có thể cân nhắc triển khai sớm (trước 6 giờ) để giảm nồng độ thuốc tự do lưu hành, tuy nhiên bằng chứng chắc chắn cải thiện tỷ lệ sống còn vẫn còn hạn chế."
+        },
+        {
+          "q": "Tiên lượng của bệnh nhân ngộ độc Paraquat phụ thuộc chủ yếu vào:",
+          "options": [
+            "Tình trạng loét miệng nhiều hay ít",
+            "Số lượng dịch nôn ra được sau khi uống",
+            "Nồng độ Paraquat trong máu và thời gian tiếp cận lọc máu",
+            "Chỉ số bạch cầu trong máu lúc nhập viện"
+          ],
+          "answer": 2,
+          "explain": "Yếu tố quyết định sống còn và tiên lượng chính xác tốc độ diễn tiến của ca ngộ độc phụ thuộc chặt chẽ vào tổng liều lượng hóa chất hấp thu hiển thị qua nồng độ Paraquat trong huyết thanh (đối chiếu đồ thị) phối hợp với mốc thời gian tiếp cận hồi sức cấp cứu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi nôn mửa và nhìn vật hóa quầng màu vàng xanh",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì biểu hiện mệt mỏi nhiều, nôn mửa liên tục và nhìn mọi vật xung quanh có quầng sắc màu vàng xanh đặc trưng.<br><br><b>Tiền sử:</b> Có tiền sử mắc bệnh lý rung nhĩ đang duy trì điều trị dài ngày với thuốc Digoxin liều 0.25 mg/ngày.<br><br><b>Khám lâm sàng:</b> Mạch bắt chậm, tần số 45 lần/phút, huyết áp đo được 110/70 mmHg.<br><br><b>Xét nghiệm:</b> Điện tâm đồ (ECG) hiển thị hình ảnh: nhịp xoang chậm, xuất hiện tình trạng block dẫn truyền nhĩ thất AV độ II chu kỳ Wenckebach, hình ảnh đoạn ST chênh xuống lõm hình \"lòng máng\" rõ rệt ở các chuyển đạo trước tim.",
+      "questions": [
+        {
+          "q": "Dấu hiệu nào trên ECG là đặc hiệu nhất gợi ý tình trạng \"ngộ độc\" thực sự hơn là chỉ \"có tác dụng\" thuốc:",
+          "options": [
+            "ST lõm hình lòng máng",
+            "Nhịp tim xoang chậm 55 lần/phút",
+            "Khoảng QT rút ngắn",
+            "Block dẫn truyền hoặc loạn nhịp mới xuất hiện"
+          ],
+          "answer": 3,
+          "explain": "Hình ảnh ST lõm lòng máng đơn thuần chỉ phản ánh tình trạng cơ tim đang có sự ngấm thuốc Digoxin ở liều điều trị. Khi xuất hiện các dấu hiệu block dẫn truyền nhĩ thất cấp độ cao hoặc các loạn nhịp mới (nhịp nhanh thất hai hướng) mới chỉ điểm cho tình trạng ngộ độc thực sự."
+        },
+        {
+          "q": "Rối loạn điện giải nào sau đây thường đi kèm và làm nặng thêm độc tính của Digoxin:",
+          "options": [
+            "Hạ Kali máu",
+            "Tăng Magnesi máu",
+            "Hạ Natri máu",
+            "Hạ Canxi máu"
+          ],
+          "answer": 0,
+          "explain": "Tình trạng hạ Kali máu làm gia tăng mạnh ái lực gắn kết của phân tử Digoxin vào vị trí hoạt động của bơm Na⁺/K⁺-ATPase, làm trầm trọng hóa độc tính của thuốc lên cơ tim ngay cả khi nồng độ thuốc trong máu chưa tăng quá cao."
+        },
+        {
+          "q": "Cơ chế tác dụng của Digoxin dẫn đến tăng sức co bóp cơ tim là:",
+          "options": [
+            "Kích thích thụ thể Beta-1 trên màng tế bào cơ tim",
+            "Ức chế bơm Na/K-ATPase gây tăng Na nội bào, từ đó tăng Ca²⁺ nội bào",
+            "Ức chế enzyme Phosphodiesterase III",
+            "Mở kênh Canxi chậm trên màng tế bào"
+          ],
+          "answer": 1,
+          "explain": "Digoxin gắn kết và gây ức chế bơm Na⁺/K⁺-ATPase, làm tích tụ ion Natri nội bào. Hệ quả làm sụt giảm hoạt động của hệ trao đổi Na⁺-Ca²⁺, dẫn đến tích tụ nồng độ ion Ca²⁺ tự do trong nội bào phế nang, làm tăng lực co bóp của sợi cơ tim."
+        },
+        {
+          "q": "Thuốc giải độc hiệu quả nhất trong trường hợp ngộ độc Digoxin nặng đe dọa tính mạng là:",
+          "options": [
+            "Atropine Sulfate liều cao",
+            "Calci Clorid tĩnh mạch",
+            "Kháng thể kháng Digoxin (DigiFab/Digibind)",
+            "Phenytoin để kiểm soát loạn nhịp"
+          ],
+          "answer": 2,
+          "explain": "Các mảnh kháng thể đặc hiệu Fab (DigiFab) hoạt động theo cơ chế liên kết trung hòa trực tiếp phân tử Digoxin tự do lưu hành trong lòng mạch và mô, sau đó đào thải qua thận, là cứu cánh tối ưu cho các ca ngộ độc nặng."
+        },
+        {
+          "q": "Tại sao việc bù Calci tĩnh mạch cần ĐẶC BIỆT THẬN TRỌNG ở bệnh nhân đang nghi ngờ ngộ độc Digoxin:",
+          "options": [
+            "Calci làm Digoxin thải nhanh qua thận",
+            "Calci tuyệt đối bị cấm trong mọi trường hợp",
+            "Calci trung hòa hoạt tính của thuốc Digoxin",
+            "Không trì hoãn Calci khi có chỉ định đe dọa tính mạng; quan niệm \"stone heart\" chưa được chứng minh, nhưng ưu tiên Digoxin-Fab và theo dõi sát"
+          ],
+          "answer": 3,
+          "explain": "Các y văn hiện đại ghi nhận quan niệm bổ sung Calci tĩnh mạch gây biến chứng co cứng cơ tim vĩnh viễn (\"stone heart\") trong ngộ độc Digoxin chưa có bằng chứng lâm sàng xác thực đầy đủ. Tuy nhiên, DigiFab vẫn là lựa chọn đặc hiệu ưu tiên hàng đầu; chỉ định dùng Calci khi có rối loạn điện giải đe dọa tính mạng và bắt buộc theo dõi sát kịch bản điện tâm đồ."
+        }
+      ]
+    }
+  ]
+}
