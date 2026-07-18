@@ -1,0 +1,1230 @@
+{
+  "name": "Động kinh",
+  "description": "Các tình huống lâm sàng và câu hỏi trắc nghiệm về bệnh lý Động kinh",
+  "level": "Ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Thần kinh",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 19 tuổi co giật toàn thân đột ngột khi đang học",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 19 tuổi, sinh viên.<br><br><b>Bệnh sử:</b> Được bạn cùng phòng đưa vào khoa cấp cứu sau khi chứng kiến một cơn co giật. Theo lời kể, bệnh nhân đang ngồi học thì đột ngột kêu lên một tiếng rồi ngã xuống sàn, toàn thân gồng cứng, sau đó co giật mạnh cả hai tay hai chân trong khoảng 1 phút, có sủi bọt mép màu hồng. Sau cơn, bệnh nhân lú lẫn, không nhớ gì về sự kiện vừa xảy ra và ngủ thiếp đi.<br><br><b>Tiền sử:</b> Bản thân và gia đình không có gì đặc biệt. Bệnh nhân không sử dụng rượu bia hay chất kích thích, gần đây có thức khuya nhiều để ôn thi.<br><br><b>Khám lâm sàng:</b> Bệnh nhân đã tỉnh, còn đau đầu và đau mỏi cơ toàn thân, ý thức GCS 15 điểm, sinh hiệu ổn định, SpO2 99% khí trời, BMI 22 kg/m². Khám thần kinh không có dấu hiệu khu trú, không có dấu màng não. Bệnh nhân không sốt, tim đều, phổi trong.",
+      "questions": [
+        {
+          "q": "Dựa trên mô tả, loại cơn động kinh bệnh nhân vừa trải qua là gì?",
+          "options": [
+            "Cơn vắng ý thức",
+            "Cơn giật cơ.",
+            "Cơn co giật cục bộ phức hợp.",
+            "Cơn co cứng - co giật toàn thể."
+          ],
+          "answer": 3,
+          "explain": "Mô tả cơn gồm 3 giai đoạn: mất ý thức đột ngột, gồng cứng (pha co cứng) và co giật (pha co giật), sau đó là giai đoạn sau cơn (lú lẫn, ngủ) là hình ảnh điển hình của một cơn co cứng - co giật toàn thể (Generalized Tonic-Clonic Seizure - GTC)."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh cơ bản nhất gây ra sự phóng điện đồng bộ và quá mức của các neuron thần kinh trong cơn động kinh là gì?",
+          "options": [
+            "Sự mất cân bằng giữa hưng phấn (chủ yếu qua trung gian Glutamate) và ức chế (chủ yếu qua trung gian GABA).",
+            "Tắc nghẽn dòng chảy của dịch não tủy khi áp dụng cho bệnh nhân đang được đánh giá.",
+            "Phản ứng viêm tự miễn chống lại các kênh ion trong bối cảnh lâm sàng hiện tại.",
+            "Sự thoái hóa của các neuron vận động ở vỏ não trong bối cảnh lâm sàng hiện tại."
+          ],
+          "answer": 0,
+          "explain": "Cốt lõi của động kinh là sự phóng điện quá mức và đồng bộ của một nhóm neuron. Điều này xảy ra do sự cân bằng giữa hệ thống dẫn truyền thần kinh hưng phấn (Glutamate tác động lên thụ thể NMDA, AMPA) và ức chế (GABA tác động lên thụ thể GABA-A) bị phá vỡ, nghiêng về phía hưng phấn."
+        },
+        {
+          "q": "Thăm dò cận lâm sàng nào có giá trị nhất để chẩn đoán và phân loại động kinh ở bệnh nhân này?",
+          "options": [
+            "Siêu âm Doppler xuyên sọ ở bệnh nhân này.",
+            "Chọc dịch não tủy ở bệnh nhân này.",
+            "Chụp cắt lớp vi tính (CT scan) sọ não không cản quang.",
+            "Điện não đồ (EEG) ở bệnh nhân này."
+          ],
+          "answer": 3,
+          "explain": "Điện não đồ (EEG) là công cụ thiết yếu để ghi lại hoạt động điện của não. Nó có thể phát hiện các sóng bệnh lý (gai, sóng nhọn, phức hợp gai-sóng) giúp xác định chẩn đoán động kinh, phân loại loại cơn (toàn thể hay cục bộ) và định khu ổ động kinh."
+        },
+        {
+          "q": "Sau cơn co giật không khởi phát lần đầu, xử trí dài hạn nào phù hợp nhất?",
+          "options": [
+            "Dùng thuốc chống động kinh ngay cho mọi bệnh nhân.",
+            "Chỉ định phẫu thuật động kinh ngay lập tức.",
+            "Không đánh giá và hẹn lại sau một năm.",
+            "Đánh giá EEG-MRI rồi cá thể hóa quyết định dùng thuốc."
+          ],
+          "answer": 3,
+          "explain": "Sau cơn đầu tiên không khởi phát, cần EEG, MRI và đánh giá nguy cơ tái phát. Có thể bắt đầu thuốc nếu nguy cơ cao hoặc hậu quả tái phát nghiêm trọng, nhưng không bắt buộc điều trị mọi trường hợp."
+        },
+        {
+          "q": "Yếu tố nào sau đây là quan trọng nhất cần tư vấn cho bệnh nhân để giảm nguy cơ tái phát cơn?",
+          "options": [
+            "Tránh các hoạt động thể thao.",
+            "Hạn chế tiếp xúc với màn hình máy tính.",
+            "Đảm bảo ngủ đủ giấc và tránh thức khuya.",
+            "Uống nhiều cà phê để giữ táo bạo."
+          ],
+          "answer": 2,
+          "explain": "Mất ngủ hoặc thay đổi chu kỳ thức ngủ là một trong những yếu tố khởi phát cơn động kinh phổ biến nhất, đặc biệt ở người trẻ tuổi. Việc duy trì một lịch trình ngủ đều đặn và ngủ đủ giấc có thể làm giảm đáng kể tần suất cơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 28 tuổi xuất hiện các cơn mất nhận thức kèm động tác tự động",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 28 tuổi, nhân viên văn phòng.<br><br><b>Bệnh sử:</b> Đến khám vì những \"cơn kỳ lạ\" xuất hiện khoảng 6 tháng nay. Bệnh nhân mô tả khởi đầu bằng một cảm giác khó tả dâng lên từ vùng thượng vị, kèm theo cảm giác quen thuộc (déjà vu) và mùi khó chịu không có thật (khứu giác ảo). Ngay sau đó, cô mất nhận thức về xung quanh trong khoảng 1-2 phút, người nhà quan sát thấy cô nhìn chằm chằm vô định, miệng chép nhai và tay mân mê vạt áo một cách vô thức. Sau cơn, cô cảm thấy mệt và hơi lú lẫn. Cô không bị co giật hay ngã.<br><br><b>Tiền sử:</b> Có sốt cao co giật lúc 5 tuổi.<br><br><b>Khám lâm sàng:</b> Toàn thân và thần kinh không phát hiện bất thường. Ý thức tỉnh táo, GCS 15 điểm, sinh hiệu ổn định.",
+      "questions": [
+        {
+          "q": "Dựa trên các đặc điểm lâm sàng, loại cơn động kinh nào được nghĩ đến nhiều nhất?",
+          "options": [
+            "Cơn vắng ý thức điển hình.",
+            "Cơn hoảng loạn (Panic attack).",
+            "Cơn thiếu máu não thoáng qua (TIA).",
+            "Cơn động kinh cục bộ có rối loạn ý thức."
+          ],
+          "answer": 3,
+          "explain": "Cơn bắt đầu với các triệu chứng báo trước (aura) và sau đó là mất nhận thức kèm theo các hành vi tự động, không có co giật toàn thể, là đặc điểm của cơn động kinh cục bộ có rối loạn ý thức (Focal Impaired Awareness Seizure), trước đây gọi là cơn cục bộ phức hợp."
+        },
+        {
+          "q": "Các triệu chứng như cảm giác dâng lên từ thượng vị, déjà vu và các động tác tự động (chép miệng, mân mê áo) gợi ý động kinh có khả năng xuất phát từ đâu?",
+          "options": [
+            "Thùy chẩm.",
+            "Thùy thái dương.",
+            "Thùy trán.",
+            "Thùy đỉnh."
+          ],
+          "answer": 1,
+          "explain": "Các triệu chứng báo trước mang tính cảm xúc và nội tạng (aura thượng vị, déjà vu) và các động tác tự động vùng miệng là những biểu hiện rất đặc trưng của động kinh thùy thái dương, đặc biệt là khi có sự tham gia của các cấu trúc limbic như hồi hải mã và hạch hạnh nhân."
+        },
+        {
+          "q": "Cơ chế gây ra các động tác tự động (automatisms) trong cơn động kinh cục bộ có rối loạn ý thức là gì?",
+          "options": [
+            "Phản ứng có chủ ý của bệnh nhân để đối phó với cơn theo dữ kiện hiện có.",
+            "Sự giải phóng các hành vi vận động bản năng do vỏ não cấp cao bị ức chế bởi hoạt động động kinh.",
+            "Sự kích thích trực tiếp của vùng vỏ não vận động nguyên phát ở thời điểm đang xét.",
+            "Co thắt các cơ vùng hầu họng và tay khi áp dụng cho bệnh nhân đang được đánh giá."
+          ],
+          "answer": 1,
+          "explain": "Trong cơn động kinh cục bộ có rối loạn ý thức, hoạt động điện não bệnh lý thường lan tỏa và làm gián đoạn chức năng bình thường của các vùng vỏ não liên hợp (vỏ não trán, đỉnh). Điều này \"giải phóng\" các mạng lưới thần kinh dưới vỏ, dẫn đến sự xuất hiện của các hành vi vận động nguyên thủy, lặp đi lặp lại một cách tự động."
+        },
+        {
+          "q": "Thăm dò hình ảnh học nào có độ nhạy cao nhất trong việc phát hiện nguyên nhân cấu trúc thường gặp nhất của loại động kinh này ở người lớn?",
+          "options": [
+            "Chụp cắt lớp vi tính (CT scan) sọ não ở bệnh nhân này.",
+            "Chụp X-quang sọ não đối với người bệnh đang được đánh giá.",
+            "Siêu âm Doppler xuyên sọ đối với người bệnh đang được đánh giá.",
+            "Chụp cộng hưởng từ (MRI) sọ não 1.5 hoặc 3.0 Tesla theo phác đồ động kinh."
+          ],
+          "answer": 3,
+          "explain": "Nguyên nhân cấu trúc phổ biến nhất gây động kinh thùy thái dương kháng thuốc ở người lớn là xơ hóa hồi hải mã (hippocampal sclerosis). MRI có độ phân giải cao, đặc biệt với các chuỗi xung FLAIR và T2, là công cụ tốt nhất để phát hiện tổn thương này, vốn thường bị bỏ sót trên CT scan."
+        },
+        {
+          "q": "Thuốc nào sau đây thường được xem là lựa chọn đầu tay cho động kinh cục bộ ở người lớn?",
+          "options": [
+            "Phenobarbital.",
+            "Carbamazepine hoặc Levetiracetam.",
+            "Ethosuximide.",
+            "Diazepam."
+          ],
+          "answer": 1,
+          "explain": "Theo hướng dẫn của Liên đoàn chống Động kinh Quốc tế (ILAE), các thuốc kháng động kinh phổ hẹp như Carbamazepine, Lamotrigine hoặc các thuốc phổ rộng như Levetiracetam, Valproate là những lựa chọn hàng đầu cho các cơn động kinh khởi phát cục bộ. Ethosuximide chỉ dùng cho cơn vắng ý thức."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi nhập viện trong tình trạng trạng thái động kinh co giật",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 35 tuổi.<br><br><b>Bệnh sử:</b> Được người nhà đưa vào cấp cứu trong tình trạng co giật liên tục. Theo người nhà, bệnh nhân lên cơn co cứng co giật toàn thể tại nhà, cơn kéo dài khoảng 5 phút. Sau cơn bệnh nhân không tỉnh lại mà tiếp tục vào một cơn co giật khác. Tình trạng này đã kéo dài khoảng 40 phút trước khi đến bệnh viện.<br><br><b>Tiền sử:</b> Có tiền sử động kinh toàn thể được chẩn đoán 5 năm, đang điều trị không thường xuyên với Phenytoin 100mg/ngày.<br><br><b>Khám lâm sàng:</b> Bệnh nhân hôn mê, GCS 6 điểm (E1V1M4), đồng tử hai bên 3mm, phản xạ ánh sáng yếu. Bệnh nhân đang trong cơn co giật toàn thể, tím tái, SpO2 85% dù đang thở oxy qua mặt nạ. Mạch 140 lần/phút, huyết áp 170/90 mmHg, nhiệt độ 39.5°C. Phổi có nhiều ran ứ đọng.",
+      "questions": [
+        {
+          "q": "Chẩn đoán tình trạng của bệnh nhân là gì?",
+          "options": [
+            "Cụm cơn động kinh (Seizure cluster).",
+            "Ngộ độc thuốc kháng động kinh.",
+            "Đột quỵ nhồi máu não.",
+            "Trạng thái động kinh co giật (Convulsive status epilepticus)."
+          ],
+          "answer": 3,
+          "explain": "Trạng thái động kinh (Status Epilepticus - SE) được định nghĩa là một cơn động kinh kéo dài >= 5 phút, hoặc có từ hai cơn trở lên mà giữa các cơn bệnh nhân không hồi phục ý thức. Tình trạng của bệnh nhân hoàn toàn phù hợp với định nghĩa này."
+        },
+        {
+          "q": "Cơ chế nào giải thích tại sao một cơn động kinh kéo dài có thể trở nên tự duy trì và kháng trị với các thuốc nhóm benzodiazepine?",
+          "options": [
+            "Sự nhập bào (internalization) của các tiểu đơn vị thụ thể GABA-A, làm giảm vị trí gắn của thuốc.",
+            "Sự cạn kiệt nguồn dự trữ glutamate của các neuron ở thời điểm đang xét.",
+            "Sự gia tăng nhanh chóng số lượng thụ thể GABA-A trên bề mặt màng sau synap.",
+            "Sự tăng cường chức năng của hàng rào máu não ở thời điểm đang xét."
+          ],
+          "answer": 0,
+          "explain": "Trong những phút đầu của cơn động kinh, thụ thể GABA-A (vị trí tác động của benzodiazepine) được huy động ra màng tế bào. Tuy nhiên, khi cơn giật kéo dài, một cơ chế điều hòa ngược xảy ra: các thụ thể này bị kéo vào bên trong tế bào (nhập bào), làm giảm đáng kể số lượng thụ thể trên bề mặt. Điều này dẫn đến hiện tượng \"lờn\" với benzodiazepine và làm cơn giật trở nên tự duy trì."
+        },
+        {
+          "q": "Can thiệp nào sau đây cần được thực hiện ngay lập tức, đồng thời với việc đảm bảo đường thở, hô hấp và tuần hoàn (ABC)?",
+          "options": [
+            "Chọc dịch não tủy.",
+            "Ghi điện não đồ cấp cứu.",
+            "Tiêm tĩnh mạch Lorazepam hoặc Diazepam.",
+            "Tiêm bắp Vitamin B1."
+          ],
+          "answer": 2,
+          "explain": "Theo phác đồ xử trí SE, bước đầu tiên sau khi ổn định ABC là cắt cơn giật càng nhanh càng tốt. Các thuốc nhóm benzodiazepine tác dụng nhanh (Lorazepam, Diazepam, Midazolam) là lựa chọn hàng đầu và cần được tiêm ngay lập tức."
+        },
+        {
+          "q": "Sau khi đã dùng benzodiazepine liều đầu tiên mà cơn giật vẫn không chấm dứt, bước xử trí tiếp theo được khuyến cáo là gì?",
+          "options": [
+            "Lặp lại một liều benzodiazepine khác ở thời điểm đang xét.",
+            "Bắt đầu gây mê bằng Propofol hoặc Midazolam ở bệnh nhân này.",
+            "Đặt bệnh nhân vào bồn nước đá để hạ sốt ở bệnh nhân này.",
+            "Truyền tải một thuốc kháng động kinh đường tĩnh mạch như Levetiracetam, Acid Valproic, hoặc Phenytoin."
+          ],
+          "answer": 3,
+          "explain": "Nếu liều benzodiazepine đầu tiên thất bại, phác đồ điều trị bước hai (second-line) là sử dụng một thuốc kháng động kinh đường tĩnh mạch khác, không phải benzodiazepine. Các lựa chọn ưu tiên hiện nay bao gồm Levetiracetam, Acid Valproic, hoặc Fosphenytoin/Phenytoin."
+        },
+        {
+          "q": "Biến chứng chuyển hóa toàn thân nào thường gặp và nguy hiểm trong trạng thái động kinh co giật?",
+          "options": [
+            "Hạ kali máu ở bệnh nhân này.",
+            "Kiềm hô hấp ở bệnh nhân này.",
+            "Tăng đường huyết ban đầu sau đó là hạ đường huyết.",
+            "Toan chuyển hóa do tăng lactate và tiêu cơ vân."
+          ],
+          "answer": 3,
+          "explain": "Hoạt động co cơ dữ dội và liên tục trong SE dẫn đến chuyển hóa yếm khí, sản sinh ra một lượng lớn acid lactic. Đồng thời, các tế bào cơ bị phá hủy (tiêu cơ vân) giải phóng myoglobin và kali. Sự kết hợp của toan lactic và tổn thương thận cấp do myoglobin gây ra một tình trạng toan chuyển hóa nặng, đe dọa tính mạng."
+        }
+      ]
+    },
+    {
+      "title": "Tư vấn quản lý điều trị động kinh cho phụ nữ có kế hoạch mang thai",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, trong độ tuổi sinh sản.<br><br><b>Bệnh sử:</b> Dự định kết hôn và muốn có con trong 1-2 năm tới. Cô đến gặp bác sĩ để được tư vấn điều trị và lựa chọn thuốc an toàn.<br><br><b>Tiền sử:</b> Đang điều trị động kinh.<br><br><b>Khám lâm sàng:</b> Khám lâm sàng và thần kinh hoàn toàn bình thường.",
+      "questions": [
+        {
+          "q": "Ở phụ nữ dự định mang thai, thuốc chống động kinh nào cần tránh nếu có lựa chọn phù hợp hơn?",
+          "options": [
+            "Lamotrigine dùng đường uống.",
+            "Levetiracetam dùng đường uống.",
+            "Acid valproic dùng đường uống.",
+            "Oxcarbazepine dùng đường uống."
+          ],
+          "answer": 2,
+          "explain": "Valproate có nguy cơ cao gây dị tật bẩm sinh và ảnh hưởng phát triển thần kinh, phụ thuộc liều. Ở phụ nữ có khả năng mang thai, chỉ dùng khi các lựa chọn phù hợp khác không hiệu quả hoặc không dung nạp và phải có tư vấn tránh thai, kế hoạch mang thai rõ ràng."
+        },
+        {
+          "q": "Cơ chế chống động kinh chính của acid valproic là gì?",
+          "options": [
+            "Chỉ hoạt hóa thụ thể glycine.",
+            "Tăng GABA và điều hòa kênh natri.",
+            "Chỉ đối kháng thụ thể AMPA.",
+            "Chỉ chẹn kênh canxi type T."
+          ],
+          "answer": 1,
+          "explain": "Valproate có cơ chế rộng, gồm tăng dẫn truyền GABA và điều hòa các kênh natri, đồng thời ảnh hưởng kênh canxi type T. Vì vậy thuốc có hiệu lực trên nhiều loại cơn nhưng độc tính sinh sản hạn chế sử dụng."
+        },
+        {
+          "q": "Nếu bệnh nhân đang dùng valproate, kế hoạch trước mang thai phù hợp nhất là gì?",
+          "options": [
+            "Khuyên không mang thai vĩnh viễn.",
+            "Giữ nguyên thuốc không cần tư vấn.",
+            "Ngừng thuốc đột ngột ngay hôm nay.",
+            "Chuyển thuốc từ từ dưới giám sát chuyên khoa."
+          ],
+          "answer": 3,
+          "explain": "Không được ngừng thuốc đột ngột vì có thể gây tái phát cơn. Cần khám chuyên khoa trước thụ thai để cân nhắc chuyển dần sang lamotrigine hoặc levetiracetam, dùng đơn trị liều thấp hiệu quả nhất và kiểm soát cơn trước khi mang thai."
+        },
+        {
+          "q": "Mục đích của bổ sung acid folic trước thụ thai ở phụ nữ dùng thuốc chống động kinh là gì?",
+          "options": [
+            "Tăng trực tiếp hiệu lực chống động kinh.",
+            "Ngăn hoàn toàn mọi dị tật do valproate.",
+            "Giảm nguy cơ dị tật liên quan thiếu folate.",
+            "Điều trị rụng tóc do thuốc kéo dài."
+          ],
+          "answer": 2,
+          "explain": "Acid folic nên được dùng trước thụ thai và đầu thai kỳ theo liều cá thể hóa. Thuốc hỗ trợ giảm nguy cơ dị tật ống thần kinh liên quan thiếu folate nhưng không loại bỏ nguy cơ quái thai của valproate."
+        },
+        {
+          "q": "Trong động kinh giật cơ thiếu niên, carbamazepine hoặc phenytoin có thể gây hậu quả gì?",
+          "options": [
+            "Kiểm soát hoàn toàn mọi loại cơn.",
+            "Không ảnh hưởng đến kiểu cơn.",
+            "Làm nặng cơn giật cơ và cơn vắng.",
+            "Chỉ gây đau đầu thoáng qua."
+          ],
+          "answer": 2,
+          "explain": "Các thuốc chẹn kênh natri như carbamazepine và phenytoin có thể làm nặng thêm cơn giật cơ hoặc cơn vắng trong động kinh toàn thể di truyền, nên thường tránh trong JME."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi xuất hiện các cơn giật tay phải sau đột quỵ cũ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 72 tuổi.<br><br><b>Bệnh sử:</b> Khoảng 3 tháng nay, bệnh nhân xuất hiện các cơn co giật ở tay và mặt bên phải, kéo dài khoảng 30 giây, trong cơn ý thức vẫn tỉnh táo và nhận biết được mọi thứ. Bệnh nhân không có các triệu chứng báo trước. Sau cơn không có lú lẫn nhưng tay phải hơi yếu hơn trong vài phút.<br><br><b>Tiền sử:</b> Tiền sử đột quỵ nhồi máu não bán cầu trái cách đây 2 năm, để lại di chứng yếu nhẹ nửa người phải và thất ngôn Broca. Có tăng huyết áp, đái tháo đường type 2, đang dùng Aspirin, Atorvastatin, Amlodipine, Metformin.<br><br><b>Khám lâm sàng:</b> Khám thần kinh ghi nhận yếu sức cơ 4/5 tay phải, các dấu hiệu khác không có gì đặc biệt.",
+      "questions": [
+        {
+          "q": "Ly cơn động kinh bệnh nhân đang mắc phải là gì?",
+          "options": [
+            "Cơn động kinh toàn thể co cứng ở bệnh nhân này.",
+            "Cơn động kinh cục bộ không rối loạn ý thức, có biểu hiện vận động.",
+            "Cơn co thắt trẻ em (Infantile spasms) ở bệnh nhân này.",
+            "Cơn giật cơ trong bối cảnh lâm sàng hiện tại."
+          ],
+          "answer": 1,
+          "explain": "Cơn co giật chỉ khu trú ở một phần cơ thể (tay và mặt phải) và ý thức của bệnh nhân hoàn toàn được bảo tồn trong suốt cơn. Đây là định nghĩa của cơn động kinh cục bộ không rối loạn ý thức (Focal Aware Seizure), có biểu hiện vận động."
+        },
+        {
+          "q": "Nguyên nhân có khả năng cao nhất gây ra động kinh ở bệnh nhân này là gì?",
+          "options": [
+            "Động kinh vô căn (di truyền) ở bệnh nhân này.",
+            "Di chứng sẹo não sau đột quỵ (Động kinh sau đột quỵ).",
+            "U não nguyên phát trong ca bệnh này.",
+            "Rối loạn chuyển hóa do đái tháo đường."
+          ],
+          "answer": 1,
+          "explain": "Đột quỵ là nguyên nhân gây động kinh có triệu chứng phổ biến nhất ở người lớn tuổi. Sự xuất hiện các cơn động kinh cục bộ mới ở một bệnh nhân có tiền sử đột quỵ khu trú ở vùng vỏ não tương ứng làm cho chẩn đoán động kinh sau đột quỵ là có khả năng cao nhất."
+        },
+        {
+          "q": "Cơ chế gây động kinh muộn sau đột quỵ là gì?",
+          "options": [
+            "Lắng đọng amyloid-beta lan tỏa ở bệnh nhân này.",
+            "Tăng áp lực nội sọ mạn đơn thuần.",
+            "Sẹo thần kinh đệm và tái cấu trúc mạng quanh ổ nhồi máu.",
+            "Thiếu oxy toàn thân lặp lại mỗi ngày."
+          ],
+          "answer": 2,
+          "explain": "Sau tổn thương não, gliosis, mất neuron chọn lọc và tái tổ chức synapse tạo mạng lưới tăng kích thích quanh ổ tổn thương. Đây là nền tảng sinh động kinh muộn sau đột quỵ."
+        },
+        {
+          "q": "Khi lựa chọn thuốc kháng động kinh cho người cao tuổi, tiêu chí nào là quan trọng nhất cần xem xét?",
+          "options": [
+            "Thuốc ít có tương tác với các thuốc khác và ít tác dụng phụ trên nhận thức.",
+            "Thuốc có hiệu lực mạnh nhất trong bối cảnh lâm sàng hiện tại.",
+            "Thuốc có giá thành rẻ nhất trong bối cảnh lâm sàng hiện tại.",
+            "Thuốc có thể tiêm bắp trong bối cảnh lâm sàng hiện tại."
+          ],
+          "answer": 0,
+          "explain": "Người cao tuổi thường mắc nhiều bệnh đồng thời và sử dụng nhiều loại thuốc. Do đó, việc chọn một loại thuốc kháng động kinh ít tương tác (không gây cảm ứng hoặc ức chế men gan CYP450) và ít ảnh hưởng đến nhận thức (gây buồn ngủ, lú lẫn) là ưu tiên hàng đầu để đảm bảo an toàn và tuân thủ điều trị."
+        },
+        {
+          "q": "Thuốc kháng động kinh nào sau đây là một lựa chọn tốt cho bệnh nhân này vì ít gây tương tác thuốc?",
+          "options": [
+            "Phenobarbital.",
+            "Levetiracetam.",
+            "Carbamazepine.",
+            "Phenytoin."
+          ],
+          "answer": 1,
+          "explain": "Levetiracetam, Lamotrigine và Gabapentin là các thuốc kháng động kinh thế hệ mới hơn, có ưu điểm là không ảnh hưởng đáng kể đến hệ enzyme gan CYP450, do đó ít có nguy cơ tương tác với các thuốc tim mạch, chống đông, hạ mỡ máu... mà người cao tuổi thường dùng. Ngược lại, Phenytoin, Carbamazepine và Phenobarbital là những chất cảm ứng men gan rất mạnh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 22 tuổi bị các cơn co cứng giật chi liên quan đến yếu tố căng thẳng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 22 tuổi, sinh viên.<br><br><b>Bệnh sử:</b> Được đưa đến phòng khám thần kinh vì các \"cơn ngất\". Theo mô tả, khi bị căng thẳng hoặc cãi vã với người khác, bệnh nhân thường lên cơn co cứng và co giật hai tay hai chân, uốn éo, đầu lắc qua lại. Cơn thường kéo dài 5-10 phút, đôi khi lâu hơn. Trong cơn, mắt bệnh nhân thường nhắm chặt, và khi người nhà cố gắng mở mắt ra thì bệnh nhân chống lại. Sau cơn, bệnh nhân có thể khóc nhưng tỉnh táo ngay và nhớ lại một phần sự kiện. Bệnh nhân đã được chẩn đoán động kinh tại một phòng khám tư và đang uống Levetiracetam nhưng không giảm tần suất cơn.<br><br><b>Tiền sử:</b> Có tiền sử bị lạm dụng thời thơ ấu.<br><br><b>Khám lâm sàng:</b> Khám thần kinh không phát hiện bất thường.",
+      "questions": [
+        {
+          "q": "Dựa vào các đặc điểm của cơn, chẩn đoán nào là phù hợp nhất?",
+          "options": [
+            "Trạng thái động kinh không co giật.",
+            "Hạ đường huyết trong ca bệnh này.",
+            "Cơn động kinh thùy trán.",
+            "Cơn co giật tâm lý không do động kinh (PNES)."
+          ],
+          "answer": 3,
+          "explain": "Các đặc điểm như cơn được khởi phát bởi cảm xúc, kéo dài, vận động không đồng bộ (lắc đầu, uốn éo), mắt nhắm chặt và tỉnh táo ngay sau cơn là những \"cờ đỏ\" gợi ý mạnh mẽ đến cơn co giật tâm lý không do động kinh (Psychogenic Non-Epileptic Seizures - PNES)."
+        },
+        {
+          "q": "Dấu hiệu lâm sàng nào sau đây có giá trị cao trong việc phân biệt PNES với cơn động kinh co giật toàn thể?",
+          "options": [
+            "Tiểu không tự chủ.",
+            "Lú lẫn sau cơn.",
+            "Mắt nhắm chặt trong cơn.",
+            "Sủi bọt mép."
+          ],
+          "answer": 2,
+          "explain": "Trong cơn động kinh co giật toàn thể thực sự, mắt bệnh nhân thường mở. Dấu hiệu mắt nhắm và chống lại việc mở mắt là một trong những dấu hiệu lâm sàng đáng tin cậy nhất để phân biệt PNES. Các dấu hiệu khác như cắn lưỡi (thường ở cạnh lưỡi trong động kinh), tiểu dầm, lú lẫn sau cơn... thường gặp hơn trong động kinh thực sự."
+        },
+        {
+          "q": "Cơ chế tâm lý học phù hợp nhất của PNES là gì?",
+          "options": [
+            "Giả bệnh có chủ ý để thu lợi.",
+            "Triệu chứng chuyển dạng do căng thẳng và xung đột tâm lý.",
+            "Đột biến kênh ion gây cơn toàn thể.",
+            "Phóng điện động kinh thật từ vùng dưới đồi."
+          ],
+          "answer": 1,
+          "explain": "PNES là rối loạn chức năng thần kinh, triệu chứng không chủ ý và thường liên quan sang chấn hoặc căng thẳng. Không đồng nghĩa với giả bệnh và không có phóng điện động kinh đặc hiệu trong cơn."
+        },
+        {
+          "q": "Tiêu chuẩn tham chiếu để chẩn đoán PNES là gì?",
+          "options": [
+            "Ghi cơn điển hình bằng video-EEG không có phóng điện động kinh.",
+            "Prolactin huyết thanh bình thường sau cơn trong ca bệnh này.",
+            "Triệu chứng cải thiện khi dùng giả dược.",
+            "MRI sọ não có cấu trúc hoàn toàn bình thường."
+          ],
+          "answer": 0,
+          "explain": "Ghi được cơn điển hình trên video-EEG mà không có hoạt động điện não động kinh tương ứng là tiêu chuẩn tham chiếu. MRI hay prolactin không đủ để xác nhận và không nên dùng giả dược để thử bệnh."
+        },
+        {
+          "q": "Phương pháp điều trị chính cho PNES là gì?",
+          "options": [
+            "Tăng liều thuốc kháng động kinh ở bệnh nhân này.",
+            "Phẫu thuật kích thích dây thần kinh phế vị (VNS).",
+            "Tâm lý trị liệu, đặc biệt là liệu pháp nhận thức hành vi (CBT).",
+            "Sử dụng thuốc chống loạn thần trong ca bệnh này."
+          ],
+          "answer": 2,
+          "explain": "Vì PNES không phải do hoạt động điện não bất thường gây ra, thuốc kháng động kinh hoàn toàn không hiệu quả. Nền tảng của điều trị là tâm lý trị liệu. CBT đã được chứng minh là giúp bệnh nhân nhận diện các yếu tố khởi phát stress, thay đổi các kiểu suy nghĩ và hành vi, và phát triển các cơ chế đối phó lành mạnh hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 7 tuổi xuất hiện các cơn bất động ngắt quãng",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 7 tuổi.<br><br><b>Bệnh sử:</b> Được mẹ đưa đến khám vì \"hay mất tập trung\". Mẹ và cô giáo nhận thấy khoảng 4 tháng nay, trong lớp học hoặc khi đang nói chuyện, trẻ đột ngột ngừng mọi hoạt động, mắt nhìn chằm chằm vô hồn trong khoảng 10-15 giây, sau đó lại tiếp tục hoạt động như chưa có gì xảy ra. Trẻ không ngã, không co giật, và không nhớ gì về các khoảnh khắc đó. Các cơn này xảy ra rất nhiều lần trong ngày.<br><br><b>Tiền sử:</b> Phát triển tâm thần vận động bình thường.<br><br><b>Khám lâm sàng:</b> Khám thần kinh không phát hiện dấu hiệu bất thường.",
+      "questions": [
+        {
+          "q": "Loại cơn động kinh nào có khả năng nhất ở trẻ này?",
+          "options": [
+            "Cơn mất trương lực ở bệnh nhân này.",
+            "Cơn động kinh cục bộ có rối loạn ý thức.",
+            "Cơn mơ màng (Daydreaming) ở bệnh nhân này.",
+            "Cơn vắng ý thức điển hình."
+          ],
+          "answer": 3,
+          "explain": "Các cơn ngừng hoạt động đột ngột, ngắn (vài giây), tần suất cao, không có giai đoạn sau cơn là hình ảnh rất điển hình của cơn vắng ý thức (Absence Seizure), một loại động kinh toàn thể thường gặp ở trẻ em."
+        },
+        {
+          "q": "Hoạt động điện não đồ (EEG) đặc trưng được kỳ vọng tìm thấy trong cơn ở bệnh nhân này là gì?",
+          "options": [
+            "Các gai nhọn ở vùng thái dương.",
+            "Hoạt động nền bình thường.",
+            "Phức hợp gai sóng 3 Hz lan tỏa, đối xứng.",
+            "Sóng chậm lan tỏa ở vùng chẩm."
+          ],
+          "answer": 2,
+          "explain": "Dấu hiệu điện não đồ kinh điển của cơn vắng ý thức là sự xuất hiện đột ngột của các phức hợp gai-sóng đều đặn, tần số 3 Hz, lan tỏa và đối xứng ở cả hai bán cầu, tương ứng chính xác với thời gian trẻ có biểu hiện lâm sàng."
+        },
+        {
+          "q": "Cơ chế sinh bệnh của cơn vắng ý thức được cho là liên quan đến sự tương tác bất thường trong mạng lưới thần kinh nào?",
+          "options": [
+            "Mạng lưới vỏ não hạch nền.",
+            "Hệ thống limbic.",
+            "Mạng lưới đồi thị vỏ não.",
+            "Mạng lưới tiểu não thân não."
+          ],
+          "answer": 2,
+          "explain": "Cơn vắng ý thức không phải do một ổ ở vỏ não gây ra mà là do sự dao động bất thường trong một mạng lưới thần kinh lớn. Mạng lưới đồi thị vỏ não (thalamocortical network), vốn có vai trò điều hòa nhịp điệu giấc ngủ và sự tỉnh táo, được cho là nơi khởi phát các phóng điện bất thường này, có thể liên quan đến rối loạn chức năng của các kênh canxi type T."
+        },
+        {
+          "q": "Thuốc nào sau đây được coi là lựa chọn đầu tay và hiệu quả nhất cho động kinh vắng ý thức ở trẻ em?",
+          "options": [
+            "Phenytoin.",
+            "Ethosuximide.",
+            "Gabapentin.",
+            "Carbamazepine."
+          ],
+          "answer": 1,
+          "explain": "Ethosuximide là thuốc được lựa chọn hàng đầu vì nó có hiệu quả cao trong việc kiểm soát cơn vắng ý thức và có ít tác dụng phụ trên nhận thức hơn so với Acid Valproic. Carbamazepine và Phenytoin có thể làm nặng thêm cơn vắng ý thức."
+        },
+        {
+          "q": "Tiên lượng lâu dài đối với động kinh vắng ý thức điển hình ở trẻ em là gì?",
+          "options": [
+            "Hầu hết trẻ sẽ phát triển thành các cơn co cứng co giật.",
+            "Tiên lượng rất tốt, phần lớn trẻ sẽ hết cơn khi đến tuổi vị thành niên.",
+            "Luôn dẫn đến suy giảm nhận thức nghiêm trọng trong ca bệnh này.",
+            "Bệnh thường tồn tại suốt đời và kháng trị ở bệnh nhân này."
+          ],
+          "answer": 1,
+          "explain": "Động kinh vắng ý thức ở trẻ em (Childhood Absence Epilepsy) là một hội chứng động kinh lành tính. Với điều trị thích hợp, hầu hết các cơn được kiểm soát tốt và khoảng 2/3 trẻ em sẽ tự khỏi bệnh khi bước vào tuổi dậy thì."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi bị động kinh cục bộ kháng thuốc sau chấn thương cũ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi.<br><br><b>Bệnh sử:</b> Sáu năm gần đây, bệnh nhân bắt đầu xuất hiện các cơn động kinh cục bộ tiến triển thành co cứng co giật hai bên. Bệnh nhân đã được điều trị lần lượt với nhiều loại thuốc kháng động kinh khác nhau (Carbamazepine, Levetiracetam, Lamotrigine) ở liều tối đa dung nạp được, cả đơn trị liệu và phối hợp, nhưng tần suất cơn vẫn không giảm (trung bình 3-4 cơn/tháng).<br><br><b>Tiền sử:</b> Có tiền sử chấn thương sọ não nặng do tai nạn giao thông 10 năm trước.<br><br><b>Khám lâm sàng:</b> Chưa ghi nhận bất thường hệ thống đặc biệt ngoài ổ khuyết não.<br><br><b>Xét nghiệm:</b> MRI sọ não cho thấy một vùng khuyết não và gliosis ở thùy trán phải. Video-EEG ghi nhận các cơn đều khởi phát từ vùng trán phải.",
+      "questions": [
+        {
+          "q": "Tình trạng của bệnh nhân được định nghĩa là gì?",
+          "options": [
+            "Trạng thái động kinh.",
+            "Hội chứng Lennox-Gastaut.",
+            "Động kinh được kiểm soát tốt.",
+            "Động kinh kháng thuốc."
+          ],
+          "answer": 3,
+          "explain": "Theo định nghĩa của ILAE, động kinh kháng thuốc (Drug-Resistant Epilepsy) là tình trạng không kiểm soát được cơn động kinh sau khi đã thử điều trị đầy đủ với hai loại thuốc kháng động kinh phù hợp (đơn trị liệu hoặc phối hợp). Bệnh nhân này hoàn toàn thỏa mãn tiêu chuẩn này."
+        },
+        {
+          "q": "Cơ chế nào có thể góp phần gây động kinh kháng thuốc?",
+          "options": [
+            "Tăng P-glycoprotein đẩy thuốc khỏi não.",
+            "Giảm protein vận chuyển tại hàng rào máu não.",
+            "Giảm chuyển hóa thuốc tại gan.",
+            "Tăng nhạy cảm thụ thể đích với thuốc."
+          ],
+          "answer": 0,
+          "explain": "Tăng biểu hiện các chất vận chuyển tống xuất như P-glycoprotein tại hàng rào máu não có thể làm giảm nồng độ thuốc tại mô đích. Đây là một trong nhiều giả thuyết của động kinh kháng thuốc."
+        },
+        {
+          "q": "Với bệnh nhân động kinh cục bộ kháng thuốc và có tổn thương cấu trúc não rõ ràng, phương pháp điều trị nào cần được xem xét?",
+          "options": [
+            "Liệu pháp tâm lý trong ca bệnh này.",
+            "Thử thêm một loại thuốc kháng động kinh thứ tư.",
+            "Chế độ ăn ketogenic trong ca bệnh này.",
+            "Đánh giá khả năng phẫu thuật động kinh."
+          ],
+          "answer": 3,
+          "explain": "Phẫu thuật động kinh là một lựa chọn điều trị hiệu quả cao cho bệnh nhân động kinh kháng thuốc, đặc biệt khi có một ổ tổn thương duy nhất có thể xác định được trên MRI và EEG. Bệnh nhân cần được chuyển đến một trung tâm động kinh chuyên sâu để được đánh giá toàn diện."
+        },
+        {
+          "q": "Mục tiêu của phẫu thuật động kinh trong trường hợp này là gì?",
+          "options": [
+            "Cắt bỏ hoàn toàn vùng vỏ não sinh động kinh (epileptogenic zone).",
+            "Cấy điện cực để ghi điện não đồ dài ngày.",
+            "Cải thiện lưu lượng máu não trong ca bệnh này.",
+            "Kích thích vùng vỏ não sinh động kinh."
+          ],
+          "answer": 0,
+          "explain": "Mục tiêu chính của phẫu thuật cắt bỏ (resective surgery) là loại bỏ một cách an toàn toàn bộ vùng não chịu trách nhiệm cho việc khởi phát các cơn động kinh, trong khi vẫn bảo tồn các chức năng thần kinh quan trọng (vận động, ngôn ngữ, trí nhớ)."
+        },
+        {
+          "q": "Phương pháp nào sau đây là một lựa chọn điều trị giảm nhẹ (palliative) cho bệnh nhân động kinh kháng thuốc không phải là ứng cử viên cho phẫu thuật cắt bỏ?",
+          "options": [
+            "Bổ sung vitamin tổng hợp.",
+            "Châm cứu trong ca bệnh này.",
+            "Kích thích dây thần kinh phế vị (VNS).",
+            "Thiền định ở bệnh nhân này."
+          ],
+          "answer": 2,
+          "explain": "Kích thích dây thần kinh phế vị (VNS) là một phương pháp điều trị phẫu thuật thần kinh điều biến (neuromodulation). Một thiết bị giống máy tạo nhịp được cấy dưới da và gửi các xung điện đến dây thần kinh phế vị ở cổ, từ đó điều hòa hoạt động của não và giúp giảm tần suất cũng như cường độ cơn ở khoảng 50% bệnh nhân. Đây là một lựa chọn giảm nhẹ khi không thể phẫu thuật cắt bỏ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi xuất hiện đợt lú lẫn cấp tính do hoạt động động kinh không co giật",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 68 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì một cơn \"lú lẫn cấp\". Vợ bệnh nhân cho biết ông đang ngồi xem TV thì đột nhiên trở nên ngơ ngác, không nói, không đáp ứng với lời nói trong khoảng 10 phút. Trong thời gian đó, ông không co giật, không ngã. Sau đó ông dần tỉnh lại nhưng không nhớ những gì vợ nói trong khoảng 1 giờ qua, và liên tục hỏi đi hỏi lại cùng một câu hỏi.<br><br><b>Tiền sử:</b> Có tăng huyết áp, rối loạn lipid máu.<br><br><b>Khám lâm sàng:</b> Khám tại bệnh viện sau 2 giờ, bệnh nhân đã hoàn toàn tỉnh táo, GCS 15 điểm, không có dấu thần kinh khu trú.<br><br><b>Xét nghiệm:</b> MRI sọ não có hình ảnh tăng tín hiệu trên chuỗi xung DWI ở vùng đồi thị và hồi hải mã bên trái. Điện não đồ ghi nhận sóng chậm khu trú ở vùng thái dương - đỉnh bên trái.",
+      "questions": [
+        {
+          "q": "Dựa trên bệnh sử và các kết quả cận lâm sàng, chẩn đoán có khả năng nhất là gì?",
+          "options": [
+            "Rối loạn phân ly ở thời điểm đang xét.",
+            "Cơn quên thoáng qua toàn bộ (Transient Global Amnesia).",
+            "Hạ đường huyết trong bối cảnh lâm sàng hiện tại.",
+            "Cơn động kinh cục bộ không co giật (trạng thái động kinh cục bộ)."
+          ],
+          "answer": 3,
+          "explain": "Tình trạng lú lẫn kéo dài, rối loạn ý thức không kèm co giật, kết hợp với các bất thường khu trú trên EEG và MRI là hình ảnh điển hình của trạng thái động kinh không co giật (Non-Convulsive Status Epilepticus - NCSE), cụ thể là thể cục bộ có rối loạn ý thức. Cơn quên thoáng qua toàn bộ thường không có bất thường trên EEG và MRI."
+        },
+        {
+          "q": "Sự hiện diện của sóng chậm khu trú trên EEG và tổn thương trên DWI-MRI gợi ý cơ chế sinh bệnh nào?",
+          "options": [
+            "Một tình trạng co thắt mạch máu não thoáng qua theo dữ kiện hiện có.",
+            "Một rối loạn tâm thần cấp tính đối với người bệnh đang được đánh giá.",
+            "Một quá trình viêm tự miễn khi áp dụng cho bệnh nhân đang được đánh giá.",
+            "Một hoạt động động kinh kéo dài (ictal activity) gây ra thay đổi chuyển hóa và tưới máu tại chỗ."
+          ],
+          "answer": 3,
+          "explain": "Hoạt động động kinh là một quá trình tiêu thụ năng lượng rất lớn. Khi một vùng não bị phóng điện liên tục, nhu cầu oxy và glucose của nó tăng vọt. Nếu tình trạng này kéo dài, nó có thể dẫn đến nhiễm độc tế bào do kích thích quá mức (excitotoxicity) và phù nề tế bào, biểu hiện bằng sự hạn chế khuếch tán (tăng tín hiệu) trên chuỗi xung DWI."
+        },
+        {
+          "q": "Thuật ngữ nào mô tả tình trạng bệnh nhân không có khả năng hình thành ký ức mới trong và một thời gian ngắn sau cơn?",
+          "options": [
+            "Mất ngôn ngữ (Aphasia).",
+            "Mất trí nhớ thuận chiều (Anterograde amnesia).",
+            "Mất nhận thức (Agnosia).",
+            "Mất trí nhớ ngược chiều (Retrograde amnesia)."
+          ],
+          "answer": 1,
+          "explain": "Mất trí nhớ thuận chiều là tình trạng mất khả năng tạo ra ký ức mới sau một sự kiện gây ra chứng mất trí nhớ. Việc bệnh nhân không thể nhớ những gì xảy ra trong và sau cơn, và liên tục hỏi lại, là biểu hiện của loại mất trí nhớ này, thường do rối loạn chức năng của hồi hải mã."
+        },
+        {
+          "q": "Tại sao trạng thái động kinh không co giật lại là một chẩn đoán quan trọng cần được nhận biết và điều trị kịp thời?",
+          "options": [
+            "Vì nó không bao giờ tự kết thúc nếu không điều trị ở bệnh nhân này.",
+            "Vì nó gây đau đớn dữ dội cho bệnh nhân ở bệnh nhân này.",
+            "Vì nó luôn tiến triển thành trạng thái động kinh co giật ở bệnh nhân này.",
+            "Vì nó có thể gây ra tổn thương neuron vĩnh viễn và suy giảm nhận thức nếu kéo dài."
+          ],
+          "answer": 3,
+          "explain": "Mặc dù không có biểu hiện co giật rõ ràng, NCSE vẫn là một trạng thái hoạt động điện não bệnh lý liên tục. Nếu không được chấm dứt, sự kích thích quá mức và kéo dài này có thể gây chết neuron thông qua cơ chế excitotoxicity, dẫn đến di chứng thần kinh và nhận thức vĩnh viễn."
+        },
+        {
+          "q": "Việc điều trị trạng thái động kinh không co giật thường bao gồm:",
+          "options": [
+            "Phẫu thuật cắt bỏ hồi hải mã khi áp dụng cho bệnh nhân đang được đánh giá.",
+            "Chỉ sử dụng liệu pháp tâm lý khi áp dụng cho bệnh nhân đang được đánh giá.",
+            "Sử dụng thuốc kháng động kinh đường tĩnh mạch, ban đầu có thể là benzodiazepine, sau đó là các thuốc khác.",
+            "Chỉ cần theo dõi và chờ đợi khi áp dụng cho bệnh nhân đang được đánh giá."
+          ],
+          "answer": 2,
+          "explain": "Việc điều trị NCSE cũng tương tự như SE co giật, nhằm mục đích cắt đứt hoạt động động kinh càng sớm càng tốt. Phác đồ thường bắt đầu với benzodiazepine tĩnh mạch, sau đó là tải các thuốc kháng động kinh khác như Levetiracetam, Valproate cho đến khi hoạt động động kinh trên EEG được kiểm soát."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 30 tuổi có quai mạch chèn ép rễ thần kinh góc cầu tiểu não",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 30 tuổi.<br><br><b>Bệnh sử:</b> Đến khám vì cơn đau đầu dữ dội. Bệnh nhân mô tả cơn đau đầu kiểu giật nhói ở vùng chẩm phải, xuất hiện đột ngột, kéo dài vài giây rồi hết, nhưng lặp lại thành từng cụm. Cơn đau thường kèm theo chóng mặt và buồn nôn. Bệnh nhân không sốt.<br><br><b>Tiền sử:</b> Chưa ghi nhận tiền sử bệnh lý đặc biệt.<br><br><b>Khám lâm sàng:</b> Khám thần kinh hoàn toàn bình thường giữa các cơn đau.<br><br><b>Xét nghiệm:</b> Chụp MRI sọ não có tiêm thuốc đối quang từ cho thấy động mạch tiểu não trên bên phải có một quai mạch tiếp xúc và chèn ép vào vùng rễ thần kinh số VIII và V tại góc cầu tiểu não.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào là phù hợp nhất với bệnh cảnh này?",
+          "options": [
+            "Đau nửa đầu Migraine ở bệnh nhân này.",
+            "Hội chứng chèn ép vi mạch thần kinh (Neurovascular compression syndrome).",
+            "Đau dây thần kinh sinh ba (Trigeminal neuralgia).",
+            "Động kinh thùy chẩm trong ca bệnh này."
+          ],
+          "answer": 1,
+          "explain": "Sự kết hợp của các triệu chứng kịch phát (đau, chóng mặt) với bằng chứng hình ảnh học về sự tiếp xúc giữa mạch máu và dây thần kinh sọ tương ứng là đặc điểm của hội chứng chèn ép vi mạch thần kinh. Cụ thể ở đây có thể là chèn ép cả dây V (gây đau) và dây VIII (gây chóng mặt)."
+        },
+        {
+          "q": "Vì sao chèn ép mạch máu vào rễ thần kinh gây cơn kịch phát?",
+          "options": [
+            "Mạch máu tiết độc tố kích thích neuron.",
+            "Hủy myelin khu trú tạo dẫn truyền chéo ephaptic.",
+            "Thiếu máu toàn bộ dây thần kinh kéo dài.",
+            "Lo âu đơn thuần tạo triệu chứng giả."
+          ],
+          "answer": 1,
+          "explain": "Tiếp xúc mạch máu kéo dài có thể làm mất myelin khu trú ở vùng rễ vào, khiến xung động lan chéo giữa các sợi thần kinh theo cơ chế ephaptic và tạo cơn ngắn, lặp lại."
+        },
+        {
+          "q": "Các triệu chứng của bệnh nhân (đau đầu giật nhói, chóng mặt) tương ứng với sự kích thích của các dây thần kinh sọ nào?",
+          "options": [
+            "Dây V và VIII.",
+            "Dây II và III.",
+            "Dây VII và IX.",
+            "Dây XI và XII."
+          ],
+          "answer": 0,
+          "explain": "Đau kiểu giật nhói, như điện giật là đặc trưng của đau dây thần kinh sinh ba (dây V). Chóng mặt và các triệu chứng tiền đình là do sự kích thích của dây thần kinh tiền đình ốc tai (dây VIII). Hình ảnh MRI cho thấy sự chèn ép ở cả hai dây thần kinh này."
+        },
+        {
+          "q": "Thuốc nào sau đây là lựa chọn đầu tay trong điều trị nội khoa cho tình trạng này, với cơ chế ổn định màng tế bào thần kinh?",
+          "options": [
+            "Carbamazepine hoặc Oxcarbazepine.",
+            "Sumatriptan.",
+            "Propranolol.",
+            "Ibuprofen."
+          ],
+          "answer": 0,
+          "explain": "Các thuốc chẹn kênh natri như Carbamazepine và Oxcarbazepine là nền tảng của điều trị nội khoa. Chúng có tác dụng làm ổn định màng tế bào thần kinh đang bị kích thích quá mức, ngăn chặn sự hình thành và lan truyền các phóng điện bất thường, từ đó làm giảm triệu chứng. Cơ chế này tương tự như tác dụng chống động kinh của chúng."
+        },
+        {
+          "q": "Nếu điều trị nội khoa thất bại, phương pháp điều trị triệt để cho bệnh nhân này là gì?",
+          "options": [
+            "Xạ phẫu Gamma Knife.",
+            "Phẫu thuật giải ép vi mạch (Microvascular decompression - MVD).",
+            "Đốt hạch Gasser qua da.",
+            "Cắt bỏ động mạch tiểu não trên."
+          ],
+          "answer": 1,
+          "explain": "Phẫu thuật giải ép vi mạch (MVD) là phương pháp điều trị triệt để. Phẫu thuật viên sẽ mở một cửa sổ nhỏ ở xương sọ sau tai, tiếp cận góc cầu tiểu não và chèn một miếng đệm nhỏ bằng Teflon vào giữa mạch máu và dây thần kinh, tách chúng ra và loại bỏ sự chèn ép."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 76 tuổi xuất hiện cơn nhìn chằm chằm nhai tóp tép sau nhồi máu não cũ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 76 tuổi.<br><br><b>Bệnh sử:</b> Được đưa vào viện vì các cơn nhìn chằm chằm vô hồn, nhai tóp tép miệng và xoa nắn hai bàn tay vô thức kéo dài khoảng 1-2 phút.<br><br><b>Tiền sử:</b> Nhồi máu não bán cầu phải cách đây 2 năm để lại di chứng yếu nhẹ nửa người trái, tăng huyết áp đang dùng amlodipin 5 mg/ngày.<br><br><b>Khám lâm sàng:</b> Ngay sau cơn: bệnh nhân lú lẫn, mất định hướng không gian và thời gian kéo dài hơn 60 phút, dấu hiệu sinh tồn ổn định, SpO2 96%, không có thêm dấu thần kinh khu trú mới.<br><br><b>Xét nghiệm:</b> Đường huyết mao mạch 6.5 mmol/L, điện giải đồ bình thường. CT sọ não không ghi nhận tổn thương cấp mới.",
+      "questions": [
+        {
+          "q": "Định hướng chẩn đoán loại cơn động kinh phù hợp nhất trên bệnh nhân này là gì?",
+          "options": [
+            "Cơn vắng ý thức",
+            "Cơn động kinh cục bộ nhận thức bảo tồn.",
+            "Cơn động kinh cục bộ nhận thức suy giảm.",
+            "Cơn động kinh toàn thể hóa thứ phát."
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có biểu hiện sững sờ, nhai tóp tép, xoa nắn tay (tự động kỷ) kèm rối loạn ý thức, điển hình của cơn động kinh cục bộ nhận thức suy giảm (trước đây gọi là động kinh cục bộ phức tạp). Cơn vắng ý thức thường gặp ở trẻ em, diễn ra rất ngắn và không có lú lẫn sau cơn kéo dài."
+        },
+        {
+          "q": "Cơ chế bệnh sinh hàng đầu gây ra bệnh lý này ở người cao tuổi là gì?",
+          "options": [
+            "Rối loạn chuyển hóa porphyrin cấp tính.",
+            "Sẹo mô đệm thần kinh sau nhồi máu não.",
+            "Sự phát triển bất thường của vỏ não bẩm sinh.",
+            "Rối loạn kênh ion do đột biến gen di truyền."
+          ],
+          "answer": 1,
+          "explain": "Đột quỵ thiếu máu cục bộ hoặc chảy máu não là nguyên nhân hàng đầu (chiếm 30-50%) gây động kinh khởi phát muộn ở người cao tuổi. Sự chết tế bào tạo ra sẹo mô đệm (gliosis) và thay đổi mạng lưới neuron, làm tăng tính kích thích vỏ não."
+        },
+        {
+          "q": "Thăm dò cận lâm sàng nào cần được ưu tiên chỉ định để loại trừ tổn thương cấp tính?",
+          "options": [
+            "Đo điện não đồ giấc ngủ.",
+            "Chụp cắt lớp vi tính sọ não.",
+            "Chọc dò dịch não tủy.",
+            "Siêu âm Doppler mạch cảnh."
+          ],
+          "answer": 1,
+          "explain": "Mặc dù bệnh nhân có tiền sử đột quỵ cũ, việc xuất hiện cơn động kinh mới luôn cần loại trừ một biến cố mạch máu cấp tính tái phát hoặc xuất huyết não bằng chụp cắt lớp vi tính (CT) sọ não không tiêm thuốc cản quang."
+        },
+        {
+          "q": "Thuốc chống động kinh nào sau đây được ưu tiên lựa chọn khởi đầu cho bệnh nhân này?",
+          "options": [
+            "Valproate.",
+            "Phenytoin.",
+            "Levetiracetam.",
+            "Phenobarbital."
+          ],
+          "answer": 2,
+          "explain": "Levetiracetam là lựa chọn ưu tiên ở người cao tuổi do ít tương tác thuốc (không chuyển hóa qua gan), ít tác dụng phụ trên nhận thức và dung nạp tốt. Phenytoin và phenobarbital nhiều tác dụng phụ và tương tác thuốc."
+        },
+        {
+          "q": "Đặc điểm nào sau cơn động kinh ở người cao tuổi thường khác biệt so với người trẻ tuổi?",
+          "options": [
+            "Phục hồi ý thức diễn ra nhanh hơn.",
+            "Ít gặp tình trạng đau đầu sau cơn.",
+            "Tần suất cần phải lưỡi cao hơn.",
+            "Thời gian lú lẫn sau cơn kéo dài hơn."
+          ],
+          "answer": 3,
+          "explain": "Ở người cao tuổi, não bộ có dự trữ chức năng kém hơn, do đó tình trạng lú lẫn sau cơn (post-ictal confusion) thường kéo dài rất lâu (nhiều giờ đến nhiều ngày) so với người trẻ, dễ bị nhầm lẫn với sa sút trí tuệ hoặc mê sảng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 82 tuổi dùng lợi tiểu đột ngột co giật toàn thể",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 82 tuổi.<br><br><b>Bệnh sử:</b> Đột ngột co giật toàn thể cơn lớn kéo dài 3 phút tại nhà. Khi vào cấp cứu, bệnh nhân lơ mơ, Glasgow 11 điểm.<br><br><b>Tiền sử:</b> Đang điều trị tăng huyết áp và suy tim bằng lisinopril 5 mg/ngày, furosemid 40 mg/ngày và spironolacton 25 mg/ngày.<br><br><b>Khám lâm sàng:</b> Glasgow 11 điểm, mạch 95 lần/phút, huyết áp 110/60 mmHg, nhịp thở 18 lần/phút. Khám không có dấu thần kinh khu trú, không có hội chứng màng não.<br><br><b>Xét nghiệm:</b> Na 112 mmol/L (giảm nặng), K 3.8 mmol/L, Cl 80 mmol/L, creatinin 105 µmol/L, glucose 5.8 mmol/L. Chụp CT sọ não không có xuất huyết hay nhồi máu mới.",
+      "questions": [
+        {
+          "q": "Nguyên nhân trực tiếp gây ra cơn co giật ở bệnh nhân này là gì?",
+          "options": [
+            "Xuất huyết dưới nhện.",
+            "Hạ natri máu mức độ nặng.",
+            "Động kinh nguyên phát.",
+            "Suy tim mất bù cấp tính."
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân co giật toàn thể trong bối cảnh dùng lợi tiểu (furosemid) và xét nghiệm Na rất thấp (112 mmol/L). Đây là cơn co giật triệu chứng cấp tính do hạ natri máu nặng, không phải động kinh thực sự."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh giải thích tình trạng thần kinh của bệnh nhân là gì?",
+          "options": [
+            "Thiếu oxy não do suy giảm tuần hoàn.",
+            "Tế bào não bị co rút do mất nước.",
+            "Tổn thương sợi trục lan tỏa do độc chất.",
+            "Phù tế bào não do chênh lệch thẩm thấu."
+          ],
+          "answer": 3,
+          "explain": "Hạ natri máu làm giảm áp lực thẩm thấu ngoại bào. Nước di chuyển từ khoang ngoại bào vào trong tế bào não (nơi có áp lực thẩm thấu cao hơn) gây phù tế bào não (cytotoxic edema), dẫn đến tăng áp lực nội sọ và co giật."
+        },
+        {
+          "q": "Bước xử trí ban đầu ưu tiên nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Tiêm tĩnh mạch diazepam.",
+            "Truyền tĩnh mạch NaCl 3%.",
+            "Nạp tĩnh mạch phenytoin.",
+            "Truyền tĩnh mạch NaCl 0.9%."
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có triệu chứng thần kinh nặng (lơ mơ, co giật) do hạ natri máu cấp/nặng cần được bù natri ưu trương (NaCl 3%) ngay lập tức để giảm phù não. Thuốc chống động kinh không giải quyết được căn nguyên."
+        },
+        {
+          "q": "Tốc độ điều chỉnh điện giải tối đa trong 24 giờ đầu để đảm bảo an toàn là bao nhiêu?",
+          "options": [
+            "15-20 mmol/L.",
+            "8-10 mmol/L.",
+            "2-4 mmol/L.",
+            "20-25 mmol/L."
+          ],
+          "answer": 1,
+          "explain": "Để phòng ngừa biến chứng thần kinh, tốc độ tăng Na máu không được vượt quá 8-10 mmol/L trong 24 giờ đầu (một số guideline khuyến cáo mức an toàn là 8 mmol/L/24h)."
+        },
+        {
+          "q": "Nếu bù điện giải quá nhanh, bệnh nhân có nguy cơ cao nhất mắc biến chứng nào sau đây?",
+          "options": [
+            "Phù não ác tính.",
+            "Nhồi máu động mạch não giữa.",
+            "Xuất huyết não thất.",
+            "Hội chứng hủy myelin thẩm thấu."
+          ],
+          "answer": 3,
+          "explain": "Bù natri quá nhanh ở bệnh nhân hạ natri máu mạn tính gây ra hội chứng hủy myelin thẩm thấu (ODS - Osmotic Demyelination Syndrome), điển hình là hủy myelin cầu não trung tâm, dẫn đến liệt tứ chi, liệt giả hành não và hội chứng khóa trong."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 78 tuổi mắc bệnh Alzheimer xuất hiện các cơn đờ đẫn giật cơ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 78 tuổi.<br><br><b>Bệnh sử:</b> Gần đây người chăm sóc phát hiện bệnh nhân có những cơn đờ đẫn, nhìn chằm chằm, thỉnh thoảng có giật cơ nhẹ ở tay phải kéo dài khoảng 30 giây, lặp lại 2-3 lần/tuần. Sau cơn bệnh nhân thường lú lẫn và ngủ nhiều hơn.<br><br><b>Tiền sử:</b> Mắc bệnh Alzheimer giai đoạn trung bình 3 năm nay.<br><br><b>Khám lâm sàng:</b> Trương lực cơ bình thường, không yếu liệt khu trú.<br><br><b>Xét nghiệm:</b> MRI sọ não cho thấy teo brain lan tỏa, đặc biệt vùng hồi hải mã hai bên, không có khối u hay xuất huyết.",
+      "questions": [
+        {
+          "q": "Mối liên hệ bệnh sinh giữa bệnh Alzheimer và cơn co giật là gì?",
+          "options": [
+            "Suy giảm chất dẫn truyền dopamine tại hạch nền.",
+            "Thoái hóa myelin làm chậm dẫn truyền thần kinh.",
+            "Tích tụ amyloid-beta làm tăng tính kích thích neuron.",
+            "Viêm màng não do tự kháng thể mạn tính."
+          ],
+          "answer": 2,
+          "explain": "Trong bệnh Alzheimer, sự tích tụ các mảng amyloid-beta và đám rối tau gây rối loạn mạng lưới thần kinh, thay đổi nồng độ glutamate và GABA, làm tăng tính kích thích quá mức của neuron và dễ khởi phát cơn động kinh."
+        },
+        {
+          "q": "Đặc điểm điện não đồ (EEG) thường gặp nhất ở bệnh nhân Alzheimer có kèm động kinh là gì?",
+          "options": [
+            "Sóng nhọn đa ổ ở vùng chẩm.",
+            "Sóng chậm lan tỏa kèm các gai nhọn thái dương.",
+            "Sóng ba pha điển hình ở thùy trán.",
+            "Phức hợp gai sóng 3Hz toàn thể hóa."
+          ],
+          "answer": 1,
+          "explain": "EEG ở bệnh nhân Alzheimer thường có nhịp nền chậm lan tỏa (do thoái hóa vỏ não). Khi có động kinh, thường ghi nhận thêm các hoạt động dạng động kinh (gai, sóng nhọn) khu trú, đặc biệt ở thùy thái dương."
+        },
+        {
+          "q": "Nhóm thuốc chống động kinh nào sau đây cần tránh sử dụng ở bệnh nhân này?",
+          "options": [
+            "Topiramate.",
+            "Levetiracetam.",
+            "Lamotrigine.",
+            "Gabapentin."
+          ],
+          "answer": 0,
+          "explain": "Topiramate (cũng như phenobarbital, phenytoin) có tác dụng phụ làm chậm chạp nhận thức, giảm trí nhớ, lú lẫn, do đó cần tuyệt đối tránh ở bệnh nhân đã có sa sút trí tuệ."
+        },
+        {
+          "q": "Thuốc chống động kinh nào thường được ưu tiên ở người cao tuổi mắc Alzheimer?",
+          "options": [
+            "Topiramate hoặc phenobarbital.",
+            "Phenobarbital hoặc phenytoin.",
+            "Levetiracetam hoặc lamotrigine.",
+            "Phenytoin hoặc carbamazepine."
+          ],
+          "answer": 2,
+          "explain": "Levetiracetam và lamotrigine thường được ưu tiên vì ít tương tác và ít ảnh hưởng nhận thức hơn. Phenobarbital, phenytoin và topiramate dễ gây an thần, mất thăng bằng, tương tác hoặc suy giảm nhận thức."
+        },
+        {
+          "q": "Việc quản lý bệnh nhân này đòi hỏi lưu ý đặc biệt điều gì liên quan đến diễn tiến bệnh Alzheimer?",
+          "options": [
+            "Co giật có thể làm suy giảm nhận thức nhanh hơn.",
+            "Động kinh làm tăng nguy cơ xuất huyết não.",
+            "Thuốc chống động kinh giúp hồi phục trí nhớ.",
+            "Động kinh thường tự thuyên giảm sau 6 tháng."
+          ],
+          "answer": 0,
+          "explain": "Mặc dù khó phân biệt, nhưng các cơn co giật lặp đi lặp lại không được kiểm soát có thể gây tổn thương neuron thêm, dẫn đến sự suy giảm nhận thức diễn ra với tốc độ nhanh hơn ở bệnh nhân sa sút trí tuệ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 85 tuổi nhập viện cấp cứu trong trạng thái động kinh co giật liên tục",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 85 tuổi.<br><br><b>Bệnh sử:</b> Được phát hiện nằm bất tỉnh trên sàn nhà. Gia đình báo cáo bệnh nhân có biểu hiện co giật toàn thể liên tục, không tỉnh lại giữa các cơn trong suốt 40 phút qua.<br><br><b>Tiền sử:</b> Nhồi máu não cũ, đái tháo đường typ 2.<br><br><b>Khám lâm sàng:</b> Glasgow 6 điểm, co giật toàn thể đang diễn ra, mạch 115 lần/phút, huyết áp 160/90 mmHg, nhịp thở 24 lần/phút, SpO2 88% khí trời.<br><br><b>Xét nghiệm:</b> Đường huyết mao mạch 8.0 mmol/L.",
+      "questions": [
+        {
+          "q": "Tình trạng hiện tại của bệnh nhân được chẩn đoán là gì?",
+          "options": [
+            "Trạng thái động kinh co giật.",
+            "Cơn động kinh cục bộ toàn thể hóa.",
+            "Cơn vắng ý thức không điển hình.",
+            "Trạng thái động kinh không co giật."
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân co giật toàn thể liên tục >= 5 phút hoặc có các cơn co giật liên tiếp mà không phục hồi ý thức giữa các cơn (ở đây là 40 phút) thỏa mãn tiêu chuẩn chẩn đoán trạng thái động kinh co giật (Convulsive Status Epilepticus - SE)."
+        },
+        {
+          "q": "Biến chứng sinh lý bệnh nguy hiểm nhất xảy ra tại não nếu tình trạng này kéo dài quá 30 phút là gì?",
+          "options": [
+            "Tắc nghẽn xoang tĩnh mạch màng cứng.",
+            "Chảy máu dưới nhện lan tỏa.",
+            "Phù não vận mạch và hoại tử neuron.",
+            "Tăng sinh quá mức tế bào hình sao."
+          ],
+          "answer": 2,
+          "explain": "Trạng thái động kinh kéo dài (> 30 phút) gây tăng giải phóng glutamate quá mức, dẫn đến dòng canxi ạt tràn vào nội bào, gây độc tính kích thích (excitotoxicity), phù não vận mạch và tổn thương/hoại tử neuron vĩnh viễn."
+        },
+        {
+          "q": "Thuốc điều trị cắt cơn ưu tiên bước 1 tại khoa cấp cứu cho bệnh nhân này là gì?",
+          "options": [
+            "Lorazepam tĩnh mạch.",
+            "Propofol truyền tĩnh mạch.",
+            "Phenytoin tĩnh mạch.",
+            "Valproate tĩnh mạch."
+          ],
+          "answer": 0,
+          "explain": "Theo phác đồ xử trí trạng thái động kinh, thuốc ưu tiên bước 1 (0-10 phút) là nhóm Benzodiazepine đường tĩnh mạch (Lorazepam, Diazepam) hoặc Midazolam tiêm bắp."
+        },
+        {
+          "q": "Nếu sau bước 1 tình trạng lâm sàng không cải thiện, chỉ định tiếp theo phù hợp nhất là gì?",
+          "options": [
+            "Truyền tĩnh mạch fosphenytoin.",
+            "Gây mê bằng thiopental.",
+            "Chọc hút dịch não tủy.",
+            "Tiêm bắp midazolam."
+          ],
+          "answer": 0,
+          "explain": "Nếu thất bại với Benzodiazepine (bước 2: 10-30 phút), cần sử dụng ngay thuốc chống động kinh đường tĩnh mạch tác dụng dài. Fosphenytoin, Valproate tĩnh mạch hoặc Levetiracetam tĩnh mạch là các lựa chọn ưu tiên. Gây mê chỉ dùng ở bước 3 (kháng trị)."
+        },
+        {
+          "q": "Yếu tố tiên lượng tử vong độc lập quan trọng nhất ở bệnh nhân cao tuổi mắc tình trạng này là gì?",
+          "options": [
+            "Tiền sử đái tháo đường typ 2.",
+            "Thời gian kéo dài của tình trạng bệnh lý.",
+            "Tốc độ truyền thuốc cắt cơn.",
+            "Nồng độ đường huyết lúc nhập viện."
+          ],
+          "answer": 1,
+          "explain": "Ở người cao tuổi mắc trạng thái động kinh, thời gian co giật càng kéo dài thì tổn thương não càng nặng nề và tỷ lệ tử vong càng cao. Căn nguyên (ví dụ đột quỵ cấp) và tuổi cũng là các yếu tố tiên lượng quan trọng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 81 tuổi nhập viện vì lú lẫn dao động có biểu hiện NCSE",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 81 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì lú lẫn dao động, phản ứng chậm chạp và ngủ nhiều trong 2 ngày nay. Không có tiền sử chấn thương đầu hay co giật trước đó.<br><br><b>Tiền sử:</b> Tiền sử tăng huyết áp, rung nhĩ đang dùng rivaroxaban.<br><br><b>Khám lâm sàng:</b> Nhịp tim 80 lần/phút không đều, huyết áp 140/85 mmHg, nhiệt độ 37°C. Khám thần kinh: bệnh nhân mở mắt khi gọi to, không nói được câu hoàn chỉnh, không có yếu liệt chi, có những nhịp giật giật rất nhẹ ở khóe mắt phải và góc hàm.<br><br><b>Xét nghiệm:</b> CT sọ não không có xuất huyết. Chọc dịch não tủy bình thường. Xét nghiệm máu bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào cần được nghi ngờ cao nhất ở bệnh nhân này?",
+          "options": [
+            "Viêm màng não mủ.",
+            "Huyết khối tĩnh mạch não.",
+            "Cơn thiếu máu não thoáng qua.",
+            "Trạng thái động kinh không co giật."
+          ],
+          "answer": 3,
+          "explain": "Người cao tuổi có lú lẫn kéo dài, dao động ý thức, kèm theo các giật cơ rất nhỏ (vi giật ở mặt/mắt) mà không có co giật toàn thể hoặc nguyên nhân chuyển hóa đột quỵ rõ ràng, cần nghi ngờ cao độ Trạng thái động kinh không co giật (Non-convulsive Status Epilepticus - NCSE)."
+        },
+        {
+          "q": "Thăm dò nào là tiêu chuẩn vàng để xác định chẩn đoán trên?",
+          "options": [
+            "Chụp cộng hưởng từ sọ não.",
+            "Chụp mạch máu não đồ (DSA).",
+            "Xét nghiệm PCR dịch não tủy.",
+            "Theo dõi điện não đồ liên tục."
+          ],
+          "answer": 3,
+          "explain": "Tiêu chuẩn vàng để chẩn đoán NCSE là đo điện não đồ (EEG), lý tưởng là theo dõi EEG liên tục (cEEG) để phát hiện các hoạt động phóng điện kịch phát đang diễn ra mà không có biểu hiện vận động rõ rệt."
+        },
+        {
+          "q": "Cơ chế nào giải thích tình trạng thiếu sót vận động điển hình trong bệnh cảnh này?",
+          "options": [
+            "Chèn ép thân não do tăng áp lực nội sọ trong ca bệnh này.",
+            "Các phóng điện động kinh khu trú không lan rộng tới vỏ não vận động chính.",
+            "Suy giảm lưu lượng máu hệ tuần hoàn sau ở bệnh nhân này.",
+            "Tổn thương bó tháp tại bao trong ở bệnh nhân này."
+          ],
+          "answer": 1,
+          "explain": "In NCSE, paroxysmal discharges (seizure activity) are usually localized to association cortical areas (such as frontal or temporal lobes), causing cognitive impairment, but they do not propagate to or stimulate the primary motor cortex with enough intensity to cause obvious, dramatic muscle convulsions."
+        },
+        {
+          "q": "Tất cả các yếu tố sau đều là yếu tố khởi phát phổ biến của tình trạng này ở người cao tuổi, TRỪ:",
+          "options": [
+            "Uống nhầm liều vitamin C.",
+            "Nhiễm trùng huyết.",
+            "Ngừng thuốc chống động kinh đột ngột.",
+            "Rối loạn điện giải nặng."
+          ],
+          "answer": 0,
+          "explain": "NCSE ở người cao tuổi thường được khởi phát bởi các biến cố cấp tính như nhiễm trùng nặng, rối loạn chuyển hóa (hạ natri máu, hạ đường huyết), đột quỵ, hoặc ngừng thuốc AED đột ngột. Vitamin C không liên quan đến khởi phát động kinh."
+        },
+        {
+          "q": "Phương pháp nào phù hợp nhất để xác nhận đáp ứng và kiểm soát trạng thái động kinh không co giật?",
+          "options": [
+            "Kích thích đau xương ức.",
+            "Nghiệm pháp Dix-Hallpike.",
+            "Truyền mannitol thử nghiệm.",
+            "Theo dõi EEG liên tục tại giường."
+          ],
+          "answer": 3,
+          "explain": "EEG liên tục là phương pháp khách quan nhất để chẩn đoán xác định và theo dõi sát sao sự biến mất của hoạt động động kinh bệnh lý trên vỏ não. Đáp ứng với benzodiazepine có thể hỗ trợ trong tình huống chọn lọc nhưng không đủ đặc hiệu và có nguy cơ an thần, suy hô hấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 74 tuổi xuất hiện đột quỵ mới do tương tác thuốc Phenytoin và DOAC",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 74 tuổi.<br><br><b>Bệnh sử:</b> Một tháng sau khi dùng thuốc điều trị động kinh, bệnh nhân nhập viện vì yếu liệt nửa người trái đột ngột.<br><br><b>Tiền sử:</b> Có tiền sử rung nhĩ đang điều trị bằng dabigatran (thuốc chống đông đường uống tác dụng trực tiếp - DOAC) và rối loạn lipid máu dùng rosuvastatin. Bệnh nhân mới được chẩn đoán động kinh cục bộ sau một cơn nhồi máu não nhỏ và bác sĩ tuyến dưới kê đơn phenytoin 300 mg/ngày.<br><br><b>Khám lâm sàng:</b> Biểu hiện yếu liệt nửa người trái cấp tính.<br><br><b>Xét nghiệm:</b> CT sọ não có hình ảnh nhồi máu não mới ở bán cầu phải.",
+      "questions": [
+        {
+          "q": "Cơ chế tương tác nào giải thích giảm hiệu quả dabigatran khi dùng phenytoin?",
+          "options": [
+            "Dabigatran ức chế chuyển hóa phenytoin.",
+            "Cảm ứng P-glycoprotein làm giảm hấp thu dabigatran.",
+            "Cạnh tranh gắn protein với rosuvastatin.",
+            "Ức chế CYP450 làm tích lũy dabigatran."
+          ],
+          "answer": 1,
+          "explain": "Dabigatran là cơ chất của P-glycoprotein và không phụ thuộc đáng kể vào CYP450. Phenytoin cảm ứng mạnh P-glycoprotein, có thể làm giảm phơi nhiễm dabigatran và tăng nguy cơ thuyên tắc."
+        },
+        {
+          "q": "Nhóm thuốc chống động kinh nào sau đây gây ra hiện tượng tương tác thuốc tương tự như phenytoin?",
+          "options": [
+            "Carbamazepine và Phenobarbital.",
+            "Gabapentin và Lacosamide.",
+            "Valproate và Lamotrigine.",
+            "Levetiracetam và Pregabalin."
+          ],
+          "answer": 0,
+          "explain": "Carbamazepine và Phenobarbital (cùng với Phenytoin) là các thuốc chống động kinh thế hệ cũ có tính chất cảm ứng enzyme gan mạnh (enzyme inducers), gây ra vô số tương tác thuốc nguy hiểm trong đa dược trị ở người cao tuổi."
+        },
+        {
+          "q": "Ở người cao tuổi, việc sử dụng thuốc chống động kinh cảm ứng enzyme gan mạn tính còn làm tăng nguy cơ mắc bệnh lý nào sau đây?",
+          "options": [
+            "Phì đại tiền liệt tuyến.",
+            "Loãng xương và gãy xương.",
+            "Tăng áp lực tĩnh mạch cửa.",
+            "Viêm dạ dày mạn tính."
+          ],
+          "answer": 1,
+          "explain": "Các thuốc cảm ứng enzyme gan (Phenytoin, Carbamazepine, Phenobarbital) làm tăng chuyển hóa vitamin D thành các chất không có hoạt tính, dẫn đến giảm hấp thu canxi, cường cận giáp thứ phát, từ đó gây loãng xương (osteomalacia/osteoporosis) và tăng nguy cơ gãy xương."
+        },
+        {
+          "q": "Thuốc chống động kinh nào ít tương tác dược động học hơn với dabigatran?",
+          "options": [
+            "Phenobarbital dùng đường uống.",
+            "Lacosamide dùng đường uống.",
+            "Carbamazepine dùng đường uống.",
+            "Phenytoin dùng đường uống."
+          ],
+          "answer": 1,
+          "explain": "Lacosamide không phải chất cảm ứng mạnh CYP hoặc P-glycoprotein nên thường ít tương tác hơn. Carbamazepine, phenytoin và phenobarbital có thể làm giảm nồng độ DOAC lựa chọn cuối cùng cần cá thể hóa theo loại cơn và bệnh tim."
+        },
+        {
+          "q": "Xét nghiệm nào cần được theo dõi định kỳ nếu bệnh nhân tiếp tục dùng phenytoin kết hợp với nhiều loại thuốc khác?",
+          "options": [
+            "Chức năng gan và nồng độ phenytoin máu.",
+            "Điện tâm đồ 24 giờ.",
+            "Kháng thể kháng nhân (ANA).",
+            "Đo phế dung ký."
+          ],
+          "answer": 0,
+          "explain": "Phenytoin có dược động học không tuyến tính (zero-order kinetics), nồng độ thuốc dễ bị dao động và gây ngộ độc. Nó được chuyển hóa ở gan, nên cần theo dõi chức năng gan (AST, ALT) và định lượng nồng độ thuốc trong máu để chỉnh liều an toàn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi xuất hiện cơn co giật tay phải kèm liệt Todd",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 70 tuổi.<br><br><b>Bệnh sử:</b> Được người nhà đưa đến khám vì một cơn co giật xuất hiện ở tay phải, lan dần lên mặt rồi lan ra toàn thân, kèm mất ý thức khoảng 2 phút. Sau cơn, bệnh nhân lú lẫn và bị yếu tay phải cơ lực 2/5. Yếu tay hồi phục hoàn toàn sau 18 giờ.<br><br><b>Tiền sử:</b> Không có đột quỵ, không tăng huyết áp trước đó.<br><br><b>Khám lâm sàng:</b> Khám thần kinh ghi nhận yếu sức cơ 4/5 tay phải lúc vừa nhập viện, các dấu hiệu khác không có gì đặc biệt.<br><br><b>Xét nghiệm:</b> MRI sọ não có tiêm thuốc đối quang từ phát hiện một khối u màng não (meningioma) kích thước 3 cm ở thùy trán đỉnh trái có phù não xung quanh.",
+      "questions": [
+        {
+          "q": "Hiện tượng yếu tay phải sau cơn co giật của bệnh nhân được gọi là gì?",
+          "options": [
+            "Liệt Todd (Todd's paralysis).",
+            "Cơn thiếu máu não thoáng qua.",
+            "Hội chứng Brown-Séquard.",
+            "Đột quỵ nhồi máu não lỗ khuyết."
+          ],
+          "answer": 0,
+          "explain": "Liệt Todd (Todd's paralysis/paresis) là tình trạng yếu liệt khu trú (thường ở một chi hoặc nửa người) xảy ra ngay sau một cơn động kinh cục bộ. Triệu chứng thường kéo dài từ vài giờ đến tối đa 48 giờ rồi tự hồi phục hoàn toàn."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh học nào giải thích hiện tượng yếu tay này?",
+          "options": [
+            "Tổn thương tế bào sừng trước tủy sống ở bệnh nhân này.",
+            "Sự kiệt sức và ức chế vỏ não tạm thời sau phóng điện động kinh.",
+            "Huyết khối lấp tắc động mạch não giữa bên trái.",
+            "Tăng áp lực nội sọ chèn ép hành não trong ca bệnh này."
+          ],
+          "answer": 1,
+          "explain": "Cơ chế của liệt Todd chưa được hiểu hoàn toàn, nhưng giả thuyết chính là sự kiệt sức tạm thời của các neuron vận động tại vỏ não do tăng hoạt động chuyển hóa quá mức trong cơn co giật, kết hợp với sự tăng hoạt tính của các thụ thể ức chế (GABA) ở giai đoạn sau cơn."
+        },
+        {
+          "q": "Cơ chế gây động kinh của khối u não ở bệnh nhân này chủ yếu là gì?",
+          "options": [
+            "Phù não xung quanh u gây chèn ép và kích thích vỏ não.",
+            "U tiết ra độc tố phá hủy myelin.",
+            "U làm giảm tưới máu hệ thống tĩnh mạch não.",
+            "U xâm lấn trực tiếp phá hủy nhân bèo."
+          ],
+          "answer": 0,
+          "explain": "Khối u màng não (thường là u ngoài trục, lành tính) gây động kinh chủ yếu do hiệu ứng khối (mass effect) và phản ứng phù não vận mạch xung quanh u, gây chèn ép, thiếu máu cục bộ nhẹ và kích thích vỏ não lân cận tạo ra phóng điện."
+        },
+        {
+          "q": "Xử trí lâm sàng ưu tiên cho tình trạng yếu tay phải lúc bệnh nhân vừa nhập viện là gì?",
+          "options": [
+            "Phẫu thuật mở sọ giải áp cấp cứu.",
+            "Tiêm thuốc tiêu huyết khối rt-PA ngay.",
+            "Chỉ định chụp mạch máu brain lấy huyết khối cơ học.",
+            "Theo dõi sát lâm sàng vì triệu chứng thường tự hồi phục."
+          ],
+          "answer": 3,
+          "explain": "Triệu chứng yếu tay sau cơn co giật (liệt Todd) là một tình trạng tự giới hạn. Nếu đã xác định rõ bệnh cảnh sau co giật và MRI không có nhồi máu cấp, xử trí đúng là theo dõi sát lâm sàng. Chống chỉ định dùng tiêu huyết khối (rt-PA) vì đây không phải đột quỵ."
+        },
+        {
+          "q": "Quản lý bệnh lý động kinh cho bệnh nhân này về lâu dài cần chiến lược nào?",
+          "options": [
+            "Dùng thuốc tiêu sợi huyết dự phòng mạn tính.",
+            "Truyền hóa chất tĩnh mạch hàng tháng ở bệnh nhân này.",
+            "Chỉ dùng thuốc chống động kinh suốt đời, không can thiệp u.",
+            "Phẫu thuật bóc u kết hợp thuốc chống động kinh quanh phẫu thuật."
+          ],
+          "answer": 3,
+          "explain": "Động kinh do u màng não là động kinh triệu chứng. Giải pháp triệt để là phẫu thuật loại bỏ khối u (giải quyết nguyên nhân chèn ép). Bệnh nhân cần dùng thuốc chống động kinh trước và ngay sau phẫu thuật, sau đó có thể cân nhắc cai thuốc nếu không còn co giật."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 82 tuổi ngã khụy mất ý thức kèm biểu hiện ngất co giật",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 82 tuổi.<br><br><b>Bệnh sử:</b> Đang đi dạo trong công viên thì đột ngột ngã khụy, mất ý thức. Bệnh nhân cho biết trước khi ngã cảm thấy tối sầm mắt, vã mồ hôi, không có ảo giác hay mùi vị bất thường. Người nhà thấy bệnh nhân gồng cứng người khoảng 10 giây, sau đó tỉnh lại hoàn toàn trong vòng 30 giây, không có nhầm lẫn hay lú lẫn sau cơn.<br><br><b>Tiền sử:</b> Có tiền sử suy tim thiếu máu cục bộ, phân suất tống máu (EF) 35%.<br><br><b>Khám lâm sàng:</b> Khám lâm sàng thần kinh hoàn toàn bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng cần được nghĩ tới đầu tiên ở bệnh nhân này là gì?",
+          "options": [
+            "Động kinh cục bộ toàn thể hóa.",
+            "Cơn thiếu máu não thoáng qua hệ tuần hoàn trước.",
+            "Ngất do nguyên nhân tim mạch.",
+            "Trạng thái động kinh không co giật."
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân nam cao tuổi có bệnh tim mạch nền, mất ý thức đột ngột kèm tiền triệu tự chủ (tối sầm mắt, vã mồ hôi), phục hồi cực nhanh, đây là bệnh cảnh điển hình của Ngất do tim mạch (Cardiogenic syncope), có thể do rối loạn nhịp tim (block nhĩ thất, nhịp nhanh thất)."
+        },
+        {
+          "q": "Đặc điểm lâm sàng nào giúp phân biệt rõ nhất tình trạng của bệnh nhân với cơn động kinh toàn thể?",
+          "options": [
+            "Mất ý thức hoàn toàn khi ngã ở bệnh nhân này.",
+            "Tiền triệu tối sầm mắt và vã mồ hôi.",
+            "Sự phục hồi ý thức rất nhanh và không lú lẫn sau cơn.",
+            "Có biểu hiện gồng cứng người ngắn trong ca bệnh này."
+          ],
+          "answer": 2,
+          "explain": "Yếu tố phân biệt quan trọng nhất giữa ngất và động kinh ở người cao tuổi là giai đoạn sau cơn. Ngất có sự phục hồi ý thức nhanh chóng, hoàn toàn. Động kinh (đặc biệt toàn thể) luôn có giai đoạn lú lẫn sau cơn (post-ictal state) kéo dài nhiều phút đến nhiều giờ."
+        },
+        {
+          "q": "Thăm dò cận lâm sàng nào cần được thực hiện ngay tại cấp cứu?",
+          "options": [
+            "Điện tâm đồ (ECG) 12 chuyển đạo.",
+            "Chọc dò dịch não tủy.",
+            "Điện não đồ (EEG).",
+            "Chụp MRI sọ não có cản từ."
+          ],
+          "answer": 0,
+          "explain": "Ở bệnh nhân nghi ngờ ngất do nguyên nhân tim mạch (đặc biệt có tiền sử suy tim EF giảm), việc làm ECG 12 chuyển đạo ngay lập tức để tìm các rối loạn nhịp nguy hiểm (block AV, QT dài, nhịp nhanh thất) là bắt buộc."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh gây ra biểu hiện \"gồng cứng người\" ở bệnh nhân này là gì?",
+          "options": [
+            "Phóng điện đồng bộ từ hai bán cầu đại não.",
+            "Giảm tưới máu não toàn bộ gây phản xạ thân não.",
+            "Rối loạn chức năng tiểu não cấp tính.",
+            "Tắc động mạch não giữa hai bên."
+          ],
+          "answer": 1,
+          "explain": "Khi não bộ bị giảm tưới máu toàn bộ một cách đột ngột (trong ngất), tình trạng thiếu oxy não thoáng qua làm mất sự ức chế của vỏ não lên các cấu trúc dưới vỏ và thân thành não, tạo ra các cử động co cứng hoặc giật cơ ngắn (ngất co giật - convulsive syncope), dễ bị nhầm với động kinh."
+        },
+        {
+          "q": "Nếu bệnh nhân được xuất viện mà không tìm thấy nguyên nhân rõ ràng ở cấp cứu, thăm dò ngoại trú nào là quan trọng nhất?",
+          "options": [
+            "Theo dõi điện tâm đồ liên tục (Holter ECG).",
+            "Ghi điện não đồ giấc ngủ 24 giờ.",
+            "Siêu âm tĩnh mạch sâu chi dưới.",
+            "Chụp PET scan sọ não."
+          ],
+          "answer": 0,
+          "explain": "Vì ngất do rối loạn nhịp có thể xảy ra từng lúc và không được ghi nhận trên ECG thường quy, việc đeo Holter ECG 24-72 giờ (hoặc cấy máy theo dõi nhịp) là thăm dò quan trọng nhất để bắt được các rối loạn nhịp nguy hiểm gây ngất."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 77 tuổi xuất hiện hội chứng ngoại tháp nghi do tác dụng phụ của Acid Valproic",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 77 tuổi.<br><br><b>Bệnh sử:</b> Đến khám vì tình trạng đi lại chậm chạp, hay bị vấp ngã mới xuất hiện gần đây.<br><br><b>Tiền sử:</b> Được chẩn đoán động kinh cục bộ cách đây 1 năm và được điều trị duy trì bằng Acid Valproic (Valproate) 1000 mg/ngày.<br><br><b>Khám lâm sàng:</b> Ghi nhận nét mặt đờ đẫn, run lúc nghỉ ở hai tay (tần số 4-6 Hz), tăng trương lực cơ kiểu bánh xe răng cưa.<br><br><b>Xét nghiệm:</b> Điện não đồ kiểm tra không có sóng động kinh.",
+      "questions": [
+        {
+          "q": "Tình trạng lâm sàng hiện tại của bệnh nhân có khả năng nhất là do nguyên nhân nào?",
+          "options": [
+            "Nhồi máu brain vùng tiểu não.",
+            "Bệnh Alzheimer khởi phát muộn.",
+            "Động kinh không kiểm soát được.",
+            "Hội chứng Parkinson thứ phát do thuốc."
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân xuất hiện các triệu chứng run lúc nghỉ, chậm chạp, tăng trương lực cơ (hội chứng ngoại tháp) sau khi dùng Acid Valproic. Đây là hội chứng Parkinson thứ phát do thuốc (Drug-induced Parkinsonism), một tác dụng phụ đã được biết đến của Valproate, đặc biệt ở người cao tuổi."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của biến chứng thần kinh do thuốc ở bệnh nhân này liên quan đến quá trình nào?",
+          "options": [
+            "Tương tác làm giảm nồng độ GABA trong não.",
+            "Chẹn trực tiếp thụ thể acetylcholine.",
+            "Rối loạn chức năng ty thể và dẫn truyền dopamine.",
+            "Kích thích quá mức thụ thể NMDA."
+          ],
+          "answer": 2,
+          "explain": "Dù cơ chế chưa hoàn toàn sáng tỏ, Valproate được cho là gây ra các triệu chứng ngoại tháp thông qua việc làm rối loạn chức năng ty thể, thay đổi biểu hiện gen và có thể can thiệp gián tiếp vào hệ thống dẫn truyền dopamine ở hạch nền."
+        },
+        {
+          "q": "Tác dụng nào KHÔNG điển hình của acid valproic ở người cao tuổi?",
+          "options": [
+            "Tăng huyết áp kéo dài.",
+            "Tăng cân và rụng tóc.",
+            "Giảm tiểu cầu hoặc lú lẫn.",
+            "Run tay hoặc chậm chạp."
+          ],
+          "answer": 0,
+          "explain": "Valproate có thể gây run, parkinson do thuốc, tăng cân, rụng tóc, giảm tiểu cầu, tăng amoniac và suy giảm nhận thức. Tăng huyết áp kéo dài không phải tác dụng phụ điển hình."
+        },
+        {
+          "q": "Xử trí lâm sàng ưu tiên để giải quyết tình trạng run và chậm chạp ở bệnh nhân này là gì?",
+          "options": [
+            "Giảm liều dần và chuyển đổi sang thuốc chống động kinh khác.",
+            "Khởi trị ngay bằng Levodopa liều cao.",
+            "Bổ sung thêm thuốc kháng cholinergic (Trihexyphenidyl).",
+            "Phẫu thuật kích thích não sâu (DBS)."
+          ],
+          "answer": 0,
+          "explain": "Khi bệnh nhân mắc hội chứng Parkinson do thuốc, việc đầu tiên và quan trọng nhất là phải loại bỏ tác nhân gây bệnh. Cần giảm liều từ từ Valproate và thay thế bằng một thuốc chống động kinh khác (cross-titration). Không dùng Levodopa khi chưa ngừng thuốc gây bệnh."
+        },
+        {
+          "q": "Nếu cần đổi thuốc, thuốc chống động kinh nào sau đây là lựa chọn thay thế phù hợp và ít gây tác dụng phụ trên hệ vận động ngoại tháp cho người cao tuổi?",
+          "options": [
+            "Flunarizine.",
+            "Cinnarizine.",
+            "Lamotrigine.",
+            "Haloperidol."
+          ],
+          "answer": 2,
+          "explain": "Lamotrigine (cùng với Levetiracetam) là thuốc chống động kinh thế hệ mới, dung nạp tốt ở người cao tuổi, không gây hội chứng ngoại tháp. Haloperidol, Cinnarizine, Flunarizine là những thuốc CÓ NGUY CƠ GÂY hội chứng Parkinson thứ phát, không dùng để trị động kinh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 71 tuổi sa sút trí tuệ tiến triển nhanh nghi do viêm não tự miễn LGI1",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 71 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì các cơn co thắt ngắn ở mặt và cánh tay phải, xảy ra hàng chục lần mỗi ngày (mỗi cơn kéo dài vài giây), bệnh nhân vẫn tỉnh táo trong cơn. Người nhà cho biết bệnh nhân có sự suy giảm trí nhớ nghiêm trọng tiến triển nhanh trong 3 tuần qua.<br><br><b>Tiền sử:</b> Suy giảm trí nhớ tiến triển nhanh trong 3 tuần.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh táo trong cơn. Các dấu hiệu khác được đánh giá kỹ lưỡng.<br><br><b>Xét nghiệm:</b> Na máu 120 mmol/L (hạ natri máu), MRI sọ não có tín hiệu tăng trên T2/FLAIR ở vùng hồi hải mã và hạch nền hai bên. Xét nghiệm dịch não tủy tăng protein nhẹ, không có tế bào.",
+      "questions": [
+        {
+          "q": "Đặc điểm các cơn co giật ngắn ở mặt và tay (faciobrachial dystonic seizures - FBDS) kèm hạ natri máu là biểu hiện đặc trưng của bệnh lý nào?",
+          "options": [
+            "Bệnh Creutzfeldt-Jakob (CJD).",
+            "Viêm não do Herpes simplex (HSV).",
+            "U nguyên bào thần kinh đệm đa dạng (GBM).",
+            "Viêm não tự miễn kháng thể kháng LGI1."
+          ],
+          "answer": 3,
+          "explain": "Cơn co giật loạn trương lực mặt cánh tay (FBDS) diễn ra rất ngắn, hàng chục lần một ngày, kết hợp với hạ natri máu và sa sút trí tuệ tiến triển nhanh ở người cao tuổi là dấu hiệu bệnh lý (pathognomonic) của Viêm não tự miễn kháng kháng thể LGI1."
+        },
+        {
+          "q": "Cơ chế sinh bệnh học của loại bệnh lý này là gì?",
+          "options": [
+            "Thiếu hụt men chuyển hóa thiamine (vitamin B1) ở bệnh nhân này.",
+            "Tích tụ mảng amyloid quanh các mạch máu não trong ca bệnh này.",
+            "Nhiễm trùng mạn tính do vi khuẩn giang mai ở bệnh nhân này.",
+            "Sự tấn công của tự kháng thể vào protein kênh ion trên màng tế bào thần kinh."
+          ],
+          "answer": 3,
+          "explain": "Viêm não tự miễn (như LGI1, NMDA) xảy ra khi hệ miễn dịch sản xuất nhầm các tự kháng thể (autoantibodies) tấn công vào các protein bề mặt (kênh ion, thụ thể) của tế bào thần kinh, gây viêm và tăng tính kích thích, dẫn đến động kinh kháng trị và rối loạn tâm thần."
+        },
+        {
+          "q": "Xét nghiệm đặc hiệu nào cần được thực hiện trên dịch não tủy và huyết thanh để chẩn đoán xác định?",
+          "options": [
+            "Đo nồng độ định lượng Tau và p-Tau.",
+            "Tìm Panel tự kháng thể bề mặt tế bào thần kinh.",
+            "Cấy vi khuẩn và làm kháng sinh đồ.",
+            "Xét nghiệm PCR lao (MTB) trong ca bệnh này."
+          ],
+          "answer": 1,
+          "explain": "Để chẩn đoán xác định viêm não tự miễn, cần lấy máu và dịch não tủy để gửi đi xét nghiệm Panel tự kháng thể bề mặt tế bào thần kinh (Neuronal surface antibodies), bao gồm LGI1, NMDA, CASPR2, GABA-B, v.v."
+        },
+        {
+          "q": "Phương pháp điều trị cấp tính nào mang lại hiệu quả cao nhất để kiểm soát cơn co giật và cải thiện nhận thức cho bệnh nhân này?",
+          "options": [
+            "Liệu pháp miễn dịch (Corticosteroid tĩnh mạch, IVIG).",
+            "Phối hợp 3 loại thuốc chống động kinh liều cao.",
+            "Thuốc ức chế men cholinesterase (Donepezil).",
+            "Thuốc kháng virus Acyclovir truyền tĩnh mạch."
+          ],
+          "answer": 0,
+          "explain": "Động kinh trong viêm não tự miễn thường kháng trị với các thuốc chống động kinh thông thường. Phương pháp điều trị cốt lõi và hiệu quả nhất là liệu pháp ức chế/điều hòa miễn dịch bằng Corticosteroid liều cao tĩnh mạch (Methylprednisolone), IVIG hoặc lọc huyết tương."
+        },
+        {
+          "q": "Đánh giá ung thư nào phù hợp ở viêm não kháng LGI1?",
+          "options": [
+            "Tìm ung thư phổi tế bào nhỏ bắt buộc.",
+            "Tầm soát ung thư theo tuổi và nguy cơ.",
+            "Không cần đánh giá ung thư nào.",
+            "Tìm u tuyến ức bắt buộc ở mọi ca."
+          ],
+          "answer": 1,
+          "explain": "LGI1 ít liên quan ung thư hơn một số viêm não cận ung thư khác. Nên khai thác triệu chứng và thực hiện tầm soát ung thư phù hợp tuổi, giới và yếu tố nguy cơ, không cần mặc định một khối u đặc hiệu ở mọi bệnh nhân."
+        }
+      ]
+    }
+  ]
+}
