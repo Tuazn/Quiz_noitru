@@ -1,0 +1,620 @@
+{
+  "name": "Tăng huyết áp new",
+  "description": "Bộ câu hỏi trắc nghiệm lâm sàng về bệnh lý Tăng huyết áp",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Tim mạch",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 54 tuổi ho khan kéo dài",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ 54 tuổi, nghề nghiệp nội trợ.<br><br><b>Bệnh sử:</b> Đến khám vì ho khan kéo dài 3 tuần nay, ho húng hắng liên tục cả ngày lẫn đêm, tăng lên khi nằm ngửa, không kèm sốt, không khạc đờm, không đau ngực, không khó thở.<br><br><b>Tiền sử:</b> Tăng huyết áp 6 tháng nay đang dùng Enalapril 10 mg ngày 1 viên, đái tháo đường typ 2 đang ổn định với Metformin 1000 mg ngày 1 viên.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh táo, thể trạng trung bình, mạch 76 lần/phút, huyết áp 135/85 mmHg, nhiệt độ 36.6 độ C, nhịp thở 16 lần/phút, SpO2 98% với khí trời, BMI 24.5 kg/m2. Khám tai mũi họng không phát hiện viêm nhiễm cấp tính, rì rào phế nang phế trường hai bên phế âm rõ rệt, không nghe thấy ran ẩm ran nổ hay ran rít ran ngáy, tim đều tần số 76 chu kỳ/phút, bụng mềm, các cơ quan khác chưa phát hiện bất thường.",
+      "questions": [
+        {
+          "q": "Nguyên nhân phù hợp nhất gây ra triệu chứng ho của bệnh nhân?",
+          "options": [
+            "Tác dụng phụ của thuốc",
+            "Trào ngược dạ dày thực quản",
+            "Viêm phế quản cấp tính",
+            "Hen phế quản ho khan"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân khởi phát ho khan kéo dài sau khi dùng Enalapril (thuốc ức chế men chuyển). Khám phổi hoàn toàn bình thường, không có hội chứng nhiễm trùng hay triệu chứng của hen/trào ngược, vì vậy nghĩ nhiều nhất đến ho do tác dụng phụ của thuốc."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính gây ra tác dụng phụ này liên quan đến tích lũy chất nào?",
+          "options": [
+            "Bradykinin",
+            "Angiotensin II",
+            "Aldosteron",
+            "Renin huyết thanh"
+          ],
+          "answer": 0,
+          "explain": "Thuốc ức chế men chuyển ngăn cản quá trình giáng hóa bradykinin và chất P tại đường hô hấp, dẫn đến tích lũy các chất này và kích thích thụ thể ho ở ngã ba hầu họng phế quản gây ho khan."
+        },
+        {
+          "q": "Thăm dò cận lâm sàng ban đầu phù hợp nhất cho bệnh nhân để loại trừ tổn thương thực thể ở phổi?",
+          "options": [
+            "Chụp X-quang ngực thẳng",
+            "Chụp cắt lớp vi tính lồng ngực",
+            "Đo chức năng thông khí phổi",
+            "Siêu âm lồng ngực"
+          ],
+          "answer": 0,
+          "explain": "Chụp X-quang ngực thẳng là thăm dò cơ bản, nhanh chóng nhất để loại trừ các tổn thương nhu mô phổi thực thể (như lao, u phổi, viêm phổi) trước khi quy kết hoàn toàn do thuốc."
+        },
+        {
+          "q": "Chiến lược thay đổi thuốc hạ huyết áp tối ưu nhất cho bệnh nhân này?",
+          "options": [
+            "Đổi Enalapril sang Losartan",
+            "Đổi Enalapril sang Amlodipin",
+            "Đổi Enalapril sang Hydrochlorothiazid",
+            "Thêm thuốc giảm ho Codein"
+          ],
+          "answer": 0,
+          "explain": "Thuốc chẹn thụ thể angiotensin (ARB) như Losartan không ức chế sự giáng hóa bradykinin nên không gây tác dụng phụ ho khan, đồng thời vẫn bảo vệ thận tối ưu trên bệnh nhân đái tháo đường tương tự như ACEi."
+        },
+        {
+          "q": "Nếu sau khi đổi thuốc 2 tuần bệnh nhân hết ho hoàn toàn nhưng huyết áp đo tại nhà dao động 145/90 mmHg, bước xử trí tiếp theo?",
+          "options": [
+            "Phối hợp thêm Amlodipin",
+            "Tăng gấp đôi liều Losartan",
+            "Phối hợp thêm Hydrochlorothiazid",
+            "Phối hợp thêm Metoprolol"
+          ],
+          "answer": 0,
+          "explain": "Khi bệnh nhân đái tháo đường không đạt huyết áp mục tiêu (<130/80 mmHg) với đơn trị liệu, khuyến cáo phối hợp sớm nhóm chẹn kênh calci (CCB) như Amlodipin để tối ưu hóa hiệu quả kiểm soát và bảo vệ cơ quan đích."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 66 tuổi yếu nửa người trái",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 66 tuổi.<br><br><b>Bệnh sử:</b> Đột ngột xuất hiện yếu nửa người trái cách 2 giờ, méo miệng về bên phải, nói khó, kèm đau đầu âm ỉ vùng chẩm, không nôn, không co giật, không sốt, không đau tức ngực, không khó thở.<br><br><b>Tiền sử:</b> Tăng huyết áp vô căn 10 năm nay điều trị không đều và bỏ thuốc 2 tháng nay, hút thuốc lá 30 bao.năm.<br><br><b>Khám lâm sàng:</b> Bệnh nhân lơ mơ, Glasgow 13 điểm, mạch 92 lần/phút, huyết áp 210/110 mmHg đều cả hai tay, nhiệt độ 36.8 độ C, nhịp thở 20 lần/phút, SpO2 96% khí trời, BMI 22.0 kg/m2. Khám thần kinh có liệt mềm nửa người trái cơ lực 2/5, liệt mặt trung ương trái, dấu hiệu Babinski bên trái dương tính, hội chứng màng não âm tính, tim đều không tiếng thổi bệnh lý, phổi phế âm đều không ran, bụng mềm.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng định hướng phù hợp nhất tại thời điểm tiếp nhận?",
+          "options": [
+            "Tai biến mạch máu não",
+            "Cơn tăng huyết áp khẩn cấp",
+            "Chấn thương sọ não cấp",
+            "Bệnh não do tăng huyết áp"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân cao tuổi, tiền sử tăng huyết áp bỏ thuốc, khởi phát đột ngột dấu hiệu thần kinh khu trú (liệt nửa người, méo miệng) trong giờ thứ 2, huyết áp vọt cao, chẩn đoán định hướng hàng đầu là tai biến mạch máu não."
+        },
+        {
+          "q": "Xét nghiệm cận lâm sàng hình ảnh học nào cần chỉ định ngay lập tức để phân biệt thể bệnh?",
+          "options": [
+            "Chụp cắt lớp vi tính sọ脑",
+            "Chụp cộng hưởng từ sọ não",
+            "Chụp mạch não số hóa xóa nền",
+            "Siêu âm Doppler mạch cảnh"
+          ],
+          "answer": 0,
+          "explain": "Chụp cắt lớp vi tính sọ não không cản quang là thăm dò bắt buộc đầu tay, thực hiện nhanh chóng để loại trừ xuất huyết não, từ đó xác định cửa sổ điều trị tái tưới máu thích hợp."
+        },
+        {
+          "q": "Kết quả cắt lớp vi tính sọ não chưa thấy vùng giảm tỷ trọng nhu mô, không thấy hình ảnh xuất huyết, bệnh nhân được chỉ định dùng thuốc tiêu sợi huyết Alteplase. Mục tiêu kiểm soát huyết áp tối ưu trước khi truyền thuốc?",
+          "options": [
+            "Huyết áp < 185/110 mmHg",
+            "Huyết áp < 220/120 mmHg",
+            "Huyết áp < 140/80 mmHg",
+            "Huyết áp < 160/90 mmHg"
+          ],
+          "answer": 0,
+          "explain": "Theo phác đồ, đối với nhồi máu não cấp có chỉ định tiêu sợi huyết, huyết áp phải được kiểm soát ổn định dưới mốc 185/110 mmHg trước khi bắt đầu truyền thuốc để giảm thiểu nguy cơ xuất huyết chuyển dạng."
+        },
+        {
+          "q": "Thuốc truyền tĩnh mạch kiểm soát huyết áp được lựa chọn đầu tay cho bệnh nhân này?",
+          "options": [
+            "Nicardipin",
+            "Enalaprilat",
+            "Nitroglycerin",
+            "Nitroprussid"
+          ],
+          "answer": 0,
+          "explain": "Nicardipin truyền tĩnh mạch liên tục qua bơm tiêm điện là thuốc ưu tiên lựa chọn vì giúp hạ huyết áp êm dịu, dễ kiểm soát tốc độ và không làm tăng áp lực nội sọ như các thuốc giãn mạch trực tiếp."
+        },
+        {
+          "q": "Nếu trong quá trình truyền thuốc tiêu sợi huyết, bệnh nhân đột ngột hôn mê sâu hơn, Glasgow giảm xuống 8 điểm kèm huyết áp vọt lên 230/120 mmHg, tai biến nào cần nghĩ tới đầu tiên?",
+          "options": [
+            "Xuất huyết não thứ phát",
+            "Nhồi máu não diện rộng",
+            "Phù não cấp lan tỏa",
+            "Tái tắc nghẽn mạch hoàn toàn"
+          ],
+          "answer": 0,
+          "explain": "Triệu chứng thần kinh xấu đi đột ngột (Glasgow giảm nặng) kèm huyết áp vọt cao trong khi truyền Alteplase là dấu hiệu cảnh báo tai biến xuất huyết chuyển dạng thứ phát, đòi hỏi ngừng thuốc và chụp lại CT khẩn cấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 38 tuổi mỏi yếu hai chân",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ 38 tuổi, nghề nghiệp kế toán.<br><br><b>Bệnh sử:</b> Đến khám vì mỏi mệt cơ lực hai chân diễn tiến 2 tuần nay, yếu mỏi tăng dần khiến đi lại khó khăn, kèm theo hay có cảm giác hồi hộp đánh trống ngực từng cơn, không liệt khu trú, không sốt, không ho, không đau ngực, không có rối loạn đại tiểu tiện.<br><br><b>Tiền sử:</b> Phát hiện tăng huyết áp 1 năm nay, huyết áp cao nhất tự đo 170/100 mmHg, đang dùng phối hợp Amlodipin 5 mg và Hydrochlorothiazid 25 mg ngày 1 viên nhưng kiểm soát kém, gia đình không có ai bị tăng huyết áp sớm.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh táo, mạch 88 lần/phút, huyết áp 165/95 mmHg đều hai tay, nhiệt độ 36.5 độ C, nhịp thở 18 lần/phút, SpO2 98% khí trời, BMI 21.5 kg/m2. Khám tim mạch nhịp đều, phổi âm rõ không ran, cơ lực hai chi dưới giảm nhẹ 4/5 đối xứng hai bên, phản xạ gân xương giảm đều, không có dấu hiệu Cushing, bụng mềm.",
+      "questions": [
+        {
+          "q": "Định hướng chẩn đoán tăng huyết áp ở bệnh nhân này phù hợp nhất là gì?",
+          "options": [
+            "Tăng huyết áp thứ phát",
+            "Tăng huyết áp nguyên phát độ 3",
+            "Tăng huyết áp đề kháng",
+            "Cơn tăng huyết áp khẩn cấp"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân trẻ tuổi (< 40 tuổi) bị tăng huyết áp mức độ nặng, kém kiểm soát với phác đồ 2 thuốc (trong đó có lợi tiểu) kèm mệt mỏi yếu cơ chi dưới, định hướng hàng đầu là tăng huyết áp thứ phát."
+        },
+        {
+          "q": "Hãy chọn tập hợp đúng đối với các xét nghiệm sàng lọc cần chỉ định tiếp theo cho bệnh nhân này:\n(1) Điện giải đồ máu.\n(2) Định lượng renin huyết tương.\n(3) Định lượng aldosteron huyết tương.\n(4) Tổng phân tích nước tiểu 24 giờ.",
+          "options": [
+            "(1), (2), (3)",
+            "(1), (3), (4)",
+            "(2), (3), (4)",
+            "(1), (2), (4)"
+          ],
+          "answer": 0,
+          "explain": "Tập hợp (1), (2), (3) gồm điện giải đồ (tầm soát hạ kali) kết hợp tính tỷ lệ Aldosteron/Renin (ARR) là bộ xét nghiệm sàng lọc chuẩn thức, bắt buộc để định hướng cường Aldosteron nguyên phát."
+        },
+        {
+          "q": "Kết quả xét nghiệm máu có Kali giảm nặng 2.4 mmol/L, nồng độ Aldosteron tăng cao kèm Renin giảm mạnh, tỷ lệ ARR tăng rõ rệt, siêu âm thượng thận thấy u giảm âm kích thước 1.5 cm bên trái. Bản chất sinh lý bệnh gây hạ kali máu ở bệnh nhân này?",
+          "options": [
+            "Tăng thải kali tại ống thận",
+            "Mất kali qua đường tiêu hóa",
+            "Tái phân bố kali vào tế bào",
+            "Giảm hấp thu kali tại ruột"
+          ],
+          "answer": 0,
+          "explain": "Sự bài tiết quá mức Aldosteron từ vỏ thượng thận kích thích bơm Na+/K+-ATPase và kênh ENaC ở ống lượn xa và ống góp, tăng tái hấp thu Natri và tăng đào thải Kali trực tiếp qua nước tiểu gây hạ kali máu mạn tính."
+        },
+        {
+          "q": "Thuốc hạ huyết áp nào được lựa chọn ưu tiên để kiểm soát nội khoa đặc hiệu cho bệnh nhân này?",
+          "options": [
+            "Spironolacton",
+            "Valsartan",
+            "Bisoprolol",
+            "Furosemid"
+          ],
+          "answer": 0,
+          "explain": "Spironolacton là thuốc đối kháng thụ thể mineralocorticoid đối kháng trực tiếp tác dụng của Aldosteron, là thuốc lựa chọn nội khoa đầu tay và đặc hiệu để kiểm soát cả huyết áp và kali máu trước phẫu thuật."
+        },
+        {
+          "q": "Biến chứng mạn tính nguy hiểm và phổ biến nhất của thể bệnh này nếu không được kiểm soát tốt lâu dài?",
+          "options": [
+            "Xơ hóa cơ tim và suy tim",
+            "Suy thận mạn giai đoạn cuối",
+            "Đột quỵ xuất huyết não",
+            "Đái tháo đường thứ phát"
+          ],
+          "answer": 0,
+          "explain": "Nồng độ aldosteron cao kéo dài độc lập với huyết áp gây kích thích trực tiếp quá trình viêm, lắng đọng collagen và xơ hóa lan tỏa cơ tim, dẫn đến phì đại thất trái và suy tim tiến triển nhanh chóng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi khám sức khỏe định kỳ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 72 tuổi, nghề nghiệp hưu trí.<br><br><b>Bệnh sử:</b> Đến khám sức khỏe định kỳ tại phòng khám nội khoa, hoàn toàn không có triệu chứng đau đầu, chóng mặt, hồi hộp đánh trống ngực, không đau ngực, không khó thở, đi tiểu bình thường, không có sụt cân.<br><br><b>Tiền sử:</b> Khỏe mạnh, chưa từng ghi nhận tăng huyết áp trước đây, không hút thuốc lá, không uống rượu, thói quen ăn mặn.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh táo, tiếp xúc tốt, mạch 68 lần/phút, huyết áp đo lần một là 155/75 mmHg, đo lần hai sau 15 phút nghỉ ngơi là 152/74 mmHg ở cả hai tay tư thế ngồi, nhiệt độ 36.4 độ C, nhịp thở 16 lần/phút, SpO2 97% khí trời, BMI 23.2 kg/m2. Khám thực thể: tim nhịp đều tần số 68 chu kỳ/phút, tiếng thổi tâm thu sinh lý nhẹ 2/6 ở đáy tim, phổi âm phế nang rõ rệt không ran, bụng mềm, các cơ quan ngoại vi khác âm tính.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất cho bệnh nhân này?",
+          "options": [
+            "Tăng huyết áp tâm thu đơn độc",
+            "Tăng huyết áp vô căn độ 1",
+            "Tăng huyết áp áo choàng trắng",
+            "Nghi ngờ tăng huyết áp giả tạo"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có huyết áp tâm thu ≥ 140 mmHg nhưng huyết áp tâm trương < 90 mmHg (152/74 mmHg) đo qua nhiều lần chuẩn xác, phù hợp hoàn toàn với định nghĩa tăng huyết áp tâm thu đơn độc."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính gây ra thể tăng huyết áp này ở người cao tuổi?",
+          "options": [
+            "Giảm độ đàn hồi động mạch lớn",
+            "Tăng hoạt tính hệ giao cảm",
+            "Tăng tái hấp thu natri ở thận",
+            "Phì đại lớp cơ trơn mạch máu"
+          ],
+          "answer": 0,
+          "explain": "Ở người cao tuổi, quá trình lão hóa gây xơ cứng thành mạch, lắng đọng collagen và mất các sợi elastin ở các động mạch lớn (như động mạch chủ), làm giảm độ đàn hồi và tăng áp lực tâm thu mạch máu."
+        },
+        {
+          "q": "Thăm dò cận lâm sàng cơ bản nào cần thực hiện ngay để phân tầng nguy cơ tim mạch, TRỪ?",
+          "options": [
+            "Chụp cắt lớp vi tính mạch vành",
+            "Điện tâm đồ 12 chuyển đạo",
+            "Định lượng creatinine huyết thanh",
+            "Siêu âm Doppler tim"
+          ],
+          "answer": 0,
+          "explain": "Chụp CT mạch vành không phải thăm dò cơ bản thường quy để phân tầng nguy cơ tim mạch ban đầu khi bệnh nhân không có triệu chứng đau ngực, trong khi ECG, creatinine và siêu âm tim là bắt buộc."
+        },
+        {
+          "q": "Chiến lược xử trí ban đầu phù hợp nhất cho bệnh nhân này khi các xét nghiệm cơ bản chưa phát hiện tổn thương cơ quan đích?",
+          "options": [
+            "Thay đổi lối sống đơn thuần",
+            "Thay đổi lối sống và dùng thuốc",
+            "Nhập viện điều trị nội trú",
+            "Đeo Holter huyết áp 24 giờ"
+          ],
+          "answer": 0,
+          "explain": "Đối với tăng huyết áp độ 1 ở người cao tuổi không kèm tổn thương cơ quan đích hay đái tháo đường, khuyến cáo ban đầu là thay đổi lối sống đơn thuần (giảm ăn mặn, tập thể dục) và đánh giá lại sau 1-3 tháng."
+        },
+        {
+          "q": "Nhóm thuốc hạ áp được khuyến cáo ưu tiên lựa chọn đầu tay cho thể bệnh này ở người cao tuổi?",
+          "options": [
+            "Chẹn kênh calci",
+            "Chẹn beta giao cảm",
+            "Ức chế men chuyển",
+            "Lợi tiểu quai"
+          ],
+          "answer": 0,
+          "explain": "Thuốc chẹn kênh calci nhóm dihydropyridine (như Amlodipin) hoặc lợi tiểu giống thiazide là những thuốc được chứng minh lâm sàng có hiệu quả cao nhất trong việc giảm huyết áp tâm thu đơn độc và giảm đột quỵ ở người già."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 42 tuổi đau đầu dữ dội vùng đỉnh",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ 42 tuổi, nghề nghiệp kinh doanh.<br><br><b>Bệnh sử:</b> Vào viện vì những cơn đau đầu dữ dội vùng đỉnh đầu xuất hiện đột ngột cách 4 giờ, đau kéo dài khoảng 15-20 phút, kèm vã mồ hôi đầm đìa, mặt nhợt nhạt, hồi hộp đánh trống ngực mạnh, cảm giác lo âu bồn chồn, cơn tự dịu đi, ngoài cơn bệnh nhân hoàn toàn bình thường, không sốt, không ho, không liệt khu trú, không đau tức ngực, không khó thở.<br><br><b>Tiền sử:</b> Tăng huyết áp kịch phát từng cơn 6 tháng nay, ngoài cơn huyết áp bình thường 120/80 mmHg, trong cơn huyết áp vọt cao trên 200 mmHg, chưa dùng thuốc hạ áp thường quy.<br><br><b>Khám lâm sàng:</b> Lúc vào viện (ngoài cơn) ghi nhận bệnh nhân tỉnh táo hoàn toàn, mạch 78 lần/phút, huyết áp 130/80 mmHg đều hai tay, nhiệt độ 36.6 độ C, nhịp thở 16 lần/phút, SpO2 98% khí trời, BMI 19.8 kg/m2. Khám tuyến giáp không to, tim đều, phổi âm phế nang rõ rệt không ran, bụng mềm, các cơ quan khác chưa phát hiện bất thường.",
+      "questions": [
+        {
+          "q": "Bệnh cảnh trên gợi ý nhiều nhất đến nguyên nhân tăng huyết áp thứ phát nào?",
+          "options": [
+            "U tủy thượng thận",
+            "Cường aldosteron nguyên phát",
+            "Hẹp động mạch thận",
+            "Hội chứng Cushing"
+          ],
+          "answer": 0,
+          "explain": "Tam chứng kinh điển: đau đầu dữ dội, vã mồ hôi đầm đìa, và đánh trống ngực kịch phát xuất hiện thành từng cơn trên nền huyết áp dao động dữ dội là bệnh cảnh điển hình của u tủy thượng thận (Pheochromocytoma)."
+        },
+        {
+          "q": "Xét nghiệm hóa sinh có giá trị sàng lọc cao nhất cần được chỉ định tiếp theo?",
+          "options": [
+            "Định lượng metanephrine nước tiểu",
+            "Định lượng catecholamine máu",
+            "Định lượng vanillylmandelic acid",
+            "Định lượng cortisol tự do"
+          ],
+          "answer": 0,
+          "explain": "Định lượng các dẫn xuất metanephrine tự do trong nước tiểu 24 giờ hoặc trong huyết tương có độ nhạy và độ đặc hiệu cao nhất, vượt trội hơn catecholamine tự do do tính chất bài tiết liên tục ổn định hơn."
+        },
+        {
+          "q": "Kết quả định lượng Metanephrine trong nước tiểu 24 giờ tăng rất cao trên 5 lần, chụp cắt lớp vi tính thấy khối u đặc tuyến thượng thận phải kích thước 4 cm giàu mạch máu. Nguyên tắc điều trị thuốc kiểm soát huyết áp cơ bản cho bệnh nhân này?",
+          "options": [
+            "Chẹn alpha trước chẹn beta",
+            "Chẹn beta trước chẹn alpha",
+            "Chỉ sử dụng thuốc chẹn beta",
+            "Chỉ sử dụng ức chế men chuyển"
+          ],
+          "answer": 0,
+          "explain": "Nguyên tắc bắt buộc là phải chẹn thụ thể alpha trước ít nhất 1-2 tuần để giãn mạch hoàn toàn, sau đó mới dùng chẹn beta nếu có chỉ định kiểm soát nhịp tim; dùng chẹn beta trước sẽ gây co mạch nghiêm trọng do thụ thể alpha không bị đối kháng."
+        },
+        {
+          "q": "Thuốc chẹn alpha-adrenergic thích hợp nhất được lựa chọn để chuẩn bị trước phẫu thuật cho bệnh nhân?",
+          "options": [
+            "Phenoxybenzamin",
+            "Prazosin",
+            "Propranolol",
+            "Amlodipin"
+          ],
+          "answer": 0,
+          "explain": "Phenoxybenzamin là thuốc chẹn alpha không chọn lọc tác dụng kéo dài, là lựa chọn kinh điển và tối ưu nhất để chuẩn bị tiền phẫu, giúp phong bế hoàn toàn tác dụng của catecholamine vọt dòng."
+        },
+        {
+          "q": "Biến chứng nguy hiểm nhất có thể xảy ra trong quá trình can thiệp phẫu thuật cắt bỏ khối u này nếu không được chuẩn bị nội khoa tốt?",
+          "options": [
+            "Cơn tăng huyết áp kịch phát",
+            "Sốc giảm thể tích nặng",
+            "Suy thượng thận cấp",
+            "Rung thất gây ngừng tuần hoàn"
+          ],
+          "answer": 0,
+          "explain": "Khi phẫu thuật viên động chạm, thao tác vào khối u, một lượng lớn catecholamine tích tụ trong u có thể bị phóng thích đột ngột vào hệ tuần hoàn, gây ra cơn bão tăng huyết áp kịch phát dẫn đến xuất huyết não hoặc phù phổi."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 28 tuổi đau đầu âm ỉ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 28 tuổi, nghề nghiệp kỹ sư.<br><br><b>Bệnh sử:</b> Đến khám vì đau đầu âm ỉ vùng đỉnh và chẩm diễn tiến 1 tháng nay, đau nhiều về buổi sáng, kèm mệt mỏi nhẹ, không nhìn mờ, không buồn nôn, không co giật, không đau ngực, không khó thở, đi tiểu bình thường.<br><br><b>Tiền sử:</b> Tăng huyết áp phát hiện cách 3 tháng, đang dùng phối hợp Perindopril 5 mg và Amlodipin 5 mg ngày 1 viên nhưng huyết áp vẫn dao động 160-170/100 mmHg, tiền sử gia đình không có ai bị tăng huyết áp sớm, không hút thuốc, không béo phì.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh táo, mạch 72 lần/phút, huyết áp đo tại phòng khám là 165/105 mmHg ở cả hai tay tư thế ngồi, nhiệt độ 36.5 độ C, nhịp thở 18 lần/phút, SpO2 99% khí trời, BMI 21.0 kg/m2. Khám hệ mạch: không nghe thấy tiếng thổi vùng cổ, nghe thấy tiếng thổi tâm thu cường độ 3/6 ở vùng hạ sườn trái và cạnh rốn bên trái, tim đều, phổi âm phế nang rõ rệt không ran, bụng mềm.",
+      "questions": [
+        {
+          "q": "Nguyên nhân tăng huyết áp thứ phát nào cần nghĩ tới đầu tiên ở bệnh nhân này?",
+          "options": [
+            "Hẹp động mạch thận trái",
+            "Hẹp eo động mạch chủ",
+            "Cường aldosteron nguyên phát",
+            "Viêm hẹp động mạch Takayasu"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân nam trẻ tuổi, tăng huyết áp đề kháng với phác đồ 2 thuốc tối ưu, lâm sàng nghe thấy tiếng thổi tâm thu rõ ở vùng cạnh rốn/hạ sườn trái, định hướng hàng đầu là hẹp động mạch thận trái."
+        },
+        {
+          "q": "Thăm dò cận lâm sàng hình ảnh học nào có giá trị sàng lọc ban đầu nhanh chóng và không xâm lấn?",
+          "options": [
+            "Siêu âm Doppler mạch thận",
+            "Chụp cắt lớp vi tính mạch thận",
+            "Chụp mạch thận số hóa xóa nền",
+            "Chụp cộng hưởng từ mạch thận"
+          ],
+          "answer": 0,
+          "explain": "Siêu âm Doppler động mạch thận là thăm dò sàng lọc hàng đầu, rẻ tiền, không xâm lấn, giúp đánh giá vận tốc dòng máu đỉnh tâm thu qua vị trí hẹp để định hướng tổn thương mạch thận."
+        },
+        {
+          "q": "Xét nghiệm sinh hóa máu thấy nồng độ Creatinine tăng vọt trên 30% sau khi dùng thuốc Perindopril 2 tuần. Cơ chế chính gây suy giảm chức năng thận khi dùng thuốc này ở bệnh nhân hẹp động mạch thận?",
+          "options": [
+            "Giảm áp lực lọc cầu thận",
+            "Co thắt tiểu động mạch vào",
+            "Hoại tử ống thận cấp tính",
+            "Tắc nghẽn vi mạch tại thận"
+          ],
+          "answer": 0,
+          "explain": "Thuốc ức chế men chuyển làm giãn tiểu động mạch đi cầu thận. Trong bối cảnh hẹp mạch thận, áp lực tưới máu thận giảm, việc giãn tiểu động mạch đi làm mất cơ chế bù trừ và sụt giảm nghiêm trọng áp lực lọc cầu thận."
+        },
+        {
+          "q": "Thuốc hạ huyết áp nào sau đây chống chỉ định tuyệt đối cho bệnh nhân này nếu xác định hẹp động mạch thận hai bên?",
+          "options": [
+            "Perindopril",
+            "Amlodipin",
+            "Metoprolol",
+            "Hydrochlorothiazid"
+          ],
+          "answer": 0,
+          "explain": "Thuốc ức chế men chuyển (Perindopril) chống chỉ định tuyệt đối trong hẹp động mạch thận hai bên hoặc hẹp động mạch thận ở bệnh nhân chỉ còn một thận duy nhất do nguy cơ suy thận cấp vô niệu."
+        },
+        {
+          "q": "Phương pháp can thiệp tối ưu nhất giúp kiểm soát huyết áp triệt để cho bệnh nhân trẻ tuổi này nếu xác định hẹp do loạn sản cơ sợi?",
+          "options": [
+            "Nong động mạch thận bằng bóng",
+            "Đặt stent động mạch thận trái",
+            "Phẫu thuật bắc cầu động mạch",
+            "Phẫu thuật cắt bỏ hoàn toàn thận"
+          ],
+          "answer": 0,
+          "explain": "Loạn sản cơ sợi (FMD) là nguyên nhân hẹp mạch thận phổ biến ở người trẻ. Tổn thương này đáp ứng rất tốt và có tỷ lệ thành công cao với can thiệp nong mạch bằng bóng đơn thuần (PTRA) mà không cần đặt stent."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 68 tuổi khó thở dữ dội",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ 68 tuổi, nghề nghiệp nội trợ.<br><br><b>Bệnh sử:</b> Vào viện vì khó thở dữ dội xuất hiện đột ngột cách 1 giờ khi đang nằm ngủ, khó thở nhanh nông, phải ngồi bật dậy để thở, vã mồ hôi, ho khạc ra ít dịch hồng loãng bọt, kèm tức ngực trái âm ỉ, không sốt, đi tiểu ít.<br><br><b>Tiền sử:</b> Tăng huyết áp 15 năm nay đang dùng Amlodipin 10 mg ngày 1 viên, kiểm soát huyết áp không tốt, huyết áp nền thường dao động 150/90 mmHg, không có tiền sử hen hay bệnh phổi mạn tính.<br><br><b>Khám lâm sàng:</b> Lúc vào viện ghi nhận bệnh nhân tỉnh táo, hốt hoảng, vã mồ hôi, mạch 115 lần/phút, huyết áp vọt cao 210/110 mmHg ở cả hai tay, nhiệt độ 36.7 độ C, nhịp thở 34 lần/phút, SpO2 84% với khí trời, BMI 25.2 kg/m2. Khám thực thể: co kéo cơ hô hấp phụ rõ rệt, tim đều, tiếng T3 ngựa phi rõ ở mỏm tim, nghe phổi thấy ran ẩm và ran nổ dâng lên nhanh chóng từ hai đáy phổi lên đến nửa trường phổi hai bên, gan không to, phù nhẹ hai cổ chân.",
+      "questions": [
+        {
+          "q": "Tình trạng cấp cứu tim mạch phù hợp nhất đang diễn ra ở bệnh nhân?",
+          "options": [
+            "Phù phổi cấp do tăng huyết áp",
+            "Hen phế quản cơn ác tính",
+            "Thuyên tắc phổi cấp mức độ nặng",
+            "Đợt cấp bệnh phổi tắc nghẽn"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có cơn tăng huyết áp cấp cứu vọt cao (210/110 mmHg) gây suy thất trái cấp, ứ huyết phổi cấp tính biểu hiện bằng ran ẩm dâng lên như thủy triều và khạc bọt hồng, điển hình cho phù phổi cấp."
+        },
+        {
+          "q": "Biện pháp hỗ trợ hô hấp ban đầu cần được chỉ định ngay lập tức cho bệnh nhân để cải thiện oxy máu và giảm áp lực đổ đầy thất?",
+          "options": [
+            "Thở máy không xâm nhập BiPAP",
+            "Thở oxy gọng kính lưu lượng thấp",
+            "Đặt ống nội khí quản thở máy",
+            "Thở oxy qua mặt nạ có túi dự trữ"
+          ],
+          "answer": 0,
+          "explain": "Thông khí nhân tạo không xâm nhập (BIPAP/CPAP) với áp lực dương cuối thì thở ra (PEEP) giúp mở các phế nang bị ngập dịch, cải thiện trao đổi khí và giảm lượng máu tĩnh mạch trở về tim (giảm tiền gánh)."
+        },
+        {
+          "q": "Thuốc truyền tĩnh mạch liên tục được lựa chọn ưu tiên hàng đầu để kiểm soát huyết áp nhanh chóng và giảm tiền gánh cho bệnh nhân này?",
+          "options": [
+            "Nitroglycerin",
+            "Nicardipin",
+            "Nitroprussid",
+            "Enalaprilat"
+          ],
+          "answer": 0,
+          "explain": "Nitroglycerin truyền tĩnh mạch liều cao ưu tiên lựa chọn vì tác dụng giãn tĩnh mạch hệ thống mạnh làm giảm nhanh tiền gánh, đồng thời giãn động mạch ở liều cao giúp hạ hậu gánh và cải thiện tưới máu cơ tim."
+        },
+        {
+          "q": "Thuốc lợi tiểu đường tĩnh mạch nào cần phối hợp ngay để giải quyết tình trạng quá tải dịch ở phổi và giãn mạch hệ thống?",
+          "options": [
+            "Furosemid",
+            "Hydrochlorothiazid",
+            "Spironolacton",
+            "Indapamid"
+          ],
+          "answer": 0,
+          "explain": "Lợi tiểu quai Furosemid tiêm tĩnh mạch có tác dụng giãn tĩnh mạch chức năng xuất hiện rất sớm (trong vòng vài phút) giúp giảm tải cho phổi trước khi tác dụng bài niệu thải nước xuất hiện sau 15-30 phút."
+        },
+        {
+          "q": "Xét nghiệm sinh hóa chỉ điểm sinh học nào cần làm ngay để xác định tình trạng suy tim trái cấp tính động học?",
+          "options": [
+            "NT-proBNP",
+            "Troponin T hs",
+            "Creatine Kinase MB",
+            "Định lượng Ddimer"
+          ],
+          "answer": 0,
+          "explain": "NT-proBNP là chỉ điểm sinh học nhạy nhất được phóng thích từ tâm thất khi có tình trạng căng thành cơ thất quá mức, giá trị tăng cao giúp khẳng định nguồn gốc tim mạch gây phù phổi cấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 52 tuổi khám định kỳ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 52 tuổi, nghề nghiệp công chức.<br><br><b>Bệnh sử:</b> Đến khám định kỳ tại phòng khám nội tiết, hoàn toàn không có triệu chứng đau đầu, chóng mặt, hoa mắt, không đau ngực, không khó thở, đi tiểu bình thường.<br><br><b>Tiền sử:</b> Đái tháo đường typ 2 từ 5 năm nay đang điều trị bằng Metformin 1000 mg/ngày đường huyết ổn định, khám định kỳ 3 tháng một lần huyết áp các lần trước đều dưới 130/80 mmHg, không hút thuốc lá, không uống rượu, lối sống ít vận động.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh táo, tiếp xúc tốt, thể trạng béo phì nhẹ, mạch 74 lần/phút, huyết áp đo lần một tư thế ngồi là 145/92 mmHg, đo lần hai sau 10 phút là 144/90 mmHg đều hai tay, nhiệt độ 36.5 độ C, nhịp thở 16 lần/phút, SpO2 98% khí trời, BMI 26.8 kg/m2. Khám thực thể các cơ quan tim, phổi, bụng chưa phát hiện tiếng thổi hay tổn thương bệnh lý khu trú, không phù chi dưới.",
+      "questions": [
+        {
+          "q": "Thái độ xử trí ban đầu phù hợp nhất cho bệnh nhân tăng huyết áp kèm đái tháo đường này?",
+          "options": [
+            "Tư vấn lối sống và dùng thuốc hạ áp",
+            "Thay đổi lối sống và hẹn sau 1 tháng",
+            "Đeo Holter huyết áp 24 giờ thường quy",
+            "Nhập viện điều trị nội trú ngay"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân đái tháo đường được xếp vào nhóm nguy cơ tim mạch cao. Khi huyết áp >= 140/90 mmHg, khuyến cáo khởi trị bằng thuốc hạ áp ngay lập tức kết hợp với thay đổi lối sống mà không trì hoãn."
+        },
+        {
+          "q": "Nhóm thuốc hạ huyết áp được khuyến cáo lựa chọn ưu tiên hàng đầu làm nền tảng cho bệnh nhân này?",
+          "options": [
+            "Ức chế men chuyển",
+            "Chẹn kênh calci",
+            "Lợi tiểu thiazid",
+            "Chẹn beta giao cảm"
+          ],
+          "answer": 0,
+          "explain": "Thuốc ức chế men chuyển (ACEI) hoặc chẹn thụ thể (ARB) là lựa chọn bắt buộc hàng đầu nhờ tác dụng bảo vệ tim mạch và bảo vệ thận vượt trội độc lập với hiệu quả hạ áp cơ học."
+        },
+        {
+          "q": "Mục tiêu kiểm soát huyết áp tối ưu cần đạt được lâu dài cho bệnh nhân tăng huyết áp kèm đái tháo đường theo guideline?",
+          "options": [
+            "Huyết áp < 130/80 mmHg",
+            "Huyết áp < 140/90 mmHg",
+            "Huyết áp < 120/70 mmHg",
+            "Huyết áp < 135/85 mmHg"
+          ],
+          "answer": 0,
+          "explain": "Các guideline hiện hành (ADA, ESC) đều thống nhất mục tiêu kiểm soát huyết áp ở bệnh nhân đái tháo đường là <130/80 mmHg nếu dung nạp tốt, để tối thiểu hóa biến chứng mạch máu lớn và mạch nhỏ."
+        },
+        {
+          "q": "Xét nghiệm nước tiểu nào nhạy và có giá trị nhất cần chỉ định để tầm soát sớm tổn thương cầu thận do đái tháo đường và tăng huyết áp?",
+          "options": [
+            "Tỷ lệ albumin/creatinin niệu",
+            "Định lượng protein niệu 24 giờ",
+            "Tổng phân tích nước tiểu mẫu sáng",
+            "Soi cặn lắng tế bào nước tiểu"
+          ],
+          "answer": 0,
+          "explain": "Tỷ lệ Albumin/Creatinin niệu (UACR) mẫu ngẫu nhiên buổi sáng là xét nghiệm nhạy nhất giúp phát hiện tình trạng vi albumin niệu giai đoạn sớm, khi protein niệu quy ước vẫn âm tính."
+        },
+        {
+          "q": "Cơ chế chính giúp nhóm thuốc ưu tiên lựa chọn bảo vệ chức năng thận, chậm tiến triển bệnh thận đái tháo đường?",
+          "options": [
+            "Giãn tiểu động mạch đi cầu thận",
+            "Co tiểu động mạch vào cầu thận",
+            "Giảm áp lực thẩm thấu cầu thận",
+            "Tăng tưới máu trực tiếp vỏ thận"
+          ],
+          "answer": 0,
+          "explain": "Thuốc ức chế men chuyển làm giảm nồng độ Angiotensin II, dẫn đến giãn đặc hiệu tiểu động mạch đi nhiều hơn tiểu động mạch vào, làm giảm áp lực thủy tĩnh nội cầu thận, giảm rò rỉ protein và tiêu xơ cầu thận."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 62 tuổi sưng phù hai chi dưới",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ 62 tuổi, nghề nghiệp hưu trí.<br><br><b>Bệnh sử:</b> Đến khám vì sưng phù nhẹ hai chi dưới diễn tiến 1 tuần nay, phù trắng, mềm, ấn lõm, tăng nhiều về cuối ngày, kèm theo mệt mỏi hụt hơi nhẹ khi gắng sức, tiểu ít khoảng 800 ml/24 giờ, nước tiểu nhiều bọt, không sốt, không ho, không đau ngực.<br><br><b>Tiền sử:</b> Tăng huyết áp và đái tháo đường typ 2 từ 10 năm nay điều trị bằng Amlodipin 10 mg và Metformin 1000 mg/ngày kiểm soát kém, huyết áp nền thường dao động 150/90 mmHg, ghi nhận bệnh thận mạn giai đoạn 3b cách 6 tháng.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh táo, da niêm mạc nhợt nhẹ, mạch 82 lần/phút, huyết áp đo tại phòng khám là 165/95 mmHg đều hai tay, nhiệt độ 36.4 độ C, nhịp thở 18 lần/phút, SpO2 97% khí trời, BMI 22.5 kg/m2. Khám tim phổi chưa phát hiện tiếng thổi hay ran bệnh lý, phù mềm hai cổ chân đối xứng hai bên, các cơ quan khác âm tính.<br><br><b>Xét nghiệm:</b> Creatinine 250 µmol/L; eGFR ước tính 22 ml/phút/1.73m2, Kali máu 5.4 mmol/L.",
+      "questions": [
+        {
+          "q": "Nhóm thuốc hạ huyết áp lợi tiểu nào kém hiệu quả và không được khuyến cáo lựa chọn đơn trị liệu khi mức lọc cầu thận giảm nặng (< 30 ml/phút)?",
+          "options": [
+            "Lợi tiểu thiazid",
+            "Lợi tiểu quai",
+            "Chẹn kênh calci",
+            "Chẹn beta giao cảm"
+          ],
+          "answer": 0,
+          "explain": "Lợi tiểu nhóm Thiazid mất hiệu lực hạ áp và bài niệu khi mức lọc cầu thận (eGFR) sụt giảm xuống dưới 30 ml/phút/1.73m2, do không đạt được nồng độ đủ tại vị trí tác dụng ống thận."
+        },
+        {
+          "q": "Xét nghiệm có Creatinine 250 µmol/L; eGFR ước tính 22 ml/phút/1.73m2, Kali máu 5.4 mmol/L. Thuốc lợi tiểu nào được lựa chọn ưu tiên để vừa hạ áp vừa giải quyết quá tải dịch cho bệnh nhân?",
+          "options": [
+            "Furosemid",
+            "Hydrochlorothiazid",
+            "Spironolacton",
+            "Indapamid"
+          ],
+          "answer": 0,
+          "explain": "Furosemid (lợi tiểu quai) là thuốc duy nhất duy trì được hiệu quả bài niệu mạnh mẽ ở bệnh nhân suy thận nặng (eGFR < 30), giúp tăng thải muối nước và gián tiếp hạ kali máu đang ở ngưỡng cao."
+        },
+        {
+          "q": "Mục tiêu kiểm soát huyết áp tâm thu tối ưu cho bệnh nhân tăng huyết áp có bệnh thận mạn tính kèm protein niệu theo khuyến cáo KDIGO cập nhật?",
+          "options": [
+            "Huyết áp tâm thu < 120 mmHg",
+            "Huyết áp tâm thu < 130 mmHg",
+            "Huyết áp tâm thu < 140 mmHg",
+            "Huyết áp tâm thu < 110 mmHg"
+          ],
+          "answer": 0,
+          "explain": "Khuyến cáo mới nhất của KDIGO nhấn mạnh kiểm soát huyết áp tâm thu nghiêm ngặt dưới mốc 120 mmHg (đo chuẩn tại phòng khám) giúp giảm đáng kể tỷ lệ tử vong và làm chậm tiến triển suy thận."
+        },
+        {
+          "q": "Thuốc hạ huyết áp nhóm chẹn kênh calci nào được chứng minh kiểm soát huyết áp tốt và không cần chỉnh liều theo chức năng thận cho bệnh nhân này?",
+          "options": [
+            "Amlodipin",
+            "Nifedipin",
+            "Diltiazem",
+            "Verapamil"
+          ],
+          "answer": 0,
+          "explain": "Amlodipin chuyển hóa hoàn toàn qua gan thành các chất không còn hoạt tính và thải trừ qua phân/nước tiểu, dược động học không thay đổi ở bệnh nhân suy thận nên là lựa chọn hạ áp rất an toàn."
+        },
+        {
+          "q": "Biến chứng chuyển hóa nguy hiểm và phổ biến nhất cần theo dõi sát khi phối hợp thuốc lợi tiểu quai liều cao ở bệnh nhân suy thận mạn?",
+          "options": [
+            "Hạ kali máu",
+            "Tăng natri máu",
+            "Toan chuyển hóa",
+            "Tăng canxi máu"
+          ],
+          "answer": 0,
+          "explain": "Lợi tiểu quai ức chế đồng vận chuyển Na+/K+/2Cl- ở nhánh lên quai Henle, làm tăng thải trừ kali mạnh mẽ ra nước tiểu, dễ gây biến chứng hạ kali máu nghiêm trọng nếu không bổ sung kịp thời."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi đau ngực dữ dội",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam 58 tuổi, nghề nghiệp lái xe tải.<br><br><b>Bệnh sử:</b> Vào viện vì đau ngực dữ dội xuất hiện đột ngột cách 2 giờ, đau kiểu xé rách khởi phát ở vùng sau xương ức sau đó lan nhanh ra sau lưng và vùng giữa hai bả vai, đau liên tục không giảm, vã mồ hôi, kèm theo buồn nôn, không sốt, không ho, không khó thở, đi tiểu bình thường.<br><br><b>Tiền sử:</b> Tăng huyết áp vô căn 8 năm nay điều trị bằng viên phối hợp nhưng tự bỏ thuốc 1 tháng nay, huyết áp cao nhất từng ghi nhận 180/100 mmHg, hút thuốc lá 30 bao năm.<br><br><b>Khám lâm sàng:</b> Lúc vào viện ghi nhận bệnh nhân tỉnh táo, hốt hoảng, vã mồ hôi, nhiệt độ 36.6 độ C, nhịp thở 22 lần/phút, SpO2 96% khí trời, BMI 24.2 kg/m2. Khám hệ mạch: mạch tay phải 110 lần/phút, huyết áp tay phải 195/105 mmHg; mạch tay trái 90 lần/phút, huyết áp tay trái 160/90 mmHg; mạch bẹn hai bên bắt rõ đều, tim đều, phổi âm phế nang rõ không ran, bụng mềm.",
+      "questions": [
+        {
+          "q": "Biến chứng mạch máu cấp tính nguy hiểm nào của tăng huyết áp cần nghĩ tới đầu tiên?",
+          "options": [
+            "Phình tách động mạch chủ",
+            "Hội chứng vành cấp",
+            "Thuyên tắc phổi cấp",
+            "Thủng tạng rỗng"
+          ],
+          "answer": 0,
+          "explain": "Đau ngực kiểu xé rách dữ dội lan sau lưng kèm theo sự chênh lệch huyết áp rõ rệt giữa hai tay (> 20 mmHg) ở bệnh nhân tăng huyết áp bỏ thuốc là dấu hiệu đặc trưng của phình tách động mạch chủ cấp."
+        },
+        {
+          "q": "Thăm dò cận lâm sàng hình ảnh học nào có giá trị chẩn đoán xác định nhanh chóng và chính xác nhất tại phòng cấp cứu?",
+          "options": [
+            "Chụp cắt lớp vi tính mạch chủ",
+            "Siêu âm tim qua thành ngực",
+            "Chụp X-quang ngực thẳng",
+            "Chụp cộng hưởng từ lồng ngực"
+          ],
+          "answer": 0,
+          "explain": "Chụp cắt lớp vi tính (CT) mạch chủ có tiêm thuốc cản quang là tiêu chuẩn vàng cấp cứu, giúp dựng hình toàn bộ lòng giả, lòng thật và xác định chính xác phân loại tổn thương."
+        },
+        {
+          "q": "Kết quả chụp cắt lớp vi tính mạch chủ thấy hình ảnh lách thành động mạch chủ xuống từ sau chỗ chia động mạch dưới đòn trái kéo dài đến động mạch chậu (Phân loại Stanford B). Mục tiêu kiểm soát huyết áp và nhịp tim tối ưu trong vòng 1 giờ đầu?",
+          "options": [
+            "Huyết áp < 120 mmHg và nhịp tim < 60 lần/phút",
+            "Huyết áp < 140 mmHg và nhịp tim < 70 lần/phút",
+            "Huyết áp < 110 mmHg và nhịp tim < 50 lần/phút",
+            "Huyết áp < 130 mmHg và nhịp tim < 80 lần/phút"
+          ],
+          "answer": 0,
+          "explain": "Trong phình tách động mạch chủ, mục tiêu tối thượng là giảm áp lực đỉnh (dP/dt) tác động lên thành mạch. Cần đưa huyết áp tâm thu nhanh chóng xuống dưới 120 mmHg và tần số tim dưới 60 lần/phút trong giờ đầu."
+        },
+        {
+          "q": "Thuốc truyền tĩnh mạch kiểm soát nhịp tim và lực co bóp cơ tim được lựa chọn ưu tiên hàng đầu trước khi kiểm soát huyết áp ở bệnh nhân này?",
+          "options": [
+            "Esmolol",
+            "Nicardipin",
+            "Nitroglycerin",
+            "Diltiazem"
+          ],
+          "answer": 0,
+          "explain": "Esmolol (chẹn beta ngắn truyền tĩnh mạch) phải được dùng trước để kiểm soát tần số tim dưới 60 lần/phút. Dùng các thuốc giãn mạch đơn thuần (như Nicardipin) trước sẽ gây phản xạ cường giao cảm tăng nhịp tim, làm rách thêm thành mạch."
+        },
+        {
+          "q": "Chiến lược xử trí và quản lý tiếp theo phù hợp nhất cho bệnh nhân này nếu huyết động ổn định và không có biến chứng vỡ hay thiếu máu tạng?",
+          "options": [
+            "Điều trị nội khoa bảo tồn",
+            "Phẫu thuật mở thay đoạn mạch",
+            "Can thiệp đặt stent graft",
+            "Chuyển sang dùng thuốc uống"
+          ],
+          "answer": 0,
+          "explain": "Đối với phình tách động mạch chủ phân loại Stanford B (chỉ tổn thương đoạn động mạch chủ xuống), nếu không có biến chứng đe dọa tính mạng, chiến lược ưu tiên hàng đầu là điều trị nội khoa tối ưu kiểm soát huyết áp và nhịp tim."
+        }
+      ]
+    }
+  ]
+}
