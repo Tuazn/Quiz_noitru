@@ -7,40 +7,650 @@
   "subcategory": "Huyết học",
   "cases": [
     {
-      "title": "Bệnh nhân nam 24 tuổi nổi hạch cổ không đau, sốt và sụt cân",
-      "body": "Bệnh nhân nam 24 tuổi đến khám vì nổi hạch vùng cổ trái không đau phát hiện cách đây 2 tháng, kèm theo sốt nhẹ về chiều, ra mồ hôi trộm ban đêm và sụt 5 kg trong 3 tháng (10% trọng lượng cơ thể). Tiền sử khỏe mạnh, không hút thuốc, thỉnh thoảng uống bia. Bệnh nhân nhận thấy hạch đau tức hơn sau khi uống rượu bia.<br><br><b>Khám lâm sàng:</b> Mạch 88 lần/phút, huyết áp 110/70 mmHg, nhiệt độ 37.8°C, nhịp thở 18 lần/phút, BMI 20 kg/m². Khám vùng cổ trái có 2 hạch kích thước 2x3 cm, mật độ chắc, di động hạn chế, không sưng nóng đỏ đau. Khám bụng không thấy gan lách to, phổi không rales.<br><br><b>Xét nghiệm:</b> Hb 115 g/L, bạch cầu 11 G/L, tiểu cầu 350 G/L, LDH 250 U/L, HIV âm tính.",
+      "title": "Bệnh nhân nam 24 tuổi nổi hạch vùng cổ bên trái to dần",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 24 tuổi, sinh viên.<br><br><b>Bệnh sử:</b> Đến khám vì nổi hạch ở vùng cổ bên trái to dần trong khoảng 2 tháng nay. Ban đầu hạch nhỏ, không đau, nhưng gần đây to nhanh hơn và bắt đầu cảm thấy vướng. Khoảng 3 tuần nay, bệnh nhân có các đợt sốt cao về chiều tối (39-40°C), vã mồ hôi trộm ban đêm ướt đẫm áo và sụt 7kg dù ăn uống bình thường. Bệnh nhân không ho, không khó thở, không đau bụng.<br><br><b>Tiền sử:</b> Bản thân và gia đình khỏe mạnh.<br><br><b>Khám lâm sàng:</b> Thấy hạch cổ trái thượng đòn, kích thước khoảng 4x3 cm, chắc, không đau, không di động ngoài ra sờ thấy vài hạch nhỏ hơn ở nách hai bên. Tim phổi bình thường, bụng mềm, gan lách không sờ thấy.<br><br><b>Xét nghiệm:</b> Công thức máu có Hb 110 g/L, bạch cầu 9.5 G/L, tiểu cầu 350 G/L. Tốc độ máu lắng (VS) 95 mm/giờ. X-quang ngực thẳng cho thấy hình ảnh khối trung thất rộng. Sinh thiết hạch có làm giải phẫu bệnh ghi nhận cấu trúc hạch bị xóa bởi các tế bào lympho nhỏ, xơ hóa và sự hiện diện của các tế bào lớn, hai nhân đối xứng giống \"mắt cú\", gọi là tế bào Reed-Sternberg. Hóa mô miễn dịch tế bào này dương tính với CD30 và CD15.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất với bệnh nhân là gì?",
+          "options": [
+            "U lympho Hodgkin cổ điển.",
+            "Bệnh lao hạch.",
+            "U lympho không Hodgkin tế bào B lớn lan tỏa.",
+            "Ung thư biểu mô di căn hạch."
+          ],
+          "answer": 0,
+          "explain": "Bệnh cảnh một người trẻ tuổi có hạch to không đau, triệu chứng B rầm rộ, và đặc biệt là kết quả giải phẫu bệnh tìm thấy tế bào Reed-Sternberg (dương tính với CD15, CD30) là hình ảnh kinh điển và tiêu chuẩn vàng để chẩn đoán U lympho Hodgkin cổ điển."
+        },
+        {
+          "q": "Cơ chế nào giải thích sự hiện diện của các triệu chứng B (sốt, sụt cân, mồ hôi trộm)?",
+          "options": [
+            "Sự chèn ép của khối u trung thất vào các dây thần kinh giao cảm.",
+            "Sự sản xuất và giải phóng các cytokine gây viêm (IL-1, IL-6, TNF-a) bởi các tế bào ác tính và các tế bào miễn dịch phản ứng.",
+            "Tình trạng suy tủy xương do u lympho xâm lấn.",
+            "Nhiễm trùng cơ hội do hệ miễn dịch bị suy yếu."
+          ],
+          "answer": 1,
+          "explain": "Các triệu chứng B không phải do nhiễm trùng mà là do chính bệnh ung thư gây ra. Các tế bào Reed-Sternberg và các tế bào viêm xung quanh chúng tiết ra một lượng lớn các cytokine. Các chất này tác động lên trung tâm điều nhiệt ở vùng dưới đồi gây sốt, gây ra tình trạng tăng chuyển hóa và dị hóa protein dẫn đến sụt cân, và gây ra các triệu chứng toàn thân khác như mồ hôi trộm."
+        },
+        {
+          "q": "Tế bào Reed-Sternberg có nguồn gốc từ đâu?",
+          "options": [
+            "Tế bào lympho T trưởng thành.",
+            "Đại thực bào.",
+            "Tế bào lympho B ở trung tâm mầm.",
+            "Tế bào gốc tạo máu."
+          ],
+          "answer": 2,
+          "explain": "Mặc dù tế bào Reed-Sternberg có hình thái rất đặc biệt, các nghiên cứu về di truyền và miễn dịch đã chứng minh rằng chúng có nguồn gốc từ các tế bào lympho B ở trung tâm mầm của hạch bạch huyết, vốn đã trải qua tái sắp xếp gen nhưng lại thất bại trong quá trình chết theo chương trình."
+        },
+        {
+          "q": "Bệnh nhân có nhiều vùng hạch ở cổ, nách và trung thất, đều ở phía trên cơ hoành, kèm triệu chứng B. Giai đoạn Ann Arbor phù hợp nhất là gì?",
+          "options": [
+            "IA",
+            "IIA",
+            "IIIB",
+            "IIB"
+          ],
+          "answer": 3,
+          "explain": "Tổn thương từ hai vùng hạch trở lên nhưng cùng một phía cơ hoành là giai đoạn II. Có sốt, và mồ hôi đêm hoặc sụt cân nên thêm hậu tố B, thành giai đoạn IIB."
+        },
+        {
+          "q": "Xét nghiệm chẩn đoán hình ảnh nào có giá trị nhất để đánh giá giai đoạn bệnh một cách toàn diện?",
+          "options": [
+            "PET/CT toàn thân với FDG",
+            "Siêu âm bụng",
+            "X-quang ngực đơn thuần",
+            "Chụp xương"
+          ],
+          "answer": 0,
+          "explain": "PET/CT FDG là phương tiện chủ đạo để phân giai đoạn ban đầu và đánh giá đáp ứng trong Hodgkin lymphoma vì thể hiện cả vị trí giải phẫu và hoạt tính chuyển hóa của tổn thương."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi nổi khối hạch ở bẹn phải to nhanh",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 68 tuổi.<br><br><b>Bệnh sử:</b> Đến khám vì nổi một khối hạch ở bẹn phải to nhanh trong vòng 1 tháng. Bệnh nhân cảm thấy mệt mỏi, chán ăn, nhưng không sốt, không vã mồ hôi đêm.<br><br><b>Tiền sử:</b> Tăng huyết áp.<br><br><b>Khám lâm sàng:</b> Khám thấy khối hạch bẹn phải kích thước 6x5 cm, chắc, hơi đau khi ấn, cố định vào tổ chức xung quanh. Ngoài ra, sờ thấy nhiều hạch nhỏ ở nách trái và cổ trái. Bụng mềm, lách to độ II.<br><br><b>Xét nghiệm:</b> Hb 100 g/L, WBC 7.0 G/L, Tiểu cầu 130 G/L. LDH huyết thanh 850 U/L (tăng cao). Sinh thiết trọn hạch bẹn làm giải phẫu bệnh cho thấy cấu trúc hạch bị xóa hoàn toàn và xâm lấn bởi các tế bào lympho lớn, nhân không đều, có nhiều nguyên sinh chất, phân bào nhiều. Hóa mô miễn dịch cho thấy các tế bào này dương tính với CD20, CD19, BCL-6 và âm tính với CD3, CD5, CD10.",
+      "questions": [
+        {
+          "q": "Chẩn đoán mô bệnh học phù hợp nhất là gì?",
+          "options": [
+            "U lympho Hodgkin.",
+            "U lympho không Hodgkin tế bào B lớn lan tỏa (DLBCL).",
+            "Lơ-xê-mi kinh dòng lympho (CLL).",
+            "U lympho tế bào T ngoại vi."
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh một người lớn tuổi có hạch to nhanh, lách to và nồng độ LDH tăng cao là rất gợi ý một u lympho không Hodgkin (NHL) độ ác tính cao. Kết quả hóa mô miễn dịch dương tính với các dấu ấn của dòng lympho B trưởng thành (CD19, CD20) và hình thái tế bào lớn đã xác định chẩn đoán DLBCL, thể NHL phổ biến nhất."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của loại u lympho này liên quan đến sự tăng sinh không kiểm soát của dòng tế bào nào?",
+          "options": [
+            "Tế bào diệt tự nhiên (NK cell).",
+            "Tế bào lympho T hỗ trợ (CD4+).",
+            "Tế bào lympho B trưởng thành.",
+            "Tế bào plasma."
+          ],
+          "answer": 2,
+          "explain": "DLBCL là một bệnh lý ác tính của các tế bào lympho B. Các dấu ấn CD19, CD20 là đặc trưng của dòng tế bào này. Sự tăng sinh không kiểm soát của chúng dẫn đến việc hình thành các khối u ở hạch và các cơ quan khác."
+        },
+        {
+          "q": "Nồng độ LDH tăng cao trong huyết thanh phản ánh điều gì?",
+          "options": [
+            "Tình trạng hoại tử gan do u xâm lấn.",
+            "Tình trạng tan máu tự miễn đi kèm.",
+            "Phản ứng viêm hệ thống của cơ thể.",
+            "Gánh nặng khối u lớn và tốc độ luân chuyển tế bào cao."
+          ],
+          "answer": 3,
+          "explain": "LDH (Lactate dehydrogenase) là một enzyme nội bào. Trong các bệnh ung thư có tốc độ phân chia tế bào nhanh và/hoặc có hoại tử tế bào (do khối u phát triển quá nhanh so với nguồn cung cấp máu), enzyme này sẽ được giải phóng vào máu với số lượng lớn. Do đó, nồng độ LDH được dùng như một dấu ấn sinh học phản ánh gánh nặng và mức độ ác tính của khối u."
+        },
+        {
+          "q": "Phác đồ hóa miễn dịch nào là điều trị tiêu chuẩn đầu tay cho bệnh nhân này?",
+          "options": [
+            "R-CHOP.",
+            "ABVD.",
+            "HyperCVAD.",
+            "Imatinib."
+          ],
+          "answer": 0,
+          "explain": "Phác đồ R-CHOP là tiêu chuẩn vàng trong điều trị đầu tay cho DLBCL. Phác đồ này bao gồm Rituximab (một kháng thể đơn dòng nhắm vào kháng nguyên CD20 trên bề mặt tế bào lympho B) kết hợp với phác đồ hóa trị liệu đa thuốc CHOP (Cyclophosphamide, Doxorubicin, Vincristine, Prednisone). ABVD là phác đồ cho U lympho Hodgkin."
+        },
+        {
+          "q": "Yếu tố nào sau đây KHÔNG phải là một thành phần của Chỉ số Tiên lượng Quốc tế (IPI) cho u lympho không Hodgkin độ ác tính cao?",
+          "options": [
+            "Tuổi của bệnh nhân.",
+            "Kích thước của hạch lớn nhất.",
+            "Số lượng vị trí ngoài hạch bị tổn thương.",
+            "Nồng độ LDH huyết thanh."
+          ],
+          "answer": 1,
+          "explain": "Chỉ số IPI bao gồm 5 yếu tố: Tuổi > 60, nồng độ LDH > giới hạn trên của bình thường, Toàn trạng (ECOG) >= 2, Giai đoạn Ann Arbor III/IV, và số vị trí ngoài hạch > 1. Kích thước của hạch không phải là một yếu tố trong thang điểm này."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 45 tuổi đau bụng âm ỉ vùng quanh rốn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 45 tuổi.<br><br><b>Bệnh sử:</b> Đến khám vì đau bụng âm ỉ vùng quanh rốn và thỉnh thoảng đi ngoài phân đen trong 2 tháng nay. Bệnh nhân không sốt, không sụt cân.<br><br><b>Tiền sử:</b> Chưa ghi nhận bệnh lý đặc biệt.<br><br><b>Khám lâm sàng:</b> Chưa ghi nhận bất thường đặc biệt ngoài da niêm mạc ổn, không hạch ngoại vi.<br><br><b>Xét nghiệm:</b> Nội sơ dạ dày-tá tràng phát hiện một khối loét sùi lớn ở hang vị dạ dày, bờ nham nhở. Kết quả sinh thiết cho thấy sự xâm nhập của các tế bào lympho nhỏ, đơn dạng ở lớp niêm mạc, tạo thành các tổn thương lympho-biểu mô. Nhuộm hóa mô miễn dịch các tế bào này dương tính với CD20, CD79a, BCL-2 và âm tính với CD5, CD10, Cyclin D1. Xét nghiệm tìm vi khuẩn Helicobacter pylori (H. pylori) trong mẫu sinh thiết dương tính.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất là gì?",
+          "options": [
+            "Ung thư biểu mô tuyến dạ dày.",
+            "U mô đệm đường tiêu hóa (GIST).",
+            "U lympho MALT của dạ dày.",
+            "Bệnh Crohn thể dạ dày."
+          ],
+          "answer": 2,
+          "explain": "U lympho MALT (Mucosa-Associated Lymphoid Tissue) là một loại u lympho không Hodgkin tế bào B, độ ác tính thấp, thường phát sinh từ các mô lympho ở niêm mạc, và dạ dày là vị trí phổ biến nhất. Kết quả sinh thiết và hóa mô miễn dịch rất đặc trưng cho chẩn đoán này."
+        },
+        {
+          "q": "Cơ chế bệnh sinh nào giải thích mối liên quan giữa nhiễm H. pylori và sự phát triển của loại u lympho này?",
+          "options": [
+            "H. pylori trực tiếp gây ra các đột biến gen trong tế bào lympho.",
+            "Độc tố của H. pylori có tác dụng giống yếu tố tăng trưởng đối với tế bào lympho.",
+            "H. pylori làm suy giảm hệ miễn dịch toàn thân, cho phép các tế bào u phát triển.",
+            "Tình trạng viêm mạn tính do H. pylori gây ra kích thích và tăng sinh kéo dài các tế bào lympho B tại niêm mạc dạ dày, dẫn đến nguy cơ chuyển dạng ác tính."
+          ],
+          "answer": 3,
+          "explain": "Đây là một ví dụ kinh điển về mối liên quan giữa viêm mạn tính, nhiễm trùng và ung thư. Việc nhiễm H. pylori kéo dài gây ra một đáp ứng miễn dịch tại chỗ, thu hút và kích hoạt các tế bào lympho B. Trong môi trường kích thích kháng nguyên liên tục này, một số dòng tế bào lympho B có thể mắc các lỗi di truyền và phát triển thành một quần thể ác tính phụ thuộc vào sự kích thích của H. pylori."
+        },
+        {
+          "q": "Loại u lympho này có đặc điểm gì về mặt lâm sàng?",
+          "options": [
+            "Thường là một bệnh diễn tiến chậm (indolent) và có xu hướng khu trú tại chỗ trong thời gian dài.",
+            "Luôn có độ ác tính cao và diễn tiến nhanh.",
+            "Luôn có sự xâm lấn vào tủy xương tại thời điểm chẩn đoán.",
+            "Thường biểu hiện bằng hạch to toàn thân."
+          ],
+          "answer": 0,
+          "explain": "U lympho MALT được xếp vào nhóm u lympho diễn tiến chậm. Bệnh thường phát triển tại chỗ trong nhiều năm trước khi lan rộng. Các triệu chứng thường không đặc hiệu và giống như viêm loét dạ dày. Bệnh hiếm khi có các triệu chứng B hoặc xâm lấn tủy xương ở giai đoạn đầu."
+        },
+        {
+          "q": "Đối với u lympho MALT dạ dày giai đoạn sớm và còn liên quan đến H. pylori, phương pháp điều trị đầu tay là gì?",
+          "options": [
+            "Phẫu thuật cắt bán phần dạ dày.",
+            "Điều trị tiệt trừ vi khuẩn H. pylori bằng kháng sinh.",
+            "Xạ trị vào vùng dạ dày.",
+            "Hóa trị liệu phác đồ CHOP."
+          ],
+          "answer": 1,
+          "explain": "Một đặc điểm độc đáo của u lympho MALT dạ dày là sự phụ thuộc vào H. pylori. Ở giai đoạn sớm, việc điều trị thành công H. pylori bằng phác đồ kháng sinh có thể loại bỏ yếu tố kích thích tăng sinh, dẫn đến sự thoái triển hoàn toàn của khối u ở hơn 75% bệnh nhân mà không cần hóa trị hay xạ trị. Đây là liệu pháp đầu tay."
+        },
+        {
+          "q": "Tổn thương lympho-biểu mô (lymphoepithelial lesion) có nghĩa là gì?",
+          "options": [
+            "Các tế bào ung thư biểu mô xâm nhập vào mô lympho.",
+            "Sự kết hợp của cả hai loại ung thư biểu mô và u lympho.",
+            "Các tế bào lympho ác tính xâm nhập vào và phá hủy các tuyến biểu mô của dạ dày.",
+            "Một phản ứng viêm lành tính của biểu mô."
+          ],
+          "answer": 2,
+          "explain": "Tổn thương lympho-biểu mô là dấu hiệu mô bệnh học đặc trưng của u lympho MALT. Nó mô tả hình ảnh các tế bào lympho ác tính (centrocyte-like cells) tập trung thành đám và xâm nhập vào giữa các tế bào biểu mô của các tuyến dạ dày, làm biến dạng và phá hủy cấu trúc tuyến."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi nổi nhiều hạch nhỏ ở cổ nách bẹn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi.<br><br><b>Bệnh sử:</b> Đến khám vì nổi nhiều hạch nhỏ ở cổ, nách, bẹn hai bên từ khoảng 1 năm nay. Các hạch này to lên rất chậm và không gây đau đớn. Bệnh nhân không có triệu chứng toàn thân nào khác.<br><br><b>Tiền sử:</b> Chưa ghi nhận bệnh lý đặc biệt.<br><br><b>Khám lâm sàng:</b> Thấy nhiều hạch đối xứng hai bên, kích thước 1-2 cm, chắc, di động. Lách mấp mé bờ sườn.<br><br><b>Xét nghiệm:</b> Công thức máu và LDH trong giới hạn bình thường. Sinh thiết hạch cho thấy cấu trúc hạch bị thay thế bởi các nang tân sản, chứa các tế bào lympho nhỏ (centrocyte) và một số tế bào lớn (centroblast). Hóa mô miễn dịch dương tính với CD20, CD10, BCL-2. Xét nghiệm di truyền phát hiện chuyển đoạn t(14;18).",
+      "questions": [
+        {
+          "q": "Dựa vào các đặc điểm trên, chẩn đoán phù hợp nhất là gì?",
+          "options": [
+            "U lympho Hodgkin.",
+            "U lympho Burkitt.",
+            "U lympho tế bào Mantle.",
+            "U lympho thể nang (Follicular Lymphoma)."
+          ],
+          "answer": 3,
+          "explain": "Bệnh cảnh một người lớn tuổi có hạch to toàn thân, diễn tiến rất chậm, không triệu chứng, cùng với hình ảnh mô bệnh học tạo nang và các dấu ấn miễn dịch (CD10+, BCL-2+) và di truyền t(14;18) là hoàn toàn điển hình cho U lympho thể nang, loại u lympho diễn tiến chậm phổ biến thứ hai."
+        },
+        {
+          "q": "Chuyển đoạn t(14;18) dẫn đến hậu quả phân tử nào?",
+          "options": [
+            "Tăng biểu hiện quá mức của protein BCL-2, một protein chống lại quá trình chết theo chương trình.",
+            "Hoạt hóa gen MYC.",
+            "Tạo ra gen dung hợp BCR-ABL1.",
+            "Tăng biểu hiện Cyclin D1."
+          ],
+          "answer": 0,
+          "explain": "Chuyển đoạn t(14;18) đặt gen BCL-2 (trên NST 18) bên cạnh vùng tăng cường của gen chuỗi nặng immunoglobulin (trên NST 14), một vùng rất hoạt động trong tế bào lympho B. Hậu quả là protein BCL-2 được sản xuất quá mức. BCL-2 là một protein then chốt có tác dụng ngăn chặn apoptosis, giúp các tế bào ung thư sống sót dù có bị tổn thương."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính của u lympho thể nang là gì?",
+          "options": [
+            "Tăng sinh tế bào rất nhanh.",
+            "Ức chế quá trình chết theo chương trình (apoptosis) của tế bào.",
+            "Rối loạn khả năng sửa chữa DNA.",
+            "Suy giảm miễn dịch bẩm sinh."
+          ],
+          "answer": 1,
+          "explain": "Khác với các u lympho ác tính cao có tốc độ phân chia rất nhanh, cơ chế chính của u lympho thể nang là sự \"bất tử\". Các tế bào lympho B này không chết đi theo chu trình tự nhiên, do đó chúng tích tụ dần dần theo thời gian trong các hạch bạch huyết, tủy xương và lách, gây ra bệnh."
+        },
+        {
+          "q": "Thái độ xử trí ban đầu đối với một bệnh nhân u lympho thể nang giai đoạn lan tràn nhưng không có triệu chứng và gánh nặng khối u thấp là gì?",
+          "options": [
+            "Hóa trị miễn dịch tích cực (R-CHOP).",
+            "Xạ trị vào các vùng hạch diện rộng.",
+            "Theo dõi và chờ đợi (Watch and Wait).",
+            "Ghép tế bào gốc tự thân."
+          ],
+          "answer": 2,
+          "explain": "Tương tự như CLL, đối với u lympho thể nang giai đoạn lan tràn (III-IV) nhưng không có triệu chứng và gánh nặng khối u thấp (tiêu chuẩn GELF), chiến lược \"Theo dõi và chờ đợi\" là phù hợp. Điều trị sớm không cho thấy lợi ích về sống còn và chỉ gây thêm độc tính. Điều trị chỉ bắt đầu khi bệnh nhân có triệu chứng hoặc bệnh tiến triển."
+        },
+        {
+          "q": "Mặc dù là một bệnh diễn tiến chậm, u lympho thể nang có nguy cơ biến chứng nào về lâu dài?",
+          "options": [
+            "Luôn tự thoái triển.",
+            "Gây ra hội chứng lý giải u tự phát.",
+            "Gây ra suy thận cấp.",
+            "Chuyển dạng thành một u lympho độ ác tính cao hơn, thường là DLBCL."
+          ],
+          "answer": 3,
+          "explain": "Theo thời gian, các tế bào u lympho thể nang có thể tích lũy thêm các đột biến gen khác và chuyển dạng mô học thành một loại u lympho có độ ác tính cao, thường là DLBCL. Đây là một biến cố nghiêm trọng, làm thay đổi diễn tiến bệnh từ từ sang nhanh và cần được điều trị tích cực."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 8 tuổi người châu Phi có khối u phát triển rất nhanh ở xương hàm",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 8 tuổi, người châu Phi.<br><br><b>Bệnh sử:</b> Được đưa đến viện vì một khối u phát triển rất nhanh ở vùng xương hàm bên phải trong vòng 3 tuần. Khối u làm biến dạng khuôn mặt và lung lay các răng hàm. Bệnh nhân không sốt, không sụt cân.<br><br><b>Tiền sử:</b> Chưa ghi nhận bệnh lý đặc biệt trước đó.<br><br><b>Khám lâm sàng:</b> Khám thấy khối u cứng, kích thước 7x8 cm ở góc hàm phải. Hạch cổ không to, bụng mềm, không có gan lách to.<br><br><b>Xét nghiệm:</b> Sinh thiết u cho thấy một quần thể tế bào lympho kích thước trung bình, đơn dạng, có tốc độ phân bào cực kỳ cao. Hình ảnh mô bệnh học được mô tả kinh điển là \"bầu trời sao\", với các đại thực bào lành tính (sao) nằm xen kẽ giữa các tế bào u dày đặc (bầu trời). Hóa mô miễn dịch dương tính với CD20, CD10, BCL-6 và chỉ số tăng sinh Ki-67 gần 100%. Xét nghiệm di truyền phát hiện chuyển đoạn t(8;14).",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất là gì?",
+          "options": [
+            "U lympho Burkitt.",
+            "Sarcoma xương hàm.",
+            "U lympho Hodgkin.",
+            "U nguyên bào thần kinh."
+          ],
+          "answer": 0,
+          "explain": "U lympho Burkitt là một u lympho không Hodgkin tế bào B có độ ác tính cực kỳ cao, đặc trưng bởi tốc độ phát triển nhanh nhất trong các loại ung thư ở người. Bệnh cảnh một khối u lớn ở xương hàm phát triển nhanh ở trẻ em châu Phi là hình ảnh kinh điển của thể lưu hành."
+        },
+        {
+          "q": "Hình ảnh \"bầu trời sao\" trên mô bệnh học phản ánh điều gì?",
+          "options": [
+            "Sự xâm lấn của các tế bào u vào mô mỡ.",
+            "Tốc độ tăng sinh và chết theo chương trình (apoptosis) cực kỳ cao của các tế bào u, các đại thực bào đang dọn dẹp các mảnh vỡ tế bào.",
+            "Sự hiện diện của các ổ hoại tử lớn trong khối u.",
+            "Sự sắp xếp của các tế bào u thành các cấu trúc giống như nang."
+          ],
+          "answer": 1,
+          "explain": "Hình ảnh \"bầu trời sao\" là một dấu hiệu mô bệnh học rất gợi ý. Các tế bào u (bầu trời xanh thẫm) có thời gian nhân đôi rất ngắn (dưới 24 giờ). Do tốc độ tăng sinh quá nhanh, nhiều tế bào cũng chết đi (apoptosis). Các đại thực bào lành tính (những \"ngôi sao\" sáng) có nhiệm vụ \"dọn dẹp\" các mảnh vỡ của những tế bào chết này."
+        },
+        {
+          "q": "Cơ chế bệnh sinh phân tử của u lympho Burkitt là gì?",
+          "options": [
+            "Tăng biểu hiện BCL-2.",
+            "Hoạt hóa con đường tín hiệu JAK-STAT.",
+            "Tái sắp xếp và hoạt hóa gen MYC, một gen chủ chốt điều hòa sự tăng sinh tế bào.",
+            "Nhiễm sắc thể Philadelphia."
+          ],
+          "answer": 2,
+          "explain": "Đặc điểm di truyền phân tử của u lympho Burkitt là sự chuyển đoạn liên quan đến gen MYC trên nhiễm sắc thể số 8. Phổ biến nhất là t(8;14), đặt gen MYC dưới sự kiểm soát của vùng tăng cường gen chuỗi nặng immunoglobulin, dẫn đến sự hoạt hóa liên tục của MYC. MYC là một yếu tố phiên mã chính, thúc đẩy mạnh mẽ chu trình tế bào, tăng sinh và chuyển hóa."
+        },
+        {
+          "q": "U lympho Burkitt thể lưu hành (endemic) ở châu Phi thường liên quan đến việc nhiễm loại virus nào?",
+          "options": [
+            "Virus viêm gan C (HCV).",
+            "Virus gây suy giảm miễn dịch ở người (HIV).",
+            "Human T-lymphotropic virus 1 (HTLV-1).",
+            "Virus Epstein-Barr (EBV)."
+          ],
+          "answer": 3,
+          "explain": "U lympho Burkitt thể lưu hành có mối liên quan rất chặt chẽ với nhiễm virus Epstein-Barr (EBV). EBV được cho là đóng vai trò trong việc làm bất tử hóa các tế bào lympho B, tạo điều kiện cho các sự kiện di truyền thứ cấp (như chuyển đoạn MYC) xảy ra và dẫn đến ung thư."
+        },
+        {
+          "q": "Nguyên tắc điều trị u lympho Burkitt là gì?",
+          "options": [
+            "Hóa trị liệu liều cao, ngắn ngày, đa thuốc, và dự phòng thâm nhiễm hệ thần kinh trung ương.",
+            "Theo dõi và chờ đợi.",
+            "Hóa trị liệu liều thấp, kéo dài.",
+            "Xạ trị đơn thuần."
+          ],
+          "answer": 0,
+          "explain": "Do tốc độ phát triển cực nhanh, u lympho Burkitt là một cấp cứu ung thư. Bệnh rất nhạy với hóa chất. Điều trị đòi hỏi các phác đồ hóa trị đa thuốc, liều cao, ngắn ngày và xen kẽ để tiêu diệt nhanh tế bào u và tránh kháng thuốc. Việc dự phòng thâm nhiễm hệ thần kinh trung ương bằng hóa chất tiêm nội tủy là bắt buộc vì bệnh có nguy cơ cao xâm lấn não và màng não."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi người Nhật Bản nổi ban đỏ ngứa ở thân mình",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi, người Nhật Bản.<br><br><b>Bệnh sử:</b> Đến khám vì nổi ban đỏ, ngứa ở thân mình và tăng calci máu tình cờ phát hiện trên xét nghiệm.<br><br><b>Tiền sử:</b> Chưa ghi nhận bệnh lý đặc biệt.<br><br><b>Khám lâm sàng:</b> Có hạch nách và bẹn hai bên, lách to. Sinh thiết da cho thấy sự xâm nhập của các tế bào lympho ác tính ở thượng bì.<br><br><b>Xét nghiệm:</b> Calci máu 3.1 mmol/L. Công thức máu có số lượng lympho bào tăng nhẹ, phết máu ngoại vi thấy các tế bào lympho không điển hình, nhân có hình thù kỳ dị giống như \"hình lá hoa\" (flower cells). Xét nghiệm huyết thanh dương tính với virus HTLV-1.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào là phù hợp nhất?",
+          "options": [
+            "U sùi dạng nấm (Mycosis Fungoides).",
+            "Bệnh bạch cầu/U lympho tế bào T ở người lớn (ATLL).",
+            "U lympho tế bào T ngoại vi, không đặc hiệu.",
+            "Bệnh vảy nến."
+          ],
+          "answer": 1,
+          "explain": "Sự kết hợp của tổn thương da, hạch to, lách to, tăng calci máu, và sự hiện diện của các tế bào lympho \"hình lá hoa\" ở một bệnh nhân dương tính với HTLV-1 là chẩn đoán xác định cho Bệnh bạch cầu/U lympho tế bào T ở người lớn (Adult T-cell Leukemia/Lymphoma - ATLL)."
+        },
+        {
+          "q": "Cơ chế nào giải thích tình trạng tăng calci máu ở bệnh nhân này?",
+          "options": [
+            "Tế bào u xâm lấn và phá hủy xương.",
+            "Suy thận đi kèm làm giảm thải trừ calci.",
+            "Tế bào u tiết ra một protein giống hormone cận giáp (PTHrP) hoặc các cytokine làm tăng hủy cốt bào.",
+            "Bệnh nhân ăn quá nhiều thực phẩm chứa calci."
+          ],
+          "answer": 2,
+          "explain": "Tăng calci máu là một đặc điểm rất thường gặp và là một biến chế nặng của ATLL. Cơ chế chính là do các tế bào u sản xuất ra các yếu tố thể dịch, bao gồm PTHrP và các cytokine như IL-1, TNF-alpha. Các chất này kích thích hoạt động của các hủy cốt bào, làm tăng quá trình tiêu xương và giải phóng calci vào máu."
+        },
+        {
+          "q": "Tế bào \"hình lá hoa\" (flower cell) là đặc điểm hình thái học của loại tế bào nào?",
+          "options": [
+            "Tế bào Reed-Sternberg.",
+            "Nguyên bào tủy.",
+            "Tế bào B trong u lympho thể nang.",
+            "Tế bào lympho T ác tính bị nhiễm HTLV-1."
+          ],
+          "answer": 3,
+          "explain": "Tế bào \"hình lá hoa\" là tên gọi mô tả hình thái đặc trưng của các tế bào lympho T CD4+ ác tính trong bệnh ATLL. Nhân của chúng có nhiều thùy, múi sâu, tạo ra hình ảnh giống như một bông hoa hoặc lá cỏ ba lá."
+        },
+        {
+          "q": "Virus HTLV-1 (Human T-lymphotropic virus 1) là một retrovirus. Nó gây ung thư thông qua cơ chế nào?",
+          "options": [
+            "Các protein của virus (như Tax) làm bất ổn bộ gen và hoạt hóa các con đường tín hiệu tăng sinh của tế bào T.",
+            "Mang một gen gây ung thư (oncogene) của virus.",
+            "Gây ra tình trạng suy giảm miễn dịch mạn tính.",
+            "Gây viêm mạn tính ở da."
+          ],
+          "answer": 0,
+          "explain": "HTLV-1 không mang oncogene và không gây ung thư bằng cách chèn vào một vị trí cố định. Thay vào đó, nó tích hợp vào bộ gen của tế bào T và sản xuất ra các protein virus, trong đó protein Tax đóng vai trò quan trọng nhất. Tax hoạt động như một yếu tố hoạt hóa phiên mã, làm rối loạn chu trình tế bào, ức chế apoptosis và thúc đẩy sự tăng sinh không kiểm soát của tế bào T bị nhiễm."
+        },
+        {
+          "q": "ATLL là bệnh phổ biến ở các vùng địa lý nào?",
+          "options": [
+            "Bắc Mỹ và Châu Âu.",
+            "Tây Nam Nhật Bản, vùng Caribe, và một số vùng ở Châu Phi.",
+            "Úc và New Zealand.",
+            "Vùng Địa Trung Hải."
+          ],
+          "answer": 1,
+          "explain": "ATLL là một bệnh có sự phân bố địa lý rất đặc trưng, chỉ lưu hành ở những vùng có tỷ lệ nhiễm virus HTLV-1 cao, bao gồm Tây Nam Nhật Bản, các đảo quốc vùng Caribe, Trung và Nam Mỹ, và một số khu vực ở Trung Phi."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi mệt mỏi và da xanh có tiền sử u lympho Waldenström",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi.<br><br><b>Bệnh sử:</b> Đến khám vì mệt mỏi và da xanh. Bệnh nhân có tiền sử được chẩn đoán U lympho Waldenström (tăng Macroglobulin máu) 5 năm trước nhưng chưa điều trị.<br><br><b>Tiền sử:</b> U lympho Waldenström chẩn đoán cách đây 5 năm.<br><br><b>Khám lâm sàng:</b> Khám ghi nhận hạch cổ, nách, bẹn to và lách rất to.<br><br><b>Xét nghiệm:</b> Công thức máu: Hb 75 g/L, Tiểu cầu 80 G/L. Nghiệm pháp Coombs trực tiếp dương tính mạnh (+++). Bilirubin gián tiếp và LDH tăng nhẹ. Số lượng hồng cầu lưới tăng cao.",
+      "questions": [
+        {
+          "q": "Tình trạng thiếu máu của bệnh nhân hiện tại có nguyên nhân chính là gì?",
+          "options": [
+            "Xâm lấn tủy xương do u lympho.",
+            "Mất máu mạn tính qua đường tiêu hóa.",
+            "Thiếu máu tan máu tự miễn (AIHA).",
+            "Suy thận mạn."
+          ],
+          "answer": 2,
+          "explain": "Bằng chứng về tan máu rất rõ ràng: Nghiệm pháp Coombs trực tiếp dương tính mạnh (chứng tỏ có kháng thể trên bề mặt hồng cầu), tăng sản phẩm giáng hóa của hồng cầu (bilirubin gián tiếp, LDH), và tăng đáp ứng của tủy xương (hồng cầu lưới tăng). Đây là hình ảnh điển hình của thiếu máu tan máu tự miễn, một biến chứng thường gặp của các bệnh u lympho tế bào B."
+        },
+        {
+          "q": "Cơ chế gây ra tan máu tự miễn trong các bệnh lý tăng sinh lympho là gì?",
+          "options": [
+            "Các tế bào lympho ác tính trực tiếp \"ăn\" các tế bào hồng cầu.",
+            "Các paraprotein (IgM) làm tăng độ nhớt máu và phá hủy hồng cầu.",
+            "Lách to gây cường lách, bắt giữ và phá hủy hồng cầu.",
+            "Hệ miễn dịch bị rối loạn do bệnh lý ác tính, các tế bào lympho B (cả lành tính và ác tính) sản xuất ra các tự kháng thể chống lại kháng nguyên trên bề mặt hồng cầu."
+          ],
+          "answer": 3,
+          "explain": "Các bệnh lý tăng sinh lympho B (như CLL, u lympho Waldenström) thường đi kèm với sự rối loạn chức năng của hệ miễn dịch. Các tế bào B mất khả năng tự điều hòa và có thể sản xuất ra các tự kháng thể tấn công chính các tế bào của cơ thể, trong đó phổ biến là kháng thể chống hồng cầu (gây tan máu) và chống tiểu cầu (gây xuất huyết giảm tiểu cầu)."
+        },
+        {
+          "q": "U lympho Waldenström là một bệnh lý tăng sinh của dòng tế bào nào?",
+          "options": [
+            "Tế bào lympho tương bào (lymphoplasmacytic cell).",
+            "Tế bào tương bào (plasma cell).",
+            "Tế bào lympho T.",
+            "Nguyên bào tủy."
+          ],
+          "answer": 0,
+          "explain": "U lympho Waldenström (hay u lympho dạng tương bào) là một bệnh ác tính của dòng tế bào lympho B đã biệt hóa một phần theo hướng tương bào. Do đó, các tế bào này có đặc điểm hình thái lai giữa một lympho bào và một tương bào, và có khả năng sản xuất globulin miễn dịch."
+        },
+        {
+          "q": "Đặc điểm sinh học quan trọng nhất của U lympho Waldenström là gì?",
+          "options": [
+            "Luôn có tổn thương tiêu xương.",
+            "Sản xuất một lượng lớn globulin miễn dịch đơn dòng type IgM.",
+            "Gây ra suy thận cấp.",
+            "Diễn tiến rất nhanh và cấp tính."
+          ],
+          "answer": 1,
+          "explain": "Đặc điểm định nghĩa của U lympho Waldenström là sự xâm lấn tủy xương của các tế bào lympho tương bào và sự hiện diện của một protein đơn dòng IgM trong huyết thanh ở bất kỳ nồng độ nào. Nồng độ IgM cao là nguyên nhân gây ra nhiều biến chứng của bệnh."
+        },
+        {
+          "q": "Biến chứng nào sau đây liên quan trực tiếp đến nồng độ IgM cao trong máu?",
+          "options": [
+            "Tăng calci máu.",
+            "Hội chứng ly giải u.",
+            "Hội chứng tăng độ nhớt (Hyperviscosity syndrome).",
+            "Bệnh mảnh ghép chống chủ."
+          ],
+          "answer": 2,
+          "explain": "IgM là một phân tử globulin miễn dịch có kích thước rất lớn (pentamer). Khi nồng độ của nó trong máu tăng rất cao, nó làm tăng đáng kể độ nhớt của huyết tương. Hội chứng tăng độ nhớt có thể gây ra các triệu chứng thần kinh (nhìn mờ, đau đầu, lú lẫn), chảy máu bất thường, và suy tim. Đây là một cấp cứu huyết học."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi khó thở và phù ở mặt cổ hai tay ngày càng tăng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì khó thở và phù ở mặt, cổ, hai tay ngày càng tăng trong 1 tuần. Bệnh nhân có ho khan, cảm giác nặng ngực. Bệnh nhân không sốt, không có hạch ngoại vi sờ thấy.<br><br><b>Tiền sử:</b> Chưa ghi nhận bệnh lý đặc biệt.<br><br><b>Khám lâm sàng:</b> Khám thấy bệnh nhân có vẻ mặt \"phù áo khoác\", cổ bạnh, các tĩnh mạch ở cổ và thành ngực nổi rõ, ngoằn ngoèo.<br><br><b>Xét nghiệm:</b> X-quang và CT ngực cho thấy một khối u rất lớn ở trung thất trước, chèn ép vào khí quản và tĩnh mạch chủ trên. Bệnh nhân được sinh thiết u trung thất qua nội soi. Kết quả giải phẫu bệnh là U lympho tế bào B nguyên phát trung thất (Primary mediastinal B-cell lymphoma).",
+      "questions": [
+        {
+          "q": "Tình trạng cấp cứu mà bệnh nhân đang gặp phải được gọi là gì?",
+          "options": [
+            "Tràn dịch màng tim cấp.",
+            "Suy hô hấp cấp do hen phế quản.",
+            "Thuyên tắc phổi diện rộng.",
+            "Hội chứng chèn ép tĩnh mạch chủ trên (Superior Vena Cava Syndrome)."
+          ],
+          "answer": 3,
+          "explain": "Bệnh cảnh phù vùng đầu mặt cổ và chi trên, kèm theo tuần hoàn bàng hệ nổi rõ ở thành ngực là các dấu hiệu kinh điển của Hội chứng chèn ép tĩnh mạch chủ trên, một cấp cứu trong ung thư học. Nguyên nhân là do một khối u trong trung thất (phổ biến nhất là ung thư phổi và u lympho) chèn ép vào tĩnh mạch này."
+        },
+        {
+          "q": "Cơ chế chính gây ra các triệu chứng của hội chứng này là gì?",
+          "options": [
+            "Khối u chèn ép từ bên ngoài vào tĩnh mạch chủ trên, cản trở sự trở về của máu từ đầu, cổ và hai chi trên về tim.",
+            "Huyết khối hình thành bên trong lòng tĩnh mạch chủ trên.",
+            "Phản ứng dị ứng gây phù nề toàn bộ vùng đầu mặt cổ.",
+            "Suy tim phải cấp."
+          ],
+          "answer": 0,
+          "explain": "Tĩnh mạch chủ trên là một tĩnh mạch lớn, có thành mỏng và áp lực thấp, nằm trong lồng ngực và được bao quanh bởi các cấu trúc cứng (xương ức) và các hạch bạch huyết. Do đó, nó rất dễ bị chèn ép bởi các khối u lân cận. Sự chèn ép này làm tăng áp lực tĩnh mạch ở phần trên của cơ thể, gây phù và tuần hoàn bàng hệ."
+        },
+        {
+          "q": "U lympho tế bào B nguyên phát trung thất là một loại u lympho không Hodgkin. Nó thường gặp ở đối tượng nào?",
+          "options": [
+            "Người già trên 70 tuổi.",
+            "Phụ nữ trẻ (30-40 tuổi).",
+            "Trẻ em dưới 10 tuổi.",
+            "Nam giới trung niên."
+          ],
+          "answer": 1,
+          "explain": "U lympho tế bào B nguyên phát trung thất là một thực thể riêng biệt, có các đặc điểm sinh học nằm giữa DLBCL và U lympho không Hodgkin thể xơ nốt. Bệnh có đặc điểm dịch tễ học nổi bật là thường gặp ở phụ nữ trẻ tuổi."
+        },
+        {
+          "q": "Ngoài việc điều trị đặc hiệu u lympho, biện pháp nào có thể được áp dụng để giải quyết tình trạng chèn ép cấp cứu?",
+          "options": [
+            "Chỉ theo dõi",
+            "Chỉ dùng lợi tiểu",
+            "Ổn định chức năng sống, can thiệp giải ép khi cần và điều trị giảm khối u khẩn",
+            "Luôn xạ trị trước khi lấy mô"
+          ],
+          "answer": 2,
+          "explain": "Hội chứng tĩnh mạch chủ trên nặng cần ổn định chức năng sống, nâng đầu cao, thở oxy, lợi tiểu, trường hợp tắc nghẽn nặng nề đe dọa tính mạng có thể can thiệp đặt stent tĩnh mạch chủ trên để giải ép tạm thời. Sau đó điều trị đặc hiệu bằng hóa trị liều cao, khối u thường nhạy cảm và nhỏ lại nhanh chóng."
+        },
+        {
+          "q": "Hướng điều trị hóa miễn dịch cho loại u lympho này thường tương tự như loại u lympho nào?",
+          "options": [
+            "U lympho Hodgkin.",
+            "U lympho thể nang.",
+            "U lympho MALT.",
+            "U lympho tế bào B lớn lan tỏa (DLBCL)."
+          ],
+          "answer": 3,
+          "explain": "Do có nhiều đặc điểm sinh học và lâm sàng tương đồng với DLBCL, phác đồ điều trị tiêu chuẩn cho U lympho tế bào B nguyên phát trung thất thường là các phác đồ hóa-miễn dịch tích cực tương tự như DLBCL, ví dụ R-CHOP hoặc các phác đồ liều cao hơn như DA-EPOCH-R."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 35 tuổi nhiễm HIV 5 năm lú lẫn đau đầu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 35 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì lú lẫn, đau đầu và yếu nửa người trái tiến triển trong 2 tuần.<br><br><b>Tiền sử:</b> Nhiễm HIV 5 năm, không tuân thủ điều trị ARV.<br><br><b>Khám lâm sàng:</b> Khám có dấu hiệu màng não, liệt dây thần kinh sọ số VII trung ương bên trái và liệt nửa người trái sức cơ 3/5. Không có hạch ngoại vi to rõ rệt.<br><br><b>Xét nghiệm:</b> Chụp MRI sọ não có tiêm thuốc đối quang từ cho thấy một khối u đơn độc, kích thước 4cm ở bán cầu đại não phải, ngấm thuốc dạng viền không đều và có hiệu ứng khối choán chỗ, phù não xung quanh. Xét nghiệm dịch não tủy cho thấy tăng protein, và đặc biệt là dương tính với DNA của virus Epstein-Barr (EBV) bằng kỹ thuật PCR.",
+      "questions": [
+        {
+          "q": "Chẩn đoán có khả năng cao nhất ở bệnh nhân này là gì?",
+          "options": [
+            "U lympho nguyên phát hệ thần kinh trung ương.",
+            "Áp xe não do Toxoplasma.",
+            "Viêm não do virus Herpes.",
+            "U màng não."
+          ],
+          "answer": 0,
+          "explain": "Ở một bệnh nhân nhiễm HIV có tổn thương choán chỗ trong não, hai chẩn đoán phân biệt hàng đầu là áp xe não do Toxoplasma và U lympho nguyên phát TKTW. Hình ảnh khối u đơn độc (thay vì nhiều như trong Toxoplasma) và đặc biệt là EBV-DNA dương tính trong dịch não tủy gần như khẳng định chẩn đoán u lympho."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của loại u lympho này ở bệnh nhân HIV là gì?",
+          "options": [
+            "Virus HIV trực tiếp gây đột biến các tế bào não.",
+            "Tình trạng suy giảm miễn dịch nặng do HIV, đặc biệt là mất chức năng của tế bào lympho T, cho phép các tế bào lympho B nhiễm EBV tăng sinh không kiểm soát.",
+            "Tác dụng phụ của thuốc điều trị ARV.",
+            "Di căn của một u lympho từ nơi khác đến não."
+          ],
+          "answer": 1,
+          "explain": "U lympho nguyên phát TKTW liên quan đến HIV là một ung thư định nghĩa giai đoạn AIDS. Cơ chế chính là do sự mất kiểm soát của hệ miễn dịch. Ở người bình thường, tế bào T kiểm soát các tế bào B nhiễm EBV. Khi HIV phá hủy các tế bào T CD4+, các tế bào B nhiễm EBV này có thể tăng sinh tự do, tích lũy đột biến và phát triển thành u lympho."
+        },
+        {
+          "q": "Việc phát hiện DNA của EBV trong dịch não tủy có ý nghĩa gì?",
+          "options": [
+            "Chắc chắn là nhiễm trùng não do EBV.",
+            "Không có giá trị chẩn đoán.",
+            "Là một dấu hiệu có độ đặc hiệu rất cao, hỗ trợ mạnh mẽ cho chẩn đoán U lympho nguyên phát TKTW ở bệnh nhân suy giảm miễn dịch.",
+            "Cho thấy bệnh nhân có nguy cơ cao bị bệnh bạch cầu đơn nhân nhiễm trùng."
+          ],
+          "answer": 2,
+          "explain": "Virus Epstein-Barr (EBV) có mối liên quan nhân quả rất chặt chẽ với sự phát triển của u lympho nguyên phát TKTW ở bệnh nhân suy giảm miễn dịch. Do đó, việc tìm thấy DNA của virus này trong dịch não tủy (một môi trường vô trùng) của một bệnh nhân có khối u não là một bằng chứng cực kỳ mạnh mẽ cho chẩn đoán, với độ đặc hiệu trên 95%."
+        },
+        {
+          "q": "Phương pháp điều trị nền tảng cho u lympho nguyên phát TKTW là gì?",
+          "options": [
+            "Phẫu thuật cắt bỏ toàn bộ khối u.",
+            "Điều trị nhắm trúng đích bằng Rituximab đơn thuần.",
+            "Xạ trị toàn não đơn thuần.",
+            "Hóa trị liệu toàn thân liều cao có khả năng thấm qua hàng rào máu não (ví dụ: Methotrexate liều cao)."
+          ],
+          "answer": 3,
+          "explain": "Do các hóa chất thông thường không qua được hàng rào máu não, việc điều trị đòi hỏi phải sử dụng các phác đồ hóa trị liệu toàn thân dựa trên các thuốc có khả năng thâm nhập tốt vào TKTW, trong đó Methotrexate liều cao là trụ cột. Rituximab cũng thường được kết hợp. Xạ trị có vai trò củng cố sau hóa trị."
+        },
+        {
+          "q": "Tại sao phẫu thuật cắt bỏ u thường không được khuyến cáo là điều trị đầu tay?",
+          "options": [
+            "Vì bệnh thường có bản chất đa ổ, xâm lấn lan tỏa, việc cắt bỏ hoàn toàn là không thể và không cải thiện tiên lượng.",
+            "Vì u thường nằm ở các vị trí sâu, khó tiếp cận.",
+            "Vì nguy cơ chảy máu trong mổ rất cao.",
+            "Vì u sẽ tái phát rất nhanh ngay tại vị trí mổ."
+          ],
+          "answer": 0,
+          "explain": "Khác với nhiều loại u não khác, u lympho nguyên phát TKTW thường có tính chất xâm lấn sâu và lan tỏa vào nhu mô não xung quanh, không có ranh giới rõ ràng. Do đó, việc phẫu thuật cắt bỏ triệt để là không khả thi. Sinh thiết não để chẩn đoán xác định là cần thiết, nhưng cắt bỏ toàn bộ khối u không mang lại lợi ích về sống còn và có thể gây tổn thương thần kinh nặng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi ngứa dữ dội và xuất hiện mảng da đỏ thâm nhiễm",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 30 tuổi.<br><br><b>Bệnh sử:</b> Đến khám vì ngứa dữ dội và xuất hiện các mảng da đỏ, thâm nhiễm, bong vảy ở vùng thân mình không được che nắng. Các tổn thương này đã có từ vài năm trước nhưng gần đây lan rộng và dày lên.<br><br><b>Tiền sử:</b> Chưa ghi nhận bệnh lý đặc biệt.<br><br><b>Khám lâm sàng:</b> Khám thấy các mảng da (plaque) và một vài khối u (tumor) sùi loét trên da.<br><br><b>Xét nghiệm:</b> Sinh thiết da cho thấy sự xâm nhập dày đặc của các tế bào lympho không điển hình ở lớp thượng bì và trung bì nông, tạo thành các vi áp-xe Pautrier. Hóa mô miễn dịch xác định đây là các tế bào lympho T CD4+.",
+      "questions": [
+        {
+          "q": "Bệnh nhân này mắc bệnh gì?",
+          "options": [
+            "Bệnh vảy nến thể mảng.",
+            "U sùi dạng nấm (Mycosis Fungoides).",
+            "Bệnh phong.",
+            "Lupus ban đỏ hệ thống."
+          ],
+          "answer": 1,
+          "explain": "U sùi dạng nấm (Mycosis Fungoides) là thể phổ biến nhất của u lympho tế bào T tại da (Cutaneous T-cell Lymphoma). Bệnh cảnh lâm sàng với các tổn thương da đa dạng (mảng, u), diễn tiến mạn tính và kết quả sinh thiết da đặc trưng đã xác định chẩn đoán."
+        },
+        {
+          "q": "U sùi dạng nấm là một loại u lympho có đặc điểm gì?",
+          "options": [
+            "Là một u lympho tế bào B diễn tiến nhanh.",
+            "Là một bệnh do nhiễm nấm ở da.",
+            "Là một u lympho tế bào T tại da, diễn tiến rất chậm qua nhiều năm.",
+            "Luôn liên quan đến nhiễm virus HIV."
+          ],
+          "answer": 2,
+          "explain": "Tên gọi \"U sủi dạng nấm\" là một tên lịch sử gây nhầm lẫn; bệnh không liên quan gì đến nấm. Đây là một bệnh ác tính của các tế bào lympho T trưởng thành khu trú tại da. Bệnh có đặc điểm diễn tiến rất chậm, thường kéo dài hàng chục năm, tiến triển từ các tổn thương dạng chàm (vết) đến các tổn thương thâm nhiễm dày hơn (mảng) và cuối cùng là các khối u."
+        },
+        {
+          "q": "\"Vi áp-xe Pautrier\" là dấu hiệu mô bệnh học đặc trưng, nó mô tả điều gì?",
+          "options": [
+            "Các mủ nhỏ chứa đầy bạch cầu trung tính.",
+            "Sự lắng đọng của các phức hợp miễn dịch.",
+            "Sự hoại tử của các nang lông.",
+            "Sự tập trung của các tế bào lympho T ác tính thành các đám nhỏ bên trong lớp thượng bì."
+          ],
+          "answer": 3,
+          "explain": "Vi áp-xe Pautrier là một dấu hiệu mô bệnh học kinh điển của U sùi dạng nấm. Đó là hình ảnh các tế bào lympho T ác tính (tế bào Sézary-Lutzner) tập hợp thành các cụm nhỏ trong lớp thượng bì, không phải là một áp-xe thực sự chứa mủ."
+        },
+        {
+          "q": "Diễn tiến tự nhiên của U sùi dạng nấm thường qua các giai đoạn nào?",
+          "options": [
+            "Giai đoạn vết/mảng (patch/plaque), giai đoạn u (tumor), và giai đoạn lan tràn toàn thân.",
+            "Giai đoạn mạn tính, giai đoạn tăng tốc, giai đoạn chuyển cấp.",
+            "Giai đoạn tại chỗ, giai đoạn di căn hạch, giai đoạn di căn xa.",
+            "Giai đoạn sớm và giai đoạn muộn."
+          ],
+          "answer": 0,
+          "explain": "Diễn tiến lâm sàng cổ điển của bệnh trải qua 3 giai đoạn: Giai đoạn vết (patch stage) với các tổn thương phẳng, không thâm nhiễm; Giai đoạn mảng (plaque stage) khi các tổn thương dày lên, có thể bong vảy; và Giai đoạn u (tumor stage) khi các khối u thực sự hình thành trên da. Ở giai đoạn muộn, bệnh có thể lan đến hạch, máu và các cơ quan nội tạng."
+        },
+        {
+          "q": "Đối với bệnh ở giai đoạn sớm (chỉ có tổn thương dạng mảng), phương pháp điều trị nào thường được ưu tiên?",
+          "options": [
+            "Hóa trị liệu toàn thân.",
+            "Các liệu pháp điều trị tại da (corticosteroid bôi, PUVA, xạ trị tia điện tử toàn thân).",
+            "Ghép tế bào gốc.",
+            "Kháng thể đơn dòng Rituximab."
+          ],
+          "answer": 1,
+          "explain": "Vì bệnh ở giai đoạn sớm thường khu trú ở da, các phương pháp điều trị tại chỗ là lựa chọn hàng đầu. Các liệu pháp này nhằm mục đích tiêu diệt các tế bào lympho ác tính tại da trong khi hạn chế độc tính toàn thân. Hóa trị toàn thân chỉ dành cho bệnh ở giai đoạn tiến triển hoặc kháng trị."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 24 tuổi nổi hạch vùng cổ trái không đau",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 24 tuổi.<br><br><b>Bệnh sử:</b> Đến khám vì nổi hạch vùng cổ trái không đau phát hiện cách đây 2 months, kèm theo sốt nhẹ về chiều, ra mồ hôi trộm ban đêm và sụt 5 kg trong 3 tháng (10% trọng lượng cơ thể). Bệnh nhân nhận thấy hạch đau tức hơn sau khi uống rượu bia.<br><br><b>Tiền sử:</b> Khỏe mạnh, không hút thuốc, thỉnh thoảng uống bia.<br><br><b>Khám lâm sàng:</b> Mạch 88 lần/phút, huyết áp 110/70 mmHg, nhiệt độ 37.8°C, nhịp thở 18 lần/phút, BMI 20 kg/m². Khám vùng cổ trái có 2 hạch kích thước 2x3 cm, mật độ chắc, di động hạn chế, không sưng nóng đỏ đau. Khám bụng không thấy gan lách to, phổi không rales.<br><br><b>Xét nghiệm:</b> Hb 115 g/L, bạch cầu 11 G/L, tiểu cầu 350 G/L, LDH 250 U/L, HIV âm tính. Kết quả giải phẫu bệnh có sự hiện diện của tế bào Reed-Sternberg.",
       "questions": [
         {
           "q": "Chẩn đoán định hướng có khả năng cao nhất?",
           "options": [
-            "U lympho Hodgkin",
-            "U lympho không Hodgkin",
             "Viêm hạch do lao",
+            "U lympho không Hodgkin",
+            "U lympho Hodgkin",
             "Tăng bạch cầu đơn nhân nhiễm trùng"
           ],
-          "answer": 0,
+          "answer": 2,
           "explain": "Bệnh nhân trẻ tuổi, có hạch cổ không đau, triệu chứng B rõ rệt (sốt, mồ hôi trộm, sụt cân) và đặc biệt là dấu hiệu hạch đau sau uống rượu (dấu hiệu đặc hiệu nhưng hiếm gặp) rất điển hình của u lympho Hodgkin. Các nguyên nhân nhiễm trùng hoặc lao không giải thích triệt để tính chất hạch và dấu hiệu đau do rượu."
         },
         {
-          "q": "Đặc điểm vi thể học ác tính mang tính chuẩn đoán kinh điển nhất của bệnh lý này?",
+          "q": "Đặc điểm vi thể học ác tính mang tính chẩn đoán kinh điển nhất của bệnh lý này?",
           "options": [
             "Tế bào lympho T không điển hình",
-            "Tế bào Reed-Sternberg",
+            "Thể vùi trong nhân tế bào",
             "Hình ảnh bầu trời sao",
-            "Thể vùi trong nhân tế bào"
+            "Tế bào Reed-Sternberg"
           ],
-          "answer": 1,
+          "answer": 3,
           "explain": "Sự hiện diện của tế bào Reed-Sternberg (tế bào khổng lồ đa nhân hoặc có nhân chia múi, nhân hạt lớn như mắt cú) trên nền các tế bào viêm phản ứng là tiêu chuẩn vàng chẩn đoán u lympho Hodgkin. Hình ảnh bầu trời sao thuộc u lympho Burkitt."
         },
         {
           "q": "Phương pháp cận lâm sàng tối ưu để chẩn đoán xác định bệnh?",
           "options": [
-            "Chọc hút tế bào bằng kim nhỏ hạch",
+            "Sinh thiết trọn hạch",
             "Sinh thiết tủy xương",
             "Chụp PET/CT toàn thân",
-            "Sinh thiết trọn hạch"
+            "Chọc hút tế bào bằng kim nhỏ hạch"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "Sinh thiết trọn hạch (cắt bỏ toàn bộ một hạch) là tiêu chuẩn bắt buộc để đánh giá cấu trúc mô bệnh học và hóa mô miễn dịch. Chọc hút kim nhỏ (FNA) chỉ lấy được tế bào học, không đủ để phân loại u lympho."
         },
         {
@@ -58,82 +668,82 @@
           "q": "Nếu sau điều trị bệnh nhân xuất hiện ho khan, khó thở tiến triển, tác nhân nào có khả năng cao nhất gây biến chứng này?",
           "options": [
             "Doxorubicin",
-            "Bleomycin",
             "Vinblastine",
+            "Bleomycin",
             "Dacarbazine"
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "Bleomycin nổi tiếng với độc tính tích lũy gây viêm phổi kẽ và xơ phổi, biểu hiện lâm sàng là ho khan và khó thở. Doxorubicin (Adriamycin) gây độc cơ tim, trong khi Vinblastine thường gây độc thần kinh ngoại biên."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nữ 68 tuổi khối hạch bẹn to nhanh, sốt không rõ nguyên nhân",
-      "body": "Bệnh nhân nữ 68 tuổi nhập viện vì khối sưng to nhanh ở vùng bẹn phải trong 3 tuần nay, kèm theo mệt mỏi nhiều và sốt 38.5°C không rõ nguyên nhân. Tiền sử đái tháo đường typ 2 đang dùng metformin, không dị ứng thuốc.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, mạch 100 lần/phút, huyết áp 130/80 mmHg, nhiệt độ 38.5°C, nhịp thở 20 lần/phút, SpO₂ 96%. Khám vùng bẹn phải có khối hạch dính thành chùm kích thước 5x6 cm, mật độ cứng, ấn đau tức nhẹ. Không sờ thấy hạch cổ hay nách, gan lách không sờ đụng.<br><br><b>Cận lâm sàng:</b> Hb 100 g/L, bạch cầu 14 G/L, tiểu cầu 150 G/L, creatinin 90 μmol/L, LDH 650 U/L, canxi toàn phần 2.4 mmol/L.",
+      "title": "Bệnh nhân nữ 68 tuổi có khối sưng to nhanh ở vùng bẹn phải",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 68 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì khối sưng to nhanh ở vùng bẹn phải trong 3 tuần nay, kèm theo mệt mỏi nhiều và sốt 38.5°C không rõ nguyên nhân.<br><br><b>Tiền sử:</b> Đái tháo đường typ 2 đang dùng metformin, không dị ứng thuốc.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, mạch 100 lần/phút, huyết áp 130/80 mmHg, nhiệt độ 38.5°C, nhịp thở 20 lần/phút, SpO2 96%. Khám vùng bẹn phải có khối hạch dính thành chùm kích thước 5x6 cm, mật độ cứng, ấn đau tức nhẹ. Không sờ thấy hạch cổ hay nách, gan lách không sờ chạm.<br><br><b>Xét nghiệm:</b> Hb 100 g/L, bạch cầu 14 G/L, tiểu cầu 150 G/L, creatinin 90 µmol/L, LDH 650 U/L, canxi toàn phần 2.4 mmol/L.",
       "questions": [
         {
           "q": "Phân loại u lympho nào phù hợp nhất với diễn tiến lâm sàng cấp tính ở bệnh nhân này?",
           "options": [
-            "U lympho tế bào B lớn lan tỏa",
+            "U lympho nguyên bào lympho",
             "U lympho thể nang",
             "U lympho Burkitt",
-            "U lympho nguyên bào lympho"
+            "U lympho tế bào B lớn lan tỏa"
           ],
-          "answer": 0,
+          "answer": 3,
           "explain": "Ở người lớn tuổi, một khối hạch ngoại vi phát triển rất nhanh đi kèm triệu chứng toàn thân và nồng độ LDH tăng cao gợi ý u lympho ác tính độ ác tính cao, phổ biến nhất là u lympho tế bào B lớn lan tỏa (DLBCL). U lympho thể nang tiến triển chậm; Burkitt thường gặp ở trẻ em hoặc thanh niên."
         },
         {
           "q": "Yếu tố nào sau đây KHÔNG thuộc thang điểm tiên lượng IPI (International Prognostic Index)?",
           "options": [
-            "Tuổi trên 60",
             "Số lượng bạch cầu tăng cao",
+            "Tuổi trên 60",
             "Nồng độ LDH huyết thanh tăng",
             "Giai đoạn bệnh III hoặc IV"
           ],
-          "answer": 1,
-          "explain": "Thang điểm IPI tiên lượng DLBCL gồm 5 yếu tố (APLES): Tuổi >60 (Age), Tình trạng toàn thân ECOG ≥2 (Performance status), nồng độ LDH tăng (LDH), vị trí ngoài hạch >1 (Extranodal), và Giai đoạn Ann Arbor III/IV (Stage). Số lượng bạch cầu không nằm trong thang điểm này."
+          "answer": 0,
+          "explain": "Thang điểm IPI tiên lượng DLBCL gồm 5 yếu tố (APLES): Tuổi >60 (Age), Tình trạng toàn trạng ECOG >= 2 (Performance status), nồng độ LDH tăng (LDH), vị trí ngoài hạch >1 (Extranodal), và Giai đoạn Ann Arbor III/IV (Stage). Số lượng bạch cầu không nằm trong thang điểm này."
         },
         {
           "q": "Phương pháp chẩn đoán hình ảnh tối ưu nhất để chẩn đoán giai đoạn trước điều trị?",
           "options": [
             "Chụp cắt lớp vi tính ngực bụng",
-            "Chụp cộng hưởng từ tiểu khung",
             "Chụp PET/CT toàn thân",
+            "Chụp cộng hưởng từ tiểu khung",
             "Siêu âm hạch vùng bẹn"
           ],
-          "answer": 2,
+          "answer": 1,
           "explain": "PET/CT sử dụng FDG là phương pháp nhạy và đặc hiệu nhất để đánh giá chính xác các vùng hạch và ngoài hạch tổn thương, giúp phân chẩn giai đoạn chuẩn xác nhất cho DLBCL theo hướng dẫn hiện hành."
         },
         {
           "q": "Phác đồ hóa trị nền tảng kết hợp miễn dịch được ưu tiên chỉ định?",
           "options": [
-            "Phác đồ R-CHOP",
-            "Phác đồ ABVD",
             "Phác đồ VD-PACE",
+            "Phác đồ ABVD",
+            "Phác đồ R-CHOP",
             "Điều trị Ibrutinib đơn trị"
           ],
-          "answer": 0,
-          "explain": "Phác đồ R-CHOP (Rituximab, Cyclophosphamide, Doxorubicin, Vincristine, Prednisone) là phác đồ chuẩn cho DLBCL từ nhiều thập kỷ nay, giúp cải thiện rõ rệt tỷ lệ sống còn so với hóa trị đơn thuần."
+          "answer": 2,
+          "explain": "Phác đồ R-CHOP (Rituximab, Cyclophosphamide, Doxorubicin, Vincristine, Prednisone) là phác đồ chuẩn cho DLBCL từ nhiều thập kỷ nay, giúp cải thiện rõ rệt tỷ lệ sống còn toàn bộ so với hóa trị đơn thuần."
         },
         {
-          "q": "Ngay sau chu kỳ hóa trị đầu tiên, bệnh nhân có thiểu niệu, kali máu 6.5 mmol/L, axit uric 750 μmol/L. Biến chứng cấp tính nào đang xảy ra?",
+          "q": "Ngay sau chu kỳ hóa trị đầu tiên, bệnh nhân có thiếu niệu, kali máu 6.5 mmol/L, axit uric 750 µmol/L. Biến chứng cấp tính nào đang xảy ra?",
           "options": [
-            "Hội chứng ly giải u",
+            "Bệnh lý thận do đái tháo đường cấp",
             "Suy thận do thuốc cản quang",
             "Nhiễm khuẩn huyết nặng",
-            "Bệnh lý thận do đái tháo đường cấp"
+            "Hội chứng ly giải u"
           ],
-          "answer": 0,
+          "answer": 3,
           "explain": "Suy giảm chức năng thận cấp tính kèm tăng kali và tăng axit uric máu ở bệnh nhân có khối u lớn phát triển nhanh và nhạy cảm với hóa trị là biểu hiện kinh điển của hội chứng ly giải u, đe dọa ngừng tim do rối loạn điện giải."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nam 55 tuổi phát hiện nhiều hạch nhỏ cổ và nách không triệu chứng",
-      "body": "Bệnh nhân nam 55 tuổi đi khám sức khỏe định kỳ tình cờ phát hiện nhiều hạch nhỏ vùng nách và cổ hai bên. Bệnh nhân hoàn toàn không có triệu chứng sốt, sụt cân hay ra mồ hôi trộm. Tiền sử tăng huyết áp đang dùng amlodipine.<br><br><b>Khám lâm sàng:</b> Mạch 75 lần/phút, huyết áp 125/80 mmHg, nhiệt độ 37°C. Sờ thấy nhiều hạch vùng cổ và nách, kích thước lớn nhất 1.5x2 cm, mật độ dai, di động dễ, không đau. Không có mảng xuất huyết, gan lách không to.<br><br><b>Xét nghiệm:</b> Hb 135 g/L, bạch cầu 7.5 G/L, tiểu cầu 220 G/L, chức năng gan thận bình thường, LDH 180 U/L. Sinh thiết hạch cổ cho kết quả u lympho không Hodgkin tế bào B, độ ác tính thấp.",
+      "title": "Bệnh nhân nam 55 tuổi phát hiện nhiều hạch nhỏ vùng nách và cổ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Bệnh sử:</b> Đi khám sức khỏe định kỳ tình cờ phát hiện nhiều hạch nhỏ vùng nách và cổ hai bên. Bệnh nhân hoàn toàn không có triệu chứng sốt, sụt cân hay ra mồ hôi trộm.<br><br><b>Tiền sử:</b> Tăng huyết áp đang dùng amlodipine.<br><br><b>Khám lâm sàng:</b> Mạch 75 lần/phút, huyết áp 125/80 mmHg, nhiệt độ 37°C. Sờ thấy nhiều hạch vùng cổ và nách, kích thước lớn nhất 1.5x2 cm, mật độ dai, di động dễ, không đau. Không có mảng xuất huyết, gan lách không to.<br><br><b>Xét nghiệm:</b> Hb 135 g/L, bạch cầu 7.5 G/L, tiểu cầu 220 G/L, chức năng gan thận bình thường, LDH 180 U/L. Sinh thiết hạch cổ cho kết quả u lympho không Hodgkin tế bào B, độ ác tính thấp.",
       "questions": [
         {
-          "q": "Chẩn đoán giải phẫu bệnh có khả năng cao nhất tương ứng lâm sàn?",
+          "q": "Chẩn đoán giải phẫu bệnh có khả năng cao nhất tương ứng lâm sàng?",
           "options": [
             "U lympho thể nang",
             "U lympho Burkitt",
@@ -147,22 +757,22 @@
           "q": "Bất thường di truyền học đặc trưng nhất trong cơ chế sinh bệnh?",
           "options": [
             "t(8;14) quá biểu hiện c-MYC",
-            "t(11;14) quá biểu hiện Cyclin D1",
             "t(14;18) quá biểu hiện BCL-2",
+            "t(11;14) quá biểu hiện Cyclin D1",
             "t(9;22) tạo gen lai BCR-ABL"
           ],
-          "answer": 2,
+          "answer": 1,
           "explain": "Đột biến chuyển vị t(14;18) gặp trong khoảng 85-90% u lympho thể nang, đưa gen BCL-2 (gen kháng thoái hóa tế bào) vào vùng hoạt động mạnh của chuỗi nặng immunoglobulin, ức chế apoptosis tế bào B."
         },
         {
           "q": "Phương pháp đánh giá sự xâm lấn của bệnh vào cơ quan tạo máu?",
           "options": [
             "Chọc hút tủy xương",
-            "Sinh thiết tủy xương",
             "Định lượng immunoglobulin huyết thanh",
+            "Sinh thiết tủy xương",
             "Chụp cộng hưởng từ sọ não"
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "U lympho thể nang thường có xâm lấn tủy xương ngay tại thời điểm chẩn đoán. Sinh thiết tủy xương là xét nghiệm bắt buộc để đánh giá tổn thương xâm lấn này vì có tính đại diện mô học cao hơn chọc hút tế bào."
         },
         {
@@ -170,10 +780,10 @@
           "options": [
             "Phác đồ R-CHOP lập tức",
             "Ghép tế bào gốc tự thân",
-            "Chiến lược theo dõi và chờ đợi",
-            "Xạ trị phác đồ tia xạ toàn thân"
+            "Xạ trị phác đồ tia xạ toàn thân",
+            "Chiến lược theo dõi và chờ đợi"
           ],
-          "answer": 2,
+          "answer": 3,
           "explain": "Với u lympho tiến triển chậm, không triệu chứng, khối u gánh nặng thấp (ít hạch lớn), chiến lược \"watch and wait\" (theo dõi và chờ đợi) được áp dụng chuẩn mực, vì hóa trị sớm không cải thiện tỷ lệ sống còn toàn bộ."
         },
         {
@@ -190,8 +800,8 @@
       ]
     },
     {
-      "title": "Bệnh nhân nam 18 tuổi đau bụng cấp, khối u bụng to nhanh trong 2 tuần",
-      "body": "Bệnh nhân nam 18 tuổi nhập viện cấp cứu vì đau trướng bụng và nổi một khối lớn ở mạng mỡ phải tiến triển rất nhanh trong 2 tuần. Bệnh nhân không có tiền sử nội khoa, không dị ứng.<br><br><b>Khám lâm sàng:</b> Mạch 110 lần/phút, huyết áp 100/60 mmHg, nhiệt độ 37.5°C, nhịp thở 24 lần/phút. Bụng trướng, gõ đục vùng thấp, sờ thấy khối lổn nhổn kích thước 10x15 cm ở hạ sườn phải lan xuống hố chậu, ấn đau nhẹ. Không dấu sao mạch, gan lách không sờ rõ ranh giới.<br><br><b>Xét nghiệm:</b> Hb 105 g/L, bạch cầu 15 G/L, tiểu cầu 110 G/L, creatinin 120 μmol/L, axit uric 650 μmol/L, LDH 1200 U/L. Siêu âm có khối u đặc vùng hồi manh tràng kèm dịch ổ bụng lượng vừa.",
+      "title": "Bệnh nhân nam 18 tuổi đau trướng bụng và nổi một khối lớn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 18 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện cấp cứu vì đau trướng bụng và nổi một khối lớn ở mảng mỡ phải tiến triển rất nhanh trong 2 tuần.<br><br><b>Tiền sử:</b> Không có tiền sử nội khoa, không dị ứng.<br><br><b>Khám lâm sàng:</b> Mạch 110 lần/phút, huyết áp 100/60 mmHg, nhiệt độ 37.5°C, nhịp thở 24 lần/phút. Bụng trướng, gõ đục vùng thấp, sờ thấy khối lớn nhổn nhở kích thước 10x15 cm ở hạ sườn phải lan xuống hố chậu, ấn đau nhẹ. Không dấu sao mạch, gan lách không sờ rõ ranh giới.<br><br><b>Xét nghiệm:</b> Hb 105 g/L, bạch cầu 15 G/L, tiểu cầu 110 G/L, creatinin 120 µmol/L, axit uric 650 µmol/L, LDH 1200 U/L. Siêu âm có khối u đặc vùng hồi manh tràng kèm dịch bụng lượng vừa. Kết quả sinh thiết khối u ghi nhận hình ảnh đại thực bào ăn xác tế bào chết nằm xen kẽ giữa nền tế bào lympho ác tính.",
       "questions": [
         {
           "q": "Phân type u lympho ác tính nào có tốc độ phân chia tế bào nhanh nhất phù hợp bệnh cảnh?",
@@ -208,36 +818,33 @@
           "q": "Đặc điểm mô bệnh học kinh điển trên tiêu bản sinh thiết khối u?",
           "options": [
             "Tế bào hình bắp rang",
-            "Hình ảnh bầu trời sao",
             "Thể vùi trong nguyên sinh chất",
+            "Hình ảnh bầu trời sao",
             "Tế bào đa nhân khổng lồ"
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "Hình ảnh \"bầu trời sao\" (starry sky) là dấu hiệu kinh điển của u lympho Burkitt, tạo bởi các đại thực bào ăn xác tế bào chết (các ngôi sao sáng) nằm xen kẽ giữa nền tế bào lympho ác tính đồng nhất bắt màu đậm (bầu trời đêm)."
         },
         {
           "q": "Bước xử trí ưu tiên hàng đầu ngay khi nhập viện trước khi có phác đồ hóa trị?",
           "options": [
             "Phẫu thuật cắt bỏ khối u hồi manh tràng",
-            "Xạ trị cấp cứu giảm áp ổ bụng",
-            "Bù dịch tĩnh mạch và dùng thuốc hạ axit uric",
-            "Sinh thiết tủy xương để chẩn đoán giai đoạn"
+            "Xạ trị cấp cứu giảm áp bụng",
+            "Sinh thiết tủy xương để chẩn đoán giai đoạn",
+            "Bù dịch tĩnh mạch và dùng thuốc hạ axit uric"
           ],
-          "answer": 2,
-          "explain": "Với khối u lớn, sinh trưởng cực nhanh và nồng độ LDH, axit uric đã tăng cao, bệnh nhân nguy cơ cực lớn (hoặc đang có) hội chứng ly giải u tự phát. Việc hồi sức, bù dịch mạnh và hạ aicit uric (allopurinol hoặc rasburicase) là tối khẩn cấp để bảo vệ thận."
+          "answer": 3,
+          "explain": "With a large tumor, fast growth and elevated LDH and uric acid levels, the patient is at extremely high risk of spontaneous tumor lysis syndrome. Aggressive hydration and uric acid-lowering therapy (allopurinol or rasburicase) are critical to protect the kidneys."
         },
         {
           "q": "Các yếu tố nguy cơ hình thành hội chứng ly giải u bao gồm các mệnh đề sau: (1) Kích thước khối u lớn. (2) Nồng độ LDH tăng rất cao. (3) Tốc độ nhân lên của tế bào ác tính nhanh. (4) Bệnh nhân có tiền sử suy thượng thận. Tập hợp các mệnh đề ĐÚNG là:",
-          "type": "multi",
           "options": [
             "(1), (2), (3)",
             "(1), (3), (4)",
             "(2), (3), (4)",
             "(1), (2), (4)"
           ],
-          "answer": [
-            0
-          ],
+          "answer": 0,
           "explain": "Các yếu tố (1), (2), (3) đều làm tăng gánh nặng tế bào vỡ ra giải phóng chất nội bào gây hội chứng ly giải u. Suy thượng thận không liên quan đến sinh bệnh học của hội chứng này. Do đó tập hợp (1), (2), (3) đúng."
         },
         {
@@ -254,41 +861,41 @@
       ]
     },
     {
-      "title": "Bệnh nhân nữ 45 tuổi đau thượng vị, đầy bụng khó tiêu 6 tháng",
-      "body": "Bệnh nhân nữ 45 tuổi đến khám vì đau tức vùng thượng vị âm ỉ, đầy bụng khó tiêu kéo dài 6 tháng nay, thỉnh thoảng ợ hơi. Tiền sử không có viêm loét dạ dày trước đây, không dùng NSAID.<br><br><b>Khám lâm sàng:</b> Mạch 80 lần/phút, huyết áp 110/70 mmHg, nhiệt độ 36.8°C, BMI 22 kg/m². Bụng mềm, ấn tức nhẹ vùng thượng vị, không có đề kháng thành bụng, gan lách không to, hạch ngoại vi không sờ chạm.<br><br><b>Cận lâm sàng:</b> Công thức máu bình thường, phân không có hồng cầu ẩn. Nội soi dạ dày tá tràng phát hiện một tổn thương dạng loét trợt gồ ghề ở hang vị, sinh thiết làm giải phẫu bệnh cho kết quả <b>u lympho mô biểu mô liên kết với niêm mạc (MALT lymphoma)</b>.",
+      "title": "Bệnh nhân nữ 45 tuổi đau tức vùng thượng vị âm ỉ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 45 tuổi.<br><br><b>Bệnh sử:</b> Đến khám vì đau tức vùng thượng vị âm ỉ, đầy bụng khó tiêu kéo dài 6 tháng nay, thỉnh thoảng ợ hơi.<br><br><b>Tiền sử:</b> Không có viêm loét dạ dày trước đây, không dùng NSAID.<br><br><b>Khám lâm sàng:</b> Mạch 80 lần/phút, huyết áp 110/70 mmHg, nhiệt độ 36.8°C, BMI 22 kg/m². Bụng mềm, ấn tức nhẹ vùng thượng vị, không có đề kháng thành bụng, gan lách không to, hạch ngoại vi không sờ chạm.<br><br><b>Xét nghiệm:</b> Công thức máu bình thường, phân không có hồng cầu ẩn. Nội soi dạ dày tá tràng phát hiện một tổn thương dạng loét trợt gồ ghề ở hang vị, sinh thiết làm giải phẫu bệnh cho kết quả u lympho mô biểu mô liên kết với niêm mạc (MALT lymphoma).",
       "questions": [
         {
           "q": "Tác nhân vi sinh vật nào có liên quan mật thiết nhất đến cơ chế bệnh sinh?",
           "options": [
-            "Helicobacter pylori",
-            "Epstein-Barr virus",
             "Cytomegalovirus",
+            "Epstein-Barr virus",
+            "Helicobacter pylori",
             "Human papillomavirus"
           ],
-          "answer": 0,
+          "answer": 2,
           "explain": "U lympho MALT dạ dày đa phần có liên quan chặt chẽ với tình trạng nhiễm khuẩn Helicobacter pylori. EBV liên quan đến u Burkitt hoặc u lympho ở người suy giảm miễn dịch."
         },
         {
           "q": "Cơ chế bệnh sinh cốt lõi gây hình thành loại u lympho này?",
           "options": [
             "Suy giảm miễn dịch tế bào tiên phát",
-            "Kích thích kháng nguyên vi khuẩn gây viêm mạn tính",
+            "Độc tính hóa học trực tiếp lên niêm mạc",
             "Đột biến gen di truyền từ gia đình",
-            "Độc tính hóa học trực tiếp lên niêm mạc"
+            "Kích thích kháng nguyên vi khuẩn gây viêm mạn tính"
           ],
-          "answer": 1,
+          "answer": 3,
           "explain": "Vi khuẩn H. pylori gây viêm niêm mạc mạn tính, kích thích liên tục hệ thống lympho T và B tại chỗ. Sự kích thích kháng nguyên kéo dài này dẫn đến tăng sinh đơn dòng ác tính tế bào B, hình thành u lympho MALT."
         },
         {
           "q": "Biện pháp điều trị đầu tay ưu tiên được khuyến cáo?",
           "options": [
-            "Phẫu thuật cắt bán phần dạ dày",
             "Phác đồ diệt Helicobacter pylori",
+            "Phẫu thuật cắt bản phần dạ dày",
             "Hóa trị phác đồ CHOP",
             "Truyền kháng thể đơn dòng kháng CD20"
           ],
-          "answer": 1,
-          "explain": "Ở giai đoạn sớm, chỉ cần phác đồ kháng sinh tiệt trừ H. pylori có thể làm thoái lui hoàn toàn u lympho MALT ở 70-80% bệnh nhân mà không cần dùng đến hóa chất, tia xạ hay phẫu thuật cắt dạ dày."
+          "answer": 0,
+          "explain": "Ở giai đoạn sớm, chỉ cần phác đồ kháng sinh tiệt trừ H. pylori có thể làm thoái lui hoàn toàn u lympho MALT ở 70-80%_bệnh nhân mà không cần dùng đến hóa chất, tia xạ hay phẫu thuật cắt dạ dày."
         },
         {
           "q": "Chỉ định nội soi dạ dày kiểm tra lại hợp lý nhất sau khi hoàn thành điều trị ban đầu?",
@@ -305,39 +912,39 @@
           "q": "Nếu bệnh nhân không đáp ứng với liệu pháp kháng sinh hoặc u tiến triển sâu, bước xử trí tiếp theo?",
           "options": [
             "Cắt toàn bộ dạ dày cấp cứu",
-            "Xạ trị khu trú vùng dạ dày hoặc hóa trị",
             "Dùng corticosteroid tĩnh mạch liều cao",
+            "Xạ trị khu trú vùng dạ dày hoặc hóa trị",
             "Thay huyết tương"
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "Khi điều trị diệt HP thất bại, HP âm tính ngay từ đầu, hoặc tổn thương xâm lấn sâu qua thành dạ dày, xạ trị đích vùng dạ dày là tiêu chuẩn điều trị cứu vãn, mang lại tỷ lệ kiểm soát bệnh rất cao. Các hóa trị, liệu pháp miễn dịch cũng được cân nhắc, ít khi chỉ định mổ cắt dạ dày như trước đây."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nam 62 tuổi mảng ban đỏ, tróc vảy toàn thân 2 năm",
-      "body": "Bệnh nhân nam 62 tuổi đến khám da liễu vì xuất hiện nhiều mảng ban đỏ, tróc vảy và ngứa ngáy dữ dội toàn thân rải rác từ 2 năm nay, đã bôi nhiều loại corticoid tại chỗ nhưng không thuyên giảm. Tiền sử tăng lipid máu đang dùng rosuvastatin.<br><br><b>Khám lâm sàng:</b> Sinh hiệu ổn định, da toàn thân có nhiều mảng đỏ thâm nhiễm, ranh giới rõ, xen kẽ các nốt sẩn khối u ở vùng thân mình. Không sờ thấy hạch ngoại vi to rõ rệt, không sốt.<br><br><b>Cận lâm sàng:</b> Hb 140 g/L, bạch cầu 8.5 G/L (trong đó có <b>15% tế bào lympho có nhân gấp khúc hình cuộn não</b>), tiểu cầu 250 G/L, chức năng gan thận bình thường.",
+      "title": "Bệnh nhân nam 62 tuổi xuất hiện nhiều mảng ban đỏ tróc vảy",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi.<br><br><b>Bệnh sử:</b> Đến khám da liễu vì xuất hiện nhiều mảng ban đỏ, tróc vảy và ngứa ngáy dữ dội toàn thân rải rác từ 2 năm nay, đã bôi nhiều loại corticoid tại chỗ nhưng không thuyên giảm.<br><br><b>Tiền sử:</b> Tăng lipid máu đang dùng rosuvastatin.<br><br><b>Khám lâm sàng:</b> Sinh hiệu ổn định, da toàn thân có nhiều mảng đỏ thâm nhiễm, ranh giới rõ, xen kẽ các nốt sẩn khối u ở vùng thân mình. Không sờ thấy hạch ngoại vi to rõ rệt, không sốt.<br><br><b>Xét nghiệm:</b> Hb 140 g/L, bạch cầu 8.5 G/L (trong đó có 15% tế bào lympho có nhân gấp khúc hình cuộn não), tiểu cầu 250 G/L, chức năng gan thận bình thường. Sinh thiết tổn thương da cho thấy sự thâm nhiễm của quần thể lympho ác tính.",
       "questions": [
         {
           "q": "Chẩn đoán bệnh lý huyết học ác tính phù hợp nhất?",
           "options": [
-            "Mycosis fungoides / Hội chứng Sézary",
+            "Bệnh bạch cầu cấp dòng tủy biểu hiện da",
             "U lympho tế bào B lớn nguyên phát ở da",
             "U lympho Hodgkin biểu hiện ngoài hạch",
-            "Bệnh bạch cầu cấp dòng tủy biểu hiện da"
+            "Mycosis fungoides / Hội chứng Sézary"
           ],
-          "answer": 0,
+          "answer": 3,
           "explain": "Bệnh cảnh mảng ban đỏ có vảy mạn tính, tiến triển thành nốt sẩn u, đi kèm tế bào lympho nhân cuộn não trong máu là biểu hiện kinh điển của Mycosis Fungoides (MF) và thể lơ xê mi của nó là Hội chứng Sézary."
         },
         {
           "q": "Cơ chế bệnh sinh bắt nguồn từ sự tăng sinh đơn dòng của quần thể tế bào nào?",
           "options": [
-            "Tế bào lympho B trưởng thành",
             "Tế bào lympho T CD4+",
+            "Tế bào lympho B trưởng thành",
             "Tế bào diệt tự nhiên (NK)",
             "Tế bào lympho T CD8+"
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "Mycosis Fungoides là một dạng u lympho tế bào T ngoại vi biểu hiện nguyên phát ở da. Tế bào ác tính bắt nguồn từ tế bào T hỗ trợ có dấu ấn CD4+ mang đặc tính hướng da (epidermotropism)."
         },
         {
@@ -360,45 +967,45 @@
             "Ghép tủy xương đồng loài ngay lập tức"
           ],
           "answer": 2,
-          "explain": "Điều trị MF giai đoạn sớm chủ yếu là các liệu pháp nhắm vào da (skin-directed therapy) như thoa corticosteroid, mechlorethamine, hoặc liệu pháp tia cực tím (PUVA, UVB) để giảm độc tính. Hóa trị toàn thân chỉ dùng cho giai đoạn muộn."
+          "explain": "Điều trị MF giai đoạn sớm chủ yếu là các liệu pháp nhằm vào da (skin-directed therapy) như thoa corticosteroid, mechlorethamine, hoặc liệu pháp tia cực tím (PUVA, UVB) để giảm độc tính. Hóa trị toàn thân chỉ dùng cho giai đoạn muộn."
         },
         {
           "q": "Yếu tố nào sau đây là dấu hiệu của việc tiên lượng bệnh chuyển biến rất xấu?",
           "options": [
-            "Xuất hiện hạch lympho sâu to và thâm nhiễm tạng nội",
+            "Tăng mỡ máu thoáng qua",
             "Đỏ da toàn thân do giãn mạch sinh lý",
             "Viêm nang lông thứ phát",
-            "Tăng mỡ máu thoáng qua"
+            "Xuất hiện hạch lympho sâu to và thâm nhiễm tạng nội"
           ],
-          "answer": 0,
+          "answer": 3,
           "explain": "MF thường tiến triển chậm khu trú tại da trong nhiều năm. Sự xuất hiện của tế bào u trong hạch lympho trung tâm, tủy xương hoặc các cơ quan nội tạng đánh dấu giai đoạn tiến triển mạnh, tiên lượng chuyển biến rất tồi tệ."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nam 40 tuổi HIV/AIDS, đau đầu dữ dội, lú lẫn và liệt nửa người",
-      "body": "Bệnh nhân nam 40 tuổi, có tiền sử nhiễm HIV/AIDS không tuân thủ điều trị ARV, nhập viện vì <b>đau đầu dữ dội, lú lẫn và yếu nửa người trái</b> diễn tiến dần trong 2 tuần. Bệnh nhân không sốt, không ho.<br><br><b>Khám lâm sàng:</b> Mạch 85 lần/phút, huyết áp 140/90 mmHg, nhiệt độ 37°C. Bệnh nhân lơ mơ, Glasgow 13 điểm, liệt mềm nửa người trái cơ lực 3/5, không có dấu hiệu cổ cứng, đáy mắt có phù gai thị. Không có hạch ngoại vi to.<br><br><b>Xét nghiệm:</b> CD4 45 tb/mm³, Hb 100 g/L, bạch cầu 3.2 G/L.<br><br><b>MRI sọ não có thuốc tương phản:</b> Một khối choáng chỗ kích thước 4x4 cm ở bán cầu phải, bắt thuốc cản quang dạng viền đồng nhất, phù não xung quanh.<br><br><b>PCR dịch não tủy:</b> Dương tính với Epstein-Barr virus (EBV)",
+      "title": "Bệnh nhân nam 40 tuổi nhiễm HIV/AIDS lú lẫn và yếu nửa người trái",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì đau đầu dữ dội, lú lẫn và yếu nửa người trái diễn tiến dần trong 2 tuần. Bệnh nhân không sốt, không ho.<br><br><b>Tiền sử:</b> Nhiễm HIV/AIDS không tuân thủ điều trị ARV.<br><br><b>Khám lâm sàng:</b> Bệnh nhân lơ mơ, Glasgow 13 điểm, liệt mềm nửa người trái cơ lực 3/5, không có dấu hiệu cổ cứng, đáy mắt có phù gai thị. Không có hạch ngoại vi to.<br><br><b>Xét nghiệm:</b> CD4 45 tb/mm³, Hb 100 g/L, bạch cầu 3.2 G/L. MRI sọ não có thuốc tương phản cho thấy một khối choáng chỗ kích thước 4x4 cm ở bán cầu phải, bắt thuốc cản quang dạng viền đồng nhất, phù não xung quanh. PCR dịch não tủy dương tính với Epstein-Barr virus (EBV).",
       "questions": [
         {
           "q": "Chẩn đoán nội khoa nghĩ đến nhiều nhất?",
           "options": [
-            "Viêm não do Toxoplasma",
             "U lympho thần kinh trung ương nguyên phát",
+            "Viêm não do Toxoplasma",
             "U nguyên bào thần kinh đệm đa hình",
             "Áp xe não do vi khuẩn kỵ khí"
           ],
-          "answer": 1,
-          "explain": "Ở bệnh nhân HIV có CD4 < 50, khối choáng chỗ duy nhất bắt quang viền trên MRI và có EBV dương tính mạnh trong dịch não tủy có khả năng cao nhất là u lympho thần kinh trung ương nguyên phát (PCNSL). Toxoplasma thường có nhiều ổ tổn thương nhỏ và EBV dịch não tủy âm tính."
+          "answer": 0,
+          "explain": "Ở bệnh nhân HIV có CD4 < 50, khối choáng chỗ duy nhất bắt quang viền trên MRI và có EBV dương tính mạnh trong dịch não tủy có khả năng cao nhất là u lympho thần kinh trung ương nguyên phát (PCNSL). Toxoplasma thường có nhiều tổn thương nhỏ và EBV dịch não tủy âm tính."
         },
         {
           "q": "Cơ chế cốt lõi gây phát triển khối u ác tính trong trường hợp này?",
           "options": [
-            "Suy giảm miễn dịch nặng tạo điều kiện cho vi khuẩn nội bào xâm nhập não",
-            "Đột biến tự phát tế bào nón thị giác lan lên não",
+            "Suy giảm miễm dịch nặng tạo điều kiện cho vi khuẩn nội bào xâm nhập não",
             "Suy giảm tế bào T dẫn đến mất kiểm soát tăng sinh B do EBV",
+            "Đột biến tự phát tế bào nón thị giác lan lên não",
             "Phản ứng miễn dịch quá mức với thuốc kháng virus"
           ],
-          "answer": 2,
+          "answer": 1,
           "explain": "HIV phá hủy tế bào T CD4, làm mất khả năng giám sát miễn dịch tế bào đối với virus EBV. EBV (vi rút có ái lực với tế bào B) nhân lên không bị ức chế, thúc đẩy tế bào lympho B chuyển dạng ác tính và tăng sinh không kiểm soát tại não."
         },
         {
@@ -415,101 +1022,101 @@
         {
           "q": "Thuốc hóa trị cốt lõi có khả năng xuyên qua hàng rào máu não hiệu quả nhất?",
           "options": [
-            "Methotrexate liều cao truyền tĩnh mạch",
+            "Rituximab đơn trị liệu đường uống",
             "Doxorubicin đường tĩnh mạch",
             "Bleomycin truyền tĩnh mạch",
-            "Rituximab đơn trị liệu đường uống"
+            "Methotrexate liều cao truyền tĩnh mạch"
           ],
-          "answer": 0,
+          "answer": 3,
           "explain": "Methotrexate liều cao là thuốc cốt lõi trong phác đồ điều trị PCNSL vì nồng độ cao trong máu mới giúp thuốc vượt qua được hàng rào máu não để diệt tế bào u, điều mà các thuốc kinh điển như Doxorubicin không làm được."
         },
         {
           "q": "Trọng tâm xử trí triệu chứng nội thần kinh hiện tại để chống phù não?",
           "options": [
-            "Truyền tĩnh mạch dung dịch muối nhược trương",
             "Sử dụng dexamethasone liều cao",
+            "Truyền tĩnh mạch dung dịch muối nhược trương",
             "Mở hộp sọ giải ép cấp cứu ngay lập tức",
             "Truyền tiểu cầu đậm đặc"
           ],
-          "answer": 1,
-          "explain": "Bệnh nhân đang có triệu chứng tăng áp lực nội sọ và phù gai thị. Dexamethasone liều cao giúp làm giảm phù não quanh khối u rất nhanh nhạy, cải thiện tri giác đáng kể, là bước ưu tiên cấp cứu trước khi có sinh thiết và hóa trị."
+          "answer": 0,
+          "explain": "Corticosteroid làm giảm phù và hiệu ứng khối nhanh trong lymphoma thần kinh trung ương, nhưng có thể làm tế bào u thoái triển và khiến sinh thiết âm tính. Nếu bệnh nhân ổn định, nên lấy mô trước; nếu có phù não nặng hoặc đe dọa tụt kẹt, ưu tiên an toàn và dùng Dexamethasone."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nữ 28 tuổi phù nề mặt cổ, khó thở tăng dần 1 tuần",
-      "body": "Bệnh nhân nữ 28 tuổi nhập viện vì <b>phù nề mặt và cổ, nhức đầu, khó thở tăng dần</b> khi nằm ngửa trong 1 tuần qua. Bệnh nhân có tiền sử ho khan và sụt cân không rõ nguyên nhân trong 3 tháng.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, ngồi thở, mạch 105 lần/phút, huyết áp 120/80 mmHg, nhịp thở 24 lần/phút. <b>Tĩnh mạch cổ nổi to tự nhiên, tuần hoàn bàng hệ vùng ngực trên và cổ</b>, mặt phù nề màu hơi tím. Sờ thấy cụm hạch thượng đòn phải kích thước 3x4 cm, mật độ chắc, dính. Phổi giảm thông khí hai đáy, gan lách không sờ thấy.<br><br><b>X-quang ngực:</b> Khối trung thất trước trên giãn rộng chèn ép, có ít dịch màng phổi hai bên.",
+      "title": "Bệnh nhân nữ 28 tuổi phù nề mặt và cổ nhức đầu khó thở",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 28 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì phù nề mặt và cổ, nhức đầu, khó thở tăng dần khi nằm ngửa trong 1 tuần qua. Bệnh nhân có tiền sử ho khan và sụt cân không rõ nguyên nhân trong 3 tháng.<br><br><b>Tiền sử:</b> Chưa ghi nhận bệnh lý liên quan.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, ngồi thở, mạch 105 lần/phút, huyết áp 120/80 mmHg, nhịp thở 24 lần/phút. Tĩnh mạch cổ nổi to tự nhiên, tuần hoàn bàng hệ vùng ngực trên và cổ, mặt phù nề màu hơi tím. Sờ thấy cụm hạch thượng đòn phải kích thước 3x4 cm, mật độ chắc, dính. Phổi giảm thông khí hai đáy, gan lách không sờ thấy.<br><br><b>Xét nghiệm:</b> X-quang ngực thẳng cho thấy khối trung thất trước trên giãn rộng chèn ép, có ít dịch màng phổi hai bên. Sinh thiết khối u xác định đây là U lympho Hodgkin thể xơ nốt.",
       "questions": [
         {
           "q": "Tình trạng cấp cứu nội khoa nổi bật nhất của bệnh nhân là gì?",
           "options": [
             "Chèn ép tim cấp",
-            "Thuyên tắc phổi diện rộng",
             "Hội chứng tĩnh mạch chủ trên",
+            "Thuyên tắc phổi diện rộng",
             "Khí phế thũng chèn ép"
           ],
-          "answer": 2,
+          "answer": 1,
           "explain": "Mặt cổ sưng nề, tĩnh mạch cổ nổi, tuần hoàn bàng hệ ngực trên ở bệnh nhân có khối trung thất là biểu hiện rõ rệt của hội chứng tĩnh mạch chủ trên (SVCS) do u chèn ép luồng máu tĩnh mạch trở về tim phải."
         },
         {
           "q": "Chẩn đoán ác tính nào rất thường gặp ở độ tuổi nữ trẻ với khối trung thất lớn và hạch thượng đòn?",
           "options": [
             "Ung thư phổi nguyên phát tế bào nhỏ",
-            "U lympho Hodgkin thể xơ nốt",
             "Ung thư biểu mô tuyến ức",
+            "U lympho Hodgkin thể xơ nốt",
             "U quái ác tính trung thất"
           ],
-          "answer": 1,
-          "explain": "U lympho Hodgkin type xơ nốt (Nodular sclerosis) có dịch tễ học đỉnh thứ nhất ở người trẻ (tuổi 20-30), đặc trưng bởi sự xuất hiện khối hạch trung thất rất lớn và hạch cổ/thượng đòn, gây ho, khó thở và hội chứng tĩnh mạch chủ trên."
+          "answer": 2,
+          "explain": "U lympho Hodgkin type xơ nốt (Nodular sclerosis) có dịch tễ học đỉnh thứ nhất ở người trẻ (tuổi 20-30), đặc trưng bởi sự xuất hiện khối hạch trung thất rất lớn và hạch cổ thượng đòn, gây ho, khó thở và hội chứng tĩnh mạch chủ trên."
         },
         {
           "q": "Phương pháp tiếp cận lấy mẫu bệnh phẩm an toàn và hiệu quả nhất tránh biến chứng suy hô hấp?",
           "options": [
-            "Sinh thiết hạch thượng đòn dưới gây tê tại chỗ",
+            "Chọc hút dịch màng phổi làm tế bào học",
             "Mở lồng ngực sinh thiết trung thất dưới gây mê",
             "Nội soi phế quản sinh thiết xuyên vách",
-            "Chọc hút dịch màng phổi làm tế bào học"
+            "Sinh thiết hạch thượng đòn dưới gây tê tại chỗ"
           ],
-          "answer": 0,
+          "answer": 3,
           "explain": "Ở bệnh nhân có hội chứng tĩnh mạch chủ trên và chèn ép đường thở, gây mê toàn thân có nguy cơ sập đường thở chết người do mất trương lực cơ. Sinh thiết hạch thượng đòn sờ thấy được bằng gây tê tại chỗ là an toàn và ít xâm lấn nhất."
         },
         {
           "q": "Biện pháp hỗ trợ cơ học giúp giảm phù nề tĩnh mạch chủ trên ngay lập tức?",
           "options": [
-            "Nằm đầu thấp chân cao",
             "Nằm tư thế nửa ngồi (Fowler)",
+            "Nằm đầu thấp chân cao",
             "Nằm nghiêng trái tuyệt đối",
             "Đặt nội khí quản thở máy áp lực dương"
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "Tư thế nửa ngồi (Fowler) lợi dụng trọng lực giúp làm giảm áp lực tĩnh mạch ở phần đầu mặt cổ, giảm bớt triệu chứng phù nề và nghẹt thở tạm thời. Nằm đầu thấp chống chỉ định vì làm ứ máu tĩnh mạch nặng thêm."
         },
         {
           "q": "Nếu bệnh nhân được điều trị khỏi bằng hóa xạ trị kết hợp, nguy cơ bệnh lý muộn nghiêm trọng nhất có thể gặp sau 15 năm?",
           "options": [
             "Đái tháo đường type 1",
-            "Suy thượng thận nguyên phát",
             "Ung thư vú thứ phát",
+            "Suy thượng thận nguyên phát",
             "Cường giáp tự miễn"
           ],
-          "answer": 2,
+          "answer": 1,
           "explain": "Tia xạ vùng trung thất và nách (mantle field) ở phụ nữ trẻ để lại rủi ro rất cao gây ung thư vú thứ phát sau 10-20 năm. Do đó, hiện nay xu hướng là giảm liều xạ hoặc chỉ dùng hóa trị đơn thuần ở những bệnh nhân đáp ứng tốt để tránh di chứng này."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nam 35 tuổi u lympho lymphoblastic T, khối trung thất lớn, sau hóa trị",
-      "body": "Bệnh nhân nam 35 tuổi, vừa được chẩn đoán <b>u lympho lymphoblastic tế bào T có khối trung thất lớn</b>, mới truyền hóa trị chu kỳ đầu có chứa cyclophosphamide ngày hôm qua. Hôm nay, bệnh nhân <b>buồn nôn, yếu cơ, chuột rút</b> và lượng nước tiểu giảm còn 300 ml/12 giờ.<br><br><b>Khám:</b> Mạch 110 lần/phút không đều, huyết áp 100/60 mmHg, nhịp thở 20 lần/phút, không phù.<br><br><b>Cận lâm sàng:</b> Hb 110 g/L, bạch cầu 2 G/L, tiểu cầu 100 G/L.<br><br><b>Điện giải đồ:</b> <b>Kali 6.8 mmol/L</b>, <b>Canxi toàn phần 1.7 mmol/L</b> (bình thường 2.1-2.5), <b>Photpho 2.5 mmol/L</b> (tăng), <b>Axit uric 780 μmol/L</b>, <b>Creatinin máu 250 μmol/L</b>.",
+      "title": "Bệnh nhân nam 35 tuổi chẩn đoán u lympho lymphoblastic tế bào T",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 35 tuổi.<br><br><b>Bệnh sử:</b> Được chẩn đoán u lympho lymphoblastic tế bào T có khối trung thất lớn, mới truyền hóa trị chu kỳ đầu có chứa cyclophosphamide ngày hôm qua. Hôm nay, bệnh nhân buồn nôn, yếu cơ, chuột rút và lượng nước tiểu giảm còn 300 ml/12 giờ.<br><br><b>Tiền sử:</b> U lympho lymphoblastic tế bào T phát hiện gần đây.<br><br><b>Khám lâm sàng:</b> Mạch 110 lần/phút không đều, huyết áp 100/60 mmHg, nhịp thở 20 lần/phút, không phù.<br><br><b>Xét nghiệm:</b> Hb 110 g/L, bạch cầu 2 G/L, tiểu cầu 100 G/L. Điện giải đồ: Kali 6.8 mmol/L, Canxi toàn phần 1.7 mmol/L, Photpho 2.5 mmol/L (tăng), Axit uric 780 µmol/L, Creatinin máu 250 µmol/L.",
       "questions": [
         {
           "q": "Bệnh cảnh trên phù hợp với biến chứng cấp tính nào nhất?",
           "options": [
             "Suy thận cấp trước thận do thiếu dịch",
             "Ngộ độc cơ tim cấp tính do hóa chất",
-            "Nhiễm trùng huyết do giảm bạch cầu",
-            "Hội chứng ly giải u"
+            "Hội chứng ly giải u",
+            "Nhiễm trùng huyết do giảm bạch cầu"
           ],
-          "answer": 3,
+          "answer": 2,
           "explain": "Biểu hiện suy thận cấp đột ngột kèm bộ ba tăng axit uric, tăng kali, tăng photpho và hạ canxi máu trong vòng 1-5 ngày sau bắt đầu hóa trị liệu khối u ác tính nhạy cảm (như u lympho, leukemia) khẳng định chẩn đoán hội chứng ly giải u lâm sàng."
         },
         {
@@ -517,33 +1124,33 @@
           "options": [
             "Tăng kali máu",
             "Tăng photpho máu",
-            "Tăng canxi máu",
-            "Tăng axit uric máu"
+            "Tăng axit uric máu",
+            "Tăng canxi máu"
           ],
-          "answer": 2,
+          "answer": 3,
           "explain": "Hội chứng ly giải u đặc trưng bởi sự phóng thích các chất nội bào ra máu khi tế bào ung thư bị tiêu diệt: Kali, Photpho, Axit nucleic (chuyển thành axit uric). Lượng photpho giải phóng lớn sẽ gắn kết với canxi trong máu gây hạ canxi máu. Do đó tăng canxi máu là mệnh đề sai."
         },
         {
           "q": "Cơ chế chính gây suy thận cấp vô niệu trong bệnh cảnh này?",
           "options": [
-            "Giảm lưu lượng máu đến thận do suy tim cấp",
             "Lắng đọng tinh thể axit uric và canxi photphat ở ống thận",
+            "Giảm lưu lượng máu đến thận do suy tim cấp",
             "Viêm ống thận kẽ dị ứng do kháng sinh",
             "Huyết khối tắc nghẽn động mạch thận hai bên"
           ],
-          "answer": 1,
-          "explain": "Suy thận trong hội chứng ly giải u chủ yếu do axit uric và tinh thể canxi-photphat kết tủa rầm rộ gây tắc nghẽn lòng ống lượn xa và ống góp ở thận, ngăn cản sự hình thành nước tiểu làm creatinin tăng vọt."
+          "answer": 0,
+          "explain": "Suy thận trong hội chứng ly giải u chủ yếu do axit uric và tinh thể canxi photphat kết tủa rầm rộ gây tắc nghẽn lòng ống lượn xa và ống góp ở thận, ngăn cản sự hình thành nước tiểu làm creatinin tăng vọt."
         },
         {
           "q": "Xử trí cấp cứu đầu tay để ổn định điện sinh lý màng tế bào cơ tim tránh rung thất do kali máu 6.8 mmol/L?",
           "options": [
-            "Tiêm tĩnh mạch canxi gluconate hoặc canxi clorua",
             "Lọc máu ngắt quãng ngay lập tức",
+            "Tiêm tĩnh mạch canxi gluconate hoặc canxi clorua",
             "Truyền natri bicarbonate tĩnh mạch",
             "Truyền tĩnh mạch insulin và glucose"
           ],
-          "answer": 0,
-          "explain": "Với kali máu tăng rất cao đe dọa loạn nhịp (K=6.8), canxi tĩnh mạch (canxi gluconate) là thuốc tiêm đầu tiên để đối kháng lại tác dụng của kali lên màng cơ tim, dù không làm giảm tổng lượng kali trong máu, giúp bảo vệ tính mạng tạm thời."
+          "answer": 1,
+          "explain": "Với kali máu tăng rất cao đe dọa loạn nhịp (K = 6.8 mmol/L), canxi tĩnh mạch (canxi gluconate) là thuốc tiêm đầu tiên để đối kháng lại tác dụng của kali lên màng cơ tim, dù không làm giảm tổng lượng kali trong máu, giúp bảo vệ tính mạng tạm thời."
         },
         {
           "q": "Thuốc nào sau đây phòng ngừa hội chứng này nhờ cơ chế giáng hóa axit uric thành allantoin dễ hòa tan?",
@@ -554,23 +1161,23 @@
             "Colchicine"
           ],
           "answer": 2,
-          "explain": "Rasburicase là enzyme urate oxidase tái tổ hợp, xúc tác trực tiếp chuyển hóa axit uric (khó tan) thành allantoin cực kỳ dễ tan trong nước, từ đó hạ axit uric máu rất nhanh. Allopurinol chỉ ức chế tạo mới axit uric, không phá vỡ được aicit uric đã hình thành sẵn."
+          "explain": "Rasburicase là enzyme urate oxidase tái tổ hợp, xúc tác trực tiếp chuyển hóa axit uric (khó tan) thành allantoin cực kỳ dễ tan trong nước, từ đó hạ axit uric máu rất nhanh. Allopurinol chỉ ức chế tạo mới axit uric, không phá vỡ được axit uric đã hình thành sẵn."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nam 70 tuổi bạch cầu mạn dòng lympho, sốt cao đột ngột, hạch to nhanh",
-      "body": "Bệnh nhân nam 70 tuổi, đã được chẩn đoán <b>bạch cầu mạn dòng lympho (CLL) cách đây 5 năm</b>, theo dõi định kỳ không cần dùng thuốc. Một tháng nay, bệnh nhân <b>đột ngột sốt cao 39°C, sụt 6 kg, ra mồ hôi trộm nhiều</b> và <b>khối hạch cổ phải to lên rất nhanh</b> gây chèn ép. Tiền sử nhồi máu cơ tim cũ có đặt stent, EF 40%.<br><br><b>Khám:</b> Bệnh nhân gầy sút, mạch 105 lần/phút, huyết áp 110/65 mmHg. <b>Hạch cổ phải kích thước 6x7 cm, chắc, cố định</b>. <b>Lách to dưới bờ sườn 4 cm</b>.<br><br><b>Xét nghiệm:</b> Hb 95 g/L, bạch cầu 65 G/L (chủ yếu lympho trưởng thành), tiểu cầu 90 G/L, <b>LDH tăng gấp 4 lần</b>.",
+      "title": "Bệnh nhân nam 70 tuổi có tiền sử bạch cầu mạn dòng lympho",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 70 tuổi.<br><br><b>Bệnh sử:</b> Một tháng nay, bệnh nhân đột ngột sốt cao 39°C, sụt 6 kg, ra mồ hôi trộm nhiều và khối hạch cổ phải to lên rất nhanh gây chèn ép.<br><br><b>Tiền sử:</b> Đã được chẩn đoán bạch cầu mạn dòng lympho (CLL) cách đây 5 năm, theo dõi định kỳ không cần dùng thuốc. Tiền sử nhồi máu cơ tim cũ có đặt stent, EF 40%.<br><br><b>Khám lâm sàng:</b> Bệnh nhân gầy sút, mạch 105 lần/phút, huyết áp 110/65 mmHg. Hạch cổ phải kích thước 6x7 cm, chắc, cố định. Lách to dưới bờ sườn 4 cm.<br><br><b>Xét nghiệm:</b> Hb 95 g/L, bạch cầu 65 G/L (chủ yếu lympho trưởng thành), tiểu cầu 90 G/L, LDH tăng gấp 4 lần.",
       "questions": [
         {
           "q": "Hiện tượng tiến triển lâm sàng ác tính hóa rầm rộ này gọi là hội chứng gì?",
           "options": [
             "Hội chứng ly giải u tự phát",
-            "Chuyển dạng Richter (Richter's transformation)",
+            "Hội chứng tăng độ nhớt máu",
             "Hội chứng thực bào máu",
-            "Hội chứng tăng độ nhớt máu"
+            "Chuyển dạng Richter (Richter's transformation)"
           ],
-          "answer": 1,
+          "answer": 3,
           "explain": "Khoảng 2-10% bệnh nhân bạch cầu mạn dòng lympho (CLL) hoặc u lympho tế bào nhỏ (SLL) có thể đột ngột thay đổi bản chất sinh học, biểu hiện bằng hạch to nhanh, LDH tăng vọt và sốt, gọi là hiện tượng chuyển dạng Richter."
         },
         {
@@ -588,11 +1195,11 @@
           "q": "Phương pháp hình ảnh tối ưu nhất để định hướng vị trí sinh thiết chẩn đoán chính xác?",
           "options": [
             "Chụp cắt lớp vi tính vùng cổ có cản quang",
-            "Siêu âm hạch vùng cổ đơn thuần",
             "Chụp PET/CT toàn thân sử dụng FDG",
+            "Siêu âm hạch vùng cổ đơn thuần",
             "Chụp cộng hưởng từ sọ não"
           ],
-          "answer": 2,
+          "answer": 1,
           "explain": "PET/CT sử dụng đường phóng xạ (FDG) có giá trị cao trong chuyển dạng Richter. Hạch chuyển dạng ác tính cao sẽ tăng hấp thu FDG rất mạnh (giá trị SUV max cao). Bác sĩ sẽ nhắm vào hạch bắt thuốc mạnh nhất trên PET để sinh thiết, tránh sinh thiết nhầm hạch CLL cũ."
         },
         {
@@ -610,11 +1217,11 @@
           "q": "Tiên lượng chung của bệnh nhân ở giai đoạn chuyển dạng này?",
           "options": [
             "Đáp ứng hoàn toàn 100% với hóa trị nhẹ",
-            "Bệnh thường diễn tiến rất hung hãn, kháng trị và sống còn ngắn",
+            "Sống thêm bằng với giai đoạn bạch cầu mạn ban đầu",
             "Dễ tự lui bệnh khi hạ sốt",
-            "Sống thêm bằng với giai đoạn bạch cầu mạn ban đầu"
+            "Bệnh thường diễn tiến rất hung hãn, kháng trị và sống còn ngắn"
           ],
-          "answer": 1,
+          "answer": 3,
           "explain": "Chuyển dạng Richter được xem là một biến chứng rất tồi tệ. Khối u thường mang nhiều đột biến kháng thuốc, dẫn đến việc điều trị cực kỳ khó khăn, bệnh tiến triển hung hãn với tiên lượng thời gian sống trung vị chỉ khoảng dưới 1 năm dù được hóa trị mạnh."
         }
       ]
