@@ -211,13 +211,6 @@
       "subcategory": "Huyết học"
     },
     {
-      "name": "Hemophilia",
-      "url": "hemophilia.json",
-      "type": "cases",
-      "category": "Nội",
-      "subcategory": "Huyết học"
-    },
-    {
       "name": "Hemophilia (Gen AI)",
       "url": "hemophilia_gen_ai.json",
       "type": "cases",
@@ -267,13 +260,6 @@
       "subcategory": "Tim mạch"
     },
     {
-      "name": "Leukemia cấp (Up)",
-      "url": "leukemia_cap_up.json",
-      "type": "cases",
-      "category": "Nội",
-      "subcategory": "Huyết học"
-    },
-    {
       "name": "Gãy cổ xương đùi MCQ",
       "url": "gay_co_xuong_dui_mcq.json",
       "type": "mcq",
@@ -297,20 +283,6 @@
     {
       "name": "U lympho",
       "url": "u_lympho.json",
-      "type": "cases",
-      "category": "Nội",
-      "subcategory": "Huyết học"
-    },
-    {
-      "name": "U lympho (Up)",
-      "url": "u_lympho_up.json",
-      "type": "cases",
-      "category": "Nội",
-      "subcategory": "Huyết học"
-    },
-    {
-      "name": "An toàn truyền máu (Up)",
-      "url": "an_toan_truyen_mau_up.json",
       "type": "cases",
       "category": "Nội",
       "subcategory": "Huyết học"
@@ -379,36 +351,8 @@
       "subcategory": "Hô hấp"
     },
     {
-      "name": "Tràn dịch màng phổi (Up)",
-      "url": "tran_dich_mang_phoi_up.json",
-      "type": "cases",
-      "category": "Nội",
-      "subcategory": "Hô hấp"
-    },
-    {
       "name": "Giãn phế quản",
       "url": "gian_phe_quan.json",
-      "type": "cases",
-      "category": "Nội",
-      "subcategory": "Hô hấp"
-    },
-    {
-      "name": "Viêm phổi (Up)",
-      "url": "viem_phoi_up.json",
-      "type": "cases",
-      "category": "Nội",
-      "subcategory": "Hô hấp"
-    },
-    {
-      "name": "Tràn khí màng phổi (Up)",
-      "url": "tran_khi_mang_phoi_up.json",
-      "type": "cases",
-      "category": "Nội",
-      "subcategory": "Hô hấp"
-    },
-    {
-      "name": "Giãn phế quản (Up)",
-      "url": "gian_phe_quan_up.json",
       "type": "cases",
       "category": "Nội",
       "subcategory": "Hô hấp"
@@ -428,13 +372,6 @@
       "subcategory": "Hô hấp"
     },
     {
-      "name": "COPD (Up)",
-      "url": "copd_up.json",
-      "type": "cases",
-      "category": "Nội",
-      "subcategory": "Hô hấp"
-    },
-    {
       "name": "Tắc ruột MCQ",
       "url": "tac_ruot_mcq.json",
       "type": "mcq",
@@ -447,13 +384,6 @@
       "type": "cases",
       "category": "Ngoại",
       "subcategory": "Tiêu hóa"
-    },
-    {
-      "name": "Nhiễm khuẩn tiết niệu_Up",
-      "url": "nhiem_khuan_tiet_nieu_up.json",
-      "type": "cases",
-      "category": "Nội",
-      "subcategory": "Thận tiết niệu"
     },
     {
       "name": "Nhiễm khuẩn tiết niệu",
@@ -722,13 +652,6 @@
       "subcategory": "Nội tiết"
     },
     {
-      "name": "Đái tháo đường Up",
-      "url": "dai_thao_duong_up.json",
-      "type": "cases",
-      "category": "Nội",
-      "subcategory": "Nội tiết"
-    },
-    {
       "name": "Cường giáp",
       "url": "cuong_giap.json",
       "type": "cases",
@@ -739,13 +662,6 @@
       "name": "Bướu cổ đơn thuần MCQ",
       "url": "buou_co_don_thuan_mcq.json",
       "type": "mcq",
-      "category": "Nội",
-      "subcategory": "Nội tiết"
-    },
-    {
-      "name": "Cường giáp Up",
-      "url": "cuong_giap_up.json",
-      "type": "cases",
       "category": "Nội",
       "subcategory": "Nội tiết"
     },
@@ -778,13 +694,6 @@
       "subcategory": "Nội tiết"
     },
     {
-      "name": "Hội chứng Cushing Up",
-      "url": "hoi_chung_cushing_up.json",
-      "type": "cases",
-      "category": "Nội",
-      "subcategory": "Nội tiết"
-    },
-    {
       "name": "Suy thượng thận mạn",
       "url": "suy_thuong_than_man.json",
       "type": "cases",
@@ -792,15 +701,8 @@
       "subcategory": "Nội tiết"
     },
     {
-      "name": "Suy thượng thận mạn Up",
-      "url": "suy_thuong_than_man_up.json",
-      "type": "cases",
-      "category": "Nội",
-      "subcategory": "Nội tiết"
-    },
-    {
-      "name": "Hemophilia Up",
-      "url": "hemophilia_up.json",
+      "name": "Hemophilia Nhi Up",
+      "url": "hemophilia_nhi_up.json",
       "type": "cases",
       "category": "Nhi",
       "subcategory": "Huyết học"
@@ -1006,35 +908,35 @@
       "url": "tim.json",
       "type": "mcq",
       "category": "Cơ sở",
-      "subcategory": "GP Tuần hoàn"
+      "subcategory": "GP Tim mạch - Tuần hoàn"
     },
     {
       "name": "Mạch chi trên",
       "url": "mach_chi_tren.json",
       "type": "mcq",
       "category": "Cơ sở",
-      "subcategory": "GP Tuần hoàn"
+      "subcategory": "GP Tim mạch - Tuần hoàn"
     },
     {
       "name": "Mạch Chi Dưới",
       "url": "mach_chi_duoi.json",
       "type": "mcq",
       "category": "Cơ sở",
-      "subcategory": "GP Tuần hoàn"
+      "subcategory": "GP Tim mạch - Tuần hoàn"
     },
     {
       "name": "Mạch Ngực Bụng",
       "url": "mach_nguc_bung.json",
       "type": "mcq",
       "category": "Cơ sở",
-      "subcategory": "GP Tuần hoàn"
+      "subcategory": "GP Tim mạch - Tuần hoàn"
     },
     {
       "name": "Mạch đầu mặt cổ",
       "url": "mach_dau_mat_co.json",
       "type": "mcq",
       "category": "Cơ sở",
-      "subcategory": "GP Tuần hoàn"
+      "subcategory": "GP Tim mạch - Tuần hoàn"
     },
     {
       "name": "Giải phẫu Miệng",
@@ -1821,8 +1723,8 @@
       "subcategory": "Hô hấp"
     },
     {
-      "name": "Hen phế quản",
-      "url": "hen_phe_quan.json",
+      "name": "Hen phế quản Nhi",
+      "url": "hen_phe_quan_nhi.json",
       "type": "cases",
       "category": "Nhi",
       "subcategory": "Hô hấp"
@@ -1905,15 +1807,15 @@
       "subcategory": "Tiêu hóa"
     },
     {
-      "name": "Cấp cứu ngừng tuần hoàn",
-      "url": "cap_cuu_ngung_tuan_hoan.json",
+      "name": "Cấp cứu ngừng tuần hoàn MCQ",
+      "url": "cap_cuu_ngung_tuan_hoan_mcq.json",
       "type": "mcq",
       "category": "Nội",
       "subcategory": "Cấp cứu"
     },
     {
-      "name": "Ngộ độc cấp",
-      "url": "ngo_doc_cap.json",
+      "name": "Ngộ độc cấp MCQ",
+      "url": "ngo_doc_cap_mcq.json",
       "type": "mcq",
       "category": "Nội",
       "subcategory": "Cấp cứu"
@@ -1931,6 +1833,244 @@
       "type": "mcq",
       "category": "Nội",
       "subcategory": "Cấp cứu"
+    },
+    {
+      "name": "Giải phẫu Hệ Tim mạch (AI gen)",
+      "url": "giai_phau_he_tim_mach_ai_gen.json",
+      "type": "mcq",
+      "category": "Cơ sở",
+      "subcategory": "GP Tim mạch - Tuần hoàn"
+    },
+    {
+      "name": "Rối loạn nước (Na+) MCQ",
+      "url": "roi_loan_nuoc_na_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Cấp cứu"
+    },
+    {
+      "name": "Rối loạn Kali (K+) MCQ",
+      "url": "roi_loan_kali_k_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Cấp cứu"
+    },
+    {
+      "name": "Ngạt nước MCQ",
+      "url": "ngat_nuoc_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Cấp cứu"
+    },
+    {
+      "name": "Rối loạn thăng bằng kiềm toan",
+      "url": "roi_loan_thang_bang_kiem_toan.json",
+      "type": "cases",
+      "category": "Nội",
+      "subcategory": "Cấp cứu"
+    },
+    {
+      "name": "Shock MCQ",
+      "url": "shock_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Cấp cứu"
+    },
+    {
+      "name": "Rối loạn Na, K",
+      "url": "roi_loan_na_k.json",
+      "type": "cases",
+      "category": "Nội",
+      "subcategory": "Cấp cứu"
+    },
+    {
+      "name": "Ho ra máu",
+      "url": "ho_ra_mau.json",
+      "type": "cases",
+      "category": "Nội",
+      "subcategory": "Hô hấp"
+    },
+    {
+      "name": "Hen phế quản",
+      "url": "hen_phe_quan.json",
+      "type": "cases",
+      "category": "Nội",
+      "subcategory": "Hô hấp"
+    },
+    {
+      "name": "Hen phế quản MCQ",
+      "url": "hen_phe_quan_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Hô hấp"
+    },
+    {
+      "name": "Ho ra máu MCQ",
+      "url": "ho_ra_mau_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Hô hấp"
+    },
+    {
+      "name": "Tâm phế mạn MCQ",
+      "url": "tam_phe_man_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Hô hấp"
+    },
+    {
+      "name": "Hemophilia",
+      "url": "hemophilia.json",
+      "type": "cases",
+      "category": "Nội",
+      "subcategory": "Huyết học"
+    },
+    {
+      "name": "Xuất huyết giảm tiểu cầu miễn dịch (ITP) MCQ",
+      "url": "xuat_huyet_giam_tieu_cau_mien_dich_itp_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Huyết học"
+    },
+    {
+      "name": "Hội chứng thận hư MCQ",
+      "url": "hoi_chung_than_hu_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Thận tiết niệu"
+    },
+    {
+      "name": "Nhiễm khuẩn tiết niệu MCQ",
+      "url": "nhiem_khuan_tiet_nieu_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Thận tiết niệu"
+    },
+    {
+      "name": "Bệnh thận mạn MCQ",
+      "url": "benh_than_man_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Thận tiết niệu"
+    },
+    {
+      "name": "Bệnh lý cầu thận MCQ",
+      "url": "benh_ly_cau_than_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Thận tiết niệu"
+    },
+    {
+      "name": "Suy thận cấp MCQ",
+      "url": "suy_than_cap_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Thận tiết niệu"
+    },
+    {
+      "name": "Hội chứng thận hư",
+      "url": "hoi_chung_than_hu.json",
+      "type": "cases",
+      "category": "Nội",
+      "subcategory": "Thận tiết niệu"
+    },
+    {
+      "name": "Áp xe gan MCQ",
+      "url": "ap_xe_gan_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Tiêu hóa"
+    },
+    {
+      "name": "Xơ gan MCQ",
+      "url": "xo_gan_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Tiêu hóa"
+    },
+    {
+      "name": "Viêm gan mạn MCQ",
+      "url": "viem_gan_man_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Tiêu hóa"
+    },
+    {
+      "name": "Bệnh thận mạn new",
+      "url": "benh_than_man_new.json",
+      "type": "cases",
+      "category": "Nội",
+      "subcategory": "Thận tiết niệu"
+    },
+    {
+      "name": "Bệnh lý tụy tạng MCQ",
+      "url": "benh_ly_tuy_tang_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Tiêu hóa"
+    },
+    {
+      "name": "Bệnh lý cầu thận",
+      "url": "benh_ly_cau_than.json",
+      "type": "cases",
+      "category": "Nội",
+      "subcategory": "Thận tiết niệu"
+    },
+    {
+      "name": "Xuất huyết tiêu hoá MCQ",
+      "url": "xuat_huyet_tieu_hoa_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Tiêu hóa"
+    },
+    {
+      "name": "Suy thận cấp",
+      "url": "suy_than_cap.json",
+      "type": "cases",
+      "category": "Nội",
+      "subcategory": "Thận tiết niệu"
+    },
+    {
+      "name": "Động kinh MCQ",
+      "url": "dong_kinh_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Thần kinh"
+    },
+    {
+      "name": "Đau đầu MCQ",
+      "url": "dau_dau_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Thần kinh"
+    },
+    {
+      "name": "Động kinh",
+      "url": "dong_kinh.json",
+      "type": "cases",
+      "category": "Nội",
+      "subcategory": "Thần kinh"
+    },
+    {
+      "name": "Đột quỵ não MCQ",
+      "url": "dot_quy_nao_mcq.json",
+      "type": "mcq",
+      "category": "Nội",
+      "subcategory": "Thần kinh"
+    },
+    {
+      "name": "Đột quỵ não",
+      "url": "dot_quy_nao.json",
+      "type": "cases",
+      "category": "Nội",
+      "subcategory": "Thần kinh"
+    },
+    {
+      "name": "Bộ câu hỏi trắc nghiệm lâm sàng về Đau đầu",
+      "url": "bo_cau_hoi_trac_nghiem_lam_sang_ve_dau_dau.json",
+      "type": "cases",
+      "category": "Nội",
+      "subcategory": "Thần kinh"
     }
   ]
 }
