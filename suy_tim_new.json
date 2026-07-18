@@ -1,0 +1,1413 @@
+{
+  "name": "Suy tim new",
+  "description": "Case lâm sàng suy tim từ Y6, ôn thi nội trú",
+  "level": "Ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Tim mạch",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 62 tuổi khó thở tăng dần",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì khó thở tăng dần khi gắng sức kèm phù hai chi dưới trong 2 tuần qua. Bệnh nhân không sốt, không ho khạc đờm mủ, không đau ngực dữ dội cấp tính.<br><br><b>Tiền sử:</b> Tăng huyết áp và hút thuốc lá 40 bao.năm.<br><br><b>Khám lâm sàng:</b> Tỉnh táo, mạch 95 lần/phút, huyết áp 145/90 mmHg, nhịp thở 22 lần/phút, SpO2 93% với khí trời, tĩnh mạch cổ nổi tư thế 45 độ, tim đều, có tiếng ngựa phi T3 tại mỏm, phổi rải rác ran ẩm nhỏ hạt ở hai đáy.<br><br><b>Xét nghiệm:</b> NT-proBNP huyết thanh là 2450 pg/mL, troponin T huyết thanh là 11 ng/L, mức lọc cầu thận 65 mL/phút, kali máu 4,1 mmol/L. Siêu âm tim qua thành ngực: LVEF giảm còn 32%, giảm vận động vùng thành trước tim, buồng thất trái giãn với Dd 62 mm.<br><br><b>Tình trạng phẫu thuật:</b> Chưa có thông tin can thiệp ngoại khoa.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Đợt cấp mất bù suy tim mạn",
+            "Suy tim cấp thể ấm - lạnh",
+            "Hội chứng động mạch vành cấp",
+            "Tâm phế mạn tính mất bù"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có bệnh cảnh lâm sàng diễn tiến kéo dài 2 tuần với các triệu chứng ứ dịch rõ rệt như phù chân, tĩnh mạch cổ nổi, và ran ẩm ở phổi. Siêu âm tim có bằng chứng tái cấu trúc cơ tim mạn tính. Troponin T dưới ngưỡng chẩn đoán cấp tính (< 14 ng/L) giúp loại trừ NMCT cấp. Suy tim mạn tiến triển có triệu chứng ứ dịch ngoại vi rõ ràng hướng tới đợt cấp mất bù."
+        },
+        {
+          "q": "Cho các mệnh đề về chẩn đoán và phân loại suy tim ở bệnh nhân này: (1) Thuộc nhóm HFrEF. (2) Tiếng T3 phản ánh sự đổ đầy thất nhanh chóng trong giai đoạn đầu tâm trương vào một buồng thất trái giãn. (3) NT-proBNP > 300 pg/mL ủng hộ chẩn đoán suy tim cấp nội trú. (4) Bệnh nhân thuộc thể 'Lạnh và Ướt' theo Stevenson. Tập hợp các mệnh đề đúng là:",
+          "options": [
+            "(1), (2), (3)",
+            "(1), (2), (4)",
+            "(2), (3), (4)",
+            "(1), (3), (4)"
+          ],
+          "answer": 0,
+          "explain": "Mệnh đề (1) đúng vì LVEF 32% <= 40%. Mệnh đề (2) đúng do dòng máu dội vách thất giãn. Mệnh đề (3) đúng vì điểm cắt NT-proBNP nội trú là 300 pg/mL. Mệnh đề (4) sai vì bệnh nhân có HA 145/90, không giảm tưới máu ngoại vi nên thuộc thể 'Ấm và Ướt'."
+        },
+        {
+          "q": "Thăm dò cận lâm sàng nào tiếp theo có giá trị nhất để xác định nguyên nhân nền tảng gây suy tim ở bệnh nhân này?",
+          "options": [
+            "Chụp động mạch vành qua da",
+            "Chụp cộng hưởng từ tim",
+            "Ghi điện tâm đồ Holter 24 giờ",
+            "Siêu âm tim qua thực quản"
+          ],
+          "answer": 0,
+          "explain": "Siêu âm tim cho thấy có giảm vận động vùng khu trú thành trước, trên nền bệnh nhân nam tuổi trung niên có yếu tố nguy cơ tim mạch rất cao (hút thuốc lá nhiều, THA). Thăm dò mạch vành giúp xác định tổn thương hẹp lòng mạch do xơ vữa."
+        },
+        {
+          "q": "Nhóm thuốc nào sau đây cần được chỉ định ngay lập tức để cải thiện triệu chứng ứ dịch của bệnh nhân?",
+          "options": [
+            "Lợi tiểu quai đường tĩnh mạch",
+            "Ức chế men chuyển lisinopril",
+            "Chẹn beta giao cảm metoprolol",
+            "Lợi tiểu kháng aldosterone spironolactone"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân đang trong tình trạng quá tải thể tích gây khó thở và giảm SpO2. Lợi tiểu quai đường tĩnh mạch là chỉ định đầu tay mang lại hiệu quả giảm tiền gánh và cải thiện nhanh triệu chứng. Thuốc chẹn beta giao cảm bị chống chỉ định khởi đầu khi bệnh nhân còn tình trạng suy tim mất bù cấp."
+        },
+        {
+          "q": "Nhóm thuốc nào sau đây KHÔNG thuộc bốn trụ cột giúp cải thiện tiên lượng tử vong lâu dài ở bệnh nhân suy tim phân suất tống máu giảm ổn định?",
+          "options": [
+            "Lợi tiểu quai furosemide",
+            "Ức chế thụ thể - neprilysin",
+            "Chẹn beta giao cảm",
+            "Ức chế đồng vận muối - glucose 2"
+          ],
+          "answer": 0,
+          "explain": "Lợi tiểu quai furosemide có vai trò chính trong điều trị triệu chứng, thải dịch nhưng không làm giảm tỉ lệ tử vong lâu dài. Ba trụ cột còn lại bao gồm ức chế men chuyển/ARNI, chẹn beta giao cảm, và ức chế SGLT2 đã được chứng minh cải thiện tiên lượng sống còn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 34 tuổi khó thở đột ngột tăng nặng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 34 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì sốt kéo dài 10 ngày kèm khó thở đột ngột tăng nặng, phải ngồi dậy để thở. Bệnh nhân không đau ngực kiểu màng phổi, không ho ra máu.<br><br><b>Tiền sử:</b> Hở van động mạch chủ mức độ vừa do thấp tim. Không có chấn thương ngực.<br><br><b>Khám lâm sàng:</b> Tỉnh táo, vã mồ hôi, sốt 38.8 độ C, mạch 112 lần/phút, huyết áp 100/45 mmHg, nhịp thở 28 lần/phút, SpO2 90% với khí trời. Nghe tim đều, có tiếng thổi tâm thu 3/6 ở mỏm và tiếng thổi tâm trương 4/6 dọc bờ trái xương ức, phổi đầy ran ẩm nhỏ hạt ở 2/3 dưới hai phế trường.<br><br><b>Xét nghiệm:</b> Bạch cầu 16.5 Giga/L (88% trung tính), CRP 42 mg/dL, NT-proBNP 5400 pg/mL, Troponin T 12 ng/L. X-quang ngực thẳng: bóng tim to, phù phổi rốn phổi hai bên.<br><br><b>Tình trạng phẫu thuật:</b> Ngày thứ 3 siêu âm thấy vết rách chân van, sùi 14mm, có chỉ định phẫu thuật.",
+      "questions": [
+        {
+          "q": "Biến chứng cấp tính nào cần chẩn đoán ưu tiên hàng đầu ở bệnh nhân này?",
+          "options": [
+            "Phù phổi cấp do viêm nội tâm mạc",
+            "Sốc nhiễm khuẩn đường vào hô hấp",
+            "Nhồi máu cơ tim cấp thành dưới",
+            "Đợt cấp bệnh phổi tắc nghẽn"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có tiền sử hở van ĐMC, vào viện trong bối cảnh nhiễm trùng cấp tính kèm theo tiếng thổi tâm thu mới ở mỏm và tiếng thổi tâm trương tăng độ. Triệu chứng khó thở dữ dội, phổi đầy ran ẩm chứng tỏ phù phổi cấp do viêm nội tâm mạc nhiễm khuẩn gây tổn thương van cấp tính."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính dẫn đến tình trạng huyết áp tâm trương giảm thấp (45 mmHg) ở bệnh nhân này là gì?",
+          "options": [
+            "Dòng máu trào ngược thì tâm trương",
+            "Tình trạng nhiễm trùng giãn mạch ngoại vi",
+            "Suy giảm chức năng thất phải cấp",
+            "Giảm thể tích tuần hoàn trong mạch"
+          ],
+          "answer": 0,
+          "explain": "Tình trạng hở van ĐMC tiến triển nặng lên cấp tính làm một lượng máu lớn từ ĐMC trào ngược về thất trái trong thì tâm trương. Hiện tượng này làm sụt giảm nghiêm trọng áp lực lòng mạch ở thời kỳ tâm trương, gây ra HA tâm trương rất thấp và hiệu áp rộng."
+        },
+        {
+          "q": "Thăm dò hình ảnh học nào cần được thực hiện khẩn cấp tại giường để xác định tổn thương van tim và phát hiện sùi?",
+          "options": [
+            "Siêu âm tim qua thành ngực",
+            "Siêu âm tim qua thực quản",
+            "Chụp cắt lớp vi tính mạch vành",
+            "Chụp cộng hưởng từ lồng ngực"
+          ],
+          "answer": 0,
+          "explain": "Siêu âm tim qua thành ngực (TTE) là thăm dò hình ảnh học hàng đầu, đơn giản và có thể thực hiện ngay tại giường cấp cứu để đánh giá sơ bộ hình thái van, mức độ hở và tìm kiếm tổn thương sùi lớn."
+        },
+        {
+          "q": "Bên cạnh việc hỗ trợ hô hấp bằng oxy, xử trí nội khoa ban đầu nào là phù hợp và an toàn nhất cho bệnh nhân này?",
+          "options": [
+            "Kháng sinh phối hợp và lợi tiểu quai",
+            "Kháng sinh phối hợp và chẹn beta",
+            "Lợi tiểu quai và dịch truyền đẳng trương",
+            "Thuốc giãn mạch nitrat và corticoid"
+          ],
+          "answer": 0,
+          "explain": "Xử trí phù hợp nhất cần bao hàm cả điều trị triệu chứng phù phổi cấp (lợi tiểu quai đường tĩnh mạch) và điều trị căn nguyên đích (kháng sinh phổ rộng). Thuốc chẹn beta giao cảm bị chống chỉ định tuyệt đối vì làm giảm nhịp tim sẽ kéo dài thì tâm trương, tăng thể tích dòng trào ngược hở chủ."
+        },
+        {
+          "q": "Diễn biến lâm sàng ngày thứ 3: Mạch 125 lần/phút, HA 85/40 mmHg, siêu âm thấy vết rách chân van ĐMC kèm khối sùi 14 mm di động mạnh. Xử trí tiếp theo có tỉ lệ cứu sống bệnh nhân cao nhất là gì?",
+          "options": [
+            "Phẫu thuật thay van tim cấp cứu",
+            "Thay đổi phác đồ kháng sinh liều cao",
+            "Truyền dung dịch keo nâng huyết áp",
+            "Thắt hoặc nút mạch chọn lọc qua da"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có chỉ định phẫu thuật thay van tim cấp cứu (Class I) do viêm nội tâm mạc nhiễm khuẩn gây biến chứng suy tim nặng, rối loạn huyết động không đáp ứng nội khoa, tổn thương thực thể rách van và khối sùi lớn (> 10 mm) có nguy cơ thuyên tắc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi phù chân và khó thở",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi, nghề nghiệp nông dân.<br><br><b>Bệnh sử:</b> Vào viện vì khó thở tăng dần khi gắng sức và phù chân.<br><br><b>Tiền sử:</b> Tăng huyết áp 10 năm điều trị bằng enalapril nhưng uống thuốc không đều. Không có tiền sử hen phế quản hay COPD.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, không liệt khu trú, không vàng da. Mạch 95 chu kỳ/phút, huyết áp 165/95 mmHg, nhiệt độ 36.7 độ C, nhịp thở 24 lần/phút, SpO2 93% khí trời. Nghe tim thấy tiếng thổi tâm thu 3/6 ở mỏm tim lan ra nách, nghe phổi có ran ẩm rải rác ở hai đáy phổi, gan to 2 cm dưới bờ sườn, phản hồi gan tĩnh mạch cổ dương tính, phù mềm hai chi dưới.<br><br><b>Xét nghiệm:</b> Đang chờ kết quả siêu âm và máu.<br><br><b>Tình trạng phẫu thuật:</b> Chưa có chỉ định.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hội chứng phù hợp nhất ở bệnh nhân hiện tại là gì?",
+          "options": [
+            "Suy tim toàn bộ",
+            "Suy tim phải đơn độc",
+            "Suy tim trái đơn độc",
+            "Cơn hen tim cấp"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có biểu hiện của cả suy tim trái (khó thở, ran ẩm ở phổi) và suy tim phải (gan to, phù chân, phản hồi gan TMC dương tính) do hậu quả của tăng huyết áp lâu năm không kiểm soát. Do đó, chẩn đoán suy tim toàn bộ là phù hợp nhất."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính gây khó thở khi nằm ở bệnh nhân này là gì?",
+          "options": [
+            "Tăng thể tích máu trở về tim",
+            "Giảm áp lực mao mạch phổi",
+            "Tăng dung tích sống của phổi",
+            "Co thắt phế quản do thần kinh"
+          ],
+          "answer": 0,
+          "explain": "Khi nằm phẳng, trọng lực giảm khiến một lượng dịch lớn từ chi dưới và hệ tuần hoàn tạng tái hấp thu và di chuyển ngược trở về tim. Điều này làm tăng tiền gánh, tăng áp lực mao mạch phổi và gây khó thở."
+        },
+        {
+          "q": "Thăm dò cận lâm sàng ưu tiên để xác định phân xuất tống máu thất trái và cấu trúc van?",
+          "options": [
+            "Siêu âm tim Doppler",
+            "Điện tâm đồ 12 chuyển đạo",
+            "Chụp X-quang ngực thẳng",
+            "Định lượng NT-proBNP máu"
+          ],
+          "answer": 0,
+          "explain": "Siêu âm tim Doppler là tiêu chuẩn vàng trên lâm sàng để đánh giá chức năng tâm thu thất trái (EF), hình thái và mức độ hở van hai lá cơ năng do giãn buồng tim."
+        },
+        {
+          "q": "Nhóm thuốc nào nên được chỉ định ngay để cải thiện tình trạng ứ huyết?",
+          "options": [
+            "Lợi tiểu quai",
+            "Chẹn beta giao cảm",
+            "Ức chế men chuyển",
+            "Kháng aldosterone"
+          ],
+          "answer": 0,
+          "explain": "Lợi tiểu quai (như furosemide) là nhóm thuốc hàng đầu được chỉ định ngay để giảm nhanh tình trạng quá tải thể tích, giảm áp lực đổ đầy thất và cải thiện triệu chứng khó thở cũng như phù ngoại vi."
+        },
+        {
+          "q": "Thuốc nào giúp cải thiện lâu dài tiên lượng tử vong ở bệnh nhân này?",
+          "options": [
+            "Ức chế men chuyển",
+            "Lợi tiểu quai",
+            "Thuốc giãn mạch nitrat",
+            "Digoxin liều thấp"
+          ],
+          "answer": 0,
+          "explain": "Thuốc ức chế men chuyển (ACEI) đã được chứng minh qua nhiều thử nghiệm lâm sàng lớn giúp ngăn chặn quá trình tái cấu trúc cơ tim, làm giảm tỷ lệ tử vong và nhập viện lâu dài. Lợi tiểu chỉ cải thiện triệu chứng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 24 tuổi khó thở dữ dội",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 24 tuổi, nghề nghiệp sinh viên.<br><br><b>Bệnh sử:</b> Vào viện vì khó thở dữ dội và hồi hộp trống ngực. Cách vào viện 2 tuần bệnh nhân có biểu hiện sốt nhẹ, đau họng, tự khỏi sau 3 ngày.<br><br><b>Tiền sử:</b> Không có tiền sử bệnh lý tim mạch, không ghi nhận tiền sử hen phế quản hay dị ứng thuốc.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, hốt hoảng, vã mồ hôi, không phù ngoại vi, không có gan to dưới bờ sườn. Mạch 125 chu kỳ/phút không đều, huyết áp 95/60 mmHg, nhiệt độ 37.2 độ C, nhịp thở 32 lần/phút, SpO2 88% với khí trời. Nghe tim thấy tiếng T3 ngựa phi rõ ở mỏm tim, có tiếng thổi tâm thu nhẹ 2/6 ở mỏm, phổi nghe rải rác nhiều ran ẩm và ran rít khắp hai phế trường.<br><br><b>Xét nghiệm:</b> Đang thực hiện các xét nghiệm cấp cứu.<br><br><b>Tình trạng phẫu thuật:</b> Không có chỉ định.",
+      "questions": [
+        {
+          "q": "Chẩn đoán cấp cứu phù hợp nhất ở bệnh nhân hiện tại là gì?",
+          "options": [
+            "Phù phổi cấp",
+            "Sốc nhiễm khuẩn",
+            "Hen phế quản cấp",
+            "Thuyên tắc phổi"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có biểu hiện suy tim trái cấp tính tiến triển rầm rộ (mạch nhanh, T3 ngựa phi, ran ẩm rầm rộ khắp hai phế trường) phù hợp với bệnh cảnh phù phổi cấp cơ năng do viêm cơ tim cấp sau nhiễm virus."
+        },
+        {
+          "q": "Tiêu chuẩn chẩn đoán tổn thương cơ tim trên cộng hưởng từ tim phù hợp cho bệnh nhân này?",
+          "options": [
+            "Tiêu chuẩn Lake Louise",
+            "Tiêu chuẩn Duke cải tiến",
+            "Tiêu chuẩn Jones cải tiến",
+            "Tiêu chuẩn Framingham"
+          ],
+          "answer": 0,
+          "explain": "Tiêu chuẩn Lake Louise là tiêu chuẩn chuẩn hóa quốc tế dựa trên cộng hưởng từ tim (MRI) để chẩn đoán viêm cơ tim cấp, đánh giá dấu hiệu phù nề nhu mô, sung huyết và tổn thương hoại tử/xơ hóa cơ tim muộn."
+        },
+        {
+          "q": "Xét nghiệm máu nào có giá trị cao nhất giúp định hướng nguyên nhân suy tim cấp ở bệnh nhân này?",
+          "options": [
+            "Định lượng Troponin T",
+            "Định lượng NT-proBNP",
+            "Số lượng bạch cầu",
+            "Định lượng protein C"
+          ],
+          "answer": 0,
+          "explain": "Định lượng Troponin T (hoặc I) có giá trị cao nhất để chẩn đoán tình trạng hoại tử tế bào cơ tim cấp tính trong viêm cơ tim. NT-proBNP chỉ xác định có suy tim nhưng không chỉ điểm được tổn thương hoại tử cấp tính."
+        },
+        {
+          "q": "Biện pháp hỗ trợ hô hấp ban đầu phù hợp nhất cho bệnh nhân?",
+          "options": [
+            "Thở máy không xâm nhập",
+            "Thở oxy qua gọng kính",
+            "Đặt nội khí quản ngay",
+            "Thở oxy qua mặt nạ"
+          ],
+          "answer": 0,
+          "explain": "Thở máy không xâm nhập (NIV/CPAP) là biện pháp hỗ trợ hô hấp tối ưu ban đầu cho phù phổi cấp, giúp tạo áp lực dương cuối thì thở ra, đẩy dịch từ phế nang về lại mao mạch."
+        },
+        {
+          "q": "Nếu huyết áp bệnh nhân tụt xuống 75/45 mmHg kèm thiểu niệu, thuốc vận mạch nào ưu tiên?",
+          "options": [
+            "Dobutamine",
+            "Propranolol",
+            "Metoprolol",
+            "Nitroglycerin"
+          ],
+          "answer": 0,
+          "explain": "Khi phù phổi cấp tiến triển thành sốc tim, thuốc tăng co bóp cơ tim nhóm cường beta-1 adrenergic như dobutamine là lựa chọn ưu tiên để nâng HA và tưới máu. Chẹn beta chống chỉ định tuyệt đối."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi hồi hộp trống ngực dữ dội",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì hồi hộp đánh trống ngực dữ dội, đau tức ngực âm ỉ và khó thở khi nằm phẳng.<br><br><b>Tiền sử:</b> Uống rượu nhiều năm, suy tim mạn tính do bệnh cơ tim giãn (EF 35%) đang điều trị ổn định bằng bisoprolol và lisinopril. Không ghi nhận tiền sử hen phế quản hay bệnh thận mạn.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, lo âu, vã mồ hôi, tĩnh mạch cổ nổi nhẹ ở tư thế ngồi, không vàng da. Mạch nhanh, hoàn toàn loạn nhịp, tần số 145 chu kỳ/phút, huyết áp 100/65 mmHg, nhiệt độ 36.7 độ C, nhịp thở 26 lần/phút, SpO2 92% với khí trời. Nghe tim thấy tiếng tim loạn nhịp hoàn toàn về cả tần số và cường độ, phổi nghe có ran ẩm rải rác ở hai đáy phổi, gan lách không sờ thấy, không phù ngoại vi.<br><br><b>Xét nghiệm:</b> Đang thực hiện ECG.<br><br><b>Tình trạng phẫu thuật:</b> Chưa có chỉ định.",
+      "questions": [
+        {
+          "q": "Yếu tố khởi phát chính gây đợt cấp mất bù suy tim ở bệnh nhân này là gì?",
+          "options": [
+            "Rung nhĩ đáp ứng thất nhanh",
+            "Cơn nhịp nhanh kịch phát trên thất",
+            "Ngoại tâm thu thất nhịp đôi",
+            "Nhịp nhanh xoang do sốt"
+          ],
+          "answer": 0,
+          "explain": "Mạch nhanh hoàn toàn loạn nhịp 145 ck/p, tiếng tim hoàn toàn không đều. Đây là biểu hiện điển hình của đợt cấp mất bù suy tim khởi phát do rung nhĩ đáp ứng thất nhanh."
+        },
+        {
+          "q": "Cơ chế chính khiến cung lượng tim giảm nặng khi xuất hiện loại loạn nhịp này ở bệnh nhân suy tim?",
+          "options": [
+            "Mất chu kỳ tâm nhĩ bóp",
+            "Kéo dài thời gian tâm trương",
+            "Giảm sức cản mạch hệ thống",
+            "Tăng co bóp cơ tâm thất"
+          ],
+          "answer": 0,
+          "explain": "Rung nhĩ khiến tâm nhĩ không còn co bóp đồng bộ, mất khoảng 20-30% thể tích máu đổ đầy thất cuối tâm trương (mất nhĩ bóp). Kết hợp tần số thất quá nhanh làm ngắn thời gian tâm trương gây giảm nặng cung lượng tim."
+        },
+        {
+          "q": "Thăm dò điện sinh lý tại giường nào cần làm ngay để xác định tần số thất và loại loạn nhịp?",
+          "options": [
+            "Điện tâm đồ 12 chuyển đạo",
+            "Siêu âm tim qua thành ngực",
+            "Đặt holter điện tâm đồ",
+            "Đo huyết động bằng catheter"
+          ],
+          "answer": 0,
+          "explain": "ECG 12 chuyển đạo là thăm dò điện sinh lý nhanh chóng, đơn giản và chính xác nhất tại giường để khẳng định chẩn đoán rung nhĩ (mất sóng P, thay bằng sóng f, QRS hoàn toàn không đều)."
+        },
+        {
+          "q": "Thuốc nào thuộc nhóm glycoside trợ tim có thể phối hợp ngay để kiểm soát tần số thất ở bệnh nhân suy tim cấp phân xuất tống máu giảm mà không gây giảm sức co bóp cơ tim?",
+          "options": [
+            "Digoxin",
+            "Verapamil",
+            "Diltiazem",
+            "Amiodarone"
+          ],
+          "answer": 0,
+          "explain": "Digoxin là thuốc nhóm glycoside duy nhất được khuyến cáo kiểm soát tần số thất trong rung nhĩ kèm suy tim HFrEF vì thuốc không có tác dụng ionotropic âm. Verapamil/Diltiazem chống chỉ định."
+        },
+        {
+          "q": "Nếu tình trạng huyết động bệnh nhân trở nên không ổn định với huyết áp tụt 80/50 mmHg, biện pháp can thiệp khẩn cấp nào được chỉ định?",
+          "options": [
+            "Sốc điện đồng bộ cấp cứu",
+            "Đặt máy tạo nhịp tạm thời",
+            "Đốt điện bằng sóng cao tần",
+            "Tiêm truyền tĩnh mạch lidocain"
+          ],
+          "answer": 0,
+          "explain": "Khi rung nhĩ đáp ứng thất nhanh gây rối loạn huyết động nghiêm trọng (sốc, tụt HA, phù phổi cấp), sốc điện đồng bộ chuyển nhịp cấp cứu là chỉ định bắt buộc tuyệt đối để cứu sống bệnh nhân."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi mệt xỉu, khó thở",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 68 tuổi, nghề nghiệp hưu trí.<br><br><b>Bệnh sử:</b> Vào viện vì mệt xỉu và khó thở khi nằm.<br><br><b>Tiền sử:</b> Nhồi máu cơ tim cũ cách 2 năm đã đặt một stent động mạch liên thất trước, hút thuốc lá 40 bao.năm. Không đái tháo đường hay bệnh thận mạn.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, tiếp xúc được, da niêm mạc nhợt nhẹ, không có tĩnh mạch cổ nổi tư thế ngồi, gan lách không to. Mạch 54 chu kỳ/phút đều, huyết áp 115/70 mmHg, nhiệt độ 36.5 độ C, nhịp thở 20 lần/phút, SpO2 94% với khí trời. Nghe tim thấy tiếng tim mờ, không có tiếng thổi bệnh lý, nghe phổi thấy có ran ẩm khu trú ở hai đáy phổi.<br><br><b>Xét nghiệm:</b> Đang chờ kết quả.<br><br><b>Tình trạng phẫu thuật:</b> Đã đặt stent vành 2 năm trước.",
+      "questions": [
+        {
+          "q": "Hội chứng lâm sàng chính của bệnh nhân hiện tại là gì?",
+          "options": [
+            "Suy tim trái mạn tính",
+            "Suy tim phải mạn tính",
+            "Hội chứng vành cấp tính",
+            "Suy hô hấp cấp tính"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có tiền sử NMCT cũ (tổn thương thất trái), vào viện vì khó thở khi nằm và phổi có ran ẩm khu trú ở đáy, huyết động ổn định. Đây là biểu hiện của suy tim trái mạn tính. Không có gan to, TMC nổi nên loại trừ suy tim phải."
+        },
+        {
+          "q": "Cơ chế chính gây nhịp tim chậm ở bệnh nhân này nếu do tác dụng không mong muốn của thuốc điều trị suy tim kéo dài?",
+          "options": [
+            "Tác dụng của chẹn beta",
+            "Tác dụng của lợi tiểu",
+            "Tổn thương nút xoang cấp",
+            "Cường thần kinh phế vị"
+          ],
+          "answer": 0,
+          "explain": "Thuốc chẹn beta giao cảm là nền tảng điều trị suy tim mạn nhưng có tác dụng phụ ionotropic và chronotropic âm, làm chậm nhịp tim qua ức chế thụ thể beta1 tại nút xoang."
+        },
+        {
+          "q": "Cận lâm sàng nào giúp xác định chính xác phân xuất tống máu thất trái ở bệnh nhân này?",
+          "options": [
+            "Siêu âm tim Doppler",
+            "Điện tâm đồ 12 đạo",
+            "Chụp cắt lớp vi tính",
+            "Chụp động mạch vành"
+          ],
+          "answer": 0,
+          "explain": "Siêu âm tim Doppler là thăm dò hàng đầu, phổ biến và chính xác nhất để đo EF theo phương pháp Simpson, giúp phân loại suy tim."
+        },
+        {
+          "q": "Thuốc nào sau đây chống chỉ định khởi đầu ngay trong giai đoạn suy tim mất bù đang có ứ dịch tại phổi?",
+          "options": [
+            "Chẹn beta giao cảm",
+            "Ức chế men chuyển",
+            "Lợi tiểu quai",
+            "Kháng aldosterone"
+          ],
+          "answer": 0,
+          "explain": "Thuốc chẹn beta giao cảm có tác dụng ức chế co bóp cơ tim tạm thời, do đó chống chỉ định khởi đầu ngay hoặc tăng liều trong giai đoạn mất bù ứ dịch nặng ở phổi vì nguy cơ làm nặng hơn tình trạng ứ huyết."
+        },
+        {
+          "q": "Thuốc nào thuộc nhóm ức chế SGLT2 giúp cải thiện tỷ lệ tử vong lâu dài ở bệnh nhân này?",
+          "options": [
+            "Dapagliflozin",
+            "Metformin",
+            "Gliclazide",
+            "Sitagliptin"
+          ],
+          "answer": 0,
+          "explain": "Dapagliflozin là thuốc nhóm SGLT2i đã được chứng minh qua thử nghiệm DAPA-HF giúp giảm tỷ lệ tử vong và nhập viện vì suy tim ở bệnh nhân HFrEF bất kể có ĐTĐ hay không."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi phù chân chướng bụng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì phù chân và chướng bụng.<br><br><b>Tiền sử:</b> Hút thuốc lào nhiều năm, bệnh phổi tắc nghẽn mạn tính (COPD) giai đoạn GOLD D điều trị bằng thuốc phun hít không liên tục. Không đái tháo đường, THA.<br><br><b>Khám lâm sàng:</b> Tỉnh, tím nhẹ môi và đầu chi, lồng ngực hình thùng. Mạch 102 chu kỳ/phút đều, huyết áp 115/75 mmHg, nhiệt độ 36.8 độ C, nhịp thở 26 lần/phút, SpO2 89% với khí trời. Nghe tim thấy tiếng T2 đanh mạnh ở van động mạch phổi, tiếng thổi tâm thu 3/6 dọc bờ trái xương ức tăng lên khi hít vào sâu. Phổi rì rào phế nang giảm hai bên, rải rác ran rít và ran ngáy. Gan to 3 cm dưới bờ sườn, ấn đau tức, phản hồi gan tĩnh mạch cổ dương tính, cổ trướng mức độ ít, phù mềm rõ hai chi dưới.<br><br><b>Xét nghiệm:</b> Đang thực hiện.<br><br><b>Tình trạng phẫu thuật:</b> Không có chỉ định.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hội chứng phù hợp nhất cho tình trạng tim mạch của bệnh nhân là gì?",
+          "options": [
+            "Tâm phế mạn tính",
+            "Suy tim trái cấp",
+            "Viêm cơ tim cấp",
+            "Nhồi máu cơ tim"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có tiền sử COPD mạn tính nặng, lâm sàng biểu hiện suy tim phải đơn độc (gan to, TMC nổi, phù chân, cổ trướng) phối hợp với tăng áp lực ĐMP (T2 đanh mạnh). Bệnh cảnh điển hình của tâm phế mạn tính."
+        },
+        {
+          "q": "Dấu hiệu lâm sàng nghe tim nào đặc trưng cho tình trạng hở van ba lá cơ năng do suy tim phải ở bệnh nhân này?",
+          "options": [
+            "Dấu hiệu Carvallo",
+            "Tiếng thổi Austin Flint",
+            "Tiếng thổi trục Gibson",
+            "Dấu hiệu Campbell"
+          ],
+          "answer": 0,
+          "explain": "Dấu hiệu Carvallo là hiện tượng tiếng thổi tâm thu do hở van ba lá cơ năng (nghe rõ dọc bờ trái xương ức) tăng cường độ lên ở thì hít vào sâu do áp lực âm lồng ngực tăng làm máu về tim phải nhiều hơn."
+        },
+        {
+          "q": "Thăm dò cận lâm sàng ưu tiên để đánh giá gián tiếp áp lực động mạch phổi tâm thu?",
+          "options": [
+            "Siêu âm tim Doppler",
+            "Đo chức năng hô hấp",
+            "Chụp cắt lớp lồng ngực",
+            "Điện tâm đồ 12 đạo"
+          ],
+          "answer": 0,
+          "explain": "Siêu âm tim Doppler qua thành ngực là phương pháp gián tiếp, không xâm nhập và chính xác nhất để ước tính áp lực động mạch phổi tâm thu (sPAP) dựa trên vận tốc dòng hở van 3 lá."
+        },
+        {
+          "q": "Liệu pháp oxy dài hạn tại nhà cho bệnh nhân này nên duy trì lưu lượng tối ưu bao nhiêu?",
+          "options": [
+            "Dưới 2 lít/phút",
+            "Trên 5 lít/phút",
+            "Khoảng 4 lít/phút",
+            "Khoảng 6 lít/phút"
+          ],
+          "answer": 0,
+          "explain": "Với bệnh nhân tâm phế mạn/COPD giữ CO2, trung tâm hô hấp ở hành não quen nồng độ CO2 cao và chỉ kích thích bởi tình trạng thiếu oxy máu. Do đó, liệu pháp oxy dài hạn tại nhà phải duy trì lưu lượng thấp (từ 1-2 lít/phút)."
+        },
+        {
+          "q": "Nhóm thuốc nào chống chỉ định tuyệt đối trong quản lý suy tim ở bệnh nhân này do nguy cơ ức chế hô hấp và gây toan hô hấp nặng hơn?",
+          "options": [
+            "Thuốc an thần gây ngủ",
+            "Lợi tiểu kháng aldosterone",
+            "Kháng cholinergic dạng hít",
+            "Cường beta 2 dạng hít"
+          ],
+          "answer": 0,
+          "explain": "Thuốc an thần gây ngủ (diazepam) chống chỉ định tuyệt đối vì ức chế trực tiếp trung tâm hô hấp ở hành não, làm giảm thông khí phế bào, tăng nguy cơ hôn mê do tăng CO2."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 28 tuổi khó thở dữ dội",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 28 tuổi, nội trợ.<br><br><b>Bệnh sử:</b> Vào viện vì khó thở dữ dội khi nằm và ho khan.<br><br><b>Tiền sử:</b> Vừa sinh con thứ hai được 3 tuần bằng phương pháp sinh thường. Quá trình mang thai hoàn toàn khỏe mạnh, không THA thai kỳ, tiền sản giật, hen phế quản.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, mệt mỏi, tư thế ngồi thở. Mạch 112 chu kỳ/phút đều, huyết áp 105/70 mmHg, nhiệt độ 36.6 độ C, nhịp thở 28 lần/phút, SpO2 91% với khí trời. Nghe tim thấy nhịp tim nhanh đều, tiếng T3 ngựa phi ở mỏm tim, không có tiếng thổi bệnh lý, nghe phổi thấy nhiều ran ẩm nhỏ hạt ở hai thùy dưới phổi, gan lách không sờ thấy, phù mềm nhẹ hai bàn chân.<br><br><b>Xét nghiệm:</b> Đang thực hiện.<br><br><b>Tình trạng phẫu thuật:</b> Chưa có chỉ định.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng hướng tới nhiều nhất ở bệnh nhân hiện tại là gì?",
+          "options": [
+            "Bệnh cơ tim chu sản",
+            "Thuyên tắc phổi cấp",
+            "Hen phế quản cấp",
+            "Viêm cơ tim cấp"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân nữ trẻ, xuất hiện suy tim trái cấp tính (khó thở khi nằm, T3 ngựa phi, ran ẩm phổi) trong vòng 1 tháng sau sinh trên nền cơ địa trước đó khỏe mạnh. Đây là bệnh cảnh đặc trưng của bệnh cơ tim chu sản (Peripartum cardiomyopathy)."
+        },
+        {
+          "q": "Phát biểu nào sau đây KHÔNG ĐÚNG về bệnh cơ tim chu sản?",
+          "options": [
+            "Luôn xuất hiện trước tuần ba mươi của thai kỳ",
+            "Thường xảy ra ở giai đoạn cuối thai kỳ",
+            "Biểu hiện bằng tình trạng suy tim ứ huyết",
+            "Cần chẩn đoán phân biệt với thuyên tắc phổi"
+          ],
+          "answer": 0,
+          "explain": "Bệnh cơ tim chu sản xảy ra vào tháng cuối thai kỳ hoặc trong 5 tháng đầu sau sinh. Việc nói 'luôn xuất hiện trước tuần 30' là sai."
+        },
+        {
+          "q": "Thang điểm nào dùng để phân tầng mức độ nặng của suy tim dựa trên triệu chứng cơ năng của bệnh nhân này?",
+          "options": [
+            "Thang điểm NYHA",
+            "Thang điểm CURB65",
+            "Thang điểm Metavir",
+            "Thang điểm Child Pugh"
+          ],
+          "answer": 0,
+          "explain": "Phân loại NYHA dùng cho suy tim dựa trên triệu chứng cơ năng (khó thở, mệt). CURB65 cho viêm phổi, Metavir/Child Pugh cho xơ gan."
+        },
+        {
+          "q": "Xét các thuốc sau trong quản lý điều trị lâu dài cho bệnh nhân: (1) Enalapril, (2) Spironolactone, (3) Metoprolol succinate, (4) Furosemide. Tập hợp đúng các thuốc giúp cải thiện lâu dài tiên lượng tử vong ở bệnh nhân HFrEF là:",
+          "options": [
+            "(1), (2), (3)",
+            "(1), (3), (4)",
+            "(2), (3), (4)",
+            "(1), (2), (4)"
+          ],
+          "answer": 0,
+          "explain": "Các thuốc prognostic drugs ở HFrEF gồm ức chế RAAS (enalapril), chẹn beta (metoprolol succinate), kháng aldosterone (spironolactone). Furosemide chỉ giải quyết ứ dịch, không cải thiện tử vong."
+        },
+        {
+          "q": "Nếu tình trạng suy tim tiến triển kháng trị với thuốc, biện pháp can thiệp hỗ trợ huyết động cơ học tạm thời nào cân nhắc đầu tiên?",
+          "options": [
+            "Bóng đối xung động mạch chủ",
+            "Đặt máy tạo nhịp vĩnh viễn",
+            "Nong van hai lá bằng bóng",
+            "Can thiệp đặt stent mạch vành"
+          ],
+          "answer": 0,
+          "explain": "Bóng đối xung động mạch chủ (IABP) là biện pháp hỗ trợ tuần hoàn cơ học tạm thời giúp giảm hậu gánh thất trái và tăng tưới máu mạch vành trong suy tim cấp kháng trị ổn định huyết động chờ hồi phục."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 74 tuổi khó thở leo cầu thang",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 74 tuổi, hưu trí.<br><br><b>Bệnh sử:</b> Vào viện vì khó thở khi leo cầu thang và phù nhẹ hai mắt cá chân.<br><br><b>Tiền sử:</b> Tăng huyết áp 15 năm điều trị bằng amlodipin 5 mg/ngày, béo phì. Không hen, COPD.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, thể trạng béo với BMI 28.5 kg/m2. Mạch 78 chu kỳ/phút đều, huyết áp 135/80 mmHg, nhịp thở 22 lần/phút, SpO2 95% khí trời. Nghe tim thấy nhịp đều, có tiếng T4 rõ ở mỏm tim, không có tiếng thổi bệnh lý. Phổi rì rào phế nang rõ, không ran ẩm. Phù mềm ấn lõm nhẹ hai mắt cá chân.<br><br><b>Xét nghiệm:</b> Đang chờ kết quả.<br><br><b>Tình trạng phẫu thuật:</b> Chưa có chỉ định.",
+      "questions": [
+        {
+          "q": "Thể suy tim nào phù hợp nhất với đặc điểm lâm sàng và tiền sử của bệnh nhân này?",
+          "options": [
+            "Suy tim phân suất tống máu bảo tồn",
+            "Suy tim phân suất tống máu giảm",
+            "Suy tim phân suất tống máu giảm nhẹ",
+            "Suy tim cấp tính thể ấm nóng"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân cao tuổi, béo phì, tiền sử THA lâu năm, lâm sàng có triệu chứng suy tim (phù, khó thở) nhưng phổi sạch, tim có tiếng T4 phản ánh dày thất và rối loạn chức năng tâm trương. Đây là bệnh cảnh điển hình của HFpEF."
+        },
+        {
+          "q": "Tiếng tim T4 nghe được ở mỏm tim phản ánh cơ chế sinh lý bệnh nào chủ yếu ở bệnh nhân này?",
+          "options": [
+            "Nhĩ trái bóp máu vào thất trái giảm độ giãn",
+            "Đóng muộn của van động mạch chủ",
+            "Dòng máu đổ đầy nhanh thất trái giai đoạn đầu",
+            "Sa van hai lá vào trong buồng nhĩ trái"
+          ],
+          "answer": 0,
+          "explain": "Tiếng T4 (thổi tiền tâm thu) do tâm nhĩ bóp mạnh tống máu vào buồng thất trái đã bị dày, giảm độ giãn (compliance) trong thì tâm trương."
+        },
+        {
+          "q": "Cận lâm sàng nào có giá trị cao nhất giúp loại trừ chẩn đoán suy tim nếu kết quả nồng độ hoàn toàn bình thường?",
+          "options": [
+            "Định lượng NT-proBNP",
+            "Chụp X-quang ngực thẳng",
+            "Điện tâm đồ 12 đạo",
+            "Siêu âm Doppler tim"
+          ],
+          "answer": 0,
+          "explain": "NT-proBNP là dấu ấn sinh học có giá trị dự báo âm tính rất cao (>95%). Nếu dưới ngưỡng chẩn đoán, suy tim gần như bị loại trừ."
+        },
+        {
+          "q": "Nhóm thuốc hạ áp nào vừa kiểm soát huyết áp vừa được chứng minh lâm sàng giảm tỷ lệ nhập viện do suy tim ở thể bệnh này?",
+          "options": [
+            "Ức chế SGLT2",
+            "Chẹn kênh calci nhóm dihydropyridine",
+            "Thuốc chẹn beta giao cảm",
+            "Thuốc giãn mạch nhóm nitrat"
+          ],
+          "answer": 0,
+          "explain": "Thuốc ức chế kênh đồng vận natri-glucose 2 (SGLT2i như empagliflozin, dapagliflozin) được chứng minh qua EMPEROR-Preserved và DELIVER giúp giảm tử vong và nhập viện ở HFpEF."
+        },
+        {
+          "q": "Tác dụng không mong muốn thường gặp của thuốc amlodipin bệnh nhân đang dùng có thể gây nhầm lẫn với triệu chứng suy tim phải?",
+          "options": [
+            "Phù mềm mắt cá chân",
+            "Tăng huyết áp dội ngược",
+            "Suy giảm chức năng thận",
+            "Rối loạn nhịp tim chậm"
+          ],
+          "answer": 0,
+          "explain": "Amlodipin gây giãn tiểu động mạch chọn lọc, làm tăng áp lực thủy tĩnh mao mạch gây thoát dịch ra khoảng kẽ dẫn đến phù mềm mắt cá chân, dễ nhầm với phù do suy tim phải."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 35 tuổi ho khan khi nằm",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 35 tuổi, giáo viên.<br><br><b>Bệnh sử:</b> Vào viện vì khó thở khi gắng sức và ho khan nhiều khi nằm xuống.<br><br><b>Tiền sử:</b> Có chẩn đoán thấp tim năm 12 tuổi. Không THA, đái tháo đường.<br><br><b>Khám lâm sàng:</b> Tỉnh, tiếp xúc tốt, niêm mạc hồng. Mạch 88 chu kỳ/phút đều, huyết áp 110/70 mmHg, nhiệt độ 36.6 độ C, nhịp thở 22 lần/phút, SpO2 94% khí trời. Nghe tim thấy tiếng thổi tâm thu 3/6 ở mỏm tim lan ra nách, tiếng T1 mờ, phổi có ran ẩm rải rác ở đáy phổi hai bên, gan lách không to, không phù chi dưới.<br><br><b>Xét nghiệm:</b> Đang thực hiện.<br><br><b>Tình trạng phẫu thuật:</b> Chưa có chỉ định.",
+      "questions": [
+        {
+          "q": "Tổn thương van tim cơ học chính gây hội chứng suy tim trái ở bệnh nhân này là gì?",
+          "options": [
+            "Hở van hai lá",
+            "Hẹp van hai lá",
+            "Hở van động mạch chủ",
+            "Hẹp van động mạch chủ"
+          ],
+          "answer": 0,
+          "explain": "Tiếng thổi tâm thu 3/6 mỏm lan ra nách, T1 mờ, trên tiền sử thấp tim. Đây là triệu chứng kinh điển của hở van hai lá thực thể do thấp tim, gây quá tải thể tích thất trái dẫn đến suy tim."
+        },
+        {
+          "q": "Biến đổi cấu trúc buồng tim nào xảy ra sớm nhất do tình trạng quá tải thể tích tâm thu ở bệnh nhân này?",
+          "options": [
+            "Giãn tâm nhĩ trái",
+            "Phì đại thất phải",
+            "Giãn tâm nhĩ phải",
+            "Dày đồng tâm thất trái"
+          ],
+          "answer": 0,
+          "explain": "Trong hở 2 lá, nhĩ trái phải nhận thêm lượng dịch trào ngược từ thất trái đổ về trong suốt tâm thu. Do thành nhĩ trái mỏng, nó sẽ giãn rất sớm để thích nghi trước khi thất trái phì đại."
+        },
+        {
+          "q": "Thăm dò hình ảnh học nào ưu tiên để đánh giá chi tiết hình thái lá van, bộ máy dưới van và diện tích dòng hở van?",
+          "options": [
+            "Siêu âm tim Doppler",
+            "Chụp X-quang ngực thẳng",
+            "Điện tâm đồ 12 đạo",
+            "Chụp cắt lớp vi tính"
+          ],
+          "answer": 0,
+          "explain": "Siêu âm tim Doppler là thăm dò hình ảnh học quan trọng nhất giúp đánh giá chính xác cơ chế hở van, hình thái lá van, dây chằng, đo thể tích dòng hở và phân độ nặng."
+        },
+        {
+          "q": "Nhóm thuốc nào giúp làm giảm hậu gánh, giảm thể tích dòng trào ngược van và cải thiện triệu chứng khó thở?",
+          "options": [
+            "Ức chế men chuyển",
+            "Chẹn beta giao cảm",
+            "Ức chế SGLT2",
+            "Thuốc vận mạch tăng co bóp"
+          ],
+          "answer": 0,
+          "explain": "Ức chế men chuyển (ACEI) làm giãn tiểu động mạch hệ thống, giảm hậu gánh thất trái, giúp máu tống vào ĐMC dễ hơn, từ đó giảm dòng trào ngược về nhĩ trái, giảm áp lực ứ huyết phổi."
+        },
+        {
+          "q": "Nếu tổn thương van tiến triển nặng, phân xuất tống máu thất trái giảm kèm triệu chứng kháng trị thuốc, biện pháp can thiệp nào là tối ưu?",
+          "options": [
+            "Phẫu thuật sửa hoặc thay van",
+            "Nong van bằng bóng qua da",
+            "Đặt máy tạo nhịp tái đồng bộ",
+            "Can thiệp đặt stent mạch vành"
+          ],
+          "answer": 0,
+          "explain": "Khi hở van hai lá thực thể do thấp tiến triển nặng có triệu chứng hoặc LVEF < 60%, phẫu thuật sửa hoặc thay van nhân tạo là biện pháp tối ưu giải quyết căn nguyên."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi mệt lả và tiểu ít",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 58 tuổi, công nhân.<br><br><b>Bệnh sử:</b> Vào viện vì khó thở dữ dội, mệt lả và tiểu ít.<br><br><b>Tiền sử:</b> Suy tim mạn tính phân xuất tống máu giảm 3 năm đang dùng enalapril và spironolactone, bệnh thận mạn giai đoạn III.<br><br><b>Khám lâm sàng:</b> Tỉnh, tiếp xúc chậm, tư thế ngồi thở. Mạch 48 chu kỳ/phút đều, chậm. Huyết áp 85/55 mmHg, nhịp thở 28 lần/phút, SpO2 90%. Tim nhịp chậm đều, tiếng mờ. Phổi ran ẩm nhỏ hạt dâng nửa hai phế trường. Gan to 2 cm, phù mềm ấn lõm rõ 2 cẳng chân.<br><br><b>Xét nghiệm:</b> Điện tâm đồ có sóng T cao nhọn đối xứng. Kali máu dự kiến tăng cao.<br><br><b>Tình trạng phẫu thuật:</b> Chưa có chỉ định.",
+      "questions": [
+        {
+          "q": "Tình trạng lâm sàng hiện tại của bệnh nhân thuộc thể nào của suy tim cấp?",
+          "options": [
+            "Thể lạnh và ướt",
+            "Thể ấm và ướt",
+            "Thể lạnh và khô",
+            "Thể ấm và khô"
+          ],
+          "answer": 0,
+          "explain": "Giảm tưới máu ngoại vi (mệt lả, HA 85/55, tiểu ít) = Lạnh. Ứ huyết rõ ở phổi và hệ thống (ngồi thở, ran ẩm, phù chân) = Ướt. Đây là thể Lạnh và Ướt, tiên lượng tử vong rất cao."
+        },
+        {
+          "q": "Biến đổi điện tâm đồ nào đặc trưng nhất cần cảnh giác ở bệnh nhân suy tim kèm suy thận này do nguy cơ tăng kali máu?",
+          "options": [
+            "Sóng T cao nhọn đối xứng",
+            "Khoảng QT ngắn lại sinh lý",
+            "Sóng U xuất hiện sau T",
+            "Đoạn ST chênh lên vòm"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân đang dùng thuốc ức chế men chuyển và kháng aldosterone (thuốc giữ kali) trên nền suy thận. Nguy cơ tăng kali máu rất cao. Dấu hiệu đặc trưng nhất trên ECG là sóng T cao, nhọn, đối xứng và đáy hẹp."
+        },
+        {
+          "q": "Xét nghiệm hóa sinh máu nào cần thực hiện khẩn cấp nhất tại giường để quyết định xử trí an toàn nội khoa?",
+          "options": [
+            "Định lượng kali máu",
+            "Định lượng Troponin T",
+            "Định lượng glucose máu",
+            "Định lượng albumin máu"
+          ],
+          "answer": 0,
+          "explain": "Định lượng kali máu vô cùng khẩn cấp vì tăng kali máu nặng gây rung thất và ngừng tuần hoàn rất nhanh, đặc biệt khi nhịp đã chậm 48 l/p."
+        },
+        {
+          "q": "Thuốc nào cần được chỉ định tiêm tĩnh mạch đầu tiên ngay lập tức khi có biến đổi điện tâm đồ do tăng kali máu để ổn định màng tế bào cơ tim?",
+          "options": [
+            "Calci clorua",
+            "Insulin đẳng trương",
+            "Furosemide",
+            "Natri bicarbonat"
+          ],
+          "answer": 0,
+          "explain": "Khi có biến đổi điện tâm đồ, tiêm tĩnh mạch muối calci (calci clorua/gluconat) là tối khẩn cấp để ổn định điện thế màng, đối kháng tác dụng của kali lên cơ tim, ngăn ngừa loạn nhịp chết người."
+        },
+        {
+          "q": "Biện pháp can thiệp nào tối ưu nhất để giải quyết đồng thời tình trạng quá tải thể tích nặng và tăng kali máu kháng trị ở bệnh nhân này?",
+          "options": [
+            "Lọc máu cấp cứu",
+            "Truyền dung dịch albumin",
+            "Đặt máy tạo nhịp tạm thời",
+            "Trích máu tĩnh mạch"
+          ],
+          "answer": 0,
+          "explain": "Lọc máu cấp cứu (RRT/thận nhân tạo) là biện pháp can thiệp triệt để, tối ưu nhất giúp loại bỏ nhanh kali và rút bớt dịch thừa khi bệnh nhân suy tim kèm suy thận nặng có huyết động không ổn định."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 38 tuổi sụt cân, hồi hộp",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 38 tuổi, buôn bán.<br><br><b>Bệnh sử:</b> Vào viện vì khó thở khi gắng sức nhẹ, hồi hộp trống ngực dữ dội. Sụt 6 kg trong 2 tháng dù ăn uống nhiều, kèm run tay, sợ nóng.<br><br><b>Tiền sử:</b> Chưa phát hiện bệnh tim mạch hay hô hấp.<br><br><b>Khám lâm sàng:</b> Kích thích nhẹ, mắt lồi nhẹ hai bên, bướu cổ to lan tỏa độ II, mềm, thổi tâm thu tại tuyến giáp. Mạch 132 chu kỳ/phút không đều, huyết áp 145/65 mmHg, nhiệt độ 37.5 độ C. Tim loạn nhịp hoàn toàn, tần số tim nhanh hơn mạch, T1 đanh. Phổi ran ẩm rải rác đáy phổi, gan to 1.5 cm, phù mềm nhẹ 2 cẳng chân.<br><br><b>Xét nghiệm:</b> FT4 tăng cao, TSH giảm sâu.<br><br><b>Tình trạng phẫu thuật:</b> Chưa có chỉ định.",
+      "questions": [
+        {
+          "q": "Tình trạng suy tim hiện tại của bệnh nhân phù hợp với hội chứng nào chủ yếu?",
+          "options": [
+            "Suy tim tăng cung lượng",
+            "Suy tim giảm cung lượng",
+            "Sốc tim do giảm thể tích",
+            "Hội chứng vành cấp tính"
+          ],
+          "answer": 0,
+          "explain": "Hội chứng nhiễm độc giáp phối hợp huyết áp tâm thu tăng, tâm trương giảm, hiệu áp rộng, mạch rất nhanh và có suy tim là điển hình của suy tim tăng cung lượng (High-output heart failure)."
+        },
+        {
+          "q": "Cơ chế chính gây suy tim ở bệnh nhân nhiễm độc giáp này là gì?",
+          "options": [
+            "Tăng nhu cầu oxy ngoại vi",
+            "Giảm tiền gánh tuần hoàn",
+            "Co thắt mạch máu hệ thống",
+            "Giảm tần số tim sinh lý"
+          ],
+          "answer": 0,
+          "explain": "Hormon tuyến giáp tăng làm tăng chuyển hóa cơ bản, giãn mạch ngoại vi, giảm sức cản hệ thống dẫn đến kích thích giao cảm làm tăng nhịp tim và cung lượng tim để đáp ứng nhu cầu oxy ngoại vi. Tình trạng quá tải công năng kéo dài làm kiệt quệ cơ tim."
+        },
+        {
+          "q": "Xét nghiệm nội tiết nào cần định lượng ngay để xác định nguyên nhân suy tim của bệnh nhân này?",
+          "options": [
+            "FT4 và TSH",
+            "Cortisol và ACTH",
+            "Troponin T và CKMB",
+            "BNP và Procalcitonin"
+          ],
+          "answer": 0,
+          "explain": "Định lượng FT4 (hoặc FT3) tăng và TSH giảm sâu là tiêu chuẩn vàng chẩn đoán tình trạng nhiễm độc giáp/Basedow, căn nguyên gây suy tim và rung nhĩ ở ca này."
+        },
+        {
+          "q": "Thuốc chẹn beta giao cảm nào được lựa chọn hàng đầu vừa giúp kiểm soát tần số tim vừa ức chế chuyển T4 thành T3 ở ngoại vi?",
+          "options": [
+            "Propranolol",
+            "Bisoprolol",
+            "Metoprolol",
+            "Nebivolol"
+          ],
+          "answer": 0,
+          "explain": "Propranolol là chẹn beta không chọn lọc, ngoài tác dụng chẹn beta 1 giảm nhịp tim còn có tác dụng độc nhất ức chế enzym 5'-deiodinase ngăn chuyển T4 thành T3 hoạt tính ở ngoại vi."
+        },
+        {
+          "q": "Biến chứng loạn nhịp tim nào đã xuất hiện ở bệnh nhân này cần được kiểm soát tần số thất khẩn cấp?",
+          "options": [
+            "Rung nhĩ",
+            "Cuồng nhĩ",
+            "Nhịp nhanh thất",
+            "Block nhĩ thất"
+          ],
+          "answer": 0,
+          "explain": "Mạch hoàn toàn không đều, tần số tim nhanh hơn tần số mạch, nghe tim loạn nhịp hoàn toàn phù hợp với rung nhĩ đáp ứng thất nhanh. Đây là loạn nhịp thường gặp nhất trong cường giáp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 56 tuổi sốt, khó thở",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 56 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì sốt, khó thở, ho khạc đờm vàng.<br><br><b>Tiền sử:</b> Tăng huyết áp, suy tim nhiều năm.<br><br><b>Khám lâm sàng:</b> Mạch 110 chu kỳ/phút, huyết áp 120/80 mmHg, nhiệt độ 38.5 độ C, nhịp thở 26 lần/phút, SpO2 91%. Phổi nghe rải rác có ran ẩm và ran nổ khu trú vùng đáy phổi phải. Gan to 3 cm dưới bờ sườn, tĩnh mạch cổ nổi tư thế ngồi, phù mềm hai chi dưới.<br><br><b>Xét nghiệm:</b> Bạch cầu tăng 13 G/L, CRP tăng cao, Troponin T bình thường, NT-proBNP tăng rất cao. X-quang: bóng tim to và đám mờ đông đặc ở thùy dưới phổi phải.<br><br><b>Tình trạng phẫu thuật:</b> Không có chỉ định.",
+      "questions": [
+        {
+          "q": "Nguyên nhân chính gây ra đợt cấp mất bù của suy tim mạn tính ở bệnh nhân này là gì?",
+          "options": [
+            "Viêm phổi phải",
+            "Hội chứng vành cấp",
+            "Tiến triển suy thận",
+            "Rối loạn nhịp tim"
+          ],
+          "answer": 0,
+          "explain": "Hội chứng nhiễm trùng (sốt, bạch cầu, CRP tăng) kèm hô hấp (ho đờm vàng, ran nổ) và đông đặc X-quang là biểu hiện viêm phổi - yếu tố khởi phát kinh điển đợt cấp mất bù suy tim. Troponin T bình thường loại trừ vành cấp."
+        },
+        {
+          "q": "Cơ chế chính khiến tình trạng nhiễm trùng đường hô hấp dưới làm nặng thêm bệnh suy tim mạn tính?",
+          "options": [
+            "Tăng nhu cầu chuyển hóa cơ thể",
+            "Giảm sức co bóp cơ tim trực tiếp",
+            "Gây giãn mạch hệ thống kéo dài",
+            "Ứ dịch tuần hoàn do giảm bài tiết"
+          ],
+          "answer": 0,
+          "explain": "Nhiễm trùng và sốt làm tăng nhu cầu chuyển hóa cơ bản, tăng nồng độ catecholamine nội sinh dẫn đến nhịp nhanh và tăng công co bóp cơ tim. Trên cơ địa tim đã yếu, sự gia tăng nhu cầu này vượt quá khả năng bù trừ."
+        },
+        {
+          "q": "Nhóm thuốc nào sau đây có vai trò điều trị căn nguyên nhiễm trùng giúp bệnh nhân ra khỏi đợt cấp suy tim?",
+          "options": [
+            "Kháng sinh phổ rộng",
+            "Lợi tiểu quai tĩnh mạch",
+            "Thuốc trợ tim nhóm digitalis",
+            "Thuốc giãn mạch nitrat"
+          ],
+          "answer": 0,
+          "explain": "Viêm phổi là yếu tố khởi phát trực tiếp, do đó kháng sinh phổ rộng là điều trị căn nguyên bắt buộc. Lợi tiểu/giãn mạch chỉ giải quyết phần ngọn (triệu chứng ứ dịch)."
+        },
+        {
+          "q": "Thuốc điều trị suy tim nào có tác dụng cải thiện triệu chứng ứ dịch cần chỉ định cho bệnh nhân này?",
+          "options": [
+            "Lợi tiểu furosemide",
+            "Chẹn beta giao cảm",
+            "Ức chế men chuyển",
+            "Kháng aldosterone"
+          ],
+          "answer": 0,
+          "explain": "Lợi tiểu quai (furosemide) là thuốc hàng đầu giải quyết quá tải thể tích (phù chân, gan to) và ứ huyết phổi qua cơ chế đào thải muối nước."
+        },
+        {
+          "q": "Nhóm thuốc suy tim nào cải thiện tiên lượng tử vong lâu dài cho bệnh nhân suy tim phân suất tống máu giảm nhưng chống chỉ định dùng liều cao ngay trong đợt cấp mất bù?",
+          "options": [
+            "Chẹn beta giao cảm",
+            "Lợi tiểu quai",
+            "Thuốc trợ tim glycoside",
+            "Thuốc giãn mạch nhóm nitrat"
+          ],
+          "answer": 0,
+          "explain": "Thuốc chẹn beta giao cảm cải thiện tử vong lâu dài nhưng có hiệu ứng chronotropic và ionotropic âm (giảm co bóp cơ tim tạm thời), nên chống chỉ định dùng liều cao ngay trong giai đoạn mất bù ứ dịch nặng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi khó thở dữ dội, ho đờm vàng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi, hưu trí.<br><br><b>Bệnh sử:</b> Vào viện vì khó thở dữ dội và ho khạc đờm vàng.<br><br><b>Tiền sử:</b> THA, suy tim mạn tính EF 30% đang điều trị lisinopril và bisoprolol.<br><br><b>Khám lâm sàng:</b> Vã mồ hôi, ngồi thở. Mạch 112 chu kỳ/phút, HA 130/80 mmHg, sốt 38.5 độ C, SpO2 91%. T3 ngựa phi, ran ẩm và ran nổ đáy phổi phải. Gan to 3 cm, tĩnh mạch cổ nổi, phù mềm chi dưới.<br><br><b>Xét nghiệm:</b> Bạch cầu 13.5 Giga/L, CRP 45 mg/L, NT-proBNP 4500 pg/mL, Troponin T-hs 11 ng/L, creatinin 95 micromol/L.<br><br><b>Tình trạng phẫu thuật:</b> Chưa có chỉ định.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất ở bệnh nhân hiện tại là gì?",
+          "options": [
+            "Đợt cấp mất bù suy tim mạn",
+            "Nhồi máu cơ tim cấp",
+            "Thuyên tắc phổi cấp tính",
+            "Cơn hen phế quản cấp"
+          ],
+          "answer": 0,
+          "explain": "Trên nền suy tim mạn, bệnh nhân xuất hiện ứ huyết phổi (ran, khó thở) và hệ thống (gan to, phù) tiến triển cấp tính. Troponin bình thường. Chẩn đoán phù hợp là đợt cấp mất bù suy tim mạn."
+        },
+        {
+          "q": "Yếu tố khởi phát chính gây ra tình trạng cấp tính hiện tại là gì?",
+          "options": [
+            "Nhiễm trùng đường hô hấp dưới",
+            "Rối loạn nhịp tim cấp tính",
+            "Tiến triển suy thận cấp tính",
+            "Không tuân thủ điều trị thuốc"
+          ],
+          "answer": 0,
+          "explain": "Sốt cao, ho khạc đờm vàng, bạch cầu/CRP tăng cao, ran nổ đáy phổi phải hướng tới viêm phổi nhiễm trùng. Đây là yếu tố khởi phát mất bù kinh điển nhất."
+        },
+        {
+          "q": "Thăm dò hình ảnh học ưu tiên cần thực hiện ngay tại giường để đánh giá tổn thương phổi phối hợp là gì?",
+          "options": [
+            "Chụp X-quang ngực thẳng",
+            "Siêu âm Doppler tâm thất",
+            "Chụp cắt lớp vi tính ngực",
+            "Chụp động mạch vành cấp"
+          ],
+          "answer": 0,
+          "explain": "Chụp X-quang ngực thẳng tại giường là thăm dò cơ bản, nhanh chóng và giá trị nhất để xác định tổn thương đông đặc phổi nhiễm trùng và tình trạng ứ huyết nhu mô."
+        },
+        {
+          "q": "Thuốc nào sau đây cần chỉ định ngay để cải thiện triệu chứng ứ dịch?",
+          "options": [
+            "Lợi tiểu furosemide",
+            "Chẹn beta bisoprolol",
+            "Ức chế men lisinopril",
+            "Kháng aldosterone spironolactone"
+          ],
+          "answer": 0,
+          "explain": "Lợi tiểu quai furosemide tĩnh mạch là chỉ định hàng đầu bắt buộc trong cấp cứu để đào thải muối nước, giảm áp lực đổ đầy, giải quyết triệu chứng ứ huyết."
+        },
+        {
+          "q": "Nhóm thuốc suy tim nào sau đây chống chỉ định dùng liều cao ngay trong giai đoạn mất bù ứ dịch nặng này?",
+          "options": [
+            "Chẹn beta giao cảm",
+            "Lợi tiểu quai",
+            "Ức chế men chuyển",
+            "Kháng aldosterone"
+          ],
+          "answer": 0,
+          "explain": "Chẹn beta giao cảm có hiệu ứng ức chế cơ tim cơ năng tạm thời, nên chống chỉ định tăng liều hoặc khởi đầu liều cao khi bệnh nhân đang đợt cấp mất bù ứ dịch nặng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 74 tuổi khó thở, EF 55%",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 74 tuổi, hưu trí.<br><br><b>Bệnh sử:</b> Khó thở khi leo cầu thang và phù nhẹ hai chân.<br><br><b>Tiền sử:</b> THA 15 năm (amlodipin 5 mg/ngày).<br><br><b>Khám lâm sàng:</b> BMI 28.5 kg/m2. Mạch 78, HA 135/80 mmHg, nhịp thở 22 lần/phút, SpO2 95%. Tim có tiếng T4 rõ ở mỏm. Phổi không ran. Phù mềm ấn lõm nhẹ mắt cá chân.<br><br><b>Xét nghiệm:</b> NT-proBNP 350 pg/mL, Troponin T-hs 8 ng/L, creatinin 85 micromol/L. Siêu âm tim: EF 55%, phì đại đồng tâm thất trái, rối loạn chức năng tâm trương độ II.<br><br><b>Tình trạng phẫu thuật:</b> Chưa có chỉ định.",
+      "questions": [
+        {
+          "q": "Thể suy tim phù hợp nhất với đặc điểm lâm sàng của bệnh nhân này là gì?",
+          "options": [
+            "Suy tim phân suất tống máu bảo tồn",
+            "Suy tim phân suất tống máu giảm",
+            "Suy tim phân suất tống máu giảm nhẹ",
+            "Suy tim cấp tính thể lạnh khô"
+          ],
+          "answer": 0,
+          "explain": "Triệu chứng suy tim lâm sàng rõ, NT-proBNP tăng trên ngưỡng (350), kèm phân suất tống máu bảo tồn (EF 55%) và rối loạn tâm trương, phì đại thất trái. Khẳng định HFpEF."
+        },
+        {
+          "q": "Tiếng tim T4 nghe được ở mỏm tim phản ánh cơ chế sinh lý bệnh nào sau đây?",
+          "options": [
+            "Nhĩ trái bóp vào thất trái giảm giãn",
+            "Đóng muộn của van động mạch chủ",
+            "Sa van hai lá thời kỳ tâm thu",
+            "Đổ đầy nhanh thất trái thì tâm trương"
+          ],
+          "answer": 0,
+          "explain": "Tiếng T4 (tiền tâm thu) tạo ra do tâm nhĩ phải bóp mạnh tống máu vào buồng tâm thất trái đã bị dày, cứng và giảm độ giãn (compliance)."
+        },
+        {
+          "q": "Xét nghiệm dấu ấn sinh học nào có giá trị cao nhất giúp chẩn đoán loại trừ hội chứng suy tim nếu kết quả hoàn toàn bình thường?",
+          "options": [
+            "Định lượng NT-proBNP",
+            "Định lượng Troponin T",
+            "Định lượng D-dimer",
+            "Định lượng Myoglobin"
+          ],
+          "answer": 0,
+          "explain": "Peptid bài niệu (NT-proBNP) có NPV cực cao. Nếu < 125 pg/mL đối với suy tim mạn, hội chứng suy tim gần như loại trừ."
+        },
+        {
+          "q": "Nhóm thuốc điều trị suy tim nào sau đây được chứng minh giúp giảm tỷ lệ tử vong và nhập viện ở thể bệnh này?",
+          "options": [
+            "Ức chế kênh SGLT2",
+            "Chẹn kênh calci DHP",
+            "Chẹn beta giao cảm",
+            "Thuốc giãn mạch nitrat"
+          ],
+          "answer": 0,
+          "explain": "Các thuốc ức chế SGLT2 (empagliflozin, dapagliflozin) là nhóm thuốc đầu tiên chứng minh cải thiện rõ rệt tiêu chí tử vong và nhập viện ở HFpEF."
+        },
+        {
+          "q": "Tác dụng không mong muốn thường gặp của thuốc amlodipin bệnh nhân đang dùng có thể gây nhầm lẫn trên lâm sàng là gì?",
+          "options": [
+            "Phù mềm mắt cá chân",
+            "Tăng huyết áp phản ứng",
+            "Suy giáp trạng cơ năng",
+            "Rối loạn nhịp tim chậm"
+          ],
+          "answer": 0,
+          "explain": "Amlodipin gây giãn tiểu động mạch chọn lọc, tăng áp lực thủy tĩnh gây phù mềm mắt cá chân, dễ nhầm với phù do suy tim phải."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 24 tuổi sốt, đau họng, khó thở",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 24 tuổi, giáo viên.<br><br><b>Bệnh sử:</b> Vào viện vì khó thở dữ dội dâng lên nhanh chóng kèm ho khan. Cách 2 tuần có sốt nhẹ và đau họng tự khỏi.<br><br><b>Tiền sử:</b> Không bệnh tim mạch, hô hấp.<br><br><b>Khám lâm sàng:</b> Hốt hoảng, vã mồ hôi, ngồi thở. Mạch 125 chu kỳ/phút, HA 95/60 mmHg, nhịp thở 32 lần/phút, SpO2 88%. T3 ngựa phi, ran ẩm ran rít khắp hai phế trường.<br><br><b>Xét nghiệm:</b> Troponin T-hs 450 ng/L, NT-proBNP 6800 pg/mL, Bạch cầu 9.8 G/L.<br><br><b>Tình trạng phẫu thuật:</b> Chưa có chỉ định.",
+      "questions": [
+        {
+          "q": "Hội chứng cấp cứu phù hợp nhất ở bệnh nhân hiện tại là gì?",
+          "options": [
+            "Phù phổi cấp",
+            "Sốc nhiễm khuẩn",
+            "Thuyên tắc phổi",
+            "Cơn hen tim"
+          ],
+          "answer": 0,
+          "explain": "Nữ trẻ tuổi, xuất hiện suy thất trái cấp rầm rộ (nhịp nhanh, T3, ran ẩm dâng lên khắp hai phế trường gây giảm SpO2 nặng). Điển hình của phù phổi cấp huyết động do viêm cơ tim cấp sau nhiễm virus."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính gây ra tình trạng khó thở khi nằm ở bệnh nhân này là gì?",
+          "options": [
+            "Tăng thể tích tuần hoàn trở về",
+            "Giảm áp lực mao mạch phổi",
+            "Tăng dung tích sống của phổi",
+            "Co thắt phế quản do phế vị"
+          ],
+          "answer": 0,
+          "explain": "Nằm phẳng làm tác động trọng lực giảm, lượng lớn dịch từ chi dưới/tạng trở về tim. Điều này tăng tiền gánh đột ngột, tăng áp lực thủy tĩnh mao mạch phổi gây khó thở dữ dội."
+        },
+        {
+          "q": "Biện pháp hỗ trợ hô hấp ban đầu phù hợp nhất cho bệnh nhân hiện tại là gì?",
+          "options": [
+            "Thở máy không xâm nhập",
+            "Thở oxy gọng kính",
+            "Đặt ống nội khí quản",
+            "Thở oxy qua mặt nạ"
+          ],
+          "answer": 0,
+          "explain": "Thở máy không xâm nhập (NIV - CPAP/BiPAP) tạo áp lực dương cuối kỳ thở ra giúp đẩy dịch từ phế nang về mao mạch, giảm công thở, tăng SpO2."
+        },
+        {
+          "q": "Nếu huyết áp bệnh nhân tụt xuống 80/50 mmHg kèm thiểu niệu, thuốc vận mạch nào được ưu tiên lựa chọn?",
+          "options": [
+            "Dobutamine",
+            "Noradrenaline",
+            "Adrenaline",
+            "Nitroglycerin"
+          ],
+          "answer": 0,
+          "explain": "Tụt huyết áp + thiểu niệu = sốc tim. Dobutamine (cường beta-1) là thuốc đầu tay tăng co bóp cơ tim, nâng HA và tưới máu cơ quan đích."
+        },
+        {
+          "q": "Tiêu chuẩn chuẩn hóa trên cộng hưởng từ tim giúp khẳng định nguyên nhân tổn thương viêm cơ tim ở ca này là gì?",
+          "options": [
+            "Tiêu chuẩn Lake Louise",
+            "Tiêu chuẩn Jones cải tiến",
+            "Tiêu chuẩn Duke cải tiến",
+            "Tiêu chuẩn Framingham"
+          ],
+          "answer": 0,
+          "explain": "Tiêu chuẩn Lake Louise (trên MRI tim) chẩn đoán viêm cơ tim cấp qua các dấu hiệu phù nề, sung huyết và hoại tử/xơ hóa cơ tim muộn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 66 tuổi phù chân chướng bụng (COPD)",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 66 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì phù chân và chướng bụng tăng dần.<br><br><b>Tiền sử:</b> Hút thuốc lá lào 40 bao.năm, COPD GOLD D. Không THA, đái tháo đường, không NMCT cũ.<br><br><b>Khám lâm sàng:</b> Tím nhẹ môi và đầu chi, lồng ngực hình thùng. Mạch 98 chu kỳ/phút, HA 110/75 mmHg, SpO2 89% khí trời. T2 đanh mạnh van ĐMP, thổi tâm thu 3/6 dọc bờ trái xương ức tăng lên khi hít sâu. RRPN giảm, ran rít ngáy. Gan to 3 cm, ấn tức, phản hồi gan TMC (+), cổ trướng ít, phù mềm rõ hai chi dưới.<br><br><b>Xét nghiệm:</b> Đang thực hiện.<br><br><b>Tình trạng phẫu thuật:</b> Chưa có chỉ định.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hội chứng tim mạch phù hợp nhất ở bệnh nhân hiện tại là gì?",
+          "options": [
+            "Tâm phế mạn tính",
+            "Suy tim trái mạn",
+            "Viêm cơ tim cấp",
+            "Nhồi máu cơ tim"
+          ],
+          "answer": 0,
+          "explain": "COPD lâu năm biểu hiện suy tim phải đơn độc (gan to, TMC nổi, phù chân, cổ trướng) + tăng áp ĐMP (T2 đanh) là điển hình của tâm phế mạn tính."
+        },
+        {
+          "q": "Dấu hiệu lâm sàng nghe tim nào đặc trưng cho tình trạng hở van ba lá cơ năng ở bệnh nhân này?",
+          "options": [
+            "Dấu hiệu Carvallo",
+            "Tiếng thổi Austin Flint",
+            "Tiếng thổi trục Gibson",
+            "Dấu hiệu Campbell"
+          ],
+          "answer": 0,
+          "explain": "Dấu hiệu Carvallo: tiếng thổi tâm thu hở 3 lá tăng cường độ ở thì hít vào sâu do áp lực âm lồng ngực kéo máu về buồng tim phải nhiều hơn."
+        },
+        {
+          "q": "Thăm dò cận lâm sàng ưu tiên để đánh giá gián tiếp áp lực động mạch phổi tâm thu ở ca này là gì?",
+          "options": [
+            "Siêu âm tim Doppler",
+            "Đo chức năng hô hấp",
+            "Chụp cắt lớp lồng ngực",
+            "Điện tâm đồ 12 đạo"
+          ],
+          "answer": 0,
+          "explain": "Siêu âm tim Doppler qua thành ngực ước tính áp lực ĐMP tâm thu dựa trên vận tốc tối đa của dòng hở 3 lá (phương pháp Bernoulli)."
+        },
+        {
+          "q": "Liệu pháp oxy dài hạn tại nhà cho bệnh nhân này nên duy trì lưu lượng tối ưu là bao nhiêu?",
+          "options": [
+            "Thấp dưới 2 lít/phút",
+            "Cao trên 5 lít/phút",
+            "Trung bình 4 lít/phút",
+            "Cao khoảng 6 lít/phút"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân tâm phế mạn/COPD giữ CO2 mạn tính, trung tâm hô hấp chỉ kích thích bởi thiếu oxy. Liệu pháp oxy phải duy trì lưu lượng thấp (1-2 lít/phút) để tránh mất kích thích hô hấp gây hôn mê toan CO2."
+        },
+        {
+          "q": "Nhóm thuốc nào sau đây chống chỉ định tuyệt đối do nguy cơ ức chế hô hấp và gây toan hô hấp nặng hơn ở bệnh nhân này?",
+          "options": [
+            "Thuốc an thần gây ngủ",
+            "Lợi tiểu kháng aldosterone",
+            "Kháng cholinergic dạng hít",
+            "Cường beta 2 dạng hít"
+          ],
+          "answer": 0,
+          "explain": "Thuốc an thần gây ngủ (benzodiazepine) ức chế trực tiếp trung tâm hô hấp, giảm thông khí trầm trọng gây ứ CO2 và tử vong."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi khám định kỳ suy tim",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 58 tuổi, tự do.<br><br><b>Bệnh sử:</b> Khám định kỳ vì mệt và khó thở nhẹ khi đi bộ đường bằng khoảng 200 mét.<br><br><b>Tiền sử:</b> NMCT cũ cách 1 năm đã đặt stent. Suy tim mạn HFrEF 32%. Không đái tháo đường, suy thận.<br><br><b>Khám lâm sàng:</b> Mạch 72 chu kỳ/phút, HA 115/75 mmHg, SpO2 96%. Tim đều, phổi không ran, không phù ngoại vi.<br><br><b>Xét nghiệm:</b> NT-proBNP mạn duy trì 850 pg/mL, Troponin T-hs 12 ng/L, creatinin 88 micromol/L. Đang dùng: enalapril, metoprolol succinate, spironolactone, furosemide.<br><br><b>Tình trạng phẫu thuật:</b> Đã can thiệp đặt stent ĐMV 1 năm trước.",
+      "questions": [
+        {
+          "q": "Thang điểm phân loại mức độ nặng của suy tim dựa trên triệu chứng cơ năng hiện tại của bệnh nhân là gì?",
+          "options": [
+            "Phân loại theo NYHA",
+            "Thang điểm CURB65",
+            "Thang điểm Rockall",
+            "Phân loại theo GOLD"
+          ],
+          "answer": 0,
+          "explain": "Phân loại Hội Tim mạch New York (NYHA) dựa trên mức độ hạn chế hoạt động thể lực do triệu chứng cơ năng (khó thở, mệt) để xếp độ I - IV."
+        },
+        {
+          "q": "Thuốc nào trong phác đồ hiện tại của bệnh nhân chỉ giúp cải thiện triệu chứng ứ dịch mà KHÔNG làm giảm tỷ lệ tử vong lâu dài?",
+          "options": [
+            "Lợi tiểu furosemide",
+            "Ức chế men chuyển enalapril",
+            "Chẹn beta metoprolol",
+            "Kháng aldosterone spironolactone"
+          ],
+          "answer": 0,
+          "explain": "Lợi tiểu quai furosemide điều trị triệu chứng ứ dịch, giảm tiền gánh, không có vai trò ngăn tái cấu trúc cơ tim và không cải thiện tử vong."
+        },
+        {
+          "q": "Nhóm thuốc nền tảng thứ tư (trụ cột thứ 4) nên được phối hợp thêm vào phác đồ điều trị lâu dài cho bệnh nhân này là gì?",
+          "options": [
+            "Ức chế kênh SGLT2",
+            "Chẹn kênh calci",
+            "Glycoside trợ tim",
+            "Thuốc giãn mạch nitrat"
+          ],
+          "answer": 0,
+          "explain": "Phác đồ điều trị HFrEF tối ưu gồm '4 trụ cột'. Nhóm thứ 4 cần bổ sung ngoài (ACEi/ARNI, BB, MRA) là ức chế kênh SGLT2 (Dapagliflozin/Empagliflozin)."
+        },
+        {
+          "q": "Nếu muốn tối ưu hóa trụ cột ức chế hệ RAAS bằng nhóm ARNI, thuốc nào sau đây được lựa chọn thay thế cho enalapril?",
+          "options": [
+            "Sacubitril và valsartan",
+            "Valsartan đơn trị liệu",
+            "Losartan đơn trị liệu",
+            "Candesartan đơn trị liệu"
+          ],
+          "answer": 0,
+          "explain": "ARNI là phối hợp liều cố định sacubitril (ức chế neprilysin) và valsartan (ARB). Được khuyến cáo thay thế ACEi cải thiện tử vong HFrEF."
+        },
+        {
+          "q": "Điều kiện bắt buộc về thời gian khi chuyển đổi từ thuốc ức chế men chuyển enalapril sang nhóm ARNI để tránh nguy cơ phù mạch là gì?",
+          "options": [
+            "Ngừng thuốc trước 36 giờ",
+            "Ngừng thuốc trước 12 giờ",
+            "Ngừng thuốc trước 24 giờ",
+            "Ngừng thuốc trước 48 giờ"
+          ],
+          "answer": 0,
+          "explain": "Phải có khoảng trống (washout period) tối thiểu 36 giờ để nồng độ bradykinin giảm xuống, tránh nguy cơ tương tác cộng lực gây phù mạch cấp tính đe dọa mạng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi hồi hộp, tức ngực âm ỉ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì hồi hộp đánh trống ngực dữ dội, tức ngực âm ỉ và khó thở tăng dần.<br><br><b>Tiền sử:</b> Nghiện rượu nhiều năm, bệnh cơ tim giãn (EF 34%) đang điều trị bisoprolol và lisinopril.<br><br><b>Khám lâm sàng:</b> Mạch nhanh hoàn toàn loạn nhịp 145 chu kỳ/phút, HA 105/65 mmHg, SpO2 92%. Tiếng tim hoàn toàn không đều về tần số và cường độ. Phổi ran ẩm 2 đáy. TMC nổi nhẹ.<br><br><b>Xét nghiệm:</b> NT-proBNP 3800 pg/mL, Troponin T-hs 14 ng/L.<br><br><b>Tình trạng phẫu thuật:</b> Không có chỉ định.",
+      "questions": [
+        {
+          "q": "Yếu tố khởi phát chính gây đợt cấp mất bù suy tim ở bệnh nhân này là gì?",
+          "options": [
+            "Rung nhĩ đáp ứng thất nhanh",
+            "Nhịp nhanh kịch phát trên thất",
+            "Ngoại tâm thu thất nhịp đôi",
+            "Nhịp nhanh xoang do nhiễm trùng"
+          ],
+          "answer": 0,
+          "explain": "Mạch 145 ck/p, tiếng tim loạn nhịp hoàn toàn cả tần số/cường độ trên nền bệnh cơ tim giãn do rượu là bệnh cảnh đợt cấp khởi phát bởi rung nhĩ."
+        },
+        {
+          "q": "Cơ chế chính khiến cung lượng tim giảm nặng khi xuất hiện loại loạn nhịp này ở bệnh nhân suy tim là gì?",
+          "options": [
+            "Mất hoạt động nhĩ bóp",
+            "Kéo dài thời gian tâm trương",
+            "Giảm sức cản mạch hệ thống",
+            "Tăng co bóp cơ tâm thất"
+          ],
+          "answer": 0,
+          "explain": "Mất khả năng co bóp nhĩ đồng bộ làm mất 20-30% thể tích máu cuối tâm trương. Cùng tần số thất quá nhanh gây giảm nặng cung lượng tim."
+        },
+        {
+          "q": "Thăm dò điện sinh lý tại giường cần làm ngay để xác định loại loạn nhịp là gì?",
+          "options": [
+            "Điện tâm đồ 12 chuyển đạo",
+            "Siêu âm tim Doppler thành ngực",
+            "Đặt holter điện tâm đồ",
+            "Đo huyết động bằng catheter"
+          ],
+          "answer": 0,
+          "explain": "Điện tâm đồ 12 chuyển đạo xác định loạn nhịp thông qua hình ảnh mất sóng P, thay bằng sóng f lăn tăn và phức bộ QRS hoàn toàn không đều khoảng cách RR."
+        },
+        {
+          "q": "Thuốc trợ tim nhóm glycoside nào được lựa chọn phối hợp ngay để kiểm soát tần số thất ở bệnh nhân này?",
+          "options": [
+            "Digoxin",
+            "Verapamil",
+            "Diltiazem",
+            "Amiodarone"
+          ],
+          "answer": 0,
+          "explain": "Digoxin là glycoside duy nhất khuyến cáo trong rung nhĩ kèm HFrEF do không gây hiệu ứng ionotropic âm."
+        },
+        {
+          "q": "Nếu tình trạng huyết động bệnh nhân trở nên không ổn định với huyết áp tụt xuống 80/50 mmHg, biện pháp can thiệp khẩn cấp nào được chỉ định?",
+          "options": [
+            "Sốc điện đồng bộ cấp cứu",
+            "Đặt máy tạo nhịp tạm thời",
+            "Đốt điện bằng sóng cao tần",
+            "Tiêm truyền tĩnh mạch lidocain"
+          ],
+          "answer": 0,
+          "explain": "Rối loạn huyết động cấp (tụt HA) do rung nhĩ đáp ứng thất nhanh thì sốc điện đồng bộ chuyển nhịp cấp cứu là chỉ định khẩn cấp khôi phục huyết động."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 35 tuổi khó thở, EF giảm",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 35 tuổi, giáo viên.<br><br><b>Bệnh sử:</b> Vào viện vì khó thở dữ dội khi gắng sức nhẹ và ho khan nhiều khi nằm xuống.<br><br><b>Tiền sử:</b> Thấp tim năm 12 tuổi điều trị không đều.<br><br><b>Khám lâm sàng:</b> Ngồi thở. Mạch 88 chu kỳ/phút, HA 110/70 mmHg, SpO2 93%. Thổi tâm thu 3/6 mỏm tim lan ra nách, T1 mờ rõ. Phổi ran ẩm nhỏ hạt hai đáy. Không phù rõ.<br><br><b>Xét nghiệm:</b> NT-proBNP 2800 pg/mL.<br><br><b>Tình trạng phẫu thuật:</b> Đang chờ đánh giá.",
+      "questions": [
+        {
+          "q": "Tổn thương van tim thực thể chính gây hội chứng suy tim trái ở bệnh nhân này là gì?",
+          "options": [
+            "Hở van hai lá thực thể",
+            "Hẹp van hai lá cơ năng",
+            "Hở van động mạch chủ",
+            "Hẹp van động mạch chủ"
+          ],
+          "answer": 0,
+          "explain": "Thấp tim di chứng, thổi tâm thu 3/6 mỏm lan nách, T1 mờ là kinh điển của hội chứng hở van hai lá thực thể do thấp tim."
+        },
+        {
+          "q": "Biến đổi cấu trúc buồng tim nào sau đây xảy ra sớm nhất do tình trạng quá tải thể tích ở bệnh nhân này?",
+          "options": [
+            "Giãn tâm nhĩ trái",
+            "Phì đại thất phải",
+            "Giãn tâm nhĩ phải",
+            "Dày đồng tâm thất trái"
+          ],
+          "answer": 0,
+          "explain": "Nhĩ trái nhận lượng lớn máu trào ngược từ thất trái. Do thành mỏng dễ giãn, nhĩ trái sẽ giãn rất sớm thích nghi."
+        },
+        {
+          "q": "Thăm dò cận lâm sàng ưu tiên để đánh giá chi tiết hình thái lá van và diện tích dòng trào ngược van ở ca này là gì?",
+          "options": [
+            "Siêu âm tim Doppler",
+            "Chụp X-quang ngực thẳng",
+            "Điện tâm đồ 12 đạo",
+            "Chụp cắt lớp vi tính"
+          ],
+          "answer": 0,
+          "explain": "Siêu âm tim Doppler đánh giá chính xác cấu trúc, cơ chế tổn thương van, diện tích và thể tích dòng trào ngược."
+        },
+        {
+          "q": "Nhóm thuốc hạ áp nào sau đây giúp làm giảm hậu gánh và giảm thể tích dòng trào ngược qua van ở bệnh nhân này?",
+          "options": [
+            "Ức chế men chuyển",
+            "Chẹn kênh calci DHP",
+            "Chẹn beta giao cảm",
+            "Thuốc cường beta giao cảm"
+          ],
+          "answer": 0,
+          "explain": "Ức chế men chuyển (ACEI) giãn động mạch ngoại vi, giảm hậu gánh, giúp máu tống dễ hơn vào ĐMC, từ đó giảm thể tích trào ngược về nhĩ trái."
+        },
+        {
+          "q": "Nếu tổn thương van tiến triển nặng, phân xuất tống máu thất trái bắt đầu giảm dưới mức 60%, biện pháp điều trị tối ưu là gì?",
+          "options": [
+            "Phẫu thuật sửa thay van",
+            "Nong van bằng bóng",
+            "Đặt máy tạo nhịp",
+            "Can thiệp đặt stent vành"
+          ],
+          "answer": 0,
+          "explain": "Khi hở 2 lá thực thể có triệu chứng/ EF < 60%, phẫu thuật sửa hoặc thay van là chỉ định tối ưu giải quyết triệt để nguyên nhân."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi đau khớp tự mua thuốc",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi, nông dân.<br><br><b>Bệnh sử:</b> Vào viện vì khó thở tăng dần khi gắng sức và phù chân. Gần đây đau khớp tự dùng thuốc giảm đau liều cao 1 tuần.<br><br><b>Tiền sử:</b> THA 10 năm và suy tim mạn (uống enalapril không đều).<br><br><b>Khám lâm sàng:</b> Mạch 95 chu kỳ/phút, HA 165/95 mmHg. Thổi tâm thu 3/6 mỏm lan nách, phổi ran ẩm 2 đáy. Gan to 2 cm, phản hồi gan TMC (+), phù mềm rõ.<br><br><b>Xét nghiệm:</b> NT-proBNP 3200 pg/mL.<br><br><b>Tình trạng phẫu thuật:</b> Chưa có chỉ định.",
+      "questions": [
+        {
+          "q": "Hội chứng chính phù hợp nhất ở bệnh nhân hiện tại là gì?",
+          "options": [
+            "Đợt cấp mất bù suy tim mạn",
+            "Suy tim phải đơn độc ổn định",
+            "Cơn hen phế quản ác tính",
+            "Nhồi máu cơ tim cấp tính"
+          ],
+          "answer": 0,
+          "explain": "Tiền sử suy tim mạn, xuất hiện ứ huyết phổi và hệ thống tiến triển cấp tính. Chẩn đoán đợt cấp mất bù."
+        },
+        {
+          "q": "Nhóm thuốc giảm đau bệnh nhân tự uống ở nhà gây đợt cấp mất bù suy tim qua cơ chế giữ muối nước là gì?",
+          "options": [
+            "Thuốc chống viêm nonsteroid",
+            "Thuốc giảm đau paracetamol",
+            "Thuốc giảm đau nhóm opioid",
+            "Thuốc chống viêm corticosteroid"
+          ],
+          "answer": 0,
+          "explain": "NSAIDs ức chế tổng hợp prostaglandin thận, co tiểu động mạch đến giảm mức lọc cầu thận, gây tăng tái hấp thu muối nước khởi phát suy tim."
+        },
+        {
+          "q": "Thăm dò cận lâm sàng ưu tiên để xác định phân xuất tống máu thất trái và cấu trúc van tim ở ca này là gì?",
+          "options": [
+            "Siêu âm tim Doppler",
+            "Điện tâm đồ 12 chuyển đạo",
+            "Chụp X-quang ngực thẳng",
+            "Định lượng NT-proBNP máu"
+          ],
+          "answer": 0,
+          "explain": "Siêu âm tim Doppler ưu tiên hàng đầu đo EF, hình thái thất và tổn thương van cơ năng."
+        },
+        {
+          "q": "Nhóm thuốc nào nên được chỉ định ngay để cải thiện tình trạng quá tải thể tích ở bệnh nhân này?",
+          "options": [
+            "Lợi tiểu quai",
+            "Chẹn beta giao cảm",
+            "Ức chế men chuyển",
+            "Kháng aldosterone"
+          ],
+          "answer": 0,
+          "explain": "Lợi tiểu quai (furosemide) tăng thải muối nước, giải quyết quá tải thể tích cấp tính."
+        },
+        {
+          "q": "Xét các thuốc sau trong quản lý điều trị lâu dài cho bệnh nhân này: (1) Enalapril, (2) Spironolactone, (3) Metoprolol succinate, (4) Furosemide. Chọn tập hợp đúng các thuốc giúp cải thiện lâu dài tiên lượng tử vong ở bệnh nhân suy tim phân suất tống máu giảm:",
+          "options": [
+            "(1), (2), (3)",
+            "(1), (3), (4)",
+            "(2), (3), (4)",
+            "(1), (2), (4)"
+          ],
+          "answer": 0,
+          "explain": "Prognostic drugs HFrEF: ACEi (Enalapril), BB (Metoprolol succinate), MRA (Spironolactone). Furosemide chỉ trị triệu chứng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi nhịp chậm, tiểu ít",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 68 tuổi, hưu trí.<br><br><b>Bệnh sử:</b> Vào viện vì mệt xỉu, khó thở dữ dội và tiểu ít.<br><br><b>Tiền sử:</b> NMCT cũ 2 năm, HFrEF 30% và bệnh thận mạn GĐ III đang dùng lisinopril và spironolactone.<br><br><b>Khám lâm sàng:</b> Chậm chạp, ngồi thở. Mạch 48 chậm đều. HA 85/55 mmHg, SpO2 90%. Tim mờ, ran ẩm dâng nửa phổi. Gan to 2 cm, phù rõ, TMC nổi.<br><br><b>Xét nghiệm:</b> NT-proBNP 5800 pg/mL, Kali máu 6.8 mmol/L, creatinin 210 micromol/L.<br><br><b>Tình trạng phẫu thuật:</b> Chưa có chỉ định.",
+      "questions": [
+        {
+          "q": "Tình trạng lâm sàng hiện tại của bệnh nhân thuộc thể nào của suy tim cấp?",
+          "options": [
+            "Thể lạnh và ướt",
+            "Thể ấm và ướt",
+            "Thể lạnh và khô",
+            "Thể ấm và khô"
+          ],
+          "answer": 0,
+          "explain": "Giảm tưới máu ngoại vi (Lạnh) + Ứ huyết phổi/hệ thống (Ướt). Thể nặng nhất."
+        },
+        {
+          "q": "Biến đổi điện tâm đồ nào đặc trưng nhất cần cảnh giác ở bệnh nhân hiện tại do nguy cơ tăng kali máu nặng?",
+          "options": [
+            "Sóng T cao nhọn đối xứng",
+            "Khoảng QT ngắn lại sinh lý",
+            "Sóng U xuất hiện sau T",
+            "Đoạn ST chênh lên vòm"
+          ],
+          "answer": 0,
+          "explain": "Kali máu 6.8 mmol/L. Dấu hiệu ECG sớm nhất là sóng T cao, nhọn, đối xứng và đáy hẹp báo hiệu loạn nhịp."
+        },
+        {
+          "q": "Thuốc nào cần được chỉ định tiêm tĩnh mạch ngay lập tức khi có biến đổi điện tâm đồ do tăng kali máu để ổn định màng tế bào cơ tim?",
+          "options": [
+            "Calci clorua",
+            "Insulin đẳng trương",
+            "Furosemide",
+            "Natri bicarbonat"
+          ],
+          "answer": 0,
+          "explain": "Tiêm TM muối calci đối kháng kali, ổn định màng tế bào, chống rung thất."
+        },
+        {
+          "q": "Biện pháp can thiệp nào tối ưu nhất để giải quyết đồng thời tình trạng quá tải thể tích nặng và tăng kali máu kháng trị ở bệnh nhân này?",
+          "options": [
+            "Lọc máu cấp cứu",
+            "Truyền dung dịch albumin",
+            "Đặt máy tạo nhịp tạm thời",
+            "Trích máu tĩnh mạch"
+          ],
+          "answer": 0,
+          "explain": "Thận nhân tạo đào thải nhanh kali, rút dịch thừa hiệu quả nhất."
+        },
+        {
+          "q": "Nhóm thuốc hạ áp điều trị suy tim nào bệnh nhân đang dùng ở nhà là nguyên nhân chính gây giữ kali máu khi chức năng thận suy giảm?",
+          "options": [
+            "Ức chế men chuyển",
+            "Chẹn kênh calci",
+            "Chẹn beta giao cảm",
+            "Lợi tiểu quai"
+          ],
+          "answer": 0,
+          "explain": "ACEI (Lisinopril) giảm tổng hợp aldosterone, ức chế đào thải kali ở ống lượn xa gây tăng kali máu trên nền suy thận."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 38 tuổi bướu cổ, hồi hộp trống ngực",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 38 tuổi, buôn bán.<br><br><b>Bệnh sử:</b> Khó thở gắng sức, hồi hộp trống ngực. Sụt 6 kg/2 tháng, run tay, sợ nóng.<br><br><b>Tiền sử:</b> Có chẩn đoán cường giáp cách 2 tháng điều trị không đều.<br><br><b>Khám lâm sàng:</b> Kích thích nhẹ, bướu cổ lan tỏa độ II. Mạch 132 loạn nhịp, HA 145/65 mmHg. Tim loạn nhịp hoàn toàn, T1 đanh. Ran ẩm 2 đáy, gan to 1.5 cm.<br><br><b>Xét nghiệm:</b> FT4 tăng cao, TSH < 0.005 mU/L, NT-proBNP 1600 pg/mL.<br><br><b>Tình trạng phẫu thuật:</b> Chưa có chỉ định.",
+      "questions": [
+        {
+          "q": "Tình trạng suy tim hiện tại của bệnh nhân phù hợp với hội chứng nào chủ yếu?",
+          "options": [
+            "Suy tim tăng cung lượng",
+            "Suy tim giảm cung lượng",
+            "Sốc tim do giảm thể tích",
+            "Hội chứng vành cấp tính"
+          ],
+          "answer": 0,
+          "explain": "Hội chứng nhiễm độc giáp, HA hiệu áp rộng, mạch rất nhanh là suy tim tăng cung lượng."
+        },
+        {
+          "q": "Cơ chế chính gây suy tim ở bệnh nhân nhiễm độc giáp này là gì?",
+          "options": [
+            "Tăng nhu cầu chuyển hóa cơ thể",
+            "Giảm tiền gánh tuần hoàn hệ thống",
+            "Co thắt mạch máu ngoại vi chọn lọc",
+            "Giảm tần số tim tương đối sinh lý"
+          ],
+          "answer": 0,
+          "explain": "Hormon giáp làm tăng chuyển hóa cơ bản ngoại vi, giãn mạch hệ thống, nhịp tim và cung lượng tim tăng liên tục quá tải gây suy."
+        },
+        {
+          "q": "Xét nghiệm nội tiết nào cần định lượng ngay để đánh giá mức độ nhiễm độc giáp của bệnh nhân này?",
+          "options": [
+            "FT4 và TSH",
+            "Cortisol và ACTH",
+            "Troponin T và CKMB",
+            "BNP và Procalcitonin"
+          ],
+          "answer": 0,
+          "explain": "FT4 tăng và TSH giảm sâu là tiêu chuẩn vàng đánh giá cường giáp Basedow gây biến chứng tim."
+        },
+        {
+          "q": "Thuốc chẹn beta giao cảm nào được lựa chọn hàng đầu vừa giúp kiểm soát tần số tim vừa ức chế chuyển T4 thành T3 ở ngoại vi?",
+          "options": [
+            "Propranolol",
+            "Bisoprolol",
+            "Metoprolol",
+            "Nebivolol"
+          ],
+          "answer": 0,
+          "explain": "Propranolol có tác dụng chẹn beta giảm nhịp tim và ức chế enzym 5'-deiodinase ngăn chuyển T4 sang T3."
+        },
+        {
+          "q": "Phát báo nào sau đây KHÔNG ĐÚNG về quản lý và xử trí lâu dài cho bệnh nhân này?",
+          "options": [
+            "Luôn chỉ định sốc điện chuyển nhịp",
+            "Kiểm soát tốt chức năng tuyến giáp",
+            "Hạn chế gắng sức giai đoạn cấp",
+            "Tránh sử dụng thuốc chứa nhiều iod"
+          ],
+          "answer": 0,
+          "explain": "Rung nhĩ do cường giáp sốc điện thường không hiệu quả dài hạn và chống chỉ định khi chưa bình giáp vì tái phát lập tức rất cao."
+        }
+      ]
+    }
+  ]
+}
