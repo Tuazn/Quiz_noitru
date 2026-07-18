@@ -615,6 +615,616 @@
           "explain": "Do bệnh võng mạc ĐTĐ thường không có triệu chứng trong giai đoạn đầu, việc sàng lọc định kỳ là cực kỳ quan trọng. Đối với ĐTĐ type 2, bệnh có thể đã tiến triển một thời gian trước khi được chẩn đoán, do đó cần phải khám mắt toàn diện (bao gồm soi đáy mắt có giãn đồng tử) ngay khi phát hiện bệnh và lặp lại ít nhất hàng năm để phát hiện sớm tổn thương và can thiệp kịp thời. (Nguồn: Guideline ADA)"
         }
       ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi, ĐTĐ type 2 mới chẩn đoán 3 tháng",
+      "body": "<b>Bệnh nhân nam, 58 tuổi</b>, tiền sử ĐTĐ type 2 mới chẩn đoán 3 tháng, đang dùng Metformin 1000 mg/ngày. <br><b>Lý do khám:</b> Đến khám định kỳ. <br><b>Triệu chứng:</b> Không ghi nhận các triệu chứng đa niệu, đa khát hay sụt cân. <br><b>Khám lâm sàng:</b> BMI 28.5 kg/m², HA 145/85 mmHg, nhịp tim 78 l/p, không có phù, các cơ quan khác chưa phát hiện bất thường. <br><b>Xét nghiệm:</b> HbA1c 7.8%, glucose máu đói 8.2 mmol/L, Creatinin 85 µmol/L, <b>eGFR 88 mL/phút/1.73 m²</b>, albumin niệu (UACR) 45 mg/g. <br><b>Tiền sử tim mạch:</b> Chưa từng có bệnh tim mạch hay suy tim.",
+      "questions": [
+        {
+          "q": "Phân tầng nguy cơ thận của bệnh nhân này theo KDIGO là gì?",
+          "options": [
+            "Nguy cơ thấp",
+            "Nguy cơ trung bình",
+            "Nguy cơ cao",
+            "Nguy cơ rất cao"
+          ],
+          "answer": 1,
+          "explain": "Theo KDIGO, bệnh nhân có eGFR G1 (>90) hoặc G2 (60-89) kèm UACR A2 (30-300 mg/g) được phân vào nhóm nguy cơ trung bình (màu vàng). (Nguồn: KDIGO 2026)"
+        },
+        {
+          "q": "Cơ chế chính của albumin niệu trong giai đoạn sớm ở bệnh nhân ĐTĐ là gì?",
+          "options": [
+            "Tổn thương ống thận mô kẽ lan tỏa",
+            "Tăng áp lực lọc tại cầu thận",
+            "Giảm số lượng nephron chức năng",
+            "Lắng đọng phức hợp miễn dịch tại màng nền"
+          ],
+          "answer": 1,
+          "explain": "Tình trạng tăng glucose máu gây giãn động mạch đến và co động mạch đi, dẫn đến tăng áp lực thủy tĩnh trong mao mạch cầu thận (Hyperfiltration), là cơ chế sớm gây albumin niệu. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Cận lâm sàng nào cần thực hiện định kỳ hàng năm cho bệnh nhân để sàng lọc biến chứng mạn tính?",
+          "options": [
+            "Soi đáy mắt",
+            "Điện tâm đồ gắng sức",
+            "Siêu âm Doppler mạch thận",
+            "Chụp MRI não tầm soát đột quỵ"
+          ],
+          "answer": 0,
+          "explain": "Theo ADA, bệnh nhân ĐTĐ type 2 cần được tầm soát biến chứng võng mạc bằng soi đáy mắt ngay tại thời điểm chẩn đoán và định kỳ hàng năm sau đó. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Lựa chọn thuốc phối hợp tối ưu nhất để kiểm soát đường huyết và bảo vệ thận cho bệnh nhân này là gì?",
+          "options": [
+            "Gliclazide",
+            "Dapagliflozin",
+            "Sitagliptin",
+            "Pioglitazone"
+          ],
+          "answer": 1,
+          "explain": "SGLT2i (Dapagliflozin) được ưu tiên hàng đầu ở bệnh nhân ĐTĐ có bệnh thận mạn (UACR ≥ 30 mg/g) để giảm tiến triển bệnh thận và các biến cố tim mạch. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Nếu sau 6 tháng điều trị tích cực, bệnh nhân xuất hiện ho khan kéo dài và kali máu tăng lên 5.4 mmol/L, thuốc nào sau đây là nguyên nhân thường gặp?",
+          "options": [
+            "Metformin",
+            "Nhóm SGLT2i",
+            "Nhóm ức chế men chuyển",
+            "Nhóm chẹn kênh calci"
+          ],
+          "answer": 2,
+          "explain": "Thuốc ức chế men chuyển (ACEi) thường gây tác dụng phụ ho khan kéo dài do tăng Bradykinin, và có thể gây tăng kali máu do ức chế bài tiết Aldosteron. (Nguồn: Bệnh học nội khoa YHN)"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 24 tuổi, vào viện vì mệt mỏi, nôn và đau bụng cấp",
+      "body": "<b>Bệnh nhân nữ, 24 tuổi</b>, vào viện vì mệt mỏi, nôn và đau bụng cấp. <br><b>Tiền sử bệnh:</b> Bệnh diễn biến 2 ngày nay sau một đợt viêm họng. Tiền sử chưa phát hiện bệnh lý gì đặc biệt. <br><b>Khám lâm sàng lúc vào viện:</b> Bệnh nhân tỉnh, lờ đờ, <b>thở nhanh sâu (kiểu Kussmaul)</b>, hơi thở có <b>mùi trái cây chín</b>, da khô, nhãn cầu hơi mềm. Sinh hiệu: mạch 110 l/p, HA 90/60 mmHg, nhiệt độ 37.5°C. Bụng đau tức vùng thượng vị, không có phản ứng thành bụng.",
+      "questions": [
+        {
+          "q": "Chẩn đoán sơ bộ hướng tới nhiều nhất là gì?",
+          "options": [
+            "Viêm tụy cấp do tăng Triglyceride",
+            "Toan ceton do đái tháo đường",
+            "Tăng áp lực thẩm thấu máu",
+            "Ngộ độc Methanol cấp"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân trẻ tuổi, khởi phát cấp tính sau nhiễm trùng, có tam chứng: rối loạn ý thức, thở Kussmaul, mùi hơi thở đặc trưng và đau bụng gợi ý rất mạnh toan ceton do ĐTĐ (DKA). (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Rối loạn toan kiềm đặc trưng nhất trong bệnh cảnh này là gì?",
+          "options": [
+            "Toan chuyển hóa có khoảng trống Anion bình thường",
+            "Toan chuyển hóa tăng khoảng trống Anion",
+            "Toan hô hấp có bù trừ chuyển hóa",
+            "Kiềm chuyển hóa do nôn nhiều"
+          ],
+          "answer": 1,
+          "explain": "DKA gây tích tụ các acid hữu cơ (beta-hydroxybutyrate, acetoacetate) dẫn đến toan chuyển hóa tăng khoảng trống Anion (AG). (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Xét nghiệm nào sau đây có giá trị khẳng định chẩn đoán nhanh nhất?",
+          "options": [
+            "Định lượng Amylase và Lipase máu",
+            "Glucose máu đói và HbA1c",
+            "Khí máu động mạch và ceton máu/niệu",
+            "Chụp CT-Scanner ổ bụng có tiêm thuốc"
+          ],
+          "answer": 2,
+          "explain": "Chẩn đoán DKA dựa trên bộ ba: Glucose máu tăng (> 13.9 mmol/L), toan máu (pH < 7.3 hoặc HCO3- < 18) và ceton dương tính. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Thứ tự ưu tiên trong xử trí cấp cứu bệnh nhân này là gì?",
+          "options": [
+            "Truyền dịch -> Insulin tĩnh mạch -> Bù Kali",
+            "Insulin tĩnh mạch -> Truyền dịch -> Bù Kali",
+            "Bù Kali -> Insulin tĩnh mạch -> Truyền dịch",
+            "Truyền dịch -> Kháng sinh -> Insulin tĩnh mạch"
+          ],
+          "answer": 0,
+          "explain": "Bù dịch là bước quan trọng nhất để ổn định huyết động; sau đó dùng Insulin để ức chế sinh ceton. Cần kiểm tra Kali trước khi dùng Insulin. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Trong quá trình điều trị, khi glucose máu giảm xuống mức 11-13 mmol/L, bước điều chỉnh tiếp theo phù hợp là gì?",
+          "options": [
+            "Ngừng truyền Insulin và chuyển sang tiêm dưới da",
+            "Tăng liều Insulin truyền tĩnh mạch để xóa ceton hoàn toàn",
+            "Phối hợp thêm dịch truyền Glucose 5% vào phác đồ truyền dịch",
+            "Chỉ cần truyền NaCl 0.9% cho đến khi bệnh nhân ăn uống được"
+          ],
+          "answer": 2,
+          "explain": "Thêm Glucose vào dịch truyền khi đường huyết hạ xuống mức nhất định giúp duy trì truyền Insulin liều thấp để tiếp tục xóa ceton mà không gây hạ đường huyết. (Nguồn: Bệnh học nội khoa YHN)"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi, ĐTĐ type 2 15 năm, suy tim EF 35%",
+      "body": "<b>Bệnh nhân nam, 72 tuổi</b>, tiền sử ĐTĐ type 2 đã 15 năm, tăng huyết áp, suy tim EF 35%. <br><b>Điều trị hiện tại:</b> Insulin hỗn hợp 2 lần/ngày, Enalapril 5mg, Furosemid 40mg. <br><b>Triệu chứng hiện tại:</b> Gần đây bệnh nhân thường xuyên có các cơn vã mồ hôi, đánh trống ngực vào lúc gần sáng. <br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, BMI 22, nhịp tim 84 l/p, HA 130/80 mmHg. Phổi không ran, phù nhẹ hai chi dưới. <br><b>Xét nghiệm:</b> HbA1c 6.5%, glucose máu đói 4.1 mmol/L, Creatinin 120 µmol/L, eGFR 52 mL/phút/1.73 m².",
+      "questions": [
+        {
+          "q": "Hiện tượng \"vã mồ hôi, đánh trống ngực lúc gần sáng\" gợi ý nhiều nhất đến tình trạng nào?",
+          "options": [
+            "Cơn đau thắt ngực biến thái (Prinzmetal)",
+            "Cơn hạ đường huyết về đêm",
+            "Cơn tăng huyết áp kịch phát",
+            "Đợt cấp của suy tim sung huyết"
+          ],
+          "answer": 1,
+          "explain": "Các triệu chứng cường giao cảm vào thời điểm đói (gần sáng) ở bệnh nhân dùng Insulin gợi ý rất mạnh hạ đường huyết. (Nguồn: CURRENT 2026)"
+        },
+        {
+          "q": "Mục tiêu HbA1c phù hợp nhất cho bệnh nhân này theo khuyến cáo ADA là bao nhiêu?",
+          "options": [
+            "< 6.5%",
+            "< 7.0%",
+            "7.5% - 8.0%",
+            "8.5% - 9.0%"
+          ],
+          "answer": 2,
+          "explain": "Ở bệnh nhân lớn tuổi, bệnh nền mạn tính (suy tim, suy thận), thời gian mắc bệnh dài, mục tiêu HbA1c nên nới lỏng (7.5-8.0%) để đảm bảo an toàn. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Bước xử trí thuốc ĐTĐ nào sau đây là hợp lý nhất cho bệnh nhân này?",
+          "options": [
+            "Tăng liều Insulin buổi tối để kiểm soát đường huyết đói tốt hơn",
+            "Giữ nguyên liều Insulin và thêm Metformin buổi sáng",
+            "Giảm liều Insulin buổi tối và cân nhắc thêm nhóm SGLT2i",
+            "Chuyển hoàn toàn sang thuốc viên nhóm Sulfonylurea"
+          ],
+          "answer": 2,
+          "explain": "Cần giảm liều Insulin để tránh hạ đường huyết; SGLT2i là lựa chọn ưu tiên vì bệnh nhân có suy tim EF giảm. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Thuốc nào sau đây có lợi ích kép vừa kiểm soát đường huyết vừa cải thiện tiên lượng suy tim EF giảm?",
+          "options": [
+            "Gliclazide",
+            "Saxagliptin",
+            "Empagliflozin",
+            "Acarbose"
+          ],
+          "answer": 2,
+          "explain": "SGLT2i (Empagliflozin, Dapagliflozin) đã được chứng minh làm giảm nhập viện do suy tim và tử vong tim mạch ở bệnh nhân suy tim. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Tại sao không nên đặt mục tiêu kiểm soát đường huyết quá chặt chẽ (HbA1c < 6%) ở bệnh nhân lớn tuổi, nhiều bệnh nền?",
+          "options": [
+            "Tăng nguy cơ tử vong do các biến cố tim mạch liên quan đến hạ đường huyết",
+            "Gây suy thận tiến triển nhanh hơn",
+            "Làm trầm trọng thêm tình trạng suy tim do giữ nước",
+            "Gây loãng xương và tăng nguy cơ gãy cổ xương đùi"
+          ],
+          "answer": 0,
+          "explain": "Nghiên cứu ACCORD cho thấy kiểm soát quá chặt chẽ ở nhóm nguy cơ cao làm tăng tỷ lệ tử vong do các biến cố liên quan đến hạ đường huyết nặng. (Nguồn: CURRENT 2026)"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 65 tuổi, loét gót chân phải 2 tuần, không đau",
+      "body": "<b>Bệnh nhân nữ, 65 tuổi</b>, vào viện vì loét vùng gót chân phải 2 tuần nay. <br><b>Đặc điểm vết loét:</b> Loét không đau, chảy dịch hôi. <br><b>Tiền sử:</b> ĐTĐ type 2 đã 10 năm, kiểm soát kém. <br><b>Khám lâm sàng:</b> Vết loét gót chân kích thước 3x3 cm, sâu đến mô dưới da, bờ nham nhở, không có dấu hiệu viêm đỏ lan rộng. <br><b>Khám bàn chân:</b> Mất cảm giác rung âm thoa và cảm giác bảo vệ với monofilament 10g ở cả hai bàn chân. Mạch mu chân và chày sau bắt yếu. <br><b>Sinh hiệu:</b> SpO₂ 96%, HA 140/90 mmHg.",
+      "questions": [
+        {
+          "q": "Yếu tố quan trọng nhất dẫn đến sự hình thành vết loét \"không đau\" ở bệnh nhân này là gì?",
+          "options": [
+            "Bệnh lý mạch máu ngoại vi gây thiếu máu cục bộ",
+            "Biến chứng thần kinh cảm giác ngoại biên",
+            "Tình trạng nhiễm trùng cơ hội do tăng đường huyết",
+            "Bệnh nhân không chú ý vệ sinh cá nhân hàng ngày"
+          ],
+          "answer": 1,
+          "explain": "Mất cảm giác bảo vệ do biến chứng thần kinh là nguyên nhân chính khiến bệnh nhân bị thương mà không biết, dẫn đến loét tiến triển. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Theo phân loại Wagner, vết loét này được xếp vào độ nào?",
+          "options": [
+            "Độ 1",
+            "Độ 2",
+            "Độ 3",
+            "Độ 4"
+          ],
+          "answer": 1,
+          "explain": "Wagner độ 2 là loét sâu đến gân, bao khớp hoặc mô dưới da nhưng chưa có viêm xương hoặc áp xe sâu. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Thăm dò cận lâm sàng ưu tiên để đánh giá tình trạng tưới máu bàn chân bệnh nhân là gì?",
+          "options": [
+            "Chụp X-quang bàn chân phải",
+            "Đo chỉ số huyết áp cổ chân - cánh tay (ABI)",
+            "Cấy dịch vết loét làm kháng sinh đồ",
+            "Định lượng HbA1c và Albumin máu"
+          ],
+          "answer": 1,
+          "explain": "ABI là xét nghiệm đơn giản, không xâm lấn để tầm soát bệnh động mạch chi dưới ở bệnh nhân ĐTĐ. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Nguyên tắc điều trị nào sau đây KHÔNG ĐÚNG đối với bệnh nhân này?",
+          "options": [
+            "Kiểm soát đường huyết tích cực bằng Insulin tĩnh mạch hoặc dưới da",
+            "Cắt lọc mô hoại tử và vệ sinh vết loét hàng ngày",
+            "Bệnh nhân đi lại vận động nhiều để tăng cường lưu thông máu đến gót chân",
+            "Sử dụng kháng sinh phổ rộng theo kinh nghiệm ban đầu"
+          ],
+          "answer": 2,
+          "explain": "Cần giảm áp lực lên vết loét (off-loading). Việc bệnh nhân đi lại nhiều sẽ làm vết loét vùng gót khó lành và sâu thêm. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Nếu X-quang bàn chân có hình ảnh phản ứng màng xương và tiêu xương vùng gót, chẩn đoán biến chứng tiếp theo là gì?",
+          "options": [
+            "Hoại tử khô do tắc mạch hoàn toàn",
+            "Viêm xương tủy xương bàn chân",
+            "Bàn chân Charcot giai đoạn cấp",
+            "Viêm mô tế bào nặng"
+          ],
+          "answer": 1,
+          "explain": "Hình ảnh tiêu xương và phản ứng màng xương trên X-quang ở bệnh nhân loét chân kéo dài là dấu hiệu điển hình của viêm xương tủy xương. (Nguồn: Bệnh học nội khoa YHN)"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi, khám sức khỏe định kỳ, tiền ĐTĐ",
+      "body": "<b>Bệnh nhân nam, 45 tuổi</b>, đi khám sức khỏe định kỳ. <br><b>Xét nghiệm:</b> Glucose máu đói 6.4 mmol/L, HbA1c 6.2%. <br><b>Triệu chứng:</b> Không có triệu chứng lâm sàng. <br><b>Tiền sử gia đình:</b> Cha ruột mắc ĐTĐ type 2. <br><b>Lối sống:</b> Hút thuốc lá 10 bao.năm, BMI 27 kg/m².",
+      "questions": [
+        {
+          "q": "Tình trạng chuyển hóa đường của bệnh nhân này được phân loại là gì?",
+          "options": [
+            "Bình thường",
+            "Tiền đái tháo đường",
+            "Đái tháo đường type 2",
+            "Rối loạn dung nạp glucose"
+          ],
+          "answer": 1,
+          "explain": "HbA1c từ 5.7 - 6.4% hoặc Glucose đói 5.6 - 6.9 mmol/L được chẩn đoán là Tiền ĐTĐ. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Theo tiêu chuẩn ADA, bước tiếp theo cần làm để khẳng định chẩn đoán cho bệnh nhân là gì?",
+          "options": [
+            "Cho bệnh nhân về và hẹn tái khám sau 1 năm",
+            "Làm nghiệm pháp dung nạp glucose đường uống (OGTT)",
+            "Xét nghiệm lại glucose máu đói hoặc HbA1c lần thứ hai",
+            "Định lượng Insulin và C-peptide máu"
+          ],
+          "answer": 2,
+          "explain": "Nếu xét nghiệm không có triệu chứng kinh điển, cần có 2 kết quả bất thường từ cùng một mẫu hoặc 2 mẫu khác nhau để chẩn đoán. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Can thiệp ưu tiên hàng đầu để dự phòng tiến triển sang ĐTĐ cho bệnh nhân này là gì?",
+          "options": [
+            "Sử dụng Metformin liều thấp ngay lập tức",
+            "Thay đổi lối sống: giảm cân, tập thể dục và bỏ thuốc lá",
+            "Dùng nhóm thuốc ức chế enzyme alpha-glucosidase",
+            "Ăn kiêng hoàn toàn tinh bột và đường đơn"
+          ],
+          "answer": 1,
+          "explain": "Thay đổi lối sống là nền tảng cốt lõi và hiệu quả nhất trong giai đoạn tiền ĐTĐ. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Mục tiêu giảm cân tối thiểu cho bệnh nhân này trong vòng 6 tháng tới là bao nhiêu?",
+          "options": [
+            "3% trọng lượng cơ thể",
+            "7% trọng lượng cơ thể",
+            "15% trọng lượng cơ thể",
+            "20% trọng lượng cơ thể"
+          ],
+          "answer": 1,
+          "explain": "ADA khuyến cáo giảm ít nhất 7% trọng lượng cơ thể và duy trì hoạt động thể lực cường độ trung bình ít nhất 150 phút/tuần. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Nếu bệnh nhân này có kèm theo tăng huyết áp 140/90 mmHg, nhóm thuốc hạ áp nào được ưu tiên lựa chọn để bảo vệ thận sớm?",
+          "options": [
+            "Chẹn kênh Calci (Amlodipine)",
+            "Ức chế hệ Renin-Angiotensin (ACEi hoặc ARB)",
+            "Lợi tiểu Thiazide",
+            "Chẹn Beta giao cảm"
+          ],
+          "answer": 1,
+          "explain": "ACEi hoặc ARB là lựa chọn hàng đầu ở bệnh nhân ĐTĐ/Tiền ĐTĐ có tăng huyết áp để dự phòng biến chứng thận mạn. (Nguồn: Guideline ADA)"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi, ĐTĐ type 2, suy thận cấp do nhiễm trùng",
+      "body": "<b>Bệnh nhân nam, 60 tuổi</b>, tiền sử ĐTĐ type 2 đã 8 năm, đang dùng Metformin 2000mg/ngày và Gliclazide 60mg/ngày. <br><b>Lý do vào viện:</b> Nhiễm trùng tiết niệu, kèm mệt mỏi nhiều. <br><b>Xét nghiệm lúc vào:</b> Glucose máu 22 mmol/L, Creatinin 180 µmol/L, <b>eGFR 35 mL/phút/1.73 m²</b> (trước đó 1 năm eGFR 65), ceton nước tiểu âm tính, pH máu 7.32, dự trữ kiềm (HCO3-) 20 mmol/L.",
+      "questions": [
+        {
+          "q": "Đánh giá về việc sử dụng thuốc hạ đường huyết của bệnh nhân lúc vào viện là gì?",
+          "options": [
+            "Tiếp tục duy trì phác đồ cũ vì bệnh nhân đang nhiễm trùng",
+            "Ngừng Metformin do nguy cơ toan acid lactic khi suy thận cấp",
+            "Tăng liều Gliclazide để kiểm soát đường huyết tốt hơn",
+            "Phối hợp thêm nhóm SGLT2i để bảo vệ thận cấp"
+          ],
+          "answer": 1,
+          "explain": "Metformin đào thải qua thận; khi có suy thận cấp và nhiễm trùng nặng, nguy cơ tích lũy thuốc gây toan lactic là rất cao. (Nguồn: KDIGO 2026)"
+        },
+        {
+          "q": "Chống chỉ định TUYỆT ĐỐI của Metformin là khi eGFR xuống dưới mức nào?",
+          "options": [
+            "< 60 mL/phút/1.73 m²",
+            "< 45 mL/phút/1.73 m²",
+            "< 30 mL/phút/1.73 m²",
+            "< 15 mL/phút/1.73 m²"
+          ],
+          "answer": 2,
+          "explain": "Theo các guideline, không bắt đầu Metformin nếu eGFR < 45 và phải ngừng thuốc khi eGFR < 30. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Phác đồ kiểm soát đường huyết phù hợp nhất cho bệnh nhân trong đợt cấp này là gì?",
+          "options": [
+            "Insulin tiêm dưới da nhiều mũi (Basal-Bolus)",
+            "Thuốc nhóm DPP-4i (Sitagliptin)",
+            "Nhóm đồng vận thụ thể GLP-1",
+            "Chỉnh liều Gliclazide lên mức tối đa"
+          ],
+          "answer": 0,
+          "explain": "Insulin là phác đồ an toàn và hiệu quả nhất để kiểm soát đường huyết ở bệnh nhân nội trú có tình trạng bệnh lý cấp tính. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Cơ chế gây toan acid lactic liên quan đến Metformin là gì?",
+          "options": [
+            "Tăng tổng hợp Glucose tại gan từ lactate",
+            "Ức chế chu trình Krebs và tăng chuyển hóa kỵ khí",
+            "Gây hủy hoại tế bào ống thận trực tiếp",
+            "Làm giảm thải trừ lactate qua đường hô hấp"
+          ],
+          "answer": 1,
+          "explain": "Metformin ức chế phức hợp 1 của ty thể, làm giảm oxy hóa khử và thúc đẩy chuyển hóa đường kỵ khí sinh lactate. (Nguồn: CURRENT 2026)"
+        },
+        {
+          "q": "Sau khi ổn định nhiễm trùng, eGFR của bệnh nhân về mức 40 mL/phút/1.73 m². Liều Metformin tối đa được khuyến cáo là bao nhiêu?",
+          "options": [
+            "2000 mg/ngày",
+            "1500 mg/ngày",
+            "1000 mg/ngày",
+            "Không được sử dụng"
+          ],
+          "answer": 2,
+          "explain": "Với eGFR từ 30-44, nếu bệnh nhân đang dùng Metformin thì nên giảm nửa liều (tối đa 1000mg) và theo dõi sát chức năng thận. (Nguồn: KDIGO 2026)"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 32 tuổi, mang thai tuần 26, sàng lọc ĐTĐ thai kỳ",
+      "body": "<b>Bệnh nhân nữ, 32 tuổi</b>, đang mang thai tuần thứ 26, PARA 1001. <br><b>Khám thai định kỳ:</b> Bệnh nhân được thực hiện nghiệm pháp dung nạp glucose (OGTT) với 75g đường. <br><b>Kết quả OGTT:</b> <br>- Glucose máu đói: 5.4 mmol/L <br>- Sau 1 giờ: 10.2 mmol/L <br>- Sau 2 giờ: 8.8 mmol/L",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất cho bệnh nhân là gì?",
+          "options": [
+            "Đái tháo đường thai kỳ",
+            "Đái tháo đường thực sự trong thai kỳ",
+            "Rối loạn dung nạp glucose",
+            "Theo dõi đường huyết thai kỳ bình thường"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có Glucose đói 5.4 (≥ 5.1) và sau 1h 10.2 (≥ 10.0) nên chẩn đoán xác định ĐTĐ thai kỳ. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Tiêu chuẩn chẩn đoán ĐTĐ thai kỳ theo OGTT 75g (1 mẫu bất thường là đủ chẩn đoán) có điểm cắt Glucose đói là bao nhiêu?",
+          "options": [
+            "≥ 5.1 mmol/L",
+            "≥ 5.6 mmol/L",
+            "≥ 6.4 mmol/L",
+            "≥ 7.0 mmol/L"
+          ],
+          "answer": 0,
+          "explain": "Theo tiêu chuẩn IADPSG và ADA, các điểm cắt là: Đói ≥ 5.1; 1h ≥ 10.0; 2h ≥ 8.5 mmol/L. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Nguy cơ lớn nhất đối với thai nhi nếu đường huyết của mẹ không được kiểm soát tốt là gì?",
+          "options": [
+            "Thai chậm phát triển trong tử cung",
+            "Thai to (Macrosomia) và hạ đường huyết sau sinh",
+            "Dị tật tim bẩm sinh nặng",
+            "Suy thận cấp ở trẻ sơ sinh"
+          ],
+          "answer": 1,
+          "explain": "Tăng đường huyết mẹ -> tăng đường huyết thai nhi -> tăng Insulin thai nhi (anabolic hormone) -> thai to và nguy cơ hạ đường huyết kịch phát sau sinh do dư thừa Insulin. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Lựa chọn điều trị đầu tiên cho bệnh nhân này là gì?",
+          "options": [
+            "Tiêm Insulin nền buổi tối ngay lập tức",
+            "Sử dụng Metformin viên uống",
+            "Tư vấn dinh dưỡng và tập thể dục trong 1-2 tuần",
+            "Sử dụng Sulfonylurea thế hệ mới"
+          ],
+          "answer": 2,
+          "explain": "70-85% bệnh nhân ĐTĐ thai kỳ có thể kiểm soát được chỉ bằng thay đổi chế độ ăn và lối sống. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Mục tiêu Glucose máu mao mạch sau ăn 2 giờ cho bệnh nhân ĐTĐ thai kỳ là bao nhiêu?",
+          "options": [
+            "< 6.7 mmol/L",
+            "< 7.8 mmol/L",
+            "< 8.5 mmol/L",
+            "< 10.0 mmol/L"
+          ],
+          "answer": 0,
+          "explain": "Mục tiêu nghiêm ngặt trong thai kỳ để dự phòng thai to: Đói < 5.3; sau ăn 1h < 7.8; sau ăn 2h < 6.7 mmol/L. (Nguồn: Guideline ADA)"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 52 tuổi, lo âu, lơ mơ, glucose 2.1 mmol/L",
+      "body": "<b>Bệnh nhân nam, 52 tuổi</b>, vào viện vì lo âu, lơ mơ. <br><b>Tiền sử:</b> ĐTĐ type 2 đang dùng thuốc viên (không rõ loại). <br><b>Tình trạng gần đây:</b> Gần đây bệnh nhân bỏ ăn để giảm cân nhưng vẫn uống thuốc đều. <br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh chậm, vã mồ hôi đầm đìa, nhịp tim nhanh 110 l/p, HA 150/90 mmHg. <br><b>Test đường huyết mao mạch tại giường:</b> <b>2.1 mmol/L</b>",
+      "questions": [
+        {
+          "q": "Xử trí ưu tiên ngay lập tức cho bệnh nhân này là gì?",
+          "options": [
+            "Cho uống nước đường đặc ngay vì bệnh nhân còn nuốt được",
+            "Tiêm tĩnh mạch chậm 50 mL Glucose 30%",
+            "Truyền tĩnh mạch NaCl 0.9% để nâng huyết áp",
+            "Tiêm bắp 1 ống Glucagon 1mg"
+          ],
+          "answer": 1,
+          "explain": "Với bệnh nhân đã có rối loạn ý thức (lơ mơ), ưu tiên tiêm tĩnh mạch Glucose ưu trương để nâng đường huyết nhanh nhất và tránh nguy cơ sặc khi uống. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Nhóm thuốc ĐTĐ đường uống nào sau đây có nguy cơ gây hạ đường huyết kéo dài và nặng nhất?",
+          "options": [
+            "Biguanide (Metformin)",
+            "Sulfonylurea (Glibenclamide)",
+            "Nhóm ức chế enzyme DPP-4",
+            "Nhóm ức chế SGLT2"
+          ],
+          "answer": 1,
+          "explain": "Sulfonylurea kích thích tụy tiết Insulin không phụ thuộc nồng độ đường, đặc biệt các thuốc thế hệ cũ có thời gian bán thải dài gây hạ đường huyết rất sâu và dai dẳng. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Triệu chứng \"vã mồ hôi, tim nhanh\" của bệnh nhân là do cơ chế nào?",
+          "options": [
+            "Phản ứng cường phó giao cảm bù trừ",
+            "Giải phóng các hormon đối nghịch (Catecholamin)",
+            "Tình trạng nhiễm trùng tiềm tàng",
+            "Suy tim cấp do thiếu đường nuôi cơ tim"
+          ],
+          "answer": 1,
+          "explain": "Khi đường huyết hạ, cơ thể phản ứng bằng cách tiết Adrenaline và Noradrenaline gây ra các triệu chứng thần kinh thực vật. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Tại sao bệnh nhân dùng thuốc chẹn Beta giao cảm có thể không nhận biết được tình trạng hạ đường huyết?",
+          "options": [
+            "Thuốc gây tăng ngưỡng nhận biết đường huyết tại não",
+            "Thuốc làm lu mờ các triệu chứng cảnh báo của hệ giao cảm",
+            "Thuốc làm đường huyết hạ nhanh hơn mức bình thường",
+            "Thuốc ức chế hoàn toàn sự giải phóng Glucagon từ tụy"
+          ],
+          "answer": 1,
+          "explain": "Chẹn Beta làm mất triệu chứng tim nhanh, run tay, vã mồ hôi, khiến bệnh nhân đi thẳng vào hôn mê mà không có giai đoạn cảnh báo. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Sau khi bệnh nhân tỉnh táo hoàn toàn và đường huyết về mức 6.5 mmol/L, bước tiếp theo cần làm là gì?",
+          "options": [
+            "Cho bệnh nhân ra viện ngay và dặn ăn uống đầy đủ",
+            "Theo dõi tại viện ít nhất 24-48 giờ vì nguy cơ tái phát hạ đường huyết",
+            "Ngừng hoàn toàn tất cả các thuốc ĐTĐ vĩnh viễn",
+            "Tăng liều thuốc ĐTĐ để tránh đường huyết tăng vọt sau cấp cứu"
+          ],
+          "answer": 1,
+          "explain": "Hạ đường huyết do Sulfonylurea thường tái phát do thuốc vẫn còn trong máu; cần theo dõi sát và duy trì truyền đường liên tục. (Nguồn: Bệnh học nội khoa YHN)"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi, ĐTĐ type 2 lâu năm, tê bì bàn chân",
+      "body": "<b>Bệnh nhân nam, 68 tuổi</b>, ĐTĐ type 2 đã lâu năm, kèm tăng huyết áp và rối loạn lipid máu. <br><b>Triệu chứng hiện tại:</b> Đến khám vì tê bì bàn chân hai bên kiểu \"đi tất\". <br><b>Xét nghiệm:</b> HbA1c 8.2%, eGFR 42 mL/phút/1.73 m², LDL-C 3.8 mmol/L, UACR 150 mg/g. <br><b>Khám lâm sàng:</b> Không thấy tổn thương loét hay hoại tử bàn chân.",
+      "questions": [
+        {
+          "q": "Thuốc nào sau đây là lựa chọn ưu tiên hàng đầu để kiểm soát Lipid máu cho bệnh nhân này theo nguy cơ tim mạch?",
+          "options": [
+            "Fenofibrate",
+            "Atorvastatin liều cao",
+            "Ezetimibe đơn trị liệu",
+            "Omega-3 bổ sung"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân ĐTĐ lớn tuổi kèm bệnh thận mạn được phân tầng nguy cơ tim mạch rất cao, bắt đầu bằng Statins cường độ mạnh là bắt buộc. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Cặp mệnh đề nào sau đây đúng về mục tiêu LDL-C cho bệnh nhân này (được xếp vào nhóm nguy cơ rất cao)?",
+          "options": [
+            "< 2.6 mmol/L và giảm ít nhất 30% so với ban đầu",
+            "< 1.8 mmol/L và giảm ít nhất 50% so với ban đầu",
+            "< 1.4 mmol/L và giảm ít nhất 50% so với ban đầu",
+            "< 3.0 mmol/L và giảm ít nhất 20% so với ban đầu"
+          ],
+          "answer": 2,
+          "explain": "Theo ESC/EAS và ADA, bệnh nhân nguy cơ rất cao cần đạt mục tiêu LDL-C < 1.4 mmol/L (55 mg/dL) và giảm > 50% mức nền. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Để điều trị triệu chứng \"tê bì bàn chân\" (biến chứng thần kinh ĐTĐ), thuốc nào sau đây thường được sử dụng?",
+          "options": [
+            "Pregabalin",
+            "Vitamin B1, B6, B12 liều cao",
+            "Aspirin 81 mg",
+            "Nifedipine chậm"
+          ],
+          "answer": 0,
+          "explain": "Pregabalin hoặc Gabapentin là thuốc đầu tay được FDA phê chuẩn để điều trị đau/tê do thần kinh ĐTĐ. (Nguồn: Guideline ADA)"
+        },
+        {
+          "q": "Xét về bảo vệ thận và tim mạch, phối hợp thuốc nào là tối ưu cho bệnh nhân này?",
+          "options": [
+            "Metformin + Sulfonylurea + ACEi",
+            "Metformin + SGLT2i + ACEi",
+            "Insulin + DPP-4i + Chẹn kênh Calci",
+            "GLP-1 RA + Sulfonylurea + Lợi tiểu"
+          ],
+          "answer": 1,
+          "explain": "Phối hợp SGLT2i và ACEi/ARB là \"bản lề\" trong điều trị bệnh thận ĐTĐ để giảm nguy cơ suy thận giai đoạn cuối. (Nguồn: KDIGO 2026)"
+        },
+        {
+          "q": "Khi sử dụng thuốc nhóm Statins, tác dụng phụ nghiêm trọng cần dặn bệnh nhân theo dõi là gì?",
+          "options": [
+            "Đau cơ và nước tiểu màu sẫm",
+            "Ho khan kéo dài về đêm",
+            "Phù niêm vùng mặt và môi",
+            "Tăng cân nhanh và giữ nước"
+          ],
+          "answer": 0,
+          "explain": "Statins có thể gây viêm cơ hoặc tiêu cơ vân (hiếm gặp nhưng nặng), biểu hiện bằng đau cơ và tiểu Myoglobin (nước tiểu sẫm màu). (Nguồn: Guideline ADA)"
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 55 tuổi, ĐTĐ type 2, trên Insulin Glargine, Somogyi phenomenon",
+      "body": "<b>Bệnh nhân nữ, 55 tuổi</b>, ĐTĐ type 2, đang điều trị Insulin Glargine (Lantus) 20 đơn vị vào 21h tối. <br><b>Theo dõi tại nhà:</b> Bệnh nhân thấy: <br>- Glucose lúc 2h sáng: 3.2 mmol/L <br>- Glucose lúc 6h sáng (lúc đói): 9.5 mmol/L <br><b>Triệu chứng:</b> Bệnh nhân cảm thấy mệt mỏi và đau đầu khi ngủ dậy.",
+      "questions": [
+        {
+          "q": "Hiện tượng đường huyết tăng cao vào buổi sáng sau một đợt hạ đường huyết âm thầm trong đêm được gọi là gì?",
+          "options": [
+            "Hiệu ứng Bình minh (Dawn phenomenon)",
+            "Hiệu ứng Somogyi",
+            "Tình trạng kháng Insulin ngoại vi",
+            "Suy Insulin tương đối vào cuối ngày"
+          ],
+          "answer": 1,
+          "explain": "Hiệu ứng Somogyi là tình trạng tăng đường huyết phản ứng sau hạ đường huyết đêm. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Cơ chế của hiện tượng này là do cơ thể phản ứng với tình trạng hạ đường huyết bằng cách nào?",
+          "options": [
+            "Tăng tiết các hormon đối nghịch: Glucagon, Cortisol, GH",
+            "Giảm đào thải Insulin qua thận vào ban đêm",
+            "Tăng hấp thu đường tại ruột non vào sáng sớm",
+            "Ức chế hoàn toàn quá trình tân tạo đường tại gan"
+          ],
+          "answer": 0,
+          "explain": "Khi đường huyết hạ thấp, cơ thể giải phóng các hormon kích thích gan tăng phát sinh đường để bảo vệ não, gây ra sự vọt đường sau đó. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Cách phân biệt hiện tượng này với \"Hiệu ứng Bình minh\" là dựa vào xét nghiệm đường huyết lúc nào?",
+          "options": [
+            "21h tối (trước khi tiêm)",
+            "2h - 3h sáng",
+            "10h sáng (sau ăn sáng)",
+            "Ngay trước bữa ăn tối"
+          ],
+          "answer": 1,
+          "explain": "Nếu đường huyết lúc 2-3h sáng thấp -> Somogyi; nếu đường huyết lúc 2-3h sáng bình thường hoặc cao -> Hiệu ứng Bình minh. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Hướng xử trí phù hợp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Tăng liều Insulin Glargine buổi tối để kiểm soát đường sáng tốt hơn",
+            "Giảm liều Insulin Glargine buổi tối hoặc ăn thêm bữa phụ nhẹ trước ngủ",
+            "Đổi thời điểm tiêm Insulin từ buổi tối sang buổi sáng sớm",
+            "Thêm một mũi Insulin tác dụng nhanh vào lúc 2h sáng"
+          ],
+          "answer": 1,
+          "explain": "Cần loại bỏ nguyên nhân gây hạ đường huyết đêm bằng cách giảm liều thuốc hoặc cung cấp thêm năng lượng trước khi ngủ. (Nguồn: Bệnh học nội khoa YHN)"
+        },
+        {
+          "q": "Chọn tập hợp đúng về các triệu chứng hạ đường huyết đêm: (1) Ác mộng, (2) Vã mồ hôi trộm, (3) Đau đầu sau khi dậy, (4) Co giật lúc ngủ",
+          "options": [
+            "(1), (2)",
+            "(1), (2), (3)",
+            "(2), (3), (4)",
+            "Tất cả 4 mệnh đề"
+          ],
+          "answer": 1,
+          "explain": "Hạ đường huyết đêm thường biểu hiện qua giấc ngủ không yên, ác mộng, mồ hôi làm ướt quần áo/ga giường và mệt mỏi sau khi thức dậy. (Nguồn: Bệnh học nội khoa YHN)"
+        }
+      ]
     }
   ]
 }
