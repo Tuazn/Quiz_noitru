@@ -1,0 +1,1120 @@
+{
+  "name": "Đột quỵ não",
+  "description": "Các tình huống lâm sàng và câu hỏi trắc nghiệm về Tai biến mạch máu não (Đột quỵ)",
+  "level": "Ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Thần kinh",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 68 tuổi đột ngột nói khó và yếu nửa người phải",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 68 tuổi, làm nghề thợ xây.<br><br><b>Bệnh sử:</b> Được đưa vào cấp cứu vì đột ngột nói khó và yếu nửa người phải khoảng 2 giờ trước. Bệnh nhân không đau đầu, không nôn, không có tiền sử chấn thương đầu hay co giật gần đây.<br><br><b>Tiền sử:</b> Có tiền sử tăng huyết áp 10 năm nhưng không điều trị đều, đái tháo đường type 2 đang dùng Metformin 1000mg/ngày, và hút thuốc lá 40 gói/năm.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, Glasgow 15 điểm. Sinh hiệu: huyết áp 180/100 mmHg, mạch 92 lần/phút, nhiệt độ 37.2°C, SpO2 98% (khí trời), BMI 26 kg/m². Khám thần kinh ghi nhận liệt hoàn toàn nửa người phải (cơ lực 0/5), liệt mặt trung ương phải, mất ngôn ngữ toàn bộ, không có dấu màng não. Khám tim mạch có tiếng thổi tâm thu 2/6 ở động mạch cảnh trái, tim nhịp đều, phổi không ran.<br><br><b>Xét nghiệm:</b> Glucose mao mạch 10.2 mmol/L, công thức máu và đông máu cơ bản trong giới hạn bình thường, Creatinin 110 µmol/L.",
+      "questions": [
+        {
+          "q": "Thăm dò hình ảnh học nào cần được chỉ định đầu tiên và ngay lập tức cho bệnh nhân này?",
+          "options": [
+            "Siêu âm Doppler động mạch cảnh.",
+            "CT scan sọ não không tiêm thuốc cản quang.",
+            "Chụp mạch máu não số hóa xóa nền (DSA).",
+            "MRI sọ não có khuếch tán (DWI)."
+          ],
+          "answer": 1,
+          "explain": "CT sọ não không cản quang là chỉ định hình ảnh học đầu tiên và khẩn cấp nhất trong cấp cứu đột quỵ. Mục tiêu chính là để loại trừ xuất huyết não, một chống chỉ định tuyệt đối của liệu pháp tiêu sợi huyết. MRI-DWI nhạy hơn trong việc xác định nhồi máu não sớm nhưng mất nhiều thời gian hơn và không phải lúc nào cũng sẵn có."
+        },
+        {
+          "q": "Dựa trên bệnh sử và khám lâm sàng, cơ chế tai biến mạch máu não nào có khả năng xảy ra cao nhất?",
+          "options": [
+            "Huyết khối trên mảng xơ vữa động mạch lớn.",
+            "Thuyên tắc từ tim do rung nhĩ.",
+            "Bệnh lý mạch máu nhỏ (nhồi máu lỗ khuyết).",
+            "Tình trạng tăng đông máu."
+          ],
+          "answer": 0,
+          "explain": "Cơ chế bệnh sinh phù hợp nhất là huyết khối hình thành trên mảng xơ vữa ở động mạch lớn (động mạch cảnh trái, dựa vào tiếng thổi) gây tắc mạch tại chỗ hoặc di chuyển lên gây tắc động mạch não giữa trái. Thuyên tắc từ tim thường gặp ở bệnh nhân rung nhĩ (bệnh nhân này nhịp đều). Tắc mạch máu nhỏ (lỗ khuyết) thường gây triệu chứng ít rầm rộ hơn. Tăng đông không phải là nguyên nhân thường gặp nếu không có bệnh lý nền đặc hiệu."
+        },
+        {
+          "q": "Sau khi CT sọ não loại trừ xuất huyết và không có chống chỉ định, chiến lược tái tưới máu nào phù hợp nhất ở giờ thứ 2?",
+          "options": [
+            "Nạp kép aspirin và clopidogrel ngay.",
+            "Dùng thuốc tiêu sợi huyết tĩnh mạch.",
+            "Chờ đủ sáu giờ rồi đánh giá lại.",
+            "Tiêm heparin không phân đoạn tĩnh mạch."
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân đến trong cửa sổ 4.5 giờ, có thiếu sót thần kinh gây tàn tật và CT không thấy xuất huyết nên cần đánh giá dùng alteplase hoặc tenecteplase tĩnh mạch. Heparin và kháng kết tập tiểu cầu kép không thay thế tái tưới máu; không được trì hoãn điều trị chỉ để chờ thêm."
+        },
+        {
+          "q": "Mục tiêu huyết áp nào cần đạt trước khi dùng thuốc tiêu sợi huyết tĩnh mạch?",
+          "options": [
+            "Hạ nhanh dưới 140/90 mmHg.",
+            "Giữ tâm thu từ 200-220 mmHg.",
+            "Không điều chỉnh trong 24 giờ đầu.",
+            "Duy trì dưới 185/110 mmHg."
+          ],
+          "answer": 3,
+          "explain": "Trước tiêu sợi huyết tĩnh mạch, huyết áp phải dưới 185/110 mmHg và sau điều trị thường duy trì dưới 180/105 mmHg. Hạ quá nhanh hoặc quá sâu có thể làm giảm tưới máu vùng tranh tối tranh sáng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 55 tuổi đau đầu như búa bổ kèm lơ mơ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 55 tuổi, nghề nghiệp kế toán.<br><br><b>Bệnh sử:</b> Được gia đình đưa đến bệnh viện vì đột ngột đau đầu dữ dội, sau đó nôn ói và dần lơ mơ. Gia đình cho biết khoảng 30 phút trước khi vào viện, bệnh nhân đang làm việc thì kêu đau đầu \"như búa bổ\", sau đó nói khó và yếu dần nửa người trái. Bệnh nhân không có tiền sử chấn thương đầu, không dùng thuốc chống đông.<br><br><b>Tiền sử:</b> Có tiền sử tăng huyết áp không được kiểm soát tốt, thường xuyên tự ý ngưng thuốc.<br><br><b>Khám lâm sàng:</b> Bệnh nhân lơ mơ, Glasgow 11 điểm (E3V3M5), đồng tử hai bên đều 2mm, phản xạ ánh sáng tốt. Huyết áp đo được là 210/120 mmHg, mạch 60 lần/phút, nhịp thở 14 lần/phút, không sốt. Khám thần kinh ghi nhận liệt nửa người trái sức cơ 1/5, dấu Babinski (+) bên trái. Không ghi nhận dấu màng não.<br><br><b>Xét nghiệm:</b> Công thức máu, đông máu cơ bản và sinh hóa máu trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào có khả năng nhất ở bệnh nhân này?",
+          "options": [
+            "Viêm màng não mủ trong ca bệnh này.",
+            "Nhồi máu não diện rộng động mạch não giữa.",
+            "Xuất huyết khoang dưới nhện do vỡ túi phình.",
+            "Xuất huyết não vùng nhân nền do tăng huyết áp."
+          ],
+          "answer": 3,
+          "explain": "Chẩn đoán phù hợp nhất là xuất huyết não trên nền tăng huyết áp. Bệnh cảnh khởi phát đột ngột với đau đầu dữ dội, nôn ói, rối loạn ý thức và dấu thần kinh khu trú (liệt nửa người) ở một bệnh nhân có tăng huyết áp không kiểm soát là rất điển hình. Nhồi máu não thường ít khi có đau đầu dữ dội và nôn ói ngay từ đầu. Xuất huyết dưới nhện thường có dấu màng não rõ. Viêm màng não thường có sốt và hội chứng nhiễm trùng."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây ra tình trạng trên là gì?",
+          "options": [
+            "Chuyển dạng xuất huyết từ một nhồi máu não.",
+            "Vỡ các vi phình mạch Charcot-Bouchard ở các động mạch xuyên.",
+            "Vỡ dị dạng động tĩnh mạch (AVM).",
+            "Bệnh lý đông máu gây chảy máu tự phát."
+          ],
+          "answer": 1,
+          "explain": "Tăng huyết áp mạn tính gây ra tình trạng thoái hóa mỡ-hyalin (lipohyalinosis) ở các động mạch xuyên nhỏ, sâu trong não, đặc biệt là các nhánh của động mạch đậu vân. Sự thoái hóa này làm thành mạch yếu đi, dễ hình thành các vi phình mạch (phình mạch Charcot-Bouchard) và vỡ ra dưới áp lực cao, gây xuất huyết trong nhu mô não, thường ở vị trí các nhân nền."
+        },
+        {
+          "q": "Cận lâm sàng nào sau đây có giá trị nhất để xác định chẩn đoán?",
+          "options": [
+            "Chọc dò dịch não tủy.",
+            "CT scan sọ não không tiêm thuốc cản quang.",
+            "Điện não đồ (EEG).",
+            "CT scan sọ não có tiêm thuốc cản quang."
+          ],
+          "answer": 1,
+          "explain": "CT scan sọ não không cản quang là tiêu chuẩn vàng để chẩn đoán xuất huyết não cấp, cho thấy hình ảnh một khối tăng tỷ trọng rõ rệt trong nhu mô não. Đây là xét nghiệm nhanh chóng, sẵn có và đủ để xác định chẩn đoán và đưa ra hướng xử trí ban đầu."
+        },
+        {
+          "q": "Chiến lược kiểm soát huyết áp ban đầu nào phù hợp nhất ở bệnh nhân xuất huyết não tự phát này?",
+          "options": [
+            "Hạ tâm thu từ từ về khoảng 140-150 mmHg.",
+            "Không điều trị huyết áp trong 24 giờ đầu.",
+            "Hạ tâm thu tức thì xuống dưới 110 mmHg.",
+            "Chỉ dùng lợi tiểu để giảm huyết áp."
+          ],
+          "answer": 0,
+          "explain": "Ở xuất huyết não tự phát có huyết áp tâm thu 150-220 mmHg, hạ huyết áp sớm, êm dịu về khoảng 140 mmHg và duy trì 130-150 mmHg thường an toàn. Hạ xuống dưới 130 mmHg có thể có hại; mannitol hay phẫu thuật chỉ dùng khi có chỉ định riêng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 76 tuổi khởi phát thất ngôn Wernicke lúc thức giấc",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 76 tuổi, sống một mình.<br><br><b>Bệnh sử:</b> Được người hàng xóm phát hiện trong tình trạng không nói được và lú lẫn vào buổi sáng. Thời điểm cuối cùng bệnh nhân còn bình thường là 10 giờ tối hôm trước. ECG tại phòng cấp cứu xác nhận rung nhĩ đáp ứng thất nhanh.<br><br><b>Tiền sử:</b> Có tiền sử rung nhĩ không thường xuyên và tăng huyết áp, đang dùng Amlodipine 5mg/ngày nhưng không dùng thuốc chống đông.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh nhưng mất định hướng không gian và thời gian, không thực hiện được y lệnh, Glasgow 13 điểm (E4V4M5). Sinh hiệu: huyết áp 150/85 mmHg, mạch 110 lần/phút không đều, nhiệt độ 37.0°C, SpO2 97%. Khám thần kinh ghi nhận bán manh đồng danh phải, thất ngôn Wernicke (nói không hiểu, nói trôi chảy nhưng sai từ), không ghi nhận yếu liệt chi vận động rõ rệt, cảm giác bình thường. Khám tim thấy nhịp tim hoàn toàn không đều, không nghe tiếng thổi.<br><br><b>Xét nghiệm:</b> CT sọ não không cản quang ban đầu chưa thấy rõ ổ tổn thương.",
+      "questions": [
+        {
+          "q": "Dựa vào các triệu chứng lâm sàng (thất ngôn Wernicke, bán manh đồng danh phải), vùng não nào có khả năng bị tổn thương cao nhất?",
+          "options": [
+            "Thùy thái dương-đình trái.",
+            "Thùy trán phải.",
+            "Tiểu não.",
+            "Thân não."
+          ],
+          "answer": 0,
+          "explain": "Vùng não bị tổn thương có khả năng cao nhất là vùng vỏ não thái dương-đình bên trái, do động mạch não giữa trái chi phối. Vị trí này tương ứng với trung tâm ngôn ngữ Wernicke, giải thích cho triệu chứng thất ngôn Wernicke (mất khả năng hiểu ngôn ngữ). Bán manh đồng danh phải cũng là một dấu hiệu của tổn thương đường thị giác sau giao thoa ở bán cầu trái."
+        },
+        {
+          "q": "Cơ chế bệnh sinh nào giải thích rõ nhất tình trạng của bệnh nhân?",
+          "options": [
+            "Xơ vữa gây hẹp nặng động mạch não giữa.",
+            "Hình thành huyết khối trong buồng tim và di chuyển lên não.",
+            "Bóc tách động mạch cảnh trong ở bệnh nhân này.",
+            "Viêm mạch máu hệ thần kinh trung ương."
+          ],
+          "answer": 1,
+          "explain": "Rung nhĩ là nguyên nhân chính. Sự co bóp không hiệu quả của tâm nhĩ, đặc biệt là tiểu nhĩ trái, dẫn đến ứ trệ máu và hình thành cục máu đông. Cục máu đông này có thể di chuyển theo tuần hoàn chung lên não và gây tắc mạch, dẫn đến nhồi máu não. Đây là cơ chế thuyên tắc từ tim."
+        },
+        {
+          "q": "Ở đột quỵ khi thức giấc, phương án hình ảnh nào phù hợp nhất để tuyển chọn điều trị tái tưới máu?",
+          "options": [
+            "MRI DWI-FLAIR hoặc CT/MR tưới máu.",
+            "Siêu âm Doppler xuyên sọ đơn thuần.",
+            "Điện não đồ kéo dài tại giường.",
+            "Chỉ CT sọ não không cản quang."
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân không rõ thời điểm khởi phát có thể được tuyển chọn tiêu sợi huyết hoặc lấy huyết khối bằng bất tương hợp DWI-FLAIR hay hình ảnh tưới máu. CT không cản quang vẫn cần để loại trừ xuất huyết nhưng không đủ để xác định mô não còn cứu được."
+        },
+        {
+          "q": "Biến pháp điều trị dự phòng tái phát lâu dài quan trọng nhất ở bệnh nhân rung nhĩ không do van tim là gì?",
+          "options": [
+            "Dùng kháng tiểu cầu kép kéo dài.",
+            "Dùng thuốc chống đông đường uống.",
+            "Chỉ dùng statin và hạ huyết áp.",
+            "Dùng aspirin đơn trị kéo dài."
+          ],
+          "answer": 1,
+          "explain": "Đột quỵ do thuyên tắc từ tim trên nền rung nhĩ cần chống đông đường uống khi an toàn; DOAC thường được ưu tiên nếu không có van tim cơ học hoặc hẹp hai lá trung bình-nặng. Kháng tiểu cầu không phòng ngừa thuyên tắc do rung nhĩ hiệu quả tương đương."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi yếu nhẹ bàn tay phải và nói đớ rõ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi, làm việc văn phòng.<br><br><b>Bệnh sử:</b> Đến khám vì yếu và vụng về ở bàn tay phải kèm theo nói đớ nhẹ, các triệu chứng xuất hiện từ sáng cùng ngày và diễn tiến không nặng thêm. Bệnh nhân hoàn toàn tỉnh táo và nhận thức bình thường. Bệnh nhân không hút thuốc, uống rượu ít.<br><br><b>Tiền sử:</b> Có tiền sử tăng huyết áp được chẩn đoán 5 năm, điều trị với Perindopril 5mg/ngày, và rối loạn lipid máu.<br><br><b>Khám lâm sàng:</b> Ý thức tỉnh táo, Glasgow 15 điểm. Sinh hiệu: huyết áp 160/95 mmHg, mạch 80 lần/phút, đều. Khám thần kinh phát hiện yếu nhẹ cơ lực vùng bàn tay phải (4/5), các nhóm cơ khác ở tay và chân phải có cơ lực 5/5, nói đớ rõ, không có thất ngôn, không có rối loạn cảm giác hay bán manh. Phản xạ gân xương bình thường, không có dấu Babinski. Các chức năng thần kinh cao cấp khác hoàn toàn bình thường.<br><br><b>Xét nghiệm:</b> Các chỉ số sinh hóa máu cơ bản bình thường.",
+      "questions": [
+        {
+          "q": "Hội chứng lâm sàng này gợi ý đến loại đột quỵ nào nhiều nhất?",
+          "options": [
+            "Đột quỵ lỗ khuyết (Lacunar stroke).",
+            "Đột quỵ do tắc động mạch não giữa diện rộng.",
+            "Cơn thiếu máu não thoáng qua (TIA).",
+            "Đột quỵ do tắc động mạch não trước."
+          ],
+          "answer": 0,
+          "explain": "Chẩn đoán phù hợp nhất là hội chứng đột quỵ lỗ khuyết. Cụ thể, đây có thể là hội chứng \"bàn tay vụng về - nói khó\" (dysarthria-clumsy hand syndrome), một trong những hội chứng kinh điển của đột quỵ lỗ khuyết. Đặc điểm của đột quỵ lỗ khuyết là các khiếm khuyết thần kinh rất khu trú (thuần vận động hoặc thuần cảm giác), không kèm theo rối loạn chức năng vỏ não như thất ngôn, bỏ quên nửa người, hay bán manh."
+        },
+        {
+          "q": "Bệnh sinh của loại đột quỵ này liên quan chặt chẽ nhất đến yếu tố nào sau đây?",
+          "options": [
+            "Bệnh lý mạch máu nhỏ do tăng huyết áp.",
+            "Rung nhĩ trong ca bệnh này.",
+            "Mảng xơ vữa lớn ở quai động mạch chủ.",
+            "Tăng đông di truyền."
+          ],
+          "answer": 0,
+          "explain": "Cơ chế chính của đột quỵ lỗ khuyết là bệnh lý mạch máu nhỏ, chủ yếu do tăng huyết áp và đái tháo đường. Tăng huyết áp mạn tính gây ra tình trạng xơ cứng và thoái hóa mỡ-hyalin của các động mạch xuyên nhỏ (đường kính < 200 micromet), dẫn đến tắc nghẽn và gây ra các ổ nhồi máu nhỏ, sâu (< 15-20 mm) ở các cấu trúc dưới vỏ như đồi thị, cầu não, bao trong."
+        },
+        {
+          "q": "Thăm dò hình ảnh nào có độ nhạy cao nhất để xác định tổn thương trong trường hợp này?",
+          "options": [
+            "CT scan sọ não không cản quang.",
+            "Siêu âm Doppler xuyên sọ.",
+            "Chụp mạch máu não (MRA).",
+            "MRI sọ não với chuỗi xung khuếch tán (DWI)."
+          ],
+          "answer": 3,
+          "explain": "MRI sọ não, đặc biệt là chuỗi xung khuếch tán (DWI), có độ nhạy cao nhất để phát hiện các nhồi máu lỗ khuyết cấp tính. Các nhồi máu này thường rất nhỏ và có thể không nhìn thấy được trên CT scan sọ não trong giai đoạn đầu. DWI có thể phát hiện các tổn thương này trong vòng vài phút sau khi khởi phát."
+        },
+        {
+          "q": "Biện pháp điều trị dự phòng thứ phát quan trọng nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Dùng thuốc chống đông đường uống trong ca bệnh này.",
+            "Dùng thuốc kháng viêm corticosteroid ở bệnh nhân này.",
+            "Kiểm soát huyết áp tích cực và dùng thuốc kháng kết tập tiểu cầu.",
+            "Can thiệp đặt stent động mạch cảnh ở bệnh nhân này."
+          ],
+          "answer": 2,
+          "explain": "Điều trị nền tảng và quan trọng nhất để dự phòng tái phát đột quỵ lỗ khuyết là kiểm soát chặt chẽ các yếu tố nguy cơ mạch máu. Trong đó, kiểm soát huyết áp là quan trọng hàng đầu. Bên cạnh đó, việc sử dụng thuốc kháng kết tập tiểu cầu (như Aspirin hoặc Clopidogrel) và statin cũng là các biện pháp dự phòng thứ phát tiêu chuẩn."
+        }
+      ]
+    },
+    {
+      "title": "Nữ sinh viên 22 tuổi đau đầu dữ dội đột ngột như sét đánh",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 22 tuổi, sinh viên đại học.<br><br><b>Bệnh sử:</b> Được bạn cùng phòng đưa vào cấp cứu vì đột ngột đau đầu dữ dội khi đang học bài. Bệnh nhân mô tả cơn đau đầu \"khủng khiếp nhất trong đời\", lan tỏa khắp đầu, kèm theo nôn ói nhiều, sợ ánh sáng và tiếng động. Bệnh nhân không bị sốt, không có chấn thương gần đây.<br><br><b>Tiền sử:</b> Không có tiền sử bệnh lý đáng chú ý.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh nhưng kích thích, vật vã. Sinh hiệu ổn định ngoại trừ huyết áp hơi cao 150/90 mmHg. Khám thần kinh ghi nhận dấu hiệu cổ gượng rõ, dấu Kernig và Brudzinski dương tính. Không có dấu thần kinh khu trú như liệt vận động hay rối loạn cảm giác. Soi đáy mắt chưa thấy phù gai thị.<br><br><b>Xét nghiệm:</b> Đông máu cơ bản và sinh hóa trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán sơ bộ hợp lý nhất là gì?",
+          "options": [
+            "Viêm màng ngoại do virus.",
+            "Migraine có aura.",
+            "Xuất huyết não trong nhu mô.",
+            "Xuất huyết khoang dưới nhện (Subarachnoid Hemorrhage - SAH)."
+          ],
+          "answer": 3,
+          "explain": "Bệnh cảnh lâm sàng với khởi phát đột ngột một cơn đau đầu \"sét đánh\" (thunderclap headache), kèm theo hội chứng màng não (cổ gượng, Kernig, Brudzinski (+)) và không có dấu thần kinh khu trú ở người trẻ là cực kỳ điển hình cho xuất huyết khoang dưới nhện, mà nguyên nhân thường gặp nhất là vỡ túi phình động mạch não."
+        },
+        {
+          "q": "Cận lâm sàng hình ảnh học nào là lựa chọn đầu tiên để chẩn đoán tình trạng này?",
+          "options": [
+            "CT scan sọ não không tiêm thuốc cản quang.",
+            "X-quang sọ thẳng nghiêng.",
+            "MRI sọ não T2.",
+            "Siêu âm Doppler xuyên sọ."
+          ],
+          "answer": 0,
+          "explain": "CT scan sọ não không cản quang là xét nghiệm đầu tay với độ nhạy rất cao (>95%) trong 24 giờ đầu, cho thấy hình ảnh máu (tăng tỷ trọng) lấp đầy các rãnh cuống não, bể não và khe liên bán cầu. Đây là xét nghiệm nhanh chóng và hiệu quả để xác định chẩn đoán."
+        },
+        {
+          "q": "Khi CT sọ não ban đầu âm tính nhưng nghi ngờ xuất huyết dưới nhện vẫn cao, bước tiếp theo phù hợp nhất là gì?",
+          "options": [
+            "Dùng thuốc giảm đau rồi cho về.",
+            "Lặp lại CT thường quy sau một tuần.",
+            "Đo điện não đồ kéo dài tại giường.",
+            "Chọc dò dịch não tủy khi CT không đủ loại trừ."
+          ],
+          "answer": 3,
+          "explain": "CT không cản quang chất lượng cao trong sáu giờ đầu có độ nhạy rất cao. Nếu chụp muộn hơn, chất lượng không bảo đảm hoặc nghi ngờ vẫn cao, cần chọc dò dịch não tủy tìm hồng cầu và xanthochromia sau khi loại trừ chống chỉ định."
+        },
+        {
+          "q": "Hướng xử trí ưu tiên ngay sau khi xác định chẩn đoán là gì?",
+          "options": [
+            "Dùng thuốc chống trầm cảm ba vòng để giảm đau đầu.",
+            "Chụp CTA hoặc DSA để xác định túi phình và lên kế hoạch can thiệp.",
+            "Dùng kháng sinh phổ rộng và acyclovir ở bệnh nhân này.",
+            "Bắt đầu dùng thuốc chống đông để phòng huyết khối tĩnh mạch sâu."
+          ],
+          "answer": 1,
+          "explain": "Sau khi xác định chẩn đoán xuất huyết dưới nhện, việc tìm nguyên nhân gây chảy máu (thường là túi phình) để can thiệp ngăn ngừa tái vỡ là ưu tiên hàng đầu. Chụp mạch máu não (CTA hoặc DSA) là cần thiết để xác định vị trí, hình dạng của túi phình và lập kế hoạch can thiệp (kẹp túi phình bằng phẫu thuật hoặc can thiệp nội mạch bằng coil). Nimodipine được dùng để dự phòng co thắt mạch, một biến chứng muộn nguy hiểm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi hôn mê sâu nghi do tắc động mạch thân nền",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi.<br><br><b>Bệnh sử:</b> Người nhà kể lại rằng khoảng 1 giờ trước, bệnh nhân đang ngồi xem TV thì đột ngột chóng mặt dữ dội, nôn mửa, nhìn đôi, sau đó nhanh chóng lơ mơ rồi mất ý thức.<br><br><b>Tiền sử:</b> Có tiền sử đái tháo đường, tăng huyết áp và hút thuốc lá nhiều năm.<br><br><b>Khám lâm sàng:</b> Tại phòng cấp cứu, bệnh nhân hôn mê sâu, Glasgow 5 điểm (E1V1M3), thở ngáp cá, đồng tử hai bên co nhỏ (kích thước 1mm) và phản xạ ánh sáng rất yếu. Bệnh nhân có đáp ứng duỗi cứng mất vỏ khi kích thích đau. Khám không thấy dấu màng não, không có dấu hiệu chấn thương. Sinh hiệu: Huyết áp 190/100 mmHg, mạch 110 lần/phút, nhiệt độ 38.0°C, SpO2 85% (đang được thông khí qua mask).<br><br><b>Xét nghiệm:</b> Chức năng đông máu cơ bản và điện giải trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Với các triệu chứng lâm sàng trên, chẩn đoán nào cần được nghĩ đến đầu tiên?",
+          "options": [
+            "Trạng thái động kinh sau cơn co giật.",
+            "Ngộ độc thuốc phiện (opioid).",
+            "Tắc động mạch thân nền.",
+            "Xuất huyết não thất lớn."
+          ],
+          "answer": 2,
+          "explain": "Tắc động mạch thân nền là một cấp cứu thần kinh tối khẩn. Bệnh cảnh lâm sàng với khởi phát đột ngột các triệu chứng của thân não (chóng mặt, nôn, nhìn đôi) tiến triển nhanh đến hôn mê sâu, rối loạn hô hấp, đồng tử co nhỏ và duỗi cứng mất vỏ là rất điển hình. Động mạch thân nền cung cấp máu cho cầu não, trung não và tiểu não, những cấu trúc quan trọng cho việc duy trì ý thức, chức năng hô hấp và các dây thần kinh sọ."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính gây ra tình trạng hôn mê của bệnh nhân là gì?",
+          "options": [
+            "Tổn thương lan tỏa hai bên vỏ não.",
+            "Phù não lan tỏa gây tụt kẹt hạnh nhân tiểu não.",
+            "Tổn thương hệ thống lưới hoạt hóa hướng lên (ARAS) ở thân não.",
+            "Ức chế thần kinh trung ương do nhiễm toan chuyển hóa."
+          ],
+          "answer": 2,
+          "explain": "Tắc động mạch thân nền gây tổn thương hệ thống lưới hoạt hóa hướng lên (ARAS) ở thân não. ARAS là một mạng lưới neuron phức tạp chịu trách nhiệm duy trì trạng thái tỉnh táo và ý thức. Khi hệ thống này bị thiếu máu và tổn thương, bệnh nhân sẽ nhanh chóng rơi vào hôn mê sâu và tổn thương hô hấp, tuần hoàn mạnh mẽ. Tổn thương vỏ não hai bên cũng gây hôn mê nhưng bệnh cảnh khởi phát thường khác."
+        },
+        {
+          "q": "Để chẩn đoán xác định nhanh chóng tình trạng này, cận lâm sàng nào là hữu ích nhất?",
+          "options": [
+            "Chọc dò dịch não tủy.",
+            "Điện não đồ (EEG).",
+            "MRI sọ não chuỗi xung FLAIR.",
+            "Chụp CT angiography (CTA) sọ não và cổ."
+          ],
+          "answer": 3,
+          "explain": "Chụp mạch máu não (CTA hoặc MRA) là phương tiện chẩn đoán hình ảnh quan trọng nhất để xác định tắc động mạch thân nền. Nó cho phép nhìn thấy trực tiếp vị trí tắc nghẽn của mạch máu lớn. CT sọ não không cản quang ban đầu có thể hoàn toàn bình thường hoặc chỉ thấy dấu hiệu \"động mạch thân nền tăng đậm độ\" không đặc hiệu."
+        },
+        {
+          "q": "Phương pháp điều trị nào có khả năng cải thiện tiên lượng cho bệnh nhân nhất?",
+          "options": [
+            "Dùng Mannitol liều cao và thở máy tăng thông khí.",
+            "Hạ thân nhiệt chỉ huy.",
+            "Can thiệp nội mạch lấy huyết khối cơ học.",
+            "Tiêu sợi huyết đường tĩnh mạch rtPA."
+          ],
+          "answer": 2,
+          "explain": "Tắc động mạch thân nền có tiên lượng rất xấu nếu không được tái tưới máu kịp thời. Can thiệp nội mạch lấy huyết khối cơ học là phương pháp điều trị hiệu quả nhất, đã được chứng minh giúp cải thiện kết cục lâm sàng ở những bệnh nhân đủ điều kiện. Cửa số điều trị có thể kéo dài đến 24 giờ trong một số trường hợp được lựa chọn kỹ càng dựa trên hình ảnh học tưới máu. Điều trị nội khoa đơn thuần có tỷ lệ tử vong rất cao."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 60 tuổi bị một đợt yếu đột ngột ở tay chân trái",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 60 tuổi.<br><br><b>Bệnh sử:</b> Đến phòng khám vì một đợt yếu đột ngột ở tay và chân trái kèm theo méo miệng về bên phải. Bệnh nhân mô tả các triệu chứng bắt đầu khoảng 2 giờ trước, kéo dài khoảng 15 phút rồi tự hồi phục hoàn toàn. Bệnh nhân không bị đau đầu, không mất ý thức.<br><br><b>Tiền sử:</b> Có tiền sử tăng huyết áp và đái tháo đường type 2, đang điều trị không thường xuyên.<br><br><b>Khám lâm sàng:</b> Hiện tại, khi khám, bệnh nhân hoàn toàn tỉnh táo, huyết áp 145/85 mmHg. Khám thần kinh không phát hiện bất kỳ dấu hiệu khiếm khuyết nào: cơ lực hai bên 5/5, không có liệt mặt, phát âm rõ, cảm giác và thị trường bình thường.<br><br><b>Xét nghiệm:</b> Đường huyết mao mạch và điện giải bình thường.",
+      "questions": [
+        {
+          "q": "Tình trạng của bệnh nhân được mô tả chính xác nhất là gì?",
+          "options": [
+            "Cơn Migraine liệt nửa người.",
+            "Co giật cục bộ (cơn Todd's paresis).",
+            "Cơn thiếu máu não thoáng qua (TIA).",
+            "Đột quỵ nhẹ đã hồi phục."
+          ],
+          "answer": 2,
+          "explain": "Đây là một bệnh cảnh điển hình của Cơn thiếu máu não thoáng qua (TIA). TIA được định nghĩa là một cơn rối loạn chức năng thần kinh thoáng qua do thiếu máu cục bộ khu trú ở não hoặc võng mạc, với các triệu chứng lâm sàng thường kéo dài dưới 1 giờ và không có bằng chứng nhồi máu cấp trên hình ảnh học (định nghĩa dựa trên mô học)."
+        },
+        {
+          "q": "Cơ chế phù hợp nhất giải thích triệu chứng thần kinh khu trú hồi phục hoàn toàn là gì?",
+          "options": [
+            "Tắc động mạch thoáng qua rồi tự tái thông.",
+            "Phù não lan tỏa rồi tự giảm nhanh.",
+            "Co giật toàn thể gây liệt kéo dài.",
+            "Xuất huyết nhỏ rồi được hấp thu hoàn toàn."
+          ],
+          "answer": 0,
+          "explain": "TIA thường do thiếu máu khu trú thoáng qua khi mạch bị tắc ngắn rồi tự tái thông trước khi hình thành nhồi máu vĩnh viễn. Tuần hoàn bàng hệ có thể góp phần nhưng không phải cơ chế duy nhất hay bắt buộc."
+        },
+        {
+          "q": "Hãy tính điểm nguy cơ đột quỵ sớm cho bệnh nhân này theo thang điểm ABCD2?",
+          "options": [
+            "3 điểm.",
+            "5 điểm.",
+            "6 điểm.",
+            "4 điểm."
+          ],
+          "answer": 2,
+          "explain": "Thang điểm ABCD2 được sử dụng để phân tầng nguy cơ đột quỵ sớm sau TIA. Điểm được tính như sau: Age (Tuổi >= 60) = 1 điểm; Blood pressure (HA >= 140/90) = 1 điểm; Clinical features (Yếu một bên = 2 điểm, Rối loạn ngôn ngữ đơn thuần = 1 điểm); Duration (Thời gian triệu chứng: >= 60 phút = 2 điểm, 10-59 phút = 1 điểm); Diabetes = 1 điểm. Bệnh nhân này có: Tuổi 60 (1đ), HA 145/85 (1đ), Yếu một bên (2đ), Thời gian 15 phút (1đ), ĐTĐ (1đ) -> Tổng cộng 6 điểm."
+        },
+        {
+          "q": "Xử trí phù hợp nhất ngay sau cơn TIA nguy cơ cao là gì?",
+          "options": [
+            "Đánh giá chuyên khoa khẩn trong 24 giờ.",
+            "Dùng chống đông không cần tìm nguyên nhân.",
+            "Cho về và tái khám sau một tuần.",
+            "Chỉ tư vấn nghỉ ngơi và ăn nhạt."
+          ],
+          "answer": 0,
+          "explain": "TIA là cấp cứu vì nguy cơ đột quỵ cao nhất trong những giờ ngày đầu. Cần đánh giá khẩn trong 24 giờ, chụp não và mạch, tìm rung nhĩ, đồng thời khởi trị dự phòng theo cơ chế; không nên dựa duy nhất vào ABCD2 để quyết định trì hoãn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi đau vùng cổ trái dữ dội sau khi tập yoga",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Bệnh sử:</b> Đến phòng cửu vì đau đầu và đau vùng cổ bên trái dữ dội, khởi phát đột ngột sau khi tập yoga với các động tác xoay cổ mạnh. Cơn đau lan lên vùng quanh hốc mắt trái. Khoảng vài giờ sau, bệnh nhân bắt đầu yếu tay phải và nói khó. Bệnh nhân không sốt, không nôn.<br><br><b>Tiền sử:</b> Khỏe mạnh, không có yếu tố nguy cơ tim mạch.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh. Khám lâm sàng ghi nhận bệnh nhân tỉnh, có hội chứng Horner bên trái (sụp mi, co đồng tử, giảm tiết mồ hôi nửa mặt), yếu nhẹ nửa người phải (cơ lực 4/5) và thất ngôn diễn đạt. Nghe vùng cổ trái không có tiếng thổi.<br><br><b>Xét nghiệm:</b> Các chỉ số sinh hóa máu bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào là phù hợp nhất với bệnh cảnh này?",
+          "options": [
+            "Migraine phức tạp.",
+            "Bóc tách động mạch cảnh trong bên trái.",
+            "Nhồi máu não do xơ vữa động mạch.",
+            "Viêm động mạch thái dương."
+          ],
+          "answer": 1,
+          "explain": "Bóc tách động mạch cảnh là một nguyên nhân quan trọng gây đột quỵ ở người trẻ và trung niên. Bệnh cảnh điển hình bao gồm đau đầu, đau mặt hoặc cổ một bên, theo sau là các triệu chứng thiếu máu não cục bộ (do hẹp lòng mạch hoặc thuyên tắc từ huyết khối tại chỗ). Hội chứng Horner do tổn thương các sợi giao cảm quanh động mạch cảnh cũng là một dấu hiệu gợi ý quan trọng. Chấn thương nhẹ hoặc các cử động cổ đột ngột có thể là yếu tố khởi phát."
+        },
+        {
+          "q": "Cơ chế chính gây ra các triệu chứng thiếu máu não trong bệnh lý này là gì?",
+          "options": [
+            "Chèn ép trực tiếp vào nhu mô não.",
+            "Thuyên tắc từ huyết khối hình thành tại vị trí bóc tách.",
+            "Giảm tưới máu toàn thể do đau.",
+            "Co thắt mạch máu phản ứng trong ca bệnh này."
+          ],
+          "answer": 1,
+          "explain": "Cơ chế chính gây ra các triệu chứng thần kinh khu trú trong bóc tách động mạch là do huyết khối hình thành trong lòng giả của động mạch. Cục huyết khối này có thể gây tắc tại chỗ hoặc vỡ ra, di chuyển lên các nhánh nội sọ và gây thuyên tắc (artery-to-artery embolism). Việc hẹp lòng mạch do khối máu tụ trong thành mạch cũng góp phần làm giảm lưu lượng máu."
+        },
+        {
+          "q": "Phương pháp hình ảnh học nào có giá trị nhất để xác nhận chẩn đoán?",
+          "options": [
+            "CT angiography (CTA) hoặc MR angiography (MRA) động mạch cổ và não.",
+            "X-quang cột sống cổ ở bệnh nhân này.",
+            "CT sọ não không cản quang trong ca bệnh này.",
+            "Siêu âm Doppler động mạch cảnh ở bệnh nhân này."
+          ],
+          "answer": 0,
+          "explain": "CTA hoặc MRA vùng cổ và sọ não là các phương pháp chẩn đoán không xâm lấn hàng đầu. Chúng có thể cho thấy các dấu hiệu trực tiếp của bóc tách như huyết khối trong thành mạch (intramural hematoma), lòng giả, hoặc các dấu hiệu gián tiếp như hẹp lòng mạch hình \"ngọn lửa\" (flame sign) hoặc phình mạch bóc tách."
+        },
+        {
+          "q": "Hướng điều trị ban đầu cho bệnh nhân này sau khi đã xác định chẩn đoán là gì?",
+          "options": [
+            "Thuốc chẹn kênh canxi để giảm đau.",
+            "Thuốc chống huyết khối (kháng kết tập tiểu cầu hoặc chống đông).",
+            "Dùng Corticosteroid liều cao ở bệnh nhân này.",
+            "Phẫu thuật bắc cầu động mạch cảnh."
+          ],
+          "answer": 1,
+          "explain": "Điều trị chính cho bóc tách động mạch cảnh gây đột quỵ nhồi máu não là dùng thuốc chống huyết khối, bao gồm thuốc kháng kết tập tiểu cầu hoặc thuốc chống đông. Mục tiêu là để ngăn ngừa sự hình thành và lan rộng của huyết khối trong lòng giả, từ đó giảm nguy cơ thuyên tắc. Lựa chọn giữa chống đông và kháng tiểu cầu vẫn còn tranh cãi, nhưng cả hai đều được chấp nhận. Thuốc tiêu sợi huyết có thể được cân nhắc nếu bệnh nhân đến sớm trong cửa sổ thời gian và không có chống chỉ định."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 32 tuổi tuần thứ 6 sau sinh xuất hiện cơn co giật toàn thể",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 32 tuổi, đang ở tuần thứ 6 sau sinh.<br><br><b>Bệnh sử:</b> Nhập viện vì đau đầu tăng dần trong khoảng 1 tuần nay. Cơn đau lan tỏa, âm ỉ, không đáp ứng với thuốc giảm đau thông thường. Hai ngày trước khi nhập viện, bệnh nhân xuất hiện một cơn co giật toàn thể, sau đó yếu nửa người phải và nói khó.<br><br><b>Tiền sử:</b> Tiền sử sản khoa bình thường, không có tiền sử động kinh hay các bệnh lý thần kinh khác.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh nhưng mệt mỏi, Glasgow 15 điểm. Huyết áp 130/80 mmHg, không sốt. Khám thần kinh có yếu nửa người phải 4/5, nói khó kiểu diễn đạt. Soi đáy mắt thấy có phù gai thị hai bên.<br><br><b>Xét nghiệm:</b> Đông máu cơ bản bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào có khả năng cao nhất ở bệnh nhân này?",
+          "options": [
+            "Viêm não tự miễn.",
+            "Sản giật muộn sau sinh.",
+            "Huyết khối tĩnh mạch não (Cerebral Venous Thrombosis - CVT).",
+            "U não có xuất huyết."
+          ],
+          "answer": 2,
+          "explain": "Huyết khối tĩnh mạch não (CVT) là một dạng đột quỵ hiếm gặp, thường xảy ra ở người trẻ, đặc biệt là phụ nữ trong giai đoạn chu sinh hoặc sử dụng thuốc tránh thai. Tình trạng tăng đông sinh lý sau sinh là một yếu tố nguy cơ chính. Bệnh cảnh lâm sàng đa dạng, nhưng đau đầu (do tăng áp lực nội sọ), co giật và dấu thần kinh khu trú (không theo vùng phân bố của động mạch) là các biểu hiện thường gặp. Phù gai thị là dấu hiệu của tăng áp lực nội sọ."
+        },
+        {
+          "q": "Yếu tố nguy cơ chính gây ra tình trạng này ở bệnh nhân là gì?",
+          "options": [
+            "Tăng huyết áp thai kỳ.",
+            "Nhiễm trùng hậu sản.",
+            "Tình trạng tăng đông máu sau sinh.",
+            "Mất nước do cho con bú."
+          ],
+          "answer": 2,
+          "explain": "Tình trạng sau sinh là một trạng thái tăng đông sinh lý. Sự thay đổi về hormone và các yếu tố đông máu (tăng fibrinogen, yếu tố VIII, giảm protein chống đông) làm tăng nguy cơ hình thành huyết khối, không chỉ ở tĩnh mạch chi dưới mà còn ở các xoang tĩnh mạch nội sọ. Đây là cơ chế chính gây ra CVT ở bệnh nhân này."
+        },
+        {
+          "q": "Phương tiện hình ảnh không xâm lấn nào phù hợp nhất để xác nhận huyết khối tĩnh mạch não?",
+          "options": [
+            "Siêu âm Doppler xuyên sọ đơn thuần.",
+            "MRI não kèm MRV hoặc CT kèm CTV.",
+            "CT sọ não không cản quang đơn thuần.",
+            "X-quang sọ thẳng nghiêng thường quy."
+          ],
+          "answer": 1,
+          "explain": "MRI kết hợp MRV hoặc CT kết hợp CTV là các phương pháp chẩn đoán không xâm lấn chủ đạo. DSA chỉ dành cho trường hợp chưa rõ hoặc khi dự kiến can thiệp, nên không còn được xem là xét nghiệm thường quy đầu tiên."
+        },
+        {
+          "q": "Điều trị nền tảng cho bệnh nhân này là gì?",
+          "options": [
+            "Dùng Corticosteroid liều cao.",
+            "Dùng thuốc chống đông (anticoagulation).",
+            "Phẫu thuật lấy huyết khối.",
+            "Dùng thuốc tiêu sợi huyết (thrombolysis)."
+          ],
+          "answer": 1,
+          "explain": "Điều trị chính của CVT is dùng thuốc chống đông, ngay cả khi có xuất huyết trong não thứ phát. Mục tiêu là ngăn chặn sự lan rộng của huyết khối, thúc đẩy quá trình tái thông của tĩnh mạch bị tắc và ngăn ngừa thuyên tắc phổi. Heparin trọng lượng phân tử thấp hoặc Heparin không phân đoạn được sử dụng ban đầu, sau đó chuyển sang thuốc chống đông đường uống (như Warfarin hoặc DOACs) trong ít nhất 3-6 tháng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 80 tuổi nhồi máu não tiến triển lơ mơ dần nghi do chuyển dạng xuất huyết",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 80 tuổi.<br><br><b>Bệnh sử:</b> Được đưa vào viện vì đột ngột yếu nửa người trái và nói ngọng cách đây 2 ngày. Chẩn đoán ban đầu là nhồi máu não và bệnh nhân được điều trị nội khoa bảo tồn. Sáng nay, điều dưỡng ghi nhận bệnh nhân lơ mơ hơn, Glasgow giảm từ 14 xuống 11 điểm, huyết áp tăng lên 170/95 mmHg và nôn một lần.<br><br><b>Tiền sử:</b> Tiền sử rung nhĩ mạn tính, đang được điều trị dự phòng bằng Warfarin.<br><br><b>Khám lâm sàng:</b> Khám thần kinh thấy liệt nửa người trái nặng hơn (cơ lực giảm từ 3/5 xuống 1/5).<br><br><b>Xét nghiệm:</b> Chỉ số INR đo tại thời điểm nhập viện nằm trong ngưỡng điều trị.",
+      "questions": [
+        {
+          "q": "Tình trạng xấu đi đột ngột của bệnh nhân gợi ý biến chứng gì?",
+          "options": [
+            "Phù não ác tính.",
+            "Nhiễm trùng bệnh viện.",
+            "Tái phát nhồi máu não ở vị trí khác.",
+            "Chuyển dạng xuất huyết trong nhồi máu."
+          ],
+          "answer": 3,
+          "explain": "Sự suy giảm ý thức và các dấu hiệu thần kinh xấu đi đột ngột ở một bệnh nhân bị nhồi máu não cấp, đặc biệt là người đang dùng thuốc chống đông, làm dấy lên nghi ngờ cao về biến chứng chuyển dạng xuất huyết. Đây là tình trạng máu thoát ra khỏi các mạch máu bị tổn thương trong vùng nhồi máu."
+        },
+        {
+          "q": "Cơ chế bệnh sinh nào giải thích cho biến chứng này?",
+          "options": [
+            "Tổn thương hàng rào máu não và tái tưới máu vào vùng não bị hoại tử.",
+            "Vỡ một túi phình mạch não tiềm ẩn ở bệnh nhân này.",
+            "Tác dụng phụ của thuốc hạ huyết áp trong ca bệnh này.",
+            "Tăng áp lực nội sọ gây chảy máu thứ phát trong ca bệnh này."
+          ],
+          "answer": 0,
+          "explain": "Cơ chế chính của chuyển dạng xuất huyết là sự tổn thương hàng rào máu não trong vùng thiếu máu cục bộ. Thiếu oxy và năng lượng làm phá vỡ các liên kết chặt chẽ giữa các tế bào nội mô mạch máu, làm tăng tính thấm thành mạch. Khi dòng máu được tái tưới máu (tự nhiên hoặc do can thiệp), máu có thể thoát ra ngoài gây ra các đốm xuất huyết hoặc khối máu tụ lớn. Việc sử dụng thuốc chống đông làm tăng đáng kể nguy cơ này."
+        },
+        {
+          "q": "Cận lâm sàng nào cần được thực hiện ngay lập tức để xác định biến chứng?",
+          "options": [
+            "Chọc dò dịch não tủy.",
+            "Chụp lại CT scan sọ não không cản quang.",
+            "Đo điện não đồ.",
+            "Xét nghiệm lại chỉ số INR."
+          ],
+          "answer": 1,
+          "explain": "Chụp CT sọ não không cản quang là cần thiết và khẩn cấp để xác định có chuyển dạng xuất huyết hay không. Hình ảnh máu mới chảy sẽ có tỷ trọng cao trên phim CT, giúp phân biệt rõ ràng với vùng nhồi máu có tỷ trọng thấp."
+        },
+        {
+          "q": "Nếu chẩn đoán chuyển dạng xuất huyết được xác nhận, xử trí nào sau đây là ưu tiên hàng đầu?",
+          "options": [
+            "Phẫu thuật mở sọ giải áp trong ca bệnh này.",
+            "Tăng liều thuốc chống đông ở bệnh nhân này.",
+            "Ngưng Warfarin, dùng phức hợp Prothrombin cô đặc (PCC) và Vitamin K.",
+            "Truyền Mannitol và Corticoid ở bệnh nhân này."
+          ],
+          "answer": 2,
+          "explain": "Xử trí đầu tiên và quan trọng nhất khi có xuất huyết liên quan đến Warfarin là đảo ngược tác dụng chống đông. Điều này được thực hiện bằng cách ngưng Warfarin ngay lập tức và sử dụng các tác nhân đảo ngược như phức hợp Prothrombin cô đặc (PCC) và Vitamin K tiêm tĩnh mạch. PCC có tác dụng nhanh chóng trong việc bổ sung các yếu tố đông máu phụ thuộc Vitamin K, trong khi Vitamin K giúp gan tổng hợp lại các yếu tố mới."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi đột ngột yếu nửa người phải và thất ngôn Broca",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 68 tuổi.<br><br><b>Bệnh sử:</b> Người nhà đưa vào cấp cứu vì đột ngột yếu nửa người phải và không nói được, bắt đầu cách đây 2 giờ khi đang ăn sáng. Bệnh nhân không đau đầu, không nôn.<br><br><b>Tiền sử:</b> Tăng huyết áp và đái tháo đường type 2 đang điều trị không thường xuyên.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, Glasgow 14 điểm. Sinh hiệu: huyết áp 170/100 mmHg, mạch 80 lần/phút, nhịp thở 18 lần/phút, SpO2 96%. Khám thần kinh ghi nhận liệt mặt trung ương bên phải, sức cơ tay phải 2/5, chân phải 3/5, thất ngôn kiểu Broca. Không sốt, không có tiền sử chấn thương đầu hay co giật gần đây.<br><br><b>Xét nghiệm:</b> Đường huyết mao mạch 6.0 mmol/L. Công thức máu và đông máu cơ bản bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất?",
+          "options": [
+            "Xuất huyết dưới nhện.",
+            "Liệt Todd sau động kinh.",
+            "Nhồi máu não tuần hoàn trước.",
+            "Nhồi máu não tuần hoàn sau."
+          ],
+          "answer": 2,
+          "explain": "Triệu chứng liệt nửa người phải và thất ngôn Broca gợi ý tổn thương bán cầu não trái thuộc chi phối của động mạch não giữa, phù hợp hội chứng tuần hoàn trước. Không có co giật để nghĩ tới liệt Todd."
+        },
+        {
+          "q": "Cận lâm sàng cần thực hiện cấp cứu nhất?",
+          "options": [
+            "Chọc dò dịch não tủy.",
+            "CT sọ não không cản quang.",
+            "MRI sọ não.",
+            "Siêu âm Doppler động mạch cảnh."
+          ],
+          "answer": 1,
+          "explain": "CT sọ não không cản quang là xét nghiệm hàng đầu và nhanh nhất để loại trừ xuất huyết não trước khi quyết định điều trị tái tưới máu."
+        },
+        {
+          "q": "Cơ chế gây thất ngôn ở bệnh nhân này?",
+          "options": [
+            "Tổn thương thân não.",
+            "Tổn thương tiểu não hai bên.",
+            "Tổn thương thùy trán trái.",
+            "Tổn thương thùy thái dương phải."
+          ],
+          "answer": 2,
+          "explain": "Thất ngôn Broca (thất ngôn vận động) do tổn thương vùng Broca nằm ở hồi trán dưới của bán cầu ưu thế (thường là bán cầu trái)."
+        },
+        {
+          "q": "Mốc thời gian vàng để dùng thuốc tiêu sợi huyết tĩnh mạch?",
+          "options": [
+            "Dưới 6 giờ.",
+            "Dưới 4.5 giờ.",
+            "Dưới 24 giờ.",
+            "Dưới 3 giờ."
+          ],
+          "answer": 1,
+          "explain": "Tiêu chuẩn hiện hành cho phép sử dụng tiêu sợi huyết tĩnh mạch (rtPA) trong cửa số 4.5 giờ kể từ khi khởi phát triệu chứng ở bệnh nhân phù hợp."
+        },
+        {
+          "q": "Sau khi CT loại trừ xuất huyết, xử trí tái tưới máu nào phù hợp nhất ở giờ thứ 2?",
+          "options": [
+            "Chỉ dùng aspirin liều tải ngay.",
+            "Chờ đủ sáu giờ rồi chụp lại.",
+            "Truyền heparin không phân đoạn.",
+            "Tiêu sợi huyết và đánh giá tắc mạch lớn."
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân đến sớm, có thiếu sót gây tàn tật và huyết áp dưới ngưỡng điều trị nên cần đánh giá tiêu sợi huyết tĩnh mạch ngay; đồng thời chụp mạch để phát hiện tắc mạch lớn mà không làm chậm thuốc. Aspirin và heparin không thay thế tái tưới máu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 75 tuổi khởi phát cơn yếu liệt chi hồi phục hoàn toàn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 75 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì yếu nửa người trái. Triệu chứng xuất hiện đột ngột, kéo dài khoảng 30 phút sau đó bệnh nhân vận động lại bình thường hoàn toàn.<br><br><b>Tiền sử:</b> Có tiền sử rung nhĩ không dùng thuốc kháng đông, suy tim mạn tính.<br><br><b>Khám lâm sàng:</b> Hiện tại: mạch 110 lần/phút không đều, huyết áp 130/80 mmHg. Khám thần kinh không ghi nhận dấu thần kinh khu trú, sức cơ 5/5 tứ chi.<br><br><b>Xét nghiệm:</b> Chụp CT sọ não không cản quang hoàn toàn bình thường, không thấy hình ảnh xuất huyết hay giảm đậm độ.",
+      "questions": [
+        {
+          "q": "Hội chứng lâm sàng phù hợp nhất?",
+          "options": [
+            "Xuất huyết não tự phát.",
+            "Cơn động kinh cục bộ.",
+            "Đột quỵ nhồi máu não.",
+            "Cơn thiếu máu não thoáng qua."
+          ],
+          "answer": 3,
+          "explain": "Triệu chứng thần kinh khu trú hồi phục hoàn toàn trong 24 giờ (đặc biệt dưới 1 giờ) và hình ảnh học bình thường là tiêu chuẩn chẩn đoán cơn thiếu máu não thoáng qua (TIA)."
+        },
+        {
+          "q": "Cơ chế bệnh sinh có khả năng nhất?",
+          "options": [
+            "Bóc tách động mạch cảnh.",
+            "Tổn thương vi mạch máu não.",
+            "Huyết khối lấp mạch từ tim.",
+            "Xơ vữa động mạch lớn."
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có tiền sử rung nhĩ không dùng thuốc kháng đông, tạo điều kiện hình thành huyết khối ở tiểu nhĩ trái và bắn lên não gây lấp mạch."
+        },
+        {
+          "q": "Thang điểm ĐÚNG nhất để đánh giá nguy cơ đột quỵ sớm?",
+          "options": [
+            "NIHSS.",
+            "CHA2DS2-VASc.",
+            "ABCD2.",
+            "HAS-BLED."
+          ],
+          "answer": 2,
+          "explain": "Thang điểm ABCD2 được sử dụng chuyên biệt để đánh giá nguy cơ đột quỵ thực sự trong những ngày đầu sau một cơn TIA."
+        },
+        {
+          "q": "Thuốc dự phòng thứ phát ưu tiên nhất?",
+          "options": [
+            "Kháng đông đường uống.",
+            "Kháng kết tập tiểu cầu kép.",
+            "Tiêu sợi huyết tĩnh mạch.",
+            "Kháng kết tập tiểu cầu đơn."
+          ],
+          "answer": 0,
+          "explain": "Đối với TIA có nguồn gốc từ rung nhĩ, thuốc kháng đông đường uống là lựa chọn bắt buộc để dự phòng huyết khối từ tim, vượt trội hơn kháng tiểu cầu."
+        },
+        {
+          "q": "Nếu bệnh nhân đột ngột liệt trái trở lại kèm mất ý thức, nguyên nhân KHÔNG ĐÚNG?",
+          "options": [
+            "Đợt cấp suy tim sung huyết.",
+            "Tắc động mạch cảnh trong phải.",
+            "Chuyển dạng xuất huyết não.",
+            "Đột quỵ nhồi máu não diện rộng."
+          ],
+          "answer": 0,
+          "explain": "Đợt cấp suy tim sung huyết gây khó thở, phù, giảm tưới máu toàn thân nhưng không gây liệt nửa người khu trú kèm mất ý thức đột ngột, các lựa chọn còn lại đều là nguyên nhân mạch máu trực tiếp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi hôn mê sâu kèm giãn đồng tử một bên do khối máu tụ lớn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi.<br><br><b>Bệnh sử:</b> Đột ngột đau đầu dữ dội, nôn mửa nhiều lần rồi rơi vào hôn mê.<br><br><b>Tiền sử:</b> Có tiền sử tăng huyết áp nhiều năm không điều trị.<br><br><b>Khám lâm sàng:</b> Khám lúc vào cấp cứu: Glasgow 6 điểm, huyết áp 220/120 mmHg, mạch 55 lần/phút, nhịp thở 12 lần/phút không đều. Khám thần kinh thấy đồng tử mắt trái giãn 5 mm không đáp ứng ánh sáng, đồng tử phải 2 mm có đáp ứng, liệt nửa người phải.<br><br><b>Xét nghiệm:</b> CT sọ não cho thấy khối máu tụ lớn ở bao trong và bèo sẫm bên trái kèm đẩy lệch đường giữa sang phải.",
+      "questions": [
+        {
+          "q": "Hội chứng lâm sàng đang đe dọa tính mạng?",
+          "options": [
+            "Nhồi máu cơ tim cấp.",
+            "Viêm màng não mủ.",
+            "Huyết khối tĩnh mạch não.",
+            "Tăng áp lực nội sọ."
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân hôn mê, nhịp tim chậm, nhịp thở không đều (phản xạ Cushing) cùng hình ảnh đẩy lệch đường giữa trên CT là bằng chứng của hội chứng tăng áp lực nội sọ nặng."
+        },
+        {
+          "q": "Cơ chế gây giãn đồng tử mắt trái?",
+          "options": [
+            "Tổn thương trực tiếp hành não.",
+            "Tăng nhãn áp cấp tính.",
+            "Chèn ép dây thần kinh II.",
+            "Chèn ép dây thần kinh III."
+          ],
+          "answer": 3,
+          "explain": "Khối tụ máu lớn bán cầu trái gây tụt não xuyên lều, chèn ép trực tiếp vào dây thần kinh sọ số III cùng bên, làm liệt phó giao cảm và giãn đồng tử."
+        },
+        {
+          "q": "Xử trí ban đầu nào phù hợp nhất để giảm áp lực nội sọ trong lúc chờ hội chẩn ngoại thần kinh?",
+          "options": [
+            "Nâng đầu 30 độ và dùng mannitol khi có chỉ định.",
+            "Hạ huyết áp nhanh xuống dưới 100 mmHg.",
+            "Chọc dò dịch não tủy giảm áp.",
+            "Dùng aspirin liều tải ngay lập tức."
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có khối máu tụ lớn, dấu tụt kẹt và tăng áp lực nội sọ nên cần nâng đầu, bảo đảm đường thở và điều trị thẩm thấu như mannitol hoặc saline ưu trương khi phù hợp. Aspirin và chọc dò dịch não tủy chống chỉ định; hạ huyết áp quá mức làm giảm tưới máu não."
+        },
+        {
+          "q": "Thuốc hạ áp tĩnh mạch ưu tiên là gì?",
+          "options": [
+            "Nitroprusside.",
+            "Labetalol.",
+            "Enalapril uống.",
+            "Nifedipine ngậm."
+          ],
+          "answer": 1,
+          "explain": "Labetalol hoặc Nicardipine tĩnh mạch giúp kiểm soát huyết áp êm dịu. Nitroprusside có thể gây giãn mạch não và làm tăng thêm áp lực nội sọ."
+        },
+        {
+          "q": "Chỉ định can thiệp ngoại khoa cấp cứu thường ưu tiên cho vị trí xuất huyết nào?",
+          "options": [
+            "Cầu não diện rộng.",
+            "Đồi thị hai bên.",
+            "Bao trong lượng ít.",
+            "Tiểu não kích thước lớn."
+          ],
+          "answer": 3,
+          "explain": "Xuất huyết tiểu não lớn (>3 cm) chèn ép não thất IV gây não úng thủy cấp có chỉ định phẫu thuật lấy máu tụ mở sọ giải ép khẩn cấp để cứu sống bệnh nhân."
+        }
+      ]
+    },
+    {
+      "title": "Điều trị đột quỵ khi thức giấc dựa trên bất tương hợp hình ảnh học",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 70 tuổi.<br><br><b>Bệnh sử:</b> Đi ngủ lúc 22:00 hôm trước trong tình trạng hoàn toàn bình thường, sáng dậy lúc 06:00 phát hiện liệt nửa người phải và thất ngôn. Người nhà lập tức đưa vào viện lúc 07:00.<br><br><b>Tiền sử:</b> Có tiền sử rối loạn lipid máu.<br><br><b>Khám lâm sàng:</b> Huyết áp 150/90 mmHg, không sốt. Lâm sàng có thiếu sót thần kinh khu trú rõ rệt.<br><br><b>Xét nghiệm:</b> Đường huyết mao mạch 7.2 mmol/L. CT sọ não không cản quang không thấy xuất huyết, có dấu hiệu mờ rãnh cuộn não kín đáo ở vùng chi phối động mạch não giữa trái.",
+      "questions": [
+        {
+          "q": "Thời điểm khởi phát đột quỵ được tính là?",
+          "options": [
+            "Thời điểm thức giấc trung bình.",
+            "06:00 hôm nay.",
+            "22:00 hôm trước.",
+            "07:00 hôm nay."
+          ],
+          "answer": 2,
+          "explain": "Trong đột quỵ lúc thức giấc (wake-up stroke), thời điểm khởi phát được quy ước là thời điểm cuối cùng bệnh nhân còn ở trạng thái bình thường (22:00 hôm trước)."
+        },
+        {
+          "q": "Cận lâm sàng tiếp theo giúp quyết định điều trị tái tưới máu?",
+          "options": [
+            "Chọc dò dịch não tủy.",
+            "Điện não đồ cấp cứu.",
+            "Siêu âm Doppler xuyên sọ.",
+            "MRI sọ não xung DWI/FLAIR."
+          ],
+          "answer": 3,
+          "explain": "MRI não giúp đánh giá sự bắt cặp bất tương xứng (mismatch) giữa xung khuếch tán (DWI) và xung dịch não tủy (FLAIR) để xác định thời gian tổn thương thực tế."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh trực tiếp gây tổn thương nhồi máu não là gì?",
+          "options": [
+            "Giảm tưới máu toàn thể do sốc kéo dài.",
+            "Co thắt mạch não sau xuất huyết.",
+            "Vỡ mạch gây máu vào khoang nhện.",
+            "Tắc động mạch khu trú gây thiếu máu não."
+          ],
+          "answer": 3,
+          "explain": "Nhồi máu não hình thành khi một động mạch não bị tắc, làm giảm cung cấp oxy và glucose, gây suy năng lượng, độc tính kích thích và chết tế bào. Dữ kiện hiện có chưa đủ để khẳng định nguyên nhân cụ thể là vỡ mảng xơ vữa."
+        },
+        {
+          "q": "Nếu MRI có tổn thương trên DWI nhưng bình thường trên FLAIR, thái độ xử trí?",
+          "options": [
+            "Mở sọ giải áp cấp cứu.",
+            "Chống đông đường tĩnh mạch.",
+            "Cân nhắc dùng Alteplase.",
+            "Chỉ dùng Aspirin đơn trị."
+          ],
+          "answer": 2,
+          "explain": "Tổn thương dương tính trên DWI nhưng âm tính trên FLAIR chứng tỏ nhu mô não mới bị thiếu máu trong vòng 4.5 giờ, do đó có thể xem xét chỉ định tiêu sợi huyết tĩnh mạch."
+        },
+        {
+          "q": "Nếu bệnh nhân có tắc đoạn gần động mạch não giữa, phương pháp điều trị tối ưu?",
+          "options": [
+            "Phẫu thuật bóc nội mạc cảnh.",
+            "Đặt stent tĩnh mạch não.",
+            "Can thiệp lấy huyết khối cơ học.",
+            "Truyền tĩnh mạch Heparin."
+          ],
+          "answer": 2,
+          "explain": "Tắc mạch máu lớn (đoạn M1 động mạch não giữa hoặc động mạch cảnh trong) có chỉ định can thiệp nội mạch lấy huyết khối bằng dụng cụ cơ học, mang lại hiệu quả tái thông cao nhất."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi khởi phát hội chứng Wallenberg hành não bên trái",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi.<br><br><b>Bệnh sử:</b> Khởi phát đột ngột chóng mặt dữ dội, buồn nôn, nuốt sặc và nói khản.<br><br><b>Tiền sử:</b> Có tiền sử hút thuốc lá 40 bao/năm.<br><br><b>Khám lâm sàng:</b> Huyết áp 160/95 mmHg, nhịp tim đều 85 lần/phút. Bệnh nhân tỉnh táo, có sụp mi mắt trái và đồng tử trái nhỏ hơn bên phải. Giảm cảm giác đau nhiệt nửa mặt trái và nửa người phải. Vận động tứ chi 5/5 nhưng có thất điều các chi bên trái.",
+      "questions": [
+        {
+          "q": "Chẩn đoán định khu tổn thương?",
+          "options": [
+            "Bán cầu đại não trái.",
+            "Bán cầu đại não phải.",
+            "Tủy sống cổ trên.",
+            "Hành não bên trái."
+          ],
+          "answer": 3,
+          "explain": "Triệu chứng thần kinh chéo (giảm cảm giác mặt cùng bên, thân mình đối bên tổn thương) kèm tổn thương dây sọ thấp (nuốt sặc, nói khản) định khu tổn thương ở thân não, cụ thể là hành não bên trái."
+        },
+        {
+          "q": "Hội chứng lâm sàng của bệnh nhân?",
+          "options": [
+            "Hội chứng Wallenberg.",
+            "Hội chứng Millard-Gubler.",
+            "Hội chứng Claude.",
+            "Hội chứng Weber."
+          ],
+          "answer": 0,
+          "explain": "Hội chứng Wallenberg (hội chứng hành não bên) đặc trưng bởi chóng mặt, nuốt khó, thất điều cùng bên, hội chứng Horner cùng bên và mất cảm giác đau nhiệt chéo."
+        },
+        {
+          "q": "Cơ chế gây sụp mi và co đồng tử trái?",
+          "options": [
+            "Nhược cơ cục bộ mắt.",
+            "Tổn thương đường phó giao cảm.",
+            "Liệt dây thần kinh sọ III.",
+            "Tổn thương đường giao cảm."
+          ],
+          "answer": 3,
+          "explain": "Sụp mi, co đồng tử và giảm tiết mồ hôi nửa mặt (hội chứng Horner) là hậu quả của tổn thương đường thần kinh giao cảm trung ương đi mượn đường qua thân não."
+        },
+        {
+          "q": "Động mạch nào bị tắc nghẽn phổ biến nhất gây ra tình trạng này?",
+          "options": [
+            "Động mạch thông trước.",
+            "Động mạch não trước.",
+            "Động mạch tiểu não sau dưới.",
+            "Động mạch não giữa."
+          ],
+          "answer": 2,
+          "explain": "Nhồi máu vùng hành não bên thường do huyết khối tắc nhánh động mạch tiểu não sau dưới (PICA) hoặc động mạch đốt sống."
+        },
+        {
+          "q": "Biến chứng nguy hiểm nhất giai đoạn cấp cần theo dõi sát?",
+          "options": [
+            "Viêm phổi hít.",
+            "Loét tì đè.",
+            "Tắc nghẽn ruột.",
+            "Động kinh cục bộ."
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có tổn thương dây IX, X gây rối loạn nuốt nặng nề, nguy cơ cao nhất là sặc thức ăn hoặc nước bọt vào đường thở gây viêm phổi hít suy hô hấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi tắc đoạn M1 động mạch não giữa khi đang dùng DOAC",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 72 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì yếu liệt nửa người trái khoảng 1 giờ nay. Chụp cắt lớp vi tính mạch máu (CTA) cho thấy tắc đoạn M1 động mạch não giữa phải.<br><br><b>Tiền sử:</b> Có tiền sử rung nhĩ đang điều trị bằng Rivaroxaban, liều cuối cùng uống cách đây 2 giờ.<br><br><b>Khám lâm sàng:</b> Huyết áp 140/85 mmHg, nhịp tim 90 lần/phút không đều, SpO2 97%. Bệnh nhân lơ mơ, liệt mặt trái, liệt nửa người trái 1/5, điểm NIHSS 14.<br><br><b>Xét nghiệm:</b> CT sọ não ban đầu không có xuất huyết.",
+      "questions": [
+        {
+          "q": "Với liều rivaroxaban uống cách đây 2 giờ, thái độ đối với tiêu sợi huyết tĩnh mạch là gì?",
+          "options": [
+            "Chờ MRI rồi luôn dùng tenecteplase.",
+            "Không dùng thường quy nếu còn tác dụng chống đông.",
+            "Dùng heparin trước khi tiêu sợi huyết.",
+            "Dùng ngay alteplase không cần xét nghiệm."
+          ],
+          "answer": 1,
+          "explain": "DOAC dùng trong 48 giờ gần đây thường loại trừ tiêu sợi huyết nếu chức năng thận bình thường và chưa chứng minh nồng độ thuốc rất thấp. Chỉ có thể cân nhắc tại cơ sở chuyên sâu khi xét nghiệm đặc hiệu như anti-Xa hiệu chuẩn cho rivaroxaban cho thấy không còn tác dụng đáng kể."
+        },
+        {
+          "q": "Cơ chế chống đông của Rivaroxaban?",
+          "options": [
+            "Đối kháng Vitamin K.",
+            "Ức chế trực tiếp Thrombin.",
+            "Hoạt hóa Antithrombin III.",
+            "Ức chế trực tiếp yếu tố Xa."
+          ],
+          "answer": 3,
+          "explain": "Rivaroxaban là thuốc kháng đông đường uống thế hệ mới có cơ chế ức chế trực tiếp yếu tố Xa trong dòng thác đông máu."
+        },
+        {
+          "q": "Điều trị tái tưới máu phù hợp nhất hiện tại?",
+          "options": [
+            "Truyền tĩnh mạch Heparin.",
+            "Lấy huyết khối cơ học.",
+            "Uống Aspirin liều tải.",
+            "Chờ đủ 4.5 giờ rồi truyền Alteplase."
+          ],
+          "answer": 1,
+          "explain": "Mặc dù chống chỉ định tiêu sợi huyết, bệnh nhân có tắc mạch máu lớn (đoạn M1) và đến sớm, nên can thiệp nội mạch lấy huyết khối cơ học là phương án cứu vãn bắt buộc và hiệu quả."
+        },
+        {
+          "q": "Thời điểm dùng lại chống đông sau nhồi máu não nên được quyết định như thế nào?",
+          "options": [
+            "Ngừng chống đông vĩnh viễn trong ca bệnh này.",
+            "Luôn trì hoãn chính xác hai tuần.",
+            "Dùng lại ngay sau khi rút dụng cụ.",
+            "Cá thể hóa theo kích thước ổ nhồi máu và hình ảnh."
+          ],
+          "answer": 3,
+          "explain": "Thời điểm khởi động lại chống đông phải cân bằng nguy cơ thuyên tắc và chuyển dạng xuất huyết, dựa vào kích thước nhồi máu, mức độ nặng, hình ảnh kiểm tra và bệnh đồng mắc. Không có một mốc cố định áp dụng cho mọi bệnh nhân."
+        },
+        {
+          "q": "Xét nghiệm nào phản ánh tốt nhất hoạt tính chống đông của rivaroxaban khi cần đánh giá khẩn?",
+          "options": [
+            "Số lượng tiểu cầu ngoại vi.",
+            "Nồng độ fibrinogen huyết tương.",
+            "Thời gian máu chảy ngoại vi.",
+            "Hoạt tính anti-Xa hiệu chuẩn rivaroxaban."
+          ],
+          "answer": 3,
+          "explain": "Xét nghiệm anti-Xa được hiệu chuẩn riêng cho rivaroxaban là lựa chọn phù hợp nhất. PT có thể kéo dài tùy thuốc thử nhưng độ nhạy biến thiên, nên PT bình thường không loại trừ nồng độ thuốc có ý nghĩa."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 55 tuổi khởi phát đau đầu dữ dội kiểu sét đánh",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 55 tuổi.<br><br><b>Bệnh sử:</b> Đang ngồi xem tivi thì đột ngột kêu đau đầu dữ dội \"như sét đánh\", sợ ánh sáng, vã mồ hôi và buồn nôn.<br><br><b>Tiền sử:</b> Chưa ghi nhận tiền sử bệnh lý đặc biệt.<br><br><b>Khám lâm sàng:</b> Huyết áp 160/95 mmHg, mạch 95 lần/phút, không sốt. Bệnh nhân kích thích, cổ cứng rõ, không có dấu hiệu liệt vận động khu trú.<br><br><b>Xét nghiệm:</b> CT sọ não không cản quang cho thấy hình ảnh tăng đậm độ lan tỏa dọc theo các rãnh cuộn não và các bể đáy.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất?",
+          "options": [
+            "Nhồi máu não diện rộng.",
+            "Xuất huyết dưới nhện.",
+            "Viêm màng não mủ.",
+            "Đau đầu Migraine cấp."
+          ],
+          "answer": 1,
+          "explain": "Đau đầu đột ngột dữ dội kiểu sét đánh kèm hội chứng màng não (cổ cứng, sợ ánh sáng) và CT có máu ở bể đáy là bệnh cảnh điển hình của xuất huyết dưới nhện."
+        },
+        {
+          "q": "Nguyên nhân phổ biến nhất gây ra tình trạng này?",
+          "options": [
+            "Vỡ dị dạng động tĩnh mạch.",
+            "Rối loạn đông máu bẩm sinh.",
+            "Cơn tăng huyết áp cấp cứu.",
+            "Vỡ phình động mạch não."
+          ],
+          "answer": 3,
+          "explain": "Ở bệnh nhân không có chấn thương, nguyên nhân hàng đầu gây xuất huyết dưới nhện tự phát là vỡ túi phình động mạch não."
+        },
+        {
+          "q": "Xét nghiệm cần làm tiếp theo để lên kế hoạch can thiệp?",
+          "options": [
+            "Chụp mạch não số hóa xóa nền.",
+            "Điện não đồ thường quy.",
+            "MRI sọ não khuếch tán.",
+            "Chọc dò dịch não tủy."
+          ],
+          "answer": 0,
+          "explain": "Chụp mạch não số hóa xóa nền (DSA) hoặc CTA là tiêu chuẩn vàng để xác định vị trí, kích thước túi phình, từ đó quyết định phẫu thuật kẹp clip hay can thiệp coil nội mạch."
+        },
+        {
+          "q": "Bệnh nhân lơ mơ ngày thứ 5 mà không tái xuất huyết cần nghĩ nhiều nhất đến biến chứng nào?",
+          "options": [
+            "Tăng natri máu cấp do mất nước.",
+            "Xuất huyết tiêu hóa do stress.",
+            "Thiếu máu não muộn liên quan co thắt mạch.",
+            "Viêm phổi bệnh viện đơn thuần."
+          ],
+          "answer": 2,
+          "explain": "Thiếu máu não muộn thường xuất hiện ngày 3-14 sau xuất huyết dưới nhện, có thể liên quan co thắt mạch và rối loạn vi tuần hoàn. Cần đánh giá thần kinh, hình ảnh mạch và tưới máu thay vì quy mọi trường hợp cho tái xuất huyết."
+        },
+        {
+          "q": "Thuốc nào cải thiện kết cục thần kinh sau xuất huyết dưới nhện do túi phình?",
+          "options": [
+            "Nifedipine ngậm dưới lưỡi.",
+            "Amlodipine đường uống mỗi ngày.",
+            "Verapamil uống kéo dài.",
+            "Nimodipine đường uống hoặc qua sonde."
+          ],
+          "answer": 3,
+          "explain": "Nimodipine đường uống hoặc qua sonde được dùng sớm để giảm nguy cơ thiếu máu não muộn và cải thiện kết cục. Không dùng nimodipine tĩnh mạch thường quy vì nguy cơ tụt huyết áp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi có biểu hiện liệt vận động thuần túy do nhồi máu lỗ khuyết",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì yếu nửa người phải tiến triển dần trong 2 ngày nay.<br><br><b>Tiền sử:</b> Có tiền sử đái tháo đường type 2 và tăng huyết áp.<br><br><b>Khám lâm sàng:</b> Huyết áp 165/90 mmHg, nhịp tim đều 80 lần/phút. Bệnh nhân tỉnh táo hoàn toàn, nói rõ chữ, không thất ngôn, không mất thị trường. Vận động nửa người phải yếu đồng đều cả mặt, tay và chân với sức cơ 3/5. Cảm giác hoàn toàn bình thường.<br><br><b>Xét nghiệm:</b> CT sọ não không cản quang ban đầu không ghi nhận bất thường cấu trúc rầm rộ.",
+      "questions": [
+        {
+          "q": "Định khu tổn thương có khả năng nhất?",
+          "options": [
+            "Cuống não bên trái.",
+            "Thể vân và bao trong.",
+            "Thùy thái dương phải.",
+            "Vỏ não thùy trán."
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có liệt vận động thuần túy (yếu nửa người đồng đều, không rối loạn cảm giác, không thất ngôn, không mất thị trường) chỉ điểm tổn thương nằm ở bao trong bán cầu não trái."
+        },
+        {
+          "q": "Thể lâm sàng đột quỵ của bệnh nhân này?",
+          "options": [
+            "Tắc nghẽn xoang tĩnh mạch.",
+            "Đột quỵ lấp mạch.",
+            "Đột quỵ lỗ khuyết.",
+            "Xuất huyết thùy não."
+          ],
+          "answer": 2,
+          "explain": "Triệu chứng vận động thuần túy không kèm rối loạn vỏ não cao cấp ở bệnh nhân có nhiều yếu tố nguy cơ mạch máu là đặc trưng của nhồi máu não lỗ khuyết."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính yếu gây tổn thương?",
+          "options": [
+            "Bóc tách động mạch cảnh ngoài.",
+            "Huyết khối lấp mạch từ tim.",
+            "Thoái hóa mỡ kính vi mạch.",
+            "Vỡ túi phình động mạch lớn."
+          ],
+          "answer": 2,
+          "explain": "Tăng huyết áp và đái tháo đường lâu năm gây thoái hóa mỡ kính (lipohyalinosis) thành các động mạch xiên nhỏ, dẫn đến tắc nghẽn và nhồi máu những ổ nhỏ sâu trong não."
+        },
+        {
+          "q": "Xét nghiệm cơ bản giúp quản lý tốt yếu tố nguy cơ nền?",
+          "options": [
+            "Chụp mạch vành cản quang.",
+            "HbA1c và Lipid máu.",
+            "Điện tâm đồ Holter.",
+            "Chọc dịch não tủy."
+          ],
+          "answer": 1,
+          "explain": "Đường huyết và lipid máu là hai yếu tố nguy cơ quan trọng cần đánh giá qua HbA1c và bilan mỡ máu để điều chỉnh mục tiêu điều trị lâu dài."
+        },
+        {
+          "q": "Thuốc dự phòng thứ phát ưu tiên nhất?",
+          "options": [
+            "Chẹn beta giao cảm.",
+            "Kháng Vitamin K.",
+            "Kháng kết tập tiểu cầu.",
+            "Kháng đông trực tiếp."
+          ],
+          "answer": 2,
+          "explain": "Nhồi máu não lỗ khuyết không do huyết khối từ tim, do đó thuốc kháng kết tập tiểu cầu (như Aspirin hoặc Clopidogrel) được ưu tiên sử dụng để dự phòng huyết khối tái phát."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 60 tuổi diễn tiến chuyển dạng xuất huyết trong khi dùng tiêu sợi huyết",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 60 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì nhồi máu não cấp thuộc nhánh động mạch não giữa trái. Bệnh nhân được truyền Alteplase đường tĩnh mạch ở giờ thứ 2.5 kể từ khi khởi phát. Tại phút thứ 45 của quá trình truyền tĩnh mạch, bệnh nhân đột ngột đau đầu dữ dội, nôn mửa, huyết áp tăng vọt lên 210/110 mmHg, ý thức lơ mơ và tay chân bên phải liệt hoàn toàn 0/5.<br><br><b>Tiền sử:</b> Nhồi máu não cấp đang truyền tiêu sợi huyết.",
+      "questions": [
+        {
+          "q": "Biến biến có khả năng cao nhất?",
+          "options": [
+            "Phù não do thiếu máu.",
+            "Phản ứng phản vệ.",
+            "Tắc lại động mạch não.",
+            "Chuyển dạng xuất huyết não."
+          ],
+          "answer": 3,
+          "explain": "Sự suy giảm ý thức đột ngột, đau đầu, nôn mửa và tăng huyết áp vọt trong lúc đang dùng thuốc tiêu sợi huyết là dấu hiệu cảnh báo mạnh mẽ của xuất huyết não thứ phát (chuyển dạng xuất huyết)."
+        },
+        {
+          "q": "Xử trí cấp cứu đầu tiên cần làm?",
+          "options": [
+            "Chụp MRI sọ não cấp cứu.",
+            "Đặt nội khí quản thở máy.",
+            "Dừng truyền Alteplase ngay lập tức.",
+            "Truyền tĩnh mạch Mannitol nhanh."
+          ],
+          "answer": 2,
+          "explain": "Khi nghi ngờ có xuất huyết trong não hoặc biến chứng đe dọa, nguyên tắc tiên quyết là phải ngưng ngay lập tức thuốc tiêu sợi huyết đang truyền."
+        },
+        {
+          "q": "Cận lâm sàng khẩn cấp nhất lúc này?",
+          "options": [
+            "CT sọ não không cản quang.",
+            "Khí máu động mạch.",
+            "X-quang ngực thẳng.",
+            "Siêu âm Doppler tim."
+          ],
+          "answer": 0,
+          "explain": "CT sọ não không cản quang là phương tiện nhanh nhất và nhạy nhất để xác định ngay sự hiện diện của máu trong nhu mô não, từ đó quyết định phác đồ xử trí xuất huyết nội sọ."
+        },
+        {
+          "q": "Thuốc ưu tiên để kiểm soát huyết áp lúc này?",
+          "options": [
+            "Nifedipine nhỏ giọt.",
+            "Captopril ngậm dưới lưỡi.",
+            "Nitroprusside tĩnh mạch.",
+            "Labetalol tĩnh mạch."
+          ],
+          "answer": 3,
+          "explain": "Labetalol tĩnh mạch có hiệu quả kiểm soát huyết áp nhanh, an toàn và không gây giãn mạch não mạnh như Nitroprusside (hạn chế nguy cơ tăng áp lực nội sọ)."
+        },
+        {
+          "q": "Dấu hiệu lâm sàng gợi ý tình trạng tăng áp nội sọ tiến triển?",
+          "options": [
+            "Mạch nhanh và huyết áp tụt.",
+            "Vã mồ hôi toàn thân.",
+            "Mạch chậm và huyết áp tăng.",
+            "Thở nhanh nông liên tục."
+          ],
+          "answer": 2,
+          "explain": "Tam chứng Cushing (mạch chậm, huyết áp tăng, nhịp thở không đều) là phản xạ sinh lý của cơ thể khi áp lực nội sọ tăng cao đe dọa chèn ép thân não."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi hẹp khít động mạch cảnh trong trái có triệu chứng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 70 tuổi.<br><br><b>Bệnh sử:</b> Hiện tại không có bất kỳ triệu chứng thần kinh nào cấp tính lúc khám.<br><br><b>Tiền sử:</b> Tiền sử cơn thiếu máu não thoáng qua (TIA) cách đây 2 tuần. Bệnh nhân hút thuốc lá nhiều năm, có tăng huyết áp.<br><br><b>Khám lâm sàng:</b> Ổn định tại thời điểm hiện tại.<br><br><b>Xét nghiệm:</b> Siêu âm Doppler và chụp cắt lớp mạch máu (CTA) cho thấy hẹp 80% động mạch cảnh trong trái tại vị trí chạc ba. Xét nghiệm LDL-C lúc đói là 3.5 mmol/L.",
+      "questions": [
+        {
+          "q": "Can thiệp dự phòng đột quỵ nào phù hợp nhất với hẹp động mạch cảnh trái 80% có triệu chứng?",
+          "options": [
+            "Nong động mạch cảnh ngoài đơn thuần.",
+            "Đặt stent động mạch vành dự phòng.",
+            "Bóc nội mạc cảnh sớm nếu nguy cơ mổ phù hợp.",
+            "Thắt hoàn toàn động mạch cảnh trong."
+          ],
+          "answer": 2,
+          "explain": "Hẹp động mạch cảnh trong 70-99% có triệu chứng thường có lợi từ bóc nội mạc cảnh, tốt nhất thực hiện sớm, thường trong vòng hai tuần, nếu nguy cơ phẫu thuật chấp nhận được. Stent cảnh dành cho trường hợp chọn lọc."
+        },
+        {
+          "q": "Cơ chế hình thành mảng xơ vữa tại động mạch liên quan mật thiết đến?",
+          "options": [
+            "Lắng đọng tinh thể urat.",
+            "Tích tụ LDL-C dưới nội mạc.",
+            "Tăng sinh tế bào thần kinh đệm.",
+            "Giảm tưới máu động mạch nuôi mạch."
+          ],
+          "answer": 1,
+          "explain": "Bệnh sinh chính của xơ vữa mạch là sự thâm nhập và tích tụ các hạt LDL-C vào lớp dưới nội mạc mạch máu, sau đó bị oxy hóa và tạo thành các tế bào bọt."
+        },
+        {
+          "q": "Tác dụng của thuốc nhóm Statin ở bệnh nhân này, TRỪ:",
+          "options": [
+            "Tiêu biến hoàn toàn huyết khối cũ.",
+            "Giảm viêm nội mạc mạch máu.",
+            "Giảm mức LDL-C máu.",
+            "Ổn định mảng xơ vữa."
+          ],
+          "answer": 0,
+          "explain": "Statin ức chế men HMG-CoA reductase làm giảm mỡ máu, ổn định mảng xơ vữa và có tính kháng viêm, nhưng không có tác dụng làm tan (tiêu biến) các huyết khối hoặc mảng xơ vữa đã xơ hóa cũ."
+        },
+        {
+          "q": "Thuốc dự phòng đột quỵ cơ bản nhất cần duy trì?",
+          "options": [
+            "Kháng kết tập tiểu cầu.",
+            "Thuốc tiêu sợi huyết.",
+            "Kháng đông trực tiếp.",
+            "Kháng Vitamin K."
+          ],
+          "answer": 0,
+          "explain": "Với đột quỵ hoặc TIA do cơ chế xơ vữa động mạch lớn, liệu pháp kháng kết tập tiểu cầu (Aspirin hoặc Clopidogrel) là cốt lõi trong phòng ngừa thứ phát."
+        },
+        {
+          "q": "Mục tiêu LDL-C phù hợp ở bệnh nhân đã có TIA do xơ vữa là gì?",
+          "options": [
+            "Dưới 2.6 mmol/L không cần giảm thêm.",
+            "Dưới 1.4 mmol/L và giảm ít nhất 50%.",
+            "Chỉ cần giữ dưới 4.0 mmol/L.",
+            "Dưới 3.4 mmol/L là đủ an toàn."
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có biến cố mạch máu do xơ vữa thuộc nhóm nguy cơ rất cao; mục tiêu thường là LDL-C dưới 1.4 mmol/L và giảm ít nhất 50% so với ban đầu. Mức 1.8 mmol/L là mục tiêu cũ hoặc ít tích cực hơn."
+        }
+      ]
+    }
+  ]
+}
