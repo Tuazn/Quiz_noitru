@@ -1,0 +1,1230 @@
+{
+  "name": "Hội chứng thận hư",
+  "description": "Các tình huống lâm sàng và câu hỏi trắc nghiệm về Hội chứng thận hư và các bệnh lý cầu thận",
+  "level": "Ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Thận tiết niệu",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 24 tuổi phù toàn thân tăng nhanh trong 2 tuần",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 24 tuổi, là sinh viên.<br><br><b>Bệnh sử:</b> Vào viện vì phù toàn thân tăng nhanh trong 2 tuần. Bệnh khởi phát với phù hai mi mắt sau khi ngủ dậy, sau đó lan nhanh xuống hai chân, phù mềm, trắng, ấn lõm. Gần đây, bệnh nhân thấy bụng chướng dần, tiểu ít (khoảng 500 mL/24 giờ), nước tiểu có nhiều bọt. Bệnh nhân không sốt, không đau ngực, không khó thở khi nằm, không ho ra máu.<br><br><b>Tiền sử:</b> Hoàn toàn khỏe mạnh, không dùng thuốc gì đặc biệt. Không hút thuốc, không uống rượu.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh táo, tiếp xúc tốt. Sinh hiệu: Mạch 88 lần/phút, Huyết áp 130/80 mmHg, Nhịp thở 18 lần/phút, Nhiệt độ 37.2°C, SpO2 98% khí trời, BMI 24.5 kg/m². Khám thấy phù toàn, có tràn dịch màng phổi hai bên (gõ đục, rì rào phế nang giảm ở hai đáy), bụng báng mức độ vừa. Tim đều, phổi không ran. Bụng mềm, gan lách không to. Không có ban đỏ cánh bướm ở mặt hay loét miệng.<br><br><b>Xét nghiệm:</b> Protein niệu 24 giờ: 10.5 g/24h; Albumin máu: 18 g/L; Creatinin huyết thanh: 85 µmol/L; Na: 138 mmol/L; K: 4.1 mmol/L; Cholesterol toàn phần: 9.2 mmol/L; Triglyceride: 3.5 mmol/L; ANA và anti-dsDNA âm tính.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất với bệnh nhân này là gì?",
+          "options": [
+            "Suy tim sung huyết.",
+            "Xơ gan cổ trướng.",
+            "Hội chứng thận hư nguyên phát.",
+            "Viêm cầu thận cấp sau nhiễm liên cầu."
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có tam chứng kinh điển của HCTH: phù to, protein niệu >3.5 g/24h (ở đây là 10.5 g/24h), và albumin máu < 30 g/L (18 g/L), kèm tăng lipid máu. Các dấu hiệu lâm sàng và CLS khác không hướng đến suy tim, xơ gan hay VCTC sau nhiễm liên cầu (không có tiền sử nhiễm trùng, không thiếu máu)."
+        },
+        {
+          "q": "Cơ chế chính gây phù ở bệnh nhân này là gì?",
+          "options": [
+            "Giảm áp lực keo huyết tương do mất protein qua nước tiểu.",
+            "Tắc nghẽn hệ bạch huyết do nhiễm trùng.",
+            "Tăng tính thấm thành mạch do phản ứng viêm hệ thống.",
+            "Tăng áp lực thủy tĩnh trong lòng mạch do suy tim."
+          ],
+          "answer": 0,
+          "explain": "Cơ chế chính gây phù trong HCTH is giảm áp lực keo huyết tương do mất albumin qua nước tiểu. Khi albumin máu giảm nặng, nước thoát ra khỏi lòng mạch vào mô kẽ, gây phù. Các cơ chế khác như tăng áp lực thủy tĩnh, tăng tính thấm thành mạch không phải là nguyên nhân chính."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây là quan trọng nhất để xác định nguyên nhân mô bệnh học của hội chứng thận hư ở bệnh nhân này?",
+          "options": [
+            "Sinh thiết thận.",
+            "Xét nghiệm bổ thể C3, C4.",
+            "Siêu âm Doppler động mạch thận.",
+            "Điện di protein huyết thanh."
+          ],
+          "answer": 0,
+          "explain": "Sinh thiết thận là tiêu chuẩn vàng để xác định tổn thương mô bệnh học (ví dụ: bệnh cầu thận thay đổi tối thiểu, xơ hóa cầu thận ổ cục bộ, viêm cầu thận màng), từ đó quyết định hướng điều trị và tiên lượng. Các xét nghiệm khác chỉ mang tính hỗ trợ."
+        },
+        {
+          "q": "Biến chứng huyết khối tĩnh mạch sâu có nguy cơ xảy ra cao ở bệnh nhân này. Yếu tố nào sau đây đóng góp ít nhất vào cơ chế hình thành huyết khối?",
+          "options": [
+            "Tăng tổng hợp các yếu tố đông máu tại gan (Fibrinogen, yếu tố V, VIII).",
+            "Giảm nồng độ lipoprotein(a) trong máu.",
+            "Mất các chất chống đông tự nhiên qua nước tiểu (Antithrombin III, Protein S).",
+            "Tăng kết dính tiểu cầu và ứ trệ tuần hoàn do phù nề."
+          ],
+          "answer": 1,
+          "explain": "HCTH là một tình trạng tăng đông máu rõ rệt. Cơ chế bao gồm tăng tổng hợp yếu tố đông máu, mất chất chống đông qua nước tiểu và tăng ngưng tập tiểu cầu. Ngược lại, nồng độ Lipoprotein(a), một yếu tố nguy cơ tim mạch, thường tăng trong HCTH, không phải giảm."
+        },
+        {
+          "q": "After secondary causes have been ruled out and kidney biopsy confirms minimal change disease, what is the first-line specific treatment?",
+          "options": [
+            "Glucocorticoid liều tấn công đường uống theo phác đồ.",
+            "Lợi tiểu quai liều cao đơn độc kéo dài.",
+            "Lọc huyết tương định kỳ ngay từ đầu.",
+            "Phong bế kép ACEI và ARB để gây lui bệnh."
+          ],
+          "answer": 0,
+          "explain": "Ở người lớn có hội chứng thận hư mới xuất hiện, sinh thiết thận thường cần thiết trước khi dùng điều trị ức chế miễn dịch đặc hiệu. Khi mô bệnh học xác nhận bệnh cầu thận thay đổi tối thiểu và đã loại trừ nguyên nhân thứ phát, glucocorticoid liều tấn công là điều trị đầu tay. Lợi tiểu và phong bế hệ RAS chỉ là điều trị hỗ trợ, không phối hợp ACEI với ARB."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi tiền sử đái tháo đường và tăng huyết áp",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi, thể trạng thừa cân (BMI 27 kg/m²).<br><br><b>Bệnh sử:</b> Nhập viện vì phù hai chân ngày càng tăng trong 3 tháng nay. Bệnh nhân cũng cảm thấy mệt mỏi, chán ăn, và tiểu ít hơn. Không ghi nhận các dấu hiệu nhiễm trùng cấp tính, không đau ngực, không khó thở rõ.<br><br><b>Tiền sử:</b> Tiền sử đái tháo đường type 2 15 năm và tăng huyết áp 10 năm, điều trị không liên tục với Metformin và Amlodipin. Hút thuốc lá 20 gói năm.<br><br><b>Khám lâm sàng:</b> Tỉnh táo. Sinh hiệu: Mạch 80 lần/phút, Huyết áp 155/95 mmHg, Nhịp thở 16 lần/phút, SpO2 97% khí trời. Khám thấy phù mềm, ấn lõm hai chân đến gối, không có dấu hiệu suy tim (tĩnh mạch cổ không nổi, phổi trong). Khám đáy mắt có biểu hiện bệnh võng mạc đái tháo đường giai đoạn tăng sinh.<br><br><b>Xét nghiệm:</b> Glucose máu lúc đói: 12.5 mmol/L; HbA1c: 9.8%; Creatinin huyết thanh: 150 µmol/L; eGFR (CKD-EPI): 45 mL/phút/1.73m²; Protein niệu 24 giờ: 5.2 g/24h; Albumin máu: 25 g/L; Cholesterol LDL-C: 4.8 mmol/L. Soi cặn lắng nước tiểu có vài trụ mỡ.",
+      "questions": [
+        {
+          "q": "Nguyên nhân rất có khả năng nhất gây ra hội chứng thận hư ở bệnh nhân này là gì?",
+          "options": [
+            "Bệnh thận IgA",
+            "Bệnh cầu thận màng nguyên phát.",
+            "Bệnh thận do đái tháo đường.",
+            "Tác dụng phụ của Amlodipin."
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có tiền sử ĐTĐ type 2 lâu năm (15 năm), kiểm soát kém (HbA1c 9.8%), và đã có biến chứng vi mạch khác (bệnh võng mạc tăng sinh). Bệnh cảnh HCTH trên nền này rất điển hình cho bệnh thận do đái tháo đường."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính dẫn đến protein niệu trong bệnh thận đái tháo đường là gì?",
+          "options": [
+            "Lắng đọng phức hợp miễn dịch tại màng đáy cầu thận.",
+            "Tăng huyết áp hệ thống gây xơ hóa động mạch thận.",
+            "Nhiễm trùng đường tiết niệu ngược dòng gây viêm cầu thận.",
+            "Tăng đường huyết mạn tính gây tổn thương trực tiếp tế bào có chân (podocyte) và dày màng đáy cầu thận."
+          ],
+          "answer": 3,
+          "explain": "Tăng đường huyết mạn tính dẫn đến một loạt thay đổi sinh hóa, bao gồm con đường polyol, sản phẩm glycat hóa bền vững (AGEs), hoạt hóa protein kinase C. Các yếu tố này gây tổn thương tế bào nội mô, làm dày màng đáy cầu thận và đặc biệt là gây tổn thương, xóa chân của các tế bào podocyte, làm tăng tính thấm của hàng rào lọc cầu thận với protein."
+        },
+        {
+          "q": "Theo KDIGO, mục tiêu huyết áp tâm thu nào phù hợp cho người lớn có bệnh thận mạn không lọc máu nếu đo chuẩn hóa và người bệnh dung nạp?",
+          "options": [
+            "Dưới 120 mmHg khi đo huyết áp chuẩn hóa.",
+            "Dưới 130 mmHg trong mọi hoàn cảnh đo.",
+            "Dưới 110 mmHg dù có triệu chứng hạ áp.",
+            "Dưới 140 mmHg bất kể nguy cơ tim mạch."
+          ],
+          "answer": 0,
+          "explain": "KDIGO khuyến nghị hướng tới huyết áp tâm thu dưới 120 mmHg ở người lớn có bệnh thận mạn không lọc máu khi sử dụng kỹ thuật đo chuẩn hóa và người bệnh dung nạp. Đây không phải mục tiêu \"120/80\" cố định; cần cá thể hóa ở người cao tuổi, hạ huyết áp tư thế hoặc nguy cơ giảm tưới máu."
+        },
+        {
+          "q": "Ngoài việc kiểm soát đường huyết và huyết áp, thuốc nào sau đây được chứng minh có hiệu quả bảo vệ thận (giảm protein niệu và làm chậm tiến triển suy thận) ở bệnh nhân này?",
+          "options": [
+            "Statin.",
+            "Aspirin liều thấp.",
+            "Thuốc ức chế men chuyển (ACEI) hoặc chẹn thụ thể Angiotensin II (ARB).",
+            "Allopurinol."
+          ],
+          "answer": 2,
+          "explain": "Thuốc nhóm ACEI hoặc ARB là lựa chọn đầu tay. Chúng không chỉ hạ huyết áp hệ thống mà còn làm giảm áp lực trong lòng cầu thận (qua việc làm giãn tiểu động mạch đi), từ đó làm giảm protein niệu và làm chậm sự tiến triển của bệnh thận mạn do đái tháo đường."
+        },
+        {
+          "q": "Chỉ số cận lâm sàng nào dưới đây phản ánh tốt nhất việc kiểm soát đường huyết của bệnh nhân trong 3 tháng qua?",
+          "options": [
+            "Mức lọc cầu thận ước tính (eGFR).",
+            "HbA1c.",
+            "Glucose máu lúc đói.",
+            "Nồng độ Albumin máu."
+          ],
+          "answer": 1,
+          "explain": "HbA1c (Hemoglobin A1c) phản ánh nồng độ đường huyết trung bình trong khoảng 2-3 tháng trước đó. Đây là chỉ số \"vàng\" để đánh giá mức độ kiểm soát đường huyết dài hạn của bệnh nhân, trong khi glucose máu lúc đói chỉ phản ánh tại một thời điểm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 35 tuổi tiền sử lupus ban đỏ tự ý ngừng thuốc",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 35 tuổi.<br><br><b>Bệnh sử:</b> Gần đây, bệnh nhân tự ý ngưng thuốc khoảng 2 tháng và nay nhập viện vì mệt mỏi, phù hai chân và mặt, đau khớp gối hai bên. Không sốt, nhưng có cảm giác tiểu buốt nhẹ.<br><br><b>Tiền sử:</b> Được chẩn đoán lupus ban đỏ hệ thống cách đây 5 năm, đang điều trị với Hydroxychloroquine và Prednisolone 5 mg/ngày.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, da xanh niêm mạc nhợt. Sinh hiệu ổn: HA 140/90 mmHg, Mạch 92 lần/phút. Có ban đỏ hình cánh bướm ở mặt, phù mềm ấn lõm hai chân. Tim nhịp nhanh đều, phổi thông khí rõ.<br><br><b>Xét nghiệm:</b> Công thức máu: Hb 95 g/L, Bạch cầu 3.5 G/L, Tiêu cầu 130 G/L. Creatinin huyết thanh: 135 µmol/L. Protein niệu 24 giờ: 6.8 g/24h. Albumin máu: 22 g/L. Xét nghiệm miễn dịch: ANA 1/1280 (dạng thuần nhất), anti-dsDNA dương tính mạnh, bổ thể C3 và C4 giảm thấp. Tổng phân tích nước tiểu: Protein 3+, Hồng cầu 3+, Bạch cầu 1+.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào giải thích toàn diện nhất các triệu chứng của bệnh nhân?",
+          "options": [
+            "Đợt cấp của lupus ban đỏ hệ thống gây viêm thận lupus.",
+            "Thiếu máu mạn tính do bệnh lý tự miễn.",
+            "Nhiễm trùng huyết từ đường tiết niệu gây suy thận cấp.",
+            "Hội chứng thận hư nguyên phát trên nền lupus ổn định."
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có biểu hiện của đợt cấp lupus (ban cánh bướm, đau khớp, thiếu máu, giảm các dòng tế bào máu) cùng lúc với biểu hiện tổn thương thận nặng (HCTH, suy thận, tiểu máu, tiểu protein). Đây là bệnh cảnh điển hình của viêm thận lupus do bệnh chính đang hoạt động mạnh."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây tổn thương cầu thận trong viêm thận lupus là gì?",
+          "options": [
+            "Lắng đọng các phức hợp miễn dịch (kháng nguyên kháng thể) tại cầu thận, hoạt hóa bổ thể và gây viêm.",
+            "Sự xâm nhập trực tiếp của vi khuẩn vào mô kẽ thận.",
+            "Tăng lọc cầu thận do đáp ứng với tình trạng thiếu máu.",
+            "Độc tính trực tiếp của thuốc Hydroxychloroquine lên tế bào ống thận."
+          ],
+          "answer": 0,
+          "explain": "Cơ chế cốt lõi của viêm thận lupus là bệnh lý phức hợp miễn dịch. Các tự kháng thể (đặc biệt là anti-dsDNA) kết hợp với kháng nguyên tạo thành phức hợp, lắng đọng tại các cấu trúc của cầu thận (dưới nội mô, trong màng đáy, gian mạch). Sự lắng đọng này hoạt hóa hệ thống bổ thể, thu hút các tế bào viêm, gây ra tổn thương viêm và phá hủy cấu trúc cầu thận."
+        },
+        {
+          "q": "Dựa trên kết quả cận lâm sàng, viêm thận lupus của bệnh nhân này có khả năng thuộc nhóm nào theo phân loại của ISN/RPS 2003?",
+          "options": [
+            "Class I (Tổn thương gian mạch tối thiểu).",
+            "Class V (Viêm cầu thận màng lupus).",
+            "Class III hoặc IV (Viêm cầu thận tăng sinh đoạn hoặc lan tỏa).",
+            "Class II (Viêm cầu thận tăng sinh gian mạch)."
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có biểu hiện lâm sàng nặng: hội chứng thận hư, suy thận cấp, tiểu máu, C3/C4 giảm, anti-dsDNA dương tính mạnh. Đây là những đặc điểm gợi ý mạnh đến tổn thương tăng sinh, hoại tử, là đặc trưng của Class III (tăng sinh đoạn) hoặc Class IV (tăng sinh lan tỏa), hai thể nặng và cần điều trị tích cực nhất."
+        },
+        {
+          "q": "Biện pháp điều trị tấn công nào là phù hợp nhất cho bệnh nhân này?",
+          "options": [
+            "Chỉ dùng thuốc ức chế men chuyển để kiểm soát protein niệu.",
+            "Tăng liều Hydroxychloroquine và theo dõi.",
+            "Kháng sinh phổ rộng đường tĩnh mạch.",
+            "Corticoid liều cao kết hợp với một thuốc ức chế miễn dịch khác (ví dụ: Cyclophosphamide hoặc Mycophenolate mofetil)."
+          ],
+          "answer": 3,
+          "explain": "Viêm thận lupus Class III/IV là một tình trạng nghiêm trọng, cần điều trị tấn công ngay lập tức bằng corticoid liều cao (thường là liều bolus methylprednisolone tĩnh mạch) kết hợp với một thuốc ức chế miễn dịch mạnh khác như Cyclophosphamide (phác đồ của NIH) hoặc Mycophenolate mofetil (MMF) để dập tắt quá trình viêm và bảo tồn chức năng thận."
+        },
+        {
+          "q": "Sự hiện diện của cả hồng cầu và protein niệu mức thận hư trong nước tiểu gợi ý đến hội chứng lâm sàng nào tại thận?",
+          "options": [
+            "Hội chứng thận hư - thận viêm hỗn hợp (Nephrotic-nephritic picture).",
+            "Hội chứng thận hư đơn thuần (Pure nephrotic syndrome).",
+            "Tổn thương ống thận cấp (Acute tubular injury).",
+            "Hội chứng thận viêm (Nephritic syndrome)."
+          ],
+          "answer": 0,
+          "explain": "Khi bệnh nhân có đồng thời protein niệu mức thận hư (>3.5g/24h) and các đặc điểm của hội chứng thận viêm (tiểu máu, tăng huyết áp, suy thận), tình trạng này được gọi là hội chứng thận hư - thận viêm hỗn hợp. Điều này phản ánh một tổn thương cầu thận vừa làm tăng tính thấm với protein, vừa gây viêm và phá vỡ màng lọc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi có nốt đơn độc thùy trên phổi phải và phù chân",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 68 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì khó thở và ho khan kéo dài 1 tháng. Bệnh nhân khai sút 5kg trong 3 tháng không rõ nguyên nhân, kèm theo phù hai chân tăng dần.<br><br><b>Tiền sử:</b> Hút thuốc lá 40 gói năm, đã bỏ được 5 năm.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, vẻ mặt mệt mỏi. Sinh hiệu ổn định. Khám thấy phù mềm hai chân, không có ran ở phổi, tim đều. Không sờ thấy hạch ngoại vi.<br><br><b>Xét nghiệm:</b> Creatinin huyết thanh 110 µmol/L, Albumin máu 20 g/L, Protein niệu 24 giờ 8.0 g/24h. X-quang ngực thẳng phát hiện một khối mờ dạng nốt đơn độc ở thùy trên phổi phải, đường kính khoảng 3 cm. Các xét nghiệm marker ung thư như CEA, Cyfra 21-1 tăng cao. Các xét nghiệm miễn dịch (ANA, ANCA) âm tính.",
+      "questions": [
+        {
+          "q": "Tình trạng hội chứng thận hư ở bệnh nhân này rất có thể là một biểu hiện của hội chứng cận ung thư. Nguyên nhân mô bệnh học nào của HCTH thường liên quan nhất đến các khối u đặc (solid tumors) ở người lớn tuổi?",
+          "options": [
+            "Bệnh thận IgA",
+            "Viêm cầu thận màng (Membranous Nephropathy).",
+            "Xơ hóa cầu thận ổ cục bộ (FSGS).",
+            "Bệnh cầu thận thay đổi tối thiểu (Minimal Change Disease)."
+          ],
+          "answer": 1,
+          "explain": "Viêm cầu thận màng (Membranous Nephropathy - MN) là nguyên nhân mô bệnh học phổ biến nhất của hội chứng thận hư thứ phát liên quan đến các khối u đặc ở người lớn, đặc biệt là ung thư phổi, đại trực tràng và dạ dày. Bệnh cảnh ở bệnh nhân lớn tuổi, có tiền sử hút thuốc, sút cân và khối u ở phổi rất gợi ý đến HCTH cận ung thư thể này."
+        },
+        {
+          "q": "Cơ chế nào phù hợp nhất với bệnh cầu thận màng liên quan khối u đặc?",
+          "options": [
+            "Hóa trị gây độc ống thận trước khi người bệnh được điều trị.",
+            "Kháng nguyên liên quan khối u và đáp ứng miễn dịch tạo lắng đọng dưới biểu mô cầu thận.",
+            "Tăng đông do ung thư gây tắc hoàn toàn các mao mạch cầu thận.",
+            "Khối u di căn trực tiếp vào từng búi mao mạch cầu thận."
+          ],
+          "answer": 1,
+          "explain": "Bệnh cầu thận màng liên quan ung thư được xem là bệnh qua trung gian miễn dịch: kháng nguyên liên quan khối u có thể tham gia hình thành phức hợp miễn dịch hoặc lắng đọng tại chỗ dưới biểu mô. Cơ chế không phải là di căn trực tiếp vào cầu thận, và trường hợp này chưa tiếp xúc hóa trị."
+        },
+        {
+          "q": "Hướng tiếp cận chẩn đoán và điều trị ưu tiên hàng đầu cho bệnh nhân này là gì?",
+          "options": [
+            "Điều trị triệu chứng phù bằng lợi tiểu và truyền albumin.",
+            "Sinh thiết thận khẩn cấp để xác định chẩn đoán mô bệnh học.",
+            "Điều trị ngay lập tức hội chứng thận hư bằng corticoid và cyclophosphamide.",
+            "Tập trung chẩn đoán xác định bản chất khối u ở phổi (ví dụ: sinh thiết u phổi) và điều trị bệnh lý ác tính."
+          ],
+          "answer": 3,
+          "explain": "Khi nghi ngờ HCTH là hội chứng cận ung thư, ưu tiên hàng đầu là chẩn đoán và điều trị bệnh lý ác tính gốc. Việc điều trị thành công khối u có thể dẫn đến sự thuyên giảm của HCTH. Điều trị ức chế miễn dịch cho HCTH khi chưa loại trừ ung thư có thể làm bệnh ác tính bùng phát."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây giúp phân biệt viêm cầu thận màng nguyên phát và thứ phát do ung thư?",
+          "options": [
+            "Nồng độ bổ thể C3 trong máu.",
+            "Định lượng IgA trong huyết thanh.",
+            "Xét nghiệm kháng thể kháng thụ thể Phospholipase A2 (anti-PLA2R).",
+            "Nhuộm hóa mô miễn dịch tìm lắng đọng IgG4 trên mảnh sinh thiết thận."
+          ],
+          "answer": 2,
+          "explain": "Kháng thể kháng thụ thể Phospholipase A2 (anti-PLA2R) là một marker đặc hiệu cao cho viêm cầu thận màng nguyên phát (vô căn), có mặt ở khoảng 70-80% trường hợp. Sự âm tính của kháng thể này, đặc biệt trên bệnh nhân lớn tuổi có yếu tố nguy cơ ung thư, làm tăng khả năng đây là thể thứ phát."
+        },
+        {
+          "q": "Nếu khối u ở phổi được điều trị thành công (ví dụ: phẫu thuật cắt bỏ hoàn toàn), diễn biến nào của hội chứng thận hư được kỳ vọng nhất?",
+          "options": [
+            "Bệnh sẽ chuyển từ hội chứng thận hư sang hội chứng thận viêm.",
+            "Bệnh sẽ tiến triển nhanh đến suy thận giai đoạn cuối.",
+            "Bệnh sẽ lui hoàn toàn mà không cần điều trị ức chế miễn dịch đặc hiệu.",
+            "Bệnh sẽ không thay đổi và cần điều trị ức chế miễn dịch lâu dài."
+          ],
+          "answer": 2,
+          "explain": "Trong HCTH cận ung thư, tổn thương thận là do các yếu tố từ khối u gây ra. Do đó, nếu nguyên nhân gốc (khối u) được loại bỏ hoàn toàn, các yếu tố gây bệnh sẽ không còn, và hội chứng thận hư có khả năng cao sẽ lui bệnh hoàn toàn mà không cần đến các liệu pháp ức chế miễn dịch đặc hiệu cho bệnh cầu thận."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi xuất hiện cơn đau quặn thận điển hình vùng hông lưng trái",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 30 tuổi.<br><br><b>Bệnh sử:</b> 3 ngày nay bệnh nhân xuất hiện cơn đau quặn thận điển hình vùng hông lưng trái lan xuống bìu, kèm tiểu ít, không sốt. Khám lúc vào viện thấy bệnh nhân vật vã, đau đớn.<br><br><b>Tiền sử:</b> Cách đây 1 tháng, bệnh nhân được chẩn đoán hội chứng thận hư tại bệnh viện tuyến dưới (Protein niệu 9g/ngày, Albumin máu 19 g/L), bắt đầu điều trị với Prednisolone 60 mg/ngày và Furosemide 40 mg/ngày. Tình trạng phù có cải thiện.<br><br><b>Khám lâm sàng:</b> Bụng mềm, ấn điểm sườn lưng trái đau chói, không có phản ứng thành bụng. Sinh hiệu: HA 140/80 mmHg, Mạch 110 lần/phút, Nhịp thở 22 lần/phút.<br><br><b>Xét nghiệm:</b> Creatinin huyết thanh tăng từ 90 µmol/L (1 tháng trước) lên 180 µmol/L; D-dimer tăng rất cao. Siêu âm Doppler mạch máu thận cho thấy hình ảnh huyết khối hoàn toàn động mạch thận bên trái.",
+      "questions": [
+        {
+          "q": "Biến chứng cấp tính và nghiêm trọng nhất bệnh nhân đang gặp phải là gì?",
+          "options": [
+            "Nhiễm trùng đường tiết niệu có biến chứng.",
+            "Viêm tụy cấp.",
+            "Cơn đau quặn thận do sỏi niệu quản.",
+            "Nhồi máu thận cấp do huyết khối động mạch thận."
+          ],
+          "answer": 3,
+          "explain": "Bệnh cảnh đau hông lưng cấp tính, dữ dội, kèm suy giảm chức năng thận cấp và D-dimer tăng cao trên nền HCTH là rất điển hình cho nhồi máu thận cấp do huyết khối. Siêu âm Doppler xác nhận chẩn đoán. Cơn đau quặn thận do sỏi thường không gây suy thận cấp nhanh như vậy trừ khi tắc cả hai bên."
+        },
+        {
+          "q": "Yếu tố nào sau đây là nguyên nhân chính dẫn đến tình trạng tăng đông và gây ra biến chứng trên ở bệnh nhân hội chứng thận hư?",
+          "options": [
+            "Tác dụng phụ của thuốc Corticoid.",
+            "Giảm số lượng tiểu cầu trong máu tuần hoàn.",
+            "Mất các protein chống đông (Antithrombin III, Protein S, Protein C) qua nước tiểu.",
+            "Tăng huyết áp hệ thống."
+          ],
+          "answer": 2,
+          "explain": "Hội chứng thận hư là một tình trạng tăng đông máu mắc phải. Cơ chế chính là do sự mất cân bằng giữa các yếu tố đông máu và chống đông: gan tăng sản xuất các yếu tố tiền đông (fibrinogen, yếu tố V, VIII), trong khi các protein chống đông tự nhiên có trọng lượng phân tử nhỏ hơn (như Antithrombin III, Protein S, C) bị mất qua nước tiểu cùng với albumin."
+        },
+        {
+          "q": "Phương pháp chẩn đoán hình ảnh nào được xem là \"tiêu chuẩn vàng\" để xác định chẩn đoán biến chứng này?",
+          "options": [
+            "Chụp cắt lớp vi tính (CT scan) có tiêm thuốc cản quang động mạch thận.",
+            "Chụp cộng hưởng từ (MRI) bụng.",
+            "X-quang hệ tiết niệu không chuẩn bị (KUB).",
+            "Siêu âm bụng tổng quát."
+          ],
+          "answer": 0,
+          "explain": "Chụp CT scan động mạch thận có cản quang (CTA) là tiêu chuẩn vàng để chẩn đoán huyết khối động mạch thận. Kỹ thuật này cho phép thấy rõ lòng mạch, vị trí cục máu đông, và đánh giá mức độ tưới máu của nhu mô thận (hình ảnh \"vết cắt\" hoặc không ngấm thuốc vùng nhồi máu)."
+        },
+        {
+          "q": "Xử trí ban đầu cấp cứu và quan trọng nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Tăng liều lợi tiểu để cải thiện chức năng thận.",
+            "Bắt đầu ngay liệu pháp chống đông bằng Heparin không phân đoạn đường tĩnh mạch.",
+            "Giảm liều Corticoid để giảm nguy cơ huyết khối.",
+            "Chuẩn bị phẫu thuật cắt bỏ thận trái."
+          ],
+          "answer": 1,
+          "explain": "Xử trí cấp cứu là bắt đầu ngay liệu pháp chống đông bằng heparin đường tĩnh mạch để ngăn ngừa huyết khối lan rộng và tái phát. Các biến pháp can thiệp khác như lấy huyết khối qua da hoặc phẫu thuật có thể được cân nhắc tùy trường hợp, nhưng chống đông là nền tảng. Tăng lợi tiểu hay giảm corticoid không giải quyết được nguyên nhân gốc."
+        },
+        {
+          "q": "Ngoài huyết khối động mạch/tĩnh mạch thận, biến chứng thuyên tắc huyết khối ở cơ quan nào khác cũng thường gặp và nguy hiểm ở bệnh nhân hội chứng thận hư?",
+          "options": [
+            "Thuyên tắc phổi.",
+            "Huyết khối tĩnh mạch cửa.",
+            "Nhồi máu mạc treo.",
+            "Nhồi máu não."
+          ],
+          "answer": 0,
+          "explain": "Do tình trạng tăng đông hệ thống, bệnh nhân HCTH có nguy cơ cao bị huyết khối ở nhiều vị trí. Thuyên tắc phổi là một trong những biến chứng thường gặp và gây tử vong cao nhất, thường xuất phát từ huyết khối tĩnh mạch sâu chi dưới di chuyển lên."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 5 tuổi sưng phù hai mắt và chân",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 5 tuổi.<br><br><b>Bệnh sử:</b> Được mẹ đưa đến khám vì sưng phù hai mắt và chân trong khoảng 1 tuần. Trẻ vẫn ăn uống, chơi đùa bình thường, không sốt, không ho, không tiểu máu.<br><br><b>Tiền sử:</b> Sản khoa và phát triển tâm thần vận động bình thường, đã tiêm chủng đầy đủ, không có tiền sử bệnh lý đáng chú ý.<br><br><b>Khám lâm sàng:</b> Trẻ tỉnh, thể trạng không suy dinh dưỡng. Sinh hiệu ổn định. Phù mềm, trắng, ấn lõm rõ ở mi mắt, mu bàn chân và mặt trước xương chày hai bên. Bụng mềm, không báng. Tim phổi bình thường. Da không phát ban.<br><br><b>Xét nghiệm:</b> Tổng phân tích nước tiểu: Protein 4+, không có hồng cầu, không có bạch cầu. Protein niệu 24 giờ: 4.5 g/24h. Albumin máu: 17 g/L. Creatinin huyết thanh: 30 µmol/L (bình thường theo tuổi). Cholesterol máu tăng nhẹ. Bổ thể C3, C4 trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Dựa trên bệnh cảnh lâm sàng và cận lâm sàng, chẩn đoán mô bệnh học có khả năng cao nhất ở bệnh nhi này là gì, dù không cần sinh thiết?",
+          "options": [
+            "Bệnh cầu thận thay đổi tối thiểu (Minimal Change Disease - MCD).",
+            "Viêm cầu thận màng tăng sinh (MPGN).",
+            "Xơ hóa cầu thận ổ cục bộ (FSGS).",
+            "Viêm cầu thận sau nhiễm liên cầu."
+          ],
+          "answer": 0,
+          "explain": "Hội chứng thận hư khởi phát ở trẻ từ 1-10 tuổi, với biểu hiện lâm sàng \"đơn thuần\" (không tiểu máu, không tăng huyết áp, chức năng thận bình thường, bổ thể bình thường) có xác suất rất cao (>80-90%) là Bệnh cầu thận thay đổi tối thiểu (MCD). Đây là chẩn đoán lâm sàng được chấp nhận mà không cần sinh thiết ban đầu."
+        },
+        {
+          "q": "Cơ chế bệnh sinh của bệnh cầu thận thay đổi tối thiểu được cho là liên quan đến yếu tố nào?",
+          "options": [
+            "Lắng đọng các phức hợp miễn dịch chứa IgA tại vùng gian mạch cầu thận.",
+            "Đột biến gen mã hóa cho protein nephrin của khe lọc cầu thận.",
+            "Nhiễm độc trực tiếp từ một loại virus không xác định lên màng đáy cầu thận.",
+            "Rối loạn chức năng tế bào lympho T, sản xuất ra một yếu tố lưu hành làm tổn thương tế bào podocyte."
+          ],
+          "answer": 3,
+          "explain": "Cơ chế chính xác của MCD chưa được hiểu đầy đủ, nhưng giả thuyết được chấp nhận rộng rãi nhất là do rối loạn chức năng tế bào T. Tế bào T bị hoạt hóa sẽ sản xuất ra một \"yếu tố thấm\" (permeability factor) chưa xác định, yếu tố này lưu hành trong máu, đến cầu thận và gây tổn thương trực tiếp đến các tế bào có chân (podocyte), làm chúng xóa chân và gây ra protein niệu chọn lọc (chủ yếu là albumin)."
+        },
+        {
+          "q": "Tại sao ở trẻ em bị hội chứng thận hư điển hình, việc sinh thiết thận thường không được chỉ định ở lần chẩn đoán đầu tiên?",
+          "options": [
+            "Vì thủ thuật quá nguy hiểm cho trẻ nhỏ.",
+            "Vì hơn 80-90% các trường hợp là bệnh cầu thận thay đổi tối thiểu và đáp ứng tốt với corticoid.",
+            "Vì không thể lấy đủ mẫu mô thận ở trẻ em.",
+            "Vì chi phí sinh thiết quá cao."
+          ],
+          "answer": 1,
+          "explain": "Chính vì tỷ lệ mắc MCD rất cao và thể bệnh này có đặc điểm là đáp ứng rất tốt với điều trị corticoid, nên chiến lược \"chẩn đoán qua điều trị\" được áp dụng. Việc điều trị thử bằng corticoid vừa có giá trị chẩn đoán (nếu đáp ứng) vừa là điều trị. Sinh thiết chỉ được dành cho các trường hợp không điển hình hoặc không đáp ứng với điều trị ban đầu."
+        },
+        {
+          "q": "Thái độ xử trí đầu tay phù hợp nhất cho bệnh nhi này là gì?",
+          "options": [
+            "Lên lịch sinh thiết thận để có chẩn đoán xác định.",
+            "Điều trị thử bằng một đợt tấn công với Corticoid đường uống liều cao.",
+            "Nhập viện truyền Albumin và lợi tiểu ngay lập tức.",
+            "Dùng thuốc ức chế men chuyển và theo dõi protein niệu."
+          ],
+          "answer": 1,
+          "explain": "Theo hướng dẫn của KDIGO và các hiệp hội nhi khoa, xử trí đầu tay cho HCTH vô căn, nghi ngờ MCD ở trẻ em là điều trị tấn công bằng Prednisone hoặc Prednisolone liều 60 mg/m²/ngày hoặc 2 mg/kg/ngày trong 4-6 tuần, sau đó giảm liều dần."
+        },
+        {
+          "q": "Yếu tố nào sau đây được coi là dấu hiệu tiên lượng xấu, gợi ý bệnh không phải là thể thay đổi tối thiểu hoặc kháng thuốc?",
+          "options": [
+            "Cholesterol máu tăng rất cao.",
+            "Phù nhiều.",
+            "Có tiểu máu đại thể và tăng huyết áp.",
+            "Albumin máu giảm rất thấp."
+          ],
+          "answer": 2,
+          "explain": "Sự hiện diện của các dấu hiệu thuộc hội chứng thận viêm như tiểu máu (đặc biệt là đại thể), tăng huyết áp, và suy giảm chức năng thận là các \"cơ đỏ\", gợi ý đây không phải là HCTH đơn thuần do MCD. Trong những trường hợp này, các chẩn đoán khác như FSGS hay MPGN cần được đặt ra và chỉ định sinh thiết thận là cần thiết."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 42 tuổi được chẩn đoán xơ hóa cầu thận ổ cục bộ nguyên phát",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 42 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì phù toàn thân và khó thở khi gắng sức. Bệnh cảnh diễn tiến khoảng 2 tháng. Bệnh nhân được bắt đầu điều trị với Prednisolone liều 1 mg/kg/ngày. Sau 12 tuần điều trị, lượng protein niệu chỉ giảm nhẹ xuống còn 8 g/ngày, albumin máu vẫn ở mức 20 g/L, tình trạng phù không cải thiện nhiều.<br><br><b>Tiền sử:</b> Khỏe mạnh trước đó.<br><br><b>Khám lâm sàng:</b> Khám lâm sàng và cận lâm sàng xác định chẩn đoán hội chứng thận hư.<br><br><b>Xét nghiệm:</b> Lúc vào viện: Protein niệu 12 g/ngày, Albumin máu 16 g/L, Creatinin 95 µmol/L. Được chỉ định sinh thiết thận, kết quả mô bệnh học là \"Xơ hóa cầu thận ổ cục bộ (Focal Segmental Glomerulosclerosis - FSGS)\", thể nguyên phát.",
+      "questions": [
+        {
+          "q": "Tình trạng của bệnh nhân sau 12 tuần điều trị được định nghĩa là gì?",
+          "options": [
+            "Lui bệnh một phần.",
+            "Lui bệnh hoàn toàn.",
+            "Phụ thuộc Corticoid.",
+            "Kháng Corticoid."
+          ],
+          "answer": 3,
+          "explain": "Kháng corticoid được định nghĩa là tình trạng không đạt được lui bệnh hoàn toàn sau một đợt điều trị tấn công đủ liều và đủ thời gian với corticoid (thường là 8-16 tuần). Bệnh nhân này sau 12 tuần, protein niệu vẫn ở mức thận hư, do đó được xem là kháng corticoid."
+        },
+        {
+          "q": "Cơ chế chính gây ra protein niệu trong bệnh lý FSGS là gì?",
+          "options": [
+            "Tăng sinh lan tỏa các tế bào gian mạch làm hẹp lòng mao mạch cầu thận.",
+            "Lắng đọng các phức hợp miễn dịch lớn ở vùng dưới nội mô.",
+            "Mỏng màng đáy cầu thận do bất thường di truyền của collagen type IV.",
+            "Tổn thương và mất các tế bào biểu mô có chân (podocyte) dẫn đến sẹo hóa và phá vỡ hàng rào lọc."
+          ],
+          "answer": 3,
+          "explain": "FSGS được xem là một bệnh lý của tế bào podocyte (podocytopathy). Tổn thương ban đầu xảy ra ở podocyte, dẫn đến việc chúng bị bong ra khỏi màng đáy cầu thận. Khoảng trống này sẽ được lấp đầy bởi chất nền ngoại bào, tạo thành các vết sẹo (xơ hóa). Quá trình này chỉ xảy ra ở một vài cầu thận (focal) và chỉ ở một phần của búi mao mạch (segmental)."
+        },
+        {
+          "q": "Hướng xử trí tiếp theo phù hợp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Tiếp tục dùng Prednisolone liều cao thêm 12 tuần nữa.",
+            "Tăng liều lợi tiểu và truyền albumin hàng tuần.",
+            "Chuyển sang một thuốc ức chế miễn dịch hàng thứ hai như Cyclosporine hoặc Tacrolimus.",
+            "Ngừng Prednisolone và chỉ điều trị hỗ trợ."
+          ],
+          "answer": 2,
+          "explain": "Đối với HCTH do FSGS nguyên phát kháng corticoid, liệu pháp hàng thứ hai được khuyến cáo là các thuốc ức chế calcineurin như Cyclosporine hoặc Tacrolimus. Các thuốc này đã được chứng minh có hiệu quả trong việc làm giảm protein niệu và bảo tồn chức năng thận ở nhóm bệnh nhân này."
+        },
+        {
+          "q": "So với bệnh cầu thận thay đổi tối thiểu, tiên lượng lâu dài của FSGS nguyên phát thường như thế nào?",
+          "options": [
+            "Tốt hơn, hầu hết bệnh nhân sẽ lui bệnh hoàn toàn và không tái phát.",
+            "Không thể so sánh được vì cơ chế bệnh sinh hoàn toàn khác nhau.",
+            "Tương tự, tỷ lệ đáp ứng với corticoid và tái phát là như nhau.",
+            "Xấu hơn, có nguy cơ cao tiến triển đến bệnh thận giai đoạn cuối."
+          ],
+          "answer": 3,
+          "explain": "Tiên lượng của FSGS nguyên phát xấu hơn đáng kể so với MCD. Tỷ lệ kháng corticoid cao hơn, và một tỷ lệ đáng kể bệnh nhân (lên đến 50% trong 10 năm) sẽ tiến triển đến bệnh thận giai đoạn cuối cần điều trị thay thế thận, ngay cả khi đã được điều trị."
+        },
+        {
+          "q": "Thuốc ức chế calcineurin (Cyclosporine, Tacrolimus) có tác dụng giảm protein niệu trong FSGS thông qua cơ chế chính nào?",
+          "options": [
+            "Giảm huyết áp hệ thống và áp lực trong cầu thận.",
+            "Ổn định bộ khung xương actin của tế bào podocyte, giảm tổn thương và mất tế bào này.",
+            "Tăng tái hấp thu protein ở ống lượn gần.",
+            "Ức chế trực tiếp sự tăng sinh của tế bào gian mạch."
+          ],
+          "answer": 1,
+          "explain": "Ngoài tác dụng ức chế miễn dịch trên tế bào T, các thuốc ức chế calcineurin còn có tác dụng trực tiếp trên podocyte. Chúng giúp ổn định bộ khung xương tế bào (cytoskeleton) cấu tạo từ actin của podocyte, ngăn ngừa sự xóa chân và bong tróc tế bào, từ đó củng cố hàng rào lọc và làm giảm protein niệu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi phát hiện một dải đơn dòng IgG kappa",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì phù chân và tiểu bọt.<br><br><b>Tiền sử:</b> Tăng huyết áp đang điều trị với Perindopril.<br><br><b>Khám lâm sàng:</b> Chưa ghi nhận bất thường hệ thống nặng ngoài phù chân.<br><br><b>Xét nghiệm:</b> Xác định hội chứng thận hư (Protein niệu 7 g/ngày, Albumin máu 24 g/L). Điện di protein huyết thanh và miễn dịch cố định phát hiện một dải đơn dòng IgG kappa. Tủy đồ và sinh thiết tủy xương cho thấy có 15% tương bào (plasmacyte) đơn dòng. Sinh thiết thận cho thấy hình ảnh lắng đọng các chuỗi nhẹ dạng vô định hình tại cầu thận và ống thận, không có hình ảnh amyloid. Chức năng thận còn trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán chính xác nhất cho tình trạng thận của bệnh nhân là gì?",
+          "options": [
+            "Bệnh cầu thận thay đổi tối thiểu liên quan đến rối loạn tương bào.",
+            "Bệnh Amyloidosis AL.",
+            "Bệnh lắng đọng chuỗi nhẹ (Light Chain Deposition Disease - LCDD).",
+            "Bệnh thận do đa u tủy xương (Myeloma cast nephropathy)."
+          ],
+          "answer": 2,
+          "explain": "Dựa trên kết quả sinh thiết thận mô tả sự lắng đọng của chuỗi nhẹ dạng vô định hình (không phải dạng sợi của amyloid) tại cầu thận và màng đáy ống thận, chẩn đoán chính xác là Bệnh lắng đọng chuỗi nhẹ (LCDD)."
+        },
+        {
+          "q": "Cơ chế gây tổn thương thận trong bệnh lý này là gì?",
+          "options": [
+            "Tăng calci máu gây co mạch thận và giảm mức lọc cầu thận.",
+            "Các chuỗi nhẹ lưu hành gây độc trực tiếp và làm chết các tế bào ống thận.",
+            "Sự tăng sản xuất quá mức các chuỗi nhẹ đơn dòng từ tương bào ác tính và sự lắng đọng của chúng tại các cấu trúc thận.",
+            "Sự xâm nhiễm trực tiếp của các tế bào plasma ác tính vào nhu mô thận."
+          ],
+          "answer": 2,
+          "explain": "Nguồn gốc của bệnh là một clone (dòng) tương bào trong tủy xương sản xuất ra một lượng lớn các chuỗi nhẹ bệnh lý (thường là kappa). Các chuỗi nhẹ này lưu hành trong máu, đi qua màng lọc cầu thận và lắng đọng tại màng đáy cầu thận, vùng gian mạch, và màng đáy ống thận. Sự lắng đọng này phá vỡ cấu trúc bình thường và gây ra protein niệu, HCTH và suy thận."
+        },
+        {
+          "q": "Tình trạng bệnh hệ thống nền tảng của bệnh nhân này là gì?",
+          "options": [
+            "Gammapathy đơn dòng có ý nghĩa thận (Monoclonal Gammopathy of Renal Significance - MGRS).",
+            "Bệnh Waldenström macroglobulinemia.",
+            "Đa u tủy xương (Multiple Myeloma).",
+            "Gammapathy đơn dòng không rõ ý nghĩa (Monoclonal Gammopathy of Undetermined Significance - MGUS)."
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có bằng chứng về một dòng tương bào bệnh lý (đơn dòng IgG kappa, 15% tương bào trong tủy) gây ra tổn thương thận rõ ràng, nhưng chưa đủ tiêu chuẩn chẩn đoán đa u tủy xương (ví dụ: chưa có tổn thương xương, thiếu máu nặng, hay tăng calci máu). Tình trạng này được định nghĩa là MGRS, nhấn mạnh rằng dù chưa phải ung thư máu hệ thống, dòng tế bào đơn dòng này vẫn cần được điều trị vì nó gây tổn thương cơ quan đích là thận."
+        },
+        {
+          "q": "Phương pháp điều trị nào nhằm vào nguyên nhân gốc rễ của bệnh?",
+          "options": [
+            "Ghép thận.",
+            "Lọc huyết tương để loại bỏ chuỗi nhẹ.",
+            "Điều trị ức chế miễn dịch với Corticoid và Cyclophosphamide.",
+            "Hóa trị liệu nhắm vào dòng tương bào bệnh lý (ví dụ: phác đồ dựa trên Bortezomib)."
+          ],
+          "answer": 3,
+          "explain": "Điều trị MGRS và LCDD phải nhắm vào việc tiêu diệt hoặc ức chế dòng tương bào bệnh lý trong tủy xương để ngăn chặn việc sản xuất chuỗi nhẹ. Các phác đồ hóa trị liệu hiện đại, ví dụ như phác đồ chứa thuốc ức chế proteasome (Bortezomib), thường được sử dụng và có hiệu quả cao."
+        },
+        {
+          "q": "So với \"bệnh thận do trụ - myeloma cast nephropathy\" thường gây suy thận cấp, bệnh lắng đọng chuỗi nhẹ (LCDD) thường biểu hiện lâm sàng ban đầu như thế nào?",
+          "options": [
+            "Đái tháo nhạt do thận.",
+            "Sỏi thận tái phát.",
+            "Nhiễm trùng tiểu tái diễn.",
+            "Hội chứng thận hư và protein niệu."
+          ],
+          "answer": 3,
+          "explain": "Trong khi \"bệnh thận do trụ\" chủ yếu gây tổn thương ống thận (chuỗi nhẹ kết hợp với protein Tamm-Horsfall tạo thành trụ gây tắc ống thận) và thường biểu hiện bằng suy thận cấp, thì LCDD chủ yếu gây tổn thương cầu thận do sự lắng đọng chuỗi nhẹ, do đó biểu hiện lâm sàng đặc trưng là protein niệu và hội chứng thận hư."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 30 tuổi mang thai tuần thứ 32 bị phù chân nhiều",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 30 tuổi, mang thai lần đầu ở tuần thứ 32.<br><br><b>Bệnh sử:</b> Nhập viện vì huyết áp đo ở nhà cao (160/110 mmHg) và phù chân nhiều. Trong thai kỳ, khám thai định kỳ không ghi nhận bất thường cho đến 2 tuần gần đây, khi bắt đầu xuất hiện phù và tăng huyết áp.<br><br><b>Tiền sử:</b> Trước khi mang thai, bệnh nhân hoàn toàn khỏe mạnh, huyết áp bình thường. Không có tiền sử bệnh thận trước đó.<br><br><b>Khám lâm sàng:</b> Tỉnh, HA 165/115 mmHg, phù rõ hai chân.<br><br><b>Xét nghiệm:</b> Protein niệu 24 giờ: 4.0 g/24h. Chức năng thận (creatinin, ure) bình thường. Acid uric máu tăng. Tiểu cầu giảm nhẹ (120 G/L). Men gan AST, ALT tăng gấp 2 lần giới hạn trên.",
+      "questions": [
+        {
+          "q": "Chẩn đoán có khả năng nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Tăng huyết áp thai kỳ đơn thuần.",
+            "Tiền sản giật nặng có biểu hiện hội chứng thận hư.",
+            "Bệnh thận mạn không được chẩn đoán trước đó.",
+            "Hội chứng thận hư nguyên phát bùng phát trong thai kỳ."
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có tam chứng kinh điển của tiền sản giật nặng: tăng huyết áp khởi phát sau tuần 20 của thai kỳ, protein niệu, và dấu hiệu tổn thương cơ quan đích (tăng men gan, giảm tiểu cầu). Mặc dù protein niệu đạt ngưỡng thận hư, nhưng bệnh cảnh toàn diện hướng đến tiền sản giật là nguyên nhân chính."
+        },
+        {
+          "q": "Cơ chế bệnh sinh trung tâm của tiền sản giật được cho là liên quan đến yếu tố nào?",
+          "options": [
+            "Sự chèn ép của tử cung lên tĩnh mạch chủ dưới gây ứ trệ tuần hoàn.",
+            "Phản ứng tự miễn của mẹ chống lại các kháng nguyên của thai nhi.",
+            "Nhiễm trùng ối gây ra đáp ứng viêm hệ thống.",
+            "Sự hình thành và xâm nhập bất thường của các nguyên bào nuôi (trophoblast) vào động mạch xoắn của tử cung."
+          ],
+          "answer": 3,
+          "explain": "Giả thuyết hàng đầu về cơ chế bệnh sinh của tiền sản giật là sự khiếm khuyết trong quá trình hình thành bánh nhau. Các nguyên bào nuôi không xâm nhập đủ sâu vào lớp cơ của động mạch xoắn, khiến các mạch máu này không giãn nở được, dẫn đến tình trạng thiếu máu, thiếu oxy của bánh nhau. Bánh nhau bị tổn thương sẽ tiết ra các yếu tố gây viêm và rối loạn chức năng nội mô toàn thân, gây tăng huyết áp và tổn thương các cơ quan khác."
+        },
+        {
+          "q": "Yếu tố nào sau đây trong bệnh cảnh của bệnh nhân giúp phân biệt rõ nhất với một hội chứng thận hư nguyên phát đơn thuần?",
+          "options": [
+            "Sự hiện diện của tăng huyết áp khởi phát sau tuần 20, kèm tổn thương các cơ quan khác (gan, huyết học).",
+            "Tuổi của bệnh nhân.",
+            "Mức độ protein niệu.",
+            "Tình trạng phù."
+          ],
+          "answer": 0,
+          "explain": "Điểm khác biệt mấu chốt là bối cảnh lâm sàng. Sự kết hợp của tăng huyết áp mới xuất hiện sau tuần 20 của thai kỳ cùng với protein niệu và bằng chứng của tổn thương các cơ quan khác (hội chứng HELLP - Hemolysis, Elevated Liver enzymes, Low Platelets) là đặc trưng của tiền sản giật. HCTH nguyên phát thường không có các biểu hiện đa cơ quan này."
+        },
+        {
+          "q": "Biện pháp điều trị dứt điểm duy nhất cho tình trạng của bệnh nhân là gì?",
+          "options": [
+            "Truyền Albumin và lợi tiểu.",
+            "Chấm dứt thai kỳ (sinh em bé).",
+            "Dùng thuốc hạ áp nhóm ức chế men chuyển.",
+            "Dùng thuốc ức chế miễn dịch liều cao."
+          ],
+          "answer": 1,
+          "explain": "Điều trị tiền sản giật chỉ là quản lý triệu chứng (hạ áp, phòng co giật) để kéo dài thai kỳ an toàn nhất có thể. Biện pháp điều trị dứt điểm duy nhất là lấy thai và bánh nhau ra ngoài, loại bỏ nguồn gốc gây bệnh."
+        },
+        {
+          "q": "Thuốc hạ áp nào sau đây được xem là an toàn và là lựa chọn đầu tay để kiểm soát huyết áp cấp cứu ở bệnh nhân này?",
+          "options": [
+            "Losartan (ARB).",
+            "Nitroprusside.",
+            "Labetalol đường tĩnh mạch.",
+            "Perindopril (ACEI)."
+          ],
+          "answer": 2,
+          "explain": "Các thuốc ACEI và ARB bị chống chỉ định tuyệt đối trong thai kỳ vì gây quái thai. Nitroprusside có nguy cơ gây ngộ độc cyanide cho thai. Labetalol (chẹn cả alpha và beta), Hydralazine, và Nifedipine là các thuốc hạ áp được ưu tiên sử dụng trong cấp cứu tăng huyết áp ở phụ nữ mang thai do tính an toàn và hiệu quả đã được chứng minh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi tiền sử tiêm chích ma túy nhập viện vì sốt cao",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì sốt cao, rét run kéo dài 1 tuần và phù nhẹ hai chân. Khám tim có tiếng thổi tâm thu mới xuất hiện ở ổ van ba lá. Da có vài nốt xuất huyết dạng dầm ở dưới móng tay. Phù nhẹ hai cổ chân.<br><br><b>Tiền sử:</b> Tiền sử tiêm chích ma túy, đã ngưng 2 năm.<br><br><b>Khám lâm sàng:</b> Tỉnh, sốt 39.5°C, mạch 120 lần/phút, HA 100/60 mmHg. Siêu âm tim qua thành ngực thấy khối sùi lớn ở van ba lá.<br><br><b>Xét nghiệm:</b> BC 18 G/L (Neutro 85%), CRP 250 mg/L. Cấy máu (3 mẫu) dương tính với Staphylococcus aureus. Creatinin huyết thanh 160 µmol/L. Tổng phân tích nước tiểu có Protein 2+, Hồng cầu 3+. Protein niệu 24 giờ là 3.8 g/24h, Albumin máu 28 g/L. Bổ thể C3, C4 giảm.",
+      "questions": [
+        {
+          "q": "Tình trạng tổn thương thận của bệnh nhân nhiều khả năng nhất là gì?",
+          "options": [
+            "Tắc mạch thận do mảnh sùi di chuyển.",
+            "Hoại tử ống thận cấp do sốc nhiễm khuẩn.",
+            "Viêm thận kẽ cấp do dị ứng kháng sinh.",
+            "Viêm cầu thận hậu nhiễm liên quan đến viêm nội tâm mạc nhiễm khuẩn."
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân có bằng chứng rõ ràng của viêm nội tâm mạc nhiễm khuẩn (sốt, tiếng thổi mới, cấy máu dương tính, sùi trên siêu âm tim) và đồng thời có biểu hiện của tổn thương thận (suy thận, protein niệu mức thận hư, tiểu máu, bổ thể giảm). Đây là bệnh cảnh điển hình của viêm cầu thận hậu nhiễm do lắng đọng phức hợp miễn dịch."
+        },
+        {
+          "q": "Cơ chế chính gây viêm cầu thận trong bối cảnh viêm nội tâm mạc nhiễm khuẩn là gì?",
+          "options": [
+            "Độc tố của Staphylococcus aureus gây tổn thương trực tiếp màng đáy cầu thận.",
+            "Huyết khối vi mạch do rối loạn đông máu trong nhiễm trùng huyết.",
+            "Lắng đọng các phức hợp miễn dịch lưu hành (kháng nguyên vi khuẩn - kháng thể) tại cầu thận.",
+            "Vi khuẩn từ máu đến và khu trú trực tiếp tại cầu thận."
+          ],
+          "answer": 2,
+          "explain": "Tương tự viêm cầu thận sau nhiễm liên cầu, cơ chế chính ở đây là bệnh lý phức hợp miễn dịch. Kháng nguyên từ vi khuẩn (S. aureus) lưu hành trong máu, kết hợp với kháng thể do cơ thể tạo ra. Các phức hợp miễn dịch này bị giữ lại tại màng đáy cầu thận, hoạt hóa hệ thống bổ thể và dòng thác viêm, gây tổn thương cầu thận."
+        },
+        {
+          "q": "Đặc điểm nào của phân tích nước tiểu gợi ý đây là một tổn thương cầu thận (glomerular injury)?",
+          "options": [
+            "Sự hiện diện đồng thời của protein niệu và hồng cầu niệu.",
+            "Có trụ bạch cầu.",
+            "pH nước tiểu kiềm.",
+            "Tỷ trọng nước tiểu cao."
+          ],
+          "answer": 0,
+          "explain": "Tổn thương tại cầu thận làm phá vỡ hàng rào lọc, cho phép cả protein và hồng cầu thoát ra nước tiểu. Do đó, sự kết hợp giữa protein niệu và hồng cầu niệu (hematuria) là dấu hiệu chỉ điểm của một tổn thương tại cầu thận (hội chứng thận viêm hoặc thận hư thận viêm hỗn hợp)."
+        },
+        {
+          "q": "Hướng điều trị nào là quan trọng nhất để giải quyết tổn thương thận của bệnh nhân?",
+          "options": [
+            "Lọc máu cấp cứu để loại bỏ phức hợp miễn dịch.",
+            "Điều trị triệt để nhiễm khuẩn huyết bằng kháng sinh tĩnh mạch liều cao, kéo dài.",
+            "Dùng Corticoid liều cao để ức chế quá trình viêm tại cầu thận.",
+            "Dùng thuốc ức chế men chuyển để làm giảm protein niệu."
+          ],
+          "answer": 1,
+          "explain": "Tổn thương thận ở đây là thứ phát sau nhiễm trùng. Do đó, nền tảng của điều trị là kiểm soát và loại bỏ nhiễm trùng gốc bằng liệu pháp kháng sinh phù hợp và đủ dài (thường là 4-6 tuần). Khi nhiễm trùng được giải quyết, nguồn cung cấp kháng nguyên sẽ hết, quá trình viêm tại thận sẽ tự thuyên giảm. Corticoid thường không được chỉ định."
+        },
+        {
+          "q": "Sự giảm nồng độ bổ thể C3, C4 trong huyết thanh phản ánh điều gì trong cơ chế bệnh sinh?",
+          "options": [
+            "Hiện tượng pha loãng máu do quá tải dịch.",
+            "Bổ thể bị mất qua nước tiểu cùng với các protein khác.",
+            "Gan suy giảm chức năng tổng hợp bổ thể.",
+            "Bổ thể bị tiêu thụ trong quá trình hoạt hóa bởi các phức hợp miễn dịch lắng đọng tại thận."
+          ],
+          "answer": 3,
+          "explain": "Khi các phức hợp miễn dịch lắng đọng tại cầu thận, chúng sẽ hoạt hóa bổ thể theo con đường cổ điển. Quá trình hoạt hóa này tiêu thụ một lượng lớn các thành phần bổ thể, đặc biệt là C3 và C4, dẫn đến nồng độ của chúng trong huyết thanh giảm xuống. Đây là một dấu hiệu quan trọng của các bệnh cầu thận qua trung gian phức hợp miễn dịch."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi tiền sử viêm gan B phát hiện phù hai chân",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi, nhân viên văn phòng.<br><br><b>Bệnh sử:</b> Vào viện vì phù hai chân tăng dần trong 3 tuần nay. Bệnh sử ghi nhận phù xuất hiện đầu tiên ở mi mắt khi ngủ dậy, sau đó lan xuống hai chi dưới, kèm tiểu ít và nước tiểu nhiều bọt. Bệnh nhân không khó thở, không đau ngực, không sốt.<br><br><b>Tiền sử:</b> Phát hiện viêm gan B mạn tính cách đây 5 năm, không điều trị thuốc kháng virus thường xuyên.<br><br><b>Khám lâm sàng:</b> Nhịp tim 82 l/p, huyết áp 135/85 mmHg, nhịp thở 18 l/p, nhiệt độ 37°C, BMI 24 kg/m². Khám toàn thân thấy phù mềm, ấn lõm vùng cẳng chân và mu chân hai bên; không có ban đỏ màng nhện, gan lách không to, không sao mạch, không có tĩnh mạch cổ nổi.<br><br><b>Xét nghiệm:</b> Albumin máu 22 g/L, protein toàn phần 45 g/L, cholesterol toàn phần 8.5 mmol/L, triglyceride 3.2 mmol/L; creatinine máu 85 µmol/L. Xét nghiệm nước tiểu: protein 6.5 g/24 giờ, hồng cầu niệu âm tính. HBsAg dương tính, HBV-DNA 10^6 copies/mL.",
+      "questions": [
+        {
+          "q": "Định hướng chẩn đoán thể tổn thương mô bệnh học cầu thận phù hợp nhất?",
+          "options": [
+            "Viêm cầu thận màng tăng sinh.",
+            "Bệnh lý cầu thận màng.",
+            "Bệnh cầu thận tổn thương tối thiểu.",
+            "Xơ hóa cầu thận ổ cục bộ."
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có hội chứng thận hư (protein niệu > 3.5g/24h, albumin máu < 30g/L, phù, tăng lipid máu) trên nền nhiễm HBV mạn. Nhiễm HBV mạn tính ở người lớn có liên quan mật thiết nhất với bệnh lý cầu thận màng (Membranous nephropathy)."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính gây ra tình trạng phù ở bệnh nhân này?",
+          "options": [
+            "Tăng tính thấm thành mạch toàn thân.",
+            "Giảm áp lực keo huyết tương.",
+            "Tắc nghẽn hệ thống tĩnh mạch chủ.",
+            "Tăng áp lực thủy tĩnh mao mạch ngoại vi."
+          ],
+          "answer": 1,
+          "explain": "Cơ chế phù kinh điển trong hội chứng thận hư (đặc biệt khi albumin giảm sâu) là thuyết đổ đầy thiếu (underfill hypothesis), do giảm albumin dẫn đến giảm áp lực keo huyết tương, làm nước thoát ra khoảng kẽ. Các phương án sai mô tả cơ chế của suy tim hoặc viêm."
+        },
+        {
+          "q": "Xét nghiệm nào sau đây có giá trị nhất để loại trừ nguyên nhân tiên phát?",
+          "options": [
+            "Định lượng kháng thể kháng nhân.",
+            "Sinh thiết thận dưới hướng dẫn siêu âm.",
+            "Định lượng bổ thể C3 và C4.",
+            "Kháng thể kháng thụ thể PLA2R."
+          ],
+          "answer": 3,
+          "explain": "Kháng thể kháng thụ thể phospholipase A2 (PLA2R) dương tính ở 70-80% bệnh thận màng nguyên phát. Âm tính gợi ý tìm nguyên nhân thứ phát như viêm gan B trong trường hợp này."
+        },
+        {
+          "q": "Lựa chọn điều trị ưu tiên ban đầu trên bệnh nhân này?",
+          "options": [
+            "Corticosteroid liều cao đường uống.",
+            "Lọc máu chu kỳ qua tĩnh mạch.",
+            "Thuốc kháng virus viêm gan B.",
+            "Thuốc ức chế miễn dịch Cyclophosphamide."
+          ],
+          "answer": 2,
+          "explain": "Với bệnh thận màng thứ phát do HBV có tải lượng virus cao, điều trị ưu tiên là thuốc kháng virus (Entecavir, Tenofovir) để kiểm soát nguyên nhân, tránh dùng ngay corticoid/ức chế miễn dịch vì nguy cơ bùng phát viêm gan virus nặng."
+        },
+        {
+          "q": "Biến chứng nguy hiểm nào sau đây có nguy cơ xảy ra cao nhất ở bệnh cảnh này?",
+          "options": [
+            "Xuất huyết tiêu hóa cao.",
+            "Huyết khối tĩnh mạch thận.",
+            "Viêm phúc mạc tiên phát.",
+            "Suy thận cấp chức năng."
+          ],
+          "answer": 1,
+          "explain": "Bệnh lý cầu thận màng có tỷ lệ biến chứng huyết khối tĩnh mạch thận cao nhất trong các nguyên nhân gây hội chứng thận hư. Cần cảnh giác cao khi bệnh nhân xuất hiện đau thắt lưng hoặc tiểu máu đại thể."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 35 tuổi mắc hội chứng thận hư xuất hiện khó thở đột ngột",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 35 tuổi, kế toán.<br><br><b>Bệnh sử:</b> 1 ngày nay bệnh nhân đột ngột khó thở, vã mồ hôi, kèm sưng phù không đối xứng ở chân trái nhiều hơn chân phải. Khám phổi rì rào phế nang giảm nhẹ ở đáy phổi phải, không ran. Khám chân trái sưng to, dấu hiệu Homans dương tính.<br><br><b>Tiền sử:</b> Cách đây 2 tháng, bệnh nhân được chẩn đoán hội chứng thận hư nguyên phát, đang điều trị ngoại trú với Prednisolone 1 mg/kg/ngày. Không mắc bệnh tim mạch, không hút thuốc, không sử dụng thuốc tránh thai.<br><br><b>Khám lâm sàng:</b> Ý thức tỉnh, mạch 115 l/p, huyết áp 100/60 mmHg, nhịp thở 24 l/p, SpO2 90% khi thở khí trời.<br><br><b>Xét nghiệm:</b> Xét nghiệm gần nhất: albumin máu 18 g/L, protein niệu 8 g/24 giờ. Cận lâm sàng hiện tại: Điện tâm đồ có nhịp nhanh xoang, trục phải.",
+      "questions": [
+        {
+          "q": "Chẩn đoán biến chứng phù hợp nhất ở bệnh nhân này?",
+          "options": [
+            "Suy tim sung huyết cấp.",
+            "Thuyên tắc động mạch phổi",
+            "Tràn dịch màng phổi lượng nhiều.",
+            "Viêm phổi mắc phải cộng đồng."
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh khó thở đột ngột, đau ngực kiểu màng phổi, SpO2 giảm, mạch nhanh kèm dấu hiệu huyết khối tĩnh mạch sâu chi dưới (chân trái sưng, Homans dương tính) trên nền bệnh nhân có nguy cơ tăng đông điển hình của thuyên tắc động mạch phổi."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính gây ra tình trạng tăng đông?",
+          "options": [
+            "Giảm độ nhớt của máu động mạch.",
+            "Tăng kết tập tiểu cầu do viêm.",
+            "Mất antithrombin III qua nước tiểu.",
+            "Tăng tổng hợp yếu tố VIII tại gan."
+          ],
+          "answer": 2,
+          "explain": "Tình trạng tăng đông trong hội chứng thận hư chủ yếu do mất các protein chống đông qua nước tiểu (quan trọng nhất là Antithrombin III, Protein C, Protein S) and gan tăng tổng hợp bù trừ các yếu tố đông máu (như Fibrinogen)."
+        },
+        {
+          "q": "Cận lâm sàng nào là tiêu chuẩn vàng để xác định chẩn đoán?",
+          "options": [
+            "Chụp cắt lớp vi tính động mạch phổi.",
+            "X-quang ngực thẳng thường quy.",
+            "Siêu âm Doppler tĩnh mạch chi dưới.",
+            "Định lượng D-dimer huyết thanh."
+          ],
+          "answer": 0,
+          "explain": "Chụp CT động mạch phổi (CTPA) là tiêu chuẩn vàng trên lâm sàng hiện nay để chẩn đoán xác định thuyên tắc động mạch phổi. D-dimer chỉ có giá trị loại trừ, siêu âm tĩnh mạch chỉ chẩn đoán DVT."
+        },
+        {
+          "q": "Xử trí ban đầu ưu tiên nhất trên bệnh nhân này?",
+          "options": [
+            "Thuốc tiêu sợi huyết đường tĩnh mạch.",
+            "Truyền albumin human 20% tiêm truyền.",
+            "Thuốc lợi tiểu quai tiêm tĩnh mạch.",
+            "Thuốc chống đông Heparin trọng lượng phân tử thấp."
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân có huyết áp 100/60 mmHg (chưa tụt huyết áp nặng hay sốc), xử trí ưu tiên ban đầu là kháng đông với Heparin trọng lượng phân tử thấp (LMWH). Tiêu sợi huyết chỉ dùng khi có rối loạn huyết động (sốc, tụt huyết áp)."
+        },
+        {
+          "q": "Tình huống nào ủng hộ mạnh nhất việc cân nhắc dự phòng chống đông nguyên phát ở hội chứng thận hư?",
+          "options": [
+            "Protein niệu dưới một gam mỗi ngày kèm giảm tiểu cầu nặng.",
+            "Tiểu máu đại thể đang hoạt động và tiền sử xuất huyết tiêu hóa.",
+            "Bệnh cầu thận màng, albumin rất thấp, nguy cơ huyết khối cao và nguy cơ chảy máu thấp.",
+            "Phù toàn thân nhưng albumin bình thường và không có yếu tố nguy cơ khác."
+          ],
+          "answer": 2,
+          "explain": "Dự phòng chống đông ở hội chứng thận hư phải dựa trên cân bằng nguy cơ huyết khối và chảy máu, không dựa vào một ngưỡng albumin duy nhất. Nguy cơ đặc biệt cao ở bệnh cầu thận màng, albumin giảm sâu, protein niệu nhiều, bất động hoặc có thêm yếu tố nguy cơ huyết khối, chống đông không phù hợp khi nguy cơ chảy máu cao."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 22 tuổi phù toàn thân khởi phát nhanh trong 1 tuần",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 22 tuổi, sinh viên.<br><br><b>Bệnh sử:</b> Vào viện vì phù toàn thân khởi phát nhanh trong 1 tuần. Bệnh nhân nhận thấy mi mắt sưng húp vào buổi sáng, tiểu bọt nhiều, tăng 5 kg. Không ho, không sốt, tiểu không buốt, không thấy máu trong nước tiểu.<br><br><b>Tiền sử:</b> Khỏe mạnh, không dùng thuốc nam hay NSAIDs.<br><br><b>Khám lâm sàng:</b> Huyết áp 110/70 mmHg, mạch 80 l/p, nhiệt độ 36.8°C. Phù trắng, mềm, ấn lõm rõ ở mặt, bụng và hai chân. Tim nhịp đều, phổi không ran.<br><br><b>Xét nghiệm:</b> Albumin máu 16 g/L, Cholesterol 10.2 mmol/L; Creatinine máu 70 µmol/L. Tổng phân tích nước tiểu: Protein 4+, Hồng cầu âm tính, Bạch cầu âm tính. Siêu âm bụng: Thận hai bên kích thước bình thường, dịch tự do ổ bụng lượng vừa.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguyên nhân nguyên phát có khả năng cao nhất?",
+          "options": [
+            "Xơ hóa cầu thận ổ cục bộ.",
+            "Bệnh cầu thận tổn thương tối thiểu.",
+            "Viêm cầu thận tăng sinh gian mạch.",
+            "Bệnh lý cầu thận màng."
+          ],
+          "answer": 1,
+          "explain": "Phù khởi phát nhanh, hội chứng thận hư rầm rộ (albumin giảm rất thấp 16g/L), cận tiểu sạch (không hồng cầu) ở người trẻ tuổi rất điển hình cho bệnh cầu thận tổn thương tối thiểu (MCD)."
+        },
+        {
+          "q": "Sự thay đổi cấu trúc nào giải thích cho cơ chế bệnh sinh ở ca này?",
+          "options": [
+            "Xơ hóa tổ chức kẽ ống thận.",
+            "Sự tăng sinh của tế bào gian mạch.",
+            "Lắng đọng phức hợp miễn dịch dưới nội mô.",
+            "Xóa chân các tế bào có chân (podocytes)."
+          ],
+          "answer": 3,
+          "explain": "Cơ chế bệnh sinh cốt lõi của MCD là sự mất màng điện tích âm và xóa chân các tế bào có chân (podocytes) trên kính hiển vi điện tử, không có lắng đọng phức hợp miễn dịch trên kính hiển vi miễn dịch huỳnh quang."
+        },
+        {
+          "q": "Bước tiếp theo phù hợp nhất trong quản lý bệnh nhân này?",
+          "options": [
+            "Làm thêm xét nghiệm sinh thiết tủy xương.",
+            "Bắt đầu điều trị thử bằng Corticosteroid.",
+            "Chỉ định sinh thiết thận ngay lập tức.",
+            "Chỉ dùng lợi tiểu và theo dõi lâm sàng."
+          ],
+          "answer": 2,
+          "explain": "Khác với trẻ em (có thể điều trị thử corticoid ngay do >90% là MCD), ở người trưởng thành có HCTH nguyên phát cần có chỉ định sinh thiết thận trước khi bắt đầu phác đồ ức chế miễn dịch đặc hiệu để xác định chính xác tổn thương."
+        },
+        {
+          "q": "Loại thuốc lợi tiểu nào được ưu tiên sử dụng để giảm phù?",
+          "options": [
+            "Lợi tiểu Thiazide.",
+            "Lợi tiểu quai.",
+            "Lợi tiểu kháng Aldosterone.",
+            "Lợi tiểu thẩm thấu."
+          ],
+          "answer": 1,
+          "explain": "Lợi tiểu quai (Furosemide) là lựa chọn đầu tay và hiệu quả nhất để kiểm soát tình trạng phù nặng trong hội chứng thận hư, thường phối hợp với hạn chế muối."
+        },
+        {
+          "q": "Nếu sau 16 tuần điều trị thuốc theo phác đồ chuẩn mà protein niệu không giảm, tình trạng này được gọi là?",
+          "options": [
+            "Hội chứng thận hư kháng corticoid.",
+            "Hội chứng thận hư phụ thuộc corticoid.",
+            "Hội chứng thận hư tái phát thường xuyên.",
+            "Hội chứng thận hư không đáp ứng hoàn toàn."
+          ],
+          "answer": 0,
+          "explain": "Kháng corticoid được định nghĩa là không lui bệnh (protein niệu vẫn ngưỡng thận hư) sau một đợt điều trị corticoid liều chuẩn đủ thời gian (thường là 16 tuần ở người lớn đối với MCD hoặc FSGS)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi béo phì có protein niệu phối hợp phù nhẹ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi, béo phì độ 2 (BMI 36 kg/m²).<br><br><b>Bệnh sử:</b> Đi khám tổng quát phát hiện phù nhẹ hai chi dưới. Không suy hô hấp.<br><br><b>Tiền sử:</b> Đái tháo đường type 2 mới phát hiện 1 năm, đường huyết kiểm soát tốt (HbA1c 6.2%).<br><br><b>Khám lâm sàng:</b> Huyết áp 140/90 mmHg, nhịp tim 78 l/p. Phù nhẹ trước xương chày hai bên. Khám đáy mắt không có bệnh lý võng mạc đái tháo đường.<br><br><b>Xét nghiệm:</b> Albumin máu 34 g/L, Creatinine máu 105 µmol/L. Protein niệu 24 giờ là 4.5 g, cặn nước tiểu không có hồng cầu. Siêu âm thận kích thước 12 cm hai bên, nhu mô đồng nhất.",
+      "questions": [
+        {
+          "q": "Định hướng chẩn đoán thể bệnh học phù hợp nhất với lâm sàng?",
+          "options": [
+            "Bệnh thận do đái tháo đường.",
+            "Xơ hóa cầu thận ổ cục bộ thứ phát.",
+            "Bệnh cầu thận tổn thương tối thiểu.",
+            "Viêm cầu thận màng tăng sinh."
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân béo phì nặng có protein niệu ngưỡng thận hư (>3.5g/24h) nhưng albumin máu không giảm thấp (34g/L) và không có phù rầm rộ là biểu hiện điển hình của xơ hóa cầu thận ổ cục bộ (FSGS) thứ phát do béo phì."
+        },
+        {
+          "q": "Đặc điểm sinh lý bệnh đặc trưng của tình trạng này là?",
+          "options": [
+            "Tăng áp lực lọc tại các cầu thận còn lại.",
+            "Giảm thể tích tuần hoàn hữu hiệu.",
+            "Viêm mạch máu hoại tử cầu thận.",
+            "Lắng đọng phức hợp miễn dịch lưu hành."
+          ],
+          "answer": 0,
+          "explain": "Cơ chế FSGS thứ phát do béo phì là sự bù trừ phì đại cấu trúc cầu thận, gây tăng áp lực lọc cầu thận (hyperfiltration) and dòng máu qua thận, dẫn đến tổn thương tế bào có chân theo thời gian."
+        },
+        {
+          "q": "Xét nghiệm nào giúp củng cố chẩn đoán phân biệt với bệnh thận đái tháo đường?",
+          "options": [
+            "Soi đáy mắt kiểm tra võng mạc.",
+            "Định lượng Peptide C trong máu.",
+            "Định lượng kháng thể kháng màng đáy.",
+            "Siêu âm Doppler động mạch thận."
+          ],
+          "answer": 0,
+          "explain": "Sự vắng mặt của bệnh lý võng mạc đái tháo đường (đã được khám bình thường) ở bệnh nhân có protein niệu nhiều gợi ý tổn thương thận không phải do đái tháo đường (thường bệnh võng mạc và bệnh thận đái tháo đường đi kèm nhau ở type 1, và phần lớn type 2)."
+        },
+        {
+          "q": "Phương án điều trị nào KHÔNG ĐƯỢC chỉ định trong quản lý lâu dài bệnh nhân này?",
+          "options": [
+            "Can thiệp giảm cân và thay đổi lối sống.",
+            "Thuốc chẹn thụ thể Angiotensin II.",
+            "Thuốc ức chế miễn dịch Corticosteroid.",
+            "Thuốc ức chế men chuyển Angiotensin."
+          ],
+          "answer": 2,
+          "explain": "FSGS thứ phát KHÔNG điều trị bằng thuốc ức chế miễn dịch (Corticosteroid). Điều trị chủ lực là giảm cân, kiểm soát huyết áp và giảm áp lực lọc bằng thuốc ức chế hệ RAAS (ACEI/ARB)."
+        },
+        {
+          "q": "Biến chứng tim mạch nào ít liên quan trực tiếp nhất đến cơ chế bệnh sinh ở bệnh nhân này?",
+          "options": [
+            "Phì đại thất trái do tăng huyết áp.",
+            "Bệnh lý mạch vành xơ vữa mạn tính.",
+            "Bệnh cơ tim hạn chế thâm nhiễm.",
+            "Nhồi máu cơ tim cấp tính."
+          ],
+          "answer": 2,
+          "explain": "Bệnh cơ tim hạn chế thâm nhiễm thường liên quan đến bệnh lý Amyloidosis, không nằm trong cơ chế bệnh sinh của béo phì, tăng huyết áp hay xơ vữa động mạch của FSGS thứ phát. Các biến chứng A, B, D đều có chung nguy cơ từ béo phì."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 68 tuổi tiền sử viêm khớp dạng thấp xuất hiện phù hai chân",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 68 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì mệt mỏi, phù hai chân và tê bì ngón tay ngón chân.<br><br><b>Tiền sử:</b> Viêm khớp dạng thấp 15 năm, điều trị không thường xuyên.<br><br><b>Khám lâm sàng:</b> Mạch 88 l/p, huyết áp 110/70 mmHg. Lưỡi to, có các ban xuất huyết quanh mi mắt hai bên. Tim nhịp đều, gan to dưới bờ sườn 3cm, mật độ chắc.<br><br><b>Xét nghiệm:</b> Creatinine máu 180 µmol/L, Albumin máu 25 g/L, Protein niệu 6.0 g/24 giờ. Siêu âm tim thấy thành tâm thất dày, chức năng tâm thu bình thường.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguyên nhân gây hội chứng thận hư có khả năng cao nhất?",
+          "options": [
+            "Viêm cầu thận lupus.",
+            "Bệnh lý Amyloidosis.",
+            "Xơ hóa cầu thận ổ cục bộ.",
+            "Bệnh cầu thận tổn thương tối thiểu."
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh hội chứng thận hư ở người lớn tuổi có bệnh viêm mạn tính (RA), kèm các dấu hiệu hệ thống đặc trưng như lưỡi to (macroglossia), ban xuất huyết quanh mắt, gan to, dày thành tâm thất là biểu hiện kinh điển của bệnh Amyloidosis (thường là thể AA trong RA hoặc AL nguyên phát)."
+        },
+        {
+          "q": "Tiêu chuẩn chẩn đoán mô bệnh học đặc trưng của bệnh lý này?",
+          "options": [
+            "Lắng đọng IgA lan tỏa vùng gian mạch cầu thận.",
+            "Bắt màu đỏ Congo và có ánh sáng xanh lục phân cực.",
+            "Cấu trúc gai màng đáy cầu thận nhuộm bạc.",
+            "Hình ảnh nốt Kimmelstiel-Wilson trên nhuộm PAS."
+          ],
+          "answer": 1,
+          "explain": "Tiêu chuẩn vàng chẩn đoán Amyloidosis trên sinh thiết là mô bắt màu thuốc nhuộm đỏ Congo (Congo red) and phát quang ánh sáng màu xanh lục (apple-green birefringence) dưới kính hiển vi phân cực."
+        },
+        {
+          "q": "Xét nghiệm cận lâm sàng không xâm lấn nào giúp chẩn đoán phân biệt thể bệnh?",
+          "options": [
+            "Sinh thiết mỡ thành bụng dưới da.",
+            "Đo vận tốc dẫn truyền thần kinh cơ.",
+            "Điện di protein huyết thanh và nước tiểu.",
+            "Định lượng yếu tố dạng thấp RF."
+          ],
+          "answer": 2,
+          "explain": "Điện di protein huyết thanh và nước tiểu (kèm miễn dịch cố định) giúp phát hiện protein đơn dòng, phân biệt thể AL (do tăng sinh chuỗi nhẹ) và thể AA (thứ phát sau viêm mạn). Sinh thiết mỡ là xét nghiệm xâm lấn."
+        },
+        {
+          "q": "Đặc điểm lâm sàng nào gợi ý tổn thương ngoài thận của bệnh cảnh này?",
+          "options": [
+            "Nốt tophi ở các khớp nhỏ ngón tay.",
+            "Ban cánh bướm ở vùng mặt.",
+            "Ban xuất huyết quanh mi mắt.",
+            "Khớp ngón tay biến dạng kiểu cổ cò."
+          ],
+          "answer": 2,
+          "explain": "Ban xuất huyết quanh mi mắt (Raccoon eyes) and lưỡi to là các dấu hiệu lâm sàng rất đặc hiệu, gợi ý thâm nhiễm Amyloid ngoài thận tại các mô mềm và mao mạch mỏng manh."
+        },
+        {
+          "q": "Nguyên tắc xử trí phù trên bệnh nhân này có điểm gì cần đặc biệt lưu ý?",
+          "options": [
+            "Thận trọng với lợi tiểu do nguy cơ tụt huyết áp.",
+            "Cần bù ngay dịch tinh thể đường tĩnh mạch.",
+            "Chỉ định chọc hút dịch màng ngoài tim cấp.",
+            "Sử dụng corticosteroid liều cao để giảm phù."
+          ],
+          "answer": 0,
+          "explain": "Trong Amyloidosis, thâm nhiễm cơ tim gây bệnh cơ tim hạn chế, tâm thất rất cứng khó đổ đầy. Việc dùng lợi tiểu mạnh để làm giảm thể tích tuần hoàn tĩnh mạch trở về, dẫn đến giảm cung lượng tim trầm trọng và tụt huyết áp. Cần dùng lợi tiểu rất thận trọng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 28 tuổi xuất hiện đau bụng lan tỏa và tiêu chảy",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 28 tuổi, tiền sử hoàn toàn khỏe mạnh.<br><br><b>Bệnh sử:</b> Vào cấp cứu vì sốt cao, đau bụng lan tỏa và tiêu chảy 3 kali/ngày.<br><br><b>Tiền sử:</b> Cách đây 1 tháng, bệnh nhân được chẩn đoán hội chứng thận hư, đang dùng Prednisolone 60 mg/ngày.<br><br><b>Khám lâm sàng:</b> Ý thức lơ mơ nhẹ, nhiệt độ 39°C, mạch 110 l/p, huyết áp 90/60 mmHg. Khám bụng: bụng trướng, gõ đục vùng thấp, ấn đau toàn bụng, phản ứng dội (Blumberg) dương tính. Phù toàn thân rõ.<br><br><b>Xét nghiệm:</b> Bạch cầu máu 18 G/L (Neutrophil 85%), CRP 120 mg/L. Albumin máu 18 g/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán cấp cứu nghĩ đến nhiều nhất ở bệnh nhân này?",
+          "options": [
+            "Thủng tạng rỗng viêm phúc mạc.",
+            "Cơn kịch phát suy thượng thận cấp.",
+            "Viêm tụy cấp thể hoại tử xuất huyết.",
+            "Viêm phúc mạc tiên phát tự phát."
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân có hội chứng thận hư nặng đang dùng corticoid liều cao, xuất hiện báng bụng, sốt, đau bụng phản ứng dội là bệnh cảnh điển hình của viêm phúc mạc tiên phát (Spontaneous Bacterial Peritonitis - SBP), biến chứng nhiễm trùng đặc trưng."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh khiến bệnh nhân hội chứng thận hư dễ mắc biến chứng này?",
+          "options": [
+            "Lắng đọng phức hợp miễn dịch tại ruột.",
+            "Giảm tưới máu niêm mạc đường tiêu hóa.",
+            "Mất yếu tố bổ thể B qua nước tiểu.",
+            "Sự gia tăng nồng độ cholesterol máu."
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân HCTH mất nhiều protein qua nước tiểu, trong đó có yếu tố bổ thể B (Factor B - opsonin hóa vi khuẩn có vỏ) và IgG, dẫn đến giảm nghiêm trọng khả năng thực bào các vi khuẩn có vỏ bọc như Phế cầu (S. pneumoniae)."
+        },
+        {
+          "q": "Thăm dò nào cần được thực hiện khẩn cấp để định hướng điều trị?",
+          "options": [
+            "Chọc hút dịch ổ bụng làm xét nghiệm.",
+            "Chụp cắt lớp vi tính ổ bụng có cản quang.",
+            "X-quang bụng đứng không chuẩn bị.",
+            "Nội soi dạ dày tá tràng bằng ống mềm."
+          ],
+          "answer": 0,
+          "explain": "Chọc hút dịch ổ bụng (paracentesis) làm xét nghiệm tế bào (bạch cầu đa nhân trung tính > 250/mm3) và cấy vi khuẩn là tiêu chuẩn vàng phải làm ngay để chẩn đoán xác định SBP."
+        },
+        {
+          "q": "Xử trí kháng sinh theo kinh nghiệm đường tĩnh mạch nào là phù hợp nhất?",
+          "options": [
+            "Macrolide đường truyền tĩnh mạch.",
+            "Cephalosporin thế hệ 3 như Cefotaxime.",
+            "Kháng sinh nhóm Aminoglycoside.",
+            "Metronidazole kết hợp Clindamycin."
+          ],
+          "answer": 1,
+          "explain": "Viêm phúc mạc tiên phát ở HCTH thường do Phế cầu hoặc E. coli. Cephalosporin thế hệ 3 đường tĩnh mạch là lựa chọn đầu tay theo kinh nghiệm an toàn và hiệu quả."
+        },
+        {
+          "q": "Nhóm cơ chế nào giải thích đầy đủ nhất nguy cơ nhiễm trùng tăng ở hội chứng thận hư đang dùng corticoid liều cao?",
+          "options": [
+            "Chỉ do thiếu kẽm, không liên quan mất protein hoặc thuốc điều trị.",
+            "Tăng cholesterol máu, tăng albumin và tăng hoạt tính đại thực bào.",
+            "Tăng bổ thể huyết thanh và giảm tính thấm niêm mạc đường ruột.",
+            "Mất IgG và yếu tố bổ thể, phù thành ruột và ức chế miễn dịch do corticoid."
+          ],
+          "answer": 3,
+          "explain": "Người bệnh hội chứng thận hư mất IgG và các protein bổ thể qua nước tiểu, có phù niêm mạc làm suy yếu hàng rào và đồng thời bị ức chế miễn dịch do glucocorticoid. Các cơ chế phối hợp này làm tăng nguy cơ nhiễm vi khuẩn có vỏ và nhiễm trùng nặng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 24 tuổi xuất hiện nước tiểu đỏ sẫm như nước rửa thịt",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 24 tuổi.<br><br><b>Bệnh sử:</b> Hôm nay thấy nước tiểu đỏ sẫm như nước rửa thịt, phù nhẹ mi mắt và cẳng chân.<br><br><b>Tiền sử:</b> Cách đây 3 ngày, bệnh nhân có viêm họng, sốt nhẹ, tự mua thuốc uống giảm sốt. Trước đó hoàn toàn khỏe mạnh.<br><br><b>Khám lâm sàng:</b> Huyết áp 145/95 mmHg, phù nhẹ hai chi dưới.<br><br><b>Xét nghiệm:</b> Creatinine máu 90 µmol/L, Albumin máu 31 g/L. Tổng phân tích nước tiểu: Protein 2.5 g/24 giờ, Hồng cầu 3+, Bạch cầu 1+. Soi cận nước tiểu thấy hồng cầu biến dạng và trụ hồng cầu.",
+      "questions": [
+        {
+          "q": "Định hướng chẩn đoán bệnh lý cầu thận phù hợp nhất?",
+          "options": [
+            "Viêm cầu thận cấp sau nhiễm liên cầu.",
+            "Bệnh lý cầu thận IgA.",
+            "Hội chứng thận hư nguyên phát.",
+            "Bệnh cầu thận tổn thương tối thiểu."
+          ],
+          "answer": 1,
+          "explain": "Tiểu máu đại thể (hồng cầu biến dạng, trụ hồng cầu) xuất hiện đồng thời hoặc rất sát (1-3 ngày) với đợt nhiễm trùng hô hấp trên (viêm họng) ở người trẻ (synpharyngitic hematuria) là đặc điểm lưu sàng kinh điển của Bệnh thận IgA. Khác với hậu nhiễm liên cầu thường có khoảng nghỉ 1-3 tuần."
+        },
+        {
+          "q": "Đặc điểm cơ chế bệnh sinh đặc trưng của bệnh lý này?",
+          "options": [
+            "Tổng hợp IgA1 khiếm khuyết galactose ở bản lề.",
+            "Hoạt hóa bổ thể theo con đường nhánh thay thế.",
+            "Lắng đọng phức hợp miễn dịch IgA dưới nội mô.",
+            "Kháng thể kháng màng đáy cầu thận tuần hoàn."
+          ],
+          "answer": 0,
+          "explain": "Cơ chế bệnh sinh cốt lõi của bệnh thận IgA là sự sản xuất quá mức các phân tử IgA1 bị thiếu hụt galactose ở vùng bản lề (galactose-deficient IgA1), tạo thành phức hợp miễn dịch lắng đọng tại vùng gian mạch cầu thận."
+        },
+        {
+          "q": "Xét nghiệm nào giúp chẩn đoán phân biệt với viêm cầu thận sau nhiễm liên cầu?",
+          "options": [
+            "Định lượng kháng thể kháng nhân ANA.",
+            "Nuôi cấy dịch tỵ hầu tìm vi khuẩn.",
+            "Siêu âm hình thái học hệ tiết niệu.",
+            "Nồng độ bổ thể C3 trong huyết thanh."
+          ],
+          "answer": 3,
+          "explain": "Trong viêm cầu thận cấp sau nhiễm liên cầu, nồng độ bổ thể C3 máu thường giảm rõ rệt và phục hồi sau 6-8 tuần. Ngược lại, trong bệnh thận IgA, nồng độ C3 và C4 huyết thanh hầu như luôn bình thường."
+        },
+        {
+          "q": "Can thiệp y khoa nào là nền tảng trong quản lý bảo tồn lâu dài?",
+          "options": [
+            "Thuốc ức chế hệ renin-angiotensin.",
+            "Kháng sinh dự phòng Penicillin kéo dài.",
+            "Lọc máu chu kỳ qua đường tĩnh mạch.",
+            "Cắt amidan dự phòng tái phát."
+          ],
+          "answer": 0,
+          "explain": "Điều trị nền tảng bảo tồn cho bệnh thận IgA có protein niệu là tối ưu hóa việc phong tỏa hệ RAAS bằng thuốc ức chế men chuyển (ACEI) hoặc chẹn thụ thể (ARB) để giảm áp lực lọc và giảm protein niệu."
+        },
+        {
+          "q": "Dấu hiệu lâm sàng nào chỉ điểm tiên lượng suy giảm chức năng thận mạn tính cao nhất?",
+          "options": [
+            "Mức độ tăng nhẹ men gan huyết thanh.",
+            "Protein niệu dai dẳng trên 1 g/ngày.",
+            "Tần suất các đợt tiểu máu đại thể lặp lại.",
+            "Tuổi phát bệnh ở giai đoạn thanh thiếu niên."
+          ],
+          "answer": 1,
+          "explain": "Protein niệu là yếu tố nguy cơ độc lập mạnh nhất cho sự tiến triển tới bệnh thận mạn giai đoạn cuối. Protein niệu dai dẳng >1g/ngày dù đã tối ưu RAAS là chỉ định xem xét thêm ức chế miễn dịch. Tiểu máu đại thể nhìn đáng sợ nhưng ít liên quan đến tiên lượng xấu mạn tính."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi bỏ thuốc điều trị ngoại trú xuất hiện phù to cổ trướng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì mệt mỏi, chán ăn, phù toàn thân kèm theo tiểu ít dần.<br><br><b>Tiền sử:</b> Có chẩn đoán hội chứng thận hư do bệnh cầu thận tổn thương tối thiểu đang điều trị ngoại trú nhưng bỏ thuốc 2 tuần nay.<br><br><b>Khám lâm sàng:</b> Huyết áp 100/60 mmHg, mạch 105 l/p. Phù to, cổ trướng lượng nhiều. Không ran ở phổi.<br><br><b>Xét nghiệm:</b> Ure máu 25 mmol/L, Creatinine máu tăng từ 75 µmol/L (cách đây 2 tuần) lên 280 µmol/L. Albumin máu 15 g/L. Điện giải đồ máu bình thường. Nước tiểu: Na+ niệu 8 mmol/L, phân số bài xuất natri (FeNa) < 1%.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguyên nhân gây tổn thương thận cấp phù hợp nhất?",
+          "options": [
+            "Tổn thương thận cấp sau thận.",
+            "Hoại tử ống thận cấp do thiếu máu.",
+            "Viêm mô kẽ thận dị ứng do thuốc.",
+            "Tổn thương thận cấp trước thận."
+          ],
+          "answer": 3,
+          "explain": "Tình trạng suy thận cấp (Creatinine tăng nhanh) trên nền bệnh nhân phù to, huyết áp thấp, nhịp tim nhanh, Na+ niệu thấp (<20) and FeNa < 1% là các dấu hiệu đặc trưng của tổn thương thận cấp trước thận (prerenal AKI) do giảm tưới máu."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh dẫn đến tình trạng suy giảm chức năng thận này?",
+          "options": [
+            "Giảm thể tích tuần hoàn hữu hiệu động mạch.",
+            "Tắc nghẽn ống thận do cấu trúc trụ sáp.",
+            "Nhiễm độc trực tiếp biểu mô ống thận.",
+            "Phản ứng quá mẫn qua trung gian tế bào."
+          ],
+          "answer": 0,
+          "explain": "Albumin máu quá thấp (15g/L) gây giảm trầm trọng áp lực keo huyết tương, nước thoát ra khoảng kẽ (phù to, cổ trướng) dẫn đến giảm thể tích tuần hoàn hữu hiệu (effective circulating volume), làm giảm tưới máu thận gây AKI trước thận."
+        },
+        {
+          "q": "Thăm dò đầu tay để loại trừ các nguyên nhân khác gây tăng creatinine đột ngột?",
+          "options": [
+            "Chụp cắt lớp vi tính bụng có thuốc.",
+            "Sinh thiết thận qua da bằng kim.",
+            "Chụp cộng hưởng từ hệ niệu.",
+            "Siêu âm bụng hệ tiết niệu."
+          ],
+          "answer": 3,
+          "explain": "Siêu âm hệ tiết niệu là thăm dò đầu tay, an toàn, không xâm lấn, bắt buộc phải làm ở mọi bệnh nhân AKI để loại trừ nguyên nhân sau thận (tắc nghẽn niệu quản, ứ nước bể thận)."
+        },
+        {
+          "q": "Can thiệp y khoa ưu tiên nhất trong xử trí tình trạng cấp tính này?",
+          "options": [
+            "Tiêm tĩnh mạch thuốc lợi tiểu quai.",
+            "Bắt đầu lọc máu ngắt quãng cấp cứu.",
+            "Truyền tĩnh mạch dung dịch NaCl 0.9%.",
+            "Truyền tĩnh mạch dung dịch Albumin."
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân có AKI trước thận do giảm thể tích nội mạch và hạ albumin máu nặng. Truyền Albumin tĩnh mạch giúp kéo nước từ khoảng kẽ vào lòng mạch, khôi phục thể tích tuần hoàn hữu hiệu, sau đó mới dùng lợi tiểu để tránh quá tải."
+        },
+        {
+          "q": "Nếu sau khi xử trí ban đầu đúng hướng, bệnh nhân vẫn vô niệu và FeNa tăng > 2%, chẩn đoán nào được nghĩ tới?",
+          "options": [
+            "Huyết khối tĩnh mạch thận.",
+            "Đợt cấp viêm cầu thận mạn.",
+            "Hoại tử ống thận cấp tính.",
+            "Tắc nghẽn đường tiểu dưới."
+          ],
+          "answer": 2,
+          "explain": "Nếu AKI trước thận kéo dài hoặc không đáp ứng với bù dịch/albumin, thiếu máu cục bộ thận sẽ chuyển thành tổn thương thực thể là Hoại tử ống thận cấp (ATN). Dấu hiệu đặc trưng là chuyển từ thiếu niệu giữ muối (FeNa <1%) sang mất khả năng cô đặc, rò rỉ natri (FeNa > 2%)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 30 tuổi kết quả sinh thiết thận xác định viêm cầu thận Lupus Class V",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 30 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì ban đỏ cánh bướm ở mặt và phù hai chi dưới tăng dần.<br><br><b>Tiền sử:</b> Mắc Lupus ban đỏ hệ thống (SLE) 3 năm.<br><br><b>Khám lâm sàng:</b> Huyết áp 140/90 mmHg, nhịp tim 85 l/p. Phù trắng mềm ấn lõm hai cẳng chân, tràn dịch màng phổi phải lượng ít.<br><br><b>Xét nghiệm:</b> Albumin máu 24 g/L, Creatinine máu 85 µmol/L. Protein niệu 5.5 g/24 giờ, hồng cầu niệu 2+. Kháng thể ANA (+), Anti-dsDNA (+), C3 và C4 huyết thanh giảm rõ rệt. Kết quả sinh thiết thận trả về: Viêm cầu thận Lupus phân loại Class V (Class 5).",
+      "questions": [
+        {
+          "q": "Tên gọi giải phẫu bệnh học tương ứng với viêm cầu thận Lupus Class V là?",
+          "options": [
+            "Viêm cầu thận Lupus màng.",
+            "Viêm cầu thận Lupus xơ hóa.",
+            "Viêm cầu thận Lupus ổ cục bộ.",
+            "Viêm cầu thận Lupus gian mạch."
+          ],
+          "answer": 0,
+          "explain": "Theo phân phân loại ISN/RPS của Viêm cầu thận Lupus, Class V (5) được định nghĩa là Viêm cầu thận Lupus màng (Membranous lupus nephritis), thường biểu hiện bằng hội chứng thận hư rầm rộ."
+        },
+        {
+          "q": "Vị trí lắng đọng phức hợp miễn dịch chủ yếu trong thể bệnh này là ở đâu?",
+          "options": [
+            "Dưới lớp tế bào nội mô mao mạch.",
+            "Bên trong tế bào chất của podocyte.",
+            "Trong khoảng kẽ của tổ chức thận.",
+            "Dưới lớp tế bào biểu mô màng đáy."
+          ],
+          "answer": 3,
+          "explain": "Sinh lý bệnh của Lupus Class V là sự lắng đọng phức hợp miễn dịch lan tỏa ở khoảng dưới biểu mô (subepithelial space) của màng đáy cầu thận, tương tự như bệnh thận màng nguyên phát."
+        },
+        {
+          "q": "Xét nghiệm nào phản ánh mức độ hoạt động của bệnh Lupus trên bệnh nhân này?",
+          "options": [
+            "Nồng độ Cholesterol huyết thanh.",
+            "Định lượng kháng thể Anti-dsDNA.",
+            "Mức độ protein trong nước tiểu.",
+            "Nồng độ Albumin trong máu."
+          ],
+          "answer": 1,
+          "explain": "Mức độ giảm bổ thể (C3, C4) and sự gia tăng nồng độ kháng thể Anti-dsDNA có sự tương quan chặt chẽ với độ hoạt động miễn dịch của bệnh Lupus hệ thống và đợt bùng phát viêm cầu thận."
+        },
+        {
+          "q": "Phác đồ điều trị tấn công theo hướng dẫn hiện hành thường bao gồm Corticosteroid kết hợp với thuốc nào?",
+          "options": [
+            "Mycophenolate mofetil (MMF).",
+            "Thuốc kháng đông đường uống.",
+            "Thuốc kháng sốt rét tổng hợp.",
+            "Thuốc kháng sinh phổ rộng."
+          ],
+          "answer": 0,
+          "explain": "Dựa trên guideline KDIGO 2024, phác đồ điều trị cảm ứng (tấn công) cho viêm cầu thận Lupus (Class III, IV, V có kết hợp) ưu tiên sử dụng Corticosteroid kết hợp với Mycophenolate mofetil (MMF) hoặc Cyclophosphamide tĩnh mạch do hiệu quả bảo vệ thận và tỷ lệ lui bệnh cao."
+        },
+        {
+          "q": "Yếu tố nào trên kết quả sinh thiết chỉ điểm bệnh đã chuyển sang mạn tính không hồi phục?",
+          "options": [
+            "Xơ hóa cầu thận và teo ống thận.",
+            "Tổn thương cấu trúc tế bào có chân.",
+            "Lắng đọng dày đặc phức hợp miễn dịch.",
+            "Tế bào viêm thâm nhiễm kẽ thận."
+          ],
+          "answer": 0,
+          "explain": "Mức độ mạn tính (Chronicity index) trên sinh thiết thận được đánh giá bằng tình trạng xơ cứng cầu thận (glomerulosclerosis), teo ống thận (tubular atrophy) và xơ hóa mô kẽ. Đây là những tổn thương sẹo vĩnh viễn không đảo ngược được bằng thuốc ức chế miễn dịch."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi đái tháo đường biến chứng thận mạn tính",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Bệnh sử:</b> Vào viện khám định kỳ. Bệnh nhân than phiền tiểu nhiều về đêm, phù nhẹ mắt cá chân.<br><br><b>Tiền sử:</b> Tiền sử đái tháo đường type 2 đã 20 năm, tăng huyết áp 10 năm. Đang dùng Metformin, Amlodipine.<br><br><b>Khám lâm sàng:</b> Huyết áp 150/90 mmHg, nhịp tim 75 l/p. Khám mắt có bệnh lý võng mạc đái tháo đường không tăng sinh.<br><br><b>Xét nghiệm:</b> Creatinine máu 130 µmol/L (eGFR 45 mL/min/1.73m²), Albumin máu 30 g/L. Tỷ số Albumin/Creatinine niệu (UACR) là 1500 mg/g. Không có hồng cầu niệu.",
+      "questions": [
+        {
+          "q": "Vấn đề lâm sàng chính về thận đang hiện diện trên bệnh nhân này là?",
+          "options": [
+            "Tổn thương thận cấp trước thận.",
+            "Viêm cầu thận tiến triển nhanh.",
+            "Viêm mô kẽ thận mạn tính.",
+            "Bệnh thận mạn do đái tháo đường."
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân có tiền sử T2DM lâu năm, có biến chứng võng mạc, suy giảm eGFR mạn và albumin niệu lượng nhiều (UACR 1500mg/g) điển hình của Bệnh thận đái tháo đường (Diabetic Kidney Disease - DKD)."
+        },
+        {
+          "q": "Đặc điểm vi thể ban đầu của cơ chế bệnh sinh ở bệnh lý này là?",
+          "options": [
+            "Lắng đọng tinh thể acid uric mô kẽ.",
+            "Xóa chân tế bào podocyte cấp tính.",
+            "Dày màng đáy cầu thận lan tỏa.",
+            "Tăng sinh ngoại mao mạch hình liềm."
+          ],
+          "answer": 2,
+          "explain": "Quá trình bệnh sinh của bệnh thận đái tháo đường bắt đầu bằng sự dày lên của màng đáy cầu thận (GBM thickening) and phì đại gian mạch, sau đó tiến triển thành các nốt xơ hóa (Kimmelstiel-Wilson)."
+        },
+        {
+          "q": "Theo hướng dẫn, xét nghiệm tầm soát biến chứng thận nào nên được làm hàng năm ở bệnh nhân đái tháo đường type 2?",
+          "options": [
+            "Sinh thiết thận định kỳ.",
+            "Tỷ số Albumin/Creatinine niệu (UACR).",
+            "Siêu âm Doppler động mạch thận.",
+            "Chụp MRI hệ niệu có cản từ."
+          ],
+          "answer": 1,
+          "explain": "KDIGO và ADA khuyến cáo tầm soát bệnh thận đái tháo đường hàng năm bằng xét nghiệm tỷ số Albumin/Creatinine niệu (UACR) từ một mẫu nước tiểu bất kỳ, kết hợp với tính eGFR máu."
+        },
+        {
+          "q": "Điều chỉnh thuốc nào là phù hợp nhất để bảo vệ thận cho bệnh nhân này?",
+          "options": [
+            "Bắt đầu dùng Corticosteroid liều thấp.",
+            "Dừng Metformin và chuyển sang Insulin.",
+            "Tăng liều lượng thuốc Amlodipine tối đa.",
+            "Thêm thuốc ức chế men chuyển hoặc chẹn thụ thể."
+          ],
+          "answer": 3,
+          "explain": "Để bảo vệ thận và giảm albumin niệu, bệnh nhân cần kiểm soát huyết áp <130/80 bằng thuốc phong tỏa hệ RAAS (ACEI hoặc ARB) như điều trị nền tảng hạng nhất. Amlodipine không làm giảm protein niệu hiệu quả."
+        },
+        {
+          "q": "Đặc điểm nào sau đây nếu xuất hiện sẽ là chỉ định xem xét sinh thiết thận để tìm nguyên nhân khác ngoài đái tháo đường?",
+          "options": [
+            "Mức độ protein niệu tăng dần theo thời gian.",
+            "Bệnh lý võng mạc đái tháo đường tiến triển.",
+            "Xuất hiện tiểu máu đại thể kèm trụ hồng cầu.",
+            "Kích thước thận teo nhỏ trên siêu âm."
+          ],
+          "answer": 2,
+          "explain": "Bệnh thận đái tháo đường thường có căn tiểu sạch (không hồng cầu). Nếu xuất hiện tiểu máu đại thể, hồng cầu biến dạng hoặc trụ hồng cầu (cặn tiểu hoạt động) hay protein niệu tăng quá đột ngột, phải nghi ngờ viêm cầu thận lồng ghép (như IgA) and cần chỉ định sinh thiết thận."
+        }
+      ]
+    }
+  ]
+}
