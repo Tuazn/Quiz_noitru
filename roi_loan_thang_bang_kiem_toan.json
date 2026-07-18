@@ -1,0 +1,1230 @@
+{
+  "name": "Rối loạn thăng bằng kiềm toan",
+  "description": "Bộ case lâm sàng rối loạn thăng bằng kiềm toan: toan chuyển hóa tăng/không tăng AG, toan hô hấp, kiềm chuyển hóa, kiềm hô hấp, rối loạn hỗn hợp - DKA, COPD, ngộ độc, sốc nhiễm khuẩn, tiêu chảy, cường Aldosterone, hạ Kali/Calci máu, ngừng tuần hoàn, suy thận",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Cấp cứu",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 22 tuổi đái tháo đường type 1 lơ mơ mệt mỏi buồn nôn",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 22 tuổi, sinh viên, vào viện vì mệt mỏi, buồn nôn và đau bụng. Cách đây 3 ngày, bệnh nhân bị sốt, ho, đau họng, tự mua thuốc uống không rõ loại. Một ngày nay, bệnh nhân cảm thấy rất mệt, buồn nôn và nôn nhiều, đau bụng vùng thượng vị, thở nhanh và sâu.<br><br><b>Tiền sử:</b> Đái tháo đường type 1 được chẩn đoán cách đây 5 năm, đang tiêm insulin nhưng gần đây thường xuyên bỏ mũi tiêm do lịch học bận rộn.<br><br><b>Khám lâm sàng:</b> Bệnh nhân lơ mơ, da niêm mạc khô, hơi thở có mùi ceton (mùi táo chín). Mạch 125 lần/phút, huyết áp 90/60 mmHg, nhiệt độ 37.5°C, nhịp thở 30 lần/phút, sâu (kiểu Kussmaul), SpO₂ 98% khí trời. Bụng ấn đau nhẹ vùng thượng vị, không có phản ứng thành bụng.<br><br><b>Xét nghiệm:</b> Glucose máu mao mạch HI (>33.3 mmol/L), Na⁺ 128 mmol/L, K⁺ 5.8 mmol/L, Cl⁻ 90 mmol/L. Khí máu động mạch: pH 7.10, PaCO₂ 18 mmHg, HCO₃⁻ 5 mmol/L. Ceton niệu dương tính mạnh (+++).",
+      "questions": [
+        {
+          "q": "Rối loạn thăng bằng kiềm toan chính ở bệnh nhân này là gì?",
+          "options": [
+            "Toan chuyển hóa tăng khoảng trống anion",
+            "Kiềm hô hấp",
+            "Toan hô hấp mất bù",
+            "Toan chuyển hóa không tăng khoảng trống anion"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có pH < 7.35 và HCO₃⁻ thấp (5 mmol/L), chẩn đoán là toan chuyển hóa. Khoảng trống anion (AG) = 128 - (90 + 5) = 33 mmol/L, cao hơn mức bình thường (8-12 mmol/L), do đó đây là toan chuyển hóa tăng khoảng trống anion."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính gây ra tình trạng toan chuyển hóa ở bệnh nhân này là gì?",
+          "options": [
+            "Tích tụ acid lactic do giảm tưới máu mô",
+            "Tăng sản xuất các thể ceton (acetoacetate, β-hydroxybutyrate) do thiếu insulin",
+            "Mất bicarbonat qua đường tiêu hóa do nôn nhiều",
+            "Giảm thải acid qua thận do tổn thương thận cấp"
+          ],
+          "answer": 1,
+          "explain": "Thiếu hụt insulin tuyệt đối làm cơ thể không sử dụng được glucose, phải chuyển sang ly giải mỡ để tạo năng lượng. Quá trình này tạo ra sản phẩm phụ là các thể ceton, vốn là các acid hữu cơ, gây tích tụ trong máu và dẫn đến toan chuyển hóa."
+        },
+        {
+          "q": "Khoảng trống anion (Anion Gap) của bệnh nhân này là bao nhiêu? (Công thức: AG = Na⁺ - (Cl⁻ + HCO₃⁻))",
+          "options": [
+            "13 mmol/L",
+            "20 mmol/L",
+            "33 mmol/L",
+            "25 mmol/L"
+          ],
+          "answer": 2,
+          "explain": "Áp dụng công thức tính Khoảng trống anion: AG = Na⁺ - (Cl⁻ + HCO₃⁻) = 128 - (90 + 5) = 33 mmol/L. Khoảng trống anion tăng cao do sự tích tụ của các anion không đo được là các thể ceton."
+        },
+        {
+          "q": "Đáp ứng bù trừ của hệ hô hấp (thở nhanh, sâu) nhằm mục đích gì?",
+          "options": [
+            "Tăng thải O₂ để giảm độc tính",
+            "Giảm công hô hấp để tiết kiệm năng lượng",
+            "Tăng hấp thu O₂ để cải thiện chuyển hóa ái khí",
+            "Tăng thải CO₂ để làm giảm tình trạng toan máu"
+          ],
+          "answer": 3,
+          "explain": "Khi có tình trạng toan chuyển hóa, các thụ thể hóa học trung ương và ngoại vi sẽ bị kích thích bởi nồng độ H⁺ tăng cao, kích thích trung tâm hô hấp gây ra đáp ứng thở nhanh và sâu (nhịp thở Kussmaul) để tăng thải trừ CO₂, làm giảm PaCO₂ và đưa pH máu trở về gần mức bình thường."
+        },
+        {
+          "q": "PaCO₂ dự kiến (kỳ vọng) ở bệnh nhân này theo công thức Winter (PaCO₂ = 1.5 x HCO₃⁻ + 8 ± 2) là bao nhiêu?",
+          "options": [
+            "15.5 ± 2 mmHg",
+            "20.5 ± 2 mmHg",
+            "25.5 ± 2 mmHg",
+            "30.5 ± 2 mmHg"
+          ],
+          "answer": 0,
+          "explain": "PaCO₂ dự kiến = 1.5 x [5] + 8 ± 2 = 15.5 ± 2 mmHg. PaCO₂ thực tế của bệnh nhân là 18 mmHg, nằm trong khoảng dự kiến (13.5 - 17.5), cho thấy có tình trạng toan chuyển hóa đơn thuần với bù trừ thích hợp từ hệ hô hấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi COPD khó thở tăng lên khạc đờm vàng đục",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 72 tuổi, tiền sử bệnh phổi tắc nghẽn mạn tính (COPD) giai đoạn III theo GOLD, đang điều trị duy trì với Tiotropium/Olodaterol, vào viện vì ho khạc đờm và khó thở tăng lên. Ba ngày nay, bệnh nhân thấy khó thở nhiều hơn, phải nghỉ thường xuyên, kèm ho tăng, đờm chuyển từ màu trắng trong sang màu vàng đục. Bệnh nhân không sốt, không đau ngực.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh táo, môi hơi tím, co kéo cơ hô hấp phụ. Mạch 98 lần/phút, huyết áp 130/80 mmHg, nhịp thở 26 lần/phút, SpO₂ 87% khí trời. Phổi nghe thông khí giảm, có nhiều ran ngáy, ran rít.<br><br><b>Xét nghiệm:</b> Khí máu động mạch (khí trời): pH 7.32, PaCO₂ 60 mmHg, PaO₂ 55 mmHg, HCO₃⁻ 30 mmol/L. Một tháng trước, khí máu của bệnh nhân tương đối ổn định với pH 7.37, PaCO₂ 50 mmHg, HCO₃⁻ 29 mmol/L.",
+      "questions": [
+        {
+          "q": "Tình trạng rối loạn thăng bằng kiềm toan hiện tại của bệnh nhân là gì?",
+          "options": [
+            "Toan hô hấp cấp đơn thuần",
+            "Toan hô hấp cấp trên nền toan hô hấp mạn",
+            "Toan hô hấp mạn còn bù",
+            "Toan chuyển hóa và toan hô hấp hỗn hợp"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có pH < 7.35 và PaCO₂ > 45 mmHg, xác định là toan hô hấp. Nền HCO₃⁻ đã cao sẵn (29 mmol/L) do toan hô hấp mạn tính. Hiện tại PaCO₂ tăng vọt lên 60 mmHg trong khi HCO₃⁻ chỉ tăng nhẹ lên 30 mmol/L, và pH giảm xuống 7.32, cho thấy một đợt mất bù cấp trên nền bệnh mạn tính."
+        },
+        {
+          "q": "Cơ chế chính gây tăng PaCO₂ trong đợt cấp COPD là gì?",
+          "options": [
+            "Tăng sản xuất CO₂ do nhiễm trùng",
+            "Shunt trong phổi do đông đặc phế nang",
+            "Giảm thông khí phế nang do tắc nghẽn đường thở và mệt cơ hô hấp",
+            "Rối loạn khuếch tán khí qua màng phế nang-mao mạch"
+          ],
+          "answer": 2,
+          "explain": "Trong đợt cấp COPD, tình trạng viêm và co thắt phế quản tăng lên, gây tắc nghẽn luồng khí thở ra nghiêm trọng. Đồng thời, công thở tăng cao dẫn đến mệt mỏi các cơ hô hấp. Cả hai yếu tố này làm giảm hiệu quả thông khí, đặc biệt là giảm thải trừ CO₂, gây giảm thông khí phế nang và tăng PaCO₂."
+        },
+        {
+          "q": "Dựa vào sự thay đổi của pH và PaCO₂, mức độ cấp tính của tình trạng toan hô hấp này là bao nhiêu? (Quy tắc: trong toan hô hấp cấp, pH giảm 0.08 cho mỗi 10 mmHg PaCO₂ tăng)",
+          "options": [
+            "Hoàn toàn cấp tính",
+            "Hoàn toàn mạn tính",
+            "Chủ yếu là mạn tính với một ít yếu tố cấp",
+            "Chủ yếu là cấp tính trên nền mạn tính"
+          ],
+          "answer": 3,
+          "explain": "PaCO₂ nền là 50 mmHg, hiện tại tăng lên 60 mmHg (tăng 10 mmHg). Nếu cấp tính hoàn toàn, pH dự kiến giảm 0.08 so với mức nền (7.37), tức còn 7.29. Nếu mạn tính hoàn toàn, pH chỉ giảm khoảng 0.03, tức còn 7.34. pH thực tế là 7.32, nằm giữa hai giá trị này, cho thấy đây là một quá trình cấp trên nền mạn."
+        },
+        {
+          "q": "Mục tiêu chính của liệu pháp oxy ở bệnh nhân này là gì?",
+          "options": [
+            "Duy trì SpO₂ trong khoảng 88-92% để tránh ức chế hô hấp",
+            "Đưa SpO₂ lên 100% càng nhanh càng tốt",
+            "Giảm PaCO₂ về mức bình thường (40 mmHg)",
+            "Tăng pH máu lên trên 7.45"
+          ],
+          "answer": 0,
+          "explain": "Ở bệnh nhân COPD mạn tính có tăng CO₂, trung tâm hô hấp đã quen với nồng độ CO₂ cao và trở nên kém nhạy cảm. Động lực chính để thở lúc này là thiếu oxy. Cho thở oxy liều quá cao có thể làm mất đi kích thích này, gây giảm thông khí, làm CO₂ ứ đọng nặng hơn. Do đó, mục tiêu là duy trì SpO₂ ở mức an toàn (88-92%)."
+        },
+        {
+          "q": "Việc thận tăng tái hấp thu HCO₃⁻ trong bối cảnh toan hô hấp mạn có mục đích gì?",
+          "options": [
+            "Tăng thải acid qua nước tiểu",
+            "Bù trừ cho tình trạng tăng PaCO₂, giúp duy trì pH máu trong giới hạn gần bình thường",
+            "Giảm gánh nặng cho hệ hô hấp",
+            "Kích thích trung tâm hô hấp để tăng thông khí"
+          ],
+          "answer": 1,
+          "explain": "Đây là cơ chế bù trừ của thận đối với tình trạng ứ CO₂ mạn tính. Để duy trì sự ổn định của phương trình Henderson-Hasselbalch, khi PaCO₂ tăng mạn tính, thận sẽ tăng cường tái hấp thu và sản xuất mới HCO₃⁻ để giữ cho tỷ lệ HCO₃⁻/PaCO₂, và do đó pH máu, ở mức gần bình thường nhất có thể."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 65 tuổi yếu cơ mệt mỏi sau viêm dạ dày nôn nhiều",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 65 tuổi vào viện vì yếu cơ và mệt mỏi. Khoảng 1 tuần nay, bệnh nhân bị viêm dạ dày, ăn uống kém và nôn nhiều sau khi ăn.<br><br><b>Tiền sử:</b> Tăng huyết áp và suy tim, đang điều trị với Furosemide 40mg/ngày và Lisinopril 10mg/ngày.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, GCS 15. Da khô, véo da mất chậm. Mạch 95 lần/phút, huyết áp 100/70 mmHg ở tư thế nằm, tụt xuống 85/60 mmHg khi đứng. Bệnh nhân không phù, không khó thở.<br><br><b>Xét nghiệm:</b> Na⁺ 138 mmol/L, K⁺ 2.5 mmol/L, Cl⁻ 85 mmol/L. Khí máu động mạch: pH 7.52, PaCO₂ 48 mmHg, HCO₃⁻ 38 mmol/L. Nồng độ Cl⁻ trong nước tiểu rất thấp (< 10 mmol/L).",
+      "questions": [
+        {
+          "q": "Rối loạn kiềm toan của bệnh nhân là gì?",
+          "options": [
+            "Kiềm hô hấp đơn thuần",
+            "Toan hô hấp có bù trừ chuyển hóa",
+            "Kiềm chuyển hóa",
+            "Rối loạn hỗn hợp"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có pH > 7.45, HCO₃⁻ > 26 mmol/L, xác định là kiềm chuyển hóa. PaCO₂ tăng lên 48 mmHg là đáp ứng bù trừ của hệ hô hấp (giảm thông khí để giữ lại CO₂)."
+        },
+        {
+          "q": "Cơ chế nào sau đây KHÔNG góp phần gây ra và duy trì tình trạng kiềm chuyển hóa ở bệnh nhân này?",
+          "options": [
+            "Mất ion H⁺ và Cl⁻ qua dịch nôn",
+            "Tăng thải K⁺ và H⁺ qua nước tiểu do Furosemide",
+            "Tăng tái hấp thu HCO₃⁻ ở ống lượn gần do giảm thể tích tuần hoàn",
+            "Tăng thông khí phế nang gây thải trừ CO₂"
+          ],
+          "answer": 3,
+          "explain": "Tăng thông khí phế nang gây thải trừ CO₂, làm giảm PaCO₂, dẫn đến kiềm hô hấp chứ không phải kiềm chuyển hóa. Các cơ chế khác đều đúng: nôn làm mất trực tiếp H⁺, Furosemide gây mất K⁺ và H⁺, và giảm thể tích kích thích hệ RAA, tăng tái hấp thu Na⁺ và HCO₃⁻ tại ống thận, làm tình trạng kiềm nặng thêm."
+        },
+        {
+          "q": "Tình trạng kiềm chuyển hóa của bệnh nhân được phân loại là gì dựa trên nồng độ Cl⁻ niệu?",
+          "options": [
+            "Kiềm chuyển hóa đáp ứng với muối (Saline-responsive)",
+            "Kiềm chuyển hóa kháng với muối (Saline-resistant)",
+            "Kiềm chuyển hóa do thừa mineralocorticoid",
+            "Kiềm chuyển hóa do dùng kiềm ngoại sinh"
+          ],
+          "answer": 0,
+          "explain": "Kiềm chuyển hóa được chia làm 2 nhóm dựa trên nồng độ Cl⁻ niệu. Nhóm đáp ứng với muối (Cl⁻ niệu < 20 mmol/L) thường do giảm thể tích (nôn, lợi tiểu). Nhóm kháng muối (Cl⁻ niệu > 20 mmol/L) thường do thừa mineralocorticoid. Bệnh nhân này có Cl⁻ niệu thấp, do đó thuộc nhóm đáp ứng với muối."
+        },
+        {
+          "q": "Can thiệp ban đầu quan trọng nhất để điều chỉnh rối loạn kiềm toan cho bệnh nhân này là gì?",
+          "options": [
+            "Truyền dung dịch Natri Bicarbonat ưu trương",
+            "Bù dịch bằng NaCl 0.9% và bù Kali",
+            "Cho bệnh nhân thở lại vào một túi giấy",
+            "Dùng thuốc ức chế bơm proton liều cao"
+          ],
+          "answer": 1,
+          "explain": "Nền tảng của rối loạn ở bệnh nhân này là mất dịch và mất clorua. Do đó, việc bù dịch bằng dung dịch NaCl 0.9% là quan trọng nhất để phá vỡ vòng xoắn bệnh lý duy trì kiềm chuyển hóa. Bù kali cũng rất cần thiết để điều chỉnh hạ kali máu."
+        },
+        {
+          "q": "Tại sao hạ kali máu lại góp phần duy trì kiềm chuyển hóa?",
+          "options": [
+            "Hạ kali máu ức chế trung tâm hô hấp",
+            "Hạ kali máu làm tăng sản xuất bicarbonat ở gan",
+            "Trong tình trạng hạ kali máu, thận tăng cường thải H⁺ để giữ lại K⁺, làm nước tiểu bị axit hóa nghịch lý",
+            "Hạ kali máu làm giảm khoảng trống anion"
+          ],
+          "answer": 2,
+          "explain": "Trong tình trạng thiếu hụt Kali, các tế bào ống thận sẽ cố gắng giữ lại Kali bằng cách tăng cường bài tiết ion H⁺ thông qua bơm H⁺-K⁺-ATPase. Điều này dẫn đến hiện tượng nghịch lý là nước tiểu bị toan hóa trong khi máu lại bị kiềm, làm cho tình trạng kiềm chuyển hóa toàn thân càng nặng thêm nếu không bù đủ Kali."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi lơ mơ sốt cao đái tháo đường type 2",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 60 tuổi, tiền sử đái tháo đường type 2, được đưa vào khoa cấp cứu trong tình trạng lơ mơ, sốt cao. Hai ngày nay, bệnh nhân sốt cao liên tục 39-40°C, rét run, mệt lả. Sáng nay, người nhà thấy bệnh nhân lơ mơ, gọi hỏi đáp ứng chậm.<br><br><b>Khám lâm sàng:</b> Bệnh nhân lơ mơ (GCS 12 điểm), da nóng, môi khô. Mạch 130 lần/phút, nhỏ, khó bắt; huyết áp 80/50 mmHg; nhịp thở 32 lần/phút; nhiệt độ 39.5°C. Da nổi vân tím ở hai chi dưới.<br><br><b>Xét nghiệm:</b> Na⁺ 140 mmol/L, K⁺ 4.5 mmol/L, Cl⁻ 100 mmol/L. Khí máu động mạch: pH 7.18, PaCO₂ 25 mmHg, HCO₃⁻ 10 mmol/L. Lactate máu 8.5 mmol/L. Creatinin 180 µmol/L.",
+      "questions": [
+        {
+          "q": "Rối loạn kiềm toan của bệnh nhân là gì?",
+          "options": [
+            "Toan hô hấp cấp",
+            "Kiềm chuyển hóa có toan hô hấp đi kèm",
+            "Toan chuyển hóa không tăng khoảng trống anion",
+            "Toan chuyển hóa tăng khoảng trống anion"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân có pH 7.18, HCO₃⁻ 10 mmol/L, xác định là toan chuyển hóa. Khoảng trống anion = 140 - (100 + 10) = 30 mmol/L, tăng cao. Do đó, đây là toan chuyển hóa tăng khoảng trống anion."
+        },
+        {
+          "q": "Nguyên nhân chính gây ra toan chuyển hóa ở bệnh nhân này là gì?",
+          "options": [
+            "Tích tụ acid lactic do giảm tưới máu mô",
+            "Tích tụ thể ceton do đái tháo đường",
+            "Mất bicarbonat qua thận",
+            "Tích tụ acid uric"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có biểu hiện của sốc nhiễm khuẩn (sốt, lơ mơ, tụt huyết áp, mạch nhanh). Trong tình trạng sốc, sự tưới máu đến các mô bị suy giảm nghiêm trọng. Các tế bào không nhận đủ oxy sẽ phải chuyển sang con đường chuyển hóa yếm khí để tạo năng lượng, sản sinh acid lactic, gây ra nhiễm toan lactic."
+        },
+        {
+          "q": "Khoảng trống anion (Anion Gap) của bệnh nhân này là bao nhiêu?",
+          "options": [
+            "10 mmol/L",
+            "30 mmol/L",
+            "20 mmol/L",
+            "40 mmol/L"
+          ],
+          "answer": 1,
+          "explain": "Áp dụng công thức tính Khoảng trống anion: AG = Na⁺ - (Cl⁻ + HCO₃⁻) = 140 - (100 + 10) = 30 mmol/L."
+        },
+        {
+          "q": "Tình trạng huyết động của bệnh nhân (mạch nhanh, huyết áp tụt, da nổi vân tím) được gọi là gì và nó liên quan đến cơ chế gây toan như thế nào?",
+          "options": [
+            "Sốc phản vệ, gây giải phóng lactate từ tế bào mast",
+            "Sốc tim, gây tăng sản xuất lactate từ cơ tim",
+            "Sốc nhiễm khuẩn, gây giảm tưới máu và chuyển hóa yếm khí",
+            "Sốc giảm thể tích, gây cô đặc máu và toan hóa"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh sốt cao, lơ mơ, tụt huyết áp, mạch nhanh, da nổi vân tím là điển hình của sốc nhiễm khuẩn. Sốc dẫn đến giảm tưới máu toàn bộ, các mô không được cung cấp đủ oxy. Để tồn tại, tế bào buộc phải chuyển từ chuyển hóa ái khí sang yếm khí, với sản phẩm cuối cùng là acid lactic, gây toan chuyển hóa."
+        },
+        {
+          "q": "Mục tiêu chính trong điều trị ban đầu để cải thiện tình trạng toan lactic này là gì?",
+          "options": [
+            "Truyền Natri Bicarbonat ngay lập tức để nâng pH",
+            "Bắt đầu lọc máu để loại bỏ lactate",
+            "Dùng insulin để tăng chuyển hóa lactate",
+            "Hồi sức tuần hoàn (bù dịch, dùng vận mạch) để cải thiện tưới máu mô"
+          ],
+          "answer": 3,
+          "explain": "Toan lactic trong sốc nhiễm khuẩn là hậu quả của việc giảm tưới máu. Do đó, điều trị căn nguyên là quan trọng nhất. Hồi sức tích cực bằng bù dịch và thuốc vận mạch để nâng huyết áp, tái lập tuần hoàn và cải thiện cung cấp oxy cho mô sẽ giúp tế bào quay trở lại chuyển hóa ái khí. Việc dùng Bicarbonat chỉ cân nhắc khi toan máu rất nặng (pH < 7.1-7.15)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 20 tuổi khó thở tê bì quanh miệng sau kỳ thi căng thẳng",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 20 tuổi, được đưa vào cấp cứu vì cảm giác khó thở, tê bì quanh miệng và co quắp các đầu ngón tay. Bệnh nhân vừa trải qua một kỳ thi căng thẳng. Bệnh nhân than \"không thể hít sâu được\".<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh táo, hốt hoảng, lo lắng. Khám thực thể không phát hiện bất thường ở tim, phổi. Mạch 110 lần/phút, huyết áp 120/80 mmHg, nhịp thở 32 lần/phút, nông. Dấu Chvostek và Trousseau dương tính. SpO₂ 100% khí trời.<br><br><b>Xét nghiệm:</b> Khí máu động mạch: pH 7.50, PaCO₂ 28 mmHg, PaO₂ 105 mmHg, HCO₃⁻ 22 mmol/L. Ion canxi toàn phần bình thường, nhưng canxi ion hóa (iCa²⁺) giảm nhẹ.",
+      "questions": [
+        {
+          "q": "Rối loạn kiềm toan nguyên phát của bệnh nhân là gì?",
+          "options": [
+            "Kiềm hô hấp",
+            "Toan hô hấp",
+            "Kiềm chuyển hóa",
+            "Toan chuyển hóa"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có pH > 7.45 và PaCO₂ < 35 mmHg, là tiêu chuẩn chẩn đoán của kiềm hô hấp. HCO₃⁻ gần như bình thường, cho thấy đây là một quá trình cấp tính."
+        },
+        {
+          "q": "Nguyên nhân gây ra tình trạng kiềm hô hấp ở bệnh nhân này là gì?",
+          "options": [
+            "Tổn thương thực thể tại trung tâm hô hấp",
+            "Tăng thông khí do lo âu, hốt hoảng (hội chứng hyperventilation)",
+            "Tình trạng thiếu oxy máu tiềm ẩn",
+            "Tác dụng phụ của thuốc an thần"
+          ],
+          "answer": 1,
+          "explain": "Bối cảnh bệnh nhân trẻ tuổi, vừa trải qua stress, có biểu hiện lo âu và thở rất nhanh mà không có bệnh lý thực thể nào khác là điển hình cho hội chứng tăng thông khí do tâm lý."
+        },
+        {
+          "q": "Cơ chế nào giải thích các triệu chứng tê bì và co quắp (tetany) ở bệnh nhân này?",
+          "options": [
+            "Giảm tưới máu não do co mạch",
+            "Hạ kali máu cấp tính",
+            "Tăng gắn Canxi vào Albumin, làm giảm nồng độ Canxi ion hóa trong máu",
+            "Tăng phân ly acid lactic ở đầu chi"
+          ],
+          "answer": 2,
+          "explain": "Trong môi trường kiềm, Albumin sẽ tăng khả năng gắn kết với các ion dương, đặc biệt là Canxi. Điều này làm giảm nồng độ Canxi dạng tự do, ion hóa (iCa²⁺) trong máu, mặc dù Canxi toàn phần không đổi. Chính sự sụt giảm Canxi ion hóa này gây ra tăng kích thích thần kinh-cơ, biểu hiện bằng tê bì và co quắp."
+        },
+        {
+          "q": "Đáp ứng bù trừ của thận đối với tình trạng kiềm hô hấp cấp thường diễn ra như thế nào?",
+          "options": [
+            "Tăng tái hấp thu HCO₃⁻",
+            "Giảm bài tiết H⁺",
+            "Tăng sản xuất amoniac",
+            "Thận gần như chưa kịp bù trừ, nồng độ HCO₃⁻ còn trong giới hạn bình thường"
+          ],
+          "answer": 3,
+          "explain": "Bù trừ của thận là một quá trình chậm, cần từ 24-48 giờ để thấy rõ. Trong kiềm hô hấp cấp (vài phút đến vài giờ), thận chưa kịp tăng thải HCO₃⁻. Do đó, nồng độ HCO₃⁻ trong máu gần như không thay đổi. HCO₃⁻ của bệnh nhân là 22 mmol/L, hoàn toàn phù hợp với một rối loạn cấp tính."
+        },
+        {
+          "q": "Xử trí ban đầu phù hợp nhất cho bệnh nhân này là gì?",
+          "options": [
+            "An thần, trấn an bệnh nhân, hướng dẫn thở chậm lại (ví dụ: thở vào túi giấy)",
+            "Truyền dung dịch Natri bicarbonat",
+            "Tiêm Calci gluconat tĩnh mạch",
+            "Cho thở oxy liều cao"
+          ],
+          "answer": 0,
+          "explain": "Nguyên nhân của vấn đề là do tâm lý, dẫn đến thở nhanh. Do đó, việc quan trọng nhất là trấn an bệnh nhân để giảm lo lắng. Hướng dẫn bệnh nhân thở chậm lại hoặc thở vào một chiếc túi giấy sẽ giúp tăng PaCO₂ trong máu, từ đó điều chỉnh pH trở về bình thường và giải quyết các triệu chứng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi mệt mỏi chán ăn buồn nôn tiền sử đái tháo đường tăng huyết áp lâu năm",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 65 tuổi, tiền sử đái tháo đường type 2 và tăng huyết áp 15 năm, đến khám vì mệt mỏi, chán ăn và buồn nôn. Bệnh nhân tuân thủ điều trị không đều.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, GCS 15. Da xanh, niêm mạc nhợt. Không phù, phổi không ran. Mạch 80 lần/phút, huyết áp 160/95 mmHg, nhịp thở 22 lần/phút, khá sâu.<br><br><b>Xét nghiệm:</b> Na⁺ 135 mmol/L, K⁺ 5.6 mmol/L, Cl⁻ 95 mmol/L. Creatinin 450 µmol/L, Ure 35 mmol/L. Khí máu động mạch: pH 7.28, PaCO₂ 30 mmHg, HCO₃⁻ 15 mmol/L. Hemoglobin 90 g/L.",
+      "questions": [
+        {
+          "q": "Rối loạn kiềm toan chính của bệnh nhân là gì?",
+          "options": [
+            "Toan hô hấp mạn tính",
+            "Toan chuyển hóa tăng khoảng trống anion",
+            "Toan chuyển hóa không tăng khoảng trống anion",
+            "Kiềm chuyển hóa và toan hô hấp hỗn hợp"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có pH 7.28 (<7.35) và HCO₃⁻ 15 mmol/L (<22), đây là toan chuyển hóa. Khoảng trống anion = 135 - (95 + 15) = 25 mmol/L, tăng cao. Do đó đây là toan chuyển hóa tăng khoảng trống anion."
+        },
+        {
+          "q": "Cơ chế chính gây ra toan chuyển hóa ở bệnh nhân suy thận mạn là gì?",
+          "options": [
+            "Mất bicarbonat qua đường tiêu hóa",
+            "Tăng sản xuất acid lactic",
+            "Giảm khả năng bài tiết lượng acid hằng định (fixed acids) và tái tạo bicarbonat của thận",
+            "Tăng tái hấp thu Cl⁻ tại ống thận"
+          ],
+          "answer": 2,
+          "explain": "Thận đóng vai trò quan trọng trong cân bằng nội môi acid-base bằng cách bài tiết lượng acid tạo ra hàng ngày và tái tạo lại bicarbonat. Trong suy thận mạn, khi mức lọc cầu thận giảm, cả hai chức năng này đều bị suy giảm, dẫn đến tích tụ các acid như sulfat, phosphat, urat... gây toan chuyển hóa."
+        },
+        {
+          "q": "Khoảng trống anion (Anion Gap) của bệnh nhân này là bao nhiêu?",
+          "options": [
+            "15 mmol/L",
+            "20 mmol/L",
+            "30 mmol/L",
+            "25 mmol/L"
+          ],
+          "answer": 3,
+          "explain": "Áp dụng công thức tính Khoảng trống anion: AG = Na⁺ - (Cl⁻ + HCO₃⁻) = 135 - (95 + 15) = 25 mmol/L."
+        },
+        {
+          "q": "Tình trạng thở nhanh sâu của bệnh nhân là biểu hiện của cơ chế nào?",
+          "options": [
+            "Bù trừ của hệ hô hấp cho tình trạng toan chuyển hóa",
+            "Suy tim sung huyết",
+            "Thiếu máu mạn tính",
+            "Tác động trực tiếp của độc tố ure huyết lên trung tâm hô hấp"
+          ],
+          "answer": 0,
+          "explain": "Tương tự như trong nhiễm toan ceton, toan chuyển hóa do suy thận cũng kích thích trung tâm hô hấp. Phổi sẽ cố gắng bù trừ bằng cách tăng thông khí (thở nhanh và sâu hơn) để thải trừ CO₂, làm giảm PaCO₂ và giúp nâng pH máu lên."
+        },
+        {
+          "q": "Mục tiêu điều trị tình trạng toan chuyển hóa ở bệnh nhân suy thận mạn giai đoạn chưa lọc máu là gì?",
+          "options": [
+            "Nâng pH máu lên trên 7.5",
+            "Giữ nồng độ HCO₃⁻ huyết thanh ≥ 22 mmol/L bằng cách bổ sung kiềm đường uống",
+            "Giảm PaCO₂ xuống dưới 25 mmHg",
+            "Hạn chế protein trong chế độ ăn để giảm sản xuất acid"
+          ],
+          "answer": 1,
+          "explain": "Theo khuyến cáo của KDIGO, ở bệnh nhân suy thận mạn chưa lọc máu, điều trị toan chuyển hóa bằng cách bổ sung kiềm đường uống để duy trì nồng độ bicarbonat huyết thanh ≥ 22 mmol/L giúp làm chậm tiến triển của bệnh thận, cải thiện dinh dưỡng và chuyển hóa xương."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi ngừng tuần hoàn ngoại viện hôn mê sau hồi sức",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 68 tuổi, được cấp cứu vì ngừng tuần hoàn ngoại viện. Sau 15 phút hồi sức tim phổi (ép tim, bóp bóng), bệnh nhân có tim đập trở lại nhưng vẫn hôn mê sâu và phải đặt nội khí quản, thở máy.<br><br><b>Khám lâm sàng:</b> Bệnh nhân hôn mê, GCS 3T. Đồng tử hai bên giãn, phản xạ ánh sáng mất. Không có nhịp tự thở. Mạch 110 lần/phút, huyết áp 90/60 mmHg (đang dùng vận mạch Norepinephrine).<br><br><b>Xét nghiệm:</b> Khí máu động mạch được lấy ngay sau khi có tuần hoàn trở lại: pH 7.05, PaCO₂ 65 mmHg, PaO₂ 80 mmHg, HCO₃⁻ 14 mmol/L. Lactate máu 9.0 mmol/L.",
+      "questions": [
+        {
+          "q": "Rối loạn thăng bằng kiềm toan của bệnh nhân được mô tả là gì?",
+          "options": [
+            "Toan hô hấp đơn thuần, mất bù",
+            "Toan chuyển hóa đơn thuần, mất bù",
+            "Rối loạn hỗn hợp: toan chuyển hóa và toan hô hấp",
+            "Rối loạn ba thứ: toan chuyển hóa, toan hô hấp và kiềm chuyển hóa"
+          ],
+          "answer": 2,
+          "explain": "pH máu của bệnh nhân rất thấp (7.05). PaCO₂ tăng cao (65 mmHg) cho thấy có toan hô hấp. HCO₃⁻ giảm thấp (14 mmol/L) cho thấy có toan chuyển hóa. Sự hiện diện đồng thời của cả hai rối loạn này được gọi là rối loạn hỗn hợp."
+        },
+        {
+          "q": "Cơ chế chính gây ra thành phần toan chuyển hóa ở bệnh nhân này là gì?",
+          "options": [
+            "Suy thận cấp do thiếu máu",
+            "Mất bicarbonat trong quá trình hồi sức",
+            "Nhiễm toan ceton do stress",
+            "Nhiễm toan lactic nặng do ngừng tuần hoàn và thiếu oxy mô"
+          ],
+          "answer": 3,
+          "explain": "Trong thời gian ngừng tuần hoàn, việc cung cấp oxy cho các mô bị đình trệ hoàn toàn. Các tế bào trên toàn cơ thể phải chuyển sang chuyển hóa yếm khí, sản sinh ra một lượng acid lactic khổng lồ, gây ra toan chuyển hóa nặng."
+        },
+        {
+          "q": "Nguyên nhân gây ra thành phần toan hô hấp ở bệnh nhân này là gì?",
+          "options": [
+            "Giảm thông khí phế nang do ngừng thở và thông khí qua bóp bóng không hiệu quả",
+            "Bệnh phổi tắc nghẽn mạn tính có từ trước",
+            "Co thắt phế quản do phản vệ",
+            "Phù phổi cấp do tim"
+          ],
+          "answer": 0,
+          "explain": "Khi bệnh nhân ngừng thở, việc thải trừ CO₂ qua phổi cũng ngừng lại, gây ứ đọng CO₂ trong máu. Mặc dù đã được bóp bóng, thông khí này thường không đủ hiệu quả để thải hết lượng CO₂ được tạo ra và tích tụ, dẫn đến toan hô hấp."
+        },
+        {
+          "q": "Tại sao pH của bệnh nhân lại thấp một cách nghiêm trọng (7.05)?",
+          "options": [
+            "Hai rối loạn tự trung hòa nhau",
+            "Toan chuyển hóa và toan hô hấp cùng làm tăng H⁺ nên pH giảm rất sâu",
+            "Chỉ do thận chưa bù",
+            "Chỉ do hạ thân nhiệt"
+          ],
+          "answer": 1,
+          "explain": "Khi cả HCO₃⁻ giảm và PaCO₂ tăng, hai rối loạn cùng đẩy pH theo hướng toan nên mức toan máu nặng hơn nhiều so với một rối loạn đơn độc."
+        },
+        {
+          "q": "Can thiệp nào là quan trọng nhất để cải thiện thành phần toan hô hấp?",
+          "options": [
+            "Truyền Natri Bicarbonat",
+            "Lọc máu liên tục",
+            "Tối ưu hóa thông khí nhân tạo (tăng tần số thở, tăng thể tích khí lưu thông)",
+            "Dùng thuốc giãn phế quản"
+          ],
+          "answer": 2,
+          "explain": "Thành phần toan hô hấp là do ứ đọng CO₂. Can thiệp trực tiếp và hiệu quả nhất là cải thiện thông khí phế nang thông qua thở máy, bằng cách điều chỉnh tần số thở và thể tích khí lưu thông để tăng thải trừ CO₂."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi mệt lả tiêu chảy phân lỏng nhiều lần tiền sử Crohn",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 35 tuổi, vào viện vì mệt lả và đi ngoài phân lỏng nhiều lần. Đợt này bệnh tái phát khoảng 3 ngày với triệu chứng đau bụng và tiêu chảy nhiều (hơn 10 lần/ngày), phân toàn nước, không có máu. Bệnh nhân uống ít nước do chán ăn.<br><br><b>Tiền sử:</b> Bệnh Crohn.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, mệt. Da niêm mạc khô. Mạch 110 lần/phút, huyết áp 95/65 mmHg. Bụng mềm, đau nhẹ quanh rốn.<br><br><b>Xét nghiệm:</b> Na⁺ 142 mmol/L, K⁺ 3.0 mmol/L, Cl⁻ 118 mmol/L. Khí máu động mạch: pH 7.25, PaCO₂ 32 mmHg, HCO₃⁻ 14 mmol/L.",
+      "questions": [
+        {
+          "q": "Rối loạn kiềm toan của bệnh nhân là gì?",
+          "options": [
+            "Toan chuyển hóa tăng khoảng trống anion",
+            "Kiềm chuyển hóa hạ Clo máu",
+            "Toan hô hấp cấp",
+            "Toan chuyển hóa không tăng khoảng trống anion (toan chuyển hóa tăng Clo máu)"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân có pH 7.25, HCO₃⁻ 14 mmol/L, xác định là toan chuyển hóa. Khoảng trống anion = 142 - (118 + 14) = 10 mmol/L, nằm trong giới hạn bình thường. Do đó đây là toan chuyển hóa không tăng khoảng trống anion, hay còn gọi là toan chuyển hóa tăng Clo máu."
+        },
+        {
+          "q": "Cơ chế chính gây ra toan chuyển hóa ở bệnh nhân này là gì?",
+          "options": [
+            "Mất một lượng lớn Bicarbonat qua dịch tiêu chảy",
+            "Suy thận cấp gây ứ đọng acid",
+            "Tăng sản xuất acid lactic do giảm thể tích",
+            "Tăng dị hóa protein do bệnh viêm ruột"
+          ],
+          "answer": 0,
+          "explain": "Dịch tiết của ruột non và đại tràng rất giàu Bicarbonat. Khi bị tiêu chảy nặng, bệnh nhân sẽ mất một lượng lớn Bicarbonat theo phân ra ngoài, dẫn đến tình trạng toan chuyển hóa."
+        },
+        {
+          "q": "Khoảng trống anion (Anion Gap) của bệnh nhân này là bao nhiêu?",
+          "options": [
+            "15 mmol/L",
+            "10 mmol/L",
+            "20 mmol/L",
+            "25 mmol/L"
+          ],
+          "answer": 1,
+          "explain": "Áp dụng công thức tính Khoảng trống anion: AG = Na⁺ - (Cl⁻ + HCO₃⁻) = 142 - (118 + 14) = 10 mmol/L."
+        },
+        {
+          "q": "Tại sao nồng độ Clo trong máu của bệnh nhân lại tăng lên?",
+          "options": [
+            "Do bệnh nhân uống dung dịch bù điện giải có nhiều Clo",
+            "Do tình trạng cô đặc máu",
+            "Do thận tăng cường tái hấp thu Cl⁻ để bù lại cho lượng HCO₃⁻ đã mất, nhằm duy trì tính trung hòa về điện",
+            "Do ly giải tế bào ruột giải phóng Cl⁻ vào máu"
+          ],
+          "answer": 2,
+          "explain": "Trong cơ thể, tổng số cation phải bằng tổng số anion để đảm bảo tính trung hòa về điện. Khi cơ thể mất anion chính là HCO₃⁻, để bù lại sự thiếu hụt điện tích âm này, thận sẽ tăng cường tái hấp thu Cl⁻. Kết quả là HCO₃⁻ giảm và Cl⁻ tăng, trong khi khoảng trống anion vẫn bình thường."
+        },
+        {
+          "q": "Hướng xử trí chính cho bệnh nhân này là gì?",
+          "options": [
+            "Bắt đầu lọc máu",
+            "Dùng kháng sinh phổ rộng",
+            "Dùng thuốc cầm tiêu chảy",
+            "Bù dịch, điện giải và Bicarbonat"
+          ],
+          "answer": 3,
+          "explain": "Nguyên nhân gây rối loạn là do mất dịch, mất điện giải và mất bicarbonat. Do đó, điều trị nền tảng là bù lại những gì đã mất: bù dịch, bù kali và có thể cần bù Bicarbonat nếu tình trạng toan nặng, đồng thời điều trị bệnh nền (bệnh Crohn)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 28 tuổi thở nhanh lú lẫn sau uống Aspirin",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 28 tuổi, tiền sử trầm cảm, được đưa vào viện vì thở nhanh, lú lẫn. Người nhà tìm thấy một vỏ lọ Aspirin rỗng trong phòng bệnh nhân, ước tính đã uống khoảng 8-10 giờ trước.<br><br><b>Khám lâm sàng:</b> Bệnh nhân kích thích, vật vã, nói không liên quan. Da nóng, vã mồ hôi, bệnh nhân than ù tai. Mạch 120 lần/phút, nhiệt độ 38.8°C, nhịp thở 35 lần/phút, rất sâu.<br><br><b>Xét nghiệm:</b> Na⁺ 140 mmol/L, K⁺ 3.2 mmol/L, Cl⁻ 102 mmol/L. Khí máu động mạch: pH 7.42, PaCO₂ 20 mmHg, HCO₃⁻ 15 mmol/L.",
+      "questions": [
+        {
+          "q": "Đánh giá khí máu động mạch của bệnh nhân cho thấy tình trạng gì?",
+          "options": [
+            "Rối loạn hỗn hợp: kiềm hô hấp và toan chuyển hóa",
+            "Rối loạn đơn thuần: toan chuyển hóa",
+            "Rối loạn đơn thuần: kiềm hô hấp",
+            "Khí máu trong giới hạn bình thường"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có pH gần như bình thường (7.42), nhưng PaCO₂ rất thấp (20 mmHg, gây kiềm hô hấp) và HCO₃⁻ cũng rất thấp (15 mmol/L, gây toan chuyển hóa). Sự tồn tại đồng thời của hai rối loạn nguyên phát này đã kéo pH về gần mức bình thường. Đây là một rối loạn hỗn hợp kinh điển."
+        },
+        {
+          "q": "Cơ chế nào gây ra thành phần kiềm hô hấp trong ngộ độc Salicylate?",
+          "options": [
+            "Đau đớn và lo lắng",
+            "Kích thích trực tiếp trung tâm hô hấp ở hành não",
+            "Phản ứng bù trừ cho tình trạng toan chuyển hóa",
+            "Sốt cao làm tăng nhịp thở"
+          ],
+          "answer": 1,
+          "explain": "Salicylate (Aspirin) có tác dụng kích thích trực tiếp và mạnh mẽ lên trung tâm hô hấp ở hành não, độc lập với tình trạng pH máu, gây ra tăng thông khí và kiềm hô hấp. Đây thường là rối loạn xuất hiện sớm trong ngộ độc Salicylate."
+        },
+        {
+          "q": "Cơ chế nào gây ra thành phần toan chuyển hóa trong ngộ độc Salicylate?",
+          "options": [
+            "Gây ly giải cơ vân",
+            "Gây suy thận cấp",
+            "Ức chế chu trình Krebs và \"mở khớp\" quá trình phosphoryl oxy hóa",
+            "Tăng sản xuất thể ceton"
+          ],
+          "answer": 2,
+          "explain": "Ở liều độc, Salicylate can thiệp vào chuyển hóa năng lượng của tế bào tại ty thể, làm gián đoạn chu trình Krebs và quá trình phosphoryl hóa oxy hóa. Điều này buộc tế bào phải chuyển sang chuyển hóa yếm khí và tích tụ các sản phẩm acid, gây toan chuyển hóa tăng khoảng trống anion."
+        },
+        {
+          "q": "Dựa vào kết quả khí máu, rối loạn nào đang chiếm ưu thế?",
+          "options": [
+            "Khí máu bình thường",
+            "Toan chuyển hóa đơn thuần",
+            "Kiềm hô hấp đơn thuần",
+            "pH gần bình thường không có nghĩa hai rối loạn \"bù\" sinh lý cho nhau; đây vẫn là kiềm hô hấp và toan chuyển hóa nguyên phát phối hợp"
+          ],
+          "answer": 3,
+          "explain": "Trong rối loạn hỗn hợp, pH có thể gần 7.40 do hai tác động đối nghịch. Công thức Winter cho thấy PaCO₂ thấp hơn mức bù dự kiến, xác nhận kiềm hô hấp nguyên phát đi kèm toan chuyển hóa."
+        },
+        {
+          "q": "Để đánh giá mức độ bù trừ của toan chuyển hóa, ta dùng công thức Winter (PaCO₂ dự kiến = 1.5 x HCO₃⁻ + 8 ± 2). PaCO₂ thực tế (20 mmHg) so với PaCO₂ dự kiến là như thế nào?",
+          "options": [
+            "Thấp hơn dự kiến, cho thấy có một tình trạng kiềm hô hấp đi kèm",
+            "Bằng với dự kiến, cho thấy chỉ có toan chuyển hóa đơn thuần",
+            "Cao hơn dự kiến, cho thấy có một tình trạng toan hô hấp đi kèm",
+            "Không thể áp dụng công thức Winter trong trường hợp này"
+          ],
+          "answer": 0,
+          "explain": "PaCO₂ dự kiến nếu chỉ có toan chuyển hóa đơn thuần = 1.5 x 15 + 8 ± 2 = 30.5 ± 2 mmHg. PaCO₂ thực tế của bệnh nhân là 20 mmHg, thấp hơn đáng kể so với mức dự kiến. Điều này chứng tỏ ngoài việc bù trừ cho toan chuyển hóa, còn có một nguyên nhân khác gây tăng thông khí, đó chính là tình trạng kiềm hô hấp nguyên phát do Salicylate."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 45 tuổi yếu cơ tăng huyết áp khó kiểm soát",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 45 tuổi, đến khám vì yếu cơ và tăng huyết áp khó kiểm soát. Bệnh nhân được chẩn đoán tăng huyết áp 2 năm nay, đã dùng phối hợp 2 loại thuốc nhưng huyết áp vẫn thường xuyên ở mức 160/100 mmHg. Bệnh nhân không bị nôn, không dùng lợi tiểu, không phù.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, thể trạng trung bình. Mạch 80 lần/phút, huyết áp 165/105 mmHg. Tim đều, phổi trong. Sức cơ tứ chi giảm nhẹ (4/5).<br><br><b>Xét nghiệm:</b> Na⁺ 145 mmol/L, K⁺ 2.8 mmol/L, Cl⁻ 96 mmol/L. Khí máu động mạch: pH 7.49, PaCO₂ 45 mmHg, HCO₃⁻ 33 mmol/L. Nồng độ Aldosterone huyết tương tăng cao, hoạt độ Renin huyết tương bị ức chế.",
+      "questions": [
+        {
+          "q": "Bệnh nhân có bộ ba triệu chứng kinh điển nào?",
+          "options": [
+            "Tụt huyết áp, tăng kali máu, toan chuyển hóa",
+            "Tăng huyết áp, hạ kali máu, kiềm chuyển hóa",
+            "Tăng huyết áp, phù, protein niệu",
+            "Hạ huyết áp, hạ natri máu, da sạm đen"
+          ],
+          "answer": 1,
+          "explain": "Sự kết hợp của tăng huyết áp (thường kháng trị), hạ kali máu (do tăng thải qua thận) và kiềm chuyển hóa là bộ ba rất gợi ý đến tình trạng cường mineralocorticoid, mà Aldosterone là hormon chính."
+        },
+        {
+          "q": "Cơ chế nào giải thích tình trạng kiềm chuyển hóa ở bệnh nhân này?",
+          "options": [
+            "Aldosterone làm tăng sản xuất kiềm ở gan",
+            "Aldosterone gây tăng thông khí phế nang",
+            "Aldosterone kích thích bài tiết H⁺ và tái hấp thu HCO₃⁻ tại ống thận",
+            "Aldosterone gây mất dịch và cô đặc máu"
+          ],
+          "answer": 2,
+          "explain": "Aldosterone tác động lên tế bào chính và tế bào xen kẽ alpha ở ống lượn xa và ống góp, làm tăng hoạt động của bơm Na⁺-K⁺-ATPase (tái hấp thu Na⁺, thải K⁺) và bơm H⁺-ATPase (thải H⁺). Việc tăng thải H⁺ và tăng tái hấp thu Na⁺ (kéo theo HCO₃⁻) dẫn đến kiềm chuyển hóa."
+        },
+        {
+          "q": "Dựa trên kết quả Aldosterone và Renin, chẩn đoán có khả năng nhất là gì?",
+          "options": [
+            "Hẹp động mạch thận",
+            "Hội chứng Cushing",
+            "Cường Aldosterone thứ phát",
+            "Cường Aldosterone nguyên phát (Hội chứng Conn)"
+          ],
+          "answer": 3,
+          "explain": "Cường Aldosterone nguyên phát được đặc trưng bởi việc tuyến thượng thận tự chủ sản xuất Aldosterone quá mức. Nồng độ Aldosterone cao gây giữ muối, giữ nước, làm tăng huyết áp và ức chế ngược hệ Renin-Angiotensin, dẫn đến hoạt độ Renin huyết tương bị đè nén. Đây là đặc điểm chẩn đoán chính."
+        },
+        {
+          "q": "Tình trạng kiềm chuyển hóa của bệnh nhân này được phân loại là gì? (Gợi ý: bệnh nhân có tình trạng tăng thể tích tuần hoàn)",
+          "options": [
+            "Kiềm chuyển hóa kháng với muối (Saline-resistant)",
+            "Kiềm chuyển hóa đáp ứng với muối (Saline-responsive)",
+            "Kiềm chuyển hóa do dùng kiềm ngoại sinh",
+            "Kiềm chuyển hóa do co thắt"
+          ],
+          "answer": 0,
+          "explain": "Tình trạng này do thừa hormone, gây ra quá tải thể tích nhẹ. Việc bù muối (NaCl 0.9%) không những không cải thiện mà còn có thể làm nặng thêm tình trạng tăng huyết áp. Do đó, nó thuộc nhóm kiềm chuyển hóa kháng với muối, thường có Cl⁻ niệu > 20 mmol/L."
+        },
+        {
+          "q": "Thuốc điều trị tăng huyết áp nào là lựa chọn phù hợp nhất cho bệnh nhân này?",
+          "options": [
+            "Thuốc ức chế men chuyển (Lisinopril)",
+            "Thuốc lợi tiểu kháng Aldosterone (Spironolactone)",
+            "Thuốc chẹn kênh canxi (Amlodipine)",
+            "Thuốc chẹn beta (Metoprolol)"
+          ],
+          "answer": 1,
+          "explain": "Vì nguyên nhân gây bệnh là do tác dụng quá mức của Aldosterone, việc sử dụng thuốc đối kháng cạnh tranh với Aldosterone tại thụ thể của nó, như Spironolactone, là liệu pháp điều trị đặc hiệu. Thuốc này không chỉ giúp kiểm soát huyết áp mà còn điều chỉnh được tình trạng hạ kali máu và kiềm chuyển hóa."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 20 tuổi đái tháo đường type 1 lơ mơ bỏ tiêm insulin",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 20 tuổi, tiền sử đái tháo đường typ 1, vào viện vì lơ mơ. Gia đình cho biết bệnh nhân bỏ tiêm insulin 2 ngày nay.<br><br><b>Khám lâm sàng:</b> Ý thức lơ mơ, mạch 115 lần/phút, huyết áp 90/60 mmHg, nhịp thở 30 lần/phút thở sâu, nhiệt độ 37.2°C. Không có dấu thần kinh khu trú, không cứng gáy.<br><br><b>Xét nghiệm:</b> Khí máu động mạch: pH 7.15, PaCO₂ 22 mmHg, HCO₃ 8 mmol/L. Sinh hóa máu: Na 138 mmol/L, K 5.2 mmol/L, Cl 100 mmol/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán rối loạn kiềm toan nổi bật nhất ở bệnh nhân này là gì?",
+          "options": [
+            "Toan hô hấp cấp tính mất bù",
+            "Toan chuyển hóa khoảng trống anion bình thường",
+            "Toan chuyển hóa tăng khoảng trống anion",
+            "Kiềm hô hấp mạn tính bù trừ"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có pH = 7.15 (toan), HCO₃ = 8 (toan chuyển hóa). Khoảng trống anion (AG) = Na - (Cl + HCO₃) = 138 - (100 + 8) = 30 mmol/L (>12 mmol/L). Do đó đây là toan chuyển hóa tăng AG."
+        },
+        {
+          "q": "Cơ chế chủ yếu dẫn đến thay đổi nhịp thở (nhịp thở Kussmaul) ở bệnh nhân là gì?",
+          "options": [
+            "Bù trừ chuyển hóa cho tình trạng toan hô hấp",
+            "Tổn thương trực tiếp trung tâm hô hấp tủy não",
+            "Phản xạ do tăng áp lực nội sọ cấp tính",
+            "Bù trừ hô hấp cho tình trạng toan chuyển hóa"
+          ],
+          "answer": 3,
+          "explain": "Nhịp thở Kussmaul (nhanh, sâu) là cơ chế bù trừ của hệ hô hấp nhằm tăng đào thải CO2, làm giảm PaCO₂ (ở bệnh nhân này là 22 mmHg) để kéo pH máu về mức bình thường."
+        },
+        {
+          "q": "Xét nghiệm nào cần được ưu tiên thực hiện ngay để khẳng định nguyên nhân bệnh sinh?",
+          "options": [
+            "Định lượng ketone máu mao mạch",
+            "Định lượng lactate máu động mạch",
+            "Điện giải đồ nước tiểu 24 giờ",
+            "Định lượng nồng độ salicylate máu"
+          ],
+          "answer": 0,
+          "explain": "Bối cảnh đái tháo đường bỏ trị kèm toan chuyển hóa tăng AG rất điển hình của nhiễm toan ketone (DKA). Xét nghiệm ketone máu (hoặc niệu) giúp chẩn đoán xác định ngay lập tức."
+        },
+        {
+          "q": "Xử trí dung dịch đường tĩnh mạch ưu tiên ban đầu ở bệnh nhân này là gì?",
+          "options": [
+            "Truyền tĩnh mạch dung dịch NaHCO₃ 8.4%",
+            "Truyền tĩnh mạch dung dịch NaCl 0.9%",
+            "Bơm tiêm điện liên tục Insulin nhanh",
+            "Truyền tĩnh mạch dung dịch Glucose 5%"
+          ],
+          "answer": 1,
+          "explain": "Ưu tiên hàng đầu trong DKA là bù dịch tinh thể đẳng trương (NaCl 0.9%) để phục hồi thể tích tuần hoàn và tưới máu mô trước khi dùng insulin. Insulin bắt đầu dùng sau hoặc song song nhưng dịch là ưu tiên."
+        },
+        {
+          "q": "Biến chứng cấp tính nào đe dọa mạng sống sớm nhất nếu bù natri bicarbonate quá nhanh ở bệnh nhân này?",
+          "options": [
+            "Tràn khí màng phổi áp lực",
+            "Suy thận cấp trước thận",
+            "Hạ kali máu trầm trọng",
+            "Tăng natri máu mức độ nặng"
+          ],
+          "answer": 2,
+          "explain": "Bù NaHCO₃ nhanh đẩy K⁺ từ ngoại bào vào nội bào do thay đổi pH đột ngột, gây hạ kali máu cấp tính, dễ dẫn đến rối loạn nhịp tim tử vong."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi COPD khó thở lơ mơ khạc đờm đục",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 68 tuổi, tiền sử COPD 10 năm, hút thuốc 40 bao.năm. Vào viện vì khó thở tăng dần và khạc đờm đục.<br><br><b>Khám lâm sàng:</b> Lơ mơ, mạch 115 lần/phút, huyết áp 130/80 mmHg, nhịp thở 28 lần/phút, SpO₂ 85% khí trời. Phổi nhiều ran rít và ngáy, không có ran ẩm.<br><br><b>Xét nghiệm:</b> Khí máu động mạch: pH 7.25, PaCO₂ 70 mmHg, HCO₃ 30 mmol/L.",
+      "questions": [
+        {
+          "q": "Rối loạn thăng bằng kiềm toan trên bệnh nhân này là gì?",
+          "options": [
+            "Toan chuyển hóa kèm toan hô hấp",
+            "Toan hô hấp mạn tính đơn thuần",
+            "Kiềm chuyển hóa bù trừ toan hô hấp",
+            "Toan hô hấp cấp trên nền mạn tính"
+          ],
+          "answer": 3,
+          "explain": "pH = 7.25 (< 7.35) là toan máu. PaCO₂ tăng cao (70 mmHg) phù hợp toan hô hấp. HCO₃ = 30 mmol/L (tăng) cho thấy có bù trừ từ trước (mạn tính), nhưng pH vẫn thấp cho thấy đợt cấp mất bù trên nền mạn."
+        },
+        {
+          "q": "Đặc điểm sinh lý bệnh của quá trình bù trừ tại thận trong tình trạng này là gì?",
+          "options": [
+            "Tăng tái hấp thu bicarbonate ở ống thận",
+            "Giảm đào thải amoniac ở ống thận",
+            "Tăng đào thải natri qua nước tiểu",
+            "Giảm đào thải ion hydro qua thận"
+          ],
+          "answer": 0,
+          "explain": "Khi có ứ đọng CO2 (toan hô hấp), cơ thể bù trừ bằng cách thận tăng cường đào thải H+ và tăng tái hấp thu/sản xuất mới HCO₃- để kiềm hóa máu."
+        },
+        {
+          "q": "Thăm dò cận lâm sàng nào cần được thực hiện ban đầu để đánh giá nguyên nhân đợt cấp?",
+          "options": [
+            "Đo chức năng hô hấp toàn diện",
+            "Chụp X-quang ngực thẳng",
+            "Chụp cắt lớp vi tính lồng ngực",
+            "Siêu âm màng phổi hai bên"
+          ],
+          "answer": 1,
+          "explain": "X-quang ngực thẳng là xét nghiệm đầu tay để tìm các nguyên nhân gây đợt cấp COPD như viêm phổi, tràn khí màng phổi, hoặc loại trừ suy tim."
+        },
+        {
+          "q": "Biện pháp hỗ trợ hô hấp ưu tiên nhất ở thời điểm hiện tại là gì?",
+          "options": [
+            "Thở oxy qua mask có túi dự trữ",
+            "Đặt ống nội khí quản thở máy",
+            "Thở máy không xâm nhập (NIV)",
+            "Mở khí quản cấp cứu tại giường"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân đợt cấp COPD có toan hô hấp (pH 7.25 - 7.35) là chỉ định tuyệt đối của thở máy không xâm nhập (NIV). Nếu ý thức xấu hơn hoặc chống vật vã mới cân nhắc đặt nội khí quản."
+        },
+        {
+          "q": "Diễn biến bất thường nào dễ xảy ra nếu cho bệnh nhân thở oxy liều quá cao?",
+          "options": [
+            "Xẹp phổi thùy dưới diện rộng",
+            "Kiềm hô hấp cấp tính mất bù",
+            "Tràn khí màng phổi áp lực",
+            "Toan hô hấp tiến triển nặng lên"
+          ],
+          "answer": 3,
+          "explain": "Ở bệnh nhân COPD, trung tâm hô hấp hoạt động dựa vào sự giảm oxy máu (hypoxic drive). Thở oxy liều cao làm mất xung động kích thích này, gây ức chế hô hấp và tăng ứ đọng CO2 nặng hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi nghiện rượu lơ mơ nôn nhiều mờ mắt",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 45 tuổi, nghiện rượu mạn tính, được đưa vào viện trong tình trạng lơ mơ. Người nhà thấy bệnh nhân nôn nhiều và than mờ mắt trước khi ý thức xấu đi.<br><br><b>Khám lâm sàng:</b> Mạch 105 lần/phút, huyết áp 140/90 mmHg, nhịp thở 26 lần/phút. Không có yếu liệt khu trú. Soi đáy mắt thấy xung huyết gai thị.<br><br><b>Xét nghiệm:</b> Khí máu động mạch: pH 7.15, PaCO₂ 25 mmHg, HCO₃ 8 mmol/L. Sinh hóa máu: Na 140 mmol/L, K 4.5 mmol/L, Cl 105 mmol/L. Đo osmolality máu là 330 mOsm/kg, BUN 14 mg/dL, Glucose 90 mg/dL.",
+      "questions": [
+        {
+          "q": "Chẩn đoán rối loạn thăng bằng kiềm toan ở bệnh nhân này là gì?",
+          "options": [
+            "Toan chuyển hóa tăng khoảng trống anion",
+            "Toan chuyển hóa anion gap bình thường",
+            "Kiềm chuyển hóa có tăng anion gap",
+            "Kiềm hô hấp bù trừ toan chuyển hóa"
+          ],
+          "answer": 0,
+          "explain": "pH 7.15, HCO₃ 8 là toan chuyển hóa. AG = 140 - (105 + 8) = 27 mmol/L. Đây là toan chuyển hóa tăng AG."
+        },
+        {
+          "q": "Cơ chế chính gây toan hóa máu trong bệnh cảnh ngộ độc này là gì?",
+          "options": [
+            "Tích tụ thể ketone do đói kéo dài nhiều ngày",
+            "Chuyển hóa methanol thành acid formic độc tính",
+            "Tăng sản xuất acid lactic do thiếu máu cục bộ",
+            "Ứ đọng các acid uric do suy thận chức năng"
+          ],
+          "answer": 1,
+          "explain": "Tiền sử nghiện rượu, mờ mắt, soi đáy mắt xung huyết gai thị điển hình của ngộ độc methanol. Methanol được chuyển hóa qua alcohol dehydrogenase thành acid formic, là chất độc sinh toan và gây hại cho thần kinh thị giác."
+        },
+        {
+          "q": "Thông số cận lâm sàng nào nổi bật giúp định hướng ngộ độc cồn công nghiệp?",
+          "options": [
+            "Nồng độ procalcitonin huyết thanh tăng",
+            "Khoảng trống anion trong nước tiểu âm tính",
+            "Khoảng trống áp lực thẩm thấu máu tăng",
+            "Nồng độ salicylate huyết thanh tăng cao"
+          ],
+          "answer": 2,
+          "explain": "Osmolality tính toán = 2Na + Glucose/18 + BUN/2.8 = 280 + 5 + 5 = 290. Osm gap = 330 - 290 = 40 mOsm/kg. Osm gap > 10 gợi ý có cồn (methanol/ethylene glycol) trong máu."
+        },
+        {
+          "q": "Phương pháp điều trị đặc hiệu ưu tiên cho bệnh nhân này là gì?",
+          "options": [
+            "Tiêm tĩnh mạch thuốc giải độc flumazenil",
+            "Lọc máu liên tục tĩnh mạch tĩnh mạch",
+            "Truyền tĩnh mạch natri bicarbonate liều cao",
+            "Sử dụng fomepizole tĩnh mạch hoặc ethanol"
+          ],
+          "answer": 3,
+          "explain": "Fomepizole hoặc ethanol là thuốc ức chế cạnh tranh men alcohol dehydrogenase, ngăn chặn quá trình chuyển hóa methanol thành acid formic độc hại."
+        },
+        {
+          "q": "Biến chứng thần kinh kinh điển do độc tính của nguyên nhân này là gì?",
+          "options": [
+            "Mù lòa vĩnh viễn do hoại tử thần kinh thị",
+            "Viêm đa dây thần kinh ngoại biên hai bên",
+            "Sa sút trí tuệ do tổn thương hồi hải mã",
+            "Xuất huyết dịch kính võng mạc diện rộng"
+          ],
+          "answer": 0,
+          "explain": "Acid formic có ái lực đặc biệt và tích tụ tại thần kinh thị giác, gây viêm gai thị, hoại tử và có thể dẫn đến mù lòa vĩnh viễn nếu không điều trị kịp thời."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 35 tuổi tiêu chảy nước toàn nước 15 lần/ngày",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 35 tuổi, vào viện vì tiêu chảy phân lỏng toàn nước 15 lần/ngày trong 3 ngày nay. Bệnh nhân mệt lả, khát nước.<br><br><b>Khám lâm sàng:</b> Mạch 110 lần/phút, huyết áp 90/60 mmHg, niêm mạc miệng rất khô. Không sốt. Bụng mềm, không phản ứng thành bụng.<br><br><b>Xét nghiệm:</b> Khí máu động mạch: pH 7.28, PaCO₂ 30 mmHg, HCO₃ 14 mmol/L. Sinh hóa: Na 138 mmol/L, K 3.0 mmol/L, Cl 112 mmol/L.",
+      "questions": [
+        {
+          "q": "Phân loại rối loạn thăng bằng kiềm toan ở bệnh nhân này là gì?",
+          "options": [
+            "Toan chuyển hóa có tăng khoảng trống anion",
+            "Toan chuyển hóa khoảng trống anion bình thường",
+            "Kiềm chuyển hóa hỗn hợp với toan hô hấp",
+            "Toan hô hấp cấp tính mất sự bù trừ"
+          ],
+          "answer": 1,
+          "explain": "pH 7.28, HCO₃ 14 chỉ ra toan chuyển hóa. Khoảng trống anion AG = Na - (Cl + HCO₃) = 138 - (112 + 14) = 12 mmol/L. AG nằm trong giới hạn bình thường (8-12), nên đây là toan chuyển hóa AG bình thường (hyperchloremic metabolic acidosis)."
+        },
+        {
+          "q": "Cơ chế chính gây ra toan chuyển hóa ở bệnh nhân này là gì?",
+          "options": [
+            "Ứ đọng các acid không bay hơi tại ống thận",
+            "Tích tụ acid lactic do giảm tưới máu mô",
+            "Mất nhiều ion bicarbonate qua đường tiêu hóa",
+            "Mất ion clo qua lượng dịch bài tiết dạ dày"
+          ],
+          "answer": 2,
+          "explain": "Dịch tiêu hóa từ ruột non và ruột già chứa rất nhiều bicarbonate. Tiêu chảy cấp số lượng nhiều gây mất trực tiếp HCO₃- ra ngoài cơ thể, làm giảm nồng độ kiềm trong máu."
+        },
+        {
+          "q": "Xét nghiệm nào giúp phân biệt nguyên nhân của tình trạng toan chuyển hóa này với nguyên nhân tại thận?",
+          "options": [
+            "Đo nồng độ aldosterone trong huyết thanh",
+            "Định lượng ketone trong mẫu nước tiểu",
+            "Định lượng nồng độ lactate tĩnh mạch",
+            "Tính khoảng trống anion trong nước tiểu"
+          ],
+          "answer": 3,
+          "explain": "Khoảng trống anion niệu (Urinary AG = Na + K - Cl) giúp phân biệt mất HCO₃- qua đường tiêu hóa (UAG âm) với toan hóa ống thận (UAG dương do thận giảm bài tiết NH4+)."
+        },
+        {
+          "q": "Lựa chọn dung dịch hồi sức ban đầu phù hợp nhất trên bệnh nhân này là gì?",
+          "options": [
+            "Truyền tĩnh mạch dung dịch NaCl 0.9%",
+            "Truyền tĩnh mạch dung dịch NaHCO₃ 8.4%",
+            "Truyền tĩnh mạch dung dịch Glucose 5%",
+            "Tiêm tĩnh mạch trực tiếp thuốc kali clorid"
+          ],
+          "answer": 0,
+          "explain": "Tiêu chảy cấp gây mất nước đẳng trương và hạ huyết áp (90/60). Truyền tinh thể đẳng trương NaCl 0.9% là ưu tiên hàng đầu để phục hồi thể tích tuần hoàn. Sau đó mới pha bù Kali qua đường tĩnh mạch (tuyệt đối không tiêm trực tiếp Kali)."
+        },
+        {
+          "q": "Biến chứng tim mạch nào đe dọa bệnh nhân nhất do tình trạng rối loạn điện giải hiện tại?",
+          "options": [
+            "Block nhĩ thất độ ba hoàn toàn",
+            "Rung thất và nhịp nhanh thất",
+            "Viêm cơ tim lan tỏa cấp tính",
+            "Tràn dịch màng ngoài tim cấp"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có K = 3.0 mmol/L (hạ kali máu). Hạ kali máu mức độ nặng làm tăng tính kích thích của cơ tim, gây nguy cơ ngoại tâm thu, nhịp nhanh thất, xoắn đỉnh hoặc rung thất đe dọa tính mạng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi sốt lạnh run tiểu buốt phì đại tiền liệt tuyến",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 72 tuổi, tiền sử phì đại tiền liệt tuyến, vào viện vì sốt lạnh run 2 ngày và tiểu buốt.<br><br><b>Khám lâm sàng:</b> Lơ mơ, mạch 130 lần/phút, huyết áp 80/50 mmHg, nhịp thở 28 lần/phút, nhiệt độ 39.5°C. Rung thận phải dương tính, không có dấu màng não.<br><br><b>Xét nghiệm:</b> Khí máu động mạch: pH 7.20, PaCO₂ 32 mmHg, HCO₃ 12 mmol/L. Sinh hóa máu: Na 140 mmol/L, K 4.5 mmol/L, Cl 100 mmol/L. Lactate máu 8.5 mmol/L.",
+      "questions": [
+        {
+          "q": "Tình trạng rối loạn kiềm toan của bệnh nhân thuộc nhóm nào?",
+          "options": [
+            "Toan hô hấp cấp tính chưa có bù trừ",
+            "Toan chuyển hóa khoảng trống anion bình thường",
+            "Toan chuyển hóa có tăng khoảng trống anion",
+            "Kiềm hô hấp mất sự bù trừ chuyển hóa"
+          ],
+          "answer": 2,
+          "explain": "pH 7.20, HCO₃ 12, PaCO₂ 32 là toan chuyển hóa. AG = 140 - (100 + 12) = 28 mmol/L. Đây là toan chuyển hóa tăng AG. Nồng độ lactate tăng cao (8.5 mmol/L) xác nhận toan lactic."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh dẫn đến toan hóa máu ở bệnh nhân này là gì?",
+          "options": [
+            "Ứ đọng carbon dioxide tại phế nang và mô",
+            "Giảm bài tiết acid qua ống lượn xa tại thận",
+            "Mất nhiều ion bicarbonate qua đường niệu đạo",
+            "Tăng sản xuất acid yếm khí do thiếu oxy mô"
+          ],
+          "answer": 3,
+          "explain": "Bệnh cảnh sốc nhiễm khuẩn (HA 80/50, sốt cao, nguồn từ đường tiểu) gây giảm tưới máu mô nghiêm trọng. Các tế bào chuyển sang hô hấp yếm khí, sản sinh ra nhiều acid lactic."
+        },
+        {
+          "q": "Chỉ định cận lâm sàng nào cần thực hiện ngay lập tức trước khi bắt đầu dùng kháng sinh?",
+          "options": [
+            "Cấy máu hai vị trí và cấy nước tiểu",
+            "Chụp cắt lớp vi tính sọ não cấp cứu",
+            "Xét nghiệm khí máu tĩnh mạch trung tâm",
+            "Siêu âm doppler mạch máu chi dưới"
+          ],
+          "answer": 0,
+          "explain": "Theo Surviving Sepsis Campaign, lấy bệnh phẩm nuôi cấy (đặc biệt là cấy máu) phải được thực hiện trước khi dùng kháng sinh để xác định vi khuẩn gây bệnh, miễn là không làm chậm trễ việc cho kháng sinh quá 45 phút."
+        },
+        {
+          "q": "Bước xử trí huyết động ưu tiên ban đầu trong giờ đầu tiên là gì?",
+          "options": [
+            "Truyền tĩnh mạch dung dịch albumin 20%",
+            "Truyền nhanh dung dịch Ringer Lactate",
+            "Tiêm tĩnh mạch dung dịch natri bicarbonate",
+            "Bơm tiêm điện thuốc vận mạch noradrenaline"
+          ],
+          "answer": 1,
+          "explain": "Hồi sức dịch với tinh thể (Ringer Lactate hoặc NaCl 0.9%) với liều 30 ml/kg trong 3 giờ đầu là can thiệp cốt lõi của sốc nhiễm khuẩn để cải thiện thể tích nhát bóp và tưới máu mô."
+        },
+        {
+          "q": "Chọn tập hợp đúng về toan lactic trong bệnh cảnh của bệnh nhân này: (1) Thuộc nhóm toan lactic type A (2) Có nguyên nhân do giảm tưới máu vi tuần hoàn (3) Biện pháp điều trị chính là tiêm NaHCO₃ tĩnh mạch (4) Sẽ cải thiện khi phục hồi huyết động và kiểm soát nhiễm khuẩn",
+          "options": [
+            "(2), (3), (4)",
+            "(1), (3), (4)",
+            "(1), (2), (4)",
+            "(1), (2), (3)"
+          ],
+          "answer": 2,
+          "explain": "Mệnh đề (3) sai vì toan lactic do tưới máu kém (Type A) điều trị chủ yếu bằng cách phục hồi huyết động và chữa nguyên nhân. Không khuyến cáo dùng NaHCO₃ thường quy trừ khi pH rất thấp (< 7.15). Các mệnh đề 1, 2, 4 đúng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 22 tuổi uống thuốc tự tử nôn nhiều thở nhanh ù tai",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 22 tuổi, uống thuốc tự tử không rõ loại. Vào viện có biểu hiện nôn nhiều, thở nhanh và ù tai liên tục.<br><br><b>Khám lâm sàng:</b> Ý thức tỉnh chậm, mạch 120 lần/phút, huyết áp 110/70 mmHg, nhịp thở 35 lần/phút. Không dấu thần kinh khu trú, gan lách không to.<br><br><b>Xét nghiệm:</b> Khí máu động mạch: pH 7.42, PaCO₂ 20 mmHg, HCO₃ 12 mmol/L. Sinh hóa máu: Na 142 mmol/L, K 3.5 mmol/L, Cl 105 mmol/L.",
+      "questions": [
+        {
+          "q": "Phân tích rối loạn thăng bằng kiềm toan trên khí máu động mạch này?",
+          "options": [
+            "Toan chuyển hóa đơn thuần mất bù",
+            "Toan hô hấp phối hợp kiềm chuyển hóa",
+            "Kiềm hô hấp đơn thuần chưa bù trừ",
+            "Toan chuyển hóa phối hợp kiềm hô hấp"
+          ],
+          "answer": 3,
+          "explain": "pH 7.42 (bình thường nhưng thiên kiềm). PaCO₂ 20 (rất giảm -> kiềm hô hấp). HCO₃ 12 (rất giảm -> toan chuyển hóa). AG = 142 - (105 + 12) = 25 (tăng). Đặc trưng của ngộ độc Salicylate là rối loạn toan kiềm hỗn hợp: Kiềm hô hấp và Toan chuyển hóa tăng AG."
+        },
+        {
+          "q": "Cơ chế trực tiếp gây ra kiềm hô hấp trong ngộ độc này là gì?",
+          "options": [
+            "Kích thích trực tiếp trung tâm hô hấp ở tủy não",
+            "Phản xạ do giảm oxy máu động mạch ngoại vi",
+            "Tổn thương lan tỏa khoảng kẽ phế nang mao mạch",
+            "Tình trạng suy yếu các cơ hô hấp phụ thành ngực"
+          ],
+          "answer": 0,
+          "explain": "Salicylate có tác động trực tiếp lên trung tâm hô hấp ở hành tủy, gây kích thích tăng thông khí mạnh mẽ (nhịp thở 35 l/p), làm thải nhiều CO2 và dẫn đến kiềm hô hấp sớm."
+        },
+        {
+          "q": "Xét nghiệm nào giúp chẩn đoán xác định chính xác nguyên nhân ngộ độc?",
+          "options": [
+            "Định lượng paracetamol huyết thanh",
+            "Định lượng salicylate huyết thanh",
+            "Chụp cắt lớp vi tính sọ não cấp cứu",
+            "Phân tích độc chất qua mẫu nước tiểu"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh uống thuốc, nôn, ù tai, thở nhanh, khí máu toan chuyển hóa kèm kiềm hô hấp là dấu hiệu kinh điển của ngộ độc Aspirin (Salicylate). Cần định lượng salicylate máu để xác định mức độ nặng."
+        },
+        {
+          "q": "Phương pháp loại bỏ chất độc đặc hiệu và điều chỉnh kiềm toan ưu tiên là gì?",
+          "options": [
+            "Đặt thông mũi dạ dày để rửa dạ dày thể tích lớn",
+            "Truyền tĩnh mạch liên tục N-acetylcysteine",
+            "Kiềm hóa nước tiểu bằng NaHCO₃ tĩnh mạch",
+            "Tiêm tĩnh mạch thuốc giải độc naloxone"
+          ],
+          "answer": 2,
+          "explain": "Salicylate là acid yếu. Việc truyền NaHCO₃ để kiềm hóa máu và nước tiểu (pH nước tiểu > 7.5) giúp chuyển Salicylate sang dạng ion hóa, ngăn cản tái hấp thu ở ống thận, từ đó tăng đào thải qua nước tiểu."
+        },
+        {
+          "q": "Bệnh nhân có nguy cơ diễn biến biến chứng ở phổi nào sau đây?",
+          "options": [
+            "Nhồi máu phổi cấp diện rộng",
+            "Tràn khí màng phổi áp lực tự phát",
+            "Viêm phế quản co thắt lan tỏa",
+            "Phù phổi cấp tổn thương không do tim"
+          ],
+          "answer": 3,
+          "explain": "Ngộ độc Salicylate nặng làm tăng tính thấm mao mạch ở phổi và não, có thể dẫn đến biến chứng phù phổi cấp tổn thương (ARDS) không do tim mạch và phù não."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi xơ gan cổ trướng chuột rút sau tự tăng liều lợi tiểu",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 55 tuổi, xơ gan cổ trướng, đang điều trị ngoại trú bằng furosemide và spironolactone. Gần đây bệnh nhân thấy phù nhiều nên tự uống gấp đôi liều furosemide. Vào viện vì mệt mỏi và chuột rút liên tục.<br><br><b>Khám lâm sàng:</b> Mạch 90 lần/phút, huyết áp 100/60 mmHg, không sốt. Cổ trướng mức độ vừa, không vàng da đậm.<br><br><b>Xét nghiệm:</b> Khí máu động mạch: pH 7.52, PaCO₂ 48 mmHg, HCO₃ 38 mmol/L. Sinh hóa máu: Na 135 mmol/L, K 2.5 mmol/L, Cl 90 mmol/L.",
+      "questions": [
+        {
+          "q": "Rối loạn thăng bằng kiềm toan trên khí máu động mạch này là gì?",
+          "options": [
+            "Kiềm chuyển hóa bù trừ",
+            "Kiềm hô hấp mất bù",
+            "Toan chuyển hóa bù trừ",
+            "Toan hô hấp đơn thuần"
+          ],
+          "answer": 0,
+          "explain": "pH = 7.52 (kiềm máu). HCO₃ = 38 mmol/L (tăng, chỉ ra kiềm chuyển hóa). PaCO₂ = 48 mmHg (tăng để bù trừ kiềm chuyển hóa). Chẩn đoán: Kiềm chuyển hóa có bù."
+        },
+        {
+          "q": "Yếu tố chính tham gia vào việc duy trì tình trạng kiềm chuyển hóa ở bệnh nhân này là gì?",
+          "options": [
+            "Tăng thông khí phế nang mạn tính không kiểm soát",
+            "Giảm thể tích tuần hoàn và thiếu hụt ion clo",
+            "Tăng tích tụ acid hữu cơ trong khoảng gian bào",
+            "Mất lượng lớn ion bicarbonate qua dịch ruột"
+          ],
+          "answer": 1,
+          "explain": "Dùng lợi tiểu quai (furosemide) quá mức gây thải muối và nước, dẫn đến giảm thể tích (contraction alkalosis) và giảm clo máu. Việc giảm thể tích và giảm clo kích thích thận tăng tái hấp thu bicarbonate, làm duy trì tình trạng kiềm."
+        },
+        {
+          "q": "Thăm dò sinh hóa nào có thể giúp phân biệt nhóm nguyên nhân gây rối loạn này?",
+          "options": [
+            "Chụp cắt lớp vi tính tuyến thượng thận",
+            "Siêu âm doppler động mạch thận hai bên",
+            "Định lượng nồng độ clo trong nước tiểu",
+            "Định lượng nồng độ renin huyết tương"
+          ],
+          "answer": 2,
+          "explain": "Clo nước tiểu là xét nghiệm then chốt. Nhóm đáp ứng bù thể tích (như nôn, dùng lợi tiểu) thường có Cl- niệu thấp (< 25 mEq/L) khi đã ngừng thuốc. Nhóm kháng bù thể tích (Conn, cường aldosterone) có Cl- niệu cao."
+        },
+        {
+          "q": "Xử trí bước đầu phù hợp nhất đối với rối loạn toan kiềm và điện giải này là gì?",
+          "options": [
+            "Cho bệnh nhân uống dung dịch thuốc acetazolamide",
+            "Bơm tiêm điện liên tục thuốc lợi tiểu furosemide",
+            "Truyền tĩnh mạch dung dịch glucose 5% đẳng trương",
+            "Truyền tĩnh mạch dung dịch NaCl 0.9% pha thêm KCl"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân bị kiềm chuyển hóa có đáp ứng clo, kèm hạ kali. Cần bù thể tích bằng NaCl 0.9% và bù Kali thiếu hụt bằng KCl. Việc truyền NaCl giúp cung cấp lại Cl-, ức chế quá trình tái hấp thu HCO₃- ở thận."
+        },
+        {
+          "q": "Phát biểu nào sau đây KHÔNG ĐÚNG về diễn biến của tình trạng kiềm chuyển hóa trên?",
+          "options": [
+            "Cơ thể bù trừ bằng cách thở nhanh và sâu hơn",
+            "Rối loạn này có thể gây ra các rối loạn nhịp tim",
+            "Tình trạng này thường đi kèm với việc hạ kali máu",
+            "Làm tăng ái lực của hemoglobin đối với phân tử oxy"
+          ],
+          "answer": 0,
+          "explain": "Bù trừ hô hấp của kiềm chuyển hóa là giảm thông khí (thở chậm, nông) để giữ lại CO2, từ đó làm giảm pH. Thở nhanh sâu là bù trừ của toan chuyển hóa. Các ý B, C, D đều đúng (kiềm máu gây dịch chuyển đường cong phân ly oxy-Hb sang trái, tăng ái lực với O2)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 25 tuổi khó thở dữ dội tê bì co rút ngón tay sau cãi vã",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 25 tuổi, vào cấp cứu vì đột ngột xuất hiện cảm giác khó thở dữ dội, tức ngực, kèm tê bì quanh miệng và co rút các ngón tay hai bên. Bệnh nhân vừa trải qua một cuộc cãi vã căng thẳng với gia đình.<br><br><b>Khám lâm sàng:</b> Mạch 100 lần/phút, huyết áp 120/80 mmHg, nhịp thở 32 lần/phút. Tim đều rõ, phổi thông khí tốt, SpO₂ 100% khí trời.<br><br><b>Xét nghiệm:</b> Khí máu động mạch: pH 7.55, PaCO₂ 22 mmHg, HCO₃ 20 mmol/L.",
+      "questions": [
+        {
+          "q": "Rối loạn kiềm toan nguyên phát của bệnh nhân là gì?",
+          "options": [
+            "Kiềm chuyển hóa cấp tính",
+            "Kiềm hô hấp cấp tính",
+            "Toan hô hấp bù trừ",
+            "Toan chuyển hóa cấp tính"
+          ],
+          "answer": 1,
+          "explain": "pH 7.55 là kiềm máu. PaCO₂ 22 mmHg giảm rõ rệt. Nhịp thở nhanh (32 l/p). Đây là kiềm hô hấp cấp tính do tăng thông khí (hyperventilation syndrome) trong cơn hoảng loạn."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh gây ra triệu chứng tê bì và co rút cơ là gì?",
+          "options": [
+            "Tăng nồng độ kali máu cấp tính",
+            "Giảm nồng độ natri máu cấp tính",
+            "Giảm nồng độ calci ion hóa trong máu",
+            "Giảm nồng độ magne máu cấp tính"
+          ],
+          "answer": 2,
+          "explain": "Trong môi trường kiềm, protein huyết tương (albumin) giải phóng ion H+ và tăng cường gắn kết với Ca2+. Hậu quả là nồng độ calci ion hóa trong máu giảm đột ngột, gây tăng tính kích thích thần kinh cơ (tê quanh miệng, dấu hiệu Trousseau)."
+        },
+        {
+          "q": "Thăm dò nào cần thiết để loại trừ nguyên nhân tim mạch ở bệnh nhân đau ngực khó thở này?",
+          "options": [
+            "Chụp X-quang cột sống cổ tư thế thẳng nghiêng",
+            "Chụp cắt lớp vi tính sọ não không tiêm thuốc",
+            "Siêu âm Doppler động mạch cảnh hai bên",
+            "Điện tâm đồ mười hai chuyển đạo"
+          ],
+          "answer": 3,
+          "explain": "Mặc dù bệnh cảnh điển hình của cơn hoảng loạn, mọi bệnh nhân trẻ đau ngực khó thở đều cần làm ECG để loại trừ các nguyên nhân cấp cứu thực thể như nhồi máu cơ tim, rối loạn nhịp, hoặc viêm cơ tim."
+        },
+        {
+          "q": "Bước xử trí ban đầu hiệu quả và an toàn nhất cho bệnh nhân là gì?",
+          "options": [
+            "Trấn an và hướng dẫn bệnh nhân thở vào túi giấy",
+            "Tiêm tĩnh mạch chậm dung dịch calci gluconate",
+            "Truyền tĩnh mạch dung dịch natri bicarbonate",
+            "Cho bệnh nhân thở oxy qua mask có túi dự trữ"
+          ],
+          "answer": 0,
+          "explain": "Thở vào một túi giấy kín (hoặc mặt nạ không có oxy) giúp bệnh nhân hít lại không khí chứa CO2 do chính mình thở ra, từ đó nhanh chóng làm tăng PaCO₂ máu, giảm tình trạng kiềm hô hấp."
+        },
+        {
+          "q": "Mệnh đề nào sau đây KHÔNG ĐÚNG đối với tình trạng rối loạn này?",
+          "options": [
+            "PaCO₂ máu động mạch giảm dưới mức bình thường",
+            "Thận bù trừ bằng cách tăng đào thải ion hydro",
+            "Tình trạng này có thể gây co thắt mạch máu não",
+            "Độ bão hòa oxy máu động mạch thường bình thường hoặc cao"
+          ],
+          "answer": 1,
+          "explain": "Trong kiềm hô hấp, thận bù trừ bằng cách GIẢM đào thải ion hydro và GIẢM tái hấp thu bicarbonate để làm toan hóa máu, kéo pH xuống. Tăng đào thải hydro là bù trừ của toan hô hấp. Các biểu hiện B, C, D đều đúng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi bất tỉnh tại phòng riêng đồng tử co nhỏ nhịp thở chậm",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 30 tuổi, được gia đình phát hiện bất tỉnh tại phòng riêng. Xung quanh bệnh nhân có một số bơm kim tiêm.<br><br><b>Khám lâm sàng:</b> Mạch 60 lần/phút, huyết áp 100/60 mmHg, nhịp thở rất chậm 6 lần/phút, đồng tử hai bên co nhỏ 1.5mm. SpO₂ đo bằng sinh hiệu là 82% khí trời. Không có vết thương trên đầu.<br><br><b>Xét nghiệm:</b> Khí máu động mạch: pH 7.18, PaCO₂ 68 mmHg, HCO₃ 25 mmol/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán kiềm toan trên khí máu động mạch này là gì?",
+          "options": [
+            "Kiềm hô hấp có bù trừ tốt",
+            "Toan chuyển hóa cấp mất bù",
+            "Toan hô hấp cấp tính đơn thuần",
+            "Tình trạng rối loạn kiềm toan hỗn hợp"
+          ],
+          "answer": 2,
+          "explain": "pH 7.18 (toan), PaCO₂ 68 (tăng cao), HCO₃ 25 (bình thường). Tình trạng ứ CO2 cấp tính chưa kịp có sự bù trừ của thận (thận cần 3-5 ngày để bù trừ HCO₃). Chẩn đoán: Toan hô hấp cấp."
+        },
+        {
+          "q": "Cơ chế chính dẫn đến toan hóa máu động mạch ở bệnh nhân là gì?",
+          "options": [
+            "Mất sự chênh lệch phân áp oxy phế nang mao mạch",
+            "Rối loạn quá trình khuếch tán khí tại màng phế nang",
+            "Tăng khoảng chết sinh lý do tắc nghẽn mạch phổi",
+            "Sự giảm sút nghiêm trọng thông khí phế nang"
+          ],
+          "answer": 3,
+          "explain": "Opiate/Heroin ức chế mạnh trung tâm hô hấp ở hành não, làm giảm nhịp thở (6 lần/phút) và biên độ thở, dẫn đến giảm thông khí phế nang toàn phát. CO2 không được đào thải gây toan hô hấp."
+        },
+        {
+          "q": "Cận lâm sàng nào giúp củng cố chẩn đoán phân biệt nguyên nhân ở bệnh nhân này?",
+          "options": [
+            "Xét nghiệm độc chất opiate trong nước tiểu",
+            "Chụp cắt lớp vi tính lồng ngực có tiêm thuốc",
+            "Đo điện tâm đồ mười hai chuyển đạo liên tục",
+            "Nội soi phế quản ống mềm lấy dịch xét nghiệm"
+          ],
+          "answer": 0,
+          "explain": "Bệnh cảnh đồng tử co nhỏ (miosis), nhịp thở chậm, lơ mơ kèm kim tiêm xung quanh là tam chứng kinh điển của ngộ độc Opiate. Xét nghiệm test nhanh Opiate nước tiểu giúp khẳng định."
+        },
+        {
+          "q": "Thuốc giải độc đặc hiệu nào cần được sử dụng ngay lập tức qua đường tĩnh mạch?",
+          "options": [
+            "Tiêm tĩnh mạch chậm thuốc flumazenil",
+            "Tiêm tĩnh mạch thuốc giải độc naloxone",
+            "Truyền tĩnh mạch dung dịch natri bicarbonate",
+            "Tiêm tĩnh mạch tĩnh mạch thuốc atropine"
+          ],
+          "answer": 1,
+          "explain": "Naloxone là chất đối kháng thụ thể opioid nguyên bản, dùng tiêm tĩnh mạch giúp đảo ngược tức thì sự ức chế hô hấp và cải thiện ý thức bệnh nhân."
+        },
+        {
+          "q": "Diễn biến nguy hiểm nào có thể xảy ra sau 1-2 giờ dùng thuốc giải độc thành công ban đầu?",
+          "options": [
+            "Dày dính màng phổi làm giảm thể tích hô hấp",
+            "Tràn dịch màng phổi thanh huyết số lượng lớn",
+            "Tái ức chế hô hấp do thời gian bán thải thuốc giải ngắn",
+            "Viêm phế quản mạn tính và co thắt phế nang"
+          ],
+          "answer": 2,
+          "explain": "Thời gian tác dụng của naloxone (khoảng 30-90 phút) thường ngắn hơn nhiều so với thời gian tác dụng của opiate/heroin gây ngộ độc. Bệnh nhân có thể tái hôn mê và ngừng thở lại sau khi naloxone hết tác dụng, do đó cần theo dõi sát ít nhất 4-6 giờ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi mệt mỏi phù hai chi dưới tiểu ít tăng kali máu",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 60 tuổi, tiền sử đái tháo đường 15 năm, tăng huyết áp. Vào viện vì mệt mỏi nhiều, phù hai chi dưới, lượng nước tiểu giảm còn 300ml/24 giờ.<br><br><b>Khám lâm sàng:</b> Lơ mơ, mạch 90 lần/phút, huyết áp 160/90 mmHg, thở nhanh sâu 22 lần/phút. Tim đều, không nghe thấy ran ở phổi.<br><br><b>Xét nghiệm:</b> Khí máu động mạch: pH 7.28, PaCO₂ 32 mmHg, HCO₃ 15 mmol/L. Sinh hóa máu: Na 135 mmol/L, K 6.0 mmol/L, Cl 98 mmol/L, Ure 30 mmol/L, Creatinine 650 µmol/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán dạng rối loạn kiềm toan trên bệnh nhân này là gì?",
+          "options": [
+            "Kiềm hô hấp bù trừ toan chuyển hóa",
+            "Toan chuyển hóa khoảng trống anion bình thường",
+            "Kiềm chuyển hóa kết hợp toan hô hấp",
+            "Toan chuyển hóa tăng khoảng trống anion"
+          ],
+          "answer": 3,
+          "explain": "pH 7.28, HCO₃ 15 là toan chuyển hóa. AG = 135 - (98 + 15) = 22 mmol/L. Đây là toan chuyển hóa tăng AG (thường gặp trong đợt tiến triển suy thận do ứ đọng acid hữu cơ như sulfat, phosphat)."
+        },
+        {
+          "q": "Sinh lý bệnh chính của tình trạng rối loạn kiềm toan ở bệnh nhân suy thận cấp/mạn tiến triển là gì?",
+          "options": [
+            "Ống thận giảm khả năng đào thải các acid không bay hơi",
+            "Dạ dày tăng bài tiết ion hydro vào trong lòng tiêu hóa",
+            "Nhu mô phổi suy giảm khả năng đào thải carbon dioxide",
+            "Tế bào cơ vân tăng cường chuyển hóa yếm khí sinh acid"
+          ],
+          "answer": 0,
+          "explain": "Chức năng chính của thận là tái hấp thu HCO₃- và bài tiết các acid không bay hơi (sản phẩm chuyển hóa của protein). Trong suy thận, độ lọc cầu thận giảm mạnh làm ứ đọng các anion acid này, gây toan máu tăng AG."
+        },
+        {
+          "q": "Thăm dò hình ảnh nào có giá trị trong đánh giá kích thước thận và loại trừ nguyên nhân sau thận?",
+          "options": [
+            "Chụp X-quang ổ bụng không chuẩn bị",
+            "Siêu âm hệ tiết niệu hai bên",
+            "Chụp hệ tiết niệu có tiêm thuốc cản quang",
+            "Chụp cộng hưởng từ vùng chậu hông"
+          ],
+          "answer": 1,
+          "explain": "Siêu âm hệ tiết niệu là thăm dò không xâm lấn, an toàn cho người suy thận, giúp đo kích thước nhu mô thận và loại trừ nguyên nhân tắc nghẽn đường tiểu (thận ứ nước) gây suy thận cấp sau thận."
+        },
+        {
+          "q": "Cùng với điều chỉnh toan chuyển hóa, loại thuốc nào có tác dụng bảo vệ tế bào cơ tim cần được tiêm tĩnh mạch đầu tiên?",
+          "options": [
+            "Thuốc đồng vận beta-2 salbutamol",
+            "Dung dịch natri bicarbonate 8.4%",
+            "Dung dịch calci gluconate 10%",
+            "Bơm tiêm điện thuốc furosemide"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có tăng kali máu nặng (K = 6.0) kèm thay đổi màng tế bào tiềm tàng. Ưu tiên cao nhất là tiêm Calci gluconate (hoặc Calci clorid) tĩnh mạch để ổn định điện thế màng cơ tim, dự phòng loạn nhịp tử vong."
+        },
+        {
+          "q": "Nhận định nào KHÔNG ĐÚNG về diễn biến rối loạn điện giải ở bệnh nhân này?",
+          "options": [
+            "Bệnh nhân có nguy cơ xuất hiện sóng T cao nhọn trên điện tâm đồ",
+            "Kali máu tăng cao có nguy cơ gây ngừng tim đột ngột",
+            "Tình trạng toan máu làm trầm trọng thêm mức độ tăng kali máu",
+            "Sử dụng calci gluconate giúp làm giảm đáng kể nồng độ kali máu"
+          ],
+          "answer": 3,
+          "explain": "Calci gluconate chỉ có tác dụng đối kháng màng, bảo vệ cơ tim khỏi rối loạn nhịp, hoàn toàn KHÔNG có tác dụng đưa Kali vào nội bào hay đào thải Kali ra khỏi cơ thể, do đó không làm giảm nồng độ K⁺ máu. Các ý B, C, D đều đúng (toan máu làm K⁺ từ tế bào chạy ra ngoài, làm tăng K⁺ máu thêm)."
+        }
+      ]
+    }
+  ]
+}
