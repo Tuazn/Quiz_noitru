@@ -1,0 +1,1230 @@
+{
+  "name": "Cấp cứu ngừng tuần hoàn",
+  "description": "Bộ câu hỏi tình huống lâm sàng (case-based MCQs) về các kịch bản cấp cứu ngừng tuần hoàn nâng cao (ACLS)",
+  "level": "Ôn thi nội trú / Học viên chuyên khoa",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Cấp cứu",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 58 tuổi gục xuống đột ngột khi đang chơi thể thao",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 58 tuổi, là giám đốc công ty.<br><br><b>Bệnh sử:</b> Đột ngột gục xuống khi đang chơi tennis. Những người xung quanh chứng kiến ông ôm ngực trái trước khi ngã, không co giật. Tại hiện trường, ông được xác định không đáp ứng, không thở bình thường và không có mạch. Đội cấp cứu ngoại viện có mặt sau 5 phút, bệnh nhân đã được những người xung quanh ép tim.<br><br><b>Tiền sử:</b> Có tiền sử tăng huyết áp và rối loạn lipid máu nhưng không điều trị thường xuyên.<br><br><b>Khám lâm sàng:</b> Monitor của đội cấp cứu cho thấy hình ảnh rung thất (Ventricular Fibrillation - VF). Bệnh nhân được sốc điện một lần 200J, ép tim và thông khí qua mask tiếp tục, đặt đường truyền tĩnh mạch và tiêm 1mg Adrenaline mỗi 3-5 phút. Sau 2 chu kỳ hồi sức tim phổi (CPR), monitor chuyển sang nhịp nhanh thất vô mạch và được sốc điện lần thứ hai, sau đó tiêm Amiodarone 300mg. Khám lâm sàng trong lúc cấp cứu không thấy dấu hiệu chấn thương, bụng mềm, không có dấu hiệu huyết khối tĩnh mạch sâu. Sau cú sốc điện thứ ba và tổng cộng 3 liều Adrenaline, bệnh nhân có tuần hoàn tự nhiên trở lại (ROSC). Sinh hiệu sau ROSC: mạch 110 lần/phút, huyết áp 90/60 mmHg, SpO₂ 95% qua nội khí quản.<br><br><b>Xét nghiệm:</b> Điện tâm đồ 12 chuyển đạo sau đó cho thấy hình ảnh ST chênh lên ở V1-V4.",
+      "questions": [
+        {
+          "q": "Nguyên nhân có khả năng nhất gây ngừng tuần hoàn ở bệnh nhân này là gì?",
+          "options": [
+            "Nhồi máu cơ tim cấp có ST chênh lên",
+            "Thuyên tắc phổi cấp",
+            "Tăng kali máu",
+            "Chèn ép tim cấp"
+          ],
+          "answer": 0,
+          "explain": "Bệnh cảnh một bệnh nhân trung niên có yếu tố nguy cơ tim mạch, đau ngực trước khi ngừng tuần hoàn, nhịp ban đầu là rung thất và ECG sau đó có ST chênh lên là cực kỳ điển hình cho nguyên nhân do nhồi máu cơ tim cấp."
+        },
+        {
+          "q": "Cơ chế bệnh sinh chính gây ra rung thất trong bệnh cảnh này là gì?",
+          "options": [
+            "Sự tắc nghẽn cơ học của dòng máu ra khỏi thất trái",
+            "Tình trạng thiếu máu cục bộ cơ tim cấp tính gây ra sự bất ổn định về điện học và các vòng vào lại",
+            "Sự gia tăng quá mức của nồng độ kali ngoại bào làm giảm điện thế nghỉ của màng tế bào",
+            "Giảm oxy máu toàn thân do hoạt động gắng sức"
+          ],
+          "answer": 1,
+          "explain": "Khi một động mạch vành bị tắc nghẽn, vùng cơ tim bị thiếu máu cục bộ sẽ có những thay đổi về điện thế hoạt động (giảm điện thế nghỉ, rút ngắn thời gian tái cực). Sự không đồng nhất về điện học giữa vùng bị tổn thương và vùng lành tạo ra các dòng điện bất thường và các vòng vào lại (re-entry circuits), dẫn đến các hoạt động điện hỗn loạn và không hiệu quả, chính là rung thất."
+        },
+        {
+          "q": "Theo phác đồ Hồi sức tim phổi nâng cao (ACLS), hành động nào là ưu tiên hàng đầu ngay khi xác định bệnh nhân bị rung thất/nhịp nhanh thất vô mạch?",
+          "options": [
+            "Tiêm Adrenaline",
+            "Đặt nội khí quản",
+            "Sốc điện (Defibrillation)",
+            "Tiêm Amiodarone"
+          ],
+          "answer": 2,
+          "explain": "Đối với các nhịp có thể sốc điện được (VF/pulseless VT), can thiệp quan trọng nhất và có khả năng cứu sống bệnh nhân cao nhất là sốc điện sớm. Mỗi phút chậm trễ sốc điện sẽ làm giảm đáng kể tỷ lệ sống còn. Ép tim cần được bắt đầu ngay trong khi chuẩn bị máy sốc điện."
+        },
+        {
+          "q": "Mục tiêu chính của việc ép tim chất lượng cao là gì?",
+          "options": [
+            "Giúp thuốc đến tim nhanh hơn",
+            "Kích thích tim đập trở lại bằng lực cơ học",
+            "Làm tăng thân nhiệt cho bệnh nhân",
+            "Tạo ra một dòng máu tối thiểu đến các cơ quan quan trọng, đặc biệt là não và tim"
+          ],
+          "answer": 3,
+          "explain": "Khi tim ngừng đập, ép tim từ bên ngoài lồng ngực tạo ra một áp lực làm tống máu từ tim đi đến các cơ quan. Mục tiêu chính là duy trì một dòng máu (cung lượng tim) tối thiểu để cung cấp oxy cho não và bản thân cơ tim, giúp kéo dài thời gian các cơ quan này có thể sống sót và tăng khả năng thành công của sốc điện."
+        },
+        {
+          "q": "Sau khi có tuần hoàn tự nhiên trở lại (ROSC), can thiệp nào là cấp thiết nhất để giải quyết nguyên nhân gốc rễ?",
+          "options": [
+            "Can thiệp tái tưới máu mạch vành cấp cứu (PCI)",
+            "Điều trị hạ sốt bằng paracetamol",
+            "Bắt đầu thuốc chẹn beta giao cảm",
+            "Lọc máu liên tục"
+          ],
+          "answer": 0,
+          "explain": "Việc tái lập tuần hoàn chỉ là bước đầu. Nguyên nhân gây ngừng tim là do tắc động mạch vành, do đó việc can thiệp tái tưới máu (thường là chụp và can thiệp động mạch vành qua da - PCI) là bắt buộc và cần được tiến hành khẩn cấp để cứu vãn phần cơ tim còn lại và ngăn ngừa tái phát ngừng tuần hoàn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 30 tuổi hôn mê sâu nghi ngộ độc thuốc quá liều",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 30 tuổi.<br><br><b>Bệnh sử:</b> Được tìm thấy bất tỉnh trong nhà tắm với nhiều vỉ thuốc chống trầm cảm ba vòng (Amitriptyline) rỗng bên cạnh. Tại phòng cấp cứu, bệnh nhân hôn mê sâu (GCS 3 điểm), không đáp ứng với kích thích đau. Bệnh nhân đột ngột xuất hiện rung thất. Đội cấp cứu tiến hành ép tim, sốc điện và tiêm Adrenaline theo phác đồ. Mặc dù đã hồi sức tích cực, bệnh nhân vẫn trơ với các biện pháp thông thường.<br><br><b>Khám lâm sàng:</b> Sinh hiệu: mạch 130 lần/phút, huyết áp 70/40 mmHg (đang dùng vận mạch Noradrenaline), nhịp thở 8 lần/phút qua nội khí quản, nhiệt độ 36.5°C, SpO₂ 94% với FiO₂ 100%. Monitor tim cho thấy nhịp nhanh xoang với phức bộ QRS giãn rộng (160 ms) và khoảng QT kéo dài. Khám không thấy dấu hiệu chấn thương, đồng tử hai bên giãn 5 mm, phản xạ ánh sáng yếu.<br><br><b>Xét nghiệm:</b> Khí máu động mạch cho thấy tình trạng toan chuyển hóa nặng (pH 7.10, HCO₃⁻ 12 mmol/L).",
+      "questions": [
+        {
+          "q": "Nguyên nhân có khả năng nhất gây ngừng tuần hoàn ở bệnh nhân này là gì?",
+          "options": [
+            "Thiếu oxy",
+            "Ngộ độc thuốc (Tricyclic Antidepressant - TCA)",
+            "Tăng kali máu",
+            "Hạ thân nhiệt"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh lâm sàng với các vỉ thuốc rỗng, tụt huyết áp, QRS giãn rộng và loạn nhịp thất trên một bệnh nhân trẻ là rất điển hình cho ngộ độc thuốc chống trầm cảm ba vòng (TCA)."
+        },
+        {
+          "q": "Cơ chế chính gây ra phức bộ QRS giãn rộng và rối loạn nhịp thất trong ngộ độc TCA là gì?",
+          "options": [
+            "Chẹn kênh calci, làm chậm dẫn truyền tại nút nhĩ thất",
+            "Kích thích thụ thể beta-adrenergic, làm tăng tính tự động của tim",
+            "Chẹn kênh natri nhanh (fast sodium channels) ở cơ tim, làm chậm giai đoạn 0 của điện thế hoạt động và làm chậm dẫn truyền trong thất",
+            "Chẹn kênh kali, làm kéo dài giai đoạn tái cực"
+          ],
+          "answer": 2,
+          "explain": "Độc tính tim mạch của TCA chủ yếu là do tác dụng giống quinidine, chẹn các kênh natri nhanh của tim. Việc này làm chậm tốc độ khử cực của tế bào cơ tim (pha 0), biểu hiện trên ECG bằng QRS giãn rộng. Sự chậm dẫn truyền này tạo điều kiện cho các vòng vào lại và gây ra các rối loạn nhịp thất nguy hiểm như nhịp nhanh thất và rung thất."
+        },
+        {
+          "q": "Ngoài các biện pháp hồi sức tim phổi chuẩn, liệu pháp nào là thuốc giải độc đặc hiệu và cần được sử dụng ngay lập tức trong trường hợp này?",
+          "options": [
+            "Calcium gluconate",
+            "Naloxone",
+            "Magnesium sulfate",
+            "Sodium bicarbonate (Natri bicarbonat)"
+          ],
+          "answer": 3,
+          "explain": "Natri bicarbonat là thuốc giải độc chính. Nó giúp làm hẹp phức bộ QRS, cải thiện huyết áp và kiểm soát rối loạn nhịp thất trong ngộ độc TCA."
+        },
+        {
+          "q": "Mục tiêu của việc truyền Natri bicarbonat trong ngộ độc TCA là gì?",
+          "options": [
+            "Tăng nồng độ Natri ngoại bào để cạnh tranh với TCA tại kênh Natri và kiềm hóa máu để giảm lượng thuốc gắn vào kênh",
+            "Để điều trị tình trạng toan chuyển hóa",
+            "Gây lợi tiểu để tăng thải trừ thuốc",
+            "Ổn định màng tế bào cơ tim"
+          ],
+          "answer": 0,
+          "explain": "Mặc dù có tác dụng điều chỉnh toan máu, nhưng cơ chế chính của Natri bicarbonat trong trường hợp này là: (1) Cung cấp một lượng lớn ion Na+, làm tăng gradient nồng độ Natri qua màng tế bào, giúp \"đẩy\" phân tử TCA ra khỏi vị trí gắn trên kênh Natri và (2) Gây kiềm hóa máu, làm giảm phần TCA ở dạng ion hóa (dạng hoạt động) và tăng phần không ion hóa, giảm sự gắn kết của thuốc vào kênh Natri."
+        },
+        {
+          "q": "Trong bối cảnh ngộ độc TCA, Amiodarone và các thuốc chống loạn nhịp khác nên được sử dụng như thế nào?",
+          "options": [
+            "Dùng Procainamide vì có tác dụng chẹn kênh Natri mạnh",
+            "Tránh thuốc nhóm IA/IC và thuốc kéo dài QT; Lidocaine có thể cân nhắc nếu loạn nhịp thất kháng trị sau Natri bicarbonat",
+            "Dùng Amiodarone thường quy ngay trước Natri bicarbonat",
+            "Phối hợp Flecainide với sốc điện"
+          ],
+          "answer": 1,
+          "explain": "Trong ngộ độc TCA, Natri bicarbonat và sốc điện là nền tảng. Các thuốc chẹn kênh Natri nhóm IA/IC và thuốc kéo dài QT có thể làm độc tính nặng hơn. Lidocaine nhóm IB có thể được cân nhắc khi loạn nhịp thất kháng trị sau kiềm hóa và tối ưu Natri phù hợp. Nhũ tương Lipid hoặc VA-ECMO được xem xét ở sốc kháng trị."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi suy thận mạn bỏ lịch lọc máu đột ngột mất ý thức",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi.<br><br><b>Bệnh sử:</b> Được người nhà đưa vào viện vì mệt mỏi, yếu cơ toàn thân và cảm giác tê bì quanh miệng. Khi đang ở phòng chờ, bệnh nhân đột ngột mất ý thức. Khám ngay lập tức thấy bệnh nhân không đáp ứng, thở ngáp, không bắt được mạch cảnh. Monitor được gắn ngay cho thấy một nhịp tự thất chậm, các phức bộ QRS giãn rộng, không có sóng P rõ, sau đó nhanh chóng chuyển thành hình ảnh sóng sin (sine wave) rồi thành vô tâm thu. Đội cấp cứu tiến hành ép tim ngay lập tức, đặt nội khí quản và tiêm Adrenaline.<br><br><b>Tiền sử:</b> Có tiền sử bệnh thận mạn giai đoạn cuối đang phải lọc máu chu kỳ 3 lần/thành, nhưng đã bỏ một kỳ lọc máu.<br><br><b>Khám lâm sàng:</b> Khám không thấy dấu hiệu ngoại khoa cấp tính.",
+      "questions": [
+        {
+          "q": "Dựa vào bệnh sử, nguyên nhân có khả năng cao nhất gây ngừng tuần hoàn ở bệnh nhân này là gì?",
+          "options": [
+            "Nhồi máu cơ tim",
+            "Tụt đường huyết",
+            "Tăng kali máu nặng",
+            "Tràn khí màng phổi"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh một bệnh nhân suy thận mạn bỏ lọc máu, có các triệu chứng của tăng kali máu (yếu cơ, tê bì) và diễn biến điện tâm đồ từ QRS giãn rộng thành sóng sin rồi vô tâm thu là kinh điển cho ngừng tuần hoàn do tăng kali máu."
+        },
+        {
+          "q": "Cơ chế nào giải thích tại sao tăng kali máu nặng lại gây ngừng tim?",
+          "options": [
+            "Tăng kali máu gây ra tình trạng toan chuyển hóa nặng",
+            "Tăng kali máu gây co thắt các động mạch vành",
+            "Tăng kali máu làm tăng tính co bóp của cơ tim quá mức",
+            "Tăng nồng độ kali ngoại bào làm giảm (đưa về gần ngưỡng hơn) điện thế nghỉ của màng tế bào cơ tim, làm bất hoạt các kênh natri và làm chậm/ngừng dẫn truyền"
+          ],
+          "answer": 3,
+          "explain": "Nồng độ kali ngoại bào cao làm giảm sự chênh lệch điện thế qua màng tế bào lúc nghỉ (làm điện thế nghỉ bớt âm hơn). Khi điện thế nghỉ này tiến gần đến điện thế ngưỡng, các kênh natri phụ thuộc điện thế sẽ chuyển sang trạng thái bất hoạt và không thể mở ra được nữa. Hậu quả là sự khử cực (pha 0) trở nên rất chậm (QRS giãn rộng) và cuối cùng là không thể xảy ra, dẫn đến tim ngừng đập."
+        },
+        {
+          "q": "Trong bối cảnh cấp cứu ngừng tuần hoàn nghĩ do tăng kali máu, thuốc nào cần được tiêm tĩnh mạch ngay lập tức để ổn định màng tế bào cơ tim, ngay cả trước khi có kết quả xét nghiệm?",
+          "options": [
+            "Tiêm Calci tĩnh mạch có thể cân nhắc ngay khi nghi tăng Kali mạnh, đồng thời tiếp tục CPR và xử trí theo thuật toán",
+            "Chờ kết quả Kali rồi mới tiếp tục ép tim",
+            "Chỉ truyền Insulin-Glucose và bỏ qua sốc điện nếu nhịp có thể sốc",
+            "Ngừng hồi sức để chuẩn bị lọc máu"
+          ],
+          "answer": 0,
+          "explain": "Khi ngừng tuần hoàn có bệnh cảnh và ECG rất gợi ý tăng Kali, có thể cân nhắc Calci tĩnh mạch để ổn định màng tim trong khi vẫn tiếp tục CPR, sốc điện khi có chỉ định và điều trị nguyên nhân. AHA lưu ý bằng chứng về lợi ích của Calci, Bicarbonat và Insulin-Glucose trong chính giai đoạn ngừng tim còn chưa chắc chắn; các biện pháp này không thay thế hồi sức chuẩn."
+        },
+        {
+          "q": "Calcium có tác dụng gì trong cấp cứu tăng kali máu?",
+          "options": [
+            "Làm giảm trực tiếp nồng độ Kali huyết thanh",
+            "Đối kháng tác động điện học của Kali lên màng tế bào cơ tim",
+            "Tăng bài tiết Kali qua thận ngay lập tức",
+            "Đưa Kali từ ngoại bào vào nội bào"
+          ],
+          "answer": 1,
+          "explain": "Calci không loại Kali khỏi cơ thể và không làm Kali máu giảm. Thuốc làm ổn định điện thế màng cơ tim, tạo thời gian để triển khai Insulin-Glucose, thuốc chủ vận Beta-2 và lọc máu khi cần."
+        },
+        {
+          "q": "Ngoài việc ổn định màng tế bào cơ tim, biện pháp nào sau đây giúp làm giảm nồng độ kali máu bằng cách di chuyển kali vào trong tế bào?",
+          "options": [
+            "Truyền dịch Natri Clorua 0.9%",
+            "Lọc máu",
+            "Tiêm tĩnh mạch insulin cùng với Glucose",
+            "Dùng thuốc lợi tiểu quai"
+          ],
+          "answer": 2,
+          "explain": "Insulin kích thích bơm Na-K-ATPase trên bề mặt tế bào, làm tăng vận chuyển kali từ ngoại bào vào nội bào. Glucose được truyền cũng để tránh hạ đường huyết do insulin. Đây là một trong những biện pháp chính để làm giảm nhanh nồng độ kali trong máu. Lọc máu là biện pháp thải kali hiệu quả nhất nhưng cần thời gian để chuẩn bị."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 20 tuổi chấn thương ngực trái dẫn đến hoạt động điện vô mạch",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 20 tuổi.<br><br><b>Bệnh sử:</b> Bị đâm vào ngực trái trong một vụ ẩu đả, được đưa vào phòng cấp cứu. Lúc vào, bệnh nhân tỉnh nhưng kích thích, vật vã, khó thở dữ dội, tím tái. Bệnh nhân nhanh chóng mất ý thức, monitor cho thấy nhịp xoang nhanh nhưng không bắt được mạch cảnh (Hoạt động điện vô mạch - PEA). Đội cấp cứu bắt đầu ép tim.<br><br><b>Khám lâm sàng:</b> Sinh hiệu: mạch nhanh nhỏ khó bắt 140 lần/phút, huyết áp 60/40 mmHg, nhịp thở 35 lần/phút, SpO₂ 85% qua mask oxy. Khám thấy tĩnh mạch cổ nổi rõ, khí quản bị đẩy lệch sang bên phải, lồng ngực trái gõ vang, rì rào phế nang phổi trái mất hoàn toàn. Tim nghe mờ.",
+      "questions": [
+        {
+          "q": "Nguyên nhân gây ngừng tuần hoàn (PEA) ở bệnh nhân này là gì?",
+          "options": [
+            "Chèn ép tim cấp do vết thương tim",
+            "Sốc mất máu",
+            "Dập não",
+            "Tràn khí màng phổi áp lực"
+          ],
+          "answer": 3,
+          "explain": "Bệnh cảnh một bệnh nhân chấn thương ngực có suy hô hấp cấp, sốc, tĩnh mạch cổ nổi, khí quản lệch, mất rì rào phế nang và gõ vang một bên là kinh điển cho tràn khí màng phổi áp lực (Tension Pneumothorax). Đây là một trong các nguyên nhân gây ngừng tuần hoàn có thể điều trị được (nhóm H và T)."
+        },
+        {
+          "q": "Cơ chế chính gây ra trụy tuần hoàn trong tràn khí màng phổi áp lực là gì?",
+          "options": [
+            "Áp lực cao trong khoang màng phổi đẩy lệch trung thất, làm gập góc và chèn ép các tĩnh mạch lớn, cản trở máu tĩnh mạch trở về tim",
+            "Suy hô hấp cấp do xẹp phổi",
+            "Mất máu ồ ạt vào khoang màng phổi",
+            "Kích thích thần kinh phế vị gây nhịp tim chậm"
+          ],
+          "answer": 0,
+          "explain": "Đây là cơ chế của sốc tắc nghẽn. Không khí tràn vào khoang màng phổi một chiều và không thoát ra được, làm tăng áp lực dương liên tục. Áp lực này làm xẹp phổi cùng bên và đẩy toàn bộ trung thất (tim, các mạch máu lớn) sang bên đối diện. Sự dịch chuyển này làm gập góc tĩnh mạch chủ trên và dưới, ngăn cản máu trở về nhĩ phải, làm giảm đột ngột tiền gánh và cung lượng tim, dẫn đến trụy tuần hoàn."
+        },
+        {
+          "q": "Hành động can thiệp nào là cấp cứu tối khẩn cấp và phải được thực hiện ngay lập tức, ngay cả khi đang ép tim?",
+          "options": [
+            "Chụp X-quang ngực tại giường",
+            "Chọc kim giải áp khoang màng phổi",
+            "Đặt ống dẫn lưu màng phổi",
+            "Mở ngực cấp cứu"
+          ],
+          "answer": 1,
+          "explain": "Tràn khí màng phổi áp lực là một chẩn đoán lâm sàng và không được phép trì hoãn can thiệp để chờ chẩn đoán hình ảnh. Chọc kim giải áp là một thủ thuật nhanh chóng, cứu mạng, giúp chuyển tràn khí màng phổi áp lực thành tràn khí màng phổi hở, giải quyết ngay lập tức tình trạng sốc tắc nghẽn và cho phép tim được đổ đầy trở lại."
+        },
+        {
+          "q": "Vị trí chính xác để thực hiện chọc kim giải áp là ở đâu?",
+          "options": [
+            "Chỉ khoang liên sườn 2 đường giữa đòn bất kể độ dày thành ngực",
+            "Khoang liên sườn 7-8 đường nách sau",
+            "Khoang liên sườn 4-5 đường nách trước hoặc giữa, chọc ngay trên bờ trên xương sườn",
+            "Khoang liên sườn 1 sát xương ức"
+          ],
+          "answer": 2,
+          "explain": "Trong tràn khí màng phổi áp lực, giải áp không được trì hoãn để chờ hình ảnh. Vị trí thành ngực bên ở khoang liên sườn 4-5, đường nách trước hoặc giữa, thường có tỷ lệ thành công cao; chọc trên bờ trên xương sườn để tránh bó mạch thần kinh. Sau đó cần đặt dẫn lưu màng phổi."
+        },
+        {
+          "q": "Hoạt động điện vô mạch (PEA) được định nghĩa là gì?",
+          "options": [
+            "Không có cả hoạt động điện và hoạt động cơ học của tim",
+            "Nhịp tim rất chậm dưới 40 lần/phút",
+            "Một dạng của rung thất sóng nhỏ",
+            "Có hoạt động điện có tổ chức trên monitor nhưng không có mạch trung tâm sờ thấy"
+          ],
+          "answer": 3,
+          "explain": "PEA là một chẩn đoán lâm sàng, được xác định khi trên monitor có một nhịp tim có tổ chức (bất kỳ nhịp nào trừ VF, VT vô mạch và vô tâm thu) nhưng khi kiểm tra mạch trung tâm (mạch cảnh, mạch bẹn) thì không có. Điều này có nghĩa là tim vẫn có hoạt động điện nhưng hoạt động cơ học không đủ mạnh để tạo ra cung lượng tim và mạch đập."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 68 tuổi hậu phẫu thay khớp háng đột ngột ngừng tuần hoàn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 68 tuổi.<br><br><b>Bệnh sử:</b> Hậu phẫu thay khớp háng ngày thứ 5, đột ngột kêu khó thở dữ dội và đau ngực. Bệnh nhân nhanh chóng trở nên tím tái, lú lẫn rồi mất ý thức. Tại giường bệnh, bệnh nhân được xác định ngừng thở, không có mạch. Monitor cho thấy nhịp xoang nhanh. Đội cấp cứu bắt đầu hồi sức tim phổi. Bệnh nhân được đặt nội khí quản, thở máy 100% oxy nhưng SpO₂ chỉ đạt 80%.<br><br><b>Tiền sử:</b> Phẫu thuật thay khớp háng cách 5 ngày, bất động tại giường.<br><br><b>Khám lâm sàng:</b> Khám nhanh trong lúc CPR thấy chân phải của bệnh nhân (bên không mổ) sưng nề, ấn lõm, chu vi lớn hơn chân trái. Khám tim phổi không có gì đặc biệt do đang ép tim.<br><br><b>Xét nghiệm:</b> Siêu âm tim nhanh tại giường (POCUS) cho thấy thất phải giãn rất to, giảm động nặng và có dấu hiệu McConnell (giảm động thành tự do thất phải nhưng mỏm tim vẫn co bóp).",
+      "questions": [
+        {
+          "q": "Nguyên nhân rất có thể gây ngừng tuần hoàn (PEA) ở bệnh nhân này là gì?",
+          "options": [
+            "Thuyên tắc phổi diện rộng",
+            "Nhồi máu cơ tim cấp",
+            "Sốc nhiễm khuẩn",
+            "Xuất huyết nội"
+          ],
+          "answer": 0,
+          "explain": "Bệnh cảnh một bệnh nhân có yếu tố nguy cơ cao (phẫu thuật lớn, bất động), đột ngột khó thở, đau ngực rồi ngừng tuần hoàn, có dấu hiệu của huyết khối tĩnh mạch sâu và suy thất phải cấp trên siêu âm là cực kỳ điển hình cho thuyên tắc phổi diện rộng."
+        },
+        {
+          "q": "Cơ chế chính gây ra ngừng tuần hoàn trong thuyên tắc phổi diện rộng là gì?",
+          "options": [
+            "Phản xạ phế vị gây ngừng tim",
+            "Tắc nghẽn cấp tính động mạch phổi gây suy thất phải cấp và sốc tắc nghẽn",
+            "Suy hô hấp cấp do giảm trao đổi khí",
+            "Mất máu do xuất huyết phổi"
+          ],
+          "answer": 1,
+          "explain": "Khi một cục huyết khối lớn làm tắc các nhánh chính của động mạch phổi, hậu gánh của thất phải tăng lên đột ngột và dữ dội. Thất phải (vốn có thành mỏng và không quen với áp lực cao) sẽ bị giãn ra, giảm co bóp và suy cấp. Điều này làm giảm lượng máu bơm sang thất trái, gây giảm cung lượng tim và sốc tắc nghẽn, dẫn đến ngừng tuần hoàn."
+        },
+        {
+          "q": "Yếu tố nguy cơ nào của bệnh nhân này là quan trọng nhất cho việc hình thành huyết khối tĩnh mạch sâu?",
+          "options": [
+            "Tuổi cao",
+            "Giới tính nữ",
+            "Tình trạng bất động sau phẫu thuật lớn ở chi dưới",
+            "Bệnh nền"
+          ],
+          "answer": 2,
+          "explain": "Bộ ba Virchow bao gồm ứ trệ tuần hoàn, tổn thương nội mạc và tăng đông. Tình trạng bất động sau phẫu thuật thay khớp háng gây ứ trệ máu tĩnh mạch ở chi dưới một cách nghiêm trọng, là yếu tố nguy cơ mạnh mẽ nhất thúc đẩy sự hình thành huyết khối tĩnh mạch sâu (DVT), nguồn gốc của hầu hết các ca thuyên tắc phổi."
+        },
+        {
+          "q": "Trong bối cảnh ngừng tuần hoàn nghi do thuyên tắc phổi, liệu pháp nào sau đây có thể được xem xét sử dụng để giải quyết nguyên nhân?",
+          "options": [
+            "Thuốc kháng đông Heparin",
+            "Đặt màng lọc tĩnh mạch chủ dưới",
+            "Phẫu thuật lấy huyết khối cấp cứu",
+            "Thuốc tiêu sợi huyết (ví dụ: Alteplase)"
+          ],
+          "answer": 3,
+          "explain": "Theo hướng dẫn của AHA, trong ngừng tuần hoàn do thuyên tắc phổi đã được xác nhận hoặc nghi ngờ cao, việc sử dụng thuốc tiêu sợi huyết đường toàn thân có thể được cân nhắc. Mục tiêu là làm tan cục huyết khối, tái thông tuần hoàn phổi và đảo ngược tình trạng sốc tắc nghẽn. Tuy nhiên, quyết định này cần cân nhắc nguy cơ chảy máu."
+        },
+        {
+          "q": "Dấu hiệu McConnell trên siêu âm tim có ý nghĩa gì?",
+          "options": [
+            "Là một dấu hiệu có độ đặc hiệu tương đối cao cho thuyên tắc phổi cấp, phản ánh tình trạng quá tải áp lực và thiếu máu cục bộ của thất phải",
+            "Là dấu hiệu bệnh căn của nhồi máu cơ tim thất phải",
+            "Là dấu hiệu của chèn ép tim cấp",
+            "Là một dấu hiệu bình thường"
+          ],
+          "answer": 0,
+          "explain": "Dấu hiệu McConnell (sự tương phản giữa thành tự do thất phải giảm động/vô động và mỏm tim vẫn co bóp bình thường hoặc tăng động) được cho là do sự tăng áp lực đột ngột trong buồng thất phải kết hợp với sự co kéo của mỏm tim bởi thất trái vẫn hoạt động tốt. Dù không phải bệnh căn, đây là một dấu hiệu rất gợi ý thuyên tắc phổi cấp trong bối cảnh lâm sàng phù hợp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 42 tuổi vô tâm thu do hạ thân nhiệt nặng ngoài trời",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 42 tuổi.<br><br><b>Bệnh sử:</b> Được tìm thấy nằm bất động ngoài trời trong một đêm mùa đông lạnh giá ở Hà Nội, nhiệt độ ngoài trời khoảng 10°C. Tại hiện trường, bệnh nhân không đáp ứng, da rất lạnh, tím tái, cứng. Nhân viên cấp cứu xác định bệnh nhân không thở, mạch cảnh không bắt được. Đội cấp cứu bắt đầu ép tim, đảm bảo đường thở và vận chuyển bệnh nhân đến bệnh viện, đồng thời áp dụng các biện pháp làm ấm thụ động (đắp chăn khô, ấm).<br><br><b>Khám lâm sàng:</b> Monitor cho thấy nhịp tim rất chậm, khoảng 20 lần/phút, phức bộ QRS giãn rộng, sau đó chuyển thành vô tâm thu. Nhiệt độ trung tâm đo được là 26°C.",
+      "questions": [
+        {
+          "q": "Nguyên nhân chính gây ngừng tuần hoàn ở bệnh nhân này là gì?",
+          "options": [
+            "Nhồi máu cơ tim",
+            "Hạ thân nhiệt nặng",
+            "Ngộ độc rượu",
+            "Chấn thương đầu"
+          ],
+          "answer": 1,
+          "explain": "Bệnh cảnh tìm thấy bệnh nhân trong môi trường lạnh, thân nhiệt trung tâm rất thấp, và diễn biến rối loạn nhịp từ nhịp chậm đến vô tâm thu là kinh điển cho ngừng tuần hoàn do hạ thân nhiệt."
+        },
+        {
+          "q": "Cơ chế nào giải thích tại sao hạ thân nhiệt nặng lại gây ngừng tim?",
+          "options": [
+            "Gây co thắt mạch máu não",
+            "Gây ra tình trạng nhiễm kiềm hô hấp",
+            "Làm giảm ngưỡng rung thất, giảm tính tự động của nút xoang và làm chậm dẫn truyền, cuối cùng dẫn đến nhịp chậm nặng và vô tâm thu",
+            "Làm tăng nhu cầu oxy của cơ tim"
+          ],
+          "answer": 2,
+          "explain": "Nhiệt độ thấp làm chậm tất cả các quá trình chuyển hóa và điện sinh lý của tim. Nó làm giảm hoạt động của các kênh ion, làm chậm tốc độ khử cực của nút xoang (gây nhịp chậm), kéo dài thời gian dẫn truyền (PR, QRS, QT giãn rộng), và làm cơ tim trở nên rất dễ bị kích thích, dễ bị rung thất. Ở nhiệt độ rất thấp (<28°C), tim có thể ngừng đập hoàn toàn (vô tâm thu)."
+        },
+        {
+          "q": "Trong công tác hồi sức ngừng tuần hoàn do hạ thân nhiệt, có điểm gì khác biệt so với phác đồ ACLS thông thường?",
+          "options": [
+            "Ngừng ép tim cho đến khi nhiệt độ đạt 35°C",
+            "Dừng hồi sức sau 10 phút nếu vô tâm thu",
+            "Dùng liều Adrenaline gấp đôi để bù giảm chuyển hóa",
+            "Có thể thử một lần sốc điện; nếu chưa thành công có thể trì hoãn thêm sốc và Adrenaline cho đến khi nhiệt độ trung tâm đạt khoảng 30°C"
+          ],
+          "answer": 3,
+          "explain": "Trong ngừng tuần hoàn do hạ thân nhiệt, tiếp tục CPR và làm ấm tích cực. Hướng dẫn ACLS cho phép thử một lần sốc điện rồi có thể trì hoãn thêm sốc, và có thể trì hoãn Adrenaline, cho đến khi nhiệt độ trung tâm đạt khoảng 30°C."
+        },
+        {
+          "q": "Nguyên tắc quan trọng nhất trong hồi sức cho bệnh nhân ngừng tuần hoàn do hạ thân nhiệt là gì?",
+          "options": [
+            "\"Không ai được xem là đã chết cho đến khi họ được làm ấm và chết\"",
+            "Tập trung vào việc dùng thuốc vận mạch",
+            "Nhanh chóng vận chuyển đến bệnh viện gần nhất",
+            "Chỉ cần làm ấm thụ động là đủ"
+          ],
+          "answer": 0,
+          "explain": "Đây là một nguyên tắc cốt lõi. Hạ thân nhiệt có tác dụng bảo vệ não và các cơ quan khác bằng cách làm giảm nhu cầu oxy và chuyển hóa. Đã có nhiều trường hợp bệnh nhân ngừng tuần hoàn kéo dài do hạ thân nhiệt nhưng vẫn hồi phục hoàn toàn sau khi được làm ấm và hồi sức đúng cách. Do đó, nỗ lực hồi sức phải được tiếp tục cho đến khi bệnh nhân được làm ấm đến nhiệt độ gần bình thường (32-35°C)."
+        },
+        {
+          "q": "Phương pháp làm ấm nào là hiệu quả nhất cho bệnh nhân hạ thân nhiệt nặng tại bệnh viện?",
+          "options": [
+            "Đắp chăn là đủ cho mọi trường hợp",
+            "Làm ấm ngoài cơ thể bằng ECMO hoặc tuần hoàn tim phổi khi ngừng tuần hoàn hoặc hạ thân nhiệt nặng, nếu có điều kiện",
+            "Truyền dịch ấm đơn độc luôn hiệu quả nhất",
+            "Xoa bóp mạnh các chi để tăng tuần hoàn"
+          ],
+          "answer": 1,
+          "explain": "Ở hạ thân nhiệt nặng kèm ngừng tuần hoàn, ECLS/ECMO hoặc tuần hoàn tim phổi vừa hỗ trợ tưới máu vừa làm ấm lõi có kiểm soát và là phương án ưu tiên tại trung tâm có khả năng triển khai."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 15 tuổi ngừng tim sau cú va chạm cơ học trực tiếp vào lồng ngực",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 15 tuổi.<br><br><b>Bệnh sử:</b> Đang tham gia một trận bóng chuyền thì bị bóng đập mạnh trực tiếp vào giữa ngực. Ngay lập tức, cô bé loạng choạng vài bước rồi gục xuống sân, bất tỉnh. Huấn luyện viên chạy đến, thấy cô bé không thở, không có mạch. Một phụ huynh là bác sĩ có mặt tại hiện trường đã tiến hành ép tim ngay lập tức và gọi cấp cứu. Máy khử rung tim tự động ngoài cơ thể (AED) được mang đến, phân tích nhịp và khuyến cáo sốc điện. Sau một cú sốc điện và tiếp tục CPR, cô bé có mạch trở lại trước khi đội cấp cứu đến.<br><br><b>Tiền sử:</b> Khỏe mạnh, không có bệnh lý tim mạch từ trước.",
+      "questions": [
+        {
+          "q": "Tình trạng ngừng tim đột ngột sau một cú đấm hoặc va chạm vào vùng trước ngực được gọi là gì?",
+          "options": [
+            "Dập tim (Cardiac contusion)",
+            "Chèn ép tim cấp",
+            "Commotio cordis (Rung thất do chấn động)",
+            "Cơn ngất phế vị"
+          ],
+          "answer": 2,
+          "explain": "Commotio cordis là một thuật ngữ Latin có nghĩa là \"sự chấn động của tim\", dùng để chỉ tình trạng ngừng tim đột ngột do rung thất, gây ra bởi một cú va chạm vào vùng trước ngực ở một người hoàn toàn không có bệnh tim cấu trúc."
+        },
+        {
+          "q": "Cơ chế gây ra rung thất trong Commotio cordis là gì?",
+          "options": [
+            "Do gãy xương ức chọc vào tim",
+            "Do chảy máu vào màng ngoài tim",
+            "Do sự hoảng sợ tột độ gây ra rối loạn nhịp",
+            "Do một tác động cơ học không xuyên thấu xảy ra đúng vào một thời điểm cực kỳ ngắn và nhạy cảm trong chu kỳ tim (giai đoạn tái cực sớm của thất)"
+          ],
+          "answer": 3,
+          "explain": "Đây là một sự kiện \"thời-điện-cơ học\". Cú va chạm làm tăng áp lực đột ngột tại chỗ, được cho là đã kích hoạt các kênh ion nhạy cảm với lực căng trên màng tế bào cơ tim. Nếu sự kích hoạt này xảy ra đúng vào sườn lên của sóng T trên ECG (tương ứng với giai đoạn tái cực của thất, một thời điểm rất dễ bị tổn thương về điện học), nó sẽ tạo ra một dòng điện bất thường gây ra rung thất."
+        },
+        {
+          "q": "Yếu tố nào sau đây KHÔNG phải là một yếu tố quyết định sự xảy ra của Commotio cordis?",
+          "options": [
+            "Bệnh nhân có bệnh tim cấu trúc từ trước",
+            "Vị trí của cú va chạm (trực tiếp trên tim)",
+            "Cường độ của cú va chạm (không cần quá mạnh)",
+            "Thời điểm của cú va chạm trong chu kỳ điện của tim"
+          ],
+          "answer": 0,
+          "explain": "Một trong những đặc điểm định nghĩa của Commotio cordis là nó xảy ra trên một trái tim hoàn toàn bình thường về mặt cấu trúc. Những người bị bệnh tim cấu trúc (bệnh cơ tim phì đại, bệnh động mạch vành...) cũng có thể bị ngừng tim khi gắng sức, nhưng đó không phải là Commotio cordis."
+        },
+        {
+          "q": "Nhịp tim gây ngừng tuần hoàn trong Commotio cordis hầu như luôn luôn là gì?",
+          "options": [
+            "Vô tâm thu",
+            "Rung thất (Ventricular Fibrillation - VF)",
+            "Hoạt động điện vô mạch (PEA)",
+            "Nhịp chậm xoang"
+          ],
+          "answer": 1,
+          "explain": "Cơ chế gây ngừng tim trong Commotio cordis là gây ra một sự bất ổn định điện học tức thì, dẫn đến rung thất. Đây là lý do tại sao máy AED (phát hiện được rung thất) lại có thể cứu sống bệnh nhân."
+        },
+        {
+          "q": "Yếu tố nào là quan trọng nhất quyết định sự sống còn của bệnh nhân bị Commotio cordis?",
+          "options": [
+            "Tuổi của bệnh nhân",
+            "Dùng thuốc chống loạn nhịp",
+            "Hồi sức tim phổi (CPR) và sốc điện sớm",
+            "Vận chuyển nhanh đến bệnh viện"
+          ],
+          "answer": 2,
+          "explain": "Vì trái tim không bị tổn thương về mặt cấu trúc, tiên lượng của Commotio cordis có thể rất tốt nếu được xử trí kịp thời. Yếu tố quyết định là sự nhận biết nhanh chóng tình trạng ngừng tim, bắt đầu CPR ngay lập tức để duy trì tưới máu não, và sốc điện sớm (trong vòng 3-5 phút) để chấm dứt tình trạng rung thất và phục hồi nhịp tim bình thường."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 5 tuổi đột ngột suy hô hấp do dị vật đường thở",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 5 tuổi.<br><br><b>Bệnh sử:</b> Đang ăn tối cùng gia đình thì đột ngột ho sặc sụa, ôm cổ, mặt tím tái, không thể nói hay khóc được. Người mẹ cố gắng vỗ lưng nhưng không hiệu quả. Bé nhanh chóng trở nên mềm nhũn và bất tỉnh. Người bố đặt bé nằm xuống sàn, gọi cấp cứu và bắt đầu ép tim. Khi đội cấp cứu đến nơi, bé đã tím tái toàn thân, không thở, không mạch.<br><br><b>Tiền sử:</b> Khỏe mạnh.<br><br><b>Khám lâm sàng:</b> Nhân viên y tế tiến hành đặt đèn thanh quản, phát hiện và dùng kẹp Magill gắp ra một viên kẹo cứng hình tròn bịt kín đường thở ở vùng hạ thanh môn. Sau khi đường thở được giải quyết, bé được thông khí bằng bóng-mask và tiếp tục CPR. Monitor cho thấy hoạt động điện vô mạch (PEA).",
+      "questions": [
+        {
+          "q": "Nguyên nhân chính gây ngừng tuần hoàn ở trẻ này là gì?",
+          "options": [
+            "Phản ứng dị ứng",
+            "Chấn thương đầu",
+            "Rối loạn nhịp tim bẩm sinh",
+            "Thiếu oxy (Hypoxia) do tắc nghẽn đường thở hoàn toàn"
+          ],
+          "answer": 3,
+          "explain": "Bệnh cảnh một đứa trẻ khỏe mạnh đột ngột không thở được, tím tái và bất tỉnh sau khi ăn là kinh điển cho tắc nghẽn đường thở do dị vật. Tình trạng thiếu oxy cấp tính và nghiêm trọng là nguyên nhân trực tiếp dẫn đến ngừng tuần hoàn."
+        },
+        {
+          "q": "Cơ chế tiến triển từ tắc nghẽn đường thở đến ngừng tim ở trẻ em thường là gì?",
+          "options": [
+            "Tắc nghẽn $\\rightarrow$ Thiếu oxy máu nặng $\\rightarrow$ Nhịp tim chậm $\\rightarrow$ Vô tâm thu/PEA",
+            "Tắc nghẽn $\\rightarrow$ Rung thất $\\rightarrow$ Ngừng tim",
+            "Tắc nghẽn $\\rightarrow$ Tăng CO₂ máu $\\rightarrow$ Toan hô hấp $\\rightarrow$ Ngừng tim",
+            "Tắc nghẽn $\\rightarrow$ Kích thích phế vị $\\rightarrow$ Ngừng tim đột ngột"
+          ],
+          "answer": 0,
+          "explain": "Khác với người lớn (nguyên nhân ngừng tim chủ yếu do tim mạch), trẻ em thường ngừng tim do các nguyên nhân hô hấp. Chuỗi sự kiện điển hình là: tắc nghẽn đường thở hoặc suy hô hấp $\\rightarrow$ thiếu oxy máu và toan máu $\\rightarrow$ tim đập chậm lại để tiết kiệm oxy (nhịp chậm) $\\rightarrow$ cuối cùng là ngừng đập hoàn toàn (vô tâm thu) hoặc còn hoạt động điện yếu ớt không hiệu quả (PEA)."
+        },
+        {
+          "q": "Trước khi trẻ bất tỉnh, biện pháp sơ cứu phù hợp cho trẻ trên 1 tuổi bị hóc dị vật đường thở hoàn toàn là gì?",
+          "options": [
+            "Cố gắng móc họng bằng ngón tay",
+            "Vỗ lưng và ấn bụng (nghiệm pháp Heimlich)",
+            "Cho trẻ uống nước",
+            "Đặt trẻ nằm đầu thấp"
+          ],
+          "answer": 1,
+          "explain": "Theo hướng dẫn sơ cứu, đối với trẻ trên 1 tuổi còn tỉnh, cần kết hợp 5 lần vỗ lưng (giữa hai xương bả vai) và 5 lần ấn bụng (nghiệm pháp Heimlich) một cách luân phiên cho đến khi dị vật được tống ra hoặc trẻ bất tỉnh."
+        },
+        {
+          "q": "Tại sao nhịp ngừng tuần hoàn ở trẻ em do suy hô hấp thường là vô tâm thu hoặc PEA, thay vì rung thất?",
+          "options": [
+            "Vì tim của trẻ em có cấu trúc khác người lớn",
+            "Vì trẻ em có hệ thần kinh giao cảm chưa trưởng thành",
+            "Vì tình trạng thiếu oxy kéo dài làm cạn kiệt năng lượng dự trữ của tế bào cơ tim, khiến tim không còn khả năng duy trì hoạt động điện có tổ chức hay rung thất",
+            "Đây là một quan sát ngẫu nhiên"
+          ],
+          "answer": 2,
+          "explain": "Rung thất là một hoạt động điện hỗn loạn nhưng cần năng lượng (ATP) để duy trì. Trong ngừng tim do nguyên nhân hô hấp, tình trạng thiếu oxy diễn ra từ từ và kéo dài, làm cạn kiệt hoàn toàn dự trữ năng lượng của tim. Do đó, tim không còn đủ năng lượng để \"rung\" và thường ngừng lại ở trạng thái vô tâm thu hoặc PEA. Ngược lại, trong ngừng tim do tim mạch (như nhồi máu cơ tim), tim vẫn còn năng lượng và thường ngừng ở dạng rung thất."
+        },
+        {
+          "q": "Sau khi đã giải quyết được tắc nghẽn đường thở, ưu tiên tiếp theo trong quá trình hồi sức là gì?",
+          "options": [
+            "Sốc điện",
+            "Tiêm Calcium",
+            "Làm ấm bệnh nhân",
+            "Tiếp tục ép tim chất lượng cao và thông khí hiệu quả"
+          ],
+          "answer": 3,
+          "explain": "Vì nguyên nhân ban đầu là thiếu oxy, sau khi đã tái lập được đường thở, việc cung cấp oxy (thông khí) và tạo ra dòng máu (ép tim) để đưa oxy đến các mô là cực kỳ quan trọng để có thể phục hồi chức năng tim và não. Vì nhịp là PEA (không sốc điện được), CPR chất lượng cao là can thiệp nền tảng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 25 tuổi ngừng tuần hoàn đột ngột khi đang ăn tại nhà hàng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 25 tuổi.<br><br><b>Bệnh sử:</b> Đang ăn hải sản tại một nhà hàng thì đột ngột cảm thấy khó thở, ngứa ran trong miệng và nổi ban đỏ toàn thân. Cô nhanh chóng trở nên khó khè, nói khó, cảm thấy chóng mặt. Khi đội cấp cứu tới, bệnh nhân đã lơ mơ, thở rất yếu, môi và đầu chi tím. Bệnh nhân nhanh chóng ngừng thở, mất mạch cảnh. Monitor cho thấy hoạt động điện vô mạch (PEA).<br><br><b>Tiền sử:</b> Có tiền sử dị ứng với tôm.<br><br><b>Khám lâm sàng:</b> Mạch nhanh nhẹ 150 lần/phút, huyết áp không đo được, SpO₂ không bắt được tín hiệu.",
+      "questions": [
+        {
+          "q": "Bệnh nhân đang bị ngừng tuần hoàn do nguyên nhân gì?",
+          "options": [
+            "Sốc phản vệ",
+            "Ngộ độc thực phẩm",
+            "Hen phế quản ác tính",
+            "Nhồi máu cơ tim"
+          ],
+          "answer": 0,
+          "explain": "Bệnh cảnh khởi phát cấp tính sau khi tiếp xúc với dị nguyên đã biết (hải sản), với các triệu chứng ở nhiều hệ cơ quan (da, hô hấp, tim mạch) và diễn tiến nhanh đến trụy tuần hoàn là kinh điển của sốc phản vệ."
+        },
+        {
+          "q": "Cơ chế chính gây ra trụy tuần hoàn và ngừng tim trong sốc phản vệ là gì?",
+          "options": [
+            "Suy tim cấp do độc tố của hải sản",
+            "Sự giải phóng ồ ạt các chất trung gian hóa học (histamin, leukotriene) gây giãn mạch toàn thân, tăng tính thấm thành mạch, và co thắt phế quản",
+            "Phản xạ phế vị gây nhịp tim chậm",
+            "Tắc nghẽn đường thở do dị vật"
+          ],
+          "answer": 1,
+          "explain": "Sốc phản vệ là một phản ứng dị ứng type 1 quá mức. Dị nguyên gắn vào IgE trên bề mặt tế bào mast và basophil, gây hoạt hóa và giải phóng hàng loạt các chất trung gian. Histamin và các chất khác gây giãn mạch toàn thân (gây tụt huyết áp), tăng tính thấm thành mạch (gây phù nề, thoát huyết tương), co thắt cơ trơn phế quản (gây khó thở, khò khè), và có thể ức chế trực tiếp cơ tim."
+        },
+        {
+          "q": "Trong bối cảnh ngừng tuần hoàn nghi do sốc phản vệ, ngoài CPR theo phác đồ chuẩn, thuốc nào là quan trọng nhất cần được tiêm ngay lập tức?",
+          "options": [
+            "Thuốc kháng histamin (Diphenhydramine)",
+            "Corticoid (Hydrocortisone)",
+            "Adrenaline (Epinephrine)",
+            "Thuốc giãn phế quản (Salbutamol)"
+          ],
+          "answer": 2,
+          "explain": "Adrenaline là thuốc duy nhất có thể đảo ngược nhanh chóng các biểu hiện sinh lý bệnh của sốc phản vệ và là thuốc điều trị hàng đầu. Trong ngừng tuần hoàn do phản vệ, Adrenaline vẫn được tiêm theo liều của phác đồ CPR (1mg mỗi 3-5 phút), nhưng việc nhận biết sớm nguyên nhân và sử dụng nó ngay cả trước khi ngưng tim là tối quan trọng."
+        },
+        {
+          "q": "Tại sao Adrenaline lại là thuốc cứu mạng trong sốc phản vệ?",
+          "options": [
+            "Vì nó có tác dụng an thần",
+            "Vì nó giúp ổn định màng tế bào mast",
+            "Vì nó là một chất kháng histamin mạnh",
+            "Adrenaline đồng thời co mạch, hỗ trợ co bóp tim và giãn phế quản"
+          ],
+          "answer": 3,
+          "explain": "Adrenaline có các tác dụng dược lý hoàn hảo để đối phó với sốc phản vệ. Tác dụng co mạch mạnh (alpha-1) giúp chống lại tình trạng giãn mạch và nâng huyết áp. Tác dụng tăng sức co bóp và nhịp tim (beta-1) giúp cải thiện cung lượng tim. Tác dụng giãn phế quản (beta-2) giúp giải quyết tình trạng co thắt đường thở. Nó cũng giúp làm giảm giải phóng thêm các chất trung gian từ tế bào mast."
+        },
+        {
+          "q": "Sốc phản vệ gây ra loại sốc nào theo phân loại huyết động?",
+          "options": [
+            "Sốc phân bố",
+            "Sốc tim",
+            "Sốc giảm thể tích",
+            "Sốc tắc nghẽn"
+          ],
+          "answer": 0,
+          "explain": "Sốc phản vệ là một dạng kinh điển của sốc phân bố. Nguyên nhân chính là do sự giãn nở của hệ thống mạch máu, dẫn đến thể tích tuần hoàn hiệu dụng bị thiếu hụt trầm trọng mặc dù tổng lượng dịch trong cơ thể không đổi (thiếu thể tích tương đối). Tình trạng thoát huyết tương ra ngoài lòng mạch cũng góp phần gây giảm thể tích thực sự."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi đột tử do loạn sản thất phải khi đang vận động nặng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 35 tuổi.<br><br><b>Bệnh sử:</b> Đang chạy marathon thì đột ngột ôm ngực và ngã quỵ. Nhân viên y tế có mặt ngay lập tức, xác định bệnh nhân bất tỉnh, ngừng thở, không mạch. Monitor cho thấy rung thất (VF). Bệnh nhân được sốc điện ngay lập tức và CPR được tiến hành. Sau 1 chu kỳ CPR, bệnh nhân có tuần hoàn trở lại.<br><br><b>Tiền sử:</b> Gia đình không có gì đặc biệt.<br><br><b>Xét nghiệm:</b> Tại bệnh viện, điện tâm đồ của bệnh nhân lúc nghỉ ngơi cho thấy hình ảnh sóng epsilon ở các chuyển đạo trước tim phải (V1-V3) và sóng T đảo ngược. Siêu âm tim cho thấy thất phải giãn to, phình và giảm động nặng.",
+      "questions": [
+        {
+          "q": "Dựa trên các dữ liệu sau hồi sức, chẩn đoán bệnh lý nền nào là có khả năng nhất gây ngừng tuần hoàn ở bệnh nhân này?",
+          "options": [
+            "Bệnh cơ tim phì đại",
+            "Bệnh loạn sản thất phải gây loạn nhịp (Arrhythmogenic Right Varietal Cardiomyopathy - ARVC)",
+            "Hội chứng Brugada",
+            "Dị dạng động mạch vành bẩm sinh"
+          ],
+          "answer": 1,
+          "explain": "Ngừng tim đột ngột khi gắng sức ở một người trẻ, với nhịp ban đầu là rung thất và các bằng chứng về bất thường cấu trúc và điện học của thất phải (giãn thất phải, sóng epsilon, T đảo ngược ở V1-V3) là bệnh cảnh rất điển hình của ARVC."
+        },
+        {
+          "q": "Cơ chế chính gây ra rung thất và ngừng tim đột ngột ở bệnh nhân ARVC là gì?",
+          "options": [
+            "Rối loạn chức năng kênh ion ở thượng tâm mạc thất phải",
+            "Sự tắc nghẽn đường ra thất trái do vách liên thất phì đại",
+            "Sự thay thế mô cơ tim của thất phải bằng mô mỡ và mô xơ, tạo ra một nền tảng giải phẫu cho các rối loạn nhịp thất nguy hiểm",
+            "Co thắt động mạch vành khi gắng sức"
+          ],
+          "answer": 2,
+          "explain": "ARVC là một bệnh cơ tim di truyền. Do đột biến gen, các tế bào cơ tim của thất phải dần dần chết đi và được thay thế bằng mô mỡ hoặc mô xơ. Sự xen kẽ giữa mô lành và mô sẹo này tạo ra các vùng dẫn truyền chậm và các rào cản điện học, hình thành các vòng vào lại là cơ sở cho các cơn nhịp nhanh thất và rung thất, đặc biệt là khi có sự kích thích của hệ giao cảm lúc gắng sức."
+        },
+        {
+          "q": "Sóng epsilon trên ECG là gì và nó đại diện cho điều gì?",
+          "options": [
+            "Là một sóng delta, biểu hiện của hội chứng Wolff-Parkinson-White",
+            "Là một sóng U nổi bật, biểu hiện của hạ kali máu",
+            "Là sóng T (sóng Osborn), biểu hiện của hạ thân nhiệt",
+            "Là một sóng nhỏ, điện thế thấp ở cuối phức bộ QRS, được cho là biểu hiện của sự khử cực muộn của các vùng cơ tim bị bệnh ở thất phải"
+          ],
+          "answer": 3,
+          "explain": "Sóng epsilon là một dấu hiệu điện tâm đồ có độ đặc hiệu cao (mặc dù độ nhạy thấp) cho ARVC. Nó là một sóng nhỏ, khía, xuất hiện ngay sau phức bộ QRS và trước sóng T ở các chuyển đạo trước tim phải, phản ánh sự hoạt hóa điện học chậm và phân mảnh của các vùng cơ thất phải bị bệnh."
+        },
+        {
+          "q": "ARVC là một trong những nguyên nhân hàng đầu gây đột tử do tim ở đối tượng nào?",
+          "options": [
+            "Vận động viên trẻ tuổi",
+            "Trẻ sơ sinh",
+            "Người lớn tuổi có bệnh mạch vành",
+            "Phụ nữ mang thai"
+          ],
+          "answer": 0,
+          "explain": "Cùng với bệnh cơ tim phì đại, ARVC là một trong những nguyên nhân chính gây ra các ca đột tử do tim được báo chí đưa tin ở các vận động viên trẻ tuổi, trông có vẻ hoàn toàn khỏe mạnh."
+        },
+        {
+          "q": "Biện pháp điều trị nào là hiệu quả nhất để phòng ngừa đột tử cho những bệnh nhân ARVC có nguy cơ cao (ví dụ đã từng bị ngừng tim)?",
+          "options": [
+            "Dùng thuốc chẹn beta giao cảm",
+            "Cấy máy khử rung tim tự động (Implantable Cardioverter-Defibrillator - ICD)",
+            "Dùng thuốc chống loạn nhịp (Amiodarone, Sotalol)",
+            "Triệt đốt các ổ loạn nhịp bằng sóng cao tần (RFA)"
+          ],
+          "answer": 1,
+          "explain": "Máy ICD là thiết bị cứu mạng hiệu quả nhất. Nó được cấy dưới da, có các điện cực đặt vào tim, có khả năng theo dõi nhịp tim liên tục. Khi phát hiện một rối loạn nhịp thất nguy hiểm như nhịp nhanh thất hoặc rung thất, máy sẽ tự động phát ra một cú sốc điện để chuyển nhịp tim trở về bình thường, từ đó cứu sống bệnh nhân."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi đau ngực dữ dội dẫn đến rung thất cấp tính",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi.<br><br><b>Bệnh sử:</b> Đang ngồi xem TV thì đột ngột kêu đau ngực dữ dội rồi ngã quỵ, mất ý thức. Người nhà gọi cấp cứu, khi nhân viên y tế đến nơi sau 8 phút, ghi nhận bệnh nhân nằm bất động, không có nhịp thở tự nhiên, da niêm mạc tím tái, mạch cảnh không bắt được. Kíp cấp cứu tiến hành ngay các bước hồi sinh tim phổi cơ bản (BLS) và kết nối máy theo dõi điện tim.<br><br><b>Tiền sử:</b> Tăng huyết áp và hút thuốc lá nhiều năm.<br><br><b>Khám lâm sàng:</b> Trên monitor hiện sóng điện tim có dạng các đường lượn sóng không đều, biên độ và tần số thay đổi, không xác định được phức bộ QRS.",
+      "questions": [
+        {
+          "q": "Vấn đề ưu tiên xử trí hàng đầu tại thời điểm kíp cấp cứu tiếp cận bệnh nhân là:",
+          "options": [
+            "Thiết lập đường truyền tĩnh mạch lớn",
+            "Đặt ống nội khí quản bảo vệ đường thở",
+            "Ép tim ngoài lồng ngực liên tục",
+            "Tiêm bắp ngay thuốc Adrenalin"
+          ],
+          "answer": 2,
+          "explain": "Với bệnh nhân ngừng tuần hoàn ngoại viện, việc ép tim ngoài lồng ngực chất lượng cao là ưu tiên số 1 để duy trì tưới máu cơ quan đích trước khi có các dụng cụ chuyên dụng."
+        },
+        {
+          "q": "Trên monitor hiện sóng điện tim có dạng các đường lượn sóng không đều, biên độ và tần số thay đổi, không xác định được phức bộ QRS. Cơ chế chính dẫn đến tình trạng này là:",
+          "options": [
+            "Liệt hoàn toàn nút xoang và nút nhĩ thất",
+            "Tắc nghẽn hoàn toàn đường ra thất trái",
+            "Phản xạ cường phó giao cảm quá mức",
+            "Mất tính đồng bộ co bóp cơ thất"
+          ],
+          "answer": 3,
+          "explain": "Hình ảnh mô tả là rung thất (VF), bản chất là sự khử cực hỗn loạn của các tế bào cơ thất khiến tim không thể tống máu hiệu quả."
+        },
+        {
+          "q": "Bước xử trí tiếp theo có ý nghĩa quyết định nhất đối với nhịp tim này là:",
+          "options": [
+            "Sốc điện không đồng bộ 200J (biphasic)",
+            "Tiêm tĩnh mạch Amiodarone 300mg",
+            "Ép tim kết hợp thổi ngạt tỷ lệ 15:2",
+            "Ghi điện tâm đồ 12 chuyển đạo tại chỗ"
+          ],
+          "answer": 0,
+          "explain": "Sốc điện là biện pháp duy nhất giúp chuyển nhịp rung thất về nhịp bình thường trong giai đoạn sớm."
+        },
+        {
+          "q": "Sau lần can thiệp thứ nhất, bệnh nhân vẫn còn tình trạng ngừng tuần hoàn với nhịp tương tự, kíp trực tiếp tục ép tim và thổi ngạt. Thời điểm phù hợp nhất để dùng liều Adrenalin đầu tiên là:",
+          "options": [
+            "Ngay trước cú sốc điện đầu tiên",
+            "After các nỗ lực sốc điện ban đầu không thành công, thường sau cú sốc thứ hai trong thuật toán VF/pVT",
+            "Chỉ sau khi đã đặt nội khí quản",
+            "Chỉ khi EtCO₂ dưới 10 mmHg"
+          ],
+          "answer": 1,
+          "explain": "Với VF/pVT, sốc điện và CPR chất lượng cao được ưu tiên. Adrenaline được dùng sau khi các nỗ lực khử rung ban đầu thất bại, thuật toán thực hành thường đặt liều đầu sau cú sốc thứ hai, rồi lặp lại mỗi 3-5 phút."
+        },
+        {
+          "q": "Trong quá trình hồi sức, một dấu hiệu trên lâm sàng cho thấy có khả năng bệnh nhân đã có sự hồi phục tuần hoàn tự nhiên (ROSC) là:",
+          "options": [
+            "Đồng tử hai bên co nhỏ lại",
+            "Xuất hiện nhịp thở ngáp cá",
+            "Chỉ số EtCO₂ tăng đột ngột > 40 mmHg",
+            "SpO₂ đạt mức 92% qua mask"
+          ],
+          "answer": 2,
+          "explain": "Sự tăng vọt của EtCO₂ là dấu hiệu khách quan và sớm nhất phản ánh cung lượng tim tự nhiên đã phục hồi."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 45 tuổi nằm viện đột ngột ngừng thở và vô tâm thu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 45 tuổi.<br><br><b>Bệnh sử:</b> Đang điều trị nội trú vì viêm phổi nặng, đột ngột mất ý thức, ngừng thở. Kíp trực có mặt ngay lập tức, bắt đầu hồi sức tim phổi và đặt máy theo dõi. Monitor hiển thị một đường thẳng gần như liên tục, có vài sóng P rời rạc nhưng không có phức bộ QRS đi kèm. Mạch bẹn và mạch cảnh đều không bắt được. Bệnh nhân sau đó hồi sức 10 phút, mạch cảnh vẫn không bắt được, monitor hiện nhịp xoang đều tần số 80 lần/phút.<br><br><b>Tiền sử:</b> Viêm phổi nặng đang điều trị nội trú, đã được đặt đường truyền tĩnh mạch ngoại vi từ trước.",
+      "questions": [
+        {
+          "q": "Chẩn đoán tình trạng nhịp tim hiện tại của bệnh nhân là:",
+          "options": [
+            "Phân ly điện cơ",
+            "Nhịp tự thất chậm",
+            "Block nhĩ thất độ III",
+            "Vô tâm thu"
+          ],
+          "answer": 3,
+          "explain": "Đường thẳng trên monitor kết hợp không mạch là biểu hiện của vô tâm thu."
+        },
+        {
+          "q": "Theo hướng dẫn hồi sức tim phổi nâng cao (ACLS), thuốc cần được chỉ định sớm nhất cho bệnh nhân này là:",
+          "options": [
+            "Adrenalin 1mg",
+            "Atropine 1mg",
+            "Calci clorua 1g",
+            "Vasopressin 40 IU"
+          ],
+          "answer": 0,
+          "explain": "Với nhịp không thể sốc (vô tâm thu/PEA), Adrenalin cần được tiêm càng sớm càng tốt."
+        },
+        {
+          "q": "Trong quá trình ép tim, bác sĩ yêu cầu kiểm tra các nguyên nhân có thể đảo ngược được. Nguyên nhân nào sau đây KHÔNG nằm trong nhóm \"5H và 5T\":",
+          "options": [
+            "Tràn khí màng phổi áp lực",
+            "Hạ đường huyết",
+            "Tăng kali máu",
+            "Ngộ độc thuốc"
+          ],
+          "answer": 1,
+          "explain": "Trong phác đồ mới, hạ đường huyết đã được đưa ra khỏi nhóm nguyên nhân chính 5H (dù vẫn cần kiểm soát huyết đường hiệu quả)."
+        },
+        {
+          "q": "Kỹ thuật ép tim nào sau đây được coi là đạt tiêu chuẩn chất lượng cao cho bệnh nhân này:",
+          "options": [
+            "Tần số 80-100 lần/phút, độ lún 3 cm",
+            "Tần số trên 130 lần/phút, độ lún 7 cm",
+            "Tần số 100-120 lần/phút, độ lún 5-6 cm và để lồng ngực nở lại hoàn toàn",
+            "Tần số 100-120 lần/phút, độ lún 3 cm"
+          ],
+          "answer": 2,
+          "explain": "Ép tim người lớn chất lượng cao cần tần số 100-120 lần/phút, độ sâu khoảng 5-6 cm, hạn chế gián đoạn và để lồng ngực nở lại hoàn toàn."
+        },
+        {
+          "q": "Sau 10 phút hồi sức, mạch cảnh vẫn không bắt được, monitor hiện nhịp xoang đều tần số 80 lần/phút. Tình trạng này được gọi là:",
+          "options": [
+            "Hồi phục tuần hoàn tự nhiên",
+            "Hội chứng sau ngừng tuần hoàn",
+            "Nhịp thoát nút nhĩ thất",
+            "Phân ly điện cơ"
+          ],
+          "answer": 3,
+          "explain": "Có hoạt động điện bình thường trên máy nhưng không có mạch ngoại vi (không có hoạt động cơ học) thì chẩn đoán là phân ly điện cơ (PEA)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi ngừng tim do biến chứng tăng kali máu nặng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 70 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì mệt xỉu. Trong lúc đang làm xét nghiệm, bệnh nhân đột ngột ngừng tim. Monitor hiện nhịp nhanh thất vô mạch. Kíp cấp cứu tiến hành sốc điện lần 1 và ép tim. Bệnh nhân được thực hiện sốc điện lần thứ 3 mà vẫn chưa ra nhịp.<br><br><b>Tiền sử:</b> Suy thận mạn giai đoạn 5 chưa lọc máu định kỳ.<br><br><b>Xét nghiệm:</b> Kết quả xét nghiệm máu vừa có: K⁺ 8.2 mmol/L (tăng cực cao), Creatinine 900 µmol/L, pH 7.15 (toan máu).",
+      "questions": [
+        {
+          "q": "Ngoài các bước ACLS chuẩn, xử trí đặc hiệu cần thực hiện ngay cho bệnh nhân này là:",
+          "options": [
+            "Có thể cân nhắc Calci tĩnh mạch sớm khi tăng Kali được nghi ngờ mạnh, đồng thời tiếp tục ACLS và chuẩn bị điều trị hạ Kali/lọc máu",
+            "Chỉ truyền Insulin liều cao mà không kèm Glucose",
+            "Cho uống nhựa trao đổi ion trong khi đang ép tim",
+            "Ngừng ép tim để đặt catheter lọc máu"
+          ],
+          "answer": 0,
+          "explain": "Bệnh cảnh và kết quả xét nghiệm gợi ý tăng Kali nặng gây ngừng tuần hoàn. Calci có thể được cân nhắc sớm để ổn định màng tim, nhưng không thay thế CPR, sốc điện, kiểm soát đường thở và điều trị nguyên nhân. Sau ROSC hoặc khi khả thi cần dùng Insulin-Glucose phối hợp và lọc máu cấp cứu."
+        },
+        {
+          "q": "Cơ chế chính khiến tình trạng điện giải này gây ngừng tim là:",
+          "options": [
+            "Tăng tính hưng phấn cơ nhĩ",
+            "Làm giảm điện thế nghỉ màng tế bào",
+            "Kéo dài thời gian trơ tuyệt đối",
+            "Gây co thắt mạch coronary dữ dội"
+          ],
+          "answer": 1,
+          "explain": "Tăng kali máu làm giảm hiệu thế điện thế nghỉ màng tế bào cơ tim, đưa điện thế nghỉ đến gần hơn với ngưỡng khử cực nhưng cũng đồng thời làm chậm dẫn truyền."
+        },
+        {
+          "q": "Khi thực hiện sốc điện lần thứ 3 cho bệnh nhân này mà vẫn chưa ra nhịp, thuốc chống loạn nhịp ưu tiên lựa chọn là:",
+          "options": [
+            "Magnesi sulfat",
+            "Digoxin",
+            "Amiodarone",
+            "Verapamil"
+          ],
+          "answer": 2,
+          "explain": "Amiodarone là thuốc lựa chọn hàng đầu cho rung thất/nhanh thất vô mạch kháng trị với các biện pháp sốc điện ban đầu."
+        },
+        {
+          "q": "Một trong những thay đổi trên điện tâm đồ thường gặp nhất ngay trước khi bệnh nhân này ngừng tim do nguyên nhân điện giải trên là:",
+          "options": [
+            "Sóng T thấp, dẹt, có sóng U",
+            "Đoạn QT ngắn lại rõ rệt",
+            "Khoảng PR ngắn lại < 0.12 giây",
+            "Phức bộ QRS giãn rộng thành dạng hình sin"
+          ],
+          "answer": 3,
+          "explain": "QRS giãn rộng tạo thành hình sin là dấu hiệu điện sinh lý cực kỳ nguy hiểm, báo hiệu sắp xảy ra ngừng tim do tăng kali máu mức độ nặng."
+        },
+        {
+          "q": "If bệnh nhân này có ROSC sau 20 phút hồi sức, mục tiêu quản lý huyết áp trung bình (MAP) sau ngừng tuần hoàn để đảm bảo tưới máu não là:",
+          "options": [
+            "Ngang hoặc lớn hơn 65 mmHg",
+            "Ngang hoặc lớn hơn 50 mmHg",
+            "Ngang hoặc lớn hơn 90 mmHg",
+            "Ngang hoặc lớn hơn 110 mmHg"
+          ],
+          "answer": 0,
+          "explain": "Mục tiêu MAP ≥ 65 mmHg là mức tối thiểu được khuyến cáo theo đồng thuận quốc tế nhằm duy trì tưới máu các cơ quan đích, đặc biệt là não sau khi phục hồi tuần hoàn tự nhiên."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi ngừng tuần hoàn do điện giật cao thế",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 30 tuổi.<br><br><b>Bệnh sử:</b> Được đưa vào cấp cứu sau khi bị điện giật bởi dòng điện cao thế. Bệnh nhân được chẩn đoán ngừng tuần hoàn tại hiện trường và đang được ép tim trên xe cấp cứu. Khi vào đến khoa, monitor hiện hình ảnh rung thất sóng nhỏ. Sau khi sốc điện xong, kíp trực tiến hành xử trí tiếp theo. Bệnh nhân sau đó có mạch trở lại nhưng rơi vào hôn mê (GCS 6 điểm).",
+      "questions": [
+        {
+          "q": "Yếu tố nào sau đây ảnh hưởng lớn nhất đến khả năng thành công của việc sốc điện chuyển nhịp:",
+          "options": [
+            "Độ dày của lớp mỡ dưới da thành ngực",
+            "Thời gian từ khi ngừng tim đến khi sốc",
+            "Giới tính của bệnh nhân",
+            "Loại gel dẫn điện được sử dụng"
+          ],
+          "answer": 1,
+          "explain": "Thời gian là yếu tố tiên lượng quan trọng nhất trong cấp cứu rung thất, mỗi phút chậm trễ sốc điện sẽ làm giảm từ 7-10% cơ hội sống sót của người bệnh."
+        },
+        {
+          "q": "Trong quá trình sốc điện bằng máy phá rung hai pha (biphasic), mức năng lượng khởi đầu khuyến cáo là:",
+          "options": [
+            "100 J",
+            "360 J",
+            "120-200J",
+            "500 J"
+          ],
+          "answer": 2,
+          "explain": "Máy khử rung tim dạng sóng hai pha (biphasic) hiện đại thường bắt đầu khuyến cáo mức năng lượng từ 120-200J tùy thuộc vào nhà sản xuất."
+        },
+        {
+          "q": "Sau khi sốc điện xong, hành động tiếp theo cần thực hiện ngay là:",
+          "options": [
+            "Kiểm tra mạch cảnh trong 10 giây",
+            "Xem lại nhịp trên monitor máy phá rung",
+            "Tiêm ngay 1 liều Adrenalin tĩnh mạch",
+            "Tiếp tục ép tim ngay lập tức trong 2 phút"
+          ],
+          "answer": 3,
+          "explain": "Không dừng lại để kiểm tra nhịp hay mạch ngay sau khi sốc điện mà phải tiến hành ép tim ngay lập tức trong 2 phút để duy trì tưới máu cơ tim vốn vừa bị \"choáng\" do dòng điện khử rung."
+        },
+        {
+          "q": "Nếu bệnh nhân bị ngừng tim trong tình trạng hạ thân nhiệt do môi trường (nhiệt độ trung tâm 30 độ C), chiến lược hồi sức cần lưu ý:",
+          "options": [
+            "Hạn chế số lần sốc điện và giãn cách liều thuốc",
+            "Ngừng mọi nỗ lực sốc điện cho đến khi ấm lên",
+            "Tăng liều Adrenalin gấp đôi bình thường",
+            "Ép tim với tần số chậm hơn bình thường"
+          ],
+          "answer": 0,
+          "explain": "Ở bệnh nhân hạ thân nhiệt, do chuyển hóa thuốc và điện sinh lý cơ tim bị chậm lại nên cần hạn chế số lần sốc điện ban đầu và giãn cách liều thuốc vận mạch để tránh tích lũy gây ngộ độc khi cơ thể ấm lên."
+        },
+        {
+          "q": "Sau khi có mạch trở lại, bệnh nhân vẫn hôn mê (GCS 6 điểm). Chỉ định can thiệp nào sau đây giúp cải thiện tiên lượng thần kinh:",
+          "options": [
+            "Làm ấm nhanh không kiểm soát lên trên 39°C",
+            "Áp dụng chiến lược kiểm soát nhiệt độ chủ động trong khoảng 32-37,5°C và phòng sốt ít nhất 36 giờ",
+            "Duy trì SpO₂ 100% liên tục dù Pao₂ rất cao",
+            "Dùng Mannitol thường quy cho mọi bệnh nhân hôn mê"
+          ],
+          "answer": 1,
+          "explain": "Ở người lớn không đáp ứng sau ROSC, cần triển khai chiến lược kiểm soát nhiệt độ có chủ đích (TTM) trong khoảng 32-37.5°C, duy trì ít nhất 36 giờ và nghiêm ngặt phòng ngừa sốt. Đồng thời tránh hạ huyết áp, thiếu oxy và tăng oxy máu quá mức."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 28 tuổi ngất đột ngột khi đang vận động chạy bộ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 28 tuổi.<br><br><b>Bệnh sử:</b> Đột ngột ngất khi đang chạy bộ. Người xung quanh tiến hành ép tim và gọi 115. Khi nhân viên y tế đến, máy AED bảo \"Cần sốc điện\". Sau 3 chu kỳ hồi sức, bệnh nhân có mạch trở lại nhưng huyết áp đo được chỉ 70/40 mmHg, phổi có nhiều ran ẩm.<br><br><b>Tiền sử:</b> Khỏe mạnh, không có tiền sử bệnh lý tim mạch từ trước.<br><br><b>Khám lâm sàng:</b> Bệnh nhân đã được đặt nội khí quản hỗ trợ hô hấp. Huyết áp sau ROSC rất thấp 70/40 mmHg, phổi ran ẩm hai bên.",
+      "questions": [
+        {
+          "q": "Nguyên nhân hàng đầu cần nghĩ đến gây ngừng tuần hoàn ở đối tượng trẻ tuổi này khi đang gắng sức là:",
+          "options": [
+            "Nhồi máu cơ tim cấp diện rộng",
+            "Thuyên tắc phổi do huyết khối tĩnh mạch",
+            "Bệnh cơ tim phì đại",
+            "Hạ đường huyết do gắng sức"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cơ tim phì đại là nguyên nhân phổ biến hàng đầu gây đột tử do loạn sản và loạn nhịp thất ở người trẻ tuổi khi đang tham gia các hoạt động gắng sức."
+        },
+        {
+          "q": "Biện pháp hỗ trợ hô hấp nào sau đây là ưu tiên khi bệnh nhân đã có nội khí quản để tránh làm giảm cung lượng tim trong quá trình hồi sức:",
+          "options": [
+            "Tăng tần số thở lên 25-30 lần/phút",
+            "Duy trì thể tích lưu thông (Vt) thật lớn",
+            "Sử dụng mức PEEP cao > 15 cmH2O",
+            "Tránh thông khí quá mức (tần số 10 lần/phút)"
+          ],
+          "answer": 3,
+          "explain": "Thông khí quá mức (quá nhanh hoặc quá sâu) làm tăng áp lực nội ngực kéo dài, gây giảm lượng máu tĩnh mạch trở về tim, dẫn đến làm sụt giảm nghiêm trọng cung lượng tim và huyết áp."
+        },
+        {
+          "q": "Thuốc vận mạch nào thường được ưu tiên lựa chọn khởi đầu để nâng huyết áp cho bệnh nhân này sau khi có ROSC:",
+          "options": [
+            "Noradrenalin",
+            "Dobutamine",
+            "Dopamine liều thấp",
+            "Milrinone"
+          ],
+          "answer": 0,
+          "explain": "Noradrenalin là thuốc vận mạch được lựa chọn hàng đầu để ổn định và nâng huyết áp trung bình sau khi phục hồi tuần hoàn tự nhiên."
+        },
+        {
+          "q": "Những dấu hiệu nào sau đây cho thấy việc ép tim ngoài lồng ngực đang có hiệu quả tốt?",
+          "options": [
+            "Chỉ cần SpO₂ đạt 100%",
+            "Huyết áp tâm trương khi ép tim đạt khoảng hơn 20 mmHg và EtCO₂ duy trì ít nhất 10-20 mmHg",
+            "Đồng tử co nhỏ trong mọi chu kỳ",
+            "Nhịp thở ngáp xuất hiện thường xuyên"
+          ],
+          "answer": 1,
+          "explain": "Huyết áp tâm trương động mạch xâm lấn > 20 mmHg và EtCO₂ đạt từ 15-20 mmHg là các chỉ số khách quan phản ánh hiệu quả tưới máu cơ tim tốt trong khi ép tim."
+        },
+        {
+          "q": "Trong giai đoạn chăm sóc sau hồi sức, nếu bệnh nhân xuất hiện các cơn co giật toàn thân, thái độ xử trí đúng là:",
+          "options": [
+            "Chỉ theo dõi vì đó là phản xạ thường gặp",
+            "Dừng ngay việc kiểm soát nhiệt độ mục tiêu",
+            "Sử dụng thuốc an thần, chống co giật ngay",
+            "Cho bệnh nhân xuất viện sớm để phục hồi tâm lý"
+          ],
+          "answer": 2,
+          "explain": "Các cơn co giật sau ngừng tuần hoàn làm gia tăng chuyển hóa và nhu cầu oxy của não, gây tổn thương não thứ phát nặng nề nên bắt buộc phải được kiểm soát tích cực bằng thuốc an thần và chống co giật."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi đau ngực giờ thứ 4 xuất hiện nhịp nhanh thất",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Bệnh sử:</b> Nhập viện vì đau ngực giờ thứ 4. Đang nằm tại phòng cấp cứu, bệnh nhân đột ngột gồng người, trợn mắt. Monitor trung tâm báo động nhịp nhanh thất tần số 200 lần/phút. Bác sĩ trực bắt mạch cảnh thấy mạch vẫn còn rõ, bệnh nhân vẫn còn thở nấc nhưng hỏi không đáp ứng. Sau khi xử trí ban đầu, bệnh nhân đột ngột rơi vào trạng thái mất mạch, monitor hiện hình ảnh rung thất.<br><br><b>Tiền sử:</b> Tăng huyết áp và hút thuốc lá nhiều năm.",
+      "questions": [
+        {
+          "q": "Tình trạng này được phân loại là:",
+          "options": [
+            "Ngừng tuần hoàn hoàn toàn",
+            "Nhịp nhanh thất có mạch ổn định",
+            "Cơn bão điện học cơ tim",
+            "Nhịp nhanh thất có mạch không ổn định"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân có nhịp nhanh thất, sờ thấy mạch rõ nhưng có tình trạng rối loạn ý thức và đau ngực cấp nên được phân loại vào nhóm nhịp nhanh thất có mạch không ổn định."
+        },
+        {
+          "q": "Xử trí ưu tiên nhất tại thời điểm này là:",
+          "options": [
+            "Sốc điện đồng bộ (Synchronized Cardioversion)",
+            "Ép tim ngoài lồng ngực ngay lập tức",
+            "Tiêm tĩnh mạch Lidocaine 100mg",
+            "Sốc điện không đồng bộ 200J"
+          ],
+          "answer": 0,
+          "explain": "Nhịp nhanh thất có mạch nhưng huyết động không ổn định cần được tiến hành sốc điện đồng bộ ngay lập tức để tránh dòng điện rơi vào pha nhạy cảm (R on T) gây chuyển dạng sang rung thất."
+        },
+        {
+          "q": "Nếu sau khi xử trí ở câu trên, bệnh nhân rơi vào trạng thái mất mạch, monitor hiện rung thất, bước tiếp theo là:",
+          "options": [
+            "Tiếp tục dùng thuốc an thần",
+            "Chuyển sang sốc điện không đồng bộ",
+            "Xoa xoang cảnh hai bên liên tục",
+            "Đấm vào vùng trước tim 1 lần duy nhất"
+          ],
+          "answer": 1,
+          "explain": "Khi bệnh nhân mất mạch và monitor xác định chuyển sang rung thất, giao thức xử trí ngay lập tức chuyển hướng sang thuật toán cấp cứu ngừng tuần hoàn (sốc điện không đồng bộ)."
+        },
+        {
+          "q": "Trong hồi sức ngừng tim, việc sử dụng Natri Bicarbonat 8.4% được chỉ định trong trường hợp nào dưới đây:",
+          "options": [
+            "Dùng thường quy từ phút đầu cho mọi ca ngừng tim",
+            "Dùng đặc hiệu cho mọi trường hợp đuối nước",
+            "Chỉ dùng trong các nguyên nhân chọn lọc như ngộ độc thuốc chẹn kênh Natri/TCA hoặc tăng Kali nặng; không dùng thường quy chỉ vì hồi sức kéo dài",
+            "Dùng riêng cho VF sóng lớn"
+          ],
+          "answer": 2,
+          "explain": "Natri bicarbonat không được khuyến cáo chỉ định thường quy trong cấp cứu ngừng tuần hoàn kéo dài. Thuốc chỉ có vai trò trong các trường hợp đặc hiệu được chọn lọc như ngộ độc thuốc chẹn kênh Natri/TCA hoặc tăng kali máu nặng."
+        },
+        {
+          "q": "Sau khi cấp cứu thành công, bệnh nhân được chuyển chụp mạch vành cấp cứu. Biến chứng đáng ngại nhất có thể xảy ra trong 24 giờ đầu sau ROSC là:",
+          "options": [
+            "Tăng chức năng co bóp cơ thất trái quá mức",
+            "Tăng thân nhiệt ác tính do thuốc mê",
+            "Hạ đường huyết do tăng insulin phản ứng",
+            "Tái phát loạn nhịp thất nguy hiểm"
+          ],
+          "answer": 3,
+          "explain": "Cơ tim sau khi hồi phục tuần hoàn tự nhiên trong giai đoạn đầu vẫn rất dễ bị kích thích về mặt điện học và có nguy cơ cực cao tái phát các loạn nhịp thất nguy hiểm đe dọa tính mạng."
+        }
+      ]
+    },
+    {
+      "title": "Cụ ông 85 tuổi ung thư di căn giai đoạn cuối ngừng tim tại khoa nội",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 85 tuổi.<br><br><b>Bệnh sử:</b> Điều dưỡng phát hiện cụ nằm im, không phản ứng, không bắt được mạch bẹn. Trong hồ sơ bệnh án có ghi nhận ý nguyện của gia đình và bệnh nhân là \"Không hồi sức tim phổi (DNR)\".<br><br><b>Tiền sử:</b> Ung thư phổi di căn xương đang điều trị giảm nhẹ tại khoa nội.",
+      "questions": [
+        {
+          "q": "Thái độ xử trí đúng nhất của bác sĩ trực là:",
+          "options": [
+            "Xác nhận tử vong và giải thích cho gia đình",
+            "Chỉ thổi ngạt và bóp bóng mask, không ép tim",
+            "Vẫn tiến hành ép tim theo đúng phác đồ ACLS",
+            "Tiêm Adrenalin liều thấp để duy trì hy vọng"
+          ],
+          "answer": 0,
+          "explain": "Tôn trọng quyền tự quyết của người bệnh hoặc chỉ thị trước hợp pháp của gia đình thông qua lệnh DNR (Do Not Resuscitate) là bắt buộc về mặt đạo đức và pháp lý y học."
+        },
+        {
+          "q": "Về mặt đạo đức y học, chỉ định DNR có nghĩa là:",
+          "options": [
+            "Ngừng mọi điều trị kể cả giảm đau và kháng sinh",
+            "Không thực hiện CPR khi xảy ra ngừng tuần hoàn; các điều trị khác vẫn theo mục tiêu chăm sóc trừ khi có chỉ định riêng",
+            "Cho phép chủ động gây tử vong",
+            "Đồng nghĩa với không đặt nội khí quản trong mọi tình huống"
+          ],
+          "answer": 1,
+          "explain": "Lệnh DNR chỉ giới hạn việc thực hiện các biện pháp hồi sức tim phổi (CPR) khi tim hoặc hô hấp ngừng đập hoàn toàn. Lệnh này không đồng nghĩa với việc ngừng toàn bộ các điều trị tích cực khác hay chăm sóc giảm nhẹ."
+        },
+        {
+          "q": "Trong tình huống nếu chưa có lệnh DNR và phải hồi sức, nhịp tim thường gặp nhất ở bệnh nhân ngừng tim do bệnh lý mạn tính giai đoạn cuối là:",
+          "options": [
+            "Rung thất sóng lớn",
+            "Nhịp nhanh thất đa hình thái",
+            "Vô tâm thu hoặc phân ly điện cơ",
+            "Hội chứng Wolff-Parkinson-White"
+          ],
+          "answer": 2,
+          "explain": "Các bệnh lý mạn tính nặng nề giai đoạn cuối thường dẫn đến tình trạng suy kiệt, thiếu oxy diễn tiến từ từ dẫn đến ngừng tim kiểu vô tâm thu hoặc phân ly điện cơ (PEA) do cạn kiệt nguồn năng lượng dự trữ."
+        },
+        {
+          "q": "Nếu kíp trực quyết định dừng hồi sức sau một khoảng thời gian, tiêu chuẩn thường được chấp nhận là:",
+          "options": [
+            "Dừng sau một thời gian cố định 15 phút",
+            "Dừng khi hết một loại thuốc",
+            "Dừng ngay khi gia đình yêu cầu lần đầu dù chưa xác minh",
+            "Dựa trên đánh giá tổng hợp: hoàn cảnh ngừng tim, thời gian không dòng máu, chất lượng hồi sức, nhịp, nguyên nhân có thể đảo ngược, chỉ thị trước và quy tắc chấm dứt hồi sức đã được thẩm định; không dùng EtCO₂ đơn độc"
+          ],
+          "answer": 3,
+          "explain": "Quyết định chấm dứt các nỗ lực hồi sức phải dựa trên đánh giá đa yếu tố toàn diện một cách khách quan. Mặc dù chỉ số EtCO₂ thấp kéo dài phản ánh tiên lượng rất xấu nhưng không được sử dụng đơn độc để làm tiêu chuẩn duy nhất dừng CPR."
+        },
+        {
+          "q": "Biện pháp nào sau đây KHÔNG được khuyến cáo thực hiện thường quy trong khi đang ép tim ngừng tuần hoàn:",
+          "options": [
+            "Tiêm tĩnh mạch Magnesi Sulfat cho mọi ca ngừng tim",
+            "Thiết lập đường truyền tĩnh mạch hoặc đường trong xương",
+            "Kiểm tra nhịp tim sau mỗi 2 phút",
+            "Sử dụng thiết bị phản hồi chất lượng ép tim"
+          ],
+          "answer": 0,
+          "explain": "Magnesi sulfat chỉ có chỉ định khuyến cáo sử dụng thường quy đối với rối loạn nhịp xoắn đỉnh (Torsades de Pointes), thuốc không có vai trò và lợi ích khi dùng thường quy cho mọi ca ngừng tuần hoàn nói chung."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi co giật rồi ngừng tim do ngộ độc thuốc chống trầm cảm",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì ngộ độc thuốc chống trầm cảm ba vòng (TCA). Trong khi đang rửa dạ dày, bệnh nhân đột ngột co giật rồi ngừng tim. Monitor hiện nhịp nhanh phức bộ QRS rất giãn rộng (QRS > 0.16s) không mạch. Sau hồi sức thành công, nếu bệnh nhân vẫn có QRS giãn rộng và tụt huyết áp, kíp trực triển khai các bước xử trí tiếp theo.<br><br><b>Tiền sử:</b> Uống quá liều thuốc chống trầm cảm ba vòng (TCA).",
+      "questions": [
+        {
+          "q": "Cơ chế gây độc chính của TCA dẫn đến ngừng tim trên bệnh nhân này là:",
+          "options": [
+            "Kích thích quá mức thụ thể Beta-adrenergic",
+            "Ức chế kênh Natri trên màng tế bào cơ tim",
+            "Gây hạ kali máu mức độ nặng",
+            "Ức chế trung tâm hô hấp ở hành não"
+          ],
+          "answer": 1,
+          "explain": "Thuốc chống trầm cảm ba vòng (TCA) có tác dụng độc tính tim mạch thông qua cơ chế ức chế các kênh Natri nhanh, làm chậm tốc độ dẫn truyền trong thất và khởi phát loạn nhịp thất."
+        },
+        {
+          "q": "Dung dịch điều trị đặc hiệu cần được bổ sung sớm trong quá trình hồi sức bệnh nhân này là:",
+          "options": [
+            "Nhũ tương Lipid (Intralipid)",
+            "Magnesi Sulfat 20%",
+            "Natri Bicarbonat 8.4%",
+            "Glucose 20% kèm Insulin"
+          ],
+          "answer": 2,
+          "explain": "Natri bicarbonat 8.4% giúp kiềm hóa máu, làm sụt giảm tính gắn kết của phân tử TCA vào các kênh Natri đồng thời làm tăng nồng độ ion Natri ngoại bào để cạnh tranh vị trí gắn."
+        },
+        {
+          "q": "Mục tiêu của việc sử dụng dung dịch ở câu trên là duy trì pH máu ở mức:",
+          "options": [
+            "7.20-7.30",
+            "7.35-7.45",
+            "Trên 7.60",
+            "7.45-7.55"
+          ],
+          "answer": 3,
+          "explain": "Trong xử trí ngộ độc cấp tính thuốc chống trầm cảm ba vòng (TCA), cần duy trì mức pH máu hơi kiềm nhẹ ổn định trong khoảng từ 7.45-7.55 để bảo vệ chức năng tim."
+        },
+        {
+          "q": "Trong trường hợp ép tim kéo dài mà không có kết quả bằng phương pháp thủ công, thiết bị nào sau đây có thể được cân nhắc:",
+          "options": [
+            "Máy ép tim tự động (LUCAS)",
+            "Máy tạo nhịp tim tạm thời qua da",
+            "Máy phá rung tim tự động ngoài cơ thể",
+            "Bơm đối xung động mạch chủ (IABP)"
+          ],
+          "answer": 0,
+          "explain": "Các thiết bị cơ học ép tim tự động (như máy LUCAS) giúp duy trì tần số và độ sâu ép tim đạt tiêu chuẩn chất lượng cao một cách ổn định liên tục trong các ca hồi sức kéo dài hoặc khi vận chuyển."
+        },
+        {
+          "q": "Nếu hồi sức thành công nhưng bệnh nhân vẫn có QRS giãn rộng và tụt huyết áp, bước xử trí tiếp theo là:",
+          "options": [
+            "Dùng thuốc chẹn Beta",
+            "Teiếp tục Natri bicarbonat theo QRS, pH và Natri; dùng vận mạch, cân nhắc Lidocaine, nhũ tương Lipid hoặc VA-ECMO nếu sốc kháng trị; lọc máu không hiệu quả để loại TCA",
+            "Chỉ truyền thật nhanh NaCl 0.9%",
+            "Chỉ thở oxy gọng mũi"
+          ],
+          "answer": 1,
+          "explain": "Do thuốc chống trầm cảm ba vòng (TCA) có thể tích phân bố rất lớn và tỷ lệ gắn kết với protein huyết tương cao nên các biện pháp lọc máu không đem lại hiệu quả loại bỏ độc chất. Chiến lược điều trị bao gồm kiểm soát chặt chẽ Natri bicarbonat, sử dụng vận mạch thích hợp, cân nhắc truyền nhũ tương lipid hoặc hỗ trợ VA-ECMO khi có tình trạng sốc kháng trị."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 35 tuổi đột ngột suy hô hấp và ngừng tim sau phẫu thuật lớn chi dưới",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 35 tuổi.<br><br><b>Bệnh sử:</b> Vừa trải qua ca phẫu thuật thay khớp háng ngày thứ 2. Đang tập đi lại tại hành lang thì đột ngột khó thở, tím tái rồi mất ý thức. Khám thấy mạch không bắt được, monitor hiện nhịp xoang nhanh 130 lần/phút, không bắt được mạch trung tâm (PEA).<br><br><b>Tiền sử:</b> Hậu phẫu thay khớp háng ngày thứ 2.<br><br><b>Khám lâm sàng:</b> Khám thấy tĩnh mạch cổ nổi rõ rệt.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nguyên nhân ngừng tim phù hợp nhất là:",
+          "options": [
+            "Nhồi máu cơ tim cấp",
+            "Tràn khí màng phổi tự phát",
+            "Thuyên tắc phổi cấp diện rộng",
+            "Phản vệ do thuốc giảm đau"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh một bệnh nhân trẻ tuổi sau đại phẫu xương lớn vùng chi dưới đột ngột xuất hiện suy hô hấp cấp rồi rơi vào ngừng tuần hoàn kiểu PEA gợi ý rất mạnh đến biến chứng thuyên tắc phổi cấp tính diện rộng."
+        },
+        {
+          "q": "Đặc điểm giúp định hướng chẩn đoán ở bệnh nhân này dựa trên 5H-5T là:",
+          "options": [
+            "Bụng chướng và gõ đục (Xuất huyết nội)",
+            "Phổi có nhiều ran rít (Hen phế quản)",
+            "Da đỏ bừng toàn thân (Phản vệ)",
+            "Tĩnh mạch cổ nổi (Tâm thất phải giãn)"
+          ],
+          "answer": 3,
+          "explain": "Tĩnh mạch cổ nổi rõ phản ánh tình trạng ứ máu hệ thống thứ phát do suy thất phải cấp tính vì tắc nghẽn hoàn toàn đường ra cơ học của động mạch phổi diện rộng."
+        },
+        {
+          "q": "Nếu nghi ngờ nguyên nhân này, bên cạnh ép tim, xử trí nào sau đây có thể được cân nhắc dù đang trong quá trình hồi sức:",
+          "options": [
+            "Tiêm thuốc tiêu sợi huyết (Alteplase)",
+            "Chọc hút kim giải áp màng phổi",
+            "Truyền 2 đơn vị hồng cầu khối cấp cứu",
+            "Tiêm tĩnh mạch Morphin liều cao"
+          ],
+          "answer": 0,
+          "explain": "Trong các ca ngừng tuần hoàn do thuyên tắc phổi diện rộng đã xác định hoặc nghi ngờ rất cao trên lâm sàng, việc chỉ định truyền thuốc tiêu sợi huyết toàn thân có thể được cân nhắc để tái thông mạch phổi khẩn cấp."
+        },
+        {
+          "q": "Khi đã đặt được đường truyền trung tâm, vị trí ưu tiên để tiêm thuốc Adrenalin trong ACLS là:",
+          "options": [
+            "Bắt buộc phải đặt catheter tĩnh mạch trung tâm trước khi dùng Adrenaline",
+            "Ưu tiên đường tĩnh mạch ngoại biên hoặc đường trong xương dễ thiết lập mà không làm gián đoạn ép tim",
+            "Tiêm trực tiếp vào buồng tim",
+            "Chỉ dùng đường tĩnh mạch mu bàn chân"
+          ],
+          "answer": 1,
+          "explain": "Trong cấp cứu ngừng tuần hoàn, đường truyền tĩnh mạch ngoại vi hoặc đường truyền trong xương (IO) là các đường dùng thuốc được ưu tiên số một vì tính chất dễ thiết lập nhanh chóng, tránh làm trì hoãn hay gián đoạn quá trình ép tim ngoài lồng ngực."
+        },
+        {
+          "q": "Tiên lượng phục hồi tuần hoàn ở bệnh nhân có nhịp ban đầu là PEA so với rung thất là:",
+          "options": [
+            "Tốt hơn nhiều vì tim vẫn có điện",
+            "Tương đương nhau nếu được ép tim tốt",
+            "Xấu hơn do thường liên quan tổn thương cơ học nặng",
+            "Không thể so sánh được"
+          ],
+          "answer": 2,
+          "explain": "Các bệnh nhân ngừng tuần hoàn với nhịp ban đầu là hoạt động điện vô mạch (PEA) hoặc vô tâm thu nhìn chung có tiên lượng sống sót ra viện thấp hơn rõ rệt so với nhóm có rối loạn nhịp có thể sốc điện được (VF/VT vô mạch)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 16 tuổi ngừng tuần hoàn do ngạt nước lạnh kéo dài",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 16 tuổi.<br><br><b>Bệnh sử:</b> Bị ngã xuống hồ nước lạnh và được vớt lên sau 15 phút. Khi kíp cấp cứu tiếp cận, bệnh nhân không có nhịp thở, không mạch, người lạnh ngắt. Bệnh nhân sau khi hồi sức và sưởi ấm lên 33 độ C mà vẫn vô tâm thu kéo dài 45 phút mặc dù đã hồi sức tối ưu.<br><br><b>Khám lâm sàng:</b> Nhiệt độ môi trường lúc tiếp cận là 10 độ C. Da niêm mạc lạnh ngắt toàn thân.",
+      "questions": [
+        {
+          "q": "Nguyên tắc vàng trong hồi sức ngừng tim do hạ thân nhiệt là:",
+          "options": [
+            "Chỉ truyền dịch lạnh để bảo vệ não",
+            "Không được ép tim vì sẽ gây rung thất",
+            "Sốc điện liên tục 10 lần ngay từ đầu",
+            "Chỉ công bố tử vong khi đã sưởi ấm bệnh nhân"
+          ],
+          "answer": 3,
+          "explain": "Nguyên tắc kinh điển lâm sàng trong cấp cứu ngừng tuần hoàn kèm hạ thân nhiệt nghiêm trọng là \"Bệnh nhân chưa thể xem là đã chết cho đến khi cơ thể họ được sưởi ấm mà vẫn xác định đã chết\"."
+        },
+        {
+          "q": "Biện pháp sưởi ấm tích cực nào sau đây có thể thực hiện tại khoa cấp cứu:",
+          "options": [
+            "Làm ấm ngoài chủ động và truyền dịch ấm; ngừng tuần hoàn/hạ thân nhiệt nặng nên chuyển trung tâm có ECLS nếu khả thi",
+            "Chỉ đắp chăn mỏng",
+            "Rửa bàng quang là phương pháp ưu tiên hiệu quả nhất",
+            "Cho uống nước nóng qua sonde"
+          ],
+          "answer": 0,
+          "explain": "Sử dụng các hệ thống trao đổi nhiệt tích cực ngoài cơ thể (như ECLS/ECMO) là biện pháp sưởi ấm lõi chủ động đem lại hiệu quả cao nhất đối với các bệnh nhân ngừng tuần hoàn do hạ thân nhiệt nặng khi điều kiện cơ sở cho phép."
+        },
+        {
+          "q": "Trong hồi sức ngừng tim do đuối nước, trình tự ưu tiên (theo AHA) có sự thay đổi là:",
+          "options": [
+            "Chỉ ép tim, không thổi ngạt",
+            "Thổi ngạt là thành phần thiết yếu; người cứu hộ được huấn luyện có thể bắt đầu bằng các nhịp thở cứu ngạt nếu không làm chậm ép tim, sau đó CPR phối hợp",
+            "Sốc điện trước mọi biện pháp",
+            "Ép bụng để tống nước trước CPR"
+          ],
+          "answer": 1,
+          "explain": "Bản chất ngừng tuần hoàn do đuối nước xuất phát từ tình trạng ngạt và thiếu oxy máu cấp tính nên việc thực hiện thổi ngạt cứu ngạt đóng vai trò đặc biệt quan trọng ngay từ giai đoạn tiếp cận ban đầu, phối hợp luân phiên chặt chẽ với ép tim."
+        },
+        {
+          "q": "Lý do của sự thay đổi trình tự ở câu trên là do ngừng tim trong đuối nước bản chất là:",
+          "options": [
+            "Ngừng tim do bệnh lý mạch vành",
+            "Ngừng tim do chấn thương cột sống cổ",
+            "Ngừng tim thứ phát sau thiếu oxy máu",
+            "Ngừng tim do tăng kali máu đột ngột"
+          ],
+          "answer": 2,
+          "explain": "Không giống như ngừng tim đột ngột do nguyên nhân tim mạch ở người trưởng thành, tình trạng ngừng tuần hoàn trong đuối nước xảy ra hoàn toàn là biến chứng thứ phát sau quá trình ngạt và thiếu oxy máu kéo dài làm cạn kiệt năng lượng tế bào cơ tim."
+        },
+        {
+          "q": "Nếu sau khi sưởi ấm lên 33 độ C mà bệnh nhân vẫn vô tâm thu kéo dài 45 phút, mặc dù đã hồi sức tối ưu, hướng xử trí tiếp theo là:",
+          "options": [
+            "Dừng hồi sức theo mốc cố định 45 phút",
+            "Dùng tiêu sợi huyết thường quy",
+            "Chụp CT trước khi tiếp tục CPR",
+            "Tiếp tục hồi sức và làm ẩm, ưu tiên ECLS nếu phù hợp; quyết định dừng dựa trên tổn thương gây tử vong rõ ràng hoặc đánh giá tiên lượng đa yếu tố, không chỉ nhiệt độ thời gian"
+          ],
+          "answer": 3,
+          "explain": "Việc đưa ra quyết định dừng các nỗ lực hồi sức phải dựa trên đánh giá đa yếu tố toàn diện từ cơ chế, nồng độ kali máu, thời gian thiếu máu nuôi, sự hiện diện của các tổn thương phối hợp đe dọa tính mạng mà không được phép phụ thuộc đơn độc vào mốc thời gian hay con số nhiệt độ trung tâm."
+        }
+      ]
+    }
+  ]
+}
