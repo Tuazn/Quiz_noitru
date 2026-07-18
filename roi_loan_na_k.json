@@ -1,0 +1,1230 @@
+{
+  "name": "Rối loạn Na, K",
+  "description": "Bộ case lâm sàng về rối loạn điện giải Natri và Kali",
+  "level": "ôn thi nội trú",
+  "type": "cases",
+  "category": "Nội",
+  "subcategory": "Cấp cứu",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 62 tuổi lú lẫn và co giật, có ung thư phổi tế bào nhỏ",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 62 tuổi, công nhân xây dựng đã nghỉ hưu, được gia đình đưa vào viện vì lú lẫn và nói nhảm. Khoảng 3 ngày nay, bệnh nhân đau đầu âm ỉ, ăn uống kém, mệt mỏi. Sáng nay, bệnh nhân đột ngột trở nên lú lẫn, không nhận ra người thân, sau đó có một cơn co giật toàn thể kéo dài khoảng 1 phút. Bệnh nhân không bị nôn hay tiêu chảy, không dùng thuốc lợi tiểu.<br><br><b>Tiền sử:</b> Ung thư phổi tế bào nhỏ đang hóa trị, không có tiền sử bệnh tim, thận hay đái tháo đường.<br><br><b>Khám lâm sàng:</b> Bệnh nhân lơ mơ, GCS 11 điểm (E2V3M6). Da niêm mạc không khô, không có phù, tĩnh mạch cổ không nổi. Sinh hiệu: mạch 80 lần/phút, huyết áp 125/80 mmHg, nhịp thở 16 lần/phút, nhiệt độ 37°C. Phổi không ran, tim nhịp đều. Khám thần kinh không có dấu hiệu khu trú.<br><br><b>Xét nghiệm:</b> Na⁺ máu 112 mmol/L (giảm nặng), K⁺ 4.0 mmol/L, Creatinin 70 µmol/L, Glucose 5.5 mmol/L. Áp lực thẩm thấu (ALTT) máu đo được 235 mOsm/kg (giảm). ALTT niệu 450 mOsm/kg (tăng), Na⁺ niệu 80 mmol/L (tăng).",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất gây ra tình trạng hạ Natri máu của bệnh nhân là gì?",
+          "options": [
+            "Hội chứng tiết ADH không thích hợp (SIADH)",
+            "Mất Natri qua thận do lợi tiểu",
+            "Suy thượng thận cấp",
+            "Hạ Natri máu do giảm thể tích (nôn, tiêu chảy)"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có hạ Natri máu (112 mmol/L) với tình trạng thể tích lâm sàng bình thường (không phù, không mất nước), ALTT máu thấp (<275), ALTT niệu cao (>100) và Na⁺ niệu cao (>40). Bối cảnh bệnh nhân có ung thư phổi tế bào nhỏ (một nguyên nhân phổ biến gây sản xuất ADH ngoại sinh) làm chẩn đoán SIADH trở nên chắc chắn."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính gây ra hạ Natri máu trong SIADH là gì?",
+          "options": [
+            "Thận mất quá nhiều Natri do tổn thương ống thận",
+            "ADH được tiết ra liên tục không phù hợp với ALTT máu, gây tái hấp thu nước tự do quá mức ở ống góp",
+            "Tăng tiết Aldosterone gây giữ nước",
+            "Uống quá nhiều nước vượt khả năng thải trừ của thận"
+          ],
+          "answer": 1,
+          "explain": "Trong SIADH, ADH được tiết ra một cách tự chủ, không bị ức chế bởi ALTT máu thấp. ADH tác động lên ống góp của thận, làm tăng số lượng kênh Aquaporin-2, dẫn đến tăng tái hấp thu nước tự do từ dịch lọc trở lại máu. Điều này gây ra tình trạng thừa nước, pha loãng Natri trong máu và dẫn đến hạ Natri máu."
+        },
+        {
+          "q": "Tại sao bệnh nhân này có các triệu chứng thần kinh trung ương nặng (lú lẫn, co giật)?",
+          "options": [
+            "Do tình trạng tăng áp lực thẩm thấu máu",
+            "Do di căn não từ ung thư phổi",
+            "Do hạ Natri máu cấp tính gây phù não tế bào",
+            "Do hạ đường huyết đi kèm"
+          ],
+          "answer": 2,
+          "explain": "Khi Natri máu giảm nhanh chóng, môi trường ngoại bào trở nên nhược trương so với nội bào. Nước sẽ di chuyển theo gradient thẩm thấu từ ngoài vào trong tế bào não, gây ra hiện tượng phù não. Phù não làm tăng áp lực nội sọ, dẫn đến các triệu chứng thần kinh từ nhẹ (đau đầu) đến nặng (lú lẫn, hôn mê, co giật)."
+        },
+        {
+          "q": "Can thiệp điều trị cấp cứu đầu tay cho bệnh nhân hạ Natri máu nặng có triệu chứng thần kinh là gì?",
+          "options": [
+            "Tolvaptan trong lúc co giật",
+            "Chỉ hạn chế dịch",
+            "NaCl 0,9% thật nhanh",
+            "Bolus 150 mL NaCl 3% trong khoảng 20 phút, có thể lặp lại đến khi triệu chứng cải thiện hoặc Natri tăng khoảng 5 mmol/L, theo dõi sát"
+          ],
+          "answer": 3,
+          "explain": "Hạ Natri có co giật là cấp cứu. Dùng bolus muối ưu trương và theo dõi Natri thường xuyên; mục tiêu ban đầu là cải thiện triệu chứng với mức tăng khoảng 4-6 mmol/L, không đưa ngay về bình thường."
+        },
+        {
+          "q": "Mục tiêu nâng nồng độ Natri máu trong 24 giờ đầu không nên vượt quá bao nhiêu để tránh hội chứng hủy myelin thẩm thấu?",
+          "options": [
+            "Giới hạn thường không quá 8 mmol/L trong 24 giờ; ở nguy cơ hủy myelin cao nên đặt mục tiêu khoảng 4-6 mmol/L",
+            "10-12 mmol/L cho mọi bệnh nhân",
+            "15-18 mmol/L",
+            "Đưa Natri về bình thường càng nhanh càng tốt"
+          ],
+          "answer": 0,
+          "explain": "Sau xử trí triệu chứng ban đầu, tránh tăng Natri quá nhanh. Giới hạn thực hành an toàn thường ≤8 mmol/L/24 giờ và thấp hơn ở người nghiện rượu, suy dinh dưỡng, bệnh gan, hạ Kali hoặc Natri rất thấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 85 tuổi lơ mơ tiến triển, sa sút trí tuệ, sốt và ho",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 85 tuổi, sống trong viện dưỡng lão, được đưa vào viện vì tình trạng lơ mơ tiến triển trong 2 ngày. Gần đây, bệnh nhân bị sốt và ho.<br><br><b>Tiền sử:</b> Sa sút trí tuệ và tai biến mạch máu não cũ, ăn uống phải có người hỗ trợ.<br><br><b>Khám lâm sàng:</b> Bệnh nhân lơ mơ, chỉ đáp ứng khi kích thích đau mạnh. Da khô, véo da mất rất chậm, niêm mạc miệng và lưỡi khô rang. Sinh hiệu: mạch 120 lần/phút, huyết áp 90/60 mmHg, nhiệt độ 38.5°C, nhịp thở 24 lần/phút. Không có dấu thần kinh khu trú mới.<br><br><b>Xét nghiệm:</b> Na⁺ 165 mmol/L (tăng nặng), K⁺ 4.2 mmol/L, Cl⁻ 125 mmol/L, Creatinin 150 µmol/L, Ure 25 mmol/L. Glucose 8 mmol/L. Áp lực thẩm thấu máu tính toán ≈ 2 × 165 + 8 + 25 = 363 mOsm/kg (tăng).",
+      "questions": [
+        {
+          "q": "Nguyên nhân chính gây tăng Natri máu ở bệnh nhân này là gì?",
+          "options": [
+            "Uống phải nước biển",
+            "Mất nước tự do (qua sốt, thở nhanh) không được bù đủ do không thể tự uống",
+            "Truyền quá nhiều dung dịch Natri ưu trương",
+            "Đái tháo nhạt trung ương"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân lớn tuổi, sa sút trí tuệ, không thể tự tiếp cận nước uống. Tình trạng sốt và thở nhanh làm tăng mất nước qua da và đường hô hấp. Sự kết hợp giữa mất nước tăng và nhập nước giảm là nguyên nhân kinh điển gây tăng Natri máu ở người già."
+        },
+        {
+          "q": "Cơ chế bảo vệ chính của cơ thể khi bị tăng áp lực thẩm thấu máu là gì?",
+          "options": [
+            "Giảm nhịp tim để tiết kiệm năng lượng",
+            "Tăng tiết Aldosterone để giữ muối",
+            "Kích thích cảm giác khát và tăng tiết ADH",
+            "Tăng thải Natri qua nước tiểu"
+          ],
+          "answer": 2,
+          "explain": "Khi áp lực thẩm thấu máu tăng, các thụ thể thẩm thấu ở vùng dưới đồi sẽ được kích hoạt, dẫn đến hai đáp ứng quan trọng: (1) Kích thích mạnh mẽ cảm giác khát, thúc đẩy hành vi tìm nước uống. (2) Kích thích thùy sau tuyến yên tăng tiết ADH, làm thận tăng tái hấp thu nước. Ở bệnh nhân này, đáp ứng khát bị suy giảm do sa sút trí tuệ."
+        },
+        {
+          "q": "Lượng nước tự do thiếu hụt của bệnh nhân này được ước tính là bao nhiêu? (Công thức: Nước thiếu (L) = 0.5 x Cân nặng (kg) x [(Na⁺ hiện tại / 140) - 1]) (Giả sử bệnh nhân nặng 50kg)",
+          "options": [
+            "Khoảng 2.5 L",
+            "Khoảng 8.5 L",
+            "Khoảng 6.5 L",
+            "Khoảng 4.5 L"
+          ],
+          "answer": 3,
+          "explain": "Nước thiếu = 0.5 x 50 kg x [(165 / 140) - 1] = 25 x [1.178 - 1] = 25 x 0.178 ≈ 4.46 L. Đây là lượng nước cần bù để đưa Natri về mức bình thường."
+        },
+        {
+          "q": "Loại dung dịch nào là phù hợp nhất để bắt đầu bù dịch cho bệnh nhân này?",
+          "options": [
+            "Nếu huyết động không ổn định, hồi sức trước bằng tinh thể đẳng trương; sau ổn định mới bù nước tự do bằng Glucose 5% hoặc NaCl 0,45%",
+            "Truyền NaCl 3%",
+            "Chỉ Glucose 5% thật nhanh dù đang sốc",
+            "Không truyền dịch"
+          ],
+          "answer": 0,
+          "explain": "Trong tăng Natri kèm giảm thể tích, ưu tiên khôi phục tuần hoàn bằng dịch đẳng trương. Khi huyết động ổn định, thay nước tự do có tính toán và theo dõi Natri để tránh phù não."
+        },
+        {
+          "q": "Tốc độ hạ Natri máu an toàn trong 48 giờ đầu không nên vượt quá bao nhiêu để tránh nguy cơ phù não?",
+          "options": [
+            "2 mmol/L/giờ",
+            "Nếu tăng Natri mạn hoặc không rõ thời gian, giảm khoảng ≤0,5 mmol/L/giờ và không quá 10-12 mmol/L/ngày",
+            "Đưa về bình thường trong 6 giờ",
+            "Không cần giới hạn tốc độ"
+          ],
+          "answer": 1,
+          "explain": "Tăng Natri mạn cần hạ từ từ để não thích nghi ngược, thường không quá 0,5 mmol/L/giờ và khoảng 10-12 mmol/L/ngày. Tăng Natri cấp có thể điều chỉnh nhanh hơn dưới theo dõi chuyên sâu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 40 tuổi yếu tứ chi tiến triển, dùng lợi tiểu Thiazide không theo đơn",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 40 tuổi, nhân viên bán hàng, vào viện vì yếu tứ chi tiến triển. Khoảng 3 ngày nay, bệnh nhân cảm thấy yếu hai chân, đi lại khó khăn, sau đó yếu lan lên hai tay, không thể cầm nắm đồ vật. Bệnh nhân không sốt, cảm giác bình thường.<br><br><b>Tiền sử:</b> Tăng huyết áp 2 năm, tự mua và uống Hydrochlorothiazide 25mg/ngày không theo đơn.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, GCS 15. Yếu mềm tứ chi đối xứng, sức cơ chi dưới 2/5, chi trên 3/5. Phản xạ gân xương giảm rõ rệt. Bụng chướng nhẹ, giảm nhu động ruột. Sinh hiệu: mạch 90 lần/phút, huyết áp 130/80 mmHg. Tim nhịp đều, phổi trong.<br><br><b>Xét nghiệm:</b> Na⁺ 140 mmol/L, K⁺ 2.1 mmol/L (giảm nặng), Cl⁻ 90 mmol/L, Mg²⁺ 0.6 mmol/L (thấp). Khí máu: pH 7.48, HCO₃⁻ 30 mmol/L (kiềm chuyển hóa). Điện tâm đồ (ECG) cho thấy ST chênh xuống, sóng T dẹt và có sóng U cao, rõ sau sóng T.",
+      "questions": [
+        {
+          "q": "Nguyên nhân có khả năng nhất gây hạ Kali máu nặng ở bệnh nhân này là gì?",
+          "options": [
+            "Tiêu chảy cấp",
+            "Cường Aldosterone nguyên phát",
+            "Mất Kali qua thận do dùng lợi tiểu Thiazide",
+            "Chế độ ăn thiếu Kali"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có tiền sử dùng lợi tiểu Thiazide dài ngày, đây là một trong những nguyên nhân phổ biến nhất gây mất Kali mạn tính qua thận, dẫn đến hạ Kali máu."
+        },
+        {
+          "q": "Cơ chế chính mà lợi tiểu Thiazide gây hạ Kali máu là gì?",
+          "options": [
+            "Tăng thải trực tiếp Kali tại quai Henle",
+            "Ức chế tái hấp thu Kali ở ống lượn gần",
+            "Gây toan hóa ống thận làm tăng thải Kali",
+            "Tăng lưu lượng dịch và Natri đến ống lượn xa, kích thích trao đổi Na⁺-K⁺ và thải Kali"
+          ],
+          "answer": 3,
+          "explain": "Thiazide ức chế kênh đồng vận chuyển Na⁺-Cl⁻ ở ống lượn xa. Điều này làm tăng lượng Na⁺ được đưa đến ống góp. Tại đây, để tái hấp thu Na⁺, cơ thể sẽ tăng cường bài tiết K⁺ và H⁺ thông qua các kênh tương ứng (được kích thích bởi Aldosterone). Kết quả là mất Kali và gây kiềm chuyển hóa."
+        },
+        {
+          "q": "Sóng U trên ECG là biểu hiện của tình trạng nào?",
+          "options": [
+            "Hạ Kali máu",
+            "Tăng Kali máu",
+            "Thiếu máu cơ tim",
+            "Hạ Canxi máu"
+          ],
+          "answer": 0,
+          "explain": "Sóng U là một sóng dương nhỏ đi sau sóng T, thường thấy rõ nhất ở các chuyển đạo trước tim V2-V3. Sự xuất hiện của sóng U cao và rõ là một dấu hiệu rất đặc trưng của hạ Kali máu trên ECG."
+        },
+        {
+          "q": "Tại sao bệnh nhân này có biểu hiện yếu cơ và liệt mềm?",
+          "options": [
+            "Do tình trạng kiềm chuyển hóa gây co mạch não",
+            "Do hạ Kali máu gây ưu phân cực màng tế bào thần kinh-cơ, làm giảm tính kích thích",
+            "Do hạ Magie máu đi kèm gây ức chế thần kinh",
+            "Do thuốc lợi tiểu có tác dụng phụ trực tiếp lên cơ"
+          ],
+          "answer": 1,
+          "explain": "Kali là ion chính quyết định điện thế nghỉ của màng tế bào. Khi nồng độ Kali ngoại bào giảm, gradient nồng độ Kali qua màng tăng lên, làm cho điện thế nghỉ của màng trở nên 'âm hơn' (ưu phân cực). Màng tế bào ở trạng thái này sẽ khó đạt đến ngưỡng khử cực hơn, dẫn đến giảm tính kích thích của tế bào thần kinh và cơ, biểu hiện lâm sàng là yếu cơ, giảm phản xạ, và có thể liệt mềm."
+        },
+        {
+          "q": "Hướng xử trí bù Kali nào là phù hợp và an toàn nhất cho bệnh nhân này?",
+          "options": [
+            "Cho bệnh nhân ăn nhiều chuối và thực phẩm giàu Kali",
+            "Uống Kali Clorua liều cao (80-100 mmol/ngày)",
+            "Truyền tĩnh mạch Kali Clorua với tốc độ không quá 20 mmol/giờ, theo dõi ECG liên tục",
+            "Truyền tĩnh mạch nhanh 40 mmol Kali Clorua trong 30 phút"
+          ],
+          "answer": 2,
+          "explain": "Với Kali máu < 2.5 mmol/L và có triệu chứng nặng (liệt), chỉ định bù Kali đường tĩnh mạch là bắt buộc. Tuy nhiên, Kali là một ion rất nguy hiểm nếu truyền quá nhanh (có thể gây ngừng tim). Tốc độ truyền an toàn thường không quá 20 mmol/giờ ở tĩnh mạch ngoại vi và cần theo dõi sát điện tim. Việc bù Magie đồng thời cũng rất quan trọng vì hạ Magie máu làm thận khó giữ lại Kali."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi mệt mỏi và yếu cơ, bệnh thận mạn dùng Lisinopril",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 70 tuổi vào viện vì mệt mỏi và yếu cơ.<br><br><b>Tiền sử:</b> Đái tháo đường type 2, bệnh thận mạn giai đoạn IV (mức lọc cầu thận nền 25 ml/phút), đang điều trị với Lisinopril.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, tiếp xúc chậm. Yếu nhẹ hai chi dưới, sức cơ 4/5. Sinh hiệu: mạch 50 lần/phút, huyết áp 150/90 mmHg. Tim nhịp chậm, đều. Phổi trong.<br><br><b>Xét nghiệm:</b> Na⁺ 138 mmol/L, K⁺ 7.2 mmol/L (tăng nặng), Creatinin 400 µmol/L. ECG cho thấy nhịp chậm xoang, sóng T cao, nhọn, đối xứng ở các chuyển đạo trước tim; khoảng PR kéo dài 240ms và phức bộ QRS giãn rộng 130ms.",
+      "questions": [
+        {
+          "q": "Nguyên nhân chính gây tăng Kali máu ở bệnh nhân này là gì?",
+          "options": [
+            "Chế độ ăn quá nhiều Kali",
+            "Tan máu cấp tính",
+            "Nhiễm toan ceton do đái tháo đường",
+            "Suy thận mạn và tác dụng của thuốc ức chế men chuyển (Lisinopril)"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân có nền suy thận mạn, khả năng thải Kali đã suy giảm. Việc sử dụng Lisinopril, một thuốc ức chế men chuyển, càng làm nặng thêm tình trạng này, dẫn đến tăng Kali máu nghiêm trọng."
+        },
+        {
+          "q": "Cơ chế mà thuốc ức chế men chuyển (ACEi) như Lisinopril gây tăng Kali máu là gì?",
+          "options": [
+            "Giảm sản xuất Aldosterone, dẫn đến giảm bài tiết Kali ở ống thận xa",
+            "Gây toan hóa ống thận",
+            "Giảm mức lọc cầu thận",
+            "Ức chế trực tiếp kênh ROMK thải Kali"
+          ],
+          "answer": 0,
+          "explain": "Thuốc ức chế men chuyển (ACEi) ngăn chặn sự chuyển Angiotensin I thành Angiotensin II. Angiotensin II là một chất kích thích mạnh mẽ vỏ thượng thận tiết ra Aldosterone. Do đó, ACEi làm giảm nồng độ Aldosterone. Vì Aldosterone có vai trò quan trọng trong việc thúc đẩy bài tiết Kali tại ống thận xa, việc thiếu hụt hormone này sẽ dẫn đến giữ Kali lại trong cơ thể."
+        },
+        {
+          "q": "Các thay đổi trên ECG của bệnh nhân (sóng T cao nhọn, PR dài, QRS rộng) cho thấy điều gì?",
+          "options": [
+            "Thiếu máu cơ tim cấp",
+            "Độc tính của tăng Kali máu trên tim, có nguy cơ rối loạn nhịp thất",
+            "Ngộ độc Digoxin",
+            "Hạ Canxi máu đi kèm"
+          ],
+          "answer": 1,
+          "explain": "Tăng Kali máu gây ra một chuỗi các biến đổi tuần tự trên ECG. Ban đầu là sóng T cao, nhọn. Khi Kali tăng cao hơn, nó làm chậm dẫn truyền trong tim, gây PR kéo dài, QRS giãn rộng. Nếu không được xử trí, QRS sẽ tiếp tục giãn rộng, hòa vào sóng T tạo thành hình sin và cuối cùng dẫn đến rung thất hoặc vô tâm thu."
+        },
+        {
+          "q": "Can thiệp cấp cứu nào cần được thực hiện NGAY LẬP TỨC để bảo vệ tim của bệnh nhân?",
+          "options": [
+            "Truyền Insulin và Glucose tĩnh mạch",
+            "Dùng lợi tiểu Furosemide liều cao",
+            "Tiêm tĩnh mạch Calci gluconate 10%",
+            "Chuẩn bị cho lọc máu cấp cứu"
+          ],
+          "answer": 2,
+          "explain": "Khi có thay đổi trên ECG, ưu tiên số một là ổn định màng tế bào cơ tim để ngăn ngừa rối loạn nhịp chết người. Calci gluconate (hoặc Calci chloride) có tác dụng đối kháng trực tiếp với tác động của Kali lên điện thế màng của tế bào cơ tim, giúp phục hồi tính ổn định điện học. Calci không làm hạ nồng độ Kali trong máu nhưng là biện pháp cứu mạng tức thời."
+        },
+        {
+          "q": "Sau khi ổn định màng tế bào cơ tim, biện pháp nào giúp di chuyển nhanh Kali từ máu vào trong tế bào?",
+          "options": [
+            "Calci làm Kali vào tế bào",
+            "Chỉ Bicarbonat và Salbutamol",
+            "Chỉ nhựa trao đổi ion",
+            "Insulin-Glucose là biện pháp chính đưa Kali vào tế bào; Salbutamol là bổ trợ, còn Bicarbonat chủ yếu có lợi khi toan chuyển hóa đáng kể"
+          ],
+          "answer": 3,
+          "explain": "Insulin-Glucose hạ Kali nhanh và đáng tin cậy. Salbutamol có tác dụng cộng thêm. Bicarbonat không hiệu quả ổn định nếu không có toan chuyển hóa; Calci chỉ bảo vệ tim."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi khó thở tăng dần, suy tim do bệnh cơ tim giãn",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 65 tuổi vào viện vì khó thở tăng dần. Khoảng 1 tuần nay, bệnh nhân thấy khó thở nhiều hơn, phải ngồi để thở, phù hai chân tăng.<br><br><b>Tiền sử:</b> Suy tim do bệnh cơ tim giãn (EF 25%), tuân thủ điều trị với Furosemide, Ramipril và Metoprolol.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, khó thở nhẹ. Tĩnh mạch cổ nổi, phổi có ran ẩm ở hai đáy. Phù mềm, ấn lõm 2+ ở hai chi dưới. Sinh hiệu: mạch 90 lần/phút, huyết áp 110/70 mmHg.<br><br><b>Xét nghiệm:</b> Na⁺ 125 mmol/L (giảm), K⁺ 4.5 mmol/L, Creatinin 130 µmol/L. Pro-BNP 5000 pg/mL. Bác sĩ đánh giá bệnh nhân đang trong tình trạng quá tải thể tích.",
+      "questions": [
+        {
+          "q": "Tình trạng hạ Natri máu ở bệnh nhân này được phân loại là gì?",
+          "options": [
+            "Hạ Natri máu tăng thể tích (pha loãng)",
+            "Hạ Natri máu giảm thể tích",
+            "Hạ Natri máu đẳng tích",
+            "Hạ Natri máu giả do tăng lipid máu"
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có các dấu hiệu lâm sàng của tình trạng quá tải thể tích (phù, ran ẩm, tĩnh mạch cổ nổi), do đó đây là hạ Natri máu trong bối cảnh tăng thể tích tuần hoàn, hay còn gọi là hạ Natri máu pha loãng."
+        },
+        {
+          "q": "Cơ chế chính gây hạ Natri máu ở bệnh nhân suy tim nặng là gì?",
+          "options": [
+            "Mất Natri quá mức do dùng lợi tiểu",
+            "Kích thích tiết ADH không theo cơ chế thẩm thấu do giảm cung lượng tim",
+            "Suy dinh dưỡng và ăn nhạt",
+            "Tổn thương thận gây mất Natri"
+          ],
+          "answer": 1,
+          "explain": "Trong suy tim nặng, cung lượng tim và thể tích tuần hoàn hiệu quả giảm. Các thụ thể áp lực sẽ cảm nhận tình trạng này và kích thích tuyến yên tăng tiết ADH một cách mạn tính, bất chấp áp lực thẩm thấu máu đang thấp. ADH làm thận giữ lại nước tự do, gây ra tình trạng thừa nước tương đối so với Natri, dẫn đến hạ Natri máu pha loãng."
+        },
+        {
+          "q": "Tổng lượng Natri trong cơ thể của bệnh nhân này thực chất như thế nào?",
+          "options": [
+            "Giảm",
+            "Bình thường",
+            "Tăng",
+            "Không thể xác định"
+          ],
+          "answer": 2,
+          "explain": "Mặc dù nồng độ Natri trong máu thấp, nhưng do hoạt động của hệ RAA (Renin-Angiotensin-Aldosterone) trong suy tim, cơ thể lại tăng cường giữ cả muối và nước. Do đó, tổng lượng Natri toàn cơ thể của bệnh nhân thực chất là tăng, biểu hiện qua tình trạng phù và quá tải dịch."
+        },
+        {
+          "q": "Can thiệp điều trị nào là phù hợp nhất để cải thiện tình trạng hạ Natri máu này?",
+          "options": [
+            "Truyền NaCl 0.9%",
+            "Truyền NaCl 3%",
+            "Ngừng tất cả các loại thuốc lợi tiểu",
+            "Hạn chế dịch và tăng liều lợi tiểu quai"
+          ],
+          "answer": 3,
+          "explain": "Vấn đề cốt lõi là thừa nước chứ không phải thiếu Natri. Do đó, việc truyền thêm dung dịch chứa Natri sẽ chỉ làm tình trạng quá tải dịch nặng hơn. Điều trị hợp lý là phải thải bớt lượng nước tự do dư thừa bằng cách hạn chế lượng nước uống vào và tăng cường thải nước qua thận bằng lợi tiểu quai."
+        },
+        {
+          "q": "Nồng độ Natri máu thấp ở bệnh nhân suy tim là một yếu tố tiên lượng cho điều gì?",
+          "options": [
+            "Tăng nguy cơ tái nhập viện và tử vong",
+            "Không có ý nghĩa tiên lượng",
+            "Tiên lượng tốt, đáp ứng với điều trị",
+            "Tăng nguy cơ bị rối loạn nhịp thất"
+          ],
+          "answer": 0,
+          "explain": "Hạ Natri máu được coi là một dấu hiệu của tình trạng suy tim nặng, phản ánh mức độ hoạt hóa thần kinh-thể dịch nghiêm trọng (tăng ADH, tăng hoạt động hệ RAA). Nhiều nghiên cứu đã chỉ ra rằng đây là một yếu tố tiên lượng độc lập cho tỷ lệ tử vong và tái nhập viện cao hơn ở bệnh nhân suy tim."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 22 tuổi, đái tháo đường type 1, nhiễm toan ceton nặng",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 22 tuổi vào viện trong tình trạng nhiễm toan ceton nặng (pH 7.10, HCO₃⁻ 5 mmol/L, Glucose >33.3 mmol/L).<br><br><b>Tiền sử:</b> Đái tháo đường type 1.<br><br><b>Xét nghiệm:</b> Điện giải đồ lúc vào viện: Na⁺ 128 mmol/L, K⁺ 5.8 mmol/L (tăng). Bệnh nhân được bắt đầu bù dịch bằng NaCl 0.9% và truyền insulin tĩnh mạch liên tục theo phác đồ. Sau 4 giờ điều trị, bệnh nhân tỉnh táo hơn, đường huyết giảm còn 15 mmol/L. Xét nghiệm lại điện giải đồ cho thấy K⁺ 3.2 mmol/L (giảm).",
+      "questions": [
+        {
+          "q": "Tại sao nồng độ Kali máu ban đầu của bệnh nhân lại cao (5.8 mmol/L)?",
+          "options": [
+            "Do bệnh nhân bị suy thận cấp",
+            "Do kali di chuyển từ nội bào ra ngoại bào trong môi trường toan máu và thiếu insulin",
+            "Do bệnh nhân ăn nhiều thực phẩm chứa kali",
+            "Do tình trạng tan máu"
+          ],
+          "answer": 1,
+          "explain": "Trong nhiễm toan ceton, có hai cơ chế chính đẩy Kali từ trong tế bào ra ngoài: (1) Toan máu: ion H⁺ đi vào tế bào và ion K⁺ đi ra để duy trì cân bằng điện tích. (2) Thiếu insulin: Insulin có vai trò quan trọng trong việc kích thích bơm Na⁺-K⁺-ATPase, đưa Kali vào trong tế bào. Thiếu insulin làm giảm hoạt động của bơm này."
+        },
+        {
+          "q": "Tình trạng tổng lượng Kali dự trữ trong cơ thể của bệnh nhân lúc vào viện thực chất là gì?",
+          "options": [
+            "Tăng",
+            "Bình thường",
+            "Thiếu hụt nặng",
+            "Không thay đổi"
+          ],
+          "answer": 2,
+          "explain": "Mặc dù Kali máu ban đầu bình thường hoặc cao, nhưng tổng lượng Kali toàn cơ thể luôn thiếu hụt. Nguyên nhân là do tình trạng lợi niệu thẩm thấu (do đường huyết quá cao) gây mất một lượng lớn Kali qua nước tiểu, cùng với việc nôn mửa."
+        },
+        {
+          "q": "Cơ chế chính gây ra sự sụt giảm nhanh chóng nồng độ Kali máu trong quá trình điều trị là gì?",
+          "options": [
+            "Kali bị mất thêm qua nước tiểu",
+            "Kali gắn kết với glucose trong máu",
+            "Kali bị pha loãng do bù dịch",
+            "Insulin và việc điều chỉnh toan máu làm Kali di chuyển trở lại vào trong tế bào"
+          ],
+          "answer": 3,
+          "explain": "Khi bắt đầu điều trị, hai yếu tố làm Kali máu giảm nhanh: (1) Truyền insulin sẽ kích hoạt lại bơm Na⁺-K⁺-ATPase, đưa Kali từ máu vào tế bào. (2) Việc điều chỉnh tình trạng toan máu (pH tăng lên) sẽ làm đảo ngược quá trình trao đổi H⁺-K⁺, khiến Kali di chuyển trở lại vào tế bào."
+        },
+        {
+          "q": "Việc bắt đầu truyền insulin khi nồng độ Kali máu < 3.3 mmol/L mà chưa bù Kali có thể gây ra biến chứng nguy hiểm nào?",
+          "options": [
+            "Loạn nhịp ác tính và yếu/liệt cơ hô hấp đều có thể xảy ra",
+            "Chỉ co giật do phù não",
+            "Không có nguy cơ nếu đường huyết cao",
+            "Chỉ tăng huyết áp"
+          ],
+          "answer": 0,
+          "explain": "Insulin khi Kali quá thấp sẽ làm Kali tiếp tục đi vào tế bào, gây rối loạn nhịp và yếu cơ hô hấp. Phải bù Kali và trì hoãn Insulin đến khi Kali vượt ngưỡng an toàn theo phác đồ."
+        },
+        {
+          "q": "Theo hướng dẫn điều trị nhiễm toan ceton, khi nào nên bắt đầu bù Kali?",
+          "options": [
+            "Chỉ khi Kali máu giảm xuống dưới 3.3 mmol/L",
+            "Ngay từ đầu nếu Kali máu < 5.2 mmol/L, và trì hoãn insulin nếu Kali < 3.3 mmol/L",
+            "Sau khi đã điều trị bằng insulin được 6 giờ",
+            "Không cần bù Kali vì nồng độ ban đầu đã cao"
+          ],
+          "answer": 1,
+          "explain": "Các hướng dẫn đều nhấn mạnh tầm quan trọng của việc theo dõi và bù Kali sớm. Việc bù Kali nên được bắt đầu ngay khi nồng độ Kali trong khoảng 3.3-5.2 mmol/L. Đặc biệt, nếu Kali lúc vào viện < 3.3 mmol/L, cần phải bù Kali trước và trì hoãn việc dùng insulin cho đến khi Kali tăng lên trên mức này để đảm bảo an toàn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 25 tuổi bị tường sập đè lên hai chân trong tai nạn lao động",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 25 tuổi, được tìm thấy bất tỉnh sau khi bị tường sập đè lên hai chân trong một vụ tai nạn lao động. Bệnh nhân được đưa vào viện sau khoảng 4 giờ.<br><br><b>Khám lâm sàng:</b> Bệnh nhân lơ mơ, GCS 13 điểm. Hai chân sưng to, căng cứng, ấn rất đau, có nhiều vết bầm tím nhưng không có vết thương hở. Nước tiểu của bệnh nhân có màu nâu sẫm (màu xá xị). Sinh hiệu: mạch 110 lần/phút, huyết áp 100/70 mmHg.<br><br><b>Xét nghiệm:</b> Na⁺ 136 mmol/L, K⁺ 6.8 mmol/L (tăng), Creatinin 220 µmol/L, Ure 15 mmol/L. CK (Creatine Kinase) 50,000 U/L (tăng rất cao). Myoglobin niệu dương tính.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất với bệnh nhân này là gì?",
+          "options": [
+            "Suy thận cấp trước thận do mất máu",
+            "Sốc nhiễm khuẩn do hoại tử chi",
+            "Hội chứng vùi lấp với ly giải cơ vân cấp và tổn thương thận cấp",
+            "Tăng Kali máu giả do tan máu mẫu bệnh phẩm"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh chấn thương do đè ép, sưng cứng chi, nước tiểu màu xá xị và đặc biệt là nồng độ CK tăng rất cao là điển hình của ly giải cơ vân cấp (rhabdomyolysis) do hội chứng vùi lấp. Tăng Kali máu và Creatinin là các biến chứng của tình trạng này."
+        },
+        {
+          "q": "Cơ chế chính gây tăng Kali máu trong ly giải cơ vân là gì?",
+          "options": [
+            "Chỉ do thuốc giữ Kali",
+            "Chỉ do toan chuyển hóa",
+            "Chỉ do ăn nhiều Kali",
+            "Giải phóng Kali từ cơ hoại tử phối hợp giảm thải do tổn thương thận cấp"
+          ],
+          "answer": 3,
+          "explain": "Cơ vân chứa phần lớn Kali nội bào. Tiêu cơ giải phóng Kali nhanh; tổn thương thận do Myoglobin và giảm tưới máu làm Kali tiếp tục tích tụ."
+        },
+        {
+          "q": "Màu sắc nước tiểu nâu sẫm của bệnh nhân là do sự hiện diện của chất nào?",
+          "options": [
+            "Myoglobin",
+            "Bilirubin",
+            "Hemoglobin",
+            "Porphyrin"
+          ],
+          "answer": 0,
+          "explain": "Myoglobin là một protein chứa hem, có chức năng vận chuyển oxy trong tế bào cơ. Khi tế bào cơ bị vỡ, Myoglobin được giải phóng vào máu và được lọc qua cầu thận. Ở nồng độ cao, Myoglobin làm cho nước tiểu có màu nâu đỏ đặc trưng."
+        },
+        {
+          "q": "Ngoài tăng Kali máu, biến chứng điện giải và chuyển hóa nào thường gặp trong ly giải cơ vân cấp?",
+          "options": [
+            "Hạ Phosphate, tăng Canxi, kiềm chuyển hóa",
+            "Tăng Phosphate, hạ Canxi, toan chuyển hóa",
+            "Tăng Natri, hạ Clo",
+            "Hạ Magie, tăng Bicarbonat"
+          ],
+          "answer": 1,
+          "explain": "Sự phá hủy tế bào cơ cũng giải phóng một lượng lớn Phosphate và các acid hữu cơ (gây toan chuyển hóa). Phosphate tăng cao trong máu sẽ gắn kết với Canxi, gây ra tình trạng hạ Canxi máu. Bộ ba tăng K⁺, tăng PO₄³⁻, và hạ Ca²⁺ là rất điển hình."
+        },
+        {
+          "q": "Biện pháp điều trị nền tảng để ngăn ngừa tổn thương thận cấp và xử trí các rối loạn điện giải trong ly giải cơ vân là gì?",
+          "options": [
+            "Dùng kháng sinh phổ rộng",
+            "Phẫu thuật cắt lọc chi ngay lập tức",
+            "Bù dịch tích cực bằng dung dịch tinh thể (ví dụ: NaCl 0.9%)",
+            "Dùng thuốc giãn cơ"
+          ],
+          "answer": 2,
+          "explain": "Bù dịch sớm và tích cực là biện pháp quan trọng nhất. Việc truyền một lượng lớn dịch giúp duy trì thể tích tuần hoàn, tăng lưu lượng máu qua thận và tăng lượng nước tiểu. Điều này giúp 'rửa trôi' các trụ Myoglobin khỏi ống thận, ngăn ngừa tổn thương thận cấp, đồng thời giúp pha loãng nồng độ Kali và các chất độc khác trong máu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 28 tuổi có tiền sử rối loạn tâm thần, co giật sau khi uống nước nhiều",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 28 tuổi được đưa vào viện vì một cơn co giật. Theo lời người nhà, bệnh nhân gần đây có hành vi uống nước liên tục một cách không kiểm soát, có thể lên đến 10 lít mỗi ngày.<br><br><b>Tiền sử:</b> Rối loạn tâm thần.<br><br><b>Khám lâm sàng:</b> Bệnh nhân trong trạng thái sau cơn co giật, lơ mơ. Da không khô, không phù. Sinh hiệu hoàn toàn ổn định.<br><br><b>Xét nghiệm:</b> Na⁺ 118 mmol/L (giảm nặng), K⁺ 3.8 mmol/L. ALTT máu 240 mOsm/kg (giảm). ALTT niệu 80 mOsm/kg (giảm), Na⁺ niệu < 20 mmol/L.",
+      "questions": [
+        {
+          "q": "Tình trạng này được gọi là gì?",
+          "options": [
+            "Đái tháo nhạt",
+            "Hội chứng SIADH",
+            "Suy thận cấp",
+            "Chứng cuồng uống do tâm thần (Psychogenic polydipsia)"
+          ],
+          "answer": 3,
+          "explain": "Bệnh cảnh một bệnh nhân có bệnh tâm thần, uống một lượng nước rất lớn và có hạ Natri máu là điển hình cho chứng cuồng uống do tâm thần."
+        },
+        {
+          "q": "Cơ chế chính gây hạ Natri máu ở bệnh nhân này là gì?",
+          "options": [
+            "Lượng nước uống vào vượt quá khả năng bài tiết nước tự do tối đa của thận",
+            "Thận không có khả năng pha loãng nước tiểu",
+            "Thận không có khả năng cô đặc nước tiểu",
+            "Mất quá nhiều Natri qua nước tiểu"
+          ],
+          "answer": 0,
+          "explain": "Một quả thận khỏe mạnh có thể thải ra một lượng nước tiểu rất loãng, tối đa khoảng 10-15 lít/ngày. Ở bệnh nhân này, do rối loạn tâm thần, lượng nước uống vào đã vượt quá ngưỡng này. Cơ thể không thể thải hết lượng nước tự do uống vào, dẫn đến ứ nước và hạ Natri máu pha loãng."
+        },
+        {
+          "q": "Dấu hiệu cận lâm sàng nào giúp phân biệt rõ nhất giữa chứng cuồng uống và SIADH?",
+          "options": [
+            "Nồng độ Natri máu",
+            "Áp lực thẩm thấu nước tiểu",
+            "Áp lực thẩm thấu máu",
+            "Nồng độ Creatinin máu"
+          ],
+          "answer": 1,
+          "explain": "Điểm khác biệt mấu chốt nằm ở đáp ứng của ADH và thận. Trong SIADH, ADH tiết ra không phù hợp làm thận cô đặc nước tiểu (ALTT niệu > 100). Ngược lại, trong chứng cuồng uống, cơ thể phản ứng sinh lý bình thường bằng cách ức chế hoàn toàn ADH để cố gắng thải lượng nước thừa, do đó nước tiểu sẽ được pha loãng tối đa (ALTT niệu rất thấp, thường < 100)."
+        },
+        {
+          "q": "Tại sao chức năng thận bình thường lại là một yếu tố cần thiết trong cơ chế bệnh sinh này?",
+          "options": [
+            "Để có thể thải một lượng lớn Natri",
+            "Để có thể sản xuất một lượng lớn ADH",
+            "Để có thể pha loãng nước tiểu tối đa (tái hấp thu muối mà không tái hấp thu nước)",
+            "Để có thể cô đặc nước tiểu tối đa"
+          ],
+          "answer": 2,
+          "explain": "Khả năng pha loãng nước tiểu tối đa là cơ chế bảo vệ chính chống lại hạ Natri máu khi uống nhiều nước. Để làm được điều này, thận phải có khả năng tái hấp thu các chất tan (muối) ở đoạn pha loãng của ống thận (quai Henle, ống lượn xa) mà không tái hấp thu nước (do không có ADH). Chức năng thận bình thường đảm bảo quá trình này diễn ra hiệu quả."
+        },
+        {
+          "q": "Điều trị chính cho bệnh nhân này là gì?",
+          "options": [
+            "Truyền NaCl 3%",
+            "Dùng lợi tiểu quai",
+            "Dùng Demeclocycline",
+            "Hạn chế nước nghiêm ngặt"
+          ],
+          "answer": 3,
+          "explain": "Vấn đề cốt lõi là do uống quá nhiều nước. Do đó, điều trị cơ bản và hiệu quả nhất là hạn chế nghiêm ngặt lượng nước đưa vào, cho phép thận có thời gian để tự đào thải lượng nước dư thừa và phục hồi nồng độ Natri máu. Việc truyền muối ưu trương chỉ dành cho các trường hợp có triệu chứng thần kinh nặng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 45 tuổi yếu cơ và tăng huyết áp khó kiểm soát",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 45 tuổi, đến khám vì yếu cơ và tăng huyết áp khó kiểm soát. Bệnh nhân không bị nôn, không dùng lợi tiểu.<br><br><b>Tiền sử:</b> Tăng huyết áp 2 năm nay, đã dùng phối hợp 2 loại thuốc nhưng huyết áp vẫn thường xuyên ở mức 160/100 mmHg.<br><br><b>Khám lâm sàng:</b> Sinh hiệu: huyết áp 165/105 mmHg. Yếu nhẹ cơ tứ chi.<br><br><b>Xét nghiệm:</b> Na⁺ 145 mmol/L, K⁺ 2.8 mmol/L (giảm). Khí máu có kiềm chuyển hóa. Xét nghiệm chuyên sâu cho thấy nồng độ Aldosterone huyết tương tăng cao, trong khi hoạt độ Renin huyết tương bị ức chế.",
+      "questions": [
+        {
+          "q": "Sự kết hợp giữa tăng huyết áp và hạ Kali máu tự phát gợi ý đến bệnh lý nào?",
+          "options": [
+            "Cường Aldosterone",
+            "Cường giáp",
+            "Suy thượng thận",
+            "Hẹp động mạch chủ"
+          ],
+          "answer": 0,
+          "explain": "Tăng huyết áp đi kèm với hạ Kali máu mà không do các nguyên nhân rõ ràng như dùng lợi tiểu hay tiêu chảy là một dấu hiệu lâm sàng rất kinh điển, cần phải tầm soát các nguyên nhân cường mineralocorticoid, trong đó cường Aldosterone là phổ biến nhất."
+        },
+        {
+          "q": "Cơ chế mà Aldosterone gây hạ Kali máu là gì?",
+          "options": [
+            "Đưa Kali từ máu vào trong tế bào",
+            "Tăng cường bài tiết Kali tại ống góp của thận",
+            "Giảm hấp thu Kali từ thức ăn",
+            "Gây mất Kali qua mồ hôi"
+          ],
+          "answer": 1,
+          "explain": "Aldosterone tác động lên các tế bào chính của ống lượn xa và ống góp, làm tăng hoạt động của các kênh Natri biểu mô (ENaC) ở mặt lòng ống và bơm Na⁺-K⁺-ATPase ở mặt đáy. Điều này làm tăng tái hấp thu Natri và đồng thời tăng bài tiết Kali vào lòng ống thận để thải ra ngoài."
+        },
+        {
+          "q": "Tình trạng Aldosterone cao và Renin thấp gợi ý nguyên nhân của cường Aldosterone là gì?",
+          "options": [
+            "Do dùng thuốc lợi tiểu",
+            "Thứ phát (do hẹp động mạch thận)",
+            "Nguyên phát (tại tuyến thượng thận)",
+            "Do thai kỳ"
+          ],
+          "answer": 2,
+          "explain": "Cường Aldosterone nguyên phát (hội chứng Conn) là do tuyến thượng thận tự chủ sản xuất quá nhiều Aldosterone. Nồng độ Aldosterone cao gây giữ muối nước, tăng huyết áp, và ức chế ngược hệ thống Renin-Angiotensin, dẫn đến hoạt độ Renin huyết tương rất thấp. Ngược lại, trong cường Aldosterone thứ phát (như hẹp động mạch thận), Renin sẽ tăng cao."
+        },
+        {
+          "q": "Ngoài tăng huyết áp và hạ Kali máu, Aldosterone còn gây ra rối loạn nào khác?",
+          "options": [
+            "Toan chuyển hóa",
+            "Hạ Natri máu",
+            "Tăng đường huyết",
+            "Kiềm chuyển hóa"
+          ],
+          "answer": 3,
+          "explain": "Việc Aldosterone tăng cường bài tiết ion H⁺ tại các tế bào xen kẽ của ống góp, cùng với tình trạng hạ Kali máu (làm H⁺ di chuyển vào tế bào), sẽ dẫn đến tình trạng kiềm chuyển hóa."
+        },
+        {
+          "q": "Thuốc điều trị tăng huyết áp nào là lựa chọn đặc hiệu cho bệnh nhân này?",
+          "options": [
+            "Thuốc đối kháng thụ thể Aldosterone (ví dụ: Spironolactone)",
+            "Thuốc chẹn kênh canxi (ví dụ: Amlodipine)",
+            "Thuốc ức chế men chuyển (ví dụ: Lisinopril)",
+            "Thuốc chẹn beta (ví dụ: Metoprolol)"
+          ],
+          "answer": 0,
+          "explain": "Vì cơ chế bệnh sinh là do tác động quá mức của Aldosterone, việc sử dụng các thuốc ức chế cạnh tranh với Aldosterone tại thụ thể của nó như Spironolactone hay Eplerenone là liệu pháp điều trị nhắm trúng đích. Các thuốc này không chỉ hạ huyết áp mà còn giúp giữ lại Kali, điều chỉnh hạ Kali máu và kiềm chuyển hóa."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi khám sức khỏe định kỳ phát hiện Kali máu cao bất thường",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 50 tuổi, đến khám sức khỏe định kỳ, hoàn toàn không có triệu chứng gì.<br><br><b>Tiền sử:</b> Không có tiền sử bệnh thận, tim mạch hay đái tháo đường, không dùng thuốc gì.<br><br><b>Khám lâm sàng:</b> Kết quả xét nghiệm máu thường quy trả về cho thấy K⁺ 6.5 mmol/L (tăng). Các chỉ số khác như Natri, Creatinin, công thức máu đều trong giới hạn bình thường. Bác sĩ cảm thấy kết quả này không phù hợp với lâm sàng, đã cho làm lại điện tâm đồ thấy hoàn toàn bình thường. Khi hỏi kỹ thuật viên lấy máu, được biết mẫu máu của bệnh nhân hơi khó lấy và có garo hơi lâu. Bác sĩ yêu cầu lấy lại một mẫu máu khác, không garo lâu và gửi đi xét nghiệm ngay.<br><br><b>Xét nghiệm:</b> Kết quả lần 2 cho thấy K⁺ 4.2 mmol/L (bình thường).",
+      "questions": [
+        {
+          "q": "Tình trạng tăng Kali máu ở kết quả xét nghiệm đầu tiên được gọi là gì?",
+          "options": [
+            "Tăng Kali máu nặng có biến chứng tim mạch",
+            "Tăng Kali máu giả (Pseudohyperkalemia)",
+            "Tăng Kali máu do suy thận tiềm ẩn",
+            "Lỗi của máy xét nghiệm"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân không có triệu chứng, không có yếu tố nguy cơ, ECG bình thường nhưng kết quả Kali máu lại cao. Sự không tương xứng giữa lâm sàng và cận lâm sàng này, cùng với việc kết quả lặp lại bình thường, xác định đây là tình trạng tăng Kali máu giả - một lỗi do quá trình tiền phân tích."
+        },
+        {
+          "q": "Cơ chế phổ biến nhất gây ra tăng Kali máu giả là gì?",
+          "options": [
+            "Chỉ nắm tay",
+            "Chỉ tan máu",
+            "Tan máu mẫu, nắm tay lặp lại khi lấy máu và tăng bạch cầu/tiểu cầu rất cao đều có thể gây tăng Kali giả",
+            "Chỉ tăng tiểu cầu"
+          ],
+          "answer": 2,
+          "explain": "Tăng Kali giả là lỗi tiền phân tích hoặc do giải phóng Kali trong ống nghiệm. Cần lấy lại mẫu đúng kỹ thuật và dùng huyết tương/máu toàn phần khi nghi tăng tế bào máu."
+        },
+        {
+          "q": "Yếu tố nào sau đây KHÔNG phải là dấu hiệu gợi ý tăng Kali máu giả?",
+          "options": [
+            "Bệnh nhân hoàn toàn không có triệu chứng",
+            "Chức năng thận bình thường",
+            "Kết quả xét nghiệm lặp lại cho giá trị bình thường",
+            "Có các biến đổi điển hình trên điện tâm đồ"
+          ],
+          "answer": 3,
+          "explain": "Sự hiện diện của các biến đổi trên ECG (sóng T cao nhọn, QRS giãn rộng...) là bằng chứng cho thấy nồng độ Kali cao đang có tác động sinh học thực sự lên cơ thể, và do đó chống lại chẩn đoán tăng Kali máu giả. Ngược lại, một ECG hoàn toàn bình thường khi Kali máu báo về rất cao là một dấu hiệu mạnh mẽ gợi ý đây là lỗi xét nghiệm."
+        },
+        {
+          "q": "Tại sao ly giải hồng cầu lại gây tăng Kali máu trong ống nghiệm?",
+          "options": [
+            "Nồng độ Kali bên trong tế bào hồng cầu cao hơn rất nhiều so với trong huyết tương",
+            "Hồng cầu chứa một lượng lớn men chuyển làm tăng Kali",
+            "Màng hồng cầu vỡ ra sẽ gắn kết với các ion Natri, làm tăng nồng độ Kali tương đối",
+            "Mẫu máu bị tan máu sẽ có pH thấp hơn, đẩy Kali ra khỏi các tế bào còn lại"
+          ],
+          "answer": 0,
+          "explain": "Nồng độ Kali bên trong tế bào (bao gồm cả hồng cầu) cao gấp khoảng 25-30 lần so với nồng độ trong huyết tương (khoảng 140 mmol/L so với 4-5 mmol/L). Do đó, khi hồng cầu bị vỡ trong ống nghiệm, một lượng lớn Kali nội bào sẽ thoát ra, làm tăng giả tạo nồng độ Kali đo được trong mẫu huyết tương."
+        },
+        {
+          "q": "Hướng xử trí phù hợp nhất khi nghi ngờ tăng Kali máu giả là gì?",
+          "options": [
+            "Bắt đầu điều trị cấp cứu tăng Kali máu ngay lập tức",
+            "Lấy lại một mẫu máu khác để kiểm tra lại, chú ý đến kỹ thuật lấy máu",
+            "Cho bệnh nhân nhập viện để theo dõi sát",
+            "Làm xét nghiệm Kali niệu để đánh giá khả năng thải của thận"
+          ],
+          "answer": 1,
+          "explain": "Việc điều trị một tình trạng tăng Kali máu không có thật có thể gây ra những hậu quả nghiêm trọng (ví dụ gây hạ Kali máu nguy hiểm). Do đó, khi có bất kỳ sự nghi ngờ nào về tính chính xác của kết quả, đặc biệt là khi nó không phù hợp với bệnh cảnh lâm sàng, bước đầu tiên và quan trọng nhất là phải lấy lại mẫu máu để kiểm tra, đồng thời đảm bảo kỹ thuật lấy và vận chuyển mẫu được thực hiện đúng cách."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi khó thở khi nằm, phù hai chi dưới, suy tim EF giảm",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 68 tuổi vào viện vì khó thở khi nằm và phù hai chi dưới tăng dần 2 tuần qua.<br><br><b>Tiền sử:</b> Nhồi máu cơ tim, suy tim phân suất tống máu giảm (EF 30%).<br><br><b>Khám lâm sàng:</b> Tĩnh mạch cổ nổi tư thế 45 độ, phổi rale ẩm hai đáy, gan to dưới sườn 3 cm, phù mềm ấn lõm hai cẳng chân, huyết áp 100/60 mmHg, mạch 95 lần/phút.<br><br><b>Xét nghiệm:</b> Na⁺ 124 mmol/L (giảm), K⁺ 4.0 mmol/L, Creatinin 120 μmol/L, Pro-BNP 8500 pg/mL (tăng), TSH bình thường. Phân tích nước tiểu: áp lực thẩm thấu niệu 450 mOsm/kg, Natri niệu 15 mmol/L (giảm).",
+      "questions": [
+        {
+          "q": "Phân loại rối loạn natri máu trên bệnh nhân này là gì?",
+          "options": [
+            "Hạ natri máu nhược trương giảm thể tích",
+            "Hạ natri máu đẳng trương tăng thể tích",
+            "Hạ natri máu nhược trương tăng thể tích",
+            "Hạ natri máu ưu trương thể tích bình thường"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có suy tim chức năng tâm thu giảm, khám lâm sàng có phù và tĩnh mạch cổ nổi, cho thấy dư thừa lượng dịch ngoại bào, do đó được xếp vào nhóm hạ natri máu nhược trương tăng thể tích."
+        },
+        {
+          "q": "Cơ chế nào sau đây KHÔNG tham gia vào quá trình sinh lý bệnh gây hạ natri ở bệnh nhân này?",
+          "options": [
+            "Giảm thể tích động mạch tuần hoàn hiệu dụng",
+            "Kích hoạt hệ thống renin-angiotensin-aldosterone",
+            "Tăng tái hấp thu nước tự do tại ống góp",
+            "Giảm tiết hormone chống bài niệu trung ương"
+          ],
+          "answer": 3,
+          "explain": "Bơm tim suy yếu làm giảm cung lượng tim, dẫn tới suy giảm thể tích tuần hoàn động mạch hiệu dụng. Phản ứng bù trừ của cơ thể là tăng cường hệ RAAS và kích thích tăng tiết ADH trung ương để giữ nước. Do đó 'giảm tiết ADH' là sai."
+        },
+        {
+          "q": "Ý nghĩa lâm sàng của xét nghiệm Natri niệu 15 mmol/L ở bệnh nhân này là gì?",
+          "options": [
+            "Phản ánh tình trạng giảm tưới máu thận",
+            "Biểu hiện tiết hormone chống bài niệu không thích hợp",
+            "Khẳng định bệnh nhân bị hoại tử ống thận",
+            "Loại trừ nguyên nhân do sử dụng thuốc lợi tiểu"
+          ],
+          "answer": 0,
+          "explain": "Để bù đắp tình trạng giảm tưới máu, thận tăng cường tái hấp thu muối nước tối đa khiến nồng độ natri bài xuất qua nước tiểu giảm xuống rất thấp (< 20 mmol/L)."
+        },
+        {
+          "q": "Phương pháp điều trị ban đầu thích hợp nhất cho tình trạng hạ natri máu này là gì?",
+          "options": [
+            "Bổ sung viên muối natri clorid đường uống",
+            "Hạn chế dịch và tối ưu thuốc suy tim",
+            "Truyền nhanh tĩnh mạch dung dịch NaCl 3%",
+            "Lọc máu siêu lọc rút nước liên tục cấp cứu"
+          ],
+          "answer": 1,
+          "explain": "Hạ natri máu tăng thể tích mức độ vừa, không có biến chứng thần kinh thì xử trí ưu tiên là hạn chế nước uống vào, kết hợp điều chỉnh thuốc lợi tiểu quai và thuốc suy tim."
+        },
+        {
+          "q": "Thuốc nào sau đây có cơ chế đối kháng thụ thể vasopressin V2, được ưu tiên chỉ định cho tình trạng này?",
+          "options": [
+            "Spironolactone",
+            "Dapagliflozin",
+            "Tolvaptan",
+            "Valsartan"
+          ],
+          "answer": 2,
+          "explain": "Tolvaptan là thuốc nhóm vaptan, có tác dụng chẹn đặc hiệu thụ thể V2 của vasopressin (ADH) tại ống góp, giúp tăng bài niệu nước tự do mà không làm mất natri. Nguồn tham khảo: Hướng dẫn chẩn đoán và điều trị suy tim ACC/AHA."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 25 tuổi nôn mửa và đau bụng dữ dội, đái tháo đường type 1 bỏ tiêm insulin",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 25 tuổi vào cấp cứu vì nôn mửa liên tục và đau bụng dữ dội.<br><br><b>Tiền sử:</b> Đái tháo đường type 1, bỏ tiêm insulin 3 ngày nay.<br><br><b>Khám lâm sàng:</b> Lơ mơ, mạch 125 lần/phút, huyết áp 95/60 mmHg, nhịp thở 28 lần/phút kiểu Kussmaul, SpO₂ 98%, da niêm mạc rất khô, nhãn cầu trũng, hơi thở mùi táo thối.<br><br><b>Xét nghiệm:</b> Glucose 28.5 mmol/L (tăng), Na⁺ 135 mmol/L, K⁺ 3.1 mmol/L (giảm), Cl⁻ 100 mmol/L, HCO₃⁻ 8 mmol/L (giảm), pH động mạch 7.12 (toan), Creatinin 110 μmol/L, ceton niệu dương tính mạnh.",
+      "questions": [
+        {
+          "q": "Chẩn đoán xác định về rối loạn toan kiềm và điện giải hiện tại?",
+          "options": [
+            "Toan ceton kèm tăng kali máu giả tạo",
+            "Tăng áp lực thẩm thấu kèm hạ kali",
+            "Toan lactic kèm hạ kali máu nặng",
+            "Toan ceton kèm hạ kali máu nặng"
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân có tăng đường huyết, toan chuyển hóa nặng (pH giảm, HCO₃⁻ thấp) và ceton niệu, phù hợp toan ceton đái tháo đường (DKA) kèm theo biến chứng hạ kali máu (K⁺ < 3.3 mmol/L)."
+        },
+        {
+          "q": "Yếu tố nào sau đây KHÔNG làm suy giảm tổng lượng kali cơ thể trong bệnh cảnh này?",
+          "options": [
+            "Dịch chuyển kali từ nội bào ra khoang ngoại bào",
+            "Nôn mửa liên tục gây mất dịch vị và điện giải",
+            "Bài niệu thẩm thấu do nồng độ đường huyết cao",
+            "Bài tiết kali qua thận cùng với các anion ceton"
+          ],
+          "answer": 0,
+          "explain": "Hiện tượng dịch chuyển kali từ nội bào ra ngoại bào do thiếu hụt insulin và toan máu làm tăng nồng độ K⁺ trong huyết thanh tạm thời, nhưng không làm mất kali ra khỏi cơ thể. Tổng lượng kali cơ thể bị cạn kiệt là do bài niệu thẩm thấu, nôn mửa và bài tiết theo ceton niệu mang điện âm."
+        },
+        {
+          "q": "Cận lâm sàng nào quan trọng nhất cần theo dõi liên tục trong giờ đầu?",
+          "options": [
+            "Khí máu động mạch",
+            "Điện tâm đồ bề mặt",
+            "Đường huyết mao mạch",
+            "Áp lực thẩm thấu máu"
+          ],
+          "answer": 1,
+          "explain": "Hạ kali máu nặng đe dọa ngừng tim cấp tính, do đó theo dõi điện tâm đồ bề mặt liên tục để phát hiện rối loạn nhịp tim là bước không thể trì hoãn trong phòng cấp cứu."
+        },
+        {
+          "q": "Lựa chọn dung dịch truyền tĩnh mạch ban đầu phù hợp nhất?",
+          "options": [
+            "Truyền insulin tĩnh mạch liên tục",
+            "Truyền dung dịch natri bicarbonate",
+            "Truyền NaCl 0.9% pha kali clorua",
+            "Truyền glucose 5% pha kali clorua"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân DKA kèm hạ kali máu nặng (< 3.3 mmol/L) cần ưu tiên bù dịch đẳng trương (NaCl 0.9%) kết hợp bù kali clorua tĩnh mạch tích cực."
+        },
+        {
+          "q": "Bệnh nhân này có chỉ định bắt đầu truyền tĩnh mạch insulin khi nào?",
+          "options": [
+            "Ngay khi có kết quả đường huyết trên 13.9 mmol/L",
+            "Khi pH máu động mạch cải thiện lên trên mức 7.3",
+            "Sau khi bệnh nhân đi tiểu được ít nhất 50 ml/giờ",
+            "Sau khi nồng độ kali máu đạt mức trên 3.3 mmol/L"
+          ],
+          "answer": 3,
+          "explain": "Insulin có tác dụng đẩy K⁺ vào nội bào mạnh mẽ, có thể gây hạ kali máu tử vong nếu dùng quá sớm. Guideline yêu cầu phải trì hoãn insulin cho đến khi K⁺ > 3.3 mmol/L. Nguồn tham khảo: Phác đồ ADA về cấp cứu toan ceton đái tháo đường."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 60 tuổi nghiện rượu mạn tính, liệt tứ chi sau khi bù Natri ưu trương",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 60 tuổi, tiền sử nghiện rượu mạn tính, vào cấp cứu vì lơ mơ. Xét nghiệm Na⁺ lúc vào là 108 mmol/L. Bệnh nhân được truyền tĩnh mạch NaCl 3% liên tục. Sau 24 giờ, bệnh nhân tỉnh táo hơn, xét nghiệm lại thấy Na⁺ tăng lên 125 mmol/L. Sang ngày thứ 3, bệnh nhân đột ngột liệt mềm tứ chi, nói khó, nuốt nghẹn, ý thức lơ mơ trở lại.<br><br><b>Khám lâm sàng:</b> Hội chứng giả hành tủy, phản xạ gân xương tăng, Babinski hai bên dương tính, không có dấu màng não, không sốt.",
+      "questions": [
+        {
+          "q": "Nguyên nhân gây ra biến chứng thần kinh hiện tại là gì?",
+          "options": [
+            "Hội chứng hủy myelin thẩm thấu",
+            "Nhồi máu não hệ tuần hoàn sau",
+            "Xuất huyết dưới nhện tự phát",
+            "Bệnh não Wernicke cấp tính"
+          ],
+          "answer": 0,
+          "explain": "Triệu chứng liệt tứ chi, giả hành tủy xuất hiện sau vài ngày bù natri ưu trương ở người nghiện rượu là bệnh cảnh kinh điển của hội chứng hủy myelin thẩm thấu (ODS), còn gọi là hủy myelin cầu não trung tâm."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh chính của biến chứng này là gì?",
+          "options": [
+            "Phù nề do dịch chuyển nước vào trong tế bào",
+            "Mất nước và co rút các tế bào thần kinh đệm",
+            "Phản ứng viêm màng não vô khuẩn cấp tính",
+            "Tăng áp lực nội sọ cấp tính chèn ép nhu mô"
+          ],
+          "answer": 1,
+          "explain": "Trong môi trường hạ natri mạn tính, não bộ đã thải bớt các chất thẩm thấu hữu cơ. Khi truyền muối ưu trương làm natri tăng đột ngột, nước bị kéo ra khỏi tế bào thần kinh đệm, gây co rút và phá hủy lớp bao myelin do stress thẩm thấu."
+        },
+        {
+          "q": "Thăm dò hình ảnh nào có giá trị chẩn đoán xác định cao nhất?",
+          "options": [
+            "Chụp cắt lớp vi tính sọ não",
+            "Siêu âm Doppler xuyên sọ",
+            "Chụp cộng hưởng từ sọ não",
+            "Chụp mạch máu não số hóa"
+          ],
+          "answer": 2,
+          "explain": "Cộng hưởng từ (MRI) sọ não là tiêu chuẩn vàng, thường ghi nhận hình ảnh tổn thương tăng tín hiệu trên chuỗi xung T2/FLAIR tại vùng cầu não."
+        },
+        {
+          "q": "Chiến lược điều trị ban đầu đã vi phạm nguyên tắc an toàn nào?",
+          "options": [
+            "Không sử dụng lợi tiểu quai để thải nước tự do",
+            "Sử dụng sai chỉ định dung dịch muối ưu trương",
+            "Bỏ qua việc bù kali đường tĩnh mạch kèm theo",
+            "Tốc độ tăng natri máu vượt quá giới hạn an toàn"
+          ],
+          "answer": 3,
+          "explain": "Na⁺ từ 108 mmol/L tăng lên 125 mmol/L (tăng 17 mmol/L) trong 24 giờ đầu là mức tăng quá nhanh. Guideline khuyến cáo giới hạn tăng không quá 8-10 mmol/L trong 24 giờ đầu để phòng tránh tổn thương myelin."
+        },
+        {
+          "q": "Nếu phát hiện natri máu tăng quá nhanh trong 24 giờ đầu, bước xử trí cần thiết là gì?",
+          "options": [
+            "Truyền tĩnh mạch glucose 5% và desmopressin",
+            "Tăng tốc độ truyền dung dịch natri ưu trương",
+            "Dừng truyền dịch và chờ đợi cơ thể tự cân bằng",
+            "Bắt đầu lọc máu ngắt quãng cấp cứu ngay lập tức"
+          ],
+          "answer": 0,
+          "explain": "Để cứu vãn tình trạng overcorrection, phải chủ động làm hạ lại nồng độ natri máu bằng dung dịch nhược trương (glucose 5%) kết hợp tiêm desmopressin (DDAVP) để ngăn thận thải nước tự do. Nguồn tham khảo: CURRENT Medical Diagnosis & Treatment."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 32 tuổi bị kẹt dưới đống đổ nát do sập hầm 12 giờ",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 32 tuổi được đưa vào cấp cứu sau khi bị kẹt dưới đống đổ nát 12 giờ do sập hầm.<br><br><b>Khám lâm sàng:</b> Kích thích vật vã, mạch 120 lần/phút, huyết áp 85/50 mmHg, SpO₂ 95%, chi dưới phải sưng nề biến dạng và bầm dập rộng, mất mạch mu chân phải, nước tiểu qua sonde niệu đạo có màu đỏ nâu, thể tích 20 ml/giờ.<br><br><b>Xét nghiệm:</b> Na⁺ 135 mmol/L, K⁺ 6.8 mmol/L (tăng), BUN 15 mmol/L, Creatinin 320 μmol/L (tăng), CPK 45000 U/L (tăng rất cao). Điện tâm đồ ghi nhận sóng T cao nhọn đối xứng, QRS giãn rộng 0.12s.",
+      "questions": [
+        {
+          "q": "Định hướng chẩn đoán chính xác nhất giải thích tình trạng bệnh lý?",
+          "options": [
+            "Tổn thương thận cấp do giảm thể tích tuần hoàn",
+            "Tổn thương thận cấp liên quan đến tiêu cơ vân",
+            "Tăng kali máu nguyên phát do toan hóa hô hấp",
+            "Suy thận cấp tắc nghẽn sau thận do sỏi tiết niệu"
+          ],
+          "answer": 1,
+          "explain": "Chấn thương dập nát cơ kết hợp men CPK tăng rất cao và nước tiểu màu đỏ nâu là đặc trưng của hội chứng tiêu cơ vân. Sắc tố myoglobin kết tủa gây hoại tử ống thận cấp, dẫn tới suy thận thiểu niệu."
+        },
+        {
+          "q": "Các cơ chế gây tăng kali máu ở bệnh nhân này: (1) Giải phóng kali từ cơ vân bị phá hủy. (2) Suy giảm bài tiết kali qua thận do tổn thương ống thận. (3) Nhiễm toan chuyển hóa đẩy kali từ nội bào ra ngoại bào. (4) Tăng hấp thu kali qua niêm mạc đường tiêu hóa. Chọn tổ hợp đúng:",
+          "options": [
+            "Chỉ do toan hô hấp",
+            "Chỉ hấp thu Kali đường tiêu hóa",
+            "Giải phóng Kali từ cơ, giảm thải do AKI và toan chuyển hóa đều góp phần",
+            "Chỉ do mất nước"
+          ],
+          "answer": 2,
+          "explain": "Tiêu cơ vân gây tăng Kali đa cơ chế: giải phóng nội bào, suy giảm bài tiết do AKI và dịch chuyển do toan. Đây là cấp cứu tim mạch cần ECG và điều trị ngay."
+        },
+        {
+          "q": "Xét nghiệm nào cần được ưu tiên đánh giá ngay cùng điện giải đồ?",
+          "options": [
+            "X-quang phổi và siêu âm bụng",
+            "Xét nghiệm myoglobin nước tiểu",
+            "Định lượng nồng độ men gan",
+            "Canxi máu và khí máu động mạch"
+          ],
+          "answer": 3,
+          "explain": "Tiêu cơ vân bám dính ion canxi gây hạ canxi máu nặng, kết hợp với toan hóa máu từ mô hoại tử. Cả hai yếu tố này làm trầm trọng thêm độc tính của tăng kali máu trên tim."
+        },
+        {
+          "q": "Xử trí thuốc ưu tiên đầu tiên để bảo vệ hệ tim mạch?",
+          "options": [
+            "Tiêm tĩnh mạch chậm calci clorua",
+            "Lọc máu liên tục tĩnh mạch tĩnh mạch",
+            "Truyền tĩnh mạch natri bicarbonate",
+            "Truyền tĩnh mạch insulin và glucose"
+          ],
+          "answer": 0,
+          "explain": "Khi tăng kali máu có biến đổi ECG nguy hiểm (QRS giãn rộng), bước xử trí tính bằng phút là tiêm tĩnh mạch muối calci (clorua/gluconate) để nâng ngưỡng điện thế màng, chống rung thất cấp tính."
+        },
+        {
+          "q": "Biện pháp quan trọng nhất để ngăn ngừa suy thận tiến triển do myoglobin là gì?",
+          "options": [
+            "Dùng lợi tiểu quai furosemide liều cao",
+            "Bù dịch tinh thể tích cực qua đường tĩnh mạch",
+            "Truyền mannitol để gây lợi tiểu thẩm thấu",
+            "Kiềm hóa nước tiểu bằng dung dịch bicarbonate"
+          ],
+          "answer": 1,
+          "explain": "Để ngăn chặn myoglobin gây tắc nghẽn ống thận, chiến lược chủ chốt là truyền dịch tinh thể (NaCl 0.9% hoặc Ringer) khối lượng lớn và sớm để duy trì lưu lượng dòng chảy qua ống thận. Nguồn tham khảo: KDIGO AKI Guidelines."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 82 tuổi sa sút trí tuệ, lơ mơ và sốt cao, tiêu chảy",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 82 tuổi, sống tại viện dưỡng lão, được đưa vào cấp cứu vì lơ mơ và sốt cao 3 ngày. Người chăm sóc báo cáo bệnh nhân ho khạc đờm nhiều, không chịu ăn uống và tiêu chảy phân lỏng nhiều lần.<br><br><b>Tiền sử:</b> Sa sút trí tuệ.<br><br><b>Khám lâm sàng:</b> Da niêm mạc khô ran, nhãn cầu trũng, mạch 110 lần/phút, huyết áp 90/60 mmHg, nhịp thở 24 lần/phút, nhiệt độ 39 độ C.<br><br><b>Xét nghiệm:</b> Na⁺ 162 mmol/L (tăng), K⁺ 3.5 mmol/L, Creatinin 180 μmol/L, BUN 25 mmol/L, Glucose 6.5 mmol/L. Nước tiểu rất sẫm màu, thể tích 200 ml trong 12 giờ qua.",
+      "questions": [
+        {
+          "q": "Phân loại rối loạn thể tích và điện giải chính của bệnh nhân này?",
+          "options": [
+            "Tăng natri máu kèm tăng thể tích dịch ngoại bào",
+            "Tăng natri máu kèm thể tích dịch ngoại bào bình thường",
+            "Tăng natri máu kèm giảm thể tích dịch ngoại bào",
+            "Hạ natri máu giả tạo do tình trạng cô đặc máu nặng"
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân sốt cao, tiêu chảy, ăn uống kém dẫn tới mất nước đơn thuần nhiều hơn mất muối, gây ra tình trạng tăng natri máu nhược thể tích (giảm thể tích dịch ngoại bào)."
+        },
+        {
+          "q": "Tiêu chuẩn cận lâm sàng nào phản ánh đúng chức năng bù trừ của thận?",
+          "options": [
+            "Phân số bài xuất natri tăng cao trên 2%",
+            "Tỷ số BUN/Creatinin máu giảm dưới mức 10",
+            "Nồng độ kali trong nước tiểu giảm xuống rất thấp",
+            "Áp lực thẩm thấu nước tiểu lớn hơn 800 mOsm/kg"
+          ],
+          "answer": 3,
+          "explain": "Ở bệnh nhân mất nước mạn tính nhưng chức năng ADH và thận còn tốt, thận bù trừ bằng cách cô đặc nước tiểu tối đa, thể hiện qua áp lực thẩm thấu nước tiểu vọt lên rất cao (> 800 mOsm/kg)."
+        },
+        {
+          "q": "Để tính toán lượng nước thiếu hụt (water deficit), công thức cần sử dụng các thông số nào?",
+          "options": [
+            "Trọng lượng cơ thể, giới tính, natri máu hiện tại",
+            "Chiều cao, cân nặng, nồng độ creatinin máu",
+            "Thể tích nước tiểu, hệ số thanh thải creatinin",
+            "Áp lực thẩm thấu máu, áp lực thẩm thấu niệu"
+          ],
+          "answer": 0,
+          "explain": "Công thức tính toán lượng nước thiếu hụt kinh điển dựa vào phần trăm nước trong cơ thể (ước lượng theo giới tính và độ tuổi nhân với trọng lượng) và mức độ tăng của natri máu hiện tại."
+        },
+        {
+          "q": "Dung dịch tĩnh mạch ưu tiên để hồi sức huyết động bước đầu ở bệnh nhân này?",
+          "options": [
+            "Dung dịch natri clorid 0.45% truyền tĩnh mạch",
+            "Dung dịch natri clorid 0.9% truyền tĩnh mạch",
+            "Dung dịch Ringer lactate pha thêm kali clorua",
+            "Dung dịch glucose 5% truyền nhanh qua tĩnh mạch"
+          ],
+          "answer": 1,
+          "explain": "Mặc dù bệnh nhân thiếu nước tự do, nhưng với tình trạng tụt huyết áp và mạch nhanh (sốc giảm thể tích), bước đầu phải hồi sức huyết động bằng dịch tinh thể đẳng trương (NaCl 0.9%)."
+        },
+        {
+          "q": "Sai lầm nào sau đây cần tránh tuyệt đối khi điều trị rối loạn natri máu này?",
+          "options": [
+            "Bổ sung kali đường tĩnh mạch khi bệnh nhân có nước tiểu",
+            "Chuyển sang truyền glucose 5% sau khi huyết động ổn định",
+            "Điều chỉnh nồng độ natri máu về bình thường quá nhanh",
+            "Tập trung tìm kiếm và điều trị nguyên nhân nhiễm khuẩn"
+          ],
+          "answer": 2,
+          "explain": "Nếu dùng dịch nhược trương để hạ natri máu quá nhanh, lượng nước sẽ ồ ạt di chuyển vào khoang tế bào thần kinh, gây nên biến chứng phù não cấp tính và thoát vị não. Nguồn tham khảo: Bệnh học Nội khoa cơ sở."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 40 tuổi liệt mềm tứ chi tiến triển từ dưới lên, tiền sử hội chứng Sjogren",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 40 tuổi vào viện vì liệt mềm tứ chi tiến triển từ dưới lên. Yếu cơ xuất hiện 2 ngày nay, không khó thở, không sốt, tiêu tiểu bình thường.<br><br><b>Tiền sử:</b> Hội chứng Sjogren đang điều trị corticoid liều thấp.<br><br><b>Khám lâm sàng:</b> Tỉnh táo, mạch 80 lần/phút, huyết áp 110/70 mmHg, nhịp thở 18 lần/phút, giảm phản xạ gân xương tứ chi, cơ lực chi dưới 2/5, chi trên 3/5, không liệt thần kinh sọ.<br><br><b>Xét nghiệm:</b> Na⁺ 138 mmol/L, K⁺ 1.8 mmol/L (giảm rất nặng), Cl⁻ 112 mmol/L, HCO₃⁻ 14 mmol/L (giảm), Creatinin 80 μmol/L. Phân tích khí máu động mạch có pH 7.25 (toan).",
+      "questions": [
+        {
+          "q": "Chẩn đoán hội chứng gây hạ kali máu phù hợp nhất trên bệnh nhân này?",
+          "options": [
+            "Bệnh lý thần kinh cơ do hội chứng Guillain-Barré",
+            "Hạ kali máu do lạm dụng thuốc lợi tiểu thiazide",
+            "Hội chứng cường chức năng tuyến vỏ thượng thận",
+            "Bệnh lý toan hóa ống thận type 1 đoạn ống xa"
+          ],
+          "answer": 3,
+          "explain": "Bệnh cảnh hạ kali máu nặng, liệt mềm tứ chi đi kèm toan chuyển hóa tăng clo máu (HCO₃⁻ thấp, khoảng trống anion bình thường) ở bệnh nhân có bệnh tự miễn (Sjogren) là dấu ấn đặc trưng của toan hóa ống thận type 1."
+        },
+        {
+          "q": "Đặc điểm sinh lý bệnh cốt lõi của rối loạn này là gì?",
+          "options": [
+            "Giảm khả năng bài tiết ion H⁺ tại tế bào ống lượn xa",
+            "Mất lượng lớn kali qua đường tiêu hóa do tiêu chảy",
+            "Suy giảm tái hấp thu HCO₃⁻ tại tế bào ống lượn gần",
+            "Đột biến gây kháng tác dụng của hormone vasopressin"
+          ],
+          "answer": 0,
+          "explain": "Bản chất của RTA type 1 là tổn thương tế bào kẽ tại ống lượn xa, làm mất khả năng bơm ion H⁺ vào lòng ống, dẫn đến cơ thể ứ đọng acid và thận tăng cường thải kali để trao đổi natri."
+        },
+        {
+          "q": "Kết quả xét nghiệm nước tiểu nào phù hợp nhất với chẩn đoán này?",
+          "options": [
+            "Áp lực thẩm thấu nước tiểu tăng rất cao",
+            "Độ pH nước tiểu duy trì ở mức lớn hơn 5.5",
+            "Nồng độ natri nước tiểu giảm dưới 20 mmol/L",
+            "Xét nghiệm glucose nước tiểu dương tính mạnh"
+          ],
+          "answer": 1,
+          "explain": "Vì không thể bài tiết ion H⁺, nước tiểu không thể đạt độ toan tối đa, do đó pH nước tiểu trên bệnh nhân này thường xuyên kẹt ở mức kiềm (> 5.5) bất chấp tình trạng toan máu nặng."
+        },
+        {
+          "q": "Điều trị nội khoa ban đầu để cải thiện cơ lực và tình trạng toan hóa máu?",
+          "options": [
+            "Dùng thuốc lợi tiểu giữ kali spironolactone liều cao",
+            "Tiêm tĩnh mạch thuốc kháng enzyme cholinesterase",
+            "Truyền tĩnh mạch kali clorua và uống thuốc kiềm hóa",
+            "Truyền nhanh tĩnh mạch dung dịch natri bicarbonate"
+          ],
+          "answer": 2,
+          "explain": "Quản lý RTA type 1 yêu cầu phục hồi song song: truyền tĩnh mạch K⁺ để cải thiện nguy cơ liệt cơ hô hấp và cung cấp muối bicarbonate/citrate để sửa chữa toan máu."
+        },
+        {
+          "q": "Nếu truyền natri bicarbonate để kiềm hóa máu trước khi bù đủ kali, rủi ro nào dễ xảy ra nhất?",
+          "options": [
+            "Tăng canxi máu cấp tính gây rối loạn nhịp tim",
+            "Phù phổi cấp do tình trạng quá tải thể tích tuần hoàn",
+            "Kích hoạt cơn bão giáp cấp tính đe dọa tính mạng",
+            "Hạ kali máu nặng thêm gây nguy cơ liệt cơ hô hấp"
+          ],
+          "answer": 3,
+          "explain": "Môi trường kiềm hóa do truyền bicarbonate sẽ kích hoạt bơm Na-K, đẩy mạnh lượng K⁺ ít ỏi còn lại từ huyết thanh vào trong tế bào. Điều này làm sụt giảm K⁺ máu nghiêm trọng hơn, đẩy bệnh nhân vào cơn ngưng thở do liệt cơ hô hấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 72 tuổi lú lẫn và co giật toàn thể, ho khạc đờm và sốt nhẹ",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 72 tuổi được đưa vào cấp cứu vì lú lẫn và co giật toàn thể. Ho khạc đờm trắng và sốt nhẹ 1 tuần nay, người nhà thấy bệnh nhân ngày càng chậm chạp.<br><br><b>Tiền sử:</b> Tăng huyết áp đang dùng amlodipine, không dùng thuốc lợi tiểu.<br><br><b>Khám lâm sàng:</b> Hôn mê Glasgow 8 điểm, mạch 85 lần/phút, huyết áp 140/85 mmHg, nhịp thở 20 lần/phút, SpO₂ 94%, da niêm mạc bình thường, không phù ngoại vi, tĩnh mạch cổ không nổi, không có dấu thần kinh khu trú.<br><br><b>Xét nghiệm:</b> Na⁺ 112 mmol/L (giảm nặng), K⁺ 4.0 mmol/L, Creatinin 65 μmol/L, Glucose 5.5 mmol/L, TSH bình thường, Cortisol máu bình thường. X-quang ngực có đám mờ thùy dưới phổi phải.",
+      "questions": [
+        {
+          "q": "Phân loại rối loạn natri máu trên bệnh nhân này?",
+          "options": [
+            "Hạ natri máu nhược trương thể tích bình thường",
+            "Hạ natri máu nhược trương giảm thể tích",
+            "Hạ natri máu đẳng trương tăng thể tích",
+            "Hạ natri máu ưu trương thể tích bình thường"
+          ],
+          "answer": 0,
+          "explain": "Hạ natri máu nặng (112 mmol/L), chức năng thận và tuyến thượng thận/tuyến giáp bình thường, không có dấu hiệu phù hay mất nước trên lâm sàng, xếp vào nhóm hạ natri nhược trương thể tích bình thường."
+        },
+        {
+          "q": "Cơ chế chính gây hạ natri máu ở bệnh nhân này là gì?",
+          "options": [
+            "Mất lượng lớn natri qua đường tiêu hóa và thận",
+            "Tăng tiết hormone chống bài niệu không thích hợp",
+            "Giảm thể tích tuần hoàn động mạch hiệu dụng",
+            "Tái hấp thu nước tự do qua hệ thống aquaporin-3"
+          ],
+          "answer": 1,
+          "explain": "Bệnh lý viêm phổi có thể kích hoạt các thụ thể tại phổi, phóng thích hormone ADH liên tục không tuân theo kiểm soát áp lực thẩm thấu, gây ra hội chứng SIADH."
+        },
+        {
+          "q": "Cận lâm sàng nào sau đây giúp củng cố chẩn đoán hội chứng SIADH?",
+          "options": [
+            "Áp lực thẩm thấu nước tiểu giảm rõ rệt",
+            "Nồng độ acid uric trong máu tăng cao",
+            "Nồng độ natri nước tiểu lớn hơn 40 mmol/L",
+            "Chức năng tuyến giáp suy giảm nghiêm trọng"
+          ],
+          "answer": 2,
+          "explain": "Trong hội chứng SIADH, lượng nước bị giữ lại làm tăng thể tích tuần hoàn nhẹ, ức chế RAAS và tăng bài xuất natri niệu (nồng độ thường > 40 mmol/L) bất chấp tình trạng hạ natri máu nặng."
+        },
+        {
+          "q": "Xử trí cấp cứu ưu tiên hàng đầu cho bệnh nhân này?",
+          "options": [
+            "Truyền tĩnh mạch dung dịch muối NaCl 0.9%",
+            "Hạn chế dịch nhập vào dưới 1 lít mỗi ngày",
+            "Bắt đầu sử dụng thuốc tolvaptan đường uống",
+            "Truyền tĩnh mạch dung dịch muối ưu trương 3%"
+          ],
+          "answer": 3,
+          "explain": "Hạ natri máu đã diễn tiến đến triệu chứng thần kinh nguy kịch (co giật, hôn mê) cần được điều trị cắt cơn ngay lập tức bằng việc truyền bolus tĩnh mạch dung dịch NaCl 3%."
+        },
+        {
+          "q": "Biến chứng thần kinh nguy hiểm nhất nếu điều chỉnh natri máu quá nhanh?",
+          "options": [
+            "Hội chứng hủy myelin thẩm thấu vùng thân não",
+            "Trạng thái động kinh toàn thể liên tục",
+            "Xuất huyết màng não dưới nhện diện rộng",
+            "Phù não cấp tính lan tỏa toàn bộ não bộ"
+          ],
+          "answer": 0,
+          "explain": "Tương tự như các bệnh cảnh hạ natri mạn tính khác, việc kéo nồng độ natri lên quá nhanh vượt ngưỡng sinh lý sẽ làm phá vỡ hàng rào máu não và gây teo tế bào thần kinh, dẫn đến hội chứng hủy myelin thẩm thấu (ODS)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 55 tuổi yếu mỏi cơ tứ chi và chuột rút, xơ gan do rượu dùng furosemide",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nữ 55 tuổi vào viện vì yếu mỏi cơ tứ chi và chuột rút lan rộng.<br><br><b>Tiền sử:</b> Xơ gan do rượu, đang điều trị lợi tiểu furosemide và bám sát chế độ ăn nhạt.<br><br><b>Khám lâm sàng:</b> Tỉnh táo, da sạm, mạch 90 lần/phút, huyết áp 110/70 mmHg, không sốt, cổ trướng lượng vừa, gan không to, dấu Trousseau âm tính.<br><br><b>Xét nghiệm:</b> Na⁺ 136 mmol/L, K⁺ 2.8 mmol/L (giảm), Cl⁻ 98 mmol/L, Creatinin 75 μmol/L. Điện tâm đồ ghi nhận sóng U nổi bật ở các chuyển đạo trước tim. Bệnh nhân được truyền tĩnh mạch 40 mmol KCl nhưng ngày hôm sau xét nghiệm K⁺ vẫn là 2.9 mmol/L.",
+      "questions": [
+        {
+          "q": "Định hướng chẩn đoán ban đầu cho tình trạng này?",
+          "options": [
+            "Bệnh lý thần kinh cơ ngoại biên",
+            "Hạ kali máu do dùng lợi tiểu quai",
+            "Rối loạn chuyển hóa cấp do rượu",
+            "Hội chứng yếu gân cơ chóp xoay"
+          ],
+          "answer": 1,
+          "explain": "Yếu cơ gốc chi ở người xơ gan sử dụng furosemide kèm dấu hiệu sóng U nhô cao trên ECG là bệnh cảnh điển hình của hạ kali máu do lợi tiểu quai."
+        },
+        {
+          "q": "Nguyên nhân sinh lý bệnh khiến kali máu không tăng sau khi truyền bù?",
+          "options": [
+            "Tăng tái hấp thu natri nguyên phát tại đoạn ống gần",
+            "Tình trạng kháng tác dụng của hormone aldosterone",
+            "Thiếu hụt magnesium đồng mắc làm tăng thải kali niệu",
+            "Sự dịch chuyển ồ ạt kali từ ngoại bào vào trong tế bào"
+          ],
+          "answer": 2,
+          "explain": "Magnesium nội bào có vai trò phong tỏa tự nhiên các kênh bài xuất kali (ROMK) tại ống góp. Ở bệnh nhân xơ gan dùng lợi tiểu thường kèm hạ Mg, kênh ROMK luôn mở khiến kali bị thất thoát vào nước tiểu liên tục bất chấp lượng được bù vào."
+        },
+        {
+          "q": "Xét nghiệm nào cần được chỉ định bổ sung ngay lập tức?",
+          "options": [
+            "Định lượng nồng độ ion canxi huyết thanh",
+            "Phân tích điện giải đồ nước tiểu 24 giờ",
+            "Phân tích khí máu động mạch mao mạch",
+            "Định lượng nồng độ magnesium huyết thanh"
+          ],
+          "answer": 3,
+          "explain": "Đối mặt với hạ kali máu kháng trị, xét nghiệm ưu tiên hàng đầu là đo nồng độ magnesium huyết thanh nhằm xác định mảnh ghép mất tích trong việc điều hòa kali."
+        },
+        {
+          "q": "Xử trí tiếp theo thích hợp nhất để nâng nồng độ kali máu?",
+          "options": [
+            "Truyền dung dịch magnesium sulfate kết hợp kali",
+            "Chuyển sang sử dụng kali citrate theo đường uống",
+            "Tăng gấp đôi liều kali clorua truyền tĩnh mạch",
+            "Truyền dung dịch natri clorid 0.9% tốc độ cao"
+          ],
+          "answer": 0,
+          "explain": "Để phá vỡ vòng luẩn quẩn thất thoát kali, người bệnh bắt buộc phải được truyền magnesium sulfate tĩnh mạch để khóa lại kênh bài niệu tại thận, đồng thời tiếp tục truyền bù kali clorua."
+        },
+        {
+          "q": "Biến chứng tim mạch nào dễ xảy ra nhất nếu không điều chỉnh kịp thời?",
+          "options": [
+            "Nhồi máu cơ tim cấp thành trước",
+            "Cơn nhịp nhanh thất xoắn đỉnh",
+            "Rung nhĩ đáp ứng tần số thất nhanh",
+            "Blốc nhĩ thất độ ba hoàn toàn"
+          ],
+          "answer": 1,
+          "explain": "Tình trạng hạ kali máu và hạ magnesium đồng thời làm kéo dài khoảng QT vô cùng nghiêm trọng, thiết lập môi trường điện sinh lý lý tưởng cho sự khởi phát của nhịp nhanh thất đa hình (xoắn đỉnh)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi chấn thương sọ não, đa niệu nước tiểu trong vắt",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 40 tuổi vào cấp cứu do chấn thương sọ não sau tai nạn giao thông 5 ngày trước, hiện đang thở máy xâm nhập. Khoảng 24 giờ qua, điều dưỡng báo cáo bệnh nhân tiểu 7 lít nước tiểu trong vắt.<br><br><b>Khám lâm sàng:</b> Hôn mê sâu, mạch 115 lần/phút, huyết áp 100/60 mmHg, nhịp thở theo máy, nhiệt độ 37.5 độ C, da niêm mạc khô, dấu véo da dương tính. Áp lực tĩnh mạch trung tâm (CVP) là 3 cmH₂O.<br><br><b>Xét nghiệm:</b> Na⁺ 158 mmol/L (tăng), K⁺ 4.2 mmol/L, Creatinin 90 μmol/L, Glucose 6.0 mmol/L, BUN 8 mmol/L. Áp lực thẩm thấu máu 325 mOsm/kg (tăng), áp lực thẩm thấu niệu 120 mOsm/kg (giảm không phù hợp).",
+      "questions": [
+        {
+          "q": "Nguyên nhân gây tăng natri máu có khả năng nhất trên bệnh nhân này?",
+          "options": [
+            "Bệnh lý đái tháo nhạt do thận",
+            "Tái phân bố dịch vào khoang thứ ba",
+            "Hội chứng đái tháo nhạt trung ương",
+            "Hậu quả truyền quá nhiều muối ưu trương"
+          ],
+          "answer": 2,
+          "explain": "Bệnh cảnh đa niệu dữ dội (nước tiểu loãng, áp lực thẩm thấu niệu rất thấp) kèm tăng natri máu sau chấn thương sọ não gợi ý mạnh mẽ vùng cuống tuyến yên đã bị tổn thương, gây đái tháo nhạt trung ương cấp tính."
+        },
+        {
+          "q": "Đặc điểm sinh lý bệnh giải thích tình trạng đa niệu trong hội chứng này?",
+          "options": [
+            "Mất nhạy cảm với ADH tại ống góp thận",
+            "Tăng tiết hormone aldosterone thứ phát bù trừ",
+            "Bài niệu thẩm thấu do nồng độ urê máu cao",
+            "Giảm sản xuất hormone ADH vùng dưới đồi"
+          ],
+          "answer": 3,
+          "explain": "Trục dưới đồi - tuyến yên mất khả năng tổng hợp và giải phóng ADH vào máu, khiến phần lớn nước tự do khi đi qua ống góp không được tái hấp thu, trút thẳng vào bàng quang thành nước tiểu."
+        },
+        {
+          "q": "Thử nghiệm lâm sàng nào giúp chẩn đoán phân biệt chính xác nhất?",
+          "options": [
+            "Nghiệm pháp nhịn nước và tiêm desmopressin",
+            "Định lượng nồng độ renin huyết tương trực tiếp",
+            "Chụp cắt lớp vi tính sọ não có tiêm thuốc cản quang",
+            "Định lượng nồng độ hormone cortisol máu"
+          ],
+          "answer": 0,
+          "explain": "Để phân biệt đái tháo nhạt do nguyên nhân trung ương hay do thận, nghiệm pháp tiêm desmopressin ngoại sinh là công cụ thiết yếu. Thận sẽ cô đặc nước tiểu trở lại nếu nguyên nhân là do thiếu ADH trung ương."
+        },
+        {
+          "q": "Lựa chọn dung dịch tĩnh mạch ưu tiên để bù đắp lượng nước tự do?",
+          "options": [
+            "Dung dịch Ringer lactate truyền nhanh",
+            "Dung dịch glucose 5% truyền tĩnh mạch",
+            "Dung dịch natri clorid 0.9% truyền chậm",
+            "Các dung dịch cao phân tử duy trì huyết động"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân đang thiếu trầm trọng nước tự do (pure water deficit). Dung dịch nhược trương Glucose 5% là lựa chọn lý tưởng, vì glucose sẽ nhanh chóng được chuyển hóa, để lại nước tự do bù vào nội bào."
+        },
+        {
+          "q": "Mục tiêu hạ natri máu an toàn trong 24 giờ đầu là bao nhiêu?",
+          "options": [
+            "Giảm nhanh với tốc độ 2 mmol/L mỗi giờ",
+            "Cố gắng đưa về mức bình thường ngay lập tức",
+            "Giảm từ từ tối đa 10 mmol/L trong 24 giờ",
+            "Tốc độ giảm từ 15 đến 20 mmol/L mỗi ngày"
+          ],
+          "answer": 2,
+          "explain": "Việc giảm natri máu quá đột ngột bằng dung dịch nhược trương ở một não bộ đang viêm phù nề do chấn thương có thể dẫn tới phù não thứ phát. Mục tiêu giảm Na⁺ nên thận trọng dưới 10 mmol/L/24 giờ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi yếu cơ và hồi hộp trống ngực, tiêu chảy 3 ngày, dùng nhiều thuốc giữ Kali",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân nam 65 tuổi vào cấp cứu vì yếu cơ và hồi hộp trống ngực. Tiêu chảy phân lỏng 3 ngày nay kèm tiểu ít, không sốt, không đau ngực.<br><br><b>Tiền sử:</b> Đái tháo đường type 2, tăng huyết áp, suy tim mạn, đang dùng lisinopril, spironolactone, dapagliflozin.<br><br><b>Khám lâm sàng:</b> Ý thức tỉnh, mạch 110 lần/phút, huyết áp 90/60 mmHg, nhịp thở 22 lần/phút, SpO₂ 96% khí trời, tĩnh mạch cổ không nổi, phổi không rale.<br><br><b>Xét nghiệm:</b> Na⁺ 132 mmol/L, K⁺ 7.2 mmol/L (tăng nặng), Cl⁻ 105 mmol/L, Creatinin 250 μmol/L, Glucose 8.5 mmol/L. Điện tâm đồ ghi nhận nhịp chậm đều, mất sóng P, phức bộ QRS giãn rộng 0.14s.",
+      "questions": [
+        {
+          "q": "Chẩn đoán cấp cứu ưu tiên hàng đầu trên bệnh nhân này là gì?",
+          "options": [
+            "Nhồi máu cơ tim cấp vùng thành trước",
+            "Suy tim mạn tính mất bù cấp đe dọa",
+            "Toan ceton do đái tháo đường khởi phát",
+            "Suy thận cấp gây biến chứng tăng kali máu"
+          ],
+          "answer": 3,
+          "explain": "Tình trạng mất dịch qua đường tiêu hóa dẫn tới suy thận cấp trước thận (creatinin 250 μmol/L), cộng hưởng cùng các thuốc giữ kali (lisinopril, spironolactone) đã đẩy bệnh nhân vào cuộc khủng hoảng tăng kali máu nặng."
+        },
+        {
+          "q": "Cơ chế điện sinh lý giải thích hình ảnh phức bộ QRS giãn rộng là gì?",
+          "options": [
+            "Giảm điện thế nghỉ làm chậm tốc độ khử cực",
+            "Kéo dài thời gian trơ tuyệt đối màng tế bào",
+            "Tăng tốc độ khử cực pha 0 của tế bào cơ tim",
+            "Chậm dẫn truyền tín hiệu qua nút nhĩ thất"
+          ],
+          "answer": 0,
+          "explain": "Kali ngoại bào tăng cao làm giảm mức độ phân cực của màng tế bào ở trạng thái nghỉ. Điện thế nghỉ bớt âm hơn khiến các kênh natri nhanh bị bất hoạt một phần, do đó giảm tốc độ khử cực pha 0, biểu hiện bằng QRS giãn rộng."
+        },
+        {
+          "q": "Các biện pháp làm dịch chuyển kali vào nội bào gồm: (1) Insulin. (2) Salbutamol. (3) Calci gluconat. (4) Natri bicarbonate. Chọn tổ hợp đúng:",
+          "options": [
+            "Calci, Insulin và Salbutamol đều làm giảm Kali",
+            "Insulin và Salbutamol đưa Kali vào tế bào; Bicarbonat có thể hỗ trợ khi có toan chuyển hóa, còn Calci không làm giảm Kali",
+            "Chỉ Calci và Bicarbonat",
+            "Chỉ lợi tiểu"
+          ],
+          "answer": 1,
+          "explain": "Calci ổn định màng tim nhưng không làm Kali máu giảm. Insulin-Glucose và thuốc chủ vận Beta-2 tạo dịch chuyển nội bào; Bicarbonat có vai trò chọn lọc khi có toan."
+        },
+        {
+          "q": "Bước xử trí ban đầu quan trọng nhất để ngăn ngừa đột tử?",
+          "options": [
+            "Truyền tĩnh mạch liên tục insulin và glucose",
+            "Phun khí dung thuốc chủ vận beta salbutamol",
+            "Tiêm tĩnh mạch thuốc bảo vệ cơ tim calci gluconate",
+            "Tiêm tĩnh mạch thuốc lợi tiểu quai furosemide"
+          ],
+          "answer": 2,
+          "explain": "Trước một điện tâm đồ mang biến đổi chết người của tăng kali, tiêm ngay calci gluconate tĩnh mạch là lá chắn duy nhất. Calci tái lập sự ổn định điện sinh lý màng tế bào cơ tim ngay tức khắc."
+        },
+        {
+          "q": "Nếu bệnh nhân tiến triển vô niệu hoàn toàn, bước điều trị tiếp theo là gì?",
+          "options": [
+            "Tăng liều lợi tiểu quai tối đa qua tĩnh mạch",
+            "Truyền tĩnh mạch dung dịch natri bicarbonate",
+            "Sử dụng nhựa trao đổi ion calci polystyrene",
+            "Chỉ định lọc máu ngắt quãng cấp cứu ngay"
+          ],
+          "answer": 3,
+          "explain": "Phương pháp tối hậu cho tình trạng tăng kali máu đề kháng, đặc biệt trên nền thận đã cạn kiệt chức năng (vô niệu) là kết nối bệnh nhân vào hệ thống lọc máu cấp cứu để đào thải kali qua màng lọc. Nguồn tham khảo: Phác đồ hồi sức cấp cứu."
+        }
+      ]
+    }
+  ]
+}
