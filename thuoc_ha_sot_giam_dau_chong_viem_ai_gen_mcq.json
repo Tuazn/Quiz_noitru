@@ -1,0 +1,560 @@
+{
+  "name": "Thuốc Hạ sốt – Giảm đau – Chống viêm (AI gen) MCQ",
+  "description": "Tập hợp 50 câu hỏi trắc nghiệm đơn thuần về Thuốc hạ sốt – Giảm đau – Chống viêm (NSAID).",
+  "level": "Ôn thi Bác sĩ Nội trú",
+  "type": "mcq",
+  "category": "Cơ sở",
+  "subcategory": "Dược lý",
+  "questions": [
+    {
+      "q": "Cơ chế tác dụng chung của các NSAID là gì?",
+      "options": [
+        "Ức chế tổng hợp Leukotrien",
+        "Ức chế enzym Cyclooxygenase (COX), giảm tổng hợp Prostaglandin",
+        "Ức chế thụ thể Opioid µ",
+        "Ức chế men Lipoxygenase"
+      ],
+      "answer": 1,
+      "explain": "NSAID ức chế COX (COX-1 và/hoặc COX-2), làm giảm tổng hợp Prostaglandin/Thromboxan từ acid arachidonic."
+    },
+    {
+      "q": "Vì sao Paracetamol gần như không có tác dụng chống viêm rõ trên lâm sàng dù cùng ức chế COX?",
+      "options": [
+        "Vì Paracetamol không hấp thu vào mô viêm",
+        "Vì hoạt tính ức chế COX của Paracetamol bị mất tác dụng trong môi trường mô ngoại vi giàu peroxid (mô viêm), tác dụng chủ yếu ở thần kinh trung ương",
+        "Vì Paracetamol chỉ ức chế COX-1",
+        "Vì Paracetamol chuyển hoá quá nhanh trước khi đến mô viêm"
+      ],
+      "answer": 1,
+      "explain": "Nồng độ peroxid cao tại ổ viêm làm bất hoạt tác dụng ức chế COX của paracetamol tại mô ngoại vi; thuốc tác dụng chủ yếu ở hệ thần kinh trung ương (giảm đau, hạ sốt) mà ít có hiệu quả chống viêm ngoại vi."
+    },
+    {
+      "q": "Aspirin khác biệt với hầu hết các NSAID khác ở điểm nào?",
+      "options": [
+        "Ức chế COX theo cơ chế cạnh tranh, thuận nghịch",
+        "Acetyl hoá COX theo cơ chế không hồi phục",
+        "Không có tác dụng kháng viêm",
+        "Chỉ ức chế COX-2"
+      ],
+      "answer": 1,
+      "explain": "Aspirin là NSAID duy nhất gắn cộng hoá trị (acetyl hoá) vào COX, ức chế không hồi phục — khác với các NSAID khác vốn ức chế cạnh tranh, thuận nghịch."
+    },
+    {
+      "q": "COX-1 (cyclooxygenase cấu thành) có vai trò sinh lý chính nào sau đây?",
+      "options": [
+        "Gây viêm, đau, sốt trong đáp ứng viêm cấp",
+        "Bảo vệ niêm mạc dạ dày, duy trì tưới máu thận, tổng hợp Thromboxan A2 ở tiểu cầu",
+        "Tổng hợp Leukotrien gây co thắt phế quản",
+        "Kích hoạt hệ thống bổ thể"
+      ],
+      "answer": 1,
+      "explain": "COX-1 biểu hiện hằng định ở hầu hết mô, đảm nhiệm các chức năng sinh lý nền tảng: bảo vệ dạ dày, tưới máu thận, kết tập tiểu cầu."
+    },
+    {
+      "q": "COX-2 (cyclooxygenase cảm ứng) chủ yếu liên quan đến quá trình nào?",
+      "options": [
+        "Kết tập tiểu cầu sinh lý",
+        "Đáp ứng viêm, đau, sốt; cũng có vai trò sinh lý ở thận và nội mô mạch máu",
+        "Bảo vệ niêm mạc dạ dày là chính",
+        "Đông máu nội sinh"
+      ],
+      "answer": 1,
+      "explain": "COX-2 được cảm ứng mạnh tại ổ viêm (bởi cytokine, nội độc tố), là đích tác dụng chính mong muốn của các coxib; tuy vậy COX-2 cũng biểu hiện hằng định ở thận, nội mô mạch máu — giải thích một phần ADR thận/tim mạch của coxib."
+    },
+    {
+      "q": "Chất trung gian chính gây sốt tại vùng dưới đồi là gì?",
+      "options": [
+        "Thromboxan A2",
+        "Prostaglandin E2 (PGE2)",
+        "Leukotrien B4",
+        "Prostacyclin (PGI2)"
+      ],
+      "answer": 1,
+      "explain": "Cytokine gây sốt (IL-1, IL-6, TNF-α) kích thích COX-2 tại vùng dưới đồi tổng hợp PGE2, làm tăng điểm điều nhiệt (set-point)."
+    },
+    {
+      "q": "Trong nhóm NSAID kinh điển sau, thuốc nào có thời gian bán thải DÀI NHẤT, cho phép dùng liều duy nhất mỗi ngày?",
+      "options": [
+        "Ibuprofen",
+        "Diclofenac",
+        "Piroxicam",
+        "Ketorolac"
+      ],
+      "answer": 2,
+      "explain": "Piroxicam có t½ khoảng 45–50 giờ, dài nhất trong các NSAID thường dùng, nhưng đi kèm nguy cơ độc tính tiêu hoá cao hơn."
+    },
+    {
+      "q": "NSAID nào sau đây có thời gian bán thải NGẮN NHẤT?",
+      "options": [
+        "Meloxicam",
+        "Piroxicam",
+        "Ibuprofen",
+        "Naproxen"
+      ],
+      "answer": 2,
+      "explain": "Ibuprofen có t½ ngắn (~2 giờ), cần dùng nhiều lần trong ngày để duy trì hiệu quả."
+    },
+    {
+      "q": "Thuốc nào sau đây là chất ức chế chọn lọc COX-2, thuộc nhóm Coxib?",
+      "options": [
+        "Diclofenac",
+        "Etoricoxib",
+        "Naproxen",
+        "Indomethacin"
+      ],
+      "answer": 1,
+      "explain": "Etoricoxib (cùng Celecoxib) là NSAID ức chế chọn lọc COX-2, giảm tác dụng phụ tiêu hoá so với NSAID cổ điển nhưng tăng nguy cơ tim mạch."
+    },
+    {
+      "q": "Coxib nào đã bị rút khỏi thị trường trên toàn thế giới (2004) do làm tăng nguy cơ biến cố tim mạch?",
+      "options": [
+        "Celecoxib",
+        "Etoricoxib",
+        "Rofecoxib",
+        "Meloxicam"
+      ],
+      "answer": 2,
+      "explain": "Rofecoxib (Vioxx) bị rút khỏi thị trường năm 2004 sau các dữ liệu cho thấy tăng nguy cơ nhồi máu cơ tim và đột quỵ khi dùng kéo dài."
+    },
+    {
+      "q": "Liều Aspirin thường dùng để dự phòng biến cố tim mạch (chống kết tập tiểu cầu) là bao nhiêu?",
+      "options": [
+        "325–650 mg/ngày",
+        "75–100 mg/ngày",
+        "1000–1500 mg/ngày",
+        "2000–3000 mg/ngày"
+      ],
+      "answer": 1,
+      "explain": "Liều thấp (75–100 mg/ngày, thường dùng 81 mg) đủ để ức chế không hồi phục COX-1 tiểu cầu mà ít ảnh hưởng đến COX-2 nội mô, tối ưu hoá tác dụng chống huyết khối."
+    },
+    {
+      "q": "Triệu chứng nào là dấu hiệu SỚM, đặc trưng để gợi ý ngộ độc Salicylat?",
+      "options": [
+        "Đồng tử co nhỏ như đinh ghim",
+        "Ù tai, giảm thính lực có hồi phục",
+        "Vàng da đậm",
+        "Táo bón kéo dài"
+      ],
+      "answer": 1,
+      "explain": "Ù tai và giảm thính lực thoáng qua là dấu hiệu sớm kinh điển của ngộ độc salicylat, thường xuất hiện trước khi có rối loạn toan-kiềm rõ rệt."
+    },
+    {
+      "q": "Biến chứng nguy hiểm liên quan đến việc dùng Aspirin ở trẻ em đang nhiễm virus là gì?",
+      "options": [
+        "Hội chứng Stevens–Johnson",
+        "Hội chứng Reye",
+        "Hội chứng thận hư",
+        "Hội chứng Guillain–Barré"
+      ],
+      "answer": 1,
+      "explain": "Hội chứng Reye (bệnh não gan cấp) liên quan đến Aspirin ở trẻ em có nhiễm virus (cúm, thuỷ đậu) — lý do Aspirin chống chỉ định hạ sốt ở trẻ em."
+    },
+    {
+      "q": "Thuốc giải độc đặc hiệu trong ngộ độc Paracetamol là gì?",
+      "options": [
+        "Than hoạt đơn thuần",
+        "N-acetylcystein",
+        "Naloxon",
+        "Flumazenil"
+      ],
+      "answer": 1,
+      "explain": "N-acetylcystein là tiền chất glutathion, trung hoà chất chuyển hoá độc NAPQI, là điều trị đặc hiệu của ngộ độc paracetamol."
+    },
+    {
+      "q": "Chất chuyển hoá gây độc gan của Paracetamol khi quá liều là gì?",
+      "options": [
+        "Acetaminophen glucuronid",
+        "N-acetyl-p-benzoquinonimin (NAPQI)",
+        "Salicylat",
+        "Acid mercapturic"
+      ],
+      "answer": 1,
+      "explain": "NAPQI là chất chuyển hoá trung gian có hoạt tính oxy hoá mạnh, được tạo ra qua CYP450, gây hoại tử tế bào gan khi glutathion bị cạn kiệt."
+    },
+    {
+      "q": "Enzym chính chịu trách nhiệm chuyển hoá Paracetamol thành chất độc NAPQI là gì?",
+      "options": [
+        "CYP3A4 là chủ yếu, không có vai trò của các CYP khác",
+        "CYP2E1",
+        "CYP2D6",
+        "CYP1A1"
+      ],
+      "answer": 1,
+      "explain": "CYP2E1 (cùng một phần CYP3A4, CYP1A2) chuyển hoá một tỷ lệ nhỏ Paracetamol thành NAPQI; hoạt tính CYP2E1 tăng ở người nghiện rượu mạn, làm tăng nguy cơ độc gan."
+    },
+    {
+      "q": "N-acetylcystein phát huy tác dụng giải độc paracetamol thông qua cơ chế nào?",
+      "options": [
+        "Ức chế trực tiếp CYP2E1",
+        "Cung cấp/tái tạo glutathion để trung hoà NAPQI",
+        "Tăng đào thải paracetamol qua thận",
+        "Đối kháng cạnh tranh tại thụ thể của paracetamol"
+      ],
+      "answer": 1,
+      "explain": "NAC là tiền chất của cystein, giúp tái tạo dự trữ glutathion nội bào, glutathion sau đó liên hợp trực tiếp với NAPQI để trung hoà độc tính."
+    },
+    {
+      "q": "Biểu đồ Rumack–Matthew được sử dụng để làm gì?",
+      "options": [
+        "Đánh giá mức độ ngộ độc Salicylat",
+        "Đánh giá nguy cơ độc gan và quyết định chỉ định N-acetylcystein trong ngộ độc Paracetamol cấp",
+        "Đánh giá nguy cơ xuất huyết tiêu hoá do NSAID",
+        "Tính liều Colchicin trong Gout cấp"
+      ],
+      "answer": 1,
+      "explain": "Biểu đồ đối chiếu nồng độ paracetamol huyết thanh theo thời gian (từ giờ thứ 4 sau uống) với đường \"khả năng gây độc\" để quyết định điều trị NAC."
+    },
+    {
+      "q": "NSAID chống chỉ định tuyệt đối trong 3 tháng cuối thai kỳ chủ yếu vì lý do nào?",
+      "options": [
+        "Gây dị tật ống thần kinh thai nhi",
+        "Gây đóng sớm ống động mạch và thiểu ối",
+        "Gây sảy thai sớm",
+        "Gây quái thai chi"
+      ],
+      "answer": 1,
+      "explain": "NSAID ức chế PG cần thiết để duy trì ống động mạch mở và tưới máu thận thai nhi trong tử cung, gây đóng sớm ống động mạch và thiểu ối nếu dùng ở 3 tháng cuối."
+    },
+    {
+      "q": "Thuốc giảm đau – hạ sốt được xem là an toàn hơn cả trong thai kỳ (ở liều điều trị) là thuốc nào?",
+      "options": [
+        "Aspirin liều cao",
+        "Paracetamol",
+        "Diclofenac",
+        "Indomethacin"
+      ],
+      "answer": 1,
+      "explain": "Paracetamol không có các nguy cơ trên ống động mạch/thận thai nhi như NSAID, được xem là lựa chọn ưu tiên khi cần giảm đau – hạ sốt trong thai kỳ."
+    },
+    {
+      "q": "Misoprostol là chất tương tự của Prostaglandin nào, dùng để dự phòng loét dạ dày do NSAID?",
+      "options": [
+        "Prostaglandin E1",
+        "Prostaglandin F2α",
+        "Thromboxan A2",
+        "Prostacyclin I2"
+      ],
+      "answer": 0,
+      "explain": "Misoprostol là chất tương tự PGE1, bù đắp trực tiếp thiếu hụt PG do NSAID gây ra, bảo vệ niêm mạc dạ dày."
+    },
+    {
+      "q": "Cơ chế tác dụng của các thuốc ức chế bơm proton (PPI) là gì?",
+      "options": [
+        "Đối kháng thụ thể Histamin H2",
+        "Ức chế không hồi phục bơm H⁺/K⁺-ATPase của tế bào viền dạ dày",
+        "Trung hoà trực tiếp acid HCl",
+        "Ức chế thụ thể Gastrin"
+      ],
+      "answer": 1,
+      "explain": "PPI (omeprazol, esomeprazol…) gắn không hồi phục vào bơm proton H⁺/K⁺-ATPase, là nhóm ức chế tiết acid mạnh nhất hiện có."
+    },
+    {
+      "q": "Thuốc nào sau đây đối kháng thụ thể Histamin H2, có thể dùng hỗ trợ giảm tiết acid nhưng kém hiệu quả hơn PPI trong dự phòng loét do NSAID?",
+      "options": [
+        "Sucralfat",
+        "Famotidin",
+        "Misoprostol",
+        "Bismuth"
+      ],
+      "answer": 1,
+      "explain": "Các thuốc kháng H2 (cimetidin, ranitidin, famotidin) làm giảm tiết acid qua ức chế thụ thể H2 ở tế bào viền, nhưng hiệu quả dự phòng loét do NSAID kém hơn PPI, đặc biệt ở liều thông thường."
+    },
+    {
+      "q": "Trong nhóm NSAID không chọn lọc, thuốc nào được xem là có hồ sơ AN TOÀN TIM MẠCH tốt nhất?",
+      "options": [
+        "Diclofenac",
+        "Naproxen",
+        "Ibuprofen liều cao kéo dài",
+        "Piroxicam"
+      ],
+      "answer": 1,
+      "explain": "Naproxen duy trì ức chế COX-1 tiểu cầu đáng kể trong suốt khoảng liều, giúp bảo tồn phần nào hiệu quả kháng kết tập tiểu cầu, liên quan đến nguy cơ tim mạch thấp hơn so với các NSAID khác."
+    },
+    {
+      "q": "Yếu tố nguy cơ quan trọng nhất làm tăng khả năng loét/xuất huyết tiêu hoá do NSAID là gì?",
+      "options": [
+        "Tuổi trẻ dưới 30",
+        "Tiền sử loét dạ dày – tá tràng, tuổi cao, phối hợp với corticoid hoặc thuốc chống đông",
+        "Giới tính nam",
+        "Chỉ số khối cơ thể thấp"
+      ],
+      "answer": 1,
+      "explain": "Tiền sử loét/xuất huyết tiêu hoá, tuổi cao (>65), và phối hợp đồng thời với corticoid hoặc thuốc chống đông/kháng kết tập tiểu cầu là các yếu tố nguy cơ chính được dùng để phân tầng nguy cơ khi kê NSAID."
+    },
+    {
+      "q": "Vì sao nhóm Coxib (ức chế chọn lọc COX-2) có xu hướng gây giữ muối – nước và tăng huyết áp?",
+      "options": [
+        "Do ức chế trực tiếp kênh Natri ở ống thận",
+        "Do giảm PGE2 tại thận, làm giảm bài tiết Natri và giảm tưới máu thận tương đối",
+        "Do kích thích hệ Renin–Angiotensin–Aldosteron trực tiếp",
+        "Do gây suy tim sung huyết cấp tính"
+      ],
+      "answer": 1,
+      "explain": "PGE2 tại thận (qua COX-2 hằng định) giúp bài tiết natri và duy trì tưới máu vùng tuỷ thận; ức chế chọn lọc COX-2 làm giảm tác dụng này, dẫn đến giữ muối – nước và tăng huyết áp."
+    },
+    {
+      "q": "Hiện tượng \"Triple whammy\" trong độc tính thận liên quan đến sự phối hợp của ba nhóm thuốc nào?",
+      "options": [
+        "NSAID + Statin + Aspirin",
+        "NSAID + Ức chế men chuyển/ức chế thụ thể Angiotensin + Lợi tiểu",
+        "NSAID + Kháng sinh Aminoglycosid + Vancomycin",
+        "NSAID + Corticoid + Insulin"
+      ],
+      "answer": 1,
+      "explain": "Phối hợp NSAID (co mạch đến) + ƯCMC/ƯCTT (giãn mạch đi) + lợi tiểu (giảm thể tích) làm mất khả năng tự điều hoà mức lọc cầu thận, gây suy thận cấp trước thận."
+    },
+    {
+      "q": "Vì sao không nên phối hợp NSAID với Methotrexat liều cao (điều trị ung thư)?",
+      "options": [
+        "NSAID làm tăng hấp thu Methotrexat qua đường uống",
+        "NSAID cạnh tranh bài tiết Methotrexat ở ống thận, làm tăng nồng độ và độc tính của Methotrexat",
+        "NSAID làm bất hoạt hoàn toàn Methotrexat trong huyết tương",
+        "Không có tương tác đáng kể ở bất kỳ liều nào"
+      ],
+      "answer": 1,
+      "explain": "NSAID cạnh tranh với Methotrexat tại hệ vận chuyển anion hữu cơ ở ống thận, làm giảm thải trừ, đặc biệt nguy hiểm ở liều Methotrexat cao (ức chế tuỷ xương, viêm niêm mạc nặng)."
+    },
+    {
+      "q": "Cơ chế tác dụng của Colchicin trong điều trị Gout cấp là gì?",
+      "options": [
+        "Ức chế men Cyclooxygenase",
+        "Ức chế trùng hợp vi ống (tubulin), giảm hoá ứng động bạch cầu",
+        "Ức chế men Xanthin oxidase",
+        "Tăng thải trừ acid uric qua thận"
+      ],
+      "answer": 1,
+      "explain": "Colchicin ức chế trùng hợp tubulin thành vi ống, làm giảm hoá ứng động, thực bào và giải phóng các chất trung gian viêm của bạch cầu đa nhân — cơ chế hoàn toàn khác NSAID."
+    },
+    {
+      "q": "Thuốc nào sau đây được dùng để điều trị DỰ PHÒNG Gout mạn tính (không phải cắt cơn cấp), thông qua ức chế men Xanthin oxidase?",
+      "options": [
+        "Colchicin",
+        "Allopurinol",
+        "Indomethacin",
+        "Probenecid"
+      ],
+      "answer": 1,
+      "explain": "Allopurinol ức chế xanthin oxidase, giảm tổng hợp acid uric, dùng dự phòng lâu dài; không dùng để cắt cơn gout cấp (thậm chí có thể khởi phát cơn cấp khi mới bắt đầu)."
+    },
+    {
+      "q": "Indomethacin đường tĩnh mạch có chỉ định đặc biệt nào ở trẻ sơ sinh non tháng?",
+      "options": [
+        "Điều trị vàng da tăng bilirubin gián tiếp",
+        "Đóng còn ống động mạch (PDA)",
+        "Điều trị nhiễm khuẩn huyết sơ sinh",
+        "Dự phòng xuất huyết não thất"
+      ],
+      "answer": 1,
+      "explain": "Indomethacin (và Ibuprofen) ức chế tổng hợp PGE2 giúp đóng ống động mạch còn tồn tại ở trẻ sơ sinh non tháng bằng biện pháp nội khoa."
+    },
+    {
+      "q": "Prostaglandin nào (không thuộc nhóm NSAID) được dùng để GIỮ ống động mạch MỞ ở trẻ có tim bẩm sinh phụ thuộc ống?",
+      "options": [
+        "Alprostadil (PGE1)",
+        "Misoprostol (PGE1 analog dùng đường tiêu hoá/sản khoa)",
+        "Dinoproston (PGE2)",
+        "Latanoprost (PGE2 analog nhãn khoa)"
+      ],
+      "answer": 0,
+      "explain": "Alprostadil (Prostaglandin E1) truyền tĩnh mạch liên tục được dùng để duy trì ống động mạch mở trong các bệnh tim bẩm sinh tím phụ thuộc ống, chờ can thiệp/phẫu thuật."
+    },
+    {
+      "q": "Kiềm hoá nước tiểu (bằng Natri bicarbonat) trong ngộ độc Salicylat có tác dụng gì?",
+      "options": [
+        "Trung hoà trực tiếp salicylat trong máu",
+        "Tăng ion hoá salicylat trong ống thận, giảm tái hấp thu, tăng thải trừ qua nước tiểu",
+        "Giảm hấp thu salicylat qua đường tiêu hoá",
+        "Bảo vệ niêm mạc dạ dày khỏi tác dụng ăn mòn của salicylat"
+      ],
+      "answer": 1,
+      "explain": "Trong môi trường kiềm, salicylat (acid yếu) bị ion hoá nhiều hơn, khó khuếch tán ngược qua màng tế bào ống thận để tái hấp thu → tăng thải trừ qua nước tiểu (bẫy ion)."
+    },
+    {
+      "q": "NSAID nào thường được bào chế dạng gel/kem bôi tại chỗ, phổ biến cho đau cơ – xương – khớp khu trú?",
+      "options": [
+        "Diclofenac",
+        "Piroxicam viên",
+        "Naproxen viên",
+        "Aspirin viên sủi"
+      ],
+      "answer": 0,
+      "explain": "Diclofenac gel/kem bôi tại chỗ là dạng bào chế phổ biến giúp giảm ADR toàn thân so với đường uống, phù hợp cho đau khu trú ở mô mềm/khớp nông."
+    },
+    {
+      "q": "Acid mefenamic thuộc nhóm cấu trúc hoá học nào của NSAID?",
+      "options": [
+        "Nhóm Oxicam",
+        "Nhóm Fenamat (Anthranilic acid)",
+        "Nhóm Propionic acid",
+        "Nhóm Coxib"
+      ],
+      "answer": 1,
+      "explain": "Acid mefenamic (Ponstan) thuộc nhóm Fenamat, thường được ưu tiên trong điều trị đau bụng kinh."
+    },
+    {
+      "q": "Piroxicam và Meloxicam thuộc nhóm cấu trúc hoá học nào?",
+      "options": [
+        "Nhóm Acetic acid",
+        "Nhóm Oxicam",
+        "Nhóm Propionic acid",
+        "Nhóm Salicylat"
+      ],
+      "answer": 1,
+      "explain": "Nhóm Oxicam gồm Piroxicam, Meloxicam, Tenoxicam — đặc trưng bởi thời gian bán thải dài, dùng liều 1 lần/ngày."
+    },
+    {
+      "q": "Ibuprofen, Naproxen, Ketoprofen thuộc nhóm cấu trúc hoá học nào?",
+      "options": [
+        "Nhóm Acetic acid",
+        "Nhóm Propionic acid",
+        "Nhóm Enolic acid (Oxicam)",
+        "Nhóm Coxib"
+      ],
+      "answer": 1,
+      "explain": "Nhóm Acid propionic gồm Ibuprofen, Naproxen, Ketoprofen, Flurbiprofen — nhìn chung dung nạp tốt hơn nhóm Acetic acid."
+    },
+    {
+      "q": "Diclofenac, Indomethacin, Ketorolac thuộc nhóm cấu trúc hoá học nào?",
+      "options": [
+        "Nhóm Acetic acid",
+        "Nhóm Propionic acid",
+        "Nhóm Fenamat",
+        "Nhóm Salicylat"
+      ],
+      "answer": 0,
+      "explain": "Nhóm Acid acetic gồm Diclofenac, Indomethacin, Ketorolac, Sulindac — nhìn chung có hiệu lực kháng viêm mạnh nhưng ADR tiêu hoá cũng đáng kể."
+    },
+    {
+      "q": "Đặc điểm giới hạn sử dụng quan trọng nhất của Ketorolac là gì?",
+      "options": [
+        "Chỉ dùng đường hít",
+        "Chỉ nên dùng ngắn ngày (thường ≤ 5 ngày) do nguy cơ xuất huyết tiêu hoá và độc thận cao",
+        "Không có tác dụng giảm đau, chỉ hạ sốt",
+        "Chống chỉ định tuyệt đối ở người trẻ tuổi"
+      ],
+      "answer": 1,
+      "explain": "Ketorolac có hiệu lực giảm đau mạnh (thay thế một phần opioid sau phẫu thuật) nhưng nguy cơ ADR tiêu hoá/thận cao hơn nhiều NSAID khác nếu dùng kéo dài, nên giới hạn thời gian sử dụng."
+    },
+    {
+      "q": "Liều tối đa khuyến cáo của Paracetamol ở người lớn khoẻ mạnh, chức năng gan bình thường, thường là bao nhiêu mỗi ngày?",
+      "options": [
+        "1 g/ngày",
+        "2 g/ngày",
+        "4 g/ngày",
+        "10 g/ngày"
+      ],
+      "answer": 2,
+      "explain": "Liều tối đa khuyến cáo thường quy ở người lớn khoẻ mạnh là 4 g/ngày (một số khuyến cáo thận trọng hơn ở 3 g/ngày với người có nguy cơ), chia nhiều lần, cách nhau tối thiểu 4–6 giờ."
+    },
+    {
+      "q": "Ngưỡng liều uống một lần được xem là có nguy cơ gây độc gan cấp tính rõ rệt ở người lớn là khoảng bao nhiêu?",
+      "options": [
+        "> 1 g",
+        "> 2 g",
+        "> 7,5–10 g (hoặc > 150 mg/kg)",
+        "> 20 g"
+      ],
+      "answer": 2,
+      "explain": "Liều uống một lần trên khoảng 150 mg/kg (hoặc > 7,5–10 g ở người lớn trung bình) được xem là có nguy cơ đáng kể gây độc gan cấp tính, cần đánh giá và theo dõi/điều trị theo phác đồ."
+    },
+    {
+      "q": "Vì sao NSAID cần thận trọng/tránh dùng ở bệnh nhân suy tim sung huyết nặng?",
+      "options": [
+        "NSAID gây rối loạn nhịp tim trực tiếp",
+        "NSAID gây giữ muối – nước qua ức chế PGE2 thận, làm tăng gánh thể tích cho tim suy",
+        "NSAID gây hạ huyết áp tư thế nặng",
+        "NSAID gây block nhĩ thất hoàn toàn"
+      ],
+      "answer": 1,
+      "explain": "Ức chế PGE2 tại thận làm giảm bài tiết natri, gây giữ muối – nước, tăng tiền gánh và có thể làm mất bù suy tim vốn đã hạn chế."
+    },
+    {
+      "q": "Cơ chế chính gây suy thận cấp trước thận do NSAID là gì?",
+      "options": [
+        "Viêm ống thận mô kẽ dị ứng cấp tính (luôn xảy ra)",
+        "Co tiểu động mạch đến do ức chế Prostaglandin giãn mạch, giảm mức lọc cầu thận",
+        "Kết tủa tinh thể urat trong ống thận",
+        "Ức chế trực tiếp bơm Na⁺/K⁺-ATPase màng đáy bên"
+      ],
+      "answer": 1,
+      "explain": "PGE2/PGI2 giãn tiểu động mạch đến, bù trừ khi có giảm thể tích/co mạch toàn thân; NSAID ức chế các PG này gây co mạch đến, giảm tưới máu và mức lọc cầu thận — đây là cơ chế thường gặp nhất, có thể hồi phục nếu phát hiện sớm và ngừng thuốc."
+    },
+    {
+      "q": "Tổn thương thận MẠN TÍNH do lạm dụng NSAID kéo dài (đặc biệt phối hợp nhiều loại giảm đau) được gọi là gì?",
+      "options": [
+        "Hội chứng thận hư",
+        "Bệnh thận do giảm đau (hoại tử nhú thận – analgesic nephropathy)",
+        "Viêm cầu thận màng",
+        "Bệnh thận đa nang"
+      ],
+      "answer": 1,
+      "explain": "Sử dụng kéo dài, liều cao, phối hợp nhiều thuốc giảm đau (đặc biệt các thuốc cũ như Phenacetin trước đây) có thể gây hoại tử nhú thận và xơ hoá kẽ thận mạn tính — bệnh thận do giảm đau."
+    },
+    {
+      "q": "So với liều thấp dùng dự phòng tim mạch, Aspirin liều cao (kháng viêm, 4–6 g/ngày) khác biệt về mặt dược lý như thế nào?",
+      "options": [
+        "Chỉ ức chế COX-1, không ảnh hưởng COX-2",
+        "Ức chế cả COX-1 và COX-2 (bao gồm COX-2 nội mô sinh Prostacyclin), làm mất tính chọn lọc kháng kết tập tiểu cầu tương đối",
+        "Không còn tác dụng hạ sốt",
+        "Chuyển hoàn toàn sang cơ chế ức chế Lipoxygenase"
+      ],
+      "answer": 1,
+      "explain": "Ở liều cao, Aspirin ức chế cả COX-2 (bao gồm ở nội mô mạch máu, làm giảm Prostacyclin bảo vệ mạch) bên cạnh COX-1 tiểu cầu, làm mất đi ưu thế chọn lọc kháng huyết khối tương đối thấy được ở liều thấp."
+    },
+    {
+      "q": "Cơ chế kháng viêm chính của NSAID tại ổ viêm là gì?",
+      "options": [
+        "Ức chế giải phóng Histamin từ tế bào Mast",
+        "Giảm tổng hợp Prostaglandin gây giãn mạch và tăng tính thấm thành mạch tại ổ viêm",
+        "Ức chế trực tiếp sự di chuyển của bạch cầu trung tính",
+        "Trung hoà các gốc tự do tại ổ viêm"
+      ],
+      "answer": 1,
+      "explain": "PGE2 và PGI2 gây giãn mạch, tăng tính thấm thành mạch, khuếch đại tác dụng của các chất trung gian viêm khác (histamin, bradykinin); NSAID giảm tổng hợp các PG này, làm giảm các biểu hiện viêm (sưng, nóng, đỏ, đau)."
+    },
+    {
+      "q": "Trong nhóm thuốc hạ sốt – giảm đau – chống viêm, thuốc nào gần như KHÔNG có tác dụng chống viêm rõ trên lâm sàng dù vẫn có tác dụng giảm đau và hạ sốt tốt?",
+      "options": [
+        "Ibuprofen",
+        "Paracetamol",
+        "Naproxen",
+        "Diclofenac"
+      ],
+      "answer": 1,
+      "explain": "Paracetamol có tác dụng giảm đau – hạ sốt tương đương NSAID nhưng do đặc điểm dược lực học tại mô ngoại vi giàu peroxid, tác dụng chống viêm trên lâm sàng không đáng kể — vì vậy không được xếp là NSAID thực thụ."
+    },
+    {
+      "q": "Ở bệnh nhân được xác định thiếu men G6PD, cần thận trọng đặc biệt khi dùng thuốc nào trong nhóm hạ sốt – giảm đau ở liều cao?",
+      "options": [
+        "Chỉ Paracetamol, hoàn toàn không liên quan đến Aspirin",
+        "Aspirin liều cao (nguy cơ oxy hoá gây tan máu)",
+        "Chỉ NSAID chọn lọc COX-2",
+        "Không thuốc nào trong nhóm này cần thận trọng"
+      ],
+      "answer": 1,
+      "explain": "Aspirin liều cao có đặc tính oxy hoá, cần thận trọng ở người thiếu G6PD do nguy cơ tan máu cấp; Paracetamol liều cao cũng cần thận trọng tương đối do đặc tính oxy hoá của chất chuyển hoá, dù nguy cơ thấp hơn."
+    },
+    {
+      "q": "Vì sao cần hỏi kỹ tiền sử dị ứng Sulfonamid trước khi kê Celecoxib?",
+      "options": [
+        "Celecoxib được tổng hợp từ Sulfamethoxazol",
+        "Celecoxib có nhóm cấu trúc sulfonamid trong phân tử, có thể gây phản ứng dị ứng chéo",
+        "Celecoxib làm tăng chuyển hoá Sulfonamid",
+        "Không có liên quan, đây là hiểu lầm phổ biến"
+      ],
+      "answer": 1,
+      "explain": "Celecoxib chứa nhóm sulfonamid trong cấu trúc hoá học nên có nguy cơ dị ứng chéo ở bệnh nhân có tiền sử dị ứng sulfonamid (kháng sinh sulfa, một số lợi tiểu)."
+    },
+    {
+      "q": "Đặc điểm nào giúp phân biệt hội chứng người đỏ (Red-man syndrome khi truyền Vancomycin) với sốc phản vệ, có thể gặp trong các câu hỏi liên hệ về phản ứng thuốc nói chung?",
+      "options": [
+        "Red-man syndrome qua trung gian IgE, sốc phản vệ thì không",
+        "Red-man syndrome do phóng thích Histamin trực tiếp không qua IgE, thường liên quan tốc độ truyền nhanh; sốc phản vệ qua trung gian IgE, có thể xảy ra ở liều nhỏ",
+        "Cả hai đều có cơ chế giống hệt nhau",
+        "Red-man syndrome luôn cần ngừng thuốc vĩnh viễn giống sốc phản vệ"
+      ],
+      "answer": 1,
+      "explain": "Đây là điểm phân biệt kinh điển: Red-man syndrome do phóng thích histamin trực tiếp (giả dị ứng), liên quan tốc độ truyền, có thể dùng lại thuốc sau xử trí; sốc phản vệ qua IgE thật sự, cần ngừng thuốc vĩnh viễn."
+    }
+  ]
+}
