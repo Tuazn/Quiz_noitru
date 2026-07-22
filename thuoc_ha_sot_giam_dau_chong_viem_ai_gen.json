@@ -1,0 +1,818 @@
+{
+  "name": "Thuốc Hạ sốt – Giảm đau – Chống viêm (AI gen)",
+  "description": "Bộ câu hỏi ôn tập Thuốc hạ sốt – Giảm đau – Chống viêm bao gồm 50 câu hỏi tình huống lâm sàng (phân chia theo các ca bệnh) và 53 câu hỏi MCQ dược lý đơn thuần.",
+  "level": "Bác sĩ Nội trú",
+  "type": "cases",
+  "category": "Cơ sở",
+  "subcategory": "Dược lý",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 55 tuổi viêm khớp dạng thấp xuất hiện loét dạ dày khi dùng ibuprofen",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 55 tuổi.<br><br><b>Bệnh sử:</b> Viêm khớp dạng thấp, được kê ibuprofen dùng kéo dài. Sau 3 tháng, bệnh nhân đau thượng vị.<br><br><b>Xét nghiệm:</b> Nội soi phát hiện loét dạ dày.",
+      "questions": [
+        {
+          "q": "Cơ chế chính gây loét dạ dày của thuốc này là do ức chế prostaglandin nào tại niêm mạc dạ dày?",
+          "options": [
+            "PGE2 và PGI2",
+            "PGF2α",
+            "Thromboxan A2",
+            "Leucotrien B4"
+          ],
+          "answer": 0,
+          "explain": "PGE2, PGI2 tại niêm mạc dạ dày ức chế bài tiết HCl và kích thích tiết dịch nhầy – bicarbonat bảo vệ niêm mạc; CVKS ức chế COX làm giảm các PG này."
+        },
+        {
+          "q": "Biện pháp nào sau đây phù hợp nhất để dự phòng loét dạ dày nếu bắt buộc phải tiếp tục dùng CVKS kéo dài?",
+          "options": [
+            "Uống thuốc lúc đói để hấp thu nhanh",
+            "Phối hợp misoprostol hoặc PPI",
+            "Tăng liều lợi tiểu",
+            "Đổi sang aspirin liều cao"
+          ],
+          "answer": 1,
+          "explain": "Misoprostol (tương tự PGE1) hoặc thuốc ức chế bơm proton (PPI) giúp bảo vệ niêm mạc dạ dày khi phải dùng CVKS kéo dài."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi tư vấn dự phòng bệnh tim mạch bằng aspirin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi.<br><br><b>Tiền sử:</b> Tăng huyết áp, đái tháo đường type 2, chưa từng có biến cố tim mạch.<br><br><b>Bệnh sử:</b> Đến khám để tư vấn dự phòng bệnh tim mạch. Bác sĩ cân nhắc kê aspirin liều thấp.",
+      "questions": [
+        {
+          "q": "Theo khuyến cáo USPSTF 2022, quyết định phù hợp nhất là gì?",
+          "options": [
+            "Khởi đầu aspirin 81 mg/ngày ngay vì có yếu tố nguy cơ",
+            "Không khởi đầu aspirin vì BN đã ≥ 60 tuổi",
+            "Bắt buộc dùng aspirin liều 325 mg/ngày",
+            "Thay aspirin bằng celecoxib để dự phòng tim mạch"
+          ],
+          "answer": 1,
+          "explain": "USPSTF 2022 khuyến cáo KHÔNG khởi đầu aspirin liều thấp dự phòng tiên phát ở người ≥ 60 tuổi do nguy cơ chảy máu vượt lợi ích."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ 7 tuổi nôn và rối loạn ý thức sau khi uống aspirin hạ sốt thuỷ đậu",
+      "body": "<b>Hành chính:</b> Trẻ 7 tuổi.<br><br><b>Bệnh sử:</b> Sốt cao do thuỷ đậu, được mẹ cho uống aspirin hạ sốt liên tục 3 ngày. Sau đó trẻ nôn nhiều, li bì.<br><br><b>Khám lâm sàng:</b> Gan to.<br><br><b>Xét nghiệm:</b> Men gan và amoniac máu tăng.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào phù hợp nhất?",
+          "options": [
+            "Hội chứng Reye",
+            "Ngộ độc paracetamol",
+            "Viêm gan virus cấp",
+            "Sốc nhiễm khuẩn"
+          ],
+          "answer": 0,
+          "explain": "Aspirin dùng cho trẻ em đang sốt do nhiễm virus (thuỷ đậu, cúm) có nguy cơ gây hội chứng Reye – bệnh não gan cấp, hiếm nhưng nặng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi đang dùng aspirin dự phòng tim mạch tự uống thêm ibuprofen",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 58 tuổi.<br><br><b>Tiền sử:</b> Sau nhồi máu cơ tim đang dùng aspirin 81 mg/ngày dự phòng thứ phát.<br><br><b>Bệnh sử:</b> Bệnh nhân tự mua thêm ibuprofen uống mỗi khi đau khớp gối, luôn uống ibuprofen trước, aspirin sau.",
+      "questions": [
+        {
+          "q": "Hậu quả dược lý có thể xảy ra với hiệu quả bảo vệ tim mạch của aspirin?",
+          "options": [
+            "Không ảnh hưởng vì hai thuốc khác nhóm",
+            "Giảm hiệu quả do ibuprofen cạnh tranh vị trí gắn COX‑1 của tiểu cầu",
+            "Tăng hiệu quả do cộng hưởng tác dụng",
+            "Aspirin sẽ bị chuyển hoá nhanh hơn"
+          ],
+          "answer": 1,
+          "explain": "Ibuprofen cạnh tranh vị trí gắn thuận nghịch trên COX‑1 tiểu cầu, cản trở aspirin gắn không hồi phục vào enzym này nếu uống trước aspirin, làm giảm tác dụng chống ngưng kết tiểu cầu của aspirin."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ mang thai 32 tuần tự dùng NSAID giảm đau lưng",
+      "body": "<b>Hành chính:</b> Sản phụ mang thai 32 tuần.<br><br><b>Bệnh sử:</b> Tự dùng NSAID để giảm đau lưng trong nhiều ngày.",
+      "questions": [
+        {
+          "q": "Nguy cơ nào cho thai nhi cần cảnh báo trong tình huống này?",
+          "options": [
+            "Quái thai (dị tật bẩm sinh)",
+            "Đóng sớm ống động mạch của thai nhi",
+            "Hạ đường huyết sơ sinh",
+            "Vàng da tán huyết"
+          ],
+          "answer": 1,
+          "explain": "NSAID dùng trong 3 tháng cuối thai kỳ có nguy cơ gây đóng sớm ống động mạch của thai nhi trong tử cung do ức chế tổng hợp PG duy trì ống động mạch mở."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 34 tuổi uống khoảng 30 viên aspirin tự tử",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 34 tuổi.<br><br><b>Bệnh sử:</b> Uống khoảng 30 viên aspirin 500 mg tự tử, nhập viện giờ thứ 6.<br><br><b>Xét nghiệm:</b> Khí máu: pH 7,50, PaCO2 giảm (kiềm hô hấp).",
+      "questions": [
+        {
+          "q": "Cơ chế gây rối loạn thăng bằng toan – kiềm giai đoạn sớm này là gì?",
+          "options": [
+            "Ức chế trực tiếp thận thải trừ bicarbonat",
+            "Kích thích trung tâm hô hấp gây thở nhanh sâu, tăng thải CO2",
+            "Ức chế hô hấp gây ứ CO2",
+            "Tăng sinh acid lactic nguyên phát"
+          ],
+          "answer": 1,
+          "explain": "Aspirin liều cao kích thích trực tiếp trung tâm hô hấp ở hành não gây thở nhanh và sâu, tăng thải CO2 → kiềm hô hấp là giai đoạn sớm của ngộ độc salicylat."
+        },
+        {
+          "q": "Nếu không xử trí, giai đoạn muộn của ngộ độc thường biểu hiện gì?",
+          "options": [
+            "Kiềm chuyển hoá",
+            "Toan chuyển hoá do tích tụ acid hữu cơ (lactic, ceton)",
+            "Hạ thân nhiệt kéo dài",
+            "Tăng kali máu đơn thuần không kèm toan"
+          ],
+          "answer": 1,
+          "explain": "Sau giai đoạn kiềm hô hấp, cơ thể tăng sinh acid lactic và các acid hữu cơ khác do rối loạn chuyển hoá tế bào → toan chuyển hoá, đặc biệt nặng ở trẻ em."
+        },
+        {
+          "q": "Biện pháp nào sau đây là đặc hiệu và quan trọng nhất để tăng thải trừ salicylat qua thận?",
+          "options": [
+            "Truyền glucose ưu trương",
+            "Base hoá nước tiểu bằng natri bicarbonat",
+            "Acid hoá nước tiểu bằng vitamin C liều cao",
+            "Lợi tiểu thẩm thấu bằng manitol đơn thuần"
+          ],
+          "answer": 1,
+          "explain": "Base hoá nước tiểu làm tăng ion hoá salicylat ở ống thận, hạn chế tái hấp thu (\"ion trapping\"), tăng thải trừ qua nước tiểu – biện pháp đặc hiệu trong ngộ độc salicylat."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 25 tuổi uống 20 viên paracetamol tự tử nhập viện giờ thứ 2",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 25 tuổi.<br><br><b>Bệnh sử:</b> Uống 20 viên paracetamol 500 mg (10 g) tự tử, đến viện giờ thứ 2.<br><br><b>Khám lâm sàng:</b> Tỉnh táo, chỉ buồn nôn nhẹ.<br><br><b>Xét nghiệm:</b> AST/ALT bình thường.",
+      "questions": [
+        {
+          "q": "Thái độ xử trí phù hợp nhất lúc này là gì?",
+          "options": [
+            "Cho về theo dõi tại nhà vì chưa có triệu chứng gan",
+            "Chỉ cần bù dịch, không cần thuốc giải độc",
+            "Bắt đầu N‑acetylcystein ngay, không chờ men gan tăng",
+            "Chờ đến khi vàng da xuất hiện mới điều trị"
+          ],
+          "answer": 2,
+          "explain": "Giai đoạn 1 ngộ độc paracetamol (0–24 giờ) thường không triệu chứng hoặc chỉ buồn nôn nhẹ dù tổn thương gan đã âm thầm tiến triển; cần bắt đầu NAC sớm, không chờ triệu chứng hoặc men gan tăng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi ngộ độc paracetamol nhập viện giờ thứ 30",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 30 tuổi.<br><br><b>Bệnh sử:</b> Ngộ độc paracetamol, nhập viện giờ thứ 30 sau uống thuốc.<br><br><b>Khám lâm sàng:</b> Vàng da, có dấu hiệu rối loạn ý thức nhẹ.<br><br><b>Xét nghiệm:</b> AST/ALT tăng rất cao, INR kéo dài.",
+      "questions": [
+        {
+          "q": "Nhận định nào về tiên lượng và xử trí là đúng?",
+          "options": [
+            "NAC không còn tác dụng nên không cần dùng",
+            "Vẫn nên dùng NAC dù hiệu quả kém hơn so với dùng sớm trong 8–10 giờ đầu",
+            "Chỉ cần theo dõi, không can thiệp gì thêm",
+            "Truyền glucose là đủ để hồi phục gan"
+          ],
+          "answer": 1,
+          "explain": "NAC vẫn có lợi ích ngay cả khi dùng muộn hơn (đến 24 giờ hoặc hơn ở thể nặng), dù hiệu quả bảo vệ gan giảm dần theo thời gian; BN này có dấu hiệu suy gan tiến triển cần theo dõi sát, cân nhắc chuyển tuyến có khả năng ghép gan nếu nặng."
+        },
+        {
+          "q": "Cơ chế chính gây hoại tử tế bào gan khi dùng paracetamol liều cao là gì?",
+          "options": [
+            "NAPQI tích tụ do cạn kiệt glutathion, gắn cộng hoá trị vào protein tế bào gan",
+            "Paracetamol gắn trực tiếp phá huỷ màng tế bào gan",
+            "Ức chế tổng hợp glucuronic acid gây tích luỹ bilirubin",
+            "Gây co mạch nuôi gan dẫn đến thiếu máu gan"
+          ],
+          "answer": 0,
+          "explain": "Liều cao vượt khả năng liên hợp glucuro/sulfat → tăng chuyển hoá qua CYP2E1 tạo nhiều NAPQI; khi glutathion gan cạn kiệt, NAPQI dư thừa gắn cộng hoá trị vào protein tế bào gan gây hoại tử."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi xơ gan còn bù cần tư vấn dùng paracetamol",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Tiền sử:</b> Xơ gan còn bù.<br><br><b>Bệnh sử:</b> Đau đầu thường xuyên, muốn dùng thuốc giảm đau – hạ sốt an toàn.",
+      "questions": [
+        {
+          "q": "Lời khuyên phù hợp nhất về dùng paracetamol ở BN này là gì?",
+          "options": [
+            "Chống chỉ định tuyệt đối, không được dùng liều nào",
+            "Có thể dùng nhưng cần giảm liều tối đa/ngày và tránh phối hợp rượu",
+            "Dùng liều tối đa 4 g/ngày như người bình thường",
+            "Thay bằng aspirin liều cao vì an toàn hơn cho gan"
+          ],
+          "answer": 1,
+          "explain": "Ở người suy gan, paracetamol cần giảm liều, kéo dài khoảng cách liều, tránh liều tối đa và tránh phối hợp rượu do giảm khả năng chuyển hoá/dự trữ glutathion."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi nghiện rượu mạn tính tổn thương gan dù dùng paracetamol liều thông thường",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Tiền sử:</b> Nghiện rượu mạn tính nhiều năm.<br><br><b>Bệnh sử:</b> Dùng paracetamol liều điều trị thông thường (theo hướng dẫn) để giảm đau đầu nhưng vẫn xuất hiện tổn thương gan.",
+      "questions": [
+        {
+          "q": "Giải thích hợp lý nhất cho hiện tượng này là gì?",
+          "options": [
+            "Rượu làm chậm hấp thu paracetamol",
+            "Rượu cảm ứng CYP2E1 và làm giảm dự trữ glutathion gan, tăng nguy cơ độc gan ngay ở liều gần điều trị",
+            "Rượu làm tăng gắn kết paracetamol với protein huyết tương",
+            "Rượu không có tương tác gì với paracetamol"
+          ],
+          "answer": 1,
+          "explain": "Nghiện rượu mạn tính vừa cảm ứng CYP2E1 (tăng tạo NAPQI) vừa làm giảm dự trữ glutathion gan (giảm khả năng khử độc NAPQI) → tăng nguy cơ độc gan ngay ở liều gần điều trị."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 40 tuổi có tiền sử loét dạ dày tá tràng tiến triển cần giảm đau",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 40 tuổi.<br><br><b>Tiền sử:</b> Loét dạ dày – tá tràng đang tiến triển, kèm rối loạn đông máu nhẹ.<br><br><b>Bệnh sử:</b> Cần thuốc giảm đau – hạ sốt cho cơn đau đầu.",
+      "questions": [
+        {
+          "q": "Lựa chọn thuốc phù hợp nhất là gì?",
+          "options": [
+            "Aspirin liều thấp",
+            "Paracetamol",
+            "Indomethacin",
+            "Ketorolac"
+          ],
+          "answer": 1,
+          "explain": "Paracetamol là lựa chọn giảm đau – hạ sốt hàng đầu cho người không dùng được aspirin/CVKS do loét tiêu hoá hoặc rối loạn đông máu, vì không ức chế tổng hợp PG bảo vệ dạ dày và không ảnh hưởng tiểu cầu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 70 tuổi tăng huyết áp và suy tim xuất hiện suy thận cấp sau khi kê thêm diclofenac",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 70 tuổi.<br><br><b>Tiền sử:</b> Tăng huyết áp và suy tim đang điều trị ổn định bằng ƯCMC và lợi tiểu.<br><br><b>Bệnh sử:</b> Được bác sĩ khác kê thêm diclofenac để giảm đau khớp gối. Vài ngày sau nhập viện vì suy thận cấp.",
+      "questions": [
+        {
+          "q": "Cơ chế tương tác thuốc gây suy thận cấp (\"triple whammy\") ở BN này là gì?",
+          "options": [
+            "NSAID làm tăng hấp thu ƯCMC qua ruột",
+            "NSAID ức chế tổng hợp PG gây giãn mạch thận, cộng với giảm thể tích do lợi tiểu và giảm tưới máu cầu thận do ƯCMC",
+            "Lợi tiểu làm tăng độc tính trực tiếp của NSAID lên ống thận",
+            "ƯCMC làm tăng chuyển hoá NSAID ở gan"
+          ],
+          "answer": 1,
+          "explain": "Phối hợp NSAID + ƯCMC/ức chế thụ thể angiotensin + lợi tiểu (\"triple whammy\") làm mất cơ chế bù trừ giãn mạch thận qua PG, kết hợp giảm thể tích tuần hoàn hiệu dụng, dẫn đến giảm mạnh mức lọc cầu thận và suy thận cấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi đặt stent mạch vành cần chọn CVKS giảm đau khớp gối",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi.<br><br><b>Tiền sử:</b> Đã đặt stent mạch vành cách đây 2 năm.<br><br><b>Bệnh sử:</b> Hiện đau khớp gối mạn tính cần điều trị lâu dài.",
+      "questions": [
+        {
+          "q": "Lựa chọn CVKS nào sau đây KHÔNG phù hợp nhất cho BN này?",
+          "options": [
+            "Naproxen liều thấp nhất có hiệu quả",
+            "Paracetamol",
+            "Celecoxib hoặc diclofenac liều cao kéo dài",
+            "Chườm ấm kết hợp vật lý trị liệu"
+          ],
+          "answer": 2,
+          "explain": "Coxib và diclofenac liều cao/kéo dài làm tăng nguy cơ huyết khối tim mạch, cần tránh ở bệnh nhân có bệnh tim mạch do xơ vữa; naproxen liều thấp được xem là lựa chọn NSAID tương đối an toàn hơn về tim mạch theo một số phân tích gộp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 55 tuổi tăng huyết áp sau 2 tuần dùng celecoxib",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 55 tuổi.<br><br><b>Tiền sử:</b> Viêm khớp dạng thấp, được kê celecoxib.<br><br><b>Bệnh sử:</b> Sau 2 tuần, huyết áp tăng từ 120/80 lên 145/95 mmHg dù không thay đổi thuốc hạ áp.",
+      "questions": [
+        {
+          "q": "Cơ chế gây tăng huyết áp của thuốc này là gì?",
+          "options": [
+            "Ức chế COX‑1 tiểu cầu gây co mạch",
+            "Giảm tổng hợp PGE2/PGI2 giãn mạch thận → co mạch thận, tăng tiết renin, giữ muối nước",
+            "Kích thích trực tiếp hệ giao cảm",
+            "Ức chế enzym chuyển angiotensin"
+          ],
+          "answer": 1,
+          "explain": "Coxib làm giảm tổng hợp PGE2 và PGI2 (có vai trò giãn mạch thận); khi giảm các PG này, mạch thận co, tăng tiết renin, giữ muối – nước, dẫn đến tăng huyết áp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 32 tuổi tiền sử hen phế quản lên cơn khó thở cấp sau khi uống aspirin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 32 tuổi.<br><br><b>Tiền sử:</b> Hen phế quản.<br><br><b>Bệnh sử:</b> Sau uống aspirin giảm đau đầu khoảng 30 phút xuất hiện khó thở dữ dội, khò khè, phải cấp cứu.",
+      "questions": [
+        {
+          "q": "Cơ chế gây cơn hen cấp (cơn hen giả) trong tình huống này là gì?",
+          "options": [
+            "Aspirin gây co thắt phế quản trực tiếp qua thụ thể histamin",
+            "Ức chế COX làm tăng chuyển hoá acid arachidonic theo con đường lipooxygenase, tăng leucotrien gây co thắt phế quản",
+            "Aspirin gây phù Quincke đường thở",
+            "Aspirin ức chế trung tâm hô hấp gây ngừng thở"
+          ],
+          "answer": 1,
+          "explain": "Mọi CVKS có khả năng gây cơn hen giả (pseudo‑asthma): ức chế COX làm dồn acid arachidonic sang con đường lipooxygenase, tăng tổng hợp leucotrien gây co thắt phế quản, đặc biệt ở người có cơ địa nhạy cảm aspirin (bộ ba Samter)."
+        },
+        {
+          "q": "Thuốc giảm đau nào tương đối an toàn hơn để thay thế cho BN này khi cần giảm đau nhẹ?",
+          "options": [
+            "Ibuprofen liều cao",
+            "Paracetamol (thận trọng, theo dõi)",
+            "Indomethacin",
+            "Ketorolac"
+          ],
+          "answer": 1,
+          "explain": "Paracetamol ít gây phản ứng chéo với cơ chế nhạy cảm aspirin hơn CVKS khác nên thường được ưu tiên (dù vẫn cần thận trọng và theo dõi) ở người có tiền sử hen nhạy cảm aspirin."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi lên cơn gout cấp ở khớp bàn ngón chân cái",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Tiền sử:</b> Không có tiền sử loét dạ dày hay suy thận.<br><br><b>Bệnh sử:</b> Cơn gout cấp ở khớp bàn ngón chân cái, sưng nóng đỏ đau dữ dội.",
+      "questions": [
+        {
+          "q": "CVKS nào thường được xem là lựa chọn kinh điển cho cơn gout cấp?",
+          "options": [
+            "Indomethacin",
+            "Celecoxib",
+            "Piroxicam",
+            "Ketorolac"
+          ],
+          "answer": 0,
+          "explain": "Indomethacin là CVKS kinh điển được dùng trong điều trị cơn gout cấp nhờ tác dụng chống viêm mạnh và khởi phát tác dụng nhanh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 28 tuổi chẩn đoán viêm cột sống dính khớp",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 28 tuổi.<br><br><b>Bệnh sử:</b> Đau lưng và cứng khớp buổi sáng kéo dài, chẩn đoán viêm cột sống dính khớp (bệnh Bechterew).",
+      "questions": [
+        {
+          "q": "CVKS nào được xem là lựa chọn kinh điển, hiệu quả cao cho bệnh này?",
+          "options": [
+            "Indomethacin",
+            "Paracetamol",
+            "Nimesulid",
+            "Ketorolac"
+          ],
+          "answer": 0,
+          "explain": "Indomethacin có tác dụng chống viêm mạnh, được xem là lựa chọn kinh điển trong điều trị viêm cột sống dính khớp và các bệnh viêm khớp mạn tính tiến triển."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 68 tuổi thoái hoá khớp gối đau nhẹ khi vận động",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 68 tuổi.<br><br><b>Bệnh sử:</b> Thoái hoá khớp gối, đau nhẹ khi vận động, chưa cần tác dụng chống viêm mạnh.",
+      "questions": [
+        {
+          "q": "Chiến lược điều trị hợp lý theo nguyên tắc dùng CVKS trong thoái hoá khớp là gì?",
+          "options": [
+            "Bắt đầu ngay liều cao chống viêm mạnh nhất có thể",
+            "Bắt đầu liều thấp có tác dụng giảm đau, tăng liều nếu cần đạt tác dụng chống viêm",
+            "Dùng phenylbutazon liều cao ngay từ đầu",
+            "Chỉ dùng corticoid toàn thân"
+          ],
+          "answer": 1,
+          "explain": "Trong thoái hoá khớp, nên bắt đầu với loại/liều có tác dụng giảm đau ở liều thấp (như aspirin, dẫn xuất propionic) và chỉ tăng liều khi cần đạt tác dụng chống viêm, nhằm hạn chế tác dụng phụ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi cần thuốc giảm đau đường tiêm sau phẫu thuật nội soi",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 35 tuổi.<br><br><b>Bệnh sử:</b> Sau phẫu thuật nội soi khớp gối, đau nhiều, cần thuốc giảm đau mạnh đường tiêm mà chưa muốn dùng opioid.",
+      "questions": [
+        {
+          "q": "CVKS nào phù hợp nhất trong tình huống này?",
+          "options": [
+            "Ketorolac tiêm bắp",
+            "Piroxicam uống",
+            "Phenylbutazon uống",
+            "Nimesulid uống"
+          ],
+          "answer": 0,
+          "explain": "Ketorolac là một trong số ít CVKS có thể dùng đường tiêm, tác dụng giảm đau mạnh hơn chống viêm, phù hợp cho đau cấp sau phẫu thuật."
+        },
+        {
+          "q": "Vì sao ketorolac không được khuyến cáo dùng quá 5 ngày liên tục?",
+          "options": [
+            "Vì gây quen thuốc và hội chứng cai như opioid",
+            "Vì nguy cơ xuất huyết tiêu hoá và suy thận tăng theo thời gian dùng",
+            "Vì mất tác dụng giảm đau sau 5 ngày",
+            "Vì gây nghiện thuốc"
+          ],
+          "answer": 1,
+          "explain": "Ketorolac có ADR gấp đôi placebo và nguy cơ xuất huyết tiêu hoá, suy thận tăng theo thời gian sử dụng, nên giới hạn tối đa 5 ngày liên tục."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ 6 tuổi sốt cao nghi sốt xuất huyết dengue ngày thứ 3",
+      "body": "<b>Hành chính:</b> Trẻ 6 tuổi.<br><br><b>Bệnh sử:</b> Sốt cao nghi sốt xuất huyết dengue ngày thứ 3, mẹ hỏi có nên cho uống ibuprofen hay aspirin hạ sốt không.",
+      "questions": [
+        {
+          "q": "Câu trả lời phù hợp nhất là gì?",
+          "options": [
+            "Có thể dùng aspirin liều thấp",
+            "Nên dùng ibuprofen vì hạ sốt nhanh hơn",
+            "Không nên dùng CVKS/aspirin, nên dùng paracetamol",
+            "Dùng phối hợp aspirin và paracetamol"
+          ],
+          "answer": 2,
+          "explain": "Ở bệnh nhân sốt xuất huyết dengue, CVKS (kể cả aspirin, ibuprofen) làm tăng nguy cơ xuất huyết do ức chế chức năng tiểu cầu, nên tránh dùng; paracetamol là lựa chọn hạ sốt an toàn hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi tăng men gan sau 6 tháng dùng diclofenac",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Tiền sử:</b> Viêm khớp mạn tính, dùng diclofenac kéo dài 6 tháng.<br><br><b>Bệnh sử:</b> Không có triệu chứng lâm sàng.<br><br><b>Xét nghiệm:</b> AST/ALT tăng gấp 3 lần giới hạn trên.",
+      "questions": [
+        {
+          "q": "Thái độ xử trí hợp lý nhất là gì?",
+          "options": [
+            "Ngừng thuốc ngay lập tức và không bao giờ dùng lại bất kỳ CVKS nào",
+            "Theo dõi sát chức năng gan, cân nhắc ngừng/đổi thuốc nếu men gan tiếp tục tăng hoặc có triệu chứng",
+            "Tiếp tục dùng liều như cũ vì không có triệu chứng",
+            "Tăng liều diclofenac để bù trừ"
+          ],
+          "answer": 1,
+          "explain": "Tăng men gan do diclofenac thường hồi phục được nhưng cần theo dõi sát; nếu men gan tiếp tục tăng hoặc xuất hiện triệu chứng (vàng da, mệt mỏi) cần ngừng thuốc và đánh giá thêm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi suy thận mạn giai đoạn 4 cần thuốc giảm đau khớp gối",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 72 tuổi.<br><br><b>Tiền sử:</b> Suy thận mạn giai đoạn 4 (mức lọc cầu thận ~25 mL/phút).<br><br><b>Bệnh sử:</b> Đau khớp gối mạn tính cần giảm đau thường xuyên.",
+      "questions": [
+        {
+          "q": "Lựa chọn thuốc giảm đau phù hợp và an toàn nhất là gì?",
+          "options": [
+            "Ibuprofen liều thấp",
+            "Diclofenac liều thấp",
+            "Paracetamol",
+            "Celecoxib liều thấp"
+          ],
+          "answer": 2,
+          "explain": "Ở người suy thận mạn giai đoạn nặng, nên tránh CVKS (kể cả coxib) do nguy cơ làm nặng thêm suy thận; paracetamol là lựa chọn giảm đau ưu tiên."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi dùng phối hợp warfarin và ibuprofen",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Tiền sử:</b> Đang dùng warfarin để dự phòng huyết khối do rung nhĩ.<br><br><b>Bệnh sử:</b> Được kê thêm ibuprofen để giảm đau khớp mà không điều chỉnh liều warfarin.",
+      "questions": [
+        {
+          "q": "Nguy cơ chính khi phối hợp hai thuốc này là gì?",
+          "options": [
+            "Giảm tác dụng chống đông của warfarin",
+            "Tăng nguy cơ chảy máu do cộng tác dụng ức chế tiểu cầu và đẩy warfarin ra khỏi protein huyết tương",
+            "Gây hạ đường huyết nặng",
+            "Gây độc gan cấp tính"
+          ],
+          "answer": 1,
+          "explain": "CVKS đẩy warfarin ra khỏi protein huyết tương làm tăng nồng độ thuốc tự do, đồng thời ức chế chức năng tiểu cầu và gây tổn thương niêm mạc tiêu hoá → tăng đáng kể nguy cơ chảy máu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 50 tuổi điều trị ung thư vú bằng methotrexat liều cao cần thuốc giảm đau",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 50 tuổi.<br><br><b>Tiền sử:</b> Đang điều trị ung thư vú bằng methotrexat liều cao.<br><br><b>Bệnh sử:</b> Bác sĩ cần kê thêm giảm đau cho đau xương do di căn.",
+      "questions": [
+        {
+          "q": "Nhóm thuốc nào cần tránh phối hợp với methotrexat liều cao?",
+          "options": [
+            "Paracetamol",
+            "NSAID (CVKS)",
+            "Opioid",
+            "Corticoid"
+          ],
+          "answer": 1,
+          "explain": "NSAID cạnh tranh bài tiết ở ống thận và đẩy methotrexat khỏi protein huyết tương, làm tăng nồng độ và độc tính của methotrexat (ức chế tuỷ, độc gan/thận) khi dùng liều cao."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi rối loạn lưỡng cực đang dùng lithium phối hợp thêm naproxen",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Tiền sử:</b> Rối loạn lưỡng cực đang điều trị duy trì bằng lithium.<br><br><b>Bệnh sử:</b> Được kê thêm naproxen để giảm đau vai.",
+      "questions": [
+        {
+          "q": "Nguy cơ tương tác thuốc cần lưu ý là gì?",
+          "options": [
+            "Naproxen làm giảm nồng độ lithium",
+            "Naproxen làm giảm thải trừ lithium qua thận, gây tích luỹ và ngộ độc lithium",
+            "Lithium làm giảm tác dụng giảm đau của naproxen",
+            "Không có tương tác đáng kể"
+          ],
+          "answer": 1,
+          "explain": "CVKS làm giảm thải trừ lithium qua thận do ảnh hưởng đến huyết động thận, gây tích luỹ lithium và có thể dẫn đến ngộ độc lithium."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ sơ sinh non tháng chẩn đoán còn ống động mạch cần điều trị đóng ống",
+      "body": "<b>Hành chính:</b> Trẻ sơ sinh non tháng.<br><br><b>Bệnh sử:</b> Được chẩn đoán còn ống động mạch (PDA) có ý nghĩa huyết động, cần điều trị nội khoa để đóng ống động mạch.",
+      "questions": [
+        {
+          "q": "Thuốc nào thuộc nhóm CVKS được dùng để thúc đẩy đóng ống động mạch ở trẻ sơ sinh?",
+          "options": [
+            "Indomethacin (hoặc ibuprofen)",
+            "Paracetamol liều cao",
+            "Aspirin liều cao",
+            "Celecoxib"
+          ],
+          "answer": 0,
+          "explain": "Indomethacin (và ibuprofen) ức chế tổng hợp PG – chất duy trì ống động mạch mở trong bào thai – được dùng để thúc đẩy đóng ống động mạch ở trẻ sơ sinh non tháng."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ sơ sinh mắc tim bẩm sinh cần duy trì mở ống động mạch",
+      "body": "<b>Hành chính:</b> Trẻ sơ sinh.<br><br><b>Bệnh sử:</b> Bệnh tim bẩm sinh phụ thuộc ống động mạch (ví dụ teo van động mạch phổi), cần giữ ống động mạch mở trước khi phẫu thuật.",
+      "questions": [
+        {
+          "q": "Thuốc nào được dùng để duy trì ống động mạch mở trong tình huống này?",
+          "options": [
+            "Indomethacin",
+            "Alprostadil (PGE1)",
+            "Aspirin",
+            "Diclofenac"
+          ],
+          "answer": 1,
+          "explain": "Alprostadil (PGE1 ngoại sinh) được truyền tĩnh mạch để duy trì ống động mạch mở ở trẻ có bệnh tim bẩm sinh phụ thuộc ống, đối lập với indomethacin (ức chế PG, đóng ống)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi tiền sử nhồi máu cơ tim muốn dùng celecoxib",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 68 tuổi.<br><br><b>Tiền sử:</b> Nhồi máu cơ tim 1 năm trước.<br><br><b>Bệnh sử:</b> Hiện đau khớp gối mạn tính, hỏi bác sĩ có thể dùng celecoxib để giảm đau lâu dài không.",
+      "questions": [
+        {
+          "q": "Tư vấn phù hợp nhất là gì?",
+          "options": [
+            "Có thể dùng celecoxib liều cao lâu dài vì ít ảnh hưởng tiêu hoá",
+            "Không nên dùng coxib ở người có bệnh tim mạch do xơ vữa, nên ưu tiên biện pháp khác hoặc NSAID nguy cơ tim mạch thấp hơn với liều thấp nhất, thời gian ngắn nhất",
+            "Dùng celecoxib phối hợp aspirin liều cao để bù trừ nguy cơ tim mạch",
+            "Không có chống chỉ định nào cần lưu ý"
+          ],
+          "answer": 1,
+          "explain": "Coxib chống chỉ định tương đối ở bệnh nhân có bệnh tim mạch do xơ vữa (như sau nhồi máu cơ tim) do tăng nguy cơ huyết khối; cần cân nhắc biện pháp không dùng thuốc, paracetamol, hoặc NSAID nguy cơ thấp hơn với liều/tối thiểu thời gian."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 60 tuổi có tiền sử loét dạ dày cần chọn CVKS dài ngày",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 60 tuổi.<br><br><b>Tiền sử:</b> Loét dạ dày đã điều trị ổn định, không có bệnh tim mạch.<br><br><b>Bệnh sử:</b> Cần CVKS dài ngày cho viêm khớp gối.",
+      "questions": [
+        {
+          "q": "Chiến lược điều trị nào giảm thiểu nguy cơ tiêu hoá tốt nhất cho BN này?",
+          "options": [
+            "CVKS không chọn lọc liều cao đơn độc",
+            "Celecoxib đơn độc hoặc CVKS không chọn lọc phối hợp PPI",
+            "Ngừng hẳn mọi thuốc giảm đau",
+            "Aspirin liều cao đơn độc"
+          ],
+          "answer": 1,
+          "explain": "Ở người nguy cơ tiêu hoá cao nhưng không có chống chỉ định tim mạch, celecoxib (ức chế chọn lọc COX‑2) hoặc CVKS không chọn lọc phối hợp PPI là chiến lược giảm nguy cơ loét/xuất huyết tiêu hoá hợp lý."
+        }
+      ]
+    },
+    {
+      "title": "Phụ nữ mang thai 8 tuần dùng NSAID giảm đau đầu",
+      "body": "<b>Hành chính:</b> Phụ nữ mang thai 8 tuần.<br><br><b>Bệnh sử:</b> Tự ý dùng NSAID không kê đơn để giảm đau đầu trong vài ngày.",
+      "questions": [
+        {
+          "q": "Nguy cơ chính cần cảnh báo trong 3 tháng đầu thai kỳ khi dùng NSAID là gì?",
+          "options": [
+            "Đóng sớm ống động mạch",
+            "Nguy cơ gây quái thai (dị tật bẩm sinh)",
+            "Suy thận sơ sinh",
+            "Vàng da nhân não sơ sinh"
+          ],
+          "answer": 1,
+          "explain": "Trong 3 tháng đầu thai kỳ, CVKS có nguy cơ gây quái thai; nguy cơ đóng sớm ống động mạch chủ yếu liên quan đến 3 tháng cuối."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ thai đủ tháng diễn tiến chuyển dạ chậm sau khi dùng NSAID kéo dài",
+      "body": "<b>Hành chính:</b> Sản phụ thai đủ tháng.<br><br><b>Tiền sử:</b> Dùng NSAID liều cao kéo dài để giảm đau khớp trước đó vài ngày.<br><br><b>Bệnh sử:</b> Chuyển dạ diễn tiến chậm bất thường.",
+      "questions": [
+        {
+          "q": "Cơ chế NSAID có thể góp phần làm chậm chuyển dạ là gì?",
+          "options": [
+            "Giảm tổng hợp PGE, PGF làm giảm co bóp tử cung",
+            "Tăng tổng hợp oxytocin nội sinh",
+            "Ức chế thụ thể oxytocin ở tử cung",
+            "Gây co thắt cổ tử cung"
+          ],
+          "answer": 0,
+          "explain": "PGE và PGF làm tăng co bóp tử cung, đặc biệt tăng rất mạnh trước khi chuyển dạ; NSAID ức chế tổng hợp các PG này có thể kéo dài thai kỳ và làm chậm chuyển dạ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi dùng CVKS dài ngày kê thêm misoprostol",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Bệnh sử:</b> Đang dùng CVKS dài ngày cho viêm khớp, bác sĩ kê thêm misoprostol để dự phòng loét dạ dày.",
+      "questions": [
+        {
+          "q": "Tác dụng phụ thường gặp nhất của misoprostol mà BN cần được tư vấn trước là gì?",
+          "options": [
+            "Táo bón kéo dài",
+            "Tiêu chảy",
+            "Phù mạch",
+            "Rối loạn nhịp tim"
+          ],
+          "answer": 1,
+          "explain": "Misoprostol (chất tương tự PGE1) thường gây tác dụng phụ tiêu chảy (khoảng 30% trường hợp), ngoài ra có thể gây đau quặn bụng; chống chỉ định ở phụ nữ có thai do nguy cơ sảy thai."
+        },
+        {
+          "q": "Trong thực hành lâm sàng hiện nay, biện pháp dự phòng loét dạ dày nào thường được ưu tiên hơn nhờ dung nạp tốt hơn so với misoprostol?",
+          "options": [
+            "Thuốc kháng H2 liều thấp",
+            "Thuốc ức chế bơm proton (PPI)",
+            "Than hoạt tính",
+            "Kháng sinh diệt Helicobacter pylori đơn thuần"
+          ],
+          "answer": 1,
+          "explain": "PPI được dung nạp tốt hơn misoprostol (ít gây tiêu chảy/đau bụng) nên thường được ưu tiên trong thực hành hiện nay để dự phòng loét dạ dày do NSAID."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi xuất hiện vàng da và men gan tăng sau khi dùng nimesulid",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Bệnh sử:</b> Được kê nimesulid để giảm đau viêm khớp cấp trong một đợt ngắn ngày, sau đó xuất hiện vàng da, mệt mỏi.<br><br><b>Xét nghiệm:</b> Men gan tăng cao.",
+      "questions": [
+        {
+          "q": "ADR nghiêm trọng nào của nimesulid cần nghĩ đến đầu tiên?",
+          "options": [
+            "Suy tuỷ xương",
+            "Độc tính gan nghiêm trọng (viêm gan, suy gan cấp)",
+            "Xuất huyết tiêu hoá ồ ạt",
+            "Rối loạn nhịp tim nặng"
+          ],
+          "answer": 1,
+          "explain": "Nimesulid có nguy cơ độc tính gan nghiêm trọng đã được cảnh báo bởi nhiều cơ quan quản lý dược; nhiều nước hạn chế nghiêm ngặt chỉ định và thời gian dùng (thường ≤ 15 ngày)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 58 tuổi viêm khớp dạng thấp mạn tính cần thuốc uống 1 lần/ngày",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 58 tuổi.<br><br><b>Bệnh sử:</b> Viêm khớp dạng thấp mạn tính, muốn thuốc chỉ cần uống 1 lần/ngày để dễ tuân thủ.",
+      "questions": [
+        {
+          "q": "Thuốc nào sau đây phù hợp nhất nhờ thời gian bán thải dài, dùng liều duy nhất trong ngày?",
+          "options": [
+            "Ibuprofen",
+            "Diclofenac",
+            "Meloxicam",
+            "Ketorolac"
+          ],
+          "answer": 2,
+          "explain": "Meloxicam có t½ khoảng 20 giờ, cho phép dùng liều duy nhất 1 lần/ngày, thuận tiện cho điều trị viêm mạn tính."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi dùng phenylbutazon kéo dài xuất hiện sốt và đau họng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi.<br><br><b>Bệnh sử:</b> Dùng phenylbutazon kéo dài để điều trị viêm cứng khớp, sau 3 tuần xuất hiện sốt cao, đau họng.<br><br><b>Xét nghiệm:</b> Bạch cầu hạt giảm nặng.",
+      "questions": [
+        {
+          "q": "ADR đặc trưng và nguy hiểm nhất của phenylbutazon trong tình huống này là gì?",
+          "options": [
+            "Suy tuỷ/mất bạch cầu hạt (agranulocytosis)",
+            "Loét dạ dày đơn thuần",
+            "Rối loạn thị giác",
+            "Tăng huyết áp nhẹ"
+          ],
+          "answer": 0,
+          "explain": "Phenylbutazon có thể gây giảm bạch cầu hạt và suy tuỷ nghiêm trọng, có thể xảy ra bất kỳ lúc nào trong quá trình điều trị – đây là lý do thuốc bị hạn chế nghiêm ngặt hoặc rút khỏi nhiều thị trường."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 kg ngộ độc paracetamol chỉ định N‑acetylcystein đường uống",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 70 kg.<br><br><b>Bệnh sử:</b> Ngộ độc paracetamol, bác sĩ quyết định dùng N‑acetylcystein đường uống theo phác đồ kinh điển.",
+      "questions": [
+        {
+          "q": "Liều tấn công N‑acetylcystein đường uống theo phác đồ kinh điển là bao nhiêu?",
+          "options": [
+            "70 mg/kg",
+            "140 mg/kg",
+            "200 mg/kg",
+            "50 mg/kg"
+          ],
+          "answer": 1,
+          "explain": "Phác đồ NAC đường uống kinh điển: liều tấn công 140 mg/kg, sau đó duy trì 70 mg/kg mỗi 4 giờ × 17 liều."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 25 tuổi đau răng nhẹ cần giảm đau hạ sốt đơn giản",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 25 tuổi.<br><br><b>Bệnh sử:</b> Khoẻ mạnh, đau răng nhẹ không kèm sưng viêm rõ, không có bệnh nền, cần thuốc giảm đau – hạ sốt đơn giản.",
+      "questions": [
+        {
+          "q": "Lựa chọn đầu tay hợp lý nhất là gì?",
+          "options": [
+            "Paracetamol",
+            "Indomethacin",
+            "Ketorolac",
+            "Phenylbutazon"
+          ],
+          "answer": 0,
+          "explain": "Với đau nhẹ không cần tác dụng chống viêm mạnh, paracetamol là lựa chọn đầu tay do hiệu quả tương đương aspirin về giảm đau – hạ sốt nhưng an toàn hơn về tiêu hoá và huyết học."
+        }
+      ]
+    },
+    {
+      "title": "Vận động viên 22 tuổi chấn thương cơ do va chạm thể thao",
+      "body": "<b>Hành chính:</b> Vận động viên nam, 22 tuổi.<br><br><b>Bệnh sử:</b> Khoẻ mạnh, chấn thương cơ do va chạm thể thao, sưng đau rõ, không có bệnh nền.",
+      "questions": [
+        {
+          "q": "Thuốc nào phù hợp nhất để vừa giảm đau vừa chống viêm cho tình huống cấp tính này?",
+          "options": [
+            "Paracetamol đơn thuần",
+            "Ibuprofen hoặc diclofenac ngắn ngày",
+            "Phenylbutazon",
+            "Nimesulid kéo dài"
+          ],
+          "answer": 1,
+          "explain": "Ibuprofen hoặc diclofenac dùng ngắn ngày phù hợp cho chấn thương cơ cấp có viêm rõ ở người trẻ khoẻ mạnh không có chống chỉ định, nhờ tác dụng chống viêm và giảm đau tốt, dung nạp khá."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 66 tuổi vừa đặt stent mạch vành bị xuất huyết tiêu hoá do dùng NSAID",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 66 tuổi.<br><br><b>Tiền sử:</b> Vừa đặt stent mạch vành, đang dùng kháng kết tập tiểu cầu kép (aspirin + clopidogrel).<br><br><b>Bệnh sử:</b> Nhập viện vì xuất huyết tiêu hoá do dùng thêm NSAID không kê đơn.",
+      "questions": [
+        {
+          "q": "Quyết định lâm sàng phù hợp nhất là gì?",
+          "options": [
+            "Tự ý ngừng ngay cả aspirin và clopidogrel để cầm máu",
+            "Ngừng NSAID, xử trí xuất huyết tiêu hoá, hội chẩn tim mạch trước khi quyết định về kháng kết tập tiểu cầu kép",
+            "Tiếp tục NSAID vì đã quen dùng",
+            "Tăng liều aspirin để bù trừ"
+          ],
+          "answer": 1,
+          "explain": "Cần ngừng ngay NSAID (nguyên nhân góp phần gây xuất huyết) và xử trí xuất huyết tiêu hoá tích cực, nhưng việc ngừng kháng kết tập tiểu cầu kép sau đặt stent cần hội chẩn chuyên khoa tim mạch do nguy cơ huyết khối trong stent nếu ngừng đột ngột."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 38 tuổi xuất hiện phát ban tái phát đúng vị trí sau khi dùng NSAID",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 38 tuổi.<br><br><b>Bệnh sử:</b> Sau mỗi lần dùng một loại NSAID kê đơn để giảm đau, xuất hiện mảng ban đỏ sẫm màu, đôi khi có bọng nước, luôn xuất hiện đúng cùng một vị trí trên da, tự khỏi sau khi ngừng thuốc rồi tái phát khi dùng lại thuốc đó.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phản ứng da nào phù hợp nhất, đã được FDA cập nhật cảnh báo gần đây cho các NSAID kê đơn?",
+          "options": [
+            "Mày đay cấp tính",
+            "Phát ban cố định do thuốc (fixed drug eruption)",
+            "Hội chứng Stevens‑Johnson",
+            "Viêm da tiếp xúc dị ứng"
+          ],
+          "answer": 1,
+          "explain": "Phát ban cố định do thuốc (fixed drug eruption) đặc trưng bởi tổn thương tái phát đúng vị trí cũ mỗi khi tiếp xúc lại với thuốc gây bệnh; FDA đã cập nhật cảnh báo này cho các NSAID kê đơn từ 2024, có thể tiến triển thành thể lan toả bọng nước nặng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 45 tuổi điều trị viêm khớp mạn tính bằng sulindac",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 45 tuổi.<br><br><b>Bệnh sử:</b> Được kê sulindac (dẫn xuất indol) điều trị viêm khớp mạn tính.",
+      "questions": [
+        {
+          "q": "Đặc điểm dược động học nào của sulindac cần lưu ý?",
+          "options": [
+            "Là tiền chất (prodrug), chuyển hoá gan thành dẫn chất sulfat có hoạt tính mạnh hơn",
+            "Không hấp thu qua đường tiêu hoá",
+            "Thải trừ hoàn toàn qua mật, không qua thận",
+            "Có t½ ngắn nhất trong các CVKS"
+          ],
+          "answer": 0,
+          "explain": "Sulindac là tiền chất, bản thân không có hoạt tính; được chuyển hoá ở gan thành dẫn chất sulfat có hoạt tính sinh học mạnh, ức chế cyclooxygenase mạnh hơn nhiều so với sulindac ban đầu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi đau khớp gối mạn tính có tiền sử loét dạ dày cân nhắc nhóm CVKS",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Tiền sử:</b> Loét dạ dày đã lành, không có bệnh tim mạch.<br><br><b>Bệnh sử:</b> Đau khớp gối mạn tính, cân nhắc giữa các nhóm CVKS.",
+      "questions": [
+        {
+          "q": "Trong các nhóm CVKS sau, nhóm nào có ADR tiêu hoá thấp hơn tương đối so với aspirin/indomethacin/pyrazolon kinh điển?",
+          "options": [
+            "Dẫn xuất acid propionic (ibuprofen, naproxen)",
+            "Dẫn xuất pyrazolon",
+            "Salicylat liều cao",
+            "Dẫn xuất indol kinh điển"
+          ],
+          "answer": 0,
+          "explain": "Dẫn xuất acid propionic (ibuprofen, naproxen, ketoprofen) có ít tác dụng phụ tiêu hoá hơn so với aspirin liều cao, indomethacin và pyrazolon, nên được dùng phổ biến trong viêm khớp mạn tính."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi đái tháo đường T2 kèm biến chứng thận cần giảm đau khớp gối",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi.<br><br><b>Tiền sử:</b> Đái tháo đường type 2 15 năm, đã có biến chứng thận do đái tháo đường (protein niệu, mức lọc cầu thận giảm nhẹ).<br><br><b>Bệnh sử:</b> Đau khớp gối mạn tính cần giảm đau thường xuyên.",
+      "questions": [
+        {
+          "q": "Lựa chọn thuốc giảm đau nào an toàn nhất về mặt thận cho BN này?",
+          "options": [
+            "Ibuprofen liều thấp ngắn ngày",
+            "Paracetamol",
+            "Celecoxib liều thấp",
+            "Diclofenac liều thấp"
+          ],
+          "answer": 1,
+          "explain": "Ở bệnh nhân đã có bệnh thận mạn (kể cả do đái tháo đường), nên tránh mọi CVKS (kể cả coxib) vì nguy cơ làm nặng thêm suy thận do ức chế PG bảo vệ tưới máu thận; paracetamol là lựa chọn ưu tiên."
+        }
+      ]
+    }
+  ]
+}
