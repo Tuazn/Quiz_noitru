@@ -1,0 +1,560 @@
+{
+  "name": "Thuốc Kháng Sinh (AI gen) MCQ",
+  "description": "Tập hợp 50 câu hỏi trắc nghiệm lý thuyết dược lý đơn thuần về Thuốc Kháng Sinh.",
+  "level": "Bác sĩ Nội trú",
+  "type": "mcq",
+  "category": "Cơ sở",
+  "subcategory": "Dược lý",
+  "questions": [
+    {
+      "q": "Cơ chế tác dụng chính của nhóm kháng sinh Beta-lactam là gì?",
+      "options": [
+        "Ức chế transpeptidase (PBP), ngăn tạo vách tế bào vi khuẩn",
+        "Ức chế tổng hợp protein ở tiểu đơn vị 30S",
+        "Ức chế DNA gyrase",
+        "Ức chế tổng hợp acid folic"
+      ],
+      "answer": 0,
+      "explain": "Beta-lactam gắn cạnh tranh vào PBP (transpeptidase), ức chế bước nối chéo cuối cùng của tổng hợp peptidoglycan."
+    },
+    {
+      "q": "Kháng sinh nào sau đây KHÔNG thuộc nhóm Beta-lactam?",
+      "options": [
+        "Imipenem",
+        "Aztreonam",
+        "Vancomycin",
+        "Cefepim"
+      ],
+      "answer": 2,
+      "explain": "Vancomycin là glycopeptid, không có vòng beta-lactam; cơ chế khác (ức chế transglycosylase)."
+    },
+    {
+      "q": "Cephalosporin thế hệ nào là beta-lactam duy nhất có hoạt tính chống MRSA?",
+      "options": [
+        "Thế hệ 1",
+        "Thế hệ 3",
+        "Thế hệ 4",
+        "Thế hệ cao cấp (Ceftarolin)"
+      ],
+      "answer": 3,
+      "explain": "Ceftarolin — cephalosporin \"thế hệ 5\"/thế hệ cao cấp — là beta-lactam duy nhất có hoạt tính trên MRSA."
+    },
+    {
+      "q": "Cephalosporin thế hệ 3 nào có hoạt tính tốt trên Pseudomonas aeruginosa?",
+      "options": [
+        "Cefotaxim",
+        "Ceftriaxon",
+        "Ceftazidim",
+        "Cefdinir"
+      ],
+      "answer": 2,
+      "explain": "Ceftazidim là cephalosporin thế hệ 3 duy nhất trong nhóm có hoạt tính đáng kể trên Pseudomonas."
+    },
+    {
+      "q": "Chất nào sau đây KHÔNG phải là chất ức chế beta-lactamase?",
+      "options": [
+        "Acid clavulanic",
+        "Sulbactam",
+        "Tazobactam",
+        "Cilastatin"
+      ],
+      "answer": 3,
+      "explain": "Cilastatin ức chế enzym dehydropeptidase-I ở thận (bảo vệ Imipenem khỏi bị thuỷ phân), không phải chất ức chế beta-lactamase."
+    },
+    {
+      "q": "Imipenem cần được phối hợp với chất nào để tránh bị phân huỷ ở thận và kéo dài hoạt tính?",
+      "options": [
+        "Acid clavulanic",
+        "Cilastatin",
+        "Sulbactam",
+        "Tazobactam"
+      ],
+      "answer": 1,
+      "explain": "Cilastatin ức chế dehydropeptidase-I ở ống thận, bảo vệ Imipenem khỏi bị bất hoạt."
+    },
+    {
+      "q": "Kháng sinh nào có phổ hẹp nhất trong nhóm sau, chỉ tác dụng trên vi khuẩn Gram âm hiếu khí và ít gây dị ứng chéo với Penicilin?",
+      "options": [
+        "Aztreonam",
+        "Meropenem",
+        "Ceftriaxon",
+        "Piperacilin"
+      ],
+      "answer": 0,
+      "explain": "Aztreonam (monobactam) chỉ tác dụng Gram âm hiếu khí, ít dị ứng chéo — lựa chọn an toàn cho bệnh nhân dị ứng beta-lactam khác."
+    },
+    {
+      "q": "Cơ chế đề kháng phổ biến nhất đối với kháng sinh Beta-lactam là gì?",
+      "options": [
+        "Sản xuất enzym beta-lactamase",
+        "Giảm tính thấm màng ngoài",
+        "Bơm đẩy thuốc ra ngoài",
+        "Thay đổi ribosom đích"
+      ],
+      "answer": 0,
+      "explain": "Sản xuất beta-lactamase (thuỷ phân vòng beta-lactam) là cơ chế đề kháng phổ biến nhất."
+    },
+    {
+      "q": "Protein PBP2a biến đổi là cơ chế đề kháng đặc trưng của vi khuẩn nào?",
+      "options": [
+        "E. coli sinh ESBL",
+        "Tụ cầu vàng kháng Methicilin (MRSA)",
+        "Pseudomonas đa kháng",
+        "Enterococcus kháng Vancomycin"
+      ],
+      "answer": 1,
+      "explain": "MRSA đề kháng Methicilin qua biến đổi PBP2a — giảm ái lực gắn với hầu hết beta-lactam."
+    },
+    {
+      "q": "Kháng sinh nào ức chế enzym transglycosylase (khác với transpeptidase của Beta-lactam) để ngăn tạo vách tế bào?",
+      "options": [
+        "Vancomycin",
+        "Ceftriaxon",
+        "Aztreonam",
+        "Piperacilin"
+      ],
+      "answer": 0,
+      "explain": "Vancomycin gắn vào tiền chất peptidoglycan (D-Ala-D-Ala), ức chế transglycosylase — cơ chế khác beta-lactam dù cùng đích cuối là vách tế bào."
+    },
+    {
+      "q": "Nồng độ đáy Vancomycin mục tiêu thường được khuyến cáo trong điều trị nhiễm khuẩn nặng là bao nhiêu?",
+      "options": [
+        "2–5 mcg/mL",
+        "10–20 mcg/mL",
+        "30–50 mcg/mL",
+        "60–80 mcg/mL"
+      ],
+      "answer": 1,
+      "explain": "Nồng độ đáy 10–20 mcg/mL (hoặc AUC24/MIC > 400) được xem là mục tiêu tối ưu cân bằng hiệu quả và an toàn."
+    },
+    {
+      "q": "Cơ chế tác dụng chính của nhóm Aminoglycosid là gì?",
+      "options": [
+        "Gắn tiểu đơn vị 30S gây đọc sai mã mRNA",
+        "Gắn tiểu đơn vị 50S ngăn chuyển vị ribosom",
+        "Ức chế DNA gyrase",
+        "Ức chế dihydrofolat reductase"
+      ],
+      "answer": 0,
+      "explain": "Aminoglycosid gắn không thuận nghịch vào 30S, gây đọc sai mã (misreading) mRNA, dẫn đến tổng hợp protein lỗi và chết tế bào."
+    },
+    {
+      "q": "Aminoglycosid là kháng sinh diệt khuẩn có hiệu quả phụ thuộc chủ yếu vào yếu tố nào?",
+      "options": [
+        "Thời gian nồng độ trên MIC (T > MIC)",
+        "Nồng độ đỉnh so với MIC (Cmax/MIC)",
+        "Nồng độ đáy",
+        "Thời gian bán thải"
+      ],
+      "answer": 1,
+      "explain": "Aminoglycosid là kháng sinh diệt khuẩn phụ thuộc nồng độ, có hiệu ứng hậu kháng sinh dài — cho phép dùng liều cao 1 lần/ngày."
+    },
+    {
+      "q": "Thuốc nào sau đây thuộc nhóm Aminoglycosid?",
+      "options": [
+        "Doxycyclin",
+        "Amikacin",
+        "Erythromycin",
+        "Clindamycin"
+      ],
+      "answer": 1,
+      "explain": "Amikacin là aminoglycosid có phổ kháng khuẩn rộng nhất trong nhóm."
+    },
+    {
+      "q": "Tác dụng không mong muốn nào sau đây KHÔNG thuộc nhóm Aminoglycosid?",
+      "options": [
+        "Độc thận",
+        "Độc tai (dây VIII)",
+        "Ức chế dẫn truyền thần kinh cơ",
+        "Viêm gân, đứt gân Achilles"
+      ],
+      "answer": 3,
+      "explain": "Viêm gân/đứt gân là ADR đặc trưng của Fluoroquinolon, không phải Aminoglycosid."
+    },
+    {
+      "q": "Cơ chế tác dụng chính của nhóm Tetracyclin là gì?",
+      "options": [
+        "Ngăn aminoacyl-tRNA gắn vào vị trí A trên tiểu đơn vị 30S",
+        "Ức chế peptidyl transferase ở 50S",
+        "Ức chế transpeptidase",
+        "Ức chế RNA polymerase"
+      ],
+      "answer": 0,
+      "explain": "Tetracyclin gắn thuận nghịch vào 30S, cản trở aminoacyl-tRNA gắn vào vị trí A của ribosom."
+    },
+    {
+      "q": "Tetracyclin tạo phức chelat làm giảm hấp thu khi dùng cùng các ion nào?",
+      "options": [
+        "Na⁺, K⁺",
+        "Ca²⁺, Mg²⁺, Fe²⁺, Al³⁺",
+        "Cl⁻, HCO₃⁻",
+        "Cu²⁺, Zn²⁺ đơn thuần"
+      ],
+      "answer": 1,
+      "explain": "Các cation hoá trị 2–3 trong sữa, antacid, chế phẩm bổ sung sắt tạo phức chelat với Tetracyclin, làm giảm hấp thu đáng kể qua đường uống."
+    },
+    {
+      "q": "Kháng sinh nào chống chỉ định ở trẻ em dưới 8 tuổi do ảnh hưởng răng và xương đang phát triển?",
+      "options": [
+        "Amoxicilin",
+        "Tetracyclin",
+        "Azithromycin",
+        "Cefuroxim"
+      ],
+      "answer": 1,
+      "explain": "Tetracyclin lắng đọng vào răng/xương đang vôi hoá, gây vàng răng vĩnh viễn và ảnh hưởng phát triển xương ở trẻ nhỏ."
+    },
+    {
+      "q": "Cơ chế tác dụng của Cloramphenicol là gì?",
+      "options": [
+        "Ức chế enzym peptidyl transferase ở tiểu đơn vị 50S",
+        "Gắn 30S gây đọc sai mã",
+        "Ức chế DNA gyrase",
+        "Ức chế dihydropteroat synthetase"
+      ],
+      "answer": 0,
+      "explain": "Cloramphenicol ức chế peptidyl transferase, ngăn hình thành liên kết peptid mới trong chuỗi polypeptid."
+    },
+    {
+      "q": "Tác dụng không mong muốn nguy hiểm nhất, KHÔNG phụ thuộc liều của Cloramphenicol là gì?",
+      "options": [
+        "Suy tuỷ phụ thuộc liều",
+        "Thiếu máu bất sản (aplastic anemia)",
+        "Buồn nôn, tiêu chảy",
+        "Phát ban dị ứng nhẹ"
+      ],
+      "answer": 1,
+      "explain": "Thiếu máu bất sản là phản ứng đặc ứng (idiosyncratic), hiếm gặp nhưng tỷ lệ tử vong rất cao (50–80%), không phụ thuộc liều dùng."
+    },
+    {
+      "q": "Cơ chế tác dụng chính của nhóm Macrolid là gì?",
+      "options": [
+        "Ngăn cản chuyển vị (translocation) của ribosom trên tiểu đơn vị 50S",
+        "Gắn tiểu đơn vị 30S gây đọc sai mã",
+        "Ức chế transpeptidase",
+        "Ức chế DNA gyrase"
+      ],
+      "answer": 0,
+      "explain": "Macrolid gắn 50S, cản trở quá trình chuyển vị ribosom dọc theo mRNA, ức chế kéo dài chuỗi peptid."
+    },
+    {
+      "q": "Macrolid nào có thời gian bán thải dài nhất, cho phép dùng phác đồ ngắn ngày, liều 1 lần/ngày?",
+      "options": [
+        "Erythromycin",
+        "Clarithromycin",
+        "Azithromycin",
+        "Spiramycin"
+      ],
+      "answer": 2,
+      "explain": "Azithromycin có thời gian bán thải khoảng 3 ngày do thấm mạnh vào mô và giải phóng chậm."
+    },
+    {
+      "q": "Macrolid nào ức chế mạnh CYP3A4, gây nhiều tương tác thuốc quan trọng nhất?",
+      "options": [
+        "Azithromycin",
+        "Erythromycin/Clarithromycin",
+        "Spiramycin",
+        "Không có Macrolid nào ức chế CYP450"
+      ],
+      "answer": 1,
+      "explain": "Erythromycin và Clarithromycin ức chế mạnh CYP3A4, làm tăng nồng độ nhiều thuốc phối hợp (statin, warfarin, theophyllin, cyclosporin)."
+    },
+    {
+      "q": "Clindamycin thuộc nhóm kháng sinh nào?",
+      "options": [
+        "Macrolid",
+        "Lincosamid",
+        "Aminoglycosid",
+        "Tetracyclin"
+      ],
+      "answer": 1,
+      "explain": "Clindamycin là đại diện của nhóm Lincosamid, cơ chế tương tự Macrolid nhưng cấu trúc khác."
+    },
+    {
+      "q": "Tác dụng không mong muốn đặc trưng nhất của Clindamycin là gì?",
+      "options": [
+        "Độc thận",
+        "Viêm đại tràng giả mạc do Clostridioides difficile",
+        "Kéo dài khoảng QT",
+        "Vàng răng"
+      ],
+      "answer": 1,
+      "explain": "Clindamycin có nguy cơ gây viêm đại tràng giả mạc cao hơn nhiều so với các nhóm kháng sinh khác."
+    },
+    {
+      "q": "Cơ chế tác dụng đặc biệt của Linezolid, khác với các thuốc ức chế 50S khác, là gì?",
+      "options": [
+        "Ngăn hình thành phức hợp khởi đầu (initiation complex) 70S bằng cách gắn 23S rRNA",
+        "Ngăn cản chuyển vị ribosom",
+        "Ức chế peptidyl transferase",
+        "Gắn 30S"
+      ],
+      "answer": 0,
+      "explain": "Linezolid tác động ở bước khởi đầu dịch mã (gắn 23S rRNA của 50S), khác với các thuốc chỉ ức chế bước kéo dài chuỗi peptid."
+    },
+    {
+      "q": "Phối hợp Linezolid với nhóm thuốc nào có nguy cơ gây hội chứng serotonin?",
+      "options": [
+        "Thuốc chẹn beta",
+        "SSRIs (thuốc chống trầm cảm)",
+        "Statin",
+        "Thuốc lợi tiểu quai"
+      ],
+      "answer": 1,
+      "explain": "Linezolid ức chế nhẹ MAO; phối hợp với SSRIs làm tăng nguy cơ hội chứng serotonin."
+    },
+    {
+      "q": "Quinolon ức chế chủ yếu enzym nào ở vi khuẩn Gram âm?",
+      "options": [
+        "DNA gyrase (Topoisomerase II)",
+        "Topoisomerase IV",
+        "RNA polymerase",
+        "Dihydrofolat reductase"
+      ],
+      "answer": 0,
+      "explain": "Ở Gram âm, đích tác động chính của Quinolon là DNA gyrase."
+    },
+    {
+      "q": "Quinolon ức chế chủ yếu enzym nào ở vi khuẩn Gram dương?",
+      "options": [
+        "DNA gyrase",
+        "Topoisomerase IV",
+        "RNA polymerase",
+        "Peptidyl transferase"
+      ],
+      "answer": 1,
+      "explain": "Ở Gram dương, đích tác động chính chuyển sang Topoisomerase IV."
+    },
+    {
+      "q": "Fluoroquinolon thế hệ nào thường được gọi là \"quinolon đường hô hấp\" do tăng hoạt tính trên phế cầu?",
+      "options": [
+        "Thế hệ 1",
+        "Thế hệ 2",
+        "Thế hệ 3–4 (Levofloxacin, Moxifloxacin)",
+        "Không có thế hệ nào được gọi như vậy"
+      ],
+      "answer": 2,
+      "explain": "Levofloxacin (thế hệ 3) và Moxifloxacin (thế hệ 4) có hoạt tính mạnh trên S. pneumoniae, được gọi là \"quinolon đường hô hấp\"."
+    },
+    {
+      "q": "Fluoroquinolon nào KHÔNG nên dùng điều trị nhiễm khuẩn tiết niệu vì thải trừ chủ yếu qua mật/gan?",
+      "options": [
+        "Ciprofloxacin",
+        "Levofloxacin",
+        "Moxifloxacin",
+        "Norfloxacin"
+      ],
+      "answer": 2,
+      "explain": "Moxifloxacin thải trừ chủ yếu qua gan/mật, không đạt nồng độ đủ trong nước tiểu để điều trị nhiễm khuẩn tiết niệu."
+    },
+    {
+      "q": "Tác dụng không mong muốn đặc trưng của Fluoroquinolon liên quan hệ cơ-xương-khớp là gì?",
+      "options": [
+        "Viêm khớp dạng thấp",
+        "Viêm gân, đứt gân (đặc biệt gân Achilles)",
+        "Loãng xương",
+        "Gout cấp"
+      ],
+      "answer": 1,
+      "explain": "Đây là Black Box Warning kinh điển của FDA từ 2008, nguy cơ tăng ở người cao tuổi, dùng corticoid, ghép tạng."
+    },
+    {
+      "q": "Cảnh báo bổ sung của FDA năm 2018 về Fluoroquinolon liên quan đến biến chứng mạch máu lớn nào?",
+      "options": [
+        "Huyết khối tĩnh mạch sâu",
+        "Phình/bóc tách động mạch chủ",
+        "Nhồi máu cơ tim",
+        "Đột quỵ xuất huyết"
+      ],
+      "answer": 1,
+      "explain": "FDA đã bổ sung cảnh báo về nguy cơ phình/bóc tách động mạch chủ liên quan đến Fluoroquinolon, đặc biệt ở người cao tuổi có bệnh mạch máu."
+    },
+    {
+      "q": "Cơ chế tác dụng của Sulfonamid là gì?",
+      "options": [
+        "Ức chế cạnh tranh enzym dihydropteroat synthetase (tương tự cấu trúc PABA)",
+        "Ức chế dihydrofolat reductase",
+        "Ức chế DNA gyrase",
+        "Ức chế transpeptidase"
+      ],
+      "answer": 0,
+      "explain": "Sulfonamid có cấu trúc tương tự PABA, ức chế cạnh tranh dihydropteroat synthetase trong tổng hợp acid folic của vi khuẩn."
+    },
+    {
+      "q": "Cơ chế tác dụng của Trimethoprim là gì?",
+      "options": [
+        "Ức chế dihydrofolat reductase (DHFR) của vi khuẩn",
+        "Ức chế dihydropteroat synthetase",
+        "Ức chế transpeptidase",
+        "Ức chế tổng hợp protein ở 30S"
+      ],
+      "answer": 0,
+      "explain": "Trimethoprim ức chế DHFR của vi khuẩn mạnh hơn enzym người 50.000–100.000 lần, tạo tính chọn lọc cao."
+    },
+    {
+      "q": "Vì sao phối hợp Sulfamethoxazol-Trimethoprim (Cotrimoxazol) có tác dụng hiệp đồng chuyển từ kìm khuẩn sang diệt khuẩn?",
+      "options": [
+        "Vì ức chế hai bước liên tiếp trong con đường tổng hợp acid folic của vi khuẩn",
+        "Vì tăng hấp thu lẫn nhau",
+        "Vì cùng ức chế một enzym duy nhất với ái lực cao hơn",
+        "Vì giảm đề kháng chéo"
+      ],
+      "answer": 0,
+      "explain": "Ức chế trình tự (sequential blockade) hai enzym khác nhau trong cùng một con đường chuyển hoá tạo hiệp đồng mạnh gấp 20–100 lần so với dùng đơn độc."
+    },
+    {
+      "q": "Chất nào được dùng để \"giải cứu\" tuỷ xương trong ngộ độc/quá liều Trimethoprim liều cao kéo dài?",
+      "options": [
+        "Vitamin B12",
+        "Leucovorin (Acid folinic)",
+        "Vitamin K",
+        "N-acetylcystein"
+      ],
+      "answer": 1,
+      "explain": "Leucovorin cung cấp dạng folat đã khử hoạt tính mà tế bào người sử dụng được nhưng vi khuẩn không sử dụng được, giúp \"giải cứu\" tế bào tuỷ xương của người bệnh."
+    },
+    {
+      "q": "Cơ chế tác dụng của Nitrofurantoin là gì?",
+      "options": [
+        "Tạo gốc tự do gây tổn thương DNA và ribosom vi khuẩn trong môi trường nước tiểu",
+        "Ức chế DNA gyrase",
+        "Ức chế tổng hợp vách tế bào",
+        "Ức chế dihydrofolat reductase"
+      ],
+      "answer": 0,
+      "explain": "Nitrofurantoin được khử bởi enzym vi khuẩn tạo gốc tự do gây tổn thương DNA/ribosom, chỉ có hiệu quả tại nồng độ đạt được trong nước tiểu."
+    },
+    {
+      "q": "Nitrofurantoin chống chỉ định khi độ thanh thải Creatinin (CrCl) dưới mức nào?",
+      "options": [
+        "30 mL/phút",
+        "60 mL/phút",
+        "90 mL/phút",
+        "Không có ngưỡng chống chỉ định theo CrCl"
+      ],
+      "answer": 1,
+      "explain": "CrCl < 60 mL/phút là ngưỡng chống chỉ định kinh điển do không đạt nồng độ hiệu quả trong nước tiểu và tăng độc tính toàn thân."
+    },
+    {
+      "q": "Methenamin cần môi trường nào để thuỷ phân thành chất diệt khuẩn (formaldehyd)?",
+      "options": [
+        "Môi trường kiềm",
+        "Môi trường acid (pH < 5,5)",
+        "Không phụ thuộc pH",
+        "Môi trường trung tính pH = 7"
+      ],
+      "answer": 1,
+      "explain": "Methenamin chỉ thuỷ phân thành formaldehyd diệt khuẩn trong môi trường acid — cần toan hoá nước tiểu để có hiệu quả."
+    },
+    {
+      "q": "Cơ chế tác dụng của Metronidazol trên vi khuẩn kỵ khí là gì?",
+      "options": [
+        "Nhóm nitro bị khử tạo sản phẩm độc phá huỷ cấu trúc DNA vi khuẩn",
+        "Ức chế tổng hợp vách tế bào",
+        "Ức chế tổng hợp protein ở 50S",
+        "Ức chế DNA gyrase"
+      ],
+      "answer": 0,
+      "explain": "Trong môi trường thiếu oxy, nhóm nitro của Metronidazol bị khử bởi protein vận chuyển electron của vi khuẩn kỵ khí, tạo sản phẩm độc gây tổn thương DNA."
+    },
+    {
+      "q": "Tác dụng không mong muốn đặc trưng khi uống rượu cùng Metronidazol là gì?",
+      "options": [
+        "Phản ứng giống Disulfiram (đỏ bừng mặt, buồn nôn, nhịp tim nhanh)",
+        "Hạ đường huyết nặng",
+        "Suy hô hấp cấp",
+        "Co giật toàn thể"
+      ],
+      "answer": 0,
+      "explain": "Metronidazol ức chế aldehyd dehydrogenase, gây tích luỹ acetaldehyd khi uống rượu, tạo phản ứng giống Disulfiram."
+    },
+    {
+      "q": "Kháng sinh nào bị bất hoạt bởi surfactant phổi, do đó KHÔNG được dùng điều trị viêm phổi?",
+      "options": [
+        "Vancomycin",
+        "Daptomycin",
+        "Linezolid",
+        "Ceftriaxon"
+      ],
+      "answer": 1,
+      "explain": "Daptomycin bị surfactant phổi bất hoạt hoàn toàn, không có hiệu quả điều trị viêm phổi dù nhạy cảm in vitro."
+    },
+    {
+      "q": "Cơ chế tác dụng của Daptomycin là gì?",
+      "options": [
+        "Khử cực nhanh màng bào tương của vi khuẩn Gram dương",
+        "Ức chế tổng hợp vách tế bào",
+        "Ức chế tổng hợp protein",
+        "Ức chế DNA gyrase"
+      ],
+      "answer": 0,
+      "explain": "Daptomycin gây khử cực màng bào tương, làm rối loạn dòng ion, ức chế tổng hợp DNA/RNA/protein nội bào → diệt khuẩn phụ thuộc nồng độ."
+    },
+    {
+      "q": "Fosfomycin ức chế enzym nào trong tổng hợp peptidoglycan?",
+      "options": [
+        "Transpeptidase (PBP)",
+        "Enolpyruvyl transferase",
+        "Transglycosylase",
+        "Dihydropteroat synthetase"
+      ],
+      "answer": 1,
+      "explain": "Fosfomycin ức chế enolpyruvyl transferase — bước đầu tiên, trước cả giai đoạn tác động của Beta-lactam, trong tổng hợp peptidoglycan."
+    },
+    {
+      "q": "Cơ chế tác dụng của Polymyxin/Colistin là gì?",
+      "options": [
+        "Gắn phospholipid màng ngoài vi khuẩn Gram âm, phá vỡ tính toàn vẹn màng",
+        "Ức chế tổng hợp protein",
+        "Ức chế tổng hợp vách tế bào",
+        "Ức chế acid nucleic"
+      ],
+      "answer": 0,
+      "explain": "Polymyxin gắn vào phospholipid màng ngoài vi khuẩn Gram âm, gây phá vỡ màng và ly giải tế bào nhanh chóng."
+    },
+    {
+      "q": "Tỷ lệ MBC/MIC gần bằng 1 cho biết kháng sinh có tính chất gì?",
+      "options": [
+        "Kìm khuẩn",
+        "Diệt khuẩn",
+        "Không có tác dụng kháng khuẩn",
+        "Chỉ có tác dụng dự phòng"
+      ],
+      "answer": 1,
+      "explain": "Khi MBC/MIC ≈ 1, nồng độ diệt khuẩn gần bằng nồng độ kìm khuẩn — kháng sinh được xếp loại diệt khuẩn."
+    },
+    {
+      "q": "Chỉ số PK/PD nào là quan trọng nhất đối với nhóm kháng sinh phụ thuộc thời gian (ví dụ Beta-lactam)?",
+      "options": [
+        "T > MIC (thời gian nồng độ trên MIC)",
+        "Cmax/MIC",
+        "AUC24/MIC",
+        "Thời gian bán thải đơn thuần"
+      ],
+      "answer": 0,
+      "explain": "Hiệu quả của Beta-lactam phụ thuộc chủ yếu vào thời gian nồng độ thuốc duy trì trên MIC, không phải nồng độ đỉnh."
+    },
+    {
+      "q": "Chỉ số PK/PD nào là quan trọng nhất đối với nhóm kháng sinh phụ thuộc nồng độ (ví dụ Aminoglycosid, Fluoroquinolon)?",
+      "options": [
+        "T > MIC",
+        "Cmax/MIC và AUC24/MIC",
+        "Thời gian bán thải",
+        "Tỷ lệ gắn protein huyết tương"
+      ],
+      "answer": 1,
+      "explain": "Với kháng sinh phụ thuộc nồng độ, đạt Cmax/MIC hoặc AUC24/MIC càng cao thì hiệu quả diệt khuẩn càng mạnh — chiến lược liều cao 1 lần/ngày tối ưu hoá chỉ số này."
+    },
+    {
+      "q": "Cơ chế đề kháng kháng sinh nào liên quan đến việc vi khuẩn chủ động \"bơm\" thuốc ra khỏi tế bào?",
+      "options": [
+        "Bất hoạt do enzym",
+        "Thay đổi đích tác động",
+        "Bơm đẩy (efflux pump) — thuộc nhóm giảm tích luỹ thuốc",
+        "Tạo màng sinh học (biofilm) đơn thuần"
+      ],
+      "answer": 2,
+      "explain": "Efflux pump là một trong hai cơ chế chính gây giảm tích luỹ kháng sinh trong tế bào vi khuẩn (cùng với giảm tính thấm), thường gặp với Fluoroquinolon, Macrolid, Tetracyclin."
+    }
+  ]
+}
