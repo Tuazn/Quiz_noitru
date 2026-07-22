@@ -1,0 +1,776 @@
+{
+  "name": "Thuốc Glucocorticoid (AI gen)",
+  "description": "Bộ câu hỏi trắc nghiệm lâm sàng Thuốc Glucocorticoid bao gồm 37 case lâm sàng và 50 câu MCQ đơn thuần dành cho Bác sĩ Nội trú và sinh viên Y6.",
+  "level": "Bác sĩ Nội trú — Y6",
+  "type": "cases",
+  "category": "Cơ sở",
+  "subcategory": "Dược lý",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 45 tuổi tiền sử lupus tự ý ngừng prednisolon đột ngột",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 45 tuổi.<br><br><b>Tiền sử:</b> Lupus ban đỏ hệ thống, đang điều trị duy trì với prednisolon 40 mg/ngày trong 6 tuần nay.<br><br><b>Bệnh sử:</b> Bệnh nhân tự ý ngừng thuốc đột ngột cách đây 2 ngày. Hiện nhập viện vì mệt lả, buồn nôn, nôn nhiều, huyết áp 80/50 mmHg không cải thiện sau bù dịch và không đáp ứng thuốc vận mạch.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nào phù hợp nhất với tình trạng của bệnh nhân?",
+          "options": [
+            "Hội chứng cai glucocorticoid (GWS)",
+            "Suy thượng thận cấp (Adrenal crisis)",
+            "Sốc nhiễm khuẩn do bùng phát lupus",
+            "Cơn bão giáp (Thyroid storm)"
+          ],
+          "answer": 1,
+          "explain": "Ngừng GC liều cao đột ngột sau đợt dùng kéo dài (>2–4 tuần) gây suy thượng thận cấp: tụt huyết áp KHÔNG đáp ứng bù dịch/vận mạch — đây là dấu hiệu đặc trưng phân biệt với GWS (không có trụy tuần hoàn)."
+        },
+        {
+          "q": "Xét nghiệm ion đồ của bệnh nhân nhiều khả năng sẽ cho kết quả nào sau đây?",
+          "options": [
+            "Tăng natri máu, hạ kali máu",
+            "Hạ natri máu, tăng kali máu",
+            "Hạ natri máu, hạ kali máu",
+            "Tăng natri máu, tăng kali máu"
+          ],
+          "answer": 1,
+          "explain": "Suy thượng thận cấp gây thiếu hụt cả glucocorticoid lẫn mineralocorticoid nội sinh → mất khả năng giữ Na+/thải K+ tại ống thận → hạ natri máu, TĂNG kali máu (ngược với tác dụng phụ thường gặp khi ĐANG dùng GC là hạ kali máu)."
+        },
+        {
+          "q": "Xử trí cấp cứu đầu tay phù hợp nhất là gì?",
+          "options": [
+            "Chờ kết quả cortisol và ACTH máu rồi mới quyết định điều trị",
+            "Hydrocortison tiêm tĩnh mạch ngay 100 mg, sau đó truyền/tiêm nhắc lại + bù dịch NaCl 0,9%",
+            "Dexamethason tiêm tĩnh mạch liều thấp vì không ảnh hưởng xét nghiệm cortisol",
+            "Fludrocortison đường uống ngay lập tức"
+          ],
+          "answer": 1,
+          "explain": "Đây là cấp cứu nội khoa: lấy máu xét nghiệm cortisol/ACTH nhưng KHÔNG chờ kết quả — hydrocortison IV 100 mg ngay + bù dịch tích cực là xử trí đầu tay. Hydrocortison được ưu tiên vì có cả tác dụng mineralocorticoid."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi đái tháo đường T2 đợt cấp COPD dùng prednisolon",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Tiền sử:</b> Đái tháo đường type 2.<br><br><b>Bệnh sử:</b> Nhập viện vì đợt cấp COPD mức độ nặng. Được chỉ định prednisolon 40 mg/ngày đường uống trong 5 ngày.",
+      "questions": [
+        {
+          "q": "Sau khi kết thúc đợt điều trị 5 ngày, cách xử trí liều thuốc phù hợp nhất là gì?",
+          "options": [
+            "Giảm liều dần trong 2 tuần theo phác đồ giảm liều nhanh",
+            "Ngừng thuốc đột ngột, không cần giảm liều",
+            "Chuyển sang liều duy trì hydrocortison 20 mg/ngày kéo dài",
+            "Làm nghiệm pháp kích thích ACTH trước khi ngừng thuốc"
+          ],
+          "answer": 1,
+          "explain": "Theo hướng dẫn ESE/Endocrine Society 2024, nếu thời gian dùng GC < 3–4 tuần (bất kể liều), có thể ngừng thuốc đột ngột mà không cần giảm liều do nguy cơ ức chế trục HPA thấp."
+        },
+        {
+          "q": "Trong thời gian dùng prednisolon, xử trí nào sau đây là phù hợp nhất đối với thuốc điều trị đái tháo đường của bệnh nhân?",
+          "options": [
+            "Giảm liều insulin/thuốc hạ đường huyết vì GC làm hạ đường huyết",
+            "Không cần điều chỉnh vì GC không ảnh hưởng đường huyết",
+            "Tăng liều insulin/thuốc hạ đường huyết và theo dõi đường huyết sát vì GC làm tăng đường huyết",
+            "Ngừng hẳn thuốc đái tháo đường trong thời gian dùng GC"
+          ],
+          "answer": 2,
+          "explain": "GC thúc đẩy tân tạo đường ở gan và giảm sử dụng glucose ở ngoại vi → tăng đường huyết, đối kháng tác dụng insulin → cần tăng liều thuốc hạ đường huyết và theo dõi sát."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 30 tuổi bị sốc phản vệ sau tiêm kháng sinh",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 30 tuổi.<br><br><b>Bệnh sử:</b> Sốc phản vệ sau tiêm kháng sinh, biểu hiện khó thở, tụt huyết áp, nổi mề đay toàn thân.",
+      "questions": [
+        {
+          "q": "Thuốc nào cần được sử dụng ĐẦU TIÊN, ưu tiên trước cả glucocorticoid?",
+          "options": [
+            "Methylprednisolon tiêm tĩnh mạch",
+            "Adrenalin tiêm bắp",
+            "Diphenhydramin tiêm tĩnh mạch",
+            "Salbutamol khí dung"
+          ],
+          "answer": 1,
+          "explain": "Adrenalin tiêm bắp luôn là thuốc đầu tay trong sốc phản vệ. GC có cơ chế tác dụng chậm (qua gen, cần hàng giờ) nên không có vai trò cắt cơn cấp."
+        },
+        {
+          "q": "Vai trò chính của glucocorticoid được bổ sung sau đó trong sốc phản vệ là gì?",
+          "options": [
+            "Cắt cơn co thắt phế quản cấp tính ngay lập tức",
+            "Hồi phục huyết áp nhanh trong vài phút",
+            "Phòng ngừa phản ứng dị ứng pha muộn (biphasic reaction)",
+            "Đối kháng trực tiếp với histamin tại thụ thể H1"
+          ],
+          "answer": 2,
+          "explain": "Do khởi phát tác dụng chậm (cơ chế qua gen, cần nhiều giờ để tổng hợp protein), GC không có vai trò trong xử trí cấp mà chỉ giúp phòng ngừa pha phản ứng muộn có thể xảy ra sau 4–12 giờ."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ 28 tuổi dọa sinh non tuần thứ 30",
+      "body": "<b>Hành chính:</b> Thai phụ, 28 tuổi, thai 30 tuần.<br><br><b>Bệnh sử:</b> Nhập viện vì dọa sinh non, có chỉ định dùng corticoid để thúc đẩy trưởng thành phổi thai nhi.",
+      "questions": [
+        {
+          "q": "Thuốc nào sau đây được lựa chọn phù hợp nhất cho mục đích này?",
+          "options": [
+            "Prednisolon",
+            "Hydrocortison",
+            "Betamethason",
+            "Cortison acetat"
+          ],
+          "answer": 2,
+          "explain": "Betamethason (và dexamethason) không bị bất hoạt bởi enzym 11β-HSD2 ở nhau thai nên qua nhau thai tốt, đến được thai nhi để thúc đẩy trưởng thành phổi. Prednisolon/hydrocortison bị chuyển hóa phần lớn tại nhau thai nên ít qua thai — phù hợp hơn khi cần điều trị bệnh nền của MẸ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi viêm khớp dạng thấp dùng prednisolon 8 tháng xuất hiện béo bụng mặt tròn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Tiền sử:</b> Viêm khớp dạng thấp, đã dùng prednisolon 10 mg/ngày liên tục trong 8 tháng.<br><br><b>Khám lâm sàng:</b> Mặt tròn, béo bụng, da mỏng dễ bầm tím, huyết áp 150/95 mmHg.",
+      "questions": [
+        {
+          "q": "Hình ảnh lâm sàng trên là biểu hiện của tình trạng nào?",
+          "options": [
+            "Suy thượng thận nguyên phát",
+            "Hội chứng Cushing do thuốc",
+            "Cường aldosteron nguyên phát",
+            "Hội chứng cai glucocorticoid"
+          ],
+          "answer": 1,
+          "explain": "Kiểu hình Cushing do thuốc: mặt tròn (mặt trăng), béo trung tâm, da mỏng dễ bầm — hậu quả của tác dụng chuyển hóa protid/lipid khi dùng GC liều trên sinh lý kéo dài."
+        },
+        {
+          "q": "Cơ chế nào giải thích tình trạng da mỏng, dễ bầm tím ở bệnh nhân này?",
+          "options": [
+            "Tăng tổng hợp collagen ở mô liên kết dưới da",
+            "Tăng dị hóa protein, ức chế nguyên bào sợi",
+            "Giữ muối nước quá mức tại mô dưới da",
+            "Ức chế miễn dịch tại chỗ gây teo da"
+          ],
+          "answer": 1,
+          "explain": "GC làm tăng dị hóa protid (giảm nhập acid amin vào tế bào) và ức chế tăng sinh nguyên bào sợi → mô liên kết kém bền vững, da mỏng, dễ rạn da và bầm tím, chậm liền vết thương."
+        },
+        {
+          "q": "Bệnh nhân này cần được tầm soát và dự phòng biến chứng nào sau đây, xét về thời gian và liều GC đã dùng?",
+          "options": [
+            "Đục thủy tinh thể cấp tính",
+            "Loãng xương — bổ sung calci, vitamin D, cân nhắc bisphosphonat",
+            "Suy giáp do thuốc",
+            "Xơ gan do thuốc"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân dự kiến dùng GC ≥ 3 tháng với liều ≥ 5 mg/ngày (PE) cần được dự phòng loãng xương bằng calci, vitamin D và xem xét bisphosphonat theo phân tầng nguy cơ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 50 tuổi dùng prednisolon kéo dài chuẩn bị mổ cắt túi mật",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 50 tuổi.<br><br><b>Tiền sử:</b> Đang dùng prednisolon 15 mg/ngày kéo dài để điều trị lupus.<br><br><b>Bệnh sử:</b> Chuẩn bị phẫu thuật cắt túi mật theo chương trình.",
+      "questions": [
+        {
+          "q": "Xử trí liều glucocorticoid quanh phẫu thuật ở bệnh nhân này nên như thế nào?",
+          "options": [
+            "Ngừng thuốc hoàn toàn trước phẫu thuật để tránh nhiễm trùng vết mổ",
+            "Giữ nguyên liều duy trì, không cần điều chỉnh",
+            "Tăng liều GC (gấp 2-3 lần liều duy trì hoặc chuyển hydrocortison liều cao đường tĩnh mạch) trong những ngày phẫu thuật",
+            "Chuyển ngay sang liều sinh lý thấp trước mổ 1 tuần"
+          ],
+          "answer": 2,
+          "explain": "Đây là nguyên tắc \"liều stress\" (stress dosing): bệnh nhân dùng GC mạn tính khi phẫu thuật/nhiễm trùng nặng cần tăng liều 2–3 lần liều duy trì hoặc chuyển hydrocortison tiêm tĩnh mạch liều cao để đáp ứng nhu cầu cortisol tăng do stress, phòng ngừa suy thượng thận cấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi tiêm corticoid ngoài màng cứng xuất hiện yếu chân và giảm thị lực",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi.<br><br><b>Bệnh sử:</b> Đau thần kinh tọa mạn tính, được chỉ định tiêm corticoid vào khoang ngoài màng cứng cột sống để giảm đau. Sau tiêm vài giờ, bệnh nhân đột ngột yếu hai chân và giảm thị lực.",
+      "questions": [
+        {
+          "q": "Nhận định nào sau đây là chính xác nhất về tình huống này?",
+          "options": [
+            "Đây là biến chứng thường gặp và đã được FDA phê duyệt chấp nhận nguy cơ này",
+            "Đường dùng ngoài màng cứng KHÔNG được FDA phê duyệt cho corticoid; đây là biến chứng thần kinh hiếm nhưng đã được cảnh báo",
+            "Biến chứng này chỉ xảy ra khi dùng quá liều corticoid",
+            "Biến chứng này không liên quan đến corticoid mà do kỹ thuật tiêm"
+          ],
+          "answer": 1,
+          "explain": "FDA đã yêu cầu bổ sung cảnh báo trên nhãn thuốc: tiêm corticoid vào khoang ngoài màng cứng có thể gây các biến cố thần kinh hiếm gặp nhưng nghiêm trọng (mất thị lực, đột quỵ, liệt, tử vong). Đường dùng này KHÔNG được FDA phê duyệt chính thức."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi nhiễm HIV dùng ritonavir và budesonide xịt mũi xuất hiện Cushing",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi.<br><br><b>Tiền sử:</b> Nhiễm HIV đang điều trị ARV có ritonavir.<br><br><b>Bệnh sử:</b> Được kê thêm budesonide dạng xịt mũi để điều trị viêm mũi dị ứng. Sau vài tuần, bệnh nhân xuất hiện kiểu hình Cushing dù chỉ dùng corticoid tại chỗ liều thấp.",
+      "questions": [
+        {
+          "q": "Cơ chế nào giải thích hợp lý nhất cho tình trạng trên?",
+          "options": [
+            "Ritonavir cảm ứng CYP3A4 làm tăng chuyển hóa corticoid",
+            "Ritonavir ức chế CYP3A4 làm giảm chuyển hóa/thanh thải corticoid, gây tích lũy dù dùng liều thấp tại chỗ",
+            "Ritonavir làm tăng hấp thu corticoid qua niêm mạc mũi",
+            "Ritonavir gây suy gan làm giảm tổng hợp CBG"
+          ],
+          "answer": 1,
+          "explain": "Ritonavir là chất ức chế CYP3A4 mạnh, làm giảm chuyển hóa/thanh thải glucocorticoid (kể cả dạng tại chỗ như budesonide, fluticasone) → tích lũy toàn thân → có thể gây hội chứng Cushing do thuốc dù chỉ dùng liều thấp tại chỗ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 38 tuổi xơ gan mất bù cần dùng corticoid đợt cấp COPD",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 38 tuổi.<br><br><b>Tiền sử:</b> Xơ gan mất bù (Child-Pugh C).<br><br><b>Bệnh sử:</b> Cần điều trị đợt cấp bệnh phổi tắc nghẽn mạn tính bằng corticoid đường toàn thân.",
+      "questions": [
+        {
+          "q": "Lựa chọn nào sau đây phù hợp hơn về mặt dược động học ở bệnh nhân này?",
+          "options": [
+            "Prednison, vì đây là tiền chất dễ hấp thu",
+            "Cortison acetat, vì tác dụng ngắn",
+            "Prednisolon, vì không cần qua chuyển hóa gan để hoạt hóa",
+            "Không có sự khác biệt giữa các glucocorticoid ở bệnh nhân xơ gan"
+          ],
+          "answer": 2,
+          "explain": "Prednison và cortison là tiền chất, cần enzym 11β-HSD1 tại gan chuyển thành dạng có hoạt tính (prednisolon, hydrocortison/cortisol). Ở bệnh nhân suy gan nặng, nên dùng trực tiếp dạng đã hoạt tính (prednisolon) để đảm bảo hiệu quả điều trị."
+        },
+        {
+          "q": "Do tình trạng xơ gan giảm albumin máu, nguy cơ nào cần lưu ý khi dùng glucocorticoid ở bệnh nhân này?",
+          "options": [
+            "Giảm hiệu quả điều trị do tăng gắn kết protein huyết tương",
+            "Tăng nguy cơ độc tính do tăng tỷ lệ glucocorticoid tự do trong máu",
+            "Không ảnh hưởng vì glucocorticoid không gắn protein huyết tương",
+            "Giảm hấp thu thuốc qua đường tiêu hóa"
+          ],
+          "answer": 1,
+          "explain": "Cortisol gắn chủ yếu với CBG (transcortin, 90%) và albumin. Giảm albumin/CBG trong xơ gan làm tăng tỷ lệ GC tự do có hoạt tính sinh học → tăng nguy cơ độc tính dù liều dùng không đổi."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 8 tuổi bôi kem betamethason toàn thân kéo dài",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 8 tuổi.<br><br><b>Bệnh sử:</b> Viêm da cơ địa nặng toàn thân, được mẹ tự ý bôi kem chứa betamethason dipropionat 0,05% trên diện rộng toàn thân kéo dài 3 tháng.",
+      "questions": [
+        {
+          "q": "Nguy cơ nào sau đây cần đặc biệt lưu ý ở bệnh nhi này?",
+          "options": [
+            "Không có nguy cơ vì corticoid bôi tại chỗ không hấp thu toàn thân",
+            "Hấp thu toàn thân qua da gây tai biến toàn thân (ức chế trục HPA, chậm lớn)",
+            "Chỉ gây tác dụng phụ tại chỗ, không ảnh hưởng toàn thân",
+            "Nguy cơ này chỉ xảy ra ở người lớn, không xảy ra ở trẻ em"
+          ],
+          "answer": 1,
+          "explain": "Bôi corticoid trên diện rộng, kéo dài, đặc biệt ở trẻ em (diện tích da/trọng lượng cơ thể lớn hơn người lớn) có thể gây hấp thu đáng kể qua da, dẫn đến tai biến toàn thân bao gồm ức chế trục HPA và chậm tăng trưởng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 42 tuổi đánh giá trục HPA trước khi ngừng prednisolon",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 42 tuổi.<br><br><b>Bệnh sử:</b> Đã ngừng prednisolon sau 6 tháng điều trị lupus, hiện đang ở liều 5 mg/ngày trong 3 tuần qua. Bác sĩ muốn đánh giá khả năng phục hồi trục HPA trước khi ngừng hẳn thuốc.",
+      "questions": [
+        {
+          "q": "Trước khi làm xét nghiệm cortisol máu buổi sáng, cần lưu ý điều gì?",
+          "options": [
+            "Không cần ngừng thuốc trước xét nghiệm",
+            "Ngừng prednisolon khoảng 48–72 giờ trước khi lấy máu để tránh nhiễu kết quả",
+            "Tăng liều prednisolon gấp đôi trước xét nghiệm",
+            "Chỉ cần nhịn ăn 8 giờ trước xét nghiệm"
+          ],
+          "answer": 1,
+          "explain": "Cần ngừng hydrocortison 24 giờ hoặc prednisolon 48–72 giờ trước khi lấy máu định lượng cortisol để tránh nhiễu định lượng miễn dịch (một số phương pháp xét nghiệm có phản ứng chéo với prednisolon)."
+        },
+        {
+          "q": "Nếu cortisol huyết thanh buổi sáng đo được là 2 µg/dL, nhận định nào đúng?",
+          "options": [
+            "Trục HPA đã phục hồi hoàn toàn, có thể ngừng thuốc an toàn",
+            "Kết quả trong vùng xám, cần làm thêm nghiệm pháp kích thích ACTH",
+            "Chẩn đoán xác định suy thượng thận, cần tiếp tục điều trị thay thế",
+            "Kết quả không có giá trị chẩn đoán"
+          ],
+          "answer": 2,
+          "explain": "Cortisol sáng < 3 µg/dL (100 nmol/L) là ngưỡng chẩn đoán xác định suy thượng thận — trục HPA chưa phục hồi, cần tiếp tục liều thay thế sinh lý và giảm liều rất chậm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi mệt mỏi và đau khớp trong quá trình giảm liều prednisolon",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 35 tuổi.<br><br><b>Tiền sử:</b> Viêm khớp dạng thấp, đang giảm liều prednisolon theo phác đồ.<br><br><b>Bệnh sử:</b> Ở tuần này bệnh nhân đang dùng liều 5 mg/ngày, xuất hiện mệt mỏi, chán ăn, đau cơ khớp lan tỏa.<br><br><b>Khám lâm sàng:</b> Huyết động ổn định, không sốt, không rối loạn ý thức.",
+      "questions": [
+        {
+          "q": "Việc tăng liều GC trở lại tạm thời sẽ làm cải thiện triệu chứng ở tình huống nào sau đây?",
+          "options": [
+            "Chỉ cải thiện nếu là suy thượng thận (AI)",
+            "Chỉ cải thiện nếu là hội chứng cai GC (GWS)",
+            "Cải thiện triệu chứng ở CẢ HAI tình trạng AI và GWS, nên không dùng đáp ứng điều trị để chẩn đoán phân biệt",
+            "Không cải thiện ở cả hai tình trạng"
+          ],
+          "answer": 2,
+          "explain": "Có sự chồng lấp triệu chứng lớn giữa AI và GWS (mệt mỏi, chán ăn, đau cơ khớp). Tăng liều GC theo kinh nghiệm sẽ giảm triệu chứng ở CẢ HAI nhóm, do đó KHÔNG được dùng đáp ứng này để chẩn đoán phân biệt — cần dựa vào cortisol máu và đặc điểm huyết động (trụy tuần hoàn chỉ có ở AI)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi dùng phối hợp prednisolon kéo dài và ibuprofen",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Tiền sử:</b> Viêm khớp dạng thấp, đang dùng prednisolon 7,5 mg/ngày kéo dài.<br><br><b>Bệnh sử:</b> Được kê thêm ibuprofen để giảm đau khớp.",
+      "questions": [
+        {
+          "q": "Nguy cơ chính khi phối hợp hai thuốc này là gì và cần dự phòng bằng thuốc nào?",
+          "options": [
+            "Tăng nguy cơ hạ kali máu; dự phòng bằng kali clorid",
+            "Tăng nguy cơ loét/xuất huyết tiêu hóa; dự phòng bằng thuốc ức chế bơm proton (PPI)",
+            "Tăng nguy cơ suy thận cấp; dự phòng bằng truyền dịch",
+            "Tăng nguy cơ hạ đường huyết; dự phòng bằng glucose uống"
+          ],
+          "answer": 1,
+          "explain": "Phối hợp NSAID với glucocorticoid làm tăng đáng kể nguy cơ viêm loét và xuất huyết tiêu hóa (cả hai đều làm giảm yếu tố bảo vệ niêm mạc dạ dày qua các cơ chế khác nhau) — cần dự phòng bằng PPI ở bệnh nhân nguy cơ cao."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi chuẩn bị tiêm corticoid nội khớp gối",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Bệnh sử:</b> Khám vì viêm khớp gối tái phát, cần chỉ định tiêm corticoid nội khớp.",
+      "questions": [
+        {
+          "q": "Nguyên tắc thao tác kỹ thuật quan trọng nhất cần đảm bảo khi tiêm corticoid vào ổ khớp là gì?",
+          "options": [
+            "Sử dụng dạng muối phosphat/succinat tan trong nước để hấp thu nhanh",
+            "Vô khuẩn tuyệt đối vì nguy cơ nhiễm khuẩn khớp",
+            "Tiêm liều cao để kéo dài tác dụng",
+            "Không cần theo dõi sau tiêm"
+          ],
+          "answer": 1,
+          "explain": "Tiêm nội khớp cần vô khuẩn tuyệt đối để tránh viêm khớp nhiễm khuẩn — một biến chứng nghiêm trọng. Dạng dùng tiêm khớp thường là muối acetat/acetonid ít tan (tác dụng kéo dài tại chỗ), không phải dạng tan nhanh."
+        },
+        {
+          "q": "Glucocorticoid nào sau đây có hoạt tính mineralocorticoid mạnh nhất, phù hợp nhất cho liệu pháp thay thế trong bệnh Addison?",
+          "options": [
+            "Dexamethason",
+            "Betamethason",
+            "Hydrocortison",
+            "Methylprednisolon"
+          ],
+          "answer": 2,
+          "explain": "Hydrocortison (cortisol) có hoạt tính mineralocorticoid tương đương cortison và mạnh nhất trong các GC thường dùng, mô phỏng đúng sinh lý tuyến thượng thận bình thường (cả GC và MC) — là lựa chọn ưu tiên cho liệu pháp thay thế."
+        },
+        {
+          "q": "Cơ chế chống viêm chính của glucocorticoid, khác biệt với NSAID, là gì?",
+          "options": [
+            "Ức chế chọn lọc COX-2",
+            "Ức chế phospholipase A2 (qua trung gian lipocortin-1) làm giảm cả prostaglandin và leucotrien",
+            "Ức chế trực tiếp thụ thể histamin H1",
+            "Ức chế bơm proton tại tế bào viêm"
+          ],
+          "answer": 1,
+          "explain": "GC làm tăng tổng hợp lipocortin-1, ức chế phospholipase A2 — enzym ở bước thượng nguồn tổng hợp acid arachidonic — nên ức chế được cả hai nhánh cyclo-oxygenase (prostaglandin) và lipoxygenase (leucotrien), khác với NSAID chỉ ức chế COX."
+        },
+        {
+          "q": "Nhóm thuốc glucocorticoid được gắn thêm Fluor ở vị trí 9α trên cấu trúc steroid sẽ có đặc điểm dược lý nào?",
+          "options": [
+            "Tăng hoạt tính chống viêm nhưng cũng làm TĂNG hoạt tính giữ muối",
+            "Tăng hoạt tính chống viêm và làm GIẢM hoạt tính giữ muối",
+            "Không ảnh hưởng đến hoạt tính chống viêm",
+            "Chỉ ảnh hưởng đến thời gian bán thải, không ảnh hưởng hoạt tính"
+          ],
+          "answer": 0,
+          "explain": "Gắn Fluor ở vị trí 9α làm tăng mạnh hoạt tính chống viêm và kéo dài t½, nhưng đồng thời cũng làm TĂNG hoạt tính giữ muối (Na+) — trừ khi có thêm nhóm thế ở vòng D (16α-methyl/hydroxyl) để triệt tiêu tác dụng giữ muối này (như dexamethason, betamethason)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 60 tuổi tự dùng thuốc nhỏ mắt chứa dexamethason kéo dài",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 60 tuổi.<br><br><b>Bệnh sử:</b> Tự dùng thuốc nhỏ mắt chứa dexamethason không rõ nguồn gốc trong 6 tháng để \"giảm đỏ mắt\". Gần đây nhìn mờ dần, đau nhức mắt.",
+      "questions": [
+        {
+          "q": "Hai biến chứng mắt kinh điển cần nghĩ đến ở bệnh nhân này là gì?",
+          "options": [
+            "Viêm kết mạc và khô mắt",
+            "Đục thủy tinh thể dưới bao sau và tăng nhãn áp (glaucoma)",
+            "Bong võng mạc và viêm màng bồ đào",
+            "Viêm giác mạc và loét giác mạc do vi khuẩn"
+          ],
+          "answer": 1,
+          "explain": "Dùng corticoid tại mắt kéo dài gây hai biến chứng kinh điển: đục thủy tinh thể dưới bao sau và tăng nhãn áp (glaucoma do steroid) — cả hai đều có thể gây giảm thị lực nếu không phát hiện sớm."
+        },
+        {
+          "q": "Yếu tố nào sau đây làm TĂNG nguy cơ nhiễm nấm giác mạc nặng lên khi tiếp tục dùng corticoid nhỏ mắt mà chưa loại trừ nhiễm Herpes simplex giác mạc?",
+          "options": [
+            "Corticoid ức chế miễn dịch tại chỗ, tạo điều kiện cho vi sinh vật (kể cả Herpes) tiến triển nặng hơn",
+            "Corticoid có tác dụng diệt virus Herpes trực tiếp",
+            "Corticoid không ảnh hưởng đến diễn tiến nhiễm Herpes giác mạc",
+            "Corticoid làm tăng sản xuất kháng thể tại chỗ chống Herpes"
+          ],
+          "answer": 0,
+          "explain": "Nhiễm Herpes simplex giác mạc là một chống chỉ định tương đối/thận trọng khi dùng corticoid tại mắt vì tác dụng ức chế miễn dịch tại chỗ có thể làm bệnh tiến triển nặng hơn, thậm chí gây thủng giác mạc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi lao phổi tiến triển bị ARDS nặng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Tiền sử:</b> Lao phổi tiến triển chưa điều trị thuốc kháng lao.<br><br><b>Bệnh sử:</b> Hiện diễn biến ARDS nặng do bão cytokine cần cân nhắc corticoid liều cao.",
+      "questions": [
+        {
+          "q": "Nhận định nào phù hợp nhất về việc sử dụng glucocorticoid ở bệnh nhân này?",
+          "options": [
+            "Chống chỉ định tuyệt đối, không được dùng trong bất kỳ hoàn cảnh nào",
+            "Là chống chỉ định tương đối — cần cân nhắc lợi ích/nguy cơ và phối hợp điều trị kháng lao đồng thời nếu bắt buộc dùng corticoid",
+            "Không liên quan gì đến lao, có thể dùng tự do",
+            "Chỉ chống chỉ định nếu dùng đường hít, không chống chỉ định đường toàn thân"
+          ],
+          "answer": 1,
+          "explain": "Lao tiến triển chưa điều trị là chống chỉ định TƯƠNG ĐỐI của glucocorticoid (cân nhắc lợi ích–nguy cơ) do nguy cơ làm nặng/lan tràn bệnh lao qua ức chế miễn dịch; nếu bắt buộc phải dùng GC (như ARDS đe dọa tính mạng), cần phối hợp điều trị kháng lao đồng thời."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi viêm gan B mạn không hoạt động chuẩn bị hóa trị có corticoid",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Tiền sử:</b> Lymphoma non-Hodgkin, HBsAg (+), viêm gan B mạn đang ở giai đoạn không hoạt động.<br><br><b>Bệnh sử:</b> Chuẩn bị hóa trị phác đồ có corticoid liều cao.",
+      "questions": [
+        {
+          "q": "Nguy cơ đặc biệt cần lưu ý ở bệnh nhân này trước khi bắt đầu hóa trị là gì?",
+          "options": [
+            "Nguy cơ hạ đường huyết nặng do corticoid",
+            "Nguy cơ bùng phát viêm gan B do ức chế miễn dịch, cần điều trị dự phòng kháng virus trước",
+            "Nguy cơ suy thượng thận cấp ngay lập tức",
+            "Nguy cơ dị ứng chéo giữa corticoid và hóa chất"
+          ],
+          "answer": 1,
+          "explain": "Glucocorticoid liều cao/kéo dài gây ức chế miễn dịch có thể làm tái hoạt viêm gan virus B tiềm ẩn hoặc bùng phát viêm gan B đang ổn định — cần tầm soát HBsAg và cân nhắc điều trị kháng virus dự phòng trước khi bắt đầu hóa trị có corticoid."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi ghép thận dùng prednisolon duy trì xuất hiện tăng đường huyết",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 35 tuổi.<br><br><b>Tiền sử:</b> Ghép thận cách đây 2 năm, đang dùng prednisolon duy trì liều thấp dài hạn để chống thải ghép.<br><br><b>Bệnh sử:</b> Xét nghiệm định kỳ phát hiện đường huyết đói tăng cao mới xuất hiện.",
+      "questions": [
+        {
+          "q": "Cơ chế nào giải thích tình trạng tăng đường huyết mới khởi phát ở bệnh nhân này?",
+          "options": [
+            "Corticoid gây tổn thương trực tiếp tế bào beta tụy vĩnh viễn",
+            "Corticoid tăng tân tạo đường ở gan và gây đề kháng insulin ở mô ngoại vi",
+            "Corticoid gây viêm tụy cấp làm giảm tiết insulin",
+            "Corticoid không liên quan, do biến chứng của ghép thận"
+          ],
+          "answer": 1,
+          "explain": "\"Đái tháo đường do steroid\" (steroid-induced diabetes) xảy ra do glucocorticoid thúc đẩy tân tạo đường tại gan và gây đề kháng insulin ở mô ngoại vi (cơ, mỡ), làm giảm sử dụng glucose — đây là biến chứng chuyển hóa thường gặp khi dùng corticoid kéo dài, đặc biệt ở bệnh nhân ghép tạng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi ARDS do viêm phổi virus được chỉ định dexamethason",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi.<br><br><b>Bệnh sử:</b> ARDS nặng do viêm phổi virus, đang thở máy, được chỉ định dexamethason 6 mg/ngày theo phác đồ chuẩn cho bệnh nhân cần hỗ trợ oxy/thở máy.",
+      "questions": [
+        {
+          "q": "Cơ sở dược lý chính cho việc sử dụng dexamethason trong tình huống này là gì?",
+          "options": [
+            "Tác dụng kháng virus trực tiếp của dexamethason",
+            "Tác dụng ức chế đáp ứng viêm quá mức (bão cytokine) góp phần gây tổn thương phổi",
+            "Tác dụng lợi tiểu giúp giảm phù phổi",
+            "Tác dụng giãn phế quản trực tiếp"
+          ],
+          "answer": 1,
+          "explain": "Trong các bệnh cảnh viêm phổi nặng/ARDS có đáp ứng viêm hệ thống quá mức (bão cytokine), glucocorticoid được dùng để ức chế đáp ứng viêm thông qua ức chế NF-κB/AP-1, giảm cytokine gây tổn thương phổi — không phải do tác dụng kháng virus."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 40 tuổi sarcoidosis phổi giai đoạn tiến triển",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 40 tuổi.<br><br><b>Bệnh sử:</b> Sarcoidosis phổi giai đoạn tiến triển có triệu chứng hô hấp và tổn thương lan tỏa trên CT ngực, được chỉ định corticoid toàn thân là điều trị nền tảng.",
+      "questions": [
+        {
+          "q": "Vai trò của glucocorticoid trong điều trị sarcoidosis dựa trên cơ chế nào?",
+          "options": [
+            "Ức chế hình thành u hạt qua ức chế đáp ứng miễn dịch qua trung gian tế bào (lympho T, đại thực bào)",
+            "Diệt trực tiếp tác nhân gây bệnh",
+            "Tác dụng giãn phế quản đơn thuần",
+            "Tác dụng chống đông máu tại phổi"
+          ],
+          "answer": 0,
+          "explain": "Sarcoidosis là bệnh u hạt qua trung gian miễn dịch tế bào. GC ức chế tăng sinh và hoạt hóa lympho T, đại thực bào (giảm IL-1, IL-2, TNF-α, interferon-γ) — làm giảm hình thành và tiến triển u hạt."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 25 tuổi viêm màng bồ đào trước không do nhiễm trùng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 25 tuổi.<br><br><b>Bệnh sử:</b> Viêm màng bồ đào trước không do nhiễm trùng, đau mắt đỏ, nhìn mờ, được chỉ định corticoid nhỏ mắt liều cao kèm theo dõi sát.",
+      "questions": [
+        {
+          "q": "Trước khi bắt đầu điều trị corticoid ở bệnh nhân viêm màng bồ đào, điều quan trọng nhất cần loại trừ là gì?",
+          "options": [
+            "Loại trừ đái tháo đường",
+            "Loại trừ nguyên nhân nhiễm trùng (đặc biệt Herpes) gây viêm màng bồ đào",
+            "Loại trừ tăng huyết áp",
+            "Loại trừ loãng xương"
+          ],
+          "answer": 1,
+          "explain": "Cần loại trừ nguyên nhân nhiễm trùng (đặc biệt Herpes simplex/zoster) trước khi dùng corticoid tại mắt, vì corticoid có thể làm nặng thêm nhiễm trùng do ức chế miễn dịch tại chỗ nếu dùng nhầm trong viêm màng bồ đào do nhiễm trùng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 34 tuổi nghi ngờ hội chứng Cushing nội sinh làm nghiệm pháp dexamethason",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 34 tuổi.<br><br><b>Bệnh sử:</b> Nghi ngờ hội chứng Cushing nội sinh, được làm nghiệm pháp ức chế dexamethason liều thấp qua đêm (uống 1 mg dexamethason lúc 23 giờ, đo cortisol máu 8 giờ sáng hôm sau).",
+      "questions": [
+        {
+          "q": "Kết quả cortisol máu sáng hôm sau không bị ức chế (vẫn cao) gợi ý điều gì?",
+          "options": [
+            "Loại trừ hoàn toàn hội chứng Cushing",
+            "Gợi ý hội chứng Cushing nội sinh, cần làm thêm xét nghiệm xác định nguyên nhân",
+            "Xác định chắc chắn suy thượng thận",
+            "Kết quả bình thường, không cần theo dõi thêm"
+          ],
+          "answer": 1,
+          "explain": "Ở người bình thường, dexamethason liều thấp sẽ ức chế trục HPA qua phản hồi âm tính, làm giảm cortisol nội sinh. Nếu cortisol KHÔNG bị ức chế, gợi ý có nguồn tiết cortisol tự chủ (hội chứng Cushing nội sinh), cần làm thêm các xét nghiệm định khu nguyên nhân (ACTH máu, MRI tuyến yên, CT thượng thận...)."
+        },
+        {
+          "q": "Vì sao dexamethason được chọn cho nghiệm pháp này thay vì hydrocortison?",
+          "options": [
+            "Vì dexamethason có hoạt tính mineralocorticoid mạnh hơn",
+            "Vì dexamethason không phản ứng chéo với hầu hết các phương pháp định lượng cortisol miễn dịch, nên không gây nhiễu kết quả",
+            "Vì dexamethason có t½ ngắn hơn hydrocortison",
+            "Vì dexamethason không có tác dụng ức chế trục HPA"
+          ],
+          "answer": 1,
+          "explain": "Dexamethason không phản ứng chéo đáng kể với hầu hết xét nghiệm miễn dịch định lượng cortisol, nên có thể ức chế trục HPA mà không làm nhiễu (không bị đo lẫn vào) kết quả cortisol máu — khác với hydrocortison/prednisolon."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi gái 3 tuổi tăng sản thượng thận bẩm sinh",
+      "body": "<b>Hành chính:</b> Trẻ gái, 3 tuổi.<br><br><b>Bệnh sử:</b> Được chẩn đoán tăng sản thượng thận bẩm sinh (CAH) do thiếu enzym 21-hydroxylase, biểu hiện nam hóa bộ phận sinh dục ngoài từ nhỏ.",
+      "questions": [
+        {
+          "q": "Mục tiêu chính của điều trị hydrocortison thay thế ở bệnh nhi này là gì?",
+          "options": [
+            "Chỉ để giảm đau khớp",
+            "Bổ sung glucocorticoid thiếu hụt và ức chế ngược tiết ACTH quá mức, từ đó giảm sản xuất androgen thượng thận dư thừa",
+            "Tăng cường phát triển chiều cao nhanh hơn bình thường",
+            "Điều trị triệu chứng nhiễm trùng tái phát"
+          ],
+          "answer": 1,
+          "explain": "Trong CAH do thiếu 21-hydroxylase, thiếu hụt cortisol làm mất phản hồi âm tính lên trục HPA → tăng tiết ACTH quá mức → kích thích tuyến thượng thận tăng sản xuất androgen (gây nam hóa). Bổ sung hydrocortison vừa thay thế thiếu hụt GC, vừa ức chế ACTH dư thừa, giảm sản xuất androgen."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 28 tuổi xuất huyết giảm tiểu cầu miễn dịch chẩn đoán mới",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 28 tuổi.<br><br><b>Bệnh sử:</b> Xuất huyết giảm tiểu cầu miễn dịch (ITP) mới chẩn đoán, số lượng tiểu cầu 8.000/µL kèm xuất huyết da niêm, được chỉ định corticoid liều cao là điều trị đầu tay.",
+      "questions": [
+        {
+          "q": "Cơ chế chính giúp glucocorticoid cải thiện số lượng tiểu cầu trong ITP là gì?",
+          "options": [
+            "Kích thích tủy xương tăng sinh mẫu tiểu cầu trực tiếp và nhanh chóng",
+            "Ức chế hệ thống lưới nội mô (đại thực bào lách) phá hủy tiểu cầu bị gắn tự kháng thể, đồng thời giảm sản xuất tự kháng thể",
+            "Ức chế trực tiếp yếu tố đông máu",
+            "Tăng thời gian sống của hồng cầu"
+          ],
+          "answer": 1,
+          "explain": "Trong ITP, tiểu cầu bị gắn tự kháng thể và bị phá hủy bởi đại thực bào ở lách/gan (hệ thống lưới nội mô). GC ức chế hoạt động thực bào của đại thực bào và giảm sản xuất tự kháng thể (ức chế lympho B/T), giúp giảm phá hủy tiểu cầu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi dùng fluticasone dạng hít xuất hiện mảng trắng miệng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 30 tuổi.<br><br><b>Tiền sử:</b> Hen phế quản, dùng corticoid dạng hít (fluticasone) liều trung bình kéo dài trên 6 tháng để kiểm soát bệnh.<br><br><b>Bệnh sử:</b> Gần đây xuất hiện mảng trắng ở niêm mạc miệng, khó nuốt.",
+      "questions": [
+        {
+          "q": "Biến chứng nào sau đây phù hợp nhất với biểu hiện của bệnh nhân, và biện pháp phòng ngừa là gì?",
+          "options": [
+            "Loét áp-tơ miệng; phòng ngừa bằng súc miệng nước muối",
+            "Nhiễm nấm Candida hầu họng; phòng ngừa bằng súc miệng sau mỗi lần hít thuốc",
+            "Viêm họng do virus; phòng ngừa bằng kháng sinh dự phòng",
+            "Ung thư hầu họng; cần sinh thiết ngay"
+          ],
+          "answer": 1,
+          "explain": "Corticoid dạng hít lắng đọng tại hầu họng có thể gây nhiễm nấm Candida miệng-họng do ức chế miễn dịch tại chỗ — biện pháp phòng ngừa kinh điển là súc miệng bằng nước sạch ngay sau mỗi lần hít thuốc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 48 tuổi lupus dùng prednisolon liều cao xuất hiện đau bụng dữ dội",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 48 tuổi.<br><br><b>Tiền sử:</b> Lupus ban đỏ hệ thống, đang dùng prednisolon 1 mg/kg/ngày được 3 tuần.<br><br><b>Bệnh sử:</b> Xuất hiện đau bụng thượng vị dữ dội lan sau lưng, nôn.<br><br><b>Xét nghiệm:</b> Amylase/lipase máu tăng cao gấp 5 lần bình thường.",
+      "questions": [
+        {
+          "q": "ADR nào của glucocorticoid cần nghĩ đến đầu tiên ở bệnh nhân này?",
+          "options": [
+            "Viêm loét dạ dày tá tràng đơn thuần",
+            "Viêm tụy cấp do thuốc",
+            "Viêm ruột thừa cấp",
+            "Sỏi mật biến chứng"
+          ],
+          "answer": 1,
+          "explain": "Glucocorticoid liều cao có thể gây viêm tụy cấp — một ADR ít gặp nhưng nghiêm trọng; biểu hiện đau bụng thượng vị lan sau lưng kèm tăng amylase/lipase ở bệnh nhân đang dùng GC liều cao cần nghĩ đến chẩn đoán này."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 26 tuổi đau đầu và phù gai thị khi giảm liều corticoid",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 26 tuổi.<br><br><b>Bệnh sử:</b> Đang giảm liều corticoid sau đợt điều trị lupus bùng phát, xuất hiện đau đầu dai dẳng, nhìn mờ thoáng qua.<br><br><b>Khám lâm sàng:</b> Đáy mắt thấy phù gai thị hai bên, không có dấu thần kinh khu trú.<br><br><b>Cận lâm sàng:</b> Chụp MRI não bình thường.",
+      "questions": [
+        {
+          "q": "Tình trạng nào sau đây phù hợp nhất, liên quan đến việc ngừng/giảm liều glucocorticoid?",
+          "options": [
+            "Đột quỵ thiếu máu não cấp",
+            "Tăng áp lực nội sọ lành tính (Pseudotumor cerebri) liên quan corticoid",
+            "Viêm màng não do vi khuẩn",
+            "U脑 nguyên phát"
+          ],
+          "answer": 1,
+          "explain": "Tăng áp lực nội sọ lành tính (pseudotumor cerebri) là một ADR đã biết của glucocorticoid, có thể xảy ra cả khi dùng liều cao hoặc đặc biệt khi GIẢM LIỀU/NGỪNG thuốc đột ngột sau dùng kéo dài — biểu hiện đau đầu, nhìn mờ, phù gai thị mà không có tổn thương cấu trúc trên hình ảnh học."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi COPD dùng prednisolon xuất hiện hoang tưởng bị hại",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Tiền sử:</b> Bệnh phổi tắc nghẽn mạn tính, dùng prednisolon 30 mg/ngày kéo dài 3 tháng do đợt cấp tái diễn nhiều lần.<br><br><b>Bệnh sử:</b> Nhập viện vì kích động, mất ngủ nặng, hoang tưởng bị hại xuất hiện đột ngột 1 tuần nay.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất và hướng xử trí ban đầu là gì?",
+          "options": [
+            "Sảng do nhiễm trùng, cần cấy máu ngay",
+            "Loạn thần do corticoid (steroid psychosis); cân nhắc giảm liều GC nếu tình trạng bệnh nền cho phép, phối hợp thuốc an thần kinh nếu cần",
+            "Cai rượu cấp, cần benzodiazepin liều cao",
+            "Sa sút trí tuệ khởi phát cấp tính"
+          ],
+          "answer": 1,
+          "explain": "Rối loạn tâm thần do steroid (bao gồm loạn thần, hưng cảm, trầm cảm) là ADR thần kinh-tâm thần đã biết của glucocorticoid, thường liên quan liều cao. Xử trí bao gồm đánh giá giảm liều GC nếu bệnh nền cho phép, kèm điều trị triệu chứng tâm thần khi cần."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 58 tuổi viêm khớp dạng thấp dùng prednisolon xuất hiện tổn thương chỏm xương đùi",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 58 tuổi.<br><br><b>Tiền sử:</b> Viêm khớp dạng thấp, dùng prednisolon 10 mg/ngày trong 2 năm.<br><br><b>Bệnh sử:</b> Đột ngột đau háng phải dữ dội, hạn chế vận động khớp háng.<br><br><b>Cận lâm sàng:</b> X-quang chưa thấy bất thường rõ, MRI phát hiện tổn thương xương dưới sụn chỏm xương đùi phải.",
+      "questions": [
+        {
+          "q": "Biến chứng cơ xương khớp nào phù hợp nhất và cơ chế bệnh sinh của nó?",
+          "options": [
+            "Viêm khớp nhiễm khuẩn; do vi khuẩn xâm nhập khớp",
+            "Hoại tử vô mạch chỏm xương đùi; do rối loạn vi tuần hoàn và tổn thương trực tiếp tế bào xương do GC",
+            "Gãy xương do loãng xương đơn thuần; do giảm mật độ xương",
+            "Viêm gân cơ thắt lưng chậu; do vận động quá mức"
+          ],
+          "answer": 1,
+          "explain": "Hoại tử vô mạch (vô khuẩn) chỏm xương đùi là biến chứng đặc trưng của GC liều cao/kéo dài, do cơ chế gây rối loạn vi tuần hoàn xương, tăng áp lực trong tủy xương và độc tính trực tiếp lên tế bào xương — thường biểu hiện đau khớp háng đột ngột, hình ảnh MRI nhạy hơn X-quang ở giai đoạn sớm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi viêm đa cơ do thấp xuất hiện yếu cơ gốc chi",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi.<br><br><b>Tiền sử:</b> Viêm đa cơ do thấp, dùng prednisolon 20 mg/ngày trong 4 tháng.<br><br><b>Khám lâm sàng:</b> Yếu cơ gốc chi hai bên (khó đứng dậy từ ghế, khó leo cầu thang), không đau cơ.<br><br><b>Xét nghiệm:</b> Men CK máu bình thường.",
+      "questions": [
+        {
+          "q": "Đặc điểm nào giúp phân biệt bệnh cơ do steroid (steroid myopathy) với đợt tiến triển của bệnh viêm cơ nền?",
+          "options": [
+            "Steroid myopathy có CK máu bình thường/không tăng, trong khi đợt tiến triển viêm cơ thường có CK tăng cao",
+            "Steroid myopathy luôn kèm đau cơ dữ dội còn viêm cơ thì không",
+            "Steroid myopathy chỉ ảnh hưởng cơ xa (bàn tay, bàn chân)",
+            "Không thể phân biệt được hai tình trạng này trên lâm sàng và cận lâm sàng"
+          ],
+          "answer": 0,
+          "explain": "Bệnh cơ do steroid gây yếu cơ gốc chi nhưng thường KHÔNG kèm tăng CK máu và không đau cơ — khác với đợt tiến triển của viêm cơ do bệnh nền (thường có CK tăng, đau cơ). Đặc điểm này giúp định hướng chẩn đoán phân biệt quan trọng vì hướng xử trí trái ngược nhau (giảm liều GC vs tăng liều GC)."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ sơ sinh có mẹ dùng prednisolon kéo dài trong thai kỳ",
+      "body": "<b>Hành chính:</b> Trẻ sơ sinh, con của thai phụ 32 tuổi mắc lupus ban đỏ hệ thống dùng prednisolon 15 mg/ngày suốt thai kỳ.<br><br><b>Khám lâm sàng:</b> Sinh đủ tháng, cân nặng bình thường.",
+      "questions": [
+        {
+          "q": "Nguy cơ nào ở trẻ sơ sinh cần được theo dõi do mẹ dùng glucocorticoid kéo dài trong thai kỳ?",
+          "options": [
+            "Suy thượng thận sơ sinh thoáng qua do ức chế trục HPA của thai nhi",
+            "Cường giáp sơ sinh",
+            "Hạ đường huyết do thiếu insulin bẩm sinh",
+            "Đa hồng cầu sơ sinh"
+          ],
+          "answer": 0,
+          "explain": "Dù prednisolon ít qua nhau thai hơn dexamethason/betamethason, việc mẹ dùng GC liều trung bình-cao kéo dài vẫn có thể gây ức chế trục HPA của thai nhi ở mức độ nhất định, dẫn đến nguy cơ suy thượng thận sơ sinh thoáng qua — cần theo dõi sát sau sinh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi điều trị viêm động mạch thái dương dự kiến kéo dài",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 70 tuổi.<br><br><b>Bệnh sử:</b> Đang dùng prednisolon 7,5 mg/ngày để điều trị viêm động mạch thái dương (giant cell arteritis), dự kiến điều trị kéo dài trên 1 năm.",
+      "questions": [
+        {
+          "q": "Theo nguyên tắc dự phòng loãng xương do glucocorticoid, bệnh nhân này cần được xử trí như thế nào?",
+          "options": [
+            "Không cần dự phòng vì liều dùng chưa đủ cao",
+            "Cần bổ sung calci, vitamin D và đánh giá chỉ định bisphosphonat ngay từ đầu điều trị do dự kiến dùng ≥ 3 tháng với liều ≥ 5 mg/ngày PE",
+            "Chỉ cần dự phòng nếu bệnh nhân đã có gãy xương trước đó",
+            "Chỉ cần theo dõi mà không cần can thiệp gì"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân dự kiến dùng GC ≥ 3 tháng với liều ≥ 5 mg/ngày (PE) — như trường hợp này — cần được dự phòng loãng xương ngay từ đầu bằng calci, vitamin D và đánh giá chỉ định bisphosphonat theo phân tầng nguy cơ (ví dụ thang điểm FRAX), không đợi đến khi có biến chứng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 50 tuổi lupus xuất hiện phù và tăng huyết áp khi dùng prednisolon",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 50 tuổi.<br><br><b>Bệnh sử:</b> Dùng prednisolon 20 mg/ngày điều trị lupus, xuất hiện phù hai chi dưới và huyết áp tăng từ 120/80 lên 160/95 mmHg sau 3 tuần điều trị.",
+      "questions": [
+        {
+          "q": "Cơ chế nào của glucocorticoid gây tăng huyết áp và phù ở bệnh nhân này?",
+          "options": [
+            "Tác dụng co mạch trực tiếp lên thành mạch máu",
+            "Hoạt tính mineralocorticoid gây tăng tái hấp thu Na+ và nước tại ống thận",
+            "Ức chế trực tiếp hệ renin-angiotensin-aldosteron",
+            "Tác dụng cường giao cảm trực tiếp lên tim"
+          ],
+          "answer": 1,
+          "explain": "Prednisolon có một mức hoạt tính mineralocorticoid nhất định, làm tăng tái hấp thu Na+ và nước tại ống thận (đồng thời tăng thải K+, H+) → gây phù và tăng huyết áp — đặc biệt khi dùng liều cao."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 48 tuổi hội chứng thận hư dùng prednisolon phối hợp furosemid",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 48 tuổi.<br><br><b>Bệnh sử:</b> Hội chứng thận hư, dùng prednisolon 60 mg/ngày kèm furosemid để kiểm soát phù.",
+      "questions": [
+        {
+          "q": "Nguy cơ chính khi phối hợp hai thuốc này và xét nghiệm cần theo dõi sát là gì?",
+          "options": [
+            "Nguy cơ hạ kali máu nghiêm trọng — cần theo dõi ion đồ sát",
+            "Nguy cơ tăng kali máu nghiêm trọng — cần theo dõi creatinin",
+            "Nguy cơ hạ natri máu do lợi tiểu quá mức",
+            "Nguy cơ hạ đường huyết do tương tác thuốc"
+          ],
+          "answer": 0,
+          "explain": "Cả glucocorticoid (hoạt tính mineralocorticoid, tăng thải K+) và furosemid (lợi tiểu quai, tăng thải K+) đều làm mất kali qua thận — phối hợp hai thuốc làm tăng đáng kể nguy cơ hạ kali máu nghiêm trọng, cần theo dõi ion đồ thường xuyên."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi lao hạch dùng rifampicin phối hợp prednisolon",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi.<br><br><b>Tiền sử:</b> Lao hạch đang điều trị phác đồ có rifampicin.<br><br><b>Bệnh sử:</b> Cần dùng prednisolon liều trung bình để kiểm soát phản ứng viêm quá mức (paradoxical reaction) sau khi bắt đầu điều trị lao.",
+      "questions": [
+        {
+          "q": "Điều chỉnh nào cần thực hiện đối với liều glucocorticoid khi phối hợp với rifampicin?",
+          "options": [
+            "Giảm liều GC vì rifampicin làm tăng nồng độ GC trong máu",
+            "Tăng liều GC vì rifampicin cảm ứng CYP3A4, làm tăng chuyển hóa và giảm nồng độ GC trong máu",
+            "Không cần điều chỉnh vì rifampicin không ảnh hưởng chuyển hóa GC",
+            "Ngừng hẳn GC vì chống chỉ định tuyệt đối với rifampicin"
+          ],
+          "answer": 1,
+          "explain": "Rifampicin là chất cảm ứng CYP3A4 mạnh, làm tăng chuyển hóa glucocorticoid tại gan → giảm nồng độ và hiệu quả điều trị của GC nếu không tăng liều bù trừ khi phối hợp hai thuốc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi lupus ban đỏ bùng phát nặng điều trị liều pulse methylprednisolon",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Bệnh sử:</b> Lupus ban đỏ hệ thống bùng phát nặng có tổn thương thận tiến triển nhanh, được chỉ định \"liều pulse\" methylprednisolon 1000 mg/ngày truyền tĩnh mạch trong 3 ngày liên tiếp.",
+      "questions": [
+        {
+          "q": "Cơ chế nào giải thích hiệu quả khởi phát nhanh (trong vài giờ) của liều pulse glucocorticoid, khác với cơ chế tác dụng thông thường?",
+          "options": [
+            "Cơ chế qua gen (genomic), cần tổng hợp protein mới",
+            "Cơ chế ngoài gen (non-genomic) qua thụ thể màng, khởi phát nhanh trong vài phút đến vài giờ",
+            "Tác dụng trực tiếp lên tủy xương",
+            "Tác dụng kháng virus không đặc hiệu"
+          ],
+          "answer": 1,
+          "explain": "Liều pulse rất cao (≥250 mg/ngày PE) kích hoạt cơ chế ngoài gen (non-genomic) qua thụ thể màng (mGR) và các con đường tín hiệu thứ cấp, cho hiệu quả khởi phát nhanh (vài phút đến vài giờ) — khác với cơ chế qua gen thông thường cần nhiều giờ đến nhiều ngày."
+        },
+        {
+          "q": "Sau đợt điều trị pulse 3 ngày, kế hoạch nào sau đây phù hợp nhất cho bệnh nhân này?",
+          "options": [
+            "Ngừng thuốc ngay sau liều pulse cuối cùng vì đã đạt hiệu quả tối đa",
+            "Chuyển sang liều uống prednisolon duy trì (thường 0,5–1 mg/kg/ngày) rồi giảm liều dần theo đáp ứng lâm sàng và tình trạng bệnh nền",
+            "Lặp lại liều pulse hàng ngày liên tục trong nhiều tuần",
+            "Chuyển ngay sang liều sinh lý thay thế (5 mg/ngày) mà không cần giai đoạn trung gian"
+          ],
+          "answer": 1,
+          "explain": "Liều pulse chỉ dùng ngắn ngày để đạt hiệu quả nhanh trong đợt cấp nặng; sau đó cần chuyển sang liều uống duy trì ở mức trên sinh lý phù hợp với mức độ hoạt động bệnh, rồi giảm liều dần theo 3 giai đoạn (nhanh – từ từ – chậm) khi bệnh đã được kiểm soát."
+        }
+      ]
+    }
+  ]
+}
