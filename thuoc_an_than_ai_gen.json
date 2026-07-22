@@ -1,0 +1,710 @@
+{
+  "name": "Thuốc An Thần (AI gen)",
+  "description": "Bộ câu hỏi ôn tập Thuốc An Thần bao gồm 25 case lâm sàng (50 câu hỏi) và 51 câu hỏi MCQ dược lý đơn thuần mô phỏng cấu trúc đề thi Bác sĩ Nội trú.",
+  "level": "Bác sĩ Nội trú",
+  "type": "cases",
+  "category": "Cơ sở",
+  "subcategory": "Dược lý",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 32 tuổi mắc tâm thần phân liệt xuất hiện co cứng cơ sau dùng haloperidol",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 32 tuổi.<br><br><b>Bệnh sử:</b> Chẩn đoán tâm thần phân liệt, được chỉ định haloperidol tiêm bắp. Sau 2 ngày điều trị, bệnh nhân xuất hiện đột ngột co cứng cơ cổ, vẹo cổ sang một bên, mắt trợn ngược không tự chủ, lưỡi thè ra ngoài.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất với biểu hiện trên là gì?",
+          "options": [
+            "Loạn trương lực cơ cấp (Acute dystonia)",
+            "Hội chứng Parkinson do thuốc",
+            "Bồn chồn/đứng ngồi không yên (Akathisia)",
+            "Rối loạn vận động muộn (Tardive dyskinesia)"
+          ],
+          "answer": 0,
+          "explain": "Loạn trương lực cơ cấp xuất hiện sớm trong giờ–ngày đầu điều trị, biểu hiện co cứng cơ cổ, mắt, lưỡi, hàm — khác với Parkinson do thuốc (~30 ngày), akathisia (~60 ngày) và TD (xuất hiện muộn, không hồi phục)."
+        },
+        {
+          "q": "Xử trí cấp cứu thích hợp nhất cho tình trạng trên là gì?",
+          "options": [
+            "Tiêm tĩnh mạch/tiêm bắp benztropin hoặc diphenhydramin",
+            "Tăng liều haloperidol để kiểm soát triệu chứng",
+            "Ngừng vĩnh viễn tất cả thuốc chống loạn thần",
+            "Chỉ định thêm lithium phối hợp"
+          ],
+          "answer": 0,
+          "explain": "Loạn trương lực cơ cấp đáp ứng nhanh với thuốc kháng cholinergic (benztropin, trihexyphenidyl) hoặc kháng histamin (diphenhydramin) tiêm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 40 tuổi sốt cao và cứng đờ cơ sau 3 tuần dùng haloperidol",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 40 tuổi.<br><br><b>Tiền sử:</b> Đang điều trị haloperidol 3 tuần vì hoang tưởng.<br><br><b>Bệnh sử:</b> Nhập viện vì sốt cao 39,5°C, cứng đờ cơ toàn thân kiểu \"ống chì\", rối loạn ý thức, mạch nhanh, huyết áp dao động.<br><br><b>Xét nghiệm:</b> CK 5200 IU/L, bạch cầu tăng.",
+      "questions": [
+        {
+          "q": "Chẩn đoán nghĩ đến nhiều nhất là gì?",
+          "options": [
+            "Hội chứng ác tính do thuốc an thần kinh (NMS)",
+            "Sốc nhiễm khuẩn",
+            "Cơn động kinh toàn thể",
+            "Hội chứng serotonin"
+          ],
+          "answer": 0,
+          "explain": "Bộ tứ sốt cao + cứng đờ cơ + rối loạn ý thức + rối loạn thần kinh thực vật kèm CK tăng rất cao là kinh điển của NMS, cơ chế do phong toả D₂ quá mức ở vùng dưới đồi và thể vân."
+        },
+        {
+          "q": "Bước xử trí đầu tiên và quan trọng nhất là gì?",
+          "options": [
+            "Ngừng ngay thuốc chống loạn thần đang dùng",
+            "Tăng liều thuốc an thần kinh khác để an dịu bệnh nhân",
+            "Truyền kháng sinh phổ rộng ngay lập tức",
+            "Cho thêm một thuốc chống loạn thần thứ hai"
+          ],
+          "answer": 0,
+          "explain": "Nguyên tắc xử trí NMS: (1) ngừng ngay thuốc chống loạn thần, (2) hồi sức tích cực (hạ sốt, bù dịch), (3) dùng dantrolen và bromocriptin nếu cần."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi dùng clozapin xuất hiện sốt nhẹ và đau họng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Tiền sử:</b> Tâm thần phân liệt kháng trị, đang dùng clozapin tuần thứ 6.<br><br><b>Bệnh sử:</b> Đến khám vì sốt nhẹ và đau họng 2 ngày.",
+      "questions": [
+        {
+          "q": "Xét nghiệm cận lâm sàng cần chỉ định ngay là gì?",
+          "options": [
+            "Công thức máu (bạch cầu, đặc biệt bạch cầu hạt)",
+            "Chức năng gan",
+            "Điện tâm đồ",
+            "Đường huyết mao mạch"
+          ],
+          "answer": 0,
+          "explain": "Clozapin có nguy cơ gây mất bạch cầu hạt (agranulocytosis) đe doạ tính mạng; sốt/đau họng ở bệnh nhân dùng clozapin luôn phải nghĩ đến biến chứng này và làm công thức máu cấp cứu."
+        },
+        {
+          "q": "Nếu kết quả cho thấy giảm bạch cầu hạt nặng, hướng xử trí đúng là gì?",
+          "options": [
+            "Ngừng clozapin ngay lập tức",
+            "Giảm nửa liều clozapin và theo dõi tiếp",
+            "Tiếp tục clozapin, thêm kháng sinh dự phòng",
+            "Chuyển sang haloperidol liều tương đương ngay hôm đó mà không ngừng clozapin trước"
+          ],
+          "answer": 0,
+          "explain": "Mất bạch cầu hạt do clozapin là biến chứng nghiêm trọng bắt buộc phải ngừng thuốc ngay để tránh nhiễm khuẩn nặng đe doạ tính mạng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 78 tuổi mắc sa sút trí tuệ có cơn kích động",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 78 tuổi.<br><br><b>Tiền sử:</b> Sa sút trí tuệ (Alzheimer).<br><br><b>Bệnh sử:</b> Có cơn kích động và hoang tưởng bị hại. Gia đình đề nghị bác sĩ kê thuốc chống loạn thần để kiểm soát hành vi.",
+      "questions": [
+        {
+          "q": "Điều gì bác sĩ cần tư vấn cho gia đình trước khi kê đơn?",
+          "options": [
+            "Nguy cơ tử vong tăng ở người cao tuổi sa sút trí tuệ khi dùng thuốc chống loạn thần",
+            "Thuốc hoàn toàn an toàn vì đã được FDA phê duyệt cho chỉ định này",
+            "Không có nguy cơ gì đáng kể ở liều điều trị",
+            "Chỉ cần thận trọng với nhóm thế hệ 1, thế hệ 2 hoàn toàn an toàn"
+          ],
+          "answer": 0,
+          "explain": "FDA đã đưa cảnh báo khung đen: người cao tuổi sa sút trí tuệ có rối loạn tâm thần dùng thuốc chống loạn thần (cả thế hệ 1 và 2) có nguy cơ tử vong tăng 1,6–1,7 lần, chủ yếu do biến cố tim mạch và nhiễm trùng."
+        },
+        {
+          "q": "Nguyên tắc kê đơn phù hợp nhất trong trường hợp này là gì?",
+          "options": [
+            "Dùng liều thấp nhất có hiệu quả, thời gian ngắn nhất, chỉ khi thực sự cần thiết",
+            "Dùng liều tiêu chuẩn như người trẻ tuổi để đảm bảo hiệu quả",
+            "Ưu tiên haloperidol liều cao vì tác dụng nhanh",
+            "Kết hợp 2 thuốc chống loạn thần để tăng hiệu quả"
+          ],
+          "answer": 0,
+          "explain": "Thuốc chống loạn thần không được phê duyệt cho rối loạn hành vi trong sa sút trí tuệ; chỉ dùng khi thật sự cần thiết, liều thấp nhất, thời gian ngắn nhất."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi mắc bệnh Parkinson xuất hiện ảo giác thị giác",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 70 tuổi.<br><br><b>Tiền sử:</b> Bệnh Parkinson đang điều trị levodopa.<br><br><b>Bệnh sử:</b> Xuất hiện ảo giác thị giác. Bác sĩ cân nhắc thêm một thuốc chống loạn thần.",
+      "questions": [
+        {
+          "q": "Thuốc nào nên TRÁNH dùng nhất trong trường hợp này?",
+          "options": [
+            "Haloperidol",
+            "Quetiapin",
+            "Clozapin liều thấp",
+            "Pimavanserin"
+          ],
+          "answer": 0,
+          "explain": "Haloperidol đối kháng D₂ mạnh, gây EPS rõ và làm nặng thêm triệu chứng vận động của Parkinson; nên tránh ở bệnh nhân Parkinson."
+        },
+        {
+          "q": "Nếu bệnh nhân đang dùng levodopa được kê thêm haloperidol, điều gì có khả năng xảy ra?",
+          "options": [
+            "Haloperidol đối kháng dược lý với levodopa do cùng cạnh tranh thụ thể dopaminergic, có thể làm mất tác dụng của levodopa và/hoặc làm nặng thêm EPS",
+            "Hai thuốc hiệp đồng tăng tác dụng chống Parkinson",
+            "Không có tương tác đáng kể giữa hai thuốc",
+            "Levodopa sẽ làm giảm tác dụng chống loạn thần của haloperidol"
+          ],
+          "answer": 0,
+          "explain": "Haloperidol phong toả receptor dopaminergic đã bị chiếm bởi levodopa (thuốc cường hệ dopaminergic) → đối kháng dược lý hai chiều, cần tránh phối hợp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 25 tuổi ngộ độc chlorpromazin liều cao",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 25 tuổi.<br><br><b>Bệnh sử:</b> Ngộ độc chlorpromazin liều cao (tự tử), vào viện trong tình trạng tụt huyết áp, mạch nhanh, lơ mơ. Bác sĩ trực chỉ định tiêm epinephrin để nâng huyết áp.",
+      "questions": [
+        {
+          "q": "Điều gì nhiều khả năng xảy ra sau khi tiêm epinephrin cho bệnh nhân này?",
+          "options": [
+            "Huyết áp tụt sâu hơn (hiện tượng đảo ngược adrenalin)",
+            "Huyết áp tăng nhanh và ổn định trở lại",
+            "Không có thay đổi đáng kể về huyết áp",
+            "Nhịp tim chậm lại rõ rệt"
+          ],
+          "answer": 0,
+          "explain": "Thụ thể α đã bị chlorpromazin phong toả, trong khi tác dụng kích thích β của epinephrin không bị đối kháng → giãn mạch chiếm ưu thế → tụt huyết áp nặng hơn (\"epinephrine reversal\")."
+        },
+        {
+          "q": "Thuốc vận mạch nào nên được lựa chọn thay thế trong trường hợp ngộ độc thuốc an thần kinh có tụt huyết áp?",
+          "options": [
+            "Norepinephrin (hoặc phenylephrin)",
+            "Epinephrin liều cao",
+            "Dopamin liều thấp đơn thuần",
+            "Isoproterenol"
+          ],
+          "answer": 0,
+          "explain": "Norepinephrin (hoặc phenylephrin) tác động chủ yếu trên α-adrenergic, tránh được hiện tượng đảo ngược adrenalin do tác dụng β không bị đối kháng."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ 29 tuổi mang thai 32 tuần có đợt loạn thần cấp",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 29 tuổi, mang thai 32 tuần.<br><br><b>Bệnh sử:</b> Có đợt loạn thần cấp, bác sĩ cân nhắc chỉ định sulpirid liều cao để kiểm soát triệu chứng dương tính.",
+      "questions": [
+        {
+          "q": "Nguy cơ đáng lo ngại nhất khi dùng sulpirid ở bệnh nhân này là gì?",
+          "options": [
+            "Nguy cơ quái thai và thuốc qua nhau thai ảnh hưởng thai nhi",
+            "Nguy cơ mất bạch cầu hạt như clozapin",
+            "Nguy cơ suy hô hấp cấp ở mẹ",
+            "Nguy cơ hạ đường huyết nặng ở mẹ"
+          ],
+          "answer": 0,
+          "explain": "Sulpirid chống chỉ định tương đối ở phụ nữ có thai do nguy cơ quái thai; thuốc cũng qua được sữa mẹ (tỉ lệ khoảng 1:1000 liều dùng) nên cần thận trọng khi cho con bú."
+        },
+        {
+          "q": "Nếu bệnh nhân này còn có tiền sử u tuỷ thượng thận, quyết định dùng sulpirid nên như thế nào?",
+          "options": [
+            "Chống chỉ định vì nguy cơ khởi phát cơn tăng huyết áp kịch phát",
+            "Có thể dùng bình thường vì không liên quan",
+            "Chỉ cần giảm liều xuống 1/2",
+            "Chỉ chống chỉ định với liều thấp, liều cao vẫn an toàn"
+          ],
+          "answer": 0,
+          "explain": "Sulpirid chống chỉ định tuyệt đối ở bệnh nhân có u tuỷ thượng thận (pheocromocytom) vì có thể gây cơn tăng huyết áp kịch phát."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 34 tuổi có tiền sử động kinh xuất hiện đợt loạn thần cấp",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 34 tuổi.<br><br><b>Tiền sử:</b> Động kinh.<br><br><b>Bệnh sử:</b> Xuất hiện đợt loạn thần cấp, bác sĩ cân nhắc chỉ định sulpirid.",
+      "questions": [
+        {
+          "q": "Điều cần thận trọng đặc biệt khi dùng sulpirid ở bệnh nhân này là gì?",
+          "options": [
+            "Sulpirid làm giảm ngưỡng co giật, có thể khởi phát cơn động kinh",
+            "Sulpirid làm tăng ngưỡng co giật nên rất an toàn",
+            "Sulpirid không ảnh hưởng đến ngưỡng co giật",
+            "Sulpirid chống chỉ định tuyệt đối trong mọi trường hợp động kinh dù đã kiểm soát tốt"
+          ],
+          "answer": 0,
+          "explain": "Sulpirid làm giảm ngưỡng co giật (giống nhiều thuốc chống loạn thần khác) nên cần thận trọng đặc biệt ở người có tiền sử động kinh."
+        },
+        {
+          "q": "Ngoài động kinh, sulpirid còn cần thận trọng đặc biệt ở nhóm đối tượng nào sau đây?",
+          "options": [
+            "Người cao tuổi (dễ nhạy cảm với ADR)",
+            "Người trẻ tuổi khoẻ mạnh không bệnh nền",
+            "Người có nồng độ prolactin thấp sẵn",
+            "Người có huyết áp thấp mạn tính không triệu chứng"
+          ],
+          "answer": 0,
+          "explain": "Sulpirid cần thận trọng ở người cao tuổi do tăng nhạy cảm với tác dụng phụ (an thần, hạ huyết áp, ngoại tháp, rối loạn nội tiết)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi dùng haloperidol 3 năm xuất hiện cử động múa giật",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Tiền sử:</b> Tâm thần phân liệt, điều trị haloperidol liên tục 3 năm.<br><br><b>Bệnh sử:</b> Gần đây xuất hiện các cử động múa giật không tự chủ vùng miệng, lưỡi, giật môi, mặt.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất là gì?",
+          "options": [
+            "Rối loạn vận động muộn (Tardive dyskinesia)",
+            "Loạn trương lực cơ cấp",
+            "Akathisia",
+            "Hội chứng ác tính do thuốc an thần kinh"
+          ],
+          "answer": 0,
+          "explain": "Cử động múa giật vùng miệng–lưỡi–mặt không tự chủ xuất hiện sau dùng thuốc kéo dài (hàng tháng–năm) là đặc trưng của rối loạn vận động muộn."
+        },
+        {
+          "q": "Đặc điểm quan trọng nhất cần lưu ý khi tư vấn cho bệnh nhân và gia đình về tình trạng này là gì?",
+          "options": [
+            "Tổn thương thường KHÔNG hồi phục dù đã ngừng thuốc",
+            "Sẽ hồi phục hoàn toàn trong vài ngày nếu tăng liều thuốc",
+            "Không cần can thiệp gì vì tự khỏi sau 1 tuần",
+            "Chỉ cần dùng thêm vitamin B là khỏi hoàn toàn"
+          ],
+          "answer": 0,
+          "explain": "Rối loạn vận động muộn thường không hồi phục, điều trị chủ yếu là dự phòng; khi đã xảy ra có thể ngừng thuốc, chuyển clozapin hoặc dùng valbenazin (ức chế VMAT2), hiệu quả điều trị hạn chế."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 38 tuổi bồn chồn không thể ngồi yên khi dùng thuốc chống loạn thần",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 38 tuổi.<br><br><b>Tiền sử:</b> Đang điều trị thuốc chống loạn thần.<br><br><b>Bệnh sử:</b> Than phiền cảm giác bồn chồn dữ dội, không thể ngồi yên một chỗ, phải liên tục đi lại trong phòng bệnh.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất là gì?",
+          "options": [
+            "Bồn chồn/đứng ngồi không yên (Akathisia)",
+            "Loạn trương lực cơ cấp",
+            "Hội chứng Parkinson do thuốc",
+            "Cơn hoảng loạn (panic attack) nguyên phát"
+          ],
+          "answer": 0,
+          "explain": "Akathisia là cảm giác không thể ngồi yên, bồn chồn vận động, thường xuất hiện trong vòng 60 ngày đầu điều trị, đặc biệt với haloperidol và aripiprazol."
+        },
+        {
+          "q": "Thuốc nào sau đây có thể được dùng để xử trí tình trạng trên?",
+          "options": [
+            "Propranolol hoặc một benzodiazepin",
+            "Tăng liều thuốc chống loạn thần đang dùng",
+            "Levodopa liều cao",
+            "Amphetamin liều thấp"
+          ],
+          "answer": 0,
+          "explain": "Akathisia có thể được xử trí bằng giảm liều thuốc chống loạn thần, chẹn beta (propranolol) hoặc benzodiazepin."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi tăng cân và tăng đường huyết sau 8 tháng dùng olanzapin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Tiền sử:</b> Đang điều trị olanzapin 8 tháng vì rối loạn lưỡng cực.<br><br><b>Bệnh sử:</b> Tái khám thấy tăng 12kg.<br><br><b>Xét nghiệm:</b> Đường huyết đói 180 mg/dL, triglycerid tăng cao.",
+      "questions": [
+        {
+          "q": "ADR nào của olanzapin giải thích tình trạng trên?",
+          "options": [
+            "Rối loạn chuyển hoá (tăng cân, rối loạn lipid máu, đái tháo đường)",
+            "Hội chứng ngoại tháp",
+            "Tăng prolactin máu",
+            "Mất bạch cầu hạt"
+          ],
+          "answer": 0,
+          "explain": "Olanzapin (cùng clozapin) có nguy cơ cao nhất trong nhóm thuốc chống loạn thần gây rối loạn chuyển hoá: tăng cân, rối loạn lipid, đái tháo đường."
+        },
+        {
+          "q": "Thuốc chống loạn thần nào sau đây có nguy cơ rối loạn chuyển hoá THẤP nhất, phù hợp cân nhắc thay thế?",
+          "options": [
+            "Aripiprazol",
+            "Olanzapin",
+            "Clozapin",
+            "Quetiapin"
+          ],
+          "answer": 0,
+          "explain": "Aripiprazol (thế hệ 3, chủ vận một phần D₂) có nguy cơ tăng cân và rối loạn chuyển hoá thấp nhất trong các thuốc chống loạn thần thường dùng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 27 tuổi xuất hiện chảy sữa ở vú khi dùng risperidon",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 27 tuổi.<br><br><b>Tiền sử:</b> Đang điều trị risperidon.<br><br><b>Bệnh sử:</b> Xuất hiện chảy sữa ở vú và giảm ham muốn tình dục.",
+      "questions": [
+        {
+          "q": "Cơ chế gây ra tình trạng trên là gì?",
+          "options": [
+            "Đối kháng D₂ ở đường tubulo-infundibular gây tăng tiết prolactin",
+            "Đối kháng thụ thể H1 gây rối loạn nội tiết",
+            "Cường giao cảm alpha gây rối loạn nội tiết",
+            "Ức chế enzym chuyển hoá testosterone tại gan"
+          ],
+          "answer": 0,
+          "explain": "Phong toả D₂ ở bó cuống phễu – tuyến yên (tubulo-infundibular) làm mất ức chế tiết prolactin sinh lý → tăng prolactin máu → chảy sữa, vú to, rối loạn tình dục, vô kinh."
+        },
+        {
+          "q": "Trong các thuốc chống loạn thần thế hệ 2, thuốc nào có nguy cơ tăng prolactin CAO nhất, gần tương đương thế hệ 1?",
+          "options": [
+            "Risperidon (và paliperidon)",
+            "Aripiprazol",
+            "Quetiapin",
+            "Ziprasidon"
+          ],
+          "answer": 0,
+          "explain": "Risperidon và paliperidon là ngoại lệ trong nhóm thế hệ 2, có nguy cơ tăng prolactin cao gần bằng thuốc thế hệ 1."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 60 tuổi kéo dài khoảng QT sau tiêm haloperidol tĩnh mạch",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 60 tuổi.<br><br><b>Bệnh sử:</b> Đang được tiêm haloperidol tĩnh mạch liều cao để kiểm soát kích động sảng (delirium) tại khoa hồi sức.<br><br><b>Cận lâm sàng:</b> Điện tâm đồ cho thấy khoảng QT kéo dài rõ rệt.",
+      "questions": [
+        {
+          "q": "Biến chứng tim mạch nguy hiểm nhất cần theo dõi là gì?",
+          "options": [
+            "Xoắn đỉnh (Torsades de pointes)",
+            "Nhồi máu cơ tim cấp",
+            "Block nhĩ thất độ III",
+            "Rung nhĩ mạn tính"
+          ],
+          "answer": 0,
+          "explain": "Kéo dài QT do thuốc chống loạn thần (đặc biệt haloperidol tiêm tĩnh mạch liều cao, thioridazin, ziprasidon) làm tăng nguy cơ xoắn đỉnh, có thể dẫn đến rung thất và đột tử."
+        },
+        {
+          "q": "Nếu bệnh nhân xuất hiện loạn nhịp thất/xoắn đỉnh do ngộ độc thuốc an thần kinh, thuốc nào nên được ưu tiên sử dụng?",
+          "options": [
+            "Magnesium sulfat",
+            "Adrenalin liều cao",
+            "Digoxin",
+            "Verapamil"
+          ],
+          "answer": 0,
+          "explain": "Magnesium sulfat (và lidocain) là lựa chọn ưu tiên trong xử trí xoắn đỉnh liên quan đến kéo dài QT do ngộ độc thuốc an thần kinh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 45 tuổi xuất hiện triệu chứng bất thường sau tự ý ngừng diazepam",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 45 tuổi.<br><br><b>Tiền sử:</b> Rối loạn lo âu lan toả, được điều trị diazepam liên tục 6 tháng.<br><br><b>Bệnh sử:</b> Do lo lắng về tác dụng phụ, bệnh nhân tự ý ngừng thuốc đột ngột.",
+      "questions": [
+        {
+          "q": "Biểu hiện nào có khả năng xảy ra sau khi ngừng thuốc đột ngột?",
+          "options": [
+            "Hội chứng cai: lo lắng, bồn chồn, mất ngủ trở lại, có thể co giật",
+            "Tăng cân nhanh chóng trong vài ngày",
+            "Vàng da tắc mật cấp tính",
+            "Mất bạch cầu hạt cấp tính"
+          ],
+          "answer": 0,
+          "explain": "Ngừng benzodiazepin đột ngột sau dùng kéo dài có thể gây hội chứng cai với lo lắng, bồn chồn, mất ngủ trở lại, nặng nhất là co giật đe doạ tính mạng."
+        },
+        {
+          "q": "Nguyên tắc đúng khi ngừng benzodiazepin sau một đợt điều trị kéo dài là gì?",
+          "options": [
+            "Giảm liều từ từ (tapering), không ngừng đột ngột",
+            "Ngừng đột ngột luôn là an toàn với mọi bệnh nhân",
+            "Chỉ cần đổi sang liều gấp đôi trong 1 ngày rồi ngừng",
+            "Không cần giảm liều nếu bệnh nhân dùng dưới 1 năm"
+          ],
+          "answer": 0,
+          "explain": "FDA khuyến cáo giảm liều từ từ khi ngừng benzodiazepin sau dùng kéo dài, để tránh phản ứng cai nghiêm trọng bao gồm co giật."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi uống quá liều diazepam tự tử",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 30 tuổi.<br><br><b>Bệnh sử:</b> Đưa vào cấp cứu do uống quá liều diazepam đơn thuần (không kèm chất khác) để tự tử.<br><br><b>Khám lâm sàng:</b> Ngủ gà, gọi hỏi đáp ứng chậm, nói khó, thở đều 16 lần/phút, SpO2 98%.",
+      "questions": [
+        {
+          "q": "Hướng xử trí phù hợp nhất trong tình huống này là gì?",
+          "options": [
+            "Theo dõi sát, hỗ trợ hô hấp–tuần hoàn, KHÔNG cần dùng flumazenil thường quy",
+            "Tiêm flumazenil ngay lập tức bất kể mức độ nặng",
+            "Đặt nội khí quản ngay dù không có dấu hiệu suy hô hấp",
+            "Rửa dạ dày bắt buộc dù bệnh nhân đến muộn sau 6 giờ"
+          ],
+          "answer": 0,
+          "explain": "Ngộ độc benzodiazepin đơn độc thường nhẹ, ít gây suy hô hấp nặng; xử trí chủ yếu là hỗ trợ và theo dõi. Flumazenil không khuyến cáo dùng thường quy do nguy cơ khởi phát co giật, đặc biệt nếu nghi ngờ đồng dùng thuốc khác hoặc lệ thuộc BZD lâu ngày."
+        },
+        {
+          "q": "Nếu bệnh nhân này có dùng phối hợp thêm opioid trước đó, điều gì cần đặc biệt lưu ý?",
+          "options": [
+            "Nguy cơ suy hô hấp nặng, ngừng thở tăng lên rõ rệt do hiệp đồng ức chế TKTW",
+            "Không có gì thay đổi vì hai thuốc không tương tác",
+            "Nguy cơ tăng huyết áp kịch phát",
+            "Nguy cơ co giật giảm đi khi phối hợp hai thuốc"
+          ],
+          "answer": 0,
+          "explain": "Đây chính là trọng tâm cảnh báo khung đen của FDA năm 2020: phối hợp benzodiazepin với opioid có thể gây an thần sâu, suy hô hấp nặng, hôn mê và tử vong."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 26 tuổi bị mất ngủ đầu giấc không kèm lo âu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 26 tuổi.<br><br><b>Bệnh sử:</b> Khó vào giấc ngủ (mất ngủ đầu giấc), không có bệnh lý lo âu kèm theo, bác sĩ cân nhắc kê một benzodiazepin gây ngủ tác dụng ngắn.",
+      "questions": [
+        {
+          "q": "Thuốc nào phù hợp nhất với mục tiêu mất ngủ đầu giấc, tác dụng ngắn?",
+          "options": [
+            "Triazolam",
+            "Flurazepam",
+            "Diazepam",
+            "Clordiazepoxid"
+          ],
+          "answer": 0,
+          "explain": "Triazolam có thời gian bán thải rất ngắn (~3 giờ), khởi phát tác dụng nhanh, phù hợp cho mất ngủ đầu giấc, hạn chế tồn dư buồn ngủ ngày hôm sau."
+        },
+        {
+          "q": "Nhược điểm chính cần lưu ý khi dùng nhóm thuốc có thời gian bán thải càng ngắn (như triazolam) là gì?",
+          "options": [
+            "Nguy cơ lệ thuộc/nghiện thuốc cao hơn",
+            "Nguy cơ tồn dư an thần ban ngày cao hơn",
+            "Không có tác dụng gây ngủ rõ rệt",
+            "Luôn cần liều cao hơn nhóm tác dụng dài"
+          ],
+          "answer": 0,
+          "explain": "Thuốc có t½ càng ngắn càng dễ gây lệ thuộc và nghiện thuốc (ví dụ triazolam, t½ ≈ 3 giờ)."
+        }
+      ]
+    },
+    {
+      "title": "Chỉ định tiêm midazolam cho bệnh nhân làm thủ thuật nội soi tiêu hóa",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân cần an thần trước khi làm thủ thuật nội soi tiêu hoá. Bác sĩ chỉ định tiêm tĩnh mạch một benzodiazepin có tác dụng gây mê nhẹ, khởi phát nhanh, gây quên sự kiện.",
+      "questions": [
+        {
+          "q": "Thuốc nào phù hợp nhất cho mục đích tiền mê trong tình huống trên?",
+          "options": [
+            "Midazolam",
+            "Clordiazepoxid",
+            "Oxazepam",
+            "Flurazepam"
+          ],
+          "answer": 0,
+          "explain": "Midazolam có tác dụng khởi phát nhanh khi tiêm tĩnh mạch, gây mê nhẹ, gây quên thuận chiều, thời gian tác dụng ngắn — phù hợp cho tiền mê/an thần thủ thuật."
+        },
+        {
+          "q": "Đặc điểm dược lý nào của midazolam giải thích khả năng \"gây quên\" khi làm thủ thuật?",
+          "options": [
+            "Làm suy yếu ký ức mới hình thành sau khi dùng thuốc (quên thuận chiều)",
+            "Làm mất hoàn toàn trí nhớ dài hạn vĩnh viễn",
+            "Chỉ ảnh hưởng ký ức xa, không ảnh hưởng ký ức mới",
+            "Không có tác dụng lên trí nhớ, bệnh nhân chỉ ngủ"
+          ],
+          "answer": 0,
+          "explain": "Benzodiazepin làm suy yếu khả năng hình thành ký ức mới (anterograde/thuận chiều) nhiều hơn ký ức cũ, hữu ích trong tiền mê/an thần thủ thuật để bệnh nhân không nhớ quá trình khó chịu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 8 tuổi vào cấp cứu vì co giật do sốt cao",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 8 tuổi.<br><br><b>Bệnh sử:</b> Vào cấp cứu vì co giật toàn thể kéo dài do sốt cao. Bác sĩ cần chỉ định thuốc cắt cơn co giật đường tĩnh mạch ngay.",
+      "questions": [
+        {
+          "q": "Thuốc nào là lựa chọn đầu tay để cắt cơn co giật cấp trong tình huống này?",
+          "options": [
+            "Diazepam tiêm tĩnh mạch",
+            "Haloperidol tiêm bắp",
+            "Clozapin uống",
+            "Buspiron uống"
+          ],
+          "answer": 0,
+          "explain": "Diazepam tiêm tĩnh mạch là thuốc chống co giật hàng đầu trong xử trí cấp cứu co giật, nhờ tác dụng chống co giật nhanh và mạnh của nhóm benzodiazepin."
+        },
+        {
+          "q": "Sau khi kiểm soát cơn co giật cấp, việc dùng benzodiazepin dài ngày ở trẻ này cần lưu ý điều gì?",
+          "options": [
+            "Cân nhắc kỹ lợi ích–nguy cơ, tránh dùng kéo dài không cần thiết do nguy cơ an thần quá mức, lệ thuộc thuốc",
+            "Có thể dùng không giới hạn thời gian vì trẻ em ít bị ADR hơn người lớn",
+            "Không cần điều chỉnh liều so với người lớn",
+            "Chống chỉ định tuyệt đối ở mọi trường hợp trẻ em"
+          ],
+          "answer": 0,
+          "explain": "Trẻ em nhạy cảm hơn với tác dụng an thần và ức chế hô hấp của benzodiazepin; nguyên tắc chung là dùng liều thấp nhất, thời gian ngắn nhất khi thực sự cần thiết."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi mắc COPD mạn tính kèm rối loạn lo âu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Tiền sử:</b> Bệnh phổi tắc nghẽn mạn tính (COPD) giai đoạn nặng.<br><br><b>Bệnh sử:</b> Có rối loạn lo âu, được người nhà đề nghị bác sĩ kê thêm benzodiazepin để \"an thần cho dễ chịu\".",
+      "questions": [
+        {
+          "q": "Quyết định phù hợp nhất của bác sĩ trong trường hợp này là gì?",
+          "options": [
+            "Thận trọng/tránh dùng benzodiazepin do nguy cơ ức chế thêm trung tâm hô hấp ở bệnh nhân suy hô hấp mạn",
+            "Kê liều benzodiazepin tiêu chuẩn như người bình thường",
+            "Kê liều cao hơn bình thường để đạt hiệu quả an thần tối đa",
+            "Phối hợp thêm opioid để tăng hiệu quả an thần"
+          ],
+          "answer": 0,
+          "explain": "Suy hô hấp là chống chỉ định của benzodiazepin do nguy cơ ức chế thêm trung tâm hô hấp vốn đã suy giảm ở bệnh nhân COPD nặng."
+        },
+        {
+          "q": "Nhóm thuốc an thần nào khác có thể cân nhắc thận trọng hơn cho lo âu ở bệnh nhân hô hấp mạn tính, do ít ức chế hô hấp?",
+          "options": [
+            "Buspiron",
+            "Diazepam liều cao",
+            "Midazolam truyền liên tục",
+            "Flurazepam"
+          ],
+          "answer": 0,
+          "explain": "Buspiron không tác dụng qua kênh Cl⁻/GABA như BZD, không gây ức chế hô hấp đáng kể, phù hợp hơn cho lo âu mạn tính ở người có bệnh hô hấp, dù khởi phát tác dụng chậm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 48 tuổi có nguy cơ co giật do hội chứng cai rượu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 48 tuổi.<br><br><b>Tiền sử:</b> Nghiện rượu mạn tính.<br><br><b>Bệnh sử:</b> Nhập viện cai nghiện. Ngày thứ 2 xuất hiện run tay, vã mồ hôi, lo lắng, tăng nguy cơ co giật do hội chứng cai rượu.",
+      "questions": [
+        {
+          "q": "Nhóm thuốc nào được dùng để dự phòng và điều trị hội chứng cai rượu trong trường hợp này?",
+          "options": [
+            "Benzodiazepin (diazepam hoặc clordiazepoxid)",
+            "Thuốc chống loạn thần (haloperidol) đơn độc",
+            "Opioid (morphin)",
+            "Thuốc chống trầm cảm ba vòng"
+          ],
+          "answer": 0,
+          "explain": "Benzodiazepin là nhóm thuốc nền tảng trong điều trị hội chứng cai rượu, nhờ tác dụng an thần, chống co giật qua tăng cường GABA — bù đắp phần nào cho tình trạng giảm hoạt tính GABA khi cai rượu đột ngột."
+        },
+        {
+          "q": "Vì sao nhóm benzodiazepin đặc biệt phù hợp về mặt cơ chế trong hội chứng cai rượu?",
+          "options": [
+            "Rượu và benzodiazepin đều tác động lên hệ GABA-ergic, có tác dụng thay thế chéo (cross-tolerance) giúp giảm triệu chứng cai",
+            "Rượu tác động lên hệ dopaminergic giống thuốc chống loạn thần",
+            "Benzodiazepin đối kháng trực tiếp với ethanol tại receptor",
+            "Không có mối liên hệ cơ chế nào giữa hai chất"
+          ],
+          "answer": 0,
+          "explain": "Cả rượu và benzodiazepin đều tăng cường dẫn truyền ức chế qua GABA-A; do đó BZD có thể thay thế một phần tác dụng của rượu, làm giảm nhẹ hội chứng cai và ngăn co giật."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi lái xe đường dài được kê diazepam giảm đau co thắt cơ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi, lái xe tải đường dài.<br><br><b>Bệnh sử:</b> Được kê diazepam để điều trị co thắt cơ do thoái hoá cột sống.",
+      "questions": [
+        {
+          "q": "Lời khuyên phù hợp nhất bác sĩ cần đưa ra cho bệnh nhân này là gì?",
+          "options": [
+            "Tạm ngừng lái xe/vận hành máy móc trong thời gian dùng thuốc do nguy cơ buồn ngủ, giảm phản xạ",
+            "Có thể lái xe bình thường vì diazepam không ảnh hưởng đến sự tỉnh táo",
+            "Chỉ cần uống thuốc sau khi lái xe xong trong ngày là an toàn tuyệt đối",
+            "Tăng liều gấp đôi để giảm đau nhanh hơn, không ảnh hưởng khả năng lái xe"
+          ],
+          "answer": 0,
+          "explain": "Benzodiazepin gây an thần, giảm phản xạ và khả năng tập trung; người lái xe, vận hành máy móc là một chống chỉ định/thận trọng quan trọng cần tư vấn."
+        },
+        {
+          "q": "Cơ chế nào của diazepam giải thích tác dụng giãn cơ được ứng dụng trong trường hợp co thắt cơ này?",
+          "options": [
+            "Giãn cơ vân do tác dụng trung ương thông qua tăng cường GABA ở tuỷ sống và trên não",
+            "Tác dụng trực tiếp phong toả synap thần kinh–cơ ngoại biên như thuốc giãn cơ cura",
+            "Ức chế trực tiếp bơm calci trong tế bào cơ vân",
+            "Đối kháng thụ thể acetylcholin tại bản vận động"
+          ],
+          "answer": 0,
+          "explain": "Benzodiazepin gây giãn cơ vân chủ yếu qua tác dụng trung ương (tăng cường ức chế GABA-ergic ở tuỷ sống và thân não), khác cơ chế ngoại biên của thuốc giãn cơ cura."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 33 tuổi bị cơn hoảng loạn tái phát đáp ứng kém với buspiron",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 33 tuổi.<br><br><b>Bệnh sử:</b> Bị cơn hoảng loạn (panic attack) tái phát nhiều lần, đã thử buspiron nhưng đáp ứng kém với triệu chứng cơn hoảng loạn cấp.",
+      "questions": [
+        {
+          "q": "Điều này phù hợp với đặc điểm dược lý nào đã biết của buspiron?",
+          "options": [
+            "Buspiron khởi phát tác dụng chậm và kém hiệu quả trên cơn hoảng loạn cấp so với benzodiazepin",
+            "Buspiron có tác dụng cắt cơn hoảng loạn cấp nhanh hơn benzodiazepin",
+            "Buspiron gây lệ thuộc thuốc nhiều hơn benzodiazepin trong điều trị hoảng loạn",
+            "Buspiron chống chỉ định tuyệt đối trong mọi rối loạn lo âu"
+          ],
+          "answer": 0,
+          "explain": "Nhược điểm đã biết của buspiron là khởi phát tác dụng chậm và kém hiệu quả trên cơn hoảng sợ cấp (panic attack), dù có ưu điểm không gây an dịu, ít lệ thuộc thuốc."
+        },
+        {
+          "q": "Nếu chuyển sang một benzodiazepin để cắt cơn hoảng loạn cấp, cơ chế tác dụng nhanh của nhóm thuốc này là gì?",
+          "options": [
+            "Tăng cường tác dụng ức chế của GABA qua tăng tần số mở kênh Cl⁻ ở receptor GABA-A",
+            "Chủ vận trực tiếp thụ thể serotonin 5-HT1A như buspiron",
+            "Đối kháng thụ thể dopamin D₂ ở hệ viền",
+            "Ức chế enzym monoamin oxydase (MAO)"
+          ],
+          "answer": 0,
+          "explain": "Benzodiazepin gắn vào receptor đặc hiệu liên quan chặt với GABA-A, làm tăng tần số mở kênh Cl⁻ khi có GABA gắn vào, tạo hiệu ứng ức chế thần kinh nhanh và mạnh — khác hẳn cơ chế chậm của buspiron qua 5-HT1A."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi mắc xơ gan nặng cần dùng thuốc an thần",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 70 tuổi.<br><br><b>Tiền sử:</b> Suy gan nặng (xơ gan Child-Pugh C).<br><br><b>Bệnh sử:</b> Cần dùng một thuốc an thần cho tình trạng lo âu trước phẫu thuật nhỏ.",
+      "questions": [
+        {
+          "q": "Điều cần đặc biệt lưu ý khi dùng benzodiazepin ở bệnh nhân suy gan nặng là gì?",
+          "options": [
+            "Thuốc chuyển hoá tạo các chất còn hoạt tính kéo dài, có thể tích luỹ và tăng độc tính ở bệnh nhân suy gan",
+            "Benzodiazepin hoàn toàn không chuyển hoá qua gan nên an toàn tuyệt đối",
+            "Suy gan làm tăng tốc độ thải trừ thuốc, cần tăng liều",
+            "Không có bất kỳ thận trọng nào cần thiết"
+          ],
+          "answer": 0,
+          "explain": "Benzodiazepin được chuyển hoá qua nhiều hệ enzym gan tạo các chất chuyển hoá còn hoạt tính; ở bệnh nhân suy gan, thuốc có thể tích luỹ gây tăng độc tính hoặc gây độc thêm cho gan đã suy — đây là một chống chỉ định/thận trọng quan trọng."
+        },
+        {
+          "q": "Trong nhóm benzodiazepin, đặc điểm nào của thuốc nên được cân nhắc để giảm nguy cơ tích luỹ ở người suy gan?",
+          "options": [
+            "Ưu tiên thuốc có chất chuyển hoá ít hoạt tính hơn và thời gian tác dụng ngắn hơn",
+            "Luôn chọn thuốc có t½ dài nhất để giảm số lần dùng thuốc",
+            "Không cần quan tâm đến đặc điểm dược động học ở người suy gan",
+            "Ưu tiên thuốc có nhiều chất chuyển hoá còn hoạt tính nhất"
+          ],
+          "answer": 0,
+          "explain": "Ở người suy gan, nên ưu tiên các benzodiazepin có chuyển hoá đơn giản hơn (ít phụ thuộc oxy hoá pha I) và thời gian tác dụng ngắn để hạn chế tích luỹ thuốc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi xuất hiện triệu chứng ngộ độc sau khi dùng opioid",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi.<br><br><b>Bệnh sử:</b> Gãy xương đùi kín sau tai nạn, được bác sĩ chỉ định thuốc giảm đau mạnh nhóm opioid. Vài giờ sau, xuất hiện tăng tiết đờm dãi, đồng tử co nhỏ như đầu đinh ghim, thở chậm nông.",
+      "questions": [
+        {
+          "q": "Đây là biểu hiện ngộ độc thuốc nào, KHÔNG liên quan trực tiếp đến nhóm thuốc an thần đang học trong bài?",
+          "options": [
+            "Ngộ độc morphin (opioid)",
+            "Ngộ độc benzodiazepin",
+            "Ngộ độc thuốc chống loạn thần",
+            "Ngộ độc barbiturat"
+          ],
+          "answer": 0,
+          "explain": "Bộ ba đồng tử co nhỏ như đinh ghim, ức chế hô hấp và tăng tiết là đặc trưng của ngộ độc opioid (morphin), không phải benzodiazepin hay thuốc chống loạn thần."
+        },
+        {
+          "q": "Nếu bệnh nhân này TRƯỚC ĐÓ đã được dùng thêm một benzodiazepin để giảm lo âu do đau, nguy cơ nào cần đặc biệt cảnh giác?",
+          "options": [
+            "Hiệp đồng ức chế hô hấp giữa benzodiazepin và opioid, có thể dẫn đến ngừng thở",
+            "Benzodiazepin sẽ hoá giải hoàn toàn độc tính của opioid",
+            "Không có tương tác đáng kể giữa hai nhóm thuốc",
+            "Phối hợp hai thuốc làm giảm nguy cơ ngộ độc opioid"
+          ],
+          "answer": 0,
+          "explain": "Đây chính là nội dung cảnh báo khung đen của FDA (2020): phối hợp benzodiazepin với opioid gây hiệp đồng ức chế hô hấp, có thể dẫn đến ngừng thở và tử vong."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 52 tuổi đang điều trị haloperidol chuẩn bị phẫu thuật mổ túi mật",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 52 tuổi.<br><br><b>Tiền sử:</b> Tâm thần phân liệt đang điều trị ổn định với haloperidol.<br><br><b>Bệnh sử:</b> Chuẩn bị phẫu thuật cắt túi mật. Bác sĩ gây mê hỏi ý kiến bác sĩ tâm thần về việc phối hợp thuốc giảm đau opioid trong và sau mổ.",
+      "questions": [
+        {
+          "q": "Tương tác cần lưu ý khi phối hợp haloperidol với thuốc giảm đau nhóm morphin là gì?",
+          "options": [
+            "Haloperidol làm tăng tác dụng ức chế thần kinh trung ương của morphin, tăng nguy cơ an thần quá mức/ức chế hô hấp",
+            "Haloperidol làm mất hoàn toàn tác dụng giảm đau của morphin",
+            "Hai thuốc không có tương tác dược lực học nào",
+            "Morphin làm tăng chuyển hoá haloperidol nên cần tăng liều haloperidol"
+          ],
+          "answer": 0,
+          "explain": "Giống clorpromazin, các thuốc an thần kinh nói chung làm tăng tác dụng của thuốc giảm đau loại morphin và các thuốc ức chế TKTW khác — cần thận trọng phối hợp, theo dõi sát hô hấp."
+        },
+        {
+          "q": "Bên cạnh opioid, nhóm thuốc nào khác cũng cần thận trọng khi phối hợp với thuốc an thần kinh do nguy cơ hiệp đồng ức chế thần kinh trung ương?",
+          "options": [
+            "Thuốc ngủ, thuốc mê, thuốc tê, rượu",
+            "Kháng sinh nhóm beta-lactam",
+            "Vitamin nhóm B liều cao",
+            "Thuốc lợi tiểu thiazid"
+          ],
+          "answer": 0,
+          "explain": "Thuốc an thần kinh (như clorpromazin) làm tăng tác dụng của thuốc ngủ, thuốc mê, thuốc tê, morphin, thuốc hạ huyết áp và rượu — tất cả đều có nguy cơ hiệp đồng ức chế TKTW."
+        }
+      ]
+    }
+  ]
+}
