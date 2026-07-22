@@ -1,0 +1,925 @@
+{
+  "name": "Thuốc Kháng Sinh (AI gen)",
+  "description": "Bộ câu hỏi ôn tập Thuốc kháng sinh bao gồm 48 case lâm sàng (57 câu hỏi nhỏ) và 50 câu hỏi MCQ lý thuyết dược lý đơn thuần mô phỏng đề thi Bác sĩ Nội trú.",
+  "level": "Bác sĩ Nội trú",
+  "type": "cases",
+  "category": "Cơ sở",
+  "subcategory": "Dược lý",
+  "cases": [
+    {
+      "title": "Thai phụ 28 tuần viêm bàng quang cấp không biến chứng do E. coli",
+      "body": "<b>Hành chính:</b> Thai phụ, 28 tuần.<br><br><b>Bệnh sử:</b> Được chẩn đoán viêm bàng quang cấp không biến chứng do E. coli.",
+      "questions": [
+        {
+          "q": "Kháng sinh nào sau đây KHÔNG nên chỉ định cho bệnh nhân này?",
+          "options": [
+            "Amoxicilin",
+            "Nitrofurantoin",
+            "Ciprofloxacin",
+            "Cephalexin"
+          ],
+          "answer": 2,
+          "explain": "Fluoroquinolon (Ciprofloxacin) chống chỉ định ở phụ nữ có thai do nguy cơ ảnh hưởng sụn tiếp hợp của thai nhi (dựa trên thực nghiệm súc vật non)."
+        },
+        {
+          "q": "Cơ sở của chống chỉ định trên là gì?",
+          "options": [
+            "Gây độc gan thai nhi",
+            "Ảnh hưởng sụn tiếp hợp (khớp) của thai nhi/trẻ nhỏ",
+            "Gây dị tật ống thần kinh",
+            "Gây điếc bẩm sinh"
+          ],
+          "answer": 1,
+          "explain": "Thực nghiệm trên súc vật non cho thấy fluoroquinolon gây huỷ hoại mô sụn — đây là cơ sở của chống chỉ định ở trẻ em dưới 18 tuổi và phụ nữ có thai/cho con bú."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi viêm nội tâm mạc nhiễm khuẩn do Enterococcus faecalis",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Bệnh sử:</b> Viêm nội tâm mạc nhiễm khuẩn do Enterococcus faecalis nhạy cảm, bác sĩ chỉ định phối hợp Ampicilin + Gentamicin.",
+      "questions": [
+        {
+          "q": "Mục đích chính của việc phối hợp hai kháng sinh này là gì?",
+          "options": [
+            "Mở rộng phổ kháng khuẩn",
+            "Tạo tác dụng hiệp đồng diệt khuẩn",
+            "Giảm nguy cơ đề kháng",
+            "Giảm tác dụng không mong muốn"
+          ],
+          "answer": 1,
+          "explain": "Đây là phối hợp hiệp đồng kinh điển trong viêm nội tâm mạc do Enterococcus/Streptococcus: beta-lactam làm tổn thương vách tế bào giúp aminoglycosid thấm vào trong tốt hơn, tăng hiệu quả diệt khuẩn nhiều lần so với dùng đơn độc."
+        },
+        {
+          "q": "Cơ chế hiệp đồng giữa hai thuốc này là gì?",
+          "options": [
+            "Ampicilin ức chế enzym bất hoạt aminoglycosid",
+            "Ampicilin làm tổn thương vách tế bào, tăng thấm Gentamicin vào trong tế bào vi khuẩn",
+            "Ampicilin cạnh tranh receptor với Gentamicin",
+            "Ampicilin ức chế bơm đẩy (efflux pump)"
+          ],
+          "answer": 1,
+          "explain": "Aminoglycosid vốn khó thấm vào một số cầu khuẩn Gram dương; beta-lactam phá huỷ vách tế bào tạo điều kiện cho aminoglycosid xâm nhập và gắn ribosom 30S hiệu quả hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi đỏ bừng mặt và tụt huyết áp sau truyền Vancomycin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 70 tuổi.<br><br><b>Bệnh sử:</b> Đang được truyền tĩnh mạch Vancomycin điều trị nhiễm khuẩn huyết do MRSA. Khoảng 8 phút sau khi bắt đầu truyền, bệnh nhân xuất hiện đỏ bừng mặt, cổ, ngực; ngứa nhiều.<br><br><b>Khám lâm sàng:</b> Huyết áp 100/70 mmHg (nền 130/80 mmHg).",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất là gì?",
+          "options": [
+            "Sốc phản vệ",
+            "Hội chứng người đỏ (Red-man syndrome)",
+            "Nhiễm khuẩn huyết diễn tiến nặng hơn",
+            "Dị ứng thuốc qua trung gian IgE"
+          ],
+          "answer": 1,
+          "explain": "Ban đỏ khởi phát nhanh (4–10 phút) sau truyền, tập trung nửa người trên, kèm tụt huyết áp nhẹ — điển hình của hội chứng người đỏ do phóng thích histamin trực tiếp liên quan tốc độ truyền, không qua trung gian IgE."
+        },
+        {
+          "q": "Xử trí đầu tiên và phù hợp nhất là gì?",
+          "options": [
+            "Ngừng truyền ngay, dùng kháng histamin H1, sau đó có thể truyền lại chậm hơn",
+            "Tiêm Adrenalin bắp đùi ngay lập tức",
+            "Tăng tốc độ truyền để kết thúc sớm",
+            "Tiếp tục truyền và theo dõi thêm 30 phút"
+          ],
+          "answer": 0,
+          "explain": "Khác với sốc phản vệ (phải ngừng vĩnh viễn, cấp cứu Adrenalin), hội chứng người đỏ được xử trí bằng ngừng tạm thời, kháng histamin, sau đó khởi động lại với tốc độ giảm một nửa."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ sơ sinh non tháng nhiễm khuẩn huyết nặng cân nhắc dùng Cloramphenicol",
+      "body": "<b>Hành chính:</b> Trẻ sơ sinh non tháng.<br><br><b>Bệnh sử:</b> Nhiễm khuẩn huyết nặng, bác sĩ cân nhắc dùng Cloramphenicol liều cao đường tiêm do vi khuẩn đã kháng nhiều kháng sinh khác.",
+      "questions": [
+        {
+          "q": "Nguy cơ đặc biệt cần cảnh giác ở trẻ sơ sinh khi dùng thuốc này là gì?",
+          "options": [
+            "Điếc vĩnh viễn",
+            "Hội chứng xám (Grey baby syndrome)",
+            "Vàng răng vĩnh viễn",
+            "Hội chứng Reye"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng xám: nôn, chướng bụng, tím tái, hạ thân nhiệt, mềm nhũn, trụy tim mạch, da xám xanh — do gan trẻ sơ sinh chưa đủ enzym glucuronyl transferase để chuyển hoá, thận chưa thải trừ kịp, dẫn đến tích luỹ thuốc."
+        },
+        {
+          "q": "Xử trí khi xảy ra biến chứng trên là gì?",
+          "options": [
+            "Tăng liều để diệt khuẩn nhanh hơn",
+            "Ngừng thuốc ngay, thay máu hoặc lọc máu hấp phụ than hoạt, hỗ trợ hô hấp-tuần hoàn",
+            "Dùng thêm Vitamin K",
+            "Chỉ cần theo dõi, không cần can thiệp"
+          ],
+          "answer": 1,
+          "explain": "Đây là cấp cứu — ngừng thuốc ngay, thay máu/lọc máu hấp phụ than hoạt để loại bỏ thuốc, đồng thời hồi sức hô hấp-tuần hoàn tích cực."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi ù tai và chóng mặt khi điều trị Streptomycin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Bệnh sử:</b> Đang điều trị lao bằng phác đồ có Streptomycin tiêm bắp. Sau 3 tuần, bệnh nhân than ù tai, chóng mặt, đi đứng loạng choạng.",
+      "questions": [
+        {
+          "q": "Độc tính nào đang xảy ra?",
+          "options": [
+            "Độc thận",
+            "Độc tiền đình/ốc tai (dây thần kinh VIII)",
+            "Độc gan",
+            "Ức chế tuỷ xương"
+          ],
+          "answer": 1,
+          "explain": "Aminoglycosid có độc tính chọn lọc trên dây VIII — Streptomycin đặc biệt gây độc tiền đình (chóng mặt, mất thăng bằng)."
+        },
+        {
+          "q": "Đặc điểm hồi phục của độc tính này là gì?",
+          "options": [
+            "Luôn hồi phục hoàn toàn sau ngừng thuốc",
+            "Độc tiền đình thường hồi phục; độc ốc tai (điếc) thường KHÔNG hồi phục",
+            "Không bao giờ hồi phục dù ngừng thuốc",
+            "Chỉ hồi phục khi bổ sung vitamin nhóm B"
+          ],
+          "answer": 1,
+          "explain": "Đây là điểm hay hỏi: tổn thương đoạn tiền đình thường nhẹ, hồi phục khi ngừng thuốc; tổn thương đoạn ốc tai (điếc) thường vĩnh viễn dù đã ngừng thuốc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 34 tuổi bị tiêu chảy phân nhầy máu sau khi dùng Clindamycin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 34 tuổi.<br><br><b>Bệnh sử:</b> Bị áp xe răng, được kê Clindamycin. Sau 5 ngày điều trị, bệnh nhân tiêu chảy nhiều lần, phân nhầy máu, sốt.",
+      "questions": [
+        {
+          "q": "Nguyên nhân nào nên nghĩ đến đầu tiên?",
+          "options": [
+            "Tác dụng phụ tiêu hoá thông thường của thuốc",
+            "Viêm đại tràng giả mạc do Clostridioides difficile",
+            "Dị ứng thuốc kiểu tức thì",
+            "Ngộ độc thực phẩm đồng thời"
+          ],
+          "answer": 1,
+          "explain": "Clindamycin là kháng sinh có nguy cơ cao nhất gây viêm đại tràng giả mạc do C. difficile — cần nghĩ đến khi có tiêu chảy nhiều lần kèm phân nhầy máu/sốt trong hoặc sau điều trị."
+        },
+        {
+          "q": "Kháng sinh nào là lựa chọn điều trị cho tình trạng trên?",
+          "options": [
+            "Ciprofloxacin",
+            "Metronidazol hoặc Vancomycin đường uống",
+            "Gentamicin tiêm",
+            "Doxycyclin"
+          ],
+          "answer": 1,
+          "explain": "Metronidazol (mức độ nhẹ-trung bình) hoặc Vancomycin đường uống (không hấp thu toàn thân, tác dụng tại chỗ ở đại tràng) là điều trị chuẩn cho viêm đại tràng giả mạc do C. difficile."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 25 tuổi viêm phổi cộng đồng có tiền sử hội chứng QT dài",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 25 tuổi.<br><br><b>Tiền sử:</b> Hội chứng QT dài bẩm sinh.<br><br><b>Bệnh sử:</b> Viêm phổi cộng đồng, bác sĩ định kê Azithromycin.",
+      "questions": [
+        {
+          "q": "Nguy cơ đặc biệt cần cân nhắc khi kê đơn là gì?",
+          "options": [
+            "Suy thận cấp",
+            "Kéo dài khoảng QT dẫn đến xoắn đỉnh",
+            "Viêm gan cấp",
+            "Co giật"
+          ],
+          "answer": 1,
+          "explain": "Toàn bộ nhóm Macrolid có nguy cơ kéo dài khoảng QT; ở bệnh nhân có QT dài sẵn, cần cân nhắc thuốc thay thế hoặc theo dõi ECG sát."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 55 tuổi nhiễm khuẩn huyết kèm viêm phổi do MRSA",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 55 tuổi.<br><br><b>Bệnh sử:</b> Nhiễm khuẩn huyết kèm viêm phổi do MRSA, bác sĩ trực đề xuất dùng Daptomycin.",
+      "questions": [
+        {
+          "q": "Nhận định nào đúng về đề xuất này?",
+          "options": [
+            "Phù hợp vì Daptomycin phổ rộng, hiệu quả cao trên MRSA",
+            "KHÔNG phù hợp vì Daptomycin bị bất hoạt bởi surfactant phổi, không có tác dụng điều trị viêm phổi",
+            "Cần phối hợp thêm Vancomycin để tăng hiệu quả",
+            "Daptomycin không có tác dụng trên MRSA"
+          ],
+          "answer": 1,
+          "explain": "Đây là điểm hay ra thi: Daptomycin bị surfactant phổi bất hoạt nên tuyệt đối không dùng điều trị viêm phổi dù nhạy cảm in vitro với MRSA — nên chọn Vancomycin hoặc Linezolid cho thành phần viêm phổi."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 20 tuổi viêm niệu đạo do lậu cầu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 20 tuổi.<br><br><b>Bệnh sử:</b> Viêm niệu đạo do lậu cầu, chưa loại trừ đồng nhiễm Chlamydia trachomatis.",
+      "questions": [
+        {
+          "q": "Phác đồ kháng sinh kinh điển hợp lý nhất là gì?",
+          "options": [
+            "Ceftriaxon đơn độc",
+            "Ceftriaxon phối hợp Azithromycin",
+            "Penicilin V đơn độc",
+            "Doxycyclin đơn độc"
+          ],
+          "answer": 1,
+          "explain": "Theo nguyên tắc kinh điển, phối hợp Ceftriaxon (diệt lậu cầu) với Azithromycin (bao phủ khả năng đồng nhiễm Chlamydia) là phác đồ chuẩn khi chưa loại trừ đồng nhiễm."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ 30 tuổi đang cho con bú chẩn đoán viêm phổi cộng đồng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 30 tuổi, đang cho con bú.<br><br><b>Bệnh sử:</b> Được chẩn đoán viêm phổi cộng đồng.",
+      "questions": [
+        {
+          "q": "Kháng sinh nào nên tránh dùng trong giai đoạn cho con bú?",
+          "options": [
+            "Amoxicilin",
+            "Doxycyclin",
+            "Azithromycin",
+            "Cefuroxim"
+          ],
+          "answer": 1,
+          "explain": "Tetracyclin/Doxycyclin qua được sữa mẹ và có thể ảnh hưởng đến sự phát triển răng-xương của trẻ bú mẹ; nên tránh dùng khi có lựa chọn thay thế an toàn hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi 3 tuổi viêm khớp nhiễm khuẩn chỉ còn Ciprofloxacin nhạy cảm",
+      "body": "<b>Hành chính:</b> Trẻ 3 tuổi.<br><br><b>Bệnh sử:</b> Bị viêm khớp nhiễm khuẩn, kháng sinh đồ cho thấy chỉ còn Ciprofloxacin nhạy cảm.",
+      "questions": [
+        {
+          "q": "Vì sao cần hết sức cân nhắc khi dùng Ciprofloxacin ở trẻ này?",
+          "options": [
+            "Nguy cơ ảnh hưởng răng vĩnh viễn",
+            "Nguy cơ ảnh hưởng sụn tiếp hợp (dựa trên thực nghiệm súc vật non)",
+            "Nguy cơ gây điếc",
+            "Nguy cơ ức chế tuỷ xương"
+          ],
+          "answer": 1,
+          "explain": "Fluoroquinolon chỉ nên dùng ở trẻ em khi không còn lựa chọn thay thế nào khác do nguy cơ tổn thương sụn — cần cân nhắc lợi ích/nguy cơ kỹ trên từng ca cụ thể."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi suy thận mạn bị viêm bàng quang cấp",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 58 tuổi.<br><br><b>Tiền sử:</b> Suy thận mạn.<br><br><b>Bệnh sử:</b> Viêm bàng quang cấp, bác sĩ định kê Nitrofurantoin.<br><br><b>Xét nghiệm:</b> CrCl 25 mL/phút.",
+      "questions": [
+        {
+          "q": "Nhận định nào đúng về chỉ định này?",
+          "options": [
+            "Phù hợp, chỉ cần giảm liều theo CrCl",
+            "KHÔNG phù hợp vì không đạt nồng độ hiệu quả trong nước tiểu và tăng độc tính toàn thân",
+            "Cần tăng liều gấp đôi để bù trừ",
+            "Chống chỉ định vì gây suy thận cấp trực tiếp"
+          ],
+          "answer": 1,
+          "explain": "Nitrofurantoin chống chỉ định khi CrCl < 60 mL/phút vì thuốc không đạt được nồng độ điều trị trong nước tiểu (do thải trừ kém) đồng thời tích luỹ toàn thân gây độc tính (viêm phổi kẽ, bệnh thần kinh ngoại biên)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi viêm phổi bệnh viện do Pseudomonas aeruginosa đa kháng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi.<br><br><b>Bệnh sử:</b> Viêm phổi bệnh viện do Pseudomonas aeruginosa đa kháng, các kháng sinh thông thường đều đề kháng theo kháng sinh đồ.",
+      "questions": [
+        {
+          "q": "ADR nào cần theo dõi chặt chẽ nhất khi buộc phải dùng Colistin (liệu pháp cứu cánh)?",
+          "options": [
+            "Độc gan",
+            "Độc thận và độc thần kinh",
+            "Ức chế tuỷ xương",
+            "Kéo dài khoảng QT"
+          ],
+          "answer": 1,
+          "explain": "Colistin/Polymyxin có nguy cơ độc thận và độc thần kinh cao, đòi hỏi hiệu chỉnh liều chặt chẽ theo chức năng thận và theo dõi sát lâm sàng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 28 tuổi viêm âm đạo do Trichomonas vaginalis",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 28 tuổi.<br><br><b>Bệnh sử:</b> Viêm âm đạo do Trichomonas vaginalis, được kê Metronidazol.",
+      "questions": [
+        {
+          "q": "Lời dặn dò quan trọng nhất cần nhấn mạnh với bệnh nhân là gì?",
+          "options": [
+            "Tránh ánh nắng mặt trời",
+            "Tránh uống rượu bia trong và sau khi ngừng thuốc vài ngày (phản ứng giống Disulfiram)",
+            "Tránh uống sữa",
+            "Tránh cà phê"
+          ],
+          "answer": 1,
+          "explain": "Metronidazol gây phản ứng giống Disulfiram (đỏ bừng mặt, buồn nôn, nhịp tim nhanh, đau đầu dữ dội) khi uống cùng rượu — cần dặn tránh rượu trong và ít nhất vài ngày sau khi ngừng thuốc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi đang dùng Theophylin được kê thêm Ciprofloxacin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Tiền sử:</b> Đang dùng Theophylin điều trị hen phế quản.<br><br><b>Bệnh sử:</b> Được kê thêm Ciprofloxacin điều trị đợt cấp viêm phế quản mạn bội nhiễm.",
+      "questions": [
+        {
+          "q": "Tương tác thuốc cần lưu ý là gì?",
+          "options": [
+            "Ciprofloxacin ức chế CYP1A2 làm tăng nồng độ Theophylin, nguy cơ ngộ độc (buồn nôn, co giật, loạn nhịp)",
+            "Không có tương tác đáng kể",
+            "Theophylin làm giảm hiệu quả kháng khuẩn của Ciprofloxacin",
+            "Phối hợp gây hạ huyết áp nặng"
+          ],
+          "answer": 0,
+          "explain": "Ciprofloxacin ức chế CYP1A2 gan, làm giảm chuyển hoá và tăng nồng độ Theophylin — cần giảm liều Theophylin hoặc theo dõi nồng độ thuốc khi phối hợp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 45 tuổi đang dùng Warfarin được kê Trimethoprim-Sulfamethoxazol",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 45 tuổi.<br><br><b>Tiền sử:</b> Đang dùng Warfarin dự phòng huyết khối.<br><br><b>Bệnh sử:</b> Được kê Trimethoprim-Sulfamethoxazol điều trị nhiễm khuẩn tiết niệu.",
+      "questions": [
+        {
+          "q": "Cần theo dõi sát điều gì khi phối hợp hai thuốc này?",
+          "options": [
+            "Tăng INR, tăng nguy cơ chảy máu",
+            "Giảm INR, tăng nguy cơ huyết khối",
+            "Không cần theo dõi gì đặc biệt",
+            "Nguy cơ tăng huyết áp cấp"
+          ],
+          "answer": 0,
+          "explain": "Cotrimoxazol ức chế chuyển hoá gan của Warfarin và đẩy Warfarin khỏi protein huyết tương → tăng INR rất mạnh, nguy cơ chảy máu — cần theo dõi INR sát hoặc chọn kháng sinh thay thế."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi đang dùng Simvastatin được kê Clarithromycin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Tiền sử:</b> Đang dùng Simvastatin điều trị rối loạn lipid máu.<br><br><b>Bệnh sử:</b> Được kê Clarithromycin điều trị viêm phổi cộng đồng.",
+      "questions": [
+        {
+          "q": "Nguy cơ nào tăng lên do tương tác thuốc?",
+          "options": [
+            "Tiêu cơ vân do tăng nồng độ statin (Clarithromycin ức chế CYP3A4)",
+            "Suy thận cấp không liên quan statin",
+            "Hạ đường huyết nặng",
+            "Loãng xương cấp tính"
+          ],
+          "answer": 0,
+          "explain": "Clarithromycin/Erythromycin ức chế mạnh CYP3A4 — enzym chuyển hoá chính của nhiều statin — làm tăng nồng độ statin, tăng nguy cơ tiêu cơ vân. Nên tạm ngừng statin hoặc chọn Azithromycin (ít ảnh hưởng CYP3A4 hơn)."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ 3 tháng cuối bị viêm đường tiết niệu cân nhắc dùng Cotrimoxazol",
+      "body": "<b>Hành chính:</b> Thai phụ, 3 tháng cuối thai kỳ.<br><br><b>Bệnh sử:</b> Viêm đường tiết niệu, bác sĩ cân nhắc Sulfamethoxazol-Trimethoprim.",
+      "questions": [
+        {
+          "q": "Vì sao nên tránh sử dụng thuốc này ở giai đoạn thai kỳ này?",
+          "options": [
+            "Gây quái thai hệ thần kinh",
+            "Nguy cơ vàng da nhân (kernicterus) ở trẻ sơ sinh do Sulfonamid đẩy bilirubin khỏi albumin huyết tương",
+            "Gây sảy thai tự nhiên",
+            "Không có nguy cơ đặc biệt nào"
+          ],
+          "answer": 1,
+          "explain": "Sulfonamid tranh chấp vị trí gắn với bilirubin trên albumin huyết tương, làm tăng bilirubin tự do có thể gây vàng da nhân ở trẻ sơ sinh — do đó chống chỉ định trong 3 tháng cuối thai kỳ và ở trẻ sơ sinh dưới 2 tháng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi mắc bệnh nhược cơ nhiễm khuẩn nặng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 35 tuổi.<br><br><b>Tiền sử:</b> Bệnh nhược cơ (Myasthenia gravis).<br><br><b>Bệnh sử:</b> Nhiễm khuẩn nặng do trực khuẩn Gram âm, bác sĩ cân nhắc dùng Gentamicin.",
+      "questions": [
+        {
+          "q": "Nguy cơ đặc biệt nghiêm trọng cần lưu ý ở bệnh nhân này là gì?",
+          "options": [
+            "Làm nặng thêm tình trạng yếu cơ, có thể gây liệt hô hấp do ức chế dẫn truyền thần kinh cơ",
+            "Gây co giật",
+            "Không có ảnh hưởng đặc biệt",
+            "Gây tăng trương lực cơ"
+          ],
+          "answer": 0,
+          "explain": "Aminoglycosid ức chế giải phóng acetylcholin và giảm nhạy cảm thụ thể hậu synap — chống chỉ định (hoặc rất thận trọng) ở bệnh nhân nhược cơ vì có thể gây liệt hô hấp nguy hiểm tính mạng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi thiếu men G6PD bị nhiễm khuẩn tiết niệu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Tiền sử:</b> Thiếu men G6PD.<br><br><b>Bệnh sử:</b> Nhiễm khuẩn tiết niệu, bác sĩ cân nhắc giữa Nitrofurantoin và Sulfamethoxazol.",
+      "questions": [
+        {
+          "q": "Nguy cơ chung của cả hai thuốc này ở bệnh nhân thiếu G6PD là gì?",
+          "options": [
+            "Suy gan cấp",
+            "Tan máu cấp",
+            "Suy thận cấp",
+            "Giảm tiểu cầu nặng"
+          ],
+          "answer": 1,
+          "explain": "Cả Nitrofurantoin và Sulfonamid đều có thể gây tan máu cấp ở người thiếu men G6PD do stress oxy hoá lên hồng cầu — cần tránh dùng hoặc thận trọng đặc biệt."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 38 tuổi đang điều trị Linezolid phối hợp Fluoxetin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 38 tuổi.<br><br><b>Tiền sử:</b> Đang dùng Fluoxetin điều trị trầm cảm.<br><br><b>Bệnh sử:</b> Đang điều trị MRSA bằng Linezolid.",
+      "questions": [
+        {
+          "q": "Nguy cơ đáng lo ngại nhất khi phối hợp hai thuốc này là gì?",
+          "options": [
+            "Hội chứng serotonin (sốt cao, kích động, tăng phản xạ, run)",
+            "Hạ đường huyết nặng",
+            "Kéo dài khoảng QT",
+            "Suy thận cấp"
+          ],
+          "answer": 0,
+          "explain": "Linezolid có hoạt tính ức chế MAO nhẹ; phối hợp với SSRI (như Fluoxetin) làm tăng nguy cơ hội chứng serotonin — cần tránh phối hợp hoặc theo dõi rất sát."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 42 tuổi điều trị nhiễm khuẩn xương kéo dài bằng Linezolid",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 42 tuổi.<br><br><b>Bệnh sử:</b> Đang điều trị nhiễm khuẩn xương bằng Linezolid kéo dài 3 tuần.",
+      "questions": [
+        {
+          "q": "Xét nghiệm nào cần theo dõi định kỳ hằng tuần trong quá trình điều trị?",
+          "options": [
+            "Công thức máu (đặc biệt số lượng tiểu cầu)",
+            "Chức năng tuyến giáp",
+            "Đường huyết mao mạch",
+            "Điện giải đồ"
+          ],
+          "answer": 0,
+          "explain": "Linezolid gây ức chế tuỷ xương (đặc biệt giảm tiểu cầu) khi dùng trên 2 tuần — cần theo dõi công thức máu định kỳ hằng tuần."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 38 tuổi viêm phổi không điển hình dị ứng Penicilin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 38 tuổi.<br><br><b>Tiền sử:</b> Phản vệ với Penicilin.<br><br><b>Bệnh sử:</b> Viêm phổi không điển hình nghi do Mycoplasma pneumoniae.",
+      "questions": [
+        {
+          "q": "Lựa chọn kháng sinh hợp lý nhất là gì?",
+          "options": [
+            "Amoxicilin liều thấp",
+            "Azithromycin (nhóm Macrolid)",
+            "Cephalexin",
+            "Ampicilin/Sulbactam"
+          ],
+          "answer": 1,
+          "explain": "Macrolid vừa có phổ tốt trên vi khuẩn không điển hình (Mycoplasma, Chlamydia, Legionella), vừa là lựa chọn thay thế an toàn cho bệnh nhân dị ứng nặng với beta-lactam."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi áp xe gan do amip nghi bội nhiễm vi khuẩn kỵ khí",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 30 tuổi.<br><br><b>Bệnh sử:</b> Áp xe gan do amip kèm nghi bội nhiễm vi khuẩn kỵ khí đường mật.",
+      "questions": [
+        {
+          "q": "Kháng sinh nào có hoạt tính trên cả amip và vi khuẩn kỵ khí?",
+          "options": [
+            "Ciprofloxacin",
+            "Metronidazol",
+            "Gentamicin",
+            "Doxycyclin"
+          ],
+          "answer": 1,
+          "explain": "Metronidazol vừa là thuốc diệt amip mạnh, vừa có phổ tác dụng tốt trên vi khuẩn kỵ khí — được dùng trong nhiều bệnh cảnh áp xe gan do amip có bội nhiễm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi truyền Vancomycin có creatinin huyết thanh tăng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi.<br><br><b>Bệnh sử:</b> Đang được truyền Vancomycin điều trị nhiễm khuẩn huyết.<br><br><b>Xét nghiệm:</b> Creatinin huyết thanh tăng dần.",
+      "questions": [
+        {
+          "q": "Mục đích của việc định lượng nồng độ đáy Vancomycin là gì?",
+          "options": [
+            "Đánh giá hiệu quả điều trị và giảm nguy cơ độc thận/độc tai",
+            "Chỉ để tính thời gian bán thải",
+            "Không có ý nghĩa lâm sàng thực tế",
+            "Chỉ nhằm mục đích tính chi phí điều trị"
+          ],
+          "answer": 0,
+          "explain": "Theo dõi nồng độ đáy (TDM) giúp bảo đảm đạt hiệu quả điều trị (AUC24/MIC > 400) đồng thời tránh nồng độ quá cao gây độc thận/độc tai — đặc biệt quan trọng ở bệnh nhân có chức năng thận thay đổi."
+        },
+        {
+          "q": "Nồng độ đáy mục tiêu thường được khuyến cáo cho Vancomycin trong nhiễm khuẩn nặng là bao nhiêu?",
+          "options": [
+            "2–5 mcg/mL",
+            "10–20 mcg/mL",
+            "30–50 mcg/mL",
+            "60–80 mcg/mL"
+          ],
+          "answer": 1,
+          "explain": "Nồng độ đáy mục tiêu kinh điển là 10–20 mcg/mL để cân bằng giữa hiệu quả điều trị và nguy cơ độc tính."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ 7 tuổi viêm họng cấp do liên cầu tan huyết beta nhóm A",
+      "body": "<b>Hành chính:</b> Trẻ 7 tuổi.<br><br><b>Tiền sử:</b> Không có tiền sử dị ứng thuốc.<br><br><b>Bệnh sử:</b> Viêm họng cấp do liên cầu tan huyết beta nhóm A.",
+      "questions": [
+        {
+          "q": "Kháng sinh lựa chọn hàng đầu là gì?",
+          "options": [
+            "Penicilin V hoặc Amoxicilin",
+            "Vancomycin",
+            "Ciprofloxacin",
+            "Gentamicin"
+          ],
+          "answer": 0,
+          "explain": "Liên cầu tan huyết beta nhóm A vẫn còn nhạy cảm cao với Penicilin — đây vẫn là lựa chọn hàng đầu, rẻ tiền, hiệu quả, ít ADR."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhi nam 6 tuổi viêm màng não mủ nghi do Haemophilus influenzae",
+      "body": "<b>Hành chính:</b> Bệnh nhi nam, 6 tuổi.<br><br><b>Bệnh sử:</b> Được chẩn đoán viêm màng não mủ nghi do Haemophilus influenzae, chưa có kết quả cấy dịch não tuỷ.",
+      "questions": [
+        {
+          "q": "Kháng sinh kinh nghiệm ban đầu hợp lý nhất (thấm tốt hàng rào máu não, phổ rộng) là gì?",
+          "options": [
+            "Cefazolin",
+            "Ceftriaxon",
+            "Nitrofurantoin",
+            "Doxycyclin"
+          ],
+          "answer": 1,
+          "explain": "Ceftriaxon (cephalosporin thế hệ 3) thấm tốt hàng rào máu não ngay cả khi không viêm, phổ rộng bao phủ hầu hết tác nhân gây viêm màng não mủ ở trẻ em — là lựa chọn kinh nghiệm chuẩn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi xuất hiện triệu chứng bất thường khi điều trị giang mai bằng Penicilin G",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Bệnh sử:</b> Đang điều trị giang mai giai đoạn 2 bằng Penicilin G. Khoảng 6 giờ sau liều đầu tiên, xuất hiện sốt, rét run, đau cơ, phát ban nặng hơn trước điều trị.",
+      "questions": [
+        {
+          "q": "Đây là phản ứng gì?",
+          "options": [
+            "Dị ứng thuốc qua trung gian IgE",
+            "Phản ứng Jarisch–Herxheimer",
+            "Sốc nhiễm khuẩn",
+            "Sốc phản vệ"
+          ],
+          "answer": 1,
+          "explain": "Phản ứng Jarisch–Herxheimer xảy ra trong 24 giờ đầu điều trị nhiễm xoắn khuẩn (giang mai, Lyme) do ly giải hàng loạt xoắn khuẩn giải phóng nội độc tố, không phải dị ứng thuốc."
+        },
+        {
+          "q": "Thái độ xử trí đúng với thuốc đang dùng là gì?",
+          "options": [
+            "Ngừng Penicilin vĩnh viễn, chuyển kháng sinh khác",
+            "Điều trị triệu chứng hỗ trợ, tiếp tục hoặc hoàn tất phác đồ Penicilin",
+            "Đổi ngay sang Cephalosporin",
+            "Tiêm Adrenalin cấp cứu ngay"
+          ],
+          "answer": 1,
+          "explain": "Đây không phải phản ứng dị ứng nên không cần ngừng thuốc gây bệnh; xử trí bằng hạ sốt, giảm đau hỗ trợ và tiếp tục hoàn tất phác đồ điều trị giang mai."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 29 tuổi viêm bàng quang cấp do E. coli muốn dùng liều duy nhất",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 29 tuổi.<br><br><b>Bệnh sử:</b> Viêm bàng quang cấp không biến chứng do E. coli, không có yếu tố nguy cơ đặc biệt, không có thai.",
+      "questions": [
+        {
+          "q": "Lựa chọn kháng sinh đường uống liều duy nhất, thuận tiện, tuân thủ điều trị cao là gì?",
+          "options": [
+            "Fosfomycin",
+            "Vancomycin",
+            "Imipenem",
+            "Amikacin"
+          ],
+          "answer": 0,
+          "explain": "Fosfomycin ức chế enolpyruvyl transferase (bước đầu tổng hợp peptidoglycan), là liệu pháp hàng đầu cho viêm bàng quang cấp không biến chứng, dùng liều duy nhất đường uống."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 48 tuổi nhiễm khuẩn huyết do VRE",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 48 tuổi.<br><br><b>Bệnh sử:</b> Nhiễm khuẩn huyết do Enterococcus kháng Vancomycin (VRE).",
+      "questions": [
+        {
+          "q": "Kháng sinh nào là lựa chọn phù hợp?",
+          "options": [
+            "Vancomycin liều cao hơn",
+            "Linezolid hoặc Daptomycin",
+            "Penicilin G đơn độc",
+            "Tetracyclin"
+          ],
+          "answer": 1,
+          "explain": "Với VRE, các lựa chọn còn hiệu quả kinh điển là Linezolid (oxazolidinon) và Daptomycin (lipopeptid) — đây chính là “của để dành” cho các chủng kháng vancomycin."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi xơ gan mất bù bị viêm phổi cộng đồng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Tiền sử:</b> Xơ gan mất bù.<br><br><b>Bệnh sử:</b> Viêm phổi cộng đồng, bác sĩ cân nhắc kê Erythromycin.",
+      "questions": [
+        {
+          "q": "Cần thận trọng điều gì khi dùng thuốc này ở bệnh nhân xơ gan?",
+          "options": [
+            "Erythromycin chuyển hoá chủ yếu qua gan, cần giảm liều hoặc thận trọng ở người suy gan",
+            "Erythromycin không liên quan chuyển hoá gan",
+            "Cần tăng liều gấp đôi vì đào thải nhanh hơn",
+            "Chống chỉ định tuyệt đối mọi trường hợp có bệnh gan"
+          ],
+          "answer": 0,
+          "explain": "Erythromycin/Doxycyclin chuyển hoá chủ yếu qua gan — cần thận trọng và có thể cần giảm liều ở bệnh nhân suy gan nặng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 26 tuổi điều trị nhiễm Chlamydia đường niệu-dục bằng Doxycyclin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 26 tuổi.<br><br><b>Bệnh sử:</b> Được kê Doxycyclin điều trị nhiễm Chlamydia đường niệu-dục.",
+      "questions": [
+        {
+          "q": "Lời dặn dò nào là đúng khi hướng dẫn bệnh nhân sử dụng thuốc?",
+          "options": [
+            "Nên uống cùng sữa để giảm kích ứng dạ dày",
+            "Nên tránh uống cùng sữa/thuốc kháng acid vì làm giảm hấp thu do tạo phức chelat",
+            "Nên uống cùng viên sắt để tăng hấp thu",
+            "Không cần lưu ý gì về thức ăn"
+          ],
+          "answer": 1,
+          "explain": "Tetracyclin/Doxycyclin tạo phức chelat với ion Ca²⁺, Mg²⁺, Fe²⁺, Al³⁺ trong sữa/antacid/thuốc bổ sung sắt làm giảm đáng kể hấp thu — cần uống cách xa các chế phẩm này ít nhất 2 giờ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi viêm phổi cộng đồng điều trị bằng Amoxicilin/Acid clavulanic",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 30 tuổi.<br><br><b>Bệnh sử:</b> Viêm phổi cộng đồng mức độ nhẹ-trung bình, điều trị ngoại trú, bác sĩ kê Amoxicilin/Acid clavulanic.",
+      "questions": [
+        {
+          "q": "Vai trò của Acid clavulanic trong phối hợp này là gì?",
+          "options": [
+            "Có hoạt tính kháng khuẩn mạnh, hiệp đồng phổ",
+            "Ức chế beta-lactamase, bảo vệ Amoxicilin khỏi bị thuỷ phân",
+            "Tăng hấp thu đường uống của Amoxicilin",
+            "Giảm tác dụng không mong muốn của Amoxicilin"
+          ],
+          "answer": 1,
+          "explain": "Acid clavulanic bản thân có hoạt tính kháng khuẩn rất yếu; vai trò chính là ức chế không hồi phục beta-lactamase, bảo vệ Amoxicilin khỏi bị vi khuẩn phá huỷ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi viêm phổi bệnh viện do Klebsiella pneumoniae tiết ESBL",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Bệnh sử:</b> Viêm phổi bệnh viện do Klebsiella pneumoniae tiết ESBL, kháng toàn bộ Cephalosporin theo kháng sinh đồ.",
+      "questions": [
+        {
+          "q": "Nhóm kháng sinh nào có khả năng còn hiệu quả cao nhất?",
+          "options": [
+            "Aminoglycosid đơn độc",
+            "Carbapenem (Meropenem)",
+            "Macrolid",
+            "Tetracyclin"
+          ],
+          "answer": 1,
+          "explain": "Carbapenem bền với hầu hết beta-lactamase, kể cả ESBL — là lựa chọn kinh điển cho vi khuẩn tiết ESBL kháng cephalosporin."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi suy thận cần dùng Imipenem/Cilastatin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Tiền sử:</b> Suy thận.<br><br><b>Bệnh sử:</b> Cần điều trị bằng Imipenem/Cilastatin, bác sĩ lo ngại về tác dụng phụ thần kinh trung ương.",
+      "questions": [
+        {
+          "q": "ADR thần kinh đặc trưng cần cảnh giác khi dùng Imipenem liều cao hoặc ở người suy thận là gì?",
+          "options": [
+            "Co giật",
+            "Bệnh thần kinh ngoại biên",
+            "Rối loạn tâm thần cấp",
+            "Đột quỵ"
+          ],
+          "answer": 0,
+          "explain": "Nồng độ Imipenem cao (đặc biệt khi không chỉnh liều theo chức năng thận) có thể gây co giật — nguy cơ này thấp hơn với Meropenem."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi viêm tuyến tiền liệt mạn tính do E. coli",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Bệnh sử:</b> Bị viêm tuyến tiền liệt mạn tính do E. coli, cần kháng sinh thấm tốt vào mô tuyến tiền liệt và điều trị kéo dài.",
+      "questions": [
+        {
+          "q": "Lựa chọn kháng sinh và thời gian điều trị hợp lý là gì?",
+          "options": [
+            "Fosfomycin liều duy nhất",
+            "Fluoroquinolon hoặc Cotrimoxazol, kéo dài nhiều tuần (thường 4–6 tuần, có thể đến vài tháng)",
+            "Nitrofurantoin 3 ngày",
+            "Penicilin V 5 ngày"
+          ],
+          "answer": 1,
+          "explain": "Viêm tuyến tiền liệt mạn tính cần kháng sinh thấm tốt mô tuyến tiền liệt (Fluoroquinolon, Cotrimoxazol) và thời gian điều trị kéo dài hơn nhiều so với nhiễm khuẩn tiết niệu dưới đơn thuần."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 70 tuổi viêm phổi hít nghi do vi khuẩn kỵ khí",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 70 tuổi.<br><br><b>Bệnh sử:</b> Viêm phổi hít, nghi ngờ có vai trò của vi khuẩn kỵ khí vùng miệng-hầu họng.",
+      "questions": [
+        {
+          "q": "Kháng sinh nào có hoạt tính tốt trên vi khuẩn kỵ khí trên cơ hoành (miệng-hầu họng)?",
+          "options": [
+            "Aztreonam",
+            "Clindamycin",
+            "Aminoglycosid",
+            "Nitrofurantoin"
+          ],
+          "answer": 1,
+          "explain": "Clindamycin có phổ mạnh trên vi khuẩn kỵ khí vùng miệng-hầu họng và trên cơ hoành, là lựa chọn kinh điển cho viêm phổi hít/áp xe phổi do hít sặc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi nhiễm khuẩn ổ bụng sau phẫu thuật",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Bệnh sử:</b> Nhiễm khuẩn ổ bụng sau phẫu thuật, bác sĩ phối hợp Ceftriaxon và Metronidazol.",
+      "questions": [
+        {
+          "q": "Mục đích chính của phối hợp hai kháng sinh này là gì?",
+          "options": [
+            "Mở rộng phổ bao phủ cả vi khuẩn Gram (-) hiếu khí (Ceftriaxon) và vi khuẩn kỵ khí (Metronidazol)",
+            "Giảm liều từng thuốc để giảm chi phí",
+            "Phòng ngừa dị ứng thuốc",
+            "Không có lý do dược lý đặc biệt"
+          ],
+          "answer": 0,
+          "explain": "Nhiễm khuẩn ổ bụng thường hỗn hợp Gram (-) hiếu khí và kỵ khí (đặc biệt Bacteroides fragilis) — phối hợp này bao phủ đầy đủ cả hai nhóm tác nhân."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 26 tuổi đang cho con bú bị viêm bàng quang cấp",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 26 tuổi, đang cho con bú.<br><br><b>Bệnh sử:</b> Viêm bàng quang cấp, bác sĩ chọn Nitrofurantoin.",
+      "questions": [
+        {
+          "q": "Chống chỉ định quan trọng của Nitrofurantoin liên quan đến bệnh lý di truyền nào ở mẹ hoặc con?",
+          "options": [
+            "Thiếu men G6PD",
+            "Rối loạn chuyển hoá porphyrin",
+            "Bệnh Wilson",
+            "Bệnh nhiễm sắc tố sắt mô (Hemochromatosis)"
+          ],
+          "answer": 0,
+          "explain": "Nitrofurantoin gây tan máu ở người thiếu G6PD — cần thận trọng ở mẹ hoặc trẻ sơ sinh (đặc biệt dưới 1 tháng tuổi) có tình trạng này."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi nhiễm khuẩn huyết do MSSA",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi.<br><br><b>Bệnh sử:</b> Nhiễm khuẩn huyết do tụ cầu vàng nhạy cảm với Methicilin (MSSA).",
+      "questions": [
+        {
+          "q": "Kháng sinh nào là lựa chọn hàng đầu, hiệu quả hơn Vancomycin trên chủng MSSA?",
+          "options": [
+            "Oxacilin hoặc Nafcilin",
+            "Vancomycin",
+            "Linezolid",
+            "Daptomycin"
+          ],
+          "answer": 0,
+          "explain": "Đối với MSSA, các Penicilin kháng penicilinase (Oxacilin, Nafcilin) có hiệu quả diệt khuẩn tốt hơn và được ưu tiên hơn Vancomycin — nguyên tắc “xuống thang” quan trọng trong thi nội trú."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 27 tuổi được dự phòng kháng sinh trước phẫu thuật bằng Cefazolin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 27 tuổi.<br><br><b>Bệnh sử:</b> Được dự phòng kháng sinh trước phẫu thuật chỉnh hình sạch bằng Cefazolin.",
+      "questions": [
+        {
+          "q": "Vì sao Cefazolin (cephalosporin thế hệ 1) thường được ưu tiên hơn cephalosporin thế hệ 3 trong dự phòng phẫu thuật thông thường?",
+          "options": [
+            "Phổ tập trung tốt trên tụ cầu/liên cầu ở da, chi phí thấp, ít gây chọn lọc đề kháng phổ rộng không cần thiết",
+            "Thấm hàng rào máu não tốt hơn",
+            "Có hoạt tính mạnh trên Pseudomonas",
+            "Phổ kháng khuẩn rộng hơn thế hệ 3"
+          ],
+          "answer": 0,
+          "explain": "Nguyên tắc “phổ hẹp phù hợp” — Cefazolin đủ bao phủ tác nhân thường gặp gây nhiễm khuẩn vết mổ (tụ cầu, liên cầu), tránh lạm dụng kháng sinh phổ rộng không cần thiết."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ mắc giang mai có tiền sử dị ứng Penicilin nhẹ",
+      "body": "<b>Hành chính:</b> Thai phụ.<br><br><b>Tiền sử:</b> Dị ứng Penicilin mức độ nhẹ (chỉ nổi mề đay, không phản vệ).<br><br><b>Bệnh sử:</b> Mắc giang mai.",
+      "questions": [
+        {
+          "q": "Hướng xử trí hợp lý nhất theo nguyên tắc lâm sàng là gì?",
+          "options": [
+            "Đổi ngay sang Doxycyclin thay thế",
+            "Cân nhắc giải mẫn cảm Penicilin, vì đây là thuốc duy nhất được chứng minh an toàn/hiệu quả điều trị giang mai ở phụ nữ có thai",
+            "Dùng Ceftriaxon thay thế hoàn toàn an toàn, không cần cân nhắc thêm",
+            "Trì hoãn điều trị đến sau sinh"
+          ],
+          "answer": 1,
+          "explain": "Doxycyclin chống chỉ định thai kỳ; Penicilin vẫn là thuốc duy nhất được khuyến cáo điều trị giang mai ở thai phụ — nếu dị ứng, nên cân nhắc giải mẫn cảm thay vì đổi thuốc khác kém bằng chứng hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi viêm nội tâm mạc do Streptococcus viridans",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 58 tuổi.<br><br><b>Bệnh sử:</b> Viêm nội tâm mạc do Streptococcus viridans nhạy cảm cao với Penicilin.",
+      "questions": [
+        {
+          "q": "Phối hợp kinh điển nào giúp tăng hiệu quả diệt khuẩn và rút ngắn thời gian điều trị?",
+          "options": [
+            "Penicilin + Streptomycin (hoặc Gentamicin)",
+            "Penicilin + Doxycyclin",
+            "Penicilin + Macrolid",
+            "Penicilin + Cloramphenicol"
+          ],
+          "answer": 0,
+          "explain": "Phối hợp beta-lactam + aminoglycosid là hiệp đồng kinh điển trong viêm nội tâm mạc do liên cầu/Enterococcus; phối hợp Penicilin với kháng sinh kìm khuẩn (Cloramphenicol, Tetracyclin) có thể gây đối kháng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi dự phòng nhiễm khuẩn tiết niệu bằng Methenamin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi.<br><br><b>Bệnh sử:</b> Nhiễm khuẩn tiết niệu tái phát nhiều lần, bác sĩ cân nhắc Methenamin để dự phòng dài hạn.",
+      "questions": [
+        {
+          "q": "Điều kiện cần thiết để Methenamin phát huy tác dụng diệt khuẩn là gì?",
+          "options": [
+            "Nước tiểu phải được kiềm hoá",
+            "Nước tiểu phải được toan hoá (pH < 5,5)",
+            "Không phụ thuộc pH nước tiểu",
+            "Cần phối hợp thêm một kháng sinh khác mới có tác dụng"
+          ],
+          "answer": 1,
+          "explain": "Methenamin chỉ thuỷ phân thành formaldehyd diệt khuẩn trong môi trường acid (pH < 5,5) — cần toan hoá nước tiểu để đạt hiệu quả, và chỉ dùng dự phòng, không dùng điều trị nhiễm khuẩn cấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 45 tuổi viêm phổi cộng đồng nặng nhập ICU dùng kháng sinh kinh nghiệm",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 45 tuổi.<br><br><b>Bệnh sử:</b> Viêm phổi cộng đồng nặng nhập ICU, bác sĩ quyết định bắt đầu kháng sinh phổ rộng theo kinh nghiệm ngay lập tức.",
+      "questions": [
+        {
+          "q": "Nguyên tắc quan trọng nhất cần tuân thủ trước khi bắt đầu liều kháng sinh đầu tiên là gì?",
+          "options": [
+            "Chờ có kết quả kháng sinh đồ mới bắt đầu điều trị",
+            "Lấy mẫu bệnh phẩm nuôi cấy TRƯỚC liều kháng sinh đầu tiên",
+            "Luôn bắt đầu bằng kháng sinh phổ hẹp",
+            "Không cần cấy nếu đã quyết định dùng kháng sinh kinh nghiệm"
+          ],
+          "answer": 1,
+          "explain": "Trong bệnh cảnh nặng/nguy kịch, kháng sinh kinh nghiệm cần bắt đầu ngay không chờ kết quả cấy, nhưng bắt buộc phải lấy mẫu bệnh phẩm nuôi cấy TRƯỚC liều kháng sinh đầu tiên để không làm mất cơ hội định danh vi khuẩn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi không đáp ứng sau 2 ngày dùng kháng sinh kinh nghiệm",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Bệnh sử:</b> Đang điều trị kháng sinh kinh nghiệm 2 ngày cho viêm phổi nhưng vẫn sốt cao liên tục, chưa có kết quả kháng sinh đồ.",
+      "questions": [
+        {
+          "q": "Hướng xử trí hợp lý theo nguyên tắc sử dụng kháng sinh là gì?",
+          "options": [
+            "Tiếp tục nguyên phác đồ đủ 7 ngày mới đánh giá lại",
+            "Xem xét thay đổi hoặc phối hợp thêm kháng sinh vì sau 2 ngày không đáp ứng lâm sàng",
+            "Ngừng hẳn kháng sinh ngay lập tức",
+            "Tăng gấp đôi liều hiện tại của cùng loại thuốc"
+          ],
+          "answer": 1,
+          "explain": "Theo nguyên tắc dùng đủ thời gian: nếu sau 2 ngày dùng kháng sinh sốt không giảm, cần thay đổi hoặc phối hợp kháng sinh khác, xem xét lại chẩn đoán/nguồn nhiễm khuẩn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 35 tuổi xuất hiện tổn thương niêm mạc khi dùng Cephalexin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 35 tuổi.<br><br><b>Bệnh sử:</b> Viêm mô tế bào chi dưới do liên cầu, đang dùng Cephalexin đường uống. Sau 4 ngày, xuất hiện phát ban toàn thân, sốt cao, kèm tổn thương niêm mạc mắt và miệng.",
+      "questions": [
+        {
+          "q": "Biến chứng nào cần nghĩ đến ngay?",
+          "options": [
+            "Hội chứng người đỏ",
+            "Hội chứng Stevens–Johnson",
+            "Phản ứng Jarisch–Herxheimer",
+            "Nhiễm khuẩn huyết nặng hơn đơn thuần"
+          ],
+          "answer": 1,
+          "explain": "Phát ban toàn thân kèm tổn thương niêm mạc (mắt, miệng) và sốt cao gợi ý hội chứng Stevens–Johnson — một phản ứng dị ứng nặng, đe doạ tính mạng."
+        },
+        {
+          "q": "Thái độ xử trí đúng với thuốc nghi ngờ gây phản ứng là gì?",
+          "options": [
+            "Giảm liều và tiếp tục theo dõi",
+            "Ngừng thuốc ngay, chống chỉ định tuyệt đối dùng lại thuốc này (và các thuốc cùng nhóm có nguy cơ dị ứng chéo)",
+            "Đổi từ đường uống sang đường tiêm cùng loại thuốc",
+            "Không cần ngừng thuốc, chỉ theo dõi thêm"
+          ],
+          "answer": 1,
+          "explain": "Hội chứng Stevens–Johnson là chống chỉ định tuyệt đối dùng lại thuốc gây phản ứng — cần ngừng ngay và ghi nhận dị ứng trong hồ sơ bệnh án suốt đời."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi đang dùng Digoxin được kê thêm Clarithromycin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 68 tuổi.<br><br><b>Tiền sử:</b> Suy tim đang dùng Digoxin.<br><br><b>Bệnh sử:</b> Được kê thêm Clarithromycin điều trị đợt cấp viêm phế quản mạn.",
+      "questions": [
+        {
+          "q": "Nguy cơ tương tác thuốc cần lưu ý là gì?",
+          "options": [
+            "Giảm hấp thu Digoxin, mất tác dụng điều trị suy tim",
+            "Tăng nồng độ Digoxin (do ức chế chuyển hoá/vận chuyển), nguy cơ ngộ độc Digoxin",
+            "Không có tương tác đáng kể",
+            "Giảm tác dụng kháng khuẩn của Clarithromycin"
+          ],
+          "answer": 1,
+          "explain": "Clarithromycin có thể làm tăng nồng độ Digoxin qua nhiều cơ chế (ức chế P-glycoprotein, thay đổi hệ vi khuẩn ruột chuyển hoá Digoxin) — cần theo dõi triệu chứng ngộ độc Digoxin và cân nhắc nồng độ thuốc trong máu."
+        }
+      ]
+    }
+  ]
+}
