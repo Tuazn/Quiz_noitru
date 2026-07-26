@@ -1,0 +1,710 @@
+{
+  "name": "Thuốc giống giao cảm (AI gen) Up",
+  "description": "Bộ câu hỏi ôn tập nâng cao Thuốc giống giao cảm (Chủ vận Adrenergic) bao gồm 25 case lâm sàng nâng cao và 50 câu MCQ phân tích, so sánh theo định dạng mô phỏng thi Bác sĩ Nội trú.",
+  "level": "Nâng cao - Ôn thi Bác sĩ Nội trú",
+  "type": "cases",
+  "category": "Cơ sở",
+  "subcategory": "Dược lý",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 45 tuổi sốc nhiễm khuẩn từ viêm phổi đang truyền norepinephrine",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 45 tuổi.<br><br><b>Bệnh sử:</b> Sốc nhiễm khuẩn từ viêm phổi, đang truyền norepinephrine 0,5 µg/kg/phút, huyết áp trung bình (MAP) dao động 55-58 mmHg dù đã bù đủ dịch, nhịp tim 110 l/p, chỉ số tim (cardiac index) trong giới hạn bình thường.",
+      "questions": [
+        {
+          "q": "Bước xử trí tiếp theo hợp lý nhất lúc này?",
+          "options": [
+            "Thêm phenylephrine liều thấp song song",
+            "Tăng liều norepinephrine lên 1 µg/kg/phút và đánh giá lại",
+            "Thêm vasopressin liều cố định vào phác đồ hiện tại",
+            "Chuyển toàn bộ sang dopamine liều vận mạch"
+          ],
+          "answer": 2,
+          "explain": "Khi liều norepinephrine đã ở mức tương đối cao mà MAP chưa đạt đích, thêm vasopressin (thay vì tiếp tục đẩy liều NE) là bước được khuyến cáo."
+        },
+        {
+          "q": "Nếu 6 giờ sau, siêu âm tim cho thấy chỉ số tim giảm rõ kèm dấu hiệu giảm tưới máu ngoại vi trong khi MAP đã đạt đích, lựa chọn hợp lý để bổ sung là gì?",
+          "options": [
+            "Dobutamine liều thấp phối hợp thêm",
+            "Isoproterenol liều cao",
+            "Phenylephrine thay thế toàn bộ",
+            "Norepinephrine liều cao hơn nữa"
+          ],
+          "answer": 0,
+          "explain": "Khi có bằng chứng giảm cung lượng tim dù MAP đã đạt, bổ sung một thuốc tăng co bóp như dobutamine là hợp lý hơn là tiếp tục tăng thuốc co mạch thuần túy."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 30 tuổi sốc phản vệ sau ong đốt đáp ứng kém với adrenalin tiêm bắp",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 30 tuổi.<br><br><b>Bệnh sử:</b> Sốc phản vệ sau ong đốt, đã tiêm bắp adrenalin 2 liều cách nhau 5-10 phút, huyết áp vẫn 70/40 mmHg, còn thở rít nhẹ, đã thiết lập đường truyền tĩnh mạch và có monitor.",
+      "questions": [
+        {
+          "q": "Bước xử trí tiếp theo phù hợp nhất?",
+          "options": [
+            "Tiêm bắp thêm liều adrenalin thứ ba ngay lập tức và chờ đáp ứng",
+            "Đổi hẳn sang truyền norepinephrine đơn thuần",
+            "Chuyển sang truyền tĩnh mạch adrenalin liên tục có theo dõi sát",
+            "Ngừng adrenalin, chuyển sang glucocorticoid liều cao đơn độc"
+          ],
+          "answer": 2,
+          "explain": "Khi đáp ứng kém sau 2 liều IM liên tiếp và đã có đường truyền/monitor, chuyển sang truyền tĩnh mạch liên tục có kiểm soát là bước hợp lý hơn là lặp lại nhiều liều IM hoặc đổi hẳn thuốc khác."
+        },
+        {
+          "q": "Vì sao trong bối cảnh này, norepinephrine đơn thuần không phải là lựa chọn thay thế tối ưu cho adrenalin?",
+          "options": [
+            "Norepinephrine không có tác dụng lên hệ tim mạch",
+            "Norepinephrine chỉ dùng được qua đường uống",
+            "Norepinephrine chống chỉ định tuyệt đối trong mọi loại sốc",
+            "Norepinephrine có tác dụng β2 rất yếu nên kém hiệu quả trên co thắt phế quản còn tồn tại"
+          ],
+          "answer": 3,
+          "explain": "NA gần như không có tác dụng β2 đáng kể, trong khi bệnh nhân còn thở rít — cần thuốc có tác dụng giãn phế quản đi kèm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 60 tuổi sốc tim sau nhồi máu cơ tim",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 60 tuổi.<br><br><b>Bệnh sử:</b> Sốc tim sau nhồi máu cơ tim, huyết áp 85/55 mmHg, chỉ số tim thấp, sức cản mạch hệ thống không tăng (không có co mạch bù trừ rõ), phổi không ran nhiều.",
+      "questions": [
+        {
+          "q": "Chiến lược thuốc hợp lý nhất ban đầu?",
+          "options": [
+            "Phenylephrine đơn độc liều chuẩn",
+            "Norepinephrine đơn độc liều chuẩn",
+            "Phối hợp dobutamine liều thấp và norepinephrine liều thấp",
+            "Dobutamine đơn độc liều chuẩn"
+          ],
+          "answer": 2,
+          "explain": "Huyết áp còn thấp trong khi cần tăng co bóp; dobutamine đơn độc có thể làm giảm thêm huyết áp do tác dụng giãn mạch tương đối, nên phối hợp thêm một thuốc co mạch liều thấp là hợp lý hơn."
+        },
+        {
+          "q": "Vì sao dobutamine đơn độc trong tình huống này có thể làm huyết áp giảm thêm ở một số bệnh nhân?",
+          "options": [
+            "Dobutamine chuyển hóa thành chất ức chế beta nội sinh",
+            "Dobutamine gây chậm nhịp tim phản xạ mạnh",
+            "Dobutamine ức chế trực tiếp co bóp cơ tim",
+            "Đồng phân (+) của dobutamine có tác dụng đối vận α1, có thể góp phần giãn mạch tương đối"
+          ],
+          "answer": 3,
+          "explain": "Đồng phân (+) dobutamine đối vận α1, phần nào làm giảm trương lực mạch, có thể góp phần hạ huyết áp nếu dùng đơn độc khi bệnh nhân đã tụt áp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 40 tuổi hen phế quản mạn được điều chỉnh phác đồ nền",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 40 tuổi.<br><br><b>Bệnh sử:</b> Hen phế quản mạn, đang dùng bình xịt chứa salmeterol đơn độc hằng ngày, nay được bác sĩ điều chỉnh lại phác đồ nền sau đợt cấp.",
+      "questions": [
+        {
+          "q": "Điều chỉnh phác đồ nền hợp lý nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Formoterol liều cao dùng đơn độc khi cần",
+            "Salmeterol phối hợp corticosteroid dạng hít trong cùng một bình hít",
+            "Thay salmeterol bằng salbutamol dùng đều đặn hằng ngày",
+            "Duy trì salmeterol đơn độc nhưng giảm liều"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc bắt buộc là LABA phải phối hợp ICS; phối hợp trong cùng một bình hít giúp đảm bảo tuân thủ."
+        },
+        {
+          "q": "Một đồng nghiệp đề xuất dùng formoterol vừa làm thuốc dự phòng vừa làm thuốc cắt cơn cho bệnh nhân hen có nguy cơ cao (chiến lược phối hợp ICS-formoterol linh hoạt). Cơ sở dược lý nào cho phép formoterol (nhưng không phải salmeterol) được cân nhắc theo cách này?",
+          "options": [
+            "Formoterol có thời gian tác dụng ngắn hơn salbutamol",
+            "Formoterol chỉ có tác dụng trên thụ thể α",
+            "Formoterol không cần phối hợp ICS trong bất kỳ trường hợp nào",
+            "Formoterol khởi phát tác dụng giãn phế quản nhanh hơn đáng kể so với salmeterol dù cùng là LABA"
+          ],
+          "answer": 3,
+          "explain": "Formoterol có khởi phát tác dụng nhanh gần với SABA trong khi vẫn có thời gian tác dụng dài, khác với salmeterol khởi phát chậm hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi xuất hiện đau đầu dữ dội sau khi ăn phô mai và uống rượu vang",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Tiền sử:</b> Trầm cảm đang dùng một thuốc ức chế MAO không chọn lọc.<br><br><b>Bệnh sử:</b> Ăn tối với phô mai ủ lâu năm và rượu vang đỏ, sau đó đau đầu dữ dội, huyết áp 220/130 mmHg, không sốt, không có dấu hiệu thần kinh khu trú rõ.",
+      "questions": [
+        {
+          "q": "Cơ chế then chốt gây ra tình trạng này là gì?",
+          "options": [
+            "Ngộ độc thực phẩm do vi khuẩn trong phô mai lên men",
+            "Tích lũy tyramine do MAO ruột-gan bị ức chế, dẫn đến giải phóng ồ ạt catecholamine dự trữ",
+            "Phản ứng dị ứng thức ăn qua trung gian IgE",
+            "Tác dụng hiệp đồng dược động học đơn thuần giữa rượu và thuốc chống trầm cảm"
+          ],
+          "answer": 1,
+          "explain": "Đây là cơ chế dược lực học kinh điển: MAO bị ức chế khiến tyramine không bị bất hoạt, gây phóng thích catecholamine ồ ạt."
+        },
+        {
+          "q": "Trong xử trí cấp cứu cơn tăng huyết áp kịch phát này, nhóm thuốc nào nên tránh dùng đơn độc ban đầu?",
+          "options": [
+            "Thuốc đối kháng α",
+            "Thuốc giãn mạch trực tiếp tác dụng ngắn",
+            "Thuốc an thần nhóm benzodiazepine",
+            "Thuốc chẹn beta không chọn lọc"
+          ],
+          "answer": 3,
+          "explain": "Chẹn beta đơn độc có thể để lại tác dụng α1 không đối kháng, làm nặng thêm cơn tăng huyết áp trong bối cảnh cường giao cảm cấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 28 tuổi kích động và tăng huyết áp sau khi hít chất kích thích",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 28 tuổi.<br><br><b>Bệnh sử:</b> Vào cấp cứu với kích động, giãn đồng tử, vã mồ hôi, mạch 150 l/p, huyết áp 190/110 mmHg, nhiệt độ 39,5°C, sau khi sử dụng một chất kích thích dạng hít không rõ loại.",
+      "questions": [
+        {
+          "q": "Thuốc nền tảng ưu tiên sử dụng đầu tiên trong xử trí tình trạng này?",
+          "options": [
+            "Một thuốc chẹn beta tác dụng ngắn",
+            "Một thuốc đối kháng thụ thể dopamine",
+            "Một thuốc chẹn kênh calci tác dụng nhanh",
+            "Một thuốc nhóm benzodiazepine liều chuẩn"
+          ],
+          "answer": 3,
+          "explain": "Benzodiazepine là nền tảng cho an thần, kiểm soát kích động/co giật trong ngộ độc cường giao cảm cấp, đồng thời gián tiếp giúp ổn định tim mạch."
+        },
+        {
+          "q": "Nếu sau xử trí ban đầu, huyết áp và nhịp tim vẫn rất cao, việc bổ sung một thuốc chẹn beta không chọn lọc đơn độc lúc này tiềm ẩn nguy cơ gì?",
+          "options": [
+            "Bộc lộ tác dụng co mạch α1 không đối kháng, làm nặng thêm tăng huyết áp/co mạch vành",
+            "Gây hạ đường huyết nặng do ức chế tân tạo đường",
+            "Gây giãn phế quản quá mức",
+            "Gây tăng kali máu cấp tính"
+          ],
+          "answer": 0,
+          "explain": "Nguyên lý 'unopposed alpha stimulation' — mất đối trọng từ β khiến α1 chiếm ưu thế."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 70 tuổi nhồi máu cơ tim cấp biến chứng suy bơm",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 70 tuổi.<br><br><b>Bệnh sử:</b> Nhồi máu cơ tim cấp biến chứng suy bơm, huyết áp 80/50 mmHg, chi lạnh ẩm, phổi có ran ẩm hai đáy, không có bằng chứng giảm thể tích.",
+      "questions": [
+        {
+          "q": "Trong số các thuốc cường giao cảm, lựa chọn ban đầu hợp lý nhất để hỗ trợ huyết động ở bệnh nhân này là gì?",
+          "options": [
+            "Một thuốc chủ vận α1 chọn lọc đường tĩnh mạch",
+            "Một thuốc chủ vận α2 trung ương",
+            "Một thuốc chủ vận β2 chọn lọc dạng khí dung",
+            "Một thuốc chủ vận β1 ưu thế đường tĩnh mạch"
+          ],
+          "answer": 3,
+          "explain": "Trong sốc tim cần tăng co bóp là chính, một thuốc ưu thế β1 (như dobutamine) thường được ưu tiên hơn nhóm chỉ tác dụng α hoặc β2/α2."
+        },
+        {
+          "q": "So với một thuốc chủ vận β không chọn lọc mạnh (kích thích cả β1 và β2), việc chọn một thuốc ưu thế β1 hơn có lợi ích chính nào trên nhu cầu oxy cơ tim?",
+          "options": [
+            "Ít làm tăng nhịp tim hơn ở liều tương đương tác dụng co bóp, nên ít làm tăng tiêu thụ oxy cơ tim hơn",
+            "Không có khác biệt nào về tiêu thụ oxy cơ tim giữa hai nhóm",
+            "Thuốc ưu thế β1 luôn gây chậm nhịp tim rõ rệt",
+            "Thuốc ưu thế β1 làm giảm co bóp cơ tim để tiết kiệm oxy"
+          ],
+          "answer": 0,
+          "explain": "Tăng nhịp tim làm tăng MVO2 nhiều hơn tăng co bóp thuần túy; thuốc ưu thế β1 kiểu này ít làm tăng nhịp hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 75 tuổi block nhĩ-thất hoàn toàn sau nhồi máu cơ tim",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 75 tuổi.<br><br><b>Bệnh sử:</b> Block nhĩ-thất hoàn toàn sau nhồi máu cơ tim vùng dưới, nhịp tim 38 l/p, huyết áp 78/50 mmHg, đã dùng atropin không đáp ứng, chưa có máy tạo nhịp tạm thời.",
+      "questions": [
+        {
+          "q": "Trong khi chờ đặt máy tạo nhịp, thuốc nào phù hợp để duy trì tạm thời tần số tim?",
+          "options": [
+            "Một thuốc chủ vận α2 trung ương",
+            "Một thuốc chủ vận β không chọn lọc truyền tĩnh mạch",
+            "Một thuốc chủ vận β2 chọn lọc dạng khí dung",
+            "Một thuốc chủ vận α1 chọn lọc"
+          ],
+          "answer": 1,
+          "explain": "Isoproterenol (chủ vận β không chọn lọc) là lựa chọn kinh điển để tăng tần số tim tạm thời khi atropin không đáp ứng."
+        },
+        {
+          "q": "Tác dụng phụ huyết động nào cần lường trước khi dùng nhóm thuốc này ở liều cần thiết để đạt tần số tim mục tiêu?",
+          "options": [
+            "Giữ nguyên huyết áp hoàn toàn không đổi",
+            "Gây bí tiểu cấp do kích thích α1 bàng quang",
+            "Tăng huyết áp tâm trương do co mạch mạnh",
+            "Giảm huyết áp tâm trương do giãn mạch ngoại vi qua β2"
+          ],
+          "answer": 3,
+          "explain": "Chủ vận β2 đồng thời gây giãn mạch ngoại vi, có thể làm giảm huyết áp tâm trương dù tần số tim tăng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 68 tuổi bị chóng mặt khi đứng dậy",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 68 tuổi.<br><br><b>Tiền sử:</b> Đái tháo đường lâu năm.<br><br><b>Bệnh sử:</b> Ghi nhận chóng mặt khi đứng dậy, đo huyết áp tư thế cho thấy giảm rõ rệt cả tâm thu và tâm trương khi chuyển từ nằm sang đứng, không có bằng chứng mất nước hay xuất huyết.",
+      "questions": [
+        {
+          "q": "Trong nhóm thuốc chủ vận adrenergic, lựa chọn phù hợp nhất để cải thiện triệu chứng này là gì?",
+          "options": [
+            "Một thuốc chủ vận α2 trung ương",
+            "Một thuốc chủ vận β không chọn lọc",
+            "Một thuốc chủ vận β2 chọn lọc",
+            "Một thuốc chủ vận α1 chọn lọc ngoại biên"
+          ],
+          "answer": 3,
+          "explain": "Midodrine (α1 chọn lọc ngoại biên) làm co mạch, tăng sức cản ngoại biên, giúp duy trì huyết áp khi thay đổi tư thế."
+        },
+        {
+          "q": "Tác dụng phụ nào cần được tư vấn kỹ khi kê loại thuốc này, liên quan đến thời điểm dùng liều cuối trong ngày?",
+          "options": [
+            "Tăng huyết áp khi nằm nếu dùng gần giờ đi ngủ",
+            "Hạ đường huyết về đêm",
+            "Rối loạn nhịp tim chậm về đêm",
+            "Ức chế hô hấp về đêm"
+          ],
+          "answer": 0,
+          "explain": "Co mạch kéo dài khi nằm có thể gây tăng huyết áp khi nằm — nên tránh dùng liều cuối quá gần giờ ngủ."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ mổ lấy thai bị tụt huyết áp sau gây tê tủy sống",
+      "body": "<b>Hành chính:</b> Sản phụ.<br><br><b>Bệnh sử:</b> Mổ lấy thai dưới gây tê tủy sống, ngay sau gây tê huyết áp giảm còn 80/50 mmHg, mạch mẹ 88 l/p, tim thai theo dõi bình thường.",
+      "questions": [
+        {
+          "q": "So với một thuốc chủ vận hỗn hợp cổ điển từng dùng phổ biến trong tình huống này, một thuốc chủ vận α1 chọn lọc hiện được nhiều guideline ưu tiên hơn chủ yếu vì lý do nào?",
+          "options": [
+            "Có tác dụng giãn phế quản mạnh hơn hỗ trợ hô hấp mẹ",
+            "Có tác dụng an thần cho mẹ tốt hơn",
+            "Có thời gian bán hủy dài hơn nhiều lần",
+            "Ít ảnh hưởng chuyển hóa/toan-kiềm thai nhi hơn trong các nghiên cứu so sánh"
+          ],
+          "answer": 3,
+          "explain": "Phenylephrine ít ảnh hưởng chuyển hóa thai nhi hơn so với ephedrine trong các nghiên cứu so sánh sản khoa."
+        },
+        {
+          "q": "Nếu bệnh nhân này kèm nhịp tim mẹ chậm rõ (45 l/p) đi kèm tụt huyết áp, việc ưu tiên dùng thuốc chủ vận α1 chọn lọc đơn thuần có thể có bất lợi gì?",
+          "options": [
+            "Gây giãn phế quản quá mức ảnh hưởng hô hấp mẹ",
+            "Gây tăng đường huyết mẹ nghiêm trọng",
+            "Không có bất lợi nào vì thuốc luôn làm tăng nhịp tim",
+            "Có thể làm chậm nhịp tim thêm qua phản xạ áp thụ quan trong khi mẹ đã có nhịp chậm nền"
+          ],
+          "answer": 3,
+          "explain": "Chủ vận α1 thuần túy có thể gây phản xạ chậm nhịp qua baroreceptor, cần cân nhắc khi mẹ đã có nhịp chậm nền."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ 28 tuần tăng huyết áp thai kỳ mạn tính",
+      "body": "<b>Hành chính:</b> Thai phụ, 28 tuần.<br><br><b>Bệnh sử:</b> Tăng huyết áp thai kỳ mạn tính, huyết áp 150/100 mmHg, không có dấu hiệu tiền sản giật, cần điều trị duy trì lâu dài.",
+      "questions": [
+        {
+          "q": "So với một thuốc chủ vận α2 trung ương khác cũng có tác dụng hạ áp qua cơ chế trung ương, thuốc được ưu tiên hơn cho thai phụ này có điểm khác biệt dược lý nào quan trọng?",
+          "options": [
+            "Có thời gian tác dụng ngắn hơn nhiều nên dùng liều cao hơn",
+            "Có tác dụng trực tiếp trên thụ thể α2 thay vì thông qua chất chuyển hóa trung gian",
+            "Không qua được hàng rào máu não nên an toàn hơn",
+            "Tác dụng hạ áp thông qua chất chuyển hóa trung gian có ái lực với α2 trung ương, với dữ liệu an toàn dài hạn tốt hơn trong thai kỳ"
+          ],
+          "answer": 3,
+          "explain": "Methyldopa cần chuyển hóa thành α-methylnoradrenalin mới có tác dụng, khác cơ chế trực tiếp của clonidin, và có dữ liệu an toàn thai kỳ dài hạn tốt hơn."
+        },
+        {
+          "q": "Nếu thai phụ này có kèm trạng thái trầm cảm đang điều trị, điều gì cần cân nhắc khi lựa chọn giữa hai thuốc chủ vận α2 trung ương nói trên?",
+          "options": [
+            "Một trong hai thuốc có liên quan tác dụng an thần/trầm cảm rõ hơn cần thận trọng hơn",
+            "Trầm cảm không liên quan gì đến việc lựa chọn giữa hai thuốc",
+            "Cả hai đều chống chỉ định như nhau ở người có trầm cảm",
+            "Cả hai đều chống chỉ định tuyệt đối trong thai kỳ nếu có trầm cảm"
+          ],
+          "answer": 0,
+          "explain": "Cả hai đều có thể gây an thần/trầm cảm nhưng mức độ và bối cảnh lâm sàng ghi nhận khác nhau, cần thận trọng đánh giá riêng từng thuốc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi có triệu chứng hội chứng cai khi đang cai nghiện opioid",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Bệnh sử:</b> Đang cai nghiện opioid tại cơ sở y tế, xuất hiện vã mồ hôi, ngáp, giãn đồng tử, đau cơ, huyết áp tăng nhẹ so với nền.",
+      "questions": [
+        {
+          "q": "Thuốc chủ vận α2 trung ương được dùng hỗ trợ ở đây tác động chủ yếu theo cơ chế nào để giảm triệu chứng?",
+          "options": [
+            "Tăng giải phóng noradrenalin ra ngoại biên",
+            "Ức chế trực tiếp thụ thể opioid",
+            "Ức chế enzym MAO trung ương",
+            "Giảm phóng thích noradrenalin từ các nơron giao cảm trung ương ở hành não"
+          ],
+          "answer": 3,
+          "explain": "Clonidin kích thích α2 trung ương, làm giảm phóng thích NA từ hành não, giảm biểu hiện cường giao cảm của hội chứng cai."
+        },
+        {
+          "q": "Khi bệnh nhân chuẩn bị xuất viện, kế hoạch giảm liều thuốc này cần chú ý điều gì để tránh biến chứng?",
+          "options": [
+            "Có thể ngừng đột ngột mà không cần giảm liều từ từ",
+            "Không có nguy cơ nào liên quan đến cách ngừng thuốc",
+            "Cần tăng liều đột ngột trước khi ngừng",
+            "Cần giảm liều từ từ để tránh tăng huyết áp hồi ứng"
+          ],
+          "answer": 3,
+          "explain": "Ngừng đột ngột clonidin có nguy cơ THA hồi ứng — cần giảm liều từ từ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi cần an thần khi thở máy tại ICU",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi.<br><br><b>Tiền sử:</b> Bệnh phổi tắc nghẽn mạn tính nặng.<br><br><b>Bệnh sử:</b> Thở máy tại ICU sau phẫu thuật lớn, bác sĩ muốn an thần nhưng vẫn có thể đánh thức để đánh giá thần kinh định kỳ.",
+      "questions": [
+        {
+          "q": "So với các nhóm an thần khác thường dùng (opioid, benzodiazepine), một thuốc chủ vận α2 chọn lọc mạnh có ưu điểm nổi bật nào phù hợp với bệnh cảnh hô hấp của bệnh nhân?",
+          "options": [
+            "Không có tác dụng an thần nào đáng kể",
+            "Gây ức chế hô hấp mạnh hơn nhưng kiểm soát tốt hơn",
+            "Ít ức chế hô hấp trong khi vẫn đạt mức an thần phù hợp",
+            "Có tác dụng giãn phế quản trực tiếp mạnh"
+          ],
+          "answer": 2,
+          "explain": "Ưu điểm nổi bật là an thần có thể đánh thức và ít ức chế hô hấp, phù hợp bệnh nhân có bệnh phổi nền."
+        },
+        {
+          "q": "Trong quá trình truyền thuốc này, huyết động nào sau đây phù hợp nhất với tác dụng phụ đặc trưng của nhóm thuốc này (không phải do bệnh nền)?",
+          "options": [
+            "Hạ huyết áp và nhịp chậm",
+            "Tăng thân nhiệt ác tính",
+            "Tăng huyết áp và nhịp nhanh kéo dài",
+            "Co giật toàn thân"
+          ],
+          "answer": 0,
+          "explain": "Hạ huyết áp và nhịp chậm là ADR đặc trưng của nhóm chủ vận α2 trung ương mạnh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 50 tuổi bị sốc phản vệ khi đang dùng thuốc chẹn beta",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 50 tuổi.<br><br><b>Tiền sử:</b> Đang điều trị nền bằng một thuốc chẹn beta không chọn lọc.<br><br><b>Bệnh sử:</b> Bị sốc phản vệ sau khi ong đốt, đã tiêm adrenalin bắp đúng liều nhưng huyết áp không cải thiện, còn co thắt phế quản.",
+      "questions": [
+        {
+          "q": "Cơ chế hợp lý nhất giải thích đáp ứng kém với adrenalin trong tình huống này?",
+          "options": [
+            "Bệnh nhân dị ứng chéo với adrenalin",
+            "Liều adrenalin luôn luôn không đủ ở người lớn tuổi",
+            "Chẹn beta nền cản trở đáp ứng qua thụ thể β của adrenalin, bộc lộ ưu thế co mạch α1 không đối kháng",
+            "Adrenalin đã hết hạn sử dụng"
+          ],
+          "answer": 2,
+          "explain": "Chẹn beta nền cản trở tác dụng bù trừ qua β của adrenalin, khiến đáp ứng lâm sàng kém đi rõ rệt."
+        },
+        {
+          "q": "Thuốc nào có cơ chế tăng co bóp/tăng nhịp tim không phụ thuộc thụ thể β, có thể cân nhắc bổ sung trong tình huống kháng trị này?",
+          "options": [
+            "Aspirin liều cao",
+            "Một hormon polypeptide tác động qua thụ thể riêng ở gan/tim, hoạt hóa adenylcyclase theo con đường khác với thụ thể β-adrenergic",
+            "Thêm liều salbutamol đường uống",
+            "Diazepam liều cao"
+          ],
+          "answer": 1,
+          "explain": "Glucagon hoạt hóa adenylcyclase qua thụ thể riêng, không phụ thuộc thụ thể β, hữu ích khi chẹn beta cản trở đáp ứng với catecholamine."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi bị tái nhợt và đau vùng da quanh vị trí truyền vận mạch",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 35 tuổi.<br><br><b>Bệnh sử:</b> Đa chấn thương, đang truyền một thuốc vận mạch liều cao qua đường truyền tĩnh mạch ngoại vi ở cẳng tay, điều dưỡng phát hiện vùng da quanh vị trí truyền tái nhợt, lạnh, đau tăng dần trong 30 phút.",
+      "questions": [
+        {
+          "q": "Xử trí tại chỗ ưu tiên hàng đầu ngay khi phát hiện là gì?",
+          "options": [
+            "Ngừng truyền tại vị trí đó và tiêm thấm tại chỗ một thuốc đối kháng α",
+            "Tiếp tục truyền và theo dõi thêm 1 giờ trước khi can thiệp",
+            "Băng ép chặt vùng tổn thương và chườm đá",
+            "Tăng tốc độ truyền để duy trì huyết động"
+          ],
+          "answer": 0,
+          "explain": "Ngừng truyền và tiêm thấm thuốc đối kháng α (phentolamine) tại chỗ là xử trí chuẩn cho thoát mạch thuốc co mạch."
+        },
+        {
+          "q": "Thuốc vận mạch nào trong số các thuốc thường dùng có nguy cơ gây biến chứng này cao nhất khi truyền ngoại vi kéo dài?",
+          "options": [
+            "Một thuốc chỉ tác dụng chọn lọc trên β1, gần như không co mạch ngoại vi",
+            "Một thuốc chủ vận α2 trung ương liều thấp",
+            "Một thuốc chủ vận β2 chọn lọc dạng khí dung",
+            "Một thuốc có ái lực mạnh và cân bằng trên cả α1 và β1 với tác dụng co mạch trội qua liều dùng lâm sàng thông thường"
+          ],
+          "answer": 3,
+          "explain": "Norepinephrine có tác dụng co mạch α1 mạnh ở liều điều trị thông thường, nguy cơ hoại tử mô cao nếu thoát mạch."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ 6 tuổi bị dị ứng đậu phộng xuất hiện phản vệ",
+      "body": "<b>Hành chính:</b> Trẻ 6 tuổi, nặng 20 kg.<br><br><b>Tiền sử:</b> Dị ứng đậu phộng.<br><br><b>Bệnh sử:</b> Phù mặt, khó thở, thở rít, huyết áp 75/45 mmHg, đã có đường truyền tĩnh mạch.",
+      "questions": [
+        {
+          "q": "Theo nguyên tắc liều nhi khoa 0,01 mg/kg (dung dịch 1:1000, tối đa 0,3-0,5 mg/liều), liều tiêm bắp phù hợp nhất cho trẻ này là bao nhiêu?",
+          "options": [
+            "0,2 mg",
+            "0,1 mg",
+            "0,4 mg",
+            "0,6 mg"
+          ],
+          "answer": 0,
+          "explain": "0,01 mg/kg × 20 kg = 0,2 mg, nằm trong giới hạn liều tối đa cho phép ở trẻ em."
+        },
+        {
+          "q": "Nếu sau 2 liều tiêm bắp cách nhau 5-10 phút, huyết áp trẻ vẫn tụt nặng dù đã có đường truyền tĩnh mạch, hướng xử trí tiếp theo hợp lý nhất?",
+          "options": [
+            "Ngừng adrenalin hoàn toàn vì đã dùng đủ 2 liều",
+            "Cân nhắc chuyển sang truyền tĩnh mạch liên tục có theo dõi sát tại đơn vị hồi sức",
+            "Chuyển hẳn sang đường uống để duy trì tác dụng dài hơn",
+            "Tiếp tục chỉ dùng đường tiêm bắp thêm nhiều liều liên tiếp"
+          ],
+          "answer": 1,
+          "explain": "Khi đáp ứng kém với IM lặp lại và đã có đường truyền, chuyển sang truyền tĩnh mạch liên tục có giám sát chặt là hướng xử trí hợp lý."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi xuất hiện ngoại tâm thu thất khi phẫu thuật",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Bệnh sử:</b> Đang được gây mê bằng một thuốc mê nhóm halogen để phẫu thuật, phẫu thuật viên tiêm thấm thuốc tê phối hợp một chất co mạch tại vùng mổ, ngay sau đó xuất hiện ngoại tâm thu thất dày trên monitor.",
+      "questions": [
+        {
+          "q": "Cơ chế then chốt của biến chứng này là gì?",
+          "options": [
+            "Thuốc mê nhóm halogen làm cơ tim nhạy cảm hơn với tác dụng của catecholamine ngoại lai",
+            "Quá liều tuyệt đối thuốc tê tại chỗ",
+            "Phản ứng dị ứng tức thì với thuốc tê",
+            "Rối loạn điện giải cấp tính không liên quan thuốc"
+          ],
+          "answer": 0,
+          "explain": "Halogen làm tăng nhạy cảm cơ tim với catecholamine ngoại lai, dễ gây loạn nhịp thất khi phối hợp chất co mạch."
+        },
+        {
+          "q": "Nếu cần dùng thuốc chẹn beta để kiểm soát loạn nhịp thất trong bối cảnh này, đặc điểm dược động học nào của thuốc được chọn là quan trọng nhất?",
+          "options": [
+            "Thời gian tác dụng rất dài để duy trì hiệu quả lâu dài",
+            "Thời gian tác dụng rất ngắn để dễ điều chỉnh trong bối cảnh cấp tính",
+            "Tan mạnh trong mỡ để thấm nhanh vào thần kinh trung ương",
+            "Có hoạt tính nội tại kích thích thụ thể β mạnh"
+          ],
+          "answer": 1,
+          "explain": "Trong bối cảnh cấp cứu trong phòng mổ, một thuốc chẹn beta tác dụng rất ngắn giúp dễ chỉnh liều và ngừng nhanh nếu cần."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 30 tuổi dùng thuốc chủ vận beta2 lặp lại xuất hiện hạ kali máu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 30 tuổi.<br><br><b>Bệnh sử:</b> Hen phế quản mạn, đang dùng một thuốc chủ vận β2 tác dụng ngắn dạng khí dung lặp lại nhiều lần trong ngày để kiểm soát triệu chứng.<br><br><b>Xét nghiệm:</b> Kali máu thấp hơn bình thường.",
+      "questions": [
+        {
+          "q": "Cơ chế nào giải thích hợp lý nhất cho thay đổi kali máu này?",
+          "options": [
+            "Thuốc gây nôn mất kali qua đường tiêu hóa",
+            "Thuốc ức chế tái hấp thu kali ở ruột",
+            "Thuốc làm tăng thải kali qua ống thận",
+            "Thuốc kích thích bơm Na+/K+-ATPase khiến kali di chuyển vào nội bào"
+          ],
+          "answer": 3,
+          "explain": "β2 hoạt hóa bơm Na+/K+-ATPase, đẩy kali vào nội bào, không phải mất kali thực sự."
+        },
+        {
+          "q": "Nếu bệnh nhân này đồng thời đang dùng một thuốc lợi tiểu thải kali, điều gì cần đặc biệt lưu ý về mặt lâm sàng?",
+          "options": [
+            "Kali máu sẽ luôn tăng bù trừ trong tình huống này",
+            "Không có tương tác nào cần lưu ý giữa hai nhóm thuốc",
+            "Lợi tiểu thải kali sẽ hoàn toàn triệt tiêu tác dụng hạ kali của thuốc giãn phế quản",
+            "Nguy cơ hạ kali máu cộng gộp giữa hai cơ chế khác nhau (chuyển kali vào nội bào và mất kali qua thận)"
+          ],
+          "answer": 3,
+          "explain": "Hai cơ chế hạ kali khác nhau (chuyển vào nội bào do β2, và mất qua thận do lợi tiểu) có thể cộng gộp làm hạ kali nặng hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi bị nghẹt mũi mạn tính do lạm dụng thuốc nhỏ mũi co mạch",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Bệnh sử:</b> Nghẹt mũi mạn tính, tự dùng thuốc nhỏ mũi co mạch tại chỗ liên tục nhiều ngày, ghi nhận hiệu quả giảm dần dù đã tăng liều và tần suất dùng.",
+      "questions": [
+        {
+          "q": "Cơ chế hợp lý nhất giải thích hiện tượng giảm hiệu quả này là gì?",
+          "options": [
+            "Co mạch tại chỗ kéo dài dẫn đến hiện tượng giãn mạch hồi ứng khi hết tác dụng thuốc, gây vòng xoắn phụ thuộc thuốc",
+            "Thuốc bị chuyển hóa quá nhanh bởi enzym gan trước khi có tác dụng tại chỗ",
+            "Đáp ứng miễn dịch hình thành kháng thể trung hòa thuốc",
+            "Niêm mạc mũi bị tổn thương cấu trúc vĩnh viễn không hồi phục"
+          ],
+          "answer": 0,
+          "explain": "Sử dụng co mạch mũi tại chỗ kéo dài gây viêm mũi do thuốc với vòng xoắn co mạch-giãn mạch hồi ứng."
+        },
+        {
+          "q": "Nếu bệnh nhân đề nghị đổi sang dạng viên uống chứa cùng hoạt chất để tránh phụ thuộc thuốc nhỏ mũi, tư vấn nào phù hợp nhất dựa trên bằng chứng gần đây?",
+          "options": [
+            "Dạng uống có hiệu quả tương đương hoàn toàn với dạng tại chỗ nên có thể đổi ngay",
+            "Không có dạng uống nào chứa hoạt chất này trên thị trường",
+            "Dạng uống của hoạt chất này có bằng chứng hiệu quả rất hạn chế ở liều khuyến cáo do đặc điểm hấp thu-chuyển hóa, nên cân nhắc giải pháp khác",
+            "Dạng uống có nguy cơ gây nghiện cao hơn nhiều so với dạng tại chỗ"
+          ],
+          "answer": 2,
+          "explain": "Sinh khả dụng đường uống của phenylephrine rất thấp do chuyển hóa qua gan lần đầu mạnh, khiến hiệu quả lâm sàng hạn chế ở liều khuyến cáo."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 42 tuổi mắc Parkinson điều trị phối hợp levodopa",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 42 tuổi.<br><br><b>Tiền sử:</b> Parkinson đang điều trị phối hợp levodopa và một chất ức chế enzym ngoại biên.<br><br><b>Bệnh sử:</b> Kiểm soát triệu chứng khá tốt nhưng gần đây xuất hiện buồn nôn khi tăng liều levodopa đơn thuần trước đây.",
+      "questions": [
+        {
+          "q": "Vai trò dược lý học của chất ức chế enzym ngoại biên phối hợp cùng levodopa là gì?",
+          "options": [
+            "Ức chế enzym COMT ở gan để giảm chuyển hóa levodopa toàn thân",
+            "Kích thích trực tiếp thụ thể dopamine ở hạch nền",
+            "Ức chế enzym chuyển dopa thành dopamin ở ngoại biên, giữ lại nhiều levodopa hơn để vào não chuyển hóa, giảm ADR ngoại biên",
+            "Ức chế enzym MAO ở não để kéo dài tác dụng dopamin trung ương"
+          ],
+          "answer": 2,
+          "explain": "Chất ức chế dopa decarboxylase ngoại biên (như carbidopa) giữ levodopa không bị chuyển hóa sớm ở ngoại biên, giảm ADR như buồn nôn và tăng lượng vào não."
+        },
+        {
+          "q": "Enzym bị ức chế bởi chất phối hợp này nằm ở bước nào trong con đường sinh tổng hợp catecholamine nội sinh?",
+          "options": [
+            "DOPA → Dopamin",
+            "Noradrenalin → Adrenalin",
+            "Tyrosin → DOPA",
+            "Dopamin → Noradrenalin"
+          ],
+          "answer": 0,
+          "explain": "Carbidopa ức chế dopa decarboxylase, xúc tác bước DOPA → Dopamin."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 38 tuổi phản vệ sau tiêm kháng sinh đã ổn định",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 38 tuổi.<br><br><b>Bệnh sử:</b> Vào cấp cứu vì sốc phản vệ sau tiêm kháng sinh, được xử trí bằng adrenalin và ổn định sau 30 phút, các bác sĩ tranh luận về thời gian theo dõi tối thiểu trước khi cho xuất viện an toàn.",
+      "questions": [
+        {
+          "q": "Cơ sở dược lý-lâm sàng nào giải thích tại sao KHÔNG nên cho xuất viện ngay sau khi triệu chứng ổn định hoàn toàn?",
+          "options": [
+            "Adrenalin luôn cần liều nhắc lại theo lịch cố định mỗi vài giờ bất kể triệu chứng",
+            "Có khả năng xảy ra phản ứng phản vệ pha muộn (hai pha) sau một khoảng thời gian dù triệu chứng ban đầu đã hết",
+            "Tác dụng của adrenalin kéo dài liên tục nhiều giờ nên cần theo dõi tác dụng phụ",
+            "Do quy định hành chính của bệnh viện, không liên quan dược lý"
+          ],
+          "answer": 1,
+          "explain": "Nguy cơ phản vệ hai pha là lý do dược lý-lâm sàng chính đằng sau khuyến cáo theo dõi kéo dài sau ổn định."
+        },
+        {
+          "q": "Nếu triệu chứng tái phát sau khi xuất viện, bước xử trí ban đầu tại nhà quan trọng nhất trước khi đến cơ sở y tế là gì?",
+          "options": [
+            "Uống thuốc kháng histamin và tự theo dõi thêm vài giờ tại nhà",
+            "Chờ đến sáng hôm sau để đến khám theo lịch hẹn",
+            "Sử dụng lại adrenalin (bút tiêm tự động nếu có sẵn) ngay lập tức",
+            "Uống nhiều nước và nằm nghỉ tại chỗ"
+          ],
+          "answer": 2,
+          "explain": "Adrenalin vẫn là xử trí đầu tay ngay khi triệu chứng phản vệ tái phát, không nên trì hoãn."
+        }
+      ]
+    },
+    {
+      "title": "Vận động viên 24 tuổi có xét nghiệm doping dương tính sau dùng thuốc giảm cân",
+      "body": "<b>Hành chính:</b> Vận động viên điền kinh nữ, 24 tuổi.<br><br><b>Bệnh sử:</b> Bị phát hiện dương tính với một chất trong xét nghiệm kiểm tra doping sau giải đấu, khai đã dùng một loại thuốc không rõ nguồn gốc để hỗ trợ giảm cân trước thi đấu.",
+      "questions": [
+        {
+          "q": "Trong nhóm thuốc chủ vận adrenergic, chất nào phù hợp nhất với bệnh cảnh trên (gây chán ăn, bị cấm trong thi đấu, tác động mạnh lên tâm trạng/sự tỉnh táo)?",
+          "options": [
+            "Một chất chủ vận trực tiếp α1 chọn lọc dùng chống sung huyết mũi",
+            "Một chất cơ chế hỗn hợp/gián tiếp làm giải phóng monoamin nội sinh, thấm nhanh vào thần kinh trung ương",
+            "Một chất chủ vận β2 chọn lọc dùng giãn phế quản",
+            "Một chất chủ vận α2 trung ương dùng hạ áp"
+          ],
+          "answer": 1,
+          "explain": "Amphetamine giải phóng NA/dopamin/serotonin nội sinh, thấm nhanh vào não, gây chán ăn và bị cấm trong thi đấu."
+        },
+        {
+          "q": "So với ephedrine (cũng có cơ chế hỗn hợp giải phóng catecholamine), chất trong tình huống trên có điểm khác biệt dược lý nào khiến nó bị xếp vào nhóm nguy cơ lạm dụng/gây loạn thần cao hơn?",
+          "options": [
+            "Có thời gian bán hủy ngắn hơn ephedrine nhiều lần nên ít nguy cơ hơn",
+            "Chỉ tác dụng ngoại biên, không qua được hàng rào máu não",
+            "Thấm vào thần kinh trung ương nhanh và mạnh hơn rõ rệt, tác động trực tiếp lên hệ thống thưởng của não",
+            "Hoàn toàn không có tác dụng nào lên thần kinh trung ương"
+          ],
+          "answer": 2,
+          "explain": "Amphetamine thấm nhanh và mạnh vào TKTW hơn ephedrine, tác động rõ lên tâm trạng/hệ thưởng, giải thích nguy cơ lạm dụng cao hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi sốc nhiễm khuẩn có tiền sử rung nhĩ kịch phát",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Tiền sử:</b> Rung nhĩ kịch phát tái diễn nhiều lần.<br><br><b>Bệnh sử:</b> Sốc nhiễm khuẩn, cần khởi động thuốc vận mạch để nâng MAP.",
+      "questions": [
+        {
+          "q": "Giữa hai lựa chọn vận mạch có phổ tác dụng thụ thể khác nhau, lựa chọn nào có nguy cơ thúc đẩy cơn rung nhĩ tái phát thấp hơn ở liều đạt hiệu quả nâng MAP tương đương?",
+          "options": [
+            "Một thuốc có tác dụng β1 rất mạnh song song với α1",
+            "Một thuốc có tác dụng ưu thế α1, tác dụng β1 tương đối yếu hơn",
+            "Một thuốc chủ vận α2 trung ương đơn thuần",
+            "Một thuốc chủ vận β2 chọn lọc đơn thuần"
+          ],
+          "answer": 1,
+          "explain": "Norepinephrine có tác dụng β1 yếu hơn epinephrine ở liều tương đương hiệu quả co mạch, nên ít kích thích sinh loạn nhịp nhĩ hơn."
+        },
+        {
+          "q": "Nếu sau đó cần bổ sung một thuốc tăng co bóp tim để cải thiện cung lượng tim, nguy cơ tim mạch nào cần giám sát chặt chẽ nhất ở bệnh nhân có nền rung nhĩ này?",
+          "options": [
+            "Thuốc tăng co bóp gây block nhĩ thất hoàn toàn ngay lập tức",
+            "Thuốc tăng co bóp qua β1 có thể thúc đẩy thêm các rối loạn nhịp nhĩ/thất",
+            "Thuốc tăng co bóp qua β1 luôn ức chế hoàn toàn dẫn truyền nhĩ thất",
+            "Không có nguy cơ nhịp tim nào cần theo dõi thêm"
+          ],
+          "answer": 1,
+          "explain": "Kích thích β1 mạnh có thể thúc đẩy thêm rối loạn nhịp nhĩ/thất, cần theo dõi sát khi phối hợp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 55 tuổi chẩn đoán u tủy thượng thận chuẩn bị phẫu thuật",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 55 tuổi.<br><br><b>Bệnh sử:</b> Được chẩn đoán u tủy thượng thận (pheochromocytoma), đang được chuẩn bị trước phẫu thuật cắt bỏ khối u.",
+      "questions": [
+        {
+          "q": "Nguyên tắc chuẩn bị trước mổ về trình tự dùng thuốc phong tỏa thụ thể adrenergic là gì?",
+          "options": [
+            "Chỉ cần phong tỏa β là đủ, không cần phong tỏa α",
+            "Bắt đầu phong tỏa β trước, thêm phong tỏa α sau nếu cần",
+            "Bắt đầu phong tỏa thụ thể α trước, chỉ thêm phong tỏa β sau khi đã phong tỏa α đầy đủ nếu cần",
+            "Thứ tự dùng hai nhóm thuốc này không quan trọng về mặt lâm sàng"
+          ],
+          "answer": 2,
+          "explain": "Phong tỏa β trước khi đã phong tỏa α đầy đủ có thể để lại tác dụng co mạch α1 không đối kháng, làm nặng thêm tăng huyết áp — nguyên tắc kinh điển trong chuẩn bị mổ pheochromocytoma."
+        },
+        {
+          "q": "Trong lúc mổ, nếu thao tác phẫu thuật vào khối u gây phóng thích ồ ạt catecholamine dẫn đến cơn tăng huyết áp kịch phát, nhóm thuốc xử trí cấp phù hợp nhất là gì?",
+          "options": [
+            "Một thuốc chủ vận α2 trung ương liều thấp, tác dụng chậm",
+            "Thuốc đối kháng thụ thể α tác dụng nhanh đường tĩnh mạch",
+            "Một thuốc chủ vận β không chọn lọc liều cao",
+            "Thêm liều một catecholamine ngoại lai để 'trung hòa'"
+          ],
+          "answer": 1,
+          "explain": "Đối kháng α tác dụng nhanh đường tĩnh mạch là xử trí cấp phù hợp cho cơn THA kịch phát do phóng thích catecholamine ồ ạt trong mổ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi đợt cấp COPD dùng thuốc chủ vận beta2 liều cao",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 68 tuổi.<br><br><b>Tiền sử:</b> Bệnh mạch vành ổn định.<br><br><b>Bệnh sử:</b> COPD giai đoạn nặng đang trong đợt cấp, được chỉ định khí dung một thuốc chủ vận β2 tác dụng ngắn liều cao lặp lại nhiều lần.",
+      "questions": [
+        {
+          "q": "Nguy cơ tim mạch cụ thể nào cần cân nhắc kỹ ở bệnh nhân này khi dùng liều cao lặp lại?",
+          "options": [
+            "Nhịp tim nhanh và tăng nhu cầu oxy cơ tim có thể thúc đẩy thiếu máu cơ tim tiềm ẩn",
+            "Không có nguy cơ tim mạch nào cần cân nhắc thêm ở liều cao",
+            "Nguy cơ chậm nhịp tim nặng đe dọa tính mạng",
+            "Nguy cơ block nhĩ thất hoàn toàn cấp tính"
+          ],
+          "answer": 0,
+          "explain": "Ở liều cao/lặp lại, dù chọn lọc β2, vẫn có tác dụng β1 phụ đủ để gây nhịp nhanh, tăng MVO2, nguy cơ cho bệnh nhân mạch vành."
+        },
+        {
+          "q": "Nếu muốn cân nhắc đổi sang một thuốc trong cùng nhóm SABA nhưng có tính chọn lọc tương đối cao hơn trên β2 (ít ảnh hưởng β1 hơn), cơ sở dược lý học để so sánh giữa các thuốc là gì?",
+          "options": [
+            "Khả năng qua được hàng rào máu não của từng thuốc",
+            "Mức độ chọn lọc tương đối trên thụ thể β2 so với β1 ở liều điều trị thông thường",
+            "Cấu trúc có chứa vòng benzen hay không",
+            "Thời gian bảo quản thuốc ở nhiệt độ phòng"
+          ],
+          "answer": 1,
+          "explain": "Mức độ chọn lọc tương đối β2/β1 là cơ sở dược lý chính để so sánh nguy cơ tim mạch giữa các thuốc cùng nhóm SABA."
+        }
+      ]
+    }
+  ]
+}
