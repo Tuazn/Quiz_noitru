@@ -1,0 +1,560 @@
+{
+  "name": "Thuốc Glucocorticoid (AI gen) MCQ Up",
+  "description": "Tập hợp 50 câu hỏi trắc nghiệm dược lý chuyên sâu, phân tích luận lý về Thuốc Glucocorticoid.",
+  "level": "Nâng cao - Ôn thi Bác sĩ Nội trú — Y6",
+  "type": "mcq",
+  "category": "Cơ sở",
+  "subcategory": "Dược lý",
+  "questions": [
+    {
+      "q": "Một bệnh nhân đang dùng hydrocortison 30 mg/ngày (chia 3 lần) cần chuyển sang prednisolon để dùng liều duy nhất buổi sáng. Liều prednisolon tương đương gần nhất là bao nhiêu?",
+      "options": [
+        "5 mg/ngày",
+        "7,5 mg/ngày",
+        "10 mg/ngày",
+        "15 mg/ngày"
+      ],
+      "answer": 1,
+      "explain": "20 mg hydrocortison ~ 5 mg prednisolon, vậy 30 mg hydrocortison ~ 7,5 mg prednisolon (30/20 × 5 = 7,5 mg)."
+    },
+    {
+      "q": "So sánh hoạt tính mineralocorticoid giữa prednisolon và methylprednisolon ở liều tương đương hoạt tính glucocorticoid, nhận định nào đúng?",
+      "options": [
+        "Prednisolon có hoạt tính giữ muối cao hơn methylprednisolon",
+        "Methylprednisolon có hoạt tính giữ muối cao hơn prednisolon",
+        "Cả hai có hoạt tính giữ muối bằng nhau và đáng kể",
+        "Cả hai đều không có bất kỳ hoạt tính mineralocorticoid nào"
+      ],
+      "answer": 0,
+      "explain": "Prednisolon còn giữ một phần hoạt tính mineralocorticoid (hoạt tính MC ~0,8), trong khi methylprednisolon gần như không còn hoạt tính này (MC ~0) do nhóm 6α-methyl."
+    },
+    {
+      "q": "Một bệnh nhân dùng dexamethason liều cao kéo dài đột ngột được đổi phác đồ sang hydrocortison ở liều tương đương hoạt tính glucocorticoid. Thay đổi nào KHÔNG được mong đợi chỉ từ việc đổi thuốc này?",
+      "options": [
+        "Cần chia liều thành nhiều lần trong ngày do t½ ngắn hơn",
+        "Xuất hiện thêm tác dụng giữ muối/nước rõ hơn do hoạt tính mineralocorticoid cao hơn",
+        "Trục HPA lập tức phục hồi hoàn toàn ngay khi đổi thuốc",
+        "Cần theo dõi lại đáp ứng lâm sàng vì đặc tính dược động học khác nhau"
+      ],
+      "answer": 2,
+      "explain": "Đổi loại thuốc ở liều tương đương KHÔNG làm trục HPA phục hồi ngay lập tức — phục hồi trục HPA phụ thuộc thời gian và mức độ ức chế tích lũy trước đó, không phải do đổi tên thuốc."
+    },
+    {
+      "q": "Xét về mặt cơ chế, tại sao NSAID không ức chế được tổng hợp leucotrien trong khi glucocorticoid thì có?",
+      "options": [
+        "NSAID và GC đều ức chế cùng một enzym nên hiệu quả như nhau trên leucotrien",
+        "NSAID chỉ ức chế cyclo-oxygenase (nhánh sau), trong khi GC ức chế phospholipase A2 (bước thượng nguồn tạo acid arachidonic, ảnh hưởng cả hai nhánh)",
+        "NSAID ức chế lipoxygenase trực tiếp nhưng với hiệu lực yếu hơn GC",
+        "Leucotrien không được tổng hợp từ acid arachidonic nên không nhóm thuốc nào ức chế được"
+      ],
+      "answer": 1,
+      "explain": "NSAID chỉ tác động ở bước cyclo-oxygenase (nhánh tạo prostaglandin), trong khi GC tác động ở bước thượng nguồn (ức chế phospholipase A2 qua lipocortin-1), ảnh hưởng đến nguồn cung cấp acid arachidonic cho cả hai nhánh cyclo-oxygenase và lipoxygenase."
+    },
+    {
+      "q": "Một bệnh nhân có nồng độ CBG (transcortin) huyết tương giảm do bệnh lý nền, trong khi cortisol toàn phần đo được ở mức 'bình thường thấp'. Diễn giải nào phù hợp nhất?",
+      "options": [
+        "Cortisol toàn phần luôn phản ánh chính xác hoạt tính sinh học bất kể nồng độ CBG",
+        "Cortisol tự do (có hoạt tính sinh học) có thể vẫn bình thường hoặc thậm chí cao hơn biểu kiến, dù cortisol toàn phần đo được thấp do giảm CBG",
+        "Giảm CBG luôn đồng nghĩa với suy thượng thận thực sự",
+        "Nồng độ CBG không ảnh hưởng đến diễn giải xét nghiệm cortisol toàn phần"
+      ],
+      "answer": 1,
+      "explain": "Vì phần lớn cortisol gắn với CBG, khi CBG giảm, cortisol TOÀN PHẦN đo được có thể thấp hơn thực tế dù cortisol TỰ DO (có hoạt tính) vẫn bình thường — đây là một bẫy diễn giải xét nghiệm kinh điển, cần thận trọng khi có bệnh lý ảnh hưởng CBG (viêm nặng, xơ gan, hội chứng thận hư)."
+    },
+    {
+      "q": "Tại sao liều pulse glucocorticoid (≥250 mg/ngày PE) có thể cho hiệu quả lâm sàng chỉ trong vài giờ, sớm hơn nhiều so với khung thời gian thường được mô tả cho cơ chế qua gen?",
+      "options": [
+        "Vì liều pulse được hấp thu nhanh hơn nhiều lần so với liều thường quy qua cùng đường dùng",
+        "Vì ở liều rất cao, cơ chế ngoài gen qua thụ thể màng được huy động thêm, tạo hiệu quả nhanh song song với cơ chế qua gen đang diễn ra",
+        "Vì liều pulse chuyển hoàn toàn sang cơ chế dược lý khác không liên quan đến thụ thể glucocorticoid",
+        "Vì liều pulse có thời gian bán thải dài hơn nhiều so với liều thường quy"
+      ],
+      "answer": 1,
+      "explain": "Ở liều rất cao, cơ chế ngoài gen (qua thụ thể màng mGR) được huy động thêm bên cạnh cơ chế qua gen kinh điển, giải thích hiệu quả khởi phát nhanh hơn (vài phút–giờ) mà cơ chế qua gen đơn thuần không thể đạt được."
+    },
+    {
+      "q": "Vì sao việc dùng liều glucocorticoid duy nhất vào buổi sáng ít gây ức chế trục HPA hơn so với cùng liều đó chia đều nhiều lần trong ngày?",
+      "options": [
+        "Vì tổng liều buổi sáng nhỏ hơn tổng liều chia nhiều lần dù về số học bằng nhau",
+        "Vì liều buổi sáng trùng với đỉnh tiết cortisol sinh lý, ít làm lệch nhịp ngày đêm hơn, trong khi liều buổi tối/chia nhiều lần duy trì nồng độ cao vào thời điểm cortisol sinh lý thấp gây ức chế ACTH kéo dài hơn",
+        "Vì cơ thể chỉ hấp thu thuốc vào buổi sáng, các liều khác trong ngày không được hấp thu",
+        "Không có sự khác biệt thực sự, đây chỉ là quy ước không có cơ sở sinh lý"
+      ],
+      "answer": 1,
+      "explain": "Liều buổi sáng trùng với đỉnh cortisol sinh lý tự nhiên, ít làm lệch nhịp tiết ACTH; ngược lại, có nồng độ GC cao vào buổi tối (thời điểm cortisol nội sinh thấp) sẽ ức chế ACTH kéo dài hơn qua đêm — đây là cơ sở sinh lý học của nguyên tắc dùng liều buổi sáng."
+    },
+    {
+      "q": "Đặc điểm dược động học nào giải thích vì sao dexamethason được ưu tiên hơn hydrocortison trong nghiệm pháp ức chế qua đêm để sàng lọc hội chứng Cushing?",
+      "options": [
+        "Dexamethason có ái lực với thụ thể glucocorticoid thấp hơn hydrocortison nên ức chế ACTH hiệu quả hơn",
+        "Dexamethason hầu như không phản ứng chéo với hầu hết xét nghiệm miễn dịch định lượng cortisol, nên không gây nhiễu kết quả đo cortisol nội sinh",
+        "Dexamethason có thời gian bán thải ngắn hơn hydrocortison nên đào thải nhanh trước khi lấy máu",
+        "Dexamethason được hấp thu kém hơn qua đường uống nên ít ảnh hưởng đến trục HPA"
+      ],
+      "answer": 1,
+      "explain": "Lý do chính chọn dexamethason cho nghiệm pháp là nó không gây nhiễu (không phản ứng chéo) với hầu hết phương pháp định lượng miễn dịch cortisol, cho phép đo chính xác cortisol nội sinh còn lại sau ức chế — không liên quan đến ái lực thụ thể hay hấp thu kém."
+    },
+    {
+      "q": "Một glucocorticoid X có hoạt tính mineralocorticoid cao nhưng hoạt tính chống viêm tương đối thấp so với hydrocortison. Đặc điểm này gợi ý X gần giống với thuốc/nhóm chất nào nhất về mặt hoạt tính tương đối?",
+      "options": [
+        "Dexamethason",
+        "Fludrocortison",
+        "Methylprednisolon",
+        "Triamcinolon"
+      ],
+      "answer": 1,
+      "explain": "Fludrocortison là một glucocorticoid tổng hợp nhưng được dùng chủ yếu VÌ hoạt tính mineralocorticoid rất mạnh (do Fluor 9α không bị triệt tiêu bởi nhóm thế vòng D), trong khi hoạt tính chống viêm không phải là mục đích sử dụng chính của thuốc này trên lâm sàng."
+    },
+    {
+      "q": "Vì sao ở bệnh nhân suy thận mạn giai đoạn cuối, việc chỉnh liều glucocorticoid theo mức lọc cầu thận (giống như nhiều thuốc thải trừ qua thận khác) thường KHÔNG cần thiết?",
+      "options": [
+        "Vì glucocorticoid không được thải trừ qua thận dưới bất kỳ hình thức nào",
+        "Vì các chất chuyển hóa của glucocorticoid đã mất hoạt tính sinh học trước khi thải trừ qua thận, nên tích lũy chất chuyển hóa không gây tăng tác dụng dược lý tương ứng như thuốc mẹ còn hoạt tính",
+        "Vì suy thận làm tăng chuyển hóa glucocorticoid tại gan bù trừ hoàn toàn",
+        "Vì glucocorticoid chỉ thải trừ qua mật, hoàn toàn không liên quan đến chức năng thận"
+      ],
+      "answer": 1,
+      "explain": "Glucocorticoid được chuyển hóa tại gan thành các chất liên hợp sulfo-/glycuro- KHÔNG còn hoạt tính trước khi thải trừ qua thận — dù suy thận có thể làm tích lũy các chất chuyển hóa này, chúng không còn hoạt tính dược lý nên không cần chỉnh liều thuốc mẹ theo mức lọc cầu thận như nhiều thuốc khác."
+    },
+    {
+      "q": "Trong một nghiên cứu so sánh, nhóm dùng glucocorticoid liều thấp kéo dài (2,5–7,5 mg/ngày PE) trong nhiều năm vẫn ghi nhận tăng nguy cơ biến cố tim mạch so với nhóm chứng không dùng thuốc. Điều này thách thức quan niệm nào thường gặp trên lâm sàng?",
+      "options": [
+        "Quan niệm rằng chỉ liều cao mới có ý nghĩa lâm sàng về nguy cơ, còn liều thấp kéo dài được xem là 'an toàn tương đối' không đáng lo ngại",
+        "Quan niệm rằng glucocorticoid liều thấp có hoạt tính chống viêm mạnh hơn liều cao",
+        "Quan niệm rằng glucocorticoid liều thấp không có hoạt tính mineralocorticoid",
+        "Quan niệm rằng chỉ đường tiêm mới gây tác dụng phụ tim mạch, đường uống thì không"
+      ],
+      "answer": 0,
+      "explain": "Nhiều bác sĩ lâm sàng có xu hướng xem liều thấp kéo dài là 'tương đối an toàn'; tuy nhiên bằng chứng cho thấy ngay cả liều thấp dùng kéo dài vẫn tích lũy nguy cơ tim mạch đáng kể, củng cố nguyên tắc cần đánh giá lại định kỳ chỉ định dùng thuốc dù ở liều thấp."
+    },
+    {
+      "q": "Ở một bệnh nhân đang dùng liều glucocorticoid ổn định, việc khởi động đồng thời một thuốc cảm ứng CYP3A4 mạnh (như rifampicin) trong khi KHÔNG điều chỉnh liều glucocorticoid có thể dẫn đến hậu quả lâm sàng nào dễ bị bỏ sót nhất?",
+      "options": [
+        "Ngộ độc glucocorticoid cấp tính do tích lũy thuốc",
+        "Mất kiểm soát bệnh nền do giảm hiệu quả glucocorticoid (không phải do liều 'không đủ' từ đầu mà do tương tác mới xuất hiện), dễ bị nhầm là bệnh nền tiến triển tự nhiên",
+        "Suy thượng thận cấp do quá liều tương đối",
+        "Hạ đường huyết do tăng chuyển hóa glucocorticoid làm mất tác dụng tăng đường huyết"
+      ],
+      "answer": 1,
+      "explain": "Cảm ứng CYP3A4 làm tăng chuyển hóa/giảm nồng độ GC, có thể biểu hiện như bệnh nền 'tái phát' hoặc 'không đáp ứng điều trị' — dễ bị nhầm lẫn là bệnh tự nhiên xấu đi hơn là hậu quả của một tương tác thuốc mới xuất hiện, nếu không rà soát lại các thuốc mới thêm vào."
+    },
+    {
+      "q": "Xét nghiệm cortisol máu ngẫu nhiên (không phải buổi sáng) cho kết quả 'trong giới hạn bình thường tổng quát của xét nghiệm' ở một bệnh nhân nghi ngờ suy thượng thận. Nhận định nào về giá trị của kết quả này là chính xác nhất?",
+      "options": [
+        "Kết quả này luôn loại trừ chắc chắn suy thượng thận bất kể thời điểm lấy máu",
+        "Do cortisol có nhịp tiết ngày đêm rõ rệt, một giá trị 'bình thường' đo không đúng thời điểm chuẩn (buổi sáng) có giá trị chẩn đoán hạn chế hơn nhiều so với mẫu buổi sáng chuẩn hóa",
+        "Cortisol không có nhịp ngày đêm nên thời điểm lấy máu không quan trọng",
+        "Kết quả này có giá trị chẩn đoán ngang bằng hoàn toàn với mẫu lấy đúng 8 giờ sáng"
+      ],
+      "answer": 1,
+      "explain": "Cortisol có nhịp tiết ngày đêm rõ rệt (cao nhất vào sáng sớm, giảm dần trong ngày); các ngưỡng chẩn đoán chuẩn hóa (như <3 hay >15 µg/dL) được xây dựng dựa trên mẫu LẤY VÀO BUỔI SÁNG — một giá trị 'bình thường' đo vào thời điểm khác trong ngày không thể diễn giải bằng các ngưỡng này và có giá trị chẩn đoán hạn chế hơn."
+    },
+    {
+      "q": "Vì sao việc phối hợp một thuốc ức chế CYP3A4 mạnh với budesonide hoặc fluticasone dạng HÍT vẫn có thể gây hội chứng Cushing toàn thân, dù các thuốc này được thiết kế để có sinh khả dụng toàn thân thấp?",
+      "options": [
+        "Vì dạng hít hoàn toàn không được hấp thu vào tuần hoàn nên tương tác này không thể xảy ra trên thực tế",
+        "Vì phần nhỏ thuốc được hấp thu toàn thân (qua phổi và phần nuốt vào) vẫn bị ảnh hưởng bởi ức chế CYP3A4, khi thanh thải giảm mạnh, phần nhỏ này có thể tích lũy đủ để gây tác dụng toàn thân đáng kể",
+        "Vì thuốc ức chế CYP3A4 làm tăng trực tiếp hấp thu thuốc qua đường hô hấp",
+        "Vì fluticasone/budesonide dạng hít không hề qua chuyển hóa CYP3A4 nên không liên quan đến cơ chế này"
+      ],
+      "answer": 1,
+      "explain": "Dù sinh khả dụng toàn thân của GC hít vốn thấp, phần nhỏ được hấp thu (qua phổi và phần nuốt) vẫn phụ thuộc chuyển hóa CYP3A4 để thanh thải; khi thuốc ức chế CYP3A4 mạnh làm giảm đáng kể thanh thải này, ngay cả một lượng nhỏ ban đầu cũng có thể tích lũy đủ theo thời gian để gây tác dụng toàn thân đáng kể (đã ghi nhận trên lâm sàng, đặc biệt với ritonavir)."
+    },
+    {
+      "q": "Trong đánh giá nguy cơ ức chế trục HPA, tại sao 'liều tích lũy' (cumulative dose) đôi khi là yếu tố dự báo kém tin cậy hơn 'kiểu hình phơi nhiễm theo thời gian' (ví dụ liều cao ngắn ngày lặp lại nhiều đợt so với liều thấp liên tục)?",
+      "options": [
+        "Vì liều tích lũy luôn là yếu tố duy nhất quan trọng, không có yếu tố nào khác cần xem xét",
+        "Vì cùng một tổng liều tích lũy có thể được phân bố theo những kiểu hình rất khác nhau (liên tục vs ngắt quãng, buổi sáng vs buổi tối), và chính kiểu hình phơi nhiễm — không chỉ tổng liều — ảnh hưởng đến mức độ ức chế trục HPA",
+        "Vì liều tích lũy chỉ có ý nghĩa với đường tiêm, không có ý nghĩa với đường uống",
+        "Vì trục HPA không bị ảnh hưởng bởi tổng liều mà chỉ bởi liều của lần dùng gần nhất"
+      ],
+      "answer": 1,
+      "explain": "Hai bệnh nhân có cùng tổng liều tích lũy nhưng phân bố khác nhau theo thời gian (ví dụ liên tục hàng ngày so với các đợt ngắn ngắt quãng, hoặc dùng buổi sáng so với buổi tối) có thể có mức độ ức chế trục HPA rất khác nhau — do đó chỉ nhìn vào tổng liều tích lũy đơn thuần có thể đánh giá sai nguy cơ thực tế."
+    },
+    {
+      "q": "Một glucocorticoid có ái lực gắn thụ thể GR mạnh nhưng bị chuyển hóa/thải trừ rất nhanh sẽ có đặc điểm dược lý lâm sàng gì đáng chú ý so với một thuốc có ái lực tương tự nhưng thải trừ chậm?",
+      "options": [
+        "Thuốc thải trừ nhanh sẽ luôn có hoạt tính chống viêm mạnh hơn thuốc thải trừ chậm",
+        "Thuốc thải trừ nhanh có thể cần dùng liều thường xuyên hơn hoặc liều cao hơn để duy trì hiệu quả tương đương, dù ái lực thụ thể (yếu tố dược lực học) là như nhau",
+        "Thời gian bán thải hoàn toàn không ảnh hưởng đến chế độ liều dùng nếu ái lực thụ thể đã đủ mạnh",
+        "Thuốc thải trừ nhanh sẽ không bao giờ gây ức chế trục HPA bất kể liều dùng"
+      ],
+      "answer": 1,
+      "explain": "Ái lực thụ thể (dược lực học) và tốc độ thải trừ (dược động học) là hai yếu tố độc lập; một thuốc ái lực mạnh nhưng thải trừ nhanh cần được dùng thường xuyên hơn hoặc liều cao hơn để duy trì hiệu quả lâm sàng tương đương so với thuốc thải trừ chậm có cùng ái lực."
+    },
+    {
+      "q": "Vì sao việc đánh giá 'đáp ứng lâm sàng nhanh với glucocorticoid' không nên được dùng làm tiêu chuẩn duy nhất để chẩn đoán phân biệt giữa các bệnh lý viêm khác nhau?",
+      "options": [
+        "Vì glucocorticoid có phổ tác dụng kháng viêm/ức chế miễn dịch rộng, có thể cải thiện triệu chứng ở nhiều bệnh lý viêm có cơ chế khác nhau, nên đáp ứng dương tính không đặc hiệu cho một chẩn đoán cụ thể",
+        "Vì glucocorticoid chỉ có tác dụng trên một bệnh lý viêm duy nhất nên đáp ứng luôn đặc hiệu",
+        "Vì glucocorticoid không có tác dụng thực sự trên bất kỳ bệnh viêm nào, đáp ứng lâm sàng chỉ là hiệu ứng giả dược",
+        "Vì tốc độ đáp ứng luôn giống hệt nhau ở mọi bệnh lý viêm nên không có giá trị phân biệt"
+      ],
+      "answer": 0,
+      "explain": "Do cơ chế kháng viêm/ức chế miễn dịch phổ rộng, glucocorticoid có thể cải thiện triệu chứng ở nhiều bệnh lý viêm khác nhau (không đặc hiệu cho một chẩn đoán) — đáp ứng lâm sàng có thể hỗ trợ nhưng không nên là tiêu chuẩn chẩn đoán duy nhất, cần kết hợp với các đặc điểm lâm sàng-cận lâm sàng đặc hiệu khác."
+    },
+    {
+      "q": "Trong bối cảnh dự phòng loét dạ dày ở bệnh nhân phối hợp NSAID và glucocorticoid, việc chỉ dựa vào 'liều glucocorticoid hiện tại' để quyết định dự phòng mà bỏ qua các yếu tố khác có thể dẫn đến sai lầm gì?",
+      "options": [
+        "Không có sai lầm nào vì liều glucocorticoid là yếu tố duy nhất quyết định nguy cơ loét",
+        "Đánh giá thấp nguy cơ ở bệnh nhân có thêm các yếu tố khác (tiền sử loét, tuổi cao, dùng đồng thời thuốc chống đông) dù liều glucocorticoid hiện tại không cao, dẫn đến bỏ sót chỉ định dự phòng cần thiết",
+        "Đánh giá quá cao nguy cơ ở mọi bệnh nhân bất kể các yếu tố khác",
+        "Sai lầm chỉ xảy ra theo chiều ngược lại, tức luôn chỉ định dự phòng thừa"
+      ],
+      "answer": 1,
+      "explain": "Nguy cơ loét/xuất huyết tiêu hóa khi phối hợp NSAID-glucocorticoid là tổng hợp của nhiều yếu tố (tiền sử loét, tuổi, thuốc chống đông đi kèm...), không chỉ riêng liều glucocorticoid hiện tại — chỉ nhìn vào một yếu tố đơn lẻ có thể bỏ sót các bệnh nhân nguy cơ cao cần dự phòng dù liều GC không cao."
+    },
+    {
+      "q": "Một glucocorticoid dạng bôi da được đóng gói ở dạng thuốc mỡ (ointment) so với dạng kem (cream) cùng hoạt chất, cùng nồng độ, có đặc điểm hấp thu khác nhau như thế nào và điều này ảnh hưởng gì đến lựa chọn lâm sàng?",
+      "options": [
+        "Dạng thuốc mỡ và kem luôn có mức hấp thu giống hệt nhau nên có thể thay thế cho nhau tùy ý",
+        "Dạng thuốc mỡ (nền dầu) thường có khả năng giữ ẩm/tăng hấp thu qua da khô hơn dạng kem (nền nước), ảnh hưởng đến lựa chọn theo tình trạng da (da khô vs tổn thương có dịch rỉ) chứ không chỉ theo sở thích",
+        "Dạng kem luôn hấp thu mạnh hơn thuốc mỡ trong mọi trường hợp",
+        "Dạng bào chế không ảnh hưởng gì đến quyết định lâm sàng, chỉ hoạt chất và nồng độ mới quan trọng"
+      ],
+      "answer": 1,
+      "explain": "Nền thuốc mỡ (dầu) phù hợp hơn cho da khô, dày sừng (tăng hấp thu qua giữ ẩm), trong khi dạng kem (nước) phù hợp hơn cho tổn thương da mềm/có dịch rỉ — lựa chọn dạng bào chế cần dựa vào đặc điểm tổn thương da, không chỉ vào hoạt chất/nồng độ."
+    },
+    {
+      "q": "Vì sao ở người cao tuổi, cùng một liều glucocorticoid có thể tạo ra mức phơi nhiễm toàn thân và nguy cơ tác dụng phụ cao hơn so với người trẻ, ngay cả khi chức năng gan-thận trên xét nghiệm còn trong giới hạn 'bình thường theo tuổi'?",
+      "options": [
+        "Vì gan người cao tuổi luôn chuyển hóa thuốc nhanh hơn người trẻ",
+        "Vì có sự suy giảm dự trữ chức năng chuyển hóa/thải trừ theo tuổi dù các chỉ số xét nghiệm thường quy (creatinin, men gan) chưa phản ánh đầy đủ, cộng thêm các bệnh đồng mắc và đa thuốc phối hợp làm tăng nguy cơ tương tác",
+        "Vì người cao tuổi luôn có albumin máu cao hơn người trẻ nên glucocorticoid tự do giảm đi",
+        "Không có sự khác biệt thực sự nào, đây chỉ là định kiến lâm sàng không có cơ sở dược lý"
+      ],
+      "answer": 1,
+      "explain": "Người cao tuổi thường có suy giảm dự trữ chức năng chuyển hóa/thải trừ ở mức độ tinh vi mà xét nghiệm thường quy chưa bộc lộ rõ, đồng thời thường có nhiều bệnh đồng mắc và dùng nhiều thuốc phối hợp (tăng nguy cơ tương tác CYP3A4) — các yếu tố này cộng gộp làm tăng phơi nhiễm và nguy cơ tác dụng phụ dù xét nghiệm gan-thận 'bình thường theo tuổi'."
+    },
+    {
+      "q": "Trong quản lý dài hạn một bệnh nhân phụ thuộc glucocorticoid liều thấp-trung bình, việc chỉ theo dõi 'đường huyết đói' định kỳ mà không tầm soát thêm có thể bỏ sót loại rối loạn đường huyết nào đặc trưng do cơ chế tác dụng của thuốc?",
+      "options": [
+        "Hạ đường huyết đói nặng, vì đây là biểu hiện điển hình và duy nhất cần theo dõi",
+        "Tăng đường huyết sau ăn (postprandial) hoặc rối loạn dung nạp glucose có thể nổi trội hơn tăng đường huyết đói ở giai đoạn sớm, do cơ chế GC ảnh hưởng nhiều đến sử dụng glucose ngoại vi sau bữa ăn",
+        "Không có loại rối loạn đường huyết nào khác ngoài tăng đường huyết đói cần quan tâm",
+        "Chỉ cần theo dõi HbA1c là đủ, đường huyết đói hoàn toàn không cần thiết"
+      ],
+      "answer": 1,
+      "explain": "GC gây đề kháng insulin ở mô ngoại vi rõ hơn ở giai đoạn sau ăn (khi nhu cầu sử dụng glucose ngoại vi cao), nên tăng đường huyết sau ăn/rối loạn dung nạp glucose có thể xuất hiện SỚM HƠN và rõ hơn tăng đường huyết đói — chỉ theo dõi đường huyết đói đơn thuần có thể bỏ sót giai đoạn sớm của rối loạn chuyển hóa glucose do GC."
+    },
+    {
+      "q": "Một bệnh nhân dùng glucocorticoid kéo dài có tiền sử viêm gan B mạn không hoạt động (HBsAg dương tính, HBV-DNA không phát hiện được, không cần điều trị kháng virus trước đó). Việc bắt đầu glucocorticoid liều ức chế miễn dịch có thể ảnh hưởng gì đến tình trạng này mà dễ bị bỏ qua nếu chỉ dựa vào 'không cần điều trị kháng virus trước đó'?",
+      "options": [
+        "Không ảnh hưởng gì vì viêm gan B 'không hoạt động' đồng nghĩa đã khỏi hoàn toàn vĩnh viễn",
+        "Ức chế miễn dịch do glucocorticoid có thể làm tái hoạt HBV dù trước đó ở trạng thái không hoạt động, cần đánh giá lại và cân nhắc dự phòng kháng virus khi bắt đầu liệu trình ức chế miễn dịch mới, không dựa mãi vào đánh giá cũ",
+        "Chỉ cần theo dõi men gan định kỳ là đủ, không cần cân nhắc lại chỉ định kháng virus dự phòng",
+        "Glucocorticoid chỉ ảnh hưởng đến viêm gan B hoạt động, hoàn toàn không liên quan đến thể không hoạt động"
+      ],
+      "answer": 1,
+      "explain": "Trạng thái 'không hoạt động' của HBV có thể thay đổi khi bắt đầu một liệu trình ức chế miễn dịch mới (như glucocorticoid liều cao/kéo dài) — cần đánh giá LẠI nguy cơ tái hoạt và cân nhắc dự phòng kháng virus tại thời điểm bắt đầu điều trị mới, không dựa vào đánh giá cũ trước đó khi chưa có yếu tố ức chế miễn dịch này."
+    },
+    {
+      "q": "Vì sao việc giảm liều glucocorticoid quá nhanh ở một bệnh nhân đã dùng liều cao rất lâu năm có thể gây triệu chứng ngay cả khi liều sau giảm vẫn còn trên mức sinh lý (chưa xuống đến liều thay thế)?",
+      "options": [
+        "Vì cơ thể đã 'quen' với nồng độ glucocorticoid cao hơn, nên giảm liều đột ngột dù vẫn trên mức sinh lý vẫn có thể gây hội chứng cai glucocorticoid (không phải do thiếu hụt tuyệt đối mà do thay đổi đột ngột)",
+        "Vì bất kỳ liều nào trên mức sinh lý cũng không thể gây triệu chứng khi giảm, chỉ liều dưới sinh lý mới gây vấn đề",
+        "Vì đây luôn là dấu hiệu suy thượng thận cấp thực sự cần hydrocortison liều cao ngay lập tức",
+        "Vì đây là dấu hiệu bùng phát chắc chắn của bệnh nền, cần tăng liều trở lại ngay"
+      ],
+      "answer": 0,
+      "explain": "Hội chứng cai glucocorticoid có thể xảy ra ngay cả ở mức liều còn trên mức sinh lý, do sự thay đổi đột ngột so với mức mà cơ thể đã 'thích nghi' qua thời gian dài — đây là cơ chế khác với suy thượng thận thực sự (thiếu hụt cortisol tuyệt đối dưới mức sinh lý) và cũng khác với bùng phát bệnh nền."
+    },
+    {
+      "q": "Trong thiết kế một nghiên cứu so sánh nguy cơ gãy xương giữa các bệnh nhân dùng glucocorticoid liều khác nhau, việc chỉ ghi nhận 'liều tại thời điểm hiện tại' mà không ghi nhận lịch sử liều dùng trước đó có thể gây sai lệch gì?",
+      "options": [
+        "Không gây sai lệch gì vì nguy cơ gãy xương chỉ phụ thuộc vào liều đang dùng ngay tại thời điểm khảo sát",
+        "Có thể đánh giá thấp nguy cơ ở nhóm bệnh nhân hiện đang dùng liều thấp nhưng có tiền sử phơi nhiễm liều cao kéo dài trước đó, vì tổn thương xương do glucocorticoid có tính tích lũy và kéo dài ảnh hưởng ngay cả sau khi giảm liều",
+        "Chỉ gây sai lệch theo hướng đánh giá quá cao nguy cơ ở mọi trường hợp",
+        "Lịch sử liều dùng trước đó không có bất kỳ ý nghĩa nào đối với nguy cơ gãy xương hiện tại"
+      ],
+      "answer": 1,
+      "explain": "Tác động của glucocorticoid lên xương có tính tích lũy và có thể kéo dài ảnh hưởng ngay cả sau khi đã giảm liều — chỉ ghi nhận liều hiện tại mà bỏ qua lịch sử phơi nhiễm trước đó sẽ đánh giá thấp nguy cơ thực sự ở nhóm bệnh nhân có tiền sử dùng liều cao kéo dài dù hiện đã giảm xuống liều thấp."
+    },
+    {
+      "q": "Cortisol và aldosteron có ái lực gắn kết tương tự nhau tại thụ thể mineralocorticoid (MR) ở ống thận, nhưng bình thường cortisol KHÔNG gây tác dụng giữ muối áp đảo dù nồng độ cortisol trong máu cao hơn aldosteron rất nhiều lần. Cơ chế nào giải thích hiện tượng này?",
+      "options": [
+        "Cortisol không thể xâm nhập vào tế bào ống thận nên không bao giờ gắn được vào MR",
+        "Enzym 11β-HSD2 tại ống thận chuyển cortisol thành cortison (mất hoạt tính với MR) trước khi kịp gắn kết, bảo vệ MR khỏi bị cortisol chiếm ưu thế",
+        "Aldosteron luôn có nồng độ cao hơn cortisol trong máu nên cạnh tranh thắng thế",
+        "Thụ thể MR chỉ biểu hiện khi có mặt aldosteron, không biểu hiện khi có cortisol"
+      ],
+      "answer": 1,
+      "explain": "Enzym 11β-HSD2 tại ống thận chuyển cortisol thành cortison (mất ái lực với MR) ngay tại chỗ, 'bảo vệ' thụ thể mineralocorticoid khỏi bị cortisol (nồng độ cao hơn nhiều) chiếm ưu thế — đây là cơ chế then chốt giải thích tính đặc hiệu tương đối của MR với aldosteron trong điều kiện sinh lý bình thường; thiếu hụt enzym này (bệnh lý hoặc do cam thảo) gây hội chứng 'giả cường aldosteron'."
+    },
+    {
+      "q": "Ở phụ nữ dùng thuốc tránh thai chứa estrogen đồng thời cần điều trị glucocorticoid, tương tác dược động học nào có thể ảnh hưởng đến diễn giải xét nghiệm cortisol/CBG nhưng KHÔNG nhất thiết thay đổi hoạt tính sinh học thực sự của GC?",
+      "options": [
+        "Estrogen làm tăng tổng hợp CBG tại gan, làm tăng cortisol toàn phần đo được dù cortisol tự do có hoạt tính có thể không thay đổi tương ứng",
+        "Estrogen ức chế hoàn toàn tác dụng của glucocorticoid tại thụ thể GR",
+        "Estrogen không có bất kỳ ảnh hưởng nào đến CBG hay cortisol",
+        "Estrogen làm giảm CBG, khiến cortisol toàn phần đo được thấp giả tạo"
+      ],
+      "answer": 0,
+      "explain": "Estrogen kích thích gan tăng tổng hợp CBG, làm tăng cortisol TOÀN PHẦN đo được trong máu — đây là một thay đổi về gắn kết protein huyết tương, không nhất thiết phản ánh thay đổi tương ứng về cortisol tự do (có hoạt tính sinh học), cần lưu ý khi diễn giải xét nghiệm ở phụ nữ dùng estrogen."
+    },
+    {
+      "q": "Nghiệm pháp kích thích ACTH liều chuẩn (250 µg) đánh giá tốt suy thượng thận nguyên phát đã tiến triển, nhưng có thể cho kết quả bình thường giả (false negative) trong giai đoạn SỚM của suy thượng thận thứ phát mới khởi phát (ví dụ ngay sau phẫu thuật tuyến yên). Vì sao?",
+      "options": [
+        "Vì liều 250 µg ACTH là liều siêu sinh lý, vẫn có thể kích thích tuyến thượng thận còn nguyên vẹn về mặt cấu trúc đáp ứng tạm thời dù trục điều hòa trung ương đã bị gián đoạn, trước khi tuyến thượng thận kịp teo do thiếu ACTH mạn tính",
+        "Vì nghiệm pháp này không bao giờ có giá trị trong suy thượng thận thứ phát ở bất kỳ giai đoạn nào",
+        "Vì ACTH tổng hợp không có tác dụng sinh học trên tuyến thượng thận người",
+        "Vì suy thượng thận thứ phát luôn có kết quả bất thường ngay lập tức bất kể thời gian khởi phát"
+      ],
+      "answer": 0,
+      "explain": "Trong suy thượng thận thứ phát mới khởi phát (cấp tính), cấu trúc tuyến thượng thận chưa kịp teo do thiếu ACTH mạn tính — liều ACTH ngoại sinh siêu sinh lý trong nghiệm pháp vẫn có thể kích thích đáp ứng cortisol tạm thời bình thường, dẫn đến kết quả âm tính giả trong giai đoạn sớm này, cần diễn giải thận trọng theo bối cảnh lâm sàng và thời gian khởi phát."
+    },
+    {
+      "q": "Một số bệnh nhân có hội chứng 'đề kháng glucocorticoid' (glucocorticoid resistance) hiếm gặp do đột biến thụ thể GR, biểu hiện lâm sàng đặc trưng nào sau đây phù hợp nhất với cơ chế bệnh sinh này?",
+      "options": [
+        "Biểu hiện giống hội chứng Cushing điển hình dù cortisol máu bình thường/thấp",
+        "Cortisol máu và ACTH đều tăng cao mạn tính nhưng KHÔNG có biểu hiện lâm sàng của thừa cortisol (không có kiểu hình Cushing), do mô đích không đáp ứng được với cortisol dù nồng độ cao",
+        "Luôn biểu hiện suy thượng thận cấp nặng ngay từ nhỏ",
+        "Không có bất kỳ biểu hiện xét nghiệm bất thường nào, chỉ phát hiện tình cờ qua giải trình tự gen"
+      ],
+      "answer": 1,
+      "explain": "Đề kháng glucocorticoid do đột biến GR làm giảm đáp ứng mô đích với cortisol; để bù trừ, trục HPA tăng tiết ACTH và cortisol (đôi khi kèm tăng androgen/mineralocorticoid do 'tràn' sang các thụ thể khác), nhưng bản thân bệnh nhân KHÔNG có biểu hiện lâm sàng của thừa cortisol vì mô đích không đáp ứng được — một nghịch lý xét nghiệm-lâm sàng đặc trưng."
+    },
+    {
+      "q": "Vì sao liều glucocorticoid tính theo mg/kg cân nặng ở trẻ em cho cùng một chỉ định thường cao hơn tương đối so với liều tuyệt đối theo cân nặng ở người lớn (ví dụ trong hội chứng thận hư)?",
+      "options": [
+        "Vì trẻ em luôn chuyển hóa thuốc chậm hơn nhiều so với người lớn nên cần liều thấp hơn, không phải cao hơn",
+        "Vì diện tích da/thể tích phân bố tương đối lớn hơn ở trẻ em và một số khác biệt dược động học theo lứa tuổi khiến liều mg/kg cần điều chỉnh khác với ngoại suy tuyến tính đơn giản từ liều người lớn",
+        "Vì trẻ em không có thụ thể glucocorticoid hoạt động đầy đủ nên cần liều cao hơn nhiều lần",
+        "Không có sự khác biệt thực sự, liều mg/kg luôn giống hệt giữa trẻ em và người lớn với mọi thuốc"
+      ],
+      "answer": 1,
+      "explain": "Do khác biệt về tỷ lệ diện tích da/cân nặng, thể tích phân bố, và một số đặc điểm dược động học theo lứa tuổi, liều thuốc ở trẻ em không phải lúc nào cũng ngoại suy tuyến tính đơn giản (cùng mg/kg) từ liều người lớn — đây là lý do các phác đồ nhi khoa có liều mg/kg riêng biệt được xây dựng dựa trên bằng chứng lâm sàng ở trẻ em."
+    },
+    {
+      "q": "Trong tình huống cấp cứu nghi ngờ suy thượng thận cấp nhưng chưa loại trừ được đây có phải sốc nhiễm khuẩn đơn thuần hay không, việc lựa chọn dexamethason thay vì hydrocortison để điều trị theo kinh nghiệm có ưu điểm dược lý gì đặc thù?",
+      "options": [
+        "Dexamethason có tác dụng mineralocorticoid mạnh hơn hydrocortison nên phù hợp hơn trong sốc",
+        "Dexamethason không gây nhiễu xét nghiệm cortisol/nghiệm pháp ACTH làm sau đó, cho phép vừa điều trị theo kinh nghiệm vừa xác định chẩn đoán mà không cần trì hoãn điều trị chờ kết quả",
+        "Dexamethason có tác dụng khởi phát nhanh hơn hydrocortison qua đường tĩnh mạch trong mọi tình huống",
+        "Dexamethason rẻ tiền hơn nên luôn được ưu tiên trong cấp cứu bất kể lý do dược lý"
+      ],
+      "answer": 1,
+      "explain": "Vì dexamethason không phản ứng chéo với các xét nghiệm miễn dịch định lượng cortisol, có thể điều trị theo kinh nghiệm bằng dexamethason trong khi vẫn lấy máu làm nghiệm pháp ACTH ngay sau đó để xác định chẩn đoán mà không cần chờ hoặc ngừng thuốc trước xét nghiệm — đây là lợi thế thực hành quan trọng dù hydrocortison vẫn được ưu tiên hơn khi chẩn đoán suy thượng thận đã rõ ràng (do có thêm hoạt tính mineralocorticoid)."
+    },
+    {
+      "q": "Nghiệm pháp kích thích ACTH liều thấp (1 µg) đôi khi được đề xuất thay cho liều chuẩn (250 µg) với lý luận nào về độ nhạy trong phát hiện suy thượng thận thứ phát nhẹ/sớm?",
+      "options": [
+        "Liều thấp hơn tạo ra mức kích thích sinh lý hơn (gần với nồng độ ACTH đạt được trong stress tự nhiên), có thể nhạy hơn trong phát hiện những trường hợp suy giảm dự trữ thượng thận nhẹ mà liều siêu sinh lý (250 µg) có thể 'che lấp' bằng kích thích quá mức",
+        "Liều thấp luôn cho kết quả chính xác hơn liều chuẩn trong mọi tình huống lâm sàng không có ngoại lệ",
+        "Liều thấp được ưu tiên chỉ vì lý do chi phí, không có cơ sở dược lý nào khác",
+        "Liều thấp và liều chuẩn có cơ chế tác dụng hoàn toàn khác nhau, không thể so sánh độ nhạy"
+      ],
+      "answer": 0,
+      "explain": "Liều ACTH thấp (1 µg) tạo mức kích thích gần sinh lý hơn liều siêu sinh lý (250 µg), về lý thuyết có thể nhạy hơn trong phát hiện suy giảm dự trữ thượng thận mức độ nhẹ mà liều siêu sinh lý có thể vẫn kích thích đủ đáp ứng bù trừ — dù trên thực hành, nghiệm pháp liều thấp có nhược điểm kỹ thuật riêng (khó pha loãng chính xác, ít chuẩn hóa hơn)."
+    },
+    {
+      "q": "Một đặc điểm dược động học nào của các glucocorticoid dạng hít thế hệ mới (như ciclesonide) được thiết kế đặc biệt để giảm sinh khả dụng toàn thân so với các thế hệ cũ?",
+      "options": [
+        "Là tiền chất được hoạt hóa chủ yếu tại phổi (mô đích) bởi esterase, trong khi phần nuốt vào ruột ít được hấp thu hoặc bị chuyển hóa qua gan lần đầu mạnh trước khi vào tuần hoàn toàn thân",
+        "Có ái lực với thụ thể GR yếu hơn nhiều so với các glucocorticoid hít thế hệ cũ",
+        "Không được chuyển hóa qua bất kỳ enzym nào trong cơ thể",
+        "Chỉ tác dụng tại chỗ, hoàn toàn không được hấp thu dù bằng bất kỳ đường nào"
+      ],
+      "answer": 0,
+      "explain": "Ciclesonide là tiền chất được hoạt hóa chủ yếu tại phổi (mô đích) bởi esterase; phần thuốc bị nuốt vào đường tiêu hóa chịu chuyển hóa qua gan lần đầu mạnh, giảm đáng kể lượng thuốc hoạt tính vào tuần hoàn toàn thân — đây là chiến lược thiết kế dược động học nhằm giảm tác dụng phụ toàn thân so với các ICS thế hệ cũ."
+    },
+    {
+      "q": "Trong đánh giá nguy cơ gãy xương do glucocorticoid bằng công cụ FRAX, việc chỉ nhập 'có/không dùng glucocorticoid' như một biến nhị phân (không tính đến liều) có hạn chế gì đã được ghi nhận trong y văn?",
+      "options": [
+        "Không có hạn chế nào vì FRAX được thiết kế chính xác tuyệt đối cho mọi mức liều glucocorticoid",
+        "FRAX gốc có thể đánh giá thấp nguy cơ ở liều rất cao và đánh giá cao nguy cơ ở liều rất thấp, vì mô hình nhị phân không phản ánh mối quan hệ liều-đáp ứng thực tế giữa liều glucocorticoid và nguy cơ gãy xương",
+        "FRAX hoàn toàn không thể sử dụng được ở bất kỳ bệnh nhân nào đang dùng glucocorticoid",
+        "Hạn chế này chỉ ảnh hưởng đến nguy cơ tim mạch, không liên quan đến nguy cơ gãy xương"
+      ],
+      "answer": 1,
+      "explain": "Vì nguy cơ gãy xương do glucocorticoid có mối quan hệ liều-đáp ứng (liều càng cao nguy cơ càng tăng), việc đưa vào FRAX như một biến nhị phân đơn giản (có/không) có thể đánh giá thấp nguy cơ ở người dùng liều rất cao và đánh giá cao ở người dùng liều rất thấp — các phiên bản/hiệu chỉnh mới hơn đã cố gắng khắc phục hạn chế này bằng cách điều chỉnh theo liều."
+    },
+    {
+      "q": "Vì sao việc phối hợp glucocorticoid với thuốc lợi tiểu giữ kali (như amilorid) có thể làm giảm một phần nguy cơ hạ kali máu so với phối hợp cùng lợi tiểu quai/thiazid, nhưng KHÔNG loại bỏ hoàn toàn nguy cơ này?",
+      "options": [
+        "Vì amilorid đối kháng trực tiếp thụ thể glucocorticoid nên vô hiệu hóa hoàn toàn mọi tác dụng của GC bao gồm cả giữ kali",
+        "Vì amilorid tác động ở kênh natri biểu mô tại ống thận (độc lập một phần với trục aldosteron/mineralocorticoid), giúp hạn chế một phần tác dụng thải kali nhưng cơ chế giữ muối-thải kali của glucocorticoid còn qua các con đường khác không bị amilorid ức chế hoàn toàn",
+        "Vì amilorid làm tăng hấp thu glucocorticoid qua đường tiêu hóa nên bù trừ được tác dụng thải kali",
+        "Không có sự khác biệt thực sự nào giữa các nhóm lợi tiểu khi phối hợp với glucocorticoid"
+      ],
+      "answer": 1,
+      "explain": "Amilorid ức chế kênh natri biểu mô (ENaC) ở ống thận, giúp hạn chế một phần hiệu ứng thải kali liên quan đến hoạt tính mineralocorticoid của GC; tuy nhiên tác dụng giữ muối-thải kali của glucocorticoid còn liên quan đến các cơ chế khác (bao gồm cả tác dụng gián tiếp lên GFR và các kênh vận chuyển khác) không hoàn toàn bị amilorid ức chế, nên nguy cơ hạ kali máu được giảm bớt chứ không loại bỏ hoàn toàn."
+    },
+    {
+      "q": "Ở bệnh nhân béo phì nặng, việc tính liều glucocorticoid theo cân nặng thực tế (actual body weight) cho các chỉ định như lupus/viêm mạch có thể dẫn đến vấn đề gì cần cân nhắc, khác với tính theo cân nặng lý tưởng?",
+      "options": [
+        "Không có vấn đề gì vì glucocorticoid chỉ phân bố vào mô mỡ nên cân nặng thực tế luôn chính xác nhất",
+        "Có thể dẫn đến liều tuyệt đối cao hơn cần thiết so với liều dựa trên khối lượng nạc cơ thể (nơi phần lớn tác dụng dược lý/độc tính xảy ra), vì glucocorticoid phân bố không tỷ lệ thuận hoàn toàn với mô mỡ dư thừa",
+        "Luôn dẫn đến liều thấp hơn nhu cầu thực sự của bệnh nhân béo phì",
+        "Cân nặng không bao giờ được dùng để tính liều glucocorticoid trong bất kỳ tình huống nào"
+      ],
+      "answer": 1,
+      "explain": "Do glucocorticoid không phân bố tỷ lệ thuận với mô mỡ dư thừa (khác với thể tích phân bố của một số thuốc tan trong mỡ), tính liều theo cân nặng thực tế ở người béo phì nặng có thể dẫn đến liều tuyệt đối cao hơn mức cần thiết dựa trên khối lượng nạc cơ thể — nhiều phác đồ lâm sàng khuyến cáo cân nhắc giới hạn liều tối đa tuyệt đối thay vì ngoại suy tuyến tính theo cân nặng thực tế ở nhóm bệnh nhân này."
+    },
+    {
+      "q": "Trong một số hướng dẫn gần đây, việc phân loại glucocorticoid tại chỗ theo 'độ mạnh tương đối' (potency class) thay vì chỉ theo nồng độ phần trăm hoạt chất phản ánh nguyên tắc dược lý nào?",
+      "options": [
+        "Nồng độ phần trăm hoạt chất luôn tương quan tuyến tính hoàn hảo với hoạt lực lâm sàng nên phân loại độ mạnh là không cần thiết",
+        "Hoạt lực lâm sàng của một glucocorticoid tại chỗ phụ thuộc vào cả cấu trúc phân tử (ái lực thụ thể) và dạng bào chế (khả năng thấm qua da), nên hai chế phẩm cùng nồng độ phần trăm nhưng khác hoạt chất/dạng bào chế có thể có độ mạnh lâm sàng rất khác nhau",
+        "Phân loại độ mạnh chỉ mang tính thương mại, không có cơ sở dược lý học nào",
+        "Độ mạnh tương đối chỉ áp dụng cho đường uống, không áp dụng cho corticoid bôi da"
+      ],
+      "answer": 1,
+      "explain": "Hoạt lực lâm sàng thực tế của một chế phẩm corticoid bôi da phụ thuộc vào cả ái lực thụ thể của phân tử VÀ khả năng thấm qua da của dạng bào chế cụ thể — hai yếu tố này khiến nồng độ phần trăm đơn thuần không phản ánh đầy đủ hoạt lực, do đó cần bảng phân loại độ mạnh tương đối (dựa trên thử nghiệm co mạch da) để so sánh chính xác hơn giữa các chế phẩm khác nhau."
+    },
+    {
+      "q": "Vì sao việc dùng glucocorticoid nhỏ mắt (không phải toàn thân) vẫn có thể gây ức chế trục HPA đáng kể ở một số bệnh nhân dùng liều rất cao, kéo dài, dù đường dùng có vẻ 'tại chỗ'?",
+      "options": [
+        "Vì glucocorticoid nhỏ mắt hoàn toàn không được hấp thu nên không thể gây ức chế HPA trong bất kỳ trường hợp nào",
+        "Vì thuốc nhỏ mắt có thể chảy qua ống lệ-mũi vào khoang mũi/họng rồi được nuốt hoặc hấp thu qua niêm mạc, phần nào BỎ QUA chuyển hóa lần đầu qua gan (khác với thuốc uống) — đây là một con đường hấp thu toàn thân dễ bị đánh giá thấp, góp phần giải thích tại sao dùng nhỏ mắt liều cao kéo dài vẫn có thể gây ức chế trục HPA đáng kể ở một số bệnh nhân",
+        "Vì mắt có mật độ thụ thể glucocorticoid cao nhất cơ thể nên luôn gây ức chế HPA mạnh nhất",
+        "Chỉ xảy ra nếu bệnh nhân vô tình nuốt phải thuốc nhỏ mắt qua đường miệng"
+      ],
+      "answer": 1,
+      "explain": "Thuốc nhỏ mắt có thể chảy qua ống lệ-mũi vào khoang mũi/họng rồi được nuốt hoặc hấp thu qua niêm mạc, phần nào BỎ QUA chuyển hóa lần đầu qua gan (khác với thuốc uống) — đây là một con đường hấp thu toàn thân dễ bị đánh giá thấp, góp phần giải thích tại sao dùng nhỏ mắt liều cao kéo dài vẫn có thể gây ức chế trục HPA đáng kể ở một số bệnh nhân."
+    },
+    {
+      "q": "Ở bệnh nhân bắt đầu điều trị glucocorticoid liều cao đồng thời có suy giáp chưa được điều trị, việc không nhận ra suy giáp trước khi bắt đầu GC có thể ảnh hưởng gì đến an toàn thuốc?",
+      "options": [
+        "Suy giáp không có bất kỳ liên quan nào đến chuyển hóa glucocorticoid nên không cần quan tâm",
+        "Suy giáp làm chậm chuyển hóa của nhiều thuốc bao gồm glucocorticoid — nếu không được nhận biết và điều trị, một liều GC 'thông thường' có thể tích lũy nhiều hơn dự kiến ở bệnh nhân suy giáp chưa điều trị, làm tăng nguy cơ độc tính so với người có chức năng giáp bình thường",
+        "Suy giáp luôn làm tăng chuyển hóa glucocorticoid tương tự cường giáp nên cần liều cao hơn",
+        "Suy giáp chỉ ảnh hưởng đến hoạt tính mineralocorticoid, không ảnh hưởng đến glucocorticoid"
+      ],
+      "answer": 1,
+      "explain": "Ngược với cường giáp (tăng thanh thải), suy giáp làm CHẬM chuyển hóa của nhiều thuốc bao gồm glucocorticoid — nếu không được nhận biết và điều trị, một liều GC 'thông thường' có thể tích lũy nhiều hơn dự kiến ở bệnh nhân suy giáp chưa điều trị, làm tăng nguy cơ độc tính so với người có chức năng giáp bình thường."
+    },
+    {
+      "q": "Trong theo dõi dài hạn bệnh nhân dùng glucocorticoid kéo dài, việc chỉ dựa vào 'triệu chứng cơ năng' của bệnh nhân để phát hiện đục thủy tinh thể do steroid có hạn chế gì đáng kể?",
+      "options": [
+        "Không có hạn chế nào vì đục thủy tinh thể do steroid luôn gây triệu chứng rầm rộ ngay từ giai đoạn sớm",
+        "Đục thủy tinh thể dưới bao sau (vị trí điển hình do steroid) có thể tiến triển âm thầm và ảnh hưởng đáng kể đến thị lực trước khi bệnh nhân nhận thấy rõ triệu chứng chủ quan — đây là lý do cần khám mắt định kỳ CHỦ ĐỘNG (không chỉ dựa vào bệnh nhân tự báo cáo triệu chứng) ở người dùng glucocorticoid kéo dài",
+        "Đục thủy tinh thể do steroid không bao giờ ảnh hưởng đến thị lực nên không cần theo dõi",
+        "Triệu chứng luôn xuất hiện đối xứng và đồng thời ở cả hai mắt nên dễ phát hiện qua hỏi bệnh"
+      ],
+      "answer": 1,
+      "explain": "Đục thủy tinh thể dưới bao sau (vị trí điển hình do steroid) có thể tiến triển âm thầm và ảnh hưởng đáng kể đến thị lực trước khi bệnh nhân nhận thấy rõ triệu chứng chủ quan — đây là lý do cần khám mắt định kỳ CHỦ ĐỘNG (không chỉ dựa vào bệnh nhân tự báo cáo triệu chứng) ở người dùng glucocorticoid kéo dài."
+    },
+    {
+      "q": "Vì sao 'liều tương đương prednisolon' (PE) được dùng phổ biến làm đơn vị quy đổi chuẩn trong y văn về glucocorticoid, thay vì dùng liều tương đương của hydrocortison (vốn là hormon nội sinh gốc)?",
+      "options": [
+        "Vì hydrocortison không còn được sử dụng trong lâm sàng nên không thể làm chuẩn quy đổi",
+        "Việc chọn prednisolon làm đơn vị quy đổi (PE — prednisolone equivalent) mang tính QUY ƯỚC THỰC HÀNH, phản ánh việc đây là một trong những glucocorticoid dùng phổ biến nhất cho các chỉ định kháng viêm/ức chế miễn dịch kéo dài trên lâm sàng — không phải vì lý do dược lý bắt buộc phải dùng nó làm chuẩn thay vì hydrocortison",
+        "Vì prednisolon có hoạt lực chống viêm yếu nhất nên phù hợp làm đơn vị chuẩn nhất",
+        "Vì hydrocortison có cấu trúc hóa học quá phức tạp để làm chuẩn so sánh"
+      ],
+      "answer": 1,
+      "explain": "Việc chọn prednisolon làm đơn vị quy đổi (PE — prednisolone equivalent) mang tính QUY Ư ƯỚC THỰC HÀNH, phản ánh việc đây là một trong những glucocorticoid dùng phổ biến nhất cho các chỉ định kháng viêm/ức chế miễn dịch kéo dài trên lâm sàng — không phải vì lý do dược lý bắt buộc phải dùng nó làm chuẩn thay vì hydrocortison (vẫn được dùng làm chuẩn hoạt lực 'gốc' bằng 1 trong bảng hoạt tính)."
+    },
+    {
+      "q": "Một nghiên cứu quan sát cho thấy bệnh nhân dùng glucocorticoid liều thấp kéo dài có tăng nguy cơ nhiễm trùng nặng ngay cả ở liều không đủ để coi là 'ức chế miễn dịch' theo định nghĩa kinh điển (thường lấy mốc ≥20 mg/ngày PE trong ≥2 tuần). Điều này gợi ý hạn chế nào của các ngưỡng phân loại kinh điển?",
+      "options": [
+        "Các ngưỡng phân loại kinh điển hoàn toàn chính xác và không cần xem xét lại trong bất kỳ hoàn cảnh nào",
+        "Bằng chứng cho thấy nguy cơ nhiễm trùng liên quan đến glucocorticoid có tính chất LIÊN TỤC (liều-đáp ứng) hơn là một ngưỡng cắt nhị phân cứng nhắc, và còn phụ thuộc vào các yếu tố nguy cơ khác của từng bệnh nhân (tuổi, bệnh đồng mắc, thuốc phối hợp) — các ngưỡng phân loại kinh điển (như ≥20 mg/ngày) hữu ích cho thực hành nhưng có hạn chế khi áp dụng cứng nhắc cho mọi bệnh nhân",
+        "Nguy cơ nhiễm trùng chỉ liên quan đến bệnh nền của bệnh nhân, hoàn toàn không liên quan đến liều glucocorticoid",
+        "Ngưỡng 20 mg/ngày cần được thay thế bằng một ngưỡng cố định khác cao hơn áp dụng cho mọi bệnh nhân"
+      ],
+      "answer": 1,
+      "explain": "Bằng chứng cho thấy nguy cơ nhiễm trùng liên quan đến glucocorticoid có tính chất LIÊN TỤC (liều-đáp ứng) hơn là một ngưỡng cắt nhị phân cứng nhắc, và còn phụ thuộc vào các yếu tố nguy cơ khác của từng bệnh nhân (tuổi, bệnh đồng mắc, thuốc phối hợp) — các ngưỡng phân loại kinh điển (như ≥20 mg/ngày) hữu ích cho thực hành nhưng có hạn chế khi áp dụng cứng nhắc cho mọi bệnh nhân."
+    },
+    {
+      "q": "Trong xử trí suy thượng thận cấp, tại sao việc bù dịch bằng NaCl 0,9% được ưu tiên hơn dung dịch chứa kali, ngay cả khi bệnh nhân có tăng kali máu đi kèm cần điều chỉnh?",
+      "options": [
+        "Vì NaCl 0,9% vừa giúp hồi phục thể tích tuần hoàn vừa gián tiếp hỗ trợ pha loãng và bài niệu giúp cải thiện tăng kali máu, trong khi mục tiêu ưu tiên tức thời là hồi phục huyết động",
+        "Vì dung dịch chứa kali luôn chống chỉ định tuyệt đối trong mọi tình huống suy thượng thận bất kể mức kali máu",
+        "Vì NaCl 0,9% có tác dụng hạ kali máu trực tiếp và đặc hiệu tương tự calci gluconat",
+        "Vì suy thượng thận cấp không bao giờ có rối loạn thể tích tuần hoàn nên không cần bù dịch"
+      ],
+      "answer": 0,
+      "explain": "Trong suy thượng thận cấp, mục tiêu tức thời là hồi phục thể tích tuần hoàn (đang giảm nặng do thiếu mineralocorticoid) bằng NaCl 0,9%; việc bù dịch/hồi phục thể tích và cải thiện tưới máu thận cũng gián tiếp hỗ trợ cải thiện tăng kali máu, nên không cần (và không nên) truyền thêm dung dịch chứa kali trong giai đoạn cấp cứu ban đầu này."
+    },
+    {
+      "q": "Vì sao việc đo cortisol nước bọt (salivary cortisol) đang được quan tâm như một phương pháp thay thế trong một số bối cảnh đánh giá trục HPA, so với cortisol huyết thanh?",
+      "options": [
+        "Cortisol nước bọt phản ánh phần cortisol TỰ DO (có hoạt tính sinh học), không bị nhiễu bởi thay đổi CBG/albumin như cortisol huyết thanh toàn phần — ưu điểm này cùng với khả năng lấy mẫu không xâm lấn, nhiều lần trong ngày (hữu ích đánh giá nhịp ngày đêm) khiến phương pháp này ngày càng được quan tâm trong một số bối cảnh nghiên cứu và lâm sàng chọn lọc",
+        "Cortisol nước bọt luôn cao hơn cortisol huyết thanh nhiều lần nên dễ đo lường hơn",
+        "Cortisol nước bọt không có bất kỳ mối liên quan nào với trục HPA, chỉ phản ánh tình trạng răng miệng",
+        "Phương pháp này chỉ có giá trị ở trẻ em, không áp dụng được cho người lớn"
+      ],
+      "answer": 0,
+      "explain": "Cortisol nước bọt phản ánh phần cortisol TỰ DO (có hoạt tính sinh học), không bị nhiễu bởi thay đổi CBG/albumin như cortisol huyết thanh toàn phần — ưu điểm này cùng với khả năng lấy mẫu không xâm lấn, nhiều lần trong ngày (hữu ích đánh giá nhịp ngày đêm) khiến phương pháp này ngày càng được quan tâm trong một số bối cảnh nghiên cứu và lâm sàng chọn lọc."
+    },
+    {
+      "q": "Một bệnh nhân dùng glucocorticoid liều cao kéo dài có biểu hiện lâm sàng gợi ý cả suy thượng thận VÀ hội chứng Cushing tại các thời điểm khác nhau trong quá trình điều trị/giảm liều. Điều này phản ánh khái niệm dược lý nào?",
+      "options": [
+        "Đây là một mâu thuẫn không thể xảy ra về mặt sinh lý, chắc chắn có sai sót chẩn đoán",
+        "Đây là biểu hiện của tính ĐỘNG trong sinh lý bệnh: khi dùng liều cao, bệnh nhân ở trạng thái 'thừa cortisol' (kiểu hình Cushing ngoại sinh) do trục HPA nội sinh bị ức chế bù trừ; khi giảm liều nhanh, cortisol ngoại sinh giảm nhanh trong khi trục HPA nội sinh CHƯA KỊP phục hồi đủ để bù đắp, dẫn đến giai đoạn 'thiếu cortisol tương đối' — cùng một bệnh nhân có thể trải qua cả hai trạng thái tại các thời điểm khác nhau của quá trình điều trị",
+        "Chỉ có thể giải thích bằng việc bệnh nhân mắc đồng thời hai bệnh lý tuyến thượng thận hoàn toàn độc lập",
+        "Đây là bằng chứng cho thấy glucocorticoid được dùng hoàn toàn không có tác dụng"
+      ],
+      "answer": 1,
+      "explain": "Đây là biểu hiện của tính ĐỘNG trong sinh lý bệnh: khi dùng liều cao, bệnh nhân ở trạng thái 'thừa cortisol' (kiểu hình Cushing ngoại sinh) do trục HPA nội sinh bị ức chế bù trừ; khi giảm liều nhanh, cortisol ngoại sinh giảm nhanh trong khi trục HPA nội sinh CHƯA KỊP phục hồi đủ để bù đắp, dẫn đến giai đoạn 'thiếu cortisol tương đối' — cùng một bệnh nhân có thể trải qua cả hai trạng thái tại các thời điểm khác nhau của quá trình điều trị."
+    },
+    {
+      "q": "Trong một số phác đồ tapering hiện đại, việc đo ACTH huyết tương (bên cạnh cortisol) trong quá trình giảm liều có thể cung cấp thông tin bổ sung gì mà cortisol đơn thuần không thể hiện rõ?",
+      "options": [
+        "ACTH không có bất kỳ giá trị bổ sung nào so với cortisol đơn thuần trong theo dõi giảm liều",
+        "Trong quá trình phục hồi trục HPA, vùng dưới đồi-tuyến yên thường phục hồi khả năng tiết ACTH TRƯỚC KHI tuyến thượng thận (đã bị teo do thiếu kích thích kéo dài) kịp phục hồi khả năng đáp ứng đầy đủ với ACTH để tăng cortisol tương ứng — do đó ACTH tăng có thể là dấu hiệu sớm của xu hướng phục hồi, cung cấp thông tin bổ sung có giá trị bên cạnh cortisol đơn thuần",
+        "ACTH chỉ phản ánh chức năng tuyến giáp, không liên quan đến trục thượng thận",
+        "ACTH luôn giảm song song hoàn toàn với cortisol nên đo thêm không có ý nghĩa gì"
+      ],
+      "answer": 1,
+      "explain": "Trong quá trình phục hồi trục HPA, vùng dưới đồi-tuyến yên thường phục hồi khả năng tiết ACTH TRƯỚC KHI tuyến thượng thận (đã bị teo do thiếu kích thích kéo dài) kịp phục hồi khả năng đáp ứng đầy đủ với ACTH để tăng cortisol tương ứng — do đó ACTH tăng có thể là dấu hiệu sớm của xu hướng phục hồi, cung cấp thông tin bổ sung có giá trị bên cạnh cortisol đơn thuần."
+    },
+    {
+      "q": "Vì sao ở bệnh nhân có bệnh gan mạn tính kèm rối loạn đông máu nền, việc chỉ định tiêm glucocorticoid nội khớp cần được cân nhắc thận trọng hơn về mặt kỹ thuật, ngoài vấn đề vô khuẩn thông thường?",
+      "options": [
+        "Không cần thận trọng gì thêm vì rối loạn đông máu không liên quan đến thủ thuật tiêm khớp",
+        "Rối loạn đông máu nền (do bệnh gan mạn) làm tăng nguy cơ chảy máu/tụ máu tại vị trí chọc kim của thủ thuật xâm lấn như tiêm nội khớp — cần đánh giá chức năng đông máu (PT, INR, tiểu cầu) và cân nhắc lợi ích-nguy cơ kỹ lưỡng trước khi thực hiện, đây là thận trọng độc lập với vấn đề vô khuẩn thông thường",
+        "Glucocorticoid tiêm khớp sẽ tự động điều chỉnh rối loạn đông máu nên không cần lo ngại",
+        "Chỉ cần tăng liều glucocorticoid tiêm để bù trừ nguy cơ chảy máu"
+      ],
+      "answer": 1,
+      "explain": "Rối loạn đông máu nền (do bệnh gan mạn) làm tăng nguy cơ chảy máu/tụ máu tại vị trí chọc kim của thủ thuật xâm lấn như tiêm nội khớp — cần đánh giá chức năng đông máu (PT, INR, tiểu cầu) và cân nhắc lợi ích-nguy cơ kỹ lưỡng trước khi thực hiện, đây là thận trọng độc lập với vấn đề vô khuẩn thông thường."
+    },
+    {
+      "q": "Một glucocorticoid tổng hợp có thời gian bán thải sinh học (ức chế trục HPA) rất dài dù thời gian bán thải huyết tương tương đối ngắn. Đặc điểm này phản ánh điều gì về mối quan hệ giữa dược động học huyết tương và dược lực học mô đích?",
+      "options": [
+        "Hai thông số này luôn đồng nhất hoàn toàn với nhau ở mọi glucocorticoid nên sự khác biệt này không thể xảy ra trên thực tế",
+        "Do cơ chế tác dụng qua gen (thay đổi phiên mã, tổng hợp protein mới tại tế bào đích), hiệu quả dược lý có thể tồn tại lâu hơn nhiều so với thời gian thuốc còn hiện diện trong huyết tương — đây là lý do t½ sinh học (thời gian ức chế trục HPA) của các GC như dexamethason dài hơn đáng kể so với t½ huyết tương, và là cơ sở phân loại GC theo thời gian tác dụng (ngắn/trung bình/dài) dựa trên tiêu chí sinh học chứ không phải huyết tương đơn thuần",
+        "Điều này chỉ có thể giải thích bằng sai số trong đo lường thời gian bán thải huyết tương",
+        "Thời gian bán thải sinh học luôn ngắn hơn thời gian bán thải huyết tương ở mọi trường hợp"
+      ],
+      "answer": 1,
+      "explain": "Do cơ chế tác dụng qua gen (thay đổi phiên mã, tổng hợp protein mới tại tế bào đích), hiệu quả dược lý có thể tồn tại lâu hơn nhiều so với thời gian thuốc còn hiện diện trong huyết tương — đây là lý do t½ sinh học (thời gian ức chế trục HPA) của các GC như dexamethason dài hơn đáng kể so với t½ huyết tương, và là cơ sở phân loại GC theo thời gian tác dụng (ngắn/trung bình/dài) dựa trên tiêu chí sinh học chứ không phải huyết tương đơn thuần."
+    },
+    {
+      "q": "Trong diễn giải một trường hợp nghi ngờ suy thượng thận ở bệnh nhân đang trong tình trạng bệnh nặng cấp tính (critical illness) tại ICU, tại sao các ngưỡng cortisol chẩn đoán 'kinh điển' (xây dựng từ người khỏe mạnh ngoại trú) có thể không áp dụng trực tiếp được?",
+      "options": [
+        "Vì cortisol không thay đổi trong bệnh nặng cấp tính nên ngưỡng nào cũng áp dụng được như nhau",
+        "Bệnh nặng cấp tính gây ra nhiều thay đổi sinh lý phức tạp của trục HPA (giảm CBG do viêm hệ thống, thay đổi nhịp tiết ngày đêm, thay đổi chuyển hóa/thanh thải cortisol tại mô) — các ngưỡng chẩn đoán suy thượng thận kinh điển (xây dựng từ nghiên cứu ở người khỏe mạnh/ngoại trú) do đó cần được diễn giải thận trọng, không áp dụng máy móc, trong bối cảnh bệnh nặng tại ICU (khái niệm 'critical illness-related corticosteroid insufficiency' — CIRCI)",
+        "Vì bệnh nhân ICU luôn có cortisol cao hơn nhiều lần so với ngưỡng bình thường nên không cần lo ngại suy thượng thận",
+        "Vì máy xét nghiệm tại ICU luôn cho kết quả khác biệt về mặt kỹ thuật so với xét nghiệm ngoại trú"
+      ],
+      "answer": 1,
+      "explain": "Bệnh nặng cấp tính gây ra nhiều thay đổi sinh lý phức tạp của trục HPA (giảm CBG do viêm hệ thống, thay đổi nhịp tiết ngày đêm, thay đổi chuyển hóa/thanh thải cortisol tại mô) — các ngưỡng chẩn đoán suy thượng thận kinh điển (xây dựng từ nghiên cứu ở người khỏe mạnh/ngoại trú) do đó cần được diễn giải thận trọng, không áp dụng máy móc, trong bối cảnh bệnh nặng tại ICU (khái niệm 'critical illness-related corticosteroid insufficiency' — CIRCI)."
+    },
+    {
+      "q": "Vì sao hai bệnh nhân dùng cùng một liều glucocorticoid tuyệt đối (mg/ngày) trong cùng thời gian có thể biểu hiện mức độ ức chế trục HPA rất khác nhau trên lâm sàng?",
+      "options": [
+        "Điều này không thể xảy ra vì liều và thời gian dùng thuốc luôn quyết định hoàn toàn và duy nhất mức độ ức chế HPA ở mọi bệnh nhân",
+        "Có sự khác biệt cá thể đáng kể về dược động học (tốc độ chuyển hóa qua CYP3A4, 11β-HSD1) và dược lực học (độ nhạy cảm/đa hình của thụ thể GR) giữa các bệnh nhân, khiến cùng một liều 'danh nghĩa' (mg/ngày) có thể tạo ra mức phơi nhiễm sinh học và mức độ ức chế trục HPA khác nhau đáng kể — đây là lý do các khuyến cáo về nguy cơ ức chế HPA theo liều/thời gian chỉ mang tính hướng dẫn chung, cần cá thể hóa đánh giá lâm sàng",
+        "Chỉ có thể giải thích bằng sai sót trong việc kê đơn hoặc tuân thủ điều trị",
+        "Khác biệt này chỉ xảy ra giữa các loại glucocorticoid khác nhau, không xảy ra khi dùng cùng một loại thuốc"
+      ],
+      "answer": 1,
+      "explain": "Có sự khác biệt cá thể đáng kể về dược động học (tốc độ chuyển hóa qua CYP3A4, 11β-HSD1) và dược lực học (độ nhạy cảm/đa hình của thụ thể GR) giữa các bệnh nhân, khiến cùng một liều 'danh nghĩa' (mg/ngày) có thể tạo ra mức phơi nhiễm sinh học và mức độ ức chế trục HPA khác nhau đáng kể — đây là lý do các khuyến cáo về nguy cơ ức chế HPA theo liều/thời gian chỉ mang tính hướng dẫn chung, cần cá thể hóa đánh giá lâm sàng."
+    },
+    {
+      "q": "Trong đánh giá một bệnh nhân dùng glucocorticoid kéo dài có cả yếu tố nguy cơ tim mạch (tăng huyết áp, rối loạn lipid do thuốc) VÀ yếu tố nguy cơ nhiễm trùng (ức chế miễn dịch), việc chỉ tập trung quản lý một nhóm nguy cơ mà bỏ qua nhóm còn lại phản ánh hạn chế gì trong tiếp cận lâm sàng?",
+      "options": [
+        "Không có hạn chế nào vì hai nhóm nguy cơ này hoàn toàn độc lập, không cần quản lý đồng thời",
+        "Do cơ chế tác dụng đa hệ thống của glucocorticoid (chuyển hóa, tim mạch, miễn dịch, xương, tâm thần...), quản lý lâm sàng toàn diện cần theo dõi và cân bằng đồng thời NHIỀU nhóm nguy cơ song song, không nên chỉ tập trung vào một nhóm nổi bật (ví dụ chỉ lo tim mạch mà bỏ qua nhiễm trùng, hoặc ngược lại) vì mức độ ưu tiên có thể thay đổi theo từng giai đoạn điều trị và đặc điểm cá thể bệnh nhân",
+        "Chỉ cần quản lý nguy cơ tim mạch vì đây luôn là nguy cơ nghiêm trọng nhất ở mọi bệnh nhân",
+        "Chỉ cần quản lý nguy cơ nhiễm trùng vì đây là nguy cơ duy nhất có thể gây tử vong"
+      ],
+      "answer": 1,
+      "explain": "Do cơ chế tác dụng đa hệ thống của glucocorticoid (chuyển hóa, tim mạch, miễn dịch, xương, tâm thần...), quản lý lâm sàng toàn diện cần theo dõi và cân bằng đồng thời NHIỀU nhóm nguy cơ song song, không nên chỉ tập trung vào một nhóm nổi bật (ví dụ chỉ lo tim mạch mà bỏ qua nhiễm trùng, hoặc ngược lại) vì mức độ ưu tiên có thể thay đổi theo từng giai đoạn điều trị và đặc điểm cá thể bệnh nhân."
+    }
+  ]
+}
