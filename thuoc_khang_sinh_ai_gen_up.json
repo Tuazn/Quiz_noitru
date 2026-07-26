@@ -1,0 +1,643 @@
+{
+  "name": "Thuốc Kháng Sinh (AI gen) Up",
+  "description": "Bộ câu hỏi ôn tập nâng cao Thuốc Kháng Sinh bao gồm 39 case lâm sàng (39 câu hỏi nhỏ) và 42 câu hỏi MCQ lý thuyết dược lý nâng cao mô phỏng đề thi Bác sĩ Nội trú.",
+  "level": "Nâng cao - Ôn thi Bác sĩ Nội trú",
+  "type": "cases",
+  "category": "Cơ sở",
+  "subcategory": "Dược lý",
+  "cases": [
+    {
+      "title": "Thai phụ 34 tuần viêm phổi cộng đồng có tiền sử nổi mề đay nhẹ sau Amoxicilin",
+      "body": "<b>Hành chính:</b> Thai phụ, 34 tuần.<br><br><b>Tiền sử:</b> Lúc nhỏ có nổi mề đay nhẹ sau uống Amoxicilin, không rõ có kèm khó thở hay phù mạch, chưa từng được xét nghiệm dị ứng.<br><br><b>Bệnh sử:</b> Viêm phổi cộng đồng mức độ trung bình.",
+      "questions": [
+        {
+          "q": "Hướng xử trí cân bằng nhất giữa hiệu quả điều trị, an toàn thai kỳ và nguy cơ dị ứng chéo là gì?",
+          "options": [
+            "Dùng Doxycyclin liều chuẩn theo cân nặng",
+            "Dùng Levofloxacin liều chuẩn",
+            "Ưu tiên Azithromycin, hoặc khai thác kỹ thêm tiền sử trước khi cân nhắc một Cephalosporin phổ hẹp",
+            "Dùng Cloramphenicol liều thấp, ngắn ngày"
+          ],
+          "answer": 2,
+          "explain": "Doxycyclin và Fluoroquinolon chống chỉ định thai kỳ; Cloramphenicol không phải lựa chọn hàng đầu. Phản ứng mề đay đơn thuần lúc nhỏ không đồng nghĩa dị ứng nặng, nhưng cần khai thác kỹ trước khi dùng beta-lactam; Macrolid là lựa chọn an toàn không phụ thuộc tiền sử này."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi suy thận kèm suy tim mất bù nghi ngờ nhiễm Pseudomonas",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 68 tuổi.<br><br><b>Tiền sử:</b> Đang dùng Furosemid liều cao vì suy tim mất bù.<br><br><b>Bệnh sử:</b> Viêm phổi bệnh viện nghi Pseudomonas.<br><br><b>Xét nghiệm:</b> CrCl 28 mL/phút.",
+      "questions": [
+        {
+          "q": "Trong các lựa chọn sau, kháng sinh nào có nguy cơ cộng hưởng độc tính rõ rệt nhất với thuốc bệnh nhân đang dùng?",
+          "options": [
+            "Aztreonam",
+            "Ceftazidim",
+            "Piperacilin-Tazobactam",
+            "Gentamicin"
+          ],
+          "answer": 3,
+          "explain": "Phối hợp Aminoglycosid với lợi tiểu quai làm tăng nguy cơ độc tai/thận cộng hưởng, đặc biệt khi chức năng thận đã suy giảm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 55 tuổi đang hoá trị bị sốt kèm giảm bạch cầu trung tính",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 55 tuổi.<br><br><b>Tiền sử:</b> Đang hoá trị.<br><br><b>Bệnh sử:</b> Sốt kèm giảm bạch cầu trung tính, cấy máu âm tính sau 4 ngày điều trị kinh nghiệm, chưa xác định được ổ nhiễm khuẩn rõ ràng.<br><br><b>Khám lâm sàng:</b> Huyết động hiện ổn định.<br><br><b>Xét nghiệm:</b> ANC 300/mm³.",
+      "questions": [
+        {
+          "q": "Nguyên tắc xử trí ban đầu quan trọng nhất trong tình huống này là gì?",
+          "options": [
+            "Chờ kết quả cấy máu 48 giờ mới bắt đầu kháng sinh",
+            "Cấy máu xong bắt đầu ngay kháng sinh phổ rộng có hoạt tính kháng Pseudomonas",
+            "Chỉ điều trị kháng sinh khi ANC xuống dưới 100/mm³",
+            "Ưu tiên kháng sinh phổ hẹp trước, mở rộng sau nếu không đáp ứng"
+          ],
+          "answer": 1,
+          "explain": "Sốt giảm bạch cầu trung tính là cấp cứu nội khoa — kháng sinh phổ rộng bao phủ Pseudomonas cần bắt đầu ngay sau khi lấy mẫu cấy, không chờ kết quả."
+        },
+        {
+          "q": "Sau 4 ngày điều trị kinh nghiệm, bệnh nhân vẫn sốt, cấy máu âm tính, chưa xác định được ổ nhiễm khuẩn rõ ràng. Bước tiếp theo hợp lý là gì?",
+          "options": [
+            "Chuyển ngay sang kháng sinh phổ hẹp hơn",
+            "Ngừng toàn bộ kháng sinh vì cấy máu âm tính",
+            "Không cần điều chỉnh gì, tiếp tục chờ đến ngày 14",
+            "Cân nhắc thêm điều trị kháng nấm theo kinh nghiệm nếu nguy cơ cao và sốt kéo dài"
+          ],
+          "answer": 3,
+          "explain": "Sốt dai dẳng dù đã dùng kháng sinh phổ rộng đủ ngày ở bệnh nhân giảm bạch cầu trung tính nguy cơ cao gợi ý cần bổ sung điều trị kháng nấm theo kinh nghiệm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi viêm nội tâm mạc van tim nhân tạo do tụ cầu coagulase âm",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi.<br><br><b>Bệnh sử:</b> Viêm nội tâm mạc van tim nhân tạo do tụ cầu coagulase âm, kháng sinh đồ nhạy Vancomycin, Rifampin, Gentamicin.",
+      "questions": [
+        {
+          "q": "Mục đích chính của việc phối hợp cả ba thuốc trên trong tình huống này là gì?",
+          "options": [
+            "Giảm chi phí điều trị chung",
+            "Diệt vi khuẩn trong màng sinh học trên vật liệu nhân tạo và hạn chế chọn lọc chủng đề kháng Rifampin",
+            "Giảm tác dụng không mong muốn của từng thuốc riêng lẻ",
+            "Rút ngắn thời gian điều trị xuống dưới một tuần"
+          ],
+          "answer": 1,
+          "explain": "Nhiễm khuẩn vật liệu nhân tạo có màng sinh học khó thấm thuốc; Rifampin có hoạt tính tốt trên vi khuẩn trong màng sinh học nhưng dễ chọn lọc đề kháng nếu dùng đơn độc, nên cần phối hợp."
+        },
+        {
+          "q": "Vì sao Rifampin thường được thêm vào phác đồ sau vài ngày dùng Vancomycin/Gentamicin, thay vì bắt đầu đồng thời ngay từ đầu?",
+          "options": [
+            "Giảm nguy cơ chọn lọc nhanh chủng đề kháng Rifampin khi gánh nặng vi khuẩn còn cao",
+            "Rifampin làm giảm hấp thu của Vancomycin nếu dùng đồng thời từ đầu",
+            "Không có lý do dược lý học đặc biệt cho cách làm này",
+            "Rifampin cần thời gian tích luỹ mới bắt đầu có tác dụng"
+          ],
+          "answer": 0,
+          "explain": "Khi mật độ vi khuẩn còn cao, dùng Rifampin sớm/đơn độc dễ chọn lọc ra các đột biến đề kháng; trì hoãn vài ngày sau khi các thuốc diệt khuẩn khác đã giảm bớt gánh nặng vi khuẩn giúp hạn chế nguy cơ này."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 40 tuổi rung nhĩ đang dùng Digoxin kê thêm Clarithromycin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 40 tuổi.<br><br><b>Tiền sử:</b> Rung nhĩ đang dùng Digoxin và Verapamil.<br><br><b>Bệnh sử:</b> Được kê thêm Clarithromycin điều trị viêm xoang cấp.",
+      "questions": [
+        {
+          "q": "Nguy cơ lâm sàng đáng lo ngại nhất khi phối hợp thêm Clarithromycin trong bối cảnh này là gì?",
+          "options": [
+            "Ngộ độc Digoxin và rối loạn dẫn truyền nhĩ thất do cộng hưởng tương tác",
+            "Hạ Kali máu nặng cấp tính",
+            "Tăng huyết áp kịch phát",
+            "Giảm bạch cầu hạt cấp tính"
+          ],
+          "answer": 0,
+          "explain": "Clarithromycin làm tăng nồng độ Digoxin qua nhiều cơ chế, cộng hưởng với Verapamil (vốn cũng làm chậm dẫn truyền nhĩ thất) — nguy cơ ngộ độc Digoxin và block nhĩ thất tăng cao."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi ghép thận bị viêm phổi cộng đồng chọn Macrolid",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Tiền sử:</b> Ghép thận đang dùng Tacrolimus.<br><br><b>Bệnh sử:</b> Viêm phổi cộng đồng, bác sĩ cân nhắc giữa Azithromycin và Clarithromycin.",
+      "questions": [
+        {
+          "q": "Lý do hợp lý nhất để ưu tiên Azithromycin hơn Clarithromycin ở bệnh nhân này là gì?",
+          "options": [
+            "Azithromycin ít ức chế CYP3A4 hơn, giảm nguy cơ tăng nồng độ Tacrolimus gây độc thận",
+            "Azithromycin có thời gian bán thải ngắn hơn nên an toàn hơn",
+            "Azithromycin có phổ kháng khuẩn rộng hơn hẳn Clarithromycin",
+            "Azithromycin không được chuyển hoá qua gan nên không ảnh hưởng người ghép tạng"
+          ],
+          "answer": 0,
+          "explain": "Clarithromycin ức chế CYP3A4 mạnh hơn nhiều so với Azithromycin, làm tăng đáng kể nguy cơ ngộ độc các thuốc ức chế miễn dịch chuyển hoá qua enzym này."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 45 tuổi COPD dùng corticoid kéo dài kê thêm Levofloxacin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 45 tuổi.<br><br><b>Tiền sử:</b> COPD, đang dùng corticoid đường uống kéo dài.<br><br><b>Bệnh sử:</b> Đợt cấp COPD, được kê Levofloxacin.",
+      "questions": [
+        {
+          "q": "Yếu tố nào của bệnh nhân làm tăng đáng kể nguy cơ biến chứng gân-cơ-xương-khớp nghiêm trọng của thuốc này?",
+          "options": [
+            "Đường dùng thuốc uống thay vì tiêm",
+            "Bản thân đợt cấp COPD",
+            "Giới tính nữ đơn thuần",
+            "Sử dụng corticoid đồng thời"
+          ],
+          "answer": 3,
+          "explain": "Phối hợp corticoid toàn thân với Fluoroquinolon làm tăng đáng kể nguy cơ viêm gân/đứt gân, đặc biệt ở người cao tuổi."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi phình động mạch chủ bụng tránh dùng Fluoroquinolon",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 72 tuổi.<br><br><b>Tiền sử:</b> Tăng huyết áp, đã biết có phình động mạch chủ bụng.<br><br><b>Bệnh sử:</b> Viêm phế quản cấp nghi tác nhân không điển hình.",
+      "questions": [
+        {
+          "q": "Kháng sinh nào nên tránh do làm tăng nguy cơ biến cố mạch máu lớn ở bệnh nhân này?",
+          "options": [
+            "Amoxicilin-Clavulanat",
+            "Azithromycin",
+            "Ciprofloxacin",
+            "Cefuroxim"
+          ],
+          "answer": 2,
+          "explain": "FDA đã cảnh báo nguy cơ phình/bóc tách động mạch chủ liên quan Fluoroquinolon, đặc biệt ở người đã có bệnh mạch máu nền."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 26 tuổi bị tan máu cấp sau khi dùng kháng sinh tiết niệu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 26 tuổi.<br><br><b>Bệnh sử:</b> Xuất hiện tan máu cấp hai ngày sau khi bắt đầu một kháng sinh điều trị nhiễm khuẩn tiết niệu.<br><br><b>Xét nghiệm:</b> Thiếu men G6PD.",
+      "questions": [
+        {
+          "q": "Trong các thuốc sau, thuốc nào nhiều khả năng là nguyên nhân nhất?",
+          "options": [
+            "Cefalexin",
+            "Nitrofurantoin",
+            "Amoxicilin",
+            "Doxycyclin"
+          ],
+          "answer": 1,
+          "explain": "Nitrofurantoin là nguyên nhân kinh điển gây tan máu cấp ở người thiếu G6PD do stress oxy hoá lên hồng cầu."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ 8 tuần vi khuẩn niệu không triệu chứng chọn kháng sinh",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, mang thai 8 tuần.<br><br><b>Bệnh sử:</b> Phát hiện vi khuẩn niệu không triệu chứng, kháng sinh đồ nhạy cả Nitrofurantoin, Amoxicilin và Cephalexin.",
+      "questions": [
+        {
+          "q": "Cân nhắc quan trọng nhất khi lựa chọn kháng sinh ở giai đoạn thai kỳ này là gì?",
+          "options": [
+            "Amoxicilin chống chỉ định tuyệt đối trong thai kỳ",
+            "Không có lựa chọn nào trong ba thuốc này an toàn khi mang thai",
+            "Cephalexin có nguy cơ gây quái thai cao ở tam cá nguyệt đầu",
+            "Nên tránh Nitrofurantoin gần đủ tháng và cân nhắc kỹ thêm ở tam cá nguyệt đầu"
+          ],
+          "answer": 3,
+          "explain": "Amoxicilin và Cephalexin nhìn chung an toàn trong thai kỳ; Nitrofurantoin cần thận trọng hơn, đặc biệt gần đủ tháng (nguy cơ tan máu sơ sinh) và có tranh luận về tam cá nguyệt đầu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 34 tuổi bị viêm gân gót khi dùng Ciprofloxacin phối hợp Prednisolon",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 34 tuổi.<br><br><b>Tiền sử:</b> Đang dùng Prednisolon cho hen phế quản.<br><br><b>Bệnh sử:</b> Viêm gân gót sau 5 ngày dùng Ciprofloxacin điều trị viêm tuyến tiền liệt.",
+      "questions": [
+        {
+          "q": "Hướng xử trí hợp lý nhất lúc này là gì?",
+          "options": [
+            "Ngừng Prednisolon nhưng vẫn tiếp tục Ciprofloxacin nguyên liều",
+            "Ngừng Ciprofloxacin ngay, hạn chế vận động gân tổn thương, đổi sang kháng sinh khác phù hợp",
+            "Tiếp tục Ciprofloxacin vì lợi ích điều trị nhiễm khuẩn được cho là lớn hơn",
+            "Giảm liều Ciprofloxacin còn một nửa rồi tiếp tục theo dõi"
+          ],
+          "answer": 1,
+          "explain": "Viêm gân là dấu hiệu cảnh báo sớm của tổn thương gân do Fluoroquinolon — cần ngừng thuốc ngay để tránh đứt gân, đặc biệt khi có thêm yếu tố nguy cơ là corticoid."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi creatinin tăng dần sau truyền Vancomycin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 58 tuổi.<br><br><b>Bệnh sử:</b> Đang truyền Vancomycin ngày thứ 3, không kèm ban đỏ hay ngứa khi truyền.<br><br><b>Xét nghiệm:</b> Creatinin huyết thanh tăng dần từ ngày thứ 2.",
+      "questions": [
+        {
+          "q": "Nguyên nhân phù hợp nhất với diễn tiến trên là gì?",
+          "options": [
+            "Sốc phản vệ khởi phát chậm",
+            "Hội chứng người đỏ",
+            "Phản ứng dị ứng ngoài da đơn thuần",
+            "Độc thận tích luỹ liên quan nồng độ Vancomycin"
+          ],
+          "answer": 3,
+          "explain": "Diễn tiến từ từ qua nhiều ngày, không kèm biểu hiện da/ngứa khi truyền, phù hợp độc thận tích luỹ hơn là các phản ứng liên quan tốc độ truyền hay dị ứng cấp."
+        },
+        {
+          "q": "Yếu tố nào sau đây làm tăng khả năng độc thận do Vancomycin nhất trong bối cảnh lâm sàng tương tự?",
+          "options": [
+            "Phối hợp đồng thời thuốc cản quang hoặc thuốc độc thận khác cùng nồng độ đáy cao kéo dài",
+            "Giới tính nữ",
+            "Dùng đường uống thay vì đường tĩnh mạch",
+            "Tuổi còn trẻ"
+          ],
+          "answer": 0,
+          "explain": "Nguy cơ độc thận tăng theo nồng độ đáy cao kéo dài và khi phối hợp với các thuốc/chất cản quang gây độc thận khác."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 63 tuổi khó thở tiến triển khi dùng phối hợp Amiodaron và Nitrofurantoin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 63 tuổi.<br><br><b>Tiền sử:</b> Đang dùng Amiodaron cho loạn nhịp, Nitrofurantoin dự phòng nhiễm khuẩn tiết niệu tái phát trong nhiều tháng.<br><br><b>Bệnh sử:</b> Gần đây khó thở tiến triển.<br><br><b>Xét nghiệm:</b> X-quang phổi mờ lan toả hai bên.",
+      "questions": [
+        {
+          "q": "Trong bối cảnh đang dùng cả hai thuốc này kéo dài, nguyên nhân nào cần được nghĩ đến và loại trừ sớm?",
+          "options": [
+            "Viêm phổi do virus thông thường",
+            "Dị ứng thuốc cấp tính qua trung gian IgE",
+            "Phù phổi cấp do quá tải dịch đơn thuần",
+            "Tổn thương phổi mạn tính liên quan việc sử dụng kéo dài một trong hai loại thuốc trên"
+          ],
+          "answer": 3,
+          "explain": "Cả Amiodaron và Nitrofurantoin dùng kéo dài đều có thể gây độc phổi mạn tính (viêm phổi kẽ/xơ phổi) — cần cân nhắc và đánh giá kỹ khi bệnh nhân đang dùng đồng thời cả hai."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi viêm màng não mủ do phế cầu kháng Penicilin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi.<br><br><b>Bệnh sử:</b> Viêm màng não mủ do phế cầu kháng Penicilin mức độ trung gian, đang điều trị bằng Ceftriaxon liều cao.",
+      "questions": [
+        {
+          "q": "Cơ sở dược lý chính của việc dùng liều/tần suất cao hơn trong viêm màng não so với các nhiễm khuẩn thông thường là gì?",
+          "options": [
+            "Phế cầu kháng Penicilin mức độ trung gian luôn kháng chéo hoàn toàn với Ceftriaxon",
+            "Cần đạt nồng độ đủ cao trong dịch não tuỷ do hàng rào máu não hạn chế sự thấm thuốc",
+            "Ceftriaxon có thời gian bán thải ngắn hơn hẳn khi ở trong dịch não tuỷ",
+            "Liều cao giúp giảm nguy cơ dị ứng chéo với Penicilin"
+          ],
+          "answer": 1,
+          "explain": "Hàng rào máu não hạn chế thấm thuốc ngay cả khi có viêm; cần liều cao hơn để đạt nồng độ diệt khuẩn đủ trong dịch não tuỷ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 50 tuổi xơ gan Child C bị nhiễm khuẩn tiết niệu phức tạp",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 50 tuổi.<br><br><b>Tiền sử:</b> Xơ gan Child C.<br><br><b>Bệnh sử:</b> Nhiễm khuẩn tiết niệu phức tạp, cần lựa chọn kháng sinh ít gây tích luỹ do đường thải trừ.",
+      "questions": [
+        {
+          "q": "Trong hai Cephalosporin thế hệ 3 sau, thuốc nào ít cần cân nhắc điều chỉnh do đặc điểm thải trừ chủ yếu qua thận thay vì qua mật?",
+          "options": [
+            "Doxycyclin",
+            "Erythromycin",
+            "Ceftazidim",
+            "Ceftriaxon"
+          ],
+          "answer": 2,
+          "explain": "Ceftazidim thải trừ chủ yếu qua thận, trong khi Ceftriaxon thải trừ đáng kể qua mật — ở bệnh nhân suy gan nặng có ứ mật, cần cân nhắc lựa chọn phù hợp hơn với đường thải trừ chủ yếu qua thận."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 27 tuổi chấn thương sọ não hở có tiền sử động kinh",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 27 tuổi.<br><br><b>Tiền sử:</b> Động kinh kiểm soát tốt bằng thuốc.<br><br><b>Bệnh sử:</b> Chấn thương sọ não hở, cần dự phòng kháng sinh.",
+      "questions": [
+        {
+          "q": "Trong các Carbapenem/Beta-lactam sau, thuốc nào cần đặc biệt thận trọng nhất do nguy cơ co giật khi dùng liều cao?",
+          "options": [
+            "Imipenem",
+            "Ceftriaxon",
+            "Ertapenem",
+            "Meropenem"
+          ],
+          "answer": 0,
+          "explain": "Imipenem có nguy cơ gây co giật cao hơn các Carbapenem khác, đặc biệt ở liều cao hoặc khi có bệnh lý thần kinh trung ương nền."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 33 tuổi viêm vùng chậu cấp nghi ngờ đồng nhiễm",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 33 tuổi.<br><br><b>Bệnh sử:</b> Viêm vùng chậu cấp, nghi ngờ đồng nhiễm lậu cầu và Chlamydia trachomatis.",
+      "questions": [
+        {
+          "q": "Phác đồ phối hợp hợp lý nhất trong tình huống này là gì?",
+          "options": [
+            "Ceftriaxon phối hợp Doxycyclin và Metronidazol",
+            "Azithromycin đơn độc",
+            "Ciprofloxacin đơn độc",
+            "Ceftriaxon đơn độc liều duy nhất"
+          ],
+          "answer": 0,
+          "explain": "Cần bao phủ đồng thời lậu cầu (Ceftriaxon), Chlamydia (Doxycyclin) và vi khuẩn kỵ khí thường đồng hành trong viêm vùng chậu (Metronidazol)."
+        },
+        {
+          "q": "Vì sao cần phối hợp thêm Doxycyclin dù đã dùng Ceftriaxon liều đủ diệt lậu cầu?",
+          "options": [
+            "Doxycyclin giúp tăng hoạt tính diệt lậu cầu của Ceftriaxon",
+            "Ceftriaxon không có hoạt tính đáng kể trên Chlamydia trachomatis, tác nhân đồng nhiễm thường gặp",
+            "Doxycyclin được thêm vào chủ yếu để giảm tác dụng phụ của Ceftriaxon",
+            "Phối hợp giúp rút ngắn toàn bộ thời gian điều trị xuống còn một ngày"
+          ],
+          "answer": 1,
+          "explain": "Ceftriaxon không bao phủ Chlamydia — cần thêm Doxycyclin (hoặc Azithromycin) để điều trị đồng nhiễm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi viêm tuỷ xương mạn tính do tụ cầu chọn thuốc duy trì đường uống",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Tiền sử:</b> Chức năng thận bình thường.<br><br><b>Bệnh sử:</b> Viêm tuỷ xương mạn tính do tụ cầu, kháng sinh đồ nhạy cả Clindamycin và Vancomycin, cần điều trị duy trì kéo dài, ưu tiên khả năng chuyển sang đường uống.",
+      "questions": [
+        {
+          "q": "Trong hai lựa chọn trên, thuốc nào phù hợp hơn cho giai đoạn điều trị duy trì kéo dài bằng đường uống?",
+          "options": [
+            "Gentamicin",
+            "Clindamycin",
+            "Aztreonam",
+            "Vancomycin"
+          ],
+          "answer": 1,
+          "explain": "Clindamycin có sinh khả dụng đường uống tốt và thấm mạnh vào xương, phù hợp cho điều trị duy trì kéo dài ngoại trú, khác với Vancomycin (chủ yếu đường tĩnh mạch)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi sốc nhiễm khuẩn đang lọc máu liên tục (CRRT)",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Bệnh sử:</b> Sốc nhiễm khuẩn từ đường tiết niệu do trực khuẩn Gram âm, hiện đang được lọc máu liên tục (CRRT).",
+      "questions": [
+        {
+          "q": "Nguyên tắc chỉnh liều kháng sinh cần lưu ý ở bệnh nhân đang lọc máu liên tục là gì?",
+          "options": [
+            "Luôn giảm liều tối đa như suy thận giai đoạn cuối không lọc máu",
+            "Liều có thể cần cao hơn so với suy thận không lọc máu vì thuốc còn bị loại bỏ thêm qua màng lọc",
+            "Chỉ cần điều chỉnh liều với nhóm Beta-lactam, không cần với Aminoglycosid",
+            "Không cần điều chỉnh liều vì CRRT không ảnh hưởng dược động học"
+          ],
+          "answer": 1,
+          "explain": "CRRT loại bỏ thêm một lượng thuốc đáng kể, đặc biệt các thuốc tan trong nước, thể tích phân bố nhỏ — cần liều cao hơn so với suy thận không lọc máu để đạt hiệu quả điều trị."
+        },
+        {
+          "q": "Nhóm kháng sinh nào bị loại bỏ đáng kể qua CRRT nhất, thường cần cân nhắc bổ sung liều sau các phiên lọc?",
+          "options": [
+            "Ceftriaxon (thải trừ chủ yếu qua mật)",
+            "Erythromycin (chuyển hoá chủ yếu qua gan)",
+            "Doxycyclin (gắn protein huyết tương cao)",
+            "Aminoglycosid/Vancomycin (tan trong nước, thể tích phân bố nhỏ)"
+          ],
+          "answer": 3,
+          "explain": "Các thuốc tan trong nước, ít gắn protein, thể tích phân bố nhỏ bị loại bỏ đáng kể qua màng lọc, trong khi thuốc gắn protein cao hoặc chuyển hoá/thải qua gan-mật ít bị ảnh hưởng hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 48 tuổi đang dùng methotrexat kê thêm Trimethoprim-Sulfamethoxazol",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 48 tuổi.<br><br><b>Tiền sử:</b> Đang dùng Methotrexat liều thấp điều trị viêm khớp dạng thấp.<br><br><b>Bệnh sử:</b> Được kê Trimethoprim-Sulfamethoxazol điều trị viêm phế quản cấp.",
+      "questions": [
+        {
+          "q": "Nguy cơ tương tác nghiêm trọng cần lưu ý khi phối hợp hai thuốc này là gì?",
+          "options": [
+            "Giảm hẳn tác dụng của Methotrexat do cảm ứng enzym gan",
+            "Nguy cơ khởi phát hội chứng serotonin",
+            "Tăng độc tính Methotrexat do cạnh tranh bài tiết ở ống thận và cộng hưởng ức chế chuyển hoá folat",
+            "Không có tương tác đáng kể giữa hai thuốc này"
+          ],
+          "answer": 2,
+          "explain": "Trimethoprim và Methotrexat đều ức chế chuyển hoá folat, đồng thời Trimethoprim còn cạnh tranh bài tiết ở ống thận — phối hợp làm tăng đáng kể độc tính Methotrexat."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 62 tuổi đang dùng warfarin được kê thêm Ceftriaxon",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 62 tuổi.<br><br><b>Tiền sử:</b> Đang dùng Warfarin liều ổn định nhiều năm.<br><br><b>Bệnh sử:</b> Nhập viện vì viêm phổi cộng đồng, được kê Ceftriaxon.",
+      "questions": [
+        {
+          "q": "Cơ chế nào giải thích khả năng Ceftriaxon vẫn có thể ảnh hưởng đến INR dù ít tương tác qua CYP450 hơn nhiều kháng sinh khác?",
+          "options": [
+            "Ceftriaxon cảm ứng mạnh CYP2C9 làm tăng chuyển hoá Warfarin",
+            "Ceftriaxon làm tăng hấp thu Warfarin qua đường tiêu hoá",
+            "Ức chế hệ vi khuẩn ruột tổng hợp Vitamin K, một số Cephalosporin còn có thể ức chế trực tiếp enzym khử epoxid Vitamin K",
+            "Ceftriaxon đẩy Warfarin khỏi vị trí gắn protein huyết tương mạnh nhất trong nhóm Cephalosporin"
+          ],
+          "answer": 2,
+          "explain": "Kháng sinh phổ rộng nói chung có thể ảnh hưởng gián tiếp đến tổng hợp Vitamin K của hệ vi khuẩn ruột; một số Cephalosporin còn có cấu trúc gây ức chế trực tiếp enzym liên quan chu trình Vitamin K."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 70 tuổi bệnh thận mạn chọn kháng sinh kỵ khí",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 70 tuổi.<br><br><b>Tiền sử:</b> Bệnh thận mạn giai đoạn 4.<br><br><b>Bệnh sử:</b> Viêm phổi hít, bác sĩ cân nhắc Clindamycin thay vì Metronidazol để bao phủ vi khuẩn kỵ khí.",
+      "questions": [
+        {
+          "q": "Lý do hợp lý để ưu tiên Clindamycin hơn ở bệnh nhân này là gì?",
+          "options": [
+            "Clindamycin không có nguy cơ gây viêm đại tràng giả mạc như Metronidazol",
+            "Clindamycin có thời gian bán thải ngắn hơn nên phù hợp với suy thận",
+            "Clindamycin thải trừ chủ yếu qua gan-mật nên ít cần chỉnh liều theo chức năng thận hơn",
+            "Clindamycin có phổ kỵ khí kém hơn Metronidazol nên an toàn hơn"
+          ],
+          "answer": 2,
+          "explain": "Clindamycin thải trừ chủ yếu qua đường mật, ít bị ảnh hưởng bởi suy thận hơn so với một số thuốc thải trừ qua thận — thuận lợi ở bệnh nhân suy thận nặng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 61 tuổi choáng phản vệ Penicilin chọn Beta-lactam thay thế",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 61 tuổi.<br><br><b>Tiền sử:</b> Choáng phản vệ ngay khi tiêm liều thử Penicilin, đã được cấp cứu ổn định.<br><br><b>Bệnh sử:</b> Vài ngày sau cần điều trị một nhiễm khuẩn Gram âm nặng.",
+      "questions": [
+        {
+          "q": "Trong nhóm Beta-lactam, kháng sinh nào có nguy cơ dị ứng chéo với Penicilin thấp nhất?",
+          "options": [
+            "Aztreonam",
+            "Meropenem",
+            "Piperacilin",
+            "Cefazolin"
+          ],
+          "answer": 0,
+          "explain": "Aztreonam (monobactam) có cấu trúc khác biệt và ít gây dị ứng chéo với các beta-lactam khác — là lựa chọn an toàn hơn cho bệnh nhân có tiền sử phản vệ với Penicilin."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 39 tuổi viêm mô tế bào chi dưới không kèm mủ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 39 tuổi.<br><br><b>Bệnh sử:</b> Viêm mô tế bào chi dưới không kèm mủ/áp xe, không có yếu tố nguy cơ MRSA.",
+      "questions": [
+        {
+          "q": "Theo nguyên tắc phổ hẹp phù hợp, kháng sinh khởi đầu hợp lý nhất là gì?",
+          "options": [
+            "Meropenem",
+            "Linezolid",
+            "Cephalexin",
+            "Vancomycin"
+          ],
+          "answer": 2,
+          "explain": "Viêm mô tế bào không mủ điển hình thường do liên cầu/tụ cầu nhạy Methicilin — Cephalexin (phổ hẹp, phù hợp) là lựa chọn hợp lý, không cần kháng sinh phổ rộng hay bao phủ MRSA khi không có yếu tố nguy cơ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 50 tuổi đang dùng Amiodaron bị viêm phổi cộng đồng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 50 tuổi.<br><br><b>Tiền sử:</b> Đang dùng Amiodaron điều trị loạn nhịp.<br><br><b>Bệnh sử:</b> Viêm phổi cộng đồng.",
+      "questions": [
+        {
+          "q": "Kháng sinh nào cần đặc biệt thận trọng do nguy cơ cộng hưởng loạn nhịp?",
+          "options": [
+            "Azithromycin hoặc Moxifloxacin",
+            "Doxycyclin",
+            "Cefuroxim",
+            "Amoxicilin"
+          ],
+          "answer": 0,
+          "explain": "Cả Macrolid và Fluoroquinolon đều có nguy cơ kéo dài QT, cộng hưởng với Amiodaron (vốn cũng kéo dài QT) làm tăng nguy cơ xoắn đỉnh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 33 tuổi bị người cắn vào bàn tay",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 33 tuổi.<br><br><b>Bệnh sử:</b> Bị người khác cắn vào bàn tay, vết thương bẩn, nguy cơ nhiễm khuẩn hỗn hợp hiếu khí-kỵ khí kèm Eikenella corrodens.",
+      "questions": [
+        {
+          "q": "Lựa chọn kháng sinh dự phòng/điều trị hợp lý nhất là gì?",
+          "options": [
+            "Clindamycin đơn độc",
+            "Vancomycin",
+            "Ciprofloxacin đơn độc",
+            "Amoxicilin-Clavulanat"
+          ],
+          "answer": 3,
+          "explain": "Amoxicilin-Clavulanat bao phủ tốt cả vi khuẩn hiếu khí, kỵ khí và Eikenella (vốn kém nhạy với Clindamycin đơn độc) trong vết thương do người/động vật cắn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 58 tuổi viêm phổi do Legionella pneumophila",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 58 tuổi.<br><br><b>Bệnh sử:</b> Viêm phổi do Legionella pneumophila đã xác định bằng xét nghiệm kháng nguyên nước tiểu.",
+      "questions": [
+        {
+          "q": "Nhóm kháng sinh nào có hiệu quả tốt nhất nhờ khả năng xuyên thấm nội bào?",
+          "options": [
+            "Fluoroquinolon hô hấp hoặc Macrolid mới",
+            "Aminoglycosid",
+            "Beta-lactam đơn độc",
+            "Vancomycin"
+          ],
+          "answer": 0,
+          "explain": "Legionella là vi khuẩn nội bào — cần kháng sinh thấm tốt vào tế bào như Fluoroquinolon hoặc Macrolid; Beta-lactam và Aminoglycosid không hiệu quả do không thấm đủ vào nội bào."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 46 tuổi viêm phổi cộng đồng nặng nghi do Pseudomonas",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 46 tuổi.<br><br><b>Bệnh sử:</b> Viêm phổi cộng đồng nặng nhập ICU thở máy, cấy đờm nghi trực khuẩn Gram âm dạng Pseudomonas, huyết động không ổn định, chưa có kết quả kháng sinh đồ.",
+      "questions": [
+        {
+          "q": "Nguyên tắc phối hợp kháng sinh kinh nghiệm ban đầu hợp lý nhất trong tình huống này là gì?",
+          "options": [
+            "Phối hợp hai thuốc có hoạt tính kháng Pseudomonas khác cơ chế để tăng khả năng bao phủ đủ phổ trước khi có kết quả kháng sinh đồ",
+            "Không cần kháng sinh kinh nghiệm, chờ kết quả định danh vi khuẩn",
+            "Ưu tiên Vancomycin đơn độc bao phủ toàn bộ tác nhân nghi ngờ",
+            "Chỉ dùng một Beta-lactam phổ hẹp trong khi chờ kết quả cấy"
+          ],
+          "answer": 0,
+          "explain": "Trong bệnh cảnh nặng, huyết động không ổn định và nghi ngờ Pseudomonas, phối hợp hai kháng sinh khác cơ chế giúp tăng khả năng ít nhất một thuốc còn nhạy cảm trong khi chờ kết quả kháng sinh đồ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 62 tuổi đang dùng Cyclosporin bị viêm phổi do Legionella",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 62 tuổi.<br><br><b>Tiền sử:</b> Đang dùng Cyclosporin sau ghép gan.<br><br><b>Bệnh sử:</b> Viêm phổi do Legionella, bác sĩ cân nhắc giữa Levofloxacin và Erythromycin.",
+      "questions": [
+        {
+          "q": "Lý do Levofloxacin thường được ưu tiên hơn trong bối cảnh này là gì?",
+          "options": [
+            "Levofloxacin ít ảnh hưởng CYP3A4 hơn nên ít tương tác với Cyclosporin hơn Erythromycin",
+            "Levofloxacin có phổ kháng khuẩn hẹp hơn nên an toàn hơn",
+            "Levofloxacin luôn có hiệu quả cao hơn Erythromycin trên Legionella trong mọi trường hợp",
+            "Levofloxacin không thấm vào nội bào nên ít gây độc tính"
+          ],
+          "answer": 0,
+          "explain": "Erythromycin ức chế mạnh CYP3A4, có nguy cơ tương tác đáng kể với Cyclosporin; Levofloxacin ít ảnh hưởng enzym này hơn, thuận lợi hơn ở bệnh nhân ghép tạng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi tiền sử rối loạn tâm thần liên quan Levofloxacin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Tiền sử:</b> Từng có ảo giác/rối loạn tâm thần rõ ràng liên quan thời gian dùng Levofloxacin trước đây.<br><br><b>Bệnh sử:</b> Viêm phổi cộng đồng.",
+      "questions": [
+        {
+          "q": "Kháng sinh nào nên tránh sử dụng trong đợt điều trị lần này?",
+          "options": [
+            "Toàn bộ nhóm Fluoroquinolon do nguy cơ tái phát tác dụng phụ thần kinh-tâm thần",
+            "Không cần tránh vì phản ứng trước đó có thể chỉ là ngẫu nhiên",
+            "Chỉ cần tránh riêng Levofloxacin, các Fluoroquinolon khác vẫn an toàn",
+            "Chỉ cần giảm liều Levofloxacin ở đợt điều trị này"
+          ],
+          "answer": 0,
+          "explain": "Tác dụng phụ thần kinh-tâm thần là đặc điểm chung của cả nhóm Fluoroquinolon (do cùng cơ chế ức chế thụ thể GABA) — nên tránh toàn bộ nhóm ở bệnh nhân có tiền sử này."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 34 tuổi đang dùng Haloperidol bị viêm phổi cộng đồng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 34 tuổi.<br><br><b>Tiền sử:</b> Đang dùng thuốc chống loạn thần Haloperidol.<br><br><b>Bệnh sử:</b> Viêm phổi cộng đồng.",
+      "questions": [
+        {
+          "q": "Kháng sinh nào cần đặc biệt thận trọng do nguy cơ cộng hưởng kéo dài khoảng QT?",
+          "options": [
+            "Cefpodoxim",
+            "Doxycyclin",
+            "Amoxicilin",
+            "Azithromycin"
+          ],
+          "answer": 3,
+          "explain": "Haloperidol vốn có nguy cơ kéo dài QT; phối hợp thêm Macrolid làm tăng nguy cơ này — cần cân nhắc thuốc thay thế hoặc theo dõi ECG sát."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 29 tuổi bị lậu cầu lan toả kèm tổn thương da",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 29 tuổi.<br><br><b>Bệnh sử:</b> Viêm khớp cấp do lậu cầu lan toả, kèm tổn thương da dạng mụn mủ rải rác.",
+      "questions": [
+        {
+          "q": "Đường dùng và thời gian điều trị Ceftriaxon hợp lý cho thể lậu cầu lan toả này, so với viêm niệu đạo đơn thuần, là gì?",
+          "options": [
+            "Đường tiêm, kéo dài hơn (thường ít nhất khoảng một tuần) thay vì liều duy nhất",
+            "Liều duy nhất đường tiêm là đủ như trong viêm niệu đạo đơn thuần",
+            "Đường uống liều duy nhất tương tự viêm niệu đạo",
+            "Không cần Ceftriaxon, chỉ cần Azithromycin đơn độc là đủ"
+          ],
+          "answer": 0,
+          "explain": "Lậu cầu lan toả (viêm khớp, tổn thương da) cần điều trị đường tiêm kéo dài hơn nhiều so với viêm niệu đạo đơn thuần vốn chỉ cần liều duy nhất."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 66 tuổi lọc máu chu kỳ bị nhiễm khuẩn catheter do MRSA",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 66 tuổi.<br><br><b>Tiền sử:</b> Lọc thận nhân tạo chu kỳ.<br><br><b>Bệnh sử:</b> Nhiễm khuẩn catheter do tụ cầu vàng kháng Methicilin.",
+      "questions": [
+        {
+          "q": "Thời điểm hợp lý để truyền Vancomycin liên quan đến lịch lọc máu là khi nào?",
+          "options": [
+            "Truyền vào đầu buổi lọc máu bất kể thời điểm nào trong ngày",
+            "Không cần liên quan đến lịch lọc máu",
+            "Luôn truyền cách xa buổi lọc máu ít nhất 24 giờ",
+            "Truyền vào cuối buổi lọc máu để giảm lượng thuốc bị loại bỏ qua màng lọc và duy trì nồng độ"
+          ],
+          "answer": 3,
+          "explain": "Truyền vào cuối buổi lọc giúp hạn chế lượng thuốc bị loại bỏ ngay qua màng lọc, duy trì nồng độ điều trị hiệu quả hơn cho đến buổi lọc tiếp theo."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi nhiễm khuẩn huyết do VRE trên nền xơ gan giảm tiểu cầu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Tiền sử:</b> Xơ gan giảm tiểu cầu nền.<br><br><b>Bệnh sử:</b> Nhiễm khuẩn huyết do Enterococcus faecium kháng Vancomycin (VRE).",
+      "questions": [
+        {
+          "q": "Giữa Linezolid và Daptomycin, yếu tố nào của bệnh nhân khiến cân nhắc ưu tiên Daptomycin hơn?",
+          "options": [
+            "Daptomycin luôn hiệu quả hơn Linezolid trên VRE trong mọi trường hợp",
+            "Linezolid chống chỉ định tuyệt đối ở mọi bệnh nhân xơ gan",
+            "Nguy cơ giảm tiểu cầu nền khiến Linezolid (vốn gây ức chế tuỷ) kém phù hợp hơn",
+            "Daptomycin không có nguy cơ tác dụng phụ đáng kể nào"
+          ],
+          "answer": 2,
+          "explain": "Linezolid gây ức chế tuỷ (đặc biệt giảm tiểu cầu) khi dùng trên 2 tuần — ở bệnh nhân đã có giảm tiểu cầu nền, Daptomycin có thể là lựa chọn thận trọng hơn (miễn không phải viêm phổi)."
+        }
+      ]
+    }
+  ]
+}
