@@ -1,0 +1,794 @@
+{
+  "name": "Thuốc Opioid",
+  "description": "Bộ câu hỏi ôn tập Thuốc Opioid bao gồm 39 case lâm sàng (50 câu hỏi nhỏ) và 50 câu hỏi lý thuyết dược lý đơn thuần mô phỏng cấu trúc đề thi Bác sĩ Nội trú (Y6).",
+  "level": "Bác sĩ Nội trú (Y6)",
+  "type": "cases",
+  "category": "Cơ sở",
+  "subcategory": "Dược lý",
+  "cases": [
+    {
+      "title": "Bệnh nhân ung thư giai đoạn cuối đau nhiều cần chuyển từ morphin uống sang tiêm",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân ung thư giai đoạn cuối đau nhiều, đang được giảm đau bằng morphin đường uống. Bác sĩ giải thích rằng nếu cần chuyển sang đường tiêm thì phải giảm liều so với liều uống đang dùng.",
+      "questions": [
+        {
+          "q": "Vì sao sinh khả dụng của morphin đường uống thấp hơn nhiều so với đường tiêm?",
+          "options": [
+            "Do bị phân hủy bởi acid dịch vị",
+            "Do chuyển hóa qua gan lần đầu rất lớn",
+            "Do không hấp thu được qua niêm mạc ruột",
+            "Do bị enzym CYP2D6 phân hủy hoàn toàn"
+          ],
+          "answer": 1,
+          "explain": "Morphin hấp thu tốt qua đường tiêu hóa nhưng chịu chuyển hóa qua gan lần đầu rất lớn, khiến sinh khả dụng đường uống chỉ khoảng 25%."
+        },
+        {
+          "q": "Chất chuyển hóa nào của morphin có tác dụng giảm đau MẠNH HƠN morphin và có thể tích lũy gây ức chế hô hấp ở bệnh nhân suy thận?",
+          "options": [
+            "Morphin-3-glucuronid (M3G)",
+            "Normeperidin",
+            "Morphin-6-glucuronid (M6G)",
+            "6-naltrexon"
+          ],
+          "answer": 2,
+          "explain": "M6G là chất chuyển hóa có hoạt tính, giảm đau mạnh hơn morphin và tích lũy khi suy thận; M3G không có tác dụng giảm đau."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân xuất hiện thở chậm và đồng tử co nhỏ sau tiêm morphin",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân sau phẫu thuật bụng lớn được giảm đau bằng morphin tiêm tĩnh mạch. Hai giờ sau, điều dưỡng phát hiện bệnh nhân thở 6 lần/phút, đồng tử co nhỏ như đầu đanh ghim, gọi hỏi không đáp ứng.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất là gì?",
+          "options": [
+            "Sốc phản vệ",
+            "Ngộ độc cấp opioid",
+            "Tai biến mạch máu não",
+            "Hạ đường huyết"
+          ],
+          "answer": 1,
+          "explain": "Tam chứng hôn mê – co nhỏ đồng tử – ức chế hô hấp là kinh điển của ngộ độc cấp opioid."
+        },
+        {
+          "q": "Thuốc giải độc đặc hiệu cần dùng ngay là gì?",
+          "options": [
+            "Flumazenil",
+            "Naloxon",
+            "Atropin",
+            "N-acetylcystein"
+          ],
+          "answer": 1,
+          "explain": "Naloxon là chất đối kháng thuần túy tại thụ thể opioid, dùng để cấp cứu ngộ độc cấp opioid."
+        },
+        {
+          "q": "Vì sao sau khi dùng thuốc giải độc trên, cần tiếp tục theo dõi sát bệnh nhân trong ít nhất 2 giờ?",
+          "options": [
+            "Vì thuốc giải độc trên gây hạ huyết áp muộn",
+            "Vì thời gian bán thải của thuốc giải độc ngắn hơn morphin nên có nguy cơ suy hô hấp trở lại",
+            "Vì thuốc giải độc có thể gây sốc phản vệ muộn",
+            "Vì thuốc giải độc cần thời gian mới đạt nồng độ điều trị"
+          ],
+          "answer": 1,
+          "explain": "T½ của naloxon (60–90 phút) ngắn hơn nhiều opioid gây ngộ độc → nguy cơ tái ngộ độc (renarcotization) khi naloxon hết tác dụng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân đau quặn mật do sỏi ống mật chủ được chỉ định pethidin",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân đau quặn mật do sỏi ống mật chủ, được chỉ định pethidin để giảm đau.",
+      "questions": [
+        {
+          "q": "Khi dùng pethidin cho bệnh nhân đau quặn mật, cần phối hợp thêm thuốc nào để hạn chế tác dụng co thắt cơ Oddi của thuốc?",
+          "options": [
+            "Naloxon",
+            "Atropin",
+            "Diazepam",
+            "Metoclopramid"
+          ],
+          "answer": 1,
+          "explain": "Pethidin (và các opioid nói chung) gây co thắt cơ Oddi; cần phối hợp atropin (giãn cơ trơn) khi đau đường mật."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân có tiền sử hen phế quản đau cấp sau chấn thương",
+      "body": "<b>Tiền sử:</b> Hen phế quản.<br><br><b>Bệnh sử:</b> Nhập viện vì đau cấp mức độ nặng sau chấn thương, bác sĩ đang cân nhắc lựa chọn opioid phù hợp.",
+      "questions": [
+        {
+          "q": "Vì sao nên tránh dùng morphin ở bệnh nhân có tiền sử hen phế quản?",
+          "options": [
+            "Morphin làm giãn phế quản quá mức gây tụt huyết áp",
+            "Morphin giải phóng histamin và tăng trương lực cơ trơn phế quản, có thể khởi phát cơn hen",
+            "Morphin gây dị ứng chéo với thuốc giãn phế quản",
+            "Morphin ức chế trung tâm ho làm ứ đọng đờm dãi"
+          ],
+          "answer": 1,
+          "explain": "Morphin giải phóng histamin và tăng co thắt cơ trơn phế quản, có thể khởi phát cơn hen ở người có tiền sử hen — đây là một chống chỉ định của morphin."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân suy thận mạn giai đoạn cuối cần giảm đau mạnh sau phẫu thuật",
+      "body": "<b>Tiền sử:</b> Suy thận mạn giai đoạn cuối (đang lọc máu chu kỳ).<br><br><b>Bệnh sử:</b> Cần giảm đau mạnh sau phẫu thuật cấp cứu.",
+      "questions": [
+        {
+          "q": "Vì sao cần thận trọng, hạn chế dùng morphin kéo dài ở bệnh nhân này?",
+          "options": [
+            "Morphin gây độc trực tiếp cho ống thận, làm nặng thêm tình trạng suy thận của bệnh nhân",
+            "Chất chuyển hóa có hoạt tính của morphin tích lũy do giảm thải trừ qua thận, gây ức chế hô hấp kéo dài",
+            "Morphin làm giảm lưu lượng máu thận nghiêm trọng, làm nặng thêm tình trạng suy thận của bệnh nhân",
+            "Morphin gây tăng kali máu cấp, dẫn đến rối loạn điện giải nặng ở bệnh nhân suy thận"
+          ],
+          "answer": 1,
+          "explain": "Chất chuyển hóa có hoạt tính của morphin (M6G) thải trừ chủ yếu qua thận; ở bệnh nhân suy thận, M6G tích lũy gây ức chế hô hấp kéo dài dù đã ngừng thuốc."
+        },
+        {
+          "q": "Trong nhóm opioid, thuốc nào được xem là lựa chọn AN TOÀN HƠN ở bệnh nhân suy thận do ít phụ thuộc thải trừ qua thận và không có chất chuyển hóa hoạt tính tích lũy đáng kể?",
+          "options": [
+            "Pethidin",
+            "Morphin",
+            "Fentanyl",
+            "Codein"
+          ],
+          "answer": 2,
+          "explain": "Fentanyl bị chuyển hóa mất hoạt tính ở gan và ít phụ thuộc vào thải trừ qua thận hơn morphin/pethidin."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân đang điều trị IMAO nhập viện cần giảm đau cấp",
+      "body": "<b>Tiền sử:</b> Đang điều trị trầm cảm bằng thuốc ức chế monoaminoxidase (IMAO).<br><br><b>Bệnh sử:</b> Nhập viện vì đau cấp cần giảm đau. Bác sĩ trực định kê pethidin tiêm bắp.",
+      "questions": [
+        {
+          "q": "Quyết định kê pethidin cho bệnh nhân này có phù hợp không?",
+          "options": [
+            "Phù hợp, vì pethidin an toàn hơn morphin ở bệnh nhân dùng IMAO",
+            "Không phù hợp, vì phối hợp pethidin với IMAO có thể dẫn đến co giật, hôn mê",
+            "Phù hợp nếu giảm liều một nửa pethidin",
+            "Không phù hợp vì pethidin không có tác dụng giảm đau ở bệnh nhân dùng IMAO"
+          ],
+          "answer": 1,
+          "explain": "Phối hợp pethidin (và tramadol) với IMAO là CHỐNG CHỈ ĐỊNH TUYỆT ĐỐI do nguy cơ hội chứng nguy hiểm: ức chế hô hấp mạnh, tăng thân nhiệt, hôn mê, co giật."
+        },
+        {
+          "q": "Nếu bệnh nhân này đã ngừng thuốc IMAO được 5 ngày, có thể dùng morphin ngay được không?",
+          "options": [
+            "Được, vì đã ngừng thuốc đủ thời gian",
+            "Không được, cần chờ tối thiểu 15 ngày sau khi ngừng IMAO mới được dùng morphin",
+            "Được, nếu giảm liều morphin xuống 1/4 sau đó tăng dần lên liều điều trị",
+            "Không liên quan vì morphin không tương tác với IMAO"
+          ],
+          "answer": 1,
+          "explain": "Cần ngừng IMAO ít nhất 15 ngày trước khi dùng morphin do thời gian cần thiết để phục hồi enzym MAO."
+        }
+      ]
+    },
+    {
+      "title": "Bà mẹ định mua siro chứa codein cho trẻ 8 tuổi ho kéo dài",
+      "body": "<b>Bệnh sử:</b> Một bà mẹ định mua siro có chứa codein không kê đơn cho con trai 8 tuổi đang ho kéo dài sau cảm cúm.",
+      "questions": [
+        {
+          "q": "Quyết định này có phù hợp về mặt an toàn thuốc không?",
+          "options": [
+            "Phù hợp vì codein là thuốc ho thông thường",
+            "Không phù hợp, vì codein chống chỉ định ở trẻ dưới 12 tuổi",
+            "Phù hợp nếu dùng liều thấp hơn người lớn một nửa",
+            "Không phù hợp vì codein không có tác dụng giảm ho"
+          ],
+          "answer": 1,
+          "explain": "FDA và nhiều cơ quan quản lý dược đã đưa ra chống chỉ định codein (và tramadol) ở trẻ em dưới 12 tuổi do nguy cơ ức chế hô hấp."
+        },
+        {
+          "q": "Cơ chế chính giải thích nguy cơ ngộ độc nghiêm trọng khi dùng codein ở một số trẻ là gì?",
+          "options": [
+            "Trẻ hấp thu codein qua niêm mạc miệng nhanh bất thường, dẫn đến tạo ra quá nhiều morphin từ codein",
+            "Một số trẻ có kiểu gen CYP2D6 chuyển hóa siêu nhanh, tạo ra quá nhiều morphin từ codein",
+            "Trẻ em không có thụ thể µ nên thuốc tích lũy toàn bộ, có thể dẫn đến ngộ độc opioid",
+            "Codein bị thủy phân thành heroin trong dạ dày trẻ em, có thể dẫn đến ngộ độc opioid"
+          ],
+          "answer": 1,
+          "explain": "Codein là tiền chất, cần CYP2D6 chuyển thành morphin; người chuyển hóa siêu nhanh tạo morphin nhiều và nhanh hơn bình thường, gây ngộ độc."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ sơ sinh suy hô hấp ngay sau sinh do mẹ dùng morphin",
+      "body": "<b>Bệnh sử:</b> Sản phụ được giảm đau chuyển dạ bằng morphin tiêm tĩnh mạch liều không được điều chỉnh phù hợp. Ngay sau sinh, trẻ sơ sinh xuất hiện thở yếu, phải hồi sức.",
+      "questions": [
+        {
+          "q": "Cơ chế gây suy hô hấp ở trẻ sơ sinh trong tình huống này là gì?",
+          "options": [
+            "Trẻ bị ngạt do dây rốn quấn cổ",
+            "Morphin qua được hàng rào rau thai và ức chế trung tâm hô hấp của trẻ",
+            "Trẻ bị nhiễm khuẩn sơ sinh",
+            "Morphin gây co thắt mạch máu rốn"
+          ],
+          "answer": 1,
+          "explain": "Morphin qua hàng rào rau thai; trung tâm hô hấp trẻ sơ sinh rất nhạy cảm với morphin, dễ bị ức chế nếu mẹ dùng liều không điều chỉnh gần thời điểm sinh."
+        },
+        {
+          "q": "Xử trí cấp cứu suy hô hấp ở trẻ sơ sinh trong tình huống này là dùng thuốc gì?",
+          "options": [
+            "Adrenalin",
+            "Naloxon",
+            "Atropin",
+            "Diazepam"
+          ],
+          "answer": 1,
+          "explain": "Naloxon được dùng để đối kháng tác dụng ức chế hô hấp do opioid ở trẻ sơ sinh có mẹ dùng opioid gần thời điểm sinh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nghiện heroin xuất hiện hội chứng cai cấp sau tiêm naloxon liều cao",
+      "body": "<b>Tiền sử:</b> Nghiện heroin lâu năm.<br><br><b>Bệnh sử:</b> Đưa vào cấp cứu trong tình trạng hôn mê sâu, nhịp thở 2 lần/phút, đồng tử co nhỏ. Sau khi được tiêm naloxon liều cao, tiêm nhanh, bệnh nhân tỉnh dậy đột ngột kèm kích động dữ dội, nôn, tiêu chảy, vã mồ hôi, đau cơ.",
+      "questions": [
+        {
+          "q": "Hiện tượng xảy ra sau khi tiêm naloxon là gì?",
+          "options": [
+            "Phản ứng dị ứng với naloxon",
+            "Hội chứng cai opioid cấp",
+            "Ngộ độc naloxon do dùng quá liều",
+            "Tác dụng phụ thường gặp không liên quan đến cơ chế thuốc"
+          ],
+          "answer": 1,
+          "explain": "Ở người đang lệ thuộc opioid, dùng naloxon liều cao quá nhanh có thể khởi phát hội chứng cai cấp bùng phát dữ dội do naloxon đối kháng đột ngột thụ thể opioid."
+        },
+        {
+          "q": "Để hạn chế biến chứng này ở người nghi ngờ lệ thuộc opioid mạn tính (trừ khi tính mạng bị đe dọa cần đảo ngược nhanh), nên dùng naloxon theo cách nào?",
+          "options": [
+            "Kết hợp đường truyền bolus, sau đó bổ sung bằng đường uống",
+            "Chuẩn liều thấp, tăng dần để vừa đủ hồi phục hô hấp",
+            "Chỉ dùng đường uống, hạn chế dùng đường truyền",
+            "Không dùng naloxon cho nhóm bệnh nhân này"
+          ],
+          "answer": 1,
+          "explain": "Nên titrate liều thấp (ví dụ 0,04 mg) tăng dần ở người nghi lệ thuộc opioid để tránh khởi phát hội chứng cai cấp bùng phát."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân điều trị cai nghiện phát hiện khoảng QT kéo dài",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân đang điều trị đau mạn tính bằng thuốc thay thế nghiện opioid.<br><br><b>Xét nghiệm:</b> Điện tâm đồ định kỳ phát hiện khoảng QT kéo dài đáng kể so với trước.",
+      "questions": [
+        {
+          "q": "Thuốc nào trong tình huống trên có liên quan trực tiếp đến bất thường điện tâm đồ này?",
+          "options": [
+            "Naloxon",
+            "Methadon",
+            "Loperamid",
+            "Tramadol"
+          ],
+          "answer": 1,
+          "explain": "Methadon có nguy cơ kéo dài khoảng QT, đặc biệt ở liều cao hoặc phối hợp thuốc kéo dài QT khác."
+        },
+        {
+          "q": "Hậu quả loạn nhịp nguy hiểm nhất có thể xảy ra nếu không xử trí kịp thời là gì?",
+          "options": [
+            "Rung nhĩ",
+            "Xoắn đỉnh",
+            "Block nhĩ thất độ I",
+            "Nhịp nhanh xoang"
+          ],
+          "answer": 1,
+          "explain": "Kéo dài QT do methadon có thể dẫn đến loạn nhịp thất nguy hiểm — xoắn đỉnh — có thể tiến triển thành rung thất."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân sau mổ dùng phối hợp morphin và diazepam",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân sau mổ được giảm đau bằng morphin tiêm, đồng thời được dùng thêm diazepam để an thần vì lo lắng, mất ngủ.",
+      "questions": [
+        {
+          "q": "Nguy cơ chính khi phối hợp hai thuốc trên là gì?",
+          "options": [
+            "Không có tương tác đáng kể",
+            "Hiệp đồng ức chế thần kinh trung ương và hô hấp, làm tăng nguy cơ tử vong",
+            "Diazepam làm mất tác dụng giảm đau của morphin, dẫn đến phải tăng liều morphin",
+            "Morphin làm tăng chuyển hóa diazepam gây giảm tác dụng an thần"
+          ],
+          "answer": 1,
+          "explain": "Phối hợp opioid với benzodiazepin là nguyên nhân hàng đầu gây tử vong do quá liều/ức chế hô hấp trong thực hành lâm sàng hiện nay."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân dùng tramadol phối hợp fluoxetin xuất hiện biểu hiện hội chứng quen thuộc",
+      "body": "<b>Tiền sử:</b> Đang dùng tramadol giảm đau mạn tính, đồng thời uống fluoxetin (SSRI) điều trị trầm cảm.<br><br><b>Bệnh sử:</b> Vài ngày sau, bệnh nhân xuất hiện sốt cao, run rẩy, tăng phản xạ gân xương, kích động, vã mồ hôi.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất trong tình huống này là gì?",
+          "options": [
+            "Hội chứng ác tính do thuốc an thần kinh",
+            "Hội chứng serotonin",
+            "Ngộ độc cấp opioid",
+            "Hội chứng cai opioid"
+          ],
+          "answer": 1,
+          "explain": "Phối hợp tramadol (ức chế tái hấp thu serotonin) với SSRI làm tăng nguy cơ hội chứng serotonin: sốt cao, run, tăng phản xạ, kích động."
+        },
+        {
+          "q": "Cơ chế dược lý nào của tramadol góp phần gây ra biến cố trên khi phối hợp với SSRI?",
+          "options": [
+            "Tramadol ức chế CYP2D6 mạnh",
+            "Tramadol ức chế tái hấp thu serotonin và norepinephrin ở synap thần kinh, cộng hưởng với SSRI",
+            "Tramadol cạnh tranh gắn protein huyết tương với SSRI, dẫn đến tích lũy SSRI gây ngộ độc",
+            "Tramadol gây giải phóng ồ ạt histamin"
+          ],
+          "answer": 1,
+          "explain": "Tramadol có cơ chế kép: chủ vận yếu µ + ức chế tái hấp thu serotonin/norepinephrin — khi phối hợp SSRI dễ gây tích lũy serotonin quá mức."
+        }
+      ]
+    },
+    {
+      "title": "Kê đơn tramadol cho trẻ 5 tuổi sau phẫu thuật cắt amidan",
+      "body": "<b>Hành chính:</b> Bệnh nhi, 5 tuổi.<br><br><b>Bệnh sử:</b> Vừa được phẫu thuật cắt amidan, bác sĩ định kê tramadol đường uống để giảm đau sau mổ.",
+      "questions": [
+        {
+          "q": "Quyết định kê đơn này có phù hợp về mặt an toàn thuốc không?",
+          "options": [
+            "Phù hợp, tramadol an toàn cho mọi lứa tuổi",
+            "Không phù hợp — tramadol chống chỉ định ở trẻ dưới 18 tuổi sau phẫu thuật cắt amidan/nạo VA",
+            "Phù hợp nếu giảm liều xuống 1/4 so với người lớn",
+            "Không phù hợp vì tramadol không có tác dụng giảm đau ở trẻ em"
+          ],
+          "answer": 1,
+          "explain": "Cảnh báo an toàn thuốc: tramadol (và codein) chống chỉ định ở trẻ dưới 18 tuổi sau phẫu thuật cắt amidan/nạo VA do nguy cơ ức chế hô hấp nặng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân ung thư đau không đáp ứng với paracetamol phối hợp NSAID",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân ung thư đau mức độ vừa, đã dùng paracetamol phối hợp NSAID nhưng không đủ hiệu quả giảm đau.",
+      "questions": [
+        {
+          "q": "Theo hướng dẫn cập nhật của Tổ chức Y tế Thế giới (2018) về xử trí đau do ung thư, hướng xử trí phù hợp nhất là gì?",
+          "options": [
+            "Bắt buộc phải dùng opioid yếu (bậc 2) trước khi cân nhắc opioid mạnh",
+            "Có thể phối hợp ngay một opioid mạnh liều thấp với thuốc giảm đau đơn giản, không nhất thiết phải qua bậc 2",
+            "Chỉ được tăng liều NSAID tối đa trước khi dùng opioid",
+            "Chuyển ngay sang thuốc chống trầm cảm ba vòng đơn độc"
+          ],
+          "answer": 1,
+          "explain": "Hướng dẫn WHO 2018 không còn bắt buộc bệnh nhân phải qua bậc 2 (opioid yếu); có thể phối hợp opioid mạnh liều thấp ngay khi cần thiết."
+        }
+      ]
+    },
+    {
+      "title": "Quy định kê đơn morphin đường uống cho bệnh nhân ung thư giai đoạn cuối",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân ung thư giai đoạn cuối đang được kê đơn morphin đường uống để kiểm soát đau mạn tính tại nhà.",
+      "questions": [
+        {
+          "q": "Theo quy định kê đơn thuốc gây nghiện hiện hành tại Việt Nam, đơn thuốc opioid cho chỉ định giảm đau ung thư của bệnh nhân này có thể được kê tối đa bao nhiêu ngày?",
+          "options": [
+            "7 ngày mỗi đợt",
+            "10 ngày",
+            "30 ngày, chia thành 3 đợt điều trị liên tiếp",
+            "Không giới hạn số ngày"
+          ],
+          "answer": 2,
+          "explain": "Theo Thông tư 26/2025/TT-BYT, đơn thuốc gây nghiện cho giảm đau ung thư có thể kê tối đa 30 ngày, chia làm 3 đợt điều trị liên tiếp."
+        }
+      ]
+    },
+    {
+      "title": "Quy định kê đơn morphin cho bệnh nhân gãy xương đùi cấp tính",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân bị gãy xương đùi cấp tính (không phải ung thư) cần giảm đau bằng morphin trong giai đoạn cấp.",
+      "questions": [
+        {
+          "q": "Theo quy định hiện hành tại Việt Nam, đơn thuốc gây nghiện cho tình huống đau cấp tính này được kê tối đa bao nhiêu ngày?",
+          "options": [
+            "30 ngày",
+            "7 ngày",
+            "15 ngày",
+            "3 ngày"
+          ],
+          "answer": 1,
+          "explain": "Với bệnh cấp tính, thuốc gây nghiện chỉ được kê tối đa 7 ngày sử dụng theo Thông tư 26/2025/TT-BYT."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân điều trị methadon giảm đau kém với morphin liều thông thường",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Tiền sử:</b> Nghiện heroin nhiều năm, hiện đang điều trị duy trì bằng methadon tại phòng khám ngoại trú.<br><br><b>Bệnh sử:</b> Bệnh nhân cần phẫu thuật cấp cứu và được giảm đau sau mổ bằng morphin liều thông thường nhưng đáp ứng giảm đau rất kém.",
+      "questions": [
+        {
+          "q": "Giải thích hợp lý nhất cho hiện tượng đáp ứng kém với liều morphin thông thường ở bệnh nhân này là gì?",
+          "options": [
+            "Bệnh nhân bị dị ứng chéo với morphin",
+            "Hiện tượng dung nạp chéo do lệ thuộc opioid mạn tính, cần liều cao hơn để đạt hiệu quả",
+            "Morphin không có tác dụng ở người dùng methadon",
+            "Bệnh nhân chuyển hóa morphin quá nhanh do CYP2D6"
+          ],
+          "answer": 1,
+          "explain": "Người lệ thuộc opioid mạn tính (kể cả đang dùng methadon duy trì) thường có dung nạp chéo, cần liều opioid cao hơn để đạt hiệu quả giảm đau tương đương."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân ung thư xương dùng morphin kéo dài vẫn bị táo bón và co đồng tử",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân ung thư xương đang dùng morphin kéo dài để giảm đau mạn tính. Sau nhiều lần tăng liều, bệnh nhân vẫn than phiền táo bón nặng và khám thấy đồng tử vẫn co nhỏ như ban đầu.",
+      "questions": [
+        {
+          "q": "Hiện tượng táo bón và co đồng tử không cải thiện dù dùng thuốc kéo dài được giải thích như thế nào?",
+          "options": [
+            "Do hai hiện tượng này không bị dung nạp khi dùng opioid kéo dài",
+            "Bệnh nhân đã kháng thuốc hoàn toàn với morphin",
+            "Đây là dấu hiệu của hội chứng cai",
+            "Do bệnh nhân dùng thuốc không đủ liều"
+          ],
+          "answer": 0,
+          "explain": "Táo bón và co đồng tử là hai tác dụng KHÔNG dung nạp khi dùng opioid kéo dài, tồn tại dai dẳng — khác với giảm đau/sảng khoái/ức chế hô hấp/an thần (dung nạp nhanh)."
+        }
+      ]
+    },
+    {
+      "title": "Chỉ định miếng dán fentanyl xuyên da giảm đau mạn tính",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân ung thư được chỉ định miếng dán fentanyl xuyên da để giảm đau mạn tính, y lệnh ghi: \"Dán miếng dán fentanyl 25 µg/giờ, thay miếng dán mới sau mỗi 24 giờ\".",
+      "questions": [
+        {
+          "q": "Y lệnh trên có điểm sai nào cần điều chỉnh?",
+          "options": [
+            "Liều 25 µg/giờ quá cao, cần điều chỉnh xuống 10 µg/giờ",
+            "Miếng dán fentanyl cần được thay sau mỗi 72 giờ, không phải 24 giờ",
+            "Fentanyl không có chế phẩm dạng miếng dán",
+            "Miếng dán fentanyl không dùng để giảm đau mạn tính"
+          ],
+          "answer": 1,
+          "explain": "Miếng dán fentanyl xuyên da được thiết kế để phóng thích ổn định trong 72 giờ, cần thay mỗi 72 giờ, không phải hàng ngày."
+        }
+      ]
+    },
+    {
+      "title": "Chỉ định miếng dán fentanyl cho bệnh nhân đau cấp tính chưa từng dùng opioid",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân đau cấp tính sau chấn thương, CHƯA từng dùng opioid trước đó (opioid-naïve), được bác sĩ chỉ định miếng dán fentanyl xuyên da để giảm đau.",
+      "questions": [
+        {
+          "q": "Quyết định điều trị này có phù hợp không?",
+          "options": [
+            "Phù hợp vì fentanyl tác dụng nhanh, dùng được cho đau cấp",
+            "Không phù hợp vì miếng dán fentanyl không dùng cho đau cấp và bệnh nhân chưa dung nạp opioid do nguy cơ quá liều cao",
+            "Phù hợp nếu dùng miếng dán liều thấp nhất phù hợp với đau cấp",
+            "Không phù hợp vì fentanyl không giảm đau qua đường dán"
+          ],
+          "answer": 1,
+          "explain": "Miếng dán fentanyl chỉ định cho đau mạn tính ở bệnh nhân đã dung nạp opioid, KHÔNG dùng cho đau cấp hoặc người chưa từng dùng opioid do nguy cơ quá liều/ức chế hô hấp cao."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân xơ gan mất bù nặng cần giảm đau",
+      "body": "<b>Tiền sử:</b> Xơ gan mất bù nặng.<br><br><b>Bệnh sử:</b> Đau cần chỉ định thuốc giảm đau mạnh.",
+      "questions": [
+        {
+          "q": "Morphin có phù hợp để chỉ định thường quy cho bệnh nhân này không?",
+          "options": [
+            "Phù hợp, morphin không chuyển hóa qua gan",
+            "Không phù hợp, suy gan nặng là một chống chỉ định của morphin",
+            "Phù hợp nếu tăng liều gấp đôi",
+            "Không liên quan vì morphin chỉ thải trừ qua thận"
+          ],
+          "answer": 1,
+          "explain": "Suy gan nặng là chống chỉ định của morphin do morphin chuyển hóa chủ yếu qua gan, nguy cơ tích lũy thuốc và ADR nặng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân đau bụng cấp dữ dội chưa rõ nguyên nhân chưa hội chẩn ngoại khoa",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân vào cấp cứu vì đau bụng cấp dữ dội, chưa rõ nguyên nhân, chưa được hội chẩn ngoại khoa. Bác sĩ trực định tiêm morphin ngay để giảm đau cho bệnh nhân dễ chịu trước khi hội chẩn.",
+      "questions": [
+        {
+          "q": "Quyết định trên đúng hay sai về nguyên tắc sử dụng thuốc giảm đau?",
+          "options": [
+            "Đúng, vì giảm đau cho bệnh nhân là ưu tiên hàng đầu",
+            "Sai, đau bụng cấp chưa rõ nguyên nhân là chống chỉ định của morphin",
+            "Đúng nếu dùng liều thấp",
+            "Sai vì morphin không có tác dụng trên đau bụng"
+          ],
+          "answer": 1,
+          "explain": "Morphin chống chỉ định trong đau bụng cấp chưa rõ nguyên nhân vì có thể che lấp dấu hiệu bệnh lý ngoại khoa cấp cứu (như viêm ruột thừa, thủng tạng rỗng), làm chậm trễ chẩn đoán và xử trí."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ 20 tháng tuổi bị đau nặng sau chấn thương",
+      "body": "<b>Hành chính:</b> Trẻ 20 tháng tuổi.<br><br><b>Bệnh sử:</b> Đau nặng sau chấn thương, bác sĩ đang cân nhắc chỉ định morphin.",
+      "questions": [
+        {
+          "q": "Morphin chống chỉ định tuyệt đối ở trẻ em dưới bao nhiêu tháng tuổi theo giáo trình dược lý?",
+          "options": [
+            "12 tháng",
+            "18 tháng",
+            "30 tháng",
+            "48 tháng"
+          ],
+          "answer": 2,
+          "explain": "Morphin chống chỉ định ở trẻ em dưới 30 tháng tuổi do trung tâm hô hấp của trẻ nhỏ rất nhạy cảm với thuốc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân có tiền sử nhược cơ cần chỉ định thuốc giảm đau opioid",
+      "body": "<b>Tiền sử:</b> Bệnh nhược cơ (myasthenia gravis).<br><br><b>Bệnh sử:</b> Cần được chỉ định thuốc giảm đau opioid cho một đợt đau cấp.",
+      "questions": [
+        {
+          "q": "Vì sao cần đặc biệt thận trọng khi dùng opioid ở bệnh nhân nhược cơ?",
+          "options": [
+            "Opioid có thể làm nặng thêm tình trạng yếu cơ/ức chế hô hấp",
+            "Opioid gây khởi phát cơn nhược cơ cấp qua cơ chế miễn dịch",
+            "Opioid làm mất tác dụng của thuốc kháng cholinesterase",
+            "Opioid gây tăng trương lực cơ quá mức"
+          ],
+          "answer": 0,
+          "explain": "Opioid được liệt kê là một thuốc cần thận trọng ở bệnh nhân nhược cơ do nguy cơ làm nặng thêm yếu cơ hô hấp vốn đã suy giảm ở bệnh nhân nhược cơ."
+        }
+      ]
+    },
+    {
+      "title": "Kê thêm dụng cụ xịt mũi dự phòng quá liều opioid tại nhà",
+      "body": "<b>Bệnh sử:</b> Gia đình có người thân đang điều trị đau mạn tính bằng opioid liều cao được bác sĩ kê thêm một dụng cụ xịt mũi để mang về nhà, dặn dùng ngay khi nghi ngờ người bệnh bị quá liều thuốc.",
+      "questions": [
+        {
+          "q": "Dụng cụ xịt mũi được nhắc đến trong tình huống trên có chứa hoạt chất gì và mục đích sử dụng là gì?",
+          "options": [
+            "Adrenalin — cấp cứu sốc phản vệ",
+            "Naloxon — cấp cứu ban đầu tại nhà khi nghi ngờ quá liều opioid, trước khi đến cơ sở y tế",
+            "Atropin — cấp cứu ngộ độc phospho hữu cơ",
+            "Diazepam — cắt cơn co giật tại nhà"
+          ],
+          "answer": 1,
+          "explain": "Naloxon dạng xịt mũi được cung cấp cho cộng đồng để cấp cứu ban đầu khi nghi ngờ quá liều opioid, dễ sử dụng, không cần đường tiêm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân có tiền sử động kinh chỉ định tramadol giảm đau",
+      "body": "<b>Tiền sử:</b> Động kinh.<br><br><b>Bệnh sử:</b> Được chỉ định tramadol để giảm đau sau chấn thương.",
+      "questions": [
+        {
+          "q": "Cần thận trọng đặc biệt điều gì khi dùng tramadol ở bệnh nhân này?",
+          "options": [
+            "Tramadol không có tác dụng phụ đáng kể trên thần kinh trung ương",
+            "Tramadol làm hạ ngưỡng co giật, có thể khởi phát cơn động kinh",
+            "Tramadol làm tăng tác dụng của thuốc chống động kinh",
+            "Tramadol chống chỉ định tuyệt đối với mọi bệnh nhân có tiền sử co giật"
+          ],
+          "answer": 1,
+          "explain": "Tramadol có nguy cơ hạ ngưỡng co giật, cần thận trọng ở người có tiền sử động kinh hoặc dùng cùng thuốc hạ ngưỡng co giật khác."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân thiếu hụt enzym CYP2D6 đáp ứng kém với codein",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân đau vừa được kê codein giảm đau, nhưng sau vài liều không thấy hiệu quả giảm đau rõ rệt.<br><br><b>Xét nghiệm:</b> Dược lý di truyền cho thấy bệnh nhân thiếu hụt hoạt tính enzym CYP2D6.",
+      "questions": [
+        {
+          "q": "Hệ quả lâm sàng phù hợp nhất trong tình huống này là gì?",
+          "options": [
+            "Codein tích lũy gây ngộ độc nặng",
+            "Codein không được chuyển hóa đầy đủ thành morphin nên hiệu quả giảm đau kém/không đáp ứng",
+            "Bệnh nhân bị dị ứng với codein",
+            "CYP2D6 không liên quan đến chuyển hóa codein"
+          ],
+          "answer": 1,
+          "explain": "Codein là tiền chất cần CYP2D6 chuyển hóa thành morphin để có tác dụng; người thiếu hụt CYP2D6 (chuyển hóa chậm) sẽ đáp ứng kém với codein."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân có kiểu gen CYP2D6 chuyển hóa siêu nhanh bị ức chế hô hấp khi dùng codein",
+      "body": "<b>Bệnh sử:</b> Một bệnh nhân khác cũng dùng codein liều thông thường để giảm đau, nhưng vài giờ sau xuất hiện ức chế hô hấp nặng.<br><br><b>Xét nghiệm:</b> Được xác định có kiểu gen CYP2D6 \"chuyển hóa siêu nhanh\" (ultra-rapid metabolizer).",
+      "questions": [
+        {
+          "q": "Cơ chế nào giải thích biến cố ngộ độc opioid ở bệnh nhân này dù dùng liều thông thường?",
+          "options": [
+            "Bệnh nhân dùng quá liều do nhầm lẫn",
+            "Kiểu gen chuyển hóa siêu nhanh làm chuyển đổi codein thành morphin nhanh và nhiều hơn bình thường, gây nồng độ morphin cao bất thường",
+            "Codein tự nó gây ức chế hô hấp không phụ thuộc chuyển hóa",
+            "Bệnh nhân có bệnh gan nền không được phát hiện"
+          ],
+          "answer": 1,
+          "explain": "Người chuyển hóa siêu nhanh CYP2D6 tạo ra morphin nhiều và nhanh hơn bình thường từ cùng một liều codein, dẫn đến nguy cơ ngộ độc morphin."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ bú mẹ bị ức chế thần kinh sau khi mẹ dùng codein",
+      "body": "<b>Hành chính:</b> Trẻ sơ sinh bú mẹ.<br><br><b>Tiền sử:</b> Phụ nữ đang cho con bú được kê đơn codein giảm đau sau sinh.<br><br><b>Bệnh sử:</b> Vài ngày sau, trẻ bú mẹ xuất hiện ngủ li bì bất thường, bú kém, thở chậm.",
+      "questions": [
+        {
+          "q": "Nguyên nhân nghi ngờ hàng đầu trong tình huống này là gì?",
+          "options": [
+            "Trẻ bị nhiễm khuẩn sơ sinh muộn",
+            "Codein (chuyển hóa thành morphin) qua sữa mẹ gây ức chế thần kinh trung ương/hô hấp ở trẻ bú mẹ",
+            "Trẻ bị vàng da sinh lý",
+            "Mẹ cho trẻ bú không đủ sữa"
+          ],
+          "answer": 1,
+          "explain": "Codein/morphin bài tiết qua sữa mẹ có thể gây ức chế thần kinh trung ương ở trẻ bú mẹ, đặc biệt nếu mẹ là người chuyển hóa CYP2D6 siêu nhanh — đây là lý do khuyến cáo không dùng codein/tramadol ở phụ nữ cho con bú."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân bị co cứng cơ thành ngực sau tiêm fentanyl liều cao",
+      "body": "<b>Bệnh sử:</b> Trong quá trình gây mê phẫu thuật, bác sĩ gây mê tiêm tĩnh mạch nhanh một liều cao fentanyl. Ngay sau đó, ê-kíp gặp khó khăn khi thông khí cho bệnh nhân, lồng ngực có biểu hiện cứng.",
+      "questions": [
+        {
+          "q": "Hiện tượng lâm sàng trên được gọi là gì và liên quan đến thuốc nào?",
+          "options": [
+            "Co thắt thanh quản do propofol",
+            "Co cứng cơ thành ngực do fentanyl tiêm tĩnh mạch nhanh liều cao",
+            "Sốc phản vệ do fentanyl",
+            "Tràn khí màng phổi do đặt nội khí quản"
+          ],
+          "answer": 1,
+          "explain": "Fentanyl liều cao tiêm tĩnh mạch nhanh có thể gây co cứng cơ thành ngực (bao gồm cơ lồng ngực), gây khó thông khí — một ADR đặc trưng của fentanyl và các fentanyl-like."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân đỏ da và ngứa sau tiêm morphin",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân sau tiêm morphin xuất hiện mẩn đỏ, ngứa vùng mặt, cổ và nửa thân trên, không kèm khó thở hay tụt huyết áp đáng kể.",
+      "questions": [
+        {
+          "q": "Cơ chế phù hợp nhất giải thích hiện tượng đỏ da, ngứa này là gì?",
+          "options": [
+            "Phản ứng dị ứng qua trung gian IgE thực sự",
+            "Morphin trực tiếp giải phóng histamin không đặc hiệu tại chỗ, gây giãn mạch da và ngứa",
+            "Morphin gây viêm mạch dị ứng miễn dịch phức hợp",
+            "Bệnh nhân bị nhiễm khuẩn huyết"
+          ],
+          "answer": 1,
+          "explain": "Morphin gây giải phóng histamin không đặc hiệu (không qua cơ chế miễn dịch dị ứng thật sự trong đa số trường hợp), gây giãn mạch da và ngứa ở liều điều trị thông thường."
+        }
+      ]
+    },
+    {
+      "title": "Cân nhắc dùng morphin dài hạn cho bệnh nhân đau lưng mạn tính không do ung thư",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân đau lưng mạn tính không do ung thư, đã thử nhiều biện pháp không dùng thuốc và thuốc không opioid nhưng chưa hiệu quả hoàn toàn. Bác sĩ đang cân nhắc kê morphin dài hạn.",
+      "questions": [
+        {
+          "q": "Theo nguyên tắc sử dụng thuốc giảm đau hiện nay, cách tiếp cận hợp lý nhất là gì?",
+          "options": [
+            "Kê morphin liều cao ngay để đảm bảo hết đau hoàn toàn, sau đó giảm dần liều/sử dụng thuốc giảm đau bậc thấp hơn",
+            "Cân nhắc thận trọng, ưu tiên phối hợp đa mô thức, hạn chế dùng opioid kéo dài cho đau mạn không do ung thư do nguy cơ lệ thuộc/nghiện",
+            "Chống chỉ định tuyệt đối mọi opioid cho đau mạn không do ung thư",
+            "Chỉ dùng opioid dạng miếng dán để tránh lệ thuộc"
+          ],
+          "answer": 1,
+          "explain": "Đau mạn không do ung thư cần cân nhắc thận trọng khi dùng opioid dài hạn, ưu tiên các biện pháp đa mô thức, do nguy cơ dung nạp/lệ thuộc/nghiện cao hơn khi dùng kéo dài không có chỉ định ung thư."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân lệ thuộc heroin xuất hiện hội chứng cai khi khởi đầu buprenorphin",
+      "body": "<b>Tiền sử:</b> Lệ thuộc heroin.<br><br><b>Bệnh sử:</b> Bắt đầu điều trị thay thế nghiện bằng buprenorphin. Ngay sau liều buprenorphin đầu tiên, bệnh nhân xuất hiện vật vã, đau cơ, tiêu chảy — các triệu chứng của hội chứng cai.",
+      "questions": [
+        {
+          "q": "Cơ chế nào giải thích việc buprenorphin có thể khởi phát hội chứng cai ở bệnh nhân đang lệ thuộc opioid chủ vận toàn phần?",
+          "options": [
+            "Buprenorphin là chất đối kháng thuần túy giống naloxon, dùng liều cao có thể dẫn đến hội chứng cai tương tự như naloxon",
+            "Buprenorphin có ái lực rất cao tại thụ thể µ, đẩy chất chủ vận toàn phần ra khỏi thụ thể nhưng chỉ hoạt hóa một phần, không đủ thay thế hoàn toàn",
+            "Buprenorphin gây dị ứng chéo với heroin",
+            "Buprenorphin ức chế CYP2D6 làm giảm chuyển hóa heroin"
+          ],
+          "answer": 1,
+          "explain": "Buprenorphin là chủ vận từng phần có ái lực rất cao trên µ, có thể đẩy chủ vận toàn phần ra khỏi thụ thể nhưng hoạt hóa yếu hơn, gây khởi phát hội chứng cai nếu dùng khi opioid chủ vận toàn phần vẫn còn tác dụng đáng kể."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân xuất hiện lo âu và ảo giác nhẹ sau khi dùng pentazocin",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân được chỉ định pentazocin để giảm đau, sau đó xuất hiện lo âu, ảo giác nhẹ nhưng không có cảm giác sảng khoái như khi dùng morphin trước đây.",
+      "questions": [
+        {
+          "q": "Đặc điểm dược lý nào của pentazocin giải thích sự khác biệt này so với morphin?",
+          "options": [
+            "Pentazocin chủ vận trên receptor kappa, trong khi morphin chủ vận chủ yếu trên receptor mu",
+            "Pentazocin không có tác dụng trên hệ thần kinh trung ương",
+            "Pentazocin là chất đối kháng thuần túy không có hoạt tính chủ vận",
+            "Pentazocin chuyển hóa thành chất gây ảo giác hoàn toàn khác cấu trúc opioid"
+          ],
+          "answer": 0,
+          "explain": "Pentazocin đối kháng tại µ nhưng chủ vận tại κ — receptor kappa gây loạn thần/ảo giác chứ không gây sảng khoái như kích thích mu."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân lệ thuộc morphin được kê thêm pentazocin cho đợt đau cấp",
+      "body": "<b>Tiền sử:</b> Lệ thuộc morphin liều cao trong điều trị đau ung thư mạn tính.<br><br><b>Bệnh sử:</b> Nay có một đợt đau cấp khác và được bác sĩ khác (không biết tiền sử) kê thêm pentazocin.",
+      "questions": [
+        {
+          "q": "Quyết định phối hợp này tiềm ẩn nguy cơ gì?",
+          "options": [
+            "Tăng cường hiệp đồng tác dụng giảm đau một cách an toàn",
+            "Khởi phát hội chứng cai do pentazocin đối kháng cạnh tranh tại thụ thể µ với morphin",
+            "Gây độc gan cấp tính",
+            "Không có tương tác đáng kể giữa hai thuốc"
+          ],
+          "answer": 1,
+          "explain": "Pentazocin (chủ vận-đối kháng hỗn hợp) có thể cạnh tranh đối kháng tại µ, làm giảm tác dụng giảm đau của morphin và khởi phát hội chứng cai ở người đang lệ thuộc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân dùng morphin kéo dài bị táo bón nặng và trướng bụng",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân đang dùng morphin kéo dài để giảm đau mạn tính do ung thư, xuất hiện táo bón nặng, trướng bụng.<br><br><b>Cận lâm sàng:</b> Giảm nhu động ruột trên phim chụp.",
+      "questions": [
+        {
+          "q": "Cơ chế chính gây táo bón do morphin là gì?",
+          "options": [
+            "Morphin phá hủy niêm mạc ruột",
+            "Morphin làm giảm nhu động ruột, tăng trương lực cơ vòng và tăng hấp thu nước/điện giải qua thành ruột",
+            "Morphin gây liệt ruột do độc thần kinh trực tiếp",
+            "Morphin ức chế tiết acid dạ dày gây táo bón thứ phát"
+          ],
+          "answer": 1,
+          "explain": "Morphin giảm nhu động ruột, tăng trương lực cơ vòng (môn vị, hậu môn, cơ Oddi) và tăng hấp thu nước qua thành ruột, gây táo bón — ADR không dung nạp khi dùng kéo dài."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ 4 tuổi uống loperamid liều cao mua tự ý tại nhà",
+      "body": "<b>Hành chính:</b> Trẻ 4 tuổi.<br><br><b>Bệnh sử:</b> Gia đình tự ý mua loperamid liều cao cho trẻ bị tiêu chảy cấp uống tại nhà mà không hỏi ý kiến bác sĩ.",
+      "questions": [
+        {
+          "q": "Việc sử dụng loperamid này có phù hợp không?",
+          "options": [
+            "Phù hợp vì loperamid là thuốc tiêu chảy thông thường, an toàn cho mọi lứa tuổi",
+            "Không phù hợp — loperamid chống chỉ định ở trẻ dưới 6 tuổi do nguy cơ ức chế thần kinh trung ương",
+            "Phù hợp nếu chỉ dùng 1 liều duy nhất",
+            "Không phù hợp vì loperamid không có tác dụng ở trẻ em"
+          ],
+          "answer": 1,
+          "explain": "Loperamid chống chỉ định ở trẻ dưới 6 tuổi do nguy cơ tác dụng phụ trên thần kinh trung ương (ngủ gật, trầm cảm hô hấp, hôn mê) khi hàng rào máu–não chưa hoàn thiện."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân viêm túi mật cấp cân nhắc pethidin trong cơn đau quặn mật",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân viêm túi mật cấp có cơn đau quặn mật, đang cân nhắc dùng pethidin để giảm đau trong lúc chờ can thiệp ngoại khoa.",
+      "questions": [
+        {
+          "q": "Khi dùng pethidin cho đau quặn mật, cần phối hợp thêm thuốc nào để hạn chế tác dụng co thắt cơ Oddi?",
+          "options": [
+            "Metoclopramid",
+            "Atropin",
+            "Diazepam",
+            "Naloxon"
+          ],
+          "answer": 1,
+          "explain": "Cũng như morphin, pethidin gây co thắt cơ Oddi — cần phối hợp atropin khi dùng cho đau đường mật."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ 32 tuần bị đau lưng cấp dữ dội sau tai nạn sinh hoạt",
+      "body": "<b>Hành chính:</b> Sản phụ, 30 tuổi, mang thai 32 tuần.<br><br><b>Bệnh sử:</b> Bị đau lưng cấp dữ dội sau tai nạn sinh hoạt. Bác sĩ cân nhắc chỉ định morphin để giảm đau.",
+      "questions": [
+        {
+          "q": "Morphin có nên được dùng thường quy ở phụ nữ có thai không?",
+          "options": [
+            "Có, morphin an toàn tuyệt đối trong thai kỳ",
+            "Không khuyến cáo dùng thường quy; chỉ dùng khi thật cần thiết và đã cân nhắc kỹ lợi ích – nguy cơ",
+            "Có, nhưng chỉ ở tam cá nguyệt thứ ba",
+            "Không bao giờ được dùng trong bất kỳ hoàn cảnh nào"
+          ],
+          "answer": 1,
+          "explain": "Morphin không được khuyến cáo dùng thường quy trong thai kỳ; chỉ cân nhắc khi thật cần thiết, đặc biệt gần thời điểm sinh cần điều chỉnh liều."
+        },
+        {
+          "q": "Nếu bắt buộc phải dùng morphin gần thời điểm sinh, nguy cơ chính đối với trẻ sơ sinh là gì?",
+          "options": [
+            "Dị tật bẩm sinh cấp tính do thuốc qua được hàng rào rau thai",
+            "Ức chế hô hấp ở trẻ sơ sinh do thuốc qua được hàng rào rau thai",
+            "Vàng da nhân não do thuốc qua hàng rào rau thai gây độc cho gan thai nhi",
+            "Hạ đường huyết sơ sinh nặng"
+          ],
+          "answer": 1,
+          "explain": "Morphin qua hàng rào rau thai; nếu dùng gần thời điểm sinh mà không điều chỉnh liều, có nguy cơ ức chế hô hấp ở trẻ sơ sinh."
+        }
+      ]
+    }
+  ]
+}
