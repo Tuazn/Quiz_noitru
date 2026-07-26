@@ -1,0 +1,710 @@
+{
+  "name": "Thuốc An Thần (AI gen) Up",
+  "description": "Bộ câu hỏi tích hợp lâm sàng mức độ khó cao về Thuốc An Thần bao gồm 25 tình huống lâm sàng (50 câu hỏi) và 51 câu hỏi dược lý tích hợp nâng cao dành cho ôn thi Bác sĩ Nội trú.",
+  "level": "Nâng cao - Ôn thi Bác sĩ Nội trú",
+  "type": "cases",
+  "category": "Cơ sở",
+  "subcategory": "Dược lý",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 28 tuổi vẹo cổ và mắt trợn ngược sau tiêm bắp haloperidol",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 28 tuổi.<br><br><b>Tiền sử:</b> Tâm thần phân liệt.<br><br><b>Bệnh sử:</b> Được tiêm bắp haloperidol để kiểm soát kích động. Vài giờ sau, xuất hiện vẹo cổ sang một bên, mắt trợn ngược, khó nuốt, không sốt, ý thức tỉnh táo hoàn toàn.",
+      "questions": [
+        {
+          "q": "Cơ chế bệnh sinh nào giải thích đúng nhất tình trạng vận động cấp tính này?",
+          "options": [
+            "Mất cân bằng cấp tính giữa hoạt tính dopaminergic và cholinergic tại thể vân do phong toả D2 đột ngột",
+            "Ức chế trực tiếp dẫn truyền thần kinh–cơ tại bản vận động",
+            "Tích luỹ chất chuyển hoá gây độc trực tiếp lên cơ vân sau tiêm bắp",
+            "Phản ứng quá mẫn tức thì qua trung gian kháng thể IgE với thuốc"
+          ],
+          "answer": 0,
+          "explain": "Loạn trương lực cơ cấp xuất hiện sớm (giờ–ngày đầu) do phong toả D2 đột ngột làm lệch cân bằng dopaminergic–cholinergic tại thể vân, khác cơ chế dị ứng hay độc cơ trực tiếp."
+        },
+        {
+          "q": "Thuốc được lựa chọn để xử trí cấp tình trạng này có cơ chế tác dụng nào sau đây?",
+          "options": [
+            "Ức chế beta-adrenergic nhằm giảm trương lực giao cảm ngoại biên",
+            "Kháng cholinergic trung ương, giúp tái lập cân bằng dopaminergic–cholinergic",
+            "Chủ vận GABA-A liều rất cao để giãn cơ toàn thân",
+            "Đối kháng dopaminergic bổ sung nhằm tăng phong toả thụ thể D2"
+          ],
+          "answer": 1,
+          "explain": "Benztropin/diphenhydramin (kháng cholinergic) giúp tái lập cân bằng dopaminergic–cholinergic bị lệch do phong toả D2 đột ngột."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 40 tuổi sốt cao và tăng trương lực cơ toàn thân khi dùng haloperidol",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 40 tuổi.<br><br><b>Tiền sử:</b> Đang dùng haloperidol 3 tuần vì hoang tưởng.<br><br><b>Bệnh sử:</b> Nhập viện vì sốt 39,5°C, tăng trương lực cơ toàn thân đồng đều, rối loạn ý thức, mạch nhanh, huyết áp dao động.<br><br><b>Khám lâm sàng:</b> Khám thần kinh không ghi nhận tăng phản xạ gân xương hay rung giật cơ (myoclonus), đồng tử bình thường.<br><br><b>Xét nghiệm:</b> CK 5200 IU/L, bạch cầu tăng.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phù hợp nhất với bệnh cảnh trên là gì?",
+          "options": [
+            "Hội chứng ác tính do thuốc an thần kinh",
+            "Sốt cao ác tính liên quan gây mê",
+            "Hội chứng serotonin",
+            "Viêm não tự miễn kháng thụ thể NMDA"
+          ],
+          "answer": 0,
+          "explain": "Diễn tiến sau vài tuần dùng thuốc, tăng trương lực cơ đồng đều kiểu 'chì' không kèm tăng phản xạ/rung giật cơ, đồng tử bình thường — phù hợp NMS hơn hội chứng serotonin (thường có tăng phản xạ, rung giật cơ, giãn đồng tử, khởi phát nhanh trong giờ)."
+        },
+        {
+          "q": "Đặc điểm lâm sàng nào trong bệnh án có giá trị PHÂN BIỆT nhất với hội chứng serotonin?",
+          "options": [
+            "Nồng độ CK huyết thanh tăng cao",
+            "Có rối loạn ý thức kèm theo",
+            "Sốt cao trên 38,5°C",
+            "Tăng trương lực cơ đồng đều, không kèm tăng phản xạ gân xương hay rung giật cơ"
+          ],
+          "answer": 3,
+          "explain": "CK tăng, sốt cao và rối loạn ý thức có thể gặp ở cả hai hội chứng; đặc điểm phân biệt then chốt là tình trạng phản xạ/rung giật cơ và tốc độ diễn tiến."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi dùng clozapin xuất hiện sốt nhẹ và mệt mỏi",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Tiền sử:</b> Tâm thần phân liệt kháng trị, đang dùng clozapin tuần thứ 6.<br><br><b>Bệnh sử:</b> Đến khám vì sốt nhẹ 37,8°C và mệt mỏi, không đau họng rõ, không ho, không triệu chứng hô hấp khác.",
+      "questions": [
+        {
+          "q": "Bước tiếp theo cần thực hiện ngay dù triệu chứng còn khá mơ hồ là gì?",
+          "options": [
+            "Cấy máu tìm vi khuẩn gây bệnh",
+            "Chụp X-quang ngực tìm tổn thương phổi",
+            "Xét nghiệm công thức bạch cầu, đặc biệt số lượng bạch cầu trung tính tuyệt đối",
+            "Xét nghiệm CRP và tốc độ máu lắng"
+          ],
+          "answer": 2,
+          "explain": "Sốt nhẹ đơn độc có thể là biểu hiện sớm duy nhất của mất bạch cầu hạt do clozapin, cần loại trừ bằng công thức bạch cầu trước khi tìm nguyên nhân khác."
+        },
+        {
+          "q": "Nếu kết quả cho thấy bạch cầu trung tính giảm ở mức trung bình (chưa đến ngưỡng giảm nặng), hướng xử trí ban đầu hợp lý nhất là gì?",
+          "options": [
+            "Tiếp tục liều hiện tại mà không cần theo dõi thêm",
+            "Tăng liều clozapin để rút ngắn thời gian điều trị",
+            "Ngừng clozapin vĩnh viễn ngay lập tức bất kể mức độ giảm",
+            "Theo dõi sát, làm lại xét nghiệm theo lịch trình dày hơn, cân nhắc tạm ngừng tuỳ mức độ"
+          ],
+          "answer": 3,
+          "explain": "Mức giảm trung bình chưa phải chỉ định ngừng vĩnh viễn ngay, nhưng cần theo dõi sát theo quy trình giám sát để phát hiện sớm diễn tiến nặng hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 78 tuổi sa sút trí tuệ Alzheimer có cơn kích động và hoang tưởng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 78 tuổi.<br><br><b>Tiền sử:</b> Sa sút trí tuệ Alzheimer.<br><br><b>Bệnh sử:</b> Có cơn kích động và hoang tưởng bị hại nặng. Gia đình đề nghị bác sĩ kê thuốc chống loạn thần để kiểm soát hành vi.",
+      "questions": [
+        {
+          "q": "Điều gì bác sĩ cần tư vấn rõ cho gia đình trước khi quyết định kê đơn?",
+          "options": [
+            "Chỉ cần thận trọng với nhóm thế hệ 1, còn thế hệ 2 hoàn toàn không có nguy cơ",
+            "Thuốc hoàn toàn an toàn vì đã được phê duyệt chính thức cho chỉ định này",
+            "Không có nguy cơ đáng kể nào khác ngoài tác dụng an thần thông thường",
+            "Nguy cơ tử vong tăng ở người cao tuổi sa sút trí tuệ khi dùng thuốc chống loạn thần"
+          ],
+          "answer": 3,
+          "explain": "Cảnh báo khung đen áp dụng cho cả FGA và SGA ở người già sa sút trí tuệ có rối loạn tâm thần, không phải chỉ riêng một thế hệ."
+        },
+        {
+          "q": "Nếu vẫn quyết định phải dùng thuốc trong bối cảnh này, biện pháp nào giúp giảm thiểu nguy cơ nêu trên?",
+          "options": [
+            "Dùng liều tiêu chuẩn như ở người trẻ tuổi để bảo đảm hiệu quả điều trị",
+            "Ưu tiên liều cao ngay từ đầu để kiểm soát triệu chứng nhanh nhất có thể",
+            "Kết hợp đồng thời hai thuốc chống loạn thần khác nhau để tăng hiệu quả",
+            "Dùng liều thấp nhất có hiệu quả, trong thời gian ngắn nhất, chỉ khi thực sự cần thiết"
+          ],
+          "answer": 3,
+          "explain": "Nguyên tắc chung khi buộc phải dùng thuốc chống loạn thần ở người già sa sút trí tuệ là liều thấp nhất, thời gian ngắn nhất."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi mắc bệnh Parkinson xuất hiện ảo giác thị giác",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 70 tuổi.<br><br><b>Tiền sử:</b> Bệnh Parkinson đang điều trị levodopa/carbidopa.<br><br><b>Bệnh sử:</b> Xuất hiện ảo giác thị giác rõ rệt. Bác sĩ cân nhắc giữa quetiapin liều thấp và haloperidol.",
+      "questions": [
+        {
+          "q": "Lý do khiến quetiapin được ưu tiên hơn haloperidol trong bối cảnh lâm sàng này là gì?",
+          "options": [
+            "Quetiapin làm tăng cường giải phóng dopamin nội sinh tại thể vân",
+            "Quetiapin ức chế enzym COMT làm kéo dài tác dụng của levodopa",
+            "Ái lực với thụ thể D2 tương đối thấp, ít cạnh tranh với tác dụng của levodopa tại thể vân",
+            "Quetiapin được chuyển hoá một phần thành levodopa trong cơ thể"
+          ],
+          "answer": 2,
+          "explain": "Quetiapin có ái lực D2 tương đối thấp và phân ly nhanh, ít đối kháng tác dụng của levodopa hơn haloperidol (đối kháng D2 mạnh, kéo dài)."
+        },
+        {
+          "q": "Nếu triệu chứng không cải thiện với quetiapin liều thấp và cần một lựa chọn khác vẫn ít ảnh hưởng vận động, thuốc nào hợp lý tiếp theo?",
+          "options": [
+            "Haloperidol liều thấp",
+            "Fluphenazin liều thấp",
+            "Risperidon liều chuẩn",
+            "Clozapin liều thấp"
+          ],
+          "answer": 3,
+          "explain": "Clozapin (cùng quetiapin) là một trong số ít thuốc chống loạn thần được ưu tiên trong loạn thần liên quan Parkinson do ít gây EPS ở liều thấp."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ 29 tuổi mang thai 10 tuần có đợt loạn thần cấp",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 29 tuổi, mang thai 10 tuần.<br><br><b>Bệnh sử:</b> Có đợt loạn thần cấp cần điều trị. Bác sĩ cân nhắc giữa haloperidol và sulpirid liều cao.",
+      "questions": [
+        {
+          "q": "Yếu tố nào của sulpirid cần được cân nhắc đặc biệt hơn so với haloperidol trong bối cảnh tam cá nguyệt đầu?",
+          "options": [
+            "Sulpirid có nguy cơ gây quái thai đã được ghi nhận, cần thận trọng đặc biệt",
+            "Sulpirid không qua được hàng rào nhau thai nên an toàn tuyệt đối",
+            "Haloperidol có nguy cơ gây quái thai cao hơn sulpirid rõ rệt",
+            "Cả hai thuốc đều hoàn toàn không qua được nhau thai"
+          ],
+          "answer": 0,
+          "explain": "Sulpirid được ghi nhận thận trọng đặc biệt ở phụ nữ có thai do nguy cơ quái thai, cần cân nhắc kỹ khi lựa chọn trong tam cá nguyệt đầu."
+        },
+        {
+          "q": "Nếu bệnh nhân dự định cho con bú sau sinh, yếu tố nào khác của sulpirid cần được tư vấn thêm?",
+          "options": [
+            "Sulpirid qua được sữa mẹ với một tỉ lệ đáng kể so với liều dùng của mẹ",
+            "Sulpirid hoàn toàn không qua được sữa mẹ ở bất kỳ liều nào",
+            "Sulpirid chỉ ảnh hưởng đến mùi vị của sữa mẹ, không có tác dụng dược lý trên trẻ",
+            "Sulpirid chỉ qua sữa mẹ khi dùng đường tiêm, không xảy ra khi dùng đường uống"
+          ],
+          "answer": 0,
+          "explain": "Sulpirid qua sữa mẹ với tỉ lệ được ghi nhận trong y văn, cần cân nhắc lợi ích–nguy cơ khi cho con bú."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi mắc rối loạn lưỡng cực lú lẫn sau khi dùng phối hợp lithium và haloperidol",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Tiền sử:</b> Rối loạn lưỡng cực đang dùng lithium.<br><br><b>Bệnh sử:</b> Được thêm haloperidol vì giai đoạn hưng cảm có triệu chứng loạn thần. Vài ngày sau xuất hiện lú lẫn, run, tăng lợi niệu.",
+      "questions": [
+        {
+          "q": "Điều gì giải thích hợp lý nhất tình trạng xuất hiện sau khi phối hợp hai thuốc này?",
+          "options": [
+            "Phản ứng dị ứng chéo giữa hai thuốc qua cơ chế miễn dịch",
+            "Ngộ độc lithium đơn thuần, hoàn toàn không liên quan đến haloperidol",
+            "Hội chứng cai benzodiazepin dù bệnh nhân không dùng nhóm thuốc này",
+            "Tương tác giữa lithium và haloperidol có thể gây độc thần kinh và tăng lợi niệu"
+          ],
+          "answer": 3,
+          "explain": "Phối hợp lithium với haloperidol có thể gây độc thần kinh (lú lẫn, run) và tăng lợi niệu, cần thận trọng theo dõi khi phối hợp."
+        },
+        {
+          "q": "Biện pháp theo dõi nào là quan trọng nhất khi bắt buộc phải duy trì phối hợp hai thuốc này?",
+          "options": [
+            "Theo dõi đường huyết mao mạch hàng ngày",
+            "Theo dõi men gan mỗi ngày trong suốt quá trình điều trị",
+            "Theo dõi sát nồng độ lithium máu và các dấu hiệu thần kinh sớm",
+            "Theo dõi công thức bạch cầu định kỳ mỗi tuần"
+          ],
+          "answer": 2,
+          "explain": "Nguy cơ chính của phối hợp là độc tính thần kinh liên quan lithium, do đó theo dõi nồng độ lithium và dấu hiệu thần kinh là ưu tiên."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi suy thận mạn giai đoạn 4 có đợt rối loạn tâm thần cấp",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Tiền sử:</b> Suy thận mạn giai đoạn 4 (mức lọc cầu thận ước tính khoảng 25 mL/phút).<br><br><b>Bệnh sử:</b> Có đợt rối loạn tâm thần cấp cần điều trị sulpirid.",
+      "questions": [
+        {
+          "q": "Lý do dược động học nào đòi hỏi phải điều chỉnh liều sulpirid ở bệnh nhân này?",
+          "options": [
+            "Sulpirid thải trừ chủ yếu qua thận dưới dạng không đổi, dễ tích luỹ khi chức năng thận giảm",
+            "Sulpirid có thời gian bán thải rất ngắn nên không tích luỹ dù suy thận nặng",
+            "Sulpirid chuyển hoá gần như hoàn toàn ở gan nên không cần chỉnh liều theo thận",
+            "Sulpirid gắn kết protein huyết tương rất cao nên không bị ảnh hưởng bởi suy thận"
+          ],
+          "answer": 0,
+          "explain": "Sulpirid thải trừ chủ yếu qua thận dưới dạng không đổi; suy thận làm tăng nguy cơ tích luỹ thuốc, cần giảm liều/kéo dài khoảng cách liều."
+        },
+        {
+          "q": "Nguyên tắc điều chỉnh liều hợp lý nhất trong trường hợp này là gì?",
+          "options": [
+            "Giữ nguyên liều tiêu chuẩn vì thuốc không có nguy cơ tích luỹ đáng kể",
+            "Tăng liều để bù trừ cho tình trạng giảm hấp thu ở người suy thận",
+            "Chuyển hoàn toàn sang đường tiêm bắp với liều cao hơn đường uống",
+            "Giảm liều và/hoặc kéo dài khoảng cách giữa các liều dựa trên mức lọc cầu thận"
+          ],
+          "answer": 3,
+          "explain": "Nguyên tắc chỉnh liều thuốc thải trừ chủ yếu qua thận ở người suy thận là giảm liều và/hoặc kéo dài khoảng cách liều theo mức lọc cầu thận."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 70 tuổi xuất hiện biểu hiện Parkinson khi dùng risperidon",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 70 tuổi.<br><br><b>Bệnh sử:</b> Đang dùng risperidon 6 mg/ngày, xuất hiện run tay nhẹ, giảm biểu cảm khuôn mặt, dáng đi chậm, không sốt, ý thức bình thường.",
+      "questions": [
+        {
+          "q": "Liều risperidon hiện tại liên quan thế nào đến khả năng xuất hiện các biểu hiện trên?",
+          "options": [
+            "Liều này thấp hơn hẳn ngưỡng gây triệu chứng ngoại tháp nên không liên quan thuốc",
+            "Triệu chứng ngoại tháp của risperidon chỉ xuất hiện khi phối hợp thêm benzodiazepin",
+            "Liều này nằm ở ngưỡng có nguy cơ tăng rõ rệt xuất hiện triệu chứng ngoại tháp",
+            "Risperidon không bao giờ gây triệu chứng ngoại tháp ở bất kỳ liều nào"
+          ],
+          "answer": 2,
+          "explain": "Nguy cơ ngoại tháp của risperidon tăng rõ rệt khi liều vượt ngưỡng khoảng 6 mg/ngày."
+        },
+        {
+          "q": "Nếu quyết định giảm liều risperidon để hạn chế triệu chứng trên, điều gì cần cân nhắc thêm về hiệu quả điều trị?",
+          "options": [
+            "Giảm liều hoàn toàn không ảnh hưởng gì đến hiệu quả điều trị chung",
+            "Giảm liều sẽ làm tăng thêm nguy cơ tăng prolactin máu",
+            "Giảm liều luôn đồng thời cải thiện thêm triệu chứng âm tính của bệnh",
+            "Nguy cơ tái phát triệu chứng dương tính nếu giảm liều xuống dưới mức cần thiết"
+          ],
+          "answer": 3,
+          "explain": "Giảm liều để hạn chế EPS cần cân bằng với nguy cơ tái phát triệu chứng dương tính nếu liều xuống dưới ngưỡng điều trị hiệu quả."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 48 tuổi sảng run do cai rượu trên nền xơ gan Child-Pugh C",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 48 tuổi.<br><br><b>Tiền sử:</b> Nghiện rượu mạn tính, xơ gan Child-Pugh C.<br><br><b>Bệnh sử:</b> Nhập viện cai nghiện, ngày thứ 3 xuất hiện sảng run với ảo thị, kích động, run, mạch nhanh. Bệnh nhân đáp ứng kém với diazepam đường uống liều cao.",
+      "questions": [
+        {
+          "q": "Benzodiazepin nào nên được ưu tiên thay thế do đặc điểm chuyển hoá phù hợp hơn ở bệnh nhân suy gan nặng này?",
+          "options": [
+            "Lorazepam",
+            "Flurazepam",
+            "Chlordiazepoxid liều cao hơn",
+            "Diazepam liều cao hơn nữa"
+          ],
+          "answer": 0,
+          "explain": "Lorazepam (cùng oxazepam, temazepam) được chuyển hoá qua liên hợp glucuronic hoá trực tiếp, ít phụ thuộc oxy hoá gan, phù hợp hơn ở người suy gan nặng so với diazepam/chlordiazepoxid/flurazepam."
+        },
+        {
+          "q": "Ngoài đặc điểm chuyển hoá, lý do dược động học nào khác khiến nhóm thuốc này thường được ưa chuộng hơn ở người suy gan?",
+          "options": [
+            "Không tạo ra các chất chuyển hoá còn hoạt tính có thể tích luỹ kéo dài",
+            "Không cần điều chỉnh liều trong bất kỳ tình huống lâm sàng nào",
+            "Luôn có thời gian bán thải dài hơn 48 giờ ở mọi bệnh nhân",
+            "Gắn kết gần như tuyệt đối với protein huyết tương nên rất an toàn"
+          ],
+          "answer": 0,
+          "explain": "Việc không tạo chất chuyển hoá còn hoạt tính giúp giảm nguy cơ tích luỹ thuốc kéo dài ở người suy gan."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi ngộ độc phối hợp diazepam và rượu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Bệnh sử:</b> Ngộ độc phối hợp diazepam và rượu.<br><br><b>Khám lâm sàng:</b> Thở 8 lần/phút, SpO2 88%, đồng tử bình thường, không giãn.",
+      "questions": [
+        {
+          "q": "Xử trí ban đầu ưu tiên nhất trong tình huống này là gì?",
+          "options": [
+            "Truyền glucose ưu trương để hồi tỉnh nhanh chóng",
+            "Rửa dạ dày ngay lập tức bất kể thời gian từ lúc ngộ độc",
+            "Bảo đảm đường thở và hỗ trợ hô hấp",
+            "Tiêm ngay flumazenil liều cao để hoá giải tác dụng benzodiazepin"
+          ],
+          "answer": 2,
+          "explain": "Với suy hô hấp rõ, ưu tiên hàng đầu luôn là bảo đảm đường thở và hỗ trợ hô hấp trước khi cân nhắc các biện pháp khác."
+        },
+        {
+          "q": "Nếu cân nhắc dùng flumazenil trong bối cảnh phối hợp rượu này, điều cần đặc biệt lưu ý là gì?",
+          "options": [
+            "Nguy cơ khởi phát co giật ở bệnh nhân có khả năng lệ thuộc benzodiazepin/rượu",
+            "Flumazenil sẽ hoá giải đồng thời cả tác dụng của rượu",
+            "Flumazenil hoàn toàn an toàn trong mọi trường hợp phối hợp rượu",
+            "Flumazenil chống chỉ định tuyệt đối trong mọi trường hợp có rượu"
+          ],
+          "answer": 0,
+          "explain": "Flumazenil có thể khởi phát co giật ở người lệ thuộc benzodiazepin hoặc rượu lâu ngày, cần cân nhắc thận trọng, không phải chống chỉ định tuyệt đối."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 40 tuổi xuất hiện táo bón và nhịp tim nhanh khi điều trị bằng clozapin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 40 tuổi.<br><br><b>Tiền sử:</b> Tâm thần phân liệt, đang dùng clozapin.<br><br><b>Bệnh sử:</b> Xuất hiện tăng tiết nước bọt về đêm, táo bón kéo dài nhiều ngày, nhịp tim nhanh lúc nghỉ.",
+      "questions": [
+        {
+          "q": "Các biểu hiện táo bón và nhịp tim nhanh phản ánh đặc tính dược lý nào của clozapin?",
+          "options": [
+            "Chủ vận thụ thể 5-HT1A gây rối loạn thần kinh thực vật",
+            "Ái lực kháng cholinergic (muscarinic) tương đối mạnh của thuốc",
+            "Ức chế thụ thể histamin H1 là cơ chế chính gây hai biểu hiện này",
+            "Đối kháng D2 mạnh vượt trội gây hội chứng ngoại tháp cổ điển"
+          ],
+          "answer": 1,
+          "explain": "Táo bón và nhịp tim nhanh phù hợp với tác dụng kháng cholinergic (muscarinic) của clozapin; tăng tiết nước bọt là hiện tượng nghịch lý riêng của thuốc này."
+        },
+        {
+          "q": "Nếu tình trạng táo bón kéo dài không được xử trí, biến chứng nghiêm trọng nào cần đặc biệt cảnh giác với clozapin?",
+          "options": [
+            "Liệt ruột hoặc tắc ruột do giảm nhu động ruột nặng",
+            "Xuất huyết tiêu hoá ồ ạt do loét dạ dày",
+            "Viêm tuỵ cấp do tăng áp lực ống tuỵ",
+            "Thủng dạ dày do tăng tiết acid"
+          ],
+          "answer": 0,
+          "explain": "Táo bón kéo dài do clozapin có thể tiến triển thành liệt ruột/tắc ruột nghiêm trọng, một biến chứng ít được chú ý nhưng đe doạ tính mạng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 27 tuổi cân nhắc đổi olanzapin sang brexpiprazol",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 27 tuổi.<br><br><b>Tiền sử:</b> Tâm thần phân liệt ổn định với olanzapin. Từng có akathisia rõ khi thử aripiprazol trước đây.<br><br><b>Bệnh sử:</b> Muốn đổi thuốc để giảm tăng cân nhưng lo ngại tác dụng phụ vận động.",
+      "questions": [
+        {
+          "q": "Thuốc nào có thể là lựa chọn cân bằng hợp lý giữa hai mối lo ngại (tăng cân và akathisia) trong trường hợp này?",
+          "options": [
+            "Haloperidol liều thấp",
+            "Aripiprazol liều cao hơn trước",
+            "Brexpiprazol",
+            "Clozapin"
+          ],
+          "answer": 2,
+          "explain": "Brexpiprazol có ái lực D2 thấp hơn aripiprazol, thường ít gây akathisia hơn, đồng thời có xu hướng tăng cân thấp hơn olanzapin — phù hợp cân bằng hai mối lo ngại."
+        },
+        {
+          "q": "Nếu sau đó vẫn xuất hiện akathisia nhẹ với thuốc mới, hướng xử trí ban đầu hợp lý là gì?",
+          "options": [
+            "Tăng gấp đôi liều hiện tại để cơ thể quen dần với cảm giác khó chịu",
+            "Chuyển ngay sang clozapin liều cao mà không thử các biện pháp khác trước",
+            "Ngừng vĩnh viễn toàn bộ thuốc chống loạn thần ngay lập tức",
+            "Giảm liều hoặc phối hợp thêm chẹn beta/benzodiazepin liều thấp"
+          ],
+          "answer": 3,
+          "explain": "Akathisia nhẹ thường được xử trí bằng giảm liều hoặc phối hợp chẹn beta/benzodiazepin trước khi cân nhắc đổi thuốc triệt để."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 29 tuổi rối loạn hoảng loạn phối hợp tạm thời benzodiazepin với SSRI",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 29 tuổi.<br><br><b>Bệnh sử:</b> Rối loạn hoảng loạn, đã điều trị một SSRI được 6 tuần nhưng vẫn còn cơn hoảng loạn cấp vài lần mỗi tuần trong giai đoạn chờ thuốc đạt hiệu quả đầy đủ.",
+      "questions": [
+        {
+          "q": "Lựa chọn hợp lý nhất để kiểm soát triệu chứng cấp trong giai đoạn chuyển tiếp này là gì?",
+          "options": [
+            "Phối hợp tạm thời một benzodiazepin ngắn hạn cùng với SSRI đang dùng",
+            "Thay thế hoàn toàn SSRI bằng buspiron",
+            "Ngừng SSRI và chuyển hẳn sang benzodiazepin dài hạn",
+            "Dùng propranolol đơn độc thay thế hoàn toàn cho SSRI"
+          ],
+          "answer": 0,
+          "explain": "Benzodiazepin ngắn hạn phối hợp tạm thời với SSRI là chiến lược \"bắc cầu\" phổ biến trong giai đoạn chờ SSRI đạt hiệu quả đầy đủ; buspiron khởi phát chậm, kém hiệu quả trên cơn cấp."
+        },
+        {
+          "q": "Điều gì cần trao đổi rõ với bệnh nhân về mục tiêu điều trị dài hạn khi phối hợp này?",
+          "options": [
+            "Benzodiazepin sẽ dần thay thế hoàn toàn vai trò của SSRI về lâu dài",
+            "SSRI có thể ngừng ngay khi triệu chứng cải thiện, chỉ cần duy trì benzodiazepin",
+            "Không cần giảm liều benzodiazepin một khi đã phối hợp cùng SSRI",
+            "Benzodiazepin chỉ nên dùng ngắn hạn, cần giảm dần khi SSRI phát huy hiệu quả đầy đủ"
+          ],
+          "answer": 3,
+          "explain": "Nguyên tắc là benzodiazepin dùng ngắn hạn, giảm dần khi SSRI (điều trị nền tảng dài hạn) đạt hiệu quả đầy đủ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi uống ziprasidon liên quan chế độ ăn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Bệnh sử:</b> Đang dùng ziprasidon, thường ăn một bữa ăn nhẹ dưới 300 kcal trước khi uống thuốc mỗi ngày.",
+      "questions": [
+        {
+          "q": "Thói quen ăn uống này ảnh hưởng thế nào đến hiệu quả điều trị của ziprasidon?",
+          "options": [
+            "Làm tăng hấp thu thuốc lên gấp đôi so với khi uống lúc đói",
+            "Không ảnh hưởng gì vì ziprasidon hấp thu hoàn toàn độc lập với thức ăn",
+            "Có thể làm giảm hấp thu thuốc do bữa ăn chưa đủ năng lượng cần thiết để tối ưu sinh khả dụng",
+            "Làm bất hoạt hoàn toàn thuốc ngay tại dạ dày"
+          ],
+          "answer": 2,
+          "explain": "Ziprasidon cần bữa ăn đủ năng lượng (trên khoảng 500 kcal) để tăng hấp thu tối ưu; bữa ăn nhẹ dưới ngưỡng này có thể khiến hấp thu không đạt mức tối ưu."
+        },
+        {
+          "q": "Nếu bệnh nhân được hướng dẫn ăn một bữa đầy đủ hơn (trên 500 kcal) trước khi uống thuốc, điều gì thay đổi về mặt dược động học?",
+          "options": [
+            "Thời gian bán thải của thuốc sẽ rút ngắn đáng kể",
+            "Không có thay đổi đáng kể nào về mức độ hấp thu thuốc",
+            "Sinh khả dụng đường uống tăng lên đáng kể, có thể gấp khoảng hai lần so với lúc đói",
+            "Thuốc sẽ bị phân huỷ hoàn toàn bởi lượng thức ăn giàu năng lượng"
+          ],
+          "answer": 2,
+          "explain": "Bữa ăn giàu năng lượng (>500 kcal) làm tăng sinh khả dụng của ziprasidon lên khoảng gấp đôi so với lúc đói."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 34 tuổi tâm thần phân liệt kháng trị có tiền sử động kinh dùng clozapin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 34 tuổi.<br><br><b>Tiền sử:</b> Động kinh toàn thể cách đây 2 năm, hiện kiểm soát tốt bằng valproate, không có cơn tái phát.<br><br><b>Bệnh sử:</b> Tâm thần phân liệt kháng trị, đang được cân nhắc bắt đầu clozapin.",
+      "questions": [
+        {
+          "q": "Điều cần đặc biệt cân nhắc khi quyết định dùng clozapin ở bệnh nhân này là gì?",
+          "options": [
+            "Clozapin chỉ chống chỉ định khi phối hợp cùng lúc với một thuốc chống loạn thần khác",
+            "Clozapin chống chỉ định tuyệt đối với bất kỳ tiền sử động kinh nào, kể cả đã kiểm soát tốt",
+            "Clozapin làm giảm ngưỡng co giật theo kiểu phụ thuộc liều, cần thận trọng dù động kinh đã kiểm soát ổn định",
+            "Clozapin không ảnh hưởng đến ngưỡng co giật nên có thể dùng hoàn toàn tự do"
+          ],
+          "answer": 2,
+          "explain": "Clozapin làm giảm ngưỡng co giật phụ thuộc liều; động kinh đã kiểm soát ổn định không phải chống chỉ định tuyệt đối nhưng cần thận trọng và theo dõi sát."
+        },
+        {
+          "q": "Nếu vẫn quyết định dùng clozapin, biện pháp theo dõi nào cần bổ sung so với bệnh nhân không có tiền sử động kinh?",
+          "options": [
+            "Cần ngừng hoàn toàn valproate trước khi bắt đầu clozapin",
+            "Chỉ cần đo điện não đồ một lần duy nhất trước khi bắt đầu điều trị",
+            "Theo dõi sát lâm sàng thần kinh và tránh tăng liều clozapin quá nhanh",
+            "Không cần theo dõi gì thêm ngoài công thức bạch cầu định kỳ thông thường"
+          ],
+          "answer": 2,
+          "explain": "Ở bệnh nhân có tiền sử động kinh, cần thận trọng hơn về tốc độ tăng liều và theo dõi sát lâm sàng thần kinh trong suốt quá trình điều trị clozapin."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 65 tuổi COPD gãy cổ xương đùi cân nhắc phối hợp opioid và benzodiazepin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 65 tuổi.<br><br><b>Tiền sử:</b> Bệnh phổi tắc nghẽn mạn tính nặng.<br><br><b>Bệnh sử:</b> Gãy cổ xương đùi, đau nhiều và lo âu trước phẫu thuật. Bác sĩ cân nhắc phối hợp opioid và benzodiazepin để giảm đau–an thần trước mổ.",
+      "questions": [
+        {
+          "q": "Nguy cơ chính cần cân nhắc kỹ khi quyết định phối hợp này ở bệnh nhân có bệnh hô hấp nền là gì?",
+          "options": [
+            "Hiệp đồng ức chế hô hấp có thể gây suy hô hấp nặng hơn dự kiến so với dùng đơn độc từng thuốc",
+            "Benzodiazepin sẽ đối kháng hoàn toàn tác dụng an thần của opioid",
+            "Phối hợp sẽ làm giảm đáng kể tác dụng giảm đau của opioid",
+            "Không có tương tác đáng kể nào cần lưu ý thêm ở nhóm bệnh nhân này"
+          ],
+          "answer": 0,
+          "explain": "Đây là trọng tâm cảnh báo an toàn về phối hợp benzodiazepin–opioid, đặc biệt nguy hiểm hơn ở người có bệnh hô hấp nền."
+        },
+        {
+          "q": "Nếu vẫn phải phối hợp hai thuốc này, biện pháp giám sát nào là quan trọng nhất trong giai đoạn đầu sau khi dùng thuốc?",
+          "options": [
+            "Theo dõi công thức bạch cầu mỗi 6 giờ",
+            "Theo dõi sát nhịp thở, độ bão hoà oxy và mức độ tỉnh táo liên tục",
+            "Theo dõi nồng độ lithium máu định kỳ",
+            "Theo dõi chức năng gan mỗi ngày trong giai đoạn hậu phẫu"
+          ],
+          "answer": 1,
+          "explain": "Giám sát hô hấp–tuần hoàn liên tục là ưu tiên hàng đầu khi buộc phải phối hợp hai nhóm thuốc có nguy cơ hiệp đồng ức chế hô hấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 38 tuổi bị tụt huyết áp tư thế khi dùng quetiapin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 38 tuổi.<br><br><b>Bệnh sử:</b> Đang dùng quetiapin 400 mg/ngày, huyết áp tư thế đứng tụt từ 130/80 xuống 95/60 mmHg kèm chóng mặt khi thay đổi tư thế.",
+      "questions": [
+        {
+          "q": "Cơ chế nào giải thích triệu chứng này và hướng xử trí ban đầu hợp lý?",
+          "options": [
+            "Phong toả thụ thể muscarinic; cần ngừng thuốc ngay lập tức",
+            "Chủ vận thụ thể beta-adrenergic; cần dùng thêm thuốc chẹn beta để điều trị",
+            "Phong toả thụ thể alpha-1 adrenergic; nên chuẩn liều tăng từ từ thay vì tăng nhanh",
+            "Đối kháng thụ thể 5-HT1A; cần tăng liều nhanh hơn để cơ thể thích nghi"
+          ],
+          "answer": 2,
+          "explain": "Hạ huyết áp tư thế do quetiapin liên quan phong toả alpha-1; xử trí ban đầu thường là chuẩn liều (titration) chậm hơn thay vì ngừng thuốc ngay."
+        },
+        {
+          "q": "Nếu huyết áp tư thế không cải thiện sau khi chuẩn liều chậm hơn, hướng xử trí tiếp theo hợp lý là gì?",
+          "options": [
+            "Ngừng theo dõi huyết áp vì đây là tác dụng phụ không đáng lo ngại",
+            "Xem xét giảm liều hoặc chuyển sang một thuốc chống loạn thần khác ít ảnh hưởng alpha-1 hơn",
+            "Phối hợp thêm một thuốc hạ áp khác để kiểm soát triệu chứng chóng mặt",
+            "Tiếp tục tăng liều quetiapin để cơ thể quen dần với tác dụng hạ áp"
+          ],
+          "answer": 1,
+          "explain": "Nếu chuẩn liều chậm không hiệu quả, nên xem xét giảm liều hoặc đổi thuốc thay vì tiếp tục tăng liều hoặc thêm thuốc hạ áp khác không cần thiết."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 42 tuổi dùng haloperidol tiêm depot xuất hiện triệu chứng ngoại tháp",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 42 tuổi.<br><br><b>Tiền sử:</b> Tâm thần phân liệt, đang dùng haloperidol dạng tiêm tác dụng kéo dài (depot) mỗi 4 tuần.<br><br><b>Bệnh sử:</b> Tái khám không có triệu chứng loạn thần nhưng có run nhẹ hai tay, giảm biểu cảm khuôn mặt, dáng đi chậm.",
+      "questions": [
+        {
+          "q": "Đặc điểm nào của dạng thuốc tiêm depot ảnh hưởng đến diễn tiến của các biểu hiện vận động này so với dạng uống hàng ngày?",
+          "options": [
+            "Biểu hiện sẽ biến mất ngay lập tức sau khi ngừng thuốc do nồng độ giảm nhanh",
+            "Biểu hiện chỉ có thể xảy ra trong vòng 24 giờ đầu sau mũi tiêm đầu tiên",
+            "Do đặc tính phóng thích chậm, các biểu hiện có thể khởi phát và thoái lui chậm hơn so với dạng uống",
+            "Biểu hiện này chắc chắn không liên quan đến thuốc vì dạng depot không gây tác dụng ngoại tháp"
+          ],
+          "answer": 2,
+          "explain": "Dạng depot phóng thích thuốc chậm và ổn định hơn, khiến các tác dụng phụ (bao gồm cả khởi phát và thoái lui) thường kéo dài hơn so với dạng uống."
+        },
+        {
+          "q": "Ưu điểm chính của dạng tiêm depot so với đường uống trong trường hợp này, dù có nhược điểm về thời gian khởi phát/thoái triển tác dụng phụ chậm hơn, là gì?",
+          "options": [
+            "Luôn có sinh khả dụng cao hơn nhiều lần so với đường uống ở cùng liều danh nghĩa",
+            "Cải thiện sự tuân thủ điều trị, giảm nguy cơ tái phát do quên thuốc",
+            "Không cần theo dõi định kỳ vì thuốc tự điều chỉnh liều theo nhu cầu cơ thể",
+            "Giảm hoàn toàn nguy cơ tác dụng ngoại tháp so với đường uống ở cùng liều tương đương"
+          ],
+          "answer": 1,
+          "explain": "Ưu điểm chính của dạng depot là cải thiện tuân thủ điều trị, không phải là giảm hoàn toàn nguy cơ tác dụng ngoại tháp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 55 tuổi rối loạn lipid và đường huyết khi điều trị olanzapin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 55 tuổi.<br><br><b>Tiền sử:</b> Tâm thần phân liệt đáp ứng tốt với olanzapin.<br><br><b>Xét nghiệm:</b> LDL: 160 mg/dL, triglycerid: 300 mg/dL, HbA1c: 6,8%.",
+      "questions": [
+        {
+          "q": "Trong các lựa chọn thay thế, nhóm thuốc nào phù hợp hơn để giảm thiểu thêm nguy cơ rối loạn chuyển hoá?",
+          "options": [
+            "Clozapin liều thấp",
+            "Ziprasidon hoặc aripiprazol",
+            "Olanzapin liều thấp hơn liều hiện tại",
+            "Quetiapin liều thấp hơn liều hiện tại"
+          ],
+          "answer": 1,
+          "explain": "Ziprasidon và aripiprazol có nguy cơ rối loạn chuyển hoá thấp hơn rõ rệt so với olanzapin, clozapin hay quetiapin, kể cả ở liều thấp của các thuốc này."
+        },
+        {
+          "q": "Nếu vẫn quyết định tiếp tục olanzapin vì đáp ứng lâm sàng tốt, biện pháp giám sát định kỳ nào cần thực hiện?",
+          "options": [
+            "Chỉ cần theo dõi công thức bạch cầu định kỳ",
+            "Theo dõi định kỳ cân nặng, bilan lipid và đường huyết theo khuyến cáo",
+            "Không cần theo dõi thêm gì nếu bệnh nhân chưa có triệu chứng lâm sàng rõ",
+            "Chỉ cần theo dõi điện tâm đồ định kỳ, không cần xét nghiệm chuyển hoá"
+          ],
+          "answer": 1,
+          "explain": "Theo dõi cân nặng, lipid, đường huyết định kỳ là cần thiết khi tiếp tục một thuốc có nguy cơ chuyển hoá cao, kể cả khi chưa có triệu chứng lâm sàng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi có tiền sử hội chứng QT dài bẩm sinh chọn thuốc chống loạn thần",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Tiền sử:</b> Rối loạn tâm thần sau đột quỵ, hội chứng QT dài bẩm sinh.<br><br><b>Bệnh sử:</b> Bác sĩ cần chọn thuốc chống loạn thần an toàn hơn về tim mạch.",
+      "questions": [
+        {
+          "q": "Thuốc nào trong nhóm sau nên được TRÁNH nhất ở bệnh nhân này?",
+          "options": [
+            "Risperidon liều thấp",
+            "Ziprasidon hoặc thioridazin",
+            "Aripiprazol",
+            "Lurasidon"
+          ],
+          "answer": 1,
+          "explain": "Ziprasidon và thioridazin có nguy cơ kéo dài QT rõ rệt hơn, cần đặc biệt tránh ở bệnh nhân có hội chứng QT dài bẩm sinh."
+        },
+        {
+          "q": "Nếu vẫn cần một thuốc hiệu quả nhưng phải cân nhắc nguy cơ tim mạch, biện pháp theo dõi tối thiểu nào là cần thiết trong quá trình điều trị?",
+          "options": [
+            "Theo dõi điện tâm đồ định kỳ, đặc biệt khoảng QT, trong suốt quá trình điều trị",
+            "Chỉ cần theo dõi công thức bạch cầu định kỳ",
+            "Không cần theo dõi thêm gì nếu triệu chứng lâm sàng ổn định",
+            "Chỉ cần đo huyết áp định kỳ, không cần điện tâm đồ"
+          ],
+          "answer": 0,
+          "explain": "Ở bệnh nhân có nguy cơ QT dài, theo dõi điện tâm đồ định kỳ là biện pháp giám sát tối thiểu cần thiết."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 48 tuổi muốn ngừng alprazolam sau 8 tháng điều trị",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 48 tuổi.<br><br><b>Tiền sử:</b> Rối loạn hoảng loạn, dùng alprazolam 1 mg x 3 lần/ngày trong 8 tháng.<br><br><b>Bệnh sử:</b> Muốn ngừng thuốc vì lo ngại tác dụng phụ dài hạn.",
+      "questions": [
+        {
+          "q": "Phương pháp ngừng thuốc an toàn nhất trong trường hợp này là gì?",
+          "options": [
+            "Ngừng đột ngột ngay lập tức vì đã dùng đủ lâu để cơ thể quen thuốc",
+            "Không cần giảm liều vì alprazolam có thời gian bán thải rất dài",
+            "Giảm liều dần theo phác đồ cá thể hoá trong nhiều tuần",
+            "Đổi ngay sang liều cao hơn của một benzodiazepin khác rồi ngừng đột ngột"
+          ],
+          "answer": 2,
+          "explain": "Alprazolam có nguy cơ hội chứng cai đáng kể; cần giảm liều từ từ theo phác đồ cá thể hoá, không ngừng đột ngột."
+        },
+        {
+          "q": "Nếu trong quá trình giảm liều, bệnh nhân xuất hiện các cơn lo âu tăng vọt và mất ngủ trở lại, điều này phản ánh khả năng nào nhiều nhất?",
+          "options": [
+            "Chắc chắn là dấu hiệu của một tình trạng ngộ độc thuốc mới",
+            "Chắc chắn là tái phát hoàn toàn bệnh lý nền, không liên quan đến việc giảm liều",
+            "Hoàn toàn không liên quan gì đến việc giảm liều thuốc đang thực hiện",
+            "Có thể là biểu hiện của quá trình giảm liều nhanh hơn khả năng thích nghi của cơ thể"
+          ],
+          "answer": 3,
+          "explain": "Triệu chứng xuất hiện trong quá trình giảm liều gợi ý khả năng liên quan đến tốc độ giảm liều, cần xem xét điều chỉnh tốc độ giảm chậm hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 33 tuổi đang dùng fluoxetin được kê thêm buspiron",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 33 tuổi.<br><br><b>Tiền sử:</b> Đang dùng fluoxetin (SSRI).<br><br><b>Bệnh sử:</b> Được kê thêm buspiron để tăng cường điều trị lo âu.",
+      "questions": [
+        {
+          "q": "Điều gì cần được theo dõi khi phối hợp hai thuốc này?",
+          "options": [
+            "Nguy cơ hạ đường huyết nặng đòi hỏi theo dõi đường huyết thường xuyên",
+            "Nguy cơ mất bạch cầu hạt tương tự như khi dùng clozapin",
+            "Nguy cơ hội chứng serotonin, dù thấp hơn so với phối hợp SSRI với thuốc ức chế MAO",
+            "Nguy cơ ức chế hô hấp nặng tương tự như phối hợp benzodiazepin với opioid"
+          ],
+          "answer": 2,
+          "explain": "Buspiron (chủ vận 5-HT1A) phối hợp với SSRI có nguy cơ hội chứng serotonin về mặt lý thuyết, dù thấp hơn nhiều so với phối hợp SSRI–MAOI."
+        },
+        {
+          "q": "Nếu xuất hiện kích động, tăng phản xạ, run và ra mồ hôi sau khi phối hợp hai thuốc, hướng xử trí ban đầu là gì?",
+          "options": [
+            "Chỉ cần giảm liều SSRI, giữ nguyên liều buspiron hiện tại",
+            "Tiếp tục dùng cả hai thuốc vì triệu chứng thường tự hết trong vài giờ",
+            "Tăng liều buspiron để cân bằng lại hoạt tính hệ serotonin",
+            "Ngừng ngay các thuốc nghi ngờ, theo dõi sát và điều trị hỗ trợ"
+          ],
+          "answer": 3,
+          "explain": "Nghi ngờ hội chứng serotonin cần ngừng ngay các thuốc liên quan và điều trị hỗ trợ, không tiếp tục hay tăng liều thêm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 70 tuổi sa sút trí tuệ thể Lewy body có rối loạn hành vi",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 70 tuổi.<br><br><b>Tiền sử:</b> Sa sút trí tuệ thể Lewy body.<br><br><b>Bệnh sử:</b> Có ảo giác thị giác và rối loạn hành vi rõ rệt. Gia đình đề nghị dùng thuốc chống loạn thần.",
+      "questions": [
+        {
+          "q": "Điều đặc biệt cần lưu ý ở nhóm sa sút trí tuệ thể Lewy body khi cân nhắc thuốc chống loạn thần là gì?",
+          "options": [
+            "Không có nguy cơ đặc biệt nào so với các thể sa sút trí tuệ khác",
+            "Cần liều cao hơn bình thường vì nhóm này thường đáp ứng kém với thuốc chống loạn thần",
+            "Chỉ cần tránh benzodiazepin, thuốc chống loạn thần hoàn toàn an toàn",
+            "Có thể nhạy cảm quá mức với thuốc chống loạn thần, đặc biệt nhóm thế hệ 1, có nguy cơ phản ứng nặng bao gồm cứng đờ nghiêm trọng"
+          ],
+          "answer": 3,
+          "explain": "Sa sút trí tuệ thể Lewy body có đặc điểm nhạy cảm quá mức với thuốc chống loạn thần (đặc biệt thế hệ 1), có thể gây phản ứng nặng, cần đặc biệt thận trọng."
+        },
+        {
+          "q": "Nếu vẫn cần can thiệp dược lý cho rối loạn hành vi ở bệnh nhân này, nguyên tắc khởi đầu điều trị nên như thế nào?",
+          "options": [
+            "Luôn cần liều cao hơn bình thường ngay từ đầu để đạt hiệu quả điều trị",
+            "Bắt đầu liều rất thấp với thuốc có ái lực D2 thấp hơn, tăng liều rất thận trọng dưới giám sát chặt chẽ",
+            "Bắt đầu ngay với liều tiêu chuẩn của thuốc thế hệ 1 để đạt hiệu quả nhanh",
+            "Không cần điều chỉnh gì đặc biệt so với sa sút trí tuệ thể Alzheimer"
+          ],
+          "answer": 1,
+          "explain": "Do tính nhạy cảm đặc biệt, nguyên tắc là bắt đầu liều rất thấp, ưu tiên thuốc ái lực D2 thấp, tăng liều thận trọng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 26 tuổi ngộ độc benzodiazepin trên nền rối loạn co giật",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 26 tuổi.<br><br><b>Tiền sử:</b> Rối loạn co giật đang dùng diazepam mạn tính để kiểm soát.<br><br><b>Bệnh sử:</b> Ngộ độc benzodiazepin đơn thuần do tự tử. Gia đình yêu cầu bác sĩ dùng flumazenil để bệnh nhân tỉnh nhanh.",
+      "questions": [
+        {
+          "q": "Quyết định hợp lý nhất của bác sĩ trong tình huống này là gì?",
+          "options": [
+            "Tránh dùng flumazenil do nguy cơ khởi phát co giật ở bệnh nhân lệ thuộc benzodiazepin mạn tính có bệnh co giật nền",
+            "Phối hợp flumazenil với thêm một liều diazepam để cân bằng tác dụng",
+            "Dùng flumazenil liều cao một lần duy nhất để bảo đảm hiệu quả tối đa",
+            "Dùng flumazenil ngay theo yêu cầu gia đình vì đây là thuốc giải độc đặc hiệu an toàn tuyệt đối"
+          ],
+          "answer": 0,
+          "explain": "Flumazenil có nguy cơ khởi phát co giật ở người lệ thuộc benzodiazepin mạn tính, đặc biệt có bệnh co giật nền, nên cần tránh dùng trong tình huống này."
+        },
+        {
+          "q": "Nếu cần đánh giá thần kinh cấp cứu (ví dụ loại trừ tổn thương cấu trúc não) mà không muốn dùng flumazenil, cách tiếp cận an toàn hơn là gì?",
+          "options": [
+            "Không có cách tiếp cận nào an toàn hơn ngoài việc dùng flumazenil",
+            "Ưu tiên các biện pháp hỗ trợ hô hấp–tuần hoàn và chẩn đoán hình ảnh thay vì dùng thuốc để đánh thức bệnh nhân",
+            "Dùng đồng thời flumazenil và thêm một liều diazepam để trung hoà tác dụng",
+            "Dùng flumazenil liều thấp thăm dò trước mà không cần cân nhắc thêm"
+          ],
+          "answer": 1,
+          "explain": "Trong bối cảnh nguy cơ co giật do flumazenil, nên ưu tiên hỗ trợ tổng quát và chẩn đoán hình ảnh thay vì cố gắng đánh thức bệnh nhân bằng thuốc đối kháng."
+        }
+      ]
+    }
+  ]
+}
