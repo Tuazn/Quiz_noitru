@@ -1,0 +1,610 @@
+{
+  "name": "Thuốc Opioid USMLE/Katzung (AI gen) MCQ",
+  "description": "Tập hợp 50 câu hỏi trắc nghiệm lâm sàng dược lý Opioid biên soạn theo phong cách Katzung Pharmacology Examination & Board Review / USMLE Step 1.",
+  "level": "Ôn thi USMLE / Bác sĩ Nội trú",
+  "type": "mcq",
+  "category": "Cơ sở",
+  "subcategory": "Dược lý",
+  "questions": [
+    {
+      "q": "Một bệnh nhân 63 tuổi đang xạ trị ngoại trú vì ung thư xương di căn. Đau đang được điều trị bằng oxycodone + acetaminophen uống. Dù tăng liều, đau vẫn tăng. Thuốc uống nào thích hợp nhất tiếp theo?",
+      "options": [
+        "Buprenorphine",
+        "Codeine + aspirin",
+        "Hydromorphone",
+        "Pentazocine",
+        "Tramadol"
+      ],
+      "answer": 2,
+      "explain": "Đau ung thư di căn thường cần opioid mạnh tương đương morphine (hydromorphone, oxymorphone…). Buprenorphine và mixed agonist-antagonist có hiệu quả thấp hơn và có thể đối kháng full agonist."
+    },
+    {
+      "q": "Bạn đang đi thi thì đột nhiên bị tiêu chảy. Nếu dừng ở hiệu thuốc mua thuốc opioid OTC chống tiêu chảy, bạn sẽ hỏi mua:",
+      "options": [
+        "Codeine",
+        "Dextromethorphan",
+        "Diphenoxylate",
+        "Loperamide",
+        "Nalbuphine"
+      ],
+      "answer": 3,
+      "explain": "Loperamide là opioid ngoại vi (không qua BBB), dùng OTC chống tiêu chảy. Diphenoxylate thường kết hợp atropine (Lomotil) và không phải OTC thuần."
+    },
+    {
+      "q": "Một bệnh nhân cấp cứu được tiêm 80 mg meperidine vì đau bụng nặng nghi do đường tiêu hóa. Sau đó xuất hiện run, kích thích và co giật. Nguyên nhân chính là do:",
+      "options": [
+        "Giải phóng histamine",
+        "Chất chuyển hóa normeperidine",
+        "Tương tác với MAOI",
+        "Ức chế hô hấp",
+        "Co thắt Oddi"
+      ],
+      "answer": 1,
+      "explain": "Normeperidine (metabolite của meperidine) tích lũy gây kích thích thần kinh và co giật, đặc biệt khi dùng liều cao hoặc suy thận."
+    },
+    {
+      "q": "Polymorphism gen của enzyme nào gây biến thiên đáp ứng giảm đau với codeine?",
+      "options": [
+        "CYP3A4",
+        "CYP2D6",
+        "CYP2C19",
+        "UGT1A1",
+        "CYP1A2"
+      ],
+      "answer": 1,
+      "explain": "Codeine được CYP2D6 chuyển thành morphine. Poor metabolizer → ít hiệu quả; ultra-rapid → nguy cơ ngộ độc (đặc biệt trẻ em)."
+    },
+    {
+      "q": "Một bệnh nhân đang dùng morphine mạn tính đột ngột ngừng thuốc. Triệu chứng cai xuất hiện. Thuốc nào hiệu quả nhất để làm giảm triệu chứng này?",
+      "options": [
+        "Buprenorphine",
+        "Codeine",
+        "Methadone",
+        "Naltrexone",
+        "Tramadol"
+      ],
+      "answer": 2,
+      "explain": "Methadone (full agonist t½ dài) được dùng để làm êm dịu hội chứng cai và duy trì điều trị nghiện."
+    },
+    {
+      "q": "Phát biểu nào đúng về nalbuphine?",
+      "options": [
+        "Kích hoạt thụ thể μ",
+        "Không gây ức chế hô hấp",
+        "Không gây an thần",
+        "Hiệu quả giảm đau không vượt codeine",
+        "Đáp ứng với naloxone trong overdose có thể không đáng tin cậy"
+      ],
+      "answer": 4,
+      "explain": "Nalbuphine là mixed agonist-antagonist (κ-agonist, μ-antagonist). Trong overdose, đáp ứng với naloxone có thể chậm hoặc không đầy đủ."
+    },
+    {
+      "q": "Cơ chế chính khiến opioid gây ức chế hô hấp là:",
+      "options": [
+        "Ức chế trung tâm hô hấp hành não (giảm đáp ứng với CO₂ và hypoxia)",
+        "Liệt cơ hoành",
+        "Co thắt phế quản",
+        "Ức chế trung tâm hô hấp vỏ não",
+        "Tăng sản xuất đờm"
+      ],
+      "answer": 0,
+      "explain": "Mu-receptor ở medulla làm giảm đáp ứng thông khí với tăng CO₂ và giảm O₂ → bradypnea và hypoventilation."
+    },
+    {
+      "q": "Một bệnh nhân 17 tuổi sau gãy xương chày được dùng opioid. Hiện khó đánh thức, RR 6/min, đồng tử co. Cơ chế tế bào của thuốc gây tình trạng này là:",
+      "options": [
+        "Tăng influx Na⁺",
+        "Tăng efflux K⁺ → hyperpolarization",
+        "Tăng influx Cl⁻",
+        "Tăng influx Ca²⁺",
+        "Ức chế Na⁺/K⁺-ATPase"
+      ],
+      "answer": 1,
+      "explain": "Opioid (qua Gi/Go) mở kênh K⁺ → hyperpolarization neuron → ức chế dẫn truyền."
+    },
+    {
+      "q": "Thuốc nào sau đây có hiệu quả giảm đau yếu nhất và thường dùng kết hợp với NSAID/acetaminophen?",
+      "options": [
+        "Fentanyl",
+        "Hydromorphone",
+        "Morphine",
+        "Codeine",
+        "Methadone"
+      ],
+      "answer": 3,
+      "explain": "Codeine là weak agonist (prodrug), thường dùng cho đau nhẹ-vừa hoặc ho."
+    },
+    {
+      "q": "Một bệnh nhân dùng opioid lâu ngày. Tolerance phát triển nhanh nhất với tác dụng nào?",
+      "options": [
+        "Táo bón",
+        "Co đồng tử",
+        "Giảm đau và sảng khoái",
+        "Ức chế hô hấp",
+        "Ngứa"
+      ],
+      "answer": 2,
+      "explain": "Tolerance với analgesia và euphoria phát triển nhanh; táo bón và miosis gần như không tolerance."
+    },
+    {
+      "q": "Loperamide và diphenoxylate được dùng chống tiêu chảy vì:",
+      "options": [
+        "Chúng không gắn thụ thể μ",
+        "Chúng không qua hàng rào máu-não ở liều điều trị",
+        "Chúng là antagonist",
+        "Chúng kích thích nhu động ruột",
+        "Chúng ức chế CYP3A4"
+      ],
+      "answer": 1,
+      "explain": "Là opioid ngoại vi, ít tác dụng trung ương → an toàn hơn cho tiêu chảy."
+    },
+    {
+      "q": "Bệnh nhân dùng meperidine + thuốc ức chế MAO. Nguy cơ chính là:",
+      "options": [
+        "Hội chứng serotonin / kích thích thần kinh nặng",
+        "Chỉ ức chế hô hấp",
+        "Chỉ hạ huyết áp",
+        "Không có tương tác",
+        "Chỉ táo bón"
+      ],
+      "answer": 0,
+      "explain": "Meperidine ức chế tái hấp thu serotonin → nguy cơ serotonin syndrome khi kết hợp MAOI."
+    },
+    {
+      "q": "Thuốc nào là partial agonist μ và được dùng cả giảm đau lẫn duy trì điều trị nghiện?",
+      "options": [
+        "Morphine",
+        "Fentanyl",
+        "Buprenorphine",
+        "Naloxone",
+        "Codeine"
+      ],
+      "answer": 2,
+      "explain": "Buprenorphine partial μ-agonist + κ-antagonist, có ceiling effect, dùng trong OUD."
+    },
+    {
+      "q": "Một bệnh nhân đang dùng full agonist opioid mạnh. Nếu thêm pentazocine hoặc nalbuphine, điều gì có thể xảy ra?",
+      "options": [
+        "Tăng hiệu quả giảm đau",
+        "Giảm hiệu quả giảm đau / precipitated withdrawal",
+        "Không ảnh hưởng",
+        "Chỉ tăng táo bón",
+        "Chỉ tăng an thần"
+      ],
+      "answer": 1,
+      "explain": "Mixed agonist-antagonist có thể đối kháng full agonist → giảm analgesia hoặc gây cai."
+    },
+    {
+      "q": "Dextromethorphan chủ yếu dùng để:",
+      "options": [
+        "Giảm đau mạnh",
+        "Chống ho",
+        "Chống tiêu chảy",
+        "Cai nghiện",
+        "Gây mê"
+      ],
+      "answer": 1,
+      "explain": "Dextromethorphan là antitussive (không có tác dụng giảm đau đáng kể ở liều thường dùng)."
+    },
+    {
+      "q": "Trong overdose opioid, thuốc đảo ngược được lựa chọn đầu tiên là:",
+      "options": [
+        "Flumazenil",
+        "Naloxone",
+        "Naltrexone",
+        "Nalmefene",
+        "Buprenorphine"
+      ],
+      "answer": 1,
+      "explain": "Naloxone (t½ ngắn) là thuốc cấp cứu chuẩn. Naltrexone dùng đường uống dài hạn."
+    },
+    {
+      "q": "Bệnh nhân ung thư xương di căn cần opioid mạnh đường uống lâu dài. Lý do không chọn meperidine là:",
+      "options": [
+        "Hiệu quả quá yếu",
+        "Metabolite gây co giật khi dùng dài ngày",
+        "Không hấp thu đường uống",
+        "Gây QT prolongation",
+        "Không gây táo bón"
+      ],
+      "answer": 1,
+      "explain": "Normeperidine tích lũy → co giật; không dùng dài hạn."
+    },
+    {
+      "q": "Cơ chế chính của opioid ở mức tế bào (sau khi gắn thụ thể) bao gồm:",
+      "options": [
+        "Tăng cAMP",
+        "Giảm cAMP + tăng dẫn xuất K⁺ + giảm Ca²⁺",
+        "Mở kênh Na⁺",
+        "Kích hoạt adenylate cyclase",
+        "Tăng giải phóng glutamate"
+      ],
+      "answer": 1,
+      "explain": "Qua Gi/Go → ức chế adenylate cyclase, mở K⁺, đóng Ca²⁺ → ức chế neuron."
+    },
+    {
+      "q": "Một bệnh nhân sau mổ cần giảm đau mạnh, ngắn. Thuốc nào phù hợp nhất trong gây mê?",
+      "options": [
+        "Codeine",
+        "Morphine",
+        "Fentanyl",
+        "Methadone",
+        "Loperamide"
+      ],
+      "answer": 2,
+      "explain": "Fentanyl (và dẫn xuất) khởi phát nhanh, thời gian ngắn, dùng nhiều trong gây mê."
+    },
+    {
+      "q": "Tolerance và physical dependence phát triển chủ yếu do kích hoạt thụ thể nào?",
+      "options": [
+        "Delta",
+        "Kappa",
+        "Mu",
+        "NOP",
+        "Tất cả như nhau"
+      ],
+      "answer": 2,
+      "explain": "Mu-receptor là chính yếu gây analgesia, euphoria, respiratory depression, tolerance và dependence."
+    },
+    {
+      "q": "Một bệnh nhân 45 tuổi được dùng morphine IV sau phẫu thuật. Anh ta xuất hiện ngứa và hạ huyết áp nhẹ. Cơ chế nào giải thích tốt nhất hiện tượng này?",
+      "options": [
+        "Ức chế trung tâm vận mạch",
+        "Giải phóng histamine từ dưỡng bào",
+        "Kích hoạt thụ thể Kappa",
+        "Ức chế acetylcholinesterase",
+        "Tăng giải phóng norepinephrine"
+      ],
+      "answer": 1,
+      "explain": "Morphine (và một số opioid khác) gây giải phóng histamine → ngứa, đỏ da, hạ huyết áp."
+    },
+    {
+      "q": "Thuốc nào sau đây có thời gian bán thải dài nhất và được dùng trong duy trì điều trị nghiện opioid?",
+      "options": [
+        "Fentanyl",
+        "Morphine",
+        "Meperidine",
+        "Methadone",
+        "Codeine"
+      ],
+      "answer": 3,
+      "explain": "Methadone có t½ rất dài và biến thiên (8–60 giờ), phù hợp duy trì OUD."
+    },
+    {
+      "q": "Một trẻ 5 tuổi được kê codeine sau phẫu thuật amidan. Nguy cơ nào cần đặc biệt lưu ý?",
+      "options": [
+        "Chỉ táo bón",
+        "Ngộ độc do ultra-rapid metabolizer CYP2D6",
+        "Chỉ buồn nôn",
+        "Không có nguy cơ đặc biệt",
+        "Co giật do normeperidine"
+      ],
+      "answer": 1,
+      "explain": "Trẻ em, đặc biệt sau amidan/adenoid, có nguy cơ cao suy hô hấp nếu là CYP2D6 ultra-rapid metabolizer."
+    },
+    {
+      "q": "Buprenorphine khác morphine ở điểm nào quan trọng nhất?",
+      "options": [
+        "Là full agonist μ",
+        "Có ceiling effect trên ức chế hô hấp",
+        "Không gắn thụ thể μ",
+        "t½ rất ngắn",
+        "Không gây táo bón"
+      ],
+      "answer": 1,
+      "explain": "Buprenorphine là partial agonist → có trần (ceiling) trên hô hấp và sảng khoái."
+    },
+    {
+      "q": "Một bệnh nhân đang dùng naltrexone để cai nghiện. Nếu cần giảm đau cấp, điều gì sẽ xảy ra nếu dùng morphine?",
+      "options": [
+        "Hiệu quả giảm đau tăng",
+        "Hiệu quả giảm đau bị đối kháng mạnh",
+        "Không ảnh hưởng",
+        "Chỉ tăng táo bón",
+        "Gây co giật"
+      ],
+      "answer": 1,
+      "explain": "Naltrexone là antagonist cạnh tranh → chặn tác dụng của opioid agonist."
+    },
+    {
+      "q": "Opioid nào ít gây co thắt cơ vòng Oddi nhất và đôi khi được ưa chuộng trong đau mật tụy?",
+      "options": [
+        "Morphine",
+        "Codeine",
+        "Meperidine",
+        "Fentanyl",
+        "Hydromorphone"
+      ],
+      "answer": 2,
+      "explain": "Meperidine ít gây co thắt Oddi hơn morphine (dù hiện nay ít dùng vì lý do khác)."
+    },
+    {
+      "q": "Một bệnh nhân dùng fentanyl patch 72 giờ/lần. Khi chuyển sang morphine uống, cần lưu ý điều gì?",
+      "options": [
+        "Fentanyl yếu hơn morphine",
+        "Cần tính equianalgesic và giảm liều vì incomplete cross-tolerance",
+        "Có thể chuyển 1:1",
+        "Không cần điều chỉnh",
+        "Chỉ cần tăng liều morphine"
+      ],
+      "answer": 1,
+      "explain": "Khi chuyển đổi opioid, luôn giảm 25–50% liều equianalgesic vì incomplete cross-tolerance."
+    },
+    {
+      "q": "Cơ chế chính của tolerance opioid liên quan đến:",
+      "options": [
+        "Tăng số lượng thụ thể μ",
+        "Giảm số lượng/hiệu quả thụ thể μ và thay đổi tín hiệu nội bào",
+        "Tăng sản xuất endorphin",
+        "Ức chế CYP3A4",
+        "Tăng hàng rào máu-não"
+      ],
+      "answer": 1,
+      "explain": "Tolerance chủ yếu do desensitization và internalization thụ thể, thay đổi tín hiệu sau thụ thể."
+    },
+    {
+      "q": "Thuốc nào sau đây là opioid antagonist tác dụng dài, dùng đường uống để duy trì cai nghiện?",
+      "options": [
+        "Naloxone",
+        "Naltrexone",
+        "Nalbuphine",
+        "Buprenorphine",
+        "Methadone"
+      ],
+      "answer": 1,
+      "explain": "Naltrexone uống, t½ dài, dùng duy trì sau khi đã cai."
+    },
+    {
+      "q": "Một bệnh nhân suy thận mạn tính cần opioid. Thuốc nào an toàn hơn morphine?",
+      "options": [
+        "Codeine",
+        "Meperidine",
+        "Hydromorphone hoặc fentanyl",
+        "Morphine vẫn tốt nhất",
+        "Tramadol liều cao"
+      ],
+      "answer": 2,
+      "explain": "Hydromorphone và fentanyl ít phụ thuộc vào chức năng thận hơn morphine (tránh M6G)."
+    },
+    {
+      "q": "Hội chứng cai opioid khác hội chứng cai alcohol/benzodiazepine ở điểm nào quan trọng?",
+      "options": [
+        "Có thể gây tử vong do co giật",
+        "Thường không đe dọa tính mạng (không co giật nặng)",
+        "Không có triệu chứng tiêu hóa",
+        "Đồng tử luôn co",
+        "Không có chảy nước mũi"
+      ],
+      "answer": 1,
+      "explain": "Cai opioid rất khó chịu nhưng hiếm khi gây tử vong (khác cai rượu/benzo có nguy cơ co giật, delirium tremens)."
+    },
+    {
+      "q": "Tramadol có thêm cơ chế nào ngoài gắn thụ thể μ yếu?",
+      "options": [
+        "Ức chế COX",
+        "Ức chế tái hấp thu serotonin và norepinephrine",
+        "Antagonist NMDA",
+        "Agonist GABA",
+        "Ức chế MAO"
+      ],
+      "answer": 1,
+      "explain": "Tramadol = weak μ-agonist + SNRI → nguy cơ serotonin syndrome và co giật."
+    },
+    {
+      "q": "Một bệnh nhân dùng morphine xuất hiện táo bón nặng. Cơ chế chính là:",
+      "options": [
+        "Tăng nhu động ruột",
+        "Giảm nhu động và tăng trương lực cơ tròn",
+        "Tăng tiết dịch ruột",
+        "Kích thích dây X",
+        "Ức chế gastrin"
+      ],
+      "answer": 1,
+      "explain": "Opioid giảm nhu động ruột non và đại tràng, tăng trương lực cơ thắt → táo bón."
+    },
+    {
+      "q": "Fentanyl được ưa chuộng trong gây mê vì:",
+      "options": [
+        "t½ rất dài",
+        "Khởi phát nhanh, thời gian ngắn, ít giải phóng histamine",
+        "Không gây ức chế hô hấp",
+        "Rẻ tiền",
+        "Không cần theo dõi"
+      ],
+      "answer": 1,
+      "explain": "Fentanyl lipophilic cao → vào não nhanh, thời gian ngắn, huyết động ổn định hơn morphine."
+    },
+    {
+      "q": "Một bệnh nhân đang dùng buprenorphine. Nếu cần đảo ngược hoàn toàn tác dụng, điều gì đúng?",
+      "options": [
+        "Naloxone liều thường đủ",
+        "Cần naloxone liều cao hơn và kéo dài hơn",
+        "Không thể đảo ngược",
+        "Chỉ cần flumazenil",
+        "Dùng naltrexone là đủ"
+      ],
+      "answer": 1,
+      "explain": "Buprenorphine ái lực cao + dissociation chậm → cần naloxone liều cao, truyền liên tục."
+    },
+    {
+      "q": "Opioid nào sau đây có nguy cơ gây hội chứng serotonin cao nhất khi kết hợp SSRI?",
+      "options": [
+        "Morphine",
+        "Fentanyl",
+        "Meperidine hoặc tramadol",
+        "Codeine",
+        "Hydromorphone"
+      ],
+      "answer": 2,
+      "explain": "Meperidine và tramadol ức chế tái hấp thu serotonin → nguy cơ serotonin syndrome."
+    },
+    {
+      "q": "Trong bảng equianalgesic, 10 mg morphine IV tương đương khoảng bao nhiêu mg morphine uống?",
+      "options": [
+        "10 mg",
+        "20 mg",
+        "30 mg",
+        "60 mg",
+        "100 mg"
+      ],
+      "answer": 2,
+      "explain": "Tỉ lệ PO:IV của morphine khoảng 3:1 (do first-pass)."
+    },
+    {
+      "q": "Một bệnh nhân dùng opioid mạn tính xuất hiện tăng đau nghịch lý (opioid-induced hyperalgesia). Cơ chế nghi ngờ liên quan đến:",
+      "options": [
+        "Chỉ thụ thể μ",
+        "NMDA receptor và hệ thống chống đau",
+        "Chỉ thụ thể Kappa",
+        "Tăng endorphin",
+        "Ức chế COX"
+      ],
+      "answer": 1,
+      "explain": "OIH liên quan kích hoạt NMDA và thay đổi tín hiệu đau trung ương."
+    },
+    {
+      "q": "Thuốc nào được dùng để điều trị táo bón do opioid mà không đối kháng tác dụng trung ương?",
+      "options": [
+        "Naloxone uống",
+        "Methylnaltrexone hoặc naloxegol",
+        "Naltrexone",
+        "Buprenorphine",
+        "Loperamide"
+      ],
+      "answer": 1,
+      "explain": "Methylnaltrexone, naloxegol là peripheral μ-antagonist → giảm táo bón mà không gây cai trung ương."
+    },
+    {
+      "q": "Một bệnh nhân mang thai nghiện opioid. Thuốc nào được ưa chuộng hơn trong duy trì?",
+      "options": [
+        "Chỉ cai đột ngột",
+        "Methadone hoặc buprenorphine",
+        "Naltrexone",
+        "Codeine",
+        "Meperidine"
+      ],
+      "answer": 1,
+      "explain": "Methadone và buprenorphine đều được chấp nhận trong thai kỳ; buprenorphine có thể có lợi về NAS."
+    },
+    {
+      "q": "Dextromethorphan ở liều cao có thể gây:",
+      "options": [
+        "Chỉ chống ho",
+        "Tác dụng giống PCP (dissociative) do ức chế NMDA",
+        "Chỉ táo bón",
+        "Không có tác dụng phụ",
+        "Co giật do normeperidine"
+      ],
+      "answer": 1,
+      "explain": "Dextromethorphan liều cao ức chế NMDA → hiệu ứng giống ketamine/PCP."
+    },
+    {
+      "q": "Khi nào nên tránh dùng mixed agonist-antagonist (như pentazocine, nalbuphine)?",
+      "options": [
+        "Bệnh nhân chưa từng dùng opioid",
+        "Bệnh nhân đang dùng full agonist mạn tính",
+        "Chỉ khi suy thận",
+        "Chỉ khi suy gan",
+        "Không bao giờ tránh"
+      ],
+      "answer": 1,
+      "explain": "Có thể gây precipitated withdrawal ở bệnh nhân phụ thuộc full agonist."
+    },
+    {
+      "q": "Một bệnh nhân sau mổ được PCA morphine. Anh ta vẫn đau nhiều dù tăng liều. Nguyên nhân có thể là:",
+      "options": [
+        "Chỉ do lo âu",
+        "Tolerance hoặc opioid-induced hyperalgesia",
+        "Chỉ do hấp thu kém",
+        "Không bao giờ xảy ra",
+        "Chỉ do tương tác thuốc"
+      ],
+      "answer": 1,
+      "explain": "Tolerance hoặc OIH có thể làm giảm hiệu quả dù tăng liều."
+    },
+    {
+      "q": "Opioid nào có nguy cơ tích lũy và độc thần kinh cao nhất ở người già suy thận?",
+      "options": [
+        "Fentanyl",
+        "Hydromorphone",
+        "Meperidine",
+        "Methadone",
+        "Buprenorphine"
+      ],
+      "answer": 2,
+      "explain": "Normeperidine tích lũy mạnh ở suy thận và người già → co giật."
+    },
+    {
+      "q": "Cơ chế chính khiến opioid gây miosis là:",
+      "options": [
+        "Ức chế thần kinh giao cảm",
+        "Kích thích nhân Edinger-Westphal (parasympathetic)",
+        "Liệt cơ mở đồng tử",
+        "Tăng áp lực nội sọ",
+        "Giảm acetylcholine"
+      ],
+      "answer": 1,
+      "explain": "Opioid kích thích parasympathetic đến cơ co đồng tử → miosis."
+    },
+    {
+      "q": "Một bệnh nhân dùng morphine xuất hiện buồn nôn và nôn. Cơ chế chính là:",
+      "options": [
+        "Kích thích trực tiếp CTZ (chemoreceptor trigger zone)",
+        "Chỉ do táo bón",
+        "Chỉ do hạ huyết áp",
+        "Ức chế trung tâm nôn",
+        "Tăng nhu động dạ dày"
+      ],
+      "answer": 0,
+      "explain": "Opioid kích thích CTZ ở area postrema → buồn nôn/nôn."
+    },
+    {
+      "q": "Thuốc nào sau đây KHÔNG thuộc nhóm strong agonist?",
+      "options": [
+        "Morphine",
+        "Fentanyl",
+        "Hydromorphone",
+        "Codeine",
+        "Methadone"
+      ],
+      "answer": 3,
+      "explain": "Codeine là weak/moderate agonist."
+    },
+    {
+      "q": "Trong điều trị nghiện opioid, ưu điểm chính của buprenorphine so với methadone là:",
+      "options": [
+        "Retention cao hơn",
+        "An toàn hơn về hô hấp và dễ kê đơn ngoại trú hơn",
+        "t½ ngắn hơn",
+        "Không gây táo bón",
+        "Không cần theo dõi"
+      ],
+      "answer": 1,
+      "explain": "Ceiling effect → an toàn hơn; có thể kê tại phòng khám (không bắt buộc OTP như methadone)."
+    },
+    {
+      "q": "Một bệnh nhân dùng opioid lâu ngày đột ngột ngừng. Triệu chứng nào KHÔNG điển hình của cai opioid?",
+      "options": [
+        "Đồng tử giãn",
+        "Tiêu chảy",
+        "Đồng tử co",
+        "Đau cơ, chảy nước mũi",
+        "Mất ngủ, lo âu"
+      ],
+      "answer": 2,
+      "explain": "Cai opioid: mydriasis (đồng tử giãn). Miosis là dấu hiệu của intoxication."
+    },
+    {
+      "q": "Mục tiêu chính của liệu pháp thay thế opioid (methadone/buprenorphine) là:",
+      "options": [
+        "Gây sảng khoái thay thế",
+        "Giảm triệu chứng cai, giảm thèm thuốc, giảm hành vi tìm thuốc và giảm tử vong",
+        "Cai hoàn toàn trong 1 tuần",
+        "Chỉ giảm đau",
+        "Thay thế bằng placebo"
+      ],
+      "answer": 1,
+      "explain": "MOUD nhằm giảm hại, ổn định bệnh nhân và cải thiện kết cục lâu dài."
+    }
+  ]
+}
