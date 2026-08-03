@@ -1,0 +1,622 @@
+{
+  "name": "Thuốc Hạ sốt – Giảm đau – Chống viêm non-steroid USMLE/Katzung (AI gen)",
+  "description": "Bộ 20 case lâm sàng tình huống liên hoàn (Sequential Item Sets) về Thuốc Hạ sốt – Giảm đau – Chống viêm non-steroid (NSAIDs + Paracetamol) biên soạn theo phong cách USMLE Step 2 CK / Step 3.",
+  "level": "USMLE Step 2 CK / Step 3",
+  "type": "cases",
+  "category": "Cơ sở",
+  "subcategory": "Dược lý",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 32 tuổi bị đau đầu và sốt sau khi cảm",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 32 tuổi.<br><br><b>Bệnh sử:</b> Đau đầu và sốt 38,5°C sau khi bị cảm. Tự mua thuốc hạ sốt.",
+      "questions": [
+        {
+          "q": "Thuốc hạ sốt – giảm đau nào an toàn nhất với dạ dày trong tình huống này?",
+          "options": [
+            "Aspirin",
+            "Ibuprofen",
+            "Diclofenac",
+            "Paracetamol",
+            "Indomethacin"
+          ],
+          "answer": 3,
+          "explain": "Paracetamol ít ức chế COX ngoại vi → ít ảnh hưởng dạ dày."
+        },
+        {
+          "q": "Nếu bệnh nhân chọn ibuprofen, cơ chế hạ sốt chính là gì?",
+          "options": [
+            "Ức chế trung tâm điều nhiệt ở vùng dưới đồi (giảm PGE2)",
+            "Tăng bài tiết mồ hôi trực tiếp",
+            "Co mạch ngoại vi",
+            "Ức chế interleukin",
+            "Agonist thụ thể opioid"
+          ],
+          "answer": 0,
+          "explain": "NSAID ức chế PGE2 ở trung tâm điều nhiệt."
+        }
+      ]
+    },
+    {
+      "title": "Bé trai 6 tuổi bị thủy đậu sốt cao",
+      "body": "<b>Hành chính:</b> Bé trai, 6 tuổi.<br><br><b>Bệnh sử:</b> Bị thủy đậu, sốt cao. Mẹ định cho uống aspirin vì nghe nói hạ sốt nhanh.",
+      "questions": [
+        {
+          "q": "Tại sao không nên cho trẻ em bị thủy đậu hoặc cúm dùng aspirin?",
+          "options": [
+            "Gây suy thận",
+            "Nguy cơ hội chứng Reye",
+            "Gây loét dạ dày nặng",
+            "Gây co thắt phế quản",
+            "Không hiệu quả"
+          ],
+          "answer": 1,
+          "explain": "Aspirin ở trẻ nhiễm virus → nguy cơ Reye syndrome (não + gan)."
+        },
+        {
+          "q": "Thuốc hạ sốt thay thế phù hợp hơn cho trẻ này là gì?",
+          "options": [
+            "Indomethacin",
+            "Paracetamol hoặc Ibuprofen",
+            "Celecoxib",
+            "Ketorolac",
+            "Naproxen liều cao"
+          ],
+          "answer": 1,
+          "explain": "Paracetamol hoặc ibuprofen là lựa chọn an toàn hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 22 tuổi uống 15g paracetamol tự tử",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 22 tuổi.<br><br><b>Bệnh sử:</b> Uống khoảng 15 g paracetamol sau mâu thuẫn tình cảm. 8 giờ sau vào viện với buồn nôn, mệt.",
+      "questions": [
+        {
+          "q": "Cơ quan nào bị tổn thương chính trong ngộ độc paracetamol?",
+          "options": [
+            "Thận",
+            "Gan",
+            "Tim",
+            "Phổi",
+            "Tủy xương"
+          ],
+          "answer": 1,
+          "explain": "NAPQI gây hoại tử tế bào gan."
+        },
+        {
+          "q": "Thuốc giải độc đặc hiệu cần dùng sớm là gì?",
+          "options": [
+            "Naloxone",
+            "N-acetylcysteine",
+            "Flumazenil",
+            "Protamine",
+            "Vitamin K"
+          ],
+          "answer": 1,
+          "explain": "N-acetylcysteine bổ sung glutathione."
+        },
+        {
+          "q": "Tại sao phải dùng N-acetylcysteine càng sớm càng tốt?",
+          "options": [
+            "Vì thuốc hết tác dụng sau 2 giờ",
+            "Để ngăn NAPQI gây tổn thương gan trước khi glutathione cạn kiệt hoàn toàn",
+            "Vì gây nghiện",
+            "Chỉ để giảm buồn nôn",
+            "Không cần sớm"
+          ],
+          "answer": 1,
+          "explain": "Càng sớm càng bảo vệ được gan."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi đau thượng vị và đi ngoài phân đen do dùng ibuprofen kéo dài",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 58 tuổi.<br><br><b>Tiền sử:</b> Đau khớp gối mạn tính.<br><br><b>Bệnh sử:</b> Tự mua ibuprofen uống hàng ngày trong 3 tháng. Nay đau thượng vị, đi ngoài phân đen.",
+      "questions": [
+        {
+          "q": "Cơ chế chính gây loét dạ dày của NSAID là gì?",
+          "options": [
+            "Tăng tiết acid trực tiếp",
+            "Ức chế PGE2 bảo vệ niêm mạc",
+            "Nhiễm H. pylori",
+            "Tăng motilin",
+            "Ức chế gastrin"
+          ],
+          "answer": 1,
+          "explain": "Mất prostaglandin bảo vệ → giảm chất nhầy, bicarbonate và tưới máu."
+        },
+        {
+          "q": "Hướng xử trí ban đầu phù hợp bao gồm?",
+          "options": [
+            "Tiếp tục ibuprofen + antacid",
+            "Ngừng NSAID, dùng PPI, đánh giá chảy máu",
+            "Tăng liều ibuprofen",
+            "Chuyển sang aspirin",
+            "Chỉ dùng men tiêu hóa"
+          ],
+          "answer": 1,
+          "explain": "Ngừng thủ phạm + ức chế acid + đánh giá biến chứng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 62 tuổi viêm khớp dạng thấp có tiền sử loét dạ dày",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 62 tuổi.<br><br><b>Tiền sử:</b> Viêm khớp dạng thấp, loét dạ dày.<br><br><b>Bệnh sử:</b> Bác sĩ muốn chọn NSAID ít ảnh hưởng dạ dày hơn.",
+      "questions": [
+        {
+          "q": "Nhóm thuốc nào ít gây loét dạ dày hơn non-selective NSAID?",
+          "options": [
+            "Aspirin",
+            "Celecoxib (COX-2 chọn lọc)",
+            "Indomethacin",
+            "Ketorolac",
+            "Diclofenac"
+          ],
+          "answer": 1,
+          "explain": "COX-2 chọn lọc ít ức chế COX-1 bảo vệ dạ dày."
+        },
+        {
+          "q": "Nhược điểm chính cần lưu ý khi dùng celecoxib là gì?",
+          "options": [
+            "Tăng nguy cơ loét",
+            "Tăng nguy cơ biến cố tim mạch",
+            "Gây Reye",
+            "Độc gan cấp",
+            "Gây nghiện"
+          ],
+          "answer": 1,
+          "explain": "Ức chế PGI2 nhiều hơn TXA2 → tăng nguy cơ huyết khối."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi đau nhiều sau mổ cắt túi mật",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Bệnh sử:</b> Sau mổ cắt túi mật, đau nhiều. Bác sĩ muốn dùng NSAID tiêm để giảm opioid.",
+      "questions": [
+        {
+          "q": "NSAID tiêm nào có hiệu lực giảm đau mạnh nhất trong nhóm?",
+          "options": [
+            "Diclofenac",
+            "Ketorolac",
+            "Ibuprofen",
+            "Meloxicam",
+            "Paracetamol tiêm"
+          ],
+          "answer": 1,
+          "explain": "Ketorolac giảm đau gần mức opioid."
+        },
+        {
+          "q": "Ketorolac nên hạn chế thời gian dùng tối đa bao lâu?",
+          "options": [
+            "1 ngày",
+            "≤ 5 ngày",
+            "2 tuần",
+            "1 tháng",
+            "Không hạn chế"
+          ],
+          "answer": 1,
+          "explain": "Nguy cơ suy thận và chảy máu cao → ≤ 5 ngày."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi suy tim kèm suy thận mạn uống diclofenac",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 70 tuổi.<br><br><b>Tiền sử:</b> Suy tim và suy thận mạn (creatinin 2,1 mg/dL).<br><br><b>Bệnh sử:</b> Đau lưng, người nhà cho uống diclofenac.",
+      "questions": [
+        {
+          "q": "Tại sao NSAID nguy hiểm ở bệnh nhân này?",
+          "options": [
+            "Tăng tưới máu thận",
+            "Ức chế prostaglandin → giảm tưới máu thận và giữ muối nước",
+            "Chỉ gây loét",
+            "Gây hạ huyết áp",
+            "Không ảnh hưởng"
+          ],
+          "answer": 1,
+          "explain": "Prostaglandin duy trì tưới máu thận khi có suy thận/giảm thể tích."
+        },
+        {
+          "q": "Biến chứng thận có thể xảy ra là gì?",
+          "options": [
+            "Chỉ đái tháo nhạt",
+            "Suy thận cấp, giữ muối nước, phù, tăng huyết áp",
+            "Chỉ viêm cầu thận",
+            "Tăng kali thấp",
+            "Không biến chứng"
+          ],
+          "answer": 1,
+          "explain": "Giảm GFR + giữ Na+/nước."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi dùng aspirin 81 mg/ngày dự phòng tim mạch",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Tiền sử:</b> Nhồi máu cơ tim.<br><br><b>Bệnh sử:</b> Được kê aspirin 81 mg/ngày.",
+      "questions": [
+        {
+          "q": "Tác dụng chính của aspirin liều thấp trong tình huống này là gì?",
+          "options": [
+            "Chống viêm mạnh",
+            "Ức chế không hồi phục COX-1 tiểu cầu → giảm TXA2",
+            "Hạ sốt",
+            "Giãn mạch",
+            "Giảm đau"
+          ],
+          "answer": 1,
+          "explain": "Chống kết tập tiểu cầu suốt đời tiểu cầu (7–10 ngày)."
+        },
+        {
+          "q": "Nếu bệnh nhân cần dùng thêm ibuprofen vì đau, cần lưu ý gì?",
+          "options": [
+            "Không vấn đề gì",
+            "Ibuprofen có thể cạnh tranh làm giảm tác dụng chống kết tập tiểu cầu của aspirin",
+            "Tăng liều aspirin",
+            "Ngừng aspirin",
+            "Chỉ dùng celecoxib"
+          ],
+          "answer": 1,
+          "explain": "Ibuprofen có thể ngăn aspirin gắn COX-1 tiểu cầu nếu dùng trước."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 48 tuổi đợt gout cấp ở khớp ngón chân cái",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 48 tuổi.<br><br><b>Bệnh sử:</b> Đau khớp ngón chân cái dữ dội, sưng đỏ, được chẩn đoán gout cấp.",
+      "questions": [
+        {
+          "q": "NSAID nào thường được chọn trong gout cấp?",
+          "options": [
+            "Paracetamol",
+            "Indomethacin hoặc Naproxen/Ibuprofen liều cao",
+            "Aspirin liều thấp",
+            "Celecoxib liều thấp",
+            "Meloxicam"
+          ],
+          "answer": 1,
+          "explain": "NSAID liều cao là lựa chọn hàng đầu trong gout cấp."
+        },
+        {
+          "q": "Tại sao aspirin liều thấp không phù hợp trong gout cấp?",
+          "options": [
+            "Quá mạnh",
+            "Có thể làm tăng acid uric máu ở liều thấp–trung bình",
+            "Gây Reye",
+            "Không giảm đau",
+            "Gây hạ uric"
+          ],
+          "answer": 1,
+          "explain": "Aspirin liều thấp có thể giữ acid uric."
+        }
+      ]
+    },
+    {
+      "title": "Trẻ sơ sinh non tháng chẩn đoán còn ống động mạch (PDA)",
+      "body": "<b>Hành chính:</b> Trẻ sơ sinh non tháng.<br><br><b>Bệnh sử:</b> Được chẩn đoán còn ống động mạch (PDA), bác sĩ quyết định dùng thuốc để đóng.",
+      "questions": [
+        {
+          "q": "Thuốc nào được dùng để đóng PDA?",
+          "options": [
+            "Alprostadil",
+            "Indomethacin hoặc Ibuprofen",
+            "Epinephrine",
+            "Dopamine",
+            "Furosemide"
+          ],
+          "answer": 1,
+          "explain": "Ức chế prostaglandin → đóng ống động mạch."
+        },
+        {
+          "q": "Ngược lại, thuốc nào dùng để giữ PDA mở?",
+          "options": [
+            "Indomethacin",
+            "Alprostadil (PGE1)",
+            "Ibuprofen",
+            "Aspirin",
+            "Paracetamol"
+          ],
+          "answer": 1,
+          "explain": "PGE1 giữ ống động mạch mở."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ 34 tuần tự ý dùng ibuprofen giảm đau lưng",
+      "body": "<b>Hành chính:</b> Sản phụ, 34 tuần.<br><br><b>Bệnh sử:</b> Đang đau lưng nhiều, tự ý mua ibuprofen uống.",
+      "questions": [
+        {
+          "q": "Tại sao NSAID bị chống chỉ định trong quý 3 thai kỳ?",
+          "options": [
+            "Gây dị tật ống thần kinh",
+            "Đóng sớm ống động mạch và giảm nước ối",
+            "Gây tăng huyết áp thai kỳ",
+            "Gây tiểu đường thai kỳ",
+            "Không ảnh hưởng"
+          ],
+          "answer": 1,
+          "explain": "Ức chế prostaglandin → đóng sớm PDA + oligohydramnios."
+        },
+        {
+          "q": "Thuốc giảm đau nào an toàn hơn trong quý 3?",
+          "options": [
+            "Diclofenac",
+            "Paracetamol (thận trọng, dùng ngắn)",
+            "Indomethacin",
+            "Celecoxib",
+            "Ketorolac"
+          ],
+          "answer": 1,
+          "explain": "Paracetamol được xem an toàn hơn nếu cần dùng ngắn ngày."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 40 tuổi hen suyễn bị khó thở tăng sau khi uống aspirin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 40 tuổi.<br><br><b>Tiền sử:</b> Hen suyễn.<br><br><b>Bệnh sử:</b> Sau khi uống aspirin bị khó thở tăng, thở khò khè.",
+      "questions": [
+        {
+          "q": "Hiện tượng này gọi là gì?",
+          "options": [
+            "Dị ứng type I thông thường",
+            "Aspirin-exacerbated respiratory disease (AERD)",
+            "Quá liều",
+            "Nhiễm trùng",
+            "Trào ngược"
+          ],
+          "answer": 1,
+          "explain": "Ức chế COX → tăng leukotriene → co thắt phế quản."
+        },
+        {
+          "q": "Cơ chế chính của AERD là gì?",
+          "options": [
+            "IgE trung gian",
+            "Chuyển hướng sang đường lipoxygenase → tăng leukotriene",
+            "Ức chế β2",
+            "Tăng histamine thuần túy",
+            "Co thắt cơ trơn trực tiếp"
+          ],
+          "answer": 1,
+          "explain": "Ức chế COX làm tăng sản xuất leukotriene."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi tăng huyết áp tự ý uống naproxen",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi.<br><br><b>Tiền sử:</b> Tăng huyết áp đang dùng ACEI và lợi tiểu.<br><br><b>Bệnh sử:</b> Tự mua naproxen uống vì đau khớp.",
+      "questions": [
+        {
+          "q": "NSAID có thể làm giảm hiệu quả thuốc hạ huyết áp bằng cách nào?",
+          "options": [
+            "Tăng thải natri",
+            "Giữ muối nước + ức chế prostaglandin giãn mạch thận",
+            "Tăng aldosterone trực tiếp",
+            "Giảm renin",
+            "Không ảnh hưởng"
+          ],
+          "answer": 1,
+          "explain": "Giữ Na+/nước và giảm prostaglandin → làm giảm hiệu quả ACEI/lợi tiểu."
+        },
+        {
+          "q": "Ngoài ra còn nguy cơ gì khi kết hợp NSAID + ACEI + lợi tiểu?",
+          "options": [
+            "Chỉ tăng HA",
+            "Suy thận cấp (triple whammy)",
+            "Hạ kali nặng",
+            "Tăng đường huyết",
+            "Không nguy hiểm"
+          ],
+          "answer": 1,
+          "explain": "Ba thuốc cùng làm giảm tưới máu thận → nguy cơ suy thận cấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi tiền sử nhồi máu cơ tim kê diclofenac kéo dài",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Tiền sử:</b> Nhồi máu cơ tim, đau lưng mạn.<br><br><b>Bệnh sử:</b> Được kê diclofenac dài hạn.",
+      "questions": [
+        {
+          "q": "Diclofenac có đặc điểm gì về nguy cơ tim mạch?",
+          "options": [
+            "Nguy cơ thấp nhất",
+            "Nguy cơ tim mạch khá cao trong các NSAID",
+            "Không có nguy cơ",
+            "Chỉ nguy hiểm với dạ dày",
+            "An toàn hơn naproxen"
+          ],
+          "answer": 1,
+          "explain": "Diclofenac có nguy cơ tim mạch cao hơn nhiều NSAID khác."
+        },
+        {
+          "q": "Nếu bắt buộc dùng NSAID ở bệnh nhân tim mạch, thuốc nào thường được cân nhắc hơn?",
+          "options": [
+            "Diclofenac",
+            "Naproxen (nguy cơ thấp hơn trong một số nghiên cứu)",
+            "Indomethacin",
+            "Ketorolac dài hạn",
+            "Celecoxib liều cao"
+          ],
+          "answer": 1,
+          "explain": "Naproxen thường được xem có nguy cơ tim mạch thấp hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 55 tuổi viêm khớp chọn thuốc dùng 1 lần/ngày",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 55 tuổi.<br><br><b>Bệnh sử:</b> Viêm khớp, muốn uống thuốc 1 lần/ngày cho tiện.",
+      "questions": [
+        {
+          "q": "NSAID nào phù hợp với nhu cầu uống 1 lần/ngày?",
+          "options": [
+            "Ibuprofen",
+            "Meloxicam",
+            "Ketorolac",
+            "Aspirin thông thường",
+            "Diclofenac thông thường"
+          ],
+          "answer": 1,
+          "explain": "Meloxicam có t½ dài, dùng 1 lần/ngày."
+        },
+        {
+          "q": "Meloxicam thuộc nhóm nào?",
+          "options": [
+            "Non-selective hoàn toàn",
+            "Ưu tiên COX-2",
+            "Chọn lọc COX-2 hoàn toàn",
+            "Không ức chế COX",
+            "Opioid"
+          ],
+          "answer": 1,
+          "explain": "Meloxicam ưu tiên COX-2."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 78 tuổi đau khớp gối có tiền sử loét dạ dày và suy thận nhẹ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 78 tuổi.<br><br><b>Tiền sử:</b> Loét dạ dày và suy thận nhẹ.<br><br><b>Bệnh sử:</b> Đau khớp gối nhẹ.",
+      "questions": [
+        {
+          "q": "Thuốc nào nên ưu tiên hơn?",
+          "options": [
+            "Diclofenac",
+            "Paracetamol",
+            "Indomethacin",
+            "Ketorolac",
+            "Aspirin liều cao"
+          ],
+          "answer": 1,
+          "explain": "Paracetamol ít ảnh hưởng dạ dày và thận hơn NSAID."
+        },
+        {
+          "q": "Nếu dùng NSAID ở người già, cần theo dõi đặc biệt gì?",
+          "options": [
+            "Chỉ công thức máu",
+            "Chức năng thận, huyết áp, dấu hiệu chảy máu tiêu hóa",
+            "Chỉ đường huyết",
+            "Chỉ lipid",
+            "Chỉ điện tim"
+          ],
+          "answer": 1,
+          "explain": "Nguy cơ thận, tăng HA và chảy máu cao ở người già."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi bị viêm cột sống dính khớp",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 35 tuổi.<br><br><b>Bệnh sử:</b> Viêm cột sống dính khớp, đau nhiều về đêm và cứng khớp buổi sáng.",
+      "questions": [
+        {
+          "q": "NSAID mạnh nào thường được dùng trong viêm cột sống dính khớp hoặc gout cấp?",
+          "options": [
+            "Paracetamol",
+            "Indomethacin",
+            "Celecoxib liều thấp",
+            "Meloxicam",
+            "Aspirin liều thấp"
+          ],
+          "answer": 1,
+          "explain": "Indomethacin rất mạnh, hay dùng trong các tình huống này."
+        },
+        {
+          "q": "Indomethacin có ADR đáng chú ý nào ngoài dạ dày?",
+          "options": [
+            "Chỉ táo bón",
+            "Đau đầu, chóng mặt, rối loạn tâm thần ở một số bệnh nhân",
+            "Chỉ hạ đường huyết",
+            "Gây nghiện",
+            "Không có ADR khác"
+          ],
+          "answer": 1,
+          "explain": "Có thể gây ADR thần kinh trung ương."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 68 tuổi tăng creatinin do hiện tượng triple whammy",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 68 tuổi.<br><br><b>Tiền sử:</b> Đang dùng enalapril + furosemide.<br><br><b>Bệnh sử:</b> Mới thêm ibuprofen vì đau khớp. Sau 1 tuần creatinin tăng từ 1,1 lên 2,4 mg/dL.",
+      "questions": [
+        {
+          "q": "Hiện tượng này thường được gọi là gì?",
+          "options": [
+            "Hội chứng thận hư",
+            "Triple whammy (ACEI + lợi tiểu + NSAID)",
+            "Viêm cầu thận cấp",
+            "Hoại tử ống thận cấp do thiếu máu đơn thuần",
+            "Viêm thận kẽ"
+          ],
+          "answer": 1,
+          "explain": "Ba thuốc cùng làm giảm tưới máu thận."
+        },
+        {
+          "q": "Cơ chế chính dẫn đến suy thận cấp là gì?",
+          "options": [
+            "Chỉ do mất nước",
+            "Giảm prostaglandin (NSAID) + giảm angiotensin II (ACEI) + giảm thể tích (lợi tiểu)",
+            "Tăng áp lực cầu thận",
+            "Nhiễm trùng",
+            "Tắc nghẽn"
+          ],
+          "answer": 1,
+          "explain": "Mất các cơ chế bù trừ duy trì GFR."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 59 tuổi có tiền sử stent mạch vành kê celecoxib",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 59 tuổi.<br><br><b>Tiền sử:</b> Stent mạch vành.<br><br><b>Bệnh sử:</b> Bị viêm khớp, được kê celecoxib.",
+      "questions": [
+        {
+          "q": "Tại sao cần thận trọng với celecoxib ở bệnh nhân này?",
+          "options": [
+            "Gây loét nhiều hơn",
+            "Tăng nguy cơ biến cố tim mạch (huyết khối)",
+            "Gây Reye",
+            "Độc gan cấp",
+            "Gây nghiện"
+          ],
+          "answer": 1,
+          "explain": "COX-2 chọn lọc làm giảm PGI2 chống huyết khối."
+        },
+        {
+          "q": "Nếu cần dùng NSAID, nguyên tắc chung ở bệnh nhân tim mạch là gì?",
+          "options": [
+            "Dùng liều cao dài hạn",
+            "Dùng liều thấp nhất, thời gian ngắn nhất có thể",
+            "Chỉ dùng diclofenac",
+            "Không bao giờ dùng",
+            "Kết hợp với aspirin liều cao"
+          ],
+          "answer": 1,
+          "explain": "Nguyên tắc: lowest effective dose, shortest duration."
+        }
+      ]
+    },
+    {
+      "title": "Tư vấn nguyên tắc lựa chọn giữa paracetamol và NSAID",
+      "body": "<b>Bệnh sử:</b> Bác sĩ đang tư vấn cho sinh viên về cách chọn thuốc hạ sốt – giảm đau – chống viêm.",
+      "questions": [
+        {
+          "q": "Khi nào nên ưu tiên paracetamol hơn NSAID?",
+          "options": [
+            "Cần chống viêm mạnh",
+            "Có nguy cơ loét dạ dày, suy thận, hoặc trẻ em sốt",
+            "Gout cấp",
+            "Viêm khớp dạng thấp đang hoạt động mạnh",
+            "Cần chống kết tập tiểu cầu"
+          ],
+          "answer": 1,
+          "explain": "Paracetamol an toàn hơn về dạ dày và thận trong nhiều tình huống."
+        },
+        {
+          "q": "Khi nào nên chọn NSAID hơn paracetamol?",
+          "options": [
+            "Chỉ cần hạ sốt",
+            "Cần tác dụng chống viêm rõ (viêm khớp, gout, chấn thương phần mềm có viêm)",
+            "Bệnh nhân loét dạ dày đang hoạt động",
+            "Suy thận nặng",
+            "Quý 3 thai kỳ"
+          ],
+          "answer": 1,
+          "explain": "NSAID có tác dụng chống viêm mà paracetamol gần như không có."
+        }
+      ]
+    }
+  ]
+}
