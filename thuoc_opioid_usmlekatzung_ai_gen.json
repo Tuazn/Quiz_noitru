@@ -1,0 +1,622 @@
+{
+  "name": "Thuốc Opioid USMLE/Katzung (AI gen)",
+  "description": "Bộ 20 case lâm sàng tình huống liên hoàn (Sequential Item Sets) về Dược lý Opioid biên soạn theo phong cách USMLE Step 2 CK / Step 3.",
+  "level": "USMLE Step 2 CK / Step 3",
+  "type": "cases",
+  "category": "Cơ sở",
+  "subcategory": "Dược lý",
+  "cases": [
+    {
+      "title": "Bệnh nhân nam 34 tuổi khó thở và lơ mơ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 34 tuổi.<br><br><b>Bệnh sử:</b> Được đưa vào khoa cấp cứu vì khó thở và lơ mơ. Người nhà cho biết bệnh nhân dùng “thuốc giảm đau mạnh” mua ngoài phố khoảng 1 giờ trước.<br><br><b>Khám lâm sàng:</b> Tỉnh lơ mơ, đáp ứng kém với kích thích đau, đồng tử 1 mm hai bên, RR 5 lần/phút, SpO2 82% (khí trời), huyết áp 95/60 mmHg, mạch 58 lần/phút.",
+      "questions": [
+        {
+          "q": "Cơ chế chính gây ức chế hô hấp ở bệnh nhân này là gì?",
+          "options": [
+            "Ức chế kênh natri tại neuron vận động",
+            "Kích hoạt thụ thể μ ở trung tâm hô hấp hành não làm giảm đáp ứng với CO₂ và hypoxia",
+            "Liệt cơ hoành do ức chế receptor nicotinic",
+            "Co thắt phế quản do giải phóng histamine",
+            "Ức chế trung tâm hô hấp vỏ não"
+          ],
+          "answer": 1,
+          "explain": "Mu-receptor ở medulla làm giảm đáp ứng thông khí với tăng CO₂ và giảm O₂."
+        },
+        {
+          "q": "Thuốc đảo ngược được lựa chọn đầu tiên là gì?",
+          "options": [
+            "Flumazenil",
+            "Naloxone",
+            "Naltrexone",
+            "Physostigmine",
+            "Atropine"
+          ],
+          "answer": 1,
+          "explain": "Naloxone là antagonist cạnh tranh chuẩn trong cấp cứu overdose opioid."
+        },
+        {
+          "q": "Sau khi tiêm thuốc đảo ngược, bệnh nhân tỉnh lại nhưng 30 phút sau lại lơ mơ và thở chậm. Nguyên nhân nào có khả năng nhất?",
+          "options": [
+            "Thuốc đảo ngược bị chuyển hóa quá nhanh",
+            "Thời gian tác dụng của thuốc đảo ngược ngắn hơn opioid đã dùng",
+            "Bệnh nhân bị tổn thương não không hồi phục",
+            "Dị ứng với thuốc đảo ngược",
+            "Hạ đường huyết"
+          ],
+          "answer": 1,
+          "explain": "Naloxone có t½ ngắn hơn hầu hết opioid → có thể tái xuất hiện ức chế hô hấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 58 tuổi ung thư vú di căn xương kèm suy thận mạn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 58 tuổi.<br><br><b>Tiền sử:</b> Ung thư vú di căn xương, suy thận mạn.<br><br><b>Bệnh sử:</b> Đang dùng morphine sulfate giải phóng kéo dài 60 mg mỗi 12 giờ, gần đây đau tăng. Bác sĩ cân nhắc chuyển sang hydromorphone.<br><br><b>Xét nghiệm:</b> Creatinin: 2,8 mg/dL.",
+      "questions": [
+        {
+          "q": "Tại sao morphine không phải là lựa chọn tối ưu ở bệnh nhân này?",
+          "options": [
+            "Morphine kém hiệu quả hơn hydromorphone",
+            "Morphine có chất chuyển hóa hoạt tính (M6G) tích lũy ở suy thận",
+            "Morphine gây QT prolongation",
+            "Morphine không hấp thu đường uống",
+            "Morphine gây co giật nhiều hơn"
+          ],
+          "answer": 1,
+          "explain": "M6G là metabolite hoạt tính của morphine, tích lũy gây an thần và độc tính ở suy thận."
+        },
+        {
+          "q": "Khi chuyển từ morphine sang hydromorphone, nguyên tắc quan trọng nhất là gì?",
+          "options": [
+            "Chuyển đổi liều 1:1",
+            "Tính equianalgesic rồi giảm 25–50% vì incomplete cross-tolerance",
+            "Tăng liều hydromorphone gấp đôi",
+            "Không cần điều chỉnh liều",
+            "Chỉ dùng hydromorphone đường tiêm"
+          ],
+          "answer": 1,
+          "explain": "Luôn giảm liều equianalgesic 25–50% khi chuyển opioid vì incomplete cross-tolerance."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 42 tuổi muốn chuyển từ methadon sang buprenorphin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 42 tuổi.<br><br><b>Tiền sử:</b> Đang điều trị duy trì nghiện heroin bằng methadone 80 mg/ngày.<br><br><b>Bệnh sử:</b> Muốn chuyển sang buprenorphine vì tiện lợi hơn. Bác sĩ hướng dẫn ngừng methadone và đợi đến khi có triệu chứng cai vừa phải mới bắt đầu buprenorphine.",
+      "questions": [
+        {
+          "q": "Tại sao phải đợi có triệu chứng cai mới khởi buprenorphine?",
+          "options": [
+            "Để tránh tương tác dược động học",
+            "Để tránh precipitated withdrawal do ái lực cao của buprenorphine",
+            "Vì buprenorphine hấp thu kém khi còn methadone trong máu",
+            "Để giảm nguy cơ QT prolongation",
+            "Vì buprenorphine là full agonist"
+          ],
+          "answer": 1,
+          "explain": "Buprenorphine ái lực cao sẽ đẩy methadone ra khỏi thụ thể → gây cai cấp nếu khởi quá sớm."
+        },
+        {
+          "q": "Điểm khác biệt quan trọng nhất về an toàn hô hấp giữa hai thuốc là gì?",
+          "options": [
+            "Methadone có ceiling effect, buprenorphine không",
+            "Buprenorphine có ceiling effect trên ức chế hô hấp, methadone không",
+            "Cả hai đều không gây ức chế hô hấp",
+            "Methadone an toàn hơn ở liều cao",
+            "Không có sự khác biệt"
+          ],
+          "answer": 1,
+          "explain": "Buprenorphine là partial agonist → có trần trên ức chế hô hấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 29 tuổi thở chậm sau khi dùng codeine sau mổ cắt amidan",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 29 tuổi.<br><br><b>Bệnh sử:</b> Sau phẫu thuật cắt amidan được kê codeine 30 mg mỗi 6 giờ. Sáng hôm sau người nhà phát hiện bệnh nhân thở rất chậm, khó đánh thức.<br><br><b>Xét nghiệm:</b> Xét nghiệm gen cho thấy bệnh nhân là CYP2D6 ultra-rapid metabolizer.",
+      "questions": [
+        {
+          "q": "Cơ chế gây tình trạng này là gì?",
+          "options": [
+            "Codeine ức chế trực tiếp trung tâm hô hấp mạnh hơn morphine",
+            "Codeine được chuyển thành morphine với lượng lớn hơn bình thường",
+            "Codeine tích lũy do suy thận",
+            "Tương tác với thuốc mê còn tồn dư",
+            "Dị ứng codeine"
+          ],
+          "answer": 1,
+          "explain": "CYP2D6 ultra-rapid chuyển codeine thành morphine nhiều hơn → nguy cơ ngộ độc."
+        },
+        {
+          "q": "Nhóm bệnh nhân nào cần đặc biệt thận trọng hoặc tránh dùng codeine?",
+          "options": [
+            "Người cao tuổi",
+            "Trẻ em sau phẫu thuật amidan/adenoid và phụ nữ cho con bú",
+            "Bệnh nhân suy gan nhẹ",
+            "Bệnh nhân tăng huyết áp",
+            "Bệnh nhân đái tháo đường"
+          ],
+          "answer": 1,
+          "explain": "FDA cảnh báo tránh codeine ở trẻ em sau amidan/adenoid và phụ nữ cho con bú nếu là ultra-rapid metabolizer."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 51 tuổi xuất hiện co giật khi điều trị meperidine",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 51 tuổi.<br><br><b>Bệnh sử:</b> Dùng meperidine 100 mg tiêm bắp mỗi 4 giờ trong 4 ngày vì đau sau mổ. Ngày thứ 5 xuất hiện run, kích thích, ảo giác và co giật cơn lớn.<br><br><b>Xét nghiệm:</b> Creatinin: 1,9 mg/dL.",
+      "questions": [
+        {
+          "q": "Chất chuyển hóa nào chịu trách nhiệm chính?",
+          "options": [
+            "Morphine-6-glucuronide",
+            "Normeperidine",
+            "Norfentanyl",
+            "Codeine",
+            "Hydromorphone"
+          ],
+          "answer": 1,
+          "explain": "Normeperidine tích lũy gây kích thích thần kinh và co giật."
+        },
+        {
+          "q": "Yếu tố nào làm tăng nguy cơ biến chứng này?",
+          "options": [
+            "Suy gan nhẹ",
+            "Suy thận và dùng kéo dài",
+            "Tuổi trẻ",
+            "Dùng kèm NSAID",
+            "Dùng đường uống"
+          ],
+          "answer": 1,
+          "explain": "Normeperidine thải trừ qua thận → tích lũy khi suy thận hoặc dùng dài ngày."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 62 tuổi chuẩn bị phẫu thuật cắt đại tràng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 62 tuổi.<br><br><b>Bệnh sử:</b> Sắp phẫu thuật cắt đại tràng. Bác sĩ gây mê chọn fentanyl làm opioid chính trong quá trình mổ.",
+      "questions": [
+        {
+          "q": "Lý do chính khiến fentanyl được ưa chuộng trong gây mê là gì?",
+          "options": [
+            "t½ rất dài",
+            "Khởi phát nhanh, thời gian ngắn, ít giải phóng histamine",
+            "Không gây ức chế hô hấp",
+            "Rẻ tiền nhất",
+            "Không cần theo dõi"
+          ],
+          "answer": 1,
+          "explain": "Fentanyl lipophilic cao → vào não nhanh, huyết động ổn định, ít histamine."
+        },
+        {
+          "q": "So với morphine, fentanyl mạnh hơn khoảng bao nhiêu lần (đường tĩnh mạch)?",
+          "options": [
+            "5–10 lần",
+            "20–30 lần",
+            "50–100 lần",
+            "200 lần",
+            "1000 lần"
+          ],
+          "answer": 2,
+          "explain": "Fentanyl khoảng 50–100 lần mạnh hơn morphine."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 67 tuổi dùng morphine bị táo bón nặng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 67 tuổi.<br><br><b>Tiền sử:</b> Ung thư phổi, dùng morphine giải phóng kéo dài 90 mg/ngày đã 6 tháng.<br><br><b>Bệnh sử:</b> Gần đây tăng liều vì đau tăng, nhưng táo bón vẫn rất nặng dù đã dùng thuốc nhuận tràng.",
+      "questions": [
+        {
+          "q": "Tác dụng nào của opioid gần như không bị tolerance?",
+          "options": [
+            "Giảm đau",
+            "Sảng khoái",
+            "Táo bón",
+            "An thần",
+            "Buồn nôn"
+          ],
+          "answer": 2,
+          "explain": "Táo bón và miosis gần như không dung nạp."
+        },
+        {
+          "q": "Thuốc nào có thể dùng để điều trị táo bón do opioid mà không gây cai trung ương?",
+          "options": [
+            "Naloxone uống",
+            "Methylnaltrexone hoặc naloxegol",
+            "Naltrexone",
+            "Buprenorphine",
+            "Loperamide"
+          ],
+          "answer": 1,
+          "explain": "Peripheral μ-antagonist (methylnaltrexone, naloxegol) chỉ tác dụng ngoại vi."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 48 tuổi xuất hiện triệu chứng cai cấp sau khi dùng pentazocine",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 48 tuổi.<br><br><b>Tiền sử:</b> Đang dùng oxycodone 40 mg mỗi 12 giờ vì đau mạn.<br><br><b>Bệnh sử:</b> Được kê thêm pentazocine vì đau tăng. Sau liều pentazocine đầu tiên, xuất hiện đổ mồ hôi, run, đau bụng và lo âu dữ dội.",
+      "questions": [
+        {
+          "q": "Hiện tượng này được gọi là gì?",
+          "options": [
+            "Tolerance",
+            "Precipitated withdrawal",
+            "Serotonin syndrome",
+            "Quá liều",
+            "Dị ứng"
+          ],
+          "answer": 1,
+          "explain": "Mixed agonist-antagonist đẩy full agonist ra khỏi thụ thể → gây cai cấp."
+        },
+        {
+          "q": "Nhóm thuốc nào nên tránh dùng ở bệnh nhân đang dùng full agonist mạn tính?",
+          "options": [
+            "NSAID",
+            "Mixed agonist-antagonist (pentazocine, nalbuphine, butorphanol)",
+            "Paracetamol",
+            "Gabapentin",
+            "Antidepressant"
+          ],
+          "answer": 1,
+          "explain": "Có thể gây precipitated withdrawal."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 55 tuổi xuất hiện hội chứng serotonin khi dùng tramadol phối hợp sertraline",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 55 tuổi.<br><br><b>Tiền sử:</b> Đang dùng sertraline (SSRI) vì trầm cảm.<br><br><b>Bệnh sử:</b> Được kê thêm tramadol 50 mg mỗi 8 giờ vì đau lưng. Sau 2 ngày xuất hiện run, tăng phản xạ, sốt nhẹ, tiêu chảy và kích thích.",
+      "questions": [
+        {
+          "q": "Hội chứng nào đang xảy ra?",
+          "options": [
+            "Hội chứng cai opioid",
+            "Hội chứng serotonin",
+            "Ngộ độc cholinergic",
+            "Hạ natri máu",
+            "Cơn nhược giáp"
+          ],
+          "answer": 1,
+          "explain": "Tramadol ức chế tái hấp thu serotonin + SSRI → nguy cơ serotonin syndrome."
+        },
+        {
+          "q": "Tramadol có cơ chế nào ngoài gắn thụ thể μ yếu?",
+          "options": [
+            "Ức chế COX",
+            "Ức chế tái hấp thu serotonin và norepinephrine",
+            "Antagonist NMDA thuần túy",
+            "Agonist GABA",
+            "Ức chế MAO"
+          ],
+          "answer": 1,
+          "explain": "Tramadol = weak μ-agonist + SNRI."
+        }
+      ]
+    },
+    {
+      "title": "Sinh viên y khoa muốn mua thuốc chống tiêu chảy OTC",
+      "body": "<b>Hành chính:</b> Nam, sinh viên y khoa.<br><br><b>Bệnh sử:</b> Bị tiêu chảy cấp trước ngày thi, muốn mua thuốc opioid OTC để cầm tiêu chảy nhanh mà không ảnh hưởng thần kinh trung ương.",
+      "questions": [
+        {
+          "q": "Thuốc nào phù hợp nhất?",
+          "options": [
+            "Codeine",
+            "Morphine",
+            "Loperamide",
+            "Diphenoxylate đơn thuần",
+            "Meperidine"
+          ],
+          "answer": 2,
+          "explain": "Loperamide là opioid ngoại vi, hầu như không qua BBB ở liều điều trị."
+        },
+        {
+          "q": "Tại sao loperamide ít gây tác dụng trung ương?",
+          "options": [
+            "Không gắn thụ thể μ",
+            "Bị P-glycoprotein đẩy ra khỏi não và chuyển hóa mạnh",
+            "Là antagonist",
+            "Chỉ gắn thụ thể Kappa",
+            "Không hấp thu đường uống"
+          ],
+          "answer": 1,
+          "explain": "Loperamide là substrate của P-gp → ít vào CNS."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 49 tuổi điều trị methadone kéo dài khoảng QTc",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 49 tuổi.<br><br><b>Bệnh sử:</b> Đang dùng methadone 120 mg/ngày để điều trị nghiện. Khám không có triệu chứng lâm sàng.<br><br><b>Xét nghiệm:</b> ECG định kỳ phát hiện QTc: 520 ms.",
+      "questions": [
+        {
+          "q": "Nguy cơ chính của tình trạng này là gì?",
+          "options": [
+            "Nhồi máu cơ tim",
+            "Xoắn đỉnh (Torsades de Pointes)",
+            "Block nhĩ thất",
+            "Rung nhĩ",
+            "Viêm màng ngoài tim"
+          ],
+          "answer": 1,
+          "explain": "Methadone kéo dài QT → nguy cơ Torsades de Pointes."
+        },
+        {
+          "q": "Thuốc thay thế nào ít gây kéo dài QT hơn?",
+          "options": [
+            "Tiếp tục methadone liều cao hơn",
+            "Buprenorphine",
+            "Meperidine",
+            "Codeine",
+            "Không có thuốc thay thế"
+          ],
+          "answer": 1,
+          "explain": "Buprenorphine ít ảnh hưởng QT hơn methadone."
+        }
+      ]
+    },
+    {
+      "title": "Quy đổi liều khi chuyển từ morphine tiêm tĩnh mạch sang oxycodone uống",
+      "body": "<b>Bệnh sử:</b> Đang dùng morphine IV 10 mg mỗi 4 giờ (tổng 60 mg/ngày), bác sĩ muốn chuyển sang oxycodone uống.",
+      "questions": [
+        {
+          "q": "10 mg morphine IV tương đương khoảng bao nhiêu mg morphine uống?",
+          "options": [
+            "10 mg",
+            "20 mg",
+            "30 mg",
+            "60 mg",
+            "100 mg"
+          ],
+          "answer": 2,
+          "explain": "Tỉ lệ PO:IV của morphine khoảng 3:1."
+        },
+        {
+          "q": "Khi chuyển sang oxycodone uống, liều khởi đầu hợp lý nhất (sau khi giảm vì incomplete cross-tolerance) là khoảng?",
+          "options": [
+            "5–10 mg mỗi 4–6 giờ",
+            "20–30 mg mỗi 4–6 giờ",
+            "60 mg mỗi 12 giờ",
+            "100 mg/ngày",
+            "Giữ nguyên 60 mg/ngày"
+          ],
+          "answer": 0,
+          "explain": "Tính equianalgesic rồi giảm 25–50%."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 38 tuổi uống quá liều buprenorphine",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 38 tuổi.<br><br><b>Tiền sử:</b> Đang dùng buprenorphine 16 mg/ngày dưới lưỡi để điều trị OUD.<br><br><b>Bệnh sử:</b> Vô tình uống thêm 8 mg (tổng 24 mg). Người nhà lo lắng về nguy cơ ngừng thở.",
+      "questions": [
+        {
+          "q": "Nguy cơ ức chế hô hấp nghiêm trọng có cao không? Tại sao?",
+          "options": [
+            "Rất cao vì liều cao",
+            "Thấp hơn full agonist vì buprenorphine có ceiling effect",
+            "Cao như fentanyl",
+            "Không có nguy cơ gì",
+            "Chỉ nguy hiểm nếu tiêm"
+          ],
+          "answer": 1,
+          "explain": "Partial agonist → có trần trên ức chế hô hấp."
+        },
+        {
+          "q": "Nếu cần đảo ngược tác dụng của buprenorphine, điều gì đúng?",
+          "options": [
+            "Naloxone liều thường đủ",
+            "Cần naloxone liều cao hơn và truyền kéo dài",
+            "Không thể đảo ngược",
+            "Chỉ cần flumazenil",
+            "Dùng naltrexone là đủ"
+          ],
+          "answer": 1,
+          "explain": "Ái lực cao + dissociation chậm → cần naloxone liều cao, kéo dài."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 31 tuổi xuất hiện biểu hiện hội chứng cai heroin",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 31 tuổi.<br><br><b>Tiền sử:</b> Nghiện heroin tiêm chích, lần dùng cuối cách đây 18 giờ.<br><br><b>Bệnh sử:</b> Hiện bồn chồn, đổ mồ hôi, chảy nước mũi, đau cơ, tiêu chảy.<br><br><b>Khám lâm sàng:</b> Đồng tử giãn, mạch 110 lần/phút.",
+      "questions": [
+        {
+          "q": "Đây là hội chứng gì?",
+          "options": [
+            "Ngộ độc opioid",
+            "Hội chứng cai opioid",
+            "Hội chứng serotonin",
+            "Cơn cường giáp",
+            "Nhiễm trùng huyết"
+          ],
+          "answer": 1,
+          "explain": "Triệu chứng điển hình của cai opioid (mydriasis, tiêu chảy, chảy nước mũi…)."
+        },
+        {
+          "q": "So với cai rượu/benzodiazepine, cai opioid có đặc điểm gì?",
+          "options": [
+            "Thường gây co giật đe dọa tính mạng",
+            "Rất khó chịu nhưng hiếm khi gây tử vong",
+            "Không có triệu chứng thực thể",
+            "Đồng tử luôn co",
+            "Không có thay đổi mạch"
+          ],
+          "answer": 1,
+          "explain": "Cai opioid khó chịu nhưng ít đe dọa tính mạng hơn cai rượu/benzo."
+        }
+      ]
+    },
+    {
+      "title": "Thanh niên 22 tuổi xuất hiện ảo giác sau uống lượng lớn siro ho chứa dextromethorphan",
+      "body": "<b>Hành chính:</b> Nam, 22 tuổi.<br><br><b>Bệnh sử:</b> Uống một lượng lớn siro ho chứa dextromethorphan để “phê”. Xuất hiện ảo giác, kích động, tăng huyết áp và rung giật cơ.",
+      "questions": [
+        {
+          "q": "Cơ chế gây triệu chứng này ở liều cao là gì?",
+          "options": [
+            "Agonist μ mạnh",
+            "Ức chế thụ thể NMDA (giống ketamine/PCP)",
+            "Ức chế MAO",
+            "Agonist GABA",
+            "Chỉ do ethanol trong siro"
+          ],
+          "answer": 1,
+          "explain": "Dextromethorphan liều cao ức chế NMDA → hiệu ứng dissociative."
+        },
+        {
+          "q": "Dextromethorphan ở liều điều trị chủ yếu dùng để?",
+          "options": [
+            "Giảm đau mạnh",
+            "Chống ho",
+            "Chống tiêu chảy",
+            "Cai nghiện",
+            "Gây mê"
+          ],
+          "answer": 1,
+          "explain": "Là antitussive."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 45 tuổi đỏ mặt và ngứa sau tiêm morphine tĩnh mạch",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 45 tuổi.<br><br><b>Bệnh sử:</b> Được tiêm morphine IV sau mổ. Ngay sau tiêm xuất hiện đỏ mặt, ngứa toàn thân, huyết áp tụt nhẹ.",
+      "questions": [
+        {
+          "q": "Cơ chế chính của hiện tượng này là gì?",
+          "options": [
+            "Dị ứng IgE",
+            "Giải phóng histamine không miễn dịch",
+            "Ức chế trung tâm vận mạch",
+            "Kích hoạt thụ thể Kappa",
+            "Quá liều"
+          ],
+          "answer": 1,
+          "explain": "Morphine gây giải phóng histamine từ mast cell → đỏ da, ngứa, hạ HA."
+        },
+        {
+          "q": "Opioid nào ít gây giải phóng histamine hơn?",
+          "options": [
+            "Codeine",
+            "Meperidine",
+            "Fentanyl",
+            "Morphine",
+            "Tất cả như nhau"
+          ],
+          "answer": 2,
+          "explain": "Fentanyl gần như không giải phóng histamine."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 40 tuổi dùng naltrexone đường uống duy trì cai nghiện",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi.<br><br><b>Tiền sử:</b> Đã cai heroin hoàn toàn 10 ngày.<br><br><b>Bệnh sử:</b> Muốn dùng thuốc để duy trì không tái nghiện. Bác sĩ chọn naltrexone uống.",
+      "questions": [
+        {
+          "q": "Naltrexone khác naloxone ở điểm nào quan trọng?",
+          "options": [
+            "Naltrexone là partial agonist",
+            "Naltrexone uống được, t½ dài hơn, dùng duy trì",
+            "Naltrexone không gắn thụ thể μ",
+            "Naltrexone gây ức chế hô hấp",
+            "Không có khác biệt"
+          ],
+          "answer": 1,
+          "explain": "Naltrexone uống, tác dụng dài; naloxone chủ yếu tiêm cấp cứu."
+        },
+        {
+          "q": "Nếu bệnh nhân này bị tai nạn và cần giảm đau opioid cấp, điều gì sẽ xảy ra?",
+          "options": [
+            "Opioid vẫn hiệu quả bình thường",
+            "Hiệu quả giảm đau bị đối kháng mạnh",
+            "Chỉ tăng táo bón",
+            "Gây co giật",
+            "Không ảnh hưởng"
+          ],
+          "answer": 1,
+          "explain": "Naltrexone chặn thụ thể → opioid agonist kém hiệu quả."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi tăng cảm giác đau khi dùng miếng dán fentanyl kéo dài",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Tiền sử:</b> Dùng fentanyl patch 100 mcg/giờ đã 8 tháng vì đau ung thư.<br><br><b>Bệnh sử:</b> Gần đây đau tăng dù tăng liều patch, xuất hiện đau lan tỏa, tăng cảm giác đau với kích thích nhẹ.",
+      "questions": [
+        {
+          "q": "Hiện tượng này có thể là gì?",
+          "options": [
+            "Chỉ do tiến triển ung thư",
+            "Opioid-induced hyperalgesia (OIH)",
+            "Chỉ do tolerance đơn thuần",
+            "Nhiễm trùng",
+            "Hạ natri máu"
+          ],
+          "answer": 1,
+          "explain": "OIH: tăng đau nghịch lý do dùng opioid lâu ngày."
+        },
+        {
+          "q": "Cơ chế nghi ngờ liên quan đến?",
+          "options": [
+            "Chỉ thụ thể μ",
+            "NMDA receptor và hệ thống chống đau trung ương",
+            "Chỉ thụ thể Kappa",
+            "Tăng endorphin",
+            "Ức chế COX"
+          ],
+          "answer": 1,
+          "explain": "OIH liên quan kích hoạt NMDA và thay đổi tín hiệu đau."
+        }
+      ]
+    },
+    {
+      "title": "Thai phụ 28 tuổi nghiện heroin cần điều trị thay thế",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 28 tuổi, mang thai 18 tuần.<br><br><b>Tiền sử:</b> Nghiện heroin.<br><br><b>Bệnh sử:</b> Muốn điều trị để bảo vệ thai nhi.",
+      "questions": [
+        {
+          "q": "Lựa chọn điều trị được chấp nhận trong thai kỳ là gì?",
+          "options": [
+            "Cai đột ngột ngay",
+            "Methadone hoặc buprenorphine",
+            "Chỉ naltrexone",
+            "Codeine liều cao",
+            "Meperidine"
+          ],
+          "answer": 1,
+          "explain": "Cả methadone và buprenorphine đều được dùng trong thai kỳ."
+        },
+        {
+          "q": "So với methadone, buprenorphine có thể có lợi điểm gì về trẻ sơ sinh?",
+          "options": [
+            "Tăng nguy cơ dị tật",
+            "Có thể giảm mức độ hội chứng cai sơ sinh (NAS)",
+            "Tăng nguy cơ sinh non",
+            "Không khác biệt",
+            "Gây chậm phát triển nhiều hơn"
+          ],
+          "answer": 1,
+          "explain": "Một số nghiên cứu cho thấy buprenorphine liên quan NAS nhẹ hơn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 60 tuổi đau nhiều dù tăng liều PCA morphine sau mổ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 60 tuổi.<br><br><b>Bệnh sử:</b> Sau mổ lớn được dùng PCA morphine. Ngày thứ 3 sau mổ, dù tăng liều PCA, bệnh nhân vẫn đau nhiều và yêu cầu tăng thêm.",
+      "questions": [
+        {
+          "q": "Nguyên nhân có thể bao gồm?",
+          "options": [
+            "Chỉ do lo âu",
+            "Tolerance hoặc opioid-induced hyperalgesia",
+            "Chỉ do hấp thu kém",
+            "Không bao giờ xảy ra với PCA",
+            "Chỉ do tương tác thuốc"
+          ],
+          "answer": 1,
+          "explain": "Tolerance hoặc OIH có thể làm giảm hiệu quả dù tăng liều."
+        },
+        {
+          "q": "Hướng xử trí hợp lý tiếp theo có thể là?",
+          "options": [
+            "Ngừng hoàn toàn opioid",
+            "Đánh giá lại đau, xem xét chuyển opioid hoặc thêm thuốc hỗ trợ (multimodal)",
+            "Tăng liều gấp 3 lần ngay",
+            "Chỉ dùng placebo",
+            "Chuyển sang meperidine"
+          ],
+          "answer": 1,
+          "explain": "Cần đánh giá toàn diện và cân nhắc multimodal analgesia hoặc xoay vòng opioid."
+        }
+      ]
+    }
+  ]
+}
