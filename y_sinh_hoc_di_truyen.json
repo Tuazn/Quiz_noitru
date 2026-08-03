@@ -21,7 +21,7 @@
       "q": "Chuyển đoạn hòa hợp tâm (Robertsonian) giữa NST 13 và NST 15 tạo ra:",
       "options": [
         "1 NST tâm đầu bất thường",
-        "1 NST tâm giữa/gần giữa do 2 cánh dài (q) nối với nhau",
+        "1 NST tâm giữa/gần giữa bất thường",
         "2 NST bất thường độc lập",
         "1 NST vòng"
       ],
@@ -33,7 +33,7 @@
       "options": [
         "Gồm NST 21, 22 và NST X",
         "NST 22 là NST tâm đầu",
-        "Tất cả các NST nhóm G đều có vệ tinh (satellite)",
+        "Tất cả các NST nhóm G đều có vệ tinh",
         "NST Y không có vệ tinh dù cùng nhóm G với 21, 22"
       ],
       "answer": 3,
@@ -98,7 +98,7 @@
       "q": "Đảo đoạn quanh tâm động NST 9 — inv(9) — có ý nghĩa lâm sàng là:",
       "options": [
         "Gây vô sinh nam",
-        "Là đa dạng hình (polymorphism) lành tính, phổ biến trong quần thể, không cần can thiệp",
+        "Là đa dạng hình lành tính, phổ biến trong quần thể, không cần can thiệp",
         "Luôn liên quan đến hội chứng Down",
         "Là nguyên nhân hàng đầu gây sảy thai liên tiếp"
       ],
@@ -119,7 +119,7 @@
     {
       "q": "Cơ chế hình thành thể khảm (mosaicism) khác với thể lệch bội thuần (non-mosaic) ở điểm nào?",
       "options": [
-        "Thể khảm do lỗi phân bào xảy ra SAU khi thụ tinh (trong nguyên phân của phôi); thể thuần do lỗi xảy ra TRONG quá trình tạo giao tử",
+        "Thể khảm do lỗi phân bào xảy ra sau khi thụ tinh",
         "Thể khảm chỉ gặp ở nữ giới",
         "Thể khảm luôn nặng hơn thể thuần",
         "Thể khảm không thể chẩn đoán bằng karyotype"
@@ -143,7 +143,7 @@
       "options": [
         "Karyotype nhuộm băng G",
         "CMA (Chromosomal Microarray) hoặc FISH",
-        "Công thức máu",
+        "Soi kính hiển vi",
         "Siêu âm thai"
       ],
       "answer": 1,
@@ -153,8 +153,8 @@
       "q": "Vị trí nào trên NST là nơi gắn của thoi vô sắc (kinetochore) trong quá trình phân bào?",
       "options": [
         "Telomere",
-        "Tâm động (centromere)",
-        "Vệ tinh (satellite)",
+        "Tâm động",
+        "Vệ tinh",
         "Vùng NOR"
       ],
       "answer": 1,
@@ -163,10 +163,10 @@
     {
       "q": "Chuyển đoạn cân bằng (balanced translocation) khác chuyển đoạn không cân bằng (unbalanced translocation) ở điểm mấu chốt nào?",
       "options": [
-        "Chuyển đoạn cân bằng không thừa/thiếu vật chất di truyền nên người mang thường có kiểu hình bình thường; chuyển đoạn không cân bằng thừa/thiếu vật chất di truyền nên thường gây bệnh",
-        "Chuyển đoạn cân bằng luôn gây vô sinh",
+        "Chuyển đoạn cân bằng người mang thường có kiểu hình bình thường",
+        "Chuyển đoạn cân bằng người mang luôn vô sinh",
         "Chuyển đoạn không cân bằng không di truyền được",
-        "Không có sự khác biệt về mặt lâm sàng"
+        "Chuyển đoạn không cân bằng thường không thừa/thiếu vật chất di truyền"
       ],
       "answer": 0,
       "explain": "Cân bằng: không thừa/thiếu vật chất di truyền → kiểu hình thường bình thường; không cân bằng: thừa/thiếu → thường gây bệnh"
@@ -208,7 +208,7 @@
       "q": "Xét nghiệm nào là tiêu chuẩn vàng để chẩn đoán xác định bất thường số lượng/cấu trúc NST?",
       "options": [
         "NIPT",
-        "Karyotype (lập bộ NST đồ)",
+        "Karyotype (NST đồ)",
         "Siêu âm hình thái học",
         "Double test"
       ],
@@ -218,8 +218,8 @@
     {
       "q": "Kỹ thuật nhuộm băng G (G-banding) trong phân tích NST được thực hiện vào thời điểm nào của chu kỳ tế bào?",
       "options": [
-        "Kỳ trung gian (Interphase)",
-        "Kỳ giữa của phân bào (Metaphase) — khi NST co xoắn cực đại",
+        "Kỳ trung gian",
+        "Kỳ giữa của phân bào",
         "Pha S",
         "Pha G1"
       ],
@@ -230,7 +230,7 @@
       "q": "Đặc điểm KHÔNG phù hợp với hội chứng Edwards (Trisomy 18):",
       "options": [
         "Bàn tay nắm chặt, ngón trỏ chồng lên ngón giữa",
-        "Tật toàn não thất (holoprosencephaly)",
+        "Tật toàn não thất",
         "Bàn chân dạng \"đế giày trượt tuyết\"",
         "Đa số tử vong trong năm đầu đời"
       ],
@@ -251,7 +251,7 @@
     {
       "q": "Đặc điểm KHÔNG phù hợp với hội chứng Turner:",
       "options": [
-        "Cổ ngắn có màng da (webbed neck)",
+        "Cổ ngắn có màng da",
         "Vô kinh nguyên phát do loạn sản tuyến sinh dục",
         "Trí tuệ thường chậm phát triển rõ rệt",
         "Vóc dáng thấp bé, hẹp eo động mạch chủ"
@@ -263,7 +263,7 @@
       "q": "Dị tật tiêu hóa nào có liên quan đặc trưng và gợi ý hội chứng Down khi phát hiện trên siêu âm trước sinh?",
       "options": [
         "Teo thực quản",
-        "Hẹp/teo tá tràng (dấu hiệu bóng đôi - double bubble)",
+        "Hẹp/teo tá tràng",
         "Thoát vị rốn",
         "Bệnh Hirschsprung"
       ],
@@ -285,9 +285,9 @@
       "q": "Quá trình nào sau đây là ví dụ của chết tế bào theo chương trình (apoptosis), NGOẠI TRỪ:",
       "options": [
         "Tế bào biểu mô ruột bong tróc và thay mới liên tục",
-        "Lành vết thương (wound healing)",
+        "Lành vết thương",
         "Sự thoái hóa hồng cầu già ở lách",
-        "Sự chọn lọc âm tính tế bào lympho tự phản ứng ở tuyến ức"
+        "Sự thoái hóa của các tế bào bạch cầu"
       ],
       "answer": 1,
       "explain": "Lành vết thương chủ yếu liên quan tăng sinh, viêm, tái tạo mô — không phải cơ chế apoptosis điển hình"
@@ -317,10 +317,10 @@
     {
       "q": "Trong giảm phân I, sự kiện đặc trưng khác biệt so với nguyên phân là:",
       "options": [
-        "NST tương đồng bắt cặp (tiếp hợp) và có thể trao đổi chéo",
-        "Nhiễm sắc tử chị em tách nhau",
+        "NST tương đồng bắt cặp và có thể trao đổi chéo",
+        "Nhiễm sắc tử chị em tách xa nhau",
         "Không có thoi vô sắc",
-        "Không có màng nhân tiêu biến"
+        "Màng nhân không tiêu biến"
       ],
       "answer": 0,
       "explain": "Tiếp hợp NST tương đồng + trao đổi chéo chỉ có ở giảm phân I, không có ở nguyên phân"
@@ -350,10 +350,10 @@
     {
       "q": "Bơm Na⁺-K⁺-ATPase trong mỗi chu kỳ hoạt động sẽ:",
       "options": [
-        "Bơm 3 Na⁺ vào trong, 2 K⁺ ra ngoài",
+        "Bơm 3 Na⁺ vào trong, 2 K⁺ ra ngoài, không tiêu tốn ATP",
         "Bơm 3 Na⁺ ra ngoài, 2 K⁺ vào trong, tiêu tốn 1 ATP",
-        "Bơm 2 Na⁺ ra ngoài, 3 K⁺ vào trong",
-        "Không tiêu tốn năng lượng"
+        "Bơm 2 Na⁺ ra ngoài, 3 K⁺ vào trong, tiêu tốn 1 ATP",
+        "Bơm 2 Na⁺ ra ngoài, 3 K⁺ vào trong, không tiêu tốn ATP"
       ],
       "answer": 1,
       "explain": "Bơm Na-K-ATPase: 3 Na⁺ ra ngoài, 2 K⁺ vào trong, tốn 1 ATP/chu kỳ"
@@ -373,7 +373,7 @@
       "q": "Đột biến mất 1 nucleotide trong vùng mã hóa của gen sẽ gây hậu quả nghiêm trọng nhất do:",
       "options": [
         "Không ảnh hưởng đến protein vì mã di truyền có tính thoái hóa",
-        "Làm dịch chuyển toàn bộ khung đọc từ vị trí đột biến trở về sau (frameshift)",
+        "Làm dịch chuyển toàn bộ khung đọc từ vị trí đột biến trở về sau",
         "Chỉ thay đổi 1 amino acid duy nhất",
         "Chỉ ảnh hưởng đến vùng UTR"
       ],
@@ -405,7 +405,7 @@
     {
       "q": "Cơ chế nào giải thích tại sao bộ gen người chỉ có ~20.000 gen nhưng tạo ra được số lượng protein lớn hơn nhiều?",
       "options": [
-        "Cắt nối luân phiên (alternative splicing)",
+        "Cắt nối luân phiên",
         "Tái bản bán bảo toàn",
         "Đột biến câm",
         "Hoạt động của telomerase"
@@ -427,21 +427,21 @@
     {
       "q": "Giai đoạn nào của thai kỳ nhạy cảm nhất với tác nhân gây quái thai (teratogen), dễ gây dị tật cấu trúc lớn?",
       "options": [
-        "Tuần 1-2 (trước làm tổ)",
-        "Tuần 3-8 (giai đoạn phôi, tạo cơ quan)",
+        "Tuần 1-2",
+        "Tuần 3-8",
         "Ba tháng giữa thai kỳ",
         "Ba tháng cuối thai kỳ"
       ],
       "answer": 1,
-      "explain": "Tuần 3-8 là giai đoạn tạo cơ quan (organogenesis), nhạy cảm nhất với teratogen"
+      "explain": "Tuần 3-8 là giai đoạn tạo cơ quan (organogenesis), nhạy cảm nhất với teratogen, tuần 1-2 (trước làm tổ)"
     },
     {
       "q": "Xét nghiệm NIPT (Non-Invasive Prenatal Testing) có đặc điểm:",
       "options": [
         "Là xét nghiệm chẩn đoán xác định, thay thế hoàn toàn chọc ối",
-        "Là xét nghiệm sàng lọc dựa trên ADN thai tự do trong máu mẹ, độ chính xác cao nhưng dương tính vẫn cần xác định lại bằng chẩn đoán xâm lấn",
+        "Là xét nghiệm sàng lọc dựa trên ADN thai tự do trong máu mẹ",
         "Chỉ thực hiện được sau tuần 20 của thai kỳ",
-        "Không phát hiện được bất thường NST giới tính"
+        "Độ chính xác cao nên không cần xác định lại bằng chẩn đoán xâm lấn"
       ],
       "answer": 1,
       "explain": "NIPT là sàng lọc, không thay thế chẩn đoán xâm lấn khi cần quyết định lâm sàng"
