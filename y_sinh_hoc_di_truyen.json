@@ -1,0 +1,472 @@
+{
+  "name": "Y sinh học di truyền",
+  "description": "Bộ câu hỏi trắc nghiệm Y sinh học Di truyền tập trung vào Di truyền tế bào & Nhiễm sắc thể, Bất thường bẩm sinh, Vận chuyển màng tế bào, Chu kỳ tế bào, Di truyền phân tử.",
+  "level": "Ôn thi Bác sĩ Nội trú",
+  "type": "mcq",
+  "category": "Cơ sở",
+  "subcategory": "Sinh học di truyền",
+  "questions": [
+    {
+      "q": "Cặp vợ chồng có tiền sử thai lưu 3 lần liên tiếp, không rõ nguyên nhân. Xét nghiệm nào nên chỉ định đầu tiên?",
+      "options": [
+        "NST đồ (karyotype) của cả 2 vợ chồng",
+        "Giải trình tự gen của cả 2 vợ chồng",
+        "NST đồ của vợ và tinh dịch đồ của chồng",
+        "Sinh thiết nội mạc tử cung của vợ"
+      ],
+      "answer": 0,
+      "explain": "Sảy thai/thai lưu liên tiếp → cần loại trừ chuyển đoạn cân bằng ở CẢ HAI vợ chồng bằng karyotype"
+    },
+    {
+      "q": "Chuyển đoạn hòa hợp tâm (Robertsonian) giữa NST 13 và NST 15 tạo ra:",
+      "options": [
+        "1 NST tâm đầu bất thường",
+        "1 NST tâm giữa/gần giữa do 2 cánh dài (q) nối với nhau",
+        "2 NST bất thường độc lập",
+        "1 NST vòng"
+      ],
+      "answer": 1,
+      "explain": "2 NST tâm đầu nối cánh dài (q) với nhau tạo 1 NST có 2 nhánh dài — hình thái gần giống tâm giữa/gần giữa"
+    },
+    {
+      "q": "Phát biểu nào sau đây đúng về các NST nhóm G?",
+      "options": [
+        "Gồm NST 21, 22 và NST X",
+        "NST 22 là NST tâm đầu",
+        "Tất cả các NST nhóm G đều có vệ tinh (satellite)",
+        "NST Y không có vệ tinh dù cùng nhóm G với 21, 22"
+      ],
+      "answer": 3,
+      "explain": "Nhóm G gồm 21, 22, Y; NST 21 và 22 tâm đầu có vệ tinh, NST Y tâm đầu nhưng KHÔNG có vệ tinh"
+    },
+    {
+      "q": "Một bé gái có kiểu hình Turner, làm karyotype cho thấy nhánh dài NST X bị mất đoạn. Công thức NST phù hợp nhất là:",
+      "options": [
+        "46,XX,del(Xq)",
+        "46,XX,i(Xq)",
+        "45,X",
+        "46,XX,r(X)"
+      ],
+      "answer": 0,
+      "explain": "Mất đoạn nhánh dài X ghi là del(Xq) hoặc Xq-; không phải isochromosome (i), không phải 45,X (mất toàn bộ), không phải NST vòng"
+    },
+    {
+      "q": "Chuyển đoạn tương hỗ (reciprocal translocation) cân bằng giữa NST 10 và NST 19 ở một nam giới có kiểu hình bình thường được ghi là:",
+      "options": [
+        "46,XY,t(10;19)(q10;q13)",
+        "45,XY,t(10;19)(q10;q13)",
+        "46,XX,r(10;19)(q10;q13)",
+        "47,XY,t(10;19)(q10;q13)"
+      ],
+      "answer": 0,
+      "explain": "Chuyển đoạn tương hỗ cân bằng vẫn giữ đủ 46 NST, ghi t(NST1;NST2)(điểm gãy1;điểm gãy2)"
+    },
+    {
+      "q": "NST nào sau đây thuộc nhóm D (theo phân loại Denver)?",
+      "options": [
+        "13, 14, 15",
+        "16, 17, 18",
+        "6-12 và X",
+        "19, 20"
+      ],
+      "answer": 0,
+      "explain": "Nhóm D gồm NST 13, 14, 15 — tâm đầu, kích thước trung bình-nhỏ"
+    },
+    {
+      "q": "Cơ chế chính hình thành hội chứng Down thể chuyển đoạn (không liên quan tuổi mẹ) là:",
+      "options": [
+        "Không phân ly NST 21 trong giảm phân I ở mẹ",
+        "Chuyển đoạn Robertson giữa NST 21 với một NST tâm đầu khác (thường 14) di truyền từ bố hoặc mẹ mang chuyển đoạn cân bằng",
+        "Đột biến điểm trên gen APP",
+        "Mất đoạn nhánh dài NST 21"
+      ],
+      "answer": 1,
+      "explain": "Down thể chuyển đoạn không liên quan tuổi mẹ, mà do bố/mẹ mang chuyển đoạn Robertson cân bằng truyền cho con"
+    },
+    {
+      "q": "Một phụ nữ mang chuyển đoạn cân bằng Robertson 14;21 [45,XX,der(14;21)(q10;q10)] có kiểu hình bình thường. Nguy cơ chính khi mang thai là:",
+      "options": [
+        "Không có nguy cơ gì đặc biệt vì bản thân bình thường",
+        "Nguy cơ cao sinh con mắc hội chứng Down thể chuyển đoạn hoặc sảy thai do giao tử không cân bằng",
+        "Nguy cơ ung thư máu ở mẹ",
+        "Chỉ ảnh hưởng đến khả năng thụ thai, không ảnh hưởng thai nhi"
+      ],
+      "answer": 1,
+      "explain": "Người mang chuyển đoạn cân bằng có kiểu hình bình thường nhưng tạo giao tử không cân bằng → nguy cơ cao sảy thai/con dị tật"
+    },
+    {
+      "q": "Đảo đoạn quanh tâm động NST 9 — inv(9) — có ý nghĩa lâm sàng là:",
+      "options": [
+        "Gây vô sinh nam",
+        "Là đa dạng hình (polymorphism) lành tính, phổ biến trong quần thể, không cần can thiệp",
+        "Luôn liên quan đến hội chứng Down",
+        "Là nguyên nhân hàng đầu gây sảy thai liên tiếp"
+      ],
+      "answer": 1,
+      "explain": "inv(9) là đa dạng hình lành tính rất phổ biến (~1-3% dân số), không có ý nghĩa bệnh lý"
+    },
+    {
+      "q": "Đặc điểm để phân biệt thể khảm (mosaicism) trên công thức NST là:",
+      "options": [
+        "Có dấu ngoặc đơn \"( )\"",
+        "Có dấu gạch chéo \"/\" phân cách 2 dòng tế bào",
+        "Có ký hiệu \"der\"",
+        "Có ký hiệu \"i\""
+      ],
+      "answer": 1,
+      "explain": "Dấu \"/\" trong công thức NST luôn chỉ thể khảm (2 dòng tế bào trở lên)"
+    },
+    {
+      "q": "Cơ chế hình thành thể khảm (mosaicism) khác với thể lệch bội thuần (non-mosaic) ở điểm nào?",
+      "options": [
+        "Thể khảm do lỗi phân bào xảy ra SAU khi thụ tinh (trong nguyên phân của phôi); thể thuần do lỗi xảy ra TRONG quá trình tạo giao tử",
+        "Thể khảm chỉ gặp ở nữ giới",
+        "Thể khảm luôn nặng hơn thể thuần",
+        "Thể khảm không thể chẩn đoán bằng karyotype"
+      ],
+      "answer": 0,
+      "explain": "Thể khảm: lỗi xảy ra SAU thụ tinh (nguyên phân phôi); thể thuần: lỗi xảy ra TRONG tạo giao tử"
+    },
+    {
+      "q": "NST đẳng nhiễm sắc thể (isochromosome) i(Xq) có đặc điểm:",
+      "options": [
+        "Có 2 cánh ngắn (p) giống hệt nhau, mất cả 2 cánh dài",
+        "Có 2 cánh dài (q) giống hệt nhau, mất cả 2 cánh ngắn",
+        "Là NST vòng có 2 đầu dính nhau",
+        "Là NST chuyển đoạn tương hỗ"
+      ],
+      "answer": 1,
+      "explain": "i(Xq): 2 cánh dài giống hệt nhau, mất hoàn toàn 2 cánh ngắn"
+    },
+    {
+      "q": "Kỹ thuật nào sau đây phù hợp nhất để phát hiện mất đoạn NST kích thước siêu nhỏ (submicroscopic) mà karyotype thường quy không thấy được?",
+      "options": [
+        "Karyotype nhuộm băng G",
+        "CMA (Chromosomal Microarray) hoặc FISH",
+        "Công thức máu",
+        "Siêu âm thai"
+      ],
+      "answer": 1,
+      "explain": "CMA/FISH phát hiện được vi mất đoạn/vi lặp đoạn dưới ngưỡng phát hiện của karyotype thường quy (thường <5-10 Mb)"
+    },
+    {
+      "q": "Vị trí nào trên NST là nơi gắn của thoi vô sắc (kinetochore) trong quá trình phân bào?",
+      "options": [
+        "Telomere",
+        "Tâm động (centromere)",
+        "Vệ tinh (satellite)",
+        "Vùng NOR"
+      ],
+      "answer": 1,
+      "explain": "Tâm động là nơi hình thành kinetochore — điểm bám sợi thoi vô sắc"
+    },
+    {
+      "q": "Chuyển đoạn cân bằng (balanced translocation) khác chuyển đoạn không cân bằng (unbalanced translocation) ở điểm mấu chốt nào?",
+      "options": [
+        "Chuyển đoạn cân bằng không thừa/thiếu vật chất di truyền nên người mang thường có kiểu hình bình thường; chuyển đoạn không cân bằng thừa/thiếu vật chất di truyền nên thường gây bệnh",
+        "Chuyển đoạn cân bằng luôn gây vô sinh",
+        "Chuyển đoạn không cân bằng không di truyền được",
+        "Không có sự khác biệt về mặt lâm sàng"
+      ],
+      "answer": 0,
+      "explain": "Cân bằng: không thừa/thiếu vật chất di truyền → kiểu hình thường bình thường; không cân bằng: thừa/thiếu → thường gây bệnh"
+    },
+    {
+      "q": "5 cặp NST nào ở người dễ tham gia chuyển đoạn Robertson nhất?",
+      "options": [
+        "1, 2, 3, 16, 17",
+        "13, 14, 15, 21, 22",
+        "6, 7, 8, 9, 10",
+        "18, 19, 20, X, Y"
+      ],
+      "answer": 1,
+      "explain": "13, 14, 15, 21, 22 là các NST tâm đầu, dễ tham gia chuyển đoạn Robertson"
+    },
+    {
+      "q": "Một thai phụ có kết quả karyotype thai nhi: 46,XX/47,XX,+21. Kết luận phù hợp nhất:",
+      "options": [
+        "Hội chứng Down thể thuần",
+        "Hội chứng Down thể khảm",
+        "Bình thường hoàn toàn",
+        "Hội chứng Edwards thể khảm"
+      ],
+      "answer": 1,
+      "explain": "Có 2 dòng tế bào (46,XX bình thường và 47,XX,+21) → thể khảm"
+    },
+    {
+      "q": "Karyotype nào sau đây phù hợp với hội chứng Patau?",
+      "options": [
+        "47,XX,+13",
+        "47,XX,+18",
+        "45,X",
+        "47,XXY"
+      ],
+      "answer": 0,
+      "explain": "47,XX,+13 = trisomy 13 = Patau; +18 là Edwards; 45,X là Turner; XXY là Klinefelter"
+    },
+    {
+      "q": "Xét nghiệm nào là tiêu chuẩn vàng để chẩn đoán xác định bất thường số lượng/cấu trúc NST?",
+      "options": [
+        "NIPT",
+        "Karyotype (lập bộ NST đồ)",
+        "Siêu âm hình thái học",
+        "Double test"
+      ],
+      "answer": 1,
+      "explain": "Karyotype vẫn là tiêu chuẩn vàng chẩn đoán xác định bất thường NST"
+    },
+    {
+      "q": "Kỹ thuật nhuộm băng G (G-banding) trong phân tích NST được thực hiện vào thời điểm nào của chu kỳ tế bào?",
+      "options": [
+        "Kỳ trung gian (Interphase)",
+        "Kỳ giữa của phân bào (Metaphase) — khi NST co xoắn cực đại",
+        "Pha S",
+        "Pha G1"
+      ],
+      "answer": 1,
+      "explain": "NST chỉ co xoắn đủ để quan sát rõ hình thái/băng tại kỳ giữa phân bào"
+    },
+    {
+      "q": "Đặc điểm KHÔNG phù hợp với hội chứng Edwards (Trisomy 18):",
+      "options": [
+        "Bàn tay nắm chặt, ngón trỏ chồng lên ngón giữa",
+        "Tật toàn não thất (holoprosencephaly)",
+        "Bàn chân dạng \"đế giày trượt tuyết\"",
+        "Đa số tử vong trong năm đầu đời"
+      ],
+      "answer": 1,
+      "explain": "Toàn não thất (holoprosencephaly) đặc trưng của Patau (trisomy 13), không phải Edwards"
+    },
+    {
+      "q": "Bệnh nhân nam, cao lớn, tinh hoàn nhỏ chắc, vô sinh do azoospermia, FSH/LH tăng, testosterone thấp. Karyotype nhiều khả năng là:",
+      "options": [
+        "47,XXY",
+        "45,X",
+        "47,XY,+21",
+        "46,XY"
+      ],
+      "answer": 0,
+      "explain": "Bệnh cảnh kinh điển suy sinh dục nguyên phát ở nam → Klinefelter 47,XXY"
+    },
+    {
+      "q": "Đặc điểm KHÔNG phù hợp với hội chứng Turner:",
+      "options": [
+        "Cổ ngắn có màng da (webbed neck)",
+        "Vô kinh nguyên phát do loạn sản tuyến sinh dục",
+        "Trí tuệ thường chậm phát triển rõ rệt",
+        "Vóc dáng thấp bé, hẹp eo động mạch chủ"
+      ],
+      "answer": 2,
+      "explain": "Trí tuệ trong Turner thường BÌNH THƯỜNG — đây là điểm hay bị nhầm với các hội chứng lệch bội khác"
+    },
+    {
+      "q": "Dị tật tiêu hóa nào có liên quan đặc trưng và gợi ý hội chứng Down khi phát hiện trên siêu âm trước sinh?",
+      "options": [
+        "Teo thực quản",
+        "Hẹp/teo tá tràng (dấu hiệu bóng đôi - double bubble)",
+        "Thoát vị rốn",
+        "Bệnh Hirschsprung"
+      ],
+      "answer": 1,
+      "explain": "Dấu hiệu \"bóng đôi\" (double bubble sign) trên siêu âm gợi ý hẹp/teo tá tràng, kinh điển liên quan Down"
+    },
+    {
+      "q": "Cơ chế chính giải thích mối liên quan giữa tuổi mẹ cao và tăng nguy cơ trisomy 21 là:",
+      "options": [
+        "Noãn bào I dừng lại ở kỳ đầu giảm phân I trong thời gian rất dài, tăng nguy cơ sai sót khi hoàn tất giảm phân",
+        "Tinh trùng của người chồng lớn tuổi bị đột biến nhiều hơn",
+        "Tử cung người mẹ lớn tuổi kém đàn hồi hơn",
+        "Không liên quan đến cơ chế sinh học nào"
+      ],
+      "answer": 0,
+      "explain": "Noãn bào I \"ngủ đông\" ở kỳ đầu GP I hàng chục năm → tăng nguy cơ không phân ly khi tuổi mẹ tăng"
+    },
+    {
+      "q": "Quá trình nào sau đây là ví dụ của chết tế bào theo chương trình (apoptosis), NGOẠI TRỪ:",
+      "options": [
+        "Tế bào biểu mô ruột bong tróc và thay mới liên tục",
+        "Lành vết thương (wound healing)",
+        "Sự thoái hóa hồng cầu già ở lách",
+        "Sự chọn lọc âm tính tế bào lympho tự phản ứng ở tuyến ức"
+      ],
+      "answer": 1,
+      "explain": "Lành vết thương chủ yếu liên quan tăng sinh, viêm, tái tạo mô — không phải cơ chế apoptosis điển hình"
+    },
+    {
+      "q": "Đặc điểm phân biệt apoptosis với necrosis:",
+      "options": [
+        "Apoptosis gây phản ứng viêm mạnh, necrosis thì không",
+        "Apoptosis là quá trình chủ động có kiểm soát, không gây viêm; necrosis thụ động, gây viêm",
+        "Cả hai đều gây viêm như nhau",
+        "Necrosis luôn là quá trình sinh lý bình thường"
+      ],
+      "answer": 1,
+      "explain": "Apoptosis: chủ động, có kiểm soát, không viêm; Necrosis: thụ động, gây viêm"
+    },
+    {
+      "q": "Protein nào đóng vai trò \"người gác cổng bộ gen\", dừng chu kỳ tế bào hoặc khởi động apoptosis khi ADN bị tổn thương không sửa chữa được?",
+      "options": [
+        "p53",
+        "Bcl-2",
+        "Cyclin D",
+        "Ras"
+      ],
+      "answer": 0,
+      "explain": "p53 — \"người gác cổng bộ gen\", điều hòa checkpoint và apoptosis"
+    },
+    {
+      "q": "Trong giảm phân I, sự kiện đặc trưng khác biệt so với nguyên phân là:",
+      "options": [
+        "NST tương đồng bắt cặp (tiếp hợp) và có thể trao đổi chéo",
+        "Nhiễm sắc tử chị em tách nhau",
+        "Không có thoi vô sắc",
+        "Không có màng nhân tiêu biến"
+      ],
+      "answer": 0,
+      "explain": "Tiếp hợp NST tương đồng + trao đổi chéo chỉ có ở giảm phân I, không có ở nguyên phân"
+    },
+    {
+      "q": "Từ 1 tinh nguyên bào (2n) qua toàn bộ quá trình sinh tinh sẽ tạo ra:",
+      "options": [
+        "1 tinh trùng",
+        "2 tinh trùng",
+        "4 tinh trùng có khả năng thụ tinh",
+        "4 tinh trùng nhưng chỉ 1 có khả năng thụ tinh"
+      ],
+      "answer": 2,
+      "explain": "Sinh tinh: 1 tinh nguyên bào → 4 tinh trùng đều có khả năng thụ tinh (khác sinh trứng)"
+    },
+    {
+      "q": "Đặc điểm của quá trình sinh trứng KHÔNG bao gồm:",
+      "options": [
+        "Noãn bào I dừng ở kỳ đầu giảm phân I từ giai đoạn bào thai đến khi rụng trứng",
+        "Giảm phân II chỉ hoàn tất sau khi thụ tinh",
+        "Từ 1 noãn nguyên bào tạo ra 4 trứng có khả năng thụ tinh như nhau",
+        "Có tạo ra thể cực bị thoái hóa"
+      ],
+      "answer": 2,
+      "explain": "Sinh trứng: 1 noãn nguyên bào → CHỈ 1 trứng có khả năng thụ tinh + các thể cực thoái hóa"
+    },
+    {
+      "q": "Bơm Na⁺-K⁺-ATPase trong mỗi chu kỳ hoạt động sẽ:",
+      "options": [
+        "Bơm 3 Na⁺ vào trong, 2 K⁺ ra ngoài",
+        "Bơm 3 Na⁺ ra ngoài, 2 K⁺ vào trong, tiêu tốn 1 ATP",
+        "Bơm 2 Na⁺ ra ngoài, 3 K⁺ vào trong",
+        "Không tiêu tốn năng lượng"
+      ],
+      "answer": 1,
+      "explain": "Bơm Na-K-ATPase: 3 Na⁺ ra ngoài, 2 K⁺ vào trong, tốn 1 ATP/chu kỳ"
+    },
+    {
+      "q": "Một đột biến làm thay đổi 1 nucleotide nhưng codon mới vẫn mã hóa cùng một amino acid. Đây là loại đột biến:",
+      "options": [
+        "Đột biến câm (silent)",
+        "Đột biến sai nghĩa (missense)",
+        "Đột biến vô nghĩa (nonsense)",
+        "Đột biến dịch khung (frameshift)"
+      ],
+      "answer": 0,
+      "explain": "Codon mới vẫn mã hóa cùng amino acid nhờ tính thoái hóa của mã di truyền → đột biến câm"
+    },
+    {
+      "q": "Đột biến mất 1 nucleotide trong vùng mã hóa của gen sẽ gây hậu quả nghiêm trọng nhất do:",
+      "options": [
+        "Không ảnh hưởng đến protein vì mã di truyền có tính thoái hóa",
+        "Làm dịch chuyển toàn bộ khung đọc từ vị trí đột biến trở về sau (frameshift)",
+        "Chỉ thay đổi 1 amino acid duy nhất",
+        "Chỉ ảnh hưởng đến vùng UTR"
+      ],
+      "answer": 1,
+      "explain": "Mất/thêm nucleotide không chia hết cho 3 → dịch chuyển toàn bộ khung đọc (frameshift) — hậu quả nặng nề nhất"
+    },
+    {
+      "q": "Đột biến xảy ra ở tế bào sinh dục (giao tử), có khả năng di truyền cho thế hệ sau, được gọi là:",
+      "options": [
+        "Đột biến soma",
+        "Đột biến mầm (germline)",
+        "Đa hình (polymorphism)",
+        "Biểu sinh (epigenetic)"
+      ],
+      "answer": 1,
+      "explain": "Đột biến mầm (germline): xảy ra ở giao tử, di truyền được cho thế hệ sau"
+    },
+    {
+      "q": "Enzyme nào chịu trách nhiệm nối các đoạn Okazaki trên mạch chậm trong quá trình tái bản ADN?",
+      "options": [
+        "Helicase",
+        "Primase",
+        "ADN ligase",
+        "ADN polymerase"
+      ],
+      "answer": 2,
+      "explain": "ADN ligase nối các đoạn Okazaki thành mạch liên tục"
+    },
+    {
+      "q": "Cơ chế nào giải thích tại sao bộ gen người chỉ có ~20.000 gen nhưng tạo ra được số lượng protein lớn hơn nhiều?",
+      "options": [
+        "Cắt nối luân phiên (alternative splicing)",
+        "Tái bản bán bảo toàn",
+        "Đột biến câm",
+        "Hoạt động của telomerase"
+      ],
+      "answer": 0,
+      "explain": "Cắt nối luân phiên (alternative splicing) tạo nhiều loại mARN/protein từ 1 gen"
+    },
+    {
+      "q": "Hiện tượng di truyền theo dòng bố/mẹ (genomic imprinting), trong đó chỉ 1 alen từ bố hoặc mẹ được biểu hiện, minh họa rõ nhất qua cặp hội chứng nào (cùng liên quan mất đoạn NST 15 nhưng biểu hiện khác nhau tùy nguồn gốc di truyền)?",
+      "options": [
+        "Down và Edwards",
+        "Prader-Willi và Angelman",
+        "Turner và Klinefelter",
+        "Patau và Cri-du-chat"
+      ],
+      "answer": 1,
+      "explain": "Prader-Willi (mất đoạn 15q từ bố) và Angelman (mất đoạn 15q từ mẹ) — kinh điển về genomic imprinting"
+    },
+    {
+      "q": "Giai đoạn nào của thai kỳ nhạy cảm nhất với tác nhân gây quái thai (teratogen), dễ gây dị tật cấu trúc lớn?",
+      "options": [
+        "Tuần 1-2 (trước làm tổ)",
+        "Tuần 3-8 (giai đoạn phôi, tạo cơ quan)",
+        "Ba tháng giữa thai kỳ",
+        "Ba tháng cuối thai kỳ"
+      ],
+      "answer": 1,
+      "explain": "Tuần 3-8 là giai đoạn tạo cơ quan (organogenesis), nhạy cảm nhất với teratogen"
+    },
+    {
+      "q": "Xét nghiệm NIPT (Non-Invasive Prenatal Testing) có đặc điểm:",
+      "options": [
+        "Là xét nghiệm chẩn đoán xác định, thay thế hoàn toàn chọc ối",
+        "Là xét nghiệm sàng lọc dựa trên ADN thai tự do trong máu mẹ, độ chính xác cao nhưng dương tính vẫn cần xác định lại bằng chẩn đoán xâm lấn",
+        "Chỉ thực hiện được sau tuần 20 của thai kỳ",
+        "Không phát hiện được bất thường NST giới tính"
+      ],
+      "answer": 1,
+      "explain": "NIPT là sàng lọc, không thay thế chẩn đoán xâm lấn khi cần quyết định lâm sàng"
+    },
+    {
+      "q": "Thời điểm thực hiện sinh thiết gai nhau (CVS) phù hợp là:",
+      "options": [
+        "Tuần 6-8",
+        "Tuần 11-14",
+        "Tuần 20-24",
+        "Tuần 28-32"
+      ],
+      "answer": 1,
+      "explain": "CVS thực hiện tuần 11-14, sớm hơn chọc ối"
+    },
+    {
+      "q": "Chỉ định nào sau đây là đối tượng nguy cơ cao cần được tư vấn chẩn đoán xâm lấn sớm, không chỉ dừng ở sàng lọc thường quy?",
+      "options": [
+        "Tuổi mẹ 25, không có tiền sử gì đặc biệt",
+        "Bố hoặc mẹ mang chuyển đoạn NST cân bằng",
+        "Thai phụ có BMI bình thường",
+        "Song thai không biến chứng"
+      ],
+      "answer": 1,
+      "explain": "Bố/mẹ mang chuyển đoạn cân bằng là yếu tố nguy cơ cao rõ ràng, cần tư vấn di truyền và cân nhắc chẩn đoán xâm lấn sớm"
+    }
+  ]
+}
