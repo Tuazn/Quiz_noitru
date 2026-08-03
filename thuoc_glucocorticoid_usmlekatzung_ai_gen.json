@@ -1,0 +1,610 @@
+{
+  "name": "Thuốc Glucocorticoid USMLE/Katzung (AI gen)",
+  "description": "Bộ 20 case lâm sàng tình huống liên hoàn (Sequential Item Sets) về Thuốc Glucocorticoid biên soạn theo phong cách USMLE Step 2 CK / Step 3.",
+  "level": "USMLE Step 2 CK / Step 3",
+  "type": "cases",
+  "category": "Cơ sở",
+  "subcategory": "Dược lý",
+  "cases": [
+    {
+      "title": "Giải thích cơ chế chống viêm của glucocorticoid cho sinh viên",
+      "body": "<b>Bệnh sử:</b> Bác sĩ đang giảng về cơ chế của glucocorticoid cho sinh viên. Một sinh viên hỏi tại sao thuốc này có tác dụng chống viêm mạnh nhưng khởi phát chậm.",
+      "questions": [
+        {
+          "q": "Cơ chế chính của glucocorticoid ở mức tế bào là gì?",
+          "options": [
+            "Ức chế COX trực tiếp",
+            "Gắn thụ thể nội bào → điều hòa phiên mã gen",
+            "Agonist thụ thể màng",
+            "Ức chế kênh natri",
+            "Tăng cAMP"
+          ],
+          "answer": 1,
+          "explain": "Glucocorticoid gắn glucocorticoid receptor (GR) ở bào tương → vào nhân → điều hòa transcription."
+        },
+        {
+          "q": "Tại sao tác dụng chống viêm thường chậm (vài giờ)?",
+          "options": [
+            "Do hấp thu kém",
+            "Do cần thời gian để thay đổi biểu hiện gen và tổng hợp protein",
+            "Do bị chuyển hóa nhanh",
+            "Do gắn protein huyết tương",
+            "Do thải trừ chậm"
+          ],
+          "answer": 1,
+          "explain": "Tác dụng genomic cần thời gian thay đổi transcription và dịch mã."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi mắc bệnh Addison bị viêm phổi nặng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi.<br><br><b>Tiền sử:</b> Bị Addison, đang dùng hydrocortisone.<br><br><b>Bệnh sử:</b> Bị viêm phổi nặng, sốt cao, nôn nhiều, tụt huyết áp.",
+      "questions": [
+        {
+          "q": "Trong tình huống stress cấp này, cần xử trí glucocorticoid như thế nào?",
+          "options": [
+            "Giữ nguyên liều",
+            "Tăng liều (stress dose) hydrocortisone",
+            "Ngừng thuốc",
+            "Chuyển sang dexamethasone liều thấp",
+            "Chỉ truyền dịch"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân suy thượng thận cần tăng liều glucocorticoid khi có stress nặng."
+        },
+        {
+          "q": "Tại sao hydrocortisone thường được chọn trong suy thượng thận cấp?",
+          "options": [
+            "Chỉ có tác dụng chống viêm",
+            "Có cả hoạt tính glucocorticoid và mineralocorticoid",
+            "Tác dụng dài nhất",
+            "Không cần tiêm",
+            "Rẻ nhất"
+          ],
+          "answer": 1,
+          "explain": "Hydrocortisone có hoạt tính mineralocorticoid giúp giữ muối và duy trì huyết áp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 38 tuổi xuất hiện kiểu hình Cushing do dùng prednisone kéo dài",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 38 tuổi.<br><br><b>Tiền sử:</b> Lupus, dùng prednisone 30 mg/ngày đã 8 tháng.<br><br><b>Khám lâm sàng:</b> Mặt tròn, béo thân, da mỏng, rạn da tím, tăng huyết áp.",
+      "questions": [
+        {
+          "q": "Tình trạng này gọi là gì?",
+          "options": [
+            "Bệnh Cushing",
+            "Hội chứng Cushing do thuốc (iatrogenic)",
+            "Suy thượng thận",
+            "Cường aldosterone",
+            "Hội chứng buồng trứng đa nang"
+          ],
+          "answer": 1,
+          "explain": "Dùng glucocorticoid ngoại sinh kéo dài gây iatrogenic Cushing."
+        },
+        {
+          "q": "Nguy cơ quan trọng khi giảm liều đột ngột ở bệnh nhân này là gì?",
+          "options": [
+            "Tăng huyết áp",
+            "Suy thượng thận cấp (HPA suppression)",
+            "Tăng đường huyết",
+            "Nhiễm trùng",
+            "Loãng xương"
+          ],
+          "answer": 1,
+          "explain": "Dùng dài ngày ức chế trục HPA → ngừng đột ngột có thể gây crisis."
+        }
+      ]
+    },
+    {
+      "title": "Giảm liều prednisone cho bệnh nhân COPD sau 6 tuần điều trị",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân dùng prednisone 40 mg/ngày đã 6 tuần vì đợt cấp COPD. Tình trạng cải thiện, bác sĩ muốn giảm liều.",
+      "questions": [
+        {
+          "q": "Nguyên tắc chung khi giảm liều glucocorticoid sau dùng dài ngày là gì?",
+          "options": [
+            "Ngừng đột ngột",
+            "Giảm dần (taper) để tránh suy thượng thận",
+            "Tăng liều thêm 1 tuần",
+            "Chuyển ngay sang dexamethasone",
+            "Không cần giảm"
+          ],
+          "answer": 1,
+          "explain": "Taper để trục HPA phục hồi dần."
+        },
+        {
+          "q": "Thời gian dùng bao lâu thường được coi là có nguy cơ ức chế HPA đáng kể?",
+          "options": [
+            "1–2 ngày",
+            "> 2–3 tuần (tùy liều)",
+            "Chỉ khi dùng > 6 tháng",
+            "Không bao giờ",
+            "Chỉ với dexamethasone"
+          ],
+          "answer": 1,
+          "explain": "Dùng > 2–3 tuần (đặc biệt liều cao) có nguy cơ ức chế HPA."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi bị u não di căn gây phù脑 dùng dexamethasone",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Tiền sử:</b> U não di căn, phù脑.<br><br><b>Bệnh sử:</b> Được chỉ định dùng dexamethasone.",
+      "questions": [
+        {
+          "q": "Tại sao dexamethasone thường được chọn trong phù não?",
+          "options": [
+            "Có hoạt tính mineralocorticoid mạnh",
+            "Hiệu lực chống viêm rất mạnh, ít giữ muối, thấm tốt vào CNS",
+            "Tác dụng ngắn",
+            "Chỉ dùng đường uống",
+            "Không ức chế HPA"
+          ],
+          "answer": 1,
+          "explain": "Dexamethasone mạnh, ít mineralocorticoid, thấm não tốt."
+        },
+        {
+          "q": "So với hydrocortisone, dexamethasone có đặc điểm gì?",
+          "options": [
+            "Yếu hơn",
+            "Dài hơn và mạnh hơn nhiều, gần như không có hoạt tính mineralocorticoid",
+            "Ngắn hơn",
+            "Có mineralocorticoid mạnh hơn",
+            "Không khác biệt"
+          ],
+          "answer": 1,
+          "explain": "Dexamethasone là long-acting, potency cao, minimal mineralocorticoid activity."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân suy gan nặng cân nhắc giữa prednisone và prednisolone",
+      "body": "<b>Tiền sử:</b> Suy gan nặng.<br><br><b>Bệnh sử:</b> Cần dùng glucocorticoid. Bác sĩ cân nhắc giữa prednisone và prednisolone.",
+      "questions": [
+        {
+          "q": "Tại sao prednisolone có thể được ưu tiên hơn prednisone ở bệnh nhân suy gan?",
+          "options": [
+            "Prednisone mạnh hơn",
+            "Prednisone là prodrug, cần chuyển thành prednisolone ở gan",
+            "Prednisolone độc hơn",
+            "Không khác biệt",
+            "Prednisone không uống được"
+          ],
+          "answer": 1,
+          "explain": "Prednisone phải được chuyển hóa thành prednisolone (dạng hoạt động) ở gan."
+        },
+        {
+          "q": "Prednisone/Prednisolone thuộc nhóm thời gian tác dụng nào?",
+          "options": [
+            "Ngắn (short-acting)",
+            "Trung bình (intermediate-acting)",
+            "Dài (long-acting)",
+            "Siêu ngắn",
+            "Không phân loại"
+          ],
+          "answer": 1,
+          "explain": "Intermediate-acting (t½ sinh học ~12–36 giờ)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 50 tuổi viêm khớp dạng thấp xuất hiện triệu chứng ho và khó thở",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 50 tuổi.<br><br><b>Tiền sử:</b> Viêm khớp dạng thấp, dùng prednisone 20 mg/ngày lâu ngày.<br><br><b>Bệnh sử:</b> Nay sốt nhẹ, ho, khó thở.<br><br><b>Xét nghiệm:</b> X-quang nghi Pneumocystis.",
+      "questions": [
+        {
+          "q": "Glucocorticoid làm tăng nguy cơ nhiễm trùng do cơ chế nào?",
+          "options": [
+            "Tăng miễn dịch",
+            "Ức chế miễn dịch (giảm lympho, ức chế chức năng bạch cầu, giảm cytokine)",
+            "Chỉ gây sốt",
+            "Tăng kháng thể",
+            "Không ảnh hưởng miễn dịch"
+          ],
+          "answer": 1,
+          "explain": "Ức chế nhiều thành phần của hệ miễn dịch."
+        },
+        {
+          "q": "Ở bệnh nhân dùng glucocorticoid liều cao/dài ngày, cần cân nhắc dự phòng nhiễm trùng nào?",
+          "options": [
+            "Chỉ vi khuẩn thông thường",
+            "Pneumocystis jirovecii (ở một số đối tượng nguy cơ cao)",
+            "Chỉ virus cúm",
+            "Không cần dự phòng",
+            "Chỉ nấm da"
+          ],
+          "answer": 1,
+          "explain": "Có thể cần dự phòng PCP ở bệnh nhân nguy cơ cao."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 62 tuổi giảm mật độ xương sau 2 năm dùng prednisone",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 62 tuổi.<br><br><b>Tiền sử:</b> Dùng prednisone 10 mg/ngày đã 2 năm.<br><br><b>Bệnh sử:</b> Đau lưng.<br><br><b>Xét nghiệm:</b> Mật độ xương giảm rõ.",
+      "questions": [
+        {
+          "q": "Cơ chế chính glucocorticoid gây loãng xương là gì?",
+          "options": [
+            "Tăng hấp thu canxi ruột",
+            "Ức chế tạo xương + tăng hủy xương + giảm hấp thu canxi",
+            "Chỉ tăng PTH",
+            "Tăng estrogen",
+            "Không ảnh hưởng xương"
+          ],
+          "answer": 1,
+          "explain": "Ức chế osteoblast, tăng osteoclast, giảm hấp thu Ca²⁺."
+        },
+        {
+          "q": "Biện pháp dự phòng loãng xương ở bệnh nhân dùng glucocorticoid dài ngày bao gồm?",
+          "options": [
+            "Chỉ giảm liều",
+            "Bổ sung canxi + vitamin D, bisphosphonate nếu nguy cơ cao",
+            "Chỉ vận động",
+            "Tăng liều prednisone",
+            "Không cần dự phòng"
+          ],
+          "answer": 1,
+          "explain": "Canxi + vitamin D ± bisphosphonate theo nguy cơ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 48 tuổi đái tháo đường T2 tăng đường huyết sau truyền methylprednisolone",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 48 tuổi.<br><br><b>Tiền sử:</b> Đái tháo đường type 2 đang kiểm soát bằng metformin.<br><br><b>Bệnh sử:</b> Sau khi dùng methylprednisolone pulse, đường huyết tăng cao.",
+      "questions": [
+        {
+          "q": "Glucocorticoid gây tăng đường huyết bằng cơ chế nào?",
+          "options": [
+            "Tăng tiết insulin",
+            "Tăng tạo đường mới, giảm sử dụng glucose ngoại vi, kháng insulin",
+            "Chỉ giảm glucagon",
+            "Tăng bài tiết glucose qua thận",
+            "Không ảnh hưởng"
+          ],
+          "answer": 1,
+          "explain": "Tăng gluconeogenesis + kháng insulin."
+        },
+        {
+          "q": "Hướng xử trí đường huyết trong lúc dùng glucocorticoid là gì?",
+          "options": [
+            "Ngừng ngay glucocorticoid",
+            "Theo dõi và điều chỉnh thuốc hạ đường huyết (có thể cần insulin tạm thời)",
+            "Chỉ giảm ăn",
+            "Tăng metformin gấp đôi ngay",
+            "Không cần xử trí"
+          ],
+          "answer": 1,
+          "explain": "Theo dõi sát và điều chỉnh điều trị đái tháo đường."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân suy thượng thận nguyên phát tụt huyết áp tư thế dù dùng hydrocortisone",
+      "body": "<b>Tiền sử:</b> Suy thượng thận nguyên phát (Addison) đang dùng hydrocortisone.<br><br><b>Bệnh sử:</b> Vẫn tụt huyết áp, hạ natri khi đứng.",
+      "questions": [
+        {
+          "q": "Cần bổ sung thuốc nào để có hoạt tính mineralocorticoid mạnh hơn?",
+          "options": [
+            "Dexamethasone",
+            "Fludrocortisone",
+            "Prednisone",
+            "Budesonide",
+            "Betamethasone"
+          ],
+          "answer": 1,
+          "explain": "Fludrocortisone có hoạt tính mineralocorticoid mạnh, dùng thay thế trong Addison."
+        },
+        {
+          "q": "Tác dụng chính của fludrocortisone là gì?",
+          "options": [
+            "Chỉ chống viêm",
+            "Giữ natri, thải kali, duy trì thể tích tuần hoàn",
+            "Ức chế miễn dịch mạnh",
+            "Hạ đường huyết",
+            "Giãn phế quản"
+          ],
+          "answer": 1,
+          "explain": "Mineralocorticoid → giữ Na⁺, thải K⁺."
+        }
+      ]
+    },
+    {
+      "title": "Quy đổi liều từ prednisone sang dexamethasone",
+      "body": "<b>Bệnh sử:</b> Bác sĩ muốn chuyển từ prednisone 20 mg sang dexamethasone để giảm số lần uống.",
+      "questions": [
+        {
+          "q": "20 mg prednisone tương đương khoảng bao nhiêu mg dexamethasone?",
+          "options": [
+            "20 mg",
+            "3–4 mg",
+            "0,75 mg",
+            "50 mg",
+            "10 mg"
+          ],
+          "answer": 1,
+          "explain": "Dexamethasone mạnh hơn prednisone khoảng 5–6 lần (0,75 mg dexa ≈ 5 mg pred)."
+        },
+        {
+          "q": "Khi chuyển sang dexamethasone, cần lưu ý gì về hoạt tính mineralocorticoid?",
+          "options": [
+            "Dexamethasone có mineralocorticoid mạnh hơn",
+            "Dexamethasone gần như không có hoạt tính mineralocorticoid",
+            "Không khác biệt",
+            "Cần giảm fludrocortisone",
+            "Tăng nguy cơ hạ natri"
+          ],
+          "answer": 1,
+          "explain": "Dexamethasone minimal mineralocorticoid activity."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân Crohn dùng budesonide đường uống",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân Crohn đang dùng budesonide đường uống.",
+      "questions": [
+        {
+          "q": "Budesonide có đặc điểm dược động học nổi bật nào?",
+          "options": [
+            "Sinh khả dụng toàn thân cao",
+            "First-pass mạnh → ít tác dụng toàn thân hơn prednisone",
+            "Tác dụng dài hơn dexamethasone",
+            "Không chuyển hóa ở gan",
+            "Chỉ dùng tiêm"
+          ],
+          "answer": 1,
+          "explain": "Budesonide chịu first-pass mạnh → tác dụng tại chỗ (ruột) nhiều hơn toàn thân."
+        },
+        {
+          "q": "So với prednisone, budesonide thường có ít ADR toàn thân hơn vì?",
+          "options": [
+            "Yếu hơn",
+            "Chuyển hóa qua gan mạnh, ít vào tuần hoàn hệ thống",
+            "Không gắn thụ thể",
+            "Thải trừ nhanh hơn qua thận",
+            "Không đúng"
+          ],
+          "answer": 1,
+          "explain": "First-pass metabolism cao."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân dùng prednisone kéo dài chuẩn bị phẫu thuật lớn",
+      "body": "<b>Tiền sử:</b> Dùng prednisone 15 mg/ngày đã 4 tháng.<br><br><b>Bệnh sử:</b> Sắp phẫu thuật lớn.",
+      "questions": [
+        {
+          "q": "Trước phẫu thuật lớn, cần xử trí glucocorticoid như thế nào?",
+          "options": [
+            "Ngừng thuốc 1 tuần trước mổ",
+            "Cho stress-dose hydrocortisone peri-operative",
+            "Giữ nguyên liều prednisone",
+            "Chuyển sang dexamethasone liều thấp",
+            "Chỉ theo dõi"
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân ức chế HPA cần bổ sung glucocorticoid khi stress phẫu thuật."
+        },
+        {
+          "q": "Mục đích của stress-dose là gì?",
+          "options": [
+            "Chống viêm vết mổ",
+            "Đảm bảo đủ glucocorticoid để chống lại stress, tránh crisis",
+            "Giảm đau",
+            "Ngăn nhiễm trùng",
+            "Tăng lành vết thương"
+          ],
+          "answer": 1,
+          "explain": "Tránh suy thượng thận cấp trong stress."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân tăng bạch cầu sau khi dùng glucocorticoid liều cao",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân dùng glucocorticoid liều cao.<br><br><b>Xét nghiệm:</b> Công thức máu thấy bạch cầu tăng.",
+      "questions": [
+        {
+          "q": "Glucocorticoid thường gây thay đổi công thức máu như thế nào?",
+          "options": [
+            "Giảm tất cả dòng",
+            "Tăng bạch cầu trung tính, giảm lympho, mono, eosinophil",
+            "Chỉ tăng lympho",
+            "Giảm tiểu cầu",
+            "Không ảnh hưởng"
+          ],
+          "answer": 1,
+          "explain": "Demargination của neutrophil + giảm lympho/eosinophil."
+        },
+        {
+          "q": "Tại sao bạch cầu trung tính tăng dù glucocorticoid ức chế miễn dịch?",
+          "options": [
+            "Tăng sản xuất từ tủy",
+            "Giảm bám thành mạch (demargination) và giảm di cư ra mô",
+            "Nhiễm trùng luôn luôn",
+            "Tăng apoptosis",
+            "Không giải thích được"
+          ],
+          "answer": 1,
+          "explain": "Demargination làm tăng số lượng neutrophil trong máu."
+        }
+      ]
+    },
+    {
+      "title": "Sử dụng glucocorticoid trong đợt cấp viêm khớp dạng thấp",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân viêm khớp dạng thấp đang đợt cấp nặng, bác sĩ dùng glucocorticoid ngắn ngày trong khi chờ DMARD có tác dụng.",
+      "questions": [
+        {
+          "q": "Vai trò của glucocorticoid trong viêm khớp dạng thấp là gì?",
+          "options": [
+            "Thay thế DMARD hoàn toàn",
+            "Kiểm soát triệu chứng nhanh (bridge therapy) trong khi chờ DMARD",
+            "Chỉ dùng khi thất bại mọi thứ",
+            "Không có vai trò",
+            "Dùng dài hạn liều cao"
+          ],
+          "answer": 1,
+          "explain": "Dùng ngắn để kiểm soát nhanh, không thay thế DMARD."
+        },
+        {
+          "q": "Nguyên tắc dùng glucocorticoid trong bệnh lý này là gì?",
+          "options": [
+            "Liều cao dài hạn",
+            "Liều thấp nhất có hiệu quả, thời gian ngắn nhất có thể",
+            "Không bao giờ dùng",
+            "Chỉ tiêm khớp",
+            "Tăng liều liên tục"
+          ],
+          "answer": 1,
+          "explain": "Lowest effective dose, shortest duration."
+        }
+      ]
+    },
+    {
+      "title": "Chỉ định tiêm betamethasone cho sản phụ 28 tuần dọa sinh non",
+      "body": "<b>Hành chính:</b> Sản phụ, 28 tuần.<br><br><b>Bệnh sử:</b> Dọa sinh non, bác sĩ chỉ định tiêm corticosteroid.",
+      "questions": [
+        {
+          "q": "Mục đích chính của betamethasone/dexamethasone trong trường hợp này là gì?",
+          "options": [
+            "Ngăn chuyển dạ",
+            "Thúc đẩy trưởng thành phổi thai nhi (tăng surfactant)",
+            "Giảm huyết áp mẹ",
+            "Chống nhiễm trùng",
+            "Giảm đau"
+          ],
+          "answer": 1,
+          "explain": "Corticosteroid thúc đẩy trưởng thành phổi thai nhi."
+        },
+        {
+          "q": "Tại sao thường chọn betamethasone hoặc dexamethasone?",
+          "options": [
+            "Có mineralocorticoid mạnh",
+            "Qua được nhau thai tốt, hiệu lực mạnh",
+            "Tác dụng ngắn",
+            "Chỉ dùng đường uống",
+            "Không qua nhau thai"
+          ],
+          "answer": 1,
+          "explain": "Qua nhau thai tốt và có hiệu lực mạnh trên phổi thai."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân xuất hiện triệu chứng sau khi giảm liều prednisone quá nhanh",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân dùng prednisone dài ngày, giảm liều quá nhanh, xuất hiện mệt, buồn nôn, đau cơ, hạ huyết áp nhẹ.",
+      "questions": [
+        {
+          "q": "Tình trạng này có thể là gì?",
+          "options": [
+            "Nhiễm trùng",
+            "Suy thượng thận do ức chế HPA (steroid withdrawal)",
+            "Quá liều",
+            "Dị ứng",
+            "Cường giáp"
+          ],
+          "answer": 1,
+          "explain": "Giảm liều quá nhanh khi HPA còn bị ức chế."
+        },
+        {
+          "q": "Xử trí ban đầu phù hợp là gì?",
+          "options": [
+            "Ngừng hoàn toàn",
+            "Tăng lại liều glucocorticoid và giảm chậm hơn",
+            "Chỉ truyền dịch",
+            "Dùng fludrocortisone đơn thuần",
+            "Quan sát"
+          ],
+          "answer": 1,
+          "explain": "Quay lại liều trước đó và taper chậm hơn."
+        }
+      ]
+    },
+    {
+      "title": "So sánh hoạt tính mineralocorticoid giữa các glucocorticoid",
+      "body": "<b>Bệnh sử:</b> Bác sĩ so sánh các glucocorticoid về khả năng giữ muối.",
+      "questions": [
+        {
+          "q": "Thuốc nào có hoạt tính mineralocorticoid đáng kể nhất trong các glucocorticoid thường dùng?",
+          "options": [
+            "Dexamethasone",
+            "Hydrocortisone (và fludrocortisone)",
+            "Betamethasone",
+            "Triamcinolone",
+            "Methylprednisolone"
+          ],
+          "answer": 1,
+          "explain": "Hydrocortisone có hoạt tính mineralocorticoid; fludrocortisone mạnh hơn nữa."
+        },
+        {
+          "q": "Thuốc nào gần như không có hoạt tính mineralocorticoid?",
+          "options": [
+            "Hydrocortisone",
+            "Prednisone",
+            "Dexamethasone / Betamethasone",
+            "Cortisone",
+            "Fludrocortisone"
+          ],
+          "answer": 2,
+          "explain": "Dexamethasone và betamethasone minimal mineralocorticoid activity."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân mỏng da và chậm lành vết thương sau dùng glucocorticoid kéo dài",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân dùng glucocorticoid toàn thân lâu ngày, da mỏng, dễ bầm, vết thương lâu lành.",
+      "questions": [
+        {
+          "q": "Cơ chế da mỏng và chậm lành vết thương là gì?",
+          "options": [
+            "Tăng collagen",
+            "Ức chế nguyên bào sợi, giảm collagen và mô liên kết",
+            "Tăng keratin",
+            "Tăng tưới máu da",
+            "Không liên quan"
+          ],
+          "answer": 1,
+          "explain": "Ức chế fibroblast và tổng hợp collagen."
+        },
+        {
+          "q": "Ngoài ra glucocorticoid còn gây rạn da tím vì?",
+          "options": [
+            "Tăng đàn hồi da",
+            "Mất mô liên kết dưới da + da mỏng",
+            "Tăng melanin",
+            "Nhiễm trùng da",
+            "Dị ứng"
+          ],
+          "answer": 1,
+          "explain": "Mất hỗ trợ cấu trúc → rạn da."
+        }
+      ]
+    },
+    {
+      "title": "Hướng dẫn lựa chọn glucocorticoid phù hợp từng lâm sàng",
+      "body": "<b>Bệnh sử:</b> Bác sĩ hướng dẫn sinh viên cách chọn glucocorticoid phù hợp từng tình huống.",
+      "questions": [
+        {
+          "q": "Trong suy thượng thận cấp cần cả glucocorticoid và mineralocorticoid, thuốc nào phù hợp?",
+          "options": [
+            "Dexamethasone đơn thuần",
+            "Hydrocortisone (hoặc thêm fludrocortisone)",
+            "Budesonide",
+            "Betamethasone",
+            "Triamcinolone"
+          ],
+          "answer": 1,
+          "explain": "Hydrocortisone có cả hai hoạt tính; fludrocortisone bổ sung mineralocorticoid."
+        },
+        {
+          "q": "Trong phù não hoặc cần tránh giữ muối, nên chọn thuốc nào?",
+          "options": [
+            "Hydrocortisone",
+            "Dexamethasone",
+            "Fludrocortisone",
+            "Cortisone",
+            "Prednisone liều thấp"
+          ],
+          "answer": 1,
+          "explain": "Dexamethasone mạnh, ít giữ muối, thấm não tốt."
+        }
+      ]
+    }
+  ]
+}
