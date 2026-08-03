@@ -1,0 +1,622 @@
+{
+  "name": "Thuốc Giống Giao Cảm USMLE/Katzung (AI gen)",
+  "description": "Bộ 20 case lâm sàng tình huống liên hoàn (Sequential Item Sets) về Thuốc giống giao cảm (Sympathomimetics) biên soạn theo phong cách USMLE Step 2 CK / Step 3.",
+  "level": "USMLE Step 2 CK / Step 3",
+  "type": "cases",
+  "category": "Cơ sở",
+  "subcategory": "Dược lý",
+  "cases": [
+    {
+      "title": "Bệnh nhân nữ 28 tuổi khó thở và tụt huyết áp do sốc phản vệ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 28 tuổi.<br><br><b>Bệnh sử:</b> Bị ong đốt, xuất hiện khó thở, thở khò khè, nổi mày đay toàn thân, tụt huyết áp 70/40 mmHg, mạch 130 lần/phút. Được chẩn đoán sốc phản vệ.",
+      "questions": [
+        {
+          "q": "Thuốc được lựa chọn đầu tiên để điều trị là gì?",
+          "options": [
+            "Dopamine",
+            "Epinephrine",
+            "Phenylephrine",
+            "Albuterol",
+            "Clonidine"
+          ],
+          "answer": 1,
+          "explain": "Epinephrine là thuốc lựa chọn hàng đầu trong sốc phản vệ vì kích hoạt α1 (co mạch), β1 (tim), β2 (giãn phế quản)."
+        },
+        {
+          "q": "Đường dùng ưu tiên của epinephrine trong tình huống này là gì?",
+          "options": [
+            "Tĩnh mạch chậm",
+            "Tiêm bắp đùi ngoài",
+            "Uống",
+            "Xịt mũi",
+            "Tiêm dưới da bụng"
+          ],
+          "answer": 1,
+          "explain": "Tiêm bắp đùi ngoài (anterolateral thigh) là đường ưu tiên trong sốc phản vệ."
+        },
+        {
+          "q": "Tác dụng quan trọng nhất của epinephrine giúp cải thiện tình trạng bệnh nhân là gì?",
+          "options": [
+            "Chỉ tăng huyết áp",
+            "Co mạch + tăng co bóp tim + giãn phế quản",
+            "Chỉ giãn phế quản",
+            "Ức chế giải phóng histamine",
+            "An thần"
+          ],
+          "answer": 1,
+          "explain": "Epinephrine kích hoạt đồng thời α1, β1 và β2."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi tụt huyết áp do sốc nhiễm khuẩn",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi.<br><br><b>Bệnh sử:</b> Bị viêm phổi nặng, huyết áp 75/45 mmHg dù đã truyền dịch đầy đủ. Bác sĩ quyết định dùng thuốc vận mạch.",
+      "questions": [
+        {
+          "q": "Thuốc vận mạch được khuyến cáo đầu tay trong sốc nhiễm khuẩn là gì?",
+          "options": [
+            "Dopamine",
+            "Norepinephrine",
+            "Phenylephrine",
+            "Isoproterenol",
+            "Dobutamine"
+          ],
+          "answer": 1,
+          "explain": "Norepinephrine là thuốc vận mạch đầu tay trong sốc nhiễm khuẩn theo Surviving Sepsis Campaign."
+        },
+        {
+          "q": "Norepinephrine chủ yếu kích hoạt thụ thể nào?",
+          "options": [
+            "β2 > α1",
+            "α1 > β1",
+            "Chỉ β1",
+            "Chỉ α2",
+            "Dopamine receptor"
+          ],
+          "answer": 1,
+          "explain": "Norepinephrine ưu tiên α1 (co mạch mạnh), có tác dụng β1 nhẹ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi suy tim cấp được điều chỉnh liều dopamine",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 58 tuổi.<br><br><b>Tiền sử:</b> Suy tim cấp.<br><br><b>Bệnh sử:</b> Huyết áp thấp, bác sĩ dùng dopamine truyền tĩnh mạch và điều chỉnh liều.",
+      "questions": [
+        {
+          "q": "Ở liều thấp (1–5 mcg/kg/phút), dopamine chủ yếu kích hoạt thụ thể nào?",
+          "options": [
+            "α1",
+            "β1",
+            "Dopamine receptor (D1) ở thận",
+            "β2",
+            "α2"
+          ],
+          "answer": 2,
+          "explain": "Liều thấp dopamine kích hoạt D1 → giãn mạch thận, tăng tưới máu thận."
+        },
+        {
+          "q": "Ở liều cao (>10–20 mcg/kg/phút), dopamine chủ yếu gây tác dụng gì?",
+          "options": [
+            "Giãn mạch thận",
+            "Tăng co bóp tim chọn lọc",
+            "Co mạch mạnh (α1)",
+            "Giãn phế quản",
+            "An thần"
+          ],
+          "answer": 2,
+          "explain": "Liều cao dopamine kích hoạt α1 → co mạch."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 32 tuổi lên cơn hen cấp tính",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 32 tuổi.<br><br><b>Tiền sử:</b> Hen phế quản.<br><br><b>Bệnh sử:</b> Vào cấp cứu vì khó thở, thở khò khè nhiều, SpO₂ 88%. Đang được xịt salbutamol (albuterol).",
+      "questions": [
+        {
+          "q": "Salbutamol chủ yếu kích hoạt thụ thể nào?",
+          "options": [
+            "α1",
+            "β1",
+            "β2",
+            "α2",
+            "Dopamine"
+          ],
+          "answer": 2,
+          "explain": "Salbutamol (albuterol) là β2-agonist chọn lọc → giãn cơ trơn phế quản."
+        },
+        {
+          "q": "Tác dụng phụ thường gặp khi dùng salbutamol liều cao là gì?",
+          "options": [
+            "Hạ huyết áp nặng",
+            "Nhịp tim nhanh, run tay",
+            "Co đồng tử",
+            "Táo bón",
+            "Buồn ngủ"
+          ],
+          "answer": 1,
+          "explain": "Kích hoạt β2 (và một phần β1) gây run cơ xương và nhịp tim nhanh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 70 tuổi bị tụt huyết áp do thuốc mê",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 70 tuổi.<br><br><b>Bệnh sử:</b> Đang phẫu thuật, huyết áp tụt do thuốc mê. Bác sĩ gây mê tiêm phenylephrine.",
+      "questions": [
+        {
+          "q": "Phenylephrine chủ yếu kích hoạt thụ thể nào?",
+          "options": [
+            "β1",
+            "β2",
+            "α1",
+            "α2",
+            "Dopamine"
+          ],
+          "answer": 2,
+          "explain": "Phenylephrine là α1-agonist chọn lọc → co mạch."
+        },
+        {
+          "q": "Sau khi tiêm phenylephrine, mạch của bệnh nhân thường thay đổi như thế nào?",
+          "options": [
+            "Tăng mạnh",
+            "Giảm (reflex bradycardia)",
+            "Không đổi",
+            "Rung nhĩ",
+            "Block nhĩ thất"
+          ],
+          "answer": 1,
+          "explain": "Tăng huyết áp do α1 → kích thích baroreceptor → phản xạ làm chậm nhịp tim."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi tự ý ngừng clonidine đột ngột",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Tiền sử:</b> Tăng huyết áp, được kê clonidine.<br><br><b>Bệnh sử:</b> Sau vài ngày tự ý ngừng thuốc đột ngột.",
+      "questions": [
+        {
+          "q": "Clonidine chủ yếu kích hoạt thụ thể nào?",
+          "options": [
+            "α1 ngoại vi",
+            "α2 trung ương",
+            "β1",
+            "β2",
+            "Dopamine"
+          ],
+          "answer": 1,
+          "explain": "Clonidine là α2-agonist trung ương → giảm hoạt động giao cảm."
+        },
+        {
+          "q": "Khi ngừng clonidine đột ngột, nguy cơ chính là gì?",
+          "options": [
+            "Hạ huyết áp kéo dài",
+            "Tăng huyết áp dội ngược (rebound hypertension)",
+            "Nhịp tim chậm nặng",
+            "Hạ đường huyết",
+            "Suy hô hấp"
+          ],
+          "answer": 1,
+          "explain": "Ngừng đột ngột clonidine gây rebound hypertension do tăng hoạt động giao cảm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 68 tuổi suy tim cấp mất bù",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 68 tuổi.<br><br><b>Bệnh sử:</b> Suy tim cấp mất bù, huyết áp còn duy trì được. Bác sĩ dùng dobutamine truyền tĩnh mạch.",
+      "questions": [
+        {
+          "q": "Dobutamine chủ yếu kích hoạt thụ thể nào?",
+          "options": [
+            "α1",
+            "β1",
+            "β2 chọn lọc",
+            "α2",
+            "Dopamine receptor"
+          ],
+          "answer": 1,
+          "explain": "Dobutamine là β1-agonist chọn lọc → tăng co bóp tim (inotrope)."
+        },
+        {
+          "q": "Tác dụng chính của dobutamine trên huyết động là gì?",
+          "options": [
+            "Tăng sức cản mạch hệ thống mạnh",
+            "Tăng cung lượng tim, ít ảnh hưởng mạch",
+            "Giảm mạnh nhịp tim",
+            "Co mạch thận",
+            "Giãn phế quản"
+          ],
+          "answer": 1,
+          "explain": "Tăng co bóp tim → tăng cung lượng tim, ít gây co/giãn mạch."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân tăng nhịp tim rõ sau tiêm epinephrine xử trí sốc phản vệ",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân được tiêm epinephrine vì sốc phản vệ. Sau tiêm, huyết áp tăng, nhưng nhịp tim tăng rõ.",
+      "questions": [
+        {
+          "q": "Tại sao epinephrine làm tăng nhịp tim trong khi phenylephrine lại làm chậm nhịp tim?",
+          "options": [
+            "Epinephrine không kích hoạt α1",
+            "Epinephrine kích hoạt β1 mạnh, át phản xạ baroreceptor",
+            "Phenylephrine kích hoạt β1",
+            "Không có sự khác biệt",
+            "Epinephrine ức chế baroreceptor"
+          ],
+          "answer": 1,
+          "explain": "Epinephrine có tác dụng β1 mạnh → tăng nhịp tim trực tiếp, át phản xạ chậm nhịp."
+        },
+        {
+          "q": "Epinephrine kích hoạt những thụ thể nào?",
+          "options": [
+            "Chỉ α1",
+            "α1, β1, β2",
+            "Chỉ β2",
+            "Chỉ α2",
+            "Dopamine + β1"
+          ],
+          "answer": 1,
+          "explain": "Epinephrine là non-selective: α1, β1, β2."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 24 tuổi kích động và tăng huyết áp sau dùng ma túy tổng hợp",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 24 tuổi.<br><br><b>Bệnh sử:</b> Đưa vào cấp cứu vì kích động, tăng huyết áp 180/100 mmHg, mạch 140 lần/phút, đồng tử giãn, sau khi sử dụng ma túy tổng hợp.",
+      "questions": [
+        {
+          "q": "Nhóm thuốc giống giao cảm gián tiếp (amphetamine, cocaine) gây tác dụng bằng cách nào?",
+          "options": [
+            "Kích hoạt trực tiếp thụ thể α và β",
+            "Tăng giải phóng hoặc ức chế tái hấp thu norepinephrine",
+            "Ức chế MAO chọn lọc",
+            "Agonist dopamine thuần túy",
+            "Antagonist α2"
+          ],
+          "answer": 1,
+          "explain": "Thuốc gián tiếp làm tăng norepinephrine tại khe synapse."
+        },
+        {
+          "q": "So với thuốc tác dụng trực tiếp, thuốc gián tiếp có đặc điểm gì?",
+          "options": [
+            "Vẫn hiệu quả khi hết catecholamine dự trữ",
+            "Giảm hiệu quả khi hết dự trữ catecholamine (tachyphylaxis)",
+            "Không gây tăng huyết áp",
+            "Chỉ tác dụng trên β2",
+            "Không qua hàng rào máu-não"
+          ],
+          "answer": 1,
+          "explain": "Phụ thuộc vào dự trữ norepinephrine → dễ bị tachyphylaxis."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi bị tăng huyết áp tự dùng pseudoephedrine thông mũi",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 35 tuổi.<br><br><b>Tiền sử:</b> Tăng huyết áp đang điều trị.<br><br><b>Bệnh sử:</b> Viêm mũi dị ứng, tự mua thuốc chứa pseudoephedrine để thông mũi.",
+      "questions": [
+        {
+          "q": "Pseudoephedrine thuộc nhóm nào?",
+          "options": [
+            "β2-agonist chọn lọc",
+            "Thuốc giống giao cảm hỗn hợp (trực tiếp + gián tiếp)",
+            "α2-agonist trung ương",
+            "Dopamine agonist",
+            "Antagonist α1"
+          ],
+          "answer": 1,
+          "explain": "Pseudoephedrine vừa kích hoạt thụ thể vừa tăng giải phóng NE."
+        },
+        {
+          "q": "Tại sao bệnh nhân tăng huyết áp cần thận trọng với pseudoephedrine?",
+          "options": [
+            "Gây hạ huyết áp",
+            "Gây co mạch và tăng huyết áp",
+            "Gây nhịp tim chậm",
+            "Gây hạ đường huyết",
+            "Không ảnh hưởng huyết áp"
+          ],
+          "answer": 1,
+          "explain": "Tác dụng α1 → co mạch, tăng huyết áp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi bị block nhĩ thất độ cao kèm nhịp chậm",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Bệnh sử:</b> Block nhĩ thất độ cao, nhịp chậm 35 lần/phút, huyết áp thấp. Bác sĩ cân nhắc dùng isoproterenol.",
+      "questions": [
+        {
+          "q": "Isoproterenol chủ yếu kích hoạt thụ thể nào?",
+          "options": [
+            "α1",
+            "β1 và β2",
+            "Chỉ α2",
+            "Dopamine",
+            "Chỉ β1"
+          ],
+          "answer": 1,
+          "explain": "Isoproterenol là β non-selective (β1 + β2)."
+        },
+        {
+          "q": "Tác dụng trên mạch máu của isoproterenol là gì?",
+          "options": [
+            "Co mạch mạnh",
+            "Giãn mạch (β2)",
+            "Không ảnh hưởng",
+            "Co mạch thận chọn lọc",
+            "Tăng sức cản mạch phổi"
+          ],
+          "answer": 1,
+          "explain": "β2 gây giãn mạch xương và nội tạng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân bị hoại tử mô tại vị trí truyền tĩnh mạch norepinephrine",
+      "body": "<b>Bệnh sử:</b> Đang truyền norepinephrine qua đường ngoại vi, sau 2 giờ xuất hiện da lạnh, tái, đau tại vị trí tiêm truyền.",
+      "questions": [
+        {
+          "q": "Biến chứng này do cơ chế nào?",
+          "options": [
+            "Nhiễm trùng",
+            "Co mạch mạnh tại chỗ do α1",
+            "Dị ứng",
+            "Tắc mạch do huyết khối",
+            "Thủng mạch"
+          ],
+          "answer": 1,
+          "explain": "Norepinephrine gây co mạch mạnh → thiếu máu cục bộ và hoại tử mô nếu thoát mạch."
+        },
+        {
+          "q": "Xử trí thoát mạch norepinephrine thường dùng thuốc gì?",
+          "options": [
+            "Epinephrine thêm",
+            "Phentolamine (α-blocker) tiêm tại chỗ",
+            "β-blocker",
+            "Atropine",
+            "Dopamine"
+          ],
+          "answer": 1,
+          "explain": "Phentolamine (α-antagonist) giúp giãn mạch tại chỗ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân hen nặng bị hạ kali máu sau xịt salbutamol liên tục",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân hen nặng được xịt salbutamol liên tục.<br><br><b>Xét nghiệm:</b> Kali máu: 2,9 mmol/L.",
+      "questions": [
+        {
+          "q": "Cơ chế hạ kali do salbutamol là gì?",
+          "options": [
+            "Tăng thải kali qua thận",
+            "Đẩy kali vào trong tế bào (kích hoạt Na/K-ATPase qua β2)",
+            "Giảm hấp thu kali",
+            "Mất kali qua đường tiêu hóa",
+            "Ức chế aldosterone"
+          ],
+          "answer": 1,
+          "explain": "β2-agonist kích hoạt Na/K-ATPase → kali chuyển vào tế bào."
+        },
+        {
+          "q": "Ngoài hạ kali, salbutamol liều cao còn có thể gây?",
+          "options": [
+            "Hạ đường huyết",
+            "Tăng đường huyết nhẹ và run",
+            "Hạ canxi",
+            "Tăng natri",
+            "Hạ magie nặng"
+          ],
+          "answer": 1,
+          "explain": "β2 gây run và có thể tăng đường huyết nhẹ."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 29 tuổi tăng huyết áp và đau ngực sau khi dùng cocaine",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 29 tuổi.<br><br><b>Bệnh sử:</b> Vào cấp cứu vì đau ngực, tăng huyết áp 190/110 mmHg, mạch 130 lần/phút sau khi sử dụng cocaine.",
+      "questions": [
+        {
+          "q": "Cocaine gây tăng catecholamine bằng cách nào?",
+          "options": [
+            "Kích hoạt trực tiếp thụ thể α và β",
+            "Ức chế tái hấp thu norepinephrine và dopamine",
+            "Tăng tổng hợp epinephrine",
+            "Ức chế COMT",
+            "Agonist α2"
+          ],
+          "answer": 1,
+          "explain": "Cocaine ức chế reuptake của NE và dopamine."
+        },
+        {
+          "q": "Tại sao không nên dùng β-blocker đơn thuần trong tăng huyết áp do cocaine?",
+          "options": [
+            "Vì β-blocker gây co mạch",
+            "Phong tỏa β để α1 không đối kháng → co mạch nặng hơn",
+            "β-blocker không hiệu quả",
+            "Gây hạ huyết áp quá mức",
+            "Gây co giật"
+          ],
+          "answer": 1,
+          "explain": "Block β → mất giãn mạch β2, còn lại α1 → tăng huyết áp nghịch lý."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi mắc glaucoma góc mở cân nhắc dùng thuốc nhỏ mắt",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Tiền sử:</b> Glaucoma góc mở.<br><br><b>Bệnh sử:</b> Bác sĩ cân nhắc dùng thuốc nhỏ mắt giống giao cảm.",
+      "questions": [
+        {
+          "q": "Thuốc giống giao cảm nào có thể dùng trong glaucoma?",
+          "options": [
+            "Phenylephrine",
+            "Apraclonidine hoặc brimonidine (α2-agonist)",
+            "Isoproterenol",
+            "Dopamine",
+            "Albuterol"
+          ],
+          "answer": 1,
+          "explain": "α2-agonist tại chỗ giảm sản xuất thủy dịch."
+        },
+        {
+          "q": "Phenylephrine nhỏ mắt gây tác dụng gì?",
+          "options": [
+            "Co đồng tử",
+            "Giãn đồng tử (mydriasis)",
+            "Giảm nhãn áp mạnh",
+            "Co mạch kết mạc nhẹ",
+            "Cả B và D"
+          ],
+          "answer": 4,
+          "explain": "α1 gây giãn đồng tử và co mạch kết mạc."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 72 tuổi nhồi máu cơ tim cấp biến chứng sốc tim",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 72 tuổi.<br><br><b>Bệnh sử:</b> Nhồi máu cơ tim cấp, xuất hiện sốc tim: huyết áp 80/50 mmHg, cung lượng tim thấp, da lạnh.",
+      "questions": [
+        {
+          "q": "Thuốc nào phù hợp để tăng co bóp tim trong sốc tim?",
+          "options": [
+            "Phenylephrine",
+            "Dobutamine hoặc dopamine liều trung bình",
+            "Clonidine",
+            "Albuterol",
+            "Methoxamine"
+          ],
+          "answer": 1,
+          "explain": "Dobutamine (β1) hoặc dopamine liều trung bình tăng co bóp tim."
+        },
+        {
+          "q": "Tại sao phenylephrine ít được dùng đơn độc trong sốc tim?",
+          "options": [
+            "Vì gây giãn mạch",
+            "Vì tăng afterload mạnh mà không tăng co bóp tim",
+            "Vì gây nhịp nhanh",
+            "Vì hạ huyết áp",
+            "Vì gây co thắt phế quản"
+          ],
+          "answer": 1,
+          "explain": "Phenylephrine chỉ co mạch (α1) → tăng afterload, có thể làm giảm cung lượng tim."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân bị hiện tượng quen thuốc nhanh khi dùng ephedrine",
+      "body": "<b>Bệnh sử:</b> Bệnh nhân dùng ephedrine nhiều lần trong gây mê để nâng huyết áp. Liều sau kém hiệu quả hơn liều đầu.",
+      "questions": [
+        {
+          "q": "Hiện tượng này gọi là gì?",
+          "options": [
+            "Tolerance dược lực",
+            "Tachyphylaxis",
+            "Desensitization thụ thể β",
+            "Tăng thải trừ",
+            "Tương tác thuốc"
+          ],
+          "answer": 1,
+          "explain": "Tachyphylaxis xảy ra nhanh với thuốc gián tiếp do hết dự trữ NE."
+        },
+        {
+          "q": "Ephedrine thuộc loại thuốc giống giao cảm nào?",
+          "options": [
+            "Trực tiếp chọn lọc α1",
+            "Hỗn hợp (trực tiếp + gián tiếp)",
+            "Chỉ gián tiếp",
+            "β2 chọn lọc",
+            "α2 trung ương"
+          ],
+          "answer": 1,
+          "explain": "Ephedrine vừa kích hoạt thụ thể vừa tăng giải phóng NE."
+        }
+      ]
+    },
+    {
+      "title": "So sánh nhịp tim của hai bệnh nhân tiêm phenylephrine và isoproterenol",
+      "body": "<b>Bệnh sử:</b> Hai bệnh nhân được tiêm thuốc giống giao cảm. Bệnh nhân A tiêm phenylephrine, mạch chậm lại. Bệnh nhân B tiêm isoproterenol, mạch nhanh lên.",
+      "questions": [
+        {
+          "q": "Sự khác biệt về nhịp tim được giải thích bởi?",
+          "options": [
+            "Phenylephrine kích hoạt β1",
+            "Phenylephrine tăng huyết áp → phản xạ chậm nhịp; isoproterenol kích hoạt β1 trực tiếp",
+            "Isoproterenol ức chế baroreceptor",
+            "Không liên quan thụ thể",
+            "Phenylephrine gây giãn mạch"
+          ],
+          "answer": 1,
+          "explain": "Phenylephrine (α1) → tăng HA → phản xạ chậm nhịp. Isoproterenol (β1) tăng nhịp trực tiếp."
+        },
+        {
+          "q": "Thụ thể nào chịu trách nhiệm chính cho phản xạ chậm nhịp khi tăng huyết áp?",
+          "options": [
+            "β1",
+            "α1",
+            "Baroreceptor → tăng hoạt động phó giao cảm",
+            "β2",
+            "Dopamine"
+          ],
+          "answer": 2,
+          "explain": "Baroreceptor cảm nhận tăng HA → tăng phó giao cảm / giảm giao cảm."
+        }
+      ]
+    },
+    {
+      "title": "Sản phụ 32 tuổi tụt huyết áp sau gây tê ngoài màng cứng",
+      "body": "<b>Hành chính:</b> Sản phụ, 32 tuổi.<br><br><b>Bệnh sử:</b> Đang chuyển dạ, huyết áp tụt sau khi gây tê ngoài màng cứng. Bác sĩ gây mê dùng ephedrine.",
+      "questions": [
+        {
+          "q": "Tại sao ephedrine thường được chọn trong tụt huyết áp do gây tê sản khoa?",
+          "options": [
+            "Vì chỉ gây co mạch",
+            "Vì tăng huyết áp và tăng cung lượng tim, ít gây co mạch tử cung",
+            "Vì gây giãn mạch tử cung",
+            "Vì an thần",
+            "Vì hạ nhịp tim"
+          ],
+          "answer": 1,
+          "explain": "Ephedrine tăng HA chủ yếu nhờ tăng cung lượng tim, ít co mạch tử cung hơn phenylephrine (trước đây được ưa chuộng)."
+        },
+        {
+          "q": "Hiện nay phenylephrine cũng được dùng phổ biến hơn vì?",
+          "options": [
+            "Gây nhịp nhanh",
+            "Ít gây nhịp nhanh thai nhi hơn ephedrine",
+            "Gây hạ đường huyết",
+            "Rẻ hơn",
+            "Không ảnh hưởng huyết áp"
+          ],
+          "answer": 1,
+          "explain": "Phenylephrine ít gây nhịp nhanh ở mẹ và thai nhi hơn ephedrine."
+        }
+      ]
+    },
+    {
+      "title": "Bài giảng về đặc tính và phân loại thụ thể adrenergic",
+      "body": "<b>Bệnh sử:</b> Bác sĩ đang giảng bài về thuốc giống giao cảm cho sinh viên. Một sinh viên hỏi về sự khác nhau giữa các thụ thể adrenergic.",
+      "questions": [
+        {
+          "q": "Kích hoạt thụ thể α1 chủ yếu gây tác dụng gì?",
+          "options": [
+            "Giãn mạch và giãn phế quản",
+            "Co mạch, giãn đồng tử, co cơ thắt",
+            "Tăng co bóp tim",
+            "Giảm giải phóng NE",
+            "Giãn cơ trơn tử cung"
+          ],
+          "answer": 1,
+          "explain": "α1 → co mạch, mydriasis, co cơ thắt niệu đạo/tử cung."
+        },
+        {
+          "q": "Kích hoạt thụ thể β2 gây tất cả các tác dụng sau, TRỪ:",
+          "options": [
+            "Giãn phế quản",
+            "Giãn mạch xương",
+            "Run cơ xương",
+            "Co mạch thận",
+            "Giãn cơ tử cung"
+          ],
+          "answer": 3,
+          "explain": "β2 gây giãn mạch (xương, nội tạng), không co mạch thận (α1 mới co)."
+        }
+      ]
+    }
+  ]
+}
