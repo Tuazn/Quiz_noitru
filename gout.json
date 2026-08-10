@@ -1,108 +1,108 @@
 {
   "name": "Gout",
-  "description": "Case lâm sàng bệnh gout, từ cơn cấp đến gout mạn tính có hạt tophi",
-  "level": "Thi nội trú",
+  "description": "Bộ câu hỏi tình huống lâm sàng Bệnh Gút dành cho ôn thi nội trú, cao học, CKI/CKII và chuyên khoa Cơ Xương Khớp.",
+  "level": "Ôn thi nội trú / Chuyên khoa",
   "type": "cases",
   "category": "Nội",
   "subcategory": "Cơ xương khớp",
   "cases": [
     {
-      "title": "Bệnh nhân nam 52 tuổi đau dữ dội ngón chân cái sau bữa tiệc",
-      "body": "<b>BN nam 52 tuổi</b>, là một giám đốc kinh doanh, được đưa vào cấp cứu lúc 2 giờ sáng vì đau dữ dội ở ngón chân cái bên phải.<br><br><b>Bệnh sử:</b> Cơn đau khởi phát đột ngột sau một <b>bữa tiệc thịnh soạn với nhiều hải sản và rượu bia</b>, BN mô tả cơn đau \"như bị tra tấn\", không thể chịu đựng được ngay cả khi một tấm chăn mỏng chạm vào. BN không sốt, không có chấn thương trước đó.<br><br><b>Tiền sử:</b> Tăng huyết áp 10 năm đang dùng <b>Hydrochlorothiazide 25 mg/ngày</b>, rối loạn lipid máu, và thừa cân với BMI 28 kg/m². Ông hút thuốc 20 bao.năm.<br><br><b>Khám:</b> BN tỉnh, mặt nhăn nhó vì đau, mạch 95 lần/phút, huyết áp 150/90 mmHg, SpO₂ 99% khí trời, nhiệt độ 37.5°C. <b>Khớp bàn ngón chân cái bên phải sưng to, tấy đỏ, căng bóng, sờ vào rất nóng và đau chói</b>. Các khớp khác, bao gồm cả khớp bàn ngón chân cái bên trái, hoàn toàn không sưng đau.<br><br><b>Cận lâm sàng:</b> Bạch cầu 12.5 G/L (Neutrophil 80%), CRP 150 mg/L, <b>acid uric huyết thanh 620 µmol/L</b>, creatinin 110 µmol/L.",
+      "title": "Bệnh nhân nam 52 tuổi đau dữ dội ở ngón chân cái bên phải sau tiệc",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 52 tuổi, giám đốc kinh doanh.<br><br><b>Bệnh sử:</b> Vào cấp cứu lúc 2 giờ sáng vì đau dữ dội ở ngón chân cái bên phải. Cơn đau khởi phát đột ngột sau một bữa tiệc thịnh soạn với nhiều hải sản và rượu bia, bệnh nhân mô tả cơn đau \"như bị tra tấn\", không thể chịu đựng được ngay cả khi một tấm chăn mỏng chạm vào. Bệnh nhân không sốt, không có chấn thương trước đó.<br><br><b>Tiền sử:</b> Tăng huyết áp 10 năm đang dùng Hydrochlorothiazide 25 mg/ngày, rối loạn lipid máu, thừa cân với BMI 28 kg/m², hút thuốc lá 20 bao.năm.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, mặt nhăn nhó vì đau, mạch 95 lần/phút, huyết áp 150/90 mmHg, SpO2 99% khí trời, nhiệt độ 37.5°C. Khớp bàn ngón chân cái bên phải sưng to, tấy đỏ, căng bóng, sờ vào rất nóng và đau chói. Các khớp khác (bao gồm cả khớp bàn ngón chân cái bên trái) hoàn toàn không sưng đau.<br><br><b>Xét nghiệm:</b> Bạch cầu: 12.5 G/L (Neutrophil 80%), CRP: 150 mg/L, acid uric huyết thanh: 620 µmol/L, creatinin: 110 µmol/L.",
       "questions": [
         {
           "q": "Chẩn đoán nào là phù hợp nhất với bệnh cảnh này?",
           "options": [
-            "Viêm mô tế bào",
-            "Viêm khớp nhiễm khuẩn",
-            "Cơn gút cấp",
-            "Viêm khớp dạng thấp"
+            "Viêm mô tế bào.",
+            "Viêm khớp dạng thấp.",
+            "Viêm khớp nhiễm khuẩn.",
+            "Cơn gút cấp."
           ],
-          "answer": 2,
-          "explain": "Bệnh cảnh khởi phát cấp tính, dữ dội ở một khớp (monoarthritis), đặc biệt là <b>khớp bàn ngón chân cái (podagra)</b>, sau một bữa ăn thịnh soạn, ở một nam giới trung niên có nhiều yếu tố nguy cơ là hình ảnh kinh điển của một <b>cơn gút cấp</b>."
+          "answer": 3,
+          "explain": "Bệnh cảnh khởi phát cấp tính, dữ dội ở một khớp (monoarthritis), đặc biệt là khớp bàn ngón chân cái (podagra), sau một bữa ăn thịnh soạn, ở một nam giới trung niên có nhiều yếu tố nguy cơ là hình ảnh kinh điển của một cơn gút cấp."
         },
         {
           "q": "Cơ chế sinh lý bệnh trung tâm gây ra cơn viêm khớp cấp trong bệnh gút là gì?",
           "options": [
-            "Phản ứng viêm dữ dội do các tế bào miễn dịch (chủ yếu là bạch cầu đa nhân trung tính) thực bào các vi tinh thể Monosodium Urate (MSU) trong khớp",
-            "Sự lắng đọng của các phức hợp miễn dịch trong màng hoạt dịch",
-            "Sự xâm nhập trực tiếp của vi khuẩn vào khoang khớp",
-            "Quá trình thoái hóa của sụn khớp do quá tải cơ học"
+            "Sự lắng đọng của các phức hợp miễn dịch trong màng hoạt dịch.",
+            "Sự xâm nhập trực tiếp của vi khuẩn vào khoang khớp.",
+            "Quá trình thoái hóa của sụn khớp do quá tải cơ học.",
+            "Phản ứng viêm dữ dội do các tế bào miễn dịch (chủ yếu là bạch cầu đa nhân trung tính) thực bào các vi tinh thể Monosodium Urate (MSU) trong khớp."
           ],
-          "answer": 0,
-          "explain": "Khi nồng độ acid uric trong dịch khớp vượt quá ngưỡng bão hòa, các <b>tinh thể MSU sẽ kết tủa</b>. Các tinh thể này hoạt hóa hệ thống miễn dịch bẩm sinh, đặc biệt là <b>inflammasome NLRP3</b> trong các đại thực bào, dẫn đến việc giải phóng ồ ạt <b>Interleukin-1β</b>. IL-1β thu hút bạch cầu đa nhân trung tính đến khớp, chúng thực bào các tinh thể và giải phóng thêm các chất trung gian gây viêm, tạo ra một vòng xoắn viêm dữ dội."
+          "answer": 3,
+          "explain": "Khi nồng độ acid uric trong dịch khớp vượt quá ngưỡng bão hòa, các tinh thể MSU sẽ kết tủa. Các tinh thể này hoạt hóa hệ thống miễn dịch bẩm sinh, đặc biệt là inflammasome NLRP3 trong các đại thực bào, dẫn đến việc giải phóng ạt Interleukin-1β. IL-1β thu hút bạch cầu đa nhân trung tính đến khớp, chúng thực bào các tinh thể và giải phóng thêm các chất trung gian gây viêm, tạo ra một vòng xoắn viêm dữ dội."
         },
         {
           "q": "Yếu tố nào sau đây ở bệnh nhân này vừa là yếu tố nguy cơ gây tăng acid uric máu, vừa có thể là yếu tố khởi phát cơn gút cấp?",
           "options": [
-            "Thừa cân, béo phì",
-            "Hút thuốc lá",
-            "Việc sử dụng thuốc lợi tiểu Thiazide",
-            "Bữa ăn giàu purine và uống rượu"
+            "Bữa ăn giàu purine và uống rượu.",
+            "Hút thuốc lá.",
+            "Thừa cân, béo phì.",
+            "Việc sử dụng thuốc lợi tiểu Thiazide."
           ],
-          "answer": 3,
-          "explain": "<b>Bữa ăn giàu purine</b> (hải sản, thịt đỏ, nội tạng) làm tăng nguồn sản xuất acid uric. <b>Rượu, đặc biệt là bia</b>, vừa làm tăng sản xuất (do chứa purine) vừa làm giảm thải acid uric qua thận. Sự thay đổi đột ngột nồng độ acid uric máu sau bữa ăn này là yếu tố khởi phát cơn cấp điển hình."
+          "answer": 0,
+          "explain": "Bữa ăn giàu purine (hải sản, thịt đỏ, nội tạng) làm tăng nguồn sản xuất acid uric. Rượu, đặc biệt là bia, vừa làm tăng sản xuất (do chứa purine) vừa làm giảm thải acid uric qua thận. Sự thay đổi đột ngột nồng độ acid uric máu sau bữa ăn này là yếu tố khởi phát cơn cấp điển hình."
         },
         {
           "q": "Thăm dò cận lâm sàng nào sau đây được coi là \"tiêu chuẩn vàng\" để chẩn đoán xác định gút?",
           "options": [
-            "Đo nồng độ acid uric máu",
-            "Chụp X-quang khớp",
-            "Siêu âm khớp",
-            "Chọc hút dịch khớp và soi dưới kính hiển vi nền đen tìm tinh thể urat"
+            "Chụp X-quang khớp.",
+            "Siêu âm khớp.",
+            "Đo nồng độ acid uric máu.",
+            "Chọc hút dịch khớp và soi dưới kính hiển vi nền đen tìm tinh thể urat."
           ],
           "answer": 3,
-          "explain": "Mặc dù acid uric máu thường tăng, nhưng nó có thể bình thường hoặc thậm chí thấp trong cơn cấp. <b>Tiêu chuẩn vàng</b> để chẩn đoán xác định là tìm thấy sự hiện diện của các <b>tinh thể urat hình kim, lưỡng chiết quang âm tính</b> khi soi dịch khớp dưới kính hiển vi nền đen phân cực."
+          "explain": "Mặc dù acid uric máu thường tăng, nhưng nó có thể bình thường hoặc thậm chí thấp trong cơn cấp. Tiêu chuẩn vàng để chẩn đoán xác định là tìm thấy sự hiện diện của các tinh thể urat hình kim, lưỡng chiết quang âm tính khi soi dịch khớp dưới kính hiển vi nền đen phân cực."
         },
         {
           "q": "Thuốc nào sau đây là lựa chọn hàng đầu để cắt cơn gút cấp ở bệnh nhân này, sau khi đã loại trừ các chống chỉ định?",
           "options": [
-            "Allopurinol",
-            "Aspirin liều thấp",
-            "NSAID (ví dụ: Naproxen, Indomethacin) hoặc Colchicine",
-            "Paracetamol"
+            "NSAID (ví dụ: Naproxen, Indomethacin) hoặc Colchicine.",
+            "Aspirin liều thấp.",
+            "Allopurinol.",
+            "Paracetamol."
           ],
-          "answer": 2,
-          "explain": "Mục tiêu điều trị cơn gút cấp là kháng viêm nhanh và mạnh. Các lựa chọn hàng đầu bao gồm <b>NSAID, Colchicine, hoặc Corticosteroid</b>. <b>Allopurinol</b> là thuốc hạ acid uric máu, không có tác dụng kháng viêm và việc bắt đầu dùng trong cơn cấp có thể làm cơn nặng hơn. Aspirin liều thấp có thể làm tăng acid uric máu. Paracetamol không đủ hiệu quả kháng viêm."
+          "answer": 0,
+          "explain": "Mục tiêu điều trị cơn gút cấp là kháng viêm nhanh và mạnh. Các lựa chọn hàng đầu bao gồm NSAID, Colchicine, hoặc Corticosteroid. Allopurinol là thuốc hạ acid uric máu, không có tác dụng cắt cơn. Nếu bệnh nhân đang dùng thuốc hạ urat thì nên tiếp tục khi có chỉ định, có thể khởi trị trong cơn cấp cùng điều trị chống viêm và dự phòng phù hợp. Aspirin liều thấp có thể làm tăng acid uric máu. Paracetamol không đủ hiệu quả kháng viêm."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nam 65 tuổi đau nhiều khớp mạn tính kèm khối u nổi dưới da",
-      "body": "<b>BN nam 65 tuổi</b>, có tiền sử bệnh gút 15 năm nhưng <b>điều trị không liên tục</b>, thường tự ý mua thuốc giảm đau khi có cơn.<br><br><b>Tiền sử:</b> Bệnh thận mạn giai đoạn 3 (mức lọc cầu thận ước tính 45 mL/phút/1.73m²), tăng huyết áp đang dùng Losartan.<br><br><b>Bệnh sử hiện tại:</b> BN đến khám vì đau nhiều khớp mạn tính và xuất hiện <b>nhiều khối u nổi dưới da</b>. BN không có cơn viêm cấp tính trong 1 tháng nay.<br><br><b>Khám:</b> Nhiều <b>hạt tophi nổi gồ ghề, chắc, không đau</b> ở vành tai hai bên, mỏm khuỷu tay, quanh khớp ngón tay và ngón chân, một số hạt đã vỡ và chảy ra <b>chất bột màu trắng như phấn</b>. Khớp cổ tay, bàn ngón tay hai bên bị biến dạng, hạn chế vận động nhiều. Khám bụng mềm, không có dấu hiệu gan to hay lách to.<br><br><b>Cận lâm sàng:</b> Acid uric 710 µmol/L, creatinin 150 µmol/L. <b>X-quang bàn tay:</b> hình ảnh bào mòn xương dạng hốc, hình khuyết xương có viền xơ cứng ở đầu xương.",
+      "title": "Bệnh nhân nam 65 tuổi đau nhiều khớp mạn tính và xuất hiện khối u dưới da",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi.<br><br><b>Bệnh sử:</b> Đến khám vì đau nhiều khớp mạn tính và xuất hiện nhiều khối u nổi dưới da. Bệnh nhân không có cơn viêm cấp tính trong 1 tháng nay.<br><br><b>Tiền sử:</b> Bệnh gút 15 năm điều trị không liên tục (thường tự ý mua thuốc giảm đau khi có cơn), bệnh thận mạn giai đoạn 3 (mức lọc cầu thận ước tính 45 mL/phút/1.73m²), tăng huyết áp đang dùng Losartan.<br><br><b>Khám lâm sàng:</b> Khám thấy nhiều hạt tophi nổi gồ ghề, chắc, không đau ở vành tai hai bên, mỏm khuỷu tay, quanh khớp ngón tay và ngón chân, một số hạt đã vỡ và chảy ra chất bột màu trắng như phấn. Khớp cổ tay, bàn ngón tay hai bên bị biến dạng, hạn chế vận động nhiều. Khám bụng mềm, không có dấu hiệu gan to hay lách to.<br><br><b>Xét nghiệm:</b> Acid uric máu: 710 µmol/L, creatinin: 150 µmol/L. X-quang bàn tay cho thấy hình ảnh bào mòn xương dạng hốc, hình khuyết xương có viền xơ cứng ở đầu xương.",
       "questions": [
         {
           "q": "Giai đoạn bệnh gút của bệnh nhân này là gì?",
           "options": [
-            "Giai đoạn tăng acid uric máu không triệu chứng",
-            "Giai đoạn gút cấp",
-            "Giai đoạn khoảng giữa các cơn gút",
-            "Giai đoạn gút mạn có hạt tophi"
+            "Giai đoạn tăng acid uric máu không triệu chứng.",
+            "Giai đoạn gút cấp.",
+            "Giai đoạn khoảng giữa các cơn gút.",
+            "Giai đoạn gút mạn có hạt tophi."
           ],
           "answer": 3,
-          "explain": "BN có biểu hiện của <b>bệnh khớp mạn tính</b> (biến dạng khớp), có <b>hạt tophi</b> và các bằng chứng tổn thương cấu trúc trên X-quang, đây là đặc điểm của giai đoạn <b>gút mạn tính</b>."
+          "explain": "Bệnh nhân có biểu hiện của bệnh khớp mạn tính (biến dạng khớp), có hạt tophi và các bằng chứng tổn thương cấu trúc trên X-quang, đây là đặc điểm của giai đoạn gút mạn tính."
         },
         {
           "q": "Cơ chế hình thành hạt tophi là gì?",
           "options": [
-            "Sự lắng đọng mạn tính của các tinh thể MSU trong các mô liên kết, gây ra một phản ứng viêm u hạt mạn tính",
-            "Sự tăng sinh của các tế bào sụn khớp",
-            "Sự vôi hóa của các bao gân",
-            "Sự xâm nhập của vi khuẩn vào mô dưới da"
+            "Sự tăng sinh của các tế bào sụn khớp.",
+            "Sự lắng đọng mạn tính của các tinh thể MSU trong các mô liên kết, gây ra một phản ứng viêm u hạt mạn tính.",
+            "Sự vôi hóa của các bao gân.",
+            "Sự xâm nhập của vi khuẩn vào mô dưới da."
           ],
-          "answer": 0,
-          "explain": "Hạt tophi không phải là một khối lắng đọng urat đơn thuần. Nó là một <b>cấu trúc viêm có tổ chức</b>, bao gồm một <b>lõi trung tâm chứa các tinh thể MSU</b>, được bao quanh bởi một lớp tế bào miễn dịch (đại thực bào, tế bào khổng lồ, tế bào lympho), tạo thành một phản ứng viêm u hạt đối với dị vật."
+          "answer": 1,
+          "explain": "Hạt tophi không phải là một khối lắng đọng urat đơn thuần. Nó là một cấu trúc viêm có tổ chức, bao gồm một lõi trung tâm chứa các tinh thể MSU, được bao quanh bởi một lớp tế bào miễn dịch (đại thực bào, tế bào khổng lồ, tế bào lympho), tạo thành một phản ứng viêm u hạt đối với dị vật."
         },
         {
           "q": "Tại sao bệnh nhân gút mạn tính có nguy cơ cao bị bệnh thận mạn?",
           "options": [
-            "Thuốc hạ acid uric máu gây độc trực tiếp cho thận",
-            "Tăng huyết áp không kiểm soát tốt là nguyên nhân duy nhất",
-            "Sự lắng đọng của các tinh thể urat trong nhu mô và ống thận, cùng với tình trạng viêm mạn tính và các bệnh đồng mắc",
-            "Bệnh gút không liên quan đến bệnh thận mạn"
+            "Bệnh gút không liên quan đến bệnh thận mạn.",
+            "Thuốc hạ acid uric máu gây độc trực tiếp cho thận.",
+            "Tăng huyết áp không kiểm soát tốt là nguyên nhân duy nhất.",
+            "Sự lắng đọng của các tinh thể urat trong nhu mô và ống thận, cùng với tình trạng viêm mạn tính và các bệnh đồng mắc."
           ],
-          "answer": 2,
-          "explain": "<b>Bệnh thận do gút (gouty nephropathy)</b> là một thực thể phức tạp. Acid uric cao mạn tính có thể gây tổn thương thận qua nhiều cơ chế: <b>lắng đọng tinh thể trong ống thận</b> gây bệnh thận ống kẽ, <b>sỏi urat</b>, và gây ra <b>rối loạn chức năng nội mô, viêm và xơ hóa cầu thận</b>. Các bệnh đồng mắc như tăng huyết áp, đái tháo đường càng làm nặng thêm tình trạng này."
+          "answer": 3,
+          "explain": "Bệnh thận do gút (gouty nephropathy) là một thực thể phức tạp. Acid uric cao mạn tính có thể gây tổn thương thận qua nhiều cơ chế: lắng đọng tinh thể trong ống thận gây bệnh thận ống kẽ, sỏi urat, và gây ra rối loạn chức năng nội mô, viêm và xơ hóa cầu thận. Các bệnh đồng mắc như tăng huyết áp, đái tháo đường càng làm nặng thêm tình trạng này."
         },
         {
           "q": "Mục tiêu nồng độ acid uric huyết thanh cần đạt được trong điều trị cho bệnh nhân này là bao nhiêu?",
@@ -113,506 +113,1116 @@
             "< 240 µmol/L"
           ],
           "answer": 2,
-          "explain": "Theo khuyến cáo của ACR và EULAR, ở những BN <b>gút mạn có hạt tophi</b>, bệnh khớp tiến triển hoặc các cơn cấp thường xuyên, mục tiêu điều trị là hạ và duy trì nồng độ acid uric huyết thanh <b>< 300 µmol/L (5 mg/dL)</b> để giúp hòa tan các hạt tophi và ngăn ngừa các cơn cấp."
+          "explain": "Theo khuyến cáo của ACR và EULAR, ở những bệnh nhân gút mạn có hạt tophi, bệnh khớp tiến triển hoặc các cơn cấp thường xuyên, mục tiêu điều trị là hạ và duy trì nồng độ acid uric huyết thanh < 300 µmol/L (< 5 mg/dL) để giúp hòa tan các hạt tophi và ngăn ngừa các cơn cấp."
         },
         {
           "q": "Với tình trạng chức năng thận của bệnh nhân, loại thuốc hạ acid uric máu nào sau đây là lựa chọn khởi đầu phù hợp và cần được hiệu chỉnh liều cẩn thận?",
           "options": [
-            "Probenecid",
-            "Allopurinol",
-            "Pegloticase",
-            "Benzbromarone"
+            "Pegloticase.",
+            "Allopurinol.",
+            "Probenecid.",
+            "Benzbromarone."
           ],
           "answer": 1,
-          "explain": "<b>Allopurinol</b> là thuốc ức chế xanthine oxidase, là lựa chọn hàng đầu. Tuy nhiên, do thuốc được thải trừ qua thận, cần phải <b>khởi đầu với liều thấp (50-100 mg/ngày)</b> ở BN suy thận và tăng liều từ từ dựa trên đáp ứng và dung nạp. <b>Probenecid</b> (thuốc tăng thải acid uric) thường không hiệu quả và chống chỉ định khi mức lọc cầu thận < 50 mL/phút."
+          "explain": "Allopurinol là thuốc ức chế xanthine oxidase, là lựa chọn hàng đầu. Tuy nhiên, do thuốc được thải trừ qua thận, cần phải khởi đầu với liều thấp (50-100 mg/ngày) ở bệnh nhân suy thận và tăng liều từ từ dựa trên đáp ứng và dung nạp. Probenecid (thuốc tăng thải acid uric) thường không hiệu quả và chống chỉ định khi mức lọc cầu thận < 50 mL/phút."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nữ 68 tuổi sưng đau khớp gối phải cấp tính, có suy tim",
-      "body": "<b>BN nữ 68 tuổi</b>, tiền sử thoái hóa khớp gối và loãng xương, được đưa vào viện vì sưng đau dữ dội khớp gối phải.<br><br><b>Bệnh sử:</b> Bệnh khởi phát cấp tính 2 ngày nay, không có chấn thương. BN không sốt.<br><br><b>Tiền sử:</b> Suy tim và đang dùng <b>Furosemide 40 mg/ngày và Aspirin 81 mg/ngày</b>.<br><br><b>Khám:</b> Khớp gối phải sưng to, tràn dịch nhiều, ấm và đau khi vận động. Các khớp khác bình thường, không có hạt tophi. Bụng mềm, không có dấu hiệu bất thường.<br><br><b>Cận lâm sàng:</b> Acid uric 550 µmol/L, CRP 80 mg/L, creatinin 90 µmol/L. Bác sĩ tiến hành chọc hút dịch khớp gối.",
+      "title": "Bệnh nhân nữ 68 tuổi sưng đau dữ dội khớp gối phải",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 68 tuổi.<br><br><b>Bệnh sử:</b> Được đưa vào viện vì sưng đau dữ dội khớp gối phải. Bệnh khởi phát cấp tính 2 ngày nay, không có chấn thương. Bệnh nhân không sốt.<br><br><b>Tiền sử:</b> Thoái hóa khớp gối, loãng xương, suy tim đang dùng Furosemide 40 mg/ngày và Aspirin 81 mg/ngày.<br><br><b>Khám lâm sàng:</b> Khớp gối phải sưng to, tràn dịch nhiều, ấm và đau khi vận động. Các khớp khác bình thường, không có hạt tophi. Bụng mềm, không có dấu hiệu bất thường.<br><br><b>Xét nghiệm:</b> Acid uric máu: 550 µmol/L, CRP: 80 mg/L, creatinin: 90 µmol/L. Được tiến hành chọc hút dịch khớp gối.",
       "questions": [
         {
           "q": "Ngoài bệnh gút, chẩn đoán phân biệt quan trọng nhất cần phải loại trừ ở bệnh nhân này là gì?",
           "options": [
-            "Viêm khớp dạng thấp",
-            "Viêm khớp nhiễm khuẩn",
-            "Viêm khớp vảy nến",
-            "Bệnh giả gút (Pseudogout)"
+            "Bệnh giả gút (Pseudogout).",
+            "Viêm khớp nhiễm khuẩn.",
+            "Viêm khớp dạng thấp.",
+            "Viêm khớp vảy nến."
           ],
           "answer": 1,
-          "explain": "Một tình trạng viêm một khớp cấp tính, có tràn dịch ở người lớn tuổi luôn phải được coi là <b>viêm khớp nhiễm khuẩn</b> cho đến khi có bằng chứng ngược lại. Việc chọc hút dịch khớp để <b>nhuộm Gram, cấy vi khuẩn và phân tích tế bào</b> là bắt buộc."
+          "explain": "Một tình trạng viêm một khớp cấp tính, có tràn dịch ở người lớn tuổi luôn phải được coi là viêm khớp nhiễm khuẩn cho đến khi có bằng chứng ngược lại. Việc chọc hút dịch khớp để nhuộm Gram, cấy vi khuẩn và phân tích tế bào là bắt buộc."
         },
         {
           "q": "Cơ chế nào giải thích tại sao thuốc lợi tiểu quai (Furosemide) và Aspirin liều thấp có thể làm tăng acid uric máu?",
           "options": [
-            "Cả hai thuốc đều làm tăng sản xuất acid uric tại gan",
-            "Furosemide làm tăng tái hấp thu acid uric ở ống lượn gần, trong khi Aspirin liều thấp cạnh tranh bài tiết với acid uric ở ống lượn xa",
-            "Cả hai thuốc đều làm giảm lưu lượng máu đến thận",
-            "Cả hai thuốc đều làm tăng sự dị hóa của purine trong cơ"
+            "Cả hai thuốc đều làm giảm lưu lượng máu đến thận.",
+            "Cả hai thuốc đều làm tăng sản xuất acid uric tại gan.",
+            "Cả hai thuốc đều làm tăng sự dị hóa của purine trong cơ.",
+            "Furosemide làm tăng tái hấp thu acid uric ở ống lượn gần, trong khi Aspirin liều thấp cạnh tranh bài tiết với acid uric ở ống lượn xa."
           ],
-          "answer": 1,
-          "explain": "<b>Lợi tiểu</b> (cả Thiazide và lợi tiểu quai) làm giảm thể tích tuần hoàn, dẫn đến <b>tăng tái hấp thu acid uric ở ống lượn gần</b>. <b>Aspirin</b> có tác dụng kép: ở liều thấp (< 2 g/ngày), nó <b>ức chế sự bài tiết của acid uric tại ống thận</b>, trong khi ở liều cao (> 3 g/ngày), nó lại có tác dụng tăng thải acid uric."
+          "answer": 3,
+          "explain": "Lợi tiểu (cả Thiazide và lợi tiểu quai) làm giảm thể tích tuần hoàn, dẫn đến tăng tái hấp thu acid uric ở ống lượn gần. Aspirin có tác dụng kép: ở liều thấp (< 2 g/ngày), nó ức chế sự bài tiết của acid uric tại ống thận, trong khi ở liều cao (> 3 g/ngày), nó lại có tác dụng tăng thải acid uric."
         },
         {
           "q": "Kết quả soi dịch khớp nào sau đây sẽ giúp chẩn đoán phân biệt giữa gút và giả gút?",
           "options": [
-            "Gút: tinh thể hình kim, lưỡng chiết quang âm tính; Giả gút: tinh thể hình thoi, lưỡng chiết quang dương tính yếu",
-            "Gút: tinh thể hình thoi, lưỡng chiết quang dương tính; Giả gút: tinh thể hình kim, lưỡng chiết quang âm tính",
-            "Cả hai đều có tinh thể hình kim, nhưng khác nhau về tính lưỡng chiết quang",
-            "Dịch khớp của giả gút không có tinh thể"
+            "Cả hai đều có tinh thể hình kim, nhưng khác nhau về tính lưỡng chiết quang.",
+            "Gút: tinh thể hình thoi, lưỡng chiết quang dương tính; Giả gút: tinh thể hình kim, lưỡng chiết quang âm tính.",
+            "Gút: tinh thể hình kim, lưỡng chiết quang âm tính; Giả gút: tinh thể hình thoi, lưỡng chiết quang dương tính yếu.",
+            "Dịch khớp của giả gút không có tinh thể."
           ],
-          "answer": 0,
-          "explain": "Đây là đặc điểm phân biệt kinh điển khi soi dịch khớp dưới kính hiển vi nền đen phân cực. <b>Tinh thể MSU của gút</b> có hình kim và <b>lưỡng chiết quang âm tính</b> (màu vàng khi song song với trục của kính lọc). <b>Tinh thể CPPD của giả gút</b> có hình que hoặc hình thoi và <b>lưỡng chiết quang dương tính yếu</b> (màu xanh khi song song)."
+          "answer": 2,
+          "explain": "Đây là đặc điểm phân biệt kinh điển khi soi dịch khớp dưới kính hiển vi nền đen phân cực. Tinh thể MSU của gút có hình kim và lưỡng chiết quang âm tính (màu vàng khi song song với trục của kính lọc). Tinh thể CPPD của giả gút có hình que hoặc hình thoi và lưỡng chiết quang dương tính yếu (màu xanh khi song song)."
         },
         {
           "q": "Bệnh giả gút là do sự lắng đọng của loại tinh thể nào?",
           "options": [
-            "Monosodium Urate (MSU)",
-            "Calcium Pyrophosphate Dihydrate (CPPD)",
-            "Calcium Oxalate",
-            "Cholesterol"
+            "Monosodium Urate (MSU).",
+            "Cholesterol.",
+            "Calcium Oxalate.",
+            "Calcium Pyrophosphate Dihydrate (CPPD)."
           ],
-          "answer": 1,
-          "explain": "Bệnh giả gút, hay <b>bệnh lắng đọng tinh thể CPPD</b>, là một bệnh viêm khớp do sự hình thành và lắng đọng của các tinh thể <b>Calcium Pyrophosphate Dihydrate</b> trong sụn khớp và các mô mềm."
+          "answer": 3,
+          "explain": "Bệnh giả gút, hay bệnh lắng đọng tinh thể CPPD, là một bệnh viêm khớp do sự hình thành và lắng đọng của các tinh thể Calcium Pyrophosphate Dihydrate trong sụn khớp và các mô mềm."
         },
         {
           "q": "Do bệnh nhân có tiền sử suy tim và đang dùng Aspirin, lựa chọn điều trị nào để cắt cơn viêm khớp cấp là an toàn và phù hợp nhất?",
           "options": [
-            "Tăng liều Aspirin",
-            "Dùng một loại NSAID liều cao như Indomethacin",
-            "Tiêm Corticosteroid nội khớp sau khi đã loại trừ nhiễm trùng",
-            "Bắt đầu ngay Allopurinol"
+            "Tiêm Corticosteroid nội khớp sau khi đã loại trừ nhiễm trùng.",
+            "Dùng một loại NSAID liều cao như Indomethacin.",
+            "Tăng liều Aspirin.",
+            "Bắt đầu ngay Allopurinol."
           ],
-          "answer": 2,
-          "explain": "<b>NSAID</b> có nguy cơ làm nặng thêm tình trạng suy tim (do giữ muối nước) và tăng nguy cơ chảy máu tiêu hóa (khi dùng cùng Aspirin). <b>Colchicine</b> cần thận trọng ở người lớn tuổi và suy thận. Do đó, <b>tiêm Corticosteroid trực tiếp vào khớp gối</b> là một lựa chọn rất hiệu quả và an toàn về mặt toàn thân, miễn là đã loại trừ được viêm khớp nhiễm khuẩn."
+          "answer": 0,
+          "explain": "NSAID có nguy cơ làm nặng thêm tình trạng suy tim (do giữ muối nước) và tăng nguy cơ chảy máu tiêu hóa (khi dùng cùng Aspirin). Colchicine cần thận trọng ở người lớn tuổi và suy thận. Do đó, tiêm Corticosteroid trực tiếp vào khớp gối là một lựa chọn rất hiệu quả và an toàn về mặt toàn thân, miễn là đã loại trừ được viêm khớp nhiễm khuẩn."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nam 42 tuổi gút tái phát nhiều, người Hán gốc Đài Loan",
-      "body": "<b>BN nam 42 tuổi</b>, được chẩn đoán gút 3 năm trước, có các <b>cơn cấp tái phát 3-4 lần/năm</b> dù đã cố gắng thay đổi chế độ ăn.<br><br><b>Tiền sử:</b> BN không có bệnh thận hay các bệnh lý nền đáng kể khác.<br><br><b>Cận lâm sàng:</b> Nồng độ acid uric máu giữa các cơn là 540 µmol/L.<br><br><b>Quyết định điều trị:</b> Bác sĩ quyết định bắt đầu điều trị hạ acid uric máu cho BN. <b>BN là người Hán gốc Đài Loan</b>.",
+      "title": "Bệnh nhân nam 42 tuổi gút tái phát 3-4 lần mỗi năm",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 42 tuổi, người Hán gốc Đài Loan.<br><br><b>Bệnh sử:</b> Được chẩn đoán gút 3 năm trước, có các cơn cấp tái phát 3-4 lần/năm dù đã cố gắng thay đổi chế độ ăn. Bác sĩ quyết định bắt đầu điều trị hạ acid uric máu cho bệnh nhân.<br><br><b>Tiền sử:</b> Không có bệnh thận hay các bệnh lý nền đáng kể khác.<br><br><b>Xét nghiệm:</b> Nồng độ acid uric máu giữa các cơn là 540 µmol/L.",
       "questions": [
         {
           "q": "Chỉ định bắt đầu điều trị hạ acid uric máu (ULT) ở bệnh nhân này là gì?",
           "options": [
-            "Nồng độ acid uric > 540 µmol/L",
-            "Bệnh nhân là nam giới trên 40 tuổi",
-            "Có ≥ 2 cơn gút cấp trong một năm",
-            "Bệnh nhân yêu cầu"
+            "Bệnh nhân là nam giới trên 40 tuổi.",
+            "Bệnh nhân yêu cầu.",
+            "Có ≥ 2 cơn gút cấp trong một năm.",
+            "Nồng độ acid uric > 540 µmol/L."
           ],
           "answer": 2,
-          "explain": "Theo khuyến cáo của <b>ACR 2020</b>, chỉ định mạnh cho việc bắt đầu ULT bao gồm sự hiện diện của <b>hạt tophi</b>, <b>tổn thương khớp do gút trên hình ảnh học</b>, hoặc các <b>cơn cấp xảy ra thường xuyên (≥ 2 cơn/năm)</b>."
+          "explain": "Theo khuyến cáo của ACR 2020, chỉ định mạnh cho việc bắt đầu ULT bao gồm sự hiện diện của hạt tophi, tổn thương khớp do gút trên hình ảnh học, hoặc các cơn cấp xảy ra thường xuyên (≥ 2 cơn/năm)."
         },
         {
           "q": "Xét nghiệm gen nào được khuyến cáo thực hiện cho bệnh nhân này trước khi bắt đầu điều trị bằng Allopurinol?",
           "options": [
-            "Xét nghiệm gen CYP2C9",
-            "Xét nghiệm gen HLA-B58:01",
-            "Xét nghiệm gen TPMT",
-            "Xét nghiệm gen BRCA1"
+            "Xét nghiệm gen TPMT.",
+            "Xét nghiệm gen BRCA1.",
+            "Xét nghiệm gen CYP2C9.",
+            "Xét nghiệm gen HLA-B*58:01."
           ],
-          "answer": 1,
-          "explain": "Allele <b>HLA-B58:01</b> có liên quan rất chặt chẽ với nguy cơ bị các phản ứng quá mẫn nặng do Allopurinol, bao gồm <b>hội chứng Stevens-Johnson (SJS)</b> và <b>hoại tử biểu bì nhiễm độc (TEN)</b>. Tần suất của allele này cao ở một số quần thể châu Á, bao gồm <b>người Hán, Hàn Quốc và Thái Lan</b>."
+          "answer": 3,
+          "explain": "Allele HLA-B*58:01 có liên quan rất chặt chẽ với nguy cơ bị các phản ứng quá mẫn nặng do Allopurinol, bao gồm hội chứng Stevens-Johnson (SJS) và hoại tử biểu bì nhiễm độc (TEN). Tần suất của allele này cao ở một số quần thể châu Á, bao gồm người Hán, Hàn Quốc và Thái Lan."
         },
         {
-          "q": "Cơ chế nào giải thích mối liên quan giữa allele HLA-B58:01 và phản ứng quá mẫn nặng với Allopurinol?",
+          "q": "Cơ chế nào giải thích mối liên quan giữa allele HLA-B*58:01 và phản ứng quá mẫn nặng với Allopurinol?",
           "options": [
-            "Allele này làm giảm chuyển hóa của Allopurinol, gây tích tụ chất độc",
-            "Phân tử HLA-B58:01 có khả năng trình diện chất chuyển hóa của Allopurinol (oxypurinol) cho các tế bào T, gây ra một phản ứng miễn dịch dữ dội",
-            "Allele này làm tăng hấp thu Allopurinol từ ruột",
-            "Allele này làm giảm hiệu quả của Allopurinol"
-          ],
-          "answer": 1,
-          "explain": "Giả thuyết <b>\"trình diện dược lý\"</b> cho rằng phân tử HLA-B58:01 có một \"túi\" gắn kết đặc hiệu, cho phép nó liên kết trực tiếp với <b>oxypurinol</b> và trình diện phức hợp này lên bề mặt tế bào. Các tế bào T nhận diện phức hợp \"thuốc-HLA\" này là lạ và kích hoạt một phản ứng miễn dịch qua trung gian tế bào, gây tổn thương da và nội tạng lan rộng."
-        },
-        {
-          "q": "Nếu bệnh nhân có kết quả xét nghiệm gen HLA-B58:01 dương tính, lựa chọn thay thế nào cho Allopurinol là phù hợp nhất?",
-          "options": [
-            "Tăng liều Allopurinol",
-            "Dùng Allopurinol cùng với Corticosteroid",
-            "Dùng Febuxostat hoặc một thuốc tăng thải acid uric",
-            "Chỉ thay đổi chế độ ăn"
+            "Allele này làm tăng hấp thu Allopurinol từ ruột.",
+            "Allele này làm giảm hiệu quả của Allopurinol.",
+            "Phân tử HLA-B*58:01 có khả năng trình diện chất chuyển hóa của Allopurinol (oxypurinol) cho các tế bào T, gây ra một phản ứng miễn dịch dữ dội.",
+            "Allele này làm giảm chuyển hóa của Allopurinol, gây tích tụ chất độc."
           ],
           "answer": 2,
-          "explain": "Nếu BN dương tính với HLA-B*58:01, Allopurinol bị chống chỉ định. <b>Febuxostat</b>, một thuốc ức chế xanthine oxidase không purine khác, là lựa chọn thay thế hàng đầu vì không có mối liên quan với allele này. Các thuốc tăng thải acid uric (uricosurics) cũng là một lựa chọn."
+          "explain": "Giả thuyết \"trình diện dược lý\" cho rằng phân tử HLA-B*58:01 có một \"túi\" gắn kết đặc hiệu, cho phép nó liên kết trực tiếp với oxypurinol và trình diện phức hợp này lên bề mặt tế bào. Các tế bào T nhận diện phức hợp \"thuốc-HLA\" này là lạ và kích hoạt một phản ứng miễn dịch qua trung gian tế bào, gây tổn thương da và nội tạng lan rộng."
+        },
+        {
+          "q": "Nếu bệnh nhân có kết quả xét nghiệm gen HLA-B*58:01 dương tính, lựa chọn thay thế nào cho Allopurinol là phù hợp nhất?",
+          "options": [
+            "Tăng liều Allopurinol.",
+            "Dùng Allopurinol cùng với Corticosteroid.",
+            "Chỉ thay đổi chế độ ăn.",
+            "Dùng Febuxostat hoặc một thuốc tăng thải acid uric."
+          ],
+          "answer": 3,
+          "explain": "Nếu bệnh nhân dương tính với HLA-B*58:01, Allopurinol bị chống chỉ định. Febuxostat, một thuốc ức chế xanthine oxidase không purine khác, là lựa chọn thay thế hàng đầu vì không có mối liên quan với allele này. Các thuốc tăng thải acid uric (uricosurics) cũng là một lựa chọn."
         },
         {
           "q": "Khi bắt đầu một liệu pháp hạ acid uric máu, biện pháp nào cần được thực hiện đồng thời để ngăn ngừa các cơn gút cấp bùng phát?",
           "options": [
-            "Uống thật nhiều nước",
-            "Ngừng tất cả các thuốc khác",
-            "Điều trị dự phòng bằng Colchicine liều thấp hoặc NSAID trong 3-6 tháng",
-            "Bất động khớp"
+            "Ngưng tất cả các thuốc khác.",
+            "Điều trị dự phòng bằng Colchicine liều thấp hoặc NSAID trong 3-6 tháng.",
+            "Bất động khớp.",
+            "Uống thật nhiều nước."
           ],
-          "answer": 2,
-          "explain": "Việc bắt đầu dùng thuốc hạ acid uric máu có thể gây ra sự dao động nồng độ urat trong máu, làm các tinh thể urat trong mô bị dịch chuyển và khởi phát các cơn gút cấp. Để ngăn ngừa điều này, cần sử dụng đồng thời một <b>thuốc kháng viêm liều thấp (như Colchicine 0.5-0.6 mg/ngày hoặc NSAID liều thấp) trong 3-6 tháng đầu</b> tiên của liệu pháp ULT."
+          "answer": 1,
+          "explain": "Việc bắt đầu dùng thuốc hạ acid uric máu có thể gây ra sự dao động nồng độ urat trong máu, làm các tinh thể urat trong mô bị dịch chuyển và khởi phát các cơn gút cấp. Để ngăn ngừa điều này, cần sử dụng đồng thời một thuốc kháng viêm liều thấp (như Colchicine 0.5-0.6 mg/ngày hoặc NSAID liều thấp) trong 3-6 tháng đầu tiên của liệu pháp ULT."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nam 48 tuổi đang dùng Allopurinol xuất hiện ban đỏ và sốt",
-      "body": "<b>BN nam 48 tuổi</b>, được chẩn đoán gút và bắt đầu điều trị bằng <b>Allopurinol 100 mg/ngày cách đây 4 tuần</b>. BN cũng đang dùng Colchicine 0.5 mg/ngày để dự phòng.<br><br><b>Bệnh sử:</b> Hôm nay, BN đến phòng khám vì xuất hiện <b>ban đỏ, ngứa ở thân mình và sốt nhẹ</b>.<br><br><b>Khám:</b> Ban dạng sởi lan tỏa ở ngực, lưng và tay. Không có loét niêm mạc hay dấu hiệu Nikolsky.<br><br><b>Cận lâm sàng:</b> Tăng <b>bạch cầu ái toan (1.5 G/L)</b> và men gan tăng nhẹ (AST 80 U/L, ALT 95 U/L).",
+      "title": "Bệnh nhân nam 48 tuổi xuất hiện ban đỏ, ngứa và sốt sau dùng thuốc",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 48 tuổi.<br><br><b>Bệnh sử:</b> Đến phòng khám vì xuất hiện ban đỏ, ngứa ở thân mình và sốt nhẹ. Bệnh nhân được chẩn đoán gút và bắt đầu điều trị bằng Allopurinol 100 mg/ngày cách đây 4 tuần, đồng thời đang dùng Colchicine 0.5 mg/ngày để dự phòng.<br><br><b>Khám lâm sàng:</b> Phát ban dạng sởi lan tỏa ở ngực, lưng và tay. Không có loét niêm mạc hay dấu hiệu Nikolsky.<br><br><b>Xét nghiệm:</b> Tăng bạch cầu ái toan (1.5 G/L) và men gan tăng nhẹ (AST 80 U/L, ALT 95 U/L).",
       "questions": [
         {
           "q": "Tình trạng của bệnh nhân có khả năng cao nhất là gì?",
           "options": [
-            "Dị ứng với Colchicine",
-            "Nhiễm virus phát ban",
-            "Phản ứng quá mẫn với Allopurinol",
-            "Một đợt bùng phát của bệnh vảy nến"
+            "Dị ứng với Colchicine.",
+            "Nhiễm virus phát ban.",
+            "Phản ứng quá mẫn với Allopurinol.",
+            "Một đợt bùng phát của bệnh vảy nến."
           ],
           "answer": 2,
-          "explain": "<b>Allopurinol</b> là một trong những nguyên nhân phổ biến nhất gây ra các phản ứng dị ứng do thuốc. Sự xuất hiện của phát ban và sốt sau khi bắt đầu một loại thuốc mới phải luôn được coi là do thuốc cho đến khi có bằng chứng ngược lại."
+          "explain": "Allopurinol là một trong những nguyên nhân phổ biến nhất gây ra các phản ứng dị ứng do thuốc. Sự xuất hiện của phát ban và sốt sau khi bắt đầu một loại thuốc mới phải luôn được coi là do thuốc cho đến khi có bằng chứng ngược lại."
         },
         {
           "q": "Hội chứng quá mẫn nặng với Allopurinol, bao gồm sốt, phát ban, tăng bạch cầu ái toan và tổn thương nội tạng, được gọi là gì?",
           "options": [
-            "Hội chứng Stevens-Johnson (SJS)",
-            "Hội chứng DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms)",
-            "Hội chứng Lyell (TEN)",
-            "Bệnh huyết thanh"
+            "Bệnh huyết thanh.",
+            "Hội chứng DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms).",
+            "Hội chứng Lyell (TEN).",
+            "Hội chứng Stevens-Johnson (SJS)."
           ],
           "answer": 1,
-          "explain": "<b>Hội chứng DRESS</b> là một dạng phản ứng thuốc nặng, đặc trưng bởi <b>phát ban lan tỏa, sốt, bất thường huyết học (đặc biệt là tăng bạch cầu ái toan) và tổn thương các cơ quan nội tạng</b> (thường gặp nhất là gan, thận). Bệnh cảnh của BN có các đặc điểm ban đầu của hội chứng này."
+          "explain": "Hội chứng DRESS là một dạng phản ứng thuốc nặng, đặc trưng bởi phát ban lan tỏa, sốt, bất thường huyết học (đặc biệt là tăng bạch cầu ái toan) và tổn thương các cơ quan nội tạng (thường gặp nhất là gan, thận). Bệnh cảnh của bệnh nhân có các đặc điểm ban đầu của hội chứng này."
         },
         {
           "q": "Cơ chế chính gây ra hội chứng DRESS là gì?",
           "options": [
-            "Một phản ứng dị ứng type I qua trung gian IgE",
-            "Một phản ứng quá mẫn muộn type IV, có sự tham gia của các tế bào T đặc hiệu với thuốc và sự tái hoạt của một số loại virus Herpes (như HHV-6)",
-            "Sự lắng đọng của các phức hợp miễn dịch",
-            "Độc tính trực tiếp của thuốc lên tế bào"
+            "Sự lắng đọng của các phức hợp miễn dịch.",
+            "Một phản ứng quá mẫn muộn type IV, có sự tham gia của các tế bào T đặc hiệu với thuốc và sự tái hoạt của một số loại virus Herpes (như HHV-6).",
+            "Độc tính trực tiếp của thuốc lên tế bào.",
+            "Một phản ứng dị ứng type I qua trung gian IgE."
           ],
           "answer": 1,
-          "explain": "Cơ chế của DRESS rất phức tạp, được cho là một <b>phản ứng quá mẫn qua trung gian tế bào T</b>. Một giả thuyết quan trọng là sự tương tác giữa thuốc, yếu tố di truyền (như HLA) và <b>sự tái hoạt động của các virus Herpes tiềm ẩn, đặc biệt là HHV-6</b>, góp phần vào sự khuếch đại phản ứng miễn dịch và các triệu chứng toàn thân."
+          "explain": "Cơ chế của DRESS rất phức tạp, được cho là một phản ứng quá mẫn qua trung gian tế bào T. Một giả thuyết quan trọng là sự tương tác giữa thuốc, yếu tố di truyền (như HLA) và sự tái hoạt động của các virus Herpes tiềm ẩn, đặc biệt là HHV-6, góp phần vào sự khuếch đại phản ứng miễn dịch và các triệu chứng toàn thân."
         },
         {
           "q": "Hành động xử trí quan trọng nhất ngay lập tức là gì?",
           "options": [
-            "Tăng liều Colchicine",
-            "Ngừng ngay lập tức Allopurinol",
-            "Cho thuốc kháng histamine và theo dõi",
-            "Giảm liều Allopurinol xuống 50 mg/ngày"
+            "Giảm liều Allopurinol xuống 50 mg/ngày.",
+            "Cho thuốc kháng histamine và theo dõi.",
+            "Ngừng ngay lập tức Allopurinol.",
+            "Tăng liều Colchicine."
           ],
-          "answer": 1,
-          "explain": "Khi nghi ngờ có phản ứng quá mẫn với một loại thuốc, nguyên tắc cơ bản là phải <b>ngừng ngay lập tức loại thuốc bị nghi ngờ</b>. Việc tiếp tục sử dụng thuốc có thể làm cho phản ứng trở nên nặng hơn và đe dọa tính mạng."
+          "answer": 2,
+          "explain": "Khi nghi ngờ có phản ứng quá mẫn với một loại thuốc, nguyên tắc cơ bản là phải ngừng ngay lập tức loại thuốc bị nghi ngờ. Việc tiếp tục sử dụng thuốc có thể làm cho phản ứng trở nên nặng hơn và đe dọa tính mạng."
         },
         {
           "q": "Yếu tố nguy cơ nào sau đây làm tăng nguy cơ bị phản ứng quá mẫn với Allopurinol?",
           "options": [
-            "Chức năng thận bình thường",
-            "Liều khởi đầu Allopurinol cao, đặc biệt ở bệnh nhân suy thận",
-            "Giới tính nữ",
-            "Tuổi trẻ"
+            "Giới tính nữ.",
+            "Tuổi trẻ.",
+            "Liều khởi đầu Allopurinol cao, đặc biệt ở bệnh nhân suy thận.",
+            "Chức năng thận bình thường."
           ],
-          "answer": 1,
-          "explain": "Khởi đầu Allopurinol với <b>liều cao hơn liều được khuyến cáo</b>, đặc biệt là ở những BN có <b>suy giảm chức năng thận</b> (làm giảm thải trừ thuốc và chất chuyển hóa của nó), là một yếu tố nguy cơ đã được xác định rõ ràng. Việc bắt đầu với liều thấp và tăng dần có thể giúp giảm nguy cơ này."
+          "answer": 2,
+          "explain": "Khởi đầu Allopurinol với liều cao hơn liều được khuyến cáo, đặc biệt là ở những bệnh nhân có suy giảm chức năng thận (làm giảm thải trừ thuốc và chất chuyển hóa của nó), là một yếu tố nguy cơ đã được xác định rõ ràng. Việc bắt đầu với liều thấp và tăng dần có thể giúp giảm nguy cơ này."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nam 30 tuổi vận động viên thể hình đau khớp gối sau tập nặng",
-      "body": "<b>BN nam 30 tuổi</b>, vận động viên thể hình, đến khám vì đau khớp gối phải.<br><br><b>Bệnh sử:</b> BN không có tiền sử bệnh gút nhưng có thói quen <b>ăn rất nhiều thịt đỏ và thực phẩm bổ sung protein</b>. Gần đây, anh ta bắt đầu một <b>chế độ ăn kiêng nghiêm ngặt để giảm cân nhanh</b>, đồng thời <b>tăng cường độ tập luyện</b>. Cơn đau khớp gối khởi phát cấp tính sau một buổi tập nặng.<br><br><b>Khám:</b> Khớp gối sưng, nóng, đỏ, có tràn dịch.<br><br><b>Cận lâm sàng:</b> Acid uric máu là <b>350 µmol/L</b>. Chọc dịch khớp thấy nhiều bạch cầu đa nhân và tìm thấy <b>tinh thể urat hình kim</b>.",
+      "title": "Bệnh nhân nam 30 tuổi sưng, nóng, đỏ khớp gối phải sau tập luyện",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 30 tuổi, vận động viên thể hình.<br><br><b>Bệnh sử:</b> Đến khám vì đau khớp gối phải. Cơn đau khớp gối khởi phát cấp tính sau một buổi tập nặng. Gần đây, bệnh nhân bắt đầu một chế độ ăn kiêng nghiêm ngặt để giảm cân nhanh, đồng thời tăng cường độ tập luyện.<br><br><b>Tiền sử:</b> Không có tiền sử bệnh gút. Thói quen ăn rất nhiều thịt đỏ và thực phẩm bổ sung protein.<br><br><b>Khám lâm sàng:</b> Khớp gối sưng, nóng, đỏ, có tràn dịch.<br><br><b>Xét nghiệm:</b> Acid uric máu: 350 µmol/L. Chọc dịch khớp thấy nhiều bạch cầu đa nhân và tìm thấy tinh thể urat hình kim.",
       "questions": [
         {
           "q": "Tại sao nồng độ acid uric máu có thể bình thường hoặc thấp trong một cơn gút cấp?",
           "options": [
-            "Do các cytokine gây viêm trong cơn cấp (như IL-6) có tác dụng làm tăng thải acid uric qua thận",
-            "Do toàn bộ acid uric đã lắng đọng hết vào trong khớp",
-            "Do sai số của phòng xét nghiệm",
-            "Do bệnh nhân đã uống thuốc hạ acid uric trước đó"
+            "Do các cytokine gây viêm trong cơn cấp (như IL-6) có tác dụng làm tăng thải acid uric qua thận.",
+            "Do toàn bộ acid uric đã lắng đọng hết vào trong khớp.",
+            "Do bệnh nhân đã uống thuốc hạ acid uric trước đó.",
+            "Do sai số của phòng xét nghiệm."
           ],
           "answer": 0,
-          "explain": "Đây là một hiện tượng quan trọng cần lưu ý. Trong cơn viêm cấp, các <b>cytokine được giải phóng ồ ạt có tác dụng tăng bài tiết acid uric qua nước tiểu (uricosuric effect)</b>. Điều này có thể làm giảm tạm thời nồng độ acid uric trong máu, khiến cho việc chẩn đoán chỉ dựa vào xét nghiệm máu có thể bị bỏ sót."
+          "explain": "Đây là một hiện tượng quan trọng cần lưu ý. Trong cơn viêm cấp, các cytokine được giải phóng ạt có tác dụng tăng bài tiết acid uric qua nước tiểu (uricosuric effect). Điều này có thể làm giảm tạm thời nồng độ acid uric trong máu, khiến cho việc chẩn đoán chỉ dựa vào xét nghiệm máu có thể bị bỏ sót."
         },
         {
           "q": "Cơ chế nào giải thích tại sao việc giảm cân nhanh có thể khởi phát cơn gút cấp?",
           "options": [
-            "Giảm cân nhanh làm giảm nồng độ acid uric máu",
-            "Chế độ ăn kiêng nghiêm ngặt (đặc biệt là chế độ ketogenic) làm tăng sản xuất thể ketone, vốn cạnh tranh bài tiết với acid uric tại thận, gây tăng acid uric máu",
-            "Giảm cân làm tăng sự nhạy cảm của khớp với các tinh thể",
-            "Chế độ ăn kiêng làm tăng pH máu"
+            "Giảm cân nhanh làm giảm nồng độ acid uric máu.",
+            "Chế độ ăn kiêng làm tăng pH máu.",
+            "Chế độ ăn kiêng nghiêm ngặt (đặc biệt là chế độ ketogenic) làm tăng sản xuất thể ketone, vốn cạnh tranh bài tiết với acid uric tại thận, gây tăng acid uric máu.",
+            "Giảm cân làm tăng sự nhạy cảm của khớp với các tinh thể."
           ],
-          "answer": 1,
-          "explain": "Chế độ ăn rất ít carbohydrate buộc cơ thể phải chuyển sang đốt cháy chất béo, tạo ra một lượng lớn <b>thể ketone</b>. Các thể ketone này và acid uric cùng được bài tiết tại ống thận thông qua các kênh vận chuyển anion hữu cơ. Sự cạnh tranh này làm <b>giảm sự bài tiết của acid uric</b>, dẫn đến tăng nồng độ trong máu."
+          "answer": 2,
+          "explain": "Chế độ ăn rất ít carbohydrate buộc cơ thể phải chuyển sang đốt cháy chất béo, tạo ra một lượng lớn thể ketone. Các thể ketone này và acid uric cùng được bài tiết tại ống thận thông qua các kênh vận chuyển anion hữu cơ. Sự cạnh tranh này làm giảm sự bài tiết của acid uric, dẫn đến tăng nồng độ trong máu."
         },
         {
           "q": "Tăng cường độ tập luyện có thể góp phần gây ra cơn gút cấp thông qua cơ chế nào?",
           "options": [
-            "Tập luyện làm tăng lưu lượng máu đến khớp, mang nhiều tinh thể urat hơn",
-            "Tập luyện nặng gây ra tình trạng toan lactic và mất nước, cả hai đều làm giảm sự hòa tan và bài tiết của acid uric",
-            "Tập luyện làm giảm sản xuất acid uric",
-            "Tập luyện làm tăng sức mạnh của bao khớp"
+            "Tập luyện làm giảm sản xuất acid uric.",
+            "Tập luyện nặng gây ra tình trạng toan lactic và mất nước, cả hai đều làm giảm sự hòa tan và bài tiết của acid uric.",
+            "Tập luyện làm tăng sức mạnh của bao khớp.",
+            "Tập luyện làm tăng lưu lượng máu đến khớp, mang nhiều tinh thể urat hơn."
           ],
           "answer": 1,
-          "explain": "Tập luyện cường độ cao gây ra tình trạng <b>mất nước</b> (làm cô đặc acid uric) và <b>toan chuyển hóa do lactic</b>. Môi trường <b>pH thấp làm giảm độ hòa tan của urat</b>, tạo điều kiện thuận lợi cho việc kết tủa tinh thể trong khớp, đặc biệt là các khớp phải chịu tải trọng."
+          "explain": "Tập luyện cường độ cao gây ra tình trạng mất nước (làm cô đặc acid uric) và toan chuyển hóa do lactic. Môi trường pH thấp làm giảm độ hòa tan của urat, tạo điều kiện thuận lợi cho việc kết tủa tinh thể trong khớp, đặc biệt là các khớp phải chịu tải trọng."
         },
         {
-          "q": "Chẩn đoán phân biệt nào cần được xem xét ở một vận động viên trẻ bị viêm một khớp gối cấp sau hoạt động gắng sức?",
+          "q": "Nhóm chẩn đoán phân biệt nào cần được xem xét ở vận động viên trẻ bị viêm một khớp gối cấp sau gắng sức?",
           "options": [
-            "Chấn thương (rách sụn chêm, đứt dây chằng)",
-            "Viêm khớp nhiễm khuẩn",
-            "Viêm khớp phản ứng",
-            "Tất cả các phương án trên"
+            "Chấn thương nội khớp, viêm khớp nhiễm khuẩn và viêm khớp phản ứng.",
+            "Lupus hệ thống, xơ cứng bì và viêm mạch hệ thống.",
+            "Viêm đa cơ, bệnh cơ chuyển hóa và đau xơ cơ.",
+            "Thoái hóa khớp, loãng xương và viêm cân gan chân."
           ],
-          "answer": 3,
-          "explain": "Bệnh cảnh viêm một khớp cấp ở người trẻ có nhiều chẩn đoán phân biệt. Cần loại trừ <b>chấn thương</b> (là yếu tố khởi phát phổ biến), <b>viêm khớp nhiễm khuẩn</b> (luôn là cấp cứu), và các bệnh viêm khớp khác như <b>viêm khớp phản ứng</b> (có thể xảy ra sau nhiễm trùng tiêu hóa hoặc tiết niệu)."
+          "answer": 0,
+          "explain": "Viêm một khớp cấp sau vận động có thể do tổn thương nội khớp, nhưng vẫn phải loại trừ viêm khớp nhiễm khuẩn và cân nhắc viêm khớp phản ứng. Chọc hút dịch khớp và đánh giá chấn thương được chỉ định tùy bệnh cảnh."
         },
         {
           "q": "Sau khi cơn cấp được giải quyết, lời khuyên nào là quan trọng nhất cho bệnh nhân này để phòng ngừa tái phát?",
           "options": [
-            "Ngừng hoàn toàn việc tập luyện",
-            "Tránh giảm cân quá nhanh và duy trì đủ nước",
-            "Chỉ ăn rau xanh",
-            "Bắt đầu dùng Allopurinol ngay lập tức"
+            "Chỉ ăn rau xanh.",
+            "Tránh giảm cân quá nhanh và duy trì đủ nước.",
+            "Ngừng hoàn toàn việc tập luyện.",
+            "Bắt đầu dùng Allopurinol ngay lập tức."
           ],
           "answer": 1,
-          "explain": "BN cần được giáo dục về việc <b>tránh các thay đổi đột ngột trong lối sống</b>. Việc giảm cân nên được thực hiện từ từ. <b>Uống đủ nước</b> là rất quan trọng để giúp thận thải trừ acid uric. Việc bắt đầu ULT ngay sau cơn cấp đầu tiên thường không được chỉ định, trừ khi có các yếu tố nguy cơ khác."
+          "explain": "Bệnh nhân cần được giáo dục về việc tránh các thay đổi đột ngột trong lối sống. Việc giảm cân nên được thực hiện từ từ. Uống đủ nước là rất quan trọng để giúp thận thải trừ acid uric. Việc bắt đầu ULT ngay sau cơn cấp đầu tiên thường không được chỉ định, trừ khi có các yếu tố nguy cơ khác."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nam 70 tuổi gút sau ghép thận đang dùng ức chế miễn dịch",
-      "body": "<b>BN nam 70 tuổi</b>, được <b>ghép thận 5 năm trước</b>, đang dùng thuốc ức chế miễn dịch bao gồm <b>Cyclosporine, Mycophenolate Mofetil và Prednisone liều thấp</b>.<br><br><b>Bệnh sử:</b> BN đến khám vì <b>đau nhiều khớp và có nhiều hạt tophi</b> ở tay và chân.<br><br><b>Cận lâm sàng:</b> Nồng độ acid uric máu là <b>680 µmol/L</b>. Chức năng thận ghép ổn định với creatinin 130 µmol/L.",
+      "title": "Bệnh nhân nam 70 tuổi ghép thận đau nhiều khớp và có u dưới da",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 70 tuổi.<br><br><b>Bệnh sử:</b> Đến khám vì đau nhiều khớp và có nhiều hạt tophi ở tay và chân.<br><br><b>Tiền sử:</b> Được ghép thận 5 năm trước, đang dùng thuốc ức chế miễn dịch bao gồm Cyclosporine, Mycophenolate Mofetil và Prednisone liều thấp.<br><br><b>Khám lâm sàng:</b> Xuất hiện nhiều hạt tophi ở tay và chân.<br><br><b>Xét nghiệm:</b> Nồng độ acid uric máu: 680 µmol/L. Chức năng thận ghép ổn định với creatinin 130 µmol/L.",
       "questions": [
         {
           "q": "Thuốc nào trong phác đồ ức chế miễn dịch của bệnh nhân là nguyên nhân chính gây tăng acid uric máu?",
           "options": [
-            "Cyclosporine",
-            "Mycophenolate Mofetil",
-            "Prednisone",
-            "Tất cả các thuốc trên"
+            "Cyclosporine.",
+            "Tất cả các thuốc trên.",
+            "Prednisone.",
+            "Mycophenolate Mofetil."
           ],
           "answer": 0,
-          "explain": "Các thuốc ức chế Calcineurin, đặc biệt là <b>Cyclosporine</b> (và ở mức độ thấp hơn là Tacrolimus), là một nguyên nhân phổ biến gây tăng acid uric máu và bệnh gút ở BN ghép tạng."
+          "explain": "Các thuốc ức chế Calcineurin, đặc biệt là Cyclosporine (và ở mức độ thấp hơn là Tacrolimus), là một nguyên nhân phổ biến gây tăng acid uric máu và bệnh gút ở bệnh nhân ghép tạng."
         },
         {
           "q": "Cơ chế gây tăng acid uric máu của Cyclosporine là gì?",
           "options": [
-            "Tăng sản xuất acid uric",
-            "Giảm sự bài tiết acid uric qua thận do ảnh hưởng đến các kênh vận chuyển ở ống thận",
-            "Tăng sự dị hóa của purine",
-            "Gây ly giải tế bào hàng loạt"
+            "Giảm sự bài tiết acid uric qua thận do ảnh hưởng đến các kênh vận chuyển ở ống thận.",
+            "Tăng sự dị hóa của purine.",
+            "Tăng sản xuất acid uric.",
+            "Gây ly giải tế bào hàng loạt."
           ],
-          "answer": 1,
-          "explain": "Cyclosporine làm <b>giảm độ thanh thải của acid uric qua thận</b>. Cơ chế được cho là do thuốc làm giảm lưu lượng máu đến thận và ảnh hưởng đến chức năng của các <b>kênh vận chuyển anion hữu cơ (như URAT1) ở ống lượn gần</b>, dẫn đến tăng tái hấp thu acid uric."
+          "answer": 0,
+          "explain": "Cyclosporine làm giảm độ thanh thải của acid uric qua thận. Cơ chế được cho là do thuốc làm giảm lưu lượng máu đến thận và ảnh hưởng đến chức năng của các kênh vận chuyển anion hữu cơ (như URAT1) ở ống lượn gần, dẫn đến tăng tái hấp thu acid uric."
         },
         {
           "q": "Thuốc hạ acid uric máu nào thường được ưu tiên lựa chọn ở bệnh nhân ghép tạng đang dùng Cyclosporine?",
           "options": [
-            "Allopurinol",
-            "Febuxostat",
-            "Probenecid",
-            "Benzbromarone"
+            "Allopurinol.",
+            "Febuxostat.",
+            "Probenecid.",
+            "Benzbromarone."
           ],
           "answer": 1,
-          "explain": "<b>Febuxostat</b> thường được ưu tiên hơn Allopurinol ở nhóm BN này vì nó được <b>chuyển hóa chủ yếu ở gan</b> và ít có khả năng tương tác dược động học với Cyclosporine hơn. Nó cũng được cho là an toàn và hiệu quả ở BN suy thận nhẹ đến trung bình."
+          "explain": "Febuxostat thường được ưu tiên hơn Allopurinol ở nhóm bệnh nhân này vì nó được chuyển hóa chủ yếu ở gan và ít có khả năng tương tác dược động học với Cyclosporine hơn. Nó cũng được cho là an toàn và hiệu quả ở bệnh nhân suy thận nhẹ đến trung bình."
         },
         {
           "q": "Tại sao cần phải rất thận trọng khi phối hợp Allopurinol với một số thuốc ức chế miễn dịch khác như Azathioprine hoặc 6-Mercaptopurine?",
           "options": [
-            "Allopurinol làm giảm hiệu quả của các thuốc này",
-            "Allopurinol ức chế enzyme xanthine oxidase, là enzyme chính chuyển hóa Azathioprine, dẫn đến nguy cơ ngộ độc tủy xương gây tử vong",
-            "Azathioprine làm tăng nguy cơ dị ứng với Allopurinol",
-            "Không có tương tác đáng kể"
+            "Allopurinol ức chế enzyme xanthine oxidase, là enzyme chính chuyển hóa Azathioprine, dẫn đến nguy cơ ngộ độc tủy xương gây tử vong.",
+            "Azathioprine làm tăng nguy cơ dị ứng với Allopurinol.",
+            "Không có tương tác đáng kể.",
+            "Allopurinol làm giảm hiệu quả của các thuốc này."
           ],
-          "answer": 1,
-          "explain": "Đây là một <b>tương tác thuốc cực kỳ nguy hiểm</b>. Azathioprine là một tiền chất được chuyển hóa thành 6-Mercaptopurine. Cả hai đều bị giáng hóa bởi enzyme <b>xanthine oxidase</b>. Allopurinol ức chế enzyme này, làm nồng độ của các chất chuyển hóa có hoạt tính của Azathioprine <b>tăng lên gấp nhiều lần</b>, gây ức chế tủy xương nặng và có thể tử vong. Nếu phải phối hợp, liều Azathioprine phải được giảm ít nhất 75%."
+          "answer": 0,
+          "explain": "Đây là một tương tác thuốc cực kỳ nguy hiểm. Azathioprine là một tiền chất được chuyển hóa thành 6-Mercaptopurine. Cả hai đều bị giáng hóa bởi enzyme xanthine oxidase. Allopurinol ức chế enzyme này, làm nồng độ của các chất chuyển hóa có hoạt tính của Azathioprine tăng lên gấp nhiều lần, gây ức chế tủy xương nặng và có thể tử vong. Nếu phải phối hợp, liều Azathioprine phải được giảm ít nhất 75%."
         },
         {
           "q": "Mục tiêu điều trị gút ở bệnh nhân ghép tạng là gì?",
           "options": [
-            "Chỉ giảm đau khi có cơn cấp",
-            "Kiểm soát nồng độ acid uric máu để ngăn ngừa các cơn cấp và bảo vệ chức năng thận ghép",
-            "Ngừng tất cả các thuốc ức chế miễn dịch",
-            "Giảm cân tích cực"
+            "Giảm cân tích cực.",
+            "Ngừng tất cả các thuốc ức chế miễn dịch.",
+            "Chỉ giảm đau khi có cơn cấp.",
+            "Kiểm soát nồng độ acid uric máu để ngăn ngừa các cơn cấp và bảo vệ chức năng thận ghép."
           ],
-          "answer": 1,
-          "explain": "Việc kiểm soát gút ở BN ghép tạng rất quan trọng. Các cơn gút cấp gây đau đớn và viêm, có thể ảnh hưởng đến chất lượng sống và tuân thủ điều trị. Quan trọng hơn, <b>tăng acid uric máu mạn tính có thể là một yếu tố nguy cơ độc lập gây tổn thương cho quả thận ghép</b>."
+          "answer": 3,
+          "explain": "Việc kiểm soát gút ở bệnh nhân ghép tạng rất quan trọng. Các cơn gút cấp gây đau đớn và viêm, có thể ảnh hưởng đến chất lượng sống và tuân thủ điều trị. Quan trọng hơn, tăng acid uric máu mạn tính có thể là một yếu tố nguy cơ độc lập gây tổn thương cho quả thận ghép."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nữ 58 tuổi sau mãn kinh sưng đau nhiều khớp ngón xa",
-      "body": "<b>BN nữ 58 tuổi</b>, đến khám vì sưng đau khớp bàn tay.<br><br><b>Bệnh sử:</b> BN đã <b>mãn kinh 5 năm</b> và không dùng liệu pháp hormone thay thế. Cơn đau khởi phát bán cấp ở <b>nhiều khớp ngón xa hai bên</b>, kèm theo sưng và đỏ nhẹ. BN không có yếu tố nguy cơ rõ ràng của gút, chế độ ăn uống cân bằng.<br><br><b>Khám:</b> Các khớp ngón xa sưng, có các <b>nốt cứng (nốt Heberden)</b>.<br><br><b>Cận lâm sàng:</b> Acid uric máu là 400 µmol/L. <b>X-quang bàn tay:</b> hẹp khe khớp và gai xương ở các khớp ngón xa, đồng thời có hình ảnh bào mòn xương ở một vài khớp.",
+      "title": "Bệnh nhân nữ 58 tuổi sưng đau bán cấp nhiều khớp ngón xa hai bên",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 58 tuổi.<br><br><b>Bệnh sử:</b> Đến khám vì sưng đau khớp bàn tay. Cơn đau khởi phát bán cấp ở nhiều khớp ngón xa hai bên, kèm theo sưng và đỏ nhẹ. Bệnh nhân đã mãn kinh 5 năm và không dùng liệu pháp hormone thay thế. Không có yếu tố nguy cơ rõ ràng của gút, chế độ ăn uống cân bằng.<br><br><b>Khám lâm sàng:</b> Các khớp ngón xa sưng, có các nốt cứng (nốt Heberden).<br><br><b>Xét nghiệm:</b> Acid uric máu: 400 µmol/L. X-quang bàn tay cho thấy hẹp khe khớp và gai xương ở các khớp ngón xa, đồng thời có hình ảnh bào mòn xương ở một vài khớp.",
       "questions": [
         {
           "q": "Chẩn đoán nào là phù hợp nhất khi xem xét đến vị trí khớp bị ảnh hưởng ở một phụ nữ sau mãn kinh?",
           "options": [
-            "Viêm khớp dạng thấp",
-            "Bệnh gút",
-            "Thoái hóa khớp bàn tay thể bào mòn, có thể kèm theo gút",
-            "Viêm khớp vảy nến"
+            "Bệnh gút.",
+            "Viêm khớp dạng thấp.",
+            "Thoái hóa khớp bàn tay thể bào mòn, có thể kèm theo gút.",
+            "Viêm khớp vảy nến."
           ],
           "answer": 2,
-          "explain": "Viêm và sưng ở các khớp ngón xa ở phụ nữ sau mãn kinh là vị trí rất điển hình của <b>thoái hóa khớp bàn tay</b>. Tuy nhiên, sự xuất hiện của các hình ảnh bào mòn trên X-quang và tình trạng viêm gợi ý một <b>thể \"viêm\" của thoái hóa khớp</b>, và tình trạng này có thể đi kèm hoặc bị khởi phát bởi sự lắng đọng tinh thể urat."
+          "explain": "Viêm và sưng ở các khớp ngón xa ở phụ nữ sau mãn kinh là vị trí rất điển hình của thoái hóa khớp bàn tay. Tuy nhiên, sự xuất hiện của các hình ảnh bào mòn trên X-quang và tình trạng viêm gợi ý một thể \"viêm\" của thoái hóa khớp, và tình trạng này có thể đi kèm hoặc bị khởi phát bởi sự lắng đọng tinh thể urat."
         },
         {
           "q": "Tại sao bệnh gút ít gặp ở phụ nữ trước tuổi mãn kinh?",
           "options": [
-            "Phụ nữ ăn ít purine hơn nam giới",
-            "Hormone Estrogen có tác dụng làm tăng bài tiết acid uric qua thận",
-            "Phụ nữ có khối lượng cơ thấp hơn",
-            "Cấu trúc khớp của phụ nữ khác nam giới"
+            "Hormone Estrogen có tác dụng làm tăng bài tiết acid uric qua thận.",
+            "Phụ nữ có khối lượng cơ thấp hơn.",
+            "Cấu trúc khớp của phụ nữ khác nam giới.",
+            "Phụ nữ ăn ít purine hơn nam giới."
           ],
-          "answer": 1,
-          "explain": "<b>Estrogen có tác dụng tăng thải acid uric qua nước tiểu (uricosuric effect)</b>. Sau khi mãn kinh, nồng độ estrogen giảm xuống, làm giảm khả năng bài tiết acid uric của thận. Điều này giải thích tại sao tỷ lệ mắc bệnh gút ở phụ nữ tăng lên đáng kể sau tuổi mãn kinh."
+          "answer": 0,
+          "explain": "Estrogen có tác dụng tăng thải acid uric qua nước tiểu (uricosuric effect). Sau khi mãn kinh, nồng độ estrogen giảm xuống, làm giảm khả năng bài tiết acid uric của thận. Điều này giải thích tại sao tỷ lệ mắc bệnh gút ở phụ nữ tăng lên đáng kể sau tuổi mãn kinh."
         },
         {
           "q": "Sự hiện diện của các nốt Heberden (các nốt cứng ở khớp ngón xa) là một dấu hiệu điển hình của bệnh lý nào?",
           "options": [
-            "Viêm khớp dạng thấp",
-            "Bệnh gút",
-            "Thoái hóa khớp",
-            "Lupus ban đỏ hệ thống"
+            "Bệnh gút.",
+            "Thoái hóa khớp.",
+            "Viêm khớp dạng thấp.",
+            "Lupus ban đỏ hệ thống."
           ],
-          "answer": 2,
-          "explain": "Các <b>nốt Heberden</b> (ở khớp ngón xa) và <b>Bouchard</b> (ở khớp ngón gần) là các dấu hiệu lâm sàng kinh điển của <b>thoái hóa khớp bàn tay</b>, được tạo thành do sự phát triển của các gai xương ở rìa khớp."
+          "answer": 1,
+          "explain": "Các nốt Heberden (ở khớp ngón xa) và Bouchard (ở khớp ngón gần) là các dấu hiệu lâm sàng kinh điển của thoái hóa khớp bàn tay, được tạo thành do sự phát triển của các gai xương ở rìa khớp."
         },
         {
           "q": "Mối liên quan giữa thoái hóa khớp và bệnh gút là gì?",
           "options": [
-            "Chúng là hai bệnh loại trừ lẫn nhau",
-            "Thoái hóa khớp có thể là một yếu tố nguy cơ cho bệnh gút; các tổn thương sụn do thoái hóa có thể tạo điều kiện cho sự kết tủa của các tinh thể urat",
-            "Bệnh gút luôn dẫn đến thoái hóa khớp",
-            "Không có mối liên quan nào"
+            "Chúng là hai bệnh loại trừ lẫn nhau.",
+            "Bệnh gút luôn dẫn đến thoái hóa khớp.",
+            "Thoái hóa khớp có thể là một yếu tố nguy cơ cho bệnh gút; các tổn thương sụn do thoái hóa có thể tạo điều kiện cho sự kết tủa của các tinh thể urat.",
+            "Không có mối liên quan nào."
           ],
-          "answer": 1,
-          "explain": "Có một mối liên quan hai chiều. <b>Tăng acid uric máu là một yếu tố nguy cơ của thoái hóa khớp</b>. Ngược lại, các khớp đã bị thoái hóa, với sụn bị tổn thương và các mảnh vỡ trong dịch khớp, có thể trở thành <b>một môi trường thuận lợi cho việc kết tủa và hình thành các tinh thể MSU</b>, khởi phát một cơn gút."
+          "answer": 2,
+          "explain": "Có một mối liên quan hai chiều. Tăng acid uric máu là một yếu tố nguy cơ của thoái hóa khớp. Ngược lại, các khớp đã bị thoái hóa, với sụn bị tổn thương và các mảnh vỡ trong dịch khớp, có thể trở thành một môi trường thuận lợi cho việc kết tủa và hình thành các tinh thể MSU, khởi phát một cơn gút."
         },
         {
           "q": "Lựa chọn điều trị nào phù hợp cho bệnh nhân này, có tác dụng cho cả hai bệnh lý?",
           "options": [
-            "Allopurinol",
-            "Methotrexate",
-            "NSAID liều thấp",
-            "Hydroxychloroquine"
+            "Allopurinol.",
+            "NSAID liều thấp.",
+            "Hydroxychloroquine.",
+            "Methotrexate."
           ],
-          "answer": 2,
-          "explain": "<b>NSAID</b> (dùng đường uống liều thấp hoặc tại chỗ) có tác dụng giảm đau và kháng viêm, do đó có hiệu quả cho cả các đợt viêm của thoái hóa khớp và cơn gút cấp. Các thuốc khác chỉ có tác dụng trên một bệnh lý cụ thể."
+          "answer": 1,
+          "explain": "NSAID (dùng đường uống liều thấp hoặc tại chỗ) có tác dụng giảm đau và kháng viêm, do đó có hiệu quả cho cả các đợt viêm của thoái hóa khớp và cơn gút cấp. Các thuốc khác chỉ có tác dụng trên một bệnh lý cụ thể."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nam 55 tuổi gút mạn tính thất bại với Allopurinol và Febuxostat",
-      "body": "<b>BN nam 55 tuổi</b>, bị <b>gút mạn tính có hạt tophi</b>.<br><br><b>Tiền sử điều trị:</b> Đã thất bại với <b>Allopurinol (dị ứng)</b> và <b>Febuxostat (không đạt mục tiêu acid uric dù đã dùng liều tối đa)</b>.<br><br><b>Hiện tại:</b> BN vẫn có các <b>cơn cấp thường xuyên và các hạt tophi ngày càng to</b>. Chức năng thận bình thường.",
+      "title": "Bệnh nhân nam 55 tuổi gút mạn tính có hạt tophi không đạt mục tiêu",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Bệnh sử:</b> Bị gút mạn tính có hạt tophi, vẫn có các cơn cấp thường xuyên và các hạt tophi ngày càng to.<br><br><b>Tiền sử:</b> Thất bại với Allopurinol (dị ứng) và Febuxostat (không đạt mục tiêu acid uric dù đã dùng liều tối đa).<br><br><b>Xét nghiệm:</b> Chức năng thận bình thường.",
       "questions": [
         {
           "q": "Tình trạng của bệnh nhân được gọi là gì?",
           "options": [
-            "Gút không đáp ứng",
-            "Gút kháng trị",
-            "Gút nặng",
-            "Gút giả"
+            "Gút không đáp ứng.",
+            "Gút nặng.",
+            "Gút kháng trị.",
+            "Gút giả."
           ],
-          "answer": 1,
-          "explain": "<b>Gút kháng trị</b> được định nghĩa là tình trạng không đạt được mục tiêu acid uric máu và vẫn có các triệu chứng (cơn cấp, hạt tophi) <b>mặc dù đã được điều trị bằng thuốc ức chế xanthine oxidase ở liều tối đa</b>, hoặc BN không dung nạp với các thuốc này."
+          "answer": 2,
+          "explain": "Gút kháng trị được định nghĩa là tình trạng không đạt được mục tiêu acid uric máu và vẫn có các triệu chứng (cơn cấp, hạt tophi) mặc dù đã được điều trị bằng thuốc ức chế xanthine oxidase ở liều tối đa, hoặc bệnh nhân không dung nạp với các thuốc này."
         },
         {
           "q": "Lựa chọn điều trị nào có thể được xem xét cho bệnh nhân này?",
           "options": [
-            "Phối hợp một thuốc ức chế xanthine oxidase với một thuốc tăng thải acid uric",
-            "Thử một loại NSAID khác",
-            "Ngừng tất cả các thuốc và chỉ thay đổi lối sống",
-            "Phẫu thuật cắt bỏ tất cả các hạt tophi"
+            "Phối hợp một thuốc ức chế xanthine oxidase với một thuốc tăng thải acid uric.",
+            "Phẫu thuật cắt bỏ tất cả các hạt tophi.",
+            "Thử một loại NSAID khác.",
+            "Ngừng tất cả các thuốc và chỉ thay đổi lối sống."
           ],
           "answer": 0,
-          "explain": "Khi đơn trị liệu bằng một thuốc ức chế xanthine oxidase không đủ hiệu quả, chiến lược tiếp theo là <b>phối hợp hai loại thuốc có cơ chế tác dụng khác nhau</b>: một thuốc giảm sản xuất (XOI) và một thuốc tăng thải (uricosuric). Liệu pháp phối hợp này có thể giúp đạt được mục tiêu ở nhiều BN khó trị."
+          "explain": "Khi đơn trị liệu bằng một thuốc ức chế xanthine oxidase không đủ hiệu quả, chiến lược tiếp theo là phối hợp hai loại thuốc có cơ chế tác dụng khác nhau: một thuốc giảm sản xuất (XOI) và một thuốc tăng thải (uricosuric). Liệu pháp phối hợp này có thể giúp đạt được mục tiêu ở nhiều bệnh nhân khó trị."
         },
         {
           "q": "Cơ chế tác dụng của nhóm thuốc tăng thải acid uric (uricosurics) như Probenecid là gì?",
           "options": [
-            "Ức chế sản xuất acid uric",
-            "Ức chế tái hấp thu acid uric ở ống lượn gần của thận, làm tăng sự bài tiết của nó qua nước tiểu",
-            "Phân hủy acid uric thành allantoin",
-            "Trung hòa acid uric trong máu"
+            "Ức chế sản xuất acid uric.",
+            "Ức chế tái hấp thu acid uric ở ống lượn gần của thận, làm tăng sự bài tiết của nó qua nước tiểu.",
+            "Trung hòa acid uric trong máu.",
+            "Phân hủy acid uric thành allantoin."
           ],
           "answer": 1,
-          "explain": "Các thuốc tăng thải acid uric tác động lên các kênh vận chuyển anion hữu cơ ở ống lượn gần, chủ yếu là <b>ức chế kênh URAT1</b>, là kênh chịu trách nhiệm chính cho việc tái hấp thu acid uric từ nước tiểu trở lại máu."
+          "explain": "Các thuốc tăng thải acid uric tác động lên các kênh vận chuyển anion hữu cơ ở ống lượn gần, chủ yếu là ức chế kênh URAT1, là kênh chịu trách nhiệm chính cho việc tái hấp thu acid uric từ nước tiểu trở lại máu."
         },
         {
           "q": "Trước khi bắt đầu một thuốc tăng thải acid uric, cần phải đảm bảo điều gì để giảm nguy cơ sỏi thận?",
           "options": [
-            "Bệnh nhân có chức năng gan bình thường",
-            "Bệnh nhân không có tiền sử sỏi urat và cần uống nhiều nước, có thể kiềm hóa nước tiểu",
-            "Bệnh nhân không bị dị ứng với Allopurinol",
-            "Nồng độ acid uric máu phải rất cao"
+            "Bệnh nhân không bị dị ứng với Allopurinol.",
+            "Bệnh nhân không có tiền sử sỏi urat và cần uống nhiều nước, có thể kiềm hóa nước tiểu.",
+            "Bệnh nhân có chức năng gan bình thường.",
+            "Nồng độ acid uric máu phải rất cao."
           ],
           "answer": 1,
-          "explain": "Bằng cách tăng thải acid uric qua nước tiểu, các thuốc này làm <b>tăng nguy cơ hình thành sỏi urat</b> trong đường tiết niệu. Do đó, chúng bị chống chỉ định ở những BN có tiền sử sỏi thận và cần được sử dụng thận trọng, với khuyến cáo BN phải <b>uống nhiều nước (> 2 L/ngày)</b> và có thể dùng các <b>chất kiềm hóa nước tiểu (như potassium citrate)</b> để tăng độ hòa tan của urat."
+          "explain": "Bằng cách tăng thải acid uric qua nước tiểu, các thuốc này làm tăng nguy cơ hình thành sỏi urat trong đường tiết niệu. Do đó, chúng bị chống chỉ định ở những bệnh nhân có tiền sử sỏi thận và cần được sử dụng thận trọng, với khuyến cáo bệnh nhân phải uống nhiều nước (> 2 L/ngày) và có thể dùng các chất kiềm hóa nước tiểu (như potassium citrate) để tăng độ hòa tan của urat."
         },
         {
           "q": "Liệu pháp sinh học nào được chỉ định cho các trường hợp gút kháng trị nặng nhất?",
           "options": [
-            "Infliximab (ức chế TNF-alpha)",
-            "Rituximab (kháng CD20)",
-            "Pegloticase (enzyme uricase tái tổ hợp)",
-            "Tocilizumab (ức chế IL-6)"
+            "Pegloticase (enzyme uricase tái tổ hợp).",
+            "Tocilizumab (ức chế IL-6).",
+            "Infliximab (ức chế TNF-alpha).",
+            "Rituximab (kháng CD20)."
           ],
-          "answer": 2,
-          "explain": "<b>Pegloticase</b> là một dạng enzyme uricase của động vật có vú được pegyl hóa. Nó có tác dụng <b>phân hủy acid uric thành allantoin</b>, một chất dễ hòa tan và dễ dàng được bài tiết qua nước tiểu. Thuốc này có khả năng hạ acid uric máu rất nhanh và mạnh, giúp hòa tan các hạt tophi lớn. Tuy nhiên, nó chỉ được dành riêng cho các trường hợp gút kháng trị nặng nhất do chi phí cao và nguy cơ phản ứng miễn dịch."
+          "answer": 0,
+          "explain": "Pegloticase là một dạng enzyme uricase của động vật có vú được pegyl hóa. Nó có tác dụng phân hủy acid uric thành allantoin, một chất dễ hòa tan và dễ dàng được bài tiết qua nước tiểu. Thuốc này có khả năng hạ acid uric máu rất nhanh và mạnh, giúp hòa tan các hạt tophi lớn. Tuy nhiên, nó chỉ được dành riêng cho các trường hợp gút kháng trị nặng nhất do chi phí cao và nguy cơ phản ứng miễn dịch."
         }
       ]
     },
     {
       "title": "Bệnh nhân nam 40 tuổi tư vấn chế độ ăn sau cơn gút cấp đầu tiên",
-      "body": "<b>BN nam 40 tuổi</b> đến phòng khám tư vấn về chế độ ăn cho bệnh gút.<br><br><b>Bệnh sử:</b> BN mới được chẩn đoán sau cơn cấp đầu tiên và acid uric máu là 500 µmol/L.<br><br><b>Yêu cầu của BN:</b> Muốn biết loại thực phẩm nào cần hạn chế và loại nào được khuyến khích.",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 40 tuổi.<br><br><b>Bệnh sử:</b> Đến phòng khám tư vấn về chế độ ăn cho bệnh gút sau khi được chẩn đoán sau cơn cấp đầu tiên. Bệnh nhân muốn biết loại thực phẩm nào cần hạn chế và loại nào được khuyến khích.<br><br><b>Xét nghiệm:</b> Acid uric máu: 500 µmol/L.",
       "questions": [
         {
           "q": "Nhóm thực phẩm nào sau đây có hàm lượng purine cao nhất và cần được hạn chế nghiêm ngặt?",
           "options": [
-            "Rau xanh và các loại đậu",
-            "Nội tạng động vật (gan, lòng), thịt thú rừng, và một số loại hải sản (cá trích, cá mòi)",
-            "Các sản phẩm từ sữa",
-            "Trái cây"
+            "Nội tạng động vật (gan, lòng), thịt thú rừng, và một số loại hải sản (cá trích, cá mòi).",
+            "Rau xanh và các loại đậu.",
+            "Các sản phẩm từ sữa.",
+            "Trái cây."
           ],
-          "answer": 1,
-          "explain": "<b>Nội tạng động vật, thịt thú rừng và các loại cá nhỏ nhiều dầu</b> là những thực phẩm có hàm lượng purine rất cao và nên được tránh. Thịt đỏ (bò, lợn, cừu) có hàm lượng purine trung bình-cao và nên được hạn chế."
+          "answer": 0,
+          "explain": "Nội tạng động vật, thịt thú rừng và các loại cá nhỏ nhiều dầu là những thực phẩm có hàm lượng purine rất cao và nên được tránh. Thịt đỏ (bò, lợn, cừu) có hàm lượng purine trung bình cao và nên được hạn chế."
         },
         {
-          "q": "Tại sao bia lại đặc biệt có hại cho bệnh nhân gút?",
+          "q": "Cơ chế nào giải thích rõ nhất vì sao bia làm tăng nguy cơ cơn gút?",
           "options": [
-            "Vì bia chứa cồn, làm giảm thải acid uric",
-            "Vì bia rất giàu guanosine, một loại purine dễ dàng chuyển hóa thành acid uric",
-            "Vì bia gây mất nước",
-            "Cả A và B đều đúng"
+            "Khi carbon dioxide trong bia làm kết tủa urat trực tiếp tại khớp.",
+            "Bia làm tăng lọc urat và đồng thời giảm tổng hợp purine tại gan.",
+            "Cồn làm giảm thải urat, đồng thời men bia cung cấp lượng purine đáng kể.",
+            "Bia chỉ gây mất nước mà không ảnh hưởng chuyển hóa acid uric."
           ],
-          "answer": 3,
-          "explain": "Bia có <b>tác động kép</b>: <b>cồn trong bia làm giảm sự bài tiết acid uric của thận</b>, trong khi bản thân bia (đặc biệt là men bia) lại <b>chứa một lượng lớn purine</b>, làm tăng sản xuất acid uric. Rượu mạnh cũng làm giảm thải, trong khi rượu vang ở mức độ vừa phải dường như ít ảnh hưởng hơn."
+          "answer": 2,
+          "explain": "Bia có tác động kép: ethanol làm giảm bài tiết urat, còn men bia chứa purine làm tăng nguồn tạo acid uric. Vì vậy bia liên quan chặt với tăng urat máu và cơn gút."
         },
         {
           "q": "Loại thực phẩm nào sau đây đã được chứng minh là có tác dụng bảo vệ, giúp làm giảm nguy cơ mắc bệnh gút và các cơn cấp?",
           "options": [
-            "Thịt đỏ",
-            "Nước ngọt có đường fructose",
-            "Các sản phẩm sữa ít béo và vitamin C",
-            "Hải sản có vỏ (tôm, cua)"
+            "Các sản phẩm sữa ít béo và vitamin C.",
+            "Hải sản có vỏ (tôm, cua).",
+            "Thị đỏ.",
+            "Nước ngọt có đường fructose."
           ],
-          "answer": 2,
-          "explain": "Nhiều nghiên cứu dịch tễ học lớn đã cho thấy việc tiêu thụ <b>các sản phẩm sữa ít béo</b> (sữa chua, sữa tươi) có liên quan đến việc giảm nồng độ acid uric và giảm nguy cơ gút. <b>Vitamin C</b> cũng có tác dụng tăng thải acid uric nhẹ. <b>Cà phê</b> cũng được cho là có tác dụng bảo vệ."
+          "answer": 0,
+          "explain": "Nhiều nghiên cứu dịch tễ học lớn đã cho thấy việc tiêu thụ các sản phẩm sữa ít béo (sữa chua, sữa tươi) có liên quan đến việc giảm nồng độ acid uric và giảm nguy cơ gút. Vitamin C cũng có tác dụng tăng thải acid uric nhẹ. Cà phê cũng được cho là có tác dụng bảo vệ."
         },
         {
           "q": "Cơ chế nào giải thích tại sao đường fructose (thường có trong nước ngọt) lại làm tăng acid uric máu?",
           "options": [
-            "Fructose cạnh tranh bài tiết với acid uric tại thận",
-            "Fructose làm tăng sự dị hóa của các nucleotide purine (ATP) trong quá trình chuyển hóa của nó tại gan, dẫn đến tăng sản xuất acid uric",
-            "Fructose có cấu trúc tương tự acid uric",
-            "Fructose kích thích sự thèm ăn các thực phẩm giàu purine"
+            "Fructose cạnh tranh bài tiết với acid uric tại thận.",
+            "Fructose kích thích sự thèm ăn các thực phẩm giàu purine.",
+            "Fructose làm tăng sự dị hóa của các nucleotide purine (ATP) trong quá trình chuyển hóa của nó tại gan, dẫn đến tăng sản xuất acid uric.",
+            "Fructose có cấu trúc tương tự acid uric."
           ],
-          "answer": 1,
-          "explain": "Quá trình phosphoryl hóa fructose trong gan <b>tiêu thụ một lượng lớn ATP</b>, biến nó thành AMP. AMP sau đó được giáng hóa thành inosine và cuối cùng là <b>acid uric</b>, dẫn đến sự gia tăng sản xuất cấp tính. Fructose cũng có thể làm giảm sự bài tiết acid uric qua thận."
+          "answer": 2,
+          "explain": "Quá trình phosphoryl hóa fructose trong gan tiêu thụ một lượng lớn ATP, biến nó thành AMP. AMP sau đó được giáng hóa thành inosine và cuối cùng là acid uric, dẫn đến sự gia tăng sản xuất cấp tính. Fructose cũng có thể làm giảm sự bài tiết acid uric qua thận."
         },
         {
           "q": "Lời khuyên nào là đúng nhất về vai trò của chế độ ăn trong quản lý bệnh gút?",
           "options": [
-            "Chỉ cần thay đổi chế độ ăn là đủ để kiểm soát bệnh gút nặng",
-            "Chế độ ăn không có vai trò gì trong bệnh gút",
-            "Thay đổi lối sống và chế độ ăn là một phần quan trọng trong quản lý bệnh gút, nhưng không thể thay thế được liệu pháp hạ acid uric máu ở những bệnh nhân có chỉ định",
-            "Bệnh nhân gút nên tránh ăn tất cả các loại rau"
+            "Bệnh nhân gút nên tránh ăn tất cả các loại rau.",
+            "Chế độ ăn không có vai trò gì trong bệnh gút.",
+            "Thay đổi lối sống và chế độ ăn là một phần quan trọng trong quản lý bệnh gút, nhưng không thể thay thế được liệu pháp hạ acid uric máu ở những bệnh nhân có chỉ định.",
+            "Chỉ cần thay đổi chế độ ăn là đủ để kiểm soát bệnh gút nặng."
           ],
           "answer": 2,
-          "explain": "<b>Chế độ ăn và lối sống lành mạnh</b> (duy trì cân nặng, tập thể dục, uống đủ nước, hạn chế thực phẩm nguy cơ cao) là rất quan trọng và có thể giúp giảm nồng độ acid uric và tần suất các cơn cấp. Tuy nhiên, ở những BN đã có chỉ định dùng thuốc, <b>chỉ riêng chế độ ăn thường không đủ</b> để đạt được mục tiêu acid uric, và việc tuân thủ liệu pháp hạ acid uric máu vẫn là nền tảng của điều trị."
+          "explain": "Chế độ ăn và lối sống lành mạnh (duy trì cân nặng, tập thể dục, uống đủ nước, hạn chế thực phẩm nguy cơ cao) là rất quan trọng và có thể giúp giảm nồng độ acid uric và tần suất các cơn cấp. Tuy nhiên, ở những bệnh nhân đã có chỉ định dùng thuốc, chỉ riêng chế độ ăn thường không đủ để đạt được mục tiêu acid uric, và việc tuân thủ liệu pháp hạ acid uric máu vẫn là nền tảng của điều trị."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 45 tuổi đau dữ dội khớp ngón chân cái đột ngột lúc nửa đêm",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi, nhân viên văn phòng.<br><br><b>Bệnh sử:</b> Vào viện vì đau dữ dội khớp ngón chân cái bên phải khởi phát đột ngột lúc nửa đêm sau một bữa tiệc hải sản và uống nhiều bia. Bệnh nhân chưa từng bị triệu chứng tương tự trước đây, không có tiền sử chấn thương.<br><br><b>Tiền sử:</b> Không sử dụng thuốc mạn tính.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh táo, thể trạng béo phì với BMI 28 kg/m², nhiệt độ 37.5°C, mạch 90 lần/phút, huyết áp 130/80 mmHg, SpO2 98%. Khớp bàn ngón chân cái bên phải sưng to, đỏ thẫm, sờ rất nóng và đau chói khi chạm nhẹ. Các khớp khác hoàn toàn bình thường, không sờ thấy hạt tophi dưới da.<br><br><b>Xét nghiệm:</b> Bạch cầu: 11 G/L, CRP: 45 mg/L, acid uric máu: 520 µmol/L, creatinin: 85 µmol/L (chức năng thận bình thường).",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng phù hợp nhất cho tình trạng hiện tại là gì?",
+          "options": [
+            "Cơn gout cấp tính lần đầu.",
+            "Viêm khớp nhiễm khuẩn cấp tính.",
+            "Đợt cấp thoái hóa khớp.",
+            "Viêm khớp phản ứng."
+          ],
+          "answer": 0,
+          "explain": "Bệnh cảnh viêm khớp cấp tính, sưng nóng đỏ đau dữ dội khởi phát đột ngột về đêm ở khớp bàn ngón chân cái (khớp podagra) sau bữa ăn nhiều purin và rượu bia ở nam giới tuổi trung niên là biểu hiện kinh điển của cơn gout cấp. Viêm khớp nhiễm khuẩn thường đi kèm sốt cao, rét run và có đường vào, trong khi thoái hóa khớp không có bệnh cảnh viêm rầm rộ như vậy."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh cốt lõi gây ra tình trạng viêm khớp bùng phát ở bệnh nhân này là gì?",
+          "options": [
+            "Tăng sinh màng hoạt dịch mạn tính.",
+            "Hoạt hóa phức hợp inflammasome NLRP3.",
+            "Lắng đọng phức hợp miễn dịch lưu hành.",
+            "Phá hủy sụn khớp qua trung gian T CD4."
+          ],
+          "answer": 1,
+          "explain": "Tinh thể monosodium urate lắng đọng tại khớp sẽ được đại thực bào thực bào, dẫn đến sự hoạt hóa phức hợp inflammasome NLRP3 bên trong tế bào. Quá trình này kích hoạt caspase-1, từ đó chuyển pro-IL-1β thành IL-1β hoạt động, khởi phát dòng thác viêm cấp tính rầm rộ. Các cơ chế phức hợp miễn dịch hay tăng sinh màng hoạt dịch thuộc về các bệnh lý tự miễn như lupus hay viêm khớp dạng thấp."
+        },
+        {
+          "q": "Thăm dò cận lâm sàng nào được xem là tiêu chuẩn vàng để khẳng định chẩn đoán?",
+          "options": [
+            "Siêu âm khớp bàn ngón chân cái.",
+            "Soi dịch khớp dưới kính hiển vi phân cực.",
+            "Chụp X-quang quy ước bàn chân phải.",
+            "Chụp cộng hưởng từ bàn chân."
+          ],
+          "answer": 1,
+          "explain": "Tiêu chuẩn vàng để chẩn đoán xác định bệnh gout là chọc hút dịch khớp và quan sát thấy tinh thể monosodium urate hình kim, có tính lưỡng chiết quang âm dưới kính hiển vi phân cực. Các phương pháp chẩn đoán hình ảnh như siêu âm hay X-quang chỉ mang tính chất gợi ý và đánh giá tổn thương cấu trúc ở giai đoạn muộn."
+        },
+        {
+          "q": "Lựa chọn ưu tiên hàng đầu để kiểm soát triệu chứng cấp tính trong trường hợp này là gì?",
+          "options": [
+            "Colchicine đường uống.",
+            "Cephalosporin đường tĩnh mạch.",
+            "Methotrexate đường uống.",
+            "Allopurinol đường uống."
+          ],
+          "answer": 0,
+          "explain": "Trong cơn gout cấp, mục tiêu là kiểm soát viêm bằng thuốc chống viêm không steroid (NSAIDs), Colchicine hoặc Corticosteroid. Allopurinol là thuốc hạ acid uric máu, không phải thuốc cắt cơn. Thuốc đang dùng không nên bị ngừng khi xuất hiện cơn cấp; việc khởi trị có thể được cân nhắc ngay trong cơn nếu có chỉ định, kèm điều trị chống viêm."
+        },
+        {
+          "q": "Nếu bệnh nhân được kê đơn Colchicine, tác dụng phụ phổ biến nhất cần theo dõi là gì?",
+          "options": [
+            "Xuất huyết tiêu hóa cao.",
+            "Suy tế bào gan cấp tính.",
+            "Tiêu chảy và đau quặn bụng.",
+            "Nhịp tim chậm có triệu chứng."
+          ],
+          "answer": 2,
+          "explain": "Colchicine ức chế sự trùng hợp vi ống, ảnh hưởng đến các tế bào có tốc độ luân chuyển nhanh như tế bào niêm mạc ruột. Do đó, tác dụng phụ phổ biến nhất của Colchicine là rối loạn tiêu hóa, đặc biệt là tiêu chảy, buồn nôn và đau quặn bụng, thường xuất hiện trước khi có độc tính toàn thân."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 60 tuổi xuất hiện nhiều nốt sần dưới da ở vành tai và khuỷu tay",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Bệnh sử:</b> Đến khám định kỳ vì xuất hiện nhiều nốt sần dưới da. Bệnh nhân không sốt, không có cơn đau khớp cấp tính trong 2 tháng qua.<br><br><b>Tiền sử:</b> Bệnh gút mạn tính 10 năm nay nhưng không tuân thủ điều trị.<br><br><b>Khám lâm sàng:</b> Huyết áp 140/90 mmHg, nhịp tim 80 lần/phút. Phát hiện nhiều khối u cục cứng, không đau, ranh giới rõ, màu trắng ngà nằm dưới da ở vành tai hai bên, khuỷu tay và quanh các khớp ngón tay, không có dấu hiệu viêm đỏ hay vỡ loét.<br><br><b>Xét nghiệm:</b> Acid uric máu: 650 µmol/L, creatinin: 95 µmol/L, chức năng gan bình thường.",
+      "questions": [
+        {
+          "q": "Tình trạng lâm sàng hiện tại của bệnh nhân được phân loại là gì?",
+          "options": [
+            "Bệnh gout mạn tính có hạt tophi.",
+            "Thoái hóa đa khớp bàn tay.",
+            "Bệnh gout cấp tính đa khớp.",
+            "Viêm khớp dạng thấp tiến triển."
+          ],
+          "answer": 0,
+          "explain": "Sự hiện diện của các u cục cứng, màu trắng ngà ở vành tai, khuỷu tay và quanh khớp ở bệnh nhân có tiền sử gout lâu năm là đặc điểm điển hình của hạt tophi. Bệnh nhân hiện không có sưng nóng đỏ đau nên đây là giai đoạn gout mạn tính có hạt tophi."
+        },
+        {
+          "q": "Mục tiêu kiểm soát acid uric máu tối ưu nhất cho bệnh nhân này là bao nhiêu?",
+          "options": [
+            "Dưới 360 µmol/L.",
+            "Dưới 300 µmol/L.",
+            "Dưới 200 µmol/L.",
+            "Dưới 420 µmol/L."
+          ],
+          "answer": 1,
+          "explain": "Mục tiêu điều trị hạ acid uric máu ở bệnh nhân gout nói chung là dưới 360 µmol/L (< 6 mg/dL). Tuy nhiên, ở bệnh nhân đã hình thành hạt tophi hoặc có tổn thương cấu trúc khớp, mục tiêu cần nghiêm ngặt hơn là dưới 300 µmol/L (< 5 mg/dL) để thúc đẩy hòa tan tinh thể urat đã lắng đọng."
+        },
+        {
+          "q": "Dấu hiệu tổn thương đặc trưng nhất của bệnh lý này trên phim X-quang quy ước là gì?",
+          "options": [
+            "Hình ảnh khuyết xương hình hốc.",
+            "Hẹp khe khớp lan tỏa đồng đều.",
+            "Dày màng xương phản ứng.",
+            "Dải canxi hóa sụn khớp."
+          ],
+          "answer": 0,
+          "explain": "Hình ảnh X-quang kinh điển của gout mạn tính là các khuyết xương (bào mòn xương) hình hốc, dập lỗ (punched-out erosions) nằm ở rìa khớp hoặc ngoài ranh giới khớp, thường có viền xơ cứng nhô ra như bờ vòm (overhanging edges). Dải canxi hóa sụn khớp là đặc trưng của bệnh giả gout (CPPD)."
+        },
+        {
+          "q": "Chỉ định điều trị hạ acid uric máu lâu dài áp dụng cho các trường hợp sau, NGOẠI TRỪ:",
+          "options": [
+            "Bệnh gout có hạt tophi dưới da.",
+            "Viêm khớp gout cấp lần đầu tiên.",
+            "Bệnh gout kèm sỏi urat đường niệu.",
+            "Tổn thương xương khớp do gout."
+          ],
+          "answer": 1,
+          "explain": "Theo hướng dẫn của ACR, chỉ định bắt buộc dùng thuốc hạ acid uric bao gồm: có hạt tophi, có tổn thương xương trên X-quang do gout, hoặc có từ 2 đợt gout cấp trở lên trong 1 năm. Viêm khớp gout cấp lần đầu tiên không có biến chứng thường chưa có chỉ định dùng thuốc hạ acid uric dài hạn ngay lập tức mà ưu tiên thay đổi lối sống."
+        },
+        {
+          "q": "Khi bắt đầu điều trị hạ acid uric máu cho bệnh nhân này, biện pháp quản lý nào là bắt buộc?",
+          "options": [
+            "Dùng kèm kháng sinh phổ rộng dự phòng.",
+            "Dùng kèm Colchicine liều thấp dự phòng.",
+            "Bơm rửa ổ khớp bằng nước muối sinh lý.",
+            "Truyền tĩnh mạch natri bicarbonate."
+          ],
+          "answer": 1,
+          "explain": "Sự dao động nồng độ acid uric máu khi mới bắt đầu dùng thuốc hạ urat (như Allopurinol) có thể huy động tinh thể urat từ các mô lắng đọng, kích hoạt cơn gout cấp. Do đó, việc dùng kèm Colchicine liều thấp (hoặc NSAIDs) trong 3-6 tháng đầu là bắt buộc để dự phòng cơn bùng phát."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 68 tuổi suy thận mạn sưng đau dữ dội khớp gối phải",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 68 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì sưng đau dữ dội khớp gối phải từ sáng nay. Bệnh nhân không sốt, không có chấn thương trước đó.<br><br><b>Tiền sử:</b> Suy thận mạn giai đoạn 4 (eGFR 25 mL/phút/1.73m²) và tăng huyết áp.<br><br><b>Khám lâm sàng:</b> Huyết áp 150/90 mmHg, nhịp tim 88 lần/phút. Khớp gối phải sưng to, nóng, đỏ, gập duỗi rất hạn chế do đau, các khớp khác không biến dạng.<br><br><b>Xét nghiệm:</b> Acid uric máu: 580 µmol/L, creatinin máu: 220 µmol/L. Siêu âm khớp gối phải có nhiều dịch và hình ảnh đường đôi màng sụn.",
+      "questions": [
+        {
+          "q": "Lựa chọn thuốc cắt cơn viêm cấp tính phù hợp và an toàn nhất cho bệnh nhân này là gì?",
+          "options": [
+            "Ibuprofen đường uống.",
+            "Allopurinol đường tĩnh mạch.",
+            "Corticosteroid đường uống hoặc tiêm khớp.",
+            "Colchicine đường uống liều cao."
+          ],
+          "answer": 2,
+          "explain": "Ở bệnh nhân suy thận mạn giai đoạn 4 (eGFR < 30 mL/phút), NSAIDs bị chống chỉ định tuyệt đối do làm giảm tưới máu thận, và Colchicine cũng bị chống chỉ định hoặc phải giảm liều rất sâu do nguy cơ ngộ độc tích lũy. Corticosteroid (đường uống hoặc tiêm nội khớp sau khi loại trừ nhiễm trùng) là lựa chọn an toàn và hiệu quả nhất."
+        },
+        {
+          "q": "Cơ chế chính gây tăng acid uric máu ở bệnh nhân suy thận mạn là gì?",
+          "options": [
+            "Giảm bài tiết acid uric qua thận.",
+            "Giảm chuyển hóa acid uric tại gan.",
+            "Tăng thoái giáng purin từ mô cơ.",
+            "Tăng tổng hợp acid uric nội sinh."
+          ],
+          "answer": 0,
+          "explain": "Acid uric được đào thải chủ yếu qua thận (khoảng 70%). Ở bệnh nhân suy thận mạn, độ lọc cầu thận giảm dẫn đến giảm bài tiết acid uric qua thận, là cơ chế nguyên phát gây giữ lại và làm tăng nồng độ acid uric trong máu."
+        },
+        {
+          "q": "Hình ảnh \"đường đôi\" trên siêu âm khớp gối phản ánh tổn thương bệnh lý nào?",
+          "options": [
+            "Viêm nề màng xương quanh khớp gối.",
+            "Đứt rách sụn chêm và dây chằng chéo.",
+            "Dày bao hoạt dịch có tân sinh mạch máu.",
+            "Lắng đọng urat trên bề mặt sụn khớp."
+          ],
+          "answer": 3,
+          "explain": "Hình ảnh \"đường đôi\" (double contour sign) trên siêu âm khớp là một dấu hiệu có độ đặc hiệu rất cao cho bệnh gout. Nó phản ánh sự lắng đọng của các tinh thể monosodium urate trên bề mặt của lớp sụn trong hyalin, tạo ra một đường phản âm thứ hai song song với đường viền xương dưới sụn."
+        },
+        {
+          "q": "Thuốc hạ acid uric lâu dài nào được ưu tiên khởi đầu ở bệnh nhân gút có bệnh thận mạn giai đoạn 4?",
+          "options": [
+            "Probenecid liều chuẩn, sau đó tăng nhanh theo triệu chứng đau khớp.",
+            "Lesinurad đơn trị liệu mà không cần theo dõi chức năng thận.",
+            "Allopurinol liều thấp, sau đó tăng dần theo urat máu và khả năng dung nạp.",
+            "Pegloticase truyền tĩnh mạch ngay từ đầu cho mọi bệnh nhân suy thận."
+          ],
+          "answer": 2,
+          "explain": "Allopurinol vẫn là thuốc hạ urat hàng đầu, kể cả ở bệnh thận mạn. Cần khởi đầu liều thấp và tăng dần theo chiến lược điều trị đến mục tiêu, đồng thời theo dõi chức năng thận và phản ứng quá mẫn. Thuốc tăng thải urat kém hiệu quả hoặc không phù hợp khi eGFR giảm nặng; pegloticase dành cho gút kháng trị."
+        },
+        {
+          "q": "Nếu xét nghiệm dịch khớp gối cho thấy bạch cầu 60.000/µl với 90% bạch cầu đa nhân trung tính, không thấy tinh thể urat, thái độ xử trí tiếp theo đúng nhất là gì?",
+          "options": [
+            "Tăng liều Corticosteroid toàn thân.",
+            "Cấy dịch khớp và dùng kháng sinh kinh nghiệm.",
+            "Bơm rửa ổ khớp bằng dung dịch kiềm hóa.",
+            "Khởi động điều trị Allopurinol ngay."
+          ],
+          "answer": 1,
+          "explain": "Dịch khớp có bạch cầu > 50.000/µl với ưu thế bạch cầu đa nhân trung tính, kèm theo không tìm thấy tinh thể, là dấu hiệu báo động đỏ của viêm khớp nhiễm khuẩn. Bệnh nhân cần được cấy dịch khớp và bắt đầu dùng kháng sinh phổ rộng theo kinh nghiệm ngay lập tức để cứu vãn cấu trúc khớp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 55 tuổi sưng đau rát khớp cổ chân trái",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 55 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì sưng đau rát khớp cổ chân trái, bắt đầu từ ngày hôm qua. Bệnh nhân không sốt, không ăn nhậu trước đó.<br><br><b>Tiền sử:</b> Tăng huyết áp 5 năm, mới được bác sĩ tuyến dưới kê đơn Hydrochlorothiazide 25mg/ngày cách đây 2 tháng.<br><br><b>Khám lâm sàng:</b> BMI 27 kg/m². Khớp cổ chân trái đỏ, phù nề, đau chói khi vận động thụ động.<br><br><b>Xét nghiệm:</b> Chức năng thận bình thường, acid uric máu tăng cao 560 µmol/L.",
+      "questions": [
+        {
+          "q": "Yếu tố nào là nguyên nhân trực tiếp kích phát cơn viêm khớp ở bệnh nhân này?",
+          "options": [
+            "Tình trạng thừa cân béo phì.",
+            "Thoái hóa sụn khớp cổ chân.",
+            "Bệnh lý tăng huyết áp mạn tính.",
+            "Thuốc lợi tiểu Hydrochlorothiazide."
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân không có yếu tố khởi phát từ chế độ ăn, nhưng mới bắt đầu sử dụng thuốc lợi tiểu thiazide (Hydrochlorothiazide) 2 tháng nay. Lợi tiểu thiazide là nguyên nhân thứ phát rất phổ biến gây tăng acid uric máu và kích phát cơn gout cấp."
+        },
+        {
+          "q": "Cơ chế gây tăng acid uric máu của nhóm thuốc bệnh nhân đang dùng là gì?",
+          "options": [
+            "Tăng dị hóa nucleotide purin ở cơ.",
+            "Gây hoại tử tế bào gan vi thể.",
+            "Tăng tái hấp thu urat ở ống lượn gần.",
+            "Giảm bài tiết urat ở ống lượn xa."
+          ],
+          "answer": 2,
+          "explain": "Các thuốc lợi tiểu thiazide và lợi tiểu quai gây giảm thể tích tuần hoàn nhẹ, dẫn đến cơ chế bù trừ tại thận là tăng cường tái hấp thu natri và urat tại ống lượn gần, làm giảm thải trừ acid uric và gây tăng acid uric máu."
+        },
+        {
+          "q": "Lựa chọn thuốc chống tăng huyết áp nào sau đây có tác dụng hỗ trợ tăng đào thải acid uric?",
+          "options": [
+            "Enalapril.",
+            "Amlodipine.",
+            "Bisoprolol.",
+            "Losartan."
+          ],
+          "answer": 3,
+          "explain": "Losartan là thuốc chẹn thụ thể angiotensin II (ARB) duy nhất được chứng minh có đặc tính ức chế kênh vận chuyển urat (URAT1) ở ống thận, qua đó làm tăng đào thải acid uric qua nước tiểu. Đây là lựa chọn hạ áp lý tưởng cho bệnh nhân gout."
+        },
+        {
+          "q": "Thái độ xử trí phù hợp nhất đối với thuốc lợi tiểu trong đợt cấp này là gì?",
+          "options": [
+            "Thêm thuốc chẹn beta giao cảm để đối kháng.",
+            "Giữ nguyên liều thuốc lợi tiểu đang dùng.",
+            "Tăng gấp đôi liều thuốc lợi tiểu để thải độc.",
+            "Tạm ngừng hoặc chuyển đổi nhóm thuốc hạ áp."
+          ],
+          "answer": 3,
+          "explain": "Thuốc lợi tiểu thiazide đang là yếu tố căn nguyên gây tăng acid uric máu và bùng phát cơn gout. Thái độ đúng đắn là tạm ngừng thuốc lợi tiểu này và chuyển đổi sang một nhóm thuốc hạ huyết áp khác an toàn hơn (như chẹn kênh canxi hoặc ARB) để hỗ trợ kiểm soát bệnh."
+        },
+        {
+          "q": "Nếu lựa chọn Colchicine để cắt cơn cấp, khoảng thời gian khởi trị nào mang lại hiệu quả cao nhất?",
+          "options": [
+            "Trong vòng 12 đến 24 giờ đầu.",
+            "Sau khi triệu chứng sưng đã giảm.",
+            "Từ ngày thứ 3 đến ngày thứ 5.",
+            "Bất kỳ thời điểm nào trong đợt cấp."
+          ],
+          "answer": 0,
+          "explain": "Colchicine hoạt động bằng cách ức chế hóa ứng động bạch cầu. Thuốc có hiệu quả cắt cơn cao nhất khi được sử dụng sớm trong vòng 12 đến 24 giờ (tối đa 36 giờ) kể từ khi khởi phát triệu chứng. Nếu dùng muộn hơn, hiệu quả giảm đi rõ rệt và tác dụng phụ trên tiêu hóa lại tăng lên."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi đau nhức dữ dội khớp bàn ngón chân cái sau tự ngưng thuốc",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi.<br><br><b>Bệnh sử:</b> Sáng nay bị đau nhức dữ dội khớp bàn ngón chân cái bên phải, không thể đi lại được. Do bị cảm lạnh, bệnh nhân tự ý ngừng Allopurinol 1 tuần nay, sau đó lại uống bù liều gấp đôi (600mg) vào ngày hôm qua.<br><br><b>Tiền sử:</b> Bệnh gout 3 năm, đang điều trị ngoại trú bằng Allopurinol 300mg/ngày.<br><br><b>Khám lâm sàng:</b> Sinh hiệu ổn định. Khớp bàn ngón chân cái bên phải sưng đỏ thẫm.<br><br><b>Xét nghiệm:</b> Acid uric máu hiện tại: 310 µmol/L.",
+      "questions": [
+        {
+          "q": "Yếu tố nào là nguyên nhân chính khởi phát cơn viêm khớp cấp lần này?",
+          "options": [
+            "Tình trạng nhiễm virus cảm lạnh toàn thân.",
+            "Tương tác thuốc giữa Allopurinol và thuốc cảm.",
+            "Nồng độ acid uric máu giảm xuống dưới chuẩn.",
+            "Sự thay đổi nồng độ acid uric máu đột ngột."
+          ],
+          "answer": 3,
+          "explain": "Việc ngừng Allopurinol đột ngột rồi uống bù liều cao tạo ra sự dao động (tăng rồi giảm) nồng độ acid uric máu rất mạnh. Sự dao động đột ngột này làm mất ổn định các vi tinh thể urat đã lắng đọng trong sụn khớp, khiến chúng rơi vào dịch khớp và kích hoạt cơn gout cấp. Nồng độ acid uric máu đo lúc đang có cơn cấp thường bình thường hoặc thấp do tác dụng của các cytokine viêm làm tăng thải urat."
+        },
+        {
+          "q": "Theo hướng dẫn điều trị, thái độ xử trí với Allopurinol trong thời điểm cơn cấp đang diễn ra là gì?",
+          "options": [
+            "Tăng liều Allopurinol lên 600mg/ngày để ức chế viêm.",
+            "Đổi ngay sang Febuxostat để thay thế Allopurinol.",
+            "Tiếp tục duy trì Allopurinol với liều 300mg/ngày.",
+            "Tạm ngừng Allopurinol cho đến khi hết viêm."
+          ],
+          "answer": 2,
+          "explain": "Theo các hướng dẫn hiện hành (ACR, EULAR), nếu bệnh nhân đang sử dụng thuốc hạ acid uric (Allopurinol) mà xuất hiện cơn gout cấp, tuyệt đối KHÔNG ĐƯỢC ngừng thuốc mà phải tiếp tục duy trì liều đang dùng, đồng thời bổ sung các thuốc cắt cơn viêm (NSAIDs, Colchicine)."
+        },
+        {
+          "q": "Cơ chế tác dụng chính của Allopurinol trong điều trị gout là gì?",
+          "options": [
+            "Phân giải trực tiếp tinh thể urat tại khớp.",
+            "Tăng cường đào thải acid uric qua thận.",
+            "Ngăn cản bạch cầu đa nhân thâm nhập khớp.",
+            "Ức chế cạnh tranh enzyme xanthine oxidase."
+          ],
+          "answer": 3,
+          "explain": "Allopurinol là một chất ức chế cạnh tranh với enzyme xanthine oxidase, qua đó ngăn chặn quá trình chuyển hóa hypoxanthine thành xanthine và xanthine thành acid uric, làm giảm sản xuất acid uric nội sinh."
+        },
+        {
+          "q": "Phương án điều trị tốt nhất cho đợt viêm khớp hiện tại của bệnh nhân là gì?",
+          "options": [
+            "Probenecid đường uống phối hợp vitamin C.",
+            "Ngừng mọi thuốc để cơ thể tự điều chỉnh.",
+            "NSAIDs hoặc Colchicine đường uống.",
+            "Kháng sinh phổ rộng đường tĩnh mạch."
+          ],
+          "answer": 2,
+          "explain": "Cơn viêm khớp cấp cần được điều trị bằng các thuốc chống viêm chuyên biệt như NSAIDs (như Diclofenac, Celecoxib), Colchicine hoặc Corticosteroid. Probenecid là thuốc hạ urat, không có tác dụng chống viêm."
+        },
+        {
+          "q": "Tác dụng phụ trên da hiếm gặp nhưng đe dọa tính mạng của Allopurinol là gì?",
+          "options": [
+            "Viêm mô tế bào hoại tử.",
+            "Ban đỏ nút đa dạng.",
+            "Vảy nến thể mủ toàn thân.",
+            "Hội chứng Stevens-Johnson."
+          ],
+          "answer": 3,
+          "explain": "Một trong những độc tính nguy hiểm nhất của Allopurinol là phản ứng quá mẫn nặng trên da, bao gồm hội chứng Stevens-Johnson (SJS), hoại tử thượng bì nhiễm độc (TEN) và hội chứng DRESS. Đây là biến chứng đe dọa tính mạng cần được nhận biết sớm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 72 tuổi sưng đau cấp tính khớp gối phải kéo dài 2 ngày",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 72 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì sưng đau cấp tính khớp gối phải kéo dài 2 ngày nay.<br><br><b>Tiền sử:</b> Thoái hóa khớp gối và đái tháo đường type 2.<br><br><b>Khám lâm sàng:</b> Nhiệt độ 37.8°C, khớp gối phải sưng to, nóng nhẹ, tràn dịch ổ khớp mức độ nhiều, không có điểm đau khu trú.<br><br><b>Xét nghiệm:</b> X-quang khớp gối ghi nhận gai xương rìa khớp và hình ảnh dải canxi hóa mỏng dọc theo lớp sụn khớp (chondrocalcinosis). Chọc hút dịch khớp gối thu được dịch vàng đục, xét nghiệm dịch có bạch cầu 25.000/µl với 85% bạch cầu đa nhân trung tính.",
+      "questions": [
+        {
+          "q": "Dựa trên các dữ kiện lâm sàng và X-quang, chẩn đoán nào được nghĩ đến nhiều nhất?",
+          "options": [
+            "Bệnh giả gout (pseudogout).",
+            "Viêm khớp dạng thấp khởi phát muộn.",
+            "Bệnh viêm khớp gout cấp tính.",
+            "Viêm khớp nhiễm khuẩn cấp."
+          ],
+          "answer": 0,
+          "explain": "Phụ nữ lớn tuổi, viêm cấp tính một khớp lớn (khớp gối), có hình ảnh dải canxi hóa sụn khớp (chondrocalcinosis) trên X-quang là bệnh cảnh rất điển hình của bệnh giả gout (pseudogout), thường khởi phát trên nền khớp đã bị thoái hóa."
+        },
+        {
+          "q": "Phân tích dịch khớp dưới kính hiển vi phân cực của bệnh lý này sẽ cho thấy đặc điểm gì?",
+          "options": [
+            "Tinh thể hình vuông, không có tính lưỡng chiết quang.",
+            "Tinh thể hình thoi, lưỡng chiết quang dương yếu.",
+            "Tinh thể hình kim, lưỡng chiết quang âm mạnh.",
+            "Tinh thể hình đa giác, lưỡng chiết quang âm yếu."
+          ],
+          "answer": 1,
+          "explain": "Bệnh giả gout do lắng đọng tinh thể canxi pyrophosphate (CPPD). Dưới kính hiển vi phân cực, tinh thể CPPD có đặc điểm là hình thoi (hoặc chữ nhật) và có tính lưỡng chiết quang dương yếu (trái ngược với tinh thể urat hình kim, lưỡng chiết âm mạnh của bệnh gout)."
+        },
+        {
+          "q": "Nhóm bệnh nội tiết - chuyển hóa nào liên quan điển hình với bệnh lắng đọng tinh thể CPPD?",
+          "options": [
+            "Đái tháo đường type 1, suy giáp và bệnh ứ sắt.",
+            "Cường cận giáp, đái tháo đường type 1 và bệnh ứ sắt.",
+            "Suy giáp, cường cận giáp và đái tháo đường type 1.",
+            "Suy giáp, cường cận giáp tiên phát và bệnh ứ sắt."
+          ],
+          "answer": 3,
+          "explain": "CPPD có liên quan với cường cận giáp, bệnh ứ sắt, hạ magnesi máu và một số rối loạn khác, suy giáp cũng thường được xem xét trong đánh giá nguyên nhân thứ phát. Đái tháo đường type 1 không phải liên quan điển hình."
+        },
+        {
+          "q": "Cơ chế hình thành tổn thương canxi hóa sụn khớp trong bệnh lý này là gì?",
+          "options": [
+            "Tổn thương vỡ sụn chêm do chấn thương cơ học.",
+            "Lắng đọng tinh thể calcium pyrophosphate dihydrate.",
+            "Lắng đọng tinh thể basic calcium phosphate.",
+            "Phì đại và khoáng hóa của gai xương rìa khớp."
+          ],
+          "answer": 1,
+          "explain": "Canxi hóa sụn khớp (chondrocalcinosis) là biểu hiện hình ảnh học đặc trưng của sự lắng đọng các tinh thể Calcium Pyrophosphate Dihydrate (CPPD) trong chất nền sụn trong hyalin hoặc sụn sợi (như sụn chêm khớp gối)."
+        },
+        {
+          "q": "Phương pháp xử trí cấp tính nào mang lại hiệu quả tại chỗ tốt nhất cho bệnh nhân này?",
+          "options": [
+            "Truyền tĩnh mạch Allopurinol liều cao.",
+            "Bắt đầu ngay liệu pháp kháng sinh phổ rộng.",
+            "Rửa khớp qua nội soi ổ khớp cấp cứu.",
+            "Hút sạch dịch khớp và tiêm corticoid nội khớp."
+          ],
+          "answer": 3,
+          "explain": "Điều trị cơn giả gout cấp tương tự như gout cấp. Đối với một khớp lớn như khớp gối có tràn dịch nhiều, hút sạch dịch khớp (giảm áp lực và loại bỏ bớt tinh thể, enzyme viêm) kết hợp tiêm Corticosteroid nội khớp là biện pháp điều trị tại chỗ an toàn, mang lại hiệu quả giảm đau và viêm nhanh nhất."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 35 tuổi sỏi thận acid uric tái phát nhiều lần và đau ngón chân cái",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 35 tuổi.<br><br><b>Bệnh sử:</b> Vào viện vì cơn gout cấp dữ dội tại khớp ngón chân cái.<br><br><b>Tiền sử:</b> Sỏi thận acid uric tái phát nhiều lần. Tiền sử gia đình có người anh trai cũng bị gout nặng từ thời thanh niên.<br><br><b>Khám lâm sàng:</b> Không có hạt tophi trên lâm sàng.<br><br><b>Xét nghiệm:</b> Chức năng thận hiện tại bình thường. Định lượng acid uric trong nước tiểu 24 giờ là 1000 mg (bình thường < 800 mg/24h).",
+      "questions": [
+        {
+          "q": "Rối loạn chuyển hóa acid uric ở bệnh nhân này thuộc nhóm cơ chế nào?",
+          "options": [
+            "Rối loạn tái hấp thu tại ống thận.",
+            "Rối loạn phân hủy acid uric tại gan.",
+            "Giảm bài tiết acid uric qua thận.",
+            "Tăng sản xuất acid uric nội sinh."
+          ],
+          "answer": 3,
+          "explain": "Bệnh nhân có acid uric niệu 24h là 1000 mg (> 800 mg/24h với chế độ ăn bình thường), điều này chứng tỏ thận đang đào thải một lượng rất lớn acid uric. Đây là nhóm tăng sản xuất acid uric (overproducers), chiếm khoảng 10% bệnh nhân gout. Đa số (90%) bệnh nhân gout thuộc nhóm giảm bài tiết (underexcreters)."
+        },
+        {
+          "q": "Nhóm thuốc hạ acid uric nào CHỐNG CHỈ ĐỊNH hoặc không phù hợp để dùng đơn trị liệu cho bệnh nhân này?",
+          "options": [
+            "Thuốc kháng viêm không steroid.",
+            "Các enzyme phân giải urat tái tổ hợp.",
+            "Thuốc tăng đào thải acid uric qua niệu.",
+            "Thuốc ức chế xanthine oxidase."
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân đã có tiền sử sỏi thận urat và đang thuộc nhóm tăng đào thải acid uric qua niệu. Nếu sử dụng nhóm thuốc tăng đào thải urat qua niệu (uricosurics) như Probenecid hay Benzbromarone, lượng acid uric qua đường niệu sẽ càng tăng vọt, làm trầm trọng thêm nguy cơ kết tủa sỏi thận và cơn đau quặn thận."
+        },
+        {
+          "q": "Mức pH nước tiểu mục tiêu cần đạt để giảm nguy cơ hình thành sỏi urat là bao nhiêu?",
+          "options": [
+            "Từ 6.0 đến 6.5.",
+            "Từ 4.5 đến 5.5.",
+            "Từ 7.5 đến 8.0.",
+            "Trên 8.5."
+          ],
+          "answer": 0,
+          "explain": "Tinh thể acid uric dễ kết tủa trong môi trường toan (pH < 5.5). Việc kiềm hóa nước tiểu bằng bicarbonate hoặc citrate để duy trì pH niệu trong khoảng 6.0-6.5 giúp tăng độ hòa tan của acid uric, ngăn ngừa sỏi. Không nên nâng pH > 7.0 vì sẽ làm tăng nguy cơ sỏi canxi phosphate."
+        },
+        {
+          "q": "Lựa chọn thuốc hạ acid uric máu khởi đầu phù hợp nhất cho bệnh nhân là gì?",
+          "options": [
+            "Probenecid.",
+            "Benzbromarone.",
+            "Allopurinol.",
+            "Sulfinpyrazone."
+          ],
+          "answer": 2,
+          "explain": "Đối với bệnh nhân tăng sản xuất acid uric và có tiền sử sỏi thận, Allopurinol (thuốc ức chế xanthine oxidase làm giảm tổng hợp acid uric) là lựa chọn đầu tay tuyệt đối. Các thuốc Probenecid, Benzbromarone, Sulfinpyrazone đều thuộc nhóm tăng đào thải qua thận, bị chống chỉ định."
+        },
+        {
+          "q": "Đột biến khiếm khuyết enzyme di truyền nào có thể giải thích cho tình trạng tăng sản xuất acid uric quá mức ở người trẻ tuổi này?",
+          "options": [
+            "Khuyết thiếu enzyme uricase bẩm sinh.",
+            "Thiếu hụt một phần enzyme HGPRT.",
+            "Giảm hoạt tính enzyme cyclooxygenase.",
+            "Đột biến gen mã hóa kênh URAT1."
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân nam trẻ tuổi, tăng sản xuất acid uric mức độ nặng và có tiền sử gia đình gợi ý một khiếm khuyết di truyền. Thiếu hụt một phần enzyme HGPRT (Hypoxanthine-guanine phosphoribosyltransferase) hoặc tăng hoạt tính PRPP synthetase là các rối loạn di truyền kinh điển dẫn đến tăng tổng hợp acid uric nội sinh (Hội chứng Lesch-Nyhan là thể thiếu hụt hoàn toàn HGPRT)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi hạt tophi ở khuỷu tay vỡ chảy mủ đục và sốt",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi.<br><br><b>Bệnh sử:</b> Ba ngày nay, đột ngột sốt 38.5°C, vùng khuỷu tay trái sưng tấy đỏ rực, đau nhức dữ dội, vết vỡ chảy dịch mủ đục hôi. Hai tuần trước, hạt tophi ở khuỷu tay trái tự vỡ, chảy dịch chất trắng như phấn.<br><br><b>Tiền sử:</b> Gút mạn tính nhiều năm với nhiều hạt tophi lớn ở khuỷu tay và bàn tay hai bên.<br><br><b>Khám lâm sàng:</b> Huyết áp 110/70 mmHg, mạch 105 lần/phút. Vùng khuỷu tay trái sưng tấy đỏ rực, đau nhức dữ dội, vết vỡ chảy dịch mủ đục hôi.",
+      "questions": [
+        {
+          "q": "Vấn đề bệnh lý cấp tính và nguy hiểm nhất đang xảy ra là gì?",
+          "options": [
+            "Đợt bùng phát gout cấp tính dữ dội.",
+            "Viêm mô tế bào vô khuẩn do tinh thể urat.",
+            "Viêm khớp nhiễm khuẩn trên nền tophi vỡ.",
+            "Phản ứng dị ứng toàn thân với thuốc gout."
+          ],
+          "answer": 2,
+          "explain": "Sự hiện diện của sốt cao, sưng tấy đỏ rực lan rộng, đau nhức dữ dội và chảy dịch mủ đục có mùi hôi tại vị trí hạt tophi vỡ là bằng chứng lâm sàng rõ ràng của nhiễm trùng thứ phát (viêm mô tế bào hoặc viêm khớp nhiễm khuẩn). Đây là biến chứng cấp cứu cần can thiệp kháng sinh."
+        },
+        {
+          "q": "Nguyên nhân nào tạo điều kiện thuận lợi cho biến chứng này xảy ra?",
+          "options": [
+            "Tình trạng thiếu máu nuôi mô da quanh hạt tophi.",
+            "Lắng đọng canxi thứ phát trong hạt tophi.",
+            "Hoạt động miễn dịch quá mức của đại thực bào.",
+            "Tăng nồng độ acid uric máu quá cao."
+          ],
+          "answer": 0,
+          "explain": "Các hạt tophi lớn làm căng giãn vùng da phía trên, gây chèn ép vi mạch làm thiếu máu cục bộ mô da. Da trở nên mỏng, dễ hoại tử và vỡ ra, tạo đường vào trực tiếp cho vi khuẩn từ môi trường bên ngoài xâm nhập vào tổ chức khớp và mô mềm bên trong."
+        },
+        {
+          "q": "Động thái cận lâm sàng nào cần làm NGAY LẬP TỨC để hướng dẫn điều trị?",
+          "options": [
+            "Cấy mủ tại chỗ và cấy máu làm kháng sinh đồ.",
+            "Định lượng nồng độ acid uric máu cấp cứu.",
+            "Chụp cộng hưởng từ toàn thân đánh giá di căn.",
+            "Chụp cắt lớp vi tính khuỷu tay trái."
+          ],
+          "answer": 0,
+          "explain": "Trước một tình trạng nghi ngờ nhiễm khuẩn mô mềm/khớp, việc thu thập bệnh phẩm (mủ từ vết vỡ, dịch khớp nếu chọc được, và máu ngoại vi) để soi nhuộm Gram và nuôi cấy vi khuẩn làm kháng sinh đồ là nguyên tắc bắt buộc phải thực hiện trước khi dùng liều kháng sinh đầu tiên."
+        },
+        {
+          "q": "Tác nhân vi sinh vật nào có khả năng cao nhất gây ra tình trạng này?",
+          "options": [
+            "Neisseria gonorrhoeae (Lậu cầu).",
+            "Streptococcus pneumoniae (Phế cầu).",
+            "Pseudomonas aeruginosa (Trực khuẩn mủ xanh).",
+            "Staphylococcus aureus (Tụ cầu vàng)."
+          ],
+          "answer": 3,
+          "explain": "Staphylococcus aureus (Tụ cầu vàng) là tác nhân vi khuẩn thường trú trên da phổ biến nhất, và cũng là nguyên nhân hàng đầu gây viêm mô tế bào và viêm khớp nhiễm khuẩn qua đường xâm nhập trực tiếp từ tổn thương da (như tophi vỡ)."
+        },
+        {
+          "q": "Quyết định điều trị phối hợp nào là đúng đắn nhất trong bối cảnh này?",
+          "options": [
+            "Tăng liều Allopurinol kèm Corticosteroid toàn thân.",
+            "Kháng sinh tĩnh mạch kinh nghiệm kèm thuốc hạ sốt.",
+            "Phẫu thuật cắt cụt chi trên để tránh nhiễm trùng huyết.",
+            "Rửa vết thương bằng Colchicine pha loãng."
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân cần được nhập viện, dùng kháng sinh phổ rộng đường tĩnh mạch theo kinh nghiệm (bao phủ tụ cầu) và chăm sóc vết thương tích cực. Việc dùng Corticosteroid toàn thân lúc này bị chống chỉ định vì sẽ làm bùng phát nhiễm trùng nặng hơn. Allopurinol giữ nguyên liều cũ, không tăng liều trong đợt cấp."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi sốt 39°C, phát ban đỏ sần sùi toàn thân sau dùng thuốc",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 58 tuổi.<br><br><b>Bệnh sử:</b> Hai ngày nay sốt 39°C, phát ban đỏ sần sùi ngứa toàn thân, sưng nề mặt. Ba tuần trước đi khám tổng quát và được bác sĩ kê đơn Allopurinol 300mg/ngày.<br><br><b>Tiền sử:</b> Tăng huyết áp và tăng acid uric máu không triệu chứng (acid uric 590 µmol/L).<br><br><b>Khám lâm sàng:</b> Ban đỏ bong tróc da nhẹ, nổi hạch cổ, sưng nề mặt.<br><br><b>Xét nghiệm:</b> Men gan tăng cao (AST: 250 U/L, ALT: 300 U/L), công thức máu có bạch cầu ái toan tăng cao 15%.",
+      "questions": [
+        {
+          "q": "Chẩn đoán lâm sàng nào phù hợp nhất với tình trạng hiện tại?",
+          "options": [
+            "Nhiễm trùng huyết do vi khuẩn.",
+            "Hội chứng quá mẫn DRESS do Allopurinol.",
+            "Viêm gan virus cấp tính bùng phát.",
+            "Đợt bùng phát gout cấp toàn thân."
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân có tiền sử sử dụng loại thuốc mới (Allopurinol) từ 3 tuần trước, nay xuất hiện tam chứng: ban ngoài da, sốt/hạch to, và tổn thương nội tạng (tăng men gan), kèm bạch cầu ái toan tăng cao. Đây là bệnh cảnh đặc trưng của hội chứng DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms) - một thể dị ứng thuốc nặng đe dọa tính mạng."
+        },
+        {
+          "q": "Yếu tố di truyền nào làm tăng đáng kể nguy cơ xuất hiện biến chứng này ở người châu Á?",
+          "options": [
+            "Mang allele HLA-B27.",
+            "Đột biến gen HFE.",
+            "Mang allele HLA-B*58:01.",
+            "Khuyết thiếu men G6PD."
+          ],
+          "answer": 2,
+          "explain": "Allele HLA-B*58:01 có liên quan chặt chẽ với nguy cơ xảy ra phản ứng quá mẫn nặng với Allopurinol (SJS/TEN/DRESS), đặc biệt phổ biến ở người gốc Á (Hàn Quốc, Thái Lan, Việt Nam, Trung Quốc). Khuyến cáo hiện nay đề nghị sàng lọc allele này trước khi dùng Allopurinol ở các quần thể nguy cơ."
+        },
+        {
+          "q": "Sai lầm y khoa nào đã xảy ra trước khi bệnh nhân gặp biến chứng này?",
+          "options": [
+            "Dùng liều Allopurinol quá thấp so với tiêu chuẩn.",
+            "Không kết hợp Allopurinol với thuốc kháng sinh.",
+            "Kê đơn Allopurinol cùng lúc với thuốc hạ huyết áp.",
+            "Khởi trị Allopurinol cho tăng acid uric máu không triệu chứng."
+          ],
+          "answer": 3,
+          "explain": "Theo các hướng dẫn điều trị hiện hành, tăng acid uric máu không triệu chứng (asymptomatic hyperuricemia) - chưa từng có cơn gout cấp hay sỏi urat - nói chung KHÔNG có chỉ định dùng thuốc hạ acid uric. Việc kê đơn Allopurinol trong trường hợp này khiến bệnh nhân phải đối mặt với nguy cơ dị ứng chết người một cách không cần thiết."
+        },
+        {
+          "q": "Thái độ xử trí cấp cứu ngay lập tức cho bệnh nhân là gì?",
+          "options": [
+            "Giảm nửa liều Allopurinol và dùng thuốc kháng histamine.",
+            "Ngừng ngay Allopurinol và sử dụng Corticosteroid toàn thân.",
+            "Chuyển Allopurinol sang đường truyền tĩnh mạch.",
+            "Dùng thuốc hạ sốt Paracetamol liều cao liên tục."
+          ],
+          "answer": 1,
+          "explain": "DRESS là một phản ứng miễn dịch hệ thống nặng. Việc đầu tiên và quan trọng nhất là phải ngừng ngay lập tức loại thuốc nghi ngờ (Allopurinol). Sau đó, bệnh nhân cần được điều trị bằng Corticosteroid toàn thân liều cao để ức chế đáp ứng miễn dịch và bảo vệ nội tạng."
+        },
+        {
+          "q": "Khi tình trạng dị ứng đã ổn định, nếu bệnh nhân thực sự có chỉ định hạ acid uric máu trong tương lai, thuốc nào có thể được cân nhắc an toàn hơn?",
+          "options": [
+            "Febuxostat.",
+            "Probenecid liều cao.",
+            "Oxypurinol.",
+            "Tiếp tục Allopurinol kết hợp thuốc giải mẫn cảm."
+          ],
+          "answer": 0,
+          "explain": "Ở bệnh nhân đã có tiền sử dị ứng nặng với Allopurinol, chống chỉ định tuyệt đối việc sử dụng lại Allopurinol hoặc các chất chuyển hóa của nó (Oxypurinol). Febuxostat là một thuốc ức chế xanthine oxidase nhưng có cấu trúc phân tử hoàn toàn khác (không thuộc nhóm purine), do đó ít có nguy cơ dị ứng chéo và có thể cân nhắc sử dụng."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 52 tuổi đau rát thượng vị và đi ngoài phân đen sau dùng Naproxen",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 52 tuổi.<br><br><b>Bệnh sử:</b> Sưng đau cấp tính khớp gối phải, được bác sĩ kê đơn Naproxen 500mg x 2 lần/ngày. Sau 3 ngày, triệu chứng khớp thuyên giảm rõ rệt nhưng bệnh nhân bắt đầu phàn nàn về cơn đau rát vùng thượng vị, kèm ợ chua và đi ngoài phân đen sệt mùi khắm.<br><br><b>Tiền sử:</b> Viêm khớp gout 5 năm.<br><br><b>Khám lâm sàng:</b> Đau rát vùng thượng vị, đi ngoài phân đen sệt mùi khắm.",
+      "questions": [
+        {
+          "q": "Biến chứng nào nhiều khả năng nhất đang xảy ra trên bệnh nhân này?",
+          "options": [
+            "Hoại tử mạc treo ruột do sỏi urat.",
+            "Xuất huyết tiêu hóa do loét dạ dày tá tràng.",
+            "Chảy máu đường mật thứ phát do NSAIDs.",
+            "Vỡ hạt tophi trong ổ bụng."
+          ],
+          "answer": 1,
+          "explain": "Sử dụng NSAIDs liều cao kèm theo xuất hiện đau thượng vị và đi ngoài phân đen sệt mùi khắm (melena) là dấu hiệu báo động đỏ của biến chứng loét và xuất huyết tiêu hóa cao. Đây là tác dụng phụ phổ biến và nguy hiểm của nhóm NSAIDs không chọn lọc."
+        },
+        {
+          "q": "Cơ chế sinh lý bệnh dẫn đến tác dụng phụ này của Naproxen là gì?",
+          "options": [
+            "Hoạt hóa quá mức enzyme cyclooxygenase-2 (COX-2).",
+            "Kích thích tế bào thành tiết acid clohydric.",
+            "Phá hủy trực tiếp lớp cơ niêm mạc dạ dày.",
+            "Ức chế enzyme cyclooxygenase-1 (COX-1)."
+          ],
+          "answer": 3,
+          "explain": "Naproxen là NSAIDs không chọn lọc. Thuốc ức chế enzyme COX-1, một enzyme thiết yếu xúc tác quá trình tổng hợp prostaglandin E2 và I2. Các prostaglandin này đóng vai trò bảo vệ niêm mạc dạ dày bằng cách tăng tiết nhầy và bicarbonate, duy trì lưu lượng máu niêm mạc. Thiếu hụt chúng dẫn đến loét."
+        },
+        {
+          "q": "Bước xử trí ưu tiên hàng đầu lúc này đối với bệnh nhân là gì?",
+          "options": [
+            "Tăng liều Naproxen và thêm thuốc giảm đau thần kinh.",
+            "Đổi sang tiêm tĩnh mạch Colchicine.",
+            "Ngừng ngay Naproxen và đánh giá huyết động.",
+            "Chọc hút dịch khớp gối để giảm đau."
+          ],
+          "answer": 2,
+          "explain": "Đứng trước một bệnh nhân nghi ngờ xuất huyết tiêu hóa đang dùng NSAIDs, can thiệp y khoa bắt buộc đầu tiên là phải ngừng ngay lập tức tác nhân gây loét (Naproxen), song song với việc đánh giá huyết động (mạch, huyết áp) để bồi phụ thể tích và chuẩn bị nội soi can thiệp."
+        },
+        {
+          "q": "Nếu bệnh nhân này trong tương lai gặp lại cơn gout cấp tính, lựa chọn cắt cơn nào sẽ an toàn hơn cho đường tiêu hóa?",
+          "options": [
+            "Indomethacin liều cao.",
+            "Diclofenac phối hợp Paracetamol.",
+            "Aspirin liều chống viêm.",
+            "Corticosteroid đường uống ngắn ngày."
+          ],
+          "answer": 3,
+          "explain": "Ở bệnh nhân đã có tiền sử xuất huyết tiêu hóa do NSAIDs, việc dùng lại các NSAIDs (kể cả nhóm chọn lọc COX-2) mang rủi ro lớn. Corticosteroid đường uống ngắn ngày (hoặc tiêm nội khớp) hoặc Colchicine là những phương án thay thế an toàn hơn cho dạ dày để cắt cơn gout cấp."
+        },
+        {
+          "q": "Nếu bệnh nhân bắt buộc phải dùng một NSAIDs không chọn lọc trong các bệnh lý khác sau này, chiến lược nào giúp giảm thiểu nguy cơ tiêu hóa?",
+          "options": [
+            "Sử dụng kèm với liều cao vitamin C.",
+            "Uống thuốc vào buổi sáng lúc bụng đói hoàn toàn.",
+            "Nhai nát viên thuốc trước khi nuốt để hấp thu nhanh.",
+            "Phối hợp đồng thời với thuốc ức chế bơm proton (PPI)."
+          ],
+          "answer": 3,
+          "explain": "Trong những trường hợp lâm sàng không thể tránh việc sử dụng NSAIDs ở bệnh nhân có yếu tố nguy cơ tiêu hóa, khuyến cáo điều trị bắt buộc là phải kê đơn dùng kèm với một thuốc bảo vệ dạ dày mạnh, tiêu chuẩn nhất là nhóm thuốc ức chế bơm proton (PPI) như Omeprazole, Pantoprazole."
         }
       ]
     }
