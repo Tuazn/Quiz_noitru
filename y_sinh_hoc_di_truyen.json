@@ -467,6 +467,479 @@
       ],
       "answer": 1,
       "explain": "Bố/mẹ mang chuyển đoạn cân bằng là yếu tố nguy cơ cao rõ ràng, cần tư vấn di truyền và cân nhắc chẩn đoán xâm lấn sớm"
+    },
+    {
+      "q": "Một trẻ sơ sinh có các đặc điểm: đầu nhỏ, chẩm nhô, bàn tay nắm chặt với ngón trỏ chồng lên ngón giữa, dị tật tim bẩm sinh nặng. Karyotype nào phù hợp nhất?",
+      "options": [
+        "47,XY,+21",
+        "47,XY,+18",
+        "47,XY,+13",
+        "45,X"
+      ],
+      "answer": 1,
+      "explain": "Bàn tay nắm chặt đặc trưng + tim bẩm sinh nặng + đầu nhỏ chẩm nhô → kinh điển của Edwards (trisomy 18)"
+    },
+    {
+      "q": "Một thai phụ 38 tuổi, làm NIPT cho kết quả nguy cơ cao trisomy 21. Bước tiếp theo phù hợp nhất là:",
+      "options": [
+        "Chấm dứt thai kỳ ngay dựa trên kết quả NIPT",
+        "Tư vấn di truyền và chỉ định chọc ối làm karyotype/QF-PCR để xác định chẩn đoán",
+        "Lặp lại NIPT lần 2 sau 1 tuần",
+        "Theo dõi thai kỳ bình thường vì NIPT chỉ là sàng lọc, không cần làm gì thêm"
+      ],
+      "answer": 1,
+      "explain": "NIPT dương tính vẫn là sàng lọc — bắt buộc xác định lại bằng chẩn đoán xâm lấn (chọc ối) trước khi quyết định lâm sàng quan trọng"
+    },
+    {
+      "q": "Cặp vợ chồng đến khám hiếm muộn, có 2 lần sảy thai tự nhiên trong 3 tháng đầu. Karyotype của người chồng: 46,XY,t(11;22)(q23;q11). Tư vấn nào sau đây phù hợp NHẤT?",
+      "options": [
+        "Người chồng mắc bệnh lý nặng cần điều trị ngay",
+        "Đây là chuyển đoạn cân bằng, làm tăng nguy cơ tạo giao tử không cân bằng, giải thích cho tiền sử sảy thai và cần tư vấn di truyền, cân nhắc chẩn đoán trước sinh cho thai kỳ tiếp theo",
+        "Cần làm karyotype lại vì người chồng kiểu hình bình thường nên có thể kết quả sai",
+        "Kết quả karyotype cho thấy rằng không liên quan đến tiền sử sảy thai của vợ"
+      ],
+      "answer": 1,
+      "explain": "Chuyển đoạn cân bằng: bố/mẹ bình thường về kiểu hình nhưng tạo giao tử không cân bằng → giải thích sảy thai liên tiếp; cần tư vấn di truyền cho các lần mang thai sau"
+    },
+    {
+      "q": "Một trẻ trai chậm phát triển tâm thần, có tiếng khóc đặc biệt như tiếng mèo kêu, đầu nhỏ, khoảng cách hai mắt xa nhau. Bất thường NST nào cần nghĩ đến đầu tiên?",
+      "options": [
+        "Mất đoạn nhánh ngắn NST 5 — del(5p)",
+        "Trisomy 21 — 47,XY,+21",
+        "47,XXY (Klinefelter)",
+        "Mất đoạn nhánh dài NST 22 — del(22q)"
+      ],
+      "answer": 0,
+      "explain": "Tiếng khóc như mèo kêu (cri-du-chat) + mặt tròn, hai mắt xa nhau + chậm phát triển → hội chứng Cri-du-chat do del(5p)"
+    },
+    {
+      "q": "Một cặp vợ chồng đã có 1 con mắc hội chứng Down thể chuyển đoạn Robertson 14;21. Karyotype của người mẹ là 45,XX,der(14;21)(q10;q10), của người bố là 46,XY bình thường. Nguy cơ tái phát hội chứng Down thể chuyển đoạn ở lần mang thai sau, xét về mặt lý thuyết di truyền, sẽ phụ thuộc chủ yếu vào:",
+      "options": [
+        "Tuổi của người mẹ tại thời điểm mang thai tiếp theo",
+        "Phụ thuộc kiểu tổ hợp giao tử khi giảm phân",
+        "Số lần mang thai trước đó",
+        "Giới tính của thai nhi tiếp theo"
+      ],
+      "answer": 1,
+      "explain": "Khi MẸ mang chuyển đoạn Robertson 14;21, nguy cơ truyền cho con cao hơn nhiều so với khi BỐ mang (do khác biệt trong quá trình giảm phân ở nam và nữ), và nguy cơ này không phụ thuộc tuổi mẹ như trisomy thuần mà phụ thuộc kiểu tổ hợp giao tử khi giảm phân"
+    },
+    {
+      "q": "Trẻ sơ sinh có cơ quan sinh dục ngoài mơ hồ (ambiguous genitalia), không sờ thấy tinh hoàn, tăng sắc tố da, rối loạn điện giải (hạ Na⁺, tăng K⁺) xuất hiện trong tuần đầu sau sinh. Bước xử trí và chẩn đoán ưu tiên là:",
+      "options": [
+        "Chờ đến khi trẻ lớn hơn mới đánh giá giới tính chính xác được",
+        "Karyotype + định lượng 17-OH-progesterone + đánh giá điện giải đồ",
+        "Chỉ cần siêu âm bụng là đủ để quyết định giới tính nuôi dưỡng",
+        "Không cần xét nghiệm gì vì đây là biến thể sinh lý bình thường"
+      ],
+      "answer": 1,
+      "explain": "Cơ quan sinh dục mơ hồ + rối loạn điện giải kiểu mất muối (hạ Na, tăng K) + tăng sắc tố → kinh điển của tăng sản thượng thận bẩm sinh (CAH) thể mất muối — cấp cứu nội tiết, cần xử trí ngay"
+    },
+    {
+      "q": "Một phụ nữ 16 tuổi đến khám vì chưa có kinh nguyệt (vô kinh nguyên phát), khám thấy vóc dáng thấp bé, cổ có màng da, ngực rộng. Xét nghiệm nào giúp chẩn đoán xác định?",
+      "options": [
+        "Định lượng estrogen máu",
+        "Karyotype",
+        "Siêu âm tử cung buồng trứng đơn thuần",
+        "Chụp MRI sọ não"
+      ],
+      "answer": 1,
+      "explain": "Vô kinh nguyên phát + thấp bé + cổ có màng + ngực rộng → bệnh cảnh kinh điển Turner, karyotype là xét nghiệm xác định"
+    },
+    {
+      "q": "Trên kết quả karyotype của một trẻ chậm phát triển, phát hiện thêm một đoạn NST bất thường: 46,XX,inv(9)(p11q13). Kết luận phù hợp nhất khi tư vấn cho gia đình là:",
+      "options": [
+        "Đây chắc chắn là nguyên nhân gây chậm phát triển của trẻ",
+        "inv(9) là đa dạng hình phổ biến, lành tính",
+        "Đây là nguyên nhân dẫn đến tình trạng chậm phát triển của trẻ",
+        "Đây là bằng chứng của bệnh ung thư máu"
+      ],
+      "answer": 1,
+      "explain": "inv(9) là đa dạng hình lành tính rất phổ biến — không nên quy kết là nguyên nhân gây bệnh mà cần tìm thêm nguyên nhân khác (ví dụ làm thêm CMA/WES)"
+    },
+    {
+      "q": "Một thai phụ có tiền sử sinh 1 con bị hội chứng Down thể thuần (47,XX,+21) cách đây 3 năm khi 32 tuổi, hiện tại 35 tuổi mang thai lần 2. Nguy cơ tái phát trisomy 21 trong lần mang thai này so với nguy cơ nền theo tuổi mẹ:",
+      "options": [
+        "Không thay đổi so với nguy cơ nền theo tuổi",
+        "Tăng nhẹ so với nguy cơ nền theo tuổi",
+        "Giảm so với nguy cơ nền vì đã \"dùng hết\" khả năng bị trisomy",
+        "Bằng 100% chắc chắn tái phát"
+      ],
+      "answer": 1,
+      "explain": "Tiền sử sinh con trisomy trước đó (dù ở tuổi nào) làm tăng nhẹ nguy cơ tái phát so với nguy cơ nền theo tuổi mẹ hiện tại — đây là yếu tố nguy cơ độc lập cần khai thác kỹ trong tiền sử (cơ chế thường là không phân ly ngẫu nhiên chứ không phải di truyền trực tiếp)"
+    },
+    {
+      "q": "Trẻ trai 6 tuổi, tiền sử u nguyên bào võng mạc (retinoblastoma) 2 bên mắt từ nhỏ. Bất thường di truyền nào cần được nghĩ đến và tầm soát ở các thành viên gia đình?",
+      "options": [
+        "Đột biến gen RB1 (có thể liên quan mất đoạn 13q14)",
+        "Trisomy 21",
+        "Hội chứng Turner",
+        "Không có yếu tố di truyền, đây chỉ là bệnh ngẫu nhiên"
+      ],
+      "answer": 0,
+      "explain": "U nguyên bào võng mạc 2 bên, đặc biệt khởi phát sớm, gợi ý dạng di truyền (đột biến dòng mầm gen RB1) — cần tư vấn di truyền, sàng lọc gia đình — dạng di truyền, cần tư vấn/sàng lọc cho anh chị em và thế hệ sau"
+    },
+    {
+      "q": "Một bệnh nhân ung thư đại tràng, xét nghiệm mô u cho thấy đột biến gen TP53 làm mất chức năng protein p53. Hậu quả sinh học phù hợp nhất là:",
+      "options": [
+        "Tế bào u tăng khả năng sửa chữa ADN",
+        "Tế bào u mất khả năng dừng chu kỳ và kích hoạt apoptosis khi ADN tổn thương",
+        "Tế bào u chết nhanh hơn bình thường",
+        "Không ảnh hưởng gì đến quá trình sinh ung thư"
+      ],
+      "answer": 1,
+      "explain": "Mất chức năng p53 → tế bào \"thoát\" được cơ chế kiểm soát chu kỳ/apoptosis dù ADN tổn thương → tế bào tổn thương tiếp tục phân chia không kiểm soát → tích lũy đột biến, tăng sinh ung thư"
+    },
+    {
+      "q": "Một trẻ sơ sinh được chẩn đoán xơ nang (Cystic Fibrosis) do đột biến mất 3 nucleotide trên gen CFTR, dẫn đến mất 1 amino acid Phenylalanine (ΔF508) nhưng khung đọc phía sau không bị thay đổi. Đây là loại đột biến:",
+      "options": [
+        "Đột biến dịch khung (frameshift)",
+        "Đột biến mất đoạn nhỏ trong khung (in-frame deletion)",
+        "Đột biến vô nghĩa (nonsense)",
+        "Đột biến câm (silent)"
+      ],
+      "answer": 1,
+      "explain": "Mất 3 nucleotide (chia hết cho 3) → mất 1 amino acid nhưng KHÔNG dịch khung — đây là đặc điểm kinh điển của đột biến ΔF508 trong xơ nang"
+    },
+    {
+      "q": "Một bệnh nhân nữ mang thai được tư vấn về hội chứng Prader-Willi ở một người con trước đó (do mất đoạn 15q11-q13 di truyền từ bố). Nếu lần mang thai này, cùng vùng mất đoạn đó lại được di truyền từ MẸ thay vì từ bố, hậu quả có thể xảy ra là:",
+      "options": [
+        "Trẻ vẫn mắc Prader-Willi giống như trước",
+        "Trẻ có thể mắc hội chứng Angelman thay vì Prader-Willi",
+        "Trẻ hoàn toàn bình thường vì mất đoạn từ mẹ không có ý nghĩa",
+        "Trẻ sẽ mắc hội chứng Down"
+      ],
+      "answer": 1,
+      "explain": "Đây chính là cơ chế imprinting: mất đoạn 15q11-q13 từ BỐ → Prader-Willi; cùng vùng mất đoạn nhưng từ MẸ → Angelman"
+    },
+    {
+      "q": "Trong một dòng tế bào ung thư, các nhà nghiên cứu phát hiện hoạt tính enzyme telomerase tăng cao bất thường. Ý nghĩa sinh học của phát hiện này là:",
+      "options": [
+        "Giúp tế bào ung thư sửa chữa ADN tốt hơn",
+        "Giúp duy trì độ dài telomere qua nhiều lần phân chia",
+        "Làm tế bào ung thư chết nhanh hơn",
+        "Không liên quan đến khả năng phân chia của tế bào"
+      ],
+      "answer": 1,
+      "explain": "Telomerase kéo dài telomere → tế bào ung thư tránh được hiện tượng rút ngắn telomere theo mỗi lần phân chia (giới hạn Hayflick) → phân chia gần như vô hạn"
+    },
+    {
+      "q": "Một bé trai được chẩn đoán loạn dưỡng cơ Duchenne (Duchenne Muscular Dystrophy) do đột biến gen DMD nằm trên NST X. Mẹ của bé mang gen bệnh ở trạng thái dị hợp tử nhưng hoàn toàn không có triệu chứng. Kiểu di truyền phù hợp là:",
+      "options": [
+        "Trội trên NST thường",
+        "Lặn trên NST thường",
+        "Lặn liên kết NST X",
+        "Di truyền theo dòng mẹ qua ty thể"
+      ],
+      "answer": 2,
+      "explain": "Bệnh lặn liên kết X: nam biểu hiện bệnh (chỉ có 1 NST X), nữ dị hợp tử là người mang gen (carrier) không biểu hiện triệu chứng — mẹ là người mang gen (carrier) không biểu hiện bệnh do có 1 alen X bình thường"
+    },
+    {
+      "q": "Thai phụ 29 tuổi, siêu âm 12 tuần đo độ mờ da gáy (NT) = 4.2mm (dày bất thường so với tuổi thai). Double test cho nguy cơ thấp trisomy 21. Xử trí phù hợp tiếp theo là:",
+      "options": [
+        "Yên tâm vì Double test nguy cơ thấp, không cần làm gì thêm",
+        "Cần tư vấn thêm, có thể chỉ định NIPT mở rộng hoặc CMA qua chọc ối, kết hợp siêu âm tim thai chuyên sâu",
+        "Lặp lại Double test sau 2 tuần để khẳng định kết quả",
+        "NT dày chỉ có ý nghĩa khi kết hợp Double test nguy cơ cao, nếu Double test thấp thì có thể yên tâm"
+      ],
+      "answer": 1,
+      "explain": "NT dày là dấu hiệu cảnh báo ĐỘC LẬP, không chỉ liên quan trisomy thường gặp mà còn liên quan tim bẩm sinh, hội chứng gen khác — không nên bỏ qua dù Double test nguy cơ thấp"
+    },
+    {
+      "q": "Thai phụ 26 tuổi, không có yếu tố nguy cơ gì đặc biệt, đến khám thai lần đầu ở tuần thứ 16 (đã qua giai đoạn làm Double test). Phương án sàng lọc phù hợp nhất lúc này là:",
+      "options": [
+        "Không thể làm sàng lọc gì nữa",
+        "Triple test hoặc NIPT",
+        "Bắt buộc phải chọc ối ngay",
+        "Chờ đến siêu âm hình thái tuần 20 mới đánh giá"
+      ],
+      "answer": 1,
+      "explain": "Qua tuần 14 không làm được Double test/đo NT chuẩn nữa → chuyển sang Triple test (15-20 tuần) hoặc NIPT (không phụ thuộc \"cửa sổ\" hẹp như Double test)"
+    },
+    {
+      "q": "Một thai phụ mang song thai, muốn làm xét nghiệm sàng lọc lệch bội NST. Cân nhắc nào sau đây là phù hợp?",
+      "options": [
+        "NIPT hoặc siêu âm đơn thuần được ưu tiên hơn",
+        "Song thai không thể làm bất kỳ xét nghiệm sàng lọc nào",
+        "Độ chính xác của Double test ở song thai tương đương đơn thai",
+        "Chỉ cần siêu âm là đủ, không cần xét nghiệm máu"
+      ],
+      "answer": 0,
+      "explain": "Double test/Triple test kém chính xác hơn ở đa thai do các chất chỉ điểm sinh hóa từ nhiều thai cộng gộp — NIPT hoặc siêu âm được ưu tiên hơn"
+    },
+    {
+      "q": "Thai phụ có tiền sử dùng thuốc chống động kinh Valproate liên tục trong 3 tháng đầu thai kỳ (không biết có thai). Nguy cơ chính cần tư vấn và tầm soát thêm là:",
+      "options": [
+        "Không có nguy cơ gì đặc biệt",
+        "Tăng nguy cơ dị tật ống thần kinh và một số dị tật khác — cần siêu âm hình thái học kỹ, cân nhắc định lượng AFP và tư vấn chuyên khoa",
+        "Chỉ ảnh hưởng đến mẹ, không ảnh hưởng thai — cần xét nghiệm máu và chụp MRI định kỳ cho mẹ",
+        "Cần chấm dứt thai kỳ ngay lập tức vì thuốc chống động kinh gây quái thai trong 3 tháng đầu thai kỳ nặng"
+      ],
+      "answer": 1,
+      "explain": "Valproate là teratogen kinh điển liên quan tăng nguy cơ dị tật ống thần kinh — cần siêu âm kỹ, định lượng AFP, tư vấn chuyên khoa"
+    },
+    {
+      "q": "Một thai nhi qua siêu âm hình thái tuần 22 phát hiện thoát vị rốn, dị tật tim, chậm tăng trưởng trong tử cung. Karyotype thai nhi (qua chọc ối) nào phù hợp nhất khi nghĩ đến bệnh cảnh đa dị tật phối hợp?",
+      "options": [
+        "46,XY hoàn toàn bình thường",
+        "47,XY,+18 (Edwards)",
+        "inv(9) đơn thuần",
+        "46,XY,t(2;5) cân bằng không triệu chứng"
+      ],
+      "answer": 1,
+      "explain": "Đa dị tật phối hợp (thoát vị rốn + tim + chậm tăng trưởng) là \"cờ đỏ\" gợi ý mạnh bất thường NST toàn thân hơn là dị tật đơn độc — trisomy 18 là chẩn đoán kinh điển trong bệnh cảnh này"
+    },
+    {
+      "q": "Một nam giới có công thức NST 46,XY,t(2;8)(p21;q22) đến khám hiếm muộn. Điều nào sau đây đúng?",
+      "options": [
+        "Anh ta bị dư 1 NST so với người bình thường",
+        "Anh ta bị thiếu 1 NST so với người bình thường",
+        "Tổng số NST của anh ta vẫn là 46",
+        "Anh ta chắc chắn vô sinh hoàn toàn"
+      ],
+      "answer": 2,
+      "explain": "Chuyển đoạn tương hỗ cân bằng không làm thay đổi tổng số NST — vẫn giữ 46"
+    },
+    {
+      "q": "Karyotype 45,XY,der(13;14)(q10;q10) mô tả điều gì?",
+      "options": [
+        "Mất đoạn nhánh dài NST 13",
+        "Chuyển đoạn Robertson giữa NST 13 và 14",
+        "Đảo đoạn quanh tâm NST 13",
+        "NST vòng hình thành từ NST 14"
+      ],
+      "answer": 1,
+      "explain": "der(13;14)(q10;q10) — 2 NST tâm đầu nối cánh dài tại điểm q10 = chuyển đoạn Robertson"
+    },
+    {
+      "q": "So sánh 2 kết quả: (1) 47,XX,+21 và (2) 46,XX,der(14;21)(q10;q10),+21. Điểm khác biệt cốt lõi giữa 2 trường hợp là:",
+      "options": [
+        "Trường hợp (1) là nam, trường hợp (2) là nữ",
+        "Trường hợp (1) có tổng 47 NST đếm được, trường hợp (2) có tổng 46 NST đếm được dù cùng thừa vật chất di truyền NST 21",
+        "Trường hợp (2) không phải hội chứng Down",
+        "Trường hợp (1) nhẹ hơn trường hợp (2) về mặt lâm sàng"
+      ],
+      "answer": 1,
+      "explain": "(1) là trisomy 21 thuần: 47 NST đếm được; (2) là Down thể chuyển đoạn: 46 NST đếm được nhưng thừa vật chất di truyền NST 21 gắn trên NST 14"
+    },
+    {
+      "q": "Công thức NST 46,XX,r(18) mô tả bất thường nào?",
+      "options": [
+        "Chuyển đoạn tương hỗ liên quan NST 18",
+        "NST 18 dạng vòng",
+        "Đảo đoạn NST 18",
+        "Trisomy 18"
+      ],
+      "answer": 1,
+      "explain": "Ký hiệu \"r\" luôn chỉ NST dạng vòng (ring chromosome)"
+    },
+    {
+      "q": "Kết quả karyotype thai nhi qua chọc ối: 47,XY,+mar (mar = marker chromosome không xác định được nguồn gốc bằng băng G thường quy). Bước tiếp cận hợp lý tiếp theo là:",
+      "options": [
+        "Kết luận thai nhi là trisomy 21 vì thừa 1 NST",
+        "Không cần làm thêm gì, tư vấn nguy cơ thấp cho gia đình",
+        "Cần làm thêm FISH hoặc CMA để xác định nguồn gốc NST đánh dấu trước khi tư vấn nguy cơ cụ thể",
+        "Kết luận thai nhi hoàn toàn bình thường vì chromosome thừa không rõ nguồn gốc nên không hoạt động"
+      ],
+      "answer": 2,
+      "explain": "NST đánh dấu (marker) chưa xác định nguồn gốc cần làm FISH/CMA bổ sung trước khi tư vấn nguy cơ cụ thể — không thể kết luận vội"
+    },
+    {
+      "q": "Một trẻ có công thức NST 46,XX,del(4p16.3). Cơ chế hình thành bất thường này về bản chất là:",
+      "options": [
+        "Không phân ly NST trong giảm phân, dẫn đến mất nhánh ngắn NST 4 và NST 16",
+        "Mất một đoạn vật chất di truyền ở nhánh ngắn NST 4 do đứt gãy NST",
+        "Thừa nguyên một NST số 4",
+        "Hoán vị nhánh ngắn giữa NST 4 và NST 16"
+      ],
+      "answer": 1,
+      "explain": "del(4p) = mất đoạn nhánh ngắn NST 4 — cơ chế do đứt gãy cấu trúc, không phải không phân ly (đó là cơ chế của lệch bội số lượng)"
+    },
+    {
+      "q": "So sánh công thức 46,XY,inv(9)(p11q13) và 46,XY,inv(3)(p25q29) trên 2 bệnh nhân khác nhau, cả hai đều có tiền sử sảy thai của vợ. Nhận định hợp lý nhất:",
+      "options": [
+        "Cả hai đều là đa dạng hình gây sảy thai như nhau, cần sàng lọc thai kỳ kỹ đặc biệt trong 3 tháng đầu",
+        "inv(9) thường là đa dạng hình lành tính phổ biến",
+        "Cả hai đều là biến thể lành tính, ",
+        "inv(3) là đa dạng hình thường gặp hơn và không cần đánh giá về khả năng liên quan đến sảy thai"
+      ],
+      "answer": 1,
+      "explain": "inv(9) là đa dạng hình lành tính rất phổ biến (tần suất cao trong quần thể); inv(3) hiếm gặp hơn, cần đánh giá riêng biệt tùy trường hợp cụ thể, không nên áp dụng chung một kết luận"
+    },
+    {
+      "q": "Karyotype của mẹ: 46,XX. Karyotype của thai: 45,X/46,XX (tỷ lệ dòng bất thường 30%). Nhận định nào đúng nhất về khả năng biểu hiện lâm sàng?",
+      "options": [
+        "Thai chắc chắn biểu hiện đầy đủ triệu chứng Turner như thể thuần 45,X",
+        "Mức độ biểu hiện của trẻ có thể nhẹ hơn thể thuần",
+        "Thai hoàn toàn bình thường vì có dòng 46,XX chiếm tỷ lệ cao hơn nên sẽ là kiểu hình chính",
+        "Không thể tiên lượng được gì từ kết quả này"
+      ],
+      "answer": 1,
+      "explain": "Thể khảm có biểu hiện thay đổi tùy tỷ lệ dòng tế bào bất thường và mô bị ảnh hưởng — không thể khẳng định chắc chắn mức độ nặng/nhẹ"
+    },
+    {
+      "q": "Bệnh nhân nữ 25 tuổi, cao trên 175cm, tay chân dài, dấu hiệu cổ tay dương tính (wrist sign), giãn gốc động mạch chủ trên siêu âm tim, lệch thủy tinh thể. Cơ chế di truyền phù hợp nhất là:",
+      "options": [
+        "Đột biến gen FBN1, di truyền trội trên NST thường",
+        "Trisomy NST 21",
+        "Đột biến gen liên kết NST X",
+        "Bất thường số lượng NST giới tính"
+      ],
+      "answer": 0,
+      "explain": "Vóc dáng cao, tay chân dài, giãn gốc động mạch chủ, lệch thủy tinh thể → hội chứng Marfan, đột biến gen FBN1, di truyền trội NST thường"
+    },
+    {
+      "q": "Trẻ trai chậm phát triển trí tuệ mức độ trung bình, tai to, hàm dài, tinh hoàn to sau dậy thì, tiền sử gia đình có cậu (anh trai mẹ) cũng chậm phát triển tương tự. Cơ chế di truyền nghi ngờ hàng đầu là:",
+      "options": [
+        "Hội chứng Fragile X",
+        "Trisomy 13",
+        "Đột biến gen trên NST thường, di truyền lặn",
+        "Bất thường số lượng NST 21"
+      ],
+      "answer": 0,
+      "explain": "Chậm phát triển trí tuệ + tai to hàm dài + tinh hoàn to + di truyền qua dòng ngoại (cậu bên mẹ) → gợi ý mạnh hội chứng Fragile X (di truyền liên kết X)"
+    },
+    {
+      "q": "So sánh 2 hội chứng: hội chứng DiGeorge và hội chứng Down. Điểm khác biệt cơ bản về cơ chế di truyền là:",
+      "options": [
+        "DiGeorge do mất đoạn NST, Down do thừa nguyên 1 NST",
+        "Cả hai đều do thừa nguyên 1 NST",
+        "Cả hai đều do mất đoạn NST như nhau",
+        "Cả hai đều không liên quan đến bất thường NST"
+      ],
+      "answer": 0,
+      "explain": "DiGeorge: mất đoạn NST 22q11.2 (bất thường cấu trúc); Down: thừa nguyên 1 NST 21 (bất thường số lượng) — hai cơ chế khác biệt cơ bản dù cùng là bất thường NST"
+    },
+    {
+      "q": "Bệnh nhân nam trưởng thành, vô sinh do không có ống dẫn tinh bẩm sinh hai bên (CBAVD), không có triệu chứng hô hấp hay tiêu hóa rõ rệt. Xét nghiệm nào nên được cân nhắc để tìm nguyên nhân di truyền?",
+      "options": [
+        "Karyotype thường quy đơn thuần",
+        "Xét nghiệm đột biến gen CFTR",
+        "Định lượng testosterone máu đơn thuần",
+        "Sinh thiết tinh hoàn ngay lập tức mà không cần xét nghiệm gen"
+      ],
+      "answer": 1,
+      "explain": "CBAVD đơn độc không kèm triệu chứng hô hấp/tiêu hóa rõ vẫn có thể là biểu hiện của đột biến CFTR dạng nhẹ — cần xét nghiệm gen CFTR trước khi hỗ trợ sinh sản"
+    },
+    {
+      "q": "Đặc điểm nào phân biệt tốt nhất hội chứng Klinefelter thể khảm (46,XY/47,XXY) với thể thuần (47,XXY) trên lâm sàng?",
+      "options": [
+        "Thể khảm luôn nặng hơn thể thuần về mọi mặt",
+        "Thể khảm có thể biểu hiện nhẹ hơn, một số trường hợp vẫn có khả năng sinh sản tự nhiên tùy tỷ lệ dòng tế bào bất thường",
+        "Thể khảm không thể xác định bằng karyotype",
+        "Không có sự khác biệt nào giữa hai thể"
+      ],
+      "answer": 1,
+      "explain": "Thể khảm Klinefelter có phổ biểu hiện đa dạng, một số trường hợp vẫn có khả năng sinh sản tùy tỷ lệ dòng tế bào 46,XY còn lại"
+    },
+    {
+      "q": "Cặp vợ chồng cả hai đều mang gen bệnh Thalassemia thể dị hợp tử (đều khỏe mạnh, không triệu chứng), bệnh lặn trên NST thường. Xác suất mỗi lần mang thai con bị bệnh thể nặng (đồng hợp tử) là:",
+      "options": [
+        "0%, vì cả bố mẹ đều không có triệu chứng",
+        "25%, theo quy luật phân ly của Mendel",
+        "50%, giống như bệnh trội",
+        "100%, vì cả hai đều mang gen bệnh"
+      ],
+      "answer": 1,
+      "explain": "Bệnh lặn NST thường, cả bố mẹ dị hợp tử (Aa x Aa) → 25% con đồng hợp lặn (aa) mắc bệnh, theo quy luật Mendel"
+    },
+    {
+      "q": "Người vợ có anh trai mắc bệnh loạn dưỡng cơ Duchenne (bệnh lặn liên kết NST X). Mẹ của người vợ được xác định là người mang gen (carrier) qua xét nghiệm. Xác suất người vợ cũng là carrier của gen bệnh này là:",
+      "options": [
+        "0%, vì bản thân người vợ hoàn toàn khỏe mạnh",
+        "50%, vì mẹ là carrier dị hợp tử nên mỗi con gái có 50% khả năng nhận alen bệnh từ mẹ",
+        "100%, chắc chắn là carrier vì có anh trai mắc bệnh",
+        "25%, tính theo quy luật bệnh lặn NST thường"
+      ],
+      "answer": 1,
+      "explain": "Mẹ là carrier dị hợp tử (XX với 1 alen bệnh) → mỗi con gái có 50% khả năng nhận alen bệnh, trở thành carrier (nhưng không biểu hiện bệnh do có alen lành bù trừ)"
+    },
+    {
+      "q": "Cặp vợ chồng đã sinh 1 con trai mắc hội chứng Down thể thuần (47,XY,+21) khi vợ 27 tuổi. Karyotype của cả 2 vợ chồng đều bình thường (46,XX và 46,XY). Tư vấn phù hợp nhất cho lần mang thai kế tiếp là:",
+      "options": [
+        "Nguy cơ tái phát bằng 0% vì cả bố mẹ đều có karyotype bình thường",
+        "Nguy cơ tái phát cao hơn nguy cơ nền theo tuổi mẹ một chút, nên vẫn cần tư vấn tầm soát kỹ ở lần mang thai sau dù thấp hơn nhiều so với trường hợp bố/mẹ mang chuyển đoạn",
+        "Nguy cơ tái phát chắc chắn 100% vì đã có tiền sử",
+        "Không cần tư vấn gì thêm vì đây chỉ là sự kiện ngẫu nhiên hoàn toàn độc lập, không liên quan gì đến các lần mang thai sau"
+      ],
+      "answer": 1,
+      "explain": "Khảm dòng sinh dục (gonadal mosaicism) không phát hiện được qua karyotype máu ngoại vi thông thường là lý do nguy cơ tái phát có thể cao hơn nguy cơ nền một chút, dù thấp hơn nhiều so với trường hợp chuyển đoạn cân bằng đã xác định"
+    },
+    {
+      "q": "Cặp vợ chồng có quan hệ huyết thống (họ hàng gần, ví dụ anh em họ đời thứ nhất) đến tư vấn trước khi kết hôn/sinh con. Nguy cơ chính cần tư vấn là:",
+      "options": [
+        "Không có nguy cơ gì khác biệt so với cặp đôi không có quan hệ huyết thống",
+        "Tăng nguy cơ con mắc các bệnh di truyền lặn trên NST thường",
+        "Chỉ tăng nguy cơ bất thường số lượng NST như Down",
+        "Chỉ ảnh hưởng đến khả năng sinh sản, không ảnh hưởng đến sức khỏe con cái"
+      ],
+      "answer": 1,
+      "explain": "Hôn nhân cận huyết làm tăng khả năng cả 2 vợ chồng cùng mang chung alen lặn hiếm gặp từ tổ tiên chung → tăng nguy cơ bệnh lặn NST thường ở con"
+    },
+    {
+      "q": "Một phụ nữ mang đột biến gen BRCA1 dị hợp tử (di truyền trội trên NST thường với độ thấm không hoàn toàn), có mẹ và dì đều mắc ung thư vú. Tư vấn di truyền cho các chị em gái và con gái của người này nên nhấn mạnh điều gì?",
+      "options": [
+        "Tất cả người thân nữ chắc chắn sẽ mắc ung thư vú trong đời",
+        "Mỗi người thân bậc 1 có 50% khả năng thừa hưởng alen đột biến, nếu mang alen thì nguy cơ mắc bệnh tăng cao nhưng không phải chắc chắn 100% do độ thấm không hoàn toàn — cần xét nghiệm gen xác định và theo dõi tầm soát phù hợp",
+        "Không cần xét nghiệm gì vì bệnh ung thư không di truyền được",
+        "Chỉ con trai mới có nguy cơ vì đây là bệnh liên kết NST Y"
+      ],
+      "answer": 1,
+      "explain": "Di truyền trội NST thường với độ thấm không hoàn toàn: 50% khả năng thừa hưởng alen, nhưng không phải ai mang alen cũng chắc chắn mắc bệnh — cần xét nghiệm gen xác định từng cá nhân"
+    },
+    {
+      "q": "Thai phụ 34 tuổi, Double test tuần 12 cho kết quả nguy cơ trisomy 21 là 1/180 (ngưỡng cắt của labo là 1/250 được xem là nguy cơ cao). Bước tư vấn phù hợp nhất là:",
+      "options": [
+        "Yên tâm hoàn toàn vì 1/180 vẫn là tỷ lệ thấp trên thực tế lâm sàng",
+        "Xếp vào nhóm nguy cơ cao, cần tư vấn kỹ về các lựa chọn tiếp theo (NIPT hoặc chẩn đoán xâm lấn)",
+        "Phải chấm dứt thai kỳ ngay vì nguy cơ cao",
+        "Kết quả không có giá trị, bỏ qua và chờ siêu âm hình thái"
+      ],
+      "answer": 1,
+      "explain": "Kết quả cao hơn ngưỡng cắt của labo (dù giá trị tuyệt đối 1/180 nghe có vẻ \"thấp\") vẫn được phân loại nguy cơ cao theo tiêu chuẩn xét nghiệm, cần tư vấn đầy đủ các bước tiếp theo, dù về bản chất phần lớn các trường hợp trong nhóm này vẫn có thai bình thường"
+    },
+    {
+      "q": "So sánh giữa việc chỉ định CVS ở tuần 12 và chọc ối ở tuần 17 cho cùng một thai phụ nguy cơ cao. Yếu tố nào KHÔNG phải là điểm khác biệt chính giữa 2 phương pháp?",
+      "options": [
+        "Thời điểm thực hiện trong thai kỳ",
+        "Loại mô bệnh phẩm được lấy (gai nhau so với dịch ối)",
+        "Khả năng phát hiện bất thường NST nói chung của cả hai phương pháp là tương đương nhau",
+        "Cả hai đều không có nguy cơ biến chứng gì cho thai kỳ"
+      ],
+      "answer": 3,
+      "explain": "Cả CVS và chọc ối đều có nguy cơ biến chứng (dù thấp), đây là điểm SAI trong câu hỏi — đáp án D là câu KHÔNG đúng nên được chọn làm đáp án của câu hỏi dạng phủ định"
+    },
+    {
+      "q": "Thai phụ có kết quả NIPT nguy cơ thấp cho trisomy 21, 18, 13, nhưng siêu âm hình thái tuần 22 phát hiện bất thường tim bẩm sinh phức tạp. Nhận định phù hợp nhất là:",
+      "options": [
+        "Có thể yên tâm bỏ qua bất thường tim vì NIPT đã âm tính với các trisomy phổ biến",
+        "NIPT chỉ sàng lọc một số bất thường NST phổ biến nhất định, không loại trừ được các bất thường cấu trúc NST khác — cần tư vấn thêm và cân nhắc chẩn đoán xâm lấn kèm CMA khi có bất thường cấu trúc trên siêu âm",
+        "Bất thường tim trên siêu âm chắc chắn là do lỗi kỹ thuật vì đã có NIPT âm tính",
+        "Không cần làm thêm bất kỳ xét nghiệm nào nữa"
+      ],
+      "answer": 1,
+      "explain": "NIPT chỉ sàng lọc số trisomy phổ biến nhất định, không bao phủ được toàn bộ bất thường cấu trúc NST hay hội chứng vi mất đoạn/bệnh đơn gen — bất thường trên siêu âm luôn cần đánh giá bổ sung độc lập"
+    },
+    {
+      "q": "Một thai phụ đến tư vấn vì phơi nhiễm tia X liều chẩn đoán (chụp X-quang ngực) ở tuần thai thứ 6 trước khi biết có thai. Tư vấn phù hợp nhất là:",
+      "options": [
+        "Chắc chắn thai nhi sẽ bị dị tật nặng, nên chấm dứt thai kỳ ngay",
+        "Liều tia X trong chẩn đoán thông thường thường thấp hơn nhiều so với ngưỡng gây dị tật đã biết, nguy cơ tăng thêm là rất nhỏ, nên theo dõi thai kỳ bình thường kết hợp siêu âm hình thái học đầy đủ, không có chỉ định chấm dứt thai kỳ chỉ dựa trên yếu tố này",
+        "Không cần theo dõi gì thêm vì tia X hoàn toàn không ảnh hưởng thai nhi, nên theo dõi thai kỳ bình thường kết hợp siêu âm hình thái học đầy đủ, không có chỉ định chấm dứt thai kỳ chỉ dựa trên yếu tố này",
+        "Cần làm chọc ối ngay lập tức vì tia X luôn gây bất thường NST dù chỉ với liều thấp, dựa vào kết quả chọc ối để ra quyết định chấm dứt thai kỳ hay không"
+      ],
+      "answer": 1,
+      "explain": "Liều tia X chẩn đoán thông thường thường dưới ngưỡng gây dị tật, nguy cơ tăng thêm rất nhỏ — không có chỉ định chấm dứt thai kỳ chỉ dựa trên yếu tố này, nhưng vẫn cần theo dõi thai kỳ đầy đủ"
+    },
+    {
+      "q": "Trong tư vấn trước sinh, khi nào NIPT được xem là lựa chọn ưu tiên hơn Double test/Triple test (nếu điều kiện chi trả cho phép)?",
+      "options": [
+        "Không có trường hợp nào NIPT được ưu tiên hơn",
+        "Khi cần độ chính xác cao hơn cho các trisomy phổ biến, đặc biệt ở nhóm nguy cơ trung bình-cao",
+        "Chỉ ưu tiên khi thai phụ dưới 25 tuổi",
+        "Chỉ ưu tiên trong trường hợp song thai"
+      ],
+      "answer": 1,
+      "explain": "NIPT ưu tiên khi cần độ chính xác cao hơn, đặc biệt nhóm nguy cơ trung bình-cao, nhưng vẫn giữ nguyên tắc là xét nghiệm sàng lọc"
     }
   ]
 }
