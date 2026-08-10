@@ -1,384 +1,66 @@
 {
   "name": "Viêm cột sống dính khớp",
-  "description": "Bộ case lâm sàng VCSDK từ chẩn đoán, đánh giá hoạt động bệnh, điều trị theo ASAS-EULAR 2022 đến xử trí biến chứng ngoài khớp – ôn thi bác sĩ nội trú.",
-  "level": "Ôn thi nội trú",
+  "description": "Bộ câu hỏi tình huống lâm sàng Viêm cột sống dính khớp và các bệnh lý cột sống huyết thanh âm tính dành cho ôn thi nội trú, cao học, CKI/CKII và chuyên khoa Cơ Xương Khớp.",
+  "level": "Ôn thi nội trú / Chuyên khoa",
   "type": "cases",
   "category": "Nội",
   "subcategory": "Cơ xương khớp",
   "cases": [
     {
-      "title": "Nam 26 tuổi đau vùng thắt lưng và mông âm ỉ 8 tháng",
-      "body": "Bệnh nhân nam 26 tuổi, kỹ sư phần mềm, đến khám vì <b>đau vùng thắt lưng và mông hai bên âm ỉ kéo dài 8 tháng</b>. Đau khởi phát từ từ, không liên quan chấn thương. Đau tăng rõ vào <b>nửa đêm về sáng</b>, thường khiến bệnh nhân phải thức giấc; <b>cứng cột sống buổi sáng kéo dài khoảng 90 phút</b>. Triệu chứng <b>cải thiện rõ sau khi vận động hoặc tắm nước nóng</b> nhưng <b>không cải thiện khi nghỉ ngơi</b>. Không sốt, không sụt cân, không chấn thương.<br><b>Tiền sử:</b> Không có bệnh nội khoa. Anh trai từng có đau lưng mạn tính.<br><b>Khám lâm sàng:</b> Sinh hiệu ổn. Mất đường cong sinh lý cột sống thắt lưng, co cứng cơ cạnh sống hai bên. Hạn chế tầm vận động cột sống thắt lưng mọi tư thế, đặc biệt cúi. <b>Chỉ số Schober: 10/13,5 cm</b>. Ấn đau khớp cùng chậu hai bên. Không sưng khớp ngoại vi, không tổn thương da, mắt.<br><b>Cận lâm sàng:</b> CRP 32 mg/L, VS 48 mm/giờ, RF âm tính. <b>HLA-B27 dương tính</b>. <b>X-quang khung chậu thẳng: bào mòn và xơ xương dưới sụn cả hai bên khớp cùng chậu, bờ khớp không đều (hình ảnh 'tem thư')</b>, khe khớp mờ một phần.",
-      "questions": [
-        {
-          "q": "Theo tiêu chuẩn ASAS, đau lưng của bệnh nhân được phân loại là loại nào và đáp ứng đủ tiêu chuẩn khi có bao nhiêu đặc điểm?",
-          "options": [
-            "Đau lưng cơ học – chẩn đoán khi có ≥ 3 trong 5 tiêu chuẩn ASAS",
-            "Đau lưng kiểu viêm – chẩn đoán khi có ≥ 4 trong 5 tiêu chuẩn ASAS",
-            "Đau lưng hỗn hợp – chẩn đoán khi có ≥ 3 trong 5 tiêu chuẩn ASAS",
-            "Đau lưng kiểu rễ thần kinh – chẩn đoán khi có ≥ 4 trong 5 tiêu chuẩn ASAS"
-          ],
-          "answer": 1,
-          "explain": "Tiêu chuẩn ASAS cho đau lưng kiểu viêm (Inflammatory Back Pain – IBP) gồm 5 điều kiện: (1) Khởi phát trước 40 tuổi; (2) Khởi phát từ từ; (3) Đau về đêm/sáng sớm; (4) Cải thiện khi luyện tập; (5) Không cải thiện khi nghỉ ngơi. <b>Chẩn đoán IBP khi có ≥ 4/5 tiêu chuẩn</b> (độ nhạy 79,6%; độ đặc hiệu 72,4%). Bệnh nhân này thỏa cả 5 tiêu chuẩn. Đau cơ học giảm khi nghỉ ngơi và tăng khi vận động – ngược với đau kiểu viêm. Đau rễ thần kinh lan theo đường đi dây thần kinh, có dấu Lasègue dương tính."
-        },
-        {
-          "q": "Chọn TẤT CẢ các đáp án đúng: Những đặc điểm nào sau đây giúp phân biệt đau lưng kiểu SpA với đau lưng cơ học thông thường ở bệnh nhân này?",
-          "type": "multi",
-          "options": [
-            "Khởi phát trước 40 tuổi, diễn tiến từ từ",
-            "Đau tăng khi ngồi lâu và nghỉ ngơi, cải thiện sau khi vận động",
-            "Cứng cột sống buổi sáng kéo dài hơn 30 phút",
-            "Đau tăng khi gắng sức và giảm hoàn toàn sau khi nghỉ ngơi",
-            "Đau cải thiện rõ rệt sau dùng NSAIDs trong 24–48 giờ"
-          ],
-          "answer": [
-            0,
-            1,
-            2,
-            4
-          ],
-          "explain": "Theo tiêu chuẩn ASAS 2009, các 'dấu hiệu SpA' bao gồm đau lưng kiểu viêm (IBP), HLA-B27 dương tính, CRP tăng, tiền sử gia đình SpA, đáp ứng tốt với NSAIDs... <b>A đúng</b>: Khởi phát trước 40 tuổi và từ từ là tiêu chuẩn IBP #1 và #2. <b>B đúng</b>: Tăng khi nghỉ, giảm khi vận động là đặc trưng của IBP (ngược với đau cơ học). <b>C đúng</b>: Cứng khớp buổi sáng > 30 phút là đặc điểm viêm, không gặp trong đau cơ học thông thường. <b>D sai</b>: 'Giảm hoàn toàn khi nghỉ ngơi' mô tả đau cơ học, không phải SpA. <b>E đúng</b>: Đáp ứng tốt với NSAIDs trong 24–48 giờ là một trong các SpA features được ASAS công nhận."
-        },
-        {
-          "q": "Dựa vào hình ảnh X-quang khớp cùng chậu được mô tả, bệnh nhân đang ở giai đoạn nào và có đủ tiêu chuẩn X-quang theo Tiêu chuẩn New York sửa đổi 1984 để chẩn đoán xác định không?",
-          "options": [
-            "Giai đoạn 1 hai bên – chưa đủ tiêu chuẩn X-quang",
-            "Giai đoạn 2 hai bên – đủ tiêu chuẩn X-quang",
-            "Giai đoạn 3 một bên – đủ tiêu chuẩn X-quang",
-            "Giai đoạn 4 hai bên – không cần tiêu chuẩn lâm sàng kèm"
-          ],
-          "answer": 1,
-          "explain": "X-quang mô tả 'bào mòn, xơ xương dưới sụn, bờ khớp không đều – hình tem thư, khe khớp mờ một phần' ở cả hai bên = <b>Giai đoạn 2 hai bên</b>. Giai đoạn 1: nghi ngờ (khe khớp rộng, mờ). Giai đoạn 2: bào mòn. Giai đoạn 3: đặc xương, dính một phần. Giai đoạn 4: dính toàn bộ. Tiêu chuẩn New York 1984 yêu cầu <b>viêm khớp cùng chậu ≥ giai đoạn 2 ở hai bên HOẶC giai đoạn 3–4 ở một bên</b>. Kết hợp với ≥ 1 tiêu chuẩn lâm sàng → <b>Chẩn đoán xác định VCSDK</b>. Giai đoạn 1 chưa đủ tiêu chuẩn dù có đủ lâm sàng."
-        },
-        {
-          "q": "Điều trị dược lý đầu tiên được khuyến cáo cho bệnh nhân VCSDK có triệu chứng đau và cứng khớp hoạt động là gì?",
-          "options": [
-            "Corticoid đường uống liều thấp liên tục để duy trì chống viêm lâu dài",
-            "Sulfasalazine uống ngay vì có tác dụng trên cả thể trục và thể ngoại vi",
-            "NSAIDs liều tối đa dùng liên tục, ưu tiên ức chế COX-2 chọn lọc nếu nguy cơ tiêu hóa",
-            "Methotrexate phối hợp với giảm đau paracetamol để kiểm soát viêm hệ thống"
-          ],
-          "answer": 2,
-          "explain": "Theo ASAS-EULAR 2022, <b>NSAIDs là điều trị dược lý hàng đầu</b> cho VCSDK có hoạt động bệnh. Dùng liên tục (không chỉ khi đau) giúp kiểm soát chặt hơn và có thể làm chậm quá trình dính khớp. Ưu tiên ức chế COX-2 (Etoricoxib, Celecoxib) ở BN có nguy cơ tiêu hóa. <b>Corticoid toàn thân bị hạn chế tối đa</b> trong VCSDK. <b>Sulfasalazine và Methotrexate chỉ có hiệu quả với thể ngoại vi</b>, không tác dụng với thể trục thuần túy – đây là điểm khác biệt quan trọng so với viêm khớp dạng thấp."
-        },
-        {
-          "q": "Sau 6 tuần dùng Etoricoxib 90 mg/ngày (liều tối đa), bệnh nhân không cải thiện. Theo khuyến cáo ASAS-EULAR 2022, bước tiếp theo hợp lý nhất trước khi chỉ định thuốc sinh học là gì?",
-          "options": [
-            "Thử thêm ít nhất một loại NSAID khác ở liều tối đa trong ≥ 1 tháng trước khi cân nhắc sinh học",
-            "Bắt đầu ngay thuốc ức chế TNF-α vì đã thất bại với NSAID thứ nhất là đủ điều kiện",
-            "Bổ sung Methotrexate 15 mg/tuần để tăng cường ức chế viêm hệ thống",
-            "Chuyển sang corticoid liều vừa trong 3 tháng rồi đánh giá lại hiệu quả"
-          ],
-          "answer": 0,
-          "explain": "ASAS-EULAR 2022 yêu cầu BN <b>thất bại với ≥ 2 loại NSAIDs khác nhau ở liều tối đa</b> (kết hợp với ASDAS ≥ 2,1 và ≥ 1 yếu tố khách quan) trước khi chỉ định sinh học. Bệnh nhân mới thất bại 1 loại → cần thử ít nhất 1 loại NSAID khác trong ≥ 1 tháng. Đổi NSAID sau khoảng 1 tháng không đáp ứng là hợp lý vì các NSAID khác nhau có hiệu quả khác nhau với từng BN. <b>Methotrexate và Corticoid toàn thân không được khuyến cáo cho thể trục thuần túy</b>."
-        }
-      ]
-    },
-    {
-      "title": "Nam 40 tuổi VCSDK, đau lưng nặng dai dẳng dù đã điều trị hai loại NSAID",
-      "body": "Bệnh nhân nam 40 tuổi, viên chức, được chẩn đoán VCSDK 5 năm trước. <b>Đã điều trị: Meloxicam 15 mg/ngày trong 6 tuần → Etoricoxib 90 mg/ngày trong 8 tuần</b>, cả hai ở liều tối đa và dùng liên tục. Bệnh nhân vẫn còn đau lưng và cứng khớp buổi sáng nặng, ảnh hưởng rõ đến sinh hoạt và công việc.<br><b>Tiền sử:</b> Không có lao, viêm gan virus, suy tim, IBD, vảy nến. Không tiếp xúc với nguồn lây lao.<br><b>Khám:</b> Sinh hiệu ổn. Hạn chế vận động cột sống rõ ở mọi tư thế, Schober 10/12 cm, khoảng cách chẩm-tường 4 cm. Đau ấn khớp cùng chậu. Không sưng khớp ngoại vi, không tổn thương da, mắt.<br><b>Cận lâm sàng:</b> CRP 48 mg/L, VS 62 mm/giờ. HLA-B27 dương tính. X-quang: viêm khớp cùng chậu <b>giai đoạn 3 hai bên</b>. <b>Thang điểm ASDAS-CRP: 3,6</b>.",
-      "questions": [
-        {
-          "q": "Theo thang điểm ASDAS, giá trị 3,6 tương ứng với mức độ hoạt động bệnh nào?",
-          "options": [
-            "Bệnh không hoạt động (Inactive Disease – ASDAS < 1,3)",
-            "Hoạt động thấp (Low Disease Activity – ASDAS 1,3 đến < 2,1)",
-            "Hoạt động rất cao (Very High Disease Activity – ASDAS > 3,5)",
-            "Hoạt động cao (High Disease Activity – ASDAS 2,1 đến ≤ 3,5)"
-          ],
-          "answer": 2,
-          "explain": "Thang điểm ASDAS phân loại 4 mức: <b>Không hoạt động < 1,3 | Thấp 1,3 – < 2,1 | Cao 2,1 – ≤ 3,5 | Rất cao > 3,5</b>. ASDAS 3,6 > 3,5 → <b>Hoạt động rất cao</b>. ASDAS ưu việt hơn BASDAI vì: (1) phân loại được 4 mức độ, (2) tích hợp chỉ số viêm khách quan (CRP hoặc VS), (3) được dùng làm ngưỡng chỉ định (ASDAS ≥ 2,1) và theo dõi đáp ứng thuốc sinh học theo ASAS-EULAR 2022."
-        },
-        {
-          "q": "Theo khuyến cáo ASAS-EULAR 2022, điều kiện cần đủ để chỉ định thuốc sinh học (bDMARD/tsDMARD) cho bệnh nhân VCSDK thể trục là gì?",
-          "options": [
-            "ASDAS ≥ 2,1 VÀ thất bại với ≥ 1 NSAID liều tối đa VÀ có bằng chứng CRP tăng",
-            "ASDAS ≥ 2,1 VÀ thất bại với ≥ 2 NSAIDs liều tối đa VÀ ≥ 1 trong: CRP tăng, MRI(+), hoặc XQ viêm KCC(+)",
-            "BASDAI ≥ 4 VÀ thất bại với ≥ 2 NSAIDs liều tối đa VÀ không có chống chỉ định sinh học",
-            "Thất bại với ≥ 2 NSAIDs liều tối đa là đủ, không yêu cầu ngưỡng hoạt động bệnh cụ thể"
-          ],
-          "answer": 1,
-          "explain": "Theo cập nhật ASAS-EULAR 2022 (khuyến cáo #9), chỉ định bDMARD/tsDMARD khi hội đủ: <b>(1) ASDAS ≥ 2,1; (2) Thất bại với ≥ 2 NSAIDs khác nhau ở liều tối đa; (3) Có ≥ 1 yếu tố khách quan: CRP tăng, MRI viêm KCC dương tính, hoặc X-quang viêm KCC dương tính</b>. Đây là cập nhật quan trọng so với khuyến cáo 2016 – ngưỡng ASDAS ≥ 2,1 là ngưỡng chính thức (không phải chỉ dựa vào BASDAI ≥ 4). Bệnh nhân này thỏa cả 3 điều kiện (ASDAS 3,6, thất bại 2 NSAID, XQ giai đoạn 3 và CRP 48)."
-        },
-        {
-          "q": "Chọn TẤT CẢ các đáp án đúng: Trước khi bắt đầu điều trị bằng thuốc sinh học, những sàng lọc nào là bắt buộc phải thực hiện?",
-          "type": "multi",
-          "options": [
-            "Sàng lọc lao tiềm ẩn bằng IGRA (Quantiferon-TB Gold) và/hoặc Mantoux",
-            "Sàng lọc viêm gan B và C (HBsAg, anti-HBc, anti-HCV)",
-            "Sàng lọc HIV",
-            "Xét nghiệm nước tiểu để loại trừ nhiễm khuẩn tiết niệu đang hoạt động",
-            "Đo mật độ xương (DXA scan) để đánh giá loãng xương trước điều trị",
-            "Nội soi đại tràng để loại trừ viêm ruột tiềm ẩn"
-          ],
-          "answer": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "explain": "Trước khi dùng thuốc sinh học, các xét nghiệm bắt buộc gồm: <b>(1) Sàng lọc lao</b> bằng IGRA (± Mantoux, X-quang phổi) – nếu dương tính cần điều trị lao tiềm ẩn trước; <b>(2) Viêm gan B, C và (3) HIV</b> – để có hướng dự phòng hoặc điều trị trước; <b>(4) Xét nghiệm nước tiểu</b> – loại trừ nhiễm khuẩn tiết niệu trước khi ức chế miễn dịch. Sàng lọc này phải <b>lặp lại hàng năm</b> trong suốt quá trình dùng thuốc. <b>DXA scan</b> nên được thực hiện nhưng không phải điều kiện bắt buộc trước khi khởi trị sinh học. <b>Nội soi đại tràng</b> không được yêu cầu thường quy, chỉ chỉ định khi có triệu chứng tiêu hóa gợi ý IBD."
-        },
-        {
-          "q": "Bác sĩ quyết định dùng thuốc sinh học. Theo ASAS-EULAR 2022, lựa chọn nào phù hợp nhất cho bệnh nhân VCSDK thể trục này không có bệnh lý kèm đặc biệt?",
-          "options": [
-            "Secukinumab (kháng IL-17A) vì thuộc thế hệ mới nhất với bằng chứng hiệu quả mạnh nhất",
-            "Infliximab hoặc Adalimumab (kháng TNF monoclonal) vì hiệu quả vượt trội hơn các nhóm thuốc khác trong thể trục",
-            "Thuốc kháng TNF bất kỳ hoặc kháng IL-17 đều là lựa chọn đầu tay tương đương, không ưu tiên loại cụ thể nào",
-            "Upadacitinib (JAK inhibitor) được khuyến cáo như lựa chọn ưu tiên vì là thuốc uống và hiệu quả mạnh"
-          ],
-          "answer": 2,
-          "explain": "Theo ASAS-EULAR 2022, <b>không có khuyến cáo ưu tiên một loại thuốc sinh học cụ thể</b> cho BN VCSDK thể trục không có bệnh lý kèm đặc biệt – TNFi (Etanercept, Adalimumab, Golimumab...) hoặc IL-17i (Secukinumab, Ixekizumab) đều là lựa chọn đầu tay tương đương. JAK inhibitors (Tofacitinib, Upadacitinib) được bổ sung vào khuyến cáo 2022 nhưng là lựa chọn khi có chống chỉ định với bDMARD hoặc sau thất bại bDMARD, chưa phải ưu tiên đầu tiên. Chỉ khi có bệnh lý kèm (IBD/uveitis tái phát → TNFi monoclonal; vảy nến da → IL-17i) mới có chỉ dẫn cụ thể."
-        },
-        {
-          "q": "Sau 3 tháng dùng thuốc sinh học, ASDAS-CRP giảm từ 3,6 xuống 2,6. Cách đánh giá kết quả điều trị nào dưới đây là chính xác nhất?",
-          "options": [
-            "Không đạt ngưỡng đáp ứng điều trị vì ΔASDAS = 1,0 thấp hơn ngưỡng cắt 1,1",
-            "Đạt lui bệnh hoàn toàn vì ASDAS sau điều trị đã giảm xuống dưới ngưỡng 'hoạt động rất cao'",
-            "Đạt cải thiện lâm sàng quan trọng vì ΔASDAS = 1,0 đủ ngưỡng yêu cầu",
-            "Đạt cải thiện lớn vì ASDAS đã giảm hơn 25% so với trước điều trị"
-          ],
-          "answer": 0,
-          "explain": "ΔASDAS = 3,6 – 2,6 = 1,0. Ngưỡng đánh giá đáp ứng: <b>ΔASDAS ≥ 1,1 = cải thiện lâm sàng quan trọng (Clinically Important Improvement); ΔASDAS ≥ 2,0 = cải thiện lớn (Major Improvement)</b>. ΔASDAS = 1,0 < 1,1 → <b>Không đạt ngưỡng đáp ứng điều trị</b>. ASDAS 2,6 vẫn thuộc mức 'hoạt động cao' (không phải lui bệnh < 1,3). Đây là điểm kỹ thuật quan trọng: không nhầm lẫn giữa 'bệnh không còn rất cao' với 'có đáp ứng điều trị'. Bác sĩ cần xem xét đây là không đáp ứng nguyên phát (đổi cơ chế) hay thứ phát (đổi cùng cơ chế) tùy thời điểm."
-        }
-      ]
-    },
-    {
-      "title": "Nữ 28 tuổi, mắt trái đau đỏ và nhìn mờ đột ngột, tái phát lần 2",
-      "body": "Bệnh nhân nữ 28 tuổi, giáo viên, đến khoa Mắt vì <b>mắt trái đau, đỏ, sợ ánh sáng và nhìn mờ đột ngột từ 3 ngày</b>. Đây là <b>lần thứ hai trong 2 năm</b> qua bị tình trạng tương tự. Khi được khai thác kỹ, bệnh nhân cho biết có <b>đau vùng thắt lưng và mông kéo dài 3 năm</b>, đặc biệt về đêm và sáng sớm, kèm cứng khớp buổi sáng khoảng 60 phút, cải thiện khi vận động. Trước đây chỉ được chẩn đoán 'đau lưng nghề nghiệp'.<br><b>Tiền sử:</b> Không có bệnh da, ruột, khớp. Không có tiền sử gia đình.<br><b>Khám mắt:</b> Kết mạc cương tụ rìa, đồng tử co nhỏ, tế bào và flare trong tiền phòng trên đèn khe. <b>Chẩn đoán: Viêm màng bồ đào trước cấp (Acute Anterior Uveitis)</b>.<br><b>Khám cơ xương khớp:</b> Ấn đau khớp cùng chậu hai bên, Schober 10/13,5 cm, hạn chế nhẹ vận động cột sống. Không sưng khớp ngoại vi.<br><b>Cận lâm sàng:</b> CRP 22 mg/L. <b>HLA-B27 dương tính</b>. X-quang khớp cùng chậu: mờ khe và bờ khớp không đều hai bên (giai đoạn 1–2).",
-      "questions": [
-        {
-          "q": "Viêm màng bồ đào trước cấp tái phát của bệnh nhân liên quan đến bệnh lý hệ thống nào?",
-          "options": [
-            "Viêm khớp dạng thấp – biểu hiện viêm mắt thường gặp ở nữ trẻ tuổi có RF dương tính",
-            "Viêm cột sống thể huyết thanh âm tính (SpA) – viêm màng bồ đào trước cấp là biểu hiện ngoài khớp thường gặp nhất",
-            "Lupus ban đỏ hệ thống – viêm mắt kèm đau lưng và tăng CRP nhẹ ở nữ trẻ",
-            "Bệnh sarcoidosis – gây viêm màng bồ đào hai bên và tổn thương toàn thân"
-          ],
-          "answer": 1,
-          "explain": "Viêm màng bồ đào trước cấp (AAU), <b>đặc biệt thể tái phát, đơn bên, ở BN HLA-B27 dương tính</b>, là biểu hiện ngoài khớp <b>thường gặp nhất</b> của SpA, xảy ra ở 25–33% BN VCSDK. Khoảng 50% BN AAU có HLA-B27 (+). Đây thường là triệu chứng đầu tiên khiến BN phát hiện bệnh SpA nền. Viêm khớp dạng thấp gây viêm màng bồ đào sau hoặc màng bồ đào toàn bộ, ít tái phát đơn bên như vậy. Lupus gây viêm mắt kèm ANA (+), bổ thể giảm, tổn thương đa cơ quan. Sarcoidosis gây viêm màng bồ đào hai bên và thường kèm hạch, tổn thương phổi."
-        },
-        {
-          "q": "Cơ chế bệnh sinh nào giải thích mối liên hệ giữa viêm màng bồ đào và bệnh cột sống ở bệnh nhân?",
-          "options": [
-            "Tắc nghẽn vi mạch máu cùng nuôi dưỡng màng bồ đào và các điểm bám gân cột sống",
-            "HLA-B27 trình diện bất thường các peptide kháng nguyên, kích hoạt phản ứng miễn dịch chéo với kháng nguyên vi khuẩn đường ruột tại cả mắt và cột sống",
-            "Lắng đọng phức hợp miễn dịch trong màng bồ đào do mất cân bằng protein huyết thanh",
-            "Vi khuẩn từ ruột di chuyển trực tiếp qua đường máu đến nhãn cầu và các đốt sống"
-          ],
-          "answer": 1,
-          "explain": "Giả thuyết 'bắt chước phân tử' (molecular mimicry) được chấp nhận rộng rãi: <b>Vi khuẩn đường ruột (Klebsiella, Chlamydia...) có peptide tương đồng cấu trúc với tự kháng nguyên ở mắt và điểm bám gân. HLA-B27 trình diện bất thường các peptide này → Lympho T tấn công nhầm mô tự thân</b>. 'Trục ruột-khớp-mắt' giải thích tại sao ba cơ quan này thường bị ảnh hưởng đồng thời trong SpA. Phức hợp miễn dịch đặc trưng hơn cho lupus và viêm khớp dạng thấp. Vi khuẩn trực tiếp đến mắt là cơ chế của viêm nội nhãn nhiễm khuẩn, không phải viêm màng bồ đào trong SpA."
-        },
-        {
-          "q": "Nếu bệnh nhân cần thuốc sinh học để kiểm soát VCSDK và phòng ngừa tái phát viêm màng bồ đào, loại thuốc nào được ưu tiên theo ASAS-EULAR 2022?",
-          "options": [
-            "Etanercept (kháng TNF thụ thể hòa tan) vì ức chế TNF-α hiệu quả trên cả khớp và mắt",
-            "Secukinumab (kháng IL-17A) vì tác dụng chống viêm mạnh và không có nguy cơ bùng phát bệnh mắt",
-            "Adalimumab hoặc Infliximab (kháng thể đơn dòng kháng TNF) vì có bằng chứng làm giảm tần suất tái phát AAU",
-            "Upadacitinib (JAK inhibitor) vì có cơ chế ức chế nhiều cytokine gây viêm tại mắt hơn"
-          ],
-          "answer": 2,
-          "explain": "Theo ASAS-EULAR 2022, khi BN VCSDK có <b>viêm màng bồ đào tái phát</b>, nên ưu tiên <b>kháng thể đơn dòng kháng TNF-α (Adalimumab, Infliximab)</b> vì có bằng chứng làm giảm tần suất tái phát AAU. <b>Etanercept</b> (thụ thể hòa tan) kém hiệu quả hơn trên viêm màng bồ đào do không gây apoptosis tế bào viêm mang TNF-α trên bề mặt màng tế bào – cơ chế được cho là cần thiết để kiểm soát viêm trong buồng mắt. <b>IL-17i</b> (Secukinumab) không có bằng chứng phòng ngừa AAU và không được khuyến cáo ưu tiên trong tình huống này. JAK inhibitors chưa có đủ dữ liệu về mắt dài hạn."
-        },
-        {
-          "q": "Chọn TẤT CẢ các đáp án đúng: Nếu viêm màng bồ đào trước không được điều trị kịp thời, những biến chứng nào có thể xảy ra tại mắt?",
-          "type": "multi",
-          "options": [
-            "Dính đồng tử sau (posterior synechiae) do fibrin viêm dính bờ đồng tử vào mặt trước thủy tinh thể",
-            "Tăng nhãn áp và glôcôm thứ phát do cản trở lưu thông thủy dịch",
-            "Đục thủy tinh thể do phản ứng viêm kéo dài và tác dụng phụ của corticoid nhỏ mắt",
-            "Teo nhãn cầu (phthisis bulbi) trong trường hợp viêm nặng không kiểm soát được",
-            "Bong võng mạc nguyên phát do kéo căng từ dịch viêm tiền phòng"
-          ],
-          "answer": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "explain": "<b>A đúng</b>: Fibrin và tế bào viêm dính bờ đồng tử vào mặt trước thủy tinh thể (posterior synechiae) gây đồng tử méo, giảm khả năng giãn. <b>B đúng</b>: Dính đồng tử hoàn toàn → nghẽn lưu thông thủy dịch → tăng nhãn áp → glôcôm thứ phát. <b>C đúng</b>: Viêm mạn tính kết hợp với corticoid nhỏ mắt kéo dài có thể đẩy nhanh đục thủy tinh thể. <b>D đúng</b>: Teo nhãn cầu là giai đoạn cuối khi viêm không kiểm soát được – mắt xơ hóa, teo lại và mất chức năng hoàn toàn. <b>E sai</b>: Bong võng mạc nguyên phát không phải biến chứng trực tiếp của viêm màng bồ đào TRƯỚC; bong võng mạc thường liên quan đến viêm màng bồ đào SAU hoặc toàn bộ, không phải thể trước đơn thuần."
-        }
-      ]
-    },
-    {
-      "title": "Nam 44 tuổi VCSDK đang dùng Etanercept, mới xuất hiện tiêu chảy máu kéo dài",
-      "body": "Bệnh nhân nam 44 tuổi, được chẩn đoán VCSDK 14 năm. Sau khi thất bại với nhiều NSAIDs, bệnh nhân được điều trị bằng <b>Etanercept 50 mg/tuần trong 2 năm với đáp ứng tốt</b> về các triệu chứng cột sống (ASDAS-CRP 1,4 – thấp). Bệnh nhân đến khám vì <b>tiêu chảy phân lỏng nhiều lần/ngày, có nhầy máu, đau quặn bụng kéo dài 6 tuần</b>, sụt 4 kg. Không sốt. Đau lưng đang kiểm soát tốt.<br><b>Tiền sử:</b> Không có tiền sử bệnh tiêu hóa. Đã sàng lọc lao và viêm gan B/C âm tính trước khi dùng Etanercept.<br><b>Khám:</b> Bệnh nhân tỉnh, da niêm hơi nhợt. Bụng mềm, ấn đau dọc khung đại tràng. Sinh hiệu ổn.<br><b>Cận lâm sàng:</b> Hb 10,5 g/dL, CRP 38 mg/L. Cấy phân âm tính với vi khuẩn gây bệnh. <b>Nội soi đại tràng: niêm mạc xung huyết, phù nề, loét nông liên tục dọc đại tràng sigma. Mô bệnh học: viêm mạn tính không đặc hiệu, không có hạt, phù hợp bệnh viêm ruột (IBD)</b>.",
-      "questions": [
-        {
-          "q": "Tình trạng tiêu hóa của bệnh nhân được phân loại là biểu hiện ngoài khớp nào của VCSDK và tỷ lệ gặp tương ứng là bao nhiêu?",
-          "options": [
-            "Hội chứng ruột kích thích – gặp 20-30% BN VCSDK do căng thẳng tâm lý mạn tính",
-            "Bệnh viêm ruột mạn tính (IBD) có biểu hiện lâm sàng – gặp 5-10% BN VCSDK",
-            "Amyloidosis đường tiêu hóa – gặp 10-15% BN VCSDK lâu năm không điều trị",
-            "Nhiễm trùng cơ hội đường ruột do ức chế miễn dịch – gặp 15-20% BN dùng sinh học"
-          ],
-          "answer": 1,
-          "explain": "IBD có biểu hiện lâm sàng (Crohn hoặc Viêm loét đại tràng) gặp ở <b>5-10% BN VCSDK</b>. Tuy nhiên, nếu nội soi thường quy ở BN VCSDK không triệu chứng tiêu hóa, có thể phát hiện viêm niêm mạc dưới lâm sàng ở tỷ lệ cao hơn nhiều (25-49%). <b>Cả VCSDK và IBD có chung cơ địa di truyền (gen IL-23, IL-17) và rối loạn trục ruột-khớp</b> – vi khuẩn đường ruột kích hoạt đáp ứng miễn dịch bất thường tại cả ruột và các điểm bám gân. Phân biệt với nhiễm khuẩn: cấy phân âm tính; với hội chứng ruột kích thích: không có viêm thực sự trên nội soi và mô bệnh học."
-        },
-        {
-          "q": "Tại sao Etanercept – một thuốc ức chế TNF-α – lại không hiệu quả trong điều trị IBD và có thể làm nặng thêm bệnh?",
-          "options": [
-            "Etanercept không thể đi qua hàng rào mạch máu ruột nên không có tác dụng tại niêm mạc đại tràng",
-            "Etanercept là thụ thể hòa tan 'bẫy' TNF-α tự do nhưng không gây apoptosis tế bào viêm biểu hiện TNF trên màng, không trung hòa hiệu quả TNF dạng màng như kháng thể đơn dòng",
-            "Etanercept gây ức chế miễn dịch quá mức, tạo điều kiện cho vi khuẩn kháng thuốc phát triển trong lòng ruột",
-            "Etanercept có protein chuột (25%) gây phản ứng miễn dịch trong đường tiêu hóa"
-          ],
-          "answer": 1,
-          "explain": "Etanercept là <b>protein dung hợp (thụ thể TNF hòa tan)</b> – 'bẫy' TNF-α tự do trong máu nhưng <b>không có khả năng gây ly giải hoặc apoptosis các tế bào viêm biểu hiện TNF-α dạng màng (mTNF) trên bề mặt</b>. Ngược lại, kháng thể đơn dòng (Infliximab, Adalimumab) gắn vào cả TNF tự do và mTNF → kích hoạt ADCC và caspase → apoptosis tế bào viêm niêm mạc ruột. Cơ chế này được cho là thiết yếu trong kiểm soát IBD. Do đó Etanercept không những không hiệu quả mà <b>có thể khởi phát hoặc làm nặng thêm bệnh Crohn</b> – đây là điểm chống chỉ định thực tế quan trọng khi lựa chọn TNFi. Protein chuột trong Infliximab (25%), không phải Etanercept (0%)."
-        },
-        {
-          "q": "Chọn TẤT CẢ các đáp án đúng: Các phát biểu nào sau đây là đúng về lựa chọn thuốc sinh học khi bệnh nhân VCSDK có kèm IBD hoạt động?",
-          "type": "multi",
-          "options": [
-            "Kháng thể đơn dòng kháng TNF-α (Infliximab, Adalimumab) được ưu tiên vì có hiệu quả trên cả VCSDK lẫn IBD",
-            "Có thể tiếp tục Etanercept và thêm Mesalazine để kiểm soát thành phần IBD",
-            "Secukinumab (kháng IL-17A) nên tránh khi IBD đang hoạt động vì có thể làm nặng thêm bệnh ruột",
-            "Upadacitinib (JAK inhibitor) là lựa chọn phù hợp khi cả TNFi lẫn IL-17i đều thất bại hoặc chống chỉ định, do có dữ liệu dương tính trong viêm loét đại tràng",
-            "Không cần thay đổi phác đồ vì IBD trong VCSDK là biểu hiện tự giới hạn"
-          ],
-          "answer": [
-            0,
-            2,
-            3
-          ],
-          "explain": "<b>A đúng</b>: Infliximab và Adalimumab được FDA/EMA phê duyệt cho cả VCSDK lẫn IBD, là lựa chọn ưu tiên trong tình huống này. <b>B sai</b>: Etanercept không hiệu quả trong IBD (cơ chế không gây apoptosis tế bào viêm niêm mạc); không nên tiếp tục. Mesalazine không đủ cho IBD đang hoạt động trung bình-nặng. <b>C đúng</b>: IL-17 có vai trò bảo vệ hàng rào niêm mạc ruột; ức chế IL-17A có thể làm khởi phát hoặc nặng thêm IBD → chống chỉ định tương đối trong IBD đang hoạt động. <b>D đúng</b>: Upadacitinib (JAKi) có dữ liệu dương tính trong viêm loét đại tràng và AS từ các thử nghiệm SELECT; được bổ sung vào khuyến cáo ASAS-EULAR 2022 như lựa chọn sau thất bại bDMARD. <b>E sai</b>: IBD trong VCSDK có thể tiến triển mạn tính và nặng nếu không điều trị."
-        },
-        {
-          "q": "Sau khi chuyển sang Infliximab, thang điểm nào được dùng để đánh giá đáp ứng điều trị cho phần bệnh cột sống sau 3 tháng?",
-          "options": [
-            "ΔASDAS ≥ 1,1 = cải thiện lâm sàng quan trọng; ΔBASDAI ≥ 2 (hoặc giảm ≥ 50%) = có đáp ứng",
-            "Nồng độ TNF-α huyết thanh trước và sau điều trị phản ánh mức độ ức chế sinh học",
-            "Khoảng cách chẩm-tường và chỉ số Schober là đủ để đánh giá đáp ứng điều trị ngắn hạn",
-            "X-quang cột sống mỗi 3 tháng để theo dõi tiến triển cầu xương và dính đốt sống"
-          ],
-          "answer": 0,
-          "explain": "Theo hướng dẫn ASAS-EULAR, đánh giá đáp ứng thuốc sinh học sau 3 tháng dựa vào: <b>ΔASDAS ≥ 1,1 = cải thiện lâm sàng quan trọng (Clinically Important Improvement); HOẶC ΔBASDAI ≥ 2 hoặc giảm ≥ 50% so với ban đầu = có đáp ứng điều trị</b>. ASDAS và BASDAI là hai công cụ song song được dùng để quyết định tiếp tục hay thay đổi thuốc. <b>Nồng độ TNF-α</b> huyết thanh không được dùng để theo dõi đáp ứng lâm sàng thường quy. <b>X-quang cột sống</b> và chỉ số Schober phản ánh tổn thương cấu trúc tích lũy dài hạn, không đánh giá được đáp ứng điều trị trong 3 tháng."
-        }
-      ]
-    },
-    {
-      "title": "Nam 33 tuổi đau lưng kiểu viêm, sưng toàn bộ ngón chân và mảng da bong vảy",
-      "body": "Bệnh nhân nam 33 tuổi, thợ sửa chữa điện lạnh, đến khám vì <b>đau lưng kiểu viêm 2 năm</b> và trong 3 tuần nay có <b>sưng đau toàn bộ ngón chân số 3 bàn chân phải</b> – ngón sưng to lan tỏa từ gốc đến đầu ngón, đỏ tím, đi lại khó. Đồng thời, bệnh nhân có <b>mảng da bong vảy trắng dày ở da đầu và mặt duỗi khuỷu tay</b> từ khoảng 4 năm nay nhưng chưa từng được khám da liễu.<br><b>Tiền sử:</b> Không có tiền sử khớp, mắt, ruột. Không có tiền sử gia đình rõ ràng.<br><b>Khám:</b> Sinh hiệu ổn. Ngón chân 3 bàn phải sưng nề toàn bộ, da đỏ tím, ấn đau lan tỏa (hình 'khúc dồi'). Vùng da đầu và mặt duỗi khuỷu tay có <b>mảng hồng ban giới hạn rõ, vảy bạc dày, dấu hiệu 'nến' dương tính, dấu Auspitz dương tính</b>. Ấn đau khớp cùng chậu hai bên. Hạn chế nhẹ vận động cột sống thắt lưng. Không sưng khớp ngoại vi khác.<br><b>Cận lâm sàng:</b> CRP 30 mg/L, VS 42 mm/giờ. RF âm tính. Acid uric 5,8 mg/dL (bình thường). <b>HLA-B27 dương tính</b>. X-quang khớp cùng chậu: mờ khe và không đều bờ khớp hai bên (giai đoạn 2).",
-      "questions": [
-        {
-          "q": "Dựa vào toàn bộ bệnh cảnh lâm sàng, bệnh nhân này được xếp vào thể SpA nào là phù hợp nhất?",
-          "options": [
-            "Viêm cột sống dính khớp vô căn thể trục đơn thuần với viêm ngón phản ứng",
-            "Viêm khớp phản ứng (Reactive arthritis) sau nhiễm khuẩn tiêu hóa hoặc tiết niệu",
-            "Viêm khớp vảy nến có tổn thương trục và ngoại vi (Psoriatic Arthritis – PsA axial/peripheral)",
-            "Viêm khớp gút đa khớp kết hợp đau lưng mạn tính do nghề nghiệp"
-          ],
-          "answer": 2,
-          "explain": "Bộ ba: <b>đau lưng kiểu viêm (axial SpA) + viêm ngón hình khúc dồi (dactylitis) + tổn thương da vảy nến điển hình</b> (hồng ban giới hạn rõ, vảy bạc, Auspitz +) → <b>Viêm khớp vảy nến (PsA) có tổn thương trục và ngoại vi</b>. VCSDK vô căn không có tổn thương da vảy nến. Viêm khớp phản ứng thường có tiền sử nhiễm khuẩn tiêu hóa/tiết niệu gần đây, không có vảy nến. Gout điển hình có acid uric tăng, viêm ngón chân cái đơn độc, không có viêm khớp cùng chậu hay vảy nến da."
-        },
-        {
-          "q": "Chọn TẤT CẢ các đáp án đúng: Những đặc điểm nào sau đây giúp phân biệt Viêm khớp vảy nến (PsA) với Viêm cột sống dính khớp vô căn (AS)?",
-          "type": "multi",
-          "options": [
-            "PsA có tổn thương da và/hoặc móng vảy nến là đặc điểm bắt buộc",
-            "Viêm ngón hình khúc dồi (dactylitis) đặc trưng hơn trong PsA so với AS",
-            "Tỷ lệ HLA-B27 trong PsA thấp hơn nhiều so với AS (30-40% vs ~90%)",
-            "Cầu xương trong PsA thường to, thô, không đối xứng; trong AS thường mảnh mai, đối xứng",
-            "AS hoàn toàn không bao giờ có biểu hiện viêm khớp ngoại vi"
-          ],
-          "answer": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "explain": "<b>A đúng</b>: Tổn thương da hoặc móng vảy nến là tiêu chuẩn bắt buộc để chẩn đoán PsA. <b>B đúng</b>: Dactylitis đặc trưng hơn trong PsA (viêm lan tỏa toàn bộ cấu trúc một ngón: khớp, bao gân, phần mềm) so với AS thuần túy. <b>C đúng</b>: HLA-B27 trong PsA chỉ 30-40%, không liên quan chặt với bệnh như trong AS (~90%). <b>D đúng</b>: Syndesmophytes trong PsA thô, không đều, không đối xứng; trong AS mảnh, đối xứng hai bên – đây là phân biệt quan trọng trên X-quang cột sống. <b>E sai</b>: AS có thể có viêm khớp ngoại vi (30-50% BN), đặc biệt khớp háng, gối, cổ chân; chỉ là biểu hiện trục thường chiếm ưu thế hơn trong AS thuần túy."
-        },
-        {
-          "q": "Khi NSAIDs không kiểm soát đủ viêm khớp ngoại vi (dactylitis) trong PsA, nhóm thuốc DMARD nào được khuyến cáo đầu tiên?",
-          "options": [
-            "Hydroxychloroquine vì ít tác dụng phụ nhất trong nhóm DMARD cổ điển",
-            "Methotrexate hoặc Sulfasalazine vì có hiệu quả trên viêm khớp ngoại vi và cải thiện tổn thương da",
-            "Colchicine liều thấp dài hạn để kiểm soát đợt viêm khớp ngoại vi cấp tính",
-            "Allopurinol vì cần loại trừ thành phần tăng acid uric đồng thời điều trị"
-          ],
-          "answer": 1,
-          "explain": "Trong PsA thể ngoại vi (dactylitis, viêm đa khớp nhỏ), <b>Methotrexate (MTX) được ưu tiên đầu tiên</b>: hiệu quả trên cả viêm khớp và tổn thương da vảy nến. Sulfasalazine là lựa chọn thứ hai (hiệu quả trên khớp ngoại vi, ít tác dụng trên da hơn). <b>Hydroxychloroquine nên tránh trong PsA</b> do nguy cơ bùng phát tổn thương da và có thể làm nặng thêm vảy nến. Colchicine dùng đặc hiệu cho gout. Allopurinol điều trị tăng acid uric, không phải DMARD cho PsA. Lưu ý quan trọng: MTX và Sulfasalazine <b>không hiệu quả với thể trục</b> của PsA/AS – nếu có tổn thương trục hoạt động nặng vẫn cần thuốc sinh học."
-        },
-        {
-          "q": "Khi PsA thể trục và ngoại vi không đáp ứng với MTX và NSAIDs, giữa kháng TNF và kháng IL-17, loại nào được ưu tiên hơn trong trường hợp này?",
-          "options": [
-            "Kháng TNF ưu tiên hơn vì có hiệu quả vượt trội hơn kháng IL-17 trên tổn thương da vảy nến",
-            "Kháng IL-17A (Secukinumab, Ixekizumab) được ưu tiên vì có bằng chứng hiệu quả tốt trên cả da vảy nến, khớp ngoại vi và thể trục trong PsA",
-            "Upadacitinib (JAK inhibitor) là lựa chọn ưu tiên hàng đầu vì tác dụng mạnh nhất và là thuốc uống",
-            "Không có sự khác biệt về hiệu quả giữa các nhóm, quyết định chỉ dựa trên đường dùng thuốc"
-          ],
-          "answer": 1,
-          "explain": "Trong PsA với <b>vảy nến da hoạt động</b>, theo ASAS-EULAR 2022 và các hướng dẫn PsA (GRAPPA, EULAR): <b>IL-17i (Secukinumab, Ixekizumab) được ưu tiên</b> vì có bằng chứng mạnh về hiệu quả trên tổn thương da vảy nến (vượt trội hơn kháng TNF về đáp ứng da PASI 90/100), khớp ngoại vi và thể trục. Kháng TNF monoclonal cũng là lựa chọn tốt nhưng hiệu quả trên da kém hơn. Tuy nhiên <b>nếu BN có IBD đồng thời, phải tránh IL-17i</b> và ưu tiên kháng TNF monoclonal. JAK inhibitors (Tofacitinib, Upadacitinib) là lựa chọn khi thất bại với bDMARD trước đó."
-        },
-        {
-          "q": "Khi theo dõi dài hạn bệnh nhân SpA sử dụng thuốc sinh học, đặc điểm nào sau đây tiên lượng đáp ứng tốt hơn với thuốc sinh học?",
-          "options": [
-            "Tuổi trẻ < 40, giới nam, thời gian mắc bệnh ngắn, ASDAS/BASDAI cao, CRP/VS tăng cao, điểm BASFI thấp",
-            "Tuổi cao > 55, giới nữ, thời gian mắc bệnh > 20 năm, đã có dính cột sống hoàn toàn trên X-quang",
-            "Có tổn thương da vảy nến diện rộng vì thuốc sinh học tập trung vào da trước khi tác dụng lên khớp",
-            "HLA-B27 âm tính vì phản ứng miễn dịch yếu hơn nên đáp ứng thuốc sinh học tốt hơn"
-          ],
-          "answer": 0,
-          "explain": "Các yếu tố tiên đoán đáp ứng tốt với thuốc sinh học trong SpA: <b>Tuổi trẻ (< 40), giới nam, thời gian mắc bệnh ngắn, điểm ASDAS/BASDAI cao (bệnh đang viêm nhiều = còn nhiều khả năng cải thiện), CRP/VS tăng cao (viêm hệ thống rõ ràng = thuốc sinh học có đích tác dụng), điểm BASFI thấp (chức năng còn tốt = chưa có tổn thương cấu trúc không hồi phục)</b>. BN đã có dính cột sống hoàn toàn thì tổn thương xương đã cố định – thuốc sinh học kiểm soát được viêm nhưng không phục hồi được cấu trúc đã dính. Đây là lý do điều trị sớm khi bệnh còn ở giai đoạn viêm (không có hoặc ít cấu trúc bị dính) là rất quan trọng."
-        }
-      ]
-    },
-    {
       "title": "Bệnh nhân nam 24 tuổi đau vùng thắt lưng và mông kéo dài 8 tháng",
-      "body": "<b>Bệnh nhân nam 24 tuổi</b>, lập trình viên, đến khám vì <b>đau vùng thắt lưng và mông kéo dài 8 tháng</b>. Cơn đau có đặc điểm khởi phát từ từ, âm ỉ, đau nhiều hơn về nửa sau ban đêm và sáng sớm, khiến bệnh nhân phải thức giấc. Buổi sáng, bệnh nhân có cảm giác <b>cứng cột sống kéo dài hơn 1 giờ</b>, khó cúi gập người. Các triệu chứng cải thiện rõ rệt sau khi đi lại, vận động hoặc tắm nước nóng, nhưng đau tăng trở lại khi ngồi làm việc lâu. Không có tiền sử chấn thương, không sốt hay sụt cân.<br><br>Khám lâm sàng: tỉnh táo, thể trạng tốt, sinh hiệu ổn. Cột sống mất đường cong sinh lý thắt lưng, co cứng cơ cạnh sống hai bên, tầm vận động cột sống thắt lưng hạn chế ở mọi tư thế (đặc biệt cúi và nghiêng). <b>Chỉ số Schober 10/12 cm</b>. Ấn vào khớp cùng chậu hai bên gây đau. Không sưng nóng đỏ ở khớp ngoại biên; không có viêm điểm bám gân.<br><br><b>Xét nghiệm:</b> VS 50 mm/giờ, CRP 35 mg/L, công thức máu bình thường. <b>HLA-B27 dương tính</b>. X-quang khung chậu thẳng: xơ xương và mờ khớp ở hai bên khớp cùng chậu, đặc biệt ở bờ chậu.",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 24 tuổi, lập trình viên.<br><br><b>Bệnh sử:</b> Đến khám vì đau vùng thắt lưng và mông kéo dài 8 tháng. Cơn đau có đặc điểm khởi phát từ từ, âm ỉ, đau nhiều hơn về nửa sau ban đêm và sáng sớm, khiến bệnh nhân phải thức giấc. Buổi sáng, bệnh nhân có cảm giác cứng cột sống kéo dài hơn 1 giờ, khó cúi gập người. Các triệu chứng cải thiện rõ rệt sau khi bệnh nhân đi lại, vận động hoặc tắm nước nóng, nhưng đau tăng trở lại khi ngồi làm việc lâu.<br><br><b>Tiền sử:</b> Không có tiền sử chấn thương, không sốt hay sụt cân.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh táo, thể trạng tốt, sinh hiệu ổn. Khám cột sống thấy mất đường cong sinh lý thắt lưng, co cứng cơ cạnh sống hai bên, tầm vận động cột sống thắt lưng hạn chế ở mọi tư thế, đặc biệt là cúi và nghiêng. Chỉ số Schober là 10/12 cm. Ấn vào khớp cùng chậu hai bên gây đau. Khám các khớp ngoại biên không phát hiện sưng, nóng, đỏ, không có biểu hiện viêm điểm bám gân. Các cơ quan khác chưa phát hiện bất thường.<br><br><b>Xét nghiệm:</b> Tốc độ máu lắng (VS) 50 mm/giờ, C-reactive protein (CRP) 35 mg/L, công thức máu bình thường. Kháng nguyên HLA-B27 dương tính. X-quang khung chậu thẳng cho thấy hình ảnh xơ xương và mờ khớp ở hai bên khớp cùng chậu, đặc biệt ở bờ chậu.",
       "questions": [
         {
           "q": "Đặc điểm đau lưng của bệnh nhân được phân loại là gì và gợi ý đến nhóm bệnh lý nào?",
           "options": [
+            "Đau lưng do nguyên nhân tâm lý.",
             "Đau lưng kiểu cơ học, gợi ý bệnh lý thoái hóa.",
             "Đau lưng kiểu viêm, gợi ý nhóm bệnh lý cột sống thể huyết thanh âm tính.",
-            "Đau lưng kiểu rễ thần kinh, gợi ý thoát vị đĩa đệm.",
-            "Đau lưng do nguyên nhân tâm lý."
+            "Đau lưng kiểu rễ thần kinh, gợi ý thoát vị đĩa đệm."
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "Bệnh nhân có đầy đủ các đặc điểm của đau lưng kiểu viêm (khởi phát < 40 tuổi, từ từ, cải thiện khi vận động, đau về đêm/sáng, kèm cứng khớp buổi sáng kéo dài). Đây là dấu hiệu lâm sàng quan trọng nhất gợi ý đến nhóm bệnh lý cột sống huyết thanh âm tính (Spondyloarthritis), trong đó điển hình là Viêm cột sống dính khớp."
         },
         {
           "q": "Cơ chế bệnh sinh cốt lõi gây ra các triệu chứng tại cột sống ở bệnh nhân này là gì?",
           "options": [
             "Sự lắng đọng các vi tinh thể trong các khớp cột sống.",
+            "Nhiễm trùng mạn tính tại các thân đốt sống do vi khuẩn lao.",
             "Tình trạng viêm mạn tính tại các điểm bám gân và dây chằng vào xương (viêm điểm bám gân), đặc biệt ở các khớp trục.",
-            "Sự phá hủy sụn khớp do các men tiêu hủy protein được giải phóng từ màng hoạt dịch bị viêm.",
-            "Nhiễm trùng mạn tính tại các thân đốt sống do vi khuẩn lao."
+            "Sự phá hủy sụn khớp do các men tiêu hủy protein được giải phóng từ màng hoạt dịch bị viêm."
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "Viêm điểm bám gân (enthesitis) được coi là tổn thương bệnh học cốt lõi trong Viêm cột sống dính khớp. Quá trình viêm mạn tính tại các vị trí nơi gân, dây chằng và bao khớp bám vào xương gây ra đau, và theo thời gian dẫn đến quá trình sửa chữa bất thường, cốt hóa các dây chằng và bao khớp, gây dính khớp và hình thành cầu xương."
         },
         {
           "q": "Tổn thương nào trên X-quang được xem là dấu hiệu đặc trưng và là tiêu chuẩn chẩn đoán quan trọng trong bệnh lý này?",
           "options": [
-            "Gai xương ở rìa thân đốt sống.",
             "Hẹp khe đĩa đệm.",
-            "Viêm khớp cùng chậu (Sacroiliitis).",
-            "Loãng xương toàn thể."
+            "Loãng xương toàn thể.",
+            "Gai xương ở rìa thân đốt sống.",
+            "Viêm khớp cùng chậu (Sacroiliitis)."
           ],
-          "answer": 2,
+          "answer": 3,
           "explain": "Viêm khớp cùng chậu hai bên là dấu hiệu hình ảnh học nền tảng trong Viêm cột sống dính khớp. Sự hiện diện của viêm khớp cùng chậu rõ ràng trên X-quang (từ giai đoạn 2 trở lên) là một trong những tiêu chuẩn chính trong Tiêu chuẩn New York sửa đổi 1984 để chẩn đoán xác định bệnh."
         },
         {
           "q": "Chỉ số Schober được dùng để đánh giá khách quan triệu chứng lâm sàng nào?",
           "options": [
-            "Mức độ đau của bệnh nhân.",
             "Mức độ viêm hệ thống.",
             "Độ giãn của cột sống thắt lưng khi cúi.",
+            "Mức độ đau của bệnh nhân.",
             "Sức mạnh của các cơ cạnh sống."
           ],
-          "answer": 2,
+          "answer": 1,
           "explain": "Chỉ số Schober là một nghiệm pháp lâm sàng đơn giản để đo lường mức độ giãn của cột sống thắt lưng khi bệnh nhân cúi tối đa. Chỉ số này giảm (< 5 cm so với ban đầu) cho thấy sự hạn chế vận động của cột sống thắt lưng, một dấu hiệu thực thể quan trọng của bệnh."
         },
         {
           "q": "Lựa chọn điều trị đầu tay để kiểm soát triệu chứng đau và viêm cho bệnh nhân này là gì?",
           "options": [
-            "Paracetamol liều tối đa.",
+            "Corticoid đường uống liều thấp.",
             "Thuốc chống viêm không steroid (NSAID) liều đủ và liên tục.",
             "Thuốc giãn cơ.",
-            "Corticoid đường uống liều thấp."
+            "Paracetamol liều tối đa."
           ],
           "answer": 1,
           "explain": "Theo khuyến cáo của Hiệp hội Thấp khớp học Quốc tế (ASAS/EULAR), NSAID là liệu pháp đầu tay cho bệnh nhân Viêm cột sống dính khớp có triệu chứng đau và cứng khớp. Bệnh nhân cần được dùng liều hiệu quả tối đa và đánh giá đáp ứng sau 2-4 tuần."
@@ -386,18 +68,18 @@
       ]
     },
     {
-      "title": "Bệnh nhân nam 32 tuổi, tiền sử viêm cột sống dính khớp, đau và hạn chế vận động khớp háng phải tăng dần",
-      "body": "<b>Bệnh nhân nam 32 tuổi</b>, kiến trúc sư, được chẩn đoán <b>Viêm cột sống dính khớp cách đây 4 năm</b>, đang được quản lý không thường xuyên bằng Meloxicam khi đau. Gần đây, bệnh nhân thấy <b>đau và hạn chế vận động khớp háng phải tăng dần</b>, khiến việc đi lại và ngồi xổm rất khó khăn. Kèm theo đó, bệnh nhân có một đợt <b>sưng, nóng, đỏ, đau ở gót chân trái</b>, đi lại phải nhón gót. Đau lưng vẫn còn nhưng ở mức độ vừa phải.<br><br>Khám lâm sàng: bệnh nhân đi lại tập tễnh. Cột sống thắt lưng hạn chế vận động mức độ trung bình. Khớp háng phải: tầm vận động gập, dạng và xoay trong đều giảm và đau. Gót chân trái: sưng nóng vùng bám của gân Achilles, ấn vào rất đau. Không viêm khớp khác, không tổn thương da hoặc mắt.<br><br><b>Xét nghiệm:</b> CRP 42 mg/L, VS 55 mm/giờ. X-quang khớp háng phải: hẹp khe khớp đồng tâm. Siêu âm vùng gót chân trái: viêm và dày điểm bám gân Achilles.",
+      "title": "Bệnh nhân nam 32 tuổi đau và hạn chế vận động khớp háng phải kèm sưng gót chân",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 32 tuổi, kiến trúc sư.<br><br><b>Bệnh sử:</b> Gần đây thấy đau và hạn chế vận động khớp háng phải tăng dần, khiến việc đi lại và ngồi xổm rất khó khăn. Kèm theo đó, bệnh nhân có một đợt sưng, nóng, đỏ, đau ở gót chân trái, đi lại phải nhón gót. Đau lưng vẫn còn nhưng ở mức độ vừa phải.<br><br><b>Tiền sử:</b> Được chẩn đoán Viêm cột sống dính khớp cách đây 4 năm, đang được quản lý không thường xuyên bằng Meloxicam khi đau. Không ghi nhận bệnh lý khác.<br><br><b>Khám lâm sàng:</b> Bệnh nhân đi lại tập tễnh. Sinh hiệu ổn. Khám cột sống thắt lưng có các dấu hiệu hạn chế vận động mức độ trung bình. Khám khớp háng phải: tầm vận động gập, dạng và xoay trong đều giảm và đau. Khám gót chân trái thấy sưng nóng vùng bám của gân Achilles, ấn vào rất đau. Không có biểu hiện viêm các khớp khác hay tổn thương da, mắt.<br><br><b>Xét nghiệm:</b> CRP 42 mg/L, VS 55 mm/giờ. X-quang khớp háng phải cho thấy hình ảnh hẹp khe khớp đồng tâm. Siêu âm vùng gót chân trái cho thấy hình ảnh viêm và dày điểm bám gân Achilles.",
       "questions": [
         {
           "q": "Các triệu chứng ở khớp háng và gót chân của bệnh nhân được gọi là gì?",
           "options": [
-            "Biểu hiện thể trục và viêm điểm bám gân.",
             "Biểu hiện khớp ngoại biên (viêm khớp háng) và viêm điểm bám gân.",
-            "Thoái hóa khớp háng thứ phát và viêm bao hoạt dịch.",
-            "Hoại tử vô khuẩn chỏm xương đùi và gai xương gót."
+            "Hoại tử vô khuẩn chỏm xương đùi và gai xương gót.",
+            "Biểu hiện thể trục và viêm điểm bám gân.",
+            "Thoái hóa khớp háng thứ phát và viêm bao hoạt dịch."
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "Viêm cột sống dính khớp có thể có các biểu hiện ngoài cột sống. Viêm khớp háng là biểu hiện khớp ngoại biên thường gặp và nặng nề nhất. Sưng đau gót chân là biểu hiện kinh điển của viêm điểm bám gân (enthesitis)."
         },
         {
@@ -414,23 +96,23 @@
         {
           "q": "Tổn thương khớp háng trong Viêm cột sống dính khớp là một yếu tố tiên lượng nặng. Hậu quả cuối cùng của nó nếu không được kiểm soát tốt là gì?",
           "options": [
+            "Hình thành các nang hoạt dịch lớn.",
             "Dính và thay thế hoàn toàn khớp háng.",
             "Trật khớp háng tái đi tái lại.",
-            "Gãy cổ xương đùi.",
-            "Hình thành các nang hoạt dịch lớn."
+            "Gãy cổ xương đùi."
           ],
-          "answer": 0,
+          "answer": 1,
           "explain": "Viêm khớp háng trong Viêm cột sống dính khớp có xu hướng tiến triển đến hẹp khe khớp, xơ xương dưới sụn và cuối cùng là dính khớp hoàn toàn, dẫn đến mất chức năng vận động và tàn phế nặng nề, thường đòi hỏi phẫu thuật thay khớp háng."
         },
         {
           "q": "Ngoài NSAID, phương pháp điều trị tại chỗ nào có thể được xem xét cho tình trạng viêm gân Achilles cấp tính của bệnh nhân?",
           "options": [
-            "Chiếu tia hồng ngoại.",
-            "Tiêm corticoid tại chỗ.",
             "Xoa bóp, bấm huyệt.",
-            "Phẫu thuật cắt lọc."
+            "Chiếu tia hồng ngoại.",
+            "Phẫu thuật cắt lọc.",
+            "Tiêm corticoid tại chỗ."
           ],
-          "answer": 1,
+          "answer": 3,
           "explain": "Trong trường hợp viêm điểm bám gân cấp tính và khu trú, việc tiêm corticoid tại chỗ (cần thận trọng để tránh tiêm trực tiếp vào gân) có thể giúp giảm nhanh triệu chứng viêm và đau, bên cạnh việc sử dụng NSAID toàn thân."
         },
         {
@@ -438,36 +120,36 @@
           "options": [
             "Methotrexate.",
             "Colchicine.",
-            "Thuốc sinh học kháng TNF-α (ví dụ: Adalimumab, Etanercept).",
-            "Allopurinol."
+            "Allopurinol.",
+            "Thuốc sinh học kháng TNF-α (ví dụ: Adalimumab, Etanercept)."
           ],
-          "answer": 2,
+          "answer": 3,
           "explain": "Đối với bệnh nhân có triệu chứng thể trục và/hoặc viêm khớp háng hoạt động dai dẳng không đáp ứng với ít nhất 2 loại NSAID, thuốc sinh học kháng TNF-α là lựa chọn điều trị được ưu tiên. Các thuốc này đã được chứng minh là rất hiệu quả trong việc kiểm soát hoạt động bệnh, cải thiện chức năng và làm chậm tiến triển tổn thương cấu trúc. Methotrexate có ít hiệu quả với thể trục."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nữ 29 tuổi đau, đỏ và nhìn mờ mắt trái đột ngột, kèm tiền sử đau lưng kiểu viêm",
-      "body": "<b>Bệnh nhân nữ 29 tuổi</b>, nhân viên ngân hàng, đến khám chuyên khoa Mắt vì <b>đau, đỏ và nhìn mờ ở mắt trái đột ngột từ 2 ngày</b>, kèm chói mắt, sợ ánh sáng và chảy nước mắt nhiều. <b>Đây là lần thứ hai</b> bệnh nhân bị như vậy trong vòng 18 tháng. Khi hỏi kỹ, bệnh nhân cho biết cũng thường bị <b>đau lưng vùng thấp về đêm và sáng sớm, cứng khớp buổi sáng khoảng 45 phút</b>, triệu chứng này đã có từ vài năm nhưng bệnh nhân chỉ nghĩ là do ngồi nhiều.<br><br>Khám mắt: mi mắt sưng nhẹ, kết mạc cương tụ rìa, đèn khe phát hiện tế bào và flare trong tiền phòng, đồng tử co nhỏ. <b>Chẩn đoán: Viêm màng bồ đào trước cấp.</b> Khám cơ xương khớp: đau khi ấn khớp cùng chậu hai bên, hạn chế nhẹ tầm vận động cột sống thắt lưng. Chỉ số Schober 10/13.5 cm.<br><br><b>Xét nghiệm:</b> CRP 28 mg/L, <b>HLA-B27 dương tính</b>.",
+      "title": "Bệnh nhân nữ 29 tuổi đau, đỏ và nhìn mờ ở mắt trái đột ngột",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 29 tuổi, nhân viên ngân hàng.<br><br><b>Bệnh sử:</b> Đến khám chuyên khoa Mắt vì đau, đỏ và nhìn mờ ở mắt trái đột ngột từ 2 ngày nay. Bệnh nhân cảm thấy chói mắt, sợ ánh sáng và chảy nước mắt nhiều. Đây là lần thứ hai bệnh nhân bị như vậy trong vòng 18 tháng. Bệnh nhân cũng thường bị đau lưng vùng thấp, đặc biệt về đêm và sáng sớm, kèm cứng khớp buổi sáng khoảng 45 phút, kéo dài vài năm.<br><br><b>Tiền sử:</b> Viêm màng bồ đào đợt 1 cách đây 18 tháng.<br><br><b>Khám lâm sàng:</b> Khám mắt: mi mắt sưng nhẹ, kết mạc cương tụ rìa, khám bằng đèn khe phát hiện có tế bào và flare trong tiền phòng, đồng tử co nhỏ. Chẩn đoán là Viêm màng bồ đào trước cấp. Khám cơ xương khớp: đau khi ấn khớp cùng chậu hai bên và hạn chế nhẹ tầm vận động cột sống thắt lưng. Chỉ số Schober 10/13.5 cm.<br><br><b>Xét nghiệm:</b> CRP 28 mg/L, HLA-B27 dương tính.",
       "questions": [
         {
           "q": "Tình trạng ở mắt của bệnh nhân là một biểu hiện ngoài khớp thường gặp của bệnh lý nào?",
           "options": [
-            "Viêm khớp dạng thấp.",
-            "Lupus ban đỏ hệ thống.",
+            "Bệnh Gout.",
             "Viêm cột sống dính khớp.",
-            "Bệnh Gout."
+            "Lupus ban đỏ hệ thống.",
+            "Viêm khớp dạng thấp."
           ],
-          "answer": 2,
+          "answer": 1,
           "explain": "Viêm màng bồ đào trước cấp, tái phát, một bên là biểu hiện ngoài khớp thường gặp nhất của Viêm cột sống dính khớp, xảy ra ở khoảng 25-40% bệnh nhân. Thường nó là triệu chứng đầu tiên khiến bệnh nhân đi khám."
         },
         {
           "q": "Mối liên quan giữa viêm màng bồ đào trước cấp và kháng nguyên HLA-B27 là gì?",
           "options": [
+            "HLA-B27 chỉ liên quan đến viêm màng bồ đào ở người lớn tuổi.",
             "Không có mối liên quan nào được chứng minh.",
-            "HLA-B27 là yếu tố bảo vệ chống lại viêm màng bồ đào.",
             "Có một mối liên quan rất chặt chẽ, HLA-B27 dương tính ở khoảng 50% bệnh nhân viêm màng bồ đào trước cấp và làm tăng nguy cơ mắc bệnh cột sống đi kèm.",
-            "HLA-B27 chỉ liên quan đến viêm màng bồ đào ở người lớn tuổi."
+            "HLA-B27 là yếu tố bảo vệ chống lại viêm màng bồ đào."
           ],
           "answer": 2,
           "explain": "Có một mối liên kết rất mạnh giữa HLA-B27 và viêm màng bồ đào trước cấp. Khoảng một nửa số bệnh nhân bị tình trạng này có HLA-B27 dương tính. Ngược lại, những bệnh nhân Viêm cột sống dính khớp có HLA-B27 dương tính cũng có nguy cơ bị viêm màng bồ đào cao hơn."
@@ -475,21 +157,21 @@
         {
           "q": "Cơ chế bệnh sinh nào được cho là nền tảng chung cho cả biểu hiện tại mắt và tại cột sống?",
           "options": [
-            "Sự lắng đọng của các tinh thể cholesterol tại các cấu trúc của mắt và khớp.",
             "Một phản ứng viêm qua trung gian miễn dịch, trong đó các peptide từ vi khuẩn có thể gây ra phản ứng chéo với các tự kháng nguyên ở mắt và các điểm bám gân.",
-            "Tắc nghẽn các vi mạch máu nuôi dưỡng màng bồ đào và cột sống.",
-            "Sự thoái hóa của các sợi collagen loại II."
+            "Sự lắng đọng của các tinh thể cholesterol tại các cấu trúc của mắt và khớp.",
+            "Sự thoái hóa của các sợi collagen loại II.",
+            "Tắc nghẽn các vi mạch máu nuôi dưỡng màng bồ đào và cột sống."
           ],
-          "answer": 1,
-          "explain": "Giả thuyết \"bắt chước phân tử\" (molecular mimicry) là một trong những cơ chế được đưa ra. Theo đó, một tác nhân nhiễm khuẩn (ví dụ vi khuẩn đường ruột) có thể khởi phát một đáp ứng miễn dịch. Do sự tương đồng cấu trúc giữa peptide của vi khuẩn và các tự kháng nguyên có ở mắt và các điểm bám gân, hệ miễn dịch tấn công nhầm vào các mô của cơ thể, gây ra viêm ở cả hai vị trí. Vai trò của HLA-B27 có thể là do nó trình diện các peptide này một cách bất thường."
+          "answer": 0,
+          "explain": "Giả thuyết \"bắt chước phân tử\" (molecular mimicry) là một trong những cơ chế được đưa ra. Theo đó, một tác nhân nhiễm khuẩn (ví dụ vi khuẩn đường ruột) có thể khởi phát một đáp ứng miễn dịch. Do sự tương đồng cấu trúc giữa peptide của vi khuẩn và các tự kháng nguyên có ở mắt và các điểm bám gân, hệ miễn dịch tấn công nhằm vào các mô của cơ thể, gây ra viêm ở cả hai vị trí. Vai trò của HLA-B27 có thể là do nó trình diện các peptide này một cách bất thường."
         },
         {
           "q": "Biến chứng nguy hiểm nào tại mắt có thể xảy ra nếu viêm màng bồ đào trước không được điều trị đúng cách?",
           "options": [
-            "Khô mắt.",
+            "Viêm dây thần kinh thị.",
             "Dính đồng tử sau, glôcôm thứ phát, và đục thủy tinh thể.",
-            "Bong võng mạc.",
-            "Viêm dây thần kinh thị."
+            "Khô mắt.",
+            "Bong võng mạc."
           ],
           "answer": 1,
           "explain": "Viêm màng bồ đào trước gây ra phản ứng viêm trong tiền phòng, nếu không được kiểm soát, các chất tiết viêm có thể gây dính bờ đồng tử vào mặt trước thủy tinh thể (dính đồng tử sau), cản trở lưu thông thủy dịch gây tăng nhãn áp (glôcôm thứ phát), và thúc đẩy quá trình đục thủy tinh thể, dẫn đến mất thị lực vĩnh viễn."
@@ -508,38 +190,38 @@
       ]
     },
     {
-      "title": "Bệnh nhân nam 45 tuổi, viêm cột sống dính khớp 20 năm, khó thở và nặng ngực khi gắng sức ngày càng tăng",
-      "body": "<b>Bệnh nhân nam 45 tuổi</b>, thợ mộc, mắc Viêm cột sống dính khớp 20 năm, điều trị không liên tục. Bệnh nhân đến khám vì <b>khó thở và nặng ngực khi gắng sức ngày càng tăng</b>. Không ho, không sốt, không đau ngực kiểu màng phổi. Đau lưng đã giảm nhiều so với lúc trẻ nhưng bệnh nhân cảm thấy <b>cột sống và lồng ngực rất cứng, khó xoay trở</b>.<br><br>Khám lâm sàng: tỉnh, thể trạng trung bình, không có dấu hiệu suy hô hấp lúc nghỉ, SpO₂ 95% khí trời. Lồng ngực gần như không di động theo nhịp thở, bệnh nhân chủ yếu thở bằng cơ hoành. <b>Độ giãn lồng ngực chỉ đạt 1.5 cm</b> (bình thường > 5 cm). Cột sống lưng và cổ dính hoàn toàn, có gù rõ, mất hoàn toàn các đường cong sinh lý. <b>Dấu hiệu Forestier dương tính</b> (khoảng cách chẩm-tường > 0 cm). Phổi thông khí giảm ở hai đỉnh.<br><br><b>Đo chức năng hô hấp:</b> Rối loạn thông khí hạn chế — FVC giảm còn 60% so với dự đoán, FEV1 giảm tương ứng, tỉ lệ FEV1/FVC bình thường (85%).",
+      "title": "Bệnh nhân nam 45 tuổi khó thở và nặng ngực khi gắng sức",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 45 tuổi, thợ mộc.<br><br><b>Bệnh sử:</b> Đến khám vì cảm giác khó thở và nặng ngực khi gắng sức ngày càng tăng. Bệnh nhân không ho, không sốt, không đau ngực kiểu màng phổi. Đau lưng đã giảm nhiều so với lúc trẻ nhưng bệnh nhân cảm thấy cột sống và lồng ngực rất cứng, khó xoay trở.<br><br><b>Tiền sử:</b> Mắc Viêm cột sống dính khớp 20 năm, điều trị không liên tục.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, thể trạng trung bình, không có dấu hiệu suy hô hấp lúc nghỉ, SpO2 95% khí trời. Khám lồng ngực thấy gần như không di động theo nhịp thở, bệnh nhân chủ yếu thở bằng cơ hoành. Độ giãn lồng ngực đo ở khoang liên sườn IV chỉ được 1.5 cm (bình thường > 5 cm). Cột sống lưng và cổ dính hoàn toàn, có gù rõ, mất hoàn toàn các đường cong sinh lý. Dấu hiệu Forestier dương tính (khoảng cách chẩm - tường > 0 cm). Phổi thông khí giảm ở hai đỉnh.<br><br><b>Xét nghiệm:</b> Đo chức năng hô hấp cho thấy hình ảnh rối loạn thông khí hạn chế: Dung tích sống gắng sức (FVC) giảm còn 60% so với dự đoán, Thể tích thở ra gắng sức trong giây đầu tiên (FEV1) giảm tương ứng, nhưng tỉ lệ FEV1/FVC bình thường (85%).",
       "questions": [
         {
           "q": "Nguyên nhân gây ra tình trạng khó thở của bệnh nhân là gì?",
           "options": [
-            "Bệnh phổi kẽ do Viêm cột sống dính khớp.",
+            "Suy tim sung huyết.",
+            "Bệnh lồng ngực hạn chế thứ phát do dính các khớp sườn đốt sống.",
             "Tràn dịch màng phổi hai bên.",
-            "Bệnh lồng ngực hạn chế thứ phát do dính các khớp sườn-đốt sống.",
-            "Suy tim sung huyết."
+            "Bệnh phổi kẽ do Viêm cột sống dính khớp."
           ],
-          "answer": 2,
-          "explain": "Một trong những biến chứng của Viêm cột sống dính khớp giai đoạn muộn là sự dính của các khớp sườn-đốt sống và sườn-ức. Điều này làm lồng ngực trở nên cứng nhắc, không thể giãn nở tốt khi hít vào, dẫn đến bệnh lồng ngực hạn chế và suy giảm chức năng hô hấp."
+          "answer": 1,
+          "explain": "Một trong những biến chứng của Viêm cột sống dính khớp giai đoạn muộn là sự dính của các khớp sườn đốt sống và sườn ức. Điều này làm lồng ngực trở nên cứng nhắc, không thể giãn nở tốt khi hít vào, dẫn đến bệnh lồng ngực hạn chế và suy giảm chức năng hô hấp."
         },
         {
           "q": "Cơ chế nào giải thích cho sự phát triển của rối loạn thông khí hạn chế ở bệnh nhân này?",
           "options": [
-            "Sự xơ hóa của nhu mô phổi làm giảm độ đàn hồi của phổi.",
+            "Sự chèn ép của tim to lên phổi.",
             "Tình trạng viêm và dính các khớp nối giữa xương sườn và cột sống, làm giảm khả năng giãn nở của lồng ngực khi hít vào.",
-            "Yếu các cơ hô hấp, đặc biệt là cơ hoành.",
-            "Sự chèn ép của tim to lên phổi."
+            "Sự xơ hóa của nhu mô phổi làm giảm độ đàn hồi của phổi.",
+            "Yếu các cơ hô hấp, đặc biệt là cơ hoành."
           ],
           "answer": 1,
-          "explain": "Quá trình viêm điểm bám gân và cốt hóa dây chằng cũng xảy ra tại các khớp của lồng ngực. Khi các khớp này bị dính lại, lồng ngực mất đi sự linh hoạt cần thiết để thực hiện động tác hít vào-thở ra. Do đó, thể tích khí mà phổi có thể chứa bị hạn chế (giảm FVC), dẫn đến rối loạn thông khí hạn chế."
+          "explain": "Quá trình viêm điểm bám gân và cốt hóa dây chằng cũng xảy ra tại các khớp của lồng ngực. Khi các khớp này bị dính lại, lồng ngực mất đi sự linh hoạt cần thiết để thực hiện động tác hít vào thở ra. Do đó, thể tích khí mà phổi có thể chứa bị hạn chế (giảm FVC), dẫn đến rối loạn thông khí hạn chế."
         },
         {
           "q": "Hình ảnh X-quang cột sống kinh điển ở một bệnh nhân giai đoạn muộn như thế này được mô tả là gì?",
           "options": [
             "Hình ảnh \"cột sống tre\" (Bamboo spine).",
+            "Hình ảnh \"gai xương mỏ vẹt\".",
             "Hình ảnh \"đốt sống hình con cá\".",
-            "Hình ảnh \"tiêu xương hình bản đồ\".",
-            "Hình ảnh \"gai xương mỏ vẹt\"."
+            "Hình ảnh \"tiêu xương hình bản đồ\"."
           ],
           "answer": 0,
           "explain": "\"Cột sống tre\" là hình ảnh X-quang kinh điển của Viêm cột sống dính khớp giai đoạn cuối. Nó được tạo ra bởi sự kết hợp của (1) cốt hóa các dây chằng dọc trước và dây chằng gian gai tạo thành các cầu xương (syndesmophytes) mảnh, nối liền các thân đốt sống, và (2) dính các khớp liên mấu sau, làm cho toàn bộ cột sống trông giống như một thân tre."
@@ -547,19 +229,19 @@
         {
           "q": "Độ giãn lồng ngực là một chỉ số quan trọng để theo dõi khía cạnh nào của bệnh?",
           "options": [
-            "Mức độ hoạt động của bệnh.",
-            "Mức độ tổn thương khớp ngoại biên.",
             "Mức độ tổn thương cấu trúc và chức năng của lồng ngực.",
-            "Nguy cơ gãy xương cột sống."
+            "Mức độ tổn thương khớp ngoại biên.",
+            "Nguy cơ gãy xương cột sống.",
+            "Mức độ hoạt động của bệnh."
           ],
-          "answer": 2,
-          "explain": "Việc đo độ giãn lồng ngực là một phương pháp lâm sàng đơn giản và hữu ích để lượng giá mức độ ảnh hưởng của bệnh lên thành ngực. Sự suy giảm của chỉ số này theo thời gian phản ánh sự tiến triển của quá trình dính khớp sườn-đốt sống và là một yếu tố để theo dõi sự tàn phế chức năng."
+          "answer": 0,
+          "explain": "Việc đo độ giãn lồng ngực là một phương pháp lâm sàng đơn giản và hữu ích để lượng giá mức độ ảnh hưởng của bệnh lên thành ngực. Sự suy giảm của chỉ số này theo thời gian phản ánh sự tiến triển của quá trình dính khớp sườn đốt sống và là một yếu tố để theo dõi sự tàn phế chức năng."
         },
         {
           "q": "Biện pháp can thiệp không dùng thuốc nào là quan trọng nhất để duy trì chức năng hô hấp cho bệnh nhân Viêm cột sống dính khớp?",
           "options": [
-            "Nằm nghỉ ngơi nhiều.",
             "Đeo đai cố định lồng ngực.",
+            "Nằm nghỉ ngơi nhiều.",
             "Các bài tập vật lý trị liệu, đặc biệt là các bài tập hít thở sâu và duy trì tư thế tốt.",
             "Chế độ ăn giàu protein."
           ],
@@ -569,59 +251,59 @@
       ]
     },
     {
-      "title": "Bệnh nhân nam 38 tuổi, viêm cột sống dính khớp, thất bại với 2 loại NSAID, hoạt động bệnh rất cao",
-      "body": "<b>Bệnh nhân nam 38 tuổi</b>, được chẩn đoán Viêm cột sống dính khớp, HLA-B27 dương tính. Bệnh nhân đã điều trị bằng <b>Naproxen 500mg 2 lần/ngày trong 3 tháng</b> và sau đó là <b>Etoricoxib 90mg/ngày trong 3 tháng tiếp theo</b> nhưng các triệu chứng đau lưng và cứng khớp buổi sáng vẫn còn ở mức độ nặng. <b>Chỉ số ASDAS-CRP hiện tại là 3.8</b> (mức hoạt động bệnh rất cao). Bệnh nhân không có tiền sử lao, viêm gan virus, hay suy tim.<br><br>Khám lâm sàng: vẫn còn các dấu hiệu hạn chế vận động cột sống rõ và đau khớp cùng chậu. <b>CRP hiện tại là 45 mg/L</b>. Bác sĩ quyết định cần phải thay đổi chiến lược điều trị.",
+      "title": "Bệnh nhân nam 38 tuổi đau lưng và cứng khớp buổi sáng kéo dài dù dùng NSAID",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 38 tuổi.<br><br><b>Bệnh sử:</b> Bệnh nhân đã điều trị bằng Naproxen 500mg 2 lần/ngày trong 3 tháng và sau đó là Etoricoxib 90mg/ngày trong 3 tháng tiếp theo nhưng các triệu chứng đau lưng và cứng khớp buổi sáng vẫn còn ở mức độ nặng. Chỉ số hoạt động bệnh ASDAS-CRP hiện tại là 3.8 (mức hoạt động bệnh rất cao).<br><br><b>Tiền sử:</b> Được chẩn đoán Viêm cột sống dính khớp, HLA-B27 dương tính. Không có tiền sử lao, viêm gan virus, hay suy tim.<br><br><b>Khám lâm sàng:</b> Vẫn còn các dấu hiệu hạn chế vận động cột sống rõ và đau khớp cùng chậu.<br><br><b>Xét nghiệm:</b> CRP hiện tại là 45 mg/L.",
       "questions": [
         {
           "q": "Theo định nghĩa, tình trạng của bệnh nhân được xem là gì?",
           "options": [
-            "Bệnh lui hoàn toàn.",
             "Bệnh không đáp ứng với điều trị bằng NSAID.",
-            "Bệnh có biến chứng thần kinh.",
-            "Dị ứng với thuốc NSAID."
+            "Dị ứng với thuốc NSAID.",
+            "Bệnh lui hoàn toàn.",
+            "Bệnh có biến chứng thần kinh."
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "Bệnh nhân đã được điều trị bằng ít nhất hai loại NSAID khác nhau với liều tối ưu trong một khoảng thời gian đủ dài (tổng cộng 6 tháng) nhưng vẫn còn hoạt động bệnh ở mức cao (dựa trên triệu chứng lâm sàng và chỉ số ASDAS-CRP). Đây là định nghĩa của việc không đáp ứng với điều trị NSAID."
         },
         {
           "q": "Lựa chọn điều trị tiếp theo được khuyến cáo hàng đầu cho bệnh nhân này là gì?",
           "options": [
-            "Tăng liều NSAID lên gấp đôi.",
-            "Thêm thuốc Methotrexate vào phác đồ.",
             "Bắt đầu điều trị bằng một thuốc sinh học ức chế TNF-α.",
-            "Sử dụng một đợt corticoid liều cao đường tĩnh mạch."
+            "Tăng liều NSAID lên gấp đôi.",
+            "Sử dụng một đợt corticoid liều cao đường tĩnh mạch.",
+            "Thêm thuốc Methotrexate vào phác đồ."
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "Theo các hướng dẫn điều trị hiện hành (ASAS/EULAR), đối với bệnh nhân Viêm cột sống dính khớp thể trục có hoạt động bệnh cao dai dẳng mặc dù đã điều trị chuẩn bằng NSAID, liệu pháp sinh học (bắt đầu với thuốc ức chế TNF-α) là chỉ định tiếp theo. Methotrexate không có hiệu quả rõ rệt đối với các triệu chứng thể trục."
         },
         {
           "q": "Cơ chế tác dụng chính của thuốc ức chế TNF-α trong điều trị Viêm cột sống dính khớp là gì?",
           "options": [
-            "Ức chế sự tăng sinh của tế bào lympho B.",
-            "Trung hòa TNF-α, một cytokine tiền viêm then chốt, từ đó làm giảm chuỗi phản ứng viêm ở khớp và các điểm bám gân.",
             "Ức chế trực tiếp quá trình tạo xương bất thường.",
-            "Kích thích sản xuất các yếu tố chống viêm tự nhiên của cơ thể."
+            "Kích thích sản xuất các yếu tố chống viêm tự nhiên của cơ thể.",
+            "Trung hòa TNF-α, một cytokine tiền viêm then chốt, từ đó làm giảm chuỗi phản ứng viêm ở khớp và các điểm bám gân.",
+            "Ức chế sự tăng sinh của tế bào lympho B."
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "TNF-α (Yếu tố hoại tử u alpha) là một cytokine đóng vai trò trung tâm trong cơ chế bệnh sinh của Viêm cột sống dính khớp. Nồng độ của nó tăng cao trong huyết thanh và tại các vị trí viêm (khớp cùng chậu, cột sống). Bằng cách ức chế hoạt động của TNF-α, các thuốc sinh học này có thể làm gián đoạn hiệu quả chuỗi phản ứng viêm, dẫn đến cải thiện nhanh chóng các triệu chứng lâm sàng và các chỉ số viêm."
         },
         {
           "q": "Trước khi bắt đầu điều trị bằng thuốc ức chế TNF-α, xét nghiệm sàng lọc nào là bắt buộc phải thực hiện để đảm bảo an toàn cho bệnh nhân?",
           "options": [
             "Sàng lọc loãng xương bằng phương pháp DXA.",
+            "Sàng lọc rối loạn lipid máu.",
             "Sàng lọc bệnh lao tiềm ẩn (bằng test Mantoux hoặc IGRA) và viêm gan B, C.",
-            "Sàng lọc các bệnh lý ác tính bằng PET-CT.",
-            "Sàng lọc rối loạn lipid máu."
+            "Sàng lọc các bệnh lý ác tính bằng PET-CT."
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "Các thuốc ức chế TNF-α làm suy giảm miễn dịch, làm tăng nguy cơ tái hoạt của các nhiễm trùng tiềm ẩn. Do đó, việc sàng lọc lao tiềm ẩn (bằng test bì hoặc xét nghiệm IGRA, và X-quang ngực) và viêm gan virus B, C là bắt buộc trước khi khởi trị để có biện pháp dự phòng hoặc điều trị phù hợp, tránh các biến chứng nhiễm trùng nghiêm trọng."
         },
         {
           "q": "Chỉ số nào sau đây được sử dụng phổ biến để theo dõi mức độ hoạt động của bệnh và đánh giá đáp ứng điều trị một cách khách quan?",
           "options": [
-            "Nồng độ acid uric máu.",
-            "Chỉ số BASDAI (Bath Ankylosing Spondylitis Disease Activity Index) và ASDAS (Ankylosing Spondylitis Disease Activity Score).",
             "Số lượng tiểu cầu.",
+            "Chỉ số BASDAI (Bath Ankylosing Spondylitis Disease Activity Index) và ASDAS (Ankylosing Spondylitis Disease Activity Score).",
+            "Nồng độ acid uric máu.",
             "Tốc độ lọc cầu thận."
           ],
           "answer": 1,
@@ -630,27 +312,27 @@
       ]
     },
     {
-      "title": "Bệnh nhân nam 52 tuổi, cột sống dính hoàn toàn, ngã đập lưng vào cạnh bàn, đau cột sống ngực dữ dội",
-      "body": "<b>Bệnh nhân nam 52 tuổi</b>, mắc Viêm cột sống dính khớp 25 năm, có hình ảnh <b>cột sống tre trên X-quang</b>. Bệnh nhân bị ngã đập lưng vào cạnh bàn sau khi trượt chân trong nhà tắm. Sau ngã, bệnh nhân <b>đau dữ dội ở vùng cột sống ngực, không thể ngồi dậy hay đi lại được</b>, khác hẳn với cơn đau lưng mạn tính thường ngày. Bệnh nhân không có yếu liệt hay tê bì chân.<br><br>Khám tại cấp cứu: tỉnh, đau nhiều. Huyết động ổn định. <b>Ấn nhẹ vào mỏm gai đốt sống ngực T10 gây đau chói dữ dội</b>, có thể sờ thấy một khoảng trống hoặc sự gồ lên bất thường. Khám thần kinh chi dưới không phát hiện tổn thương.<br><br><b>CT-scan cột sống ngực:</b> đường gãy ngang qua cả 3 trụ của thân đốt sống T10 trên nền cột sống đã dính hoàn toàn.",
+      "title": "Bệnh nhân nam 52 tuổi đau dữ dội vùng cột sống ngực sau khi trượt ngã",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 52 tuổi.<br><br><b>Bệnh sử:</b> Bị ngã đập lưng vào cạnh bàn sau khi trượt chân trong nhà tắm. Sau ngã, bệnh nhân đau dữ dội ở vùng cột sống ngực, không thể ngồi dậy hay đi lại được, khác hẳn với cơn đau lưng mạn tính thường ngày. Bệnh nhân không có yếu liệt hay tê bì chân.<br><br><b>Tiền sử:</b> Mắc Viêm cột sống dính khớp 25 năm, có hình ảnh cột sống tre trên X-quang. Không có chấn thương đầu hay các vị trí khác.<br><br><b>Khám lâm sàng:</b> Tại phòng cấp cứu, bệnh nhân tỉnh, đau nhiều. Huyết động ổn định. Khám cột sống có một điểm đau chói dữ dội khi ấn nhẹ vào mỏm gai đốt sống ngực T10, có thể sờ thấy một khoảng trống hoặc sự gồ lên bất thường. Khám thần kinh chi dưới không phát hiện tổn thương.<br><br><b>Xét nghiệm:</b> Chụp CT scan cột sống ngực cho thấy hình ảnh đường gãy ngang qua cả 3 trụ của thân đốt sống T10 trên nền cột sống đã dính hoàn toàn.",
       "questions": [
         {
           "q": "Tình trạng bệnh nhân gặp phải là biến chứng gì của Viêm cột sống dính khớp giai đoạn muộn?",
           "options": [
             "Đợt cấp của bệnh viêm.",
-            "Gãy xương cột sống sau chấn thương nhẹ.",
             "Thoát vị đĩa đệm cấp tính.",
-            "Nhiễm trùng đĩa đệm."
+            "Nhiễm trùng đĩa đệm.",
+            "Gãy xương cột sống sau chấn thương nhẹ."
           ],
-          "answer": 1,
+          "answer": 3,
           "explain": "Gãy xương cột sống sau một chấn thương nhẹ hoặc thậm chí không có chấn thương (gãy xương do mỏi) là một biến chứng nghiêm trọng và ngày càng được ghi nhận nhiều ở bệnh nhân Viêm cột sống dính khớp lâu năm."
         },
         {
           "q": "Tại sao cột sống của bệnh nhân Viêm cột sống dính khớp giai đoạn muộn lại dễ bị gãy dù chỉ với một chấn thương nhẹ?",
           "options": [
+            "Do tác dụng phụ của thuốc NSAID gây yếu xương.",
             "Do tình trạng giảm tưới máu đến các thân đốt sống.",
-            "Do sự hiện diện của các u hạt viêm trong xương.",
             "Do cột sống trở nên cứng, mất đi sự linh hoạt và giống như một ống xương dài, giòn, đồng thời thường kèm theo loãng xương.",
-            "Do tác dụng phụ của thuốc NSAID gây yếu xương."
+            "Do sự hiện diện của các u hạt viêm trong xương."
           ],
           "answer": 2,
           "explain": "Cột sống dính khớp mất hết sự mềm dẻo và phân tán lực của các đĩa đệm và khớp liên mấu. Nó hoạt động như một cánh tay đòn dài và cứng. Khi có một lực tác động, thay vì được hấp thụ, toàn bộ lực sẽ tập trung vào một điểm, gây ra gãy xương. Tình trạng loãng xương thường đi kèm cũng làm xương trở nên giòn hơn và dễ gãy hơn."
@@ -658,10 +340,10 @@
         {
           "q": "Loại gãy xương nào là điển hình ở những bệnh nhân này?",
           "options": [
-            "Gãy lún thân đốt sống đơn thuần.",
-            "Gãy ngang, mất vững, thường đi qua cả đĩa đệm đã bị cốt hóa.",
             "Gãy mỏm gai đơn độc.",
-            "Trượt đốt sống do thoái hóa."
+            "Gãy ngang, mất vững, thường đi qua cả đĩa đệm đã bị cốt hóa.",
+            "Trượt đốt sống do thoái hóa.",
+            "Gãy lún thân đốt sống đơn thuần."
           ],
           "answer": 1,
           "explain": "Kiểu gãy điển hình là đường gãy ngang, thường đi qua một đĩa đệm đã bị cốt hóa (tổn thương Anderson). Vì cột sống đã dính thành một khối, đường gãy này thường phá vỡ cả 3 trụ của cột sống (trụ trước, giữa, và sau), gây ra tình trạng mất vững nghiêm trọng."
@@ -669,99 +351,99 @@
         {
           "q": "Tại sao một đường gãy xương ở những bệnh nhân này lại có nguy cơ tổn thương tủy sống rất cao?",
           "options": [
-            "Vì tủy sống ở những bệnh nhân này bị dính chặt vào ống sống.",
-            "Vì đường gãy thường rất mất vững, chỉ cần một di lệch nhỏ cũng có thể gây chèn ép hoặc cắt ngang tủy sống bên trong \"ống tre\" cứng nhắc.",
+            "Vì ống sống ở những bệnh nhân này thường bị hẹp sẵn.",
             "Vì bệnh nhân thường bị rối loạn đông máu đi kèm.",
-            "Vì ống sống ở những bệnh nhân này thường bị hẹp sẵn."
+            "Vì đường gãy thường rất mất vững, chỉ cần một di lệch nhỏ cũng có thể gây chèn ép hoặc cắt ngang tủy sống bên trong \"ống tre\" cứng nhắc.",
+            "Vì tủy sống ở những bệnh nhân này bị dính chặt vào ống sống."
           ],
-          "answer": 1,
-          "explain": "Do tính chất mất vững cao của ổ gãy, hai đầu xương gãy có thể di lệch đáng kể chỉ với những cử động nhỏ. Bên trong ống sống cứng, tủy sống có rất ít không gian để dịch chuyển, do đó nguy cơ bị chèn ép, đụng dập hoặc thậm chí đứt ngang bởi các mảnh xương di lệch là rất cao, có thể gây liệt không hồi phục."
+          "answer": 2,
+          "explain": "Do tính chất mất vững cao của gãy, hai đầu xương gãy có thể di lệch đáng kể chỉ với những cử động nhỏ. Bên trong ống sống cứng, tủy sống có rất ít không gian để dịch chuyển, do đó nguy cơ bị chèn ép, đụng dập hoặc thậm chí đứt ngang bởi các mảnh xương di lệch là rất cao, có thể gây liệt không hồi phục."
         },
         {
           "q": "Phương pháp điều trị tối ưu cho loại gãy xương này là gì?",
           "options": [
-            "Bất động bằng nẹp bột và nằm tại giường trong 3 tháng.",
-            "Dùng thuốc giảm đau mạnh và vật lý trị liệu sớm.",
             "Phẫu thuật cố định cột sống bằng dụng cụ kim loại.",
-            "Tiêm xi măng sinh học vào thân đốt sống bị gãy."
+            "Tiêm xi măng sinh học vào thân đốt sống bị gãy.",
+            "Bất động bằng nẹp bột và nằm tại giường trong 3 tháng.",
+            "Dùng thuốc giảm đau mạnh và vật lý trị liệu sớm."
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "Do nguy cơ mất vững và tổn thương thần kinh cao, hầu hết các trường hợp gãy xương cột sống trên nền Viêm cột sống dính khớp đều có chỉ định phẫu thuật. Mục tiêu của phẫu thuật là nắn chỉnh lại trục cột sống và cố định vững chắc ổ gãy bằng hệ thống nẹp vít, giúp bảo vệ các cấu trúc thần kinh và cho phép bệnh nhân vận động sớm."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nam 26 tuổi, viêm cột sống dính khớp, sưng toàn bộ ngón chân số 4 kèm tổn thương da vảy nến",
-      "body": "<b>Bệnh nhân nam 26 tuổi</b>, được chẩn đoán Viêm cột sống dính khớp thể trục, đến khám vì <b>đau và sưng ngón chân số 4 bàn chân phải từ 1 tuần</b>. Ngón chân sưng to toàn bộ, <b>hình khúc dồi</b>, có màu đỏ tím và đau khi đi lại. Bệnh nhân không sốt. Ngoài ra, bệnh nhân cũng có <b>các mảng da đỏ, bong vảy trắng ở da đầu và khuỷu tay</b>. Đau lưng kiểu viêm ở mức độ trung bình.<br><br>Khám lâm sàng: ngón chân 4 bên phải sưng nề, lan tỏa, mất các nếp nhăn da, ấn đau, trông giống hình ảnh <b>\"khúc dồi\" (dactylitis)</b>. Vùng da đầu và mặt duỗi khuỷu tay có các mảng hồng ban, giới hạn rõ, bề mặt phủ vảy bạc dễ bong. Khám cột sống có các dấu hiệu của viêm khớp cùng chậu.<br><br><b>Xét nghiệm:</b> CRP 25 mg/L, HLA-B27 dương tính.",
+      "title": "Bệnh nhân nam 26 tuổi đau và sưng ngón chân số 4 bàn chân phải",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 26 tuổi, nhân viên thiết kế đồ họa.<br><br><b>Bệnh sử:</b> Đến khám vì đau và sưng ngón chân số 4 bàn chân phải từ 1 tuần nay. Ngón chân sưng to toàn bộ, hình khúc dồi, có màu đỏ tím và đau khi đi lại. Bệnh nhân không sốt. Đau lưng kiểu viêm ở mức độ trung bình.<br><br><b>Tiền sử:</b> Đã được chẩn đoán Viêm cột sống dính khớp thể trục.<br><br><b>Khám lâm sàng:</b> Ngón chân 4 bên phải sưng nề lan tỏa, mất các nếp nhăn da, ấn đau (dactylitis). Vùng da đầu và mặt duỗi khuỷu tay có các mảng hồng ban, giới hạn rõ, bề mặt phủ vảy bạc dễ bong. Khám cột sống có các dấu hiệu của viêm khớp cùng chậu.<br><br><b>Xét nghiệm:</b> CRP 25 mg/L, HLA-B27 dương tính.",
       "questions": [
         {
           "q": "Sự kết hợp các triệu chứng ở bệnh nhân này gợi ý đến chẩn đoán cụ thể nào trong nhóm bệnh lý cột sống?",
           "options": [
             "Viêm khớp phản ứng.",
-            "Viêm khớp vảy nến thể cột sống.",
             "Viêm cột sống dính khớp vô căn.",
-            "Viêm khớp liên quan đến bệnh viêm ruột."
+            "Viêm khớp liên quan đến bệnh viêm ruột.",
+            "Viêm khớp vảy nến thể cột sống."
           ],
-          "answer": 1,
+          "answer": 3,
           "explain": "Bệnh nhân có biểu hiện viêm cột sống (đau lưng kiểu viêm, viêm khớp cùng chậu) kết hợp với các dấu hiệu đặc trưng của vảy nến (tổn thương da) và viêm khớp vảy nến (viêm ngón hình khúc dồi). Đây là bệnh cảnh điển hình của Viêm khớp vảy nến thể cột sống."
         },
         {
           "q": "Tình trạng sưng toàn bộ ngón chân của bệnh nhân (dactylitis) là do cơ chế nào?",
           "options": [
-            "Sự lắng đọng của tinh thể urat trong các khớp nhỏ của ngón chân.",
-            "Nhiễm trùng phần mềm và bao gân.",
             "Phản ứng viêm đồng thời của bao hoạt dịch các khớp, bao gân gập và gân duỗi, và phần mềm xung quanh của cả một ngón.",
-            "Tắc nghẽn hệ thống bạch huyết của ngón chân."
+            "Sự lắng đọng của tinh thể urat trong các khớp nhỏ của ngón chân.",
+            "Tắc nghẽn hệ thống bạch huyết của ngón chân.",
+            "Nhiễm trùng phần mềm và bao gân."
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "Viêm ngón (dactylitis) là một dấu hiệu đặc trưng của nhóm bệnh lý cột sống, đặc biệt là viêm khớp vảy nến. Nó không chỉ là viêm một khớp đơn thuần mà là hậu quả của quá trình viêm lan tỏa ảnh hưởng đến toàn bộ các cấu trúc trong một ngón, bao gồm khớp, bao gân và phần mềm, tạo ra hình ảnh sưng nề đặc trưng."
         },
         {
           "q": "Tổn thương da của bệnh nhân là biểu hiện đặc trưng của bệnh lý gì?",
           "options": [
+            "Lupus ban đỏ dạng đĩa.",
             "Nấm da.",
             "Vảy nến (Psoriasis).",
-            "Lupus ban đỏ dạng đĩa.",
             "Chàm (Eczema)."
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "Các mảng hồng ban, giới hạn rõ, phủ vảy bạc ở các vị trí tì đè như da đầu, khuỷu tay là tổn thương rất điển hình của bệnh vảy nến mảng thông thường."
         },
         {
           "q": "Ngoài thuốc NSAID, khi bệnh nhân có cả viêm khớp ngoại biên (dactylitis) và tổn thương da hoạt động, nhóm thuốc nào sau đây có hiệu quả cho cả hai biểu hiện?",
           "options": [
-            "Hydroxychloroquine.",
             "Các thuốc DMARDs kinh điển như Methotrexate hoặc Leflunomide.",
             "Allopurinol.",
+            "Hydroxychloroquine.",
             "Colchicine."
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "Các thuốc DMARDs kinh điển như Methotrexate (MTX) được chỉ định cho bệnh nhân viêm khớp vảy nến có biểu hiện viêm khớp ngoại biên (viêm nhiều khớp, viêm ngón). MTX có hiệu quả tốt trong việc kiểm soát cả triệu chứng khớp và cải thiện tổn thương da. Hydroxychloroquine thường được tránh dùng vì có nguy cơ gây bùng phát tổn thương da."
         },
         {
           "q": "So với Viêm cột sống dính khớp vô căn, hình ảnh cầu xương (syndesmophytes) trên X-quang cột sống của bệnh nhân Viêm khớp vảy nến thường có đặc điểm gì?",
           "options": [
-            "Mảnh mai và đối xứng.",
             "To, thô, và không đối xứng.",
             "Luôn đi kèm với loãng xương nặng.",
+            "Mảnh mai và đối xứng.",
             "Chỉ xuất hiện ở cột sống cổ."
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "Trong Viêm cột sống dính khớp vô căn, các cầu xương thường mảnh, mọc thẳng đứng và đối xứng hai bên. Ngược lại, trong Viêm khớp vảy nến, các cầu xương thường to hơn, thô hơn, mọc không liên tục, không đối xứng và đôi khi có hình dạng kỳ quặc, không theo quy luật."
         }
       ]
     },
     {
-      "title": "Bệnh nhân nam 42 tuổi, đang điều trị Etanercept, xuất hiện tiêu chảy phân máu và đau bụng",
-      "body": "<b>Bệnh nhân nam 42 tuổi</b>, mắc Viêm cột sống dính khớp 15 năm, đang điều trị bằng <b>Etanercept (thuốc ức chế TNF-α)</b> và cho đáp ứng tốt với các triệu chứng ở cột sống. Bệnh nhân đến khám vì <b>đi ngoài phân lỏng, có nhầy máu nhiều lần trong ngày, kèm đau quặn bụng và sụt 3 kg trong 1 tháng</b>. Bệnh nhân không sốt.<br><br>Khám lâm sàng: tỉnh, da niêm mạc nhợt nhẹ. Bụng mềm, ấn đau dọc theo khung đại tràng.<br><br><b>Nội soi đại tràng sigma:</b> niêm mạc phù nề, xung huyết, mất hình ảnh mạch máu, nhiều vết loét nông và dễ chảy máu. <b>Sinh thiết:</b> viêm loét đại tràng mạn tính, không đặc hiệu, phù hợp với bệnh viêm ruột (IBD).",
+      "title": "Bệnh nhân nam 42 tuổi đi ngoài phân lỏng nhầy máu kèm đau quặn bụng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 42 tuổi.<br><br><b>Bệnh sử:</b> Đến khám vì đi ngoài phân lỏng, có nhầy máu nhiều lần trong ngày, kèm theo đau quặn bụng và sụt 3 kg trong 1 tháng. Bệnh nhân không sốt.<br><br><b>Tiền sử:</b> Mắc Viêm cột sống dính khớp 15 năm, đang điều trị bằng Etanercept (một thuốc ức chế TNF-α) và cho đáp ứng tốt với các triệu chứng ở cột sống.<br><br><b>Khám lâm sàng:</b> Bệnh nhân tỉnh, da niêm mạc nhợt nhẹ. Bụng mềm, ấn đau dọc theo khung đại tràng.<br><br><b>Xét nghiệm:</b> Nội soi đại tràng sigma: hình ảnh niêm mạc phù nề, xung huyết, mất hình ảnh mạch máu, có nhiều vết loét nông và dễ chảy máu. Sinh thiết: viêm loét đại tràng mạn tính, không đặc hiệu, phù hợp với bệnh viêm ruột (IBD).",
       "questions": [
         {
           "q": "Tình trạng tiêu hóa của bệnh nhân là biểu hiện của bệnh lý nào thường đi kèm với Viêm cột sống dính khớp?",
           "options": [
-            "Hội chứng ruột kích thích.",
-            "Bệnh viêm ruột mạn tính (Inflammatory Bowel Disease - IBD).",
             "Nhiễm trùng đường ruột do Clostridium difficile.",
-            "Ung thư đại trực tràng."
+            "Bệnh viêm ruột mạn tính (Inflammatory Bowel Disease - IBD).",
+            "Ung thư đại trực tràng.",
+            "Hội chứng ruột kích thích."
           ],
           "answer": 1,
           "explain": "Sự kết hợp giữa bệnh lý cột sống và các triệu chứng đường ruột mạn tính (tiêu chảy phân máu, đau bụng) cùng với hình ảnh nội soi và mô bệnh học là rất điển hình cho bệnh viêm ruột (IBD), một biểu hiện ngoài khớp đã được biết rõ của Viêm cột sống dính khớp."
@@ -769,34 +451,34 @@
         {
           "q": "Mối liên quan về cơ chế bệnh sinh giữa Viêm cột sống dính khớp và IBD là gì?",
           "options": [
-            "Cả hai đều do cùng một loại vi khuẩn gây ra.",
-            "Có sự tương đồng về cơ địa di truyền (ví dụ: các gen liên quan đến IL-23/IL-17) và rối loạn điều hòa miễn dịch tại hàng rào niêm mạc ruột và các điểm bám gân.",
             "Viêm ruột là tác dụng phụ của thuốc điều trị Viêm cột sống dính khớp.",
-            "Không có mối liên quan, đây là sự trùng hợp ngẫu nhiên."
+            "Cả hai đều do cùng một loại vi khuẩn gây ra.",
+            "Không có mối liên quan, đây là sự trùng hợp ngẫu nhiên.",
+            "Có sự tương đồng về cơ địa di truyền (ví dụ: các gen liên quan đến IL-23/IL-17) và rối loạn điều hòa miễn dịch tại hàng rào niêm mạc ruột và các điểm bám gân."
           ],
-          "answer": 1,
-          "explain": "Viêm cột sống dính khớp và IBD có chung nhiều cơ chế bệnh sinh. Cả hai đều có nền tảng di truyền tương tự và đều liên quan đến một đáp ứng miễn dịch bất thường đối với hệ vi sinh vật đường ruột. Giả thuyết \"trục ruột-khớp\" (gut-joint axis) cho rằng tình trạng viêm ở ruột có thể dẫn đến sự di chuyển của các tế bào miễn dịch và các sản phẩm của vi khuẩn vào tuần hoàn, gây ra viêm tại các vị trí xa như khớp và cột sống."
+          "answer": 3,
+          "explain": "Viêm cột sống dính khớp và IBD có chung nhiều cơ chế bệnh sinh. Cả hai đều có nền tảng di truyền tương tự và đều liên quan đến một đáp ứng miễn dịch bất thường đối với hệ vi sinh vật đường ruột. Giả thuyết \"trục ruột - khớp\" (gut-joint axis) cho rằng tình trạng viêm ở ruột có thể dẫn đến sự di chuyển của các tế bào miễn dịch và các sản phẩm của vi khuẩn vào tuần hoàn, gây ra viêm tại các vị trí xa như khớp và cột sống."
         },
         {
           "q": "Khoảng bao nhiêu phần trăm bệnh nhân Viêm cột sống dính khớp có biểu hiện lâm sàng của bệnh viêm ruột (Crohn hoặc Viêm loét đại tràng)?",
           "options": [
+            "Trên 50%.",
             "Dưới 1%.",
-            "Khoảng 5-10%.",
             "Khoảng 25-30%.",
-            "Trên 50%."
+            "Khoảng 5-10%."
           ],
-          "answer": 1,
+          "answer": 3,
           "explain": "Tỷ lệ bệnh nhân Viêm cột sống dính khớp có biểu hiện IBD trên lâm sàng là khoảng 5-10%. Tuy nhiên, nếu tiến hành nội soi, có thể phát hiện tình trạng viêm niêm mạc ruột dưới lâm sàng ở một tỷ lệ cao hơn nhiều."
         },
         {
           "q": "Đối với một bệnh nhân có cả Viêm cột sống dính khớp và IBD hoạt động, loại thuốc sinh học nào sau đây được ưu tiên lựa chọn vì có hiệu quả trên cả hai bệnh?",
           "options": [
-            "Kháng thể đơn dòng ức chế TNF-α (ví dụ: Infliximab, Adalimumab).",
-            "Thuốc ức chế thụ thể TNF-α hòa tan (Etanercept).",
             "Thuốc ức chế IL-6 (ví dụ: Tocilizumab).",
-            "Thuốc ức chế tế bào B (ví dụ: Rituximab)."
+            "Thuốc ức chế tế bào B (ví dụ: Rituximab).",
+            "Kháng thể đơn dòng ức chế TNF-α (ví dụ: Infliximab, Adalimumab).",
+            "Thuốc ức chế thụ thể TNF-α hòa tan (Etanercept)."
           ],
-          "answer": 0,
+          "answer": 2,
           "explain": "Các kháng thể đơn dòng ức chế TNF-α như Infliximab và Adalimumab đã được phê duyệt và chứng minh hiệu quả cao trong điều trị cả Viêm cột sống dính khớp và bệnh viêm ruột (cả Crohn và Viêm loét đại tràng). Do đó, chúng là lựa chọn hàng đầu cho những bệnh nhân mắc đồng thời cả hai bệnh."
         },
         {
@@ -804,8 +486,8 @@
           "options": [
             "Vì Etanercept không ức chế được TNF-α ở niêm mạc ruột.",
             "Vì Etanercept là một protein tái tổ hợp, khác với các kháng thể đơn dòng, nó không gây chết tế bào theo chương trình (apoptosis) của các tế bào viêm và không trung hòa được dạng màng của TNF-α một cách hiệu quả.",
-            "Vì Etanercept làm tăng nguy cơ nhiễm trùng đường ruột.",
-            "Vì Etanercept chỉ có tác dụng trên khớp mà không có tác dụng toàn thân."
+            "Vì Etanercept chỉ có tác dụng trên khớp mà không có tác dụng toàn thân.",
+            "Vì Etanercept làm tăng nguy cơ nhiễm trùng đường ruột."
           ],
           "answer": 1,
           "explain": "Etanercept là một protein dung hợp, hoạt động như một thụ thể TNF-α hòa tan để \"bẫy\" TNF-α. Không giống như các kháng thể đơn dòng, nó không có khả năng gây ly giải các tế bào viêm biểu hiện TNF-α trên bề mặt màng tế bào. Cơ chế này được cho là quan trọng trong việc kiểm soát viêm tại niêm mạc ruột, giải thích tại sao Etanercept không hiệu quả, thậm chí có thể làm khởi phát hoặc nặng thêm IBD."
@@ -813,60 +495,60 @@
       ]
     },
     {
-      "title": "Bệnh nhân nam 60 tuổi, viêm cột sống dính khớp 30 năm, tiếng thổi tâm trương và block nhĩ thất phát hiện tình cờ",
-      "body": "<b>Bệnh nhân nam 60 tuổi</b>, được chẩn đoán Viêm cột sống dính khớp từ năm 30 tuổi, hiện có cột sống dính gần như hoàn toàn. Bệnh nhân đến khám định kỳ. Không có triệu chứng khó thở hay đau ngực rõ rệt.<br><br>Khám tim mạch: <b>tiếng thổi tâm trương ở khoang liên sườn 2-3 cạnh ức trái, lan dọc bờ trái xương ức</b>.<br><br><b>ECG:</b> block nhĩ thất cấp I (khoảng PR kéo dài 0.24 giây).<br><br><b>Siêu âm tim qua thành ngực:</b> hở van động mạch chủ mức độ trung bình-nhiều do giãn gốc động mạch chủ và dày lá van, chức năng tâm thu thất trái bảo tồn (EF 60%).",
+      "title": "Bệnh nhân nam 60 tuổi phát hiện tiếng thổi tâm trương và block nhĩ thất",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 60 tuổi.<br><br><b>Bệnh sử:</b> Đến khám định kỳ. Bệnh nhân không có triệu chứng khó thở hay đau ngực rõ rệt.<br><br><b>Tiền sử:</b> Được chẩn đoán Viêm cột sống dính khớp từ năm 30 tuổi, hiện có cột sống dính gần như hoàn toàn.<br><br><b>Khám lâm sàng:</b> Khám tim mạch nghe thấy tiếng thổi tâm trương ở khoang liên sườn 2-3 cạnh ức trái, lan dọc bờ trái xương ức.<br><br><b>Xét nghiệm:</b> Điện tâm đồ (ECG): block nhĩ thất cấp 1 (khoảng PR kéo dài 0.24 giây). Siêu âm tim qua thành ngực: hở van động mạch chủ mức độ trung bình-nhiều do giãn gốc động mạch chủ và dày lá van, chức năng tâm thu thất trái bảo tồn (EF 60%).",
       "questions": [
         {
           "q": "Tình trạng tim mạch của bệnh nhân là biến chứng gì của Viêm cột sống dính khớp?",
           "options": [
-            "Viêm cơ tim.",
-            "Bệnh van hai lá hậu thấp.",
+            "Bệnh tim thiếu máu cục bộ.",
             "Tổn thương gốc động mạch chủ và rối loạn dẫn truyền.",
-            "Bệnh tim thiếu máu cục bộ."
+            "Viêm cơ tim.",
+            "Bệnh van hai lá hậu thấp."
           ],
-          "answer": 2,
+          "answer": 1,
           "explain": "Các biến chứng tim mạch là những biểu hiện ngoài khớp quan trọng của Viêm cột sống dính khớp, đặc biệt ở bệnh nhân nam mắc bệnh lâu năm. Các biến chứng này bao gồm viêm gốc động mạch chủ (dẫn đến hở van động mạch chủ), xơ hóa hệ thống dẫn truyền (gây các mức độ block nhĩ thất khác nhau) và viêm cơ tim."
         },
         {
           "q": "Cơ chế bệnh sinh chính gây ra hở van động mạch chủ và block nhĩ thất ở bệnh nhân này là gì?",
           "options": [
-            "Quá trình viêm mạn tính (aortitis) tại gốc động mạch chủ và vách liên thất, dẫn đến xơ hóa, dày lên và mất chức năng.",
-            "Sự lắng đọng của cholesterol vào các lá van và hệ thống dẫn truyền.",
+            "Tăng huyết áp lâu năm gây giãn buồng tim.",
             "Nhiễm trùng trực tiếp tại van tim và nút nhĩ thất.",
-            "Tăng huyết áp lâu năm gây giãn buồng tim."
+            "Sự lắng đọng của cholesterol vào các lá van và hệ thống dẫn truyền.",
+            "Quá trình viêm mạn tính (aortitis) tại gốc động mạch chủ và vách liên thất, dẫn đến xơ hóa, dày lên và mất chức năng."
           ],
-          "answer": 0,
+          "answer": 3,
           "explain": "Quá trình viêm trong Viêm cột sống dính khớp không chỉ giới hạn ở các khớp. Nó có thể ảnh hưởng đến gốc động mạch chủ, gây viêm lớp áo giữa và áo ngoài (aortitis). Tình trạng viêm mạn tính này dẫn đến xơ hóa, làm dày thành động mạch chủ, giãn vòng van và dày các lá van, gây hở van. Khi quá trình xơ hóa này lan đến vách liên thất gần đó, nó có thể ảnh hưởng đến hệ thống dẫn truyền của tim (nút nhĩ thất, bó His), gây ra các rối loạn dẫn truyền."
         },
         {
           "q": "Biến chứng tim mạch nào được xem là đặc trưng nhất của Viêm cột sống dính khớp lâu năm?",
           "options": [
-            "Rung nhĩ.",
-            "Suy tim tâm trương.",
+            "Tăng áp động mạch phổi.",
             "Hở van động mạch chủ.",
-            "Tăng áp động mạch phổi."
+            "Suy tim tâm trương.",
+            "Rung nhĩ."
           ],
-          "answer": 2,
+          "answer": 1,
           "explain": "Hở van động mạch chủ, mặc dù không phải là phổ biến nhất, nhưng được coi là tổn thương van tim đặc trưng nhất của bệnh. Các rối loạn dẫn truyền, đặc biệt là block nhĩ thất hoàn toàn, cũng là một biến chứng quan trọng."
         },
         {
           "q": "Hướng theo dõi nào là quan trọng nhất đối với biến chứng tim mạch này?",
           "options": [
+            "Theo dõi huyết áp 24 giờ.",
             "Theo dõi nồng độ men tim định kỳ.",
             "Theo dõi điện tâm đồ và siêu âm tim định kỳ để đánh giá sự tiến triển của hở van và chức năng thất trái.",
-            "Theo dõi huyết áp 24 giờ.",
             "Chụp động mạch vành định kỳ."
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "Đối với bệnh nhân đã có hở van động mạch chủ, việc theo dõi định kỳ bằng siêu âm tim là rất cần thiết để đánh giá mức độ nặng của hở van, kích thước và chức năng của thất trái. ECG định kỳ giúp theo dõi sự tiến triển của các rối loạn dẫn truyền. Việc theo dõi này giúp xác định thời điểm cần can thiệp phẫu thuật tối ưu."
         },
         {
           "q": "Khi hở van động mạch chủ trở nên nặng và gây ra triệu chứng hoặc suy giảm chức năng thất trái, phương pháp điều trị triệt để là gì?",
           "options": [
+            "Đặt máy tạo nhịp tim.",
             "Điều trị bằng thuốc ức chế men chuyển.",
-            "Điều trị bằng thuốc chẹn beta.",
             "Phẫu thuật thay van động mạch chủ.",
-            "Đặt máy tạo nhịp tim."
+            "Điều trị bằng thuốc chẹn beta."
           ],
           "answer": 2,
           "explain": "Điều trị nội khoa (như thuốc ức chế men chuyển) có thể giúp giảm hậu gánh, nhưng không giải quyết được nguyên nhân cơ học. Khi hở van động mạch chủ trở nên nặng, gây ra triệu chứng (khó thở, đau ngực) hoặc bắt đầu làm suy giảm chức năng co bóp của thất trái (giảm EF) hoặc làm giãn thất trái đáng kể, phẫu thuật thay van động mạch chủ là phương pháp điều trị triệt để duy nhất để ngăn ngừa suy tim không hồi phục."
@@ -874,25 +556,25 @@
       ]
     },
     {
-      "title": "Bệnh nhân nữ 35 tuổi, viêm cột sống dính khớp không có bằng chứng trên X-quang, mong muốn có thai",
-      "body": "<b>Bệnh nhân nữ 35 tuổi</b>, được chẩn đoán <b>Viêm cột sống dính khớp không có bằng chứng trên X-quang (nr-axSpA)</b> cách đây 2 năm. Bệnh nhân có triệu chứng đau lưng kiểu viêm rõ rệt, HLA-B27 dương tính, và CRP tăng. Bệnh nhân <b>mong muốn có thai</b>. Hiện tại, bệnh đang hoạt động ở mức độ trung bình dù đang dùng Naproxen 500mg/ngày. Bệnh nhân lo lắng về việc sử dụng thuốc trong khi mang thai và ảnh hưởng của bệnh đến thai kỳ.",
+      "title": "Bệnh nhân nữ 35 tuổi đau lưng kiểu viêm mong muốn có thai",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 35 tuổi.<br><br><b>Bệnh sử:</b> Mong muốn có thai. Hiện tại, bệnh đang hoạt động ở mức độ trung bình dù đang dùng Naproxen 500mg/ngày. Bệnh nhân lo lắng về việc sử dụng thuốc trong khi mang thai và ảnh hưởng của bệnh đến thai kỳ.<br><br><b>Tiền sử:</b> Được chẩn đoán Viêm cột sống dính khớp không có bằng chứng trên X-quang (nr-axSpA) cách đây 2 năm.<br><br><b>Khám lâm sàng:</b> Có triệu chứng đau lưng kiểu viêm rõ rệt.<br><br><b>Xét nghiệm:</b> HLA-B27 dương tính, CRP tăng.",
       "questions": [
         {
           "q": "Chẩn đoán \"Viêm cột sống dính khớp không có bằng chứng trên X-quang\" (non-radiographic axial Spondyloarthritis) có nghĩa là gì?",
           "options": [
-            "Bệnh nhân không thực sự mắc bệnh Viêm cột sống dính khớp.",
-            "Bệnh nhân có tất cả các triệu chứng lâm sàng nhưng X-quang khớp cùng chậu vẫn bình thường hoặc chỉ có thay đổi tối thiểu.",
+            "Đây là một dạng bệnh lành tính và không cần điều trị.",
             "Bệnh chỉ ảnh hưởng đến các khớp ngoại biên.",
-            "Đây là một dạng bệnh lành tính và không cần điều trị."
+            "Bệnh nhân không thực sự mắc bệnh Viêm cột sống dính khớp.",
+            "Bệnh nhân có tất cả các triệu chứng lâm sàng nhưng X-quang khớp cùng chậu vẫn bình thường hoặc chỉ có thay đổi tối thiểu."
           ],
-          "answer": 1,
+          "answer": 3,
           "explain": "Nr-axSpA là một chẩn đoán trong phổ bệnh lý cột sống, dùng để chỉ những bệnh nhân có các triệu chứng lâm sàng và/hoặc xét nghiệm (HLA-B27, CRP tăng, hoặc MRI dương tính) của bệnh nhưng chưa có bằng chứng viêm khớp cùng chậu rõ ràng trên X-quang quy ước theo tiêu chuẩn New York. Nhiều bệnh nhân trong số này có thể tiến triển thành Viêm cột sống dính khớp có bằng chứng trên X-quang theo thời gian."
         },
         {
           "q": "Thăm dò hình ảnh nào có độ nhạy cao nhất để phát hiện tình trạng viêm khớp cùng chậu ở giai đoạn sớm (giai đoạn không X-quang)?",
           "options": [
-            "Siêu âm Doppler.",
             "Chụp cắt lớp vi tính (CT scan).",
+            "Siêu âm Doppler.",
             "Chụp cộng hưởng từ (MRI) với chuỗi xung STIR.",
             "Xạ hình xương."
           ],
@@ -903,34 +585,644 @@
           "q": "Lời khuyên nào là phù hợp nhất cho bệnh nhân về việc mang thai?",
           "options": [
             "Bệnh nhân tuyệt đối không nên mang thai.",
-            "Bệnh nhân nên cố gắng có thai khi bệnh đang trong giai đoạn ổn định nhất có thể và cần được tư vấn, theo dõi chặt chẽ bởi cả bác sĩ Cơ xương khớp và Sản khoa.",
             "Bệnh nhân nên ngừng tất cả các loại thuốc điều trị khớp trước khi có thai.",
+            "Bệnh nhân nên cố gắng có thai khi bệnh đang trong giai đoạn ổn định nhất có thể và cần được tư vấn, theo dõi chặt chẽ bởi cả bác sĩ Cơ xương khớp và Sản khoa.",
             "Bệnh sẽ tự thuyên giảm hoàn toàn trong quá trình mang thai."
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "Việc mang thai ở bệnh nhân Viêm cột sống dính khớp không bị chống chỉ định nhưng cần được lên kế hoạch cẩn thận. Thời điểm mang thai tốt nhất là khi bệnh đang ổn định. Cần có sự phối hợp giữa các chuyên khoa để điều chỉnh thuốc an toàn và theo dõi sát cả mẹ và con. Hoạt động của bệnh có thể thay đổi trong thai kỳ (một số cải thiện, một số không đổi hoặc nặng hơn)."
         },
         {
           "q": "Loại thuốc nào sau đây được coi là tương đối an toàn để tiếp tục sử dụng trong thai kỳ nhằm kiểm soát hoạt động bệnh nếu cần thiết?",
           "options": [
-            "Methotrexate.",
             "Leflunomide.",
             "Hầu hết các thuốc NSAID (đặc biệt trong 3 tháng đầu và 3 tháng giữa) và một số thuốc ức chế TNF-α như Certolizumab.",
+            "Methotrexate.",
             "Thalidomide."
           ],
-          "answer": 2,
+          "answer": 1,
           "explain": "Methotrexate và Leflunomide bị chống chỉ định tuyệt đối do nguy cơ gây quái thai. Các thuốc NSAID có thể được sử dụng thận trọng trong tam cá nguyệt thứ nhất và thứ hai nhưng phải ngừng trong tam cá nguyệt thứ ba do nguy cơ đóng sớm ống động mạch của thai nhi. Trong số các thuốc sinh học, Certolizumab pegol được xem là an toàn hơn cả vì nó ít qua hàng rào rau thai."
         },
         {
           "q": "Cơ chế nào giải thích tại sao MRI với chuỗi xung STIR lại nhạy trong việc phát hiện viêm khớp cùng chậu sớm?",
           "options": [
-            "Chuỗi xung STIR (Short Tau Inversion Recovery) rất nhạy với sự gia tăng lượng nước trong các mô, do đó có thể phát hiện tình trạng phù tủy xương (bone marrow edema) là dấu hiệu sớm của viêm cấp tính, trước cả khi có tổn thương cấu trúc.",
             "Chuỗi xung STIR có khả năng phát hiện các cầu xương nhỏ.",
             "Chuỗi xung STIR giúp đánh giá mật độ xương dưới sụn.",
+            "Chuỗi xung STIR (Short Tau Inversion Recovery) rất nhạy với sự gia tăng lượng nước trong các mô, do đó có thể phát hiện tình trạng phù tủy xương (bone marrow edema) là dấu hiệu sớm của viêm cấp tính, trước cả khi có tổn thương cấu trúc.",
             "Chuỗi xung STIR có khả năng đo lường nồng độ các cytokine tại khớp."
           ],
-          "answer": 0,
+          "answer": 2,
           "explain": "Tổn thương viêm ban đầu trong viêm khớp cùng chậu là tình trạng viêm và phù nề ở tủy xương của xương dưới sụn (osteitis). Chuỗi xung STIR trên MRI có khả năng triệt tiêu tín hiệu của mỡ (vốn có nhiều trong tủy xương) và làm tăng tín hiệu của nước. Do đó, vùng tủy xương bị phù nề (tăng hàm lượng nước) sẽ hiện lên rất sáng trên ảnh STIR, cho phép phát hiện viêm cấp tính với độ nhạy rất cao, ngay cả khi chưa có sự thay đổi về cấu trúc xương."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 24 tuổi đau thắt lưng và vùng mông luân phiên hai bên kéo dài 7 tháng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 24 tuổi, sinh viên kiến trúc.<br><br><b>Bệnh sử:</b> Đến khám vì đau thắt lưng và vùng mông luân phiên hai bên kéo dài 7 tháng nay. Cơn đau thường xuất hiện về đêm, làm bệnh nhân tỉnh giấc lúc rạng sáng, kèm cứng khớp lưng buổi sáng kéo dài hơn 45 phút. Tình trạng đau thuyên giảm rõ rệt khi vận động nhưng nghỉ ngơi hoàn toàn không đỡ.<br><br><b>Tiền sử:</b> Bệnh nhân không sốt, không sụt cân, không có tiền sử chấn thương.<br><br><b>Khám lâm sàng:</b> Mạch 80 l/p, huyết áp 110/70 mmHg, nhịp thở 16 l/p, BMI 21 kg/m². Nghiệm pháp Schober đo được 13/10 cm, ấn đau nhẹ vùng khớp cùng chậu hai bên. Khám thần kinh hai chi dưới bình thường, nghiệm pháp Lasègue âm tính hai bên.<br><br><b>Xét nghiệm:</b> Bạch cầu 7.5 G/L, CRP 28 mg/L (bình thường < 5 mg/L). Chụp X-quang khung chậu tư thế thẳng chưa ghi nhận bất thường cấu trúc xương hay hẹp khe khớp.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hội chứng lâm sàng phù hợp nhất ở bệnh nhân này.",
+          "options": [
+            "Căng cơ cạnh sống thắt lưng thấp.",
+            "Viêm khớp cột sống thể trục.",
+            "Bệnh lý rễ thần kinh thắt lưng.",
+            "Thoái hóa sụn khớp cùng chậu mạn."
+          ],
+          "answer": 1,
+          "explain": "Bệnh nhân nam trẻ tuổi có đau thắt lưng kiểu viêm mạn tính kéo dài trên 3 tháng (đau rạng sáng, cứng khớp lâu, vận động giảm đau) và chỉ số viêm tăng cao định hướng mạnh đến Viêm khớp cột sống thể trục. Dù X-quang bình thường, đây là thể bệnh không có tổn thương trên X-quang (nr-axSpA), không phải thoái hóa hay căng cơ."
+        },
+        {
+          "q": "Cơ chế bệnh sinh cốt lõi gây tổn thương tại khớp và cột sống trong bệnh lý này.",
+          "options": [
+            "Viêm mạn tính tại các điểm bám gân.",
+            "Lắng đọng phức hợp miễn dịch vi mạch.",
+            "Viêm màng hoạt dịch lan tỏa mạn tính.",
+            "Hiện tượng xơ hóa tủy xương mạn tính."
+          ],
+          "answer": 0,
+          "explain": "Tổn thương bệnh sinh đặc trưng và cốt lõi nhất của nhóm viêm khớp cột sống là tình trạng viêm điểm bám gân (Enthesitis), tức là vị trí các gân, dây chằng bám vào bề mặt xương, khác với viêm màng hoạt dịch trong viêm khớp dạng thấp."
+        },
+        {
+          "q": "Thăm dò chẩn đoán hình ảnh tiếp theo phù hợp nhất để xác định tổn thương.",
+          "options": [
+            "Xạ hình xương toàn thân đồng vị.",
+            "Chụp cắt lớp vi tính khung chậu.",
+            "Siêu âm khớp cùng chậu đầu dò.",
+            "Chụp cộng hưởng từ khớp cùng chậu."
+          ],
+          "answer": 3,
+          "explain": "Chụp cộng hưởng từ (MRI) khớp cùng chậu, đặc biệt là chuỗi xung STIR xóa mỡ, là tiêu chuẩn vàng để phát hiện tổn thương phù tủy xương (viêm hoạt động) ở giai đoạn sớm khi X-quang thường quy chưa cho thấy bất thường."
+        },
+        {
+          "q": "Lựa chọn điều trị nội khoa ưu tiên khởi đầu cho bệnh nhân này.",
+          "options": [
+            "Thuốc ức chế miễn dịch sinh học.",
+            "Thuốc kháng viêm không steroid.",
+            "Thuốc giảm đau trung ương nhóm opioid.",
+            "Corticosteroid toàn thân đường uống."
+          ],
+          "answer": 1,
+          "explain": "Theo hướng dẫn ASAS/EULAR, thuốc kháng viêm không steroid (NSAIDs) sử dụng liều tối ưu liên tục là điều trị nền tảng và ưu tiên số một cho viêm khớp cột sống thể trục. Corticosteroid toàn thân không được khuyến cáo."
+        },
+        {
+          "q": "Biến chứng cấu trúc mạn tính nào là hệ quả trực tiếp của cơ chế bệnh sinh chính.",
+          "options": [
+            "Lún xẹp đa thân đốt sống thắt lưng.",
+            "Hình thành hạt thấp dưới da vùng tỳ đè.",
+            "Hoại tử vô mạch chỏm xương đùi.",
+            "Cốt hóa hệ thống dây chằng dọc cột sống."
+          ],
+          "answer": 3,
+          "explain": "Quá trình viêm điểm bám gân mạn tính sẽ kích hoạt sự tân tạo xương phản ứng, dẫn đến quá trình cốt hóa các dây chằng dọc trước và dọc sau cột sống, dần hình thành các cầu xương (syndesmophytes) và cột sống hình cây tre."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 29 tuổi sưng đau khớp gối phải và gót chân trái",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 29 tuổi, thợ điện.<br><br><b>Bệnh sử:</b> Vào viện vì sưng đau khớp gối phải và đau vùng gót chân trái xuất hiện 2 tuần nay. Khai thác bệnh sử ghi nhận bệnh nhân thường xuyên bị đau râm ran vùng thắt lưng lan xuống mông suốt 2 năm qua, đặc biệt đau nhiều khi ngủ dậy vào buổi sáng.<br><br><b>Tiền sử:</b> Không có tiền sử chấn thương, không quan hệ tình dục không an toàn, tiêu tiểu bình thường.<br><br><b>Khám lâm sàng:</b> Mạch 85 l/p, huyết áp 125/80 mmHg, nhiệt độ 37.2°C. Khớp gối phải sưng nề, tràn dịch lượng vừa, không đỏ rực. Vùng gót chân trái sưng nhẹ và ấn đau chói tại vị trí bám của gân Achilles.<br><br><b>Xét nghiệm:</b> Bạch cầu 8.2 G/L, tốc độ máu lắng 45 mm/h, acid uric huyết thanh 320 µmol/L.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hội chứng bệnh lý khớp nền phù hợp nhất với toàn bộ bệnh cảnh.",
+          "options": [
+            "Viêm khớp dạng thấp huyết thanh.",
+            "Bệnh gút đa khớp cấp tính tiến triển.",
+            "Viêm khớp cột sống thể ngoại vi.",
+            "Viêm khớp phản ứng cấp tính."
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân nam trẻ tuổi có biểu hiện viêm khớp không đối xứng chi dưới (khớp gối), kèm theo viêm điểm bám gân (gân Achilles) trên nền tiền sử đau thắt lưng kiểu viêm kéo dài 2 năm. Hội chứng phù hợp nhất là Viêm khớp cột sống (Spondyloarthritis) có biểu hiện ngoại vi nổi trội."
+        },
+        {
+          "q": "Cấu trúc giải phẫu bị tổn thương viêm nguyên phát tại gót chân trái của bệnh nhân.",
+          "options": [
+            "Màng hoạt dịch mặt trước khớp cổ chân.",
+            "Điểm bám gân cơ vào tổ chức xương.",
+            "Bao hoạt dịch xung quanh gân gót.",
+            "Sụn khớp chày sên thoái hóa mạn tính."
+          ],
+          "answer": 1,
+          "explain": "Đau chói tại gót chân trong nhóm bệnh lý này là hệ quả của viêm điểm bám gân Achilles vào xương gót (Enthesitis), tổn thương đặc trưng nhất của sinh lý bệnh học viêm khớp cột sống."
+        },
+        {
+          "q": "Các biểu hiện tổn thương ngoài khớp thường gặp của nhóm bệnh lý này, TRỪ.",
+          "options": [
+            "Tổn thương vảy nến trên da.",
+            "Bệnh lý viêm ruột mạn tính.",
+            "Viêm màng bồ đào trước mắt.",
+            "Hạt thấp dưới da vùng tỳ đè."
+          ],
+          "answer": 3,
+          "explain": "Hạt thấp dưới da (Rheumatoid nodules) là biểu hiện ngoài khớp kinh điển của bệnh Viêm khớp dạng thấp, không phải của Viêm khớp cột sống. Viêm màng bồ đào, vảy nến và viêm ruột mạn (Crohn/UC) là các biểu hiện liên quan chặt chẽ với viêm khớp cột sống."
+        },
+        {
+          "q": "Lựa chọn thuốc chống thấp khớp tổng hợp cổ điển (csDMARD) phù hợp cho tình trạng sưng khớp ngoại vi hiện tại.",
+          "options": [
+            "Sulfasalazine đường uống duy trì kéo dài.",
+            "Methotrexate đường uống đơn độc.",
+            "Cyclophosphamide truyền tĩnh mạch chậm.",
+            "Hydroxychloroquine liều lượng thấp."
+          ],
+          "answer": 0,
+          "explain": "Sulfasalazine là thuốc csDMARD duy nhất có bằng chứng rõ ràng về hiệu quả điều trị tình trạng viêm khớp ngoại vi ở bệnh nhân viêm khớp cột sống. Thuốc này không có tác dụng trên biểu hiện viêm tại trục cột sống."
+        },
+        {
+          "q": "Xét nghiệm sinh học phân tử có giá trị định hướng cao cho chẩn đoán bệnh lý nền này.",
+          "options": [
+            "Kháng nguyên bạch cầu người nhóm B27.",
+            "Kháng thể kháng peptide citrulline vòng.",
+            "Kháng thể kháng nhân lan tỏa toàn thân.",
+            "Yếu tố dạng thấp huyết thanh hệ thống."
+          ],
+          "answer": 0,
+          "explain": "Kháng nguyên bạch cầu người HLA-B27 có mối liên hệ sinh bệnh học cực kỳ mạnh mẽ với viêm khớp cột sống và viêm cột sống dính khớp, giúp củng cố chẩn đoán phân biệt với các bệnh tự miễn khác như viêm khớp dạng thấp (RF, anti-CCP dương tính)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 58 tuổi đau chói dữ dội vùng lưng ngực thấp sau khi trượt ngã",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 58 tuổi, nông dân.<br><br><b>Bệnh sử:</b> Vào cấp cứu vì đau chói dữ dội vùng lưng ngực thấp sau khi trượt ngã đập mông xuống nền đất rạng sáng nay. Đau liên tục, không lan, tăng lên khi hít thở sâu hoặc thay đổi tư thế nhỏ.<br><br><b>Tiền sử:</b> Viêm cột sống dính khớp 20 năm, không điều trị thường xuyên, cột sống đã cứng hoàn toàn tư thế gù nhẹ.<br><br><b>Khám lâm sàng:</b> Mạch 95 l/p, huyết áp 140/90 mmHg, nhịp thở 22 l/p. Gù cột sống ngực rõ, ấn đau chói khu trú tại mỏm gai đốt sống T11-T12, có bầm tím nhẹ mô mềm xung quanh. Khám thần kinh: cảm giác và vận động hai chi dưới chưa phát hiện bất thường, phản xạ cơ vòng thắt bình thường.<br><br><b>Xét nghiệm:</b> Chụp X-quang cột sống ngực - thắt lưng thẳng nghiêng cho thấy hình ảnh cốt hóa toàn bộ dây chằng dọc nhưng không phát hiện rõ ràng đường gãy hở về xương.",
+      "questions": [
+        {
+          "q": "Biến chứng cấp tính nguy hiểm nhất cần được chẩn đoán loại trừ ngay.",
+          "options": [
+            "Viêm cơ thắt lưng chậu cấp tính.",
+            "Thoát vị khối nhân nhầy đĩa đệm.",
+            "Gãy ngang thân đốt sống cứng.",
+            "Viêm đĩa đệm đốt sống nhiễm khuẩn."
+          ],
+          "answer": 2,
+          "explain": "Bệnh nhân có cột sống \"hình cây tre\" do viêm cột sống dính khớp rất giòn và cứng, mất đi tính đàn hồi. Một sang chấn nhẹ (ngã đập mông) có thể gây gãy ngang qua thân đốt sống hoặc đĩa đệm đã cốt hóa. Đau chói khu trú sau ngã bắt buộc phải loại trừ gãy xương cấp tính."
+        },
+        {
+          "q": "Tình trạng bệnh lý đi kèm nào là yếu tố nguy cơ chính làm tăng tính mong manh của xương ở bệnh nhân này.",
+          "options": [
+            "Loãng xương thứ phát tại thân đốt sống.",
+            "Cốt hóa phì đại dây chằng vàng ống sống.",
+            "Bệnh lý xơ vữa động mạch chủ mạn tính.",
+            "Rối loạn chuyển hóa chất béo huyết thanh."
+          ],
+          "answer": 0,
+          "explain": "Viêm mạn tính và sự cứng khớp làm cho các bè xương xốp bên trong thân đốt sống không còn chịu lực cơ học linh hoạt, dẫn đến mất khoáng xương và loãng xương thứ phát nặng nề, làm xương cực kỳ dễ gãy (giòn như phấn)."
+        },
+        {
+          "q": "Thăm dò chẩn đoán hình ảnh tiếp theo bắt buộc để xác định tổn thương cấu trúc mấu chốt.",
+          "options": [
+            "Siêu âm phần mềm vùng lưng ngực thấp.",
+            "Đo mật độ xương phương pháp hấp thụ tia X.",
+            "Xạ hình tưới máu xương hệ thống toàn thân.",
+            "Chụp cắt lớp vi tính cột sống đa dãy."
+          ],
+          "answer": 3,
+          "explain": "X-quang thường quy rất khó phát hiện các đường gãy không di lệch trên nền cấu trúc xương đã cốt hóa phức tạp. Chụp cắt lớp vi tính (CT scan) cột sống đa dãy là tiêu chuẩn vàng khẩn cấp để phát hiện gãy xương ẩn (occult fracture) ở bệnh nhân viêm cột sống dính khớp."
+        },
+        {
+          "q": "Thái độ xử trí cấp cứu ban đầu ưu tiên tại khu vực tiếp đón.",
+          "options": [
+            "Hướng dẫn tập vận động kéo giãn vùng thắt lưng.",
+            "Khởi động thuốc ức chế yếu tố hoại tử u sớm.",
+            "Tiêm corticosteroid nội khớp liên mấu phía sau.",
+            "Bất động cột sống bằng thiết bị cố định chuyên dụng."
+          ],
+          "answer": 3,
+          "explain": "Ngay khi nghi ngờ gãy xương cột sống ở bệnh nhân viêm cột sống dính khớp, bước đầu tiên thiết yếu nhất là bất động cột sống chặt chẽ để ngăn ngừa sự di lệch thêm của mảnh xương gãy, bảo vệ tủy sống đang bị đe dọa."
+        },
+        {
+          "q": "Tình huống lâm sàng có thể tiến triển đột ngột dẫn đến tàn phế không hồi phục nếu bỏ qua chẩn đoán.",
+          "options": [
+            "Viêm phổi hít sau hội chứng trào ngược dạ dày.",
+            "Chèn ép tủy sống ngực do trượt khối xương gãy.",
+            "Đợt cấp viêm khớp ngoại vi mức độ nặng nề.",
+            "Nhồi máu mạc treo đại tràng cấp tính thuyên tắc."
+          ],
+          "answer": 1,
+          "explain": "Nguy cơ đáng sợ nhất của gãy ngang cột sống dính khớp là sự mất vững cơ sinh học trầm trọng. Nếu không được bất động và phẫu thuật cố định kịp thời, khối xương có thể trượt và chèn ép đứt ngang tủy sống ngực, gây liệt hai chi dưới và rối loạn cơ vòng vĩnh viễn."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 31 tuổi đau vùng thắt lưng chậu trên nền viêm loét đại trực tràng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 31 tuổi, nhân viên thiết kế đồ họa.<br><br><b>Bệnh sử:</b> Đến khám vì đau vùng thắt lưng chậu tái diễn liên tục 8 tháng nay, kèm cứng khớp buổi sáng khoảng 1 giờ. Cơn đau ảnh hưởng nhiều đến giấc ngủ đêm.<br><br><b>Tiền sử:</b> Tiêu chảy kéo dài xen kẽ phân nhầy máu suốt 3 năm qua, đã được nội soi và sinh thiết đại tràng chẩn đoán Viêm loét đại trực tràng chảy máu, hiện đang điều trị duy trì bằng Mesalazine.<br><br><b>Khám lâm sàng:</b> Mạch 80 l/p, huyết áp 110/70 mmHg, BMI 19 kg/m². Ấn đau chói tại vị trí khớp cùng chậu phải, các khớp ngoại vi không sưng nóng đỏ.<br><br><b>Xét nghiệm:</b> Hemoglobin 105 g/L, MCV 78 fL, CRP 45 mg/L. MRI khớp cùng chậu cho thấy hình ảnh phù tủy xương dưới sụn cấp tính.",
+      "questions": [
+        {
+          "q": "Chẩn đoán hội chứng bệnh lý xương khớp hiện tại.",
+          "options": [
+            "Viêm khớp cột sống thể đường ruột.",
+            "Viêm khớp phản ứng sau nhiễm khuẩn.",
+            "Viêm khớp dạng thấp huyết thanh âm.",
+            "Thoái hóa sụn khớp cùng chậu sớm."
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có biểu hiện viêm khớp cùng chậu và đau thắt lưng kiểu viêm trên nền bệnh lý viêm ruột mạn tính (Viêm loét đại trực tràng chảy máu). Bệnh cảnh này chẩn đoán là Viêm khớp cột sống thể liên quan đến đường ruột (Enteropathic arthritis)."
+        },
+        {
+          "q": "Nhóm thuốc nội khoa nào sau đây cần cực kỳ thận trọng hoặc chống chỉ định dùng kéo dài trên bệnh nhân này.",
+          "options": [
+            "Hoạt chất sinh học men vi sinh đường ruột.",
+            "Thuốc ức chế bơm proton niêm mạc dạ dày.",
+            "Thuốc kháng viêm không steroid không chọn lọc.",
+            "Thuốc giảm đau trung ương tổng hợp opioid."
+          ],
+          "answer": 2,
+          "explain": "Mặc dù NSAIDs là lựa chọn đầu tay cho đau thắt lưng kiểu viêm, nhưng ở bệnh nhân có IBD (bệnh Crohn, Viêm loét đại trực tràng), việc sử dụng NSAIDs kéo dài phải rất hạn chế vì nó làm mất lớp prostaglandin bảo vệ niêm mạc ruột, nguy cơ cao kích hoạt đợt bùng phát tiêu chảy xuất huyết nặng nề."
+        },
+        {
+          "q": "Cơ chế bệnh sinh giải thích sự liên quan mật thiết giữa hai bệnh lý ở bệnh nhân.",
+          "options": [
+            "Sự di trú qua lại của các lympho bào ruột đến mô khớp.",
+            "Suy giảm tuần hoàn mạc treo mạn tính thiếu máu.",
+            "Tác dụng phụ trực tiếp tích lũy của thuốc ức chế tiêu hóa.",
+            "Sự lắng đọng phức hợp miễn dịch lưu hành toàn thân."
+          ],
+          "answer": 0,
+          "explain": "Cơ chế bệnh sinh chia sẻ giữa ruột và khớp liên quan đến hệ vi sinh vật đường ruột (microbiome) tương tác với hệ thống miễn dịch của vật chủ (HLA-B27), kích hoạt các tế bào lympho T (như tế bào Th17) tại niêm mạc ruột di trú qua hệ tuần hoàn đến các cấu trúc điểm bám gân và khớp cùng chậu."
+        },
+        {
+          "q": "Lựa chọn điều trị sinh học tối ưu giúp kiểm soát đồng thời tổn thương trên cả hai hệ cơ quan.",
+          "options": [
+            "Thuốc ức chế phân tử nhỏ enzym Janus kinase hệ thống.",
+            "Thuốc kháng thể đơn dòng ức chế yếu tố hoại tử u.",
+            "Thuốc kháng Interleukin 6 dạng truyền tĩnh mạch liên tục.",
+            "Thuốc kháng thể đơn dòng ức chế interleukin 17 chọn lọc."
+          ],
+          "answer": 1,
+          "explain": "Thuốc ức chế yếu tố hoại tử u alpha (TNF-alpha inhibitors) như Infliximab, Adalimumab có hiệu quả cao trong việc kiểm soát cả viêm khớp cột sống và viêm ruột. Lưu ý quan trọng là các thuốc ức chế IL-17 (như Secukinumab) có tác dụng trên khớp nhưng lại không hiệu quả và thậm chí làm trầm trọng thêm bệnh viêm ruột."
+        },
+        {
+          "q": "Sự thay đổi chỉ số huyết học (Hemoglobin, MCV giảm) trên bệnh nhân phản ánh diễn biến gì.",
+          "options": [
+            "Xuất huyết rỉ rả niêm mạc ống tiêu hóa mạn tính.",
+            "Hội chứng rối loạn sinh tủy nguyên phát hệ thống.",
+            "Tan máu miễn dịch thứ phát tự kháng thể kháng hồng cầu.",
+            "Suy tủy xương thứ phát do độc tính thuốc điều trị khớp."
+          ],
+          "answer": 0,
+          "explain": "Tình trạng thiếu máu hồng cầu nhỏ nhược sắc (giảm Hb, giảm MCV) là biểu hiện của thiếu máu thiếu sắt mạn tính, hệ quả trực tiếp của tình trạng mất máu rỉ rả qua bề mặt viêm loét niêm mạc đại trực tràng kéo dài trong đợt hoạt động bệnh."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 34 tuổi đỏ mắt trái, đau nhức và chảy nước mắt liên tục",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 34 tuổi, giáo viên.<br><br><b>Bệnh sử:</b> Vào viện vì đột ngột đỏ mắt trái, đau nhức nhiều trong ổ mắt, chói sáng và chảy nước mắt liên tục từ ngày hôm qua. Mắt phải thị lực hoàn toàn bình thường.<br><br><b>Tiền sử:</b> Đã được chẩn đoán viêm khớp cột sống thể trục 3 năm nay, hiện đang điều trị kiểm soát bằng Naproxen 500mg x 2 lần/ngày.<br><br><b>Khám lâm sàng:</b> Mạch 75 l/p, huyết áp 120/75 mmHg. Khám mắt trái thấy hiện tượng cương tụ rìa giác mạc rõ, đồng tử co nhỏ méo mó, phản xạ ánh sáng lờ đờ, thị lực nhìn xa giảm nhẹ. Các khớp ngoại vi hai tay và hai chân không sưng đau.",
+      "questions": [
+        {
+          "q": "Biến chứng ngoài khớp cấp tính bệnh nhân đang mắc phải.",
+          "options": [
+            "Tăng nhãn áp góc đóng cấp tính.",
+            "Viêm màng bồ đào trước cấp tính.",
+            "Viêm kết mạc dị ứng theo mùa.",
+            "Viêm củng mạc hoại tử dạng nốt."
+          ],
+          "answer": 1,
+          "explain": "Mắt đỏ một bên cấp tính, đau nhức sâu, sợ ánh sáng (photophobia), cương tụ rìa giác mạc (ciliary flush) và đồng tử co nhỏ ở bệnh nhân viêm khớp cột sống là bệnh cảnh kinh điển của Viêm màng bồ đào trước cấp tính (Acute anterior uveitis)."
+        },
+        {
+          "q": "Bước xử trí lâm sàng ban đầu thiết yếu đối với tình trạng tại mắt trái.",
+          "options": [
+            "Tra thuốc kháng sinh phổ rộng nhỏ mắt liên tục.",
+            "Tăng gấp đôi liều thuốc kháng viêm không steroid.",
+            "Bơm rửa lệ đạo bằng dung dịch nước muối sinh lý.",
+            "Hội chẩn chuyên khoa mắt khám sinh hiển vị ngay."
+          ],
+          "answer": 3,
+          "explain": "Viêm màng bồ đào trước là một cấp cứu nhãn khoa có thể gây dính mống mắt và mất thị lực vĩnh viễn. Bước thiết yếu nhất là phải chuyển ngay đến bác sĩ chuyên khoa mắt để khám bằng đèn sinh hiển vi (slit-lamp) xác định tế bào viêm trong tiền phòng."
+        },
+        {
+          "q": "Thuốc điều trị tại chỗ thường được bác sĩ chuyên khoa chỉ định đặc hiệu cho biến chứng này.",
+          "options": [
+            "Thuốc nhỏ mắt kháng thụ thể histamin hệ thống.",
+            "Dung dịch nhỏ mắt chứa thành phần corticosteroid.",
+            "Nước mắt nhân tạo tổng hợp không chất bảo quản.",
+            "Mỡ tra mắt chứa kháng sinh nhóm đại thực bào."
+          ],
+          "answer": 1,
+          "explain": "Điều trị chuẩn cho viêm màng bồ đào trước không do nhiễm trùng là tra dung dịch corticosteroid nhỏ mắt liều cao tại chỗ để dập tắt phản ứng viêm tiền phòng, thường kết hợp với thuốc làm giãn đồng tử (như atropine/cyclopentolate) để ngăn ngừa dính mống mắt và giảm đau do co thắt thể mi."
+        },
+        {
+          "q": "Đặc điểm nào phù hợp nhất với đau thắt lưng kiểu viêm?",
+          "options": [
+            "Khởi phát sau 50 tuổi, tăng khi vận động và giảm khi nghỉ ngơi.",
+            "Cải thiện khi vận động và có thể đánh thức người bệnh vào nửa đêm gần sáng.",
+            "Chỉ đau ban ngày, không cứng lưng buổi sáng và không đáp ứng NSAID.",
+            "Khởi phát đột ngột sau gắng sức và giảm hoàn toàn khi vận động."
+          ],
+          "answer": 1,
+          "explain": "Đau lưng kiểu viêm thường khởi phát trước 40-45 tuổi, âm ỉ, cải thiện khi vận động, không cải thiện khi nghỉ và có thể gây đau về đêm hoặc cứng lưng buổi sáng."
+        },
+        {
+          "q": "Tiêu chuẩn vàng để phát hiện viêm hoạt động tại khớp cùng chậu trên chẩn đoán hình ảnh sớm.",
+          "options": [
+            "Hẹp khe khớp trên phim chụp X-quang thường quy.",
+            "Tăng hoạt độ phóng xạ khu trú trên xạ hình xương.",
+            "Cốt hóa dây chằng trên cắt lớp vi tính không tiêm.",
+            "Phù tủy xương trên chuỗi xung STIR cộng hưởng từ."
+          ],
+          "answer": 3,
+          "explain": "Chuỗi xung STIR (hoặc T2 xóa mỡ) trên Cộng hưởng từ (MRI) khớp cùng chậu có độ nhạy rất cao giúp phát hiện tình trạng phù tủy xương (Bone marrow edema), đây là bằng chứng duy nhất cho tình trạng viêm thể hoạt động (active sacroiliitis) khi chưa có tổn thương phá hủy cấu trúc xương."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 42 tuổi đau thắt lưng và mệt mỏi kéo dài dù điều trị celecoxib",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 42 tuổi, kỹ sư phần mềm.<br><br><b>Bệnh sử:</b> Dù đã tuân thủ sử dụng Celecoxib 400mg/ngày liên tục trong 4 tháng và tập vật lý trị liệu đều đặn hàng ngày, bệnh nhân vẫn cảm thấy đau thắt lưng nhiều và mệt mỏi, cứng khớp buổi sáng kéo dài 2 giờ.<br><br><b>Tiền sử:</b> Mắc viêm cột sống dính khớp 15 năm.<br><br><b>Khám lâm sàng:</b> Mạch 82 l/p, huyết áp 130/80 mmHg. Điểm số đánh giá hoạt động bệnh theo thang điểm BASDAI là 6.5/10.<br><br><b>Xét nghiệm:</b> CRP 35 mg/L (bình thường < 5 mg/L), chức năng gan thận bình thường.",
+      "questions": [
+        {
+          "q": "Đánh giá tình trạng hoạt động bệnh hiện tại của bệnh nhân.",
+          "options": [
+            "Bệnh hoạt động mức độ cao kháng trị với thuốc nội khoa nền.",
+            "Bệnh ở giai đoạn lui bệnh hoàn toàn và ổn định lâm sàng.",
+            "Bệnh tiến triển cấu trúc biến chứng tàn phế không hồi phục.",
+            "Bệnh bùng phát cấp tính thứ phát sau đợt nhiễm trùng."
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có chỉ số BASDAI > 4.0 và CRP tăng cao dù đã dùng ít nhất 2 đợt NSAIDs đủ liều liên tục tối thiểu 4 tuần. Điều này cho thấy bệnh đang hoạt động ở mức độ cao (high disease activity) và thất bại kháng trị với điều trị thuốc kháng viêm không steroid."
+        },
+        {
+          "q": "Bước điều trị nội khoa thay đổi tiếp theo phù hợp nhất theo khuyến cáo hiện hành.",
+          "options": [
+            "Thay thế bằng một loại thuốc kháng viêm không steroid khác.",
+            "Chuyển sang phẫu thuật chỉnh hình cột sống thắt lưng sớm.",
+            "Thêm thuốc corticosteroid đường uống liều thấp hàng ngày.",
+            "Bắt đầu liệu pháp điều trị bằng thuốc sinh học nhắm đích."
+          ],
+          "answer": 3,
+          "explain": "Theo hướng dẫn điều trị của ASAS/EULAR, khi bệnh nhân viêm khớp cột sống thể trục có mức độ hoạt động bệnh cao và thất bại với điều trị NSAIDs chuẩn, chỉ định bắt buộc tiếp theo là khởi động thuốc sinh học nhắm đích (TNF-alpha inhibitors hoặc IL-17 inhibitors). Corticosteroid toàn thân không có chỉ định."
+        },
+        {
+          "q": "Thăm dò sàng lọc bắt buộc phải thực hiện trước khi quyết định áp dụng phác đồ nội khoa mới.",
+          "options": [
+            "Sàng lọc bệnh lao tiềm ẩn bằng xét nghiệm huyết thanh đặc hiệu.",
+            "Đo phế dung đồ đánh giá chức năng hô hấp thông khí phổi.",
+            "Nội soi đại trực tràng toàn bộ tìm vi khuẩn đường ruột khuẩn.",
+            "Chụp cắt lớp vi tính lồng ngực độ phân giải cao toàn diện."
+          ],
+          "answer": 0,
+          "explain": "Trước khi bắt đầu liệu pháp sinh học (đặc biệt là thuốc kháng TNF-alpha), bệnh nhân bắt buộc phải được sàng lọc bệnh lao (Lao hoạt động và Lao tiềm ẩn) thông qua X-quang phổi kết hợp test Mantoux hoặc IGRA huyết thanh (QuantiFERON-TB) do nguy cơ bùng phát bệnh lao rất lớn."
+        },
+        {
+          "q": "Thang điểm lâm sàng ASDAS có ưu điểm hơn thang điểm BASDAI truyền thống trong việc theo dõi bệnh nhờ yếu tố nào.",
+          "options": [
+            "Dựa hoàn toàn vào mức độ đau chủ quan do người bệnh tự báo.",
+            "Có tính toán chỉ số phá hủy cấu trúc hình ảnh học trên phim.",
+            "Bỏ qua hoàn toàn các triệu chứng tại hệ thống khớp ngoại vi.",
+            "Tích hợp chỉ số phản ứng viêm hệ thống khách quan hệ thống."
+          ],
+          "answer": 3,
+          "explain": "ASDAS (Ankylosing Spondylitis Disease Activity Score) ra đời sau và ưu việt hơn BASDAI vì nó không chỉ phụ thuộc vào câu hỏi đánh giá chủ quan của bệnh nhân mà còn tích hợp khách quan nồng độ phản ứng viêm trong máu (CRP hoặc máu lắng) để đưa ra điểm số chính xác hơn về tình trạng viêm hệ thống."
+        },
+        {
+          "q": "Tác dụng phụ nghiêm trọng cần được tư vấn theo dõi chặt chẽ khi sử dụng nhóm thuốc nội khoa mới này.",
+          "options": [
+            "Tái hoạt động các quá trình nhiễm trùng mạn tính cơ hội.",
+            "Tăng huyết áp thứ phát mạn tính kháng trị nhiều loại thuốc.",
+            "Loét thủng niêm mạc dạ dày tá tràng và xuất huyết tiêu hóa.",
+            "Tổn thương tế bào gan cấp tính lan tỏa gây suy gan cấp."
+          ],
+          "answer": 0,
+          "explain": "Các thuốc sinh học ức chế miễn dịch nhắm đích (như kháng TNF, kháng IL-17) làm ức chế sâu sự bảo vệ miễn dịch qua trung gian tế bào, nên tác dụng phụ đáng ngại nhất là nguy cơ nhiễm trùng cơ hội nặng nề, đặc biệt là tái hoạt động bệnh Lao, nhiễm vi nấm mạn tính và viêm gan virus B."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 65 tuổi biến dạng gù nặng kèm khó thở và đánh trống ngực",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 65 tuổi, thợ mộc đã nghỉ hưu.<br><br><b>Bệnh sử:</b> Vào viện vì khó thở khi gắng sức nhẹ và những cơn đánh trống ngực xuất hiện vài tháng nay.<br><br><b>Tiền sử:</b> Mắc viêm cột sống dính khớp từ năm 30 tuổi với tình trạng cột sống biến dạng gù rất nặng.<br><br><b>Khám lâm sàng:</b> Mạch 96 l/p, huyết áp 150/60 mmHg, nhịp thở 20 l/p. Nghe tim thấy tiếng thổi tâm trương cường độ 3/6 ở mạn sườn trái, mạch ngoại vi nảy mạnh chìm sâu. Phổi không rale.<br><br><b>Xét nghiệm:</b> Điện tâm đồ: nhịp xoang chậm, khoảng PR kéo dài 260 ms. Siêu âm tim qua thành ngực sơ bộ: đường kính thất trái tâm trương tăng lên mức 65 mm.",
+      "questions": [
+        {
+          "q": "Tổn thương cấu trúc tim mạch thường gặp nhất giải thích cho triệu chứng lâm sàng khó thở trên.",
+          "options": [
+            "Bệnh cơ tim phì đại thất trái nguyên phát.",
+            "Tràn dịch màng ngoài tim lượng nhiều chèn ép.",
+            "Hẹp van hai lá hậu thấp mạn tính dày dính.",
+            "Hở van động mạch chủ mạn tính thể vừa."
+          ],
+          "answer": 3,
+          "explain": "Viêm gốc động mạch chủ (Aortitis) là biểu hiện ngoài khớp tim mạch kinh điển ở bệnh nhân viêm cột sống dính khớp lâu năm. Viêm mạn tính gây giãn gốc động mạch chủ, kéo giãn vòng van, dẫn đến hở van động mạch chủ (Aortic Regurgitation) mạn tính. Dấu hiệu khó thở, thổi tâm trương sườn trái là biểu hiện đặc trưng."
+        },
+        {
+          "q": "Đặc điểm sinh lý bệnh của chênh lệch huyết áp tâm thu và tâm trương rộng (150/60) ở bệnh nhân.",
+          "options": [
+            "Giảm thể tích nhát bóp thất trái và co thắt tĩnh mạch ngoại vi.",
+            "Chèn ép tim cấp làm giảm lượng máu trở về buồng tâm nhĩ.",
+            "Thể tích nhát bóp lớn kèm theo dòng máu trào ngược tâm trương.",
+            "Giảm sức cản mạch máu ngoại biên đột ngột nhiễm khuẩn."
+          ],
+          "answer": 2,
+          "explain": "Trong hở van động mạch chủ, máu từ động mạch chủ dội ngược về thất trái trong kỳ tâm trương làm huyết áp tâm trương tụt thấp (huyết áp 60 mmHg). Thất trái giãn lớn tống một lượng máu khổng lồ vào tâm thu làm huyết áp tâm thu tăng vọt (150 mmHg), tạo ra huyết áp chênh lệch (mạch nảy mạnh chìm sâu - mạch Corrigan)."
+        },
+        {
+          "q": "Cơ chế bệnh sinh cốt lõi gây tổn thương hệ thống dẫn truyền nhĩ thất trên điện tâm đồ.",
+          "options": [
+            "Tác dụng phụ mạn tính tích lũy của thuốc điều trị thấp khớp.",
+            "Nhồi máu cơ tim cũ vùng thành dưới thất trái cơ tim.",
+            "Lắng đọng tinh thể urat tại vị trí nút nhĩ thất hệ thống.",
+            "Quá trình xơ hóa từ gốc động mạch chủ lan xuống vách liên thất."
+          ],
+          "answer": 3,
+          "explain": "Quá trình xơ hóa và viêm nhiễm từ gốc động mạch chủ có xu hướng lan rộng xuống phía dưới vào vùng vách liên thất màng, nơi có cấu trúc bó His và nút nhĩ thất. Hệ quả là làm tổn thương đường dẫn truyền, gây ra các block nhĩ thất các cấp độ (như PR kéo dài trên ECG)."
+        },
+        {
+          "q": "Thăm dò cấu trúc động mạch hệ thống ưu tiên để đánh giá toàn diện nguy cơ phình tách.",
+          "options": [
+            "Siêu âm doppler hệ thống động mạch cảnh hai bên ngoài sọ.",
+            "Chụp cắt lớp vi tính động mạch chủ ngực có thuốc cản quang.",
+            "Chụp mạch vành qua da đánh giá tưới máu cơ tim cục bộ tổn thương.",
+            "Xạ hình tưới máu cơ tim gắng sức bằng chất đồng vị phóng xạ."
+          ],
+          "answer": 1,
+          "explain": "Để đánh giá mức độ giãn phình của gốc và đoạn lên động mạch chủ ngực - hệ quả trực tiếp của bệnh lý Aortitis - thăm dò hình ảnh tốt nhất và chính xác nhất là chụp cắt lớp vi tính (CT) động mạch chủ có tiêm thuốc cản quang."
+        },
+        {
+          "q": "Chỉ định can thiệp ngoại khoa ưu tiên được đặt ra trong tương lai gần.",
+          "options": [
+            "Phẫu thuật thay van tim nhân tạo và sửa chữa mỏm gốc động mạch.",
+            "Phẫu thuật bắc cầu nối chủ vành nhằm khắc phục thiếu máu cơ tim.",
+            "Chọc hút dịch màng ngoài tim giải ép tim cấp cứu dưới hướng siêu âm.",
+            "Đặt máy tạo nhịp tim vĩnh viễn buồng đơn nhĩ phải ngay lập tức."
+          ],
+          "answer": 0,
+          "explain": "Bệnh nhân có hở van động mạch chủ nặng, giãn thất trái và triệu chứng suy tim (khó thở), chỉ định tối ưu là phẫu thuật thay van động mạch chủ nhân tạo, thường kết hợp tạo hình hoặc thay thế gốc động mạch chủ bị giãn phình do viêm mạn tính."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 50 tuổi thở hụt hơi và nhanh mệt khi leo cầu thang",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 50 tuổi, tài xế lái xe.<br><br><b>Bệnh sử:</b> Phàn nàn về tình trạng thở hụt hơi và nhanh mệt khi leo cầu thang bộ.<br><br><b>Tiền sử:</b> Tiền sử được chẩn đoán đau lưng mạn tính từ khi 25 tuổi nhưng không điều trị thường xuyên.<br><br><b>Khám lâm sàng:</b> Mạch 80 l/p, huyết áp 125/80 mmHg, SpO2 96% khí trời. Độ giãn nở lồng ngực đo ở khoang liên sườn 4 chỉ đạt khoảng 1.5 cm. Khám phổi thấy rì rào phế nang giảm đều hai bên, không có tiếng rale bệnh lý.<br><br><b>Xét nghiệm:</b> X-quang phổi thẳng: hình ảnh dải xơ mờ đỉnh phổi hai bên, bóng tim có kích thước hoàn toàn bình thường.",
+      "questions": [
+        {
+          "q": "Cơ chế chính gây suy giảm chức năng hô hấp gắng sức ở bệnh nhân.",
+          "options": [
+            "Co thắt cơ trơn đường dẫn khí nhỏ lan tỏa phổi.",
+            "Tràn dịch màng phổi dịch thấm chèn ép phế nang.",
+            "Ứ khí phế nang mạn tính suy vách mỏng manh.",
+            "Hạn chế thông khí thứ phát cứng khớp lồng ngực."
+          ],
+          "answer": 3,
+          "explain": "Ở bệnh nhân viêm cột sống dính khớp tiến triển, tổn thương viêm và cốt hóa không chỉ ở cột sống mà còn ảnh hưởng đến hệ thống khớp sườn đốt sống và sườn ức. Sự cứng khớp lồng ngực làm lồng ngực không thể nở rộng khi hít vào, dẫn đến suy hô hấp do hạn chế thông khí cơ học thuần túy."
+        },
+        {
+          "q": "Kết quả đo phế dung đồ (Spirometry) dự kiến phù hợp với bệnh cảnh lâm sàng.",
+          "options": [
+            "Rối loạn thông khí hỗn hợp với test phục hồi phế quản dương tính.",
+            "Hội chứng tắc nghẽn thông khí mức độ nặng hoàn toàn không phục hồi.",
+            "Hội chứng hạn chế thông khí với dung tích sống giảm rõ rệt.",
+            "Kết quả thông số đo đạc hoàn toàn nằm trong giới hạn bình thường sinh lý."
+          ],
+          "answer": 2,
+          "explain": "Với cơ chế cứng khớp lồng ngực, phổi không thể giãn nở tối đa dù nhu mô phổi bình thường. Phế dung đồ sẽ ghi nhận hình ảnh rối loạn thông khí hạn chế (Restrictive lung disease), đặc trưng bởi sự suy giảm dung tích sống (FVC giảm, FEV1/FVC bảo tồn)."
+        },
+        {
+          "q": "Tổn thương xơ mờ đỉnh phổi trên X-quang thường bị chẩn đoán nhầm lẫn với bệnh lý khu trú nào.",
+          "options": [
+            "Lao phổi mạn tính tổn thương thâm nhiễm cũ.",
+            "Ung thư phế quản nguyên phát di căn lan.",
+            "Nấm phổi mạn tính dạng u hạt khu trú.",
+            "Viêm phổi thùy kẽ do vi khuẩn không điển hình."
+          ],
+          "answer": 0,
+          "explain": "Biểu hiện hiếm gặp nhưng rất đặc trưng của tổn thương nhu mô phổi ở bệnh nhân AS lâu năm là xơ hóa thùy đỉnh phổi (Apical pulmonary fibrosis). Hình ảnh X-quang thâm nhiễm và dải xơ mờ ở đỉnh phổi cực kỳ dễ bị chẩn đoán nhầm với tổn thương hang xơ của bệnh Lao mạn tính."
+        },
+        {
+          "q": "Biện pháp vật lý trị liệu hô hấp tối ưu thiết thực cho tình trạng của bệnh nhân.",
+          "options": [
+            "Bài tập hít thở sâu duy trì độ mềm dẻo khung lồng ngực thường xuyên.",
+            "Thở oxy liều thấp liên tục qua gọng kính mũi tại nhà mỗi ngày.",
+            "Thở áp lực dương liên tục ban đêm thông qua mặt nạ mũi miệng.",
+            "Nội soi phế quản hút đờm dãi giải phóng đường dẫn khí định kỳ."
+          ],
+          "answer": 0,
+          "explain": "Vì nguyên nhân cốt lõi là sự mất độ mềm dẻo của thành ngực, biện pháp quản lý hữu hiệu nhất để duy trì chức năng thông khí là thường xuyên tập vật lý trị liệu, cụ thể là các bài tập hít thở sâu gắng sức để tối đa hóa và duy trì độ nở của khớp sườn đốt sống."
+        },
+        {
+          "q": "Nghiệm pháp đo độ giãn nở lồng ngực được tính bằng sự chênh lệch chu vi tại thời điểm hô hấp nào.",
+          "options": [
+            "Thở ra bình thường và hít nhẹ nhàng.",
+            "Hít vào bình thường và nín thở sâu.",
+            "Thở ra tối đa và hít vào nín thở.",
+            "Hít vào tối đa và thở ra tối đa."
+          ],
+          "answer": 3,
+          "explain": "Độ giãn nở lồng ngực (Chest expansion) là một thông số theo dõi lâm sàng bắt buộc trong đánh giá viêm khớp cột sống. Chu vi lồng ngực được đo ngang mức liên sườn 4. Sự chênh lệch được tính giữa hai thời điểm: hít vào gắng sức tối đa và thở ra gắng sức tối đa. Mức bình thường là > 5 cm."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nữ 30 tuổi đau lan tỏa toàn thân, mệt mỏi và rối loạn giấc ngủ",
+      "body": "<b>Hành chính:</b> Bệnh nhân nữ, 30 tuổi, nhân viên kế toán.<br><br><b>Bệnh sử:</b> Đến khám tại phòng mạch nội khoa vì tình trạng đau lan tỏa toàn thân cơ xương, mệt mỏi và rối loạn giấc ngủ kéo dài 1 năm nay. Gần đây, bệnh nhân để ý cơn đau tập trung nhiều nhất ở vùng mông hai bên, luân phiên thay đổi bên trái và phải, đau thấu buốt về rạng sáng. Cứng khớp vùng lưng buổi sáng khoảng 1.5 giờ.<br><br><b>Tiền sử:</b> Từng được chẩn đoán mắc hội chứng đau xơ cơ ở tuyến cơ sở nhưng điều trị Pregabalin liên tục không đỡ.<br><br><b>Khám lâm sàng:</b> Mạch 78 l/p, huyết áp 110/70 mmHg. Ấn đau tại một số điểm tỳ đè cơ học và đau rõ chói vùng khớp cùng chậu.<br><br><b>Xét nghiệm:</b> CRP 32 mg/L, Hb 115 g/L. Chụp phim X-quang thường quy khung chậu chưa thấy tổn thương xơ xương hay hẹp khe khớp rõ ràng.",
+      "questions": [
+        {
+          "q": "Chẩn đoán phân biệt hội chứng viêm tự miễn cần được ưu tiên hàng đầu lúc này.",
+          "options": [
+            "Viêm khớp dạng thấp sớm thể đa khớp.",
+            "Hội chứng mệt mỏi mạn tính tâm thể.",
+            "Viêm cơ tự miễn hệ thống lan tỏa.",
+            "Viêm khớp cột sống thể trục điển hình."
+          ],
+          "answer": 3,
+          "explain": "Nữ bệnh nhân trẻ tuổi có triệu chứng đau lan tỏa dễ bị nhầm với đau xơ cơ (Fibromyalgia). Tuy nhiên, đặc điểm đau mông luân phiên, cứng khớp rạng sáng, đau thắt lưng kéo dài và CRP tăng cao là những cờ đỏ (red flags) bắt buộc phải chẩn đoán loại trừ xác định Viêm khớp cột sống thể trục (axSpA)."
+        },
+        {
+          "q": "Yếu tố lâm sàng quan trọng nhất giúp định hướng phân biệt bệnh lý này với hội chứng đau xơ cơ.",
+          "options": [
+            "Độ tuổi bệnh nhân trẻ và đặc thù nghề nghiệp tĩnh tại.",
+            "Tình trạng mệt mỏi toàn thân và rối loạn giấc ngủ ban đêm.",
+            "Tính chất đau thắt lưng kiểu viêm và tăng chỉ số sinh hóa viêm.",
+            "Tình trạng hoàn toàn không đáp ứng với thuốc giảm đau thần kinh."
+          ],
+          "answer": 2,
+          "explain": "Hội chứng đau xơ cơ gây đau cơ diện rộng nhưng là bệnh lý cơ năng, viêm hệ thống âm tính (CRP bình thường), đau không khu trú đặc hiệu tại khớp trục và không cứng khớp buổi sáng kéo dài. Đau kiểu viêm (cứng khớp, đau nửa đêm) và phản ứng viêm CRP là chìa khóa phân biệt axSpA với đau xơ cơ."
+        },
+        {
+          "q": "Sự chậm trễ chẩn đoán (diagnostic delay) ở nhóm bệnh nhân nữ giới mắc bệnh lý này thường xuất phát từ nguyên nhân nào.",
+          "options": [
+            "Biểu hiện lâm sàng không điển hình giai đoạn sớm nhầm lẫn.",
+            "Tỷ lệ dương tính giả cao của kháng nguyên gen B27.",
+            "Phản ứng quá mẫn nặng nề với các loại thuốc kháng viêm.",
+            "Bệnh tiến triển cấu trúc quá nhanh trên phim X-quang xương."
+          ],
+          "answer": 0,
+          "explain": "Bệnh viêm khớp cột sống trước đây được cho là chủ yếu ở nam giới. Ở nữ giới, biểu hiện bệnh thường khởi phát âm thầm hơn, ít viêm ngoại vi rầm rộ, tổn thương X-quang xuất hiện chậm, và thường đi kèm với các triệu chứng đau toàn thân, dẫn đến sự chậm trễ chẩn đoán nhiều năm do nhầm lẫn với đau cơ năng."
+        },
+        {
+          "q": "Thăm dò chẩn đoán hình ảnh chuyên sâu nào giúp thay đổi quyết định xác định chẩn đoán ở bệnh nhân này.",
+          "options": [
+            "Siêu âm hệ thống cơ vân vùng thắt lưng chậu mô mềm.",
+            "Chụp cộng hưởng từ cột sống thắt lưng và khớp cùng chậu từ tính.",
+            "Đo điện cơ đồ kim hệ thống các cơ cạnh sống thắt lưng.",
+            "Xạ hình tưới máu xương hệ thống toàn cơ thể đồng vị phóng xạ."
+          ],
+          "answer": 1,
+          "explain": "X-quang bình thường chưa đủ loại trừ bệnh. Ở bệnh nhân có CRP cao và lâm sàng nghi ngờ mạnh, chụp cộng hưởng từ (MRI) khớp cùng chậu là tiêu chuẩn vàng thiết yếu để phát hiện viêm mô xương tủy sớm (nr-axSpA), từ đó chẩn đoán xác định bệnh lý."
+        },
+        {
+          "q": "Biểu hiện tổn thương viêm mạn tính kéo dài không kiểm soát sẽ dẫn đến hậu quả cấu trúc xương mấu chốt nào.",
+          "options": [
+            "Teo đét khối cơ dựng sống vĩnh viễn gây vẹo lệch trục.",
+            "Quá trình phá hủy sụn khớp nhanh chóng mủ mạn tính.",
+            "Sự cốt hóa dây chằng và hình thành cầu xương dính khớp.",
+            "Hiện tượng lỏng lẻo hệ thống dây chằng chậu hông sau chấn thương."
+          ],
+          "answer": 2,
+          "explain": "Sinh bệnh học cốt lõi của viêm khớp cột sống là quá trình viêm mạn tính tại điểm bám gân, sau đó là giai đoạn sửa chữa bệnh lý kích thích tạo cốt bào. Quá trình này sẽ cốt hóa các dây chằng quanh cột sống, sinh ra cầu xương (syndesmophyte) và dẫn đến cứng khớp vĩnh viễn (dính khớp)."
+        }
+      ]
+    },
+    {
+      "title": "Bệnh nhân nam 27 tuổi đau vùng thắt lưng và mông bên phải kéo dài 4 tháng",
+      "body": "<b>Hành chính:</b> Bệnh nhân nam, 27 tuổi, lập trình viên.<br><br><b>Bệnh sử:</b> Đến khám nội khoa vì tình trạng đau vùng thắt lưng và mông bên phải kéo dài 4 tháng nay. Triệu chứng đau giảm đáng kể khi bệnh nhân tập bơi lội nhưng tăng lên buốt nhói vào những ngày nghỉ ngơi cuối tuần.<br><br><b>Tiền sử:</b> Gia đình có anh trai ruột mắc bệnh vảy nến da hệ thống lan tỏa.<br><br><b>Khám lâm sàng:</b> Mạch 80 l/p, huyết áp 120/80 mmHg, BMI 24 kg/m². Nghiệm pháp ngón tay chạm mặt đất còn cách khoảng 15 cm.<br><br><b>Xét nghiệm:</b> CRP 18 mg/L.",
+      "questions": [
+        {
+          "q": "Đột biến phân tử gen nào đóng vai trò cốt lõi trong cơ chế bệnh sinh miễn dịch của bệnh lý này.",
+          "options": [
+            "Gen mã hóa thụ thể phân tử yếu tố hoại tử u alpha.",
+            "Đột biến gen gây bệnh tự miễn hệ thống đơn gen bẩm sinh.",
+            "Phức hợp kháng nguyên bạch cầu người nhóm phân tử B27.",
+            "Kháng thể kháng peptide citrulline vòng dạng đặc hiệu."
+          ],
+          "answer": 2,
+          "explain": "Phức hợp kháng nguyên bạch cầu người HLA-B27 (Human Leukocyte Antigen B27) là yếu tố di truyền đóng vai trò nền tảng. Có khoảng 90% bệnh nhân viêm cột sống dính khớp mang gen HLA-B27 dương tính. Sự hiện diện của gen này kích hoạt sai lệch phản ứng của tế bào T gây viêm."
+        },
+        {
+          "q": "Trục cytokine viêm nhiễm nào được chứng minh là mục tiêu điều trị sinh học quan trọng nhất hiện nay đối với bệnh lý cột sống.",
+          "options": [
+            "Trục miễn dịch Interferon gamma và yếu tố phiên mã TGF beta.",
+            "Trục hóa hướng động bạch cầu Interleukin 1 và Interleukin 6.",
+            "Trục yếu tố sinh mạch máu biểu mô mô xơ hóa hệ thống.",
+            "Trục cytokine Interleukin 23 và phân tử interleukin 17."
+          ],
+          "answer": 3,
+          "explain": "Cơ chế bệnh sinh phân tử cốt lõi của viêm khớp cột sống tập trung vào con đường tín hiệu IL-23 / IL-17 axis. Việc phát hiện ra trục này đã mở đường cho các liệu pháp sinh học tiên tiến (như thuốc kháng IL-17: Secukinumab) trong việc kiểm soát hiệu quả quá trình viêm và tăng sinh màng xương."
+        },
+        {
+          "q": "Dấu hiệu tổn thương hệ thống gân cơ đặc trưng nào thường gặp trên lâm sàng ở nhóm bệnh lý tự miễn này.",
+          "options": [
+            "Viêm điểm bám gân gót Achilles mạn tính cứng.",
+            "Viêm bao gân nếp gấp vùng cổ tay ngón tay ngoại vi.",
+            "Viêm hội chứng chóp xoay mặt khớp vai sinh lý hẹp.",
+            "Viêm đứt gân cơ nhị đầu cẳng tay mạn tính dính."
+          ],
+          "answer": 0,
+          "explain": "Viêm điểm bám gân (Enthesitis) là tổn thương cấu trúc đặc hiệu nhất. Trên lâm sàng, biểu hiện hay gặp nhất và gây đau đớn cho người bệnh viêm khớp cột sống thể ngoại vi là viêm điểm bám gân gót Achilles hoặc viêm cân gan chân."
+        },
+        {
+          "q": "Theo tiêu chuẩn chẩn đoán ASAS, yếu tố nào KHÔNG nằm trong nhóm các đặc điểm lâm sàng viêm khớp cột sống.",
+          "options": [
+            "Tổn thương viêm ngón tay hoặc ngón chân hình khúc dồi.",
+            "Tích lũy hạt tophi dưới da vùng quanh khớp cơ học.",
+            "Đáp ứng lâm sàng tốt với thuốc kháng viêm không steroid.",
+            "Tiền sử cá nhân có viêm màng bồ đào trước ở mắt."
+          ],
+          "answer": 1,
+          "explain": "Theo tiêu chuẩn phân loại viêm khớp cột sống của Hiệp hội đánh giá viêm khớp cột sống quốc tế (ASAS), các \"Đặc điểm viêm khớp cột sống\" bao gồm: đau thắt lưng kiểu viêm, viêm khớp ngoại vi, viêm điểm bám gân gót, viêm ngón (dactylitis), vảy nến, Crohn/UC, đáp ứng tốt với NSAIDs, tiền sử gia đình, HLA-B27, và tăng CRP. Hạt tophi là biểu hiện của bệnh Gút, không nằm trong tiêu chuẩn ASAS."
+        },
+        {
+          "q": "Tư vấn giáo dục sức khỏe lối sống nào là nền tảng trong chiến lược quản lý dài hạn cho người bệnh.",
+          "options": [
+            "Nằm nghỉ ngơi tuyệt đối trên giường đệm mềm để giảm tải trọng.",
+            "Chế độ ăn kiêng nghiêm ngặt loại bỏ hoàn toàn protein thịt động vật.",
+            "Phẫu thuật phòng ngừa sự cốt hóa mô dây chằng ngay từ giai đoạn sớm.",
+            "Tập luyện thể dục thường xuyên nhằm duy trì độ linh hoạt cột sống."
+          ],
+          "answer": 3,
+          "explain": "Song song với điều trị bằng thuốc, việc tập luyện thể dục thể thao chuyên biệt (như bơi lội, tập kéo giãn cơ) là phương pháp điều trị không dùng thuốc nền tảng, giúp duy trì tư thế thẳng, ngăn ngừa cứng/dính cột sống và bảo tồn tối đa chức năng hô hấp cũng như vận động."
         }
       ]
     }
